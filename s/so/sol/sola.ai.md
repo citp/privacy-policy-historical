@@ -1,51 +1,166 @@
-> *The following text is extracted and transformed from the sola.ai privacy policy that was archived on 2018-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180426090736id_/https%3A//sola.ai/docs/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sola.ai privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903194622id_/https%3A//sola.ai/docs/privacy_policy.html) for the most accurate reproduction.*
 
 # Sola - Privacy policy
 
-**Privacy policy of the Sola project**
+PLAG Limited Privacy policy
 
-**(Version 24 October 2017)**
+Last updated: 23.05.2018
 
-The security of your personal information is important to us. We do not hold any liability for any personal data or any sensitive information you provided.
+Contents
 
-We follow generally accepted industry standards to protect the personal information submitted, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while our goal to use commercially acceptable ways to protect your personal information, we cannot guarantee it is absolutely secure. Please keep it in mind before submitting any information about yourself. Please note that information that you voluntarily make public in your user profile, or which you disclose by posting comments or inserting of the Content will be publicly available and viewable by others. We do not hold any liability for any information that you voluntarily choose to be public through such and/or other explicit actions.
+  1. 1.Your Data Controller 
 
-We only use personal information collected through the Sola project and our Services for the purposes described in the [Terms](https://sola.ai/docs/terms_of_service.html). For example, we may use information we collect:
+  2. 2.Personal Data We Collect 
 
-to provide our Services or information you request, and to process and complete any transactions;
+  3. 3.Why Personal Data Is Collected? 
 
-respond to your emails, submissions, questions, comments, requests, and complaints and provide customer service;
+  4. 4.Where We Store Your Personal Data 
 
-to monitor and analyze Sola project usage and trends, and to personalize and improve Sola project and our users' experiences on our site, such as providing ads, Content, or features that match their profiles or interests, and to increase Sola project functionality and user friendliness;
+  5. 5.Sharing and Disclosure of Personal Data to a Third Party 
 
-to send you confirmations, updates, security alerts, and support and administrative messages and otherwise facilitate your use of, and our administration and operation of, our site; and for any other purpose for which the information was collected.
+  6. 6.Cookies and Tracking Technologies 
 
-We will not share the personal information we collect from you through Sola project or our Services with third parties, except as described in the Terms. For example, we share information as follows:
+  7. 7.Children’s Online Privacy Protection 
 
-with service providers who are working with us in connection with the operation of our site or our Services;
+  8. 8.How Long Does We Store Data? 
 
-when you give us your consent to do so, including if we notify you on Sola project that the information you provide will be shared in a particular manner and you provide such information;
+  9. 9.Data Security and Retention 
 
-when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or respond to lawful requests or legal authorities, including responding to lawful subpoenas, warrants or court orders;
+  10. 10.Your Rights with Respect to Personal Data  
 
-You might be interested in inviting random people, whom you do not know but with whom you are interested in communicating through our products. In this event, please make sure you truly wish to share any of your information or data with such a person. Once you provide the information to such a person, we will not be able to guarantee that this person will not use this information against you, trade it or misuse it in any other way. We will not be able to prevent such misuse, nor will we be liable for it. We will only be able to block the account or delete the account of any user who violate our Privacy policy. However, once any information is provided by you directly to any person which is your friend or not through our products, we are not responsible for any consequences.
+  11. 11.Changes to This Privacy Policy 
 
-Certain information about users can be gathered automatically and stored inside log files. This information might include Internet protocol (IP) addresses, the browser type, Internet service providers (ISP), referring/exit pages, operating systems, date/timestamps, and clickstream data. However, this information doesn't identify individual users and we use it exclusively to analyze trends, to administer the site, to track user movements around the site as a whole to improve the services provided. We do not link this automatically-collected data to any personally identifiable information.
 
-We use a third-party tracking service that uses cookies & log files to track non-personally identifiable information about visitors of our Website and mobile application on the aggregate.
 
-Your information with limited access rights (including personal information) can only be accessed by our authorized employees or consultants or the concerned group entities that need to have access to this data in order to be able to fulfill their given duties. However, we shall take appropriate organizational and technical measures to protect your personal data provided to it or collected by it with due observance of the applicable obligations and exceptions under the relevant legislation.
 
-We will retain your information for as long as is necessary to: fulfill any of the Services we provide or comply with applicable legislation, regulatory requests and relevant orders from competent courts.
+Before you start using the SОLA platform, we have several recommendations that we would like to tell you about. Make sure that you read the complete Privacy Policy.
 
-If we do decide to change our Privacy policy, we will post any changes to this privacy statement so that you are all aware of what information we collect, how we use that information, and under what circumstances, if any, we may disclose it.
+1\. Your Data Controller
 
-We reserve the right to modify this Privacy policy statement at any time, so please review it relatively frequently.
+The Data Controller
 
-If we make any changes to this Privacy policy, we will publish [here](https://sola.ai/docs/privacy_policy.html).
+Data Controller of the personal data of the customers of the SOLA platform (hereinafter – SOLA platform) used on our website - [https://sola.ai/](https://web.archive.org/) (hereinafter – the Website) or/and in your mobile devices (hereinafter – the Mobile App) is PLAG Limited, a company having its registered address at a P.O. Box 3321, Drake Chambers, Road Town, Tortola, British Virgin Islands (hereinafter – the Company).
 
-If you have any questions or suggestions regarding our Privacy policy, please contact us.
+The Representative
 
-This Privacy policy of the Sola project is a legal part of the [Terms of Service](https://sola.ai/docs/terms_of_service.html) of the Sola project
+Taking into account the fact that the controller (the Company) is not established in the European Union (hereinafter – EU), the Company’s representative in the EU is Plag JSC, company’s code: 303432712, address: Antakalnio str. 17, LT‑10312 Vilnius, Republic of Lithuania, e-mail: belov@plag.com, tel.: 37067648049 (hereinafter – the Representative).
 
-**PLAG Limited**
+The representative is mandated by the Company to be addressed in addition to or instead of the Company by individuals whose personal data is processed by the Company regarding all issues related to processing of the data and all relevant compliance.
+
+This Privacy Policy (together with the Terms and Conditions and the Records of Processing activities) sets out the basis on which any personal data we collect from you or that you provide to us is going to be processed by the Company. This Privacy Policy describes how we collect and use your personal data we obtain when you establish an account with SOLA platform (hereinafter – the SOLA Account) or whenever you decide to provide us with your personal data on the Website and/or via the Mobile App.
+
+2\. Personal Data We Collect
+
+As a visitor, you do not have to submit any personal information in order to use the Website and/or the Mobile App. The Website and/or the Mobile App only collect data that is specifically and voluntarily provided by visitors when establishing a SOLA Account. Such information may consist the following data and is collected for the following purposes:
+
+  * Nickname: you can choose any nickname you want and change it anytime; it is linked to your e-mail address. 
+
+  * E-mail address: we require your e-mail address for registering on SOLA platform and use it for sending you some important information about our services; you can unsubscribe from our mailout and change your e-mail address we store at any time. 
+
+  * Location (Geo-Tracking Data): we store geo-tracking information while you use the SOLA platform because we need it for enabling important features of our product (adjust a feed in your SOLA account, allow you to make publications, etc.); you can disable the access to your geolocation at any time, but in this case certain restrictions on using the Website and/or Mobile App will apply and we still will be able to track your location via IP-address. 
+
+  * IP address: your IP address alongside with the time of your visit and the pages you visited is identified and logged automatically in our server log files when you accesses our online services; we use IP addresses to calculate usage levels on SOLA platform, diagnose server problems and administer our online services; we collect only the last IP address you used.  
+
+
+
+
+3\. Why Personal Data Is Collected?
+
+We only use personal data collected through the Sola platform and our services in order to:
+
+  * provide our services or information you request, and to process and complete any transactions; 
+
+  * respond to your e-mails, submissions, questions, comments, requests, and complaints and provide customer service; 
+
+  * monitor and analyze Sola platform usage and trends and to personalize and improve Sola platform and our users' experiences on the Website and/or the Mobile App such as providing ads, content or features that match users’ profiles or interests and to increase Sola platform functionality and user friendliness; 
+
+  * send you confirmations, updates, security alerts, support and administrative messages and otherwise facilitate your use / our administration of our Website and/or Mobile App;  
+
+  * for any other purpose required for proper operation of the SOLA platform and providing you with the most fluent and useful experience of enjoying the Website and/or the Mobile App. 
+
+
+
+
+The Legal Basis
+
+If you are visiting the Website and/or using the Mobile App, we typically collect and/or process your personal data when we have a legitimate business interest or your specific consent. We use personal data and other data in this way to manage our contractual relationship with you, comply with a legal obligation and/or because we have a legitimate interest to do so.
+
+4\. Where We Store Your Personal Data
+
+The data that we collect from you may be transferred to and stored at a site outside the EEA. It may also be processed by staff operating outside the EEA who work for us. By submitting your personal data, you agree for a transfer, storage and processing of the said data. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and applicable laws.
+
+The personal data is stored on a third-party server for technical reasons. 
+
+5. Sharing and Disclosure of Personal Data to a Third Party
+
+We will not share any personal data we collect from you via Sola platform or our other services with third parties except for cases described here and in the Terms and Conditions. For example, we may share information as follows:
+
+  * with service providers who works with us allowing the operation of the Website and/or the Mobile App or our services; 
+
+  * when you give us your consent to do so, including if we notify you on Sola platform that the information you provide will be shared and you provide us with such information; 
+
+  * when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with any law or legal processes or respond to lawful requests or legal authorities, including responding to lawful subpoenas, warrants, court orders or other similar requirements of relevant authorities; 
+
+  * if you share your own personal data to random people using SOLA platform. In this event, please make sure you truly wish to share any of your information or data with a third person. Once you provide the information to a third person, we will not be able to guarantee that this person will not use this information against you, trade it or misuse it in any other way. We will not be able to prevent such misuse, nor will we be liable for it. We will only be able to block the account or delete the account of any user who violate our Privacy policy. However, once any information is provided by you directly to any third person using SOLA platform, we are not liable for any adverse consequences that may arise. 
+
+
+
+
+When managing your personal data in the cases provided by this Privacy Policy, we reserve the right to transfer them to third parties exclusively for the purposes defined in Chapter 3 above and only to the extent which is necessary for the achievement of such purposes. Without having your explicit consent, we will not disclose your personal data to third parties in any other circumstances except for those provided in this Policy.
+
+6\. Cookies and Tracking Technologies
+
+What Are Cookies?
+
+Cookies are small text files that that a website saves on your computer or mobile device when you visit a website. Cookies are widely used by website owners in order to make their websites work or to work more efficiently, as well as to provide statistical or any other technical information.
+
+How Does We Use Cookies?
+
+Certain information about users can be gathered automatically and stored inside log files. This information might include Internet protocol (IP) addresses, browser type, Internet service providers (ISP), referring/exit pages, operating systems, date/timestamps and clickstream data, etc. However, this information does not explicitly identify individual users and we use it exclusively to analyze trends, administer the Website and/or the Mobile App, track user traffic to improve the services provided, etc. We do not link this automatically collected data to any information that may identify an individual, however, we still process it as required by law.
+
+We use a third-party tracking service that uses cookies and log files to track non-personally identifiable information about visitors of our Website and/or the Mobile App.
+
+How to Control Cookies?
+
+You can control and/or delete cookies as you wish – for details, see [http://www.youronlinechoices.com/](http://www.youronlinechoices.com/). You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed. Cookies are placed on your device only if you agree, unless cookies are required for strictly technical functioning of the Website and/or the Mobile App. However, if you do not agree to the use of cookies, certain features of the Website and/or the Mobile App may not operate properly or may not work at all.
+
+The legal basis for the use of cookies is Company’s legitimate interest in ensuring the technical functionality of the Website and/or the Mobile App. When cookies are used to remember your choices or for statistical purposes, the legal basis for processing them is your consent.
+
+7\. Children’s Online Privacy protection
+
+The Company does not offer services for purchase by children. If you are under 16, you may use SOLA platform only with the involvement of a parent or a guardian.
+
+8\. How Long Does We Store Data?
+
+The personal data is kept by us during the use of the SOLA platform by a particular user.
+
+Cookies are usually valid for a short term (a day, a week or a month), though in some cases they may remain valid for a longer period (up to a year).
+
+9\. Data Security and Retention
+
+To protect your personal data, we use appropriate technical measures corresponding to the type of personal data and the risks associated with processing of such personal data that comply with EU law. In the event of a data breach, we will immediately contact those affected and take all necessary actions to remedy the situation in accordance with applicable law.
+
+10. Your Rights with Respect to Personal Data
+
+You have the rights to:
+
+  * Require access to your personal data. 
+
+  * Require rectification of your personal data. 
+
+  * Require information about third parties to which any personal data was transferred. 
+
+  * Require erasure of your personal data. If personal data is erased at your request, the Company will only retain such copies of the information that are necessary to protect our or third party legitimate interests, comply with governmental orders, resolve disputes, troubleshoot problems or enforce any agreement you have entered into with the Company. 
+
+  * Withdraw consent for processing of your personal data, where applicable. 
+
+  * Lodge a complaint with a supervisory authority in any Member State where you are located and demand a judicial remedy if you consider that your rights have been violated. Contact information for these authorities can be accessed at [http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080](http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080). 
+
+
+
+
+All inquiries regarding personal data protection or this Privacy Policy you may address to hi@sola.foundation.
+
+11\. Changes to This Privacy Policy
+
+We may need to update this Privacy Policy from time to time because of a change in the Website’s or Mobile App’s functionality or in applicable laws/rules. When we update the Privacy Policy, we will revise the "Effective date" above and post the new Privacy Policy. If we make any changes to this Privacy policy, we will publish it [here](https://web.archive.org/docs/privacy_policy.html) and notify you about it. 
