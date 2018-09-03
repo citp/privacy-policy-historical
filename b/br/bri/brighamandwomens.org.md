@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brighamandwomens.org privacy policy that was archived on 2018-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180328080839id_/https%3A//www.brighamandwomens.org/about-bwh/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brighamandwomens.org privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903080148id_/https%3A//www.brighamandwomens.org/about-bwh/privacy) for the most accurate reproduction.*
 
 # Website Consent & Privacy Policy - Brigham and Women's Hospital
 
