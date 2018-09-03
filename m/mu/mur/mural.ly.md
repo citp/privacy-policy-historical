@@ -1,175 +1,150 @@
-> *The following text is extracted and transformed from the mural.ly privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008063105id_/https%3A//mural.co/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mural.ly privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903193534id_/https%3A//mural.co/terms/privacy-policy%3Fref%3Dmuralcofooter) for the most accurate reproduction.*
 
 # Privacy Policy - MURAL
 
-Effective: April 12, 2017
+This Privacy Policy describes how MURAL collects, uses and discloses information, and what choices you have with respect to the information.
 
-You can see the past version of our Privacy Policy in our [Policy Archive](https://web.archive.org/terms/archive/privacy-policy-2014-06-24/).
+Updates in this version of the Privacy Policy reflect changes in data protection law. In addition, we have worked to make the Privacy Policy clearer and more understandable.
 
-## Introduction
+### Applicability Of This Privacy Policy
 
-Our privacy policy will help you understand what information we collect at MURAL, how MURAL uses it, and what choices you have.
+This Privacy Policy applies to MURAL’s online tools and platform, including the associated MURAL mobile and desktop applications (collectively, the " **Services** "), Mural.co (the " **Website** ")and other interactions (e.g.,customer service inquiries,etc.) you may have with MURAL. If you do not agree with the terms, do not access or use the Services, website or any other aspect ofMURAL’sbusiness.
 
-When we talk about “MURAL,” “we,” “our,” or “us” in this policy, we are referring to Tactivos, Inc., the company which provides the Services. This Privacy Policy relates to the information collection and use practices of MURAL in connection with our online services ("Services"), which are made available to you through our website located at mural.co (the "Site").
+This Privacy Policy does not apply to any third party applications or software that integrates with the Services through theMURAL platform (" **Third Party Services** "), or any other third party products, services or businesses. In addition, a separate agreement governsdelivery, access and use of the Services(the " **Customer Agreement** "), including the processing of any messages, files or other content submitted through Services accounts (collectively," **Customer Data** "). The organization (e.g.,your employer or another entity or person) that entered into the Customer Agreement (" **Customer** ") controls their instance of the Services (their " **Workspace** ") and any associated Customer Data. If you have any questions about specific Workspace settings and privacy practices, please contact the Customer whose Workspace you use. If you have an account, you can check with your workspacea dministrator(s) for contact information. If you have received an invitation to join a Workspace but have not yet created an account, you should request assistance fromthe Customer that sent the invitation.
 
-When we talk about the “Services” in this policy, we are referring to our online workplace collaboration tools and platform. Our Services are currently available for use via a web browser or applications specific to your desktop or mobile device, as further described in our [ Help Center](https://support.mural.ly/hc/en-us).
+### Information We Collect And Receive
 
-This Privacy Policy applies to visitors to the Site, who view only publicly- available content (the “Visitors”) and subscribers who have signed up to access and use our Services (“Subscribers”).
+MURAL may collect and receive Customer Data and other information and data (" **Other Information** ") in a variety of ways:
 
-By visiting our Site, Visitors are agreeing to the terms of this Privacy Policy and the accompanying Terms of Service. By signing up, accessing and/or using our Services, each Subscriber is agreeing to the terms of this Privacy Policy and the accompanying Terms of Service.
+  * **Customer Data**. Customers or individuals granted access to a Workspace by a Customer (" **Authorized Users** ") routinely submit Customer Data to MURAL when using the Services.
+  * **Other Information.MURAL** also collects, generates and/or receives Other Information:
 
-Capitalized terms not defined in this Privacy Policy shall have the meaning set forth in our Terms of Service
 
-## Information we collect
 
-When you sign up to use the Services, either as an individual or on behalf of a company, you may be asked to provide us with the following information: your first name, last name, email address, and company name (if applicable).
+Workspace and Account Information. To create or update a Workspace account, you or your Customer (e.g., your employer) supply MURAL with an email address, phone number, password, domain and/or similar account details. your first name, last name, email address, and company name (if applicable).
 
-You may choose to sign-in using your Google, or your company identity provider account (“Third Party IdP”). By signing-in using your Third Party IdP, you are authorizing MURAL to collect, store, and use, in accordance with this Privacy Policy, any and all information that you have authorized the Third Party IdP to provide to us. Such information may include your first and last name, unique identifier, e-mail address and picture.
+MURAL will collect billing and payment information which may include your credit card number, billing address, and other payment related information (" **Billing Information** "). Billing Information is collected and processed by our third-party payment processor operating as our agent. MURAL does not directly obtain or process any Billing Information.
 
-We will collect billing and payment information which may include your credit card number, billing address, and other payment related information (“Billing Information”). Billing Information is collected and processed by our third-party payment processor operating as our agent (See, Onward Transfers to Third Parties). MURAL does not directly obtain or process any Billing Information.
+  1. Usage Information.
 
-## Our Cookie policy
+    * _Services Metadata,_. When an Authorized User interacts with the Services, metadata is generated that provides additional context about the way Authorized Users work. For example, the amount of times a user entered a mural, to get statistical information about the product features.
 
-MURAL uses cookies and similar technologies like single-pixel gifs and web beacons, to record log data. We use both session-based and persistent cookies.
+    * _Log data_. As with most websites and technology services delivered over the Internet, our servers automatically collect information when you access or use our Websites or Services and record it in log files. This log data may include the Internet Protocol (IP) address, the address of the web page visited before using the Website or Services, browser type and settings, the date and time the Services were used, information about browser configuration and plugins, language preferences and cookie data.
 
-Cookies are small text files sent by us to your computer and from your computer or mobile device to us each time you visit our website or use our desktop application. They are unique to your account or your browser. Session-based cookies last only while your browser is open and are automatically deleted when you close your browser. Persistent cookies last until you or your browser delete them or until they expire.
+    * _Device information_. MURAL collects information about devices accessing the Services, including type of device, what operating system is used, device settings, application IDs, unique device identifiers and crash data. Whether we collect some or all of this Other Information often depends on the type of device used and its settings.
 
-Some cookies are associated with your account and personal information in order to remember that you are logged in and which workspaces you are logged into. Other cookies are not tied to your account but are unique and allow us to carry out site analytics and customization, among other similar things. If you access the Services through your browser, you can manage your cookie settings there but if you disable some or all cookies you may not be able to use the Services.
+    * _Location information_. We receive information from i, your Customer and other third-parties that helps us approximate your location. We may, for example, use a business address submitted by your employer, or an IP address received from your browser or device to determine approximate location. MURAL may also collect location information from devices in accordance with the consent process provided by your device.
 
-MURAL sets and accesses our own cookies on the domains operated by MURAL and its corporate affiliates. In addition, we use third party tools for website analytics. We do not currently recognize or respond to browser-initiated Do Not Track signals as there is no consistent industry standard for compliance.
+  2. Cookie Information. MURALuses cookies and similar technologies in our Websites and Services that help us collect Other Information. The Websites and Services may also include cookies and similar tracking technologies of third parties, which may collect Other Information about you via the Website and Services and across other websites and online services. For more details about how we use these technologies, please see our [Cookie Policy](https://mural.co/terms/cookie-policy/).
 
-###  Information collected through the Site that IS NOT covered by this Privacy Policy
+  3. Third Party Services. Customer can choose to permit or restrict Third Party Services for their Workspace. Typically, Third Party Services are software that integrate with our Services, and Customer can permit its Authorized Users to enable and disable these integrations for their Workspace. Once enabled, the provider of a Third Party Service may share certain information with MURAL. For example, if a cloud storage application is enabled to permit files to be imported to a Workspace, we may receive user name and email address of Authorized Users, along with additional information that the application has elected to make available to MURALto facilitate the integration. Authorized Users should check the privacy settings and notices in these Third Party Services to understand what data may be disclosed to MURAL. When a Third Party Service is enabled, MURAL is authorized to connect and access Other Information made available to MURALin accordance with our agreement with the Third Party Provider. For example, you may choose to sign-in using your Google, or your company identity provider account. By signing-in using your Third Party account, the Third Party will supply MURAL any and all information that you have authorized the Third Party to provide to us. Such information may include your first and last name, unique identifier, e-mail address and picture. If you would like to know more about 3rd parties or any other information about them, you can write an email to [compliance@mural.co](mailto:compliance@mural.co).
 
-Registered Users may voluntarily post information using blogs and other similar features available through the Site. NONE of the information you provide using these features is protected by this Privacy Policy. THIS PRIVACY POLICY DOES NOT APPLY TO ANY INFORMATION (INCLUDING PERSONAL INFORMATION) THAT YOU PROVIDE USING BLOGS, OR OTHER SIMILAR FEATURES AVAILABLE THROUGH THE SITE. ALL SUCH INFORMATION IS PUBLIC INFORMATION AND MAY BE SEEN, COLLECTED OR USED BY ANY USER OF THE SITE. Also all the material you choose to reveal in "Murals", On-line Forums, Blogs, Message Boards, Chat Rooms or Similar Locations. You may post information, including Personally-Identifying Information, Information may be posted on murals by pinning or uploading content or by entering text. Information posted on murals that grant access to anonymous users may be viewed by anyone, including someone not on this Site. Information posted on murals may only be seen by your workspace users on this Service; provided that, if one of your workspace members on this Site pins content of any anonymously accessible murals, that content will become public. We urge you to use good judgment and not post Personally-Identifying Information that you do not want other users to know. YOU ASSUME ALL RESPONSIBILITY FOR ANY LOSS OF PRIVACY OR OTHER HARM RESULTING FROM YOUR VOLUNTARY DISCLOSURE OF PERSONALLY-IDENTIFYING INFORMATION. By posting such information, you consent to the transfer of such information (including any personal information) from your country of origin to the US, and you acknowledge that the EU-US and Swiss-US Privacy Shield Framework does not apply to such information (including any personal information).
+  4. Contact Information. In accordance with the consent process provided by your device, any contact information that an Authorized User chooses to import is collected when using the Services.
 
-###  Information collected through the Site that IS NOT covered by this Privacy Policy
+  5. Third Party Data. MURAL may receive data about organizations, industries, Website visitors, marketing campaigns and other matters related to our business from parent corporation(s), affiliates and subsidiaries, our partners or others that we use to make our own information better or more useful. This data may be combined with Other Information we collect and might include aggregate level data, such as which IP addresses correspond to zip codes or countries. Or it might be more specific: for example, how well an online marketing or email campaign performed.
 
-As part of the Services, MURAL collects data from your end users as per your instructions, and may also receive end user data from you. End user data may, as determined solely by MURAL customers, include personal information regarding your end users. MURAL processes and stores end user data for purposes of providing the Services. MURAL does not have any relationship, contractual or otherwise, with your end users. You, as the customer (and specifically not MURAL) are solely responsible for providing notice to, and obtaining all consents and other assurances required under applicable law from, your end users regarding the collection, transfer, processing and storage of end user data by MURAL including, for any end users that are residents of the European Economic Area or Switzerland.
+  6. Additional Information Provided to Mural. We receive Other Information when submitted to our Websites or if you participate in an activity or event, apply for a job, request support, interact with our social media accounts or otherwise communicate with MURAL.
 
-If you are an end user who would like to correct or delete your end user data, please contact the customer, your application, API or service provider or contact us directly as set forth in the Section titled “Access to Personal Information” below.
 
-## How we use your information
 
-We will use your Personal Data and Usage Information (together, “Information”) for the following purposes:
 
-  * To respond to your requests and to provide you with the Services;
-  * To respond to your inquiries and contact you about changes to the Site, and/or the Services;
-  * To send you notices (for example, in the form of e-mails, mailings, and the like) regarding products or services you are receiving, and for billing and collection purposes;
-  * To improve the Site and/or the Services;
-  * For any other purposes disclosed at the time the information is collected or to which you consent.
+Generally, no one is under a statutory or contractual obligation to provide any Customer Data or Other Information (collectively, " **Information** "). However, certain Information is collected automatically and, if some Information, such as Workspace setup details, is not provided, we may be unable to provide the Services .
 
+### How We Use Information
 
+Customer Data will be used by MURAL in accordance with Customer’s instructions, including any applicable terms in the Customer Agreement and Customer’s use of Services functionality, and as required by applicable law. MURAL is a processor of Customer Data and Customer is the controller. Customer may, for example, use the Services to grant and remove access to a Workspace, assign roles and configure settings, access, modify, export, share and remove Customer Data and otherwise apply its policies to the Services.
 
-We may also use your information to improve our Site, and/or the Services, and may use cookies and other information to enable us to customize your user experience.
+MURAL uses Other Information in furtherance of our legitimate interests in operating our Services, Websites and business. More specifically, MURAL uses Other Information:
 
-We may analyze your Personal Data in aggregate form which does not identify you personally. We may share this aggregate data with our parent, affiliates, agents, advertisers, manufacturers and business partners.
+  * **To provide, update, maintain and protect our Services, Websites and business**. This includes use of Other Information to support delivery of the Services under a Customer Agreement, prevent or address service errors, security or technical issues, analyze and monitor usage, trends and other activities or at an Authorized User’s request.
 
-###  Onward transfer to Third Parties
+  * **As required by applicable law, legal process or regulation.**
 
-Like many businesses, we hire other companies to perform certain business-related services. We may disclose personal information to certain types of third party companies but only to the extent needed to enable them to provide such services. The types of companies that may receive personal information and their functions are: mail services (hardcopy and email); hosting services; database management/backup services; monitoring services; customer support and customer relationship management services; accounting services; and payment processors. All such third parties function as our agents, performing services at our instruction and on our behalf pursuant to contracts which require they provide at least the same level of privacy protection as is required by this Privacy Policy and implemented by MURAL. You may opt-out of having your personal information transferred to any or all of our categories of agents by contacting us at [support@mural.co](mailto:support@mural.co). Please allow us a reasonable time to process your request.
+  * **To communicate with you by responding to your requests, comments and questions**. If you contact us, we may use your Other Information to respond.
 
-###  Opt-In to certain onward transfers
+  * **To develop and provide search, learning and productivity tools and additional features**. MURAL tries to make the Services as useful as possible for specific Workspaces and Authorized Users. For example, we may improve search functionality by using Other Information to help determine and rank the relevance of content, channels or expertise to an Authorized User, make Services suggestions based on historical use and predictive models, identify organizational trends and insights, to customize a Services experience or create new productivity features and products.
 
-We will not transfer your personal information to a third party controller without first providing you with information regarding the identity of such controller or the nature of such controller’s business, and obtaining your opt-in consent.
+  * **To send emails and other communications**.We may send you service, technical and other administrative emails, messages and other types of communications. We may also contact you to inform you about changes in our Services, our Services offerings, and important Services-related notices, such as security and fraud notices. These communications are considered part of the Services and you may not opt out of them. In addition, we sometimes send emails about new product features, promotional communications or other news about MURAL. These are marketing messages so you can control whether you receive them.
 
-We will not disclose your sensitive personal information to any third party without first obtaining your opt-in consent. You may grant such consent by contacting us at [support@mural.co](mailto:support@mural.co). In each instance, please allow us a reasonable time to process your response.
+  * **For billing, account management and other administrative matters**.MURAL may need to contact you for invoicing, account management and similar reasons and we use account data to administer accounts and keep track of billing and payments.
 
-###  Business Transfers
+  * **To investigate and help prevent security issues and abuse**.
 
-In the event of a merger, dissolution or similar corporate event, or the sale of all or substantially all of our assets, we expect that the information that we have collected, including personal information, would be transferred to the surviving entity in a merger or the acquiring entity. All such transfers shall be subject to our commitments with respect to the privacy and confidentiality of such personal information as set forth in this Privacy Policy.
 
-###  Disclosures to Public Authorities, Other Third Parties
 
-We may be required to disclose personal information in response to lawful requests by public authorities, including for the purpose of meeting national security or law enforcement requirements. We may also disclose personal information to other third parties when compelled to do so by government authorities or required by law or regulation including, but not limited to, in response to court orders and subpoenas.
 
-###  Opt-Out for Direct Marketing
+If Information is aggregated or de-identified so it is no longer reasonably associated with an identified or identifiable natural person, MURAL may use it for any business purpose. To the extent Information is associated with an identified or identifiable natural person and is protected as personal data under applicable data protection law, it is referred to in this Privacy Policy as " **Personal Data**."
 
-You may opt out at any time from the use of your personal information for direct marketing purposes by contacting us at [ support@mural.co](mailto:support@mural.co). Please allow us a reasonable time to process your request.
+### Data Retention
 
-## Security
+MURAL will retain Customer Data in accordance with a Customer’s instructions, including any applicable terms in the Customer Agreement and Customer’s use of Services functionality, and as required by applicable law. Customer may also apply different settings to messages, files or other types of Customer Data. The deletion of Customer Data and other use of the Services by Customer may result in the deletion and/or de-identification of certain associated Other Information. For more detail, please contact Customer. MURAL may retain Other Information pertaining to you for as long as necessary for the purposes described in this Privacy Policy. This may include keeping your Other Information after you have deactivated your account for the period of time needed for MURAL to pursue legitimate business interests, conduct audits, comply with (and demonstrate compliance with) legal obligations, resolve disputes and enforce our agreements.
 
-MURAL implements reasonable and appropriate security measures to protect your personal information from loss, misuse and unauthorized access, disclosure, alteration and destruction, taking into account the risks involved in processing and the nature of such data, and comply with applicable laws and regulations. MURAL is SOC2 and Type II compliant and will continue to be SOC 2 Type II compliant. MURAL conducts penetration tests and audits of its servers and networks every quarter.
+### How We Share And Disclose Information
 
-Please understand, however, that no security system is impenetrable. We cannot guarantee the security of our databases, nor can we guarantee that the information you supply will not be intercepted while being transmitted to and from us over the Internet. In particular, e-mail sent to or from the Service may not be secure, and you should therefore take special care in deciding what information you send to us via e-mail. Any unauthorized access to or use of this Service or information collected and maintained by this Service should be immediately brought to our attention by sending us an email at [ support@mural.co](mailto:support@mural.co).
+This section describes how MURAL may share and disclose Information. Customers determine their own policies and practices for the sharing and disclosure of Information, and MURAL does not control how they or any other third parties choose to share or disclose Information.
 
-To learn more about current practices and policies regarding security and confidentiality of Customer Data and other information, please see our [Security Page](https://web.archive.org/security/); we keep that document updated as these practices evolve over time.
+  * **Customer’s Instructions**.MURAL will solely share and disclose Customer Data in accordance with a Customer’s instructions, including any applicable terms in the Customer Agreement and Customer’s use of Services functionality, and in compliance with applicable law and legal process.
 
-## Access to Personal Information
+  * **Displaying the Services.** When an Authorized User submits Other Information, it may be displayed to other Authorized Users in the same or connected Workspaces. For example, an Authorized User’s email address may be displayed with their Workspace profile. Please consult [support@mural.co](mailto:support@mural.co) for more information on Services functionality.
 
-Upon request to [support@mural.co](mailto:support@mural.co), we will provide you with confirmation as to whether we are processing your personal information, and have the data communicated to you within a reasonable time. You have the right to access, correct, amend or delete your personal information where it is inaccurate or has been processed in violation of this Privacy Policy. We may require payment of a non-excessive fee to defray our expenses in this regard. Please allow us a reasonable time to respond to your inquiries and requests.
+  * **Collaborating with Others**.The Services provide different ways for Authorized Users working in independent Workspaces to collaborate. Other Information, such as an Authorized User’s profile Information, may be shared, subject to the policies and practices of the other Workspace(s).
 
-## Retention of Personal Information
+  * **Third Party Service Providers and Partners**. We may engage third party companies or individuals as service providers or business partners to process Other Information and support our business. These third parties may, for example, provide virtual computing and storage services.
 
-We will retain your personal information in a form that identifies you only for as long as it serves the purpose(s) for which it was initially collected as stated in this Privacy Policy, or subsequently authorized. We may continue processing your personal information for longer periods, but only for the time and to the extent such processing reasonably serves the purposes of archiving in the public interest, journalism, literature and art, scientific or historical research and statistical analysis, and subject to the protection of this Privacy Policy. After such time periods have expired, we may either delete your personal information or retain it in a form such that it does not identify you personally.
+  * **Third Party Services**.Customer may enable or permit Authorized Users to enable Third Party Services. When enabled, Mural may share Other Information with Third Party Services. Third Party Services are not owned or controlled by Mural and third parties that have been granted access to Other Information may have their own policies and practices for its collection and use. Please check the privacy settings and notices in these Third Party Services or contact the provider for any questions at [compliance@mural.co](mailto:compliance@mural.co)
 
-## Your Choices
+  * **Corporate Affiliates**.MURAL may share Other Information with its corporate affiliates, parents and/or subsidiaries.
 
-If you wish to stop receiving emails from us, please send us a message via [support@mural.co](mailto:support@mural.co). You may also choose to unsubscribe from our emails by following the instructions in the bottom of the email.
+  * During a Change to Mural’s Business.If MURAL engages in a merger, acquisition, bankruptcy, dissolution, reorganization, sale of some or all of Mural’s assets or stock, financing, public offering of securities, acquisition of all or a portion of our business, a similar transaction or proceeding, or steps in contemplation of such activities (e.g. due diligence), some or all Other Information may be shared or transferred, subject to standard confidentiality arrangements.
 
-## Links
+  * **Aggregated or De-identified Data.** We may disclose or use aggregated or de-identified Other Information for any purpose. For example, we may share aggregated or de-identified Other Information with prospects or partners for business or research purposes, such as telling a prospective Mural customer the average amount of time spent within a typical Workspace.
 
-The Site and the Services may contain content, services, advertising and other materials that link to External Sites. MURAL does not endorse and is not responsible for the content of any such External Sites. Please refer to the terms of use and privacy policies of the External Sites for more information.
+  * **To Comply with Laws.** If we receive a request for information, we may disclose Other Information if we reasonably believe disclosure is in accordance with or required by any applicable law, regulation or legal process. Except as expressly permitted by the Contract or in cases of emergency to avoid death or physical harm to individuals, MURALwill only disclose Customer Data in response to valid and binding compulsory legal process. MURALrequires a search warrant issued by a court of competent jurisdiction (a federal court or a court of general criminal jurisdiction of a State authorized by the law of that State to issue search warrants) to disclose Customer Data. All requests by courts, government agencies, or parties involved in litigation for Customer Data disclosures should be sent to [compliance@mural.co](mailto:compliance@mural.co). Requests should be prepared and served in accordance with applicable law. All requests should be narrow and focused on the specific Customer Data sought. All requests will be construed narrowly by MURAL, so please do not submit unnecessarily broad requests. MURALwill notify Customer before disclosing any of Customer’s Customer Data so that the Customer may seek protection from such disclosure, unless MURALis prohibited from doing so or there is a clear indication of illegal conduct or risk of harm to people or property associated with the use of such Customer Data. If MURALis legally prohibited from notifying Customer prior to disclosure, MURALwill take reasonable steps to notify Customer of the demand after the nondisclosure requirement expires. In case of international requests, MURALrequires that any individual issuing legal process or legal information requests (e.g., discovery requests, warrants, or subpoenas) to MURALproperly domesticate the process or request and serve MURALin a jurisdiction where it is resident or has a registered agent to accept service on its behalf. MURAL does not accept legal process or requests directly from law enforcement entities outside the U.S. Foreign law enforcement agencies should proceed through a Mutual Legal Assistance Treaty or other diplomatic or legal means to obtain data through a court where Mural is located.
 
-## California Residents
+  * **To enforce our rights, prevent fraud, and for safety.** To protect and defend the rights, property or safety of MURAL or third parties, including enforcing contracts or policies, or in connection with investigating and preventing fraud or security issues.
 
-Under California Civil Code Section 1798.83, California residents who have an established business relationship with MURAL may choose to opt out of our sharing your personal information with third parties for direct marketing purposes. If you are a California resident and (1) you wish to opt out; or (2) you wish to request certain information regarding our disclosure of your Personal Information to third parties for the direct marketing purposes, please send an email to [support@mural.co](mailto:support@mural.co) with “Privacy Policy” in the subject line.
+  * **With Consent.** MURAL may share Other Information with third parties when we have consent to do so.
 
-In addition, MURAL does not monitor, recognize, or honor any opt-out or do not track mechanisms, including general web browser “Do Not Track” settings and/or signals.
 
-###  Important Notice to All Non-US Residents
 
-Our servers are located in the US. If you are located outside of the US, please be aware that any information provided to us, including personal information, will be transferred from your country of origin to the US. Except in the case of data transfers under the EU-US Privacy Shield and the Swiss-US Privacy Shield Framework, your decision to provide such data to us, or allow us to collect such data it through our Site or the Services, constitutes your consent to this data transfer.
 
-## Important Notice for Residents of the European Economic Area and Switzerland
+### Security
 
-[MURAL complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework](https://www.privacyshield.gov/participant?id=a2zt00000004F4RAAU&status=Active) as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from the European Union and Switzerland to the United States, respectively. MURAL has certified to the Department of Commerce that it adheres to the Privacy Shield principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, Recourse, Enforcement and Liability, and the Supplemental Principles (the “Privacy Shield Principles”). If there is a conflict between this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. We are committed to applying the Privacy Shield Principles to all personal information received from the EU, Iceland, Liechtenstein, Norway (referred to herein as the “EU”) and Switzerland in reliance upon the Privacy Shield. With regard to the Principle of Accountability for Onward Transfer, for example, we remain liable if our agent processes such personal information in a manner inconsistent with the Privacy Shield Principles, unless we prove that we are not responsible for the event giving rise to the damage. To learn more about the Privacy Shield program, and to view our certification page, please visit: <https://www.privacyshield.gov/>
+MURAL implements reasonable and appropriate security measures to protect your personal information from loss, misuse and unauthorized access, disclosure, alteration and destruction, taking into account the risks involved in processing and the nature of such data, and comply with applicable laws and regulations. MURAL is SOC 2 Type II compliant and will continue to be SOC 2 Type II compliant. MURAL conducts penetration tests and audits of its servers and networks every quarter.
 
-MURAL is subject to the investigatory and enforcement powers of the Federal Trade Commission. We are committed to resolving complaints from EU and Swiss data subjects pursuant to the Recourse, Enforcement and Liability Principle.
+Please understand, however, that no security system is impenetrable. We cannot guarantee the security of our databases, nor can we guarantee that the information you supply will not be intercepted while being transmitted to and from us over the Internet. In particular, e-mail sent to or from the Service may not be secure, and you should therefore take special care in deciding what information you send to us via e-mail. Any unauthorized access to or use of this Service or information collected and maintained by this Service should be immediately brought to our attention by sending us an email at [compliance@mural.co](mailto:compliance@mural.co).
 
-In compliance with the EU-US Privacy Shield Principles and Swiss-US Privacy Shield Principles, MURAL commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this Privacy Policy should first contact MURAL at [support@mural.co](mailto:support@mural.co).
+To learn more about current practices and policies regarding security and confidentiality of Customer Data and other information, please see our [Security Page](https://mural.co/security/); we keep that document updated as these practices evolve over time.
 
-MURAL has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles and Swiss-US Privacy Shield Principles to BBB PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by MURAL, please visit [ https://www.bbb.org/EU-privacy-shield/for-eu-consumers/](https://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint. If these processes do not result in a resolution, you may also contact your local data protection authority, the US Department of Commerce, and/or the Federal Trade Commission for assistance. If your complaint still remains unresolved, then you have the right to invoke binding arbitration by the Privacy Shield Panel upon written notice to MURAL at [support@mural.co](mailto:support@mural.co).
+### Changes To This Privacy Policy
 
-## DMCA Policy
+MURAL may change this Privacy Policy from time to time. Laws, regulations and industry standards evolve, which may make those changes necessary, or we may make changes to our business. We will post the changes to this page and encourage you to review our Privacy Policy to stay informed. If we make changes that materially alter your privacy rights, Mural will provide additional notice, such as via email or through the Services. If you disagree with the changes to this Privacy Policy, you should deactivate your Services account. Contact the Customer if you wish to request the removal of Personal Data under their control.
 
-We take the intellectual property rights of others seriously and require that our Customers and their Authorized Users do the same. The Digital Millennium Copyright Act established a process for addressing claims of copyright infringement that we have implemented for MURAL services. If you own a copyright or have authority to act on behalf of a copyright owner and want to report a claim that a third party is infringing that material on or through a MURAL service, please send a notice to our copyright agent that includes all of the items below and we will expeditiously take appropriate action:
+### International Data Transfers Privacy Shield And Contractual Terms
 
-  1. A description of the copyrighted work that you claim is being infringed;
-  2. A description of the material you claim is infringing and that you want removed or access to which you want disabled and the URL or other location of that material;
-  3. Your address, telephone number, and email address;
-  4. The following statement: “I have a good faith belief that the use of the copyrighted material I am complaining of is not authorized by the copyright owner, its agent, or the law (e.g., as a fair use)”;
-  5. The following statement: “The information in this notice is accurate and, under penalty of perjury, I am the owner, or authorized to act on behalf of the owner, of the copyright or of an exclusive right that is allegedly infringed”; and
-  6. An electronic or physical signature of the owner of the copyright or a person authorized to act on the owner's behalf.
+MURAL may transfer your Personal Data to countries other than the one in which you live. Our servers are located in the US. If you are located outside of the US, please be aware that any information provided to us, including personal information, will be transferred from your country of origin to the US. We deploy the following safeguards if Mural transfers Personal Data originating from the European Union or Switzerland to other countries not deemed adequate under applicable data protection law:
 
+  * **E.U.-U.S. Privacy Shield and Swiss-U.S. Privacy Shield.** To comply with European Union and Swiss data protection laws, MURAL has certified to the Department of Commerce that it adheres to the Privacy Shield principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, Recourse, Enforcement and Liability, and the Supplemental Principles (the "Privacy Shield Principles"). If there is a conflict between this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. We are committed to applying the Privacy Shield Principles to all personal information received from the EU, Iceland, Liechtenstein, Norway (referred to herein as the "EU") and Switzerland in reliance upon the Privacy Shield. With regard to the Principle of Accountability for Onward Transfer, for example, we remain liable if our agent processes such personal information in a manner inconsistent with the Privacy Shield Principles, unless we prove that we are not responsible for the event giving rise to the damage. To learn more about the Privacy Shield program, and to view our certification page, please visit: <https://www.privacyshield.gov/>
 
+  * MURAL is subject to the investigatory and enforcement powers of the Federal Trade Commission. We are committed to resolving complaints from EU and Swiss data subjects pursuant to the Recourse, Enforcement and Liability Principle.
 
-For this type of claims please contact us as set forth in the "Contacting us" section below.
+  * In compliance with the EU-US Privacy Shield Principles and Swiss-US Privacy Shield Principles, MURAL commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this Privacy Policy should first contact MURAL at [compliance@mural.co](mailto:compliance@mural.co).
 
-We may, in appropriate circumstances, disable or terminate the accounts of users who may be repeat infringers.
+  * **European Union Model Clauses.** Mural offers European Union Model Clauses, also known as Standard Contractual Clauses, to meet the adequacy and security requirements for our Customers that operate in the European Union, and other international transfers of Customer Data. A copy of our standard data processing addendum, incorporating Model Clauses, is available by request at [compliance@mural.co](mailto:compliance@mural.co).
 
-This process does not limit our ability to pursue any other remedies we may have to address suspected infringement.
 
-By submitting a Digital Millennium Copyright Act ("DMCA") Infringement Notification or other communication (including communications about content stored on or transmitted through this Service), you consent to have this communication forwarded to the person or entity who stored or transmitted the content addressed by your communications in order to facilitate a prompt resolution. For notices other than DMCA Infringement Notifications, upon request, we will edit out your name and contact information. However, DMCA Infringement Notifications (including any Personally-Identifiable Information set forth in the notifications) will be forwarded as submitted to us without any deletions.
 
-## Questions
 
-If you have any questions regarding this Privacy Policy, please contact us as set forth in the "Contacting us" section below. We will investigate your question, respond to your inquiry, and attempt to resolve any concerns regarding your privacy question.
+### Your Data, Your Rights
 
-## Children
+You have a right to be informed of Personal Data processed by MURAL , a right to rectification/correction, erasure and restriction of processing. You also have the right to receive from Mural a structured, common and machine-readable format of Personal Data you provided to us.
 
-Our Services are not directed to children under 13 years of age. If you learn that a child under 13 has provided us with personal information without consent, please contact us.
+We can only identify you via your email address and we can only adhere to your request and provide information if we have Personal Data about you through you having made contact with us directly and/or you using our site and/or service. We cannot provide, rectify or delete any data that we store on behalf of our Authorized Users or Customers.
 
-## Privacy Policy Changes
+To exercise any of the rights mentioned in this Privacy Policy and/or in the event of questions or comments relating to the use of Personal Data you may contact Mural’s compliance team: [compliance@mural.co](mailto:compliance@mural.co)
 
-Because of changes in technology and the growth and development of our business, or for other business reasons, we may change this policy from time to time, and if we do we will post any changes on this page. You should regularly review this Site to ensure that you are informed of any changes and if you are also a registered user, be sure that the email address on record is current. If you are a registered user, we will also email you to the email address then on record a link to a copy of the modified Privacy Policy. If any modification is unacceptable to you, you shall cease using this Site. If you continue to use the Services after those changes are in effect, you agree to the revised policy.
+Where you have provided consent, you may withdraw it at any time, without affecting the lawfulness of the processing that was carried out prior to withdrawing it. Whenever you withdraw consent, you acknowledge and accept that this may have a negative influence on the quality of Mural Website or Services or even impede the provision of the Services . You further agree that MURAL shall not be held liable with respect to any loss and/or damage to your Personal Data if you choose to withdraw consent.
 
-## Contacting us
+Where Personal Data is processed for the above purposes on the basis of Mural’s legitimate interests, under the GDPR, you may object to such processing at any time. To do so please contact: [compliance@mural.co](mailto:compliance@mural.co)
 
-Please also feel free to contact us if you have any questions about MURAL’s Privacy Policy or practices. You may contact us at [support@mural.co](mailto:support@mural.co) or at our mailing address below:
-
-Tactivos, Inc. DBA MURAL   
-350 Rhode Island St. Suite 375   
-San Francisco, CA 94103   
-94115.
-
-Please include your name, address and email address in your correspondence to us.
+In addition, you have the right to lodge a complaint with the data protection authority in your jurisdiction. Pursuant to Article 27 of Europe’s General Data Protection Regulation (GDPR), Tactivos Inc., DBA Mural has appointed European Data Protection Office (EDPO) as its GDPR representative in the EU. You can contact EDPO regarding matters pertaining to the GDPR by sending an email to privacy@edpo.brussels, using EDPO’s online request form, or writing to EDPO at Avenue Huart Hamoir 71, 1030 Brussels, Belgium.
