@@ -1,8 +1,15 @@
-> *The following text is extracted and transformed from the aitsl.edu.au privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319111530id_/https%3A//www.aitsl.edu.au/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aitsl.edu.au privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904010653id_/https%3A//www.aitsl.edu.au/general/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-When visiting or viewing the AITSL websites, our server makes a record of your visit and logs the following information:
+##### You are currently: 
+
+  * [Home](https://web.archive.org/home "AITSL provides national leadership for the Australian State and Territories in promoting excellence in the profession of teaching and school leadership") 
+  * Privacy Policy>
+
+
+
+AITSL is committed to protecting personal information and meeting its privacy obligations through compliance with the Australian Privacy Principles (APPs) established under the Commonwealth Privacy Act 1988, and the requirements of the General Data Protection Regulation (GDPR).When visiting or viewing the AITSL websites, our server makes a record of your visit and logs the following information:
 
   * your browser's internet address;
   * the date and time of your visit to the site;
@@ -14,6 +21,8 @@ When visiting or viewing the AITSL websites, our server makes a record of your v
 
 
 If you do not wish for AITSL to collect this information, you [can opt out here](https://tools.google.com/dlpage/gaoptout/)
+
+European Union and United Kingdom residents can find AITSL’s GDPR policy [here](https://web.archive.org/docs/default-source/default-document-library/privacy---aitsl-privacy-\(external\)-2018.pdf?sfvrsn=6029f03c_0 "here").
 
 AITSL uses this information for statistical purposes and for system administration tasks to maintain the services it provides through AITSL websites. AITSL does not attempt to identify individuals as part of its regular business practices however in the unlikely event of an investigation, AITSL, a law enforcement agency or other government agency may exercise its legal authority to inspect the server's logs.
 
@@ -33,7 +42,7 @@ Furthermore to the extent that AITSL does retain any Personal Information about 
 
 To see the full text of AITSL’s Privacy Policy [](https://www.aitsl.edu.au/docs/default-source/default-document-library/aitsl_privacy_policy.pdf?sfvrsn=4 "Click Here")
 
-  * [AITSL Privacy Policy](https://web.archive.org/docs/default-source/general/aitsl_privacy_policy.pdf?sfvrsn=1056e23c_2 "AITSL Privacy Policy")
+  * [AITSL Privacy Policy](https://web.archive.org/docs/default-source/default-document-library/privacy---aitsl-privacy-\(external\)-2018.pdf?sfvrsn=6029f03c_0 "AITSL Privacy Policy")
 
 
 
