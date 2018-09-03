@@ -1,14 +1,18 @@
-> *The following text is extracted and transformed from the bankwest.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313130939id_/https%3A//www.bankwest.com.au/legal-stuff/bankwest-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankwest.com.au privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904003708id_/http%3A//www.bankwest.com.au/legal-stuff/bankwest-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Bankwest
+# Privacy Policy | Legal stuff | Bankwest
 
-**Bankwest provides a wide range of banking and financial services. This policy describes how your personal information is handled by us.**
-
-Bankwest is a division of the Commonwealth Bank of Australia (CBA) which has subsidiaries (the Group) that provide banking, finance, insurance, funds management, financial planning and advice, superannuation, stockbroking and other services. The Group includes Bankwest, CBA, CommSec, CommInsure, Commonwealth Financial Planning, Financial Wisdom, Count Financial and Colonial First State businesses.
+**Bankwest provides a wide range of banking and financial services. This policy describes how your personal information is handled by us.** Bankwest is a division of the Commonwealth Bank of Australia (CBA) which has subsidiaries (the Group) that provide banking, finance, insurance, funds management, financial planning and advice, superannuation, stockbroking and other services. The Group includes Bankwest, CBA, CommSec, CommInsure, Commonwealth Financial Planning, Financial Wisdom, Count Financial and Colonial First State businesses.
 
 Australian members of our Group are bound by the Privacy Act and the Australian Privacy Principles (APPs). CBA has a separate but consistent privacy policy which can be viewed at [commbank.com.au](http://www.commbank.com.au/).
 
 For more information about the Group, including a complete list of Group members, see the CBA’s latest Annual Report, available at [commbank.com.au/shareholders](http://www.commbank.com.au/about-us/investors/shareholders).
+
+In addition to the Privacy Act, individuals located in the European Union (EU) may also have rights under EU based rules known as the General Data Protection Regulation (GDPR).  The GDPR has harmonised the data privacy laws of each individual EU country, giving more rights to individuals located in the EU and more obligations to organisations holding their personal information.
+
+Details of additional rights of individuals located in the EU and how we meet them are outlined in Appendix 1 of the [Bankwest Privacy Policy (PDF, 123KB)](https://web.archive.org/content/dam/bankwest/documents/legal-library/PDS_20081211-103233.pdf).
+
+We take privacy seriously and are committed to ensuring the protection of your personal information, no matter where you are located.
 
 **We protect your information, and aim to be clear and open about what we do with it. You can find more information in places like our application forms and terms and conditions.**
 
@@ -17,37 +21,32 @@ We understand your privacy is important to you, and we value your trust. That’
 This Policy explains how we handle your personal information. It also includes:
 
   * Our policy on the handling of credit reports and other credit information
-  * Key information about credit reporting matters.
+  * Key information about credit reporting matters.  
 
 
 
-During your relationship with us, we may tell you more about how we handle your information. For example, when you complete an application or claims form, or receive terms and conditions or a Product Disclosure Statement. You should always read these documents carefully.  
 
+During your relationship with us, we may tell you more about how we handle your information. For example, when you complete an application or claims form, or receive terms and conditions or a Product Disclosure Statement. You should always read these documents carefully.
 
 Sometimes we update our privacy policy. You can always find the most up-to-date version on our website.
 
-**We collect information about you when you use our products or services, or deal with us. We may also collect information about you from other people and organisations.**
+**We collect information about you when you use our products or services, or deal with us. We may also collect information about you from other people and organisations.  
+**  
+Information we collect from you****
 
-**Information we collect from you**
-
-We collect personal information about you when you use our products or services, or when you deal with us in some way. This includes collecting information when you:  
-
-
-  * Contact us – for example, when you open an account, fill in an application or claim form, give us feedback or make a complaint  
-
-  * Use our products or services – for example, when you use your debit or credit card, pay a bill or transfer money
-  * Visit our website or use our mobile apps.
-
-
+We collect personal information about you when you contact us, use our products or services, visit our websites or use our mobile apps or deal with us in some other way.
 
 The information we collect from you may include:
 
-  * Information about your identity – including your name, address, date of birth, gender and marital status
-  * Your Tax File Number
-  * Health information – for example for insurance purposes
+  * Information about your identity — including your name, address, date of birth, gender and marital status  
+
+  * Your Tax File Number or tax residency status  
+
+  * Health information — for example for insurance purposes
   * Financial and transaction information
-  * When you visit our website or use our mobile app – your location information, IP address and any third party sites you access. Some of this website information we collect using Cookies (for more information please see the [Website Terms of Use](https://web.archive.org/legal-stuff/website-terms-of-use))
-  * Other personal information, such as details of your interactions with us.
+  * When you visit our websites or use our mobile apps — your location information, IP address and any third-party sites you access. Some of this website information we collect using Cookies. For more information please see the [Website Terms of Use](https://web.archive.org/legal-stuff/website-terms-of-use).
+  * Other personal information, such as details of your interactions with us.  
+ 
 
 
 
@@ -62,12 +61,12 @@ We collect information about you from others, such as:
   * Brokers
   * Employers
   * Companies or bodies that you own shares in or have an interest in
-  * Family members.
+  * Family members.  
 
 
 
-For example, if you apply for credit, we may ask a credit reporting body for your credit report. If you apply for life or income protection insurance, we may you or your doctor for your medical information. We may also collect information about you that is publicly available (for example, in public registers or on social media) or provided by businesses we deal with.  
 
+For example, if you apply for credit, we may ask a credit reporting body for your credit report. If you apply for life or income protection insurance, we may you or your doctor for your medical information. We may also collect information about you that is publicly available (for example, in public registers or on social media) or provided by businesses we deal with.
 
 **Sensitive information**
 
@@ -139,7 +138,8 @@ We may also share your information with third parties for the reasons in section
   * Government and law enforcement agencies or regulators
   * Credit reporting bodies and credit providers
   * Organisations that help identify illegal activities and prevent fraud
-  * Other people (like cardholders) using the same account.
+  * Other people using the same account, like joint applicants or joint account holders or cardholders.  
+
 
 
 
@@ -158,7 +158,7 @@ Sometimes, we may send your information overseas, including to:
 
 If we do this, we make sure there are arrangements are in place to protect your information. You can find out which countries your information may be sent to at [commbank.com.au/security-privacy/country-list.pdf](http://www.commbank.com.au/security-privacy/country-list.pdf).
 
-**If you ask us for credit, we may check your credit reports. We get these from credit reporting bodies. We also share your credit information with them so they can provide credit reports to others.** When you apply to us for credit or to be a guarantor, we may need to check your credit reports.
+**If you ask us for credit, we may check your credit reports. We get these from credit reporting bodies. We also share your credit information with them so they can provide credit reports to others.** When you apply to us for credit or choose to be a guarantor, we may need to check your credit reports.
 
 A credit report gives us information about your credit history. Credit reports are provided by credit reporting bodies, who collect and share credit information with credit providers like us, and other service businesses like phone companies.
 
@@ -166,7 +166,8 @@ The Privacy Act limits the information we can give to credit reporting bodies, a
 
 The information we can share with credit reporting bodies include: 
 
-  * Your identity
+  * Your identity  
+
   * Type and amount of credit you have – like credit cards, home loans, or personal loans
   * How much you’ve borrowed
   * If you’ve made all your repayments
@@ -179,10 +180,13 @@ Credit reporting bodies include this information in their credit reports to assi
 
 We can also ask credit reporting bodies to give us your overall credit score, and may use credit information from credit reporting bodies together with other information to arrive at our own scoring of your ability to manage credit.
 
-The credit reporting bodies we use are Equifax and Experian Australia Credit Services Pty Ltd. You can download a copy of their privacy policies at:
+The credit reporting bodies we use are Equifax Pty Ltd, Experian Australia Credit Services Pty Ltd and illion (formerly known as Dun & Bradstreet). You can download a copy of their privacy policies at:
 
-  * Equifax - [equifax.com.au](http://www.equifax.com.au/)
-  * Experian - [experian.com.au/credit-services](http://www.experian.com.au/credit-services/credit-services.html)
+  * Equifax - [www.equifax.com.au](http://www.equifax.com.au/privacy)  
+
+  * Experian - [www.experian.com.au/credit-services](http://www.experian.com.au/credit-services)
+  * illion - [www.illion.com.au](http://www.illion.com.au/)  
+
 
 
 
@@ -232,7 +236,7 @@ We use passwords and/or smartcards to stop unauthorised people getting access.
 
 You can ask us for a copy of your information, like your transaction history, by visiting a store, going online or calling us. To get a copy of current credit information we have about you, you can visit a store or call us.
 
-For more detailed information, like what we’ve included in your loan file, please contact our Customer Relations team using the details in Section 10.
+For more detailed information, like what we’ve included in your loan file, please contact our Customer Care team using the details in Section 10.
 
 Is there a fee?
 
@@ -271,7 +275,7 @@ If we don’t think the information needs correcting, we’ll write to let you k
 
 We try to get things right the first time – but if we don’t, we’ll do what we can to fix it. If you are concerned about your privacy (including credit information), you can make a complaint and we’ll do our best to sort it out.
 
-To make a complaint, contact one of our staff or customer service teams. We’ll look into the issue and try to fix it straight away. If you’re not satisfied, you can contact our Customer Relations team. See Section 10 for contact details.
+To make a complaint, contact one of our staff or customer service teams. We’ll look into the issue and try to fix it straight away. If you’re not satisfied, you can contact our Customer Care team. See Section 10 for contact details.
 
 **How do we manage complaints?**
 
@@ -319,46 +323,127 @@ Phone 1300 363 992
 
 Visit [oaic.gov.au](http://www.oaic.gov.au/) 
 
-**If   you want to update your personal information, or if you have a privacy concern, need more information, or want to update your preferences — help is just a phone call or a few clicks away.**
+**If   you want to update your personal information, or if you have a privacy concern, need more information, or want to update your preferences — help is just a phone call or a few clicks away.**Our website: [bankwest.com.au](https://web.archive.org/)
 
-Our website: [bankwest.com.au](https://web.archive.org/)
+If you are an EU resident and have an enquiry relating to your rights under the GDPR, complete our [online feedback form](https://www.bankwest.com.au/retail-forms/contact-customer-relations).
 
-To ask a question, access personal information, make a correction or complaint, or get a printed version of this policy:
-
-**Step 1: Talk to us**
-
-Visit a Store or Business Centre:
-
+To ask a question, access personal information, make a correction or complaint, or get a printed version of this policy:  
+**  
+Step 1: Talk to us** Visit a Store or Business Centre:  
 [bankwest.com.au/find-us](https://web.archive.org/find-us)
 
-Call us:
-
-13 17 19 Customer Help Centre
-
+Call us:  
+13 17 19 Customer Help Centre  
 13 7000 Business Support Centre
 
-Online:
-
+Online:  
 Log into your Internet Banking Service and send us an email via the secure “BankMail” facility located within the message centre.
 
-National Relay Service:
+National Relay Service:  
+TTY/Voice: 133 677  
+SSR: 1300 555 727  
+**  
+Step 2: Contact Customer Care  
+**If you’re not satisfied, you can contact our Customer Care team.
 
-TTY/Voice: 133 677
-
-SSR: 1300 555 727
-
-**Step 2: Contact Customer Relations**
-
-If you’re not satisfied, you can contact our Customer Relations team.
-
-Customer Relations:
-
+Customer Care:  
 Call us on 1800 650 111 between 8am – 8pm local time, 7 days a week
 
 Call us from overseas on +61 8 9449 2840 (international charges apply)
 
 Fax us on 1300 259 233
 
-Complete our [online form](https://web.archive.org/retail-forms/contact-customer-relations)
+[Complete our online form](https://web.archive.org/retail-forms/contact-customer-relations)
 
-Write to us: Manager Customer Relations, GPO Box E237, Perth WA 6001
+Write to us: Manager Customer Care, GPO Box E237, Perth WA 6001
+
+European Union (EU) based General Data Protection Rules (GDPR) legislation has replaced individual country data privacy laws in the EU, giving more rights to EU citizens (who are resident in the EU) as individuals and more obligations to organisations holding their personal information. Personal Information is defined as “any information relating to an identified of identifiable natural person”.
+
+One of the rights is a right to be informed. GDPR requires us to provide more information about how we collect, use, share and store your personal information and your rights as a data subject.
+
+If you are an EU resident and have an enquiry relating to your rights under the GDPR, complete our [online feedback form](https://www.bankwest.com.au/retail-forms/contact-customer-relations).
+
+These rights are additional to the Group Privacy Policy.
+
+**Special Information**  
+The EU GDPR protects your special information. Special information is information about your religion, ethnicity, health or biometrics (for example, your fingerprints). We will only process this type of information, with your consent or where otherwise lawfully permitted.  
+**  
+How long we keep your personal information**  
+We will keep your information for as long as you are a customer of the CBA Group. We aim to keep your information for only as long as we need it. We generally keep your information for up to 7 years after you stop being a customer, but we may keep your information for longer for the purpose of:  
+
+
+  * fulfilling legal or regulatory obligations
+  * internal research and analytics
+  * responding to a question or complaint or
+  * being unable to delete the data for technical reasons.
+
+
+
+**How we use your information**  
+We can only collect and use your personal information if we have a valid lawful reason to do so. For the Group, these reasons are:
+
+  * Contract: We need to process your information in order to fulfil a contract you have with us, or because you have asked us to take specific steps before entering into a contract.
+  * Legal obligations: We need to process your information for us to comply with the law (not including contractual obligations).
+  * Consent: You have given clear consent for us to process your personal information for a specific purpose.
+  * Legitimate interests: We need to process your information for our legitimate interests or the legitimate interests of a third party. This legitimate interest is overridden where there is a good reason to protect your personal information.
+
+
+
+We may use your information to:
+
+  * confirm your identity
+  * assess your application for a product or service
+  * design, manage, price and provide our products and services
+  * manage our relationship with you
+  * minimise risks and identify or investigate fraud and other illegal activities
+  * contact you, for example, when we need to tell you something important
+  * improve our service to you and your experience with us
+  * comply with laws, and assist government or law enforcement agencies
+  * manage our business
+  * direct marketing.
+
+
+
+To find out more about how we use your information, our reasoning and legitimate interests, see Appendix 1 of our [Bankwest Privacy Policy (PDF, 123KB)](https://web.archive.org/content/dam/bankwest/documents/legal-library/PDS_20081211-103233.pdf).
+
+**The right to be informed how personal information is processed  
+**You have the right to be informed how your personal information is being collected and used. If we require your consent to process your information you can withdraw consent at any time. If you withdraw consent, we may not be able to provide certain products or services to you. The right to withdraw only applies when the lawful basis of processing is consent.  
+**  
+The right of access to personal information**  
+If you are an EU resident and have an enquiry relating to your rights under the GDPR, complete our online feedback form.
+
+**The right to rectification**  
+You have the right to question any information we have about you that is inaccurate or incomplete. If you do, we will take reasonable steps to check the accuracy and correct it.
+
+**The right to erasure**  
+You have the right to ask us to delete your personal information if there is no need for us to keep it. The right to erasure is also known as the right to be forgotten. You can make the request verbally or in writing. There may be legal or other reasons why we need to keep your data and if so we will tell you what these are.
+
+**The right to restrict processing**  
+You have the right to ask us to restrict our use of your personal information in some circumstances. We may be able to restrict the use of your data. In this situation we would not use or share your information while it is restricted. This is not an absolute right and only applies in certain circumstances.
+
+**The right to data portability**  
+In some circumstances you have the right to request we provide you with a copy of the personal information you have provided to us in a format that can be easily reused.
+
+**The right to object  
+**In some circumstances you have the right to object to us processing your personal information. In this case we can continue to hold your data but cannot use it.
+
+**Rights in relation to automated decision making and profiling  
+**You have rights over automated decisions. You can ask that we do not make our decision based on the automated decisioning alone. You can object to an automated decision and ask that a person reviews it.
+
+**The right to lodge a complaint with a supervisory authority  
+**You have the right to complain to the regulator if you are not happy with the outcome of a complaint. See the ‘Regulator Contact Details’ section for more information. The individual regulator websites will tell you how to report a concern.
+
+Please note that while any changes you make will be reflected in active user databases instantly or within a reasonable period of time, we may retain all information you submit for backups, archiving, prevention of fraud and abuse, analytics, satisfaction of legal obligations, or where we otherwise reasonably believe that we have a legitimate reason to do so.
+
+You may decline to share certain personal information with us, in which case we may not be able to provide to you some of the features and functionality of the Service.
+
+We will seek parent or guardian consent to collect the personal information of children under 16.
+
+Information Commissioner’s Office  
+Wycliffe House  
+Wilmslow  
+Cheshire SK9 5AF  
+UK  
+Visit: [ico.org.uk ](http://ico.org.uk/)
+
+For other European jurisdictions please refer to the [European Commission website](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm) for details of the relevant data protection authorities.
