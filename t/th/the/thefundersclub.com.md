@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefundersclub.com privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202030431id_/https%3A//fundersclub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefundersclub.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903202120id_/https%3A//fundersclub.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FundersClub
 
@@ -10,9 +10,9 @@ We are required by law to ask for certain information in order to perform our se
 
 ## Our Policy
 
-Welcome to the web site [www.thefundersclub.com](http://www.thefundersclub.com/) (the " **Site** ") owned and operated by FundersClub Inc. (Henceforward " **FundersClub** ," "we," "us," and/or "our"). This Site has been created to provide information about our company and its financial matchmaking services (the " **Services** ") to our users ("you," "your"). This Privacy Policy sets forth FundersClub's policy with respect to information, including personally identifiable data (" **Personal Data** "), and other information that is collected from Site visitors and users of the Services.
+Welcome to the web site [www.fundersclub.com](http://www.fundersclub.com/) (the " **Site** ") owned and operated by FundersClub Inc. (Henceforward " **FundersClub** ," "we," "us," and/or "our"). This Site has been created to provide information about our company and its financial matchmaking services (the " **Services** ") to our users ("you," "your"). This Privacy Policy sets forth FundersClub's policy with respect to information, including personally identifiable data (" **Personal Data** "), and other information that is collected from Site visitors and users of the Services.
 
-If you have questions or complaints regarding our privacy policy or practices, please contact us at [_privacy@thefundersclub.com_](mailto:privacy@thefundersclub.com)
+If you have questions or complaints regarding our privacy policy or practices, please contact us at [_privacy@fundersclub.com_](mailto:privacy@fundersclub.com)
 
 ## Information We Collect
 
@@ -52,15 +52,15 @@ We will share your personal information with third parties only in the ways that
 
 ## Your Choices
 
-If your personally information changes, or if you no longer desire our service, you may correct, update, amend, delete or request deletion by making the change in your registered account settings page, by emailing our Customer Support at [info@thefundersclub.com](mailto:info@thefundersclub.com) or by contacting us at the contact information listed below. We will respond to your request to access within 30 days.
+If your personally information changes, or if you no longer desire our service, you may correct, update, amend, delete or request deletion by making the change in your registered account settings page, by emailing our Customer Support at [contact@fundersclub.com](mailto:contact@fundersclub.com) or by contacting us at the contact information listed below. We will respond to your request to access within 30 days.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-When you sign up for our Services or newsletter(s), we will send periodic emails to you regarding the Services or to tell you about services we believe will be of interest to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [info@thefundersclub.com](mailto:info@thefundersclub.com)
+When you sign up for our Services or newsletter(s), we will send periodic emails to you regarding the Services or to tell you about services we believe will be of interest to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [contact@fundersclub.com](mailto:contact@fundersclub.com)
 
 ## Security
 
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [info@thefundersclub.com](mailto:info@thefundersclub.com)
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [contact@fundersclub.com](mailto:contact@fundersclub.com)
 
 ## Exclusions
 
@@ -68,11 +68,11 @@ This Privacy Policy does not apply to any Personal Data collected by FundersClub
 
 ## Blog
 
-Our Web site may offer a publicly accessible blog. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog, contact us at [info@thefundersclub.com](mailto:info@thefundersclub.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our Web site may offer a publicly accessible blog. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog, contact us at [contact@fundersclub.com](mailto:contact@fundersclub.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ## Testimonials
 
-We may display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name and other information. If you wish to update or delete your testimonial, please contact us at [info@thefundersclub.com](mailto:info@thefundersclub.com)
+We may display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name and other information. If you wish to update or delete your testimonial, please contact us at [contact@fundersclub.com](mailto:contact@fundersclub.com)
 
 ## Social Media Features
 
@@ -90,7 +90,7 @@ This Privacy Policy applies only to the Site. This Site may contain links to oth
 
 ## Other Terms and Conditions
 
-Your access to and use of this Site is subject to the [Terms of Use.](https://web.archive.org/site/termsofuse/)
+Your access to and use of this Site is subject to the [Terms of Use.](https://web.archive.org/terms-of-use/)
 
 ## Changes to FundersClub's Privacy Policy
 
@@ -102,4 +102,4 @@ Please feel free to contact us if you have any questions about FundersClub's Pri
 
 FundersClub 
 
-[info@thefundersclub.com](mailto:info@thefundersclub.com)
+[contact@fundersclub.com](mailto:contact@fundersclub.com)
