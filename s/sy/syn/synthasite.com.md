@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synthasite.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623145230id_/https%3A//www.yola.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synthasite.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903205347id_/https%3A//www.yola.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Yola.com
 
@@ -60,6 +60,14 @@ Personal information may be collected in a number of ways when you visit our Sit
 
 For each visit of registered user of the Site (each a “Registered User”) to the Yola website, our Web server automatically recognizes any header information that is shared with our Web server. Yola collects the IP address and header information, and may collect the following: 
 
+  * The e-mail address of Registered Users of our Site and the Yola Toolset (as defined in our [Terms of Service](https://web.archive.org/terms)), so that we and our partners may communicate with Registered Users. 
+  * The e-mail addresses of Registered Users who communicate with us via e-mail, and/or make postings to our chat areas. 
+  * Aggregate information on what pages Registered Users access or visit. 
+  * Registered User-specific information on what pages Registered Users access or visit. 
+  * Personal information may also be collected if you leave comments or other communications on the Site, such as on the chat areas, and/or send email directly to Yola. 
+
+
+
 By doing so your name and the content of your communication may be made public and can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. 
 
 ### Automatically Collected Information
@@ -77,6 +85,18 @@ We use cookise to identify you to our Services.
 ## 4\. Why Do We Collect Such Information?
 
 We collect such Non-personal and Personal Information for the following purposes: 
+
+  * To provide and operate the Services; 
+  * To further develop, customize and improve our Services, based on Visitors’ and Users’ common or personal preferences, experiences and difficulties; 
+  * To provide our Users with ongoing customer assistance and technical support; 
+  * To be able to contact our Visitors and Users with general or personalized service-related notices and promotional messages (as further detailed in Section 11 below); 
+  * To facilitate, sponsor and offer certain contests, events and promotions, determine participants’ eligibility, monitor performance, contact winners and grant prizes and benefits; 
+  * To create aggregated statistical data and other aggregated and/or inferred Non-personal Information, which we or our business partners may use to provide and improve our respective services; 
+  * To enhance our data security and fraud prevention capabilities; 
+  * To consider Applicants’ candidacy for working at Yola (as further detailed in Section 7 below); and 
+  * To comply with any applicable laws and regulations. 
+
+
 
 ## The Short Version
 
@@ -197,6 +217,12 @@ If you want to delete or block any cookies, please refer to the help and support
 ### Third Party Analytics Services
 
 Some parts of our Service use third party analyticservices to help us create a better user experience. 
+
+  * Google Analytics. You can opt-out of Google Analytics by visiting the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout) and installing the add-on for your specific browser. 
+  * Mixpanel. You can opt-out of Mixpanel’s analytics service at [Mixpanel Opt Out](https://mixpanel.com/optout/). 
+  * Fullstory.com. You can opt-out of FullStory’s analytics service at [FullStory Opt Out](https://www.fullstory.com/optout/). 
+
+
 
 Javascript tracking: We and certain Third Party Services may employ tracking, which enables them and us to improve our Services by measuring their effectiveness and performance. 
 
