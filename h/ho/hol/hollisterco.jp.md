@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hollisterco.jp privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504100654id_/http%3A//www.hollisterco.jp/en_JP/content%3Fpage%3Dprivacy%26cid%3Dprivacy-and-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollisterco.jp privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903131853id_/http%3A//www.hollisterco.jp/en_JP/content%3Fpage%3Dprivacy%26cid%3Dprivacy-and-terms) for the most accurate reproduction.*
 
 # privacy-and-terms
 
-Updated: January 2018
+Updated: June 2018
 
 In order to make your visits to the various online channels of Hollister Co. as responsive as possible, we provide this summary of what information we collect online, and how that information is used.
 
@@ -59,8 +59,6 @@ If you use the Click to Chat feature on our Websites we may collect your name an
 
 If you sign up for our marketing email list, or the marketing email list for any of our affiliate brands, you will be asked to provide your email address. Our affiliate brands are: Abercrombie & Fitch and abercrombie kids. Signing up enables you to receive information about products and offers that we provide via email. Once you sign up you will receive an email to the email address you submitted confirming you are subscribed. In some locations on our Websites/Apps you are given the opportunity to submit additional information, such as gender and date of birth, that will help us cater messaging and marketing emails we send to you. In addition, we may identify you when you click a link in an email to get to our Websites, and may personalize messaging, promotions or product recommendations. You can choose the frequency with which you receive marketing emails or unsubscribe if you no longer want to receive marketing emails from us. See the Opt Out section below for more details.
 
-If you were on the Hollister Co. marketing email list prior to September 2014 and supply your email address on HollisterCo.jp you may receive emails catered to your location.
-
 #### Sending Electronic Postcards or Emailing an Item to a Friend
 
 When you send an electronic postcard, or email an item to a friend from our Websites, the designated recipient will receive your name and email address, as well as any information you entered in the message. The email address information of your recipient is not used for any marketing purposes by us or our affiliate companies unless they have already submitted it for this reason, nor is such information rented, sold or exchanged with third parties for their marketing purposes. We do not review any information provided in the message content. You should not send postcards or items to friends unless you believe your friend would be interested and want to receive the information.
@@ -69,7 +67,7 @@ When you send an electronic postcard, or email an item to a friend from our Webs
 
 If you are 18 years of age or older you are given the opportunity to create an account on our Websites and Apps. Creating an account requires you to enter your email address, first and last name, and to create a password, and allows you to provide postal addresses, a phone number, payment details, date of birth, gender, and favorite categories. By providing this information we are able to offer you a more personalized experience on our Websites, Apps, and in communications. In addition, we may identify you when you sign into your account and we may personalize messaging, promotions or product recommendations. Some of the features in the account section allow you to create an address book, save a wish list, subscribe to and update your marketing email frequency, access your order history, and enjoy "quick checkouts" by having us automatically enter your name, phone number, email, postal address, and payment details in the checkout process. When you create an account you will receive a welcome email that will be delivered to the email address you inserted into the email field on the create an account page. .
 
-To request to have your account cancelled send an email to [Privacy_Policy@HollisterCo.com](https://web.archive.org/web/20180504100654id_/http%3A//www.hollisterco.jp/en_JP/Privacy_Policy@HollisterCo.com) from the email address associated with the account you wish to cancel.
+To request to have your account cancelled, please use the [Contact Us](http://www.hollisterco.jp/en_JP/contact) section of the Help page and include the email address associated with the account you wish to cancel.
 
 #### My Account – Payment Info
 
@@ -235,19 +233,13 @@ If you no longer wish to receive emails from us, please [click here](https://www
 
 Please note, if you request to be removed from our email marketing list, you may still receive email confirmations from us regarding any orders placed on our Websites or other operational emails.
 
-If you have any problems with unsubscribing from marketing emails please contact us:
-
-Responsible Sender of Marketing Emails  
-Abercrombie & Fitch Stores, Inc.  
-6301 Fitch Path  
-New Albany, Ohio 43054 USA  
-[Privacy_Policy@HollisterCo.com](https://web.archive.org/web/20180504100654id_/http%3A//www.hollisterco.jp/en_JP/Privacy_Policy@HollisterCo.com)
+If you have any problems with unsubscribing from marketing emails, please use the [Privacy@Anfcorp.com](http://www.hollisterco.jp/en_JP/contact%3EContact%20Us%3C/a%3E%20section%20of%20the%20Help%20page%20and%20tell%20us%20to%20remove%20you%20from%20our%20email%20marketing%20list%20or%20write%20to%20us%20at%20the%20address%20set%20out%20below:%3C/p%3E%3Cp%3EResponsible%20Sender%20of%20Marketing%20Emails%3Cbr%20/%3EAbercrombie%20&%20Fitch%20Stores,%20Inc.%3Cbr%20/%3E6301%20Fitch%20Path%3Cbr%20/%3ENew%20Albany,%20Ohio%2043054%20USA%3Cbr%20/%3E%3Ca%20href=)
 
 #### 3.Postal Address
 
-If you do not wish to receive marketing materials from us via postal mail, please email us at [Privacy_Policy@HollisterCo.com](https://web.archive.org/web/20180504100654id_/http%3A//www.hollisterco.jp/en_JP/Privacy_Policy@HollisterCo.com) and tell us to remove you from our postal mailing list, including the postal address you wish to have removed.
+If you do not wish to receive marketing materials from us via postal mail, please email us at [Contact Us](http://www.hollisterco.jp/en_JP/contact) and tell us to remove you from our postal mailing list, including the postal address you wish to have removed.
 
-If you would like to make sure that we do not disclose your name and postal mailing address to unaffiliated third parties for their marketing purposes, please email us at [Privacy_Policy@HollisterCo.com ](mailto:Privacy_Policy@HollisterCo.com)and ask us not to share your postal address with unaffiliated companies, including the postal address
+If you would like to make sure that we do not disclose your name and postal mailing address to unaffiliated third parties for their marketing purposes, please use the [Contact Us](http://www.hollisterco.jp/en_JP/contact) section of the Help page and ask us not to share your postal address with unaffiliated companies, including the postal address you wish to have it removed.
 
 ### Accessing and Updating Your Personal Data
 
@@ -281,11 +273,11 @@ While we implement the above security measures on our Websites/Apps, you should 
 
 If, for any reason, you are accessing a country specific website for a country in which you are not located (e.g. utilizing a proxy server) please contact Customer Service to view the policies and terms specific to your jurisdiction.
 
-If you have any questions, comments or concerns regarding our privacy practices or our legal compliance with the Japanese Act on Protection of Personal Information or other applicable privacy law or regulation, please email us at [Privacy_Policy@HollisterCo.com](mailto:Privacy_Policy@HollisterCo.com) or write to us at the address set out below:
+If you have any questions, comments or concerns regarding our privacy practices or our legal compliance with the Japanese Act on Protection of Personal Information or other applicable privacy law or regulation, please email us at [Privacy@Anfcorp.com](https://web.archive.org/web/20180903131853id_/http%3A//www.hollisterco.jp/en_JP/Privacy@Anfcorp.com) or write to us at the address set out below:
 
 Attn: Privacy Policy Manager  
 Abercrombie & Fitch Stores, Inc.  
 6301 Fitch Path  
 New Albany, Ohio 43054 USA
 
-[Privacy_Policy@HollisterCo.com](https://web.archive.org/web/20180504100654id_/http%3A//www.hollisterco.jp/en_JP/Privacy_Policy@HollisterCo.com)
+[Privacy@Anfcorp.com](https://web.archive.org/web/20180903131853id_/http%3A//www.hollisterco.jp/en_JP/Privacy@Anfcorp.com)
