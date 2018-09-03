@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startlocal.com.au privacy policy that was archived on 2018-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180312233848id_/https%3A//www.startlocal.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startlocal.com.au privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903210248id_/https%3A//www.startlocal.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy: StartLocal® - Australian Business Directory & Business Search Engine
 
@@ -52,7 +52,7 @@
 
 **6 complaints**
 
-6.1 If you have a complaint about our Privacy Policy or the collection, use or safe disposal or destruction of your Personal Information, your complaint should be directed in the first instance to us, by calling us on 1300 785 706 or contact us through this form. 
+6.1 If you have a complaint about our Privacy Policy or the collection, use or safe disposal or destruction of your Personal Information, your complaint should be directed in the first instance to us, by calling us on 1300 607 487 or contact us through this form. 
 
 6.2 We will investigate your complaint and attempt to resolve any breach that might have occurred in relation to the collection, use or destruction of Personal Information held by us about you in accordance with the Commonwealth Privacy legislation. If you are not satisfied with the outcome of this procedure then you may request that an independent person (usually the Commonwealth Privacy Officer) investigate your complaint. 
 
@@ -62,7 +62,7 @@
 
 **8 CONTACTING US**
 
-8.1 If you require further information regarding our Privacy Policy, please contact us on 1300 785 706 or contact us through this form. 
+8.1 If you require further information regarding our Privacy Policy, please contact us on 1300 607 487 or contact us through this form. 
 
 8.2 Should you wish to read more information on privacy legislation or the National Privacy Principles we recommend that you visit the Federal Privacy Commissioner's website at privacy@privacy.gov.au. 
 
