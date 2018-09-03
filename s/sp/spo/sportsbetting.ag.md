@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsbetting.ag privacy policy that was archived on 2017-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171020135031id_/https%3A//www.sportsbetting.ag/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbetting.ag privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903165726id_/https%3A//www.sportsbetting.ag/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
