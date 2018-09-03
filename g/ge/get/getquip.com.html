@@ -1,871 +1,649 @@
-<!--The following is the downloaded HTML source of the getquip.com privacy policy that was archived on 2017-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170625015950id_/https%3A//www.getquip.com/privacy) for the most accurate reproduction.-->
-
-<!DOCTYPE html><html><head>
-<script src="https://js-agent.newrelic.com/nr-1039.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//static.ads-twitter.com/uwt.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script id="woobox-sdk" src="//woobox.com/js/plugins/woo.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"b764b546a1","applicationID":"12477971","transactionName":"IQwKTUFYCg8HSkkUVAUGFxZDRQ8VA1sf","queueTime":5,"applicationTime":351,"agent":""}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAcFWFdQGwICUFZVDgYG"};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1039.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
-  <title>quip | Privacy</title>
-
-  <link data-turbolinks-track="false" href="/assets/application-f117b35d03f305d4a999ddef5bf35a3cd094f6f206ed77b3942beae0d922d14c.css" media="all" rel="stylesheet">
-  <script data-turbolinks-track="false" src="/assets/application-513c72648a22d7548a663d6f5476d845728d263538de4af79313de5b565b4ccc.js"></script>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="p:domain_verify" content="86af7f7e4a1c906f4e18f376fa00d85d">
-        <meta property="og:title" content="quip | Privacy Policy">
-
-
-    	<meta name="description" content="Details on our privacy policy">
-    <meta property="og:description" content="Details on our privacy policy">
-
-  
-
-  <link href="/images/mb-icon.png" rel="apple-touch-icon" type="image/png">
-  <link href="/assets/apple-touch-icon-76x76-fa7a688037373a2c8f1c5db6c60de6d6fba105a31c03ff3ff462e937311a6404.png" rel="apple-touch-icon" type="image/png">
-  <link href="/assets/android-chrome-72x72-49c2704bb1d0e0af40d2928ab07ab8b0f4cc356e65499cd7e4109750251934e6.png" rel="android-chrome" type="image/png">
-  <link href="/assets/favicon-32x32-d38d0b25e48b662f23a57d96ce71913d29bee1603e20e96dfb824c4e6b7999a2.png" rel="shortcut icon" type="image/vnd.microsoft.icon">
-
-  <title>quip</title>
-<link href="https://www.getquip.com/privacy" rel="canonical">
-<meta content="https://s3.amazonaws.com/quip-nyc/icons/REFERRAL_image.jpg" property="og:image">
-<meta content="https://www.getquip.com/privacy" property="og:url">
-  
-  <meta content="authenticity_token" name="csrf-param">
-<meta content="rDG9V9nlDWtXPJuj4JGpZdFJ5UltTfiOcGCWnpCtZc8=" name="csrf-token">
-
-<script src="//cdn.optimizely.com/js/2437370380.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-
-<body>
-
-<div id="woobox-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//woobox.com/js/plugins/woo.js";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'woobox-sdk'));</script>
-
-
-  <header>
-<!--   <div class="layout-header header-notice-60" style="background-color: #ff8b9b;">
-    <div class="container text-center">
-    <h4><span class="quip-alert"></span>We are overhauling our site tonight, so please excuse the visual mess! Having trouble? Check back tomorrow!</h4>
-    </div>
-  </div> -->
-  <div id="nav">
-    <nav id="navbar" class="navbar navbar-default navbar-fixed-top" role="navigation">
-      <div class="container" style="margin-top:-4px;">
-        <!-- Brand and toggle get grouped for better mobile display -->
-
-        <div class="navbar-center navbar-brand on-mob" style="border-bottom: 1px solid #D3D3D3; height: 67px;margin-left:1px;">
-
-          <a id="brand" class="navbar-brand new labe-qip" href="/" style="font-size: 52px; color:transparent;">QUIP</a>
-        </div>
-          <div class="navbar-header">
-             <a class="carrt navbar-toggle pull-right cde " data-container="#cart-tooltip-small" data-html="true" data-placement="bottom" data-toggle="tooltip" data-trigger="manual" href="/carts" id="cart-tooltip-small" style="left:0px; color:#A9A9A9;" title="<div class=&quot;row&quot;>
-  
-<p class=&quot;shopping_cart_text&quot;><span style=&quot;text-transform:uppercase;&quot;>starter sets</span>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; <span style=&quot;text-transform:lowercase;&quot;>from $25</span><br></p>
-<p class=&quot;shopping_cart_text&quot; style=&quot;font-weight:normal!important;&quot;><span style=&quot;text-transform:uppercase;&quot;>refill plans</span>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; <span style=&quot;text-transform:lowercase;&quot;>from $5</span><br></p>
-  
-  <a  href=&quot;/store&quot;class=&quot;btn btn-primary cart-chk smile lower-portion&quot; style=&quot;width: 100%;&quot;>SHOP NOW</a>
-  <a class=&quot;btn btn-default standard-btn cart-chk smile lower-portion&quot; href=&quot;/#getquip&quot;>LEARN MORE</a>
-
-<div class=&quot;row text-center landing-icon&quot;>
-<div class=&quot;row text-center&quot;>
-  <div class=&quot;text-center&quot;>
-  <p><img alt=&quot;&quot; src=&quot;/assets/color_select_btns/button_SILVER_price-8a57aeea4ed24628752d4809d677a7e32f2bcce349d4505cba4035cb45170590.png&quot; />
-     <img alt=&quot;&quot; src=&quot;/assets/color_select_btns/button_SLATE_price-b3a21a799eef0579fa2058e18aaa3dfc06c7b0b388af7a8aab33b746e1a263ed.png&quot; />
-     <img alt=&quot;&quot; src=&quot;/assets/color_select_btns/button_COPPERS_price-6987a0360bf5352e0eb88e135dc8664e2bc275e1421b8ec5228f797760fc2aa7.png&quot; />
-     <img alt=&quot;&quot; src=&quot;/assets/color_select_btns/button_GOLD_price-e01104d8e2548c573a3c2c1a5d026bad9b0598309fdc91568e77658055759ca9.png&quot; />
-     <img alt=&quot;&quot; src=&quot;/assets/color_select_btns/button_green_price-25b9154092efba3cf04b5b10d4a7048053bde7c0308e2223d486ddfcc6bf6431.png&quot; />
-     <img alt=&quot;&quot; src=&quot;/assets/color_select_btns/button_blue_price-4c64501c4d88fc36092c5795a10132bd010094d84bf2e0455ba3072710d325ed.png&quot; />
-  </p>
-  <div class=&quot;row clearfix&quot; style=&quot;float: ;&quot;>
-  </div>
-  </div>
-</div>
-
-
-<div class=&quot;img-responsive line&quot; style=&quot;margin-top: 10px;&quot;><img alt=&quot;Shopping cart preview quip toothbrush d137ce6070a3105e089b62f1ad1d9e8fe59b5ae7161e5b3f6c6e3ca8d8f5453c&quot; src=&quot;/assets/shopping_cart_preview_quip_toothbrush-d137ce6070a3105e089b62f1ad1d9e8fe59b5ae7161e5b3f6c6e3ca8d8f5453c.jpg&quot; /></div>
-</div>
-
-
-</div>
-
-">
-              <span class="text-span">Shop</span>
-         
-                 
-                <span class="" style="margin-top:4px;"><img alt="Quip aadd 74b8616ed527501b5000122cf81ef52d7921a672e5b2f5a8e5717a2e4428d95f" class="qwe" src="/assets/quip_aadd-74b8616ed527501b5000122cf81ef52d7921a672e5b2f5a8e5717a2e4428d95f.svg"></span>
-</a>          <span class="shopping_cart_close_btn"></span>
-          <div class="visible-xs-block popout-line" style="height: 76px; border-left: 1px solid #d3d3d3;position: absolute;
-           right: 190px; float: right !important;">
-          </div>
-          <button type="button" class="navbar-toggle tog-ham " data-toggle="collapse" data-target=".navbar-collapse" style="z-index:9999; left: 50px;">
-              <span class="sr-only">Toggle navigation</span>
-              <span class="hamburger burger"></span>
-              <span class="hamburgerclose hide"></span>
-            </button>
-        </div>
-          <!-- Collect the nav links, forms, and other content for toggling -->
-          <div id="mob_main_menu" class="collapse navbar-collapse" style="overflow-y:hidden; max-height:2000px !important;">
-
-            <ul class="nav navbar-nav navbar-right new-u">
-              
-              
-                  <li class="hov space detail at-col visible-sm-block visible-md-block visible-lg-block" data-toggle-for="about_menu_item_submenu">About</li>
-<li><div class="menu-down arrw visible-sm-block visible-md-block visible-lg-block" style="margin-right:7px;" data-toggle-for="about_menu_item_submenu"></div></li>
-<li class="hov active visible-xs-block">
-  <div class="dropdown hov">
-    <button class="btn btn-default dropdown-toggle drop at-col" type="button" id="about_dropdown_menu" style="font-size: 12pt !important;" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"> About <div class="menu-down2"></div>
-    </button>
-   <ul class="dropdown-menu submenu" aria-labelledby="about_dropdown_menu">
-      <li class="drop-mob "><a href="/story">Story</a></li>
-      <li class="drop-mob "><a href="/tips">Tips</a></li>
-      <li class="drop-mob "><a href="/products">Products</a></li>
-      <li class="drop-mob "><a href="/routine">Routine</a></li>
-      <li class="drop-mob "><a href="/store">Plans</a></li>
-      <li class="drop-mob "><a href="/rewards">Rewards</a></li>
-      <li class="drop-mob "><a href="/reviews">Reviews</a></li>
-      <li class="drop-mob "><a href="/blog">Blog</a></li>
-    </ul>
-  </div>
-</li>
-                <li class="hov">
-                  <a class="act" href="/store">
-                    Store <span class=" hov"></span>
-</a>                </li>
-                <li class="hov">
-                  <a class="act" href="/dentists">
-                    Dentists <span class=" hov"></span>
-</a>                </li>
-              
-                <li class="divider-vertical hidden-xs header_menu_divider"></li>
-                <li class="hov">
-                  <a class="act" href="/help" style="margin-right: 0px;">
-                    Help <span class=" hov"></span>
-</a>                </li>
-                <li class="" style="margin-right:11px;">
-                  <a href="/users/sign_in">
-                    Sign In <span class=""></span>
-</a>                </li> 
-                <li class="hide"></li>
-                <li><div class=" hov" style="
-                  height: 65px;
-                  border-left: 1px solid #D3D3D3;position:absolute;top:-3px;"></div></li>
-                  <li class="visible-sm-block visible-md-block visible-lg-block ">
-                    <a class="carrt" data-container="#cart-tooltip" data-html="true" data-placement="bottom" data-toggle="tooltip" data-trigger="manual" href="/carts" id="cart-tooltip" title="<div class=&quot;row&quot;>
-  
-<p class=&quot;shopping_cart_text&quot;><span style=&quot;text-transform:uppercase;&quot;>starter sets</span>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; <span style=&quot;text-transform:lowercase;&quot;>from $25</span><br></p>
-<p class=&quot;shopping_cart_text&quot; style=&quot;font-weight:normal!important;&quot;><span style=&quot;text-transform:uppercase;&quot;>refill plans</span>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; <span style=&quot;text-transform:lowercase;&quot;>from $5</span><br></p>
-  
-  <a  href=&quot;/store&quot;class=&quot;btn btn-primary cart-chk smile lower-portion&quot; style=&quot;width: 100%;&quot;>SHOP NOW</a>
-  <a class=&quot;btn btn-default standard-btn cart-chk smile lower-portion&quot; href=&quot;/#getquip&quot;>LEARN MORE</a>
-
-<div class=&quot;row text-center landing-icon&quot;>
-<div class=&quot;row text-center&quot;>
-  <div class=&quot;text-center&quot;>
-  <p><img alt=&quot;&quot; src=&quot;/assets/color_select_btns/button_SILVER_price-8a57aeea4ed24628752d4809d677a7e32f2bcce349d4505cba4035cb45170590.png&quot; />
-     <img alt=&quot;&quot; src=&quot;/assets/color_select_btns/button_SLATE_price-b3a21a799eef0579fa2058e18aaa3dfc06c7b0b388af7a8aab33b746e1a263ed.png&quot; />
-     <img alt=&quot;&quot; src=&quot;/assets/color_select_btns/button_COPPERS_price-6987a0360bf5352e0eb88e135dc8664e2bc275e1421b8ec5228f797760fc2aa7.png&quot; />
-     <img alt=&quot;&quot; src=&quot;/assets/color_select_btns/button_GOLD_price-e01104d8e2548c573a3c2c1a5d026bad9b0598309fdc91568e77658055759ca9.png&quot; />
-     <img alt=&quot;&quot; src=&quot;/assets/color_select_btns/button_green_price-25b9154092efba3cf04b5b10d4a7048053bde7c0308e2223d486ddfcc6bf6431.png&quot; />
-     <img alt=&quot;&quot; src=&quot;/assets/color_select_btns/button_blue_price-4c64501c4d88fc36092c5795a10132bd010094d84bf2e0455ba3072710d325ed.png&quot; />
-  </p>
-  <div class=&quot;row clearfix&quot; style=&quot;float: ;&quot;>
-  </div>
-  </div>
-</div>
-
-
-<div class=&quot;img-responsive line&quot; style=&quot;margin-top: 10px;&quot;><img alt=&quot;Shopping cart preview quip toothbrush d137ce6070a3105e089b62f1ad1d9e8fe59b5ae7161e5b3f6c6e3ca8d8f5453c&quot; src=&quot;/assets/shopping_cart_preview_quip_toothbrush-d137ce6070a3105e089b62f1ad1d9e8fe59b5ae7161e5b3f6c6e3ca8d8f5453c.jpg&quot; /></div>
-</div>
-
-
-</div>
-
-">
-                      <span class="text-span">Shop</span>
-                       
-                       <span class="rty"><img alt="Quip aadd 74b8616ed527501b5000122cf81ef52d7921a672e5b2f5a8e5717a2e4428d95f" class="qwe" src="/assets/quip_aadd-74b8616ed527501b5000122cf81ef52d7921a672e5b2f5a8e5717a2e4428d95f.svg"></span>
-</a>                  </li>
-
-                 <!-- cart icon removed mobile -->
-
-            </ul>
-          </div><!-- /.navbar-collapse -->
-
-      </div><!-- /.container-fluid -->
-    <div id="submenu_for_large_screens" class="submenu visible-sm-block visible-md-block visible-lg-block">
-            <nav class="navbar navbar-default det about_menu_item_submenu hide det">
-  <div class="container ">
-    <ul class="nav nav-pills pol">
-      <li><a class="tab-color" href="/story">Story</a>
-      </li>
-      <li><a class="tab-color" href="/tips">Tips</a>
-      </li>
-      <li><a class="tab-color" href="/products">Products</a>
-      </li>
-      <li><a class="tab-color" href="/routine">Routine</a>
-      </li>
-      <li><a class="tab-color" href="/store">Plans</a>
-      </li>
-      <li><a class="tab-color" href="/rewards">Rewards</a>
-      </li>
-      <li><a class="tab-color" href="/reviews">Reviews</a>
-      </li>
-      <li><a class="tab-color" href="/blog">Blog</a>
-      </li>
-    </ul>
-  </div>
-</nav>
-    </div>
-    
-    </nav>
-
-  </div>
-</header>
-<script type="text/javascript">
-
-$(".detail, .arrw").click(function(){
-     menu_item_class = '.' + $(this).data('toggle-for');
-     $(menu_item_class).siblings().removeClass("show").addClass("hide");
-     $('.detail').removeClass("green-active");
-     if($(menu_item_class).hasClass('hide')){
-      $(menu_item_class).removeClass("hide");
-      $(menu_item_class).addClass("show");
-      if($(this).hasClass('arrw')){
-        $(this).closest('li').prev().addClass("green-active");
-      } else {
-       $(this).addClass("green-active");
-     }
-    }
-    else{
-      $(menu_item_class).removeClass("show");
-      $(menu_item_class).addClass("hide");
-      if($(this).hasClass('arrw')){
-        $(this).closest('li').prev().removeClass("green-active");
-      } else {
-       $(this).removeClass("green-active");
-     }
-      
-    }
-});
-
-
-$(".hamburger").click(function(){
-   if($(".hamburger").hasClass('active')){
-    $(".on-mob").css("border-bottom", "1px solid #D3D3D3");
-  }
-  else
-  {
-    $(".on-mob").css("border-bottom", "none");
-  }
-});
-  
- $(".burger").click(function(){
-    $(".hamburgerclose").removeClass("hide");
-    $(".hamburgerclose").addClass("show");
-    $(".burger").removeClass("show");
-    $(".burger").addClass("hide");
-  });
-$(".hamburgerclose").click(function(){
-    $(".hamburgerclose").removeClass("show");
-    $(".hamburgerclose").addClass("hide");
-    $(".hamburger").removeClass("hide");
-    $(".hamburger").addClass("show");
-     $(".on-mob").css("border-bottom", "1px solid #D3D3D3");
-  });
-
-</script>
-
-
-
-  <style type="text/css">
-
-  html, body { overflow-x: hidden; margin-left: auto; margin-right: auto;}
-
-  .container {
-    width: 100%;
-  }
-
-  .center {
-    margin: 0 auto;
-    width: 80%;
-  }
-
-  .text-overlay {
-    top: 10px;
-  }
-
-  .mini-carousel-background {
-    padding-top: 15.5em;
-    min-width: 100%;
-    min-height: 100%;
-    max-height: 100%;
-    width: 100%;
-    background: url();
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    @media only screen and (max-width: $screen-xs) {
-      min-height: 50%;
-      padding-top: 10.5em;
-    }
-
-    h1 {
-      text-decoration: underline;
-      font-family: $font-family-serif;
-    }
-    h4 {
-      font-weight: 300;
-    }
-  }
-
-  .dynamic-carousel-background {
-    padding-top: 15.5em;
-    max-height: 100%;
-
-    h1 {
-      font-family: $font-family-serif;
-    }
-    h4 {
-      font-weight: 300;
-    }
-  }
-</style>
-
-<!-- notification banner goes here -->
-
-<div id="carousel" class="carousel slide" data-ride="carousel" data-interval="6000">
-  <!-- Indicators -->
- <!--  <ol class="carousel-indicators">
-     -->
-    <!-- <li data-target="#carousel" data-slide-to="1"></li>
-    <li data-target="#carousel" data-slide-to="2"></li>
-    <li data-target="#carousel" data-slide-to="3"></li> -->
- <!--  </ol> --> 
-
-  <!-- Wrapper for slides -->
-  <div class="carousel-inner" role="listbox">
-  </div>
-
-  <!-- Controls -->
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-    <span class="arrow-left circle" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-    <span class="arrow-right circle" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-
-</div>
-
-
-
- <!-- <div class='woobox-offer' data-offer='5bv5qf'></div> -->
-
-
-<!-- Start of page sections -->
-
-    <div class="page-section">
-          <!-- Modal -->
-
-
-
-      <div class="row container-fluid center-block" id="" style="padding-top: 50px;
-          background-color: #ffffff;
-
-          color: Grey;
-          ">
-
-          <div class="row " style="padding-top: 25px; padding-bottom: 100px; margin: auto; width: 100%;">
-
-          <div style="" class="center-block description">
-            <div class="sub-wd" style="text-align: center;margin: 10px; font-weight: 300; font-size: 19px; width: 100%; margin:auto;">
-            <h1>Privacy Policy
-            </h1></div>
-          </div>
-
-          <div class="row visible-xs-block">
-              <!-- partial public mob-->
-
-              
-    <div class="col-lg-12 col-lg-offset-2 col-md-12 col-md-offset-2 col-sm-12 col-sm-offset-2 col-xs-16">
-      <div class="row middle-div-mar" style="margin-left: px;">
-        
-        <div class="row text-center landing-icon visible-lg-block visible-md-block">
-          <div class="img-responsive line" style="margin-top: 50px;">
-            <img alt="" class="max" height="300" src="https://quip-page-builder.s3.amazonaws.com/uploads/page_sub_section/image/415/quip_TERMS.jpg?X-Amz-Expires=600&amp;X-Amz-Date=20170625T015950Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAILBFKT3VA2ITFEUA/20170625/us-east-1/s3/aws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=f3cc1dc6126a8a6f13bae37eba0520f51e677a3789f6963bbd68813ee496ce76" width="300">
-          </div>
-         </div>
- 
-         <div class="row text-center landing-icon visible-sm-block">
-          <div class="img-responsive line" style="margin-top: 50px;">
-            <img alt="" class="max" src="https://quip-page-builder.s3.amazonaws.com/uploads/page_sub_section/image/415/tab_size_quip_TERMS.jpg?X-Amz-Expires=600&amp;X-Amz-Date=20170625T015950Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAILBFKT3VA2ITFEUA/20170625/us-east-1/s3/aws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=9745f6cdfd5dd7e301d129df7bfc739e1b6666b1e0c3fd7ba5580cc2ad808903">
-            
-          </div>
-        </div>
-
-        <div class="row text-center landing-icon visible-xs-block ">
-          <div class="img-responsive line" style="margin-top: 50px;">
-            <img alt="" class="max" src="https://quip-page-builder.s3.amazonaws.com/uploads/page_sub_section/image/415/profile_size_fit_quip_TERMS.jpg?X-Amz-Expires=600&amp;X-Amz-Date=20170625T015950Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAILBFKT3VA2ITFEUA/20170625/us-east-1/s3/aws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=1bca7153423a5c5f3f0794130d54d005f86ec9b8ff92a8092957560c8bcfd0fa">
-          </div>
-        </div>
-
-              <div class="row text-center">
-          <div class="col-lg-12 col-lg-offset-2 col-md-12 col-md-offset-2 col-sm-12 col-sm-offset-2 col-xs-16 text-center">
-            <p><a href="/privacy#privacy"><font size="3"><strong>THE POLICY</strong></font></a>
-<br>
-            </p>
-              <div class="row clearfix" style="float: ;">
-
-                
-            </div>
-          </div>
-        </div>
-        <!-- start -->
-      </div>
-      <!-- end -->
-    </div>
-
-              </div>
-
-          <div class="row  visible-sm-block  visible-md-block visible-lg-block">
-
-              <!-- partial public-->
-              
-    <div class="col-lg-12 col-lg-offset-2 col-md-12 col-md-offset-2 col-sm-12 col-sm-offset-2 col-xs-16">
-      <div class="row middle-div-mar" style="margin-left: px;">
-        
-        <div class="row text-center landing-icon visible-lg-block visible-md-block">
-          <div class="img-responsive line" style="margin-top: 50px;">
-            <img alt="" class="max" height="300" src="https://quip-page-builder.s3.amazonaws.com/uploads/page_sub_section/image/415/quip_TERMS.jpg?X-Amz-Expires=600&amp;X-Amz-Date=20170625T015950Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAILBFKT3VA2ITFEUA/20170625/us-east-1/s3/aws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=f3cc1dc6126a8a6f13bae37eba0520f51e677a3789f6963bbd68813ee496ce76" width="300">
-          </div>
-         </div>
- 
-         <div class="row text-center landing-icon visible-sm-block">
-          <div class="img-responsive line" style="margin-top: 50px;">
-            <img alt="" class="max" src="https://quip-page-builder.s3.amazonaws.com/uploads/page_sub_section/image/415/tab_size_quip_TERMS.jpg?X-Amz-Expires=600&amp;X-Amz-Date=20170625T015950Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAILBFKT3VA2ITFEUA/20170625/us-east-1/s3/aws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=9745f6cdfd5dd7e301d129df7bfc739e1b6666b1e0c3fd7ba5580cc2ad808903">
-            
-          </div>
-        </div>
-
-        <div class="row text-center landing-icon visible-xs-block ">
-          <div class="img-responsive line" style="margin-top: 50px;">
-            <img alt="" class="max" src="https://quip-page-builder.s3.amazonaws.com/uploads/page_sub_section/image/415/profile_size_fit_quip_TERMS.jpg?X-Amz-Expires=600&amp;X-Amz-Date=20170625T015950Z&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAILBFKT3VA2ITFEUA/20170625/us-east-1/s3/aws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=1bca7153423a5c5f3f0794130d54d005f86ec9b8ff92a8092957560c8bcfd0fa">
-          </div>
-        </div>
-
-              <div class="row text-center">
-          <div class="col-lg-12 col-lg-offset-2 col-md-12 col-md-offset-2 col-sm-12 col-sm-offset-2 col-xs-16 text-center">
-            <p><a href="/privacy#privacy"><font size="3"><strong>THE POLICY</strong></font></a>
-<br>
-            </p>
-              <div class="row clearfix" style="float: ;">
-
-                
-            </div>
-          </div>
-        </div>
-        <!-- start -->
-      </div>
-      <!-- end -->
-    </div>
-
-              </div>
-
-
-          <div class="row clearfix">
-          </div>
-        </div>
-
-  </div>
-    <div class="page-section">
-          <!-- Modal -->
-
-
-
-      <div class="row container-fluid center-block" id="privacy" style="padding-top: 50px;
-          background-color: #fafafa;
-
-          color: Grey;
-          ">
-
-          <div class="row " style="padding-top: 25px; padding-bottom: 50px; margin: auto; width: 90%;">
-
-          <div style="" class="center-block description">
-            <div class="sub-wd" style="text-align: center;margin: 10px; font-weight: 300; font-size: 19px; width: 90%; margin:auto;">
-            <p><strong><font size="10">privacy policy</font></strong></p><strong><br>
-
-</strong><p align="justify"><strong>
-
-This Privacy Policy describes the policies and procedures of Quip NYC Inc. d/b/a quip (“we”, “our” or “us”) on the collection, use and disclosure of your information on www.getquip.com (the “Site”) and the services, features, content, applications, and products we offer (collectively with the Site, the “Services”). We receive information about you from various sources, including: (i) if you register for the Site and the Services, through your user account on the Services (your “Account”); (ii) your use of the Services generally; and (iii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
-
-<br><br>WHAT DOES THIS PRIVACY POLICY COVER?<br><br>
-
-This Privacy Policy covers the treatment of personally identifiable information (“Personal Information”) gathered when you are using or accessing the Services. This Privacy Policy also covers our treatment of any Personal Information that our business partners share with us or that we share with our business partners. This Privacy Policy does not apply to the practices of third parties that we do not own or control, including but not limited to any third party websites, services and applications (“Third Party Services”) that you elect to access through the Service or to individuals that we do not manage or employ. While we attempt to facilitate access only to those Third Party Services that share our respect for your privacy, we cannot take responsibility for the content or privacy policies of those Third Party Services. We encourage you to carefully review the privacy policies of any Third Party Services you access. 
-
-<br><br>WHAT INFORMATION DO WE COLLECT?<br><br>
-
- The information we gather enables us to personalize, improve and continue to operate the Services. In connection with certain aspects of the Services, we may request, collect and/or display some of your Personal Information. We collect the following types of information from our users. 
-
-<br><br>ACCOUNT INFORMATION:<br><br>
-
- When you create an Account, you will provide information that could be Personal Information, such as your username, password and email address. You acknowledge that this information may be personal to you, and by creating an account on the Services and providing Personal Information to us, you allow others, including us, to identify you and therefore may not be anonymous. We may use your contact information to send you information about our Services, but only rarely when we feel such information is important. You may unsubscribe from these messages through your Account settings, although we, regardless, reserve the right to contact you when we believe it is necessary, such as for account recovery purposes. 
-
-<br><br>FINANCIAL INFORMATION:<br><br>
-
-We do not currently collect financial information, such as your payment method (valid credit card number, type, expiration date or other financial information); that information is collected and stored by our third party payment processing company (the “Payment Processor”), and use and storage of that information is governed by the Payment Processor’s applicable terms of service and privacy policy. 
-
-<br><br>IP ADDRESS INFORMATION AND OTHER INFORMATION COLLECTED AUTOMATICALLY:<br><br>
-
-We automatically receive and record information from your web browser when you interact with the Services, including your IP address and cookie information. This information is used for fighting spam/malware and also to facilitate collection of data concerning your interaction with the Services (e.g., what links you have clicked on). Generally, the Services automatically collect usage information, such as the number and frequency of visitors to the Site. We may use this data in aggregate form, that is, as a statistical measure, but not in a manner that would identify you personally. This type of aggregate data enables us and third parties authorized by us to figure out how often individuals use parts of the Services so that we can analyze and improve them. 
-
-<br><br>EMAIL COMMUNICATIONS:<br><br>
-
- We may receive a confirmation when you open an email from us. We use this confirmation to improve our customer service. 
-
-<br><br>INFORMATION COLLECTED USING COOKIES:<br><br>
-
-Cookies are pieces of text that may be provided to your computer through your web browser when you access a website. Your browser stores cookies in a manner associated with each website you visit. We use cookies to enable our servers to recognize your web browser and tell us how and when you visit the Site and otherwise use the Services through the Internet. Our cookies do not, by themselves, contain Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are. As noted, however, we do use cookies to identify that your web browser has accessed aspects of the Services and may associate that information with your Account if you have one. Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave cookies active, because they enable you to take advantage the most attractive features of the Services This Privacy Policy covers our use of cookies only and does not cover the use of cookies by third parties. We do not control when or how third parties place cookies on your computer. For example, third party websites to which a link points may set cookies on your computer. 
-
-<br><br>AGGREGATE INFORMATION:<br><br>
-
-We collect statistical information about how both unregistered and registered users, collectively, use the Services (“Aggregate Information”). Some of this information is derived from Personal Information. This statistical information is not Personal Information and cannot be tied back to you, your Account or your web browser. 
-
-<br><br>HOW, AND WITH WHOM, IS MY INFORMATION SHARED?<br><br>
-
-The Services are designed to help you share information with others. As a result, some of the information generated through the Services is shared with third parties. 
-
-<br><br>INFORMATION ABOUT YOUR ACTIVITY ON THE SERVICES:<br><br>
-
-Registered users may have some of the information about their activity on and through the Services associated with their Accounts. Unregistered users will not have this association, but information concerning their use of the Services (such as what pages they have visited) may be tracked anonymously through the use of cookies and stored by us. 
-
-<br><br>IP ADDRESS INFORMATION:<br><br>
-
-While we collect and store IP address information, that information is not made public. We do at times, however, share this information with our partners, service providers and other persons with whom we conduct business, and as otherwise specified in this Privacy Policy. 
-
-<br><br>INFORMATION YOU ELECT TO SHARE:<br><br>
-
-You may access other Third Party Services through the Services, for example by clicking on links to those Third Party Services from within the Site. We are not responsible for the privacy policies and/or practices of these Third Party Services, and you are responsible for reading and understanding those Third Party Services’ privacy policies. This Privacy Policy only governs information collected on the Services. 
-
-<br><br>AGGREGATE INFORMATION:<br><br>
-
-We share Aggregate Information with our partners, service providers and other persons with whom we conduct business. We share this type of statistical data so that our partners can understand how and how often people use our Services and their services or websites, which facilitates improving both their services and how our Services interface with them. In addition, these third parties may share with us non-private, aggregated or otherwise non Personal Information about you that they have independently developed or acquired. 
-
-<br><br>EMAIL COMMUNICATIONS WITH US:<br><br>
-
-As part of the Services, you may occasionally receive email and other communications from us, such as communications relating to your Account. Communications relating to your Account will only be sent for purposes important to the Services, such as password recovery. 
-
-<br><br>FINANCIAL INFORMATION:<br><br>
-
-As stated above, we do not currently collect financial information, as that information is collected and stored by our Payment Processor. However, we may from time to time request and receive some of your financial information from our Payment Processor for the purposes of completing transactions you have initiated through the Services, enrolling you in discount, rebate, and other programs in which you elect to participate, protecting against or identifying possible fraudulent transactions, and otherwise as needed to manage our business. 
-
-<br><br>INFORMATION SHARED WITH OUR AGENTS:<br><br>
-
-We employ and contract with people and other entities that perform certain tasks on our behalf and who are under our control (our “Agents”). We may need to share Personal Information with our Agents in order to provide products or services to you. Unless we tell you differently, our Agents do not have any right to use Personal Information or other information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information with our Agents. 
-
-<br><br>INFORMATION DISCLOSED PURSUANT TO BUSINESS TRANSFERS:<br><br>
-
-In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the transferred business assets. Moreover, if we, or substantially all of our assets, were acquired, or if we go out of business or enter bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of us or our assets may continue to use your Personal Information as set forth in this policy. 
-
-<br><br>INFORMATION DISCLOSED FOR OUR PROTECTION AND THE PROTECTION OF OTHERS:<br><br>
-
-We also reserve the right to access, read, preserve, and disclose any information as it reasonably believes is necessary to (i) satisfy any applicable law, regulation, legal process or governmental request, (ii) enforce these Terms of Service, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security or technical issues, (iv) respond to user support requests, or (v) protect our rights, property or safety, our users and the public. This includes exchanging information with other companies and organizations for fraud protection and spam/malware prevention. 
-
-<br><br>INFORMATION WE SHARE WITH YOUR CONSENT:<br><br>
-
-Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information. 
-
-<br><br>IS INFORMATION ABOUT ME SECURE?<br><br>
-
-Your Account information will be protected by a password for your privacy and security. You need to prevent unauthorized access to your Account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your Account. We seek to protect Account information to ensure that it is kept private; however, we cannot guarantee the security of any Account information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. We otherwise store all of our information, including your IP address information, using industry-standard techniques. We do not guarantee or warrant that such techniques will prevent unauthorized access to information about you that we store, Personal Information or otherwise. 
-
-<br><br>WHAT INFORMATION OF MINE CAN I ACCESS?<br><br>
-
-If you are a registered user, you can access information associated with your Account by logging into the Services. Registered and unregistered users can access and delete cookies through their web browser settings. California Privacy Rights: Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: Quip NYC Inc., c/o William May, 45 Main St., Suite 828, Brooklyn, NY 11201. 
-
-<br><br>HOW CAN I DELETE MY ACCOUNT?<br><br>
-
-Should you ever decide to delete your Account, you may do so by emailing Help@getquip.com. If you terminate your Account, any association between your Account and information we store will no longer be accessible through your Account. However, given the nature of sharing on the Services, any public activity on your Account prior to deletion will remain stored on our servers and will remain accessible to the public. 
-
-<br><br>WHAT CHOICES DO I HAVE REGARDING MY INFORMATION?<br><br>
-
-You can use many of the features of the Services without registering, thereby limiting the type of information that we collect. You can always opt not to disclose certain information to us, even though it may be needed to take advantage of some of our features. You can delete your Account. Please note that we will need to verify that you have the authority to delete the Account, and activity generated prior to deletion will remain stored by us and may be publicly accessible. 
-
-<br><br>WHAT HAPPENS WHEN THERE ARE CHANGES TO THIS PRIVACY POLICY?<br><br>
-
-We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we collect or use information, we will notify you by posting an announcement on the Services or sending you an email. A user is bound by any changes to the Privacy Policy when he or she uses the Services after such changes have been first posted. 
-
-<br><br>WHAT IF I HAVE QUESTIONS OR CONCERNS?<br><br>
-
-If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to help@getquip.com We will make every effort to resolve your concerns. 
-
-<br><br>EFFECTIVE DATE:<br><br>
-
-February 2, 2015</strong></p>
-            </div>
-          </div>
-
-          <div class="row visible-xs-block">
-              </div>
-
-          <div class="row  visible-sm-block  visible-md-block visible-lg-block">
-
-              </div>
-
-
-          <div class="row clearfix">
-                <p style="text-align: center; padding-bottom: 50px;"><a class="btn btn-info standard-btn" href="ASK US A QUESTION" style="margin-top: 3em; margin-left:-5px; color: grey; border: 1px solid grey;">ASK US A QUESTION</a></p>
-          </div>
-        </div>
-
-  </div>
-
-<!-- End of page sections -->
-
-<script type="text/javascript">
-$(".new-info").click(function() {
-  $("#myModalopen").modal();
-});
-
-
-$(".navbar-toggle.tog-ham").on("click", function(){
-   if ($(".navbar-toggle.tog-ham").find(".active").length > 0){
-    $(".hamburger").removeClass("active");
-  }else{
-    $(".hamburger").addClass("active");
- }
-});
-
-$(function(){
-  $(".sto-ban-mob").show();
-})
-
-
-$('#myCarousel2').on('slide.bs.carousel', function () {
-  // do something…
-})
-
-</script>
-
-
-  
-
-<footer>
-  <div class="container fine-foot">
-    <div class="row">
-
-        <div class="text-center" style="width:100%">
-          <div class="row" style="margin:45px 0 0 0;">
-			  <a href="/blog"><img alt="Blog icon footer 70e4d55be3a48708aa3d92ebd8c6cf3e1c48815cce114f76e9eff8986276606d" onmouseout="this.src='/assets/footer/blog_icon_footer-70e4d55be3a48708aa3d92ebd8c6cf3e1c48815cce114f76e9eff8986276606d.png'" onmouseover="this.src='/assets/footer/blog_icon_footer_mo-6c88a02a97ffb52bb264263a29a714735904fafbf362fa4dd9a5d0788345229b.png'" src="/assets/footer/blog_icon_footer-70e4d55be3a48708aa3d92ebd8c6cf3e1c48815cce114f76e9eff8986276606d.png"></a>
-          </div>
-          <div class="row" style="margin:20px 0 0 0;">
-			  <a class="footer_text_link" href="/blog" style="color:#BAD3EA">The Blog</a>
-          </div>
-
-          <div id="news_letter_form" class="row" style="margin:42px 0 0 0;">
-            <div class="text-center">
-              <form accept-charset="UTF-8" action="/subscribe" class=" form-inline " method="post"><div style="display:none"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="rDG9V9nlDWtXPJuj4JGpZdFJ5UltTfiOcGCWnpCtZc8="></div>
-              <div class="form-group">
-                <div class="input-group row" style="margin:auto;">
-                  <div class="input-group-addon"><input class="form-control fil-form" id="user_email" name="user[email]" placeholder="Enter your email" required="required" style="margin-left: 0 !important;" type="email">
-                    <input id="type" name="type" type="hidden" value="Newsletter (front page)">
-                  </div>
-                  <div class="input-group-addon">
-                    <button type="submit" class="btn btn-primary keep">GET THE LATEST</button>
-                  </div>
-  
-              </div>
-
-            </div></form>  
-          </div>
-         </div>
-
-
-          <div id="social-icons-container" class="row" style="margin: 15px 0px 0px 0px">
-
-            <ul class="list-inline text-center social-icons">
-              <li><a href="/contact" target="_blank" ,="" class="footer_text_link"><div id="contact-us-social">Contact Us</div></a></li>
-              <li><a href="/contact" target="_blank"><div id="email-social"></div></a></li>
-              <li><div id="separator-social"></div></li>
-              <li><a href="https://www.youtube.com/getquip" target="_blank"><div id="youtube-social"></div></a></li>
-              <li><a href="https://www.facebook.com/getquip" target="_blank"><div id="facebook-social"></div></a></li>
-              <li><a href="http://instagram.com/getquip" target="_blank"><div id="instagram-social"></div></a></li>
-              <li><a href="https://twitter.com/getquip" target="_blank"><div id="twitter-social"></div></a></li>
-            </ul>
-          </div>
-          
-          <div class="row" style="margin: 5px 0px 0px 0px">
-            <a class="btn btn-default standard-btn smile lower-portion" href="/professional" style="font-size:14px; width:150px!important;">PROFESSIONALS</a>
-          </div>
-          
-          <div id="footer_links" class="row text-center" style="margin-left: 0px!important;margin-right: 0px!important;">
-
-            <ul class="list-inline text-center" style="margin-top: 12px;">
-
-              <li><a class="bot-links footer_text_link" href="/story" target="_blank">About</a></li>
-
-              <li><a class="bot-links footer_text_link" href="/terms" target="_blank">Terms</a></li>
-
-              <li><a class="bot-links footer_text_link" href="/privacy" target="_blank">Privacy</a></li>
-              <li class="foot-c-text">©  <script>document.write(new Date().getFullYear())</script>2020</li>
-              
-            </ul>
-          </div>
-        </div>
-
-    </div>
-
-  </div>
-</footer>
+<!--The following is the downloaded HTML source of the getquip.com privacy policy that was archived on 2018-09-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180903230548id_/https%3A//www.getquip.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WKZRKF4"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script>window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"b764b546a1","applicationID":"12477971","transactionName":"IQwKTUFYCg8HSkkUVAUGFxZDRQ8VA1sf","queueTime":5,"applicationTime":426,"agent":""}</script>
+<script>(window.NREUM||(NREUM={})).loader_config={xpid:"XAcFWFdQGwICUFZVDgYG"};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+
+<!-- layout page_builder -->
 
 <!-- Facebook Pixel Code -->
 <script>
-function get_date_for_fb_advanced_matching(){
-  js_hash = {}
-
-  return js_hash
+function get_data_for_fb_advanced_matching() {
+  return {};
 }
 
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
 n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+n.push=n;n.loaded=!0;n.version="2.0";n.queue=[];t=b.createElement(e);t.async=!0;
 t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-document,'script','//connect.facebook.net/en_US/fbevents.js');
- 
-fbq('init', '1729444483949162', get_date_for_fb_advanced_matching());
-fbq('track', "PageView");
+document,"script","//connect.facebook.net/en_US/fbevents.js");
+
+fbq("init", "1729444483949162", get_data_for_fb_advanced_matching());
+fbq("track", "PageView");
 </script>
-<noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=1729444483949162&ev=PageView&noscript=1"
-/></noscript>
+
 <!-- End Facebook Pixel Code -->
 
-<!-- Google Code for [AL] - General Audience - 30 -->
-<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 957299510;
-var google_conversion_label = "yWD_COqY_GMQtva8yAM";
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/957299510/?value=1.00&amp;currency_code=USD&amp;label=yWD_COqY_GMQtva8yAM&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-<!-- Google Code for [AL] - General Audience - 30 End -->
-<!-- Bing UET tag tracking code -->
-<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5164178"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5164178&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
-<!-- Bing UET tag tracking code End -->
-<!-- Twitter universal website tag code -->
-<script>
-!function(e,n,u,a){e.twq||(a=e.twq=function(){a.exe?a.exe.apply(a,arguments):
-a.queue.push(arguments);},a.version='1',a.queue=[],t=n.createElement(u),
-t.async=!0,t.src='//static.ads-twitter.com/uwt.js',s=n.getElementsByTagName(u)[0],
-s.parentNode.insertBefore(t,s))}(window,document,'script');
-// Insert Twitter Pixel ID and Standard Event data below
-twq('init','nuk6l');
-twq('track','PageView');
-</script>
-<!-- End Twitter universal website tag code -->
-<!-- Pinterest sitewide pixel -->
-<img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/?tid=UtrNiTSWgtb&amp;value=0.00&amp;quantity=1">
-<!-- Pinterest sitewide pixel End -->
-<!-- Outbrain sitewide pixel -->
-<img src="//amplifypixel.outbrain.com/pixel?mid=009721a9d45be6aa7e6f91231bbcc163a9" style="display: none;">
-<!-- Outbrain sitewide pixel End -->
 
+
+<!-- Google Tag Manager -->
+
+<script>window.dataLayer = window.dataLayer || []</script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({"gtm.start":
+new Date().getTime(),event:"gtm.js"});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!="dataLayer"?"&l="+l:"";j.async=true;j.src=
+"https://www.googletagmanager.com/gtm.js?id="+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,"script","dataLayer","GTM-WKZRKF4");</script>
+
+<!-- End Google Tag Manager -->
+
+
+<link rel="stylesheet" media="all" href="//cloud.typography.com/6038036/7523992/css/fonts.css" data-turbolinks-track="false">
+<link rel="stylesheet" media="all" href="https://d3b1wcv83n4ig.cloudfront.net/assets/application-4ee24da0c06cea8740980d10c0ff05d6c997b08d5fadff6b4c59af6f33085374.css" data-turbolinks-track="false">
+<script src="https://d3b1wcv83n4ig.cloudfront.net/assets/application-8e20b677f82da5adeb6801b83975f7f72d694d20f578b408b369def808295237.js" data-turbolinks-track="false"></script>
+
+<title>quip | Privacy Policy</title>
+<link rel="apple-touch-icon" type="image/x-icon" href="/icons/apple-touch-icon.png" sizes="180x180">
+<link rel="icon" type="image/x-icon" href="/icons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/x-icon" href="/icons/favicon-16x16.png" sizes="16x16">
+<link rel="mask-icon" type="image/x-icon" href="/icons/safari-pinned-tab.svg" color="#50fcce">
+<link rel="shortcut icon" type="image/x-icon" href="/icons/favicon.ico">
+<meta name="description" content="Details on our privacy policy">
+<link rel="canonical" href="https://www.getquip.com/privacy">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="quip | Privacy Policy">
+<meta property="og:site_name" content="quip">
+<meta property="og:description" content="Details on our privacy policy">
+<meta property="og:url" content="https://www.getquip.com/privacy">
+<meta property="og:image" content="https://s3.amazonaws.com/quip-nyc/icons/REFERRAL_image.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@getquip">
+<meta name="twitter:title" content="quip | Privacy Policy">
+<meta name="twitter:description" content="Details on our privacy policy">
+<meta name="twitter:image" content="https://s3.amazonaws.com/quip-nyc/icons/REFERRAL_image.jpg">
+<meta name="p:domain_verify" content="86af7f7e4a1c906f4e18f376fa00d85d">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="msapplication-TileColor" content="#50FCCE">
+<meta name="msapplication-square150x150logo" content="/icons/mstile-150x150.png">
+<meta name="theme-color" content="#50FCCE">
+<meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="FI7oEMKYVMHut0Y5pJY9yoFrn4YA2jvlhDgfVx6HCfqcrZe8Zjhw5J0tkMCItKEMhqloBw3oVurUMV+xejCbqQ==">
+
+</head>
+<body class="page-builder">
+  <!-- Noscript versions of GTM and Facebook pixel -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WKZRKF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1729444483949162&ev=PageView&noscript=1" /></noscript>
+<!-- End noscript versions of GTM and Facebook pixel -->
+
+
+    <div class="header-push"></div>
+<header>
+
+  <nav class="quip-nav">
+    <h1 class="quip-nav__logo">
+      <a tabindex="9" href="/">
+        <img class="quip-nav__logo__img" width="93" height="33" alt="Quip Logo" src="https://d3b1wcv83n4ig.cloudfront.net/assets/2018/quip-logo-0e648b296721196eb225d52d2b33345acefcdb5515e627a93e9197c99f254c94.svg">
+        <span class="quip-nav__logo__text">QUIP</span>
+</a>    </h1>
+
+    <div class="quip-nav__main-bar">
+      <ul class="quip-nav__main-bar__left">
+        <li>
+          <a tabindex="1" href="/store">
+            Store
+</a>        </li>
+        <li>
+          <a tabindex="2" href="/dentists">
+            Dental
+</a>        </li>
+        <li><a href="#" class="quip-nav__about-link" tabindex="3">About</a></li>
+      </ul>
+      <ul class="quip-nav__main-bar__right">
+        <li>
+          <a tabindex="10" href="/reviews">
+            Reviews
+</a>        </li>
+        <li>
+          <a tabindex="11" href="https://help.getquip.com/hc/en-us">
+            Help
+</a>        </li>
+        <li>
+            <a tabindex="12" href="/users/sign_in">
+              Sign In
+</a>        </li>
+        <li class="quip-nav__cart-link-holder">
+          <a tabindex="13" class="quip-nav__cart-link" href="/carts">
+            <span class="quip-nav__cart-link__label quip-nav__cart-link__label--cart">Cart</span>
+            <span class="quip-nav__cart-link__label quip-nav__cart-link__label--shop">Shop</span>
+            <span class="quip-nav__cart-link__count">0</span>
+</a>        </li>
+      </ul>
+    </div>
+
+    <div class="quip-nav__about-bar">
+      <ul>
+        <li>
+          <a tabindex="4" href="/story">
+            Story
+</a>        </li>
+        <li>
+          <a tabindex="5" href="/tips">
+            Tips
+</a>        </li>
+        <li>
+          <a tabindex="6" href="/products">
+            Products
+</a>        </li>
+        <li>
+          <a tabindex="7" href="/rewards">
+            Rewards
+</a>        </li>
+        <li>
+          <a tabindex="8" href="/blog">
+            Blog
+</a>        </li>
+      </ul>
+    </div>
+
+    <div class="quip-nav__mobile">
+      <ul class="quip-nav__mobile-menu">
+        <li>
+          <a tabindex="11" href="/store">
+            Store
+</a>        </li>
+        <li>
+          <a tabindex="12" href="/dentists">
+            Dental
+</a>        </li>
+        <li><a href="#" class="quip-nav__about-link" tabindex="13">About</a></li>
+        <li class="quip-nav__mobile__about-section">
+          <ul>
+            <li>
+              <a tabindex="14" href="/story">
+                Story
+</a>            </li>
+            <li>
+              <a tabindex="15" href="/tips">
+                Tips
+</a>            </li>
+            <li>
+              <a tabindex="16" href="/products">
+                Products
+</a>            </li>
+            <li>
+              <a tabindex="17" href="/rewards">
+                Rewards
+</a>            </li>
+            <li>
+              <a tabindex="18" href="/blog">
+                Blog
+</a>            </li>
+          </ul>
+        </li>
+        <li>
+          <a tabindex="19" href="/reviews">
+            Reviews
+</a>        </li>
+        <li>
+          <a tabindex="20" href="https://help.getquip.com/hc/en-us">
+            Help
+</a>        </li>
+        <li>
+            <a tabindex="21" href="/users/sign_in">
+              Sign In
+</a>        </li>
+      </ul>
+      <div class="quip-nav__main-bar">
+        <ul class="quip-nav__main-bar__left">
+          <li class="quip-nav__menu-link"><a href="#" tabindex="1">Menu</a></li>
+        </ul>
+        <ul class="quip-nav__main-bar__right">
+          <li class="quip-nav__cart-link-holder">
+            <a tabindex="11" class="quip-nav__cart-link" href="/carts">
+              <span class="quip-nav__cart-link__label quip-nav__cart-link__label--cart">Cart</span>
+              <span class="quip-nav__cart-link__label quip-nav__cart-link__label--shop">Shop</span>
+              <span class="quip-nav__cart-link__count">0</span>
+</a>          </li>
+        </ul>
+      </div>
+    </div>
+
+  </nav>
+
+  <div class="cart-preview-shadow"></div>
+<div class="cart-preview"></div>
+<script id="cart-preview-template" type="text/template">
+
+  {{^cart_has_items}}
+    <div class="cart-preview__totals">
+  <div class="cart-preview__totals__sub">
+    <span class="cart-preview__totals__label">Starter Sets from</span>
+    <span class="cart-preview__totals__value">$25</span>
+  </div>
+  <div class="cart-preview__totals__refill">
+    <span class="cart-preview__totals__label">Refill plans from</span>
+    <span class="cart-preview__totals__value">$5</span>
+  </div>
+</div>
+
+<a class="quip-button cart-preview__empty-shop-now" href="/store">Shop now</a>
+<a class="cart-preview__empty-learn-more" href="/#getquip">Learn more</a>
+
+<div style="text-align:center;"><img alt="" src="https://d3b1wcv83n4ig.cloudfront.net/assets/2018/swatches-ca45e49e67a91a967809b1c882277e81e1068bb727776d2baf6df082ad91ff48.png" /></div>
+<div style="text-align:center;margin-top:10px;"><img src="https://d3b1wcv83n4ig.cloudfront.net/assets/shopping_cart_preview_quip_toothbrush-d137ce6070a3105e089b62f1ad1d9e8fe59b5ae7161e5b3f6c6e3ca8d8f5453c.jpg" alt="Shopping cart preview quip toothbrush" /></div>
+
+  {{/cart_has_items}}
+
+  {{#cart_has_items}}
+    <div class="cart-preview__totals">
+      <div class="cart-preview__totals__sub">
+        <span class="cart-preview__totals__label">Subtotal</span>
+        <span class="cart-preview__totals__value">{{total_price}}</span>
+      </div>
+      <div class="cart-preview__totals__refill">
+        <span class="cart-preview__totals__label">Total next refill</span>
+        <span class="cart-preview__totals__value">{{refill_price}}</span>
+      </div>
+    </div>
+
+    {{#two_distinct_shopping_cart_items}}
+      <div class="cart-preview__item">
+        <div class="cart-preview__item__title">{{title}}</div>
+        <div class="cart-preview__item__thumb" style="background-image:url({{thumb}})"></div>
+        <div class="cart-preview__item__quantity">Quantity: {{quantity}}</div>
+      </div>
+    {{/two_distinct_shopping_cart_items}}
+
+    {{#cart_has_more_items}}
+      <a href="/carts" class="cart-preview__view-all">View all {{total_items}} items</a>
+    {{/cart_has_more_items}}
+
+    <a href="/carts" class="quip-button cart-preview__checkout">Check out</a>
+    <a href="/store" class="quip-button quip-button--secondary cart-preview__shop-more">Shop more</a>
+  {{/cart_has_items}}
+
+</script>
+<script>
+CART.init();
+CART.setData({"total_price":0.0,"refill_price":0.0,"shopping_cart_items":[]});
+</script>
+
+
+</header>
+
+
+
+
+
+
+      <!-- start of page sections for page 112 -->
+
+
+        <div class="page-section" id="page-section-416">
+
+
+            <div class="row container-fluid center-block" id="" style="padding-top: 50px;background-color: #ffffff;color: Grey;">
+
+  <div class="row" style="padding-top: 25px; padding-bottom: 100px; margin: auto; width: 100%;">
+
+
+    <div style="" class="center-block description">
+      <div class="sub-wd" style="text-align: center;margin: 10px; font-weight: 300; font-size: 19px; width: 100%; margin:auto;">
+        
+
+        <h1>Privacy Policy
+      </h1></div>
+    </div>
+
+    <div class="row visible-xs-block">
+        <!-- partial public mobile -->
+        
+
+<div class="col-lg-12 col-lg-offset-2 col-md-12 col-md-offset-2 col-sm-12 col-sm-offset-2 col-xs-16">
+
+  <div id="sub_section_415" class="row middle-div-mar" style="margin-left: px; margin-right: px; ">
+
+    <div class="row text-center landing-icon visible-lg-block visible-md-block">
+
+        <div class="img-responsive line" style="margin-top: 50px;">
+
+              <img width="300" height="300" class="max" alt="" src="https://d3b1wcv83n4ig.cloudfront.net/uploads/page_sub_section/image/415/quip_TERMS.jpg">
+
+        </div>
+    </div>
+
+    <div class="row text-center landing-icon visible-sm-block">
+
+        <div class="img-responsive line" style="margin-top: 50px;">
+      			<img class="max" alt="" src="https://d3b1wcv83n4ig.cloudfront.net/uploads/page_sub_section/image/415/tab_size_quip_TERMS.jpg">
+        </div>
+    </div>
+
+    <div class="row text-center landing-icon visible-xs-block ">
+
+        <div class="img-responsive line" style="margin-top: 50px;">
+    				<img class="max" alt="" src="https://d3b1wcv83n4ig.cloudfront.net/uploads/page_sub_section/image/415/profile_size_fit_quip_TERMS.jpg">
+        </div>
+    </div>
+
+    <div class="row text-center ">
+      <div class="col-lg-12 col-lg-offset-2 col-md-12 col-md-offset-2 col-sm-12 col-sm-offset-2 col-xs-16 text-center">
+
+        <div class="padding-left-right-mobile">
+          <p><a href="/privacy#privacy"><font size="3"><strong>THE POLICY</strong></font></a>
+<br>
+          </p>
+
+
+          <div class="row clearfix " style="float: ; ">
+              <!-- btn if else -->
+          </div>
+        </div>
+      <!--col end-->
+      </div>
+    <!-- if else div -->
+    </div>
+  <!-- start -->
+  </div>
+<!-- end -->
+</div>
+
+        <!-- partial public mobile end -->
+    </div>
+
+    <div class="row  visible-sm-block visible-md-block visible-lg-block">
+        <!-- partial public -->
+        
+
+<div class="col-lg-12 col-lg-offset-2 col-md-12 col-md-offset-2 col-sm-12 col-sm-offset-2 col-xs-16">
+
+  <div id="sub_section_415" class="row middle-div-mar" style="margin-left: px; margin-right: px; ">
+
+    <div class="row text-center landing-icon visible-lg-block visible-md-block">
+
+        <div class="img-responsive line" style="margin-top: 50px;">
+
+              <img width="300" height="300" class="max" alt="" src="https://d3b1wcv83n4ig.cloudfront.net/uploads/page_sub_section/image/415/quip_TERMS.jpg">
+
+        </div>
+    </div>
+
+    <div class="row text-center landing-icon visible-sm-block">
+
+        <div class="img-responsive line" style="margin-top: 50px;">
+      			<img class="max" alt="" src="https://d3b1wcv83n4ig.cloudfront.net/uploads/page_sub_section/image/415/tab_size_quip_TERMS.jpg">
+        </div>
+    </div>
+
+    <div class="row text-center landing-icon visible-xs-block ">
+
+        <div class="img-responsive line" style="margin-top: 50px;">
+    				<img class="max" alt="" src="https://d3b1wcv83n4ig.cloudfront.net/uploads/page_sub_section/image/415/profile_size_fit_quip_TERMS.jpg">
+        </div>
+    </div>
+
+    <div class="row text-center ">
+      <div class="col-lg-12 col-lg-offset-2 col-md-12 col-md-offset-2 col-sm-12 col-sm-offset-2 col-xs-16 text-center">
+
+        <div class="padding-left-right-mobile">
+          <p><a href="/privacy#privacy"><font size="3"><strong>THE POLICY</strong></font></a>
+<br>
+          </p>
+
+
+          <div class="row clearfix " style="float: ; ">
+              <!-- btn if else -->
+          </div>
+        </div>
+      <!--col end-->
+      </div>
+    <!-- if else div -->
+    </div>
+  <!-- start -->
+  </div>
+<!-- end -->
+</div>
+
+        <!-- partial public end-->
+    </div>
+
+    <div class="row clearfix">
+    </div>
+
+  </div>
+
+
+</div>
+
+        </div>
+
+
+
+
+        <div class="page-section" id="page-section-417">
+
+
+            <div class="row container-fluid center-block" id="privacy" style="padding-top: 50px;background-color: #fafafa;color: Grey;">
+
+  <div class="row" style="padding-top: 25px; padding-bottom: 50px; margin: auto; width: 90%;">
+
+
+    <div style="" class="center-block description">
+      <div class="sub-wd" style="text-align: center;margin: 10px; font-weight: 300; font-size: 19px; width: 90%; margin:auto;">
+        
+
+        <p><strong><font size="10">privacy policy</font></strong></p><strong><br>
+
+</strong><p align="justify"><strong>
+
+At Quip NYC, Inc. d/b/a quip (“quip”, “Quip”, “we”, “us” or “our”) we take your privacy and the security of your information very seriously.<br><br>.
+
+This Privacy Policy (“Policy”) covers quip owned and operated websites, including www.getquip.com (“Site” or “Sites”) and any services offered by quip, including our provision of oral healthcare devices and associated services (collectively, the “Services.”)  This Privacy Policy is incorporated into, and is part of, our Terms of Use available at https://www.getquip.com/terms which govern your access to the Site and your use of the Site and/or Services.  Unless otherwise defined herein, capitalized terms shall have the meaning assigned to such terms in the Terms of Use.  <br><br>
+
+If you have any questions regarding this Policy please contact us at Help@getquip.com. <br><br>
+
+
+The Policy describes the types of information we gather from people visiting our Site and from individual users (“you” or “users”) interacting with the Services, and how we use, transfer, and secure such information.  By accessing any of our Site or using any of the Services, you agree to be bound by this Policy.  This Policy does not govern information we receive from third parties.  If you do not agree to the terms of this Policy, please do not use the Site, or any of our Services.  Each time you use any Sites, or Services, the current version of this Privacy Policy will apply. Accordingly, when you use any Site or Services, you should check the date of this Policy (which appears at the top) and review any changes since you last reviewed the Policy. <br><br>
+
+<font color="black"><u>1 | Types of Information We Collect</u></font><br><br>
+
+Quip may collect two types of information from users of our Sites and Services: “Personal Information” which is information that you provide that can be used to identify you (such as name or e-mail address, etc.) and “Aggregate Information” which is information that cannot be used to identify you (such as frequency of visits to the Site, browser type, etc.) <br><br>
+
+
+
+1.1.	<i>Personal Information Collected</i><br><br> 
+1.1.1.	Quip collects Personal Information you voluntarily provide to us when you use our Sites and Services.  For example, you may provide us with your email address, first name and last name, shipping address, or other Personal Information.  <br><br>
+1.1.2.	We do not control your use of our Sites and Services to share Personal Information with others.  If you chose to share information publicly through our Site or Services please understand that we cannot control the actions of third parties who could collect this information.  <br><br>
+1.1.3.	<i>Collection of Personal Information by Third Parties: </i> <br><br>
+1.1.4.	Some links on our Site may redirect you to third party websites and services that We do not operate.  The privacy practices of these websites and services will be governed by their own policies.    We make no representation or warranty as to the privacy policies of any third parties, including the providers of third party applications.  If you are submitting information to any such third party through our Site or Services, you should review and understand that party’s applicable policies, including their privacy policy, before providing your information to the third party.  <br><br>
+1.1.5.	For example, it is possible that your payment information, such as credit card or debit card information, and may be collected and stored by third party payment vendors, should you choose to provide such a payment method to a third party through your use of the Site or Services.
+<br><br>
+1.1.6.	We do not currently collect financial information, such as your payment method (valid credit card number, type, expiration date or other financial information); that information is collected and stored by our third party payment processing company (the “Payment Processor”) which is currently Stripe, and use and storage of that information is governed by the Payment Processor’s applicable terms of service and privacy policy (for Stripe, available at: https://stripe.com/us/legal and https://stripe.com/us/privacy or any of its successor sites). We may from time to time request and receive certain information from our Payment Processor or from you directly for purposes of completing transactions you have initiated through the Services, protecting against or identifying possible fraudulent transactions, and otherwise as needed to manage our business.  In no cases will such requested information allow for a financial transaction to be initiated.  <br><br>
+
+1.2.	<i>Aggregate Information Collected</i> <br><br>
+
+1.2.1.	Aggregate Information is information that does not identify you.  Aggregate Information may be collected when you visit our Site or interact with our Services independent of any information you voluntarily enter.  We may collect, use, store, and transfer Aggregate Information without restriction.    <br><br>
+1.2.2.	For example, when you visit our Site, some information is automatically collected.  Such information could include your operating system, the site from which you linked to us (“referring page”), the name of the website you chose to visit immediately after ours (called the “exit page”), information about other websites you have recently visited, browser (software used to browse the internet) type and language, device identifier numbers, your site activity, and the time and date of your visit.  Although we do our best to honor the privacy preferences of our visitors, we are not able to respond to Do Not Track signals from your browser at this time.  <br><br>
+1.2.3.	<i>Use of “Cookies”: </i> <br><br>
+1.2.4.	Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your web browser to help us identify you when you come to our website.  You have choices with respect to cookies.  By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies.  If you choose to reject all cookies you may be unable to use those aspects of our Sites which require registration in order to participate.  You can learn more about cookies and how they work at www.allaboutcookies.org.  You can always disable cookies through your browser settings. Doing so, however, may disable certain features on our websites.  To opt-out from third party cookies that are used for advertising purposes, you can do so on the NAI website at http://www.networkadvertising.org/managing/opt_out.asp.  <br><br>
+1.2.5.	<i>Analytics:</i><br><br> 
+1.2.6.	We may use third parties, such as analytics providers, including Google Analytics to analyze traffic to this web site. Google Analytics does not create individual profiles for visitors and only collects aggregate data.  To disable Google Analytics, please download the browser add-on for the deactivation of Google Analytics provided by Google at http://tools.google.com/dlpage/gaoptout?hl=en.  To learn more about privacy and Google Analytics, please consult the Google Analytics overview provided by Google at http://www.google.com/intl/en/analytics/privacyoverview.html.  You may find additional information about Google Analytics at http://www.google.com/policies/privacy/partners/. You have the option to opt out of Google's use of cookies by changing your settings through Google Ad Settings, visiting the Google advertising opt-out page at http://www.google.com/policies/technologies/ads/ <br><br>
+1.2.7.	We may also use cookies, pixels, beacons, or other web tracking technologies to track the amount of time spent on our Sites or social media and whether or not certain content, such as a video was viewed. We may work with a trusted third party to collect and process this information for us, based on our instructions and in compliance with this Privacy Policy. <br><br>
+1.2.8.	<i>Interest-Based Advertising:</i><br><br>
+1.2.9.	We may also participate in interest-based advertising using similar technology. This means that you may see advertising on our Sites tailored to how you browse or shop, or you may see advertising for We and its properties on other websites based on your browsing behavior across websites. Some websites where we may advertise belong to ad networks that use your web browsing history to choose which ads to display on their network websites; these ads include advertising for We and its Sites. Other websites where you see our ads, such as Facebook, may use interest preferences that you have chosen on those sites, as well as registration and other information about you, to choose which ads to display to you. Some internet browsers, websites such as Facebook and mobile devices offer opt-outs for interest-based advertising. Please refer to the website that you are visiting, your browser and/or your device settings for additional information <br><br>
+1.2.10.	You can opt-out of receiving interest-based ads from third parties who are members of the Network Advertising Initiative (NAI) or who follow the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt-out pages on the NAI website (http://www.networkadvertising.org/choices/) and DAA website (http://www.aboutads.info/choices/).<br><br>
+
+
+<font color="black"><u>2 | Sharing of Personal Information with Third Parties</u></font><br><br>
+
+2.1.	We may transfer Personal Information to third parties for the purpose of providing the Services.  We may disclose Personal Information to our appropriate affiliates, including third party service providers, to provide you with the Services.  For example, we may transfer your Personal Information to third party service providers to (i) provide subscription based products or services (ii) communicate with you about your purchases or other offers. These third party service providers are not authorized to retain, share, store or use the Personal Information for any purposes other than to provide the services they have been hired to provide.  We may also provide and license Personal Information to third parties for the marketing purposes of the third party. <br><br>
+
+2.2.	We may also elect to transfer your Personal Information to third parties under special circumstances to: (i) to comply with a legal requirement, judicial proceeding, court order, or legal process served on Us, (ii) to investigate a possible crime, such as fraud or identity theft; (iii) in connection with the sale, purchase, merger, reorganization, liquidation or dissolution of quip; (iv) when we believe it is necessary to protect the rights, property, or safety of quip or other persons, or (v) as otherwise required or permitted by law, including any contractual obligations of quip.<br><br>
+
+
+<u>3 | Corrections/Information Removal/Opt-Out</u><br><br>
+
+3.1.	You can request that any Personal Information stored by We be deleted at any time by contacting us at Help@getquip.com.  We may require you to provide certain information to verify that it is you making the request.  <br><br>
+
+3.2.	If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each communication. <br><br>
+
+
+<font color="black"><u>4 | Children and Privacy </u></font><br><br>
+
+4.1.	We do not knowingly collect Personal Information from children in connection with the features of our Sites or Services. If we become aware that an individual under the age of 13 has provided personally identifiable information through our Sites or Services, we will immediately remove the individual’s personally identifiable information from our files.  <br><br>
+
+<font color="black"><u>5 | Visitors That Reside Outside The United States </u></font><br><br>
+
+5.1.	We provides these Sites and Services for the purpose of creating an enjoyable experience for its customers within the United States.  The laws governing the collection and use of information within the United States may be different from the laws of your country.  If you decide to use our Site or Services, or share your Personal Information with Us, you are agreeing to be governed by the laws of the United States, and you are expressly consenting to the transfer of your data to the United States.<br><br>
+
+<font color="black"><u>6 | How Does Quip Protect My Information </u></font><br><br>
+
+6.1.	Quip takes the security of your Personal Information very seriously.  We uses reasonable administrative, physical, and technical safeguards to secure the Personal Information you share with us. Despite these safeguards and our additional efforts to secure your information, We cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third-parties will not be able to defeat our security, and improperly collect, access, steal, or modify your Personal Information. <br><br>
+
+6.2.	The security of your use of your account relies on your protection of your user name and password.  You may not share your user name and password with anyone.  If you believe that unauthorized access to your account has occurred please report it immediately at Help@getquip.com.  You must promptly notify us if you become aware that any information provided by or submitted to your account has been lost, stolen, or used without permission.  We will never ask you to send your password or other sensitive information to us in an email, though we may ask you to enter this type of information on a quip website. <br><br>
+
+6.3.	Any email or other communication purporting to be from one of our websites requesting your password or asking you to provide sensitive account information via email, should be treated as unauthorized and suspicious and should be reported to us immediately by emailing Help@getquip.com.  If you believe someone else has obtained access to your password, please change it immediately by logging in to your account and selecting the provided option to change your password and report it immediately by emailing Help@getquip.com.  <br><br>
+
+
+<font color="black"><u>7 | Will We Change This Privacy Policy?  </u></font><br><br>
+
+7.1.	Each time you use our Site or Services the current version of the Policy will apply. When you use our Site, you should check the date of this Policy (which appears at the top of the Policy) and review any changes since the last version. Our business changes frequently and this Policy is subject to change from time to time. Unless stated otherwise, our current Policy applies to all information that we have about you. We will not materially change our policies and practices to make them less protective of your privacy without the consent of affected customers.<br><br>
+
+<font color="black"><u>8 | How Do I contact Quip? </u></font><br><br>
+
+8.1.	To contact us with your questions or comments regarding this Policy or the information collection and dissemination practices of this website, please email us at Help@getquip.com. <br><br>
+
+<font color="black"><u>9 | Governing Law</u></font><br><br>
+
+9.1.	This Policy is governed by the laws of the State of New York, U.S.A. without giving effect to any principles of conflict of law.<br><br>
+
+<font color="black"><u>10 | Notice to California Residents</u></font><br><br>
+
+10.1.	If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by the Company to third parties for the third parties’ direct marketing purposes. With respect to these entities, this Policy applies only to their activities within the State of California. To make such a request, please send an email to Help@getquip.com or write us: <br><br>
+
+quip<br>
+45 Main Street, Suite 630<br>
+Brooklyn, New York, 11201<br>
+Attn: Marketing<br>
+
+
+
+Last Modified:<br><br>
+
+October 31st, 2017</strong></p>
+      </div>
+    </div>
+
+    <div class="row visible-xs-block">
+    </div>
+
+    <div class="row  visible-sm-block visible-md-block visible-lg-block">
+    </div>
+
+    <div class="row clearfix">
+          <p style="text-align: center; padding-bottom: 50px;"><a class="btn btn-info standard-sub-btn" style="margin-top: 3em; margin-left:-5px; color: grey; border: 1px solid grey;" href="mailto:help@getquip.com">ASK US A QUESTION</a></p>
+    </div>
+
+  </div>
+
+
+</div>
+
+        </div>
+
+
+    <!-- end of page sections -->
 
   <script type="text/javascript">
-   $(document).ready(function(){
-       $('#go-button').click(function(){ ga('send', 'pageview', '/newsletter_frontpage'); });
-   });
+  $(".new-info").click(function() { $("#myModalopen").modal(); });
+  $(function(){ $(".sto-ban-mob").show(); })
   </script>
 
-  
-  
+
+
+  <footer class="footer">
+	<ul class="footer__top-links">
+		<li><a href="/contact">Contact Us</a></li>
+		<li><a target="_blank" href="https://help.getquip.com/hc/en-us">Help</a></li>
+		<li><a href="/blog">Blog</a></li>
+		<li><a href="/professionals">Professionals</a></li>
+	</ul>
+
+	<div class="footer__newsletter">
+		<form action="/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="0NKfprAvsGV9LIX1/Cq6NSPVH9DWaMHID9MZOdmmI3ZY8eAKFI+UQA62UwzQCCbzJBfoUdtarMdf2lnfvRGxJQ==">
+			<input placeholder="Enter your email to stay in touch" class="footer__newsletter__input" required="required" type="email" name="user[email]" id="user_email">
+			<input type="submit" name="commit" value="Submit" class="footer__newsletter__submit" data-disable-with="Submit">
+			<input type="hidden" name="type" id="type" value="Newsletter (front page)">
+</form>	</div>
+
+	<ul class="footer__social-links">
+		<li><a class="footer__social-link footer__social-link__facebook" target="_blank" href="https://www.facebook.com/getquip">Facebook</a></li>
+		<li><a class="footer__social-link footer__social-link__twitter" target="_blank" href="https://twitter.com/getquip">Twitter</a></li>
+		<li><a class="footer__social-link footer__social-link__instagram" target="_blank" href="http://instagram.com/getquip">Instagram</a></li>
+	</ul>
+
+	<ul class="footer__bottom-links">
+			<li><a href="/story">About</a></li>
+			<li><a target="_blank" href="https://boards.greenhouse.io/quip">Jobs</a></li>
+			<li><a href="/terms">Terms</a></li>
+			<li><a href="/privacy">Privacy</a></li>
+		<li><span>© 2018</span></li>
+	</ul>
+</footer>
+
+<!-- Start of quipnyc Zendesk Widget script -->
+<iframe src="javascript:false" title="" style="display: none;"></iframe><script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(e){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var e=this.createElement("script");n&&(this.domain=n),e.id="js-iframe-async",e.src="https://assets.zendesk.com/embeddable_framework/main.js",this.t=+new Date,this.zendeskHost="quipnyc.zendesk.com",this.zEQueue=a,this.body.appendChild(e)},o.write('<body onload="document._l();">'),o.close()}();
+/*]]>*/</script>
+<!-- End of quipnyc Zendesk Widget script -->
 
 
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-55113418-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
-
-<!-- GA ecommerce from thank you page-->
 
 
+
+<script src="https://script.tapfiliate.com/tapfiliate.js" type="text/javascript" async=""></script>
 <script type="text/javascript">
-adroll_adv_id = "DDQFDKPEKBG6ZF3D4CFLF2";
-adroll_pix_id = "MLXL642DFRAD7FKFSVTRJ4";
-(function () {
-var oldonload = window.onload;
-window.onload = function(){
-   __adroll_loaded=true;
-   var scr = document.createElement("script");
-   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-   scr.setAttribute('async', 'true');
-   scr.type = "text/javascript";
-   scr.src = host + "/j/roundtrip.js";
-   ((document.getElementsByTagName('head') || [null])[0] ||
-    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-   if(oldonload){oldonload()}};
-}());
-</script>
-<script type="text/javascript">
-adroll_adv_id = "DDQFDKPEKBG6ZF3D4CFLF2";
-adroll_pix_id = "MLXL642DFRAD7FKFSVTRJ4";
-(function () {
-var oldonload = window.onload;
-window.onload = function(){
-   __adroll_loaded=true;
-   var scr = document.createElement("script");
-   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-   scr.setAttribute('async', 'true');
-   scr.type = "text/javascript";
-   scr.src = host + "/j/roundtrip.js";
-   ((document.getElementsByTagName('head') || [null])[0] ||
-    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-   if(oldonload){oldonload()}};
- }());
-</script>
+  (function(t,a,p){t.TapfiliateObject=a;t[a]=t[a]||function(){
+  (t[a].q=t[a].q||[]).push(arguments)}})(window,'tap');
 
+  tap('create', '6344-eac52c');
 
-<!--Start of Zopim Live Chat Script-->
-<!--End of Zopim Live Chat Script-->
+  var applyClick = function(result) {
+    $.post({
+      url: '/tapfiliate/detect',
+      data: { click_id: result["id"] },
+      beforeSend: function(xhr) {
+        xhr.setRequestHeader(
+          'X-CSRF-Token',
+          $('meta[name="csrf-token"]').attr('content')
+        )
+      },
+      dataType: 'html',
+      success: function(data, status, xhr) {
+        $("body > header").after(data);
+        var $notification = $("body > header + .quip-notification__holder .quip-notification");
+        var height = $notification.height();
+        $notification.css("height", 0);
+        setTimeout(function(){ $notification.css("height", height); }, 1);
 
-<script type="text/javascript">
-adroll_adv_id = "DDQFDKPEKBG6ZF3D4CFLF2";
-adroll_pix_id = "MLXL642DFRAD7FKFSVTRJ4";
-(function () {
-var oldonload = window.onload;
-window.onload = function(){
-   __adroll_loaded=true;
-   var scr = document.createElement("script");
-   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-   scr.setAttribute('async', 'true');
-   scr.type = "text/javascript";
-   scr.src = host + "/j/roundtrip.js";
-   ((document.getElementsByTagName('head') || [null])[0] ||
-    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-   if(oldonload){oldonload()}};
-}());
+        $("body > header + .quip-notification__holder .quip-notification__close").click(function(e){
+          e.preventDefault();
+          var $notification = $(this).closest(".quip-notification");
+          $notification.css("height",$notification.height());
+          setTimeout(function(){ $notification.css("height",0); },1);
+        });
+      }
+    })
+  };
+
+    tap('detect', {}, applyClick);
 </script>
 
-</div></div></body></html>
+
+</body></html>
