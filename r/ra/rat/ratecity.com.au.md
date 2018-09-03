@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ratecity.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313065955id_/https%3A//www.ratecity.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratecity.com.au privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903145025id_/https%3A//www.ratecity.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_Last Updated: 11 March 2014_
+_Last Updated:  25 July 2018_
 
-This privacy policy explains how we collect personal information and how we maintain, use and disclose that information. It also provides some detail about your privacy rights along with our general rights and obligations and our policy in relation to the personal information we keep on record. This privacy policy does not apply to parties that may be linked or associated with our website and to whom you disclose personal information. Those website owners are responsible for the privacy of the information they collect and should be contacted directly for details of their privacy policies. We are bound by the Australian Privacy Principles (APPs), which are contained in the Privacy Act 1988 (Privacy Act). As part of our business operations we may collect your personal information. This Privacy Policy describes the type of personal information we may collect and how we use, store and disclose this personal information. If you have any questions regarding this privacy policy, please contact our Privacy Officer (using the contact details below).
+This privacy policy explains how we collect personal information and how we maintain, use and disclose that information. It also provides some detail about your privacy rights along with our general rights and obligations and our policy in relation to the personal information we keep on record. This privacy policy does not apply to parties that may be linked or associated with our website and to whom you disclose personal information. Those website owners are responsible for the privacy of the information they collect and should be contacted directly for details of their privacy policies. We are bound by the Australian Privacy Principles (APPs), which are contained in the Privacy Act 1988 (Privacy Act). As part of our business operations we may collect your personal information. If you have any questions regarding this privacy policy, please contact us using the contact details below.
 
-### Your personal information is important to us
+### Your privacy is important to us
 
 We recognise that your privacy is very important and that you have a right to control personal information. Personal information is information or an opinion about an individual whose identity is apparent, or can reasonably be ascertained. It includes all personal information regardless of its source. We know that providing personal information is an act of trust and we take that seriously. The following sections set out how we handle and protect your personal information and safeguard your privacy.
 
@@ -15,8 +15,9 @@ We recognise that your privacy is very important and that you have a right to co
 The types of information we keep on record will depend on the type of product or service requested by you. Generally, we keep a record of the following types of information about you:
 
   * information that identifies you, such as your name and address and other information provided by you;
-  * if you use a comparison tool, calculator, contact form, online survey or other tool (“Website Tool”) on our website, the information that you enter into the Website Tool;
-  * your IP address for your interaction with various parts of our website. Your IP address is the identifier for your computer when you are using the internet.
+  * if you use a comparison tool, calculator, contact form, online survey or other tool (“Website Tool”) on our website, the information that you enter into the Website Tool. This could include information about your name and contact details, employment status and income, financial situation, date of birth, gender and drivers licence number;
+  * your IP address for your interaction with various parts of our website. Your IP address is the identifier for your computer when you are using the internet;
+  * your credit score, where you authorise us to obtain it from a credit reporting body.
 
 
 
@@ -34,6 +35,7 @@ We also collect some statistical information about visitors to our website (for 
 
 We use your personal information to:
 
+  * providing you with our services (including comparing or providing you information about products):
   * responding to your requests;
   * operating and improving our websites, products and services;
   * providing you with news and information about our products and services (including newsletters, product surveys and special offers);
@@ -41,9 +43,8 @@ We use your personal information to:
   * enabling us to conduct customer research;
   * performing research and analysis aimed at improving our products, services and technologies;
   * displaying content and advertising that are customised to your interests, preferences and experiences;
-  * occasionally sending marketing and promotional material about our products and/or services (or the products and/or services of our Related Bodies Corporate) that we believe you may be interested in.
+  * occasionally sending marketing and promotional material about our products and/or services (or the products and/or services of our related companies including Nine Digital Pty Ltd and LAAP Pty Ltd) that we believe you may be interested in.
   * conducting competitions or promotions on behalf of RateCity and selected third parties;
-  * verifying your identity;
   * communicating with you, including by email, mail or telephone.
   * investigating any complaints about or made by you, or if we have reason to suspect that you are in breach of any of our Terms of Use or that you are or have been otherwise engaged in any unlawful activity; and/or
   * review your dealings with us, including the products and services you use, your potential needs, and new products that might be of interest to you or other customers;
@@ -52,18 +53,18 @@ We use your personal information to:
 
 
 
-### Can we disclose personal information?
+### Who do we disclose personal information to?
 
-Usually we must get your consent before we tell anyone about you. You can give us your consent expressly or it may be implied by your conduct. By using our services you are deemed to have consented to the matters in this policy. We may disclose your personal information to:
+We may disclose your personal information to:
 
-  * our external service providers (some of which may be located overseas in the USA and Europe) for the purposes of our business, for example IT service providers. Information is only disclosed in accordance with Australian Privacy Principles. We take reasonable steps to ensure that overseas service providers whose servers may be used to store data comply with APPs. You need to be aware however that if you expressly consent to us disclosing your personal information to an overseas service provider, we are not responsible for any breach of privacy by the overseas server.
-  * product and services providers for operational purposes, and also because from time to time they may choose to provide you with information about their products and services by ordinary post or email. You may opt-out of receipt of such marketing at any time by contacting directly those organisations which have obtained your information. If you do not have their details, you can request them from RateCity’s Privacy Officer (details below).
-  * any organisation which you request us to, including a financial adviser, broker, solicitor, or accountant,
-  * our related companies and other organisations where reasonable to do so in relation to the operation of our business,
-  * protect and defend our rights or property,
-  * if we consider it necessary to do so in order to enforce or apply the terms of any of our agreements with you,
-  * contractors providing licensed collections services, credit card payment processing and CRM services, who comply with our privacy and security policies,
-  * if we sell our business or part of it to a third party,
+  * credit providers (such as by pre-populating the lender’s application form with the information you give us):
+  * our external service providers (some of which may be located overseas in the USA and Europe) for the purposes of our business, for example IT service providers. Information is only disclosed in accordance with Australian Privacy Principles. We take reasonable steps to ensure that overseas service providers whose servers may be used to store data comply with APPs;
+  * product and services providers for operational purposes, and also because from time to time they may choose to provide you with information about their products and services by ordinary post or email. You may opt-out of receipt of such marketing at any time by contacting directly those organisations which have obtained your information. If you do not have their details, you can request them from us on the details below;
+  * any organisation which you request us to, including a financial adviser, broker, solicitor, or accountant;
+  * our related companies (including Nine Digital Pty Ltd and LAAP Pty Ltd) and other organisations;
+  * if we consider it necessary to do so in order to enforce or apply the terms of any of our agreements with you;
+  * contractors providing licensed collections services, credit card payment processing and CRM services, who comply with our privacy and security policies;
+  * if we sell our business or part of it to a third party;
   * in extreme circumstances to protect the personal safety of our customers, website users, staff or the public; and
   * law enforcement, regulatory and government bodies, government agencies and courts, if we are required to by law to do so.
 
@@ -74,6 +75,10 @@ We take all reasonable steps to protect your personal information from misuse, l
 ### How do we store personal information?
 
 We provide a robust level of security when you use our online products and services. We have physical, electronic and procedural safeguards to protect your information which is held by us. Access to information stored electronically is restricted to staff whose job purpose requires access. We use secure methods to destroy or de-identify any personal information as soon as the law permits, provided the information is no longer needed by us for any purpose.
+
+### How do we contact you?
+
+Our primary means of contacting you is electronic, such as via email and SMS. As a business with services that are primarily provided online, we have inferred your consent to communicate electronically. You can withdraw this consent by using the unsubscribe facility in these messages or by providing us with written notice. Where you have provided a phone number, we may also contact you by phone.
 
 ### Our Use of Cookies
 
@@ -107,8 +112,8 @@ You can request access at any time to personal information we hold about you by 
 
 ### Correction of information
 
-We try to ensure that all information we hold about you which we collect, use or disclose is accurate, complete and up to date. You must promptly notify us if there are any changes to your personal information. You may ask us at any time to correct personal information held by us about you, which you believe is incorrect or out of date. We will deal with your request within a reasonable time In this policy, reference to “we/us” means RateCity Pty Limited ABN 12 122 743 542
+We try to ensure that all information we hold about you which we collect, use or disclose is accurate, complete and up to date. You must promptly notify us if there are any changes to your personal information. You may ask us at any time to correct personal information held by us about you, which you believe is incorrect or out of date. We will deal with your request within a reasonable time. In this policy, reference to “we/us” means RateCity Pty Limited ABN 12 122 743 542, Australian Credit Licence and [Australian Financial](https://www.ratecity.com.au/companies/australian-financial) Services Licence 316710.
 
 ### Contact Details and Complaints
 
-If you have any questions, concerns or complaints about our privacy policy or practices please contact us on: (02) 8096 9494, 9am – 5pm on business days in Sydney, NSW. Or email privacy (@) ratecity.com.au We will try to answer any questions you may have, correct any error on our part or resolve any complaint that you may have about our information handling practices. If we do not resolve a complaint to your satisfaction, you also have the right to complain to the Privacy Commissioner. You acknowledge and accept that your use of the RateCity website indicates your acceptance of the RateCity website [Terms of Use](http://www.ratecity.com.au/terms-of-use/) and Privacy Policy
+If you have any questions, concerns or complaints about whether we have complied with the Privacy Act, the Australian Privacy Princiles, or this Privacy Policy, please contact us on: (02) 8096 9494, 9am – 5pm on business days in Sydney, NSW. Or email privacy (@) ratecity.com.au We will try to answer any questions you may have, correct any error on our part or resolve any complaint that you may have about our information handling practices. If we do not resolve a complaint to your satisfaction, you also have the right to complain to the Privacy Commissioner. You acknowledge and accept that your use of the RateCity website indicates your acceptance of the RateCity website [Terms of Use](https://www.ratecity.com.au/terms-of-use/) and Privacy Policy.
