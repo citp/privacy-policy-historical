@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the satoristudio.net privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901022912id_/https%3A//satoristudio.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satoristudio.net privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903075726id_/https%3A//satoristudio.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy / Satori
+# Privacy Policy /
 
 _Last Edited on 2015-11-17_
 
