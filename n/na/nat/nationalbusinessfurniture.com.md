@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalbusinessfurniture.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603112149id_/https%3A//www.nationalbusinessfurniture.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalbusinessfurniture.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903090553id_/https%3A//www.nationalbusinessfurniture.com/privacy.aspx) for the most accurate reproduction.*
 
 # National Business Furniture Privacy Policy
 
