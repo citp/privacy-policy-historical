@@ -1,111 +1,225 @@
-> *The following text is extracted and transformed from the cellphones.ca privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024200723id_/http%3A//www.cellphones.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellphones.ca privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903205830id_/https%3A//www.cellphones.ca/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Informr
 
-**Last updated: November 30, 2015**
+_**  
+Protecting your privacy is important to us. The purpose of this Privacy Policy is to help you understand how we collect, use, and share information about you.**_
 
-Your privacy is something we take seriously. Here at The Informr (ten24 Media Inc.) we have a few fundamental principles:
+Last Updated: May 23, 2018
 
-\- We don’t ask you for personal information unless we truly need it. _(We can’t stand services that ask you for things like your gender or income level for no apparent reason)_
+## Who We Are
 
-\- We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
+We are ten24 Media Inc.; a company incorporated in Canada, the registered office of which is 185, 11007 Jasper Avenue NW, Edmonton AB Canada, T5K 0K6, hereinafter "ten24" (also "we" "our" or "us").
 
-\- We don’t store personal information on our servers unless required for the on-going operation of one of our services. Below is our privacy policy which incorporates these goals.
+ten24 operates several websites including theinformr.com, theinformr.co.uk, theinformr.in, www.cellphones.ca.
 
-### In Short
+By accessing or using the Services, you agree to this Privacy Policy and our [Terms of Service](https://web.archive.org/terms/).
 
-We collect anonymous statistics about your visit, like which of our pages you viewed. If you use some 3rd party services like Google or Facebook, they may know you visited this website. We can’t control how they use this data but we don’t believe this knowledge poses any threat to you.
+## What Is Personal Data
 
-If you sign up with us we take great care to keep your information safe and we’ll never share it with others without your express permission.
+Personal data means any information relating to an identified or identifiable person. This includes, for example, your name, e-mail address and IP address.
 
-We never share your data with 3rd parties except to help us deliver our own services.
+## What Information We Collect About You and Why
 
-These are just the key points. If you need detail, keep reading.
+What types of information we collect from you depends on how you use our website and what information you choose to provide.
 
-\---
+We collect information from you when you:
 
-### Website Visitors
+  * Visit our websites or download any of our files
+  * Create or register an account, modify your profile, set preferences, sign-up for offers or make purchases. (For example, we require individuals to provide their email address and a username when they register for an account. You also have the option of adding your real name, profile photo, location, and other details to be displayed on our Websites–but we don’t require that information to create an account.)
+  * Add questions, comments, reviews, and other messages on our community forums, via web forms, email, or other methods
+  * Contact us via email
+  * Participate in any promotions, demonstrations, contests, surveys, or other marketing events
 
-Like most website operators, ten24 Media Inc. collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. ten24 Media Inc.'s purpose in collecting non-personally identifying information is to better understand how visitors use our websites. From time to time, ten24 Media Inc. may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its websites.
 
-ten24 Media Inc. also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on our websites (ie. theinformr.com). ten24 Media Inc. only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses are visible and disclosed to the administrators of the blog where the comment was left.
 
-### Gathering of Personally-Identifying Information
+If you have an account with us, we collect the information that you provide for your public profile. For example, if you have an Informr account, your username / display name is part of that public profile, along with any other information you voluntarily put into your public profile, such as a photo or an “About Me” description.
 
-Certain visitors to ten24 Media Inc.'s websites choose to interact with the sites in ways that require ten24 Media Inc. to gather personally-identifying information. The amount and type of information that ten24 Media Inc. gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a user account to provide a username and email address. ten24 Media Inc. collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with the site. ten24 Media Inc. does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Your public profile information is just that–public–so please keep that in mind when deciding what information you would like to include.
 
-### Measuring our Visitors / Aggregated Statistics
+We may collect information about your web browser or device, including your IP address, information about your visit (including how you came to the site and the name of the website you visit when you leave our website), and how you use our site. 
 
-ten24 Media Inc. may collect statistics about the behaviour of visitors to its websites. and may display this information publicly or provide it to others. However, ten24 Media Inc. does not disclose personally-identifying information other than as described below.
+We use this information to help improve our website, communicate with you, provide support, personalize your experience and to market, promote and drive engagement with our services.
 
-We measure visitors to our website using Google Analytics. This records what pages you view within our site, how you arrived at our site and some basic information about your computer. All of that information is anonymous – so we don’t know who you are; just that somebody visited our site.
+Third party services we use may also collect information about our website visitors. Examples of services we currently use include [Google Analytics](https://analytics.google.com/) and [Google AdSense](https://www.google.com/adsense/)on this website.
 
-The information we collect from analytics helps us understand what parts of our sites are doing well, how people arrive at our site and so on. Like most websites, we use this information to make our website better.
+### Community Forums / Comments
 
-You can learn more about Google Analytics or opt out if you wish.
+Our websites offer publicly accessible reviews, comments or community forums (questions/answers).
 
-### Facebook, Twitter and other social networks
+You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
 
-We may use services such as social buttons. To do so we embed code from a third-party that they provide and we do not control ourselves. To function their buttons generally know if you’re logged in; for example Facebook use this to say “x of your friends like this”. We do not have any access to that information, nor can we control how those networks use it. We suggest you check the third party websites for more information about their cookies and how to manage them.
+You should be aware that any information you provide, including your profile information associated with your account, may be read, collected, and used by any member of the public who accesses these websites.
 
-### Emails
+Your profile information and posts may remain even after you delete your account. Never post any personal financial information or other sensitive information into these public forums. When visitor's post on the site, we collect the data shown in the form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-We may send you email notifications regarding your account or for other communications you have specifically requested (such as newsletters or notifications when someone replies to one of your comments). You have the ability to opt out of any of this communication at any time.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it.
 
-We will never provide your personal information or email address to any third parties except where they are specifically employed to help deliver our own services, as detailed above.
+The Gravatar service privacy policy is available here: <https://automattic.com/privacy/>. Your profile picture is visible to the public in the context of your comment.
 
-### Protection of Certain Personally-Identifying Information
+### Media
 
-ten24 Media Inc. discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on ten24 Media Inc.'s behalf or to provide services available at ten24 Media Inc.'s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using ten24 Media Inc.'s websites, you consent to the transfer of such information to them. ten24 Media Inc. will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, ten24 Media Inc. discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when ten24 Media Inc. believes in good faith that disclosure is reasonably necessary to protect the property or rights of ten24 Media Inc., third parties or the public at large.
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-If you are a registered user of an ten24 Media Inc. website and have supplied your email address, ten24 Media Inc. may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with ten24 Media Inc. and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. ten24 Media Inc. takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+### Contact Forms
 
-### Security
+When you contact us via the contact form on this website, the information is sent as email messages that only a select few are allowed to access. The information is also stored in the database on our hosting server for backup and later reference purposes.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+### Location Information
 
-### Cookies
+In some cases, we may collect limited location information from your IP address or information you volunteer. For example, we may use Google Analytics convert your IP address into a rough geolocation to understand in what areas our users are located and to improve and personalize our website (for example, to display the nearest retailers or to show services in available in your region).
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns.
+* * *
 
-**We use cookies to help identify and track visitors, their usage of our websites, their website access preferences and  the effectiveness of our marketing campaigns and our website.**
+## Cookies & Other Tracking Technologies
 
-Visiting our websites with your browser settings adjusted to accept cookies tells us that you want to use our products and services and that you consent to our use of cookies and other technologies to provide them to you as described in this Privacy Policy.
+Like many websites, we use cookies and similar technologies to collect additional usage data and to improve our Services, but we do not require cookies for many parts of our Services such as viewing product information and reading community discussions.
 
-Website visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using ten24 Media Inc.'s websites, with the drawback that certain features of ten24 Media Inc.'s websites may not function properly without the aid of cookies.
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Pixel tags (also called web beacons) are small blocks of code placed on websites and emails.
 
-Each browser is different, so check the 'Help' menu of your particular browser (or your mobile phone's handset manual) to learn how to change your cookie preferences.
+We use cookies and other technologies like pixel tags to help us identify and track visitors, usage, and access preferences for our Services, as well as track and understand email campaign effectiveness and to deliver targeted ads.
 
-### Ads
+If your browser is configured to accept cookies, we may collect non-personally identifiable information passively using "cookies" and "page tags".
 
-Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer.
+If you leave a question or comment on our site you may opt-in to saving your name, email address and website in cookies.
 
-This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you.
+These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-This Privacy Policy covers the use of cookies by ten24 Media Inc. and does not cover the use of cookies by any advertisers.
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-### Additional Policy Information
+When you log in, we will also set up several cookies to save your login information. Login cookies last for sixty days.
 
-You can log in to ten24 Media Inc. websites using sign-in services such as Facebook Connect or an OAuth provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+If you edit or publish a post (ie. comments, reviews, questions, answers), an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the post you just edited.
 
-Our websites offer publicly accessible reviews, comments or community forums (questions/answers). You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+### Embedded Content From Other Websites
 
-### Privacy Policy Changes
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website. These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
 
-Although most changes are likely to be minor, ten24 Media Inc. may change its Privacy Policy from time to time, and in ten24 Media Inc.'s sole discretion. ten24 Media Inc. encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+### Analytics
 
-### Conditions of Use
+We use third party analytics services such as Google Analytics and these services use cookies, web beacons, and other tracking technologies to collect information such as your IP address, time of visit, whether you are a return visitor, and any referring website, in order to help us analyze and create reports on how users interact with and use our services.
 
-If you decide to visit ten24 Media Inc. websites, your visits and any possible dispute over privacy is subject to this Privacy Policy and our [Terms of Use](https://web.archive.org/terms/), including limitations on damages, arbitration of disputes, and application of Canadian law.
+The information we collect from analytics helps us understand what parts of our sites are doing well, how people arrive at our site and so on.
 
-### Contact Information
+Like most websites, we use this information to make our website better.
 
-If you have any questions or concerns regarding this Privacy Policy or your personal data, you can write to us by email to hello@theinformr.com or by post to:
+We collect non-personal information through our Internet log files, which record data such as browser types, domain names, and other anonymous statistical data involving the use of our Services.
 
-ten24 Media Inc.  
-185, 11007 Jasper Avenue NW  
-Edmonton, AB, Canada T5K 0K6  
-Email: [hello@cellphones.ca](https://web.archive.org/contact/)  
-Phone: 1-780-428-1024 __
+### Advertising
 
-_This Privacy Policy was crafted with help from[Wordpress.com's version](http://automattic.com/privacy/), which is available under a Creative Commons Sharealike license._
+We will never provide Advertisers with access to your name, address, e-mail address, or telephone number without your explicit consent.
+
+We may use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at <http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work>.
+
+Third-party vendors, including Google and Facebook, use cookies web beacons, and other tracking technologies to serve ads that may be of interest to you. Any data collected will be subject to their respective privacy policies (which we do not control and for which we are not responsible). You can opt-out of targeted advertising by visiting the links below: [Google](https://support.google.com/ads/answer/2662922?hl=en) [Facebook](https://www.facebook.com/ads/website_custom_audiences/) [Bing](https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads)
+
+### How Do I Find, Manage or Delete My Cookies?
+
+Most web browsers automatically accept cookies, but also usually allow you to modify your settings to disable or reject cookies.
+
+The steps you need to take to manage your cookies will depend on the browser you’re using. Below are links to instructions on how to manage cookies for the most common browsers:
+
+  * [Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en)
+  * [Firefox](http://support.mozilla.com/en-US/kb/Cookies)
+  * [Internet Explorer](http://windows.microsoft.com/en-GB/internet-explorer/delete-manage-cookies#ie=ie-10)
+  * [Safari](https://support.apple.com/en-ie/guide/safari/manage-cookies-and-website-data-sfri11471/mac/)
+
+
+
+[](https://support.apple.com/en-ie/guide/safari/manage-cookies-and-website-data-sfri11471/mac/)If you delete your cookies or if you set your web browser to decline cookies, however, some features of the website may not work or may not work as designed.
+
+* * *
+
+## Emails
+
+We may send you email notifications regarding your account or for other communications you have specifically requested (such as newsletters or notifications when someone replies to one of your comments).
+
+You have the ability to opt out of any of this communication at any time. We will never provide your personal information or email address to any third parties except where they are specifically employed to help deliver our own services.
+
+## Newsletters / Marketing Communications
+
+Where you have given us consent, we may contact you by email about our products and services (including from all our brands). If you would like to opt-out of receiving such communications from us, you can click the unsubscribe link at the bottom of any emails you receive, or email us at privacy(at)theinformr(dot)com, stating your preferences.
+
+## Who We Share Your Data With
+
+We may share your personal data with:
+
+  * to our own affiliated companies
+  * to third party agents and vendors who perform functions on our behalf, including, but not limited to, hosting, content syndication, content management tools, social media integration, marketing, analytics, billing and customer service
+  * to third party content or advertising partners
+  * if we are legally entitled or required to do so
+  * if we sell the business or part of it to another company
+
+
+
+This Privacy Statement does not cover third-party content, apps or websites you access or use through our website. We do not control the privacy and security practices or policies of these third parties and their apps/sites.
+
+We encourage you to read the privacy statements which apply to the third-party content, apps and websites you use. Here is a list of some of the third parties that we may use:  
+
+  * [Google Analytics](https://policies.google.com/privacy) \- analytics services
+  * [Amazon Web Services](https://aws.amazon.com/privacy) \- image / file hosting
+  * [Rackspace Web](https://www.rackspace.com/information/legal/privacystatement) \- hosting
+  * [Google AdSense](https://www.google.com/adsense/new/localized-terms) \- advertising
+  * [Facebook](https://www.facebook.com/policy.php) \- marketing
+  * [Sumo](https://help.sumo.com/hc/en-us/articles/218958727-Privacy-Policy) \- sharing
+  * [SendGrid](https://sendgrid.com/policies/privacy/) \- email services
+
+
+
+You can log in to our websites using sign-in services such as Facebook Connect or an OAuth provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.
+
+Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+
+Third-party websites and services we link to are outside our control. We are not responsible for the security or privacy of any information collected by these third parties, which operate pursuant to their respective privacy policies.
+
+## How Long We Retain Your Data
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue. For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+
+## What Rights You Have Over Your Data
+
+If you have an account on this site, or have left comments, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted.
+
+If you would like to exercise this right, please contact us through the contact information below.
+
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above.
+
+Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
+
+## Where We Send Your Data
+
+Visitor comments may be checked through an automated spam detection service. If you are a European resident, please note that your information will be transferred outside of Europe, including to Canada and the United States.
+
+## How We Protect Your Data
+
+We care about your privacy, and provide appropriate security measures to protect your information. We have implemented organizational and technical procedures and measures that will ensure that your personal data is not compromised, not unintentionally changed, and available when required.
+
+Unfortunately, no security measures are 100% foolproof and we cannot guarantee 100% security of the information we collect and store. If you believe your information may not be secure for any reason, please contact us immediately at privacy(at)theinformr(dot)com.
+
+## Information for Parents
+
+Our websites are not directed to anyone under the age of 13. If you are under 13 years old and you wish to use our website in any way which requires you to submit your personal data, please get your parent or legal guardian to do so on your behalf.
+
+## Privacy Policy Changes
+
+Although most changes are likely to be minor, this privacy policy may change from time to time, and in our sole discretion. We encourages visitors to frequently check this page for any changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+## Conditions of Use
+
+If you decide to visit our websites, your visits and any possible dispute over privacy is subject to this Privacy Policy and our [Terms of Use](https://web.archive.org/terms/), including limitations on damages, arbitration of disputes, and application of Canadian law.
+
+## Contact information
+
+If you would like more information about our privacy practices or:
+
+  * wish to request access to information we hold about you, correct, modify, delete or update personal data that you have provided to us, or
+  * have any questions regarding this Privacy Policy, wish to withdraw your consent for the continued collection, would like to object to your personal data being used, or have any additional questions
+
+
+
+Please contact us via email: **privacy(at)theinformr(dot)com**  or by mail using the details provided below:
+
+ten24 Media Inc.   
+185, 11007 Jasper Avenue NW   
+Edmonton, AB   
+T5K 0K6
