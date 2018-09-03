@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nios.ac.in privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617185804id_/http%3A//www.nios.ac.in/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nios.ac.in privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903234229id_/http%3A//www.nios.ac.in/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy: The National Institute of Open Schooling (NIOS)
 
