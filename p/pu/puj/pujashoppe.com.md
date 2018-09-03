@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pujashoppe.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612135952id_/https%3A//www.pujashoppe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pujashoppe.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903113608id_/https%3A//www.pujashoppe.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
