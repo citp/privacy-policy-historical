@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the presscustomizr.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320051333id_/https%3A//presscustomizr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presscustomizr.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903163440id_/https%3A//presscustomizr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Press Customizr
 
 ## Legal Notice
 
-Press Customizr is a service offering of Press Customizr SARL, private company with a capital of € 30,000. The headquarters are located at 13 Boulevard Gambetta, 06000 Nice, FRANCE, and references in this document to “us,” “our,” and “we” refer to Press Customizr :
+This website is a service offered by Press Customizr SARL, private company based in Nice, France. References in this document to “us,” “our,” and “we” refer to Press Customizr :
 
-  * **Headquarter address :  13 Boulevard Gambetta, 06000 Nice, FRANCE**
-  * **RCS registration number: 808 686 562**
-  * **VAT number : FR70808686562**
-  * **CNIL Declaration Number :  1852560 **( what is this ?  ***** )
-  * **Publication director: Nicolas Guillaume**
-  * **E-mail: contact[at]presscustomizr.com**
-  * **Hosting:  PlanetHoster, 4416 Louis B Mayer, Laval, Quebec, H7P 0G1, Canada**
+  * Headquarter address : BP 54, 06101 Nice Cedex 2, France
+  * RCS registration number: 808 686 562
+  * VAT number : FR70808686562
+  * CNIL Declaration Number : 1852560 ( what is this ? * )
+  * Publication director: Nicolas Guillaume
+  * E-mail: contact[at]presscustomizr.com
+  * Hosting: PlanetHoster, 4416 Louis B Mayer, Laval, Quebec, H7P 0G1, Canada
 
 
 
-**© 2016 Press Customizr  SARL**
+© 2018 Press Customizr SARL
 
-**Press Customizr  is a registered trademark.**
+Press Customizr is a registered trademark.
 
 ( ***** ) _The[Commission nationale de l’informatique et des libertés or CNIL](http://www.cnil.fr/english/the-cnil/ "CNIL website") (French pronunciation: [knil]; English: National Commission on Informatics and Liberty) is an independent French administrative regulatory body whose mission is to ensure that data privacy law is applied to the collection, storage, and use of personal data. Its existence was established by the French loi n° 78-17 on Information Technology, Data Files and Civil Liberty of 6 January 1978, and it is the national data protection authority for France. Source :  [CNILwikipedia](http://en.wikipedia.org/wiki/Commission_nationale_de_l%27informatique_et_des_libert%C3%A9s "CNIL")_
 
