@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etkbmw.com privacy policy that was archived on 2017-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170123065814id_/https%3A//www.etkbmw.com/bmw/EN/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etkbmw.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903235852id_/https%3A//www.etkbmw.com/bmw/EN/index/privacy) for the most accurate reproduction.*
 
 # 
 
