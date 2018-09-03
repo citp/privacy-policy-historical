@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merchantcircle.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914180111id_/https%3A//www.merchantcircle.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merchantcircle.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903213607id_/https%3A//www.merchantcircle.com/pages/privacy.html) for the most accurate reproduction.*
 
 # MerchantCircle
 
@@ -54,6 +54,6 @@ As a business service, MerchantCircle does not target its offerings toward, and 
 
 #### Communication Preferences
 
-As a MerchantCircle member, you may receive email and/or telephone communications from time-to-time. These communications may include, but are not limited to, system generated emails about your account, third party offers and marketing messages. To stop receiving marketing emails from MerchantCircle, visit [www.merchantcircle.com/optout](http://www.merchantcircle.com/optout). To stop receiving phone message from MerchantCircle, visit [www.merchantcircle.com/optout/remove](http://www.merchantcircle.com/optout/remove) . Some service-related communications are not subject to opt-out. Review our Terms of Service for more information at [www.merchantcircle.com/corporate/tos.html](http://www.merchantcircle.com/corporate/tos.html). 
+As a MerchantCircle member, you may receive email and/or telephone communications from time-to-time. These communications may include, but are not limited to, system generated emails about your account, third party offers and marketing messages. To stop receiving marketing emails from MerchantCircle, visit [www.merchantcircle.com/optout](https://www.merchantcircle.com/optout). To stop receiving phone message from MerchantCircle, visit [www.merchantcircle.com/optout/remove](https://www.merchantcircle.com/optout/remove) . Some service-related communications are not subject to opt-out. Review our Terms of Service for more information at [www.merchantcircle.com/pages/tos.html](https://www.merchantcircle.com/pages/tos.html). 
 
 Effective date: 8/31/05
