@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nps.org.au privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311134405id_/https%3A//www.nps.org.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nps.org.au privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903190721id_/https%3A//www.nps.org.au/privacy) for the most accurate reproduction.*
 
 # Privacy policy | NPS MedicineWise
 
@@ -221,7 +221,7 @@ NPS MedicineWise does not disclose any personal information to overseas entities
 
   * You will be notified of the process for dealing with the breach or potential breach. Your complaint will be thoroughly investigated and a response provided within 30 days.  
 
-  * If you are not satisfied with the resolution of your complaint you may contact the Office of the Federal Privacy Commissioner at its website [www.oaic.gov.au](https://web.archive.org/web/20180311134405id_/https%3A//www.nps.org.au/www.oaic.gov.au) or by telephone on 1300 363 992 who may investigate your complaint and has the power to award compensation against us in appropriate circumstances.  
+  * If you are not satisfied with the resolution of your complaint you may contact the Office of the Federal Privacy Commissioner at its website [www.oaic.gov.au](https://web.archive.org/web/20180903190721id_/https%3A//www.nps.org.au/www.oaic.gov.au) or by telephone on 1300 363 992 who may investigate your complaint and has the power to award compensation against us in appropriate circumstances.  
 
 
 
@@ -232,7 +232,7 @@ Contact us for enquiries or feedback about this policy, or for complaints about 
 
   * email: privacy@nps.org.au  
 
-  * phone: 02 8217 8798  
+  * phone: 02 8217 8700  
 
   * fax: 02 9211 7578  
 
