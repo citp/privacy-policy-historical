@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the machineryhouse.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313011010id_/https%3A//www.machineryhouse.com.au/FAQs%3FId%3D221) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machineryhouse.com.au privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903234254id_/https%3A//www.machineryhouse.com.au/FAQs%3FId%3D221) for the most accurate reproduction.*
 
-# Help & FAQs | machineryhouse.com.au
+# Help & FAQs | Hare & Forbes Machineryhouse
 
 ## Privacy Policy
 
