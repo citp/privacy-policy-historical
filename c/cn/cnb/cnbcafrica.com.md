@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnbcafrica.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614015325id_/https%3A//www.cnbcafrica.com/privacy-policy-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnbcafrica.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903072453id_/https%3A//www.cnbcafrica.com/privacy-policy-terms-of-use) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use - CNBC Africa
 
@@ -8,7 +8,7 @@ ABN Digital shares your concern about the protection of your personal informatio
 
 This Privacy Policy describes the types of information collected from you, what we do with it, with whom we share it, and how you can correct or change such information. It is your responsibility to review this Privacy Policy carefully, especially before providing any personal data through the Site.
 
-**YOUR USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO SUCH PRIVACY POLICY.**
+ **YOUR USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO SUCH PRIVACY POLICY.**
 
 COLLECTING USER DATA
 
