@@ -1,70 +1,135 @@
-> *The following text is extracted and transformed from the thesleepjudge.com privacy policy that was archived on 2018-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180320214325id_/https%3A//www.thesleepjudge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesleepjudge.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903154610id_/https%3A//www.verticalscope.com/site-privacy-policy/index.php%3Fsite%3Dthesleepjudge.com) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
-Effective Date: October 26, 2017
+**Privacy Policy**  
+Last updated: May 15, 2018 
 
-We are committed to respecting the privacy rights of visitors and users of this website. We created this Privacy Policy (this “Policy”) to explain what information we collect from you, how we secure that information, and under what conditions we share your information with others. This Policy only applies to this website, and not other platforms you can access through the website such as social media and third party websites.
+This Privacy Policy describes how VerticalScope Inc. (' **VerticalScope** ', ' **we** ', ' **us** ' or ' **our** ') collects personal information in connection with our websites and mobile or other applications on which this Privacy Policy is posted or linked to (collectively, the ' **Site** '), and how this information may be used, shared and safeguarded. Personal information is information about you as an identifiable Site visitor.
 
-1\. NOTICE CONCERNING CHILDREN.
+By visiting our Site or otherwise providing us with personal information, you agree that we may collect, use and share your personal information as described in this Privacy Policy. If you do not agree, please do not visit our Site or provide us with any personal information. We may at any time and at our sole discretion update this Privacy Policy by posting the updated Privacy Policy here along with the date on which the Privacy Policy was changed. Any changes will be effective immediately upon the posting of or linking to the revised Privacy Policy on our Site. 
 
-Any website “directed at children under 13” must undertake certain compliance steps pursuant to the Children’s Online Privacy Protection Act [15 U.S. Code § 6502] and COPPA Rule [16 CFR Part 312]. This website is directed at adults, not children.
+**QUICK LINKS**
 
-2\. PERSONAL INFORMATION COLLECTED.
+Click on one of the links below to jump to the listed section:
 
-A. Information Collection: We may require you to provide us with certain information that personally identifies you (“Personal Information”). Personal Information includes the following categories of information: (1) Contact Data (such as your name and e-mail address). If you communicate with us by e-mail, or otherwise contact us, any information provided in such communication may be collected as Personal Information.
+  1. Information we collect
+  2. How we use the information we collect
+  3. Cookies, tracking technologies and interest-based advertising
+  4. How we share your personal information
+  5. How we store and protect your personal information
+  6. Links to external content
+  7. Children
+  8. Accessing and correcting your personal information
+  9. Your choices
+  10. How to contact us
 
-B. Modification or Removal Process: You may opt-out of our email list using the provided link in any email message. You may also contact us to request we remove any content you’ve submitted to the website; a request which we will approve or deny in our sole discretion.
 
-C. Privacy Policy Updates: If we modify or update this Policy, we will notify you by posting a notice on the website and by sending you an electronic message indicating as much if we have an email address for you. You may reject the update by discontinuing your use of the website.
 
-D. Do Not Track Signals: Certain jurisdictions require that we disclose whether we acknowledge “do not track” signals issued by browsers or privacy software. We do not respond to such signals at this time.
+## **1\. Information we collect**
 
-E. Google Tracking. We use certain Google programs to help us analyze the traffic to this website and improve our marketing efforts. Such programs may include, but are not limited to, Google Analytics Remarketing, Google Display Network Impression Reporting, Google Analytics Demographics and Interest Reporting,  
-and Integrated services that require Google Analytics to collect data via advertising cookies and identifiers. You may opt out of this tracking by visiting https://tools.google.com/dlpage/gaoptout/ and http://www.networkadvertising.org/choices/.
+In general, you may visit our Site without providing any personal information. However, in order to use certain features of our Site, we may need to collect your personal information. For example:
 
-F. Third Party Tracking. We allow third-party companies to collect certain anonymous information when you visit this website. These companies, including Google, may use non-personally identifiable information (e.g. ads you click versus those you don’t, the type of browser you use, etc.) in order to provide advertisements about goods and services likely to be of greater interest to you. To learn more about this behavioral advertising practice visit the NAI at http://www.networkadvertising.org. To opt-out of this type of advertising, you can visit http://www.networkadvertising.org/choices/ which will automatically detect and opt-out of a majority of the tracking programs.
+  * We collect your username, email address or telephone number, and password when you create an account or public user profile. For some Sites you may be required to provide additional information such as your date of birth or the type of vehicle you own. We collect additional information that you choose to add to your account or public user profile, such as a profile picture or information about your hobbies and interests. 
+  * We collect your name, contact information and payment card information when you purchase a product or service through our Site (such as a subscription or classified advertisement). 
+  * If you use a social media account to create an account on our Site, to log-in to our Site, or if you otherwise interact with a social media service through our Site (such as by using a plug-in), we will receive personal information from the social media service, such as your username, email address, gender, public profile information and any other information that you have agreed to share with us, whether explicitly or through your privacy settings.
+  * Our Site may offer public forums or communication platforms that allow you to communicate with other users, post information, content, images, photos or videos, post your opinions on surveys, or submit reviews or ratings (collectively, your 'Content'). Your Content will be associated with your public user profile. Your Content and public user profile is public, unencrypted and non-confidential. This means that it can be read and used by others, including advertisers. We are not responsible for the information you choose to submit in these public areas. You should exercise caution when deciding to disclose personal information in public areas of our Site.
+  * We collect geographical location information if the Site you are using is location-enabled and your device transmits location data and/or your IP address, so we can provide location-specific information to you.
+  * We may collect personal information when you participate in a survey, poll, contest or promotion, such as your name and contact information and responses to survey or poll questions or the information you provide on a contest entry form.
+  * We may collect other personal information with your consent or where required or permitted by law.
 
-G. Google Adsense. We allow third party vendors, including Google Adsense, to use cookies to serve ads based on your prior visits to this website or other websites. These companies use of advertising cookies enables them and their partners to serve ads to you based on the websites you visit online. Google will use a Double Click cookie to track your actions in this regard. You can opt out of this program by visiting https://www.google.com/settings/ads or by other third parties by visiting http://www.aboutads.info/choices/.
 
-H. Amazon Affiliate. This website is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
 
-I. Other Affiliate Programs. This website participates in third party website programs in addition to Amazon.com from time to time. If you click a link to another site, make sure to review the privacy policy of that site to gain an understanding of how your information is collected, stored, and used.
+We, our service providers and third party advertising partners also collect information about Site visitors automatically using cookies and other tracking technologies. See Cookies, tracking technologies and interest-based advertising below.
 
-3\. COOKIES AND TRAFFIC DATA COLLECTED.
+## **2\. How we use the information we collect**
 
-We automatically track and collect the following categories of information when you visit this website including: (1) IP addresses; (2) domain servers; (3) types of computers accessing the website; and (4) types of web browsers used to access the website (collectively “Traffic Data”). Traffic Data is anonymous information that does not personally identify you but is helpful for marketing purposes and for helping us improve your experience when accessing this website.
+We generally use the personal information we collect to provide the product, service, feature or information you have requested and for our reasonable business purposes, including: 
 
-4\. USE OF INFORMATION COLLECTED
+  * to manage our Site and provide our services, such as to create and administer accounts and facilitate the use and enjoyment of forums and communication platforms;
+  * to enable geographic-specific features, such as geographic-specific pricing and information;
+  * to process payments;
+  * to notify you of changes to your account or our Site's services, terms, conditions or policies and to provide you with administrative messages, updates, legal notices, technical notices or security alerts;
+  * to customize your user experience, including by tailoring the advertisements that are displayed to you to make them more useful and relevant to you;
+  * to conduct research and development, analyze and understand trends and user behaviour and to improve our Sites, products and services;
+  * to respond to your inquiries and provide you with technical and other support;
+  * to ensure compliance with our Terms of Use and prevent fraud;
+  * to provide you with newsletters, information, promotional offers and other advertising about us or our advertising partners;
+  * to facilitate your participation in a contest or similar promotion, or a survey or poll;
+  * to meet contractual obligations; and
+  * for other purposes with your consent or as permitted or required by law.
 
-A. Our Use Of Information: We use your Personal Information to interact with and market to you as well as comply with various laws as detailed herein. Please read this Section 4 carefully.
 
-B. Sharing Personal Information: We share certain categories of information we collect from you in the ways described in this Policy. We share Contact Data with our business partners who assist us by performing core services (such as hosting, billing, email distribution, or data storage and security) related to our operation of this website. If you do not want us to share your Personal Information with any third parties, please contact us, but please understand that such a request will eliminate your ability to access certain areas of the website.
 
-C. Use of Contact Data. We use your Contact Data to provide you with administrative communications. We also use your Contact Data to send you commercial emails highlighting products and services that may be of interest to you. These email communications may contain messages, advertisements, and affiliate links promoting third parties and third party products.
+## **3\. Cookies, tracking technologies and interest-based advertising**
 
-D. Sale of Information: Should we decide to sell all or part of our core business or this website at some point in the future, your Personal Information will be included as an asset in the transfer of the business to the new owner.
+We, our service providers and third party advertising partners use technologies that automatically collect information about Site visitors.
 
-5\. MARKETING
+We automatically collect information about how you access, navigate and leave our Site, including the website you came from before visiting our Site, what browser type and operating system you are using, the internet protocol (IP) address you are accessing the Site from, your mobile device ID or Advertising ID if you visit our Site from a mobile device, the pages of our Site that you are navigating through, the date and time of your visit, how long you spend on our Site or certain pages of our Site, and what website you go to after visiting our Site. This information may be used to determine how many visitors visit our Site or certain areas of our Site, how long they remain on our Site, whether they use the hyperlinks we provide or respond to advertising and to tailor our advertisements to you. We may share this information with partners who referred you to our Site, and with advertising partners, who may use the information to optimize the traffic they send to us and for delivering targeted ads to you when you visit other websites.
 
-A. Third Party Advertising Cookies. We may use certain third-party vendors, including Google, who use cookies to serve ads to you while on our website based on your prior visits to this website and other websites. You can opt out of personalized advertising by Google by visiting https://www.google.com/settings/ads or by other third parties by visiting http://www.aboutads.info/choices/.
+We, our service providers and third-party advertising partners collect information about Site visitors using cookies and other tracking technologies (including browser cookies, pixels and Adobe Flash). We use these technologies to remember your preferences and facilitate your navigation of our Site. We and our service providers and third-party advertising partners also use these technologies to track your activities on our Site and other websites, including the websites and web pages that you visited, the ads or content that you clicked on and the search terms you used, in order to deliver tailored advertising to you. We may also share a hashed or encrypted version of your email address or telephone number with advertising partners so that you may be served with tailored advertising on our websites or other third party websites. These advertising partners are not permitted to use your hashed or encrypted email address for any other purpose. 
 
-B. Remarketing and Retargeting. We may use Facebook or other third party remarketing or retargeting platforms to market our business. These companies use cookies to track you across the Internet including websites you visited before visiting us and after you leave. Once you leave this website, Facebook, and the other third party platforms we may use, will show you advertisements from us as appropriate. You may opt out of the remarketing and retargeting platforms we currently use or may use in the future by visiting the following links:
+If you would prefer not to accept cookies, most browsers will allow you to: (i) change your browser settings to notify you when you receive a cookie, which lets you choose whether or not to accept it; (ii) disable existing cookies; or (iii) set your browser to automatically reject any cookies. You may also set your e-mail options to prevent the automatic downloading of images that may contain technologies that would allow us to know whether you have accessed our e-mail and performed certain functions with it. If you don't want us to share your hashed or encrypted email address with advertising partners, simply opt-out of our promotional communications. See Your Choices below. 
 
-• Facebook – [https://www.facebook.com/ads/website_custom_audiences/] • Google – [http://www.google.com/settings/ads] 
+At this time, we do not respond to browser 'do not track' signals. However, you may also opt-out of network advertising programs that track your activities across multiple websites to deliver personalized advertising content to you. Please visit [Digital Advertising Alliance of Canada Opt-Out Page](http://youradchoices.ca/understanding-online-advertising), [NAI Opt-Out Page](http://www.networkadvertising.org/choices/%5d%20) and the [Ad Choices Opt-Out Page](http://www.aboutads.info/choices). 
 
-6\. INFORMATION SECURITY
+We use Google Analytics to help us understand how our Site visitors use the Site, and as well as certain features of Google Analytics Display Advertising to advertise online, sell advertising and to develop content. You can opt out of Google Analytics and customize Google's Display Network ads. Please visit [Google's Ad Settings](https://www.google.ca/settings/ads?hl=en-GB&sig=ACi0TChcn38hjfs81vhis-lHPEFutHa4wTjKTTYLde8Te7kFkjhssvxJtvPzARFnl4zsrUvJxBZzttCNq7h0T4bGaa6vdJatyTG0psR5BwGgwEWTWOFuy0c2qoyWC-TPCVzunZHSxtpy7V1KLCOI7EoBsf0HKnoA1J8cmI3FZz_-cuwNnYOHY5MyPD4bpjoQiiq_2M8f0pr-) and [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout). Please visit [How Google uses data when you use our partners' sites or apps](https://policies.google.com/privacy/partners) for a description of how Google uses information sent by our browser and for ways you can control the information sent to Google. 
 
-A. Confidentiality and Security of Personal Information: Except as otherwise provided in this Policy, we will keep your Personal Information private and will not share it with third parties, unless such disclosure is necessary to: (a) comply with a court order or other legal process; (b) protect our rights or property; or (c) enforce the legal documents applicable to the website.
+## **4\. How we share your information**
 
-B. Security. This website has reasonable security measures in place including Secure Sockets Layer technology. Unfortunately, we make no promises about our ability to prevent any such loss or misuse of your Personal Information since preventing hacking is nearly impossible.
+We may share information we collect about you in the following circumstances.
 
-7\. AREAS BEYOND OUR CONTROL
+**Advertising partners**  
+We share information with our third-party advertising partners as described in the Cookies, tracking technologies and interest-based advertising section above.
 
-A. Public Information: We may allow you to interact with others from time to time in the comments section as well as our social media pages. Please understand that any information disclosed in these areas becomes public information. You should exercise caution when deciding to disclose your Personal Information.
+**Service Providers**  
+We may use service providers (including affiliates acting in this capacity) to provide services to us or to you on our behalf. For example, our service providers may host our Site, analyze data collected from our Site, provide customer service on our behalf, administer our promotions, facilitate and process transactions and payments, provide marketing or promotional assistance, distribute emails and other communications, post our advertisements (including online through targeted advertising campaigns), and collect your feedback on our Site and advertisements. We share your personal information with our service providers solely for the purposes of providing services to you and to us. They are not permitted to use your personal information for other purposes. Some of our service providers are located outside of Canada, including in the United States. While your personal information is located outside Canada it will be subject to legal requirements applicable to our service providers, for example, lawful requirements to disclose personal information to national security agencies or government authorities in certain circumstances. 
 
-B. Third Party Websites: The website contains links to other websites. We have no control over the terms and privacy policies of said sites. Please make sure to view the policies of those sites before proceeding.
+**Aggregate or de-identified information**  
+We may use your personal information to create aggregate statistics and de-identified data. We may use, share and sell this information for any purpose.
 
-8\. CONTACT INFORMATION
+**With your consent**  
+We may share your personal information with third parties with your consent. For example, if you provide us with your contact information, such as an e-mail address, for the purposes of signing up for information, newsletters, contests, or marketing offers from a third party, or for receiving business offers or service quotes from a third party, we may share your personal information for that purpose. Once shared, your personal information will be subject to the privacy policy of that third party.
 
-If you have any questions about this Policy or our practices related to this website, please contact us using the Contact page on the menu for the website.
+**Business Transactions**  
+We may disclose personal information to third parties in connection with the proposed or actual financing, securitization, insuring, sale, assignment or other disposal of all or part of VerticalScope or our business or assets. These third parties may use the information, for the purposes of evaluating and/or completing the proposed transaction. We will use reasonable efforts to ensure that our successors or assigns process the information we transfer to them in a manner that is consistent with this Privacy Policy. 
+
+**Other**  
+We may disclose your personal information in other circumstances where permitted or required by law or other legal process. For example, we may disclose your personal information: (a) to collect a debt owed to us; (b) as necessary to comply with a subpoena, warrant, court order or other legal process; (c) if disclosure is requested by an investigatory body, law enforcement official or governmental authority which has lawful authority to request the disclosure of the information in respect of an investigation or other legal process; or (d) if we have reasonable grounds to believe that the information relates to a breach of an agreement or contravention of a law, or to protect the personal safety of our users or defend our rights or property.
+
+## **5\. How we store and protect personal information**
+
+Personal information is maintained on our servers (or those of our service providers). In an effort to protect your personal information against unauthorized access or disclosure. For example, accounts you create on our Sites are password protected. In identified parts of our Sites, we use SSL-encryption to protect data transmissions. We limit access to personal information to employees, representatives and service providers who require access in connection with their job responsibilities. Please note it is not possible to transmit data with absolute security over the internet, and we cannot and do not guarantee the security of your personal information.
+
+## **6\. Links to external content**
+
+Our Site may link or direct you to other websites, services or external content provided by third parties. We do not exercise any control over these third party websites or services. We are not responsible for the privacy practices of such third party websites or services. We recommend that you read the privacy policy for any third party website that you visit or service that you use. 
+
+## **7\. Children**
+
+Our Sites are not directed to and we do not knowingly request or collect personal information from children - persons under 13 years of age, or another age if required by applicable law - without prior verifiable parental consent. If we become aware that we have unknowingly collected personal information about a child without verifiable parental consent, we will delete this information from our records or, if that is not reasonable, we will take reasonable available steps to de-identify the information. 
+
+## **8\. Accessing or correcting your personal information**
+
+We encourage you to keep your personal information accurate and up to date. You can access and correct the information in your account or public user profile by logging in to your account or profile and making the necessary edits.  
+You can request access to or correction of your personal information in our custody or control by contacting us as set out below. We may take reasonable steps to authenticate your identity before providing you with access to your personal information or making corrections. Please also note that in some cases we may not be able to provide you with the personal information you have requested (for example, if the information is subject to solicitor-client privilege or contains personal information of others that cannot be severed). 
+
+## **9\. Your Choices**
+
+You may opt out of receiving promotional communications from us at any time by following the unsubscribe instructions included in each communication and/or by selecting your communication preferences in an account or profile.
+
+You may be able to control the information we received from your device or from third parties (such as social media networks) by changing your device settings, browser settings or privacy settings.  
+You may withdraw your consent to our collection, use or disclosure of your personal information, subject to contractual or legal restrictions and reasonable notice. However, if you withdraw your consent to certain collections, uses or disclosures of your personal information, we may not be able to provide you with certain products or services. 
+
+## **10\. How to contact us**
+
+If you have any questions or comments about this Privacy Policy, please contact us at:
+
+privacy@verticalscope.com 
+
+Privacy Officer  
+111 Peter, Suite 901  
+Toronto, Ontario  
+M5V 2H1  
+Canada  
+
