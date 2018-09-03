@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the citybeauty.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601202801id_/http%3A//citybeauty.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citybeauty.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903232513id_/http%3A//www.citybeauty.com/privacy.php) for the most accurate reproduction.*
 
 # City Beauty - Privacy Policy
+
+[EU Residents Click Here](http://citybeauty.com/gdpr.php)
 
 ### Overview:
 
@@ -28,7 +30,7 @@ We do not share your personal information, as described above, to any third part
 
 Many browsers have a “Do Not Track” feature that allows you to instruct websites that you do not want them to track your online activities. These browser features are not uniform, so we are not currently set up to respond to this feature.
 
-California residents who have provided their personal information to us may request data regarding disclosures of their information to third parties for direct marketing purposes. Such requests may be submitted to us by email at support@citycosmetics.com or at the following mailing address:
+California residents who have provided their personal information to us may request data regarding disclosures of their information to third parties for direct marketing purposes. Such requests may be submitted to us by email at support@citybeauty.com or at the following mailing address:
 
 **City Beauty®**  
 9361 Canoga Avenue  
@@ -42,7 +44,7 @@ We do not specifically market to children under the age of thirteen (13). Childr
 
 ### Privacy Policy Changes:
 
-If we decide to change our privacy policy from City Beauty®, we will post those changes here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. Please contact us if you have any questions concerning our privacy policy. We can be reached at support@citycosmetics.com or, for immediate support, please call us from 5am-7pm PST Mon-Fri, and 6am-4:30pm PST Sat-Sun at 1-800-347-1558.
+If we decide to change our privacy policy from City Beauty®, we will post those changes here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. Please contact us if you have any questions concerning our privacy policy. We can be reached at support@citybeauty.com or, for immediate support, please call us from 5am-7pm PST Mon-Fri, and 6am-4:30pm PST Sat-Sun at 1-800-347-1558.
 
 **City Beauty®**  
 9361 Canoga Avenue  
