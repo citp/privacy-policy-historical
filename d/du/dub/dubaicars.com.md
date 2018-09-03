@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dubaicars.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405003753id_/https%3A//www.dubaicars.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubaicars.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903130442id_/https%3A//www.dubaicars.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy / DubaiCars.com
 
