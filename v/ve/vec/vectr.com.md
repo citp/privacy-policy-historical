@@ -1,67 +1,88 @@
-> *The following text is extracted and transformed from the vectr.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513070029id_/https%3A//vectr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vectr.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903194841id_/https%3A//vectr.com/privacy-policy) for the most accurate reproduction.*
 
 # Vectr - Privacy Policy
 
-**VECTR LABS INC.** **PRIVACY POLICY** **Last Updated: September 1, 2015**
+**PRIVACY NOTICE** **Last Updated: May 25, 2018**
 
-This privacy policy ( **“Policy”** ) describes how Vectr Labs Inc. and its related companies ( **“Company”** ) collect, use and share personal information of consumer users of this website, vectr.com (the **“Site”** ). This Policy also applies to any of our other websites that post this Policy. This Policy does not apply to websites that post different statements.
+#### What does this policy cover?
 
-#### WHAT WE COLLECT
+This policy describes how Vectr and other companies in our group (also referred to as “we” or “us”) will make use of your data to purchase services from our website ([https://vectr.com](https://vectr.com/)).
 
-We get information about you in a range of ways.
+It also describes your data protection rights, including a right to object to some of the processing which Vectr carries out. More information about your rights, and how to exercise them, is set out in the “What rights do I have?” section.
 
-**Information You Give Us.** We collect your‎ name, email address, username, password, demographic information (such as your gender and occupation) as well as other information you directly give us on our Site.
+#### Summary of how we use your data
 
-**Information We Get From Others.** We may get information about you from other sources. We may add this to information we get from this Site.
+  * Vectr uses your personal data to manage your relationship with us, allow you to purchase services from us, deal with invoicing and ensure that we can communicate with you efficiently.
 
-**Information Automatically Collected.** We automatically log information about you and your computer. For example, when visiting our Site, we log your computer operating system type, browser type, browser language, the website you visited before browsing to our Site, pages you viewed, how long you spent on a page, access times and information about your use of and actions on our Site.
+  * Data is shared with other members of the companies which are associated or affiliated to Vectr and third party agents who assist us with the sale and provision of our services.
 
-**Cookies.** We may log information using “cookies.” Cookies are small data files stored on your hard drive by a website. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site. This type of information is collected to make the Site more useful to you and to tailor the experience with us to meet your special interests and needs.
-
-#### USE OF PERSONAL INFORMATION
-
-We use your personal information as follows:
-
-  * We use your personal information to operate, maintain, and improve our sites, products, and services.
-  * We use your personal information to process and deliver contest entries and rewards.
-  * We use your personal information to respond to comments and questions and provide customer service.
-  * We use your personal information to send information including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages.
-  * We use your personal information to communicate about promotions, upcoming events, and other news about products and services offered by us and our selected partners.
-  * We use your personal information to link or combine user information with other personal information.
-  * We use your personal information to protect, investigate, and deter against fraudulent, unauthorized, or illegal activity.
-  * We use your personal information to provide and deliver products and services customers request.
+  * Where we rely on your consent, such as for direct marketing, you can withdraw this consent at any time.
 
 
 
-#### SHARING OF PERSONAL INFORMATION
 
-We may share personal information as follows:
+#### What information do we collect?
 
-  * We may share personal information with your consent. For example, you may let us share personal information with others for their own marketing uses. Those uses will be subject to their privacy policies.
-  * We may share personal information when we do a business deal, or negotiate a business deal, involving the sale or transfer of all or a part of our business or assets. These deals can include any merger, financing, acquisition, or bankruptcy transaction or proceeding.
-  * We may share personal information for legal, protection, and safety purposes.
-    * We may share information to comply with laws.
-    * We may share information to respond to lawful requests and legal processes.
-    * We may share information to protect the rights and property of Vectr Labs Inc., our agents, customers, and others. This includes enforcing our agreements, policies, and terms of use.
-    * We may share information in an emergency. This includes protecting the safety of our employees and agents, our customers, or any person.
-  * We may share information with those who need it to do work for us.
+We collect and process personal data about you when you interact with us and our websites, and/or when you purchase services from us. This includes: 
 
+  * your name;
+  * your email address;
+  * your phone number ;
+  * your address;
+  * your payment details (including your billing address or PayPal account or bank details, as appropriate); and/or
+  * information related to the browser or device you use to access our website;
 
 
-We may also share aggregated and/or anonymized data with others for their own uses.
 
-#### INFORMATION CHOICES AND CHANGES
+#### How do we use this information, and what is the legal basis for this use?
 
-Our marketing emails tell you how to “opt-out.” If you opt out, we may still send you non-marketing emails. Non-marketing emails include emails about your accounts and our business dealings with you.
+We process this personal data for the following purposes:
 
-You may send requests about personal information to our Contact Information below. You can request to change contact choices, opt-out of our sharing with others, and update your personal information.
+  * To fulfil a contract, or take steps linked to a contract: this is relevant where you make a purchase from us. This includes:
+    * verifying your identity;
+    * taking payments; 
+    * communicating with you;
+    * providing customer services and arranging the delivery or other provision of services;
+  * Where we have a legitimate interest. This includes:
+    * providing an enhanced online user experience such as “likebox”. 
+    * to conduct research, analysis and analytics.
+  * Where you give us consent:
+    * we will send you direct marketing in relation to our relevant products and services, or other products and services provided by us, our affiliates and carefully selected partners.
+    * we place cookies and use similar technologies in accordance with our Cookies Policy and the information provided to you when those technologies are used
+    * on other occasions where we ask you for consent, we will use the data for the purpose which we explain at that time.
 
-You can typically remove and reject cookies from our Site with your browser settings. Many browsers are set to accept cookies until you change your settings. If you remove or reject our cookies, it could affect how our Site works for you.
 
-CONTACT INFORMATION. We welcome your comments or questions about this privacy policy. You may also contact us at our address:
 
-For information about how to contact Vectr Labs Inc., please visit our [contact page](https://web.archive.org/contact).
+#### Withdrawing consent or otherwise objecting to direct marketing
 
-Vectr Labs Inc. 3F-1, 293 Fuxing South Road Section 1, Taipei, TAIWAN 10665
+Wherever we rely on your consent, you will always be able to withdraw that consent, although we may have other legal grounds for processing your data for other purposes, such as those set out above. In some cases, we are able to send you direct marketing without your consent, where we rely on our legitimate interests. You have an absolute right to opt-out of direct marketing, or profiling we carry out for direct marketing, at any time. You can do this by following the instructions in the communication where this is an electronic message, or by contacting us using the details set out below.
 
-CHANGES TO THIS PRIVACY POLICY. We may change this privacy policy. If we make any changes, we will change the Last Updated date above.
+#### What rights do I have?
+
+You have the right to **ask us for a copy** of your personal data; to **correct** , **delete** or **restrict** (stop any active) processing of your personal data; and to **obtain the personal data you provide to us for a contract or with your consent in a structured, machine readable format** , and to ask us to **share (port) this data to another controller.**
+
+In addition, you can **object to the processing** of your personal data in some circumstances (in particular, where we don’t have to process the data to meet a contractual or other legal requirement, or where we are using the data for direct marketing).
+
+These **rights may be limited** , for example if fulfilling your request would reveal personal data about another person, or if you ask us to delete information which we are required by law to keep or have compelling legitimate interests in keeping.
+
+To exercise any of these rights, you can get in touch with us – or our data protection officer – using the details set out below. If you have unresolved concerns, you have the **right to complain** to an EU data protection authority where you live, work or where you believe a breach may have occurred. 
+
+#### How do I get in touch with you?
+
+We hope that we can satisfy queries you may have about the way we process your data. If you have any concerns about how we process your data, or would like to opt out of direct marketing, you can get in touch at [info@vectr.com](mailto:info@vectr.com). 
+
+#### Which Vectr entity is my data controller, and which affiliates might my data be shared with?
+
+The data controller for your information is Designs.net Pte Ltd. Your personal data may be shared with other members of our group and certain third party agents.
+
+#### How long will you retain my data?
+
+Where we process registration data, we do this for as long as you are an active user of our sites and for 12 months after this.
+
+Where we process personal data for marketing purposes or with your consent, we process the data until you ask us to stop and for a short period after this (to allow us to implement your requests). We also keep a record of the fact that you have asked us not to send you direct marketing or to process your data so that we can respect your request in future.
+
+Where we process personal data in connection with performing a contract, we keep the transactional data for six years from your last interaction with us (or such longer period as may be required by law).
+
+#### Language
+
+This policy is written in English with a reference translation in another language (if necessary). In the event of any conflict in interpreting or construing the terms of this policy, the English version shall prevail.
