@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easel.ly privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023021405id_/https%3A//www.easel.ly/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easel.ly privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903190828id_/https%3A//www.easel.ly/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Create Amazing Infographics Easel.ly!
 
@@ -62,11 +62,11 @@ _Personal Information_. We do not share your Personal Information with others ex
   * Other Situations. We also may disclose your information: 
     * In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us, in our sole discretion.
     * When we believe disclosure is appropriate in connection with efforts to investigate, prevent, report, or take other action regarding illegal activity, suspected fraud, or other wrongdoing; to protect and defend the rights, property, or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce the terms and conditions that apply to our Site or other agreements or policies.
-    * In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
+    * In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. Any future companies to whom we may work with our consistent with our own privacy policies.
 
 
 
-Any third parties to whom we may disclose Personal Information may have their own privacy policies that describe how they use and disclose Personal Information. Those policies will govern use, handling, and disclosure of your Personal Information once we have shared it with those third parties as described in this Privacy Policy. If you want to learn more about their privacy practices, we encourage you to visit the websites of those third parties. These entities or their servers may be located either inside or outside the United States.
+Any third parties to whom we may disclose Personal Information to our consistent with our own privacy policies. Those policies will govern use, handling, and disclosure of your Personal Information once we have shared it with those third parties as described in this Privacy Policy. If you want to learn more about their privacy practices, we encourage you to visit the websites of those third parties. These entities or their servers may be located either inside or outside the United States.
 
 _Aggregated and Non-Personal Information_. We may share aggregated and/or non-Personal Information we collect under any of the above circumstances. We may also share it with third parties to develop and deliver targeted advertising on the Site, through the Services, and on websites of third parties. We may combine non-Personal Information we collect with additional non-Personal Information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers, and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to our website and the most popular features or services accessed. This information does not contain any Personal Information and may be used to develop website content and services that we hope you and other users will find of interest and to target content and advertising.
 
@@ -83,7 +83,7 @@ Users should also be aware of how they handle and disclose their Personal Inform
 
 The Site and the Services are hosted in and provided from the United States. If you use the Site or the Services from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personal data to the United States. The United States does not have the same data protection laws as the EU and some other regions. By providing your Personal Information, you consent to the transfer of your personal data to the United States and the use of your Personal Information, in accordance with this Privacy Policy.
 
-We may retain Personal Information for as long as we have a business need for it or as applicable laws or regulations or government orders require us to retain it. Additionally, the Site and/or the Services may enable you (or other users) to save information including information that you have made public or allowed certain users to access or see.
+We may retain Personal Information for as long as we have a business need for it or as applicable laws or regulations or government orders require us to retain it. Our current retention policy is to store data up to 18 months on accounts that aren’t active. Additionally, the Site and/or the Services may enable you (or other users) to save information including information that you have made public or allowed certain users to access or see.
 
 If you have any questions about our Privacy Policy, please contact us at support@easel.ly.
 
