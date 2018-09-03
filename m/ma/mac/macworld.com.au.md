@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macworld.com.au privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610043936id_/http%3A//www.macworld.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macworld.com.au privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903160141id_/http%3A//www.macworld.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Macworld Australia - Macworld Australia
 
