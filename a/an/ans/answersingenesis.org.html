@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the answersingenesis.org privacy policy that was archived on 2018-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180528211357id_/https%3A//answersingenesis.org/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the answersingenesis.org privacy policy that was archived on 2018-09-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180903050821id_/https%3A//answersingenesis.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta charset="utf-8">
@@ -12,7 +12,7 @@
         })(window,document,'script','dataLayer','GTM-PL4DTG5');</script>
 
 <meta name="description" content="The Answers in Genesis Privacy Policy outlines the information that Answers in Genesis gathers, how we use that information, and the options you have to access, correct, or delete such information.">
-<link rel="dns-prefetch" href="https://assets.answersingenesis.org/"><link rel="dns-prefetch" href="https://fonts.gstatic.com/"><link rel="dns-prefetch" href="https://bible.logos.com/"><link rel="dns-prefetch" href="https://nrpc.olark.com/"><link rel="dns-prefetch" href="https://static.olark.com/"><link rel="dns-prefetch" href="https://api.reftagger.com/"><link rel="dns-prefetch" href="https://www.google-analytics.com/"><link rel="dns-prefetch" href="https://s3.amazonaws.com"><link rel="dns-prefetch" href="https://staticxx.facebook.com/"><link rel="dns-prefetch" href="https://www.facebook.com/"><link rel="dns-prefetch" href="https://cdns.gigya.com/"><link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/"><link rel="dns-prefetch" href="https://ajax.googleapis.com/"><link rel="dns-prefetch" href="https://connect.facebook.net/"><link rel="dns-prefetch" href="https://apis.google.com/"><link rel="dns-prefetch" href="https://fonts.googleapis.com/">
+<link rel="dns-prefetch" href="https://assets.answersingenesis.org/"><link rel="dns-prefetch" href="https://fonts.gstatic.com/"><link rel="dns-prefetch" href="https://bible.logos.com/"><link rel="dns-prefetch" href="https://nrpc.olark.com/"><link rel="dns-prefetch" href="https://static.olark.com/"><link rel="dns-prefetch" href="https://api.reftagger.com/"><link rel="dns-prefetch" href="https://www.google-analytics.com/"><link rel="dns-prefetch" href="https://s3.amazonaws.com"><link rel="dns-prefetch" href="https://staticxx.facebook.com/"><link rel="dns-prefetch" href="https://www.facebook.com/"><link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/"><link rel="dns-prefetch" href="https://ajax.googleapis.com/"><link rel="dns-prefetch" href="https://connect.facebook.net/"><link rel="dns-prefetch" href="https://apis.google.com/"><link rel="dns-prefetch" href="https://fonts.googleapis.com/">
 <link rel="apple-touch-icon" sizes="57x57" href="https://assets.answersingenesis.org/art/apple-touch-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="https://assets.answersingenesis.org/art/apple-touch-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="72x72" href="https://assets.answersingenesis.org/art/apple-touch-icon-72x72.png">
@@ -41,7 +41,7 @@
 <link rel="stylesheet" media="all" href="https://assets.answersingenesis.org/lib/js/jqueryui/1.12.1/jquery-ui.structure.min.css">
 <link rel="stylesheet" media="all" href="https://assets.answersingenesis.org/lib/js/jqueryui/1.12.1/jquery-ui.theme.min.css">
 <link rel="stylesheet" media="all" href="https://assets.answersingenesis.org/lib/js/timepicker/1.6.3/timepicker.css">
-<link href="https://assets.answersingenesis.org/css/default/live/default.css?v=107" rel="stylesheet" media="all">
+<link href="https://assets.answersingenesis.org/css/default/live/default.css?v=12" rel="stylesheet" media="all">
 <!--[if lte IE 8]>
 		<link href="https://assets.answersingenesis.org/css/default/working/ie.css" rel="stylesheet" media="all">
 		<![endif]-->
@@ -75,7 +75,6 @@
 		var aigOffice = 'us';
 		var formAppSetupFieldTypeFunctions = [];
 		var formAppSetupValidatorFunctions = [];
-		var useGigya = true;
 	</script>
 
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
@@ -114,6 +113,10 @@ ga('create', 'UA-124736-25', 'auto', {'name': 'enhancedTracker'});
 ga('enhancedTracker.set', 'anonymizeIp', true);
 ga('enhancedTracker.require', 'displayfeatures');
 ga('enhancedTracker.require', 'ec');
+ga('create', 'UA-124736-36', 'auto', {'name': 'twentyEighteen'});
+ga('twentyEighteen.set', 'anonymizeIp', true);
+ga('twentyEighteen.require', 'displayfeatures');
+ga('twentyEighteen.require', 'ec');
 
 // anonymize analytics
 var piiRegex = [
@@ -189,6 +192,9 @@ function anonymizeAnalytics(model, oldSendHitTask)
 
 ga(function(tracker)
 {
+    var tracker3 = ga.getByName('twentyEighteen');
+    var oldTwentyEighteenSendHitTask = tracker3.get('sendHitTask');
+    
     var tracker2 = ga.getByName('enhancedTracker');
     var oldEnhancedSendHitTask = tracker2.get('sendHitTask');
     
@@ -208,10 +214,18 @@ ga(function(tracker)
     {
         anonymizeAnalytics(model, oldEnhancedSendHitTask);;
     });
+    
+    // Modifies sendHitTask to send a copy of the request to a local server after
+    // sending the normal request to www.google-analytics.com/collect.
+    tracker3.set('sendHitTask', function(model)
+    {
+        anonymizeAnalytics(model, oldTwentyEighteenSendHitTask);;
+    });
 });
 
 ga('send', 'pageview');
 ga('enhancedTracker.send', 'pageview');
+ga('twentyEighteen.send', 'pageview');
     	</script>
 <style>
 		input[type="submit"].btn {
@@ -253,6 +267,19 @@ ga('enhancedTracker.send', 'pageview');
 		}
 		.panel.panel-slide {
             padding-bottom: 0;
+        }
+        .padded-xlg {
+            padding: 1rem;
+        }
+        @media (min-width: 45rem) {
+            .padded-xlg {
+                padding: 1rem 4rem;
+            }
+        }
+        @media (min-width: 45rem) {
+            .gridItem {
+                width: 25%;
+            }
         }
 	</style>
 </head>
@@ -671,7 +698,7 @@ Answers in Genesis Privacy Policy
 <div class="wrap">
 <p>Get the latest answers emailed to you or sign up for our <a href="/newsletters/print/">free print newsletter</a>.</p>
 <form action="/newsletters/" method="POST" _lpchecked="1" class="js-newsletterSignup" id="persistentNewsletters">
-<input type="hidden" name="csrfmiddlewaretoken" value="smobI8vsAfabxaFm35mssC6rxc7wsbGQfcT7FZgNLI6UUhmrYRYtcih6LWWWSRhQ">
+<input type="hidden" name="csrfmiddlewaretoken" value="aSjPwkzrkEODEMlJI81EdaOqlqLRO3GW4buBg04vyJpG8DbRHJVUevzEdkJfU1rH">
 <div class="actionbox-box1">
 <label for="chkEmail_aw" class="checkboxLabel">
 <input type="checkbox" name="newsletterinterest-latest-answers" id="chkEmail_aw" value="latest-answers" data-newslettertitle="latest-answers" class="js-newsletterCB">
@@ -709,8 +736,8 @@ Answers in Genesis Privacy Policy
 </div>
 </div>
 <div class="actionbox-box2">
-<input id="id_FNAME" type="text" name="FNAME" placeholder="First Name" maxlength="50" class="required js-required">
-<input name="EMAIL" type="email" placeholder="Email" size="16" class="email js-required">
+<input id="id_FNAME" type="text" name="first_name" placeholder="First Name" maxlength="50" class="required js-required">
+<input name="email" type="email" placeholder="Email" size="16" class="email js-required">
 <div class="selectWrapper">
 <select name="COUNTRY" class="js-newsletterCountry" style="width: 100%; margin: 0 .5em .5em 0; border: 1px solid #e5e5e5; font-size: 1em; height: 2.25em;">
 <option value="AF">Afghanistan</option>
@@ -753,6 +780,7 @@ Answers in Genesis Privacy Policy
 <option value="CV">Cabo Verde</option>
 <option value="KH">Cambodia</option>
 <option value="CM">Cameroon</option>
+
 <option value="CA">Canada</option>
 <option value="KY">Cayman Islands</option>
 <option value="CF">Central African Republic</option>
@@ -793,13 +821,12 @@ Answers in Genesis Privacy Policy
 <option value="PF">French Polynesia</option>
 <option value="TF">French Southern Territories</option>
 <option value="GA">Gabon</option>
-<option value="GM">Gambia</option>
+<option value="GM">Gambia</option> 
 <option value="GE">Georgia</option>
 <option value="DE">Germany</option>
 <option value="GH">Ghana</option>
 <option value="GI">Gibraltar</option>
 <option value="GR">Greece</option>
-
 <option value="GL">Greenland</option>
 <option value="GD">Grenada</option>
 <option value="GP">Guadeloupe</option>
@@ -841,7 +868,7 @@ Answers in Genesis Privacy Policy
 <option value="LY">Libya</option>
 <option value="LI">Liechtenstein</option>
 <option value="LT">Lithuania</option>
- <option value="LU">Luxembourg</option>
+<option value="LU">Luxembourg</option>
 <option value="MO">Macao</option>
 <option value="MK">Macedonia, the former Yugoslav Republic of</option>
 <option value="MG">Madagascar</option>
@@ -918,6 +945,7 @@ Answers in Genesis Privacy Policy
 <option value="SI">Slovenia</option>
 <option value="SB">Solomon Islands</option>
 <option value="SO">Somalia</option>
+
 <option value="ZA">South Africa</option>
 <option value="GS">South Georgia and the South Sandwich Islands</option>
 <option value="KR">South Korea</option>
@@ -958,18 +986,18 @@ Answers in Genesis Privacy Policy
 <option value="VN">Viet Nam</option>
 <option value="VG">Virgin Islands, British</option>
 <option value="VI">Virgin Islands, U.S.</option>
+
 <option value="WF">Wallis and Futuna</option>
 <option value="EH">Western Sahara</option>
 <option value="YE">Yemen</option>
 <option value="ZM">Zambia</option>
 <option value="ZW">Zimbabwe</option>
-
 </select>
 <i class="arrow-dropdown"></i>
 </div>
-<input name="POSTAL" class="zipcode js-newsletterZip" placeholder="Postal Code" type="tel" value="" pattern="\d*" maxlength="20">
+<input name="postal_code" class="zipcode js-newsletterZip" placeholder="Postal Code" type="tel" value="" pattern="\d*" maxlength="20">
 <div style="padding: 1em 0 2em 0;">
-<input type="checkbox" name="privacy_consent" id="id_privacy_consent" value="privacy_consent" class="required js-required" style="width: 1.25em;">I agree to the current <a href="/about/privacy-policy/" class="thickbox">Privacy Policy</a>.
+<input type="checkbox" name="privacy_consent" id="id_privacy_consent" value="privacy_consent" class="required js-required" style="width: 1.25em;">I agree to the current <a href="/privacy/" class="thickbox">Privacy Policy</a>.
 </div>
 <button type="submit" value="Subscribe" name="submit" class="btn js-newsletterSubmit"><i class="spr spr-send"></i>Subscribe</button>
 </div>
@@ -979,10 +1007,12 @@ Answers in Genesis Privacy Policy
 <div class="js-newsletterThanks newsletterThanks" style="display: none;">
 <h3>Thank You!</h3>
 <p>Thank you for signing up to receive email newsletters from Answers in Genesis.</p>
+<p>You can also sign up for our free <a href="/newsletters/print/">print newsletter</a> (US only).</p>
 </div>
 <div class="js-newsletterNeedsFinished newsletterNeedsFinished" style="display: none;">
 <h3>Finish your subscription</h3>
 <p>You're almost done! Please follow the instructions we emailed you in order to finish subscribing.</p>
+<p>You can also sign up for our free <a href="/newsletters/print/">print newsletter</a> (US only).</p>
 </div>
 <div class="js-newsletterError newsletterError" style="display: none;">
 <h3>Whoops!</h3>
@@ -1043,6 +1073,12 @@ Support the creation/gospel message by <a href="/donate/">donating</a> or <a hre
 			image: '//assets.answersingenesis.org/img/panel/tile-cover/cedarville-july16.jpg'
 		},
 		{
+			name: 'Haven of Peace Academy',
+			slug: 'haven-peace-academy',
+			link: 'http://www.hopac.sc.tz/for-future-staff/',
+			image: '//assets.answersingenesis.org/img/panel/tile-cover/hopac-july18.png'
+		},
+		{
 			name: 'Abeka Book ',
 			slug: 'abeka-book',
 			link: ' http://abeka.com/change/?utm_source=AnswersWeb&utm_medium=Banner&utm_campaign=AIG2017&utm_content=Butterfly%20Change',
@@ -1056,10 +1092,15 @@ Support the creation/gospel message by <a href="/donate/">donating</a> or <a hre
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/json2/20110223/json2.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/backbone.js/0.9.2/backbone-min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui-touch-punch/0.2.3/jquery.ui.touch-punch.min.js"></script>
-<script type="text/javascript" src="https://cdns.gigya.com/JS/gigya.js?apiKey=3_SbdQcw0Cg2L5E5T8i8TCF8X05-coOwNUZfeMRIhTjOoGplJfDSvUhBj6x0USo3ec"></script>
-<script type="text/javascript" src="/jstemplate/all.js"></script>
+<script type="text/javascript" src="/jstemplate/all.js?v=12"></script>
 <script type="text/javascript" src="https://assets.answersingenesis.org/lib/js/ace/1.2.2/src/ace.js"></script>
-<script type="text/javascript" src="https://assets.answersingenesis.org/js/default/live/default.min.js?v=107"></script>
+<script type="text/javascript" crossorigin="anonymous" src="https://assets.answersingenesis.org/js/default/live/default.min.js?v=12"></script>
+<script>
+    var jsreq = new XMLHttpRequest();
+    jsreq.open('GET', '/incrementer-js.css');
+    jsreq.send();
+</script>
+<link rel="stylesheet" media="all" href="/incrementer-nonjs.css">
 
 <script data-cfasync="false" type="text/javascript">/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
 	f[z]=function(){
