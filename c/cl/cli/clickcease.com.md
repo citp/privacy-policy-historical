@@ -1,82 +1,130 @@
-> *The following text is extracted and transformed from the clickcease.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708101110id_/https%3A//www.clickcease.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickcease.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903161557id_/https%3A//www.clickcease.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | ClickCease
 
-At ClickCease.com we are committed to safeguarding and preserving the privacy of our visitors. 
+#### Purpose and who we are
 
-This Privacy Policy explains what happens to any personal data that you provide to us, or that we collect from you whilst you visit our site. 
+The purpose of this Privacy Policy is to describe how Karniboo Technologies Limited dba ClickCease.com (“ClickCease”, “us”, “we”, or “our”) collects, uses and shares information about you through our website. Please read this notice carefully to understand what we do. If you do not understand any aspects of our Privacy Policy, please feel free to contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7a0a08130c1b19033a1916131911191f1b091f54191517).
 
-We do update this Policy from time to time so please do review this Policy regularly. 
+ClickCease is a limited liability company established under the laws of Israel with a principal place of business at HaArba'a St 18, Tel Aviv-Yafo, Israel. If you reside or are located in the European Economic Area (“EEA”) ClickCease is the data controller of all Personally Identifiable Information (as described below) collected via our website, as set out in this Privacy Policy.
 
-**Information We Collect**
+At ClickCease we are committed to safeguarding and preserving the privacy of our visitors.
 
-In running and maintaining our website we may collect and process the following data about you: 
+This Privacy Policy explains what happens to any personal data that you provide to us, or that we collect from you whilst you visit our website.
 
-i. Information about your use of our site including details of your visits such as pages viewed and the resources that you access. Such information includes traffic data, location data and other communication data. 
+We do update this Policy from time to time so please do review this Privacy Policy regularly.
 
-ii. Information provided voluntarily by you. For example, when you register for information or make a purchase. 
+#### What Information this Privacy Policy Covers
 
-iii. Information that you provide when you communicate with us by any means. 
+This Privacy Policy covers information we collect from you through our Site. Some of our Site’s functionality can be used without revealing any Personally Identifiable Information, though in order to access certain features and benefits on our Site, you may need to submit, or we may collect, "Personally Identifiable Information" (i.e., information that can be used to identify you). Personally Identifiable Information can include information such as your name and email address, among other things. If you reside or are located in the EEA, it can also include your IP address or device identifier. You are responsible for ensuring the accuracy of the Personally Identifiable Information you submit to us. Inaccurate information may affect your ability to use the Site, the information you receive when using the Site, and our ability to contact you. For example, your email address should be kept current because that is one of the primary manners in which we communicate with you.
 
-**Use of Cookies  
-** Cookies provide information regarding the computer used by a visitor. We may use cookies where appropriate to gather information about your computer fin order to assist us in improving our website. 
+#### What You Agree to by Using Our Site
 
-We may gather information about your general internet use by using the cookie. Where used, these cookies are downloaded to your computer and stored on the computer’s hard drive. Such information will not identify you personally. It is statistical data. This statistical data does not identify any personal details whatsoever 
+Please understand that by submitting any Personally Identifiable Information to us, you consent and agree that we may collect, use and disclose such Personally Identifiable Information in accordance with this Privacy Policy, and as permitted or required by law. If you do not agree with these terms, please do not provide any Personally Identifiable Information to us. If you refuse or withdraw your consent, or if you choose not to provide us with any required Personally Identifiable Information, we may not be able to provide you with the services that can be offered on our Site. Consent can be withdrawn at any time by sending a request to remove consent or deleting your account to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8cfcfee5faedeff5ccefe0e5efe7efe9edffe9a2efe3e1). Please note that we may also rely on legitimate interests or fulfilment of a contract to continue processing your Personally Identifiable Information.
 
-You can adjust the settings on your computer to decline any cookies if you wish. This can easily be done by activating the reject cookies setting on your computer. 
+#### What Information We Collect
 
-Our advertisers may also use cookies, over which we have no control. Such cookies (if used) would be downloaded once you click on advertisements on our website. 
+In running and maintaining our website we may collect and process the following data about you:
 
-**Use of Your Information**
+i. Information about your use of our site including details of your visits such as pages viewed and the resources that you access. Such information includes traffic data, location data and other communication data.
 
-We use the information that we collect from you to provide our services to you. In addition to this we may use the information for one or more of the following purposes: 
+ii. Information provided voluntarily by you. For example, when you register for information or make a purchase.
 
-i. To provide information to you that you request from us relating to our products or services. 
+iii. Information that you provide when you communicate with us by any means.
 
-ii. To provide information to you relating to other products that may be of interest to you. Such additional information will only be provided where you have consented to receive such information. 
+#### Use of Cookies
 
-iii. To inform you of any changes to our website, services or goods and products. 
+Cookies provide information regarding the computer used by a visitor. We may use cookies where appropriate to gather information about your computer fin order to assist us in improving our website.
 
-If you have previously purchased goods or services from us we may provide to you details of similar goods or services, or other goods and services, that you may be interested in. 
+We may gather information about your general internet use by using the cookie. Where used, these cookies are downloaded to your computer and stored on the computer’s hard drive. Such information will not identify you personally. It is statistical data. This statistical data does not identify any personal details whatsoever
 
-Where your consent has been provided in advance we may allow selected third parties to use your data to enable them to provide you with information regarding unrelated goods and services which we believe may interest you. Where such consent has been provided it can be withdrawn by you at any time. 
+You can adjust the settings on your computer to decline any cookies if you wish. This can easily be done by activating the reject cookies setting on your computer.
 
-**Storing Your Personal Data**
+Our advertisers may also use cookies, over which we have no control. Such cookies (if used) would be downloaded once you click on advertisements on our website.
 
-In operating our website it may become necessary to transfer data that we collect from you to locations outside of the European Union for processing and storing. By providing your personal data to us, you agree to this transfer, storing or processing. We do our upmost to ensure that all reasonable steps are taken to make sure that your data is treated stored securely. 
+#### How we Use Your Information
 
-Unfortunately the sending of information via the internet is not totally secure and on occasion such information can be intercepted. We cannot guarantee the security of data that you choose to send us electronically, sending such information is entirely at your own risk. 
+We use information relating to your use of the website to build higher quality, more useful services by performing statistical analyses of the collective characteristics and behavior of our users, and by measuring demographics and interests regarding specific areas of our website. We may also use this information to ensure the security of our services and the website. Except as set forth in this Privacy Policy or as specifically agreed to by you, we will not disclose any of your Personally Identifiable Information. in addition to the other uses set forth in this Privacy Policy, we may disclose and otherwise use Personally Identifiable Information as described below. We use the information that we collect from you to provide our services to you. In addition to this we may use your Personally Identifiable Information for one or more of the following purposes:
 
-**Disclosing Your Information**
+i. To provide information to you that you request from us relating to our products or services.
 
-We will not disclose your personal information to any other party other than in accordance with this Privacy Policy and in the circumstances detailed below: 
+ii. To provide information to you relating to other products that may be of interest to you. Such additional information will only be provided where you have consented to receive such information.
 
-i. In the event that we sell any or all of our business to the buyer. 
+iii. To inform you of any changes to our website, services or goods and products.
 
-ii. Where we are legally required by law to disclose your personal information. 
+If you have previously purchased goods or services from us we may provide to you details of similar goods or services, or other goods and services, that you may be interested in.
 
-iii. To further fraud protection and reduce the risk of fraud. 
+Where your consent has been provided in advance we may allow selected third parties to use your Personally Identifiable Information to enable them to provide you with information regarding unrelated goods and services which we believe may interest you. Where such consent has been provided it can be withdrawn by you at any time.
 
-**Your Adwords Account Data**
+#### Storing Your Personal Data
 
-Some of our plans require access to your Adwords account. This access is required for our robots to add IPs to the exclusion lists of your campaigns. 
+If you reside or are located in the EEA, we keep your Personally Identifiable Information for no longer than necessary for the purposes for which the Personally Identifiable Information is processed. The length of time we retain Personally Identifiable Information for depends on the purposes for which we collect and use it and/or as required to comply with applicable laws and to establish, exercise or defend our legal rights.
 
-i. We will not store any information from your adwords account. 
+#### International Transfer of Personally Identifiable Information
 
-ii. We will not trade nor sale any information from your adwords account. 
+We transfer your personal data from within the EEA to locations outside the EEA. ClickCease is located in the Israel and is involved in processing your Personally Identifiable Information there. International data transfers to ClickCease are safeguarded with EU Commission certified standard data protection contract clauses that can be found in [here](http://docs.clickcease.com/pricing-privacy-and-terms/the-clickcease-roadmap-to-gdpr-compliance). The safeguards for international data transfers to ClickCease’s sub-processors are set out in ClickCease’s list of sub-processors in <http://docs.clickcease.com/pricing-privacy-and-terms/the-clickcease-roadmap-to-gdpr-compliance>.
 
-iii. We will not make any changes to your adwords account. If a change is needed we will ask for your written approval. 
+#### Confidentiality & Security of Personally Identifiable Information
 
-iiii. We will not ask for your adwords user name or your password. The access is granted by approving an access request from our Mcc account. 
+We consider the confidentiality and security of your information to be of the utmost importance. We will use industry standard physical, technical and administrative security measures to keep your Personally Identifiable Information confidential and secure and will not share it with third parties, except as otherwise provided in this Privacy Policy, or unless such disclosure is necessary in special cases, such as a physical threat to you or others, as permitted by applicable law. Unfortunately, the sending of information via the internet is not totally secure and on occasion such information can be intercepted. We cannot guarantee the security of data that you choose to send us electronically, sending such information is entirely at your own risk.
 
-**Third Party Links  
-** On occasion we include links to third parties on this website. Where we provide a link it does not mean that we endorse or approve that site’s policy towards visitor privacy. You should review their privacy policy before sending them any personal data. 
+#### Disclosing Your Information
 
-**Access to Information**
+We will not disclose your personal information to any other party other than in accordance with this Privacy Policy and in the circumstances detailed below:
 
-In accordance with the Data Protection Act 1998 you have the right to access any information that we hold relating to you. Please note that we reserve the right to charge a fee of $10 to cover costs incurred by us in providing you with the information. 
+i. We use various service providers, vendors and contractors (collectively, "Contractors") to assist us in providing our products and services to you. Our Contractors may have limited access to your Personally Identifiable Information in the course of providing their products or services to us, so that we in turn can provide our services to you. These Contractors may include vendors and suppliers that provide us with technology, services, and/or content related to the operation and maintenance of the Site or our services. Access to your Personally Identifiable Information by Contractors is limited to the information reasonably necessary for such Contractors to perform their limited function for us.
 
-**Contacting Us**   
+ii. We reserve the right to transfer Personally Identifiable Information in the event we sell or transfer all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation). Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use the Personally Identifiable Information in a manner consistent with this Privacy Policy.
+
+iii. We may share your Personally Identifiable Information with various government authorities in response to subpoenas, court orders, or other legal process; to establish or exercise our legal rights or to protect our property; to defend against legal claims; or as otherwise required by law. In such cases we reserve the right to raise or waive any legal objection or right available to us.
+
+iv. We may share your Personally Identifiable Information when we believe it is appropriate to investigate, prevent, or take action regarding illegal or suspected illegal activities; to protect and defend the rights, property, or safety of ClickCease, the Site, our users, customers, or others.
+
+#### Your AdWords Account Data
+
+Some of our plans require access to your AdWords account. This access is required for our robots to add IPs to the exclusion lists of your campaigns.
+
+i. We will not store any information from your AdWords account.
+
+ii. We will not trade nor sale any information from your AdWords account.
+
+iii. We will not make any changes to your AdWords account (without your approval) other than adding a tracking template to your account.
+
+iv. We will not ask for your AdWords user name or your password. The access is granted by approving an access request from our MCC account or by providing us an API access to your AdWords account.
+
+#### Third Party Links
+
+On occasion we include links to third parties on this website. Where we provide a link it does not mean that we endorse or approve that site’s policy towards visitor privacy. You should review their privacy policy before sending them any personal data.
+
+#### Updating or Deleting Your Personally Identifiable Information
+
+If you would like information in relation to your rights or would like to exercise any of them, you may also contact us via [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2757554e5146445e67444b4e444c44424654420944484a). If you reside or are located in the EEA, you have the right to request that we:
+
+  * provide access to any Personally Identifiable Information we hold about you;
+
+  * prevent the processing of your Personally Identifiable Information for direct-marketing purposes;
+
+  * update any Personally Identifiable Information which is out of date or incorrect;
+
+  * delete any Personally Identifiable Information which we are holding about you;
+
+  * restrict the way that we process your Personally Identifiable Information;
+
+  * provide your Personally Identifiable Information to a third party provider of services; or
+
+  * provide you with a copy of any Personally Identifiable Information which we hold about you.
 
 
-Please do not hesitate to contact us regarding any matter relating to this Privacy Policy at info@clickcease.com. 
+
+
+We try to answer every email promptly where possible, and provide our response within the time period stated by applicable law. Keep in mind, however, that there will be residual information that will remain within our databases, access logs and other records, which may or may not contain your Personally Identifiable Information. Please also note that certain Personally Identifiable Information may be exempt from such requests in certain circumstances, which may include if we need to keep processing your Personally Identifiable Information to comply with a legal obligation.
+
+When you email us with a request, we may ask that you provide us with information necessary to confirm your identity.
+
+#### Questions and Complaints
+
+Please do not hesitate to contact us regarding any matter relating to this Privacy Policy at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e9999b809f888a90a98a85808a828a8c889a8cc78a8684).
+
+#### Changing Our Privacy Policy
+
+Please note that we review our privacy practices from time to time, and that these practices are subject to change. Any change, update, or modification will be effective immediately upon posting on our website. We will notify you of any material change to this Privacy Policy by posting a notice on our website’s homepage for a reasonable period of time following such update, and by changing the effective date (located at the bottom of this page). Be sure to return to this page periodically to ensure familiarity with the most current version of this Privacy Policy.
