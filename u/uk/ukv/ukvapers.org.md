@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukvapers.org privacy policy that was archived on 2017-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170322093826id_/http%3A//ukvapers.org/Thread-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukvapers.org privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903053309id_/https%3A//ukvapers.org/Thread-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,11 +35,11 @@ Forums
 UK Vapers hosts message boards, chat and other services. Please remember that any information that is disclosed in public forums becomes public information. In addition, information that is disclosed in private forums may be disclosed by other forum participants. You should exercise caution when deciding to disclose your personal information.
 
 IP Address  
-In common with most sites on the Internet, every time you log into or post on UK Vapers, the forum software records your current [IP Address](http://en.wikipedia.org/wiki/IP_address). This is done to protect the site from abuse. We will not disclose this IP Address to anyone except where required by law
+As IP Addresses are considered personal data by the GDPR and we currently have no way of obtaining explicit consent to process them, as of the 25th May 2018 we no longer record the IP Address of anyone visiting UK Vapers. Although we do have records of IP addresses prior to this date, we will not disclose them to anyone except where required by law
 
 Security  
 UK Vapers' site has security measures in place to protect the loss, misuse and alteration of the information under its control. UK Vapers' servers have strict security in place to prevent an intruder from retrieving personal information about its users.
 
 If you have any questions regarding this privacy policy, you can contact us via the [Contact Us](http://ukvapers.org/Forum-Contact-Us) Forum, or by email to info@ukvapers.org 
 
-(This post was last modified: 03/11/13 09:36 PM by [Phil A](http://ukvapers.org/User-Phil-A).)
+(This post was last modified: 25/05/18 02:53 PM by [Phil A](https://ukvapers.org/User-Phil-A).)
