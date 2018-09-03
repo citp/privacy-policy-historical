@@ -1,94 +1,223 @@
-> *The following text is extracted and transformed from the twinings.co.uk privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711091332id_/https%3A//www.twinings.co.uk/footer-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twinings.co.uk privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904015035id_/https%3A//www.twinings.co.uk/Footer-Pages/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Notice
 
-PRIVACY INTRODUCTION
+**R Twinings and Company Limited Online Privacy Notice**
 
-[www.twinings.co.uk](http://www.twinings.co.uk/) (the "Website") is owned and operated by R. Twining and Company Limited (registered in England and Wales under company number 525071 and with its registered office at Weston Centre, 10 Grosvenor Street, London W1K 4QY) ("Twinings" or "we" or "us").
+  * Who are we?
+  * Purpose of this notice
+  * What personal data do we collect?
+    * Site traffic data and information about your computer
+    * Information you send us
+    * Information about your on-line transactions
+    * Information you give us when you sign up for our newsletter, enter a competition, prize draw, or promotion, complete a survey, or create an online account
+    * Direct Marketing
+  * Your Rights
+  * Contacting us and your rights of complaint
 
-Twinings are committed to protecting and respecting your privacy and complying with applicable laws for the protection of personal data. This policy sets out (1) the type of information we collect from you when you visit the Website; and (2) the way we treat any information we collect from you, or that you provide to us through the Website.
 
-For the purpose of the UK Data Protection Act 1998 (and equivalent legislation in other EC Member states) the Data Controller is R. Twining and Company Limited (registered in England and Wales under company number 525071 and with its registered office at Weston Centre, 10 Grosvenor Street, London W1K 4QY). 
 
-This Privacy Policy forms part of the Website Terms & Conditions and by submitting your personal information to the Website, you are confirming that you have read and understood this Privacy Policy and are agreeing to the uses of your personal information described in it.
+WHO ARE WE?
 
-BEFORE YOU START
+This website [www.twinings.co.uk](http://www.twinings.co.uk/) (the “ **Website** ”) is owned and operated by R. Twining and Company Limited (registered in England and Wales under company number 5525071 and with its registered office at Weston Centre, 10 Grosvenor Street, London W1K 4QY) (called in this notice “ **Twinings** ”, “ **we** ”, “ **our** ” or “ **us** ”).
 
-Parts of our Website may contain links to third party websites for your convenience and information. When you access a third party website through such link please understand that we do not control the content and are not responsible for the privacy practices of that site even where they may contain Twinings or associated company logos. We suggest that you carefully review the privacy policies of those websites linked from our site. These sites may send their own cookies to users, collect data or solicit personal information.
+PURPOSE OF THIS NOTICE
 
-INFORMATION COLLECTED THROUGH OUR WEBSITE
+This privacy notice tells you about the information we collect about you when you visit our Website or otherwise provide us with information.
 
-When you visit our Website, we may collect information on two different levels about your visit: (1) Statistical Information, collected as you browse the site, and (2) Personal Information which you knowingly give to us.
+It also tells you how you can exercise Your Rights (including the right to object to some of the data handling we carry out). More information about your rights and how you can exercise them is set out in the “Your Rights” section below.
 
-(1) STATISTICAL INFORMATION
+WHAT PERSONAL DATA DO WE COLLECT?
 
-In general this Website automatically gathers certain usage information such as the number and frequency of visitors to our Website, very much like the television ratings that tell the networks how many people tune into the programmes. We may also invite you to interact with our Website by answering questions and selecting preferences as you move around the Website. We only use this data in an aggregated and non-personally identifiable way. The collected data helps us to determine our visitor's preferences, and to improve our Website so it is as appealing as we can make it for as many of you as possible.
+(1) SITE TRAFFIC DATA AND INFORMATION ABOUT YOUR COMPUTER
 
-Like many companies, we use "cookie" technology on our Website. These cookies are small text-only strings that store information in the memory of your browser. There are several reasons we may use cookies:
+**How do we use this data?**
 
-Persistent Cookies. (see [Cookie Policy ](https://web.archive.org/footer-pages/cookie-policy)for full details) These cookies contain only a unique number, so when you log in they can tell us whether you've visited us before or if you are a new visitor. These cookies do not obtain any personal information about you or provide us with any way to contact you, and they do not extract any information from your computer. We do use cookies to help us identify site features in which you have the greatest interest, so that we can provide more of what you may want.
+When you browse our Website, we use cookies to collect: 
 
-Session Cookies. (see [Cookie Policy ](https://web.archive.org/footer-pages/cookie-policy)for full details) These cookies are used to store information about your current visit to our site, such as if you have logged in successfully or if you have entered information into an electronic form. We use these cookies to personalise information and to help with on-line services. They can also provide us with a quick and convenient means of keeping site content fresh and relevant to your interests. Our server uses cookies to help with back-end interaction as well, which improves the utility of our site by being able to securely store any personal data that you have shared with us. These cookies are deleted the moment you close your browser window.
+  * _**Information about your use of our Website**_ – we collect standard internet log information and details of visitor behaviour patterns. 
+    * We use this information to record visitor numbers, their use of different areas of the Website and any useful features or links. We do not use this information in any way that would identify you personally.
+    * We use a third parties, Google Analytics and Nosto to collect this information but it is only processed in a way which does not identify anyone. We do not make, and do not allow Google to make, any attempt to find out the identities of those visiting our website”;
+  * _**Information about your computer;**_ this includes your IP address, device type, operating system, browser type, events, viewed products, cart content, liked products, disliked products, external campaign attributions, clicked recommendations and country code. 
+    * We use this information to help maintain the security of our Website and to identify trends so that we can improve its performance.
+    * We use information collected by Nosto to present you with tailored content, including information about products and promotions that, based on your browsing history, we think will be of interest to you.
+    * We also use this information to customise the Website according to your interests and to ensure the Website’s content is presented as effectively as possible for you and to enable you to participate in interactive features of the Website, when you choose to do so.
+    * We do not use this information in any way that would identify you personally.
 
-Most browsers automatically accept cookies, but you can usually refuse cookies, or selectively accept certain cookies, by adjusting the preferences in your browser. If you turn off cookies, there may be some features of our site that will not be available to you and some Web pages may not display properly.
 
-We do not combine information collected through cookies with any personal information you tell us about yourself.
 
-(2) PERSONAL INFORMATION
+We collect this information for the purpose of our legitimate interests in maintaining and managing our Website and ensuring its security. If you do not want us to collect this information you can use your web browser’s “do not track” (“DNT”) facility to tell us that you don’t want to be tracked when you visit our Website. Further information about DNT can be found at [https://allaboutdnt.com](https://allaboutdnt.com/).
 
-(a) HOW WE COLLECT YOUR PERSONAL INFORMATION
+For more information about how we use cookies on our Website, see our [Cookies Policy](https://www.twinings.co.uk/footer-pages/cookie-policy).
 
-The only personal information we collect from you is information you choose to provide us about yourself.
+**How long do we keep this information for?**
 
-Some services and facilities on our Website we will require you to provide us with a certain minimum amount of personal information such as your name and email address in order that we can provide those services to you or to fulfil our obligations to you ("Required Information"). Typical examples where this arises include entering one of our competitions, prize draws or promotions or registering as a user on our Website.
+We will only keep information about your visit to our Website for as long as is necessary for the purposes we’ve mentioned. Typically we delete browsing data every 14 months.
 
-We may also ask you to provide additional information about yourself to assist in us contacting you or providing our services ("Voluntary Information"). We will make it clear what information is Required Information and what is Voluntary Information.
+**Who do we share this information with?**
 
-(b) HOW WE USE YOUR PERSONAL INFORMATION
+We share information about visitors to our Website with service providers who help us administer and manage the Website. We also share information about your use of our Website with advertising networks, although you cannot be personally identified from this information.
 
-We will use your personal information for the purpose it has been collected or any other purpose specified at the point of collection. For example, we will retain and use your personal information for the purpose of administrating and notifying you of the results of any competitions or prize draws you have entered.
+**Where do we transfer this information to?**
 
-(c) DIRECT MARKETING
+Most information we collect about your use of our Website is stored within, and not transferred outside of, the European Economic Area. However data generated by Google Analytics is transmitted to and stored by Google on servers in the United States. Google is certified under the EU-US Privacy Shield. Data collected by Nosto in relation to user browsing history is transmitted to servers in the United States managed by Amazon Web services (AWS). AWS is certified under the EU-US Privacy Shield
 
-If you have agreed to receive direct marketing from Twinings we may from time to time contact you via phone, post, email or SMS text message in order to send you news and offers and to help formulate our marketing and business strategy for example, to ask your views on how we can improve our products and services, and for the purpose of analysing and researching our business, customers and products.
+If you require further information about these safeguards, please contact us at [twiningsdirect@twinings.com](mailto:twiningsdirect@twinings.com)
 
-(d) OPTING OUT AND UPDATING PERSONAL INFORMATION
+(2) INFORMATION YOU SEND US
 
-Any time after you register your personal information with us you may (i) opt out of receiving any communications you have chosen to receive from us; and (ii) update your personal information by notifying us of changes to the information previously given to us.
+**How do we use this data?**
 
-All requests or notifications should be sent to [twiningsdirect@twinings.com](mailto:Twiningsdirect@twinings.com).
+You do not have to supply us directly with any information when you use our Website. If you choose to use our ‘contact us’ feature or otherwise get in touch with us, we will use the information you send us for the purpose of responding to your enquiry. When we use your personal data for this purpose, we do so for our legitimate business interest in communicating with you in accordance with your wishes and expectations. We will also use this data for the purpose of our legitimate interests in accessing appropriate professional advice and in order to ensure we comply with legal obligations to which our business is subject.
 
-(e) SHARING YOUR PERSONAL INFORMATION
+General enquiries about our recruitment procedures are welcome but we are not able to consider CVs or job applications sent to us via this Website. If you do use this Website to send us this type of information, it will be securely deleted on receipt. For recruitment please visit [www.twiningspeople.co.uk](https://web.archive.org/web/20180904000042id_/https://www.twinings.co.uk/footer-pages/www.twiningspeople.co.uk).
 
-We will sometimes need to share your personal information with third parties who we contract to help us deliver services to you and to run and administer the Website and activities run through the Website such as competitions. The information shared with them will be limited to that necessary for them to perform the service. They will not be authorised to make any other use of that information and will treat it confidentially.
+**How long do we keep this information for?**
 
-Except as described in the previous paragraph, we do not share your personal information with any third party which is not a subsidiary or parent company of Twinings other than: (i) where it is required by law; (ii) if you specifically authorised us to do so; or (iii) in the event that substantially all of the assets of Twinings are acquired by a third party in which case personal data held by it about its customers in its databases will be one of the transferred assets.
+We will only keep your information for as long as is necessary in order to manage your query. We usually keep records of routine queries for 6 months but in some cases (for example where the query relates to a contract between us, or where we need to obtain legal advice in order to respond to a complaint) we may need to retain a record of our communications for up to 6 years.
 
-TRANSFERRING YOUR INFORMATION TO OTHER COUNTRIES
+**Who do we share this information with?**
 
-If you are resident within the European Economic Area ("EEA") your Personal Information that we collect from you may be transferred to, and administered at, a destination outside the EEA which may have different levels of data protection law to the country from where you have submitted your personal information. By submitting your personal information, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your Personal Information is treated securely and in accordance with this privacy policy.
+We will share your data with our service providers and our professional advisers if this is necessary in order to resolve a query or complaint.
 
-OVERSEAS DATA TRANSFER
+Otherwise we will not share your information with any third party unless: 
 
-If we transfer personal information to countries, or administer our services through countries whose data protection laws are not as extensive as those in the EEA, we will keep control of the information or require anyone we pass it to treat it to appropriate standards.
+  * we have your permission;
+  * we are required to do so by law;
+  * this is necessary so that we can enforce our terms of use, rights or property or the rights or property of any third party; or
+  * this is necessary in connection with the sale of our business or its assets (in which case your details will be disclosed to our advisers and any prospective purchaser’s advisers and will be passed to the new owners).
 
-We will ensure that personal information transferred outside the EEA is adequately protected.
 
-SECURITY
 
-We take appropriate technical and organisational measures to prevent accidental or unlawful destruction or unauthorised disclosure, access or alteration to your personal information under our control.
+**Where do we transfer this information to?**
 
-We will only store your data for as long as reasonably necessary in the circumstance, after which your personal information will be deleted from our systems.
+Information you send us via our Website is stored within, and not transferred outside of, the European Economic Area.
 
-However, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal information, we cannot guarantee the security of your information transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures to try to prevent unauthorised access.
+(3) INFORMATION ABOUT YOUR ON-LINE TRANSACTIONS
 
-ACCESSING YOUR PERSONAL INFORMATION
+**How do we use this data?**
 
-Subject to some exceptions, you have a right upon written request and payment of a fee of £10, to have a copy of any of your personal information we hold.
+If you use our Website to place an order with us, we will ask you to supply us with the information we need in order to process your order. We collect this information because it is necessary for the performance of our contract with you.
 
-CHANGES TO PRIVACY POLICY
+**How long do we keep this information for?**
 
-Any changes that we make to this privacy policy will be posted on this page. Please regularly check the privacy policy for changes. Any changes that we do make to this privacy policy will apply to information provided through the Website following the revised privacy policy being posted. Regardless of any changes we make to our privacy policy, we will continue to use your personal information collected before the change in accordance with the version of the policy in place at the time you provided your information, unless you give your express consent for us to do otherwise.
+We keep information regarding your on-line transactions for 6 years.
 
-CONTACT  
-If you have any questions about this privacy policy or your privacy, you can contact us at by email at [twiningsdirect@twinings.com](mailto:twiningsdirect@twinings.com) or by telephone on [01264 313444.](tel:01264 313444)
+**Who do we share this information with?**
+
+We share information about your on-line transactions with our suppliers and service providers where this is necessary to manage on-line payments, or to fulfil and deliver on-line orders.
+
+Otherwise we will not share your information with any third party unless: 
+
+  * we have your permission;
+  * we are required to do so by law;
+  * this is necessary so that we can enforce our terms of use, rights or property or the rights or property of any third party; or
+  * this is necessary in connection with the sale of our business or its assets (in which case your details will be disclosed to our advisers and any prospective purchaser’s advisers and will be passed to the new owners).
+
+
+
+**Where do we transfer this information to?**
+
+Information we hold about your on-line transactions is stored within, and not transferred outside of, the European Economic Area.
+
+(4) INFORMATION YOU GIVE US WHEN YOU SIGN UP FOR OUR NEWSLETTER, ENTER A COMPETITION, PRIZE DRAW, OR PROMOTION, COMPLETE A SURVEY, OR CREATE AN ONLINE ACCOUNT
+
+**How do we use this data?**
+
+You do not have to supply us directly with your personal data when you use our Website. However, some communications, services and facilities can only be provided if you supply us with relevant details. For example, if you sign up for our newsletter, enter a competition, prize draw or promotion, complete a survey or create an account you will be asked to provide us with your contact details. If we ask you to supply us with information that is not strictly necessary in order for us to provide you with the communication, service or facility you are interested in, we will make this clear. This might be because it’s useful to us in helping us learn more about our customers or enhance our products and services.
+
+If you do sign up for our newsletter, enter a competition, prize draw or promotion, complete a survey, or set up an online account we will use the personal data you provide : 
+
+  * to provide you with newsletters and other promotional information that you request from us;
+  * to provide you with specific information about our products and services where you request this;
+  * to manage your online account;
+  * to improve our understanding of the needs and interests of our customers and contacts; and
+  * to notify you about changes to our service.
+
+
+
+When we use your personal data for these purposes, we do so for our legitimate interests in managing and administering online accounts and for our legitimate business interests in developing and promoting our goods and services and communicating with you in accordance with your wishes and expectations. You can object to our use of your data for these purposes at any time. For further information about the way we use your data for direct marketing purposes see our direct marketing section.
+
+We will also use this data for the purpose of our legitimate interests in accessing appropriate professional advice and in order to ensure we comply with legal obligations to which our business is subject.
+
+If you provide us with your information in connection with a competition entry, prize draw or promotion, we will use this to administer our competition, to communicate competition results where relevant and to deliver prizes. When we use your personal data for these purposes, we do so because it is necessary for us to collect and use this information for the performance of our contract with you in accordance with our competition rules.
+
+**How long do we keep this information for?**
+
+Information we hold for the purpose of managing your online account or profile is held by us for as long as your account or profile continues to be active.
+
+Information we hold for market research purposes is not usually held in a form that will identify you for longer than 6 months.
+
+Information we hold in connection with the management of competitions, prize draws, and promotions is usually held for 6 years.
+
+Information we hold for direct marketing purposes so that we can send you newsletters and other promotional material is held by us for as long as you continue to be interested in receiving our marketing communications. However you can tell us to stop using your details for marketing purposes at any time by using the unsubscribe link in our emails or contacting us a [twiningsdirect@twinings.com](mailto:twiningsdirect@twinings.com)
+
+**Who do we share this information with?**
+
+We share this data where necessary with our suppliers, service providers and professional advisers.
+
+Otherwise we will not share your information with any third party unless: 
+
+  * we have your permission;
+  * we are required to do so by law;
+  * this is necessary so that we can enforce our terms of use, rights or property or the rights or property of any third party; or
+  * this is necessary in connection with the sale of our business or its assets (in which case your details will be disclosed to our advisers and any prospective purchaser’s advisers and will be passed to the new owners).
+
+
+
+**Where do we transfer this information to?**
+
+Information we collect when you sign up for our newsletter, enter a competition, prize draw or promotion, complete a survey, or set up an online account is stored within, and not transferred outside of, the European Economic Area.
+
+(5) DIRECT MARKETING
+
+**How do we use this data?**
+
+We will use contact details you give us to deliver promotional information that you request or that we feel may interest you. We will also use this information to gain insights into the needs and interests of our customer base and to evaluate the effectiveness of our marketing activities.
+
+We will only contact you for marketing purposes by email if you have consented to this.
+
+When we use your data for our direct marketing purposes we do so for our legitimate interests in promoting our business and the goods we offer.
+
+**How long do we keep this information for?**
+
+We keep information for direct marketing purposes for as long as you continue to be interested in receiving our marketing communications. We use tracking technology to help us monitor the effectiveness of our e-marketing and delete contacts from our e-marketing database after 2 years of recipient inactivity.
+
+You can tell us to stop using your details for marketing purposes by contacting us [twiningsdirect@twinings.com](mailyo:twiningsdirect@twinings.com) and can opt out of email marketing at any time by using our unsubscribe feature.
+
+**Who do we share this information with?**
+
+Where necessary we share this data with our suppliers and service providers.
+
+Otherwise we will not share your information with any third party unless: 
+
+  * we have your permission;
+  * we are required to do so by law;
+  * this is necessary so that we can enforce our terms of use, rights or property or the rights or property of any third party; or
+  * this is necessary in connection with the sale of our business or its assets (in which case your details will be disclosed to our advisers and any prospective purchaser’s advisers and will be passed to the new owners).
+
+
+
+**Where do we transfer this information to?**
+
+Information we hold for direct marketing purposes is stored within, and not transferred outside of, the European Economic Area.
+
+YOUR RIGHTS
+
+You can ask us at any time to provide you with a copy of your personal data. In relation to personal data you have supplied to us, and which is held by us for the purpose of entering into a contract between us or on the basis of your consent, you are entitled to ask us for a copy of this information in a structured, commonly used and machine readable format so that you can reuse it or share it with other organisations.
+
+If you think the personal data we hold about you is inaccurate or incomplete, you can ask us to correct it or complete it.
+
+In some circumstances you also have the right to object to our processing of your data and can ask us to restrict our use of your data and to delete it.
+
+There are some exceptions to these rights, however. For example, it will not be possible for us to delete your data if we are required by law to keep it or if we hold it in connection with a contract with you. Similarly, access to your data may be refused if making the information available would reveal personal information about another person or if we are legally prevented from disclosing such information.
+
+If you wish to exercise any of these rights you should contact us at [twiningsdirect@twinings.com](mailto:twiningsdirect@twinings.com)
+
+CONTACTING US AND YOUR RIGHTS OF COMPLAINT
+
+Questions, comments or requests concerning this privacy notice are welcomed and should be addressed to the eCommerce Manager at [twiningsdirect@twinings.com](mailto:twiningsdirect@twinings.com).
+
+If you have a concern about the way we handle your personal data you have the right to complain to the Information Commissioner (ICO). You can find details of how to do this on the ICO website at [ttps://ico.org.uk/concerns/](https://ico.org.uk/concerns/) or by calling their helpline on [0303 123 1113](tel:03031231113).
+
+This privacy notice was last updated on 21st May 2018. 
