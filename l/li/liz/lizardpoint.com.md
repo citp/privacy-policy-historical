@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lizardpoint.com privacy policy that was archived on 2017-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170207105617id_/http%3A//lizardpoint.com/shared/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lizardpoint.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903185632id_/https%3A//lizardpoint.com/shared/privacypolicy.php) for the most accurate reproduction.*
 
 # Lizard Point Quizzes - Privacy Policy
 
@@ -8,6 +8,8 @@ Lizard Point Quizzes takes online privacy seriously. Please read the following t
 Pages on this website use Google Analytics to track demographic information (such as the visitor's country), technology information (such as browser and operating system), and pages visited. This information is only shown to Lizard Point Quizzes in aggregate form. Lizard Point does not see an individual's information or activity while visiting this site. 
 
 If you register for an account on Lizard Point, you will be asked for a user name and email address. This information is used to maintain your access to your account, to facilitate signing in and retrieving a lost password/resetting a password. The email address, with your permission, will be used to notify you of new quizzes and site features. Your email address will not be shared with third parties. If you sign in to your account, the quizzes you complete are recorded in order that we can provide you with the Personalized Quiz Tracker service. Your IP address is recorded with each sign in, and with each quiz that is completed, and is only used by us to maintain site integrity and security.
+
+**Special note.** We also provide users the ability to sign in to their preexisting Lizard Point account with their Google credentials. In this case, we will access your Google account email address and use it to verify your account. This saves having to remember and type your Lizard Point password. Be aware, however, that you still need to sign out from Lizard Point - simply signing out of Google will not end your session.
 
 If you create custom quizzes on Lizard Point, your user name will be displayed on a publicly accessible page as the creator of that quiz. There may be other functions in the future in which your user name could be displayed, such as competition rankings. If you have privacy concerns, we recommend that you **do not use your real name or identifying information as your user name**. 
 
