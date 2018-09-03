@@ -1,63 +1,145 @@
-> *The following text is extracted and transformed from the traveltex.com privacy policy that was archived on 2018-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180304024625id_/https%3A//www.traveltexas.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveltex.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903220308id_/https%3A//www.traveltexas.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use
 
-**January 2013 State of Texas TravelTex Desktop and Mobile Web Sites**
+##### **Updated May 2018**
 
-The following is the privacy policy for this site (all pages starting with www.TravelTex.com):
+This Privacy Policy describes the privacy practices of Travel Texas (“we,” “us” and/or “our”) in connection with our website, www.traveltexas.com (the “Site”). This Privacy Policy explains the types of personal information we collect, how we may use and share the information, and the privacy choices that you have with respect to our handling of personal information about you.
 
-  1. Cookies are used to allow the site to welcome you back to the site should you visit the site again and to set your chosen site parameters as they were on your last visit. Cookies are also used to track the number of visitors to the site. We do not use cookies to collect any information other than just described. Note: A cookie file contains unique information a web site can use to track such things as passwords, lists of pages you’ve visited, and the date when you last looked at a specific page or to identify your session at a particular web site. We do not use cookies for any of these purposes. 
-  2. If you send us an electronic mail message with a question or comment that contains personally identifying information, or fill out a form that e-mails us this information, or make a comment while on the website, we will only use the personally-identifiable information to respond to your request and analyze trends. We may redirect your message to another government agency or person who is in a better position to answer your question. We will collect the browser, type, version, platform and user agent information. 
-  3. If you enter contact information in the course of ordering items from the site, this information will only be sent to those parties requiring it for delivery, unless you choose to receive additional Texas travel information. If you choose to receive additional information, your address may occasionally be made available to other Texas travel industry organizations. 
-  4. If you have supplied your e-mail address and chosen to receive additional Texas travel information, you may occasionally receive a message regarding something you have expressed an interest in, such as an attraction or event. E-mail addresses are not shared with 3rd parties. You may unsubscribe at any time by following the [unsubscribe](http://traveltex.us4.list-manage1.com/unsubscribe?u=e573ec85eee8fb1a7e9b35f86&id=592bc032c8) link at the bottom of any email sent to you. 
-  5. For site management functions, information is collected for analysis and statistical purposes. This information is not reported or used in any manner that would reveal personally identifiable information, and will not be released to any outside parties unless legally required to do so in connection with law enforcement investigations or other legal proceedings. 
-  6. If you create a user account, information is collected for your personal profile, analysis and statistical purposes. This information is not reported or used in any manner that would reveal personally identifiable information, and will not be released to any outside parties unless legally required to do so in connection with law enforcement investigations or other legal proceedings. Your profile information and trip information will only be visible within your account, unless you choose to share the trip on your personal social media channels. All personal address information will be redacted from any shared user generated content. 
-  7. This site provides integrations with third-party websites, such as those of Facebook, Pinterest and Twitter. While on these sites, we may collect information about you. Because these platforms are outside of our control, you should review their privacy policies to learn more about how they collect and use personally identifiable information. 
-  8. By using [#TexasToDo](https://web.archive.org/texastodo), or uploading your photo or video directly, you agree to allow the Texas Economic Development and Tourism Office, the State of Texas, and their affiliates to use your photo or video (“Photos”) in the same manner as described by the Instagram, Twitter, Facebook, Flickr and Vine Terms of Use, and understand that that your Photos may be used on [TravelTexas.com/texastodo.](https://web.archive.org/texastodo) By responding with #YesTexasToDo when prompted, you give the State of Texas and its affiliates the following: 
+Click on the links below to jump to the different sections of our Privacy Policy:
 
-    1. You grant the Texas Economic Development and Tourism Office, the State of Texas and its affiliates a royalty free, non-exclusive, perpetual, and worldwide license to reproduce, edit, alter, display, perform, distribute, and otherwise use your Photos, including your Instagram/Twitter handle, in connection with the Site and for other State of Texas marketing or advertising purposes, including without limitation in print, digital, email, social and other brand communications, and other marketing, in its sole discretion. You retain the right to use the Photos for your own purposes or let others use your Photos for their purposes. 
-    2. You release and discharge Texas from all and any obligation to pay you for any use of your Photos and any of the intellectual property rights contained therein in connection with the uses described above. 
-    3. You confirm that you own all rights to your Photos or, alternatively, that you have the authority to give the Texas Economic Development and Tourism Office, the State of Texas and its affiliates the rights described above, at no cost, without infringing the intellectual property rights, privacy rights, publicity rights, or other legal rights of any third party. 
-    4. You waive any right to inspect or further approve the use of your photo by the State of Texas in conjunction with the eventual use that it might be applied. 
-    5. You release, discharge and agree to hold the State of Texas, the Texas Economic Development and Tourism Office, and any person acting on the State of Texas’ behalf harmless from all claims, demands, and liabilities whatsoever in connection with use of the Photos as described above. 
-    6. This agreement and all disputes arising out of or relating to these usage rights shall be governed by the laws of the State of Texas, without regard to any otherwise applicable conflict of law rules or requirements. 
+**
 
-We may refuse to accept, post or transmit the Photos for any reason and we reserve the right to remove the Photos from the Site for any reason and at any time, at our discretion. 
-  9. This site provides links to third-party websites that are outside of our control. You should review their privacy policies to learn more about how they collect and use personally identifiable information.
-  10. This site may contain links to third party sites not controlled by TravelTex.com, which therefore are not covered by this privacy statement, such as those belonging to Texas Partners and Sponsors. We accept no responsibility or liability for any of the material contained on those servers or the accuracy or legality of information contained on other websites. We recommend that you check the privacy statement of other sites you visit before providing any personal information. 
+  * How We Collect Information
+  * Types of Information We Collect
+  * How We Use Your Information
+  * How We Share Your Information
+  * Minors
+  * Your Rights and Choices
+  * Marketing
+  * Cookies and Advertising
+  * Links to Other Websites and Third Party Content
+  * International Data Transfers
+  * How We Protect Information
+  * Data Retention
+  * Content Submitted by You
+  * Changes to Our Privacy Policy
+  * State Privacy Rights
+  * Contact Us
+
+**
+
+##### **How We Collect Information**
+
+We may collect personal information from various sources, including:
+
+  * Directly from you, at your direction or with your consent
+  * From our partners
+  * Automatically, from devices that you use to connect to our Site
 
 
 
-We use log analysis tools to create summary statistics, which are used for purposes such as assessing what information is of most interest, determining technical design specifications, and identifying system performance or problem areas. The following information is collected for this analysis: 
+##### **Type of Information We Collect**
 
-**User Client hostname** \- The hostname (or IP address if DNS is disabled) of the user/client requesting access.
+The types of personal information we collect may include:
 
-**HTTP header, "user-agent"** \- The user-agent information includes the type of browser, its version, and the operating system it's running on.
+  * Contact information, such as name, email address, postal address, and phone number
+  * Demographic information, such as date of birth, gender, and zip code
+  * Photographs, comments, or other content you submit to our Site or to us when you contact us
 
-**HTTP header, "referrer"** \- The referrer specifies the page from which the client accessed the current page.
 
-**System date** \- The date and time of the user/client request.
 
-**Full request** \- The exact request the user/client made.
+##### **How We Use Your Information**
 
-**Status** \- The status code the server returned to the user/client.
+We may use the information we collect to:
 
-**Content length** \- The content length, in bytes, of the document sent to the user/client.
+  * Respond to requests, questions and comments
+  * Tailor the content we display to Site users in our communications, and in connection with the use of our Site
+  * Provide you with newsletters, articles, and other information about events, things to do, and places to stay
+  * Analyze and enhance our communications and strategies (including by identifying when emails have been received and read)
 
-**Method** \- The request method used.
 
-**Universal Resource Identifier (URI)** \- The location of a resource on the server.
 
-**Query string of the URI** \- Anything after the question mark in a URI.
+We may also aggregate any personal information that we collect in connection with our Site, such that the information is no longer personally identifiable or attributable to you. We may use such aggregated information for our own legitimate business purposes, including to research products and services that may be of interest to you.
 
-**Protocol** \- The transport protocol and version used.
+##### **How We Share Your Information**
 
-The site also determines the browser type and video resolution that you are using so as to best deliver the sites content for viewing and operation.
+We may share the information we collect with:
 
-**Accessibility Policy**
+  * Partners, including the Texas Department of Transportation for fulfillment of the Texas Travel Guide
+  * At your direction with industry groups
+  * Others within our enterprise
+  * Service providers that perform services on our behalf or partners with whom we may collaborate, including: 
+    * Survey and market research providers
+    * Technology providers (including technology support, email and web hosting providers, email and text communications providers, and mobile app developers)
 
-The TravelTex.com web site exists in a form that is accessible to a broad range of access devices.
 
-The TravelTex.com web site has been engineered using the recommendations of the World Wide Web Consortium (W3C) including XHTML Transitional 1.0, CSS 2.0, and the Web Content Accessibility Guidelines 1.0 as they pertain to the Priority 1 guidelines. This web site meets the definition of generally accessible Internet site as defined in Texas Administrative Code Section 206 - State Web Sites. 
 
-The Office of the Governor, Economic Development & Tourism is open to suggestions on how the accessibility of this web site can be improved. Please contact the Web Administrator to offer suggestions or comments.
+We may also disclose personal information to comply with a legal or regulatory obligation, protect and defend our rights or property, protect the safety of Site users or the public, or to protect against legal liability.
+
+##### **Minors**
+
+We do not knowingly collect personal information from children under age 13. If we learn that we have collected personal information from a child under the age of 13, we will delete that information.
+
+##### **Your Rights And Choices**
+
+You have certain rights in relation to your personal information, including the right to request access to your personal information, correct any mistakes on our records, erase or restrict records where they are no longer required, object to use of personal information based on legitimate business interests, and ask not to be subject to automated decision making if the decision produces legal or other significant effects on you.
+
+We will respond to your request in writing, or orally if requested, as soon as practicable. We may request proof of identification to verify your request. For more details in relation to your rights, including how to exercise them, please contact us at [privacy.traveltexas@gov.texas.gov](mailto:privacy.traveltexas@gov.texas.gov).
+
+##### **Marketing**
+
+You may unsubscribe from receiving marketing or other commercial emails from us by following the instructions included in the email. However, even if you opt out of receiving such communications, we retain the right to send you non-marketing communications (such as information about changes to our Privacy Policy or Terms of Use).
+
+##### **Cookies and Advertising**
+
+We, our service providers, and our business partners may also collect certain information about the use of our Site by automated means, such as cookies, web beacons and other technologies.
+
+We and our service providers and business partners may collect information about Site users’ online activities over time and across third-party websites. Because there is not yet a consensus on how entities should respond to web browser-based do-not-track (“DNT”) mechanisms, we do not respond to web browser-based DNT signals at this time.
+
+The information that may be collected by automated means includes:
+
+  * URLs that refer users to our Site
+  * Search terms used to reach our Site
+  * Details about the devices that are used to access our Site (such as IP address, browser type, and operating system information)
+  * Details about users’ interaction with our Site (such as the date, time, frequency, and length of visits, and specific pages accessed during the visits)
+
+
+
+Web browsers may offer users of our Site the ability to disable receiving certain types of cookies; however, if cookies are disabled, some features or functionality of our Site may not function correctly. To support and enhance the services, we may serve advertisements, and also allow third parties to serve advertisements, through the services. These advertisements are sometimes targeted and served to particular users and may come from third party companies called “ad networks.” Ad networks include third party ad servers, ad agencies, ad technology vendors and research firms. We are not responsible for the privacy practices of these ad networks and other parties. Advertisements served through the services may be targeted to users who fit a certain general profile category, which may be inferred from information you provide to us, based on your services usage patterns, or based on your activity on Third Party Services (as defined in this Privacy Policy). We do not provide personal information to any ad networks for use other than in connection with the services. To learn more about ad networks and to adjust your preferences, please click [here](https://www.networkadvertising.org/understanding-online-advertising).
+
+Some of our business partners that collect information about your activities on our Site may be members of organizations or programs that provide you with choices regarding the use of your browsing behavior for purposes of targeted advertising. For example, you may opt out of receiving targeted advertising on websites through members of the Network Advertising Initiative by clicking [here](http://optout.networkadvertising.org/?c=1#!/) or the Digital Advertising Alliance by clicking [here](http://optout.aboutads.info/?c=2#!/). European users may opt out of receiving targeted advertising on websites through members of the European Interactive Digital Advertising Alliance by clicking [here](https://www.youronlinechoices.eu/), selecting your country, and then clicking “Choices” (or similarly-titled link). Mobile app users may opt out of receiving targeted advertising in mobile apps through members of the Digital Advertising Alliance by installing the AppChoices mobile app, available [here](https://youradchoices.com/appchoices), and selecting your choices. Please note that we may also work with other entities that may offer their own opt-out mechanisms and may not participate in the opt-out mechanisms that we linked above.
+
+##### **Links to Other Websites and Third Party Content**
+
+We may provide links to other websites, services, social media content, and applications that are not operated or controlled by us (the “Third Party Services”). This Privacy Policy does not apply to the Third Party Services. While we attempt to facilitate access only to those Third Party Services that share our respect for your privacy, we cannot take responsibility for the content, privacy policies, or practices of those Third Party Services. We make no representations or warranty of any kind as to the accuracy or any other aspect of the information made available to you through Third Party Services, and we do not endorse or assume responsibility for the content, products, services, privacy practices, or viewpoints of any Third Party Services. We encourage you to review and understand the privacy practices of any Third Party Services before providing any information to or through them. Your interactions with these features are governed by the privacy policy of the Third Party Service that provides the feature.
+
+##### **International Data Transfers**
+
+We may transfer your personal information to countries other than the country in which you initially provided the information for the purposes described in this Privacy Policy. For example, if you are located outside of the United States, we typically transfer any information collected through the Site to the United States and process all personal information in the State of Texas, where we are located. The countries to which we transfer personal information may not guarantee the same level of protection for personal information as the one in which you reside.
+
+##### **How We Protect Information**
+
+We maintain administrative, technical and physical safeguards designed to protect personal information we maintain against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.
+
+Despite such efforts, however, please note that no organization can fully eliminate risks or guarantee the security of personal information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of information about you at any time, and we bear no liability for uses or disclosures of personal information or other data arising in connection with theft of the information or other malicious actions.
+
+##### **Data Retention**
+
+Our retention periods for personal information are based on our needs and legal requirements. We retain personal information for as long as is necessary for the processing purpose(s) for which the data was collected, and any other permissible, related purpose. When we no longer need the personal information we collect, we either anonymize the information (in which case, we may further retain and use the anonymized information) or securely destroy the information, unless required by applicable law to retain the information for a specific retention period.
+
+##### **Content Submitted by You**
+
+Some features of the Site allow you to post content on our Site or social media pages, such as photos. Content that you provide may be shared publicly or with other users or third parties. To learn more about our UGC Terms & Conditions, please click [here](https://web.archive.org/ugcterms).
+
+##### **Changes to Our Privacy Policy**
+
+We may at any time in our sole discretion revise or update this Privacy Policy. We will post any changes on this page and indicate at the top of this page the date this Privacy Policy was last revised. You may read a current, effective copy of this Privacy Policy at any time by visiting this page. We will also notify you of any material changes either through a pop-up notice, email or through other reasonable means.
+
+##### **State Privacy Rights**
+
+To the extent information collected about you is collected or maintained by a governmental body of the State of Texas, that information may be subject to public disclosure under the Texas Public Information Act (Texas Government Code, Chapter 552). Non-governmental email addresses are not subject to disclosure unless you affirmatively consent to the disclosure of your e-mail address.
+
+Under Texas Government Code, Chapter 559, you are entitled, upon request, to: (i) know if information has been collected about that you by a state governmental body of the State of Texas; (ii) the receipt and review of the information any collected under sections 552.021 and 552.023 of the Texas Government Code; and (iii) the correction of inaccurate information under section 559.004 of the Texas Government Code, subject to any applicable exceptions. If you would like to request information about you that may be subject to this law, please submit a written request to us at: [privacy.traveltexas@gov.texas.gov](mailto:privacy.traveltexas@gov.texas.gov).
+
+California Residents: Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer data which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like information identifying the categories of personal information which we share with our affiliates and/or third parties for marketing purposes, and the contact information for such affiliates and/or third parties, please submit a written request to the following address: [privacy.traveltexas@gov.texas.gov](mailto:privacy.traveltexas@gov.texas.gov).
