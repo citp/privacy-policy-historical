@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the famethemes.com privacy policy that was archived on 2017-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170731183659id_/https%3A//www.famethemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famethemes.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903170911id_/https%3A//www.famethemes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - FameThemes
+# Privacy Policy – FameThemes
 
 Your privacy is critically important to us.
 
@@ -23,7 +23,13 @@ FameThemes discloses potentially personally-identifying and personally-identifyi
 
 ### Cookies
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. FameThemes uses cookies to help FameThemes identify and track visitors, their usage of FameThemes website, and their website access preferences. FameThemes visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using FameThemes’s websites, with the drawback that certain features of FameThemes’s websites may not function properly without the aid of cookies.
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
 ### Business Transfers
 
