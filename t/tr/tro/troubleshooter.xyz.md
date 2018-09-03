@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the troubleshooter.xyz privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615065645id_/http%3A//troubleshooter.xyz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the troubleshooter.xyz privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903141047id_/http%3A//troubleshooter.xyz/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Troubleshooter
 
@@ -79,7 +79,7 @@ Gautam Budh Nagar
 India  
 Uttar Pradesh  
 201008  
-[[email protected]](http://troubleshooter.xyz/cdn-cgi/l/email-protection#0b6a6f627f726a6d6a79796a6f4b6c666a626725686466)
+[[email protected]](http://troubleshooter.xyz/cdn-cgi/l/email-protection#ceafaaa7bab7afa8afbcbcafaa8ea9a3afa7a2e0ada1a3)
     
     
     **Last updated: 17th Nov 2016**
