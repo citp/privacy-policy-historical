@@ -1,28 +1,175 @@
-> *The following text is extracted and transformed from the datingbuddies.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613194255id_/http%3A//www.datingbuddies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingbuddies.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904001545id_/https%3A//www.datingbuddies.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - www.datingbuddies.com
+# Dating Buddies will help you find your perfect match!
 
-## This Privacy Policy is effective for www.datingbuddies.com members  
-Last edition — 10 February 2016
+## Privacy Policy effective for www.datingbuddies.com members
 
-The www.datingbuddies.com web-site and the service is a member of Dating Factory network, which is operated by Tyche Technologies AG (Baarerstrasse 21, CH-6300, Zug, Switzerland), a company registered under the laws of Switzerland, Reg. No. CHE-420.114.703.
+## Who We Are?
 
-www.datingbuddies.com is committed to providing you with the professional and high quality introductions and dating service and is therefore committed to protecting your privacy. We follow all the procedures that are set out in this document, and it needs to be read and understood together with the [Terms of use](https://web.archive.org/terms/) of the www.datingbuddies.com web-site. www.datingbuddies.com Privacy policy is intended to ensure that you can use the site and contact other members without having to worry about confidentiality issues.
+The www.datingbuddies.com web-site (hereinafter “Website”) and the service it provides to yourself as a member of the Dating Factory network, which is operated by Tyche Technologies AG (Hofstrasse 1A, CH-6300, Zug, Switzerland), a company registered under the laws of Switzerland, Reg. No. CHE-420.114.703.
 
-www.datingbuddies.com may change some clauses of this Policy from time to time, and members are advised to review this Policy regularly to make sure they read and understand the most current version of it.
+## Table of Contents
 
-  1. All the information you fill about you on your profile will be displayed on your profile page. We are required to remove any bad language or words and phrases that don’t contain any information or make sense in the interests of other members and with a view of providing a quality dating service to every member of the www.datingbuddies.com web-site. We will only post pictures and images which meet the editorial guidelines set out in Terms of use.
-  2. We will NOT display any of your personal information such as your real name, e-mail address, full post code, mobile or landline phone number or IP-address, and they will be kept strictly private and confidential. In any case when we ask for such information we make it clear that it is not for display without your express consent.
-  3. We will not share your personal information with any third party for marketing purposes without your permission.
-  4. We are required to give information to legal authorities if they have the proper authorization such as a search warrant or court order. Other than a valid request from a legal authority your information is secure on the www.datingbuddies.com website. We do our best to ensure that all information held relating to you is kept up-to-date, accurate and complete, but we also rely on you to notify us if your information requires updating or deleting.
-  5. Your individual use of www.datingbuddies.com website and your interaction with other members through this site will be kept strictly private.
-  6. We may from time to time send you emails containing system and site activity, notifications or promotions that we feel may be of interest to you. You may unsubscribe from www.datingbuddies.com emails at any time by changing your profile settings or by following the unsubscribe link at the bottom of every www.datingbuddies.com email.
-  7. In the course of serving ads to this site and you using some part of the web-site, us or our third-party advertiser may place or recognize a unique cookie on your browser. Cookies are a normal part of internet operations and are also used by www.datingbuddies.com to safely identify you each time you logon and use the site and to keep your session active when you don’t use the website for some time. Any information that us or third parties collect via cookies and marketing campaigns tracking software is totally anonymous.
-  8. If you want to unsubscribe from receiving email notifications to your external mailbox, please use the link at the bottom of each email or go to [Profile >> Account details](https://web.archive.org/myprofile/update/) page and manage your e-mail settings.  
-Our members have the following choices to modify or delete their information from our database: 
-    * Send an email to [Customer support](https://web.archive.org/contacts/)
-    * Log in with your password and change/delete your profile
+  1. Summary of Privacy Policy
+  2. A special note about underage individuals
+  3. How We Collect Your Information
+  4. Legal Basis for Processing Personal Information
+  5. Information we collect
+  6. Our use of information we collect
+  7. Sharing and Disclosure of Personal information
+  8. Reviewing and Changing Your Information
+  9. Retention of Personal Information
+  10. Objection and Restriction of Personal Information
+  11. Links to third-party-websites
+  12. International Transfer of Personal Data
+  13. Policy changes and updates
+  14. Last revision and effective date
+  15. Security
+  16. Complaints and Concerns
 
 
 
-If you have questions or concerns, please use [Customer support](https://web.archive.org/contacts/) form on www.datingbuddies.com web-site and our team will deal with your enquiry quickly, professionally and efficiently because we take privacy of our members seriously and are ready to address all the concerns they may have.
+## 1\. Summary of Privacy Policy
+
+This Privacy Policy covers our treatment of information gathered when you are using or accessing the Services. This Privacy Policy also covers our treatment of any information about you that our partners share with us or that we share with our partners.
+
+The Website is committed to providing you with professional and high quality introductions and dating services and is therefore committed to protecting your privacy. We follow all the procedures that are set out in this document, and it needs to be read and understood together with the [Terms of use](https://web.archive.org/terms/) of the Website. The Website’s Privacy Policy applies to customer information we collect through our Website and is intended to ensure that you can use the site and contact other members without having to worry about confidentiality issues. 
+
+Your privacy is important to us and we want you to clearly understand how information provided by you, or collected during your use of the Website, is utilized to make your visit more enjoyable and to bring to you information and opportunities that may be of interest.
+
+By using the Website and/or our services, you signify your acceptance of our Privacy Policy and of our [Terms of use](https://web.archive.org/terms/). If you do not accept this Privacy Policy or do not accept our Terms of use, then we kindly ask you to leave the Website. 
+
+All references in this Policy to www.datingbuddies.com , “we”, “us”,“our” and like terms should be interpreted accordingly. 
+
+Similarily, an reference to “you”, “your”, “yours” or “yourself” in this Privacy Policy is a reference to yourself as a a User of this Website unless otherwise stated.
+
+## 2\. A special note about underage individuals
+
+As stated in the Terms of use, we ask that persons under the age of 18 do not submit information to us. The Website does not knowingly collect information from children under 18 years of age. It shall be the responsibility of any parent or guardian to ascertain that children under their guardianship do not misuse any computer or electronic device in order to try to gain access or in any way make use of our website or service. Furthermore we expect and require that each user or member of our website and service undertakes that he shall protect the log-in information from any children or minors.
+
+## 3\. How We Collect Your Information
+
+Your personal information may be collected or accessed in a number of ways including: 
+
+  * Directly from yourself (whether directly or verbally) when you set up a relationship with us, or you create an account and through any direct or indirect use of our Services; 
+  * Generated by us in correspondence etc;
+  * Received by third parties in relation to the services provided by ourselves following your permission, which may be obtained directly from you or indirecly through your actions. In such instances, we will make sure that such third parties are entitled to disclose such information to us.
+
+
+
+We may also obtain personal information about you through the use of our website (www.datingbuddies.com) or through the use of cookies on our website. 
+
+## 4\. Legal Basis for Processing Personal Information
+
+We have the following lawful basis to process your personal information:
+
+Provide You with Our Services:  the legal basis for processing your personal information is the execution of the service requested from us or the execution of any agreement which you have with us. Your personal information may be used to maintain your account and profile so you will be able to connect with other users on our platform. 
+
+Consent:  In certain instances, we may ask for your consent or specific matters. When your consent is required for the collection, processing and disclosure of personal information, we will ensure that such consent is freely given. We may also ask you for your consent for us to periodically send you marketing material which we think may be suitable for you. Such marketing communications will only be sent to you if you have consented thereto through an ‘Opt-in’. You are hereby informed that, subject to legal or contractual restrictions, you may withdraw your consent to the processing of your personal information. Any communications with respect to such withdrawal or variation of consent shall be in writing and addressed at [privacy@datingfactory.com](mailto:privacy@datingfactory.com). 
+
+Legitimate Interests:  We may process your personal information on the basis of our legitimate interests including, to provide you with our service, analyzing users’ behaviour to improve our services and improve our content and for administration purposes 
+
+## 5\. Information we collect
+
+The different types of information we collect can include:
+
+5.1. Information provided by you in our online ANONYMOUS registration form such as your gender, age, type of relationship you are looking for, email, date of birth, billing information and credit card information. However, NONE of your personally identifiable information can be accessed or used by the public to identify a specific individual. 
+
+5.2. Information voluntarily supplied by you through the creation and completion of your profile, posting on or engaging in media such as messaging or chat on the Website. This may include but not limited to account credentials, dating matches age preferences, star sign, geographical location, photographs, videos, personal interests, physical characteristics and similar. 
+
+5.3. Information automatically collected when you visit or use our website, such as your IP address, email address, browser type and via cookies, analytic tools and third-party services. 
+
+5.4. Information obtained by others through our Website. We collect information which would have been provided to us by third party organisations. Such personal information may include contact details, demographic information and internet navigation details. 
+
+5.5. Information provided by Financial institutions or payment processors which may provide us with updates regarding your payment information or payment methods related to your paid account or paid subscription and services. 
+
+## 6\. Our use of information we collect
+
+We use your information to enhance our provision of services to you. Besides that, we also use your information to protect you, other users and the integrity of our website against fraud or as may be required by law.
+
+All the information you fill in about yourself on your profile will be displayed on your profile page. We may remove any inappropriate image, language or words and phrases that don’t contain any information or make sense in the interests of other members and with a view of providing a quality dating service to every member of the Website.
+
+We may internally use personally identifiable information of our users to improve our marketing efforts, to statistically analyze site usage, to improve our content and product offerings as well as to customize our site's content and layout. We believe these uses allow us to improve our site and better tailor your online experience to meet your needs.
+
+We may also use personally identifiable information about you to deliver information to you that, in some cases, is targeted to your interests, such as targeted banners and promotions.
+
+We also use your information for administration purposes and to communicate with you in ways you want to hear from us.
+
+We may contact you regularly by e-mail for customer service purposes as well as to make you aware of specials, new services and opportunities for our customers. We will not contact you via phone or text message without your express consent (opt-in). We use an opt-out standard for all communications other than administrative communication concerning your account.
+
+## 7\. Sharing and Disclosure of Personal information
+
+Your personal information voluntarily provided by yourself is disclosed with other users through your public profile. Kindly note that once you share information publicly on the internet, we will have no control over as to how your information maybe used by others.However, we will NOT display any of your personal information such as your real name, e-mail address, full post code, mobile or landline phone number or IP-address, and they will be kept strictly private and confidential. In any case when we ask for such information we make it clear that it is not for display without your express consent.
+
+We may further disclose your personal information with our employees, partners and any other third parties which may require such information in order to be able to assist us in handling the relationship which we have with you. When we share your personal information with such third parties, we make sure that such parties make use of this data in a manner which ensures safety and security to your personal data. 
+
+This website is operated by Tyche Technologies AG which is part of a group of related companies, that are linked together and operate different parts of the business. We act as a group and henceforth we share information and data with other group companies as may be necessary. We confirm that all group companies adhere to the data protection obligations listed herein and subject to the extent and limitations imposed by any national laws of any particular company. By accepting our T&Cs, you confirm that you are bound by this Privacy Policy and also accept that we may share information with other group companies, and that any processing may be done by any one of the group companies. 
+
+We DO NOT sell or rent any personally identifiable information about you to any third party without your specific permission. We do disclose information in aggregate to advertisers and for other marketing and promotional purposes. In these situations, we DO NOT disclose to these entities any information that could be used to personally identify you. 
+
+In order to maintain a healthy community, we cooperate with all law enforcement inquiries and with all third parties to enforce their intellectual property or other rights.
+
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Website. We use a credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes.
+
+We will NOT share your personal information with any third party for marketing purposes without your consent. 
+
+We are required to give information to legal authorities if they have the proper authorization such as a search warrant or court order. Other than a valid request from a legal authority your information is secure on the Website. We do our best to ensure that all information held relating to you is kept up-to-date, accurate and complete, but we also rely on you to notify us if your information requires updating or deleting.
+
+Your individual use of the Website and your interaction with other members through this site will be kept strictly private.
+
+Subject to your explicit consent, we may from time to time send you emails containing information about the system and site activity, notifications, promotions, as well as promotions by third-parties that we feel may be of interest to you. You may unsubscribe from the Website’s emails or emails sent by third-parties at any time by changing your profile settings or by following the unsubscribe link included in every email sent by the Website or by a third-party.
+
+In the course of serving ads to this site and you using some part of the web-site, us or our third-party advertiser may place or recognize a unique cookie on your browser. Cookies are a normal part of internet operations and are also used by the Website to safely identify you each time you logon and use the Website, and to keep your session active when you don’t use the website for a period of time. Any information that us or third parties collect via cookies and marketing campaigns tracking software is totally anonymous. For further information about cookies, kindly go through our Cookies Policy.
+
+## 8\. Reviewing and Changing Your Information
+
+We will employ reasonable means to keep your personal information accurate, complete and up to date for its intended use, however you must immediately inform us, if and when, your personal information changes. 
+
+In so far as your personal information in concerned, you shall have the right to receive confirmation that your personal information is being processed and may request access to the said personal information. You may further request a copy of such information obtained by ourselves \- such request may be made verbally or by electronic means. We will provide a copy of such in a structured, commonly used and machine-readable format.
+
+You have the following choices to modify or delete your information from our database: 
+
+  * Send an email to [Customer Support](https://web.archive.org/contacts/)
+  * Log in with your password and change/delete your profile
+
+
+
+If your profile is set for deletion from our database, after making it inactive, please note that we will keep the data associated with it for another three months (approximately ninety calendar days), in case the information is required in connection with the original purpose for which it was collected or otherwise permitted or required by law. In any case your profile will be rendered inactive and it will NOT be shown on the Website.
+
+## 9\. Retention of Personal Information
+
+We retain your personal information for as long as it is necessary to provide you with our services as outlined in this Policy, or until your account is deleted, unless a longer retention period is required or otherwise permitted by law. You have the right to obtain from us the erasure of your personal information however this is subject to our legal obligations which may require us to hold your personal information for a specified period of time. 
+
+## 10\. Objection and Restriction of Personal Information
+
+You have the right to object, on grounds relating to your particular situation to processing of your personal data. We shall no longer process your personal data unless we have a compelling legitimate ground for the processing. You have the right to object at any time to the processing of personal data concerning you for direct marketing purposes. You may unsubscribe from receiving email notifications to your external mailbox, please use the link at the bottom of each email or go to your [Profile >> Account details](https://web.archive.org/myprofile/update/) page manage your e-mail settings.
+
+We further recognise your right to restrict processing of personal data, in which case we will only keep them for the exercise or defense of complaints. 
+
+## 11\. Links to third-party websites
+
+Kindly note that when you access other third party websites from hyperlinks on our website, we will have no control over the content of those websites. These websites have their own privacy policies to which accept no responsibility or liability for. 
+
+## 12\. International Transfer of Personal Data
+
+Where we allow contractors or third parties to process your personal information outside the European Economic Area, we will make sure that there are the proper safeguards in place so as to safeguard your personal information. We use standard contract clauses approved by the European Commission or other suitable safeguard to permit data transfers from the EEA to other countries
+
+## 13\. Policy changes and updates
+
+The Website reserves the right to update this Policy whenever it finds this necessary. Should any changes to the Policy occur, this will be marked via update of the date of last revision of the Policy present at the end of this document.
+
+## 14\. Last revision and effective date
+
+This Policy was last revised on May 20, 2018. For users who registered for the Services prior to May 20, 2018, this Policy will be effective on May 24, 2018.
+
+This Privacy Policy has been translated for your convenience. If there is any discrepancy between this version and the original English version, the English version shall apply.
+
+If you have questions or concerns, please use [Customer Support](https://web.archive.org/contacts/) form on the Website and our team will deal with your enquiry quickly, professionally and efficiently because we take privacy of our members seriously and are ready to address all the concerns they may have.
+
+## 15\. Security
+
+Safeguarding the privacy of your personal data is of utmost importance to us and henceforth, all necessary technical and organisational measures will be taken in securing that your personal data is stored safely and all precautions will be carried out to ensure that no authorised or unlawful processing of personal data takes place. Kindly note that although we take all such necessary steps to secure your information, we do not promise, and you should not expect, that your personal information will always remain secure.
+
+## 16\. Complaints and Concerns
+
+If you have any concerns with regards to our privacy methods and processes, you have the right to contact us by telephone, in writing or by e-mail to make a complaint at [privacy@datingfactory.com](mailto:privacy@datingfactory.com). Your concerns will be dealt within the shortest time possible. In case you are not satisfied with our response, you may contact the Federal Data Protection and Information Commissioner in Switzerland. 
