@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crackawines.com.au privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315105857id_/https%3A//www.crackawines.com.au/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crackawines.com.au privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903212249id_/https%3A//www.crackawines.com.au/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cracka Wines
 
@@ -108,7 +108,7 @@ Postal Address: PO Box 441, Strawberry Hills, NSW 2012
 
 Phone: 1300 CRACKA (1300 272 252)
 
-Email: [help@crackawines.com.au](mailto:help@crackawines.com.au)
+Email: [help.cracka@onlineliquorgroup.com.au](mailto:help.cracka@onlineliquorgroup.com.au)
 
 **Policy changes**
 
