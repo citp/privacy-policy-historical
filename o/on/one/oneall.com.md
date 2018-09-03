@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the oneall.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623035945id_/http%3A//www.oneall.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneall.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903143812id_/http%3A//www.oneall.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | www.oneall.com
 
 Last Modified: February 15, 2012
-
-#### **We value your privacy**
 
 We take your privacy very seriously and we will not share any information you give us with anyone else unless required by law. We will never sell, rent or otherwise distribute the information that you or your users share with us. We value your privacy and we want you to feel comfortable using our services. 
 
