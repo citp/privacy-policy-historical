@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the classicfun.ws privacy policy that was archived on 2018-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180214172216id_/http%3A//classicfun.ws/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicfun.ws privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903143617id_/http%3A//classicfun.ws/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ClassicFun
+# Privacy Policy - Classic Fun
 
 At http://www.classicfun.ws/, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit http://www.classicfun.ws/, and how we safeguard your information. We never sell your personal information to third parties.
 
