@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the incredibox.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627173951id_/http%3A//www.incredibox.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incredibox.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903165658id_/https%3A//www.incredibox.com/info/privacy) for the most accurate reproduction.*
 
 # Incredibox - Privacy
 
 Last update on 18th june 2018
 
 At [So Far So Good](http://www.sofarsogood.fr/), the French company behind Incredibox, we take privacy seriously.  
-This policy is designed to let you know clearly what information we may collect and how we use it. We may change or update those Privacy Policy at any time. If you don’t agree with this Privacy Policy, just don’t use our site and services. If you have any questions please [contact us](https://web.archive.org/web/20180627173951id_/http%3A//www.incredibox.com/info/form), we'll be happy to answer you! 
+This policy is designed to let you know clearly what information we may collect and how we use it. We may change or update those Privacy Policy at any time. If you don’t agree with this Privacy Policy, just don’t use our site and services. If you have any questions please [contact us](https://web.archive.org/web/20180903165658id_/https%3A//www.incredibox.com/info/form), we'll be happy to answer you! 
 
 ## __   General Privacy
 
@@ -19,7 +19,7 @@ Please note that Incredibox exists technically under two different forms: the we
 
 Whatever, remember that if we need to collect some of your datas, it's first of all to improve our game and to ensure the proper functioning of the technical part of Incredibox. Our goal is above all to entertain you by offering you the best possible experience.
 
-Below you can find what datas we collect on the website then in the mobile app. If you have any questions please [contact us](https://web.archive.org/web/20180627173951id_/http%3A//www.incredibox.com/info/form). 
+Below you can find what datas we collect on the website then in the mobile app. If you have any questions please [contact us](https://web.archive.org/web/20180903165658id_/https%3A//www.incredibox.com/info/form). 
 
 ## __   Datas collected on the website
 
@@ -46,4 +46,4 @@ To help us provide you with the best service, we use third parties service with 
 
 ## __   Any questions?
 
-If you have any questions regarding the processing of your data or if you wish to report a possible violation of local privacy laws, please [contact us](https://web.archive.org/web/20180627173951id_/http%3A//www.incredibox.com/info/form). 
+If you have any questions regarding the processing of your data or if you wish to report a possible violation of local privacy laws, please [contact us](https://web.archive.org/web/20180903165658id_/https%3A//www.incredibox.com/info/form). 
