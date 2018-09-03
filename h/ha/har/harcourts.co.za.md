@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harcourts.co.za privacy policy that was archived on 2018-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180404101050id_/http%3A//content.harcourts.co.za/Content/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harcourts.co.za privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903154606id_/https%3A//content.harcourts.co.za/Content/PrivacyPolicy) for the most accurate reproduction.*
 
 # Real Estate, Houses for Sale, Rentals, Homes for Sale, Commercial Leasing
 
