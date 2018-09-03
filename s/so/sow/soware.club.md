@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soware.club privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504003346id_/http%3A//soware.club/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soware.club privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903123729id_/http%3A//soware.club/privacy) for the most accurate reproduction.*
 
 # privacy – soware.club
 
