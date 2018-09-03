@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogzonline.com.au privacy policy that was archived on 2018-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180331090153id_/https%3A//www.dogzonline.com.au/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogzonline.com.au privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903181759id_/https%3A//www.dogzonline.com.au/privacy-policy.asp) for the most accurate reproduction.*
 
 # DogzOnline: Showcasing Australia's Pure Bred Dogs
 
@@ -15,17 +15,47 @@ At Dogz Online, we respect your privacy. We want to maintain your confidence in 
 
 We are committed to providing you with adequate information so you can make an informed decision whether to visit our web site and whether you wish to voluntarily provide any personal data or information, e.g., your name, e-mail address, telephone number, etc. Our Privacy Policy is described in the following sections.
 
+**Collection of information**  
+We collect, process and retain personal information from you when you 
+
+  * email us 
+  * register for a membership with us 
+  * use any of our Services 
+  * give us information on a web contact form (eg puppy enquires etc) 
+  * update or add information on your membership 
+  * join and participate in forum discussions 
+  * or when you otherwise contact us.
+
+
+
+If you do not agree with this collection of information and the content of this Privacy Policy, we ask that you please do not provide the requested information. You may nevertheless continue to use most of our web site, subject however, to the collection of information through log files as discussed in the 'Log Files' section below.
+
+**How we use your information**  
+We use your personal information to  
+
+
+  * provide and improve our Services 
+  * give you a personalised experience on our site 
+  * contact you 
+  * provide customer service 
+  * send you alerts for new ads 
+  * let you know of new features on our site 
+  * provide you with personalised advertising and marketing 
+  * detect, prevent and investigate fraud, spam and/or other illegal activities. 
+
+
+
 **Placing Advertisements**  
 By placing an advertisement on our site (including but not limited to Breeder Listings, Puppy Listings, Classified Ads etc), you give us permission to display that information (including your contact details) publicly on our site for the purposes of promoting your ad. You also give us permission to reply to any requests for information about your ad or membership that is currently publicly available on our site (or has been previously publicly available).
 
 **Using Online Form to Contact Advertisers**  
-Dogs Online analyzes and stores all communications sent to advertisers via our contact form system for the purpose of spotting scams and spam (and blocking these). Do not use our contact form system for any private messages that you may not want us to see. Messages are stored for approximately 6 months. We will never give your personal information to third parties for their marketing and advertising purposes.
+Dogs Online analyzes and stores all communications sent to advertisers via our contact form system for the purpose of spotting scams and spam (and blocking these). Do not use our contact form system for any private messages that you may not want us to see. Messages are stored for approximately 6 months.
 
 **Log Files**  
 We review data and information contained in log files located on our web server, which record the date and time of each visit to our web site, the user's IP (internet protocol) address, the referring IP address or domain (the prior web site visited), and the files viewed on our web site (including HTML pages, graphics, etc.). We use log file information to analyze data in the aggregate to determine the trends and usage of our site. We can not correlate the log data to identify specific users. 
 
 **Cookies and Web Beacons**  
-We do use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+We do use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customise Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
 **DoubleClick DART Cookie**  
 \- Google, as a third party vendor, uses cookies to serve ads on our sites.  
@@ -41,13 +71,6 @@ Dogz Online has no access to or control over these cookies that are used by thir
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
-**Voluntarily Provided Information**  
-If you register for membership through our web site, send a message to an advertiser via our contact forms, make purchases from our on-line offerings, respond to a request for information or make any other on-line request of us (including email), you will be voluntarily providing personally identifiable information. If you do not agree with this Privacy Policy, we ask that you please do not provide the requested information. You may nevertheless continue to use most of our web site, subject however, to the collection of information through log files as discussed above. 
-
-If you have previously provided personally identifiable information by registration through our web site, you may request to be removed from our systems. In the case of our forums, we will not remove any threads etc that you may have made but we will remove any identifying information contained in your profile.
-
-Voluntarily provided information is used to send you announcements of new features of our site, updates, and promotional information, as well as to provide the services or goods that you request and give you better customer service. We do not share your information with anyone outside our organisation (except if we are required to do so by law).
-
 **Links to Third-Party Web Sites**  
 Through our web pages, you may connect to third parties' web sites via hyperlinks, and the connections may or may not be obvious. We are not responsible for the collection, use, maintenance, sharing, or disclosure of data and information by such third parties. We encourage our users to be aware of the varied privacy policies of web sites that they visit.
 
@@ -60,4 +83,4 @@ Although we use reasonable efforts to maintain the privacy of your personally id
 For all e-commerce transactions, we use industry-standard commercial encryption technology to protect the data and information that you transmit to us via our web site. We never keep a record anywhere of your full credit card details. (All credit card payments to this site are either processed by paypal or a bank approved payment system). 
 
 **Changes to this Privacy Policy**  
-Due to changing technological and marketing demands, we reserve the right to change our policies regarding the privacy of your personally identifiable information in the future. If that happens, we will endeavor to promptly update this Privacy Policy. We may also attempt to provide a message to our members whose e-mail addresses we have, in conformity with this Privacy Policy, advising of any such change(s). Your continued use of the web site following changes to this policy will indicate that you accept the changes. 
+Due to changing technological and marketing demands, we reserve the right to change our policies regarding the privacy of your personally identifiable information in the future. If that happens, we will endeavor to promptly update this Privacy Policy. You should review this Privacy Policy periodically so you are updated on any amendments. Your continued use of the web site following changes to this policy will indicate that you accept the changes. 
