@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fullcompass.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608192207id_/http%3A//www.fullcompass.com/news/88.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullcompass.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904013410id_/https%3A//www.fullcompass.com/news/88.html) for the most accurate reproduction.*
 
-# Privacy Statement | Full Compass
+# Privacy Statement | Full Compass Systems
 
 #### What Information Do We Collect?
 
