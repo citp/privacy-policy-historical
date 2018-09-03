@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wa.gov.au privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319051148id_/https%3A//www.wa.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wa.gov.au privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904010651id_/https%3A//www.wa.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Western Australian Government
 
@@ -50,4 +50,4 @@ A cookie is a block of data that is shared between a web server and a user's bro
 
 If you have any questions relating to privacy please submit your comments using the feedback form.
 
-Page reviewed  13 February 2018
+Page reviewed  20 April 2018
