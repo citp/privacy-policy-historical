@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bond.edu.au privacy policy that was archived on 2018-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180310055007id_/https%3A//bond.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bond.edu.au privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903183426id_/https%3A//bond.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Bond University
 
-## General
+##  General
 
 Bond University (‘BU’) is committed to protecting your personal information.
 
@@ -16,9 +16,9 @@ BU is bound by the Privacy Act 1988 (Cth) (‘Privacy Act’), including the Nat
 
 This policy sets out how BU manages your personal information.
 
-BU encourages you to check BU’s web site regularly for any updates to BU’s privacy policy.
+BU encourages you to check BU’s website regularly for any updates to BU’s privacy policy.
 
-## Collection
+##  Collection
 
 BU may collect and hold personal information about you, including your name, date of birth, gender, address, phone number, facsimile number, email address, next of kin details, bank account details, academic history, employment record, FEE-HELP status, nationality, visa details, passport details, travel details, preferred course of study, photograph, accommodation preferences, dietary requirements, physical attributes, medical history, health cover details, religious beliefs and/or other information relevant to providing you with the services you are, or someone else you know is, seeking.
 
@@ -37,7 +37,7 @@ The personal information that BU collects and holds about you, depends on your i
 
 
 
-If you access BU’s web site, BU may collect additional personal information about you in the form of your IP address (that is, the single numerical address for your computer on the Internet, which consists of four consecutive numbers ranging between 0 and 255) and/or domain name (that is, the textual address for your location on the Internet which corresponds to your IP address, which the Internet computers can read). BU’s website does not use cookies*.
+If you access BU’s website, BU may collect additional personal information about you in the form of your IP address (that is, the single numerical address for your computer on the Internet, which consists of four consecutive numbers ranging between 0 and 255) and/or domain name (that is, the textual address for your location on the Internet which corresponds to your IP address, which the Internet computers can read).
 
 In the case of Visa details, BU is required to collect this information pursuant to Australian Immigration Laws.
 
@@ -63,13 +63,13 @@ University staff may require access to Personal Information held by the Universi
 
 BU stores your personal information in different ways, including in paper and in electronic form. The security of your personal information is important to BU. BU takes all reasonable measures to ensure that your personal information is stored safely to protect it from misuse, loss, unauthorised access, modification or disclosure, including electronic and physical security measures.
 
-## Use of cookies and other information collection technologies
+##  Use of cookies and other information collection technologies
 
-We monitor this site so we can make it useful. This website does collect some information about users of the site, and we may also ask you for information in order to provide a service to you. Details of what we collect and how it is used are contained in this statement.
+We monitor this website so we can make it useful. This website does collect some information about users of the website, and we may also ask you for information in order to provide a service to you. Details of what we collect and how it is used are contained in this statement.
 
 Internet cookies are small strings of text placed on users' hard drives during the data exchange that happens when a browser points to a website. Cookies allow a website to store information on a user's machine and retrieve it later. Cookies and other information collection technologies can only store information that is explicitly provided by the user or visitor in the first place, or information the website already knows about the user, such as their IP address.
 
-BU's website uses cookies for identifying unique visitors to the site (that is, you will be allocated a visitor number which will be held in a cookie on your computer or device for a fixed period, such as 30 days. This cookie will also hold your IP address).
+BU's website uses cookies for identifying unique visitors to the website (that is, you will be allocated a visitor number which will be held in a cookie on your computer or device for a fixed period, such as 30 days. This cookie will also hold your IP address).
 
 BU uses Google Analytics to gather statistics about how its website is accessed. Google Analytics uses cookies to gather information for the purpose of providing statistical reporting and remarketing. The information generated by the cookie about your use of the website will be transmitted to and stored by Google on servers located outside of Australia. No personally identifying information is recorded or provided to Google.
 
@@ -84,11 +84,11 @@ When you visit BU's website, we make a record of your visit using "single pixel 
   * the pages accessed and documents downloaded
   * the file size of the pages downloaded
   * the type of browser used and screen resolution
-  * the referring page (ie last page visited before entering the BU site).
+  * the referring page (ie last page visited before entering the BU website).
 
 
 
-## Access
+##  Access
 
 You may access personal information BU holds about you, upon making a written request. BU will endeavour to acknowledge your request within 14 days of its receipt and to provide you with access to the information requested within 30 days. BU may charge you a reasonable fee for processing your request.
 
@@ -108,15 +108,15 @@ BU may decline a request for access to personal information where, among other t
 
 If, upon receiving access to your personal information or at any other time, you believe the personal information BU holds about you is inaccurate, incomplete or out of date, please notify BU immediately. BU will take reasonable steps to correct the information so that it is accurate, complete and up to date. If BU disagrees with you about whether your personal information is inaccurate, incomplete or out of date, and you ask BU to associate with your personal information a statement claiming that your personal information is inaccurate, incomplete or out of date, BU will take reasonable steps to do so.
 
-## Links to other web sites
+##  Links to other websites
 
-BU’s website may contain links to other websites. BU is not responsible for the privacy practices of linked web sites and so linked web sites are not subject to BU’s privacy policies and procedures.
+BU’s website may contain links to other websites. BU is not responsible for the privacy practices of linked websites and so linked websites are not subject to BU’s privacy policies and procedures.
 
-## Updates
+##  Updates
 
 This privacy policy may be updated by BU from time to time.
 
-## Feedback
+##  Feedback
 
 If you have any queries or concerns about BU’s privacy policy or the way in which BU handles your personal information, please contact BU’s privacy officer at:
 
@@ -128,6 +128,4 @@ Fax: +61 7 5595 1025
 
 ### More information
 
-For more information about privacy in general, you can visit the Federal Privacy Commissioner’s web site at [www.privacy.gov.au](http://www.privacy.gov.au/)
-
-* 1 Except in the case of our introductory animation.  
+For more information about privacy in general, you can visit the Federal Privacy Commissioner’s website at [www.privacy.gov.au](http://www.privacy.gov.au/)
