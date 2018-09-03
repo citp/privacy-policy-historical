@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeboh.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601205954id_/http%3A//www.freeboh.com/s/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeboh.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903201746id_/https%3A//www.freeboh.com/s/pp) for the most accurate reproduction.*
 
 # Freeboh-Shift-based jobs in Singapore. Works for me!
 
