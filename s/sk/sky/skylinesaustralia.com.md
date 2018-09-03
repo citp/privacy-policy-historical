@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skylinesaustralia.com privacy policy that was archived on 2018-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180404085333id_/https%3A//www.sau.com.au/forums/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skylinesaustralia.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903213522id_/https%3A//www.sau.com.au/forums/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SAU Community
 
@@ -150,3 +150,17 @@ cbiggins@gmail.com
 Last Edited on 2017-02-13 
 
 SAU Community, Elanora Heights, Sydney, New South Wales, 2101
+
+### Third Parties
+
+**Spam Defense**
+
+The IPS Spam Defense Service passes the email address and IP address of the registering member to the service to determine the likelihood a registering account is a spam source.
+
+**SendGrid**
+
+SendGrid is used by this website to process and deliver emails.
+
+**reCAPTCHA V2**
+
+This site uses a CAPTCHA to ensure humans are performing certain actions. The CAPTCHA provider may set a session cookie and get information about your internet browser and device accessing this website.
