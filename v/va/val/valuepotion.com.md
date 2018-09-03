@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the valuepotion.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601192648id_/http%3A//www.valuepotion.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuepotion.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903182408id_/http%3A//www.valuepotion.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy | Valuepotion
 
-Valuepotion Corp. ("Valuepotion") only acquires, uses and shares the user information that you expressly consent to for our collection, use and sharing. We understand the importance of protecting your information and that is why we actively guarantee your right to freely determine and manage your own user information.
+Valuepotion Pte. Ltd. ("Valuepotion") only acquires, uses and shares the user information that you expressly consent to for our collection, use and sharing. We understand the importance of protecting your information and that is why we actively guarantee your right to freely determine and manage your own user information.
 
-“Valuepotion Privacy Policy” means the guidelines that we must comply with in protecting the valuable personal information of users so that such users may safely use Valuepotion. We follow and abide by the Korean Act on the Protection of Personal Information and its guidelines.
+“Valuepotion Privacy Policy” means the guidelines that we must comply with in protecting the valuable personal information of users so that such users may safely use Valuepotion. We follow and abide by the Singapore Personal Data Protection Act 2012 (No. 26 of 2012) (“Act”). 
 
-In principle, this Privacy Policy applies to Valuepotion service ("Service") provided and operated by “Valuepotion”. Our Privacy Policy is governed by and interpreted in accordance with the laws of the Republic of Korea.
+In principle, this Privacy Policy applies to Valuepotion service ("Service") provided and operated by “Valuepotion”. 
 
 ## 1\. Valuepotion acquires the following items of information from our users.
 
@@ -43,38 +43,9 @@ We will use and maintain your information for a limited period of time starting 
 
 However, your name, company name, e-mail address will be safely retained for a period of six (6) months to prevent any problems in the use of our services or prevent any unlawful use of our services.
 
-In addition, we will retain your information for the period of time stipulated under applicable laws and regulations which include the following:
-    
-    
-    1) Log-in records relating to the use of the services
-        - Basis of retention: ACT ON THE PROTECTION OF COMMUNICATIONS SECRETS
-        - Period of retention: Three (3) months
-    2) Records concerning consumer complaints and handling of disputes
-        - Basis of retention: : ACT ON CONSUMER PROTECTION IN ELECTRONIC COMMERCE TRANSACTIONS,ETC
-        - Period of retention: Three (3) years
-    3) Records concerning Indication/ Advertisement
-        - Basis of retention: : ACT ON CONSUMER PROTECTION IN ELECTRONIC COMMERCE TRANSACTIONS,ETC
-        - Period of retention: Six (6) months
-    4) Records concerning contract and withdrawal, etc
-        - Basis of retention: : ACT ON CONSUMER PROTECTION IN ELECTRONIC COMMERCE TRANSACTIONS,ETC
-        - Period of retention: Five (5) years
-    5) Records concerning Payment and the supply of goods
-        - Basis of retention: : ACT ON CONSUMER PROTECTION IN ELECTRONIC COMMERCE TRANSACTIONS,ETC
-        - Period of retention: Five (5) years
-    6) Records concerning Electronic Financial Transactions
-        - Basis of retention: Electronic Financial Transactions Act
-        - Period of retention: Five (5) years
-    
-
 ## 4\. Valuepotion may entrust a third party with the handling of your personal information when necessary for seamless provision of the Services.
 
-Valuepotion may delegate the handling of your personal information to third paries (the "Service Providers") when it is necessary to ensure seamless Service. Please refer to the following list for more information on the Service Providers and the services provided by the Service Providers:
-    
-    
-    Service Provider: Daum Kakao Corp.
-    Purpose: For development with infra system for the use of the Service
-    Term of retention and use: Until you unregister from the Services or the delegation agreement with the Service Provider is terminated
-    
+Valuepotion may delegate the handling of your personal information to third parties (the "Service Providers") when it is necessary to ensure seamless Service.
 
 ## 5\. In principle, Valuepotion does not share your user information with third parties unless consented by you or otherwise required by law.
 
@@ -183,33 +154,25 @@ We do not transfer your information overseas without your consent. In case an ov
 
 ## 11\. International Users
 
-This Policy and the privacy practices of Valuepotion will be subject exclusively to the laws of the Republic of Korea. Valuepotion makes no representation that this Policy and our practices comply with the laws of any other country or jurisdiction. You who use the Services and reside outside the Republic of Korea do so on their own initiative and are responsible for compliance with your local laws, if and to the extent local laws are applicable. If you reside outside of Republic of Korea, by using the Services, you consent to the transfer, processing and use of your personal information outside your country.
+This Policy and the privacy practices of Valuepotion will be subject exclusively to the laws of Singapore. Valuepotion makes no representation that this Policy and our practices comply with the laws of any other country or jurisdiction. You who use the Services and reside outside Singapore do so on their own initiative and are responsible for compliance with your local laws, if and to the extent local laws are applicable. If you reside outside of Singapore, by using the Services, you consent to the transfer, processing and use of your personal information outside your country.
 
 ## 12\. We operate a special team dedicated to protecting your information.
 
-We designate and operate a team dedicated to protecting your information and respond to your inquiries and suggestions. If you have any questions or suggestions, please contact the person in charge below at any time and we will make sure to provide you with a satisfactory response.
+We designate a team dedicated to protecting your information and respond to your inquiries and suggestions. If you have any questions or suggestions, please contact us at the following :
+    
+    
+    The Office of the Data Protection Officer
+    Valuepotion Pte. Ltd.
+    71 Robinson Road Singapore, 068895
+    Email: support@valuepotion.com
+    
 
-### Personal Information Management, Person in Charge and Department
-
-Person in Charge | Inquiry  
----|---  
-Marcus Kim | [support@valuepotion.com](mailto:support@valuepotion.com)  
-  
-If you believe your information has been compromised and wish to report such incident or seek advice, please contact the institutions below for assistance.
-
-Institution | Phone Number | Website/Email  
----|---|---  
-Personal Information Violation Reporting Center | (without the area code) 118 | [http://privacy.kisa.or.kr](http://privacy.kisa.or.kr/)  
-Privacy Mark Certification Association | 02-550-9531~2 | [http://www.eprivacy.or.kr](http://www.eprivacy.or.kr/)  
-Cybercrime Investigation Department, Supreme Public Prosecutors' Office | 02-3480-3571 | [cybercid@spo.go.kr](mailto:cybercid@spo.go.kr)  
-Cyber Terror Response Center, National Policy Agency | (without the area code) 182 | [http://www.ctrc.go.kr](http://www.ctrc.go.kr/)  
-  
 ## 13\. Miscellaneous/Additional Policies
 
 We may update this Privacy Policy from time to time. We will notify you of such changes through our website at least seven (7) days prior to the effective date of such changes. However, in the case of any significant changes that may affect your rights or obligations, you will be notified at least thirty (30) days prior to the effective date of such changes.
 
-  * Privacy Policy Version 2.0
-  * Effective Date of Privacy Policy: June 1, 2015
+  * Privacy Policy Version 3.0
+  * Effective Date of Privacy Policy: Feburary 1, 2018
 
 
 
