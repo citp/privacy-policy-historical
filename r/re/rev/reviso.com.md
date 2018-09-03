@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reviso.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702002409id_/https%3A//www.reviso.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviso.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903115758id_/https%3A//www.reviso.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Reviso
+# Reviso.com - Privacy Policy
 
 By using our websites, application, apps and surrounding services you accept this Privacy Policy and the collection of information as outlined in this Privacy policy.
 
