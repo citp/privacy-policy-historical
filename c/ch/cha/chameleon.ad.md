@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chameleon.ad privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607220454id_/https%3A//chameleon.ad/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chameleon.ad privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903155822id_/https%3A//chameleon.ad/privacy-policy) for the most accurate reproduction.*
 
 # Chameleon.ad > Privacy Policy
 
