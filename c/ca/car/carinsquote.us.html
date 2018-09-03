@@ -1,48 +1,52 @@
-<!--The following is the downloaded HTML source of the carinsquote.us privacy policy that was archived on 2016-01-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160125194525id_/http%3A//carinsquote.us/priv.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the carinsquote.us privacy policy that was archived on 2018-09-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180903032518id_/http%3A//carinsquote.us/priv.php) for the most accurate reproduction.-->
 
 <html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Uw4GWV9AAAsCVFVRBA=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <style>
 body { font-family:arial; text-align:left; width:700px; margin:15px auto; }
 .sitemap { text-align:left;
 </style>
 </head>
 <body>
-<h3>Protecting Your Privacy</h3>
+<h2>Protecting Your Privacy</h2>
 We own and operate a network of sites that is focused on helping consumers to understand what options they have in dealing with their financial issues.<br><br>
 We are also committed to protecting the privacy of our users. To this end, we believe you have the right to know everything regarding the information we collect about you, how the information is used, and how you can opt out of providing any of this information.<br><br>
 This privacy policy explains how we use your information and explains what you can expect. By using this site, you indicate your acceptance of our Privacy Policy.<br><br>
-What Information Is Collected?<br><br>
+
+<h3>What Information Is Collected?</h3>
 We collect personally identifying information from voluntary user registrations, surveys, contact forms and emails. We also collect non-personal identifying information when you visit our website about which pages you visit, how long you visit certain pages, and how you arrived at our website among other things. In addition, by using this site, you agree to let us collect your publicly accessible social media profile information.<br><br>
 In order to perform a meaningful analysis of the financial situation of any prospective client, it is important to have accurate information about you. We might collect information from you, including but not limited to your name, address, social security number, income, expenses, assets and debt schedule.  In addition, we collect and maintain information about your transactions with our affiliates, others, and us. In this policy, we refer to this information as "private information."<br><br>
-For more information on exactly what information is obtained, please contact us at best.net.advertising@gmail.com.<br><br>
-Why Do You Collect Information?<br><br>
+For more information on exactly what information is obtained, please contact us at offers@ue.co.<br><br>
+<h3>Why Do You Collect Information?</h3>
 
 The information we collect allows us to improve your user experience through the customization of content and layouts of various pages. It also enables us to keep you informed about new features and services that we offer along with any content that we provide through our newsletters. In addition, some information is shared with reputable organizations who may contact you with special offers of possible interest.<br><br>
-Who Do You Share My Information With?<br><br>
-We may make our customer e-mail addresses, postal addresses and telephone numbers available to other reputable businesses whose products or services may be of value to you. If you do not wish to share your information with other companies or organizations, please let us know by contacting us by mail at 3639 Midway Drive Ste B #182 San Diego, CA 92110-5254. We retain email opt-out and postal/telephone non-solicitation requests for five years.<br><br>
-May I see the Information You Collect From Me?<br><br>
-Yes, upon request, we will provide you with access to your personal account information, account status, contact information, and other information that we collect. You may access the information by emailing us a request at best.net.advertising@gmail.com.<br><br>
-We also allow visitors to correct any inaccuracies in their contact information simply by emailing the changes to us at best.net.advertising@gmail.com.<br><br>
-What Are Cookies?<br><br>
+
+<h3>Who Do You Share My Information With?</h3>
+We share your self-admitted personal information that you provide in the form, with our lending partners. In addition to these partners, we may also share some of your information with other partners who may be able to offer you another product or special offer you may be interested in via email. This information may consist of; your e-mail addresses, postal addresses and telephone numbers. Again, we make this information available to other reputable businesses whose products or services may be of value to you. If you do not wish to share your information with other companies or organizations, please let us know by contacting us by mail at 808 J St, San Diego, CA 92101. We retain email opt-out and postal/telephone non-solicitation requests for five years.<br><br>
+
+<h3>May I see the Information You Collect From Me?</h3>
+Yes, upon request, we will provide you with access to your personal account information, account status, contact information, and other information that we collect. You may access the information by emailing us a request at offers@ue.co.<br><br>
+We also allow visitors to correct any inaccuracies in their contact information simply by emailing the changes to us at offers@ue.co.<br><br>
+
+<h3>What Are Cookies?</h3>
 We may use cookies to store your individual user preferences in order to make your user experience more enjoyable in the future. Cookies are tiny bits of information stored by your browser on your computer's hard drive. Most browsers are initially setup to accept cookies by default and they are commonly found on many websites throughout the Internet.<br><br>
 
 If you wish to disable cookies, there is a simple procedure in most Internet browsers that allow you to turn off cookies. However, note that cookies may be required to use certain features of our website and that of many others.<br><br>
-Click <a href="/cookieopt.php">here</a> to clear cookies for this domain. Some of our ads are searved through appnexus, click <a href="http://appnexus.com/legal/privacy.php">here</a> for their privacy policy.<br>
+Click <a href="/cookieopt.php">here</a> to clear cookies for this domain. Some of our ads are served through appnexus, click <a href="http://www.appnexus.com/en/company/privacy-policy">here</a> for their privacy policy.<br>
 
-We may also use third-party advertising companies to serve ads when you visit our website. These companies may use information (non-personally identifying) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and become aware of your choice to not have this information used by companies, please contact us at best.net.advertising@gmail.com.<br><br>
-Legal Information Transfers<br><br>
+We may also use third-party advertising companies to serve ads when you visit our website. These companies may use information (non-personally identifying) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and become aware of your choice to not have this information used by companies, please contact us at offers@ue.co.<br><br>
+<h3>Legal Information Transfers</h3>
 We may need to disclose certain information to comply with laws, regulations, court orders, subpoenas, search warrants, or other legal reasons in the course of a legal proceeding or in response to a law enforcement agency request. Furthermore, if there is a change of control transaction in our business, a sale or transfer of assets, customer information could be sold or transferred as part of that transaction and your personally identifying information may be used by the purchaser.<br><br>
 
-Children Under 13<br><br>
+<h3>Children Under 13</h3>
 We are concerned about the safety of children. We do not knowingly allow anyone under the age of 13 to provide us with personally identifying information. Children wishing to utilize our services should always get permission from their parents before supplying any information about themselves, including names, email addresses and phone numbers.<br><br>
 
-Hyperlinks<br><br>
+<h3>Hyperlinks</h3>
 We may link to other websites with information gather practices that differ from our own. Visitors should carefully review privacy policies for all websites they visit as we have no control over information submitted or collected by third parties.<br><br>
 We may also offer contests, sweepstakes, or other promotions from time to time that are sponsored or co-sponsored by third parties. These third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the contest, sweepstake or promotion. We have no control over how these third parties use this information; however, we will notify you whenever you fill out a form that will provide them access to such information.<br><br>
 
-Marketing Messages: Email, Telephone and SMS.<br><br>
+<h3>Marketing Messages: Email, Telephone and SMS.</h3>
 
 By submitting your information through the form on our website, you agree to participate in future marketing messages in the form of email, SMS, and telephone. By submitting your information you agree, by your own request, that being contacted via telephone, despite any previous enrollment on the national do-not-call list, is permissible.<br><br>
 
@@ -52,54 +56,62 @@ We will only send relevant messages to our consumer database including offers of
 
 To opt out of sms reply "STOP" to any messages.<br><br>
 
-How Do I Stop Receiving Email?<br><br>
-If you do not want to receive email from us, please use the unsubscribe option available on email communications by writing to us at 2232 S. Nellis Blvd Suite G3 Las Vegas, NV 89104. We will retain all such email opt-out requests for five years.<br><br>
-Rules for Submissions and Messages<br><br>
+<h3>How Do I Stop Receiving Email?</h3>
+If you do not want to receive email from us, please use the unsubscribe option available on email communications by writing to us at 808 J St, San Diego, CA 92101. We will retain all such email opt-out requests for five years.<br><br>
+
+<h3>Rules for Submissions and Messages</h3>
 Users are responsible for what they post in discussion groups of other public forums. We cannot and do not review each submission that users make and do not endorse or guarantee the accuracy or propriety of any submission. We do, however, reserve the right to restrict or prohibit your use of our website if we believe you are violating any terms of the agreement.<br><br>
 
-Member Conduct Guidelines<br><br>
+<h3>Member Conduct Guidelines</h3>
 Members understand that all information, data, text, software, music, sound, photographs, graphics, video, messages or other content, whether publicly posted or privately transmitted, are the sole responsibility of the person from which such content originated. We do not control the content posted and as a result do not guarantee the accuracy, integrity, or quality of such content. You may be exposed to content that is offensive, indecent or objectionable.<br><br>
 You agree not to use our website in order to:<br><br>
-<ul <li="">perform any commercial activities without written consent;
-<li>forge headers or manipulate identifiers as a means to mask the origin of any Content transmitted through the Service.
-</li><li>disrupt the servers or networks connected to the site;
+<ul>
+<li>Perform any commercial activities without written consent;
+</li><li>Forge headers or manipulate identifiers as a means to mask the origin of any Content transmitted through the Service.</li>
+    <li>Disrupt the servers or networks connected to the site;</li>
+    <li>Transmit any Content that is unlawful, invasive of another's privacy, or otherwise objectionable;</li>
+    <li>Hurt minors in any way, "stalk" any individuals or gather personal information about other users;</li>
+    <li>Pretend to be any person or entity or feign your affiliation with a person or entity;</li>
+<li>Transmit any Content that would infringe upon another's intellectual property rights or would be considered "spam", "chain letters" or any other form of solicitation;</li>
+<li>Post any Content that you should not transmit under any contract, law or fiduciary relationship or any Content containing any viruses or programs that would effect functionality;</li>
+<li>Develop password-only, restricted access pages, or hidden pages;</li>
+<li>Break any applicable laws or regulations or aid any other user in achieving illegal activities.</li>
+</ul><br>
 
-</li><li>transmit any Content that is unlawful, invasive of another's privacy, or otherwise objectionable;
-</li><li>hurt minors in any way, "stalk" any individuals or gather personal information about other users;
-</li><li>pretend to be any person or entity or feign your affiliation with a person or entity;
-</li><li>transmit any Content that would infringe upon another's intellectual property rights or would be considered "spam", "chain letters" or any other form of solicitation;
-</li><li>post any Content that you should not transmit under any contract, law or fiduciary relationship or any Content containing any viruses or programs that would effect functionality;
-</li><li>develop password-only, restricted access pages, or hidden pages;
-</li><li>break any applicable laws or regulations or aid any other user in achieving illegal activities.</li></ul><br>
-
-How Is Data Secured?<br><br>
+<h3>How Is Data Secured?</h3>
 We use industry-standard encryption technologies when transferring and receiving personal data. We also have appropriate security measures to protect against loss, misuse or alteration of information that we collect from you.<br><br>
-Changes and Updates<br><br>
-We may need to change this privacy policy from time to time in order to address new issues, new technologies, and changes in our website or business practices. We will always post these changes so you will know what information we gather and how we may use that information. Please consult this policy regularly for such updates.<br><br>
-Members' Rights<br><br>
+
+<h3>What is a lender vs a partner?</h3>
+Lender: May provide you with potential loan offers<br>
+Partner: May connect with you other potential lenders via their network<br><br>
+
+<h3>Third Parties</h3>
 
 In addition to the information collected by us and registration information submitted by you, we may employ both first-party and third-party cookies.  A cookie is a piece of data stored on your hard drive containing activity-based information about you, and it is designed to facilitate the receipt of targeted and relevant advertisements.  The cookie is not associated with your personally identifiable information.<br><br>
 
-Your California Privacy Rights<br><br>
+<h3>Changes and Updates</h3>
+We may need to change this privacy policy from time to time in order to address new issues, new technologies, and changes in our website or business practices. We will always post these changes so you will know what information we gather and how we may use that information. Please consult this policy regularly for such updates.<br><br>
 
-Any business subject to California Civil Code section 1798.83 is required to disclose to all its California customers, upon written request, the identity of any third parties to whom the business has disclosed any personal information within the previous calendar year, along with the type of personal information disclosed, for the third partiesÃ¢â‚¬â„¢ direct marketing purposes.<br><br>
-If you are a resident of California and would like to make such a request, please submit your request in writing to: best.net.advertising@gmail.com <br><br>
+
+<h3>Your California Privacy Rights</h3>
+
+Any business subject to California Civil Code section 1798.83 is required to disclose to all its California customers, upon written request, the identity of any third parties to whom the business has disclosed any personal information within the previous calendar year, along with the type of personal information disclosed, for the third parties direct marketing purposes.<br><br>
+If you are a resident of California and would like to make such a request, please submit your request in writing to: offers@ue.co <br><br>
 Please note that under California law, businesses are only required to respond to a customer request once during any calendar year.<br><br>
 
 
 
-Further Questions or Comments<br><br>
-If you have any questions about this privacy policy or feel that this website has not followed its stated privacy policy, feel free to contact us by email at best.net.advertising@gmail.com or by mail at 3639 Midway Drive Ste B #3639 Midway Drive Ste #182 San Diego, CA 92110-5254<br><br>
+<h3>Further Questions or Comments</h3>
+If you have any questions about this privacy policy or feel that this website has not followed its stated privacy policy, feel free to contact us by email at offers@ue.co or by mail at 808 J St, San Diego, CA 92101<br><br>
 Note: This privacy policy applies to all of the sites we own and operate.<br><br>
 We comply with all the stringent standards of ethical conduct set forth by the Direct Marketing Association.
-<br><br><center>
-
+<br><br><span style="text-align: center;">
 Contact:
-3639 Midway Drive Ste B #182 San Diego, CA 92110-5254
-best.net.advertising@gmail.com.
+808 J St, San Diego, CA 92101
+<br>
+offers@ue.co
 <br>
 <br>
+Effective 01/01/2018</span>
 
-Effective 01/01/2010</center>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"4123c01a6c","applicationID":"8820433","transactionName":"YQZXZ0RQC0UCUxYIClhMYEFfHhVECkZMEQ1G","queueTime":0,"applicationTime":0,"atts":"TUFUEQxKGEs=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script>
 </body></html>
