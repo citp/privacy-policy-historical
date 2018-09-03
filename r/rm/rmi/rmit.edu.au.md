@@ -1,101 +1,147 @@
-> *The following text is extracted and transformed from the rmit.edu.au privacy policy that was archived on 2018-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180328011514id_/https%3A//www.rmit.edu.au/utilities/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rmit.edu.au privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903164917id_/https%3A//www.rmit.edu.au/utilities/privacy) for the most accurate reproduction.*
 
-# RMIT Privacy Policy Statement - RMIT University
+# RMIT Privacy Statement - RMIT University
 
-RMIT values the privacy of every individual and is committed to handling personal and health information in accordance with the privacy principles contained in the  _Privacy and Data Protection Act 2014 (Vic)_ , the  _Health Records Act 2001 (Vic)  _and other relevant legislation.  
+### RMIT values the privacy of every individual and is committed to the responsible handling of personal information.
 
+This Privacy Statement explains what personal information we gather and details how that information is used.
 
-Transparency and fairness for the management of personal, health and sensitive information at RMIT and all its operations underpins this policy statement.  Privacy and security measures protect against misuse, loss and unauthorised disclosure of personal information.
+**Types of personal information:**
 
-**Relevant Definitions**
-
-  * _Personal information:_  Recorded information about a living identifiable or easily identifiable individual.  
-
-  * _Sensitive information:_  Information about a living individual's race or ethnicity, political opinions, religiouss or philosophical beliefs, sexual preferences or practices, criminal record, or memberships details, such as trade union or professional, political or trade associations.  
-
-  * _Health information:_ ** ** Information about a living or deceased individual's physical, mental or psychological health.
+  * _Personal information:_ Recorded information about a living identifiable or easily identifiable individual
+  * _Sensitive information:_ Personal information about a living individual's race or ethnicity, political opinions, religious or philosophical beliefs, sexual preferences or practices, criminal record, or memberships details, such as trade union or professional, political or trade associations, genetic data and biometric data.
+  * _Health information:_ **** Information about a living or deceased individual's physical, mental or psychological health.
 
 
 
-### 1\.  Collection of personal information
+### **1.   Information we collect **
 
-RMIT collects personal and health information as necessary for its core functions, including for educational, research, community and commercial purposes. RMIT collects personal information about staff, students, research participants, volunteers, RMIT club and gym members, and other members of the public.
+RMIT only collects information about you by lawful and fair means and in a non-intrusive way. RMIT collects personal, sensitive and health information as necessary for its core functions, including for educational, research, community and commercial purposes. We may collect personal information from:
 
-The type of personal or health information RMIT collects depends on the nature of the contact and interaction.
-
-Where lawful and practicable, an individual may remain anonymous when interacting with RMIT. This means that no identifying details will be collected.
-
-RMIT may collect sensitive information in certain limited circumstances. When we collect sensitive information, all reasonable steps are taken to explain:
-
-  1. Why the sensitive information is being collected;
-  2. What will be done with this information; and
-  3. The main consequences (if any) for an individual if all or part of the information is not provided to RMIT.
-
-
-
-Some areas of RMIT may have additional specific privacy information or statements that further explain particular information management practices.
-
-### 2\.  Using personal information
-
-RMIT uses and provides, personal or health information to other people or organisations, for the purposes it was collected.
-
-Typical collections and uses of information include, but are not limited to:
-
-  * Application for RMIT services
-  * Enquiries
-  * Enrolling students
-  * Details of staff and volunteers
-  * Research data
-  * Conducting marketing campaigns
-  * Budgeting
-  * Conducting field trips
-  * Maintaining information technology facilities
-  * Liaising with the Student Union
-  * Transacting with other RMIT entities
-  * Student services
-  * Assessing students' work.
+  * prospective and current students
+  * staff, including job applicants, as well as contractors
+  * alumni and donors
+  * research participants
+  * Industry partners
+  * RMIT club and gym members
+  * staff, employees and volunteers from other organisations
+  * other members of the public who interact with us.
 
 
 
-Occasionally, RMIT may be authorised by law to use or provide personal or health information to others for other purposes. In some cases an individual’s consent will be sought to use or provide personal information to others.
-
-RMIT will only assign or adopt a unique identifier (e.g. student or employee numbers) for an individual if it is necessary, authorised by law or with consent.  RMIT is committed to ensuring that any transfer of personal or health information outside of Victoria is in accordance with law.
-
-### 3\.  Ensuring that information is accurate and up-to-date
-
-RMIT takes reasonable steps to ensure that personal and heath information held is accurate, complete and up-to-date.
-
-RMIT relies on individuals to provide accurate and current information in the first instance, and to notify when circumstances or details change.
-
-### 4\.  Storage and protection of information
-
-All areas of RMIT have security measures to protect personal and health information from misuse, loss, unauthorised access or disclosure.
-
-Stored information is also archived in accordance with the  _Public Records Act 1973_ _(Vic),_ which determines when information should be retained or disposed of.
-
-Personal information may be stored in hard copy documents, as electronic data, or in RMIT software or systems. Some of the ways RMIT seeks to protect personal information include:
-
-  * Privacy process and the protection of information
-  * Document storage and data security processes
-  * Security measures for access to RMIT computer systems
-  * Controlling access to RMIT premises
-  * Web site protection measures
+The information we collect depends on how you interact with us and the purpose of that interaction. RMIT may collect sensitive information, including health information, in certain limited circumstances and for a specific purpose. RMIT also uses specific collection statements in connection with your engagement with us, such as the [Staff Privacy Statement](https://web.archive.org/content/rmit-ui/en/about/governance-and-management/policies/privacy/staff-privacy-statement.html) and the [Student Privacy Statement](https://web.archive.org/content/rmit-ui/en/about/governance-and-management/policies/privacy/student-privacy-statement.html).  
 
 
+Where appropriate, examples of the usual parties that RMIT provides personal and health information to and for what purposes are captured in more detailed privacy collection statements, such statements are provided to you at the time your personal information is collected or as soon as practicable thereafter.
 
-Different areas within RMIT have different storage systems in place, which depend upon a variety of factors, including the level of access required by staff and the sensitivity of the information.
+Your personal information is usually collected directly from you. In some cases, we may collect information from a third party, such as a government authority, agency, contractor, or other educational or research institutions. Where personal information is provided to us by a person other than you, it will be deleted or de-identified if not required, or you will receive a notice of its collection, its use and your rights as a data subject.
 
-### 5\.  Access to information held by RMIT
+Where practicable, you may choose to remain anonymous when interacting with RMIT. However, remaining anonymous may affect your ability to access some RMIT services and systems. RMIT will let you know when this may affect your engagement with us.
 
-An individual may ask for access to their personal or health information, without having to make a formal request under the Freedom of Information Act 1982 (FOI Act), where appropriate.
+### **2.   How we use your information**
 
-In some situations, access will not be appropriate, and an individual is required to make a formal FOI request for example, if a third party’s privacy is involved).
+RMIT uses personal and sensitive information to deliver our core functions, and comply with our obligations with respect to the provision of education and research. We use your information for the primary purpose for which it was collected, a related secondary purpose that you may reasonably expect (with the exception of sensitive information), as required by law, or with your permission or consent.
 
-The relevant processes for requesting access to information include directly contacting the area of RMIT that has the information in the first instance followed by making the request pursuant to Freedom of Information legislative guidance. Information of Freedom of Information process at RMIT, please contact https://www.rmit.edu.au/about/governance-and-management/governance/freedom-of-information.
+The laws in some jurisdictions require us to tell you about the legal ground we rely on to use or share your personal information. These legal grounds may include, but are not limited to, meeting our contractual commitments to you, for a legitimate interest, to comply with law, or to perform a public task. We will always consider your rights when using your personal information.
 
-### 6\.  Website Privacy
+We may use and process your information for: 
 
-RMIT may make a record of your visits to RMIT websites and log information for statistical and system administration purposes, including but not limited to
+  * Education and education support: admission, enrolment, content delivery and learning activities, assessment, graduation, services (e.g. library, wellbeing, support), handling disputes, investigations, audits, data analysis and improvements, general administration and enquiry management.
+  * Research and research support: including participant data, administration and commercialisation. 
+  * Community and industry engagement: website operation, addressing enquiries and requests, marketing, mailing lists and newsletters, event invitations, alumni and donor relations.
+  * Employment and employee support: recruitment (including referees), payroll, health and safety, learning and development for staff and other Human Resources programs, contractors and volunteers. 
+  * Operational management and finances: financial management, processing fees, IT security and management, data analysis, legal and professional services, analysing and improving our courses, educational opportunities, business and services.
+  * Infrastructure and facilities: access and management systems, CCTV, identity management, security and emergency response, including to lessen or prevent threats to safety.
+  * Transacting between RMIT entities to deliver and improve our services.
+  * For a secondary purpose or where otherwise permitted by law, such as the provision of information to government departments or agencies.
+
+
+
+**Third Parties**  
+
+
+We may share your personal information with third parties where appropriate for the purposes set out above, including but not limited to:
+
+  * Financial institutes for payment processing;
+  * Regulatory, investigative, law enforcement or government bodies;
+  * Referees whose details are provided to us by job applicants;
+  * Other educational institutes and educational partners, some of which are overseas, including educational agents;
+  * Pre-enrolment testing providers;
+  * Our contracted service providers or partners, including overseas and local agents, information technology service providers, venues and event organisers, marketing and communication agencies, research and statistical analysis providers, call centres, hard copy and electronic mailing houses, professional advisers (such as recruitment advisers, auditors, accountants, insurers, and lawyers), and externally hosted applications.
+  * As required or authorised by law; and
+  * Otherwise with your consent.
+
+
+
+These recipient organisations and contracted service providers are required to keep personal information confidential and provide the same privacy safeguards as we do. Some of these recipients may be located outside of Victoria or Australia, which means that your personal information may be transferred interstate or overseas (trans-border), including but not limited to:  
+
+
+  * the United States of America;
+  * Singapore;
+  * other countries in Asia;
+  * countries in the European Union, such as the UK and Spain.
+
+
+
+Where we transfer your personal information to a recipient outside of Victoria, we take reasonable steps to ensure the recipient handles the information in accordance with this Privacy Statement, our Policies, and the relevant privacy and health information principles.   
+
+
+Where appropriate, examples of third parties that RMIT provides personal information to and for what purposes are captured in more detailed privacy collection statements, which are provided to you at the time your personal information is collected.
+
+### **3.   How we store and protect your information**
+
+RMIT applies safeguards and takes appropriate security measures to protect your personal information from misuse, loss, unauthorised access and disclosure. 
+
+Stored information is also archived in accordance with the _Public Records Act 1973_ _(Vic),_ which determines when information should be retained or disposed. Reasonable steps are taken to destroy or permanently de-identify your personal information when it is no longer needed for any purpose.
+
+Personal information may be stored in hard copy documents, as electronic data, or in RMIT software or systems, including cloud or other types of network or electronic storage. Some of the ways RMIT seeks to protect personal information include:
+
+  * Privacy processes and the protection of information;
+  * Document storage and data security processes;
+  * Security measures for access to RMIT computer systems;
+  * Controlling access to RMIT premises; and
+  * Website protection measures.
+
+
+
+Where it is necessary to share your personal information with a contracted service provider or third-party, RMIT takes reasonable steps to ensure that there are appropriate safeguards in place to protect your personal information.
+
+RMIT operates in Australia and overseas, including Spain and Vietnam. Accordingly, we may need to share some of your information we collect about you between RMIT entities in these jurisdictions. For example, this could include the transfer of your information from an EEA country to Australia, and vice-versa.
+
+### **4.   Your Rights and Access to Information**
+
+RMIT takes reasonable steps to ensure that personal information held is accurate, complete and up-to-date. RMIT relies on you to provide us with accurate and current information in the first instance, and to notify us when your circumstances or details change.
+
+You have certain rights to seek access to personal information we hold about you (including, in some cases, in portable form), and to obtain its correction, update, amendment or deletion in appropriate circumstances, regardless of your location. You also have rights to withdraw your consent or request that we restrict how your information is used.
+
+You may seek access to personal information we hold about you or to update and correct your information. In some instances, you will be able to access and update your personal information yourself through online portals such as myRMIT. Otherwise, you may access and/or correct your personal information by directly contacting the area of RMIT that has the information in the first instance, or if unknown:
+
+  * [RMIT Connect](https://www.rmit.edu.au/students/contact-and-help/connect) for students
+  * [HR Assist](https://www.rmit.edu.au/staff/my-employment/hr-assist) for staff in Australia
+  * The RMIT Privacy Office via email [privacy@rmit.edu.au](mailto:privacy@rmit.edu.au)
+  * RMIT Europe (Spain) via email [europe@rmit.edu.au](mailto:europe@rmit.edu.au), where applicable.
+
+
+
+In some situations, access will not be appropriate, and you may be required to make a formal Freedom of Information request, for example, if a third party’s privacy is involved. The Freedom of Information Act (Vic) provides that where a document relating to the personal affairs of a person is released that person is entitled to request a correction where the information is inaccurate, incomplete, or out of date. Information about the Freedom of Information process at RMIT is available at the following link: [https://www.rmit.edu.au/about/governance-and-management/foi](https://web.archive.org/content/rmit-ui/en/about/governance-and-management/foi.html).  
+
+
+In certain circumstances, you can:  
+
+
+  * Rectify personal information held about you where it is incorrect or incomplete (right to rectification)
+  * Request that your personal information be deleted if certain grounds are met (right to erasure)
+  * Restrict or object to how your personal information is used (right to object and restrict processing); and
+  * Obtain a copy of your data in a commonly used electronic form, or request that we share your personal information with any person acting on your behalf (such as agents, guardians, employers, government departments) (right to portability).
+
+
+
+To exercise these rights, please contact us. The rights and options described above are subject to limitations and exceptions under applicable law. In addition to those rights, you have the right to make a complaint. We encourage you to contact us first, and we do our very best to resolve your issue.  
+
+
+### **5.   Website Privacy**
+
+RMIT may make a record of your visits to RMIT websites and log information for statistical and system administration purposes, including but not limited to:
 
   * Your server address;
   * Your domain name;
@@ -107,14 +153,29 @@ RMIT may make a record of your visits to RMIT websites and log information for s
 
 
 
-RMIT uses web analytics software to better understand how people use our website. We also allow third parties, such as Google and Facebook, to use cookies, web beacons and similar technologies to collect or receive information. This is used to gain better insights about our audiences (for example, visitor demographics and interests), so we can improve website user experience and offer more relevant and personalised content as you navigate through ours and other websites.
+RMIT uses web analytics software to better understand how people use our website. We also allow third parties, such as Google, to use cookies, web beacons and similar technologies to collect or receive information. This is used to gain better insights about our audiences (for example, visitor demographics and interests), so we can improve website user experience and offer more relevant and personalised content as you navigate through our and other websites.  
 
-You can choose to change your browser's cookie settings via your browser privacy settings, including blocking of the use of cookies. However, this may result in an inability to login or view some RMIT or third party web pages. 
 
-**Questions or complaints about Privacy at RMIT**
+A cookie is a small text file that is sent to your device by means of your web browser. The information stored can be re-sent to our servers during a next website visit. Cookies will not store personal information and cookies will not harm your computer.
 
-To raise any concerns you might have in relation to privacy, please contact the RMIT Privacy Compliance Advisory on (03) 9925 1161 or email [privacy@rmit.edu.au](mailto:privacy@rmit.edu.au).
+Cookies may store the following information: session (numbered key) and duration. A numbered key is a unique server-generated number used to track your current session. The session key can be linked back to your login identification for authentication purposes and to improve security during your session online.
 
-Individuals have the right to make a privacy complaint to RMIT. Complaints must be made in accordance with the Privacy complaints procedure.
+You can choose to change your browser's cookie settings via your browser privacy settings, including blocking of the use of cookies. However, this may result in an inability to login or view some RMIT or third-party web pages.
+
+If you leave an RMIT website and visit a website operated by a third party, RMIT cannot be held responsible for the protection and privacy of any information that you provide to third party websites. Accordingly, we always encourage you to exercise caution and review the privacy statement applicable to the website you visit.
+
+### **6.   Complaints about Privacy**
+
+If you are concerned that RMIT may have breached its privacy obligations or this Privacy Statement, please contact us (see section 7). When contacting us, please provide as much detail as possible in relation to your issue or complaint.
 
 RMIT takes privacy-related complaints very seriously and undertakes to resolve privacy complaints in a timely, fair and transparent way.
+
+If you are not satisfied with our handling of your complaint, you may refer the issue to the Office of the Victorian Information Commissioner (at [privacy@cpdp.vic.gov.au](mailto:privacy@cpdp.vic.gov.au)), or in some circumstances, the relevant supervisory authority in another jurisdiction. 
+
+### **7.   How to contact us**
+
+Please feel free to contact us on (03) 9925 1161 or email [privacy@rmit.edu.au](mailto:privacy@rmit.edu.au) if you have any questions or concerns about this Privacy Statement or RMIT’s collection, use or disclosure of your personal information.
+
+### **8.   Changes to the Privacy Statement**
+
+We may change this Privacy Statement without notice, particularly where there are new developments in our working practice or if there are changes in the relevant laws. Therefore, we encourage you to check back occasionally to see if anything has changed. The most recent substantive change to this Privacy Statement was made 23 May 2018. 
