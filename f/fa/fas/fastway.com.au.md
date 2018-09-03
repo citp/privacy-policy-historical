@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastway.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313212851id_/https%3A//www.fastway.com.au/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastway.com.au privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903201713id_/https%3A//www.fastway.com.au/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Fastway Couriers | Privacy policy
 
@@ -6,7 +6,9 @@ Fastway Couriers understands that privacy of your personal information is import
 
 #### What kinds of personal information does Fastway Couriers collect and hold?
 
-The personal information we will collect from you depends on your relationship with Fastway Couriers. As a customer or supplier it will generally include your name, business and email addresses and contact numbers, and may include your bank account details. If you are a franchisee of Fastway Couriers personal information collected may extend beyond this to include your drivers licence number, vehicle registration number, financial details, photo and date of birth. We do not collect personal information that we do not need. Our website does not use persistent cookies.
+The personal information we will collect from you depends on your relationship with Fastway Couriers. As a customer or supplier it will generally include your name, business and email addresses and contact numbers, and may include your bank account details. Our electronic label printing platform requires customers to enter a consignees address and telephone number to enable Fastway to contact the consignee in the event that a delivery cannot be effected on the first attempt. If you are a franchisee of Fastway Couriers personal information collected may extend beyond this to include your driver's licence number, vehicle registration number, financial details, photo and date of birth. We do not collect personal information that we do not need. Our website does not use persistent cookies.
+
+All customer, supplier and franchisee data is securely stored and in compliance with the Australian Privacy Principles (APP) outlined in the Australian Privacy Act 1988. This data is not used for marketing purposes and will not be shared with third parties.
 
 #### How is personal information collected and held?
 
@@ -53,8 +55,6 @@ The Privacy Officer – Fastway Couriers (Australia)
 PO Box Q841  
 QVB Post Office  
 NSW 1230  
-p: +61 (0) 2 8263 3900  
-f: +61 (0) 2 9264 4966  
 e: privacy@fastway.com.au
 
 Our privacy policy was last updated on 25 May 2015.
