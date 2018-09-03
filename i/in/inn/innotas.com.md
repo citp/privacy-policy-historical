@@ -1,123 +1,74 @@
-> *The following text is extracted and transformed from the innotas.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617022304id_/https%3A//www.innotas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innotas.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903173709id_/https%3A//planview.com/legal/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Policy | Innotas: Project Portfolio & Resource Management Software
+# Privacy Policy
 
-## Innotas Privacy Policy and Safe Harbor Compliance
+Planview and its subsidiaries respect your privacy. In order to provide you with relevant information and respond to your requests, we sometimes request that you provide us with information about yourself. This Privacy Statement informs you of our privacy practices and of the choices you can make about the way your information is collected online and how that information is used. Planview operates in the business-to-business software industry, and does not focus on consumer users or the collection of consumer data. To the extent we collect information on-line, our purpose is to better serve our business customers. Also, any reference to a Planview website includes all of our websites as well as those of our subsidiaries. As you read this Privacy Statement, note that Planview maintains these same privacy practices with respect to data that is collected off-line. This Privacy Statement applies with respect to both our on-line and off-line methods of data collection and use of the information collected. Planview complies with the Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from EU member countries to companies in the United States. Planview has certified that it adheres to the Privacy Shield Principles of notice, choice, onward transfer, security, data integrity, access, recourse, enforcement and liability. To learn more about the Privacy Shield framework, and to view Planview’s certification, please visit the [Privacy Shield Website](https://www.privacyshield.gov/ "Privacy Shield Website"). This Privacy Policy does not apply to the practices of third parties that Planview does not own or control, or to individuals that Planview does not employ or manage. You can request a copy of this Privacy Policy by contacting us at [email privacy@planview.com to request a copy of this Privacy Policy](mailto:privacy@planview.com "Request a copy of this Privacy Policy").
 
- _Last Updated: August 25, 2015_
+## The Types of Information Planview Collects
 
-Innotas, Inc. (" **Innotas** " or " **we** " or " **us** ") respects your privacy and is committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you, and how we use and disclose that information.
+Some portions of our website may request that you provide us with information about yourself from which we are able to identify you. Examples of this personally identifiable information include your name, contact information (phone and fax numbers, street address, and email address), company name, work title and payment data. Some of the ways in which we may collect personally identifiable information from you are:
 
-**Information We Collect**
-
-**_Information You Provide to Us_**
-
-When you place a pre-order or order with us for our software products, the information we collect may include your name, phone number, e-mail address, mailing address, billing address, shipping address, credit card or other payment information and, if applicable, EU VAT number or other tax ID. We will also keep the details of your order and of its fulfillment.
-
-If you are a user of our products and create or update an Innotas Account, we may collect your username, e-mail address and e-mail preferences, and password for your account.
-
-When you fill in other forms on our website, enter a contest or promotion sponsored by us, when you fill out a survey, when you provide feedback or submissions to our website, or when you contact us through our website, by sending us an email, phone or other communication, we collect the information you provide.
-
-**_Information We Collect From our Products and Services_**
-
-We collect information automatically when you use our software and our website.
-
-**Our Software.** We collect information when you use our software.
-
-When you use our software while your computer is connected to the Internet, we collect the IP address, web browser version, and operating system. We also collect performance data such as frequency and duration of use, as well as data as to which pages of our application are visited. This information is tied to your user ID associated with your Innotas Account.
-
-Certain aspects of our application store navigation related information locally on your computer in the form of cookies.  Additionally, certain features of our software may use local stored objects (Flash cookies) to collect and store information about your preferences and navigation to, from and within our application. Flash cookies are not managed by the same browser settings as are used for browser cookies. For more information about Flash cookies, see Choices about How We Use Your Information.
-
-**Our Website.**   We collect information when you use our website at [www.innotas.com](http://www.innotas.com/) and sub-sites.  This information includes usage details, page visits, IP addresses, web browser, and information collected through cookies and other tracking technologies.  The technologies we use for automatic data collection through our website may include:
-
-  * Cookies (or browser cookies). A cookie is a small file placed on the hard drive of your computer. Our system will issue cookies unless you have activated the appropriate setting on your browser to disable them. If you disable cookies you may be unable to access certain parts of our website.
-  * Flash Cookies. Certain features of our website may use local stored objects (Flash cookies) to collect and store information about your preferences and navigation to, from and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies. For more information about Flash cookies, see _Choices about How We Use Your Information_
-  * Pixel Tags and Click-Throughs. Pages of our website and e-mails we send you may contain small electronic files known as pixel tags (also referred to as clear gifs, web beacons, and single-pixel gifs) that permit us, for example, to count users who have visited those pages or opened an e-mail, and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).  Pixel tags may also be used to track when you leave the site and to then allow a third-party to serve you an ad on a third-party website. ** ** We may also use “click-through URLs” in emails to prompt you to provide or update information, or to read promotional emails.  When customers click through those URLs they may pass through another server before arriving at the destination page on our website.
+  * Product information requests
+  * White papers or other downloads
+  * Event registrations for Webcasts, conferences, seminars, etc.
+  * Product support registration
+  * Education registration
 
 
 
-We do not collect personal Information automatically from use of our website (except to the extent an IP address is considered personal information in some jurisdictions), but we may tie this information to personal information about you that we collect from other sources or you provide to us.
+In addition to the information you provide, Planview may also collect information during your visit to our website through the use of automatic data collection tools such as cookies (described below) and other commonly used information-gathering tools. These tools collect certain standard information that your browser sends to our website such as your browser type, the Internet Protocol (IP) address by which you are accessing the Internet, the address of the website from which you arrived at a Planview website, and the date and time of visits. We may also gather aggregate, non-personally identifiable information, such as the number of hits to our website. “Cookies” are small text files that store information about your interactions with a particular website, either temporarily (known as a “temporary” or “session” cookie, and deleted once you close your browser window) or more permanently on the hard drive of your computer (known as a “permanent” or “persistent cookie”). Cookies can make it easier to use a website by allowing servers to access certain information quickly:
 
-**How We Use Your Information**
-
-We use information that we collect, including any personal information about you: ** **
-
-  * To provide and improve software products and our website and services.
-  * To respond to requests that you make, to personalize your online experience on our website, and to better tailor the features, performance, and support of our products and services to you.
-
-
-  * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
-  * To contact you about our own goods and services that may be of interest to you, or in any other way we may describe when you provide the information.
+  * Session cookies can be used to help a user’s browser navigate a website more smoothly and may show up if the user comes from a website with which the subsequent website has some relationship (e.g., a website of an affiliated company) and can give helpful information.
+  * Persistent cookies can be used to customize a website for a user, such as by storing passwords, preferences, and registration and account information so that users do not have to re-enter this information each time they visit a website.
 
 
 
-**Disclosure of Your Information**
+Our website may use both session cookies and persistent cookies to store information that allows us to improve our customer service to you and provide you with the ability to navigate the website more easily. To make our website easier to use, we combine information collected via cookies with personally identifiable information. You can set your browser to decline cookies if you prefer. If you do so, you may not be able to access important functions or areas of our websites or enjoy the convenience of more easily navigating our website.
 
-We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
+## Use of Analytics Tools
 
-We may disclose personal information that we collect or you provide as described in this policy:
+Planview also uses web analytics services, which currently include Google Analytics and Marketo. **Google Analytics** is a web analytics service provided by Google Inc. (“ **Google** “). Google Analytics uses cookies and similar technologies to analyze how users use the Planview web sites. The information generated about website usage (including your shortened IP address) is transmitted to Google in the U.S. This information is used to evaluate visitors’ use of the Planview web sites, compile statistical reports on web site and visitor activity, and provide other services related to the site and Internet use. Google may also collect information about Planview visitors’ use of other websites. For more information about Google Analytics, or to opt out of Google Analytics, please go to: [The Google Analytics Opt-out Browser Add-on page at https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout "Google Analytics Opt-out Browser Add-on") We also use first party analytics tools, such as **Marketo** , to assist us with certain automated marketing efforts from your interactions on our website, including information you may provide. We use this information to better understand our customers and potential customers and to assess our marketing effectiveness and/or business performance.
 
-  * To contractors, service providers and other third party service providers we use to support our business. However, these service providers do not have any independent right to share this information (except pursuant to a legal requirement such as a subpoena or warrant).
-  * To our subsidiaries or affiliates.
-  * To fulfill the purpose for which you provide the information or for any other purpose disclosed by us when you provide the information.
-  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Innotas’s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by Innotas about our users is among the assets transferred.
+## Use of Social Media
 
+We use social media widgets as dynamic information sharing tools on our website (such as **AddThis** , **Pinterest** ) to engage in dialogue, share information and media, and collaborate with our visitors. Your activity on these social media sites is governed by the security and privacy policies of the third-party sites. Planview does not control, moderate or endorse the comments or opinions provided by visitors to these sites. You should review the privacy policies of all websites before using them and ensure that you understand how your information may be used. You should also adjust privacy settings on your account on any third-party website to match your preferences.
 
+## How Planview Uses the Information We Gather
 
-We may also disclose your personal information:
+The information Planview collects helps us to understand how our website is being used so that we can improve its quality and make it more helpful to our users. We may also use the information we collect about you to communicate with you about our products and services. These uses may include providing you with service and support, communicating with you and responding to your requests, and sending you information in relation to new products and services. If you do not provide certain information, you may still be able to access other portions of this website, although it may limit your access to certain information or services.
 
-  * To comply with any law, court order, legal process, or government or regulatory request
-  * To enforce or apply our terms of use at www.innotas.com and other agreements, including for billing and collection purposes.
-  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of us, our customers or others. This may include exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+## How Planview Shares This Information with Others
 
+Personal information collected on Planview sites and through our services may be stored and processed in the United States or any other country in which Planview or its subsidiaries or service providers maintain facilities. By providing the information via any of our websites, you are consenting to the transfer of the information outside of your country to any country (including countries which may not have adequate levels of protection). Planview shares information for business purposes only on a need-to-know basis and only with: its own employees and affiliates; the customer from which Planview received the information; Planview agents, consultants, subcontractors, and third-party service-provider companies, that have agreed to take measures to safeguard your information and other entities authorized to have access to such information under applicable law or regulation. Except as described in this Privacy Statement, Planview will not share the personal information you provide to Planview with non-Planview third parties without your permission except as required by law or when necessary in order to protect the rights of Planview or its employees.
 
+## Links to Non-Planview Websites
 
-**Choices about How We Use Your Information**
+This website may provide links to unaffiliated, third-party websites for your convenience and information. If you access these links, you will leave the Planview website. Planview has no control over these websites and is not responsible or liable for the policies and practices followed by third parties. The personal data you choose to provide to or that is collected by these third parties is not covered by this Privacy Statement. If you link to or otherwise visit any other websites managed by third parties, we encourage you to review the privacy policies posted at those sites before submitting your personal information.
 
-We offer you choices regarding the collection, use, and sharing of your personal information. When you receive promotional communications from us, you may indicate a preference to stop receiving further promotional communications from us and you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the promotional e-mail you receive.
+## How Planview Keeps Your Personal Information Secure
 
-Despite your indicated e-mail preferences, from time to time we may use your personal information to send important notices, such as communications about purchases and changes to our terms, conditions, and policies. Because this information is important to your interaction with us, you may not opt out of receiving these communications.
+Planview is committed to protecting the security of your personal information. We use a variety of appropriate physical, technical and administrative procedures to safeguard the information we collect – to process information only in ways compatible with the purpose for which it was collected; to carefully protect it from unauthorized access, disclosure, or alteration; and to maintain data accuracy. When collecting or transferring sensitive information such as credit card information, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. Please keep in mind that while we have established safeguards to help prevent unauthorized access to or misuse of your personally identifiable information, we cannot guarantee that it will never be disclosed in a manner inconsistent with this Privacy Statement (for example, in the event of unauthorized acts by third parties that violate applicable law or our policies). In addition, if a password is used to help protect your accounts and personal information, it is your responsibility to keep your password confidential. Do not share this information with anyone. If you are sharing a computer with anyone you should always log out before leaving a site or service to protect access to your information from subsequent users.
 
-You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe\\\\\\\'s website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
+## How You Can Access and Update Your Information
 
-**Accessing and Correcting Your Information**
+Planview provides individuals with the ability to know whether we hold information about you and, if we do (subject to certain limitations), to have access to that information and have it corrected if it is inaccurate or out of date. In certain cases, this may be accomplished by submitting a request through the [Planview Data Subject Access Request portal](https://app-eu.onetrust.com/app/#/webform/722e3c00-70f6-425c-b619-f0a700b4ce7f).
 
-You may change your email address, password and other information for your Innotas Account by editing them in your account page. You may also contact us through www.innotas.com/contact to request access to, correct or delete any personal information that you have provided to us. Please note that we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request, only after we have fulfilled such requirements).
+## Children
 
-**Data Security and Retention of Personal Information**
+Consistent with the federal Children’s Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requiring parental consent. Any person who provides their personal information to Planview through this website represents that they are 13 years of age or older.
 
-We make reasonable efforts to protect your personal information, but no company, including us, can fully eliminate security risks connected to handling information on the Internet.
+## Changes and Updates to this Privacy Statement
 
-Where we have given you (or you have chosen) a password for access to certain parts of our application or your account, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. Unfortunately, the transmission of information via the Internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to us. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the website or our products or services. We will retain your personal information for the period necessary to fulfill the purposes outlined in the policy unless a longer retention period is required or permitted by law.
+We may occasionally update this Privacy Statement. When we do, we will also revise the “last updated” date on the Privacy Statement. For changes to this Privacy Statement that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will attempt to obtain your consent before implementing the change. We encourage you to periodically review this Privacy Statement to stay informed about how we are protecting the personal information we collect. Your continued use of this website constitutes your agreement to this Privacy Statement, as it may be modified from time to time.
 
-**Third-Party Sites and Services**
+## International Transfer of Data
 
-Our website, applications, and services may contain links to third-party websites, products, and services. Information collected by third parties, which may include such things as location data or contact details, is governed by their privacy practices. We are not responsible for that data collection or how it is used, and we encourage you to learn about the privacy practices of those third parties. ** **
+Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the Sites or disclosing information to us you consent to the transfer of information to countries outside of your country of residence, including the United States, Germany, Ireland, Sweden and the UK, which may have different data protection rules than those of your country or the country in which you were located when you initially provided the information.
 
-**Children under the Age of 13**
+## Contacting Planview
 
-Our website, products and services are not intended for children under 13 years of age.  We do not knowingly collect personal information from children under 13.  If you are under 13, do not use or provide any information on our website, products or services. If we learn we have collected or received personal information from a child we will take steps to delete that information as soon as possible. ** **
+If you have any questions, comments or complaints about our Privacy Statement, please email us at [Privacy@planview.com (Planview Privacy)](mailto:Privacy@planview.com "Email Planview Privacy") or write to us at the following address: Planview, Inc. 12301 Research Boulevard Building 5, Suite 101 Austin, Texas 78759
 
-**International Users**
+## Planview’s Privacy Commitments per Privacy Shield, applicable only to Planview SaaS customers
 
-Innotas, Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Innotas, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Innotas’ certification, please visit <http://www.export.gov/safeharbor/>.  European Union and Swiss Residents, if your complaints cannot be resolved, we have agreed to participate in the dispute resolution procedures of the American Arbitration Association pursuant to the US-EU Safe Harbor and US-Swiss Safe Harbor Privacy Principles.
-
-**Changes to Our Privacy Policy**
-
-We will post any changes we make to our privacy policy on this page with a notice that the privacy policy has been updated on the Website home page, and/or by e-mail to the e-mail address specified in your account. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our website and this privacy policy to check for any changes.
-
-**Contacting Innotas**
-
-To ask questions or comment about this privacy policy and our privacy practices, you may contact Innotas in the following ways:
-
-**Web**  
-<https://innotas.com/contact>
-
-**Postal**  
-Innotas, Inc.  
-111 Sutter Street, Suite 300  
-San Francisco, CA 94104  
-U.S.A.
-
-**Phone**  
-+1 415 263 9800
+Planview adheres to the Privacy Shield Principles ([the Privacy Shield website – www.privacyshield.gov](https://www.privacyshield.gov/ "Privacy Shield")) when processing personal information of its customers using Planview Enterprise, Troux and Innotas solutions. Planview is committed to achieving and maintaining customer trust. Integral to this mission is providing a robust security and privacy program that carefully considers data protection matters. In accordance with the EU Data Protection Directive and implementing national legislation, the [Planview Data Protection Agreement](https://web.archive.org/legal/agreements/ "Planview Data Protection Agreement") is intended to provide an adequate level of protection for Personal Data during International transfers within Planview systems made on behalf of Customers and under their instructions. Planview is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). Planview also commits to cooperate with EU data protection authorities (DPAs) with regard to customer data transferred from the EU in the context of the cloud services provided by Planview (including Planview Enterprise, Troux, Projectplace and Innotas solutions). Planview, Inc and its subsidiaries are required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. Planview commits to inform its customers in the event of an information request regarding their personal information. In the context of an onward transfer, Planview has responsibility for the processing of personal information it receives under the Privacy Shield and subsequently transfers to a third party acting as an agent on its behalf. Planview remains liable under the Privacy Shield Principles if its agent processes such personal information in a manner inconsistent with the Principles. If you have a privacy concern regarding Planview or this Privacy Statement and if you cannot satisfactorily resolve it through the use of this website, please contact us as noted above. In the event that we are still unable to resolve your concerns, Planview is committed to cooperating to achieve a proper resolution of your privacy concerns. If a dispute is not resolved within 45 days or when not satisfied with the dispute resolution process, Planview customers have the right to invoke binding arbitration. _Last Updated 05/24/2018_
