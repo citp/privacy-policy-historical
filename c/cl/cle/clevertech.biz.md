@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clevertech.biz privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224160502id_/http%3A//clevertech.biz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clevertech.biz privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904015831id_/https%3A//www.clevertech.biz/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Clevertech
 
 This Privacy Policy governs the manner in which Clevertech collects, uses, maintains and discloses information collected from users (each, a "User") of the www.clevertech.biz website ("Site"). This privacy policy applies to the Site and all products and services offered by Clevertech.
 
@@ -55,12 +55,9 @@ As you browse www.clevertech.biz, advertising cookies will be placed on your com
 
 ## Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](https://web.archive.org/contact) at:
 
-Clevertech
-
-[www.clevertech.biz](http://www.clevertech.biz/)
-
-379 W Broadway, 2nd Floor, New York, NY
-
-+1 888 494-1260
+Clevertech  
+[www.clevertech.biz](http://www.clevertech.biz/)  
+135 East 57th Street, 6th Floor, New York, NY  
++1 888 494 1260
