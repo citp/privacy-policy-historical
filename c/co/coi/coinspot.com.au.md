@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coinspot.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313162230id_/https%3A//www.coinspot.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coinspot.com.au privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904011221id_/https%3A//www.coinspot.com.au/privacy) for the most accurate reproduction.*
 
-# Buy & Sell Bitcoin, Dogecoin, Litecoin - CoinSpot
+# Privacy Policy - CoinSpot
 
 At CoinSpot, we are committed to protecting your privacy in accordance with the Privacy Act 1988 (Cth). This Privacy Policy describes our current policies and practices in relation to the collection, handling, use and disclosure of personal information. It also deals with how you can complain about a breach of the privacy laws, how you can access the personal information we hold about you and how to have that information corrected. 
 
@@ -26,7 +26,7 @@ Upon receipt of your written request and enough information to allow us to ident
 
 #### What happens if you want to complain?
 
-If you have any concerns about whether we have complied with the Privacy Act or this Privacy Policy when collecting of handling your personal information, please submit a support request from CoinSpot’s website or email us at [CoinSpot Privacy](https://web.archive.org/cdn-cgi/l/email-protection#90e0e2f9e6f1f3e9d0f3fff9fee3e0ffe4bef3fffdbef1e5). Your complaint will be considered by us through our internal complaints resolution process and we will try to respond with a decision within 45 days of you making the complaint. 
+If you have any concerns about whether we have complied with the Privacy Act or this Privacy Policy when collecting of handling your personal information, please submit a support request from CoinSpot’s website or email us at [CoinSpot Privacy](mailto:privacy@coinspot.com.au). Your complaint will be considered by us through our internal complaints resolution process and we will try to respond with a decision within 45 days of you making the complaint. 
 
 #### Your Consent
 
@@ -34,7 +34,7 @@ By opening an account with CoinSpot and using our Platform and Services, you con
 
 #### Tell us what you think
 
-We welcome your questions and comments about privacy. If you have any concerns or complaints, please submit a support request from CoinSpot’s website or email us at [CoinSpot Privacy](https://web.archive.org/cdn-cgi/l/email-protection#bececcd7c8dfddc7feddd1d7d0cdced1ca90ddd1d390dfcb). 
+We welcome your questions and comments about privacy. If you have any concerns or complaints, please submit a support request from CoinSpot’s website or email us at [CoinSpot Privacy](mailto:privacy@coinspot.com.au). 
 
 ## Web Data
 
