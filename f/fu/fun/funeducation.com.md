@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the funeducation.com privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919122450id_/http%3A//www.funeducation.com/Company/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funeducation.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903111036id_/https%3A//www.funeducation.com/Company/Privacy) for the most accurate reproduction.*
 
-# FunEducation, Inc. Privacy Statement
+# Privacy Policy - FunEducation.com
 
-  
-General Privacy Statement  |  [Children's Privacy Policy](https://web.archive.org/web/20170919122450id_/http://www.funeducation.com/Company/Privacy/Children.aspx)
-
-* * *
-
-FunEducation, Inc. Privacy Statement
+General Privacy Statement  |  [Children's Privacy Policy](https://www.funeducation.com/Company/Privacy/Children.aspx)
 
 FunEducation, and its affiliated companies including Bright Education (collectively referred to as "FunEducation") fully respects your rights to privacy and developed this statement to demonstrate our firm commitment to protecting your privacy. The following privacy policy discloses the information gathering and dissemination practices for the funeducation.com Web site and any subdomains, such as brighted.funeducation.com (the "Site").
 
@@ -55,7 +50,7 @@ We send all new members a welcoming email to verify password and username. Estab
 
 **PROFILE**
 
-We store information that we collect through cookies, log files, clear gifs, and third party sources to create a “profile” of your preferences. We tie your personally identifiable information, and your purchasing history, to information in the profile, in order to provide tailored promotions and marketing offers and to improve the content of the site for you. 
+We store information that we collect through cookies, log files, clear gifs, and third party sources to create a "profile" of your preferences. We tie your personally identifiable information, and your purchasing history, to information in the profile, in order to provide tailored promotions and marketing offers and to improve the content of the site for you. 
 
   Supplementation of Information   
 In order to provide certain services to you, we may on occasion supplement the personal information you submitted to us with information from third party sources such as: 
@@ -77,23 +72,23 @@ Third parties will protect your information as FunEducation would under the term
 
 **COOKIES**
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We link the information we store in cookies to personally identifiable information you submit while on our site. We use both session ID cookies and/or persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. 
+A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We link the information we store in cookies to personally identifiable information you submit while on our site. We use both session ID cookies and/or persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. 
 
-  We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. 
+  We set a persistent cookie to store your passwords, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. 
 
 **LOG FILES**
 
 As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
 
-  We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. 
+  We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. 
 
   We do link this automatically-collected data to personally identifiable information to track and store testing results. 
 
 **CLEAR GIFS** (Web Beacons/Web Bugs)
 
-We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We may tie the information gathered by clear gifs to our customers’ personally identifiable information. 
+We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We may tie the information gathered by clear gifs to our customers' personally identifiable information. 
 
-  We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see “Opt-Out Policy.” 
+  We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see "Opt-Out Policy." 
 
 **CUSTOMER SERVICE**
 
@@ -105,7 +100,7 @@ We share demographic data, sales, traffic patterns and related site information 
 
 **TELL A FRIEND**
 
-If you elect to use our referral service for informing a friend about our Site, we will ask you for the friend’s name and email address. We will automatically send your friend a one-time email inviting them to visit the Site. We use this information for the sole purpose of sending this one-time email. We do not store, rent, sell or trade these e-mail addresses. 
+If you elect to use our referral service for informing a friend about our Site, we will ask you for the friend's name and email address. We will automatically send your friend a one-time email inviting them to visit the Site. We use this information for the sole purpose of sending this one-time email. We do not store, rent, sell or trade these e-mail addresses. 
 
 **SECURITY PROCEDURES**
 
@@ -130,6 +125,3 @@ If you would like to revise the information provided to us, or feel that what we
 If we decide to change our privacy policy, we will post those changes to this privacy statement and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
   We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
-
-  
-< [ Back to Homepage ](https://web.archive.org/web/20170919122450id_/http://www.funeducation.com/)
