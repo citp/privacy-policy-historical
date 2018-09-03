@@ -1,301 +1,368 @@
-> *The following text is extracted and transformed from the trustpilot.co.uk privacy policy that was archived on 2018-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180120174514id_/https%3A//uk.legal.trustpilot.com/end-user-privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustpilot.co.uk privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903214127id_/https%3A//uk.legal.trustpilot.com/end-user-privacy-terms) for the most accurate reproduction.*
 
 # Privacy Policy
 
-In this document, "Trustpilot", "we" "us" and "our" refer to Trustpilot A/S located at Pilestraede 58, 5th floor, 1112 Copenhagen, Denmark and its affiliates.
+## **                                                                             PRIVACY POLICY **
 
-When you write a review on Trustpilot or otherwise use our websites, including but not limited to [www.trustpilot.co.uk](http://www.trustpilot.co.uk/), or our applications (collectively referred to as the "Website"), you **accept** the processing of your personal data (the "Policy") as described in this Policy.
+                                                                                                     (Version 7.0, May 2018)
 
-We recommend that you **print** and **keep** this Policy.
+When you write a review on Trustpilot or otherwise use our Website, we collect and process personal data about you. This document helps you understand what personal information we collect about you, how we collect it, what we use it for, and what rights you have regarding your personal data.
 
-### 1  Types of information we collect and what we use it for
+When we talk about “Trustpilot,” “we,” “us” or “our,” we mean Trustpilot A/S and our affiliates. We also use “Policy” to refer to this Privacy Policy and “Website” to refer to our applications and all of Trustpilot’s websites, like [uk.trustpilot.com](https://uk.trustpilot.com/ "https://uk.trustpilot.com"), [dk.trustpilot.com](https://dk.trustpilot.com/ "https://dk.trustpilot.com"), [de.trustpilot.com](https://de.trustpilot.com/ "https://de.trustpilot.com") etc.
 
-1.1  Master data
+Trustpilot A/S is the entity responsible for processing your personal data.
 
-When you create a profile and write your first review on the Website, we collect the following master data about you (the "Master Data"):
+### **1   Personal data - what we collect and what we use it for**
 
-  * Your username,
-  * Your password, and
+1.1  Master data
+
+When you create a profile or write your first review on the Website, we will automatically generate a personal account for you on Trustpilot (“Account”) and collect the following personal data about you (the “Master Data”):
+
+  * Your username (this will be public)
+  * Your securely encrypted password, and
   * Your email address.
 
 
 
-You can choose to add further information to your profile, such as your photo, gender and location. This information is also regarded as Master Data.
+This information is mandatory, which means that it will not be possible to write a review on the Website without it.
 
-We display your username (and other information you add to your profile) in connection with your review(s). Therefore, please be aware that depending on the information you provide, you may or may not be anonymous.
+You can choose to add further personal data to your profile. The additional data you can add is your name, a profile description, photo, gender, city, country, and language. This additional information will be part of your public profile and will also be part of the Master Data.
 
-1.2  Information in reviews and ratings
+Trustpilot is an open review platform and when we display your review we will connect it to your profile so that people can see who wrote the review. Therefore, please be aware that depending on the information you add to your profile and the username you choose, you may or may not be anonymous.
 
-When you write a review of a company on our Website, we also collect the information you include in your review, such as:
+1.2  Information in reviews and ratings
 
-  * Which company you review,
-  * The type of buying or service experience the review concerns (see the definition of "Service Experience" in our User Guidelines),
-  * Your evaluation of your Service Experience with the company, e.g. the star rating you provide,
-  * The date of your review and, if you update your review, the date on which it is edited,
-  * A reference number or order ID (if you or the company provides one), and
-  * If you are requested to provide documentation verifying your Service Experience and you send us such documentation, we will collect and process the documentation for the purpose(s) stated in the request.
+When you write a review about a company and post it on our Website, we collect the information you put in your review. This includes:
+
+  * Which company you review
+  * The type of buying or service experience your review concerns (see the definition of “Service Experience” in our [User Guidelines](http://uk.legal.trustpilot.com/user-guidelines "http://uk.legal.trustpilot.com/user-guidelines"))
+  * The headline and content of your review
+  * Your rating of your Service Experience with the company (1-5 stars)
+  * The date of your review and, if you update your review, the date on which it is edited
+  * A reference number or order ID (if you or the company provides one)
+  * If we ask you to provide information or documentation verifying your Service Experience and you send us such documentation, we will collect and process the documentation for the purpose(s) stated in the request.
 
 
 
-1.3  Information from other services, including social networks
+Please don’t share any sensitive personal documents or information with us, either concerning yourself or others.
 
-As part of our services, we offer you the option of connecting your Trustpilot profile on the Website with your profile on social networks such as Facebook, Google+, LinkedIn and Twitter ("Social Network(s)"). We automatically collect selected information about you from Social Networks when you use this option. The information we collect depends on what information you have made available on the Social Networks and your privacy settings for sharing such information on the Social Networks. We may collect the following:
+1.3  Information about views, likes and how useful your review is for others
+
+When you write a review of a company on our Website, people can show that they find your review useful, for example by “liking it”, and we collect this information. We also collect information about how many people read your review. We don’t track the identities of people who aren’t logged in and read the reviews, but we do collect data on the number of consumers who read your review. If you “like” another person’s review we will also collect that information.
+
+1.4  Notifications
+
+If you notify us about a review that you believe violates our User Guidelines, then we collect the information you provide in your notification to us. This can include which review you notified us about, the reason for your notification, the date of your notification, etc.
+
+1.5  Information from other services, including social networks like Facebook
+
+You can connect your Trustpilot profile with your profile on social networks, e.g. Facebook, and Google+ (“Social Network(s)”). When you use this option we automatically collect selected information about you from your Social Networks. The information we collect depends on what information you have made available on those Social Networks and your privacy settings for sharing such information on the Social Networks. Depending on your settings and selection, we will collect the following information:
 
   * Name and/or username
   * Email address
-  * Gender
-  * Date of birth
   * Profile photo
-  * Location
-  * Your social connections
-  * Other information you have made public via the Social Network
+  * Who your social connections are
 
 
 
 When you make a request to connect your Trustpilot profile with a Social Network profile, you will be informed about which information we will collect from the Social Network in question. You will receive this information before your request is carried out.
 
-1.4  Cookies
+You can choose to disconnect your Social Network profile from your Trustpilot profile via your Account. At this point, Trustpilot will remove your Social Network unique ID, and disconnect/revoke Trustpilot from your Social Network. Your profile picture from your Social Network profile will remain on your Trustpilot profile.
 
-The Website uses cookies. Cookies are digital information which is stored on your computer. Cookies identify your computer rather than you as an individual user, and are used for different purposes.
+1.6  Cookies
 
-Read more about which cookies the Website uses and for which purposes below (section 7).
+Our Website uses cookies. Cookies identify your computer or device rather than you as an individual user, and are used for different purposes.
 
-1.5  Your IP address, browser settings and location
+Read more about which cookies the Website uses and for which purposes below (in 8).
 
-When you visit the Website, we register your computer's IP address and browser settings. The IP address is the numerical address of the computer used to visit the Website. Browser settings can include the type of browser you use, browser language, and time zone. We collect this information so that we can trace the computer used in cases of misuse or unlawful actions in connection with visits to or use of the Website. Further, we use the IP address to approximate your location (at city level).
+1.7  Your IP address, browser settings and location
 
-1.6  Newsletter sign-up information  
+When you visit the Website, we register your computer’s IP address and browser settings. The IP address is the numerical address of the computer used to visit the Website. Browser settings can include the type of browser you use, browser language, and time zone. We collect this information so that we can trace the computer used in cases of misuse or unlawful actions in connection with visits to or use of the Website. We also use the IP address to approximate your location (at city level) and so that we know which sets of our Terms & Conditions apply to your use of our Website.
 
-We collect the information you provide us with when you sign up to receive our newsletters, such as your name and email address. If you no longer wish to receive our newsletters, you can unsubscribe by logging in to your user profile and changing your personal settings.
+1.8  Newsletters and digest emails  
 
-1.7  How we use this information  
+We collect the information you provide us with when you subscribe to receive our newsletters, digest emails or similar (we collect your name, email address and newsletter preferences). If you no longer wish to receive our newsletters, digest emails or similar, you can unsubscribe by logging into your Account and changing your settings.
 
-We may use the information you provide to us to:
+1.9  For what purposes do we use your personal information?
 
-  * Provide our services to you, including displaying your review, and providing you with access to our Website.
-  * Identify you as a registered user when you log in to the Website.
-  * Verify the legitimacy of reviews and ratings.
-  * Improve the Website and our services.
-  * Invite you to leave more reviews.
-  * Respond to your questions and provide related customer service.
-  * Contact you if your review is flagged by other users or companies and, if necessary, ask you to provide documentation to verify your review.
-  * Send you our newsletters.
-  * Inform you when other users find your review helpful or otherwise provide feedback in relation to your review.
-  * Facilitate our social sharing function, including giving you the option to connect members of your network who are both users of Trustpilot and users of one or more Social Networks.
-  * Engage in various internal business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products and services, improving or modifying the Website or our services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities.
-  * Comply with applicable legal requirements and legal process, requests from public and governmental authorities, relevant industry standards and our internal policies.
-  * Enforce our Terms & Conditions.
-  * Protect our operations or those of any of our affiliates.
-  * Protect our rights, privacy, safety or property and/or that of our affiliates, you or others.
-  * Allow us to pursue available remedies or limit any damages that we may sustain.
-  * Display which members of your Social Networks are users of Trustpilot in order to increase the confidence in reviews and to create a better user experience on our Website.
+We will use the information you provide to us to:
+
+  * Provide our services to you, including displaying your reviews, and providing you with access to your profile and our Website
+  * Identify you as a registered user when you log in to the Website and re-visit the Website
+  * Verify the legitimacy of your reviews
+  * Improve the Website and our services
+  * Invite you to leave more reviews
+  * Respond to your questions and provide related customer service
+  * Pass on a message from the company you reviewed via the Website
+  * Contact you if your review is flagged by other users or companies and, if necessary, ask you to provide documentation to verify your review or experience
+  * Send you our newsletters
+  * Inform you when other users find your review helpful or otherwise provide feedback concerning your review
+  * Facilitate the social sharing function, including giving you the option to connect with members of your network who are both users of Trustpilot and users of one or more Social Networks
+  * Display which members of your Social Networks are users of Trustpilot in order to increase confidence in reviews and to create a better user experience on our Website
+  * Engage in various internal business purposes, i.e data analysis, audits, fraud monitoring and prevention, developing new products and services, improving or modifying the Website, or our services including our TrustBoxes, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities
+  * Comply with legal requirements and legal process, requests from public and governmental authorities, relevant industry standards and our internal policies
+  * Enforce our [Terms & Conditions](http://uk.legal.trustpilot.com/end-user-terms-and-conditions "http://uk.legal.trustpilot.com/end-user-terms-and-conditions")
+  * Protect our operations or those of any of our affiliates
+  * Protect our rights, privacy, safety or property and/or that of our affiliates, you or others
+  * Allow us to pursue available remedies or limit any damages that we sustain
 
 
 
-We may also use the information in other ways for which we provide specific notice at the time of collection. We may use or disclose information that is not personal information for any purpose to the extent permitted by applicable law.
+We will also use the information in other ways for which we provide specific notice at the time of collection.
 
-### 2  Disclosure of personal information
+1.10  On what legal basis do we process your personal data?
 
-2.1  Disclosure of personal information on the Website
+We need to process your personal information in order to:
 
-Your acceptance of this Policy also implies consent to disclose information about you on the Website. This includes your username, which may reveal your identity in full or in part - unless you have chosen to use a pseudonym.
+  * Perform our contract with you (see Article 6.1.b of the GDPR)
+  * Comply with our legal obligations (see Article 6.1.c of the GDPR) and operate an online review platform in compliance with, for example, the Unfair Commercial Practices Directive, ICPEN’s guidelines on online reviews and endorsements, The Consumer Protection from Unfair Trading Regulations 2008, The Competition and Markets Authority’s guidance on online reviews and endorsements, the Danish Consumer Ombudsman’s Guidelines on publication of user reviews, the Danish Marketing Practices Act etc.
+  * Pursue legitimate business interests of our own related to operating the Website and providing our services to you, or to pursue the legitimate interests of third parties as long as your interests and fundamental rights do not override those interests (see Article 6.1.f of the GDPR).
+  * For the establishment, exercise or defence of legal claims, where necessary (see Article 9.2.f of the GDPR)
+
+
+
+Some of these grounds for processing your personal data overlap, so there may be several reasons which justify us processing your personal information.
+
+In those limited circumstances where you have expressly given your consent to us to process your personal data (see Article 6.1.a of the GDPR), for example, when subscribing to our newsletters, you are free to revoke your consent at any time. However, please be aware that we may have the right to continue to process your information if it can be justified on one of the other legal bases mentioned above.
+
+You have the right to object to how we process your personal information, or ask us to restrict the processing. Please see below, at 13, for more details.
+
+If you would like more information about our legal basis for processing your personal information, please contact our Data Protection Officer (DPO) - see 14, below.
+
+### 2  Disclosure of personal information
+
+2.1  Disclosure of personal information on the Website
+
+We are an open review platform and we share your review on our Website so that others can read about your experience with a specific company. When you write a review, we will disclose your review, your username and other information you have chosen to connect with your public profile. Remember that if you have selected to use your name as your username, this can reveal your identity in full or in part - unless you use a pseudonym.
 
 We recommend that you exercise care in deciding which information to make available for disclosing on the Website, and be aware that depending on the level of information provided, you may or may not be anonymous.
 
-Master Data
+**Master Data and other information**
 
-When you write a review on our Website and create a profile, your username will be visible to other users of the Website.
+When you write a review on our Website and create an Account, your username, review, photo, location and the number of reviews you have written will be visible on the Website. The companies you review can also receive information about your review.
 
-Other information
+**Geo-location**
 
-Other information provided by you on the Website, including photos and reviews, is automatically made visible on the Website. The companies you review may also receive information about your review.
+When you write a review on the Website, we use your computer’s IP address (see 1.7 of this Policy, above) to approximate your location to the nearest city. This information is made available to other users of the Website.
 
-Geo-location
+**Reviews you found useful**
 
-When you make a contribution to the Website, we use your computer's IP address (see section 1.4 of this Policy) to approximate your location to the nearest city. This is made available to other users of the Website.
+When you find other reviews useful (by “liking” them), other users of our Website can see the review(s) you “liked”.
 
-Social Networks
+**Social Networks**
 
-If you connect to a Social Network, information such as your profile photo, your name, birth year and approximate location will be collected from your Social Network profile and used to identify you on the Website. Subject to privacy settings and the level of information available from the Social Network, users of the Website may be able to use this information to identify which reviews you have written.
+If you connect to a Social Network, information such as your profile photo, your name, birth year and approximate location will be collected from your Social Network profile and used to identify you on the Website. Subject to your privacy settings and the level of information available from the Social Network, users of the Website can use this information to identify which reviews you have written.
 
-If you have chosen to preserve anonymity by using a pseudonym for your Trustpilot username, be aware that information from Social Network(s) may reveal your identity in part or in full and make it possible to identify which reviews you have written.
+If you have chosen to preserve anonymity by using a pseudonym for your Trustpilot username, be aware that information from Social Network(s) can reveal your identity in part or in full and make it possible to identify which reviews you have written.
 
-If your contacts or your contact's contacts (jointly referred to as "Connections") on the Social Network have also connected with Trustpilot, we may display on the Website how you are connected to these Connections through the Social Network.
+If your contacts or friends (referred to as “Connections”) on the Social Network have also connected with Trustpilot, we display on the Website how you are connected to these Connections through the Social Network. This is only visible to you. Other people on Trustpilot cannot see your Connections from Social Networks.
 
-2.2  Disclosure on services to which you connect your profile
+2.2  Disclosure on services to which you connect your profile
 
-If you choose to connect your Trustpilot profile with profiles on a Social Network, information and reviews provided by you on the Website or data compiled by us about your use of the service on the Website (e.g. the number of reviews you have written) will be shared with and displayed in connection with your profile on the Social Network and will be subject to the privacy policy of the Social Network.
+If you choose to connect your Trustpilot profile with your profile on a Social Network, information and reviews provided by you on the Website or data compiled by us about your use of the service on the Website (e.g. the number of reviews you have written) will be shared with and displayed in connection with your profile on the Social Network and will be subject to the privacy policy of the Social Network.
 
-2.3  Disclosure to other services and companies
+2.3  Disclosure to other services, websites and companies
 
 One of Trustpilot's main goals is to increase the exposure and availability of reviews on the Website. We therefore permit other services to show reviews created on the Website. This increases the potential audience for your reviews.
 
-The categories of third party services and companies to which the information is disclosed are:
+The categories of third party services and companies who can show your review(s) together with your public user profile are:
 
-  * Search engines, including Google and Bing.
-  * Companies reviewed on Trustpilot.
-  * Consumer portals and business portals, including price comparison websites, shopping guides etc.
-  * Application partners and platforms, such as Magento, Shopify, WooCommerce.   
-  * Other similar websites where, in Trustpilot's assessment, it will be relevant for users to search for reviews.
+  * Search engines, including Google and Bing
+  * Companies reviewed on Trustpilot
+  * Consumer portals and business portals, including price comparison websites, shopping guides, etc.
+  * Application partners and platforms, such as Prestashop, Magento, Shopify, WooCommerce   
+  * Other similar websites where, in Trustpilot’s assessment, it will be relevant for users to search for reviews.
+  * Facebook “If your review has been shared on the Social Network”
 
 
 
 Once you submit your review, it is published on the Website. This means that the following information is disclosed:
 
-  * Your review(s), (see section 1.2),
-  * Your username and, if uploaded, a profile photo as well as user demographics such as gender, and
-  * Your location (approximated to the closest city).
+  * Your review(s), (see 1.2, above)
+  * Your username and the additional data you choose to add to your profile, such as your name, a profile description, photo, gender, city, country, and language.
 
 
 
-If you write a review on Trustpilot in response to an invitation sent by a company via Trustpilot's invitation services, the company who sent you the invite will be able to link your review with the invitation.  
+If you write a review on Trustpilot in response to an invitation sent by a company via our review invitation services, the company who sent you the invite will be able to link your review with the invitation. 
 
-If we need to verify your review, we may contact you and ask for documentation that shows that you have had a Service Experience with the company that you have reviewed. We therefore recommend that you keep such documentation for 12 months from the date of your review. We explain the type of documentation you should send us here: [support.trustpilot.com/hc/en-us/articles/201839083-What-does-Trustpilot-look-for-in-a-Proof-of-Purchase-](https://support.trustpilot.com/hc/en-us/articles/201839083-What-does-Trustpilot-look-for-in-a-Proof-of-Purchase-)
+If we need to verify your review, we will contact you and ask for documentation that shows that you have had a Service Experience with the company that you have reviewed. We therefore recommend that you keep such documentation for 12 months from the date of your review. We explain the type of documentation you should send us here: [support.trustpilot.com/hc/en-us/articles/201839083-Which-documents-help-us-verify-your-review- ](https://support.trustpilot.com/hc/en-us/articles/201839083-Which-documents-help-us-verify-your-review- "https://support.trustpilot.com/hc/en-us/articles/201839083-Which-documents-help-us-verify-your-review- ")
 
-We do not share the documentation you send to us with the reviewed company. However, we may pass on your reference number to the company, unless you ask us not to.
+We do not share the documentation you send to us with the reviewed company. However, if you have a reference number or order ID, we may pass that on to the company, unless you ask us not to.
 
-2.4  Other disclosures
+2.4  Other disclosures
 
-In addition to the above, we may disclose your personal information to the following parties and in the following circumstances:
+In addition to the above, we disclose your personal information to the following parties and in the following circumstances:
 
-  * To allow third party vendors, consultants and other service providers to perform services on our behalf.
-  * To Trustpilot subsidiaries and other companies within the Trustpilot group of companies.
-  * To comply with laws or to respond to claims, legal process (including but not limited to subpoenas and court orders) and requests from public and government authorities.
-  * To cooperate with regulatory bodies and government authorities, including but not limited to Trading Standards, The Competition and Markets Authority, and the Danish Consumer Ombudsman, in connection with investigations or case referrals.  
-  * To third parties in connection with enforcement of our Terms & Conditions.
-  * To third parties in order for us to protect our operations or those of our affiliates.
-  * To third parties in order for us to pursue available remedies, or limit damages that we may sustain.
-  * To third parties in order for us to investigate, prevent or take action regarding suspected or actual prohibited activities, including but not limited to fraud and misuse of our Website.
-  * To a third party in the event of any reorganisation, merger, acquisition, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business or assets (including in connection with any bankruptcy or similar proceedings).
+  * To allow third party vendors, consultants and other service providers to perform services on our behalf
+  * To Trustpilot subsidiaries and other companies within the Trustpilot group of companies
+  * To comply with laws or to respond to claims, legal process (including but not limited to subpoenas and court orders) and requests from public and government authorities
+  * To cooperate with regulatory bodies and government authorities, including but not limited to Trading Standards, The Competition and Markets Authority, and the Danish Consumer Ombudsman, in connection with investigations or case referrals  
+  * To third parties in connection with enforcement of our [Terms & Conditions](http://uk.legal.trustpilot.com/end-user-terms-and-conditions "http://uk.legal.trustpilot.com/end-user-terms-and-conditions") and Guidelines
+  * To third parties in order for us to protect our operations or those of our affiliates
+  * To third parties in order for us to pursue available remedies, or limit damages that we may sustain
+  * To third parties in order for us to investigate, prevent or take action regarding suspected or actual prohibited activities, including but not limited to fraud and misuse of our Website
+  * To a third party in the event of any reorganization, merger, acquisition, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business or assets (including in connection with any bankruptcy or similar proceedings).
 
 
 
-### 3  Data controller
+### **3   Data controller**
 
-3.1  Information for which we are the data controller
+3.1  Information for which we are the data controller
 
-We are the data controller of the Master Data you enter in connection with your creation of a profile, which includes but is not limited to your name, password and email address, as well as the registration of your IP address.
+We are the data controller of the Master Data you enter to create and maintain your profile, which includes but is not limited to your name, password and email address, as well as the registration of your IP address.
 
-We are also the data controller of the information which is disclosed to other services (see section 2.3). Danish data protection laws govern collection of data by Trustpilot.
+We are also the data controller of the information which is disclosed to other services (see 2.3). Denmark’s data protection laws govern our collection of your data.
 
-3.2  Information for which you are the data controller
+3.2  Information for which you are the data controller
 
-You are the data controller for the content you choose to disclose on the Website, and for the data disclosed when you connect your Social Network profile(s) with your profile on the Website.
+You are the data controller for the content you choose to disclose on the Website, and for the personal data disclosed when you connect your Social Network profile(s) with your profile on the Website.
 
-### 4  Links to websites
+### **4   Links to websites**
 
-Our Website contains links to other websites. Our inclusion of such links does not imply our endorsement of those websites. We do not control the content of those third party websites, and assume no responsibility for the third party or their policies or practices.
+Our Website contains links to other websites. Our inclusion of such links does not imply that we endorse those websites. We do not control the content of those third party websites, and assume no responsibility for the third party or their policies or practices.
 
-We encourage you to review privacy policies for these third party websites because their procedures for collecting, handling and processing personal data may be different from ours.
+We encourage you to review the privacy policies for these third party websites because their procedures for collecting, handling and processing personal data will be different from ours.
 
-### 5  Data processor and transfer of personal information outside the EU
+### **5   Data processors and transfer of personal information outside the EU**
 
-We use external companies for maintaining the technical operation of the Website and our services. These companies are data processors for the personal data for which we are the data controller. By accepting this Policy, you agree that we may also allow the data for which you are the data controller to be processed by the same data processors.
+We use external companies to maintain the technical operation of the Website and our services. These companies are data processors for the personal data for which we are the data controller. By accepting this Policy, you agree that we may also allow the data for which you are the data controller to be processed by these data processors.
 
-The data processors must act solely in accordance with instructions from us. By accepting the Policy, you authorise us to give such instructions to the data processors to process data in accordance with the Policy and for the purpose of using the Website.
+We have data processing agreements in place with the data processors and it follows from these agreements that they must act solely in accordance with our instructions. By accepting this Policy, you authorize us to instruct the data processors to process data in accordance with the Policy and for the purposes of using the Website.
 
-The data processors have taken reasonable technical and organisational measures to protect against the information being accidentally or illegally destroyed, lost or deteriorated, and to protect against the information being disclosed to unauthorised persons, being misused, or in other ways being processed in violation of the Danish Act on Processing of Personal Data (Persondataloven). On your request - and possibly in return for possible remuneration at the data processors' applicable hourly rates at any time for such work - the data processors must supply you with sufficient information to demonstrate that the above-mentioned technical and organisational safety measures have been taken.
+The data processors have taken reasonable technical and organizational measures to protect against the information being accidentally or illegally destroyed, becoming lost or deteriorating, and to protect against the information being disclosed to unauthorized persons, being misused, or in other ways being processed in violation of data protection laws.
 
-Some of these data processors and third party services are located outside of the European Union, such as in the US. You consent to us using data processors in unsecure third countries provided that there is a legal framework governing the transfer of your personal data, for example if the company is part of the EU-US Privacy Shield framework.
+On your request – and possibly in return for remuneration at the data processors' applicable hourly rates at any time for such work – the data processors must supply you with sufficient information to demonstrate that the above-mentioned technical and organizational safety measures have been taken.
 
-### 6  Security measures
+Some of these data processors and third party services are located outside of the European Union, such as in the US. You consent to us using data processors in unsecure third countries provided that there is a legal framework governing the transfer of your personal data and ensuring adequate protection of it, for example if the data processor is part of the EU-US Privacy Shield framework.
 
-We seek to use reasonable organisational, technical and administrative measures to protect your personal information within our organisation and we regularly audit our system for vulnerabilities. However, since the internet is not a 100% secure environment, we cannot ensure or warrant the security of information you transmit to Trustpilot. Emails sent via the Website are not encrypted, and we therefore advise you not to include any confidential information in your emails to us.
+### **6   Data retention**
 
-### 7  Cookies
+We keep the Master Data and other personal data you provide, including your reviews, for as long as you have an Account or as needed to provide you with our services. If you choose to delete your Account please note that all your reviews will also be deleted. We will delete this information upon your request and we will only save a log with the following information: your name, email address and the date of the deletion of your Account. We will keep the log for 3 years. All other information will be deleted.
 
-The Website uses cookies and similar technologies ("Cookies"). By using our Website, you accept that we use Cookies as described below.
+If you only use our Website for searching for reviewed companies, we will retain your information and keep your Account open until you decide to close your Account. In some cases, even if you close your account, we then choose to retain certain information (e.g. visits to our Website) in an anonymized or aggregated form.
 
-7.1  What types of Cookies do we use?
+### **7   Security measures**
 
-Cookies are small pieces of information that the Website places on your computer's hard disk, on your tablet or on your smartphone. Cookies contain information that the Website uses to make the communication between you and your web browser more efficient. Cookies identify your computer rather than you as an individual user.
+We use reasonable organizational, technical and administrative measures to protect your personal information within our organization and we regularly audit our system for vulnerabilities. However, since the internet is not a 100% secure environment, we cannot ensure or warrant the security of the information you transmit to us. Emails sent via the Website may not be encrypted, and we therefore advise you not to include any confidential information in your emails to us.
 
-We use session cookies and persistent cookies, and technologies similar to session cookies and persistent cookies. Session cookies are temporary snippets of information that are deleted when you exit your web browser. Persistent cookies are more permanent snippets of information that are stored and remain on your computer until they are deleted. Persistent cookies delete themselves after a certain period of time but are renewed each time you visit the Website.
+To learn more about our current practices and policies regarding security and other information, please see our security practices [support.trustpilot.com/hc/en-us/articles/360000721308--Our-security-practices](https://support.trustpilot.com/hc/en-us/articles/360000721308--Our-security-practices "https://support.trustpilot.com/hc/en-us/articles/360000721308--Our-security-practices"). We are always working to improve our security practices and we will update this information as these practices evolve over time.
 
-We use technologies similar to session cookies and persistent cookies for storing and accessing information in the browser or device which utilises local units and local storage, such as HTML5 cookies, Flash and other methods. These technologies can operate across all of your browsers. In some cases, the use of these technologies cannot be controlled by the browser, but requires special tools. We use these technologies to store information to ensure the quality of reviews and to spot irregularities in the use of the Website.
+### **8   Cookies**
 
-7.2  What do we use Cookies for?
+The Website uses cookies and similar technologies (“Cookies”). By using our Website, you accept that we use Cookies as described below.
+
+8.1  What types of Cookies do we use?
+
+Cookies are small pieces of information that the Website places on your computer's hard disk, on your tablet or on your smartphone. Note that HTML5 introduced Web Storage that has a similar nature to Cookies, and that we therefore consider that as a Cookie in the following.
+
+Cookies contain information that the Website uses to make the communication between you and your web browser more efficient. Cookies identify your computer or device rather than you as an individual user.
+
+We use session cookies, persistent cookies, HTML5 sessionStorage and HTML5 localStorage session cookies and HTML5 sessionStorage objects are temporary in nature and are deleted when you exit your web browser. Persistent cookies are permanent in nature and are stored and remain on your computer until they are deleted. Persistent cookies expire or auto delete after a certain period of time, which is set per cookie, but are renewed each time you visit the Website. HTML5 localStorage objects are permanent in nature and remain on your computer until they are deleted.
+
+8.2  What do we use Cookies for?
 
 We use Cookies for:
 
-  * Generating statistics
+**Generating statistics**
 
+Measuring Website traffic such as the number of visits to the Website, which domains the visitors come from, which pages they visit on the Website and in which overall geographical areas the visitors are located.
 
+**Monitoring Website performance and your use of our Website**
 
-Measuring Website traffic such as the number of visits to the Website, which domains the visitors come from, which pages the visitors visit on the Website and in which overall geographical areas the visitors are located.
+Monitoring the performance of the Website, our applications and TrustBoxes and how you use our Website, applications and TrustBoxes.
 
-  * Monitoring the performance of the Website and your use of our Website
+**Authentication and improving the functionality of our Website**
 
+Optimizing your experience with the Website, which includes remembering your username and password when you return to the Website, and remembering information about your browser and preferences (e.g. which language you prefer).
 
-
-Monitoring the performance of the Website, our applications and widgets and how you use our Website, applications and widgets.
-
-  * Authentication and improving the functionality of our Website
-
-
-
-Optimising your experience with the Website, which includes remembering your username and password when you return to the Website, and remembering information about your browser and preferences (e.g. which language you prefer).
-
-  * Connecting you to Social Networks
-
-
+**Connecting you to Social Networks**
 
 We give you the option of connecting with Social Networks, such as Facebook.
 
-  * Quality assurance
-
-
+**Quality assurance**
 
 Ensuring the quality of reviews and to prevent misuse or irregularities in connection with writing reviews and using the Website.
 
-  * Targeted advertisements
+**Targeted advertisements**
+
+Displaying relevant advertisements on the Website, including interest-based advertisements, which we believe are of interest to you. We use third parties to provide these advertisements when you visit the Website and other websites. These third parties may use Cookies alone or in conjunction with web beacons or other tracking technologies to collect information about your use of our Website and other websites.
+
+8.3  Third party Cookies
+
+Third party Cookies are set by third party websites – not our Website. When you visit our Website, the following third party Cookies may be set:
+
+  * Facebook cookies, set when you log in to our Website with Facebook
+  * Google cookies, set when you log in to our Website with Google
+  * Google AdSense cookies, set when displaying relevant targeted advertisements on our Website. Some cookies may be set as DoubleClick, which is part of Google
+  * New Relic cookies, set when monitoring and analyzing the performance of our applications and metrics from user sessions. Read more [here](https://docs.newrelic.com/docs/browser/new-relic-browser/page-load-timing-resources/new-relic-cookies "https://docs.newrelic.com/docs/browser/new-relic-browser/page-load-timing-resources/new-relic-cookies")
+  * Hotjar localStorage, set for managing how and when surveys are displayed. Read more [here](https://www.hotjar.com/legal/policies/cookie-information "https://www.hotjar.com/legal/policies/cookie-information").
 
 
 
-Displaying relevant advertisements on the Website, including interest-based advertisements, which we believe are of interest to you. We use third parties to provide these advertisements when you visit the Website and other websites. These third parties may use Cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our Website and other websites.
+8.4  Deletion of cookies
 
-7.3  Third party Cookies
+You can delete the cookies already on your device. You can typically delete cookies from the Privacy or History area, available from the Settings or Options menu in the browser. In most browsers, the same menu can be reached through the Ctrl+Shift+Del keyboard shortcut or Command+Shift+Del if you're on a Mac.
 
-Our Website uses Cookies from the following third parties:
+If you do not accept Cookies from our Website, you may experience inconvenience in your use of the Website, and you may be prevented from accessing some of its features.
 
-  * Segment: For statistical purposes.
-  * Amplitude: For statistical purposes.
-  * Facebook (set by Facebook only if you interact with the Facebook plugin or are already logged into Facebook when you use our Website): For the purpose of connecting and integrating with Facebook.
-  * Twitter (set by Twitter only if you interact with the Twitter plugin or are already logged in to Twitter when you use our Website): For the purpose of connecting and integrating with Twitter.
-  * Google+ (set by Google only if you interact with the Google+ plugin or are already logged in to Google when you use our Website): For the purpose of connecting with Google+.
-  * Google AdSense: For the purpose of displaying relevant advertisements, see above.
-  * Javascript: For monitoring purposes, including how you use our Website, widgets and applications and to create a rich website and widgets.  
-  * New Relic: For the purpose of monitoring and analysing the performance of our applications and metrics from user sessions. You can read more about cookies from New Relic here: [docs.newrelic.com/docs/browser/new-relic-browser/page-load-timing-resources/new-relic-cookies](https://docs.newrelic.com/docs/browser/new-relic-browser/page-load-timing-resources/new-relic-cookies).
-  * Alexa: For the purpose of monitoring the traffic on our Website, such as general visitor numbers, conversions, and similar.
+### **9   Access and insights into the personal data we have about you**
+
+If you have an Account on Trustpilot, you can log in to your Account and see what information we have about you, including your reviews, and why we have that information. You can read more about how to [here](https://support.trustpilot.com/hc/en-us/articles/360001300347-How-to-access-download-or-delete-your-personal-data-for-reviewers- "https://support.trustpilot.com/hc/en-us/articles/360001300347-How-to-access-download-or-delete-your-personal-data-for-reviewers-").
+
+If you don’t have an Account, you can email [privacy@trustpilot.com](mailto:privacy@trustpilot.com) and request information about your personal data. Upon receiving your request, we will let you know what personal information we have about you, how we collect the information, the purpose for which we process your personal data, and who we share your personal information with.
+
+### 10  Download your personal data (data portability)
+
+If you have a user profile on Trustpilot, you can download the personal data that you have provided to us, including your reviews. You can read more about how to download your personal data [here](https://support.trustpilot.com/hc/en-us/articles/360001300347-How-to-access-download-or-delete-your-personal-data-for-reviewers- "https://support.trustpilot.com/hc/en-us/articles/360001300347-How-to-access-download-or-delete-your-personal-data-for-reviewers-").
+
+### 11  Correction and deletion of your personal data
+
+If any of the Master Data or other personal information that we have about you in our capacity as a data controller is incorrect or misleading, you can correct most of the information yourself via your Account. We recommend that you make any the correction(s) yourself. Otherwise, you are welcome to ask us to assist with correcting your information.
+
+You may at any time correct or delete any content and personal information on the Website for which you are the data controller (see 3.2). If your personal information changes, or if you no longer wish to appear on the Website, you can update or delete the information by logging in to your Account.
+
+If your Account is deleted, all the data associated with your Account will be deleted, including your Master Data and reviews on the Website.
+
+We reserve the right to block access to your Account and/or delete it if the Account or the content associated with your Account or your review(s) on the Website is, in our assessment, discriminating, racist, sexually oriented, unethical, threatening, offensive, harassing or otherwise violates applicable laws, third party rights or our User Guidelines, or is inconsistent with the purpose of the Website. If we block access to or delete your Account, we will inform you of the reason for blocking or deleting your Account by sending an email to the address you provided when you created your Account.
+
+### 12  Other rights
+
+In addition to the rights set out above concerning your personal data, you also have the following rights:
+
+  * You also have the right to object to the processing of your personal data and have the processing of your personal data restricted.
+  * In particular, you have an unconditional right to object to the processing of your personal data for direct marketing purposes.
+  * If our processing of your personal information is based on your consent, you have the right to withdraw your consent at any time. Your withdrawal will not affect the lawfulness of the processing of data carried out before you withdrew your consent. You may withdraw your consent by emailing us at [privacy@trustpilot.com](mailto:privacy@trustpilot.com).
 
 
 
-7.4  Deletion of cookies
+In some circumstances, these rights may be limited or conditional. For example, whether or not you have the right to data portability in a particular case depends on the specific circumstances of the processing activity.
 
-If you want to delete the cookies already on your equipment, you can. If you use a PC and a recent browser, press CTRL + SHIFT + DELETE simultaneously. If the shortcuts do not work on your browser, please visit the support page for the browser in question. Please note, however, that if you do not accept cookies from our Website, you may experience some inconvenience in your use of the Website, and you may be prevented from accessing all of its features.
+### 13  Children’s information
 
-### 8  Access, correction and deletion
+Our Website is not intended for children. If you become aware that a child under the age of 13 has provided us with their personal information, please contact us.
 
-8.1  Access to information about your personal data
+### 14  Our Data Protection Officer
 
-Upon your request, we will inform you of the purpose for which we process your personal data; what personal information we have about you; who receives your personal information and from where the personal information originates.
+We have a Data Protection Officer (DPO). If you have any questions about the data processing activities performed by us, you are welcome to contact our DPO by email at: [privacy@trustpilot.com](mailto:privacy@trustpilot.com).
 
-Requests regarding the above will only be processed if more than six (6) months have elapsed since any previous request made by you, unless you can substantiate a special interest in obtaining the information earlier.
+### 15  Changes to this Policy
 
-8.2  Correction and deletion of your personal data
+We reserve the right to make changes to this Policy. The date shown at the start of this Policy indicates when it was last revised. If we make material changes to it, we will provide notice through our Website, or by other means, to give you the opportunity to review the changes before they come into effect. If you object to our changes, you can close your account. Your continued use of our Website after we publish or send a notice about the changes to the Policy will mean that you accept and agree to the updated Policy.
 
-Please let us know if any of the personal information that we, as the data controller, process about you is incorrect or misleading and we will correct it. You will be able to correct most of this information yourself on our Website. If possible, we recommend that you make the correction(s) yourself.
+### 16  Contact information and where to send questions or complaints
 
-You may at any time correct or delete any content and personal information on the Website for which you are the data controller (see section 3.2). If your personal information changes, or if you no longer wish to appear on the Website, you may update or delete the information by logging in to your user profile.
+If you have questions or concerns about our Policy, how we process your personal information, or would like us to correct your personal information, feel free to contact us at: [privacy@trustpilot.com](mailto:privacy@trustpilot.com).
 
-When your profile is deleted, all the data associated with your user profile is deleted, including your Master Data and reviews on the Website.
+You can also reach us by post.
 
-We reserve the right to block access to your profile and/or delete your profile if the profile or the content associated with your profile or your review(s) on the Website is, in our assessment, discriminating, racist, sexually oriented, unethical, threatening, offensive, harassing or otherwise violates applicable laws, third party rights, the User Guidelines or is inconsistent with the purpose of the Website. If we block access to or delete your user profile, we will inform you of the reason for blocking or deleting your profile by sending an email to the address you provided when you created your account.
+If contacting us does not resolve your complaint, you have further options, for example you may always lodge a complaint with a data protection supervisory authority, e.g. The Danish Data Protection Agency. You can read more about it [here](https://support.trustpilot.com/hc/en-us/articles/360001244647--Where-to-send-questions-or-complaints-regarding-our-data-processing-or-Privacy-Policy-for-reviewers- "https://support.trustpilot.com/hc/en-us/articles/360001244647--Where-to-send-questions-or-complaints-regarding-our-data-processing-or-Privacy-Policy-for-reviewers-").
 
-### 9  Changes to the Policy
+Our contact details are:
 
-We may change this Policy at any time. The date shown at the start of this Policy indicates when it was last revised. Any changes will become effective when we post the revised Policy on the Website. You agree that your continued use of the Website after any posted modifications constitutes your acceptance of the new version of the Policy.
+Trustpilot A/S,
 
-### 10  Enquiries regarding the Website or the Policy
+Pilestraede 58, 5th floor, 1112 Copenhagen, Denmark
 
-If you have questions or concerns about our Policy, how we process your personal information, or would like us to correct your personal information, please contact us at: Trustpilot A/S, Pilestraede 58, 5th floor, 1112 Copenhagen, Denmark, CVR no.: 30276582, telephone: +45 8877 7600, email: [compliance@trustpilot.com](mailto:compliance@trustpilot.com). 
+CVR no.: 30276582
+
+You can also find additional resources about data privacy in our Support Center here [support.trustpilot.com/hc/en-us/sections/360000055928-Data-Privacy](https://www.google.com/url?q=https://support.trustpilot.com/hc/en-us/sections/360000055928-Data-Privacy&sa=D&ust=1525333341563000&usg=AFQjCNGKBO4lI5ZS8VzGLVmMjsxT84l3bA "https://support.trustpilot.com/hc/en-us/sections/360000055928-Data-Privacy").
