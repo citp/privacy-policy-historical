@@ -1,0 +1,1971 @@
+<!--The following is the downloaded HTML source of the ounass.ae privacy policy that was archived on 2018-09-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180903174804id_/https%3A//www.ounass.ae/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en" class="lang_en" data-country-code="ae" data-currency="AED" data-currency-text="%s AED"><head>
+<script async="" src="/__ext/branch.io.js?v=2020113"></script><script async="" src="//www.googletagmanager.com/gtm.js?v=undefined&amp;id=GTM-WQ2WLS"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+    var feDebugger = false
+
+    var applePayEnabled = true;
+
+    var applePayPaymentRequestFromProduct =
+      JSON.parse(decodeURIComponent('%7B%22supportedNetworks%22%3A%5B%22amex%22%2C%22visa%22%2C%22masterCard%22%2C%22discover%22%5D%2C%22merchantCapabilities%22%3A%5B%22supports3DS%22%5D%2C%22requiredShippingContactFields%22%3A%5B%22name%22%2C%22phone%22%2C%22email%22%2C%22postalAddress%22%5D%2C%22requiredBillingContactFields%22%3A%5B%5D%2C%22merchantIdentifier%22%3A%22merchant.www.ounass.ae%22%2C%22countryCode%22%3A%22AE%22%2C%22currencyCode%22%3A%22AED%22%2C%22shippingMethods%22%3A%5B%5D%2C%22lineItems%22%3A%5B%5D%2C%22total%22%3A%7B%22label%22%3A%22Ounass%22%2C%22amount%22%3A0%7D%7D'));
+
+    var applePayProduct =
+      JSON.parse(decodeURIComponent('%22%22'));
+  </script>
+<script type="text/javascript">
+  var sessionStorageStub = {
+    length: 0,
+    setItem: function(key, value) {},
+    getItem: function(key) {},
+    removeItem: function(key) {},
+    clear: function() {},
+    key: function(n) {}
+  };
+  window.sessionStorageWrapper =  window.sessionStorage || sessionStorageStub ;
+</script>
+<script>
+var altayer = altayer || {};
+altayer._static = altayer._static || {};
+altayer._static.srcset = {};
+
+altayer._static.srcset._dimension = function closest (selectedRes, resolutions, dimension) {
+  return dimension[resolutions.indexOf(selectedRes)];
+};
+
+altayer._static.srcset._closest = function closest (num, arr) {
+  var mid;
+  var lo = 0;
+  var hi = arr.length - 1;
+  while (hi - lo > 1) {
+    mid = Math.floor ((lo + hi) / 2);
+    if (arr[mid] < num) {
+      lo = mid;
+    } else {
+      hi = mid;
+    }
+  }
+  if (num - arr[lo] <= arr[hi] - num) {
+    return arr[lo];
+  }
+  return arr[hi];
+};
+
+
+altayer._static.srcset._is2x = function () {
+
+  function isHighDensity(){
+    return ((window.matchMedia && (window.matchMedia('only screen and (min-resolution: 124dpi), only screen and (min-resolution: 1.3dppx), only screen and (min-resolution: 48.8dpcm)').matches || window.matchMedia('only screen and (-webkit-min-device-pixel-ratio: 1.3), only screen and (-o-min-device-pixel-ratio: 2.6/2), only screen and (min--moz-device-pixel-ratio: 1.3), only screen and (min-device-pixel-ratio: 1.3)').matches)) || (window.devicePixelRatio && window.devicePixelRatio > 1.3));
+  }
+
+
+  function isRetina(){
+    return ((window.matchMedia && (window.matchMedia('only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx), only screen and (min-resolution: 75.6dpcm)').matches || window.matchMedia('only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min--moz-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2)').matches)) || (window.devicePixelRatio && window.devicePixelRatio >= 2)) && /(iPad|iPhone|iPod)/g.test(navigator.userAgent);
+  }
+
+  return isHighDensity() || isRetina();
+};
+
+
+altayer._static.srcset.is2x = altayer._static.srcset._is2x();
+
+
+altayer._static.srcset.calculate = function (id) {
+  var type = {
+    tile1: {
+      suffixes: '--Desktop,--Mobile',
+      resolutions: [360,375,414,640,720,768,992,1200,1600,1900]
+    },
+    tile2: {
+      suffixes: '--Desktop,--Mobile',
+      resolutions: [360,375,414,640,720,768,992,1500],
+      dimensions: [360,375,414,640,720,768,920,1170]
+    },
+    tile3: {
+      resolutions: [360,1200,1500],
+      dimensions: [340,293,373]
+    },
+    tile4: {
+      suffixes: '--Desktop,--Mobile',
+      resolutions: [375,480,768,1500],
+      dimensions: [480,700,700,770]
+    },
+    tile5: {
+      suffixes: '--Desktop,--Mobile',
+      resolutions: [526,392,480,414,375,320]
+    }
+  };
+  var w = Math.min(window.screen.width, document.documentElement.clientWidth, window.innerWidth || 0);
+  var el = document.getElementById(id);
+  var srcset = {};
+  var resolutions = [];
+  var dimensions = [];
+  var dataset = el.dataset;
+  var tile = dataset.tile;
+  var suffixes = dataset.suffixes || (type[tile].suffixes || '');
+  var suffixes = suffixes.split(",");
+  var webpReplace = dataset.webpReplace || ',of=webp';
+  var imgPath = dataset.imgPath || '';
+  var imgPath = 'https://ounass-prod.atgcdn.ae/small_light(q=80,dw=%res%%webp%)/media/wysiwyg/' + imgPath;
+  var path = dataset.path || imgPath;  
+
+
+  if (tile) {
+    resolutions = type[tile].resolutions;
+    dimensions = type[tile].dimensions || resolutions;
+
+  } else {
+    resolutions = dataset.resolutions.split(",").map(function (x) {
+      return parseInt(x, 10)
+    })
+
+    dimensions = resolutions;
+
+    if (dataset.dimensions) {
+      dimensions = dataset.dimensions.split(",").map(function (x) {
+        return parseInt(x, 10)
+      })
+    };
+  }  
+
+
+  var selectedResolution = altayer._static.srcset._closest(w, resolutions);
+  var selectedDimension = altayer._static.srcset._dimension(selectedResolution, resolutions, dimensions);
+  var selectedSuffix = suffixes[0]; //default to desktop
+
+
+  if (selectedResolution <= 720) {
+    selectedSuffix = suffixes[1] || '';
+  }
+
+
+  if (altayer._static.srcset.is2x) {
+    selectedDimension = selectedDimension * 2;
+    if(selectedDimension > 3000) {
+      selectedDimension = 3000;
+    }
+  }
+
+
+  webpReplace = 'false' ==  'true' ? webpReplace : '';
+  var src = path.replace("%webp%", webpReplace);
+  src = src.replace("%res%", selectedDimension);
+  src = src.replace("%suffix%", selectedSuffix);
+  alt = src.substring(src.lastIndexOf('/') + 1, src.lastIndexOf('.')).split('-').join(' ');
+
+  var lazyAttr = dataset.lazyAttr || "lazy";
+
+  if (dataset.isLazy == "false") {
+    el.src = src;
+  } else {
+    el.dataset[lazyAttr] = src;
+  }
+
+  if (!el.alt) {
+    el.alt = alt;
+  }
+}
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>OUNASS UAE | Welcome To The Definitive Home Of Luxury</title>
+<script type="application/javascript">
+    var dataLayer = [];
+    var pageTitle = window.location.pathname;
+    var contentTitle = pageTitle.replace(/\/|-/g, ' ').trim();
+
+    window.dataLayer.push({
+      'event': 'Content',
+      'pageType': 'Content',
+      'title': contentTitle
+    });
+  </script>
+<style>
+.js .fouc * {
+visibility: hidden;
+}
+.js .fouc {
+  position: relative;
+}
+.js .fouc:before {
+  min-height: 300px;
+  content: "";
+  display: block;
+  opacity: 0.5;
+  background: url('/img/loading/black.gif') no-repeat center 120px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
+<script>
+  // Google Optimize + Analytics
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  
+  ga('create', 'UA-77521055-4', 'auto', {allowLinker: true});
+  ga('require', 'GTM-KPJXNL6');
+  
+  // Google Tag manager
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?v='+ window._staticVersion + '&id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-WQ2WLS');
+</script>
+<meta name="keywords" content="default.seo.keywords">
+<meta name="description" content="Discover the world’s most coveted fashion designers and luxury brands in the Middle East. Shop online in the UAE with our Gold Star Personal Styling service">
+<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//ssl.google-analytics.com">
+<link rel="dns-prefetch" href="//ounass-prod1.atgcdn.ae" data-cdn-url=""><link rel="dns-prefetch" href="//ounass-prod2.atgcdn.ae" data-cdn-url=""><link rel="dns-prefetch" href="//ounass-prod3.atgcdn.ae" data-cdn-url=""><link rel="dns-prefetch" href="//ounass-prod4.atgcdn.ae" data-cdn-url="">
+<meta property="og:title" content="OUNASS UAE | Welcome To The Definitive Home Of Luxury">
+<meta property="og:type" content="website">
+<meta property="og:url" content="/privacy-policy/">
+<meta name="robots" content="index, follow">
+<script>
+  window.sentryInit = function (env) {
+    Raven.config('https://27579b63fecc4f9fa35bdaf00d6b63c0@sentry.io/178492', { environment: env }).install();
+  };
+</script>
+<script src="https://cdn.ravenjs.com/3.26.2/raven.min.js" async="" crossorigin="anonymous" onload="window.sentryInit('prod')"></script>
+<script type="text/javascript">
+          window.DY = { recommendationContext: {"lng":"en","type":"CATEGORY","data":[]} };
+        </script>
+<script type="application/ld+json">{
+          "@context": "http://schema.org",
+          "@type": "WebSite",
+          "url": "https://www.ounass.ae/",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.ounass.ae/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        }</script>
+
+<!--[if lt IE 9]>
+          
+              <script type="text/javascript" src="src/assets/js/ie/fix.js"></script>
+          
+      <![endif]-->
+<link rel="shortcut icon" href="/img/favicon.png" type="image/x-icon">
+<link rel="icon" href="/img/favicon.png" type="image/png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<script type="text/javascript">
+        if (document.documentMode) {document.documentElement.className+=' internet-explorer';}
+        // Picture element HTML5 shiv -->
+        document.createElement("picture");
+
+        
+        document.documentElement.className = document.documentElement.className + " js";
+        var _d = new Date();
+        window._staticVersion = "" + _d.getUTCFullYear() + _d.getUTCMonth() +  _d.getUTCDate() + _d.getHours();
+      </script>
+</head>
+<body class="   ">
+<div class="page-overlay hidden"></div>
+<div class="fouc page-wrapper swipe-active content-pages  " data-js-pages="" data-google-maps="{&quot;center&quot;:{&quot;lat&quot;:25.087387,&quot;lng&quot;:55.174713},&quot;zoom&quot;:9,&quot;bounds&quot;:[[22.615833,51.81839],[26.117759,58.025665]]}" data-locale="en_ae" data-cdn-url="//ounass-prod2.atgcdn.ae/small_light(p={type},of=jpg,q=70)" data-currency="AED" data-currency-text="%s AED" data-cookie-domain=".ounass.ae" data-cookie-prefix="prod__" data-one-signal="{&quot;appId&quot;:&quot;013405c2-d65b-4835-873a-0a888eef09e5&quot;,&quot;webId&quot;:&quot;web.onesignal.auto.3c6dd35c-6a89-4a57-8823-48d881ba6e9f&quot;}" data-webp-enabled="false" data-customer-logged-in="false">
+<div class="service-banners-wrapper ">
+<div class="service-banners container ">
+<div class="row">
+<div class="col-xs-4">
+<div class="service-banner">
+<a href="/shipping-and-delivery">
+<h4><i class="service-icon icon-truck"></i> FREE 2-HOUR DELIVERY <span>in Dubai</span></h4>
+</a>
+</div>
+</div>
+<div class="col-xs-4">
+<div class="service-banner">
+<a href="https://myamber.ae/about-amber#how_to_join" target="_blank">
+<h4> <i class="service-icon icon-rewards"></i> EXCLUSIVE REWARDS <span>by Amber</span> </h4>
+</a>
+</div>
+</div>
+<div class="col-xs-4">
+<div class="service-banner personal-styling">
+<h4>
+<a href="/price-match">
+<i class="service-icon icon-guarantee"></i> PRICE MATCH <span>with Ounass</span>
+</a>
+</h4>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container relative">
+<header class=" ">
+<i class="fa hamburger-menu" data-button-text="Hamburger_menu">
+<span></span>
+<span></span>
+<span></span>
+<span></span>
+</i>
+<div id="locale-changer" class="locale-changer-menu locale-icons box-menu menu-to-right">
+<h4 class="locale-header">LANGUAGE</h4>
+<div class="locale-box">
+<span class="box-header needsclick">
+<a href="#" class="selected needsclick" data-locale="en_ae" data-button-text="en_ae">
+UAE
+</a>
+</span>
+<ul class="locale-list">
+
+<li>
+<a href="//en-saudi.ounass.com" class="change-locale locale-ae-ar needsclick" data-button-text="en_sa" data-locale="en_sa">
+Saudi Arabia
+</a>
+</li>
+<li>
+<a href="//oman.ounass.com" class="change-locale locale-ae-ar needsclick" data-button-text="en_om" data-locale="en_om">
+Oman
+</a>
+</li>
+<li>
+<a href="//kuwait.ounass.com" class="change-locale locale-ae-ar needsclick" data-button-text="en_kw" data-locale="en_kw">
+Kuwait
+</a>
+</li>
+<li>
+<a href="//bahrain.ounass.com" class="change-locale locale-ae-ar needsclick" data-button-text="en_bh" data-locale="en_bh">
+Bahrain
+</a>
+</li>
+<li>
+<a class="locale-ae-ar" data-locale="en_qa" onclick="altayer.misc.qatarStoreClosedModal.show()">
+Qatar
+</a>
+</li>
+</ul>
+</div>
+<a href="//ar.ounass.ae" class="language-changer needsclick" data-lang="en" data-country="ae">
+العربيّة
+</a>
+</div>
+<a href="/" id="logo" data-button-text="Home_button">
+<img src="/img/layout/logo_en_ae.jpg" onerror="this.onerror=null; this.src='/img/layout/logo_en_ae.jpg'">
+<p class="slogan hidden-xs">THE DEFINITIVE HOME OF LUXURY</p>
+</a>
+<span class="welcome-and-cart-wrapper">
+<a href="/cart/get" class="box-header mobile-cart-trigger  empty-basket " data-button-text="My_bag">
+<i class="icon-bag"></i>
+</a>
+<div class="mini-cart box-menu menu-to-left  empty-basket ">
+<div class="box-header">
+<a href="/cart/get" data-button-text="My_bag" class="bag-title">
+<i class="icon-bag display-block-imp"></i>
+<span class="text"></span>
+</a>
+<span class="hide-mini-cart icon-next">Continue Shopping</span>
+</div>
+<ul>
+<li>
+<span class="message-wrapper">
+<span class="message">You have no items in your bag.</span>
+</span>
+</li>
+</ul>
+<a class="close-swipe-panel"></a>
+</div>
+<div id="welcome-and-cart">
+<a class="search-button" data-button-text="Search">
+<i class="icon-search" aria-hidden="true"></i>
+</a>
+<a class="login-button needsclick" href="/customer/register" data-button-text="Sign_In_Register">
+<i class="icon-user" aria-hidden="true"></i>
+<span class="sign-in needsclick">SIGN IN</span>
+</a>
+<a id="list-user-favorites" href="/customer/favorites" data-button-text="Wishlist">
+<i class="icon-heart"></i>
+<span class="text"> (<em>0</em>) </span>
+</a>
+</div>
+</span> 
+<nav class="mainNav">
+<ul>
+<li class="needsclick">
+<a href="/edits/the-vacation-shop/" data-ga-text="Vacation Shop" class="first-level needsclick ">Vacation Shop</a>
+<i class="icon-next"></i>
+<div class="dropdown clearfix">
+<div class="container navigation-container">
+<div class="navigation-inner">
+<section>
+<strong class="secondary-font--bold">
+Shop By
+</strong>
+<a href="/edits/beach-escape/" class="needsclick " data-ga-text="Beach Escape">
+Beach Escape
+</a>
+<a href="/edits/city-break/" class="needsclick " data-ga-text="City Break">
+City Break
+</a>
+<a href="/edits/sunset-style/" class="needsclick " data-ga-text="Sunset Style">
+Sunset Style
+</a>
+<a href="/edits/travel-essentials/" class="needsclick " data-ga-text="Travel Essentials">
+Travel Essentials
+</a>
+<a href="/edits/beauty-must-haves/" class="needsclick " data-ga-text="Beauty Must-Haves">
+Beauty Must-Haves
+</a>
+</section>
+<section class="expanded">
+<strong class="secondary-font--bold">
+Designers
+</strong>
+<a href="/designers/arnaz/" class="needsclick " data-ga-text="Aranàz">
+Aranàz
+</a>
+<a href="/designers/borgo-de-nor/" class="needsclick " data-ga-text="Borgo de Nor">
+Borgo de Nor
+</a>
+<a href="/designers/emilio-pucci/" class="needsclick " data-ga-text="Emilio Pucci">
+Emilio Pucci
+</a>
+<a href="/designers/eugenia-kim/" class="needsclick " data-ga-text="Eugenia Kim">
+Eugenia Kim
+</a>
+<a href="/designers/hemant-and-nandita/" class="needsclick " data-ga-text="Hemant And Nandita">
+Hemant And Nandita
+</a>
+<a href="/designers/le-specs/" class="needsclick " data-ga-text="Le Specs">
+Le Specs
+</a>
+<a href="/designers/soludos/" class="needsclick " data-ga-text="Soludos">
+Soludos
+</a>
+<a href="/designers/zimmermann/" class="needsclick " data-ga-text="Zimmermann">
+Zimmermann
+</a>
+</section>
+
+<section class="cms-banner gtm-promotion-banner" data-id="CATEGORY_HERO1" data-name="Vacation Shop">
+<a href="/edits/the-vacation-shop/" data-english-name="Featured link - Vacation Shop">
+<strong class="secondary-font--bold"> Featured </strong>
+<img class="categoryImage" data-src="//ounass-prod2.atgcdn.ae/small_light(of=jpg)/pub/media/catalog/category/VacationShop13Aug18.jpg" alt="Category image">
+<div class="title"> <p><span>Discover the Vacation Shop.</span></p> </div>
+<span class="link"> Shop Now </span>
+</a>
+</section>
+</div>
+</div>
+</div>
+</li>
+<li class="needsclick">
+<a href="/new-in/" data-ga-text="New In" class="first-level needsclick ">New In</a>
+<i class="icon-next"></i>
+<div class="dropdown clearfix">
+<div class="container navigation-container">
+<div class="navigation-inner">
+<section class="nav-ramadan expanded">
+<strong class="secondary-font--bold">
+Shop By
+</strong>
+<a href="/new-in/edits/this-week/" class="needsclick " data-ga-text="New In This Week">
+New In This Week
+</a>
+<a href="/instagram-shop/" class="needsclick " data-ga-text="Instagram Shop">
+Instagram Shop
+</a>
+<a href="/the-collective/" class="needsclick " data-ga-text="The Collective">
+The Collective
+</a>
+</section>
+<section class="nav-width-dec">
+<strong class="secondary-font--bold">
+New In
+</strong>
+<a href="/new-in/" class="needsclick " data-ga-text="All New In">
+All New In
+</a>
+<a href="/new-in/accessories/" class="needsclick " data-ga-text="Accessories">
+Accessories
+</a>
+<a href="/new-in/bags/" class="needsclick " data-ga-text="Bags">
+Bags
+</a>
+<a href="/new-in/beauty/" class="needsclick " data-ga-text="Beauty">
+Beauty
+</a>
+<a href="/new-in/clothing/" class="needsclick " data-ga-text="Clothing">
+Clothing
+</a>
+<a href="/new-in/home/" class="needsclick " data-ga-text="Home">
+Home
+</a>
+<a href="/new-in/jewellery/" class="needsclick " data-ga-text="Jewellery">
+Jewellery
+</a>
+<a href="/new-in/shoes/" class="needsclick " data-ga-text="Shoes">
+Shoes
+</a>
+</section>
+<section>
+<strong class="secondary-font--bold"> Editor's Picks </strong>
+<a class="product-item navigation-banner-product needsclick" href="/shop-poppy-lissiman-brown-tortoiseshell-coco-husk-sunglasses-212408284.html" data-gtm-product="%7B%22price%22%3A550%2C%22id%22%3A%22212408274%22%2C%22name%22%3A%22Brown%20Tortoiseshell%20Coco%20Husk%20Sunglasses%22%2C%22brand%22%3A%22Poppy%20Lissiman%22%2C%22category%22%3A%22accessories%2Fsunglasses%2Fcat-eye%22%2C%22metric1%22%3A1%2C%22metric2%22%3A1%2C%22dimension15%22%3A%22Accessories%22%2C%22dimension16%22%3Afalse%2C%22dimension20%22%3A%22212408284%22%2C%22dimension36%22%3A%22no-size%22%2C%22dimension62%22%3A%22%22%2C%22dimension69%22%3A%22none%22%2C%22position%22%3A1%2C%22variant%22%3A%22Brown%22%7D" data-ga-text="Featured product - New-in" data-currency-code="AED" data-list="Navigation Banner">
+<img class="img-loaded" alt="Brown Tortoiseshell Coco Husk Sunglasses" data-src="//ounass-prod2.atgcdn.ae/small_light(p=listing2x,of=jpg,q=70)/pub/media/catalog/product/2/1/212408274_brown_in.jpg?1535290459.3522">
+<div class="product-title"> Poppy Lissiman </div>
+<div class="product-shortdesc"> Brown Tortoiseshell Coco Husk Sunglasses </div>
+<div class="rating-and-price pri-font">
+550 AED
+</div>
+</a>
+</section>
+<section>
+<strong> </strong>
+<a class="product-item navigation-banner-product needsclick" href="/shop-malone-souliers-multi-coloured-montana-elaphe-lace-up-boots-212382627.html" data-gtm-product="%7B%22price%22%3A2813%2C%22id%22%3A%22212382598%22%2C%22name%22%3A%22Multi-Coloured%20Montana%20Elaphe%20Lace-Up%20Boots%20%22%2C%22brand%22%3A%22Malone%20Souliers%22%2C%22category%22%3A%22shoes%2Fboots%2Fankle-boots%22%2C%22metric1%22%3A8%2C%22metric2%22%3A10%2C%22dimension15%22%3A%22Shoes%22%2C%22dimension16%22%3Afalse%2C%22dimension20%22%3A%22212382627%22%2C%22dimension36%22%3A%22no-size%22%2C%22dimension62%22%3A%22%22%2C%22dimension69%22%3A%22none%22%2C%22position%22%3A1%2C%22variant%22%3A%22Multicolour%22%7D" data-ga-text="Featured product - New-in" data-currency-code="AED" data-list="Navigation Banner">
+<img class="img-loaded" alt="Multi-Coloured Montana Elaphe Lace-Up Boots " data-src="//ounass-prod2.atgcdn.ae/small_light(p=listing2x,of=jpg,q=70)/pub/media/catalog/product/2/1/212382598_multi_in.jpg?1535289170.6908">
+<div class="product-title"> Malone Souliers </div>
+<div class="product-shortdesc"> Multi-Coloured Montana Elaphe Lace-Up Boots </div>
+<div class="rating-and-price pri-font">
+2813 AED
+</div>
+</a>
+</section>
+<section>
+<strong> </strong>
+<a class="product-item navigation-banner-product needsclick" href="/shop-bottega-veneta-black-catena-studded-knot-chain-clutch-212113705.html" data-gtm-product="%7B%22price%22%3A11450%2C%22id%22%3A%22212113406%22%2C%22name%22%3A%22Black%20Catena%20Studded%20Knot%20Chain%20Clutch%20%20%22%2C%22brand%22%3A%22Bottega%20Veneta%22%2C%22category%22%3A%22new-in%2Fedits%2Fthis-week%22%2C%22metric1%22%3A1%2C%22metric2%22%3A1%2C%22dimension15%22%3A%22Bags%22%2C%22dimension16%22%3Afalse%2C%22dimension20%22%3A%22212113705%22%2C%22dimension36%22%3A%22no-size%22%2C%22dimension62%22%3A%22%22%2C%22dimension69%22%3A%22none%22%2C%22position%22%3A1%2C%22variant%22%3A%22Black%22%7D" data-ga-text="Featured product - New-in" data-currency-code="AED" data-list="Navigation Banner">
+<img class="img-loaded" alt="Black Catena Studded Knot Chain Clutch  " data-src="//ounass-prod4.atgcdn.ae/small_light(p=listing2x,of=jpg,q=70)/pub/media/catalog/product/2/1/212113406_blk_in.jpg?1535286675.2817">
+<div class="product-title"> Bottega Veneta </div>
+<div class="product-shortdesc"> Black Catena Studded Knot Chain Clutch </div>
+<div class="rating-and-price pri-font">
+11450 AED
+</div>
+</a>
+</section>
+</div>
+</div>
+</div>
+</li>
+<li class="needsclick">
+<a href="/designers/" data-ga-text="Designers" class="first-level needsclick ">Designers</a>
+<i class="icon-next"></i>
+<div class="dropdown clearfix">
+<div class="container navigation-container">
+<div class="navigation-inner">
+
+<section class="designer-section">
+<span class="col-xs-12 col-sm-12">
+<strong class="secondary-font--bold"> Designers </strong>
+<a class="needsclick " href="/designers/" data-ga-text="All Designers">
+All Designers
+</a>
+<a class="needsclick " href="/designers/acler/" data-ga-text="Acler">
+Acler
+</a>
+<a class="needsclick " href="/designers/alexander-mcqueen/" data-ga-text="Alexander McQueen">
+Alexander McQueen
+</a>
+<a class="needsclick " href="/designers/alexander-wang/" data-ga-text="Alexander Wang">
+Alexander Wang
+</a>
+<a class="needsclick " href="/designers/alexis/" data-ga-text="Alexis">
+Alexis
+</a>
+<a class="needsclick " href="/designers/aquazzura/" data-ga-text="Aquazzura">
+Aquazzura
+</a>
+<a class="needsclick " href="/designers/balenciaga/" data-ga-text="Balenciaga">
+Balenciaga
+</a>
+<a class="needsclick " href="/designers/bottega-veneta/" data-ga-text="Bottega Veneta">
+Bottega Veneta
+</a>
+<a class="needsclick " href="/designers/chloe/" data-ga-text="Chloé">
+Chloé
+</a>
+<a class="needsclick " href="/designers/coach/" data-ga-text="Coach">
+Coach
+</a>
+<a class="needsclick " href="/designers/emilio-pucci/" data-ga-text="Emilio Pucci">
+Emilio Pucci
+</a>
+<a class="needsclick " href="/designers/ganni/" data-ga-text="Ganni">
+Ganni
+</a>
+</span>
+<span class="col-xs-12 col-sm-12">
+<strong class="hidden-sidebar"></strong>
+<a class="needsclick " href="/designers/gianvito-rossi/" data-ga-text="Gianvito Rossi">
+Gianvito Rossi
+</a>
+<a class="needsclick " href="/designers/gucci/" data-ga-text="Gucci">
+Gucci
+</a>
+<a class="needsclick " href="/designers/jimmy-choo/" data-ga-text="Jimmy Choo">
+Jimmy Choo
+</a>
+<a class="needsclick " href="/designers/jonathan-simkhai/" data-ga-text="Jonathan Simkhai">
+Jonathan Simkhai
+</a>
+<a class="needsclick " href="/designers/jw-anderson/" data-ga-text="JW Anderson">
+JW Anderson
+</a>
+<a class="needsclick " href="/designers/keepsake-the-label/" data-ga-text="Keepsake The Label">
+Keepsake The Label
+</a>
+<a class="needsclick " href="/designers/malone-soulier/" data-ga-text="Malone Souliers">
+Malone Souliers
+</a>
+
+<a class="needsclick " href="/designers/miu-miu/" data-ga-text="Miu Miu">
+Miu Miu
+</a>
+<a class="needsclick " href="/designers/moschino/" data-ga-text="Moschino">
+Moschino
+</a>
+<a class="needsclick " href="/designers/needle-and-thread/" data-ga-text="Needle &amp; Thread">
+Needle &amp; Thread
+</a>
+<a class="needsclick " href="/designers/nicholas-kirkwood/" data-ga-text="Nicholas Kirkwood">
+Nicholas Kirkwood
+</a>
+<a class="needsclick " href="/designers/off-white/" data-ga-text="Off White">
+Off White
+</a>
+</span>
+<span class="col-xs-12 col-sm-12">
+<strong class="hidden-sidebar"></strong>
+<a class="needsclick " href="/designers/palmer-harding/" data-ga-text="Palmer Harding">
+Palmer Harding
+</a>
+<a class="needsclick " href="/designers/prada/" data-ga-text="Prada">
+Prada
+</a>
+<a class="needsclick " href="/designers/roksanda/" data-ga-text="Roksanda">
+Roksanda
+</a>
+<a class="needsclick " href="/designers/roger-vivier/" data-ga-text="Roger Vivier">
+Roger Vivier
+</a>
+<a class="needsclick " href="/designers/safiyaa/" data-ga-text="SAFIYAA">
+SAFIYAA
+</a>
+<a class="needsclick " href="/designers/salvatore-ferragamo/" data-ga-text="Salvatore Ferragamo">
+Salvatore Ferragamo
+</a>
+<a class="needsclick " href="/designers/self-portrait/" data-ga-text="Self-Portrait">
+Self-Portrait
+</a>
+<a class="needsclick " href="/designers/solace-london/" data-ga-text="Solace London">
+Solace London
+</a>
+<a class="needsclick " href="/designers/sophia-webster/" data-ga-text="Sophia Webster">
+Sophia Webster
+</a>
+<a class="needsclick " href="/designers/stella-mccartney/" data-ga-text="Stella McCartney">
+Stella McCartney
+</a>
+<a class="needsclick " href="/designers/valentino/" data-ga-text="Valentino">
+Valentino
+</a>
+<a class="needsclick " href="/designers/zimmermann/" data-ga-text="Zimmermann">
+Zimmermann
+</a>
+</span>
+</section>
+
+<section class="cms-banner gtm-promotion-banner" data-id="CATEGORY_HERO1" data-name="Designers">
+<a href="/designers/self-portrait/" data-english-name="Featured link - Designers">
+<strong class="secondary-font--bold"> Featured </strong>
+<img class="categoryImage" data-src="//ounass-prod2.atgcdn.ae/small_light(of=jpg)/pub/media/catalog/category/Designer_wk89.jpg" alt="Category image">
+<div class="title"> <p><span>Discover the new collection by Self-Portrait.</span></p> </div>
+<span class="link"> Shop Self-Portrait </span>
+</a>
+</section>
+</div>
+</div>
+</div>
+</li>
+<li class="needsclick">
+<a href="/clothing/" data-ga-text="Clothing" class="first-level needsclick ">Clothing</a>
+<i class="icon-next"></i>
+<div class="dropdown clearfix">
+<div class="container navigation-container">
+<div class="navigation-inner">
+<section>
+<strong class="secondary-font--bold">
+Shop By
+</strong>
+<a href="/new-in/clothing/" class="needsclick " data-ga-text="What's New">
+What's New
+</a>
+<a href="/edits/daytime-decadence/" class="needsclick " data-ga-text="Daytime Wardrobe">
+Daytime Wardrobe
+</a>
+<a href="/edits/event-dressing/" class="needsclick " data-ga-text="Event Dressing">
+Event Dressing
+</a>
+<a href="/edits/modest-style/" class="needsclick " data-ga-text="Modest Style">
+Modest Style
+</a>
+<a href="/edits/the-vacation-shop/" class="needsclick " data-ga-text="The Vacation Shop">
+The Vacation Shop
+</a>
+<a href="/clothing/edits/exclusives/" class="needsclick " data-ga-text="Exclusive to Ounass">
+Exclusive to Ounass
+</a>
+</section>
+
+<section>
+<strong class="secondary-font--bold">
+Clothing
+</strong>
+<a href="/clothing/" class="needsclick " data-ga-text="All Clothing">
+All Clothing
+</a>
+<a href="/clothing/beachwear/" class="needsclick " data-ga-text="Beachwear">
+Beachwear
+</a>
+<a href="/clothing/coats-jackets/" class="needsclick " data-ga-text="Coats &amp; Jackets">
+Coats &amp; Jackets
+</a>
+<a href="/clothing/dresses/" class="needsclick " data-ga-text="Dresses">
+Dresses
+</a>
+<a href="/clothing/evening/" class="needsclick " data-ga-text="Evening">
+Evening
+</a>
+<a href="/clothing/dresses/gowns/" class="needsclick " data-ga-text="Gowns">
+Gowns
+</a>
+<a href="/clothing/jeans/" class="needsclick " data-ga-text="Jeans">
+Jeans
+</a>
+<a href="/clothing/jumpsuits/" class="needsclick " data-ga-text="Jumpsuits">
+Jumpsuits
+</a>
+<a href="/clothing/knitwear/" class="needsclick " data-ga-text="Knitwear &amp; Sweaters">
+Knitwear &amp; Sweaters
+</a>
+<a href="/clothing/pants/" class="needsclick " data-ga-text="Pants">
+Pants
+</a>
+<a href="/clothing/skirts/" class="needsclick " data-ga-text="Skirts">
+Skirts
+</a>
+<a href="/clothing/tops/" class="needsclick " data-ga-text="Tops">
+Tops
+</a>
+</section>
+<section class="expanded">
+<strong class="secondary-font--bold">
+Designers
+</strong>
+<a href="/designers/chloe/clothing/" class="needsclick " data-ga-text="Chloé">
+Chloé
+</a>
+<a href="/designers/costarellos/clothing/" class="needsclick " data-ga-text="Costarellos">
+Costarellos
+</a>
+<a href="/designers/etro/clothing/" class="needsclick " data-ga-text="ETRO">
+ETRO
+</a>
+<a href="/designers/gucci/clothing/" class="needsclick " data-ga-text="Gucci">
+Gucci
+</a>
+<a href="/designers/johanna-ortiz/clothing/" class="needsclick " data-ga-text="Johanna Ortiz">
+Johanna Ortiz
+</a>
+<a href="/designers/jonathan-simkhai/clothing/" class="needsclick " data-ga-text="Jonathan Simkhai">
+Jonathan Simkhai
+</a>
+
+<a href="/designers/miu-miu/clothing/" class="needsclick " data-ga-text="Miu Miu">
+Miu Miu
+</a>
+<a href="/designers/prada/clothing/" class="needsclick " data-ga-text="Prada">
+Prada
+</a>
+<a href="/designers/self-portrait/clothing/" class="needsclick " data-ga-text="Self-Portrait">
+Self-Portrait
+</a>
+<a href="/designers/stella-mccartney/clothing/" class="needsclick " data-ga-text="Stella McCartney">
+Stella McCartney
+</a>
+<a href="/designers/valentino/clothing/" class="needsclick " data-ga-text="Valentino">
+Valentino
+</a>
+<a href="/designers/vetements/clothing/" class="needsclick " data-ga-text="Vetements">
+Vetements
+</a>
+</section>
+<section class="cms-banner gtm-promotion-banner" data-id="CATEGORY_HERO1" data-name="Clothing">
+<a href="/clothing/coats-jackets/" data-english-name="Featured link - Clothing">
+<strong class="secondary-font--bold"> Featured </strong>
+<img class="categoryImage" data-src="//ounass-prod3.atgcdn.ae/small_light(of=jpg)/pub/media/catalog/category/Clothing_wk89.jpg" alt="Category image">
+<div class="title"> <p><span>Shop new season jackets and coats by Moncler, Gucci, Miu Miu and more. </span></p> </div>
+<span class="link"> Shop Now </span>
+</a>
+</section>
+</div>
+</div>
+</div>
+</li>
+<li class="needsclick">
+<a href="/shoes/" data-ga-text="Shoes" class="first-level needsclick ">Shoes</a>
+<i class="icon-next"></i>
+<div class="dropdown clearfix">
+<div class="container navigation-container">
+<div class="navigation-inner">
+
+<section>
+<strong class="secondary-font--bold">
+Shop By
+</strong>
+<a href="/new-in/shoes/" class="needsclick " data-ga-text="What's New">
+What's New
+</a>
+<a href="/shoes/edits/seasonal-must-haves/" class="needsclick " data-ga-text="Best Sellers">
+Best Sellers
+</a>
+<a href="/shoes/edits/statement-shoes/" class="needsclick " data-ga-text="Trending Now">
+Trending Now
+</a>
+<a href="/shoes/edits/night-out/" class="needsclick " data-ga-text="Night Out">
+Night Out
+</a>
+<a href="/shoes/edits/day-shoes/" class="needsclick " data-ga-text="Day Shoes">
+Day Shoes
+</a>
+<a href="/shoes/edits/red-carpet-ready/" class="needsclick " data-ga-text="Must Have Heels">
+Must Have Heels
+</a>
+</section>
+<section>
+<strong class="secondary-font--bold">
+Shoes
+</strong>
+<a href="/shoes/" class="needsclick " data-ga-text="All Shoes">
+All Shoes
+</a>
+<a href="/shoes/boots/" class="needsclick " data-ga-text="Boots">
+Boots
+</a>
+<a href="/shoes/espadrilles/" class="needsclick " data-ga-text="Espadrilles">
+Espadrilles
+</a>
+<a href="/shoes/evening-shoes/" class="needsclick " data-ga-text="Evening Shoes">
+Evening Shoes
+</a>
+<a href="/shoes/flat-shoes/" class="needsclick " data-ga-text="Flat Shoes">
+Flat Shoes
+</a>
+<a href="/shoes/loafers/" class="needsclick " data-ga-text="Loafers">
+Loafers
+</a>
+<a href="/shoes/mules/" class="needsclick " data-ga-text="Mules">
+Mules
+</a>
+<a href="/shoes/pumps/" class="needsclick " data-ga-text="Pumps">
+Pumps
+</a>
+<a href="/shoes/sandals/" class="needsclick " data-ga-text="Sandals">
+Sandals
+</a>
+<a href="/shoes/sneakers/" class="needsclick " data-ga-text="Sneakers">
+Sneakers
+</a>
+</section>
+<section class="expanded">
+<strong class="secondary-font--bold">
+Designers
+</strong>
+<a href="/designers/aquazzura/" class="needsclick " data-ga-text="Aquazzura">
+Aquazzura
+</a>
+ <a href="/designers/balenciaga/shoes" class="needsclick " data-ga-text="Balenciaga">
+Balenciaga
+</a>
+<a href="/designers/dolce-gabbana/shoes/" class="needsclick " data-ga-text="Dolce &amp; Gabbana">
+Dolce &amp; Gabbana
+</a>
+<a href="/designers/gianvito-rossi/" class="needsclick " data-ga-text="Gianvito Rossi">
+Gianvito Rossi
+</a>
+<a href="/designers/golden-goose-deluxe-brand/" class="needsclick " data-ga-text="Golden Goose">
+Golden Goose
+</a>
+<a href="/designers/gucci/shoes" class="needsclick " data-ga-text="Gucci">
+Gucci
+</a>
+<a href="/designers/jimmy-choo/shoes" class="needsclick " data-ga-text="Jimmy Choo">
+Jimmy Choo
+</a>
+<a href="/designers/malone-soulier" class="needsclick " data-ga-text="Malone Souliers">
+Malone Souliers
+</a>
+<a href="/designers/miu-miu/shoes" class="needsclick " data-ga-text="Miu Miu">
+Miu Miu
+</a>
+<a href="/designers/prada/shoes" class="needsclick " data-ga-text="Prada">
+Prada
+</a>
+<a href="/designers/stella-mccartney/shoes/" class="needsclick " data-ga-text="Stella McCartney">
+Stella McCartney
+</a>
+<a href="/designers/sophia-webster/shoes/" class="needsclick " data-ga-text="Sophia Webster">
+Sophia Webster
+</a>
+<a href="/designers/valentino/shoes" class="needsclick " data-ga-text="Valentino Garavani">
+Valentino Garavani
+</a>
+</section>
+<section class="cms-banner gtm-promotion-banner" data-id="CATEGORY_HERO1" data-name="Shoes">
+<a href="/shoes/flat-shoes/" data-english-name="Featured link - Shoes">
+<strong class="secondary-font--bold"> Featured </strong>
+<img class="categoryImage" data-src="//ounass-prod1.atgcdn.ae/small_light(of=jpg)/pub/media/catalog/category/Shoes_wk89.jpg" alt="Category image">
+<div class="title"> <p><span>Step forward in fabulous new season flats.</span></p> </div>
+<span class="link"> Show Now </span>
+</a>
+</section>
+</div>
+</div>
+</div>
+</li>
+<li class="needsclick">
+<a href="/bags/" data-ga-text="Bags" class="first-level needsclick ">Bags</a>
+<i class="icon-next"></i>
+<div class="dropdown clearfix">
+<div class="container navigation-container">
+<div class="navigation-inner">
+<section>
+<strong class="secondary-font--bold">
+Shop By
+</strong>
+<a href="/new-in/bags/" class="needsclick " data-ga-text="What's New">
+ What's New
+</a>
+<a href="/bags/edits/exclusives/" class="needsclick " data-ga-text="Exclusive to Ounass">
+Exclusive to Ounass
+</a>
+<a href="/bags/edits/season-heroes/" class="needsclick " data-ga-text="Best Sellers">
+Best Sellers
+</a>
+<a href="/bags/edits/statement-bags/" class="needsclick " data-ga-text="Trending Now">
+Trending Now
+</a>
+<a href="/bags/edits/summer-styles/" class="needsclick " data-ga-text="Summer Styles">
+Summer Styles
+</a>
+</section>
+<section>
+<strong class="secondary-font--bold">
+Bags
+</strong>
+<a href="/bags/" class="needsclick " data-ga-text="All Bags">
+All Bags
+</a>
+<a href="/bags/backpacks/" class="needsclick " data-ga-text="Backpacks">
+Backpacks
+</a>
+<a href="/bags/bag-accessories/" class="needsclick " data-ga-text="Bag Accessories">
+Bag Accessories
+</a>
+<a href="/bags/belt-bags/" class="needsclick " data-ga-text="Belt Bags">
+Belt Bags
+</a>
+<a href="/bags/bucket-bags/" class="needsclick " data-ga-text="Bucket Bags">
+Bucket Bags
+</a>
+<a href="/bags/clutch-bags/" class="needsclick " data-ga-text="Clutch Bags">
+Clutch Bags
+</a>
+<a href="/bags/cross-body-bags/" class="needsclick " data-ga-text="Cross Body Bags">
+Cross Body Bags
+</a>
+<a href="/bags/mini-bags/" class="needsclick " data-ga-text="Mini Bags">
+Mini Bags
+</a>
+<a href="/bags/shoulder-bags/" class="needsclick " data-ga-text="Shoulder Bags">
+Shoulder Bags
+</a>
+<a href="/bags/top-handle-bags/" class="needsclick " data-ga-text="Top Handle Bags">
+Top Handle Bags
+</a>
+<a href="/bags/tote-bags/" class="needsclick " data-ga-text="Tote Bags">
+Tote Bags
+</a>
+</section>
+<section class="expanded">
+<strong class="secondary-font--bold">
+Designers
+</strong>
+<a href="/designers/alexander-mcqueen/bags" class="needsclick " data-ga-text="Alexander McQueen">
+Alexander McQueen
+</a>
+<a href="/designers/balenciaga/bags" class="needsclick " data-ga-text="Balenciaga">
+Balenciaga
+</a>
+ <a href="/designers/bottega-veneta/bags" class="needsclick " data-ga-text="Bottega Veneta">
+Bottega Veneta
+</a>
+<a href="/designers/chloe/bags" class="needsclick " data-ga-text="Chloé">
+Chloé
+</a>
+<a href="/designers/dolce-gabbana/bags/" class="needsclick " data-ga-text="Dolce &amp; Gabbana">
+Dolce &amp; Gabbana
+</a>
+<a href="/designers/jimmy-choo/bags" class="needsclick " data-ga-text="Jimmy Choo">
+Jimmy Choo
+</a>
+<a href="/designers/gucci/bags" class="needsclick " data-ga-text="Gucci">
+Gucci
+</a>
+<a href="/designers/miu-miu/bags" class="needsclick " data-ga-text="Miu Miu">
+Miu Miu
+</a>
+<a href="/designers/prada/bags" class="needsclick " data-ga-text="Prada">
+Prada
+</a>
+<a href="/designers/stella-mccartney/bags" class="needsclick " data-ga-text="Stella McCartney">
+Stella McCartney
+</a>
+<a href="/designers/valentino/bags" class="needsclick " data-ga-text="Valentino Garavani">
+Valentino Garavani
+</a>
+<a href="/designers/zac-by-zac-posen/bags/" class="needsclick " data-ga-text="Zac By Zac Posen">
+Zac By Zac Posen
+</a>
+</section>
+<section class="cms-banner gtm-promotion-banner" data-id="CATEGORY_HERO1" data-name="Bags">
+<a href="/designers/chloe/bags/" data-english-name="Featured link - Bags">
+<strong class="secondary-font--bold"> Featured </strong>
+<img class="categoryImage" data-src="//ounass-prod4.atgcdn.ae/small_light(of=jpg)/pub/media/catalog/category/Bags_wk89.jpg" alt="Category image">
+<div class="title"> <p><span>Discover the latest iconic bags by Chloé.</span></p> </div>
+<span class="link"> Shop Now </span>
+</a>
+</section>
+</div>
+</div>
+</div>
+</li>
+<li class="needsclick">
+<a href="/accessories/" data-ga-text="Accessories" class="first-level needsclick ">Accessories</a>
+<i class="icon-next"></i>
+<div class="dropdown clearfix">
+<div class="container navigation-container">
+<div class="navigation-inner">
+<section>
+<strong class="secondary-font--bold">
+Shop By
+</strong>
+<a href="/new-in/accessories/" class="needsclick " data-ga-text="What's New">
+What's New
+</a>
+<a href="/accessories/edits/small-leather-goods/" class="needsclick " data-ga-text="Small Leather Goods">
+Small Leather Goods
+</a>
+<a href="/accessories/edits/essential-accessories/" class="needsclick " data-ga-text="Essential Accessories">
+Essential Accessories
+</a>
+<a href="/accessories/edits/exclusives/" class="needsclick " data-ga-text="Exclusive to Ounass">
+Exclusive to Ounass
+</a>
+<a href="/accessories/edits/now-trending/" class="needsclick " data-ga-text="Trending Now">
+Trending Now
+</a>
+</section>
+<section>
+<strong class="secondary-font--bold">
+Accessories
+</strong>
+<a href="/accessories/" class="needsclick " data-ga-text="All Accessories">
+All Accessories
+</a>
+<a href="/accessories/belts/" class="needsclick " data-ga-text="Belts">
+Belts
+</a>
+<a href="/accessories/card-holders/" class="needsclick " data-ga-text="Card Holders">
+Card Holders
+</a>
+<a href="/accessories/hats/" class="needsclick " data-ga-text="Hats">
+Hats
+</a>
+<a href="/accessories/phone-cases/" class="needsclick " data-ga-text="Phone Cases">
+Phone Cases
+</a>
+<a href="/accessories/soft-accessories/" class="needsclick " data-ga-text="Scarves">
+Scarves
+</a>
+<a href="/accessories/sunglasses/" class="needsclick " data-ga-text="Sunglasses">
+Sunglasses
+</a>
+<a href="/accessories/wallets-pouches/" class="needsclick " data-ga-text="Wallets &amp; Pouches">
+Wallets &amp; Pouches
+</a>
+</section>
+<section class="expanded">
+<strong class="secondary-font--bold">
+Designers
+</strong>
+<a href="/designers/alexander-mcqueen/accessories" class="needsclick " data-ga-text="Alexander McQueen">
+Alexander McQueen
+</a>
+<a href="/designers/balenciaga/accessories/" class="needsclick " data-ga-text="Balenciaga">
+Balenciaga
+</a>
+<a href="/designers/bottega-veneta/accessories" class="needsclick " data-ga-text="Bottega Veneta">
+Bottega Veneta
+</a>
+<a href="/designers/chloe/accessories" class="needsclick " data-ga-text="Chloé">
+Chloé
+</a>
+<a href="/designers/gucci/accessories" class="needsclick " data-ga-text="Gucci">
+Gucci
+</a>
+<a href="/designers/le-specs/" class="needsclick " data-ga-text="Le Specs">
+Le Specs
+</a>
+<a href="/designers/miu-miu/accessories" class="needsclick " data-ga-text="Miu Miu">
+Miu Miu
+</a>
+<a href="/designers/poppy-lissiman/" class="needsclick " data-ga-text="Poppy Lissiman">
+Poppy Lissiman
+</a>
+<a href="/designers/prada/accessories" class="needsclick " data-ga-text="Prada">
+Prada
+</a>
+<a href="/designers/valentino/accessories" class="needsclick " data-ga-text="Valentino Garavani">
+Valentino Garavani
+</a>
+</section>
+<section class="cms-banner gtm-promotion-banner" data-id="CATEGORY_HERO1" data-name="Accessories">
+<a href="/accessories/wallets-pouches/" data-english-name="Featured link - Accessories">
+<strong class="secondary-font--bold"> Featured </strong>
+<img class="categoryImage" data-src="//ounass-prod3.atgcdn.ae/small_light(of=jpg)/pub/media/catalog/category/Accessories_wk89.jpg" alt="Category image">
+<div class="title"> <p><span>Shop the must-have wallets and pouches.</span></p> </div>
+<span class="link"> Shop Now </span>
+</a>
+</section>
+</div>
+</div>
+</div>
+</li>
+<li class="needsclick">
+<a href="/jewellery/" data-ga-text="Jewellery" class="first-level needsclick ">Jewellery</a>
+<i class="icon-next"></i>
+<div class="dropdown clearfix">
+<div class="container navigation-container">
+<div class="navigation-inner">
+<section>
+<strong class="secondary-font--bold">
+Shop By
+</strong>
+<a href="/new-in/jewellery/" class="needsclick " data-ga-text="What's New">
+What's New
+</a>
+<a href="/jewellery/edits/the-perfect-plus-one/" class="needsclick " data-ga-text="Gifting">
+Gifting
+</a>
+<a href="/jewellery/edits/head-turners/" class="needsclick " data-ga-text="Statement Pieces">
+Statement Pieces
+</a>
+<a href="/jewellery/edits/wear-forever/" class="needsclick " data-ga-text="Timeless Classics">
+Timeless Classics
+</a>
+</section>
+<div class="grouped-sections">
+<section>
+<strong class="secondary-font--bold">
+Fashion Jewellery
+</strong>
+<a href="/jewellery/fashion-jewellery/" class="needsclick " data-ga-text="All Fashion Jewellery">
+All Fashion Jewellery
+</a>
+<a href="/jewellery/fashion-jewellery/bracelets/" class="needsclick " data-ga-text="Bracelets">
+Bracelets
+</a>
+<a href="/jewellery/fashion-jewellery/earrings/" class="needsclick " data-ga-text="Earrings">
+Earrings
+</a>
+<a href="/jewellery/fashion-jewellery/necklaces/" class="needsclick " data-ga-text="Necklaces">
+Necklaces
+</a>
+ <a href="/jewellery/fashion-jewellery/rings/" class="needsclick " data-ga-text="Rings">
+Rings
+</a>
+</section>
+<section>
+<strong class="secondary-font--bold">
+Fine Jewellery
+</strong>
+<a href="/jewellery/fine-jewellery/" class="needsclick " data-ga-text="All Fine Jewellery">
+All Fine Jewellery
+</a>
+<a href="/jewellery/fine-jewellery/bracelets/" class="needsclick " data-ga-text="Bracelets">
+Bracelets
+</a>
+<a href="/jewellery/fine-jewellery/earrings/" class="needsclick " data-ga-text="Earrings">
+Earrings
+</a>
+<a href="/jewellery/fine-jewellery/necklaces/" class="needsclick " data-ga-text="Necklaces">
+Necklaces
+</a>
+<a href="/jewellery/fine-jewellery/rings/" class="needsclick " data-ga-text="Rings">
+Rings
+</a>
+<a href="/jewellery/fine-jewellery/watches/" class="needsclick " data-ga-text="Watches">
+Watches
+</a>
+</section>
+</div>
+<section class="expanded">
+<strong class="secondary-font--bold">
+Designers
+</strong>
+<a href="/designers/apm-monaco/" class="needsclick " data-ga-text="APM Monaco">
+APM Monaco
+</a>
+<a href="/designers/bil-arabi/" class="needsclick " data-ga-text="Bil Arabi">
+Bil Arabi
+</a>
+<a href="/designers/boucheron/" class="needsclick " data-ga-text="Boucheron">
+Boucheron
+</a>
+<a href="/designers/bulgari/jewellery/" class="needsclick " data-ga-text="Bulgari">
+Bulgari
+</a>
+<a href="/designers/by-design/" class="needsclick " data-ga-text="By Design">
+By Design
+</a>
+<a href="/designers/gucci/jewellery/" class="needsclick " data-ga-text="Gucci">
+Gucci
+</a>
+<a href="/designers/joanna-laura-constantine/" class="needsclick " data-ga-text="Joanna Laura Constantine">
+Joanna Laura Constantine
+</a>
+<a href="/designers/marli/" class="needsclick " data-ga-text="Marli">
+Marli
+</a>
+<a href="/designers/oscar-de-la-renta/" class="needsclick " data-ga-text="Oscar de la Renta">
+Oscar de la Renta
+</a>
+<a href="/designers/pomellato/" class="needsclick " data-ga-text="Pomellato">
+Pomellato
+</a>
+ <a href="/designers/sachin-babi/jewellery/" class="needsclick " data-ga-text="Sachin &amp; Babi">
+Sachin &amp; Babi
+</a>
+<a href="/designers/suzanne-kalan/" class="needsclick " data-ga-text="Suzanne Kalan">
+Suzanne Kalan
+</a>
+</section>
+<section class="cms-banner gtm-promotion-banner" data-id="CATEGORY_HERO1" data-name="Jewellery">
+<a href="/new-in/jewellery/" data-english-name="Featured link - Jewellery">
+<strong class="secondary-font--bold"> Featured </strong>
+<img class="categoryImage" data-src="//ounass-prod4.atgcdn.ae/small_light(of=jpg)/pub/media/catalog/category/Jewellery_wk89.jpg" alt="Category image">
+<div class="title"> <p><span>Exquisite new collections by Bil Arabi, David Yurman and more. </span></p> </div>
+<span class="link"> Shop Now </span>
+</a>
+</section>
+</div>
+</div>
+</div>
+</li>
+<li class="needsclick no-child">
+<a href="/beauty-lounge/" data-ga-text="Beauty Lounge" class="first-level needsclick ">Beauty Lounge</a>
+<i class="icon-next"></i>
+<div class="dropdown clearfix">
+<div class="container navigation-container">
+<div class="navigation-inner">
+<section>
+<strong class="secondary-font--bold">
+Shop By
+</strong>
+<a href="/new-in/beauty/" class="needsclick " data-ga-text="What's New">
+What's New
+</a>
+<a href="/beauty/edits/beauty-essentials/" class="needsclick " data-ga-text="Beauty Essentials">
+Beauty Essentials
+</a>
+<a href="/beauty/edits/beauty-gifting/" class="needsclick " data-ga-text="Beauty Gifting">
+Beauty Gifting
+</a>
+<a href="/beauty/edits/beauty-sets/" class="needsclick " data-ga-text="Beauty Sets">
+Beauty Sets
+</a>
+<a href="/beauty/edits/best-sellers/" class="needsclick " data-ga-text="Best Sellers">
+Best Sellers
+</a>
+<a href="/beauty/edits/exclusives/" class="needsclick " data-ga-text="Exclusive to Ounass">
+Exclusive to Ounass
+</a>
+</section>
+<section>
+<strong class="secondary-font--bold">
+Beauty Lounge
+</strong>
+<a href="/beauty/" class="needsclick " data-ga-text="All Beauty">
+All Beauty
+</a>
+<a href="/home/home-fragrances/" class="needsclick " data-ga-text="Candles &amp; Diffusers">
+Candles &amp; Diffusers
+</a>
+<a href="/beauty/fragrance/" class="needsclick " data-ga-text="Fragrances">
+Fragrances
+</a>
+<a href="/beauty/hair-care/" class="needsclick " data-ga-text="Hair Care">
+Hair Care
+</a>
+<a href="/beauty/make-up/" class="needsclick " data-ga-text="Make-Up">
+Make-Up
+</a>
+<a href="/beauty/skin-care/" class="needsclick " data-ga-text="Skin Care">
+Skin Care
+</a>
+<a href="/beauty/tools-accessories/" class="needsclick " data-ga-text="Tools &amp; Accessories">
+Tools &amp; Accessories
+</a>
+</section>
+<section class="expanded">
+<strong class="secondary-font--bold">
+Brands
+</strong>
+<a href="/designers/armani-beauty/" class="needsclick " data-ga-text="Armani Beauty">
+Armani Beauty
+</a>
+<a href="/designers/bobbi-brown/" class="needsclick " data-ga-text="Bobbi Brown">
+Bobbi Brown
+</a>
+<a href="/designers/byredo/" class="needsclick " data-ga-text="BYREDO">
+BYREDO
+</a>
+<a href="/designers/clarins/" class="needsclick " data-ga-text="Clarins">
+Clarins
+</a>
+<a href="/designers/diptyque/" class="needsclick " data-ga-text="Diptyque">
+Diptyque
+</a>
+<a href="/designers/gucci-perfumes/beauty/" class="needsclick " data-ga-text="Gucci Perfumes">
+Gucci Perfumes
+</a>
+<a href="/designers/kiehls/" class="needsclick " data-ga-text="Kiehl's">
+Kiehl's
+</a>
+<a href="/designers/la-mer/" class="needsclick " data-ga-text="La Mer">
+La Mer
+</a>
+<a href="/designers/laura-mercier/" class="needsclick " data-ga-text="Laura Mercier">
+Laura Mercier
+</a>
+<a href="/designers/ysl/" class="needsclick " data-ga-text="YSL">
+YSL
+</a>
+</section>
+<section class="cms-banner gtm-promotion-banner" data-id="CATEGORY_HERO1" data-name="Beauty Lounge">
+<a href="/designers/gucci-perfumes/beauty/" data-english-name="Featured link - Beauty Lounge">
+<strong class="secondary-font--bold"> Featured </strong>
+<img class="categoryImage" data-src="//ounass-prod1.atgcdn.ae/small_light(of=jpg)/pub/media/catalog/category/GucciBloom_1.jpg" alt="Category image">
+<div class="title"> <p>Gucci Bloom Nettare Di Fiori</p> </div>
+<span class="link"> Available Now </span>
+</a>
+</section>
+</div>
+</div>
+</div>
+</li>
+<li class="needsclick">
+<a href="/home/" data-ga-text="Home" class="first-level needsclick ">Home</a>
+<i class="icon-next"></i>
+<div class="dropdown clearfix">
+<div class="container navigation-container">
+<div class="navigation-inner">
+<section>
+<strong class="secondary-font--bold">
+Shop By
+</strong>
+<a href="/new-in/home/" class="needsclick " data-ga-text="What's New">
+What's New
+</a>
+<a href="/gifts/edits/home-adornments/" class="needsclick " data-ga-text="Gifting">
+Gifting
+</a>
+<a href="/home/edits/decadent-decor/" class="needsclick " data-ga-text="Decadent Décor">
+Decadent Décor
+</a>
+<a href="/home/edits/home-styling/" class="needsclick " data-ga-text="The Chic Hostess">
+The Chic Hostess
+</a>
+</section>
+<section>
+<strong class="secondary-font--bold">
+Home
+</strong>
+<a href="/home/" class="needsclick " data-ga-text="All Home">
+All Home
+</a>
+<a href="/home/bathroom/" class="needsclick " data-ga-text="Bathroom">
+Bathroom
+</a>
+<a href="/home/bedroom/" class="needsclick " data-ga-text="Bedroom">
+Bedroom
+</a>
+<a href="/home/dining/" class="needsclick " data-ga-text="Dining">
+Dining
+</a>
+<a href="/home/furniture/" class="needsclick " data-ga-text="Furniture">
+Furniture
+</a>
+<a href="/home/home-accessories/" class="needsclick " data-ga-text="Home Accessories">
+Home Accessories
+</a>
+<a href="/home/home-decor/" class="needsclick " data-ga-text="Home Décor">
+Home Décor
+</a>
+<a href="/home/home-fragrances/" class="needsclick " data-ga-text="Home Fragrances">
+Home Fragrances
+</a>
+</section>
+<section class="expanded">
+<strong class="secondary-font--bold">
+Brands
+</strong>
+<a href="/designers/anna-by-rablabs/" class="needsclick " data-ga-text="ANNA By RabLabs">
+ANNA By RabLabs
+</a>
+<a href="/designers/caracole/" class="needsclick " data-ga-text="Caracole">
+Caracole
+</a>
+<a href="/designers/cocolux/home/" class="needsclick " data-ga-text="Cocolux">
+Cocolux
+</a>
+<a href="/designers/diptyque/home/" class="needsclick " data-ga-text="Dyptique">
+Dyptique
+</a>
+<a href="/designers/eichholtz/home/" class="needsclick " data-ga-text="Eichholtz">
+Eichholtz
+</a>
+<a href="/designers/fornasetti/home/" class="needsclick " data-ga-text="Fornasetti">
+Fornasetti
+</a>
+<a href="/designers/jonathan-adler/home/" class="needsclick " data-ga-text="Jonathan Adler">
+Jonathan Adler
+</a>
+<a href="/designers/l-object/home/" class="needsclick " data-ga-text="L'Objet">
+L'Objet
+</a>
+<a href="/designers/michael-aram/home/" class="needsclick " data-ga-text="Michael Aram">
+Michael Aram
+</a>
+<a href="/designers/missoni-home/home/" class="needsclick " data-ga-text="Missoni Home">
+Missoni Home
+</a>
+<a href="/designers/tom-dixon/home/" class="needsclick " data-ga-text="Tom Dixon">
+Tom Dixon
+</a>
+<a href="/designers/versace-home/" class="needsclick " data-ga-text="Versace Home">
+Versace Home
+</a>
+</section>
+<section class="cms-banner gtm-promotion-banner" data-id="CATEGORY_HERO1" data-name="Home">
+<a href="/designers/aerin/home/" data-english-name="Featured link - Home">
+<strong class="secondary-font--bold"> Featured </strong>
+<img class="categoryImage" data-src="//ounass-prod4.atgcdn.ae/small_light(of=jpg)/pub/media/catalog/category/Home_wk89.jpg" alt="Category image">
+<div class="title"> <p><span>Beautiful new home adornments by Aerin. </span></p> </div>
+<span class="link"> Shop Now </span>
+</a>
+</section>
+</div>
+</div>
+</div>
+</li>
+<li class="needsclick">
+<a href="/sale/" data-ga-text="Sale" class="first-level needsclick color-copper-accent">Sale</a>
+<i class="icon-next"></i>
+<div class="dropdown clearfix">
+<div class="container navigation-container">
+<div class="navigation-inner">
+<section class="expanded designer-section public-sale-section">
+<span class="col-sm-12">
+<strong class="secondary-font--bold"> Sale </strong>
+<a class="needsclick" href="/sale/" data-ga-text="Shop All">Shop All</a>
+<a class="needsclick" href="/sale/bags/" data-ga-text="Bags">Bags</a>
+<a class="needsclick" href="/sale/clothing/beachwear/" data-ga-text="Beachwear">Beachwear</a>
+<a class="needsclick" href="/sale/beauty/" data-ga-text="Beauty">Beauty</a>
+<a class="needsclick" href="/sale/clothing/" data-ga-text="Clothing">Clothing</a>
+<a class="needsclick" href="/sale/clothing/coats-and-jackets/" data-ga-text="Coats &amp; Jackets">Coats &amp; Jackets</a>
+<a class="needsclick" href="/sale/clothing/dresses/" data-ga-text="Dresses">Dresses</a>
+<a class="needsclick" href="/sale/clothing/evening/" data-ga-text="Evening">Evening</a>
+<a class="needsclick" href="/sale/shoes/flat-shoes/" data-ga-text="Flat Shoes">Flat Shoes</a>
+</span>
+<span class="col-sm-12">
+<strong class="hidden-sidebar"></strong>
+<a href="/sale/clothing/gowns/" class="needsclick" data-ga-text="Gowns">Gowns</a>
+<a href="/sale/home/" class="needsclick" data-ga-text="Home">Home</a>
+<a href="/sale/jewellery/" class="needsclick" data-ga-text="Jewellery">Jewellery</a>
+<a href="/sale/clothing/pants/" class="needsclick" data-ga-text="Pants">Pants</a>
+<a href="/sale/shoes/pumps/" class="needsclick" data-ga-text="Pumps">Pumps</a>
+<a href="/sale/shoes/sandals/" class="needsclick" data-ga-text="Sandals">Sandals</a>
+<a href="/sale/shoes/" class="needsclick" data-ga-text="Shoes">Shoes</a>
+<a href="/sale/clothing/skirts/" class="needsclick" data-ga-text="Skirts">Skirts</a>
+<a href="/sale/clothing/tops/" class="needsclick" data-ga-text="Tops">Tops</a>
+</span>
+</section>
+<section class="expanded public-sale-section">
+<strong class="secondary-font--bold"> Clothing Size </strong>
+<a href="/sale/clothing/" class="needsclick">All Clothing</a>
+<a href="/sale/clothing/?rtwSizeCode=XXS" class="needsclick">XXS</a>
+<a href="/sale/clothing/?rtwSizeCode=XS" class="needsclick">XS</a>
+<a href="/sale/clothing/?rtwSizeCode=S" class="needsclick">S</a>
+<a href="/sale/clothing/?rtwSizeCode=M" class="needsclick">M</a>
+<a href="/sale/clothing/?rtwSizeCode=L" class="needsclick">L</a>
+<a href="/sale/clothing/?rtwSizeCode=XL" class="needsclick">XL</a>
+<a href="/sale/clothing/?rtwSizeCode=XXL&amp;rtwSizeCode=XXXL" class="needsclick">XXL</a>
+</section>
+<section class="expanded public-sale-section shoe-size">
+<strong class="secondary-font--bold"> Shoe Size </strong>
+<a href="/sale/shoes/" class="needsclick">All Shoes</a>
+<a href="/sale/shoes/?shoeSizeCode=34&amp;shoeSizeCode=35&amp;shoeSizeCode=35.5" class="needsclick">35</a>
+<a href="/sale/shoes/?shoeSizeCode=36&amp;shoeSizeCode=36.5" class="needsclick">36</a>
+<a href="/sale/shoes/?shoeSizeCode=37&amp;shoeSizeCode=37.5" class="needsclick">37</a>
+<a href="/sale/shoes/?shoeSizeCode=38&amp;shoeSizeCode=38.5" class="needsclick">38</a>
+<a href="/sale/shoes/?shoeSizeCode=39&amp;shoeSizeCode=39.5" class="needsclick">39</a>
+<a href="/sale/shoes/?shoeSizeCode=40&amp;shoeSizeCode=40.5" class="needsclick">40</a>
+<a href="/sale/shoes/?shoeSizeCode=41&amp;shoeSizeCode=41.5" class="needsclick">41</a>
+</section>
+<section class="expanded public-sale-section">
+<strong class="secondary-font--bold"> Reduction </strong>
+<a href="/sale/?discountPercentRounded=30" class="needsclick">Up to 30%</a>
+<a href="/sale/?discountPercentRounded=40" class="needsclick">40%</a>
+<a href="/sale/?discountPercentRounded=50" class="needsclick">50%</a>
+<a href="/sale/?discountPercentRounded=60" class="needsclick">60%</a>
+<a href="/sale/?discountPercentRounded=70" class="needsclick">70%</a>
+</section>
+<section class="cms-banner gtm-promotion-banner" data-id="CATEGORY_HERO1" data-name="Sale">
+<a href="/sale/" data-english-name="Featured link - Sale">
+<strong class="secondary-font--bold"> Featured </strong>
+<img class="categoryImage" data-src="//ounass-prod2.atgcdn.ae/small_light(of=jpg)/pub/media/catalog/category/SS-Sale-July---en.jpg" alt="Category image">
+<div class="title"> <p style="opacity: 0;">-</p> </div>
+<span class="link"> Shop All Sale </span>
+</a>
+</section>
+</div>
+</div>
+</div>
+</li>
+</ul>
+<a class="view-all"> VIEW ALL </a>
+</nav>
+</header>
+<form class="quick-search" action="/search" autocomplete="off">
+<div class="input-field clearfix">
+<span class="search-input">
+<input type="text" name="q" placeholder="Search" value="">
+<span class="icon-insert submit-button">
+<input type="submit" value="">
+</span>
+</span>
+<span class="close-button icon-close"></span>
+</div>
+<div class="dropdown">
+<div class="inner"></div>
+<div class="dropdown-footer">
+<a class="close-button"> CANCEL </a>
+</div>
+</div>
+</form>
+</div>
+<div class="container page-content-container layout-content-pages ">
+
+<div class="breadcrumb">
+<ul><li>&nbsp;</li></ul>
+</div>
+<div class="container cms-page">
+<h1>Privacy and Cookie Policy</h1>
+<p>This Privacy and Cookie Policy applies to information collected and processed via the www.ounass.com website and mobile application (together, the “Website”) and associated Website customer service channels. We take your privacy very seriously and therefore want you to know how your data is collected, used, shared and stored. The Website is owned and operated by Al Tayer Insignia LLC trading as Ounass and/or its affiliates and subsidiaries (together “we”, “us” or “Ounass”) the United Arab Emirates. Al Tayer Insignia LLC is a limited liability company incorporated under the laws of the United Arab Emirates, with commercial license number 583233 and its registered office at PO Box 2623, Dubai, United Arab Emirates. </p>
+<p>By visiting the Website or supplying information through its associated customer service channels, you are consenting to the practices described in this Privacy and Cookie Policy and our Website <a href="/terms-and-conditions/">Terms and Conditions</a>. Please note that our Privacy &amp; Cookie Policy is updated from time to time and that you will be bound by the most recent update of the policy appearing on our Website. It is therefore your responsibility to continue to check our Privacy and Cookie Policy for updates. </p>
+<h2>Information we may collect</h2>
+<p>We (and our authorized service providers) collect information supplied by you via the Website, other websites operated by us or any of our Website customer service channels including without limitation on the phone, via email, during Personal Shopping visits or via our Live Chat feature (where available). We and such service providers also collect information when you visit our Website, other websites operated by us or from third parties authorized to share your information with us. We and our authorized service providers may collect some of this information even if you are not a registered user or do not place an Order. This information may include: </p>
+<ul>
+<li>Contact and personal details such as: name, delivery address, phone number, email address, billing and payment information, date of birth, gift recipient details, gender, nationality and Personal Shopping preferences</li>
+<li>Website statistical information such as: your location, the URL you use to access the Website, browser or device type/unique fingerprint, your computer’s IP address and domain type, which pages you visited, search terms you entered, items you clicked on</li>
+<li>Transactional information such as: Orders you placed, items you purchased, date and time of Order as well as Orders you decided not to complete or items you placed in your basket and discarded, preferences you have indicated to us, requested personalization of items</li>
+<li>Information from third parties such as: couriers, payment providers or through the Amber Program</li>
+<li>Information you supply to us via online or offline surveys, competitions or product registration</li>
+</ul>
+<p>Please note that your full payment card details are captured only for the purposes of processing your transaction and are not stored, sold or rented by us. Your full payment card details are not available to our staff. All card transactions are managed by trusted, certified and legally authorized partners who are responsible for ensuring that your payment details remain secure during the payment process. </p>
+<p>Where you provide the information of a third party to us, you are confirming that you have their consent to do so. </p>
+<h2>Cookies </h2>
+<p>Our Website uses first party cookies (very small files that are sent by us to your computer or other access device) and other similar technologies which we can access when you visit our Website in the future. We may also use third party cookies. </p>
+<p>There are five types of cookies: </p>
+<h3>Website functionality cookies </h3>
+<p>These cookies enable you to browse the Website and use our features such as shopping baskets </p>
+<h3>Website analytics cookies </h3>
+<p>We use these cookies to measure and analyse how our customers use the Website. This allows us to continuously improve our Website and your shopping experience. </p>
+<h3>Customer preference cookies </h3>
+<p>When browsing or shopping online, the Website will remember your preferences (for example your user name, language or location). This makes your browsing experience simpler, easier and more personal to you. </p>
+<h3>Targeting cookies or advertising cookies </h3>
+<p>These cookies are used to deliver adverts relevant to you. In addition, they limit the number of times you see an advertisement as well as helping us measure the effectiveness of our advertising campaigns. </p>
+<h3>Third-party service provider cookies</h3>
+<p>We may work with third party companies whom we authorize to place third-party cookies, web beacons, or similar technologies for storing information on the Website. These service providers help us to provide you with a better, faster, and safer experience. These service providers may use these technologies in the ways described above and in addition may help us and you to avoid fraud. </p>
+<p><strong>By using our Website you agree that we and they can place these types of cookies on your device and access them whenever you visit the Website or other websites operated by us. </strong></p>
+<p>If you want to delete any cookies that are already on your computer, please refer to the help and support area on your internet browser for instructions on how to locate the file or directory that stores cookies. </p>
+<p>Please note that by deleting our cookies or disabling future cookies you may not be able to access certain areas or features of our Website. </p>
+<h2>How we use information</h2>
+<p>We (and/or the entities or companies listed in the “Who may we share information with” section below) may use your information including for the following purposes: </p>
+<ul>
+<li>For any purpose associated with the processing or fulfillment of your Order or to provide any service you request from us</li>
+<li>To verify and execute financial transactions you make through the Website, including procuring credit checks or performing fraud detection</li>
+<li>To assist you with your customer service queries or provide information you have requested</li>
+<li>To manage your account</li>
+<li>To provide you with a personalized or improved shopping experience</li>
+<li>For analytical or statistical purposes</li>
+<li>For marketing purposes including communicating promotional information about us, our partners and our websites, through newsletters and re-marketing ads. This is subject to whether you have opted out of receiving such communications</li>
+<li>To improve our service offering or Website</li>
+<li>To combine it with information we already hold lawfully through other sources</li>
+<li>To protect our rights, safety or the safety of others including for fraud prevention</li>
+<li>For any purpose required by law or regulation</li>
+</ul>
+<p>We may offer a Live Chat feature to assist you with queries you may have. Where available we may record and store all chat conversations. These transcripts are only accessed for customer service purposes. </p>
+<h2>Who may we share information with</h2>
+<p>We may share your information with any of the following: </p>
+<ul>
+<li>Our group companies</li>
+<li>Carefully selected third parties with whom we have a relationship and who may contact you or utilize your data only for reasons pre-agreed with us, including marketing</li>
+<li>Service providers who perform services on our behalf, such as: payment processing, information technology, Website maintenance, surveys and market research, warehousing and logistics, couriers, advertising and marketing or any service required to process your Order</li>
+<li>Our professional services providers such as: legal, audit, financial and insurance advisers</li>
+<li>Any assignee, successor operator or prospective purchaser of the Website or of us</li>
+<li>Any legal, regulatory, law enforcement, government or municipal bodies</li>
+<li>Any gift recipient or provider of any warranty in relation to your Order</li>
+</ul>
+<h2>Contacting Us and Opting Out of certain communications</h2>
+<p>If you have any queries about this Privacy and Cookie Policy, you can contact us using any of the following methods: by calling us on our UAE toll free number <a href="tel://800686277">800-OUNASS</a> or by emailing us at <a href="mailto: customercare@ounass.com">customercare@ounass.com</a>. </p>
+<p>When you first register with us you will be able to choose whether or not to receive marketing communications from us or our carefully selected third parties. Whenever you receive a marketing communication or newsletter from us (which may be by email, SMS, push notification, telephone or direct mail), you will be given an opportunity to unsubscribe. In addition, you can change your marketing preferences at any time by contacting us as described above. </p>
+<p>You may also request rectification of any incorrect data displayed in your online Account by contacting us or in certain cases, you may be able to directly amend certain information online. </p>
+<h2>Measures we put in place to protect your data </h2>
+<p>Information you provide to us via our Website is stored on secure servers. Any payment transactions carried out through our Website will be encrypted using Secure Socket Layer technology. It is your responsibility to keep any Website passwords or login codes issued to or chosen by you, confidential. </p>
+<p>We have implemented various steps to safeguard the integrity of our information technology infrastructure, including by implementing authentication, monitoring, auditing, and encryption technology. Security measures have been integrated into the design, implementation, and day-to-day operations of the Website as part of our continuing commitment to the security of electronic content and the electronic transmission of information. Despite such efforts, generally the transmission of information via the internet is not completely secure and its security can never be guaranteed. Any transmission of data via our Website is therefore carried out at your own risk. </p>
+<p>Your data may be transferred to, and stored in or outside, the United Arab Emirates. In submitting your data to us and using our Website, you acknowledge that your data may be sent to countries with differing levels of laws in the field of personal data protection. We require all third parties to whom any personal data is disclosed to keep it secure, treat it as confidential and use it only for the purposes agreed with us. </p>
+<h2>Third Party Websites</h2>
+<p>This Privacy and Cookie Policy does not apply to third party websites to which the Website may link and we are not responsible for the privacy and cookie practices of those websites or for any information you submit to those websites via the Website. Please be sure to read their privacy and cookie policies separately to ensure you are comfortable. If you are an Amber and/or Facebook member, then data collected via the Amber and/or Facebook websites will be subject to the Terms and Conditions of the Amber Scheme and/or Facebook website (as applicable) save that we may combine your Amber and/or Facebook data with data collected through the Website. </p>
+</div>
+</div>
+<div class="footer-wrapper">
+<div class="container">
+<footer>
+ <div>
+<section class="footer-payment clearfix">
+<div class="row text-center customer-care">
+<h4>Need help?</h4>
+<p>If you need to speak to one of our customer care<br>representative you can reach us here</p>
+<ul class="row">
+<li class="text-center col-xs-6"><a href="@" class="icon-telephone"></a></li>
+<li class="text-center col-xs-6"><a href="@" class="icon-contact"></a></li>
+</ul>
+</div>
+<div class="col-xs-12 col-md-8 banks">
+<div class="footer-payment-item">
+<h6 class="m-r-2">WE ACCEPT<span class="separator-visible-on-desktop">:</span></h6>
+</div>
+<span class="footer-payment-item">
+<img alt="Payment icons" class="footer-payment-item-methods" data-lazyimg="/img/layout/footer-payment-logos.png?v=2">
+<a class="footer-payment-item-pci m-x-1" href="https://verify.valuementor.com/index.php/show_certificate?cert_id=CERTUK96076512" rel="nofollow" onclick="window.open(this.href,'Valuementor Certificate','height=600,width=600,scrollbar=yes,status=no,menubar=no,toolbar=no,resizable=0'); return false">
+<img alt="Payment icons" data-lazyimg="/img/layout/pci-logo.png?v=1">
+</a>
+</span>
+</div>
+<div class="col-xs-12 col-md-4 d-f confidence">
+<i class="icon-thumb-up"></i>
+<p class="f-flex m-b-0">
+Buy with confidence! Free easy returns up to 30 days.
+<br class="hidden-sm-down">
+<a href="/terms-and-conditions/" target="_blank" class="text-und">Terms and Conditions</a>.
+</p>
+</div>
+</section>
+<div class="seo-banner">
+The Definitive Home Of Luxury
+</div>
+<section class="row footer-top">
+<aside class="col-md-7 subscription">
+<h4>Subscribe to our newsletter</h4>
+<form method="post" action="/customer/subscribeGuestToNewsletter" class="csrf newsletter-subscription-form" id="newsletter-subscribe-form">
+<div class="message-placeholder">
+<div class="alert alert-danger"><i class="icon-info"></i> <span></span></div>
+</div>
+<div class="form-group">
+<div class="row row-no-padding">
+<div class="col-md-9">
+<div class="text-field form-field">
+<input type="email" name="email" required="" placeholder="Please enter your email" data-msg-required="Please enter a valid email" data-msg-remote="Please enter a valid email">
+</div>
+</div>
+<div class="col-md-3">
+<button class="btn btn-success-white" type="submit">SUBSCRIBE</button>
+</div>
+</div>
+</div>
+</form>
+</aside>
+<aside class="col-md-4 col-md-push-1 social-links">
+<h4>Follow Ounass</h4>
+<div class="social-media">
+<a href="https://www.facebook.com/ounass" class="fa fa-facebook" title="Facebook" target="_blank" data-button-text="{_('Facebook')}}"></a>
+<a href="https://www.instagram.com/ounass" class="fa fa-instagram" title="Instagram" target="_blank" data-button-text="Instagram"></a>
+<a href="https://twitter.com/ounass" class="fa fa-twitter" title="Twitter" target="_blank" data-button-text="Twitter"></a>
+</div>
+</aside>
+</section>
+<section class="row footer-bottom">
+<aside class="col-md-2">
+<h4>Customer Care</h4>
+<a href="/contact-us/" data-button-text="Contact Us">Contact Us</a>
+<a href="/faq/" data-button-text="FAQ">FAQ</a>
+<a href="/payment/" data-button-text="Payment">Payment</a>
+<h4 class="m-md-t-2">About Us</h4>
+<a href="/about-us/" data-button-text="Who We Are">Who We Are</a>
+</aside>
+<aside class="col-md-2 col-half-offset">
+<h4>Top Brands</h4>
+<a href="/designers/gucci/" data-button-text="Gucci">Gucci</a>
+<a href="/designers/dolce-gabbana/" data-button-text="Dolce and Gabbana">Dolce and Gabbana</a>
+<a href="/designers/valentino/" data-button-text="Valentino">Valentino</a>
+<a href="/designers/kiehls/" data-button-text="Kiehls">Kiehl's</a>
+<a href="/designers/self-portrait/" data-button-text="self portrait">Self Portrait</a>
+</aside>
+<aside class="col-md-2 col-half-offset">
+<h4>Top Categories</h4>
+<a href="/clothing/" data-button-text="Clothing">Clothing</a>
+<a href="/shoes/" data-button-text="Shoes">Shoes</a>
+<a href="/bags/" data-button-text="Bags">Bags</a>
+<a href="/accessories/" data-button-text="Accessories">Accessories</a>
+<a href="/jewellery/" data-button-text="Jewellery">Jewellery</a>
+</aside>
+<aside class="col-md-2 col-half-offset">
+<h4>Legal</h4>
+<a href="/terms-and-conditions/" data-button-text="Terms and Conditions">Terms and Conditions</a>
+<a href="/price-match/" data-button-text="Price Match">Price Match</a>
+<a href="/privacy-policy/" data-button-text="Privacy and Cookies Policy">Privacy and Cookies Policy</a>
+<h4 class="m-md-t-2">Services</h4>
+<a href="/personal-styling/" data-button-text="Complimentary Personal Shopping">Complimentary Personal Shopping</a>
+</aside>
+<aside class="col-md-2 col-half-offset">
+<h4>Shipping And Returns</h4>
+<a href="/shipping-and-delivery/" data-button-text="Shipping &amp; Delivery">Shipping &amp; Delivery</a>
+<a href="/online-returns/" data-button-text="Online Returns">Online Returns</a>
+<h4 class="m-md-t-2 pri-font--medium">Ounass Apps</h4>
+<a href="/download-our-app/" data-button-text="Ounass Apps">
+<img class="m-r-1 m-b-1" src="/img/apple-logo.png" alt="Ounass Apple Logo" width="20">
+<img class="m-r-1 m-b-1" src="/img/google-play-logo.png" alt="Ounass Google Play Logo" width="20">
+<div class="pri-font--medium text-und color-copper-accent">Download Ounass App</div>
+</a>
+</aside>
+</section>
+<section class="copyright-wrapper clearfix">
+<a href="http://www.altayer.com/" class="logo" target="_blank">
+<img data-src="/img/layout/atg-logo.svg" data-fallback="/img/layout/atg-logo.svg">
+</a>
+<div class="content">
+<p class="tel">Contact customer care <a href="tel://+971800686277">800 OUNASS (800 686277)</a></p>
+<p class="copyright">Al Tayer Group LLC. 2018. All Rights Reserved</p>
+
+</div>
+</section>
+</div> 
+</footer>
+</div>
+</div>
+<input type="hidden" id="is-customer-logged-in" value="0">
+</div>
+<div class="is-mobile visible-xs"></div>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WQ2WLS"  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<div class="container-fluid modal " tabindex="-1" role="dialog" id="login-modal">
+<div class="vertical-alignment-helper">
+<div class="modal-dialog vertical-align-center">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true" class="icon-close"></span></button>
+<h4 class="modal-title modal-header-login-title">
+SIGN IN
+<span class="header-items pull-right">
+<span class="create-new-account">
+<a href="/customer/register"> CREATE NEW ACCOUNT</a>
+</span>
+</span>
+</h4>
+</div>
+<div class="modal-body">
+<form class="csrf login-form" method="post" action="/customer/login" novalidate="" autocomplete="off">
+<div class="message-placeholder">
+<div class="alert alert-danger"><i class="icon-info"></i> <span></span></div>
+</div>
+<div class="form-group row">
+<label class="text-right col-xs-12">Email Address</label>
+<div class="col-xs-12 form-field-wrapper">
+<div class="text-field form-field">
+<input type="email" name="email" required="" autocomplete="off" data-msg-email="Please enter a valid email address." data-msg-remote="Please enter a valid email" placeholder="Enter email address">
+</div>
+</div>
+</div>
+<div class="form-group row">
+<label class="text-right col-xs-12">Password</label>
+<div class="col-xs-12 form-field-wrapper">
+<div class="text-field form-field">
+<input type="password" name="password" required="" autocomplete="off" data-rule-minlength="6" placeholder="Enter password">
+</div>
+</div>
+</div>
+<div class="form-group row">
+<div class="action-buttons col-xs-12 clearfix">
+<button class="btn btn-success" type="submit">SIGN IN</button>
+<a href="#" class="forgot-password forgot-password-link">Forgot your password?</a>
+</div>
+</div>
+</form>
+</div>
+<div class="modal-footer modal-footer-login row no-border">
+<h4 class="modal-title modal-footer-login-title">OR SIGN IN WITH</h4>
+<div class="optional-login clearfix">
+<span class="pull-left">
+<a class="btn btn-empty btn-empty-amber loginWithAmber" href="#">AMBER</a>
+</span>
+<span class="separator">OR</span>
+<span class="pull-right">
+<a class="btn btn-facebook loginWithFacebook hidden-sm-down" href="#">
+<span class="hidden-sm-down">Facebook Connect</span>
+<span class="hidden-sm-up">Facebook</span>
+</a>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container-fluid modal " tabindex="-1" role="dialog" id="forgot-password-modal">
+<div class="vertical-alignment-helper">
+<div class="modal-dialog vertical-align-center">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true" class="icon-close"></span></button>
+<h4 class="modal-title">
+RETRIEVE PASSWORD <em class="pull-right">* indicates mandatory field</em>
+</h4>
+</div>
+<div class="modal-body">
+<form id="forgot-password-form" class="forgot-password-form csrf" method="post" action="/customer/sendPasswordResetEmail" novalidate="novalidate" autocomplete="off">
+<div class="message-placeholder">
+<div class="alert alert-danger"><i class="icon-info"></i> <span></span></div>
+</div>
+<div class="form-group row">
+<div class="form-note-placeholder col-xs-12">
+<h6 class="hidden"><span>FORGOT PASSWORD</span></h6>
+<p>To retrieve your password, please enter your email address below and click 'Retrieve Password'. </p>
+<p>A password reset link will then be sent to you by email.</p>
+</div>
+</div>
+<div class="form-group row clearfix">
+<div class="">
+<label class="text-right col-xs-4" for="email">E-mail *</label>
+<div class="col-xs-8">
+<div class="text-field form-field">
+<input type="email" id="email" name="email" required="" value="" data-msg-required="Please enter your email" data-msg-remote="Please enter a valid email">
+</div>
+</div>
+</div> 
+</div>
+<div class="action-buttons clearfix">
+<button class="btn btn-success pull-right" type="submit">Retrieve Password</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container-fluid modal " tabindex="-1" role="dialog" id="amber-modal">
+<div class="vertical-alignment-helper">
+<div class="modal-dialog vertical-align-center">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true" class="icon-close"></span></button>
+</div>
+<div class="modal-body">
+<div id="amber-content" class="loading">
+<iframe data-src="https://myamber.ae/connect/?clientId=2670764834576248&amp;redirectUri=https://www.ounass.ae/customer/amber-return"></iframe>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container-fluid modal " tabindex="-1" role="dialog" id="confirmation-modal">
+<div class="vertical-alignment-helper">
+<div class="modal-dialog vertical-align-center">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true" class="icon-close"></span></button>
+<span class="modal-title-content"></span>
+</div>
+<div class="modal-body">
+<div id="confirmation-content">
+</div>
+</div>
+<div class="action-buttons">
+<button class="btn btn-empty cancel-btn">CANCEL</button>
+<button class="btn btn-success confirm-btn">Confirm</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<script type="text/javascript">
+            (function(b,r,a,n,c,h,_,s,d,k){if(!b[n]||!b[n]._q){for(;s<_.length;)c(h,_[s++]);d=r.createElement(a);d.async=1;d.src="/__ext/branch.io.js?v=" + window._staticVersion;k=r.getElementsByTagName(a)[0];k.parentNode.insertBefore(d,k);b[n]=h}})(window,document,"script","branch",function(b,r){b[r]=function(){b._q.push([r,arguments])}},{_q:[],_v:1},"addListener applyCode banner closeBanner creditHistory credits data deepview deepviewCta first getCode init link logout redeem referrals removeListener sendSMS setBranchViewData setIdentity track validateCode".split(" "), 0);
+            branch.init('key_live_ibuCe4vsnTkyxo0NVxJrlejfCBpyNmrD');
+        </script>
+
+<link rel="manifest" href="/manifest.json">
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<input type="hidden" id="js-file-version" value="65a582d">
+<script defer="" src="/directory/js-data.js?locale=en_ae&amp;rv=65a582d&amp;t=1535974189050"></script>
+
+
+
+
+
+
+
+
+
+<input type="hidden" id="renderOnlyModalsUri" value="/privacy-policy/?renderOnlyModals=1">
+<script defer="" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.13.0/moment.min.js"></script>
+<script type="text/javascript" defer="" src="/js/atg.js?rv=65a582d"></script>
+<script async="" type="text/javascript" src="//static.atgcdn.ae/dynamicyield/api/8769625/api_dynamic.js"></script>
+<script async="" type="text/javascript" src="//static.atgcdn.ae/dynamicyield/api/8769625/api_static.js"></script>
+<div class="datalayer-wrapper">
+<script type="text/javascript">
+var dataLayer = dataLayer || [];
+
+    dataLayer.push({"userInfo":{"#ofproduct_detail_views":0,"has_product_in_cart":0,"language":"en_ae","currencyCode":"AED"}});
+
+    dataLayer.push({"ecommerce":{"currencyCode":"AED"}});
+
+
+// send page view after setting up initial variables
+dataLayer.push({'gtm.start': new Date().getTime(), event: 'gtm.js'})
+</script>
+</div>
+<span class="user-info-data" data-user="{&quot;#ofproduct_detail_views&quot;:0,&quot;has_product_in_cart&quot;:0,&quot;language&quot;:&quot;en_ae&quot;,&quot;currencyCode&quot;:&quot;AED&quot;}"></span>
+
+<input type="hidden" id="css-file-placeholder" value="/css-from-less-min/en_%s%?rv=65a582d">
+<link defer="" rel="stylesheet" href="/css-from-less-min/en_1.css?rv=65a582d" type="text/css" media="all">
+<script>document.documentElement.className = document.documentElement.className.replace(" js", "");</script>
+
+
+</body></html>
