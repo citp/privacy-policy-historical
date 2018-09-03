@@ -1,83 +1,87 @@
-> *The following text is extracted and transformed from the marketresearch.com privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712204021id_/https%3A//www.marketresearch.com/corporate/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketresearch.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903195349id_/https%3A//www.marketresearch.com/corporate/privacypolicy.asp) for the most accurate reproduction.*
 
 # MarketResearch.com Privacy Policy
 
-  
-**The Information We Collect**
+MarketResearch.com, Inc. is the owner of several web properties including [www.marketresearch.com](https://www.marketresearch.com/), [www.packagedfacts.com](https://www.packagedfacts.com/), [www.kaloramainformation.com](https://www.kaloramainformation.com/), [www.freedoniafocusreports.com](https://www.freedoniafocusreports.com/), [www.freedoniagroup.com](https://www.freedoniagroup.com/), and [www.simbainformation.com](https://www.simbainformation.com/). The following Privacy Policy shall govern the collection and use of personal information on each of these sites or any other MarketResearch.com, Inc. owned website on which this policy is posted. 
 
-When you visit this site, your IP address is recorded. We use your IP address to help diagnose problems with our server and to administer our website by creating statistical reports and tracking errors. Your IP address is used to help identify you when you buy and to gather broad demographic identification that will not be tied to your identity. 
+MarketResearch.com, Inc. has embraced several changes to its Privacy Policy with the implementation of the General Data Protection Regulation (GDPR), which went in to effect May 25, 2018. These changes affect our EU Customers. 
 
-We ask for personal information (1) when you subscribe to our Alert or newsletter services, (2) when you want to view detailed information about our products, (3) when you want to submit a question about our products/services to our customer service staff or (4) when you buy products. The types of personal information that may be collected on these pages are: name, company name, title, mailing address, e-mail address, phone number, fax number and credit card information. 
+In accordance with its necessary business practices MarketResearch.com, Inc. collects and processes personal data relating to its customers. MarketResearch.com, Inc. is committed to being transparent about how it collects and uses that data, and to meeting its data protection obligations as defined by the GDPR.
 
-If you elect to use our "Email to a Colleague" feature to inform others about our site or about particular products on our site, we ask you for your name and email address and your colleague’s name and email address. MarketResearch.com will automatically send the colleague a one-time email inviting them to visit the site. MarketResearch.com does not store this information. It is used for the sole purpose of sending this one-time email and tracking the success of our referral program. 
+What information do we collect?
 
-This site also uses "cookies", certain bits of information that are deposited on your computer when you visit this site and sent back to this site when you visit again. Cookies give us information about how many people visit certain pages on the site. We also use cookies so you don’t have to re-enter your login address or password each time you return to our site. In certain instances, we also use cookies to track the area of the site that you are on when you register as a user. If you do not have cookies enabled, you can still use our site, but you will have to log in each time you return to the site. 
+  * IP Address: When you visit this site, your IP address is recorded. We use your IP address to help diagnose problems with our server and to administer our website by creating statistical reports and tracking errors. Your IP address is used to help identify you when you buy and to gather broad demographic identification that will not be tied to your identity. 
+  * Personal Identification Information: this includes name, address, contact details, email, phone. This information is collected (1) when you subscribe to our Alert or newsletter services, (2) when you want to view detailed information about our products, and/or (3) when you want to submit a question about our products/services to our customer service staff. 
+  * Credit Card or Payment Information: This information is collected when purchases are made.
+  * Usage and Purchase History
+  * Name and Email Address of Colleague(s):  If you elect to use our "Email to a Colleague" feature to inform others about our site or about particular products on our site, we ask you for your name and email address and your colleague's name and email address. MarketResearch.com will automatically send the colleague a one-time email inviting them to visit the site. MarketResearch.com does not store this information. It is used for the sole purpose of sending this one-time email and tracking the success of the referral program. 
+  * Cookies and other technical or site function data: This site uses "cookies" and other technology to record usage of the website. This gives us information about how many people visit certain pages on the site. We also use this technology to customize your experience on the service. 
+  * Login Information:  Your ID and site password is stored for verification on future visits and for future purchases.
 
-This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above. 
 
-**The Way We Use Information**
 
-We use your personal information to provide requested information and services to you and to help ensure that the information we provide to you is relevant to your specific needs. 
+MarketResearch.com may collect this information in a variety of ways. For example, data might be contained in website registration forms, customer-initiated chat applications, payment submission forms, notes collected through phone conversations, etc. We may also collect personal data about you from third parties. We do not collect special categories of personal data. 
 
-When you buy something, your information will be stored on our system to complete the buying process. It must be shared with an outside party in order to verify your credit card information. We also record information about your questions to us and your purchases so that we and you can keep track of what you've asked about or ordered directly on our site. Additionally, we may need to contact you about your questions and/or your orders. 
+Data will be stored in a range of different places, including in HR management systems, on other IT systems (including email), and marketing and sales-related software/spreadsheets. 
 
-We use email addresses to send you the Alerts or newsletters you've requested, to answer the email we receive and to communicate with you about publications which you have told us you would be interested in hearing about. 
+Why does MarketResearch.com process personal data? 
 
-**Other Parties' Collection and Use of Your Information**
+We need to process data to take steps to enter in to a contract with you or to continue to fulfill a contract with you, which may even be a single purchase. For example, to register you as a new customer, process and deliver your order, manage our business relationship with you, enable you to complete surveys, deliver relevant website content, make recommendations to you for goods and services, etc. In some cases, processing your data is necessary to our legitimate business interests, such as to study how customers use our products/services or to recover debts owed to us. In some cases, we need to process data to ensure that we are complying with legal obligations as defined by the appropriate governments. 
 
-We do not share, sell, rent, or trade personal identifiable information with third parties for their promotional purposes. 
+All information we collect will help us maintain your account and provide services to you. 
 
-We do use agents, service providers and other third parties to provide some services on our site. These companies do not retain, share, store or use personally identifiable information for any other purposes then those described below: 
+Who has access to data? 
 
-**Agents**
+Your information may be shared internally for legitimate business reasons, such as customer support, marketing, or other client relationship building activities. This includes members of the marketing and sales teams, company analysts, Human Capital, and IT. 
 
-Publishers:   
-We may share your contact information with the publisher(s) whose reports you purchase. The publisher(s) may send you marketing materials. If you do not wish to receive these materials you will need to contact the publisher directly in order to opt-out (providing the publisher offers an opt-out). 
+MarketResearch.com may disclose your information to third parties if we determine that such disclosure is necessary to fulfill the contract/provide requested services to our customers or to comply with the law. Some specific examples include: 
 
-**Service Providers**
+  * Publishers: we may share personal information with copyright holders (i.e. publishers or authors) for any products you purchase. The publisher(s) may send you marketing materials and if you do not wish to receive these materials you will need to contact the publisher directly in order to opt-out. 
+  * Shipping of Mailed Purchases: Our publishers use an outside shipping service provider to fulfill applicable orders. These orders will be shipped to you directly from the publisher via a shipping provider, such as FedEx or DHL. 
+  * Payment Processing: When you buy something with a credit card, we use a credit card processing service provider to verify your credit card and bill you. 
 
-Shipping:   
-Our publishers use an outside shipping service provider to fulfill orders. These orders will be shipped to you directly from the publisher. In these cases, the publisher receives your contact information. 
 
-Credit Card Processing:   
-When you buy something with a credit card, we use a credit card processing service provider to verify your credit card and bill you. In addition, the name of your company (but not your name or contact information) will be shared with the publisher of the information you bought. 
 
-**Other Third Parties**
+Other than those third parties indicated above, we do not share, sell, rent, or trade personal identifiable information with other third parties for their promotional purposes. 
 
-Tracking Service:   
-A third party tracking service provider may set cookies on our website to help us track to what extent sales are being generated from various marketing efforts. This information is only used in the aggregate. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. 
+For how long does MarketResearch.com keep data?
 
-Also, our third party tracking service employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of website users. The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Clear gifs are tied to users' personally identifiable information but are used only by MarketResearch.com to determine the effectiveness of various marketing programs. 
+MarketResearch.com will retain your information for as long as it is necessary to provide you with services and/or complete data analytics processes. MarketResearch.com may also use your information in order to comply with legal obligations, resolve disputes, or enforce contracts and agreements. 
 
-**Changes in this Privacy Statement**
+As a data subject you have a number of rights. European clients and visitors can submit a Subject Access Request (SAR) to our Data Protection Officer to: 
+
+  * Access and obtain a copy of your data on request to the (right of transparency)
+  * Request the organization to change incorrect or incomplete data 
+  * Request the organization to delete (right of erasure) or stop processing your data, for example where the data is no longer necessary for the purposes of processing
+
+
+
+Changes in this Privacy Statement 
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement on the home page and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
 
-_**Legal Disclaimer**_   
+_Legal Disclaimer_
+
 _We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website._
 
-**Access to Your Information / Opt-Out / Unsubscribe**
+How is your information protected?
 
-Users who no longer wish to receive our updates, newsletters and promotional communications may opt-out of receiving these communications by following the directions in the email or replying to the email with the word "unsubscribe" in the subject line of the email or by emailing us at [unsubscribe@marketresearch.com](mailto:unsubscribe@marketresearch.com). 
+MarketResearch.com is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access that are located in controlled facilities. In addition, everything submitted to us is encrypted via Secure Socket Layer (SSL). This encryption method is used widely on the Internet to keep information secure. Although we use advanced encryption (Secure Socket Layers), we cannot guarantee the security of the information you transmit to us. While our website is secure, the Internet is not. If you prefer, our operators are standing by 3:00 a.m. to 6:30 p.m. EST Monday through Thursday and 3:00 a.m. to 5:30 p.m. EST Fridays at 800.298.5699 (U.S.) or +1.240.747.3093 (Int'l) should you prefer to place an order over the phone. 
 
-Should you want to see or change any information we have about you, go to the "Account" page and see the links under the "Account Settings" section. You easily can change any information you’ve sent us. 
+Contact Information
 
-If you are an Alert subscriber and want to change your settings, you can do so by clicking on the link at the end of each Alert email. 
+If you would like to exercise any of these rights or have any questions regarding your rights, please contact: 
 
-**Security**
-
-MarketResearch.com is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access that are located in controlled facilities. In addition, everything submitted to us is encrypted via Secure Socket Layer (SSL). This encryption method is used widely on the Internet to keep information secure. Although we use advanced encryption (Secure Socket Layers), we cannot guarantee the security of the information you transmit to us. While our website is secure, the Internet is not. If you prefer, our operators are standing by 3:00 a.m. to 6:30 p.m. EST Monday through Thursday and 3:00 a.m. to 5:30 p.m. EST Fridays at 800.298.5699 (U.S.) or +1.240.747.3093 (Int'l) should you wish to place an order. 
-
-**Contact Information**
-
-If users have any questions or suggestions regarding our privacy policy, please contact:   
-[Customer Service](mailto:customerservice@marketresearch.com)   
+Data Protection Officers  
 MarketResearch.com, Inc.   
 11200 Rockville Pike, Suite 504   
 Rockville, MD 20852   
 Phone: 240-747-3000   
 Fax: 240.747.3004   
-Web site URL:   
-<https://www.marketresearch.com/corporate/aboutus/contactus.asp>
+Email: [dpo@marketresearch.com](mailto:dpo@marketresearch.com)   
+Web site URL: <https://www.marketresearch.com/corporate/aboutus/contactus.asp>   
+
+
+For European clients, if you believe that the organization has not complied with your data protection rights under GDPR, you can file a complaint with the Information Commissioner. 
