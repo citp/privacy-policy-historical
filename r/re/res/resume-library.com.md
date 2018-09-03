@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resume-library.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122040011id_/https%3A//www.resume-library.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resume-library.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903163339id_/https%3A//www.resume-library.com/privacy) for the most accurate reproduction.*
 
 # Terms & Conditions | Privacy Policy | Resume-Library.com
 
@@ -6,11 +6,11 @@ Resume-Library endeavours to ensure that the information that you submit to us r
 
 ### Account and Resume information
 
-When you register to Resume-Library your details, including your Resume, can be made available for searching, viewing over the Internet and downloading by any direct recruiter, employment consultant or other person or organisation who requests Resumes matching your profile to be sent to them. Resume-Library attempts to verify the identity and the nature of the business of such organisations however does not make any warranties as to their authenticity.
+When you register with Resume-Library your details, including your Resume, can be made available for searching, viewing over the Internet and downloading by any direct recruiter, employment consultant or other person or organisation who requests Resumes matching your profile to be sent to them. Resume-Library attempts to verify the identity and the nature of the business of such organisations however does not make any warranties as to their authenticity.
 
 ### Your personal information
 
-When you create or register your Resume with us, we will collect personal information from you, such as your name, contact details, and other details. Once you register with Resume-Library and accept our Terms & Conditions, you are not anonymous to us. We may use information that you provide to alert you to our own products and services. We may contact you regarding site changes or changes to the Resume-Library products or services that you use.
+When you create or upload your Resume with us, we will collect personal information from you, such as your name, contact details, and other details. Once you register with Resume-Library and accept our Terms & Conditions, you are not anonymous to us. We may use information that you provide to alert you to our own products and services. We may contact you regarding site changes or changes to the Resume-Library products or services that you use.
 
 ### Disclosure of personal information
 
@@ -50,11 +50,11 @@ Similar to the spam you receive in your personal email inbox, fraudsters have st
 
 At no point during the application process with Resume-Library should you be asked to complete any monetary transactions or provide personal information beyond your resume.
 
-If you notice anything suspicious, we advise you to email us on [help@resume-library.com](mailto:help@resume-library.com) and stop communication with the recruiter or employer. For more information on how to spot scam emails, take a look at this blog [post](https://www.resume-library.com/career-advice/what-you-need-to-know-about-scams/).
+If you notice anything suspicious, we advise you to email us on [help@resume-library.com](mailto:help@resume-library.com) and stop communication with the recruiter or employer. For more information on how to spot scam emails, take a look at this blog [post](https://www.resume-library.com/career-advice/getting-started/job-scam-warning-signs-report-one/).
 
 ### Other ways of ensuring your privacy:
 
-You may amend your personal details at any time. These options are available when you sign in to our website.
+You may amend your personal details at any time. These options are available when you login to our website.
 
 You may unsubscribe from any employment or promotional information that we may send to you by in any of the following ways:
 
@@ -71,13 +71,15 @@ You may unsubscribe from any employment or promotional information that we may s
 
 Resume-Library uses browser cookies; this means our webservers put small files (the 'cookies') onto your computer to collect information as you use the website. What the cookies contain varies depending on the features they are being used for. Cookies enable Resume-Library to monitor traffic, remember users and their preferences and to provide features to users across multiple web servers.
 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your options for not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+
 ### Google Analytics
 
-Resume-Library uses Google Analytics to help Analyze how users use the site. The tool uses "cookies", which are text files placed on your computer, to collect standard Internet log information and visitor behavior information in an anonymous form. The information generated by the cookie about your use of the website (including IP address) is transmitted to Google. This information is then used to evaluate visitors' us of the website and to compile statistical reports on website activity for Resume-Library.
+Resume-Library uses Google Analytics to help analyze how users use the site. The tool uses "cookies", which are text files placed on your computer, to collect standard Internet log information and visitor behavior information in an anonymous form. The information generated by the cookie about your use of the website (including IP address) is transmitted to Google. This information is then used to evaluate visitor's use of the website and to compile statistical reports on website activity for Resume-Library.
 
 We will never (and will not allow any third party to) use the statistical analytics tool to track or to collect any Personally Identifiable Information (PII) of visitors to our site. Google will not associate your IP address with any other data held by Google. Neither we nor Google will link, or seek to link, an IP address with the identity of a computer user. We will not associate any data gathered from this site with any Personally Identifiable Information from any source, unless you explicitly submit that information via a fill-in form on our website.
 
-You may choose to accept or decline cookies. Most Web browsers automatically default to accept them, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
+You may choose to accept or decline cookies. Most web browsers automatically default to accept them, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our website.
 
 Any further queries should be directed through our [contact form](https://web.archive.org/contact).
 
