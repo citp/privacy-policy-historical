@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supre.com.au privacy policy that was archived on 2018-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180312123958id_/https%3A//supre.com.au/privacy-security/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supre.com.au privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903042219id_/https%3A//supre.com.au/privacy-security/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Supre
 
