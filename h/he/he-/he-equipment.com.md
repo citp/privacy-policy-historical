@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the he-equipment.com privacy policy that was archived on 2017-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170329101851id_/https%3A//www.he-equipment.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the he-equipment.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903202924id_/https%3A//www.he-equipment.com/legal/privacy) for the most accurate reproduction.*
 
 # H&E Equipment Services
 
 PRIVACY POLICY 
 
-H&E Equipment Services, Inc. , including any and all of its affiliates, parents, or subsidiaries (collectively “H&E”), is committed to reasonably protecting the personal and private information belonging to any and all visitors to their web-site. H&E promotes the use of fair information practices. Because H&E is committed to your privacy, we have agreed to disclose our information practices in the Privacy Policy below. This Privacy Policy outlines what H&E does with information that is collected by your use of this web-site www.HE-Equipment.com (the “web-site”) and what measures H&E takes to ensure that your information is protected. 
+H&E Equipment Services, Inc. , including any and all of its affiliates, parents, or subsidiaries (collectively “H&E”), is committed to reasonably protecting the personal and private information belonging to any and all visitors to their web-site. H&E promotes the use of fair information practices. Because H&E is committed to your privacy, we have agreed to disclose our information practices in the Privacy Policy below. This Privacy Policy outlines what H&E does with information that is collected by your use of this web-site [www.HE-Equipment.com](http://www.he-equipment.com/) (the “web-site”) and what measures H&E takes to ensure that your information is protected. 
 
 INFORMATION COLLECTION AND USE 
 
@@ -28,7 +28,7 @@ Additionally, if you utilize the web-site to make a purchase, we may collect per
 
 Financing 
 
-You may consider financing certain transactions through use of the web-site. In the event that you choose to pursue financing, you may be asked to complete a financing application that will require submission of personal financial information regarding income, assets, debts, or information related to or regarding credit-worthiness (including social security information or tax ID information). H&E does not store or house this information on its web-site or any other web-site maintained, controlled, or owned by H&E; rather, H&E transmits this information via a secure connection to a third-party web-site maintained by Bectran (http://bectran.com). H&E directs you to familiarize yourself with the privacy policies and terms of use of your information that can be found on Bectran’s web-site at http://bectran.com/custou.html (terms) and http://bectran.com/privacy_policy.html (privacy). 
+You may consider financing certain transactions through use of the web-site. In the event that you choose to pursue financing, you may be asked to complete a financing application that will require submission of personal financial information regarding income, assets, debts, or information related to or regarding credit-worthiness (including social security information or tax ID information). H&E does not store or house this information on its web-site or any other web-site maintained, controlled, or owned by H&E.
 
 Employment Inquiries 
 
