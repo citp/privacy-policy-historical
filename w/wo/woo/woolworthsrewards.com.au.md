@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woolworthsrewards.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313212400id_/https%3A//www.woolworthsrewards.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woolworthsrewards.com.au privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903233013id_/https%3A//www.woolworthsrewards.com.au/privacy.html) for the most accurate reproduction.*
 
 # Woolworths Rewards
 
@@ -10,7 +10,7 @@ Woolworths Rewards' privacy policy is the [Woolworths Group Privacy Policy](http
 
 **Cookies Statement**
 
-For details about our use of cookies, please see our [Cookies Statement](https://www.woolworths.com.au/Shop/Discover/about-us/cookies-statement).
+For details about our use of cookies, please see our [Cookies Statement](https://www.woolworths.com.au/Shop/Discover/about-us/cookies-statement).
 
 **Collection Notice**
 
@@ -32,11 +32,11 @@ We collect personal information directly from you when you register to become a 
 
 If Woolworths Rewards Members do not permit us to collect the personal information needed by us to send them service-based communications (such as their email address) under the Woolworths Rewards program, their Woolworths Rewards Membership may be terminated.
 
-We also collect personal information in the course of administering your Membership. This includes information about your shopping history (such as items purchased, the price of those items, the date of purchase, and the location of the store), and whether you have taken up any of our offers or rewards. 
+We also collect personal information in the course of administering your Membership. This includes information about your shopping history (such as items purchased, the price of those items, the date of purchase, and the location of the store), and whether you have taken up any of our offers or rewards.
 
-We collect this information when you scan your Woolworths Rewards card at Earn Businesses (including participating fuel outlets).  We also collect Members' transaction history from the use of their payment card, which is matched to their Woolworths Rewards account..  Our systems render payment card numbers unreadable (through the use of cryptographic hashing or encryption algorithm) and replace it with a randomised token number, which protects such details from unauthorised access or disclosure.    
+We collect this information when you scan your Woolworths Rewards card at Earn Businesses (including participating fuel outlets). We also collect Members' transaction history from the use of their payment card, which is matched to their Woolworths Rewards account.. Our systems render payment card numbers unreadable (through the use of cryptographic hashing or encryption algorithm) and replace it with a randomised token number, which protects such details from unauthorised access or disclosure.
 
-Linking this token number with a Member's account enables us to collect the Member's transaction history even when they do not scan their Woolworths Rewards card at the point of sale.  The collection of this information enables Woolworths to continue to provide Members with personalised and more engaging and relevant offers than they would otherwise receive. 
+Linking this token number with a Member's account enables us to collect the Member's transaction history even when they do not scan their Woolworths Rewards card at the point of sale. The collection of this information enables Woolworths to continue to provide Members with personalised and more engaging and relevant offers than they would otherwise receive.
 
 For more information, please see our [Privacy Policy](https://www.woolworthsgroup.com.au/page/privacy-policy/).
 
@@ -60,7 +60,7 @@ Many Australian laws authorise or require the collection of personal information
 
 **Collection purposes:**
 
-We collect personal information for the primary purposes of registering and administering a Member's account, to sell and promote products and services to you, to offer Member Benefits and Other Benefits, and to improve our customer offerings. 
+We collect personal information for the primary purposes of registering and administering a Member's account, to sell and promote products and services to you, to offer Member Benefits and Other Benefits, and to improve our customer offerings.
 
 We do this by sending you:
 
@@ -74,7 +74,7 @@ Additionally, we anonymise or aggregate the personal information that we collect
 
 We collect personal information for other purposes which are within Woolworths Rewards Members' reasonable expectations or permitted by law.
 
-To manage Woolworths Rewards subscriptions or for information on opting out of direct marketing communications or tailored advertising, Members can log into their [Woolworths Rewards account](https://www.woolworthsrewards.com.au/) and review communication preferences on the Communications page under My account. 
+To manage Woolworths Rewards subscriptions or for information on opting out of direct marketing communications or tailored advertising, Members can log into their [Woolworths Rewards account](https://www.woolworthsrewards.com.au/) and review communication preferences on the Communications page under My account.
 
 You can also opt out by using the unsubscribe/opt out facility in the communication that we send you. Opting-out of some of our communications means that we may not have access to the personal information we need to provide the Member Benefits or Other Benefits relevant to those opt-outs.
 
@@ -107,24 +107,28 @@ Our privacy policy contains information about how individuals, including Woolwor
 
 We are likely to disclose personal information about Woolworths Rewards members to overseas recipients. Our privacy policy provides information about the countries in which such recipients are likely to be located.
 
-**Supplementary Collection Notice: Apple Wallet**
+**Supplementary Collection Notice: Apple Wallet and Google Pay TM**
 
-This Notice explains how Woolworths Group Limited (ABN 88 000 014 675) ("Woolworths", "we" or "our") collects, uses and discloses your personal information if you register and use your Woolworths Rewards card in Apple Wallet. The terms of this Notice apply in addition to the Woolworths Rewards Privacy Collection Notice (set out above), which applies generally to our handling of personal information for the purposes of the Woolworths Rewards program.
+This Notice explains how Woolworths Group Limited (ABN 88 000 014 675) ("Woolworths", "we" or "our") collects, uses and discloses your personal information if you register and use your Woolworths Rewards card in Apple Wallet or Google Pay. The terms of this Notice apply in addition to the Woolworths Rewards Privacy Collection Notice (set out above), which applies generally to our handling of personal information for the purposes of the Woolworths Rewards program.
 
-If you register and use your Woolworths Rewards card in Apple Wallet, Woolworths will collect personal information such as your name, address, contact details, demographic information, and information relating to your mobile device (including your device type and model, and operating system). We may also collect feedback about your use of Apple Wallet to help us better understand and improve the experience for our members.
+If you register and use your Woolworths Rewards card in Apple Wallet or Google Pay, Woolworths will collect personal information such as your name, address, contact details, demographic information, and information relating to your mobile device (including your device type and model, and operating system). We may disclose your details including your Rewards balance to Google which may use or disclosure this information for commercial purposes in accordance with its terms of service from time to time. We may also collect feedback about your use of Apple Wallet and Google Pay to help us better understand and improve the experience for our members.
 
-We will send service and marketing-related notifications to your device . If you have Locations Services turned on in your Settings, you will also receive notifications based on the location of your device. For example, we may send you special offers if we identify that your device is in, or near, a Woolworths supermarket.  
+We will send service and marketing-related notifications to your device. If you have Locations Services turned on in your Settings, you will also receive notifications based on the location of your device. For example, we may send you special offers if we identify that your device is in, or near, a Woolworths supermarket.
 
-You can opt out from allowing Woolworths to send you these push notifications, or location-based notifications, by adjusting the permissions in your device Settings. Please note that these notification settings are for your device only and are independent of, and separate to, the marketing and communication settings in your Woolworths Rewards account.   
+You can opt out from allowing Woolworths to send you these push notifications, or location-based notifications, by adjusting the permissions in your device Settings. Please note that these notification settings are for your device only and are independent of, and separate to, the marketing and communication settings in your Woolworths Rewards account.
 
-We may share personal and anonymised information with Apple and other service providers in order for us to facilitate the use of your Woolworths Rewards card with Apple Wallet.
+We may share personal and anonymised information with Apple or Google and other service providers for commercial purposes and also in order for us to facilitate the use of your Woolworths Rewards card with Apple Wallet and Google Pay.
 
-If you do not want us to collect, use or disclose the information described above, you should not register your Woolworths Rewards card in Apple Wallet.  
+If you do not want us to collect, use or disclose the information described above, you should not register your Woolworths Rewards card in Apple Wallet or Google Pay.
 
-In addition to this Notice, you should read Apple's Privacy Policy at [www.apple.com/au/privacy](http://www.apple.com/au/privacy). If you register your card in Apple Wallet, Apple may access information about the use of your card.
+In addition to this Notice, you should read
+
+Apple's Privacy Policy at [www.apple.com/au/privacy](http://www.apple.com/au/privacy). If you register your card in Apple Wallet, Apple may access information about the use of your card.
+
+Google's Privacy Policy at <https://policies.google.com/privacy>. If you register your card in Google Pay, Google may access information about you and the use of your card.
 
 **Changes to this Collection Notice:**
 
 We may change the terms of this Collection Notice from time to time. A copy of the revised Collection Notice will be available on the Website or can be obtained by calling the Contact Centre.
 
-**Last updated:** January 2018.
+**Last updated:** May 2018.
