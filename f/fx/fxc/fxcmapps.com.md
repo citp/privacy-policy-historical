@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxcmapps.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606211914id_/https%3A//www.fxcmapps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxcmapps.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903210454id_/https%3A//www.fxcmapps.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FXCM Apps Store
 
@@ -51,9 +51,9 @@ If you do not wish to have your personal information disclosed to our affiliates
 
 or send your request to:
 
-**Forex Capital Markets LLC**  
-Attention: Privacy Officer  
-55 Water St., 50th Floor  
-New York, NY 10041
+**FXCM**  
+Attention: Data Protection Officer  
+20 Gresham Street, 4th Floor  
+London EC2V 7JE, United Kingdom
 
 Please be advised, that if we receive such instruction we will not be able to service your account and must close any open and funded accounts you have.
