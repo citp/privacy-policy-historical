@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namecheckr.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028005429id_/https%3A//www.namecheckr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namecheckr.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903104323id_/https%3A//www.namecheckr.com/privacy) for the most accurate reproduction.*
 
 # Privacy | namecheckr.com
 
@@ -85,7 +85,7 @@ We take certain measures to enhance the security of our Site and Service, includ
 
 #### Your California Online Privacy Rights
 
-Namecheckr permits residents of California to use its services. Therefore, it is the intent of Namecheckr to comply with the California Business and Professions Code §§ 22575-22579. If you are a California resident you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes. Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes. In summary, you must presume that we collect electronic information from all visitors. You may contact us at hello@namecheckr.com with any questions.
+Namecheckr permits residents of California to use its services. Therefore, it is the intent of Namecheckr to comply with the California Business and Professions Code §§ 22575-22579. If you are a California resident you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes. Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes. In summary, you must presume that we collect electronic information from all visitors. You may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) with any questions.
 
 #### International Transfer
 
