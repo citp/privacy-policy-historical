@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jpschools.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606015304id_/http%3A//jpschools.org/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpschools.org privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903124025id_/http%3A//jpschools.org/privacy-statement) for the most accurate reproduction.*
 
-# Jefferson Parish Public School System — Privacy Statement
+# Privacy Statement — Jefferson Parish Public School System
 
 Your privacy is very important to us. Simply stated, our policy is to collect no personal information about you when you visit our websites, unless you affirmatively choose to make such information available to us.
 
