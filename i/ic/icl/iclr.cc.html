@@ -1,0 +1,690 @@
+<!--The following is the downloaded HTML source of the iclr.cc privacy policy that was archived on 2018-09-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180904000542id_/https%3A//iclr.cc/public/PrivacyPolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en" class=" js inlinesvg"><head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="apple-mobile-web-app-capable" content="yes">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta name="description" content="ICLR Website">
+
+      <!--   <link rel="shortcut icon" href="../../assets/ico/favicon.ico"> -->
+
+
+    <title>ICLR Privacy Policy</title>
+
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" href="/static/admin/css/nips.css" type="text/css">
+    <link rel="stylesheet" href="/static/admin/css/icml.css" type="text/css">
+    <link rel="stylesheet" href="/static/admin/bootstrap/dist/css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="/static/admin/css/offcanvas.css" type="text/css">
+    <link rel="stylesheet" href="/static/admin/css/custom.css" type="text/css">
+    <link rel="stylesheet" href="/static/admin/glyphicons_pro/glyphicons/web/html_css/css/glyphicons.css" type="text/css">
+    <link rel="stylesheet" href="/static/admin/bootstrap-wizard/src/bootstrap-wizard.css" type="text/css">
+
+
+<script id="facebook-jssdk" src="//connect.facebook.net"></script><script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+  "tex2jax": {
+    "inlineMath": [["$","$"], ["\\(","\\)"]],
+    "displayMath": [["\\[","\\]"]],
+    "processEscapes": true
+  }
+}
+);
+</script>
+
+<script type="text/javascript" async="" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+
+
+
+
+    <style>
+  a[href]:after { content: none !important; }
+  button:after { content:none !important;}
+  </style>
+<!--This script keeps local links inside the web app rather than opening them
+in Safari, and has nothing to do with editing or Aloha.-->
+
+<script type="text/javascript">
+	(function(document,navigator,standalone) {
+		// prevents links from apps from oppening in mobile safari
+		// this javascript must be the first script in your <head>
+		if ((standalone in navigator) && navigator[standalone]) {
+			var curnode, location=document.location, stop=/^(a|html)$/i;
+			document.addEventListener('click', function(e) {
+				curnode=e.target;
+				while (!(stop).test(curnode.nodeName)) {
+					curnode=curnode.parentNode;
+				}
+				// Condidions to do this only on links to your own app
+				// if you want all links, use if('href' in curnode) instead.
+				if(
+					'href' in curnode && // is a link
+					(chref=curnode.href).replace(location.href,'').indexOf('#') && // is not an anchor
+					(	!(/^[a-z\+\.\-]+:/i).test(chref) ||                       // either does not have a proper scheme (relative links)
+						chref.indexOf(location.protocol+'//'+location.host)===0 ) // or is in the same protocol and domain
+				) {
+					e.preventDefault();
+					location.href = curnode.href;
+				}
+			},false);
+		}
+	})(document,window.navigator,'standalone');
+</script>        
+
+<!-- This style sets the minimum size of a blurb to 260 px unless there is a
+template context variable blurb_min_height that sets it otherwise. If blurbs
+aren't all about the same size, they don't flow well when the window is
+resized.-->
+
+
+<style>
+/*This is here rather that in a .css file for a reason.*/
+    @media screen and (min-width: 767px) {
+        .blurb {
+            min-height:260px;
+        }
+    }
+</style>
+
+
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<script>if (typeof jQuery === 'undefined') {
+  document.write(unescape('%3Cscript%20src%3D%22//static/admin/js/jquery-2.2.4.min.js%22%3E%3C/script%3E'));
+}
+</script><script src="//static/admin/js/jquery-2.2.4.min.js"></script>
+
+
+<script>
+    var jq2 = jQuery;
+    /*Store a pointer to jquery2 so I can reference it later.  Aloha loads jquery 1.7 and much of bootstrap 3 is not compatible*/
+
+</script>
+
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script>
+  if(typeof($.fn.modal) === 'undefined')
+    {document.write('<script src="//static/admin/bootstrap/dist/js/bootstrap.min.js"><\/script>')}
+</script>
+
+
+
+
+<script src="/static/admin/js/ajax-csrf-snippet.js" type="text/javascript"></script>
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" type="text/css">
+
+
+
+
+
+  </head>
+
+  <body style="min-height:900px">
+      
+      <div class="noprint">
+      <div class="navbar navbar-fixed-top navbar-inverse showborder" role="navigation" style="height:50px !important">
+        <div class="container showborder">
+            <p class="pull-left visible-xs">
+              <button type="button" class="navbar-toggle" data-toggle="offcanvas" onclick="window.scrollTo(0, 0);" id="hamburger">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+
+              </button>
+            </p>
+          <div class="navbar-header" style="white-space:nowrap;">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse" style="position:relative;top:-5px" id="toggleSearch">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="glyphicon glyphicon-search" style="color:white;"></span>
+                </button>
+        <a class="navbar-brand" href="/"><span class="glyphicon glyphicon-home"></span></a>
+
+
+                  
+                      
+                      <a href="/accounts/login?nextp=/public/PrivacyPolicy " class="navbar-brand"><span class="glyphicon glyphicon-log-in"></span> Login</a>
+                  
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+          </div>
+          <div class="collapse navbar-inverse navbar-collapse" style="padding-left:50px">
+
+                <form class="navbar-form " role="search" action="/search">
+                        <div class="input-group" style="max-width:400px">
+                            <input type="text" class="form-control" spellcheck="false" placeholder="Search" name="q" id="nips-search" style="width:100%">
+                            <div class="input-group-btn">
+                                <button class="btn btn-primary" type="submit"><i class="glyphicon glyphicon-search"></i></button>
+                            </div>
+                        </div>
+                   </form>
+
+          </div><!-- /.nav-collapse -->
+        </div><!-- /.container -->
+      </div><!-- /.navbar -->
+      </div><!--noprint div-->
+      <!--For unit tests-->
+      <div id="menuLoad"></div>
+      
+
+
+    <div class="container pull-left" style="min-height:00px"> <!--The main container for the page content-->
+
+      <div id="wholepage" class="row row-offcanvas row-offcanvas-left" style="z-index:5"> <!--This holds the whole page including the navbar-->
+
+          <!-- Sidebar on the left-->
+
+              <div class="col-xs-6 col-sm-3 sidebar-offcanvas noprint" id="sidebar" role="navigation" style="z-index:5">
+              
+              <div><span style="font-size:2em">
+                <b>ICLR | 2019 </b></span><br>
+                <div class="gray">Seventh International Conference on Learning Representations</div>
+                <br>
+              </div>
+              
+                <div class="list-group">
+                  <div class="dropdown list-group-item active" style="background-color: #357ebd; border-color: #357ebd;" id="dropdownMenu1">
+                    <div class="dropdown-toggle btn-link" data-toggle="dropdown" style="color:white">
+                        <span class="hidden-xs">Year </span><span id="conferenceYear">(2019)</span> <span class="caret"></span>
+                    </div>
+                      <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1" id="previousConferencesMenu">
+                        <li class="" role="menuitem" tabindex="-1"> <a href="/Conferences/2019">2019</a></li>
+                        <li role="presentation" class="divider"></li>
+                        <li class="" role="menuitem" tabindex="-1"> <a href="/Conferences/2018">2018</a></li>
+                        <li role="presentation" class="divider"></li>
+                        <li class="" role="menuitem" tabindex="-1"> <a href="/archive/www/2017.html">2017</a></li>
+                        <li role="presentation" class="divider"></li>
+                        <li class="" role="menuitem" tabindex="-1"> <a href="/archive/www/2016.html">2016</a></li>
+                        <li role="presentation" class="divider"></li>
+                        <li class="" role="menuitem" tabindex="-1"> <a href="/archive/www/2015.html">2015</a></li>
+                        <li role="presentation" class="divider"></li>
+                        <li class="" role="menuitem" tabindex="-1"> <a href="/archive/www/2014.html">2014</a></li>
+                        <li role="presentation" class="divider"></li>
+                        <li class="" role="menuitem" tabindex="-1"> <a href="/archive/www/2013.html">2013</a></li>
+
+                        
+
+                      </ul>
+                  </div>
+
+
+                
+                
+                
+                
+
+                <div class="dropdown list-group-item">
+                  <div class="dropdown-toggle btn-link" id="dropdownMenu4" data-toggle="dropdown">
+                      Help <span class="caret"></span>
+                  </div>
+                      <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu4">
+              
+                        <li role="menuitem" tabindex="-1"> <a href="/FAQ"><span class="glyphicon glyphicon-question-sign text-primary"></span> FAQ</a></li>
+                        <li role="presentation" class="divider"></li>
+                        <li role="menuitem" tabindex="-1"> <a href="/Help/Contact"><span class="glyphicon glyphicon-envelope text-primary"></span> Contact ICLR</a></li>
+                        <li role="presentation" class="divider"></li>
+                        <li role="menuitem" tabindex="-1"><a href="#" id="feedback" title="Leave feedback about this page"><span class="glyphicon glyphicon-comment text-primary"></span> Website Feedback</a></li>
+            <li role="presentation" class="divider"></li>
+            <li role="menuitem" tabindex="-1"> <a href="/Profile/create"><span class="glyphicon glyphicon-user text-primary"></span> Create an Account</a></li>
+            <li role="presentation" class="divider"></li>
+            <li role="menuitem" tabindex="-1"> <a href="/Profile/resetpassword"><span class="glyphicon glyphicon-user text-primary"></span> Forgot Password</a></li>
+            <li role="presentation" class="divider"></li>
+            <li role="menuitem" tabindex="-1"> <a href="/MergeAccounts"><i class="fa fa-user-plus text-primary"></i> Merge Profiles</a></li>
+            <li role="presentation" class="divider"></li>
+            <li role="menuitem" tabindex="-1"> <a href="/public/PrivacyPolicy"><span class="glyphicon glyphicon-info-sign text-primary"></span> Privacy Policy</a></li>
+                      </ul>
+                </div><!--HelpListGroup-->
+
+            <li class="list-group-item" role="menuitem"> <a href="/Profile">My Registrations</a></li>
+
+                  <!--=============Account================-->
+                  <div class="dropdown list-group-item">
+                      <div class="dropdown-toggle btn-link" id="account" data-toggle="dropdown">
+                          <span>Profile <span class="caret"></span></span>
+                      </div>
+                      <ul class="dropdown-menu" role="menu" aria-labelledby="account">
+            
+                        <li role="menuitem"> <a href="/EditProfile"><span class="glyphicon glyphicon-edit text-primary"></span> Edit Profile</a></li>
+              <li role="presentation" class="divider"></li>
+            <li role="menuitem"> <a href="/Profile/change-password"><span class="glyphicon glyphicon-asterisk text-primary"></span> Change Password</a></li>
+                        <li role="presentation" class="divider"></li>
+                        <li role="menuitem"> <a href="/MergeAccounts"><i class="fa fa-share-alt text-primary"></i> Merge Profiles</a></li>
+            <li role="presentation" class="divider"></li>
+            <li role="menuitem"> <a href="/Profile/create"><i class="fa fa-user-plus text-primary"></i> Create New Profile</a></li>
+                        <li role="presentation" class="divider"></li>
+            <li role="menuitem"> <a href="/Profile/resetpassword"><i class="fa fa-unlock-alt text-primary"></i> Recover Lost Password</a></li>
+                        <li role="presentation" class="divider"></li>
+            <li role="menuitem"> <a href="/accounts/login?nextp=/"><span class="glyphicon glyphicon-log-in text-primary"></span> Log In</a></li>
+                        <li role="presentation" class="divider"></li>
+            <li role="menuitem"> <a href="/logout"><span class="glyphicon glyphicon-log-out text-primary"></span> Log Out </a></li>
+                      </ul>
+                    </div>
+
+
+                <a href="/Sponsors/sponsorinfo" class="list-group-item">Sponsor Info</a>
+
+                
+
+                  <!--<a href="/Conferences/2019/Committees" class="list-group-item">Committees</a>-->
+                  
+
+
+                  <a href="/Conferences/FutureMeetings" class="list-group-item">Future Meetings</a>
+                  <a href="/Conferences/Papers" class="list-group-item">Papers</a>
+                  
+                  <!-- 
+                  <div class="list-group-item" >
+                    <img style="max-width:100px;" src="/static/admin/img/ICLRLogoDrawn.svg" width="100%" alt="Logo!">
+                  </div> -->
+
+
+                </div><!--Sidebar ListGroup-->
+              <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwi2mP6I5dvcAhWSxZ8KHdWADREQFjAAegQIBxAB&amp;url=https%3A%2F%2Fwww.norta.com%2FFares-Passes%2FOverview&amp;usg=AOvVaw3iHn5wcqEJ7Dv7CkPRoCCO"><div class="sidebarImage ICLR2019"><!-- Tourism Image. The class causes CSS to fill this div with a tourism image from the host city --></div></a>
+
+            </div><!--/sidebar on the left-->
+
+
+              
+        
+      <main id="main">
+        <div class="container">
+          <div class="row">
+            <div class="col-xs-9">
+              <!-- Collect the nav links, forms, and other content for toggling -->
+<nav class="navbar navbar-default">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+        <div class="collapse navbar-collapse" id="myNavbar">
+            <ul class="nav navbar-nav">
+                <li><a href="/Conferences/2019/Dates">Dates</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Schedule<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li role="menuitem" tabindex="-1"><a href="#">Schedule TBA</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Calls<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li role="menuitem" tabindex="-1"><a href="/Conferences/2019/CallForPapers" class="">Call For Papers</a></li>
+                        
+                        
+                        <!-- 
+                          <li><b> &nbsp;&nbsp;Author Resources</b></li>
+                          <li role="menuitem" tabindex="-1"> <a href="https://cmt.research.microsoft.com/NIPS2019/"> Author/Reviewer Logon at CMT</a></li>           
+                          <li role="menuitem" tabindex="-1"> <a href="/Conferences/2019/PaperInformation/EvaluationCriteria">Author Guidelines</a></li>
+                          <li role="menuitem" tabindex="-1"> <a href="/Conferences/2019/PaperInformation/Keywords">Keywords</a></li>
+                          <li role="menuitem" tabindex="-1"> <a href="/Conferences/2019/PaperInformation/StyleFiles">Style Files</a></li>
+                          -->
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">New Orleans<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/Conferences/2019/Hotels">Hotels</a></li>
+                        <!-- <li role="presentation" class="divider"></li> -->
+                        <!-- <li><a href="/Conferences/2017/Restaurants">Restaurants</a></li> -->
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Students<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        
+                        
+                        <li role="menuitem" tabindex="-1"><a href="#">Travel Application</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+            </div>
+
+
+            
+            <p>
+              <span id="fb-root"></span>
+                <script>(function(d, s, id) {
+                  var js, fjs = d.getElementsByTagName(s)[0];
+                  if (d.getElementById(id)) return;
+                  js = d.createElement(s); js.id = id;
+                  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=207091976023748";
+                  js.src = "//connect.facebook.net";
+                  fjs.parentNode.insertBefore(js, fjs);
+                  }(document, 'script', 'facebook-jssdk'));
+                </script>
+            </p>
+            
+
+            
+
+            
+            
+                
+
+            
+    
+<!--JUst above the HTML in document-snippet.html-->
+    <div class="col-xs-12 col-sm-9">
+
+        <div>
+        <div>
+<h3><span>Privacy Policy</span></h3>
+
+<p class="normal"><span>Our Privacy Policy explains how information is collected, used, and disclosed by the International Conference on Learning Representations&nbsp;(ICLR), with respect to your access and use of our services, through our website (“Website”) or in connection with third party services.</span></p>
+
+<h4><span>Information We Collect and How We Use It</span></h4>
+
+<p class="normal"><span>We collect certain information from you through your use of the Website, such as the information you provide to ICLR by registering for a user account.&nbsp;</span>&nbsp;</p>
+
+<p class="normal"><span>We want you to be comfortable using the Website so we have described in detail below what information we collect and how it is used.</span></p>
+
+<h4><span>Information You Provide to Us</span></h4>
+
+<p class="normal"><span>When you use ICLR Website and register for a user account, limited information is collected about you through a simple form. This information is for the purpose of identifying and communicating with supporters, conference registrants and community members.</span>&nbsp;</p>
+
+<p class="normal"><span>We may need to send you announcements and account-related messages.&nbsp; These will be sent through the Website or by email.</span></p>
+
+<h4><span>How We Share Your Information with Others</span></h4>
+
+<p class="normal"><span>We will not share the personal information we have collected from you, except as described below:</span></p>
+
+<ul>
+	<li class="normal"><span>when you give us your consent to do so, for example, when we tell you that the information you provide will be shared in some way and you provide us that information;</span></li>
+	<li class="normal"><span>when we believe we are authorized or legally required to do so or that doing so is necessary or appropriate to comply with the law or legal processes or respond to lawful requests or legal authorities, including things like subpoenas, warrants or court orders;</span></li>
+	<li class="normal"><span>to enforce or apply our Privacy Policy, our Terms of Use or our other policies or agreements.</span></li>
+	<li>if your company is one of our sponsors.&nbsp;Sponsors have access to a report that shows who from their company is attending (including email addresses), what they've registered for, and what they're presenting.</li>
+</ul>
+
+<h4><span>Accessing Your Information</span></h4>
+
+<p class="normal"><span>If you would like ICLR to delete your personal information that has been collected, please <a href="/Help/Contact">contact us</a> with your request. We will take steps to delete your information as soon as is practicable, but some information may remain in archived/backup copies for our records and as otherwise required by law.</span></p>
+
+<h4><span>How We Protect Your Information</span></h4>
+
+<p class="normal"><span>We employ administrative, physical, and electronic measures designed to protect your information from unauthorized access. However, despite those efforts, no security measures are perfect or impenetrable and no method of data transmission can be guaranteed against any interception or other type of misuse.</span></p>
+
+<h4><span>Links to Other Sites</span></h4>
+
+<p class="normal"><span>The ICLR Website may contain links to other services, apps, and sites not operated by us (we refer to these as "Other Sites"). Any information you provide on those Other Sites is provided directly to whoever owns that site and is subject to their privacy policy. Our Privacy Policy does not apply to those Other Sites, and we are not responsible for the content you provide to, or the privacy and security practices and policies of, Other Sites.</span></p>
+
+<h4><span>Changes to Our Privacy Policy</span></h4>
+
+<p class="normal"><span>Any information that is collected is subject to our Privacy Policy in effect at the time such information is collected. We may, however, modify and revise our Privacy Policy from time-to-time. In the event of a modification to the Privacy Policy, ICLR will send notification to you that a change has occurred via the Website or Email. It is required that you accept the revised Privacy Policy before continuing to use the Website. By accepting changes to the policy, you are agreeing to be bound by the revised policy. </span></p>
+
+<h4><span>Questions or Concerns</span></h4>
+
+<p class="normal"><span>Please </span><a href="/Help/Contact"><span>contact us</span></a><span> if you have any questions or concerns about our Privacy Policy.</span></p>
+</div>
+        </div>
+    
+    </div>  <!--div class="col-xs-12 col-sm-9"-->
+
+    
+
+          </div> 
+        </div>
+
+
+      </main>
+        <!--END BLOCK CONTENT-->
+
+
+      </div><!--/row-->
+
+
+
+    </div><!--/Page.container-->
+
+
+    <!--Footer for the edit button-->
+    
+<script src="/static/admin/bootstrap-wizard/src/bootstrap-wizard.js" type="text/javascript"></script>
+<script>
+  /*
+    Set up the feedback button with the correct URL for this page.
+  */
+
+  /*Get the URL for this page and parse out just the path part*/
+
+
+  feedbackPath = "/Help/Feedback?path=" + encodeURIComponent(location.protocol + "//" + location.hostname + ":" + location.port + location.pathname + location.search);
+
+
+  /*Poke that as the hrefinto the button*/
+
+  $("#feedback").attr("href", feedbackPath);
+
+    $(function(){
+        if ( $(".editable").length == 0){
+            $("#editFooter").hide();
+        }
+    })
+</script>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+
+
+    <script src="/static/admin/js/fastclick.min.js" type="text/javascript"></script>
+
+
+    <script>
+    $(document).ready(function() {
+      $('[data-toggle=offcanvas]').click(function() {
+        $('.row-offcanvas').toggleClass('active');
+      });
+    });
+  </script>
+
+
+    <script src="/static/admin/glyphicons_pro/glyphicons/web/html_css/scripts/modernizr.js" type="text/javascript" charset="utf-8"></script>
+
+
+
+
+    <!--We don't know if there are editable tags on the page until after the django template engine has rendered the page. So,
+test in javascript for "editable" tags and if present, load the ckeditor engine dynamically. -->
+
+<script>
+  if (document.getElementsByClassName('editable').length > 0 ){
+    var script   = document.createElement("script");
+    script.type  = "text/javascript";
+    script.src   = "/static/admin/ckeditor/ckeditor.js";    // use this for linked script
+    script.text  = "alert('voila!');"               // use this for inline script
+    document.body.appendChild(script);
+  }
+  
+</script>
+
+
+<script>
+function fetchContent(){
+  $(".editable").each(function(index){
+    var myself = this;
+    var docvID = this.getAttribute('documentversion');
+    var blurbtext = this.getAttribute("blurbtext");
+    $.ajax({
+       url: "/Admin/RetrieveDocumentVersion",
+       type:"POST",
+       data:{
+           docvID : docvID,
+           blurbtext : blurbtext,
+           csrfmiddlewaretoken: csrftoken,
+       },
+       success: function(data, textStatus, jqXHR) {
+           myself.setAttribute("contenteditable", "true");
+           myself.innerHTML = data;
+           CKEDITOR.inline(myself.id);
+       },
+    });
+  })
+}
+
+$("#nopageedit").hide();
+function start_edit(){
+    $(".editable").addClass("warning-ring");
+
+    //At the beginning of an edit, we need to replace the content of the
+    //editable div with it's databased content in order to preserve the
+    //template tags. We want the tag, not the rendered tag.
+
+    /* You must remove any countdown.js timers on the page before replacing the page with it's
+    document version otherwise, Javascript will throw an exception.  */
+
+
+    jq2("[class$='-countdown']").parent().remove();
+    fetchContent();
+    $(".editable").attr("onblur", "ckeditorsave(this)");
+    window.status.bold();
+    window.status = "Click outside the editable area to save. Changes are LIVE!! Refresh page to discard changes.";
+    $("#editpage").hide();
+    $("#noeditpage").show();
+}
+
+
+function stop_edit(){
+    $("#noeditpage").hide();
+    $("#editpage").show();
+    location.reload();
+
+}
+function ckeditorsave(event){
+  for (var name in CKEDITOR.instances){
+    if ( CKEDITOR.instances[name].checkDirty() ){
+      editor = CKEDITOR.instances[name];
+      saveEditable(editor);
+    }
+  }
+}
+
+function saveEditable(editor){
+  var content = editor.getData();
+  var contentId = editor.name;
+  var pageId = window.location.pathname;
+  var originalContent = "N/A";
+  var documentversion = editor.container.getAttribute("documentversion");
+  var blurbtext = editor.container.getAttribute("blurbtext");
+  if ( contentId.match(/-aloha$/gi) ) {
+    contentId = contentId.replace( /-aloha/gi, '' );
+  }  /*I'm not sure what this does but it seems like it would matter*/
+  var request = jQuery.ajax({
+    url: "/Admin/SaveDocument",
+    type: "POST",
+    data: {
+      content : content,
+      originalContent: originalContent,
+      contentId : contentId,
+      pageId : pageId,
+      documentversion:documentversion,
+      blurbtext : blurbtext,
+      csrfmiddlewaretoken: csrftoken
+    },
+    success: function(data){
+        if (data['message']){
+            alert(data['message']);
+        }
+
+    },
+    error: function(xqXHR, textStatus){
+        window.status = textStatus;
+        debugger;
+    }
+
+  });
+
+};
+
+
+
+
+</script>
+
+<script type="text/javascript">
+       jQuery(document).ajaxSend(function(event, xhr, settings) {
+           function getCookie(name) {
+               var cookieValue = null;
+               if (document.cookie && document.cookie != '') {
+                   var cookies = document.cookie.split(';');
+                   for (var i = 0; i < cookies.length; i++) {
+                       var cookie = jQuery.trim(cookies[i]);
+                       // Does this cookie string begin with the name we want?
+                       if (cookie.substring(0, name.length + 1) == (name + '=')) {
+                           cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                           break;
+                       }
+                   }
+               }
+               return cookieValue;
+           }
+           function sameOrigin(url) {
+               // url could be relative or scheme relative or absolute
+               var host = document.location.host; // host + port
+               var protocol = document.location.protocol;
+               var sr_origin = '//' + host;
+               var origin = protocol + sr_origin;
+               // Allow absolute or scheme relative URLs to same origin
+               return (url == origin || url.slice(0, origin.length + 1) == origin + '/') ||
+                   (url == sr_origin || url.slice(0, sr_origin.length + 1) == sr_origin + '/') ||
+                   // or any other URL that isn't scheme relative or absolute i.e relative.
+                   !(/^(\/\/|http:|https:).*/.test(url));
+           }
+           function safeMethod(method) {
+               return (/^(GET|HEAD|OPTIONS|TRACE)$/.test(method));
+           }
+
+           if (!safeMethod(settings.type) && sameOrigin(settings.url)) {
+               xhr.setRequestHeader("X-CSRFToken", getCookie('csrftoken'));
+           }
+       });
+</script>
+
+
+    <script>
+    window.addEventListener('load', function() {
+    /*Minified*/
+    var attachFastClick = Origami.fastclick;
+    attachFastClick(document.body);
+    /*Not minified*/
+        /*FastClick.attach(document.body);*/
+    }, false);
+
+
+
+    </script>
+
+    <!--Prevent links from opening externally-->
+
+    
+
+    
+     <div class="hidden">Successful Page Load</div>
+   <div class="hidden">Do not remove: This comment is monitored to verify that the site is working properly</div>
+
+   <!--Web analytics-->
+
+   <script src="//static.getclicky.com/js" type="text/javascript"></script>
+   <script type="text/javascript">try{ clicky.init(100964351); }catch(e){}</script>
+   <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100964351ns.gif" /></p></noscript>
+
+   <script src="//static.getclicky.com/js" type="text/javascript"></script>
+   <script type="text/javascript">try{ clicky.init(100964360); }catch(e){}</script>
+ <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100964360ns.gif" /></p></noscript>
+  
+
+</body></html>
