@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the northeme.com privacy policy that was archived on 2017-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170714232658id_/https%3A//northeme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northeme.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903123942id_/https%3A//northeme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Northeme
 
-This Application collects some Personal Data from its Users.
+This Application collects some Personal Data from its Users. 
 
 ## Policy summary
 
-Personal data collected for the following purposes and using the following services:
+Personal data collected for the following purposes and using the following services: 
 
- __
+__
 
 ###### Access to social networks' accounts
 
@@ -106,7 +106,7 @@ Email : hi [at] northeme.com
 
 ### Data Controller and Owner
 
-Email : hi[at]northeme.com
+Email : hi[at]northeme.com 
 
 ### Types of Data collected
 
@@ -114,7 +114,7 @@ Among the types of Personal Data that this Application collects, by itself or th
 
 Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection. The Personal Data may be freely provided by the User, or collected automatically when using this Application. Any use of Cookies – or of other tracking tools – by the Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User. Failure to provide certain Personal Data may make it impossible for this Application to provide its services. 
 
-The User assumes responsibility for the Personal Data of third parties published or shared through this Application and declares to have the right to communicate or broadcast them, thus relieving the Data Controller of all responsibility.
+The User assumes responsibility for the Personal Data of third parties published or shared through this Application and declares to have the right to communicate or broadcast them, thus relieving the Data Controller of all responsibility. 
 
 ### Types of Data collected
 
@@ -124,13 +124,13 @@ Access to the Data may be available to Data Processors such as employees involve
 
 **Place** The Data is processed at the Data Controller headquarters, unless stated otherwise in the rest of this document. 
 
-**Conservation Time** The Data is kept for the time necessary to provide the service requested by the User, or stated by the purposes outlined in this document, and the User can always request the Data Controller for their suspension or removal.
+**Conservation Time** The Data is kept for the time necessary to provide the service requested by the User, or stated by the purposes outlined in this document, and the User can always request the Data Controller for their suspension or removal. 
 
 ### The use of the collected Data
 
 The Data concerning the User is collected to allow the Application to provide its services, as well as for the following purposes: Analytics, Interaction with external social networks and platforms, Contacting the User, Access to social networks' accounts, Advertising, Content commenting, Content performance and features testing (A/B testing), Displaying content from external platforms, Handling payments, Managing email addresses and sending messages, Managing support and contact requests and Registration and authentication. 
 
-The Personal Data used for each purpose is outlined in the specific sections of this document.
+The Personal Data used for each purpose is outlined in the specific sections of this document. 
 
 ### Facebook permissions asked by this Application
 
@@ -144,13 +144,13 @@ The permissions asked are the following:
 
 **Contact email** Access the user's contact email address. 
 
-**Current City** Provides access to the user's current location
+**Current City** Provides access to the user's current location 
 
 ### Detailed information on the processing of Personal Data
 
-Personal Data is collected for the following purposes and using the following services:
+Personal Data is collected for the following purposes and using the following services: 
 
-###  __Access to social networks' accounts
+### __Access to social networks' accounts
 
 These services allow this Application to access Data from your social networks' accounts and perform actions with it. These services are not activated automatically, but require explicit authorization by the User. 
 
@@ -161,7 +161,7 @@ This service allows this Application to connect with the User's account on the F
 
 **Place of processing:** USA – [Privacy Policy](http://www.facebook.com/privacy/explanation.php)
 
-###  __Advertising
+### __Advertising
 
 These services allow User Data to be utilized for advertising communication purposes displayed in the form of banners and other advertisements on this Application, possibly based on User interests.   
 This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below. Some of the services listed below may use Cookies to identify Users or they may use the behavioral retargeting technique, i.e. displaying ads tailored to the User's interests and behavior, including those detected outside this Application. For more information, please check the privacy policies of the relevant services. 
@@ -173,7 +173,7 @@ AdRoll is an advertising service provided by Semantic Sugar, Inc.
 
 **Place of processing:** USA – [Privacy Policy](http://www.adroll.com/about/privacy)
 
-###  __Analytics
+### __Analytics
 
 The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior. 
 
@@ -185,7 +185,7 @@ Google may use the Data collected to contextualize and personalize the ads of it
 
 **Place of processing:** USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
 
-###  __Contacting the User
+### __Contacting the User
 
 **Contact form (This Application)**  
 By filling in the contact form with their Data, the Users authorizes this Application to use these details to reply to requests for information, quotes or any other kind of request as indicated by the form's header. 
@@ -195,9 +195,9 @@ Personal data collected: Email, First Name and Last Name.
 **Mailing List or Newsletter (This Application)**  
 By registering to the mailing list or to the newsletter, the User's email address will be added to the contact list of those who may receive email messages containing information of commercial or promotional nature concerning this Application. Your email address might also be added to this list as a result of signing up to this Application or after performing a purchase. 
 
-Personal data collected: Email, First Name and Last Name.
+Personal data collected: Email, First Name and Last Name. 
 
-###  __Content commenting
+### __Content commenting
 
 Content commenting services allow Users to make and publish their comments on the contents of this Application.   
 Depending on the settings chosen by the Owner, Users may also leave anonymous comments. If there is an email address among the Personal Data provided by the User, it may be used to send notifications of comments on the same content. Users are responsible for the content of their own comments.   
@@ -210,7 +210,7 @@ Facebook Comments is a content commenting service provided by Facebook Inc. enab
 
 **Place of processing:** USA – [Privacy Policy](http://www.facebook.com/privacy/explanation.php)
 
-###  __Content performance and features testing (A/B testing)
+### __Content performance and features testing (A/B testing)
 
 The services contained in this section allow the Owner to track and analyze the User response concerning web traffic or behavior regarding changes to the structure, text or any other component of this Application. 
 
@@ -220,7 +220,7 @@ Google may use Personal Data to contextualize and personalize the ads of its own
 **Personal data collected:** Cookie and Usage Data.   
 **Place of processing:** USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
 
-###  __Displaying content from external platforms
+### __Displaying content from external platforms
 
 These services allow you to view content hosted on external platforms directly from the pages of this Application and interact with them.  
 If a service of this kind is installed, it may still collect web traffic data for the pages where the service is installed, even when users do not use it. 
@@ -235,7 +235,7 @@ Personal data collected: Cookie and Usage Data.
 **Personal data collected:** Cookie and Usage Data.   
 **Place of processing:** USA – [Privacy Policy](http://www.google.it/intl/en/policies/privacy/)
 
-###  __Handling payments
+### __Handling payments
 
 Payment processing services enable this Application to process payments by credit card, bank transfer or other means. To ensure greater security, this Application shares only the information necessary to execute the transaction with the financial intermediaries handling the transaction. 
 
@@ -249,9 +249,9 @@ Place of processing: USA – [Privacy Policy](https://stripe.com/terms/US)
 Paypal is a payment service provided by Paypal Inc., which allows users to make online payments using their Paypal credentials. 
 
 **Personal data collected:** Various types of Data.   
-Privacy Policy
+Privacy Policy 
 
-###  __Interaction with external social networks and platforms
+### __Interaction with external social networks and platforms
 
 These services allow interaction with social networks or other external platforms directly from the pages of this Application.  
 The interaction and information obtained by this Application are always subject to the User's privacy settings for each social network.  
@@ -263,7 +263,7 @@ The Facebook Like button and social widgets are services allowing interaction wi
 **Personal data collected:** Cookie and Usage Data.   
 **Place of processing:** USA – [Privacy Policy](http://www.facebook.com/privacy/explanation.php)
 
-###  __Managing email addresses and sending messages
+### __Managing email addresses and sending messages
 
 These services make it possible to manage a database of email contacts to communicate with the User via email. The services are used to collect data concerning the date and time when the mail is viewed by the User, as well as when the User interacts with incoming mail, such as by clicking on links included in the email. 
 
@@ -277,7 +277,7 @@ Postmark is an email address management and message sending service provided by 
 **Personal data collected:** Email.   
 **Place of processing:** USA – [Privacy Policy](http://postmarkapp.com/privacy-policy)
 
-###  __Managing support and contact requests
+### __Managing support and contact requests
 
 These services allow this Application to manage support and contact requests received via email or by other means, such as the contact form. The Personal Data processed depend on the information provided by the User in the messages and the means used for communication (e.g. email address). 
 
@@ -287,7 +287,7 @@ Desk.com is a support and contact request management service provided by salesfo
 **Personal data collected:** Various types of Data.   
 **Place of processing:** USA – [Privacy Policy](http://www.desk.com/privacy)
 
-###  __Registration and authentication
+### __Registration and authentication
 
 By registering or authenticating, Users allow this Application to identify them and give them access to dedicated services. Depending on what is described below, third parties may provide registration and authentication services. In this case, this Application will be able to access some Data, stored by these third party services, for registration or identification purposes. 
 
@@ -328,9 +328,9 @@ Users have the right, at any time, to know whether their Personal Data has been 
 The Data Controller reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. If a User objects to any of the changes to the Policy, the User must cease using this Application and can request the Data Controller to erase the Personal Data. Unless stated otherwise, the then-current privacy policy applies to all Personal Data the Data Controller has about Users. 
 
 **Information about this privacy policy**  
-The Data Controller is responsible for this privacy policy, prepared starting from the modules provided by Iubenda and hosted on the Iubenda's servers.
+The Data Controller is responsible for this privacy policy, prepared starting from the modules provided by Iubenda and hosted on the Iubenda's servers. 
 
-###  __Definitions and legal references
+### __Definitions and legal references
 
 **Personal Data (or Data)**  
 Any information regarding a natural person, a legal person, an institution or an association, which is, or can be, identified, even indirectly, by reference to any other information, including a personal identification number. 
@@ -359,4 +359,4 @@ Small piece of data stored by the Application in the User's device.
 **Legal information**  
 Notice to European Users: this privacy statement has been prepared in fulfillment of the obligations under Art. 10 of EC Directive n. 95/46/EC, and under the provisions of Directive 2002/58/EC, as revised by Directive 2009/136/EC, on the subject of Cookies. 
 
-This privacy policy is solely about this Application.
+This privacy policy is solely about this Application. 
