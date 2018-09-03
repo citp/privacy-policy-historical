@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the adlc.ca privacy policy that was archived on 2017-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170305150346id_/https%3A//www.adlc.ca/policies-and-procedures/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adlc.ca privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904003409id_/https%3A//www.adlc.ca/policies-and-procedures/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Alberta Distance Learning Centre | ADLC
-
-[ ](https://www.adlc.ca/)
-
-Alberta Distance Learning Centre | ADLC is committed to maintaining the accuracy, confidentiality, and security of your personal information. As part of this commitment, our privacy policy governs our actions as they relate to the collection, use, and disclosure of personal information. Our privacy policy is based on the values set by the Canadian Standards Association’s Model Code for the Protection of Personal Information and Canada’s Personal Information Protection and Electronic Documents Act.
-
-* * *
 
 ## 1\. Introduction
 
@@ -48,11 +42,12 @@ Upon request, you will be informed of the existence, use, and disclosure of your
 
 We invite you to contact us with inquiries about our privacy policy or our practices:
 
-**Alberta Distance Learning Centre – Main Campus**
+ **Alberta Distance Learning Centre  **
 
-  * 4601 – 63 Avenue
-  * (Box 4000)
-  * Barrhead, Alberta T7N 1P4 CANADA
+4601 – 63 Avenue  
+(Box 4000)  
+Barrhead, Alberta T7N 1P4 CANADA
+
   * Phone: [780-674-5333](tel:+1-780-674-5333)
   * Toll-free: [1-866-774-5333](tel:+1-866-774-5333)
   * Fax: 780-674-7593
@@ -68,3 +63,5 @@ A cookie is a small computer file or piece of information that may be stored in 
 #### Other Websites
 
 Our website may contain links to third-party sites not governed by this privacy policy. Although we endeavour to link only to sites with high privacy standards, our privacy policy will no longer apply once you leave our website. Additionally, we are not responsible for the privacy practices employed by third- party websites. Therefore, you should examine the privacy statements of those sites to learn how they may collect, use, share, and disclose your information.
+
+Still have some questions?
