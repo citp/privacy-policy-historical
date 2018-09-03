@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the templaza.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127190256id_/https%3A//www.templaza.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templaza.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903124542id_/https%3A//www.templaza.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-##  Privacy Policy 
 
 #### General information
 
@@ -33,7 +31,3 @@ At any time, you may inform us about not willing to share with us your personal 
 #### Contact information
 
 Should the need arise, you would contact us at: [info@templaza.com](mailto:info@templaza.com)
-
-Share It!
-
-[ ](http://pinterest.com/pin/create/button/?url=https://www.tzportfolio.com/privacy-policy.html)
