@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the tigerdirect.ca privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612070048id_/http%3A//www.tigerdirect.ca/sectors/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerdirect.ca privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903215142id_/http%3A//www.tigerdirect.ca/sectors/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy at TigerDirect.ca
 
 **Privacy Policy**  
-Last Modified: March 18, 2016
+Effective Date: March 18, 2016  
+Last Updated Date: March 18, 2016
 
 ****INTRODUCTION****  
 TigerDirect.ca ("Company" or "We") respects your privacy and is committed to protecting it through our compliance with this policy.  
