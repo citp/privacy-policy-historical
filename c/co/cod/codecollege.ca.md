@@ -1,52 +1,79 @@
-> *The following text is extracted and transformed from the codecollege.ca privacy policy that was archived on 2017-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170728074335id_/https%3A//codecollege.ca/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codecollege.ca privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903200940id_/https%3A//codecollege.ca/p/privacy) for the most accurate reproduction.*
 
 # Code College Privacy Policy | Code College
 
 ## Privacy Policy
 
-This Privacy Policy governs the manner in which the website collects, uses, maintains and discloses information collected from users (each, a 'User') of the website ('Site'). This privacy policy applies to the Site and all products and services offered by company.
+Brightside Studios Inc. Privacy Policy 
 
- **Personal identification information**
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from CodeCollege.ca (the “School”). 
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+PERSONAL INFORMATION WE COLLECT 
 
- **Non-personal identification information**
+When you visit the School, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the School, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the School, and information about how you interact with the School. We refer to this automatically-collected information as “Device Information.” 
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+We collect Device Information using the following technologies: 
 
- **Web browser cookies**
+\- “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org. 
 
-Our Site may use 'cookies' to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+\- “Log files” track actions occurring on the School, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps. 
 
- **How we use collected information**
+\- “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the School. 
 
-Company may collect and use Users personal information for the following purposes:
+We use a Third-Party Service called Teachable.com to process orders on the School. Through Teachable.com, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers), email address, or phone number. We refer to this information as “Order Information.” 
 
-  *  _\- To improve customer service_  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  *  _\- To personalize user experience_  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To send periodic emails_  
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information. 
 
+HOW DO WE USE YOUR PERSONAL INFORMATION? 
 
+We use the Order Information that we collect generally to fulfill any orders placed through the School (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations). Additionally, we use this Order Information to: 
 
- **How we protect your information**
+Communicate with you; 
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+Screen our orders for potential risk or fraud; and 
 
- **Sharing your personal information**
+When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services. 
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the School, and to assess the success of our marketing and advertising campaigns). 
 
- **Third party websites**
+SHARING YOUR PERSONAL INFORMATION 
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Teachable.com to power our online store--you can read more about how Teachable uses your Personal Information here: <https://teachable.com/privacy-policy>. We also use Google Analytics to help us understand how our customers use the School--you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout. 
 
- **Changes to this privacy policy**
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights. 
 
-Company has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+BEHAVIOURAL ADVERTISING 
 
- **Your acceptance of these terms**
+As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work. 
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+You can opt out of targeted advertising by: 
+
+FACEBOOK - <https://www.facebook.com/settings/?tab=ads>
+
+GOOGLE - <https://www.google.com/settings/ads/anonymous>
+
+BING - [https://advertise.bingads.microsoft.com/en-us/reso...](https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads)
+
+Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: http://optout.aboutads.info/. 
+
+DO NOT TRACK 
+
+Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser. 
+
+YOUR RIGHTS 
+
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below. 
+
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the School), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States. 
+
+DATA RETENTION 
+
+When you place an order through the School, we will maintain your Order Information for our records unless and until you ask us to delete this information. 
+
+CHANGES 
+
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons. 
+
+CONTACT US 
+
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at brad@brightsidestudios.ca. 
