@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landmarkcu.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906104152id_/https%3A//www.landmarkcu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landmarkcu.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903195930id_/https%3A//www.landmarkcu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Landmark Credit Union
 
@@ -74,27 +74,5 @@ Companies not related by common ownership or control. They can be financial and 
 A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
 
   * _Our joint marketing partners include insurance companies, credit card companies and investment companies_
-
-  
-  
-Id: "loan-modal" (Only visible in editor)
-
-### Existing Landmark Members
-
-Apply now within Online Banking. If not registered for Online Banking, click Enroll to register.
-
-  * [Login](https://web.archive.org/web/20150906104152id_/https%3A//www.landmarkcu.com/login)
-  * [Enroll](https://web.archive.org/web/20150906104152id_/https%3A//www.landmarkcu.com/enroll)
-
-
-
-Id: "account-modal" (Only visible in editor)
-
-### Existing Landmark Members
-
-Open your new account within Online Banking.  If not registered for Online Banking, click Enroll to register.
-
-  * [Login](https://web.archive.org/web/20150906104152id_/https%3A//www.landmarkcu.com/login)
-  * [Enroll](https://web.archive.org/web/20150906104152id_/https%3A//www.landmarkcu.com/enroll)
 
 
