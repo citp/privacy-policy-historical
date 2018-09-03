@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the colesmastercard.com.au privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627032225id_/http%3A//financialservices.coles.com.au/insurance/about-our-insurance/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colesmastercard.com.au privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903145612id_/https%3A//financialservices.coles.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Coles Insurance
+# Privacy Policy - Credit Cards & Insurance
 
 ## Overview
 
@@ -62,10 +62,11 @@ Our online services may contain links to other sites. We are not responsible for
 
 If you wish to access or correct any personal information we hold about you or have any feedback or concerns about privacy, please contact us as set out below. Where you seek a response from us, we will let you know who will be handling your matter and when you can expect a full response.
 
-In the case of access and correction requests, please provide as much detail as you can about the particular information you seek, in order to help us retrieve it. Under the Privacy Act and other relevant laws, we are required to provide our reasons if we refuse your request. Where we decide not to make a requested correction and you disagree, you may ask us to make a note of your requested correction with the information.  
-Additional privacy information
+In the case of access and correction requests, please provide as much detail as you can about the particular information you seek, in order to help us retrieve it. Under the Privacy Act and other relevant laws, we are required to provide our reasons if we refuse your request. Where we decide not to make a requested correction and you disagree, you may ask us to make a note of your requested correction with the information.
 
-In addition to this Privacy Policy, many Coles and Wesfarmers companies and brands have their own privacy statements and other terms which provide further information about your privacy, e.g. flybuys, Coles Insurance and [Coles Mastercard](https://web.archive.org/credit-cards/about-our-credit-cards/important-information). Please see the relevant material relating to those products and services for details, including where those Coles-branded products and services are provided by or with third parties who may collect your personal information.
+### Additional privacy information
+
+In addition to this Privacy Policy, many Coles and Wesfarmers companies and brands have their own privacy statements and other terms which provide further information about your privacy, e.g. [flybuys](https://www.flybuys.com.au/about/privacy-policy), [Coles Insurance](https://financialservices.coles.com.au/insurance/about-our-insurance/important-information#PrivacyPolicy) and [Coles Mastercard](https://web.archive.org/credit-cards/about-our-credit-cards/important-information). Please see the relevant material relating to those products and services for details, including where those Coles-branded products and services are provided by or with third parties who may collect your personal information.
 
 For information about privacy generally, or if your concerns are not resolved to your satisfaction, you may contact the Office of the Australian Information Commissioner at www.oaic.gov.au and on [ 1300 363 992](tel:1300363992) .
 
@@ -79,3 +80,7 @@ Hawthorn East
 VIC 3123  
 Last updated: March 2014  
 Coles Supermarkets Australia Pty Ltd ABN 45 004 189 708
+
+### Terms & conditions
+
+Coles Supermarkets Australia Pty Ltd (Coles) is an authorised representative of the issuer, Insurance Australia Limited (ABN 11 000 016 722 AFSL 227681) and receives a commission for each policy sold and renewed). Any advice provided is of a general nature only and does not take into consideration your objectives, financial situation or needs. Before acting on any advice you should consider its appropriateness. You should read the [Product Disclosure Statement](https://web.archive.org/insurance/about-our-insurance/important-information) before deciding whether to acquire an insurance policy.
