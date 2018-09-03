@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the core-electronics.com.au privacy policy that was archived on 2018-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180411223924id_/https%3A//core-electronics.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the core-electronics.com.au privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904003003id_/https%3A//core-electronics.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Australia
 
@@ -49,6 +49,7 @@ Services with 3rd party cookies:
   * [PayPal](https://www.paypal.com/us/webapps/mpp/ua/privacy-full)
   * [eWay](https://www.eway.com.au/legal)
   * [TrustPilot](https://legal.trustpilot.com/end-user-privacy-terms)
+  * [ProductReview](https://www.productreview.com.au/i/privacy.html)
   * [Facebook Pixel](https://www.facebook.com/privacy/explanation)
   * [Infusionsoft](https://www.infusionsoft.com/legal/privacy-policy)
   * [ScheduleOnce](https://www.scheduleonce.com/legal/application-privacy-policy)
