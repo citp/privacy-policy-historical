@@ -1,24 +1,81 @@
-> *The following text is extracted and transformed from the bellamihair.com privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218130031id_/https%3A//www.bellamihair.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellamihair.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904004825id_/https%3A//www.bellamihair.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – BELLAMI Hair
 
-BELLAMI Hair is totally committed to protecting the privacy of our site visitors and customers. We will not disclose information about our customers to third parties except where it is part of providing a service to you - e.g. arranging for a product to be sent to you, carrying out credit and other security checks and for the purposes of customer research and profiling or where we have your express permission to do so.
+**BELLAMI HAIR Privacy Policy**
 
-We will not sell your name, address, e-mail address, credit card information or personal information to any third party without your permission, but we cannot be responsible or held liable for the actions of third party sites from which you may have linked or been directed to the BELLAMI Hair website.
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from<https://www.bellamihair.com/> (the “Site”).
 
-Our website regularly uses technologies such as cookies. A “cookie” is a small file stored by your web browser on your computer. Cookies allow us to recognize you when you arrive at our Website by associating an anonymous identification number in the cookie. At no time is your name, street address, or credit card number stored within one of our cookies. 
+**PERSONAL INFORMATION WE COLLECT**
 
-These cookies allow us to understand how you clicked to our Website and what pages you click on during your visit to our Website. Understanding how you shop allows us to improve and personalize your shopping experience and speed your checkout process. We may use technologies such as cookies to provide you with enhanced online display advertising tailored to your interests. To opt out of advertising provided by ADVERTISER 
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
 
-_click here_
+We collect Device Information using the following technologies:
 
-. 
+    \- “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/). <https://www.bellamihair.com/tools/privacy>[ ](https://www.bellamihair.com/tools/privacy)
 
-Accepting cookies through your web browser is your personal choice. You can set your browser to disable cookies. However, if you choose not to accept cookies, we may not be able to provide you with the best online experience specifically tailored to your needs. 
+    \- “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
 
-We use a third-party service provider to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our Web site, and your interaction with our products and services. They may also use information about your visits to this and other Web sites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about the user. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please 
+    \- “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
 
- _click here_
+Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers), email address, and phone number.  We refer to this information as “Order Information.”
 
-  
-_**Disclosures As To Google Analytics Features:**_  Our Website also employs several applications that are available from Google, termed Google Analytics Advertising Features. These may include the following: Google Adwords / Retargeting, Google Analytics, Google Universal Analytics, Google Tag Manager, Doubleclick and the Google Sponsored Promotion service. These Advertising Features may work together with cookies and cookie technology in the manner described above. You may opt out of these advertising features by  _clicking here_. Or, to opt out of Google Advertising Features specifically, you can access Google Analytics' currently available opt-outs [here](https://tools.google.com/dlpage/gaoptout/). 
+When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
+
+**HOW DO WE USE YOUR PERSONAL INFORMATION?**
+
+We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations).  Additionally, we use this Order Information to:
+
+Communicate with you;
+
+Screen our orders for potential risk or fraud; and
+
+When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.
+
+We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
+
+**SHARING YOUR PERSONAL INFORMATION**
+
+We share your Personal Information with third parties to help us use your Personal Information, as described above.  For example, we use Shopify to power our online store--you can read more about how Shopify uses your Personal Information here: <https://www.shopify.com/legal/privacy>.  We also use Google Analytics to help us understand how our customers use the Site--you can read more about how Google uses your Personal Information here:  <https://www.google.com/intl/en/policies/privacy/>.  You can also opt-out of Google Analytics here:  <https://tools.google.com/dlpage/gaoptout>.
+
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
+
+**BEHAVIORAL** ** ** **ADVERTISING**
+
+As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you.  For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at <http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work>.
+
+You can opt out of targeted advertising by:
+
+    FACEBOOK - <https://www.facebook.com/settings/?tab=ads>
+
+    GOOGLE - <https://www.google.com/settings/ads/anonymous>
+
+    BING - <https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads>
+
+    CRITEO - <https://info.criteo.com/privacy/privacy.aspx?static=1>
+
+Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at:  <http://optout.aboutads.info/>.
+
+**DO NOT TRACK**
+
+Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
+
+**YOUR RIGHTS**
+
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
+
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above.  Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
+
+**DATA RETENTION**
+
+When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
+
+**CHANGES**
+
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
+
+**CONTACT US**
+
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at [info@bellamihair.com](mailto:info@bellamihair.com) or by mail using the details provided below:
+
+3850 ROYAL AVE, SUITE A, SIMI VALLEY, CA, 93063, United States
