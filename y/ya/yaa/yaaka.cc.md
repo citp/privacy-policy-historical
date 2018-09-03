@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yaaka.cc privacy policy that was archived on 2017-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170825170306id_/https%3A//www.yaaka.cc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yaaka.cc privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903225400id_/https%3A//www.yaaka.cc/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Yaaka Digital Learning Network
+# Privacy Policy - Yaaka Digital Network
 
 [www.yaaka.cc ](http://www.yaaka.cc/)has established this privacy policy to explain to you how any personal information you provide is protected, collected and used, which may be updated by The Yaaka Digital Network and we will provide notice of materially significant changes to this privacy policy by posting notice on the [www.yaaka.cc](http://www.yaaka.cc/) website.
 
