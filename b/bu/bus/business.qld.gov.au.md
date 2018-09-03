@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the business.qld.gov.au privacy policy that was archived on 2018-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180401180014id_/https%3A//www.business.qld.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business.qld.gov.au privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903181321id_/https%3A//www.business.qld.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Business Queensland
 
@@ -39,7 +39,7 @@ Transactional services available from this site may use cookies to track busines
 
 ## 'Customise this site' form
 
-  * Any responses provided on the Business Queensland [‘Customise this site’ form](https://www.business.qld.gov.au/discover) will be used to customise content to suit your needs. The objective is to ensure relevant content and services are prioritised when you visit our site.
+  * Any responses provided on the Business Queensland ['Customise this site' form](https://www.business.qld.gov.au/discover) will be used to customise content to suit your needs. The objective is to ensure relevant content and services are prioritised when you visit our site.
   * Any page being customised will carry a clear indication of this, with options to turn off customisation. You can change how the content is being customised by returning to this form and making the desired changes.
   * We will not give the personal information you provide to other third parties without your consent, unless required by law.
   * We may collect anonymous data to discover and analyse trends in usage.
@@ -64,7 +64,7 @@ In the future, you may be able to sign on to our site using a secure, government
 
  **Informal** access to your personal information, or requests for amendment of your personal information, may be organised by filling in an ‘Ask a question’ feedback form on our website.
 
- **Formal** requests for documents or amendment of personal information must be made via a Right to Information application on the prescribed statutory forms, copies of which are available at [www.rti.qld.gov.au](http://www.rti.qld.gov.au/). Prior to lodging an access or amendment application for information held by this department, please contact RTI Services for advice at [rtiservices@ehp.qld.gov.au.](mailto:rtiservices@ehp.qld.gov.au)
+ **Formal** requests for documents or amendment of personal information must be made via a Right to Information application on the prescribed statutory forms, copies of which are available at [www.rti.qld.gov.au](http://www.rti.qld.gov.au/). Prior to lodging an access or amendment application for information held by this department, please contact RTI Services for advice at [rtiservices@des.qld.gov.au](mailto:rtiservices@des.qld.gov.au).
 
 ## Emails
 
@@ -106,12 +106,12 @@ If you wish to lodge a privacy complaint, please:
 Mark your complaint as Private and Confidential, and address it to:
 
 The Privacy Officer  
-Governance and Strategy  
-Department of Tourism, Major Events, Small Business and the Commonwealth Games  
-GPO Box 2454  
-BRISBANE  QLD  4001
+Legal Services  
+Department of Employment, Small Business and Training  
+PO Box 15483  
+CITY EAST  QLD  4002
 
-Email: [privacy@dtesb.qld.gov.au](mailto:privacy@dtesb.qld.gov.au)
+Email: [corporate.legal@desbt.qld.gov.au](mailto:corporate.legal@desbt.qld.gov.au)
 
 The department will endeavour to respond to your concerns within 45 business days from the date your complaint is received.
 
@@ -121,4 +121,4 @@ On completion, you will be advised in writing of the department's decision, incl
 
 ## More information
 
-If you would like to know more about information privacy, email us at [privacy@dtesb.qld.gov.au](mailto:privacy@dtesb.qld.gov.au) or go to the Office of the Information Commissioner’s website at [www.oic.qld.gov.au](http://www.oic.qld.gov.au/).
+If you would like to know more about information privacy, email us at [corporate.legal@desbt.qld.gov.au](mailto:corporate.legal@desbt.qld.gov.au) or go to the Office of the Information Commissioner's website at [www.oic.qld.gov.au](https://www.oic.qld.gov.au/).
