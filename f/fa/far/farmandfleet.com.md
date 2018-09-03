@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farmandfleet.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928140226id_/https%3A//www.farmandfleet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmandfleet.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903154941id_/https%3A//www.farmandfleet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blain's Farm & Fleet
 
@@ -106,6 +106,10 @@ If you would like to remove your name from Blain's Farm & Fleet's mail or email 
 ### Blain's "Do Not Track" Policy
 
 Certain browsers have a "Do Not Track" feature that allows you to tell websites that you prefer not to have your online activities tracked. These browser features are not uniform and we are not currently able to respond to those signals.
+
+### Visitors from the European Union
+
+To comply with the General Data Protection Regulation (GDPR), personalization features are disabled if you are visiting this site from countries in the European Union. IP geolocation and cookies are used to ascertain the origin of your visit to the site, and are used to control the functionality of these features.
 
 ### Changes to This Privacy Policy
 
