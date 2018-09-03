@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelscheap.org privacy policy that was archived on 2018-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180228070313id_/https%3A//www.hotelplanner.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelscheap.org privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904015337id_/https%3A//www.hotelplanner.com/Privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - Hotel Planner always protects your privacy when you book your reunion, conference, or any group event.
 
@@ -8,7 +8,7 @@ By using this Site, you acknowledge that you have reviewed the terms of our Priv
 
 Changes to Privacy Statement and Consent
 
-# This Site and our business change constantly. As a result, at times it may be necessary for Lexyl to make changes to this Privacy Statement and Consent. Lexyl reserves the right to update or modify this Privacy Statement and Consent at any time and from time to time without prior notice. Please review this Statement periodically, and especially before you provide any Personal Data. This Privacy Statement and Consent was last updated on 06/01/2017. Your continued use of the Site after any changes or revisions to this Privacy Statement and Consent shall indicate your agreement with the terms of such revised Privacy Statement and Consent.
+This Site and our business change constantly. As a result, at times it may be necessary for Lexyl to make changes to this Privacy Statement and Consent. Lexyl reserves the right to update or modify this Privacy Statement and Consent at any time and from time to time without prior notice. Please review this Statement periodically, and especially before you provide any Personal Data. This Privacy Statement and Consent was last updated on 05/01/2018. Your continued use of the Site after any changes or revisions to this Privacy Statement and Consent shall indicate your agreement with the terms of such revised Privacy Statement and Consent.
 
 Definitions
 
@@ -36,7 +36,8 @@ In order to use this website, a user must first complete the registration form. 
 
 Cookies
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our Web site. For instance, by setting a cookie on our Web site, the user would not have to log in a password, thereby saving time each time they visit our site. Should the user want to temporarily disable this function they can do so by clicking the log-out link. If a user rejects the cookie, they may still use our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site.
+A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our Web site. For instance, by setting a cookie on our Web site, the user would not have to log in a password, thereby saving time each time they visit our site. Should the user want to temporarily disable this function they can do so by clicking the log-out link. If a user rejects the cookie, they may still use our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site.  
+[Learn more and manage your cookies preferences](https://web.archive.org/Cookies.cfm)
 
 Log Files
 
@@ -57,3 +58,49 @@ We send all new members a welcoming email to verify password and username. Estab
 Website Activity
 
 Lexyl Travel Technologies uses a third party tracking utility to track end-user activity through our site through the use of cookies. Activity is tracked in an effort to make our site easy to navigate through, and to find out which areas of our site draw the most attention. The information tracked are such things as Most Requested Page, Least Requested Page, Top Entry Page, Top Path Through Site, cities users are visiting from, average length of time spent at the site, etc.
+
+EU General Data Protection Regulation "GDPR"
+
+Lexyl shall Process Personal Data only on the written instruction of its group coordinators and in accordance with our Terms of Use and applicable laws (unless Lexyl is otherwise required to do so in order to comply with applicable law, in which case Lexyl shall inform its group coordinators of such legal requirement save where prohibited to do so by applicable law), and the group coordinator confirms that its documented instructions are for Lexyl to process the Personal Data as necessary for the purposes of our Terms of Use. Lexyl shall inform group coordinators if, in its opinion, an instruction infringes applicable EU data privacy and security laws;
+
+Lexyl shall upon termination or expiry of the terms of use and upon the group coordinator's request, delete or return to all Personal Data save that, in the event that Lexyl is unable to destroy the Personal Data (due to backup or legal reasons), Lexyl shall continue to extend indefinitely the protections of these Requirements and immediately terminate any further Processing of the Personal Data without the group coordinator's express prior written consent, except where and to the extent required by applicable law. Lexyl's obligations under these Requirements to protect the security of Personal Data shall survive termination of our Terms of Use;
+
+Lexyl shall ensure appropriate operational and technical measures are in place to safeguard the Personal Data against Data Security Breaches;
+
+Lexyl shall notify group coordinators without undue delay if it becomes aware of any actual Data Security Breaches and shall provide reasonable information and cooperation to Group Coordinator so that Group Coordinator can fulfil any data breach reporting obligations it may have under (and in accordance with the timescales required by) applicable Data Protection Legislation;
+
+Sub-processors
+
+Lexyl shall, upon request, provide the group coordinator with a list of subcontractors who Process Personal Data;
+
+Lexyl shall only appoint third party vendors or service providers as sub- processors of the Personal Data where Lexyl:
+
+(A) concludes written contracts with such sub-processors which provide for data protection terms that are no less protective than the terms set out in these Requirements;
+
+(B) notifies group coordinator of any intended additions of or replacements to existing sub-processors prior to such appointment;
+
+(C) remains fully liable to group coordinator for any breaches of the Terms of Use that are caused by the acts, errors and omissions of its sub-processors;
+
+If the group coordinator has reasonable data protection grounds to believe that a sub- processor appointed by Lexyl will render Lexyl unable to fulfil its data protection obligations under these Requirements, the group coordinator may, within 7 days of receipt of notice of their appointment, object to Lexyl's appointment of such sub-processor, in which case Lexyl will not allow that sub-processor to further access the Personal Data until the group coordinator has agreed to the appointment or replacement of the subcontractor or until group coordinator withdraws its objection;
+
+Lexyl shall establish policies and procedures to provide all reasonable and prompt assistance to Group Coordinators in responding to any and all requests, complaints, or other communications received from any individual who is or may be the subject of any Personal Data Processed by Lexyl.
+
+Cross border data transfers
+
+Lexyl shall not transfer (and shall not permit any third party to transfer) Personal Data outside the territory of origination unless it takes any required compliance measures to enable such transfer legally; and
+
+With regard to EEA Data, Lexyl shall not transfer (and shall not permit any third party to transfer) such data in any territory outside of the European Economic Area (EEA) unless it takes such measures to ensure that such transfer of EEA Data is consistent with the requirements of Chapter V of the GDPR. For the avoidance of doubt, such measures may include Lexyl (or third party, as applicable):
+
+(A) ensuring that it Processes the EEA data in a country that has been deemed adequate by the European Commission pursuant to Article 45 of the GDPR;
+
+(B) Processing the EEA Data pursuant to Standard Contractual Clauses (or "model clauses") approved by a decision of the European Commission;
+
+(C) Processing the EEA Data in compliance with Binding Corporate Rules that have been duly authorized by EEA data protection authorities that are competent for the EEA Data; and
+
+(D) with respect to transferring the EEA data to the United States, Processing such data pursuant to the EU-U.S. and/or Swiss-U.S. Privacy Shield Frameworks, as applicable;
+
+(E) Lexyl shall ensure that any person (including Lexyl's staff, agents and subcontractors) who is authorized to Process the Personal Data is subject to a strict duty of confidentiality (whether a contractual or statutory duty) and shall not permit any person to Process the Personal Data who is not under such a duty of confidentiality; and
+
+(F) with regard to EEA Data, Lexyl shall assist group coordinators to conduct data protection impact assessments to the extent such assessments are required by the GDPR, and if necessary, consult with relevant supervisory authorities pursuant to Articles 35-36 of the GDPR.
+
+Please send all personal data removal requests to GDPR [AT] hotelplanner.com with your group request ID number in the subject line of the email.
