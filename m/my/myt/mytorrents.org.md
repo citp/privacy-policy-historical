@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mytorrents.org privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712221531id_/https%3A//mytorrents.org/priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytorrents.org privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903094437id_/https%3A//mytorrents.org/priv.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](https://web.archive.org/)
+[](https://mytorrents.org/)
 
 General 
 
