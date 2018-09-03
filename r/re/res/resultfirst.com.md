@@ -1,101 +1,92 @@
-> *The following text is extracted and transformed from the resultfirst.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613142112id_/http%3A//www.resultfirst.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resultfirst.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903025416id_/https%3A//www.resultfirst.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - ResultFirst
 
-ResultFirst is committed to respecting your online privacy and recognizes your need for appropriate protection and management of any personal information you share with us. In order to provide you with relevant information, fulfill your specific requests, and enhance your experience across our website, at times, we will request personal information from you. Personal information means any information that may be used to identify an individual, including, but not limited to:
+This privacy policy sets out how ResultFirst uses and protects any information that you give ResultFirst when you use this website.
 
-  1. First and last name.
-  2. Physical address.
-  3. Phone number.
-  4. E-mail address.
-  5. Other contact information.
+ResultFirst is committed to ensuring that your privacy is protected. If we ask you to provide certain information by which you can be identified when using this website, then you can rest assured that it will be in accordance with this privacy policy.
 
+ResultFirst may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you agree with any changes.
 
+##### What We Collect
 
-ResultFirst has established this Online Privacy Policy so that you can understand the care with which we intend to treat your personal information. This is our way of letting you know how we collect information, what we collect it for and what choices you have.
+We may collect the following information:
 
-Entities Collecting Personal Information
+ResultFirst may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you agree with any changes.
 
-Personal Information on this site is collected by:
-
-ResultFirst Inc.  
-6081 Meridian Avenue, Suite 70 #167,  
-San Jose, CA 95120, USA
-
-If you have any questions or concerns, please contact [privacy@resultfirst.com](mailto:privacy@resultfirst.com).
-
-Types of Data Collection
-
-ResultFirst collects data from users in four main ways.
-
-  1. Registration screens and online forms.
-  2. In the process of online sales inquiries.
-  3. In emails sent to ResultFirst from user.
-  4. Through automated means such as communications protocols and cookies.
+  * Name and job title
+  * Contact information including email address
+  * Demographic information such as postcode, preferences and interests
+  * Other information relevant to customer surveys and/or offers
 
 
 
-ResultFirst may receive data from you as part of the communication connection – the standard electronic greeting between your computer, the network and our servers. Tracking technologies may record information such as Internet domain and host names; Internet Protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and time that our site is accessed.
+##### What We Do With The Information We Collect
 
-At the time communication connection is established, our server will also query your computer to see if there are “cookies” previously set by [www.resultfirst.com](http://www.resultfirst.com/) to facilitate login or other site navigation procedures. A cookie is a small text file that may be used to recall Personal Information previously indicated by the web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-ResultFirst provides an “Opt-Out” on the site for cookies or by using your browser you may choose not to accept them. However, please note that if you choose to “Opt-Out”, erase, or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the website.
-
-ResultFirst may use web beacons in HTML-formatted email messages (messages that include graphics). Web beacons are electronic images called a “single-pixel GIF” that are used in emails that ResultFirst sends in order to determine which email messages were opened and to note whether a message was acted upon.
-
-Our use of cookies and other tracking technologies allows us to improve our website and your Web experience. We may also analyze information that does not contain Personal Information for trends and statistics.
-
-You may choose whether or not to provide personal information to ResultFirst. If you choose not to provide the personal information we request, you can still visit most of ResultFirst’s website, but you may be unable to access certain options and services that involve our interaction with you.
-
-The Data We Collect and How We Use It
-
-ResultFirst collects information from users for the following purposes:
-
-  1. To engage in communications. Name, address, email, phone information may be collected and stored as part of communication history. The majority of the information collected under this category is business contact information.
-  2. To provide future service and support. Information collected for this purpose is both contact information and information related to products and service / support requested. This information is also used to provide service, product update, and similar notices.
-  3. To select content. Information may be collected to help create website content and navigation that is most relevant and user friendly. This includes information collected as a result of site navigation as well as information provided in forms.
-  4. To respond to user inquiries and requests for information. The information includes registrations for content downloads, newsletter, and specific requests for further information.
-  5. To better tailor marketing to user needs. We may use information from product purchases and requirements to provide you with timely and pertinent notices of product releases and service developments that address your needs and requirements.
-  6. To better respond to requests. ResultFirst will pass contact information to the appropriate ResultFirst sales person, support or services representative for follow-up related to your request.
-  7. As a result of your participation in interactive discussions and customer forums. There are parts of the website that permit users to participate in interactive discussions. These are moderated and all are subject to access for technical reasons. As in all interactive for an open to many users, you should carefully consider whether you wish to submit personally identifiable information.
-  8. To address performance and fix issues. On occasion, patches and other fixes to software are developed by ResultFirst. We may communicate the availability of these patches or fixes to registered owners of software. These communications will not contain marketing messages and are not subject to opt-out elections due to the potential importance of these patches and fixes.
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
 
 
 
-Accessing, Modifying and Deleting Profile Information and Preferences
+##### Security
 
-ResultFirst recognizes that users may not wish to be contacted about new or related products. ResultFirst allows you to Opt-Out of email marketing that may result from using the site. These choices may be made as part of the registration process or from links in marketing mailings. You may also always return to your ResultFirst Profile to change your election relating to Opt-Out or by sending an email to our automated link [unsubscribe@resultfirst.com](mailto:unsubscribe@resultfirst.com). Certain communication from ResultFirst such as customer service announcements, administrative messages are considered part of ResultFirst’s Customer Licensing and you may not opt out of receiving them.
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-Our goal is to provide a way to contact ResultFirst should you need to update or correct that information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your personal information to [privacy@resultfirst.com](mailto:privacy@resultfirst.com) and we will make reasonable efforts to incorporate the changes in your ResultFirst Profile that we hold as soon as possible. While the majority of questions and issues related to access can be handled quickly, a few complex requests may take more research and time. In these cases, access issues will be addressed within thirty (30) days or you will be contacted as to the nature of the problem and appropriate next steps.
+##### How We Use Cookies
 
-Some information may remain in our archived records after your account has been deleted. When you register or submit information to ResultFirst, a temporary copy of that information is routinely made to prevent accidental loss of your information through a computer malfunction or human error. ResultFirst keeps your account information active in our user registration database in order to provide immediate access to your personalization preferences each time you visit [www.resultfirst.com](http://www.resultfirst.com/).
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-If you ask ResultFirst to delete your ResultFirst Profile, in most cases your account will be deactivated and then deleted from our user registration database in approximately 90 days. This delay is necessary to discourage users from engaging in fraudulent activity.
+We use traffic log cookies to identify which pages are being used. This helps us analyze data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-Please note that any information that we have copied may remain in back-up storage for some period of time after your deletion request. This may be the case even though no information about your account remains in our active user databases.
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
-The ResultFirst computers (called “servers”) that send your web pages store an enormous amount of information every day. These computer records are called “log files.” Log files are used for analysis, research, auditing, and other purposes. After this information has been used, it is stored and is inaccessible. Until the information is stored, your user ID may remain in our active server log files.
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-Information Sharing and Disclosure
+##### Links To Other Websites
 
-ResultFirst, Inc. does not rent or sell personal information about you with other people. We will provide information about ResultFirst and related partner products and services to you. ResultFirst will also:
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-  1. Respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
-  2. Share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats, or as otherwise required by law.
-  3. Transfer personal information about you if ResultFirst is acquired by or merged with another company. In this event, ResultFirst will notify you before information about you are transferred and becomes subject to a different Privacy Policy.
+##### Controlling Your Personal Information
 
+You may choose to restrict the collection or use of your personal information in the following ways:
 
+Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
 
-Confidentiality and Security
+If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at sales@resultfirst.com
 
-ResultFirst is concerned with the security of your personal information we have collected and has in place reasonable measures to prevent unauthorized access to that information. These measures include policies, procedures, and technical elements relating to data access controls.
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-Children’s Privacy
+##### Protection for Children (Optional)
 
-ResultFirst is not structured to attract children. Accordingly, we do not intend to collect personal information from anyone we know to be under 18 years of age.
+This website is not intended for users under the age of 13, and we have no intention of collecting personally identifiable information from children (i.e., individuals under the age of 13). If a parent or guardian learns that a child has provided us with personally identifiable information, that child’s parent or guardian should contact us and send a request marked “Privacy – Urgent” if they would like the information submitted by the child deleted from our database. We will use all reasonable efforts to delete such information from our database.
 
-Notice and Consent
+##### Location of Site 
 
-ResultFirst may update this policy from time to time to describe how new website features affect our use of your information and to let you know of new control and preference features that we provide you. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your ResultFirst Profile or by placing a prominent notice on our website.
+Our website is maintained in the USA. By using the website, you freely and specifically give us your consent to export your personally identifiable information to the USA and to store and use it in the USA as specified in this policy.
 
-By using this website, you consent to the terms of our Online Privacy Policy and to ResultFirst’s processing of personal information for the purposes given above.
+##### Your Consent
+
+We may amend our privacy policy at any time and will post those changes on this page, so you are always aware of what information we collect, how we use it and under what circumstances we may disclose it. However, if we plan to materially change the way in which we use or disclose your personally identifiable information, we will provide you with prior notice and a chance to opt-out of such differing uses.
+
+##### Requesting the Information 
+
+You may request details of personal information which we hold about you under the GDPR. If you would like a copy of the information held please write to sales@resultfirst.com.
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+##### Contacting Us
+
+If you have any questions about this privacy policy, the practices of this site, or your dealings with this site, you can contact us.
+
+In addition, our mailing address is:
+
+**6081 Meridian Avenue, Suite 70 #167,  
+San Jose, CA 95120 (USA)**
+
+##### Effective Date
+
+This privacy policy was last updated on 25/05/2018
