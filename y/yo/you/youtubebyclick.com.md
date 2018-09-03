@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youtubebyclick.com privacy policy that was archived on 2017-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170824225224id_/https%3A//www.youtubebyclick.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youtubebyclick.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903190622id_/https%3A//www.youtubebyclick.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - YouTube by click
 
