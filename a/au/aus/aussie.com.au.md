@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aussie.com.au privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614054352id_/https%3A//www.aussie.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aussie.com.au privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903185536id_/https%3A//www.aussie.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Aussie
 
@@ -80,6 +80,7 @@ We may hold or process your information on servers located overseas for filterin
 Where your information is sent overseas it is likely to be to one of the following countries:
 
   * Canada
+  * Japan
   * Netherlands
   * New Zealand
   * Singapore
@@ -93,7 +94,7 @@ It is important for us, and for you, that the information we hold is accurate an
 
 The personal information we hold about you is yours to access and correct, and as such we can provide you with general information, such as your name, address and contact details quite easily. There is no fee for making the initial request. More detailed information may not be as easy for us to access, and if necessary, in some cases there may be an access charge to cover the time we spend locating, compiling and explaining the information you ask for. If there is an access charge, we'll give you an estimate up front and confirm that you'd like us to proceed. Generally, the access charge is based on an hourly rate plus any photocopying costs or other out-of-pocket expenses. You'll need to make the payment before we start.
 
-The process of providing you with access to or correcting your personal information may take up to 30 working days from the date of your request. If we refuse to give you access to or correct your information, we must give you written notice setting out the reasons for the refusal and the mechanisms available for you to complain about the refusal.
+The process of providing you with access to or correcting your personal information may take up to 30 calendar days from the date of your request. If we refuse to give you access to or correct your information, we must give you written notice setting out the reasons for the refusal and the mechanisms available for you to complain about the refusal.
 
 If you need to access or correct your detailed information, just write to us at the following address:
 
