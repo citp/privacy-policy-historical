@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themehorse.com privacy policy that was archived on 2017-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170108185540id_/https%3A//www.themehorse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themehorse.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903142029id_/https%3A//www.themehorse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Theme Horse
 
@@ -48,5 +48,3 @@ We are not responsible for the practices employed by websites linked to or from 
 ### 9) Your Consent
 
 By using this site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on this site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
-
-* * *
