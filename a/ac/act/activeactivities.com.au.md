@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activeactivities.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313031331id_/https%3A//www.activeactivities.com.au/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activeactivities.com.au privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905005315id_/https%3A//www.activeactivities.com.au/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ActiveActivities
 
@@ -6,26 +6,27 @@
 
     1. 1.1 Please read our Privacy Policy to understand how we treat and protect the information we collect, process and store from Website Visitors and Businesses listed on ActiveActivities (the Website). 
     2. 1.2 The Website is owned and operated by The Digital Company (TDC). [Click here](http://www.thedigitalcompany.com.au/) for more information on TDC.
-    3. 1.3 We collect only the information we believe is necessary to deliver and improve our services, products and processes.
-    4. 1.4 By accessing, using or providing any content, in any way, to the Website you acknowledge you have read and agreed to this Privacy Policy and the [Terms of Use](https://web.archive.org/page/terms-use/) published on the Website. Should you disagree or not accept any part of this Privacy policy you should stop accessing this Website, and if you have an account you should deactivate it immediately.
+    3. 1.3 We collect only the information we believe is necessary to deliver and improve our services, products and processes (see section 2 below).
+    4. 1.4 By accessing, using or providing any content, in any way, to the Website you acknowledge you have read and agreed to this Privacy Policy and the [Terms of Use](https://web.archive.org/page/terms-use/) published on the Website. Should you disagree or not accept any part of this Privacy Policy you should stop accessing this Website, and if you have an account you should deactivate it immediately.
     5. 1.5 Your use of this Website and this Privacy Policy are governed by the laws of New South Wales, Australia.
     6. 1.6 If any clause of this Privacy Policy is held to be legally invalid or unenforceable, the invalid or unenforceable wording shall be deemed to be omitted from this Privacy Policy.
     7. 1.7 TDC reserves the right to change any or all of our Privacy Policy by publishing the new Privacy Policy on this Website and without specific notice to you. We thus recommend you check back on a regular basis for changes. Your usage of any part of the Websites will be subject to the most current version of this Privacy Policy.
     8. 1.8 Should you have any questions or feedback relating to this Privacy Policy, please [contact us](https://web.archive.org/contact) using the contact information on the Website and we will be happy to help.
+    9. 1.9 Should you have a complaint regarding our Privacy Policy, or believe we have breached your privacy in some way, please [contact us](https://web.archive.org/contact). Once we have received the necessary information, we will investigate the matter and attempt to resolve any breach that may have occurred in accordance with the relevant privacy regulations.
   2. ## What we collect
 
     1. 2.1 The type and nature of the information we collect ultimately depends on how you use the Website.
     2. 2.2 This information can include: 
-      1. 2.2.1 Any information provided or shared by you, for example your name, contact details, selections, preferences, responses, images, videos, social media profiles and text via registration, web form, email or any other means.
+      1. 2.2.1 Any information provided or shared by you, for example your name, contact details, selections, preferences, responses, images, videos, social media profiles and any other text via registration, web form, email or any other means.
       2. 2.2.2 Feedback from users. Feedback is reviewed internally and where appropriate and relevant used in aggregate to make changes to the site with the objective of improving the user experience.
       3. 2.2.3 Ratings and reviews. Where these are in line with our ratings and review guidelines they may be published alongside business listings.
-      4. 2.2.4 Posting or contributing other material on the Website.
+      4. 2.2.4 Posting or contributing articles, blog posts or other material on the Website.
       5. 2.2.5 We do not collect financial information unless this is required for the purposes of refunds, Pay per Lead, online bookings or making payments. All credit card information is managed by established and reputable 3rd parties.
       6. 2.2.6 Records of purchases and payments and other interactions where applicable to manage our business, our responsibilities under the law and our partners.
     3. 2.3 This can also include information generated by our platform including: 
       1. 2.3.1 Certain log data including your IP address, date and time of access, network, browser, referral source (if applicable), pages visited and URLs, time on these pages and device type.
       2. 2.3.2 Analytics user information. Analytics software allows us to see the total traffic and the networks from where the Website is accessed and what areas of the Website are accessed amongst other things.
-      3. 2.3.3 Cookies. Cookies are stored in Visitors browsers. We do not store any personally identifiable information in the cookie. From time to time we may use cookies or other tracking technologies to track user behaviour within our Website for the purposes of customer support, research, data analysis, product development, fraud detection, investigation or compliance. We may also use these technologies to facilitate targeted advertising for you on our Website or on third party websites.
+      3. 2.3.3 Cookies. Cookies are stored in Visitors browsers. We do not store any personally identifiable information in the cookie.
       4. 2.3.4 Where social plugins are used and operated by third parties such as the Facebook Like button, if you are logged in they may be able to determine your identity and link this to the usage of our Website. Likewise they may be able to record your interactions with the social plugin.
     4. 2.4 As this Website is aimed at visitors that are at least sixteen (16) years of age and we do not knowingly request or collect personally identifiable information from anyone under this age. Should we become aware of Visitors under 16 years of age, this information will be immediately deleted.
   3. ## How we use this information
@@ -33,7 +34,7 @@
     1. 3.1 We use the information collected: 
       1. 3.1.1 For registration and ongoing management and access to your account and any related functions including account access and customisation, business listing, online bookings, request a service, Pay per Lead, e-commerce, payments and receipts, account authentication and messaging.
       2. 3.1.2 For when you have contacted and provided your contact and/ or other details to a business listed on the Website, the details and information you share as well as any related transactions will be visible to that business to allow them to contact you direct.
-      3. 3.1.3 To facilitate “Request a quote”, “Request a Service” and “Contact me” functionality your contact details and any information you share about your requirements may be shared with businesses in your area or businesses deemed relevant to your request for their response.
+      3. 3.1.3 To facilitate “Request a Quote”, “Request a Service”, "Request a Contact", "Request a Booking" and “Contact me” functionality your contact details and any information you share about your requirements may be shared with businesses in your area or businesses deemed relevant to your request for their response.
       4. 3.1.4 For general and specific communications we believe will be of interest, including notifications, updates, newsletters, responses to queries, customer support and other matters we believe are relevant to your experience on the Website.
       5. 3.1.5 To personalise your experience on the Website including providing recommended features, content, social connections, referrals and advertisements. 
       6. 3.1.6 To facilitate email communications which provide information to keep you informed and get the most from the Website. These emails can include special offers, upgrade information, reports, contact information, request a service and pay per lead related information to and from businesses listed on the Website, newsletters and any other system messages. You can unsubscribe or manage these emails by logging in and setting your preferences.
@@ -46,13 +47,13 @@
       13. 3.1.13 To facilitate the promotion or delivery of our services and online bookings to our users. This can include promotional materials, direct marketing campaigns or newsletters relevant to the Website.
       14. 3.1.14 To engage in direct marketing, advertising or other promotions that may be of interest to you, including special offers from marketing or other partners.
       15. 3.1.15 To comply with our legal obligations, resolve disputes, enforce agreements with third parties and enforce our terms of use.
-    2. 3.2 The Website and TDC make every effort to abide by the privacy requirements in the geographies where the Website operates and where TDC is legally required to do so.
-    3. 3.3 It is our policy not to sell or share any personal information provided by users without their permission. Circumstances under which we may disclose such information includes where we are required to by law or receive a request from a relevant law enforcement agency and have little other option but to comply.
+    2. 3.2 The Website and TDC is committed to, and makes every effort to, abide by the privacy requirements in the geographies where the Websites operate.
+    3. 3.3 It is our policy not to sell or share any personal information provided by users without their permission. Circumstances under which we may disclose such information includes where we are required to by law or receive a request from a relevant law enforcement agency.
   4. ## How we use cookies
 
     1. 4.1 Cookies are small text files automatically placed on your computer when you visit a website and stored in your browser. Cookies contain very basic information about your Internet use. The Website and TDC use cookies in the following manner: 
-      1. 4.1.1 To track the pages of the Website visited to analyse and further improve the user experience
-      2. 4.1.2 To improve the user experience by determining what advertisements or content you may or may not see
+      1. 4.1.1 To track the pages of the Website visited to analyse and improve the user experience, customer support, product development, fraud detection and compliance.
+      2. 4.1.2 We may also use them, and other related technologies such as a device ID, to facilitate targeted advertising for you on our Website or on third party websites.
     2. 4.2 We do not store any personally identifiable information in the cookie.
     3. 4.3 You can refuse to accept cookies by turning them off in your browser, but certain functionality within the site may be limited as a result.
   5. ## How to access, change or delete your information
@@ -62,7 +63,7 @@
   6. ## Respecting information privacy
 
     1. 6.1 We recognise the importance of protecting personal information and are cognisant of the Privacy Laws and Regulations of the country that the Website operates within.
-    2. 6.2 We do not collect sensitive information including race, religion, ethnicity, political opinions or associations, criminal records or health information intentionally.
+    2. 6.2 We do not collect sensitive information including race, religion, ethnicity, political opinions or associations, criminal records or health information intentionally, other than where certain questions relating to health may aid a provider in responding to a request for service or appointment. In these cases the user has the option of including or not including information of this nature at their discretion.
   7. ## Information security
 
     1. 7.1 All information provided to us is stored on dedicated and secure servers operated by reliable third party vendors in protected and controlled hosting facilities.
