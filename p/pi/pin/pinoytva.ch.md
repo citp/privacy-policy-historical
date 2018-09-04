@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinoytva.ch privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011105744id_/http%3A//pinoytva.ch/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinoytva.ch privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904072002id_/https%3A//pinoytva.ch/pages/privacy-policy.html) for the most accurate reproduction.*
 
 # Watch Privacy policy Online
 
