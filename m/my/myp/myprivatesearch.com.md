@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myprivatesearch.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626060919id_/http%3A//www.myprivatesearch.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myprivatesearch.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904134919id_/http%3A//www.myprivatesearch.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy - MyPrivateSearch
 
