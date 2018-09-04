@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the easyworship.com privacy policy that was archived on 2017-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170327092136id_/https%3A//www.easyworship.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyworship.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904204920id_/https%3A//www.easyworship.com/policy) for the most accurate reproduction.*
 
-# EasyWorship.com - Privacy Policy
+# Privacy - EasyWorship
+
+Privacy Policy
 
 EasyWorship.com is operated by Softouch Development, Inc. and may be accessed in the United States and abroad. For personal information protection purposes, Softouch Development, Inc. is the controller and processor of any personal information collected through EasyWorship.com. This information may be retained as long as it is reasonably required for the purposes it was collected.
 
@@ -8,13 +10,13 @@ Softouch Development, Inc. is committed to protecting your privacy. This privacy
 
 Please read this policy, and if you have any questions, contact us. Remember, it‘s your choice not to give personal information online. By using the site you consent to the collection, use and disclosure of your personal information in accordance with this policy.
 
-### Consent to Collection of Your Personal Information
+Consent to Collection of Your Personal Information
 
 When you visit this site, certain kinds of non-personal identifying information, such as the website that referred you to us, your IP address, browser type and language, and access times, may be collected automatically as part of the site’s operation. We also may collect navigational information, including information about the pages you view, the links you click, and other actions taken in connection with the site.
 
 We only collect personal identifying information about you after you have provided us with your consent to collect that specific information. By voluntarily providing this information to us, you consent to the collection and use of your personal information as set out in this privacy policy.
 
-### Personal Information Includes:
+Personal Information Includes:
 
   1. information collected when you register, including your user name and password, name, mailing address, email address, and phone number;
   2. information collected when you make a purchase, including your credit card information and billing address;
@@ -24,7 +26,7 @@ We only collect personal identifying information about you after you have provid
 
 Remember, you can always choose not to provide personal information, but if you choose not to provide it, certain products and services may not be available to you.
 
-### Disclosing Your Personal Information
+Disclosing Your Personal Information
 
 Information about our customers is an important part of our business. Except as set out in this privacy policy, Softouch Development, Inc. does not disclose or sell your personal information to any third-parties.
 
@@ -40,7 +42,7 @@ We reserve the following rights to disclose your personal information to appropr
 
 
 
-### Use of Cookies
+Use of Cookies
 
 EasyWorship.com uses “cookies” to enable you to sign in to our services and to help personalize your online experience. A cookie is a small text file that is placed on your hard drive. Cookies contain information, including personal information that can later be read by a web server in the domain that issued the cookie to you. The information that cookies collect includes the date and time of your visit, your registration information, session identification number and your navigational history and preferences.
 
@@ -50,7 +52,7 @@ In some cases, our third-party service providers may use cookies on our sites. W
 
 You have the ability to accept or decline cookies. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies.
 
-### Information Security
+Information Security
 
 The security of your personal information is important to us. We follow generally accepted industry standards to help protect your personal information including without limitation:
 
@@ -66,14 +68,14 @@ No method of transmission over the Internet, or method of electronic storage, is
 
 It is also important for you to protect against unauthorized access to your computer. If a password is used to protect your account and personal information, it is your responsibility to keep your password confidential. Be sure to sign off when finished using a shared computer.
 
-### Links
+Links
 
 This web site contains links to other sites. Please be aware that Softouch Development, Inc. and EasyWorship.com are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
 
-### Children
+Children
 
 We do not intend to solicit or collect personal information from anyone under the age of 18 without parental consent. If you are under 18, you may use EasyWorship.com only with the involvement of a parent or guardian. Consistent with the Federal Children’s Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent. Parents can email us to have any of their child’s information removed from any further use or communications.
 
-### Changes to this Policy
+Changes to this Policy
 
-We reserve the right to change the terms of this privacy policy at any time. When we make changes, we will revise the “last updated” date at the top of the policy. If there are material changes to this statement or to the way we use your personal information, we will notify you by prominently posting a notice of such changes here or on our home page, or by sending you an email. We encourage you to review this policy whenever you visit EasyWorship.com. If you have any additional questions, please feel free to contact us toll-free at +1 (888) 876-4004 or email [support@easyworship.com](mailto:support@easyworship.com).
+We reserve the right to change the terms of this privacy policy at any time. When we make changes, we will revise the “last updated” date at the top of the policy. If there are material changes to this statement or to the way we use your personal information, we will notify you by prominently posting a notice of such changes here or on our home page, or by sending you an email. We encourage you to review this policy whenever you visit EasyWorship.com. If you have any additional questions, please feel free to contact us toll-free at +1 (888) 876-4004 or email [support@easyworship.com](mailto:support@easyworship.com). 
