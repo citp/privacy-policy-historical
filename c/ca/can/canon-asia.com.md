@@ -1,86 +1,125 @@
-> *The following text is extracted and transformed from the canon-asia.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505065810id_/http%3A//www.canon-asia.com/personal/web/privacy%3FlanguageCode%3DEN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canon-asia.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904133650id_/https%3A//asia.canon/en/consumer/web/privacy) for the most accurate reproduction.*
 
-# Privacy policy - Canon in South and Southeast Asia - Personal
+# Privacy policy - Canon South & Southeast Asia
 
-### On this page
+This Privacy Policy describes how we manage Personal Data in compliance with the Singapore Personal Data Protection Act 2012 (No. 26 of 2012) (“Act”).  We encourage you to read this Privacy Policy so that you know and understand the purposes for which we collect, use and disclose your Personal Data.
 
-###  Acceptance
+**We may update this Privacy Policy from time to time.   Subject to your rights at law, you agree to be bound by the prevailing terms of this Privacy Policy as updated from time to time.  We encourage you to check the latest version of this Privacy Policy regularly.**
 
-This website ("Canon Website") is provided to you by Canon Singapore Pte Ltd ("Canon") on the following terms and conditions ("Terms and Conditions"). By accessing any page on this Canon Website, you agree to be bound by these Terms and Conditions. These Terms and Conditions may be updated by Canon from time to time without prior notice. You should check the Terms and Conditions for updates each time you access the Canon Website.
+" **Personal Data** " refers to data, whether true or not, about an individual who can be identified from that data, or from that data in combination with other information to which the organisation may have access and includes the meaning otherwise as defined in the Act as amended from time to time. 
 
-Top
+By signing up for or using any products, services or campaigns offered by Canon Singapore Pte. Ltd. or submitting information to or otherwise communicating with Canon Singapore Pte. Ltd., you agree and consent to Canon Singapore Pte. Ltd. and our related entities, affiliates and subsidiaries (individually and collectively, "Companies"), as well as their respective representatives and/or agents (collectively referred to herein as "Canon", "us", "we" or "our") collecting, using and disclosing your Personal Data in accordance with this Privacy Policy. “You” or “your” means any individual to whom the Act applies and includes an individual actual or prospective customer but excludes any corporate entity (including corporate customers) and any other entity that is excluded under the Act.
 
-###  Our Commitment To Privacy
+This Privacy Policy does not supersede or replace any other consents you may have previously or separately provided to us in respect of your Personal Data, and your consent to this Privacy Policy is in addition to any other rights which any of the Companies may have at law to collect, use or disclose your Personal Data. 
 
-As your privacy is important to us, we provide this Statement explaining our online information practices and the choices you can make about the way your information is collected and used. For easy accessibility, this Statement will be made available on our homepage and on every page of our website.  
+This Privacy Policy and your use of this website shall be governed in all respects by the laws of Singapore.
+
+  1. **Collection & Consent**
+    1. Personal Data may be collected from you in one or more of the following ways: 
+      1. when you order or purchase products or services from us;
+      2. when you post a feedback or interact with our customer service officers, eg. via meetings, emails or telephone calls (which may be recorded for training, quality control, business and/or other lawful purposes);
+      3. when you register for warranty for a product you purchase or make a gift redemption
+      4. when you use some of our services including establishing any online accounts with us
+      5. when you request that we contact you, be included in an email or other mailing list
+      6. when you respond to our promotions, campaigns or other initiatives or attend our events;
+      7. when we receive references from business partners and third parties, for example, where you have been referred by them; (h) when you visit our websites;
+      8. when you take part in any contest, survey or promotion conducted by us and/or our business partners (including submission of photographs);
+      9. during CCTV recordings when you visit our premises or photo taking or video recording at events;
+      10. when we receive information about you from third party social networking services when you choose to connect with those services;
+      11. when you provide or contemplate providing security to us for a transaction; (m) when you submit your Personal Data to us for any other reasons; and/or
+      12. when we collect your Personal Data by other lawful means.
+    2. Unless permitted by applicable laws, we will not collect Personal Data without your consent.
+    3. You warrant and represent to us that (a) Personal Data which you disclose to us is accurate and complete; and (b) where you volunteer Personal Data of another person to us, that you are authorized by such other person to disclose such Personal Data to us, and that such Personal Data is accurate and complete.
+    4. You shall consult your parent or guardian before giving us your Personal Data if you are under the age of eighteen.  
+ 
+  2. **Purposes for which we collect, use and disclose your Personal Data**
+    1. Your Personal Data may be collected, used and/or disclosed for the following purposes:  
+      1. to verify and process your personal particulars and payments;  
+      2.  to provide goods and services to you;  
+      3. to respond and deal with enquiries, complaints and other customer-care matters or otherwise communicate with you;  
+      4. to monitor or record phone calls and customer-facing interactions for quality assurance, employee training and performance evaluation and identity verification purposes;  
+      5. to manage payment, billing, account, credit checks and debt-recovery matters;  
+      6.  to send you information, promotions, updates, and marketing and advertising materials in relation to our goods and services and that of our group companies;  
+      7. to manage, develop and improve our business and operations to serve you better;  
+      8. to carry out marketing promotions and campaigns, contests and lucky draws and personalising your experience at our customer touchpoints;  
+      9. to carry out market research and customer surveys;  
+      10. to conduct investigations or audits or carry out crime and fraud prevention and risk management activities;  
+      11. to comply with legal and regulatory requirements;  
+      12. to enforce our legal rights and obligations;  
+      13.  to facilitate business asset transactions (which may extend to any mergers, acquisitions or asset sales); 
+      14.  for other purposes for which we have obtained your consent; and  
+      15.  for any other purposes reasonably necessary, ancillary or related to the above specified purposes.  
+ 
+  3. Your Personal Data may be disclosed for the purposes indicated above to our officers and employees, third parties, affiliates, service providers, advisors, which include without limitation, the following persons or entities:  
+
+Save for relevant government regulators and authorities or law enforcement agencies, we will ensure that such parties receiving your Personal Data (i) are under duty of confidentiality to us with respect to the use, holding, processing, retention and/or transfer of your Personal Data; and (ii) have the need to know or handle such Personal Data
+
+    1. banks, credit card companies, and payment vendors;  
+    2. debt collection agencies;  
+    3. credit information companies;  
+    4. logistics and courier services companies;  
+    5. call centre services providers;  
+    6.  our business partners and authorised distributors, dealers or resellers;  
+    7. relevant government regulators or authorities or law enforcement agencies;  
+    8. our insurers and advisors, including consultants, auditors and lawyers;  
+    9. data intermediaries; and  
+    10.  any other party to whom you authorise us to disclose your Personal Data to.  
+Save for relevant government regulators and authorities or law enforcement agencies, we will ensure that such parties receiving your Personal Data (i) are under duty of confidentiality to us with respect to the use, holding, processing, retention and/or transfer of your Personal Data; and (ii) have the need to know or handle such Personal Data.  
+ 
+  4. **If you have provided us with your Singapore telephone number(s) and have indicated that you consent to receiving marketing or promotional information via your Singapore telephone number(s), then from time to time, we may contact you using such Singapore telephone number(s) (including via voice calls, text, fax or other means) with information about our products and services.**  
+ 
+
+  5. Your Personal Data may be transferred, stored and/or processed in a country or territory outside Singapore and you consent to any such transfer, storage and/or processing of your Personal Data outside Singapore. We will however ensure that any party to whom we transfer your Personal Data outside Singapore provides to such Personal Data a standard of protection at least comparable to the protection under the Act. This includes without limitation ensuring that any party coming into contact with the Personal Data outside Singapore:
+
+    1. complies with the Act and accompanying guidelines issued by the relevant regulatory authorities, all applicable laws and regulations and this Privacy Policy (“Data Standards”) and shall not do or permit anything to be done which might cause such party or us to breach the Data Standards;
+
+    2. takes all appropriate measures to ensure such compliance by implementing such Data Handling Principles as notified by us to them from time to time and appropriate technical and organisational measures and providing a standard of protection for the Personal Data that is comparable to the protection under the Act; and
+
+    3. protects the Personal Data by making reasonable security arrangements to prevent unauthorised access, use, disclosure or modification.  
+ 
+
+  6. **Withdrawal of Consent & Access**
+    1.  You may withdraw your consent to our continued use and disclosure of your Personal Data or seek access to your Personal Data (to a reasonable extent and as permitted by the Act) at any time by writing to the Office of our Data Protection Officer. You may also withdraw your consent for specific forms of communication and on specific communications via the unsubscribe options as stated on our email or other marketing messages.
+    2. In withdrawing your consent, you acknowledge that we may not be able to provide or continue providing certain goods and/or services to you and that we may cease such provision accordingly without any liability. Please note that it may take up to  **30 working days**  for any request for consent withdrawal to be reflected in our systems.
+    3. We will, at your request, endeavour to provide you with an account of your Personal Data in our possession or control within a reasonable time. Such account shall be in respect of how your Personal Data has been or may have been generally used or disclosed within the year before the date of your request.   We reserve the right to charge a reasonable administrative fee for carrying out your request.  
+ 
+  7. **Accuracy & Correction**
+    1. We will endeavour to ensure that your Personal Data we use is sufficiently accurate and complete in making any decision that impacts you.
+    2. To help us maintain the accuracy of your Personal Data, we encourage you to inform us when there are any changes to your Personal Data which you have provided us by writing to the Office of our Data Protection Officer.  We will correct or complete your Personal Data as soon as reasonably practicable  
+ 
+  8. **Protection, Policies and Procedures**    
+We will endeavour to protect your Personal Data in our possession or control against risks of unauthorised access, collection, use, disclosure, copying, modification, disposal or destruction, through reasonable and appropriate security measures. We strive to ensure that our systems are secure and that they meet industry standards. To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the Personal Data we collect. Notwithstanding our security measures for protecting your Personal Data, you acknowledge that no data transmission over the Internet is completely secure and by providing your Personal Data, you are transmitting information at your own risk.  
+ 
+  9. **Retention of Personal Data**  
+
+We will retain your Personal Data for as long as you use our products or services and it is necessarily required or relevant for business or legal purposes.  
+ 
+
+  10. **Cookies**
+    1. We gather Information on our website activity, such as data on the number of visitors, the pages they visit, the duration of their stay, etc. Such information is collected on an aggregate, anonymous basis, which means no Personal Data is associated with this data and gathered through the use of web server logs and cookies. We do not at our website automatically collect Personal Data unless you provide such information or login with your account credentials.
+    2. Cookies are small bits of data automatically stored in the hard drive of the end user and are commonly used to track preferences in relation to the subject of such website. If you enable these cookies, then your web browser adds the text in a small file. You may wish to set your web browser to notify you of a cookie placement request or refuse to accept cookies by modifying relevant internet options or browsing preferences of your computer system, but to do so you may not be able to utilize or activate certain available functions on our website.
+    3. **By accessing and using our website and services, you consent to the storage of cookies, other local storage technologies, beacons and other information on your devices. You also consent to the access of such cookies, local storage technologies, beacons and information by us or our representatives or agents.**  
+ 
+  11. **Third-Party Links and Products on Our Services**  
+
+Our website and/or services may link to third-party websites and services that are outside our control. For example, we may enable you to share certain materials on the services with others through social networking services such as Facebook. We are not responsible for the security or privacy of any information collected by websites or other services. You should exercise caution, and review the privacy statements applicable to the third-party websites and services you use. To the fullest extent permitted under laws, we cannot be responsible for a third party's acts, omissions, data policies or their use of cookies nor the content or security of any third party websites, even if linked to our website. Any such liability is expressly disclaimed and excluded.  
+ 
+
+  12. **Contact us**  
+
+We have appointed Data Protection Officer(s) to oversee our compliance with the Act. Should you have any query, request or feedback relating to your Personal Data, please contact us at the following:
+
+**The Office of the Data Protection Officer**  
+**Canon Singapore Pte. Ltd.  
+1 Fusionopolis Place,  
+#15-10 Galaxis  
+Singapore 138522  
+Email: **[dpo@canon.com.sg](mailto:dpo@canon.com.sg)
+
+  For more information about the Singapore Personal Data Protection Act, please visit [http://www.pdpc.gov.sg](http://www.pdpc.gov.sg/).  
 
 
-Top
 
-### Scope
+© Canon Singapore Pte. Ltd. 2014. All rights reserved.  
 
-This Statement covers all aspects of Canon Website on which our privacy statement hyperlink appears. The information covered by this Statement is personal information an individual provides to Canon outside of his/her trade, business or profession ("Information").
-
-Top
-
-### The Information We Collect
-
-There are two forms of Information that Canon collects online: Website Visitorship Information and Personal Identifiable Information voluntarily provided to Canon by Canon Website visitors.
-
-**Website Visitorship Information**  
-Canon gathers Information on Website activity, such as data on the number of people who visit the Canon Website, the pages they visit, the duration of their stay, etc. Website Visitorship Information is: 
-
-  * Collected on an aggregate, anonymous basis, which means no Personal Identifiable Information is associated with this data; 
-  * Gathered through the use of web server logs and cookies. 
-
-
-
-**Personal Identifiable Information**  
-Personal Identifiable Information is collected on certain pages of the Canon Website. If you contact Canon online to ask a question, post a feedback, register a recently-purchased product, inquire about products you may already own, or participate in voluntary online surveys, you will find that those contact forms ask for certain types of Personal Identifiable Information to assist us in complying with your requests. 
-
-  * Canon may ask you to provide Personal Identifiable Information, on specific pages of the Canon Website. The information requested may include your name, address, e-mail address, contact number, product model and serial numbers and the dates of purchase, and your comments. Personal Identifiable Information may be forwarded to a Canon business unit or the appropriate Canon headquarters, subsidiary or affiliate company that is equipped to handle your inquiry or feedback.
-
-
-
-Personal Identifiable Information is collected only when Canon Website visitors voluntarily provide it and such information is not necessary to simply browse the Canon Website.
-
-Top
-
-### How We Use Information
-
-We use the Information you provide about yourself to perform the service you have requested and may use that Information to provide you with information about other Canon products and promotions that may be of interest to you. Your Information may be shared among our employees, agents or other related and unrelated Canon entities and/or business partners acting on our behalf to conduct surveys or to provide a product or service you have requested. We do not share this information with non-Canon companies except to the extent necessary to complete your requests and, in the event we do share it, it is subject to their agreement to treat it as confidential business information and with the understanding that it may not be used for any purpose other than to perform their function. If you inquire about a product that Canon does not sell directly, we may forward your information to a Canon authorized dealer, distributor or other reseller. Use of your information by the authorized dealer, distributor or reseller is governed by its own policies, not Canon's. Canon may also provide links to dealer sites from the Canon Website. See our discussion below and in our [Terms of Use](https://web.archive.org/personal/web/terms) about further information about such links.
-
-We use return email addresses to answer the email we receive as well as to provide you with product and service updates, special promotions and offers.
-
-In the course of growing or restructuring our business, we may purchase the assets of another company or sell the assets of our company. During these transactions, information about customers is frequently considered a business asset that is the subject of such a purchase or sale. Also, in the unlikely event that Canon, or substantially all of its assets are either acquired or subject to liquidation in bankruptcy, Information may be transferred as well.
-
-The Canon Website may contain hyperlinks to and from other Internet websites, including other Canon Company websites. These websites may have different privacy practices from the ones described here. Since this Statement applies solely to this Website, please read the privacy statements of the other websites you visit. For more information about hyperlinks, please see the [Terms of Use](https://web.archive.org/personal/web/terms) posted elsewhere on our Canon Website.
-
-We release Information when we believe release is appropriate to comply with law, to enforce or apply our [Terms of Use](https://web.archive.org/personal/web/terms) and other agreements, or to protect the rights, property, or safety of Canon, Canon Website users or others. This includes exchanging Information with other companies and organizations for fraud protection and credit risk reduction. 
-
-Top
-
-### Our Commitment To Data Security
-
-Canon strives to ensure that our systems are secure and that they meet industry standards. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the Information we collect online. The security of personal information you may submit in connection with a promotion entry, survey response, and/or registration for any feature on the Canon Website is of the utmost concern to us, and we strive to ensure its security on our systems. However, no data transmission over the Internet can be guaranteed to be completely secure, we cannot guarantee the security of any information you transmit to us, and you transmit such information at your own risk. We will continue to assess new technology to evaluate its ability to provide additional protection of your Information.
-
-Top
-
-### Right to Amend our Website Privacy Statement
-
-Canon reserves the right to amend this Statement at any time. Changes will be effective immediately upon posting on the Website.
-
-Top
-
-### How To Contact Us
-
-If you have questions or concerns about this Statement, please contact us at:
-
-Canon Singapore Pte Ltd   
-1 HarbourFront Avenue #04-01,   
-Keppel Bay Tower   
-Singapore 098632  
-Tel: (65) 6799 8888   
-Fax: (65) 6799 8882 
-
-Top
+**Last updated 19 October 2015**
