@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the independentaustralia.net privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309234645id_/https%3A//independentaustralia.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independentaustralia.net privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904083454id_/https%3A//independentaustralia.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### **Privacy Notice Table Of Contents**
 
-**[Our Commitment To Privacy](http://independentaustralia.net/privacy-policy#a1)  
-[The Information We Collect](http://independentaustralia.net/privacy-policy#a2)  
-[How We Use Information](http://independentaustralia.net/privacy-policy#a3)  
-[Our Commitment To Data Security](http://independentaustralia.net/privacy-policy#a4)  
-[Our Commitment To Children's Privacy](http://independentaustralia.net/privacy-policy#a5)  
-[How To Access Or Correct Your Information](http://independentaustralia.net/privacy-policy#a6)  
-[How To Contact Us](http://independentaustralia.net/privacy-policy#a7)**
+**[Our Commitment To Privacy](https://independentaustralia.net/privacy-policy#a1)  
+[The Information We Collect](https://independentaustralia.net/privacy-policy#a2)  
+[How We Use Information](https://independentaustralia.net/privacy-policy#a3)  
+[Our Commitment To Data Security](https://independentaustralia.net/privacy-policy#a4)  
+[Our Commitment To Children's Privacy](https://independentaustralia.net/privacy-policy#a5)  
+[How To Access Or Correct Your Information](https://independentaustralia.net/privacy-policy#a6)  
+[How To Contact Us](https://independentaustralia.net/privacy-policy#a7)**
 
 #### **Our Commitment To Privacy**
 
@@ -61,7 +61,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 #### **How You Can Access Or Correct Your Information**
 
-You can access all your personally identifiable information that we collect online and maintain by [calling us or sending us an email](http://independentaustralia.net/contact-independent-australia). We use this procedure to better safeguard your information.
+You can access all your personally identifiable information that we collect online and maintain by [calling us or sending us an email](https://independentaustralia.net/contact-independent-australia). We use this procedure to better safeguard your information.
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
 
@@ -69,4 +69,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 #### **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please [contact us](http://independentaustralia.net/contact-independent-australia).
+Should you have other questions or concerns about these privacy policies, please [contact us](https://independentaustralia.net/contact-independent-australia).
