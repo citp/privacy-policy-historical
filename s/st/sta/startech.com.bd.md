@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startech.com.bd privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130060258id_/http%3A//www.startech.com.bd/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startech.com.bd privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904074819id_/http%3A//www.startech.com.bd/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
