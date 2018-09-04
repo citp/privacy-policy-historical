@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flemingcollege.ca privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016034008id_/http%3A//flemingcollege.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flemingcollege.ca privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904023910id_/https%3A//flemingcollege.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Fleming College
 
@@ -23,3 +23,5 @@ At any time, you may choose to be removed from any mailing lists that may result
 To ensure that we are publishing content that our customers desire, Fleming College collects aggregated site-visitation statistics using cookies. However, we do not track individuals' use of the site. A cookie is placed on the customer's machine (if the customer accepts cookies) or is read if the customer has visited the site previously.
 
 If you choose not to have your browser accept cookies from the site, you will still be able to view the text on the screen. However, you may not experience a personalized visit and some of the site features may be disabled.
+
+Last Revised: 2016-08-15
