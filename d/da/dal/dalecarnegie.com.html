@@ -1,464 +1,1291 @@
-<!--The following is the downloaded HTML source of the dalecarnegie.com privacy policy that was archived on 2017-10-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171020095443id_/http%3A//www.dalecarnegie.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dalecarnegie.com privacy policy that was archived on 2018-09-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180904190534id_/https%3A//www.dalecarnegie.com/en/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+
+  <meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script type="text/javascript" src="https://www.bugherd.com/sidebarv2.js?apikey=qw5a67u50ttqxjmie8l4ua"></script><script type="text/javascript" src="https://www.bugherd.com/sidebarv2.js?apikey=qw5a67u50ttqxjmie8l4ua"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WP8HH6"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgEHUlJQGwAEUVNXAQQE"};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+  <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+  <title>Privacy Policy | Dale Carnegie Training</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
+  <link rel="stylesheet" href="/dist/style.css?2.56.14">
+  <link href="https://fonts.googleapis.com/css?family=Sanchez:400,400i" rel="stylesheet">
+
+  <meta name="description" content="">
+  <meta name="author" content="Dale Carnegie Associates">
+
+  <meta property="og:url" content="https://https://www.dalecarnegie.com/privacy-policy">
+  <meta property="og:title" content="Privacy Policy | Dale Carnegie Training">
+  <meta property="og:description" content="For over a century, Dale Carnegie has been improving individual and business performance around the world.">
+  <meta property="og:image" content="https://www.dalecarnegie.com/dale-carnegie-share-1.jpg">
+
+  <meta itemprop="name" content="Privacy Policy | Dale Carnegie Training">
+  <meta itemprop="description" content="For over a century, Dale Carnegie has been improving individual and business performance around the world.">
+  <meta itemprop="image" content="https://www.dalecarnegie.com/dale-carnegie-share-1.jpg">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@DaleCarnegie">
+  <meta name="twitter:site:id" content="15597251">
+  <meta name="twitter:title" content="Privacy Policy | Dale Carnegie Training">
+  <meta name="twitter:description" content="For over a century, Dale Carnegie has been improving individual and business performance around the world.">
+  <meta name="twitter:image" content="https://www.dalecarnegie.com/dale-carnegie-share-2.jpg">
+
+      <link rel="canonical" href="https://www.dalecarnegie.com/en/privacy-policy">
+
+              
+          
+                      <link rel="alternate" hreflang="ar" href="https://www.dalecarnegie.com/ar/privacy-policy">
+                              <link rel="alternate" hreflang="bg" href="https://www.dalecarnegie.com/bg/privacy-policy">
+                              <link rel="alternate" hreflang="de" href="https://www.dalecarnegie.com/de/privacy-policy">
+                              <link rel="alternate" hreflang="el" href="https://www.dalecarnegie.com/el/privacy-policy">
+                              <link rel="alternate" hreflang="en" href="https://www.dalecarnegie.com/en/privacy-policy">
+                <link rel="alternate" hreflang="x-default" href="https://www.dalecarnegie.com/en/privacy-policy">
+                              <link rel="alternate" hreflang="en-gb" href="https://www.dalecarnegie.com/en-gb/privacy-policy">
+                              <link rel="alternate" hreflang="es" href="https://www.dalecarnegie.com/es/privacy-policy">
+                              <link rel="alternate" hreflang="es-es" href="https://www.dalecarnegie.com/es-es/privacy-policy">
+                              <link rel="alternate" hreflang="fr" href="https://www.dalecarnegie.com/fr/privacy-policy">
+                              <link rel="alternate" hreflang="fr-ca" href="https://www.dalecarnegie.com/fr-ca/privacy-policy">
+                              <link rel="alternate" hreflang="he" href="https://www.dalecarnegie.com/he/privacy-policy">
+                              <link rel="alternate" hreflang="hu" href="https://www.dalecarnegie.com/hu/privacy-policy">
+                              <link rel="alternate" hreflang="id" href="https://www.dalecarnegie.com/id/privacy-policy">
+                              <link rel="alternate" hreflang="is" href="https://www.dalecarnegie.com/is/privacy-policy">
+                              <link rel="alternate" hreflang="it" href="https://www.dalecarnegie.com/it/privacy-policy">
+                              <link rel="alternate" hreflang="ja" href="https://www.dalecarnegie.com/ja/privacy-policy">
+                              <link rel="alternate" hreflang="ko" href="https://www.dalecarnegie.com/ko/privacy-policy">
+                              <link rel="alternate" hreflang="mn" href="https://www.dalecarnegie.com/mn/privacy-policy">
+                              <link rel="alternate" hreflang="my" href="https://www.dalecarnegie.com/my/privacy-policy">
+                              <link rel="alternate" hreflang="nl" href="https://www.dalecarnegie.com/nl/privacy-policy">
+                              <link rel="alternate" hreflang="no" href="https://www.dalecarnegie.com/no/privacy-policy">
+                              <link rel="alternate" hreflang="pl" href="https://www.dalecarnegie.com/pl/privacy-policy">
+                              <link rel="alternate" hreflang="pt" href="https://www.dalecarnegie.com/pt/privacy-policy">
+                              <link rel="alternate" hreflang="pt-br" href="https://www.dalecarnegie.com/pt-br/privacy-policy">
+                              <link rel="alternate" hreflang="ro" href="https://www.dalecarnegie.com/ro/privacy-policy">
+                              <link rel="alternate" hreflang="sv" href="https://www.dalecarnegie.com/sv/privacy-policy">
+                              <link rel="alternate" hreflang="th" href="https://www.dalecarnegie.com/th/privacy-policy">
+                              <link rel="alternate" hreflang="tr" href="https://www.dalecarnegie.com/tr/privacy-policy">
+                              <link rel="alternate" hreflang="vi" href="https://www.dalecarnegie.com/vi/privacy-policy">
+                              <link rel="alternate" hreflang="zh" href="https://www.dalecarnegie.com/zh/privacy-policy">
+                              <link rel="alternate" hreflang="zh-hk" href="https://www.dalecarnegie.com/zh-hk/privacy-policy">
+                              <link rel="alternate" hreflang="zh-tw" href="https://www.dalecarnegie.com/zh-tw/privacy-policy">
+                    
+  <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+
+  <script src="/dist/jquery.js"></script>
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head id="head"><link rel="alternate" href="http://www.dalecarnegie.com/mobile/privacy-policy/"><meta name="description" content="Dale Carnegie Privacy and Disclosure Policy."><meta name="keywords" content="Privacy, Privacy Policy, Disclosure"><meta http-equiv="content-type" content="text/html; charset=iso-8859-1"><link rel="shortcut icon" href="/favicon.ico"><link rel="stylesheet" href="/cms/includes/style.css" type="text/css"><link rel="stylesheet" href="/cms/includes/styleCorporate.css" type="text/css">
-<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&amp;ns=2&amp;cb=1402746869"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0012/9936.js?439030" async="" type="text/javascript"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580510400000/323533.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WP8HH6"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script language="javascript" type="text/javascript" src="/cms/includes/jquery-core-plugins.js"></script>
-<script language="javascript" type="text/javascript" src="/cms/includes/jquery-functions.js"></script>
-<script language="javascript" type="text/javascript" src="/cms/includes/functionsC.js"></script>
-<script type="text/javascript" src="http://dca.digitalsurgeonsdev.com/dist/modal_bundle.js"></script>
-	<script type="text/javascript">
-	setTimeout(function(){var a=document.createElement("script");
-	var b=document.getElementsByTagName("script")[0];
-	a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0012/9936.js?"+Math.floor(new Date().getTime()/3600000);
-	a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-	</script>
-
-
-
-<!-- start Mixpanel --><script type="text/javascript">
-                           var distinctid; (function (e, b) {
-if (!b.__SV) {
-var a, f, i, g; window.mixpanel = b; b._i = []; b.init = function (a, e, d) {
-function f(b, h) { var a = h.split("."); 2 == a.length && (b = b[a[0]], h = a[1]); b[h] = function () { b.push([h].concat(Array.prototype.slice.call(arguments, 0))) } } var c = b; "undefined" !== typeof d ? c = b[d] = [] : d = "mixpanel"; c.people = c.people || []; c.toString = function (b) { var a = "mixpanel"; "mixpanel" !== d && (a += "." + d); b || (a += " (stub)"); return a }; c.people.toString = function () { return c.toString(1) + ".people (stub)" }; i = "disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
-    for (g = 0; g < i.length; g++) f(c, i[g]); b._i.push([a, e, d])
-}; b.__SV = 1.2; a = e.createElement("script"); a.type = "text/javascript"; a.async = !0; a.src = "undefined" !== typeof MIXPANEL_CUSTOM_LIB_URL ? MIXPANEL_CUSTOM_LIB_URL : "file:" === e.location.protocol && "//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//) ? "https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js" : "//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"; f = e.getElementsByTagName("script")[0]; f.parentNode.insertBefore(a, f)
-}
-})(document, window.mixpanel || []);
-                           mixpanel.init('f6b8d5e7c88df2585039d14389de4ff4', {
-                               cross_subdomain_cookie: true,
-                               'loaded': function () {
-                                   $(document).ready(function () {
-
-                                       if (window.location.search.indexOf('MixPanelId') > -1) {
-                                           var distinctid = unescape(window.location.search.replace(new RegExp("^(?:.*[&\\?]" + escape("MixPanelId").replace(/[\.\+\*]/g, "\\$&") + "(?:\\=([^&]*))?)?.*$", "i"), "$1"));
-                                           if (distinctid!="")
-                                           {
-                                               mixpanel.identify(distinctid);
-                                           }
-                                       }
-
-                                       distinctid = mixpanel.get_property("distinct_id");
-
-                                       //setTimeout(AddIdToCrossDomainLinks(distinctid), 1000)
-                                       setTimeout(function () { AddIdToCrossDomainLinks(distinctid); }, 1000)
-                                       //LoadLinks(distinctid);
-
-                                       first_seen = mixpanel.get_property("first seen");
-                                       last_seen = mixpanel.get_property("last seen");
-                                       returning_user = mixpanel.get_property("returning user");
-                                       if (typeof mixpanel_form_and_reg_scripts == 'function') mixpanel_form_and_reg_scripts();
-                                       if (typeof mixpanel_course_view_script == 'function') mixpanel_course_view_script();
-                                       if (typeof mixpanel_search_script == 'function') mixpanel_search_script();
-                                       if (typeof mixpanel_checkout_complete_script == 'function') mixpanel_checkout_complete_script();
-                                       if (typeof mixpanel_ProgramFinder_script == 'function') mixpanel_ProgramFinder_script();
-                                       if (typeof mixpanel_member_register_script == 'function') mixpanel_member_register_script();
-                                   });
-                               }
-                           });
-
-
-
-                     
-                       </script><!-- end Mixpanel -->
-
-
-
-
-
-<title>
-	Privacy-Privacy Policy-Disclosure|Dale Carnegie
-</title></head>
-
-<body class="popupBody">
-<!-- ClickTale Top part -->
-<script type="text/javascript">
-var WRInitTime=(new Date()).getTime();
-</script>
-<!-- ClickTale end of Top part -->
-
-
-<!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WP8HH6"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src =
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j, f);
-})(window,document,'script','dataLayer','GTM-WP8HH6');</script>
-<!-- End Google Tag Manager -->
-
-
-
-
-
-<script type="text/javascript">
-
-    function mixpanel_form_and_reg_scripts() {
-
-        var d = new Date();
-        var n = d.toISOString();
-        var utc = new Date().toJSON().slice(0,10);
-
-        if (typeof returning_user == "undefined") returning_user = false;
-        if (typeof last_seen == "undefined") last_seen = "";
-        if (typeof first_seen == "undefined" || first_seen == "" || typeof last_seen == "undefined" || last_seen == "") {
-            daysdifference = 0;
-        } else {
-            daysdifference = Math.round(Math.abs(Date.parse(first_seen)-Date.parse(last_seen)) / (24*60*60*1000));
-        }
-
-
-        url_list = mixpanel.get_property('url list');
-        var bpvNotFound = true;
-        if (typeof url_list !== 'undefined') {
-            for(var i = 0; i < url_list.url.length; i++) {
-                if (url_list.url[i] == window.location.protocol + '//' + window.location.host + window.location.pathname){
-                    bpvNotFound=false;
-                continue;
-                    }
-                }
-            }
-        if (typeof url_list == 'undefined') {
-
-            mixpanel.register({'url list':{'url':[window.location.protocol + '//' + window.location.host + window.location.pathname]}});
-             mixpanel.register_once({'Number of Pages Viewed':1});
-             mixpanel.register_once({'Date of First Page View': utc});
-             mixpanel.register_once({'Title of First Page View':  document.title });
-         } else {
-             if (bpvNotFound) {
-                 url_list.url.push(window.location.protocol + '//' + window.location.host + window.location.pathname);
-                 mixpanel.register({'url list': url_list});
-                 mixpanel.register_once({'Number of Pages Viewed':0});
-                 mixpanel.register({'Number of Pages Viewed': mixpanel.get_property('Number of Pages Viewed') + 1});
-                 }
-        }
-
-        mixpanel.register_once({ 'first seen': utc });
-        mixpanel.register({ 'last seen': utc });
-
-        
-        if (typeof mixpanel_course_view_script !== 'function' && typeof mixpanel_search_script !== 'function' && typeof mixpanel_checkout_complete_script !== 'function' && typeof mixpanel_ProgramFinder_script !== 'function' && typeof mixpanel_member_register_script !== 'function' && typeof setViewCourseIndexScript !== 'function' && window.location.pathname.indexOf("/programfinder/") == -1 && window.location.pathname.indexOf("/shopping-cart/") == -1 && window.location.pathname.indexOf("/checkout/") == -1) {
-            mixpanel.track('page viewed', {
-                'page title': document.title,
-                'page referrer': document.referrer,
-                'Sub Domain': window.location.hostname,
-                'url': window.location.protocol + '//' + window.location.hostname + window.location.pathname,
-                'returning user': returning_user,
-                'authenticated': false,
-                'number of days active': daysdifference,
-                'Franchise': 'Dale Carnegie Training Worldwide',
-                'Date of Last Page View': utc,
-                'Number of Pages Viewed':mixpanel.get_property('Number of Pages Viewed')
-            });
-        }
-        
-
-        mixpanel.identify();
-
-        mixpanel.register_once({ 'returning user': true });
-        mixpanel.unregister('City');
-        mixpanel.unregister('Country');
-        mixpanel.unregister('Title');
-        mixpanel.unregister('FirstName');
-        mixpanel.unregister('LastName');
-        mixpanel.unregister('PostalCode');
-        mixpanel.unregister('Franchise');
-        mixpanel.unregister('Sub Domain');
-
-        ////define the incrementing function
-        //incrementer = function (property) {
-        //    value = mixpanel.get_property(property);
-        //    update = {}
-        //    if (value && typeof (value) == 'number') {
-        //        update[property] = value + 1;
-        //    }
-
-        //    else {
-        //        update[property] = 1
-        //    }
-
-        //    mixpanel.register(update);
-        //};
-
-
-        
-    }
-
-</script>
-
-<script src="//f.vimeocdn.com/js/froogaloop2.min.js"></script>
-<script type="text/javascript" src="//www.youtube.com/player_api"></script>
-
-<script>
-    //** YouTube **
-
-    setTimeout(function () {
-        if (typeof (player) == 'undefined') {
-            onYouTubeIframeAPIReady();
-        }
-    }, 3000)
-
-    var players = {};
-
-    window.onYouTubeIframeAPIReady = function () {
-
-        $('iframe[src*="youtube.com"]').each(function () {
-            var playerid = GetYouTubeID($(this).attr("src"));
-            $(this).attr('id', playerid);
-            if ($(this).attr("src").indexOf('?') != -1) {
-                if ($(this).attr("src").indexOf("enablejsapi=1") == -1) {
-                    $(this).attr('src', $(this).attr("src") + "&enablejsapi=1");
-                }
-            } else {
-                $(this).attr('src', $(this).attr("src") + "?enablejsapi=1");
-            }
-            var eventname = "onPlayerStateChange" + playerid
-            players[playerid] = new YT.Player(playerid, {
-                height: 346,
-                width: 536,
-                videoId: playerid,
-                events: {
-                    'onStateChange': onPlayerStateChange
-                }
-            });
-        });
-    };
-
-    function GetYouTubeID(url) {
-        var ID = '';
-        url = url.replace(/(>|<)/gi, '').split(/(vi\/|v=|\/v\/|youtu\.be\/|\/embed\/)/);
-        if (url[2] !== undefined) {
-            ID = url[2].split(/[^0-9a-z_\-]/i);
-            ID = ID[0];
-        }
-        else {
-            ID = url.toString();
-        } 
-        return ID;
-    }
-
-    function onPlayerStateChange(event) {
-        if (event.target.getPlayerState() == 1) {
-            mixpanel.register({'Watched Video':true});
-            mixpanel.track("watched video", {
-                "Video Title": event.target.getVideoData().title
-            });
-            
-        }
-    }
-	
-
-    //** Vimeo **
-
-    function GetVimeoID(url) {
-        var ID = '';
-        url = url.replace(/(>|<)/gi, '').split(/(vi\/|v=|\/v\/|player.vimeo.com\.be\/|\/video\/)/);
-        if (url[2] !== undefined) {
-            ID = url[2].split(/[^0-9a-z_\-]/i);
-            ID = ID[0];
-        }
-        else {
-            ID = url.toString();
-        }
-        return ID;
-    }
-
-    $(function () {
-
-        $('iframe[src*="player.vimeo.com"]').each(function () {
-            var playerid = GetVimeoID($(this).attr("src"));
-            $(this).attr('id', playerid);
-
-            if ($(this).attr("src").indexOf('?') != -1) {
-                if ($(this).attr("src").indexOf("api=1") == -1) {
-                    $(this).attr('src', $(this).attr("src") + "&api=1");
-                }
-                if ($(this).attr("src").indexOf("player_id") == -1) {
-                    $(this).attr('src', $(this).attr("src") + "&player_id=" + playerid);
-                }
-            } else {
-                $(this).attr('src', $(this).attr("src") + "?api=1&player_id=" + playerid);
-            }
-
-            var iframe = $(this)[0];
-            var player = $f(iframe);
-            //var status = $('.status');
-
-            // When the player is ready, add listeners for play, pause, finish, and playProgress
-            player.addEvent('ready', function () {
-                //status.text('ready');
-
-                player.addEvent('play', play);
-                //player.addEvent('pause', onPause);
-                //player.addEvent('finish', onFinish);
-                //player.addEvent('playProgress', onPlayProgress);
-            });
-        });
-
-
-
-        //// Call the API when a button is pressed
-        //$('button').bind('click', function () {
-        //    player.api($(this).text().toLowerCase());
-        //});
-
-
-        function play(data) {
-            var player_id = JSON.parse(event.data).player_id;
-            $.getJSON('http://www.vimeo.com/api/v2/video/' + player_id + '.json?callback=?', {
-                format: "json"
-            }, function (data) {
-                mixpanel.register({'Watched Video':true});
-                mixpanel.track("watched video", {
-                    "Video Title": data[0].title
-                });
-                
-            });
-        }
-
-        function onPause() {
-            alert(event.data);
-            alert("Pause");
-            //  status.text('paused');
-        }
-
-        function onFinish() {
-            alert("Finished");
-            alert(event.data);
-        }
-
-        function onPlayProgress(data) {
-            alert("Finished");
-            alert(data.seconds + 's played');
-        }
-    });
-</script>
-
-
-
-<!-- Start of Async HubSpot Analytics Code -->
     <script type="text/javascript">
-        (function (d, s, i, r) {
-            if (d.getElementById(i)) { return; }
-            var n = d.createElement(s), e = d.getElementsByTagName(s)[0];
-            
-            n.id = i; n.src = '//js.hs-analytics.net/analytics/' + (Math.ceil(new Date() / r) * r) + '/323533.js';
-            
+    window.csrfTokenName = "CRAFT_CSRF_TOKEN";
+    window.csrfTokenValue = "DsqUORT80EkNcNz_Hq8ayHRPoa4VUTlNojezTzDW";
+  </script>
 
-            e.parentNode.insertBefore(n, e);
-        })(document, "script", "hs-analytics", 300000);
-    </script>
-<!-- End of Async HubSpot Analytics Code -->
-<form name="main" method="post" action="/privacy_policy/" id="main">
-<div>
+  
+     <!-- start Mixpanel -->
+  <script type="text/javascript">
+    (function (e, a) {
+      if (!a.__SV) {
+        var b = window; try { var c, l, i, j = b.location, g = j.hash; c = function (a, b) { return (l = a.match(RegExp(b + "=([^&]*)"))) ? l[1] : null }; g && c(g, "state") && (i = JSON.parse(decodeURIComponent(c(g, "state"))), "mpeditor" === i.action && (b.sessionStorage.setItem("_mpcehash", g), history.replaceState(i.desiredHash || "", e.title, j.pathname + j.search))) } catch (m) { } var k, h; window.mixpanel = a; a._i = []; a.init = function (b, c, f) {
+          function e(b, a) {
+            var c = a.split("."); 2 == c.length && (b = b[c[0]], a = c[1]); b[a] = function () {
+              b.push([a].concat(Array.prototype.slice.call(arguments,
+                0)))
+            }
+          } var d = a; "undefined" !== typeof f ? d = a[f] = [] : f = "mixpanel"; d.people = d.people || []; d.toString = function (b) { var a = "mixpanel"; "mixpanel" !== f && (a += "." + f); b || (a += " (stub)"); return a }; d.people.toString = function () { return d.toString(1) + ".people (stub)" }; k = "disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config reset people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+          for (h = 0; h < k.length; h++)e(d, k[h]); a._i.push([b, c, f])
+        }; a.__SV = 1.2; b = e.createElement("script"); b.type = "text/javascript"; b.async = !0; b.src = "undefined" !== typeof MIXPANEL_CUSTOM_LIB_URL ? MIXPANEL_CUSTOM_LIB_URL : "file:" === e.location.protocol && "//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//) ? "https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js" : "//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"; c = e.getElementsByTagName("script")[0]; c.parentNode.insertBefore(b, c)
+      }
+    })(document, window.mixpanel || []);
+    mixpanel.init("f6b8d5e7c88df2585039d14389de4ff4");
 
-</div>
+  </script>
+  <!-- end Mixpanel -->
 
+  <script type="text/javascript">
+    var distinctid; (function (e, b) {
+      if (!b.__SV) {
+        var a, f, i, g; window.mixpanel = b; b._i = []; b.init = function (a, e, d) {
+          function f(b, h) { var a = h.split("."); 2 == a.length && (b = b[a[0]], h = a[1]); b[h] = function () { b.push([h].concat(Array.prototype.slice.call(arguments, 0))) } } var c = b; "undefined" !== typeof d ? c = b[d] = [] : d = "mixpanel"; c.people = c.people || []; c.toString = function (b) { var a = "mixpanel"; "mixpanel" !== d && (a += "." + d); b || (a += " (stub)"); return a }; c.people.toString = function () { return c.toString(1) + ".people (stub)" }; i = "disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+          for (g = 0; g < i.length; g++) f(c, i[g]); b._i.push([a, e, d])
+        }; b.__SV = 1.2; a = e.createElement("script"); a.type = "text/javascript"; a.async = !0; a.src = "undefined" !== typeof MIXPANEL_CUSTOM_LIB_URL ? MIXPANEL_CUSTOM_LIB_URL : "file:" === e.location.protocol && "//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//) ? "https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js" : "//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"; f = e.getElementsByTagName("script")[0]; f.parentNode.insertBefore(a, f)
+      }
+    })(document, window.mixpanel || []);
+    mixpanel.init('f6b8d5e7c88df2585039d14389de4ff4', {
+      cross_subdomain_cookie: true,
+      'loaded': function () {
+        $(document).ready(function () {
 
-<script src="/ScriptResource.axd?d=GcjH1WkvxhPZvQ5nHlRFxeQ1ZVlqORg87B4xxruuF8mMzxqC7hRYOoATfbax7hJnjvegPZwhY-n8UQN4iZ3Nq3bE2JNfPuTYnoTs4OLk5aWQdZrdbDXScGiJuFxts00ef5aIZwfw00sF0uE8fD5uf1Gg1gJn0oqRcCbe0wIPJKAxHuby0&amp;t=2e2045e2" type="text/javascript"></script>
+          //Identify user with mixpanel id if present in query string
+          if (window.location.search.indexOf('MixPanelId') > -1) {
+            var distinctid = unescape(window.location.search.replace(new RegExp("^(?:.*[&\\?]" + escape("MixPanelId").replace(/[\.\+\*]/g, "\\$&") + "(?:\\=([^&]*))?)?.*$", "i"), "$1"));
+            if (distinctid != "") {
+              mixpanel.identify(distinctid);
+            }
+          }
+        });
+      }
+    });
 
+  </script>
 
+  
+  <script src="/dist/analytics.js"></script>
 
+  <!-- Google Tag Manager -->
+  <script>
+    (function (w, d, s, l, i) {
+w[l] = w[l] || []; w[l].push({
+      'gtm.start':
+      new Date().getTime(), event: 'gtm.js'
+    }); var f = d.getElementsByTagName(s)[0],
+      j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-WP8HH6');
+  </script>
+  <!-- End Google Tag Manager -->
 
-<div class="block"><div class="popupContent">
-<div>&nbsp; 
-<h1>Privacy Policy</h1>
-<h3>General</h3>
-<div>&nbsp;</div>
-<div>You can visit and enjoy our website without disclosing any personal information about yourself including email address. If you submit any personal information to us, you can be assured that we will not sell, lease, or share your personal information to anyone else, except as follows: (1) to our third party service providers, and only so that they may help us provide the services you've requested; (2) on occasion, we send out emails to let you know about changes to our website and special promotions (such as newsletters, contests or free subscriptions to services) we believe will be of interest to you, and/or share your information with promotional partners so that they can send you other special promotions it offers.</div>
-<div>&nbsp;</div>
-<div>If you do not want us to share your email address with other companies or organizations, let us know by calling the number below.</div>
-<div>&nbsp;</div>
-<div>If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided below.</div>
-<div>&nbsp;</div>
-<div>Persons who supply us with their telephone numbers online may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by calling us at the number provided below.</div>
-<div>&nbsp;</div>
-<div>&nbsp;</div>
-<h3>How We Use Collected Information</h3>
-<div>&nbsp;</div>
-<div>Non-personal Information. To help us serve you better, we collect information that does not identify you personally, but rather identifies your computer or browser. This is done by tracking IP addresses and other information such as browser type and version, operating system, and/or platform to analyze trends, help us administer the website, track the movement of visitors, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.</div>
-<div>&nbsp;</div>
-<div>Aggregated Demographic Information. We may share aggregated demographic information with third parties, but this information is not linked to any personal information that can identify you or another individual person. Therefore, no personal information is disclosed in this manner.</div>
-<div>&nbsp;</div>
-<div>Disclosure for Legal Purposes. The law requires that we may be required to share your personal information and non-personal information pursuant to judicial or governmental subpoenas, warrants or orders. If we are required to do so, we will, of course, obey the law. In addition, notwithstanding any term to the contrary in this Privacy Policy, we reserve the right to use and disclose your personal and non-personal information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or as otherwise required by law.</div>
-<div>&nbsp;</div>
-<div>&nbsp;</div>
-<h3>Privacy and Links to Other Sites</h3>
-<div>&nbsp;</div>
-<div>Our Website contains links to other sites produced by Dale Carnegie &amp; Associates, Inc. and websites operated by unrelated third parties. Please note that we are not responsible for the privacy practices of third party websites. We encourage you to be aware of this when you leave our website and to read the privacy policies of every website that collects personally identifiable information from you. This Privacy Policy applies only to this website.</div>
-<div>&nbsp;</div>
-<div>&nbsp;</div>
-<h3>Promotional Emails</h3>
-<div>&nbsp;</div>
-<div>If you no longer wish to receive promotional emails, please follow the unsubscribe instructions located at the bottom of the email.</div>
-<div>&nbsp;</div>
-<div>Forward to Colleague. If you use “Forward to Colleague" feature, we will use the email address per your instructions to send your email message to your friend. We will not use the email address of your friend for any other purpose.</div>
-<div>&nbsp;</div>
-<div>&nbsp;</div>
-<h3>BLOG</h3>
-<div>&nbsp;</div>
-<div>We take reasonable steps to protect your personal information.</div>
-<div>&nbsp;</div>
-<div>We maintain reasonable physical, technical, and procedural measures to limit access to personal information to authorized individuals with appropriate purposes.</div>
-<div>&nbsp;</div>
-<div>To protect against spam, off-topic and abusive comments, all comments are reviewed before being posted to the blog. Please limit your comments to two on each topic and don't use all caps. Also, please note that some comments related to specific training issues or experiences are forwarded to customer assistance rather than posted here.</div>
-<div>&nbsp;</div>
-<div>&nbsp;</div>
-<h3>Contact Us</h3>
-<div>&nbsp;</div>
-<div>If you have any questions or concerns about this Privacy Policy, you can contact us at:</div>
-<div>&nbsp;</div>
-<div>Dale Carnegie &amp; Associates, Inc.</div>
-<div>780 Third Ave</div>
-<div>New York, NY 10017</div>
-<div>800.231.5800</div>
-<div>&nbsp;</div>
-<div sizcache="16" sizset="0">Or send an email to <a href="mailto:info@dalecarnegie.com">info@dalecarnegie.com</a></div>
-<div>&nbsp;</div>
-<div>&nbsp;</div>
-<h3>Changes to Privacy Policy</h3>
-<div>&nbsp;</div>
-<div>This Privacy Policy was last changed on February 11, 2011. Dale Carnegie &amp; Associates, Inc. reserves the right to modify or amend this policy at any time by posting the revised security policy on our site. The changes will only affect the information we collect after the effective date of the change to our security policy unless we clearly express otherwise.</div>
-<div>&nbsp;</div>
-<div>&nbsp;</div>
-<h3>Copyright</h3>
-<div>&nbsp;</div>
-<div>&nbsp;</div>
-<div>All content included on this site, such as text, graphics, logos, button icons, images, audio clips, digital downloads, and data compilations, is the property of Dale Carnegie &amp; Associates, Inc. or its content suppliers and protected by United States and international copyright laws. The compilation of all content on this site is the exclusive property of Dale Carnegie &amp; Associates, Inc. and protected by U.S. and international copyright laws.</div>
-<div>&nbsp;</div>
-<div>DALE CARNEGIE IS AN AUTHORIZED PARTNER TO SELL PROFILES PRODUCTS IN THE UNITED STATES ONLY. THE CARNEGIE PERFORMANCE PROFILE MAY BE SOLD BY DALE CARNEGIE WORLDWIDE.</div>
-<div>&nbsp;</div>
-<div>Copyright © 2011 Dale Carnegie &amp; Associates, Inc. All rights reserved.</div></div></div></div>
+  <script type="text/javascript">
+    (function (d, t) {
+      var bh = d.createElement(t), s = d.getElementsByTagName(t)[0];
+      bh.type = 'text/javascript';
+      bh.src = 'https://www.bugherd.com/sidebarv2.js?apikey=qw5a67u50ttqxjmie8l4ua';
+      s.parentNode.insertBefore(bh, s);
+    })(document, 'script');
 
-
-
-
-<div>
-
-	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="3989C74E">
-</div>
+  </script>
 
 <script type="text/javascript">
-//<![CDATA[
-Sys.Application.initialize();
-//]]>
+window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);
+;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"bd6f8bf348",applicationID:"34525653",sa:1}
 </script>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTExNzk4MzI1MzYPZBYCZg9kFgICAg9kFgICCQ9kFgRmD2QWBGYPFgIeB1Zpc2libGVoZAIBDxYCHwBoZAIBD2QWAmYPFgIfAGhkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBQ1DVF9NYWluXzAkZmNrPBPKYhq0x9q8EJTJOLOAqITX4O8="></form>
-<!-- ClickTale Bottom part -->
+
+</head>
+  
+<body class="">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WP8HH6"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+
+  
+  <header class="HeaderRevised" data-header="">
+
+    
+    <div class="HeaderRevised__container">
+      <div class="HeaderRevised__top">
+        <div class="HeaderRevised__logo-location Location">
+
+                      <a class="HeaderRevised__logo" href="/en" tabindex="0" v-on:focus="toggleNav()" data-js-locationable="">
+                    <svg version="1.1" width="113px" height="64px" viewBox="0 0 113 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+              <defs>
+                  <polygon id="path-1" points="0 63.8313 112.84 63.8313 112.84 0.0003 0 0.0003"></polygon>
+              </defs>
+              <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                  <g id="Logo/Dale-Stacked-Logo/White">
+                      <g id="Page-1">
+                          <path d="M99.3782,50.3407 L104.5902,50.3407 C104.5902,49.6317 104.3512,49.0687 103.8722,48.6547 C103.3932,48.2407 102.7642,48.0337 101.9842,48.0337 C101.2382,48.0337 100.6172,48.2337 100.1222,48.6317 C99.6262,49.0287 99.3782,49.5987 99.3782,50.3407 Z M108.0802,48.7787 C108.3852,49.5257 108.5372,50.3317 108.5372,51.1957 C108.5372,51.4407 108.5292,51.6507 108.5122,51.8257 C108.4952,52.0037 108.4612,52.2637 108.4102,52.6077 L99.4322,52.6077 C99.4322,52.9737 99.4812,53.3177 99.5782,53.6437 C99.6762,53.9687 99.8282,54.2537 100.0352,54.4977 C100.2422,54.7417 100.5202,54.9327 100.8682,55.0697 C101.2162,55.2077 101.6402,55.2777 102.1402,55.2777 C102.8512,55.2777 103.3852,55.1497 103.7422,54.8947 C104.0972,54.6387 104.3432,54.3247 104.4792,53.9547 L108.3852,53.9547 C108.2832,54.5427 108.0702,55.0937 107.7442,55.6057 C107.4182,56.1177 106.9972,56.5677 106.4812,56.9527 C105.9652,57.3397 105.3472,57.6467 104.6282,57.8727 C103.9082,58.1007 103.0962,58.2127 102.1902,58.2127 C101.1032,58.2127 100.1402,58.0457 99.3012,57.7087 C98.4612,57.3717 97.7582,56.9067 97.1892,56.3117 C96.6202,55.7147 96.1892,55.0187 95.8992,54.2207 C95.6082,53.4227 95.4632,52.5657 95.4632,51.6507 C95.4632,50.7347 95.6032,49.8817 95.8862,49.0927 C96.1692,48.3037 96.5902,47.6117 97.1512,47.0207 C97.7112,46.4287 98.3982,45.9587 99.2122,45.6147 C100.0262,45.2707 100.9582,45.0987 102.0122,45.0987 C103.0202,45.0987 103.9252,45.2547 104.7292,45.5647 C105.5332,45.8747 106.2162,46.3037 106.7792,46.8437 C107.3412,47.3857 107.7762,48.0297 108.0802,48.7787 Z" id="Fill-1" fill="#000000"></path>
+                          <path d="M29.3909,52.8847 C29.2419,53.2717 29.0399,53.6047 28.7829,53.8867 C28.5249,54.1677 28.2139,54.3937 27.8459,54.5677 C27.4799,54.7387 27.0719,54.8247 26.6259,54.8247 C26.1779,54.8247 25.7739,54.7387 25.4109,54.5677 C25.0479,54.3937 24.7379,54.1677 24.4809,53.8867 C24.2229,53.6047 24.0199,53.2677 23.8719,52.8787 C23.7249,52.4887 23.6509,52.0787 23.6509,51.6507 C23.6509,51.2217 23.7249,50.8197 23.8719,50.4417 C24.0199,50.0627 24.2229,49.7267 24.4809,49.4327 C24.7379,49.1387 25.0479,48.9067 25.4109,48.7397 C25.7739,48.5727 26.1779,48.4887 26.6259,48.4887 C27.0809,48.4887 27.4909,48.5727 27.8529,48.7397 C28.2149,48.9067 28.5249,49.1387 28.7829,49.4327 C29.0399,49.7267 29.2419,50.0627 29.3909,50.4417 C29.5379,50.8197 29.6119,51.2217 29.6119,51.6507 C29.6119,52.0867 29.5379,52.4977 29.3909,52.8847 Z M29.6119,47.2157 C29.2659,46.6127 28.7489,46.1117 28.0609,45.7157 C27.3739,45.3227 26.5619,45.1247 25.6259,45.1247 C24.7859,45.1247 24.0049,45.2917 23.2839,45.6287 C22.5619,45.9637 21.9329,46.4207 21.3939,46.9947 C20.8549,47.5717 20.4349,48.2567 20.1339,49.0547 C19.8329,49.8527 19.6829,50.7177 19.6829,51.6507 C19.6829,52.5827 19.8329,53.4477 20.1339,54.2457 C20.4349,55.0437 20.8549,55.7327 21.3939,56.3117 C21.9329,56.8907 22.5639,57.3477 23.2899,57.6837 C24.0159,58.0207 24.7939,58.1877 25.6259,58.1877 C26.5879,58.1877 27.4149,57.9867 28.1059,57.5837 C28.7979,57.1797 29.2989,56.6937 29.6119,56.1217 L29.6119,57.8737 L33.5809,57.8737 L33.5809,45.4387 L29.6119,45.4387 L29.6119,47.2157 Z" id="Fill-3" fill="#000000"></path>
+                          <g id="Group-7" transform="translate(74.000000, 44.831300)" fill="#000000">
+                              <path d="M9.8533,8.0651 C9.7043,8.4431 9.5023,8.7781 9.2443,9.0671 C8.9873,9.3571 8.6723,9.5841 8.3003,9.7471 C7.9283,9.9111 7.5263,9.9931 7.0953,9.9931 C6.6383,9.9931 6.2293,9.9071 5.8653,9.7361 C5.5023,9.5631 5.1903,9.3361 4.9323,9.0551 C4.6743,8.7731 4.4723,8.4371 4.3243,8.0461 C4.1763,7.6561 4.1023,7.2471 4.1023,6.8191 C4.1023,6.4071 4.1723,6.0081 4.3123,5.6211 C4.4513,5.2351 4.6503,4.8961 4.9083,4.6011 C5.1653,4.3071 5.4823,4.0761 5.8593,3.9081 C6.2353,3.7401 6.6473,3.6561 7.0953,3.6561 C7.5433,3.6561 7.9493,3.7401 8.3123,3.9081 C8.6763,4.0761 8.9873,4.3071 9.2443,4.6011 C9.5023,4.8961 9.7043,5.2321 9.8533,5.6091 C10.0013,5.9871 10.0763,6.3901 10.0763,6.8191 C10.0763,7.2721 10.0013,7.6881 9.8533,8.0651 Z M10.0763,2.3841 C9.6953,1.6951 9.1533,1.1751 8.4523,0.8221 C7.7513,0.4691 6.9593,0.2941 6.0803,0.2941 C5.2093,0.2941 4.4113,0.4611 3.6833,0.7961 C2.9563,1.1331 2.3293,1.5881 1.8003,2.1641 C1.2723,2.7391 0.8633,3.4201 0.5713,4.2101 C0.2793,5.0001 0.1333,5.8611 0.1333,6.7941 C0.1333,7.7251 0.2833,8.5821 0.5843,9.3631 C0.8833,10.1441 1.3013,10.8201 1.8393,11.3911 C2.3753,11.9621 3.0103,12.4011 3.7413,12.7091 C4.4723,13.0141 5.2603,13.1681 6.1063,13.1681 C7.0863,13.1681 7.9113,12.9791 8.5803,12.6011 C9.2473,12.2231 9.7463,11.7701 10.0763,11.2401 L10.0763,13.1831 C10.0763,14.1931 9.7943,14.9271 9.2323,15.3811 C8.6703,15.8361 7.9573,16.0651 7.0953,16.0651 C6.1563,16.0651 5.4663,15.8581 5.0213,15.4431 C4.5773,15.0281 4.3223,14.5461 4.2543,13.9991 L0.2853,13.9991 C0.3193,14.6881 0.4573,15.3361 0.6973,15.9451 C0.9383,16.5541 1.3273,17.0831 1.8643,17.5331 C2.4003,17.9821 3.1063,18.3381 3.9823,18.6041 C4.8573,18.8681 5.9363,19.0001 7.2223,19.0001 C9.5213,19.0001 11.2343,18.5281 12.3583,17.5831 C13.4823,16.6381 14.0443,15.0991 14.0443,12.9651 L14.0443,0.6071 L10.0763,0.6071 L10.0763,2.3841 Z" id="Fill-5"></path>
+                          </g>
+                          <path d="M12.783,53.6181 C12.005,54.2311 11.003,54.5371 9.778,54.5371 C8.94,54.5371 8.186,54.3881 7.513,54.0841 C6.842,53.7821 6.267,53.3731 5.789,52.8561 C5.312,52.3411 4.937,51.7321 4.667,51.0351 C4.396,50.3381 4.261,49.5951 4.261,48.8061 C4.261,48.0661 4.384,47.3491 4.629,46.6511 C4.874,45.9541 5.229,45.3451 5.694,44.8181 C6.159,44.2941 6.732,43.8741 7.412,43.5581 C8.093,43.2441 8.865,43.0861 9.727,43.0861 C10.395,43.0861 10.993,43.1801 11.521,43.3691 C12.05,43.5581 12.514,43.8191 12.916,44.1511 C13.318,44.4821 13.639,44.8741 13.879,45.3221 C14.121,45.7711 14.292,46.2611 14.394,46.7891 L18.782,46.7891 C18.664,45.7651 18.368,44.7951 17.9,43.8801 C17.431,42.9661 16.807,42.1691 16.029,41.4921 C15.251,40.8171 14.33,40.2851 13.265,39.8991 C12.2,39.5141 10.999,39.3201 9.663,39.3201 C8.107,39.3201 6.728,39.5801 5.523,40.1001 C4.319,40.6211 3.309,41.3211 2.491,42.1981 C1.673,43.0761 1.053,44.0871 0.632,45.2341 C0.21,46.3801 0,47.5701 0,48.8061 C0,50.0811 0.219,51.2921 0.658,52.4331 C1.096,53.5761 1.735,54.5821 2.573,55.4511 C3.411,56.3211 4.433,57.0141 5.638,57.5301 C6.842,58.0461 8.205,58.3051 9.727,58.3051 C10.987,58.3051 12.14,58.1241 13.188,57.7641 C14.237,57.4021 15.146,56.9011 15.916,56.2641 C16.684,55.6251 17.316,54.8901 17.811,54.0591 C18.306,53.2271 18.638,52.3291 18.808,51.3631 L14.343,51.3631 C14.081,52.2531 13.561,53.0051 12.783,53.6181" id="Fill-8" fill="#000000"></path>
+                          <path d="M63.7796,50.3407 C63.7796,49.5987 64.0286,49.0287 64.5236,48.6317 C65.0186,48.2337 65.6406,48.0337 66.3866,48.0337 C67.1656,48.0337 67.7946,48.2407 68.2736,48.6547 C68.7516,49.0687 68.9916,49.6317 68.9916,50.3407 L63.7796,50.3407 Z M71.1806,46.8437 C70.6176,46.3037 69.9336,45.8757 69.1306,45.5647 C68.3266,45.2547 67.4206,45.0987 66.4146,45.0987 C65.3606,45.0987 64.4266,45.2707 63.6136,45.6147 C62.7996,45.9587 62.1126,46.4287 61.5516,47.0207 C60.9926,47.6117 60.5696,48.3037 60.2886,49.0927 C60.0056,49.8817 59.8646,50.7347 59.8646,51.6507 C59.8646,52.5657 60.0106,53.4227 60.3006,54.2207 C60.5916,55.0187 61.0216,55.7147 61.5906,56.3117 C62.1596,56.9067 62.8636,57.3727 63.7026,57.7087 C64.5416,58.0457 65.5046,58.2127 66.5926,58.2127 C67.4986,58.2127 68.3106,58.1007 69.0296,57.8727 C69.7476,57.6467 70.3666,57.3397 70.8836,56.9527 C71.3986,56.5677 71.8196,56.1177 72.1456,55.6057 C72.4716,55.0937 72.6856,54.5427 72.7866,53.9547 L68.8806,53.9547 C68.7446,54.3247 68.4986,54.6387 68.1436,54.8947 C67.7876,55.1497 67.2526,55.2777 66.5406,55.2777 C66.0416,55.2777 65.6176,55.2087 65.2706,55.0697 C64.9226,54.9337 64.6446,54.7417 64.4376,54.4977 C64.2296,54.2537 64.0776,53.9687 63.9806,53.6437 C63.8826,53.3177 63.8336,52.9737 63.8336,52.6077 L72.8116,52.6077 C72.8626,52.2637 72.8966,52.0037 72.9136,51.8257 C72.9306,51.6507 72.9386,51.4407 72.9386,51.1957 C72.9386,50.3317 72.7866,49.5257 72.4826,48.7787 C72.1766,48.0297 71.7436,47.3857 71.1806,46.8437 Z" id="Fill-10" fill="#000000"></path>
+                          <mask id="mask-2" fill="white">
+                              <use xlink:href="#path-1"></use>
+                          </mask>
+                          <g id="Clip-13"></g>
+                          <polygon id="Fill-12" fill="#000000" mask="url(#mask-2)" points="90.035 57.8743 94.004 57.8743 94.004 45.4383 90.035 45.4383"></polygon>
+                          <path d="M40.9261,45.8993 C40.2421,46.3483 39.7511,46.8673 39.4551,47.4563 L39.4551,45.4393 L35.4861,45.4393 L35.4861,57.8743 L39.4551,57.8743 L39.4551,53.0233 C39.4551,51.4943 39.7851,50.4163 40.4451,49.7863 C41.1031,49.1563 41.9961,48.8403 43.1211,48.8403 C43.3651,48.8403 43.5831,48.8553 43.7731,48.8843 C43.9641,48.9153 44.1981,48.9623 44.4771,49.0293 L44.4771,45.4393 C44.1481,45.2963 43.7671,45.2253 43.3361,45.2253 C42.4141,45.2253 41.6111,45.4503 40.9261,45.8993" id="Fill-14" fill="#000000" mask="url(#mask-2)"></path>
+                          <path d="M93.8103,39.5253 C93.5733,39.3023 93.3013,39.1283 92.9933,39.0013 C92.6843,38.8763 92.3483,38.8123 91.9843,38.8123 C91.2573,38.8123 90.6503,39.0523 90.1643,39.5313 C89.6783,40.0103 89.4353,40.6013 89.4353,41.3063 C89.4353,41.6523 89.4993,41.9753 89.6323,42.2773 C89.7623,42.5793 89.9453,42.8463 90.1773,43.0773 C90.4093,43.3083 90.6773,43.4893 90.9813,43.6193 C91.2863,43.7493 91.6213,43.8143 91.9843,43.8143 C92.3483,43.8143 92.6843,43.7493 92.9933,43.6193 C93.3013,43.4893 93.5733,43.3083 93.8103,43.0773 C94.0473,42.8463 94.2283,42.5793 94.3553,42.2773 C94.4823,41.9753 94.5463,41.6523 94.5463,41.3063 C94.5463,40.9623 94.4823,40.6353 94.3553,40.3243 C94.2283,40.0143 94.0473,39.7473 93.8103,39.5253" id="Fill-15" fill="#000000" mask="url(#mask-2)"></path>
+                          <path d="M57.43,46.5478 C57.083,46.1368 56.63,45.7968 56.072,45.5278 C55.514,45.2598 54.804,45.1248 53.942,45.1248 C52.953,45.1248 52.103,45.3098 51.393,45.6788 C50.683,46.0478 50.155,46.5688 49.808,47.2408 L49.808,45.4398 L45.839,45.4398 L45.839,57.8738 L49.808,57.8738 L49.808,51.6248 C49.808,50.6668 50.008,49.9048 50.41,49.3378 C50.811,48.7728 51.427,48.4878 52.256,48.4878 C53.067,48.4878 53.634,48.7728 53.955,49.3378 C54.276,49.9048 54.437,50.6258 54.437,51.4988 L54.437,57.8738 L58.406,57.8738 L58.406,50.4908 C58.406,49.6018 58.343,48.8398 58.215,48.2108 C58.089,47.5808 57.827,47.0268 57.43,46.5478" id="Fill-16" fill="#000000" mask="url(#mask-2)"></path>
+                          <path d="M42.4793,34.8993 C42.6273,34.5213 42.8293,34.1853 43.0863,33.8913 C43.3443,33.5983 43.6533,33.3653 44.0163,33.1983 C44.3793,33.0293 44.7843,32.9463 45.2313,32.9463 C45.6873,32.9463 46.0963,33.0293 46.4583,33.1983 C46.8213,33.3653 47.1323,33.5983 47.3893,33.8913 C47.6463,34.1853 47.8483,34.5213 47.9973,34.8993 C48.1443,35.2763 48.2183,35.6803 48.2183,36.1093 C48.2183,36.5453 48.1443,36.9573 47.9973,37.3433 C47.8483,37.7293 47.6463,38.0633 47.3893,38.3443 C47.1323,38.6253 46.8193,38.8523 46.4533,39.0253 C46.0853,39.1963 45.6793,39.2833 45.2313,39.2833 C44.7843,39.2833 44.3793,39.1963 44.0163,39.0253 C43.6533,38.8523 43.3443,38.6253 43.0863,38.3443 C42.8293,38.0633 42.6273,37.7273 42.4793,37.3373 C42.3313,36.9463 42.2583,36.5363 42.2583,36.1093 C42.2583,35.6803 42.3313,35.2763 42.4793,34.8993 M40.0003,40.7703 C40.5393,41.3493 41.1713,41.8063 41.8963,42.1433 C42.6223,42.4783 43.4013,42.6463 44.2313,42.6463 C45.1933,42.6463 46.0203,42.4453 46.7123,42.0413 C47.4033,41.6383 47.9053,41.1513 48.2183,40.5803 L48.2183,42.3323 L52.1863,42.3323 L52.1863,29.8973 L48.2183,29.8973 L48.2183,31.6733 C47.8723,31.0693 47.3553,30.5693 46.6683,30.1733 C45.9803,29.7803 45.1683,29.5823 44.2313,29.5823 C43.3913,29.5823 42.6113,29.7513 41.8903,30.0873 C41.1693,30.4213 40.5393,30.8783 40.0003,31.4533 C39.4613,32.0293 39.0413,32.7153 38.7403,33.5133 C38.4383,34.3113 38.2883,35.1763 38.2883,36.1093 C38.2883,37.0413 38.4383,37.9063 38.7403,38.7033 C39.0413,39.5013 39.4613,40.1903 40.0003,40.7703" id="Fill-17" fill="#000000" mask="url(#mask-2)"></path>
+                          <polygon id="Fill-18" fill="#000000" mask="url(#mask-2)" points="54.092 42.3313 58.061 42.3313 58.061 24.2663 54.092 24.2663"></polygon>
+                          <path d="M32.8274,35.3388 C32.5864,35.9858 32.2344,36.5638 31.7754,37.0718 C31.3134,37.5798 30.7494,37.9828 30.0824,38.2808 C29.4134,38.5788 28.6584,38.7278 27.8124,38.7278 L25.5544,38.7278 L25.5544,27.8938 L27.8124,27.8938 C28.6654,27.8938 29.4244,28.0448 30.0884,28.3478 C30.7524,28.6498 31.3134,29.0548 31.7754,29.5638 C32.2344,30.0708 32.5864,30.6508 32.8274,31.3018 C33.0684,31.9518 33.1894,32.6218 33.1894,33.3108 C33.1894,34.0168 33.0684,34.6928 32.8274,35.3388 M37.4504,33.3108 C37.4504,32.1598 37.2384,31.0428 36.8174,29.9588 C36.3954,28.8758 35.7814,27.9118 34.9744,27.0688 C34.1684,26.2258 33.1824,25.5488 32.0184,25.0398 C30.8534,24.5318 29.5194,24.2778 28.0174,24.2778 L21.3454,24.2778 L21.3454,42.3428 L28.0174,42.3428 C29.5194,42.3428 30.8574,42.0898 32.0304,41.5818 C33.2034,41.0738 34.1934,40.3978 34.9994,39.5528 C35.8054,38.7088 36.4154,37.7448 36.8304,36.6608 C37.2434,35.5778 37.4504,34.4608 37.4504,33.3108" id="Fill-19" fill="#000000" mask="url(#mask-2)"></path>
+                          <path d="M64.2322,33.0898 C64.7292,32.6918 65.3492,32.4918 66.0952,32.4918 C66.8742,32.4918 67.5042,32.6998 67.9822,33.1118 C68.4612,33.5268 68.7012,34.0888 68.7012,34.7988 L63.4892,34.7988 C63.4892,34.0568 63.7372,33.4868 64.2322,33.0898 M61.2462,40.7698 C61.8152,41.3668 62.5192,41.8318 63.3582,42.1668 C64.1972,42.5038 65.1602,42.6718 66.2472,42.6718 C67.1532,42.6718 67.9662,42.5588 68.6852,42.3318 C69.4032,42.1048 70.0222,41.7978 70.5382,41.4118 C71.0542,41.0258 71.4742,40.5758 71.8012,40.0638 C72.1272,39.5518 72.3402,39.0008 72.4422,38.4138 L68.5352,38.4138 C68.4002,38.7848 68.1542,39.0978 67.7982,39.3528 C67.4422,39.6088 66.9082,39.7358 66.1962,39.7358 C65.6972,39.7358 65.2732,39.6678 64.9252,39.5288 C64.5782,39.3908 64.3002,39.1998 64.0932,38.9568 C63.8852,38.7118 63.7332,38.4278 63.6362,38.1018 C63.5382,37.7768 63.4892,37.4318 63.4892,37.0658 L72.4672,37.0658 C72.5182,36.7208 72.5522,36.4608 72.5692,36.2848 C72.5852,36.1088 72.5942,35.8978 72.5942,35.6538 C72.5942,34.7898 72.4422,33.9828 72.1372,33.2358 C71.8322,32.4888 71.3992,31.8448 70.8362,31.3028 C70.2732,30.7608 69.5902,30.3338 68.7852,30.0228 C67.9822,29.7128 67.0762,29.5578 66.0692,29.5578 C65.0162,29.5578 64.0822,29.7298 63.2692,30.0738 C62.4552,30.4178 61.7682,30.8868 61.2072,31.4788 C60.6472,32.0698 60.2252,32.7618 59.9432,33.5508 C59.6602,34.3398 59.5202,35.1938 59.5202,36.1088 C59.5202,37.0238 59.6652,37.8808 59.9562,38.6788 C60.2472,39.4758 60.6772,40.1728 61.2462,40.7698" id="Fill-20" fill="#000000" mask="url(#mask-2)"></path>
+                          <path d="M18.7293,10.6386 C18.7293,9.1696 19.9203,7.9796 21.3893,7.9796 L21.3893,-0.0004 L21.2513,-0.0004 C15.9573,-0.0004 11.5673,3.8676 10.7503,8.9306 C9.9323,3.8676 5.5423,-0.0004 0.2483,-0.0004 L0.1113,-0.0004 L0.1113,7.9796 C1.5803,7.9796 2.7703,9.1696 2.7703,10.6386 C2.7703,12.1086 1.5803,13.2986 0.1113,13.2986 L0.1113,21.2786 L0.2483,21.2786 C5.5423,21.2786 9.9323,17.4106 10.7503,12.3466 C11.5673,17.4106 15.9573,21.2786 21.2513,21.2786 L21.3893,21.2786 L21.3893,13.2986 C19.9203,13.2986 18.7293,12.1086 18.7293,10.6386" id="Fill-21" fill="#000000" mask="url(#mask-2)"></path>
+                          <polygon id="Fill-22" fill="#000000" mask="url(#mask-2)" points="109.8743 56.0146 109.2013 56.0146 109.2013 55.8476 110.7313 55.8476 110.7313 56.0146 110.0603 56.0146 110.0603 57.8356 109.8743 57.8356"></polygon>
+                          <path d="M110.9627,55.8476 L111.2157,55.8476 L111.9027,57.5826 L111.9087,57.5826 L112.5787,55.8476 L112.8397,55.8476 L112.8397,57.8356 L112.6597,57.8356 L112.6597,56.1046 L112.6537,56.1046 C112.6537,56.1046 112.6007,56.2616 112.5587,56.3736 L111.9837,57.8356 L111.8197,57.8356 L111.2377,56.3736 C111.1967,56.2716 111.1407,56.1046 111.1407,56.1046 L111.1357,56.1046 L111.1357,57.8356 L110.9627,57.8356 L110.9627,55.8476 Z" id="Fill-23" fill="#000000" mask="url(#mask-2)"></path>
+                      </g>
+                  </g>
+              </g>
+          </svg>
+          <span class="ScreenReader">Dale Carnegie Logo</span>
+          </a>
+
+          <a class="HeaderRevised__location-link Location__link" href="/en/franchise-locations" data-nav-locations="" v-on:focus="toggleNav()"></a>
+        </div>
+        <nav class="HeaderRevised__nav Nav">
+          <ul class="NavRevised__list">
+
+                        
+                                      <li class="NavRevised__item" v-on:mouseleave="toggleNav()" v-on:mouseenter="toggleNav('findCourse')">
+                <a class="NavRevised__link NavRevised__dropdown-link no--drop" href="/en/course-finder" v-bind:class="{ 'NavRevised__dropdown-link--active': navItems['findCourse'] }" v-on:focus="toggleNav('findCourse')" tabindex="0">
+                  Find a Course
+                </a>
+              </li>
+              <li class="NavRevised__item" v-on:mouseleave="toggleNav()" v-on:mouseenter="toggleNav('findOffice')">
+                <a class="NavRevised__link NavRevised__dropdown-link no--drop" href="/en/franchise-locations" v-bind:class="{ 'NavRevised__dropdown-link--active': navItems['findOffice'] }" v-on:focus="toggleNav('findOffice')" tabindex="0">
+                  Find an Office
+                </a>
+              </li>
+              <li class="NavRevised__item" v-on:mouseleave="toggleNav()" v-on:mouseenter="toggleNav('training')">
+                <a class="NavRevised__link NavRevised__dropdown-link" v-bind:class="{ 'NavRevised__dropdown-link--active': navItems['training'] }" v-on:focus="toggleNav('training')" tabindex="0">
+                  Training
+                </a>
+                <div class="Dropdown" v-bind:class="{ 'Dropdown--active': navItems['training'] }">
+
+                  <ul data-nav-click="" class="Dropdown__list">
+                    <li class="Dropdown__item">
+                      <a class="Dropdown__link Dropdown__link--gray" href="/en/training-types" tabindex="0">Types</a>
+                    </li>
+                    <li class="Dropdown__item">
+                      <a href="/en/training-types/in-person" class="Dropdown__link" tabindex="0">
+                        In-Person
+                      </a>
+                    </li>
+                    <li class="Dropdown__item" data-related-to-live-online="">
+                      <a href="/en/training-types/live-online" class="Dropdown__link" tabindex="0">
+                      Live Online
+                      </a>
+                    </li>
+                    <li class="Dropdown__item">
+                      <a href="/en/training-types/custom-training-solutions" class="Dropdown__link" tabindex="0">
+                        Custom Solutions
+                      </a>
+                    </li>
+                    <li class="Dropdown__item">
+                      <a href="/en/training-types/government" class="Dropdown__link" tabindex="0">
+                        Government Solutions
+                      </a>
+                    </li>
+                  </ul>
+                  <ul data-nav-click="" class="Dropdown__list">
+                    <li class="Dropdown__item">
+                      <a class="Dropdown__link Dropdown__link--gray" href="/en/topics" tabindex="0">Topics</a>
+                    </li>
+                    <li class="Dropdown__item">
+                      <a href="/en/topics/people-skills" class="Dropdown__link" tabindex="0">
+                        People Skills
+                      </a>
+                    </li>
+                    <li class="Dropdown__item">
+                      <a href="/en/topics/presentation-skills" class="Dropdown__link" tabindex="0">
+                        Presentation
+                      </a>
+                    </li>
+                    <li class="Dropdown__item">
+                      <a href="/en/topics/leadership-development" class="Dropdown__link" tabindex="0">
+                        Leadership
+                      </a>
+                    </li>
+                    <li class="Dropdown__item">
+                      <a href="/en/topics/sales-training" class="Dropdown__link" tabindex="0">
+                        Sales
+                      </a>
+                    </li>
+                    <li class="Dropdown__item">
+                      <a href="/en/topics/customer-service" class="Dropdown__link" tabindex="0">
+                        Services
+                      </a>
+                    </li>
+                    <li class="Dropdown__item">
+                      <a href="/en/topics/organizational-development" class="Dropdown__link" tabindex="0">
+                        Organization
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </li>
+              <li class="NavRevised__item" v-on:mouseleave="toggleNav()" v-on:mouseenter="toggleNav('approach')">
+                <a class="NavRevised__link NavRevised__dropdown-link" v-bind:class="{ 'NavRevised__dropdown-link--active': navItems['approach'] }" tabindex="0" v-on:focus="toggleNav('approach')">
+                  Approach
+                </a>
+                <div class="Dropdown" v-bind:class="{ 'Dropdown--active': navItems['approach'] }">
+                  <ul data-nav-click="" class="Dropdown__list">
+                    <li class="Dropdown__item">
+                      <a class="Dropdown__link" href="/en/approach/process" tabindex="0">Process</a>
+                    </li>
+                    <li class="Dropdown__item">
+                      <a class="Dropdown__link" href="/en/approach/heritage" tabindex="0">Heritage</a>
+                    </li>
+                    <li class="Dropdown__item">
+                      <a class="Dropdown__link" href="/en/approach/case-studies" tabindex="0">Case Studies</a>
+                    </li>
+                  </ul>
+                </div>
+              </li>
+              
+              <li class="NavRevised__item" v-on:mouseleave="toggleNav()" v-on:mouseenter="toggleNav('resources')">
+                <a class="NavRevised__link NavRevised__dropdown-link" v-bind:class="{ 'NavRevised__dropdown-link--active': navItems['resources'] }" v-on:focus="toggleNav('resources')" tabindex="0">
+                  Resources
+                </a>
+                <div class="Dropdown" v-bind:class="{ 'Dropdown--active': navItems['resources'] }">
+                  <ul data-nav-click="" class="Dropdown__list">
+                    <li class="Dropdown__item">
+                      <a class="Dropdown__link" href="/en/resources/white-papers" tabindex="0">White Papers</a>
+                    </li>
+                    <li class="Dropdown__item">
+                      <a class="Dropdown__link" href="/en/resources/ebooks" tabindex="0">eBooks</a>
+                    </li>
+                                                                              </ul>
+                </div>
+              </li>
+                          
+                                        <div class="NavRevised__icons">
+    <li class="NavRevised__item">
+      <a href="/en/account" class="NavRevised__link NavRevised__link--icon" tabindex="0" v-on:focus="toggleNav()">
+        <svg width="19px" height="22px" viewBox="0 0 19 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+            <g id="Global/Nav/Desktop/Phase-2/-Default/Language-Profile-Cart" transform="translate(-1239.000000, -29.000000)" stroke="#231F20">
+              <g id="Icon/Login-Profile/Black" transform="translate(1240.000000, 30.000000)">
+                <g id="Profile-Icon">
+                  <path d="M13,4.5 C13,6.9858 10.9849,9 8.5,9 C6.0151,9 4,6.9858 4,4.5 C4,2.0151 6.0151,0 8.5,0 C10.9849,0 13,2.0151 13,4.5 Z" id="Stroke-1" stroke-width="2"></path>
+                  <path d="M17,20 C17,15.5815696 13.1945823,12 8.94736842,12 C3.80541772,12 0,15.5815696 0,20 L17,20 Z" id="Stroke-3" stroke-width="2"></path>
+                </g>
+              </g>
+            </g>
+          </g>
+        </svg>
+        <span class="ScreenReader">Account</span>
+      </a>
+    </li>
+          <li class="NavRevised__item NavRevised__item--small" v-on:mouseleave="toggleNav()" v-on:mouseenter="toggleNav('language')">
+        <a class="NavRevised__link NavRevised__dropdown-link NavRevised__dropdown-link--svg-hover" v-bind:class="{ 'NavRevised__dropdown-link--active': navItems['language'] }" v-on:focus="toggleNav('language')" tabindex="0">
+          <svg width="20px" height="22px" viewBox="0 0 20 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+              <g id="Global/Nav/Desktop/Phase-2/-Default/Language-Profile-Cart" transform="translate(-1294.000000, -30.000000)">
+                <g id="Icon/Language/Black" transform="translate(1292.000000, 29.000000)">
+                  <g id="Page-1" transform="translate(3.680000, 0.000000)">
+                    <path d="M6.33282,2.380845 C5.25527,2.380845 4.09722,2.523445 2.80347,2.910995 L2.80347,12.472095 C4.09837,12.084545 5.25412,11.943095 6.33167,11.943095 C9.27912,11.943095 11.63202,13.002245 14.57947,13.002245 C15.65817,13.002245 16.81737,12.860795 18.11227,12.472095 L18.11227,2.910995 C16.81737,3.299695 15.65932,3.441145 14.58062,3.441145 C11.63317,3.441145 9.27912,2.380845 6.33282,2.380845 M6.01769013,4.450845 C7.35828528,4.450845 8.62708494,4.70460493 9.97015579,4.9732191 C11.4914775,5.27773102 13.0635512,5.59214576 14.8955742,5.59214576 C15.3412014,5.59214576 15.783115,5.57234011 16.2213151,5.53520451 L16.2213151,10.8468331 C15.7806393,10.9050122 15.3387257,10.932245 14.8943363,10.932245 C13.5537412,10.932245 12.2837037,10.6784851 10.9406328,10.4098709 C9.41931106,10.1065968 7.84723734,9.79218209 6.01645228,9.79218209 C5.57330079,9.79218209 5.132625,9.81074989 4.69442493,9.84912334 L4.69442493,4.53625688 C5.13386286,4.47931563 5.57453864,4.450845 6.01769013,4.450845" id="Fill-1" fill="#000000"></path>
+                    <g id="Group-5" transform="translate(0.000000, 0.570285)" stroke="#000000" stroke-width="1.5">
+                      <path d="M0,21.85023 L0,0.57983" id="Stroke-3"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </svg>
+          <span class="ScreenReader">Language</span>
+        </a>
+        <div class="Dropdown Dropdown--full-width Dropdown--last" v-bind:class="{ 'Dropdown--active': navItems['language'] }">
+          <ul class="Dropdown__list">
+                                                                              <li class="Dropdown__item">
+                                        <a class="Dropdown__link" data-language-link="" data-slug="ar" @click="browseToLanguage" href="/ar/privacy-policy" tabindex="0">
+                              العربية
+                            </a> 
+                  </li>
+                                                                                    <li class="Dropdown__item">
+                                        <a class="Dropdown__link" data-language-link="" data-slug="bg" @click="browseToLanguage" href="/bg/privacy-policy" tabindex="0">
+                              Български
+                            </a> 
+                  </li>
+                                                                                    <li class="Dropdown__item">
+                                        <a class="Dropdown__link" data-language-link="" data-slug="de" @click="browseToLanguage" href="/de/privacy-policy" tabindex="0">
+                              Deutsch
+                            </a> 
+                  </li>
+                                                                                    <li class="Dropdown__item">
+                                        <a class="Dropdown__link" data-language-link="" data-slug="el" @click="browseToLanguage" href="/el/privacy-policy" tabindex="0">
+                              Ελληνικά
+                            </a> 
+                  </li>
+                                                                                    <li class="Dropdown__item">
+                                        <a class="Dropdown__link" data-language-link="" data-slug="en" @click="browseToLanguage" href="/en/privacy-policy" tabindex="0">
+                              English
+                            </a> 
+                  </li>
+                                                                                    <li class="Dropdown__item">
+                                        <a class="Dropdown__link" data-language-link="" data-slug="en-gb" @click="browseToLanguage" href="/en-gb/privacy-policy" tabindex="0">
+                              British English
+                            </a> 
+                  </li>
+                                                                                    <li class="Dropdown__item">
+                                        <a class="Dropdown__link" data-language-link="" data-slug="es" @click="browseToLanguage" href="/es/privacy-policy" tabindex="0">
+                              Español
+                            </a> 
+                  </li>
+                                                                                    <li class="Dropdown__item">
+                                        <a class="Dropdown__link" data-language-link="" data-slug="es-es" @click="browseToLanguage" href="/es-es/privacy-policy" tabindex="0">
+                              Español De España
+                            </a> 
+                  </li>
+                                                                                    <li class="Dropdown__item">
+                                        <a class="Dropdown__link" data-language-link="" data-slug="fr" @click="browseToLanguage" href="/fr/privacy-policy" tabindex="0">
+                              Français
+                            </a> 
+                  </li>
+                                                                                    <li class="Dropdown__item">
+                                        <a class="Dropdown__link" data-language-link="" data-slug="fr-ca" @click="browseToLanguage" href="/fr-ca/privacy-policy" tabindex="0">
+                              Français Canadien
+                            </a> 
+                  </li>
+                                                                                    <li class="Dropdown__item">
+                                        <a class="Dropdown__link" data-language-link="" data-slug="he" @click="browseToLanguage" href="/he/privacy-policy" tabindex="0">
+                              עברית
+                            </a> 
+                  </li>
+                                                                                    <li class="Dropdown__item">
+                                        <a class="Dropdown__link" data-language-link="" data-slug="hu" @click="browseToLanguage" href="/hu/privacy-policy" tabindex="0">
+                              Magyar
+                            </a> 
+                  </li>
+                                                                                    <li class="Dropdown__item">
+                                        <a class="Dropdown__link" data-language-link="" data-slug="id" @click="browseToLanguage" href="/id/privacy-policy" tabindex="0">
+                              Bahasa Indonesia
+                            </a> 
+                  </li>
+                                                                                    <li class="Dropdown__item">
+                                        <a class="Dropdown__link" data-language-link="" data-slug="is" @click="browseToLanguage" href="/is/privacy-policy" tabindex="0">
+                              Íslenska
+                            </a> 
+                  </li>
+                                                                                    <li class="Dropdown__item">
+                                        <a class="Dropdown__link" data-language-link="" data-slug="it" @click="browseToLanguage" href="/it/privacy-policy" tabindex="0">
+                              Italiano
+                            </a> 
+                  </li>
+                                                                                    <li class="Dropdown__item">
+                                        <a class="Dropdown__link" data-language-link="" data-slug="ja" @click="browseToLanguage" href="/ja/privacy-policy" tabindex="0">
+                              日本語
+                            </a> 
+                  </li>
+                                                                                    <li class="Dropdown__item">
+                                        <a class="Dropdown__link" data-language-link="" data-slug="ko" @click="browseToLanguage" href="/ko/privacy-policy" tabindex="0">
+                              한국어
+                            </a> 
+                  </li>
+                                                                                    <li class="Dropdown__item">
+                                        <a class="Dropdown__link" data-language-link="" data-slug="mn" @click="browseToLanguage" href="/mn/privacy-policy" tabindex="0">
+                              Монгол
+                            </a> 
+                  </li>
+                                                                                    <li class="Dropdown__item">
+                                        <a class="Dropdown__link" data-language-link="" data-slug="my" @click="browseToLanguage" href="/my/privacy-policy" tabindex="0">
+                              ဗမာ
+                            </a> 
+                  </li>
+                                                                                    <li class="Dropdown__item">
+                                        <a class="Dropdown__link" data-language-link="" data-slug="nl" @click="browseToLanguage" href="/nl/privacy-policy" tabindex="0">
+                              Nederlands
+                            </a> 
+                  </li>
+                                                                                    <li class="Dropdown__item">
+                                        <a class="Dropdown__link" data-language-link="" data-slug="no" @click="browseToLanguage" href="/no/privacy-policy" tabindex="0">
+                              Norwegian
+                            </a> 
+                  </li>
+                                                                                    <li class="Dropdown__item">
+                                        <a class="Dropdown__link" data-language-link="" data-slug="pl" @click="browseToLanguage" href="/pl/privacy-policy" tabindex="0">
+                              Polski
+                            </a> 
+                  </li>
+                                                                                    <li class="Dropdown__item">
+                                        <a class="Dropdown__link" data-language-link="" data-slug="pt" @click="browseToLanguage" href="/pt/privacy-policy" tabindex="0">
+                              Português
+                            </a> 
+                  </li>
+                                                                                    <li class="Dropdown__item">
+                                        <a class="Dropdown__link" data-language-link="" data-slug="pt-br" @click="browseToLanguage" href="/pt-br/privacy-policy" tabindex="0">
+                              Português Do Brasil
+                            </a> 
+                  </li>
+                                                                                    <li class="Dropdown__item">
+                                        <a class="Dropdown__link" data-language-link="" data-slug="ro" @click="browseToLanguage" href="/ro/privacy-policy" tabindex="0">
+                              Română
+                            </a> 
+                  </li>
+                                                                                    <li class="Dropdown__item">
+                                        <a class="Dropdown__link" data-language-link="" data-slug="sv" @click="browseToLanguage" href="/sv/privacy-policy" tabindex="0">
+                              Svenska
+                            </a> 
+                  </li>
+                                                                                    <li class="Dropdown__item">
+                                        <a class="Dropdown__link" data-language-link="" data-slug="th" @click="browseToLanguage" href="/th/privacy-policy" tabindex="0">
+                              ไทย
+                            </a> 
+                  </li>
+                                                                                    <li class="Dropdown__item">
+                                        <a class="Dropdown__link" data-language-link="" data-slug="tr" @click="browseToLanguage" href="/tr/privacy-policy" tabindex="0">
+                              Türkçe
+                            </a> 
+                  </li>
+                                                                                    <li class="Dropdown__item">
+                                        <a class="Dropdown__link" data-language-link="" data-slug="vi" @click="browseToLanguage" href="/vi/privacy-policy" tabindex="0">
+                              Tiếng Việt
+                            </a> 
+                  </li>
+                                                                                    <li class="Dropdown__item">
+                                        <a class="Dropdown__link" data-language-link="" data-slug="zh" @click="browseToLanguage" href="/zh/privacy-policy" tabindex="0">
+                              简体中文
+                            </a> 
+                  </li>
+                                                                                    <li class="Dropdown__item">
+                                        <a class="Dropdown__link" data-language-link="" data-slug="zh-hk" @click="browseToLanguage" href="/zh-hk/privacy-policy" tabindex="0">
+                              繁體中文-香港
+                            </a> 
+                  </li>
+                                                                                    <li class="Dropdown__item">
+                                        <a class="Dropdown__link" data-language-link="" data-slug="zh-tw" @click="browseToLanguage" href="/zh-tw/privacy-policy" tabindex="0" v-on:blur="languageActive = false; trainingActive = false; locationActive = false; aboutActive = false;">
+                              繁體中文-台灣
+                            </a> 
+                  </li>
+                                                      </ul>
+        </div>
+      </li>
+        <li class="NavRevised__item">
+      <a href="/en/cart" class="NavRevised__link NavRevised__link--icon HeaderRevised__cart" data-header-cart="" tabindex="0" v-on:focus="toggleNav()">
+        <svg width="25px" height="24px" viewBox="0 0 25 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <defs>
+            <polygon id="path-1" points="4.527 4.8 0.1122 4.8 0.1122 0.38448 4.527 0.38448"></polygon>
+            <polygon id="path-3" points="4.7274 4.8 0.3114 4.8 0.3114 0.38448 4.7274 0.38448"></polygon>
+          </defs>
+          <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+            <g id="Global/Nav/Desktop/Phase-2/-Default/Language-Profile-Cart" transform="translate(-1345.000000, -28.000000)">
+              <g id="Icon/Cart/Black" transform="translate(1345.000000, 28.000000)">
+                <g id="Page-1" transform="translate(0.000000, 0.960000)">
+                  <polygon id="Stroke-1" stroke="#000000" stroke-width="2" points="19.3206974 15.36 7.99623529 15.36 5.76 4.8 23.04 4.8"></polygon>
+                  <g id="Group-5" stroke-width="2" stroke="#000000">
+                    <polyline id="Stroke-3" points="7.87215086 14.693376 4.47416229 0.226619077 -0.000123428571 0.226619077"></polyline>
+                  </g>
+                  <g id="Group-8" transform="translate(7.680000, 18.240000)">
+                    <mask id="mask-2" fill="white">
+                      <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-7"></g>
+                    <path d="M4.527,2.59248 C4.527,3.81168 3.5394,4.80048 2.319,4.80048 C1.101,4.80048 0.1122,3.81168 0.1122,2.59248 C0.1122,1.37328 1.101,0.38448 2.319,0.38448 C3.5394,0.38448 4.527,1.37328 4.527,2.59248" id="Fill-6" fill="#000000" mask="url(#mask-2)"></path>
+                  </g>
+                  <g id="Group-11" transform="translate(15.360000, 18.240000)">
+                    <mask id="mask-4" fill="white">
+                      <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Clip-10"></g>
+                    <path d="M4.7274,2.59248 C4.7274,3.81168 3.7386,4.80048 2.5194,4.80048 C1.3014,4.80048 0.3114,3.81168 0.3114,2.59248 C0.3114,1.37328 1.3014,0.38448 2.5194,0.38448 C3.7386,0.38448 4.7274,1.37328 4.7274,2.59248" id="Fill-9" fill="#000000" mask="url(#mask-4)"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </svg>
+        <span class="ScreenReader">Cart</span>
+      </a>
+    </li>
+  </div>
+
+                      </ul>
+        </nav>
+        <a class="header-revised__hamburger" v-bind:class="{ 'header-revised__hamburger--active': mobileNavActive }" v-on:click.prevent="mobileNav()">
+          <span class="header-revised__patty"></span>
+          <span class="header-revised__patty"></span>
+          <span class="header-revised__patty"></span>
+          <span class="header-revised__patty"></span>
+        </a>
+      </div>
+      <nav class="MobileNav" v-bind:class="{ 'MobileNav--active': mobileNavActive }">
+        <div class="MobileNav__content" v-bind:class="{ 'MobileNav__content--page2': mobileNavPage !== 1 }">
+          <div class="MobileNav__page">
+            <ul class="MobileNav__list">
+              <div class="MobileNav__icons">
+                <a href="/en/account" class="MobileNav__icons__item">
+                  <svg width="19px" height="22px" viewBox="0 0 19 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <defs></defs>
+                    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                      <g id="Global/Nav/Desktop/Phase-2/-Default/Language-Profile-Cart" transform="translate(-1239.000000, -29.000000)" stroke="#ffffff">
+                        <g id="Icon/Login-Profile/Black" transform="translate(1240.000000, 30.000000)">
+                          <g id="Profile-Icon">
+                            <path d="M13,4.5 C13,6.9858 10.9849,9 8.5,9 C6.0151,9 4,6.9858 4,4.5 C4,2.0151 6.0151,0 8.5,0 C10.9849,0 13,2.0151 13,4.5 Z" id="Stroke-1" stroke-width="2"></path>
+                            <path d="M17,20 C17,15.5815696 13.1945823,12 8.94736842,12 C3.80541772,12 0,15.5815696 0,20 L17,20 Z" id="Stroke-3" stroke-width="2"></path>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </svg>
+                  <span class="ScreenReader">Account</span>
+                </a>
+                <a href="/en/cart" class="MobileNav__icons__item HeaderRevised__cart HeaderRevised__cart--mobile" data-header-cart="">
+                  <svg width="25px" height="24px" viewBox="0 0 25 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <defs>
+                      <polygon id="path-1" points="4.527 4.8 0.1122 4.8 0.1122 0.38448 4.527 0.38448"></polygon>
+                      <polygon id="path-3" points="4.7274 4.8 0.3114 4.8 0.3114 0.38448 4.7274 0.38448"></polygon>
+                    </defs>
+                    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                      <g id="Global/Nav/Desktop/Phase-2/-Default/Language-Profile-Cart" transform="translate(-1345.000000, -28.000000)">
+                        <g id="Icon/Cart/Black" transform="translate(1345.000000, 28.000000)">
+                          <g id="Page-1" transform="translate(0.000000, 0.960000)">
+                            <polygon id="Stroke-1" stroke="#ffffff" stroke-width="2" points="19.3206974 15.36 7.99623529 15.36 5.76 4.8 23.04 4.8"></polygon>
+                            <g id="Group-5" stroke-width="2" stroke="#ffffff">
+                              <polyline id="Stroke-3" points="7.87215086 14.693376 4.47416229 0.226619077 -0.000123428571 0.226619077"></polyline>
+                            </g>
+                            <g id="Group-8" transform="translate(7.680000, 18.240000)">
+                              <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                              </mask>
+                              <g id="Clip-7"></g>
+                              <path d="M4.527,2.59248 C4.527,3.81168 3.5394,4.80048 2.319,4.80048 C1.101,4.80048 0.1122,3.81168 0.1122,2.59248 C0.1122,1.37328 1.101,0.38448 2.319,0.38448 C3.5394,0.38448 4.527,1.37328 4.527,2.59248" id="Fill-6" fill="#ffffff" mask="url(#mask-2)"></path>
+                            </g>
+                            <g id="Group-11" transform="translate(15.360000, 18.240000)">
+                              <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                              </mask>
+                              <g id="Clip-10"></g>
+                              <path d="M4.7274,2.59248 C4.7274,3.81168 3.7386,4.80048 2.5194,4.80048 C1.3014,4.80048 0.3114,3.81168 0.3114,2.59248 C0.3114,1.37328 1.3014,0.38448 2.5194,0.38448 C3.7386,0.38448 4.7274,1.37328 4.7274,2.59248" id="Fill-9" fill="#ffffff" mask="url(#mask-4)"></path>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </svg>
+                  <span class="ScreenReader">Cart</span>
+                </a>
+              </div>
+                                            <li class="MobileNav__item">
+                  <a href="#" class="MobileNav__link" v-on:click.prevent="mobileNavPage = 'training'">
+                    Training
+
+                    <img class="MobileNav__icon" src="/assets/images/icons/arrow_white.svg" alt="Arrow">
+                  </a>
+                </li>
+                <li class="MobileNav__item">
+                  <a href="/en/approach" class="MobileNav__link" v-on:click.prevent="mobileNavPage = 'approach'">
+                    Approach
+
+                    <img class="MobileNav__icon" src="/assets/images/icons/arrow_white.svg" alt="Arrow">
+                  </a>
+                </li>
+                <li class="MobileNav__item">
+                  <a href="#" class="MobileNav__link" v-on:click.prevent="mobileNavPage = 'about'">
+                    About
+
+                    <img class="MobileNav__icon" src="/assets/images/icons/arrow_white.svg" alt="Arrow">
+                  </a>
+                </li>
+                <li class="MobileNav__item">
+                  <a href="/en/resources" class="MobileNav__link" v-on:click.prevent="mobileNavPage = 'resources'">
+                    Resources
+
+                    <img class="MobileNav__icon" src="/assets/images/icons/arrow_white.svg" alt="Arrow">
+                  </a>
+                </li>
+                                            <li class="MobileNav__item MobileNav__item--microsite">
+                                  <a href="/en/franchise-locations" class="MobileNav__link" data-mobile-nav-locations="">
+                    Locations
+                    <img class="MobileNav__icon" src="/assets/images/icons/arrow_white.svg" alt="Arrow">
+                  </a>
+                              </li>
+                            <li class="MobileNav__item">
+                <a href="#" class="MobileNav__link" v-on:click.prevent="mobileNavPage = 'language'">
+                  Language
+
+                  <img class="MobileNav__icon" src="/assets/images/icons/arrow_white.svg" alt="Arrow">
+                </a>
+              </li>
+                          </ul>
+          </div>
+          <div class="MobileNav__page">
+                        <div class="MobileNav__sub-page" v-if="mobileNavPage === 'training'">
+              <div data-nav-click="" class="MobileNav__sub-header">
+                <a class="MobileNav__back" href="#" v-on:click.prevent="mobileNavPage = 1">
+                  <img class="MobileNav__back-icon" src="/assets/images/icons/arrow_white_back.svg" alt="Arrow">
+                </a>
+                <span data-nav-click="">
+                  <a class="MobileNav__sub-header-link" href="/en/course-finder">
+                  Course Finder
+                  </a>
+                </span>
+              </div>
+              <ul data-nav-click="" class="MobileNav__sub-list">
+                <li class="MobileNav__sub-item">
+                  Topics
+                </li>
+                                  <li class="MobileNav__sub-item">
+                    <a class="MobileNav__sub-link" href="/en/topics/people-skills">
+                      People Skills
+                    </a>
+                  </li>
+                                  <li class="MobileNav__sub-item">
+                    <a class="MobileNav__sub-link" href="/en/topics/presentation-skills">
+                      Presentation Training
+                    </a>
+                  </li>
+                                  <li class="MobileNav__sub-item">
+                    <a class="MobileNav__sub-link" href="/en/topics/leadership-development">
+                      Leadership Training
+                    </a>
+                  </li>
+                                  <li class="MobileNav__sub-item">
+                    <a class="MobileNav__sub-link" href="/en/topics/sales-training">
+                      Sales Training
+                    </a>
+                  </li>
+                                  <li class="MobileNav__sub-item">
+                    <a class="MobileNav__sub-link" href="/en/topics/customer-service">
+                      Customer Service Training
+                    </a>
+                  </li>
+                                  <li class="MobileNav__sub-item">
+                    <a class="MobileNav__sub-link" href="/en/topics/organizational-development">
+                      Organizational Development
+                    </a>
+                  </li>
+                              </ul>
+              <ul data-nav-click="" class="MobileNav__sub-list">
+                <li class="MobileNav__sub-item">
+                  Types
+                </li>
+                                  <li class="MobileNav__sub-item">
+                    <a class="MobileNav__sub-link" href="/en/training-types/in-person">
+                      In-Person
+                    </a>
+                  </li>
+                                  <li class="MobileNav__sub-item" data-related-to-live-online="" :style="enableLiveOnline">
+                    <a class="MobileNav__sub-link" href="/en/training-types/live-online">
+                      Live Online
+                    </a>
+                  </li>
+                                  <li class="MobileNav__sub-item">
+                    <a class="MobileNav__sub-link" href="/en/training-types/custom-training-solutions">
+                      Custom Training Solutions
+                    </a>
+                  </li>
+                                  <li class="MobileNav__sub-item">
+                    <a class="MobileNav__sub-link" href="/en/training-types/government">
+                      Government
+                    </a>
+                  </li>
+                              </ul>
+            </div>
+
+                      <div class="MobileNav__sub-page" v-if="mobileNavPage === 'about'">
+              <div data-nav-click="" class="MobileNav__sub-header">
+                <a class="MobileNav__back" href="#" v-on:click.prevent="mobileNavPage = 1">
+                  <img class="MobileNav__back-icon" src="/assets/images/icons/arrow_white_back.svg" alt="Arrow">
+                </a>
+              </div>
+              <ul data-nav-click="" class="MobileNav__sub-list">
+                <li class="MobileNav__sub-item">
+                  About
+                </li>
+                <li class="MobileNav__sub-item">
+                  <a class="MobileNav__sub-link" href="/en/about/culture">
+                    Culture
+                  </a>
+                </li>
+                <li class="MobileNav__sub-item">
+                  <a class="MobileNav__sub-link" href="https://dalecarnegiefranchise.com">
+                    Franchising
+                  </a>
+                </li>
+                <li class="MobileNav__sub-item">
+                  <a class="MobileNav__sub-link" href="/en/about/contact">
+                    Contact
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div class="MobileNav__sub-page" v-if="mobileNavPage === 'approach'">
+              <div data-nav-click="" class="MobileNav__sub-header">
+                <a class="MobileNav__back" href="#" v-on:click.prevent="mobileNavPage = 1">
+                  <img class="MobileNav__back-icon" src="/assets/images/icons/arrow_white_back.svg" alt="Arrow">
+                </a>
+              </div>
+              <ul data-nav-click="" class="MobileNav__sub-list">
+                <li class="MobileNav__sub-item">
+                  Approach
+                </li>
+                <li class="MobileNav__sub-item">
+                  <a class="MobileNav__sub-link" href="/en/approach/process">
+                    Process
+                  </a>
+                </li>
+                <li class="MobileNav__sub-item">
+                  <a class="MobileNav__sub-link" href="/en/approach/heritage">
+                    Heritage
+                  </a>
+                </li>
+                <li class="MobileNav__sub-item">
+                  <a class="MobileNav__sub-link" href="/en/approach/case-studies">
+                    Case Studies
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div class="MobileNav__sub-page" v-if="mobileNavPage === 'resources'">
+              <div data-nav-click="" class="MobileNav__sub-header">
+                <a class="MobileNav__back" href="#" v-on:click.prevent="mobileNavPage = 1">
+                  <img class="MobileNav__back-icon" src="/assets/images/icons/arrow_white_back.svg" alt="Arrow">
+                </a>
+              </div>
+              <ul data-nav-click="" class="MobileNav__sub-list">
+                <li class="MobileNav__sub-item">
+                  Resources
+                </li>
+                <li class="MobileNav__sub-item">
+                  <a class="MobileNav__sub-link" href="/en/resources/white-papers">
+                    White Papers
+                  </a>
+                </li>
+                <li class="MobileNav__sub-item">
+                  <a class="MobileNav__sub-link" href="/en/resources/ebooks">
+                    eBooks
+                  </a>
+                </li>
+                                                                                              </ul>
+            </div>
+          
+                      <div class="MobileNav__sub-page" v-if="mobileNavPage === 'language'">
+              <div class="MobileNav__sub-header">
+                <a class="MobileNav__back" href="#" v-on:click.prevent="mobileNavPage = 1">
+                  <img class="MobileNav__back-icon" src="/assets/images/icons/arrow_white_back.svg" alt="Arrow">
+                </a>
+              </div>
+          
+              <ul class="MobileNav__sub-list">
+                                                                                              <li class="MobileNav__sub-item">
+                                            <a class="MobileNav__sub-link" href="/en/privacy-policy">
+                              العربية
+                            </a> 
+                    </li>
+
+                                                                                                  <li class="MobileNav__sub-item">
+                                            <a class="MobileNav__sub-link" href="/en/privacy-policy">
+                              Български
+                            </a> 
+                    </li>
+
+                                                                                                  <li class="MobileNav__sub-item">
+                                            <a class="MobileNav__sub-link" href="/en/privacy-policy">
+                              Deutsch
+                            </a> 
+                    </li>
+
+                                                                                                  <li class="MobileNav__sub-item">
+                                            <a class="MobileNav__sub-link" href="/en/privacy-policy">
+                              Ελληνικά
+                            </a> 
+                    </li>
+
+                                                                                                  <li class="MobileNav__sub-item">
+                                            <a class="MobileNav__sub-link" href="/en/privacy-policy">
+                              English
+                            </a> 
+                    </li>
+
+                                                                                                  <li class="MobileNav__sub-item">
+                                            <a class="MobileNav__sub-link" href="/en/privacy-policy">
+                              British English
+                            </a> 
+                    </li>
+
+                                                                                                  <li class="MobileNav__sub-item">
+                                            <a class="MobileNav__sub-link" href="/en/privacy-policy">
+                              Español
+                            </a> 
+                    </li>
+
+                                                                                                  <li class="MobileNav__sub-item">
+                                            <a class="MobileNav__sub-link" href="/en/privacy-policy">
+                              Español De España
+                            </a> 
+                    </li>
+
+                                                                                                  <li class="MobileNav__sub-item">
+                                            <a class="MobileNav__sub-link" href="/en/privacy-policy">
+                              Français
+                            </a> 
+                    </li>
+
+                                                                                                  <li class="MobileNav__sub-item">
+                                            <a class="MobileNav__sub-link" href="/en/privacy-policy">
+                              Français Canadien
+                            </a> 
+                    </li>
+
+                                                                                                  <li class="MobileNav__sub-item">
+                                            <a class="MobileNav__sub-link" href="/en/privacy-policy">
+                              עברית
+                            </a> 
+                    </li>
+
+                                                                                                  <li class="MobileNav__sub-item">
+                                            <a class="MobileNav__sub-link" href="/en/privacy-policy">
+                              Magyar
+                            </a> 
+                    </li>
+
+                                                                                                  <li class="MobileNav__sub-item">
+                                            <a class="MobileNav__sub-link" href="/en/privacy-policy">
+                              Bahasa Indonesia
+                            </a> 
+                    </li>
+
+                                                                                                  <li class="MobileNav__sub-item">
+                                            <a class="MobileNav__sub-link" href="/en/privacy-policy">
+                              Íslenska
+                            </a> 
+                    </li>
+
+                                                                                                  <li class="MobileNav__sub-item">
+                                            <a class="MobileNav__sub-link" href="/en/privacy-policy">
+                              Italiano
+                            </a> 
+                    </li>
+
+                                                                                                  <li class="MobileNav__sub-item">
+                                            <a class="MobileNav__sub-link" href="/en/privacy-policy">
+                              日本語
+                            </a> 
+                    </li>
+
+                                                                                                  <li class="MobileNav__sub-item">
+                                            <a class="MobileNav__sub-link" href="/en/privacy-policy">
+                              한국어
+                            </a> 
+                    </li>
+
+                                                                                                  <li class="MobileNav__sub-item">
+                                            <a class="MobileNav__sub-link" href="/en/privacy-policy">
+                              Монгол
+                            </a> 
+                    </li>
+
+                                                                                                  <li class="MobileNav__sub-item">
+                                            <a class="MobileNav__sub-link" href="/en/privacy-policy">
+                              ဗမာ
+                            </a> 
+                    </li>
+
+                                                                                                  <li class="MobileNav__sub-item">
+                                            <a class="MobileNav__sub-link" href="/en/privacy-policy">
+                              Nederlands
+                            </a> 
+                    </li>
+
+                                                                                                  <li class="MobileNav__sub-item">
+                                            <a class="MobileNav__sub-link" href="/en/privacy-policy">
+                              Norwegian
+                            </a> 
+                    </li>
+
+                                                                                                  <li class="MobileNav__sub-item">
+                                            <a class="MobileNav__sub-link" href="/en/privacy-policy">
+                              Polski
+                            </a> 
+                    </li>
+
+                                                                                                  <li class="MobileNav__sub-item">
+                                            <a class="MobileNav__sub-link" href="/en/privacy-policy">
+                              Português
+                            </a> 
+                    </li>
+
+                                                                                                  <li class="MobileNav__sub-item">
+                                            <a class="MobileNav__sub-link" href="/en/privacy-policy">
+                              Português Do Brasil
+                            </a> 
+                    </li>
+
+                                                                                                  <li class="MobileNav__sub-item">
+                                            <a class="MobileNav__sub-link" href="/en/privacy-policy">
+                              Română
+                            </a> 
+                    </li>
+
+                                                                                                  <li class="MobileNav__sub-item">
+                                            <a class="MobileNav__sub-link" href="/en/privacy-policy">
+                              Svenska
+                            </a> 
+                    </li>
+
+                                                                                                  <li class="MobileNav__sub-item">
+                                            <a class="MobileNav__sub-link" href="/en/privacy-policy">
+                              ไทย
+                            </a> 
+                    </li>
+
+                                                                                                  <li class="MobileNav__sub-item">
+                                            <a class="MobileNav__sub-link" href="/en/privacy-policy">
+                              Türkçe
+                            </a> 
+                    </li>
+
+                                                                                                  <li class="MobileNav__sub-item">
+                                            <a class="MobileNav__sub-link" href="/en/privacy-policy">
+                              Tiếng Việt
+                            </a> 
+                    </li>
+
+                                                                                                  <li class="MobileNav__sub-item">
+                                            <a class="MobileNav__sub-link" href="/en/privacy-policy">
+                              简体中文
+                            </a> 
+                    </li>
+
+                                                                                                  <li class="MobileNav__sub-item">
+                                            <a class="MobileNav__sub-link" href="/en/privacy-policy">
+                              繁體中文-香港
+                            </a> 
+                    </li>
+
+                                                                                                  <li class="MobileNav__sub-item">
+                                            <a class="MobileNav__sub-link" href="/en/privacy-policy">
+                              繁體中文-台灣
+                            </a> 
+                    </li>
+
+                                                                    </ul>
+            </div>
+                      </div>
+        </div>
+      </nav>
+    </div>
+  </header>
+
+<div class="HeaderShoppingSummary" data-header-shopping-cart-summary="">
+  <div class="HeaderShoppingSummary__close" data-header-shopping-cart-summary-close="">
+    <img src="/tmp-assets/images/close.svg" alt="Close">
+  </div>
+      <p>Looks like your cart is empty, please use the course finder to find available courses.</p>
+    <p><a class="Button Button--white" href="/en/course-finder">View Course Finder</a></p>
+  </div>
+
+  <main role="main" class="">
+    
+  <div class="BasicSiteMasthead u-grad-orangeyellow">
+  <div class="container container--s">
+    <h1 class="BasicSiteMasthead__headline">Privacy Policy</h1>
+      </div>
+</div>
+
+  <div class="container">
+  <div class="BasicSiteContent ">
+    <div class="container container--s">
+      <h2>Dale Carnegie &amp; Associates, Inc. Privacy Policy</h2>
+<p>Dale Carnegie &amp; Associates, Inc. (“Dale Carnegie” or “we” or “us” and similar terms) is committed to protecting your personal information. We ask that you read this privacy notice carefully as it contains important information on who we are, how and why we collect, store, use, and share personal information, your rights in relation to your personal information and on how to contact us and supervisory authorities in the event you have a complaint.</p>
+<p><strong>1.&nbsp; Who We Are</strong></p>
+<p>Dale Carnegie &amp; Associates, Inc. collects, uses and is responsible for certain personal information about you.&nbsp;</p>
+<p><strong>2. The Personal Information We Collect and Use</strong></p>
+<p><strong>a. Information Collected by U</strong><strong>s</strong></p>
+<p>When you download any of our resources on this website, attend events or a training session, register for (or are registered for by your employer) any of our services and/or the purchase of goods/services offered on this website, we collect the following personal information when you provide it to us:</p>
+<p>• Contact Details: your name, postal and email addresses and phone number;<br>• Demographic Details: your gender, age, postal code;&nbsp;<br>• Profile Data: your hobbies, interests; and<br>• Payment Confirmation: confirmation of your payment with our third-party credit card processor (no payment details regarding your credit card number, ACH or other payment methodology is shared with us).</p>
+<p><strong>b. How We Use Your Personal Information</strong></p>
+<p>We use your personal information to:</p>
+<p>• Provide you access and support to the goods and services you request;<br>• Contact you with respect to the goods and services you request; and<br>• Send you information on other goods and services that may be of interest to you.</p>
+<p><strong>c. Who We Share Your Personal Information With</strong></p>
+<p>Generally, your personal information is not shared with anyone outside of Dale Carnegie.</p>
+<p>Disclosure for legal purposes. We may share your personal information when we (1) respond to subpoenas, court orders or legal process, and to exercise our legal rights or defend against legal claims; (2) believe it is necessary to share information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Terms of Use or as otherwise required by law; or (3) transfer information about you if we are acquired by or merged with another entity.</p>
+<p>Non-personal information. To help us serve you better, we collect information that does not identify you personally, but rather identifies your computer or browser. This is done by tracking IP addresses and other information such as browser type and version, operating system, and/or platform to analyze trends, help us administer the website, track the movement of visitors, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.&nbsp;</p>
+<p>Aggregated demographic information. We may share aggregated demographic data with third parties, but this information is not linked to any personal information that can identify you or any other individual person. Therefore, no personal information is disclosed in this manner.</p>
+<p><strong>d. Information You Provide and Why</strong></p>
+<p>You can visit and enjoy our website without disclosing any personal information about yourself.&nbsp;</p>
+<p>If you want to obtain a free report or white paper, we require you to provide your name and email address so we can deliver it to you.&nbsp;</p>
+<p>If you register for a course, we require you to provide your name, email address, mailing address and phone number so we can enroll you in the course and provide the services to you, as well as communicate updates about the course. All payment information is handled by a third party provider and is not disclosed to Dale Carnegie, other than the completion of the transaction.</p>
+<p>If you are registered for a course by your employer, we will receive your name, work email address and work mailing address so we can enroll you in the course and provide the services to you, as well as communicate updates about the course.</p>
+<p>If you wish to receive more information or be in contact with us, we require you to provide us with your email address and name. We then, with your explicit permission, will be in touch with you from time to time on matters we deem of interest to you.</p>
+<p><strong>e. How Long Your Personal Information Will Be Kept</strong></p>
+<p>We will retain your Personal Data for the period necessary to fulfill the purposes outlined in this Privacy Statement unless a longer retention period is required or permitted by law.</p>
+<p>The criteria used to determine our retention periods include:&nbsp;<br>• The length of time we have an ongoing relationship with you and provide the Services to you (for example, for as long as you keep using the Services)<br>• Whether there is a legal obligation to which we are subject (for example, certain laws require us to keep records of your transactions for a certain period of time before we can delete them)<br>• Whether retention is advisable considering our legal position (such as, for statutes of limitations, litigation or regulatory investigations)</p>
+<p><strong>f. Reasons We Can Collect and Use Your Personal Information</strong></p>
+<p>We rely on your consent and/or our contract to perform services for your employer as the lawful basis on which we collect and use your personal data.&nbsp;</p>
+<p><strong>3. Consequences of Our Use of Your Personal Information</strong></p>
+<p>We would, however, like to use your name and email address to inform you of future offers and similar products and services. This information is not shared with third parties and you can unsubscribe at any time via phone, email or on our website. Please indicate below if this is something you would like to sign up to:<br><a href="https://www.dalecarnegie.com/en/about/contact" target="_blank" rel="noreferrer noopener"> Please send me details about future offers from Dale Carnegie</a>.&nbsp;</p><p><strong>4. Keeping Your Personal Information Secure</strong></p>
+<p>We have appropriate security measures in place to prevent personal information from being accidentally lost, or used or accessed in an unauthorized way. We limit access to your personal information to those who have a genuine business need to know it. Those processing your information will do so only in an authorized manner and are subject to a duty of confidentiality.</p>
+<p>We also have procedures in place to deal with any suspected data security breach. We will notify you and any applicable regulator of a suspected data security breach where we are legally required to do so.</p>
+<p><strong>5. Changes to This Privacy Notice</strong></p>
+<p>This privacy notice was published on May 25, 2018.&nbsp;</p>
+<p>We may change this privacy notice from time to time, when we do we will inform you via updates to this website.</p>
+<p><strong>6. How to Contact Us</strong></p>
+<p>If you wish to contact our Data Protection Officer, please send an email to <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="88f8fae1fee9ebf1c8ece9e4edebe9fae6edefe1eda6ebe7e5">[email&nbsp;protected]</a>, or write to Dale Carnegie &amp; Associates, Inc., 290 Motor Pkwy, Hauppauge, NY 11788, Attn: Privacy.</p>
+<p><strong>7. Do You Need Extra Help?</strong></p>
+<p>If you would like this notice in another format (for example: audio, large print, braille) please contact us (see “How to Contact Us” above).</p><p><br></p>
+<p><strong>SPECIAL NOTICE FOR VISITORS FROM THE EUROPEAN UNION&nbsp;AND INCLUDING THE UNITED KINGDOM (“EEA”)</strong></p>
+<p><strong>General Data Protection Regulation</strong></p>
+<p>When we collect and use personal information about you, we are regulated under the General Data Protection Regulation (“GDPR”) which applies across the European Union (including in the United Kingdom) and we are responsible as controller of that personal information for the purposes of those laws.</p>
+<p><strong>Transfer of Your Information Out of the EEA</strong></p>
+<p>Dale Carnegie &amp; Associates, Inc. is a United States based entity and, as such, any interaction with this website is processed in the United States as well as your country of origin. The Personal Information you provide will be shared with Dale Carnegie employees in the United States, as well as the franchise owners and their employees in your country of origin within the European Union, including the United Kingdom. This is because Dale Carnegie and its franchisees utilize shared software, IT hosting and maintenance, with servers located in the European Union and United States. No third parties have access to your personal information unless the law allows them to do so. We have a Data Protection Program in place to oversee the effective and secure profession of your personal information.</p>
+<p>If you would like further information please contact our Data Protection Officer (see “How to contact us” above). We will not otherwise transfer your personal data outside of the EEA or the United Kingdom or to any organization (or subordinate bodies) governed by public international law or which is set up under any agreement between two or more countries.</p>
+<p><strong>Maintenance of Your Information</strong></p>
+<p>We are required to maintain information provided to us for a period of six (6) years for legal, audit and regulatory purposes. However, if you have provided us with your personal information for marketing purposes (i.e., to send you information about goods and services you may be interested in), you notify us at any time that you no longer wish to be contacted and we will remove you from our records.</p>
+<p><strong>Your Rights</strong></p>
+<p>Under the General Data Protection Regulation you have a number of important rights free of charge. In summary, those include rights to:</p>
+<p>• Fair processing of information and transparency over how we use your use personal information;<br>• Access to your personal information and to certain other supplementary information that this Privacy Notice is already designed to address;<br>• Require us to correct any mistakes in your information which we hold;<br>• Require the erasure of personal information concerning you in certain situations;<br>• Receive the personal information concerning you which you have provided to us, in a structured, commonly used and machine-readable format and have the right to transmit those data to a third party in certain situations;<br>• Object at any time to processing of personal information concerning you for direct marketing;<br>• Object to decisions being taken by automated means which produce legal effects concerning you or similarly significantly affect you;<br>• Object in certain other situations to our continued processing of your personal information; and<br>• Otherwise restrict our processing of your personal information in certain circumstances.</p>
+<p>If you would like to exercise any of those rights, please:</p>
+<p>• Email, call, or write to our Data Protection Officer;<br>• Let us have enough information to identify you (e.g., account number, user name, registration details);<br>• Let us have proof of your identity and address (a copy of your driving license or passport and a recent utility or credit card bill);<br>• Let us know the information to which your request relates; and/or<br>• If you would like to unsubscribe from any email newsletter, you can also click on the unsubscribe button at the bottom of the email newsletter. It may take up to seven (7) days for this to take place.</p>
+<p><br></p>
+<p><em>*In the event of any inconsistencies between the English version of this Policy and any version of this Policy in any other language, the English version shall prevail.</em></p>
+<p><br><br></p>
+    </div>
+  </div>
+</div>
+  </main>
+
+<div class="CookiesPolicy" data-cookies-policy="">
+  <div>This website uses cookies to enhance your browsing experience. For more information view our &nbsp;<a href="/en/privacy-policy">Privacy Policy</a>.</div>
+  <span class="CookiesPolicy__close" data-cookies-policy-close="">✕</span>
+</div>
+
+
+
+<footer class="FooterRevised">
+  <div class="container">
+              <div class="FooterRevised__newsletter">
+        <p class="FooterRevised__newsletter__heading">It's easy to keep current when you get our newsletter</p>
+        <!-- <form action="#" class="FooterRevised__newsletter__form" data-form-card>
+          <input class="FooterRevised__newsletter__input" type="email" placeholder="Enter Email" required>
+          <input class="FooterRevised__newsletter__button" type="submit" value="Continue">
+        </form>
+        <div class="FooterRevised__newsletter__thx" data-form-card-thx>Thank You!</div> -->
+        <div class="FooterRevised__newsletter__cta">
+          <a href="/en/subscribe" class="FooterRevised__newsletter__button FooterRevised__newsletter__button--cta" tabindex="0">Sign Up For Our Newsletter</a>
+          <p class="FooterRevised__newsletter__terms">
+            <a href="/en/privacy-policy" tabindex="0">Privacy Policy</a> | <a href="/en/terms-and-conditions" tabindex="0">Terms &amp; Conditions</a>
+          </p>
+        </div>
+      </div>
+              <div class="FooterWrapper">
+        <div class="FooterRevised__links">
+          <div class="FooterRevised__links__col">
+                      <a href="/en" data-js-locationable="">
+              <img src="/tmp-assets/images/home.svg" alt="Home Page Icon" tabindex="0">
+              <span class="ScreenReader">Home Page</span>
+            </a>
+                    </div>
+          <div class="FooterRevised__links__col">
+            <a href="#" class="FooterRevised__list-name" data-footer-toggle="">Training</a>
+            <div class="FooterRevised__list">
+              <a href="/en/course-finder" class="FooterRevised__list-link">Course Finder</a>
+                            <a href="/en/topics" class="FooterRevised__list-link">Topics</a>
+              <a href="/en/training-types" class="FooterRevised__list-link">Types</a>
+            </div>
+          </div>
+          <div class="FooterRevised__links__col">
+            <a href="/en/approach" class="FooterRevised__list-name" data-footer-toggle="" tabindex="0">Approach</a>
+            <div class="FooterRevised__list">
+              <a href="/en/approach/process" class="FooterRevised__list-link" tabindex="0">Process</a>
+              <a href="/en/approach/heritage" class="FooterRevised__list-link" tabindex="0">Heritage</a>
+              <a href="/en/approach/case-studies" class="FooterRevised__list-link" tabindex="0">Case Studies</a>
+            </div>
+          </div>
+            <div class="FooterRevised__links__col">
+              <a href="/en/about" class="FooterRevised__list-name" data-footer-toggle="" tabindex="0">About</a>
+              <div class="FooterRevised__list">
+                <a href="/en/about/culture" class="FooterRevised__list-link" tabindex="0">Careers</a>
+                <a href="https://dalecarnegiefranchise.com" class="FooterRevised__list-link" tabindex="0">Franchising</a>
+                <a href="/en/about/contact" class="FooterRevised__list-link" tabindex="0">Contact</a>
+                              </div>
+            </div>
+          <div class="FooterRevised__links__col">
+            <a href="/en/resources" class="FooterRevised__list-name" data-footer-toggle="" tabindex="0">Resources</a>
+            <div class="FooterRevised__list">
+              <a href="/en/resources/white-papers" class="FooterRevised__list-link" tabindex="0">White Papers</a>
+              <a href="/en/resources/ebooks" class="FooterRevised__list-link" tabindex="0">eBooks</a>
+                          </div>
+          </div>
+        </div>
+      </div>
+              <div class="FooterRevised__bottom ">
+      <div class="FooterRevised__info">
+        <div class="FooterRevised__social">
+          <div class="SocialButtons ">
+    <a class="SocialButtons__link" href="https://twitter.com/DaleCarnegie" target="_blank" rel="noopener">
+      <svg width="21px" height="17px" viewBox="0 0 21 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+          <g id="Global/Footer/Desktop/Phase-2/No-Log-in" transform="translate(-187.000000, -620.000000)" fill="#FFFFFF">
+            <g id="Social-Icon-Area" transform="translate(172.000000, 603.000000)">
+              <g id="Twitter">
+                <path d="M36,19.0124955 C35.2283853,19.3538462 34.3976052,19.5846876 33.526149,19.6878295 C34.4160944,19.1573853 35.0989611,18.3162875 35.4206727,17.3143373 C34.5874274,17.8054893 33.6666667,18.1628025 32.6830428,18.3543518 C31.899102,17.5206212 30.7786582,17 29.5386512,17 C27.1609438,17 25.231907,18.9216324 25.231907,21.291441 C25.231907,21.6278801 25.2688854,21.9544962 25.342842,22.2688335 C21.762106,22.089563 18.5881317,20.3828097 16.4618771,17.7833875 C16.0908611,18.4194294 15.8788519,19.1573853 15.8788519,19.9432286 C15.8788519,21.4314193 16.6393731,22.745251 17.7955626,23.5151318 C17.0905089,23.4942579 16.4248987,23.2990249 15.8431062,22.9797761 L15.8431062,23.0325749 C15.8431062,25.1126038 17.3284029,26.8475984 19.3005811,27.24052 C18.939426,27.3412062 18.558549,27.3915493 18.165346,27.3915493 C17.8880085,27.3915493 17.6168339,27.3657638 17.3542877,27.3154207 C17.9027998,29.0197183 19.4928685,30.2611051 21.3787639,30.2942579 C19.9045607,31.4460094 18.0457827,32.1323944 16.0279979,32.1323944 C15.6804015,32.1323944 15.3365029,32.1127483 15,32.0734561 C16.9068498,33.2890574 19.1723895,34 21.6043317,34 C29.5300229,34 33.8626519,27.4615385 33.8626519,21.7899603 C33.8626519,21.6033225 33.858954,21.4166847 33.8515584,21.2337306 C34.6934319,20.6283857 35.4243705,19.8732394 36,19.0124955"></path>
+              </g>
+            </g>
+          </g>
+        </g>
+      </svg>
+      <span class="ScreenReader">Twitter</span>
+    </a>
+    <a class="SocialButtons__link" href="https://www.facebook.com/dalecarnegiebrasil/" target="_blank" rel="noopener">
+      <svg width="11px" height="22px" viewBox="0 0 11 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+          <g id="Global/Footer/Desktop/Phase-2/No-Log-in" transform="translate(-262.000000, -617.000000)" fill="#FFFFFF">
+            <g id="Social-Icon-Area" transform="translate(172.000000, 603.000000)">
+              <g id="Facebook" transform="translate(70.000000, 0.000000)">
+                <path d="M27.1399004,36 L27.1399004,25.9648592 L30.3828997,25.9648592 L30.8689078,22.0534866 L27.1399004,22.0534866 L27.1399004,19.5565786 C27.1399004,18.424467 27.4429407,17.6529899 29.0059635,17.6529899 L30.999896,17.6519102 L30.999896,14.1540795 C30.6552721,14.1065707 29.4716995,14.0002159 28.0942435,14.0002159 C25.2197787,14.0002159 23.251316,15.822284 23.251316,19.1694904 L23.251316,22.0534866 L20,22.0534866 L20,25.9648592 L23.251316,25.9648592 L23.251316,36 L27.1399004,36 Z" id="Page-1"></path>
+              </g>
+            </g>
+          </g>
+        </g>
+      </svg>
+      <span class="ScreenReader">Facebook</span>
+    </a>
+    <a class="SocialButtons__link" href="https://www.linkedin.com/edu/dale-carnegie-training-194060" target="_blank" rel="noopener">
+      <svg width="23px" height="21px" viewBox="0 0 23 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+          <g id="Global/Footer/Desktop/Phase-2/No-Log-in" transform="translate(-326.000000, -618.000000)" fill="#FFFFFF">
+            <g id="Social-Icon-Area" transform="translate(172.000000, 603.000000)">
+              <g id="LinkedIn" transform="translate(140.000000, 0.000000)">
+                <path d="M37,36 L31.9166863,36 L31.9166863,28.6176602 C31.9166863,26.6853429 31.121531,25.3662035 29.3730009,25.3662035 C28.0355715,25.3662035 27.2918039,26.2563873 26.9456138,27.1142985 C26.8157926,27.4222322 26.8360771,27.8511878 26.8360771,28.2801434 L26.8360771,36 L21.8000941,36 C21.8000941,36 21.8650047,22.9229045 21.8000941,21.7341999 L26.8360771,21.7341999 L26.8360771,23.9731062 C27.1335842,22.994173 28.7428269,21.5970417 31.3108537,21.5970417 C34.4968838,21.5970417 37,23.6490363 37,28.0676827 L37,36 L37,36 Z M16.7073142,19.9497983 L16.6748589,19.9497983 C15.0520931,19.9497983 14,18.8592559 14,17.4769162 C14,16.0676827 15.0831961,15 16.7384172,15 C18.392286,15 19.4092192,16.0649933 19.4416745,17.4728821 C19.4416745,18.8552219 18.392286,19.9497983 16.7073142,19.9497983 L16.7073142,19.9497983 L16.7073142,19.9497983 Z M14.5801388,21.7341999 L19.0630292,21.7341999 L19.0630292,36 L14.5801388,36 L14.5801388,21.7341999 L14.5801388,21.7341999 Z"></path>
+              </g>
+            </g>
+          </g>
+        </g>
+      </svg>
+      <span class="ScreenReader">LinkedIn</span>
+    </a>
+    <a class="SocialButtons__link" href="https://www.youtube.com/channel/UC4q6lWtDt36ZdGvZsntJ5HQ" target="_blank" rel="noopener">
+      <svg width="26px" height="18px" viewBox="0 0 26 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+          <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+              <g id="Global/Footer/Desktop/Phase-2/No-Log-in" transform="translate(-394.000000, -619.000000)" fill="#FFFFFF">
+                  <g id="Social-Icon-Area" transform="translate(172.000000, 603.000000)">
+                      <g id="Youtube" transform="translate(210.000000, 0.000000)">
+                          <path d="M22.3155,28.3193673 L22.3146875,21.1288044 L29.3395625,24.736482 L22.3155,28.3193673 Z M37.74,19.882792 C37.74,19.882792 37.4856875,18.1193406 36.7065,17.3427822 C35.7176875,16.3230995 34.6094375,16.318301 34.101625,16.2591194 C30.46325,16 25.0056875,16 25.0056875,16 L24.9943125,16 C24.9943125,16 19.53675,16 15.898375,16.2591194 C15.38975,16.318301 14.2823125,16.3230995 13.2926875,17.3427822 C12.5135,18.1193406 12.26,19.882792 12.26,19.882792 C12.26,19.882792 12,21.9541476 12,24.0247034 L12,25.9664993 C12,28.0378549 12.26,30.1084107 12.26,30.1084107 C12.26,30.1084107 12.5135,31.8718621 13.2926875,32.6484205 C14.2823125,33.6681033 15.5815,33.6361132 16.16,33.7424801 C18.24,33.9392189 25,34 25,34 C25,34 30.46325,33.9920025 34.101625,33.7328831 C34.6094375,33.6729018 35.7176875,33.6681033 36.7065,32.6484205 C37.4856875,31.8718621 37.74,30.1084107 37.74,30.1084107 C37.74,30.1084107 38,28.0378549 38,25.9664993 L38,24.0247034 C38,21.9541476 37.74,19.882792 37.74,19.882792 L37.74,19.882792 Z"></path>
+                      </g>
+                  </g>
+              </g>
+          </g>
+      </svg>
+      <span class="ScreenReader">YouTube</span>
+    </a>
+  </div>
+        </div>
+        <div class="FooterRevised__meta">
+          ©2018 Dale Carnegie &amp; Associates, Inc., All Rights Reserved.
+        </div>
+      </div>
+      <div class="FooterRevised__logo">
+
+                  <a href="/en" data-js-locationable="">
+            <img src="/tmp-assets/images/logo-footer.svg" alt="Dale Carnegie Logo">
+            <span class="ScreenReader">Dale Carnegie Logo</span>
+          </a>
+              </div>
+    </div>
+  </div>
+  <!-- <div class="Footer__backlink">
+          <a data-return-click id="return_link" class="Footer__link" href="https://www.dalecarnegie.com">Return to the classic dalecarnegie.com</a>
+      </div> -->
+</footer>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAdqhzEKCgZEB1O1aXE4-Cnmvoiwnf-YbQ"></script>
+<script src="/dist/vendor.js?2.56.14"></script>
+<script src="/dist/bundle.js?2.56.14"></script>
+
 <script type="text/javascript">
-document.write(unescape("%3Cscript%20src='"+
-(document.location.protocol=='https:'?
-"https://clicktalecdn.sslcs.cdngc.net/www08/ptc/c9933787-7ea6-4563-bf42-33a80c762cac.js":
-"http://cdn.clicktale.net/www08/ptc/c9933787-7ea6-4563-bf42-33a80c762cac.js")+"'%20type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://clicktalecdn.sslcs.cdngc.net/www08/ptc/c9933787-7ea6-4563-bf42-33a80c762cac.js" type="text/javascript"></script>
-<!-- ClickTale end of Bottom part -->
-<script type="text/javascript">
-//<![CDATA[
-(function() {
-var _analytics_scr = document.createElement('script');
-_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1402746869';
-var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
-})();
-// ]]>
+  (function (d, t) {
+  var bh = d.createElement(t), s = d.getElementsByTagName(t)[0];
+  bh.type = 'text/javascript';
+  bh.src = 'https://www.bugherd.com/sidebarv2.js?apikey=qw5a67u50ttqxjmie8l4ua';
+  s.parentNode.insertBefore(bh, s);
+  })(document, 'script');
 </script>
 </body></html>
