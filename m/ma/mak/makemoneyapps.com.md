@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the makemoneyapps.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202092217id_/http%3A//www.thebillionaire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makemoneyapps.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904051426id_/https%3A//dotthis.com/pages/private-policy) for the most accurate reproduction.*
 
-# Privacy Policy - THEBILLIONAIRE
+# Privacy – DotThis
 
-Last updated: March 4, 2013
+**Privacy Policy**
 
-This Privacy Policy applies to thebillionaire.com (“Website”), which is operated by Tricraft LLC (its subsidiary and affiliate corporations, successors, and assigns collectively referred to as “Tricraft”).  Throughout this Privacy Policy (“Policy”) the words “we,” “us,” and “our” refer to Tricraft and its corporate affiliates. By accessing or using this Website or by registering as a member of this Website, you consent to the use of your Personal Data (defined below) as described in this Policy. This Policy applies to all users of the Website, including users who are also registered members. If you are unwilling to consent to our collection and use of your Personal Data as described in this Policy or to accept the terms in the Terms of Use that apply to use of the Website, you should not use the Website. We may revise this Policy at any time by updating the Website.
+Last updated: November 27, 2016
+
+This Privacy Policy applies to dotthis.com (“Website”), which is operated by Tricraft LLC (its subsidiary and affiliate corporations, successors, and assigns collectively referred to as “Tricraft”).  Throughout this Privacy Policy (“Policy”) the words “we,” “us,” and “our” refer to Tricraft and its corporate affiliates. By accessing or using this Website or by registering as a member of this Website, you consent to the use of your Personal Data (defined below) as described in this Policy. This Policy applies to all users of the Website, including users who are also registered members. If you are unwilling to consent to our collection and use of your Personal Data as described in this Policy or to accept the terms in the Terms of Use that apply to use of the Website, you should not use the Website. We may revise this Policy at any time by updating the Website.
 
 At Tricraft, the privacy of our visitors is of extreme importance to us. This Privacy Policy document outlines the types of personal information is received and collected by Tricraft and how it is used.
 
@@ -52,17 +54,17 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 You post User Submissions (as defined in and governed by the Tricraft Terms of Use) on the Website at your own risk. We cannot control the actions of other users with whom you may choose to share your Personal Data. We cannot and do not guarantee that User Submissions you post on the Website will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Website. You understand and acknowledge that, even after removal, copies of User Submissions may remain viewable in cached and archived pages or if other users have copied or stored your User Submissions.
 
-Any improper collection or misuse of Personal Data provided on the Website is a violation of the Tricraft Terms of Use and should be reported to [support@tricraft.com](mailto:support@tricraft.com).
+Any improper collection or misuse of Personal Data provided on the Website is a violation of the Tricraft Terms of Use and should be reported to [support at tricraft.com](mailto:support@tricraft.com).
 
 **Children’s Personal Information**
 
 Consistent with the Children’s Online Privacy Protection Act:
 
-•           This site does NOT collect, use, or disclose personal information (including online contact information) of children under the age of 13.
+  * This site does NOT collect, use, or disclose personal information (including online contact information) of children under the age of 13.
+  * In the event that a child under the age of 13 attempts to register on our site, we will NOT accept the registration and will delete information received from the child.
+  * In the event that a child posts personal information in a public forum such as a chat room, we will attempt to delete that information once we become aware of it.
 
-•           In the event that a child under the age of 13 attempts to register on our site, we will NOT accept the registration and will delete information received from the child.
 
-•           In the event that a child posts personal information in a public forum such as a chat room, we will attempt to delete that information once we become aware of it.
 
 **General Information**
 
@@ -87,5 +89,5 @@ If you have any questions or suggestions regarding this Policy, please contact T
 Tricraft LLC  
 4636 Lebanon Pike #152  
 Hermitage TN 37076  
-phone: 615.307.0466  
-email: [support@tricraft.com](mailto:support@tricraft.com)
+phone: 615 307 0466  
+email: [support at tricraft.com](mailto:support@tricraft.com)
