@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitwords.com privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502133846id_/http%3A//bitwords.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitwords.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904203148id_/http%3A//bitwords.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy Bitwords Media NYC
 
