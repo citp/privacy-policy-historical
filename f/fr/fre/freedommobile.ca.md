@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freedommobile.ca privacy policy that was archived on 2018-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180110211444id_/https%3A//www.freedommobile.ca/accessibility-and-terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedommobile.ca privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904032409id_/https%3A//www.freedommobile.ca/accessibility-and-terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Effective as of November 14, 2017**
+**Last updated  November 14, 2017**
 
 ### Purpose and Application
 
@@ -119,7 +119,6 @@ You may:
   * • refuse to provide us with your Personal Information;
   * • ask us for access to Personal Information that we hold about you;
   * • ask us for information about our policies and procedures relative to the management of Personal Information
-  * • ask us for access to Personal Information that we hold about you;
   * • ask us to correct any inaccuracies or omissions in your Personal Information; or
   * • ask us to remove Personal Information we possess, subject to reasonable notice, existing legal or regulatory obligations and our reasonable business requirements
 
