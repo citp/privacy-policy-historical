@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the culturekings.com.au privacy policy that was archived on 2018-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180201194730id_/https%3A//www.culturekings.com.au/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the culturekings.com.au privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904093954id_/https%3A//www.culturekings.com.au/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Culture Kings
+# Privacy Policy - Culture Kings
 
 ## WHAT INFORMATION DO WE COLLECT?
 
