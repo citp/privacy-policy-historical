@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easybitsmedia.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104023740id_/http%3A//www.gamexn.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easybitsmedia.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904150826id_/http%3A//www.gamexn.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | GameXN
 
