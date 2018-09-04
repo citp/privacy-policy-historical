@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icecat.biz privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131152321id_/https%3A//icecat.biz/en/menu/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icecat.biz privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904051528id_/https%3A//icecat.biz/en/menu/privacy/index.html) for the most accurate reproduction.*
 
 # Icecat Privacy Policy
 
