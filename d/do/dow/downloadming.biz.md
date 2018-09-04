@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadming.biz privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501111925id_/http%3A//www.downloadming.biz/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadming.biz privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904064317id_/http%3A//www.downloadming.biz/privacy.html) for the most accurate reproduction.*
 
 # Downloadming - Privacy Policy | www.downloadming.biz
 
