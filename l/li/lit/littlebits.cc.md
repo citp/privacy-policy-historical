@@ -1,159 +1,441 @@
-> *The following text is extracted and transformed from the littlebits.cc privacy policy that was archived on 2018-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180112092503id_/https%3A//littlebits.cc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlebits.cc privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904072734id_/https%3A//littlebits.com/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy
+# privacy notice
 
-**Version 2.0**
+Your California Privacy Rights
 
-**Last Revised: August 23, 2017**
+We at littleBits Electronics Inc. have created this Privacy Notice to explain how we collect, use, disclose and otherwise process personal information in connection with operating our business. 
 
-littleBits Electronics Inc. (“ **littleBits** ” or “ **we** ” or “ **us** ” or “ **our** ”) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the information we collect from users of our website, located at littleBits.cc, our mobile applications (each such application, an “ **Application** ”), and our widgets (our website, Applications and widgets, collectively, the “ **Site** ”) and online services (“ **Services** ”).
+Email us at [privacy@littleBits.com](mailto:privacy@littleBits.com) if you have questions about our Privacy Notice.                            tell me more
 
-**1\. Questions; Contacting littleBits; Reporting Violations**. If you have any questions or concerns or complaints about our Privacy Policy or our data collection or processing practices, or if you want to report any security violations to us, please contact us at the following address or phone number:
+**How We Collect Information          **tell me more
 
-littleBits Electronics Inc.  
-_Attn_ : Customer Service  
-601 W. 26th Street, Suite M274  
-New York, New York, 10001  
-(917) 464-4577  
-[info[AT]littleBits.cc ](https://web.archive.org/cdn-cgi/l/email-protection#6801060e072804011c1c040d0a011c1b460b0b571b1d0a020d0b1c554d5a5a27060401060d4d5a58381a011e090b114d5a5a)
+We collect information by various means, including:
 
-**2\. User Consent.  **By visiting the Site or using our Services, you agree to the terms of this Privacy Policy and you expressly consent to the collection, use, and disclosure of your information in accordance with this Privacy Policy.
+•   directly from you
 
-**3\. A Note About Children.** We do not intentionally gather Personal Data (as defined below) from visitors who are under the age of 13. If a child under 13 submits Personal Data to littleBits and we learn that the Personal Data is the information of a child under 13, we will attempt to delete the information as soon as possible. If you believe that we might have any Personal Data from a child under 13, please contact us at [info[AT]littleBits.cc](https://web.archive.org/cdn-cgi/l/email-protection#c3aaada5ac83afaab7b7afa6a1aab7b0eda0a0fcb0b6a1a9a6a0b7fee6f1f18cadafaaada6e6f1f393b1aab5a2a0bae6f1f1).
+•   from our vendors and business partners 
 
-**4\. A Note to Users Outside of the United States.** ** _If you are located outside the U.S., by visiting the Site or using our Services and providing us with your Personal Data, you acknowledge and agree that your Personal Data may be processed (1) for the purposes identified in the Privacy Policy and (2) in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personal Data may be less stringent than the laws in your country. By providing your Personal Data, you consent to such transfer._**
+•   from social media 
 
-littleBits complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Data transferred from the European Union to the United States. We have certified to the Department of Commerce that we adhere to the Privacy Shield Principles. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall take precedence. To learn more about the Privacy Shield program, the Privacy Shield Principles and to view our certification, please visit [www.privacyshield.gov](https://www.privacyshield.gov/).
+|  | 
 
-As described in the [Privacy Shield Principles](https://www.privacyshield.gov/article?id=Requirements-of-Participation), littleBits is accountable for Personal Data that it receives and subsequently transfers to third parties.  If third parties that process Personal Data on our behalf do so in a manner that does not comply with the Privacy Shield Principles, we are accountable, unless we prove that we are not responsible for the event giving rise to the damage.
+**Personal Information We Collect       **tell me more
 
-Should you feel that we have not complied with the Privacy Shield principles and the handling of your personal data and we have not been able to remedy your complaint ourselves, you may wish to contact JAMS who is our nominated alternative dispute resolution provider. To obtain more information or to file a complaint, please visit https://www.jamsadr.com/eu-us-privacy-shield.
+The information we collect may include:
 
-As further explained in the Privacy Shield Principles, binding arbitration will also be made available to you in order to address residual complaints not resolved by any other means. littleBits is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
+•   contact and demographic information
 
-**5\. Types of Data We Collect.** “ **Personal Data** ” means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data. “ **Anonymous Data** ” means data that is not associated with or linked to your Personal Data; Anonymous Data does not, by itself, permit the identification of individual persons. We collect Personal Data and Anonymous Data, as described below.
+•   other details you choose to provide when communicating with us or participating in events, surveys and other promotions
 
-**(a)** **Information You Provide to Us.**
+•  site usage information, cookies and other information we collect by automated means  
+  
+---|---|---  
+  
+**How We Use Your Information     **tell me more
 
-  * We may collect information from you, such as your first and last name, gender, e-mail and mailing addresses, professional title, company name, and password when you create an account to log in to our network (“ **Account** ”).
-  * If you use our Services on your mobile device, including through one or more of our Applications, we may collect your phone number and the unique device ID number.
-  * If you tell us where you are (for example, by allowing your mobile device to send us your location), we may store and use that information to provide you with location-based information and advertising. If you want to deactivate this feature, you can either uninstall the applicable Application or Applications or deactivate GPS on your mobile device.
-  * Our mobile homepage lets you store preferences like your location. We may associate these choices with your ID or the mobile device, and you can edit these preferences at any time on our mobile homepage.
-  * When connecting to our Services via a service provider that uniquely identifies your mobile device, we may receive this identification and use it to offer extended services and/or functionality.
-  * Certain Services may require our collection of your phone number. We may associate that phone number to your mobile device identification information.
-  * When you order products or services on our Site, we will collect all information necessary to complete the transaction, including your name, credit card information, billing information and shipping information. This information may be shared with third parties who will help process and fulfill your purchases. When you submit credit card numbers, that information is encrypted by our payment processor using industry standard technology.
-  * We retain information on your behalf, such as files and messages that you store using your Account.
-  * If you provide us feedback or contact us via e-mail, we will collect your name and e-mail address, as well as any other content included in the e-mail, in order to send you a reply.
-  * When you post content (text, images, photographs, messages, comments or any other kind of content that is not your e-mail address) on our Site, the information contained in your posting will be stored in our servers and other users will be able to see it, along with your profile photo and any other information that you choose to make public on your public profile page (“ **Profile** ”). The information that you provide in your Profile will be visible to others, including anonymous visitors to the Site.
-  * When you post messages on the message boards of our Site, the information contained in your posting will be stored on our servers and other users will be able to see it.
-  * When you participate in one of our surveys, we may collect additional profile information.
-  * We also collect other types of information that you provide to us voluntarily, such as your computing device operating system and version, product registration number, and other requested information if you contact us via e-mail regarding support for the Services.
-  * If you participate in a sweepstakes, contest, or giveaway on our Site, we may ask you for your e-mail address and/or home number (to notify you if you win or not). We may also ask for first and last names, and sometimes post office addresses to verify your identity. In some situations we may need additional information as a part of the entry process, such as a prize selection choice. These sweepstakes and contests are voluntary. We recommend that you read the rules for each sweepstakes and contest that you enter.
-  * We may also collect Personal Data on other parts of our Site that state that Personal Data is being collected.
+** ** We use the information we collect to: 
 
+•   operate our business 
 
+•   support research and academic pursuits
 
-**(b)** **Information You Provide to** **Facebook and other Social Networking Sites (“SNSs”).** The Site and certain Services allow users to access Facebook to interact with friends and to share on Facebook, including through the Facebook Wall and friends’ News Feeds. If you are already logged into the Services and Facebook or another SNS, when you click on “Connect with Facebook,” or a similar connection on another SNS, you will be prompted to merge your profiles. If you are already logged into the Site or Services but not logged into Facebook or another SNS that we support, when you click on “Connect with Facebook,” or a similar connection on another SNS, you will be prompted to enter your SNS credentials or to “Sign Up” for the SNS. By proceeding, you are allowing the Site and Services to access your information and you are agreeing to the Facebook or other SNS’ Terms of Use in your use of the Site and Services. Conversely, if you are not currently registered as a user of the Site or Services, and you click on “Sign in” using Facebook or another SNS that we support, you will first be asked to enter your Facebook or SNS credentials and then be given the option to register for the Site or Services. In this case, we may receive information from Facebook or another SNS to make it easier for you to create an Account on the Site or Services and show our relevant content from your Facebook or SNS friends. Once you register on the Site or Services and connect with Facebook or another SNS, you will be able to automatically post recent activity back to Facebook or the other SNS. Any information that we collect from your Facebook or other SNS account may depend on the privacy settings you have with that SNS, so please consult the SNS’s privacy and data practices.
+•   analyze the use of, improve, and promote our products and services 
 
-**(c)** **Information Collected via Technology.**
+•  comply with laws, rules and our policies
 
-  * **Information Collected by Our Servers.** To make our Site and Services more useful to you, our servers (which may be hosted by a third party service provider) collect information from you, including your browser type, operating system, Internet Protocol (“ **IP** ”) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, and/or a date/time stamp for your visit.
-  * **Log Files.** As is true of most websites, our Site and Services gather certain information automatically and store it in log files. This information includes IP addresses, browser type, Internet service provider (“ **ISP** ”), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to analyze trends, administer the Site and Services, track users’ movements around the Site and Services, gather demographic information about our user base as a whole, and better tailor our Site and Services to our users’ needs. For example, some of the information may be collected so that when you visit the Site or the Services again, it will recognize you and the information could then be used to serve advertisements and other information appropriate to your interests. Except as noted in this Privacy Policy, we do not link this automatically-collected data to Personal Data.
-  * **Cookies.** Like many online services, our Site and Services use cookies to collect information. “ **Cookies** ” are small pieces of information that a website sends to your computer’s hard drive while you are viewing the website. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site. This type of information is collected to make the Site more useful to you and to tailor your experience with us to meet your special interests and needs.
-  * **Pixel Tags.** We use “ **Pixel Tags** ” (also referred to as clear GIFs, web beacons, or web bugs). Pixel Tags are tiny graphic images with a unique identifier, similar in function to Cookies, that are used to track online movements of website users. In contrast to Cookies, which are stored on a user’s computer hard drive, Pixel Tags are embedded invisibly in web pages. Pixel Tags also allow us to send e-mail messages in a format users can read, and they tell us whether e-mails have been opened to ensure that we are sending only messages that are of interest to our users. We may use this information to reduce or eliminate messages sent to a user.
-  * **How We Respond to Do Not Track Signals. We do not currently respond to “do not track” signals or other mechanisms that might enable users to opt out of tracking on our site.**
-  * **Flash LSOs.** When we post videos, third parties may use local shared objects, known as “ **Flash Cookies** ,” to store your preferences for volume control or to personalize certain video features. Flash Cookies are different from browser Cookies because of the amount and type of data and how the data is stored. Cookie management tools provided by your browser will not remove Flash Cookies. To learn how to manage privacy and storage settings for Flash Cookies, click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>.
-  * **Mobile Services.** We may also collect non-personal information from your mobile device if you have downloaded one or more of our Applications. This information is generally used to help us deliver the most relevant information to you. Examples of information that may be collected and used include your geographic location, how you use each Application, and information about the type of device you use. In addition, if one or more of our Applications crash on your mobile device, we will receive information about your mobile device model software version and device carrier, which allows us to identify and fix bugs and otherwise improve the performance of our Applications. This information is sent to us as aggregated information and is not traceable to any individual and cannot be used to identify an individual.
-  * **Analytics Services and Interest-Based Advertising.** In addition to the tracking technologies we place, other Persons may set their own cookies or similar tools when you visit our Site. This includes third party analytics services, including Google Analytics (all such analytics services, “ **Analytics Services** ”), that we engage to help analyze how users use the Site and Services, as well as third parties that deliver content or offers. We may receive reports based on these parties’ use of these tools on an individual or aggregate basis. We use the information we get from Analytics Services only to improve our Site and Services. The information generated by the Cookies or other technologies about your use of our Site and Services (all such information, the “ **Analytics Information** ”) is transmitted to the Analytics Services. The Analytics Services use Analytics Information to compile reports on user activity. The Analytics Services may also transfer information to third parties where required to do so by law, or where such third parties process Analytics Information on their behalf. Each Analytics Services’ ability to use and share Analytics Information is restricted by such Analytics Services’ Terms of Use and Privacy Policy. By using our Site and Services, you consent to the processing of data about you by Analytics Services in the manner and for the purposes stated above. For a full list of Analytics Services, please contact us at support[AT]littleBits.cc. We may also partner with advertising companies to support our marketing efforts, including by serving you advertisements better tailored to your likely interests. If you don’t want to take advantage of these services, you may be able to opt-out by visiting <http://www.aboutads.info/> or <http://networkadvertising.org/choices/>, or if you are located in the EU, <http://www.youronlinechoices.eu/>.
+|  | 
 
+**Information Sharing                             **tell me more
 
+We may share the information we collect:
 
-**(d)** **Information Collected from You About Others**. If you decide to invite a third party to create an Account, we will collect your and the third party’s names and e-mail addresses in order to send an e-mail and follow up with the third party. We rely upon you to obtain whatever consents from the third party that may be required by law to allow us to access and upload the third party’s names and e-mail addresses as required above. You or the third party may contact us at support[AT]littleBits.cc to request the removal of this information from our database.
+•   within our company
 
-**(e)** **Facebook ID.** We allow you to use your Facebook login to set up an Account. If you wish to use your Facebook account you are taken to the Facebook website to login to your Facebook account and this information is then shared with us for the sole purpose of setting up your Account.
+•   with our service providers and business partners
 
-**(f)** **Information Collected from Third Parties.** We may receive Personal and/or Anonymous Data about you from third parties that provide our Services by way of a co-branded or private-labeled website or companies that offer their products and/or services on our Site. These third parties may supply us with Personal Data. We may add this information to the information we have already collected from you via our Site in order to improve the Services we provide.
+•   as required by laws, rules and our policies
 
-**(g)** **Location Information.** If you have enabled location services on your mobile device, we collect your location information to make a map available to the recipients of your messages showing your location. If you do not want this information collected by us, you can disable location services on your mobile device.
+•  in connection with a merger, acquisition or another corporate transaction  
+  
+---|---|---  
+  
+We at littleBits Electronics Inc. have created this Privacy Notice to explain how we collect, use, disclose and otherwise process personal information in connection with operating our business. This Privacy Notice describes the privacy practices of littleBits Electronics Inc. and its subsidiaries and affiliates (collectively referred to as, "littleBits", "we", "us" or "our"). 
 
-**6\. Use of Your Personal Data**
+This Privacy Notice applies to [www.littleBits.com](http://www.littlebits.com/), other littleBits sites, mobile apps, social media features and other online services (each referred to herein as a "Site"). This Privacy Notice describes how we collect, use, disclose and otherwise process personal information, and explains the rights and choices available to individuals with respect to their personal information.
 
-**(a)** **General Use.** In general, Personal Data you submit to us is used either to respond to requests that you make, or to aid us in serving you better. We use your Personal Data in the following ways:
+We may provide additional privacy notices to individuals at the time we collect their data. This type of an "in-time" notice will govern how we may process the information you provide at that time. 
 
-  * facilitate the creation of and secure your Account on our network;
+**Click on the links below to jump directly to sections of the Privacy Notice:**
 
+•      **Personal Information We Collect**
 
-  * identify you as a user in our system;
+  * How we collect personal information
+  * Types of personal information we collect
+  * Location information
+  * Site usage information, cookies and other information collected by automated means
+  * Information you provide about others 
 
 
-  * provide improved administration of our Site and Services;
 
+•      **Our Use of personal information**
 
-  * provide the Services you request;
+•      **How We May Share Information about You with Others**
 
+•      **Do Not Track Disclosures**
 
-  * improve the quality of experience when you interact with our Site and Services;
+•      **Social Networking**
 
+•      **Mobile Apps**
 
-  * send you a welcome e-mail to verify ownership of the e-mail address provided when your Account was created;
+•      **Payment and Third-Party Payment Processors**
 
+•       **Information for Individuals in the European Economic Area and the United Kingdom**
 
-  * send you administrative e-mail notifications, such as security or support and maintenance advisories;
+o   Legal basis for processing data
 
+o   International data transfers
 
-  * respond to your inquiries related to employment opportunities or other requests;
+o   EU-U.S. Privacy Shield
 
+•      **Online Privacy Choices**
 
-  * make telephone calls to you, on one or more occasions, as a part of secondary fraud protection or to solicit your feedback; and
+•       Opt In and Opt Out
 
+•       Third-party advertising servers and networks
 
-  * send newsletters, surveys, offers, and other promotional materials related to our Services and for other marketing purposes of littleBits.
+•       Marketing emails
 
+•       Location information
 
+•       Sharing information with third parties
 
-**(b)**   **User Testimonials and Feedback.** We often receive testimonials and comments from users who have had positive experiences with our Services. We occasionally publish such content. When we publish this content, we may identify our users by their first and last name and may also indicate their home city. We obtain the user’s consent before posting the user’s name along with the testimonial. We may post user feedback on the Site on one or more occasions. We will share your feedback with your first name and last initial only. If we choose to post your first and last name along with your feedback, we will obtain your consent before posting your name with your feedback. If you make any comments on a blog or forum associated with our Site or Services, you should be aware that any Personal Data you submit there can be read, collected, or used by other users of those blogs or forums, and could be used to send you unsolicited messages. We are not responsible or liable for the Personal Data you choose to submit on these blogs and forums.
+•       Your California privacy rights
 
-**(c)** **Creation of Anonymous Data.** We may create Anonymous Data records from Personal Data by excluding information (such as your name) that makes the data personally identifiable to you. We use this Anonymous Data to analyze request and usage patterns so that we may enhance the content of our Site and Services and improve Site and Services navigation. We may use Anonymous Data for any purpose and disclose Anonymous Data to third parties at our discretion.
+•       Additional international privacy preferences and rights
 
-**7\. Disclosure of Your Personal Data.** We disclose your Personal Data as described below and as described elsewhere in this Privacy Policy.
+•      **Data Retention**
 
-**(a)** **Third Parties Designated by You.** When you use the Services, the Personal Data you provide will be shared with the third parties that you designate to receive such information, including other websites, your friends, relatives, and business associates. Depending on the type of access you grant to such third parties, they may also be permitted to edit the information you have provided to us and to designate others to access and edit such information. You may change your settings at any time as to who has access to your information by going to your account settings and changing your publishing options.
+•      **How We Protect Personal Information**
 
-**(b)** **Users.** We share your Personal data with other Services users solely for the purpose of providing the Services.
+•      **Links to Websites and Third-Party Content**
 
-**(c)** **Non-littleBits Service Providers.** We may share your Personal Data with non-littleBits service providers to: provide you with the Services that we offer you through our Site; to conduct quality assurance testing; to facilitate creation of accounts; to provide technical support; and/or to provide other services to littleBits. These non-littleBits service providers are required not to use your Personal Data other than to provide the services requested by littleBits.
+•      **Updates to Our Privacy Notice**
 
-**(d)** **Affiliates**. We may share your Personal Data with our parent company, subsidiaries, joint venturers, or other entities under common control with us (collectively, “ **Affiliates** ”), in which case we will require those Affiliates to comply with this Privacy Policy. ‘
+•      **How to Contact Us**
 
-**(e)** **Partners**. We may provide your Personal Data to trusted partners who work with us or on our behalf and are subject to confidentiality agreements.
+**Personal Information We Collect**
 
-**(f)** **Corporate Restructuring.** We may share your Personal Data in connection with or during negotiation of any merger, financing, acquisition or dissolution transaction, or proceeding involving the sale, transfer, divestiture, or disclosure of any part of our business or assets. In the event of our insolvency, bankruptcy, or receivership, Personal Data may also be transferred as a business asset. If a third party acquires our company, business, or assets, that third party will possess the Personal Data collected by us and will assume the rights and obligations regarding your Personal Data as described in this Privacy Policy.
+_How we collect personal information_
 
-**(g)** **Social Networking Sites.** Some of our Applications and Services may enable you to post content to SNSs (for example, Facebook or Twitter). If you choose to do this, we will provide information to those SNSs in accordance with your elections. You acknowledge and agree that you are solely responsible for your use of those SNSs and that it is your responsibility to review the terms of use and privacy policy of the provider of those SNSs. We are not responsible or liable for: (1) the availability or accuracy of any such SNSs; (2) the content, products, or services on or availability of any such SNSs; or (3) your use of any such SNSs.
+We may obtain personal information from various sources, including our Sites, other sites with which we collaborate, when you call or email us or communicate with us (including through social media), public forums, or when you participate in events, surveys or other promotions.
 
-**(h)** **Public Profile.** Certain parts of the information you provide to us may also be displayed in your Profile. As an essential element of the Site and Services, most of the Personal Data you provide to us when you register or update your Profile is displayed on your Profile. By default, your Profile is public. Your photos, posts, friends, and other content you post to the Site or Services are also meant for public consumption. We may display this content on the Site and Services and further distribute it to a wider audience through third party sites and services. Once displayed on publicly viewable web pages, that information can be collected and used by others. We cannot control who reads your postings or what other users may do with the information that you voluntarily post, so it is very important that you do not put Personal Data in your posts. Once you have posted information publicly, while you will still be able to edit and delete select information on the Site or Services, you will not be able to edit or delete any of such information cached, collected, and stored elsewhere by others (for example, search engines).
+We also may obtain information about you (including personal information) from our vendors and business partners, such as resellers, educational institutions (to the extent permitted by applicable law) and others. 
 
-**(i)** **Other Disclosures**. Regardless of any choices you make regarding your Personal Data (as described below), littleBits may disclose Personal Data if it believes in good faith that such disclosure is necessary (1) in connection with any legal investigation; (2) to comply with applicable laws or to respond to subpoenas or warrants served on littleBits; (3) to protect or defend the rights or property of littleBits or users of the Site or Services; and/or (4) to investigate or assist in preventing any violation or potential violation of law, this Privacy Policy, or our [Terms of Use](http://littlebits.cc/terms-of-use).
+You may choose not to provide some or all of your personal information to us, but doing so may prevent us from providing our services to you or limit our ability to provide you with the level of service that you would otherwise expect from us.
 
-**8\. Third Party Websites.** The Site and one or more Services may contain links to third party websites. When you click on a link to any other website or location, you will leave the Site or applicable Service and go to another site, and a third party may collect Personal Data or Anonymous Data from you. We have no control over, do not review, and are not responsible or liable for, these third party websites or their content. Please be aware that the terms of this Privacy Policy do not apply to these third party websites or their content, or to any collection of your Personal Data after you click on links to any such third party websites. We encourage you to read the privacy policies of every website you visit. The links to third party websites or locations are provided merely as a convenience and do not signify or imply our endorsement of, or association with, such third parties or their products, services, content, or websites. You use any such links and the products, services, and content accessed thereby at your own discretion and at your own risk.
+_Types of personal information we collect_
 
-**9\. Your Choices Regarding Information** **.** You have several choices regarding the use of information on our Site and Services:
+We may collect the following information about you: 
 
-**(a)** **Email Communications.** We will periodically send you free newsletters and e-mails that directly promote the use of our Site or Services. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly (please see our contact information above). Despite your indicated e-mail preferences, we may send you Services-related communications, including notices of any updates to our [Terms of Use](http://littlebits.cc/terms-of-use) or Privacy Policy.
+•       name 
 
-**(b)** **Cookies.** If you decide at any time that you no longer wish to accept Cookies from our Site or one or more of our Services for any of the purposes described above, then you can instruct your browser, by changing its settings, to stop accepting Cookies or to prompt you before accepting a Cookie from the websites you visit. Consult your browser’s technical information. If you do not accept Cookies, however, you may not be able to use all parts of the Site or applicable Services or all functionality of the applicable Services. If you have any questions about how to disable or modify Cookies, please contact us at the contact information provided below.
+•       age or date of birth 
 
-**(c)** **De-Linking SNS.** You may manage the sharing of certain Personal Data with us when you connect with us through an SNS, such as through Facebook Connect. Please refer to the privacy settings of the applicable SNS to determine how you may adjust our permissions and manage the interactivity between the Services and your SNS account or mobile device.
+•       postal address; e-mail address; telephone number 
 
-**(d)** **Changing Your Personal Data.** You may review, update, or correct the Personal Data in your Account (including any imported contacts) by editing your profile via the Services. We will use commercially reasonable efforts to comply with your request. We may retain an archived copy of your records as required by law or for legitimate business purposes.
+•       littleBits or social media screen name or username
 
-**(e)** **Applications.** You can stop all collection of information by an Application by uninstalling that Application. You may use the standard uninstall processes available as part of your mobile device or via the applicable mobile application marketplace or network.
+•       photograph or photographs you may provide to the Site or through social media 
 
-**10\. Security of Your Personal Data.**
+•       social media handle 
 
-  * For online payments and/or Automated Clearing House (ACH) payouts, we use the payment services of Braintree (https://www.braintreepayments.com/). We do not process, record, or maintain your credit card or bank account information. For more information on how payments are handled, or to understand the data security and privacy afforded such information, please refer to https://www.braintreepayments.com/.
-  * littleBits is committed to protecting the security of your Personal Data. We use a variety of industry-standard security technologies and procedures designed to help protect your Personal Data from unauthorized access, use, or disclosure. We also require you to enter a password to access your Account information. Please do not disclose your Account password to unauthorized people. No method of transmission over the internet, or method of electronic storage, is 100% secure, however. Therefore, while littleBits uses reasonable efforts to protect your Personal Data, littleBits cannot guarantee its absolute security.
+•       gender 
 
+•       geolocation information 
 
+•       payment card and other payment information 
 
-**11\. Changes to This Privacy Policy.** This Privacy Policy may be updated on one or more occasions for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here: http://littlebits.cc/privacy-policy and we will change the “Last Updated” date above. You should consult this Privacy Policy regularly for any changes.
+•       information about your family, interests, hobbies and demographic information 
+
+_Location information_
+
+We may also automatically receive your device’s location or other information when you use our services or services linked to our Site (including our mobile applications, or when you submit a photo or other materials that contain geographic information in its metadata). We may use various technologies to determine location, such as location services of your operating system or browser and sensor data from your computer or device that may, for example, provide information on nearby Wi-Fi access points and cell towers.  You may opt out of sharing your real-time information as we describe below.
+
+_Site usage information, cookies and other information collected by automated means_
+
+In addition, we may deploy various tracking technologies on, or third-party software or services that may operate in the background of, the Site to collect additional information about your Site visits including for security or other operational reasons. These technologies, software or services may be collected by third-party technology providers and used in accordance with the applicable third-party’s privacy policy (including, without limitation, the Google Privacy Policy), or may enable us to, for example, assign a unique number to you, collect information about your usage of our Site, administer the Site and our systems, or relate such Site usage information to other information about you, including your personal information.
+
+We, our service providers, and our business partners, may also collect certain information about the use of our websites and mobile applications by automated means, such as cookies, and other technologies ("Automated Information"). Please see our [Cookies Policy](https://web.archive.org/cookies-policy) for more information on cookies. In addition to cookies, such other technologies may include:
+
+•       "Pixel tags" (also known as a "clear GIFs" or "web beacons") which are tiny images (in most cases, typically just one-pixel) that can be placed on a Web page or in our electronic communications to you in order to help us measure the effectiveness of our content by, for example, counting the number of individuals who visit us online or verifying whether you’ve opened one of our emails or seen one of our Web pages. 
+
+•       "HTML5" (the language some Web sites, such as mobile Web sites, are coded in) may be used to store information on your computer or device about your Site usage activities and to help determine how our Site is being used by our visitors, how it can be improved and to customize it for our users.
+
+We and our service providers and business partners may collect Automated Information about your online activities over time and across our own and third-party websites when you use our websites and mobile applications. In jurisdictions where Automated Information is considered personal information, or if we associate Automated Information with personal information, we will treat Automated Information as personal information in accordance with this Privacy Notice.
+
+The information that may be collected by automated means includes:
+
+•    Details about the devices that are used to access our websites or mobile applications (such as the IP address, Internet Service Provider, and type of operating system and web browser), and we may associate that with your domain name or that of your Internet access provider
+
+•    Dates and times of visits to, and use of, our websites and mobile applications
+
+•    Information about how our websites and mobile applications are used (such as the content that is viewed on our websites and how users navigate between our webpages, or the features of our mobile applications that are used and how users navigate between screens on our mobile applications)
+
+•    URLs that refer visitors to our websites
+
+•    Certain "clickstream data" pertaining to your usage of and navigation around the Site. Clickstream data includes, for example, information about your computer or device, Web browser and operating system and their settings, the referring page that linked you to the Site, the pages or ads you see or click on during your visit and when and for how long you do so, items you download, the next Web site you visit when you leave the Site and any search terms you have entered on the Site or a referral site.
+
+•    Search terms used to reach our websites or locate our mobile applications
+
+Web browsers may offer users of our websites the ability to disable receiving certain types of cookies; however, if cookies are disabled, some features or functionality of our websites may not function correctly. The "help" menu on most internet browsers contains information on how to disable cookies, or you can visit [www.aboutcookies.org/how-to-control-cookies/](http://www.aboutcookies.org/how-to-control-cookies/).
+
+The above tracking technologies may be deployed by us or our service providers on our behalf. For example, we currently use, and/or in the future may use certain third-party service providers to collect Site usage information and track traffic to, from and around the Sites. To find out more about how your Site usage information is collected through the practices of, and how you may be able to opt out of certain information by, such third parties, click [here](https://web.archive.org/third-party-analytics).
+
+_Information you provide about others_
+
+Certain features on the Site or in our e-mails and other communications allows you to send information about our Sites, services or offerings to another person. You may be able to provide us information about other people. When you use these services, we may ask you for the name or other information (e.g., email address) of the other person. If you provide any personal information or other information about third parties, you represent and warrant to us that you have obtained all consents necessary to allow us to access and use such information in accordance with this Privacy Notice. This information will be treated in accordance with this Privacy Notice. 
+
+**Our Use of Personal Information**
+
+We (or one of our service providers, on our behalf) may use the information we collect for a variety of purposes, such as the following:
+
+•   Communicating about the products and services we offer, and responding to requests, inquiries, comments, and suggestions
+
+•    Processing, shipping and fulfilling your transactions
+
+•    Administering the Site, the Site’s features and services, and your account with us
+
+•    Enabling users to use the Site and the Site’s features and services
+
+•    Analyzing and enhancing our communications and strategies (including by identifying when emails sent to you have been received and read)
+
+•    Operating, evaluating and improving our business, our websites and mobile applications, and other products and services we offer (including to research and develop new products and services)
+
+•    Analyzing use of our products 
+
+•    Developing new features and offerings on the Site
+
+•    Sending you marketing and other communications, including information about products, services and events that we believe may be of interest to you.
+
+•    Tailoring the content and ads we display in our communications and on our websites and in mobile apps and elsewhere to your interests and history with us
+
+•    Customizing the Site to your interests and your history with us
+
+•    Administering surveys and other market research
+
+•    Facilitating educational and other research and studies
+
+•    Protecting our rights and property
+
+•    Tracking and responding to product quality and safety matters
+
+•   Complying with regulatory monitoring and reporting obligations (including those related to product safety)
+
+•  Complying with legal or regulatory requirements, judicial process, industry standards and our company policies 
+
+•   Protecting against, identifying, investigating, preventing, and responding to fraud, illegal activity (such as incidents of hacking or misuse of our websites and mobile applications), and claims and other liabilities, including by enforcing the terms and conditions that govern the services we provide
+
+•    Other purposes described at the time you choose to provide personal information to us
+
+To perform the above functions, we may match information collected from you through different means or at different times, including both personal information and Automated Information, and use such information along with information obtained from other sources.
+
+We may also aggregate and/or de-identify any information that we collect, such that the information no longer identifies any specific individual. We may use, disclose and otherwise process such information for our own legitimate business purposes – including historical and statistical analysis and business planning – without restriction.
+
+We may share information about you for the purposes described in this Privacy Notice or a specific "in-time" privacy notice we may provide at the time we collect the information. 
+
+We may share information about you with others for a variety of reasons. In addition to the kinds of information sharing you might expect, such as sharing with our subsidiaries and our affiliates, we may share your details with:
+
+•       Third parties that provide services to us or perform services on our behalf, including:
+
+o  Technology providers (including technology support, email and web hosting providers, marketing and advertising technology providers, email and text communications providers, mobile app developers) 
+
+o     Event planning and organizations that help facilitate littleBits programs
+
+o     Contract organizations that conduct research on our behalf
+
+o     Payment, shipping and fulfillment service providers 
+
+o     Support providers (including for product quality and adverse event reporting, etc.)
+
+•       Third parties with whom we jointly develop products or services
+
+•       Affiliates and other third parties ( _e.g._ , pre-screened organizations that have offerings we think may interest you, retailers and other third-party partners) for their marketing and other purposes (including, without limitation, providing product samples), unless you tell us not to by following the instructions in the "Opt In and Opt Out" section below
+
+•   Co-sponsor(s) if we obtain your information in connection with a contest, sweepstakes, event, offering or other promotional activity that is jointly offered by us and any third parties, unless (if you don’t opt in when entering the promotion) you tell us not to by following the instructions in the "Opt In and Opt Out" section below
+
+•   Regulators worldwide, as required by law, including in connection with monitoring, review and approval of our products and services, and adverse event reporting
+
+We may share information about you in connection with (including the during the negotiation of) a corporate change or dissolution, including for example a merger, acquisition, reorganization, consolidation, bankruptcy, liquidation, sale of assets or wind-down of a business (each a "Corporate Transaction"). Unless prohibited by applicable law, we reserve the right to transfer the information we maintain in the event we engage in any Corporate Transaction (including, selling or transferring all or a portion of our business or assets). If we engage in such a sale or transfer, we will where feasible – direct the recipient to use the information in a manner that is consistent with this Privacy Notice. After such a sale or transfer, you may contact the recipient with any inquiries concerning the processing of your personal information.
+
+In addition, we may share your information to comply with legal or regulatory requirements, industry standards, judicial process, and our company policies, as well as to protect against, identify, investigate, prevent and respond to fraud, illegal activity (such as identifying and responding to incidents of hacking or misuse of our websites and mobile applications), adverse event reporting, and claims and other liabilities.
+
+**Do Not Track Disclosures**
+
+Some web browsers may transmit "do-not-track" signals to the websites with which the user communicates. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. Because there currently is no industry standard concerning what, if anything, websites should do when they receive such signals, we currently do not change our tracking practices (which are explained in more detail directly above) in response to "do-not-track" (DNT) settings in your web browser. If and when a final standard is established and accepted, we will reassess how to respond to these signals.
+
+Our third-party partners, such as ad networks, web analytics companies and social media and networking platforms, collect information about your online activities over time and across our Site and other online properties. These third parties may not change their tracking practices in response to DNT settings in your web browser and we do not obligate these parties to honor DNT settings. Information about how to opt out from your data being used by third parties can be found above under " _Site usage information,_ _cookies and other information collected by automated means_."
+
+We maintain a presence on several social networking and blogging platforms, such as Facebook, Instagram, WordPress, Twitter, and Pinterest. We may incorporate some third-party social networking features onto our Site (including, allowing users to interact with others and share certain Site content and information on social media platforms) or utilize third-party provided platforms to publish or manage the Site or portions thereof. Through these platforms and features, we receive or may share information about you, and this Privacy Notice applies to that information as well. In addition, some providers of third-party social networking or blogging platforms we utilize (such as Facebook, Instagram, WordPress, Twitter, and Pinterest) have their own privacy policies which explain how the third parties that provide them may collect, use and protect your information ( _e.g._ , if you establish an account with such platform providers directly). By using the social networking features, you agree to those third parties’ privacy policies and terms of use. 
+
+In addition, you may be able to use your Facebook or other social networking platform login to set up an account on the Site. If you wish to use your Facebook or other social media account to log into the Site, your information may be shared with us for the purpose of setting up your account on the Site and as otherwise provided in those platforms’ privacy policies and terms of use.
+
+**Mobile Apps**
+
+We may make available mobile applications (or "apps") that you are able to download and use from your mobile device. Depending on the nature and functionality of the app, we may collect personal information and non-personally identifiable usage information through the app, any features on your mobile device to which you grant us access. The app also may collect information about your mobile device, such as your ID for Advertisers (IDFA) or Advertising ID, the IP address of your mobile device, device type, operating system and connection information ( _e.g._ , Wi-Fi, LTE, 4G, 3G). If you opt-in, some of our apps may collect your device’s precise real-time location, and in such cases, you may be able to opt out from further allowing us to have access to such location data by managing your location preferences in the app and/or on your device. This Privacy Notice may be supplemented from time to time with additional terms applicable to individual apps, or individual apps may be subject to separate privacy notices or policies of which we will notify you by posting them on such apps.
+
+**Payment and Third-Party Payment Processors**
+
+Purchases made through the Site may be processed through a third-party payment processor, application, or other payment service provider (each, a "Payment Processor"). If applicable, you may be provided a notice when accessing the payment application or entering your payment information directing you to such Payment Processor’s terms of use and privacy policy, and all payments are governed by such terms of use and privacy policy.
+
+**Information for Individuals in the European Economic Area and the United Kingdom**
+
+**_Legal basis for processing data_**
+
+In this section, we identify the legal grounds on which we rely to process personal information.
+
+In some cases, we have a legitimate interest to process the personal information that we collect, such as to develop, administer and support our products and services; to operate, evaluate and improve our business; to facilitate and manage engagement programs; to promote research; to support our recruitment activities; or to facilitate a Corporate Transaction (including a sale of assets or merger or acquisition).
+
+In other cases, we process personal information to fulfill our contracts with business partners, such as third parties that distribute our products. 
+
+It may be also necessary for us to process personal information to establish, exercise or defend against fraud, illegal activity, and claims and other liabilities, including by enforcing the terms and conditions that govern the services we provide.
+
+Our processing of certain information may be necessary to comply with our legal obligations, and for reasons of public interest, such as with respect to adverse event and product safety reporting. 
+
+We may also process personal information as specifically permitted by applicable legal requirements. 
+
+If we rely on consent for the processing of your personal information, we will seek such consent at the time we collect your personal information. For more information on consent, please see the "Additional international privacy preferences and rights" section of this Privacy Notice.
+
+**_International data transfers_**
+
+We may transfer your personal information to countries other than the country in which the data was originally collected for the purposes described in this Privacy Notice. For example, if you are located outside of the United States, we may transfer your personal information to the United States, where littleBits is headquartered. The countries to which we transfer personal information may not have the same data protection laws as the country in which you initially provided the information. When we transfer personal information across borders, we consider a variety of requirements that may apply to such transfers. 
+
+Specifically, we may transfer personal information from the European Economic Area or the United Kingdom to:
+
+•  Countries that the European Commissions has deemed to adequately safeguard personal information,
+
+•     Pursuant to the recipient’s compliance with standard contractual clauses, EU-US Privacy Shield, or Binding Corporate Rules,
+
+•       Pursuant to the consent of the individual to whom the personal information pertains, or
+
+•       As otherwise permitted by applicable EEA requirements.
+
+**_EU-U.S. Privacy Shield_**
+
+We comply with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. We have certified to the Department of Commerce that we adhere to the Privacy Shield Principles. If there is any conflict between the terms in this Privacy Notice and the Privacy Shield Principles, the Privacy Shield Principles shall take precedence. To learn more about the Privacy Shield program, the Privacy Shield Principles and to view our certification, please visit [www.privacyshield.gov](http://www.privacyshield.gov/).
+
+As described in the [Privacy Shield Principles](https://www.privacyshield.gov/article?id=Requirements-of-Participation), littleBits is accountable for personal information that it receives and subsequently transfers to third parties.  If third parties that process personal information on our behalf do so in a manner that does not comply with the Privacy Shield Principles, we are accountable, unless we prove that we are not responsible for the event giving rise to the damage.
+
+Should you feel that we have not complied with the Privacy Shield principles and the handling of your personal data and we have not been able to remedy your complaint ourselves, you may wish to contact JAMS who is our nominated alternative dispute resolution provider. To obtain more information or to file a complaint, please visit [https://www.jamsadr.com/eu-us-privacy-shield](https://www.jamsadr.com/eu-us-privacy-shield).
+
+As further explained in the Privacy Shield Principles, binding arbitration will also be made available to you in order to address residual complaints not resolved by any other means. We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
+
+**Online Privacy Choices**
+
+**_Opt In and Opt Out_**
+
+You may have the right to opt in to or opt out of certain of our uses and disclosures of your personal information. For example, when you are asked to provide personal information on this Site, you may have the opportunity to elect to, or not to, receive promotional messages from us by e-mail or text messaging. You may unsubscribe from our promotional emails by clicking on the "unsubscribe" or opt-out link within the e-mail you receive. To opt out of our text messaging, please follow the instructions provided in connection with the particular text messaging campaign. Please understand that it may take us some time to process any opt out request and that even if you opt out of receiving promotional correspondence from us, we retain the right to send you non-marketing communications (such as important product safety information, information about your transactions, or changes in website or mobile application terms) and may still contact you in connection with your relationship, activities, transactions and communications with us. 
+
+**If we share personal information with third parties for their marketing purposes** , you will be able to elect for us not to do so by emailing us at [privacy@litleBits.com](mailto:privacy@litleBits.com) (please include your name, mailing address, and email address). See "Your California Privacy Rights" below. If you are a European or Canadian user, we will treat you as having opted out by default, unless you specifically authorize us to share your information. 
+
+**_Third-party advertising servers and networks_**
+
+We may use third-party advertising companies, such as advertisers, advertising networks, advertising servers, and analytics companies (collectively, "Ad Partners") to serve ads when you visit the Site or elsewhere online. These companies may use information about your visits to this Site and other Web sites in order to provide advertisements about goods and services of interest to you. These advertisements may appear on this Site and on other Web sites. These companies may employ cookies, clear GIFs and other tracking technologies to cause relevant ads to be displayed to you.  **For more information about third-party advertisers and how to prevent them from using your information, visit the Network Advertising Initiative’s consumer Web site at**[ **http://www.networkadvertising.org/choices/**](http://www.networkadvertising.org/choices/) **  or the Digital Advertising Alliance’s Web site at **[ **http://www.aboutads.info/choices/**](http://www.aboutads.info/choices/). We encourage you to read these businesses’ privacy policies to learn about how they treat your information.
+
+These Ad Partners may recognize a particular individual across third party websites over time and link various devices used by the same individual. For more information about how Ad Partners use the information collected by these technologies and about your options not to accept cookies placed by some of these companies on our websites and mobile apps, please visit [http://www.aboutads.info/](http://www.aboutads.info/) or [http://networkadvertising.org/choices/](http://networkadvertising.org/choices/). If you are accessing the websites or mobile apps from the European Union, please visit [http://www.youronlinechoices.eu/](http://www.youronlinechoices.eu/). and if you are accessing the Sites from Canada, please visit [http://youradchoices.ca/choices/](http://youradchoices.ca/choices/).
+
+The opt-outs described above are device- and browser-specific and may not work on all devices. If you choose to opt out through any of these opt-out tools, this does not mean you will cease to see advertising. Rather, the ads you see will be based on the website you are visiting and not your interests. 
+
+**_Marketing emails_**
+
+You may unsubscribe from receiving marketing or other commercial emails from littleBits by following the instructions included in the email or as described in the "Opt In and Opt Out" section above. Please understand that it may take us some time to process any opt out request and that even if you opt out of receiving promotional correspondence from us, we retain the right to send you non-marketing communications (such as important product safety information, information about your transactions, or changes in website or mobile application terms) and may still contact you in connection with your relationship, activities, transactions and communications with us. 
+
+**_Location information_**
+
+As we describe in the "Mobile Apps" section above, if you opt-in, some of our apps may collect your device’s precise real-time location, and in such cases, you may be able to opt out from further allowing us to have access to such location data by managing your location preferences in the app and/or on your device. 
+
+**_Sharing information with third parties_**
+
+As we describe in the "How We May Share Information about You with Others" section above, you may opt out of certain information sharing following the instructions in the "Opt In and Opt Out" section above.
+
+**_Your California privacy rights_**
+
+California’s "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses’ practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. As discussed above, if we share Personal Information with third parties for their marketing purposes you will be able to elect for us not to do so by emailing us at [privacy@littleBits.com](mailto:privacy@littleBits.com) (please include your name, mailing address, and email address). To find out more about your opt-out rights, see the "Opt In and Opt Out" section above.
+
+**_Additional international privacy preferences and rights_**
+
+Individuals in certain jurisdictions, like the EEA, have certain rights and choices regarding our processing of their personal information. We have appointed a data protection officer ("DPO") as a point of contact for exercising these rights. Please see the "How to Contact Us" section below for the DPO’s contact information. In some cases where your personal information is accessible through an online portal or platform, you may be able to directly exercise these rights by following the instructions on the portal or platform.
+
+Please note that if the exercise of these rights limits our ability to process personal information, we may be precluded from providing our products or services to individuals who exercise these rights, or from otherwise engaging with such individuals going forward.
+
+We reserve the right to verify the identity of the individual in connection with any requests regarding personal information to help ensure that we provide the information to individuals to whom the information pertains and allow only those individuals or their authorized representatives to exercise rights with respect to that information.
+
+For information about the rights and choices users have with respect to cookies and online tracking, please see the " _Site usage information,_ _cookies and other information collected by automated means_ " section of this Privacy Notice.
+
+_General objections to the processing of personal information_
+
+To the extent provided by applicable law, you may withdraw any consent you previously provided to us, or object at any time on legitimate grounds, to the processing of your personal information. In some circumstances, withdrawing your consent to our use or disclosure of your personal information will mean that we will not be able to provide products or services to you or to otherwise engage with you. 
+
+_Access to personal information_
+
+You may request access to the personal information that we maintain about you. If we grant your request, we will provide you with a copy of the personal information we maintain about you in the ordinary course of business, in a commonly used format. You may request to correct any errors in your personal information. We may reject your request to access or correct your information, as permitted by applicable law.  If we reject your request, we will notify you of the reasons for the rejection.
+
+_Portability of personal information_
+
+You may request that we transfer your personal information to another data controller. We may reject your request, as permitted by applicable law.  If we reject your request, we will notify you of the reasons for the rejection.
+
+_Deletion of personal information_
+
+You may request that we delete your personal information. We may reject your request, as permitted by applicable law.  If we reject your request, we will notify you of the reasons for the rejection.
+
+**Data Retention**
+
+We will retain your information only for as long as necessary to fulfill the purpose(s) for which the information was collected, depending on the purpose(s) for which the information was collected, the nature of the information, any contractual relationship that may governs the retention of the data, our legal or regulatory obligations, and our records retention policy. We will then destroy your information or anonymize the information, subject to and in accordance with applicable law and our records retention policy.
+
+**How we Protect Personal Information**
+
+We use various efforts intended to safeguard the security and integrity of personal information collected on our Sites. Payment card information is processed by third-party Payment Processors pursuant to their applicable privacy policies. Despite these measures, however, we cannot and do not guarantee that information will be absolutely safe from interception or intrusion during transmission or while stored on our system, or otherwise.
+
+If you correspond with us by e-mail, text message or using Web forms like a "contact us" feature on our Sites, you should be aware that your transmission might not be secure from access by unauthorized parties. We have no liability for disclosure of your information due to errors or unauthorized acts of third parties during or after transmission. If you create an account on our Sites, you are responsible for maintaining the confidentiality of your account password and for any activity that occurs under your account. Please notify us of any unauthorized use of your password or account.
+
+If we believe that the security of your personal information in our care may have been compromised, we may seek to notify you. If we have your e-mail address, we may notify you by e-mail to the most recent e-mail address you have provided us in your account profile. Please keep your e-mail address in your account up to date. You can change that e-mail address any time in your account profile. If you receive a notice from us, you can print it to retain a copy of it. To receive these notices, you must check your e-mail account using your computer or mobile device and email application software.  **You consent to our use of e-mail as a means of such notification. If you prefer for us to use the U.S. Postal Service to notify you in this situation, please e-mail us at  **[privacy@littleBits.com](mailto:privacy@littleBits.com) (please include your name, mailing address, and email address). You can make this election any time, and it will apply to notifications we make after a reasonable time thereafter for us to process your request. You may also use this e-mail address to request a print copy, at no charge, of an electronic notice we have sent to you regarding a compromise of your personal information.
+
+**Links to Websites and Third-Party Content**
+
+For your convenience and information, we may provide links to websites and other third-party content that is not owned or operated by us. The websites and third-party content to which we link may have separate privacy notices or policies.  We are not responsible for the privacy practices of any entity that it does not own or control.
+
+**Updates to Our Privacy Notice**
+
+We reserve the right to change this Privacy Notice at any time. When we update this Privacy Notice, we will notify you of changes that are deemed material under applicable legal requirements by updating the date of this Privacy Notice. In some cases (for example, if we make certain material changes), we may inform you by additional means, such as by sending you an e-mail. In some cases, we may obtain your consent to the changes.
+
+**How to Contact Us**
+
+You may contact us with questions, comments, or complaints about this Privacy Notice or our privacy practices, or to request access to or correction of your information. Our contact information is as follows:
+
+littleBits Electronics Inc.
+
+Attn: Legal Department – Privacy
+
+601 W 26th St M274
+
+New York, NY 10001
+
+privacy@littleBits.com
+
+If you are a resident within the European Economic Area, the contact information for littleBits’ data protection officer:
+
+          littleBits Electronics Inc.
+
+          Chief Technology Officer
+
+601 W 26th St M274
+
+New York, NY 10001 
+
+privacy@littleBits.com
+
+littleBits Electronics Inc. is the data controller of personal information provided on the littleBits Sites. If you are a resident within the European Economic Area, you also have the right to file a complaint with the supervisory authority of your member state.
+
+**Last Updated: May 25, 2018**
+
+The previous version of our Privacy Policy can be viewed [here](https://web.archive.org/privacy-policy-archived).
