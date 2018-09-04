@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the tmp.com privacy policy that was archived on 2017-09-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170914181610id_/https%3A//www.tmp.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tmp.com privacy policy that was archived on 2018-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180905004715id_/https%3A//www.tmp.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" prefix="og: http://ogp.me/ns#" class="js"><head> 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="Privacy Statement">
-    <meta property="og:image" content="https:https://tbcdn.talentbrew.com/company/3401/v1_0/img/global/tmp-large.png">
+            <meta name="description" content="Privacy Statement">
+          <meta name="og:description" content="Privacy Statement">
+    <meta property="og:image" content="https://tbcdn.talentbrew.com/company/3401/v1_0/img/global/tmp-large.png">
     <meta name="apple-mobile-web-app-title" content="TMP Worldwide">
     <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PQ9QFMK"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-CC4Q"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>document.getElementsByTagName("html")[0].className = document.getElementsByTagName("html")[0].className.replace("no-js", "js");</script>
     
@@ -20,16 +21,39 @@
     <link rel="manifest" href="/manifest/">
     
     <link rel="shortcut icon" href="//tbcdn.talentbrew.com/company/3401/img/favicon/favicon-2221.ico" type="image/x-icon">
+   
+    
     <link rel="stylesheet" href="//tbcdn.talentbrew.com/company/3401/css/2221-Full.css">
+    
     <link rel="author" href="https://tbcdn.talentbrew.com/company/3401/v1_0/humans.txt">
     <link rel="alternate" type="application/rss+xml" title="TMP Worldwide: Job Feed" href="/rss/">
-    <link rel="apple-touch-icon" href="https:https://tbcdn.talentbrew.com/company/3401/v1_0/img/global/apple-touch-icon.png">
+    <link rel="apple-touch-icon" href="https://tbcdn.talentbrew.com/company/3401/v1_0/img/global/apple-touch-icon.png">
     <link rel="canonical" href="https://www.tmp.com/privacy/">
     <title>Privacy Statement - TMP Worldwide</title>
     <meta name="msapplication-config" content="none"> 
 
 
+<script type="text/javascript">
+    function addLoadEvent(func) {
+        var oldonload = window.onload;
+        if (typeof window.onload != 'function') {
+            window.onload = func;
+        } else {
+            window.onload = function () {
+                if (oldonload) {
+                    oldonload();
+                }
+                func();
+            }
+        }
+    }
+</script>
 
+
+
+	<meta property="og:title" content="Privacy" statement="">
+	<meta property="og:description" content="Privacy" statement="">
+		<meta property="og:image" content="/">
 
 
     <script src="//tbcdn.talentbrew.com/js/client/adframe.js"></script>
@@ -48,7 +72,7 @@
         ga('require', 'displayfeatures');
 
 
-        setTimeout(function () {
+        addLoadEvent(function () {
             function createHiddenInput(id, value) {
                 var input = document.createElement('input');
                 input.type = 'hidden';
@@ -63,7 +87,7 @@
                 createHiddenInput('dimension3', '3401');
                 createHiddenInput('dimension4', '3401');
                 createHiddenInput('dimension8', 'Privacy Statement');
-                createHiddenInput('dimension10', 'ContentPage');
+	               createHiddenInput('dimension10', 'ContentPage');
                 createHiddenInput('dimension11', 'null;29979;Content');
                 sendCustomDimensions();
 
@@ -74,8 +98,8 @@
 
 
 
-                function sendCustomDimensions() {
-                    var dimensions = {
+            function sendCustomDimensions() {
+                var dimensions = {
                     1: 'dimension1',
                     2: 'dimension2',
                     3: 'dimension3',
@@ -87,9 +111,14 @@
                     9: 'dimension9',
                     10: 'dimension10',
                     11: 'dimension11',
+                    12: 'dimension12',
                     13: 'dimension13',
-                    14: 'dimension14'
-                    };
+                    14: 'dimension14',
+                    15: 'dimension15',
+                    16: 'dimension16',
+                    17: 'dimension17',
+                    18: 'dimension18'
+                };
 
                 var dimensionsToSend = {};
                 for (var cd in dimensions) {
@@ -97,6 +126,8 @@
                         var cdElement = document.getElementById(dimensions[cd]);
                         if (document.getElementById(dimensions[cd]) != undefined) {
                             dimensionsToSend[dimensions[cd]] = cdElement.value;
+                        } else {
+                            delete dimensionsToSend[dimensions[cd]];
                         }
                     }
                 }
@@ -106,13 +137,31 @@
                 dimensionsToSend["dimension12"] = adBlockerStatus;
                 createHiddenInput('dimension12', adBlockerStatus);
 
+                if (typeof Cookies.get("SearchVisitorId") != 'undefined') {
+                    var visitorIdCookieData = Cookies.getJSON("SearchVisitorId");
+                    if (visitorIdCookieData.length > 0) {
+                        dimensionsToSend["dimension15"] = visitorIdCookieData;
+                        createHiddenInput('dimension15', visitorIdCookieData);
+                    }
+                }
+
+                if (typeof Cookies.getJSON("SearchSessionId") == 'object') {
+                    var sessionIdCookieData = Cookies.getJSON("SearchSessionId");
+                    dimensionsToSend["dimension16"] = sessionIdCookieData.SearchSessionId;
+                    createHiddenInput('dimension16', sessionIdCookieData.SearchSessionId);
+                }
+
+                var dimension17Element = document.getElementById("dimension17");
+                if (document.getElementById("dimension17") != undefined) {
+                    dimensionsToSend["dimension17"] = (dimension17Element.value == "null" ? "null" : parseInt(dimension17Element.value).toString());
+                }
 
                 if (Object.keys(dimensionsToSend).length >= 1) {
                     ga('send', 'pageview', dimensionsToSend);
                 }
             }
-        }, 700);
-    </script>     
+        });
+    </script>
 
 
 </head>
@@ -120,35 +169,122 @@
 
 
 
-<body id="privacy-statement" class="nav-pulldown" data-cdn="https://tbcdn.talentbrew.com/company/3401/" data-translate="false">
+<body id="privacy-statement" class="  nav-pulldown" data-site-geolocation="true" data-location-geotype="ip2ifnohtml5" data-geolocation-url="/search-jobs/SetSearchRequestGeoLocation" data-cdn="https://tbcdn.talentbrew.com/company/3401/" data-translate="false">
 
     
 
-<input id="search-client-type" name="search-client-type" type="hidden" value="0"><input id="search-visitor-id" name="search-visitor-id" type="hidden" value="SearchVisitorId"><input id="search-session-id" name="search-session-id" type="hidden" value="SearchSessionId">
+
+<input id="icinga2-client-host" name="icinga2-client-host" type="hidden" value="www.tmp.com"><input id="icinga2-machine-name" name="icinga2-machine-name" type="hidden" value="9819303bee8f"><input id="get-tracking-site-type" name="get-tracking-site-type" type="hidden" value="1"><input id="get-tracking-orgnaic-tags" name="get-tracking-orgnaic-tags" type="hidden" value="[{&quot;Domain&quot;:&quot;simplyhired.com&quot;,&quot;Name&quot;:&quot;SimplyHired&quot;,&quot;TrackingTag&quot;:&quot;<img src='https://ad.doubleclick.net/ddm/ad/N4789.Simply_Hired/B9423857.128294677;sz=1x1;ord=1234567890?' width='1' height='1' alt='' hidden aria-hidden='true'/>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;google.com&quot;,&quot;Name&quot;:&quot;Google&quot;,&quot;TrackingTag&quot;:&quot;<img src='https://ad.doubleclick.net/ddm/ad/N4789.Google/B9423857.128289347;sz=1x1;ord=1234567890?' width='1' height='1' alt='' hidden aria-hidden='true'/>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;yahoo.com&quot;,&quot;Name&quot;:&quot;Yahoo&quot;,&quot;TrackingTag&quot;:&quot;<img src='https://ad.doubleclick.net/ddm/ad/N4789.Yahoo/B9423857.128295305;sz=1x1;ord=1234567890?' width='1' height='1' alt='' hidden aria-hidden='true'/>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;bing.com&quot;,&quot;Name&quot;:&quot;Bing&quot;,&quot;TrackingTag&quot;:&quot;<img src='https://ad.doubleclick.net/ddm/ad/N4789.273830.BING.COM/B9423857.128291740;sz=1x1;ord=1234567890?' width='1' height='1' alt='' hidden aria-hidden='true'/>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;indeed.com&quot;,&quot;Name&quot;:&quot;Indeed&quot;,&quot;TrackingTag&quot;:&quot;<img src='https://ad.doubleclick.net/ddm/ad/N4789.Indeed/B9423857.128289358;sz=1x1;ord=1234567890?' width='1' height='1' alt='' hidden aria-hidden='true'/>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;facebook.com&quot;,&quot;Name&quot;:&quot;Facebook&quot;,&quot;TrackingTag&quot;:&quot;<img src='https://ad.doubleclick.net/ddm/ad/N4789.Facebook/B9423857.128293565;sz=1x1;ord=1234567890?' width='1' height='1' alt='' hidden aria-hidden='true'/>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;other.com&quot;,&quot;Name&quot;:&quot;Other&quot;,&quot;TrackingTag&quot;:&quot;<img src='https://ad.doubleclick.net/ddm/ad/N4789.278351.TALENTBREW-ADDITION/B9423857.128289367;sz=1x1;ord=12345OTHER67890?' width='1' height='1' alt='' hidden aria-hidden='true'/>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;direct.com&quot;,&quot;Name&quot;:&quot;Direct&quot;,&quot;TrackingTag&quot;:&quot;<img src='https://ad.doubleclick.net/ddm/ad/N4789.278351.TALENTBREW-ADDITION/B9423857.128294944;sz=1x1;ord=12345DIRECT67890?' width='1' height='1' alt='' hidden aria-hidden='true'/>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;google.ca&quot;,&quot;Name&quot;:&quot;Google Canada&quot;,&quot;TrackingTag&quot;:&quot;<img src='https://ad.doubleclick.net/ddm/ad/N4789.125865.GOOGLECANADA/B9423857.128286228;sz=1x1;ord=1234567890?' width='1' height='1' alt='' hidden aria-hidden='true'/>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;t.co&quot;,&quot;Name&quot;:&quot;Twitter&quot;,&quot;TrackingTag&quot;:&quot;<img src='https://ad.doubleclick.net/ddm/ad/N4789.130910.7809398262621/B9423857.128295234;sz=1x1;ord=1234567890?' width='1' height='1' alt='' hidden aria-hidden='true'/>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;linkedin.com&quot;,&quot;Name&quot;:&quot;LinkedIn&quot;,&quot;TrackingTag&quot;:&quot;<img src='https://ad.doubleclick.net/ddm/ad/N4789.LinkedIn/B9423857.128289587;sz=1x1;ord=1234567890?' width='1' height='1' alt='' hidden aria-hidden='true'/>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;glassdoor.com&quot;,&quot;Name&quot;:&quot;Glassdoor&quot;,&quot;TrackingTag&quot;:&quot;<img src='https://ad.doubleclick.net/ddm/ad/N4789.Google/B9423857.128289347;sz=1x1;ord=1234567890?' width='1' height='1' alt='' hidden aria-hidden='true'/>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;bing.com&quot;,&quot;Name&quot;:&quot;Bing&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.273830.BING.COM/B9423857.128291740;sz=1x1;ord=123456789?'>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;facebook.com&quot;,&quot;Name&quot;:&quot;Facebook&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.152606.FACEBOOK.COM/B9423857.211599291;sz=1x1;ord=123456789?'>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;glassdoor.com&quot;,&quot;Name&quot;:&quot;Glassdoor&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.715587.GLASSDOOR.COM/B9423857.211599288;sz=1x1;ord=123456789?'>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;google.ca&quot;,&quot;Name&quot;:&quot;Google Canada&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.1324844GOOGLE.CA/B9423857.211599285;sz=1x1;ord=123456789?'>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;google.com&quot;,&quot;Name&quot;:&quot;Google&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.Google/B9423857.128289347;sz=1x1;ord=123456789?'>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;indeed.com&quot;,&quot;Name&quot;:&quot;Indeed&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.Indeed/B9423857.128289358;sz=1x1;ord=123456789?'>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;linkedin.com&quot;,&quot;Name&quot;:&quot;LinkedIn&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.466581LINKEDIN.COM/B9423857.211599282;sz=1x1;ord=123456789?'>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;t.co&quot;,&quot;Name&quot;:&quot;Twitter&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.1864118TWITTER.COM/B9423857.211599279;sz=1x1;ord=123456789?'>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;yahoo.com&quot;,&quot;Name&quot;:&quot;Yahoo&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.285959.YAHOO.COM/B9423857.211599276;sz=1x1;ord=123456789?'>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;simplyhired.com&quot;,&quot;Name&quot;:&quot;SimplyHired&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.Simply_Hired/B9423857.128294677;sz=1x1;ord=123456789'>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;www.snagajob.com&quot;,&quot;Name&quot;:null,&quot;TrackingTag&quot;:null,&quot;IsExclusive&quot;:true},{&quot;Domain&quot;:&quot;snagajob.com&quot;,&quot;Name&quot;:null,&quot;TrackingTag&quot;:null,&quot;IsExclusive&quot;:true},{&quot;Domain&quot;:&quot;www.jobsattmp.com&quot;,&quot;Name&quot;:null,&quot;TrackingTag&quot;:null,&quot;IsExclusive&quot;:true}]"><input id="get-tracking-optimized-tracking" name="get-tracking-optimized-tracking" type="hidden" value="True"><input id="search-client-type" name="search-client-type" type="hidden" value="1"><input id="search-visitor-id" name="search-visitor-id" type="hidden" value="SearchVisitorId"><input id="search-session-id" name="search-session-id" type="hidden" value="SearchSessionId">
     <script>
-        var gtmValues = {};
-        dataLayer = [];
+        (function() {
+            var gtmValues = {};
+            dataLayer = [];
+
+            function uuidv4() {
+                var crypt = window.crypto || window.msCrypto || null;
+
+                if (crypt && crypt.getRandomValues) {
+                    var buf = new Uint16Array(8);
+                    crypt.getRandomValues(buf);
+                    var S4 = function(num) {
+                        var ret = num.toString(16);
+                        while (ret.length < 4) {
+                            ret = "0" + ret;
+                        }
+                        return ret;
+                    };
+                    return (S4(buf[0]) +
+                        S4(buf[1]) +
+                        "-" +
+                        S4(buf[2]) +
+                        "-" +
+                        S4(buf[3]) +
+                        "-" +
+                        S4(buf[4]) +
+                        "-" +
+                        S4(buf[5]) +
+                        S4(buf[6]) +
+                        S4(buf[7]));
+                } else {
+                    return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g,
+                        function(c) {
+                            var r = Math.random() * 16 | 0, v = c == 'x' ? r : (r & 0x3 | 0x8);
+                            return v.toString(16);
+                        });
+                }
+            }
+
+            var getCookie = function(name) {
+                var value = "; " + document.cookie;
+                var parts = value.split("; " + name + "=");
+
+                if (parts.length == 2) {
+                    return parts.pop().split(";").shift();
+                }
+            };
 
 
-                gtmValues = { 'OrgID': '3401', 'tbcn-division': '3401', 'tbcn-contenttitle': 'Privacy Statement', 'pagetype': 'ContentPage' };
+                gtmValues["OrgID"] = '3401';
+                gtmValues["tbcn-division"] = '3401';
+                gtmValues["tbcn-contenttitle"] = 'Privacy Statement';
+                gtmValues["pagetype"] = 'ContentPage';
+
+
+
+
+
+
+            var visitorIdCookieData = getCookie('SearchVisitorId');
+            if (typeof visitorIdCookieData != 'undefined' && visitorIdCookieData.length > 0) {
+                gtmValues['visitorID'] = visitorIdCookieData;
+            } else {
+                var expires = new Date().getMilliseconds() + 365 * 864e+5;
+                var visitorId = uuidv4();
+                document.cookie = "SearchVisitorId=" + visitorId + "; expires=" + expires + "; path=/";
+                gtmValues['visitorID'] = visitorId;
+            }
+
+            var sessionIdCookieData = getCookie('SearchSessionId');
+            var sessionIdCookieDataObject;
+            try {
+                sessionIdCookieDataObject = JSON.parse(sessionIdCookieData);
+            } catch (e) {
+            }
+
+            gtmValues['GDPR Consent'] = "null";
+            if (typeof sessionIdCookieDataObject == "object") {
+                gtmValues['sessionID'] = sessionIdCookieDataObject.SearchSessionId;
+                gtmValues['GDPR Consent'] = parseInt(sessionIdCookieDataObject.Created).toString();
+            }
+
             dataLayer.push(gtmValues);
 
-
-
-
-
+        })();
     </script>
     <!-- Google Tag Manager -->
     <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-CC4Q" hidden title="Tracking"></iframe></noscript>
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window, document, 'script', 'dataLayer', 'GTM-CC4Q');</script>
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start':
+                    new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-CC4Q');
+    </script>
     <!-- End Google Tag Manager -->
 
     
     
+
 <!-- Google Tag Manager: Beta Testing -->
 
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PQ9QFMK" hidden title="Google Tag Manager"></iframe></noscript>
@@ -197,19 +333,19 @@
 	
 	<h2 id="nav-heading">Navigation</h2>
 
-	<div id="nav-search-site">
+	<!--<div id="nav-search-site">-->
 
-		<form action="/search-results/" id="nav-search-site-form" method="get">
+	<!--	<form action="/search-results/" id="nav-search-site-form" method="get">-->
 
-			<label for="nav-search-site-input" id="nav-search-site-label">Explore TMP Worldwide</label>
+	<!--		<label for="nav-search-site-input" id="nav-search-site-label">Explore TMP Worldwide</label>-->
 
-			<input id="nav-search-site-input" name="q" type="search" required="">
+	<!--		<input id="nav-search-site-input" name="q" type="search" required/>-->
 	
-			<button id="nav-search-site-btn" type="submit"><b>Search</b></button>
+	<!--		<button id="nav-search-site-btn" type="submit"><b>Search</b></button>-->
 
-		</form>
+	<!--	</form>-->
 
-	</div>
+	<!--</div>-->
 	
 	<!-- End: Google Search -->
 
@@ -222,8 +358,10 @@
 				<li><a class="nav-about-us" href="/about-us/"><span class="wai">About Us</span> Overview</a></li>
 				<li><a class="nav-our-work" href="/our-work/">Client Solutions</a></li>
 				<li><a class="nav-our-leadership" href="/our-leadership/">Our Leadership</a></li>
+				<li><a class="" href="/partners">Partners</a></li>
+				<li><a class="" href="/social-responsibility">Social Responsibility</a></li>
 				<li><a class="nav-our-locations" href="/our-offices/">Global Locations</a></li>
-				<li><a class="nav-news" href="/news/">News</a></li>
+				<li><a class="nav-news" href="/media-center">Media Center</a></li> 
 			</ul>
 
 		</li>
@@ -258,15 +396,11 @@
 
 			<ul class="nav-child">
 				<li><a class="nav-resource-hub" href="/resource-center/">Resources</a></li>
-				<li><a class="nav-blog" href="http://meshworking.com/">TMP Blog</a></li>
+				<li><a class="nav-blog" href="https://blog.tmp.com/">TMP Blog</a></li>
 			</ul>
 
 		</li>
-		<li id="nav-section-events" class="nav-item">
-
-			<a href="/events/" class="nav-subheading">Events</a>
-
-		</li>
+		
 		<li id="nav-section-sitemap" class="nav-item">
 
 			<a href="/sitemap/" class="nav-subheading">Sitemap</a>
@@ -290,6 +424,11 @@
         
         
                 
+                
+                                
+                
+                
+                
 
             </div><!--/#primary-header-container-->
             
@@ -307,24 +446,23 @@
                 <div class="tertiary-wrapper">
 
                     
-
-    <p class="effective-date">Effective Date: July 10, 2017</p><p>
+    <p class="effective-date">Effective Date: October 3, 2017</p><p>
     
-    </p><p>TMP Worldwide Advertising &amp; Communications, LLC (“<b>TMP Worldwide</b>”) is committed to respecting the privacy of those who visit this site. Any online data collection from emails and forms submitted by you will only be used in the normal course of business to help us contact you and provide solutions to your challenges. This privacy policy describes how TMP Worldwide collects and uses any personal information you may provide on our web site, <a href="https://www.tmp.com">www.tmp.com</a>, and via TMP Worldwide's TalentBrew Platform. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. The use of information collected through our service shall be limited to the purpose of providing the service for which the client has engaged TMP Worldwide. Information being gathered via the TalentBrew Platform may also be subject to the privacy policy of the individual client, which may be accessed directly from the site maintained on such client’s behalf.</p>
+    </p>TMP Worldwide Advertising &amp; Communications, LLC (“TMP Worldwide”) is committed to respecting the privacy of those who visit this site. Any online data collection from emails and forms submitted by you will only be used in the normal course of business to help us contact you and provide solutions to your challenges. This privacy policy describes how TMP Worldwide collects and uses any personal information you may provide on our web site, <a href="https://www.tmp.com">www.tmp.com</a>,and via TMP Worldwide's TalentBrew Platform. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. The use of information collected through our service shall be limited to the purpose of providing the service for which the client has engaged TMP Worldwide. Information being gathered via the TalentBrew Platform may also be subject to the privacy policy of the individual client, which may be accessed directly from the site maintained on such client’s behalf.<p></p>
 
     <h2>Privacy Shield Certification</h2>
     
-    <p>TMP Worldwide and its affiliates adhere to the EU-U.S. Privacy Shield Framework and  the Swiss-U.S. Privacy Shield Framework TMP Worldwide has certified its compliance therewith. TMP Worldwide is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at <a href="https://www.privacyshield.gov/list">https://www.privacyshield.gov/list</a>.</p>
+    <p>TMP Worldwide and its affiliates adhere to the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework TMP Worldwide has certified its compliance therewith. TMP Worldwide is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at <a href="https://www.privacyshield.gov/list">https://www.privacyshield.gov/list</a>.</p>
 
-    <p>TMP Worldwide is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. TMP Worldwide complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.</p>
+    <p>TMP Worldwide is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. TMP Worldwide complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.</p>
 
-    <p>With respect to personal data received or transferred pursuant to the Privacy Shield Framework, TMP Worldwide is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, TMP Worldwide may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.</p>
+    <p>With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, TMP Worldwide is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, TMP Worldwide may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.</p>
 
     <p>If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <a href="https://feedback-form.truste.com/watchdog/request">https://feedback-form.truste.com/watchdog/request</a>.</p>  
 
-    <p>Under certain conditions, more fully described on the Privacy Shield website <a href="https://www.privacyshield.gov/welcome">https://www.privacyshield.gov/welcome</a>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.</p>
+    <p>Under certain conditions, more fully described on the Privacy Shield website <a href="https://www.privacyshield.gov/welcome">https://www.privacyshield.gov/welcome</a>,you may invoke binding arbitration when other dispute resolution procedures have been exhausted.</p>
     
-     <p><a href="https://privacy.truste.com/privacy-seal/validation?rid=0e5a455c-0638-4e46-91ac-125048e416f7"><img src="https://privacy-policy.truste.com/privacy-seal/seal?rid=0e5a455c-0638-4e46-91ac-125048e416f7" alt="TRUSTe Privacy Certification"></a></p>
+     <p><a href="//privacy.truste.com/privacy-seal/validation?rid=cdf01cdd-cbe3-4e25-8b01-1b0352668231" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/seal?rid=cdf01cdd-cbe3-4e25-8b01-1b0352668231" alt="TRUSTe"></a></p>
     
     <h2>Information Collection and Use</h2>
     
@@ -367,11 +505,12 @@
     
     <h3>Choice</h3> 
 
-    <p>We collect information for our clients.  If you are an applicant or potential applicant for employment by one of our clients or have otherwise requested to receive information from one of our clients and would no longer like to be contacted by that client, please contact directly the client with which you interact via the address provided by the client, in its privacy policy or otherwise.</p>
+    <p></p>We collect information for our clients. If you are an applicant or potential applicant for employment by one of our clients or have otherwise requested to receive information from one of our clients and would no longer like to be contacted by that client, please contact directly the client with which you interact via the address provided by the client, in its privacy policy or otherwise.<p></p>
     
     <h3>Service Provider, Sub-Processors/Onward Transfer</h3>
     
     <p>We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Clients.</p>
+    
     <h3>Access to Data Controlled by our Clients</h3>
     
     <p>We have no direct relationship with the individuals whose personal data we process on behalf of our clients. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to our client (the data controller). If the client requests us to remove the data, we will respond to their request within thirty (30) days.</p>
@@ -384,13 +523,13 @@
 
     <p>Upon request, TMP Worldwide will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete, or deactivate it by making the change on our member information page or by emailing our Customer Support at <a href="mailto:tbsupport@tmp.com">tbsupport@tmp.com</a>. We will respond to your request to access personal information within thirty (30) days.</p>
     
-    <p>We will retain your information for as long as your account is active or as needed to provide you services.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements or as otherwise provided in the privacy policy of our client on whose behalf your information was provided.</p>
+    <p>We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements or as otherwise provided in the privacy policy of our client on whose behalf your information was provided.</p>
     
     <p>Opt-out Preferences - If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or accessing the email preferences in your account settings page.</p>
     
     <h2>Tracking Technologies / Cookies</h2>
     
-    <p>Technologies such as: cookies, beacons, tags and scripts are used by TMP Worldwide and our marketing partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.</p>
+    <p>Technologies such as: cookies, beacons, tags, scripts or similar technologies are used by TMP Worldwide and our marketing partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.</p>
     
     <p>We use cookies for site tracking, remembering feature preferences and related purposes. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.</p>
     
@@ -400,11 +539,9 @@
     
     <p>We do not link this automatically-collected data to personal information.</p>
     
-    <p>We use Local Storage Objects (LSOs) such as HTML5 or Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash LSOs please <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html">click here</a>.</p>
-    
     <h2>Behavioral Targeting / Re-Targeting</h2>
 
-    <p>We partner with one or more third parties either to display advertising on our Web site or to manage our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish not to have this information used for the purpose of serving you interest-based ads, you may opt-out by <a href="http://preferences-mgr.truste.com/">clicking here</a> (or if located in the European Union click  <a href="http://www.youronlinechoices.eu">here</a>). Please note this does not opt you out of being served ads. You will continue to receive generic ads.</p>
+    <p>We partner with one or more third parties either to display advertising on our Web site or to manage our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish not to have this information used for the purpose of serving you interest-based ads, you may opt-out by <a href="http://preferences-mgr.truste.com/&#10;    ">clicking here</a> (or if located in the European Union click <a href="http://www.youronlinechoices.eu/">here</a>.) Please note this does not opt you out of being served ads. You will continue to receive generic ads.</p>
     
     <h2>Security</h2>
     
@@ -445,8 +582,6 @@
 
 
 
-
-
                 </div>
     
             </article>
@@ -454,6 +589,8 @@
         </main><!--/#primary-content-->
         
         
+
+
 
     <a class="footer-call-to-action" data-custom-event="true" data-custom-category="Custom Event Link" data-custom-label="Contact Us" href="/connect/">Contact Us</a>
 
@@ -476,9 +613,10 @@
 	
 	<div id="primary-footer-copyright">
 
-		<p><small>© 2017 TMP Worldwide. An equal opportunity employer.</small></p>
+		<p><small>© 2018 TMP Worldwide. An equal opportunity employer.</small></p>
 
 		<ul>
+		    <li><a href="http://go.tmp.com/DemoTalentBrew">Request a Demo</a></li>
 		    <li><a href="/connect/" data-custom-event="true" data-custom-category="Custom Event Link" data-custom-label="Contact US">Contact Us <span class="wai">(TMP)</span></a></li>
 			<li><a href="/privacy/">Privacy Statement</a></li>
 			<li><a href="/terms/">Terms &amp; Conditions</a></li>
@@ -498,19 +636,19 @@
     </div><!--/#page-->
 
     
-    
+   
     <script src="//tbcdn.talentbrew.com/bundles/tb-core"></script>
-
+     
     <script src="//tbcdn.talentbrew.com/company/3401/js/2221-Full.min.js"></script>
     
     
     
     
 
+<script id="tmp-magic-bullet" src="https://services.tmpwebeng.com/magicbullet/" data-a11y="true" data-gdpr="true" data-gdpr-custom-form-message="By submitting your information, you acknowledge that you have read our <a href='/privacy/' target='_blank'>candidate privacy policy</a> and consent to receive email communication." data-gdpr-button-text="OK" data-gdpr-policy-url="/privacy/" data-gdpr-client-name="TMP Worldwide"></script>
 
     
-    <script async="" src="/a11y-fixes/"></script>
-
+    
 
 
 
@@ -563,7 +701,7 @@
     
     	    
     
-    <!-- Machine Name:  BREWWEB08P -->
+    <!-- Machine Name:  9819303bee8f -->
 
 
 <input type="hidden" id="dimension3" value="3401"><input type="hidden" id="dimension4" value="3401"><input type="hidden" id="dimension8" value="Privacy Statement"><input type="hidden" id="dimension10" value="ContentPage"><input type="hidden" id="dimension11" value="null;29979;Content"><input type="hidden" id="dimension12" value="Active"></body></html>
