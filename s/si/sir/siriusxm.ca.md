@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the siriusxm.ca privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617121735id_/http%3A//www.siriusxm.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siriusxm.ca privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904105802id_/https%3A//www.siriusxm.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SiriusXM Canada
 
 If you are a new SiriusXM Canada subscriber on or after September 1, 2015, or if you use the Site on and after this date, this Privacy Policy applies to you.
 
-If you are a **Sirius Canada subscriber** prior to September 1, 2015, the Privacy Policy applicable to your subscription can be found here: <http://www.siriusxm.ca/privacy-policy-sirius/>
+If you are a **Sirius Canada subscriber** prior to September 1, 2015, the Privacy Policy applicable to your subscription can be found here: <https://www.siriusxm.ca/privacy-policy-sirius/>
 
-If you are an **XM Canada subscriber** prior to September 1, 2015, the Privacy Policy applicable to your subscription can be found here: <http://www.siriusxm.ca/privacy-policy-xm/>
+If you are an **XM Canada subscriber** prior to September 1, 2015, the Privacy Policy applicable to your subscription can be found here: <https://www.siriusxm.ca/privacy-policy-xm/>
 
 We have updated our Privacy Policy to make it more modern and easy to understand, and to bring Sirius and XM customers under a single uniform privacy policy. This update is primarily meant to bring our customers under one privacy policy, regardless of the SiriusXM Canada services you use. In addition, we have modernized our disclosure policy by outlining our use of social media, mobile, and online analytics information. We also describe in more detail how we collect and receive personal information from third parties.
 
@@ -46,7 +46,7 @@ We use personal information to operate the Sites and Services, for our marketing
 
 We share your information with service providers that assist us in delivering our Services, with information processors to help us communicate with and better understand our subscribers, and with marketing partners such as automakers, who market SiriusXM Canada services on our behalf. These third parties have access to your personal information only to the extent necessary to perform the functions they carry out on our behalf, are not permitted to use it for other purposes, and are bound to keep the information strictly confidential. You may opt-out from our communications related to the marketing of our Services without any impact on your use of the Site or Services.
 
-We also may disclose your information when permitted or required to by law, to enforce our [Customer Agreement](http://www.siriusxm.ca/terms-and-conditions/) and our legal relationships with third parties, and to detect, prevent, or otherwise address fraud, security, or technical issues.
+We also may disclose your information when permitted or required to by law, to enforce our [Customer Agreement](https://www.siriusxm.ca/terms-and-conditions/) and our legal relationships with third parties, and to detect, prevent, or otherwise address fraud, security, or technical issues.
 
 ## 1\. Information we collect
 
@@ -227,3 +227,14 @@ If you wish to contact our Privacy Officer, you can do one of the following:
 By Email [privacy@siriusxm.ca](mailto:privacy@siriusxm.ca); or,
 
 By Mail Attn: Privacy Officer, Sirius XM Canada Inc., 135 Liberty Street, Suite 400, M6K 1A7
+
+## Select Your Service
+
+The website is customized to show channels and plans for the  Service.
+
+[Sirius]() [XM]() [SiriusXM]()
+
+Don't know what service you have? Try our [VIN lookup tool](https://web.archive.org/what-is-siriusxm/in-your-vehicle/vin-lookup/) | I want to explore
+
+Don't know what service you have? Use our [VIN lookup tool](https://web.archive.org/what-is-siriusxm/in-your-vehicle/vin-lookup/).  
+Don’t have a radio? Try [SiriusXM streaming](https://player.siriusxm.ca/). 
