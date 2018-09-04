@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurocircuits.com privacy policy that was archived on 2018-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180223170117id_/http%3A//www.eurocircuits.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurocircuits.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904031313id_/http%3A//www.eurocircuits.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Statement – Eurocircuits
 
@@ -31,7 +31,6 @@ We will only use your Personal Information in the way we specified when it was c
   * __To provide the ability to contact you, and provide you with shipping and billing information.
   * __To provide customer feedback and support.
   * __To provide marketing or promotional activities on the Eurocircuits.com website.  Personal Information may be collected to administer those programs.
-  * __collected to administer those programs.
   * __To conduct questionnaires and surveys in order to provide better products and services to our customers.  Your completion of any questionnaires is voluntary
   * __To understand more about you, so we can personalize newsletters and websites to your preferences. For example,  allow you the opportunity to request specific information on products and services that may be of interest.
   * __To allow you to forward information to another individual such as a friend or co-worker. Eurocircuits does not  store the personal information of the third party. We collect the information for the sole purpose of sending a one-time email. If you choose to use our referral service to inform a colleague or friend, we will only ask for a contact name and email address.
