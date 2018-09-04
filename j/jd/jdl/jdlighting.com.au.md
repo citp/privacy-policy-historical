@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jdlighting.com.au privacy policy that was archived on 2018-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180405042312id_/https%3A//www.jdlighting.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jdlighting.com.au privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904075615id_/https%3A//www.jdlighting.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | JD Lighting
+# Privacy Policy | JD Lighting | JD Lighting
 
 This privacy policy sets out how JD Lighting uses and protects any information that you give JD Lighting while using this website. JD Lighting is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
