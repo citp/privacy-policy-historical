@@ -1,13 +1,62 @@
-> *The following text is extracted and transformed from the julian-fashion.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619213142id_/https%3A//www.julian-fashion.com/en-US/policy/CondPrv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the julian-fashion.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904042403id_/https%3A//www.julian-fashion.com/en-US/policy/CondPrv) for the most accurate reproduction.*
 
 # 
 
-By viewing the Internet website www.julian-fashion.com, customers will be provided with information about products and the possibility of purchasing them. By entering the Internet website julian-fashion.com, users accept and agree to abide to all terms contained in this statement. www.julian-fashion.com reserves the right to ask users who do not accept or who do not intend to comply with these terms, to give up using the website julian-fashion.com. Access to the site and its services is intended solely for personal use. **PRIVACY POLICY  
-** We care a lot about the protection of personal data and the privacy of our customers. With the following statement on the protection, therefore, we want to give information on the way we process personal data of our customers. The term "personal data" is defined by law and indicates "particular data about personal or material circumstances of an identified or identifiable person". These data include e.g. full name, postal address and e-mail address or other data related to an individual.
+**DISCLOSURE PURSUANT TO ART. 13 and 14 OF THE EUROPEAN REGULATION 679/2016 (GDPR)**
 
- **Responsible for handling and data protection  
-** Responsible for data handling and at the same time service provider is Julian Fashion S.r.l., Viale Matteotti, 31 - 48015 Milano Marittima (RA), Italy. For questions related to our website, the information below and to contact a privacy policy representative, please contact [customercare@julian-fashion.com](mailto:customercare@julian-fashion.com).
+Here at Julian Fashion, we are committed to the protection of our clients’ personal data and their privacy. This Privacy Policy intends to detail how we process this data. The term “personal data” is defined by the General Data Protection Regulation (GDPR) as “ _any information relating to an identified or identifiable natural person ('Data Subject')_ ”, such as surnames, email addresses and other information that identify a person or render them identifiable. 
 
- **Collection and use of personal data  
-** During the customer registration, we collect and use this information to create an account and we use them only if they are necessary for the development of the online buying process. Customer data are transmitted to third parties only if this is necessary for the purposes of execution of the contract or for checks regulation. During the processing of the order, the appointed service providers (e.g. transport companies, payment service providers, banks) receive data necessary for the fulfillment of the order. By subscribing to our newsletter, you give your consent to www.julian-fashion.com to use data for the purposes of sending to the customer e-mails about products or content selected by it. You may revoke your consent declaration at any time - with effect in the future - by e-mail to info@julian-fashion.com. Moreover are collected, processed and used data related to addresses and orders for the purposes of marketing. You may prevent the use, processing and transmission of personal data at any time by sending communication by post, fax or e-mail to [customercare@julian-fashion.com](mailto:customercare@julian-fashion.com). **  
-**
+Purposes of Processing Personal Data
+
+Julian Fashion processes clients’ personal information mainly for purposes of allowing them access, registration and purchases.
+
+Any further processing takes place only on the basis of obligations established by law, or with the explicit consent given by the User to the Owner.
+
+In particular, Julian Fashion collects and processes the personal data of Users for the following purposes:
+
+  1. To respond to requests from Users sent via the Site;
+  2. To fulfill orders;
+  3. To fulfill legal or fiscal obligations pursuant to current legislation;
+  4. Communicate, with the Users’ consent, through different channels to offer them commercial offers and promotions
+
+
+
+Personal data may be processed via either paper or digital means (including portable devices) and appropriate security measures are taken to protect them and guarantee their confidentiality and integrity and are processed strictly for the purposes detailed above. 
+
+Consequences of the Failure to Communicate Personal Data
+
+The failure to communicate personal data necessary for the fulfillment of the sales contract or a legal obligation (such as those related to the keeping of accounting & tax records) will impede the fulfillment of said sales contract.
+
+Data Retention
+
+Personal Data processed by Julian Fashion under the User’s consent will be retained exclusively for the time needed to achieve the purpose for which they were originally collected or until the consent for their processing is revoked.
+
+For further information with regards to the criteria and timing of the storage of your data, please contact our Data Protection Officer at [**privacy@julian-fashion.com**](mailto:privacy@julian-fashion.com)
+
+Sharing Your Data
+
+Julian Fashion shall not share its clients’ personal data with third parties, internal or external, unless it is absolutely necessary for the fulfillment of the sales contract and under the clients’ consent, with the adequate security measures taken to ensure their integrity.
+
+In accordance with the new EU Regulation UE 2016/679 on Data Protection (GDPR), the data may be transferred to non EU countries or countries not belonging to the European Economic Area, that however grant an adequate level of protection of the personal data. In any case, the data processing will take place in accordance with the provisions of the current rules and regulations.
+
+Client Rights
+
+Among the rights granted to you by this Privacy Regulation are:
+
+  * Requesting access to your personal data, correction of inaccurate data or completing incomplete data, erasure of your data (upon the occurrence of one of the conditions indicated in article 17, paragraph 1 of the GDPR and in compliance with the exceptions provided for in paragraph 3 of the same article), the limitation of the processing of your personal data (upon the use of one of the hypotheses indicated in Article 18, paragraph 1 of the GDPR);
+  * Requesting and obtaining portability of your personal data (where applicable);
+  * Opposing at any point in time the processing of your personal data with regards to the occurrence of certain situations that might affect you;
+  * Revoking the consent given to processing your data at any point in time by communicating your request via e-mail at [**privacy@julian-fashion.com**](mailto:privacy@julian-fashion.com). The processing of your data prior to the revocation of consent remains lawful however.
+  * Submitting complaints to supervisory authorities, where the conditions exist.
+
+
+
+Data Controller and Data Protection Officer
+
+Julian Fashion s.r.l is the Data Controller and service provider with its office located in Viale Matteotti n. 31- 45015 Milano Marittima (RA)
+
+For any questions related to our website, please contact [**customercare@julian-fashion.com**](mailto:customercare@julian-fashion.com); for information relative to processing personal data or privacy please contact the Data Protection Officer at [**privacy@julian-fashion.com**](mailto:privacy@julian-fashion.com)
+
+ Changes and Updates
+
+The present policy is valid from May 25, 2018. Changes and/or additions may be made by Julian Fashion also as a consequence of any subsequent changes and/or regulatory additions to the Privacy Regulations.
