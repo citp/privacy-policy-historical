@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steveharveytv.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625224230id_/http%3A//steveharvey.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steveharveytv.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904022437id_/http%3A//steveharvey.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Steve Harvey
 
