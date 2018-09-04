@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinemaclock.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026055601id_/http%3A//www.cinemaclock.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinemaclock.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904033651id_/https%3A//www.cinemaclock.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,8 +10,10 @@ We collect personal information (such as name, e-mail, age, sex, address, teleph
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/). 
 
+If you login to our website by using Facebook or Google, please refer to their privacy policy published on their website. Using any external services such as Facebook, Google, Twitter, Instagram, or others is beyond this privacy policy, and we invite you to refer to their respective privacy policies. 
+
 By using our Internet site, you are giving us your consent to our use of the information you provide to us as laid out in this privacy protection policy. 
 
 If you no longer want to receive e-mail messages from us, please [click here to contact us](https://web.archive.org/contact-us). By providing your personal information for the purposes specified above, you are giving us your permission for using this information accordingly. 
 
-(rev. 2012-07-11) 
+(rev. 2012-07-11) (rev. 2017-12-20 - login + external sites) 
