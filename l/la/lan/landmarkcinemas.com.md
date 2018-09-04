@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the landmarkcinemas.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119120658id_/https%3A//www.landmarkcinemas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landmarkcinemas.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904025908id_/https%3A//www.landmarkcinemas.com/privacy-policy) for the most accurate reproduction.*
 
 # Landmark Cinemas Privacy Policy
 
 **Last updated: November 23, 2016**
 
-This Privacy Policy provides you with information regarding the practices of Landmark Cinemas of Canada Inc. with respect to the collection, use, retention, storage and disclosure of your Personal Information by Landmark Cinemas of Canada Inc. (“ **Landmark** ”), Suite 100, 14505 Bannister Rd SE Calgary, Alberta T2X 3J3, **** by the website landmarkcinemas.com.
+This Privacy Policy provides you with information regarding the practices of Landmark Cinemas Canada LP with respect to the collection, use, retention, storage and disclosure of your Personal Information by Landmark Cinemas Canada LP (“ **Landmark** ”), Suite 100, 14505 Bannister Rd SE Calgary, Alberta T2X 3J3, **** by the website landmarkcinemas.com.
 
 The following defined terms are used in this Privacy Policy:   
-**“We” or “us”** means Landmark Cinemas of Canada Inc. and our Affiliates.  
+**“We” or “us”** means Landmark Cinemas Canada LP and our Affiliates.  
 “ **Site** ” means the Landmark website at [www.landmarkcinemas.com](https://www.landmarkcinemas.com/).  
 “ **Personal Information** ” means information about you as an identifiable individual.  This includes information such as your name, home address, telephone number, personal e-mail address, and personal social media addresses.  If you are an individual and not a business organization, your business address, title, and business telephone number are not Personal Information when used for business purposes.  
 “ **Affiliates** ” means our affiliates, subsidiaries and other related entities.   
