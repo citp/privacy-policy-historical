@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exitravel.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903043543id_/http%3A//www.exitnow.ca/about/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exitravel.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904184411id_/https%3A//www.exitnow.ca/about/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -233,6 +233,7 @@ Living standards and practices at the destination and the standards and conditio
 
 For any question relating to your online booking, please contact exitnow.ca at 1 866 561-3948.
 
-exitnow.ca is a division of Transat Distribution Canada Inc. 
+exitnow.ca is a division of Transat Distribution Canada Inc.  
+Transat Distribution Canada Inc. is registered as a retail travel agent in Québec (753141) and Ontario (50015084) with offices located in Montréal : Place du Parc, 300, rue Léo-Pariseau, bureau 1601, Montréal (Québec) H2X 4B3 ; in Toronto au 5090 Explorer Drive, Suite 800, Mississauga, Ontario L4W 4T9.
 
 January, 2007
