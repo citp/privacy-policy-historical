@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the candywarehouse.com privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011064752id_/https%3A//www.candywarehouse.com/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candywarehouse.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904162556id_/https%3A//www.candywarehouse.com/service/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CandyWarehouse.com
 
@@ -23,10 +23,10 @@ CandyWarehouse.com recommends that if you are providing information on behalf of
 2\. When making a purchase, signing up for our newsletter, or joining our Candy Blog, the following information is generally collected from you: Contact information such as name, email address, billing and shipping address, and phone numbers; and financial information such as credit card number. We work with a number of third party service providers to facilitate these functions on behalf of our website. Please be aware that when utilizing these features, you will be submitting your information directly to these third party websites. Please see "Information Sharing and Disclosure" sections below for further information. This information is used for billing purposes to fulfill orders and to subscribe you to our newsletter and our Candy Blog. In providing this personally identified information to the above 3rd parties, these companies do not have any independent right to share this information. Therefore, CandyWarehouse.com governs the collection and use of this type of shared information.  
 
 
-When making a purchase, additional information may be requested if you are sending an order to someone other than yourself. For example, if you are sending a shipment to a friend, you will be providing that friend’s shipping address and phone number so that we may fulfill this request. The friend’s information is not used for any secondary purposes. Your friend may contact us at customercare@candwarehouse.com] to request that we remove this information from our database.  
+When making a purchase, additional information may be requested if you are sending an order to someone other than yourself. For example, if you are sending a shipment to a friend, you will be providing that friend’s shipping address and phone number so that we may fulfill this request. The friend’s information is not used for any secondary purposes. Your friend may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)] to request that we remove this information from our database.  
 
 
-You have the option to create an account on the website. You can make updates, changes or deletion to your information within your account at any time if logged in to your account on the website. You can also request changes, updates or deletion of your account by calling Customer Care at 310-343-4099 or via email at customer care@candywarehouse.com.  
+You have the option to create an account on the website. You can make updates, changes or deletion to your information within your account at any time if logged in to your account on the website. You can also request changes, updates or deletion of your account by calling Customer Care at 310-343-4099 or via email at customer [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
 
 
 CandyWarehouse.com allows you to register and log in using your Facebook account, or utilize your Facebook account to make use of social features on CandyWarehouse.com. In doing so, Facebook will ask your permission to share certain information from your Facebook account with CandyWarehouse.com. This may include your first name, last name, gender, profile picture, list of friends, a link to your Facebook profile, likes, and other data that is part of your or your friends’ Facebook profile(s). This information is collected by Facebook and is provided to us under the terms of [Facebook’s privacy policy](https://www.facebook.com/about/privacy/). You can control the information that we receive from Facebook using the privacy settings in your Facebook account. 
@@ -119,7 +119,7 @@ Our Web site includes Social Media Features, such as the Facebook Like button, a
 **Blog**  
 
 
-If you make comments on the CandyWarehouse.com blog, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. _To request removal of your personal information from our blog or community forum, contact us at_ customercare@candywarehouse.com.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.  
+If you make comments on the CandyWarehouse.com blog, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. _To request removal of your personal information from our blog or community forum, contact us at_[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.  
 
 
 **Security**  
@@ -131,7 +131,7 @@ The security of your personally identifiable information is important to us. Whe
 We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personally identifiable information, we cannot guarantee its absolute security.  
 
 
-If you have any questions about security on our Web site, you can send email us at customercare@candywarehouse.com.  
+If you have any questions about security on our Web site, you can send email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
 
 
 **Business Transitions**  
@@ -143,7 +143,7 @@ In the event CandyWarehouse.com goes through a business transition, such as a me
 **Data Retention**  
 
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at customercare@candywarehouse.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.  
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.  
 
 
 **Changes in this Privacy Policy**  
@@ -158,7 +158,7 @@ We reserve the right to modify this privacy statement at any time, so please rev
 **Contact Us**  
 
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at: 310-343-4099 or customercare@candywarehouse.com.  
+If you have any questions or suggestions regarding our privacy policy, please contact us at: 310-343-4099 or [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
 
 
 CandyWarehouse.com  
