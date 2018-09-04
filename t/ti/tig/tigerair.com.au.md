@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigerair.com.au privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319204828id_/https%3A//tigerair.com.au/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerair.com.au privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904074432id_/https%3A//tigerair.com.au/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | tigerair Australia
 
@@ -155,12 +155,13 @@ We may disclose your personal information to our related entities, your referees
 
 Cookies are tiny files sent to your browser and stored by your browser on your computer or other device that you're using to access our website or use our mobile applications.
 
-Our cookies collect your IP address or MAC address, the city associated with your IP or MAC address, the date and time of your visit to our website, pages viewed, the URL of the website that you viewed before our website and the type of browser you use.
+Our cookies collect your IP address or MAC address, the city associated with your IP or MAC address, the date and time of your visit to our website, pages or advertisements viewed, the URL of the website that you viewed before our website and the type of browser you use.
 
-We also use web tracking/analytic tools that generate detailed statistics about traffic to our website and traffic sources. These tools can also measure and record conversions and sales.  
+We also use web tracking/analytic tools that generate detailed statistics about traffic to our website, traffic sources and how you interact with advertisements on our websites and third party websites. These tools can also measure and record conversions and sales.
+
 The cookies and web-tracking tools allow our websites and mobile applications to interact more efficiently with the device you are using and to help us improve the content and functioning of our website and mobile applications.
 
-We also use cookies to help us and our third party service providers present targeted and customised advertising to you on our website and on third party websites.
+We also use cookies and similar technologies to help us and our third party service providers (such as Google Adwords, DoubleClick and Facebook) present targeted and customised advertising to you on our website and on third party websites. You can find more information on these third party services and opt-out of receiving ads delivered by these services at youronlinechoices.com.au.
 
 ## 8. Our marketing and your personal information
 
