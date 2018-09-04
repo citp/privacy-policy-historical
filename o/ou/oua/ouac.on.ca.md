@@ -1,25 +1,28 @@
-> *The following text is extracted and transformed from the ouac.on.ca privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607164708id_/https%3A//www.ouac.on.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ouac.on.ca privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904044918id_/https%3A//www.ouac.on.ca/privacy) for the most accurate reproduction.*
 
-# Privacy - Ontario Universities' Application Centre
+# Privacy | Ontario Universities' Application Centre
 
 The Ontario Universities’ Application Centre (OUAC) is committed to protecting your privacy and the confidentiality of your personal information.
 
 ## Declaration and Notice of Collection, Use, Disclosure and Treatment of Your Personal Information (Division-specific)
 
-  * [101](https://web.archive.org/web/20170607164708id_/https://www.ouac.on.ca/privacy/101-declaration) (Current Ontario High School Students [101])
-  * [105](https://web.archive.org/web/20170607164708id_/https://www.ouac.on.ca/privacy/105-declaration) (All Other Undergraduate Applicants [105])
-  * [OLSAS](https://web.archive.org/web/20170607164708id_/https://www.ouac.on.ca/privacy/olsas-declaration) (Ontario Law School Application Service)
-  * [OMSAS](https://web.archive.org/web/20170607164708id_/https://www.ouac.on.ca/privacy/omsas-declaration) (Ontario Medical School Application Service)
-  * [ORPAS](https://web.archive.org/web/20170607164708id_/https://www.ouac.on.ca/privacy/orpas-declaration) (Ontario Rehabilitation Sciences Programs Application Service)
-  * [TEAS](https://web.archive.org/web/20170607164708id_/https://www.ouac.on.ca/privacy/teas-declaration) (Teacher Education Application Service)
+  * [101](https://web.archive.org/web/20180904044918id_/https://www.ouac.on.ca/privacy/101-declaration) (Current Ontario High School Students [101])
+  * [105](https://web.archive.org/web/20180904044918id_/https://www.ouac.on.ca/privacy/105-declaration) (All Other Undergraduate Applicants [105])
+  * [Grad](https://www.ouac.on.ca/privacy/grad-declaration/)
+  * [Ontario College of Teachers (OCT)](https://www.ouac.on.ca/privacy/teas-oct-declaration/)(Transcript Requests)
+  * [OLSAS](https://web.archive.org/web/20180904044918id_/https://www.ouac.on.ca/privacy/olsas-declaration) (Ontario Law School Application Service)
+  * [OMSAS](https://web.archive.org/web/20180904044918id_/https://www.ouac.on.ca/privacy/omsas-declaration) (Ontario Medical School Application Service)
+  * [ORPAS](https://web.archive.org/web/20180904044918id_/https://www.ouac.on.ca/privacy/orpas-declaration) (Ontario Rehabilitation Sciences Programs Application Service)
+  * [TEAS](https://web.archive.org/web/20180904044918id_/https://www.ouac.on.ca/privacy/teas-declaration) (Teacher Education Application Service)
+  * [Undergrad-Contract](https://www.ouac.on.ca/privacy/undergrad-contract-declaration/)
 
 
 
 ## Ontario Universities’ Application Centre Privacy Statement
 
-The Ontario Universities’ Application Centre (OUAC) is a division of the Council of Ontario Universities (COU). We process applications for admission to Ontario university programs on behalf of the universities in Ontario and engage in other work to support the university sector.
+The Ontario Universities’ Application Centre (OUAC) is a division of the Council of Ontario Universities (COU). We process applications for admission to Ontario university programs on behalf of the Ontario universities.
 
-We are committed to protecting and respecting your personal information. This Privacy Statement explains how we collect, use and share your personal information.
+We are committed to protecting and respecting your personal information. This Privacy Statement explains how we will collect, use, disclose and otherwise manage your personal information.
 
 We do not use or share your personal information without your consent, except as set out in this Privacy Statement.
 
@@ -27,10 +30,10 @@ We do not use or share your personal information without your consent, except as
 
 #### Personal Information
 
-  * We collect the personal information you provide when you create an online application account. This information includes your name, email address, encrypted password and, if applicable, secondary school number. When you apply to a university program, you must provide all of the personal information necessary to process your application.
+  * We collect the personal information you provide in your application, or in reference to your application, to process your application to your chosen universities.
   * We sometimes ask for personal information that you are not required to provide, but you may provide if you wish. For example, we may request personal information that allows you to take advantage of special programs.
   * We collect personal information about you from other sources, as required, such as your secondary school, other academic institutions you have attended, and third-party test score providers. We forward this information to your chosen universities so they can evaluate your application.
-  * We collect personal and payment information when you pay (or someone else pays) for your application. We use this information only for payment purposes and to respond to any inquiries about payment.
+  * We collect payment information when you pay (or someone else pays) for your application. We use this information to process your payment and to respond to any inquiries about payment.
   * We may ask for your personal information when you call with a comment or question, so that we can respond to your question effectively. We may retain this personal information to assist you in the future or to monitor or improve our services.
 
 
@@ -71,15 +74,15 @@ We share your personal and payment information (or the personal and payment info
 #### Statistics for Research and Policy Development
 
   * We may disclose your academic, application, confirmation and registration information in non-identifiable form to the Ontario universities and some Ontario secondary school boards for admissions, enrollment and other academic policy development and research purposes.
-  * We use your information in aggregate, non-personally identifiable form to create statistical reports for research purposes. This information may be used by 
-    * the public via the OUAC website,
-    * government ministries (e.g., Ontario Ministry of Advanced Education and Skills Development, Ontario Ministry of Education),
-    * the COU,
-    * Ontario’s universities and colleges,
-    * the Ontario College Application Service (OCAS),
-    * Ontario secondary school boards, and
-    * academic researchers (at the OUAC’s discretion) for admissions, enrollment and other academic policy development, resource allocation and related purposes.
-  * We may use your personal information to contact you for surveys. If you agree to complete the survey, we use your personal information only to process the survey responses. The information obtained from the survey is used only in aggregate and non-identifiable form.
+  * We disclose your information in aggregate, non-personally identifiable statistical reports. This information may be used by the following groups: 
+    * The public, via the OUAC website
+    * Ontario universities and colleges
+    * Ontario College Application Service (OCAS)
+    * Ontario school boards
+    * Ontario government ministries (Ministry of Training, Colleges and Universities, Ministry of Education)
+    * COU
+    * Academic researchers (at the OUAC’s discretion) for admissions, enrollment and other academic policy development and research purposes
+  * We may use your personal information to contact you for surveys. If you agree to complete the survey, we use your personal information only to process the survey responses. The information obtained from the survey is used only in aggregate and non-personally identifiable form.
 
 
 
@@ -94,17 +97,17 @@ We share your personal and payment information (or the personal and payment info
   * We may disclose your personal information to an investigative body in the case of a breach of an agreement, contravention of law, search warrant or other legally valid inquiry or order, or as otherwise required by law.
   * We may disclose personal information to assist us in collecting a debt you owe us, or otherwise where necessary for the establishment, exercise or defence of legal claims.
   * We may disclose your information, including your personal information, to comply with contractual or other legal obligations in relation to the services we provide to universities and others.
-  * We, and the universities, may share some or all of your personal information with universities and colleges across Canada when we detect application fraud, as specified in the privacy notice of each individual application.
+  * We and/or the universities may disclose some or all of your personal information with universities and colleges across Canada when we detect application fraud, as specified in the privacy notice of each individual application.
 
 
 
 ### How Do We Protect Your Personal Information?
 
-We maintain administrative, technical and physical safeguards to protect against unauthorized access, use, modification or disclosure of your personal information.
+We maintain administrative, technical and physical safeguards in an effort to protect against unauthorized access, use, modification or disclosure of your personal information.
 
   * We restrict access to personal information only to employees and authorized service providers who require the information for the purposes described in this Privacy Statement.
-  * We destroy any supplementary material you submit in support of your application at the end of each application cycle. This material will not be returned to you or forwarded to third parties.
-  * We store electronic records off-site as part of our disaster recovery procedures, ensuring that your data is secure in the case of an emergency.
+  * At the end of each application cycle, we destroy any supplementary material you submit in support of your application. This material will not be returned, forwarded or copied to you, and will not be forwarded to third parties, prior to being destroyed.
+  * We store electronic records off-site as part of our disaster recovery procedures.
   * We do not collect, transmit or store any credit cardholder data. All credit card processing is done by a third party.
   * We use a high level of security during the transfer of application data. All files transferred to or from the OUAC use a Secure Socket Shell (SSH) protocol. Files containing personal information have an additional layer of encryption called Pretty Good Protection (PGP) to ensure that an unauthorized third party cannot decrypt the file.
   * We ensure that third-party service providers maintain the confidentiality and security of your personal information and to use it only in compliance with applicable privacy laws.
@@ -129,7 +132,7 @@ We may update this privacy statement periodically to reflect changes to our pers
 
 ### How to Contact Us
 
-Contact our Applicant Services department at any time if
+Contact our Applicant Services department at any time if:
 
   * you have any questions or comments about this privacy statement,
   * you wish to access and/or correct the personal information we have in our custody or control, or
@@ -139,4 +142,4 @@ Contact our Applicant Services department at any time if
 
 [Contact us for more information](https://web.archive.org/contact).
 
-Last updated: August 12, 2016
+Last updated: August 20, 2018
