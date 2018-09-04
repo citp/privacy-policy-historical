@@ -1,99 +1,248 @@
-> *The following text is extracted and transformed from the statisticalatlas.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626025727id_/https%3A//statisticalatlas.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statisticalatlas.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904064903id_/https%3A//statisticalatlas.com/policies/privacy) for the most accurate reproduction.*
 
 # The Demographic Statistical Atlas of the United States - Statistical Atlas
 
-Last Modified: Nov 15, 2013. 
+Effective Date: May 25, 2018. 
 
-## StatisticalAtlas.com and Cedar Lake Ventures, Inc
+##  StatisticalAtlas.com and Cedar Lake Ventures, Inc. 
+
+StatisticalAtlas.com is owned and operated by Cedar Lake Ventures, Inc. 
+
+This policy applies to StatisticalAtlas.com. Other web sites and services owned and operated by Cedar Lake Ventures, Inc. have their own privacy policies. 
 
 ## Introduction
 
-Cedar Lake Ventures, Inc ("Cedar Lake Ventures") knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the [statisticalatlas.com](http://statisticalatlas.com/) website and domain name, and any other linked pages, features, content, or application services offered from time to time by Cedar Lake Ventures in connection therewith (collectively, the "Website"), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. 
+Cedar Lake Ventures, Inc. knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the [statisticalatlas.com](https://statisticalatlas.com/) website, and any other linked pages, features, content, or application services offered from time to time by Cedar Lake Ventures, Inc. in connection therewith (collectively, the 'Website' or 'Service'), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. 
 
-## What Does This Privacy Policy Cover?
+## Information Collection and Use
 
-This Privacy Policy covers Cedar Lake Ventures's treatment of personally identifiable information ("Personal Information") that Cedar Lake Ventures gathers when you access the Website and when you use Cedar Lake Ventures's services. This policy does not apply to the practices of companies that Cedar Lake Ventures does not own or control, or to individuals that Cedar Lake Ventures does not employ or manage. 
+We collect several different types of information for various purposes to provide and improve our Service. While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Additionally, we may collect other data that, while not itself personally identifiable, is associated in our systems with personally identifiable data. The listing below outlines the data that we collect, why we collect it, our legal basis under the General Data Protection Regulation for doing so, and our retention policies for each type of data. 
 
-## What Personal Information Does Cedar Lake Ventures Collect?
+Accounts
+    
 
-The information we gather from customers enables us to personalize and improve our services. We collect the following types of information from our customers: 
+Description
+     To make purchases on StatisticalAtlas.com, we require you to sign up for an account by providing us with your email address and a password (account credentials). We additionally record your IP address and the date and time of account creation. 
+Business Purpose
+     Your account is our central record of your activity and purchases on StatisticalAtlas.com. Your email address is how we identify you and your password is how we authenticate you. Your email address is also used to communicate with you, as described further below in our Email Policy. Your IP address is used for credit card and account fraud prevention, and customer support. The date and time you signed up is used for customer support. 
+Legal Basis
+     We need these records in order to perform services on your behalf, and we are legally required to maintain records of purchases. 
+Retention
+     Account credentials are generally retained indefinitely for the convenience of the user. 
+Cookies
+    
 
-### Personal Information You Provide to Us
+Description
+     Cookies are data stored by your browser on your device at the direction of a website, and provided to the website with each web request. Further details on cookies and our use of them are provided in a dedicated Cookies Policy below. 
+Business Purpose
+     We use cookies to identify you and your preferences so that we can perform services on your behalf. We place ads on the Website to earn revenue. We collect web analytics to track Website performance, improve our services, and related business purposes. 
+Legal Basis
+     We need them in order to perform services on your behalf, and in order to develop and improve our Service. 
+Retention
+     Cookies are stored in your browser and can be deleted by you at any time. 
+Email Communications
+    
 
-We receive and store any information you enter on our Website or provide to us in any other way. The types of Personal Information collected include your full name, email address, IP address, browser information, username, password and any other information necessary for us to provide you with our services. You can choose not to provide us with certain information, but then you may not be able to take advantage of certain features. The Personal Information you provide is used for such purposes as answering questions, sending product updates, and communicating with you about Cedar Lake Ventures's products and services, including specials and new features. 
+Description
+     We use third-party email service providers to send, receive, and retain emails. Please see our Service Providers section below for further details. 
 
-### Personal Information Collected Automatically
+Customer Support
+     We offer customer support. Users may email us directly, or fill out a customer support form on our Website. Emails are retained by our email servers. Communication that is initiated through the customer support form is sent by our web servers to our email servers as an email. In addition to the information provided directly by the user in the form, we also collect information about the operating system and web browser they are using (collectively referred to as the 'user agent'). 
 
-We receive and store certain types of information whenever you interact with our Website or use our services. Cedar Lake Ventures automatically receives and records information on our server logs from your browser including your IP address, cookie information, and the page you requested. 
+Business Purpose
+     Retaining customer support communication is integral to providing the support. 
+Legal Basis
+     We need it in order to perform services on your behalf. 
+Retention
+     Customer support emails are retained for the same period that the law requires us to retain transaction records. 
 
-Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our Website and its components, similar to TV ratings that indicate how many people watched a particular show. Cedar Lake Ventures only uses this data in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of aggregate data enables us to figure out how often customers use parts of the Website or services so that we can make the Website appealing to as many customers as possible, and improve those services. As part of this use of information, we may provide aggregate information to our partners about how our customers, collectively, use our Website or services. We share this type of statistical data so that our partners also understand how often people use the Website or services, so that they, too, may provide you with an optimal online experience. Again, Cedar Lake Ventures never discloses aggregate information to a partner in a manner that would identify you personally. 
+Unless otherwise noted, all records will be anonymized upon request when legally permissible. 
 
-### E-mail Communications
+## Transfer of Data
 
-We compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. When you receive e-mail from Cedar Lake Ventures, you can opt out of receiving further e-mails by following the included instructions to unsubscribe. You cannot opt out of receiving certain types of account management emails such as signup confirmation, receipts of purchases made and the like. 
+Your information, including personal data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ from those in your jurisdiction. 
 
-### What about Cookies?
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer. 
 
-Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. We use cookies to enhance visitors' experiences, to learn more about their use of the Website and to improve quality. 
+Cedar Lake Ventures, Inc. will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy. 
 
-Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because without cookies you will not be able to use any of our services. 
+## Disclosure of Data
 
-Ads appearing on the Website may be delivered to users by our advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Cedar Lake Ventures and does not cover the use of cookies by any advertisers. 
+### Disclosure to Law Enforcement
 
-## Will Cedar Lake Ventures Share any of the Personal Information it receives?
+Under certain circumstances, Cedar Lake Ventures, Inc. may be required to disclose your personal data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency). 
 
-Personal Information about our customers is an integral part of our business. We neither rent nor sell your Personal Information to anyone. We share your Personal Information only as described below.} 
+### Legal Requirements
 
-_Affiliated Businesses We Do Not Control:_ We anticipate that we may become affiliated with a variety of businesses and work closely with them. In certain situations, these businesses may sell items to you through the Website. In other situations, Cedar Lake Ventures may provide services, or sell products jointly with affiliated businesses. You can easily recognize when an affiliated business is associated with your transaction, and we will share your Personal Information that is related to such transactions with that affiliated business. 
+Cedar Lake Ventures, Inc. may disclose your personal data in the good faith belief that such action is necessary: 
 
-_Agents:_ We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, Cedar Lake Ventures's agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes. 
-
-_User profiles:_ User profile information and other information you enter ("User Submissions") may be displayed to other users to facilitate user interaction within the Website. Users' email addresses will not be directly revealed to other users by Cedar Lake Ventures, except when the user chooses to do so. 
-
-_Communication in response to User Submissions:_ As part of the Website and services, you may receive from Cedar Lake Ventures email and other communication relating to your User Submissions. You acknowledge and agree that by posting such User Submissions, Cedar Lake Ventures may send you email and other communication that it determines in its sole discretion relate to your User Submissions. 
-
-_Promotional Offers:_ We may send offers to you on behalf of other businesses. However, when we do so, we do not give the other business your name and address. If you do not wish to receive these offers, you can indicate so by selecting that option on the My Account page (as long as such option is not available, we will not send such emails). 
-
-_Business Transfers:_ In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that are transferred. Moreover, if Cedar Lake Ventures, or substantially all of its assets were acquired, or in the unlikely event that Cedar Lake Ventures goes out of business or enters bankruptcy, customer information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Cedar Lake Ventures may continue to use your Personal Information as set forth in this policy. 
-
-_Protection of Cedar Lake Ventures and Others:_ We may release Personal Information when we believe in good faith that release is necessary to comply with the law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Cedar Lake Ventures, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
-
-_With Your Consent:_ Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information. 
-
-## Is Personal Information about me Secure?
-
-Your Cedar Lake Ventures account Personal Information is protected by a password for your privacy and security. You need to ensure that there is no unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account. 
-
-Cedar Lake Ventures endeavors to protect user information to ensure that user account information is kept private; however, Cedar Lake Ventures cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. 
-
-The Website contains links to other sites. Cedar Lake Ventures is not responsible for the privacy policies and/or practices on other sites. When linking to another site you should read the privacy policy stated on that site. This Privacy Policy only governs information collected on the Cedar Lake Ventures Website. 
-
-## What personal information can I access?
-
-If we have collected it, Cedar Lake Ventures allows you to access the following information about you for the purpose of viewing, and in certain situations, updating that information. This list will change as the Website changes. 
-
-  * Real name and Address
-  * Account and user profile information
-  * User e-mail address
-  * Password
-  * User preferences
-
+  * To comply with a legal obligation
+  * To protect and defend the rights or property of Cedar Lake Ventures, Inc. 
+  * To prevent or investigate possible wrongdoing in connection with the Service
+  * To protect the personal safety of users of the Service or the public
+  * To protect against legal liability
 
 
-## What Choices Do I Have?
 
-As stated previously, you can always opt not to disclose information, even though it may be needed to take advantage of certain features of the Website and services. 
+## Security
 
-You are able to add or update certain information on pages, such as those listed in the "What Personal Information Can I Access" section above. When you update information, however, we often maintain a copy of the unrevised information in our records. 
+The security of your data is important to us and we use industry standard technical and organizational measures to protect your information. For example, our Website is served over HTTPS and we implement data security organizational access controls. 
 
-You may request deletion of your Cedar Lake Ventures account by selecting that option on the My Account page. Please note that some information may remain in our records after deletion of your account. 
+However, no method of transmission over the Internet, or method of electronic storage is completely and entirely secure. Therefore, while we strive to use commercially reasonable means to protect your data, we cannot guarantee its absolute security. 
 
-If you do not wish to receive email or other mail from us, please indicate this preference using the mechanisms provided on the Website. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes. 
+## Data Protection Rights Under General Data Protection Regulation (GDPR)
 
-## Changes to this Privacy Policy
+If you are a resident of the European Economic Area (EEA), the European Union has declared that you have certain data protection rights: 
 
-Cedar Lake Ventures may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Website or sending you an email. Users are bound by any changes to the Privacy Policy when he or she uses the Website after such changes have been first posted. 
+The rights to access, update or to delete the information we have on you
+     Whenever made possible, you can access, update or request deletion of your personal data directly on our Website. If you are unable to perform these actions yourself, please contact us to assist you. 
+The right of rectification
+    You have the right to have your information rectified if that information is inaccurate or incomplete. 
+The right to object
+    You have the right to object to our processing of your personal data. 
+The right of restriction
+    You have the right to request that we restrict the processing of your personal information. 
+The right to data portability
+    You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format. 
+The right to withdraw consent
+     You also have the right to withdraw your consent at any time where Cedar Lake Ventures, Inc. relied on your consent to process your personal information. 
+The right to complain
+     You have the right to complain to a Data Protection Authority about our collection and use of your personal data. For more information, please contact your local data protection authority in the European Economic Area (EEA). 
 
-## Questions or Concerns
+You can exercise all the aforementioned rights by emailing us at privacy@vectormagic.com. We shall address your request within 30 days of its receipt unless it is too complicated or we are dealing simultaneously with too many such requests. In the latter case, it may take us up to two additional months to address your request, but we will let you know if that is the case within 30 days of the receipt of your initial request. 
 
-If you have any questions or concerns regarding privacy on our Website, please send us a detailed message to privacy@vectormagic.com. We will make every effort to resolve your concerns. 
+## Service Providers
+
+We may employ third party companies and individuals to facilitate our Service ('Service Providers'), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used. The list below details some of the more significant third-party service providers that we employ: 
+
+Email Services
+     We may use third-party Service Providers to send, receive, or retain emails. 
+
+G Suite
+     We use Google's G Suite email service to send, receive and retain emails. 
+Amazon Web Services
+     We use Amazon Web Services Simple Email Service to send emails. 
+Analytics
+     We may use third-party Service Providers to monitor and analyze the use of our Service. 
+
+Google Analytics
+    
+
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data may be shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network. 
+
+You can opt-out of having your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity. 
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: http://www.google.com/intl/en/policies/privacy/ 
+
+Advertising
+     We may use third-party Service Providers to show advertisements to you to help support and maintain our Service. 
+
+Google AdSense & DoubleClick Cookie
+    
+
+Google, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet. 
+
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: http://www.google.com/ads/preferences/ 
+
+Miscellaneous
+     We may from time to time rely on various third parties to serve additional or enhanced content, such as embedded maps, reCAPTCHA, videos, user comments platform, customer support chat app, customer support platform, user forums, blogging platform, among others. Those services may place cookies and will have their own privacy policies. 
+
+## 'Do Not Track' Signals
+
+We do not support Do Not Track ('DNT'). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked. 
+
+You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser. 
+
+## Children's Privacy
+
+Our Service is not directed to anyone under the age of 18 ('Children'). 
+
+We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with personal data, please contact us. If we become aware that we have collected personal data from children without verification of parental consent, we take steps to remove that information from our servers. 
+
+## Email Policy
+
+We may use your personal data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send or by contacting us. 
+
+## Cookies Policy
+
+Cedar Lake Ventures, Inc. uses cookies on the StatisticalAtlas.com website. By using the Service, you consent to the use of cookies. 
+
+Our Cookies Policy explains what cookies are, how we use cookies, how third-parties we may partner with may use cookies on the Service, your choices regarding cookies and further information about cookies. 
+
+### What are cookies
+
+Cookies are small pieces of text sent to your web browser by a website you visit. A cookie file is stored in your web browser and allows the Service or a third-party to recognize you and make your next visit easier and the Service more useful to you. 
+
+Cookies can be 'persistent' or 'session' cookies. Persistent cookies remain on your personal computer or mobile device when you go offline, while session cookies are deleted as soon as you close your web browser. 
+
+###  How Cedar Lake Ventures, Inc. uses cookies 
+
+When you use and access the Service, we may place a number of cookies files in your web browser. 
+
+We use cookies for the following purposes: 
+
+  * To enable certain functions of the Service 
+  * For security purposes 
+  * To provide analytics 
+  * To store your preferences 
+  * To enable advertisements delivery, including behavioral advertising 
+
+
+
+We use both session and persistent cookies on the Service and we use different types of cookies to run the Service: 
+
+Essential cookies 
+     We may use cookies to remember information that changes the way the Service behaves or looks, such as a user's language preference on the Service. 
+Security cookies
+    We use Security Cookies for security purposes. 
+Third-party cookies
+    
+
+In addition to our own cookies, we may also use various third-parties cookies: 
+
+Analytics cookies 
+     We may use analytics cookies to track information how the Service is used so that we can make improvements. We may also use analytics cookies to test new advertisements, pages, features or new functionality of the Service to see how our users react to them. 
+Advertising cookies 
+     These type of cookies are used to deliver advertisements on and through the Service and track the performance of these advertisements. These cookies may also be used to enable third-party advertising networks to deliver ads that may be relevant to you based upon your activities or interests. 
+Miscellaneous cookies
+     The miscellaneous third-party service providers that we may from time to time employ, may place additional third party cookies for various purposes. 
+
+### What are your choices regarding cookies
+
+If you'd like to delete cookies or instruct your web browser to delete or refuse cookies, please visit the help pages of your web browser. 
+
+Please note, however, that if you delete cookies or refuse to accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly. 
+
+### Where can you find more information about cookies
+
+You can learn more about cookies and the following third-party websites: 
+
+  * AllAboutCookies: http://www.allaboutcookies.org/ 
+  * Network Advertising Initiative: http://www.networkadvertising.org/ 
+
+
+
+## Links to Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit. 
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services. 
+
+## Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. If we make a change to this privacy policy that we believe materially reduces your rights, we will notify you by email and/or by posting a notice on our Website. 
+
+We will let you know via email and/or a notice on our Website, prior to the change becoming effective and update the 'effective date' at the top of this Privacy Policy. 
+
+You are advised to review this Privacy Policy periodically for any changes. 
+
+## Contact Us
+
+If you have any questions or concerns regarding privacy on our Website, please send us a detailed message to privacy@vectormagic.com. 
+
+Our postal address is: 
+
+Cedar Lake Ventures, Inc.   
+2500 Shadywood Rd Ste 510   
+Excelsior MN 55331-6203   
+United States 
