@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buytopia.ca privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401084507id_/https%3A//buytopia.ca/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buytopia.ca privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904160254id_/https%3A//buytopia.ca/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Buytopia
 
@@ -8,11 +8,11 @@ Buytopia.ca (“We”, “Us” , “Our Website” etc.) believes that your per
 
 #### Introduction.
 
-Buytopia.ca collects information in different ways from users who access the various parts of our Services and the network of web sites accessible through our Service. We use this information primarily to provide a customized experience as you use our Services. We do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required by law or other special cases described below.
+Buytopia.ca collects information in different ways from users who access the various parts of our Services and the network of web sites accessible through our Service. We use this information primarily to provide a customized experience as you use our Services. We may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required by law or other special cases described below.
 
 #### Registration.
 
-Users are asked to provide certain personal information when they sign up for our Services including name, address, telephone number, email address, billing information (such as a credit card number). The personal information collected from users during the registration process is used to manage each individual’s account (such as those used for security and billing purposes). This information is not shared with third parties unless specifically stated otherwise or in special circumstances. Buytopia.ca may also generate non-identifying and aggregate profiles from personal information Users provide during registration. No personally identifiable information will be disclosed to the public.). As explained in more detail below, we may use this aggregate and non-identifying information to further enhance our services.
+Users are asked to provide certain personal information when they sign up for our Services including name, address, telephone number, email address, billing information (such as a credit card number). The personal information collected from users during the registration process is used to manage each individual’s account (such as those used for security and billing purposes). Buytopia.ca may also generate non-identifying and aggregate profiles from personal information Users provide during registration. No personally identifiable information will be disclosed to the public.). As explained in more detail below, we may use this aggregate and non-identifying information to further enhance our services. We collect, maintain and use personal information you have voluntarily submitted to process, mail or email, coupons and/or offers (including those from partner and/or affiliate marketers), contact you, including via e­mail or digital notification to respond to your comments or requests for information. We will also use it to communicate with you about our service in general, and send any weekly or daily newsletters you’ve subscribed to, as well as sponsored and/or special offers vial mail, email or digital advertising on behalf of carefully selected partners in regards to offers, promotions, and new products that may be of interest to you, unless you choose to opt out of these mailings. 
 
 #### Disclosure of Personal Information.
 
@@ -47,7 +47,7 @@ Services and web sites we sponsor or host have security measures in place to pro
 If you have any questions about this Privacy Policy or the practices described in it, please contact: info@buytopia.ca.
 
 Customer Service  
-1-855-442-2220 (toll free)  
+1-416-479-9590 (toll free)  
 183 Bathurst St. Suite 302  
 Toronto, Ontario  
 M5T 2R7 
