@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerplug.com privacy policy that was archived on 2018-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180310142215id_/https%3A//www.careerplug.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerplug.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905003519id_/https%3A//www.careerplug.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CareerPlug
 
@@ -52,4 +52,4 @@ CareerPlug provides an individual that supplies information with the ability to 
 
 ### Questions
 
-Any questions about this Privacy Policy should be addressed to support at careerplug.com or by mail at: CareerPlug LLC, 2525 Wallingwood Dr, Ste 601, Austin, TX 78746.
+Any questions about this Privacy Policy should be addressed to support at careerplug.com or by mail at: CareerPlug LLC, 3801 S Capital of Texas Hwy #100, Austin, TX 78704.
