@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the epichosts.co.uk privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604021149id_/https%3A//epichosts.co.uk/legal.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epichosts.co.uk privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904111245id_/http%3A//www.epichosts.co.uk/legal.htm) for the most accurate reproduction.*
 
 # EpicHosts - UK's #1 Budget Host :: Get ANYTHING hosted NOW! Games, Websites, Radio Stations, and more!
 
-This Privacy Policy governs the manner in which EpicHosts collects, uses, maintains and discloses information collected from users (each, a "User", "You") of the EpicHosts.co.uk website ("Site"). This privacy policy applies to the Site and all products and services offered by EpicHosts.
+This Privacy Policy governs the manner in which EpicHosts collects, uses, maintains and discloses information collected from users (each, a "User", "You") of the EpicHosts.co.uk ("EpicHosts") website ("Site"). This privacy policy applies to the Site and all products and services offered by EpicHosts.
 
 #### Personal identification information
 
@@ -66,11 +66,11 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 This document was last updated on February 5, 2013.
 
-The Terms & Conditions paragraphed below explains your agreement and the workings of the EpicHosts.co.uk website ("Site", "EpicHosts"). These Terms & Conditions apply to the site and all products/services offered by EpicHosts. By successfully paying an EpicHosts invoice, therefore placing an order on our site, you oblige that you (each, "Client", "Customer", "Company") are legally bound in agreement to the terms and conditions written below:
+The Terms & Conditions paragraphed below explains your agreement and the workings of the EpicHosts.co.uk ("EpicHosts") website ("Site"). These Terms & Conditions apply to the site and all products/services offered by EpicHosts. By successfully paying an EpicHosts invoice, therefore placing an order on our site, you oblige that you (each, "Client", "Customer", "Company") are legally bound in agreement to the terms and conditions written below:
 
 #### General Terms & Conditions
 
-EpicHosts is an internet and technology hosting company of which their main purpose is serving web hosting, VPSes, game servers, radio/voice servers and other virtual products. Our servers are located in UK, France, Germany and Canada, however the choice of country is limited to certain products.
+EpicHosts is an internet and technology hosting company of which their main purpose is providing the lease of web hosting, VPSes, game servers, radio/voice servers and other virtual products. Our servers are located in UK, France, Germany and Canada, however the choice of country is limited to certain products.
 
 The business is run by ONE individual named Ben Gough ("Terrum"), registered as a sole trader with UK's tax firm; HMRC. At this time EpicHosts does not hire support or sales staff, therefore it is your responsibility to make sure you are communicating with EpicHosts staff only. We recommend checking your address bar to ensure you are only visiting 'epichosts.co.uk' or 'www.epichosts.co.uk' to avoid inaccurate, outdated or potentially fraudlent information along with any form of service we provide. We cannot be held responsible for any impersonators or any result caused by communication with impersonators.
 
@@ -90,7 +90,7 @@ The customer is responsible for the understanding of a properly described servic
 
 A surcharge (processing fee) of 7% will be deducted from all refunds and transactions sent from us to a customer due to PayPal refund fees and other potential charges involved during the handling and/or funding of such service(s).
 
-Please note that Renewals, VPSes, Pre-installed services, Exchanged services, Domain names, Dedicated servers/machines, Backups and any of the hosting addons/plan-upgrades are non-refundable. This is due to the funds being instantly used for the activation of your service, licensing, IP rental and any other possible additions used to process your service. All other services NOT mentioned in this paragraph are refundable within the 7 day money-back guarantee mentioned above. 
+Please note that Renewals, VPSes, Pre-installed services, Dedicated servers/machines, Exchanged services, Domain names and any of the hosting addons/plan-upgrades are non-refundable. This is due to the funds being instantly used to cover the cost and resource used for the process of the appropriate service, this includes, but is not limited to, the fees of setup, reselling, licensing and IP rental. This applies to all cycles except from the 'Every Week' cycle which is refundable only 48 hours after processing.
 
 #### Payment
 
@@ -131,8 +131,8 @@ If a customer violates our terms and conditions we may terminate or suspend (tem
 
 #### Changes to our Terms
 
-If we decide to change our terms, we will update accordingly along with the modification date below. We reserve the full right to make changes to our Terms & Conditions at any time, you also agree that all changes made to the terms are taken place immediately, without notification needed, towards all services.
+If we decide to change our terms, we will update them accordingly along with the modification date below. We reserve the full right to make changes to our Terms & Conditions at any time, you also agree that any changes made to the terms are taken place immediately towards all services that you have with us. You agree that you will regularly check back to this page to ensure that you are up-to-date with the latest terms of your agreement.
 
-This document was last updated on March 18, 2017
+This document was last updated on March 20, 2018
 
-E-mail: [privacy@epichosts.co.uk](mailto:privacy@epichosts.co.uk)
+E-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f787859e8196948eb792879e949f98848384d99498d9829c)
