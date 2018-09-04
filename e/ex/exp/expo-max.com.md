@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expo-max.com privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008215148id_/http%3A//expo-max.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expo-max.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904175129id_/http%3A//expo-max.com/privacy) for the most accurate reproduction.*
 
 # expo-MAX Privacy Policy
 
@@ -19,7 +19,7 @@ Investigate, prevent or take action regarding any illegal activities. You can se
 [](http://www.addthis.com/bookmark.php?v=250&username=xa-4c2b7e5d7c88cb51) [expo-Max™ Home](https://web.archive.org/) | [Advertiser Solutions](https://web.archive.org/advertisers/) | [Publisher Solutions](https://web.archive.org/publishers/) | [Website Traffic Statistics](https://web.archive.org/website-traffic-statistics/) | [VacationBay.ca](http://vacationbay.ca/) | [Zip Code Atlas](http://zipatlas.com/) | [Listing.ca](https://listing.ca/)   
 [News](https://web.archive.org/news/) | [Documentation](https://web.archive.org/documentation/) | [Frequently Asked Questions](https://web.archive.org/faq/) | [Screenshots](https://web.archive.org/screenshots/) | [expo-MAX on Twitter](http://twitter.com/expoMAX) | [Terms of Service](https://web.archive.org/terms/) | [Privacy Policy](https://web.archive.org/privacy/) | [Refund Policy](https://web.archive.org/refunds/) | [Contact](https://web.archive.org/contact/)
 
-Copyright © 2017 expo-Max Inc.  
+Copyright © 2018 expo-Max Inc.  
 All rights reserved. 
 
 expo-Max and its derivatives are a property of expo-Max Inc. and may not be used   
