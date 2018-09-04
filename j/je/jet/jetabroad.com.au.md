@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jetabroad.com.au privacy policy that was archived on 2018-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180320193545id_/https%3A//www.jetabroad.com.au/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jetabroad.com.au privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904044816id_/https%3A//www.jetabroad.com.au/Privacy) for the most accurate reproduction.*
 
 # Your privacy with Jetabroad AU
 
@@ -6,26 +6,28 @@
 
 Jetabroad operates in accordance with the Commonwealth privacy laws as amended by the _Privacy Amendment (Enhancing Privacy Protection) Act 2012_ (Amended Act). The _Privacy Act_ is a Commonwealth Act that regulates the collection, storage, use and disclosure of different types of personal information. This Privacy statement explains how Jetabroad (Australian Business No. 77 115 848 363), its subsidiaries, and related bodies corporate protects the privacy of your personal information.
 
+Furthermore, Jetabroad and its subsidiaries doing business with residents of the European Economic Community are governed by the General Data Protection Regulation (GDPR) as a data controller.
+
 ### Why does Jetabroad collect personal information?
 
 The information we collect is for the purposes of Jetabroad and our business partners providing travel and related services to you and to offer you travel-related products and services that may be of interest to you. You are entitled to access the information Jetabroad holds about you by contacting the privacy officer whose details are provided below. Furthermore, If at any time you have any concerns or complaints in relation to privacy, please contact the privacy officer.
 
 When we book products and services for you, we do so as an agent on behalf of travel service providers. This means that we collect personal information about you both for our internal purposes (e.g. to process your booking and to manage post sale changes), and on behalf of the parties for whom we act as agent, for their internal purposes (e.g. for an airline to process an eticket). In order to provide the travel and related services to you we will disclose only the information required by the service provider so that they may provide the service to you.
 
-We collect the personal information for the following reasons:
+**We collect the personal information for the following reasons:**
 
   1. To identify you when you use our site, and in order to customise your Jetabroad experience
   2. For payment security purposes (identification of fraud or error)
   3. To enable us to process your booking requests and purchases
   4. To send you confirmation emails, and advise you of any changes that might occur to your reservation
   5. For our staff to contact you, where necessary
-  6. Where applicable, to send you updates and/or newsletters
-  7. To send you information about our products and services, that may be of interest to you
-  8. To enable our business partners to contact you with offers of their travel-related products and services that may be of interest to you
+  6. Where applicable, to send you updates and/or newsletters that are relevant to the service we have provided you
+  7. To send you information about our products and services, that are related to the service we have provided to you
+  8. For example, we may collect details such as your name, residential address, mailing address, telephone number, email address, credit/debit card details (including card type, card number, security number and expiry date), passport details, frequent flyer details, information about your dietary requirements, and other details relevant to your travel arrangements or required by the relevant travel service providers. In some circumstances, we may collect personal information from you which is regarded as sensitive information (for example: your racial or ethnic origin, religious beliefs or affiliations, criminal record and health information). We will only collect sensitive information about you with your consent and where reasonably necessary for the purpose of organising and booking your travel.
 
 
 
-For example, we may collect details such as your name, residential address, mailing address, telephone number, email address, credit/debit card details (including card type, card number, security number and expiry date), passport details, frequent flyer details, information about your dietary requirements, and other details relevant to your travel arrangements or required by the relevant travel service providers. In some circumstances, we may collect personal information from you which is regarded as sensitive information (for example: your racial or ethnic origin, religious beliefs or affiliations, criminal record and health information). We will only collect sensitive information about you with your consent and where reasonably necessary for the purpose of organising and booking your travel.
+With your express consent Jetabroad may also share your details with business partners for the purpose of sharing offers of their travel related products and services that may be of interest to you.
 
 By providing personal information to us (or allowing another person to do so on your behalf), you agree that this Policy will apply to how we handle your personal information and you consent to us collecting, using and disclosing your personal information as detailed in this Policy. If you do not agree with any part of this Policy, you must not provide your personal information to us and this may affect the services we can provide to you.
 
@@ -37,7 +39,7 @@ We may collect personal information about you when you enter competitions, when 
 
 We will delete your personal information after a reasonable period of time and, if you have not used our services for some time, you may have to re-enter or re-supply your personal information to us.
 
-**Your personal information will be disclosed to, processed and stored with third party providers in the following circumstances**
+**Your personal information will be disclosed to, processed and stored with third party providers in the following circumstances that are necessary to provide the service to you:**
 
   * to travel service providers (including companies overseas) such as travel wholesalers, tour operators, airlines, hotels, car rental companies, travel insurers and other service providers for the purpose for which the information was collected or for a related purpose (for example to facilitate and process your travel arrangements);
   * to comply with our legal obligations and any applicable customs/immigration requirements relating to your travel;
@@ -46,10 +48,9 @@ We will delete your personal information after a reasonable period of time and, 
   * as permitted or required by law
   * to various regulatory bodies and law enforcement officials and agencies, including to protect against fraud and for related security purposes;
   * to third party suppliers of IT based solutions that assist us in providing products and services to you (including companies based overseas)
+  * Where it is required to provide a good or service which you have purchased, we will disclose your personal information to third parties which may be overseas (e.g. your personal details for an airline eticket). Jetabroad cannot guarantee that these third parties are subject to equivalent privacy laws as Jetabroad.
 
 
-
-Where it is required to provide a good or service which you have purchased, we will disclose your personal information to third parties which may be overseas (eg. your personal details for an airline eticket). Jetabroad cannot guarantee that these third parties are subject to equivalent privacy laws as Jetabroad.
 
 ### Cookies are used on Jetabroad's websites
 
@@ -75,6 +76,8 @@ Jetabroad.co.uk
 Jetabroad.com.sg  
 Jetabroad.com.hk  
 Jetabroad.eu  
+Jetabroad.ie  
+Jetabroad.co.il  
 cheapflightsonline.com.au
 
 Jetabroad is a licensed travel agency and operates an online travel web site that offers a variety of travel products and services.
