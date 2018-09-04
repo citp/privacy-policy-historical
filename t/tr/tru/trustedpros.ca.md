@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the trustedpros.ca privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119004952id_/https%3A//trustedpros.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustedpros.ca privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904023524id_/https%3A//trustedpros.ca/privacy) for the most accurate reproduction.*
 
 # TrustedPros Privacy Policy
 
-TrustedPros Inc. (“ **TPI** ”) PRIVACY POLICY effective **_February 2, 2017_**
+TrustedPros (“ **TP** ”) PRIVACY POLICY effective **_May 22, 2018_**
 
-This privacy policy applies to any information collected or otherwise obtained on or through the website located at https://www.trustedpros.ca (the “ **Website** ”) and, unless otherwise specified, any other websites controlled or operated by TPI, which are accessible through the Website.
+TrustedPros Inc. operates the website located at https://www.trustedpros.ca (the “ **Website** ”).This privacy policy applies to any information collected or otherwise obtained on or through the Website and, unless otherwise specified, any other websites controlled or operated by TP, which are accessible through the Website.
 
 In regard to businesses:
 
@@ -14,11 +14,11 @@ This privacy policy is effective as of the date set forth above. Personal inform
 
 Titles and headings are provided for general reference and ease of use only, as information may be covered in more than one heading or under other headings.
 
-If you have questions or concerns regarding this privacy policy, any personal information about you in our possession or under our control or any of our practices with respect to personal information, please contact TPI's privacy officer at [privacy@trustedpros.ca](mailto:privacy@trustedpros.ca).
+If you have questions or concerns regarding this privacy policy, any personal information about you in our possession or under our control or any of our practices with respect to personal information, please contact TP's privacy officer at [privacy@trustedpros.ca](mailto:privacy@trustedpros.ca).
 
 **I.           Collection of Personal Information**
 
-TPI is committed to protecting your privacy. Unless expressly provided, personal information collected is for the sole purpose of the operation of this Website and providing the services offered through or in conjunction with this Website (collectively, the “ **Services** ”). 
+TP is committed to protecting your privacy. Unless expressly provided, personal information collected is for the sole purpose of the operation of this Website and providing the services offered through or in conjunction with this Website (collectively, the “ **Services** ”). 
 
 _Registration_
 
@@ -26,23 +26,23 @@ Personal information is collected in conjunction with the creation of your accou
 
 _Financial Information_
 
-We do not collect any personal information of a financial nature about individuals, except if an individual uses a personal credit card in conjunction with the purchase of a business membership. In such cases, your name, credit card number, expiration date and security code will be collected by TPI for the sole purpose of transmitting same to our payment gateway provider. Your credit card information is not retained by TPI. Other than as previously described, we do not retain any such personal information of a financial nature about individuals. 
+We do not collect any personal information of a financial nature about individuals, except if an individual uses a personal credit card in conjunction with the purchase of a business membership. In such cases, your name, credit card number, expiration date and security code will be collected by TP for the sole purpose of transmitting same to our payment gateway provider. Your credit card information is not retained by TP. Other than as previously described, we do not retain any such personal information of a financial nature about individuals. 
 
 _Website and Services_
 
 Personal information may also be collected in conjunction with your access and use of the Website and Services.  For example, if you upload or post content on the Website (such as a job listing, request for information, message, post, business profile, testimonial, personal anecdote, success story, a rating, a ranking, portfolio, advertisement, referral, evaluation, review, complaint, pictures, business documents, technical documents or rebuttal [collectively, “ **Content** ”]), such Content will be associated to your account and any personal information contained in such Content will be accessible to other users of the Website.    
 
-TPI may also request disclosure of certain materials to validate your identify and the subject matter of any Content.  This may include copies of government issued identification, contractual documentation, invoices, certificates of insurance, vendor permits, business licenses and the like. 
+TP may also request disclosure of certain materials to validate your identify and the subject matter of any Content.  This may include copies of government issued identification, contractual documentation, invoices, certificates of insurance, vendor permits, business licenses and the like. 
 
 This Website uses cookies.  A cookie is a piece of data tied to information about the user and stored on the user's computer. This Website uses both session cookies, which terminate when you close your browser, and persistent cookies, which remain on your computer until manually deleted.
 
 By setting a persistent cookie, we allow you not to have to log in with a password more than once, thereby saving time while accessing the Website. If you reject these cookies, you may still access and use the Website but your experience and/or access may be limited in some areas of the Website. 
 
-TPI may use third-party advertising companies to serve ads on its behalf and to monitor certain pages of the Website for the purpose of reporting web traffic, statistics, advertisement “click-throughs”, and/or other activities on our site. These third party service providers may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous.
+TP may use third-party advertising companies to serve ads on its behalf and to monitor certain pages of the Website for the purpose of reporting web traffic, statistics, advertisement “click-throughs”, and/or other activities on our site. These third party service providers may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous.
 
-As is the case with most other websites, personal information may also be collected by TPI with respect to your system and your specific access to and use of the Website and Services. TPI may monitor your use of the Website and Services and may create records of your use of the Website and Services.
+As is the case with most other websites, personal information may also be collected by TP with respect to your system and your specific access to and use of the Website and Services. TP may monitor your use of the Website and Services and may create records of your use of the Website and Services.
 
-Such information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamps, number of clicks, cookies, clear gifs, user profiles and log files detailing access dates and times, webpages visited and features used.  A profile is stored information that TPI keeps on individual users that detail such users’ viewing preferences, Website activities and interactions and exchanges with TPI.  Like most standard Website servers we use log files. 
+Such information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamps, number of clicks, cookies, clear gifs, user profiles and log files detailing access dates and times, webpages visited and features used.  A profile is stored information that TP keeps on individual users that detail such users’ viewing preferences, Website activities and interactions and exchanges with TP.  Like most standard Website servers we use log files. 
 
 _Third Party Posts_
 
@@ -68,15 +68,15 @@ Finally, collected information regarding access and usage of the Website and Ser
 
 Users’ profile information is also used to tailor, ease, improve, facilitate and accelerate a user's access and use of the Website and Services (e.g. by remembering user preferences and applying these to subsequent visits).
 
-On rare occasions, TPI may send out strictly service related e-mail announcements. These communications are not promotional in nature.  For instance, if TPI’s service is temporarily suspended on account of maintenance we might send users an e-mail advising them of this. Generally, users may not opt-out of these communications, though they can deactivate their account which will prevent future communications of such sort. 
+On rare occasions, TP may send out strictly service related e-mail announcements. These communications are not promotional in nature.  For instance, if TP’s service is temporarily suspended on account of maintenance we might send users an e-mail advising them of this. Generally, users may not opt-out of these communications, though they can deactivate their account which will prevent future communications of such sort. 
 
 **III.        Modification of Personal Information**
 
 To the extent your personal information has changed or that our records are otherwise not accurate with respect to your personal information, please contact our privacy officer by e-mail at privacy@trustedpros.ca.  We will endeavour to update your personal information in a timely manner.
 
-TPI may paraphrase, summarize, aggregate or compile feedback, ratings, reviews, rebuttals, complaints, testimonials and/or other Content and may edit these to correct typos, spelling and grammatical errors as well as obvious mistakes in terms of objective facts.
+TP may paraphrase, summarize, aggregate or compile feedback, ratings, reviews, rebuttals, complaints, testimonials and/or other Content and may edit these to correct typos, spelling and grammatical errors as well as obvious mistakes in terms of objective facts.
 
-To the extent permitted by applicable laws, TPI reserves the right to deny requests to remove any feedback, ratings, reviews, pictures, complaints, rebuttals, testimonials and/or other Content from the Website. TPI also reserves the right to deny requests to remove profile information associated with any business and any association between such profile and any user feedback, ratings, reviews, complaints, referrals and/or testimonials and/or other Content.
+To the extent permitted by applicable laws, TP reserves the right to deny requests to remove any feedback, ratings, reviews, pictures, complaints, rebuttals, testimonials and/or other Content from the Website. TP also reserves the right to deny requests to remove profile information associated with any business and any association between such profile and any user feedback, ratings, reviews, complaints, referrals and/or testimonials and/or other Content.
 
 For businesses:
 
@@ -84,7 +84,7 @@ Members of our service professional network (or prospective members enrolled in 
 
 **IV.        Disclosure of Personal Information**
 
-When you submit information to TPI, you authorize us to share this information with our service providers.  TPI shall ensure that any third party to whom it discloses your personal information has signed a contract which obligates such third party to safeguard your personal information, adhere to the same terms and conditions as those contained in this privacy policy and otherwise comply with applicable laws. 
+When you submit information to TP, you authorize us to share this information with our service providers.  TP shall ensure that any third party to whom it discloses your personal information has signed a contract which obligates such third party to safeguard your personal information, adhere to the same terms and conditions as those contained in this privacy policy and otherwise comply with applicable laws. 
 
 Use certain Services and features of the Website will result in the disclosure of personal information.  For example, if you choose to select a contractor for a job posting or if you respond to a contractor who has indicated interest in a job posting, such contractor will receive your name and contact information.  Likewise, if a you carry on business in your personal capacity or as a sole proprietorship and chooses to respond to a project listing or if you contact a supplier who has also been matched with respect to a project listing, the user who posted the project listing and any supplier (as the case may be) will receive the contact name and contact information associated with your business.
 
@@ -92,7 +92,7 @@ As previously indicated, postings made by you on the Website or through use of a
 
 Please note that if you post a review, complaint, testimonial, rating, ranking, comment or other Content about a business member of the Website or any other contractor or service provider, such third party may post a reply or a rebuttal and such reply or rebuttal will be associated with your account and your original posting.  If your posting includes personal information, it will be associated with such third party content.
 
-TPI may create and share aggregated activity or statistical information with partners, advertisers or others, but such information will not contain personally identifiable information.
+TP may create and share aggregated activity or statistical information with partners, advertisers or others, but such information will not contain personally identifiable information.
 
 **V.         Safeguarding of Personal Information**
 
@@ -102,7 +102,7 @@ Likewise, we may disclose personal information when required by law (including b
 
 **VI.        Mergers/Acquisitions/Restructuring**
 
-In the event TPI (or any of its business units) is bought, sold, restructured or merges with another entity, users' personal information will, in most instances, be part of such transaction. TPI may disclose your personal information to such entities and their advisors, provide it first ensures that each of them sign a non-disclosure agreement safeguarding your personal information and preventing them from making any use of the information outside of such proposed transaction or restructuring and any subsequent operation of TPI’s business. 
+In the event TP (or any of its business units) is bought, sold, restructured or merges with another entity, users' personal information will, in most instances, be part of such transaction. TP may disclose your personal information to such entities and their advisors, provide it first ensures that each of them sign a non-disclosure agreement safeguarding your personal information and preventing them from making any use of the information outside of such proposed transaction or restructuring and any subsequent operation of TP’s business. 
 
 **VII.      Choice/Opt-in/Opt-out**
 
@@ -114,7 +114,7 @@ You will be notified and your consent obtained when personal information collect
 
 **VIII.     Links and Integrated Partnerships**
 
-This Website contains links from and to other websites. Please be aware that this privacy policy does not apply to such websites and that personal information you disclose or that may otherwise be collected from you may not be subject to the same terms and conditions as those that apply with respect to TPI and the Website.  TPI is not responsible for the privacy practices of such other websites. We encourage you to be aware of this when you leave our Website and to read the privacy statements or policies of each and every website that collects personally identifiable information. This privacy policy applies solely to information collected by TPI in conjunction with the operation of the Website and delivery of Services.
+This Website contains links from and to other websites. Please be aware that this privacy policy does not apply to such websites and that personal information you disclose or that may otherwise be collected from you may not be subject to the same terms and conditions as those that apply with respect to TP and the Website.  TP is not responsible for the privacy practices of such other websites. We encourage you to be aware of this when you leave our Website and to read the privacy statements or policies of each and every website that collects personally identifiable information. This privacy policy applies solely to information collected by TP in conjunction with the operation of the Website and delivery of Services.
 
 **IX.        Location of Storage Facilities**
 
@@ -125,4 +125,4 @@ By creating an Account, and/or by accessing and using this Website and any servi
 * * *
 
   
-Previous versions of TrustedPros Inc. Privacy Policy can be found [here](https://trustedpros.ca/privacy-02032017.asp).
+Previous versions of TrustedPros Inc. Privacy Policy can be found [here](https://trustedpros.ca/privacy-05242018.asp).
