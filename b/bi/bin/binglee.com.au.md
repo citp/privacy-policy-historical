@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the binglee.com.au privacy policy that was archived on 2018-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180418211234id_/https%3A//www.binglee.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binglee.com.au privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904133611id_/https%3A//www.binglee.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Buy Online with Bing Lee
+# Privacy Policy - Buy Online with Bing Lee & Afterpay
 
 ### RESPECTING YOUR PRIVACY
 
