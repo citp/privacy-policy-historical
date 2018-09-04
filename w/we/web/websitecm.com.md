@@ -1,24 +1,26 @@
-> *The following text is extracted and transformed from the websitecm.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327052631id_/http%3A//www.websitecm.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitecm.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904042429id_/https%3A//www.smackdigital.com/about-us/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - WebsiteCM
+# Privacy Policy - Smack Digital
 
-WebsiteCM Software Inc. (hereafter referred to as "WebsiteCM") despises spam, junk mail, cold-calls and other unsolicited forms of being contacted as much as you do, and as such holds your personal information in strict confidence.
+We despise spam, junk mail, cold-calls and other unsolicited forms of being contacted as much as you do, and as such holds your personal information in strict confidence.
+
+[Smack Digital](https://www.smackdigital.com/) > Privacy Policy
 
 ### Agreement
 
-WebsiteCM reserves the right to change this privacy policy at any time and solely at our discretion. We will provide advance notice of significant changes to our policies, however it's your responsibility to check this privacy policy regularly. Your continued use of our website after we've made changes signifies that you accept the changes, whether or not you have reviewed them.
+Smack Digital Inc. (hereafter referred to as "Smack Digital") reserves the right to change this privacy policy at any time and solely at our discretion. We will provide advance notice of significant changes to our policies, however it's your responsibility to check this privacy policy regularly. Your continued use of our website after we've made changes signifies that you accept the changes, whether or not you have reviewed them.
 
 ### Scope of Privacy Policy
 
-This privacy policy applies to your use of any and all of the websites, now, previously and/or to be owned or operated by WebsiteCM, its subsidiaries and/or affiliated companies (collectively referred in this privacy as the "Website").
+This privacy policy applies to your use of any and all of the websites, now, previously and/or to be owned or operated by Smack Digital, its subsidiaries and/or affiliated companies (collectively referred in this privacy as the "Website").
 
 ### Protection of Identifying Information
 
-WebsiteCM does not release, rent or sell member-identifying information to third parties.
+Smack Digital does not release, rent or sell member-identifying information to third parties.
 
 ### Anonymous Browsing
 
-When you browse our website, WebsiteCM does not collect your personal information. We collect only aggregate data used togenerate statistical reports for marketing purposes.
+When you browse our website, Smack Digital does not collect your personal information. We collect only aggregate data used togenerate statistical reports for marketing purposes.
 
 ### Subscriptions
 
