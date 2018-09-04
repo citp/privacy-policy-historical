@@ -1,50 +1,103 @@
-> *The following text is extracted and transformed from the publitas.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508224244id_/https%3A//www.publitas.com/company/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publitas.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904055541id_/https%3A//www.publitas.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - Publitas.com
+# Privacy Statement
 
-Publitas.com has drawn up this privacy statement (‘Statement’) in order to illustrate the tremendous importance that we attach to the privacy of our customers. Privacy on the Publitas.com website (the ‘Site’) is our main concern. It is because we compile significant data from our visitors and customers that we have drawn up this Statement in order to provide insight into the way in which we collect and process data. We reserve the right to amend this Statement. 
+This privacy policy concerns the processing of personal data by the public websites publitas.com (“Publitas website”), app.publitas.com (“Publitas CMS”) and support.publitas.com (“Publitas support”) as well as the processing of personal data when communicating with us through email or phone.
 
-  
+Sections 1, 2 and 3 below provide an overview of the collection and use of personal data by Publitas and the purposes for which this data is being used. We always seek to find a balance between your fundamental right to privacy and the legitimate interests of Publitas, in compliance with European regulations.
 
+## 1\. Your data in online publications
 
-### Compiled data
+When you’re viewing our customers’ online publications, Publitas _does not collect or process any personal data_ , except for your IP address which is temporarily stored in our system for security purposes only.
 
-When customers register to use the Publitas application, they are asked to provide certain contact details, such as their name, company name, address, telephone number and email address, financial information and billing details, such as the billing name and billing address, credit card number and the number of users in the organization using the application. Publitas.com uses the compiled data to adapt Publitas to individual users and their organization. This information may also be used to contact customers about their interest in Publitas.com and to distribute information about our company or our partners, for example news about special offers and events. Customers have the option to subscribe to a newsletter via email by providing their email address. We also use e-mail to communicate information about changes to Publitas. We do not share customer email addresses and any personal customer details with third parties. Customers can indicate at any given time that they no longer wish to be contacted by us or receive information from us by sending an email to [support@publitas.com](mailto:support@publitas.com). 
+This Privacy Policy does not apply to the processing of personal data about end users by our customers. We have no control over our customers’ information privacy practices. If you are viewing an online publication or third party website, you should refer to their privacy policy for information about how they process your personal data.
 
-Publitas.com customers use Publitas to host data and information (‘Data’). Publitas.com shall not view, share, distribute, print or refer to this Data except as specified in the Licensing Agreement. In some cases, individual records can be viewed or opened only if deemed necessary to resolve a problem, support issue or deal with suspected infringement of the Licensing Agreement, or as legally required. Of course, customers are responsible for maintaining the confidentiality and safety of their user registration and password. 
+## 2\. Your data related to our websites, services and your account
 
-Publitas.com can also compile certain information from users, such as Internet addresses. This information is recorded for troubleshooting purposes and to improve the quality of the Publitas. We may also track and analyse data related to statistical use and volume, which incidentally cannot be traced back to individual users. 
+### A. When browsing our websites
 
-If users wish to avail themselves to our referral service to direct an associate to our site, we ask the user to provide the associate’s name and email address. The associate in question will automatically receive a one-time email from Publitas.com with an invitation to visit the site. Publitas.com does not save these details. 
+When you visit our websites, we automatically collect information about how you interact with our website for the sole purpose of analyzing anonymous website usage and identifying improvements. This information includes cookies, date and time of your visit, pages viewed and generic information about the technology used to access our site. We may also use your IP address to derive what country you’re currently in to show you the correct pricing information.
 
-  
+A third party provider called Intercom delivers our integrated chat solution on our website. Intercom sets cookies and tracks what page you’re on for the purpose of showing and hiding the chat window when relevant.
 
+We engage third parties like social- and advertising platforms that set cookies and analyze your browsing behaviour in order to show ads to internet users with similar browsing behaviour. The information collected by these third parties does not include personal information that enables you to be specifically identified (e.g. by reference to your name or email address).
 
-### Cookies
+We may ask for your consent to use third parties like social- and advertising platforms that set cookies so we can show you relevant ads based on how you’ve browsed our website.
 
-Our goal is to make using the Publitas.com website as easy and useful as possible. When you visit our website, our web server sends a cookie to your computer. Cookies are files that web browsers send to a computer’s hard drive and are used to determine whether customers or visitors have visited the site previously. 
+### B. When you fill out an online form, chat with us on our website or sign up for a trial
 
-It is impossible to discover your identity solely on the basis of cookies. Only your browser is recognized. You will remain anonymous to Publitas.com unless you choose to reveal your identity to Publitas.com. There are two types of cookies: session cookies and persistent cookies. Session cookies expire as soon as the online session ends. They disappear from your computer as soon as you close the browser software or turn off the computer. Persistent cookies remain on your computer even after you have closed the browser or turned off the computer. These cookies contain data including a unique ID for your browser. 
+Contact data you provide through online forms on our website, the chat widget or the trial signup forms (including your email address) will be used to follow-up on your request and/or provide you access to your trial account. For this same purpose, we may keep records of our communication with you and track interactions with our email messages (such as opening). We may also use third parties like social- and advertising platforms that set cookies so we can show you relevant ads about your download or trial.
 
-Publitas.com uses session cookies with encrypted data in order to determine your identity when you are logged on. The Publitas application processes your online transactions and requests with the help of this information. The session cookies enable us to verify your identity during the log on procedure. Although users who disable the use of cookies in their web browser can still visit our Site, they cannot use Publitas. 
+### C. When we contact you about our services
 
-  
+Our sales and marketing team may come across your details or your company’s details online in our search for companies we think we can add value to with our services. In doing so, we may store your name, business contact information (such as work email address), information about your position and information about your company in our systems. We will also keep records of our communication with you and track interactions with our email messages (such as opening). We do this so we can contact you about our services through email and/or phone and effectively follow-up on our communication with you.
 
+### D. When you are a customer or are becoming a customer
 
-### Third party sites
+For Publitas customers, employees of Publitas customers or prospective customers with whom we are in an active bilateral contact, we collect and use the categories of information listed below because we either have a direct contract with you or because you work for a company we have a contract with. 
 
-The Site includes links to other websites. Publitas.com is not responsible for the privacy policy or content of the websites in question. Customers and users are responsible for informing themselves about the policies of the other websites. In addition, customers and visitors who visit a linked site may consign personal details. It is up to the user to protect these details. 
-
-  
-
-
-### Security
-
-Security measures apply to Site in order to prevent the loss, abuse or alteration of the data that we manage. When our site is opened with Microsoft Internet Explorer 5.5 or higher, SSL (Secure Socket Layer) technology using server verification and data encryption is applied in order to provide optimum protection to Data, and makes it accessible only to you. Publitas is offered in a secure server environment protected by a firewall and other advanced technology in order to prevent abuse by third parties. Lastly, Publitas.com issues unique user names and passwords that must be entered every time a customer logs on. These security measures prevent access by unauthorized parties, guarantee data accuracy and protect against wrongful use of data. 
-
-  
+  1. We may collect your name and basic contact information in order to contact you about your contract and/or your account and to respond to incoming requests more effectively. We may also use your contact information to send you a customer satisfaction survey after you’ve been in contact with us.
+  2. We may keep records of our communication with you and track interactions with our email messages (such as opening). We do this so we can contact you about our services and effectively follow-up on our communication with you.
+  3. We may collect billing information in order to invoice our services and process payments.
+  4. We may obtain information from social networking sites (eg. LinkedIn), in order to make our communication to you more relevant.
 
 
-### Amending and updating your details
 
-Customers can amend and update their registration details by changing the user or organization data. If you wish to update a user profile, log onto Publitas and select Settings in order to add or change details. Customers may update or change their registration information by editing their user or organization record. To update a user profile, please login to http://www.publitas.com with your Publitas username and password and click on your name in the left-menu of the application. Click on 'Edit' to update your user profile. To update Billing Information or have your registration information deleted, please email [billing@publitas.com](mailto:billing@publitas.com) or call +31 20 333 1780. To discontinue your account and to have information you maintained in the Service returned to you, please email [billing@publitas.com](mailto:billing@publitas.com) or call +31 20 333 1780. Requests to access, change, or delete your information will be handled within 30 days. 
+### E. When you create, activate and use your user account
+
+When you create or activate your account, we will collect basic information about you in order to properly identify you and provide you access to our system. The email address you provide may also be used to contact you about your use of the system, which includes service messages and occasional customer satisfaction surveys.
+
+When using your account, we collect information about how you use your account. This includes cookies, date and time of access, navigation events and mouse clicks. We may use this information in order to make sure you only receive relevant service messages (eg. about features you actually use) and to analyse usage of the service and identify improvements.
+
+## 3\. Your data related to working at Publitas
+
+### A. When you apply for a job
+
+When you apply for a job, we may store your name, contact information (such as email address) and career history and interests in our systems. We will also keep records of our communication with you. We do this so we can contact you about relevant positions at our company and effectively follow-up on our communication with you.
+
+Because over 50% of the company works location-independent, our interview process typically involves video calls which we may record in order to share them with team members or other people relevant to the position you’re applying for. We will always inform you about the possibility of recording before or at the beginning of the call.
+
+Any additional information you provide during the interview process will only be used for the purpose of serving the interview process and will never be shared outside of Publitas.
+
+### B. When we contact you about working for Publitas
+
+Because we’re always on the lookout for talent, we may come across your details on a social networking site or other website. In doing so, we may store your name, contact information (such as email address) and career history and interests in our systems. We will also keep records of our communication with you. We do this so we can contact you about relevant positions at our company and effectively follow-up on our communication with you.
+
+## 4\. How long we store your data
+
+Unless otherwise stated in this Privacy Policy, personal data is kept in accordance with our internal retention policy and kept only for as long as necessary to fulfil legitimate processing purposes or as may be necessary to comply with any other legal obligation.
+
+You can always reach out to us if you’d like us to remove any data we have from you (also refer to section 6)
+
+## 5\. Sharing your data with third parties
+
+We believe in focus, which means we may share your information with third parties specialized in certain tasks related to your information. This includes our infrastructure providers, third parties for billing, email and phone communications, customer support, product analytics and project management. We make sure that all third parties we work with meet our standards in terms of information security and privacy.
+
+### Third parties outside the EU
+
+We may transfer your personal information to other countries outside the European Union and make it accessible to to other companies within the Publitas group of companies and third party service providers internationally. We will protect your personal information in accordance with this Privacy Policy wherever it is processed.
+
+## 6\. Your data, your rights
+
+At any time, you have the right to control if and how we use your personal data. This means you have the right to:
+
+  1. withdraw consent where previously given; and
+  2. request restriction of processing; and
+  3. request access to your data; and
+  4. request to update your data; and
+  5. request to delete or de-identify your data; and
+  6. request your data in a portable file; and
+  7. lodge a complaint
+
+
+
+For all requests regarding your data, you can contact us using the details below and we’ll get back to you within 20 working days.
+
+Our information  
+Publitas.com B.V.  
+Zeeburgerpad 5  
+1018AH Amsterdam  
+privacy@publitas.com  
+
+
+_This privacy statement was updated in June 2018. When we change the policy on how collected data on this website is treated, we will announce this through an alteration of our privacy statement._
