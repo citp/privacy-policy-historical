@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the volacci.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206110607id_/https%3A//www.volacci.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volacci.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904040024id_/https%3A//www.volacci.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Volacci Digital Marketing
 
