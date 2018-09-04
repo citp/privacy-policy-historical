@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the songspk.cloud privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625163445id_/http%3A//www.songspk.cloud/page/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songspk.cloud privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904191054id_/https%3A//www.songspk.wiki/page/privacypolicy.html) for the most accurate reproduction.*
 
 # SongsPK >> Privacy Policy
 
@@ -13,7 +13,7 @@ As with most other websites, we collect and use the data contained in log files.
  **Cookies and Web Beacons**
 
   *     Google, as a third party vendor, uses cookies to serve ads on site.
-  *     Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+  *     Google use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
   *     Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 
