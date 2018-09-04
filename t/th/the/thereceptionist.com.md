@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thereceptionist.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606120059id_/http%3A//theipadreceptionist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thereceptionist.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904064629id_/https%3A//thereceptionist.com/privacy-policy) for the most accurate reproduction.*
 
-# Secure Visitor Management System Privacy Policy - The Receptionist for iPad
+# Privacy Policy - The Original Visitor Management System
 
 ## The Receptionist for iPad Privacy Policy
 
-_Updated:  August 2016_
+_Updated: August 2016_
 
 This Privacy Policy explains the manner in which The Receptionist for iPad collects, uses, handles and discloses information about you that is collected in the course of your visit to our website, your access to and use of our products and services (“Service”) and your other interactions with us.
 
@@ -39,7 +39,7 @@ Notwithstanding the foregoing, in the case of visitor logs and other data about 
 
 ##### How we protect your information
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our website. Sensitive and private data exchange between the website and you happens over a SSL secured communication channel and is encrypted and protected with digital signatures. For additional information you may request our Security Overview by emailing [support@theipadreceptionist.com](mailto:support@theipadreceptionist.com)
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our website. Sensitive and private data exchange between the website and you happens over a SSL secured communication channel and is encrypted and protected with digital signatures. For additional information you may request our Security Overview by emailing [support@thereceptionist.com](mailto:support@thereceptionist.com)
 
 ##### Sharing your personal information
 
@@ -47,7 +47,7 @@ We do not sell, trade, or rent your personally identifiable information to other
 
 ##### EU and Swiss Residents
 
-We will use commercially reasonable efforts to comply with the U.S.–E.U. and U.S.– Swiss Safe Harbor principles, located at: <http://www.export.gov/safeharbor/>. In particular and without limiting the foregoing, we encourage you to contact us at any time should you wish for us to discontinue our use of your personally identifiable information, at which time we will destroy our copies of such information upon your written request. We also encourage you to use the contact information below to inform us of any complaints or disputes you may have regarding the use of your personal information. We will thoroughly investigate the matter internally and make every effort to attempt to resolve the issue quickly. If your dispute cannot be resolved by us internally, we agree to dispute resolution with the Better Business Bureau as our third party resolution provider.
+We will use commercially reasonable efforts to comply with the U.S.–E.U. and U.S.– Swiss Safe Harbor principles, located at: <http://www.export.gov/safeharbor/>. In particular and without limiting the foregoing, we encourage you to contact us at any time should you wish for us to discontinue our use of your personally identifiable information, at which time we will destroy our copies of such information upon your written request. We also encourage you to use the contact information below to inform us of any complaints or disputes you may have regarding the use of your personal information. We will thoroughly investigate the matter internally and make every effort to attempt to resolve the issue quickly. If your dispute cannot be resolved by us internally, we agree to dispute resolution with the Better Business Bureau as our third party resolution provider.
 
 ##### Third-party websites
 
@@ -63,4 +63,4 @@ By using this website, you signify your acceptance of this policy. If you do not
 
 ##### Contacting us
 
-If you have any questions about this Privacy Policy, our data handling practices or your dealings with this website, please contact us at [support@TheiPadReceptionist.com](mailto:support@TheiPadReceptionist.com).
+If you have any questions about this Privacy Policy, our data handling practices or your dealings with this website, please contact us at [support@thereceptionist.com](mailto:support@thereceptionist.com).
