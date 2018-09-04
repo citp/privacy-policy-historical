@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the machinima.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517182229id_/http%3A//www.machinima.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machinima.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904144021id_/https%3A//www.machinima.com/privacy-policy) for the most accurate reproduction.*
 
 # Machinima
 
