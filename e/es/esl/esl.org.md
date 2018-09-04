@@ -1,16 +1,44 @@
-> *The following text is extracted and transformed from the esl.org privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205172105id_/https%3A//www.esl.org/about-us/fraud-security/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esl.org privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904070905id_/https%3A//www.esl.org/about-us/policies/privacy) for the most accurate reproduction.*
 
-# Privacy | esl.org
+# Privacy | ESL Federal Credit Union
 
-**Online Security Practices**
+Your privacy is important to us.  You have the right to control whether we share some of your personal information.
+
+## Privacy Policy
+
+### Important Privacy Choices for Consumers
+
+You have the right to control whether we share some of your personal information. Please read the following information carefully before making your choices.
+
+### Your Rights
+
+You have the right to restrict the sharing of personal and financial information with our affiliates (companies we own or control) and outside companies that we do business with. This includes sending you information about other products or services. You may not limit the sharing of your personal and financial information for our everyday business purposes or as required by law.
+
+### To read or receive our Privacy Notice
+
+  * [Download our Privacy Notice (PDF)](https://web.archive.org/File%20Library/About%20Us/Forms/privacy_opt_out.pdf "Download our Privacy Notice \(PDF\)")
+  * Call **585.336.1000** or **800.848.2265**
+  * Use chat banking
+
+
+
+### To limit the use of your ESL Information
+
+To limit the use of your ESL Information, complete our [Privacy Opt Out Election form](https://web.archive.org/File%20Library/About%20Us/Forms/privacy_opt_out.pdf "Privacy Opt Out Election form") and submit electronically.
+
+You may also [print the form](https://web.archive.org/File%20Library/About%20Us/Forms/privacy_opt_out.pdf "What Does ESL Do with Your Personal Information?") and mail the completed form to us.
+
+If you have already completed the Privacy Opt Out Election form, you don't need to complete another one. Your preferences will remain the same until you tell us otherwise.
+
+## Online Practices
 
 ESL Federal Credit Union recognizes the importance of maintaining a presence on the World Wide Web for informational and e-commerce purposes in both attracting new members and retaining existing members. For the purpose of this statement, online activity is defined as the ability of members to access personal account information and general credit union information, to initiate transactions on your credit union accounts, and to apply for additional credit union products and services online. Our privacy policy is the same whether you are online or not.
 
-**Information We Gather Online**
+### Information We Gather Online
 
 We may gather information about which pages of our site our visitors browse. This enables us to track how a visitor navigates through the site areas in which they show interest. We gather information such as number of hits to the site, page visits, and length of user sessions. This is similar to a traffic report: it tracks trends and behaviors of members/users in general, but does not identify individuals in particular. We use this information to better serve you and it helps keep our site relevant and useful by helping us understand what information users want.
 
-**Our Use of Cookies**
+### Our Use of Cookies
 
 Cookies are small text files sent by a web server to your PC where they are stored for a limited amount of time. Cookies help websites recognize return visitors. So, when you return to a website that you have visited before, your browser gives this data back to the server. ESL uses cookies to make your online experience easier and more personalized. We use cookies in the following ways:
 
@@ -22,6 +50,14 @@ Cookies are small text files sent by a web server to your PC where they are stor
 
 
 
-**Links to Other Non-ESL Websites**
+### Links to Other Non-ESL Websites
 
-ESL does offer links on our website to other vendors and third parties. These links are given to you to provide opportunity for you to take advantage of their products or services. ESL cannot guarantee how these third parties collect or use personally identifiable information about you. We urge you to review the privacy policies of each of the linked websites you visit. When you visit these third party sites you will no longer be subject to, or under the protection of, the privacy and security policies of ESL Federal Credit Union. ESL is not responsible for the content of these third party websites. ESL does not represent either the third party or the member if the two enter into a transaction.
+ESL does offer links on our website to other vendors and third parties. These links are given to you to provide opportunity for you to take advantage of their products or services. ESL cannot guarantee how these third parties collect or use personally identifiable information about you. ESL does not represent either the third party or the member if the two enter into a transaction.
+
+## Third-Party Link Disclaimer
+
+For your convenience esl.org provides a variety of information on our web site that is not directly related to ESL products or services. This information is provided through the use of third party service providers via web links.
+
+By accessing these links you will be leaving ESL Federal Credit Union's web site and entering a web site hosted by another party. ESL is not responsible for the content of this third party web site. ESL does not represent either the third party or the member if the two enter into a transaction.
+
+Please be advised that you will no longer be subject to, or under the protection of, the privacy and security policies of ESL Federal Credit Union. You are encouraged to review the privacy and security policies of the site you are entering, which may be different than those of ESL.
