@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galvincom.com privacy policy that was archived on 2018-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180215002443id_/http%3A//galvincom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galvincom.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904130151id_/http%3A//galvincom.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Galvincom
 
