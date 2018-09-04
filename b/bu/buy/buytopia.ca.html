@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the buytopia.ca privacy policy that was archived on 2016-04-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160401084507id_/https%3A//buytopia.ca/page/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the buytopia.ca privacy policy that was archived on 2018-09-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180904160254id_/https%3A//buytopia.ca/page/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="base en"><head>
+<!DOCTYPE html><html class="base en"><head><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/fe585251d8bbabd06134cb5fdc74da3d97db2603.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script src="https://script.crazyegg.com/pages/scripts/0026/0241.js?439596" async="" type="text/javascript"></script><script async="" src="https://munchkin.marketo.net/munchkin.js"></script>
 
     <title>Privacy Policy | Buytopia</title>
 
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-892.min.js"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/fe585251d8bbabd06134cb5fdc74da3d97db2603.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script src="https://script.crazyegg.com/pages/scripts/0026/0241.js?439017" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgMDV1BUGwEAV1RUBAk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(11),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(12),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),c.xhrWrappable&&t(6),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,["addEventListener","removeEventListener"],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(13)(a),c=t("gos");e.exports=a,o(window),"getPrototypeOf"in Object?(r(document),r(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&o(XMLHttpRequest.prototype),a.on("addEventListener-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(13)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(13)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],6:[function(t,e,n){function r(t,e){e=e||this;var n=a.context(e);e.readyState>3&&!n.resolved&&(n.resolved=!0,a.emit("xhr-resolved",[],e));try{f.inPlace(e,p,"fn-",o)}catch(r){}}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").get("xhr"),s=t(3),c=t(13),f=c(a),u=c(s),d=NREUM.o,l=d.XHR,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout","onreadystatechange"];e.exports=a,window.XMLHttpRequest=function(t){var e=new l(t);try{a.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",r,!1)}catch(n){try{a.emit("internal-error",[n])}catch(i){}}return e},i(l,XMLHttpRequest),XMLHttpRequest.prototype=l.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(8),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(10),m=window.XMLHttpRequest;s.features.xhr=!0,t(3),t(6),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(11),a=t(12);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],11:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],12:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],13:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(12),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([y,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},y={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return y}function i(){return new r}var a="nr@context",s=t("gos"),c=t(11),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(11),f=window,u=f.document;NREUM.o={ST:setTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(9);var d=(""+location).split("?")[0],l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-892.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,7]);</script>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
 
     <meta name="robots" content="NOODP,NOYDIR">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -19,7 +19,7 @@
     <meta property="og:site_name" content="Buytopia.ca">
     <meta property="og:title" content="Buytopia">
     <meta property="og:type" content="website">
-    <meta property="stload" content="0.14712405204773">
+    <meta property="stload" content="0.23284316062927">
     <meta name="google-site-verification" content="cR8Q0c2DG9qntefHa8yLf8bzRU0uNsjSbjsmjkSIZ3M">
     <meta name="p:domain_verify" content="8d0a230cb7ce151d0742d1237cf72390">
     <meta name="apple-itunes-app" content="app-id=994646556">
@@ -35,25 +35,35 @@
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-        <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" type="text/css" rel="stylesheet">
-    <link href="//netdna.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" type="text/css" rel="stylesheet">
+        <link href="/lib/font-awesome-4.2.0/css/font-awesome.min.css" type="text/css" rel="stylesheet">
+    <link href="/lib/bootstrap.3.3.0/css/bootstrap.min.css" type="text/css" rel="stylesheet">
     <!--[if lt IE 9]>
-    <script src="//cdn.jsdelivr.net/html5shiv/3.7.2/html5shiv.min.js" type="text/javascript"></script>
-    <script src="//cdn.jsdelivr.net/respond/1.4.2/respond.min.js" type="text/javascript"></script>
+    <script src="/lib/html5shiv.3.7.2.min.js" type="text/javascript"></script>
+    <script src="/lib/respond.1.4.2.min.js" type="text/javascript"></script>
     <![endif]-->
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" type="text/javascript"></script>
-    <script src="//netdna.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="/lib/jquery.1.11.1.min.js" type="text/javascript"></script>
+    <script src="/lib/bootstrap.3.3.0/js/bootstrap.min.js" type="text/javascript"></script>
 
-    <script src="//cdn.jsdelivr.net/headroomjs/0.7.0/headroom.min.js" type="text/javascript"></script>
-    <script src="//cdn.jsdelivr.net/headroomjs/0.7.0/jQuery.headroom.min.js" type="text/javascript"></script>
+    <script src="/lib/headroom/headroom.0.7.0.min.js" type="text/javascript"></script>
+    <script src="/lib/headroom/headroom.0.7.0.jquery.min.js" type="text/javascript"></script>
 
-    <link href="//cdn.jsdelivr.net/chosen/1.1.0/chosen.min.css" type="text/css" rel="stylesheet">
-    <script src="//cdn.jsdelivr.net/chosen/1.1.0/chosen.jquery.min.js" type="text/javascript"></script>
+    <link href="/lib/chosen/chosen.1.1.0.min.css" type="text/css" rel="stylesheet">
+    <script src="/lib/chosen/chosen.1.1.0.min.js" type="text/javascript"></script>
+    <link href="/lib/sss/sss.min.css" type="text/css" rel="stylesheet">
+    <script src="/lib/sss/sss.min.js" type="text/javascript"></script>
 
-    <link href="/production/css/buytopia.min.css?v=1.1.791" type="text/css" rel="stylesheet">
 
-    <script src="/production/js/buytopia.min.js?v=1.1.791" type="text/javascript"></script>
-        <link href="/lib/jbar/css/style.css" type="text/css" rel="stylesheet">
+    <!--link href="/lib/totop/totop.1.0.0.min.css" type="text/css" rel="stylesheet" />
+    <script src="/lib/totop/totop.1.0.0.min.js" type="text/javascript"></script-->
+
+    <script src="/lib/countdown.2.1.min.js" type="text/javascript"></script>
+
+    <link href="/localhost/css/fonts.css?v=1.5.9" type="text/css" rel="stylesheet">
+    <link href="/localhost/css/buytopia.css?v=1.5.9" type="text/css" rel="stylesheet">
+    <script src="/localhost/js/extensions.js?v=1.5.9" type="text/javascript"></script>
+    <script src="/localhost/js/cart.js?v=1.5.9" type="text/javascript"></script>
+    <script src="/localhost/js/buytopia.js?v=1.5.9" type="text/javascript"></script>
+        <link href="/lib/jbar/css/style.css?v=1.5.9" type="text/css" rel="stylesheet">
     <link href="/lib/jbar/css/demo.css" type="text/css" rel="stylesheet">
     <script src="/lib/jbar/js/jbar.min.js" type="text/javascript"></script>
     <link href="/lib/bxslider/jquery.bxslider.css" type="text/css" rel="stylesheet">
@@ -81,39 +91,81 @@
     <script src="/lib/tweetscroll/jquery.tweetscroll.js" type="text/javascript"></script>
 
 
-    <!--  -->
-    <script src="https://masterpass.com/lightbox/Switch/integration/MasterPass.client.js"></script>
-    <!---->
-
     <link href="https://plus.google.com/110200139224020323232" rel="publisher">
     <link rel="author" href="https://plus.google.com/110200139224020323232/posts">
 
     <script type="text/javascript" async="" defer="" src="https://apis.google.com/js/platform.js?publisherid=110200139224020323232">
     </script>
+    
+    <script type="text/javascript"> if (self === top) {
+            var antiClickjack = document.getElementById("antiClickjack");
+            antiClickjack.parentNode.removeChild(antiClickjack);
+        } else {
+            top.location = self.location;
+        }
+    </script>
+
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+            n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t,s)}(window,document,'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '136106773819783', {
+                    });
+        fbq('track', 'PageView');
+
+        
+    </script>
+    <!-- End Facebook Pixel Code -->
+
+    <!-- Google Anayltics -->
+
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-22157283-5', 'auto');
+        ga('require', 'linkid', 'linkid.js');
+        ga('set', '&uid', '0'); // Set the user ID using signed-in user_id.
+        ga('send', 'pageview');
+
+    </script>
+
 </head>
 <body id="www-layouts-master" class="not-mobile">
 
 
-<div class="navbar navbar-default navbar-fixed-top " data-headroom="">
+<img src="https://ad.doubleclick.net/ddm/trackimp/N3466.1857105BUYTOPIA.CA/B21074474.220194275;dc_trk_aid=418594778;dc_trk_cid=100892590;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?" border="0" height="1" width="1" alt="Advertisement">
+
+<style>
+    .bxslider {
+        visibility: hidden;}
+    .bx-wrapper .bx-viewport {
+        left: -2.5px
+    }
+</style>
+<div class="navbar navbar-default navbar-fixed-top headroom headroom--top" data-headroom="">
     <div class="container">
         <div class="row">
             <div class="col-xs-12">
                 <i class="vspace-5"></i>
 
                 <a class="pull-left" href="/">
-                    <img class="mxh-45" src="/images/buytopia-logo2.png" id="buytopia-logo">
+                    <img class="mxh-45" src="https://buytopia-new.s3.amazonaws.com/logo/buytopia.png" id="buytopia-logo">
                 </a>
 
                 <img class="mxh-45 ml-60 hidden-xs hidden-sm" src="/images/proudly-canadian.png">
 
                 <div class="pull-right text-center ">
                     <ul class="nav nav-menu font-11">
-                        <li class="hidden-xs hidden-sm"><a href="#">
-                                <i class="fa fa-globe font-22"></i><br>
-                                416-479-9590
-                            </a>
-                        </li>
-                        <li><a href="/cart">
+                                                                                                                                                                    <li><a href="/cart">
                                 <i class="fa fa-shopping-cart font-22"></i><br>
                                 Cart (<span id="cart-total-items">0</span>)
                             </a></li>
@@ -189,12 +241,20 @@
                                                                                                     </a>
                                                                                                 </li>
 
+                                                                                                <li>
+                                                                                                <a href="/category/golf">
+                                                    <i class="fa fa-flag hidden-xs hidden-sm"></i>
+                                                    
+                                                                                                        <span>Golf</span>
+                                                                                                    </a>
+                                                                                                </li>
+
                                                 
                                                 <li class="bb-0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
                                             </ul>
                                         </div>
 
-                                        <div id="subnav-menu-more-carets" class="pos-rt shide carets">
+                                        <div id="subnav-menu-more-carets" class="pos-rt shide carets" style="display: none;">
                                             <span id="subnav-menu-more-left" class="ptr">&nbsp;<i class="fa fa-caret-left font-36"></i>&nbsp;</span>
                                             <span id="subnav-menu-more-right" class="ptr">&nbsp;<i class="fa fa-caret-right font-36"></i>&nbsp;</span>
                                         </div>
@@ -246,16 +306,14 @@
 <div class="container top-container">
     
           
-        <div class="row">
-            <span class="col-xs-12 hidden-xs hidden-sm">
-                <a href="/travel"><img class="site-wide-banner" src="https://buytopia-new.s3.amazonaws.com/site-wide-banners/img-7ef605fc8d.png"></a>
-            </span>
-    </div>
-    
+                
+                
+                
     
     
     <!-- this allows us to put content above the sidebar -->
     
+        
     <!-- deals content -->
     <div class="row">
         <div class="col-xs-12">
@@ -268,11 +326,13 @@
 
 <h4>Introduction.</h4>
 
-<p>Buytopia.ca collects information in different ways from users who access the various parts of our Services and the network of web sites accessible through our Service. We use this information primarily to provide a customized experience as you use our Services. We do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required by law or other special cases described below.</p>
+<p>Buytopia.ca collects information in different ways from users who access the various parts of our Services and the network of web sites accessible through our Service. We use this information primarily to provide a customized experience as you use our Services. We may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required by law or other special cases described below.</p>
 
 <h4>Registration.</h4>
 
-<p>Users are asked to provide certain personal information when they sign up for our Services including name, address, telephone number, email address, billing information (such as a credit card number). The personal information collected from users during the registration process is used to manage each individual’s account (such as those used for security and billing purposes). This information is not shared with third parties unless specifically stated otherwise or in special circumstances. Buytopia.ca may also generate non-identifying and aggregate profiles from personal information Users provide during registration. No personally identifiable information will be disclosed to the public.). As explained in more detail below, we may use this aggregate and non-identifying information to further enhance our services.</p>
+<p>Users are asked to provide certain personal information when they sign up for our Services including name, address, telephone number, email address, billing information (such as a credit card number). The personal information collected from users during the registration process is used to manage each individual’s account (such as those used for security and billing purposes). Buytopia.ca may also generate non-identifying and aggregate profiles from personal information Users provide during registration. No personally identifiable information will be disclosed to the public.). As explained in more detail below, we may use this aggregate and non-identifying information to further enhance our services.
+    We collect, maintain and use personal information you have voluntarily submitted to process, mail or email, coupons and/or offers (including those from partner and/or affiliate marketers), contact you, including via e­mail or digital notification to respond to your comments or requests for information. We will also use it to communicate with you about our service in general, and send any weekly or daily newsletters you’ve subscribed to, as well as sponsored and/or special offers vial mail, email or digital advertising on behalf of carefully selected partners in regards to offers, promotions, and new products that may be of interest to you, unless you choose to opt out of these mailings.
+</p>
 
 <h4>Disclosure of Personal Information.</h4>
 
@@ -308,7 +368,7 @@
 
 <p>
 Customer Service<br>
-1-855-442-2220 (toll free)<br>
+1-416-479-9590 (toll free)<br>
 183 Bathurst St. Suite 302<br>
 Toronto, Ontario<br>
 M5T 2R7 
@@ -319,9 +379,21 @@ M5T 2R7
 
     <i class="vspace-20"></i>
 
+
     <div class="row footer-component">
-        <div class="col-xs-12"><b>Top Brands. The Best of Your City. Unbeatable Prices.<br>We find incredible deals on local business, products, events and travel and unite buyers to lower prices.</b></div>
+                <div class="col-xs-12 mttb-25">
+            <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <!-- buytopia_footer -->
+            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9442563512302040" data-ad-slot="6166097232" data-ad-format="auto"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+        </div>
+                <div class="col-xs-12"><b>Top Brands. The Best of Your City. Unbeatable Prices.<br>We find incredible deals on local business, products, events and travel and unite buyers to lower prices.</b></div>
+
     </div>
+
+
 </div>
 
 <i class="vspace-20 footer-component"></i>
@@ -368,9 +440,9 @@ M5T 2R7
                     <li><a class="nowrap" href="/page/contact-us">Contact Us</a></li>
                     <li><a class="nowrap" href="/page/careers">Careers</a></li>
                     <li class="font-20">
-                        <a class="fa fa-facebook-square" href="http://www.facebook.com/buytopia"></a>
-                        <a class="fa fa-twitter-square" href="http://www.twitter.com/buytopia"></a>
-                        <a class="fa fa-linkedin-square" href="http://www.linkedin.com/company/2348730?trk=pro_other_cmpy"></a>
+                        <a class="fa fa-facebook-square" href="http://www.facebook.com/buytopia" target="_blank"></a>
+                        <a class="fa fa-twitter-square" href="http://www.twitter.com/buytopia" target="_blank"></a>
+                        <a class="fa fa-linkedin-square" href="http://www.linkedin.com/company/2348730?trk=pro_other_cmpy" target="_blank"></a>
                     </li>
                 </ul>
             </div>
@@ -412,9 +484,8 @@ M5T 2R7
 
         <i class="vspace-5"></i>
 
-        <span class="font-11">© 2010 - 2016 BUYTOPIA. All rights reserved.</span>
-        <span class="font-11 nowrap"><i class="fa fa-globe"></i> 416-479-9590</span>
-    </div>
+        <span class="font-11">© 2010 - 2018 BUYTOPIA. All rights reserved.</span>
+            </div>
 
 
 </div>
@@ -527,6 +598,29 @@ M5T 2R7
     </div>
 </div>
 
+<script>
+
+    $(document).ready(function() {
+        $('.swb-slider').bxSlider(
+                {
+                    adaptiveHeight: true,
+                    mode: 'fade',
+                    pager: true,
+                    infiniteLoop: true,
+                    hideControlOnEnd: false,
+                    auto: true,
+                    controls: false,
+                    speed: 1000,
+                    pause: 7000,
+                    onSliderLoad: function(){
+                        $(".bxslider").css("visibility", "visible");
+                    }
+
+                }
+        );
+        $('.swb-slider').removeClass('hidden');
+    });
+</script>
 
 
 <!-- translations used in JS -->
@@ -538,19 +632,8 @@ M5T 2R7
 
 
 
-<!-- Google Anayltics -->
-<script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-    ga('create', 'UA-22157283-5', 'auto');
-    ga('require', 'linkid', 'linkid.js');
-    ga('set', '&uid', '0'); // Set the user ID using signed-in user_id.
-    ga('send', 'pageview');
 
-</script>
 
 <!-- Google Remarketing -->
 <script type="text/javascript">
@@ -632,7 +715,8 @@ M5T 2R7
     });
 </script>
 
-<input type="hidden" value="01">
-<span class="hidden">0.16736102104187</span>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a94a3906c4","applicationID":"2035638","transactionName":"YgYAZBRTWBUHVRdaX1tMI1MSW1kISXUMXURHDA5cA0BFOjFBFG94Wg4HcwlcQhQJWg9WQnUEB0Q2QF8QB1Ua","queueTime":0,"applicationTime":210,"atts":"TkEDElxJSxs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
-</body></html>
+<input type="hidden" value="03">
+<input type="hidden" value="f8ae1e09247c022b18e08e614132b9ae2ee85959">
+<span class="hidden">0.25666117668152</span>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a94a3906c4","applicationID":"121658733","transactionName":"YgYAZBRTWBUHVRdaX1tMI1MSW1kISXUMXURHDA5cA0BFOjFBFG94Wg4HcwlcQhQJWg9WQnUEB0Q2QF8QB1Ua","queueTime":0,"applicationTime":312,"atts":"TkEDElxJSxs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<div id="totop" style="display: none; position: fixed; right: 15px; bottom: 80px; padding: 3px 10px 5px; font-size: 30px; font-weight: bold; line-height: 20px; cursor: pointer; background: rgb(0, 0, 0); color: rgb(255, 255, 255); opacity: 0.3; z-index: 1050;"><i class="fa fa-angle-up"></i></div></body></html>
