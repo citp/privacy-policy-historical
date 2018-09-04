@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the almanhal.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627092406id_/http%3A//almanhal.com/en/Page/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the almanhal.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904040537id_/http%3A//www.almanhal.com/en/Page/PrivacyPolicy) for the most accurate reproduction.*
 
 # Al Manhal | Privacy Policy
 
