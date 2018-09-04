@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodiful.com.au privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623100443id_/http%3A//www.sevenwestmedia.com.au/privacy-policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodiful.com.au privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904075507id_/https%3A//www.foodiful.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Seven West Media Privacy Policy (Updated August 2017) » Sevenwest
 
