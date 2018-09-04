@@ -1,19 +1,42 @@
-> *The following text is extracted and transformed from the luxuryproperty.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224054853id_/http%3A//luxuryproperty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxuryproperty.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904101252id_/https%3A//www.luxuryproperty.com/privacy-policy) for the most accurate reproduction.*
 
-# LuxuryProperty.com Privacy Policy — LuxuryProperty.com
+# Privacy Policy | LuxuryProperty.com
 
-Privacy Policy for luxuryproperty.com
+Luxury Property LLC is Dubai’s Luxury Property Brokerage. We are committed to respecting your privacy and protecting your personal information, whether you are seeking to buy your home, sell your home, or merely just browsing our site. We recognise our obligation to keep sensitive information secure and our Privacy Policy outlines the information management practices that are applied on our website, to help give you, our valued users, piece of mind.
 
-The privacy of our visitors to luxuryproperty.com is important to us.
+By using this site, you signify your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy you may not use the website. Luxury Property LLC reserves the right to modify this Policy at any time by posting a notice on the Site's homepage (if we consider it appropriate, we may also provide additional notice of significant changes.) Your use of the Site after the date of the last modification listed at the beginning of this Privacy Statement indicates to us that you agree to the changes.
 
-At luxuryproperty.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit luxuryproperty.com, and how we safeguard your information. We never sell your personal information to third parties.
+### COLLECTION AND USE OF INFORMATION
 
-Log Files  
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+**Personal Information**
 
-Cookies and Web Beacons  
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+We only collect your personal information from you when you voluntarily submit your data, for example where you: a) submit an enquiry on a specific property or development; b) submit a general enquiry through the “Enquire” button; c) request support to sell your home and d) submit your information through the contact us page.
 
-We also use third party advertisements on luxuryproperty.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+Your personal information is accessible only to employees of Luxury Property LLC, who have a need to know it. It will not be available for public inspection without consent. Any user providing us with their personal information has a right to examine, change or correct that information.
 
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+**Non-Personal Information**
+
+Even if you do not send us any Personal Information, we collect information about how you use our site ("Non-Personal Information"). This information cannot identify you personally and is used to improve our site performance. This type of information can include IP (internet protocol) address, name of your ISP (internet service provider), browser types, user journey to arrive out our site, time spent on pages and page preferences. This information is transmitted to us as a cookie. Cookies are commonly used across the internet to improve the performance of websites and increase user experience. A cookie is a small file that includes an anonymous unique identifier that is sent from a website's computer and stored on your computer's hard drive. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is sent. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. But if you refuse cookies, some parts of the Site will not function properly and may not provide services or information you have requested. For example, without cookies, we will not be able to provide you with searches that you have asked us to save.
+
+We use Non-Personal Information to customise the experience and advertising that you experience on our site. It helps to improve our service and website performance, but cannot be used to identify you.
+
+### USE OF INFORMATION WITH RESPECT TO THIRD PARTIES
+
+We reserve the right to share your Personal Information with our marketing partners as permitted by law, in order to fulfil our commitment to providing you with full-service real estate brokerage services. We do share your Personal Information under the following circumstances:
+
+  * Third party vendors we engage to provide services on our behalf, such as hosting, website development, and support, have access to Personal Information, but they have agreed not to disclose the Personal Information or to use it for any purpose other than providing the requested services.
+  * There may arise special circumstances where it is necessary for us to disclose and use Personal Information and Non-Personal Information, such as: to enforce this Privacy Statement or any other part of our Terms of Use; to protect our property or rights; to protect the safety of anyone; to investigate, prevent, or take action regarding illegal or improper activities; to carry out a merger or consolidation with another entity, a sale or transfer of some or all of our assets, or any similar transaction; or for other reasons we determine in good faith are necessary, appropriate, or required by law, such as when we respond to subpoenas, court orders, or other legal or administrative process.
+
+
+
+This website contains links to third-party websites. We provide these links solely for information and convenience. When you link to an outside application or website, you are leaving Luxury Property LLC’s website and our Privacy Policy no longer applies.
+
+Our hosting service maintains its systems in accordance with reasonable industry standards to reasonably secure the information of its customers against unauthorised access, accidental or intentional manipulation, and loss. However, no data transmission over the Internet can be guaranteed to be 100% secure and you use the Site at your own risk.
+
+### JURISDICTION
+
+This website is governed by United Arab Emirates (UAE) laws. Should you be located outside of the UAE, please note that by using this website you adhere to this Privacy Policy and commensurate UAE law.
+
+### CONTACT US
+
+If you have any questions or concerns about this Privacy Policy, please contact us by using the "Contact Us" feature or by sending an email to [customercare@luxuryproperty.com](mailto:customercare@luxuryproperty.com)
