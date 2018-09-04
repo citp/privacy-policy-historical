@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adelaidebank.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313043146id_/https%3A//www.adelaidebank.com.au/other-links/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adelaidebank.com.au privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904071702id_/https%3A//www.adelaidebank.com.au/other-links/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Adelaide Bank
 
@@ -15,8 +15,9 @@ Storage and security of your personal information
 Our Websites and the use of cookies  
 Changes to this policy  
 Privacy concerns or complaints  
+European Union General Data Protection Regulation (GDPR)   
 Contacting us   
-Further information about privacy
+Further information about privacy 
 
 ## About this policy
 
@@ -210,6 +211,10 @@ Phone: 1300 363 992
 Email: [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au)  
 [www.oaic.gov.au](http://www.oaic.gov.au/)
 
+## European Union General Data Protection Regulation (GDPR)
+
+If you are in a country that is a member of the European Economic Area (EEA), you may be protected by the European Union General Data Protection Regulation 2016/679 (‘GDPR’). Please [click here](https://www.adelaidebank.com.au/__data/assets/pdf_file/0020/515531/GDPR-Policy-Addendum.pdf "European Union General Data Protection Regulation") to read more information about our GDPR Policy.
+
 ## Contacting us
 
 If you have any questions about our Privacy Policy, what personal information we may hold in relation to you, or about the way we manage your personal information you can contact us as follows:
@@ -293,4 +298,4 @@ If you would like to contact an entity in the Bendigo and Adelaide Bank Group wh
 
 You can find more information about privacy (including information about specific issues, answers to frequently asked questions and links to the 13 Australian Privacy Principles) on the Office of the Privacy Commissioner’s website at <http://www.oaic.gov.au/>
 
-Date of Publication - February 2018
+Date of Publication - May 2018
