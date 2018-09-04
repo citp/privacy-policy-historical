@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the canadapages.ca privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317163400id_/http%3A//www.canadapages.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadapages.ca privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904023225id_/https%3A//www.canadapages.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Your Privacy is Important to us, Read our Privacy Policy - Canada Pages
-
-## Privacy Policy
 
 Canada Pages takes your privacy seriously. We have put in place basic common sense practices in place to ensure that your information is protected.
 
