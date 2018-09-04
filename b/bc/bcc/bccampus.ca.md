@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bccampus.ca privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703184306id_/https%3A//bccampus.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bccampus.ca privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904055228id_/https%3A//bccampus.ca/privacy) for the most accurate reproduction.*
 
 # Privacy | BCcampus
 
@@ -31,7 +31,7 @@ Sometimes we may collect personal Information about you from other sources, prov
 
 
 
-We collect personal Information under the authority of the Ministry of Advanced Education and the educational institutions to which we provide services.
+We collect personal Information under the authority of the Ministry of Advanced Education, Skills and Training and the educational institutions to which we provide services.
 
 #### **Use of Personal Information**
 
