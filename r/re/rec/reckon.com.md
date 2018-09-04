@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the reckon.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415052759id_/https%3A//www.reckon.com/au/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reckon.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904083208id_/https%3A//www.reckon.com/au/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Reckon Australia
-
-## Privacy Policy
 
 Reckon is one of Australia’s leading accounting software developers creating business software for accountants and accounting software for businesses. Reckon provides technical support and training services to the end-users of its products and services, which include desktop, hosted and cloud solutions (“the products”).
 
@@ -319,7 +317,7 @@ When using our products, you may also access add-on services provided by third p
 
 As a company incorporated in Australia and listed on the Australian Stock Exchange, Reckon is required to maintain a register of members pursuant to the Corporations Law. This function has been contracted to an external provider, Computershare Limited (“CS”).
 
-It is the usual practice for registers of listed companies to be managed by third parties. CS manages the members’ register on behalf of Reckon, which includes personal information relating to name and address details, security-holding balances, tax file numbers, bank account details and e-mail addresses. CS has its own Privacy Statement as to how it deals with personal information, and Reckon shareholders are directed to the Computershare website [www.computershare.com/au](http://www.computershare.com/au) for further information.
+It is the usual practice for registers of listed companies to be managed by third parties. CS manages the members’ register on behalf of Reckon, which includes personal information relating to name and address details, security-holding balances, tax file numbers, bank account details and e-mail addresses. CS has its own Privacy Statement as to how it deals with personal information, and Reckon shareholders are directed to the Computershare website [www.computershare.com/au](https://www.computershare.com/au) for further information.
 
 The trading and dealing activities of the Reckon ANZ Share Investing service are performed by Share Investing Limited (ABN 93 078 174 973, AFSL No. 238277). Pursuant to the agreement that Reckon has with Share Investing Limited, and as authorised by the customer when agreeing to the trading rules, ANZ Share Investing can provide to Reckon, at Reckon’s request, personal information relating to the customer. ANZ Share Investing has its own Privacy Statement and Privacy Policy, and Reckon ANZ Share Investing users are directed to the Reckon ANZ Share Investing section of the Reckon website (<http://estore.reckon.com.au/74/34/ANZ-Share-Investing/more>) for further information.
 
@@ -351,7 +349,7 @@ The Privacy Principles provide you with the right to access the personal informa
 
 i. details of the personal information which we may hold about you; or,  
 ii. to correct any of the information that we hold;  
-iii. to complain about a bread of the Privacy Act or Privacy Principles, please contact us as follows:
+iii. to complain about a breach of the Privacy Act or Privacy Principles, please contact us as follows:
 
 _Australia_  
 Phone: 1800 RECKON (1800 732 566)  
