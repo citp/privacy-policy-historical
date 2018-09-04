@@ -1,73 +1,66 @@
-> *The following text is extracted and transformed from the cellbikes.com.au privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603002212id_/http%3A//www.cellbikes.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellbikes.com.au privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904080614id_/https%3A//www.bicyclesonline.com.au/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Keeping your information private is something that CELL Bikes is absolutely committed to. We want you to visit our site regularly, with complete confidence and without any unanswered questions. We want to share our privacy policy with you so that you know exactly how we gather information and what we do (and don't do) with that information. This just seems like common courtesy to us.
+Bicycles Online is committed to providing you with a high level of customer service. This includes protecting and maintaining the privacy, accuracy and security of your personal information. We are bound by and will abide by the National Privacy Principles in the Privacy Act (Cth) 1988 . This is in addition to our existing obligations under the Privacy Act.
 
-Before we get into it, and as you probably know already, we've got a few links to other sites; that's just part and parcel of operating on the web. At any rate, CELL Bikes isn't responsible for the privacy practices or the content of these other web sites. The chances are excellent that you'll have no issues with them, but we can't be at all places at all times to guarantee it.
+#### **What personal information do we collect and hold?**
 
-## Server Logging & Web Site Cookies
+In the process of conducting our business we are likely to collect a wide range of personal information about you. The type of personal information we collect always includes your name, residential and billing address, email address, telephone or mobile numbers and products and services we provide to you.
 
-Each customer's computer uses an IP (Internet Protocol) address when they are online, which is logged by our server. We use your IP address to identify your web site use, assist in the ordering process, help diagnose any problems with your order and our server in general, and to gather broad demographic information such as visitor numbers.
+We don’t store any credit card information on our web site. We pass it onto our bank for processing.
 
-Our web site also uses cookies. Cookies are small text files a website stores on your computer and which are used to recognise repeat customers and enhance their experience when they return to the web site, storing information about you and your preferences. Only the information that you provide, or the choices you make whilst visiting the web site can be stored in a cookie. For example, a cookie cannot determine your e-mail address unless you choose to enter it into the appropriate field.
+#### **How do we collect personal information?**
 
-Allowing a web site to create a cookie does not give the CELL Bikes website or any other website access to the rest of your computer, and only the web site that created the cookie can read it. Cookies allow you to take advantage of the best features offered by web sites. For instance we use cookies to save your login details so you don't have to re-enter it each time you visit our site. If you prefer, you can set your web browser (such as Internet Explorer) to notify you when a site is using a cookie and/or to refuse it. [Click here](http://www.cookiecentral.com/faq/) to find out more about cookies, which are a standard feature of many web sites.
+Bicycles Online collects personal information directly from you when you submit it online at BicyclesOnline.com.au or when entered into our point of sale system at our store. There may be occasions when we collect information from publicly available sources or third parties. This information includes names, email addresses, telephone numbers and social media profile name sourced from permission based marketing activities.
 
-## How We Collect Customer Information
+#### **Cookies and Web beacons**
 
-CELL Bikes also gathers information about customers through:
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We use session ID cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. If you reject cookies, you may still use our site, but your ability to use some areas of our site will be limited.
 
-  * Shopping cart order forms
-  * My Account contact profile update form
-  * Promotional contests (an opt-in choice)
-  * Newsletter registration form (an opt-in choice)
-  * Contact Us email form
+Some of our business partners (e.g. tracking utility company) use cookies and Web beacons on our site. We have no access to or control over these tracking technologies.
 
+Bicycles Online advertises with Google. Google may show you our ads based on your having visited our site. If you do not wish to see these ads you can opt-out by visiting the Google advertising opt-out page here http://www.google.com/privacy_ads.html.
 
+#### **Rate and Review**
 
-## How We Use This Information
+If you provide a review or rating for a product available through Bicycles Online we reserve the right to publish part or all of your review or rating together with your first name and suburb.
 
-The information we obtain from you is used for these purposes:
+#### **Links to Other Sites**
 
-  * To process payments for product purchases and send you items you have ordered
-  * To contact you if necessary (regarding your purchase or contact details provided)
-  * To generate purchasing statistics from online surveys and competitions (an opt-in choice)
-  * To contact you if you win a competition (an opt-in choice)
-  * To send you information about our company/products and promotional material from some of our partners (if you join one of our mailing lists, an opt-in choice)
-  * To answer any general queries you submit via our contact us email form
+This Website contains links to other sites that are not owned or controlled by Bicycles Online. Please be aware that we, Bicycles Online, are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by this website.
 
+#### **How do we use personal information?**
 
+In order to improve and better our offers and service, we may keep track of patterns of use in the e-mails and social interactions we send. By supplying us your information, you have given us permission to communicate to you via mail, e-mail, SMS, MMS, social media and telephone to inform you about services we deliver relevant to you indefinitely.
 
-## Customer Information
+#### **Disclosure of personal information**
 
-The CELL Bikes website allows our customers the following communication opportunities:
+We may use or disclose your personal information to organisations outside Bicycles Online for purposes relating to the management of your account with us. Such organisations include: Service providers who manage the services provided to you; mailing systems which organise delivery of the products you have purchased; live help service providers, maintenance and repair services; market research; and our professional advisers, accountants, lawyers and auditors.
 
-  * Opting in or out of receiving communications from our web site and our partners
-  * Correcting or updating your information in the My Account area
-  * Contacting us via our contact form
+We require these organisations to adhere to strict confidentiality of your personal information and also seek to ensure that they adhere to the National Privacy Principles. These service providers may not use your personal information for their own marketing purposes.
 
+#### **Security**
 
+Bicycles Online take reasonable steps to ensure that your personal information is secure. We have robust systems and procedures in place to protect your privacy whenever we collect, store and use or disclose personal information. We are continually upgrading these systems and reviewing our procedures to ensure the highest standards of security are used to protect your personal information. As a condition of working at Bicycles Online all our employees sign a confidentiality agreement.
 
- **You may also send postal mail to the following postal address:**
+#### How to access and amend personal information
 
-CELL Bikes
+If you wish to obtain a copy of our data privacy policy, access the personal information we hold about you or your personal information is inaccurate, incomplete outdated or to unsubscribe, please direct any queries regarding your privacy rights email sales@bicyclesonline.com.au.
 
-Warehouse 8 / 67-69 Lords Road
+The release of information is subject to some exceptions such as information relating to existing or any anticipated legal proceedings, together with exceptions provided by the Privacy Act. Our objective is to respond to any request within a reasonable timeframe and no later than 30 days.
 
-Leichhardt NSW 2040 
+#### **How your information may be shared**
 
-Alternatively, you can contact our Customer Service Department on **02 8373 5238**
+Except for the purposes outlined in the Bicycles Online Privacy Policy, we never sell or disclose your personal information. However, we may release personal information under the following circumstances:
 
-Opt Out of Newsletter. If you wish to opt out of the newsletter, simply:
+  * when requested by the courts or laws (for example, a subpoena) or regulation or is requested by a government agency;
 
-  * Go into your CELL Bikes account ‘MY ACCOUNT’
-  * Go to ‘Settings’ on the lower right-hand side of the page
-  * Click ‘Campaign Subscription Center’
-  * Select ‘No, I do not wish to receive any subscription emails. I understand that I will continue to receive account-specific emails’.
+  * where we deem a company or an individual may be engaged in fraudulent activity or other deceptive practices that a governmental agency should be made aware of; and/or to appropriate persons, where your communication suggests possible harm to others.
 
 
 
-or
 
-Click on the ‘Unsubscribe’ link at the bottom of the newsletter.
+#### **Changes in this Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes to this document, the home page and other places we deem appropriate so that you are aware of what information we collect, how we use it and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage.
