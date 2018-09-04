@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the vwmodels.ca privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910173033id_/http%3A//www.vw.ca/en/tools/navigation/footer/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vwmodels.ca privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904093936id_/https%3A//www.vw.ca/en/tools/navigation/footer/links/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy < Volkswagen Legal Details | Volkswagen Canada < Volkswagen Canada
+# VW Privacy Policy | Volkswagen Canada
 
-**Last Updated: July 12, 2016.** Volkswagen Canada reserves the right to change this policy at any time. The current policy will always be posted on this site.
+Volkswagen Canada reserves the right to change this policy at any time. The current policy will always be posted on this site.
 
-Please note that if you have provided your consent to receive the Volkswagen newsletter and to be contacted by Volkswagen Canada with other emails and communications (marketing and advertising purposes), whether before or after the date that this policy was last updated, your profile information (including contact information, preferences and purchase history) may now be used by Volkswagen Canada to serve targeted content and interest-based (behavioural) advertising to you on the internet. Please see section 9., Advertising and Behavioral Targeting, for more details. If you have any concerns or questions, please contact us at [vwcarecanada@vw.ca.](http://www.vwcarecanada@vw.ca/) You may withdraw your consent at any time by contacting [vwcarecanada@vw.ca.](http://www.vwcarecanada@vw.ca/) Every successful relationship begins with communication. And since we've got a relationship right here on the Internet, let's communicate. Down below is everything you've ever wanted to know about our PRIVACY POLICY.
+Please note that if you have provided your consent to receive the Volkswagen newsletter and to be contacted by Volkswagen Canada with other emails and communications (marketing and advertising purposes), whether before or after the date that this policy was last updated, your profile information (including contact information, preferences and purchase history) may now be used by Volkswagen Canada to serve targeted content and interest-based (behavioural) advertising to you on the internet. Please see section 9., Advertising and Behavioral Targeting, for more details. If you have any concerns or questions, please contact us at [vwcarecanada@vw.ca.](mailto:vwcarecanada@vw.ca) You may withdraw your consent at any time by contacting [vwcarecanada@vw.ca.](mailto:vwcarecanada@vw.ca) Every successful relationship begins with communication. And since we've got a relationship right here on the Internet, let's communicate. Down below is everything you've ever wanted to know about our PRIVACY POLICY.
 
-Should you have other questions or concerns about this Privacy Policy, please email us at: [vwcarecanada@vw.ca.](http://www.vwcarecanada@vw.ca/)
+Should you have other questions or concerns about this Privacy Policy, please email us at: [vwcarecanada@vw.ca.](mailto:vwcarecanada@vw.ca)
 
 **1\. Our Commitment to Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this Privacy Policy, which explains our information practices and the choices you can make about the way your information is collected and used. To make this Privacy Policy easy to find, we make it available on our homepage and at every point where personally identifiable data may be requested on vw.ca.
@@ -89,8 +89,7 @@ We do not seek to obtain, nor do we wish to receive, personal information direct
 We are committed to ensuring that the personal information we hold for each individual is accurate, up-to-date and complete. You have the right to access your personal information in our files and to update or remove that information as necessary, subject to any legal or contractual restrictions and reasonable notice. To access your personal information, please contact us by e-mail or post at the numbers and address provided below. Please be sure to specify what information requires updating or removal. Please note that requests for access to your personal information may be refused to the extent permitted or required by law.
 
 **14\. How to Contact Us**  
-If you wish to change your consent to our use of your information, change your privacy preferences, or update your information, or if you have any questions or concerns about our Privacy Policy, please email us at [vwcarecanada@vw.ca.](http://www.vwcarecanada@vw.ca/)  
+If you wish to change your consent to our use of your information, change your privacy preferences, or update your information, or if you have any questions or concerns about our Privacy Policy, please email us at [vwcarecanada@vw.ca.](mailto:vwcarecanada@vw.ca)  
 Or write to us at: 777 Bayly Street West  
         Ajax, ON, L1S 7G7  
-        Attention: Privacy Officer  
-
+        Attention: Privacy Officer
