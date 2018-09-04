@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ai2.com privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504113404id_/http%3A//www.ai2.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ai2.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904110223id_/http%3A//www.ai2.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sales Order Entry, Enterprise Content Management, Proof of Delivery Solutions
 
