@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veda.com.au privacy policy that was archived on 2018-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180320074113id_/https%3A//www.equifax.com.au/privacy-policy-australia) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veda.com.au privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904052954id_/https%3A//www.equifax.com.au/privacy-policy-australia) for the most accurate reproduction.*
 
 # Privacy Policy (Australia) | Equifax Australia
 
@@ -51,7 +51,7 @@ Equifax also has equity interests in Malaysia, Singapore and Cambodia based cons
   
 Equifax comprises of a number of separate businesses, including the following:
 
-  * EISS which operates a credit reporting businesses in Australia.
+  * EISS which operates a credit reporting business in Australia.
   * Equifax New Zealand Information Services and Solutions Limited (formerly Veda Advantage (NZ) Limited) which operates a credit reporting business in New Zealand.
   * National Tenancy Database runs a tenancy database for licensed real estate agents. This database is managed by EISS.
   * Australian Business Research operates a commercial credit reporting business managed by EISS and has linkages to EISS’ commercial credit database.
@@ -318,7 +318,7 @@ TenancyCheck.com.au is a service that allows landlord to carry out checks as par
 
 In the case of Equifax Score, My Credit File and carhistory.com.au Equifax does not disclose your personal information to third parties unless you have given us your express or implied consent or where required or authorised by law.
 
-In the case of Secure Sentinel, we may be disclose your personal information to:
+In the case of Secure Sentinel, we may disclose your personal information to:
 
   * your third party providers, such as your financial institutions, mobile phone provider.
   * research organisations
