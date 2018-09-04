@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the treebohotels.com privacy policy that was archived on 2018-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180307164256id_/https%3A//www.treebo.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treebohotels.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904161550id_/https%3A//www.treebo.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy - Treebo
 
@@ -120,13 +120,13 @@ Notwithstanding anything contained in this Privacy Policy or elsewhere, we shall
 
   7. NOTIFICATION OF CHANGES 
 
-We may update this Privacy Policy at any time, with or without advance notice. In the event there are significant changes in the way we treat your Personal Information, or in the Privacy Policy document itself, we will display a notice on the Website so that you may review the changed terms prior to continuing to use the Website. As always, if you object to any of the changes to our terms, and you no longer wish to use the Website, you may contact [hello@treebohotels.com](mailto:hello@treebohotels.com?subject=Please%20deactivate%20my%20account), to deactivate your account. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
+We may update this Privacy Policy at any time, with or without advance notice. In the event there are significant changes in the way we treat your Personal Information, or in the Privacy Policy document itself, we will display a notice on the Website so that you may review the changed terms prior to continuing to use the Website. As always, if you object to any of the changes to our terms, and you no longer wish to use the Website, you may contact [alerts.webbooking@treebohotels.com](mailto:alerts.webbooking@treebohotels.com?subject=Please%20deactivate%20my%20account), to deactivate your account. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
 
 Using our Services or accessing the Website or the App after a notice of changes has been sent to you shall constitute your consent to the changed terms.
 
   8. ADDRESS FOR PRIVACY QUESTIONS 
 
-Should you have questions about the Privacy Policy or our information collection, use and disclosure practices, you may contact us at the address: [hello@treebohotels.com](mailto:hello@treebohotels.com?subject=Query%20regarding%20privacy%20policy). We will use reasonable efforts to respond promptly to requests, questions or concerns you may have regarding our use of your Personal Information. Except where required by law, we cannot ensure a response to questions or comments regarding topics unrelated to this Privacy Policy or our privacy practices.
+Should you have questions about the Privacy Policy or our information collection, use and disclosure practices, you may contact us at the address: [alerts.webbooking@treebohotels.com](mailto:alerts.webbooking@treebohotels.com?subject=Query%20regarding%20privacy%20policy). We will use reasonable efforts to respond promptly to requests, questions or concerns you may have regarding our use of your Personal Information. Except where required by law, we cannot ensure a response to questions or comments regarding topics unrelated to this Privacy Policy or our privacy practices.
 
   9. GRIEVANCE OFFICER
 
