@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paynhire.com privacy policy that was archived on 2017-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170817124604id_/https%3A//www.paynhire.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paynhire.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904041008id_/https%3A//www.paynhire.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Paynhire
+# Privacy Policy | Paynhire
 
 ## PRIVACY POLICY
 
@@ -44,7 +44,7 @@ Cookies are used for convenience and to save you time when you next visit this w
 
 #### 6\. USE OF WEB BEACONS
 
-Paynhire's website pages may contain electronic images known as web beacons�also referred to as single-pixel gifs�that permit Paynhire to count users who have visited those pages and for other related website statistics�(e.g., recording the popularity of certain website content and verifying system and server integrity). Web beacons are not used to access your personal information on Paynhire's websites; they are solely used to compile aggregated statistics concerning the use of the Paynhire's websites. Web beacons collect only a limited set of information including a cookie number, the time and date of a page view, and a description of the page on which the web beacon resides.
+Paynhire's website pages may contain electronic images known as web beacons also referred to as single-pixel gifs that permit Paynhire to count users who have visited those pages and for other related website statistics (e.g., recording the popularity of certain website content and verifying system and server integrity). Web beacons are not used to access your personal information on Paynhire's websites; they are solely used to compile aggregated statistics concerning the use of the Paynhire's websites. Web beacons collect only a limited set of information including a cookie number, the time and date of a page view, and a description of the page on which the web beacon resides.
 
 #### 7\. COMMUNITIES AND FORUMS OFFERED ON THIS WEBSITE
 
