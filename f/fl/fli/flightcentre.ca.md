@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flightcentre.ca privacy policy that was archived on 2016-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160802070302id_/https%3A//www.flightcentre.ca/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightcentre.ca privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904032709id_/https%3A//www.flightcentre.ca/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Vacation Packages, Travel Deals | Flight Centre
 
@@ -127,6 +127,6 @@ If Flight Centre is unable to provide access to all of the personal information 
 
 Requests for access to an individual's personal information shall be made to the Privacy Officer through [privacy_feedback@flightcentre.ca](mailto:privacy_feedback@flightcentre.ca) or by mail at:
 
-Risk Management Officer  
-6TH Floor 1133 Melville Street  
-Vancouver, B.C. V6E 4E5 
+Legal Manager  
+700 - 980 Howe Street  
+Vancouver BC V6Z 0C8 
