@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the hillstonenet.com privacy policy that was archived on 2018-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180209064928id_/https%3A//www.hillstonenet.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hillstonenet.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904060507id_/https%3A//www.hillstonenet.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Hillstone Networks
+# Privacy Policy - Hillstone Networks
+
+## Please Read this Policy
 
 This privacy policy sets out how “ _Hillstone Networks_ ” uses and protects any information that you give “ _Hillstone Networks_ ” when you use this website. “ _Hillstone Networks_ ” is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
 “ _Hillstone Networks_ ” may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from February 19, 2015.
 
-#### What we collect 
+#### What We Collect 
 
 We may collect the following information:
 
@@ -17,7 +19,7 @@ We may collect the following information:
 
 
 
-#### What we do with the information we gather
+#### What We Do With the Information We Gather
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
@@ -35,7 +37,7 @@ We require this information to understand your needs and provide you with a bett
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-#### How we use cookies 
+#### How We Use Cookies 
 
 A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
 
@@ -45,22 +47,25 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-#### Links to other websites
+#### Links to Other Websites
 
 Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-#### Controlling your personal information
+#### Controlling your Personal Information
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
   * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [inquiry@hillstonenet.com](mailto:inquiry@hillstonenet.com)
 
+
+
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Hillstone Networks, 292 Gibraltar Drive Suite 105, Sunnyvale, CA 94089.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Hillstone Networks, 5201 Great America Pkwy, #420, Santa Clara, CA 95054.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
+#### Withdrawal Of Consent
 
-
+Except as required by law, we will not use or disclose your personal information for any purpose for which you refuse us consent or later withdraw your consent. If you withdraw consent, you agree that in spite of this withdrawal we may continue to use the personal information previously provided to us to the extent that we are contractually obligated to do so and to the extent necessary to enforce any contractual obligations you may have to Hillstone Networks. You also understand that although you can use our site for some purposes without providing us with any personal information, we need personal information about you for some services, including those that require payment or involve an ongoing relationship with Hillstone Networks or our partners. If you refuse to provide us with the information we require or later withdraw your consent to use and disclose this information, we may no longer be able to provide you with these services.
