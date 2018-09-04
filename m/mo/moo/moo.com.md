@@ -1,217 +1,326 @@
-> *The following text is extracted and transformed from the moo.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928161938id_/https%3A//www.moo.com/us/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moo.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904051802id_/https%3A//www.moo.com/us/about/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | MOO (United States)
 
-design-templatesdesign-your-ownfull-uploadMOO logoTrust Pilot Logoicon-Artboard 37icon-bleed-areaicon-carticon-chevron-downicon-chevron-righticon-chevron-right-boldicon-chevron-right-xboldicon-closeicon-downloadicon-element-artworkicon-f4c3b00kicon-g00gl3-plusicon-home-boldicon-inst4gr4micon-mobile-phoneicon-moo-fillicon-mooicon-more-boldicon-playicon-quote-lefticon-safe-areaicon-searchicon-tickicon-tick-largeicon-tick-large-boldicon-trim-areaicon-tw1tt3ricon-warning
+#### Welcome to MOO’s privacy policy. MOO respects your privacy and is committed to protecting your personal data.
 
-#### Privacy Policy
+######   1\. Introduction
 
-###### Last Modified: June 2016
+This privacy policy tells you how the MOO group of companies use your personal data when you visit our website, interact with us, and buy our goods and services.
 
-MOO (“Moo”, “we”, “us” or “our”) values your privacy. (We know everyone says this, but we really mean it.) This Privacy Policy explains how we use, share and protect the personally identifiable information that we collect about you (“Personal Information”) and the choices you have. This Privacy Policy applies to visitors to www.moo.com website (the “Website”) and to our online customers. By visiting or using our Website, you agree to this Privacy Policy. 
+It also tells you about your privacy rights and how the law protects you.
 
-This Privacy Policy does not apply to information about you collected by our affiliates or third party websites that may post links or advertisements on or otherwise be accessible from the Website. The information collected by these affiliates or third party websites is subject to their own privacy policies (which we assume are as thorough as ours!).
+It is important that you read this privacy policy, together with any other privacy policies we may provide, so that you are fully aware of how and why we are using your data.
 
-The data controller is:   
-• MOO Inc. of 14 Blackstone Valley Place, Lincoln, RI 02865, USA, in respect of individuals who are residents of North America; or  
-• MOO Print Limited of 2nd Floor, 20 Farringdon Road, London, EC1M 3AF, UK, in respect of individuals who are residents of a country located outside of North America (e.g. Europe and Australia). MOO Print Limited has the UK Data Protection Registration Number Z9441126, unless otherwise indicated in a contract we enter into with you (and if that happens, we will be 100% upfront!)
+This privacy policy was last updated on 16th of May 2018 and historic versions can be obtained by contacting us.
 
-###### 
+If you have any questions, or would like to exercise your privacy rights, please follow the instructions in this privacy policy. See How to contact MOO about privacy below.
 
-INFORMATION WE COLLECT 
+######   2\. Our website and the MOO group of companies?
 
-We collect a variety of information about our wonderful customers (you!) and visitors to the Website. 
+Our website at moo.com sells print goods and services which are aimed at business users – from start-ups and independent designers to larger organisations. This website is not intended for children and we do not knowingly collect data relating to children.
 
-Information Collected Automatically: Whenever you visit our Website, we automatically collect (non invasive) information about you, namely:
+MOO is made up of two different legal entities:
 
-• your transactions with us, for example, the type of product you purchased and the costs of each product;  
-• your use of our Website and the device you use to access our Website, for example, your IP address, the type of operating system and web browser you use and related information; and your activities on our Website, such as the pages you visit.
+  * MOO Print Limited located at 2nd Floor, 20 Farringdon Road, London EC1M 3AF, United Kingdom; and
 
-######   
-INFORMATION YOU PROVIDE TO US 
+  * MOO Inc. located at 109 Kingston St, Boston, MA 02111, United States.
 
-• if you provide us with Personal Information by filling out a form, registering for an account, making a purchase, or contacting us, we collect that Personal Information. For example, if you register on our Website, we collect your name, e-mail address and password;  
-• if you place an order with us, we collect the Personal Information that you provide to us such as your shipping, billing, and payment information. See the ‘Credit and Payment Card information’ section below to read more about how we and our partners handle your payment information;  
-• if you design and personalize a product, such as a business card, we collect the Personal Information you use to customize the product, such as the name of your business, your telephone number and professional title;  
-• if you contact our customer services agents, you may also provide us with Personal Information that we collect. From time-to-time, MOO may give you the opportunity to participate in sweepstakes, contests or surveys on our Website;  
-• if you participate, we will collect certain Personal Information from you. Participation in these sweepstakes, surveys or contests is completely voluntary (promise!) and you therefore have a choice whether or not to disclose the requested information; and  
-• if you take the opportunity to review our products (please be kind!) or participate in public forums associated with the Website, we will collect Personal Information in any such reviews, posts or comments. Note that these will be public so you should use care before posting information about yourself online (that’s just good advice in general).
 
-Additional Information We Collect: From time to time, we may acquire additional information about our customers from third parties, such as the Postal Service and third parties that assist us in the provision of products and services requested by you.
 
-######   
-CREDIT AND PAYMENT CARD INFORMATION 
+
+MOO Print Limited is the data controller responsible for this website and any handling of personal data carried out by or on behalf of MOO Print Limited. MOO Inc. is a data controller for any handling of personal data carried out by or on behalf of MOO Inc.
+
+MOO Print Limited and MOO Inc. work collaboratively to bring great print goods and services to MOO’s customers all over the world, and they may sometimes be acting as joint data controllers. When we mention “MOO”, "we", "us" or "our" in this privacy policy, we are referring to the relevant company in the MOO group of companies responsible for processing your data.
+
+######   3\. Personal data which we collect about you
+
+Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data).
+
+We collect a variety of information about our wonderful customers (you!) and visitors to the MOO website. This personal data falls into these categories:
+
+Identity Data includes title, first name, last name, username or similar identifier and an encrypted version of your login/password. If you interact with us through social media, this may include your social media user name.
+
+Contact Data includes billing address, delivery address, email address and telephone numbers.
+
+Financial Data includes payment card details.
+
+Transaction Data includes details about payments to and from you and other details of products and services you have purchased from us.
+
+Profile Data includes your username and password, purchases or orders made by you, preferences, feedback and survey responses, as well as any profile data which we have added (for example, using analytics and profiling).
+
+Technical Data includes internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this website.
+
+Usage Data includes information about how you use our website, products and services.
+
+Tracking Data includes information we or others collect about you from cookies and similar tracking technologies, such as web beacons, pixels, and mobile identifiers.
+
+Marketing and Communications Data includes your preferences in receiving direct marketing from us and our third parties and your communication preferences.
+
+We also collect, use and share Aggregated Data such as statistical or demographic data for any purpose. Aggregated Data may be derived from your personal data but is not considered personal data in law as this data does not directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific website feature. To provide better content and service, MOO’s website uses the Decibel Insight web analytics service. Decibel Insight records mouse actions and scrolling movement, as well as basic interactions with website forms. Decibel Insight does not track your browsing habits across other third-party websites and all information about you which reaches Decibel Insight contains no personal data about you. Please see their [privacy policy](https://www.decibelinsight.com/privacy-policy).
+
+However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy policy.
+
+We do not collect any Special Categories of Personal Data about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). Nor do we collect any information about criminal convictions and offences. If you use any of these types of personal data on products you design or create on moo.com, we will not be able to tell. We will treat all the personal data included in designs or products as ordinary personal data.
+
+Remember, if you choose not to share personal data with us, or refuse certain contact permissions, we might not be able to provide the products and services you’ve asked for.
+
+######   4\. How is your personal data collected?
+
+We use different methods to collect data from and about you including through:
+
+Direct interactions. You may give us your Identity, Contact and Financial Data by filling in forms or by corresponding with us by post, phone, email or through chat or social media.
+
+This includes personal data you provide when you:
+
+  * sign up to receive the MOOsletter;
+
+  * make enquiries or request information be sent to you;
+
+  * create an account on our website;
+
+  * create designs for products on our website;
+
+  * order our products or services;
+
+  * ask for marketing to be sent to you;
+
+  * engage with us on social media;
+
+  * enter a competition, promotion or survey;
+
+  * contact customer services; or
+
+  * leave comments or reviews on our products or services (please be kind!).
+
+
+
+
+Automated technologies or interactions. As you interact with us, including via the moo.com website, we may automatically collect Technical Data about your equipment, browsing actions and patterns. We may also collect Tracking Data when you use our website, or when you click on one of our adverts (including those shown on third party websites).
+
+Third parties or publicly available sources. We may receive personal data about you from various types of third parties, including:
+
+  * Technical Data and/or Tracking Data from analytics providers, advertising networks and search information providers;
+
+  * Contact, Financial and Transaction Data from providers of payment and fraud prevention services;
+
+  * Identity and Contact Data from data partners; and
+
+  * Data from any third parties who are permitted by law or have your permission to share your personal data with us, such as via social media or review sites We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
+
+
+
+
+######   5.  How we use your personal data
+
+  * Where we need to perform the contract we are about to enter into or have entered into with you. For example, when you purchase our products, that’s a contract.
+
+  * Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests. For example, when we carry out fraud screening as part of the check-out process.
+
+  * Where we need to comply with a legal or regulatory obligation. For example, keeping records of our sales for tax compliance.
+
+
+
+
+Generally, we do not rely on consent as a legal basis for processing your personal data other than where the law requires it, for example in relation to sending certain direct marketing communications. Where our legal basis is consent, you have the right to withdraw consent any time.
+
+See Explaining the legal bases we rely on to process personal data to find out more about the types of lawful basis that we will rely on to process your personal data.
+
+######   6\. Explaining the legal bases we rely on to process personal data
+
+The table [here](http://www.moo.com/dam/jcr:0282b6ca-c9db-4d2d-9c0e-e6952141cccd/about-pages/Privacy/Personal-data.pdf) shows you a description of all the ways we plan to use personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where appropriate.
+
+Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data.
+
+We do not carry out any automated decision making.
+
+If you ever have any questions about this, all you have to do is ask. See How to contact MOO about privacy below.
+
+######   7\. Advertising, marketing and your communications preferences
+
+We may use your Identity, Contact, Technical, Tracking, Usage and Profile Data to form a picture of what we think you may want or need, or what may be of interest to you. This is how we decide which products, services and offers may be relevant for you and tell you about them. This is what we call direct marketing.
+
+We may carry out direct marketing by email, phone, text or post. For example, you might have the MOOsletter hit your inbox or a cool promotion land on your door mat.
+
+On our website, we always try hard to make it really clear what we are doing and what communications you will be sent, whether it’s you deciding to sign up to the MOOsletter or as part of creating an account or the purchase journey – and you have a right at any time to change your mind and say no thank you and opt out (but we’d be really sorry to see you go, so please gives us a chance by fine tuning your preferences before really leaving us!). The easiest way to opt out is to use the unsubscribe link at the bottom of the communication.
+
+We have established a privacy centre where you can view and make certain decisions about your personal data use [moo.com/consent/manage](http://moo.com/us/consent/manage)
+
+Of course, there are lots of different ways you’ll see adverts for MOO out and about, and not all of these are based on using personal data – sometimes we just buy good old-fashioned advertising space in the real world and websites and social media. If you see MOO’s adverts on websites and in social media, these may not be directed specifically at you, we might just have bid for the space. But here’s some things we may do that may be specifically directed at you:
+
+  * emails, for example the MOOsletter;
+
+  * text messages, for example with discount codes;
+
+  * promotions by post, such as great money off shipping offers, or from our trusted retail partners; and/or
+
+  * phone calls, to tell you something that might be relevant to you and your business.
+
+
+
+
+We work with Abacus Alliance to offer you products and offers by post from trusted retail partners. These are companies operating in the clothing, collectables, food & wine, gardening, gadgets & entertainment, health & beauty, household goods, and home interiors categories. You can opt out of the Abacus Alliance using your personal data any time by going to [here](https://www.epsilonabacus.com/get-in-touch/consumer-data-deletion-requests/).
+
+We also work with partners to try and promote the reach of our adverts and use analytics and retargeting for this reason. We use Tracking Data to deliver relevant online advertising, including via websites and social media.
+
+Tracking Data, and in particular cookies, help us to deliver website and social advertising that we believe is most relevant to you and to potential new customers of MOO. The cookies used for this purpose are often placed on our website by specialist organisations – and this is also why when you’ve been on the moo.com website, you might see that lovely business card design again. This includes retargeting.
+
+Cookies can also tell us if you have seen a specific advert, and how long it has been since you have seen it. This is helpful, because it means we can control the effectiveness of our adverts and control the number of times people might be shown our adverts (you know, before we risk become annoying). Cookies also help us understand if you’ve opened a marketing email because we don’t want to send you things you don’t read.
+
+If you want more information about Tracking Data, in particular cookies, see Cookies below.
+
+Almost all the cookies that relate to advertising are part of third party online advertising networks. If you’d like to read about how you can control which adverts you see online, see opt-out programs established by the [Digital Advertising Alliance](http://www.aboutads.info/) (United States), the [Digital Advertising Alliance of Canada](https://youradchoices.ca/) and the [European Interactive Digital Advertising Alliance](http://www.youronlinechoices.eu/). We do not control cookies which are set by advertising networks.
+
+######   8\. Cookies
+
+You can see from Advertising, marketing and your communications preferences above, that cookies are a tool which we (and everyone one else who operates online) uses for advertising. That is just part of why cookies are used. Generally, they are pretty clever.
+
+Cookies help moo.com work better and provide lots of help in the background to make the process of being a moo.com customer a lot easier. You’d miss a lot of these things if they were gone – like it being easy to log in and move from page to page, and things staying in your cart while you go off and look at other pages.
+
+Other cookies collect information about how visitors use moo.com, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don't collect information that identifies a visitor. All information these cookies collect is aggregated and used to improve how moo.com works.
+
+There are also cookies that allow moo.com to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog.
+
+There are cookies that collect information about your browsing habits in order to make advertising delivered to you more relevant to you and your interests (see Advertising, marketing and your communications preferences above). They are usually placed by advertising networks with our permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation.
+
+When you use moo.com, your device or browser may be sent cookies from third parties, for example when using embedded content and social network links. It's important for you to know that we have no access to or control over cookies used by these companies or third-party websites. We suggest you check the third-party websites for more information about their cookies and how to manage them.
+
+You can see more information about the cookies we use [here](https://www.moo.com/dam/jcr:ff6e8576-ce0c-4fcb-92d2-79e9e192cdd2/about-pages/Privacy/Cookie-Policy.pdf), including who they belong to, their ID and why they are used. We’ve also included links to the third-party websites where you can go to find out more.
+
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly.
+
+######   9\. Disclosures of your personal data
+
+We may share your personal data with the parties set out below for the purposes set out in this privacy policy. We may also share your personal data if the law otherwise allows it.
+
+We may share personal data with the following categories third parties:
+
+  * Suppliers and service providers (such as technology service providers, payment processing and fraud prevention providers, manufacturers and post and courier services);
+
+  * MOO group companies;
+
+  * auditors and professional advisers like bankers, lawyers, accountants and insurers; and
+
+  * government, regulators and law enforcement.
+
+
+
+
+We share personal data with the following specific third parties:
+
+  * IBM Marketing Cloud: we share your data with IBM Marketing Cloud to send our direct marketing campaigns to prospective and current customers. Please visit their [privacy policy](https://www.ibm.com/privacy/uk/en/).
+
+  * Epsilon Abacus: we work with Epsilon Abacus (Epsilon International UK Ltd), a company that manages the Abacus Alliance on behalf of UK retailers. Epsilon Abacus analyses this pooled information to help the retailers understand consumers’ wider buying patterns. From this information, retailers can tailor their communications, sending people suitable offers that should be of interest to them, based on what they like to buy. Please visit their [privacy policy](https://www.epsilonabacus.com/privacy-policy/).
+
+  * Extole: when you use the moo.com refer a friend service, this is powered by Extole. Please visit their [privacy policy](https://www.extole.com/privacy-policy/).
+
+
+
+
+We also share data with third parties connected to advertising, retargeting and analytics. Please see Cookies above, including the cookie list, for more information about who those third parties are.
+
+We may also share data with third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy policy.
+
+We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
+
+######   10\. Payment information
 
 MOO uses third party payment processors Digital River World Payments and PayPal to process payments made for products and services via the Website. All online payments will be conducted in accordance with Payment Card Industry (PCI) data security standards (which are high!) and your billing information (which is only used by these payment processors for the purpose of performing fraud protection) is encrypted before being communicated to them. Subject to the below exceptions, your credit card details are communicated directly from your browser to these payment processors - MOO never (ever!) sees your full Permanent Account Number (PAN). This means that the payment form is either off-site or displayed in a frame on the payment page.
 
-For Digital River World Payments, if on the payment page you have requested that your card details be remembered (it’s such a timesaver!) and the payment was successful, MOO stores the card type, a Masked PAN (only the first 6 and last 4 digits) and the card’s expiry date as well as an associated token. This information is stored by us so that you and we can identify your stored card and use it for further payments at MOO. This stored information can be deleted via the payment form on the Website should you wish to do so. We also store separately the last 4 digits and card type so that we can identify transactions made by a particular card. 
+For Digital River World Payments, if on the payment page you have requested that your card details be remembered (it’s such a timesaver!) and the payment was successful, MOO stores the card type, a Masked PAN (only the first 6 and last 4 digits) and the card’s expiry date as well as an associated token. We store this information so that you and we can identify your stored card and use it for further payments at MOO. This stored information can be deleted via the payment form on the Website should you wish to do so. We also store separately the last 4 digits and card type so that we can identify transactions made by a particular card.
 
 For PayPal we only store the tokens required to identify the transaction with PayPal, issue refunds and identify transactions made using PayPal.
 
-######   
-SPECIAL NOTIFICATION FOR EUROPEAN UNION RESIDENTS
+######   11\. International transfers
 
-   
-Our Website uses “cookies” and files that are similar to cookies. Cookies are alphanumeric identifiers created by your browser at our request and stored on your computer. Cookies help us to distinguish you from other uses of our Website. For detailed information on the cookies we use and the purposes for which we use them, see our Cookies Policy (see below).
+Whenever we transfer your personal data out of the EEA, we will comply with applicable data protection law. Some of the mechanisms we may choose to use when undertaking an international transfer are:
 
-###### 
+  * The transfer of your personal data is to a country that has officially been deemed to provide an adequate level of protection for personal data by the European Commission.
 
-WHERE WE STORE DATA 
+  * We may use specific contracts approved by the European Commission which give personal data the same protection it has in Europe (called the “EU Model Clauses”).
 
-  
-MOO transfers, processes and stores data about you on servers located in a number of countries, for example, where we subcontract processing to, or share your Personal Information with, third parties for the below purposes. Your Personal Information may therefore be transferred to, processed and stored in a country different from your country of residence, and be subject to privacy laws that are different from those in your country of residence. Information collected within the European Economic Area (“EEA”) and Switzerland may, for example, be transferred to and processed by third parties referred to below that are located in a country outside of the EEA and Switzerland, where you may have fewer rights in relation to your Personal Information. By using the Website and providing us with your Personal Information, you are consenting to the transfer, processing and storage of your Personal Information in countries outside of your country of residence.
+  * Where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between the Europe and the US. If the provider is not EU-US Privacy Shield certified, we may use the EU Model Clauses.
 
-######   
-USE OF INFORMATION 
 
-We use the information that we collect about you for the following (totally legit and normal) purposes:
 
-• to maintain and improve our Website, including personalizing your online experience and ensuring content is presented in the most effective manner for you;  
-• operate our business, including the provision to you of information, products and services that you request and other transactional or administrative updates;  
-• to administer your account;  
-• inform you about products and services that we offer and that are similar to those you have already purchased or enquired about;  
-• provide you, or permit selected third parties to provide you, with information about products and services we feel may interest you (where you have consented to receiving such communications);  
-• to notify you about changes to our services, the Website or our Terms of Use and this Privacy Policy;  
-• as part of our efforts to keep the Website safe and secure;  
-• to measure or understand the effectiveness of advertising we serve to you and others, and to make our future marketing efforts and those of third parties more effective; and  
-• to administer our Website and for internal operations, including troubleshooting, data analysis, research, testing, statistical and survey purposes.
 
-We may also combine the information which you provide to us (such as your registration details) with information which we collect about you (such as information about your orders) and/or receive from other sources, and use this combined information for the purposes set out above.
+We share your personal data within the MOO Group, which will involve transferring your data outside the European Economic Area. We do this using the EU Model Clauses.
 
-###### 
+Many of our external third-party providers are based outside the EEA, so their processing of your personal data will involve a transfer of data outside the EEA.
 
-DISCLOSURE OF INFORMATION 
+######   12\. Data security
 
-We may disclose information about our customers and visitors to the Website to third parties. 
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
 
-Group Companies: We may share your Personal Information with any member of our group 
+We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
 
-Business Operations: In order to carry out certain business functions, such as order fulfillment, payment processing, e-mail delivery, or marketing, we may hire other companies to perform services on our behalf. We may disclose Personal Information that we collect about you to these companies to enable them to perform these services. By way of example, information relating to your order which we have combined with other Personal Information (as explained above) may be shared with our third party service providers that assist us with our marketing efforts.   
-Third Party Partners: We may partner with third parties to provide you with information about products or services that we feel may be of interest to you. We will only disclose your Personal Information to such third parties if you have consented to receiving such information. 
+######   13\. Third-party links
 
-Law Enforcement, Protection of MOO and our Customers: We may also disclose Personal Information in other circumstances as required by law. We also reserve the right to disclose your Personal Information when we believe such disclosure is appropriate to cooperate with an investigation of activities claimed to be unlawful, to enforce our Terms of Use, or to protect the rights or property of MOO or others. (So, be good.) 
+This website may include links to third-party websites, plug-ins and applications (for example, the ability to sign in with Facebook). Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy policy of every website you visit.
 
-Merger, Sale or Acquisition: In addition, it is possible that in the future another company may acquire MOO or its assets or that MOO may partner with or purchase another company to continue to do business as a combined entity. In the event that any such transaction occurs, it is possible that our customer information, including your Personal Information, may be transferred to the new business entity as one of MOO’s assets. In such an event, we will update this policy to reflect any change in ownership or control of your Personal Information. 
+######   14\. Data retention
 
-######   
-LINKS TO THIRD PARTY PRODUCTS AND SERVICES 
+We will only keep your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
 
-  
-While you are visiting or using the Website, you may be presented with an opportunity to purchase third party products or services. These products and services are offered and supplied by independent companies. If you click on one of the presented offers, you will be redirected to the site of the third party, and any information you provide in response to the offer will be will be governed by the privacy and other policies of that third party. We do not guarantee the security of your Personal Information when using such third party sites or that the operator of such third party sites will comply with applicable data protection laws and regulations. 
+To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
 
-######   
-YOUR CHOICES 
+By law we have to keep basic information about our customers (including Contact, Identity, Financial and Transaction Data) for six years after they stop being customers for tax purposes.
 
-Communications from MOO: If you do not want to receive email communications from MOO about our own or third-party products and services that may be of interest to you, you can update your preferences in the My Account section of the Website (Don’t call and tell us though, we hate goodbyes). You can also click on the unsubscribe link at the bottom of one of our emails. We may still contact you via mail or phone, unless you request to be added to our Do-Not-Call list, and/or our Do-Not-Mail list by contacting us using the below details and indicating your preferences. Please be sure to provide your exact name, e-mail address, mailing address and telephone number(s) and the list or lists you would like to be included on (Do-Not-Call, and/or Do-Not-Mail). Even if you opt-out of email marketing or choose to be placed on one of these lists, we may still communicate with you using any of these methods for those non-marketing purposes set out above in the ‘Use of Information’ section. 
+We also make a promise to you that you can come back at any time in the future and re-print products you have ordered from us in the past. So, unless you actively delete this information, we keep it, so we can keep our promise to you.
 
-Deactivation of Your Account: You may also request deactivation of your MOO account (it makes us sad even seeing it written down) by contacting us using the below details and requesting account deactivation. Please note that your Personal Information may remain in our archived records after your account has been deactivated, but we will not keep it for longer than necessary to fulfill the purposes listed above. 
+In some circumstances you can ask us to delete your data; see Your legal rights below for further information.
 
-######   
-UPDATING AND ACCESS TO YOUR PERSONAL INFORMATION 
+In some circumstances we may anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
 
-If you wish to change your name, e-mail address, password, and/or communication preferences after you have registered, you can access your account in the My Account section of the Website. You may also request these changes by contacting us using the below details (and why not? We love a personal call!). 
+######   15\. Your legal rights
 
-If you are a resident of the European Union, you also have the right to request access to and correction of Personal Information that we hold about you. This right of access and correction can be exercised in accordance with the Data Protection Act 1998. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. 
+If the General Data Protection Regulation applies to you because you are in the European Union, you have rights under data protection laws in relation to your personal data:
 
-######   
-WEBSITE SECURITY 
+  * The right to be informed – that’s an obligation on us to inform you how we use your personal data (and that’s what we’re doing that in this privacy policy);
 
-We maintain physical, electronic, and procedural safeguards reasonably necessary to ensure the protection of your Personal Information against loss, misuse, disclosure and alteration. For example, we use Transport Security Layer (TSL) technology to encrypt your credit card information when you purchase products through our Website. Basically, it takes a lot of effort to break into this fortress. 
+  * The right of access – that’s a right to make what’s known as a ‘data subject access request’ for copy of the personal data we hold about you;
 
-When you establish an account at MOO, you choose a password to help protect your account information. A password is only as strong as you make it: you should select a unique password and keep it safe. You may change your password as often as you wish by going to My Account section of the Website. You are responsible for keeping this password confidential. We ask you not to share a password with anyone. Our sign-in process is designed to help protect your privacy. If you have trouble signing in to our Website, please ensure that you are using your registered e-mail address and correct password. If you are using your registered e-mail address and correct password, and you continue to have trouble signing in to our Website, please contact us using the details below. 
+  * The right to rectification – that’s a right to make us correct personal data about you that may be incomplete or inaccurate;
 
-Notwithstanding the above, unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your Personal Information, we cannot guarantee the security of your data transmitted to our Website; any transmission is at your own risk. (Typical internet, right?). 
+  * The right to erasure – that’s also known as the ‘right to be forgotten’ where in certain circumstances you can ask us to delete the personal data we have about you (unless there’s an overriding legal reason we need to keep it);
 
-######   
-CHANGES TO THIS PRIVACY POLICY 
+  * The right to restrict processing – that’s a right for you in certain circumstances to ask us to suspend processing personal data;
 
-  
-MOO may revise this Privacy Policy from time to time by posting a revised Privacy Policy on our Website and changing the last modified date at the top of the Privacy Policy. If we make significant changes to the Privacy Policy, we will note the Privacy Policy has changed on the main page of the Website and/or contact you by email (so do stay on the edge of your seat at all times). We reserve the right to modify this Privacy Policy at any time, so please review it frequently (and why wouldn’t you?). 
+  * The right to data portability – that’s a right for you to ask us for a copy of your personal data in a common format (for example, a .csv file);
 
-######   
-MOO CONTACT DETAILS
+  * The right to object – that’s a right for you to object to us processing your personal data (for example, if you object to us processing your data for direct marketing); and
 
- 
+  * Rights in relation to automated decision making and profiling – that’s a right you have for us to be transparent about any profiling we do, or any automated decision making.
 
-Where you need to contact MOO, either pursuant to this Privacy Policy or just for an emotional chit-chat, you may:   
-• email us at support@moo.com   
-• call us at +044 (0) 20 8629 1415 – UK or 1.401.519.7216 – US/CA; or   
-• write to us at: 
 
-UK Office   
-MOO Print Limited   
-2nd Floor   
-20 Farringdon Road   
-London, EC1M 3AF   
-United Kingdom 
 
-US Office   
-MOO Inc.   
-14 Blackstone Valley Place   
-Lincoln, RI 02865   
-USA 
 
-When writing to us, please be sure to include your exact name, mailing address, telephone number and specific preferences or request (but nothing so specific it gets weird). 
+These rights are subject to certain rules around when you can exercise them. You can see a lot more information on them, if you are interested, on the UK [Information Commissioner’s Office website](https://ico.org.uk/for-the-public/personal-information/).
 
-#### Cookie Policy
+If you wish to exercise any of the rights set out above, please contact us (see How to contact MOO about privacy).
 
-###### Last Modified: June 2016 
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
 
-Like most websites, our www.moo.com website (the “Website”) uses "cookies" and files that are similar to cookies. Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests. 
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
 
-Our Cookies Policy is “one per person”. NO! That’s a ridiculous joke. Let's start again. Our Cookies policy provides you with information on what cookies may be set when you visit our Website and how to enable, control or delete those cookies. By using the Website, you are agreeing to our use of cookies as particularized in this Cookies Policy. 
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
 
-######   
-WHAT ARE COOKIES 
+We have appointed a data privacy manager who is responsible for overseeing questions in relation to this privacy policy. If you have any questions about this privacy policy, including any requests to exercise your legal rights, please contact the data privacy manager using the details in How to contact MOO about privacy below.
 
-Cookies are text files containing small amounts of information which are downloaded to your personal computer, mobile or other device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognizes that cookie. Cookies are useful because they allow a website to recognize a user's device. 
+You have the right to make a complaint at any time to the Information Commissioner's Office (“ICO”), the UK supervisory authority for data protection issues (www.ico.org.uk). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.
 
-You can find more information about cookies at www.allaboutcookies.org and www.youronlinechoices.eu. 
+######   16. How to contact MOO about privacy
 
-######   
-HOW DO WE USE COOKIES AT MOO? 
+If you have any questions about this privacy policy, or would like to exercise any of your rights, please email us at data.privacymanager@moo.com or write to us with your letter addressed to: Data Privacy Manager, Moo Print Limited, 2nd Floor, 20 Farringdon Road, London EC1M 3AF, United Kingdom.
 
-  
-The following is a list of all the cookies used on our Website set out by category: 
+If you need help about our products and services, or this website generally, please contact us [here](https://support.moo.com/hc/en-gb/articles/204288414).
 
-######   
-STRICLY NECESSARY COOKIES
+######   17\. A little request from MOO to you
 
-   
-These cookies are essential in order to enable you to move around the Website and use its features, such as accessing secure areas of the Website. Without these cookies, services you have asked for, like shopping baskets or e-billing, cannot be provided. 
+It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us. You can do this by updating your account. Thank you.
 
-######   
-PERFORMANCE COOKIES
+######   18\. Changes to this privacy policy
 
-   
-These cookies collect information about how visitors use the Website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don't collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how the Website works. 
+The General Data Protection Regulation is new and the ICO is still issuing new bits of guidance about how businesses should follow it. So, you may see little updates to our privacy policy over the coming months. Be sure to check in and have read every now and then. Thank you.
 
-######   
-FUNCTIONAL COOKIES 
-
-These cookies allow the Website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customize. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. 
-
-TARGET OR ADVERTISING COOKIES   
-These cookies collect information about your browsing habits in order to make advertising delivered to you more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with our permission. They remember that you have visited a website and this information (in anonymous and aggregate form) is shared with other organizations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organization. 
-
-######   
-THIRD PARTY COOKIES
-
-  
-When you use our Website, your device or browser may be sent cookies from third parties, for example when using embedded content and social network links. It's important for you to know that we have no access to or control over cookies used by these companies or third party websites. We suggest you check the third party websites for more information about their cookies and how to manage them.
-
-######   
-HOW TO MANAGE COOKIES 
-
-The Help menu on the menu bar of most browsers will tell you how to enable or prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. You can also disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its operator. (Or you could just sit back and let the cookies wash over you.)   
-If you use a PC - click on 'Help' at the top of your browser window and select the 'About' option If you use a Mac - with the browser window open, click on the Apple menu and select the 'About' option. 
-
-For Flash Cookies (or Local Shared Objects) – The Adobe website provides comprehensive information on how to delete or disable Flash cookies - see http://www.adobe.com/security/flashplayer/. 
-
-For Third Party Cookies – If you'd like to opt out of third party company cookies , please use the-opt out tool offered by members of the Network Advertising Initiative (NAI) – see http://www.networkadvertising.org/managing/opt_out.asp. Otherwise, we suggest you contact the relevant third party for more information about their cookies and how you can manage them. 
-
-######   
-CHANGES TO THIS COOKIE POLICY 
-
-  
-We may revise this policy from time to time by posting a revised policy on our Website. We reserve the right to modify this policy at any time, so please review it frequently (like you normally would. Because it’s just so mesmerizing.)
+© Moo Print Limited 2018
