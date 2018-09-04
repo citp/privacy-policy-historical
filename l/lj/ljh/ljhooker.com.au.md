@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ljhooker.com.au privacy policy that was archived on 2018-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180327175021id_/https%3A//www.ljhooker.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ljhooker.com.au privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904050815id_/https%3A//www.ljhooker.com.au/privacy-policy) for the most accurate reproduction.*
 
 # LJ Hooker Real Estate - Privacy Policy
 
@@ -161,8 +161,6 @@ a)    When providing our services (including purchasing or selling a property
 b)    In addition to Australia, the countries where information may be disclosed include New Zealand, Hong Kong, Japan, Indonesia, Vanuatu, Papua New Guinea, United Arab Emirates and other countries from time to time.
 
 c)    Off-shore disclosure may be through arrangements we have with entities in other countries that supply international portals which facilitate the advertising of properties and businesses for sale to overseas buyers.  
-
-This includes a concierge service provided for Asian buyers by one of the international portal providers.  The concierge receives inquiries in respect to properties or businesses from Asian buyers and refers them to the relevant agent in Australia to progress the inquiry.  The concierge also provides an optional translation and communication service with Asian buyers who do not speak English.  
 
 d)    The overseas recipient may not be subject to any privacy obligations or to any principles similar to the Australian Privacy Principles.  The overseas recipient may also be subject to a foreign law which could compel disclosure of personal information to a third party, for example, an overseas authority.
 
