@@ -1,87 +1,185 @@
-> *The following text is extracted and transformed from the ebooking.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920220830id_/http%3A//www.ebooking.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebooking.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904085121id_/https%3A//www.ebooking.com/en/privacy-policy) for the most accurate reproduction.*
 
-# ebooking.com: Privacy Policy
+# ebooking.com: Privacy Policy and Cookies
 
-This document explains how cookies are used on our website and how your personal data is processed pursuant to the existing legal obligations.
+This Policy (hereinafter, the "Privacy and Cookies Policy") regulates the Privacy and Cookies Policy of Web Platform [https://www.ebooking.com](https://www.ebooking.com/ "ebooking.com") (hereinafter, "the Platform"), under the ownership of Domibay, S.L. (hereinafter, Domibay), with e-mail address of contact for the purposes of this policy: [legal.dp@domibay.com](mailto:legal.dp@domibay.com).
 
-## Cookies
+Subject to the above, it should be underlined that this Platform can be connected or affiliated with platforms or differentiated systems of reserves under the ownership and/or managed by third-party partners of Domibay, Domibay operating, in such cases, as an advertising service system or provider generating reserves in cooperation with the above mentioned third parties. In such a way that, in these cases, the services shall be contracted by the user of the Platform directly with a data controller other than Domibay, and in accordance with the specific terms and conditions established for each case, and we therefore recommend that the customer carefully reads not only our Privacy and Cookies Policy, but also the terms, conditions and policies of such third parties concerning the specific reserves which can be made through the system offered by this Platform. For further information on these matters, please consult section 3 of this Policy.
 
-### What is a cookie?
+This Privacy and Cookies Policy will be translated into various languages in accordance with the needs of the activity of Domibay and its corporate policy of quality, services and customer support. Subject to the above, in case of conflict in connection with its interpretation or the application of the conditions contained in this policy, the parties agree that the Privacy and Cookies Policy in Spanish shall prevail over the versions in any other language for all legal purposes.
 
-A cookie is a small amount of data that a website places on the user’s computer.
+## 1\. Platform: Applicable legal regime, use and purpose
 
-### Why do websites use cookies?
+The Platform is a mechanism of interaction, communication and support that Domibay provides to the users of Internet in order to offer them sufficient, adequate legal information concerning its activity, products and services in relation with its legitimate economic and corporate activities, which are governed by the applicable Spanish legislation, as regards:
 
-Websites have no memory. A user who browses from page to page within a website is not recognised as being the same user. Cookies enable the website to recognise the user's browser so that it can therefore remember the choices previously made (e.g. the language spoken by the user) or identify frequent visitors to the site.
+  * The prestation of services of the information society, of a basic nature, in accordance with Law 34/2002, of 11 July, of services of the information society and of e-commerce.
+  * Personal data processing, in accordance with the Spanish and European legislation in force on the protection of personal data of natural persons. In particular, as from 25/05/2018, the Regulation (EU) 2016/679 of the European Parliament and of the Council, of 27 April 2016 (hereinafter, the "GDPR) shall apply directly, as provided for by this instrument.
 
-### Do cookies all do the same thing?
 
-No, there are different types of cookies that have different purposes. Cookies can be distinguished by their function, lifetime and the web server that places them.
 
-### How does ebooking.com use cookies?
+In any case, the user undertakes to make an adequate and lawful use of the Platform, as well as of the contents, products and services provided on it, either offered directly by Domibay, or by third-party partners, in accordance with the legislation applicable from time to time.
 
-ebooking.com has created an advanced and user-friendly website that automatically adapts to the needs and wishes of its users. To this end, our website uses 4 types of cookies: Technical cookies: Technical cookies show users around our website, they make it work correctly, enable users to create an account, log in and process bookings. Technical cookies are absolutely essential for our website to function properly. Functional cookies: Functional cookies remind the website about a user’s preferences and help them use our website efficiently and effectively; they remind the website about the user’s preferred currency and language, about their previous searches or the accommodation viewed earlier. These functional cookies are not essential for the functioning of our website, but they do make using the website easier and they enhance users’ experience of such. Analytical cookies help us determine how our website is used by visitors, what works and what doesn’t; they enable us to optimise and improve the website and ensure that it continues to be interesting and relevant for our users. We collect data on the web pages viewed, referring/exit pages, platform type, date/time stamp information and other details like the number of (mouse) clicks on a given page, mouse movements, scrolling activity, the (search) words used and the text typed while using our website. This information is anonymous and is only used for statistics. Lastly, commercial cookies are used to display ebooking.com advertisements on other websites (retargeting), according to the destinations previously searched for, or accommodation viewed earlier. These cookies are typically placed by trustworthy third parties.
+Additionally, the user of the Platform undertakes specifically to:
 
-### How long do ebooking.com cookies stay active?
+  * Guarantee that all the data communicated through the Platform, either to Domibay or to third-party partners of Domibay are authentic, true, updated and accurate, otherwise the user shall be held solely responsible.
+  * Use the Platform and the associated applications (apps) exclusively for the purposes and functionalities established by Domibay or third-party partners, such functionalities being presented "AS IS" by Domibay or, if it is the case, by the third-party partners of Domibay, the user being forbidden from using the Platform and associated apps for any purpose or through any mean other than those presented on them.
+  * Make a lawful and legitimate use of the Platform, its functionalities, contents and services avoiding non-authorised, fraudulent, illegal or illegitimate use, and avoiding infringing this policy and the applicable legislation, or harming the legitimate rights and interests of Domibay, or of any other third party who may be affected in result of such action.
+  * Not to harm the systems or elements associated with the Platform, of its suppliers or of third parties, or attempt to breach their security or authentication measures, carry out any action that leads to a disproportionate or unnecessary saturation of the infrastructure or of the communications environment related with the Platform, attacking it in way. Domibay can adopt all the preventive or corrective measures that may be necessary to protect its interests or the interests of its partners, in order to guarantee the proper functioning of the Platform and of the various specific functionalities and services provided by it. It can also implement mechanisms of detection and prevention of fraud and of attacks to ensure the correct use and the protection of the Platform, of its functionalities/services and of the information that may flow through it.
+  * Not to introduce or to disseminate through the Platform computer virus or malware which may cause damage.
+  * Not to attempt to access, use and/or manipulates the data of Domibay or of which Domibay is the controller, or of third-party suppliers and of other users.
+  * In particular, and for guidance purposes and not being exhaustive, the user undertakes not to transmit, disseminate or provide to third parties information, data, contents, messages which may lead to the infringement of rights of Domibay or of third parties or, in general, which may be contrary to the law, moral or public order.
+  * Not to access without authorisation and not to interact with a false identity, making or not an abusive use of the identity of third parties or using a profile or carrying out other action that may generate confusion or be misleading in relation to the correct identification of the user in question.
 
-ebooking.com uses several cookies, whose lifespan varies. The maximum lifespan set on some of them is 5 years. All cookies can be deleted from the browser at any given time.
 
-### How can ebooking.com cookies be identified?
 
-The ebooking.com cookies can be identified in your browser settings.
+## 2\. Users
 
-### Does ebooking.com use third party cookies?
+This Privacy and Cookies Policy is directed to the users of the Platform and concerns the personal data processing.
 
-Yes. ebooking.com uses the services of reliable, recognised online advertising and marketing companies. These companies need to place cookies to optimise their services. Our service providers are committed to raising consumer awareness and establishing responsible business and data management practices and standards. Most of these companies are members of the Network Advertising Initiative (NAI) and/or the Interactive Advertising Bureau (IAB). Members of NAI and IAB adhere to industrial standards and codes of conduct. The NAI and IAB members have a general opt-out function for behavioural advertising. Please visit www.networkadvertising.org and www.youronlinechoices.com to identify the NAI members that have placed an advertising cookie file on your computer. To opt out of a NAI or IAB member's behavioural advertising programme, simply tick the corresponding box for the company from which you wish to opt-out of.
+In any case, it is emphasised that this Platform is directed to user over the age of 18 and is forbidden to minors.
 
-### Who has access to ebooking.com cookie data?
+The information and personal data provided by the users who intend to navigate or register on the Platform must be:
 
-Only ebooking.com has access to the cookie data acquired on the website. Please note that from time to time, third party service providers might be used for market research and quality improvement. Third parties that place cookies have access to them.
+  * Sufficient, but adjusted, limited and proportionate to the legitimate processing purposes described by Domibay, with full respect for the principles of purpose limitation and data minimisation (article 5.1, sub-paragraphs b) and c) of the GDPR).
+  * Accurate, updated and true, in such a way that the identity, capacity and, if necessary, the representation of the user can be adequately confirmed, and, in each case, the data processing can be adjusted to the specific needs and the real situation of the users. All the above respecting the principle of accuracy of the personal data (5.1 sub-paragraph d) of the GDPR).
 
-### Does ebooking.com monitor online behaviour?
 
-No. ebooking.com just statistically analyses the behaviour of all those using our website. You might receive ads from ebooking.com on different sites (retargeting), according to your history on our website. This information is anonymous. We do not monitor your behaviour outside ebooking.com.
 
-### How can I manage my cookie preferences?
+The users shall be fully responsible for the correct use of their user accounts and, if appropriate, the passwords. If the registered user considers that the security of his/her account and/or associated passwords has been compromised, he/she can immediately contact Domibay using the contact details indicated in the beginning of this Policy and report the situation or the incident in question, in order for Domibay to adopt the appropriate measures as from the moment of the communication made by the user. The users who are the holders of such accounts shall be responsible for the damages and losses associated to an inadequate use and a personal management of the accounts and associated passwords, fully releasing Domibay or any other third party which this entity relates with as a result of the above from any responsibility.
 
-The cookies you want to accept or reject can be established by means of your browser settings (e.g., Internet Explorer, Safari, Firefox and Chrome). The location of these setting depends on the browser used. The relevant settings can be found using the 'Help' function of your browser. Please note that if certain cookies are not accepted, you might not be able to use some of the functions on our website. Moreover, bear in mind that opting out of an advertising network does not mean that you will no longer receive or be subject to online advertising or market research, but rather the network from which you opted out will no longer send ads tailored to your web preferences and usage patterns.
+## 3\. Who is the controller?
 
-## Privacy
+In accordance with articles 13 and 14 of the GDPR, the controller for the data processing associated with the navigation of the users of the webpage [https://www.ebooking.com](https://www.ebooking.com/ "ebooking.com") is Domibay, S.L., with registered office at Arrecife - Lanzarote, calle Fajardo, nº 12, 1º planta, oficina 8, the Palmas (35.500), Spain, and holder of the Tax Identification Code No B-35.971.498. It is registered in the Companies Registry Office of Lanzarote, in volume 386, book 0, folio 191, sheet IL-9272 and with e-mail address of contact for the purposes of this policy: [legal.dp@domibay.com](mailto:legal.dp@domibay.com).
 
-ebooking.com processes your personal data for the following purposes: making reservations via the Website, evaluating your stay at an establishment booked through the Website and placing this evaluation on the Website (only with your consent), informing you about special offers that might be of interest to you (only with your consent), for statistical purposes and market research, Your personal data might also be used to detect fraud and/or other illegal acts involving ebooking.com.
+Subject to the above, as mentioned before, this Platform can be connected or affiliated with other platforms or reserve systems under the ownership and/or managed by third-party partners of Domibay (hereinafter, "the partners"), in particular, Expedia or EAN.COM L.P. (reserves of lodging) forming a part of Domibay of the network called "Expedia Affiliate Network (EAN)", RentalCars or TravelJigsaw Limited (rental of vehicles or rent-a-car), and GetYourGuide Deutschland GmbH (reserves of activities), Domibay operating in these cases as a mere advertising service system or provider of generation of reserves in cooperation with such third parties. In these cases, the partners are the controllers vis-à-vis Domibay, and therefore they shall be directly liable to the users in relation with the data processing that they may carry out. In these cases, Domibay shall only operate as platform or affiliated webpage or webpage of provenance, enabling the relevant contact between the user and the partner and, as controller, it shall inform in a clear and transparent manner the user of its specific terms, conditions and policies, both for the contracting of services, and the processing of his/her personal data, the user contracting directly the relevant services with such partners. In any case, such partners can communicate to Domibay certain personal data of the users associated to the contracts concluded through [https://www.ebooking.com](https://www.ebooking.com/ "ebooking.com"), in order for Domibay to perform others services or supplies in connection with the contracts concluded on behalf of such partners, to control the satisfaction level of the users about its Platform as regards the information, contents or services offered through it and, if applicable, with the corresponding authorisation of the user, to be able to send him/her information which may be of interest to him/her concerning the services or goods contracted through the Platform (promotional or advertising purposes).
 
-### Personal data obtained by ebooking.com
+## 4\. 4. For what purposes does Domibay process your personal information?
 
-ebooking.com obtains the following personal data: name, address, email address, telephone number, credit card details and where appropriate, reservation and smoking preferences. This information is required to process, book and complete your reservation. ebooking.com may also process data about your computer which includes the IP address, browser type and (for users of our service through a mobile device), Unique Device Identifier, operating system, application version and latitude/longitude. This data is normally non-identifying or anonymised, although it is considered to be personal whether it is combined or separate. Whatever the case, it shall be processed in accordance with European law on data protection.
+As a controller differentiated from its partners, Domibay shall process the personal data provided by you through the Platform for the following purposes:
 
-### Transfer to third parties
+  * Enable you to navigate through the Platform, as well as to use, I f applicable, the associated apps, thus allowing the access to the information and contents provided therein and directly offered either by Domibay, or by its third-party partners, including any information on promotional or advertising campaigns to contract goods and services of Domibay or its partners (advertising intermediation services). Domibay does not control, review or offers on behalf of such partners tourism goods or services, therefore you contact and contract such third parties directly, and such third parties are the ones determining the terms and conditions of access, the contracting and/or processing of your personal data in each case, reason why Domibay excludes to the extent permitted by the applicable legislation any responsibility in this connection.
+  * To fully process the requests or petitions submitted by you in connection with the Platform, including any subscriptions to communications or information newsletters on initiatives or offers provided by Domibay or by the partners.
+  * If applicable, it can assess the satisfaction level and the quality level concerning the information, contents or services offered on the Platform by Domibay or by the partners through questionnaires in which you can participate if you so wish.
+  * To receive ads on webpages other than this one (retargeting), based on your background of navigation through the Platform, and it can block the cookies associated with this action at any moment. For further information, please consult section 12 of this Policy.
+  * In case it is necessary for advertising or promotional purposes, and you can withdraw your consent or oppose this processing at any moment if you so wish.
+  * For statistics purposes and for purposes of market analysis.
+  * To process the data on your computer devices, such as IP address, the type of browser and (for the users who use a mobile device) the Unique Device Identifier, the operating system, the version of the application and the coordinates of latitude/longitude. In general, these data are processed as non-identifiable or anonymous information but are considered to be personal data on their own or combined. In these cases, the data are processed in accordance with the European data protection laws.
+  * If necessary, to detect and analyse possible cases of fraud, attacks and/or other activities not permitted or illegal against the Platform.
+  * To apply the security, technical and/or organisational measures on the personal data of the users that may be necessary taking into consideration the risks detected by Domibay in connection with your rights at each moment, including the encryption of personal data and other measures applied to certain processing operations concerning the data of the users of the Platform.
+  * To adopt all the protection measures of protection which are applicable in accordance with the legislation in force, including the possible anonymisation of your personal data applying for this purpose the adequate techniques available for this purpose. Therefore, in this context, anonymised and pseudonymised processing can also be carried out for a better protection of your personal data.
 
-Under certain conditions ebooking.com may pass on personal data to the following third parties:
 
-### \- Our accommodation service provider
 
-In order to complete your reservation the necessary information is passed on to our accommodation service provider so that they can process it. By completing a reservation, you shall then be invited to complete our guest review form. If you wish, the review can be anonymous, but please bear in mind that it might be used on our Website on the corresponding accommodation information page or on other relevant platforms and social media (totally or partially) that are owned, controlled, managed or hosted by us or our trusted business partners for the sole purpose of informing future customers about the level of service and the quality of the establishment in question. We reserve the right to modify, reject or remove review forms as deemed fit. The guest review form is a survey and does not include any sales offers, invitations or incentives.
+In case you do not agree with such processing purposes, we urge you to immediately leave our Platform. Otherwise, for example, if you accept this policy, or simply continue navigating through the Platform, previously knowing the information contained in this policy, it will be considered that you unambiguously give your consent to the previously indicated processing purposes.
 
-### \- Data processors
+## 5\. Storage of your personal data by Domibay
 
-From time to time, third party service providers might be used as data processors for the aforesaid purposes. For example, service providers might be used to send emails with reservation information for a certain type of accommodation. These third parties process this information pursuant to our instructions and they are bound by data processing and confidentiality agreements.
+Your user data will be stored for the period that is necessary to ensure you a correct navigation, access and use of the contents, products and services provided on the Platform that are requested or visited by you, all this in accordance with the provisions of this Privacy and Cookies Policy and the applicable legislation. Subject to the above, Domibay can store, in any case, your personal data for a period of 3 years as from collection, in accordance with the personal data protection legislation and in order to analyse the possible responsibilities for the data processing made through the Platform.
 
-### \- Competent authorities
+## 6\. Legal ground for the processing carried out by us
 
-ebooking.com shall pass on and disclose personal data and information to a government or law enforcing authority if so required by law (or any legal regulation in force), legal procedure, criminal investigation, court order or subpoena. It might also have to disclose personal data if it is deemed necessary for the prevention, detection and prosecution of criminal acts.
+The legal ground for the processing is mainly your consent, and therefore, after you have been informed of this policy, if you accept it, or you simply continue navigating through the Platform, it will be considered that you give your unambiguous consent to the processing of your personal data for the above-mentioned purpose. Therefore, if you do not agree with this Policy or with the indicated processing purposes, please do not continue navigating and immediately leave the Platform. This is irrespective of the existence of a legitimate interest of Domibay in the processing, in accordance with the article 6.1 f) of the GDPR.
 
-## Security
+You are entitled to, at any moment, chose the processing and the destination of your data, and you have the right to withdraw your consent at any moment, although such withdrawal will not affect in any way the lawfulness of the prior processing carried out by Domibay.
 
-Pursuant to European law on data protection, ebooking.com takes strict security measures to prevent the misuse of and the unauthorised access to personal data. ebooking.com has established the appropriate business systems and procedures to protect and safeguard the personal data acquired. Furthermore, security procedures, technical and physical restrictions have also been incorporated to limit the access and the use of personal data to authorised employees for whom this information is made available, so that they can carry out their professional duties related to our services. ebooking.com does not save or store the data about credit cards; the details of such are acquired so that our service provider can process the reservation; having completed this, the information on the credit card is irrevocably deleted from our systems.
+In any case, you can be prevented by Domibay to use the Platform and the associated services, contents and functionalities associated in case you do not accept this policy, or do not give your consent to the processing of your personal information in accordance with the provisions thereof.
 
-## Personal data processing and management
+The acceptance of this policy is independent to the possible acceptance of the specific legal terms and conditions which may govern each contracting with the partners that operate through our Platform.
 
-Users are entitled to review their personal data at any given time by means of emailing us a request to do so to: info@ebooking.com, or by sending a letter to 'File Data Protection Manager' at the registered office of Domibay, S.L.: Calle Fajardo nº 12, 1ª planta, oficina 8, 35500 Arrecife de Lanzarote (Las Palmas, Spain). Please write 'Request personal data' as the subject of the email. If any of the personal data provided is incorrect we shall change it on request. Users can also ask ebooking.com to remove their personal data from its database just by sending an email to the aforementioned email address. Pursuant to the existing legislation and in compliance with the provisions established in the Organic Law 15/1999 of the 13th of December on the Protection of Personal Data, personal data that is acquired on this website shall be incorporated into the files of ebooking.com (Domibay, S.L.) in the interests of providing the services and products advertised herein and to carry out market research to keep users up-to-date, by email or by any other means, of news, products and services related to ebooking.com, or third-party associates. Email marketing and advertising or other forms of such shall only be sent once a user has agreed to receive such, whereby they are also considered to have agreed to ebooking.com processing and handling their personal data. Users, who have provided their data, are entitled to exercise their rights to access, rectify, cancel and oppose this pursuant to the terms established in the data protection legislation whenever required. In turn, their consent to have their personal data processed and passed on to third parties can be revoked at any given time without this having any kind of retroactive effect. Moreover, pursuant to the law in force on data protection that is upheld by ebooking.com for the aforementioned purposes, users can request information about the services and products advertised on the website or ask to be removed from its mailing list by sending an email to info@ebooking.com or a letter to the following address of the registered office of Domibay, S.L.: Calle Fajardo nº 12, 1ª planta, oficina 8, 35500 Arrecife de Lanzarote (Las Palmas, Spain). ebooking.com maintains that it has adopted the appropriate security measures in its facilities, systems and files and it guarantees the confidentiality of personal data obtained. Nevertheless, this might be disclosed to the competent public authorities along with any other information that the company has in its possession or has access to via its systems, if so required in accordance with the applicable laws and regulations in force.
+## 7.7. Who are the recipients of your personal data? Who are the recipients of your personal data?
 
-## Contact
+As we have already explained in section 3 of this Policy, through our Platform you can directly contract with third-party partners and, in this case, you provide your information and personal data directly to them, therefore we inform you that in general your personal data collected through the Platform will not be transmitted to third parties without previously informing you of which is the exact data that will be transmitted, the type of the transferors or the recipients of your data, of its activity and of the specific processing purposes for which that the above-mentioned transferors can use your data. For these purposes, we inform you that Domibay can communicate your personal information to reliable advertising companies for them to provide you offers, advantages or promotions which may be of interest to you based on you background of navigation and/or of purchases operated through our Platform. You can withdraw your consent to this processing at any time, and you can also oppose the processing at any time.
 
-ebooking.com is owned by Domibay, S.L., with business address in Calle Fajardo nº 12, 1ª planta, oficina 8, 35500 Arrecife de Lanzarote (Las Palmas, Spain), and Fiscal ID Code Nº. B-35971498. As owner of the website ebooking.com, it is therefore responsible for personal data files that have been duly registered at the General Registry of Data Protection of the Spanish Agency for Data Protection, to guarantee the integrity and full compliance of the obligations established in the Organic Law 15/1999 of the 13th of December on Personal Data Protection, those established in the corresponding regulations and in particular those of the Royal Decree 1720/2007 of the 21st of December (hereinafter LOPD and RLOPD). Please send any suggestions or comments that you might have about this privacy policy via email to: info@ebooking.com, or write to us at the following postal address: Calle Fajardo nº 12, 1ª planta, oficina 8, 35500 Arrecife de Lanzarote (Las Palmas, Spain).
+This is irrespective of the possibility of such partners of communicating us certain personal data that concerns you for the purposes described in section 3 of this Policy, and of the existence of other recipients of personal data that operate vis-à-vis Domibay as data processors (services of data hosting, sub-contracted advertising companies, sub-processors, etc.).
 
-## Modifications
+Additionally, we inform you that in general the international transfer of your personal data is not envisaged, and if that is the case, the necessary measures shall be adopted in accordance with the GDPR.
 
-ebooking.com is entitled to change the way cookies are used and the way that personal data or any other information it has in its possession is obtained, processed and passed on at any given time. The content of this document may therefore be amended from time to time in line with the latest modifications.
+## 8.8. Your personal rights
+
+You can exercise your rights of access, rectification, suspension, limitation of the processing, portability of data, opposition and the right not to be subject to a decision based solely on the automated processing, by sending a written communication using the e-mail address [legal.dp@domibay.com](mailto:legal.dp@domibay.com) with Ref. "Exercise of Rights" together with, if necessary, a copy of your national identity document or equivalent identifying document (passport, Identification Number of Foreigner….). In case you consider that your personal rights are not duly protected, you can submit a complaint to the competent supervisory authority, in this case, the Spanish Data Protection Agency (Agencia Española de Protección de Datos).
+
+If needed, we inform you that we have standard forms for the exercise of such rights, therefore all you need to do is to write us also using the email address [legal.dp@domibay.com](mailto:legal.dp@domibay.com) with Ref. "Exercise of Rights" and request them.
+
+## 9\. Security of the personal data
+
+Domibay has adopted and applies the security levels required by the applicable legislation in relation with the personal data of which it is the controller, according to the corresponding level of risk, and seeks to implement and/or apply additional technical and organisational means and measures of protection, in order to reinforce the general security of the processing with personal data, systems, communications environment and corporate organisation, as well as to guarantee the due protection against non-authorised or unlawful processing and against accidental loss, destruction or damage (principle of integrity and confidentiality). Nevertheless, the user should be aware of the fact that the security measures on the Internet are not at all inexpungable and correspond to the state of technology at each moment and to its cost of application.
+
+For these purposes, criteria of application and security measures shall be considered, as well as the remaining obligations of security associated with the GDPR, in particular the provisions of article 32 of the GDPR.
+
+## 10\. Duty of secrecy and confidentiality
+
+Domibay undertakes to comply with the duty of secrecy and confidentiality in relation to the information and personal data provided by the users of the Platform, and of which it is the controller, in accordance with the applicable legislation and the level of risk at each moment.
+
+## 11\. Cookies Policy
+
+As established by Recital 30 of the GDPR, natural persons may be associated with online identifiers provided by their devices, applications, tools and protocols, such as internet protocol addresses, cookie identifiers or other identifiers such as radio frequency identification tags. This may leave traces which, in particular when combined with unique identifiers and other information received by the servers, may be used to create profiles of the natural persons and identify them. For this reason, Domibay has a cookies policy in line with the applicable legislation.
+
+## 11.1. Applicable legislation
+
+Article 22 of Law 34/2002, of 11 July, on services of the information society and e-commerce (LSSICE), concerning the rights of the recipients in electronic commercial communications, the suppliers of services can only use devices for the storage and recovery of data in terminal equipment of the recipients, when they have given their prior informed consent.
+
+For this purpose, such recipients and the final users must be provided with a clear and complete information about their use, in particular, about the data processing purposes, in accordance with the provisions of personal data protection legislation. Thus, whenever it is technically possible, and it is considered to be an effective measure, the consent of the recipient for the acceptance of the data processing may be given using the adequate parameters of the browser or of other applications.
+
+The above shall not prevent the possible storage or access of a technical nature with the sole purpose of making a transmission or communication through a network of electronic communications or, to the extent strictly necessary, for the provision of a service of the information society expressly requested by the recipient.
+
+## 11.2. Consent of the user and cookies: general rule and exception
+
+In general, when the installation and/or use of cookies involves the processing of personal data, either if they are own cookies or cookies of third parties, session ID cookies or persistent cookies, Domibay, as controller, shall provide the necessary information in this connection and shall collect the prior informed consent of the user to install and/or use them.
+
+The only cookies that are excluded from such consent are those which exclusively allow the communication between the equipment of the user and the network and, strictly, those used to supply a service requested by the user. For example, the following cookies would be excluded: the so-called "technical cookies" (e.g., those necessary for the navigation through the platform or application); "cookies of customisation or configuration" (e.g., those which allow the webpage to recognise the language of the user, etc.); and "security cookies" (e.g. those which allow to detect failed and repeated attempts to connect to a website).
+
+## 11.3. Are Cookies used on the Platform? Which ones?
+
+Cookies are used on the Platform, in particular, files or devices which are downloaded in the user’s terminal equipment (personal computer, smartphone, tablet, mobile terminals and devices, etc.), irrespective of its character, and with the main purpose of guaranteeing the proper functioning of the Platform (remind the selected language, and similar functions). Thus, in general, and subject to provisions set out below, the cookies shall allow the navigation through the Platform, as well as certain utilities and services provided therein, and therefore attention is drawn to the fact that their deactivation or blocking may affect the navigation or their correct or full use by the user.
+
+## 11.4. Which Cookies do we use on the Platform?
+
+The cookies can be own cookies and cookies of third parties. The own cookies are those that are sent or used in the user’s terminal equipment from the Platform (editor) being managed by it, while the cookies of third parties are those sent or used in the user’s terminal equipment form other domains or equipment not managed by the Platform (editor), but by other entity which processes the data obtained through the cookies.
+
+Additionally, those cookies can be cookies of ID session or persistent cookies. The former are a type of cookies designed to collect and store data as the user accesses the Platform with the main purpose of storing information which is stored only for the provision of the service requested by the user only once. Nevertheless, with the latter the data are stored in the user’s terminal and can be accessed and processed for period which is defined by the responsible for the cookie.
+
+There also technical cookies which allow the user to navigate through the Platform and use the various options or services offered thereon, for example, to control the traffic and the communication of data, to identify the session, to access to restricted-access areas, to remind the elements contained in a contractual request, to use security elements during the navigation, to store contents for the dissemination of videos or sound or to share contents through social media.
+
+There are also cookies of customisation, which are those that allow the user to access the service with some pre-defined characteristics according to certain criteria associated with its own terminal, for example, the type of browser through which the user accesses the service, the regional configuration from which he/she accesses the service, etc.
+
+Similarly, cookies can have a statistical or information purpose for the editor in connection with the specific use that the users make of the Platform and of the contents or services provided therein.
+
+Below there is a summary information of the specific cookies currently used by Domibay on the platform:
+
+ **Own cookies:**
+
+Company| Information| Purpose  
+---|---|---  
+Domibay| Session and preferences of the user|  As on many websites, we use 'session ID cookies', which are generated when you access ebooking.com only exist for the period during which you are connected, being eliminated when you close the browser. 'Permanent cookies' are also created to store information for the next time you visit us:| Name| Description  
+---|---  
+cookie_notice| It is generated when the user accepts our Terms and Conditions and our Privacy and Cookies Policy.  
+  
+**Cookies of third parties:**
+
+Company| Information| Purpose| Further information  
+---|---|---|---  
+Google Analytics| Visited webpages, time of navigation, origin of the visitor, location...| Statistics reports on how the users find the webpage, how they use it and if it functions properly| [Consult](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)  
+DoubleClick (Google, Inc.)| Information on ads that have been shown to a user, on what interests him/her and if he/she visits the webpage of the advertiser| To improve and manage the exhibition of ads to the user avoiding that ads already watched appear again| [Consult](https://support.google.com/richmedia/answer/2839090)  
+Facebook| Data of the user on Facebook and his/her navigation on the current webpage| Allow to share the content of a webpage and to know if your friends like it too, and also to customise the ads inside the Facebook| [Consult](https://www.facebook.com/help/cookies/)  
+  
+## 11.5. Who uses Cookies?
+
+The information collected through the cookies which are used on the Platform can be used, both by the data subject, and by a third party that provides a service to such data subject.
+
+## 11.6. Management and configuration of the Cookies
+
+Based on the information provided in this policy, we offer information on how to carry out the management of the cookies used on the Platform through the various options that the most common browsers offer.
+
+You can manage the use of cookies, including their blocking, which will depend on the browser installed on your computer. You can obtain further information on how to manage them by clicking on the following links:
+
+## 12\. Term and amendment of the Privacy and Cookies Policy
+
+This policy is in force since 25 of april of 2018. Domibay reserves the right to amend this policy, to adapt it to future legislative, doctrine or case law developments which may be applicable, or for technical, operating, commercial, corporate and business reasons, previously and reasonably informing the users of the changes introduced whenever possible. In any case, we recommend you to, every time you access this Platform, carefully read this policy, given that any amendment will be published therein. Additionally, Domibay can inform the users personally and previously of the changes introduced into this policy, before their entrance in force, whenever technically and reasonably possible, in particular, when they are regarded as registered users or customers of Domibay.
+
+## 13\. Legal contact
+
+The protection of your rights is very important for Domibay, therefore, in case you have any question or suggestion that you wish to communicate us in connection with this policy, please do not hesitate to contact us using the e-mail address: [legal.dp@domibay.com](mailto:legal.dp@domibay.com).
+
+## 14\. Competence and jurisdiction
+
+In general, any controversy or conflict shall be submitted by one of the parties to the other party in order to reach an amicable solution by mutual agreement, for this purpose, as far as Domibay is concerned, the legal contact referred to in section 13 of this policy should be used. In case it is not possible to reach an amicable solution, taking into consideration criteria contained in the GDPR for the determination of the competence of the competent authority to decide on any conflict, controversy or complaint in connection with this Privacy and Cookies Policy, at least, in an administrative procedure, we inform that the such authority shall be Spanish Data Protection Agency (Agencia Española de Protección de Datos, AEPD), and, in any case, the provisions of article 56 of the GDPR shall apply. As regards the right to effective judicial review against Domibay in these cases, article 79.2 of the GDPR shall apply, and the relevant proceedings should be instituted before the Judges and the Courts of Arrecife-Lanzarote, given that Domibay, S.L. is a company based in Spain. In any case, the applicable legislation shall be the Spanish legislation.
