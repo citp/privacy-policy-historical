@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the tmp.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914181610id_/https%3A//www.tmp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmp.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905004715id_/https%3A//www.tmp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - TMP Worldwide
 
-Effective Date: July 10, 2017
+Effective Date: October 3, 2017
 
-TMP Worldwide Advertising & Communications, LLC (“ **TMP Worldwide** ”) is committed to respecting the privacy of those who visit this site. Any online data collection from emails and forms submitted by you will only be used in the normal course of business to help us contact you and provide solutions to your challenges. This privacy policy describes how TMP Worldwide collects and uses any personal information you may provide on our web site, [www.tmp.com](https://www.tmp.com/), and via TMP Worldwide's TalentBrew Platform. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. The use of information collected through our service shall be limited to the purpose of providing the service for which the client has engaged TMP Worldwide. Information being gathered via the TalentBrew Platform may also be subject to the privacy policy of the individual client, which may be accessed directly from the site maintained on such client’s behalf.
+TMP Worldwide Advertising & Communications, LLC (“TMP Worldwide”) is committed to respecting the privacy of those who visit this site. Any online data collection from emails and forms submitted by you will only be used in the normal course of business to help us contact you and provide solutions to your challenges. This privacy policy describes how TMP Worldwide collects and uses any personal information you may provide on our web site, [www.tmp.com](https://www.tmp.com/),and via TMP Worldwide's TalentBrew Platform. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. The use of information collected through our service shall be limited to the purpose of providing the service for which the client has engaged TMP Worldwide. Information being gathered via the TalentBrew Platform may also be subject to the privacy policy of the individual client, which may be accessed directly from the site maintained on such client’s behalf.
 
 ## Privacy Shield Certification
 
-TMP Worldwide and its affiliates adhere to the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework TMP Worldwide has certified its compliance therewith. TMP Worldwide is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>.
+TMP Worldwide and its affiliates adhere to the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework TMP Worldwide has certified its compliance therewith. TMP Worldwide is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>.
 
-TMP Worldwide is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. TMP Worldwide complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+TMP Worldwide is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. TMP Worldwide complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
-With respect to personal data received or transferred pursuant to the Privacy Shield Framework, TMP Worldwide is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, TMP Worldwide may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, TMP Worldwide is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, TMP Worldwide may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-Under certain conditions, more fully described on the Privacy Shield website <https://www.privacyshield.gov/welcome>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+Under certain conditions, more fully described on the Privacy Shield website <https://www.privacyshield.gov/welcome>,you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=0e5a455c-0638-4e46-91ac-125048e416f7)
+[](https://privacy.truste.com/privacy-seal/validation?rid=cdf01cdd-cbe3-4e25-8b01-1b0352668231)
 
 ## Information Collection and Use
 
@@ -86,7 +86,7 @@ Opt-out Preferences - If you wish to subscribe to our newsletter(s), we will use
 
 ## Tracking Technologies / Cookies
 
-Technologies such as: cookies, beacons, tags and scripts are used by TMP Worldwide and our marketing partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+Technologies such as: cookies, beacons, tags, scripts or similar technologies are used by TMP Worldwide and our marketing partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
 We use cookies for site tracking, remembering feature preferences and related purposes. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
@@ -96,11 +96,9 @@ We use this information, which does not identify individual users, to analyze tr
 
 We do not link this automatically-collected data to personal information.
 
-We use Local Storage Objects (LSOs) such as HTML5 or Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash LSOs please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
-
 ## Behavioral Targeting / Re-Targeting
 
-We partner with one or more third parties either to display advertising on our Web site or to manage our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish not to have this information used for the purpose of serving you interest-based ads, you may opt-out by [clicking here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+We partner with one or more third parties either to display advertising on our Web site or to manage our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish not to have this information used for the purpose of serving you interest-based ads, you may opt-out by [clicking here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/).) Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 ## Security
 
