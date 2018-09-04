@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beyondwonderland.com privacy policy that was archived on 2018-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180301005303id_/https%3A//www.insomniac.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondwonderland.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904074144id_/https%3A//www.insomniac.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Insomniac
 
@@ -36,13 +36,13 @@ For example, if you register for a promotion or buy tickets. We also collect inf
 
 ##### We collect information from you passively.
 
-We use tracking tools like browser cookies and web beacons. To learn more about these tools and to control them, please click here. We also collect information from our mobile apps.
+We use tracking tools like browser cookies and web beacons. To learn more about these tools and to control them, please [click here](http://concerts.livenation.com/h/ad-choices.html). We also collect information from our mobile apps.
 
 ##### We get information about you from third parties.
 
 For example, if you use an integrated social media feature on our websites or mobile applications. The third-party social media site will give us certain information about you. This could include your name and email address. Your activities on our sites and apps may be posted to the social media platforms.
 
-##### We use information as disclosed and described here.
+### We use information as disclosed and described here.
 
 ##### We use information to respond to your requests or questions.
 
@@ -112,7 +112,7 @@ To correct or delete information or update account settings, log into your accou
 
 ##### You can control cookies and tracking tools.
 
-To learn how to manage how we – and our vendors – use cookies and other tracking tools, please click here.
+To learn how to manage how we—and our vendors—use cookies and other tracking tools, please [click here](http://concerts.livenation.com/h/ad-choices.html).
 
 ##### You can control tools on your mobile devices.
 
@@ -125,8 +125,9 @@ To exercise your rights, you can email us or write to us at the address below. M
 
 ### These sites and apps are not intended for children.
 
-Our sites and apps are meant for adults. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us here. You can also write to us at the address listed at the end of this policy. Please mark your inquiries “COPPA Information Request.”  
-Parents, you can also learn more about how to protect children’s privacy online here.
+Our sites and apps are meant for adults. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or legal guardian and think your child under 13 has given us information, you can [contact us here](https://web.archive.org/contact-us/). You can also write to us at the address listed at the end of this policy. Please mark your inquiries “COPPA Information Request.”
+
+Parents, you can also learn more about how to protect children’s privacy online [here](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy).
 
 ### We use standard security measures.
 
@@ -140,9 +141,9 @@ Click on the Truste seal to view our current certification status.
 
 If you live outside of the United States, you understand and agree that we may transfer your information to the United States. This site is subject to U.S. laws, which may not afford the same level of protection of those in your country.
 
-### We may link to third party sites or services we don’t control.
+### We may link to third-party sites or services we don’t control.
 
-If you click on one of those links, you will be taken to websites we do not control. This policy does not apply to the privacy practices of those websites. Read the privacy policy of other websites carefully. We are not responsible for these third party sites. Our site may also serve third-party content that contains their own cookies or tracking technologies. To learn more, click here. We do not control the use of those technologies.
+If you click on one of those links, you will be taken to websites we do not control. This policy does not apply to the privacy practices of those websites. Read the privacy policy of other websites carefully. We are not responsible for these third-party sites. Our site may also serve third-party content that contains their own cookies or tracking technologies. To learn more, [click here](http://concerts.livenation.com/h/ad-choices.html). We do not control the use of those technologies.
 
 ### Feel free to contact us if you have more questions.
 
@@ -151,7 +152,7 @@ Insomniac Holdings, LLC
 9441 W Olympic Blvd  
 Beverly Hills, CA 90212  
 Attention: Legal  
-If you are not satisfied with our response, you can contact our third party dispute resolution provider here.
+If you are not satisfied with our response, you can contact our third party dispute resolution provider [here](https://feedback-form.truste.com/watchdog/request).
 
 ### What we will do if there is an update to this policy.
 
