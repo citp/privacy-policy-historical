@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the modernghana.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906125054id_/http%3A//www.modernghana.com/GhanaHome/mg_services/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernghana.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904145218id_/https%3A//www.modernghana.com/privacy) for the most accurate reproduction.*
 
 # Modern Ghana Privacy
+
+### Modern Ghana Privacy
 
 Modern Ghana takes your privacy seriously. Please read the following to learn more about our privacy policy. 
 
@@ -51,7 +53,7 @@ Modern Ghana takes your privacy seriously. Please read the following to learn mo
   * Modern Ghana may set and access Modern Ghana cookies on your computer. 
   * Modern Ghana lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Modern Ghana's cookies. 
   * Modern Ghana uses web beacons to access Modern Ghana cookies inside and outside our network of web sites and in connection with Modern Ghana products and services. 
-  * Users may opt out of the use of cookies by visiting [www.networkadvertising.org](http://www.networkadvertising.org/managing/opt_out.asp). 
+  * Users may opt out of the use of cookies by visiting [www.networkadvertising.org](https://www.networkadvertising.org/managing/opt_out.asp). 
 
 
 
@@ -89,6 +91,9 @@ Modern Ghana takes your privacy seriously. Please read the following to learn mo
 
 **Questions and Suggestions**
 
-  * If you have questions or suggestions, please complete a [feedback form.](https://web.archive.org/GhanaHome/mg_services/contactus.asp?menu_id=11&sub_menu_id=269)
+  * If you have questions or suggestions, please complete a [feedback form.](https://web.archive.org/ghanahome/mg_services/contactus.asp?menu_id=11&sub_menu_id=269)
 
+
+
+  
 
