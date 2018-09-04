@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sportinglife.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606084514id_/http%3A//www.sportinglife.ca/policies/100003/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportinglife.ca privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904070733id_/https%3A//www.sportinglife.ca/policies/100003/PrivacyPolicy%3Bjsessionid%3DYkD9sjqZb6XlzrNl21o7hQ__.com2) for the most accurate reproduction.*
 
-# Sporting Life Online Store - Canada Goose, The North Face, Arcteryx, Nike, Lacoste
+# PrivacyPolicy
 
 ###  Privacy Policy
 
@@ -11,7 +11,7 @@ This Privacy Policy sets out the manner in which Sporting Life collects, uses, d
   We may collect personal information when you:
 
   * Purchase or return merchandise on our Website or in one of our Stores;
-  * Join our Life Line program;
+  * Join our Rewards program;
   * Create an account on our Website;
   * Request services on our Website, such as our Wish List and Gift Lists;
   * Sign-up to receive promotional e-mail or other communications from us;
@@ -24,7 +24,7 @@ This Privacy Policy sets out the manner in which Sporting Life collects, uses, d
 
 _Product Purchases & Returns:_  When you make a purchase on the Website, we collect personal information such as your name, e-mail address, shipping and billing address as well as your payment information.  We use this information to process and fulfil you order.  When you purchase one of our gift cards, we collect the recipient’s name and email or mailing address so that we can send the gift card to the recipient directly on your behalf.
 
-  _Life Line:_   When you join our Life Line program, we collect personal information such as your name, phone number, e-mail address and information about your transactions.  We use this information to administer your participation in the program and to send you coupons, special discounts and other communications based on your specific purchases, transactions, tastes and preferences.
+  _Rewards:_   When you join our Rewards program, we collect personal information such as your name, phone number, e-mail address and information about your transactions.  We use this information to administer your participation in the program and to send you coupons, special discounts and other communications based on your specific purchases, transactions, tastes and preferences.
 
   _Online Registration:_ In general, you do not have to register to visit our Website. Some of the features offered through our Website may require you to register and provide personal information such as your name, e-mail address, mailing address information and a password that you create. Your registration information is used to provide and otherwise administer the service you requested. We may also request certain optional demographic information from you when you register. We use this optional information to help us understand our customers and to tailor and enhance our product and service offerings, promotions and events.
 
