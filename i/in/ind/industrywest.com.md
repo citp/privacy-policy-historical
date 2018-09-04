@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the industrywest.com privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325192933id_/http%3A//www.industrywest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the industrywest.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904205836id_/https%3A//www.industrywest.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-Industry West's Privacy Policy ("Policy") sets out what information we collect, how we collect it, and what we do with it. Please contact us at 
+Industry West's Privacy Policy ("Policy") sets out what information we collect, how we collect it, and what we do with it. Please contact us at
 
-1538-2 Hendricks Ave  
-Jacksonville, FL 32207
+1407 Atlantic Boulevard  
+Jacksonville, FL, 32207
 
-or by phone at 800.382.9303 or via email at [info@industrywest.com](mailto:info@industrywest.com) if you have any questions or would like additional information regarding this Policy. We may update this Policy from time to time, so please check this Policy periodically for changes.
+or by phone at 800.382.9303 or via email at if you have any questions or would like additional information regarding this Policy. We may update this Policy from time to time, so please check this Policy periodically for changes.
 
 #### YOUR INFORMATION
 
@@ -33,11 +33,11 @@ Subject to applicable contractual or legal restrictions, we may from time to tim
 
 #### EMAIL
 
-We appreciate your questions and comments about Industry West and its products and services and welcome your email messages to [info@industrywest.com](mailto:info@industrywest.com). We will share your messages with those within our organization who are most capable of addressing the issues contained in your message. We will keep a copy of your message until we have had an opportunity to address your concerns. We may archive your message for a certain period of time or discard it once it is no longer needed.
+We appreciate your questions and comments about Industry West and its products and services and welcome your email messages to . We will share your messages with those within our organization who are most capable of addressing the issues contained in your message. We will keep a copy of your message until we have had an opportunity to address your concerns. We may archive your message for a certain period of time or discard it once it is no longer needed.
 
 #### YOUR RIGHTS
 
-You have the right to ask in writing not to receive direct marketing material from us. If available, you can amend your previous preference by emailing **"unsubscribe email"** to [info@industrywest.com](mailto:info@industrywest.com) or refer to our literature containing instructions. Once properly notified by you, we will take steps to stop using your information in this way. Please allow us a reasonable period of time in order to satisfy your request.
+You have the right to ask in writing not to receive direct marketing material from us. If available, you can amend your previous preference by emailing **"unsubscribe email"** to or refer to our literature containing instructions. Once properly notified by you, we will take steps to stop using your information in this way. Please allow us a reasonable period of time in order to satisfy your request.
 
 #### USE OF TOOLS, "COOKIES" AND LINKS TO OTHER WEB SITES
 
@@ -79,6 +79,6 @@ For your convenience, we may provide links to other web sites and web pages that
 
 #### HOW TO CONTACT US
 
-If you have any questions about this Policy or would like to learn more about how we protect privacy, please write to us at Industry West, 4011 Morton Street, Jacksonville, FL, 32217 or call us at 800.382.9303, or email us at [info@industrywest.com](mailto:info@industrywest.com)
+If you have any questions about this Policy or would like to learn more about how we protect privacy, please write to us at Industry West, 4011 Morton Street, Jacksonville, FL, 32217 or call us at 800.382.9303, or email us at 
 
 Privacy Policy: last updated June 4, 2012.
