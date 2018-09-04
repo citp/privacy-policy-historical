@@ -1,150 +1,76 @@
-> *The following text is extracted and transformed from the jefferspet.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110205440id_/https%3A//www.jefferspet.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jefferspet.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904021209id_/https%3A//www.jefferspet.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jeffers Pet
 
-Jeffers respects the privacy of every person who visits the website. **_Jeffers has never traded, sold, or shared any customer personal information_**. This Privacy Statement outlines the information Jeffers will collect and how we will use that information. This Statement will also tell you how you can verify the accuracy of your personal information submitted to Jeffers through the website and how you can request that we delete or update personal information.
+Your trust is important to us. Jeffers strives to make your shopping experience as easy and secure as possible. This privacy policy is designed to review how we collect and use information you provide. Any questions or feedback are welcome.
 
-We've developed our privacy policy from industry guidelines and standards, while using local, national, and international laws and requirements. All privacy practices and methods described herein only apply insofar as permitted by the applicable standards, laws and requirements and as limited by the website or interactive banner you are visiting.
+## Information we collect and how we use it:
 
-## **INFORMATION COLLECTED AND HOW WE USE IT**
+We collect information about your visit to our site. If you enter your email address, opt in to emails, or make a purchase we may collect personal and technical information about you, your visit and your recent purchases. This may include email address, name, address, phone numbers, gender, order information, product interests, content topic, interests, loyalty information, customer number, etc. in addition to information about your visit such as IP Address, operating system, location information and other device information. We may record additional information about your visit including the pages you viewed on the site/s, products you browsed or placed in an online shopping cart as well as any content pages you have viewed. We collect this information about you and your preferences to create a profile of your interests and to serve you personalized content on websites and/or via personalized marketing promotions that we believe may be of interest to you. In some cases, we may automatically enroll you in marketing campaigns based on your product interests or past purchases.
 
- **What We Collect**
+You may voluntarily disclose additional personal information about yourself inside of a preference center or as part of a contest or sweepstakes, at a trade show, by taking a survey, contacting us by phone, or entering information into our website forms. By providing this additional personal information you authorize us to use this information in connection with personalized marketing promotions and interest-based advertising.
 
-Jeffers' primary goal in collecting personal information from you is to give you a meaningful, enjoyable and customized experience while using the website, and to develop new products and services which are relevant to consumers like you. Personal information also allows us to provide services and features that most likely meet your needs, and to customize service to make your online experience smooth and efficient.
+You may optionally rate or review a product by entering your email, a star rating, and short text. By providing your review you authorize us to disclose your endorsement to other shoppers interested in that product.
 
-Personal information received from you online will only be used for the internal technical, administrative, or marketing purposes of Jeffers, except as otherwise required by law or as Jeffers discloses to you when the information is collected.
+In order to measure the performance of marketing campaigns we monitor actions you take in connection with our marketing campaigns including links clicked, order total, pages visited, and other relevant data. We use cookies to recognize you when you use or return to a site to provide a continuous, personalized shopping experience.
 
-a. Personal Information
+We use retargeting cookies and allow carefully screened 3rd party service providers to provide interest-based advertisements to you on this or other websites, or by direct mailing. We may also send direct mail if you have provided a mailing address. Some 3rd party companies have their own tracking technologies that we do not control.
 
-    When you visit the Jeffers website, we will not collect any personal information about you (including but not limited to your name, address, telephone number, email address, and credit card number if you place an order with us) unless you provide it to us voluntarily.
+If you use our "tell a friend" option on a product page or email, we will use their name and email address to deliver a one-time email message to them.
 
-    If you choose not to provide your personal information you can still access the website; however you may be unable to participate in certain activities or place orders for products. 
+We may combine information we collect with other information you have disclosed or by using 3rd party services. This is used to better serve you with relevant products, services, content, or to improve our company.
 
-b. Aggregate and Statistical Data 
+We may disclose information as required by law, court orders, subpoenas, to 3rd parties in the course of an investigation, or to protect Jeffers or its customers from harm, fraud, or security threats. In addition, we may share information to investigate technical problems or threats, violations of terms and conditions, or to protect the integrity of the website.
 
-    Jeffers may collect certain aggregate data called web log information (such as your web browser, operating system, pages visited, etc.) and use cookies when you visit some of our web pages. For instance, when you visit our website, our web server will automatically recognize some non-personal information, including but not limited to the date and time you visited our site, the pages you visited, the referrer (the website you came from), the type of browser you are using (e.g., Firefox, Chrome, Internet Explorer), the type of operating system you are using (e.g., WinXP, Win7, or Mac OS), and the domain name and address of your Internet service provider (e.g., America Online, Earthlink). 
-    
+## Tracking Technology:
 
-In some cases we may also collect information about you that you voluntarily submit but which is not personal, such as general statistical information like age, gender, zip/postal code, preferences and interests.
+Jeffers uses standard tracking technology. Some of the technology we use to collect information include cookies, tags, pixels, and web beacons. Some of our 3rd party services use these technologies to collect information on our behalf. For example, we use Google Analytics to learn about our customer's interaction with the website.
 
-### **Information We Collect**
+## Your Options:
 
-Jeffers does not require visitors to our website to provide personal information in order to obtain access. Jeffers collects personal information (including but not limited to your name, address, telephone number, and email address) from our visitors only on a voluntary basis. 
+You have the right to be removed from emails or direct mailings. You may unsubscribe directly from the email, or by contacting us. To opt out of direct mail, please contact us at 1-800-533-3377 or use the address at the end of this policy.
 
-You are in control of the personal information you provide to Jeffers online. You can: 
+In addition, you may use your browser's tools to block storage of information. This may make many features unavailable, including cart and checkout. This is browser and device specific.
 
-  * Ask for a copy of your personal information 
-  * Ask for your personal information to be corrected or updated 
-  * Ask us to remove your personal information from our records 
+Jeffers does not have a "do not track" feature. By using this website, you are consenting to our practices and policies. You may be removed from internet-based advertising at [http://optout.aboutads.info](http://optout.aboutads.info/). This only impacts advertising networks that participate, such as Google, AOL and Yahoo. This is also browser and device specific. This service is operated independently and is beyond the control of Jeffers.
 
+Additionally, we have links to outside websites that we deem helpful to you, the customer. We do not control any tracking or content of those websites.
 
+## Security Measures:
 
-To do this, please contact us at [**customerservice@jefferspet.com**](mailto:customerservice@jefferspet.com). Jeffers will use reasonable efforts to provide that information to you.
+Jeffers uses reasonable and appropriate physical, administrative, and technical controls to protect your personal information. Our website uses Secure Sockets Layer (SSL) technology, the industry standard in transferring information when handling personal information. We do not store credit cards on our site, but we do pass it to our credit card processing company, which assigns it a token that we can use for payment settlements. Agents, contractors, and partners of Jeffers who have access to your personal information in connection with providing services for Jeffers are required to keep the information confidential and are not permitted to use this information for any purpose other than to carry out the services they are rendering for Jeffers.
 
-At the Jeffers website, you can sometimes enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as newsletters, or participate in one of our online forums or communities. These programs require you to submit some information in order to participate. These programs and the types of information required are described in more detail below.
+Jeffers keeps personal information as long as it is necessary or relevant for the practices described in this policy. We also keep information as otherwise required by law.
 
-_Registration:_
+Although Jeffers makes every effort to keep your data safe, data transmissions through the internet are not without risks. We take many precautions, but we cannot guarantee complete safety for this, or any other website. Please be advised, Jeffers will never request sensitive information through email.
 
-To fully use our website, visitors may need to register using our online registration forms, where visitors will be required to provide us with their personal information. Visitors may also be asked to provide an email address and password. Further, to register for certain services or become a member of certain communities, we may ask visitors to submit their name, email address, home address, and zip/postal code. You can further make choices about receiving email newsletters and alerts from Jeffers. You can always decide not to receive or stop receiving any email from Jeffers that you do not want. 
+## Updating Your Information:
 
-_Contests:_
+You may correct or update your information by visiting your account page. You may also request updates by contacting us using the contact section below. Yoy will be required to verify your identity to make such requests for information.  
 
-Jeffers may run contests and other promotions on our website or through interactive banner ads. These events may ask you to provide personal information which is needed in order to administer the contest or promotion and to notify winners. 
+## California Residents:
 
-_Referrals:_
+Residents of California who have an established relationship with Jeffers may request certain types of information about the personal information Jeffers has shared with its partners and 3rd parties. Additionally, Californians may request addresses of 3rd party companies we have shared information with during the last year. This is limited to one request each year. Please contact us in writing with the subject line or attention: "California Privacy Rights".
 
-Occasionally, visitors will have the opportunity to forward information on the website to friends/relatives or to send messages from our website to friends/relatives. This personal referral information you provide to facilitate this communication is used on a one-time basis and is not further retained by Jeffers, except in circumstances where we obtain consent from the people you have referred to receive communications from us. 
+## Governing Law:
 
-_Questionnaires, Surveys and Profile Data:_
+Jeffers is based in the state of Alabama in the United States. Any dispute that arises will be governed by and construed under the statutes and laws of Alabama. This includes, but is not limited to, disputes about your personal information, privacy, contractual disputes, interaction, communications, or disputes resulting from the use of this website.
 
-Jeffers may occasionally ask visitors to complete surveys and opinion polls about their interests, needs, and attitudes. Surveys help us provide better services and products that meet customer needs. Participation is completely voluntary and these surveys are optional. 
+## Children under 13:
 
-_Consumer Services and Contact Information:_
+Our site where this policy is found is intended for adults. We do not knowingly collect personally identifiable information from children under 13 without permission from a parent or guardian. If you are a parent or legal guardian and think your child has given us information, you can email us at customerservice@jefferspet.com, or use the contact information below. Please use the subject line “Privacy Information Request" in written requests.
 
-If you provide our customer service representatives with feedback on your experiences with our products/services or otherwise submit questions to our customer service representatives or webmasters, you will be asked to supply personal information for our record keeping and follow-up. 
+## Privacy Policy Changes:
 
-### **How We Use Your Information**
+Please check this Privacy Policy periodically, as changes may occur at any time. 
 
-a. Personal Information 
+## Contact Us:
 
-    We may use your personal information to contact you. For example, we may send you marketing or promotional materials including emails or other information; we may respond to your comments or requests for information; or we may contact you if needed in the course of processing or shipping your order for products or services offered through our website.
+If you have questions or comments about this policy, please contact us using the information below. If you need to correct, delete, or request copies of your information, please contact us using the subject line explained above.
 
-    We also use personal information about you to improve our marketing and promotional efforts; to statistically analyze site usage; to improve our content and product offerings; and to customize our sites' content, layout and services. We may also use your information to deliver information to you that, in some cases, is targeted to your interests, such as targeted banners, new services and promotions. We believe these uses allow us to improve our site and better tailor it to meet our visitors' needs. Jeffers does not collect personal information automatically, but we may combine non-personal information collected automatically with your previously submitted personal information.
+**Email:** customerservice@jefferspet.com
 
-    Jeffers occasionally sends visitors who have opted-in emails describing new products, promotions or events. These services are optional and you may opt-out of these services completely, at any time. We will only store your personal information for a reasonable period of time. 
+**Phone:** 1-800-533-3377
 
-b. Aggregate and Statistical Data 
-
-    Jeffers uses web log information (such as your web browser, operating system, pages visited, etc.) to help us design our website, to identify popular features, and for other managerial purposes. However, web logs may be used if necessary to help identify any person attempting to break into or damage our website. We may share web log information with law enforcement agencies if we believe that we have evidence of a violation of computer security or related laws. 
-
-## **DATA SHARING AND TRANSFER**
-
-### **How We May Share Information**
-
-Jeffers will not trade, sell, or share your personal information without your consent, unless required by law or as disclosed to you when the information is collected. To date, Jeffers has never traded, sold, or shared any customer personal information. However, aggregated and statistical data from our visitors may be shared with other companies. For example, we could tell one of our vendors that "20,000 people visited a web page showing your product." 
-
-Occasionally, we may share personal information from you (such as name, mailing addresses and email addresses) with agents, contractors or partners of Jeffers in connection with services that these individuals or entities perform for or with Jeffers. These agents, contractors or partners are restricted from using this data in any way other than to provide services for Jeffers, and they may NOT share or resell this data. We may, for example, provide your information to agents, contractors or partners for data processing services, for contacting winners of contests or so that they can mail you information that you requested. 
-
-Jeffers also reserves the right to share the information to respond to duly authorized information requests of governmental authorities or where required by law. 
-
-### **Data Transfers**
-
-Your personal information will generally be stored in our Jeffers' databases, which are located in Alabama and North Carolina, but may be stored in additional locations for the purpose of maintaining system backups or in disaster recovery situations. Jeffers data protection standards are the same, regardless of where your personal information is stored. 
-
-## **COOKIES AND WEB BEACONS**
-
-When you view our website, we may collect information about you. The collection of this information is done either through "cookie" technology or with "web beacons" (also called "single-pixel gif" or "web pings"). 
-
-a. Cookies 
-
-    When you view our website, we may store some information on your computer. This information will be in the form of a small text file, also called a "cookie." Cookies help us in many ways to make your visit to our website more enjoyable and meaningful to you. For example, we may use a cookie to remember temporarily what entries you made on a form so that if an error occurs you will not have to start all over again. They also allow us to tailor the website or advertisement to better match your interests and preferences. Most browsers can be configured not to accept cookies or to indicate when a cookie is being sent. 
-
-b. Web Beacons 
-
-    Web beacons are site instrumentation that help us to determine, for instance, whether a page has been viewed or not and, if so, how many times. When you ask us to send you information on a promotion or a newsletter, we may use web beacons to establish how many of the emails are actually opened. In general, any electronic image viewed as part of a web page, including an ad banner, can act as a web beacon. 
-
-    Third party organizations that serve ads or other images onto the Jeffers website may use cookies and/or web beacons. Jeffers retains no control over such third party cookies and/or web beacons and does not have access to the information related to third party cookies and/or web beacons.
-
-## **CHOICE**
-
-Our site allows you to choose to receive or stop receiving communications from us or not to provide certain personal information when registering for the site or contest. 
-
-## **DATA SECURITY AND RESPONSIBILITY**
-
-Jeffers is committed to keeping the data you provide us secure and will take reasonable precautions to protect your personal information from loss, misuse or alteration. Agents, contractors, or partners of Jeffers who have access to your personal information in connection with providing services for Jeffers are required to keep the information confidential and are NOT permitted to use this information for any other purpose than to carry out the services they are performing for Jeffers. 
-
-## **ACCESS TO YOUR INFORMATION AND COMPLAINTS**
-
-**Accessing, Correcting, Updating and Deleting Your Personal Information**
-
-If you have submitted personal information to Jeffers through the Jeffers website or interactive advertisement, or if someone else has submitted your personal information through the Jeffers website or interactive advertisement you can: 
-
-a. Access, correct, or update your personal information by contacting us via email at [customerservice@jefferspet.com](mailto:customerservice@jefferspet.com "Link: mailto:customerservice@jefferspet.com"), or sending a letter to: 
-
-Jeffers, Inc.   
-Attn: Privacy Compliance Coordinator   
-PO Box 100   
-Dothan, AL 36302-0100 
-
-Jeffers will use reasonable efforts to supply you with the information you requested to access and to correct any factual inaccuracies in this information. 
-
-b. Have your personal information deleted by sending us an email to [customerservice@jefferspet.com](mailto:customerservice@jefferspet.com "Link: mailto:customerservice@jefferspet.com"). We will then use reasonable efforts to remove your personal information from our files. 
-
-### **Complaints**
-
-Jeffers is committed to working with our customers to obtain a fair and rapid resolution of any complaints or disputes about privacy. Please send us your questions or comments regarding our privacy practices either via email at [customerservice@jefferspet.com](mailto:customerservice@jefferspet.com "Link: mailto:customerservice@jefferspet.com"), or send us a letter to: 
-
-Jeffers, Inc.   
-Attn: Privacy Compliance Coordinator   
-PO Box 100   
-Dothan, AL 36302-0100 
-
-Jeffers will be happy to respond to your questions and comments. 
-
-## **LINKS TO OTHER SITES**
-
-The Jeffers website may contain links to other websites. Jeffers is not responsible for the privacy practices or the content of such websites. We recommend you carefully read the privacy policies of each site you visit. 
-
-## **YOUR ACCEPTANCE OF OUR PRIVACY PRACTICES**
-
-By using this website or interactive banner ad, you signify your acceptance of this Privacy Statement, and you adhere to the terms and conditions posted on the website. If you do not agree with any of these terms, please do not use this site or submit any personal information. 
+**Mailing address:**   
+Jeffers Privacy Compliance PO Box 100 Dothan, AL 36302
