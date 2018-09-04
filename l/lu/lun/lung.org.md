@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lung.org privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613220617id_/http%3A//www.lung.org/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lung.org privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904050328id_/http%3A//www.lung.org/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | American Lung Association
 
@@ -17,7 +17,7 @@ In order to fully understand your rights we encourage you to read this Privacy P
 
 
 
-Questions regarding this statement should be directed to American Lung Association by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2e594b4c434f5d5a4b5c6e425b404900415c49117d5b4c444b4d5a137e5c47584f4d570b1c1e7e4142474d570b1c1e7f5b4b5d5a4741405d). Please reference this Privacy Policy in your subject line.
+Questions regarding this statement should be directed to American Lung Association by sending an email to [webmaster@lung.org](mailto:webmaster@lung.org?Subject=Privacy%20Policy%20Questions). Please reference this Privacy Policy in your subject line.
 
 ### **What Information We Collect and How We Use That Information:**
 
@@ -65,4 +65,4 @@ Our website does not respond to web browser "Do No Track" signals.
 
 ### **Contacting the Website:**
 
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you can send an email to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fa8d9f98979b898e9f88ba968f949dd495889dc5a98f98909f998ec7aa88938c9b9983dfc8caaa9596939983dfc8cadfc8caab8f9f898e93959489).
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you can send an email to: [webmaster@lung.org](mailto:webmaster@lung.org?Subject=Privacy%20Policy%20%20Questions).
