@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazyfree.com.au privacy policy that was archived on 2018-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180310112931id_/https%3A//crazyfree.com.au/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazyfree.com.au privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904165532id_/https%3A//crazyfree.com.au/Privacy-Policy) for the most accurate reproduction.*
 
 # CrazyFree - Privacy Policy
 
@@ -60,7 +60,7 @@ You may opt-out of receiving any Offers and information from Crazy Free at any t
 
 We disclose personal information to our clients and advertisers, third party agents, service providers and contractors only for purposes consistent with the reasons for collecting the information set out in this Privacy Policy.
 
-Some of the recipients of the personal information, including some of our service providers, are based overseas, in a wide variety of countries (including NZ, US, EU, Philippines, India and South Africa). Before we disclose personal information to local or overseas recipients we take reasonable steps to ensure they have privacy practices that are at least as protective as the AU Privacy Principles and the UK Data Protection Act 1998. You consent to the disclosure of your personal information on that basis.
+Some of the recipients of the personal information, including some of our service providers, are based overseas, in a wide variety of countries (including NZ, US, EU, Philippines, India and South Africa). Before we disclose personal information to local or overseas recipients we take reasonable steps to ensure they have privacy practices that are at least as protective as the AU Privacy Principles and the General Data Protection Regulation 2018\. You consent to the disclosure of your personal information on that basis.
 
 We may disclose personal information to any person or authority where we are required to by law.
 
@@ -68,7 +68,7 @@ Other than set out in our Privacy Policy, we will not disclose your personal inf
 
 #### Our security and retention policies
 
-Crazy Free is committed to ensuring security of personal information it holds. We implement a range of measures to protect personal information from misuse, interference and loss, and from unauthorised access, modification or disclosure. Crazy Free holds personal information electronically and in hard copy form, both of our own premises and with the assistance of our service providers including the use of secure enterprise grade servers to store personal information.
+Crazy Free is committed to ensuring security of personal information it holds. Your data is stored in secure servers within your region and we implement a range of measures to protect personal information from misuse, interference and loss, and from unauthorised access, modification or disclosure. Crazy Free holds personal information electronically and in hard copy form, with the assistance of our service providers including the use of secure enterprise grade servers to store personal information.
 
 If Crazy Free no longer needs your personal information we will take steps to destroy or de-identify it – although we may need to retain certain records to meet our legal requirements.
 
@@ -135,4 +135,4 @@ Sydney NSW 2000**
 Westminster, London, SW1W 0PP.**
 
  **Policy Created: 27th August 2015  
-Policy Updated: 27th February 2018**
+Policy Updated: 22nd May 2018**
