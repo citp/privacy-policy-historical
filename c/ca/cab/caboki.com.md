@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caboki.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524130655id_/http%3A//www.caboki.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caboki.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906013040id_/https%3A//www.caboki.com/privacy.html) for the most accurate reproduction.*
 
 # Caboki.com Privacy Policy
 
@@ -8,7 +8,7 @@
 
 We will never share, sell, barter, or rent your personal information such as your email address to any third party other than as disclosed within this privacy policy.
 
-Caboki LLC ("Caboki") values the protection of individual privacy. This privacy policy sets forth Caboki’s privacy policy for the site, and governs the manner in which we collect, use, maintain and disclose information collected from our users. By using our site [www.caboki.com](http://www.caboki.com/), you agree to be bound by this privacy policy. If you do not agree to this privacy policy, please do not use the site.
+Caboki LLC ("Caboki") values the protection of individual privacy. This privacy policy sets forth Caboki’s privacy policy for the site, and governs the manner in which we collect, use, maintain and disclose information collected from our users. By using our site [www.caboki.com](https://www.caboki.com/), you agree to be bound by this privacy policy. If you do not agree to this privacy policy, please do not use the site.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
