@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jacarandafm.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312022719id_/https%3A//www.jacarandafm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacarandafm.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905171628id_/https%3A//www.jacarandafm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
