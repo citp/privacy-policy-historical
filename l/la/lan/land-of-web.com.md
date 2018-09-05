@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the land-of-web.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703124653id_/http%3A//www.land-of-web.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the land-of-web.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905185308id_/http%3A//www.land-of-web.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
