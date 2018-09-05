@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the touristlink.com privacy policy that was archived on 2018-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180321231849id_/http%3A//www.touristlink.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the touristlink.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905182956id_/https%3A//www.touristlink.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Touristlink :: Privacy Policy
 
@@ -16,7 +16,7 @@ What we collect
 What we do with the information we collect
     We will use the following personal information in order to provide you with the travel offers & promotion from our site and provide our members with outstanding service as we continue to improve our own content and services. 
 
-We send update emails to our members from time to time, to keep them up to date with new destinations, promotions, and site news. Members and non-members are subject to the same privacy policies. Members can opt-out of these emails at the time of registration, or by going to the url "[unsubscribe](http://www.touristlink.com/newsletter/cancelsubscription.html "unsubscribe")", or by replying to the original email with the word " **unsubscribe** " in the subject line, or by emailing [support@touristlink.com](mailto:support@touristlink.com). We may ask our members additional information when they sign up. Additionally, we may solicit feedback from our customers. When you provide feedback or send inquiries to us, we may retain those   
+We send update emails to our members from time to time, to keep them up to date with new destinations, promotions, and site news. Members and non-members are subject to the same privacy policies. Members can opt-out of these emails at the time of registration, or by going to the url "[unsubscribe](https://www.touristlink.com/newsletter/cancelsubscription.html "unsubscribe")", or by replying to the original email with the word " **unsubscribe** " in the subject line, or by emailing [support@touristlink.com](mailto:support@touristlink.com). We may ask our members additional information when they sign up. Additionally, we may solicit feedback from our customers. When you provide feedback or send inquiries to us, we may retain those   
 communications in order to process your inquiries, respond to your requests and improve our services.
 
 **In addition to the above, we use the information that you provide us in the following ways:**
@@ -56,7 +56,7 @@ Doubleclick Dart Cookie
 
   * Google, as a third party vendor, uses cookies to serve ads on www.touristlink.com.
   * Google's use of the DART cookie enables it to serve ads to users based on their visit to www.touristlink.com and other sites on the Internet. 
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - https://www.google.com/privacy_ads.html 
 
   
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .... Google Adsense
