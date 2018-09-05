@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the websaver.ca privacy policy that was archived on 2017-03-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170315155348id_/https%3A//websaver.ca/en_ca/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the websaver.ca privacy policy that was archived on 2018-09-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180906010033id_/https%3A//websaver.ca/en_ca/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><!--<![endif]--><head>
         <meta charset="UTF-8">
@@ -7,14 +7,15 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="keywords" content="Coupon, coupons, online coupons, printable coupons, grocery coupons, mail to home coupons, print at home coupons, dog food coupons, pampers coupons, online grocery coupons, online deals, websaver, coupon newsletter, Baby, Foods, Household Pet care, Beverages">
         <meta name="description" content="webSaver.ca is the online destination for Canadians looking for Coupons, Printable Coupons and Savings. In just a few clicks you too can start saving on the products you use everyday! webSaver.ca - Save, Live, Give">
-        <title>webSaver.ca - Canadian Coupons and Printable Coupons</title>
+        <meta name="title" content="metatitle">
+        <title> webSaver.ca  - Canadian Coupons and Printable Coupons</title>
         <!-- <link rel="stylesheet" href="/bundles/bamwebsaver/css/global.css" /> -->
         <!--<link rel="stylesheet" href="" />-->
         <link rel="stylesheet" href="/bundles/bamwebsaver/css/jquery-ui-style/jquery-ui.min.css">
         <link rel="stylesheet" href="/bundles/bamwebsaver/css/bootstrap.min.css">
-        <link rel="stylesheet" href="/bundles/bamwebsaver/css/style.css">
+        <link rel="stylesheet" href="/bundles/bamwebsaver/css/style.css">        
                 
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript">
         var locale = "en";
         var public_js_vars = {};
                 
@@ -23,33 +24,33 @@
     <script src="/bundles/bamwebsaver/js/jquery-1.7.2.min.js"></script>
     <script src="/bundles/bamwebsaver/js/bootstrap.min.js"></script>
     <script src="/bundles/bamwebsaver/js/jquery-ui.min.js"></script>    
-    <script src="/bundles/bamwebsaver/js/main.js"></script>
+    <script src="/bundles/bamwebsaver/js/main.js?t=1536195633"></script>
     <script src="/bundles/bamwebsaver/js/detectmobilebrowser.js"></script> 
     <!--[if IE 8 ]>
     <script src="/bundles/bamwebsaver/js/respond.src.js"></script>
     <![endif]-->    
     <script type="text/javascript">
             $('document').ready(function () {
-                
+
                 public_js_vars['_button_pixel_campaign'] = '/Ajax/buttonPixelCampaign';
-                
-                
+
+
                                 $(".progressbar").progressbar({
                     value:0
                 });
                 $('.skip').click(function () {
-                    $.post('/Ajax/remove-session-portal-coupons/', function (data) {                        
+                    $.post('/Ajax/remove-session-portal-coupons/', function (data) {
                     });
                 });
-                
-                
-                $("#ws-logout").click(function() {
+
+
+                $("#ws-logout").click(function () {
                     facebooklogout();
                     return false;
                 });
-                
-                
-                
+
+
+
             });
     </script>
  
@@ -66,8 +67,8 @@
                                     <div style="float:right">
                     <a href="/en_ca/login/" class="auth_user_links">Login</a>
                     <a href="/en_ca/registration/" class="auth_user_links">Sign Up</a>
-                                                                        <a class="lang" id="locale" href="/fr_ca/privacy-policy/">FR</a>
-                                                                </div>
+                                                                                                        <a class="lang" id="locale" href="/fr_ca/privacy-policy/">FR</a>
+                                                                                            </div>
                                     
                 <button type="button" class="navbar-toggle collapsed navbar-default" data-toggle="collapse" data-target="#topnav">
                     <span class="sr-only">Toggle navigation</span>
@@ -83,7 +84,8 @@
             <div class="collapse navbar-collapse topnav" id="topnav">
                 <ul class="nav navbar-nav" id="top-nav-links">                   
                     <li class="print_coupons"><a id="btn_printableCoupons" href="/en_ca/coupons/">Printable Coupons</a></li>                    
-                    <li class="club"><a href="/en_ca/_zebra_redirecting">Mail Coupons</a></li>                    
+                    <li class="amazon_coupons"><a id="btn_amazonCoupons" href="/en_ca/amazon_coupons/">Amazon Coupons</a></li>
+                    <li class="club"><a href="/en_ca/_zebra_redirecting">Mail Coupons</a></li>
                     <li class="flyer"><a href="/en_ca/flyers/">Weekly Flyers</a></li>
                     <li class="surveys"> <a href="/en_ca/loyalty/surveys/">Surveys</a></li>
                     <li class="rewards"> <a href="/en_ca/loyalty/rewards/">Rewards</a></li>
@@ -91,74 +93,80 @@
                 <span class="navbar-right login-btns">
                                             <a href="/en_ca/login/" class="auth_user_links">Login</a>
                         <a href="/en_ca/registration/" class="auth_user_links">Sign Up</a>                        
-                    
-                                                                        <a class="lang" id="locale" href="/fr_ca/privacy-policy/">FR</a>
-                                             
-                </span>
+                    					                                                                                    <a class="lang" id="locale" href="/fr_ca/privacy-policy/">FR</a>
+                                                     
+                                    </span>
             </div>
         </div>
     </div>
 </div>
         <!--Some pages and plugin not allow to show background images-->
                     <div class="wrapper">
-                    <script>
-            function goLogIn() {
-                
-                //window.location = "/facebook/login_check"+"?access_token="+access_token;
-                window.location = "/facebook/login_check"
-            }
+                            <script>
+            window.fbAsyncInit = function () {
+                // init the FB JS SDK
+                FB.init({
+                    appId: '197140640414527', // App ID from the app dashboard
+                    status: true, // Check Facebook Login status
+                    xfbml: true, // Look for social plugins on the page
+                    oauth: true,
+                    cookie  : true,
+                });
+            };
 
-            function facebooklogout(){
-                if(typeof FB.logout == 'function'){
-                    if (FB.getAuthResponse()) {
-                     FB.logout(function(response) { 
-                          window.location = "/en_ca/user/logout"; 
-                     }); 
-                     return ;
-                    }  
-                };
-                window.location = "/en_ca/user/logout"; 
-                return ;
-            }        
-        
-        
-            function onFbInit() {
-                //console.log("FB onFbInit");
-                if (typeof (FB) != 'undefined' && FB != null) {
-                    FB.Event.subscribe('auth.statusChange', function (response) {
-                        //console.log(response.status);
-                        if (response.session || response.authResponse) {
-                            //console.log("redirect to goLogIn");
-                            //console.log(response.authResponse.accessToken);
-                                                            //facebooklogout();
-                                //setTimeout(goLogIn(response.authResponse.accessToken), 500);
-                                goLogIn();
-                                
-                        } else {
-                            //console.log("redirect to fos_user_security_logout");
-                            //window.location = "/en_ca/user/logout";
-                        }
-                    });
-                    
+            //FACEBOOK
+            // Load the SDK asynchronously
+            (function (d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) {
+                    return;
                 }
-            }
-        </script>
-        <div id="fb-root"><script src="https://connect.facebook.net/en_US/sdk.js" async=""></script></div>
-<script type="text/javascript">
-window.fbAsyncInit = function() {
-  FB.init({"appId":"197140640414527","version":"v2.0","xfbml":true,"oauth":true,"status":false,"cookie":true,"logging":false,"channelUrl":"https:\/\/websaver.ca\/channel.html"});
-  onFbInit();
-};
+                js = d.createElement(s);
+                js.id = id;
+                js.src = "//connect.facebook.net/en_US/all.js";
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));
 
-(function() {
-  var e = document.createElement('script');
-  e.src = document.location.protocol + "\/\/connect.facebook.net\/en_US\/sdk.js";
-  e.async = true;
-  document.getElementById('fb-root').appendChild(e);
-}());
-</script>
-        
-        <div class="flashbag-message">                
+            function fb_login() {
+                FB.getLoginStatus(function (response) {
+                    if (response.status === 'connected') {
+                        // connected
+                        //alert('Already connected, redirect to login page to create token.');
+                        document.location = "https://websaver.ca/connect/facebook";
+                    } else {
+                        // not_authorized
+                        FB.login(function (response) {
+                            if (response.authResponse) {
+                                document.location = "https://websaver.ca/connect/facebook";
+                            } else {
+                                alert('Cancelled.');
+                            }
+                        }, {scope: 'email'});
+                    }
+                });
+            }
+
+            function facebooklogout() {
+                console.log('ici')
+                if (typeof FB.logout === 'function') {
+                    if (FB.getAuthResponse()) {
+                        FB.logout(function (response) {
+                            window.location = "/en_ca/user/logout";
+                        });
+                        return;
+                    }
+                }
+                ;
+                window.location = "/en_ca/user/logout";
+                return;
+            }
+
+            
+                                    
+            
+
+                    </script>
+                <div class="flashbag-message">                
                                 </div>
 
         
@@ -209,7 +217,7 @@ window.fbAsyncInit = function() {
                 Suite 203, Montréal, Québec,<br>
                 Canada H4P 2N5<br>
                 <a href="mailto:privacy@websaver.ca">privacy@websaver.ca</a><br>
-                Date of Last Revision: March 15, 2017<br>
+                Date of Last Revision: September 5, 2018<br>
             </p>
         </div>    	
     </div>
@@ -223,7 +231,7 @@ window.fbAsyncInit = function() {
 
                     <div class="col-xs-12 col-sm-8">
                         <a href="/en_ca/coupons/">
-                            <img class="footer-logo" style="padding: 12px 0;margin:0 auto;" src="/bundles/bamwebsaver/images/en/logo.png" alt="">                                
+                            <img class="footer-logo" style="padding: 12px 0;margin:0 auto;" src="/bundles/bamwebsaver/images/en/logo.png" alt="">
                         </a>
                     </div>
 
@@ -241,6 +249,7 @@ window.fbAsyncInit = function() {
                                 <li><a href="/fr_ca/privacy-policy/">Français</a></li>
                                 <li><a href="/en_ca/_zebra_redirecting">Zebra Coupons</a></li>
                                 <li><a href="/en_ca/coupons/">Printable Coupons</a></li>
+                                <li><a href="/en_ca/grocery-brands">Brands</a></li>
                             </ul>
                         </div>
 
@@ -252,7 +261,7 @@ window.fbAsyncInit = function() {
                             </ul>
                         </div>
                         <div class="col-sm-4">
-                            <ul>                            
+                            <ul>
                                 <li><a href="/en_ca/faq/">FAQ</a></li>
                                 <li><a href="/en_ca/contact-us/">Contact Us</a></li>
                             </ul>
@@ -265,7 +274,7 @@ window.fbAsyncInit = function() {
                         </ul>
                     </div>-->
                     <div class="col-xs-6">
-                        
+
                         <div class="col-sm-6 col-md-4">
                             <ul>
                                 <li>Our Partners:</li>
@@ -274,12 +283,10 @@ window.fbAsyncInit = function() {
                                                 <div class="col-sm-6 col-md-4">
                             <ul>
                                 <li><a href="https://www.salewhale.ca/en/" target="_blank">salewhale.ca</a></li>
-                                <li><a href="http://www.divine.ca/en/" target="_blank">divine.ca</a></li>
-                                <li><a href="https://www.reviewsquad.ca/home/c_670/" target="_blank">reviewsquad.ca</a></li>
-                                                                    <li><a href="http://www.shoply.ca/" target="_blank">shoply.ca</a></li>
-                                                            </ul>
+                                                                                                                                        <li><a href="http://www.shoply.ca/" target="_blank">shoply.ca</a></li>
+                                                                </ul>
                         </div>
-                        
+
                     </div>
                 </div>
             </div>
@@ -288,40 +295,75 @@ window.fbAsyncInit = function() {
     </div>
 </div>
 <div class="footer-copy">
-    <div class="text-center">@ 2017 webSaver.ca. All rights reserved</div>
+    <!-- Modal -->
+    <div class="modal fade" id="fallContest2017" tabindex="-1" role="dialog" aria-labelledby="fallContest2017Label">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content" style="background-color: white!important;">
+                <div class="modal-header" style="border-bottom: none!important;">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">
+                            <img class="contestFall-cross" src="/bundles/bamwebsaver/images/contest_fall2017/cross.png">
+                        </span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-xs-6 custom-xs-left">
+                            <img class="visible-desktop" src="/bundles/bamwebsaver/images/contest_fall2017/en/left-img.png">
+                            <img class="visible-phone" src="/bundles/bamwebsaver/images/contest_fall2017/en/left-img-mobile.png">
+                        </div>
+                        <div class="col-xs-6 text-left contents custom-xs-right">
+                            <h1>Win $100 in Weekly Prizes!</h1>
+                            <h3>How do you participate?</h3>
+                            <p class="contestFall-content">
+                                Print a webSaver.ca coupon. It’s that simple! <strong> Each print gets you one entry into the contest, with a limit of 10 entries per day.</strong><br><br>The winner(s) will be selected through a random draw.
+                            </p>
+                            <br>
+                            <p class="contestFall-rules">
+                                <a href="/en_ca/contests/fall_contest2017/rules/">*Please see official rules &amp; regulations</a>
+                            </p>
+                            <br>
+                            <input type="checkbox" class="hideRuleContestFall2017-checkbox"> <span class="contestFall-checkbox">Do not remind me again.</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="text-center">@ 2018 webSaver.ca. All rights reserved</div>
 </div>
 <!-- END FOOTER -->
 <!--Pixel tracking start-->
-     
+    
 <!--Pixel tracking end-->
 
 <!--Pixel tracking for always trigger pixel campaigns start-->
     
-<!--Pixel tracking for always trigger pixel campaigns end-->        
-                <div class="modal fade ie8no" tabindex="-1" role="dialog" aria-labelledby="getCouponLabel" aria-hidden="true">
-            <div class="modal-dialog">
-                <div class="modal-content">
-                    <a href="#" class="skip close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></a>
-                    <div class="modal-body">
-                        <p class="modal-text">Hey webSaver!<br>It seems you're trying to access our site using IE 8, a browser we no longer support.<br>For a better experience, please try accessing the site using another browser such as Google Chrome, Mozilla Firefox or Safari or update your internet explorer to the latest version.</p>
-                        <p>      
-                            <a href="#" class="btn btn-default navbar-btn blue-btn" data-dismiss="modal">Close</a>
-                        </p>
-                        <br>    
-                    </div>      
-                </div><!-- /.modal-content -->
-            </div><!-- /.modal-dialog -->
-        </div><!-- /.modal --> 
-        <script type="text/javascript">
-            $('document').ready(function () {
-                if($('html').hasClass('ie8')){
-                    $('.modal.fade.ie8no').modal('show');
-                }
-                
-                
-            });
-        </script>
-                                <!--Force portal checkout popup window starts-->
+<!--Pixel tracking for always trigger pixel campaigns end-->
+                        <div class="modal fade ie8no" tabindex="-1" role="dialog" aria-labelledby="getCouponLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <a href="#" class="skip close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></a>
+                        <div class="modal-body">
+                            <p class="modal-text">Hey webSaver!<br>It seems you're trying to access our site using IE 8, a browser we no longer support.<br>For a better experience, please try accessing the site using another browser such as Google Chrome, Mozilla Firefox or Safari or update your internet explorer to the latest version.</p>
+                            <p>      
+                                <a href="#" class="btn btn-default navbar-btn blue-btn" data-dismiss="modal">Close</a>
+                            </p>
+                            <br>    
+                        </div>      
+                    </div><!-- /.modal-content -->
+                </div><!-- /.modal-dialog -->
+            </div><!-- /.modal --> 
+            <script type="text/javascript">
+                $('document').ready(function () {
+                    if ($('html').hasClass('ie8')) {
+                        $('.modal.fade.ie8no').modal('show');
+                    }
+
+
+                });
+            </script>
+                                    <!--Force portal checkout popup window starts-->
         <div class="modal fade portals-on-way" tabindex="-1" role="dialog" aria-labelledby="getCouponLabel" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
@@ -360,8 +402,8 @@ window.fbAsyncInit = function() {
         <!--Some pages and plug in not allow to show background images-->    
             
         <!--Some pages not allow to show background images-->
-                    </div>
-                  
-
+                </div>
+          
+<script id="alidatatable-scripts" type="text/javascript"></script>
 
 </body></html>
