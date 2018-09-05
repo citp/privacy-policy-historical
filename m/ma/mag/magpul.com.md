@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the magpul.com privacy policy that was archived on 2017-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170718065059id_/https%3A//www.magpul.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magpul.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905054348id_/https%3A//www.magpul.com/bottom-menu/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Notice
+# Privacy Policy
 
 ## OUR COMMITMENT to PRIVACY
 
