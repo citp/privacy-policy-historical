@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the freestreams.com privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504103447id_/http%3A//delplaya.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freestreams.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905052148id_/http%3A//delplaya.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DelPlaya
 
 last updated April 7, 2016
 
-This is the Privacy Policy for delPlaya Media, Inc. (“delPlaya Media”) that governs usage of the websites located at [www.delplaya.com](http://52.53.171.137/), [www.delPlayaMedia.com](http://www.delplayamedia.com/), [www.AuthorizedStream.com](http://www.authorizedstream.com/), [www.FreeStreams.com](http://www.freestreams.com/), [www.FullviewPlayer.com](http://www.fullviewplayer.com/), and [www.LyricFox.com](http://www.lyricfox.com/) (the “Websites”), the FreeStreams mobile apps (the “Apps”), and any media application using the delPlaya Media Service (as defined in the Terms of Use).
+This is the Privacy Policy for delPlaya Media, Inc. (“delPlaya Media”) that governs usage of the websites located at [www.delplaya.com](http://52.53.171.137/), [www.delPlayaMedia.com](http://www.delplayamedia.com/), [www.AuthorizedStream.com](http://www.authorizedstream.com/), [www.FreeStreams.com](http://www.freestreams.com/), [www.FullviewPlayer.com](http://www.fullviewplayer.com/), [www.stupidvideos.com](http://www.stupidvideos.com/) and [www.LyricFox.com](http://www.lyricfox.com/) (the “Websites”), the FreeStreams mobile apps (the “Apps”), and any media application using the delPlaya Media Service (as defined in the Terms of Use).
 
 Your Acceptance of this Privacy Policy
 
-By using the Websites, Apps or delPlaya Media Service, including, without limitation, responding to offers, exchanging information about your personal preferences, and continuing to receive information from delPlaya Media, you agree to accept the terms and conditions of this Privacy Policy, and you expressly consent to our use and disclosure of your personal information as described herein. This Privacy Policy is subject to the Terms of Use found at: http://52.53.171.137/docs/termsofuse.pdf which is incorporated herein by this reference.
+By using the Websites, Apps or delPlaya Media Service, including, without limitation, responding to offers, exchanging information about your personal preferences, and continuing to receive information from delPlaya Media, you agree to accept the terms and conditions of this Privacy Policy, and you expressly consent to our use and disclosure of your personal information as described herein. This Privacy Policy is subject to the Terms of Use found at: [Terms of Use](http://delplaya.com/terms-of-use/) which is incorporated herein by this reference.
 
 Information We Collect
 
