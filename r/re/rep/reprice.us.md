@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reprice.us privacy policy that was archived on 2018-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180322112953id_/http%3A//reprice.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reprice.us privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905091300id_/http%3A//reprice.us/privacy) for the most accurate reproduction.*
 
 # Privacy « Price Comparison Widget
 
