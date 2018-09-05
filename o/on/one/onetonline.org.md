@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onetonline.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606041022id_/https%3A//www.onetonline.org/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onetonline.org privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906015719id_/https%3A//www.onetonline.org/help/privacy) for the most accurate reproduction.*
 
 # Privacy and Security Statement
 
