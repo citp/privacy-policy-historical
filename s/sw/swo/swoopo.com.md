@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the swoopo.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225082420id_/http%3A//www.dealdash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swoopo.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906001032id_/https%3A//www.dealdash.com/privacy-policy) for the most accurate reproduction.*
 
-# DealDash™ - Privacy policy
+# DealDash™ - Bid & Save - The fair & honest bidding site
 
 ## Privacy policy
 
