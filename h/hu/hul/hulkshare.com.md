@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hulkshare.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514210806id_/http%3A//www.hulkshare.com/static.php%3Fop%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hulkshare.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905190826id_/http%3A//www.hulkshare.com/static.php%3Fop%3Dprivacy) for the most accurate reproduction.*
 
-# Hulkshare - Listen to Free Music Online - Internet Radio - Discover Artists
+# Free Internet Radio - Discover Artists Online Music - HulkShare
 
-Hulkshare Ltd., a Hong Kong limited company (the “Company”) thanks you for accessing this web site (the “Site”). The Company wants to assure you that we respect your privacy because we know that trust is the key to any successful relationship. The following Privacy Policy describes the Company’s commitment to protect your personal information. 
+Hulkshare Ltd., a Hong Kong limited company (the “Company”) thanks you for accessing this web site (the “Site”). The Company wants to assure you that we respect your privacy because we know that trust is the key to any successful relationship. The following Privacy Policy describes the Company’s commitment to protect your personal information.
 
 This Privacy Policy explains how the Company collects, uses and discloses your personal information. This Privacy Policy also explains the steps the Company has taken to ensure that your personal information is secure. Finally, this Privacy Policy explains your choices regarding the collection, use and disclosure of your personal information.
 
