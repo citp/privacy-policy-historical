@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the styletread.com.au privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219083515id_/https%3A//www.styletread.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styletread.com.au privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905225714id_/https%3A//www.styletread.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -91,10 +91,9 @@ Once we receive the confirmation, your order will be processed and shipped as so
 Address and Contact Details
 
 Styletread Pty Ltd  
-Unit 3, 35 Carter St. (Carpark entry on Hill Road)  
-Sydney Olympic Park NSW 2127  
-Australia  
-
+305 Gooch Street  
+Thornbury VIC 3071  
+Australia
 
 email: [service@styletread.com.au](mailto:service@styletread.com.au)
 
