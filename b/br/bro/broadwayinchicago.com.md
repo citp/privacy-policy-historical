@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadwayinchicago.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614125111id_/http%3A//www.broadwayinchicago.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadwayinchicago.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906011958id_/http%3A//www.broadwayinchicago.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Broadway in Chicago
 
