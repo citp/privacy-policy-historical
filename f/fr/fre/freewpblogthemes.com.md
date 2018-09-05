@@ -1,27 +1,71 @@
-> *The following text is extracted and transformed from the freewpblogthemes.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617114502id_/http%3A//www.freewpblogthemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewpblogthemes.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905171636id_/https%3A//www.competethemes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Free Wordpress Themes
+# Privacy Policy | Compete Themes
 
-We respect your privacy and we are committed to safeguarding your privacy while online at our sites. The following discloses the information gathering and dissemination practices for this website:
+The CompeteThemes.com Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. Compete Themes is a service offering of Compete Themes LLC (“Compete Themes”), and references in this document to “us,” “our,” and “we” refer to Compete Themes.
 
-##### Log Files
+### WHAT INFORMATION DO WE COLLECT?
 
-Like most standard website servers, we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, administer the site and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
+When you visit our website you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and website use information collected on an aggregate basis as you and others browse the site.
 
-##### Cookies
+### 1\. PERSONAL INFORMATION YOU CHOOSE TO PROVIDE
 
-A cookie is a piece of data stored on the user’s computer tied to information about the user. Our site use cookies for tracking visitors activity. Some of my business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. You can choose not to accept cookies by modifying your browser settings. At any time, you may remove any cookie stored on your hard drive by deleting them in your browser’s settings section.
+ **Registration Information**
 
-##### Links
+You will provide us information about yourself, your firm or company, and your practices when you purchase Compete Themes products and services or register for email newsletters and alerts.
 
-This website contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. we encourage ours users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
+ **Email Information**
 
-##### Advertisers
+If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses.
 
-We use outside ad companies to display ads on our site. These ads may contain cookies and are collected by the ad companies, and we do not have access to these information. We work with the ad companies like Google Adsense and Amazon.
+### 2\. WEBSITE USE INFORMATION
 
-##### Contact Information
+Similar to other commercial websites, this site utilizes a standard technology called “cookies” (see explanation below, “What Are Cookies?”) and Web server logs to collect information about how this site is used. Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, time spent at this site, and the websites visited just before and just after our site. We, our advertisers and ad serving companies may also use small technology or pieces of code to determine which advertisements and promotions users have seen and how users responded to them.
 
-If users have any questions or suggestions regarding our privacy policy, do not hesitate to contact us via [contact us](https://web.archive.org/contact/) page.
+We also collect theme usage data through our automatic update mechanism, which checks to insure you have the latest version of the theme you’ve purchased. This process is necessary in order to provide you with a painless and consistent upgrade experience.
 
-Thank you all 
+#### HOW DO WE USE THE INFORMATION THAT YOU PROVIDE TO US?
+
+Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to this website, new services and special offers we think you will find valuable. You may notify us of your desire not to receive these offers by clicking the unsubscribe link contained in each such email.
+
+#### WHAT ARE COOKIES?
+
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a website, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each website can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites. Some of our business partners (e.g., advertisers) use cookies that originate from their sites. We have no access or control over those cookies.
+
+#### HOW DO WE USE INFORMATION WE COLLECT FROM COOKIES?
+
+As you use this website, the site uses its cookies to differentiate you from other users. Cookies, in conjunction with our web server’s log files, allow us to calculate the aggregate number of people visiting this site and which parts of the site are most popular. This helps us gather feedback in order to constantly improve this site and better serve our customers. Cookies do not allow us to gather any personal information about you and we do not generally store any personal information that you provided to us in your cookies.
+
+#### SHARING INFORMATION WITH THIRD PARTIES
+
+The information we collect is used to improve the content of this site and the quality of our service, and is not shared with or sold to other organizations for commercial purposes. That being said, your information could be shared under the following circumstances:
+
+We use third parties to facilitate our business, including, but not limited to, sending email and processing payments. In connection with these offerings and business operations, these third parties may have access to your personal information for use in connection with those business activities.
+
+As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions.
+
+We may also transfer such information in the course of corporate divestitures, mergers, or any dissolution.
+
+If it becomes necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as otherwise required by law.
+
+#### NOTICE OF NEW SERVICES AND CHANGES
+
+Occasionally, we may also use the information we collect to notify you about important changes to this website, new services, and special offers we think you will find valuable. As our customer, you will be given the opportunity to notify us of your desire not to receive these offers by clicking the unsubscribe link contained in each such email.
+
+#### HOW DO WE SECURE INFORMATION TRANSMISSIONS?
+
+Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. Some of the information you may enter on this site may be transmitted securely via Secure Sockets Layer SSL, 128 bit encryption services. Pages utilizing this technology will have URLs that start with HTTPS instead of HTTP.
+
+#### CERTAIN DISCLOSURES
+
+We may disclose your personal information if required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law or comply with legal process served on us or affiliated parties; (b) protect and defend our rights and property, our site, the users of our site, and/or our affiliated parties; (c) act under circumstances to protect the safety of users of our site, us, or third parties.
+
+#### WHAT ABOUT OTHER WEBSITES LINKED TO THIS SITE?
+
+We are not responsible for the practices employed by websites linked to or from our site nor the information or content contained therein. Often links to other websites are provided solely as pointers to information on topics that may be useful to the users of our site. Please remember that when you use a link to go from our site to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including sites which have a link on our site, is subject to that website’s own rules and policies. Please read over those rules and policies before proceeding.
+
+#### YOUR CONSENT
+
+By using this site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on this site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
+
+Last Modified: August 3, 2014
