@@ -1,111 +1,330 @@
-> *The following text is extracted and transformed from the spring.me privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021232621id_/http%3A//spring.me/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spring.me privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905204814id_/https%3A//www.twoo.com/about/privacy) for the most accurate reproduction.*
 
-# Spring.me
+# Twoo - Meet New People - Privacy Policy
 
-_Effective Date: Thursday, July 29, 2010_
+### Privacy Policy
 
-## _Welcome to Spring.me!_
+OUR COMMITMENT TO YOU
 
-spring.me, Inc. (“ ** _Spring.me_** ”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive when you visit and use the Spring.me website located at [spring.me](http://spring.me/) (the “ ** _Site_** ”). If you have questions or concerns regarding this Privacy Policy, you should first contact Spring.me at [privacy@spring.me](mailto:privacy@spring.me) or at the following address: Privacy Matters c/o spring.me, Inc., 182 Howard Street, PMB #531, San Francisco, California 94105.
+At Twoo, your privacy is a top priority. We always keep your privacy in mind when we design and build the services and products you know and love, so that you can fully trust them and focus on building meaningful connections.
 
-This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy on the home page of the Site and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are advised to consult this Privacy Policy regularly for any changes.
+We appreciate that you put your trust in us when you provide us with your information and we do not take this lightly.
 
-## Our Policy Toward Children
+We do not compromise with your privacy. We design all of our products and services with your privacy in mind. We involve experts from various fields, including legal, security, engineering, product design and others to make sure that no decision is taken without respect for your privacy.
 
-Spring.me does not knowingly collect personal information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [privacy@spring.me](mailto:privacy@spring.me). If we become aware that a child under 13 has provided us with Personal Information (defined below), we will delete such information from our files and disable their account.
+We strive to be transparent in the way we process your data. We have written our Privacy Policy and related documents in plain language, without overly complicated language and with sufficient information. We actually want you to read our policies and understand our privacy practices!
 
-## Information Collection and Use
+We work hard to keep your information secure. We have teams dedicated to keeping your data safe and secure. We constantly update our security practices and invest in our security efforts to enhance the safety of your information.
 
-Our primary goals in collecting information are to provide and improve our Site, services, features and content, to administer your account and to enable users to enjoy and easily navigate the Site. 
+PRIVACY POLICY
 
-### Personal information 
+Welcome to Twoo’s Privacy Policy. Thank you for taking the time to read it.
 
-  * In the course of using the Site, we will ask you to provide us with certain personal information that can be used to contact or identify you and administer your account (“ ** _Personal Information_** ”). Personal Information includes, but is not limited to, your name and email address. Please be aware that when you register with Spring.me and set up an account (each a “ ** _Spring.me Registered User_** ”), other users of the Site will be able to see your username, in addition to any questions, answers or comments that you post to the Site or submit via the services subject to the “user preferences” you set in your account. 
-  * We also collect the other information that you provide as part of registration and the administration and personalization of your profile webpage ( _e.g._ , without limitation, gender or location (in either case other their own) (“ ** _Non-Identifying Information_** ”). 
-  * We use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) mainly to provide services, complete your transactions, and administer your inquiries. 
-  * Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (for example,combining your zip code with your street address) in a way that enables you to be identified. However, the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other non-identifying information (for example, your viewing preferences). We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other Spring.me users to attempt to provide you with a better experience, to improve the quality of the Site and our services and to analyze and understand how our Site and services are used. Subject to the section below titled “ ** _Information Sharing and Disclosure_** ,” we may also use the combined information without aggregating it to serve you specifically, for instance to deliver a product to you according to your preferences or restrictions. 
-  * We also use your Personal Information to contact you with Spring.me newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications. We will endeavor to comply with your request as soon as reasonably practicable. Please note that if you opt-out as described above, we will not be able to remove your Personal Information from our databases or those of our third party service providers (i.e., to which we have already provided your Personal Information as of the date that we implement your opt-out request). Spring.me does not share, sell, rent or trade your Personal Information with third parties for such third party's direct marketing purposes. See the section below titled “Information Sharing and Disclosure” for further information regarding how we share your Personal Information. 
+We appreciate that you trust us with your information and we intend to always keep that trust. This starts with making sure you understand the information we collect, why we collect it, how it is used and your choices regarding your information. This Policy describes our privacy practices in plain language, keeping legal and technical jargon to a minimum.
+
+This Privacy Policy applies beginning 05/25/2018. The previous version of this Privacy Policy, available [here](https://web.archive.org/about/privacy?view=archived&version=2017-05-16), will apply until then.
+
+Effective date: 05/25/2018 ([archived versions](https://web.archive.org/about/privacy?view=history))
+
+#### 1\. Who we are
+
+The company that is responsible for your information under this Privacy Policy is:
+
+Massive Media Match NV  
+Emile Braunplein 18  
+9000 Ghent  
+Belgium 
+
+#### 2\. Where this Privacy Policy applies
+
+This Privacy Policy applies to websites, apps, events and other services operated by Twoo. For simplicity, we refer to all of these as our 'services' in this Privacy Policy. To make it extra clear, we’ve added links to this Privacy Policy on all applicable services.
+
+Some services may require their own unique privacy policy. If a particular service has its own privacy policy, then that policy - not this Privacy Policy - applies.
+
+#### 3\. Information we collect
+
+It goes without saying, we can’t help you develop meaningful connections without some information about you, such as basic profile details and the types of people you’d like to meet. We also collect information generated as you use our services, for example access logs, as well as information from third parties, like when you access our services through a social media account. If you want additional info, we go into more detail below.
+
+Information you give us
+
+You choose to give us certain information when using our services. This includes:
+
+  * When you create an account, you provide us with at least your login credentials, as well as some basic details necessary for the service to work, such as your gender and date of birth.
+  * When you complete your profile, you can share with us additional information, such as details on your personality, lifestyle, interests and other details about you, as well as content such as photos and videos. To add certain content, like photos or videos, you may allow us to access your camera or photo album. Some of the information you choose to provide us may be considered 'special' or 'sensitive' in certain jurisdictions, for example your racial or ethnic origins, sexual orientation and religious beliefs. By choosing to provide this information, you consent to our processing of that information.
+  * When you subscribe to a paid service or make a purchase directly from us (rather than through a platform such as iOS or Android), you provide us or our payment service provider with information, such as your debit or credit card number or other financial information.
+  * When you participate in surveys or focus groups, you give us your insights into our products and services, responses to our questions and testimonials.
+  * When you choose to participate in our promotions, events or contests, we collect the information that you use to register or enter.
+  * If you contact our Help Desk, we collect the information you give us during the interaction. Sometimes, we monitor or record these interactions for training purposes and to ensure a high quality of service.
+  * If you ask us to communicate with or otherwise process information of other people (for example, if you ask us to send an e-mail on your behalf to one of your friends), we collect the information about others that you give us in order to complete your request.
+  * Of course, we also process your chats with other users as well as the content you publish, as part of the operation of the services.
 
 
 
-### Publicly available information
+Information we receive from others
 
-When you sign up for a Spring.me account, your user name, photograph and bio are publicly available. Such information may, for example, be accessed by everyone on the Internet (including people not logged into Spring.me), be indexed by third party search engines, and be imported, exported, distributed, and redistributed by us and others without privacy limitations. Such information may also be associated with you, including your name and profile picture, even outside of Spring.me, such as on public search engines and when you visit other sites on the internet. The default privacy setting for certain types of information you post on Spring.me is set to “public.” You can review and change the default settings in your [privacy settings](http://spring.me/account/privacy/), and also select to make your account “Protected” which allows you to control who has access to viewing your profile.
+In addition to the information you provide us directly, we receive information about you from others, including:
 
-## LogData
+  * Other users
 
-When you use the Site, our servers automatically record information that your browser sends whenever you visit a website or online service (“ _ **Log Data**_ ”). This Log Data may include, but is not limited to, your computer's Internet Protocol address, browser type, the web page you were visiting before you came to the Site and information you search for on our Site. We use this information to monitor and analyze use of the Site and our services and for the Site's technical administration, to increase the Site's functionality and user-friendliness, and to better tailor our Site and services to our visitors' needs.
+Other users may provide information about you as they use our services. For instance, we may collect information about you from other users if they contact us about you. Also, if a user asks us to access contacts from his/her phone book and you happen to be one of those, we may use it to reach out to you on behalf of the user.
 
-## Cookies and Other Tracking Technologies
+  * Social media
 
-Like many websites, we use “cookies” to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We use “persistent cookies” to save your username and login password for future logins to the Site. We use “session ID cookies” to enable certain features of the Spring.me service, to better understand how you interact with the Site and to monitor web traffic routing on the Site and aggregate usage of the Site and the Spring.me service. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the Spring.me service. Third party advertisers on the Site may also place or read cookies on your computer's browser, which permit them to collect information about users who view or interact with their advertisements. The collection and use of such information is subject to such third party's privacy policy.
+You may be able to use your social media login (such as Facebook Login) to create and log into your Twoo account. This saves you from having to remember yet another user name and password and allows you to share some information from your social media account with us.
 
-We may also use “pixel tags,” “web beacons,” “clear GIFs” or similar means (individually or collectively “ ** _Pixel Tags_** ”) in connection with our Site to collect usage, demographic and geographical location data. A Pixel Tag is an electronic image, often a single pixel, that is ordinarily not visible to users and may be associated with cookies on a user's hard drive. Pixel Tags allow us to count users who have visited certain pages of the Site, to deliver branded services and to help determine the effectiveness of promotional or advertising campaigns.
+  * Other partners
 
-## Information Sharing and Disclosure
+We may receive info about you from our partners, for instance when Twoo accounts can be created through a partner’s websites (in which case they pass along registration information to us) or where Twoo ads are published on a partner’s websites and platforms (in which case they may pass along details on a campaign’s success).
 
-Other than as described in this section, Spring.me does not rent or share information about you with third parties.
 
-### Spring.me Registered Users
 
-We will display your Personal Information in your profile page and elsewhere on the Site and via our services according to the preferences you set in your account. For example, in addition to your username, any questions, answers or submissions that you post to the Site will be publicly available and any Personal Information you provide can be read, collected, or used by other users of Site, and could be used to send you messages depending on the privacy settings you set for your profile. Any information you choose to provide when using the Site or our services should reflect how much you want other Spring.me users to know about you. We encourage users to think carefully about what information about themselves they disclose in their profile pages and submissions. You can review and revise your profile information at any time. We are not responsible for the Personal Information you choose to submit to the Site or make available via our services.
 
-### Aggregate Information and Non-Identifying Information
+Information collected when you use our services
 
-We may share aggregated information that does not include Personal Information and we may otherwise disclose Non-Identifying Information and Log Data with third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your Personal Information.
+When you use our services, we collect information about which features you’ve used, how you’ve used them and the devices you use to access our services. See below for more details:
 
-### Service Providers
+  * Usage information
 
-We may employ third party companies and individuals to facilitate the Site and the services available therein, to provide the services on our behalf and to perform services related to administration of the Site (“ ** _Service Providers_** ”). The types of Service Providers we use include, without limitation, services providers that provide the following types of services: website maintenance, hosting, database management, web analytics and administration. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+We collect information about your activity on our services, for instance how you use them (e.g. date and time you logged in, features you’ve been using, searches, clicks and pages which have been shown to you, referring webpage address, advertising that you click on) and how you interact with other users (e.g. users you connect and interact with, time and date of your exchanges, number of messages you send and receive).
 
-### Third Party Social Networking Services and Blogs
+  * Device information
 
-As a Spring.me Registered User, you can link your Spring.me account information with certain social networking services (“ _ **SNSs**_ ”) and blogging services (“ _ **Blogs**_ ”) and share your answers to questions with your friends or visitors to your Blogs. In these instances, with your permission and on your behalf we will share the information contained in your Spring.me account (i.e., profile information and answers) with the SNSs and Blogs with which you choose to link your Spring.me account. We also receive certain information (which may include your Personal Information) in accordance with the privacy settings you have set in your SNS account, if any. Other than what we may share with the SNS or Blog in connection with your linking of accounts, the personal information a SNS or Blog has about you is obtained by the SNS or Blog independent of our Services. Other services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other online services you use
+We collect information from and about the device(s) you use to access our services, including:
 
-_**To remove yourself from these SNS connections, please log into your account, and “remove” under “services”.**_
+    * hardware and software information such as IP address, device ID and type, device-specific and apps settings and characteristics, app crashes, advertising IDs (such as Google’s AAID and Apple's IDFA, both of which are randomly generated numbers that you can reset by going into your device settings), browser type, version and language, operating system, time zones, identifiers associated with cookies or other technologies that may uniquely identify your device or browser (e.g. IMEI/UDID and MAC address);
+    * information on your wireless and mobile network connection, like your service provider and signal strength;
+    * information on device sensors such as accelerometers, gyroscopes and compasses.
+  * Other information with your consent
 
-### Compliance with Laws and Law Enforcement
+If you give us permission, we can collect your precise geolocation (latitude and longitude) through various means, depending on the service and device you’re using, including GPS, Bluetooth or Wi-Fi connections. The collection of your geolocation may occur in the background even when you aren’t using the services if the permission you gave us expressly permits such collection. If you decline permission for us to collect your geolocation, we will not collect it.
 
-Spring.me cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Spring.me or a third party, to protect the safety of the public or any person, or to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable. We reserve the right to do any of the foregoing.
+Similarly, if you consent, we may collect your photos and videos (for instance, if you want to publish a photo, video or streaming on the services). We may also collect your phone book (for instance, if you want us to reach out to your friends on your behalf).
 
-### Business Transfers
 
-Spring.me may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
 
-## Changing or Deleting Your Information
 
-All Spring.me Registered Users may review, update, correct or delete the Personal Information in their registration profile by logging into their account and changing the “user preferences” associated with their account. If you completely delete all such information, your account may be deactivated. We may retain an archived copy of your records as required by law or for legitimate business purposes. If you have any questions regarding changing or deleting your information, you may contact us at [privacy@spring.me](mailto:privacy@spring.me). We will respond to your request within 30 business days.
+#### 4\. Cookies and other similar data collection technologies
 
-## Changing Your Privacy Settings
+We use and may allow others to use cookies and similar technologies (e.g. web beacons, pixels) to recognise you and/or your device(s). You may read our [Cookie Policy](https://web.archive.org/about/cookie) for more information on why we use them (such as authenticating you, remembering your preferences and settings, analysing site traffic and trends, delivering and measuring the effectiveness of advertising campaigns, allowing you to use social features) and how you can better control their use, through your browser settings and other tools.
 
-Spring.me offers a variety of Privacy Settings that users can review and change at any time. Simply log into your account, go to “Settings” and select “Privacy” to review and adjust your settings as you wish.
+Some web browsers (including Safari, Internet Explorer, Firefox and Chrome) have a 'Do Not Track' ('DNT') feature that tells a website that a user does not want to have his or her online activity tracked. If a website that responds to a DNT signal receives a DNT signal, the browser can block that website from collecting certain information about the browser’s user. Not all browsers offer a DNT option and DNT signals are not yet uniform. For this reason, many businesses, including Twoo, do not currently respond to DNT signals.
 
-## Invite-A-Friend
+#### 5\. How we use information
 
-If you choose to use our referral service to tell a friend about our Site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Site. Spring.me stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+The main reason we use your information is to deliver and improve our services. Additionally, we use your info to help keep you safe and to provide you with advertising that may be of interest to you. Read on for a more detailed explanation of the various reasons we use your information, together with practical examples.
 
-Your friend may contact us at [privacy@spring.me](mailto:privacy@spring.me) to request that we remove this information from our database.
+To administer your account and provide our services to you
 
-## Import Contacts
+  * Create and manage your account
+  * Provide you with customer support and respond to your requests
+  * Complete your transactions
+  * Communicate with you about our services, including order management and billing
 
-We utilize an import contacts feature to help you keep in touch with your contacts and other members. We make it easy for you to invite people from your email address books to join you on our Site. At your request we will search your email address book to help you import your contacts to our site.
 
-## Security
 
-Spring.me is very concerned with safeguarding your information. We are not in the business of providing information security. We do employ limited data security measures, such as encryption, on some but not all systems. Do not provide your personal information if you are concerned with its disclosure.
+To help you connect with other users
 
-## International Transfer
+  * Analyse your profile and that of other users to recommend meaningful connections
+  * Show users’ profiles to one another
 
-Your information may be transferred to—and maintained on—computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to Spring.me, please be advised that we transfer Personal Information to the United States and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-## Phishing
 
-Identity theft and the practice currently known as “phishing” are of great concern to Spring.me. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, your login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission's website.
+To ensure a consistent experience across your devices
 
-## Links to Other Sites
+  * Link the various devices you use so that you can enjoy a consistent experience of our services on all of them. We do this by linking devices and browser data, such as when you log into your account on different devices or by using partial or full IP address, browser version and similar data about your devices to help identify and link them.
 
-The Site contains links to other websites and online services that are not owned or controlled by Spring.me. If you choose to visit an advertiser by “clicking on” a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party's website. The fact that we link to a website, content or present a banner ad or other type of advertisement is not an endorsement, authorization or representation that we are affiliated with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites or services. These other websites and services may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other websites and services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit. Spring.me is not responsible for the practices of other websites or online services.
 
-## Contacting Us
 
-If you have any questions about this Privacy Policy, please contact us at [privacy@spring.me](mailto:privacy@spring.me) or at Privacy Matters c/o spring.me, Inc., 182 Howard Street PMB #531, San Francisco, California 94105.
+To serve you relevant offers and ads
+
+  * Administer sweepstakes, contests, discounts or other offers
+  * Develop, display and track content and advertising tailored to your interests on our services and other sites
+  * Communicate with you by e-mail, phone, social media or mobile device about products or services that we think may interest you
+
+
+
+To improve our services and develop new ones
+
+  * Administer focus groups and surveys
+  * Conduct research and analysis of users’ behaviour to improve our services and content (for instance, we may decide to change the look and feel or even substantially modify a given feature based on users’ behaviour)
+  * Develop new features and services (for example, we may decide to build a new interests-based feature further to requests received from users).
+
+
+
+To prevent, detect and fight fraud or other illegal or unauthorised activities
+
+  * Address ongoing or alleged misbehaviour on and off-platform
+  * Perform data analysis to better understand and design countermeasures against these activities
+  * Retain data related to fraudulent activities to prevent against recurrences
+
+
+
+To ensure legal compliance
+
+  * Comply with legal requirements
+  * Assist law enforcement
+  * Enforce or exercise our rights, for example the ones laid out in our Terms
+
+
+
+To process your information as described above, we rely on the following legal bases:
+
+  * Provide our service to you: Most of the time, the reason we process your information is to perform the contract that you have with us. For instance, as you go about using our service to build meaningful connections, we use your information to maintain your account and your profile, to make it viewable to other users and recommend other users to you.
+  * Legitimate interests: We may use your information where we have legitimate interests to do so. For instance, we analyse users’ behaviour on our services to continuously improve our offerings, we suggest offers we think might interest you, and we process information for administrative, fraud detection and other legal purposes.
+  * Consent: From time to time, we may ask for your consent to use your information for certain specific reasons. You may withdraw your consent at any time by contacting us at the address provided at the end of this Privacy Policy.
+
+
+
+#### 6\. How we share information
+
+Since our goal is to help you make meaningful connections, the main sharing of users’ information is, of course, with other users. We also share some users’ information with service providers and partners who assist us in operating the services, with other Match Group companies and, in some cases, legal authorities. Read on for more details about how your information is shared with others.
+
+  * With other users
+
+You share information with other users when you voluntarily disclose information on the service (including your public profile). Please be careful with your information and make sure that the content you share is stuff that you’re comfortable being publicly viewable. Neither you nor we can control what others do with your information once you share it.
+
+If you choose to limit the audience for your profile or for certain content or information about you, then it will be visible according to your Settings.
+
+  * With our service providers and partners
+
+We use third parties to help us operate and improve our services. These third parties assist us with various tasks, including data hosting and maintenance, analytics, customer care, marketing, advertising, payment processing and security operations.
+
+We may also share information with partners who distribute and assist us in advertising our services. For instance, we may share limited information on you in hashed, non-human readable form to advertising partners.
+
+We follow a strict vetting process prior to engaging any service provider or working with any partner. All of our service providers and partners must agree to strict confidentiality obligations.
+
+  * With other Match Group businesses
+
+Twoo is part of the Match Group family of businesses which, as of the date of this Privacy Policy, includes websites and apps such as Tinder, OkCupid, Plenty of Fish, Match, Meetic, BlackPeopleMeet, LoveScout24, OurTime, Pairs and ParPerfeito (for more details, click [here](http://mtch.com/)).
+
+We share your information with other Match Group companies to benefit you in two respects:
+
+    * for other Match Group companies to assist us in processing your information, as service providers, upon our instructions and on our behalf. Assistance provided by other Match Group companies may include technical processing operations, such as data hosting and maintenance, customer care, marketing and targeted advertising, finance and accounting assistance, better understanding how our service is used and users’ behaviour to improve our service, securing our data and systems and fighting against spam, abuse, fraud, infringement and other wrongdoings.
+    * In order to improve your chances at building significant connections with others, we may give you opportunities to be visible on other Match Group services or to benefit from cross-platform functionalities. We will of course comply with applicable law and, where relevant, notify you of any such opportunity and allow you to agree or to refuse. Examples of such opportunities may include the creation of a new service within Match Group, addressing a specific demographic that we feel would be interesting to you based on your search criteria.
+
+We may also share information with other Match Group companies for legitimate business purposes such as corporate audit, analysis and consolidated reporting as well as compliance with applicable laws. We may also share user information with other Match Group companies to remove users who violate our terms of service, or have been reported for criminal activity and/or bad behaviour. In some instances, we may remove that user from all platforms.
+
+  * For corporate transactions
+
+We may transfer your information if we are involved, whether in whole or in part, in a merger, sale, acquisition, divestiture, restructuring, reorganisation, dissolution, bankruptcy or other change of ownership or control.
+
+  * When required by law
+
+We may disclose your information if reasonably necessary: (i) to comply with a legal process, such as a court order, subpoena or search warrant, government / law enforcement investigation or other legal requirements; (ii) to assist in the prevention or detection of crime (subject in each case to applicable law); or (iii) to protect the safety of any person.
+
+  * To enforce legal rights
+
+We may also share information: (i) if disclosure would mitigate our liability in an actual or threatened lawsuit; (ii) as necessary to protect our legal rights and legal rights of our users, business partners or other interested parties; (iii) to enforce our agreements with you; and (iv) to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing.
+
+  * With your consent or at your request
+
+We may ask for your consent to share your information with third parties. In any such case, we will make it clear why we want to share the information.
+
+We may use and share non-personal information (meaning information that, by itself, does not identify who you are such as device information, general demographics, general behavioural data, geolocation in de-identified form), as well as personal information in hashed, non-human readable form, under any of the above circumstances. We may also share this information with other Match Group companies and third parties (notably advertisers) to develop and deliver targeted advertising on our services and on websites or applications of third parties, and to analyse and report on advertising you see. We may combine this information with additional non-personal information or personal information in hashed, non-human readable form collected from other sources. More information on our use of cookies and similar technologies can be found in our [Cookie Policy](https://web.archive.org/about/cookie).
+
+
+
+
+#### 7\. Cross-border data transfers
+
+Sharing of information laid out in Section 6 sometimes involves cross-border data transfers, for instance to the United States of America and other jurisdictions. As an example, where the service allows for users to be located in the European Economic Area ('EEA'), their personal information is transferred to countries outside of the EEA. We use standard contract clauses approved by the European Commission or other suitable safeguard to permit data transfers from the EEA to other countries. Standard contractual clauses are commitments between companies transferring personal data, binding them to protect the privacy and security of your data.
+
+#### 8\. Your rights
+
+We want you to be in control of your information, so we have provided you with the following tools:
+
+  * Access / Update tools in the service.
+
+Tools and account settings that help you to access, rectify or delete information that you provided to us and that’s associated with your account directly within the service. If you have any question on those tools and settings, please contact our [Help Desk](https://web.archive.org/faq?category=CONTACT&id=MAIL_LTR).
+
+  * Device permissions.
+
+Mobile platforms have permission systems for specific types of device data and notifications, such as phone book and location services as well as push notifications. You can change your settings on your device to either consent or oppose the collection of the corresponding information or the display of the corresponding notifications. Of course, if you do that, certain services may lose full functionality.
+
+  * Deletion.
+
+You can delete your account by using the corresponding functionality directly on the service.
+
+
+
+
+We want you to be aware of your privacy rights. Here are a few key points to remember:
+
+  * Reviewing your information.
+
+Applicable privacy laws may give you the right to review the personal information we keep about you (depending on the jurisdiction, this may be called right of access, right of portability or variations of those terms). You can request a copy of your personal information by putting in such a request [here](https://web.archive.org/faq?category=CONTACT&id=MAIL_LTR).
+
+  * Updating your information.
+
+If you believe that the information we hold about you is inaccurate or that we are no longer entitled to use it and want to request its rectification, deletion or object to its processing, please contact us [here](https://web.archive.org/faq?category=CONTACT&id=MAIL_LTR).
+
+
+
+
+For your protection and the protection of all of our users, we may ask you to provide proof of identity before we can answer the above requests.
+
+Keep in mind, we may reject requests for certain reasons, including if the request is unlawful or if it may infringe on trade secrets or intellectual property or the privacy of another user. If you wish to receive information relating to another user, such as a copy of any messages you received from him or her through our service, the other user will have to contact our Privacy Officer to provide their written consent before the information is released.
+
+Also, we may not be able to accommodate certain requests to object to the processing of personal information, notably where such requests would not allow us to provide our service to you anymore. For instance, we cannot provide our service if we do not have your date of birth.
+
+  * Uninstall.
+
+You can stop all information collection by an app by uninstalling it using the standard uninstall process for your device. If you uninstall the app from your mobile device, the unique identifier associated with your device will continue to be stored. If you re-install the application on the same mobile device, we will be able to re-associate this identifier to your previous transactions and activities.
+
+  * Accountability.
+
+In certain countries, including in the European Union, you have a right to lodge a complaint with the appropriate data protection authority if you have concerns about how we process your personal information. The data protection authority you can lodge a complaint with notably may be that of your habitual residence, where you work or where we are established.
+
+
+
+
+#### 9\. Residents of California
+
+If you are a California resident, you can request a notice disclosing the categories of personal information about you that we have shared with third parties for their direct marketing purposes during the preceding calendar year. To request this notice, please submit your request [here](https://web.archive.org/faq?category=CONTACT&id=MAIL_LTR). Please allow 30 days for a response. For your protection and the protection of all of our users, we may ask you to provide proof of identity before we can answer such a request.
+
+#### 10\. How we protect your information
+
+We work hard to protect you from unauthorised access to or alteration, disclosure or destruction of your personal information. As with all technology companies, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information will always remain secure.
+
+We regularly monitor our systems for possible vulnerabilities and attacks and regularly review our information collection, storage and processing practices to update our physical, technical and organisational security measures.
+
+We may suspend your use of all or part of the services without notice if we suspect or detect any breach of security. If you believe that your account or information is no longer secure, please notify us immediately [here](https://web.archive.org/faq?category=CONTACT&id=MAIL_LTR).
+
+In order to ensure that our systems and your information are protected against unauthorised access, theft and loss, we implemented a bug bounty program. For more information about our bug bounty program, please [contact us](https://web.archive.org/faq?category=CONTACT&id=MAIL_LTR).
+
+#### 11\. How long we retain your information
+
+We keep your personal information only as long as we need it for legitimate business purposes (as laid out in Section 5) and as permitted by applicable law. To protect the safety and security of our users on and off our services, we implement a safety retention window of three months following account deletion. During this period, account information will be retained although the account will of course not be visible on the services anymore.
+
+In practice, we delete or anonymise your information upon deletion of your account (following the safety retention window) or after two years of continuous inactivity, unless:
+
+  1. we must keep it to comply with applicable law (for instance, some 'traffic data' is kept for one year to comply with statutory data retention obligations);
+  2. we must keep it to evidence our compliance with applicable law (for instance, records of consents to our Terms, Privacy Policy and other similar consents are kept for five years);
+  3. there is an outstanding issue, claim or dispute requiring us to keep the relevant information until it is resolved; or
+  4. the information must be kept for our legitimate business interests, such as fraud prevention and enhancing users' safety and security. For example, information may need to be kept to prevent a user who was banned for unsafe behaviour or security incidents from opening a new account.
+
+
+
+Keep in mind that even though our systems are designed to carry out data deletion processes according to the above guidelines, we cannot promise that all data will be deleted within a specific time frame due to technical constraints.
+
+#### 12\. Children's privacy
+
+Our services are restricted to users who are 18 years of age or older. We do not permit users under the age of 18 on our platform and we do not knowingly collect personal information from anyone under the age of 18. If you suspect that a user is under the age of 18, please use the 'Report abuse' option available through the service. 
+
+#### 13\. Privacy policy changes
+
+Because we’re always looking for new and innovative ways to help you build meaningful connections, this policy may change over time. We will notify you before any material changes take effect so that you have time to review the changes.
+
+#### 14\. How to contact us
+
+If you have questions about this Privacy Policy, here’s how you can reach us:
+
+Online: [here](https://web.archive.org/faq?category=CONTACT&id=MAIL_LTR)
+
+By post:
+
+Privacy Officer  
+Massive Media Match NV  
+Emile Braunplein 18  
+9000 Ghent  
+Belgium 
