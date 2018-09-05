@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myecon.net privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519160810id_/http%3A//myecon.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myecon.net privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905082504id_/https%3A//www.myecon.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - myEcon
 
