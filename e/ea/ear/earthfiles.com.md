@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthfiles.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527211945id_/https%3A//www.earthfiles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthfiles.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905150849id_/https%3A//www.earthfiles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Earthfiles
 
