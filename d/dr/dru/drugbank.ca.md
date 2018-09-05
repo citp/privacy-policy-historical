@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drugbank.ca privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712193231id_/https%3A//www.drugbank.ca/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugbank.ca privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905220634id_/https%3A//www.drugbank.ca/legal/privacy_policy) for the most accurate reproduction.*
 
-# DrugBank
+# DrugBank Privacy Policy - DrugBank
 
 _Effective June 20, 2016_
 
@@ -43,10 +43,6 @@ To learn about your user experience and to make periodic improvements to the Pla
 We use “cookies” to collect information and improve the Platform. A cookie is a small data file that we transfer to your computer or mobile device. We may use “persistent cookies” to save your user ID and login password for future logins to the Platform. We may use “session ID cookies” to enable certain features of the Platform, to better understand how you interact with the Platform and to monitor aggregate usage and web traffic routing on the Platform. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the Platforms you visit. If you do not accept cookies, however, you may not be able to use all aspects of the Platform.
 
 OMx may use the data collected from “cookies” and web browsers for its own purposes, both related to and unrelated to improving the Platform and other services. In the event we disclose this data to any third-party for any purposes, it will be used anonymously and stripped of any and all personal or identifying information.
-
-We also make use of technology developed by TrendMD Inc. (“TrendMD”). TrendMD’s technology monitors and records your interactions with the Platform and recommends additional scholarly content that may be of interest to you. By making use of the Service and Platform, you acknowledge and agree to TrendMD’s technology automatically or passively collecting information about your usage of the Platform and recommending scholarly content.
-
-Details of how TrendMD collects, stores, and protects the data it obtains as a result of your use of the Platform can be found in their Privacy Policy here: https://www.trendmd.com/privacy.
 
   2. Deleting Your Information
 
