@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the swissmine.club privacy policy that was archived on 2018-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180410061705id_/https%3A//network.ducatus.net/assets/contents/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swissmine.club privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905210408id_/https%3A//network.ducatus.net/assets/contents/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ducatus Network
 
-Centurion Global Limited operates https://www.swissmine.club (the “Site”). This informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site. We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. You understand and agree that this may involve the transmission and storage of your personal data outside the country in which you live or of which you are a passport holder.
+Centurion Global Limited operates https://network.ducatus.net (the “Site”). This informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site. We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. You understand and agree that this may involve the transmission and storage of your personal data outside the country in which you live or of which you are a passport holder.
 
 While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to your name, gender, age, date of birth, address, nationality and one or more email addresses (“Personal Information”).
 
