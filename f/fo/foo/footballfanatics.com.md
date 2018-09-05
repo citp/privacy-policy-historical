@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footballfanatics.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708105442id_/https%3A//fanatics.custhelp.com/app/answers/detail/a_id/129/theme/standard) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballfanatics.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905192533id_/https%3A//fanatics.custhelp.com/app/answers/detail/a_id/129/theme/standard) for the most accurate reproduction.*
 
 # What is your privacy policy?
 
@@ -10,14 +10,14 @@ Your Consent
 
 By accessing and using the Properties, you consent to the collection, use and disclosure of your information in accordance with this Privacy Policy and you agree to be legally bound by its terms. IF YOU DO NOT AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY, YOU MAY NOT ACCESS OR USE THE PROPERTIES.
 
-[How Do We Collect and Use Personal Information?](https://fanatics.custhelp.com/euf/generated/optimized/1497384579/themes/standard/#Collect)  
-[How Do We Collect and Use Non-Personally Identifiable and Aggregated Information?](https://fanatics.custhelp.com/euf/generated/optimized/1497384579/themes/standard/#Non-Personally)  
-[How Can You Opt-Out?](https://fanatics.custhelp.com/euf/generated/optimized/1497384579/themes/standard/#optout)  
-[How Can You Access Your Personal Information?](https://fanatics.custhelp.com/euf/generated/optimized/1497384579/themes/standard/#Access)  
-[Is Your Personal Information Secure?](https://fanatics.custhelp.com/euf/generated/optimized/1497384579/themes/standard/#Personall)  
-[Can Children Use Our Site?](https://fanatics.custhelp.com/euf/generated/optimized/1497384579/themes/standard/#Children)  
-[What about Third-Party Websites and Social Media Services?](https://fanatics.custhelp.com/euf/generated/optimized/1497384579/themes/standard/#Third_Party)  
-[Other Notices and Important Information](https://fanatics.custhelp.com/euf/generated/optimized/1497384579/themes/standard/#Othernot)
+[How Do We Collect and Use Personal Information?](https://fanatics.custhelp.com/euf/generated/optimized/1534279179/themes/standard/#Collect)  
+[How Do We Collect and Use Non-Personally Identifiable and Aggregated Information?](https://fanatics.custhelp.com/euf/generated/optimized/1534279179/themes/standard/#Non-Personally)  
+[How Can You Opt-Out?](https://fanatics.custhelp.com/euf/generated/optimized/1534279179/themes/standard/#optout)  
+[How Can You Access Your Personal Information?](https://fanatics.custhelp.com/euf/generated/optimized/1534279179/themes/standard/#Access)  
+[Is Your Personal Information Secure?](https://fanatics.custhelp.com/euf/generated/optimized/1534279179/themes/standard/#Personall)  
+[Can Children Use Our Site?](https://fanatics.custhelp.com/euf/generated/optimized/1534279179/themes/standard/#Children)  
+[What about Third-Party Websites and Social Media Services?](https://fanatics.custhelp.com/euf/generated/optimized/1534279179/themes/standard/#Third_Party)  
+[Other Notices and Important Information](https://fanatics.custhelp.com/euf/generated/optimized/1534279179/themes/standard/#Othernot)
 
 How Do We Collect and Use Personal Information?
 
