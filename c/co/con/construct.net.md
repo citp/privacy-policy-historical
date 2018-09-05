@@ -1,149 +1,179 @@
-> *The following text is extracted and transformed from the construct.net privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630182742id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the construct.net privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905025503id_/https%3A//www.construct.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-#### Find Answers To Your Questions:
+Last updated Friday, May 25, 2018
 
-Search by keyword or browse by category for immediate answers to frequently asked questions: 
+The Scirra Privacy Policy describes the privacy practices of Scirra’s apps and websites.  
 
-### Privacy Policy
+Please note that in order to use our apps and websites, you authorize Scirra to transfer your personal information across national borders and to other countries where Scirra and its data processing partners operate, including the United States. The privacy protections and rights of authorities to access your information in these countries may not be equivalent to those in your country. We will only transfer your personal information to these countries where permitted to do so by law and we will take steps intended to ensure that your personal information continues to receive appropriate protections. 
 
-**Why A Privacy Policy?**  
+If the content or information that you store on Scirra apps or websites contains personal information of other individuals, you must be legally permitted to share the personal information with Scirra.
 
-  
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
+## Summary of Key Points
 
- **This Privacy Policy protects your privacy by:**
+Where your consent is required, we will obtain your permission before (i) sending you news and promotional material about Scirra; (ii) accessing information stored on your device relating to your use of, and engagement with, websites and apps and bug reports; and (iii) using automated systems to analyze your content. You can withdraw your consent to such activities at any time. 
 
- **Informing you about:**
+This policy explains when we process personal information for our legitimate interests. You can ask us to stop processing this information. 
 
-  * The types of personal information Network Solutions collects about you through its Web sites; 
-  * How it collects that information; 
-  * The general purposes for which it collects such information; 
-  * The types of organizations to which it discloses the information; 
-  * The choices and means by which individuals may limit its use and disclosure. 
+We use your personal information to enable you to register with Scirra and to provide you with our websites and apps. 
 
+There are several places within our websites and apps that allow you to post comments, upload pictures, or submit content which will be publicly available where you choose to participate in these activities. We also share information with third parties we engage to process information on our behalf or when such sharing is required by law, or in certain other situations.
 
+We transfer your personal information to the USA as a number of our servers and the servers of our data processors are based there.
 
-**Empowering you to choose:**
+## What does this privacy policy cover?
 
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and 
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it). 
+This privacy policy describes how Scirra (also referred to as "we," "us" or "our") will make use of your information in the context of:
 
-
-
-**Assuring you that Network Solutions:**
-
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction; 
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered; 
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and 
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate. 
+  * Scirra websites, specifically www.construct.net and www.scirra.com 
+  * Desktop apps and mobile apps (both referred to as "apps") that include a reference to this policy; and
+  * Scirra’s marketing, sales, and advertising practices. 
 
 
 
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
+Please also see the Scirra Terms and Conditions and End User License agreement that may apply to the app or website you are using. 
 
-  
-**Third Party Advertising and Cookies**
+## What information does Scirra collect about me?
 
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit 
+### Scirra registration, purchase and customer support
 
-[http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy) and <http://www.accipiter.com/company/privacy.php>. 
+We ask you to log in and provide certain personal information (such as your email address) in order to be able to save your profile. In order to enable these or any other login based features, we use cookies to store session information for your convenience. You can block or delete cookies and still be able to use Construct.net, although many interactive features will become unavailable. 
 
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click 
+In order to take advantage of certain features of the Website, you may also choose to provide us with other personal information, such as your picture or other personal details, but your decision to utilize these features and provide such data will always be voluntary. 
 
-[here](http://www.privacychoices.org/).   
-**Information Corrections or Changes**  
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
+If you choose to make purchases from us some additional personal information such as your name, delivery email address, Full name, Full address, Phone number and VAT data may be mandatory to complete the purchase. 
 
-**How We Put Information to Good Use**  
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
+### Cookies
 
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+Cookies are small text files stored by your web browser when you use websites. You can control how websites use cookies by configuring your browser's privacy settings (please refer to your browser's help function to learn more about cookie controls). Note that if you disable cookies entirely, our websites may not function properly.
 
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
+We use cookies in several ways, such as:
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
+  * Authenticating and identifying you on our websites so we can provide you the services you requested
+  * Keeping track of information you have provided to us 
+  * Providing you the Scirra websites that you use
+  * Remembering your preferences or where you left off in your use of a website
+  * Measuring your use of our websites so that we can improve them, tailor our websites to your likely interests, and conduct market research 
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
 
- **Getting to Know Our Customers**
 
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
+### Scirra apps and website
 
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at 
+We collect anonymous data from every visitor of the Website to monitor traffic and fix bugs. For example, we collect information like web requests, the data sent in response to such requests, the Internet Protocol address, the browser type, the browser language, and a timestamp for the request.
 
-[www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
+### Scirra emails
 
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
+We may contact you, by email or other means. For example, we may send you promotional emails relating to Construct.net, or other third parties we feel you would be interested in, or communicate with you about your use of the Construct.net website. We may also use technology to alert us via a confirmation email when you open an email from us. You can modify your email notification preferences by clicking the appropriate link included in the footer of email notifications. If you do not want to receive email from Construct.net, please opt out of receiving emails at the bottom of any Construct.net emails or by editing your profile preferences.
 
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
+### Buttons, tools and content from other companies
 
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
+We also use social buttons provided by services like Twitter, Google+, LinkedIn and Facebook. Your use of these third party services is entirely optional. We are not responsible for the privacy policies and/or practices of these third party services, and you are responsible for reading and understanding those third party services’ privacy policies.
 
-**With Whom We May Share Information**  
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
+## How does Scirra use the information it collects about me and what are the legal bases for these uses?
 
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
+We use the information we collect about you for the following purposes:
 
-We may share certain information about you with our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors when necessary and appropriate, we will not share such information with any other third parties unless directed by you or except in response to formal requests in the form of a subpoena or court order issued in connection with civil or criminal proceedings related to a domain name registration or other services we provide, or in response to requests by law enforcement agencies when we suspect that you or your agent is using our services to cause harm or damage to us or others or adversely affect our ability to provide services to our customers
+  * To fulfill a contract, or take steps linked to a contract: this is relevant where you register to use a Scirra app or website (whether paid, or as a free trial). This includes: 
+    * Providing you with the websites and apps for which you have registered,;
+    * Verifying your identity;
+    * Taking payments;
+    * Sending you necessary communications (for example, related to payments or expiration of your subscription); and
+    * Providing customer service or support.
+  * As required by us to conduct our business and pursue our legitimate interests, in particular: 
+    * Providing you with the websites and apps for which you have registered and any other products and services you have requested;
+    * Analyzing your use and measuring effectiveness of our websites and apps to better understand how they are being used so we can improve them and engage and retain users;
+    * Sending you information about our products and services, special offers and similar information, and sharing your information with third parties for their own marketing purposes (where your consent is not required);
+    * Analyzing your use of our websites and apps, and interaction with our communications, to tailor and customize the website or app, and marketing communications;
+    * Diagnosing problems in our apps and websites;
+    * Conducting surveys and market research about our customers, their interests, the effectiveness of our marketing campaigns, and customer satisfaction (unless we need consent to undertake such surveys, in which case we will only do this with your permission);
+    * Investigating and responding to any comments or complaints that you may send us;
+    * Checking the validity of the sort code, account number and card number you submit if you use a credit or debit card for payment, in order to prevent fraud (we use third parties for this – see “Does Scirra share my personal information?” below); and
+    * In connection with legal claims, compliance, regulatory and investigative purposes as necessary (including disclosure of information in connection with legal process or litigation).
+  * Where you give us your consent or otherwise consistent with your choices: 
+    * Sending you information about our products and services, special offers and similar information, and sharing your information with third parties for their own marketing purposes (where your consent is required);
+    * Placing cookies and using similar technologies on our websites, on our apps and in email communications, in accordance with our Cookies Policy and the information provided to you when those technologies are used;
+    * Accessing information stored on your device relating to your use of, and engagement with, websites and apps and bug reports;
+    * On other occasions where we ask you for consent, we will use the information for the purposes which we explain at that time.
+  * For legal reasons:  Responding to requests by government or law enforcement authorities conducting an investigation. To detect, prevent, or otherwise address fraud, security or technical issues and software piracy (e.g., to confirm that software is genuine and properly licensed), helping to protect you as well as Scirra. 
 
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/manage-it/);
 
-b. Click “Edit User Info” in the left menu;
+## Does Scirra share my personal information?
 
-c. Scroll to the bottom of the page;
+### Sharing with other Data Controllers
 
-d. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
+We will share personal information with companies, organizations or individuals outside of Scirra if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to detect, prevent, or otherwise address fraud, security or technical issues, as well as to protect against harm to the rights, property or safety of Scirra, our users, or the public as required or permitted by law.
 
-e. Click “SAVE.”
+### Sharing with Data Processors
 
-  
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
+We will also share your personal information with companies that help us to run our business by processing personal information on our behalf for the purposes identified above. Such companies include providers of customer support services, payment processing services, fraud monitoring and prevention, email, social media, and other marketing platforms and service providers, and hosting services. 
 
- **How Do I Get My Name Removed from Bulk Access**  
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
+Aggregated, anonymized data is periodically transmitted to external services to help us improve the Construct.net Website and service, except for Google Analytics where your numeric user ID is also transmitted. 
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com);
+### Other Information Sharing
 
-b. Click “Edit User Info” in the left menu;
+We may also share your personal information:
 
-c. Scroll to the bottom of the page;
+  * When you agree to the sharing;
+  * When we are required to provide information in response to a subpoena, court order, or other applicable law or legal process;
+  * When we have a good faith belief that the disclosure is necessary to prevent or respond to fraud, defend our apps or websites against attacks, or protect the property and safety of Scirra, our customers and users, or the public;
+  * If we merge with or are acquired by another company, sell a Scirra website, or app, or if all or a substantial portion of our assets are acquired by another company, your information will likely be disclosed to our advisers and any prospective purchaser's advisers and will be one of the assets that is transferred to the new owner.
 
-d. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
 
-e. Click “SAVE.” 
 
-**Our Accountability to You**  
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
+## Is my personal information displayed anywhere within Scirra’s apps or websites?
 
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
+There are several places within our websites and apps that allow you to post comments, upload pictures, or submit content for others to see. You must assume that what you share in these areas (for example, our Forums) can be seen by the general public or other users of the app or website. Please be careful when you share your personal information. Do not share anything you wouldn’t want publicly known. Anything you do post in these areas is done under the Creative Commons license and is consequently freely available to be used by others. Please note that when you post messages on certain user forums on our websites and app, your email address or name and/or profile photo may be included and displayed with your message.
 
-**Employee Accountability**  
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
+To remove content you have shared on our websites and apps, please use the same app or website feature you used to share the content. If you have questions or concerns about this, please contact us.
 
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
+## Is my personal information secure?
 
-**The Accountability of Network Solutions' Agents and Business Partners**  
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
+We employ industry standard techniques to protect against unauthorized access of data about you that we store, including personal information.
 
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at 
+## Where does Scirra store my personal information?
 
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
+Your personal information and files are stored on Scirra’s servers and the servers of companies we hire to provide services to us.
 
-Network Solutions, LLC  
-Attention: General Counsel  
-13861 Sunrise Valley Dr   
-Suite 300   
-Herndon VA 20171   
-United States  
-(703) 668-4600 
+## Does Scirra transfer my personal information across national borders?
 
-**Notification of Changes**  
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to 
+We may transfer your personal information across national borders to other countries in compliance with applicable laws. At present this is limited to transfer to the USA where our servers and the servers of our hosting service provider are sited.
 
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com).
+## What rights do I have in respect of my personal information and how can I exercise these?
 
- **If you have any questions regarding this Privacy Policy, please contact[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
+Under the law of some countries, you may have the right to ask us for a copy of your personal information; to correct, delete or restrict (stop any active) processing of your personal information; and to obtain the personal information you provide to us for a contract or with your consent in a structured, machine readable format, and to ask us to share (port) this information to another controller.
+
+In addition, you can object to the processing of your personal information in some circumstances (in particular, where we don’t have to process the information to meet a contractual or other legal requirement, or where we are using the information for direct marketing).
+
+These rights may be limited, for example, if fulfilling your request would reveal personal information about another person, or if you ask us to delete information which we are required by law to keep or have compelling legitimate interests in keeping (such as fraud prevention purposes).
+
+To exercise any of these rights (including deactivating your Scirra account), you can get in touch with us – or our data protection officer – using the details set out below. Additionally, our websites and apps allow you to edit your personal information by accessing the "my account," "my profile," or a similar feature of the app or website you are using. Likewise, you can delete files or photos you have stored in our websites and apps by logging in and using the deletion functions that are available.
+
+If you have unresolved concerns, you have the right to report them to an EU or other data protection authority where you live, work or where you believe a potential violation may have occurred.
+
+To create a Scirra or Construct.net account, and to use some Scirra websites, apps, products or services, the provision of some information is mandatory: if relevant information is not provided, then we will not be able to administer a Scirra account to you, or provide you with the websites, apps, products or services requested. All other provision of your information is optional.
+
+## Withdrawing consent or otherwise objecting to direct marketing
+
+Wherever we rely on your consent, you will always be able to withdraw that consent, although we may have other legal grounds for processing your information for other purposes, such as those set out above. In some cases, we are able to send you direct marketing without your consent, where we rely on our legitimate interests. You have an absolute right to opt-out of direct marketing, or profiling we carry out for direct marketing, at any time by:
+
+  * updating your preferences in your specific website or app accounts;
+  * clicking the unsubscribe link at the bottom of our marketing emails; or
+  * contacting us using the details provided at the end of this privacy policy.
+
+
+
+## How long does Scirra retain my information?
+
+When you register for a Scirra or Constrcut.net account, we process and keep most personal information we have about you for as long as you are an active user of our products, services or apps. When you close your account, after 60 days we begin deleting certain personal information that we no longer have a business reason to retain, such as social media profiles, name, website reference etc. . However, we typically retain personal information related to our contract and business transactions with you for seven years after your last interaction with us.
+
+Where we process personal information for marketing purposes or with your consent, we process the information until you ask us to stop and for a short period after this (to allow us to implement your requests). We also keep a permanent record of the fact that you have asked us not to send you direct marketing or to process your information so that we can respect your request in future.
+
+## Will this privacy policy change?
+
+We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make major changes in the way we collect or use information, we will notify you by posting an announcement on the Website or sending you an email. Since "major" is subjective, we recommend you monitor the "last updated" date at the top of this page. A user is bound by any changes to the Privacy Policy when he or she uses the Services after such changes have been first posted.
+
+## Who can I contact with questions or concerns?
+
+If you have a privacy question, concern, or request, please email Scirra's Data Protection Officer at ten.tcurtsnocjpq@troppus.
