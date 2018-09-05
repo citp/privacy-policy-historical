@@ -1,59 +1,199 @@
-> *The following text is extracted and transformed from the wowowow.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625083133id_/https%3A//www.purewow.com/entry_name/national/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowowow.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905101546id_/https%3A//purewow-prodstatics3azcdn.azureedge.net/sales/PureWow_Privacy_Policy_libreoffice.pdf) for the most accurate reproduction.*
 
-# Privacy Policy | PureWow
+# PRIVACY POLICYThis policy was last modified on June 7, 2018.
 
-Wow Media Products, Inc. takes very seriously the private nature of your personal information. This Privacy Policy describes how we treat the information we collect when you register for and view our Daily Email or visit our Web Site. Please read this notice carefully.
+                                       PRIVACY POLICY
+This policy was last modified on June 7, 2018.
+The website you have entered (purewow.com, its sub-domains, affiliated websites, and any
+services available therefrom, including any mobile versions of the website or mobile
+applications) (the “Site”) is operated by Wow Media Products, Inc. d/b/a PureWow and its
+affiliates (“PureWow,” “we” or “us”). We respect your privacy rights and recognize the
+importance of protecting data collected from you and about you. This privacy policy (the
+“Privacy Policy”) describes how we collect, use, share, and protect that data.
+If you do not accept and agree with this Privacy Policy, you must stop using the Site
+immediately. Your continued use of the Site constitutes your acceptance of this Privacy
+Policy.
+1.       Collection of Data
+         a.     We collect personal data when you voluntarily provide it to us.
+We collect personal data from you in several different ways on the Site. Personal data means
+information that can reasonably be used to identify you personally (such as your name, phone
+number, address, and email address). We collect this personal data when you voluntarily provide
+it to us (such as when you submit an inquiry or apply for a job online). You can choose not to
+provide the requested data, but you might not be able to take advantage of certain Site features.
+         b.     We automatically collect data about your browser or device and your use of
+the Site.
+Upon the launch of the fully functional Site, when you access and use the Site, our technology
+and tools may automatically collect and record certain data (which does not identify you as an
+individual) about your use of the Site (your IP address, browser type, the make and model of
+device used to view the Site, unique device identifiers, the referring web page, pages visited,
+search terms and other information relating to your use of the Site, browser or device).
+         c.     Third-parties may also automatically collect data about you.
+Upon the launch of the fully functional Site, some embedded content on the Site may be served
+by third-party content providers. Please note that these companies may also use cookies, pixels,
+tags or other similar technologies to collect data about you, both on the Site and throughout the
+Internet. Data collection and use by those third-parties is subject to the privacy policies of those
+third-parties.
+         d.     Our “Do Not Track” (DNT) Policy
+Some websites have “do not track” features that allow you to tell a website not to track you. We
+do not currently respond to those signals or similar mechanism transmitted by web browsers. To
 
-#### Personal Information
 
-To receive your PureWow e-mails, we require your e-mail address. Similarly, to provide you with text messaging services, we need your phone number and your provider information. So that we may provide you with additional services, we may also request your name, geographical coordinates, and telephone number. PureWow does not collect any other personally identifiable information that you do not expressly provide. PureWow will never sell, rent or share your personal information, including your e-mail address, with any third parties for marketing purposes without your express permission. PureWow may share your personal information for the purpose of delivering our e-mail to you or as required by law.
+learn more about browser tracking signals and DNT, please visit http://allaboutdnt.org.
+2.      Use of Collected Data
+We collect and use the types of data described above to assist in the administration and operation
+of the Site and to provide you an efficient, meaningful, and customized experience. We may use
+the data to:
+    ● Fulfill our obligations with respect to the reason you volunteered the data (e.g., to
+        respond to an inquiry, evaluate your job application, etc.);
+    ● Allow you to participate in certain features of the Site;
+    ● Improve the Site or our products, events and services;
+    ● Optimize your experience on the Site (e.g., troubleshooting technical programs, storing
+        your preferences, etc.);
+    ● Notify you about changes to the Site (including this Privacy Policy);
+    ● Carry out our obligations and enforce our rights arising from arrangements between you
+        and us; and
+    ● For any other purpose with your consent or as permitted by law.
+Additionally, we may use the data for marketing purposes to:
+    ● Provide you with additional information regarding products, events and services from
+        PureWow, and its subsidiaries and affiliated companies via email or through advertising
+        on various social media platforms or websites (both desktop and mobile) that you may
+        visit; and
+    ● Develop, improve, and target our promotional messaging to you and others via
+        retargeting, online behavioral advertising, and use of social media platform tools for
+        advertising (such as creation of Facebook Lookalike Audiences).
+You can learn more about Facebook ads HERE and other types of online advertising HERE.
+3.      Legal Basis for Processing Personal Data
+To the extent you provide us with personal data, we are processing your personal data under the
+following lawful basis:
+        a.       Consent: by clicking the opt-in button on the Site you consent to permit us to
+process your personal data for the purposes set forth in this Privacy Policy.
+        b.       Processing necessary for compliance with legal obligations.
+4.      Third-Party Websites and Third-Party Embedded Content
+We do not control the privacy policies of third-party websites, our affiliates, service providers,
+and business partners which may be accessed, directly or indirectly, through your use of the Site
+once launched and fully functional. Any data you provide to, or that is collected by, third-party
+sites may be subject to the privacy policies of those sites (including third-party content
+embedded on the Site), if any. It is up to you to review the terms of use and privacy policy of
 
-#### Non-Personal Information
 
-We may also request non-personally identifiable information, such as annual income, buying preferences or age, also known as demographic and profile data, though this information is optional. We may use this data to improve our daily email and site and/or tailor your experience, showing you or delivering you by email content that we think might be of interest to you, and displaying content according to your preferences. We may also share this information with others, such as advertisers interested in advertising in PureWow emails or on our site, in aggregate, anonymous form, which means that the information will not contain any personally identifiable information about you or any other person.
+third-party websites or third-party content originators once the Site is launched and fully
+functional.
+5.      How We Share Data
+        a.      Affiliates and Subsidiaries. We may share your data collected on this Site with
+our subsidiaries or affiliated companies.
+        b.      Service Providers. We may provide collected data to our service providers. They
+may use your data to perform services for us and may have access to, store and process your
+personal data to provide services on our behalf.
+        c.      Sponsors or Event Partners. In the instance of ticketed events, we may share
+your personal data with sponsors or event partners.
+        d.      Law Enforcement and Safety. We may also share or disclose your data to
+comply with a court order or other legal obligation, to enforce the Site terms of use, and to
+protect the rights, property or safety of our users and other third-parties. We may disclose data to
+government or law enforcement officials or private parties as we determine, in our sole and
+absolute discretion, is necessary or appropriate to respond to claims or to comply with legal
+processes, to comply with laws, regulations or ordinances or to prevent or stop illegal, unethical
+or actionable activity.
+        e.      Business Transfer. In the event that the PureWow undergoes a merger,
+acquisition by another company or sale of its assets, your data will, in most instances, be part of
+the assets transferred.
+6.      Your Rights under the GDPR
+If you are accessing the Site from the European Economic Area, which includes the European
+Union, Iceland, Liechtenstein, and Norway, you have the following rights under the General
+Data Protection Regulation (GDPR).
+        a.      Right to be informed about the collection and use of your personal data
+        b.      Right to access your personal data
+        c.      Right to have any inaccurate personal data corrected
+        d.      Right to have your personal data erased
+        e.      Right to restrict use of your personal data
+        f.      Right to personal data portability
+        g.      Right to object to the processing of your personal data
+If you wish to exercise any of these rights under the GDPR, please email us at
+privacy@purewow.com or write to us at the address below with such request. We will respond
+to any requests without undue delay and no later than one-month after receipt of your request.
+7.      Opting-Out of Data Use or Withdrawing Consent
 
-#### Usage Information
 
-In addition to collecting personal and non-personal information, PureWow may also collect non-personal, aggregated information about subscribers' use of our daily email and site. This information is not personally identifiable and will only be used to find out how subscribers use our daily email, site and services. For example, this information will tell us how often a user opens the daily email, how much time users spend on our site, from which other sites subscribers came, and to what other sites subscribers go. The collection of this information allows us to, among other things, prepare for traffic load demands and to efficiently deliver your emails.
+As described above, we collect personal data about you when you voluntarily provide it to us,
+collect other data about you and your use of the Site automatically when you interact with us. If
+you do not want us to use your collected data as described above or if you wish to withdraw your
+consent to permit us to process your personal data, please email us at privacy@purewow.com or
+write us at the address below with such request.
+If you no longer wish to receive communications from PureWow, you can opt-out from receiving
+such messages in the future by following the instructions in the emails or contacting us at
+privacy@purewow.com.
+With respect to the Site’s use of cookies, pixels, tags and other similar technologies, by adjusting
+settings on your browser, you may elect not to allow such technologies to be placed, and thus
+opt-out of certain features of the Site and the Site’s automatic collection of certain data about
+you.
+You may remove certain tracking technologies and opt-out of online behavioral advertising
+messaging by using the opt-out tools available from the Digital Advertising Alliance (DAA Opt-
+Out Tool) and the Network Advertising Initiative (NAI Opt-Out Tools). Please note that these
+opt-out tools are device and browser specific, so you must repeat the opt-out from each of your
+browsers and devices.
+You may also adjust your advertising preferences on various social media websites by adjusting
+your Settings on the platform (for example, you may adjust the types of Facebook ads you
+receive HERE).
+8.      Protection and Retention of Data
+We use appropriate technical and organizational measures to ensure a level of security
+appropriate to the risk and to safeguard your data in our possession. However, no data
+transmission over the Internet is completely secure and no security mechanism is impenetrable.
+Therefore, although we take steps to protect your data, we cannot guarantee the security of the
+data that we collect from you or the security of our servers or the Site. By accessing the Site, any
+transmission of data is at your own risk and you agree to assume all risk in connection with data
+sent to us or collected by us.
+We retain data only as long as necessary in light of the reasons it was collected as set forth in this
+Privacy Policy, or until you inform us you wish to have your data deleted, whichever comes first.
+Please note that we may retain your data for longer periods of time as necessary to comply with
+our legal obligations or respond to governmental authorities.
+9.      Foreign Jurisdictions; Personal Data Transfers
+The data that you provide to us or we obtain as a result of your use of this Site will be collected,
+stored, and processed in a destination outside the European Economic Area (“EEA”) that may
+not be subject to equivalent data protection laws, including the United States. We may transfer
+your personal data outside the EEA in order to store it and enable us to provide advertising,
 
-#### Review and Access
 
-Upon your request, we will provide you with a summary of the information we collect about you. You will have an opportunity to correct, update or modify this information.
+products or services to you. Where your personal data is transferred outside the EEA, including
+the US, we will take all steps reasonably necessary to ensure that your data is subject to
+appropriate safeguards and ensure that your data is treated securely and in accordance with this
+Privacy Policy. By using this Site and/or providing us with your personal data, you (a) consent to
+the transfer and/or processing of any personal data outside the EEA, including to the U.S., (b)
+acknowledge that U.S. law may not be equivalent to the data protection laws of your location and
+(c) understand that we will collect, transfer, store, process and/or deal with your personal data in
+accordance with this Privacy Policy.
+10.      Children and Parents
+We respect children’s privacy. We do not target or knowingly or intentionally collect personally
+identifiable information from children under the age of 13. By using the Site, you have
+represented and warranted that you are either 18 years of age or using the Site with the
+supervision of a parent or guardian. If you are under the age of 13, you may not use the Site. If
+you become aware that your child has provided us with personal information without your
+consent, please email us at privacy@purewow.com.
+11.      Your California Privacy Rights
+If you are a resident of California, California law permits you to request certain information
+regarding the disclosure of your personal data by PureWow, or its affiliates and subsidiaries, to a
+third-party for direct marketing purposes. To make such a request, please email us at
+privacy@purewow.com or write to us at:
+Wow Media Products, Inc. d/b/a PureWow
+Attention: California Privacy Rights
+10 Hudson Yards, 25th Floor
+New York, NY 10001
+12.      Data Controllers
+The data controller for the personal data that you provide or that is collected by PureWow is
+Wow Media Products, Inc. d/b/a PureWow, 10 Hudson Yards, 25th Floor, New York, New York
+10001.
+13.      Miscellaneous
+From time to time, we may update this Privacy Policy to reflect, among other things, changes in
+the law or our data collection and use practices and such modifications shall be effective upon
+posting by the PureWow. Your continued use of the Site after an updated Privacy Policy signifies
+your acceptance of the updated Privacy Policy. It is important that you review this Privacy
+Policy regularly to ensure you are updated as to any changes. If we make a material change
+to this Privacy Policy, as determined in our sole discretion, we will notify you via email.
+14.      Contact Us
 
-#### How to Unsubscribe
 
-You can unsubscribe from receiving PureWow emails at any time. You can unsubscribe by clicking on the "Unsubscribe" link in the footer of any PureWow daily email or on the bottom of the PureWow homepage and following the instructions. We, of course, do not want to see you go, but if for any reason you want to leave us and have trouble doing so please email [info@purewow.com](mailto:info@purewow.com)
-
-#### Choice/Opt-Out
-
-If we ever send you information by email concerning new products or services that you did not expressly request, we will provide you with an email address by which you may request no future notices.
-
-#### Third Party Advertising
-
-ISome of the ads appearing on our Daily Email and Web Site may be delivered to you by our Web advertising partner or partners. Information about your visit to a partner site or sites, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about our advertising partner or partners, cookies, and how to "opt-out", please contact us at info@purewow.com for more information.
-
-Occasionally, you'll get an email marked "dedicated" or "sponsored" in the subject line and in the email header. These emails are not necessarily reflective of the opinions of the editorial staff. They are content paid for by our sponsors. You can unsubscribe from receiving these emails, however, if you do so, you will no longer receive PureWow unsponsored emails either. Please see "How to Unsubscribe."
-
-#### Tracking
-
-Like most sites, PureWow.com makes use of browser "cookies." Cookies are small text files placed on your computer's hard disk by our server. They allow us to quickly recognize you and simplify your user experience. PureWow will never use cookies to retrieve information from your computer that is unrelated to our site or services.  On occasion, to provide our readers with a more customized experience, we may use, transmit, index, display, and transfer non-personally-identifiable user information.
-
-#### Third Party Cookies
-
-In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique cookie on your browser.
-
-#### Links to Other Sites
-
-As part of the service, PureWow will create links allowing you to access third party sites. PureWow is not responsible for the content that appears on those sites and does not endorse these sites. Please consult those sites' individual privacy policies in order to determine how they treat user information.
-
-#### Security
-
-All information described above is stored on restricted database servers.
-
-#### Modification to this Policy
-
-PureWow may change this policy, but we'll post any changes here, so be sure to check back for future information.
-
-#### Contact Us
-
-If you have any questions about this policy, the daily email or our site in general, please email [info@purewow.com](mailto:info@purewow.com)
+If you have any general questions about this Privacy Policy or other aspects of the Site or would
+like to correct, update or erase data provided to us, please email us at privacy@purewow.com or
+write to us at:
+Wow Media Products. Inc. d/b/a/ PureWow
+Attention: purewow.com Privacy Policy
+10 Hudson Yards, 25th Floor
+New York, NY 10001
