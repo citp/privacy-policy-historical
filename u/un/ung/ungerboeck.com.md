@@ -1,119 +1,272 @@
-> *The following text is extracted and transformed from the ungerboeck.com privacy policy that was archived on 2017-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170318081703id_/https%3A//ungerboeck.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ungerboeck.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905113522id_/https%3A//ungerboeck.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Ungerboeck Software
 
-## Privacy Policy of Ungerboeck Check-In
+As a global leader in flexible, comprehensive event and venue management software, Ungerboeck aims to be a model in data protection and privacy. Ungerboeck has established this Data Privacy Policy to ensure that its international commitment to this field is fully integrated into the company’s business relations and operations. In additional to this Policy, Ungerboeck has also established a Website User Guide to provide detailed information about data collection while using Ungerboeck Websites. Furthermore, Ungerboeck has set up organizational and technical measures based on international laws and policies to enhance confidentiality and security of personal data and to build a strong and lasting relationship with its worldwide Customers.
 
-In order to receive information about your Personal Data, the purposes and the parties the Data is shared with, contact the Owner.
+####   
+DATA COLLECTION BY UNGERBOECK
 
-## Data Controller and Owner
+Customers or prospects may visit the different international entities’ websites without having to provide any personal data. Ungerboeck collects IP addresses, browser types for system administration, and/or statistical purposes and without identifying any other individual information. Ungerboeck may also specifically request personal data to provide certain services, such demanding an address to send newsletters or respond to a contact request. Furthermore, Ungerboeck uses cookies (small text files placed on your device to store data that can be recalled by a web server in the domain that placed the cookie) to recognize customers or prospects and to provide them with contents corresponding to their interests.
 
-**Types of Data collected**
+Ungerboeck ensures that personal data will only be kept for the time necessary to fulfill the purposes for which it was collected. These purposes include but are not limited to communication, marketing and promotion, hiring, forums, customer satisfaction, and global statistics. Data collection is done per applicable laws and regulations.
 
-The owner does not provide a list of Personal Data types collected.
+####   
+INTERNATIONAL TRANSFER AND TRANSMISSION OF PERSONAL DATA COLLETED BY UNGERBOECK
 
-Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection.
+Personal data collected by Ungerboeck will not be passed on, sold, or made available to third parties for marketing purposes without the data subjects’ personal consent. In order to provide data subjects with the desired service or transaction, it may be necessary to pass information to other companies within Ungerboeck Group, service providers, or third parties who process the data on Ungerboeck’s behalf. Ungerboeck strictly requires its service providers and sub-processors to use personal data only to manage the requested services. Moreover, Ungerboeck ensures that its service providers and sub-processors always act in compliance with applicable laws regarding the protection of personal data and pay particular attention to the confidentiality of such data.
 
-The Personal Data may be freely provided by the User, or collected automatically when using this Application.
+  
+Due to Ungerboeck’s worldwide activity, data is transmitted to the European Economic Area (EEA) as well as non-EEA. Whenever transfers occur outside of the EEA, it is based on the Standard Contractual Clauses (according to EU Commission Decision 87/2010/EC or any future replacement) in order to contractually provide that personal data is subject to a level of data protection that applies within the EEA . You may obtain a redacted copy (from which commercial information and information that is not relevant has been removed) of such Standard Contractual Clauses by sending a request to [This email address is being protected from spambots. You need JavaScript enabled to view it..">[privacy@ungerboeck.com](mailto:privacy@ungerboeck.com).](mailto:%3Cspan%20id=) However, in all cases, Ungerboeck guarantees that data will always be protected and will only be used with the data subject’s consent for the purpose described at the time the data was provided. International transfers and transmissions are always carried out in accordance with the applicable laws and regulations.
 
-Any use of Cookies - or of other tracking tools - by this Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User.
+####   
+DATA SUBJECT’S RIGHTS
 
-Failure to provide certain Personal Data may make it impossible for this Application to provide its services.
+Ungerboeck acknowledges and respects data subjects’ rights: i) to consent; ii) to be forgotten; iii) to be informed; iii) to have access to their data; (iv) to modify their data; and (v) to data portability in accordance with applicable laws and regulations. Please direct any questions, complaints, or information regarding your data to [This email address is being protected from spambots. You need JavaScript enabled to view it.">[privacy@ungerboeck.com](mailto:privacy@ungerboeck.com)  
+](mailto:%3Cspan%20id=)The responsible party is the natural or legal person who alone or jointly with others decides on the purposes and means of processing personal data (names, email addresses, etc.).
 
-Users are responsible for any Personal Data of third parties obtained, published or shared through this Application and confirm that they have the third party's consent to provide the Data to the Owner.
+##### Revocation of your consent to the processing of your data
 
-## Mode and place of processing the Data
+Many data processing operations are only possible with your express consent. You may revoke your consent at any time with future effect. An informal email making this request is sufficient. The data processed before we receive your request may still be legally processed.
 
-**Methods of processing**
+##### Right to file complaints with regulatory authorities
 
-The Data Controller processes the Data of Users in a proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.
+If there has been a breach of data protection legislation, the person affected may file a complaint with the competent regulatory authorities.   
+For Europe and Middle East, the competent regulatory authority for matters related to data protection legislation is the data protection officer of the German state in which our EMEA entity (Ungerboeck Systems International GmbH) is headquartered. A list of data protection officers and their contact details can be found at the following link: <https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html>[.](https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html.)
 
-The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Data Controller, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of the site (administration, sales, marketing, legal, system administration) or external parties (such as third party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Data Controller at any time.
+##### [](https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html.)  
+Right to data portability
 
-**Place**
+You have the right to have data which we process based on your consent or in fulfillment of a contract automatically delivered to yourself or to a third party in a standard, machine-readable format. If you require the direct transfer of data to another responsible party, this will only be done to the extent technically feasible.
 
-The Data is processed at the Data Controller's operating offices and in any other places where the parties involved with the processing are located. For further information, please contact the Data Controller.
+#####   
+SSL or TLS encryption
 
-**Retention time**
+This site uses SSL or TLS encryption for security reasons and for the protection of the transmission of confidential content, such as the inquiries you send to us as the site operator. You can recognize an encrypted connection in your browser's address line when it changes from "[http://" to](http://%22%20to/) "[https://" and](https://%22%20and/) the lock icon is displayed in your browser's address bar.  
+If SSL or TLS encryption is activated, the data you transfer to us cannot be read by third parties.
 
-The Data is kept for the time necessary to provide the service requested by the User, or stated by the purposes outlined in this document, and the User can always request that the Data Controller suspend or remove the data.
+#####   
+Information, blocking, and deletion
 
-## Additional information about Data collection and processing
+As permitted by law, you have the right to be provided at any time with information free of charge about any of your personal data that is stored as well as its origin, the recipient and the purpose for which it has been processed. You also have the right to have this data corrected, blocked or deleted. You can contact us at any time using the address given in our legal notice if you have further questions on the topic of personal data.
 
-**Hosting and backend infrastructure**
+#####   
+Opposition to promotional emails
 
-These services have the purpose of hosting data and files that enable this Application to run and be distributed as well as to provide a ready-made infrastructure to run specific features or parts of this Application. Some of these services work through geographically distributed servers, making it difficult to determine the actual location where the Personal Data are stored.
+We hereby expressly prohibit the use of contact data published in the context of website legal notice requirements with regard to sending promotional and informational materials not expressly requested. The website operator reserves the right to take specific legal action if unsolicited advertising material, such as email spam, is received.
 
-**User database management**
+#### 3\. Data protection officer
 
-These services allow the Owner to build user profiles by starting from an email address, a personal name, or other information that the User provides to this Application, as well as to track User activities through analytics features. This Personal Data may also be matched with publicly available information about the User (such as social networks' profiles) and used to build private profiles that the Owner can display and use for improving this Application.
+##### Statutory data protection officer
 
-Some of these services may also enable the sending of timed messages to the User, such as emails based on specific actions performed on this Application.
+We have appointed a data protection officer for our EMEA entity (Ungerboeck Systems International GmbH).
 
-**Legal action**
+  
+secopan gmbh  
+Am Schönblick 14  
+D-71229 Leonberg  
+Telephone: +497152-56958-0  
+Email: [datenschutz@secopan.de](mailto:datenschutz@secopan.de)  
+4\. Data collection on our website
 
-The User's Personal Data may be used for legal purposes by the Data Controller, in Court or in the stages leading to possible legal action arising from improper use of this Application or the related services. The User declares to be aware that the Data Controller may be required to reveal personal data upon request of public authorities.
+#### Cookies
 
-## Additional information about User's Personal Data
+Some of our web pages use cookies. Cookies do not harm your computer and do not contain any viruses. Cookies help make our website more user-friendly, efficient, and secure. Cookies are small text files that are stored on your computer and saved by your browser.
 
-In addition to the information contained in this privacy policy, this Application may provide the User with additional and contextual information concerning particular services or the collection and processing of Personal Data upon request.
+  
+Most of the cookies we use are so-called "session cookies." They are automatically deleted after your visit. Other cookies remain in your device's memory until you delete them. These cookies make it possible to recognize your browser when you next visit the site.
 
-**System Logs and Maintenance**
+  
+You can configure your browser to inform you about the use of cookies so that you can decide on a case-by-case basis whether to accept or reject a cookie. Alternatively, your browser can be configured to automatically accept cookies under certain conditions or to always reject them, or to automatically delete cookies when closing your browser. Disabling cookies may limit the functionality of this website.
 
-For operation and maintenance purposes, this Application and any third party services may collect files that record interaction with this Application (System Logs) or use for this purpose other Personal Data (such as IP Address).
+  
+Cookies which are necessary to allow electronic communications or to provide certain functions you wish to use are stored pursuant to Art. 6 paragraph 1, letter f of DSGVO/GDPR. The website operator has a legitimate interest in the storage of cookies to ensure an optimized service provided free of technical errors. If other cookies (such as those used to analyze your surfing behavior) are also stored, they will be treated separately in this Guide.
 
-**Information not contained in this policy**
+#####   
+Server log files
 
-More details concerning the collection or processing of Personal Data may be requested from the Data Controller at any time. Please see the contact information at the beginning of this document.
+The website provider automatically collects and stores information that your browser automatically transmits to us in "server log files". These are:
 
-**The rights of Users**
+  
+• Browser type and browser version  
+• Operating system used  
+• Referrer URL  
+• Host name of the accessing computer  
+• Time of the server request  
+• IP address
 
-Users have the right, at any time, to know whether their Personal Data has been stored and can consult the Data Controller to learn about their contents and origin, to verify their accuracy or to ask for them to be supplemented, cancelled, updated or corrected, or for their transformation into anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons. Requests should be sent to the Data Controller at the contact information set out above.
+  
+These data will not be combined with data from other sources.
 
-This Application does not support “Do Not Track” requests.
+  
+The basis for data processing is Art. 6 (1) (f) DSGVO/GDPR, which allows the processing of data to fulfill a contract or for measures preliminary to a contract.
 
-To determine whether any of the third party services it uses honor the “Do Not Track” requests, please read their privacy policies.
+#####   
+Contact form
 
-**Changes to this privacy policy**
+Should you send us questions via the contact form, we will collect the data entered on the form, including the contact details you provide, to answer your question and any follow-up questions. We do not share this information without your permission.
 
-The Data Controller reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. If a User objects to any of the changes to the Policy, the User must cease using this Application and can request that the Data Controller removes the Personal Data. Unless stated otherwise, the then-current privacy policy applies to all Personal Data the Data Controller has about Users.
+  
+We will, therefore, process any data you enter onto the contact form only with your consent per Art. 6 (1)(a) DSGVO/GDPR. You may revoke your consent at any time. An informal email making this request is sufficient. The data processed before we receive your request may still be legally processed.
 
-**Information about this privacy policy**
+  
+We will retain the data you provide on the contact form until you request its deletion, revoke your consent for its storage, or the purpose for its storage no longer pertains (e.g. after fulfilling your request). Any mandatory statutory provisions, especially those regarding mandatory data retention periods, remain unaffected by this provision.
 
-The Data Controller is responsible for this privacy policy, prepared starting from the modules provided by Iubenda and hosted on Iubenda's servers.
+#####   
+Registration on this website
 
-## Definitions and legal references
+You can register on our website in order to access additional functions offered here. The input data will only be used for the purpose of using the respective site or service for which you have registered. The mandatory information requested during registration must be provided in full. Otherwise, we will reject your registration.
 
-**Personal Data (or Data)**
+  
+To inform you about important changes such as those within the scope of our site or technical changes, we will use the email address specified during registration.
 
-Any information regarding a natural person, a legal person, an institution or an association, which is, or can be, identified, even indirectly, by reference to any other information, including a personal identification number.
+  
+We will process the data provided during registration only based on your consent per Art. 6 (1)(a) DSGVO/GDPR. You may revoke your consent at any time with future effect. An informal email making this request is sufficient. The data processed before we receive your request may still be legally processed.
 
-**Usage Data**
+  
+We will continue to store the data collected during registration for as long as you remain registered on our website. Statutory retention periods remain unaffected.
 
-Information collected automatically from this Application (or third party services employed in this Application), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Application, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment.
+##### Processing of data (customer and contract data)
 
-**User**
+We collect, process, and use personal data only insofar as it is necessary to establish, or modify legal relationships with us (master data). This is done based on Art. 6 (1) (b) DSGVO/GDPR, which allows the processing of data to fulfill a contract or for measures preliminary to a contract. We collect, process and use your personal data when accessing our website (usage data) only to the extent required to enable you to access our service or to bill you for the same.
 
-The individual using this Application, which must coincide with or be authorized by the Data Subject, to whom the Personal Data refers.
+  
+Collected customer data shall be deleted after completion of the order or termination of the business relationship. Legal retention periods remain unaffected.
 
-**Data Subject**
+#### 5\. Social media
 
-The legal or natural person to whom the Personal Data refers.
+##### Twitter plugin
 
-**Data Processor (or Data Supervisor)**
+Functions of the Twitter service have been integrated into our website and app. These features are offered by Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA. When you use Twitter and the “Retweet” function, the websites you visit are connected to your Twitter account and made known to other users. In doing so, data will also be transferred to Twitter. We would like to point out that, as the provider of these pages, we have no knowledge of the content of the data transmitted or how it will be used by Twitter. For more information on Twitter's privacy policy, please go to <https://twitter.com/privacy.>  
+Your privacy preferences with Twitter can be modified in your account settings at <https://twitter.com/account/settings.>
 
-The natural person, legal person, public administration or any other body, association or organization authorized by the Data Controller to process the Personal Data in compliance with this privacy policy.
+##### YouTube
 
-**Data Controller (or Owner)**
+Our website uses plugins from YouTube, which is operated by Google. The operator of the pages is YouTube LLC, 901 Cherry Ave., San Bruno, CA 94066, USA.
 
-The natural person, legal person, public administration or any other body, association or organization with the right, also jointly with another Data Controller, to make decisions regarding the purposes, and the methods of processing of Personal Data and the means used, including the security measures concerning the operation and use of this Application. The Data Controller, unless otherwise specified, is the Owner of this Application.
+  
+If you visit one of our pages featuring a YouTube plugin, a connection to the YouTube servers is established. Here the YouTube server is informed about which of our pages you have visited.
 
-**This Application**
+  
+If you're logged in to your YouTube account, YouTube allows you to associate your browsing behavior directly with your personal profile. You can prevent this by logging out of your YouTube account.
 
-The hardware or software tool by which the Personal Data of the User is collected.
+  
+YouTube is used to help make our website appealing. This constitutes a justified interest pursuant to Art. 6 (1) (f) DSGVO/GDPR.
 
-## Legal information
+  
+Further information about handling user data, can be found in the data protection declaration of YouTube under <https://www.google.de/intl/de/policies/privacy.>
 
-Notice to European Users: this privacy statement has been prepared in fulfillment of the obligations under Art. 10 of EC Directive n. 95/46/EC, and under the provisions of Directive 2002/58/EC, as revised by Directive 2009/136/EC, on the subject of Cookies.
+#### 6\. Usage of blog function
 
-This privacy policy relates solely to this Application.
+In our blog, where we publish various articles on relevant topics and allow you to make public comments. If you submit a comment, it will be published with the corresponding contribution and the (possibly pseudonymous) user name you entered will be displayed. Comments will not be reviewed before publication. However, we do check these on a random basis and can delete them if they contain unlawful content.
+
+The commenting function uses the Disqus plug-in, which is operated by Big Head Labs, Inc., [http://www.disqus.com](http://www.disqus.com/) ("Disqus"). As a registered user, you can use it to make comments on all Disqus-using websites and to log in to Facebook (via Facebook Connect), Twitter, Yahoo and OpenID via existing accounts. When registering via the latter providers, these providers also collect, store and use your data. For further details, please refer to the data protection regulations of the respective provider. Disqus will send us the data provided by the comment form as well as any data provided by third parties. The entity responsible for collecting and processing the above data in the United States is Big Head Labs, Inc, San Francisco, USA.
+
+  
+Terms of Use: <http://help.disqus.com/customer/portal/articles/466260-terms-of-service/>   
+Privacy Policy: <http://help.disqus.com/customer/portal/articles/466259-privacy-policy>
+
+#### 7\. Analytics and advertising
+
+##### Google Analytics
+
+This website uses Google Analytics, a web analytics service. It is operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.
+
+  
+Google Analytics uses so-called "cookies". These are text files that are stored on your computer and that allow an analysis of the use of the website by you. The information generated by the cookie about your use of this website is usually transmitted to a Google server in the USA and stored there.
+
+  
+Google Analytics cookies are stored based on Art. 6 (1) (f) DSGVO/GDPR. The website operator has a legitimate interest in analyzing user behavior to optimize both its website and its advertising.
+
+#####   
+IP anonymization
+
+We have activated the IP anonymization feature on this website. Your IP address will be shortened by Google within the European Union or other parties to the Agreement on the European Economic Area prior to transmission to the United States. Only in exceptional cases is the full IP address sent to a Google server in the US and shortened there. Google will use this information on behalf of the operator of this website to evaluate your use of the website, to compile reports on website activity, and to provide other services regarding website activity and Internet usage for the website operator. The IP address transmitted by your browser as part of Google Analytics will not be merged with any other data held by Google.
+
+##### Browser plugin
+
+You can prevent these cookies being stored by selecting the appropriate settings in your browser. However, we wish to point out that doing so may mean you will not be able to enjoy the full functionality of this website. You can also prevent the data generated by cookies about your use of the website (incl. your IP address) from being passed to Google, and the processing of these data by Google, by downloading and installing the browser plugin available at the following link: <https://tools.google.com/dlpage/gaoptout?hl=en.>
+
+##### Objecting to the collection of data
+
+You can prevent the collection of your data by Google Analytics by clicking on the following link. An opt-out cookie will be set to prevent your data from being collected on future visits to this site: Disable Google Analytics.  
+For more information about how Google Analytics handles user data, see Google's privacy policy: <https://support.google.com/analytics/answer/6004245?hl=en.>  
+Outsourced data processing  
+We have entered into an agreement with Google for the outsourcing of our data processing and fully implement the strict requirements of the data protection authorities when using Google Analytics.
+
+##### Demographic data collection by Google Analytics
+
+This website uses Google Analytics' demographic features. This allows reports to be generated containing statements about the age, gender, and interests of site visitors. This data comes from interest-based advertising from Google and third-party visitor data. This collected data cannot be attributed to any specific individual person. You can disable this feature at any time by adjusting the ads settings in your Google account or you can forbid the collection of your data by Google Analytics as described in the section "Refusal of data collection".
+
+##### Google AdSense
+
+This website uses Google AdSense, a service for including advertisements from Google Inc. ("Google"). It is operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.
+
+  
+Google AdSense uses so-called "cookies", which are text files stored in your computer that enable an analysis of the way you use the website. Google AdSense also uses so-called web beacons (invisible graphics). Through these web beacons, information such as the visitor traffic on these pages can be evaluated.
+
+  
+The information generated by cookies and web beacons relating to your use of this website (including your IP address), and delivery of advertising formats, is transmitted to a Google server in the US and stored there. This information can be passed on from Google to contracting parties of Google. However, Google will not merge your IP address with other data you have stored.
+
+  
+AdSense cookies are stored based on Art. 6 (1) (f) DSGVO/GDPR. The website operator has a legitimate interest in analyzing user behavior to optimize both its website and its advertising.
+
+  
+You can prevent the installation of cookies by setting your browser software accordingly. Please be aware that in this case, you may not be able to make full use of all the features of this website. By using this website, you agree to the processing of data relating to you and collected by Google as described and for the purposes set out above.
+
+#####   
+Google Analytics Remarketing
+
+Our websites use the features of Google Analytics Remarketing combined with the cross-device capabilities of Google AdWords and DoubleClick. This service is provided by Google Inc., 1600 Amphitheater Parkway, Mountain View, CA 94043, USA.
+
+  
+This feature makes it possible to link target audiences for promotional marketing created with Google Analytics Remarketing to the cross-device capabilities of Google AdWords and Google DoubleClick. This allows advertising to be displayed based on your personal interests, identified based on your previous usage and surfing behavior on one device (e.g. your mobile phone), on other devices (such as a tablet or computer).
+
+  
+Once you have given your consent, Google will associate your web and app browsing history with your Google Account for this purpose. That way, any device that signs in to your Google Account can use the same personalized promotional messaging.
+
+  
+To support this feature, Google Analytics collects Google-authenticated IDs of users that are temporarily linked to our Google Analytics data to define and create audiences for cross-device ad promotion.
+
+  
+You can permanently opt out of cross-device remarketing/targeting by turning off personalized advertising in your Google Account; follow this link: <https://www.google.com/settings/ads/onweb/>[.](https://www.google.com/settings/ads/onweb/)
+
+[](https://www.google.com/settings/ads/onweb/)  
+The aggregation of the data collected in your Google Account data is based solely on your consent, which you may give or withdraw from Google per Art. 6 (1) (a) DSGVO/GDPR. For data collection operations not merged into your Google Account (for example, because you do not have a Google Account or have objected to the merge), the collection of data is based on Art. 6 (1) (f) DSGVO/GDPR. The website operator has a legitimate interest in analyzing anonymous user behavior for promotional purposes.  
+For more information and the Google Privacy Policy, go to: <https://www.google.com/policies/technologies/ads/>[.](https://www.google.com/policies/technologies/ads/)
+
+##### [](https://www.google.com/policies/technologies/ads/)  
+Google AdWords and Google Conversion Tracking
+
+This website uses Google AdWords. AdWords is an online advertising program from Google Inc., 1600 Amphitheater Parkway, Mountain View, CA 94043, United States ("Google").  
+As part of Google AdWords, we use so-called conversion tracking. When you click on an ad served by Google, a conversion tracking cookie is set. Cookies are small text files that your internet browser stores on your computer. These cookies expire after 30 days and are not used for personal identification of the user. Should the user visit certain pages of the website and the cookie has not yet expired, Google and the website can tell that the user clicked on the ad and proceeded to that page.
+
+  
+Each Google AdWords advertiser has a different cookie. Thus, cookies cannot be tracked using the website of an AdWords advertiser. The information obtained using the conversion cookie is used to create conversion statistics for the AdWords advertisers who have opted for conversion tracking. Customers are told the total number of users who clicked on their ad and were redirected to a conversion tracking tag page. However, advertisers do not obtain any information that can be used to personally identify users. If you do not want to participate in tracking, you can opt-out of this by easily disabling the Google Conversion Tracking cookie by changing your browser settings. In doing so, you will not be included in the conversion tracking statistics.
+
+  
+The conversion cookies are stored based on Art. 6 (1) (f) DSGVO/GDPR. The website operator has a legitimate interest in analyzing user behavior to optimize both its website and its advertising.
+
+  
+For more information about Google AdWords and Google Conversion Tracking, see the Google Privacy Policy: <https://www.google.de/policies/privacy/>[.](https://www.google.de/policies/privacy/)
+
+[](https://www.google.de/policies/privacy/)  
+You can configure your browser to inform you about the use of cookies so that you can decide on a case-by-case basis whether to accept or reject a cookie. Alternatively, your browser can be configured to automatically accept cookies under certain conditions or to always reject them, or to automatically delete cookies when closing your browser. Disabling cookies may limit the functionality of this website.
+
+#### 8\. Use of Oracle Eloqua
+
+This website uses Oracle Corporation's Eloqua web analytics service to evaluate user access to this website. For this analysis, cookies (more details in Section 4) are stored on your computer. The information collected in this way is stored on servers, also in the USA. The data of the cookies are linked to your other data if you have made them available to us. This enables us to analyze the use of our website and offer you personalized services. If you prevent the storage of cookies, we point out that you may not be able to use this website in its entirety. The prevention of the storage of cookies is possible through the setting in your browser or by clicking the "Click here" buttons at <https://www.oracle.com/marketingcloud/opt-status.htmlThird-party> information: Oracle Corporation, 500 Oracle Parkway, M/S 5op7, Redwood Shores, CA 94065 (USA);   
+Privacy policy: <https://www.oracle.com/legal/privacy/index.html>[.](https://www.oracle.com/legal/privacy/index.html.)
+
+#### [](https://www.oracle.com/legal/privacy/index.html.)  
+9\. Other plugins and tools
+
+The following other tools are used and accessible from our website:
+
+##### Jobvite
+
+##### [](https://www.jobvite.com/privacy-policy/)  
+Zendesk
+
+Third-party information: Zendesk, Inc.1019 Market Street, San Francisco, CA 94103, United States;   
+Privacy policy: <https://www.zendesk.com/company/customers-partners/privacy-policy/>
