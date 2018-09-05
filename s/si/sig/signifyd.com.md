@@ -1,142 +1,129 @@
-> *The following text is extracted and transformed from the signifyd.com privacy policy that was archived on 2017-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170716140424id_/https%3A//www.signifyd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signifyd.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905081544id_/https%3A//www.signifyd.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Signifyd
+# Privacy Policy - how we collect use and disclose PI | Signifyd
 
-Welcome to the Website of SIGNIFYD Inc., a Delaware corporation (" **SIGNIFYD** ," **we,** " or " **us** "). This privacy policy describes our collection of personal information from users of our Web site at www.signifyd.com (the " **Site** "), including our SIGNIFYD fraud and abuse prevention service provided through our customer portal on the Site (the " **Service** "), as well as all related applications, widgets, software, tools, and other services provided by us and on which a link to this policy is displayed (collectively, together with the Site and our Service, our " **Services** "), as well as our use and disclosure of that information. By using any of our Services, you consent to the collection and use of personal information in accordance with this policy. Unless separately defined in this Privacy Policy, all terms used with initial letters capitalized in this policy have the meanings set forth in our [Terms of Use](https://www.signifyd.com/terms/).
+Welcome to the Website of SIGNIFYD Inc., a Delaware corporation (“SIGNIFYD, “we,” or “us”). This privacy policy describes how we collect, use, disclose and otherwise process Personal Information from users of our Website at [www.signifyd.com](http://www.signifyd.com/) (the “Site”) and our SIGNIFYD fraud and abuse prevention service provided through our customer portal on the Site (the “Service”), as well as all related applications, widgets, software, tools, and other services provided by us or on which a link to this policy is displayed (collectively, together with the Site and our Service, our “Services”). By using any of our Services, you consent to the collection and use of Personal Information in accordance with this policy. Unless separately defined in this Privacy Policy, all terms used with initial letters capitalized in this policy have the meanings set forth in our [Terms of Service](https://web.archive.org/terms/) or in this privacy policy.
 
-### Personal Information
+### 1\. The Information We Collect
 
-"Personal information," as used in this policy, is information that specifically identifies an individual, such as an individual's name, address, telephone number, or e-mail address. Personal information also includes information about an individual's activities, such as information about his or her activity on our Services, and demographic information, such as date of birth, gender, geographic area, and preferences, when any of this information is linked to personal information that identifies that individual.
+    We may collect information, which includes Personal Information, in various ways. “Personal Information” means any information that relates to an identified or identifiable individual, such as name, address, telephone number, or email address. We indicate whether and why you must provide us with your Personal Information, as well as the consequences of failing to do so, at the time of the collection of your Personal Information. If you do not provide the Personal Information necessary to provide you with our products and services, you will not be able to benefit from them. 
 
-Personal information does not include "aggregate" or other non-personally identifiable information. Aggregate information is information that we collect about a group or category of products, services, or users that is not personally identifiable or from which individual identities are removed. We may use and disclose aggregate information, and other non-personally identifiable information, for various purposes.
+_Information Collected via Automated Means_
 
-### Collection of Information
+When you use our Services, some information is automatically collected, such as your IP address, browser type, system type, the content and pages that you access on our Services, “referring URL” (i.e., the page from which you navigated to the Services), the pages you navigate to on the Services, and from which you leave the Services, as well as the time you spend on the Services. We may use IP address to derive your approximate location.
 
-##### Passive Information Collection
+We collect this information via automated means, such as standard server logs, cookies, clear GIFs (also known as “Web beacons”) and similar technologies. We use this information to administer, operate, and improve the Services and our other services and systems, and to provide services, content and advertising that are tailored to you.
 
-When you visit our Services, some information is automatically collected, such as your IP address, browser type, system type, the content and pages that you access on our Services, "referring URL" (i.e., the page from which you navigated to the Services), the pages you navigate to on the Services, and from which you leave the Services, as well as the time you spend on the Services.
+Also, please be aware that third parties may set cookies on your hard drive or use other automated means to collect information about your use of their services or content.
 
-We collect this information passively using technologies such as standard server logs, cookies, and clear GIFs (also known as "Web beacons"). We use passively-collected information to administer, operate, and improve the Services and our other services and systems, and to provide services and content that are tailored to you. If we link or associate any information gathered through passive means with personal information, we treat the combined information as personal information under this policy. Otherwise, we use information collected by passive means in non-personally identifiable form only.
+We use analytics providers such as Heap, which use cookies and similar technologies to collect and analyze information about use of the Site and report on activities and trends. These services may also collect information regarding the use of other websites, apps and online resources. You can learn about Heap’s practices by going to <https://heapanalytics.com/privacy>, or opt out of them by contacting [privacy@signifyd.com](mailto:privacy@signifyd.com).
 
-Also, please be aware that third parties may set cookies on your hard drive or use other means of passively collecting information about your use of their services or content. We do not have access to, or control over, these third-party means of passive data collection.
+_Information Provided by You_
 
-##### Collection of Voluntarily Provided Information
+We collect Personal Information that our users provide to us in a variety of ways on our Services. For instance, when you register for a SIGNIFYD account, update your account information on our Services, leave a comment on our blog, or otherwise post or transmit any information or content on or to our Services, request information about any beta testing of Services that we may provide, request help and support regarding any of our Services, or otherwise communicate with us, we collect the Personal Information that is provided to us. We may collect Personal Information such as name, email address, city, state, country, other demographic information, and your interests and preferences in these manners. We also collect any information that you include in the content of messages you send to us.
 
-We collect personal information that our users provide to us in a variety of ways on our Services. For instance, when you register for a SIGNIFYD account, update your account information on our Services, leave a comment on our blog, or otherwise post or transmit any information or content on or to our Services, request information about any beta testing of Services that we may provide, request help and support regarding any of our Services, or otherwise communicate with us, we collect the personal information that is provided to us. We may collect personal information such as name, e-mail address, city, state, country, other demographic information, and your interests and preferences in these manners.
+_Information from Other Sources_
 
-##### Information from Other Sources
+We may receive Personal Information about you from third parties, including public databases and industry-standard data vendors, and may combine this information with other Personal Information we maintain about you.  In addition, we collect information from our customers and their End Users to provide the Services as described above and in our [Terms of Service](https://web.archive.org/web/20180905081544id_/https://www.signifyd.com/privacy/h/terms/). We may also obtain information about you from publicly available sources.
 
-We may receive information about you, including personal information, from third parties, and may combine this information with other personal information we maintain about you. If we do so, this policy governs any combined information that we maintain in personally identifiable format.
+### 2\. How We Use Your Information
 
-### Use of Personal Information
+    We use Personal Information for a number of purposes, including to: 
 
-We use personal information to provide services and information that you request; to enhance, improve, operate, and maintain our Services, our programs, services, website, and other systems; to prevent fraudulent use of our Services; to tailor your user experience; to maintain a record of our dealings with you, and for other administrative purposes.
+  * Provide services and information that you request, respond to comments and questions, and otherwise provide support to users;
+  * Enhance, improve, operate, and maintain our Services, our programs, services, website, and other systems, including to protect against and prevent fraud;
+  * Prevent fraudulent use of our Services;
+  * Tailor your user experience;
+  * Maintain a record of our dealings with you;
+  * Understand and analyze the usage trends and preferences of our users, to improve the Services, and to develop new products, services, features, and functionality;
+  * Contact you for administrative and information purposes—this may include providing customer service or sending communications, including changes to our terms and conditions;
+  * Develop and provide promotional and advertising materials that may be useful, relevant, valuable, or tailored to you, or otherwise of interest;
+  * Achieve business purposes, such as account verification, audits, security, compliance with applicable laws and regulations, fraud monitoring and prevention;
+  * Enforce our [Terms of Service](https://web.archive.org/terms/) or as necessary to establish, exercise or defend legal rights;
+  * Achieve purposes for which we provide specific notice at the time of collection.
 
-Additionally, as described in our Terms of Use, we will retain and may use for various purposes relating to the prevention of fraud and abuse (including, without limitation, developing new products and services, and augmenting, improving, and maintaining our current Services), all User Data that you provide to us.
 
-We may also use personal information you provide to contact you regarding products, services, and offers that we believe you may find of interest. We allow you to opt-out from receiving marketing communications from us as described in the "Choice" section below.
 
-### Disclosure of Personal Information
+If you are located in the European Economic Area or Switzerland, we will rely on a lawful legal ground for the processing of your Personal information, including when:
 
-As described in our [Terms of Use](https://www.signifyd.com/terms/), we may disclose all User Data that you provide to us to third parties, provided that we will not disclose any such information to a third party in a way that identifies you or your organization other than as provided below in this "Disclosure of Personal Information" section of this policy.
+  * You consented to the use of your Personal Information (e.g., for our uses of cookies or similar technologies, to send you marketing communications or personalize our offerings).
+  * Necessary to provide you with products and services, or to respond to your inquiries.
+  * The processing is required by applicable law or necessary to comply with a legal obligation.
+  * We, or a third party, have a legitimate interest in using your Personal Information, such as to ensure and improve the safety, security, and performance of our products and services, to protect against and prevent payment fraud or to carry out data analyses.We will not engage in what is known as “automated decision-making,” which involves making decisions with legal or similarly significant effects solely based on automated processing of Personal Information, unless you explicitly consented to the processing, the processing is necessary for entering into, or to perform a contract, or when authorized by applicable law.
 
-We also may disclose personal information to third-party service providers (e.g., payment processing and data storage and processing facilities) that assist us in our work. We limit the personal information provided to these service providers to that which is reasonably necessary for them to perform their functions, and we require them to agree to maintain the confidentiality of such personal information.
 
-Additionally, we may disclose personal information if we believe that doing so is legally required or is in our interest to protect our property or other legal rights (including, but not limited to, enforcement of our agreements), or the rights or property of others.
 
-In addition, information about our users, including personal information, may be disclosed as part of any merger, acquisition, debt financing, sale of company assets, or similar transaction, as well as in the event of an insolvency, bankruptcy, or receivership in which personal information could be transferred to third parties as one of our business assets.
+### 3\. How We Disclose Your Information
 
-### Choice
+    When providing our Services, We may disclose Personal Information about you to our business customers (e.g., e-commerce merchants), such as whether a payment transaction is legitimate or potentially fraudulent, to help them prevent fraud in the context of online payments. 
 
-If you receive commercial email from us, you may unsubscribe at any time by following the instructions contained within the email. You may also opt-out from receiving commercial email from us by sending us an email or by writing to us at the address given at the end of this policy.
+We also may disclose Personal Information to third-party service providers (e.g., payment processing and data storage and processing facilities) that assist us in our work.
 
-Additionally, if we offer user account functionality on any of our Services, we may allow you to view and modify settings relating to the nature and frequency of promotional communications that you receive from us.
+Additionally, we may disclose Personal Information to third parties if we believe that doing so is legally required or is in our interest to protect our property or other legal rights (including, but not limited to, enforcement of our agreements), or the rights or property of others.
 
-Please be aware that if you opt-out of receiving commercial e-mail from us, it may take up to ten business days for us to process your opt-out request, and you may receive commercial e-mail from us during that period. Additionally, even after you opt-out from receiving commercial messages from us, you will continue to receive administrative messages from us regarding our Services.
+In addition, information about our users, including Personal Information, may be disclosed as part of any merger, acquisition, debt financing, sale of company assets, or similar transaction, as well as in the event of an insolvency, bankruptcy, or receivership in which Personal Information could be transferred to third parties as one of our business assets.
 
-### Access
+### 4\. Your Rights and Choices
 
-If we offer the ability to create user accounts on our Services, you may have the ability to access and update many categories of personal information that you provide to us by logging into your account and accessing your account settings. If you wish to access or amend any other personal information that you have provided to us, you may contact us at [privacy@signifyd.com](mailto:privacy@signifyd.com).
+    _Promotional Emails_
 
-If you request that we delete your user account on any of our Services (via a user settings page, by e-mail, or otherwise), we will do so within a reasonable period of time, but we may need to retain some of your personal information in order to satisfy our legal obligations, or where we reasonably believe that we have a legitimate reason to do so.
+If you receive promotional emails from us, you may unsubscribe at any time by following the instructions contained within the email. You may also opt-out from receiving promotional emails from us by sending us an email or by writing to us at the address given at the end of this policy.
 
-Additionally, as described in our [Terms of Use](https://www.signifyd.com/terms/), we will retain and may use for various purposes relating to the prevention of fraud and abuse (including, without limitation, developing new products and services, and augmenting, improving, and maintaining our current Services) any and all data and information you provide to us on our Service.
+Additionally, as part of the user account functionality on our Services, we may allow you to view and modify settings relating to the nature and frequency of promotional communications that you receive from us.
 
-### Links
+Please be aware that if you opt-out of receiving promotional email from us, it may take up to ten business days for us to process your opt-out request, and you may receive promotional email from us during that period. Additionally, even after you opt-out from receiving promotional messages from us, you will continue to receive administrative messages from us regarding our Services.
 
-For your convenience, the Services may contain links to other Web sites, products, or services that we do not own or operate. If you choose to visit or use any third-party products or services, please be aware that this policy will not apply to your activities or any information you disclose while using third-party products or services or otherwise interacting with third parties. We encourage you to carefully review the privacy policies applicable to any Web site or service you visit other than our Services before providing any personal information on them.
+_Cookies and Similar Technologies_
 
-### Children
+If you do not want information collected through the use of cookies, most browsers allow you to automatically decline cookies or be given the choice of declining or accepting the transfer to your computer of a particular cookie (or cookies) from a particular site. You may also wish to refer to <http://www.allaboutcookies.org/manage-cookies/>. If, however, you do not accept cookies, you may experience some inconvenience in your use of the Services.
 
-Children's safety is important to us, and we encourage parents and guardians to take an active interest in the online activities of their children. Our Services are not directed to children under the age of 13, and we do not knowingly collect personal information from children under the age of 13 without obtaining parental consent. If we learn that we have collected personal information from a child under the age of 13 on our Services, we will delete that information as quickly as possible. If you believe that we may have collected any such personal information on our Services, please notify us at [privacy@signifyd.com](mailto:privacy@signifyd.com).
+Signifyd does not process or respond to web browsers’ “do not track” signals or other similar transmissions that indicate a request to disable online tracking of users who use or visit our Services.
 
-### International Visitors
+_Access and Deletion_
 
-Our Services are hosted in the United States and are intended generally for United States visitors. If you use the Services from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please be aware that you are transferring personal information to the United States. The United States does not have the same data protection laws as the EU and some other regions. By providing personal information to us, you consent to the transfer of it to the United States and the use of it in accordance with this policy.
+As part of the user account functionality on our Services, you may have the ability to access and update many categories of Personal Information that you provide to us by logging into your account and accessing your account settings. If you wish to access or amend any other Personal Information that you have provided to us, you may contact us at [privacy@signifyd.com](mailto:privacy@signifyd.com).
 
-##### EU-US Privacy Shield
+If you request that we delete your user account on any of our Services (via a user settings page, by email, or otherwise), we will do so within a reasonable period of time, but we may need to retain some of your Personal Information in order to satisfy our legal obligations, or where we reasonably believe that we have a legitimate reason to do so.
 
-Signifyd, Inc. participates in the EU-US Privacy Shield framework. Click here to learn more.
+_European Users_
 
-##### Conditions of Use, Notices, and Revisions
+If you are located in the European Economic Area or Switzerland, you may have the right to:
 
-If an organization chooses to use Signifyd’s Services, details of an individual’s visit to that organization’s site and any dispute over privacy is subject to that organization’s privacy notice, this Notice, and our [Terms of Use](https://www.signifyd.com/terms/), including limitations on damages, resolution of disputes, and application of the law of the state of California. If an individual or associated organization has any concern about privacy at Signifyd, please contact us with a thorough description, and we will try to resolve it. Unless stated otherwise, our current Privacy Notice applies to all information that we have about individuals, organizations, and any associated transactions. Signifyd will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
+  * Request access to and receive information about the Personal Information we maintain about you, to update and correct inaccuracies in your Personal Information, to restrict or to object to the processing of your Personal Information, to have the information anonymized or deleted, as appropriate, or to exercise your right to data portability to easily transfer your Personal Information to another company. In addition, you may also have the right to lodge a complaint with a supervisory authority, including in your country of residence, place of work or where an incident took place.
+  * Withdraw any consent you previously provided to us regarding the processing of your Personal Information, at any time and free of charge. We will apply your preferences going forward and this will not affect the lawfulness of the processing before your consent withdrawal.Those rights may be limited in some circumstances by local law requirements. You may exercise your rights by contacting us as specified below.
 
-Related Practices and Information
 
-  * [Terms of Use](https://www.signifyd.com/terms/)
-  * [Signifyd support](mailto:support@signifyd.com)
 
+### 5\. Links
 
+    For your convenience, the Services may contain links to other Websites, products, or services that we do not own or operate. Please be aware that this Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties operating any Website or service to which the Services link. We encourage you to carefully review the privacy policies applicable to any Website or service you visit other than our Services before providing any Personal Information on them.
 
-##### Examples of Information Collected
+### 6\. Children
 
-Signifyd collects information from our customers for the express purpose of providing the Services as described above and in our Terms of Use.  Signifyd does not sell, share, or use this information for any reason outside of providing these Services.
+    Children’s safety is important to us, and we encourage parents and guardians to take an active interest in the online activities of their children. Our Services are not directed to children under the age of 13, and we do not knowingly collect Personal Information from children under the age of 13. If we learn that we have collected Personal Information from a child under the age of 13 on our Services, we will delete that information as quickly as possible. If you believe that we may have collected any such Personal Information on our Services, please notify us at [privacy@signifyd.com](mailto:privacy@signifyd.com).
 
-###### Collection of Voluntarily Provided Information
+### 7\. Data Transfers
 
-We collect personal information that our users provide to us in a variety of ways on our Services. For instance, when you register for a Signifyd account, update your account information on our Services, leave a comment on our blog, or otherwise post or transmit any information or content on or to our Services, request information about any beta testing of Services that we may provide, request help and support regarding any of our Services, or otherwise communicate with us, we collect the personal information that is provided to us. We may collect personal information such as name, e-mail address, city, state, country, other demographic information, and your interests and preferences in these manners.
+    Our Services are hosted in the United States and are intended generally for United States users. However, individuals located outside of the United States may also benefit from our Services. We may transfer your Personal Information to countries other than the country where you are located, including to the United States where we are headquartered. 
 
-###### Passive Information Collection
+When we transfer Personal Information from the European Economic Area to the United States, we comply with the EU-U.S. Privacy Shield framework. For more information, see our [Privacy Shield Policy](https://web.archive.org/privacyshield/).  We may also transfer your Personal Information to countries which provide an adequate level of protection under EU law, or in limited situations we may use contractual protections for the transfer of Personal Information to third parties, such as the European Commission’s Standard Contractual Clauses. You may contact us as specified below to obtain a copy of the safeguards we use to transfer Personal Information outside of the European Economic Area.
 
-When you visit our Services, some information is automatically collected, such as your IP address, browser type, system type, the content and pages that you access on our Services, "referring URL" (i.e., the page from which you navigated to the Services), the pages you navigate to on the Services, and from which you leave the Services, as well as the time you spend on the Services.
+### 8\. Security
 
-We collect this information passively using technologies such as standard server logs, cookies, and clear GIFs (also known as "Web beacons"). We use passively-collected information to administer, operate, and improve the Services and our other services and systems, and to provide services and content that are tailored to you. If we link or associate any information gathered through passive means with personal information, we treat the combined information as personal information under this policy. Otherwise, we use information collected by passive means in non-personally identifiable form only.
+    We use reasonable security measures that are designed to protect Personal Information in our control from loss, misuse, unauthorized access, use, disclosure, alteration, or accidental, unlawful or unauthorized destruction. Please note, however, that no data security measures can be guaranteed to be completely effective. Consequently, we cannot ensure or warrant the security of any Personal Information or other information or that it will not be accessed, viewed, or acquired by unauthorized persons. 
 
-Also, please be aware that third parties may set cookies on your hard drive or use other means of passively collecting information about your use of their services or content. We do not have access to, or control over, these third-party means of passive data collection.
+We take measures to delete your Personal Information or keep it in a form that does not permit identifying you when this information is no longer necessary for the purposes for which we process it, unless we are required by law to keep this information for a longer period. When determining the retention period, we take into account various criteria, such as the type of products and services requested by or provided to you, the nature and length of our relationship with you, possible re-enrolment with our products or services, the impact on the services we provide to you if we delete some information from or about you, mandatory retention periods provided by law and the statute of limitations.
 
-###### Information from Other Sources
+### 9\. Updates to this Policy
 
-We may receive information about you, including personal information, from third parties, and may combine this information with other personal information we maintain about you. If we do so, this policy governs any combined information that we maintain in personally identifiable format.
+    We may occasionally update this policy. When we do, we will also revise the “last updated” date at the beginning of the policy. Your continued use of our Services after such changes will mean that you accept the revised policy. We encourage you to periodically review this policy to stay informed about how we collect, use, and disclose Personal Information.
 
-###### Information You Can Access
+### 10\. Contacting Us
 
-Transaction information, including personal information shared with customers of Signifyd during the course of regular business, is accessible to customers of Signifyd programmatically or through the Signifyd user interface.  Access to transactional information for individuals associated with customers of Signifyd is governed by those entities directly.
+    If you have any questions, comments, or concerns about this privacy policy, or if you would like to exercise your rights in relation to your Personal Information, please contact us using the following contact information: 
 
-##### EU-US Privacy Shield
-
-Signifyd, Inc. participates in the EU-US Privacy Shield Framework regarding the collection, use, and retention of personal information from European Union member countries. We have certified with the Department of Commerce that we adhere to the Privacy Shield Principles. To learn more about the Privacy Shield Principles, click [here](https://www.privacyshield.gov/).
-
-If you have any inquiries or complaints about our handling of your personal data under Privacy Shield, or about our privacy practices generally, please contact us at: [privacy@signifyd.com](mailto:privacy@signifyd.com). We will respond to your inquiry promptly. If we are unable to satisfactorily resolve any complaint relating to the Privacy Shield, or if we fail to acknowledge your complaint in a timely fashion, you can submit your complaint to the International Centre for Dispute Resolution (ICDR/AAA), which provides an independent third-party dispute resolution service based in the United States. ICDR/AAA has committed to respond to complaints and to provide appropriate recourse at no cost to you. To learn more about ICDR/AAA’s dispute resolution services or to refer a complaint to ICDR/AAA, visit here. If neither Signifyd nor ICDR/AAA resolves your complaint, you may pursue binding arbitration through the Privacy Shield Panel. To learn more about the Privacy Shield Panel, click [here](https://www.privacyshield.gov/).
-
-As explained here we sometimes provide personal information to third parties to perform services on our behalf. If we transfer personal information received under the Privacy Shield to a third party, the third party's access, use, and disclosure of the personal data must also be in compliance with our Privacy Shield obligations, and we will remain liable under the Privacy Shield for any failure to do so by the third party unless we prove we are not responsible for the event giving rise to the damage.
-
-You can review our Privacy Shield registration here. Signifyd, Inc. is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). We may be required to disclose personal information that we handle under the Privacy Shield in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
-
-### Security
-
-We use reasonable security measures that are designed to protect personal information in our control from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. Please note, however, that no data security measures can be guaranteed to be completely effective. Consequently, we cannot ensure or warrant the security of any personal information or other information or that it will not be accessed, viewed, or acquired by unauthorized persons. You transmit information to us at your own risk.
-
-### Updates to this Policy
-
-We may occasionally update this policy. When we do, we will also revise the "last updated" date at the beginning of the policy. Your continued use of our Services after such changes will be subject to the then-current policy. If we change this policy in a manner that is materially less restrictive of our use or disclosure of your personal information, we will use reasonable efforts to notify you of the change and to obtain your consent prior to applying the change to any personal information that we collected from you prior to the date the change becomes effective. We encourage you to periodically review this policy to stay informed about how we collect, use, and disclose personal information.
-
-### Contacting Us
-
-If you have any questions, comments, or concerns about this privacy policy, please contact us using the following contact information:
-
-SIGNIFYD Inc.   
-Attn: SIGNIFYD.com Privacy Issues   
-2590 North First Street, Suite 300   
-San Jose, CA 95131   
+Signifyd, Inc.  
+Attn: Signifyd.com Privacy Issues  
+2540 North First Street, Suite 300  
+San Jose, CA 95131  
 [privacy@signifyd.com](mailto:privacy@signifyd.com)
