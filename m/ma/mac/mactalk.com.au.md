@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mactalk.com.au privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623012427id_/http%3A//www.mactalk.com.au/content/privacy-policy-1807) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mactalk.com.au privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905130604id_/http%3A//www.mactalk.com.au/content.php%3Fr%3D1807-Privacy-Policy) for the most accurate reproduction.*
 
 # MacTalk - Privacy Policy
 
@@ -12,7 +12,7 @@ We revaluate this policy on an ongoing basis, and we value your feedback. If you
 Privacy Officer   
 Niche Media Pty Ltd.   
 ABN13064613529  
-142 Dorcas Street South Melbourne VIC 3205  
+1 Queens Road, Melbourne VIC 3004  
 AUSTRALIA  
 Or to [mactalk@mactalk.com.au](mailto:mactalk@mactalk.com.au)
 
