@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the comparably.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829191755id_/https%3A//www.comparably.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comparably.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906000941id_/https%3A//www.comparably.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Comparably
 
-## Crew32, Inc. Privacy Policy Effective Date: January 25, 2016
+## Comparably, Inc. Privacy Policy Effective Date: January 25, 2016
 
-Welcome to the website of Crew32, Inc. (" **Crew32** ", " **we** ", " **us** " and/or " **our** "). We have prepared this Privacy Policy to explain how we collect, use, protect and disclose information and data when you use the Crew32 website (" **Site** ") and Crew32 services, including any software, mobile applications, or other services offered by Crew32 from time to time and other products or services offered by third parties using Crew32 functionality (collectively, " **Services** "). " **You** " refers to you as a user of the Site or Services.
+Welcome to the website of Comparably, Inc. (" **Comparably** ", " **we** ", " **us** " and/or " **our** "). We have prepared this Privacy Policy to explain how we collect, use, protect and disclose information and data when you use the Comparably website (" **Site** ") and Comparably services, including any software, mobile applications, or other services offered by Comparably from time to time and other products or services offered by third parties using Comparably functionality (collectively, " **Services** "). " **You** " refers to you as a user of the Site or Services.
 
  **BY USING THE SITE OR SERVICES YOU CONSENT TO THIS PRIVACY POLICY.**
 
 ### Managing Your Information Preferences
 
-You can always review, correct, or update your Personal Information by changing the relevant settings in your Crew32 account. You can opt out of receiving certain emails by changing notification settings on the Site or in our applications, clicking the unsubscribe link provided in an email, or by emailing us at info@comparably.com. If you have questions or concerns regarding this Privacy Policy, please email us at info@comparably.com.
+You can always review, correct, or update your Personal Information by changing the relevant settings in your Comparably account. You can opt out of receiving certain emails by changing notification settings on the Site or in our applications, clicking the unsubscribe link provided in an email, or by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) If you have questions or concerns regarding this Privacy Policy, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ### Information We Collect
 
@@ -32,7 +32,7 @@ Our mobile application may collect certain additional information automatically,
 
  _Cookies and Web Beacons_
 
-We may use cookies (a small text file placed on your computer to identify your computer and browser). We may also use Web beacons (a file placed on a website that monitors usage). We use cookies and Web beacons to improve the experience of the Site and Services, such as pre-populating your username for easier login. We do not use cookies or Web beacons to collect Personal Information. Most Web browsers are initially set up to accept cookies. At this time, Crew32 does not recognize automated browser signals regarding tracking, including "do-not-track" signals. You can remove persistent cookies and change your privacy preferences by following directions provided in your Internet browser's "help" directory. However, certain features of the Site or Services may not work if you delete or disable cookies. Some of our Service Providers may use their own cookies and Web beacons in connection with the services they perform on our behalf, as further explained below.
+We may use cookies (a small text file placed on your computer to identify your computer and browser). We may also use Web beacons (a file placed on a website that monitors usage). We use cookies and Web beacons to improve the experience of the Site and Services, such as pre-populating your username for easier login. We do not use cookies or Web beacons to collect Personal Information. Most Web browsers are initially set up to accept cookies. At this time, Comparably does not recognize automated browser signals regarding tracking, including "do-not-track" signals. You can remove persistent cookies and change your privacy preferences by following directions provided in your Internet browser's "help" directory. However, certain features of the Site or Services may not work if you delete or disable cookies. Some of our Service Providers may use their own cookies and Web beacons in connection with the services they perform on our behalf, as further explained below.
 
 ### How We Use Information and When We May Share and Disclose Information Generally
 
@@ -41,19 +41,19 @@ We may use your Personal Information for the purpose for which it was provided, 
   * Provision and Monitoring of the Services: We will use your Personal Information to provide you with access to and to support your use of the Services. We will also give you the opportunity to store, review and edit Personal Information and other information on the Site.
   * Surveys or Special Offers: From time to time, we may offer our users the opportunity to participate in surveys and other special offers. If you elect to participate in these services, you will need to provide certain Personal Information.
   * Questions and Requests: If you contact us by e-mail or otherwise, we will use the Personal Information you provide to answer your question or resolve your problem.
-  * Contacting You About Other Products, Services and Events: Crew32 may use your Personal Information to contact you in the future to tell you about products, services and events that may be of interest to you.
-  * Research and Data Analysis: In an ongoing effort to better understand and serve the users of the Site and the Services, Crew32 may perform data analysis and create statistical data based on the Non-Personal Information and Usage Data and other information provided to us. This data may be compiled and analyzed on an aggregate basis, and Crew32 may share this data with its users as well as advertisers, researchers, business partners, publications, and other third parties. **This information will not identify you personally**.
+  * Contacting You About Other Products, Services and Events: Comparably may use your Personal Information to contact you in the future to tell you about products, services and events that may be of interest to you.
+  * Research and Data Analysis: In an ongoing effort to better understand and serve the users of the Site and the Services, Comparably may perform data analysis and create statistical data based on the Non-Personal Information and Usage Data and other information provided to us. This data may be compiled and analyzed on an aggregate basis, and Comparably may share this data with its users as well as advertisers, researchers, business partners, publications, and other third parties. **This information will not identify you personally**.
   * Service Improvement: We may use Non-Personal Information and Usage Data collected through the Site and Services to help us improve the content and functionality of the Site and to improve the Services.
 
 
 
 ### Third Party Services and Applications
 
-Through the Site or Services, you may elect to access third-party services and applications, such as LinkedIn, Facebook and other social networks. When you do so, you may be able to import information from those other services and applications and share content with those services. Some of those third-party services may also provide us with information from your accounts, which may enable us to enhance and personalize your use of the Site and Services. If you elect to enable such third-party services or applications, the information you share with such third-party services and applications will be subject to their privacy policies and your privacy settings. You can control whether your activity is sent to third-party services and applications by changing the relevant settings in your Crew32 account. You also may be able to control or block such sharing by changing your privacy settings in such services or applications. Please note that third parties may collect, but we do not authorize them to collect, personally identifiable information about your online activities over time and across different websites when you use the Site or Services.
+Through the Site or Services, you may elect to access third-party services and applications, such as LinkedIn, Facebook and other social networks. When you do so, you may be able to import information from those other services and applications and share content with those services. Some of those third-party services may also provide us with information from your accounts, which may enable us to enhance and personalize your use of the Site and Services. If you elect to enable such third-party services or applications, the information you share with such third-party services and applications will be subject to their privacy policies and your privacy settings. You can control whether your activity is sent to third-party services and applications by changing the relevant settings in your Comparably account. You also may be able to control or block such sharing by changing your privacy settings in such services or applications. Please note that third parties may collect, but we do not authorize them to collect, personally identifiable information about your online activities over time and across different websites when you use the Site or Services.
 
 ### Service Providers
 
-From time to time, we may establish a business relationship with other businesses that we believe to be trustworthy and have privacy practices consistent with ours (" **Service Providers** "). For example, we may contract with Service Providers to provide certain services, such as hosting and maintenance, data storage and management, and marketing and promotions. We only provide our Service Providers with the information necessary for them to perform these services on our behalf. Each Service Provider must agree to use reasonable security procedures and practices, appropriate to the nature of the information involved, in order to protect your Personal Information from unauthorized access, use or disclosure. Service Providers are prohibited from using Personal Information other than as specified by Crew32.
+From time to time, we may establish a business relationship with other businesses that we believe to be trustworthy and have privacy practices consistent with ours (" **Service Providers** "). For example, we may contract with Service Providers to provide certain services, such as hosting and maintenance, data storage and management, and marketing and promotions. We only provide our Service Providers with the information necessary for them to perform these services on our behalf. Each Service Provider must agree to use reasonable security procedures and practices, appropriate to the nature of the information involved, in order to protect your Personal Information from unauthorized access, use or disclosure. Service Providers are prohibited from using Personal Information other than as specified by Comparably.
 
 ### Advertising
 
@@ -61,11 +61,11 @@ We may work with third-party advertisers, search providers, and ad networks (" *
 
 ### Other Transfers
 
-We may share Personal Information, Non-Personal Information and Usage Data with businesses controlling, controlled by, or under common control with Crew32. If Crew32 is merged, acquired, or sold, or in the event of a transfer of some or all of our assets or equity, we may disclose or transfer Personal Information, Non-Personal Information and Usage Data in connection with such transaction.
+We may share Personal Information, Non-Personal Information and Usage Data with businesses controlling, controlled by, or under common control with Comparably. If Comparably is merged, acquired, or sold, or in the event of a transfer of some or all of our assets or equity, we may disclose or transfer Personal Information, Non-Personal Information and Usage Data in connection with such transaction.
 
 ### Compliance with Laws and Law Enforcement
 
-Crew32 will cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We may disclose Personal Information and any other content and information about you to government or law enforcement officials or private parties if, in our discretion, we believe it is necessary or appropriate in order to respond to legal requests (including court orders and subpoenas), to protect the safety, property or rights of Crew32 or of any third party, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law.
+Comparably will cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We may disclose Personal Information and any other content and information about you to government or law enforcement officials or private parties if, in our discretion, we believe it is necessary or appropriate in order to respond to legal requests (including court orders and subpoenas), to protect the safety, property or rights of Comparably or of any third party, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law.
 
 ### Be Careful When You Share Information with Others
 
@@ -73,7 +73,7 @@ Please be aware that if you elect to share information on a public forum on the 
 
 ### Exclusions
 
-This Privacy Policy shall not apply to any unsolicited information you provide to Crew32 through the Site or Services or through any other means. This includes, but is not limited to, information posted to any public areas of the Site, such as bulletin boards, any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, " **Unsolicited Information** "). All Unsolicited Information shall be deemed to be non-confidential and Crew32 shall be free, and you hereby grant Crew32 the right, to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution.
+This Privacy Policy shall not apply to any unsolicited information you provide to Comparably through the Site or Services or through any other means. This includes, but is not limited to, information posted to any public areas of the Site, such as bulletin boards, any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, " **Unsolicited Information** "). All Unsolicited Information shall be deemed to be non-confidential and Comparably shall be free, and you hereby grant Comparably the right, to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution.
 
 ### Security
 
@@ -81,7 +81,7 @@ We maintain physical, electronic, and procedural safeguards to protect the confi
 
 ### Links
 
-Our Site and Services may contain links or integrate with other websites and online services, or allow others to send you such links. Crew32 is not responsible or liable for any damage or loss related to your use of any third-party website or online service. You should always read the terms and conditions and privacy policy of a third-party website or online service before using it, whether directly or in connection with your use of the Site or Services.
+Our Site and Services may contain links or integrate with other websites and online services, or allow others to send you such links. Comparably is not responsible or liable for any damage or loss related to your use of any third-party website or online service. You should always read the terms and conditions and privacy policy of a third-party website or online service before using it, whether directly or in connection with your use of the Site or Services.
 
 ### Children's Privacy
 
