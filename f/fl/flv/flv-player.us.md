@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flv-player.us privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618161216id_/http%3A//applian.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flv-player.us privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905151501id_/http%3A//applian.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -75,7 +75,7 @@ Attn:  Customer Service
 
   * **[General Inquiries](http://support.applian.com/support/tickets/new)**
   * **[Technical Support](https://web.archive.org/support/?data-filter=.products) **
-  * [**Sales**](https://web.archive.org/cdn-cgi/l/email-protection#d3a0b2bfb6a093b2a3a3bfbab2bdfdb0bcbe)
+  * [**Sales**](mailto:sales@applian.com)
   * FAX: 415-480-1748 (USA)
 
 
