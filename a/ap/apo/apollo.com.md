@@ -1,92 +1,157 @@
-> *The following text is extracted and transformed from the apollo.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229142614id_/http%3A//www.agm.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apollo.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905120028id_/http%3A//www.apollo.com/site-services/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Apollo Global Management
 
-**Privacy Policy**
+Respecting and protecting investor privacy has always been vital to our business. This Privacy Policy describes how Apollo Global Management, LLC (together with its subsidiaries and affiliates "Apollo", "us", "we" or "our") gathers and uses personal information about you when you visit Apollo’s websites that link to this Privacy Policy (including Apollo.com, Apolloic.com, Apolloreit.com, AGMfunds.com, and Apolloalternativeassets.com, and any sites that are automatically redirected to them, collectively, the "Sites"); how we protect and share this information; and the rights you may have in relation to this information. Please read this Privacy Policy carefully, and consult our [Terms of Use](https://web.archive.org/site-services/terms-of-use) for more information about the general terms and conditions regarding your use of the Sites.
 
-This Privacy Policy sets forth guidelines concerning how Apollo Global Management, LLC (together with its subsidiaries and affiliates “Apollo”, “us”, “we” or “our”) gathers and uses information about your interaction with this website (the “Site”). This Privacy Policy concerns only this Site, and does not concern any website to which this Site may link. 
+In the event that you have any questions or concerns about this Privacy Policy, or if you object to our uses of your personal information, please contact our Privacy Office at [privacy@apollo.com](mailto:privacy@apollo.com).
 
-This Privacy Policy seeks to help you understand whether and how we collect information about you when you visit the Site, and how we use such information. Please read this Privacy Policy carefully, and consult our Terms of Use for more information about the general terms and conditions regarding your use of this Site. 
+## A. The Types of Information We Collect
 
-In the event that you have any questions or concerns about the guidelines set forth in this Privacy Policy please contact us at InvestorRelations@agm.com or Webmaster, Apollo Global Management, LLC, 9 West 57th Street, New York, NY 10019. 
+When you visit and browse the Sites, you may provide us with information, and we will collect certain information automatically.
 
-A. The Types of Information We Collect About You 
+**1\. Information You Provide to Us**
 
-When you visit and browse the Site, we may collect two different types of information about you: information you provide to us, and information we collect through technology. 
+In order to access certain services provided via the Sites or to request certain information from Apollo via the Sites, you will be required to provide certain personal information. More
 
-1\. Information You Provide to Us 
+This may include your name, postal address, e-mail address, telephone number, facsimile number, investor status, or other information about yourself. In particular, you may be required to provide a username and password to access certain features. If you choose to not provide us with information, you might not be able to gain access to certain information and services on the Sites, which rely on such information (for example, you will not be able to register for e-mail updates if you do not provide us with an e-mail address, and if you choose not to provide a username and password, we will not be able to provide you with services available through an online account).
 
-In order to obtain access to certain services provided via the Site and request certain information regarding Apollo directly from the company via the Site, you may be required to provide personally identifiable information such as your name, postal address, e-mail address, telephone number, facsimile number and investor status. You can choose not to provide this information, but then you might not be able to gain access to such information and services. 
+**2\. Information We Collect Automatically**
 
-2\. Information We Collect Through Technology 
+We also collect information about you automatically. More
 
-We may collect information about you through technology. For example, when you visit the Site, we may collect your IP address. (An IP address is often associated with the portal through which you enter the Internet, like your ISP (Internet service provider), your company, or your university.) Standing alone, your IP address is not personally identifiable. At times, we may also use IP addresses to collect information regarding the frequency with which visitors browse various parts of the Site. We may combine this information with personally identifiable information. 
+For example, when you visit the Sites, we collect your IP address, your browser type, your operating system, the pages you view on the Sites, the duration of your visit, the pages you view immediately before and after you access the Sites, and the search terms you enter on the Sites.
 
-The Site may also use cookies. (Cookies are pieces of information that a website sends to your computer while you are viewing the website.) We and other companies use cookies for a variety of purposes. For instance, when you return to our Site after logging in, cookies provide information to the Site so that the Site will remember who you are. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your web browser settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that may make your browsing of the Site smoother, like the features mentioned above, and some of our services may not function properly. 
+We collect this information using cookies, which are small files that a website sends to your computer or device while you are viewing the website, or other technical methods to track visitor usage, including web beacons, which are small pieces of data that are embedded in images on the pages of a website.
 
-The Site may also use other technical methods to track visitor usage, including web beacons. (“Web beacons” are small pieces of data that are embedded in images on the pages of a website.) We may also use these technical methods to analyze the traffic patterns on the Site, such as the frequency with which our users visit various parts of the Site. These technical methods may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf. We may also use these technical methods in HTML e-mails that we send visitors to the Site to determine whether such visitors have opened those e-mails and/or clicked on links in those e-mails. We may collect the information from use of these technical methods in a form that is personally identifiable. To the extent we are able to do so, we may link your non-personally identifiable information with your personally identifiable information.  We may also link information collected online with information we collect offline or that is collected online by third parties. ****
+We and other companies use cookies and web beacons for a variety of purposes. For instance, when you return to our Sites after logging in, cookies provide information to the Sites so that the Sites will remember who you are. We use web beacons and other technologies to analyze the traffic patterns on the Sites, such as the frequency with which our users visit various parts of the Sites. More
 
-Also, our third-party service providers may ask you voluntarily to provide personal information on their websites and may share such personal information with us, as governed by their respective privacy policies.  Our use of information received from a service provider will be dictated by the service provider's privacy policies and not this Privacy Policy. 
+You may be able to have your browser warn you when a cookie is sent, and you may be able to turn off all cookies. You can do this through your web browser settings. Each browser is different, so look at your browser Help menu to learn the correct way to modify your cookie settings. If you turn cookies off, you won't have access to many features that may improve your browsing, like the features mentioned above, and some of our services may not function properly.
 
-We may provide links on the Site to third parties. In addition, third parties may also provide links to the Site. Should you choose to visit these third party sites, you should review their privacy policies to ensure you understand and are comfortable with their practices concerning your personal information. We do not accept, and do disclaim, any responsibility for the privacy policies and information protection practices of any third party website (whether or not such site is linked on or to the Site). These links are provided to you for convenience purposes only, and you access them at your own risk. 
+Other technical methods including web beacons may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf. We may also use these technical methods in HTML e-mails that we send visitors to the Sites to determine whether such visitors have opened those e-mails and/or clicked on links in those e-mails.
 
-B. How Personally Identifiable Information We Collect About You is Used 
+**3\. Additional Information Collection Practices**
 
-We may use personally identifiable information we collect about you when you visit and browse the Site in many ways. Representative examples of the ways in which we may use personally identifiable information we collect about you when you visit and browse the Site are set forth below. 
+The Sites may contain links to websites operated by third-parties, and your personal information may be collected by those third-parties when you use their websites. More
 
-1\. Use in Connection with Normal Business Operations 
+Should you choose to visit these third-party sites, you should review their privacy policies to ensure you understand and are comfortable with their practices concerning your information. We do not accept, and do disclaim, any responsibility for the privacy policies and information collection, use, and sharing practices of any third-party website (whether or not such site is linked on or to the Sites). These links are provided to you for convenience purposes only, and you access them at your own risk. 
 
-Although, we do not sell your personal information to third parties, we may use or share certain personally identifiable information we collect about you when you visit and browse the Site as part of our normal business operations (such as processing your requests for forms or other literature or information, transactions, service, or to prepare investor disclosure materials), or to send you administrative communications either about your interactions with us or about features of our website, including any future changes to this Privacy Policy. 
+Some of our third-party partners may ask you to provide personal information on their websites and may share such personal information with us, as governed by their respective privacy policies. More
 
-2\. Use in Connection with Third Party Offers 
+The third-party partners we receive personal information from include web hosting providers. We receive information related to name, occupation, address, and contact information from third party partners. Our use of information received from such a third party will be dictated by the third party’s privacy policy and not this Privacy Policy.
 
-We may also share your information with third parties when you engage in certain activities on the Site that are sponsored by third parties, such as purchasing products or services offered by a third party, or electing to receive information or communications from a third party. When you participate in such, you will either be required or requested to agree that the sponsor or business associate may use your personal information (including, in some cases, your e-mail address) in accordance with the sponsor or business associate’s privacy practices. 
+We will link the information that we collect automatically with the information you provide us, and we will combine the information we collect online with information we collect offline or that is collected by third-parties.
 
-3\. Other Uses 
+### B. How We Use the Information We Collect
 
-Sometimes we hire companies to help deliver products or services, like a shipping company that delivers a package. In that instance, there is a need to share your information with that company. Sometimes we also work with other companies who help either gather your information or communicate with you. Except as separately permitted by the guidelines of this Privacy Policy, these companies are allowed to gather, receive, and use your information only for the purposes described in this paragraph or as required by law. 
+We use information we collect about you primarily to: provide services to you in accordance with any contract with you, communicate with you, and manage and improve our services for you and our other investors, as permitted by applicable laws. More
 
-Finally, we may take any personally identifiable information that we collect from you when you visit and browse the Site and make it non-personally identifiable, either by combining it with information about other individuals (aggregating your information with information about other individuals), or by removing characteristics (such as your name) that make the information personally identifiable to you (de-personalizing your information). Given the nature of this information, there are no restrictions under the guidelines set forth in this Privacy Policy upon our right to aggregate or de-personalize your personal information, and we reserve the right to use and/or share with third parties the resulting non-personally identifiable information in any way. 
+We use your personal information to:
 
-C. Additional Ways Personally Identifiable Information May be Disclosed 
+  * respond to your requests for forms, literature, or information, on the basis that it is in our business interests to respond to your requests, and you have requested that we do this;
+  * manage and administer customer services, including but not limited to the administration of your customer account. In most cases we do this is to meet our contractual obligations to you. Where there is no such obligation, we have a business interest in keeping our records accurate and up to date, which will assist you when we provide our services;
+  * process transactions, as necessary to meet our contractual obligations to you;
+  * provide you with the services you have requested. In many cases we will provide these services to comply with contractual obligations to you, but if these services are not governed by any contract, we will use your information in this way to meet our business interests in providing the best service possible;
+  * prepare investor disclosure materials. This is necessary to comply with our legal obligations, to meet our interests in managing our business effectively, and for informing you and our other investors about how we are meeting your expectations;
+  * improve the Sites and learn about how visitors use the Sites. This is necessary for us to improve the services we offer through the Sites, and benefits you as it helps us make the Sites more usable and appealing;
+  * communicate with you about our products and services, including providing you with information about features on the Sites and possible changes to our Privacy Policy or terms of use. If required by applicable law, we will only send these messages on the basis that you have consented, or otherwise it will be to meet our business interests in providing information to our investors about new products and features. You can opt out of receiving marketing communications at any time;
+  * comply with legal obligations; and
+  * protect our rights, your rights, and the rights of others, as this may be necessary to meet our own high standards of business practice.
 
-We may share your personal information with our affiliates.  From time to time, we may partner with other organizations or companies to provide co-sponsored or co-branded promotions, services or events and may share your personal information with our co-sponsor(s) and partners.  We will also disclose personal information when we believe in good faith that such disclosures (a) are required by law, including, for example, to comply with a court order or subpoena, or in response to a law enforcement agency's request, or (b) will help to: enforce our Terms of Use; protect your safety or security, including the safety and security of property that belongs to you; and/or, protect the safety and security of the Sites, databases, and/or third parties, including the safety and security of tangible and/or intangible property that belongs to us or to third parties. We may also transfer your information to any other entity that acquires all or a portion of our organization by merger, reorganization, operation of law, or a sale of some or all of our assets. 
 
-D. The Security Measures We Take to Safeguard Your Personally Identifiable Information 
 
-The security and confidentiality of your information is extremely important to us. We have implemented commercially reasonable technical, administrative, and physical security measures to protect personal information from reasonably foreseeable intrusions by unauthorized third parties. From time to time, we review our security procedures in order to consider appropriate new technology and methods. Please be aware though that, despite our best efforts, no security measures are perfect or impenetrable. 
+We may use information for any purpose if the information does not identify you and cannot be combined with other information accessible to us to identify you. For example, we may prepare aggregated reports about how visitors tend to interact with the Sites for research about the use of the Sites and how the Sites could be improved, from which your interactions with the Sites cannot be singled out.
 
-E. Updating Your Contact Information 
+### C. How We Share the Information We Collect
 
-We will provide you an opportunity to update your contact information and/or modify your communication choices by sending you an e-mail or other communication that invites your response, or by providing a means to update that information via the Site. 
+**1\. In Connection with Third Party Offers**
 
-F.  Children’s Information
+We will share information about you with third-parties when you engage in certain activities on the Sites that are sponsored by third-parties. For example, you may choose to purchase products or services offered by a third-party or elect to receive information or communications from a third-party. When you engage in such third-party offerings, we may share information (e.g., your e-mail address) with third-parties in association with the offerings. More
 
-The Site is intended for use by those over 18 and minors under the age of 13 may not use the Site.  We do not knowingly solicit or collect personal information on the Site from children under the age of 13 without prior verifiable parental consent. If we learn that, despite these measures, a child under the age of 13 has submitted personally identifiable information to us through the Site, we will take reasonable measures to delete such information from our records and to not use such information for any purpose (except where necessary to protect the safety of the child or others as required by law).
+We disclose this information to third-parties for the purposes and on the basis described above (see Section B), for example, to process your transactions and to respond to your requests for information or communications from third-parties.
 
-G.  Do Not Track
+**2\. Service Providers**
 
-Your browser and other mechanisms may permit you to send do-not-track signals or other similar signals to express your preferences regarding online tracking.  As we do not track users across time or over multiple websites, we do not receive, or respond to, browser do-not-track signals or other similar mechanisms.  As noted above, third parties, such as our advertising partners, may collect data that relates to you.  We cannot control third parties’ responses to do-not-track signals or other such mechanisms.  Third parties’ use of data relating to you and responsiveness to do-not-track signals is governed by their respective privacy policies.
+Sometimes we engage companies that act on our behalf in association with the operation of the Sites. For example, such companies may deliver products or services, improve the functionality of the Sites, collect information about you, communicate with you, or store information for us. In some cases, these companies may need to access information about you. More
 
-H.  California Privacy Rights
+Except as otherwise disclosed in this Privacy Policy or as otherwise communicated to you, Apollo takes reasonable steps require these companies to collect, store, and use information about you only on our behalf and in accord with this Privacy Policy. We share personal information with service providers on the basis that it is necessary to meet our legitimate interests in efficiently managing our business and for developing future business.
 
-If you are a California resident, you have the right to request information from us regarding the manner in which Company shares certain categories of personal information with third parties for their direct marketing purposes, in addition to the rights set forth above.  Under California law, you have the right to send us a request at the designated address listed below to receive the following information:
+**3\. Analytics Providers**
 
-1\. The categories of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year;
+We engage third-party analytics providers to help us understand how users engage with the Sites. These third-parties may use cookies and similar technologies to collect information about your use of the Sites as well as information about your use of other websites over time. More
 
-2\. the names and addresses of the third parties that received the information; and
+The third-party services we use include, but may not be limited to: [Google Analytics](https://support.google.com/analytics/answer/6004245 "Opens in a new window") and [Adobe](http://www.adobe.com/privacy/opt-out.html "Opens in a new window"), which may provide you with choices about how they collect and use information. As described above, we share personal information with analytics providers on the basis that it is necessary to meet our legitimate interests in efficiently managing our business and for developing future business.
 
-3\. if the nature of the third party's business cannot be determined from their name, examples of the products or services marketed.
+**4\. Additional Sharing Practices**
 
-This information may be provided in a standardized format that is not specific to you.  The designated email address for these requests is: [privacy@apollolp.com](mailto:privacy@apollolp.com).
+From time to time we share your information with our affiliates and subsidiaries, or with our attorneys, banks, auditors, securities brokers and other service providers in connection with the purposes described above. From time to time, we partner with other organizations or companies to provide co-sponsored or co-branded promotions, services, or events, and we will share your information with our co-sponsor(s) and partners to the extent necessary for the partnership to function. More
 
-  
-I.  European Subject Access Requests
+We may disclose information when we believe in good faith that such disclosures:
 
-If you believe that personal data relating to you is held by an entity within Apollo's group which is subject to European data protection legislation, you have the right to know what information that entity holds about you. In these circumstances, Apollo will, within a reasonable timeframe, provide you with a complete list of all the personal data which is held about you by the relevant entity. Apollo reserves the right to charge an administration fee of £10 (or an equivalent in any other currency) for this service.
+  * are required by law, including, for example, to comply with a court order or subpoena, or in response to a law enforcement agency's request; 
+  * will help to protect our rights or enforce our Terms of Use;
+  * will support our detection, prevention, or response to fraud or intellectual property infringement;
+  * will help protect your safety or security, including the safety and security of property that belongs to you; and
+  * will protect the safety and security of the Sites, databases, and/or third-parties, including the safety and security of tangible and/or intangible property that belongs to us or to third-parties.
 
-I.  Amendments to this Privacy Policy 
 
-These guidelines were adopted with the realization that both the Internet and the Site are still evolving. Accordingly, this Privacy Policy is subject to change. Should this Privacy Policy be amended in any way, changes will be posted to this webpage.  As we may make changes from time to time without notifying you, we suggest that you periodically consult this Privacy Policy.  Your continued use of the Site after the effective date of any modification to the Privacy Policy will be deemed to be your agreement to the changed terms.
 
-Last updated on July 22, 2014.
+We may also share information about you to the extent reasonably necessary to proceed with the consideration, negotiation, or completion of a merger, reorganization, or acquisition of our business, or a sale, liquidation, or transfer of some or all of our assets. More
+
+The above-described disclosures are provided on the basis that they are either necessary to comply with our legal obligations or they are necessary to meet our legitimate interests in managing our business efficiently and for developing future business.
+
+Additionally, we reserve the right to share with third-parties information that does not identify you (and cannot be combined with other information accessible to us to identify you) for any purpose.
+
+### D. The Security Measures We Take to Safeguard Information
+
+The security and confidentiality of the information we collect or receive is extremely important to us, and we take our responsibility to protect this information very seriously. We have implemented commercially reasonable technical, administrative, and physical security measures to protect the information that we collect or receive. From time to time, we review and consider updates for our security procedures. Please be aware that, despite our ongoing efforts, no security measures are perfect or impenetrable.
+
+### E. Updating Your Contact Information
+
+You may update your contact information and/or modify your communication preferences by sending us an e-mail at [privacy@apollo.com](mailto:privacy@apollo.com). Additionally, we may provide tools on the Sites that facilitate such updates or modifications.
+
+### F. Children’s Information
+
+The Sites are intended for use by those over 18, and minors under the age of 13 may not use the Sites. More
+
+We do not knowingly solicit or collect personal information on the Sites from children under the age of 13. If we learn that, despite these measures, a child under the age of 13 has submitted personally identifiable information to us through the Site, we will take reasonable measures to delete such information from our records and to not use such information for any purpose (except where necessary to protect the safety of the child or others as required by law).
+
+### G. Do Not Track
+
+Your browser and other mechanisms may permit you to send do-not-track signals or other similar signals to express your preferences regarding online tracking. We do not currently respond to such signals. More
+
+Third-parties, such as our analytics providers, may collect data that relates to you on the Sites, across time, and over other websites. We cannot control third-parties’ responses to do-not-track signals or other such mechanisms. Third-parties’ use of data relating to you and responsiveness to do-not-track signals is governed by their respective privacy policies.
+
+### H. California Privacy Rights
+
+If you are a California resident, you have the right to request certain information from us regarding the manner in which we share with third-parties certain categories of information that identifies you for the third-parties’ direct marketing purposes. If you wish to exercise those rights, please email us at [privacy@apollolp.com](mailto:privacy@apollolp.com).
+
+### I. Your Choices and Rights
+
+If you no longer wish to receive marketing materials from us, you can let us know by contacting us at [privacy@apollo.com](mailto:privacy@apollo.com) or by clicking the 'unsubscribe' link or using other unsubscribe features that we provide in our marketing communications.
+
+Subject to local law, you may have certain additional rights regarding your personal information. More
+
+These may include the following rights to: access your personal information; rectify the information we hold about you; erase your personal information; restrict our use of your personal information; object to our use of your personal information (as described above); receive your personal information in a usable electronic format and transmit it to a third-party (also known as the right of data portability); and lodge a complaint with your local data protection authority, and withdraw any consent you have given to uses of your personal information. If you would like to discuss or exercise the rights you may have, feel free to contact us at [privacy@apollo.com](mailto:privacy@apollo.com).
+
+### J. Where Is Information Processed?
+
+We process information collected via the Sites in and subject to the laws of the United States, which may not provide the same level protection for your information as your home country. The information may be available to the United States government or its agencies under a lawful order made in the United States. In addition, we may transfer your information outside the United States to our affiliates, business partners, and service providers located in other countries. More
+
+In some cases, your personal information may be transferred to, stored, and processed in a country that is not regarded as ensuring an adequate level of protection for personal information under European Union or other applicable laws. However, we have put in place appropriate safeguards (such as standard contractual clauses approved by the European Commission) in accordance with applicable legal requirements to ensure that your data is adequately protected. For more information on the appropriate safeguards in place or to obtain a copy, please contact us at [privacy@apollo.com](mailto:privacy@apollo.com).
+
+### K. How Long Is Information Retained?
+
+We retain your personal information for as long as we have a relationship with you and for a period after our relationship with you has ended. More
+
+When deciding how long to keep your personal information after our relationship with you has ended, we take into account how long we need to retain the information to fulfill the purposes described above and to comply with our legal obligations, including obligations to financial services regulators. We may also retain personal information to investigate or defend against potential legal claims in accordance with the limitation periods of jurisdictions where legal action may be brought.
+
+### L. Amendments to this Privacy Policy
+
+We may change this Privacy Policy from time to time. Should we do so, we will post the changes to this page. We suggest that you periodically consult this Privacy Policy to review any changes. Your continued use of the Sites after the effective date of any modification to the Privacy Policy will be deemed to be your agreement to the changed terms.
+
+This policy was last updated May 2018.
+
+### M. How to Contact Us
+
+If you have any questions regarding this policy or our privacy or data protection practices, please feel free to contact us at [privacy@apollo.com](mailto:privacy@apollo.com).
