@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inkhive.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007133934id_/https%3A//inkhive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inkhive.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905202716id_/https%3A//inkhive.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - InkHive.com
 
@@ -60,6 +60,6 @@ By using this Site, you signify your acceptance of this policy and [terms of se
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [InkHive](http://inkhive.com/) Designs Pvt Lt  
 #214, 2nd Floor, SCO 156-160, Sector 8C, Madhya Marg, Chandigarh, India  
-support@inkhive.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 This document was last updated on January 10, 2014
