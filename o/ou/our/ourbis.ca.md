@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourbis.ca privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925231702id_/https%3A//www.ourbis.ca/en/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourbis.ca privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905210221id_/https%3A//www.ourbis.ca/en/about/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Ourbis
 
