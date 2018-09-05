@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wso2.com privacy policy that was archived on 2017-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171014065312id_/http%3A//wso2.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wso2.com privacy policy that was archived on 2018-09-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180906012221id_/https%3A//wso2.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
         <meta charset="utf-8">
@@ -10,23 +10,8 @@
                             privacy-policy                    </title>
         
         
-                 
-        
-             
+            
         <link href="//fonts.googleapis.com/css?family=Nunito+Sans:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
-
-<!--<link rel="stylesheet" href="//b.content.wso2.com/sites/all/2017-d7-theme/d7-common/wso2.files.css" type="text/css" media="screen">
-
-<link href="//b.content.wso2.com/sites/all/bootstrap/css/bootstrap.css" rel="stylesheet">
-<script src="//b.content.wso2.com/sites/all/bootstrap/js/jquery.js"></script>
-<script src="//b.content.wso2.com/sites/all/bootstrap/js/bootstrap.js"></script>
-
-<script src="//b.content.wso2.com/sites/all/2017-d7-theme/d7-common/wso2.files.js"></script> 
-
-<script type="text/javascript" src="//c.content.wso2.com/sites/all/lightbox/lightbox-js.js"></script>
-<link href="//c.content.wso2.com/sites/all/lightbox/lightbox-styles.css" rel="stylesheet" type="text/css" media="all" />
-<script type="text/javascript" src="//c.content.wso2.com/sites/all/lightbox/lightbox-js-inline.js"></script>-->
-
 <script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PSTXMT"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//wso2.cachefly.net/wso2/sites/all/themes/wso2_d7/wso2.files.js"></script> 
 <link href="//wso2.cachefly.net/wso2/sites/all/themes/wso2_d7/wso2.files.css" rel="stylesheet" type="text/css" media="all">
 
@@ -153,7 +138,7 @@
     var ext_source = is_cookie("ws_source");
 
     if (ext_source == -1) {
-        var ws_source = document.referrer;
+        var ws_source = encodeURIComponent(document.referrer);
         if (ws_source == "") {
             ws_source = "webdirect";
         }
@@ -211,24 +196,11 @@
     @media screen and (max-width: 480px) {
         #boxes { display: none; }
     }
-</style>        <!-- Bootstrap -->
-       <!-- <link href="/sites/all/bootstrap/css/bootstrap.css" rel="stylesheet">
-        <script src="/sites/all/bootstrap/js/jquery.js"></script>
-        <script src="/sites/all/bootstrap/js/bootstrap.js"></script>
-        <script src="/sites/all/bootstrap/menu/jquery.bootstrap-dropdown-hover.js"></script> -->
+</style>
+        <!-- Bootstrap -->
 
-        <!--        <link href="//b.content.wso2.com/sites/all/bootstrap/wso2-bootstrap-styles.css" rel="stylesheet">-->
         <link href="/sites/all/common/wso2-common-styles.css" rel="stylesheet">
         <link href="//fonts.googleapis.com/css?family=Nunito+Sans:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
-        <!--        <link href="//b.content.wso2.com/sites/all/2015-june-theme/navigation/wso2menu.css" rel="stylesheet">-->
-
-        <!--        <link href='//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800' rel='stylesheet' type='text/css'>-->
-        <!--    <link rel="stylesheet" href="/sites/all/themes/wso2-v6/2015-june-theme/home-style.css" type="text/css" media="screen">-->
-
-        <!-- script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script -->
-       <!-- <script type="text/javascript" src="http://c.content.wso2.com/sites/all/slider/jssor.js"></script>
-        <script type="text/javascript" src="http://c.content.wso2.com/sites/all/slider/jssor.slider.js"></script> -->
-
 
     </head>
 
@@ -239,18 +211,18 @@
 <script>
 (function ($) {
           $(document).ready(function () {
-            
+
                  $("li.M-Link").hover(function () {
                $(this).addClass('arrowMenu');
                $(this).find("ul.dropdown-menu").show();
-               
+
            }, function () {
                $(this).removeClass('arrowMenu');
-               $(this).find("ul.dropdown-menu").hide(); 
-               
-               
+               $(this).find("ul.dropdown-menu").hide();
+
+
            });
-             
+
 
 
               $(window).scroll(function() {
@@ -285,12 +257,17 @@
 </script>
 
 <style>
+
     .arrowMenu {
         background-image: url("//b.content.wso2.com/sites/all/2017-d7-theme/menu2017/uparrow.svg");
         background-position: center bottom;
         background-repeat: no-repeat;
 /*        background-color: red;*/
     }
+    .cMenuSubTitle { color: #fff; font-size: 1.1em; font-weight: 200; margin: 15px 20px 7px; border-bottom: solid 1px rgba(255, 255, 255, .3); padding: 0 0 2px; }
+    .cMenuSubTitle.cTopLevel { margin-top: 7px; }
+    li.cMenuSubTitleLi { border-bottom: 0; padding-bottom: 0; }
+    li.cMenuSubTitleLi .cMenuSubTitle { font-weight: 300; font-size: 1em; }
 </style>
 
 
@@ -304,9 +281,9 @@
                         <ul class="dropdown-menu cMobileLoginDropdown">
 
 
-                                                            <li><a href="http://wso2.com/user/register" class="register" id="iMainMenu-Register">Register</a></li>
+                                                            <li><a href="https://wso2.com/user/register" class="register" id="iMainMenu-Register">Register</a></li>
                                 <li class="divider"></li>
-                                <li><a href="http://wso2.com/user/login" id="iMainMenu-Login" style="padding-right:0px;">Login</a></li>
+                                <li><a href="https://wso2.com/user/login" id="iMainMenu-Login" style="padding-right:0px;">Login</a></li>
                                 
 
 
@@ -334,70 +311,122 @@
 <div id="dl-menu" class="dl-menuwrapper wso2Mobilemenu_2017">
     <a href="/" class="cMobileLogo"><img src="//b.content.wso2.com/sites/all/2017-d7-theme/menu2017/wso2-logo.svg"></a>
             <button class="dl-trigger">Open Menu</button>
-             
+
             <ul class="dl-menu">
                 <li> <a href="/contact">Contact</a></li>
-                <li>
-                    <a class="cSubLinks" href="http://wso2.com/products/">Products</a>
 
-                    <ul class="dl-submenu">
-                        <li><a href="http://wso2.com/products/">Overview</a></li>
+                 <li>
+                     <a class="cSubLinks">Agility</a>
+                                  <ul class="dl-submenu">
+                                    <li><a href="https://wso2.com/agility/">Integration Agile Platform</a></li>
+                                    <li><a href="https://wso2.com/methodology/">Methodology for Agility</a></li>
+                                    <li><a href="https://wso2.com/architecture/ ">Architecture for Agility</a></li>
+
+                                </ul>
+                            </li>
+
+
+                <li>
+                    <a class="cSubLinks" href="https://wso2.com/products/">Products</a>
+
+
+
+                                <ul class="dl-submenu">
+                                    <li><a href="https://wso2.com/products/">Platform Overview</a></li>
+<!--                                    <li class="divider"></li>-->
+                                    <li><a href="https://wso2.com/api-management/">API Management</a></li>
+                                    <li><a href="https://wso2.com/integration/">Enterprise Integration</a></li>
+                                    <li><a href="https://wso2.com/identity-and-access-management/">Identity &amp; Access Management</a></li>
+                                    <li><a href="https://wso2.com/analytics-and-stream-processing/">Analytics &amp; Stream Processing</a></li>
+
+                                </ul>
+
+
+
+
+
+<!--                    <ul class="dl-submenu">
+                        <li><a href="https://wso2.com/products/">Overview</a></li>
                         <li class="divider"></li>
-                        <li><a href="http://wso2.com/api-management">API Management</a></li>
-                        <li><a href="http://wso2.com/integration">Integration</a></li>
-                        <li><a href="http://wso2.com/identity-and-access-management">Identity &amp; Access Management</a></li>
-                        <li><a href="http://wso2.com/analytics">Analytics</a></li>
-                        <li><a href="http://wso2.com/iot">IoT</a></li>
+                        <li><a href="https://wso2.com/api-management">API Management</a></li>
+                        <li><a href="https://wso2.com/integration">Integration</a></li>
+                        <li><a href="https://wso2.com/identity-and-access-management">Identity &amp; Access Management</a></li>
+                        <li><a href="https://wso2.com/analytics">Analytics</a></li>
                         <li class="divider"></li>
-                        <li><a href="http://wso2.com/cloud">Public Cloud</a></li>
-                    </ul>
+                        <li><a href="https://wso2.com/cloud">Public Cloud</a></li>
+                    </ul>-->
 
                 </li>
-                <li> <a href="http://wso2.com/solutions/financial/open-banking/">Solutions</a></li>
-                
-                <li> <a href="http://wso2.com/about/customers">Customers</a></li>
-                <li> <a href="http://wso2.com/partners">Partners</a></li>
                 <li>
-                    <a class="cSubLinks" href="http://wso2.com/events/">Events</a>
+                    <a class="cSubLinks">Solutions</a>
                     <ul class="dl-submenu">
-                        <li><a href="http://wso2.com/events/">Events Calendar</a></li>
-                        <li class="divider"></li>
-                        <li><a href="http://wso2.com/events/conferences/">Conferences</a></li>
-                        <li><a href="http://wso2.com/events/workshops/">Workshops</a></li>
-                        <li><a href="http://wso2.com/events/webinars/">Webinars</a></li>
-                        <li><a href="http://wso2.com/events/partner-events/">Partner Events</a></li>
-                          <li><a href="http://wso2.com/summit/newyork-2017/" target="_blank">Summits</a></li>
-                        <li class="divider"></li>
-                      
-                        <li><a href="http://wso2con.com/" target="_blank">WSO2Con </a></li>
+
+                         <li><a href="https://wso2.com/solutions/finance/">Financial Services </a></li>
+                                      <li><a href="https://wso2.com/solutions/regulatory-compliance/gdpr/">GDPR </a></li>
+                                       <li><a href="https://wso2.com/solutions/healthcare/">Healthcare </a></li>
+                                        <li><a href="https://wso2.com/solutions/financial/open-banking/">Open Banking </a></li>
+                                         <!-- <li><a href="https://wso2.com/solutions/serverless/">Serverless </a></li> -->
+                                          <li><a href="https://wso2.com/solutions/telecommunication/">Telecommunications </a></li>
+                                          <li><a href="/iot/">IoT</a></li>
+
+
+<!--
+                        <li class="cMenuSubTitleLi"><div class="cMenuSubTitle">Financial</div></li>
+                        <li><a href="/solutions/financial/open-banking/">Open Banking</a></li>
+                        <li class="cMenuSubTitleLi"><div class="cMenuSubTitle">Regulatory Compliance</div></li>
+                        <li><a href="/solutions/regulatory-compliance/gdpr/">GDPR</a></li>
+                        <li><a href="/iot/">IoT</a></li>
+                        <li><a href="https://wso2.com/solutions/enterprise-mobility/enterprise-mobility-management/">EMM</a></li>
+                         <li class="cMenuSubTitleLi"><div class="cMenuSubTitle">Enterprise Mobility</div></li>-->
                     </ul>
                 </li>
-                <li><a href="http://wso2.com/library">Library</a></li>
+
+                <li> <a href="https://wso2.com/about/customers">Customers</a></li>
+                <li> <a href="https://wso2.com/partners">Partners</a></li>
+                <li>
+                    <a href="https://wso2.com/events/">Events</a>
+<!--                    <ul class="dl-submenu">
+                        <li><a href="https://wso2.com/events/"/>Events Calendar</a></li>
+                        <li class="divider"></li>
+                        <li><a  href="https://wso2.com/events/conferences/">Conferences</a></li>
+                        <li><a  href="https://wso2.com/events/workshops/">Workshops</a></li>
+                        <li><a  href="https://wso2.com/events/webinars/">Webinars</a></li>
+                        <li><a  href="https://wso2.com/events/partner-events/">Partner Events</a></li>
+                          <li><a href="https://wso2.com/summit/london-2018" target="_blank">Summits</a></li>
+                        <li class="divider"></li>
+
+                        <li><a href="https://wso2con.com/" target="_blank">WSO2Con </a></li>
+                    </ul>-->
+                </li>
+                <li><a href="https://wso2.com/library">Library</a></li>
                 <li class="M-Link">
-                    <a class="cSubLinks" href="http://wso2.com/support">Support</a>
+                    <a class="cSubLinks" href="https://wso2.com/subscription">Support</a>
                     <ul class="dl-submenu">
-                        <li><a href="http://wso2.com/support" id="iMainMenu-See-Library">Support</a></li>
-                        <li><a href="http://wso2.com/training">Training and Certification</a></li>
-                        <li><a href="http://wso2.com/cloud/managed">Hosting Services</a></li>
-                        <li><a href="http://wso2.com/community">Community</a></li>
-                        <li><a href="http://wso2.com/support/quickstart/">QuickStart Package (QSP)</a></li>
+                        <li><a href="https://wso2.com/subscription" id="iMainMenu-See-Library">Subscriptions</a></li>
+                        <li><a href="https://wso2.com/training">Training and Certification</a></li>
+                        <li><a href="https://wso2.com/consultant-services">Consulting Services</a></li>
+                        <li><a href="https://wso2.com/cloud/managed">Hosting Services</a></li>
+                        <li><a href="https://wso2.com/community">Community</a></li>
+                        <li><a href="https://wso2.com/support/quickstart/">QuickStart Package (QSP)</a></li>
+                        <li><a href="https://wso2.com/updates">WSO2 Update</a></li>
+                        <li><a href="https://wso2.com/support/early-access-programs/">Early Access Programs</a></li>
                         <li class="divider"></li>
                         <li><a href="https://support.wso2.com/jira/secure/Dashboard.jspa" target="_blank">Login to Support Portal</a></li>
                     </ul>
                 </li>
-                
-                <li><a href="http://wso2.com/about/news/">News</a></li>
-                <li><a href="http://wso2.com/community"> Community</a></li>
-                <li><a href="http://wso2.com/careers/">Careers</a></li>
-                <li><a href="http://wso2.com/about/team/">Team</a></li>
-                <li><a href="http://wso2.com/partners/">Partners</a></li>
-                <li><a href="http://wso2.com/about/">Company</a></li>
-            </ul>          
-            
+
+                <li><a href="https://wso2.com/about/news/">News</a></li>
+                <li><a href="https://wso2.com/community"> Community</a></li>
+                <li><a href="https://wso2.com/careers/">Careers</a></li>
+                <li><a href="https://wso2.com/about/team/">Team</a></li>
+                <li><a href="https://wso2.com/partners/">Partners</a></li>
+                <li><a href="https://wso2.com/about/">Company</a></li>
+            </ul>
+
             </div>
 </div>
     </div>
-    
+
 </div>
 
 
@@ -416,7 +445,7 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="navbar-brand" href="http://wso2.com"><img id="iMainMenu-wso2logo" src="//b.content.wso2.com/sites/all/2017-d7-theme/menu2017/wso2-logo.svg"></a>
+                        <a class="navbar-brand" href="https://wso2.com"><img id="iMainMenu-wso2logo" src="//b.content.wso2.com/sites/all/2017-d7-theme/menu2017/wso2-logo.svg"></a>
                     </div>
                 </div>
             </div>
@@ -427,10 +456,10 @@
 
                         <ul class="nav navbar-nav navbar-right cMenu2017TopMenuList">
 
-                            <li class="cTopContact"><a href="http://wso2.com/contact">Contact</a></li>
+                            <li class="cTopContact"><a href="https://wso2.com/contact">Contact</a></li>
                      <li class="cFormPadding cFormListItem">
                                 <div class="cTopMenuLine">
-                                    <form class="search-form" method="POST" action="http://wso2.com/search/resources/" id="search">
+                                    <form class="search-form" method="POST" action="https://wso2.com/search/resources/" id="search">
                                         <div class="form-group has-feedback">
 
                                             <input type="text" placeholder="Search" name="key" class="form-control" id="hkey" onkeyup="buttonUp();" required="">
@@ -447,9 +476,9 @@
                                 <ul class="dropdown-menu">
 
 
-                                                                            <li><a href="http://wso2.com/user/register" class="register" id="iMainMenu-Register">Register</a></li>
+                                                                            <li><a href="https://wso2.com/user/register" class="register" id="iMainMenu-Register">Register</a></li>
                                         <li class="divider"></li>
-                                        <li><a href="http://wso2.com/user/login" id="iMainMenu-Login" style="padding-right:0px;">Login</a></li>
+                                        <li><a href="https://wso2.com/user/login" id="iMainMenu-Login" style="padding-right:0px;">Login</a></li>
                                         
 
 
@@ -460,40 +489,74 @@
                     </div>
                     <div class="cMenu2017row cMenu2017BottomMenu">
                         <ul class="nav navbar-nav navbar-right">
-                            <li class="cMainContactLink"> <a href="http://wso2.com/contact">Contact</a></li>
-                            
+                            <li class="cMainContactLink"> <a href="https://wso2.com/contact">Contact</a></li>
+                            <li class="M-Link"> <a style="cursor: default !important;">Agility</a>
+                                  <ul class="dropdown-menu">
+                                    <li><a href="https://wso2.com/agility/">Integration Agile Platform</a></li>
+                                    <li><a href="https://wso2.com/methodology/">Methodology for Agility</a></li>
+                                    <li><a href="https://wso2.com/architecture/ ">Architecture for Agility</a></li>
+
+                                </ul>
+                            </li>
                             <li class="M-Link">
-                                <a href="http://wso2.com/products/">Products</a>
+                                <a href="https://wso2.com/products/">Platform</a>
 
                                 <ul class="dropdown-menu">
-                                    <li><a href="http://wso2.com/products/">Overview</a></li>
-                                    <li class="divider"></li>
-                                    <li><a href="http://wso2.com/api-management">API Management</a></li>
-                                    <li><a href="http://wso2.com/integration">Integration</a></li>
-                                    <li><a href="http://wso2.com/identity-and-access-management">Identity &amp; Access Management</a></li>
-                                    <li><a href="http://wso2.com/analytics">Analytics</a></li>
-                                    <li><a href="http://wso2.com/iot">IoT</a></li>
-                                    <li class="divider"></li>
-                                    <li><a href="http://wso2.com/cloud">Public Cloud</a></li>
+                                    <li><a href="https://wso2.com/products/">Platform Overview</a></li>
+<!--                                    <li class="divider"></li>-->
+                                    <li><a href="https://wso2.com/api-management/">API Management</a></li>
+                                    <li><a href="https://wso2.com/integration/">Enterprise Integration</a></li>
+                                    <li><a href="https://wso2.com/identity-and-access-management/">Identity &amp; Access Management</a></li>
+                                    <li><a href="https://wso2.com/analytics-and-stream-processing/">Analytics &amp; Stream Processing</a></li>
+<!--                                    <li class="divider"></li>-->
+<!--                                    <li><a href="https://wso2.com/cloud">Public Cloud</a></li>-->
                                 </ul>
 
                             </li>
-                            <li> <a href="http://wso2.com/solutions/financial/open-banking/">Solutions</a></li>
-                            <li> <a href="http://wso2.com/about/customers">Customers</a></li>
-                            <li> <a href="http://wso2.com/partners">Partners</a></li>
+
                             <li class="M-Link">
-                                <a href="http://wso2.com/events/">Events</a>
+                                <a style="cursor: default !important;">Solutions</a>
                                 <ul class="dropdown-menu">
-                                    <li><a href="http://wso2.com/events/">Events Calendar</a></li>
+
+                                     <li><a href="https://wso2.com/solutions/finance/">Financial Services </a></li>
+                                      <li><a href="https://wso2.com/solutions/regulatory-compliance/gdpr/">GDPR </a></li>
+                                       <li><a href="https://wso2.com/solutions/healthcare/">Healthcare </a></li>
+                                        <li><a href="https://wso2.com/solutions/financial/open-banking/">Open Banking </a></li>
+                                         <!-- <li><a href="https://wso2.com/solutions/serverless/">Serverless </a></li> -->
+                                          <li><a href="https://wso2.com/solutions/telecommunication/">Telecommunications </a></li>
+                                          <li><a href="/iot/">IoT</a></li>
+
+
+
+
+
+
+<!--
+
+                                    <li><div class="cMenuSubTitle cTopLevel">Financial</div></li>
+                                    <li><a href="/solutions/financial/open-banking/">Open Banking</a></li>
+                                    <li><div class="cMenuSubTitle"><nobr>Regulatory Compliance</nobr></div></li>
+                                    <li><a href="/solutions/regulatory-compliance/gdpr/">GDPR</a></li>
+                                    <li><a href="/iot/">IoT</a></li>
+                                    <li><a href="https://wso2.com/solutions/enterprise-mobility/enterprise-mobility-management/">EMM</a></li>
+                                       <li><div class="cMenuSubTitle"><nobr>Enterprise Mobility</nobr></div></li>-->
+                                </ul>
+                            </li>
+                            <li> <a href="https://wso2.com/about/customers">Customers</a></li>
+                            <li> <a href="https://wso2.com/partners">Partners</a></li>
+                            <li>
+                                <a href="https://wso2.com/events/">Events</a>
+<!--                                <ul class="dropdown-menu">
+                                    <li><a href="https://wso2.com/events/"/>Events Calendar</a></li>
                                     <li class="divider"></li>
-                                    <li><a href="http://wso2.com/events/conferences/">Conferences</a></li>
-                                    <li><a href="http://wso2.com/events/workshops/">Workshops</a></li>
-                                    <li><a href="http://wso2.com/events/webinars/">Webinars</a></li>
-                                    <li><a href="http://wso2.com/events/partner-events/">Partner Events</a></li>
-                                     <li><a href="http://wso2.com/summit/newyork-2017">Summits</a></li>
+                                    <li><a  href="https://wso2.com/events/conferences/"/>Conferences</a></li>
+                                    <li><a  href="https://wso2.com/events/workshops/"/>Workshops</a></li>
+                                    <li><a  href="https://wso2.com/events/webinars/"/>Webinars</a></li>
+                                    <li><a  href="https://wso2.com/events/partner-events/"/>Partner Events</a></li>
+                                     <li><a  href="https://wso2.com/summit/london-2018"/>Summits</a></li>
                                     <li class="divider"></li>
-                                   
-                                    <li><a href="http://wso2con.com/" target="_blank"><svg version="1.1" class="cConIcon" id="iMainMenu-wso2con-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" height="50px" viewBox="0 0 182 50" enable-background="new 0 0 182 50" xml:space="preserve">
+
+                                    <li><a href="https://wso2con.com/" target="_blank"><svg version="1.1" class="cConIcon" id="iMainMenu-wso2con-icon" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" height="50px" viewBox="0 0 182 50" enable-background="new 0 0 182 50" xml:space="preserve">
                                             <g>
                                             <g>
                                             <g>
@@ -506,7 +569,7 @@
                                                   c-0.68,0.335-1.366,0.594-2.037,0.768c-0.676,0.17-1.357,0.252-2.045,0.252c-0.859,0-1.658-0.099-2.387-0.316
                                                   c-0.725-0.21-1.396-0.529-2.003-0.961c-1.181-0.816-2.076-1.844-2.7-3.078c-0.614-1.243-0.923-2.64-0.923-4.188
                                                   c0-1.248,0.19-2.378,0.584-3.398c0.388-1.021,0.98-1.95,1.77-2.778c0.752-0.794,1.589-1.387,2.526-1.78
-                                                  c0.938-0.389,1.981-0.584,3.133-0.584c0.688,0,1.373,0.087,2.045,0.258C109.401,12.727,110.088,12.979,110.768,13.319z"></path>
+                                                  c0.938-0.389,1.981-0.584,3.133-0.584c0.688,0,1.373,0.087,2.045,0.258C109.401,12.727,110.088,12.979,110.768,13.319z"/>
                                             <path d="M124.306,23.387c0,0.806-0.151,1.573-0.462,2.304c-0.301,0.728-0.745,1.382-1.326,1.956
                                                   c-0.589,0.58-1.246,1.018-1.976,1.313c-0.729,0.297-1.501,0.445-2.324,0.445c-0.83,0-1.609-0.148-2.338-0.445
                                                   c-0.729-0.296-1.384-0.733-1.959-1.313c-0.571-0.561-1.011-1.211-1.31-1.944c-0.305-0.732-0.453-1.501-0.453-2.315
@@ -515,37 +578,37 @@
                                                   c0.585,0.585,1.035,1.248,1.34,1.967C124.154,21.794,124.306,22.566,124.306,23.387z M120.489,23.387
                                                   c0-0.843-0.205-1.501-0.614-1.981c-0.411-0.479-0.964-0.724-1.661-0.724c-0.704,0-1.262,0.244-1.664,0.724
                                                   c-0.404,0.48-0.604,1.143-0.604,1.981c0,0.832,0.2,1.496,0.602,1.971c0.4,0.48,0.959,0.72,1.671,0.72
-                                                  c0.705,0,1.264-0.235,1.67-0.72C120.284,24.883,120.489,24.219,120.489,23.387z"></path>
+                                                  c0.705,0,1.264-0.235,1.67-0.72C120.284,24.883,120.489,24.219,120.489,23.387z"/>
                                             <path d="M126.356,28.971V17.738h3.511v2.277c0.511-0.912,1.099-1.583,1.768-2.001
                                                   c0.667-0.424,1.465-0.638,2.401-0.638c0.704,0,1.331,0.114,1.881,0.349c0.55,0.24,1,0.576,1.344,1.012
                                                   c0.283,0.38,0.487,0.837,0.62,1.378c0.117,0.541,0.178,1.353,0.178,2.42v6.429h-3.848v-6.01c0-0.898-0.14-1.552-0.427-1.958
                                                   c-0.283-0.406-0.736-0.61-1.361-0.61c-0.798,0-1.378,0.301-1.749,0.911c-0.371,0.606-0.549,1.592-0.549,2.962v4.715h-3.769
-                                                  V28.971z"></path>
+                                                  V28.971z"/>
                                             </g>
                                             </g>
                                             <path d="M128.022,40.613c0,0,0.228-13.956-10.412-12.778c-11.267,1.242-11.515,14.992-11.515,14.992
-                                                  s1.976-12.292,11.463-13.395C126.861,28.354,128.022,40.613,128.022,40.613z"></path>
+                                                  s1.976-12.292,11.463-13.395C126.861,28.354,128.022,40.613,128.022,40.613z"/>
                                             <g>
                                             <path d="M104.246,43.264c0,0,0.235-7-4.91-6.324c-5.401,0.7-5.327,7.038-5.327,7.038s-0.191-5.124,5.762-5.913
-                                                  C103.744,37.532,104.246,43.264,104.246,43.264z"></path>
+                                                  C103.744,37.532,104.246,43.264,104.246,43.264z"/>
                                             <path d="M100.168,30.605c1.448,0,2.617,1.208,2.617,2.7s-1.169,2.703-2.617,2.703
-                                                  c-1.444,0-2.617-1.211-2.617-2.703S98.724,30.605,100.168,30.605z"></path>
+                                                  c-1.444,0-2.617-1.211-2.617-2.703S98.724,30.605,100.168,30.605z"/>
                                             </g>
                                             <g>
                                             <path d="M91.858,43.313c0,0,0.41-6.733-4.544-5.835c-4.681,0.843-4.873,7.207-4.873,7.207
-                                                  s0.075-5.558,5.422-6.146C91.681,38.111,91.858,43.313,91.858,43.313z"></path>
-                                            <ellipse cx="88.36" cy="34.199" rx="2.303" ry="2.378"></ellipse>
+                                                  s0.075-5.558,5.422-6.146C91.681,38.111,91.858,43.313,91.858,43.313z"/>
+                                            <ellipse cx="88.36" cy="34.199" rx="2.303" ry="2.378"/>
                                             </g>
                                             <g>
                                             <path d="M130.805,43.149c0,0-0.049-6.481,5.101-6.089c4.805,0.365,5.137,6.799,5.137,6.799
-                                                  s-0.819-5.316-5.063-5.653C131.055,37.82,130.805,43.149,130.805,43.149z"></path>
-                                            <ellipse cx="135.232" cy="33.521" rx="2.6" ry="2.685"></ellipse>
+                                                  s-0.819-5.316-5.063-5.653C131.055,37.82,130.805,43.149,130.805,43.149z"/>
+                                            <ellipse cx="135.232" cy="33.521" rx="2.6" ry="2.685"/>
                                             </g>
                                             <g>
                                             <path d="M143.053,43.779c0,0-0.462-6.111,4.427-5.56c4.616,0.521,5.291,6.595,5.291,6.595
-                                                  s-1.085-5.177-5.757-5.481C142.979,39.066,143.053,43.779,143.053,43.779z"></path>
+                                                  s-1.085-5.177-5.757-5.481C142.979,39.066,143.053,43.779,143.053,43.779z"/>
                                             <path d="M146.542,32.642c1.273,0,2.309,1.063,2.309,2.374c0,1.312-1.035,2.376-2.309,2.376
-                                                  c-1.27,0-2.303-1.063-2.303-2.376C144.239,33.705,145.272,32.642,146.542,32.642z"></path>
+                                                  c-1.27,0-2.303-1.063-2.303-2.376C144.239,33.705,145.272,32.642,146.542,32.642z"/>
                                             </g>
                                             </g>
                                             </g>
@@ -555,7 +618,7 @@
                                                   c-0.069-0.244-0.188-0.724-0.353-1.43c-0.074-0.324-0.131-0.572-0.17-0.746c-0.04,0.153-0.092,0.375-0.153,0.654
                                                   c-0.166,0.721-0.296,1.23-0.379,1.522l-1.915,6.957h-4l-4.449-16.287h4.345l1.806,7.785c0.092,0.401,0.175,0.803,0.257,1.2
                                                   c0.084,0.405,0.162,0.815,0.231,1.234c0.065-0.313,0.136-0.637,0.21-0.977c0.069-0.341,0.188-0.829,0.34-1.458l1.98-7.785H43.203
-                                                  z"></path>
+                                                  z"/>
                                             <path d="M54.414,23.835c0.641,0.755,1.273,1.313,1.893,1.681c0.619,0.371,1.238,0.559,1.858,0.559
                                                   c0.575,0,1.042-0.163,1.413-0.477c0.37-0.318,0.558-0.724,0.558-1.212c0-0.542-0.161-0.956-0.476-1.248
                                                   c-0.326-0.297-1.046-0.603-2.176-0.907c-1.54-0.432-2.635-0.995-3.275-1.68c-0.637-0.688-0.96-1.64-0.96-2.839
@@ -564,7 +627,7 @@
                                                   c-0.52,0-0.938,0.127-1.261,0.384c-0.317,0.253-0.479,0.581-0.479,0.982c0,0.409,0.136,0.737,0.423,0.98
                                                   c0.279,0.245,0.828,0.476,1.645,0.698l0.196,0.057c1.748,0.484,2.9,1.025,3.455,1.61c0.37,0.396,0.658,0.881,0.851,1.443
                                                   c0.191,0.563,0.291,1.183,0.291,1.866c0,1.729-0.549,3.119-1.647,4.163c-1.1,1.049-2.564,1.578-4.396,1.578
-                                                  c-1.1,0-2.099-0.192-3.002-0.576c-0.898-0.387-1.771-0.993-2.604-1.817L54.414,23.835z"></path>
+                                                  c-1.1,0-2.099-0.192-3.002-0.576c-0.898-0.387-1.771-0.993-2.604-1.817L54.414,23.835z"/>
                                             <path d="M82.573,20.992c0,1.173-0.209,2.268-0.624,3.292c-0.419,1.023-1.025,1.938-1.824,2.745
                                                   c-0.807,0.803-1.726,1.418-2.761,1.854c-1.033,0.438-2.11,0.654-3.218,0.654c-1.126,0-2.203-0.214-3.237-0.654
                                                   c-1.033-0.432-1.937-1.047-2.722-1.854c-0.811-0.807-1.427-1.728-1.85-2.753c-0.414-1.033-0.628-2.128-0.628-3.284
@@ -573,34 +636,38 @@
                                                   c0.791,0.798,1.396,1.714,1.814,2.748C82.364,18.732,82.573,19.832,82.573,20.992z M74.146,25.776
                                                   c1.194,0,2.176-0.454,2.956-1.356c0.785-0.904,1.174-2.046,1.174-3.424c0-1.365-0.396-2.5-1.187-3.415
                                                   c-0.789-0.912-1.767-1.375-2.939-1.375c-1.194,0-2.177,0.463-2.958,1.37c-0.784,0.908-1.173,2.049-1.173,3.415
-                                                  c0,1.391,0.384,2.542,1.152,3.437C71.943,25.328,72.933,25.776,74.146,25.776z"></path>
+                                                  c0,1.391,0.384,2.542,1.152,3.437C71.943,25.328,72.933,25.776,74.146,25.776z"/>
                                             <path d="M95.889,29.104H83.847l7.074-8.658c0.428-0.527,0.75-1.002,0.951-1.431
                                                   c0.206-0.427,0.305-0.824,0.305-1.195c0-0.572-0.174-1.039-0.518-1.396c-0.349-0.354-0.812-0.537-1.374-0.537
                                                   c-0.681,0-1.196,0.223-1.558,0.667c-0.362,0.45-0.546,1.091-0.546,1.941v0.197h-3.794V18.58c0-1.849,0.523-3.302,1.575-4.357
                                                   c1.036-1.059,2.467-1.592,4.277-1.592c1.768,0,3.176,0.471,4.227,1.413c1.043,0.942,1.57,2.194,1.57,3.76
-                                                  c0,0.763-0.165,1.505-0.497,2.229c-0.327,0.724-0.872,1.513-1.636,2.377l-2.848,3.235h4.829v3.46H95.889z"></path>
+                                                  c0,0.763-0.165,1.505-0.497,2.229c-0.327,0.724-0.872,1.513-1.636,2.377l-2.848,3.235h4.829v3.46H95.889z"/>
                                             </g>
                                             </g>
                                             </g>
                                             </svg></a></li>
-                                </ul>
+                                </ul>-->
                             </li>
-                            <li><a href="http://wso2.com/library">Library</a></li>
+                            <li><a href="https://wso2.com/library">Library</a></li>
                             <li class="M-Link">
-                                <a href="http://wso2.com/support">Support</a>
+                                <a href="https://wso2.com/subscription">Support</a>
                                 <ul class="dropdown-menu">
-                                    <li><a href="http://wso2.com/support" id="iMainMenu-See-Library">Support</a></li>
-                                    <li><a href="http://wso2.com/training">Training and Certification</a></li>
-                                    <li><a href="http://wso2.com/cloud/managed">Hosting Services</a></li>
-                                    <li><a href="http://wso2.com/community">Community</a></li>
-                                    <li><a href="http://wso2.com/support/quickstart/">QuickStart Package (QSP)</a></li>
+                                    <li><a href="https://wso2.com/subscription" id="iMainMenu-See-Library">Subscriptions</a></li>
+                                    <li><a href="https://wso2.com/training">Training and Certification</a></li>
+                                    <li><a href="https://wso2.com/consultant-services">Consulting Services</a></li>
+                                    <li><a href="https://wso2.com/cloud/managed">Hosting Services</a></li>
+                                    <li><a href="https://wso2.com/community">Community</a></li>
+                                    <li><a href="https://wso2.com/support/quickstart/">QuickStart Package (QSP)</a></li>
+                                    <li><a href="https://wso2.com/updates">WSO2 Update</a></li>
+                                    <li><a href="https://wso2.com/support/early-access-programs/">Early Access Programs</a></li>
+
                                     <li class="divider"></li>
                                     <li><a href="https://support.wso2.com/jira/secure/Dashboard.jspa" target="_blank">Login to Support Portal</a></li>
                                 </ul>
                             </li>
                         </ul>
                     </div>
-                </div>   
+                </div>
             </div><!-- /.navbar-collapse -->
             <!-- /.container-fluid -->
         </nav>
@@ -618,17 +685,16 @@
                         if ($(this).scrollTop() > 50) {
                              $('.wso2Mobilemenu_2017').addClass('wso2Mobilemenu_2017Fix');
 //                             $('body').addClass('cFixdspacer');
-         
+
                           } else {
                               $('.wso2Mobilemenu_2017').removeClass('wso2Mobilemenu_2017Fix');
                           }
-                        
+
                     });
 </script>
 
 <!--MOBILE _ MENU-->
 
-		
 
 
                     <div class="tabs"></div>
@@ -652,47 +718,168 @@
         <div class="col-sm-12 col-md-1"></div>
         <div class="col-sm-12 col-md-9">
 
-					    <h1>User Information</h1>
+					    <h1>Privacy Policy</h1>
+<p>At WSO2, we recognize that privacy is important. This privacy policy applies to the site and services offered by WSO2 at <a href="https://wso2.com">https://wso2.com</a>. We’ve set out below the details of how we collect, use, share and secure the personal information you provide. “You” or “Your” means the person visiting the WSO2 site or using any services on it. “We” “us” and “our” means WSO2 Inc.
+</p>
 
-<p>At WSO2, we recognize that privacy is important. This privacy policy applies to the site and services offered by WSO2 at <a href="https://www.wso2.com">https://www.wso2.com</a></p>
 
- 
-
-<p>We collect information from you when you register on our site. You may, however, visit our site anonymously.</p>
-
- 
-
-<p>When registering, you may be asked to enter your name or email address. We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring website addresses.</p>
-
- <p>The information we collect from you maybe used in one of the following ways:
-</p><ul>
-<li> To personalize your experience (your information helps us to better respond to your individual needs).</li>
-<li>To improve our website (we continually strive to improve our website offerings on the feedback we receive from you).</li>
-<li>To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs).</li>
-<li> To process transactions – your information, whether public or private, will not be sold, exchanged, transferred or given to any other entity for any reason whatsoever without your consent, other than for the sole purpose of delivering the purchased service requested by you.</li>
-<li> To send periodic emails- The email address you provide, maybe used to send you information and updates on the site and the services we provide and other information related to the services.  You have the option to unsubscribe from receiving future emails as per the unsubscribe instructions provided at the bottom of each email.</li>
-<li>To administer a contest, survey or other site feature.</li>
+<h3>
+    WHAT INFORMATION DO WE COLLECT?
+</h3>
+<p>When you register on our site, sign up for an event or service, download a product or submit an application to our careers page we ask that you submit some or all of the following information:
+</p>
+<ul>
+    <li>Your name</li>
+    <li>Email address</li>
+    <li>Phone number</li>
+    <li>Job title</li>
+    <li>Company</li>
+    <li>Country</li>
+    <li>State</li>
 </ul>
-<p></p>
-<p>We do not sell, trade or otherwise transfer to outside parties your personally identifiable information. This does not include our subsidiaries, affiliates and partners who assist us in operating our website, conducting our business or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our privacy policy or protect ours or others rights, property or safety. However, non personally identifiable visitor information maybe provided to third parties for marketing and  advertising. We have also taken security measures to protect your information against loss, misuse or alteration.</p>
-<p>At our discretion, we may include or offer third party products or services on our site. These third party sites have separate and independent privacy policies. We have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</p>
-<p>We track and analyse your actions on our website such as navigation, number of visits, downloads, search items, etc to gain a better understanding of our visitors and their movements through the site.</p>
-<p>This privacy policy applies only to information collected through our website and not to information collected offline.</p>
-<p>Please also visit our Terms of Use section relating to use, disclaimers, indemnities and limitations of liability governing the use of our site and services at <a href="/terms-of-use">https://www.wso2.com/terms-of-use</a></p>
-<p>We reserve the right to amend this privacy policy at any time. We will not send individual email notifications on the updates. Any amendments will be posted on this page. You are therefore encouraged to visit this page periodically.</p>
 
- 
-
-<p>By using our site, you consent to our privacy policy and any revisions thereto.</p>
-
- 
-
-<p>If you have any questions regarding this privacy policy, you may contact us at <a href="mailto:bizdev@wso2.com">bizdev@wso2.com</a></p>
-
-<p><strong>Effective 16th November 2009 </strong></p>
+<p>
+    You may choose to visit our site anonymously, without providing any of the above information. However certain services on our site - such as registrations for events and conferences or paid services such as WSO2 Cloud may require that these details be entered on a mandatory basis. The site may also ask for your credit card details in order to process a payment for the event or service you’re signing up for. This is because those details are essential for us to be able to provide you with such services. 
+</p>
+<p>
+    If you visit our site in order to apply for particular careers vacancy or to get notifications of any future careers updates, then you may also be asked to upload your resume or curriculum vitae.
+</p>
+<p>
+    We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times, and referring website addresses.
+</p>
+<h3>
+    WHY DO WE COLLECT YOUR INFORMATION?
+</h3>
+<p>
+    The information we collect from you maybe used in one of the following ways:
+</p>
+<ul>
+    <li>
+        To perform the services requested (for instance if you’ve filled in a contact us form asking to speak to an account manager, we use your information to get in touch with you).
+    </li>
+    <li>
+        To personalize your experience (your information helps us to better respond to your individual needs by sending you targeted information which may be more relevant to you).
+    </li>
+    <li>
+        To improve our website (we continually strive to improve our website offerings based on the type of content our users click on or download).
+    </li>
+    <li>
+        To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs).
+    </li>
+    <li>
+        To conduct analysis on how effective our marketing campaigns are, how our products and services are used or downloaded and to track lead generation for our sales process.
+    </li>
+    <li>
+        To process transactions – your information, whether public or private, will not be sold, exchanged, transferred or given to any other entity for any reason whatsoever without your consent, other than for the sole purpose of delivering the purchased service requested by you.
+    </li>
+    <li>
+        To create your online profile which we create for every user who registers on our site or for a service.
+    </li>
+    <li>
+        To send marketing material, event invitations and updates - If you indicate that you are interested in certain areas or subjects when you give us your contact details, we will send you marketing material and/or event and workshop invitations related to those areas. The email address you provide may also be used to send you important updates related to the site or the services you use.
+    </li>
+    <li>
+        To administer a contest, survey or other site feature.
+    </li>
+    <li>
+        We track and analyze your actions on our website such as navigation, number of visits, downloads and search items to gain a better understanding of our visitors and their movements through the site. Please see our <a href="https://wso2.com/cookie-policy">cookie policy</a> on how we use and store cookies.
+    </li>
+</ul>
+<h3>
+    WHO IS YOUR INFORMATION SHARED WITH?
+</h3>
+<p>
+    We do not sell, trade or otherwise share your information with outside parties. However, we do share your information with our subsidiaries, affiliates, service providers and partners who assist us in operating our website, conducting our business or servicing you. 
+</p>
+<p>
+    We sometimes need to give our service providers who help us run our website and services access to the data we have in order for them to perform those services. They are only authorised to use information that is strictly relevant for them to perform their tasks and we ensure that they are under obligations of confidentiality to us so that your data is secure.  
+</p>
+<p>
+    Where payments are required to be made on our website, we use a third party service provider to manage credit card processing. This provider is not permitted to store, retain or use billing information other than for the limited purpose of credit card processing on behalf of WSO2.
+</p>
+<p>
+    We may share your data with our subsidiaries or affiliates within our corporate group. WSO2 ‘s parent company is WSO2 Inc. and is located in the United States of America. Our affiliates are WSO2 UK Limited (located in the United Kingdom), WSO2 Lanka (Private) Limited (located in Sri Lanka) and WSO2 Brasil Tecnologia E Software Ltda (located in Brazil). We share information within this group because these entities also carry out support, marketing, account management and technical operations for WSO2 that are relevant to the provision of the website and services.
+</p>
+<p>
+    We may also release your information when we believe release is appropriate to comply with the law, enforce our privacy policy or protect ours or others’ rights, property or safety. 
+</p>
+<h3>
+    HOW DO WE PROCESS YOUR DATA?
+</h3>
+<p>
+    We will only collect and process personal data about you where we have lawful bases. Lawful bases include consent (where you have given consent), contract (where processing is necessary for the performance of a contract with you  and legitimate interests ( such as to protect you, us, or others from security threats, Comply with laws that apply to us  and to enable or administer our business through consolidated reporting, customer service etc.) 
+</p>
+<p>
+    Where we rely on your consent to process personal data, you have the right to withdraw or decline your consent at any time and where we rely on legitimate interests, you have the right to object. If you have any questions about the lawful bases upon which we collect and use your personal data or wish to withdraw consent or object,  please contact our Data Protection Officer at <a href="mailto:dpo@wso2.com">dpo@wso2.com</a>
+</p>
+<h3>
+    SECURITY OF YOUR DATA
+</h3>
+<p>
+    We implement security safeguards designed to protect your data, such as HTTPS. We regularly monitor our systems for possible vulnerabilities and attacks. However, we cannot warrant the security of any information that you send us. There is no guarantee that data may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+</p>
+<h3>
+    YOUR RIGHTS TO YOUR DATA AND HOW TO MANAGE YOUR PREFERENCES
+</h3>
+<p>
+    We may retain your information for a period of time consistent with the original purpose of collection. For instance, we may retain your information during the time in which you have an account to use our website or services. We also may retain your information during the period of time needed for WSO2 to pursue our legitimate business interests, conduct audits, comply with our legal obligations, resolve disputes and enforce our agreements. At the end of these periods, we ensure that your data is deleted securely using industry standard methodology.
+</p>
+<p>
+    WSO2 acknowledges your right to access your data. If information pertaining to you as an individual has been submitted to us then you have the right to access, correct, or edit your data. When you submit your information on our website you will receive an email with your website login credentials. You can use these credentials to login to the user portal on our website and then review and edit the information we have about you at any time. If you are an existing user of site or our services please go to <a href="https://wso2.com/user/login">https://wso2.com/user/login</a> and follow the steps.
+</p>
+<p>
+     If you wish, we can provide all the personal information on our records to you or to someone you nominate in a portable format as well. Our contact details are provided at the bottom of the page or you can reach out to us as <a href="mailto:dpo@wso2.com">dpo@wso2.com</a>. All you have to do is to request, and we are happy to help. 
+</p>
+<p>
+    You can ask us to stop using all or some of your personal data (e.g., if we have no legal right to keep using it) or to limit our use of it (e.g., if your personal data is inaccurate or unlawfully held).
+</p>
+<p>
+    You may also choose to delete your data from our website at any time you choose, and unsubscribe from any WSO2 mailing lists you are on. You can delete your information by logging into the user portal and following instructions to delete your information. You can unsubscribe from our emails by clicking on the unsubscribe link which is at the bottom of every marketing email we send. You can also contact us on the email address(es) provided at the bottom of this notice, if you would like us to do any of the above on your behalf. Please note that deleting your data may affect the provision of some services. 
+</p>
+<p>
+    We may retain your personal data even after you have ceased using our services, requested to unsubscribe or delete your data only if reasonably necessary to comply with our legal obligations (including law enforcement requests), meet regulatory requirements, resolve disputes, maintain security, prevent fraud and abuse, or fulfill your request to "unsubscribe" from further messages from us.
+</p>
+<h3>
+    THIRD PARTY OFFERINGS AND SERVICES
+</h3>
+<p>
+    At our discretion, we may include or offer third party products or services on our site. These third party sites have separate and independent privacy policies. We have no responsibility or liability for the content and activities of these linked sites. We encourage you to review the privacy statements of those websites to understand how your data is secured by them. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+</p>
+<h3>
+    INFORMATION ABOUT OUR WEBSITE
+</h3>  
+<p>
+    This privacy policy applies only to information collected through our website and not to information collected offline. Please also visit our Terms of Use section relating to use, disclaimers, indemnities, and limitations of liability governing the use of our site and services at <a href="https://www.wso2.com/terms-of-use">https://www.wso2.com/terms-of-use</a>.
+</p>
+<h3>
+    CHANGES TO OUR PRIVACY POLICY
+</h3>
+<p>
+    We reserve the right to amend this privacy policy at any time. We will not send individual email notifications on the updates. Any amendments will be posted on this page. You are therefore encouraged to visit this page periodically.
+</p>
+<p>
+    By using our site, you consent to our privacy policy and any revisions thereto. If you do not agree with our privacy policy or any changes we make to it, you may delete your profile.
+</p>
+<h3>
+    CONTACT US 
+</h3>
+<p>
+    For further information about our privacy policy or any concerns or complaints, please contact our Data Protection Officer at <a href="mailto:dpo@wso2.com">dpo@wso2.com</a>.
+</p>
+<h4>
+    For EU/EEA/Switzerland residents:
+</h4>
+<p>
+    If you are located within the European Union, the European Economic Area or Switzerland, WSO2 UK Limited will be the controller of your personal data provided to, or collected by or for, or processed in connection with our services. 
+</p>
+<p>
+    If  you have any issues with regard to your data security on our website, then in addition to informing us, you also have the right to write directly to the independent data protection monitoring organization in your country. Within the UK, this is the <a href="https://ico.org.uk/">Information Commissioner's Office (ICO)</a>. The ICO is the UK’s independent authority set up to uphold information rights in the public interest, promoting openness by public bodies and data privacy for individuals. Please do email our data protection officer at <a href="mailto:dpo@wso2.com">dpo@wso2.com</a> if you have any issues, concerns or questions regarding your personal data and we are happy to help.
+</p>
+<p><strong>Effective March 23, 2018</strong></p>
         </div>
     </div>
-</div></div></div></div>  </div>
+</div>
+</div></div></div>  </div>
 
   
   
@@ -1160,9 +1347,11 @@
     <div class="container">
         <div class="col-sm-12 col-md-8 cFooterLeftContainer">
             <ul class="cFooterTextlinks">
-                <li>©2017 WSO2</li>
+                <li>©2018 WSO2</li>
                 <li><a href="http://wso2.com/terms-of-use" id="iFooterTxtTracking_Legal">Legal</a></li>
                 <li><a href="http://wso2.com/privacy-policy" id="iFooterTxtTracking_Privacy">Privacy</a></li>
+                <li><a href="https://wso2.com/cookie-policy" id="iFooterTxtTracking_Privacy">Cookie policy</a></li>
+
                 <li><a href="mailto:human-response@wso2.com" id="iFooterTxtTracking_Report">Report a problem with this page</a></li>
             </ul>
         </div>
@@ -1239,13 +1428,15 @@
         <div class="col-sm-12 col-md-12 cMobileFooter16TextLinks">
 
             <ul class="cFooterTextlinks">
-                <li><a href="http://wso2.com/terms-of-use" id="iFooterTxtTracking_Mobile_Legal">Legal</a></li>
-                <li><a href="http://wso2.com/privacy-policy" id="iFooterTxtTracking_Mobile_Privacy">Privacy</a></li>
+                <li><a href="https://wso2.com/terms-of-use" id="iFooterTxtTracking_Mobile_Legal">Legal</a></li>
+                <li><a href="https://wso2.com/privacy-policy" id="iFooterTxtTracking_Mobile_Privacy">Privacy</a></li>
+                <li><a href="https://wso2.com/cookie-policy" id="iFooterTxtTracking_Mobile_Privacy">Cookie  policy</a></li>
+
                 <li><a href="mailto:human-response@wso2.com" id="iFooterTxtTracking_Mobile_Report">Report a problem with this page</a></li>
             </ul>
         </div>
         <div class="col-sm-12 col-md-12 cMobileFooter16copyrights">
-            <p>©2017 WSO2</p>
+            <p>©2018 WSO2</p>
         </div>
 
 
@@ -1290,8 +1481,8 @@
 
 <style>
     .row.cWSO2ConBanner {
-        background-color: #000000;
-        background-image: url("//b.content.wso2.com/sites/all/images/wso2.comStrip-bg.png");
+        
+/*        background-image: url("//b.content.wso2.com/sites/all/images/wso2.comStrip-bg.png");*/
         background-attachment: fixed;
         background-size: 100%;
         transition: all 0.5s ease-in-out 0s;
@@ -1324,7 +1515,8 @@
     .row.cWSO2ConBanner img {
 
         transition: all 0.5s ease-in-out 0s;
-        height: 80px;
+        margin: 16px 0;
+
     }
 
     .row.cWSO2ConBanner.cOpenBanner .cWSO2ConBanner-Container  {
@@ -1337,7 +1529,7 @@
         height: 23px;
         position: absolute;
         right: 15px;
-        top: 30px;
+        top: 10%;
     }
     .cCloseBanner img {
         height: 30px !important;
@@ -1361,9 +1553,248 @@
 <!--WSO2 con interrupter start-->
 
 
+<!--    <div class="row cWSO2ConBanner" >
+        <a class="cCloseBanner"><img src="http://b.content.wso2.com/sites/all/images/close-button.svg"/></a>
+        <a href="" target="_blank" id="cHomePageHackathonBanner">
+            <div class="container">
+                <div class="col-xs-12 col-sm-12 col-md-12">
+                    <img src="//b.content.wso2.com/sites/all/images/wso2.comStrip-main.svg"/>
+                </div>
+        </a>
+    </div>-->
+<!--<div class="row cWSO2ConBanner" >
+        <a class="cCloseBanner"><img src="http://b.content.wso2.com/sites/all/images/close-button.svg"/></a>
+        <a href="" target="_blank" id="cHomePageHackathonBanner">
+            <div class="container">
+                <div class="col-xs-12 col-sm-12 col-md-12">
+                    <img src="//b.content.wso2.com/sites/all/images/Interruptor-eu-17.jpg"/>
+                </div>
+        </a>
+    </div>-->
+<script>
+
+//        $(window).scroll(function () {
+//            if ($(this).scrollTop() > 100) {
+//                $('.cWSO2ConBanner').addClass('cOpenBanner');
+//                $('#iMainFooter16bottom').addClass('cFixdspacer');
+//
+//            }
+//
+//        });
+//
+//        $(document).ready(function () {
+//            $(".cCloseBanner").click(function () {
+//                $(".cWSO2ConBanner").toggleClass('cHIDE');
+//                $('#iMainFooter16bottom').addClass('cFixdspacerRemove');
+//
+//
+//            });
+//        });
+
+</script>
+
+
+
+
+<style>
+    .row.cWSO2ConBanner {
+       background-color: #000000;
+/*        background-image: url("//b.content.wso2.com/sites/all/images/wso2con-us18-wso2com-bg.png");*/
+        background-attachment: fixed;
+        background-size: 100%;
+        transition: all 0.5s ease-in-out 0s;
+        padding: 7em 0;
+        box-shadow: 0 0 44px rgba(0, 0, 0, 0.5) inset;
+        margin-bottom: 0;
+        margin-top: 0;
+        opacity: 0.9;
+        padding: 0;
+        bottom: -200px;
+        top: auto;
+        transition: all 0.5s ease-in-out 0s;
+        width: 100%;
+        z-index: 999999;
+        /*         filter: grayscale(100%);*/
+        text-align: center;
+        position: fixed;
+    }
+
+
+
+
+
+</style>
+
+
+
+
+
+<!--BANNER DC-->
+
+<!--    <style>
+        .row.DC-int { background-color: #041328; transition: all 0.5s ease-in-out 0s; padding: 7em 0; box-shadow: 0 0 44px rgba(0, 0, 0, 0.5) inset; margin-bottom: 0; margin-top: 0; opacity:1; padding: 0; bottom: -200px; top: auto; transition: all 0.5s ease-in-out 0s; width: 100%; z-index: 999999; text-align: center; position: fixed; }
+        .row.DC-int { background-image: url("//b.content.wso2.com/sites/all//2017-d7-theme/home-page-2017/images/banner-dc.png"); background-position: center; height: 100px; background-size: 100%; background-repeat: no-repeat; }
+        .row.DC-int:hover { transition: all 0.5s ease-in-out 0s; }
+        .row.DC-int.cOpenBanner { bottom: 0; }
+        .row.DC-int.cOpenBanner:hover { opacity: 1; filter: grayscale(0%); }
+        .row.DC-int img { transition: all 0.5s ease-in-out 0s; }
+        .row.DC-int.cOpenBanner .DC-int-Container  { height: auto; }
+        .cCloseBanner { color: #ffffff; display: inline-block; height: 23px; position: absolute; right: 15px; top: 30px; }
+        .cCloseBanner img { height: 30px !important; }
+        .row.DC-int.cOpenBanner.cHIDE { bottom: -300px !important; }
+        #iMainFooter16bottom.cFixdspacer { margin-bottom: 100px; }
+        #iMainFooter16bottom.cFixdspacer.cFixdspacerRemove { margin-bottom: 0; }
+        #scroll-top { bottom:140px; }
+        .cBanner-int { display: inline-block; height: 100px; width: 100%; }
+    </style>
+
+    <div class="row DC-int">
+        <a class="cCloseBanner"><img src="//b.content.wso2.com/sites/all/images/close-button.svg"/></a>        
+        <div class="container">
+            <div class="col-xs-12 col-sm-12 col-md-12">
+                <a href="https://wso2.com/questionnaire-dc?utm_source=WSO2.com&utm_medium=banner&utm_campaign=WSO2_Events_Questionnaire_DC_VA_MD&utm_term=WSO2_Events_Questionnaire_DC_VA_MD&utm_content=WSO2_Events_Questionnaire_DC_VA_MD" target="_blank" id="iDC-Interrupter" class="cBanner-int"></a>
+            </div>
+        </div>
+    </div>
+    <script>
+        $(window).scroll(function () {
+            if ($(this).scrollTop() > 100) {
+                $('.DC-int').addClass('cOpenBanner');
+                $('#iMainFooter16bottom').addClass('cFixdspacer');
+            }
+        });
+        $(document).ready(function () {
+            $(".cCloseBanner").click(function () {
+                $(".DC-int").toggleClass('cHIDE');
+                $('#iMainFooter16bottom').addClass('cFixdspacerRemove');
+            });
+        });
+    </script>-->
+
 
 <!--WSO2 con interrupter end-->
-  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--GDPR Interrupter-->
+
+<style>
+
+
+
+    .cGDPR {
+        width: 271px;
+        display: inline-block;
+        background-color: #ffffff;
+        position: fixed;
+        left: 0;
+        bottom: 68px;
+        border: 1px solid #ececec;
+        box-shadow: 8px 0px 20px rgba(0, 0, 0, 0.5);
+        opacity: 1;
+
+    }
+
+
+    .cGDPR.cGDPR_Hide {
+        opacity: 0;
+        left: -275px;
+        /*        bottom: -500px;*/
+        transition: all 0.8s ease 0s;
+    }
+
+
+    a.cGDPR_Close , a.cGDPR_Close:hover {
+        width: 100%;
+
+        background: #ff4c00;
+
+        display: inline-block;
+
+        text-align: center;
+
+        padding: 15px;
+
+        line-height: 0;
+
+        font-size: 14px;
+
+        font-weight: 800;
+
+
+        text-align: center;
+
+        color: #ffffff;
+        border:none !important;
+        margin-top: 20px;
+    }
+
+    a.cGDPR_Close:hover {
+        background: #fd7024;
+    }
+
+    .cGDPR_MSG {
+        float: left;
+        display: inline-block;
+        padding: 20px;
+        width: 100%;;
+
+    }
+
+    .cGDPR_Close img {
+        width: 100%;
+    }
+    .cGDPR_MSG p {
+        font-size: 12px;
+        line-height: 14px;
+        padding: 0;
+        margin: 0;
+        margin-bottom: 10px;
+        display: inline-block;
+        width: 100%;
+    }
+    #scroll-top {
+        bottom: 165px;
+    }
+
+</style>
+
+    <div class="cGDPR">
+        <div class="cGDPR_MSG">
+            <p>This website uses cookies so that we can provide you with the best user experience. Read our <a target="_blank" href="https://wso2.com/cookie-policy">Cookie Policy</a> to find out more.</p>
+            <p>If you wish to disable cookies you can do so from your browser. </p>
+            <a class="cGDPR_Close">I Understand </a>
+        </div>
+    </div>
+    
+<script>
+
+    $('.cGDPR_Close').click(function () {
+        $('.cGDPR').addClass('cGDPR_Hide');
+        setCookie('gdpr_accepted', '1', 730);
+    });
+
+    function setCookie(name, value, days) {
+        var expires = "";
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            expires = "; expires=" + date.toUTCString();
+        }
+        document.cookie = name + "=" + (value || "") + expires + "; path=/";
+    }
+</script>  </div>
 </div>
   </div>
 
@@ -1399,35 +1830,6 @@
 }
             
         </style>
-<!--        <div class="cSocial-sidebar">
-                  <ul class="cHorizontalList cSocialMedia" style="list-style: none; padding: 0; margin: 0;">
-                                 <li>
-                                     <a target="_blank" rel="external nofollow" href="https://twitter.com/share?url=http://wso2.com/privacy-policy&text=&via=wso2" title="Twitter">
-                                         <img id="iFloating-Twitter-Share" src="//b.content.wso2.com/sites/all/2017-d7-theme/library2017-v3/twitter-icon.svg" alt="Twitter"/>
-                                     </a>
-                                 </li>
-                                 <li>
-                                     <a target="_blank" rel="external nofollow" href="http://www.facebook.com/share.php?u=http://wso2.com/privacy-policy" title="Share with your friends on Facebook">
-                                         <img id="iFloating-Facebook-Share" src="//b.content.wso2.com/sites/all/2017-d7-theme/library2017-v3/fb-icon.svg" alt="Facebook"/>
-                                     </a>
-                                 </li>
-                                 <li>
-                                     <a target="_blank" rel="external nofollow" href="http://www.linkedin.com/shareArticle?mini=true&url=http://wso2.com/privacy-policy&title=http://wso2.com/privacy-policy&summary=&source=http://wso2.com/privacy-policy" title="Share this post on linkedin">
-                                         <img id="iFloating-LinkedIn-Share" src="//b.content.wso2.com/sites/all/2017-d7-theme/library2017-v3/linkedin-icon.svg" alt="LinkedIn"/>
-                                     </a>
-                                 </li>
-                             </ul>
-                     
-
-                     </div>-->
-        
-        
 
     
-
-
-
-
-
-
 </body></html>
