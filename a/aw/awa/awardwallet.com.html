@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the awardwallet.com privacy policy that was archived on 2016-11-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161107201831id_/https%3A//awardwallet.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the awardwallet.com privacy policy that was archived on 2018-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180905220617id_/https%3A//awardwallet.com/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-8">
         <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/lppkddfmnlpjbojooindbmcokchjgbib">
-        <!-- <link rel="shortcut icon" href="//static.awardwallet.com/favicon.ico"/> -->
+        <!-- <link rel="shortcut icon" href="//d2xfav0ywhr7jn.cloudfront.net/favicon.ico"/> -->
+    <link rel="apple-touch-icon" href="/apple-touch-icon-120x120.png">
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
     <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
@@ -13,36 +14,91 @@
     <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
     <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
     <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="167x167" href="/apple-touch-icon-167x167.png">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
     <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
     <link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="/favicon-128x128.png" sizes="128x128">
     <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
     <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
     <link rel="manifest" href="/webPush/chrome/manifest.json">
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="/mstile-144x144.png">
     <meta name="theme-color" content="#ffffff">
+
+    
+                                <link rel="alternate" hreflang="en" href="https://awardwallet.com/en/">
+                    <link rel="alternate" hreflang="ru" href="https://awardwallet.com/ru/">
+                    <link rel="alternate" hreflang="pt" href="https://awardwallet.com/pt/">
+                    <link rel="alternate" hreflang="es" href="https://awardwallet.com/es/">
+                    <link rel="alternate" hreflang="de" href="https://awardwallet.com/de/">
+                    <link rel="alternate" hreflang="zh_TW" href="https://awardwallet.com/zh_TW/">
+                    <link rel="alternate" hreflang="zh_CN" href="https://awardwallet.com/zh_CN/">
+                    <link rel="alternate" hreflang="fr" href="https://awardwallet.com/fr/">
+                <link rel="alternate" href="android-app://com.itlogy.awardwallet/https/awardwallet.com/page/privacy">
+
     <title>Privacy Notice</title>
-                <link rel="stylesheet" href="//static.awardwallet.com/css/4d80c15-57a0bda.css">
-        <!--[if lt IE 9]>
-    <script src="/bundles/common/vendors/html5shiv/dist/html5shiv.min.js"></script>
-    <script src="/bundles/awardwalletnewdesign/js/lib/selectivizr-min.js"></script>
-    <script src="//static.awardwallet.com/bundles/common/vendors/css3-mediaqueries-js/css3-mediaqueries.js"></script>
-    <script src="/bundles/common/vendors/es5-shim/es5-shim.min.js"></script>
-    <![endif]-->
-            <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//static.awardwallet.com/b/boot.js?v=76e39bdcfc532f71cbb7d6fef6155066"></script>
+                <link rel="stylesheet" href="//d2xfav0ywhr7jn.cloudfront.net/css/8d3f808-81e5ba8.css">
+                    <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//hm.baidu.com/hm.js?253378fe4a0654dca9a6e3a4236e0538"></script><script src="//d2xfav0ywhr7jn.cloudfront.net/b/1536142932893/boot.js"></script>
         <script type="text/javascript">var debugMode = false;</script>
         <script type="text/javascript">
         define('translator-boot', ['translations/en']);
+        if(typeof(Intl) === 'undefined'){
+            console.log('loading intl polyfill');
+            define('intl-base', ['intl-path/dist/Intl'], function(intl){
+                console.log(intl);
+                window.Intl = intl;
+                window.IntlPolyfill = intl;
+                console.log('intl globals set');
+
+                return intl;
+            });
+            require.config({
+                shim: {
+                    'intl-path/locale-data/jsonp/en': {
+                        deps: ['intl-base']
+                    }
+                }
+            });
+            define('intl', ['intl-path/locale-data/jsonp/en']);
+        }
+        else{
+            define('intl', []);
+        }
     </script>
-    </head>
+                    <script type="text/javascript">
+        window._hmt = window._hmt || [];
+
+        
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+         m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;a.onerror=function(){
+             var hm = s.createElement(o);hm.async = 1;
+            hm.src = '//hm.baidu.com/hm.js?253378fe4a0654dca9a6e3a4236e0538';
+            m.parentNode.insertBefore(hm, m);};m.parentNode.insertBefore(a,m)
+         })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-74302-3', 'auto');
+        ga('send', 'pageview');
+        </script>
+            </head>
     <body>
+    <script>
+    window.__cmp = {
+        config : {
+            storePublisherData  : false,
+            gdprAppliesGlobally : false,
+            testingMode         : 'normal'
+        }
+    }
+</script>
+<script src="https://cdn.digitrust.mgr.consensu.org/1/cmp.complete.bundle.js" async=""></script>  
     <div class="main-body  not-logged" id="main-body">
 
         <!-- header -->
         <header class="header-site ">
             <div class="item">
-                                    	<a href="/" class="logo" title="AwardWallet.com"></a>
+                                    	<a href="/" class="logo" title="AwardWallet.com" tabindex="-1"></a>
 
 			<div id="mediaLogos" style="display: none;" title="AwardWallet Logos">
 			<div class="new-design">
@@ -89,19 +145,25 @@
 		</script>
 	
                                 <ul class="user-buttons ">
-                                                                                                        <li><a href="/#/register" class="btn-rose">Register</a></li>
-                                                        <li><a href="/#/login" class="btn-light-silver">Log in</a></li>
+                                                                                                        <li><a href="/register" class="btn-rose">Register</a></li>
+                                                        <li><a href="/login" class="btn-light-silver">Log in</a></li>
                                                             </ul>
                     <ul class="nav-buttons">
                                                         	        <li class="header-menu-0"><a href="/supported-programs" class="btn-light-silver">Supported Programs</a></li>
                                                                     	        <li class="header-menu-1"><a href="/page/about" class="btn-light-silver">About Us</a></li>
-                                                                    	        <li class="header-menu-2"><a href="https://awardwallet.com/blog/" class="btn-light-silver">Blog</a></li>
+                                                                    	        <li class="header-menu-2"><a href="/blog/" class="btn-light-silver">Blog</a></li>
                                                                     	        <li class="header-menu-3"><a href="/api/" class="btn-light-silver">APIs</a></li>
                                                                     	        <li class="language">
     <a class="rel-this" data-target="select-language" href=""><span>English<i class="icon-silver-arrow-down"></i></span></a>
     <ul class="dropdown-submenu" data-role="dropdown" data-id="select-language">
                                     <li><a href="/en/page/privacy"><span>English</span></a></li>
                             <li><a href="/ru/page/privacy"><span>Русский</span></a></li>
+                            <li><a href="/pt/page/privacy"><span>Português</span></a></li>
+                            <li><a href="/es/page/privacy"><span>Español</span></a></li>
+                            <li><a href="/zh_TW/page/privacy"><span>繁體中文</span></a></li>
+                            <li><a href="/zh_CN/page/privacy"><span>简体中文</span></a></li>
+                            <li><a href="/fr/page/privacy"><span>Français</span></a></li>
+                            <li><a href="/de/page/privacy"><span>Deutsch</span></a></li>
                         </ul>
 </li>
 
@@ -114,26 +176,284 @@
 
                     <div class="content" id="contentTable">
                     <div class="static-page" id="about-us-page">
-        	<div class="main-blk">
-		<h2>Privacy Notice</h2> 		<div class="main-blk-content">
-			<p>Thank you for your interest in AwardWallet.com.</p>
-			<p>For each visitor to our web page, our web server automatically recognizes IP Address.</p>
-			<p>We collect information volunteered by the consumer, such as survey information and/or site registrations.</p>
-			<p>The information we collect is used to improve the content of our web pages, it is used to customize the content and/or layout of our pages for each individual visitor, and it is used to notify our customers about updates to our web site. We do not share your information with other organizations for commercial purposes.</p>
-			<p>With respect to cookies: we use cookies to customize web page content based on visitors' browser type or other information that the visitor sends.</p>
-			<p>If you do not want to receive e-mail from us in the future, please update your profile at AwardWallet.com.</p>
-			<p>From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will use for these new purposes only data collected from the time of the policy change forward.</p>
-			<p>Upon request we offer visitors the ability to have inaccuracies corrected in contact information, communications that the customer/visitor has directed to the site. Customers can have this information corrected by sending us e-mail at the above address, visiting us at awardwallet.com.</p>
-			<p>With respect to security: We always use industry-standard encryption technologies when transferring and receiving customer's data exchanged with our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.</p>
-			<p>If you feel that this site is not following its stated information policy, you may contact us at the above email addresses.</p>
-		</div>
-	</div>
-	<div class="main-blk white">
-		<h2>Safe Harbor</h2>
+        
+	<div class="main-blk">
+		<h2>Privacy Notice</h2> 		<!-- mobile native app style -->
+		<style>
+						.wrapper .content.static-page .main-blk ul li:after{
+				background: #535457;
+			}
+			.wrapper .content.static-page .main-blk ul{
+				background: transparent !important;
+			}
+			.wrapper .content.static-page .main-blk .number-list li{
+				padding-left: 20px;
+			}
+			.wrapper .content.static-page .main-blk .number-list li:first-child{
+				margin-top:10px;
+			}
+			.content .scroll-links a[data-href],
+			.content .scroll-links span[data-href] {
+				font-size: 16px;
+				text-decoration: none;
+
+				font-weight: bold;
+				color: #4684c4;
+				cursor: pointer;
+				font-family: 'open_sansbold', 'open_sansregular', sans-serif;
+			}
+			.wrapper .content.static-page {
+				background: #fff;
+			}
+			.wrapper .content.static-page h4 {
+				font-size: 20px;
+				line-height: 1.3;
+				color: #535457;
+			}
+			.wrapper .content.static-page section {
+				padding-top: 30px;
+			}
+			.wrapper .content.static-page section:first-child {
+				padding-top: 0;
+			}
+			.wrapper .content.static-page .privacy-table{
+				display: block;
+				border-top: 2px solid #bec2cc !important;
+			}
+			.wrapper .content.static-page .privacy-table th{
+				display: none;
+			}
+			.wrapper .content.static-page .privacy-table td,
+			.wrapper .content.static-page .privacy-table tr{
+				display: block;
+			}
+			.wrapper .content.static-page .privacy-table tr{
+				border-top: 2px solid #bec2cc;
+				margin-top: -1px;
+			}
+			.wrapper .content.static-page .privacy-table tr:first-child{
+				border-top: 0;
+			}
+			.wrapper .content.static-page .privacy-table td{
+				display: flex;
+				flex-direction: row;
+				flex-wrap: nowrap;
+				align-items: center;
+				padding-left: 0;
+				padding-right: 0;
+			}
+			.wrapper .content.static-page .privacy-table td:before{
+				content: attr(data-title);
+				font-size: 13px;
+				color: #8e9199;
+				display: block;
+				width: 100px;
+				padding-right: 10px;
+			}
+			.wrapper .content.static-page .privacy-table td span{
+				width: calc(100% - 100px);
+			}
+			.main-blk-content > section[id] {
+				padding-top:0;
+			}
+			.main-blk-content > section[id] h4 {
+				padding-top: 20px;
+			}
+		</style>
+		<!-- end -->
 		<div class="main-blk-content">
-			<p>AwardWallet LLC complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. AwardWallet LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view AwardWallet LLC ’s certification, please visit <a href="http://www.export.gov/safeharbor/" target="_blank">http://www.export.gov/safeharbor/</a></p>
+			<section>
+				<h4>Introduction</h4>
+				<p>This Privacy Policy will help you understand what information we collect and use at AwardWallet, and the choices you have associated with that information. When we refer to “AwardWallet,” “we,” “our,” or “us” in this policy, we are referring to AwardWallet, LLC which provides the Services to you. The “Services” refers to the applications, services, and websites (marketing and product) provided by AwardWallet. AwardWallet may, from time to time, introduce new products and services. To the extent that these new products and services affect this policy, we will notify you as described in Section 9 below. The use of information collected through our service shall be limited to the purpose of providing the services for our customers and as specified herein.</p>
+				<p>If you have any questions about this privacy policy or our practices, please <a href="https://awardwallet.com/contact">contact us</a>. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <a href="http://go.adr.org/privacyshield.html" target="_blank">http://go.adr.org/privacyshield.html</a>.</p>
+			</section>
+			<section>
+				<h4>Contents:</h4>
+				<ol class="number-list scroll-links">
+					<li><span class="blue-link" data-href="#information-we-collect-and-receive" onclick="location.hash = this.getAttribute('data-href'); return false;">Information We Collect and Receive</span></li>
+					<li><span class="blue-link" data-href="#use-information-we-collect-and-receive" onclick="location.hash = this.getAttribute('data-href'); return false;">How We Use the Information We Collect and Receive</span></li>
+					<li><span class="blue-link" data-href="#analytics-cookies-and-other-website-technologies" onclick="location.hash = this.getAttribute('data-href'); return false;">Analytics, Cookies and Other Web Site Technologies</span></li>
+					<li><span class="blue-link" data-href="#information-sharing" onclick="location.hash = this.getAttribute('data-href'); return false;">Information Sharing</span></li>
+					<li><span class="blue-link" data-href="#communicating" onclick="location.hash = this.getAttribute('data-href'); return false;">Communicating</span></li>
+					<li><span class="blue-link" data-href="#accessing-your-data" onclick="location.hash = this.getAttribute('data-href'); return false;">Accessing Your Data</span></li>
+					<li><span class="blue-link" data-href="#california-privacy-rights" onclick="location.hash = this.getAttribute('data-href'); return false;">California Privacy Rights</span></li>
+					<li><span class="blue-link" data-href="#privacy-shield-compliance" onclick="location.hash = this.getAttribute('data-href'); return false;">Privacy Shield Compliance</span></li>
+					<li><span class="blue-link" data-href="#security" onclick="location.hash = this.getAttribute('data-href'); return false;">Security</span></li>
+					<li><span class="blue-link" data-href="#changes-statement" onclick="location.hash = this.getAttribute('data-href'); return false;">Changes to this Statement</span></li>
+					<li><span class="blue-link" data-href="#questions-or-complaints" onclick="location.hash = this.getAttribute('data-href'); return false;">Questions or Complaints</span></li>
+				</ol>
+			</section>
+			<section id="information-we-collect-and-receive">
+				<h4>1. Information We Collect and Receive</h4>
+				<p>We collect several different types of information to provide Services to you, including:</p>
+				<p><strong>Customer Account and Registration Data:</strong> This includes information you provide to create your account with us and may include, first and last name, third party loyalty reward program information, travel reservation information, a password and a valid email address.</p>
+				<p><strong>Service Data (including Session and Usage data):</strong></p>
+				<p>When you use our Services, we receive information generated through the use of the Service (for example, third party reward programs), or from the Service infrastructure itself, (for example, duration of session, connection information, etc.)  We may also collect usage and log data about how the services are accessed and used, including information about the device you are using the Services on, IP addresses, location information, language settings, what operating system you are using, unique device identifiers and other diagnostic data to help us support the Services.</p>
+				<p><strong>Third Party Data:</strong> We may receive information about you from other sources, including publicly available databases or third parties from whom we have purchased data, and combine this data with information we already have about you. We may also receive information from other affiliated companies that are a part of our corporate group. This helps us to update, expand and analyze our records, identify new prospects for marketing, and provide products and services that may be of interest to you.</p>
+				<p><strong>Location Information:</strong> We collect your location-based information and IP address for the purpose of providing and supporting the service and for fraud prevention and security monitoring.</p>
+				<p><strong>Device Information:</strong> When you use our Services, we automatically collect information on the type of device you use, operating system version, and the device identifier (or "UDID").</p>
+				<p><strong>Legal Basis for Processing (EEA Individuals Only):</strong> If you are from the European Economic Area (“EEA”), our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it. </p>
+				<p>However, we will normally collect personal information from you where we have your consent to do so, where we need the personal information to perform Services, or where the processing is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms. In some cases, we may also have a legal obligation to collect the personal information in question. </p>
+				<p>If we ask you to provide personal information to comply with a legal requirement or to provide you with Services, we will make this clear at the relevant time and advise you whether the provision of your personal information is mandatory or not (as well as of the possible consequences if you do not provide your personal information).</p>
+				<p>Similarly, if we collect and use your personal information in reliance on our or a third party's legitimate interests and those interests are not already listed above, we will make clear to you at the relevant time what those legitimate interests are. </p>
+				<p>If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, please <a href="https://awardwallet.com/contact">contact us</a>.</p>
+			</section>
+			<section id="use-information-we-collect-and-receive">
+				<h4>2. How We Use the Information We Collect and Receive</h4>
+					<p>AwardWallet may access (which may include, with your consent, limited viewing or listening) and use the data we collect as necessary (a) to provide and maintain the Services; (b) to address and respond to service, security, and customer support issues; (c) to detect, prevent, or otherwise address fraud, security, unlawful, or technical issues; (d) as required by law; (e) to fulfill our contracts; (f) to improve and enhance the Services; (g) to provide analysis or valuable information back to our customers and users.</p>
+				<p>Some specific examples of how we use the information:</p>
+				<ul>
+					<li>Create and administer your account</li>
+					<li>Send you an order confirmation</li>
+					<li>Facilitate and improve the usage of the services you have ordered</li>
+					<li>Send you product updates, marketing communication, and service information</li>
+					<li>Respond to customer inquiries and support requests</li>
+					<li>Conduct research and analysis</li>
+					<li>Display content based upon your interests</li>
+					<li>Analyze data, including through automated systems and machine learning to improve our services and/or your experience</li>
+					<li>Provide you information about your use of the services and benchmarks, insights and suggestions for improvements</li>
+					<li>Market services of our third-party business partners</li>
+				</ul>
+				<p>AwardWallet will retain your information as long as your account with us is active, to comply with our legal obligations, to resolve disputes, and enforce our agreements.</p>
+				<p>If you wish to cancel your account or for us to stop providing you services, or if we hold personal information about you and you want it to be removed from our database or inactivated, you may do so <a href="https://awardwallet.com/user/delete">here</a>.</p>
+			</section>
+			<section id="analytics-cookies-and-other-website-technologies">
+				<h4>3. Analytics, Cookies and Other Web Site Technologies</h4>
+				<p>AwardWallet is continuously improving our websites and products through the use of various third party web analytics tools, which help us understand how visitors use our websites, desktop tools, and mobile applications, what they like and dislike, and where they may have problems. While we maintain ownership of this data, we do not share this type of data about individual users with third parties.</p>
+				<p>Geolocation and Other Data:</p>
+				<p>We may utilize precise geolocation data but only if you specifically opt-in to collection of that data in connection with a particular service. We also use information such as IP addresses to determine the general geographic locations areas of our visitors. The web beacons used in conjunction with these web analytics tools may gather data such as what browser or operating system a person uses, as well as, domain names, MIME types, and what content, products and services are reviewed or downloaded when visiting or registering for services at one of our websites or using one of our mobile applications.</p>
+				<p>Google Analytics and Adobe Marketing Cloud:</p>
+				<p>We use Google Analytics as described in <a href="https://www.google.com/policies/privacy/partners/" target="_blank">“How Google uses data when you use our partners' sites or apps.”</a> You can prevent your data from being used by Google Analytics on websites by installing the Google Analytics opt-out browser add-on <a href="https://tools.google.com/dlpage/gaoptout" target="_blank">here</a>. We also employ IP address masking, a technique used to truncate IP addresses collected by <a href="https://www.google.com/policies/privacy/partners/" target="_blank">Google Analytics</a> and store them in an abbreviated form to prevent them from being traced back to individual users.</p>
+				<p>Tracking Technologies:</p>
+				<p>AwardWallet and our partners use cookies and similar tracking technologies to track user traffic patterns and hold certain registration information. Tracking technologies also used are beacons, tags and scripts to collect and track information and to improve and analyze our service. If you wish to not have the information these technologies collect used for the purpose of serving you targeted ads, you may opt-out in your account profile if you have the AwardWallet Plus service. The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. You can still review the website if you choose to set your browser to refuse all cookies; however, you must enable cookies to establish an account and to install the Services.</p>
+				<p>Examples of Cookies We Use:</p>
+				<table class="main-table privacy-table">
+					<thead>
+						<tr>
+							<th>Cookie Type</th>
+							<th>Purpose</th>
+							<th>Description</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td data-title="Cookie Type"><span>Session Cookies</span></td>
+							<td data-title="Purpose"><span>We use these cookies to operate our websites.</span></td>
+							<td data-title="Description"><span>Some cookies are essential for the operation of AwardWallet websites. If a user chooses to disable these cookies, the user will not be able to access all of the content and features.</span></td>
+						</tr>
+						<tr>
+							<td data-title="Cookie Type"><span>Preference Cookies</span></td>
+							<td data-title="Purpose"><span>We use these cookies to remember your preferences.</span></td>
+							<td data-title="Description"><span>When you register at an AwardWallet website, we use cookies to store unique, randomly assigned user IDs that we generate for administrative purposes. These cookies enable you to enter the AwardWallet sites without having to log on each time.</span></td>
+						</tr>
+						<tr>
+							<td data-title="Cookie Type"><span>Advertising Cookies</span></td>
+							<td data-title="Purpose"><span>These cookies are used to serve you with advertisements that may be relevant to you and your interests.</span></td>
+							<td data-title="Description"><span>We use cookies to make advertising more engaging to users, as well as to assist in reporting on marketing program performance and analytics.</span></td>
+						</tr>
+						<tr>
+							<td data-title="Cookie Type"><span>Security Cookies</span></td>
+							<td data-title="Purpose"><span>These cookies are used for general security purposes and user authentication.</span></td>
+							<td data-title="Description"><span>We use security cookies to authenticate users, prevent fraudulent use of login credentials, and protect user data from access by unauthorized parties.</span></td>
+						</tr>
+					</tbody>
+				</table>
+				<p><strong>Mobile Analytics</strong></p>
+				<p>We use mobile analytics software to allow us to better understand the functionality of our mobile software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile application.</p>
+				<p>Social Media: Our sites include social media features, such as joining our group page on Facebook. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. These services will also authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign-up form or provide feedback. Your interactions with these features are governed by the privacy policy of the company providing them.</p>
+			</section>
+			<section id="information-sharing">
+				<h4>4. Information Sharing</h4>
+					<p>Ensuring your privacy is important to us. We do not share your personal information with third parties except as described in this Privacy Policy. We may share your personal information with (a) third party service providers; (b) business partners; and (c) as needed for legal purposes. Third party service providers have access to personal information only as needed to perform their functions and they must process the personal information in accordance with this Privacy Policy. If we transfer any of your personal information to a third party acting as an agent, we will be responsible for any acts of those third party agents that are inconsistent with this Privacy Policy, unless otherwise provided by law.</p>
+				<p>Examples of how we may share information with service providers include:</p>
+				<ul>
+					<li>Providing the services</li>
+					<li>Providing customer support</li>
+					<li>Sending marketing communications</li>
+					<li>Conducting research and analysis</li>
+					<li>Providing cloud computing infrastructure</li>
+				</ul>
+				<p>Examples of how we may disclose data for legal reasons include:</p>
+				<ul>
+					<li>As part of a merger, sale of company assets, financing or acquisition of all or a portion of our business by another company where customer information will be one of the transferred assets.</li>
+					<li>As required by law, for example, to comply with a valid subpoena or other legal process; when we believe in good faith that disclosure is necessary to protect our rights, or to protect your safety (or the safety of others); to investigate fraud; to respond to a government request; or to meet national security or law enforcement requests.</li>
+				</ul>
+				<p>We may also disclose your personal information to any third party with your prior consent.</p>
+			</section>
+			<section id="communicating">
+				<h4>5. Communications</h4>
+				<p>AwardWallet may need to communicate with you for a variety of different reasons, including:</p>
+				<ul>
+					<li>Responding to your questions and requests. If you contact us with a problem or question, we will use your information to respond.</li>
+					<li>Sending you Service and administrative emails and messages. We may contact you to inform you about changes in our Services, our Service offerings, and important Service related notices, such as security and fraud notices. These emails and messages are considered a necessary part of the Services and you may not opt-out of them.</li>
+					<li>Sending emails about new products or other news about AwardWallet that we think you’d like to hear about either from us or from our business partners. You can always opt out of these types of messages at any time by clicking the unsubscribe link at the bottom of each communication.</li>
+					<li>Offering referral programs and incentives, which allow you to utilize email, text, or URL links that you can share with friends or colleagues.</li>
+				</ul>
+			</section>
+			<section id="accessing-your-data">
+				<h4>6. Accessing Your Data</h4>
+					<p>Our customers can always review, update or change personal information from within their account. AwardWallet will also, when you request, provide you with information about whether we hold, or process on behalf of a third party, any of your personal information.  Please <a href="https://awardwallet.com/contact">contact us here</a> if you need assistance in reviewing your information. AwardWallet will respond to your access request to review the information we have on file for you within a reasonable time.</p>
+				<p>If you are from certain territories (such as the European Union), you may have additional rights under their data protection laws, such as the following:</p>
+				<ul>
+					<li>Access: Right to request access to and a copy of your personal information;</li>
+					<li>Restriction: You can ask us to restrict processing of your personal information in certain circumstances;</li>
+					<li>Rectification: You can have any inaccuracies in your personal information corrected;</li>
+					<li>Deletion: You can ask us to delete your personal information in certain circumstances (e.g. if the information is no longer necessary for the purposes for which it was collected);</li>
+					<li>Objection: You can object to further processing your personal information in certain circumstances;</li>
+					<li>Withdrawal of consent: Where we rely on your consent to process your personal information, you have the right to decline consent and/or if provided, to withdraw it at any time. This will not affect the lawfulness of processing prior to the withdrawal of your consent.</li>
+					<li>Portability: You can ask us to provide your personal information in a structured, commonly used and machine-readable format in certain circumstances.</li>
+				</ul>
+				<p>You can exercise the above rights by <a href="https://awardwallet.com/contact">contacting us</a> and we will consider such requests in accordance with applicable data protection laws. We may ask you to verify your identity before we respond to your request.</p>
+				<p>You may also have the right to raise questions or complaints with your data protection authority at any time.</p>
+				<p>We may transfer personal information to companies that help us provide our service, and when we do, these transfers to subsequent third parties are covered by appropriate transfer agreements. We will retain personal data we process on behalf of our customer as needed to provide services to our customer. Also, we will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
+				<p>AwardWallet is headquartered in the United States of America. Information that we collect and maintain may be transferred to, or controlled and processed in, the United States and/or other countries around the world. When you provide us with information, or use our website(s) and services, you consent to this transfer.  We will protect the privacy and security of personal information we collect in accordance with this privacy policy, regardless of where it is processed or stored.</p>
+			</section>
+			<section id="california-privacy-rights">
+				<h4>7. California Privacy Rights</h4>
+				<p>California law provides that California residents have a right to request that businesses tell them how their personally identifiable information has been shared with third parties for those third parties’ direct marketing purposes. AwardWallet does not share personally identifiable information with third parties for those third parties’ direct marketing purposes.</p>
+			</section>
+			<section id="privacy-shield-compliance">
+				<h4>8. Privacy Shield Compliance</h4>
+				<p>AwardWallet complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. AwardWallet has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <a href="https://www.privacyshield.gov/" target="_blank">https://www.privacyshield.gov/</a>.</p>
+			</section>
+			<section id="security">
+				<h4>9. Security</h4>
+				<p>AwardWallet follows generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received, however, no security measure is perfect. We recommend safeguarding your password and <a href="https://awardwallet.com/user/settings/2fact/setup">implementing two-factor authentication on your account</a>, as it is one of the easiest ways you can manage the security of your own account – remember that if you lose control over your password, you may lose control over your personal information.</p>
+			</section>
+			<section id="changes-statement">
+				<h4>10. Changes to this Statement</h4>
+				<p>We may update this Privacy Policy to reflect changes to our information practices. If we make any material changes we will provide notice on this website, and we may notify you by email (sent to the e-mail address specified in your account), prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. If you continue to use the Services after those changes are in effect, you agree to the revised policy.</p>
+			</section>
+			<section id="questions-or-complaints">
+				<h4>11. Questions or Complaints </h4>
+				<p>In compliance with the Privacy Shield Principles, AwardWallet commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first <a href="https://awardwallet.com/contact">contact AwardWallet here</a>.</p>
+				<p>AwardWallet has further committed to refer unresolved Privacy Shield complaints to the <a href="http://adr.org/" target="_blank">American Arbitration Association</a>, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit <a href="https://www.adr.org/Support" target="_blank">https://www.adr.org/Support</a> for more information or to file a complaint.  The services of the American Arbitration Association are provided at no cost to you.</p>
+				<p>You may, under limited circumstances, invoke binding arbitration for complaints not resolved by the above mechanisms. Additional information can be found at <a href="https://www.privacyshield.gov/article?id=ANNEX-I-introduction" target="_blank">https://www.privacyshield.gov/article?id=ANNEX-I-introduction</a>.</p>
+				<p>AwardWallet is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission with regards to our compliance with the EU–U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework.</p>
+			</section>
+			<p>If you have any other questions about this Privacy Policy please <a href="https://awardwallet.com/contact">contact us</a>.</p>
 		</div>
 	</div>
+
+<script>
+			require(['jquery-boot'], function($) {
+	        $('.scroll-links span[data-href]')
+            .prop('onclick', null)
+            .off('click')
+            .on('click.scroll', function(e) {
+                e.preventDefault();
+                var hash     = $(e.target).data('href').substr(1);
+                var $section = $('#' + hash);
+                if ($section.length === 0)
+                    return false;
+
+                $('html,body').animate({scrollTop : $section.offset().top - 10}, 500);
+                location.hash = hash;
+                return false;
+            });
+	    
+	}); 
+	</script>
     </div>
                                             </div>
         
@@ -141,7 +461,7 @@
 
     <!-- footer -->
     <footer class="footer-site">
-        <p class="copyright">© 2004 - 2016</p>
+        <p class="copyright">© 2004 - 2018</p>
 	<div class="footer-menu">
 		<ul class="footer-menu">
 			                                                			<li><a href="/page/privacy" class="">Privacy Notice</a></li>
@@ -158,6 +478,12 @@
     <ul class="dropdown-submenu" data-role="dropdown" data-id="select-language-footer">
                                     <li><a href="/en/page/privacy"><span>English</span></a></li>
                             <li><a href="/ru/page/privacy"><span>Русский</span></a></li>
+                            <li><a href="/pt/page/privacy"><span>Português</span></a></li>
+                            <li><a href="/es/page/privacy"><span>Español</span></a></li>
+                            <li><a href="/zh_TW/page/privacy"><span>繁體中文</span></a></li>
+                            <li><a href="/zh_CN/page/privacy"><span>简体中文</span></a></li>
+                            <li><a href="/fr/page/privacy"><span>Français</span></a></li>
+                            <li><a href="/de/page/privacy"><span>Deutsch</span></a></li>
                         </ul>
 </li>
 
@@ -166,25 +492,14 @@
             		</ul>
 	</div>
 <ul class="mobile-apps">
-    <li><a target="_blank" href="https://market.android.com/details?id=com.itlogy.awardwallet&amp;feature=search_result" title="Android AwardWallet Application"><i class="icon-android-app"></i></a></li>
-    <li><a target="_blank" href="http://itunes.apple.com/us/app/awardwallet/id388442727?mt=8" title="iPhone AwardWallet Application"><i class="icon-iphone-app"></i></a></li>
+    <li><a target="_blank" rel="noopener noreferrer" href="https://market.android.com/details?id=com.itlogy.awardwallet&amp;feature=search_result" title="Android AwardWallet Application"><i class="icon-android-app"></i></a></li>
+    <li><a target="_blank" rel="noopener noreferrer" href="http://itunes.apple.com/us/app/awardwallet/id388442727?mt=8" title="iPhone AwardWallet Application"><i class="icon-iphone-app"></i></a></li>
 </ul>
 
     </footer>
     
 
-            <script type="text/javascript">
-
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-     ga('create', 'UA-74302-3', 'auto');
-     ga('send', 'pageview');
-
-    </script>
-    <script>
+            <script>
         require(['jquery-boot', 'common/web-push'], function ($, webPush) {
             $(document).ready(function () {
                 $.ajaxSetup({cache: true});
@@ -207,6 +522,15 @@
         var google_remarketing_only = true;
         /* ]]> */
     </script>
+
+    <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-4469520556727079",
+            enable_page_level_ads: true
+        });
+    </script>
+
     <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
     </script>
     <noscript>
@@ -214,10 +538,7 @@
             <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/983305737/?value=0&amp;guid=ON&amp;script=0"/>
         </div>
     </noscript>
-        <!--[if IE 8]>
-    <link rel="stylesheet" href="/bundles/awardwalletnewdesign/css/ie8.css">
-    <![endif]-->
-
+    
     <script type="text/javascript">
         require(["jquery-boot", "lib/customizer"], function ($, customizer) {
             $(function () {
