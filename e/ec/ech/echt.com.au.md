@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the echt.com.au privacy policy that was archived on 2018-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180310161609id_/https%3A//echt.com.au/pages/faq) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the echt.com.au privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906003837id_/https%3A//echt.com.au/pages/faq) for the most accurate reproduction.*
 
 # Privacy Policy - Echt Apparel | Engineered for the Modern Day Athlete
 
@@ -100,7 +100,7 @@ If our store is acquired or merged with another company, your information may be
 
 **QUESTIONS AND CONTACT INFORMATION**
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at echt.sportswear@gmail.com or by mail at 
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at https://echt.com.au/pages/contact-us or by mail at 
 
 Echt Sportswear
 
