@@ -1,65 +1,180 @@
-> *The following text is extracted and transformed from the growthinstitute.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601120639id_/https%3A//www.growthinstitute.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growthinstitute.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905121738id_/https%3A//www.growthinstitute.com/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Policy - Gazelles Growth Institute
+# Privacy Notice - Growth Institute
 
-Welcome to GrowthInstitute.com (the “Site”).We understand that privacy online is important to users of our Site, especially when conducting business.This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Growth Institute, LLC (collectively, “Services”) (“Authorized Customers”).
+**WEBSITE PRIVACY NOTICE**
 
-### “Personally Identifiable Information”
+  1.  **INTRODUCTION**
 
-Refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
 
-### What Personally Identifiable Information is collected?
 
-We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.
+This privacy notice provides you with details of how we collect and process your personal data through your use of our site [**https://growthinstitute.com**](https://growthinstitute.com/)
 
-### What organizations are collecting the information?
+By providing us with your data, you warrant to us that you are over 13 years of age.
 
-In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
+ **Growth Institute, LLC** is the data controller and we are responsible for your personal data (referred to as “we”, “us” or “our” in this privacy notice).
 
-### How does the Site use Personally Identifiable Information?
+Our full details are:
 
-We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information.
+Full name of legal entity: **Growth Institute, LLC**
 
-### With whom may the information may be shared?
+Name or title of Data Protection Officer: **Sergio Zavaleta**
 
-Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to “opt out” of receiving information or being contacted by us or by any agency acting on our behalf.
+Email address: [**support@growthinstitute.com**](mailto:support@growthinstitute.com)
 
-### How is Personally Identifiable Information stored?
+Postal address: **815A Brazos St 490, Austin, TX 78701**
 
-Personally Identifiable Information collected by Growth Institute, LLC is securely stored and is not accessible to third parties or employees of Growth Institute, LLC except for use as indicated above.
+Telephone number:  **1 800 975 5108**
 
-### What choices are available to Visitors regarding collection, use and distribution of the information?
+Details of our Representative **: Sergio Zavaleta**
 
-Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at 701 Brazos Street, Suite 1601.
+It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by emailing us at [**support@growthinstitute.com**](mailto:support@growthinstitute.com).
 
-### Are Cookies Used on the Site?
+  2.  **WHAT DATA DO WE COLLECT ABOUT YOU, FOR WHAT PURPOSE AND ON WHAT GROUND WE PROCESS IT**
 
-Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
 
-### How does Growth Institute, LLC use login information?
 
-Growth Institute, LLC uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information.
+Personal data means any information capable of identifying an individual. It does not include anonymized data.
 
-### What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?
+We may process the following categories of personal data about you:
 
-Growth Institute, LLC has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility. Our privacy policy does not cover their collection or use of this information. Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.
+  *  **Communication Data** that includes any communication that you send to us whether that be through the contact form on our website, through email, text, social media messaging, social media posting or any other communication that you send us. We process this data for the purposes of communicating with you, for record keeping and for the establishment, pursuance or defense of legal claims. Our lawful ground for this processing is our legitimate interests which in this case are to reply to communications sent to us, to keep records and to establish, pursue or defend legal claims.
 
-### How does the Site keep Personally Identifiable Information secure?
 
-All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences.
+  *  **Customer Data** that includes data relating to any purchases of goods and/or services such as your name, title, billing address, delivery address email address, phone number, contact details, purchase details and your card details. We process this data to supply the goods and/or services you have purchased and to keep records of such transactions. Our lawful ground for this processing is the performance of a contract between you and us and/or taking steps at your request to enter into such a contract.
 
-### How can Visitors correct any inaccuracies in Personally Identifiable Information?
 
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [support@growthinstitute.com](mailto:support@growthinstitute.com)
+  *  **User Data** that includes data about how you use our website and any online services together with any data that you post for publication on our website or through other online services. We process this data to operate our website and ensure relevant content is provided to you, to ensure the security of our website, to maintain backups of our website and/or databases and to enable publication and administration of our website, other online services, and business. Our lawful ground for this processing is our legitimate interests which in this case are to enable us to properly administer our website and our business.
 
-### Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?
 
-We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site’s database by contacting. However, because of backups and records of deletions, it may be impossible to delete a Visitor’s entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
+  *  **Technical Data** that includes data about your use of our website and online services such as your IP address, your login data, details about your browser, length of visit to pages on our website, page views and navigation paths, details about the number of times you use our website, time zone settings and other technology on the devices you use to access our website. The source of this data is from our analytics tracking system. We process this data to analyze your use of our website and other online services, to administer and protect our business and website, to deliver relevant website content and advertisements to you and to understand the effectiveness of our advertising. Our lawful ground for this processing is our legitimate interests which in this case are to enable us to properly administer our website and our business and to grow our business and to decide our marketing strategy.
 
-### What happens if the Privacy Policy Changes?
 
-We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure.
+  *  **Marketing Data** that includes data about your preferences in receiving marketing from us and our third parties and your communication preferences. We process this data to enable you to partake in our promotions such as competitions, prize draws and free giveaways, to deliver relevant website content and advertisements to you and measure or understand the effectiveness of this advertising. Our lawful ground for this processing is our legitimate interests which in this case are to study how customers use our products/services, to develop them, to grow our business and to decide our marketing strategy.
 
-### Links
 
-GrowthInstitute.com contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
+  * We may use Customer Data, User Data, Technical Data and Marketing Data to deliver relevant website content and advertisements to you (including Facebook adverts or other display advertisements) and to measure or understand the effectiveness of the advertising we serve you. Our lawful ground for this processing is legitimate interests which are to grow our business. We may also use such data to send other marketing communications to you. Our lawful ground for this processing is either consent or legitimate interests (namely to grow our business
+
+
+
+ **Sensitive Data**
+
+We do not collect any Sensitive Data about you. Sensitive data refers to data that includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data. We do not collect any information about criminal convictions and offenses.
+
+Where we are required to collect personal data by law, or under the terms of the contract between us and you do not provide us with that data when requested, we may not be able to perform the contract (for example, to deliver goods or services to you). If you don’t provide us with the requested data, we may have to cancel a product or service you have ordered but if we do, we will notify you at the time.
+
+We will only use your personal data for a purpose it was collected for or a reasonably compatible purpose if necessary. For more information on this please email us at [**support@growthinstitute.com**](mailto:support@growthinstitute.com). In case we need to use your details for an unrelated new purpose we will let you know and explain the legal grounds for processing.
+
+We may process your personal data without your knowledge or consent where this is required or permitted by law.
+
+We do not carry out automated decision making or any type of automated profiling.
+
+  3.  **HOW WE COLLECT YOUR PERSONAL DATA**
+
+
+
+We may collect data about you by you providing the data directly to us (for example by filling in forms on our site or by sending us emails). We may automatically collect certain data from you as you use our website by using cookies and similar technologies. Please see our [cookie policy](https://www.growthinstitute.com/cookie-policy/) for more details about this.
+
+We may receive data from third parties such as analytics providers such as Google based outside the EU, advertising networks such as Facebook-based outside the EU, such as search information providers such as Google based outside the EU, providers of technical, payment and delivery services, such as data brokers or aggregators.
+
+We may also receive data from publicly available sources such as Companies House and the Electoral Register based inside the EU.
+
+  4.  **MARKETING COMMUNICATIONS  **
+
+
+
+Our lawful ground of processing your personal data to send you marketing communications is either your consent or our legitimate interests (namely to grow our business).
+
+Under the Privacy and Electronic Communications Regulations, we may send you marketing communications from us if (i) you made a purchase or asked for information from us about our goods or services or (ii) you agreed to receive marketing communications and in each case you have not opted out of receiving such communications since. Under these regulations, if you are a limited company, we may send you marketing emails without your consent. However, you can still opt out of receiving marketing emails from us at any time.
+
+Before we share your personal data with any third party for their own marketing purposes we will get your express consent.
+
+You can ask us or third parties to stop sending you marketing messages at any time by logging into the website and checking or unchecking relevant boxes to adjust your marketing preferences OR by following the opt-out links on any marketing message sent to you OR by emailing us at [**support@growthinstitute.com**](mailto:support@growthinstitute.com) at any time.
+
+If you opt out of receiving marketing communications this opt-out does not apply to personal data provided as a result of other transactions, such as purchases, warranty registrations etc.
+
+  5.  **DISCLOSURES OF YOUR PERSONAL DATA**
+
+
+
+We may have to share your personal data with the parties set out below:
+
+  * Other companies in our group who provide services to us.
+  * Service providers who provide IT and system administration services.
+  * Professional advisers including lawyers, bankers, auditors, and insurers.
+  * Government bodies that require us to report processing activities.
+  * Market researchers.
+  * Fraud prevention agencies.
+  * Third parties to whom we sell, transfer, or merge parts of our business or our assets.
+
+
+
+We require all third parties to whom we transfer your data to respect the security of your personal data and to treat it in accordance with the law. We only allow such third parties to process your personal data for specified purposes and in accordance with our instructions.
+
+  6.  **INTERNATIONAL TRANSFERS**
+
+
+
+We share your personal data within our group of companies which involves transferring your data outside the European Economic Area ( **EEA** ).
+
+Countries outside of the European Economic Area ( **EEA** ) do not always offer the same levels of protection to your personal data, so European law has prohibited transfers of personal data outside of the EEA unless the transfer meets certain criteria.
+
+Many of our third parties service providers are based outside the European Economic Area ( **EEA** ) so their processing of your personal data will involve a transfer of data outside the EEA.
+
+Whenever we transfer your personal data out of the EEA, we do our best to ensure a similar degree of security of data by ensuring at least one of the following safeguards is in place:
+
+  * We will only transfer your personal data to countries that the European Commission have approved as providing an adequate level of protection for personal data by; or
+  * Where we use certain service providers, we may use specific contracts or codes of conduct or certification mechanisms approved by the European Commission which give personal data the same protection it has in Europe; or
+  * If we use US-based providers that are part of EU-US Privacy Shield, we may transfer data to them, as they have equivalent safeguards in place.
+
+
+
+If none of the above safeguards is available, we may request your explicit consent to the specific transfer. You will have the right to withdraw this consent at any time.
+
+  7.  **DATA SECURITY**
+
+
+
+We have put in place security measures to prevent your personal data from being accidentally lost, used, altered, disclosed, or accessed without authorization. We also allow access to your personal data only to those employees and partners who have a business need to know such data. They will only process your personal data on our instructions and they must keep it confidential.
+
+We have procedures in place to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach if we are legally required to.
+
+  8.  **DATA RETENTION**
+
+
+
+We will only retain your personal data for as long as necessary to fulfill the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+
+When deciding what the correct time is to keep the data for we look at its amount, nature and sensitivity, the potential risk of harm from unauthorized use or disclosure, the processing purposes, if these can be achieved by other means and legal requirements.
+
+For tax purposes, the law requires us to keep basic information about our customers (including Contact, Identity, Financial and Transaction Data) for six years after they stop being customers.
+
+In some circumstances, we may anonymize your personal data for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
+
+  9.  **YOUR LEGAL RIGHTS**
+
+
+
+Under data protection laws you have rights in relation to your personal data that include the right to request access, correction, erasure, restriction, transfer, to object to processing, to the portability of data and (where the lawful ground of processing is consent) to withdraw consent.
+
+If you wish to exercise any of the rights set out above, please email us at[ **support@growthinstitute.com**](mailto:support@growthinstitute.com)
+
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive or refuse to comply with your request in these circumstances.
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you.
+
+If you are not happy with any aspect of how we collect and use your data, we should be grateful if you would contact us first if you do have a complaint so that we can try to resolve it for you.
+
+  10.  **THIRD-PARTY LINKS**
+
+
+
+This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
+
+  11.  **COOKIES**
+
+
+
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see [**https://www.growthinstitute.com/cookie-policy/**](https://www.growthinstitute.com/cookie-policy/)
