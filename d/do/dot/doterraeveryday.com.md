@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doterraeveryday.com privacy policy that was archived on 2018-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180116234238id_/https%3A//www.doterra.com/US/en/usa-online-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doterraeveryday.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905204838id_/https%3A//www.doterra.com/US/en/usa-online-privacy-notice) for the most accurate reproduction.*
 
 # doTERRA USA Online Privacy Notice | dōTERRA Essential Oils
 
@@ -6,7 +6,7 @@
 
 Effective Date: December 19, 2017
 
-dōTERRA International, LLC (“dōTERRA”) respects your concerns about privacy. This U.S. Online Privacy Notice describes the types of personal information we obtain through dōTERRA’s websites and mobile applications listed here (collectively, the “Sites”) [Insert hyperlink to Appendix A], how we may use the information, with whom we may share it and the choices available regarding our use of the information. The Notice also describes the measures we take to safeguard the personal information we obtain and how individuals can contact us about our privacy practices. 
+dōTERRA International, LLC (“dōTERRA”) respects your concerns about privacy. This U.S. Online Privacy Notice describes the types of personal information we obtain through dōTERRA’s websites and mobile applications listed in Appendix A (collectively, the “Sites”), how we may use the information, with whom we may share it and the choices available regarding our use of the information. The Notice also describes the measures we take to safeguard the personal information we obtain and how individuals can contact us about our privacy practices. 
 
 Click on one of the links below to jump to the listed section: 
 
