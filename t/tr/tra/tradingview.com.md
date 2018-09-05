@@ -1,139 +1,200 @@
-> *The following text is extracted and transformed from the tradingview.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315022646id_/https%3A//www.tradingview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradingview.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906011906id_/http%3A//tradingview.com/privacy-policy) for the most accurate reproduction.*
 
-# Customized financial portals - TradingView
+# TradingView Privacy Policy
 
-**In brief:** TradingView will never share or sell your personal information (except that DailyFX sign-ups may be shared with DailyFX).*
+**In brief:** We respect your privacy and the confidentiality of information that you give us. TradingView will share your personal data with third parties only in the event that it’s needed for provision of additional services and data (e.g. paid plans). 
 
-### About Us
+## About Us
 
-TradingView, Inc. ("TradingView" or "We") is the sole owner of TradingView.com website ("Website") and all of the information collected on it. TradingView collects information from our Users in several ways on our Website.   
-We are committed to our Users' privacy. The following Privacy Policy discloses how we collect, process, store and share information including the following: 
+TradingView Inc. (“TradingView” or “We” or “Us”) is the sole owner of TradingView.com website (“Website”) and all of the information collected on it. TradingView collects information from users in several ways through the Website.
 
-  * Personal information being collected via Website by us (TradingView, Inc.)
+The Privacy Policy discloses how we collect, process, store and share information including the following:
+
+  * Personal information being collected via Website by TradingView
   * Personal information being collected via Website by third parties
-  * How We use the personal information collected
+  * How we use the personal information collected
   * Who we can share this information with
-  * Security procedures we use to protect our Users' personal information
-  * Opting out and updating options available to our Users with regard to personal information collection
+  * Security procedures we use to protect our users' personal information
+  * How we give rights to users in respect of the personal data
 
 
 
-By using our Website, you consent to our website’s Privacy Policy.   
-We do not knowingly contact or collect personal information from children under 13. If you believe we have inadvertently collected such information, please contact us so we can either obtain parental consent or delete the information. 
+We always ask users for a permission to collect and use personal data.
 
-### Online Privacy Policy Only
+## Children’s and special categories of personal data
 
-This Policy applies only to information collected through our website and is not related to any information collected offline. 
+We do not knowingly contact or collect personal information from children below the age of 16 years or special categories of personal data (racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, biometric data, data concerning health, data concerning a natural person’s sex life or sexual orientation). If you believe we have inadvertently collected such information, please contact us so that we can either obtain special consent or delete the information. 
 
-### Policy Updates
+## Updates
 
-We may update this Policy on our discretion from time-to-time by posting a new version on our Website. You should check our Website occasionally to ensure any changes made are suitable for you.   
-Current version of our Privacy Policy was modified on March 24, 2014. 
+We may update this Policy Notes at our discretion from time to time by posting a new version on our Website. You should check our Website occasionally to ensure any changes made are suitable for you. You will be informed of any significant changes made to the Privacy Policy.
 
-## Which personal information is collected
+Current version of our Privacy Notes was modified on July 30, 2018.
 
-### Registration - Free Account
+## Personal data that we collect
 
-In order to access the membership areas of Website, you must first complete a registration form. During registration you will be required to provide us either: 
+There is no need to create an account and give consent to personal data processing when searching and viewing information from certain markets such as symbols, quotes, financial data as well as ideas and publicly available data of TradingView users. 
 
-  * your email address and a username
-  * your account information with one of the following social Internet services: Facebook, Twitter, Google+, LinkedIn, StockTwits, Yahoo!
+If you decided to create an account then you have to share some personal data with us so that we can provide you with access to our services.
 
-
-
-We use this information to keep accounts secure and unique, and to contact you should any problem occur.   
-When you sign in to a site or service using your social Internet service credentials, such service sends us your Username and email address associated with the credentials you've used. 
-
-### Registration - PRO/PRO RT Account
-
-In order to access the paid areas of Website with extended functionality, you should either use your Free Account information or complete a registration form. During registration you will be required to provide us either: 
+During registration you will be required to provide us with either:
 
   * your email address and a username
-  * your account information with one of the following social Internet services: Facebook, Twitter, Google+, LinkedIn, StockTwits, Yahoo!
+  * your account information with one of the following social Internet services: Facebook, Twitter, Google+, Yahoo!, LinkedIn.
 
 
 
-We use this information to keep accounts secure and unique, and to contact you should any problem occur.   
-When you sign in to a site or service using your social Internet service credentials, such service sends us your Username and email address associated with the credentials you've used.   
-In addition, Users registered for PRO/PRO RT accounts ("Paid Users") must provide payment information (name, credit card information or PayPal account information). This information is used for billing purposes only and is processed by PayPal, who is our payment processor. When you are making a payment, we do not have access to your personal and credit card information. Should we have any issues with processing an order, the email address is used to contact the User. 
+When you sign in to the Website a site or service using your social Internet service credentials (Facebook, Twitter, Google+, Yahoo!, LinkedIn, StockTwits), such service sends us your username and email address associated with the credentials you've used. We neither control nor take any responsibility for the way third parties that provide information about you process your personal data.
+
+In some cases you would have to provide and verify your phone number. You can also add additional information about you in the profile settings which however is not mandatory:
+
+  * The following information will be publicly displayed - avatar, signature, “about me”, location, twitter and website;
+  * The following information would not be publicly available - first and last name, phone, sms email, company, address, taxpayer ID.
+
+
 
 ## How personal information is collected
 
 ### Profile
 
-A profile is a set of information for each individual User that details their viewing preferences. We do not use stored user settings for marketing purposes. User settings (chart settings, toolbars, buttons, etc.) are kept solely for the purpose of customizing User experience when using Website. We do not share your private profile settings with any third parties.   
-When you create your profile on Website you agree that other users or visitors may access your public profile on our Website and see any information you've made available about yourself. 
+A profile is a set of information for each individual user that details his/her viewing preferences. We do not use stored user settings for marketing purposes. User settings (chart settings, toolbars, buttons, etc.) are kept solely for the purpose of customizing user experience when using Website. We do not share your private profile settings with any third parties.
+
+When you create your profile on the Website you agree that other users or visitors may access your public profile on our Website and see any information you have made available about yourself.
 
 ### Cookies
 
-A cookie is a piece of data stored on the user's computer tied to information about the user. We use both session ID cookies and persistent cookies.   
-For the session ID cookie, once you close your browser, the cookie simply terminates. We use a session cookie to control access to our paid areas.   
-A persistent cookie is a small text file stored on your hard drive for an extended period of time. Persistent cookies can be removed by following your browser's help file directions. If you are a Paid User and you have checked the "Remember me" box on our logon page, we store your Username and Password in persistent cookies so that you do not need to re-enter that information each time you visit the Website.   
+We collect cookie files to gather and analyze statistical information as well as to ensure security and to fight spam. More detailed information on the terms of use can be found in our [Cookies Policy](https://web.archive.org/cookies-policy/). 
+
 **You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of the Website nor will you be able to access the paid areas if cookies are disabled.**
 
 ### Log Files
 
-Like most websites, we use web server log files. Records in our log files include internet protocol (IP) addresses, browser types, internet service providers (ISP's), referring pages, exit pages, platform types, and date/time stamps. We use web server log files to administer the site, to provide broad traffic information for site planning purposes, and to ensure that our terms of service agreement is being adhered to. IP addresses are not tied to personally identifiable information in our web server log files. 
+Like most websites, We use web server log files. Records in our log files include internet protocol (IP) addresses, browser types, internet service providers (ISP's), referring pages, exit pages, platform types, and date/time stamps. We use web server log files to administer the site, to provide broad traffic information for site planning purposes, and to ensure that our terms of service agreement are being adhered to. IP addresses are not tied to personally identifiable information in our web server log files.
+
+### Device information
+
+We collect the following information about the devices that you use to visit the site: IP-address of the device, operating system and browser version. We are collecting this information to prevent spam and abuse of our services.
 
 ### Web beacons (Clear GIFs)
 
-Web beacons are tiny graphics with a unique identifier that allow us to track usage patterns, count users who have visited a particular page, etc. Web beacons collect only limited information, including a cookie number, time and date of a page view, and a description of the page on which the web beacon resides. These beacons do not carry any personally identifiable information and are only used to track the effectiveness of Website. We use Web beacons in connection with Google Analytics service. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Please refer to Google's privacy policy to get more information. 
+Web beacons are tiny graphics with a unique identifier that allow us to track usage patterns, count users who have visited a particular page, etc. Web beacons only collect limited information, including a cookie number, time and date of a page view, and a description of the page on which the web beacon resides. These beacons do not carry any personally identifiable information and are only used to track the effectiveness of Website. We use web beacons in connection with Google Analytics service. The information generated related to our Website is used to create reports about the use of the Website. We use this information to develop, test and improve our services further.
 
-### Security
+Google will store this information. Please refer to [Google's privacy policy](https://www.google.com/policies/privacy/partners/) to get more information. 
 
-We use Secure Socket Layer (SSL) encryption technology in order to protect certain information that you submit. This type of technology protects you from having your information intercepted by anyone, while it is being transmitted to TradingView or PayPal . While on a secure page, such as our order form, the "lock" icon in the browser window is displayed, confirming that a secure, encrypted connection has been established with the Website. We work hard to ensure that our Website is secure and that we meet industry standards. We also use other safeguards, such as firewalls, authentication systems (e.g., passwords and personal identification numbers), and access control mechanisms to control unauthorized access to systems and data.   
-We also do our best to protect user information offline. All of our users' personal information is restricted to our offices. Only employees who need to see the information to perform their jobs are allowed to access it. The servers that store personally identifiable information are located in a secure environment in a locked facility. 
+## Areas where we don’t collect personal information
 
 ### Links to other sites
 
-At our discretion we can add links (web links) to other sites (web sites) from our Website. These sites can be run by third parties with separate and independent privacy policies. We, therefore, have no responsibility or liability for the content, activities or privacy policies of those linked sites. We suggest you read the privacy policy of each and every site that you visit. We remind you that this privacy policy applies only to information collected by our Website (TradingView.com). 
+At our discretion We can add links (web links) to other websites from our Website. These websites can be run by third parties with separate and independent privacy policies. We, therefore, have no responsibility or liability for the content, activities or privacy policies of those linked sites. We suggest you read the privacy policy of each and every site that you visit. We remind you that this Privacy Policy applies only to information collected by our Website (TradingView.com).
+
+### Advertising
+
+We display advertising on the website but do not give our advertisers any information about you. Advertisers are able to see general statistics that include the amount of impressions and clicks.
 
 ### Our hosted charting solutions
 
-Some of our business partners use our charting solutions on their own websites. Such sites may display messages like "Powered by TradingView" or similar. Even if those messages are present, we do not control the privacy policies of those sites. We suggest you read the privacy policy of each and every site that you visit. 
-
-### Public Profile
-
-When you create your profile on Website, you agree that other users or visitors may access your public profile on our Website and see any information you've made available about yourself. When browsing the Website for trading ideas, they will only be able to view your: market information (Ideas published, Markets allocation, Top Mentioned Symbols), social information (followers and following lists), contact information (About section, location, Twitter, website), your community status (Moderator or PRO badges). Your email address won't be visible (until you will decide to make it visible). 
-
-### Public Charts and Ideas
-
-Our Website allows Registered Users to share their Charts with indicators and comments added (i.e. Ideas) with the rest of the Internet via our Publish Idea feature. Use of Publish Idea feature is considered to be voluntary disclosure of personal information by you.   
-Paid Users can make their Ideas available only for particular persons they want and not for everybody (using "Publicly visible chart" checkbox). 
+Some business partners use our charting solutions on their own websites. Such sites may display messages like “Powered by TradingView” or similar. Even if those messages are present, We do not control the privacy policies of those sites. We suggest you read the privacy policy of each and every site that you visit.
 
 ## How personal information is used
 
-### Account Administration
+We use your contact details such as username, email address or phone number to authenticate your account, ensure its security along with the security of our services and to prevent spam, fraud and abuse.
 
-We send all new Users a welcome activation email to verify their email address.   
-Paid Users will also receive a notification email from PayPal if there are any issues with billing their cards for monthly auto-renew subscriptions.   
-Users cannot opt-out of these messages, though they can deactivate their account. 
+We send all new users a welcome activation email to verify their email address. Paid Users will also receive a notification email from PayPal if there are any issues with billing their cards for auto-renew subscriptions. Users cannot opt-out of these messages, though they can deactivate their account.
+
+### Social Notifications
+
+We can notify you via email about new users who have followed you/liked the idea, about new ideas of users that you follow etc. You can refuse to receive such newsletters at any point in time by adjusting your user settings. 
 
 ### Announcements and Newsletters
 
-On rare occasions it is necessary to send out service-related announcements or important newsletters. For instance, if our service is interrupted for a prolonged period or major functionality upgrade is released, we might send all users an email message. Users cannot opt-out of this type of messages, though they can deactivate their account. 
-
-### *DailyFX sign-ups
-
-TradingView may share with DailyFX/FXCM the personal information of those users who sign up for DailyFX service. Please check [DailyFX/FXCM Privacy Policy](http://www.dailyfx.com/page/privacy_policy.html) to see how DailyFX/FXCM can use personal information. 
+On rare occasions it is necessary to send out service-related announcements or important newsletters. For instance, if our service is interrupted for a prolonged period or major functionality upgrade is released, we might send all users an email message. Also, we can sometimes use your email address to send marketing messages. Users can refuse to receive such messages in the future by clicking unsubscribe in one of the emails.
 
 ### Customer Service
 
-In response to a user's direct support inquiry, we may send email(s) providing assistance with regards to their questions. 
+When you open a support ticket we use your contact details as well as information about your device, server logs, a description of the problem along with any supporting materials (videos, screenshots) to help you resolve the issues. 
 
-## Opting out and Updating
+### API
 
-### Opting out
+If you are using our API services (such as the Charting Library, Trading Terminal, REST API) then we can process your personal data in order to be able to provide and support those services. 
 
-Users cannot opt-out of our messages we sent from time to time (see Announcements and Newsletters section), though Users can deactivate their account with us. Users can opt-out from transactional notification emails (i.e. if someone you follow posted a chart, etc) )through User Profile settings. 
+### Legal requirements
 
-### Updating
+We can store and disclose your information to law enforcement authorities, state or government agencies if we establish that such disclosure is necessary to comply with the law. This includes responses to court orders or subpoenas, as well as other judicial or regulatory processes. 
 
-We provide a way for users to update their personally identifiable information on our web site. Registered Users can change their email address and other information in "Profile Settings" menu on Website. Alternately, users can send an email to Support@TradingView.com 
+## When we share your personal information
 
-## Contact Information
+Users registered for PRO/PRO Plus/Premium Accounts (“Paid Users”) must provide payment information (name, credit card information or PayPal account information). This information is used for billing purposes only and is processed by PayPal, that is our payment processor. When you are making a payment, we do not have access to your personal and credit card information. Should we have any issues with processing an order, the provided email address is used to contact you. 
 
-If you have any questions or suggestions regarding our privacy policy, please contact us using our web-based feedback form or by sending an email to Support@TradingView.com. 
+When you buy market data from IDC we give them your contact details, phone number, address, email and you sign the agreement. This data is also processed by IDC in order to provide you with access to the exchanges. When you buy market data from other stock exchange we give them same information. 
+
+If you buy educational video courses then we pass your username to the authors and content creators. 
+
+## Public information on our site
+
+### Public Profile
+
+When you create your profile on Website, you agree that other users or visitors may access your public profile on our Website and see any information you have made available about yourself. When browsing the Website for trading ideas they will only be able to view your: market information (published ideas and scripts, markets allocation, top mentioned Symbols), social information (followers and following lists along with the ideas that you follow and comment on), contact information (about section, location, Twitter, website), your community status (Moderator or PRO badges, statistical information such as reputation points, views, likes, followers, registration date as well last visit date). Your email address won't be visible (until you decide to make it visible). 
+
+### Public Charts and Ideas
+
+Our Website allows Registered Users to share their Charts with indicators and comments added (“Ideas”) with the rest of the Internet via our Publish Idea feature. 
+
+By using the publish idea feature you agree to disclose the content of this idea as well as the name of the author which makes you identifiable. 
+
+You can also publish a private idea. It will not be displayed in your profile, list of ideas and will not get indexed by search engines. However, users who have a direct link to your idea will be able to view it. 
+
+### Chats and Private Messages
+
+When you communicate with other users in public and private chats we store and process your messages and any related information. We check links to make sure that there is no malicious content as well as to detect spam and prohibited images. When you use private messages to communicate keep in mind that the recipients have a copy of your correspondence as well. This will be the case even if you delete such correspondence from your account. Recipients can copy, store or reshare these messages. 
+
+## Security of personal data
+
+We use technical and organizational safeguards to protect your personal data and require third parties with whom we work to do the same. 
+
+We use Transport Layer Security (TLS) encryption technology in order to protect certain information that you submit. This type of technology protects you from having your information intercepted by anyone while it is being transmitted to TradingView or PayPal . While on a secure page, such as our order form, the “lock” icon in the browser window is displayed, confirming that a secure, encrypted connection has been established with the Website. We work hard to ensure that our Website is secure and that we meet industry standards. We also use other safeguards, such as firewalls, authentication systems (e.g., passwords and personal identification numbers), and access control mechanisms to control unauthorized access to systems and data. 
+
+We are constantly improving the ways we collect, store and process data which including physical security measures that help us counter unauthorized access to our systems. 
+
+We also do our best to protect user information offline. All of our users' personal information is restricted to our offices. Only employees who need to see the information to perform their jobs are allowed to access it. 
+
+The servers that store personally identifiable information are located in a secure environment in a locked facility. 
+
+## User rights
+
+You have the right to access, correct, transfer and delete your data. You also have the right to object to certain ways your data is processed and to restrict such processing. 
+
+This includes your right to: 
+
+  * object to our processing of your data for the purposes of direct marketing. This can be done by clicking the unsubscribe button in marketing emails.
+  * refuse to receive service notifications via email (for example, when a user that you are subscribed to publishes a chart, etc.). This can be adjusted in the user settings. 
+
+
+
+### Viewing and correcting data
+
+Each user can view and manage his/her personal data in the profile settings. 
+
+### Deleting data
+
+You have the right to refuse to use our website and to delete your account. You need to contact our support team to do so. We will respond to requests about this within a reasonable timeframe. 
+
+Note that search engines as well as third parties can keep copies of your publicly available information for some time once your account has been deactivated. It should also be noted that published ideas will remain on the site and messages sent to other users can’t be deleted. 
+
+### Data portability
+
+You have the right to receive your personal data. You need to contact our support team to do so. We will respond to requests about this within a reasonable timeframe. 
+
+## European Union residents
+
+TradingView Inc. is located in the United States. If you use our services you consent to the transfer to and from, processing, usage, sharing, and storage of your information, including personal data, in the U.S. We process user data in accordance with our corporate rules that are briefly described in this Privacy Policy. 
+
+As residents of the EU, you will have rights under the General Data Protection Regulation. 
+
+## Contact information
+
+If you have any questions or suggestions regarding personal data processing, please contact our support team. 
+
+If you disagree with this Privacy Policy, you will need to stop using our website and deactivate your account, as outlined above. You can also revoke your consent to personal data processing. Note that in such case you will have limited access to site’s features/your account will get deactivated. 
 
 TradingView.com, Inc.   
 470 Olde Worthington Rd., Suite 200   
