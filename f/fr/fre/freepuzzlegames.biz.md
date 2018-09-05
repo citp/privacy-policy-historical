@@ -1,26 +1,20 @@
-> *The following text is extracted and transformed from the freepuzzlegames.biz privacy policy that was archived on 2017-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170728171135id_/https%3A//www.freepuzzlegames.biz/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepuzzlegames.biz privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906005514id_/https%3A//www.freepuzzlegames.biz/page/1.html) for the most accurate reproduction.*
 
 # Privacy Policy - FreePuzzleGames.biz
 
 Privacy Policy for www.freepuzzlegames.biz 
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us.](https://web.archive.org/contact.php)
+If you require any more information or have any questions about our privacy policy, please feel free to 
+
+[contact us.](https://www.freepuzzlegames.biz/contact.php)
 
 At www.freepuzzlegames.biz, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.freepuzzlegames.biz and how it is used. 
 
-**Personal Information**  
-Any personal information that you provide to our web site shall stay absolutely safe, private, and secure. We do not resell personal information to outside sources. 
-
-**External Links**  
-This site contains links to other sites. We are not responsible for the privacy practices or the content of such Web sites. 
-
-**Security**  
-We have taken the appropriate steps and followed industry standards to secure any personal data stored by our systems. 
-
-**Log Files**  
-Like many other Web sites, www.freepuzzlegames.biz makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user�s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
-
-**Cookies and Web Beacons**  
+**Personal Information**   
+Any personal information that you provide to our web site shall stay absolutely safe, private, and secure. We do not resell personal information to outside sources.  **External Links**   
+This site contains links to other sites. We are not responsible for the privacy practices or the content of such Web sites.  **Security**   
+We have taken the appropriate steps and followed industry standards to secure any personal data stored by our systems.  **Log Files**   
+Like many other Web sites, www.freepuzzlegames.biz makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.  **Cookies and Web Beacons**   
 www.freepuzzlegames.biz does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense . 
