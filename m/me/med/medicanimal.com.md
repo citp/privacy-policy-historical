@@ -1,165 +1,448 @@
-> *The following text is extracted and transformed from the medicanimal.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009233701id_/http%3A//www.medicanimal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicanimal.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906011419id_/https%3A//www.medicanimal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MedicAnimal.com
 
-MedicAnimal Privacy Notice
+**Privacy Notice**
 
-This Privacy Notice was last modified on March 11, 2008.
+If you're looking for the Candidate Privacy Notice please **[click here](https://www.medicanimal.com/candidate-privacy-notice).**  
+This Privacy Notice was last modified on 18 May 2018.
 
-MedicAnimal (“MedicAnimal”, “us” or “we”) knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes the information gathering and dissemination practice for this website. By visiting MedicAnimal.com, you are accepting and consenting to the practices described in this Privacy Notice.
+**MedicAnimal Privacy Notice**
 
-• Controller of Personal Information
+Welcome to MedicAnimal’s privacy notice. 
 
-• What Personal Information About Customers Does MedicAnimal Gather?
+We know that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice will inform you about how we look after your personal data when you visit our website and tell you about your privacy rights and how the law protects you. 
 
-• What About Cookies?
+It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us. 
 
-• Does MedicAnimal Share the Information it Receives?
+This website is not intended for children and we do not knowingly collect data relating to children. 
 
-• How Secure Is Information About Me?
+Please note that our website may include links to third-party websites and applications, clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit. 
 
-• What About Third-Party Advertisers and Links to Other Websites?
+There are links below so you can click through to specific areas. Please also use the Glossary at the end of the document to help you better understand some of the terms used.
 
-• Accessing and Changing Your Information
+  1. Who We Are
+  2. The Data We Collect About You
+  3. How We Collect Your Data
+  4. How We Use Your Personal Data
+  5. Disclosures of Your Personal Data
+  6. International Transfers
+  7. Data Security
+  8. Data Retention
+  9. Your Legal Rights
+  10. Glossary
 
-• What Choices Do I Have?
 
-• Are Children Allowed to Use MedicAnimal?
 
-• Notices and Revisions
+**1\. Who We Are**
 
-• Examples of Information Collected
+MedicAnimal is the trading name for Kokoba Ltd, a company registered in England & Wales (company number: 06060026) whose registered office is at 15-19 Baker's Row, London, EC1R 3DG.
 
-**Controller of Personal Information**
+This website is operated and controlled by Kokoba Ltd, who is the data controller and responsible for your personal data (referred to as ‘MedicAnimal’, “we”, “us” or “our” in this privacy notice).  
 
-MedicAnimal is the trading name for Kokoba Ltd, a company registered in England & Wales (company number: 06060026) whose registered office is at 5 New Street Square, London, EC4A 3TW, United Kingdom.
+We have appointed a data protection lead who is responsible for overseeing questions in relation to this privacy notice. If you have any questions about this privacy notice, including any requests to exercise your legal rights, please contact the data protection lead as follows: 
 
-Any personal information provided to or gathered by MedicAnimal is controlled and processed by or on behalf of MedicAnimal.
+Contact details:
 
-This website is operated and controlled by Kokoba Ltd, who is the data controller for the purposes of the UK Data Protection Act 1998.
+Email address: [privacy@medicanimal.com](mailto:privacy@medicanimal.com)
 
-**What Personal Information About Customers Does MedicAnimal Gather?**
+Postal address: 15-19 Bakers Row, London EC1R 3DG
 
-The information we learn from customers helps us personalise and continually improve your shopping experience at medicanimal.com. We use the information to handle orders, deliver products and services, process payments, communicate with you about orders, products, services and promotional offers, update our records and generally maintain your accounts with us and recommend products and services that might be of interest to you. We also use this information to improve our store and platform, prevent or detect fraud or abuses of our website and enable third parties to carry out technical, logistical or other functions on our behalf.
+You have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ([www.ico.org.uk](http://www.ico.org.uk/)). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please [contact us](https://help.medicanimal.com/) in the first instance. 
 
-Here are the types of information we gather.
+**2\. The Data We Collect About You**
 
-• Information You Give Us: we receive and store any information you enter on our website or give us in any other way. You can choose not to provide certain information but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customising future shopping for you, improving our stores, and communicating with you.
+Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data). 
 
-• Automatic Information: we receive and store certain types of information whenever you interact with us. For example, like many websites, we use "cookies" and we obtain certain types of information when your Web browser accesses medicanimal.com. We use this information for such purposes as technical administration of our website, research and development, customer administration and marketing. A number of companies offer utilities designed to help you visit websites anonymously. Although we will not be able to provide you with a personalised experience at medicanimal.com if we cannot recognise you, we want you to be aware that these tools exist.
+We may collect, use, store and transfer different kinds of personal data about you which we have grouped together as follows: 
 
-• Information from Other Sources: we might receive information about you from other sources such as public records and bodies, or private organisations and add it to our account information.
+  * Identity Data including your full name, title, date of birth and username or other customer identifier.
+  * Contact Data including billing address, delivery address, email address and telephone numbers.
+  * Financial Data including your bank account and payment card details.
+  * Transactional Data including details about payments to and from you and other details of products or services you have purchased from us.
+  * Technical Data including internet protocol (IP) address, your login data, browser type and version, time zone, setting and location, browser plug-in types and versions, operating system, platform and other technology devices you use to access this website.
+  * Profile Data including your username and password, purchases or orders made by you, pet details, your preferences, feedback and survey responses.
+  * Usage Data including information about how you use our website, products and services.
+  * Marketing and Communications Data including your preferences in receiving marketing from us and our third parties, and your communication preferences.
 
-If you do not wish to receive promotional offers from us in the future you will be given the opportunity to refuse any marketing emails from us by accessing our notification preferences.
 
-**What About Cookies?**
 
-• Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognise your browser and to provide features such as personalised greetings and storage of items in your Shopping Basket between visits.
+We also collect, use and share Aggregated Data such as statistical or demographic data for any purpose. Aggregated Data may be derived from your personal data but is not considered personal data in law as this data does not directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific website feature. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy notice. 
 
-• The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer. However, because cookies allow you to take advantage of some of MedicAnimal's essential features, we recommend that you leave them turned on.
+We do not collect any Special Categories of Personal Data about you (including details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). Nor do we collect any information about criminal convictions and offences. 
 
-• If you do leave cookies turned on, be sure to sign off when you finish using a shared computer.
+If you fail to provide personal data
 
-We will be posting our Cooke Policy shortly. You can also find out more about cookies at www.allaboutcookies.org.
+Where we need to collect personal data by law, or under the terms of a contract we have with you and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with goods or services). In this case, we may have to cancel a product or service you have with us but we will notify you if this is the case at the time. 
 
-**Does MedicAnimal share the Information it receives?**
+**3\. How We Collect Your Personal Data**
 
-Information about our customers is an important part of our business and we are not in the business of selling it to others. MedicAnimal shares customer information only as described below.
+We use different methods to collect data from and about you including through:
 
-• Third Party Service Providers: We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analysing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. Further, they must process the personal information in accordance with this Privacy Notice and as permitted by the UK's Data Protection Act.
+Direct interactions. You may give us your Identity, Contact and Financial Data by filling in forms or by corresponding with us by post, phone, email or otherwise. This includes personal data you provide when you:
 
-• Promotional Offers: Sometimes we send offers to selected groups of MedicAnimal customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your notification preferences.
+  * place an order for our products or services;
 
-• Business Transfers: As we continue to develop our business, we might sell or buy stores, subsidiaries or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that Kokoba Ltd or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. In addition, MedicAnimal may disclose customer information to its subsidiaries or other affiliated entities. In any of these cases you accept and consent that MedicAnimal assign, transfer, and/or share your Personal Information for purposes of continuing to provide its services according to the terms of this Privacy Policy.
+  * create an account on our website;
 
-• Protection of MedicAnimal and Others: We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Conditions of Use & Sale and other agreements; or protect the rights, property or safety of MedicAnimal, our users or others. This includes exchanging information with other companies and organisations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing or otherwise disclosing personally identifiable information from customers for commercial purposes in a way that is contrary to the commitments made in this Privacy Notice.
+  * subscribe to our service or publications; 
 
-• With your consent: other than as set out above, you will receive notice when information about you might go to third parties and you will have an opportunity to choose not to share the information.
+  * request marketing to be sent to you;
 
-Whenever we transfer personal information to countries outside of the European Economic Area in the course of sharing information as set out above, we will ensure that the information is transferred in accordance with this Privacy Notice and as permitted by the applicable laws on data protection.
+  * enter a competition, promotion or survey;
 
-**How Secure Is Information About Me?**
+  * or give us some feedback. 
 
-MedicAnimal has implemented security policies, rules and technical measures to protect your personal date from unauthorised access or modification, improper use or disclosure, unlawful destruction or accidental loss.
 
-• We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.
 
-• We do not reveal your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
 
-• We maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of personally identifiable customer information. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you.
+Automated technologies or interactions. As you interact with our website, we may automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies. We may also receive Technical Data about you if you visit other websites employing our cookies. Please see our [Cookie Policy](https://web.archive.org/cookiesPolicy) for further details.
 
-• It is important for you to protect against unauthorised access to your password and to your computer. Be sure to sign off when you finish using a shared computer.
+Third parties or publicly available sources. We may receive personal Technical Data about you from various third parties and public sources as set out below:
 
-• All our employees and data processors, who have access to, and are associated with the processing of personally identifiable customer information are obliged to respect the confidentiality of our customers.
+  * analytics providers such as Google based outside the EU;
+  * advertising networks such as Google AdWords based inside the EU;
+  * and search information providers such as Google based inside or outside the EU.
 
-• We will ensure that your personal data will not be disclosed to state institutions and authorities without your consent except if we are required to do so by law through a subpoena, search warrant or other law enforcement procedure.
 
-**What About Third-Party Advertisers and Links to Other Websites?**
 
-Our site may include third-party advertising and links to other websites. We do not provide any personally identifiable customer information to these advertisers or third-party websites.
+**4\. How We Use Your Personal Data**
 
-These third-party websites and advertisers, or Internet advertising companies working on their behalf, sometimes use technology to send (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalise advertising content. We do not have access to or control over cookies or other features that they may use, and the information practices of these advertisers and third-party websites are not covered by this Privacy Notice. Please contact them directly for more information about their privacy practices.
+We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
 
-MedicAnimal also displays targeted advertising based on personal information about users. Although MedicAnimal does not provide any personal information to advertisers, advertisers (including ad-serving companies) may assume that users who interact with or click on a targeted advertisement meet the targeting criteria used to display the ad (for example, users in the United Kingdom who own dogs).
+  * Where we need to perform the contract we are about to enter into or have entered into with you.
 
-**Accessing and Changing Your Information**
+  * Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
 
-MedicAnimal gives you access to a broad range of information about your account and your interactions with MedicAnimal for the limited purpose of viewing and, in certain cases, updating that information. This list will change as our website evolves.
+  * Where we need to comply with a legal or regulatory obligation.
 
-You can check the information that we hold about you and make any desired changes to such information, or to the settings for your MedicAnimal account at any time by logging on and checking your account or by contacting us at info (@) MedicAnimal (.) com. You can also close your account through the medicanimal.com website. If you close your MedicAnimal account, we will mark your account in our database as “closed”, but will keep your account information in our database. This is necessary in order to deter fraud, by ensuring that persons who try to commit fraud will not be able to avoid detection simply by closing their account and opening a new one. However, if you close your account, your personally identifiable information will not be used by us for any further purposes, nor sold or shared with third parties, except as necessary to prevent fraud and assist law enforcement, as required by law.
 
-**What Choices Do I Have?**
 
-• As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of certain MedicAnimal features.
 
-• You can add or update certain information on the page My Account Overview. When you update information, we usually keep a copy of the previous version for our records.
+Click here to find out more about the types of lawful basis that we will rely on to process your personal data.
 
-• You have the opportunity to opt-out of receiving e-mail or other mail from us at the point where we request information about you. (If you do not want to receive our Conditions of Use & Sale and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of medicanimal.com and orders placed with MedicAnimal, and it is your responsibility to review them for changes.)
+Generally we do not rely on consent as a legal basis for processing your personal data other than if we are sending third party direct marketing communications to you via email or text message. You have the right to withdraw consent to marketing at any time by [contacting us](https://help.medicanimal.com/).
 
-• The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer. However, because cookies allow you to take advantage of some of MedicAnimal's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any MedicAnimal products and services that require you to Sign in.
+Purposes for which we will use your personal data
 
-**Are Children Allowed to Use MedicAnimal?**
+We have set out below, in a table format, a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where appropriate.
 
-MedicAnimal does not sell products for purchase by children. If you are under 18, you may use medicanimal.com only with the involvement of a parent or guardian.
+Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data. Please [contact us](https://help.medicanimal.com/) if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below. 
 
-**Notices and Revisions**
+Purpose/Activity
 
-If you have any concern about privacy at MedicAnimal, please email us a thorough description and we will try to resolve the issue for you.
+| 
 
-Our business changes constantly and our Privacy Notice and the Conditions of Use & Sale might change also based on your commentaries or in order to adapt them to our practices. All amended terms shall take effect automatically thirty (30) days after they are initially posted on this site. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our website frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
+Type of data
 
-#### Examples of Information Collected
+| 
 
-**Information You Give Us**
+Lawful basis for processing including basis of legitimate interest  
+  
+---|---|---  
+  
+To register you as a new customer
 
-You provide most such information when you search, buy, post, participate in a questionnaire or communicate with customer service. For example, you provide information when you: search for a product; place an order through medicanimal.com; provide information My Account and you might have more than one if you have used more than one e-mail address when shopping with us); communicate with us by phone, e-mail or otherwise; complete a questionnaire. As a result of those actions, you might supply us with such information as: your name; address and phone number; credit card information; your pet name, age and weight; people to whom purchases have been shipped (including addresses and phone numbers); content of reviews and e-mails to us; and financial information.
+| 
 
-**Automatic Information**
+(a) Identity
 
-Examples of the information we collect and analyse include: the Internet Protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type and version; operating system and platform; purchase history, which we sometimes aggregate with similar information from other customers to create features such as Top Sellers; the full Uniform Resource Locators (URL) clickstream to, through and from our website (including date and time); cookie number; products you viewed or searched for; any phone number used to call our customer service number. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our website for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
+(b) Contact
 
-**Information from Other Sources**
+| 
 
-Examples of information we receive from other sources include: updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily; account information, purchase or redemption information and page-view information from some merchants with which we operate co-branded businesses or for which we provide technical, fulfillment, advertising or other services; search term and search result information from some searches conducted through the Web search features offered by MedicAnimal; search results and links, including paid listings (such as Sponsored Links); and credit history information from credit bureaus, which we use to help prevent and detect fraud and to offer certain credit or financial services to some customers.
+Performance of a contract with you  
+  
+To process and deliver your order including:
 
-**Which Information Can I Access?**
+(a) Manage payments, fees and charges
 
-Examples of information you can access easily at medicanimal.com include: up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password); e-mail notification settings (in particular newsletters); recommendations (including recent product-view history, prior-order history, favourites and wishlists).
+(b) Collect and recover money owed to us
 
-**Want Further Information?**
+| 
 
-This Privacy Notice is compliant with the Data Protection Act 1998 and the Privacy and Electronic Communications Regulations 2003.
+(a) Identity
 
-If you have any concerns or questions in relation to your privacy please E-mail us at info (@) MedicAanimal (.) com or call us at 0870 446 1230. You can also write to us at the following address:
+(b) Contact
 
-  * Studio 3,
-  * The Courtyard,
-  * 100 Villiers Road,
-  * London
-  * NW2 5PJ
+(c) Financial
 
+(d) Transaction
 
+(e) Marketing and Communications
 
-If you are not satisfied with our response to your concern, you may wish to contact the Information Commissioner’s Office which is an independent data protection supervisory authority at www.ico.gov.uk.
+| 
 
-This Privacy Notice was last modified on March 11, 2008.
+(a) Performance of a contract with you
+
+(b) Necessary for our legitimate interests (to recover debts due to us)  
+  
+To manage our relationship with you which will include:
+
+(a) Notifying you about changes to our terms or privacy policy
+
+(b) Asking you to leave a review or take a survey
+
+| 
+
+(a) Identity
+
+(b) Contact
+
+(c) Profile
+
+(d) Marketing and Communications
+
+| 
+
+(a) Performance of a contract with you
+
+(b) Necessary to comply with a legal obligation
+
+(c) Necessary for our legitimate interests (to keep our records updated and to study how customers use our products/services)  
+  
+To enable you to partake in a prize draw, competition or complete a survey
+
+| 
+
+(a) Identity
+
+(b) Contact
+
+(c) Profile
+
+(d) Usage
+
+(e) Marketing and Communications
+
+| 
+
+(a) Performance of a contract with you
+
+(b) Necessary for our legitimate interests (to study how customers use our products/services, to develop them and grow our business)  
+  
+To administer and protect our business and this website (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data)
+
+| 
+
+(a) Identity
+
+(b) Contact
+
+(c) Technical
+
+| 
+
+(a) Necessary for our legitimate interests (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise)
+
+(b) Necessary to comply with a legal obligation  
+  
+To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you
+
+| 
+
+(a) Identity
+
+(b) Contact
+
+(c) Profile
+
+(d) Usage
+
+(e) Marketing and Communications
+
+(f) Technical
+
+| 
+
+Necessary for our legitimate interests (to study how customers use our products/services, to develop them, to grow our business and to inform our marketing strategy)  
+  
+To use data analytics to improve our website, products/services, marketing, customer relationships and experiences
+
+| 
+
+(a) Technical
+
+(b) Usage
+
+| 
+
+Necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy)  
+  
+To make suggestions and recommendations to you about goods or services that may be of interest to you
+
+| 
+
+(a) Identity
+
+(b) Contact
+
+(c) Technical
+
+(d) Usage
+
+(e) Profile
+
+| 
+
+Necessary for our legitimate interests (to develop our products/services and grow our business)  
+  
+Marketing 
+
+We strive to provide you with choices regarding certain personal data uses, particularly around marketing and advertising. We have established an account settings page where you can view and make certain decisions about your personal data use, in additional to the following personal data control mechanisms:
+
+Promotional offers from us 
+
+We may use your Identity, Contact, Technical, Usage and Profile Data to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which products, services and offers may be relevant for you (we call this marketing). 
+
+You will receive marketing communications from us if:
+
+  1. you have requested information from us and consented to marketing communication by signing up for our newsletters;
+  2. You have purchased goods or services from us and you have not opted out of receiving that marketing; or
+  3. you have opted in to receive marketing email communication following an email from us, where you signed up as a customer but had not previously purchased goods or services.
+
+
+
+Please note only the first and third options rely on your consent. Where the second option applies we will be marketing to you on the legal basis of our Legitimate Interests.
+
+Third-party marketing 
+
+We will get your express opt-in consent before we share your personal data with any company other than Kokoba Limited for marketing purposes. 
+
+Opting out
+
+You can ask us or third parties to stop sending you marketing messages at any time by logging into the website and checking or unchecking relevant boxes to adjust your marketing preferences or by following the opt-out links on any marketing message sent to you or by [contacting us](https://help.medicanimal.com/) if you need details about the specific legal ground we are relying on to process your personal data at any time. 
+
+Where you opt out of receiving these marketing messages, this will not apply to personal data provided to us as a result of a product/service purchase, product/service experience or other transactions.
+
+Cookies
+
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please [click here](https://web.archive.org/cookiesPolicy)
+
+Change of purpose 
+
+We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please [contact us](https://help.medicanimal.com/).
+
+If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
+
+Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
+
+**5\. Disclosures of Your Personal Data**
+
+We may have to share your personal data with the parties set out below for the purposes set out in the table in paragraph 4 above.
+
+  * Internal Third Parties as set out in the Glossary.
+
+  * External Third Parties as set out in the Glossary.
+
+  * Third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy notice.
+
+
+
+
+We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
+
+Please note that in respect of any payments processed by PayPal, PayPal is a separate and independent controller of your data and you are advised to review their privacy notice. 
+
+**6\. International Transfers**
+
+Some of our external third parties are based outside the European Economic Area (EEA) so their processing of your personal data will involve a transfer of data outside the EEA.
+
+Whenever we transfer your personal data out of the EEA, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented: 
+
+  * We will only transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission. For further details, see European Commission: [Adequacy of the protection of personal data in non-EU countries.](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en)
+
+  * Where we use certain service providers, we European Commission: [Model contracts for the transfer of personal data to third countries;](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en)
+
+  * Where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between the Europe and the US. For further details, see [European Commission: EU-US Privacy Shield.](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/eu-us-privacy-shield_en)
+
+
+
+
+Please [contact us](https://help.medicanimal.com/) if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA. 
+
+**7\. Data Security**
+
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality. We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
+
+**8\. Data Retention**
+
+How long will you use my personal data for?
+
+We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements. 
+
+To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+By law we have to keep basic information about our customers (including Contact, Identity, Financial and Transaction Data) for seven years after they cease being customers for tax and legal purposes. We audit our data on a quarterly basis to ascertain any data which has reached the retention period and delete such data insofar as technically possible. 
+
+In some circumstances you can ask us to delete your data: see Request erasure below for further information.In some circumstances we may anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you. 
+
+**9\. Your Legal Rights**
+
+Under certain circumstances, you have rights under data protection laws in relation to your personal data. Please click on the links below to find out more about these rights: 
+
+  * Request access to your personal data
+  * Request correction of your personal data
+  * Request erasure of your personal data
+  * Object to processing of your personal data
+  * Request restriction of processing your personal data
+  * Request transfer of your personal data
+  * Right to withdraw consent
+
+
+
+If you wish to exercise any of the rights set out above, please email [privacy@medicanimal.com](mailto:privacy@medicanimal.com)
+
+No fee usually required
+
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
+
+What we may need from you
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+
+Time limit to respond
+
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated. 
+
+**10\. Glossary**
+
+LAWFUL BASIS
+
+Legitimate Interest means the interest of our business in conducting and managing our business to enable us to give you the best service/product and the best and most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law). You can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by [contacting us](https://help.medicanimal.com/)
+
+Performance of Contract means processing your data where it is necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract.
+
+Comply with a legal or regulatory obligation means processing your personal data where it is necessary for compliance with a legal or regulatory obligation that we are subject to.
+
+THIRD PARTIES
+
+Internal Third Parties
+
+Other companies in our extended group and based in the UK provide us with legal and finance services, acting as joint controllers or processors.
+
+External Third Parties
+
+  * Service providers acting as processors based within the EU who provide IT, logistics, payment providers, and system administration services.
+  * Professional advisers acting as processors or joint controllers including lawyers, bankers, auditors and insurers based within the EU who provide consultancy, banking, legal, insurance and accounting services.
+  * HM Revenue & Customs, regulators and other authorities acting as processors or joint controllers based in the United Kingdom who require reporting of processing activities in certain circumstances.
+
+
+
+YOUR LEGAL RIGHTS
+
+You have the right to:
+
+**Request access** to your personal data (commonly known as a "data subject access request"). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
+
+**Request correction** of the personal data that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
+
+**Request erasure** of your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.
+
+**Object to processing** of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.
+
+**Request restriction of processing** of your personal data. This enables you to ask us to suspend the processing of your personal data in the following scenarios: (a) if you want us to establish the data's accuracy; (b) where our use of the data is unlawful but you do not want us to erase it; (c) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or (d) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.
+
+**Request the transfer** of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.
+
+**Withdraw consent at any time** where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
