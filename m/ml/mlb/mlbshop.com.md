@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlbshop.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527195053id_/https%3A//help-mlb.custhelp.com/app/answers/detail/a_id/759) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlbshop.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905210747id_/https%3A//help-mlb.custhelp.com/app/answers/detail/a_id/759) for the most accurate reproduction.*
 
 # MLB.com Shop Privacy Policy
 
@@ -9,20 +9,20 @@ We take very seriously the protection and proper use of your personal and non-pe
 By accessing and using the MLB Shop Website, you consent to the collection, use and disclosure of your information in accordance with this MLB Shop Privacy Policy and you agree to be legally bound by its terms. IF YOU DO NOT AGREE TO BE BOUND BY THE TERMS OF THIS MLB SHOP PRIVACY POLICY, YOU MAY NOT ACCESS OR USE THE MLB SHOP WEBSITE.  
 
 
-[How Do We Collect and Use Personal Information?](https://help-mlb.custhelp.com/euf/generated/optimized/1526679387/themes/standard/#Collect)
+[How Do We Collect and Use Personal Information?](https://help-mlb.custhelp.com/euf/generated/optimized/1533929660/themes/standard/#Collect)
 
-[How Do We Collect and Use Non-Personally Identifiable and Aggregated Information?](https://help-mlb.custhelp.com/euf/generated/optimized/1526679387/themes/standard/#Non-Personally)
+[How Do We Collect and Use Non-Personally Identifiable and Aggregated Information?](https://help-mlb.custhelp.com/euf/generated/optimized/1533929660/themes/standard/#Non-Personally)
 
-[How Can You Opt-Out?](https://help-mlb.custhelp.com/euf/generated/optimized/1526679387/themes/standard/#Opt-Out)  
+[How Can You Opt-Out?](https://help-mlb.custhelp.com/euf/generated/optimized/1533929660/themes/standard/#Opt-Out)  
 
 
-[How Can You Access Your Personal Information?](https://help-mlb.custhelp.com/euf/generated/optimized/1526679387/themes/standard/#Access)
+[How Can You Access Your Personal Information?](https://help-mlb.custhelp.com/euf/generated/optimized/1533929660/themes/standard/#Access)
 
-[Is Your Personal Information Secure?](https://help-mlb.custhelp.com/euf/generated/optimized/1526679387/themes/standard/#Personal)
+[Is Your Personal Information Secure?](https://help-mlb.custhelp.com/euf/generated/optimized/1533929660/themes/standard/#Personal)
 
-[Can Children Use Our Site?](https://help-mlb.custhelp.com/euf/generated/optimized/1526679387/themes/standard/#Children)
+[Can Children Use Our Site?](https://help-mlb.custhelp.com/euf/generated/optimized/1533929660/themes/standard/#Children)
 
-[What about Third-Party Websites and Social Media Services?](https://help-mlb.custhelp.com/euf/generated/optimized/1526679387/themes/standard/#Social)
+[What about Third-Party Websites and Social Media Services?](https://help-mlb.custhelp.com/euf/generated/optimized/1533929660/themes/standard/#Social)
 
 How Do We Collect and Use Personal Information?
 
