@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the partydelights.co.uk privacy policy that was archived on 2018-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180326203448id_/http%3A//www.partydelights.co.uk/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partydelights.co.uk privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905060038id_/https%3A//www.partydelights.co.uk/help/privacy-policy) for the most accurate reproduction.*
 
 # Party & Fancy Dress - One Stop Party Shop | Party Delights
 
-Last updated: March 2018
+Last updated: April 2018
 
-Party Delights takes the privacy of our customers very seriously. We understand that you want to know how information about you is used, stored, and shared and we know the importance of protecting your personal information. Nobody wants to have their personal information sold or misused. We do not sell your personal information to anyone, full stop. 
+Party Delights takes the privacy of its customers very seriously. We understand that you want to know how information about you is used, stored, and shared. And we understand the importance of protecting your personal information. Nobody wants to have their personal information sold or misused and we will never sell your personal information to anyone. 
 
-This privacy policy (“Privacy Policy”) applies to customer information collected and used by Party Delights and its affiliates (together, “Party Delights”). This Privacy Policy does not cover any information collected by third-party sites or content or applications that may link to, or be accessible from or on, our website. We collect information about you from a variety of sources, including the information we collect from you in person, the information we collect from you when you visit our website www.partydelights.co.uk or its related subdomains (“Website”), and the information that we collect about you from other sources. By visiting and using the Website, you are accepting the terms described in this Privacy Policy. 
+This privacy policy (“Privacy Policy”) applies to customer information collected and used by Party Delights and its affiliates (together, “Party Delights”). This Privacy Policy does not cover any information collected by third-party sites or content or applications that may link to, or be accessible from or on, our website. We collect information about you from a variety of sources, including the information that we collect from you in person, the information we collect from you when you visit our website www.partydelights.co.uk or its related subdomains (“Website”), and the information that we collect about you from other sources. By visiting and using the Website, you are accepting the terms described in this Privacy Policy. 
 
-Please take a moment to familiarize yourself with our privacy practices and let us know if you have any questions. 
+Please take a moment to familiarise yourself with our privacy practices and let us know if you have any questions. 
 
 ## Types of Information We Collect
 
@@ -20,7 +20,7 @@ Other types of information that we collect cannot be used to personally identify
 
 ## How We Use Your Information
 
-Party Delights uses the personal information that we collect about you or that you provide to us: to process and dispatch your online orders; for marketing or advertising purposes; to inform you about promotional offers; to maintain your user account; to keep track of your order history; to respond to customer support enquiries; to present our Website and its contents to you; to tell you about changes to our Website; to let you know about products or services; to allow you to participate in interactive features on our Website in a way that we describe to you at the time that you provide Party Delights your personal information; to fulfil any other purpose for which you provide it. 
+Party Delights uses the personal information that we collect about you or that you provide to us: to process and dispatch your online orders; to keep you up to date with the status of your order; for marketing or advertising purposes; to inform you about promotional offers; to maintain your user account; to keep track of your order history; to respond to customer support enquiries; to present our Website and its contents to you; to tell you about changes to our Website; to let you know about products or services; to allow you to participate in interactive features on our Website in a way that we describe to you at the time that you provide Party Delights your personal information; to fulfil any other purpose for which you provide it. 
 
 The non-personal information that we collect may automatically be combined with other information that you provide and may be aggregated and used for statistical purposes. It helps us to improve our Website and to deliver better and more personalised products, services and advertisements. It also helps us to estimate how many people may be interested in certain products, store your user preferences allowing us to customise the Website to your individual interests, recognise you when you revisit our Website, and speed up your online experience with Party Delights. 
 
@@ -46,11 +46,21 @@ Unfortunately, no method of transmission over the Internet, or method of electro
 
 ## Cookies and Other Tracking Technology 
 
-Cookies are small data files that most websites store, access and maintain on the hard drive of your computer. We may use technologies, such as our own cookies, to provide you with personalised online display advertising tailored to your interests. 
+Cookies are small data files that most websites store, access and maintain on the hard drive of your computer. We may use technologies, such as our own cookies, to provide you with personalised online advertising tailored to your interests (i.e. personalised display ads, social media ads, email marketing and PPC ads). 
 
-Certain features of our Website may use local stored objects (Flash cookies) to collect and store information about your preferences and navigation to, from and on our Website. These data files may be created on your computer when you visit our Website. Flash cookies are most often used to enhance your experience on our Website, for example, by allowing the look of a website you frequently visit to appear personalized. Flash cookies will not access or remember your e-mail address or other personal information unless you willingly provide such information. 
+Certain features of our Website may use local stored objects (Flash cookies) to collect and store information about your preferences and navigation to, from and on our Website. These data files may be created on your computer when you visit our Website. Flash cookies are most often used to personalise ads (i.e. on social media) or to enhance your experience on our Website (i.e. to personalise the content you see on our website). Flash cookies will not access or remember your e-mail address or other personal information unless you willingly provide such information. 
 
-Our Website may also contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single-pixel gifs) that permit Party Delights, for example, to count users who have visited particular webpages or and can be used for other related website statistics, such as verifying our system and server integrity. 
+Our Website may also contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags and single-pixel gifs) that permit Party Delights, for example, to count users who have visited particular webpages or and can be used for other related website statistics, such as verifying our system and server integrity. 
+
+## Social Media Advertising
+
+## Retargeting
+
+We use Facebook, Twitter and Pinterest tracking pixels to collect browser data, which we use to send personalised Facebook, Instagram, Twitter and Pinterest ads to users who have recently visited our website. 
+
+## Custom Audiences
+
+When you sign up for our email newsletter, your email address may be uploaded to Facebook, Instagram, Twitter and Pinterest so that we can send you personalised social media ads. 
 
 ## “Do Not Track” 
 
@@ -60,38 +70,31 @@ We do not support Do Not Track (“DNT”). Do Not Track is a preference you can
 
 Our Website may contain links to other websites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We recommend that you review the Privacy Policy of each site you visit. Party Delights does not control, and assumes no responsibility for the content, privacy policies or practices of any third party sites or services. 
 
-## Communications 
+## Email communications 
 
-We may use your personal information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send. 
+We may use your personal information to contact you with email newsletters that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link in any of our emails. 
 
 ## Children's Online Privacy 
 
-This Website is not marketed to, and does not knowingly collect or maintain personal information from, children under the age of 16. If we learn that we have collected or received personal information from a child under the age of 16 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under the age of 16, please let us know. 
+This Website is not marketed to, and does not knowingly collect or maintain personal information from, children under the age of 16. If we learn that we have collected or received personal information from a child under the age of 16 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under the age of 16, please let us know _[via our contact form](https://www.partydelights.co.uk/Help/how-we-use-your-personal-information)_. 
 
-## Business Transaction   
+## Business Transaction
 
+If Party Delights is involved in a merger, acquisition, asset sale, bankruptcy or reorganisation, your personal information may be shared, as well as retained by us. By providing us with your personal information, you consent to that transfer.
 
-If Party Delights is involved in a merger, acquisition, asset sale, bankruptcy or reorganisation, your personal information may be shared, as well as retained by us. By providing us with your personal information, you consent to that transfer.  
+## Opt-Out 
 
+If you wish to opt-out of receiving online communications from Party Delights, our partners, or our third party providers, you can choose the unsubscribe or opt-out link contained in the email and you will no longer receive communications.
 
-## Opt-Out   
+## Changes to This Privacy Policy
 
+This Privacy Policy is subject to change at the sole discretion of Party Delights, and the updated Privacy Policy will be posted on our Website. This Privacy Policy was last updated as of the date provided above. Continued use of the Website after Party Delights posts a revised Privacy Policy signifies your acceptance of the revised Privacy Policy. Please check back frequently and review the Privacy Policy for any updated terms or changes.
 
-If you wish to opt-out of receiving online communications from Party Delights, our partners, or our third party providers, you can choose the unsubscribe or opt-out link contained in the email and you will no longer receive communications.  
+## Contact Us
 
+If you have any questions or comments regarding this Privacy Policy, please do not hesitate to contact us by completing the form on [this page](https://www.partydelights.co.uk/Help/how-we-use-your-personal-information).
 
-## Changes to This Privacy Policy   
-
-
-This Privacy Policy is subject to change at the sole discretion of Party Delights, and the updated Privacy Policy will be posted on our Website. This Privacy Policy was last updated as of the date provided above. Continued use of the Website after Party Delights posts a revised Privacy Policy signifies your acceptance of the revised Privacy Policy. Please check back frequently and review the Privacy Policy for any updated terms or changes.  
-
-
-## Contact Us  
-
-
-If you have any questions or comments regarding this Privacy Policy, please do not hesitate to contact us by completing the form on _[this page](https://www.partydelights.co.uk/Help/how-we-use-your-personal-information)_.
-
-You may also contact our corporate headquarters by writing to us at: 
+You may also contact our corporate headquarters by writing to us at:
 
 Party Delights Ltd
 
