@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seccountry.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621160229id_/https%3A//www.seccountry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seccountry.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905195946id_/https%3A//www.seccountry.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SECCountry.com (AJC)
 
