@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the themezhut.com privacy policy that was archived on 2017-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170420163435id_/http%3A//themezhut.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themezhut.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906011434id_/https%3A//themezhut.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy-ThemezHut
 
-This Privacy Policy governs the manner in which ThemezHut collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://themezhut.com](http://themezhut.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by ThemezHut.
+This Privacy Policy governs the manner in which ThemezHut collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://themezhut.com](https://themezhut.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by ThemezHut.
 
 **Personal identification information**
 
@@ -50,6 +50,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[ThemezHut/Contact](http://themezhut.com/contact)
+[ThemezHut/Contact](https://themezhut.com/contact)
 
 This document was last updated on November 06, 2014
