@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filefox.cc privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610010009id_/https%3A//filefox.cc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filefox.cc privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905222512id_/https%3A//filefox.cc/privacy.html) for the most accurate reproduction.*
 
 # FileFox
 
@@ -44,4 +44,4 @@ FileFox.cc is not responsible for the privacy policies and practices of third-
 
 FileFox.cc is not responsible if you disclose personal information online that is accessible to the public. By submitting such information, you assume the risks and sole liability arising as a result of such information being displayed.
 
-If you have any questions about this Privacy Policy or for further information, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) FileFox.cc
+If you have any questions about this Privacy Policy or for further information, please contact us at support@ FileFox.cc
