@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the techyv.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627103450id_/http%3A//www.techyv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techyv.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905145612id_/https%3A//www.techyv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Techyv.com
 
 **TECHYV PRIVACY POLICY**
 
-Techyv will make every effort to safeguard your privacy. In the same vein, the Techyv Privacy Policy is intended to inform you on how we distribute, collect and use user information via this web platform of ours (<http://www.techyv.com/>). Herein stated is our privacy procedures and principles which only cover this web platform of ours (<http://www.techyv.com/>), while we seek to inform you that our privacy statement does not cater for information collected from other web platforms.
+Techyv will make every effort to safeguard your privacy. In the same vein, the Techyv Privacy Policy is intended to inform you on how we distribute, collect and use user information via this web platform of ours (<https://www.techyv.com/>). Herein stated is our privacy procedures and principles which only cover this web platform of ours (<https://www.techyv.com/>), while we seek to inform you that our privacy statement does not cater for information collected from other web platforms.
 
 Techyv  (“Techyv”) having a principal place of business at (Coral Sudha, No 16, Eldams Road) collects personally identifiable information provided to Techyv through(i) the Website registration form and (ii) the form used for updating the information contained in the user’s profile.
 
@@ -100,6 +100,6 @@ On special occasions and case scenarios, Techyv would disclose information to ou
 
 **_Contact Information_**
 
-14\. Please direct your comment or question to our email address so stated on our [contact us](http://www.techyv.com/contact) page.
+14\. Please direct your comment or question to our email address so stated on our [contact us](https://www.techyv.com/contact) page.
 
 This Privacy Policy was last updated  07-12-2012.
