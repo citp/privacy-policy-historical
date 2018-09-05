@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regionalhelpwanted.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701215058id_/https%3A//regionalhelpwanted.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regionalhelpwanted.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906001558id_/https%3A//regionalhelpwanted.com/corporate/privacy) for the most accurate reproduction.*
 
 # Privacy | RegionalHelpWanted.com
 
@@ -88,7 +88,7 @@ For more information about your personal privacy rights under Canada's Personal 
 
 ##### Contact Information
 
-RegionalHelpWanted, Inc. is a Delaware corporation with its principal place of business at 11 Abrams Road, Central Valley, NY 10917. RegionalHelpWanted, Inc.'s subsidiaries and affiliated companies have principal places of business in the United States and Canada.
+RegionalHelpWanted, Inc. is a Delaware corporation with its principal place of business in New York State. Our mailing address is 1085 Route 55, Unit 14, Lagrangeville, NY 12540. RegionalHelpWanted, Inc.'s subsidiaries and affiliated companies have principal places of business in the United States and Canada.
 
 Thank you for using RHW.
 
