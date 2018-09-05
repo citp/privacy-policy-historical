@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the webhostinghub.com privacy policy that was archived on 2018-01-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180116081942id_/https%3A//www.webhostinghub.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the webhostinghub.com privacy policy that was archived on 2018-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180905162949id_/https%3A//www.webhostinghub.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
   <meta charset="utf-8">
@@ -13,7 +13,7 @@
   <meta name="viewport" id="metaviewport" content="width=device-width">
   
   
-    <link rel="stylesheet" href="//whh01-inmotionhosting1.netdna-ssl.com/assets/css/styles.css?1515448465">
+    <link rel="stylesheet" href="//whh01-inmotionhosting1.netdna-ssl.com/assets/css/styles.css?1536163576">
 
 <!-- Font Awesome -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
@@ -60,10 +60,96 @@ var _prum = [['id', '54f88877abe53d7326936ffe'],
 })(window,document,'script','dataLayer','GTM-5J3N37');
 </script>
 <!-- End Google Tag Manager -->
+  <style>
+  .cart-view {
+    border-radius: 3px;
+    border-top-right-radius: 0px;
+    padding: 15px 15px;
+    position: absolute;
+    min-width: 300px;
+    right: 0%;
+    transition: right 1.0s ease-in;
+    background: #fff;
+    top: 50px;
+    color:#414141;
+    font-weight: 600;
+    display:none;
+    z-index:1;
+    padding-top: 10px;
+  }
+  .cart-view ul {
+    padding:0;
+    list-style: none;
 
+  }
+  .cart-icon {
+    cursor: pointer;
+  }
+  .cart-close {
+    padding: 6px 12px;
+    border: 1px solid #000;
+  }
+  .cart-close:hover {
+    background: #000000;
+    color:#efefef;
+    cursor:pointer;
+  }
+  .text-white {
+    color:#ffffff;
+  }
+  .cart-container:hover {
+    background: #fff;
+  }
+  .cart-container:hover .cart-view {
+    display:block;
+  }
+  .btn-primary.btn-wide {
+    width: 100%;
+  }
+  .cart-price {
+    padding:5px 0;
+    border-top:1px solid #c0c0c0;
+  }
+  .cart-item {
+    padding:5px 0;
+  }
+  .cart-item .item-name {
+    color:#747474;
+    font-size: 14px;
+    font-weight: 400;
+  }
+  .cart-item .item-price {
+    font-weight: 400;
+    color: #616161;
+    float: right;
+    font-size: 14px;
+    padding-top: 3px;
+  }
+  .cart-item .item-img {
+    width: 27px;
+    height: 27px;
+    display: inline-block;
+    margin-right: 5px;
+  }
+  .cart-item.item-addon .item-name {
+    padding-left: 20px;
+    font-size: 13px;
+  }
+  .cart-item.item-addon i.fa-plus {
+    color: #1499cd;
+    margin-right: 5px;
+  }
+  @media (max-width: 991px) {
+    .main-nav ul.nav.contact li.cart-item {
+      float: none;
+    }
+  }
+  </style>
 </head>
 
 <body class="policy-page">
+
+
 <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
 <!-- Google Tag Manager (noscript) -->
 <noscript>
@@ -84,7 +170,11 @@ var _prum = [['id', '54f88877abe53d7326936ffe'],
       </li>
       <li><a href="http://www.webhostinghub.com/help/"><span class="glyphicon glyphicon-wrench" aria-hidden="true"></span> &nbsp;Help Center</a></li>
       <li><a href="https://secure.webhostinghub.com/index/login"><span class="glyphicon glyphicon-log-in" aria-hidden="true"></span> &nbsp;Login</a></li>
-    </ul>
+            <li class="amp-login"><a id="cart-icon" class="cart-icon cart-empty openCheckout">
+      <i class="fa fa-shopping-cart"></i>
+            <span class="cartitems item-cart cart-number">0</span>
+      </a></li>
+          </ul>
 
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -107,80 +197,54 @@ var _prum = [['id', '54f88877abe53d7326936ffe'],
       </li>
       <li><a href="http://www.webhostinghub.com/help/"><span class="glyphicon glyphicon-wrench" aria-hidden="true"></span> &nbsp;Help Center</a></li>
       <li><a href="https://secure.webhostinghub.com/index/login"><span class="glyphicon glyphicon-log-in" aria-hidden="true"></span> &nbsp;Login</a></li>
-    </ul>
+            <li class="cart-container">
+        <a id="cart-icon" class="cart-icon cart-empty openCheckout">
+          <i class="fa fa-shopping-cart"></i>
+                    <span class="cartitems item-cart cart-number">0</span>
+        </a>
+        <div id="cart-view" class="cart-view cart-test">
+  <ul id="cart-items">
+
+  </ul>
+  <div class="row-fluid cart-price clearfix">
+
+    <span id="cart-subtotal" class="cart-subtotal" style="float:right;">
+
+    </span>
+    <span style="float:right;">Subtotal: &nbsp;</span>
+  </div>
+  <div class="text-center">
+    <div class="openCheckout checkout btn btn-primary btn-wide">
+      Checkout
+    </div>
+  </div>
+</div>
+      </li>
+          </ul>
 
     <div id="navbar" class="collapse navbar-collapse">
       <ul class="nav navbar-nav" style="clear: right;">
-          <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'Solutions')">Solutions <b class="caret"></b></a>
-              <ul class="dropdown-menu multi-column columns-3">
-                <div class="row">
-                  <div class="col-sm-4 border-right">
-                    <ul class="multi-column-dropdown">
-                      <li class="dropdown-header"><strong><img src="//whh01-inmotionhosting1.netdna-ssl.com/img/list-icons/transfer-icon.png">NEW WEBSITE</strong></li>
-                      <li><a href="/website-builder" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'Solutions Website Builder')">Website Builder</a></li>
-                      <li><a href="/blog-hosting" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'Solutions Host Your Blog')">Host your Blog</a></li>
-                      <li><a href="/what-is-cms" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'Solutions Move To A CMS')">Move to a CMS</a></li>
-                      <li><a href="/ecommerce-hosting" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'Solutions Ecommerce Tools')">E-commerce Tools</a></li>
-                      <li><a href="/web-design" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'Solutions Web Design Services')">Web Design Services</a></li>
-                    </ul>
-                  </div>
-
-                  
-                  <div class="col-sm-4">
-                    <ul class="multi-column-dropdown">
-                      <li class="dropdown-header"><strong><img src="//whh01-inmotionhosting1.netdna-ssl.com/img/list-icons/service-icon.png">TRANSFER WEBSITE</strong></li>
-                      <hr class="hidden-xs">
-                      <li><a href="/transfer-web-hosting" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'Solutions Website Transfer Services')">Website Transfer Services</a></li>
-                      <li><a href="/transfer-website" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'Solutions Do It Yourself Transfers')">Do It Yourself Transfers</a></li>
-                      <li><a href="/what-is-cms" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'Solutions CMS Hosting')">CMS Hosting</a></li>
-                      <li><a href="/one-click-install-website-tools" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'Solutions 1click App Installs')">1-Click App Installs</a></li>
-                    </ul>
-                  </div>
-                  <div class="col-sm-4 border-left">
-                    <ul class="multi-column-dropdown">
-                      <li class="dropdown-header"><strong><img src="//whh01-inmotionhosting1.netdna-ssl.com/img/list-icons/software-icon.png">SOFTWARE SOLUTIONS</strong></li>
-                      <li><a href="/wordpress-hosting" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'Solutions WordPress Hosting')">WordPress Hosting</a></li>
-                      <li><a href="/boldgrid-website-builder" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'Solutions BoldGrid Hosting')">BoldGrid Hosting</a></li>
-                      <li><a href="/joomla-hosting" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'Solutions Joomla Hosting')">Joomla Hosting</a></li>
-                      <li><a href="/cpanel-hosting" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'Solutions cPanel Hosting')">cPanel Hosting</a></li>
-                      <li><a href="/one-click-install-website-tools" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'Solutions More Top Software')">More Top Software</a></li>
-                    </ul>
-                  </div>
-                </div>
-              </ul>
-          </li>
-
         <li><a href="/web-hosting-features" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'Hosting Features')">Hosting Features</a></li>
         <li><a href="/hosting-plans" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'Plans')">Plans &amp; Pricing</a></li>
+        <li><a href="/wordpress-hosting" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'Solutions WordPress Hosting')">WordPress Hosting</a></li>
         <li><a href="/domains" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'Domains')">Domains</a></li>
-
         <li class="dropdown">
           <a class="dropdown-toggle" data-toggle="dropdown" href="#" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'Web Design')">Web Design
           <span class="caret"></span>
           </a>
           <ul class="dropdown-menu">
-            <li><a href="/web-design" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'Web Design Web Design Services')">Web Design Services</a></li>
             <li><a href="/website-builder" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'Web Design Create Your Own Website')">Create Your Own Website</a></li>
+            <li><a href="/web-design" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'Web Design Web Design Services')">Web Design Services</a></li>
+
           </ul>
         </li>
-
-        <li class="dropdown">
-        <a class="dropdown-toggle" data-toggle="dropdown" href="#" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'About')">About
-        <span class="caret"></span></a>
-        <ul class="dropdown-menu">
-          <li><a href="/about-us" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'About About')">About</a></li>
-          <li><a href="/contact-us" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'About Contact Us')">Contact Us</a></li>
-          <li><a href="/customer-testimonials" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'About Customer Testimonials')">Customer Testimonials</a></li>
-          <li><a href="/blog" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'About Blog')">Blog</a></li>
-          <li><a href="/glyphs" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'About Free Glyphs')">Free Glyphs</a></li> 
-        </ul>
-      </li>
+        <li><a href="/about-us" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'About About')">About</a></li>
 
       </ul>
     </div><!--/.nav-collapse -->
   </div>
-</nav>  
+</nav>
+  
 
 
 <div id="main" role="main">
@@ -196,18 +260,20 @@ var _prum = [['id', '54f88877abe53d7326936ffe'],
           <h1>Privacy policy</h1>                  </div>
 
                   <div class="col-md-4 text-center">
-                        <div class="row with-price ">
-                            <div class="pricebox">
-  <div class="price-bulge left"></div>        <div class="pricebox-contain">
+            <div class="row with-price  ">
+              <div class="pricebox">
+  <div class="price-bulge left"></div>
+  <div class="pricebox-contain">
       <p class="text-left">Starting<br>At Only</p>
       <div class="pricing">
-        <div class="strikethru">$8.99
-                  /mo</div>$4.99/mo              </div><!-- /pricing -->
-    </div>
-      <div class="price-bulge right"></div></div>
-
-                          </div>
-                        <a href="/hosting-plans" class="btn btn-primary  ">View Hosting Plans »</a>                      </div>
+        <div class="strikethru">$8.99/mo</div>
+        $4.99/mo
+      </div>
+  </div>
+  <div class="price-bulge right"></div>
+</div>
+            </div>
+            <a href="/hosting-plans" class="btn btn-primary  ">View Hosting Plans »</a>                      </div>
         
       </div>
     </div>
@@ -220,34 +286,139 @@ var _prum = [['id', '54f88877abe53d7326936ffe'],
     <div class="row sec-header">
       <div class="col-md-12">
         <h3>Web Hosting Hub | Privacy Policy</h3>
+        <h4 class="text-center"><strong>PLEASE READ THIS PRIVACY POLICY CAREFULLY</strong></h4>
+        <h5><strong>BY SIGNING UP FOR A WEBHOSTING HUB, INC. (THE “COMPANY”) ACCOUNT AND/OR USING ITS PRODUCTS, SERVICES, WEBSITES AND MOBILE APPLICATIONS, YOU ARE AGREEING TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND ALL TERMS AND CONDITIONS INCORPORATED BY REFERENCE IN THIS PRIVACY POLICY.  ANY USER’S USE OR CONTINUED USE OF THE COMPANY’S PRODUCTS, SERVICES, WEBSITES OR MOBILE APPLICATIONS CONSTITUTES ACCEPTANCE OF THIS PRIVACY POLICY.</strong></h5>
       </div>
     </div>
     <div class="row jutwrap2">
       <div class="col-lg-10 col-lg-offset-1">
-        <p>Your privacy is very important to Web Hosting Hub, INC. ("the Company"). We want to make your experience using our services and on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools, and opportunities with complete confidence.</p>
-        <p>We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how the Company collects information from all end users of the Company's Internet services (the "Services") - those who access some of our Services but do not have accounts ("Visitors") as well as those who pay a service fee to subscribe to the Service ("Customers") - what we do with the information we collect, and the choices Visitors and Customers have concerning the collection and use of such information. The Company requests that you read this Privacy Policy carefully.</p>
         <ol>
-          <li><strong>Introduction.</strong> The Company collects information in different ways from Visitors and Customers who access the various parts of our Services and the network of Web sites accessible through our Services. We use this information primarily to provide a customized experience as you use our Services and, generally, do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required by law or other special cases described below.</li>
-          <li><strong>Registration.</strong> Customers are asked to provide certain personal information when they sign up for our Services including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Customers during the registration process is used to manage each Member's account (such as for billing purposes). This information is not shared with third parties, unless specifically stated otherwise or in special circumstances. However, in instances where the Company and a partner jointly promote the Services, the Company may provide the partner certain personal information, such as the name, address, and username of persons who subscribed to the Services as a result of the joint promotion for the sole purpose of allowing us and the partner to assess the results of the promotion. In this instance, personal information may not be used by the partner for any other purpose. The Company may also generate non-identifying and aggregate profiles from personal information Customers provide during registration (such as the total number, but not the names, of Customers). As explained in more detail below, we may use this aggregated and non-identifying information to sell advertisements that appear on the Services.</li>
-          <li><strong>Domain Registration.</strong> Domain name registration information legally has to be available to the public. Since domain name registration information is available to the public, anyone can access it through "WHOIS" searches. The WHOIS database is a publicly accessible database that lists the domain name and contact information of each registrant. The domain name registration you provide is hosted by us to the public. At times our customers may have been included within searches of the WHOIS database. However, the SPAM they receive does not in any way come from the Company.</li>
-          <li><strong>The Company Partners and Sponsors.</strong> Some the Company products and services are offered to Visitors and Customers in conjunction with a non-affiliated partner. To provide Visitors and Customers some of these products and services, the partner may need to collect and maintain personal information. In these instances, we will provide such data collected or transferred to our Partners and Sponsors (e.g., domain registration). Additionally, many the Company Customers have co-branded pages that are co-sponsored by non-affiliated partners. The Company will share non-identifying and aggregate information (except as described above), but not personal information, with such partners in order to administer the co-branded products or services offered.</li>
-          <li><strong>Online Shopping.</strong> At some Web sites, you can purchase products and services or register to receive materials, such as a catalog or new product and service updates. In many cases, you may be asked to provide contact information, such as your name, address, email address, phone number, and credit/debit card information. If you complete an order for someone else, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient's name, address, and phone number. The Company has no control over the third parties' use of any personal information you provide when placing such an order. Please exercise care when doing so. If you order products directly from the Company, we will use the personal information you provide only to process that order. We do not share this information with outside parties except to the extent necessary to complete that order.</li>
-          <li><strong>Online Advertisements.</strong> The Company displays our online advertisements. We share aggregated and non-identifying information about our Visitors and Customers collected through the registration process as well as through online surveys and promotions with these advertisers. Additionally, in some instances, we use this aggregated and non-identifying information to deliver tailored advertisements. For instance, an advertiser tells us the audience they want to reach (for example, males between 25 and 55 years of age) and provides us an advertisement tailored to the audience. Based upon the aggregated and non-identifying information we have collected, we may then display the advertisement to the intended audience. The Company does not share personal information about its Visitors or Customers with these advertisers.</li>
-          <li><strong>Responses to Email Inquiries.</strong> When Visitors or Customers send email inquiries to the Company, the return email address is used to answer the email inquiry we receive. The Company does not use the return email address for any other purpose and does not share the return email address with any third party.</li>
-          <li><strong>Voluntary Customer Surveys.</strong> We may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us to improve the types of services we offer and how we provide them to you. Your personal information and responses will remain strictly confidential, even if the survey is conducted by a third party. Participation in our customer surveys is voluntary. We take the information we receive from individuals responding to our Customer Surveys and combine (or aggregate) it with the responses of other the Company customers to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third parties.</li>
-          <li><strong>Special Cases.</strong> It is the Company's policy not to use or share the personal information about Visitors of Customers in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. However, the Company may disclose personal information about Visitors or Customers, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: to satisfy laws, such as the Electronic Communications Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Acceptable Use Policy or other user policies; to operate the Services properly; or to protect the Company and our Customers.</li>
-          <li><strong>"Cookies" and How the Company Uses Them.</strong> A "cookie" is a small data file that can be placed on your hard drive when you visit certain Web sites. The Company may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks. If you are a Member and have created your own Personal Start Page, we will use a cookie to save your settings and to provide customizable and personalized services. These cookies do not enable third parties to access any of your customer information. Additionally, be aware that if you visit non-the Company Web sites where you are prompted to log in or that are customizable, you may be required to accept cookies. Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.</li>
-          <li><strong>Statistics.</strong> We use information gathered about you from our site statistics (for example your IP address) to help diagnose problems with our server, and to administer our Web site. We also gather broad demographic information from this data to help us improve our site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.</li>
-          <li><strong>The Company's Commitment to Children's Privacy.</strong> Protecting children's privacy is especially important to us. It is our policy to comply with the Children's Online Privacy Protection Act of 1998 and all other applicable laws. While we make every effort to ensure that these Web sites are fun and age-appropriate for our younger audience, we believe that there is no substitute for proper parental supervision. The Company recommends that children ask a parent for permission before sending personal information to the Company, or to anyone else online.</li>
-          <li><strong>Public Forums.</strong> Please remember that any information you may disclose in our Member Directory, or other public areas of our Web sites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas.</li>
-          <li><strong>The Company's Commitment to Data Security.</strong> Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information.</li>
-          <li><strong>How to Access or Modify Your Information.</strong> The Company offers Customers the opportunity to access or modify information provided during registration. To access or modify such information contact our Customer Service Department at billing@webhostinghub.com.</li>
-          <li><strong>Where to Direct Questions About WHH's Privacy Policy.</strong> If you have any questions about this Privacy Policy or the practices described herein, you may contact: Customer Service at support@webhostinghub.com.</li>
-          <li><strong>Exceptions.</strong> As stated previously in this policy, we will never give out your information without your permission. The only exceptions to this are, when we are required by law, in the good-faith belief that such action is necessary in order to conform to the law, or we must comply with a legal process served on our web site. We may also need to give out your information if one of our partners requires it, but these situations are rare and we will always ask for your explicit permission first.</li>
-          <li><strong>Revisions to This Policy.</strong> The Company reserves the right to revise, amend, or modify this policy, our Internet Service Agreement and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted in accordance with the Internet Service Agreement.</li>
-          <li><strong>ClickTale Analytics.</strong> This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see <a href="http://www.clicktale.com/privacy-service">Privacy Policy for Information Collected by the ClickTale Web Analytics Service.</a> We are using the information collected by ClickTale service to increase the usability and accessibility of our website. You can choose to disable the Service at <a href="http://www.clicktale.net/disable.html">http://www.clicktale.net/disable.html.</a></li>
+          <li>
+            <strong>Privacy Policy (“Policy”):</strong> The Company cares about your privacy.  For this reason, the Company collects and uses personal data only as it might be needed for the Company to deliver products, services, websites and/or mobile applications (collectively, the “Services”).  Your personal data includes information such as:
+            <ul>
+              <li>Name</li>
+              <li>Address</li>
+              <li>Billing and delivery information</li>
+              <li>Telephone number</li>
+              <li>Email address</li>
+              <li>Financial account information</li>
+              <li>IP Address</li>
+              <li>Other data collected that could directly or indirectly identify you</li>
+            </ul>
+            <p>This Policy explains how and what data the Company collects and how the Company uses your personal data.  This Policy also describes options the Company provides for you to access, update or otherwise take control of your personal data that the Company processes.  If at any time you have questions about the Company practices or any of your rights described below, you may reach the Company Data Protection Team by contacting the Company at <a href="mailto:privacy@webhostinghub.com">privacy@webhostinghub.com</a>.  This inbox is actively monitored and managed so that the Company can deliver an experience that you can confidently trust.</p>
+          </li>
+          <li><strong>Changes to the Privacy Policy:</strong> As the Services may change from time to time, this Policy is expected to change as well.  The Company reserves the right, in its sole discretion, to amend this Policy at any time, for any reason, which amendment(s) will be effective upon posting to our website.  The date of the last revision to this Policy will be indicated by the “Last Updated” date located at the end of this Policy.  Your use of the Services after such changes or modifications have been made shall constitute your acceptance of this Policy as last revised.  If you do not agree to be bound by this Policy as last revised, do not use (or continue to use) the Services.  In addition, the Company may occasionally notify you of changes or modifications to this Policy by e-mail.  It is therefore important that you keep your account information accurate.  The Company assumes no liability or responsibility for your failure to receive an e-mail notification if such failure results from an inaccurate e-mail address.
+          </li>
+          <li>
+            <strong>Information That the Company Collects:</strong>
+            <ol>
+              <li>
+                <strong>Personally Identifiable Information:</strong> The Company may collect information (online, by phone or paper) that identifies you (“Personally Identifiable Information”) when you provide such information on the Company website(s) or social media website(s) or otherwise interact with the Company.  The types of Personally Identifiable Information collected may include, but not limited to, Internet Protocol (IP) address, your name, address, phone number, birth date, billing and delivery information, e-mail address, information about you or your business, credit card, or other financial account information.
+              </li>
+              <li>
+                <strong>Non-Personal Data:</strong> As you interact with the Company through our online resources, the Company may also collect information about your browsing history or certain other information that is not considered Personally Identifiable Information through your use of and visits to these resources through a variety of technologies, including, but not limited to, cookies, tags, beacons, Internet Protocol (IP) address, and other tools.  “Cookies” are pieces of code or text placed on your computer when you browse a website.  Cookies may be placed by the Company or our web analytics third party vendors or partners.  “Tags” and web beacons refer to code scripts that are primarily used to track visitor activities by web analytics software.  The types of non-personal data collected on the Company website(s) through the use of these, and other tools may include the search terms you used, new or returning user, browser information, computer type, operating system, internet service providers, website usage, referring/exit pages, platform type, date/time stamp, number of clicks, ads viewed, among other non-personal data (collectively, all of the foregoing data is considered “Non-Personal Data”).  Additionally, Cookies, Tags and other tools placed by our web analytics third party vendors or partners may collect other information about you and your visits to websites and elsewhere on the Internet including, but not limited to, your industry, company size, among other Non-Personal Data.
+              </li>
+            </ol>
+          </li>
+          <li>
+            <strong>How the Company Uses and Shares Personally Identifiable Information:</strong> The Company strongly believes in both minimizing the data we collect and limiting its use and purpose to only that (1) for which the Company has been given permission, (2) as necessary to deliver the Services, or (3) as the Company might be required or permitted for legal compliance or other lawful purposes.
+            <ol>
+              <li>
+                <strong>Use of Your Personally Identifiable Information.</strong> Once collected, the Company may use your Personally Identifiable Information in a variety of ways including, but not limited to:
+                <ul>
+                  <li>Provide service communications such as bill reminders, order confirmations, program registrations, and customer service messages</li>
+                  <li>Respond to your e-mails or online requests for products, services, or information</li>
+                  <li>Deliver and process surveys</li>
+                  <li>Processing your job application</li>
+                  <li>Personalize and improve the usability of the Company website(s)</li>
+                  <li>Fulfill and/or deliver the Services</li>
+                  <li>Share with certain other companies to offer you products and services that may be of interest to you as described below</li>
+                  <li>Tailor content, advertising and marketing to you</li>
+                  <li>Share with third parties as required by law or to protect the Company as described below</li>
+                  <li>Share your e-mail address as permitted under this Policy as described below in this Section</li>
+                  <li>Communicate with you</li>
+                  <li>Improve and optimize the operation and performance of the Services</li>
+                  <li>Diagnose problems with and identify any security risks, errors, or needed enhancements to the Services</li>
+                  <li>Detect and prevent fraud and abuse of our Services and systems</li>
+                  <li>Collecting aggregate statistics about use of the Services</li>
+                  <li>Understand and analyze how you use the Services and what products and services are most relevant to you</li>
+                </ul>
+              </li>
+              <li>
+                <strong>Transfer of personal data abroad.</strong> If you utilize the Services from a country other than the country where the Company servers are located, your communications with the Company may result in transferring your personal data across international borders.  Also, when you call the Company, the Company may provide you with support from our locations which may be outside of your country of origin. In these cases, your personal data is handled according to this Policy.
+              </li>
+              <li>
+                <strong>Sharing Your Personally Identifiable Information to Fulfill Service Requests and Perform Business Functions.</strong> When fulfilling service requests initiated by you, we may share your Personally Identifiable Information with certain third parties to fulfill the requests. We may also share such information with service providers that perform business functions for us. In such cases, the Company may share your Personally Identifiable Information.
+              </li>
+              <li>
+                <strong>Sharing Your Personally Identifiable Information with Certain Other Companies.</strong> The Company may share Personally Identifiable Information, except for e-mail addresses, with certain other companies as part of the Company benefits offerings.
+              </li>
+              <li>
+                <strong>Sharing Your Personally Identifiable Information When Legally Necessary or to Protect the Company’s Interests.</strong> The Company may disclose your Personally Identifiable Information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process served on the Company, including, but not limited to, compliance with legal, regulatory and law enforcement requests.  In such instances, the Company cooperates with government and law enforcement officials and private parties to enforce and comply with the law. the Company will disclose any information about you to government or law enforcement officials or private parties as the Company, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (such as subpoena requests), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity the Company considers to be illegal or unethical.  To the extent the Company is legally permitted to do so, the Company will take reasonable steps to notify you in the event that the Company is required to provide your Personally Identifiable Information to third parties as part of legal process; (b) protect and/or defend the rights or property of the Company; (c) protect the personal safety of the Company personnel or users of the public in appropriate circumstances; or (d) if the Company and/or its assets (or a portion of its assets) are sold, assigned, transferred, or merged or if the Company undergoes some other change including a change to its corporate form as part of a bankruptcy proceeding or otherwise, information may be transferred as part of that transaction or change.
+              </li>
+              <li>
+                <strong>Sharing Your E-mail Address Pursuant to the Company Policy.</strong> We do not sell or rent e-mail addresses to anyone outside of the Company.  The Company will also not share e-mail addresses to unrelated third-parties or affiliates.
+              </li>
+            </ol>
+          </li>
+          <li>
+            <strong>How to Manage the Sharing of Your Personally Identifiable Information:</strong> To easily access, view, or update your personal data (where available), please sign into your Account Management Panel. To request that your information be deleted, please email <a href="mailto:privacy@webhostinghub.com">privacy@webhostinghub.com</a>.
+            <br><br>
+            <p>If you make a request to delete your personal data and that data is necessary for the products or services you have purchased, the request will be honored only to the extent it is no longer necessary for any Services purchased or required for our legitimate business purposes or legal or contractual record keeping requirements.</p>
+          </li>
+
+          <li>
+            <strong>How the Company May Use and Share Non-Personal Data:</strong> Through the use of various technological tools, the Company may collect Non-Personal Data to improve the usability of the Company website(s) and the Services and for other business reasons.  The Company may share the Non-Personal Data collected with third parties or permit third parties to place tools like Cookies, Tags and web beacons, to collect additional Non-Personal Data when you browse the Company websites.  The Company does not share Personally Identifiable Information with third parties with whom it shares your Non-Personal Data.  Please note that you may be subject to the privacy policies of non-Company companies when you select an advertising link or other link that takes you to sites not operated by the Company.
+          </li>
+          <li>
+            <strong>California and GDPR Privacy Rights:</strong> In addition to the rights as explained in this Policy, under California’s “Shine the Light” law and/or the European General Data Protection Rules (GDPR), the Company members or non-Company users who provide personal information (as defined in the Shine the Light statute and/or the GDPR) in obtaining products or services for personal, family, or household use are entitled to request and obtain from the Company, once a calendar year, information about the personal information it shared, if any, with other businesses for marketing uses.  If applicable, this information would include the categories of personal information and the names and addresses of those businesses with which the Company shared such personal information for the immediately prior calendar year (e.g., requests made in 2018 will receive information about 2017). To obtain this information please send your request to (please include your full name and address, domain name(s)):
+            <ul>
+              <p class="text-center">
+                <strong>
+                  WEBHOSTING HUB, INC.<br>
+                  Attn: Data Protection Team<br>
+                  3629 Sentara Way<br>
+                  Virginia Beach, VA 23452</strong></p>
+                </ul>
+          </li>
+          <li>
+            <strong>Canada Anti-Spam Law (CASL) and GDPR:</strong> Non-Company users who have provided the Company a Canadian or European Union mailing address will not receive unauthorized Commercial Electronic Messages (CEMs) as defined under CASL and GDPR unless these individuals have opted-in to receive CEMs. To easily access, view, update, delete or port your personal data (where available), or to update your subscription preferences, please sign into your Account Management Panel.  If you are a resident of the European Union Economic Area and believe we maintain your personal data subject to the GDPR, you may direct questions or complaints (however, we still recommend that you contact us first) to our lead supervisory authority, the UK’s Information Commissioner’s Office, as noted below:
+            <ul>
+              <p class="text-center">
+                <strong>
+                  www.ico.org.uk<br>
+                  Information Commissioner’s Office<br>
+                  Wycliffe House, Water Lane<br>
+                  Wilmslow, Cheshire, SK9 5AF<br>
+                  United Kingdom<br>
+                  Phone: 0303 123 1113
+                </strong>
+              </p>
+            </ul>
+          </li>
+          <li>
+            <strong>Data Retention:</strong> We may retain your Personally Identifiable Information (as well as your Users-of-Users’ Information) for as long as your account is active, as indicated in this Privacy Policy or as otherwise needed to provide you with our Services.  We may continue to retain such Personally Identifiable Information even after you deactivate your account and/or cease to use any particular Services, as reasonably necessary to comply with our legal obligations, to resolve disputes regarding our Users or their Users-of-Users, prevent fraud and abuse, enforce our agreements and/or protect our legitimate interests. We maintain a data retention policy which we apply to information in our care. Where your Personally Identifiable Information is no longer required we will ensure it is securely deleted.
+          </li>
+          <li><strong>Age Restrictions:</strong> Our Services are not permitted to children under 18 years of age.  No one under age 18 should provide any Personal Information to us through any of our Services.  We do not knowingly collect Personal Information from children under 18. Parents and guardians should supervise their children's activities at all times.  If you know of or have reason to believe anyone under the age of 18 has provided the Company with any personal data, please contact us at <a href="mailto:privacy@webhostinghub.com">privacy@webhostinghub.com
+          </a>.
+          </li>
+          <li>
+            <strong>Information Security:</strong> The Company implements commercially reasonable security measures to help protect against unauthorized access to or unauthorized alteration, disclosure, or destruction of data.  The Company restricts access to personal information to certain companies who may need to know that information in order to operate, develop, or improve the Services.  These individuals or partner organizations are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.  Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Accordingly, the Company cannot guarantee or warrant the security of any information you transmit to the Society, or to or from the Company online products or services. If you have questions about this Policy, please contact us.
+          </li>
+          <li>
+            <strong>User ID and Password:</strong> Certain areas of the Company website(s) may require the use of a user ID, e-mail address or password, as an additional security measure that helps protect your information.  To help you protect your privacy, the Company website(s) has tools to help you log in and log out.
+          </li>
+          <li>
+            <strong>Linking to Other Internet Sites:</strong> You should be aware that other Internet sites that are linked from the Company websites or from Company e-mail message may contain privacy provisions that differ from the provisions of this Policy.  To ensure your privacy is protected, we recommend that you review the privacy statements of these other linked sites, applications, or other digital platforms.
+          </li>
+          <li>
+            <strong>How You Can Access and Change Information:</strong>   If you are a registered user of the Company website(s) or purchaser of the Services, you may review and update/correct your account profile information directly on the Company’s website (<a href="https://www.webhostinghub.com/">www.webhostinghub.com</a>) or by contacting us at <a href="mailto:privacy@webhostinghub.com">privacy@webhostinghub.com</a>.
+          </li>
+          <li>
+            <strong>Contact Us:</strong> If you have any questions, concerns or complaints about this Policy, our practices or our Services, you may contact us by mail at Attn: Data Protection Team, 3629 Sentara Way, Virginia Beach, VA 23452, by email at <a href="mailto:privacy@webhostinghub.com">privacy@webhostinghub.com</a> or by phone at <a href="tel:1-877-595-4482">1 (877) 595 - 4482</a>.  We will attempt to resolve any complaints regarding the use of your Personally Identifiable Information in accordance with this Privacy Policy.  We will respond to all requests, inquiries or concerns within thirty (30) calendar days.
+          </li>
         </ol>
-        <p><em>Revised: June 18, 2014</em></p>
+        <p><em>Revised: May 24, 2018</em></p>
       </div>
     </div>
   </div>
@@ -268,14 +439,15 @@ var _prum = [['id', '54f88877abe53d7326936ffe'],
   <div class="container">
     <div class="pull-left">
       <a href="#" class="footer-phone" onclick="ga('send', 'event', 'Sticky Footer Icon', 'Button Click', 'Phone');"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span></a>
-      <a href="#" onclick="ga('send', 'event', 'Sticky Footer Icon', 'Button Click', 'Chat');" class="chat-btn" data-value="none"><span class="glyphicon glyphicon-comment" aria-hidden="true"></span></a>
+      <a href="#" onclick="ga('send', 'event', 'Sticky Footer Icon', 'Button Click', 'Chat');" class="chat-btn" data-value="sales"><span class="glyphicon glyphicon-comment" aria-hidden="true"></span></a>
     </div>
     <p>
-                          <strong>WEB HOSTING PLANS </strong> STARTING AT ONLY $4.99
-      <a class="btn btn-primary btn-small" href="/plans" onclick="ga('send', 'event', 'Sticky Footer Button', 'Button Click', 'Get Started');">GET STARTED »</a>
+      <strong>WEB HOSTING PLANS </strong> STARTING AT ONLY $4.99
+      <a class="btn btn-primary btn-small" href="/hosting-plans" onclick="ga('send', 'event', 'Sticky Footer Button', 'Button Click', 'Get Started');">GET STARTED »</a>
     </p>
   </div>
-</div>  <div class="container">
+</div>
+  <div class="container">
     <div class="row">
       <div class="col-md-4">
         <h4><img src="//whh01-inmotionhosting1.netdna-ssl.com/img/logos/hubx-full-logo.svg" alt="HUB"></h4>
@@ -299,25 +471,35 @@ var _prum = [['id', '54f88877abe53d7326936ffe'],
       <div class="col-md-2 col-sm-3 col-xs-6">
         <h4>PRODUCTS &amp; SOLUTIONS</h4>
         <ul>
+          <li><a href="/boldgrid-website-builder">BoldGrid Website Builder</a></li>
           <li><a href="/web-hosting-features">Hosting Services</a></li>
           <li><a href="/hosting-plans">Hosting Plans</a></li>
           <li><a href="/domains">Domain Names</a></li>
-          <li><a href="/boldgrid-website-builder">BoldGrid</a></li>
+
           <li><a href="/blog-hosting">Host your Blog</a></li>
           <li><a href="/web-design">Custom Web Design</a></li>
-          <li><a href="/cpanel-hosting">cPanel Hosting</a></li>
           <li><a href="/ecommerce-hosting">eCommerce Hosting</a></li>
+          <li><a href="/what-is-cms" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'Solutions Move To A CMS')">Move to a CMS</a></li>
+          <li><a href="/ecommerce-hosting" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'Solutions Ecommerce Tools')">eCommerce Tools</a></li>
+          <li><a href="/web-design" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'Solutions Web Design Services')">Web Design Services</a></li>
+          <li><a href="/transfer-web-hosting" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'Solutions Website Transfer Services')">Website Transfer Services</a></li>
+
+          <li><a href="/one-click-install-website-tools" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'Solutions 1click App Installs')">1-Click App Installs</a></li>
+          <li><a href="/glyphs" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'About Free Glyphs')">Free Glyphs</a></li>
         </ul>
       </div>
       <div class="col-md-2 col-sm-3 col-xs-6">
         <h4>APPLICATIONS HOSTING</h4>
         <ul>
+          <li><a href="/what-is-cms" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'Solutions CMS Hosting')">CMS Hosting</a></li>
           <li><a href="/wordpress-hosting">WordPress</a></li>          <li><a href="/concrete5-hosting">concrete5</a></li>
           <li><a href="/joomla-hosting">Joomla!</a></li>
           <li><a href="/drupal-hosting">Drupal</a></li>
           <li><a href="/prestashop-hosting">PrestaShop</a></li>
           <li><a href="/opencart-hosting">OpenCart</a></li>
           <li><a href="/magento-hosting">Magento</a></li>
+          <li><a href="/cpanel-hosting">cPanel Hosting</a></li>
+          <li><a href="/one-click-install-website-tools" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'Solutions More Top Software')">More Top Software</a></li>
         </ul>
       </div>
       <div class="col-md-2 col-sm-3 col-xs-6 foot-clear">
@@ -334,7 +516,7 @@ var _prum = [['id', '54f88877abe53d7326936ffe'],
         <h4>ABOUT COMPANY</h4>
         <ul>
           <li><a href="/about-us">About Us</a></li>
-          <li><a href="http://webhostinghub.com/blog">Blog</a></li>
+          <li><a href="http://webhostinghub.com/blog">HUB Blog</a></li>
           <li><a href="/web-hosting-features">Features</a></li>
           <li><a href="/customer-testimonials">Customer Testimonials</a></li>
           <li><a href="/contact-us">Contact Us</a></li>
@@ -342,11 +524,13 @@ var _prum = [['id', '54f88877abe53d7326936ffe'],
           <li><a href="/privacy-policy">Privacy Policy</a></li>
           <li><a href="/terms-of-service">Terms of Service</a></li>
           <li><a href="/press">Press</a></li>
+
         </ul>
       </div>
     </div>
   </div>
-</footer>  
+</footer>
+  
 <!-- BoldGrid Video -->
 <div class="modal fade" id="boldgrid-modal" tabindex="-1" role="dialog" aria-labelledby="boldgridVideoModalLabel" aria-hidden="true">
   <div class="container modal-dialog modal-content">
@@ -365,6 +549,223 @@ var _prum = [['id', '54f88877abe53d7326936ffe'],
   </div>
 </div><!-- BoldGrid Video -->
 
+<!-- Hosting Plans Modal -->
+<div class="modal fade" id="hosting-modal" tabindex="-1" role="dialog" aria-labelledby="hostingPlansModalLabel" aria-hidden="true">
+  <div class="container modal-dialog modal-content hosting-modal">
+    <div class="row">
+      <div class="col-md-12">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+      </div>
+    </div>
+    <div class="row text-center">
+      <div class="col-md-12">
+        <h3>Resource Comparison Chart</h3>
+        <h4 class="sec-header">The More Resources The Better</h4>
+      </div>
+    </div>
+    <div class="row hidden-xs">
+      <div class="col-md-10 jutwrap5">
+        <table class="table table-hover products">
+          <thead>
+            <tr>
+              <th></th>
+              <th>
+                <div class="round-table-head first"><p>Spark</p></div> <br> Great Starter Plan <br> Quick Setup
+              </th>     
+              <th>
+                <div class="round-table-head second"><p>Nitro</p></div> <br> Small Business Hosting <br> Better Performance
+              </th>
+              <th>
+                <div class="round-table-head third"><p>Dynamo</p></div> <br> Built for Highly Dynamic <br> Sites, Most Resources
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+          <tr>
+            <th>Memory</th>
+            <td>.5GB</td>
+            <td>1GB</td>
+            <td>2GB</td>
+          </tr>
+          <tr>
+            <th>Entry Processes</th>
+            <td>100</td>
+            <td>200</td>
+            <td>350</td>
+          </tr>
+          <tr>
+            <th>I/O</th>
+            <td>1Mb/s</td>
+            <td>1.5Mb/s</td>
+            <td>2Mb/s</td>
+          </tr>
+          <tr>
+            <th>Connections</th>
+            <td>40</td>
+            <td>80</td>
+            <td>120</td>
+          </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="col-md-2"></div>
+    </div>
+    <div class="row visible-xs-block">
+      <div class="col-xs-12">
+        <div class="block products first">
+          <div class="row">
+            <div class="col-xs-12 block-head">
+              <p>spark</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12">
+              <p><em>Great Starter Plan <br> Quick Setup</em></p>
+              <a class="btn btn-info features">Features</a>
+            </div>
+          </div><!--row-->
+          <div class="dropdown">
+            <div class="row">
+              <div class="col-xs-6">
+                Memory
+              </div>
+              <div class="col-xs-6">
+                1GB
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-6">
+                Entry Processes
+              </div>
+              <div class="col-xs-6">
+                100
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-6">
+                I/O
+              </div>
+              <div class="col-xs-6">
+                1Mb/s
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-6">
+                Connections
+              </div>
+              <div class="col-xs-6">
+                40
+              </div>
+            </div>
+         </div>
+       </div>
+      </div>
+    </div>
+    <div class="row visible-xs-block">
+      <div class="col-xs-12">
+        <div class="block products second">
+          <div class="row">
+            <div class="col-xs-12 block-head">
+              <p>Nitro</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12">
+              <p><em>Small Business Hosting <br> Better Performance</em></p>
+              <a class="btn btn-info features">Features</a>
+            </div>
+          </div><!--row-->
+          <div class="dropdown">
+            <div class="row">
+              <div class="col-xs-6">
+                Memory
+              </div>
+              <div class="col-xs-6">
+                2GB
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-6">
+                Entry Processes
+              </div>
+              <div class="col-xs-6">
+                200
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-6">
+                I/O
+              </div>
+              <div class="col-xs-6">
+                1.5Mb/s
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-6">
+                Connections
+              </div>
+              <div class="col-xs-6">
+                80
+              </div>
+            </div>
+         </div>
+       </div>
+      </div>
+    </div>
+    <div class="row visible-xs-block">
+      <div class="col-xs-12">
+        <div class="block products third">
+          <div class="row">
+            <div class="col-xs-12 block-head">
+              <p>Dynamo</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12">
+              <p><em>Built for Highly Dynamic <br> Sites, Most Resources</em></p>
+              <a class="btn btn-info features">Features</a>
+            </div>
+          </div><!--row-->
+          <div class="dropdown">
+            <div class="row">
+              <div class="col-xs-6">
+                Memory
+              </div>
+              <div class="col-xs-6">
+                4GB
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-6">
+                Entry Processes
+              </div>
+              <div class="col-xs-6">
+                350
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-6">
+                I/O
+              </div>
+              <div class="col-xs-6">
+                2Mb/s
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-6">
+                Connections
+              </div>
+              <div class="col-xs-6">
+                120
+              </div>
+            </div>
+         </div>
+       </div>
+      </div>
+    </div>
+  </div>
+</div><!-- Hosting Plans Modal -->
+
 
 <div class="up-button">
   <div class="scrollUp"><span class="to-top"></span>TOP</div></div>
@@ -373,7 +774,38 @@ var _prum = [['id', '54f88877abe53d7326936ffe'],
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="//whh01-inmotionhosting1.netdna-ssl.com/js/libs/jquery-1.11.1.min.js"><\/script>')</script><script src="//whh01-inmotionhosting1.netdna-ssl.com/js/libs/jquery-1.11.1.min.js"></script>
 <script>window.Modernizr || document.write('<script src="//whh01-inmotionhosting1.netdna-ssl.com/js/libs/modernizr-2.8.3-respond-1.4.2.min.js"><\/script>')</script><script src="//whh01-inmotionhosting1.netdna-ssl.com/js/libs/modernizr-2.8.3-respond-1.4.2.min.js"></script>
-<script src="//whh01-inmotionhosting1.netdna-ssl.com/assets/js/scripts.js?1515448465"></script>
+<script src="//whh01-inmotionhosting1.netdna-ssl.com/js/libs/js-jquery-ui-cookie.min.js"></script>
+<script src="//whh01-inmotionhosting1.netdna-ssl.com/assets/js/scripts.js?1536163576"></script>
+
+<script>
+$(document).ready(function(){
+
+  $('[data-toggle="tooltip"]').tooltip({});
+
+});
+function handleTermSelect(term) {
+      // name should be "spark", "nitro", or "dynamo"
+      console.log($(term).data());
+      var name = $(term.form).attr('id');
+      $("#"+name+" .pricebox-order").data({
+        "productid":$(term).data("productid"),
+        "packageid":$(term).data("packageid"),
+        "campaignhandle":$(term).data("campaignhandle"),
+        "irid":$(term).data("impactradiusid"),
+        "affid":$(term).data("campaignhandle")
+      });
+      $("#"+name+" .pricebox-order").attr({
+        "data-productid":$(term).data("productid"),
+        "data-packageid":$(term).data("packageid"),
+        "data-campaignhandle":$(term).data("campaignhandle"),
+        "data-irid":$(term).data("impactradiusid"),
+        "data-affid":$(term).data("campaignhandle")
+      });
+      $("#"+name+" .pricebox-percent").html($(term).data("percentoff"));
+      $("#"+name+" .pricebox-strike").html($(term).data("originalprice"));
+      $("#"+name+" .pricebox-price").html($(term).data("saleprice"));
+}
+</script>
 
 
 
