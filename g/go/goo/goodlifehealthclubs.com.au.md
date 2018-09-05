@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodlifehealthclubs.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313175418id_/https%3A//www.goodlifehealthclubs.com.au/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodlifehealthclubs.com.au privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905085445id_/https%3A//www.goodlifehealthclubs.com.au/footer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Goodlife Health Clubs
 
@@ -63,7 +63,7 @@ Some of our venues have surveillance cameras which may capture your image on fil
 
 ### 5\. ACCESS BY CHILDREN
 
-As we cannot distinguish the age of people accessing our websites, our Privacy Policy applies to all individuals. If a person under sixteen years of age has provided us with personal information without parental or guardian consent, those details may be removed by emailing us at reception@goodlife.com.au
+As we cannot distinguish the age of people accessing our websites, our Privacy Policy applies to all individuals. If a person under sixteen years of age has provided us with personal information without parental or guardian consent, those details may be removed by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ### 6\. HOW WE USE YOUR PERSONAL INFORMATION
 
@@ -110,11 +110,11 @@ For example, we may not be able to respond to your enquiry, assess your applicat
 
 We take reasonable steps to ensure that the personal information we collect and use is accurate, complete and up-to-date. However, the accuracy of the information we hold depends to a large extent on the information you provide. You can update (or request us to update) your personal information at any time. We ask you to keep your information as current as possible so that we may continue to provide you with useful information.
 
-To update your details, please email us at reception@goodlife.com.au. Alternatively, if you have an online account with one of our businesses, you may update your details via your online account. If you would like to unsubscribe or “opt out” from receiving any direct marketing material from Goodlife, that option will be available in the relevant communication sent to you. We will respond to your unsubscribe request within a reasonable period after your request is made.
+To update your details, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Alternatively, if you have an online account with one of our businesses, you may update your details via your online account. If you would like to unsubscribe or “opt out” from receiving any direct marketing material from Goodlife, that option will be available in the relevant communication sent to you. We will respond to your unsubscribe request within a reasonable period after your request is made.
 
 ### 10\. HOW YOU CAN ACCESS, UPDATE OR REMOVE YOUR PERSONAL INFORMATION
 
-You have a right to request access to your personal information held by us. You are also able to update your details or request us to remove your details should you wish to “opt out” in the future. Should you wish to access, update or remove your details, please email us at reception@goodlife.com.au.
+You have a right to request access to your personal information held by us. You are also able to update your details or request us to remove your details should you wish to “opt out” in the future. Should you wish to access, update or remove your details, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Alternatively, if you have an online account with one of our businesses, you may be able to access the personal information we hold about you via your online account.  
 If there is a lawful reason for not providing you with access, we will provide you with a written explanation and will inform you of the mechanism to complain about our refusal at that time. Please note that we will respond to your requests as soon as reasonably practicable and we may charge a reasonable fee for doing so.
@@ -157,4 +157,4 @@ From time to time we may need to change this Privacy Policy to reflect our chang
 
 ### 16\. PRIVACY COMPLAINT OR CONCERN
 
-If you have a complaint or concern about the way in which your privacy has been handled by Goodlife, please email us at reception@goodlife.com.au. We will respond by email within 2 working days confirming receipt of your complaint or concern. We will then proactively investigate your complaint or concern and provide you with our response within a reasonable timeframe. If, after receiving our response, you still consider that your privacy complaint or concern has not been resolved, you may then take your complaint to the Office of the Australian Information Commissioner (www.oaic.gov.au).
+If you have a complaint or concern about the way in which your privacy has been handled by Goodlife, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) We will respond by email within 2 working days confirming receipt of your complaint or concern. We will then proactively investigate your complaint or concern and provide you with our response within a reasonable timeframe. If, after receiving our response, you still consider that your privacy complaint or concern has not been resolved, you may then take your complaint to the Office of the Australian Information Commissioner (www.oaic.gov.au).
