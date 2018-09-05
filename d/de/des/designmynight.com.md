@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designmynight.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623232025id_/http%3A//www.designmynight.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designmynight.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905090229id_/https%3A//www.designmynight.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DesignMyNight
 
@@ -54,11 +54,9 @@ Further information relating to GDPR can be found on our Client Portal [here](ht
 
 **Important note:** If you feel we have not processed your data in accordance with the Principles and Rights of the individual under GDPR, please contact [Information.Security@theaccessgroup.com](mailto:Information.Security@theaccessgroup.com) or you may also lodge a complaint with the [Information Commissioners Office](https://ico.org.uk/concerns/)
 
-Subscribe to our newsletter
+newsletter
 
-Get weekly inspiration straight to your inbox!
-
-When you sign up, we will give you 250 (£2.50) reward points. Once you hit 500, you will have 5 pounds to redeem off any event on DesignMyNight.
+Get weekly inspiration straight to your inbox! Get 250 (£2.50) reward points if you sign up now.
 
 Congratulations, you have subscribed!
 
