@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the moneymart.ca privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028093535id_/https%3A//www.moneymart.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymart.ca privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906010939id_/https%3A//www.moneymart.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Money Mart
 
 ### MONEY MART 
 
-RECOGNIZES THE IMPORTANCE OF RESPECTING CUSTOMER'S RIGHT TO PRIVACY AND ADHERES   
-TO THE FOLLOWING KEY PRINCIPLES:
+RECOGNIZES THE IMPORTANCE OF RESPECTING CUSTOMER'S RIGHT TO PRIVACY AND ADHERES TO THE FOLLOWING KEY PRINCIPLES:
 
   * MONEY MART is responsible for personal information under its control and has designated individuals to be accountable for the organization’s compliance.
   * The purposes for which personal information is collected will be identified at or before the time the information is collected.
