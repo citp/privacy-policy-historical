@@ -1,55 +1,110 @@
-> *The following text is extracted and transformed from the zyante.com privacy policy that was archived on 2013-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130127175851id_/http%3A//zyante.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zyante.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905181238id_/https%3A//www.zybooks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy - zyBooks
 
-### OUR PRIVACY COMMITMENT
+## OUR PRIVACY COMMITMENT
 
-**Effective date: 15 January 2013**
+Effective date: May 25. 2018
 
-Thank you for visiting zyante.com. Zyante, Inc. (“Zyante”) is committed to treating the information of our users with respect and sensitivity. Our privacy commitment is described in this Privacy Policy. As our services evolve and we perceive the need or desirability of using information collected in other ways, we may from time to time amend this Privacy Policy. We post the effective date of our Privacy Policy on our website ("Site"). We encourage you to check our Site frequently to see the current Privacy Policy and [Terms of Use](http://www.zyante.com/legal) in effect and any changes that may have been made to them. 
+Thank you for visiting zyBooks.com, a website created and operated by Zyante, Inc. (“Zyante”).  Zyante is committed to treating the information of our users with respect and sensitivity. Our privacy commitment is described in this Privacy Policy. As our services evolve and we perceive the need or desirability of using information collected in other ways, we may from time to time amend this Privacy Policy. We post the effective date of our Privacy Policy on our website (“Site”). We encourage you to check our Site frequently to see the current Privacy Policy and Terms of Use in effect and any changes that may have been made to them.
 
-If we make material changes to this Policy we will post the revised Policy and the revised effective date on this Site. Please check back here periodically or contact us at the address listed at the end of this Policy if you have questions about our Privacy policy. This Policy is part of our [Terms of Use](http://www.zyante.com/legal) Agreement. 
+If we make material changes to this Policy, we will post the revised Policy and the revised effective date on this Site. Please check back here periodically or contact us at the address listed at the end of this Policy if you have questions about our Privacy policy. This Policy is part of our Terms of Use Agreement.
 
-_**General Information**_
+For purposes of data protection laws, Zyante, Inc., located at 41 East Main Street, Los Gatos, CA 95030, is the “data controller” of your information.
 
-We believe that you have the right to understand how your information is stored and used. We require that sites linked to our Site contain a notice identifying their privacy policies. We are not responsible for the privacy practices of any third parties or the content of linked sites although we do encourage you to read the applicable privacy policies and terms and conditions of such parties or web sites. 
+### General Information
 
-_**Information You Provide Us**_
+This Privacy Policy applies to your use of the Site, and any other websites, applications, or services provided, owned, or operated by Zyante.  By providing information to us or by using our Site, you explicitly agree to our collection and use of your information as described in this Privacy Policy.  The provisions contained herein supersede all previous notices or statements regarding our privacy practices with respect to this Site.
 
-In general, you can visit portions of zyante.com without telling us who you are or revealing any information about yourself. If you wish to obtain information about our products or services you can contact us. We may collect your name, company or school name, email address, and street address along with other information you may choose to submit, as part of the inquiry process. By providing this information to us, you explicitly agree to our collection and use of such information as described in this Privacy Policy. 
+We believe that you have the right to understand how your information is stored and used. We require that sites linked to our Site contain a notice identifying their privacy policies. We are not responsible for the privacy practices of any third parties or the content of linked sites, although we do encourage you to read the applicable privacy policies and terms and conditions of such parties or web sites.
 
-Portions of zyante.com are accessible only to subscribers. In order to register on our site and become a subscriber you may be required to provide information such as your name, address, school affiliation and class, email address, and payment information. In the course of your use of the Site we may collect information based on the pages you visit, the activities or exercises you engage in or perform, and statistics about your performance. You agree that you will only provide current, accurate information and that you will keep your information up to date. By providing information to us and by using the Site you explicitly agree to our collection and use of such information as described in this Privacy Policy.
+### Information You Provide Us
 
-_**Protecting Children's Privacy**_
+In general, you can visit portions of zybooks.com without providing us any information about yourself directly. If you wish to obtain information about our products or services you can contact us. We will collect your name, company or school name, email address, and street address, along with other information you may choose to submit, as part of the inquiry process.
 
-This Site is not designed nor intended to be attractive to use by children under the age of 18 ("Minors"). We do not knowingly collect personally identifiable information from minors. If you are under the age of 18, please do not submit any information to us. If you are an enrolled student but are under the age of 18 please contact us at [info@zyante.com](mailto:info@zyante.com) to subscribe to our service.
+Portions of zybooks.com are accessible only to subscribers. In order to register on our site and become a subscriber you will be required to provide information such as your name, address, school affiliation and class, email address, and payment information. You agree that you will only provide current, accurate information and that you will keep your information up to date. In the course of your use of the Site we may collect information based on the pages you visit, the activities or exercises you engage in or perform, and statistics about your performance.
 
-_**Cookies**_
+Please note that in some cases, we need certain types of information so that we can provide you with the services you request. If you do not provide us with such information, or ask us to delete it, you may not be able to obtain these services.
 
-We may use cookies to personalize our Site for you and to collect aggregate information about site usage by all of our users. A cookie is a text file that our Site transfers to your computer's hard drive for record-keeping purposes and to enhance the quality of your visit to our Site. The cookie may assign a random, unique number to your computer. We may use persistent cookies that remain on your browser after you leave the Site as well as sessions cookies that expire when you exit the Site. Our cookies may record "clickstream" information (data reporting the URLs or names of the pages on our Site that you have visited). We may use persistent cookies, for instance, to remember you when you return to the site and to connect you and your subscriber account activity. We may also allow third parties to set cookies that help us maintain and operate our Site or to help our Site offer certain features, such as YouTube video access. We do not intentionally allow anyone else to access your cookie. You can set your browser to refuse cookies, but doing so may limit system performance and may even cause certain features of the Site to malfunction or not to work at all. 
+### Protecting Children’s Privacy
 
-_**Use of Information**_
+This Site is not designed nor intended for use by children under the age of 13 (“Minors”). We do not knowingly collect personally identifiable information (as defined by the United States Children’s Online Privacy Protection Act) from Minors. If you are under the age of 13, please do not submit any information to us. If you are an enrolled student but are under the age of 13 please contact us at info@zybooks.com to subscribe to our service.
 
-The use of your information is subject to the Privacy Policy and [Terms of Use](http://www.zyante.com/legal) in effect at the time of use. The provisions contained herein supersede all previous notices or statements regarding our privacy practices with respect to this Site. 
+We do not knowingly collect data from European Economic Area (“EEA”) residents under the age of consent set by applicable data protection law. If we learn that we are processing data of such an individual, we will halt such processing and will take reasonable measures to promptly remove applicable data from our records.
 
-We may use aggregated data (independent of any personal identifiers) for research and commercial purposes. This information may include what areas our users visit most frequently and what services they access most often. This information helps us develop a better site that is more useful and accessible to you. 
+### Cookies
 
-We may use information you provide to us internally for our general commercial purposes including, among other things, to offer our own, our affiliates’ or third-party products and services that we think you may find of interest, but only Zyante, its subsidiaries and contractors involved in distributing the offers or providing the products or services will have access to your information. Our subsidiaries and contractors will be required to use any personally identifiable information we provide them only for that intended purpose. We may use your email address to contact you to respond to your inquiries or to provide information on products or services to you. You can elect not to receive emails from us either by "unsubscribing" to an email you receive or by contacting us as indicated below. If you unsubscribe we may still send you emails relating to your account or transactions with Zyante.
+We use cookies to personalize our Site for you and to collect aggregate information about site usage by all of our users. A cookie is a text file that our Site transfers to your computer’s hard drive for record-keeping purposes and to enhance the quality of your visit to our Site. The cookie may assign a random, unique number to your computer. We use persistent cookies that remain on your browser after you leave the Site as well as session cookies that expire when you exit the Site. Our cookies record “clickstream” information (data reporting the URLs or names of the pages on our Site that you have visited). We use persistent cookies, for instance, to remember you when you return to the site and to connect you and your subscriber account activity. We also allow third parties to set cookies that help us maintain and operate our Site or to help our Site offer certain features, such as YouTube video access. We do not intentionally allow anyone else to access your cookie. You can set your browser to refuse cookies, but doing so may limit system performance and may even cause certain features of the Site to malfunction or not to work at all.
 
-We may reveal personally identifiable information about you to unaffiliated third parties: (1) if you request or authorize it; (2) if the information is provided to help complete a transaction for you including disclosing your information to school officials including instructors for a legitimate educational interest; (3) if the information is provided to comply with the law, applicable regulations, governmental and quasi-governmental requests, court orders or subpoenas, to enforce our [Terms of Use](http://www.zyante.com/legal) or other agreements, or to protect our rights, property or safety or the rights, property or safety of our users or others (e.g., to a consumer reporting agency for fraud protection etc.); (4) if the disclosure is done as part of a purchase, transfer or sale of services or assets (e.g., in the event that substantially all of our assets are acquired by another party, subscriber information may be one of the transferred assets); (5) if the information is provided to our agents, outside vendors or service providers to perform functions on our behalf (e.g., analyzing data, providing marketing assistance, providing customer service, processing orders, etc.); or (6) as otherwise described in this Privacy Policy. 
+### Use of Information
 
-_**Opt-Out, Access, and Security**_
+We may use aggregated data (independent of any personal identifiers) for research and commercial purposes. This information may include what areas our users visit most frequently and what services they access most often. This information helps us develop a better site that is more useful and accessible to you.
 
-If you do not wish to receive offers or other notices from us in the future, you can "opt out" by contacting us at the address indicated at the end of this policy. To review your subscription information, make any changes or corrections or to request that we remove your information please visit the My Account tab or send an email to [info@zyante.com](mailto:info@zyante.com) with your question. We will try to complete your request as promptly as possible. Any changes will affect only future uses of your information. 
+We may use information you provide to us internally for our general commercial purposes including, among other things, to offer our own, our affiliates’ or third-party products and services that we think you may find of interest, but only Zyante, its subsidiaries and contractors involved in distributing the offers or providing the products or services will have access to your information. Our subsidiaries and contractors will be required to use any personally identifiable information we provide them only for that intended purpose. We may use your email address to contact you to respond to your inquiries or to provide information on products or services to you. You can elect not to receive emails from us either by “unsubscribing” to an email you receive or by contacting us as indicated below. If you unsubscribe we may still send you emails relating to your account or transactions with Zyante. We also use your information to operate, maintain, and improve the Site and for our internal recordkeeping purposes.
+
+We may reveal personally identifiable information about you to unaffiliated third parties: (1) if you request or authorize it; (2) if the information is provided to help complete a transaction for you including disclosing your information to school officials including instructors for a legitimate educational interest; (3) if the information is provided to comply with the law, applicable regulations, governmental and quasi-governmental requests, court orders or subpoenas, to enforce our Terms of Use or other agreements, or to protect our rights, property or safety or the rights, property or safety of our users or others (e.g., to a consumer reporting agency for fraud protection etc.); (4) if the disclosure is done as part of a purchase, transfer or sale of services or assets (e.g., in the event that substantially all of our assets are acquired by another party, subscriber information may be one of the transferred assets); (5) if the information is provided to our agents, outside vendors or service providers to perform functions on our behalf (e.g., analyzing data, providing marketing assistance, providing customer service, processing orders, etc.); or (6) as otherwise described in this Privacy Policy.
+
+### Legal Bases for Use of Your Information
+
+The laws in some jurisdictions require companies to tell you about the legal ground they rely on to use or disclose your “personal data” (as defined in such applicable laws).  To the extent those laws apply, our legal grounds are as follows:
+
+  * To honor our contractual commitments to you:  Much of our processing of personal data is to meet our contractual obligations to our users, or to take steps at users’ requests in anticipation of entering into a contract with them.  For example, we handle personal data on this basis to provide you a subscription to zyBooks.
+  * Consent:  Where required by law, and in some other cases, we handle personal data on the basis of your implied or express consent.
+  * Legitimate interests:  In many cases, we handle personal data on the ground that it furthers our legitimate interests in commercial activities in ways that are not overridden by the interests or fundamental rights and freedoms of the affected individuals.  This includes: operating our business and the Site; providing security for the Site, products, software, or applications; marketing; making and receiving payments; and preventing fraud.
+  * Legal compliance:  We need to use and disclose personal data in certain ways to comply with our legal obligations (such as our obligation to share data with tax authorities).
+
+
+
+### Opt-Out, Access, and Security
+
+If you do not wish to receive offers, promotional materials or marketing communications from us in the future, you can “opt out” by contacting us by email at [info@zybooks.com](mailto:info@zybooks.com) with “unsubscribe” or “opt out” in the subject line or by mail at the address listed at the end of this policy.  For users who are EU residents or may otherwise be covered by GDPR, we are in the process of finalizing an “opt in” procedure and will update this policy once that procedure is in place.  In the meantime, if you are an EU resident and you receive a communication which you believe we should not have sent to you, please immediately notify us through the procedure set forth in the preceding sentence and we will not contact with offers, promotions or marketing materials in the future. To review your subscription information, make any changes or corrections or to request that we remove your information please visit the My Account tab or send an email to info@zybooks.com with your question. We will try to complete your request as promptly as possible. Any changes will affect only future uses of your information.
+
+Note that if you choose not to receive offers, promotional materials or marketing communications, we may still send you non-promotional communications, such as security alerts and notices related to your access to or use of our site or related services, or those about your online account or our ongoing business relations.
 
 If you are a subscriber, you are responsible for maintaining the confidentiality of your account and password. If you use this Site, you are responsible for restricting access to your computer, and you agree to accept responsibility for all activities that occur under your account or password. You agree to notify us immediately of any unauthorized use of your account or any other breach of security. We reserve the right to refuse service, terminate accounts, or remove or edit content in our sole discretion.
 
-We use reasonable physical, electronic, and administrative safeguards to help us protect the security, integrity and confidentiality of data stored on our system that are designed reasonably to protect information contained within our systems from loss, misuse or alteration, although information you submit through this Site may not be encrypted. Access to your information and account activity is restricted to those providing required credentials and who have a need for access, such as your instructors and our system administrators. Payment processing is provided through third parties who are responsible for the protection of your payment information. We are not responsible for maintaining the confidentiality of any non-public information that you provide us. If there is information that you wish to protect from disclosure to others, do not provide it to us. 
+We use reasonable physical, electronic, and administrative safeguards to help us protect the security, integrity and confidentiality of data stored on our system that are designed reasonably to protect information contained within our systems from loss, misuse or alteration, although information you submit through this Site may not be encrypted. Access to your information and account activity is restricted to those providing required credentials and who have a need for access, such as your instructors and our system administrators. Payment processing is provided through third parties who are responsible for the protection of your payment information. We are not responsible for maintaining the confidentiality of any non-public information that you provide us. If there is information that you wish to protect from disclosure to others, do not provide it to us.
 
-_**Consent to Processing**_
+### Data Subject Rights
+
+Residents of the EEA can exercise certain data subject rights available to them under applicable data protection laws.  Where such rights apply, we will comply with requests to exercise these rights in accordance with applicable law.  Please note, however, that certain information may be exempt from such requests in some circumstances, which may include if we need to keep processing your information for our legitimate interests or to comply with a legal obligation.  If these rights apply to you, they may permit you to request that we:
+
+  * Obtain access to or a copy of certain personal data we hold about you
+  * Prevent the processing of your personal data for direct marketing purposes
+  * Update personal data which is out of date or incorrect
+  * Delete certain personal data which we are holding about you
+  * Restrict the way that we process and disclose specific personal data about you
+  * Transfer your personal data to a third-party provider of services
+  * Revoke consent that you previously provided for the processing of your personal data
+
+
+
+For more information on how to exercise these rights, contact us using the information in the “Contacting Us” section below.  If applicable, you may make a complaint to the data protection supervisory authority in the country where you are based. Alternatively, you may seek a remedy through local courts if you believe your rights have been breached.
+
+### Retention of Your Information
+
+We keep your information for no longer than necessary for the purposes for which it is processed and/or as required to comply with applicable laws.
+
+### Consent to Processing
 
 Your Personal Information may be processed by us in the country where it was collected as well as other countries, including the United States, where laws regarding data protection may be less stringent than the laws in your country. By using this site and by providing any Personal Information to the Site, all users, including without limitation users in Canada and the European Union, fully understand and unambiguously consent to the collection and processing of such information in the United States.
 
-_**Contacting Us**_
+Zyante is currently in the process of self-certifying to the EU-U.S. and Swiss-U.S. Privacy Shield Protocols.  We will post a new policy including all mandatory Privacy Shield terms and conditions as soon as we receive approval from the Federal Trade Commission.  Until then, we will follow the principles and terms of Privacy Shield when it comes to your personal information and how we use it.
 
-This site is owned and operated by Zyante, Inc. If you have any questions or suggestions with respect to this policy, or if you wish to ask us to delete, correct, or show you your information as provided above, you can write to us at Zyante, Inc., 24652 Huttchinson Road, Los Gatos, CA 95033 or email us at info@zyante.com. 
+Where required, we will use appropriate safeguards when transferring your data outside of EEA.  For more information about these safeguards, please contact us as detailed in the “Contacting Us” section below.
+
+### GDPR Compliance
+
+If you are a user domiciled in the EU and covered by GDPR, we will provide a systematic approach to managing your personal information through our people, management processes and information systems by applying a risk management methodology that is consistent with and in furtherance of the fundamental principles of GDPR.  For more information on our GDPR compliance program, feel free to contact us at info@zybooks.com.
+
+### California Privacy Rights
+
+California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their personal information (as defined by applicable California law) for their direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties. We do not currently disclose personal information to third parties for their direct marketing purposes.
+
+### Do Not Track
+
+Our site, applications or other services do not respond to Do Not Track signals, as the Internet industry is currently still working on Do Not Track standards, implementations, and solutions.
+
+### Contacting Us
+
+This site is owned and operated by Zyante, Inc. If you have any questions or suggestions with respect to this policy, or if you wish to ask us to delete, correct, or show you your information as provided above, you can write to us at Zyante, Inc., 41 East Main Street, Los Gatos, CA 95030 or email us at info@zybooks.com.
