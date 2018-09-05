@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the aryanict.com privacy policy that was archived on 2017-02-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170213181247id_/https%3A//www.aryanict.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aryanict.com privacy policy that was archived on 2018-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180905173958id_/https%3A//www.aryanict.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="" style=""><head><meta charset="utf-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://www.aryanict.com/hub/modules/livehelp/scripts/js.min.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://hub.aryanict.com/modules/livehelp/scripts/js.min.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/themes/frontend/assets/js/vendor/jquery-1.11.3.min.js"><\/script>')</script><script src="/themes/frontend/assets/js/vendor/jquery-1.11.3.min.js"></script>
 
 <title>Privacy Policy - AryanIct.com</title>
@@ -26,11 +26,54 @@
 <link rel="stylesheet" href="/themes/frontend/assets/css/responsive.css">
 <link rel="stylesheet" href="/themes/frontend/assets/css/custom.css">
 <link rel="stylesheet" href="/themes/frontend/assets/css/new_custom.css">
+<link rel="stylesheet" href="/themes/frontend/assets/css/style_dd.css">
 <script src="/themes/frontend/assets/js/vendor/modernizr-2.8.3.min.js"></script>
-<script src="/themes/frontend/assets/js/cardcheck.min.js"></script><script type="text/javascript">
+<script src="/themes/frontend/assets/js/cardcheck.min.js"></script>
+
+<!-- Color Box Start -->
+<link rel="stylesheet" href="/themes/frontend/assets/colorbox/colorbox.css">
+<script type="text/javascript" src="/themes/frontend/assets/colorbox/jquery.colorbox-min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function(){
+        $(".iframe").colorbox({iframe:true, width:"80%", height:"80%"});
+    });
+</script>
+<!-- Color Box End -->
+
+<style>
+.headline {
+	margin-bottom: 0;
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover
+}
+.headline.cloud-introduction{
+	height:400px;
+}
+.headline.cloud-introduction canvas.particles-js-canvas-el {
+	display: block;
+	position: absolute;
+	top: 0;
+	height: 500px;
+	z-index: 0
+}
+.particles_content{
+	position:relative;
+	z-index:22;
+}
+.domains{
+    position: relative;
+    z-index: 1;
+}
+@media (min-width: 320px) and (max-width: 720px) {
+.cloud-introduction {
+    height: 487px !important;
+}	
+}
+</style><script type="text/javascript">
 <!--
  var LiveHelpSettings = {};
- LiveHelpSettings.server = 'www.aryanict.com/hub/modules';
+ LiveHelpSettings.server = 'hub.aryanict.com/modules';
  LiveHelpSettings.embedded = true;
 
  (function(d, undefined) {
@@ -61,8 +104,10 @@
                                 <!-- HEADER TOP MENU -->
                 <div class="header-top-menu hidden-xs">
                                             <ul class="topmenu">
-                                                            <li><a href="https://www.aryanict.com/hub/cart.php?a=view">View Cart</a></li>
-                                                    </ul>
+                            <li>                    	
+<a href="https://hub.aryanict.com/cart.php?a=view" <b="">View Cart ( 0 )</a></li><a href="https://hub.aryanict.com/cart.php?a=view" <b="">
+</a>
+                        </ul>
                                     </div>
                 <!-- HEADER TOP MENU -->
                 <!-- MOBILE Top MENU -->                    
@@ -73,11 +118,11 @@
                 <div class="clearfix hidden-md hidden-lg">&nbsp;</div>
                 <div class="row hmgd">
                     <div class="col-md-4 col-sm-4 col-xs-5 hidden-xs"></div>
-                    <div class="col-md-4 col-sm-4 col-xs-6 flink">
-                    				
+                    <div class="col-md-4 col-sm-6 col-xs-6 flink">
+                    	<a class="header-login" href="https://www.aryanict.com/servlet/register.jsp" title="Create Account">Create Account</a>			
                     </div>
-                    <div class="col-md-4 col-sm-4 col-xs-6 slink">
-                    				
+                    <div class="col-md-4 col-sm-6 col-xs-6 slink">
+                    	<a class="header-login" href="https://www.aryanict.com/servlet/login.jsp" title="Client Login">Client Login</a>			
                     </div>
                     
                 </div>
@@ -86,15 +131,20 @@
     </div>
 </div>
 <script type="text/javascript">
-			$(document).ready(function(){
-				$.get("https://www.aryanict.com/hub/login_status2.php", {f: '1'}, function(data){
-				$('.flink').html(data);
-				});
-				$.get("https://www.aryanict.com/hub/login_status.php", {f: '1'}, function(data){
-				$('.slink').html(data);
-				});
-			});
-			</script>            <!-- HEADER TOP -->
+	$(document).ready(function(){
+	    var hublogin = "";
+	    /*$.post("https://hub.aryanict.com/userlogintest.php", {uid: hublogin}, function(data){
+		    $('.flink').html(data);
+		});*/
+		/*$.get("https://hub.aryanict.com/login_status.php", {f: '1', uid: hublogin}, function(data){
+		    $('.slink').html(data);
+		});
+	    
+		$.get("https://hub.aryanict.com/login_status2.php", {f: '1', uid: hublogin}, function(data){
+		    $('.flink').html(data);
+		});*/
+	});
+</script>            <!-- HEADER TOP -->
 
             <!-- HEADER -->
             <div class="header">
@@ -115,6 +165,8 @@
         <!-- <div class="navbar-collapse collapse" id="navbar-collapse-1">-->
         <ul class="nav navbar-nav navbar-right">
             <!-- Classic list -->
+                            <li><a class="mainmenu-btn mainmenu-btn-no-arr" href="https://www.aryanict.com/domain-pricing-in-afghanistan">Domains</a>
+                                </li>
                             <li><a class="mainmenu-btn mainmenu-btn-no-arr" href="https://www.aryanict.com/web-hosting-in-afghanistan">Web Hosting</a>
                                 </li>
                             <li><a class="mainmenu-btn mainmenu-btn-no-arr" href="https://www.aryanict.com/reseller-hosting-in-afghanistan">Reseller Hosting</a>
@@ -123,8 +175,8 @@
                                 </li>
                             <li><a class="mainmenu-btn mainmenu-btn-no-arr" href="https://www.aryanict.com/dedicated-server-in-afghanistan">Dedicated Servers</a>
                                 </li>
-                            <li><a class="mainmenu-btn mainmenu-btn-no-arr" href="#">Stream</a>
-                <ul style="top: 42px; display: none; visibility: visible;"><li><a href="https://www.aryanict.com/radio-streaming-in-afghanistan">Radio Streaming</a></li><li><a href="https://www.aryanict.com/tv-streaming-in-afghanistan">Live TV Streaming</a></li></ul>                </li>
+                            <li><a class="mainmenu-btn mainmenu-btn-no-arr" href="#">Services</a>
+                <ul style="top: 42px; display: none; visibility: visible;"><li><a href="https://www.aryanict.com/radio-streaming-in-afghanistan">Radio Streaming</a></li><li><a href="https://www.aryanict.com/tv-streaming-in-afghanistan">Live TV Streaming</a></li><li><a href="https://www.aryanict.com/email-hosting-in-afghanistan">Hosted Exchange Email</a></li><li><a href="https://www.aryanict.com/email-marketing-in-afghanistan">Email Marketing</a></li><li><a href="https://www.aryanict.com/ssl-certificates-in-afghanistan">SSL Certificates</a></li><li><a href="https://www.aryanict.com/sms-gateway-in-afghanistan">SMS Gateway</a></li><li><a href="https://www.aryanict.com/g-suite-pricing-afghanistan">G Suite from Google</a></li><li><a href="https://www.aryanict.com/cpanel-server-management-in-afghanistan">cPanel Server Management</a></li><li><a href="https://www.aryanict.com/services-addons">Add-On Software</a></li><li><a href="https://www.aryanict.com/web-development-in-kabul-afghanistan">Web Development</a></li></ul>                </li>
                             <li><a class="mainmenu-btn mainmenu-btn-no-arr" href="https://www.aryanict.com/contact">Contact Us</a>
                                 </li>
                     </ul>
@@ -143,7 +195,9 @@
     <div class="mobi-menu">
         <div id="cssmenu">
             <ul>
-                                <li><a href="https://www.aryanict.com/web-hosting-in-afghanistan" style="text-shadow: rgba(0, 0, 0, 0.35) 0px 1px 1px;"><span style="border-color: rgba(0, 0, 0, 0.35);">Web Hosting</span></a>
+                                <li><a href="https://www.aryanict.com/domain-pricing-in-afghanistan" style="text-shadow: rgba(0, 0, 0, 0.35) 0px 1px 1px;"><span style="border-color: rgba(0, 0, 0, 0.35);">Domains</span></a>
+                                </li>
+                            <li><a href="https://www.aryanict.com/web-hosting-in-afghanistan" style="text-shadow: rgba(0, 0, 0, 0.35) 0px 1px 1px;"><span style="border-color: rgba(0, 0, 0, 0.35);">Web Hosting</span></a>
                                 </li>
                             <li><a href="https://www.aryanict.com/reseller-hosting-in-afghanistan" style="text-shadow: rgba(0, 0, 0, 0.35) 0px 1px 1px;"><span style="border-color: rgba(0, 0, 0, 0.35);">Reseller Hosting</span></a>
                                 </li>
@@ -151,8 +205,8 @@
                                 </li>
                             <li><a href="https://www.aryanict.com/dedicated-server-in-afghanistan" style="text-shadow: rgba(0, 0, 0, 0.35) 0px 1px 1px;"><span style="border-color: rgba(0, 0, 0, 0.35);">Dedicated Servers</span></a>
                                 </li>
-                            <li class="has-sub"><a href="#" style="text-shadow: rgba(0, 0, 0, 0.35) 0px 1px 1px;"><span style="border-color: rgba(0, 0, 0, 0.35);">Stream</span><span class="holder" style="border-color: rgba(0, 0, 0, 0.35);"></span></a>
-                <ul><li><a href="https://www.aryanict.com/radio-streaming-in-afghanistan">Radio Streaming</a></li><li><a href="https://www.aryanict.com/tv-streaming-in-afghanistan">Live TV Streaming</a></li></ul>                </li>
+                            <li class="has-sub"><a href="#" style="text-shadow: rgba(0, 0, 0, 0.35) 0px 1px 1px;"><span style="border-color: rgba(0, 0, 0, 0.35);">Services</span><span class="holder" style="border-color: rgba(0, 0, 0, 0.35);"></span></a>
+                <ul><li><a href="https://www.aryanict.com/radio-streaming-in-afghanistan">Radio Streaming</a></li><li><a href="https://www.aryanict.com/tv-streaming-in-afghanistan">Live TV Streaming</a></li><li><a href="https://www.aryanict.com/email-hosting-in-afghanistan">Hosted Exchange Email</a></li><li><a href="https://www.aryanict.com/email-marketing-in-afghanistan">Email Marketing</a></li><li><a href="https://www.aryanict.com/ssl-certificates-in-afghanistan">SSL Certificates</a></li><li><a href="https://www.aryanict.com/sms-gateway-in-afghanistan">SMS Gateway</a></li><li><a href="https://www.aryanict.com/g-suite-pricing-afghanistan">G Suite from Google</a></li><li><a href="https://www.aryanict.com/cpanel-server-management-in-afghanistan">cPanel Server Management</a></li><li><a href="https://www.aryanict.com/services-addons">Add-On Software</a></li><li><a href="https://www.aryanict.com/web-development-in-kabul-afghanistan">Web Development</a></li></ul>                </li>
                             <li><a href="https://www.aryanict.com/contact" style="text-shadow: rgba(0, 0, 0, 0.35) 0px 1px 1px;"><span style="border-color: rgba(0, 0, 0, 0.35);">Contact Us</span></a>
                                 </li>
                         </ul>
@@ -176,7 +230,8 @@
                     <h1>Privacy Policy</h1>
                 </div>
                 <div class="clear-fix">&nbsp;</div>
-                <div class="col-md-12" style="text-align: justify">
+                        
+                <div class="col-md-12" style="text-align: justify;">
                     Our privacy policy is displayed below. This Privacy Policy governs the manner in which AryanIct collects, uses, maintains and discloses information collected from users of her websites. <strong>By becoming a customer you acknowledge to have read this privacy policy and agree to it.</strong><br>
 <br>
 <strong>Effective January 1, 2011</strong><br>
@@ -251,13 +306,13 @@ If you have any questions about our Privacy Policy, or if you want to know what 
                                             <div class="col-md-4 col-sm-6 col-xs-12 footer-widget">
                             <ul>
                                                                                                             <li class="footermenu-head">Our Services</li>
-                                                                                                                <li><a href="https://www.aryanict.com/web-hosting-in-afghanistan">Web Hosting</a></li>
+                                                                                                                <li><a href="https://www.aryanict.com/domain-pricing-in-afghanistan">Domain Names</a></li>
+                                                                                    <li><a href="https://www.aryanict.com/web-hosting-in-afghanistan">Web Hosting</a></li>
                                                                                     <li><a href="https://www.aryanict.com/windows-hosting-in-afghanistan">Windows Hosting</a></li>
                                                                                     <li><a href="https://www.aryanict.com/reseller-hosting-in-afghanistan">Reseller Hosting</a></li>
                                                                                     <li><a href="https://www.aryanict.com/windows-reseller-hosting-in-afghanistan">Windows Reseller Hosting</a></li>
                                                                                     <li><a href="https://www.aryanict.com/vps-hosting-in-afghanistan">Virtual Private Servers</a></li>
                                                                                     <li><a href="https://www.aryanict.com/dedicated-server-in-afghanistan">Dedicated Servers</a></li>
-                                                                                    <li><a href="https://www.aryanict.com/hub/domainchecker.php">Domain Names</a></li>
                                                                                     <li><a href="https://www.aryanict.com/radio-streaming-in-afghanistan">Radio Streaming</a></li>
                                                                                     <li><a href="https://www.aryanict.com/tv-streaming-in-afghanistan">TV Streaming</a></li>
                                                                                     <li><a href="https://www.aryanict.com/email-hosting-in-afghanistan">Hosted Exchange Email</a></li>
@@ -265,20 +320,25 @@ If you have any questions about our Privacy Policy, or if you want to know what 
                                                                                     <li><a href="https://www.aryanict.com/web-development-in-kabul-afghanistan">Web Development</a></li>
                                                                                     <li><a href="https://www.aryanict.com/sms-gateway-in-afghanistan">SMS Gateway</a></li>
                                                                                     <li><a href="https://www.aryanict.com/g-suite-pricing-afghanistan">G Suite from Google</a></li>
+                                                                                    <li><a href="https://www.aryanict.com/email-marketing-in-afghanistan">Email Marketing</a></li>
+                                                                                    <li><a href="https://www.aryanict.com/cpanel-server-management-in-afghanistan">cPanel Server Management</a></li>
+                                                                                    <li><a href="https://www.aryanict.com/services-addons">Add-On Software</a></li>
                                     </ul>
                         </div>
                         
                                             <div class="col-md-4 col-sm-6 col-xs-12 footer-widget">
                             <ul>
                                                                                                             <li class="footermenu-head">Help and Support</li>
-                                                                                                                <li><a href="http://www.aryanict.com/hub/clientarea.php">Billing System</a></li>
-                                                                                                        <li><a href="https://www.aryanict.com/hub/submitticket.php">Ticket System</a></li>
-                                                                                                        <li><a href="http://www.aryanict.com/hub/knowledgebase.php">Knowledgebase</a></li>
-                                                                                                        <li><a href="http://www.aryanict.com/hub/knowledgebase/315/WHM-1134.html">WHM Video Tutorials</a></li>
-                                                                                                        <li><a href="http://www.aryanict.com/hub/knowledgebase/314/cPanel-1132-x3.html"> cPanel Video Tutorials</a></li>
+                                                                                                                <li><a href="https://hub.aryanict.com/">Billing System</a></li>
+                                                                                                        <li><a href="https://hub.aryanict.com/submitticket.php">Ticket System</a></li>
+                                                                                                        <li><a href="https://hub.aryanict.com/knowledgebase">Knowledgebase</a></li>
+                                                                                                        <li><a href="https://hub.aryanict.com/knowledgebase/315/WHM-1134.html">WHM Video Tutorials</a></li>
+                                                                                                        <li><a href="https://hub.aryanict.com/knowledgebase/314/cPanel-1132-x3.html"> cPanel Video Tutorials</a></li>
                                                                                                         <li><a href="https://www.aryanict.com/forums">Forums</a></li>
                                                                                                         <li><a href="callto:aict.me">Skype Support</a></li>
                                                                                                         <li><a href="https://www.aryanict.com/contact">Phone Support</a></li>
+                                                                                                        <li><a href="https://www.aryanict.com/whois.jsp">WHOIS</a></li>
+                                                                                                        <li><a href="https://www.aryanict.com/blacklist-check">IP Blacklist Check</a></li>
                                                         </ul>
                         </div>
                         
@@ -291,6 +351,8 @@ If you have any questions about our Privacy Policy, or if you want to know what 
                                                                                                         <li><a href="https://www.aryanict.com/blog/">Company Blog</a></li>
                                                                                                         <li><a href="https://www.aryanict.com/network">Network Datacenter</a></li>
                                                                                                         <li><a href="https://www.aryanict.com/guarantee">Our Guarantee</a></li>
+                                                                                                        <li><a href="https://noc-status.aryanict.com/">AICT NOC Status</a></li>
+                                                                                                        <li><a href="https://noc-monitor.aryanict.net/">AICT NOC Monitoring</a></li>
                                                                                                         <li><a href="https://www.aryanict.com/contact">Contact Us</a></li>
                                                         </ul>
                         </div>
@@ -301,9 +363,9 @@ If you have any questions about our Privacy Policy, or if you want to know what 
                                             <div class="col-md-4 col-sm-6 col-xs-12 footer-widget">
                             <ul>
                                                                                                             <li class="footermenu-head">Domains</li>
-                                                                                                        <li><a href="https://www.aryanict.com/hub/domainchecker.php">Register Domains</a></li>
-                                                                                                        <li><a href="https://www.aryanict.com/hub/cart.php?a=add&amp;domain=transfer">Transfer Domains</a></li>
-                                                                                                        <li><a href="https://www.aryanict.com/hub/register.php">Domain Reseller</a></li>
+                                                                                                        <li><a href="https://hub.aryanict.com/domainchecker.php">Register Domains</a></li>
+                                                                                                        <li><a href="https://hub.aryanict.com/cart.php?a=add&amp;domain=transfer">Transfer Domains</a></li>
+                                                                                                        <li><a href="https://hub.aryanict.com/register.php">Domain Reseller</a></li>
                                                         </ul>
                         </div>
                         
@@ -311,11 +373,11 @@ If you have any questions about our Privacy Policy, or if you want to know what 
                         <div class="col-md-4 col-sm-6 col-xs-12 footer-widget">
                             <ul>
                                                                                 <li class="footermenu-head">Our API</li>
-                                                                            <li><a href="http://www.aryanict.com/hub/knowledgebase/331/API-Introduction.html">Domain API Introduction</a></li>
-                                                                            <li><a href="http://www.aryanict.com/hub/knowledgebase/332/API-Actions.html">Domain API Actions</a></li>
+                                                                            <li><a href="https://hub.aryanict.com/knowledgebase/331/API-Introduction.html">Domain API Introduction</a></li>
+                                                                            <li><a href="https://hub.aryanict.com/knowledgebase/332/API-Actions.html">Domain API Actions</a></li>
                                                                             <li><a href="https://marketplace.whmcs.com/product/2010">WHMCS Registry Module</a></li>
-                                                                            <li><a href="https://www.aryanict.com/hub/knowledgebase/361/SMS-API-for-Softwares.html">SMS API for Softwares</a></li>
-                                                                            <li><a href="https://www.aryanict.com/hub/knowledgebase/353/SMS-API.html">SMS API for Web Applications</a></li>
+                                                                            <li><a href="https://hub.aryanict.com/knowledgebase/361/SMS-API-for-Softwares.html">SMS API for Softwares</a></li>
+                                                                            <li><a href="https://hub.aryanict.com/knowledgebase/353/SMS-API.html">SMS API for Web Applications</a></li>
                                                         </ul>
                         </div>
                         
@@ -340,6 +402,7 @@ If you have any questions about our Privacy Policy, or if you want to know what 
                         <div class="footertxt-phone"><a href="callto:+93 799 888 799">+93 799 888 799</a></div>
                         <div class="footertxt-phone"><a href="callto:+93 700 888 799">+93 700 888 799</a></div>
                         <div class="footertxt-phone"><a href="callto:+93 789 888 799">+93 789 888 799</a></div>
+                        <div class="footertxt-phone"><a href="callto:+93 748 888 799">+93 748 888 799</a></div>
                         <div class="footertxt-phone"><a href="callto:aict.me">Skype ID: aict.me</a></div>
                         <div class="footertxt-email"><a href="mailto:sales@aryanict.com">sales@aryanict.com</a></div>
                         <div class="clear"></div>
@@ -362,7 +425,7 @@ If you have any questions about our Privacy Policy, or if you want to know what 
                     </div>
                 </div>
                 <div class="col-md-12 footer-widget">
-                    <div class="footertxt-copy">© ARYAN ICT SOLUTIONS, 2006 – 2017.<br>All Rights Reserved.</div>
+                    <div class="footertxt-copy">© ARYAN ICT SOLUTIONS, 2006 – 2018.<br>All Rights Reserved.</div>
                 </div>
 
             </div>
@@ -383,7 +446,121 @@ If you have any questions about our Privacy Policy, or if you want to know what 
         </div>
     </div>
 </div>
-<!-- Copyright --></footer>
+<!-- Copyright -->
+
+<script src="/themes/frontend/assets/js/particles.js"></script>
+<script type="text/javascript">
+particlesJS("particles-js", {
+  "particles": {
+    "number": {
+      "value": 104,
+      "density": {
+        "enable": true,
+        "value_area": 800
+      }
+    },
+    "color": {
+      "value": "#ffffff"
+    },
+    "shape": {
+      "type": "edge",
+      "stroke": {
+        "width": 0,
+        "color": "#000000"
+      },
+      "polygon": {
+        "nb_sides": 5
+      },
+      "image": {
+        "src": "img/github.svg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    "opacity": {
+      "value": 0.5,
+      "random": false,
+      "anim": {
+        "enable": false,
+        "speed": 1,
+        "opacity_min": 0.1,
+        "sync": false
+      }
+    },
+    "size": {
+      "value": 5,
+      "random": true,
+      "anim": {
+        "enable": true,
+        "speed": 0,
+        "size_min": 1,
+        "sync": true
+      }
+    },
+    "line_linked": {
+      "enable": true,
+      "distance": 150,
+      "color": "#ffffff",
+      "opacity": 0.4,
+      "width": 1
+    },
+    "move": {
+      "enable": true,
+      "speed": 1,
+      "direction": "none",
+      "random": false,
+      "straight": false,
+      "out_mode": "out",
+      "bounce": false,
+      "attract": {
+        "enable": false,
+        "rotateX": 600,
+        "rotateY": 1200
+      }
+    }
+  },
+  "interactivity": {
+    "detect_on": "canvas",
+    "events": {
+      "onhover": {
+        "enable": false,
+        "mode": "repulse"
+      },
+      "onclick": {
+        "enable": false,
+        "mode": "push"
+      },
+      "resize": true
+    },
+    "modes": {
+      "grab": {
+        "distance": 400,
+        "line_linked": {
+          "opacity": 1
+        }
+      },
+      "bubble": {
+        "distance": 400,
+        "size": 40,
+        "duration": 2,
+        "opacity": 8,
+        "speed": 3
+      },
+      "repulse": {
+        "distance": 200,
+        "duration": 0.4
+      },
+      "push": {
+        "particles_nb": 4
+      },
+      "remove": {
+        "particles_nb": 2
+      }
+    }
+  },
+  "retina_detect": true
+});var count_particles, stats, update; stats = new Stats; stats.setMode(0); stats.domElement.style.position = 'absolute'; stats.domElement.style.left = '0px'; stats.domElement.style.top = '0px'; document.body.appendChild(stats.domElement); count_particles = document.querySelector('.js-count-particles'); update = function() { stats.begin(); stats.end(); if (window.pJSDom[0].pJS.particles && window.pJSDom[0].pJS.particles.array) { count_particles.innerText = window.pJSDom[0].pJS.particles.array.length; } requestAnimationFrame(update); }; requestAnimationFrame(update);;
+</script></footer>
     <!-- Footer -->
 
     <script type="text/javascript" src="/themes/frontend/assets/js/jquery-ui.js"></script>
@@ -414,4 +591,4 @@ If you have any questions about our Privacy Policy, or if you want to know what 
 </script>
     
 
-</body></html>
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button type="button" id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div></body></html>
