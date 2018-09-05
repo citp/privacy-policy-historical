@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anguilla-beaches.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112235513id_/http%3A//www.anguilla-beaches.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anguilla-beaches.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905153315id_/https%3A//www.anguilla-beaches.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,7 +45,7 @@ If Anguilla-Beaches.Com is sold, the information we have obtained from you throu
 
 ## How You Can Correct or Remove Information
 
-We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, [please click on this link and/or use our Contact Us page](http://www.anguilla-beaches.com/contact-me.html). 
+We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, [please click on this link and/or use our Contact Us page](https://www.anguilla-beaches.com/contact-me.html). 
 
 ## Updates and Effective Date
 
