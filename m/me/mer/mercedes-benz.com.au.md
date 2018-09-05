@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mercedes-benz.com.au privacy policy that was archived on 2018-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180324234908id_/https%3A//www.mercedes-benz.com.au/passengercars/content-pool/tool-pages/footer-legal-links/privacy-policy.popup.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercedes-benz.com.au privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905042132id_/https%3A//www.mercedes-benz.com.au/passengercars/content-pool/tool-pages/footer-legal-links/privacy-policy.html) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 Mercedes-Benz Australia/Pacific Pty Ltd (ACN 004 411 410) (“we”, “us” or “our”) knows that our use, collection and protection of your personal information is important. We respect your personal information and privacy and are committed to keeping your personal information safe.
 
@@ -50,7 +50,7 @@ We collect information reasonably necessary for or directly related to one or mo
 
   * from third party roadside assistance service providers;  
 
-  * via our websites;  
+  * via our website, customer portal or apps;  
 
   * when you attend a product focus group or review a product;  
 
