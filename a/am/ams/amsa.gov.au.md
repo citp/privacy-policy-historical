@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amsa.gov.au privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319143657id_/https%3A//www.amsa.gov.au/about-us/who-we-are/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amsa.gov.au privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905032036id_/https%3A//www.amsa.gov.au/about-us/who-we-are/privacy) for the most accurate reproduction.*
 
 # Privacy
 
