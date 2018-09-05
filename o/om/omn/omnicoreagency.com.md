@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omnicoreagency.com privacy policy that was archived on 2017-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170724094635id_/https%3A//www.omnicoreagency.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omnicoreagency.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905172203id_/https%3A//www.omnicoreagency.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ The mere act of visiting the website, even without reading the subject legal doc
 
 ## What Information do we collect During Your Visit?
 
-Omnicore Agency utilizes Google Analytics and other Analytics tools to track visitors activity for better user experience. Omnicore Agency has enabled Google Analytics features such as: including features such as display advertising, remarketing, and Google Analytics Demographics and Interest reporting. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads). Users may opt out of Google’s use of cookies by visiting the our [Cookies opt-out policy page](http://hafiz786.wpengine.com/browser-cookies-settings) for all browsers with complete instructions.
+Omnicore Agency utilizes Google Analytics and other Analytics tools to track visitors activity for better user experience. Omnicore Agency has enabled Google Analytics features such as: including features such as display advertising, remarketing, and Google Analytics Demographics and Interest reporting. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads). Users may opt out of Google’s use of cookies by visiting our [Cookies opt-out policy page](http://hafiz786.wpengine.com/browser-cookies-settings) for all browsers with complete instructions.
 
 ## How Cookies Work
 
@@ -14,7 +14,7 @@ A “cookie” is a small text file that a web site can place on your computer�
 
 ##  The Type of Information the Website Collects
 
-**a).** We request information from the customer on all forms on our website. For instance, when you fill out a form, complete a survey, make a purchase, subscribe to any of our publications, register for certain services, or register and/or set up an account to access certain portions of the Website, or the Website as a whole, you may provide a credit, debit, or charge card number, or other payment information such as your name, telephone number, email, street address, age, gender, mobile phone number, and other personally identifiable information. You may also be provide information about your company such as your position/title, customer demographics, budget preferences, size of company, and other information regarding your job and company so we can better cater to your needs. All such information shall be referred to in this Privacy Policy as your “Registration Information”. **b.)**  Our servers may also automatically collect information about you, your online behavior and the device from which you access the Website. The information collected may include the make, model, settings, specifications, and geographic location of your device, as well as clickstream data related to your online behavior. This information is primarily used to provide insight into our audience’s preferences and how we can best cater to these preferences.
+**a).** We request information from the customer on all forms on our website. For instance, when you fill out a form, complete a survey, make a purchase, subscribe to any of our publications, register for certain services, or register and/or set up an account to access certain portions of the Website, or the Website as a whole, you may provide a credit, debit, or charge card number, or other payment information such as your name, telephone number, email, street address, age, gender, mobile phone number, and other personally identifiable information. You may also provide information about your company such as your position/title, customer demographics, budget preferences, size of company, and other information regarding your job and company so we can better cater to your needs. All such information shall be referred to in this Privacy Policy as your “Registration Information”. **b.)**  Our servers may also automatically collect information about you, your online behavior and the device from which you access the Website. The information collected may include the make, model, settings, specifications, and geographic location of your device, as well as clickstream data related to your online behavior. This information is primarily used to provide insight into our audience’s preferences and how we can best cater to these preferences.
 
 ## How the Website Uses and Shares Information About You
 
@@ -46,7 +46,7 @@ Any personally identifiable information or personally sensitive data that you di
 
 ## Social Sharing Cookies
 
-On our blog we use social sharing buttons for services including, but not limited to, Twitter, LinkedIn, Share This, Google+ and Facebook. These allow you to share pages with your friends via those networks. Whilst you will be asked to login to use these services, this process is handled directly with the social sharing providers and their databases and servers. These sites may also monitor your usage of these buttons, through the use of external tracking codes that are required to run the buttons on this website.
+On our blog, we use social sharing buttons for services including, but not limited to, Twitter, LinkedIn, Share This, Google+ and Facebook. These allow you to share pages with your friends via those networks. Whilst you will be asked to login to use these services, this process is handled directly with the social sharing providers and their databases and servers. These sites may also monitor your usage of these buttons, through the use of external tracking codes that are required to run the buttons on this website.
 
 ## Children’s Online Privacy Protection
 
@@ -58,11 +58,11 @@ We reserve the right to access, use, and share with others your personally ident
 
 ## Notification of Changes
 
-We reserve the right, at any time and without notice, to add to, update, change, modify or revise this Privacy Statement, the Site or our services simply by posting such change, update or modification on the Site. Any such addition, update, change, modification or revision will be effective immediately upon posting therefore this document should be regularly referred to for updates and variations.
+We reserve the right, at any time and without notice, to add to, update, change, modify or revise this Privacy Statement, the Site or our services simply by posting such change, update or modification on the Site. Any such addition, update, change, modification or revision will be effective immediately upon posting, therefore, this document should be regularly referred to for updates and variations.
 
 ## Refund Policy
 
-All payments made for services are final as agreed upon in the client contract form. Payments are only requested when client agrees on the project deliverables and the scope of work which means Omnicore reserves the right to keep any funds that have been paid for the consultation and services we offer.
+All payments made for services are final as agreed upon in the client contract form. Payments are only requested when the client agrees on the project deliverables and the scope of work which means Omnicore reserves the right to keep any funds that have been paid for the consultation and services we offer.
 
 ## **Amazon Affiliate Program Disclaimer**
 
@@ -76,4 +76,4 @@ All Amazon markings and logos are the exclusive trademarks and property of Amazo
 
 Omnicore Agency welcomes feedback regarding this Policy. If you have any questions or concerns about the scope, provisions or application of this policy please contact Omnicore Agency and we will use all commercially reasonable efforts to promptly determine and correct the problem. Omnicore Agency,
 
-London, United Kingdom +44 (208) 133-8513    Lahore, Pakistan \+ 92 (321) 786-6607 info [at] omnicoreagency.com
+London, United Kingdom +44 (208) 133-8513  info [at] omnicoreagency.com
