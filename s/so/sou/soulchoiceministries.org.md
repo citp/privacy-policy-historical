@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soulchoiceministries.org privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204130624id_/https%3A//soulchoiceministries.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soulchoiceministries.org privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906010542id_/https%3A//soulchoiceministries.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Soul Choice Ministries
 
