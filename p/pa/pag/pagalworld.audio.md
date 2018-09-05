@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagalworld.audio privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620081237id_/http%3A//pagalworld.audio/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagalworld.audio privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906011412id_/https%3A//pagalworld.audio/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy For Pagalworld.Audio
 
@@ -15,4 +15,4 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-**pagalworld.audio@gmail.com**
+**[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)**
