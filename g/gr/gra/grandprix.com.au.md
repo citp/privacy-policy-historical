@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grandprix.com.au privacy policy that was archived on 2018-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180320044334id_/https%3A//www.grandprix.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandprix.com.au privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905235551id_/https%3A//www.grandprix.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Formula 1® Australian Grand Prix
 
@@ -137,29 +137,29 @@ Version 16.1
 
 Reviewed 2 November 2016
 
-  * Exclusive blog: Craig Lowndes shares his secrets 
+  * Barely legal to drive but Formula One are taking a chance on teenage talent 
 
-From sacrifice, dedication and focus, physical and mental fitness to a healthy diet, the road to motorsport glory is full of twists and turns. Just... 
+They are barely legal to drive on the roads but Formula One has seen a growing trend for teams putting their faith in teenage talent. Lando Norris,... 
 
-[Read More](https://web.archive.org/fan-zone/news/exclusive-blog-craig-lowndes-shares-his-secrets "Read More")
+[Read More](https://web.archive.org/fan-zone/news/barely-legal-drive-formula-one-are-taking-chance-teenage-talent "Read More")
 
-  * McLaren issues 'have been addressed' ahead of F1 season opener 
+  * Vettel and Ferrari left to rue Monza own goal 
 
-McLaren's racing director Eric Boullier says the team have resolved the issues that blighted their pre-season testing as Formula One gears up for the... 
+Given the resurgence of Ferrari in 2018, the famously passionate tifosi at Monza could have been forgiven for approaching Sunday's Italian Grand Prix... 
 
-[Read More](https://web.archive.org/fan-zone/news/mclaren-issues-have-been-addressed-ahead-f1-season-opener "Read More")
+[Read More](https://web.archive.org/fan-zone/news/vettel-and-ferrari-left-rue-monza-own-goal "Read More")
 
-  * F1 2018 pre-season report: Mercedes 
+  * McLaren complete 2019 driver line-up with teenager 
 
-Ahead of the opening race of the 2018 Formula One season in Australia on March 25, we take a look at how each team is shaping up for the new... 
+Teenager Lando Norris will join Carlos Sainz Jr at McLaren from the 2019 Formula One season. Norris, who turns 19 in November, will take the seat... 
 
-[Read More](https://web.archive.org/fan-zone/news/f1-2018-pre-season-report-mercedes "Read More")
+[Read More](https://web.archive.org/fan-zone/news/mclaren-complete-2019-driver-line-teenager "Read More")
 
-  * F1 2018: Best Opta facts ahead of the new season 
+  * Vandoorne to leave McLaren after 2018 season 
 
-The 2018 Formula One season is just around the corner and there is plenty at stake beyond the drivers' and constructors' titles. While Lewis Hamilton... 
+Stoffel Vandoorne will leave McLaren at the end of the Formula One season. The Belgian, who joined the team's young driver programme in 2013, made... 
 
-[Read More](https://web.archive.org/fan-zone/news/f1-2018-best-opta-facts-ahead-new-season "Read More")
+[Read More](https://web.archive.org/fan-zone/news/vandoorne-leave-mclaren-after-2018-season "Read More")
 
 
 
