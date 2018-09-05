@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artifactuprising.com privacy policy that was archived on 2017-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170227140955id_/https%3A//www.artifactuprising.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artifactuprising.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905234206id_/https%3A//www.artifactuprising.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Artifact Uprising
 
@@ -51,7 +51,7 @@ HOW WE MAY SHARE Information WE COLLECT
 
 Your Personal Information may be disclosed:
 
-  * To our affiliates, including VSCO (vsco.co), for the purposes described in this Privacy Policy.
+  * To our affiliates, for the purposes described in this Privacy Policy.
   * To our third party service providers who provide services such as website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, credit card processing, auditing and other similar services.
   * To third-party sponsors of sweepstakes, contests and similar promotions.
   * To identify you to anyone to whom you send messages through the Services.
@@ -155,4 +155,4 @@ If you have any questions about this Privacy Policy, please contact us by email 
 
 Please note that email communications are not always secure; so please do not include credit card information or sensitive information in your emails to us.
 
-This Agreement was last modified on August 10th, 2015
+This Agreement was last modified on August 30th, 2017
