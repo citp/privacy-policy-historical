@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anytimemailbox.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226101603id_/https%3A//www.anytimemailbox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anytimemailbox.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905231157id_/http%3A//www.anytimemailbox.com/privacy) for the most accurate reproduction.*
 
-# Anytime Mailbox® Privacy Policy
+# Privacy Policy | Anytime Mailbox
 
 Last Revision: November 1, 2015
 
@@ -20,7 +20,7 @@ ATMB may change this Privacy Policy at any time by posting the revised policy on
 
 **5\. Sharing of Information Collected.** We may share the information that we collect from and about you in a variety of ways, as follows: 
 
-  * Partners. We may share Personally Identifiable Information as well as Non-Personally Identifiable Information (e.g., via cookies) with partners who choose to list their goods, services or promotions on the Site, or with whom we affiliate in order to provide you with certain services. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies.
+  * Partners. We may share Personally Identifiable Information as well as Non-Personally Identifiable Information (e.g., via cookies) with partners who choose to list their goods, services or promotions on the Site, or with whom we affiliate in order to provide you with certain services. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies. 
   * Third Party Vendors. We employ third party vendors and service providers to assist us in developing, hosting and maintaining our Site and databases, advertising, sending and receiving email and other communications, and analyzing data. These third parties may have access to Personally Identifiable Information as reasonably necessary to perform these services, but they are not allowed to use that information except for the purposes of providing these services for us. 
 
 
