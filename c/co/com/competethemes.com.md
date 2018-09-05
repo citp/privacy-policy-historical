@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the competethemes.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221222405id_/https%3A//www.competethemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the competethemes.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905171636id_/https%3A//www.competethemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Compete Themes
 
@@ -10,11 +10,11 @@ When you visit our website you may provide us with two types of information: per
 
 ### 1\. PERSONAL INFORMATION YOU CHOOSE TO PROVIDE
 
-**Registration Information**
+ **Registration Information**
 
 You will provide us information about yourself, your firm or company, and your practices when you purchase Compete Themes products and services or register for email newsletters and alerts.
 
-**Email Information**
+ **Email Information**
 
 If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses.
 
