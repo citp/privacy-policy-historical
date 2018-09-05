@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awesem.co.uk privacy policy that was archived on 2017-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170716061335id_/https%3A//www.awesem.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awesem.co.uk privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906011242id_/https%3A//www.awesem.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AWESEM
 
@@ -50,9 +50,26 @@ _utmc | Holds timestamp of the exact moment in time when a visitor leaves the si
 _utmb | Holds timestamp of the exact moment in time when a visitor first visits the site  
 _utma | This cookie keeps track of the number of times a visitor has been to the site, when their first visit was, and when their last visit occurred.  
   
+### HubSpot
+
+**Cookie name** | **Description**  
+---|---  
+__hstc | HubSpot’s main cookie for tracking site visitors. It contains the domain, utk, initial timestamp (first visit) last timestamp (last visit), current timestamp (this visit) and session number (increments for each session). (Expires: 2 years)  
+__hssc | This cookie tracks sessions and is used to determine whether session number and timestamps should be incremented in the __hstc cookie. It contains the domain, view count (increments each page view in a session) and session start timestamp. (Expires: 30 mins)  
+__hssrc | When HubSpot changes the session cookie, this cookie is set. It is used to determine if a user has restarted their browser. (Expires: N/A, session cookie)  
+hubspotutk | This cookie tracks a visitor’s identity and is passed to HubSpot on form submissions and used to de-duplicate contacts. (Expires: 10 years)  
+hsfirstvisit | This cookie used to keep track of a user’s first visit. (Expires: 10 years)  
+  
+### CloudFlare
+
+**Cookie name** | **Description**  
+---|---  
+__cfduid | The __cfduid cookie is used to identify individual clients behind a shared IP address and apply security settings on a per-client basis. For example, if the visitor is in a coffee shop where there are a bunch of infected machines, but the specific visitor’s machine is trusted (e.g. because they’ve completed a challenge within your Challenge Passage period), the cookie allows us to identify that client and not challenge them again. It does not correspond to any user ID in your web application, and does not store any personally identifiable information.  
+|   
+  
 ### Google Adwords and Remarketing
 
-We use [Google Adwords](http://www.google.co.uk/adwords/) to advertise our services using keywords and website placements. We also use [Google Remarketing](http://www.google.co.uk/ads/innovations/remarketing.html) to advertise online and display adverts to our audience via the [Google Display Network](http://www.google.co.uk/ads/displaynetwork/). This means that our ads might be shown to you when you visit third-party sites, including Google and cookies are used to serve these ads based on past site visits. You can opt out of this by visiting [Google’s Ads Settings](https://support.google.com/ads/answer/2662922?hl=en-GB).
+We use [Google Adwords](https://www.google.co.uk/adwords/) to advertise our services using keywords and website placements. We also use [Google Remarketing](https://www.google.co.uk/ads/innovations/remarketing.html) to advertise online and display adverts to our audience via the [Google Display Network](https://www.google.co.uk/ads/displaynetwork/). This means that our ads might be shown to you when you visit third-party sites, including Google and cookies are used to serve these ads based on past site visits. You can opt out of this by visiting [Google’s Ads Settings](https://support.google.com/ads/answer/2662922?hl=en-GB).
 
 ## USES MADE OF THE INFORMATION
 
