@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the visions.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606081331id_/http%3A//www.visions.ca/Pages/Default.aspx%3FcontentId%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visions.ca privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905221039id_/https%3A//www.visions.ca/info/privacy) for the most accurate reproduction.*
 
-# Visions Electronics
+# Privacy Policy | Visions Electronics
 
 ****Introduction:**** ** ******
 
@@ -48,6 +48,6 @@ Our website also makes use of Cookies. Cookies are small bits of computer inform
 
 Our website may contain links to other websites. If you click on one of these links, you are leaving Visions Electronics website, and will be accessing a website belonging to a 3rd party. Visions Electronics has no responsibility for, or control over, those websites. We encourage you to read and understand the privacy policies of those other sites prior to use, to ensure you are comfortable with how they collect and use information about you.
 
-Updated Aug 30, 2007.  
+Updated Aug 9, 2017.  
   
 
