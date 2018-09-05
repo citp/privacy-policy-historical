@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shivtr.com privacy policy that was archived on 2018-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180331122956id_/http%3A//shivtr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shivtr.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905222637id_/https%3A//shivtr.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Shivtr
 
