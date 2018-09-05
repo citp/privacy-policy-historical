@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagelines.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520215917id_/https%3A//www.pagelines.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagelines.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905160953id_/https%3A//www.pagelines.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy - PageLines
 
