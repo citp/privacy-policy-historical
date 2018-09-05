@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vlshomes.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627013949id_/http%3A//www.vlshomes.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vlshomes.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905220920id_/https%3A//www.vlshomes.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
