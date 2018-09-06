@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meyouhealth.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019022540id_/https%3A//account.meyouhealth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meyouhealth.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906030706id_/https%3A//account.meyouhealth.com/privacy) for the most accurate reproduction.*
 
 # MeYou Health Account
 
