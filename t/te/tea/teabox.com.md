@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teabox.com privacy policy that was archived on 2017-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170718061034id_/https%3A//www.teabox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teabox.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906184110id_/https%3A//www.teabox.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Our Privacy Policy - Teabox
+# Teabox Privacy Policy
 
   
 Teabox.com is committed to protecting the privacy of visitors to this site (the "Site"). At Teabox.com, we want you to have an enjoyable shopping experience. And while it is necessary for us to collect certain personal information, we respect and protect your right to privacy as set forth in this Privacy Policy. This Privacy Policy applies to the Site. This Privacy Policy does not apply to other web sites to which we link. 
