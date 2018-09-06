@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donkparty.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620123325id_/http%3A//donkparty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donkparty.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906222658id_/http%3A//donkparty.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
