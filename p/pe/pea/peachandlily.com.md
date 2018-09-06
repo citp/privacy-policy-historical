@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the peachandlily.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606095734id_/http%3A//peachandlily2.myshopify.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peachandlily.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906151015id_/http%3A//peachandlily2.myshopify.com/pages/privacy) for the most accurate reproduction.*
 
-# PRIVACY - Peach & Lily
+# Privacy - Peach & Lily
 
-**Introduction**
+**INTRODUCTION**
 
 Thank you for visiting the Peach and Lily website. Peach and Lily, Inc. (“Peach and Lily,” “we,” “us,” or “our”) is committed to protecting your privacy.
 
@@ -10,71 +10,80 @@ We at Peach and Lily created this privacy policy (“Privacy Policy”) because 
 
 By visiting our Site and/or using our Service, you are agreeing to the terms of this Privacy Policy and the accompanying Terms of Use. Capitalized terms not defined in this Privacy Policy shall have the meaning set forth in our Terms of Use.
 
-**Information We Collect    **
+**PERSONAL INFORMATION WE COLLECT**
 
-We do not collect any personal information from you unless you voluntarily provide it to us. The information that we may collect on the Site allows us to improve your shopping experience by catering to your personal preferences.
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
 
-When you sign up to become a Registered User, you will be asked to provide us with certain personal information, such as your name, email address, postal address, credit card and other payment related information. In this Privacy Policy, we refer to all of this information as “Personal Information.”
+We collect Device Information using the following technologies:
 
-Like most web sites, we use automatic data collection technology when you visit our Site to record information that identifies your computer, to track your use of our Site, and to collect certain basic information about you and your surfing habits. This information includes information about your operating system, your IP addresses, browser type and language, referring and exit pages and URLs, keywords, date and time, amount of time spent on particular pages, what sections of a website you visit, and similar information concerning your use of the Site and the Service (the “Usage Information”). 
-
-We may collect this Usage Information by using cookies. Cookies are small packets of data that a web site stores on your computer’s hard drive so that your computer will “remember” information about your visit. You can reject cookies by following the directions provided in your Internet provider’s “help” file.  If you reject cookies, you may still visit the Site, but may not be able to use some areas of the Site and/or the Service.
-
-We do not collect personally identifying information in this way, but if you’ve provided us with personally identifying information we may associate that information with the information that is collected automatically. Automatic data collection may be performed on our behalf by our services providers.
-
-**How We Use Your Information**
-
-We may use your Personal Information and the Usage Information in a manner that is consistent with this Privacy Policy and the context of our relationship with you. We will use the personally identifying information collected on this Site for the following purposes:
-
-  1. To respond to your requests and to provide you with the Service;
-  2. To respond to your inquiries and contact you about changes to this Site;
-  3. To send you notices (for example, in the form of e-mails, mailings, and the like) regarding products or services you are receiving, and for billing and collection purposes;
-  4. For any other purposes disclosed at the time the information is collected or to which you consent; and
-  5. As otherwise specifically described in this Privacy Policy.
+  * “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
+  * “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
+  * “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
 
 
 
+Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers), email address, and phone number.  We refer to this information as “Order Information.”
 
-We may also use your information to improve our Site, and may use cookies and other information to enable us to customize your user experience. 
+When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
 
-We may also share personal information, demographic information, and purchase history that you provide to Peach and Lily with our strategic partners, such as suppliers and distributors, in order to select the best products for you and our customers. Any strategic partners that are given access to your personal information is contractually obligated to maintain the confidentiality of the information shared with them and to strictly use the information to perform the services that we ask them to provide to us and you.
+**HOW DO WE USE YOUR PERSONAL INFORMATION?**
 
-We may provide aggregate statistics, which do not include personal information, about our customers, sales, traffic patterns and related Site information to reputable third party vendors. 
+We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations).  Additionally, we use this Order Information to:
 
-We, like many businesses, sometimes hire other companies to perform certain business-related functions.  Examples include mailing information, maintaining databases, hosting services, and processing payments.  When we employ another company to perform a function of this nature, we provide them with the information that they need to perform their specific function.  We require such third parties to maintain the confidentiality of such information and use such information only as necessary to provide us with designated services.
+  * Communicate with you;
+  * Screen our orders for potential risk or fraud; and
+  * When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.
 
-If we or all or substantially all of our assets are acquired, we expect that the information that we have collected, including personally identifying information, would be transferred along with our other business assets.
 
-We may disclose Personal Information and Usage Information to government authorities, and to other third parties when compelled to do so by government authorities, at our discretion, or otherwise as required by law, including but not limited to in response to court orders and subpoenas. We also may disclose Personal Information and the Usage Information when we have reason to believe that someone is or may be causing injury to or interference with our rights or property, other users of this Site, or anyone else that could be harmed by such activities.
 
-**How We Protect Your Information**
+We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
 
-We take commercially reasonable steps to protect the Personal Information and the Usage Information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. Please understand, however, that no security system is impenetrable. We cannot guarantee the security of our databases, nor can we guarantee that the information you supply will not be intercepted while being transmitted to and from us over the Internet. ****
+**SHARING YOUR PERSONAL INFORMATION**
 
-**Accessing and Modifying Account Information**
+We share your Personal Information with third parties to help us use your Personal Information, as described above.  
 
-You may update the information that is stored in your user account in by visiting www.peachandlily.com or by e-mailing us at info@peachandlily.com
+For example, we use Shopify to power our online store--you can read more about how Shopify uses your Personal Information here:  [https://www.shopify.com/legal/privacy](https://www.evernote.com/OutboundRedirect.action?dest=https%3A%2F%2Fwww.shopify.com%2Flegal%2Fprivacy).  
 
-Your Choices:
+We also use Google Analytics to help us understand how our customers use the Site--you can read more about how Google uses your Personal Information here:  [https://www.google.com/intl/en/policies/privacy/](https://www.evernote.com/OutboundRedirect.action?dest=https%3A%2F%2Fwww.google.com%2Fintl%2Fen%2Fpolicies%2Fprivacy%2F).  You can also opt-out of Google Analytics here:  [https://tools.google.com/dlpage/gaoptout](https://www.evernote.com/OutboundRedirect.action?dest=https%3A%2F%2Ftools.google.com%2Fdlpage%2Fgaoptout).
 
-If you wish to stop receiving promotional e-mails, you may do so through your user account at www.peachandlily.com or by e-mailing [info@peachandlily.com](mailto:info@peachandlily.com) with “Unsubscribe” in the subject header.  You may also choose to unsubscribe from our emails by following the instructions in the bottom of the email.
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
 
-**Links**
+**BEHAVIOURAL ADVERTISING**
 
-This Site may contain content, services, advertising and other materials that link to web sites operated by third parties.  We have no control over those other sites, and this Privacy Policy does not apply to them. 
+As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you.  For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at <http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work>.
 
-**Important Notice to Non-U.S. Residents**
+You can opt out of targeted advertising by following the instructions for each platform:
 
-The Site and the Service are operated in the United States.  If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States.  By using the Service and/or providing us with any information, you consent to this transfer. 
+  * FACEBOOK - [https://www.facebook.com/settings/?tab=ads](https://www.evernote.com/OutboundRedirect.action?dest=https%3A%2F%2Fwww.facebook.com%2Fsettings%2F%3Ftab%3Dads)
+  * GOOGLE - [https://www.google.com/settings/ads/anonymous](https://www.evernote.com/OutboundRedirect.action?dest=https%3A%2F%2Fwww.google.com%2Fsettings%2Fads%2Fanonymous)
+  * BING - [https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads](https://www.evernote.com/OutboundRedirect.action?dest=https%3A%2F%2Fadvertise.bingads.microsoft.com%2Fen-us%2Fresources%2Fpolicies%2Fpersonalized-ads)
 
-**Children    **
 
-We do not knowingly collect Personal Information from children under the age of 13 through the Service.  If you are under 13, please do not give us any Personal Information.  We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children to never provide Personal Information through the Service without their permission.  If you have reason to believe that a child under the age of 13 has provided Personal Information to us, please contact us, and we will endeavor to delete that information from our databases.
 
-**Changes to This Privacy Policy**       
+Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at:  <http://optout.aboutads.info/>.
 
-This Privacy Policy is effective as of the date stated at the top of this Privacy Policy.  We may change this Privacy Policy from time to time, and will post any changes on the Site as soon as they go into effect.  By accessing the Site or using the Service after we make any such changes to this Privacy Policy, you are deemed to have accepted such changes.  Please refer back to this Privacy Policy on a regular basis.
+**DO NOT TRACK**
 
-**How to Contact Us   **
+Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
 
-If you have questions or suggestions about this Privacy Policy, please e-mail us at info@peachandlily.com with “PRIVACY POLICY” in the subject line.
+**YOUR RIGHTS**
+
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
+
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above.  Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
+
+**DATA RETENTION**
+
+When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
+
+**MINORS & CHILDREN**
+
+We do not knowingly collect Personal Information from children under the age of 13 through the Service.  If you are under 13, please do not give us any Personal Information. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children to never provide Personal Information through the Service without their permission.  If you have reason to believe that a child under the age of 13 has provided Personal Information to us, please contact us, and we will endeavor to delete that information from our databases.
+
+**CHANGES**
+
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
+
+**CONTACT US**
+
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please e-mail us at info@peachandlily.com with “PRIVACY POLICY” in the subject line.
