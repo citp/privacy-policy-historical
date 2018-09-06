@@ -1,222 +1,112 @@
-> *The following text is extracted and transformed from the openideo.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914075010id_/https%3A//challenges.openideo.com/content/openideo-privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openideo.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906092914id_/https%3A//www.ideo.com/privacy) for the most accurate reproduction.*
 
-# OpenIDEO - OpenIDEO Privacy & Cookie Policy
+# IDEO Privacy Policy | ideo.com
 
-[](http://www.esrb.org/confirm/ideo-confirmation.aspx)
+This Privacy Policy and certification seal located on our Sites confirm that we are a valid licensee, and participating member, of the [Entertainment Software Rating Board’s Privacy Certified Program](http://www.esrb.org/privacy/faq.aspx#10) ("ESRB Privacy Certified"). To help protect your privacy, we have voluntarily undertaken this privacy initiative. As a licensee in this privacy certification program, we are subject to audits of our Sites and other enforcement and accountability mechanisms administered independently by ESRB Privacy Certified. Our Sites containing the ESRB Privacy Certified seal have been reviewed and certified by ESRB Privacy Certified to meet established online information collection and use practices.
 
-OpenIDEO’s Privacy & Cookies Policy (“Privacy Policy”) was last updated on June 21, 2017.
+Depending on the IDEO Site you are using, or where you contact us, your information is stored on the servers of our service providers, including Rackspace, Amazon Web Services, and Heroku. Please note that information we collect from you may be stored and processed in the United States or any other country in which we or our service providers maintain facilities. We or our service providers may transfer information that we collect about you, including Personal Information across borders and from your country or jurisdiction to other countries or jurisdictions around the world. We encourage you to review [Heroku](http://www.heroku.com/policy/salesforce-heroku-msa), [Amazon Web Services](http://aws.amazon.com/service-terms/), and [Rackspace](http://www.rackspace.com/en-nl/legal/generalterms)'s terms of service agreements and privacy policies before providing information to them.
 
-Privacy is very important to OpenIDEO. OpenIDEO does not sell or rent your Personal Information (later defined) to third parties without your explicit consent. Please read this Privacy Policy to learn more about the ways in which OpenIDEO uses and protects your Personal Information.
+We use reasonable physical, procedural, technical and administrative security measures to protect your Personal Information against loss or theft as well as unauthorized access and disclosure to protect your privacy. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
-This Privacy Policy and the certification seal shown on our Site (defined below) confirm that IDEO LP (“IDEO”) is a valid licensee, and participating member, in good standing of the Entertainment Software Rating Board’s Privacy Certified Program (“ESRB Privacy Certified”). ESRB Privacy Certified is designed to ensure that our information disclosure practices are responsible and appropriate. To protect your privacy, we have voluntarily undertaken this privacy initiative, and all of our websites where this Privacy Policy is posted have been reviewed and certified by ESRB Privacy Certified to meet established online information collection, use and disclosure practices. As a licensee of this privacy program, we are subject to frequent audits of our websites and other enforcement and accountability mechanisms administered independently by the ESRB.
+Since 2005, California Civil Code Section 1798.83 permits our Users who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. For inquiries regarding our disclosure policy, please contact us at: IDEO LP, Attn: Legal Group, 150 Forest Avenue Palo Alto, CA 94301 or (650) 289-3400 or [privacynotice@ideo.com](mailto:privacynotice@ideo.com)
 
-**Table of Contents**
+Please note that this Privacy Policy may change from time to time. We will not retroactively reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. For future changes, we will notify you of any material changes in the way we collect, use, or share your Personal Information by sending you an email at the last email address that you provided us, or by prominently posting notice of the changes on the Site(s) covered by this Privacy Policy, or providing other appropriate notices required under applicable law. We will also post the new Privacy Policy to the Sites, which you are advised to consult regularly for any changes. Each version of this Privacy Policy will be identified at the bottom of the page by its effective date.
 
-  1.  Overview
-  2.  A Note Regarding Children and Minors
-  3.  Information We Collect
-  4.  Our Use of Your Information
-  5.  Our Disclosure of Your Information
-  6.  Our Accessing, Reviewing and Changing Your Personal Information
-  7.  Control of Your Password
-  8.  Other Information Collectors
-  9.  Security
-  10.  Your California Privacy Rights
-  11.  EU Users
-  12.  Contact Information
-  13.  Cookies Policy
+### IDEO Network Account Registration and Sign on
 
+*Please note if you registered for our products before April 2018 this process may not apply to you. On March 27th, 2018, IDEO began a process of consolidating access to some of its Sites under one global secure login account process, which will give Users access to a network of IDEO services, and for those Users who participate individually or under a Client contract to more than one IDEO Site, one convenient login for the IDEO Network (an “ **IDEO Network Account** ”). If the service you want to access has been consolidated under this process you will see a general IDEO registration page when you register or login. If the Site you are accessing has not yet been integrated into the IDEO Network Account process, you will be directed straight to that individual Site.
 
+**Account Creation & Profile: **To register for an IDEO Network Account, you must provide your email address, first name, last name, and you will be asked to choose a secure password. As part of this process, you will be given an “IDEO Network Profile”.
 
-**1\. Overview**
+If you register for an IDEO Network Account using Facebook or Google the following information, if it has been made publicly available by you, will be stored on our servers as your login information: Facebook or Google ID, first and last name, email address, country, profile photo, geo-location, gender and date of birth. Additionally, your Facebook, or Google Profile Picture becomes part of your login Information but is not stored by us. Your use of information by Facebook or Google in this context will be set out more fully in their privacy policies and in accordance with the settings you choose using their sites.
 
-This Privacy Policy applies to the IDEO content on the internet site located at www.openideo.com along with any related websites, networks, and other services provided by IDEO (collectively the “Site” or “OpenIDEO”). By using the Site you agree to be bound by the terms and conditions of this Privacy Policy. Capitalized terms not defined in the Privacy Policy have the meanings ascribed to them in the [Terms and Conditions of Use](https://challenges.openideo.com/terms)  (the "TOU"). If you do not agree to the Privacy Policy or the TOU please do not use or access the Site.
+**Deletion of Your IDEO Network Account:** If you wish to delete your Personal Information from the IDEO Network, please contact [privacynotice@ideo.com](mailto:privacynotice@ideo.com) **.**
 
-This Privacy Policy describes the information we collect from you and what may happen to that information. By accepting the Privacy Policy, you expressly consent to IDEO's use and disclosure of your Personal Information in accordance with this Privacy Policy.
+### OI Engine & Shape
 
-This Privacy Policy may be updated from time to time, so we advise visitors to consult it regularly for changes. We will notify you of any material changes by prominently posting notice of the new Privacy Policy to the Site and/or by sending you an email to the last email address provided to us. You are advised to consult this Privacy Policy regularly for any changes.
+OI Engine is the name of IDEO’s software platform (the “ **OI Platform** ”) used to leverage the ideas, learnings and power of the crowd. Shape is the name of IDEO’s software platform for small teams and large organizations alike to collaborate on new ideas, share knowledge, and test prototypes with customers (“ **Shape** ”). The OI Platform is the underlying software which powers OpenIDEO and The Teacher’s Guild. The OI Platform and Shape are also used by our Clients’ organizations to leverage their internal or limited access communities (“ **Private Platforms** ”). While the use of your Personal Information for OpenIDEO, the Teacher’s Guild and OIEngine.com (such as to send you newsletters) is as stated in this Privacy Policy, if you are a User of the Private Platforms, the use of your Personal Information will depend on the individual consent obtained from individual Users in relation to the Private Platforms, including the terms of use, applicable challenge rules, our agreements with our Clients (who in many cases will be the employer of our Users) and the authority given from them to IDEO, and our Clients’ (and their subcontractors’) use of User information.
 
-As used in this Privacy Policy, the terms "using" and "processing" information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.
+### OpenIDEO
 
-Back to the top
+In addition to your IDEO Network Account, Users of OpenIDEO will have an OpenIDEO profile which can be viewed in the “My Profile” section of the Site. Once you register (either for the individual Site using the directions on the site, or via your IDEO Network Account), create My Profile, or submit a Contribution you are not anonymous to us (and may be visible to other Users depending on the activity). As only Users can submit a Contribution on the Site, if you choose to submit a Contribution prior to registering to the Site, we will require you to first (i) register with your Login Information thus creating My Profile and, if applicable, (ii) agree to any Challenge Rules or if applicable, any Alliance guidelines.
 
-**2\. A Note Regarding Children and Minors**
+Please note that if you register for OpenIDEO using Facebook, or Google the following information, if it has been made publicly available by you, will be stored on our servers as your login information: Facebook or Google ID, first and last name, email address, country, profile photo, locale, gender and date of birth. Additionally, your Facebook, or Google Profile Picture becomes part of your login Information but is not stored by us. Your use of information by Facebook or Google in this context will be set out more fully in their privacy policies and in accordance with the settings you choose using their sites.
 
-Users under the age of 13 may not use the Site. We do not knowingly collect Personal Information from users under the age of 13 ("Child" or "Children"), and neither does our third-party partner, OI Engine , who handles our accounts. If IDEO or OI Engine learn that a Child's Personal Information has been collected, we will delete the account and all Personal Information associated with it. If parents or guardians believe that IDEO or OI Engine have unintentionally collected their Child's Personal Information, then they should contact us and request the deletion of the information at [hello@openideo.com](mailto:hello@openideo.com) or:
+All Contributions will be viewable by other Users of the Site. You always have the option to not provide information by choosing not to register or submit a Contribution or Applause. If you choose to submit Contributions or Applause, or post messages on the Site, we will collect and store the information you provide to us. If you delete your account on the Site, your User data will be removed from the Site and your My Profile will be deleted, however your posts and comments may still be visible under the alias “Inactive User.”
 
-IDEO LP  
-Attn:  OpenIDEO re Minor Account  
-Pier 28 Annex, 501 The Embarcadero  
-San Francisco, CA  94105
+It is each User’s decision as to whether they add Personal Information to their My Profile section or upload a photograph/image of themselves and opt to make these visible to other Users as part of My Profile. The image/photo/picture, first and last name, gender and date of birth from Facebook or Google (if used) can be deleted at each User’s discretion. Your Facebook or Google ID is not visible in My Profile but can appear in your My Profile URL.
 
-Users under the age of 18 cannot enter into an agreement with IDEO and we ask that they do not submit any Personal Information to us. The parents or legal guardians of users under the age of 18 must register on the Site, agree to the TOU  and enter into the agreement with IDEO.
+My Profile will include your Design Quotient. Your **“Design Quotient”** (or **“DQ”** ) is a profile of you that we derive based on your Contributions, other Users’ feedback on your Contributions, and your “Applauding” of other User Contributions (as defined in the OpenIDEO [Terms of Service](http://challenges.openideo.com/terms)[)](https://challenges.openideo.com/terms) of other Users’ Contributions. Your DQ is published on the Site, accessible on each page of the Site, and visible to other Users unless you choose to make it private (an option available in My Profile).
 
-Pursuant to California's Digital Online Eraser Law (California Senate Bill 568), users under the age of 18 have the right to remove, or request the removal of, content or information they have posted on the Site. Please be advised that any information you post to a bulletin board, message board, chat room, community, or other forum is publicly viewable. We strongly recommend that all users avoid posting personal or sensitive information at any time.
+“ **Chapters** ” are groups of individuals who choose to arrange themselves geographically to solve challenges, work more deeply on areas within a challenge, or just meet for community purposes. Chapter organizers are volunteers selected by IDEO to run certain Chapters. If you RSVP for an event organized by a Chapter through the Site, your name and photo will be added to the event registrants list unless you choose to show as an anonymous attendee in My Profile. (Event creators and Organizers will still have access to your name and email unless you choose not to attend an Event. Event creators and Organizers are prohibited from use of Personal Information for anything other than their Chapter head duties related to the event). 
 
-Deleting an Account: Should you wish to delete your account, you are able to do so by contacting us at [hello@openideo.com](mailto:hello@openideo.com) and providing us with your request to delete, your username, and typing "Digital Online Eraser Law Deletion Request" in the subject line.
+**Challenge and Alliance Sponsor:** IDEO challenges or alliances are promoted, sponsored by and championed, by sponsors (“ **Challenge or Alliance Sponsor** ”). A Challenge or Alliance Sponsor (other than IDEO) cannot store or disclose your Personal Information; this can only be done by IDEO in compliance with this Privacy Policy. IDEO may share information that you have entered in My Profile with a Challenge or Alliance Sponsor to analyze Users’ Contributions, comments and Applause for the Challenge or Alliance Sponsor’s own Challenge(s) or Alliance(s). **Chapter Organizers:** IDEO does not give a Chapter Organizer any authority to store or disclose your Personal Information; this can only be done by IDEO in compliance with this Privacy Policy. In addition, and as stated above, Chapter Organizers may have access to your Personal Information, but they are under strict obligations to use that information only for purposes related to their Chapter head duties.
 
-Deleting or Editing a Comment: Should you wish to delete or edit a comment on the Site, you may do so. Once you post a comment, the date of the post will appear on the right-hand side of the comment. If you hover over this date, it will reveal a drop-down box with the options to “Edit” or “Delete” the comment.
+### Teachers Guild
 
-Removal of this content or information from public view does not guarantee complete or comprehensive removal. After your removal request has been honored, we may retain copies of the content or information you have previously posted on our servers. We are not required to remove your posted content or information if it has been rendered anonymous or if we are required by law to retain it. Additionally, we do not have control over third parties (e.g., other users) who may have copied or reposted this information.
+IDEO and Riverdale Country School ( **“Riverdale”** ) own and operate [www.teachersguild.org](http://www.teachersguild.org/) (“ **The Teachers Guild** ”).
 
-Back to the top
+In addition to your IDEO Network Account (if you registered through the IDEO Network Account process), Users of The Teachers Guild will have a Teacher’s Guild profile which can be viewed in the “My Profile” section of the Site. Your Login Information is held within My Profile.
 
-**3\. Information We Collect**
+If you register on the Teachers Guild using ‘Facebook Connect’ or ‘Google Connect’ then the following information, if it has been made publicly available by you, will be stored on our servers as your Login Information: – Facebook or Google ID, first and last name, email address, country, locale, gender and date of birth. Additionally, your Facebook or Google Profile Picture becomes part of your Login Information but is not stored by us. Your Facebook or Google ID will be your Username for the Teachers Guild.
 
-Our primary purpose in collecting your first name, email address, username, password and general location when you register to the Site (the “Login Information”) is to:  (i) provide you with a safe, smooth, and efficient experience, (ii) be able to contact you in connection with any Contributions and information that you submit, (iii) administer your account, and (iv) communicate with our users or schedule any technical work to the Site with minimal interference, by trying to consider user time zones. Any information about you that can be used to contact or identify you is personal information ("Personal Information"). We only collect the minimum amount of Personal Information about you that we consider necessary for achieving the aforementioned purposes. Your email address is not displayed publicly on the Site but it will be displayed to Organizers (as defined in the [TOU](https://challenges.openideo.com/terms)).
+In addition to your email address and Login details, you also have the option of entering additional information such as school, subject, grade level taught, number of years teaching, city, state, and social media which we would use to tailor and localize the User experience as well as tracking impact from the Collaborations (as defined in the Teachers Guild [Terms of Use](http://www.teachersguild.org/terms)).
 
-If you register to the Site using ‘Facebook Connect’ or ‘Google+’ the following information, if it has been made publicly available by you, will be stored on our servers as your Login Information – Facebook or Google ID, first and last name, email address, country, locale, gender and date of birth. Additionally your Facebook or Google Profile Picture becomes part of your Login Information but is not stored by us. Your Facebook or Google ID will be your username for the Site.
+It is each User’s decision as to whether they add personal information to My Profile or upload a photograph/image of themselves and opt to make these visible to other Users as part of My Profile. The image/photo/picture, first and last name, gender and date of birth from Facebook or Google (if used) can be deleted at each User’s discretion.
 
-Your Login Information is held within your account called My Profile. This is (i) created when you register on the Site, (ii) added to at will by you the user, and (iii) includes your Design Quotient. Your “Design Quotient” (or “DQ”) is a profile of you that we derive based on your Contributions, other users’ feedback on your Contributions, and your Applause of other Users Contributions . Your DQ is published on the Site, accessible on each page of the Site, and visible to other users unless you choose to make it private (an option available in My Profile).
+My Profile will include your Design Quotient. Your “Design Quotient” (or “ **DQ** ”) is a profile of you that we derive based on your Contributions, other Users’ feedback on your Contributions, and your Applause of other Users Contributions. Your DQ is published on the Site, accessible on each page of the Site, and visible to other Users unless you choose to make it private (an option available in My Profile).
 
-It is each user’s decision as to whether they add additional Personal Information to their My Profile section or upload a photograph/image of themselves and opt to make these visible to other users as part of My Profile. The image/photo/picture, first and last name, gender and date of birth from Facebook Connect or Google+ (if used) can be made private by deletion at each User’s discretion. Your Facebook or Google ID is not visible in My Profile but can appear in your My Profile URL.  
-If you RSVP for an event organized by a Chapter through the Site, your name and photo will be added to the event registrants list unless you choose to show as an anonymous attendee in My Profile (Event creators and Organizers will still have access to your name and email unless you choose not to attend an Event.  Event creators and Organizers are prohibited from use of Personal Information for anything other than their Chapter head duties related to the event).  
+If you wish to contribute or participate in the Site, you must (a) register with the Teacher’s Guild, and (b) become an Entrant by agreeing to the Collaboration Rules. All Contributions will be viewable by other Users of the Site. You always have the option to not provide information by choosing not to register or submit a Contribution or Applause.
 
-In general, you can browse the Site without telling us who you are or revealing any Personal Information about yourself. Once you register, create My Profile, or submit a Contribution you are not anonymous to us. As only Users can submit a Contribution on the Site, if you choose to submit a Contribution prior to registering to the Site, we will require you to first (i) register with your Login Information thus creating My Profile and if applicable (ii)  agree to any Challenge Rules or if applicable, any Alliance guidelines. All Contributions will be viewable by other Users of the Site. You always have the option to not provide information by choosing not to register or submit a Contribution or Applause.
+**Other Corporate Entities** : We may share our data, including your Personal Information, Non-Identifying Information and Log Data, with Riverdale, and with Riverdale’s affiliates’ companies. To the extent that these entities have access to your information, they will treat it at least as protectively as they treat information they obtain from their Users. To the extent allowed by applicable law, these entities follow privacy practices that are no less protective of Users than the practices described in this Privacy Policy.
 
-If you register and create My Profile, choose to submit Contributions or Applause, or post messages on the Site, we will collect and store that information you provide to us. If you delete your account on the Site, your user data will be removed from the Site and your My Profile will be deleted, however your posts and comments may still be visible under the alias “An Old Friend.”  
-If you send us personal correspondence, such as emails or letters, or if other Users or third parties send us correspondence about your activities or postings on the Site, we may collect such information into a file specific to you.
+IDEO and Riverdale may use behavior analytics to drive site performance, including process, review, copy, report and/or distribute Analytic Quotient Information. “ **Analytic Quotient Information** ” means data generated by the Site including but not limited to:
 
-Back to the top
+  * Participation levels of Users by category (including but not limited to: organizational department; seniority; gender);
+  * Industry sector of Site Controller; Size of Site Controller entity by number of Users of the Software, turnover or number of employees; Level and nature of collaboration between Users;
+  * Level and format of device impact of Users (such as desktop computer, mobile device); Time spent by Users on Site; and
+  * Behavior of Users on individual functions of the Software, and any feature of the Site; Impact of bugs or Software errors on User activity.
 
-**4\. Our Use of Your Information**
 
-We use your Login Information in the file we maintain about you, and other information we obtain from your current and past activities on the Site to:
 
-•Contact you about any Contributions  
-•Contact you with Notifications  
-•Troubleshoot problems and resolve disputes  
-•Detect and protect us against error, fraud and other criminal activity  
-•Enforce the TOU , and as otherwise described to you at the time of collection.
+Where Analytic Quotient Information is disclosed to or accessed by any third party (except IDEO, Riverdale, and Riverdale subcontractors including third party providers of tools who may have access), any Personally Information will be anonymized and aggregated.
 
- We may use your Login Information to contact you with information about new features and updates about the Site and OpenIDEO, and other information that you have expressed may be of interest to you (i.e. OpenIDEO or affiliate newsletters, additional information regarding IDEO-affiliated entities or websites, etc.).
+### The Purpose Project
 
-We may share aggregated information that does not include Login Information and we may otherwise disclose information that does not identify you (“Non-Identifying Information”) and information about your activities on the Site (“Log Data”) with third-parties for industry analysis, demographic profiling, academic research, and other purposes. Any aggregated information shared in these contexts will not contain your Personal Information.
+The Site located at [www.thepurposeproject.org](http://www.thepurposeproject.org/) and the associated mobile application (the “ **App** ”) are collectively referred to as the “ **Purpose Project**.”
 
-You agree that we may use your Login Information to contact you. By accepting the TOU , you expressly agree that we may contact you as provided herein.
+**Account Creation:** If you login to the Purpose Project using Google OAuth, the following information from Google, if it has been made publicly available by you on Google, will be stored on our servers – ID, first and last names, email address, country, locale, and gender (“ **Purpose Project Login Information** ”). Additionally, your Google profile picture becomes part of your Purpose Project Login Information. Your Google ID will be your Username for the Site.
 
-Back to the top
+**Deleting your Account:** If you wish to delete your Purpose Project account, you may do so by contacting us at [privacy@thepurposeproject.org](mailto:privacy@thepurposeproject.org) or at [privacynotice@ideo.com](mailto:privacynotice@ideo.com) and providing us with your Username.
 
-**5\. Our Disclosure of Your Information**
+**The Purpose Project App** : When you visit the App, we collect some information automatically, such as your mobile device identifier (“ **Device ID** ”), IP address and operating system. We use the information that is automatically collected to support the internal operations of the App. Some types of internal operations include:
 
-IDEO may disclose information it has collected from you and/or Contributions you have made available on the Site when it believes in good faith that the law or legal process requires it, or when it is necessary to do so to protect the rights or property of IDEO, Challenge Sponsors, Alliance Sponsors or others. As a matter of policy, we do not sell or rent any of your Personal Information to third parties without your explicit consent. The following describes some of the ways that your Personal Information may be disclosed in the normal scope of our business and you authorize us to do this for the purposes of the use, operation any investigations of the information on the Site.
+  * to understand flow through the App;
+  * to reduce the repetition in the promotional messages that Users see on the App; and
+  * to understand what devices and operating systems the App is used on.
 
-Challenge and Alliance Sponsor: A Challenge or Alliance Sponsor (other than IDEO) cannot store or disclose your Personal Information; this can only be done by IDEO in compliance with this Privacy Policy. IDEO may share information that you have entered in My Profile with a Challenge  or Alliance Sponsor to analyze Users’ Contributions, comments and Applause for the Challenge or Alliance Sponsor’s own Challenge(s) or Alliance(s).
 
-Chapter Organizers: A Chapter Organizer cannot store or disclose your Personal Information; this can only be done by IDEO in compliance with this Privacy Policy. In addition, and as stated above, Chapter Organizers may have access to your Personal Information, but they are under strict obligations to use that information only for purposes related to their Chapter head duties.
 
-Service Providers for Our Operations: We may use third parties, such as [Mailchimp](https://mailchimp.com/legal/privacy), that we refer to as service providers to facilitate or outsource one or more aspects of our business, including as part of our registration process or to facilitate our mailing lists. Therefore we may provide some of your Personal Information directly to these service providers, or this information may come available to them in the course of our business with them. We recommend you review the privacy policies of these service providers.
+**Other Corporate Entities** : We may share our data, including your Personal Information, Non-Identifying Information and Log Data, with Riverdale, and with Riverdale’s affiliates’ companies. To the extent that these entities have access to your information, they will treat it at least as protectively as they treat information they obtain from their Users. To the extent allowed by applicable law, these entities follow privacy practices that are no less protective of Users than the practices described in this Privacy Policy.
 
-Other Corporate Entities: We may share our data, including Personal Information about you, with our affiliates, subsidiaries, and branch offices in the United States and internationally. To the extent these entities have access to your information, they will treat it at least as protectively as they treat information they obtain from their users. To the extent allowed by applicable law, these entities follow privacy practices that are no less protective of users than the practices described in this Privacy Policy. IDEO may share some or all of your Personal Information, Non-Identifying Data and Log Data with another business entity should we plan to reorganize, spin out, merge with, acquire, or be acquired by that business entity. Should such an event occur, we will require that the new or combined entity follow this Privacy Policy with respect to your Personal Information. If your Personal Information will be used contrary to this Privacy Policy, you will receive prior notice as previously described.
+### IDEO U
 
-Legal Requests: IDEO cooperates with law enforcement inquiries, as well as other third parties to enforce laws and intellectual property rights. Therefore, in response to a verified request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, we can disclose Login Information including name and email address, and without limiting the above, in an effort to respect your privacy, we will not otherwise disclose your Personal Information to law enforcement or other government officials without a subpoena, court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss; or to report suspected illegal activity.  
-Due to the existing regulatory environment, we cannot ensure that all of your private communications and other Personal Information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example and without limiting the foregoing, we may be forced to disclose your Personal Information to the government or third parties under certain circumstances or third parties may unlawfully intercept or access transmissions or private communications. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your Personal Information or private communications will always remain private.
+When you decide to join an IDEO U learning course, you will be asked to register for an account. Our IDEO U Site is administered and managed by our service provider, NovoEd. 
 
-Back to the top
+As part of the Course Registration process, you will be asked to provide us with your email address, payment information (including your billing address) and, optionally, your phone number. Course payments are processed via a third-party payment processor of your choice: PayPal or Shopify. We encourage you to review [PayPal](http://www.paypal.com/us/webapps/mpp/ua/privacy-full) and [Shopify](http://www.shopify.com/legal/privacy)’s privacy policies. 
 
-**6\. Accessing, Reviewing and Changing Your Personal Information**
+Personal information that NovoEd, collects for us during Account creation for IDEO U may include your name and email address. We strongly encourage you to review NovoEd’s [terms of service agreement](http://novoed.com/terms/) and [privacy policy](http://help.novoed.com/hc/en-us/articles/200047317-Privacy-Policy).
 
-You agree to maintain and promptly update and keep accurate, current and complete any information provided to IDEO as part of My Profile. You can change your username, email address, password, contact and other information by going to My Profile. Your previous Contributions, your Applause and your Design Quotient will be associated with the updated information.
+You may also choose to sign up through NovoEd with your social media profile (e.g., Facebook or LinkedIn). When you engage with our or NovoEd’s content on or through third-party social networking sites, plug-ins and applications, you may allow us to have access to certain information from your social media profile (e.g., name, email address, photo, current position) to deliver the content or as part of the operation of the application. Through some social networking sites’ privacy settings, you can control what data you share. For more information about how social networking sites such as LinkedIn or Facebook handle your Personal Information, please refer to their privacy policies and terms of use. 
 
-You are given the option to make most parts of your personal profile available to other users. If you do so, be aware that other users can object to any content on My Profile if they believe it is damaging or offensive. Your recent Contributions and current and past Challenges, are shown on your My Profile page. You have the option to make your Design Quotient private to other users.
+**Course Providers** : We may share Personal Information, Non-Identifying Information and Log Data with instructors who provide the courses on the IDEO U Site (" **Course Providers** "). They use this information mainly to provide, administer and improve courses and the services, to respond to your inquiries, and to analyze and conduct research on the services.
 
-If you would like us to delete your account record in our system, please contact us at [hello@openideo.com](mailto:hello@openideo.com) with a request that we delete the Login Information you are required to provide to establish an account from our database. We will use commercially reasonable efforts to honor your request. We may retain an archived copy of your records as required by law or for legitimate business purposes. Also, if you have included Login Information in online forum postings or in information or communications shared with other users, you may not be able to update, correct or delete this information from the Site.
+**Your Employer** : If you are participating in IDEO U as part of an employer-sponsored program, at the request of your employer and as part of our agreement with them, we may provide your employer information about your activities and performance in connection with IDEO U, including contributions and performance information with respect to particular IDEO U courses or services (for Creative Difference your employer will have access to the email address associated with your User account information, but not your password or other Personal Information related to your User account such as your non-public contributions on the course). IDEO shall not be responsible or liable for the use of such information by your employer, and such use shall be subject to your employer's policies (including privacy policies) applicable to you.
 
-Back to the top
+### Creative Difference
 
-**7\. Control of Your Password**
+Creative Difference is IDEO’s creativity assessment tool. The login and registration processes for your IDEO Network Account in order to gain access to Creative Difference, along with our use of your Personal Information, are as stated above in the Section on your IDEO Network Account, unless you/your organisation registered for Creative Difference prior to implementation of our IDEO Network Accounts. 
 
-You are responsible for all actions taken with your Login Information and My Profile. Accordingly, you agree to maintain and safeguard the confidentiality of your Login Information, and to not share your Login Information with any third party. We recommend that you do not disclose your password to any third parties. If you choose to share your username and password or your Personal Information with third parties, you are responsible for all actions taken with your account and therefore you should review that third party’s privacy policy. If you lose control of your password, you may lose substantial control over your Personal Information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password as detailed in the above section - Accessing, Reviewing and Changing Your Personal Information. If you need help changing your password, please contact [hello@openideo.com](mailto:hello@openideo.com).
+**Your Employer’s access to your Personal Information:** If you are participating in Creative Difference as part of an employer-sponsored program, at the request of your employer, your employer will have access to the email address associated with your User account information, but not your password or other information related to your User Account (such as your contribution to the assessment). IDEO shall not be responsible or liable for the use of such information by your employer, and such use shall be subject to your employer’s policies (including privacy policies) applicable to you.
 
-Back to the top
-
-**8\. Other Information Collectors**
-
-Except as expressly stated in the Privacy Policy, this Privacy Policy only addresses the use and disclosure of information we collect from you via the Site. To the extent that you disclose your information to other parties on our Site or other sites throughout the internet, different rules may apply to their use or the disclosure of information you disclose to them. Since IDEO does not control the privacy policies of third parties, you are subject to the privacy policies of that third party. We encourage you to ask questions before you disclose your Personal Information to others.
-
-Back to the top
-
-**9\. Security**
-
-Your information is stored on our service provider’s servers in the USA. For more information regarding these services, including the security of the servers, please see Amazon Elastic Compute Cloud service (Amazon EC2 - <http://aws.amazon.com/ec2/)> in conjunction with Amazon S3 storage (http://aws.amazon.com/s3/) and Amazon CloudFront services (http://aws.amazon.com/cloudfront/). These service providers have agreed to maintain the confidentiality, security and integrity of Personal Information collected through the Site.
-
-We use reasonable physical, procedural, technical and administrative security measures to protect your Personal Information against loss or theft as well as unauthorized access and disclosure to protect your privacy. However, no method of transmission over the internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security. Your information is also stored on our service provider’s servers, and we encourage you to review their terms of service agreements and privacy policies before providing information to them. In the event there is a data breach involving unencrypted Personal Information, we or OI Engine will notify you via email and/or by posting a notice on the affected website.
-
-Back to the top
-
-**10\. Your California Privacy Rights**
-
-California Civil Code Section 1798.83 permits users of this Site who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. We do not share information with third parties for their direct marketing purposes or otherwise, unless you affirmatively agree to such disclosure. However, if you believe your information has been shared or you have general questions about how your information may have been shared, you may contact us at:
-
- IDEO LP  
-Attn: OpenIDEO Information Disclosure Policy  
-Pier 28 Annex, 501 The Embarcadero  
-San Francisco, CA 94105
-
-Back to the top
-
-**11\. EU Users**
-
-IDEO is committed to complying with applicable European Union (“EU”) privacy laws. Because IDEO is a US-based company, using certain US providers (please see above), some of your Personal Information will be stored or accessed in the US, which has a lower standard of protection for Personal Information than the EU. IDEO has ensured that our non-EU based providers have committed to certain mechanisms including contracts with us which would allow you to address and have redress against any concerns you have regarding the transfer and security of your information outside of the EU. In agreeing to our Privacy Policy, you indicate your consent to such transfers of your Personal Information out of the EU.
-
-Back to the top 
-
-**12.  Contact Information**
-
-Please direct any questions or concerns you may have about our Privacy Policy to [hello@openideo.com](mailto:hello@openideo.com), or:
-
-IDEO LP  
-Attn: OpenIDEO General Privacy Policy Inquiries  
-Pier 28 Annex, 501 The Embarcadero  
-San Francisco, CA 94105  
-Lastly, if you believe that we have not responded to your privacy-related inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB Privacy Certified at <http://www.esrb.org/privacy/contact.aspx> or:
-
-ESRB  
-Attn: Privacy Certified Program  
-420 Lexington Ave, Suite 2024  
-New York, NY 10170  
-[privacy@esrb.org](mailto:privacy@esrb.org)  
-Back to the top
-
-**13\. Cookies Policy**
-
-OpenIDEO is committed to protecting you and any data (anonymous or otherwise) that we collect about you online. This section explains how we use cookies, why, and how this allows us to improve our service. It also provides you with information on how to manage what cookies are stored on your device.  
-We use data collection devices such as “cookies” on certain pages of the Site. “Cookies” are small files placed on your hard drive. We use Cookies to allow you to enter your Login Information less frequently. You are always free to decline our Cookies if your browser permits, although in that case you may not be able to use certain features on the Site and you may be required to re-enter your password or Login Information more frequently. Examples of Cookies that we use:
-
-•__umta, __umtb, __umtc, __umtz: These Cookies are used by Google Analytics to provide usage reports for the Site. There is no personal data stored in these cookies, however they provide us invaluable statistics which we use when improving the site. More information can be found here: <https://developers.google.com/analytics/resources/concepts/gaConceptsCookies#cookiesSet>  
-•JSESSIONID: This cookie is used by OIEngine to ensure smooth user session handling by allocating a unique, one-time identifier per user session.  
-•Mixpanel: this cookie is used to track anonymous analytical data about user behaviours on the challenges platform  
-•Google Tag Manager is used to enable and configure Google Analytics.  
-•The Site also utilizes the Vue framework as well as the jQuery library to run the following Javascript plugins:  
--Twitter Bootstrap  
--Bootstrap Submenu  
--jQuery TextComplete  
--Eonasdan’s Bootstrap Datetime Picker  
--Select 2
-
- We also use the following plugins:  
-•Twitter Bootstrap  
-•Dropzone  
-•Hopscotch  
-•Moment  
-•SweetAlert 2
-
- •laravel_session: This cookie is used to ensure smooth user session handling by allocating a unique, one-time identifier per user sessions.  
-•XSRF-TOKEN: This cookie is used to prevent cross-site scripting attacks.  
-recommendationsModalDisplayed: This cookies keeps track of your viewing preference for recommendations in regards to chapters and events.  
-•tldSession: This cookie is shared between all OpenIDEO platforms to ensure single-sign-on (SSO) follows you from site to site.  
-•lab-*-auth: These cookies maintain state for password-protected chapters.
-
- Further information on how to opt-out of cookies can be found below.
-
-Additionally, you may encounter Cookies or other similar devices used for improving the user experience or providing added functionality on certain pages of the Site that are placed by third parties. For example, if you view content or video submitted by another User, there may be a Cookie placed within that web page. We do not control the use of Cookies by third parties, nor do we have an obligation to do so.
-
-We use User activity, including Users’ My Profile, on the Site to do internal research with the potential to improve the Site and future Challenges. We may also track the URL that you came to the Site from (whether this URL is on the Site or not), which URL you next go to (whether this URL is on the Site or not), your computer browser information, and your IP address. We do all of these things to better understand, protect and serve you and the Site and to be able to investigate any allegations against you or us.
-
-By using our Site (through any device) you agree that this Cookies Policy applies to that use in addition to any other terms and conditions which may apply. By using our Site you agree that we can place these types of Cookies on your device. Again, you can block these Cookies using your browser settings.
-
-If you wish to restrict, opt-out, or block the Cookies which are set by any website, including this Site, you should do this through each individual browser setting and on each device you use to access the internet. You can allow Cookies from specific websites by making them “trusted websites” in your internet browser. For more information on how to do this, and how to change your browser settings, you may wish to visit [http://www.aboutads.info/choices/.](http://www.aboutads.info/choices/)
-
-We reserve the right to make changes to our Cookies Policy. Your continued use of the Site will constitute and confirm your agreement to and acceptance of such changes or modifications.
-
-Back to the top
+**PRIVACY POLICY UPDATED AS OF APRIL 13, 2018**
