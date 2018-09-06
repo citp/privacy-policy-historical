@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trafficbot.uk privacy policy that was archived on 2017-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170428150720id_/http%3A//www.trafficbot.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficbot.uk privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906043320id_/https%3A//www.trafficbot.uk/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy - TrafficBot
+# TrafficBot - Ultimate Website Traffic Generator
 
 TrafficBot Software (herein termed “TrafficBot”) respects the privacy of users who visit any of the sites within TrafficBot’s control, including but not limited to the TrafficBot site located at http://www.trafficbot.uk. The following policy is in effect for all of the web pages owned and operated by TrafficBot:
 
