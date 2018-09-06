@@ -1,121 +1,78 @@
-> *The following text is extracted and transformed from the epson.co.uk privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204024530id_/https%3A//www.epson.co.uk/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epson.co.uk privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906171812id_/https%3A//www.epson.co.uk/viewcon/corporatesite/misc/legal/privacy) for the most accurate reproduction.*
 
 # Epson
 
-**This Privacy Policy describes how we, Epson, collect and use personal information about you, in a way which respects your privacy and complies with our legal obligations.**
+**Personal Data about those registering on main Epson websites**
 
-  * What is personal information?
-  * Who is responsible for personal data collected?
-  * Special notice – if you are under 16 years old
-  * Must personal data be disclosed when visiting Epson websites?
-  * Why does Epson ask for personal data?
-  * Providing you with additional information
-  * Where does Epson collect personal data from?
-  * Who does Epson share personal data with?
-  * Your rights concerning personal data held by Epson
-  * Links to other websites
-  * Protecting your personal data.
-  * How long will Epson retain personal data?
-  * Cookies
-  * Contacting Epson
-  * Changes to this policy
+**Edition 1.0**
+
+This statement gives information about your personal data held in Epson’s Marketing database and associated systems.
+
+**Epson holds (and will hold in the future)**
+
+  * Information that you choose to provide to Epson, through its websites or otherwise
+  * Information gathered from Epson’s own systems about your use of Epson websites and about Epson’s interactions with you. This includes information gathered through cookies1 and other similar tools.
 
 
 
-**1\. What is personal information?**  
-Personal information, often referred to as personal data, is any information relating to an identifiable individual. Your name, age, email address, home or correspondence address, telephone number, IP address are all examples of personal data.
+You do not have to register or give any personal information to make use of Epson’s main websites. To register with Epson the only information you are required to give is your e-mail address (plus confirmation that you are over 16). All other information fields at registration are optional.
 
-**2\. Who is responsible for personal data collected?**  
-Personal data, gathered by all Epson companies within Europe through websites and otherwise, that is to be used for marketing purposes is held and ‘controlled’ by Epson Europe B.V. in the Netherlands. Personal data concerning a particular transaction with an individual Epson company is controlled by that company.
+**“Epson” (the ‘controller’ of the information) is :**  
+Epson Europe B.V. (Data Protection Administration)  
+Azie Building, Atlas Arena,  
+Hoogoorddreef 5,  
+1101BA Amsterdam Zuid,  
+The Netherlands.  
+E-mail: [privacy@epson.eu](mailto:privacy@epson.eu)
 
-**3\. Special notice – if you are under 16 years old`**  
-If you are under 16 years old please do not send us your personal information (even basic information such as your name or e-mail address). If you wish to ask a question or use our websites in a way which requires you to submit your personal information please get your parent or guardian to do so on your behalf.
+**The purpose for processing personal data about you**  
+(‘Processing’ means anything Epson does with the information about you including gathering it, holding it, using it and disclosing it.)  
+The primary purpose for which Epson will process your personal data is for the marketing of its products, including direct marketing communications to you.
 
-**4\. Must personal data be disclosed when visiting Epson websites?**  
-You can access most parts of our websites without telling us who you are or providing other personal data. However some services and parts of our websites do require this. For example, you will need to provide some personal data if you want to buy products and services, take part in promotions or ask us to respond to queries or requests. We will only require the minimum necessary data.
+**This includes:**
 
-**5\. Why does Epson ask for personal data?**  
-We seek to collect personal data about you in order to:
-
-  * make and perform a sale or service contract with you
-  * provide you with benefits under the Epson warranty and after sales services
-  * identify you when you contact us
-  * store your preferences so that you can save time when searching our website
-  * conduct appropriate checks for creditworthiness
-  * process your requests to participate in marketing promotions
-  * monitor and record phone and written communications with you for quality assurance and compliance purposes and for dealing with your complaints and queries
-  * consider employing you if you register your interest or to process your application for a job with us
+  * identifying you when you contact us
+  * monitoring your preferences so that you can save time when searching our website
+  * processing your requests to participate in marketing promotions
+  * monitoring and recording phone and written communications with you for quality assurance and compliance purposes and for dealing with your complaints and queries
+  * understanding which parts of Epson’s website, and which products and services, most interest you
 
 
 
-**6\. Providing you with additional information**  
-From time to time we would also like to use your personal information for the following marketing purposes, which we believe will be of benefit to you.
+The legal basis for this is that it is necessary for the legitimate interests of Epson or companies within the Epson group in carrying out marketing activities.
 
-  * conduct surveys and ask for your opinion on our products and services
-  * notify you of new products or special offers that may be relevant or of interest to you
-  * notify you of marketing promotions such as free gifts, contests and prize draws.
-  * carry out marketing analysis and customer profiling
+If you choose to give information beyond that which Epson requires you to provide, the basis for processing that information is your consent as demonstrated by your voluntarily providing it. You have the right to withdraw that consent at any time. You can do this by writing to Epson at the address shown above, or at [Contact Us](https://web.archive.org/contactus).
 
+As part of its processing, Epson will perform some automated profiling and decision-making based on the information it holds about you in order to make information presented to you more relevant to your interests.
 
+If, in the future, Epson wishes to process your data for some other purpose it will first provide you with information about that other purpose.
 
-However, we will only contact you for marketing purposes if you have given your consent to this, either when submitting the information or at a later date.
+Where you have given your consent to this, Epson will also use your personal data for the purpose of electronic marketing communications to you (normally by e-mail) which may include :
 
-**7\. Where does Epson collect personal data from?**  
-We may collect personal data about you from a number of sources, including :
-
-  * from you when you register on one of our websites, buy a product from us or register for a service, participate in our promotional offers and surveys, contact our call centres or when you register at our public events such as exhibitions and trade shows.
-  * from lists of information purchased by us from suppliers who confirm that they are authorised to provide this.
+  * conducting surveys and asking your opinion on our products and services
+  * notifying you of products or offers that may be of interest to you
+  * notifying you of promotions such as free gifts, contests and prize draws.
+  * marketing analysis and customer profiling
+  * invitations to events
 
 
 
-**8\. Who does Epson share personal data with?**  
-The purposes for which we use personal data may be performed by other Epson group companies (within Europe), under the direction of the data controller, and data may be shared with them to enable this. We will only disclose your personal data to third parties, who are not Epson group companies:
+The legal basis for this is your specific consent. You may withdraw your consent to this additional purpose (independently of your right to object to Epson processing data for the general purposes described above) at any time by writing to Epson at the address shown above, or at [Contact Us](https://web.archive.org/contactus).
 
-  * who are contractors providing services to assist us in performing the purposes for which we may legitimately use the data for example fulfilling orders, processing payment, or assisting our marketing activities;
-  * when legally required to do so, for example in legal proceedings;
-  * where it is necessary to comply with applicable laws and regulations;
-  * if we merge or are acquired by a third party or transfer part of our business to a third party; or
-  * where we have your express consent to do so.
+Epson will hold your personal data for a period of 2 years after the last contact from you. After that time some information may be held but only in an anonymised form or as part of archived records.
 
+Epson uses third parties to perform some processing activities on its behalf. Some or all of your personal data may be disclosed to them, but they are only permitted to use the disclosed data for the purposes for which Epson holds your data and in accordance with Epson’s directions.
 
+As a “data subject” you have statutory rights to request from Epson access to and rectification or erasure of personal data or restriction of processing concerning yourself or to object to processing as well as the right to data portability and the right to lodge a complaint with a supervisory authority.
 
-**9\. Your rights concerning personal data held by Epson**  
-You have the right to ask us at any time:
+Epson’s European Data Protection Officer may be contacted by writing to “The EDPO, Epson Europe B.V. Azie Building , Atlas Arena, Hoogoorddreef 5, 1101BA Amsterdam Zuid, The Netherlands or, using E-mail: [EDPO@epson.eu](mailto:EDPO@epson.eu)
 
-  * to disclose to you any personal data we have about you and to correct any information that is incorrect.
-  * not to send you marketing communications and to remove information about you from any mailing list kept for marketing purposes. Marketing e-mails we send to you will provide an automated way to opt-out from any future marketing communications.
-  * to delete some parts of the personal information we hold about you. This may affect the services we are able to provide to you.
+If you are located outside the EU Epson will transfer some of your personal data, outside the EU, to Epson group staff in the region concerned and to contractors in that region used by Epson to provide services. This will be subject to the protections required by law.
 
+1 Cookies are data files that are placed on a device when it is used to visit a website. These cookies may be used for many purposes, including tracking user preferences and web pages visited while using the Service. You may disable cookies using your browser's preferences. However, some features of Epson’s websites may not function properly or may operate slowly if you disable the cookies. In addition, please be aware that if you choose to block cookies, some advertising preferences that are dependent on cookies may not be able to be respected.
 
+In addition, analytics tools such as Google Inc.'s Google Analytics are used to collect and analyse usage history etc. These use First Party Cookies to record information about your access. Please refer to Google Inc.'s privacy policy for the privacy policy of Google Analytics used by this service: <http://www.google.com/policies/privacy/>
 
-To make any of these requests please send an e-mail to [privacy@epson.eu](mailto:privacy@epson.eu) or write to our Data Privacy Officer at the address given below.
+This statement is only about information in Epson’s Marketing database. If Epson processes information about you in other records you will be notified separately about this.
 
-**10\. Links to other websites**  
-Our website may contain links to websites of other organisations. We are not responsible for and do not control how personal data is dealt with on those websites and we encourage you to read their privacy policy.
-
-**11\. Protecting your personal data.**  
-We maintain appropriate technical and organisational security measures to protect personal data from loss, unauthorised access and misuse. Among other measures, these include:
-
-  * limiting and controlling authorised employee and contractor access to your personal data on a ‘need to know basis’.
-  * requiring you to apply a password to your website ‘account’.
-  * processing payment transactions in a secure and encrypted way.
-
-
-
-**12\. How long will Epson retain personal data?**  
-We will retain data about you until the end of any period required or permitted by applicable laws. In general, we will not retain your personal data longer than is necessary for the purposes for which it was collected.
-
-**13\. Cookies**  
-We create, issue and access cookies which hold information about you and your operating system including, but not limited to, browser type, Internet Protocol (IP) address and what parts of the website are visited. These cookies enable us to improve the user-friendliness of our websites and to adjust them to your needs.
-
-You can block cookies by activating the setting on your browser which allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies you may not be to access some parts of our site. Unless your browser is set to refuse cookies, our system will issue cookies as soon you visit one of our websites.
-
-**14\. Contacting Epson**  
-Please send any questions, comments or requests about this privacy policy to [privacy@epson.eu](mailto:privacy@epson.eu)
-
-**15\. Changes to this policy**  
-We will review this policy from time to time. Any future changes will be posted on this page. This privacy policy was last updated in February 2012.
-
-Epson Europe b.v.  
-Registered office : Azie building, Hoogoorddreef 5, 1101BA Amsterdam Zuidoost, the Netherlands  
-Registered in the Netherlands; registered number 33215466
+Given in compliance with Article 13 of the EU General Data Protection Regulation
