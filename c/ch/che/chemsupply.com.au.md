@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chemsupply.com.au privacy policy that was archived on 2018-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180416163116id_/https%3A//www.chemsupply.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemsupply.com.au privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906065901id_/https%3A//www.chemsupply.com.au/privacy-policy) for the most accurate reproduction.*
 
-# - : : : : Welcome to Chem Supply Online Catalogue : : : :
+# | Chem-Supply | Australia
 
   
 
