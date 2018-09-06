@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arivify.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606031817id_/https%3A//www.arivify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arivify.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906193323id_/https%3A//www.arivify.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
