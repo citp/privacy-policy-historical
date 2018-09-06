@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoonstock.com privacy policy that was archived on 2017-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170124083247id_/https%3A//www.cartoonstock.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonstock.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906183310id_/https%3A//www.cartoonstock.com/privacy.asp) for the most accurate reproduction.*
 
 # CartoonStock - Privacy Policy
 
@@ -20,7 +20,9 @@
 
 9\. Changes To Our Privacy Policy
 
-10\. Contacting Us
+10\. Access to Data
+
+11\. Contacting Us
 
 **1\. What Information Do We Collect?**
 
@@ -39,10 +41,11 @@ Any of the information we collect from you may be used in one of the following w
   * To improve our website; we continually strive to improve our website offerings based on the information and feedback we receive from you.
   * To improve customer service; your information helps us to more effectively respond to your customer service requests and support needs.
   * To process transactions. Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
-  * To administer a contest, promotion, survey or other site feature
-  * To send periodic emails. The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+  * To send order-related emails. The email address you provide will be used to send confirmation of your order including a copy of your receipt/invoice and license agreement and your image downloads.
 
 
+
+If you subscribe to our newsletter, the email address you provide will be used to send you information, updates on new services, features and discount and promotions. Note: If at any time you would like to unsubscribe from receiving future emails, we include an instant unsubscribe link at the bottom of each email. 
 
 **3\. How Do We Protect Your Information?**
 
@@ -78,8 +81,10 @@ By using our site, you consent to our Privacy Policy.
 
 If we decide to change our privacy policy, we will post those changes on this page.
 
-**10\. Contacting Us**
+**10\. Access to Data**
+
+You have the right to be told what personal information we hold about you on our databases. You should contact us stating your full name, your address and all services from CartoonStock to which you know you subscribe or have subscribed.
+
+**11\. Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information or the direct contact form on our [Contact page.](https://web.archive.org/contact_new.asp)
-
-Have any questions about our policy? Then [get in touch](https://web.archive.org/contact_new.asp). 
