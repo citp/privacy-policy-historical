@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the hive.co privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003182016id_/https%3A//www.hive.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hive.co privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906103853id_/https%3A//www.hive.co/privacy) for the most accurate reproduction.*
 
-# Hive.co - Collect audience data & sell more stuff
+# Hive.co - Privacy Policy
 
-## HIVE PRIVACY POLICY
-
-TicketLabs Inc. operating as Hive ( **"we" /"us"/"Hive"**) makes the website, [_www.hive.co_](https://www.hive.co/) (the **"Website"** ) available to Brands (such as artist and public personalities) and fans of brands ( **"Audience" /"Fans"/"You"**) as a platform for engagement and content sharing, as further described in our Terms of Service located at [_www.hive.co/tos_](https://www.hive.co/tos) (collectively the **"Services"** ). This Privacy Policy describes how we collect, store, use and distribute information about fans/audience members through the Services including individuals who register and create an account on Hive and individuals who access the public features of the Website and Services as visitors.
+TicketLabs Inc. operating as Hive ( **"we" /"us"/"Hive"**) makes the website, [_www.hive.co_](https://www.hive.co/) (the **"Website"** ) available to Brands (such as merchants, media companies, artists, and more) and a brands audience ( **"Audience" /"Audience Member"/"You"""**) as a platform for engagement and content sharing, as further described in our Terms of Service located at [_www.hive.co/tos_](https://www.hive.co/tos) (collectively the **"Services"** ). This Privacy Policy describes how we collect, store, use and distribute information about audience members through the Services including individuals who register and create an account on Hive and individuals who access the public features of the Website and Services as visitors.
 
 ### Overview:
 
@@ -44,7 +42,7 @@ We collect information for the following purposes:
   * **Registration & Access to the Services:** We use registration information to identify you when you are logging into the Website and using the Services. In order to use member features of our Services you must provide certain Personal Information to us such as your name, address, email address, and geographic location. Your Personal Information will be disclosed to the Brands you have shown interest in through the Services and you may be contacted by them.
   * **Transactional Notifications:** We provide notifications for certain activities relating to your use of the Services such as service updates and notifications regarding your account. Despite your indicated e-mail preferences, we may send you notices of any updates to our Terms of Service or Privacy Policy.
   * **Profile Data Shared with Brands and Public Data:** Publicly available data about you that is found on third-party sites (eg. information that is publicly available on Google or Facebook) may be collected and combined with other information held about you through the Services. Brands will be able to click on your profile and have access to certain information about you if you are in their audience. This information may include but is not limited to your general location (town, city and country) your first name and data about your usage of the Services (such as your interaction with a Brand’s content).
-  * **Service Delivery:** We use your personal information to respond to your queries (including requests for technical support or product information) and to deliver functionality and services requested by you. We also use your personal information to connect you with Brands you have shown interest in by downloading their songs, entering their contests, viewing their content or participating in other fan engagements. Such Brands will have the ability through the Services to update you on concerts, share other news and promotions and communicate directly with you and with fan groups you may be a member of.
+  * **Service Delivery:** We use your personal information to respond to your queries (including requests for technical support or product information) and to deliver functionality and services requested by you. We also use your personal information to connect you with Brands you have shown interest in by downloading their songs, entering their contests, viewing their content or participating in other audience engagements. Such Brands will have the ability through the Services to update you on concerts, share other news and promotions and communicate directly with you and with audience groups you may be a member of.
   * **Marketing Communications:** If you opt-in to receive marketing communications from us, we will keep you up to date on our products and services (including events, Brands and content we think you might be interested in), upcoming surveys or contests as well as those of our affiliates and certain third parties. You may withdraw your consent to receiving marketing communications at any time by unsubscribing from certain forms of communications through your account settings, or by emailing us and requesting we do so for you.
   * **Statistics:** We also collect statistics about use of the Services through cookies and other means (see _System Logs & Cookies_ below). We collect information through the Services and Website to manage our business and perform data analyses/audits for internal use.
   * **Personalization:** We use some information collected through the Website and Services (eg. see _System Logs & Cookies_ below) to target advertising based on factors such as geographical location, gender, interests, habits, etc. and to tailor your experience on our Website and display content that we believe to be of particular interest to You (see further _Advertisements_ ).
@@ -53,7 +51,7 @@ We collect information for the following purposes:
 
 
 
-If we plan to use your Personal Information in future for any other purposes not identified above, we will only do so after informing you by updating this Privacy Policy. See further the section of this Privacy Policy entitled _’Amendment of this Policy’_.
+If we plan to use your Personal Information in the future for any other purposes not identified above, we will only do so after informing you by updating this Privacy Policy. See further the section of this Privacy Policy entitled _’Amendment of this Policy’_.
 
 ### Disclosures & Transfers:
 
@@ -81,21 +79,56 @@ You are also responsible for helping to protect the security of your Personal In
 
 We will keep your Personal Information for as long as it remains necessary for the identified purpose or as required by law, which may extend beyond the termination of our relationship with you. We may retain certain data as necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery, or if required by law. All retained personal information will remain subject to the terms of this Privacy Policy. If you request that your name be removed from our databases, it may not be possible to completely delete all your Personal Information due to technological and legal constraints.
 
-### Amendment of this Policy:
-
-We reserve the right to change this Privacy Policy at any time. If we decide to change this Privacy Policy in the future, we will post an appropriate notice on the home page at [_www.hive.co_](https://www.hive.co/). Any non-material change (such as clarifications) to this Privacy Policy will become effective on the date the change is posted and any material changes will become effective 30 days from their posting on the Website. Unless stated otherwise, our current Privacy Policy applies to all Personal Information that we have about you. The date on which the latest update was made is indicated at the bottom of this document. We recommend that you print a copy of this Privacy Policy for your reference and revisit this policy from time to time to ensure you are aware of any changes. Your continued use of the Website signifies your acceptance of any changes.
-
 ### Access and Accuracy:
 
 You have the right to access the Personal Information we hold about you in order to verify the Personal Information we have collected in respect to you and to have a general account of our uses of that information. Upon receipt of your written request, we will provide you with a copy of your Personal Information although in certain limited circumstances, we may not be able to make all relevant information available to you such as where that information also pertains to another user. In such circumstances, we will provide reasons for the denial to you upon request. We will endeavor to deal with all requests for access and modifications in a timely manner.
 
 We will make every reasonable effort to keep your Personal Information accurate and up-to- date, and we will provide you with mechanisms to update, correct, delete or add to your Personal Information as appropriate. As appropriate, this amended Personal Information will be transmitted to those parties to which we are permitted to disclose your information. Having accurate Personal Information about you enables us to give you the best possible service.
 
+### Residents of the European Economic Area ("EEA"):
+
+We generally process Personal Information in order to fulfill contracts we have with our brand customers and to pursue our legitimate business interests listed above in this Policy. Otherwise, we will obtain consent from an individual in respect of processing of Personal Information if required by law to do so. Further, individuals located in the EEA (“ **EEA citizens** ”) have certain rights under European law (including under the General Data Protection Regulation) (collectively “ **EU Data Protection Law** ”) with respect to Personal Information, including the right to request access to, obtain, correct, amend, delete, or limit the use of your personal data. EEA citizens also have the right to make complaints to regulatory authorities in respect of our privacy practices. Individuals located in to the EEA who wish to exercise these rights or to learn more about such rights, should contact us at [_privacy@hive.co_](mailto:privacy@hive.co).
+
+EU Data Protection Law sets out a number of different reasons for which we may collect and process your personal data in certain circumstances. Where EU Data Protection Law applies, the legal bases we rely upon include:
+
+  * **Consent:** We can collect and process your data with your consent, where required by the EU Data Protection Law. For example, if you have given your consent to receiving marketing material from us.
+  * **Contractual obligations:** We need your personal data to comply with our contractual obligations. For example, where you have provided us with your email address to receive access to our Services, we will use this information in order to effectively deliver and communicate information to you in regard to such products and services.
+  * **Compliance with legal obligations:** If the law requires us to, we may need to collect and process your data for legal compliance reasons. For example, we can pass on details of people involved in fraud or other criminal activity.
+  * **Legitimate interest:** We may require your data to pursue our legitimate interests or those of a third party in a way which might reasonably be expected as part of running our business and which does not materially impact your rights, freedom or interests. For example, it is in our legitimate interests to (a) ensure that content from our Website is presented in the most effective manner for you and your computer and that we provide you with the information, products and services that you request from us, (b) to keep our Website and our Services safe and secure;(c) for measuring or understanding the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you (including individual and pseudonymous analysis and profiling); (d) to allow you to participate in interactive features of our Services (if applicable), and (e) to use marketing related information about you that we have lawfully collected.
+
+
+
+If you are an EEA citizen, Personal Information that we process in relation to you may be transferred and stored at, a destination outside the EEA that may not be subject to equivalent data protection law (please see further **Disclosures & Transfers** above). It may also be processed by staff situated outside the EEA who work for us or for one of our suppliers.
+
+We may transfer your personal data outside the EEA:
+
+  * in order to host or store it;
+  * in order to enable us to provide goods or services to and fulfil our contract with you or the company your work for;
+  * where we are legally required to do so;
+  * where it is in our legitimate interests and we have concluded these are not overridden by your rights.
+  * Where your information is transferred outside the EEA, we take steps reasonably necessary to ensure that your data is subject to appropriate safeguards, such as where applicable relying on a recognised legal adequacy mechanism and contracts, to help ensure your rights and protections travel with your data and that your personal data is treated securely and in accordance with this Policy.
+
+
+
+If you are an EEA Citizen, you have the following additional rights under certain circumstances:
+
+  * to be provided with a copy of your personal data held by us;
+  * to request the rectification or erasure of your personal data held by us;
+  * to request that we restrict the processing of your personal data (for example, while we verify or investigate your concerns about your information);
+  * to object to the further processing of your personal data, including the right to object to marketing; and
+  * to request that your personal data be moved to a third party.
+
+
+
+### Amendment of this Policy:
+
+We reserve the right to change this Privacy Policy at any time. If we decide to change this Privacy Policy in the future, we will post an appropriate notice on the home page at [_www.hive.co_](https://www.hive.co/). Any non-material change (such as clarifications) to this Privacy Policy will become effective on the date the change is posted and any material changes will become effective 30 days from their posting on the Website. Unless stated otherwise, our current Privacy Policy applies to all Personal Information that we have about you. The date on which the latest update was made is indicated at the bottom of this document. We recommend that you print a copy of this Privacy Policy for your reference and revisit this policy from time to time to ensure you are aware of any changes. Your continued use of the Website signifies your acceptance of any changes.
+
 ### Contact Us:
 
-You can help by keeping us informed of any changes such as a change of address or telephone number. If you would like to access your information, if you have any questions, comments or suggestions of if you find any errors in our information about you, please contact us at: [_hello@hive.co_](mailto:hello@hive.co)
+You can help by keeping us informed of any changes such as a change of address or telephone number. If you would like to access your information, if you have any questions, comments or suggestions of if you find any errors in our information about you, please contact us at: [_privacy@hive.co_](mailto:privacy@hive.co).
 
-**Last Updated: April 27, 2016**
+**Last Updated: May 24, 2018**
 
   
 
