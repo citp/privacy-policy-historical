@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newtab.club privacy policy that was archived on 2017-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170223170435id_/https%3A//newtab.club/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newtab.club privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906095541id_/https%3A//newtab.club/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
