@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the speedof.me privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120080221id_/http%3A//speedof.me/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedof.me privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906021010id_/https%3A//speedof.me/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | SpeedOf.Me, Internet speed test for all your devices
 
 ## Privacy Policy
 
-Our Privacy Policy was last updated and posted on March 5, 2013. It governs the privacy terms of our Website, located at http://speedof.me. Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our Terms of Service.
+Our Privacy Policy was last updated and posted on March 5, 2013. It governs the privacy terms of our Website, located at https://speedof.me. Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our Terms of Service.
 
 **Your Privacy**  
 SPEED OF ME, LLC follows all legal requirements to protect your privacy. Our Privacy Policy is a legal statement that explains how we may collect information from you, how we may share your information, and how you can limit our sharing of your information. You will see terms in our Privacy Policy that are capitalized. These terms have meanings as described in the Definitions section below.
