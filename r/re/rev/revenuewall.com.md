@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revenuewall.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604103452id_/http%3A//www.revenuewall.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revenuewall.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906165934id_/http%3A//www.revenuewall.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RevenueWall
 
