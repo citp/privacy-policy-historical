@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the tablotv.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119132747id_/https%3A//www.tablotv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tablotv.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906033447id_/https%3A//www.tablotv.com/privacy) for the most accurate reproduction.*
 
 # Tablo Privacy Policy | Over The Air (OTA) DVR | Tablo
 
 Nuvyyo respects your right to privacy. During your visit to our website, your privacy is respected. We do not collection personal information about you unless you opt to complete forms or applications that request necessary personal information. We recognize the need to ensure the appropriate protection and management of any information that you may provide us while you are visiting our website. This following text outlines the steps that we have taken to ensure your privacy.
 
 **Information Collection**  
-You may generally visit the Nuvyyo' website anonymously, without revealing who you are or revealing any personal information about yourself.
+You may generally visit the Nuvyyo/Tablo website anonymously, without revealing who you are or revealing any personal information about yourself.
 
 We also provide the resources for you to register with us, where you may voluntarily provide personal details, in order to request further information, to keep in contact with us, to apply for career opportunities, or to provide feedback. Where appropriate, we may contact you to respond to your request or to keep in contact with you. You may also enter our website as a registered visitor to gain access to resources including proprietary information, special tools, customer service, or support. Personal information collected through this website is provided only to our office personnel who require the information. We will use the personal information collected for the stated purposes only.
 
@@ -34,6 +34,6 @@ Nuvyyo uses security technology including authentication, encryption and authori
 Please note that email messages are not transmitted in a secure form and hence are susceptible to unauthorized reading or interception.
 
 **Links to Other Websites**  
-For the convenience of our visitors, Nuvyyo' website contains links to other sites. We do not endorse or otherwise accept responsibility for the content nor the privacy policies, where present, for those sites.
+For the convenience of our visitors, Nuvyyo/Tablo's website contains links to other sites. We do not endorse or otherwise accept responsibility for the content nor the privacy policies, where present, for those sites.
 
 Nuvyyo reserves the right to modify this privacy document at any time. Any changes will be promptly updated on this website.
