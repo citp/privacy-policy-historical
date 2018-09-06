@@ -1,39 +1,143 @@
-> *The following text is extracted and transformed from the greencupboards.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505233849id_/http%3A//www.greencupboards.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greencupboards.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907013710id_/https%3A//www.etailz.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | GreenCupboards
+# Privacy Policy - etailz, Inc.
 
-GreenCupboards created a privacy policy to describe our information gathering and dissemination practices with respect to information we collect through our website. This privacy policy does not govern our use of any information you provide to us when you call, write, or communicate with us in any manner other than through our website. This privacy policy is effective as of September 26, 2008. Because the Internet is global, information about you that we collect, or that you submit, may be transferred to, processed in, and held in countries (including the United States) other than the one in which you reside. By using our website, you explicitly consent to such use of your information and agree to the terms of this privacy policy.
+### PRIVACY POLICY
 
-Please be assured that as a GreenCupboards customer and visitor to our site, we will not share your personal information with any other company or retailer. We use the personally identifiable information you provide for internal purposes, such as confirming and tracking your order, subscription or registration, analyzing trends and statistics, informing you of our new products, services and offers, and providing you with information from and about GreenCupboards. Your personal information remains strictly confidential. GreenCupboards does not resell any information about our customers to third parties. For your security, we do not store your credit card information. You will need to re-enter it each time you place a new order on our website.
+This Privacy Policy aims to give you information regarding how etailz collects and uses your personal data through your use of our website. Personal data is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. It is important that you read this Privacy Policy so that you are fully aware of how we collect, use, protect, or otherwise handle your personal data. This Privacy Policy applies to all websites owned and operated by etailz, Inc. (“we”, “us”, “our”); it does not apply to the practices of companies etailz does not own or control.
 
-## Changes
+When you visit our website, you have choices about whether to provide us with information and how we use that information. You may choose not to provide us with information, but your choice(s) may prevent you from contacting etailz directly or limit your use of certain features. For example, if you do not provide us with an email address we cannot respond to your inquiry.
 
-We may update this privacy policy from time to time. If under any such update we make any material change to the way in which we treat your personal information, we will inform you of such change via e-mail or by posting a notice on relevant areas in our website. Any updated version of this privacy policy will be effective as of the date set forth therein.
+We may update this Privacy Policy to reflect changes in the law, our services, our companies, or advances in technology. We will alert you to this change by placing a notice on our website or sending an email. Our use of the information we collect is subject to the Privacy Policy in effect at the time such information is used.
 
-## Information You Choose to Submit
+### INFORMATION WE COLLECT & USE
 
-You can visit our website without telling us who you are or revealing any personal information about yourself. If, however, you wish to make a purchase from our website, you are required to register with GreenCupboards and, in connection with such registration, provide your full name, email address, billing address (and, if different, the address to which you would like your order shipped), phone number, and credit card information. We use such information to fulfill your order and to contact you from time to time about us, our website, our products, and services. We will also protect any information you provide to us about someone other than you (e.g., the names and addresses of recipients of items you have ordered) in the same manner that we protect your personal information.
+Some of the information we collect is provided by you, some is collected automatically, and some may be collected from other sources.  
+ 
 
-## Information We Automatically Collect
+#### Information You Provide
 
-We automatically collect certain information to help us understand how visitors use our website. For example, each time you visit our website we automatically collect your IP address, browser and computer type, access time, the webpage from which you came, and the webpage(s) that you access during your visit. We also use cookies (which are small amounts of data sent from a web server to your browser that are stored on your computer hard drive) to keep track of your shopping cart, to validate your identity, to tailor our website to meet your personal interests, and to improve the quality of our website. In addition, third parties who place advertisements on our website may also collect information through cookies to ensure that their advertising systems and technologies work properly and to allow them to track responses to their advertisements. Cookies set by these third parties are governed by the privacy policies of those third parties. Generally, you can set your browser not to accept cookies or to notify you if you are sent a cookie, giving you the opportunity to choose whether or not to accept the cookie. Please note that if you do set your browser not to accept cookies, we will be unable to maintain your shopping cart and you will not be able to complete an on-line purchase with us.
+When you use our website, you may submit an inquiry request to etailz and will be asked for the following personal information:
 
-## Our Information Sharing Practices
+  * Name
+  * Email Address
+  * Phone Number
+  * Company Name
+  * Additional information you voluntarily provide
 
-Service Providers: From time to time, we may enter into relationships with third parties who provide services to us (e.g., credit card processing services, shipping services, or data management and storage services). In those circumstances, we disclose information about you that is necessary for such service providers to perform those services.
 
-We partner with third-party advertising companies to deliver offers that are relevant to your interests based on what you’ve viewed on our site. We do not provide any personally identifiable customer information to these advertisers. These companies may utilize certain technologies including cookies, Javascript, Pixel Tags and other technologies to deliver advertisements and marketing messages and to collect anonymous information about your visits to our site and other sites. If you would like more information about this practice or to opt out of having this information used by companies that are part of the Network Advertising Initiative visit: http://www.networkadvertising.org/managing/opt_out.asp. If you choose to opt out, you will still see ads from us but those ads may not be relevant to your interests.
 
-Other Disclosure Scenarios: Notwithstanding anything in this privacy policy to the contrary, we reserve the right, unless limited by applicable law, to share any information we have collected about you or that you have submitted: (1) in response to subpoenas, court orders, or legal process, or to establish, protect, or exercise our legal rights or defend against legal claims; (2) if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, fraud, or situations involving potential threats to the safety of any person; (3) if we believe it is necessary to investigate, prevent, or take action regarding situations that involve significant abuse of our website infrastructure or the Internet in general (such as voluminous spamming, denial of service attacks, or attempts to compromise the security of information); (4) to other companies under common control with us (in which case we will require such entities to honor this privacy policy); and (5) if we are acquired by or merged with another entity.
+#### Information We Automatically Collect
 
-## Choice/Opt-Out
+We automatically collect certain information to help us understand how visitors use our website. For example, each time you visit our website we automatically collect your IP address, location information, browser and computer type, access time, the webpage from which you came, and the webpage(s) that you access during your visit.  
+ 
 
-We offer you the opportunity to choose not to receive communications from us. If you would like to take advantage of this opportunity, please contact us (clearly state what information you would like modified or deleted), by writing to us at GreenCupboards, Attn: Webmaster, 850 E Spokane Falls Blvd, Suite 110, Spokane, WA 99202, emailing us at [support@greencupboards.com](mailto:support@greencupboards.com), or call us between the hours of 9AM – 5PM Pacific Time, Monday – Friday, at 1-800-326-1325. Please note that sometimes these requests may take up to 10 business days to process. Even if you do take advantage of these opportunities, we reserve the right to send you administrative messages relating to our website(s) (e.g., about changes to this privacy policy), to contact you regarding orders you have placed (e.g., order confirmations and shipment tracking information), and to share your information with our service providers.
+#### Analytics
 
-## Modifying Your Information
+We may use Google Analytics or other providers to understand better how individuals and their devices interact with the Services. Learn more about [how Google uses data when you visit a partner site or app](https://policies.google.com/technologies/partner-sites).  
+ 
 
-If you would like to modify or delete from our database any personal information you previously submitted to us, please let us know by accessing and updating your profile on our site, by contacting us (clearly state what information you would like modified or deleted), by writing to us at GreenCupboards, Attn: Webmaster, 850 E Spokane Falls Blvd, Suite 110, Spokane, WA 99202, emailing us at [support@greencupboards.com](mailto:support@greencupboards.com) or calling us between the hours of 9AM – 5PM Pacific Time, Monday – Friday, at 1-800-326-1325. Please note that sometimes these requests may take up to 10 business days to process, that any information about you that we have copied may remain in back-up storage for some period of time after your request, and that if you delete certain information (e.g., your billing address) you may not be able to purchase products in the future without re-submitting such information. Also, please note that we will maintain information about you in our database whenever we are required to do so by law.
+#### Cookies and Related Technologies
 
-## Security
+We also use cookies (which are small amounts of data sent from a web server to your browser that are stored on your computer hard drive) to validate your identity, tailor our website to meet your personal interests, improve the quality of our website, or learn about your online activity and preferences. Generally, you can set your browser not to accept cookies or to notify you if you are sent a cookie, giving you the opportunity to choose whether or not to accept the cookie.  
+ 
 
-We have implemented reasonable security measures to protect your personal information. Unfortunately, however, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot guarantee its security. We urge you to keep your password in a secure place, not to disclose it to anyone, and to sign off of our website and close your browser when you have finished visiting our website.
+#### Plug-Ins
+
+Our websites may offer you the ability to interact with plugins from websites, which allows etailz and/or that website to receive data from or about you. In some cases, we may know that you clicked on a plugin.  
+ 
+
+### HOW WE USE INFORMATION & LAWFUL BASES
+
+We will only use your personal data when the law allows us to. Most commonly, we will use your personal data to provide you requested information, respond to a survey or marketing communication, or respond to your customer service requests.
+
+For purposes of European Union data protection laws, we process personal data where:
+
+  * We need to perform the contract we are about to enter into or have entered into with you, such as when we process a payment
+  * It is in our legitimate interests (or those of a third party) and your data protection interests and fundamental rights and freedoms do not override those interests, such as when we secure the services, engage in fraud prevention, and direct marketing
+  * We need to comply with a legal or regulatory obligation
+  * We have your consent to do so. We do not generally rely on consent as a lawful basis for processing your personal data, but you have the right to withdraw consent to marketing at any time by contacting us.
+
+
+
+We may combine the information we collect (“aggregate”) or remove pieces of information (“de-identify”) to limit or prevent identification of any particular user or device, which can help support our research and marketing efforts. This Privacy Policy does not apply to our use of such aggregated or de-identified information.  
+ 
+
+### LOCATION OF DATA PROCESSING
+
+Information that we collect and use is processed in the United States. By accessing our website, you acknowledge that your information will be processed as described in this Privacy Policy.  
+ 
+
+### HOW WE PROTECT YOUR DATA
+
+We have implemented appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorized way, altered or disclosed. In addition, we limit access to your personal data to a limited number of employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
+
+We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.  
+ 
+
+### THIRD PARTY DISCLOSURE
+
+We do not rent, sell or share information except as described in this Privacy Policy. We may share your personal data with service providers and other third parties if necessary to fulfill the purposes for collecting the information, provided that any such third party will commit to protect your privacy as required under the applicable law and this policy.
+
+We may share personal data with etailz’ corporate affiliates. These companies use your information as described in this Privacy Policy.
+
+We may share personal data with law enforcement, government agencies, courts, or other organizations: (a) as required by law, such as to comply with a subpoena or similar legal process; or (b) when etailz believes in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
+
+We may share or transfer personal data if etailz is involved in a merger, acquisition, or sale of all or a portion of its assets, as part of such transaction. In any event, your information will remain protected under this Privacy Policy.
+
+We may share it in any other circumstances where etailz receives your written consent.  
+ 
+
+### RETENTION OF PERSONAL DATA
+
+We keep your information for the time period required to complete the purposes for which it is processed or satisfy legal requirements. The length of time for which we retain information depends on the purposes for which we collected and use it or the requirements of applicable laws.  
+ 
+
+### OPT-IN CHOICES & LEGAL RIGHTS
+
+You will be given an opportunity to opt-in to targeted communications from etailz. If you opt-out, etailz will only respond to direct inquiries and will not use your personal information to contact you for any other purpose.
+
+Furthermore, you have the legal right to:
+
+  * Access the data that we keep about you. We may need to ask you to provide us certain credentials to make sure that you are who you claim you are. If you find that the data is not accurate, complete, or up-to-date, then you may provide us with the necessary information to rectify it.
+  * Contact us if you want to withdraw your consent to the processing of your personal information. Exercising this right will not affect the lawfulness of processing based on consent before its withdrawal.
+  * Request to delete or restrict access to your personal information. We may postpone or deny your request if your personal information is in current use for providing our services or to other legitimate purposes such as compliance with regulatory requirements associated with etailz.
+  * You may ask to transfer your personal information in accordance with your right to data portability.
+  * You may object to the processing of your personal information for direct marketing purposes.
+  * You have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning you or similarly significantly affecting you.
+  * You have a right to lodge a complaint with a data protection supervisory authority.
+
+
+
+If you exercise one (or more) of the above-mentioned rights, in accordance with the provisions of applicable law, you may request to be informed that third parties that hold your personal information, in accordance with this Policy, will act accordingly.
+
+We do periodic assessments of our data processing and privacy practices to ensure that we comply with this Privacy Policy, to update this Privacy Policy when needed, and to verify that this Privacy Policy is displayed properly and is accessible.
+
+If you have any concerns about the way we process your personal information, you are welcome to contact [privacy@etailz.com](mailto:privacy@etailz.com).
+
+We will investigate your inquiry and make good-faith efforts to resolve any existing or potential dispute with you. If you are unhappy with the response you receive and reside in the EU, you can also refer the matter to the Information Commissioner’s Office (ICO).  
+ 
+
+### CHILDREN’S PRIVACY
+
+We do not knowingly collect or solicit “personal information” (as defined by the U.S. Children’s Online Privacy Protection Act) from anyone under the age of 13. If you are under 13, please do not attempt to contact us or send any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information. If you believe that a child under 13 may have provided us personal information, please contact us at [privacy@etailz.com](mailto:privacy@etailz.com).
+
+For residents of the EU, where processing of personal data is based on consent, we will not knowingly engage in that processing for users under the age of consent established by applicable member or data protection law. If we learn that we are engaged in that processing with such users, we will halt such processing and will take reasonable measures to promptly remove applicable information from our records.  
+ 
+
+### CALIFORNIA RESIDENTS
+
+If you are a California resident, you may ask for a list of third parties that have received your information for direct marketing purposes during the previous calendar year. This list also contains the types of information shared. We provide this list at no cost. To make such a request, contact us at [privacy@etailz.com](mailto:privacy@etailz.com).  
+ 
+
+### CONTACT INFORMATION
+
+If you have any questions or concerns regarding this Privacy Policy or etailz’ use of your data, please send a detailed message to [privacy@etailz.com](mailto:privacy@etailz.com). You may also write to us at:
+
+etailz, Inc.  
+2818 N. Sullivan Rd., Ste 130  
+Spokane Valley, WA 99216  
+United States  
+ 
+
+Updated: May 25, 2018
