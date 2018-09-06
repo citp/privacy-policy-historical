@@ -1,10 +1,24 @@
-> *The following text is extracted and transformed from the bridgespan.org privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621094128id_/https%3A//www.bridgespan.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridgespan.org privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906151005id_/https%3A//www.bridgespan.org/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bridgespan
 
-#### Introduction
+#### Bridgespan is committed to your privacy
 
-This privacy policy (“Policy”) describes the practices of The Bridgespan Group, Inc. ("Bridgespan") with respect to the gathering and use of personal information submitted to Bridgespan through the Bridgespan website (the "Bridgespan Site") and the Bridgestar website (the "Bridgestar Site", and together with the Bridgespan Site, the "Sites"). All capitalized terms not defined here, shall be given the same meaning as defined in the Bridgespan Group General Terms and Conditions ("Terms").
+We’re dedicated to working in your best interests and to conforming with the latest U.S. and European privacy standards, including the General Data Protection Regulation (GDPR). We want to be transparent in how and when we collect and use your data and to help you better understand how to control that data. 
+
+In plain language, we collect some data about visitors and newsletter subscribers through forms and cookies (small tracking codes) on our site. We use this information to keep in touch with you (if you fill out a contact form or newsletter subscription request, for instance) and to improve the content we provide (by identifying what articles get the most attention and to fix site usability issues, for example). 
+
+We don’t sell, rent, or otherwise share your personal data with anyone outside of Bridgespan except as necessary to provide a requested service (such as accepting payment for submitting a job posting) or to fulfill legal obligations in the interest of the safety of The Bridgespan Group, the users of our website, or the public.
+
+Some of the tools on our site also collect information and use their own cookies in order to provide you with features and services, and you should review those companies’ privacy policies. These include our social sharing buttons ([AddThis](http://www.addthis.com/privacy)), our commenting feature ([Disqus](https://help.disqus.com/terms-and-policies/disqus-privacy-policy)), and our online polling/feedback/user experience tool ([HotJar](https://www.hotjar.com/legal/policies/privacy)). We also use [Google Analytics](https://support.google.com/analytics/answer/6004245?hl=en) to track overall activity on our site.
+
+If you ever have any questions, suggestions or concerns about your data privacy, including requests to have your data removed, please send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7404061d0215170d3416061d1013110704151a5a1b0613). You can also send letters to: The Bridgespan Group, 2 Copley Place, 7th Floor, Suite 3700b, Boston, MA, 02116
+
+Read below for additional details about our policies and procedures. 
+
+#### Further Details
+
+This privacy policy (“Policy”) describes the practices of The Bridgespan Group, Inc. ("Bridgespan") with respect to the gathering and use of personal information submitted to Bridgespan through the Bridgespan website (the "Bridgespan Site").  All capitalized terms not defined here, shall be given the same meaning as defined in the Bridgespan Group General Terms and Conditions ("Terms").
 
 This Policy does not cover Bridgespan’s confidentiality and privacy obligations to the employers and search firms that submit job listings and related employment information to Bridgespan in connection with recruiting services. Such obligations are governed by a separate written agreement between each of the employers and search firms and Bridgespan. This Policy also does not apply to the practices of unrelated third-party service providers or companies accessed through links provided for your convenience from the Sites.
 
@@ -31,6 +45,7 @@ Bridgespan does not disclose NPI to any third party, except for the purposes of 
   * If you apply for a job on the Recruiting Platform, to the employer or agency that advertises the job, and to third parties that may search our database of job applicants
   * To government agencies and law enforcement officials, when we are required to do so to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims, or when Bridgespan in its sole discretion, believes it is required or appropriate in order to comply with the law
   * We also reserve the right to disclose NPI in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Bridgespan's Terms and Conditions or other agreements, or as otherwise required or permitted by law. If Bridgespan merges with another organization, your NPI will be acquired by that organization.
+  * For participants in the Leadership Accelerator program, see the program's [Terms of Use](https://web.archive.org/services/leading-for-impact/terms-of-use-bridgespan-leadership-accelerator).
 
 
 
@@ -54,19 +69,29 @@ Although the Sites have security measures in place to protect against unauthoriz
 
 Bridgespan provides methods of updating your information and contact preferences. You may update your information and contact preferences online, or write, e-mail, or telephone us with changes to your information and contact preferences.
 
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bbcbc9d2cddad8c2fbd9c9d2dfdcdec8cbdad595d4c9dc).
+
+Physical address: The Bridgespan Group, 2 Copley Place, 7th Floor, Suite 3700b, Boston, MA, 02116
+
+Phone: (617) 572-2833
+
 #### Opt-out policy
 
 You may at any time request not to be contacted by Bridgespan. "Opt out" requests should be sent to the address indicated on the materials sent by Bridgespan or by replying to the email in which such material was sent, or by telephone to Bridgespan Customer Service. Please note that Bridgespan Customer Service may ask you to follow up your request in writing, for our records.
 
-#### Linked Internet websites
+#### Linked websites
 
 The Sites provide hypertext links to and framed content from other websites that may be governed by privacy policies that are different from those provided herein. If you leave the Sites, or if you are presented with a framed web page that is branded with the marks of a third party, this Privacy Policy will not apply. You should read the privacy policies of websites reached through the use of links or reached through the interactions with framed content on the Sites. Bridgespan is not responsible for the collection, use, or disclosure of information collected through those websites, and Bridgespan expressly disclaims any and all liability related to such collection, use, or disclosure.
 
-#### Revisions to this Policy
+#### Applicable laws
+
+These Sites are published in the United States and is subject to laws of the United States. If you are located in a country outside the United States and voluntarily submit personal information to us, you thereby consent to the general use of such information as provided in this privacy policy and to the transfer of that information to, and/or storage of that information in, the United States.
+
+#### Revisions to this policy
 
 As the Sites grow and new features are added, or legal requirements change, this Privacy Policy may be amended by posting the amended Privacy Policy on the Sites. The amended Privacy Policy, which will apply to all NPI held by Bridgespan, will automatically be effective 30 days after it is initially posted on the Sites.
 
-_Effective Date of Privacy Policy: August 12, 2008._
+_Effective Date of Privacy Policy: May 24, 2018._
 
 [ ](http://creativecommons.org/licenses/by/4.0/)
 
