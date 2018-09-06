@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nflshop.com privacy policy that was archived on 2016-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160117070132id_/https%3A//nfl.custhelp.com/app/answers/detail/a_id/23) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nflshop.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906054651id_/https%3A//nfl.custhelp.com/app/answers/detail/a_id/23) for the most accurate reproduction.*
 
-# What is your privacy policy?
+# What is your privacy policy? NFL.custhelp.com
 
-THIS VERSION IN EFFECT SINCE JUNE 27, 2013
+## THIS VERSION IN EFFECT SINCE JUNE 27, 2013
 
 Fanatics Retail Group North, Inc. operates this Web site, nflshop.com (this "Web Site"), pursuant to agreements with NFL Properties LLC ("NFLP"; NFLP and the other NFL Entities (as defined below) shall hereinafter be referred to as the "NFL"). Both the NFL and Fanatics Retail Group North, Inc. ("FRGNI" or "we" or "us") recognize that you care how information about you is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web Site. As used herein, the "NFL Entities" shall mean the National Football League, its member professional football clubs, NFL Properties LLC, NFL Ventures, Inc., NFL Ventures, L.P. and its direct and indirect subsidiaries.
 
@@ -14,11 +14,11 @@ By using this Web Site, you signify your assent to the collection, use and shari
 
 | 
 
-What Information About Me Is Collected and Stored?
+### What Information About Me Is Collected and Stored?
 
 We collect two types of information on this Web Site: Personal Information and Non-Personal Information.
 
-Personal Information
+#### Personal Information
 
 "Personal Information" is information we collect on this Web Site that can be used to identify or contact you, such as your full name, street address, e-mail address, telephone number, credit card number and credit card expiration date. We will use the Personal Information that you provide to us only for the purposes described in this Privacy Policy or as otherwise disclosed at the time we request such information from you.
 
@@ -26,17 +26,17 @@ We collect and store Personal Information that you provide to us when using this
 
 We also may collect and store information about you that we receive from other sources, to enable us to update and correct the Personal Information contained in our database and to provide product recommendations and special offers that we think will interest you.
 
-Non-Personal Information
+#### Non-Personal Information
 
 "Non-Personal Information" is information we collect on this Web Site that by itself cannot be used to identify or contact you, such as demographic information and other anonymous statistical data relating to the use of this Web Site. For example, we collect and store certain Non-Personal Information automatically whenever you interact with this Web Site, including your IP address, browser information and reference site domain name. We also collect Non-Personal Information regarding customer traffic patterns and site usage. This information is used to analyze and improve this Web Site and to provide our customers with a fulfilling shopping experience.
 
 Also, like many Web Sites, we use "cookies", which are files stored on your computer's hard drive by your browser. Cookies help us to identify account holders and to optimize their shopping experience. Cookies also allow us to hold selections in a shopping cart when a user leaves this Web Site without checking out. Most browsers accept cookies automatically but allow you to disable them. We recommend that you leave cookies "turned on" so that we can offer you a better shopping experience on this Web Site.
 
-Is Information Collected From Children?
+### Is Information Collected From Children?
 
 We do not sell or ship any items ordered through this Web Site directly to anyone who we know to be under the age of 18, nor do we collect any personal information from anyone who we know to be under the age of 18. Because it is important to protect the privacy of children on the Internet, if you are under the age of 18, you should use this Web Site only with the involvement of a parent or guardian and should not submit any personal information to us.
 
-With Whom Do You Share Information?
+### With Whom Do You Share Information?
 
 We do not share with others any Personal Information that you provide to us through this Web Site or through our Customer Service Department, except as described in this Privacy Policy at the time of disclosure, or in situations where you have provided consent.
 
@@ -50,29 +50,29 @@ We may share Non-Personal Information with our marketing partners, advertisers a
 
 As with any business, it is possible that as our business develops, we might sell or buy online stores or other assets. In such transactions, information about customers often is among the transferred assets. Accordingly, in the unlikely event that the NFL or FRGNI, or substantially all of our respective assets are acquired by a third party, such information may be one of the transferred assets (unless the Personal Information was collected under a previous Privacy Policy that did not permit such disclosure). Under such circumstances, the NFL or FRGNI, as the case may be, would to the extent possible require the acquiring party to follow the practices described in this Privacy Policy.
 
-What Steps Are Taken To Keep Personal Information Secure?
+### What Steps Are Taken To Keep Personal Information Secure?
 
 We use various security measures, including Secure Socket Layer (SSL) encryption technology, to protect personal information that we collect. If you place an order through this Web Site, you will be asked to set up an account and provide an email address and password. You must provide an appropriate email address and password in order to access account information. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel a password, or if you become aware of any loss, theft or unauthorized use of a password, please contact our Customer Service Department by email at customerservice@NFLShop.com or by phone at 1-877-NFL-SHOP (1-877-635-7467).
 
 Although we exercise care to protect your Personal Information, we remind you that there is always some risk involved in transferring data over the Internet, particularly if you send information to us via an unsecured means, such as an email.
 
-How Can I Access, Correct And Update Personal Information?
+### How Can I Access, Correct And Update Personal Information?
 
 You can access, correct and update certain personal information that you have provided to us by logging into your account using the "My Account" link at the top of every page and then clicking on "Modify Account" within the Help Desk area of this Web Site.
 
 There are several ways in which you can tell us whether or not you want to receive marketing information from the NFLShop.com. When you set up an account, or click on "Email Options" within the Help Desk area, or place an order, you will have an opportunity to make or change your selections in this regard. If you have signed up to receive our emails and prefer not to receive marketing information from The NFLShop.com, follow the "unsubscribe" instructions provided on any marketing e-mail you receive.
 
-What Happens When I Link To Or From Another Web Site?
+### What Happens When I Link To Or From Another Web Site?
 
 This Web Site may contain links to Web sites operated by third parties. Please be advised that the practices described in this Privacy Policy do not apply to information gathered through these other Web sites. We encourage you to be aware of when you leave this Web Site and to read the privacy policies of each and every Web site that you visit.
 
 If you have accessed this Web Site through a link from certain of our advertising or marketing partners, this Web Site may include a frame of the applicable advertising or marketing partner. Nevertheless, the information you provide to us through these framed Web pages is collected by us, and our use of this information is governed by this Privacy Policy.
 
-What About Contests And Sweepstakes?
+### What About Contests And Sweepstakes?
 
 When we run a contest or sweepstakes relating to this Web Site, it will be accompanied by a set of rules. The rules for each contest/sweepstakes will specify how the information gathered from you for entry will be used and disclosed, if different than as described in this Privacy Policy.
 
-NFLShop Mobile Alerts Privacy Policy
+### NFLShop Mobile Alerts Privacy Policy
 
 NFLShop Mobile Alerts Sign Up - By entering your mobile phone number you are subscribing to receive promotional text messages and alerts from NFLShop. You will receive seven (7) messages per month. Promotional text messaging shall include notifications, alerts, updates, discounts, coupons and special offers. NFLShop respects your privacy and your mobile number will be subject to its privacy policy.
 
@@ -90,6 +90,6 @@ Text messaging may not be available for all service providers or for all handset
 
 For additional information, you may contact Customer Service by phone at 1-877-NFL-SHOP (1-877-635-7467).
 
-How Will I Be Informed About Changes Regarding This Privacy Policy?
+### How Will I Be Informed About Changes Regarding This Privacy Policy?
 
 If we make any material changes to this Privacy Policy, we will post a notice on this Web Site notifying users of the changes. In some cases, we also may send an email notifying users of the changes. You should check this Web Site periodically to see if any recent changes to this Privacy Policy have occurred.
