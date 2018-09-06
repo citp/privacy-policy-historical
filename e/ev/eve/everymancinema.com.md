@@ -1,45 +1,181 @@
-> *The following text is extracted and transformed from the everymancinema.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610043238id_/http%3A//www.everymancinema.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everymancinema.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906124554id_/https%3A//www.everymancinema.com/privacy-policy) for the most accurate reproduction.*
 
-# Private Policy | Read Our Private Policy | Everyman Cinemas
+# Privacy Policy| EVERYMAN Cinemas
 
-This statement relates to our privacy practices in connection with this website. We are not responsible for the content or privacy practices of other websites. Any external links to other websites are clearly identifiable as such. Some technical terms used in this statement are explained at the end of this page.
+### **Everyman Privacy Policy**
 
-General statement
+### _Who Are We?_
 
-We fully respect your right to privacy, and will not collect any personal information about you on this website without your clear permission. Any personal information, which you volunteer to us, will be treated with the highest standards of security and confidentiality, strictly in accordance with the Data Protection Acts, 1988 & 2003.
+Everyman cinemas are operated by the Everyman Media Group plc. 
 
-Collection and use of personal information
+Everyman Media Group plc.
 
-We do not collect any personal data about you on this website, apart from information which you volunteer (for example through the booking process, by e-mailing us or by using our online feedback form). Any information, which you provide in this way, is not made available to any third parties, and is used by us only in line with the purpose for which you provided it.
+2 Downshire Hill
 
-Collection and use of technical information
+London
 
-This website does not use cookies, apart from temporary "session" cookies which enable a visitor’s web browser to remember which pages on this website have already been visited. Visitors can use this website with no loss of functionality if cookies are disabled from the web browser.
+NW3 1NR
 
-Technical details in connection with visits to this website are logged by our internet service provider for our statistical purposes. No information is collected that could be used by us to identify website visitors. The technical details logged are confined to the following items:
+For any questions about how we use your data, or to exercise your rights over your data, you can contact us on:
 
-The IP address of the visitor's web server
+**Telephone** : 01233 504815
 
-The top-level domain name used (for example .ie, .com, .org, .net)
+**Email** : [talk@everymangroup.com](mailto:talk@everymangroup.com)
 
-The previous website address from which the visitor reached us, including any search terms used
+**Post** : Everyman Media Group plc., 2 Downshire Hill, London, NW3 1NR
 
-Click stream data which shows the traffic of visitors around this web site (for example pages accessed and documents downloaded)
+If you do have questions, we’d ask you to read this policy first as we hope it’s clear and comprehensive.
 
-The type of web browser used by the website visitor.
+### **What Data Do We Collect And Process About You, What Do We Do With It And Why?**
 
-We will make no attempt to identify individual visitors, or to associate the technical details listed above with any individual. It is our policy to never disclose such technical information in respect of individual website visitors to any third party (apart from our internet service provider, which records such data on our behalf and which is bound by confidentiality provisions in this regard), unless obliged to disclose such information by a rule of law. The technical information will be used only by us, and only for statistical and other administrative purposes. You should note that technical details, which we cannot associate with any identifiable individual, do not constitute "personal data" for the purposes of the Data Protection Acts, 1988 & 2003.
+### _When You Visit Our Website_
 
-Glossary of technical terms used:
+We collect your IP address, the website you came from, what kind of browser you’re using, and what you do on the website – which links you follow, where your mouse travels, how long you spend on each page and so on.
 
-Web browser
+We only use temporary cookies and don’t track you around the internet. Our website will work fine if do not have track switched on or have third-party cookies completely disabled.
 
-The piece of software you use to read web pages. Examples are Microsoft Internet Explorer, Netscape Navigator and Opera.
+We will link some of your technical information, such as your IP address, to your name and other personal details if you log in to the website or buy a ticket.
 
-IP address
+We use this information to make our website work in the first place, and to help us understand your experience of it and how to improve it. 
 
-The identifying details for your computer (or your internet company’s computer), expressed in "internet protocol" code (for example 192.168.72.34). Every computer connected to the web has a unique IP address, although the address may not be the same every time a connection is made.
+Formally, we justify this processing as a combination of contract and pre-contractual negotiation for the ticket selection and purchasing process and legitimate interest for the marketing and activity tracking aspects.
 
-Cookies
+### _When You Buy A Ticket Or Merchandise_
 
-Small pieces of information, stored in simple text files, placed on your computer by a web site. Cookies can be read by the web site on your subsequent visits. The information stored in a cookie may relate to your browsing habits on the web page, or a unique identification number so that the web site can "remember" you on your return visit. Generally speaking, cookies do not contain personal information from which you can be identified, unless you have furnished such information to the web site.
+We obviously collect some personal data about you when you buy a ticket. What we collect depends on how you buy the ticket and whether you’re a member. For member details, see the next section.
+
+If you buy a ticket on our website, we collect your name, address and email address. We also process your payment card information – although we don’t handle it directly, or retain it: it’s all dealt with by our payment processor.
+
+If you buy a ticket over the phone from our call centre, we collect your name and calling telephone number. We’ll also collect your postal address if we’re posting you the tickets, or your email address if we’re sending them to you that way. We collect your payment card details, although we don’t process them ourselves – that’s done by our payment processor – or keep them; however, if you’re collecting your tickets at the venue, we keep part of your card number so that we can retrieve your booking.
+
+If you buy a ticket, or anything else like food and drink, in our venues we will only collect data if you use a payment card, and then only to process the payment – which, once again, is done by our payment processing partner not by us.
+
+We may at the time of admission ask to see proof of age for features that are age restricted, but we don’t keep any of this information.
+
+We will use the information we’ve collected to handle your admission to the feature or event for which you’ve bought tickets; to process and track your payments and to deal with any issues that may arise including complaints and refunds. 
+
+Formally, we justify this processing as part of our contractual obligation to you.
+
+We will also use your information for marketing purposes – see below.
+
+We may also need to process sensitive information about you – see below.
+
+### _When You Join Our Membership Scheme_
+
+When you join our membership scheme we collect your name, home address, email address, date of birth and phone number. We also collect your bank details to set up the direct debit for payment, but this is handled by our direct debit partner.
+
+We use this information to give you the benefits of the membership scheme. You can find out more about the membership scheme **[here](https://www.everymancinema.com/membership/member)**.
+
+Formally, we justify this processing as part of our contractual obligation to you.
+
+We will also use your information for marketing purposes – see below.
+
+### _When You Contact Us_
+
+If you get in touch with us – whether that’s by phone, email, post or in person – we’ll collect the personal information you provide. If you use our **[contact form](https://www.everymancinema.com/contact-us)** , we ask for your name, email address and contact phone number, and we’ll ask for the same things if you call our contact centre. That information and anything else you tell us will be handled securely. Only what is needed to deal with your enquiry will be passed on internally or externally. We do ask that you don’t include sensitive personal information in any communication unless it’s directly relevant, to make it easier for you and us jointly to protect you. If resolving your enquiry involves making a refund to you we may need to collect bank details or payment card information from you to do that; we will not keep these after the refund has been issued.
+
+We will use the information you provide to deal with your enquiry and for no other purpose. We will also anonymise enquiries for statistical and business improvement purposes and share that anonymised information internally.
+
+Formally, we justify this processing on the basis of your consent. When you use the contact form, call the contact centre or visit a venue in person, we will ask you for that consent explicitly. If you write to us by post or email, we will send you a privacy notification with the option to withdraw your consent if you wish.
+
+### _When You Hire One Of Our Venues For An Event_
+
+When you hire one of our venues we will collect your name, contact address, contact telephone number and payment information. If you’re paying by payment card our payment processor will collect and process your card details on our behalf. If you pay by cheque we will see your bank details as a consequence but we will not store this information. We may also collect some personal information relating to the nature of the event – for example, if it’s your birthday party you may tell us your date of birth – or for licensing purposes.
+
+Formally, we justify this processing as part of our contractual obligation to you.
+
+We will also use your information for marketing purposes – see below.
+
+We may also need to process sensitive information about you – see below.
+
+### _When We Send You Marketing Emails, Texts Or Other Communications_
+
+Where we have noted this above we will use the information we have about you to send you marketing information. Where we have prior purchase history we will use that to help identify your interests and customise our marketing to you. We will also use outside data sources to get additional information based on your general location but we do not pass your details on for this purpose or seek any specific information about you personally. 
+
+Whenever you interact with us, we may ask you to consent to receive this marketing information by email or text message. If you are a consumer, we will only email or text you if you have consented in this way, and you can withdraw this consent at any time by contacting us using the information at the start of this policy, following the unsubscribe instructions that are in every email or text that we send, or visiting our website. If you are a business we may send you marketing communications by email or text without prior consent, but you still have the same rights to ask us to stop.
+
+We may also write to you by post. You may ask us to stop at any time by contacting us using the information at the start of this policy, following the unsubscribe instructions that are in every postal communication that we send, or visiting our website. We will also always respect any preference you have expressed using the Mailing Preference Service.
+
+We do not make telephone marketing calls to consumers and will only call you in response to an enquiry or as part of contractual customer service. We will make telephone marketing calls to businesses but will of course stop if you ask us to either on the call, by contacting us or by visiting our website.
+
+Formally, we justify our marketing activity as being in our legitimate interest. As required by the Privacy and Electronic Communication Regulation 2003, for natural people we will only send marketing communication by email and text where we have explicit consent.
+
+### _When You Visit One Of Our Venues_
+
+Many of our venues use CCTV to help assure the security and safety of our visitors and staff. Appropriate notices are prominently displayed in these venues, and we are registered with the Information Commissioner’s Office as an operator of a CCTV scheme. If you are captured on CCTV while in our venues this is part of your personal data and you have the rights over it that are set out later in this policy.
+
+Our CCTV is operated by a partner company who will have access to the footage. Unless there is an active need to investigate or we are required to by law we will not try to connect any person in CCTV footage to any other records that we have or otherwise try to identify them.
+
+We retain CCTV footage for 31 days after which it is securely deleted.
+
+Formally, we justify our use of CCTV as being in our legitimate interest in protecting our premises, staff and visitors.
+
+### _If You Have A Special Access Requirement Or An Allergy_
+
+If you are coming to one of our venues and have an access requirement – such as a wheelchair space – we will collect the required information from you in order to make sure you have the best possible experience. We will only ask you to tell us what we need to know in order to accommodate you, and ensure that this information is shared in identifiable form only with those people internally and at our partners who need to know. We will anonymise your information and process it further in order to improve our access provisions across all of our venues.
+
+Similarly if you are coming to a catered event we will ask if you have any food allergies. Again, we will collect the required information from you in order to make sure you have the best possible experience. We will only ask you to tell us what we need to know in order to keep you from harm, and ensure that this information is shared in identifiable form only with those people internally and at our partners who need to know. We will anonymise your information and process it further in order to improve our allergy policy across all of our venues.
+
+We will not normally retain access or allergy information once the feature or event has taken place. You may ask us to do so if you prefer but it will then be your responsibility to advise us if your needs change.
+
+Formally, we justify this processing on the basis of your consent, for which you will be asked at the time of booking. 
+
+Please note that if you only share access or allergy information with staff at a venue when you attend this will not constitute data processing as we won’t record anything in identifiable form.
+
+### **Who Else Gets To See Your Data**
+
+We won’t ever sell your data or provide access to it to any third parties for marketing purposes. We will share your data in the following ways:
+
+### _With Our Subcontractors_
+
+Like many businesses we don’t do everything ourselves. When we have someone else help us handle an aspect of our business, we will pass them some of your data so that they can do their work. We will only ever give them the minimum information that they need and it will always remain under our control. This means that they can only do with your data what we tell them to, and can’t keep it once they no longer need it or pass it on to anyone else.
+
+At the moment, the following parts of our business work with partner companies them:
+
+  * Our telephone call centre
+  * Our direct debit scheme for membership
+  * The processing of credit and debit cards
+  * Our email marketing platform
+  * Safety and security in our venues
+
+
+
+We also outsource our IT. We have several partners for this; none of them have routine access to your data, but may be able to see it occasionally if they need to in order to fix a problem or make an update. We always have control of this access and have strict contractual provisions to make sure they don’t abuse it.
+
+### _If Legally Required_
+
+In some circumstances we may be legally required to pass on your data. For example, if there is a health and safety incident in one of our venues and you are involved, we will pass your data on to the Health and Safety Executive (a government agency) or to the relevant local authority. What they then do with your data is governed by the law. They may also contact you directly. We will always try to make sure that you know when your data is passed on in this way. In this specific circumstance we may collect health information about you where it is strictly relevant and this may be done without your consent if you are not able to consent at the time. We will only do this in order to comply with the law and to protect your vital interests.
+
+The police and other government agencies may also request your data. We will pass it to them once they show us proof that their request is legal. We may not be able or allowed to tell you if this happens.
+
+### _If You Make A Complaint_
+
+If you make a complaint or if we think it’s necessary for any other reason, we may depending on the issue pass your data on to our insurers. We will only pass them the data that they need; we have a clear agreement with them that they will only use the data to assess any claim that we may make in connection with the issue.
+
+### **How We Look After Your Data**
+
+We take the security of your data very seriously. We’ve made significant investments in IT systems and training to make sure it stays safe. We have strict contracts with anyone we share it with to ensure that do the same. It will always be stored and processed inside the EEA, where the General Data Protection Regulation gives you strong legal protection for your data privacy rights. We will always obey both the letter and the spirit of the data protection laws that apply to us.
+
+We keep clear records of what data we have and what we do with it, and make sure that we always consider what impact our processing will have on you. We also continually assess the risks to you from possible data breaches, and do everything we can to prevent them.
+
+### **How Long We Keep Your Data**
+
+We won’t keep your data forever. If you haven’t interacted with us for three years – which means buying a ticket, opening an email, contacting us or visiting our website – we’ll anonymise your data so that it’s no longer connected to you in any way. We will keep the anonymised data indefinitely to help us understand our business and our audience.
+
+### **Your Rights**
+
+You have the right to see a copy of all the data we hold about you.
+
+You have the right to ask us to delete what we have or stop processing it. However, we may not be able to do so immediately if the data is required for us to fulfil an obligation to you – like letting you in to a film or an event for which you’ve purchased tickets; if we are legally required to keep it; or if we believe we need to keep it for contractual or insurance purposes. We will always tell you what we are doing and why. 
+
+You have the right to ask us to correct your data – and if what we hold about you is wrong, we’d really appreciate it if you told us – but we will in some circumstances need to check that what you’re telling us is accurate, and may require proof, in order to protect you – and us – from fraud.
+
+To exercise any of these rights, please contact us using the details at the top of this policy.
+
+You also have the right to complain to the Information Commissioner’s Office – the government agency that handles data protection in the UK. You can reach them at their website: <https://ico.org.uk/global/contact-us/>
+
+### _Policy Information_
+
+This policy was last updated on the 21st of May 2018. We may update it at any time in order to improve our customer experience or to comply with changes in the law.
+
+This policy is ©2018 Everyman Media Group plc
