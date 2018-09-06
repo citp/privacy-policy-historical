@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livingdeal.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223051327id_/http%3A//livingdeal.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingdeal.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906042238id_/https%3A//livingdeal.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Terms and Conditions \ Privacy Policy - LivingDeal
+# Terms and Conditions \ Privacy Policy | LivingDeal
 
 **Terms and Conditions of Use, Privacy Policy and Return Policy (“Terms”)**
 
@@ -75,4 +75,4 @@ Links to third party websites on the LivingDeal.com website are provided solely 
 
 **Contact Information:**
 
-**For questions or concerns regarding your personal information and our Privacy Policy, or to update, correct or delete your personal information, please contact us[here](mailto:support@livingdeal.com) OR call us during normal business hours at 1-877-341-3220.**
+**For questions or concerns regarding your personal information and our Privacy Policy, or to update, correct or delete your personal information, please contact us[here](mailto:support@livingdeal.com) OR call us during normal business hours at 833 880 1386**
