@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topbargains.com.au privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315141152id_/https%3A//www.topbargains.com.au/page/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topbargains.com.au privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906063017id_/https%3A//www.topbargains.com.au/page/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
