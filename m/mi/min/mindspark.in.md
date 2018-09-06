@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindspark.in privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920182141id_/http%3A//www.mindspark.in/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindspark.in privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906112954id_/https%3A//www.mindspark.in/privacyPolicy.php) for the most accurate reproduction.*
 
 # Mindspark: Privacy Policy
 
