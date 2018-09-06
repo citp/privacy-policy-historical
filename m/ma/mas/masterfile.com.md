@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masterfile.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118133828id_/http%3A//www.masterfile.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterfile.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906021254id_/https%3A//www.masterfile.com/privacy.html) for the most accurate reproduction.*
 
 # Masterfile Stock Photos: Privacy Policy
 
@@ -53,6 +53,8 @@ Masterfile does not use or disclose Personal Information for purposes other than
 5\. if the information is already publicly known.
 
 Masterfile does not, however, transfer, sell or otherwise disclose any of your Personal Information (and/or any other information) to any third party to enable them to market their products and services to you.
+
+If you live in the EU and are subject to the General Data Protection Regulation (GDPR), you have the right to edit, update, access, or transfer your personal information, or to delete your personal information if you are terminating your registration with Masterfile.
 
 ### **Access to Your Personal Information**
 
@@ -122,6 +124,6 @@ Attention: Privacy Officer
 ---|---  
 By E-mail: | [privacy@masterfile.com](mailto:privacy@masterfile.com)  
   
-v. 2013.04.14
+v. 2018.04.20
 
-**© 2017 Masterfile Corporation. All rights reserved.**
+**© 2018 Masterfile Corporation. All rights reserved.**
