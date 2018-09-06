@@ -1,119 +1,268 @@
-> *The following text is extracted and transformed from the sperry.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316233034id_/http%3A//www.sperrytopsider.com/en/content%3Fcaid%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sperry.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906061959id_/https%3A//www.sperry.com.au/privacy-policy-terms-of-use) for the most accurate reproduction.*
 
-# Sperry Top-Sider Privacy Policy
+# Privacy Policy - Terms of Use
 
-We value our customers and respect their privacy. We seek to provide products, services, and valuable offers to you and your family. We collect information from our interactions with you, other customers and other parties to help us achieve that goal. Your privacy is important to us. As described in this Privacy Policy, we do, however, share your personal information with our affiliates and certain third parties who provide services on our behalf.
+#### PRIVACY POLICY
 
-Sperry Top-Sider, LLC a Massachusetts corporation located at:
+**Sperry Australia**
 
-191 Spring Street  
-Lexington MA 02420  
-United States of America
+RCG Brands Pty Limited (ABN 96 125 433 972) and its related and associated bodies corporate  **(us, we, our)**  maintain a policy of strict confidence concerning your (you, your) personal information  **(Privacy Policy)**.  
 
-You can contact us by email at customerservice@sperrytopsider.com
+This Privacy Policy has been developed in accordance with the Privacy Act 1988 (Cth)  **(Privacy Act)**.  This Privacy Policy applies to the collection, storage, use and disclosure by us of your personal information.  By accessing this site www.sperry.com.au (Site) you accept the terms of this Privacy Policy.  This Privacy Policy applies to information provided to us whether via this Site or any other means such as in our stores and demonstrates how we will comply with the Australian Privacy Principles under the Privacy Act. Although we will comply with this Privacy Policy in respect of information provided to us by persons under the age of 18 years, those persons must obtain the consent of a parent or guardian prior to using the Site and the parent or guardian will be responsible for appropriately supervising the person’s use of the Site.If you have any further questions or if you wish to receive more information on our information practices and Privacy Policy, please contact our Privacy Officer at customerservice@rcgbrands.com.au. **1\. Collecting personal information** The types of personal information we collect include contact details such as name, email, phone and mailing address. If it is reasonable and practical to do so, we will collect personal information directly from you in order for you to join our loyalty program. This will include contact details and other information relevant to providing services to you. This may take place in a number of ways, such as via your use of our Site. **Contact Us Forms** When you complete a contact us form on the SPERRY Australia website you are asked to provide certain information about yourself. This information includes your name*, address, email address*, phone number, fax number and your comments*. We use this information to assist your enquiry and learn more about our audience, so we can provide you with the content and feedback information most relevant to you. Once you submit a contact us form on the SPERRY Australia website you are not anonymous to us.We may also collect personal information from third parties such as your representatives or publically available sources of information. All personal information that we or our related bodies corporate or franchisees collect, is reasonably necessary for the purposes relating to providing our goods and services to our clients.If someone other than you provides us with personal information about you that we did not ask for, and we determine that we could have collected this information from you had we asked for it, we will notify you, as soon as practicable.  This notice will be given unless to do so would be in breach of an obligation of confidence.  If we could not have collected this personal information, we will lawfully de-identify or destroy that personal information.Sensitive InformationSensitive Information as defined in the Privacy Act 1988 (Cth) includes information about a person‘s race or ethnic origin; political opinions or membership of a political association; religious beliefs or affiliations; philosophical beliefs; professional or trade association membership or trade union membership; sexual preference or practices; criminal record or health information.SPERRY Australia will not collect or disclose sensitive information about a person unless that person has consented, the collection is required by law, or the collection is necessary to prevent or lessen a serious and imminent threat to life or health of that person.Exceptions to this include where you have given express consent to us to do so and the information is reasonably necessary for us to carry out our functions or activities.We will not collect personal information unless the information is reasonably necessary for or directly related to one, or more of our functions or activities.  If we are unable to collect personal information we reasonably require, we may not be able to do business with you or the organisation with which you are connected. **How to contact us** **2\. Cookies** When you visit the Site the server may attach a "cookie" to your computer's memory.  A “cookie” assists us to store information on how visitors to the Site use it and the pages that may be of most interest.  This information may be used to provide users of your computer with information that we think may interest the users of your computer.  However, this information is not linked to any personal information you may provide and cannot be used to identify you.  If you choose, you should be able to configure your computer so that it disables “cookies” or does not accept them.  **3\. Use and disclosure of information** We may use personal information about you for the primary purpose of providing you with our services, and for which you would reasonably expect us to use that information, including sending you information about new developments, products, services and special offers by post, telephone or any form of electronic communication. We may use any email address or other personal information you provide to us at any time for this purpose.We will not disclose information that personally identifies you to any third party other than as set out in this Privacy Policy. In order to deliver the goods and services that we provide to you, we may disclose your personal information to other organisations, only in relation to providing our services to you. We take reasonable steps to ensure that these organisations are bound by privacy obligations in relation to the protection of your personal information.We may provide certain information about you including your personal information to our related bodies corporate. **4\. Direct marketing** We may use personal information about you for the primary purpose of providing you with our goods and services, and for other purposes that which you would reasonably expect us to use that information.  This includes sending you information about new developments, products, services and special offers by post, telephone or any form of electronic communication. You authorise us to use any email address or other contact information you provide to us at any time for this purpose.You can, at any time, opt out of receiving marketing material by contacting us. You agree and acknowledge that even if you opt out of receiving marketing material, we will still send you essential information that we are legally required to send you relating to the services we provide. Once you opt out of receiving marketing material from us, you agree and acknowledge that this removal from our distribution lists may take several business days after the date of your request to be removed. **5\. Accuracy of your information** We take all reasonable steps to ensure that your personal information held by us is accurate, up-to-date, complete, relevant and not misleading.  If you believe that any of your personal information is not accurate, up-to-date, complete, relevant and not misleading, please contact us (see below) and we will take all reasonable steps to correct it within a reasonable time. **6\. Third Parties and your information** We will only collect, store, use or disclose information that personally identifies you as set out in this Privacy Policy unless we are required by law to protect our rights or property (or those of any third party), or to avoid injury to any person.Although the Site may link directly to websites operated by third parties (Linked Sites), you acknowledge that Linked Sites are not operated by us.  We encourage you to always read the applicable privacy policy of any Linked Site on entering the Linked Site.  We are not responsible for the content or practices of the Linked Sites nor their privacy policies regarding the collection, storage, use and disclosure of your personal information. **7\. Disclosure of Information Overseas** We may transfer your personal information to people in foreign countries to fulfil the purposes set out in this Privacy Policy, for example for processing.  By providing your personal information you consent to this transfer. **8\. Your consent** By your use of the Site you consent to the collection, storage, use and disclosure of your personal information in accordance with this Privacy Policy and as otherwise permitted under the Privacy Act.  **9\. Storage and security of Personal Information** SPERRY Australia has put in place steps to protect the personal information SPERRY Australia holds from misuse, loss, unauthorised access, modification or disclosure by use of various methods including firewalls, pass worded access and encryption software.  
+If we no longer need your personal information, unless we are required under Australian law or a court or tribunal order to retain it, we will take reasonable steps to destroy or de-identify your personal information in accordance with our document retention policy. **10\. Variation** We may vary the terms of this Privacy Policy at any time.  You should check this Privacy Policy regularly so that you are aware of any variations made to this Privacy Policy.  You will be deemed to have consented to such variations by your continued use of the Site following such changes being made. **11\. Access to information we hold about you** Should you wish to access, update or correct personal information supplied to us. You may email us at customerservice@rcgbrands.com.au.  There is no cost to request or update your information but we may charge you a reasonable fee to cover our costs in locating and extracting that information to supply it to youYou have the option to either not identify yourself or to use a pseudonym when you contact us, unless it is impracticable for us to communicate with you in that manner or unless we are required or authorised under Australian law, or a court or tribunal order, to deal with individuals who have identified themselves.
 
-We are part of the Wolverine Worldwide, Inc. family of companies and there are details of the other members of the group here: www.wolverineworldwide.com/our-brands/
+**Trading Terms**
 
-We have made this Privacy Policy available to you to let you know what kind of personal information we collect, how it is handled, with whom it may be shared, and how you may access the data you provide to us. This policy governs how we collect, use and disseminate the personal information we collect from and about you. Our policy also describes the choices you can make about the way your personal information is collected and used. By visiting any part of our website (the "Website"), you consent to the policies and practices described in this Privacy Policy and the Terms of Use of our Websites, which are incorporated herein by reference.
+The following Trading Terms & Conditions (Trade Terms) relate to the sale and delivery of product from RCG Brands Pty Ltd (“RCG”).
 
-## Security - Safeguarding of Your Information
+For the purposes of these Trade Terms a reference to “goods” is a reference to the product, goods or stock sold or delivered by RCG to the Retailer
 
-We endeavor to protect against unauthorized disclosures by trying to limit access to nonpublic customer information to the people who need that information to do their jobs. We also inform employees within the Wolverine Worldwide family of companies about their responsibility to adhere to our own business ethical standards and confidentiality policies. To prevent unauthorized access, maintain data accuracy and ensure the correct use of personal information, we have put in place physical, electronic and managerial procedures to safeguard and secure the confidentiality and integrity of the personal information we collect. These safeguards are designed to protect against, but are not a guarantee against, the loss, misuse and unauthorized access, disclosure, alteration and destruction of personal information.
+**1\. Interpretation**
 
-We use technology designed to transfer information securely from your web browser to our web servers. This should mean that all of your personal information, including your credit card number, is encrypted to avoid the decoding of that information by anyone other than us. To check the security of your connection, look for an unbroken key or a closed lock (depending on your web browser). This and a change in the first characters of the site address from "http" to "https" should alert you that this technology is active.
+In these Terms, unless the context otherwise indicates:
 
-Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. When you start your session in a password protected area please make sure you have a secure connection and that you log out once you have finished.
+(a)  **Change of Control** ** ** means a change in power to exercise or control the right to vote attached to 50% or more of the issued shares in the Retailer;
 
-## Types of Information We Collect and How We Collect It
+(b)  **Goods** ** ** means all goods offered for sale by RCG;
 
-We collect information such as your name, email, postal address, phone number, and billing and credit card information when you register this information with our Website; make a purchase or provide this information; place an order online; save your information with us online; use a mobile application; or participate in sweepstakes, contests, promotions or surveys. We may combine information about you that we have with information we obtain from business partners or other companies. You may choose not to provide certain information, but choosing to do so may prevent you from being able to take advantage of many of our Website's features or from conducting transactions.
+(c)  **GST** ** ** has the meaning given in the A New Tax System (Goods and Service Tax) Act 1999;
 
-When you submit a question to customer service, we may need your email address to respond, and you may also provide us with additional information to help us answer your question.
+(d)  **Perfect** ** ** has the same meanings as given under the PPSA;
 
-We maintain a record of your product interests and the purchases you make, and may secure information about you from our joint marketing partners or from unrelated third parties. We may also collect demographic information, and we may use mailing lists from third parties. 
+(e)  **PPSA** ** ** means the Personal Property Securities Act 2009 (Cth);
 
-Whenever you browse our site, we automatically receive and record information, such as your IP address, browser type, domain name and specific web pages through which you click.
+(f)  **RCG** ** ** means RCG Brands Pty Ltd ACN 125 433 972 of 719 Elizabeth Street, Waterloo, NSW 2017;
 
-We use computer "cookies" (small files placed on your hard drive) to make your shopping experience more efficient, convenient and personalized. Cookies are alphanumeric identifiers that enable our systems to recognize your browser and share information with your computer. Through the use of these cookies, we may automatically collect information and data, such as your IP address, browser type, domain name and specific web pages through which you click. Cookies are not required for you to browse our site, but they are required to add items to your shopping cart and for you to place an order. Cookies should not contain personal data other than your IP address. The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of our Website's features, and we recommend that you leave them turned on. By using the site you consent to our use of cookies. To learn more about cookies and how to use them visit the Help portion of your internet browser. Some of our brands have more information about the cookies they use so be sure to check out their privacy policies too for more details.
+(g)  **Retailer** ** ** means the person purchasing the Goods from RCG;
 
-We may also use third party companies to place advertising at other sites across the Internet. These advertising companies collect information about your visits to our Website or interaction with our email through the use of "web beacons". This technology allows them to use information about your visits to this and other websites to help us serve you better. We also use web beacons to review how visitors navigate the Website or interact with our email advertising. If you would like more information about this practice, your choices and how they relate to this practice, please contact us.
+(h)  **Sale Price** ** ** means the amount on RCG’s tax invoice for Goods including freight costs (if any) and GST;
 
-To provide location-based services on our Website and through any mobile applications we use we may need to capture and record location data regarding your use of the Website or mobile applications and your travels to provide location-related functionality ("Location-Data"). We may link that Location-Data to other information that you provide to us or that may be accessed in connection with your use of the Website or the mobile applications. Your use of, and our ability to offer functionality through, the Website or mobile applications is then enabled through our use and disclosure to third parties of Location-Data and associated information.
+(i)  **Security Interest** ** ** has the same meaning as given under the PSSA; and
 
-## How We Use Your Information
+(j)  **Terms** ** ** means these Terms of Trade as amended from time to time.
 
-Our primary purpose for collecting personal information is for us to provide you with a safe, efficient and beneficial experience. We may use your personal information for the purpose of improving our services and our Website's contents or mobile application layout and functionality; to inform you about future marketing, service updates and promotional offers; to communicate preferences which you have indicated; to customize the advertising and content you see and improve future shopping for you; to determine whether you are eligible for an offer; to verify information; to improve our services, or for any other purpose disclosed at the point of collection. We may also use your information to provide services and customer support that you may request, as well as to correct problems, resolve disputes and collect fees.
+**2\. Application**
 
-When you browse our Website or make a purchase online, the information recorded and collected automatically, such as your IP address, browser type, domain name and specific web pages through which you click, is used in aggregate to help us look for trends so that we can improve our Website and your browsing experience. These statistics may also be used in communications, such as our annual report, but we do not identify individuals in these communications.
+2.1 These Terms apply to every order for Goods placed by the Retailer with RCG.
 
-When you purchase items from us, we use your personal information to process and fulfill your order, send you emails to notify you of order status, or to contact you by phone, postal mail or email if we have questions regarding your order or purchase.
+2.2 These Terms will apply to the exclusion of any terms of the Retailer.
 
-When you register with us or when you make a purchase at a store or one of our Websites, we may use your personal information to send you information and updates about new products, special sales and promotions related to your purchase, and to help us learn more about your shopping preferences. These communications may be sent via email, postal mail, telephone text message, or through a mobile application. You always have the choice to opt-out of receiving these marketing communications.
+2.3 If there is an inconsistency between these Terms and another document provided by and signed by RCG in relation to the supply of goods to the Retailer or to a specific order, the other document will prevail to the extent of the inconsistency.
 
-If you participate in a sweepstakes, contest or promotion, online, over the phone, through a mobile application or at one of our stores, we may use your personal information to contact you via email, postal mail, telephone, text message, or through a mobile application regarding our products, services, contests and promotions. You may choose at any time not to receive these marketing communications. We may still need to contact you on a limited basis, however - for example, to notify winners and to fulfill promotional obligations.
+**3\. Credit Application**
 
-We may also use the information we collect on our Website as necessary to comply with legal requirements, to enforce the Website terms of use, to prevent fraud, to co-operate with law enforcement and regulatory authorities and to stop other prohibited, illegal or harmful activities.
+3.1 RCG may only supply Goods once a credit application has been completed, signed by the Retailer and approved by RCG.
 
-We share information across the Wolverine Worldwide family and we may use servers and resources of other members of the group to process your data. We may also share data and use the resources of our former parent company Collective Brands, Inc. Our main servers are in Topeka, Kansas, USA and Rockford, Michigan, USA and it is likely that your data will be held on servers there and at other Wolverine Worldwide locations around the world. When you provide us with your personal data, you acknowledge that this information may be stored and processed on servers located outside the European Economic Area ("EEA") and you consent to your personal data being exported outside the EEA and being stored and processed at our discretion on any of Wolverine Worldwide's servers wherever located.
+3.2 The granting of credit is entirely at RCG’s discretion and RCG may withdraw or vary credit at anytime.
 
-## Our Disclosure of Your Information
+**4\. Price and Payment**
 
-We may combine your information with information we collect from other companies (such as demographic data) to improve and personalize our services. We may also use third-party companies to assist in collection and analysis of data collected through the use of web beacons.
+4.1 Sale Prices are subject to change without notice.
 
-We may share your personal information with affiliated companies that are subject to privacy policies consistent with this policy.
+4.2 The Sale Price must be paid in full by the Retailer to RCG within 30 days of the end of the month in which RCG’s tax invoice is issued.
 
-We may also share your personal information with outside companies that perform services specifically for Wolverine Worldwide group. We may employ independent contractors, vendors and suppliers to provide specific services and products. Those services may include them hosting your data as well. For example, we may retain an outside company to create and distribute a direct mail or email offering. Other examples include fulfilling orders, delivering packages, sending postal mail, email, or text messages, communicating with our customers, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, fraud screening, translation services and providing customer service. They may sometimes have access to information collected by us, including your personal data, in the course of providing products or services to us. In those situations, the outside company is performing work for us, and we take appropriate steps designed to ensure that your personal information is used only to provide the services requested by us.
+4.3 All applicable taxes and duties on the sale of Goods and freight charges (if any) are payable by the Retailer at the time of payment of the invoice. GST at the prevailing rate will be specified in the invoice.
 
-We may also disclose that personal information to third parties to whom you explicitly ask us to send your information.
+4.4 If the Retailer fails to pay any of the Sale Price by its due date then:
 
-If we sell or buy any business or assets (in whole or in part), we may disclose your personal data to the prospective sellers or buyers of the business or assets and their advisors. If Wolverine Worldwide or some of its assets are acquired by a third party, the data held will be one of the transferred assets. Similarly, your personal information may be passed on to a successor in interest in the event of a reorganization, reconstruction, liquidation, bankruptcy or administration. It may be that any buyer or successor buys all or only part of our business. It may also be the case that they are not in the same line of business as us. If this is the case we will expect them to observe the terms of this privacy policy.
+(a) RCG may charge interest on any overdue amount at the greater of 12% per annum or 3% per annum above Westpac Banking Corporation’s Business Overdraft Rate from time to time, calculated and payable daily; and
 
-We reserve the right to release account and other personal information about you when we believe release is appropriate to comply with the law, in response to legal process and law enforcement requests, to enforce or apply our Terms of Use and other agreements, or to protect our rights, property, safety or other interests those of our parent company, affiliates and shareholders, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+(b) the Retailer must pay to RCG all costs and expenses (including legal costs on an indemnity basis) incurred by RCG in the recovery or attempted recovery of any overdue amounts.
 
-Any personal information shared via any mobile application or on another website (such as Facebook, YouTube, Google+ or Twitter) may become public information. We cannot control the use of information disclosed in public forums, such as forums, bulletin boards, blogs, chat rooms, and networking functions of mobile applications. You should exercise caution when disclosing information in these public areas, especially your Location-Data, and be careful how you disclose your Personal Information. Content posted in public areas of our mobile applications, including advice and opinions, represents the views and is the responsibility of those who post the content. We do not necessarily endorse, support, verify, or agree with the content posted. If you have any questions or comments about any content on our mobile applications please contact our Customer Service Center.
+4.5 The Retailer must not make any deduction, set-off or counterclaim from the Sale Price.
 
-## Safe Harbor
+**5\. Delivery**
 
-We comply with the US Department of Commerce's Safe Harbor scheme to cover the transfer of data to the US from the European Union and Switzerland. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. You can learn more about this scheme and see the information we have filed with the Department of Commerce here: http://export.gov/safeharbor/
+5.1 RCG will bear the cost of delivering Goods to the Retailer on orders for more than 2 units that have a Sale Price of more than $200.00.
 
-## How We Protect Kids' Privacy Online
+The Retailer will bear the cost of orders that do not meet this threshold.
 
-Our Website is a general audience website and it is our intention that our Website should be used only by persons over age 13. We are concerned about the safety of children when they use the Internet and will never knowingly request personal information from anyone under the age of 13. If the parent or guardian of a child under 13 believes that the child has provided us with any personal data, the parent or guardian of that child should contact our Customer Service Center and ask to have this personal information deleted from our files. If we otherwise obtain knowledge that we have personal information about a child under 13 in our files, we will delete that personal information from our existing files so that it is not in retrievable form.
+5.2 RCG may refuse or cease supply to any Retailer at any time without cause.
 
-## Links to Other Websites and Services
+5.3 RCG will endeavour to comply with the Retailer’s reasonable order specifications and meet the delivery dates and instructions requested by the Retailer. However if there:
 
-Our Websites may contain links to other sites. You should review the policies of those sites before providing any personal information, as we do not control their privacy policies or practices. Our Websites provide links solely for the convenience and information of our customers.
+(a) are minor variations to Goods from changes to the manufacturing process or specifications; and/or
 
-## How You Can Review and Change Your Personal and Contact Information and Make Choices About Receiving Marketing Communications or Make General Inquiries
+(b) is any delay of delivery or failure to meet delivery instructions for any reason, the Retailer will not be entitled to claim compensation from RCG or to cancel or rescind the order.
 
-We provide individuals with reasonable access to their personal data. You can contact us in order to have it corrected, amended or deleted where it is inaccurate or inappropriate for the specified purposes of processing.
+5.4 RCG is not be liable for loss resulting directly or indirectly from RCG’s failure to supply Goods where:
 
-The easiest way to look at the personal data we hold and to correct it is to log on if you have an online account with us. There you can access all of your personal data and contact information that we collect online. You can correct factual errors in your personal data by sending us a request that accurately describes the error. To protect your privacy and security, we may ask you to verify your identity and/or provide other details to help us respond to your request before granting access or making corrections. Please note that any requests to update your personal information may take up to 10 days for your email request, and 6-8 weeks to process your postal mail request.
+(a) RCG has insufficient goods to fulfil the order;
 
-If you are not able to log on you may also update your personal and contact information by doing one of the following:
+(b) the Goods ordered have been discontinued; or
 
-  * Send us an email: customerservice@sperrytopsider.com
-  * Call us at: 1-800-247-6575
-  * Write to us at: 
+(c) RCG has determined, in its absolute discretion, that credit or Goods should no longer be extended to the Retailer.
 
-Sperry Top-Sider Privacy Office  
-191 Spring Street  
-Lexington MA 02420  
-United States of America 
+5.5 If an event occurs that is beyond the reasonable control of RCG and results in RCG being unable to observe or perform an obligation under these Terms on time (including acts of God, natural disaster, war, malicious damage, strikes, fire, shortages of raw materials or transport or import restrictions) RCG will have no obligation to deliver Goods and while the circumstances continue RCG may cancel or rescind all or any part of an order or keep the order on hold.
 
+**6\. Risk**
 
+6.1 Risk in Goods passes on the earlier of delivery to the Retailer or collection by the Retailer’s agent or courier.
 
+6.2 If RCG accepts the return of any Goods in accordance with these Terms, risk in those Goods reverts to RCG on delivery of the Goods to RCG or collection by its agent or courier.
 
-If you receive promotional emails, marketing communications, text messages or other communications from us and you wish to stop receiving the materials, please let us know by contacting us at any of the addresses or phone numbers listed above; you may also opt out by clicking here or, at the bottom of each email that you receive from us, you will find information about removing your name from our list; you may also remove your name or change the frequency of emails you receive in MyProfile. Log on with your email address and password. If you ask us to remove your name and address from our list, we will maintain your name in a "do not contact" file to ensure that we can honor your request. Text messages from us also contain a STOP or unsubscribe feature that you can use to prevent any further text message marketing messages from us. It may take up to 10 days to process your email or text message request, and 6-8 weeks to process your postal mail request, during which you may continue to receive communications from us. If you are concerned that we have not acted in accordance with our privacy policy please contact our Privacy Officer. Our Customer Service team can give you his contact details. In the unlikely event that you still have an unresolved issue after we have looked into any complaint, if your data was transferred to the US from the European Union or Switzerland under the Safe Harbor scheme you may also contact our dispute resolution service, operated by NIPC an independent arbitration service based in Europe. Our Privacy Officer can give you the details of this service on request.
+6.3 Upon receipt or delivery of the goods, the Retailer must ensure that the goods are insured until RCG has been paid in full under these Trade Terms (and provide proof of such insurance cover immediately upon request by RCG to do so).
 
-## Applying for a job online
+**7\. Risk and Title**
 
-If you use the website to apply to work with us, we will use the information you supply to process your application and to monitor recruitment statistics. As a global business we may transfer your details outside of your home country and to other companies in the Wolverine Worldwide family. Where we want to disclose information to a third party, for example where we want to take up a reference we will not do so without informing you first unless the disclosure is required by law. Personal information about unsuccessful candidates will be held for up to 12 months after the recruitment exercise has been completed, it will then be destroyed or deleted. We retain de-personalized statistical information about applicants to help inform our recruitment activities, but individuals should not be identifiable from that data.
+7.1 RCG retains ownership of, or title in, all goods supplied by it and reserves the right to dispose of the goods until such time as payment in full is made for all amounts owing by the Retailer to RCG under these Trade Terms is discharged.
 
-Once a person has taken up employment with us, we will compile a file relating to their employment. At that stage we will give more details about how we hold employee data.
+**8\. Security Interest**
 
-## Amendments to Our Privacy Policy
+8.1 For value received or to be received the Retailer grants to RCG a security interest in all goods supplied or any after-acquired goods (inventory) and their proceeds. The security interest secures the due and punctual payment of all moneys payable under these Trade Terms. Any account arising by virtue of a sale of any goods supplied takes effect as a transfer.
 
-We reserve the right to change our Privacy Policy as our business changes. If our policy changes in the future, we will post an updated privacy policy on our Website. You can tell if this policy has changed by checking the revision date that appears at the end of this policy. If you would like a permanent record of this privacy policy please print a copy.
+8.2 The security interest created by these Trade Terms is a continuing security and is a first ranking purchase money security interest in respect of the goods as inventory.
 
-4th October 2012
+8.3 These Trade Terms take effect from the date of signing of the Application as a security interest and are a security agreement within the meaning of the Act.
+
+8.4 The Retailer agrees that RCG may register a financing statement including any financing change statement on the register.
+
+8.5 The Retailer waives its rights to receive a copy of any verification statement in respect of the security interest provided for by these Trade Terms.  **Version 0213 5**  
+
+8.6 The Retailer agrees to immediately reimburse RCG for all costs (including legal costs), expenses and other charges incurred, expended or payable by RCG in relation to the filing of a financing statement, or a financing change statement or releasing the security interest created by these Trade Terms.
+
+8.7 The Retailer acknowledges that it is not the owner of the goods and as such if chapter 4 of the Act applies to these Trade Terms, RCG and the Retailer contract out of the enforcement provisions in section 115(1) of the Act.
+
+8.8 The Retailer irrevocably authorises RCG and any of its lawful agents, at any reasonable time, to enter into its premises or any premises occupied by the Retailer and re-take any goods sold supplied under these Trade Terms and then re-sell those goods and retain the proceeds of the sale without prejudice to its rights to claim the balance of all moneys due under these Trade Terms. The Retailer indemnifies and agrees to keep RCG indemnified in respect of any such entry.
+
+8.9 The provisions of this clause survive the termination of these Trade Terms and shall carry on for the benefit of RCG
+
+8.10 For the purposes of this clause:
+
+(a) Act meaning the Personal Property Securities Act 2009 (Cth).
+
+(b) Account, financing statement, financing change statement; inventory, proceeds, purchase money security interest, register, security interest and verification statement have the meanings given to them in the Act.
+
+8.11 Notwithstanding this clause 8, the Retailer may sell the goods to a third party in the ordinary course of its business of selling goods of the kind supplied by RCG and deliver them to that party provided that:
+
+(a) where the Retailer is paid by the third party and RCG has not been paid by the Retailer for the goods pursuant to these Trade Terms, the Retailer holds the whole of the proceeds of sale on trust for RCG and must pay such proceeds into a special bank account into which no other moneys other than proceeds of sale by the Retailer of RCG goods are be deposited and which shall incorporate as part of the title of the account “Proceeds of sale of RCG goods”;
+
+(b) where the Retailer is not paid by that third party, and RCG has not been paid by the Retailer for those goods the Retailer agrees, at the option of RCG, that RCG may collect that account on giving the Retailer notice in writing to that effect. RCG shall be entitled to issue proceedings in the name of the Retailer against the third party for recovery of that account for the benefit of RCG; and
+
+(c) The Retailer shall keep full and complete records of goods it has purchased from RCG including details of the date, price and identity of the goods.
+
+**9\. Cancellation of Orders**
+
+9.1 Once orders are placed by the Retailer and accepted by RCG they may only be cancelled with the written approval of RCG.
+
+9.2 RCG is under no obligation to approve a cancellation of an order.
+
+9.3 If RCG accepts the cancellation of an order, RCG will be entitled to charge a reasonable fee for the cost of any work, disbursements, cancellation fees of third parties, materials and/or any administrative costs incurred by RCG up to cancellation.
+
+**10\. Return of Goods**
+
+10.1 The Retailer must inspect the Goods immediately upon delivery or collection by its agent or courier.
+
+10.2 Claims regarding the quality, nature, fitness or conformance with the description of the Goods must be made in writing to RCG
+
+within 14 days of delivery or Goods are deemed to be accepted by the Retailer.
+
+10.3 RCG may authorise the Retailer to return disputed Goods for inspection. RCG will not accept returns of Goods without prior written authorisation.
+
+10.4 If returned Goods are found to be faulty, RCG will bear the freight costs for their return. If the Goods are not faulty or where the return has not been previously authorised by RCG, the Retailer will bear the freight costs for their return.
+
+10.5 Disputed Goods will only be accepted for inspection if they are in the original packaging, in the order and condition that they were when delivered to the Retailer, and accompanied by documentation showing:
+
+(a) the Retailer’s name, address and account number;
+
+(b) RCG’s invoice number;
+
+(c) the reason for the return; and
+
+(d) RCG’s return authorisation reference.
+
+10.6 If a claim under clause 10.2 is justified and made in accordance with these Terms, RCG may at its option:
+
+(d) reduce the Sale Price of the Goods by agreement with the Retailer;
+
+(e) accept the return of the Goods and, subject to the Goods being returned in the same condition as they were when delivered to the Retailer, refund to the Retailer the Sale Price; or
+
+(f) replace the Goods,
+
+and no additional claims for loss of any nature whatsoever may be made by the Retailer against RCG.
+
+10.7 This clause 10 will not affect the rights of the Retailer’s customers under Sale of Goods or other applicable legislation to return Goods where faults are discovered after purchase of the Goods from the Retailer.
+
+**11\. Modification to Goods**
+
+The Retailer may not alter, remove or obliterate any labels or otherwise modify the Goods.
+
+**12\. Change of Ownership**
+
+12.1 The Retailer must give written notice to RCG at least 7 days before any Change of Control of the Retailer or sale of the Retailer’s business.
+
+12.2 A new Credit Application must be completed and approved by RCG before RCG will accept orders from a new owner of the business or from the Retailer after a Change of Control.
+
+**13\. Limitiation of Liability**
+
+13.1 RCG excludes all statutory or implied terms and warranties to the maximum legal extent and, to the extent that terms and warranties cannot be so excluded, RCG limits its liability under them to (at RCG’s election):
+
+(a) the replacement of the Goods or the supply of the equivalent goods;
+
+(b) the repair of the Goods;
+
+(c) the payment of the cost of replacing the Goods or requiring equivalent goods; or
+
+(d) the payment of the cost of having the Goods repaired.
+
+13.2 RCG is not liable to the Retailer under these Terms for any:
+
+(a) losses of an indirect or consequential nature; or  **Version 0213 6**
+
+(b) to the extent not already covered in clause 1.1(a), loss of profit, sales, turnover, reputation, retailers, goodwill, anticipated savings, opportunities or loss in connection with another contract.
+
+**14\. Indemnity**
+
+14.1 If the Retailer breaches any of these Terms, the Retailer will be liable to and indemnifies RCG against all costs, charges and expenses incurred by RCG as a consequence of that breach including but not limited to all legal costs, charges and expenses incurred and calculated on a solicitor/own client basis.
+
+**15\. Suspension or termination**
+
+15.1 RCG may cease accepting orders from any Retailer at any time.
+
+15.2 Without prejudice to any of its other rights, RCG may suspend deliveries, require payment in advance of delivery or terminate any or all of the Retailer’s orders by written notice to the Retailer if the Retailer:
+
+(a) defaults on any payment under these Terms;
+
+(b) being a natural person commits and act of bankruptcy;
+
+(c) being a corporation is subject to:
+
+i. a petition being presented, an order being made or a meeting being called to consider a resolution for the buyer to be wound up, deregistered or dissolved;
+
+ii. a receiver, receiver and manager or administrator under the Corporations Act 2001 being appointed to all or any part of the Retailer’s property and undertaking;
+
+iii. the entering of a scheme of arrangement (other than for the purpose of restructuring); or
+
+iv. any assignment for the benefit of creditors.
+
+**16\. Notices**
+
+Any notice by one party to the other will be effective if served personally, by fax, email or pre-paid post to the registered office of a party or its last known place of business. The notice will be deemed to have been received within 2 business days of posting or immediately if served personally or by fax or email.
+
+**17\. Other Covenants**
+
+17.1 RCG may at any time after giving at least fourteen (14) days notice in writing to the Retailer vary these Terms. The Terms as varied
+
+will not apply to any sale already in existence at the date of change. These Terms may only be varied in writing signed by RCG.
+
+17.2 A party's failure or delay to exercise a power or right does not operate as a waiver of it. The exercise of a power or right does not preclude its exercise in the future or the exercise of any other power or right.
+
+17.3 Any provision of these Terms that, by its nature, is intended to survive termination of these Terms will continue to operate after the supplier/retailer relationship of the parties is terminated.
+
+17.4 If any provision of these Terms is found to be invalid or unenforceable then it is deemed to be severed and the remainder of these Terms shall remain valid and enforce.
+
+17.5 The Retailer may not assign these Terms except with the prior written consent of RCG.
+
+17.6 Unless otherwise agreed in writing RCG and the Retailer acknowledge that these Terms constitute the entire agreement between them in relation to its subject matter. All representations, communications, and prior agreements are superseded by these Terms.
+
+17.7 The laws of the State of New South Wales govern these Terms and the parties submit to the nonexclusive jurisdiction of the Courts of that State and Courts able to hear appeals from them.
+
+**18\. Confidentiality**
+
+18.1 Each party must keep the contents of these Terms and the commercial dealings between them confidential, and may not disclose any such information to any other person without the written consent of the other party unless any such disclosure is:
+
+(a) Required by law;
+
+(b) Required by application of the listing rules of any relevant stock exchange; or
+
+(c) Is made to solicitors, barristers or other professional advisors under a duty of disclosure.
