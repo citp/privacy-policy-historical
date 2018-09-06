@@ -1,68 +1,58 @@
-> *The following text is extracted and transformed from the fansnap.com privacy policy that was archived on 2018-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180209052359id_/https%3A//seatgeek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fansnap.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906193130id_/https%3A//seatgeek.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SeatGeek
 
 If you have questions or concerns regarding this statement, you should first contact the SeatGeek administrators at [hi@seatgeek.com](mailto:hi@seatgeek.com).
 
-Last updated on October 26, 2016
+Last updated on April 1, 2018
 
 ## We are committed to protecting your privacy and creating a safe and secure online environment for anyone who visits and buys on our Site or Application.
 
-SeatGeek shares your concern about the protection of your personal information online. This is our policy (“Privacy Policy”) regarding the privacy of information we collect via our mobile application (“Application”) and website located at www.SeatGeek.com, including third-party apps, sites and platforms (e.g., social media services) where our ticketing products and services are distributed (collectively the “Site”). This Privacy Policy includes examples of the types of Personal Data (as defined below) we collect and the kinds of companies with which we share your Personal Data. These examples are illustrative and should not be considered a complete inventory of our information collection, use and sharing practices. We will comply with applicable federal and state laws that may restrict the types of information we may disclose about you or require us to provide you with additional notices. Certain services, which you may access via the Application or on the Site, are provided by our third-party partners, and protection of your information relating to such services will be governed by the privacy policy of such third parties. By accessing, browsing and using the Application and/or Site, you acknowledge that you have read, understood and agreed to the Privacy Policy described herein.
+This policy (“Privacy Policy”) describes how SeatGeek collects, uses, and discloses information via our mobile application (“Application”) and website located at www.SeatGeek.com, including third-party apps, sites and platforms (e.g., social media services) where our ticketing products and services are distributed (collectively the “Site”). Certain services, which you may access via the Application or on the Site, are provided by our third-party partners, and protection of your information relating to such services will be governed by the privacy policy of such third parties. By accessing, browsing and using the Application and/or Site, you acknowledge that you have read, understood and agreed to the Privacy Policy described herein.
 
 ## Information We Collect
 
-We may collect personally identifiable information (“Personal Data”) about you that you specifically and voluntarily provide to us while using the Site or Application. Personal Data includes information that can identify you as a specific individual, such as your name, address, phone number, credit card number or email address.
+### Information you provide
 
-## Protecting Your Personal Data
+We collect Personal Data that you specifically and voluntarily provide to us while using the Site or Application. “Personal Data” refers to information that can identify you as a specific individual, such as your name, address, phone number, credit card number, or email address.
 
-The Personal Data you provide us is saved in an environment that utilizes industry-standard security measures and is kept in our records to make it easier for you to use our services on return visits.
+### Automatically-Collected Data
 
-As part of our efforts to prevent unauthorized access, maintain data accuracy, and ensure correct use of information, we will employ reasonable and current Internet security methods and technologies. SeatGeek currently uses Secure Socket Layer technology to encrypt your Personal Data.
+When you access or use the Site or Application, we automatically collect information about your visit, including:
 
-SeatGeek limits access to your Personal Data to those employees who we determine need access to that information to provide products or services to you. We maintain physical, electronic and procedural safeguards that comply with federal standards to guard your Personal Data. However, no security system is impenetrable. We cannot guarantee the security of our servers, nor can we guarantee that your Personal Data will not be intercepted while being transmitted to us over the Internet. SeatGeek will not be responsible or liable for any damages that result from a lapse in compliance with this Privacy Policy because of a security breach or technical malfunction.
+  * Log Information: We collect log information about your use of the Application and/or Site, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Site. 
+  * Device Information: We collect information about the computer or mobile device you use to access our Application and/or Site, including the hardware model, operating system and version, unique device identifiers and mobile network information. 
+  * Location Information: With your permission, we may collect information about the location of your device when you access or use the Application or otherwise consent to the collection of this information. For more details, please see “Your Choices” below.
 
-## How We Use the Information We Collect
 
-We use the Personal Data we collect to provide you with the products and services you purchase or use from our Application and Site, and to build features that will make the Application and Site easier to use.
 
-From time to time, SeatGeek may contact you to request feedback on your experience using the Application and Site, to assist us in improving the Application and Site, or to offer special savings or promotions to you, as a user of the Application and Site. If you would prefer not to receive notices of special savings or promotions, you may simply opt-out from receiving them by configuring your device settings accordingly, accessing the “unsubscribe” link included within any email and/or contacting SeatGeek administrators at [hi@seatgeek.com](mailto:hi@seatgeek.com).
+### Information Collected by Cookies and Other Tracking Technologies
+
+We use various technologies to collect information, including cookies and web beacons. Cookies are small data files stored on your hard drive or in device memory that help us improve our Site and your experience, see which areas and features of our Site are popular and count visits. Web beacons are electronic images that may be used in our Site or emails and help deliver cookies, count visits and understand usage and campaign effectiveness. We may also include third party cookies on our site, and the collection, use and choice related to these third party cookies can be found on such third party sites. For more information about cookies, and how to disable them, please see “Your Choices” below.
+
+### Information We Collect From Other Sources
+
+We may also obtain information from other sources and combine that with information we collect directly. For example, we may collect information about you from third parties, including but not limited to identity verification services, fraud detection service providers, credit bureaus, mailing list providers and publicly available sources. If you create or log into your account through a social media site, we will have access to certain information from that site, such as your name, account information and friends lists, in accordance with the authorization procedures determined by such social media site.
+
+### How We Use the Information We Collect
+
+We use the Personal Data we collect primarily to provide you with the products and services you purchase or use from our Application and Site (either directly or through third parties), and to build features that will make the Application and Site easier to use. We also use the information we collect to: communicate with you, including to provide customer service; monitor and analyze trends, usage and activities in connection with our services; detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of SeatGeek and others; and to personalize the Site and Application, including by providing advertisements, content or features that match user profiles or interests.
 
 ## Sharing Your Personal Data
 
 SeatGeek may share your Personal Data as described below:
 
-### Certain Services
+### SeatGeek's Vendors and Providers
 
-In order to provide you with certain products or services (e.g., tickets to certain events), we may share your Personal Data with one of our third-party vendors, or require that you transact directly with a third-party vendor.
+Many of the operations we perform require us to hire other companies to help us with these tasks. For example, SeatGeek retains companies to help us handle mail and email (including sending and delivering packages, postal mail and email), market our products and services, handle purchases of tickets to certain events, process credit card transactions, and provide customer service. The companies we retain to help us with these tasks have access to Personal Data to perform their functions, but may not use it for other purposes.
 
-### SeatGeek's Agents
+### External Service Providers, Event Providers, and SeatGeek Users
 
-Many of the operations we perform require us to hire other companies to help us with these tasks. For example, SeatGeek retains companies to help us handle mail and email (including sending and delivering packages, postal mail and email), analyze the data we collect, market our products and services, handle credit card transactions and provide customer service. The companies we retain to help us with these tasks have access to Personal Data to perform their functions, but may not use it for other purposes. Also, SeatGeek requires all third parties to which Personal Data is disclosed to enter into confidentiality agreements to protect your Personal Data.
+When you use SeatGeek to purchase or sell tickets, we may provide Personal Data to the ticket seller, team, venue, promoters, league, or other third party involved in the sale of the ticket or otherwise related to the event. We may even ask you to transact directly with that third party vendor. For example, when you purchase a ticket, we may share your Personal Data (excluding payment information) with the seller of the ticket in order for the seller to complete the transaction. Similarly, when you purchase a ticket to an event (such as, but not limited to, a game or concert), we may provide your Personal Data to the teams you see, the league or organization that sanctioned the game, a concert promoter, and/or the operator of the venue or facility that hosted the event. Additionally, we may share information with third parties to assist in processing your payment with the seller, or a payment to you, if you are the seller. These third parties may use your Personal Data for analytics, offering you other products or services, preparation of reports, ticket fulfillment, as well as customer service and other legitimate business uses.
 
-### External Service Providers and SeatGeek Users
+### Third-Party Companies
 
-When you use SeatGeek to take advantage of any of our products and services, we may provide Personal Data to the ticket seller or other involved third party as necessary or appropriate for the transaction or as authorized by your use of our services. For example, when you purchase a ticket, a seller may receive your contact information and transaction data (excluding payment information) in order for the seller to complete the transaction. Similarly, when you purchase a ticket to an event (such as, but not limited to, a game or concert), we may provide your Personal Data to the teams you’ll be seeing, the league or organization sanctioning the game, a concert promoter, and/or the operator of the venue or facility hosting the event. Additionally, we may share information with an involved third party to assist in processing your payment with the seller.
-
-#### Third-Party Companies
-
-We may enter into agreements with companies (including, for example, by way of a co-branded or private-labeled website) that offer their products or services on our Site or Application (“Third-Party Companies”). As a result, we may disclose your Personal Data to Third-Party Companies. Because we do not control the privacy practices of Third-Party Companies, you should read and understand their privacy policies.
-
-NOTICE TO CALIFORNIA RESIDENTS – YOUR CALIFORNIA PRIVACY RIGHTS
-
-(AS PROVIDED BY CALIFORNIA CIVIL CODE SECTION 1798.83)
-
-A CALIFORNIA RESIDENT WHO HAS PROVIDED PERSONAL DATA TO A BUSINESS WITH WHOM HE/SHE HAS ESTABLISHED A BUSINESS RELATIONSHIP FOR PERSONAL, FAMILY, OR HOUSEHOLD PURPOSES (A “CALIFORNIA CUSTOMER”) MAY REQUEST INFORMATION ABOUT WHETHER THE BUSINESS HAS DISCLOSED PERSONAL INFORMATION TO ANY THIRD PARTIES FOR THE THIRD PARTIES’ DIRECT MARKETING PURPOSES. IN GENERAL, IF THE BUSINESS HAS MADE SUCH A DISCLOSURE OF PERSONAL DATA, UPON RECEIPT OF A REQUEST BY A CALIFORNIA CUSTOMER, THE BUSINESS IS REQUIRED TO PROVIDE A LIST OF ALL THIRD PARTIES TO WHOM PERSONAL DATA WAS DISCLOSED IN THE PRECEDING CALENDAR YEAR, AS WELL AS A LIST OF THE CATEGORIES OF PERSONAL DATA THAT WERE DISCLOSED. CALIFORNIA CUSTOMERS MAY REQUEST FURTHER INFORMATION ABOUT OUR COMPLIANCE WITH THIS LAW BY E-MAILING [HI@SEATGEEK.COM](mailto:hi@seatgeek.com). PLEASE NOTE THAT WE ARE REQUIRED TO RESPOND TO ONE REQUEST PER CALIFORNIA CUSTOMER EACH YEAR AND WE ARE NOT REQUIRED TO RESPOND TO REQUESTS MADE BY MEANS OTHER THAN THROUGH THIS E-MAIL ADDRESS.
-
-### Email
-
-Unless you opt-out from receiving promotional or information emails from SeatGeek, we will occasionally send advertisements, marketing material or other offers (including sometimes on behalf of other businesses) that we think might be of interest to you. This material is sent by SeatGeek, and we do not give the other businesses your name or address. If you do not want to receive these advertisements, marketing material or other offers, please opt out of these communications by clicking on the unsubscribe link provided in each email. Please note that, even if you opt out of promotional emails, we may still send you service-related communications.
-
-### Tell a Friend
-
-If you choose to use our referral service to tell a friend about our Application or Site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Application or Site. SeatGeek stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
-
-Your friend may contact us at [hi@seatgeek.com](mailto:hi@seatgeek.com) to request that we remove this information from our database.
+We may enter into agreements with companies (including, for example, by way of a co-branded or private-labeled website) that offer their products or services on our Site or Application (“Third-Party Companies”), and you may be asked to transact directly with those Third-Party Companies relating to your purchase of tickets. As a result, we may disclose your Personal Data to the Third-Party Companies that co-brand their products and services on our Site or Application. Because we do not control the privacy practices of Third-Party Companies, you should read and understand their privacy policies.
 
 ### Future Business Transfers
 
@@ -72,27 +62,47 @@ Our business is constantly changing. In the event SeatGeek goes through a busine
 
 SeatGeek reserves the right to disclose Personal Data in order to comply with the law. We may also disclose Personal Data to enforce or apply the terms and conditions applicable to our products and services, or protect the rights, property or safety of SeatGeek, our users, or others.
 
-## Our Policy Concerning Cookies
+### De-Identified Data
 
-To serve you faster and with better quality, we use "cookie" technology. Cookies are small bits of code, usually stored on a device’s hard drive, which enable browsers to “personalize” content for each user. We use cookies to reduce the time it takes for you to submit purchase requests. No third party has access to the information we collect this way. You can always choose to not receive a cookie file by enabling a browser to refuse cookies or to prompt you before accepting a cookie. By refusing to accept a cookie, you will not be able to take advantage of certain of the features and functions of our Site.
+We may share aggregated or de-identified information, which cannot reasonably be used to identify you.
 
-### Third-Party Ad Serving
+## Advertising and Analytics Services Provided by Others
 
-SeatGeek also uses a third-party advertising company to serve ads when you visit our Site. The company may use information (not including your name, address, email address or telephone number) about your visits to our and other web sites, in combination with non-Personal Data about your purchases and interests from other online and offline sources, in order to provide advertisements about goods and services of interest to you. For these purposes, we and our third-party advertising company may note some of the pages you visit on our Site through the use of pixel tags (also called clear gifs). In the course of serving advertisements to this Site, our third-party advertising company may place or recognize a unique cookie on your computer.
+We may allow others to provide analytics services and serve advertisements on our behalf across the Internet and in applications. These entities may use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Application or Site and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked, information about your location, and conversion information. This information may be used by SeatGeek and others to, among other things, analyze and track data, determine the popularity of certain content, and to deliver advertising and content targeted to your interests on our Site and Application and other websites and applications. For more information about interest-based ads, or to opt out of having your web browsing information used for interest-based advertising purposes, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices). Your device may also include a feature (“Limit Ad Tracking” on iOS or “Opt Out of Interest-Based Ads” on Android) that allows you to opt out of having certain information collected through applications used for interest-based advertising purposes. See “Your Choices” below for information about how to control the collection of location information by SeatGeek.
 
-### Do Not Track
+## Your California Privacy Rights
 
-We do not currently recognize automated browser signals from web browsers such as “Do Not Track” signals. For more information on Do Not Track, please visit [http://www.allaboutdnt.org](http://www.allaboutdnt.org/).
+California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. If you are a California resident and would like to make such a request, please contact us at [hi@seatgeek.com](mailto:hi@seatgeek.com).
 
-## How You Can Access or Change Your Personal Data
+## Your Choices
+
+### How You Can Access or Change Your Personal Data
 
 SeatGeek understands that you may want to change or access your Personal Data. To change your Personal Data, sign in and go to your “My account” page. You may submit requests to change or remove Personal Data by emailing [hi@seatgeek.com](mailto:hi@seatgeek.com).
 
-You can stop all collection of information by the Application by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+### Email
+
+If you would prefer not to receive notices of special savings or promotions from SeatGeek, you may simply opt-out from receiving them by accessing the “unsubscribe” link included within any email and/or contacting SeatGeek administrators at [hi@seatgeek.com](mailto:hi@seatgeek.com). Please note that, even if you opt out of promotional emails, we may still send you service-related communications.
+
+### Tell a Friend
+
+If you choose to use our referral service to tell a friend about our Application or Site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Application or Site and may send up to three follow up emails. SeatGeek stores this information for the purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at [hi@seatgeek.com](mailto:hi@seatgeek.com) to request that we remove this information from our database.
+
+### Cookies
+
+You can always choose to not receive a cookie file by enabling a browser to refuse cookies or to prompt you before accepting a cookie. By refusing to accept cookies, you will not be able to take advantage of certain of the features and functions of our Site.
+
+### Location Information
+
+You may be asked to consent to the Application’s collection of location information. If we collect your location information, you can subsequently stop the collection of this information at any time by changing the preferences on your mobile device. You may also stop our collection of location information by following the standard uninstall process to remove all of our mobile applications from your device.
+
+## Protecting Your Personal Data
+
+As part of our efforts to prevent unauthorized access to Personal Data, maintain data accuracy, and ensure correct use of information, we will employ reasonable and current Internet security methods and technologies. However, no security system is impenetrable. We cannot guarantee the security of our servers, nor can we guarantee that your Personal Data will not be intercepted while being transmitted to us over the Internet.
 
 ## A Special Note about Children
 
-We do not intentionally gather Personal Data from visitors under the age of 13. If a child under 13 submits Personal Data to SeatGeek and we learn that the information is of a child under 13, we will attempt to delete the information as soon as possible. If you believe that we have any Personal Data from a child under 13, please contact us at [hi@seatgeek.com](mailto:hi@seatgeek.com). 
+We do not intentionally gather Personal Data from visitors under the age of 13. If a child under 13 submits Personal Data to SeatGeek and we learn that the information is of a child under 13, we will attempt to delete the information as soon as possible. If you believe that we have any Personal Data from a child under 13, please contact us at [hi@seatgeek.com](mailto:hi@seatgeek.com).
 
 ## Amendments to this Privacy Policy
 
@@ -100,6 +110,4 @@ If SeatGeek decides to change our Privacy Policy, we will post the updated polic
 
 ## How to Contact Us
 
-Should you have any questions, concerns or comments please email us at [hi@seatgeek.com](mailto:hi@seatgeek.com).
-
-© 2018 SeatGeek, all rights reserved. SeatGeek and SEATGEEK are trademarks of SeatGeek Inc.
+Should you have any questions, concerns or comments please email us at [hi@seatgeek.com](mailto:hi@seatgeek.com)
