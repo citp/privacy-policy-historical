@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pacificpower.net privacy policy that was archived on 2017-01-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170102115116id_/https%3A//www.pacificpower.net/footer/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pacificpower.net privacy policy that was archived on 2018-09-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180907003220id_/https%3A//www.pacificpower.net/footer/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <title>Privacy</title>
@@ -64,13 +64,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
   <div id="header">
 
-        <a href="https://www.pacificpower.net/index.html"><img id="brand" src="/content/internet/pp/_jcr_content/Homepage_Header/logoImage.img.gif/1430435809165.gif" alt="Pacific Power"></a>
-
-        <ul class="accessibility">
-            <li><a href="#content" tabindex="1" accesskey="2">Skip to Content</a></li>
-            <li><a href="#nav" tabindex="2" accesskey="3">Skip to Navigation</a></li>
-            <li><a href="https://www.pacificpower.net/index.html" tabindex="3" accesskey="1">Return to Homepage</a></li>
-        </ul>
+        <a href="https://www.pacificpower.net/index.html"><img id="brand" src="/content/internet/pp/_jcr_content/Homepage_Header/logoImage.img.gif/1523479594867.gif" alt="Pacific Power"></a>
 
         <div id="utility">
             <ul class="nav inline">            <li><a href="https://www.pacificpower.net/about/careers.html">Careers</a> :</li>            <li><a href="https://www.pacificpower.net/about.html">About Us</a> :</li>            <li><a href="https://www.pacificpower.net/ya/app.html">Mobile App</a> :</li>            <li><a href="https://www.pacificpower.net/about/contact.html">Contact Us</a></li>
@@ -79,8 +73,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <fieldset>
                     <legend>Search</legend>
                     <label for="q" style="display: none">Search: </label>
-                    <input id="q" name="q" type="text">
-                    <button class="btn go" type="submit" value="Go">Go</button>
+                    <input id="q" name="q" type="text" placeholder="Search this site" aria-label="search">
+                    <button class="btn go" type="submit" value="Go" aria-label="search button">
+                        <i class="fas fa-search"></i>
+                    </button>
                 </fieldset><!-- /sitesearch -->                
             </form>
 
@@ -119,7 +115,8 @@ Privacy</li>
         
 <h1 class="page-title">Privacy</h1>    
         
-<!-- Start Content Block with Optional Image  --><div> <p>
+<!-- Start Content Block with Optional Image  --><div> 
+<p>
 	Pacific Power is committed to safeguarding the privacy of individuals and businesses with respect to nonpublic, personal and financial information. Pacific Power therefore makes sure that its policies and practices in relation to the collection, use, retention, transfer and access of such information is strictly limited to those uses necessary to conduct the business of servicing your accounts and agreements with the company. Pacific Power will not provide, rent or sell your sensitive personal and financial information to company affiliates or nonaffiliated third parties, without your advance knowledge, except in the limited circumstances described below.</p>
 </div><!-- End Content Block with Optional Image -->
     
@@ -216,7 +213,8 @@ There are times when Pacific Power is required to furnish information concerning
 </dd></dl>
 
 
-<!-- Start Content Block with Optional Image  --><div> <p>
+<!-- Start Content Block with Optional Image  --><div> 
+<p>
 	For more information, please review our <a href="https://www.pacificpower.net/footer/privacy/cp.html">general practices and customer identification methods.</a></p>
 </div><!-- End Content Block with Optional Image -->
     
@@ -236,18 +234,19 @@ There are times when Pacific Power is required to furnish information concerning
 
 
 
+<script type="text/javascript" src="/etc/designs/pacific_power/js/jqmodal.js"></script>
 <script type="text/javascript" src="/etc/designs/pacific_power/js/pcloginfunctions.js"></script>
 
 
 
 <script type="text/javascript">
 // <![CDATA[
-        
+
    function showLoginBox() {
 
     var userFName = "";
     var userIsLoggedIn = document.cookie.search(/CAMS_SID_CSSPROD[^_]+_SYSTEM/) != -1;
-        
+
     if(userIsLoggedIn){
         setTempCookie('login_status','true',10,'/',getPrimaryDomain());
     } else {
@@ -265,9 +264,10 @@ There are times when Pacific Power is required to furnish information concerning
     var signinTextJS = '';
     var maintMessageJS = '';
     
-    var logoutBox = buildLogoutJS('<br />'+ userFName, maintMessageJS,'https://www.pacificpower.net/identity/logout?cams_security_domain=system&amp;cams_after_logout_url=https://www.pacificpower.net/ya/logout.wcssn.html','https://www.pacificpower.net/ya/uaora/uyai.wcss.html','https://www.pacificpower.net/ya/uaora/uyai.wcss.html');     
-    var loginBox = buildLoginJS( signinTextJS, maintMessageJS,'https://www.pacificpower.net/identity/login', 'https://www.pacificpower.net/ya/ya.wcss.html');
-
+       var logoutBox = false ? buildHomepageLogoutJS('<br />'+ userFName, maintMessageJS,'https://www.pacificpower.net/identity/logout?cams_security_domain=system&amp;cams_after_logout_url=https://www.pacificpower.net/ya/logout.wcssn.html','https://www.pacificpower.net/ya/uaora/uyai.wcss.html','https://www.pacificpower.net/ya/uaora/uyop.wcss.html') :
+       									   buildLogoutJS('<br />'+ userFName, maintMessageJS,'https://www.pacificpower.net/identity/logout?cams_security_domain=system&amp;cams_after_logout_url=https://www.pacificpower.net/ya/logout.wcssn.html','https://www.pacificpower.net/ya/uaora/uyai.wcss.html','https://www.pacificpower.net/ya/uaora/uyop.wcss.html');     
+       var loginBox = false ? buildHomepageLoginJS( signinTextJS, maintMessageJS,'https://www.pacificpower.net/identity/login', 'https://www.pacificpower.net/ya/ya.wcss.html','https://www.pacificpower.net/wum/cwa1.wcssn.html', 'https://www.pacificpower.net/wum/fu1.wcssn.html', 'https://www.pacificpower.net/wum/fp1.wcssn.html') :
+       										buildLoginJS( signinTextJS, maintMessageJS,'https://www.pacificpower.net/identity/login', 'https://www.pacificpower.net/ya/ya.wcss.html');
     if (userIsLoggedIn) {
         document.getElementById('logindiv').innerHTML = '<div class="inner">' + logoutBox + '</div><!-- end inner div --><span class="fill-bottom"></span>';
     } else {
@@ -294,6 +294,16 @@ $j(document).ready(function(){
         $j("#loginButton").addClass("btn-disabled").attr("disabled","disabled");
         return true;
     });
+
+    var userIsLoggedIn = document.cookie.search(/CAMS_SID_CSSPROD[^_]+_SYSTEM/) != -1;
+    if (userIsLoggedIn) {
+        $j("#nav-account #account").removeClass("displaynone");
+        $j("#nav-account #signin").addClass("displaynone");
+    } else {
+        $j("#nav-account #account").addClass("displaynone");
+        $j("#nav-account #signin").removeClass("displaynone");
+    }
+
 });
 
 // ]]>
@@ -312,7 +322,7 @@ $j(document).ready(function(){
 1-888-221-7070</p>
 <p><a href="https://www.pacificpower.net/ya/ys/sns.wcssn.html">Start service</a><br>
 </p>
-<p><a href="https://www.pacificpower.net/ed/po.html">Report a power outage</a><br>
+<p><a href="https://www.pacificpower.net/ya/rypo.wcss.html">Report a power outage</a><br>
 1-877-508-5088</p>
 <p><a href="https://www.pacificpower.net/ed/streetlights/raso.html">Report a streetlight outage </a></p>
 </div>
@@ -365,7 +375,7 @@ $j(document).ready(function(){
     </tr>
     <tr>
         <td align="center" style="border:none">
-            <a href="#" onclick="window.open('http://vovici.com/wsb.dll/s/469fg4116d');$j('#meerkat').hide();return false;">
+            <a href="#" onclick="window.open('https://efmfeed.verintefm.com/se/0A88ACC843B5CDB6');$j('#meerkat').hide();return false;">
                 <img src="/etc/designs/pacific_power/img/css/btn_yes.gif" style="border:0px;" alt="Yes">
             </a> 
             <a href="#" onclick="$j('#meerkat').hide();return false;">
@@ -391,47 +401,46 @@ $j(document).ready(function(){
     
   
     
-<div id="footer-social-media"><h4 id="footer-social-media-text">Stay Connected</h4>
-<ul><li>
+<div id="footer-social-media"><ul><li>
   <a title="Facebook" href="https://www.facebook.com/pacificpower">
     <img class="normal" src="/content/dam/pacific_power/image/Footer_Text/ftr_facebooksmall.gif" alt="Facebook">
-    <img class="rollover" src="/content/dam/pacific_power/image/Footer_Text/ftr_facebooksmallhover.gif" alt="Facebook">
+    <img class="rollover" src="/content/dam/pacific_power/image/Footer_Text/ftr_facebooksmall.gif" alt="Facebook">
   </a>
 </li>
 <li>
   <a title="Twitter" href="https://www.pacificpower.net/about/nr/sc.html">
     <img class="normal" src="/content/dam/pacific_power/image/Footer_Text/ftr_twittersmall.gif" alt="Twitter">
-    <img class="rollover" src="/content/dam/pacific_power/image/Footer_Text/ftr_twittersmallhover.gif" alt="Twitter">
+    <img class="rollover" src="/content/dam/pacific_power/image/Footer_Text/ftr_twittersmall.gif" alt="Twitter">
   </a>
 </li>
 <li>
   <a title="youtube" href="https://www.youtube.com/user/PacificPower1">
     <img class="normal" src="/content/dam/pacific_power/image/Footer_Text/ftr_youtube.gif" alt="youtube">
-    <img class="rollover" src="/content/dam/pacific_power/image/Footer_Text/ftr_youtubehover.gif" alt="youtube">
-  </a>
-</li>
-<li>
-  <a title="LinkedIn" href="https://www.linkedin.com/company/pacific-power-and-light-co">
-    <img class="normal" src="/content/dam/pacific_power/image/Footer_Text/ftr_linkedin.gif" alt="LinkedIn">
-    <img class="rollover" src="/content/dam/pacific_power/image/Footer_Text/ftr_linkedinhover.gif" alt="LinkedIn">
-  </a>
-</li>
-<li>
-  <a title="Instagram" href="https://www.instagram.com/pacific_power/">
-    <img class="normal" src="/content/dam/pacific_power/image/Footer_Text/ftr_instagram.gif" alt="Instagram">
-    <img class="rollover" src="/content/dam/pacific_power/image/Footer_Text/ftr_instagramhover.gif" alt="Instagram">
+    <img class="rollover" src="/content/dam/pacific_power/image/Footer_Text/ftr_youtube.gif" alt="youtube">
   </a>
 </li>
 <li>
   <a title="RSS" href="https://www.pacificpower.net/about/nr/rss.html">
     <img class="normal" src="/content/dam/pacific_power/image/Footer_Text/ftr_rss.gif" alt="RSS">
-    <img class="rollover" src="/content/dam/pacific_power/image/Footer_Text/ftr_rsshover.gif" alt="RSS">
+    <img class="rollover" src="/content/dam/pacific_power/image/Footer_Text/ftr_rss.gif" alt="RSS">
+  </a>
+</li>
+<li>
+  <a title="LinkedIn" href="https://www.linkedin.com/company/pacific-power-and-light-co">
+    <img class="normal" src="/content/dam/pacific_power/image/Footer_Text/ftr_linkedin.gif" alt="LinkedIn">
+    <img class="rollover" src="/content/dam/pacific_power/image/Footer_Text/ftr_linkedin.gif" alt="LinkedIn">
+  </a>
+</li>
+<li>
+  <a title="Instagram" href="https://www.instagram.com/pacific_power/">
+    <img class="normal" src="/content/dam/pacific_power/image/Footer_Text/ftr_instagram.gif" alt="Instagram">
+    <img class="rollover" src="/content/dam/pacific_power/image/Footer_Text/ftr_instagram.gif" alt="Instagram">
   </a>
 </li>
 </ul></div><!-- /footer-social-media-->  
     
     <ul class="nav inline">           <li><a href="https://www.pacificpower.net/index.html">Home</a> :</li>           <li><a href="https://www.pacificpower.net/footer/ee.html">Español</a> :</li>           <li><a href="https://www.pacificpower.net/footer/sm.html">Site Map</a> :</li>           <li><a href="https://www.pacificpower.net/footer/privacy.html">Privacy</a> :</li>           <li><a href="https://www.pacificpower.net/footer/tou.html">Terms of Use</a> :</li>           <li><a href="https://www.pacificpower.net/footer/ri/ri.wcssn.html">Request Information</a> :</li>           <li><a href="https://www.pacificpower.net/footer/contact.html">Contact Us</a></li></ul>
-            <p>©2017 Pacific Power, a division of <a href="http://www.pacificorp.com/index.html">PacifiCorp</a> and part of <a href="http://www.berkshirehathawayenergyco.com/" class="external">Berkshire Hathaway Energy</a><br>
+            <p>©2018 Pacific Power, a division of <a href="http://www.pacificorp.com/index.html">PacifiCorp</a> and part of <a href="http://www.berkshirehathawayenergyco.com/" class="external">Berkshire Hathaway Energy</a><br>
 </p>
       
 
@@ -444,27 +453,27 @@ $j(document).ready(function(){
     <ul id="nav">
         <li id="nav-youraccount">
             <a href="https://www.pacificpower.net/ya/index.wcss.html">Your Account</a>
-            <ul><li><a href="https://www.pacificpower.net/ya/vpb.wcss.html">View &amp; Pay Bills</a></li><li><a href="https://www.pacificpower.net/ya/wtp.html">Ways to Pay</a></li><li><a href="https://www.pacificpower.net/ya/kyb.html">Know Your Bill</a></li><li><a href="https://www.pacificpower.net/ya/ys.html">Start, Stop or Move</a></li><li><a href="https://www.pacificpower.net/ya/po.html">Power Options</a></li><li><a href="https://www.pacificpower.net/ya/uaora.html">Online Profile &amp; Preferences</a></li><li><a href="https://www.pacificpower.net/ya/ll.html">Landlord Information &amp; Programs</a></li><li><a href="https://www.pacificpower.net/ya/rypo.wcss.html">Report Power Outage</a></li></ul>
+            <ul><li><a href="https://www.pacificpower.net/ya/vpb.wcss.html">View &amp; Pay Bills</a></li><li><a href="https://www.pacificpower.net/ya/wtp.html">Payment &amp; Billing Options</a></li><li><a href="https://www.pacificpower.net/ya/cp.wcss.html">Your Alerts</a></li><li><a href="https://www.pacificpower.net/ya/vu.wcss.html">Usage Details</a></li><li><a href="https://www.pacificpower.net/ya/uaora.html">Online Profile &amp; Account Information</a></li><li><a href="https://www.pacificpower.net/ya/ys.html">Start, Stop or Move</a></li><li><a href="https://www.pacificpower.net/ya/ll.html">Landlord Information &amp; Programs</a></li><li><a href="https://www.pacificpower.net/ya/rypo.wcss.html">Report Power Outage</a></li><li><a href="https://www.pacificpower.net/ya/smart-meters.html">Smart Meters</a></li></ul>
         </li>
         <li id="nav-residential">
             <a href="https://www.pacificpower.net/res.html">Residential</a>
-            <ul><li><a href="https://www.pacificpower.net/res/sem.html">Save Energy – wattsmart Incentives</a></li><li><a href="https://www.pacificpower.net/res/bsre.html">Blue Sky Renewable Energy</a></li><li><a href="https://www.pacificpower.net/res/po1.html">Power Outages</a></li><li><a href="https://www.pacificpower.net/res/fa.html">Financial Assistance</a></li><li><a href="https://www.pacificpower.net/res/rc.html">Rates &amp; Charges</a></li><li><a href="https://www.pacificpower.net/res/po.html">Payment &amp; Billing Options</a></li><li><a href="https://www.pacificpower.net/res/vn.html">Voices Newsletter</a></li><li><a href="https://www.pacificpower.net/res/nc.html">New Service Connections</a></li></ul>
+            <ul><li><a href="https://www.pacificpower.net/res/moving-center.html">Start, Stop or Move Service</a></li><li><a href="https://www.pacificpower.net/res/po1.html">Power Outages</a></li><li><a href="https://www.pacificpower.net/res/po.html">Payment &amp; Billing Options</a></li><li><a href="https://www.pacificpower.net/res/sem.html">Save Energy – wattsmart Incentives</a></li><li><a href="https://www.pacificpower.net/res/bsre.html">Blue Sky Renewable Energy</a></li><li><a href="https://www.pacificpower.net/res/nc.html">New Construction</a></li><li><a href="https://www.pacificpower.net/res/fa.html">Financial Assistance</a></li><li><a href="https://www.pacificpower.net/res/rc.html">Rates &amp; Charges</a></li></ul>
         </li>
         <li id="nav-business">
             <a href="https://www.pacificpower.net/bus.html">Business</a>
-            <ul><li><a href="https://www.pacificpower.net/bus/se.html">Save Energy – wattsmart Incentives</a></li><li><a href="https://www.pacificpower.net/bus/bst.html">Business Solutions Toolkit</a></li><li><a href="https://www.pacificpower.net/bus/ayu.html">Understand Your Bill</a></li><li><a href="https://www.pacificpower.net/bus/bsre.html">Blue Sky Renewable Energy</a></li><li><a href="https://www.pacificpower.net/bus/rr.html">Rates &amp; Regulation</a></li><li><a href="https://www.pacificpower.net/bus/po.html">Payment &amp; Billing Options</a></li><li><a href="https://www.pacificpower.net/bus/po1.html">Power Outages</a></li><li><a href="https://www.pacificpower.net/bus/ed.html">Economic Development</a></li></ul>
+            <ul><li><a href="https://www.pacificpower.net/bus/moving-center.html">Start, Stop or Move Service</a></li><li><a href="https://www.pacificpower.net/bus/po1.html">Power Outages</a></li><li><a href="https://www.pacificpower.net/bus/po.html">Payment &amp; Billing Options</a></li><li><a href="https://www.pacificpower.net/bus/se.html">Save Energy – wattsmart Incentives</a></li><li><a href="https://www.pacificpower.net/bus/bsre.html">Blue Sky Renewable Energy</a></li><li><a href="https://www.pacificpower.net/bus/ed.html">Economic Development</a></li><li><a href="https://www.pacificpower.net/bus/ayu.html">Understand Your Bill</a></li><li><a href="https://www.pacificpower.net/bus/rr.html">Rates &amp; Regulation</a></li><li><a href="https://www.pacificpower.net/bus/oda.html">Oregon Direct Access</a></li></ul>
         </li>
         <li id="nav-contractors">
             <a href="https://www.pacificpower.net/con/index.html">Contractors</a>
-            <ul><li><a href="https://www.pacificpower.net/con/bsrf.wcssn.html">Builder Service Request Form</a></li><li><a href="https://www.pacificpower.net/con/lee.html">Line Extension Estimator</a></li><li><a href="https://www.pacificpower.net/con/esr.html">Electric Service Requirements</a></li><li><a href="https://www.pacificpower.net/con/pqs.html">Power Quality Standards</a></li><li><a href="https://www.pacificpower.net/con/es.html">Electrical Safety</a></li><li><a href="https://www.pacificpower.net/con/af.html">Arc Flash &amp; Fault Current</a></li><li><a href="https://www.pacificpower.net/con/erow.html">Easements &amp; Right of Way</a></li><li><a href="https://www.pacificpower.net/con/sp.html">Suppliers &amp; Purchasing</a></li></ul>
+            <ul><li><a href="https://www.pacificpower.net/con/esr.html">Electric Service Requirements</a></li><li><a href="https://www.pacificpower.net/con/lee.html">Line Extension Estimator</a></li><li><a href="https://www.pacificpower.net/con/bsrf.wcssn.html">Builder Service Request Form</a></li><li><a href="https://www.pacificpower.net/con/af.html">Arc Flash &amp; Fault Current</a></li><li><a href="https://www.pacificpower.net/con/erow.html">Easements &amp; Right of Way</a></li><li><a href="https://www.pacificpower.net/con/pqs.html">Power Quality Standards</a></li><li><a href="https://www.pacificpower.net/con/es.html">Electrical Safety</a></li><li><a href="https://www.pacificpower.net/con/sp.html">Suppliers &amp; Purchasing</a></li></ul>
         </li>
         <li id="nav-efficiency">
             <a href="https://www.pacificpower.net/env.html">Efficiency &amp; Environment</a>
-            <ul><li><a href="https://www.pacificpower.net/env/oec.html">Our Environmental Commitment</a></li><li><a href="https://www.pacificpower.net/env/rycf.html">Reduce Your Carbon Footprint</a></li><li><a href="https://www.pacificpower.net/env/ws.html">Save Energy – wattsmart Incentives</a></li><li><a href="https://www.pacificpower.net/env/envr.html">Energy Efficiency Resources</a></li><li><a href="https://www.pacificpower.net/env/bsre.html">Blue Sky Renewable Energy</a></li><li><a href="https://www.pacificpower.net/env/nmcg.html">Private Generation</a></li><li><a href="https://www.pacificpower.net/env/ev.html">Electric Vehicles</a></li><li><a href="https://www.pacificpower.net/env/oregon-clean-energy.html">Oregon Clean Electricity &amp; Coal Transition Law</a></li></ul>
+            <ul><li><a href="https://www.pacificpower.net/env/ws.html">Save Energy – wattsmart Incentives</a></li><li><a href="https://www.pacificpower.net/env/bsre.html">Blue Sky Renewable Energy</a></li><li><a href="https://www.pacificpower.net/env/nmcg.html">Customer Generation</a></li><li><a href="https://www.pacificpower.net/env/ev.html">Electric Vehicles</a></li><li><a href="https://www.pacificpower.net/env/oec.html">Our Environmental Commitment</a></li><li><a href="https://www.pacificpower.net/env/ev2020.html">Energy Vision 2020</a></li></ul>
         </li>
         <li id="nav-safety">
             <a href="https://www.pacificpower.net/ed.html">Safety &amp; Outages</a>
-            <ul><li><a href="https://www.pacificpower.net/ed/hws.html">Home &amp; Work Safety</a></li><li><a href="https://www.pacificpower.net/ed/se.html">Safety &amp; Energy Education</a></li><li><a href="https://www.pacificpower.net/ed/po.html">Power Outages</a></li><li><a href="https://www.pacificpower.net/ed/tpp.html">Tree Planting &amp; Pruning</a></li><li><a href="https://www.pacificpower.net/ed/streetlights.html">Streetlights</a></li><li><a href="https://www.pacificpower.net/ed/tp.html">Transmission Projects</a></li><li><a href="https://www.pacificpower.net/ed/esi.html">Electric System Information</a></li><li><a href="https://www.pacificpower.net/ed/rasdwit.html">Reliability &amp; Power Quality</a></li></ul>
+            <ul><li><a href="https://www.pacificpower.net/ed/po.html">Power Outages</a></li><li><a href="https://www.pacificpower.net/ed/streetlights.html">Streetlights</a></li><li><a href="https://www.pacificpower.net/ed/rasdwit.html">Reliability &amp; Power Quality</a></li><li><a href="https://www.pacificpower.net/ed/hws.html">Home &amp; Work Safety</a></li><li><a href="https://www.pacificpower.net/ed/se.html">Safety &amp; Energy Education</a></li><li><a href="https://www.pacificpower.net/ed/tpp.html">Tree Planting &amp; Pruning</a></li><li><a href="https://www.pacificpower.net/ed/tp.html">Transmission Projects</a></li><li><a href="https://www.pacificpower.net/ed/esi.html">Electric System Information</a></li></ul>
         </li>
     </ul><!-- /nav -->
 
@@ -474,60 +483,8 @@ $j(document).ready(function(){
 </div><!-- /wrapper -->
 
 <script type="text/javascript" src="/etc/designs/pc_global/js/jquery.meerkat.1.0.js"></script>
+<script type="text/javascript" src="/etc/designs/pacific_power/js/survey.js"></script>
 
-<script type="text/javascript">
-// <![CDATA[
-
-$j(document).ready(function(){
-    
-    var visitCount;
-
-    if (getCookie("visits") == null) 
-    {   
-        visitCount = 1; 
-    }   
-    // else this is second or greater visit, retrieve last counted value and add 1    
-    else    
-    {   
-        visitCount = parseInt(getCookie("visits") == null ? 0 : getCookie("visits")) + 1;
-        if (visitCount == 9)
-        {
-            enableCatfishSurvey();
-        }
-    }
-    // update cookie with new count
-    if (visitCount < 12)
-    {
-        setCookie("visits", visitCount,60,"/");
-    }
-});
-
-function enableCatfishSurvey() {
-    
-    meerkat({
-      showMeerkatOnLoad: 'false',
-      close: 'none',
-      dontShow: 'none',
-      dontShowExpire: 0,
-      removeCookie: 'none',
-      meerkatPosition: 'bottom',
-      animation: 'slide',
-      animationSpeed: '3000',
-      height: 'auto',
-      background: 'none'
-    });
-
-    // If the browser is IE6 we want to adjust where the popup will start on the screen
-    // The styles that work for FF and IE7 are not working in IE6, big surprise
-    if ($j.browser.msie && $j.browser.version <= 6) {
-        var topAdjust = ($j(document).height() - 160) + 'px';
-        var leftAdjust = $j('#wrapper').offset().left;
-        $j('#meerkat-wrap').css({'position':'absolute', 'top':topAdjust, 'left':-leftAdjust});
-    }
-}
-
-// ]]>
-</script>
 
 
 
