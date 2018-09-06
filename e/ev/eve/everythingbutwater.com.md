@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the everythingbutwater.com privacy policy that was archived on 2017-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170714024057id_/https%3A//www.everythingbutwater.com/policy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everythingbutwater.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906161933id_/https%3A//www.everythingbutwater.com/policy/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | Everything But Water
 
-##  Effective: June 22, 2016
+##  Effective: May 25, 2018
 
 ##  Collection and Use of Information
 
@@ -22,9 +22,9 @@ OBS will not sell, rent or otherwise transmit a visitor's personal information t
 
 We may create anonymous information from personal information by excluding information (such as your name) that makes the data personally identifiable to you. OBS may share anonymous information about the visitors of our Website with our advertisers, business partners, sponsors and certain others. Anonymous information is also used to develop, improve and customize our Websites to better serve visitors to our Websites. OBS reserves the right to use anonymous information for any purpose and disclose anonymous information to third parties in its sole discretion.
 
-##  For Children Under 13
+##  For Children Under 16
 
-We do not intentionally gather personal information about visitors who are under the age of 13. If a child under 13 submits personal information to OBS and we learn that the personal information is the information of a child under 13, we will attempt to delete the information as soon as possible.  If you believe that we might have any personal information from a child under 13, please contact us at [privacy@everythingbutwater.com](mailto:privacy@everythingbutwater.com).
+We do not intentionally gather personal information about visitors who are under the age of 16. If a child under 16 submits personal information to OBS and we learn that the personal information is the information of a child under 16, we will attempt to delete the information as soon as possible.  If you believe that we might have any personal information from a child under 16, please contact us at [privacy@everythingbutwater.com](mailto:privacy@everythingbutwater.com).
 
 ##  For Outside of the United States
 
@@ -60,6 +60,8 @@ Google’s ability to use and share information collected by Google Analytics ab
 
 We may use third parties to serve ads on the Websites.  Certain third parties may automatically collect information about your visits to this and other websites, your IP address, your ISP, the browser you use to visit our Websites (but not your name, address, e-mail address or telephone number).  They do this by using cookies or other technologies.  Information collected may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visitation of our Websites and the other sites tracked by these third parties.  This policy does not apply to, and we are not responsible for, cookies or pixel tags in third party ads, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technologies.  If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://www.aboutads.info/choices>.
 
+All inquiries regarding data privacy should be directed to [information@everythingbutwater.com](mailto:information@everythingbutwater.com?subject=Data%20Privacy%20Inquiry%20-%20GDPR)
+
 ##  Advertisements and Links
 
 Our Websites may include advertisements and/or links to websites operated by third parties that are not sponsors and are not affiliated with OBS. OBS cannot guarantee the appropriateness of any external content to which we link, nor to the appropriateness of sites that in turn link to such external content. Therefore, OBS holds no responsibility for the content, practices, or information provided or requested on websites operated by third parties. Further, advertisements on and links to or from our Websites do not constitute sponsorship, endorsement, or approval by OBS of the content, policies, practices or products or services offered on these websites or those linked to them.
@@ -94,6 +96,6 @@ Everything But Water
 
 Orlando, FL 32839
 
-P: 888.796.6661 F: 407.351.0106
+P: 888.796.6661
 
 Hours: Mon-Fri 9am-5pm EST
