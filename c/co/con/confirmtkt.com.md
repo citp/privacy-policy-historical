@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the confirmtkt.com privacy policy that was archived on 2017-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170109104145id_/https%3A//www.confirmtkt.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the confirmtkt.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906085248id_/https%3A//www.confirmtkt.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Confirmtkt
 
