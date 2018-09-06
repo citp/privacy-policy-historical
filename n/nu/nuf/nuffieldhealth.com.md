@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the nuffieldhealth.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119225809id_/https%3A//www.nuffieldhealth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuffieldhealth.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906045614id_/https%3A//www.nuffieldhealth.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Nuffield Health
 
-Nuffield Health understands that your personal data is entrusted to us and appreciates the importance of protecting and respecting your privacy. To this end we comply fully with the data protection law in force in the UK (“Data Protection Laws”) and with all applicable clinical confidentiality guidelines including those published from time to time by the General Medical Council and the Nursing and Midwifery Council.
+Nuffield Health understands that your personal data is entrusted to us and appreciates the importance of protecting and respecting your privacy. To this end we comply fully with the data protection law in force in the UK (“Data Protection Laws”) and with all applicable clinical confidentiality guidelines including those published from time to time by the General Medical Council (GMC) and the Nursing and Midwifery Council (NMC).
 
 This Privacy Policy sets out the basis on which we collect and process personal data about you including our practices regarding the collection, use, storage and disclosure of personal data that we collect from you and/or hold about you, and your rights in relation to that data. 
 
 Please read the following carefully to understand how we process your personal data. By providing your personal data to us or by using our services, website or other online or digital platform(s) you are accepting or consenting to the practices as described or referred to in this Privacy Policy.
 
-For the purpose of Data Protection Laws, the data controller is Nuffield Health, with registered address at: Epsom Gateway, Ashley Avenue, Epsom, Surrey, KT18 5AL, a Registered Charity Number: 205533 (England & Wales), a Charity Registered in Scotland Number: SC041793 and a Company Limited by Guarantee Registered in England Number: 576970. ****
+For the purpose of Data Protection Laws, the data controller is Nuffield Health, with registered address at: Epsom Gateway, Ashley Avenue, Epsom, Surrey, KT18 5AL, a Registered Charity Number: 205533 (England & Wales), a Charity Registered in Scotland Number: SC041793 and a Company Limited by Guarantee Registered in England Number: 576970.
 
 When we refer to ‘we’, ‘us’ and ‘our’, we mean Nuffield Health.
 
 ## **What personal data may we collect from you?** ****
 
-When we refer to personal data in this policy, we mean information that can or has the potential to identify you as an individual. 
+When we refer to personal data in this policy, we mean information that can or has the potential to identify you as an individual.
 
-Accordingly, we may hold and use personal data about you as a customer, a patient or in any other capacity, for example, when you visit one of our websites, complete a form, access our services or speak to us.  Depending on what services you receive from us this may include sensitive personal data such as information relating to your health.
+Accordingly, we may hold and use personal data about you as a customer, a patient or in any other capacity, for example, when you visit one of our websites, complete a form, access our services or speak to us. 
 
 Personal data we collect from you may include the following:
 
@@ -39,13 +39,23 @@ Where you have named someone as your next of kin and provided us with personal d
 Where you use any of our websites, we may automatically collect personal data about you including:
 
   * Technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform,
-  * information about your visit, including the full Uniform Resource Locators (URL), clickstream to, through and from our site (including date and time), products you viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), methods used to browse away from the page.
+  * Information about your visit, including the full Uniform Resource Locators (URL), clickstream to, through and from our site (including date and time), products you viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), methods used to browse away from the page.
 
 
 
-The data that we request from you may include sensitive personal data. This includes information that relates to the mental or physical health or racial or ethnic origin (which may include children’s data). By providing us with sensitive personal data, you give us your explicit consent to process this sensitive personal data for the purposes set out in this Privacy Policy.
+The data that we request from you may include special category data. This includes information that relates to the following: 
 
-## **When do we collect personal data** **about you?**
+  * racial or ethnic origin, or
+  * political opinions, or
+  * religious or philosophical beliefs, or
+  * trade union membership, or
+  * genetic data, biometric data for the purpose of uniquely identifying a natural person, or
+  * health data, 
+  * or data concerning a natural person's sex life or sexual orientation. 
+
+
+
+##  **When do we collect personal data** **about you?**
 
 We may collect personal data about you if you:
 
@@ -75,45 +85,81 @@ In the interests of training and continually improving our services, calls to Nu
 
 
 
-## **How do we use your personal data?**
+## **How do we lawfully process  your personal data?**
 
-Your personal data will be kept confidential and secure and will, unless you agree otherwise, only be used for the purpose(s) for which it was collected and in accordance with this Privacy Policy, applicable Data Protection Laws, clinical records retention periods and clinical confidentiality guidelines. 
+Your personal data will be kept confidential and secure and will only be used for the purpose(s) for which it was collected and in accordance with this Privacy Policy, applicable Data Protection Laws, clinical records retention periods and clinical confidentiality guidelines. 
 
-Sensitive personal data related to your health will only be disclosed to those involved with your treatment or care, or in accordance with UK laws and guidelines of professional bodies or for the purpose of clinical audits (unless you object). Further details on how we use health related personal data are given below.  We will only use your sensitive personal data for the purposes for which you have given us your explicit consent to use it.  Please note that, although we have set out the purposes for which we may use your personal data below, we will not use your sensitive personal data for those purposes unless you have given us your explicit consent to do so.
+Set out below are some of the ways in which we process personal data although to do so lawfully we need to have a legal ground for doing so. We normally process personal data if it is:   
+  
 
-We may use your personal data to:
 
-  * enable us to carry out our obligations to you arising from any contract entered into between you and us including relating to the provision by us of services or treatments to you and related matter such as, billing, accounting and audit, credit or other payment card verification and anti-fraud screening
+  * necessary to provide you with our services - to enable us to carry out our obligations to you arising from any contract entered into between us and you including relating to the provision by us of services or treatments to you and related matter such as billing, accounting and audit, credit or other payment card verification and anti-fraud screening
+  * in our or a third party's legitimate interests to do so - see details below
+  * required or allowed by any applicable law
+  * with your explicit consent for example direct marketing communications
+
+
+
+Generally, we will only ask for your consent to processing if there is no other legal grounds to process. In these circumstances, we will always aim to be clear and transparent about why we need your consent and what we are asking it for. Where we are relying on consent to process personal data you have the right to withdraw your consent at any time by contacting us using the details below and we will stop the processing for which consent was obtained. 
+
+To process special category data we rely on additional legal grounds and generally, they are as follows: 
+
+  * With your explicit consent
+  * It is necessary for the purposes of preventive or occupational medicine, to assess whether you are able to work, medical diagnosis, to provide health or social care treatment, or to manage health or social care systems and services. This may also include monitoring whether the quality of our services or treatment is meeting expectations. 
+  * It is necessary to establish, make or defend legal claims or court action
+  * It is necessary so that we can comply with employment law
+  * It is necessary for a public interest purpose in line with any laws that are applicable. This should assist in protecting the public against dishonesty, malpractice or other seriously improper behaviour for example, investigating complaints, clinical concerns, regulatory breaches or investigations e.g the Care Quality Commission or GMC or ICO. 
+
+
+
+ **Processing of personal data which you have made public:  
+**  
+As stated above, one of the legal grounds for processing data is where it is in our legitimate interest to do so, taking into account your interest's rights and freedoms. This allows us to manage the relationship that exists between you and us and can include the following reasons: 
+
   * provide you with information, products or services that you request from us
-  * provide you with information about products or services we offer that we feel may interest you. Unless you have consented to receive marketing communications by electronic means from us, by ticking the relevant box on the form on which we collect your data, we will only contact you by electronic means (e-mail or SMS) with information about products and services similar to those which you previously purchased or enquired about from us
+  * managing all aspects of our relationship with you, our products and services and any third parties who may provide products or services on our behalf
   * allow you to participate in interactive features of our services, when you choose to do so
   * notify you about changes to our products or services
+  * keep our records up to date
   * respond to requests where we have a legal or regulatory obligation to do so
   * check the accuracy of information about you and the quality of your treatment or care, including auditing medical and billing information for insurance claims as well as part of any claims or litigation process
   * support your doctor, nurse or other healthcare professional
   * assess the quality and/or type of care you have received (including giving you the opportunity to complete customer satisfaction surveys) and any concerns or complaints you may raise, so that these can be properly investigated
   * to conduct and analyse market research
-  * to ensure that content from any of our websites is presented in the most effective manner for you and for your computer.
+  * to ensure that content from any of our websites is presented in the most effective manner for you and for your computer
+  * to allow us to enforce our website terms of use, our policy terms and conditions or other contracts, or to protect our or other's rights, property or safety
+  * to share your personal information with people or organisations in order to run our business or comply with any legal and/or regulatory obligations including to defend ourselves from claims, exercise our rights and adhere to laws and regulations that apply to us and the third parties we work with
+  * to take part in, or be the subject of, any sale, purchase, merger or takeover of all or part our business.
 
 
 
-## **The security of your personal data**
+##  **The security of your personal data**
 
 We protect all personal data we hold about you by ensuring that we have appropriate organisational and technical security measures in place to prevent unauthorised access or unlawful processing of personal data and to prevent personal data being lost, destroyed or damaged. We conduct assessments to ensure the ongoing security of our information systems. 
 
 Any personal data you provide will be held for as long as is necessary having regard to the purpose for which it was collected and in accordance with all applicable UK laws.
 
-Personal data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Where we transfer your personal data outside the EEA, we will ensure that there are adequate protections in place for your rights, in accordance with Data Protection Laws. By submitting your personal data, and in providing any personal data to us, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your information is treated securely and in accordance with this Privacy Policy.
+Personal data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Where we transfer your personal data outside the EEA, we will ensure that there are adequate protections in place for your rights, in accordance with Data Protection Laws. By submitting your personal data, and in providing any personal data to us, you understand the basis for this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your information is treated securely and in accordance with this Privacy Policy.
 
 All information you provide to us is stored securely. Any payment transactions on our website will be processed securely by third party payment processors. Where we have given you (or where you have chosen) a password that enables you to access certain parts of our website, you are responsible for keeping that password confidential. We ask you not to share a password with anyone.
 
-The transmission of information via the internet cannot be guaranteed as completely secure.  However, we ensure that any information transferred to our websites is via an encrypted connection. Once we have received your information, we will use strict procedures and security features for prevention of unauthorised access. 
+The transmission of information via the internet cannot be guaranteed as completely secure.  However, we ensure that any information transferred to our websites is via an encrypted connection. Once we have received your information, we will use strict procedures and security features to minimise the risk of unauthorised access. 
 
-At your request, we may occasionally transfer personal information to you via email, or you may choose to transfer information to us via email.  Email is not a secure method of information transmission; if you choose to send or receive such information via email, you do so at your own risk.
+At your request, we may occasionally transfer personal information to you via email, or you may choose to transfer information to us via email.  Email is not a secure method of information transmission; if you choose to send or receive such information via email, you do so understanding the risks associated with doing so.
 
-## **Disclosure of your personal data**
+##  **How long do we retain your personal data?**
 
-In the usual course of our business we may disclose your personal data (to the extent necessary) to certain third party organisations that we use to support the delivery of our services. This may include the following:
+Unless we explain otherwise to you, we will retain your personal data on the basis of the following guidelines: 
+
+  * for as long as we have a reasonable business need, such as managing our relationship with you and managing our business
+  * for as long as we provide services and/or treatment to you and then for as long as someone could bring a claim against us (in general this is a period of 8 years); and/or
+  * in line with legal and regulatory requirements or guidance.
+
+
+
+##  **Disclosure of your personal data to third parties**
+
+In the usual course of our business we may disclose your personal data (which will be limited to the extent reasonably necessary) to certain third party organisations that we use to support the delivery of our services. This may include the following:
 
   * business partners, suppliers and sub-contractors for the performance of any contract we enter into with you,
   * organisations providing IT systems support and hosting in relation to the IT systems on which your information is stored,
@@ -127,9 +173,9 @@ Where a third party data processor is used, we ensure that they operate under co
 
 We may also disclose your personal data to third parties in the event that we sell or buy any business or assets or where we are required by law to do so.
 
-## **Health information collected during provision of treatment or services**
+## **Special Category/Health information collected during provision of treatment or services**
 
-Sensitive personal data (including information relating to your health) will only be disclosed to third parties in accordance with this Privacy Policy. That includes third parties involved with your treatment or care, or in accordance with UK laws and guidelines of appropriate professional bodies. Where applicable, it may be disclosed to any person or organisation who may be responsible for meeting your treatment expenses or their agents. It may also be provided to external service providers and regulatory bodies (unless you object) for the purpose of clinical audit to ensure the highest standards of care and record keeping are maintained.
+Special category data (including information relating to your health) will only be disclosed to third parties in accordance with this Privacy Policy. That includes third parties involved with your treatment or care, or in accordance with UK laws and guidelines of appropriate professional bodies. Where applicable, it may be disclosed to any person or organisation who may be responsible for meeting your treatment expenses or their agents. It may also be provided to external service providers and regulatory bodies (unless you object) for the purpose of clinical audit to ensure the highest standards of care and record keeping are maintained.
 
 _Medical professionals working with us_ :  We share clinical information about you with our medical professionals as we think necessary for your treatment.  Medical professionals working with us might be our employees, or they might be independent consultants in private practice.  In the case of independent consultants, the consultant is the data controller of your personal data, either alone or jointly with us and will be required to maintain their own records in accordance with Data Protection Laws and applicable clinical confidential guidelines and retention periods.  Where that is the case, we may refer you to that consultant to exercise your rights over your data.  Our contracts with consultants require them to cooperate with those requests.  In all circumstances, those individual consultants will only process your personal data for the purposes set out in this Privacy Policy or as otherwise notified to you.
 
@@ -141,11 +187,11 @@ _Your insurer_ :  We share with your medical insurer information about your tre
 
 _The NHS_ :  If you are referred to us for treatment by the NHS, we will share the details of your treatment with the part of the NHS that referred you to us, as necessary to perform, process and report back on that treatment.
 
-_Medical regulators:_   We may be requested – and in some cases can be required - to share certain information (including personal data and sensitive personal data) about you and your care with medical regulators such as the General Medical Council or the Nursing and Midwifery Council, for example if you make a complaint, or the conduct of a medical professional involved in your treatment is alleged to have fallen below the appropriate standards and the regulator wishes to investigate.  We will ensure that we do so within the framework of the law and with due respect for your privacy. 
+_Medical regulators:_   We may be requested – and in some cases can be required - to share certain information (including personal data and special category data) about you and your care with medical regulators such as the General Medical Council or the Nursing and Midwifery Council, for example if you make a complaint, or the conduct of a medical professional involved in your treatment is alleged to have fallen below the appropriate standards and the regulator wishes to investigate.  We will ensure that we do so within the framework of the law and with due respect for your privacy. 
 
 From time to time we may also make information available on the basis of necessity for the provision of healthcare, but subject always to patient confidentiality. 
 
-In an emergency and if you are incapacitated, we may also process your personal data (including sensitive personal data) or make personal data available to third parties on the basis of protecting your ‘vital interest’ (i.e. your life or your health). 
+In an emergency and if you are incapacitated, we may also process your personal data (including special category data) or make personal data available to third parties on the basis of protecting your ‘vital interest’ (i.e. your life or your health). 
 
 We will use your personal data in order to monitor the outcome of your treatment by us and any treatment associated with your care, including any NHS treatment.
 
@@ -165,11 +211,11 @@ PHIN is responsible for collecting, processing and publishing information on the
 
 
 
-Providers must provide to PHIN with details of each episode of care, including a summary of each record of treatment including; the dates when each patient was in hospital, what treatment was carried out and by whom.
+Providers must provide PHIN with details of each episode of care, including a summary of each record of treatment including; the dates when each patient was in hospital, what treatment was carried out and by whom.
 
-Providers are also required to provide: patient satisfaction survey data, Patient Reported Outcome Measures (PROMS) – patient reported health improvements following treatment and details of any adverse events relating to the patients treated.
-
-Providers are required to provide each patient’s NHS Number (England, Wales or Isle of Man) or CHI Number (Scotland) and a post code of residence. This information can only be used to identify an individual by an approved body (such as an NHS hospital) with access to information linking NHS Numbers with other personal details.  PHIN securely submits the patient’s NHS number and discharge date(s) to information authorities such as:
+Providers are also required to provide: patient satisfaction survey data, Patient Reported Outcome Measures (PROMS) – patient reported health improvements following treatment and details of any adverse events relating to the patients treated.  
+  
+Certain personal data will be provided to PHIN, including patients post code of residence. PHIN securely submits such data and records to information authorities such as:
 
   * for England, NHS digital;
   * for Wales, the NHS Wales Informatics Service;
@@ -179,7 +225,7 @@ Providers are required to provide each patient’s NHS Number (England, Wales or
 
 
 
-PHIN will only disclose records of care and personal data to the non-departmental bodies/authorities identified above, as required by law or where there is an overriding public interest, and /or to investigate or prevent fraud.  Data Protection Laws give all individuals the right to make a ‘Subject Access Request’ to obtain a copy of any information that any organisation holds about them (as set out in more detail below).  As PHIN cannot identify individuals from the data it holds, applicants would need to provide their NHS Number (or equivalent in Scotland or Northern Ireland) and further proof of identity in order to access any information held.  A £10 fee may apply.
+PHIN will only disclose records of care and personal data to the non-departmental bodies/authorities identified above, as required by law or where there is an overriding public interest, and /or to investigate or prevent fraud.  Data Protection Laws give all individuals the right to make a ‘Subject Access Request’ to obtain a copy of any information that any organisation holds about them (as set out in more detail below).  As PHIN cannot identify individuals from the data it holds, applicants would need to provide further proof of identity in order to access whether it is possible to access any information held. Further information about how PHIN uses information, including it's Privacy Notice, is available at: [www.phin.org.uk](http://www.phin.org.uk/). 
 
 ## **What do we do with any non-personal information collected when accessing the website?**
 
@@ -245,22 +291,27 @@ You block cookies by activating the setting on your browser that allows you to r
 
 If you have consented to our processing your personal data for marketing purposes, in accordance with this Privacy Policy, we may send you information (via mail, email, phone or SMS) about our products and services which we consider may be of interest to you.
 
-You have the right to ask us not to process your information in this way at any time. If you no longer wish to receive web based marketing information you can unsubscribe by emailing [unsubscribe@nuffieldhealth.com](mailto:unsubscribe@nuffieldhealth.com). For non-web based marketing information please write to: Marketing Department, Nuffield Health, Epsom Gateway, Ashley Avenue, Epsom, Surrey, KT18 5AL.  We would ask you to give us a reasonable amount of notice, to give us time to update our systems.  While the precise timings vary by department we generally ask that you give us at least 30 days’ notice.
+You have the right to withdraw your consent to our processing your information in this way at any time. If you no longer wish to receive web based marketing information you can unsubscribe by emailing [customerdatarequests@nuffieldhealth.com](mailto:%E2%80%98customerdatarequests@nuffieldhealth.com "Link: mailto:%E2%80%98customerdatarequests@nuffieldhealth.com"). For non-web based marketing information please write to: Marketing Department, Nuffield Health, Epsom Gateway, Ashley Avenue, Epsom, Surrey, KT18 5AL.  We would ask you to give us a reasonable amount of notice, to give us time to update our systems.  While the precise timings vary by department we generally ask that you give us at least 30 days’ notice.
 
 ## **CCTV**
 
-Many of our premises are surveyed by CCTV for the purposes of security.  Images and videos may be retained for a limited period.
+Many of our premises are surveyed by CCTV for the purposes of security.  Images and videos may be retained for 30 days in accordance with ICO guidelines.
 
-## **Accessing and updating your information**
+## **Your Rights under D** **ata Protection Laws**
 
-The law gives you certain rights in respect of the personal data that we hold about you.  In addition to your right to stop marketing, detailed above, below is a short overview of the most commonly-used rights.  It is not an exhaustive statement of the law.
-
-  * With some exceptions designed to protect the rights of others, and subject to payment of a small administrative fee (currently £10, or up to £50 for paper-based health records), you have the right to a copy of the personal data that we hold about you
-  * You have the right to have the personal data we hold about you corrected if it is factually inaccurate. It is important to understand that this right does not extend to matters of opinion, such as medical diagnoses. If any of your personal data has changed, especially contact information such as: email address, postal address and phone number please get in touch with your local Hospital, Health Clinic, Fitness and Wellbeing Gym as appropriate or the Nuffield Health Contact Center on 03339 201350  so we can ensure your personal data is kept up to date
-  * If you want to exercise your rights in respect of your personal data, the best way to do so is to contact us by email on DataProtectionOfficer@nuffieldhealth.com, or to write to us for the attention of the data protection officer at the address below.  In order to protect your privacy, we may ask you to prove your identity before we take any steps in response to such a request.
+The law gives you certain rights in respect of the personal data that we hold about you as well as information about what we do with it, who we share it with and how long we will hold it for. We may make a reasonable charge for additional copies of that data beyond the first copy, based on our administrative costs. The website of the Information Commissioner's Office ([http://www.ico.org.uk](http://www.ico.org.uk/ "Link: http://www.ico.org.uk")) has a wealth of useful information in respect of your rights in your personal data. In addition to your right to stop marketing, detailed above, below is a short overview of the most commonly-used rights.    
+  
 
 
+  * Data Subject Access Request - With some exceptions designed to protect the rights of others you have the right to a copy of the personal data that we hold about you as well as information about what we do with it, who we share it with and how long we will hold it for.  We may make a reasonable charge for additional copies of that data beyond the first copy, based on our administrative costs.
+  * The Right of Erasure ('Right to be Forgotten') - the right to have your personal information erased where we have no reason to continue processing;
+  * Data Portability - the right to move, copy or transfer personal information you have provided to us;
+  * Rights in relation to automated decision making which has a legal effect or otherwise significantly affects you. Please note that by following the 'track my data's journey' link below you can find out whether the services you have used with Nuffield Health rely on automated decisions. If we have made a wholly automated decision (i.e with no human judgement at all) you have the right to request that someone views that decision. 
+  * Right to Rectification - You have the right to have the personal data we hold about you corrected if it is factually inaccurate. It is important to understand that this right does not extend to matters of opinion, such as medical diagnoses. If any of your personal data has changed, especially contact information such as: email address, postal address and phone number please get in touch with your local Hospital, Health Clinic, Fitness and Wellbeing Gym as appropriate or the Nuffield Health Contact Centre on 03339 201350  so we can ensure your personal data is kept up to date
 
+
+
+If you want to exercise your rights in respect of your personal data, the best way to do so is to contact us by email on DataProtectionOfficer@nuffieldhealth.com, or to write to us for the attention of the data protection officer at the address below.  In order to protect your privacy, we may ask you to prove your identity before we take any steps in response to such a request.  
 Data Protection Officer, Nuffield Health, Epsom Gateway, Ashley Avenue, Epsom, Surrey, KT18 5AL
 
 If you are not satisfied with how we handle your request, you can contact the Information Commissioner’s Office on 0303 123 1113 or visit their website ([http://www.ico.org.uk)](http://www.ico.org.uk%29/ "Link: http://www.ico.org.uk\)").
@@ -279,3 +330,17 @@ Ashley Avenue
 Epsom  
 Surrey  
 KT18 5AL
+
+##  **Your Data's Journey**
+
+We want to be as transparent as possible about how your personal data may be processed as this will vary depending on how you engage with Nuffield Health. As we have multiple fitness, health and wellbeing services your data’s journey through Nuffield Health can vary greatly. For more detailed information about how your data may be processed through each of our services, please follow the links below:
+
+  * [Fitness & Wellbeing](https://web.archive.org/your-datas-journey-through-nuffield-health-fitness-and-wellbeing "Fitness & Wellbeing")
+  * [Swim School](https://web.archive.org/your-datas-journey-through-nuffield-health-swim-school "Swim School")
+  * [Children's Services ](https://web.archive.org/your-datas-journey-through-nuffield-health-childrens-services "Children's Services")
+  * [Health Assessments ](https://web.archive.org/your-datas-journey-through-nuffield-health-gp-nurse-appointment-or-health-assessment "Health Assessments")
+  * [Physiotherapy ](https://web.archive.org/your-datas-journey-through-nuffield-health-physiotherapy-services "Physiotherapy")
+  * [Emotional Wellbeing ](https://web.archive.org/your-datas-journey-through-nuffield-health-emotional-wellbeing-services "Emotional Wellbeing")
+  * [Pathology ](https://web.archive.org/your-datas-journey-through-nuffield-health-pathology-direct-services "Pathology")
+
+
