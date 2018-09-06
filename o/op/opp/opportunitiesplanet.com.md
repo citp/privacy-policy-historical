@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opportunitiesplanet.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606113841id_/http%3A//www.opportunitiesplanet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opportunitiesplanet.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906135757id_/http%3A//www.opportunitiesplanet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Opportunities Planet
 
