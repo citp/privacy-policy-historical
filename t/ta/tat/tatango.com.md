@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tatango.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604005415id_/https%3A//www.tatango.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tatango.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906063231id_/https%3A//www.tatango.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tatango
 
@@ -41,10 +41,10 @@ Although your privacy is very important to us, due to the existing legal and tec
 
 **6\. Complaints Procedure**
 
-If you have any complaints relating to any aspect of our service, please [message us](https://www.tatango.com/contact/ "Contact Tatango"). Please state clearly the nature of the complaint. We will acknowledge your complaint within 5 working days. You will also be assigned a contact name that will be responsible for keeping you informed of the progress of any complaint.
+If you have any complaints relating to any aspect of our service, please [message us](http://www.tatango.com/contact/ "Contact Tatango"). Please state clearly the nature of the complaint. We will acknowledge your complaint within 5 working days. You will also be assigned a contact name that will be responsible for keeping you informed of the progress of any complaint.
 
 Tatango may reserve the right to change this online privacy policy from time to time at its discretion. Changes will be posted in the privacy policy web page and will be effective upon posting. Your continued use of Tatango after changes to this online privacy policy have been posted is deemed acceptance of those changes. It is your sole responsibility to monitor the privacy policy to determine whether any such changes have been posted. This privacy policy is subject to and applicable to all privacy laws.
 
 You acknowledge that acceptance of this privacy policy is a condition to your use of our services and you agree to be bound by all of its terms and conditions.
 
-If you have further questions about our privacy policy or its implementation, please [contact us](https://www.tatango.com/contact/ "Contact Tatango").
+If you have further questions about our privacy policy or its implementation, please [contact us](http://www.tatango.com/contact/ "Contact Tatango").
