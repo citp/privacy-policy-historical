@@ -1,104 +1,143 @@
-> *The following text is extracted and transformed from the gigantic.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120081852id_/https%3A//www.gigantic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigantic.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906213117id_/https%3A//www.gigantic.com/privacy-policy) for the most accurate reproduction.*
 
 # Gigantic Privacy Policy
 
-**What personal information do we collect from the people that visit our website?**
+## Introduction
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your email address, address, phone number or other details to help you with your experience.
+This policy sets out how we collect, process and hold your personal data if you visit gigantic.com, and any site where the top-level domain is gigantic.com, "Website(s)", or otherwise provide personal data to us. We are Gigantic Tickets Limited ("we", "us" and "our"), registered in England and Wales under registration number 06044575, and our registered office is 3-5 High Pavement, Nottingham, NG1 1HF
 
-**When do we collect information?**
+We are the data controller of your personal data.
 
-We collect information from you when you place an order, subscribe to a newsletter or enter information on our site.
+You can contact us using any of the methods listed on our contact page, <https://www.gigantic.com/contact-us>
 
-**How do we use your information?**
+## Personal Data We Collect
 
-We may use the information we collect from you when you register, place an order, sign up for our newsletter, respond to a survey or marketing communication, browse the website, or use certain other site features in the following ways:
-
-  * To personalise your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
-  * To allow us to better service you in responding to your customer service requests.
-  * To administer a contest, promotion, survey or other site feature.
-  * To quickly process your transactions.
-  * To send periodic emails regarding your order or related events.
-  * To follow up with them after correspondence (email or phone inquiries)
-
-
-
-**How do we protect your information?**
-
-Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
-
-Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
-
-We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.
-
-All transactions are processed through a gateway provider and are not stored or processed on our servers.
-
-**Do we use 'cookies'?**
-
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
-
-**We use cookies to:**
-
-  * Understand and save user's preferences for future visits.
-  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
+  * We collect, process, store and use personal data when you book a ticket to an event, including: 
+    * Your Name
+    * Shipping and/or Billing Address
+    * Email Address
+    * Phone Number
+    * Payment Information
+  * From time to time we may also ask for additional information when booking tickets. Details of which will be made clear during the checkout process. This may be information relating to your age, location, preferences, vehicle details, or any other information required by the event organiser.
+  * We may also collect personal data that you give to us about other people if you register them to attend an event. You agree that you have notified any other person whose personal data that you provide to us of this privacy policy and, where necessary, obtained their consent so that we can lawfully process their personal data in accordance with this policy.
+  * All personal data that you provide to us must be true, complete and accurate. If you provide us with inaccurate or false data, and we suspect or identify fraud, we will record this.
+  * You do not need to provide us with any personal data to access our Website. However, we may still collect the information set under the Data We Automatically Collect section of this policy, and marketing communications in accordance with the Marketing Communications section of this policy.
+  * When you contact us by email or post, we may keep a record of the correspondence and we may also record and log any telephone call we have with you.
 
 
 
+## Data We Automatically Collect
+
+When you visit our Website(s), we, or third parties on our behalf, automatically collect and store information about your device and your activities. This information may include:
+
+  * your computer or other device's unique ID number
+  * technical information about your device such as type of device, web browser or operating system
+  * your preferences and settings such as time zone and language
+  * statistical data about your browsing actions and patterns
+
+
+
+## Marketing Communications
+
+If you sign up to our mailing list, or; opt in to receive marketing communications from us during the checkout process, when telling us you'd like to be updated on ticket availability or reminded when an event goes on sale; you consent to the processing of your data to send you such communications, which may include newsletters, blog posts, surveys and information about new events. We retain a record of your consent.
+
+You can choose to no longer receive marketing communications by clicking unsubscribe from a marketing email.
+
+Where you have given marketing consent, we may share your information with whom you have given us consent to do so. This may include the Event Organiser, Venue or Artist. This information may be used by them for marketing. You will be able to opt out of their marketing at any time by either contacting them directly, or following the instructions given on any marketing they send you. You should also refer directly to their privacy policy.
+
+## How We use Your personal data
+
+We will use your personal data in order to comply with our contractual obligation to supply to you the tickets to an event that you have booked, including to contact you with any information relating to the event, to deliver the event to you in accordance with any requests you make and that we agree to, and to deal with any questions, comments or complaints you have in relation to the event.
+
+We may also use your personal data for our legitimate interests, including dealing with any customer services you require, enforcing the terms of any other agreement between us, for regulatory and legal purposes (for example anti-money laundering), for audit purposes and to contact you about changes to this policy.
+
+## Who We Share Your Data With
+
+To facilitate your entry into the event you have booked tickets for, or to fulfill our contractual obligation with which you are a party, your information may be shared with the Event Organiser, Venue or Artist. You will be informed who the Event Organiser is at the time of purchase.
+
+Where you submit a refund claim under your ticket protection provided by TicketPlan, we may need to share your information with TicketPlan to facilitate the refund and validate your entitlement to claim.
+
+We may also share your personal data with any service providers, sub-contractors and agents that we may appoint to perform functions on our behalf and in accordance with our instructions, including payment providers, event ticketing providers, email communication providers, IT service providers, accountants, auditors and lawyers.
+
+Under certain circumstances we may be required to disclose your personal data under applicable laws and/or regulations, for example, as part of anti-money laundering processes, to prevent fraud or to protect a third party's rights, property, or safety.
+
+We may also share your personal data in connection with, or during negotiations of, any merger, sale of assets, consolidation or restructuring, financing, or acquisition of all or a portion of our business by or into another company.
+
+## Third-Parties
+
+Our Website(s) may contain links to other third-party sites, to which we have no control over. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this policy. You should exercise caution and look at the privacy policy applicable to the site in question.
+
+## Cookies
+
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser on your computer's hard drive. The identifier is then sent back to the server each time the browser requests a page from the server. 
+
+Cookies may be either "persistent" or "session" based: a persistent cookie will be stored by your web browser and will remain valid until its set expiry date, unless deleted by the you before the expiry date; a session cookie, will expire at the end of the your session, when the web browser is closed. 
+
+Cookies do not typically contain any information that personally identifies you, but personal information that we store about you may be linked to the information stored in a cookie. 
+
+### Managing Cookies
+
+Most browsers allow you to refuse to accept cookies and to delete cookies. The methods for doing so vary by browser. You may be able to obtain information about blocking and deleting cookies via these links:
+
+  * <https://support.google.com/chrome/answer/95647?hl=en> (Chrome)
+  * <https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences> (Firefox)
+  * <http://www.opera.com/help/tutorials/security/cookies/> (Opera);
+  * <https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies> (Internet Explorer)
+  * <https://support.apple.com/kb/PH21411> (Safari)
+  * <https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy> (Edge)
+
+
+
+Blocking all cookies will have a negative impact on your browsing experience and will prevent you from being able to book tickets with us.
+
+### Cookies We Use
+
+Cookie Name | Purpose | Expiration Period | Category  
+---|---|---|---  
+_gsession | To keep track of your current session | Session | Required  
+_gmdb, g_srvr | Service management cookies | Session | Required  
+g_access_id, g_access_token | Used to restrict user traffic to our servers to prevent overload when our service is busy | Session | Required  
+X-Mapping-fjhppofk | Used to make sure your requests are routed to the correct servers | Session | Required  
+Google Analytics  
+__utma | Used to distinguish users and sessions | 2 years | Optional  
+__utmb | Used to determine new sessions/visits | 30 minutes | Optional  
+__utmc | Used to determine whether your request is a new session/visit. | Session | Optional  
+__utmt | Used to throttle request rate. | 10 minutes | Optional  
+__utmz | Stores the traffic source or campaign that explains how you reached our site | 6 months | Optional  
+_ga | Used to distinguish users. | 2 years | Optional  
   
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies.
+## Security
 
-  
-**If users disable cookies in their browser:**
-
-If you turn cookies off, Some of the features that make your site experience more efficient may not function properly. Some of the features that make your site experience more efficient and may not function properly.
-
-**Third-party disclosure**
-
-We may pass your information onto the event’s organiser so they can contact you with relevant updates regarding the event you have booked for, and other related events. We may also release information when it's release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property or safety. 
-
-Non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
-**Third-party links**
-
-Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-**We have implemented the following:**
-
-  * Demographics and Interests Reporting
+  * We shall process your personal data in a manner that ensures appropriate security of the personal data, including protection against unauthorised or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organisational measures. All information you provide to us is stored on our secure servers. Any payment transactions are encrypted using industry standard form of secure encryption.
+  * Where we have given, or you have chosen a password, you are responsible for keeping this password confidential.
 
 
 
-We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
+## Data Retention
 
-**Opting out:  
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.**
-
-**CAN SPAM Act**
-
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
-
-**We collect your email address in order to:**
-
-  * Send information, respond to inquiries, and/or other requests or questions
-  * Process orders and to send information and updates pertaining to orders.
-  * Send you additional information related to your product and/or service
-  * Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
+  * If you register with us, we shall retain your personal data until you close your account.
+  * If you receive marketing communications from us, we shall retain your personal data until you opt out of receiving such communications.
+  * If you have booked a ticket with us or contacted us with a question or comment, we shall retain your personal data for 10 years following the last contact or booking your made with us.
 
 
 
-  
-**To be in accordance with CANSPAM, we agree to the following:**
+## Your Rights
 
-  * Not use false or misleading subjects or email addresses.
-  * Identify the message as an advertisement in some reasonable way.
-  * Include the physical address of our business or site headquarters.
-  * Monitor third-party email marketing services for compliance, if one is used.
-  * Honor opt-out/unsubscribe requests quickly.
-  * Allow users to unsubscribe by using the link at the bottom of each email.
+  * You have the right to confirmation as to whether or not we process your personal data and, where we do, access to a copy of the personal data, together with certain additional information. That additional information includes details of the purposes of the processing, and the recipients, if any, of the personal data.
+  * You have the right to have any inaccurate personal data, we hold about you, rectified and, to have any incomplete personal data about you completed.
+  * In some circumstances you have the right to the erasure of your personal data without undue delay. Those circumstances include: the personal data we hold is no longer necessary in relation to the purposes for which it was; you withdraw consent to consent-based processing; the processing is solely for direct marketing purposes; or the personal data has been unlawfully processed. However, there are exclusions of the right to erasure. The general exclusions include where processing is necessary under legitimate interest: to fulfill our contractual obligation with which you are a party, i.e. process and deliver to you the tickets or service you ordered; for compliance with a legal obligation; or for the establishment, exercise or defence of legal claims.
+  * You have the right to object to our processing of your personal data for direct marketing purposes (including profiling for direct marketing purposes). If you make such an objection, we will cease to process your personal data for this purpose.
+  * To the extent that the legal basis for our processing of your personal information is consent, you have the right to withdraw that consent at any time.
 
 
 
-**  
-If at any time you would like to unsubscribe from receiving future emails, you can email us at**
+## General
 
-Follow the instructions at the bottom of each email and we will promptly remove you from  **ALL**  correspondence.
+  * If any provision of this policy is held by a court of competent jurisdiction to be invalid or unenforceable, then such provision shall be construed, as nearly as possible, to reflect the intentions of the parties and all other provisions shall remain in full force and effect.
+  * This policy shall be governed by and construed in accordance with the law of England and Wales, and you agree to submit to the exclusive jurisdiction of the English Courts.
+  * We may change the terms of this policy from time to time. You are responsible for regularly reviewing this policy so that you are aware of any changes to it. If you continue to use our website(s) or service after the time we state the changes will take effect, you will have accepted the changes.
+  * If you have any complaints in relation to this policy or otherwise in relation to our processing of your personal data, you should contact the UK supervisory authority: the Information Commissioner, see www.ico.org.uk.
+
+
+
+Gigantic Tickets Limited Privacy Policy (May 2018)
