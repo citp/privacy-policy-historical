@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chambersandpartners.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626121604id_/https%3A//www.chambersandpartners.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chambersandpartners.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906095619id_/https%3A//www.chambersandpartners.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Chambers and Partners
 
@@ -46,7 +46,7 @@ The following activities involve us collecting and processing personal informati
   23. \- To provide information about us or our services when requested;
   24. \- To perform contracts and keep a record of any communications and agreements with individuals;
   25. \- For any other purpose in relation to an individual making contact with us.
-  26. \- We use cookies to ensure an enhanced user experience on our website
+  26. \- We use cookies - and services such as Hotjar - to ensure an enhanced user experience on our website
   27. \- To provide relevant marketing email communications, we track open rates and click throughs on our marketing emails
 
 
@@ -154,7 +154,7 @@ Please note that (where necessary) we reserve the right to ask for evidence to v
 
 **CONTACT US**
 
-Anyone can [contact](https://web.archive.org/cdn-cgi/l/email-protection#c7a2a9b6b2aeb5aea2b487a4afa6aaa5a2b5b4a6a9a3b7a6b5b3a9a2b5b4e9a4a8aa) Chambers and Partners to exercise their data protection rights or get in touch with any other data related queries by phoning us at +44 (0)20 7606 8844; by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#86e3e8f7f3eff4efe3f5c6e5eee7ebe4e3f4f5e7e8e2f6e7f4f2e8e3f4f5a8e5e9a8f3ed) or by post at Chambers and Partners, 39-41 Parker Street, London, WC2B 5PQ .
+Anyone can [contact](mailto:enquiries@chambersandpartners.com) Chambers and Partners to exercise their data protection rights or get in touch with any other data related queries by phoning us at +44 (0)20 7606 8844; by email at [enquiries@chambersandpartners.co.uk](mailto:enquiries@chambersandpartners.co.uk) or by post at Chambers and Partners, 39-41 Parker Street, London, WC2B 5PQ .
 
 If any individual is dissatisfied with how we handle his or her request or believes that we are unlawfully processing their personal data, they can lodge a complaint with the relevant UK data protection regulator, the Information Commissioner's Office (ICO).
 
