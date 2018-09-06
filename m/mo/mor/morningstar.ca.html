@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the morningstar.ca privacy policy that was archived on 2015-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905161815id_/https%3A//members.morningstar.ca/PrivacyPolicy.aspx%3Fculture%3Den-CA) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the morningstar.ca privacy policy that was archived on 2018-09-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180906173658id_/https%3A//members.morningstar.ca/PrivacyPolicy.aspx%3Fculture%3Den-CA) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
 	Morningstar: Mutual fund investing, analysis, research, ratings and news
 </title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><link type="text/css" rel="Stylesheet" href="css/Membership.css">
-    <script src="../js/jquery-1.4.2.js" type="text/javascript"></script>
+    <script type="text/javascript" async="" src="//img.en25.com/i/elqCfg.min.js"></script><script type="text/javascript" async="" src="https://z.moatads.com/morningstarcontent20750136/moatcontent.js#l1=web.archive.org&amp;l2=Morningstar%3A%20Mutual%20fund%20investing%2C%20analysis%2C%20research%2C%20ratings%20and%20news&amp;l3=__page__&amp;l4=-&amp;zmoatab_cm=0&amp;t=1580405085177&amp;de=181899654426&amp;zMoatAB_SNPT=true&amp;vc=2"></script><script src="../js/jquery-1.4.2.js" type="text/javascript"></script>
 </head>
 <body bgcolor="#FFFFFF"> 
 
@@ -21,6 +21,8 @@
 
 <link type="text/css" rel="stylesheet" href="//im.mstar.com/globalhome/css/m-global_v1.1.css">
 
+
+
 <style type="text/css">
  a:link.h_text0, a:visited.h_text0 {float:right; font-size:10px; color:#000; line-height:22px; text-decoration:underline; padding:5px 10px 0px 5px;}
 .h_tabLOn{ position:relative;height:25px; border-top: 0px; background-color:#fff ; z-index:12; }
@@ -30,8 +32,8 @@
 .h_tab2{ height: 25px; border-top: 0px}
 .h_tab2On { height:25px; width:108px; border-top: 0px}
 .h_revertLink{ height:25px; width: 250px; border:0px; float: right; color:black; font-family:Verdana; font-weight:normal; line-height:24px; font-size:11px; text-decoration:none;  padding-right:5px; text-align:right; display:inline }
-
 .h_MainNav {PADDING-BOTTOM: 15px;}
+
 .h_MainNav_row1 {height: 25px; background-color:#dbdbdb; padding-bottom:0px; border-top:1px solid #999;   border-right:1px solid #999;}
 .f_Ads {border-top:5px solid #666666;padding-bottom:0px;padding-top:0px;}
 .navbeta {color:#FF0000;display:inline;font-size:10px;font-variant:small-caps;font-weight:bold;line-height:8px;margin-left:4px; text-align:center;}
@@ -78,12 +80,32 @@
 		z-index: 10000;
 		overflow-x:hidden;
 		}
+		
+	.ticker_close {
+		background-image: url("http://im.mstar.com/im/rampclose.gif");
+		background-repeat: no-repeat;
+		cursor: pointer;
+		float: right;
+		height: 12px;
+		margin: 0 auto;
+		padding: 0;
+		text-align: right;
+		width: 12px;
+		position:absolute;
+		left: 979px;
+	}
+	.h_Logo_row1 {
+        width: 97%;
+    } 
+
 </style>
 
 
-    <script src="//im.mstar.com/globalhome/js/ext_v1.0.js" language="javascript"></script>
-    <script src="//im.mstar.com/globalhome/js/headerfooter.js" language="javascript"></script>
-    <script src="//im.mstar.com/common/js/common_pack_0.0.12.js" language="javascript"></script>
+    
+<script src="//im.mstar.com/globalhome/js/ext_v1.0.js" language="javascript"></script>
+<script src="//im.mstar.com/globalhome/js/headerfooter.js" language="javascript"></script>
+<script src="//im.mstar.com/common/js/common_pack_0.0.12.js" language="javascript"></script>
+    
 
 <!-- Real time Ticker Tape -->
   <script type="text/javascript" src="//imweb.morningstar.ca/js/jquery-1.6.4.min.js"></script>
@@ -106,12 +128,12 @@
 
 //          });
 
-          $('.close').click(function() {
-              var c = $('.close').css("background-image");
+          $('.ticker_close').click(function() {
+            var c = $('.ticker_close').css("background-image");
               if (c.indexOf('rampopen') == -1) {
                   $('#tickertape').remove();
-                  $('.close').css({ "background-image": "url('http://im.mstar.com/im/rampopen.gif')", "margin-top": 0 });
-                  $('.close').attr('title', 'Show ticker tape')
+                  $('.ticker_close').css({ "background-image": "url('http://im.mstar.com/im/rampopen.gif')", "margin-top": 0 });
+                  $('.ticker_close').attr('title', 'Show ticker tape')
               }
               else {
                   //var nw = $(window).width() - 12;
@@ -120,8 +142,8 @@
                   //t.insertBefore('.headerwrap');
                   $('body').prepend(t);
                   $('#tickertape').css("width", w);
-                  $('.close').css({ "background-image": "url('http://im.mstar.com/im/rampclose.gif')", "margin-top": "0 auto;" });
-                  $('.close').attr('title', 'Close ticker tape')
+                  $('.ticker_close').css({ "background-image": "url('http://im.mstar.com/im/rampclose.gif')", "margin-top": "0 auto;" });
+                  $('.ticker_close').attr('title', 'Close ticker tape')
               }
 
           });
@@ -129,6 +151,24 @@
 	</script>
 	<!-- Real time Ticker Tape -->
 
+<script type="text/javascript">
+var _elqQ = _elqQ || [];
+_elqQ.push(['elqSetSiteId', '1258972516']);
+_elqQ.push(['elqTrackPageView']);
+(function () {
+function async_load()
+{ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//img.en25.com/i/elqCfg.min.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x); }
+if (window.addEventListener) window.addEventListener('DOMContentLoaded', async_load, false);
+else if (window.attachEvent) window.attachEvent('onload', async_load); 
+})();
+</script>
+<script>
+(function(){function t(){for(var a=[8],e=1;2>=e;e++)a.push(8+e),a.push(8-e);a=a[Math.floor(Math.random()*a.length)];return{b:a,a:0==Math.floor(Math.random()*a)}}function k(a){var e=a=a.replace(":","");try{for(var b=0;100>b&&(a=decodeURIComponent(a),e!=a)&&!a.match(/^http(s)?\:/);b++)e=a}catch(c){}return a.replace(/(^\s+|\s+$)/g,"")}try{if(!location||!location.hostname||!location.pathname)return!1;var c=document.location.hostname.replace(/^www\./,""),u=function(){for(var a,b=document.getElementsByTagName("meta"),
+c,d=0,f=b.length;d<f;d++)if(c=b[d],"og:title"===c.getAttribute("property")){a=c.getAttribute("content");break}a||(a=document.title||"Untitled");return a}(),b={},b=function(a,b,c){a.l1=b;a.l2=c;a.l3="__page__";a.l4="-";return a}(b,c,u),l=(new Date).getTime(),m=Math.floor(Math.random()*Math.pow(10,12)),d,f;f=t();f.a?d=f.b:d=0;b.zmoatab_cm=d;b.t=l;b.de=m;b.zMoatAB_SNPT=!0;var g;d?g=d:g=1;var n;n=f?f.a?!0:!1:!0;var c=[],p=[k(b.l1),k(b.l2),k(b.l3),k(b.l4)].join(":"),v="https://bkc20sr6ry21-a.akamaihd.net/z.gif?e=17&d="+
+encodeURIComponent(p)+"&de="+m+"&t="+l+"&i=MORNINGSTARCONTENT1&cm="+g+"&mp=1&ac=1&pl=1&bq=10&vc=2&cs=0",w="https://px.moatads.com/pixel.gif?e=17&d="+encodeURIComponent(p)+"&de="+m+"&t="+l+"&i=MORNINGSTARCONTENT1&cm="+g+"&mp=0&ac=1&pl=1&bq=10&ad_type=img&vc=2&cs=0",x="https://px.moatads.com/pixel.gif?e=17&d="+encodeURIComponent(p)+"&de="+m+"&t="+l+"&i=MORNINGSTARCONTENT1&cm="+g+"&ku=1&ac=1&pl=1&bq=10&ad_type=img&vc=2&cs=0";n&&((new Image).src=v,(new Image).src=w);for(var q in b)c.push(q+"="+encodeURIComponent(b[q]));
+var c=c.join("&"),c=c+"&vc=2",h=document.createElement("script");h.type="text/javascript";h.async=!0;n&&(h.onerror=function(){(new Image).src=x});var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(h,r);h.src="https://z.moatads.com/morningstarcontent20750136/moatcontent.js#"+c}catch(a){try{var y="//pixel.moatads.com/pixel.gif?e=24&d=data%3Adata%3Adata%3Adata&i=MOATCONTENTABSNIPPET1&vc=2&ac=1&k="+encodeURIComponent(a)+"&j="+encodeURIComponent(document.referrer)+"&cs="+(new Date).getTime();
+(new Image).src=y}catch(e){}}})();
+</script>
 <script language="javascript">
 
     var br_data = {};
@@ -216,6 +256,7 @@
             }
         }
     }
+
 </script>
 <div class="headerwrap">
 
@@ -224,22 +265,22 @@
         <div class="h_Logo_row1">
             <a href="http://www2.morningstar.ca/homepage/h_ca.aspx?culture=en-CA" class="logo" title="Morningstar Logo"></a>
         	<div class="greeter">Welcome <br></div>          
-                        
-            <div class="h_Logo_col1">
-                <input id="AutoCompleteBox" name="sSrchTerm" value="Fund/Stock" class="h_quote" autocomplete="off" maxlength="256" type="text">
-                <a href="javascript:trySubmit_Fix($('#AutoCompleteBox').val());" class="h_button1"></a> 
-                
-                <input id="SearchBox" name="siteSearch" value="Search" class="h_search" onclick="clearSearch(false)" onblur="clearSearch(true)" onchange="goSearch()" onkeydown="searchKeyPress(event)" type="text">
-                <a href="javascript:void(0);" class="h_button1"></a> 
+        	
+            <div class="h_Logo_col1 sdk-autocomplete-container">
+                    <input type="text" id="autocomplete" class="sdk-autocomplete-input h_quote" value="Fund/Stock" onclick="clearAutoComplete(false)" onblur="clearAutoComplete(true)">
+                    <a class="qs-ui-btn go h_button1" value="go" href="javascript:void(0)"></a>
+
+                    <input id="SearchBox" name="siteSearch" value="Search" class="h_search" onclick="clearSearch(false)" onblur="clearSearch(true)" onchange="goSearch()" onkeydown="searchKeyPress(event)" type="text">
+                    <a href="javascript:void(0);" class="h_button1"></a> 
                 <div class="h_textlink">
-                    <a href="http://www2.morningstar.ca/tools/CATools/FundLookup.aspx?culture=en-CA&amp;type=sponsor">Click here to search by Fund Sponsor</a>
+                    <a href="http://www2.morningstar.ca/tools/screener/ca/FundFinder.aspx?culture=en-CA">Click here to search by Fund Sponsor</a>
                 </div>
             <!--/form-->   
              
             </div>
            
             <div class="h_Logo_col2"> 
-                <a href="http://corporate.morningstar.com/ca/asp/subject.aspx?xmlfile=2459.xml" class="h_text1">Contacts</a>
+                <!--a href="" class="h_text1"></a-->
                 <a href="http://global.morningstar.com/ca" class="h_text1">Company Site</a>
                 <a id="header_premium" href="javascript:void" class="h_text1"></a>  
                 <a href="javascript:switchLanguage('fr-CA')" class="h_text1">Français</a>
@@ -260,14 +301,14 @@
             <a id="nav_membership" href="https://members.morningstar.ca/MembershipDispatcher.aspx?culture=en-CA" class="h_tabL" title="Membership">Membership </a>
             <a id="nav_home" href="http://www2.morningstar.ca/homepage/h_ca.aspx?culture=en-CA" class="h_tab1" title="Investment">Home </a>
             <a id="nav_portfolio" href="http://portfolios.morningstar.ca/RtPort/Reg/AllView.aspx" class="h_tab1" title="Portfolio">Portfolio</a> 
-            <a id="nav_alert" href="http://www2.morningstar.ca/Alert/Alerts/ListAlerts?region=CAN&amp;culture=en-CA" class="h_tab2" title="My Alerts"><span class="ca_pr_bullet3"></span>My Alerts</a>
+            <a id="nav_alert" href="http://www2.morningstar.ca/Alerts/Alerts/ListAlerts?region=CAN&amp;culture=en-CA" class="h_tab2" title="My Alerts"><span class="ca_pr_bullet3"></span>My Alerts</a>
             <a id="nav_funds" href="http://www2.morningstar.ca/covers/fund_ca.aspx?culture=en-CA" class="h_tab1" title="Funds">Funds</a> 
             <a id="nav_stocks" href="http://www2.morningstar.ca/covers/stock_ca.aspx?culture=en-CA" class="h_tab1" title="Stocks">Stocks</a> 
             <a id="nav_etfs" href="http://www2.morningstar.ca/covers/etf_ca.aspx?region=CAN&amp;culture=en-CA" class="h_tab1" title="ETFs">ETFs</a>
-            <a id="nav_markets" href="http://www2.morningstar.ca/covers/market_ca.aspx?region=CAN&amp;culture=en-CA" class="h_tab1" title="Markets">Markets</a>
+            
             <a id="nav_classroom" href="http://www2.morningstar.ca/covers/personalfinance_ca.aspx?region=CAN&amp;culture=en-CA" class="h_tab3" title="Personal Finance">Personal Finance</a> 
             <a id="nav_library" href="http://www2.morningstar.ca/siteSearch/Default.aspx?culture=en-CA" class="h_tab1" title="Library">Library</a> 
-            <a id="nav_event" href="http://corporate1.morningstar.com/Morningstar-Executive-Forum/" class="h_tab4" title="Events" target="_blank"><span class="navred">Events</span></a>      
+            <a id="nav_event" href="http://corporate1.morningstar.com/Morningstar-Executive-Forum/" class="h_tab4" title="Events" target="_blank"><span class="navred">Events</span></a> 
           	<div class="h_tabbase"></div>
         </div>
     </div>  <!--[If !IE]> end main navigation <![endif]-->
@@ -286,83 +327,180 @@
 
     <div style="border-bottom: 5px solid rgb(102, 102, 102);" class="bodywrap_noBackground">
           <div class="mktContainer_Main993px" style=" width: 950px; padding: 20px;">
-            <p><b>Privacy Policy – Our Commitment to Your Privacy</b></p>
-<p>Your privacy is very important to us.  At Morningstar we want to make Your experience with us satisfying and safe.</p>
-<p>This Privacy Policy outlines the types of information we gather from Your use of the product, how we use it, with whom we might share it, the means by which we keep it secure, and the choices You have about the information You choose to share with us.</p>
-<p>Morningstar designs its products to help You make the best possible investment decisions. We are committed to providing independent, insightful investment information.  We want You to be able to take advantage of Morningstar’s tools and information with complete confidence. </p>
-<p>Every time we send You an e-mail communication, information on how to stop receiving e-mail from Morningstar is included. Please follow these instructions to stop specific emails from coming to You.</p>
-<p>If You have further questions about our privacy practices or this Privacy Policy, please contact us at: <a href="mailto:caprivacypolicy@morningstar.com">caprivacypolicy@morningstar.com</a></p>
+            <p><b>PRIVACY POLICY – COMMITMENT TO YOUR PRIVACY</b></p>
+<p>The Privacy Policy was last updated on 07/2015</p>
+<p>Your privacy is very important to us. At Morningstar, we want to make your experience with us satisfying and safe.</p>
+<p>This Privacy Policy outlines the types of information we gather from your use of this service (the "Service"), how we use it, with whom we might share it, the means by which we keep it secure, and the choices you have about the information you choose to share with us.</p>
+<p>If you have any questions about the privacy practices of Morningstar.com or this Privacy Policy, please e-mail <a href="mailto:caprivacypolicy@morningstar.com">caprivacypolicy@morningstar.com</a></p>
 
-<p><b>Personal Information We Collect</b></p>
-<p>The types of personal information we collect depend on the product or service You (“You”) receive from us.  This information may include, but is not limited to:</p>
+<p><b>PERSONAL INFORMATION WE COLLECT</b></p>
+<p>The types of personal information we collect depend on the product or service you ("You") receive from us. This information may include, but is not limited to:</p>
 <ul type="disc">
-<li>Your name, phone number, physical and email address</li>
-<li>Your credit card number</li>
-<li>Your demographic information, such as age, income range, investment preferences, etc</li>
+<li>Your name, phone number, physical and e-mail address;</li>
+<li>Your credit card number;</li>
+<li>Your account information, including, but not limited to, account balances and the like;</li>
+<li>Your demographic information, such as your age, occupation, income range, investment preferences, etc.;</li>
 <li>Stock and fund information (e.g., stock or fund ticker symbols), if You create a personalized portfolio, as well as financial information relating to the stocks or funds You track.</li>
+<li>Your usage information.</li>
 </ul>
-<p><b>Personal Information – Why We Collect It</b></p>
-<p>Morningstar may collect certain personal information to provide You with investment information and tools, to perform marketing and research related activities, to supply other administrative services (e.g., set up new accounts), to respond to inquiries, etc.  In addition, we may from time to time, review Your usage of the site to be able to better provide You with information about products and services that we believe may be of interest to You.</p>
 
-<p><b>Personal Information – How We Collect It</b></p>
-<p>The personal information we collect may be captured from a variety of sources. These sources include, but are not limited to:</p>
-<ul type="disc">
-<li>Voluntary submissions (e.g., responses to surveys, requests for information on our products or those of our advertisers/marketing partners)</li>
-<li>Registrations/Applications to receive products or services</li>
-<li>Reviews of site usage patterns</li>
-</ul>
-<p><b>Use and Access of Your Personal Information With Others</b></p>
-<p>As a general rule, Morningstar will not make the personal information gathered using Morningstar.ca available to anyone outside of Morningstar and its affiliates – except as instructed by You or where required to comply with law.  Please note, however, that there are several exceptions to this policy. </p>
-<p>First, if we use service providers, these service providers may have access to Your personal information to perform contractually specified services on behalf of Morningstar or You. </p>
-<p>Second, if You indicate that You are interested in receiving information about a particular third party's products/services, or You opt to receive certain products or services through Morningstar, we may provide Your personal information to that third party for purposes of fulfilling Your request(s). </p>
-<p>With respect to service provider(s), Morningstar contractually requires that all personal information be kept confidential.  Additionally, Morningstar takes reasonable steps to ensure that third parties receiving information about You at Your request maintain the confidentiality of that information. </p>
+<p><b>PERSONAL INFORMATION – WHY WE COLLECT IT</b></p>
+<p>Morningstar may collect certain personal information to provide You with the Service, to perform marketing and research related activities, to supply other administrative services (e.g., setting up new accounts and maintaining your existing account),and to respond to inquiries about your account and the Service. In addition we may from time to time review your usage of the Service to be able to better provide you with information about products or services that we believe may be interest to you.</p>
 
-<p><b>Links to Other Web Sites</b></p>
-<p>Morningstar may provide links to one or more other Web sites.  We encourage You to read their individual privacy policies before providing any of Your personal information to them. </p>
-<p><b>Protection of Your Personal Information</b></p>
-<p>Morningstar puts reasonable security measures in place to protect against unauthorized access to, or unauthorized alteration, disclosure or destruction of personal information.  These measures include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. </p>
-<p>Morningstar operates secure data networks protected by industry standard firewall and password protection systems.  Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided. </p>
-<p><b>Use of Cookies</b></p>
-<p>Morningstar uses Cookies to set users’ preferences, gather basic tracking information (such as login and password), date, time of visit and preferences, and to monitor the presentation of our site.  This information allows Morningstar to personalize Your experience when using our online products and services and improve the quality of our site navigation.  Cookies do not reveal the identity of the individual user but only identify the computer utilized by that user. </p>
-<p>Please note that advertisers on our site may also deploy cookies and other technology to gather users’ basic site usage information (such as pages visited or frequency of visits) to measure and improve the effectiveness of their advertising.  For more information regarding Advertisers’ practices, including how to opt-out of their cookie tracking, please visit the advertisers’ privacy policies. </p>
-<p>For more information regarding advertising network practices, including how to opt-out of their cookie tracking, please visit the ad network's privacy policy at: </p>
-<a href="http://www.networkadvertising.org/optout_nonppii.asp">http://www.networkadvertising.org/optout_nonppii.asp</a><br>
-<a href="http://advertising.aol.com/privacy">http://advertising.aol.com/privacy</a><br>
-<a href="http://casalemedia.com/privacy.html">http://casalemedia.com/privacy.html</a><br>
+<p><b>USE AND ACCESS OF YOUR PERSONAL INFORMATION WITH OTHERS</b></p>
+<p>As a general rule, Morningstar will not make the personal information gathered from your using the Service available to anyone outside of Morningstar and its affiliates -- except as instructed by You or where required to comply with law, court orders, or legal investigations. Please note, however, that there are several exceptions to this policy.</p>
+<p>First, if we use service providers, these service providers may have access to your personal information to perform contractually specified services on behalf of Morningstar or You.</p>
+<p>Second, if You indicate that You are interested in receiving information about a particular third party's products/services, or You opt to receive certain products or services through Morningstar, we may provide your personal information to that third party for purposes of fulfilling your request(s).</p>
+<p>With respect to service providers, Morningstar contractually requires that all personal information be kept confidential. Additionally, Morningstar takes reasonable steps to ensure that third parties receiving information about You at your request maintain the confidentially of that information.</p>
+
+<p><b>PROTECTION OF YOUR PERSONAL INFORMATION</b></p>
+<p>Morningstar puts security measures in place to protect against unauthorized access to, or unauthorized use, alteration, disclosure or destruction of personal information. These measures include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal information.</p>
+<p>Morningstar operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided.</p>
+
+<p><b>USE OF COOKIES</b></p>
+<p>Morningstar uses Cookies to set user preferences, gather basic tracking information (such as login and password), date, time of visit and preferences, and monitor the presentation of the Service. This information allows us to personalize the user experience and to improve the quality of our Service navigation. Cookies do not reveal the identity of the individual user but only identify the computer utilized by that user.</p>
+<p>Please note that advertisers on the Service may also deploy cookies and other technology to gather users' basic Service usage information (such as pages visited or frequency of visits) for such things as to measure and improve the effectiveness of their advertising. For more information regarding advertisers' practices, including how to opt-out of their cookie tracking, please review the relevant advertisers' privacy policies.</p>
+<p>For more information regarding advertising network practices, including how to opt-out of their cookie tracking, please visit the ad network's privacy policy at:</p>
+<a href="http://www.networkadvertising.org/choices/">http://www.networkadvertising.org/choices/</a><br>
 <a href="http://www.marchex.com/legal/privacy-statement.html">http://www.marchex.com/legal/privacy-statement.html</a><br>
+<a href="http://www.247media.com/en-us/pages/privacy_policy.html">http://www.247media.com/en-us/pages/privacy_policy.html</a><br>
+<a href="http://www.pubmatic.com/opt-out">http://www.pubmatic.com/opt-out</a><br>
 
-<p>For more information regarding ad serving network practices, including how to opt-out of their cookie tracking, please visit the ad server's privacy policy at: </p>
-<a href="http://www.zedo.com/company/privacy.htm">http://www.zedo.com/company/privacy.htm</a><br>
-<a href="http://mediaplex.com/MOJO_Privacy_Statement.shtml">http://mediaplex.com/MOJO_Privacy_Statement.shtml</a><br>
-<a href="http://www.atlassolutions.com/privacy.aspx">http://www.atlassolutions.com/privacy.aspx</a><br>
+<p>For more information regarding ad serving network practices, including how to opt-out of their cookie tracking, please visit the ad server's privacy policy at:</p>
+<a href="http://atlassolutions.com/privacy-policy">http://atlassolutions.com/privacy-policy</a><br>
+<a href="http://adgear.com/privacy/">http://adgear.com/privacy/</a><br>
+<a href="http://www.bridgetrack.com/privacy.aspx">http://www.bridgetrack.com/privacy.aspx</a><br>
 <a href="http://www.google.com/intl/en/privacy.html">http://www.google.com/intl/en/privacy.html</a><br>
-<p>For more information regarding the gathering of site usage information, including how to opt-out of their cookie tracking, please visit AudienceScience's privacy policy at: </p>
-<a href="http://audiencescience.com/privacy.asp">http://audiencescience.com/privacy.asp</a><br>
 
-<p><b>Accuracy of Your Personal Information</b></p>
-<p>You are responsible for periodically checking to ensure that Your personal information included in this site is updated and correct. </p>
-<p><b>How to Update Your Personal Information</b></p>
-<p>If You desire to update any personal information, You may do so by accessing Morningstar.ca. </p>
-<p><b>What About Children’s Privacy</b></p>
-<p>Morningstar does not separately identify, or collect, any information that is specific to children. </p>
-<p><b>Your Consent</b></p>
-<p>By using Morningstar.ca, You consent to the collection and use of Your personal information and any related information in the manner described in this Privacy Policy.</p>
-<p><b>Changes to the Privacy Policy</b></p>
-<p>Morningstar reserves the right to change this Policy at any time by distributing and/or posting a new Privacy Policy without notice.  We encourage You to review our Privacy Policy on a regular basis so that You will be aware of any changes to it. </p>
+<p><b>ACCURACY OF YOUR PERSONAL INFORMATION</b></p>
+<p>You are responsible for periodically checking to ensure that your personal information included in Service is updated and correct.</p>
 
+<p><b>HOW TO UPDATE PERSONAL INFORMATION</b></p>
+<p>If You desire to update any personal information, You may do so once you've signed in to Morningstar.ca under the Membership tab.</p>
 
-<p>Last revised: August 2010</p>
+<p><b>WHAT ABOUT CHILDREN'S PRIVACY</b></p>
+<p>Morningstar does not separately identify, or collect, any information that is specific to children.</p>
+
+<p><b>YOUR CONSENT</b></p>
+<p>By using the Service, You consent to the collection and use of your personal information and any related information in the manner and for the purpose described in this Privacy Policy. Morningstar's systems are not currently configured to handle 'do not track' requests.</p>
+
+<p><b>CHANGES TO THE PRIVACY POLICY</b></p>
+<p>Morningstar reserves the right to change this policy at any time by distributing and/or posting a new privacy policy without notice. We encourage you to review our privacy policy on a regular basis so that You will be aware of any changes to it.</p>
+            <div style="float: right; padding: 15px 10px 0 0;">
+                <a href="https://members.morningstar.ca/MembershipDispatcher.aspx?culture=en-CA"><img src="im/BackToMembership.gif" width="152px" height="14px" alt="Back to Membership"></a>
+            </div>
         </div>
     </div>
 
    
+<script type="text/javascript">
+    var categories = ["Mutual Fund", "Funds", "Equities", "ETF"];
+    InitAutoComplete('39821CF45298667FF8D08C3ACE8BECFA', categories, "production", ".sdk-autocomplete-container", "autocomplete", true);
+    function InitAutoComplete(qsSessionkey, categories, environment, containerDiv, inputDiv, goSearch) {
+        var cat = categories;
+        var locale = "en_ca";
+        $(document).ready(function() {
+            QSAPI.init(
+                'MSTRC',
+                {
+                    env: 'production',
+                    sessionKey: '39821CF45298667FF8D08C3ACE8BECFA'
+                },
+            function(result) {
+                if (result.errorCode == 0) {
+                    var acbInstance = new QSAPI.Widget.AutoComplete($(document.body),
+                                {
+                                    showAllResult: true,
+                                    allowExchange:
+                                    {
+                                        "CAN": {
+                                    },
+                                    "USA": {
+                                }
+                            },
+                                    searchCountConfig:
+                                    {
+                                        "Equities":8,
+                                        "Funds":5,
+                                        "Futures":5,
+                                        "Index":5,
+                                        "Forex":5,
+                                        "Debenture":5,
+                                        "Bonds":5,
+                                        "ETF":6,
+                                        "Closed-End Fund":5,
+                                        "Mutual Fund":10,
+                                        "Options":5,
+                                        "Others":5
+                                    },
+                            lang: "en_ca"
+                        });
+
+                    acbInstance.sortbyCountry(["CAN", "USA"]);
+                    acbInstance.subscribe(
+                    "autocompleteBoxFundWatch",
+                    {
+                        category: ["Mutual Fund", "Funds"]
+                    },
+                    {
+                        onClick: function(TickerList) {
+                            if (TickerList != null) {
+                                if (TickerList["mType"] == "FO" || TickerList["mType"] == "FV" || TickerList["mType"] == "FH" || TickerList["mType"] == "SP") {
+                                    if (FundWatchList != null)
+                                        FundWatchList.prototype.addTicker(TickerList, 1);
+                                }
+                            }
+                        }
+                    });
+                    acbInstance.subscribe(
+                    "autocompleteBoxStockWatch",
+                    {
+                        category: ["Equities", "ETF"]
+                    },
+                    {
+                        onClick: function(TickerList) {
+                            if (TickerList != null) {
+                                if (TickerList["mType"] == "ST" || TickerList["mType"] == "FE" || TickerList["mType"] == "ETF") {
+                                    if (StockWatchList != null)
+                                        StockWatchList.prototype.addTicker(TickerList, 1);
+                                }
+                            }
+                        }
+                    });
+                    acbInstance.subscribe("autocomplete",
+                    {
+                        category: categories
+                    },
+                    {
+                        onClick: function(TickerList) {
+                            if (TickerList != null) {
+                                if (TickerList["mType"] == "FO" || TickerList["mType"] == "FV" || TickerList["mType"] == "FH" || TickerList["mType"] == "SP") {
+                                    url = "http://quote.morningstar.ca/quicktakes/Fund/f_ca.aspx?t=" + TickerList["performanceId"] + "&region=" + TickerList["country"] + "&culture=" + "en-CA";
+                                    window.location.href = url;
+                                }
+                                else if (TickerList["mType"] == "ST") {
+                                    url = "http://quote.morningstar.ca/quicktakes/Stock/s_ca.aspx?t=" + TickerList["ticker"] + "&region=" + TickerList["country"] + "&culture=" + "en-CA";
+                                    window.location.href = url;
+                                } else if (TickerList["mType"] == "FE" || TickerList["mType"] == "ETF") {
+                                    url = "http://quote.morningstar.ca/quicktakes/etf/etf_ca.aspx?t=" + TickerList["ticker"] + "&region=" + TickerList["country"] + "&culture=" + "en-CA";
+                                    window.location.href = url;
+                                }
+                            }
+                        }
+                    });
+                } //if            
+            } //function result            
+        ); // init
+        }); //document ready
+    }
+</script>
 <div class="footerwrap">
 	<div class="f_Links">
         <div class="f_Links_row1">
-            
-            <a href="http://corporate.morningstar.com/US/documents/conferences/MorningstarMediaKit.pdf" class="f_text3" target="_blank">Advertising and Reprints Opportunities</a>
+            <a href="http://www.morningstar.com/content/dam/morningstar/ret/marketing/audiencesales/collateral/2018MorningstarMediaKit.pdf" class="f_text3" target="_blank">
+                Advertising and Reprints Opportunities</a>
         </div>
-  	</div> 
+        </div>
     <!--[If !IE]> start international sites <![endif]-->
     <div class="f_Sites">
         <div class="f_Sites_row1">International Sites:
@@ -380,20 +518,28 @@
             <a href="http://www.morningstar.in/" class="f_text4">India</a>
             <a href="http://www.morningstar.fi/" class="f_text4">Finland</a>
                     </div>
-  	</div>  <!--[If !IE]> end international sites <![endif]-->
-  	
+    </div>
+    <!--[If !IE]> end international sites <![endif]-->
     <!--[If !IE]> start copyright, seo <![endif]-->
     <div class="f_Copyright">
-        <div class="f_Copyright_row1"><a class="f_text4" href="http://www.morningstar.ca/globalhome/AboutUs/index.asp?language=ENG">Copyright © 2015 Morningstar Research Inc.</a>&nbsp; All rights reserved. Please read our <a class="f_text4_red" href="http://www.morningstar.ca/globalhome/personalize/freeuseragreement_CA.asp?language=ENG" target="_blank">Terms of Use</a>, <a class="f_text4_red" href="https://members.morningstar.ca/PrivacyPolicy.aspx?culture=en-CA" target="_blank">Privacy Policy</a> and <a class="f_text4_red" href="https://members.morningstar.ca/AccessibilityPolicy.aspx?culture=en-CA" target="_blank">Accessibility Policy</a>.  Our 5-year Accessibility Plan can be found <a class="f_text4_red" href="https://members.morningstar.ca/AccessibilityPolicy5Year.pdf" target="_blank">here</a>.  If you have questions or comments please <a class="f_text4_red" href="mailto:cawebmaster@morningstar.com">contact Morningstar</a>.<br>  </div>
-  	</div>  <!--[If !IE]> end copyright, seo <![endif]-->
-</div>  <!--[If !IE]> end footerwrap <![endif]-->    
-    
-<div id="AutoCompleteDropDownFooter"></div> 
+        <div class="f_Copyright_row1">
+            <a class="f_text4" href="http://corporate.morningstar.com/ca/asp/subject.aspx?xmlfile=2459.xml">Copyright © 2018 Morningstar Research Inc.</a>&nbsp; All rights reserved. Please read our <a class="f_text4_red" href="http://members.morningstar.ca/freeuseragree.aspx?culture=en-CA" target="_blank">Terms of Use</a>, <a class="f_text4_red" href="https://members.morningstar.ca/PrivacyPolicy.aspx?culture=en-CA" target="_blank">Privacy Policy</a> and <a class="f_text4_red" href="https://members.morningstar.ca/AccessibilityPolicy.aspx?culture=en-CA" target="_blank">Accessibility Policy</a>.  Our 5-year Accessibility Plan can be found <a class="f_text4_red" href="https://members.morningstar.ca/AccessibilityPolicyMultiYearPlan_ENG_rev.2017.pdf" target="_blank">here</a>.  If you have questions or comments please <a class="f_text4_red" href="mailto:casupport@morningstar.com">contact Morningstar</a>.<br>
+        </div>
+    </div>
+    <!--[If !IE]> end copyright, seo <![endif]-->
+</div>
+<!--[If !IE]> end footerwrap <![endif]-->
+<link href="//www2.morningstar.ca/GlobalHeader/sdk2.3.36/sdk_ms_qs_autocomplete_2.3.36.css" rel="stylesheet" type="text/css">
+<script src="//www2.morningstar.ca/GlobalHeader/sdk2.3.36/sdk_ms_qs_autocomplete_2.3.36.js" type="text/javascript"></script>
+<script src="//www2.morningstar.ca/GlobalHeader/sdk2.3.36/sdk_ms_qs_autocomplete_en_ca_2.3.36.js" type="text/javascript"></script>
+
+<div id="AutoCompleteDropDownFooter">
+</div>
 
 <script language="javascript">
     function setMSCookie(name, value) {
         var time = new Date();
-        time.setTime(time.getTime() + 365 * 24 * 60 * 60 * 1000); 
+        time.setTime(time.getTime() + 365 * 24 * 60 * 60 * 1000);
         document.cookie = name + "=" + escape(value) + "; expires=" + time.toGMTString() + "; path=/; domain=morningstar.ca";
     }
 
@@ -410,42 +556,15 @@
             url = "http://quote.morningstar.ca/quicktakes/etf/etf_ca.aspx?t=" + entry.Symbol + "&region=" + entry.Region + "&culture=" + "en-CA";
                 window.location.href = url;
             }
-        }  
+        }
     }
 
-    function trySubmit_Fix(ticker)
-    {
+    function trySubmit_Fix(ticker) {
         //window.location.href = 'http://qt.morningstar.com/switchservice/qtswitch.ashx?region=CAN,USA&site=1&info=culture=en-CA&t=' + ticker; 
         window.location.href = 'http://quote.morningstar.ca/quicktakes/SecuritySwitcher.ashx?culture=' + 'en-CA' + '&t=' + ticker;
         return false;
     }
 
-    function initBoxQuote() {
-        CheckOSBrowser();             //check the Browser
-        var allcache = new Array();
-        var pos = new Array();
-        initCache(allcache, pos);
-        var qs_server = 'http://qt.morningstar.com/switchservice/qtswitch.ashx?region=CAN,USA&site=1&info=culture=en-CA&t=';
-        
-        //box1 and box share the cache 'allcache'.
-        newclass = new AutoCompleteBox("AutoCompleteBox", "AutoCompleteDropDown", qs_server, allcache, pos, true);
-        newclass.AutoPosition = true;
-        newclass.IdleDisplayMsg = 'Fund/Stock';
-        newclass.SetPreference('CAN', 'en-CA', 32);
-        newclass.SubmitCallback = 'trySubmit_Fix';
-        newclass.AlwaysTryFirstResult = true;
-        //newclass.trySubmit()
-        newclass.EntryChosenCallback = 'quoteRedirect';
-        if ('en-CA' == 'fr-CA') 
-        {
-            var dict = { 'FO': 'Fonds', 'FC': 'Fonds (CEF)' };
-            if ("undefined" != typeof newclass.UpdateDictionary) {
-                newclass.UpdateDictionary(dict);
-            }
-        }
-    }
-
-    initBoxQuote();
     setMSCookie("MSRetailRegion", "CAN");
     setMSCookie("MSRetailLang", "en-CA");
     setMSCookie("Language", "ENG");
@@ -464,6 +583,8 @@
         pageTracker._trackPageview();
     } catch (err) { }
 </script>
+
+
 
 <script src="//im.mstar.com/im/mbr/scripts/mstartracking/clientenv_20100120.js" type="text/javascript"></script>
 
@@ -493,19 +614,55 @@
             }
     }
 
+    function clearAutoComplete(clickin) {
+        var value = "";
+        if (clickin == true) {
+            value = "Fund/Stock";
+        }
+        $('#autocomplete').val(value);
+    }
+    
 </script>
 
+
 <style type="text/css">
-.mi_row3{display: none}
-.f_text4_red {
-    color: #E00000 !important;
-    text-decoration: none;
-}
-a.f_text4_red:hover {
-    text-decoration: underline !important;
-}
+    .mi_row3
+    {
+        display: none;
+    }
+    .f_text4_red
+    {
+        color: #E00000 !important;
+        text-decoration: none;
+    }
+    a.f_text4_red:hover
+    {
+        text-decoration: underline !important;
+    }
+    .qs-ui-ipt
+    {
+        width: 90px;
+    }
+    .qs-ui-btn
+    {
+        border-color: #CCCCCC;
+        height: auto;
+        line-height: 19px;
+        margin-left: -1px;
+        padding: 0 3px;
+    }
+    .go
+    {
+        background: none repeat scroll 0 0 transparent;
+        font-size: 86%;
+        height: auto;
+        margin: 0;
+        min-width: 24px;
+        padding: 0;
+        text-align: center;
+        vertical-align: middle;
+    }
 </style>
-                    
 
 </div>
 
