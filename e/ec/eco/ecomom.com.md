@@ -1,83 +1,143 @@
-> *The following text is extracted and transformed from the ecomom.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625201128id_/http%3A//ecomom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecomom.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907013710id_/https%3A//www.etailz.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - etailz, Inc.
 
-Where do we collect information from you and how do we use it?
+### PRIVACY POLICY
 
-Our primary goal in collecting personal information is to provide our visitors with a superior customized online experience. Among other things, we use customer contact information to fill orders, contact prior purchasers to inform them of their order status, to remind customers of events through our reminder service(s), to send our customers’ friends or loved ones greetings, emails or hints to send our products through a greeting, email a friend or hint service, and to send service and promotional emails.
+This Privacy Policy aims to give you information regarding how etailz collects and uses your personal data through your use of our website. Personal data is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. It is important that you read this Privacy Policy so that you are fully aware of how we collect, use, protect, or otherwise handle your personal data. This Privacy Policy applies to all websites owned and operated by etailz, Inc. (“we”, “us”, “our”); it does not apply to the practices of companies etailz does not own or control.
 
-We may perform statistical analysis of aggregate customer behavior. This allows us to measure relative customer interest in the various areas of each of our Sites for product development purposes and to improve the design of our Sites. Any information we collect is used for our own internal purposes to improve the content and navigation of our Sites, to enhance users’ experiences when visiting our Sites, to customize the content and/or layout of our pages, and to provide the services required by an individual user. We may also use information to notify consumers about updates to our Sites, to complete user initiated transactions, to trace false orders and to contact consumers directly, or through our third-party service partners, for marketing purposes. In addition, we may seek to update you or your recipients’ personal information in our records through third party services that provide updated names, emails, addresses, phone numbers, birth dates and other information. We may then use this acquired information to enhance our services or marketing efforts to you or your recipients.
+When you visit our website, you have choices about whether to provide us with information and how we use that information. You may choose not to provide us with information, but your choice(s) may prevent you from contacting etailz directly or limit your use of certain features. For example, if you do not provide us with an email address we cannot respond to your inquiry.
 
-We gather information in the following ways: 
+We may update this Privacy Policy to reflect changes in the law, our services, our companies, or advances in technology. We will alert you to this change by placing a notice on our website or sending an email. Our use of the information we collect is subject to the Privacy Policy in effect at the time such information is used.
 
-Shopping: We collect IP addresses for the purposes of system administration, to gather broad demographic information, and to monitor the level of activity on our Sites. We collect information from visitors to each of our Sites regarding the referring URL, your IP address, which browser you used to come to any one of our Sites, the country, state and telephone area code where your server is located, and the pages of any one of our Sites that you viewed during your visit.
+### INFORMATION WE COLLECT & USE
 
-Ordering: When you order from us, we collect Personally Identifiable Information from you. If you order one of our products or services, we will collect and maintain your name, email address, mailing address, telephone or mobile number, product selections, credit card number (or check or money order information if using such payment methods while ordering via mail), order number, referring URL, IP address and a password, as well as the recipient’s name, address, telephone or mobile number and email address. We collect this, and other information, as disclosed in this Policy, in order to fill your order, to communicate with you about your order, or the recipient, as appropriate, and to send you promotional materials. Before confirming your order, you will have the opportunity to review the product order form and make changes and additions to the information it contains and these changes will be automatically kept for future use. If you cancel an order or do not complete an order we may collect and use any email address or other information that you have entered as we would collect and use it if you had completed an order.
+Some of the information we collect is provided by you, some is collected automatically, and some may be collected from other sources.  
+ 
 
-When an order is placed for delivery to you by a third party we need to collect Personally Identifiable Information regarding the third party to fulfill the order. This information includes their name, address, telephone or mobile number and email address.
+#### Information You Provide
 
-Track/Modify Order: If you use our track & modify your order features/service we will gather your email address and account password, if you have one, in order to locate your order so that we may give our most recent tracking information, or so that you may modify the order. If you choose to modify your order, we may collect information that we would normally collect when you order products, as explained in the above paragraph.
+When you use our website, you may submit an inquiry request to etailz and will be asked for the following personal information:
 
-Notices to Recipients: If you are a recipient of an order placed by a third party we may send one or more emails regarding the order, including those regarding customer service issues. In addition, we may send you additional emails in compliance with applicable laws in order to promote our Sites and services and to seek your consent to opt in to receive our various newsletters, promotional emails and other services. If we send you emails notifying you of an order, or that promote our Sites and services, they will contain an opt out link or email address. We may also telephone you regarding the shipment of your order. You can also opt out of receiving newsletters, promotions, non-transactional related emails or phone calls from us hereunder by sending an email to us at info@ecomom.com
+  * Name
+  * Email Address
+  * Phone Number
+  * Company Name
+  * Additional information you voluntarily provide
 
-Corporate Account: If you set up a corporate account with us or when you contact us to inquire about corporate programs (either via email, telephone, letter or our online web forms), we collect, for example, your name, company name, email and telephone or mobile number. We may add you to a list for future newsletters and promotions regarding corporate sales. Upon signing up for a corporate account we will contact you by either email or telephone to determine how we can best serve your corporate needs. We will also give you the opportunity to receive periodic updates regarding our corporate services. If you make purchases through your corporate account we shall gather similar information that we gather when you order as an individual, plus certain information regarding your corporation. You can opt out of receiving newsletters, promotions, non-transactional related emails or phone calls from us by sending an email to us at info@ecomom.com.
 
-Surveys and Polling: In order to improve our services to you, we may ask some of our customers or product recipients to voluntarily complete surveys online or via telephone, which may be collected by an independent third party. Individual survey answers are confidential, although Non Personally Identifiable Information may be collected and disclosed to third parties. If you do not wish to participate in a survey, simply decline to participate when asked.
 
-Contests and Sweepstakes: We may from time to time conduct contests, sweepstakes or other promotions. Customers who choose to participate may be asked to provide Personally Identifiable Information. That information may then be used by us for such purposes as notifying winners and fulfilling promotional obligations as well as providing electronic newsletters and promotional emails for our products and We may offer free electronic newsletters and promotional emails for products and/or services offered on any one or more of our Sites as a service to our prior customers from any of our Sites. We may send you newsletters and emails periodically listing current specials and deals from us or through our third-party service partners. However, you will have the choice to opt out of receiving newsletters and promotional emails for products and/or services offered on any one or more of our Sites. Once we have processed your request, we will not send you promotional emails with respect to products and/or services offered by us through the particular Site(s) of which you had opted out unless you opt back in to receiving such communications directly or by making an additional purchase or attempted purchase on one of our Sites. There may be opportunities to subscribe to an email list that will send you information about the events on our Sites, but we will only add you to the list with your consent. To stop receiving our newsletters that pertain to any one or more of our Sites, send an email to us at info@ecomom.com with the subject message: unsubscribe re: newsletter_name.
+#### Information We Automatically Collect
 
-Cookies/Clear GIFs: In conjunction with our third-party service partners, we make limited use of cookies and clear GIFs to gather information when you visit any one of our Sites, make a purchase and when you click through to any one of our Sites from a targeted email, newsletter or partner site. We may also use cookies and clear GIFs to gather and compile such information about you when you return to our Sites so that we may better customize our services to you.
+We automatically collect certain information to help us understand how visitors use our website. For example, each time you visit our website we automatically collect your IP address, location information, browser and computer type, access time, the webpage from which you came, and the webpage(s) that you access during your visit.  
+ 
 
-Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+#### Analytics
 
-We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+We may use Google Analytics or other providers to understand better how individuals and their devices interact with the Services. Learn more about [how Google uses data when you visit a partner site or app](https://policies.google.com/technologies/partner-sites).  
+ 
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Mozilla Firefox or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won’t have access to many features that make your site experience more efficient and some of our services will not function properly.
+#### Cookies and Related Technologies
 
-Contact Information and Third-Party Data: If you contact us by telephone, email or letter, we may keep a record of your contact information, correspondence or comments. If you report a problem with any one of our Sites, we may collect such information in a file specific to you. If you provide us feedback through any one of our Sites, by email or by calling one of our customer service representatives, we may ask for your name and email address in order to send you a reply. If other users or third parties send us correspondence about your activities or purchases on any one of our Sites, or if you are the recipient of products sent by another customer, we may keep the information in a file specific to you. If you are using a greeting, hint or reminder service on one of our Sites, we may ask you to provide the name, mailing address, email address, telephone number, mobile phone number, age, date of birth, anniversary date or other personal annuity date of you, a friend, a loved one, family members or other third parties, and certain holiday information that may reveal one’s religious background, so that we may send them or you a hint or reminder about an event that could be made more special with the gift of our products. We store this information for the purpose of sending one or more emails in connection with such an event. You, the loved one, friend, family member, or other third party, may contact us at to request the removal of this information from our database. You may email us at [info@ecomom.com](https://web.archive.org/contacts).
+We also use cookies (which are small amounts of data sent from a web server to your browser that are stored on your computer hard drive) to validate your identity, tailor our website to meet your personal interests, improve the quality of our website, or learn about your online activity and preferences. Generally, you can set your browser not to accept cookies or to notify you if you are sent a cookie, giving you the opportunity to choose whether or not to accept the cookie.  
+ 
 
-Greeting, Hint and Reminder Services: If you choose to use a greeting, email a friend, hint or reminder service on one of our Sites, we may ask for and store your name, email address, mailing address, telephone number, mobile phone number, age, date of birth, gender, certain holiday information that may reveal one’s religious background and other identification and contact information. We may ask you to provide the name, mailing address, email address, telephone number, mobile phone number, age, date of birth, anniversary date or other personal annuity date of you, a friend, a loved one, family members or other third parties, and certain holiday information that may reveal one’s religious background, so that we may send them or you a hint or reminder about an event that could be made more special with the gift of our products. Misuse of our greeting or email a friend service by providing false email addresses or posing as someone else when sending a greeting or email may result in legal action and the disclosure of information about you, including your computer’s IP address, as part of any investigation into your actions.
+#### Plug-Ins
 
-Affiliate and Partnership Programs: Where applicable, you may purchase products from us through a link on one of our affiliates’ (Affiliates) websites. We pay each Affiliate a commission, or a portion of the sales made to those who link to our Site(s) from the Affiliate’s site. Some of our Affiliates may run a rewards or charity program (the Programs). Under these Programs, participants receive credits based on the commissions an Affiliate receives from sites such as ours. Participants in such programs can donate their credits to a chosen charitable organization, or keep them for their own use and benefit. If you come to our Sites through an Affiliate’s site, make a purchase from us, and you are a participant in such Programs, we may share your name, e-mail address and the value of your purchases, including that data necessary for Affiliates to credit participants with purchases made under their Program, with a third-party service partner(s)which may collect data for our standard Affiliate program. In addition, we may also share such information with other third-party Affiliates if you have registered with their affiliate, affinity or rewards Programs, and that Affiliate has made sales for you, processed your order and/or if such third-party Affiliate directed you to one of our Sites.
+Our websites may offer you the ability to interact with plugins from websites, which allows etailz and/or that website to receive data from or about you. In some cases, we may know that you clicked on a plugin.  
+ 
 
-With respect to any of our co-branded or private label sites maintained by us in conjunction with our business partners, we may share information collected by us to our business partners under our separate agreements with them. These business partners may use your personal information to help us communicate with you about offers from us as well as offers from such partners. However, if you opt out of receiving newsletters and promotional emails from us, you will automatically opt out of receiving newsletters and promotional emails from such business partners through their use of personal information which we collected from you on our co-branded sites and which we provided to such business partners. We may ask you to share your information with our business partners via an opt in or opt out request on such sites. Please note that with respect to personal information our third-party business partners may collect from you independent of us and outside the scope of co-branded or private label sites maintained by us on our servers, we will have no control over the use of such information by such third-party business partners and the use and gathering of such data will be subject to the third party’s privacy policies.
+### HOW WE USE INFORMATION & LAWFUL BASES
 
-Registering for an Affiliate Program: If you would like to register for our Affiliate Program, please read the terms of our Affiliate Program Agreement. A record of any and all information submitted to us as part of an Affiliate Program application will be stored by us and only disclosed by us in an effort to evaluate such application with prior consent from you.
+We will only use your personal data when the law allows us to. Most commonly, we will use your personal data to provide you requested information, respond to a survey or marketing communication, or respond to your customer service requests.
 
-We also track customers’ traffic patterns throughout their online sessions, including which pages a customer views while using our Sites. We use your IP address to diagnose problems with our servers and software and to administer our Sites.
+For purposes of European Union data protection laws, we process personal data where:
 
-We may share aggregated statistics about pages viewed on our Sites and sales and other shopping information with third parties.
+  * We need to perform the contract we are about to enter into or have entered into with you, such as when we process a payment
+  * It is in our legitimate interests (or those of a third party) and your data protection interests and fundamental rights and freedoms do not override those interests, such as when we secure the services, engage in fraud prevention, and direct marketing
+  * We need to comply with a legal or regulatory obligation
+  * We have your consent to do so. We do not generally rely on consent as a lawful basis for processing your personal data, but you have the right to withdraw consent to marketing at any time by contacting us.
 
-How do we protect visitor information
 
-We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
 
-Do we disclose the information we collect to outside parties?
+We may combine the information we collect (“aggregate”) or remove pieces of information (“de-identify”) to limit or prevent identification of any particular user or device, which can help support our research and marketing efforts. This Privacy Policy does not apply to our use of such aggregated or de-identified information.  
+ 
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term “outside parties” does not include store.ecomom.com. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
+### LOCATION OF DATA PROCESSING
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+Information that we collect and use is processed in the United States. By accessing our website, you acknowledge that your information will be processed as described in this Privacy Policy.  
+ 
 
-Third party links
+### HOW WE PROTECT YOUR DATA
 
-In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
+We have implemented appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorized way, altered or disclosed. In addition, we limit access to your personal data to a limited number of employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
 
-Changes to our policy
+We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.  
+ 
 
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on March 30.2010
+### THIRD PARTY DISCLOSURE
 
-Questions and feedback
+We do not rent, sell or share information except as described in this Privacy Policy. We may share your personal data with service providers and other third parties if necessary to fulfill the purposes for collecting the information, provided that any such third party will commit to protect your privacy as required under the applicable law and this policy.
 
-We welcome your questions, comments, and concerns about privacy. Please contact us with any and all feedback pertaining to privacy, or any other issue.
+We may share personal data with etailz’ corporate affiliates. These companies use your information as described in this Privacy Policy.
 
-Online Policy Only
+We may share personal data with law enforcement, government agencies, courts, or other organizations: (a) as required by law, such as to comply with a subpoena or similar legal process; or (b) when etailz believes in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+We may share or transfer personal data if etailz is involved in a merger, acquisition, or sale of all or a portion of its assets, as part of such transaction. In any event, your information will remain protected under this Privacy Policy.
 
-Terms of Use
+We may share it in any other circumstances where etailz receives your written consent.  
+ 
 
-Please also visit our Terms of Use section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+### RETENTION OF PERSONAL DATA
 
-Your consent
+We keep your information for the time period required to complete the purposes for which it is processed or satisfy legal requirements. The length of time for which we retain information depends on the purposes for which we collected and use it or the requirements of applicable laws.  
+ 
 
-By using our site, you consent to our privacy policy.
+### OPT-IN CHOICES & LEGAL RIGHTS
+
+You will be given an opportunity to opt-in to targeted communications from etailz. If you opt-out, etailz will only respond to direct inquiries and will not use your personal information to contact you for any other purpose.
+
+Furthermore, you have the legal right to:
+
+  * Access the data that we keep about you. We may need to ask you to provide us certain credentials to make sure that you are who you claim you are. If you find that the data is not accurate, complete, or up-to-date, then you may provide us with the necessary information to rectify it.
+  * Contact us if you want to withdraw your consent to the processing of your personal information. Exercising this right will not affect the lawfulness of processing based on consent before its withdrawal.
+  * Request to delete or restrict access to your personal information. We may postpone or deny your request if your personal information is in current use for providing our services or to other legitimate purposes such as compliance with regulatory requirements associated with etailz.
+  * You may ask to transfer your personal information in accordance with your right to data portability.
+  * You may object to the processing of your personal information for direct marketing purposes.
+  * You have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning you or similarly significantly affecting you.
+  * You have a right to lodge a complaint with a data protection supervisory authority.
+
+
+
+If you exercise one (or more) of the above-mentioned rights, in accordance with the provisions of applicable law, you may request to be informed that third parties that hold your personal information, in accordance with this Policy, will act accordingly.
+
+We do periodic assessments of our data processing and privacy practices to ensure that we comply with this Privacy Policy, to update this Privacy Policy when needed, and to verify that this Privacy Policy is displayed properly and is accessible.
+
+If you have any concerns about the way we process your personal information, you are welcome to contact [privacy@etailz.com](mailto:privacy@etailz.com).
+
+We will investigate your inquiry and make good-faith efforts to resolve any existing or potential dispute with you. If you are unhappy with the response you receive and reside in the EU, you can also refer the matter to the Information Commissioner’s Office (ICO).  
+ 
+
+### CHILDREN’S PRIVACY
+
+We do not knowingly collect or solicit “personal information” (as defined by the U.S. Children’s Online Privacy Protection Act) from anyone under the age of 13. If you are under 13, please do not attempt to contact us or send any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information. If you believe that a child under 13 may have provided us personal information, please contact us at [privacy@etailz.com](mailto:privacy@etailz.com).
+
+For residents of the EU, where processing of personal data is based on consent, we will not knowingly engage in that processing for users under the age of consent established by applicable member or data protection law. If we learn that we are engaged in that processing with such users, we will halt such processing and will take reasonable measures to promptly remove applicable information from our records.  
+ 
+
+### CALIFORNIA RESIDENTS
+
+If you are a California resident, you may ask for a list of third parties that have received your information for direct marketing purposes during the previous calendar year. This list also contains the types of information shared. We provide this list at no cost. To make such a request, contact us at [privacy@etailz.com](mailto:privacy@etailz.com).  
+ 
+
+### CONTACT INFORMATION
+
+If you have any questions or concerns regarding this Privacy Policy or etailz’ use of your data, please send a detailed message to [privacy@etailz.com](mailto:privacy@etailz.com). You may also write to us at:
+
+etailz, Inc.  
+2818 N. Sullivan Rd., Ste 130  
+Spokane Valley, WA 99216  
+United States  
+ 
+
+Updated: May 25, 2018
