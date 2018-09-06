@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gradaustralia.com.au privacy policy that was archived on 2018-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180316101938id_/http%3A//gradaustralia.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gradaustralia.com.au privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906045934id_/https%3A//gradaustralia.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GradAustralia
 
