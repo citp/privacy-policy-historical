@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the learnerator.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524191013id_/https%3A//www.albert.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnerator.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906223607id_/https%3A//www.albert.io/privacy) for the most accurate reproduction.*
 
-# Albert: Online AP Exam Prep, Test Prep, STEM, and more.
+# Privacy | Albert.io
 
 ## Certifications
 
@@ -152,7 +152,7 @@ Learn By Doing, Inc.
 11 E Illinois St, Ste 501  
 Chicago, IL 60611  
 hello@albert.io  
-(800) 554-8115  
+(312) 470-2290  
 
 
 ## 14\. California AB 1584 Compliance Statement
