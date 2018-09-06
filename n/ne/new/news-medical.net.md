@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news-medical.net privacy policy that was archived on 2018-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180326225052id_/http%3A//www.news-medical.net/medical/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news-medical.net privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906234626id_/https%3A//www.news-medical.net/medical/privacy) for the most accurate reproduction.*
 
 # News-Medical - Privacy & Cookie Policy
 
@@ -45,7 +45,7 @@ We obtain personal data:
 
 In order to understand how users use this Website and our services, we may collect information such as details of the browser you used, your operating system, the website you visited immediately before visiting our website and your Internet Protocol addresses (also known as IP addresses). Your IP address is a unique address that computer devices (such as PCs, tablets and smartphones) use to identify themselves and communicate with other devices in the network.
 
-We use this information to analyse how our site is accessed and used so that we improve our service and make it relevant to you.
+We use this information to analyse how our site is accessed and used and which of our suppliers are of most interest to you so that we improve our service and make it relevant to you.
 
 In common with many other website operators, we may use standard technology called 'cookies' on this Website. Cookies are small pieces of information that are stored by your browser on your computer's hard drive and they are used to record how you navigate this Website on each visit.
 
@@ -57,9 +57,9 @@ Name of cookie | Type of cookie | Purpose of cookie
 ---|---|---  
 azotgv | Performance Cookies | To analyse Website traffic using an analytics package. Aggregated usage data helps us improve the Website structure, design, content and functions.  
 azops | Strictly Necessary Cookies | To identify whether you are signed in to our Website.  
-azoprurl | Functional Cookies | To remember what page visitors signing in wanted to access so they can be redirected there after signing in.  
-azoidents | Functional Cookies | To remember what content was last viewed for users of our analytics package.  
-hvvintel | Functional Cookies | To remember the visitor is an analytics package user for displaying relevant links.  
+azoprurl | Strictly Necessary Cookies | To remember what page visitors signing in wanted to access so they can be redirected there after signing in.  
+azoidents | Strictly Necessary Cookies | To remember what content was last viewed for users of our analytics package.  
+hvvintel | Strictly Necessary Cookies | To remember the visitor is an analytics package user for displaying relevant links.  
 azo_tun_su_tagids  
 azo_tun_td_tagids  
 azo_tun_slp_pgcntr | Functional Cookies | To store information about your preferences so that the Website can present visitors with information that is relevant.  
@@ -68,7 +68,7 @@ hcpscts | Targeting Cookies | To store information about your preferences so tha
 rfrlsite  
 azorfrlsites | Performance Cookies | To remember what referring website visitors arrived from, used to analyse Website traffic using an analytics package.  
 cookiepolicy | Strictly Necessary Cookies | To remember whether you accepted the cookie policy.  
-js-enabled | Functional Cookies | To test whether your browser has JavaScript enabled.  
+js-enabled | Strictly Necessary Cookies | To test whether your browser has JavaScript enabled.  
 nirids  
 niridp | Performance Cookies | To store which newsletter visitors originated from, used to analyse Website traffic using an analytics package.  
 azoformdata  
@@ -98,11 +98,11 @@ All personal data that we obtain about you will be recorded, used, and protected
 
 ### Consent and lawful processing of personal data
 
-The legal basis for the collection and use of your personal data is that you have given your consent and/or that it is in our legitimate interests to do so in order to educate and encourage innovation in science and your rights and freedoms are not prejudiced by this.
+The legal basis for the collection and use of your personal data is that you have given your consent and/or that it is in our legitimate interests to do so (or those of our suppliers) in order to educate and encourage innovation in science and your rights and freedoms are not prejudiced by this.
 
 ### Disclosing your personal data
 
-We do not sell personal data but we will, however, share your data with those of our suppliers from which you require a quotation, content updates and/or details of related products and services if you have agreed to us doing so. Our [Supplier Directory](https://web.archive.org/medical/azonetwork-company-directory) sets out details of our suppliers including where they are in the world. We update the Supplier Directory regularly and you can see the most up-to-date version on each of our websites.
+We do not sell personal data but we will, however, share your data with those of our suppliers from which you require a quotation, content updates and/or details of related products and services if you have agreed to us doing so.  We may provide aggregated statistical data to our suppliers to help them understand the types of business that are interested in their products and services.  In limited circumstances, we may make a little more detail available to them (such as your IP address) to enable them to verify our statistical information but this will be subject to strict licence terms that only permit the data to be used for verification purposes unless we have your specific consent for anything more.  Our [Supplier Directory](https://web.archive.org/medical/azonetwork-company-directory) sets out details of our suppliers including where they are in the world. We update the Supplier Directory regularly and you can see the most up-to-date version on each of our websites.
 
 To operate our websites and to provide our products and services, we may, occasionally, appoint other organisations to carry out some of the processing activities on our behalf. These may include, for example, technology hosts and email distribution services. In these circumstances, we will ensure that your personal data is properly protected and that it is only used in accordance with this Privacy Policy.
 
@@ -140,7 +140,7 @@ We expect to contact you at least every two years to ensure you are still happy 
 
 ## Transfer of Your Personal Data Outside of Europe
 
-To provide our services to you, we transfer personal data to our trusted service provider in the United States. We have taken proper steps to ensure that it is protected in accordance with this Privacy Policy and applicable privacy laws.
+To provide our services to you, we transfer personal data to our trusted service providers in the United States. We have taken proper steps to ensure that it is protected in accordance with this Privacy Policy and applicable privacy laws.
 
 Some of our suppliers are located in regions outside of Europe (our [Supplier Directory](https://web.archive.org/medical/azonetwork-company-directory) shows the world region for each supplier). If you agree to us providing your details to our suppliers, your data may be transferred to the relevant supplier to satisfy your requirements.
 
@@ -181,13 +181,18 @@ www.azonetwork.com
 **Email:**  
 [info@azonetwork.com](mailto:info@azonetwork.com)
 
-**Post:**  
+**_EU Citizens_**  
+AZoNetwork UK Ltd.  
+4th Floor, NEO Building  
+9 Charlotte Street  
+Manchester M1 4ET  
+United Kingdom
+
+**_Non-EU Citizens_**  
 AZoNetwork  
-S24  
-MVB  
-90 Mona Vale Road  
+Suite 24, 90 Mona Vale Rd  
 Mona Vale  
 NSW 2103  
 Australia
 
-Last Updated: Mar 26, 2018 
+Last Updated: May 24, 2018 
