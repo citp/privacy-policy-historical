@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netmba.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601065504id_/http%3A//www.netmba.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netmba.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906201732id_/http%3A//www.netmba.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy
 
