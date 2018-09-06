@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventcinemas.com.au privacy policy that was archived on 2018-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180312174911id_/https%3A//www.eventcinemas.com.au/terms/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventcinemas.com.au privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906195649id_/https%3A//www.eventcinemas.com.au/terms/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -69,7 +69,7 @@ Cinebuzz members can also update their membership profile online at [www.eventci
 Once we receive personal information from you, we take all reasonable steps to ensure that all the information we collect, use or disclose us accurate and up to date. If you think that any of your personal information held by us in inaccurate, please send us an email or letter at the addresses provided below and we will take reasonable steps to ensure that it is corrected.
 
 **Contact us**  
-We take the privacy of your information seriously and it is important that you understand how we manage your personal information. If you have any questions or comments in relation to this Privacy Policy, if you wish to access or correct your personal information, or if you wish to make a complaint about a privacy matter, please contact us by email at [privacy@evt.com](mailto:privacy@evt.com), or by mail addressed to:
+We take the privacy of your information seriously and it is important that you understand how we manage your personal information. If you have any questions or comments in relation to this Privacy Policy, if you wish to access or correct your personal information, or if you wish to make a complaint about a privacy matter, please contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1565677c6374766c557063613b767a78), or by mail addressed to:
 
 Privacy Officer  
 Event Hospitality & Entertainment Ltd  
