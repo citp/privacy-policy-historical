@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lechateau.com privacy policy that was archived on 2017-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170121041900id_/http%3A//www.lechateau.com/style/company/links/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lechateau.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906045648id_/https%3A//www.lechateau.com/style/company/links/privacy.jsp) for the most accurate reproduction.*
 
-# Le Château
+# LE CHÂTEAU
 
 ### LE CHÂTEAU'S PRIVACY POLICY
 
@@ -28,7 +28,7 @@ We use Personal Information in an effort to improve your shopping experience, to
 
 We will collect, use or disclose your Personal Information only with your knowledge and consent, except where required or permitted by law.
 
-You may withdraw your consent at any time, on reasonable notice, subject to legal or contractual restrictions. LE CHÂTEAU will inform you of the implications of doing so. To amend your consent, refer to the [Contact Us](http://www.lechateau.com/style/company/links/contacUs.jsp) section.
+You may withdraw your consent at any time, on reasonable notice, subject to legal or contractual restrictions. LE CHÂTEAU will inform you of the implications of doing so. To amend your consent, refer to the [Contact Us](https://www.lechateau.com/style/company/links/contacUs.jsp) section.
 
 #### 3\. LIMITING USE, DISCLOSURE, AND RETENTION
 
@@ -56,7 +56,7 @@ Upon request, LE CHÂTEAU will inform you of the existence, use and disclosure o
 
 #### 7\. CONTACTING US
 
-For anything to do with this Policy, including questions, comments, withdrawing consent or to challenge our compliance with this Policy, please submit your inquiry using the [Contact Us](http://www.lechateau.com/style/company/links/contacUs.jsp) area of our web site.
+For anything to do with this Policy, including questions, comments, withdrawing consent or to challenge our compliance with this Policy, please submit your inquiry using the [Contact Us](https://www.lechateau.com/style/company/links/contacUs.jsp) area of our web site.
 
 LE CHÂTEAU will inform individuals who make inquiries or lodge complaints about its inquiry or complaint procedures, as applicable. If a complaint is found to be justified, we will take appropriate measures, including, if necessary, amending our policies and practices.
 
