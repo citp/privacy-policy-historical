@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the recipeland.com privacy policy that was archived on 2017-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170311053806id_/https%3A//recipeland.com/home/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipeland.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906133820id_/https%3A//recipeland.com/home/privacy_policy) for the most accurate reproduction.*
 
 # RecipeLand.com Privacy Policy
 
-At RecipeLand we recognize the importance of your privacy. That said, it's understandable that you may be concerned with the information you provide to us and how we use it. With these concerns in mind, we've developed the following Privacy Policy outlined below. We may update this Policy from time to time, so please check back occasionally. If you have any questions about our Privacy Policy, you can contact us using [this form](https://recipeland.com/feedback). 
+At RecipeLand we recognize the importance of your privacy. That said, it's understandable that you may be concerned with the information you provide to us and how we use it. With these concerns in mind, we've developed the following Privacy Policy outlined below. We may update this Policy from time to time, so please check back occasionally. If you have any questions about our Privacy Policy, you can contact us using [this form](https://web.archive.org/feedback). 
 
 ## Note to children under the age of 13
 
@@ -64,6 +64,6 @@ Users may opt out of the use of the DART cookie by visiting the [Google ad and c
 
 Last updated: 2014-12-28
 
-  * [Terms of Use](https://recipeland.com/home/terms_of_service)
+  * [Terms of Use](https://web.archive.org/home/terms_of_service)
 
 
