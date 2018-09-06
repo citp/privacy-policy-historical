@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fareharbor.com privacy policy that was archived on 2018-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180106021326id_/https%3A//fareharbor.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fareharbor.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906073557id_/https%3A//fareharbor.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FareHarbor
 
@@ -60,7 +60,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 ## California Residents
 
-California law permits California residents to request certain information regarding FareHarbor’s disclosure of their personally identifiable information to third parties for those third parties’ direct marketing purposes. To make such a request, please send an e-mail to [customerservice@fareharbor.com](mailto:customerservice@fareharbor.com) specifying that you seek your “California Customer Choice Notice.” Please allow up to thirty days for a response.
+California law permits California residents to request certain information regarding FareHarbor’s disclosure of their personally identifiable information to third parties for those third parties’ direct marketing purposes. To make such a request, please send an e-mail to [privacy@fareharbor.com](mailto:privacy@fareharbor.com) specifying that you seek your “California Customer Choice Notice.” Please allow up to thirty days for a response.
 
 All users of our site may update their information at any time by logging into their control panel and going to the ‘Edit Profile’ page. We reserve the right to not accommodate a request to change your information if we believe doing so would violate any law or legal requirement, or cause the information to be incorrect.
 
@@ -74,7 +74,7 @@ FareHarbor’s sites are a general audience websites and do not offer services d
 
 ## Visiting our website from outside the United States
 
-If you are visiting our website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States, where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to ensure that your privacy is protected in accords with this policy. By using our services and voluntarily submitting your information to us, you consent to the general use of such information as provided in this Privacy Policy and to the transfer of that information to and storage of that information in the United States.
+If you are visiting our site or using our services from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States. The data protection and other laws of the United States might be different from those in your country, but please be assured that we take steps to ensure that your privacy is protected in accords with this policy. By using our services and voluntarily submitting your information to us, you consent to the general use of such information as provided in this Privacy Policy and to the transfer of that information to and storage of that information in the United States. For individuals in the European Economic Area or Switzerland, please [click here](https://fareharbor.com/legal/privacy-shield) to find out more information.
 
 ## Additional Terms and Conditions
 
@@ -92,7 +92,7 @@ We may change our ownership or corporate organization while providing our sites 
 
 We reserve the right to modify or amend the terms of this Privacy Policy from time to time. Your continued use of our sites or services following the posting of changes will mean you accept the new Privacy Policy as modified. If we decide to change our Privacy Policy, we will post those changes on this page and they will be effective immediately.
 
-This policy was last modified on August 18, 2015.
+This policy was last modified on April 12, 2018.
 
 ## Contacting Us
 
