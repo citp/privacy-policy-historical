@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exam2win.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603225058id_/http%3A//exam2win.com/web/policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exam2win.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906040559id_/http%3A//exam2win.com/web/policy.jsp) for the most accurate reproduction.*
 
 # POLICY
 
