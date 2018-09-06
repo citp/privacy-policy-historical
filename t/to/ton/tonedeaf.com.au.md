@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tonedeaf.com.au privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506024155id_/https%3A//tonedeaf.com.au/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tonedeaf.com.au privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906175847id_/https%3A//tonedeaf.com.au/corporate/privacy) for the most accurate reproduction.*
 
 # Seventh Street Media Privacy Policy - Tone Deaf
 
