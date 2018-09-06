@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instapu.com privacy policy that was archived on 2018-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180213111004id_/http%3A//www.instapu.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instapu.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906091221id_/http%3A//www.instahu.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -117,7 +117,7 @@ Contacting Us
 
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
-Instapu.com
+Instahu.com
 
 Last Edited on 2017-01-01
 
