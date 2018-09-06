@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxa.org privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507083313id_/http%3A//www.luxa.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxa.org privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906221105id_/http%3A//www.luxa.org/privacy.html) for the most accurate reproduction.*
 
 # 
 
