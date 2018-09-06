@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dresshop.com.au privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316035057id_/http%3A//www.dresshop.com.au/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dresshop.com.au privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906060144id_/https%3A//www.dresshopau.com/help/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Dresshop.com.au
+# Privacy Policy - Dresshopau.com
 
-### Information Sharing: Dresshop.com.au hates spam as much as you do!
+### Information Sharing: Dresshopau.com hates spam as much as you do!
 
 Information collected from our customers and visitors will never be sold or transferred to others for any purpose. The information you enter in forms on our website will be used to complete your order, and send you occasional newsletters about our new products and promotions.
 
