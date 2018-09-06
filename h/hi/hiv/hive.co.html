@@ -1,53 +1,97 @@
-<!--The following is the downloaded HTML source of the hive.co privacy policy that was archived on 2017-10-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171003182016id_/https%3A//www.hive.co/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hive.co privacy policy that was archived on 2018-09-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180906103853id_/https%3A//www.hive.co/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-      <meta charset="utf-8">
-      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-1059.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQQEWFdVGwUHVlRaBQc="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1059.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"8658f31b28","agent":"","transactionName":"b1IDZ0NQChVRAkJZWVYYJ0ZfUhAPXw8ZRF9bXARHQh8JB1kPGEZfXUASCVNeFg9eBg==","applicationID":"6725826","errorBeacon":"bam.nr-data.net","applicationTime":9}</script>
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <meta name="description" content="Hive.co">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQQEWFdVGwUHVlRaBQc="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"8658f31b28","agent":"","transactionName":"b1IDZ0NQChVRAkJZWVYYJ0ZfUhAPXw8ZRF9bXARHQh8JB1kPGEZfXUASCVNeFg9eBg==","applicationID":"6725826","errorBeacon":"bam.nr-data.net","applicationTime":10}</script>
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+    <title>Hive.co - Privacy Policy</title>
+    <meta name="description" content="Send emails to the right customers, at the right time.">
+    <link rel="shortcut icon" href="https://cdn-prod.hive.co/static/img/hive.6e3e948066ef.ico?v=2">
+    <meta property="fb:admins" content="500595700">
+    <meta property="fb:admins" content="529095343">
+    <meta property="fb:app_id" content="579120958808795">
 
-      <title>Hive.co - Collect audience data &amp; sell more stuff</title>
-
-      <link rel="shortcut icon" href="https://cdn-prod.hive.co/static/img/hive.6e3e948066ef.ico?v=2">
-
-      <meta property="fb:admins" content="500595700">
-      <meta property="fb:admins" content="529095343">
-      <meta property="fb:app_id" content="579120958808795">
-      <meta property="og:title" content="Hive.co - Collect audience data &amp; sell more stuff">
-      <meta property="og:description" content="Marketing tools and analytics for artists and brands">
+    
+      <meta property="og:title" content="Hive - Put your customer data to work">
+      <meta property="og:description" content="Send emails to the right customers, at the right time.">
       <meta property="og:url" content="https://www.hive.co/privacy/">
-      <meta property="og:image" content="https://cdn-prod.hive.co/static/img/hive_banner.057c31727609.jpg?v=2">
+      <meta property="og:image" content="https://cdn-prod.hive.co/static/img/hive_banner.2b274d436de5.jpg?v=2">
+      <meta property="og:image:width" content="1200">
+      <meta property="og:image:height" content="630">
       <meta property="og:site_name" content="Hive.co">
       <meta property="og:type" content="website">
-
       <meta name="twitter:card" content="summary_large_image">
       <meta name="twitter:site" content="@hivealive">
       <meta name="twitter:url" content="https://www.hive.co/privacy/">
-      <meta name="twitter:title" content="Hive.co - Collect audience data &amp; sell more stuff">
-      <meta name="twitter:description" content="Marketing tools and analytics for artists and brands">
-      <meta name="twitter:image" content="https://cdn-prod.hive.co/static/img/hive_banner.057c31727609.jpg?v=2">
+      <meta name="twitter:image" content="">
+    
 
-      <link rel="stylesheet" type="text/css" media="screen" href="https://cdn-prod.hive.co/static/css/index.ad7422645173.css?v=2">
-      
-      <link rel="stylesheet" type="text/css" media="screen" href="https://cdn-prod.hive.co/static/css/global.c6af68c910af.css?v=2">
-    </head>
+    <link rel="stylesheet" type="text/css" href="https://cdn-prod.hive.co/static/css/font-awesome.min.bf0c425cdb73.css?v=2">
+    <link rel="stylesheet" type="text/css" media="screen" href="https://cdn-prod.hive.co/static/css/bootstrap.05112a7354f6.css?v=2">
+    <link rel="stylesheet" type="text/css" media="screen" href="https://cdn-prod.hive.co/static/css/global.7fd5a7e73008.css?v=2">
+    <link rel="stylesheet" type="text/css" href="https://cdn-prod.hive.co/static/css/dashboard-index.9ca47487dc09.css?v=2">
+    <link rel="stylesheet" type="text/css" href="https://cdn-prod.hive.co/static/css/simple-base.510618763855.css?v=2">
+    
+    <script>
+  window.DEBUG = false;
+  if (false){//!window.DEBUG){
+    // Ignore certain errors if they are not ours...
+    var ignoreRemoteUncaught = function(isUncaught, args, payload) {
+      try {
+        var filename = payload.data.body.trace.frames[0].filename;
+        if (isUncaught && !filename.match(/^https?:\/\/cdn-prod\.hive\.co\/static\/.*/) && !filename.match(/^https?:\/\/w{0,3}\.?hive\.co.*/)) {
+          // Ignore uncaught errors that are not from www.mycompany.com.
+          return true;
+        }
+      } catch (e) {
+        // Most likely there was no filename or the frame doesn't exist.
+      }
+      return false;
+    };
 
-    <body style="background-image: url(https://cdn-prod.hive.co/static/img/bg_blur.01b223e69ec6.jpg?v=2)" class="view-privacy">
-      <div class="modal" id="info" data-backdrop="false">
-        <div class="modal-dialog skinny">
-          <div class="modal-content">
-            <div class="modal-body">
-              
+    var _rollbarConfig = {
+      accessToken: "ceae03b93eb240d8bedbfcb60a0e97f5",
+      captureUncaught: true,
+      payload: {
+        environment: "production"
+      },
+      checkIgnore: ignoreRemoteUncaught,
+      ignoredMessages: [  // Messages of common spammy errors
+        'Permission denied to access property "toString"',
+        'Script error.'
+      ]
+    };
+    !function(a,b){function c(b){this.shimId=++f,this.notifier=null,this.parentShim=b,this.logger=function(){},a.console&&void 0===a.console.shimId&&(this.logger=a.console.log)}function d(b){var d=c;return e(function(){if(this.notifier)return this.notifier[b].apply(this.notifier,arguments);var c=this,e="scope"===b;e&&(c=new d(this));var f=Array.prototype.slice.call(arguments,0),g={shim:c,method:b,args:f,ts:new Date};return a._rollbarShimQueue.push(g),e?c:void 0})}function e(a,b){return b=b||this.logger,function(){try{return a.apply(this,arguments)}catch(c){b("Rollbar internal error:",c)}}}var f=0;c.init=function(a,b){var d=b.globalAlias||"Rollbar";if("object"==typeof a[d])return a[d];a._rollbarShimQueue=[],b=b||{};var f=new c;return e(function(){if(f.configure(b),b.captureUncaught){var c=a.onerror;a.onerror=function(){f.uncaughtError.apply(f,arguments),c&&c.apply(a,arguments)}}return a[d]=f,f},f.logger)()},c.prototype.loadFull=function(a,b,c,d){var f=e(function(){var a=b.createElement("script"),e=b.getElementsByTagName("script")[0];a.src=d.rollbarJsUrl,a.async=!c,a.onload=g,e.parentNode.insertBefore(a,e)},this.logger),g=e(function(){if(void 0===a._rollbarPayloadQueue)for(var b,c,d,e,f=new Error("rollbar.js did not load");b=a._rollbarShimQueue.shift();)for(d=b.args,e=0;e<d.length;++e)if(c=d[e],"function"==typeof c){c(f);break}},this.logger);e(function(){c?f():a.addEventListener?a.addEventListener("load",f,!1):a.attachEvent("onload",f)},this.logger)()};for(var g="log,debug,info,warn,warning,error,critical,global,configure,scope,uncaughtError".split(","),h=0;h<g.length;++h)c.prototype[g[h]]=d(g[h]);var i="//d37gvrvc0wt4s1.cloudfront.net/js/v1.0/rollbar.min.js";_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||i;var j=c.init(a,_rollbarConfig);j.loadFull(a,b,!1,_rollbarConfig)}(window,document);
+  }
+</script>
+
+  </head>
+
+  <body class="flex-column view-privacy">
+    <div class="main-wrapper">
+      <div class="header-row-wrapper flex-row vert-align-middle">
+        <div>
+          <a href="/home/" target="_blank" class="flex-row vert-align-middle logo-wrapper">
+            <img src="https://cdn-prod.hive.co/static/img/hive_logo_small.542a1388769c.png?v=2"> Hive.co
+          </a>
+        </div>
+        
+      </div>
+      <div>
+        <div class="block-center white-section">
+          
   
 
 <div class="boring">
 
-<h2>HIVE PRIVACY POLICY</h2>
 
-<p>TicketLabs Inc. operating as Hive (<b><q>we</q>/<q>us</q>/<q>Hive</q></b>) makes the website, <a href="https://www.hive.co"><u>www.hive.co</u></a> (the <b><q>Website</q></b>) available to Brands (such as artist and public personalities) and fans of brands (<b><q>Audience</q>/<q>Fans</q>/<q>You</q></b>) as a platform for engagement and content sharing, as further described in our Terms of Service located at <a href="https://www.hive.co/tos"><u>www.hive.co/tos</u></a> (collectively the <b><q>Services</q></b>). This Privacy Policy describes how we collect, store, use and distribute information about fans/audience members through the Services including individuals who register and create an account on Hive and individuals who access the public features of the Website and Services as visitors.</p>
 
-<h3>Overview:</h3>
+<h1>HIVE PRIVACY POLICY</h1>
+
+<p>TicketLabs Inc. operating as Hive (<b><q>we</q>/<q>us</q>/<q>Hive</q></b>) makes the website, <a href="https://www.hive.co"><u>www.hive.co</u></a> (the <b><q>Website</q></b>) available to Brands (such as merchants, media companies, artists, and more) and a brands audience (<b><q>Audience</q>/<q>Audience Member<q>/<q>You</q></q></q></b>) as a platform for engagement and content sharing, as further described in our Terms of Service located at <a href="https://www.hive.co/tos"><u>www.hive.co/tos</u></a> (collectively the <b><q>Services</q></b>). This Privacy Policy describes how we collect, store, use and distribute information about audience members through the Services including individuals who register and create an account on Hive and individuals who access the public features of the Website and Services as visitors.</p>
+
+<h3>Overview:</h3> 
 
 <p><b>This document contains important terms about Hive’s collection, use and sharing of your data and it should be read in its entirety. For ease of reference we have summarized some of the key points that you should note:</b></p>
 
@@ -81,7 +125,7 @@
 <li><b>Registration &amp; Access to the Services:</b> We use registration information to identify you when you are logging into the Website and using the Services. In order to use member features of our Services you must provide certain Personal Information to us such as your name, address, email address, and geographic location. Your Personal Information will be disclosed to the Brands you have shown interest in through the Services and you may be contacted by them.</li>
 <li><b>Transactional Notifications:</b> We provide notifications for certain activities relating to your use of the Services such as service updates and notifications regarding your account. Despite your indicated e-mail preferences, we may send you notices of any updates to our Terms of Service or Privacy Policy.</li>
 <li><b>Profile Data Shared with Brands and Public Data:</b> Publicly available data about you that is found on third-party sites (eg. information that is publicly available on Google or Facebook) may be collected and combined with other information held about you through the Services. Brands will be able to click on your profile and have access to certain information about you if you are in their audience. This information may include but is not limited to your general location (town, city and country) your first name and data about your usage of the Services (such as your interaction with a Brand’s content).</li>
-<li><b>Service Delivery:</b> We use your personal information to respond to your queries (including requests for technical support or product information) and to deliver functionality and services requested by you. We also use your personal information to connect you with Brands you have shown interest in by downloading their songs, entering their contests, viewing their content or participating in other fan engagements. Such Brands will have the ability through the Services to update you on concerts, share other news and promotions and communicate directly with you and with fan groups you may be a member of.</li>
+<li><b>Service Delivery:</b> We use your personal information to respond to your queries (including requests for technical support or product information) and to deliver functionality and services requested by you. We also use your personal information to connect you with Brands you have shown interest in by downloading their songs, entering their contests, viewing their content or participating in other audience engagements. Such Brands will have the ability through the Services to update you on concerts, share other news and promotions and communicate directly with you and with audience groups you may be a member of.</li>
 <li><b>Marketing Communications:</b> If you opt-in to receive marketing communications from us, we will keep you up to date on our products and services (including events, Brands and content we think you might be interested in), upcoming surveys or contests as well as those of our affiliates and certain third parties. You may withdraw your consent to receiving marketing communications at any time by unsubscribing from certain forms of communications through your account settings, or by emailing us and requesting we do so for you.</li>
 <li><b>Statistics:</b> We also collect statistics about use of the Services through cookies and other means (see <i>System Logs &amp; Cookies</i> below). We collect information through the Services and Website to manage our business and perform data analyses/audits for internal use.</li>
 <li><b>Personalization:</b> We use some information collected through the Website and Services (eg. see <i>System Logs &amp; Cookies</i> below) to target advertising based on factors such as geographical location, gender, interests, habits, etc. and to tailor your experience on our Website and display content that we believe to be of particular interest to You (see further <i>Advertisements</i>).</li>
@@ -90,7 +134,7 @@ Your IP address is reported by your web browser whenever you visit a page on the
 <li><b>Advertisements:</b> Advertisements appearing on the Website may be delivered by us or one or more third-party web advertisers. These third party web advertisers may set cookies. These cookies allow the advertisement server operated by that third party to recognize your computer each time they send you an online advertisement. Accordingly, advertisement servers may compile information about where or whether you viewed their advertisements and which advertisements you clicked on. This information allows web advertisers to deliver targeted advertisements that they believe will be of most interest to you. The Privacy Policy applies to cookies placed on your computer by us, but does not cover the use of cookies by any third-party web advertisers. For the privacy practices of such third-party web advertisers, you should consult the applicable privacy policy for the relevant third-party web advertiser(s)</li>
 </ul>
 
-<p>If we plan to use your Personal Information in future for any other purposes not identified above, we will only do so after informing you by updating this Privacy Policy. See further the section of this Privacy Policy entitled <i>’Amendment of this Policy’</i>.</p>
+<p>If we plan to use your Personal Information in the future for any other purposes not identified above, we will only do so after informing you by updating this Privacy Policy. See further the section of this Privacy Policy entitled <i>’Amendment of this Policy’</i>.</p>
 
 <h3>Disclosures &amp; Transfers:</h3>
 <p>We have put in place contractual and other organizational safeguards with our agents (see further below) to ensure a proper level of protection of your Personal Information (see further Security below). In addition to those measures, we will not disclose or transfer your Personal Information to third parties without your permission, except as specified in this Privacy Policy (see further <i>Important Exceptions</i> below).</p>
@@ -109,27 +153,56 @@ Your IP address is reported by your web browser whenever you visit a page on the
 <h3>Retention:</h3>
 <p>We will keep your Personal Information for as long as it remains necessary for the identified purpose or as required by law, which may extend beyond the termination of our relationship with you. We may retain certain data as necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery, or if required by law. All retained personal information will remain subject to the terms of this Privacy Policy. If you request that your name be removed from our databases, it may not be possible to completely delete all your Personal Information due to technological and legal constraints.</p>
 
-<h3>Amendment of this Policy:</h3>
-<p>We reserve the right to change this Privacy Policy at any time. If we decide to change this Privacy Policy in the future, we will post an appropriate notice on the home page at <a href="https://www.hive.co"><u>www.hive.co</u></a>. Any non-material change (such as clarifications) to this Privacy Policy will become effective on the date the change is posted and any material changes will become effective 30 days from their posting on the Website. Unless stated otherwise, our current Privacy Policy applies to all Personal Information that we have about you. The date on which the latest update was made is indicated at the bottom of this document. We recommend that you print a copy of this Privacy Policy for your reference and revisit this policy from time to time to ensure you are aware of any changes. Your continued use of the Website signifies your acceptance of any changes.</p>
-
 <h3>Access and Accuracy:</h3>
 <p>You have the right to access the Personal Information we hold about you in order to verify the Personal Information we have collected in respect to you and to have a general account of our uses of that information. Upon receipt of your written request, we will provide you with a copy of your Personal Information although in certain limited circumstances, we may not be able to make all relevant information available to you such as where that information also pertains to another user. In such circumstances, we will provide reasons for the denial to you upon request. We will endeavor to deal with all requests for access and modifications in a timely manner.</p>
 <p>We will make every reasonable effort to keep your Personal Information accurate and up-to- date, and we will provide you with mechanisms to update, correct, delete or add to your Personal Information as appropriate. As appropriate, this amended Personal Information will be transmitted to those parties to which we are permitted to disclose your information. Having accurate Personal Information about you enables us to give you the best possible service.</p>
 
-<h3>Contact Us:</h3>
-<p>You can help by keeping us informed of any changes such as a change of address or telephone number. If you would like to access your information, if you have any questions, comments or suggestions of if you find any errors in our information about you, please contact us at: <a href="mailto:hello@hive.co"><u>hello@hive.co</u></a></p><br>
+<h3>Residents of the European Economic Area ("EEA"):</h3>
+<p>We generally process Personal Information in order to fulfill contracts we have with our brand customers and to pursue our legitimate business interests listed above in this Policy. Otherwise, we will obtain consent from an individual in respect of processing of Personal Information if required by law to do so.  Further, individuals located in the EEA (“<b>EEA citizens</b>”) have certain rights under European law (including under the General Data Protection Regulation) (collectively “<b>EU Data Protection Law</b>”) with respect to Personal Information, including the right to request access to, obtain, correct, amend, delete, or limit the use of your personal data. EEA citizens also have the right to make complaints to regulatory authorities in respect of our privacy practices.  Individuals located in to the EEA who wish to exercise these rights or to learn more about such rights, should contact us at <a href="mailto:privacy@hive.co"><u>privacy@hive.co</u></a>.</p>
+<p>EU Data Protection Law sets out a number of different reasons for which we may collect and process your personal data in certain circumstances. Where EU Data Protection Law applies, the legal bases we rely upon include:</p>
+<ul>
+<li><b>Consent:</b> We can collect and process your data with your consent, where required by the EU Data Protection Law. For example, if you have given your consent to receiving marketing material from us.</li>
+<li><b>Contractual obligations:</b> We need your personal data to comply with our contractual obligations. For example, where you have provided us with your email address to receive access to our Services, we will use this information in order to effectively deliver and communicate information to you in regard to such products and services.</li>
+<li><b>Compliance with legal obligations:</b> If the law requires us to, we may need to collect and process your data for legal compliance reasons. For example, we can pass on details of people involved in fraud or other criminal activity.</li>
+<li><b>Legitimate interest:</b> We may require your data to pursue our legitimate interests or those of a third party in a way which might reasonably be expected as part of running our business and which does not materially impact your rights, freedom or interests. For example, it is in our legitimate interests to (a) ensure that content from our Website is presented in the most effective manner for you and your computer and that we provide you with the information, products and services that you request from us, (b) to keep our Website and our Services safe and secure;(c) for measuring or understanding the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you (including individual and pseudonymous analysis and profiling); (d) to allow you to participate in interactive features of our Services (if applicable), and (e) to use marketing related information about you that we have lawfully collected.</li>
+</ul>
+<p>If you are an EEA citizen, Personal Information that we process in relation to you may be transferred and stored at, a destination outside the EEA that may not be subject to equivalent data protection law (please see further <b>Disclosures &amp; Transfers</b> above). It may also be processed by staff situated outside the EEA who work for us or for one of our suppliers.</p>
+<p>We may transfer your personal data outside the EEA:</p>
+<ul>
+<li>in order to host or store it;</li>
+<li>in order to enable us to provide goods or services to and fulfil our contract with you or the company your work for;</li>
+<li>where we are legally required to do so;</li>
+<li>where it is in our legitimate interests and we have concluded these are not overridden by your rights.</li>
+<li>Where your information is transferred outside the EEA, we take steps reasonably necessary to ensure that your data is subject to appropriate safeguards, such as where applicable relying on a recognised legal adequacy mechanism and contracts, to help ensure your rights and protections travel with your data and that your personal data is treated securely and in accordance with this Policy.</li>
+</ul>
+<p>If you are an EEA Citizen, you have the following additional rights under certain circumstances:</p>
+<ul>
+<li>to be provided with a copy of your personal data held by us;</li>
+<li>to request the rectification or erasure of your personal data held by us;</li>
+<li>to request that we restrict the processing of your personal data (for example, while we verify or investigate your concerns about your information);</li>
+<li>to object to the further processing of your personal data, including the right to object to marketing; and</li>
+<li>to request that your personal data be moved to a third party.</li>
+</ul>
 
-<p><b>Last Updated: April 27, 2016</b></p><br>
+<h3>Amendment of this Policy:</h3>
+<p>We reserve the right to change this Privacy Policy at any time. If we decide to change this Privacy Policy in the future, we will post an appropriate notice on the home page at <a href="https://www.hive.co"><u>www.hive.co</u></a>. Any non-material change (such as clarifications) to this Privacy Policy will become effective on the date the change is posted and any material changes will become effective 30 days from their posting on the Website. Unless stated otherwise, our current Privacy Policy applies to all Personal Information that we have about you. The date on which the latest update was made is indicated at the bottom of this document. We recommend that you print a copy of this Privacy Policy for your reference and revisit this policy from time to time to ensure you are aware of any changes. Your continued use of the Website signifies your acceptance of any changes.</p>
+
+<h3>Contact Us:</h3>
+<p>You can help by keeping us informed of any changes such as a change of address or telephone number. If you would like to access your information, if you have any questions, comments or suggestions of if you find any errors in our information about you, please contact us at: <a href="mailto:privacy@hive.co"><u>privacy@hive.co</u></a>.</p><br>
+
+<p><b>Last Updated: May 24, 2018</b></p><br>
+
 
 </div>
 
 
-            </div>
-          </div>
-        </div><!-- /.modal-dialog -->
+        </div>
       </div>
-      <footer>Powered by Hive.co - <a href="/privacy/">Privacy Policy</a> - <a href="/tos/">Terms of Use</a> - <a href="mailto:hello@hive.co">Contact Us</a></footer>
-      <script type="text/javascript" crossorigin="anonymous" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    </div>
+    <footer>
+      © 2018 · <a href="/privacy/" target="_blank">Privacy Policy</a> · <a href="/tos/" target="_blank">Terms of Use</a>
+    </footer>
+    <script type="text/javascript" crossorigin="anonymous" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script type="text/javascript">
   function getAjaxErrorMsg(responseData, fallbackMessage){
     if (responseData){
@@ -137,16 +210,147 @@ Your IP address is reported by your web browser whenever you visit a page on the
         return responseData.responseJSON.msg;
       } else if (responseData.responseText){
         try {
-          return JSON.parse(responseData.responseText).msg;
+          return JSON.parse(responseData.responseText).msg || fallbackMessage;
         } catch(e){}
       }
     }
     return fallbackMessage || 'An error occurred while processing your request. If this issue persists please contact support@hive.co';
   }
 </script>
+<script type="text/javascript">
+  function setLoadingModalEstimatedTime($target, estimatedTime) {
+    loadingModal(null, false, estimatedTime, $target);
+  }
 
-      
+  function startProgressBar($progressBarContainer, time) {
+    var $progressBar = $progressBarContainer.find('.progress-bar');
+
+    if($progressBar[0].interval){
+      return;
+    }
+
+    var updateStatusBar = function(percent) {
+      $progressBar.css('width', percent + '%').attr('aria-valuenow', percent);
+      $progressBar.text(percent + '%');
+    }.bind(this);
+
+    var timeElapsed = 1;
+
+    $progressBar[0].interval = setInterval(function() {
+      var percent = Math.min(100, Math.ceil((timeElapsed / time) * 100));
+      if(percent == 100){
+        $progressBar[0].stop();
+        var text = 'Sorry, this is taking longer than usual. Please wait and this report should be done soon, ';
+        text += 'or <a href="#" onclick="window.location.reload(true);">refresh this page</a> to try again.';
+        console.dir(text);
+        $progressBarContainer.parent().find('.overtime-message').html(text).show();
+      }
+      else{
+        updateStatusBar(percent);
+      }
+      timeElapsed += 0.175 + Math.random() * 0.25;
+    }.bind(this), 250);
+
+    $progressBar[0].stop = function() {
+      clearInterval($progressBar[0].interval);
+      updateStatusBar(100);
+    }.bind(this);
+  }
+
+  function loadingModal(loadText, doHide, estimatedTime, $target) {
+    if(!$target){
+      $target = $('.wrapper-main');
+    } else if($target.length === 0){
+      return console.log('Passed non-existant target to loadingModal()');
+    }
+    // We also have strange logic here with uploadingImageModal
+    // If no target is passed we attempt to use a uploadingImageModal DOM element as the loading modal
+    // If a target is set we create the loading DOM from tpl-loading-modal template and inject it onto an element
+
+    // overwriteText boolean is used to overwrite the text
+    // We have to set this because we create DOM with the template tpl-loading-modal
+    // TODO clean this function and all areas in the code base to only use the tpl-loading-modal template and clear out uploadingImageModal
+    var overwriteText = Boolean(loadText);
+    loadText = loadText || 'Loading...';
+    if(!$target){
+      $target = $('#uploadingImageModal');
+      $target.find('#uploadingText').text(loadText);
+
+    } else{
+      if(!$target[0].loadingModal){
+        var template = Handlebars.compile($('#tpl-loading-modal').html());
+        var modalHtml = template({
+          loadText: loadText,
+        });
+        $target.append(modalHtml);
+        $target[0].loadingModal = $target.find('.loading-modal').last();
+      }
+      $target = $($target[0].loadingModal);
+      if(overwriteText){
+        $target.find('h4').text(loadText);
+      }
+    }
+    var $progressContainer = $target.find('.progress-container');
+    if(estimatedTime){
+      $progressContainer.css('display', 'block');
+      startProgressBar($progressContainer, estimatedTime);
+    } else {
+      $progressContainer.css('display', 'none');
+    }
+    if(doHide){
+      var $progressBar = $target.find('.progress-container').find('.progress-bar');
+      if($progressBar.length > 0 && $progressBar[0].interval){
+        $progressBar[0].stop();
+      }
+      $target.hide();
+      $target.find('.overtime-message').hide();
+      if($progressBar.length > 0){
+        $progressBar = $target.find('.progress-bar');
+        $progressBar.css('width', '0%').attr('aria-valuenow', 0);
+        $progressBar.text('0%');
+        $progressBar[0].interval = undefined;
+      }
+    } else{
+      $target.show();
+    }
+  }
+  function showLoadingModal($target){
+    loadingModal(null, false, null, $target);
+  }
+
+  function hideLoadingModal($target){
+    loadingModal(null, true, null, $target);
+  }
+
+  function hiveAlert(alertBodyText, alertTitleText, alertButtonText) {
+    $('#alertBodyText').text(alertBodyText || 'Dismiss me!');
+    $('#alertTitleText').text(alertTitleText || '');
+    $('#alertButtonText').text(alertButtonText || 'Ok');
+    $('#alertModal').modal();
+  }
+</script>
+
     
+    <script src="https://cdn-prod.hive.co/static/handlebars.js"></script>
+    <script type="text/javascript" src="https://cdn-prod.hive.co/static/js/handlebars-helpers.704e17217971.js?v=2"></script>
+    
+        <script type="text/x-handlebars-template" id="tpl-loading-modal">
+        
+      <div class="loading-modal flex-column">
+        <div class="loading-content">
+          <span class="fa fa-spinner fa-pulse"></span>
+          <h4>{{loadText}}</h4>
+          <div class="progress-container">
+            <div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width:0%"></div>
+          </div>
+          <p class="overtime-message">
+            Sorry, this is taking longer than usual. Please wait and this report should be done soon - or <a href="#" onclick="window.location.reload(true);">refresh this page</a> to try again.
+          </p>
+        </div>
+      </div>
+    
+        </script>
+  
 
 
 </body></html>
