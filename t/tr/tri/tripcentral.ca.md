@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the tripcentral.ca privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910081424id_/http%3A//www.tripcentral.ca/info/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripcentral.ca privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906064008id_/https%3A//www.tripcentral.ca/info/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - tripcentral.ca
 
 The Canadian Personal Information Protection and Electronic Documents Act (PIPEDA) was enacted on January 1, 2001 to ensure all Canadian's basic right to privacy. PIPEDA applies to every business in Canada and covers the collection, use, storage and disclosure of personal information about identifiable individuals.
 
 At Tripcentral.ca, we value your trust and believe in the importance of protecting the privacy of the individual. A travel enquiry and purchase requires the voluntary disclosure of personal information and an exchange of that information with various third party suppliers. We have appointed a Privacy Officer to handle requests for information; ensure our Privacy Protection Policy complies with the legislation; oversee the integrity of our systems and monitor end supplier adherence to PIPEDA.
-
-At Tripcentral.ca, we value your trust and believe in the importance of protecting the privacy of the individual. A travel enquiry and purchase requires the voluntary disclosure of personal information and an exchange of that information with various third party suppliers. We have appointed a Privacy Officer to handle requests for information; ensure our Privacy Protection Policy complies with the legislation; oversee the integrity of our systems and monitor end supplier adherence to PIPEDA. 
 
 The following Privacy Protection Policy was updated and posted on Tripcentral.ca on January 11, 2004. Questions regarding the policy and it's implementation should be e-mailed to privacy@tripcentral.ca or mailed to: 
 
