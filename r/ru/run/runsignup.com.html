@@ -1,0 +1,759 @@
+<!--The following is the downloaded HTML source of the runsignup.com privacy policy that was archived on 2018-09-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180906203756id_/https%3A//runsignup.com/About-Us/Privacy-Policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+		<link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700|PT+Serif:400,400i" rel="stylesheet" type="text/css">
+		
+
+
+	<meta name="viewport" content="initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,shrink-to-fit=no, viewport-fit=cover">
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script type="text/javascript" async="" src="https://koi-3QMU9P3SZ0.marketingautomation.services/client/ss.js?ver=1.1.1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQQBV1FXGwQIXFRaAw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,c){try{p?p-=1:o(c||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,s.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:s.now();i("err",[t,n])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),d=!0)}c.on("fn-start",function(t,e,n){d&&(p+=1)}),c.on("fn-err",function(t,e,n){d&&!n[l]&&(f(n,l,function(){return!0}),this.thrown=!0,o(n))}),c.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(15)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(15)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(15)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){g.push(t),h&&(b?b.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(15)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,y="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];e.exports=u;var x=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(y,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===y||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=o(l+e,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw s.emit("fn-err",[arguments,this,t],n),t}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(p+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],15:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!l.aborted||i){t&&t(n,r,o);for(var a=e(o),c=h(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[w[n]];return d&&d.push([g,n,r,a]),a}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",w[n]=e,e in u||(u[e]=[])})}var y={},w={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(w,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){s("mark",["domContent",a()+x.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-x.offset}var c=(new Date).getTime(),s=t("handle"),f=t(12),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var y=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:c,now:a,origin:y,features:{},xhrWrappable:g};t(9),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),s("mark",["firstbyte",c],null,"api");var b=0,E=t(14)},{}]},{},["loader",2,7]);</script>
+
+<meta name="verify-v1" content="pPPI9MXDo069DhV+2itqhV46AR8OWnG+NxzCulTUTns=">
+<meta name="google-site-verification" content="wFyq2zuG7IBY5ilQqEELBypyn04UZIYBgKPHrTMnTUg">
+
+	<link rel="canonical" href="https://runsignup.com/About-Us/Privacy-Policy">
+
+	<link rel="search" type="application/opensearchdescription+xml" title="RunSignUp" href="/opensearch.xml">
+
+<link rel="apple-touch-icon" href="https://d368g9lw5ileu7.cloudfront.net/frontend/img/logos/icons/touch-icon-iphone.bwtjF_.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://d368g9lw5ileu7.cloudfront.net/frontend/img/logos/icons/touch-icon-ipad.bwtjF_.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://d368g9lw5ileu7.cloudfront.net/frontend/img/logos/icons/touch-icon-iphone-retina.bwtjF_.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://d368g9lw5ileu7.cloudfront.net/frontend/img/logos/icons/touch-icon-ipad-retina.bwtjF_.png">
+
+<title>The RunSignUp Privacy Policy</title>
+
+		
+<link rel="icon" type="image/vnd.microsoft.icon" href="/favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+<link rel="icon" sizes="192x192" href="https://d368g9lw5ileu7.cloudfront.net/img/icons/favicon.bxbizn.png">
+				<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha256-PCsx7lOyGhyGmzsO5MGXhzwV6UpNTlNf1p6V6w2CppQ=" crossorigin="anonymous">
+
+				<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" integrity="sha256-j+P6EZJVrbXgwSR5Mx+eCS6FvP9Wq27MBRC/ogVriY0=" crossorigin="anonymous">
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" integrity="sha256-UK1EiopXIL+KVhfbFa8xrmAWPeBjMVdvYMYkTAEv/HI=" crossorigin="anonymous">
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/assets/owl.carousel.min.css" integrity="sha256-AWqwvQ3kg5aA5KcXpX25sYKowsX97sTCTbeo33Yfyk0=" crossorigin="anonymous">
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css" integrity="sha256-PZLhE6wwMbg4AB3d35ZdBF9HD/dI/y4RazA3iRDurss=" crossorigin="anonymous">
+
+				<link rel="stylesheet" type="text/css" href="https://d368g9lw5ileu7.cloudfront.net/css/popups.scss.rsu.min.bBJRg9.css">
+		<link rel="stylesheet" type="text/css" href="https://d368g9lw5ileu7.cloudfront.net/css/login.scss.rsu.min.bBJRg9.css">
+
+				
+				
+<link rel="stylesheet" type="text/css" href="https://iad-dynamic-assets.runsignup.com/us-east-1-src/prod/iconfonts/53170e238da14608a9f38b8bc51f7d2f/style.css">
+				<link rel="stylesheet" type="text/css" href="https://d368g9lw5ileu7.cloudfront.net/css/frontend2018.scss.rsu.min.bBJRg9.css">
+
+				<link rel="stylesheet" type="text/css" media="print" href="https://d368g9lw5ileu7.cloudfront.net/css/print.min.bA0rDJ.css">
+
+				
+
+
+		
+
+				<!-- DYNAMIC_CSS_PLACEHOLDER -->
+
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js" integrity="sha256-KM512VNnjElC30ehFwehXjx1YCHPiQkOPmqnrWtpccM=" crossorigin="anonymous"></script>
+		
+
+<script type="text/javascript">//<![CDATA[
+function urlAddSessionParams(a){"undefined"!=typeof embedId2&&(a=urlAddParam(a,"embedId2",embedId2));return a}function urlRemoveSessionParams(a){return a=urlAddParam(a,"embedId2",null)};
+
+//]]></script><script type="text/javascript" src="https://d368g9lw5ileu7.cloudfront.net/js/utils.min.bBJRg9.js"></script><script type="text/javascript">//<![CDATA[
+function openWindow(a,b){null==b&&(b="_blank");0!=a.indexOf("http://")&&0!=a.indexOf("https://")&&("undefined"!=typeof widgetBaseUrl&&null!=widgetBaseUrl&&(a=urlAddParam(widgetBaseUrl,"rsuUrl",a)),a=urlAddSessionParams(a));window.open(a,b)}function openWindowNoParams(a,b){null==b&&(b="_blank");window.open(a,b)}function setWindowLocation(a){0!=a.indexOf("http://")&&0!=a.indexOf("https://")&&(a=urlAddSessionParams(a));window.location=a}
+function reloadWindowOnInputChange(a){var b=a.prop("name"),d=a.val();a.is(":radio,:checkbox")&&!a.prop("checked")&&(d=null);var c=""+window.location,c=urlAddParam(c,b,d);if(a=a.data("clear-fields"))for(a=a.split("j"),b=0;b<a.length;b++)c=urlAddParam(c,a[b],null);window.location=c};
+
+//]]></script>
+
+<!--[if lte IE 7]>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/json3/3.3.2/json3.min.js"></script>
+<![endif]-->
+
+<!--[if IE]>
+<script type="text/javascript">var isIE = true;</script>
+<![endif]-->
+
+<script type="text/javascript">//<![CDATA[
+var serverTsOffset = -14400000 + (new Date()).getTimezoneOffset()*60000;
+var rsuCsrf = "EwGspAmpr1KPttWKVykeKioSbmIxrLl2";//]]></script>
+
+		<!--[if lt IE 9]>
+			<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
+		<![endif]-->
+
+				
+
+
+	<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+	<body data-spy="scroll" data-target="#navbar" data-offset="30">
+				
+
+<!-- Note: Include this div markup as a workaround for a known bug in this release on IE where you may get a "operation aborted" error -->
+<div id="FB_HiddenIFrameContainer" style="display:none; position:absolute; left:-100px; top:-100px; width:0px; height: 0px;"></div>
+
+<script defer="defer" type="text/javascript" src="https://d368g9lw5ileu7.cloudfront.net/js/facebookInit.min.bBJRg9.js"></script>
+<div id="fb-root"></div>
+<script type="text/javascript">//<![CDATA[
+	if (window.addEventListener)
+		window.addEventListener('DOMContentLoaded', function() {
+			doAsyncInit("325610144516");
+		});
+//]]></script>
+
+
+	<div id="acceptCookies" style="display: none;">
+		<p>
+			In order to use RunSignUp, your browser must accept cookies.  Otherwise, you will not be able to register for races or use other functionality of the website.
+			However, your browser doesn't appear to allow cookies by default.
+		</p>
+		<p>
+						<span class="link" onclick="window.open(&quot;https:\/\/runsignup.com\/&quot;+'WidgetAux/AcceptCookies', '_blank', 'menubar=0,status=0,width=100,height=50');">Click here</span> to accept the use of cookies on your browser.
+		</p>
+		<p>
+			If you still see this message after clicking the link, then your browser settings are likely set to not allow cookies.
+			Please try enabling cookies.  You can find instructions at <a href="https://www.whatismybrowser.com/guides/how-to-enable-cookies/auto">https://www.whatismybrowser.com/guides/how-to-enable-cookies/auto</a>.
+			If you still have issues after this, please <a href="https://help.runsignup.com/support/tickets/new">contact us</a>.
+		</p>
+		<hr class="orange">
+		<div class="center submitBackLinks">
+			<span class="borderButton borderButtonFilled borderButtonPrimary" onclick="window.open(&quot;https:\/\/runsignup.com\/&quot;+'WidgetAux/AcceptCookies', '_blank', 'menubar=0,status=0,width=100,height=50');">Accept Cookie Policy</span>
+		</div>
+	</div>
+	<script type="text/javascript">//<![CDATA[
+function closeCookiePolicy(){window.location.reload(!0)}$(function(){getCookie("cookietest")?setCookie("cookietest",0,0):showStyle1Popup($("#acceptCookies"),"Cookie Policy",Math.min(600,$(window).width()))});
+
+//]]></script>
+<nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+	<div class="container">
+		<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="icon icon-menu2"></span>
+		</button>
+		<a class="logo icon icon-rsu-logo navbar-brand js-scroll-trigger" href="/" title="RunSignUp"></a>
+		<span class="d-lg-none d-md-inline-block mobile-avatar">
+						
+<header class="rsu-admin-bar">
+	<div class="header-avatar-container" id="header-avatar-container" data-arrow-menu="arrow-dropdown-user-menu1">
+		<div class="header-avatar" style="background-image: url(https://d368g9lw5ileu7.cloudfront.net/img/ronGray.bzzJi8.png);"></div>
+		<div class="notification-bubble" id="notification-bubble"><span></span></div>
+	</div>
+	<div class="arrow-dropdown" id="arrow-dropdown-user-menu1">
+		<div class="content topLinks">
+			<div class="arrow-dropdown-links">
+													<a href="/Login" data-skip-popup="T"><i class="icon icon-enter"></i> Sign In</a>
+					<a href="/CreateAccount?redirect=%2FAbout-Us%2FPrivacy-Policy"><i class="icon icon-magic"></i> Create Account</a>
+								<a href="https://help.runsignup.com" target="_blank" rel="noopener noreferrer"><i class="icon icon-question-circle"></i> Help</a>
+			</div>
+		</div>
+		<div class="arrow"></div>
+		<div class="arrow arrow-border"></div>
+	</div></header>		</span>
+		<div class="collapse navbar-collapse" id="navbarResponsive">
+			<ul class="navbar-nav text-uppercase ml-auto">
+				<li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownFeatures" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+						Features
+					</a>
+					<div class="dropdown-menu" aria-labelledby="navbarDropdownFeatures">
+						<ul class="list-unstyled">
+							<li><a href="/Services/Race-Directors">Races</a></li>
+							<li><a href="/Services/Donations">Fundraisers</a></li>
+							<li><a href="/Services/Timers">Timers</a></li>
+							<li><a href="/Services/Running-Clubs">Clubs</a></li>
+							<li><a href="/Services/Full-List">All Features</a></li>
+							<li><a href="/Services/Marketplace">Marketplace</a></li>
+						</ul>
+					</div>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="/Pricing">Pricing</a>
+				</li>
+				<li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuAbout" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+						About Us
+					</a>
+					<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuAbout">
+						<ul class="list-unstyled">
+							<li><a href="/About-Us/Team">Team</a></li>
+							<li><a href="/About-Us#ourstory">Our Story</a></li>
+							<li><a href="/About-Us/Legal">Legal Stuff</a></li>
+							<li><a href="https://help.runsignup.com/support/tickets/new" target="_blank" rel="noopener noreferrer">Contact Us</a></li>
+						</ul>
+					</div>
+				</li>
+				<li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownLearning" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+						Learning
+					</a>
+					<div class="dropdown-menu" aria-labelledby="navbarDropdownLearning">
+						<ul class="list-unstyled">
+							<li><a href="/Customers">Customers</a></li>
+							<li><a href="/Trends">RaceTrends 2018</a></li>
+							<li><a href="/RaceInsights">RaceInsights</a></li>
+							<li><a href="https://help.runsignup.com/support/home" target="_blank" rel="noopener noreferrer">Support</a></li>
+							<li><a href="https://runsignup.wordpress.com" target="_blank" rel="noopener noreferrer">Blog</a></li>
+							<li><a href="https://resources.runsignup.com/webinar-calendar/" target="_blank" rel="noopener noreferrer">Webinars</a></li>
+						</ul>
+					</div>
+				</li>
+				<li class="nav-item btn">
+					<a class="button btn-primary" href="/Race/New">Create A Race</a>
+				</li>
+				<li class="nav-item d-none d-lg-block" id="avatar">
+										
+<header class="rsu-admin-bar">
+	<div class="header-avatar-container" id="header-avatar-container" data-arrow-menu="arrow-dropdown-user-menu2">
+		<div class="header-avatar" style="background-image: url(https://d368g9lw5ileu7.cloudfront.net/img/ronGray.bzzJi8.png);"></div>
+		<div class="notification-bubble" id="notification-bubble"><span></span></div>
+	</div>
+	<div class="arrow-dropdown" id="arrow-dropdown-user-menu2">
+		<div class="content topLinks">
+			<div class="arrow-dropdown-links">
+													<a href="/Login" data-skip-popup="T"><i class="icon icon-enter"></i> Sign In</a>
+					<a href="/CreateAccount?redirect=%2FAbout-Us%2FPrivacy-Policy"><i class="icon icon-magic"></i> Create Account</a>
+								<a href="https://help.runsignup.com" target="_blank" rel="noopener noreferrer"><i class="icon icon-question-circle"></i> Help</a>
+			</div>
+		</div>
+		<div class="arrow"></div>
+		<div class="arrow arrow-border"></div>
+	</div></header>				</li>
+			</ul>
+		</div>
+	</div>
+
+			</nav>
+				<div>
+							
+				
+<section class="banner gradient--blue-green background--ron noPrint">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+								<div class="text-center pt-5">
+					<h2 class="section-heading text-uppercase fadeInDown wow">THE RUNSIGNUP PRIVACY POLICY</h2>
+					<h3 class="section-subheading fadeInUp wow" style="visibility: visible;"><b>Race Directors, Affiliates &amp; Partners:</b> Download our contract to review all the terms of your agreement with RunSignUp</h3>
+					<a class="button btn-primary btn-muted js-scroll-trigger d-block d-lg-inline-block mb-3" href="/About-Us/Race-Contract">Race Contract</a>
+					<a class="button btn-primary btn-muted js-scroll-trigger d-block d-lg-inline-block mb-3" href="/About-Us/Partner-Contract">Partner Contract</a>
+					<a class="button btn-primary btn-muted js-scroll-trigger d-block d-lg-inline-block mb-3" href="/About-Us/Affiliate-Contract">Affiliate Contract</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<div style="margin-top:50px;"></div>
+
+<div class="container">
+	<h2>Privacy Policy</h2>
+	<span class="note">Last Updated 07/02/2018</span>
+	<hr>
+	<div class="row-fluid">
+		<div class="span12">
+			<p>
+				RunSignUp, Inc., doing business as RunSignUp, BikeSignUp, TriSignUp, SkiSignUp, PaddleSignUp, AdventureSignUp, and SwimSignUp (collectively, “<b>RunSignUp</b>”, “us”, “we”, or “our”) operates runsignup.com, bikesignup.com, trisignup.com, skisignup.com, paddlesignup.com, adventuresignup.com and swimsignup.com, or through a mobile application or other cloud-based platform which we may make available for your use (collectively, the “<b>Site</b>”).
+				This Privacy Policy informs you of our policies regarding the collection, use and disclosure of information we receive from users of the Site. Your use of the Site will constitute your acknowledgement of your consent to abide and be bound by the Privacy Policy.
+			</p>
+			<h3>Our Commitment to Privacy</h3>
+			<p>
+				Thank you for using RunSignUp.
+				RunSignUp is pleased to provide registration and related services for your endurance event or membership services for your running or other such club (our “<b>Services</b>” provided via our Site for your “<b>Race</b>”).
+				Your privacy is important to us.
+				Because of this, we prefer to take a minimalistic approach to collecting information from you.
+				We&nbsp;<b>do not</b>&nbsp;save any credit card information on our servers, and we&nbsp;<b>do not</b>&nbsp;sell your information or share it with anyone other than: (a) the sponsoring organization (sometimes referred to as the Race Owner) and the Event Director (collectively, the “<b>Event Organization</b>”) for the Races that you register for through RunSignUp, and (b) as otherwise expressly described in this Privacy Policy.
+				We also&nbsp;<b>do not&nbsp;send</b> any mass emails and we never share credit card information with the Event Organization.
+			</p>
+			<p>
+				Please note that the Event Organization administers and oversees the Race and can seek additional information and Content (defined in the “Information We Collect” section below) from you through the use of our Site or through a separate data collection method.
+				The Event Organization also can control who may access the information and Content collected for their Race and posted or maintained on our Site and, in this regard, may provide certain individuals and third parties (such as the timer for your Race), and the public, with access to such information and Content.
+				We do not control, and are not responsible for, the policies and practices of the Event Organization, or the conduct of other users or participants which the Event Organization gives access to our Site, with respect to their handling of your information and Content.
+				For information about the Event Organization’s practices and policies, please contact them.
+			</p>
+			<h3>The Information We Collect</h3>
+			<p>
+				On RunSignUp, you can register yourself or someone else as a user of our website, and/or signup for a Race.
+				On those Site pages, we will collect information about you including but not limited to:&nbsp;<i>Name, Address, E-mail Address, Phone Number, Date of Birth (used for race categories only), and Gender (also used for race categories)</i> (Collectively “<b>Profile Information</b>”) for those people who register as a user or sign up for an event on our Site.
+				Your Profile Information is stored on a permanent profile on our Site that can be used by you to register for future races on RunSignUp.
+				When completing your profile on RunSignUp you can select a box, which will allow you to be shown as “anonymous” in public participant and race results published by RunSignUp.
+			</p>
+			<p>
+				We will also store: (a) information collected by the Event Organization, which may include some or all of your Profile Information and/or additional information which the Event Organization chooses, in their discretion, to collect; and (b) the lists and reports of participants for Races, which may include (at the election of the Event Organization) some or all of the information described in (a) above (collectively, the “<b>Race Data</b>”).
+				In addition, we will store your ID and password (“<b>login credentials</b>”) that permits you to access your account on our Site.
+				You should not share your login credentials with third parties.
+			</p>
+			<p>
+				We will collect credit card information from you at the time of the transaction for the purpose of completing transactions to register for events.
+				We will not store that credit card information on our servers or on the Site.
+				The credit card information is sent directly, via secure means, to a trusted third party-operated payment service to complete a registration transaction.
+				You can request to have your credit card information stored and only then do we store your credit card information with a trusted third party-operated online credit card vault storage company and not on our servers or on the Site.
+				We confirm that these third parties have been certified as meeting high-level security standards as published by the Payment Card Industry Security Standards Council.
+			</p>
+			<p>
+				The Race that you participate in may collect and store on our Site your name, voice and images of you (also sometimes referred to as your likeness) in photographs, motion pictures, results, publications or any other print, videographic or electronic recording of the Race (collectively, “Content”).
+				You agree and consent that: (x) we may store, use and display the Content on our Site in connection with the provision of our Services in support, and the accompanying promotion, of your Race; and (y) the Content may be used by the Event Organization for the sale of those images to participants in their Races and for the marketing and promotion of such Races and other events which they may sponsor.
+			</p>
+			<div style="margin-left: 50px;">
+				<h4>Information We Automatically Collect</h4>
+				<p>
+					Like many site operators, we collect information that your browser sends whenever you visit our Site (“Log Data”).
+					This Log Data may include information such as your device’s Internet (“IP”) address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics.
+					Your devices may also transmit information about the type of device, information regarding your location and operating system, and identifiers associated with the device, and we collect this information.
+					We will use Log Data and the above-described device-generated information to manage, operate and improve the Site and will not share or distribute such information to any third party other than the Event Organization, except as otherwise expressly described in this Privacy Policy.
+				</p>
+				<p>
+					In addition, we may use third party services such as Google Analytics or develop our own tools that collect, monitor and analyze the collected information.
+					For example, Google Analytics may be used to measure traffic or track visitor activity on the Site.
+					We use this information to analyze and improve the usage of our Services and the type of information displayed to Site users so that we can better serve those interested in our Services.
+					Google Analytics and other third party analytics services do not reveal to us your name or other personally identifying information.
+				</p>
+				<p>
+					If you enable a “do not track” signal or similar mechanism relating to the tracking of browsing activities, we do not have practices or protocols to honor or respond to such request.
+					However, we only collect the types of information otherwise described in this Privacy Policy.
+					</p>
+				<h4>Cookies</h4>
+				<p>
+					Cookies are files with small amounts of data, which may include an anonymous unique identifier.
+					Cookies are sent to your browser from a web site and stored on your computer’s hard drive.
+				</p>
+				<p>
+					Like many sites, we use cookies to collect information to enable us to more efficiently interact with you, and to operate and improve the Site and our Services.
+					For example, cookies help us with things like remembering your user name for your next visit, understanding how you are using our Services, and improving our Site and Services based on that information.
+					You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent.
+					However, if you do not accept cookies, you may not be able to use some portions of our Site.
+				</p>
+			</div>
+
+			<h3>The Way We Use Information</h3>
+			<p>
+				We use the information you provide about yourself and others when registering for a Race&nbsp;<b>only</b>&nbsp;to complete the registration for that Race.
+				We do not share this information with outside parties except for the Event Organization for your Race.
+			</p>
+			<p>
+				We use return email addresses to answer the emails we receive.
+				Such addresses are not used for any other purpose, and are not shared with outside parties.
+				We will not use your email address to market races or other services directly to you and we will not distribute your personally identifiable information to anyone other than to the Event Organization for the Race that you register for on our Site and as otherwise described in this Privacy Policy.
+			</p>
+			<p>
+				In addition to the other uses described herein, we may use the information we collect from you in the following ways:
+			</p>
+			<ul>
+				<li>To respond to your questions and requests;</li>
+				<li>To allow us to provide customer support in connection with our Services;</li>
+				<li>To process your transactions;</li>
+				<li>To operate our Site and provide our Services in order to administer and facilitate your Race (for example, to facilitate your registration and event services, post results and provide Race information to you)</li>
+				<li>Comply with laws, regulations, legal processes and law enforcement requirements;</li>
+				<li>To optimize or improve our Services;</li>
+				<li>To send out service announcements, such as if there are technical issues impacting the Service.</li>
+				<li>To communicate with you about your account or transactions with us and send you information about the operation of our Site or changes to our policies; and</li>
+				<li>To detect, investigate and prevent activities that may violate our policies or be illegal.</li>
+			</ul>
+			<p>
+				We will never use or share the personally identifiable information provided to us online in ways unrelated to the ones described in this Privacy Policy without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+			</p>
+			<p>
+				It is important to note that the Race that you register for may use your personally identifiable information to contact you for the purpose of completing your registration, managing and operating the Race, marketing to you for other events that they manage and for other purposes consistent with their policies and practices.
+				Any marketing emails on behalf of a Race or directly from the Event Organization should provide you with an option for you to opt out of receiving future marketing emails.
+				If you would like to opt out or would like other information about the use of your information by the Event Organization, please contact your Event Organization.
+			</p>
+
+			<h3>Sharing Your Information With Third Parties</h3>
+			<p>
+				We do not sell, trade, or otherwise transfer to outside parties your personal information, except to your Event Organization (as noted above, your Event Organization may elect to share such information with timers and others) and as otherwise described in this Privacy Policy.
+				Without providing notice to you, we may disclose your personal information to website hosting partners, affiliates, service providers, contractors and other parties who assist or support us in: (i) operating our Site and providing our Services (including where we “outsource” the hosting of the Site to a trusted third party contractor); and (ii) conducting our business in connection with the provision of Services to you (such as payment processing and data storage), or in otherwise servicing you.
+				Also, without providing notice to you, we may contract with trusted third parties to provide complementary products or services which are integrated or interfaced with our Site (for example, we may share your IP address with your Event Organizer which may, in turn, utilize a third party application to post information regarding a future Race on your browser via your IP address) and such third parties may require access to your personal information in order to effectively provide the complementary products or services to you.
+				In all cases, the parties described above will be required to agree to only use your personal information for purposes of performing the tasks described above and to keep your personal information confidential under obligations similar to those in this Privacy Policy.
+			</p>
+			<p>
+				In addition to the above and without providing notice to you, in the event of a sale or other change of control of our company, the terms, rights and practices described in this Privacy Policy would be transferred to the new owner.
+				we may provide your personal information to the purchaser so that you may continue the relationship or business with our products and us.
+			</p>
+			<p>
+				We may also release your personal information (without notice to you) when we believe release is appropriate to comply with the law, enforce our Site policies, or protect ours or others’ rights, property, or safety, including in the event that we utilize a trusted third party to assist our investigation into the fraudulent or other improper use of our Site.
+			</p>
+			<h3>Data Security</h3>
+			<p>
+				Our goal is to protect the personally identifiable information that you provide to us in the course of your use of our Services.
+				We have put in place appropriate physical, administrative and technical procedures that are reasonably designed to safeguard and secure the information we collect online.
+				Security safeguards utilized at applicable stages during the collection, transmission and storage of personally identifiable information include data encryption, firewalls, data use and access limitations and physical access controls.
+				However, despite our diligent efforts, no commercial method of information transfer over the Internet or electronic data storage is 100% secure and we cannot guarantee such absolute security.
+			</p>
+
+			<h3>De-personalized Data</h3>
+			<p>
+				We may aggregate certain information we maintain with information about other individuals in a manner that does not disclose personal information specific to an individual and/or we may remove characteristics that would otherwise be personally identifying.
+				In either case, we are de-personalizing the information.
+				We shall be free to utilize all de-personalized information in any way (including providing such information to other parties for marketing, advertising or other uses) and, unless otherwise required by law, de-personalized information shall not be bound by the terms of this Privacy Policy.
+				As always, RunSignUp will comply with all applicable laws and governing regulations in the collection, use and disclosure of personally identifiable information.
+			</p>
+
+			<h3>Links to Third Party Sites</h3>
+			<p>
+				In an attempt to provide you with increased value, we may include third party links on our Site.
+				These linked sites have separate and independent privacy policies.
+				We do not control and, therefore, have no responsibility or liability for the content and practices of these linked sites.
+				Nonetheless, we welcome any feedback about these linked sites (including if a specific link does not work).
+			</p>
+
+			<h3>Our Commitment to Children's Privacy</h3>
+			<p>
+				Our Site and Services are a general audience website and are not specifically directed for use by children under the age of 13.
+				However we recognize that children may be eligible to participate in events listed on our site and protecting the privacy of the very young is important.
+				For that reason, we do not knowingly allow anyone under the age of 18 to register for an Event or create a Profile on our Site.
+				Only parents or guardians may register for a race or create a Profile for children under the age of 18.
+				As part of the registration process we ask the individual registering a participant for an event to confirm they are the parent or guardian of any registrants under the age of 18 and that they have consented to the collection of information for registrants under the age of 13.
+			</p>
+			<p>
+				Please see the paragraphs titled “<b>The Information We Collect</b>” and “<b>The Way We Use Information</b>” to understand what information we collect and how it is used.
+			</p>
+			<p>
+				We will not intentionally communicate directly with children under the age of 13.
+				When there is a need to communicate with children under the age of 13 for the acceptable purposes under this policy (for instance to confirm a race registration) we will use the email address of the parent, guardian or adult who has created the Profile or registered the child for a race.
+				Additionally whenever a child’s name appears in a public place on our site (for instance with their race results) the name will be truncated to first initial and last name and will not be shown with other identifying information like their street address.
+			</p>
+			<p>
+				Additionally, the Event Organization may elect to take photos or videos of participants in their Races that may include children under the age of 13 who are participating in the Race.
+				If so, we will inform the Event Organization that only parents, guardians or adults (and not any child under the age of 13) are authorized to upload such photos to our Site.
+				Please check with your Event Organization if you have any questions regarding their policies or practices regarding this topic.
+			</p>
+
+			<h3>How You Can Access or Correct Your Information</h3>
+			<p>
+				You can access all your Personal Information that we collect online and maintain it, update it or correct it by Editing Your Profile after signing in.
+				We use this procedure to better safeguard your information.
+				If you have any questions regarding your attempts to correct or update your information, please contact us at <script type="text/javascript" language="javascript">
+<!--
+{document.write(String.fromCharCode(60,97,32,104,114,101,102,61,34,109,97,105,108,116,111,58,105,110,102,111,64,114,117,110,115,105,103,110,117,112,46,99,111,109,34,32,62,105,110,102,111,64,114,117,110,115,105,103,110,117,112,46,99,111,109,60,47,97,62))}
+//-->
+</script><a href="mailto:info@runsignup.com">info@runsignup.com</a>
+.
+				You may not update your Profile with the Personal Information of another person to “transfer” your Profile or a registration to a Race.
+			</p>
+
+			<h3>Event Directors</h3>
+			<p>
+				Race owners who use our Services enter into an agreement with us under which they agree that they will not resell or use your personal information for any purposes other than those described in this Privacy Policy, which includes the facilitation and administration of your Race.
+				By way of example, the Race owner may use your name in connection with the administration and support of the Race and to market and promote the Race as well as future events sponsored by such owner.
+			</p>
+
+			<h3>Use By Non-US Residents</h3>
+			<p>
+				The Site is operated in the United States under United States law.
+				We do not intentionally offer goods and services to individuals outside of the United States.
+				If you reside in another country, please be aware that any information you provide to us will be collected and stored in the United States or other countries that may have data privacy laws that are less protective than the laws where you reside.
+			</p>
+
+			<h3>Change to the Privacy Policy</h3>
+			<p>
+				This privacy policy is effective as of 07/02/2018.
+				We reserve the right to update or change our policy at any time and you should check this Privacy Policy periodically for any change.
+				Your continued use of the Site or the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgement of the modifications and your consent to abide and be bound by the modified Privacy Policy.
+			</p>
+
+			<h3>How to Contact Us</h3>
+			<p>
+				Should you have other questions or concerns about these privacy policies, please email us at <script type="text/javascript" language="javascript">
+<!--
+{document.write(String.fromCharCode(60,97,32,104,114,101,102,61,34,109,97,105,108,116,111,58,105,110,102,111,64,114,117,110,115,105,103,110,117,112,46,99,111,109,34,32,62,105,110,102,111,64,114,117,110,115,105,103,110,117,112,46,99,111,109,60,47,97,62))}
+//-->
+</script><a href="mailto:info@runsignup.com">info@runsignup.com</a>
+.
+			</p>
+		</div>
+	</div>
+</div>					</div>
+
+				
+<section class="py-5 bg-light noPrint">
+	<div class="container">
+		<div class="row slider customer-logos slick-slider">
+							<div class="slick-slide col-md-3 col-sm-6">
+					<a href="https://vacationraces.com/" target="_blank" rel="noopener noreferrer">
+						<img src="https://d368g9lw5ileu7.cloudfront.net/img/frontend2018/logos/vacationRaces.bAwne6.png" class="img-fluid d-block mx-auto" title="Vacation Races" alt="Vacation Races">
+					</a>
+				</div>
+							<div class="slick-slide col-md-3 col-sm-6">
+					<a href="https://www.fleetfeetsports.com/" target="_blank" rel="noopener noreferrer">
+						<img src="https://d368g9lw5ileu7.cloudfront.net/img/frontend2018/logos/fleetFeet.bAwne6.png" class="img-fluid d-block mx-auto" title="Fleet Feet Sports" alt="Fleet Feet Sports">
+					</a>
+				</div>
+							<div class="slick-slide col-md-3 col-sm-6">
+					<a href="http://www.thegreatpumpkinrun.com/" target="_blank" rel="noopener noreferrer">
+						<img src="https://d368g9lw5ileu7.cloudfront.net/img/frontend2018/logos/greatPumpkinRunLogo.bAwne6.png" class="img-fluid d-block mx-auto" title="The Great Pumpkin Run" alt="The Great Pumpkin Run">
+					</a>
+				</div>
+							<div class="slick-slide col-md-3 col-sm-6">
+					<a href="https://www.columbusrunning.com/" target="_blank" rel="noopener noreferrer">
+						<img src="https://d368g9lw5ileu7.cloudfront.net/img/frontend2018/logos/crc.bAwne6.png" class="img-fluid d-block mx-auto" title="Columbus Running Company" alt="Columbus Running Company">
+					</a>
+				</div>
+							<div class="slick-slide col-md-3 col-sm-6">
+					<a href="https://crim.org/races-events/crim/" target="_blank" rel="noopener noreferrer">
+						<img src="https://d368g9lw5ileu7.cloudfront.net/img/frontend2018/logos/crimLogo.bAwne6.png" class="img-fluid d-block mx-auto" title="Crim Festival of Races" alt="Crim Festival of Races">
+					</a>
+				</div>
+							<div class="slick-slide col-md-3 col-sm-6">
+					<a href="https://www.mercedesmarathon.com/" target="_blank" rel="noopener noreferrer">
+						<img src="https://d368g9lw5ileu7.cloudfront.net/img/frontend2018/logos/mercedesBenz.bAwne6.png" class="img-fluid d-block mx-auto" title="Mercedes Marathon" alt="Mercedes Marathon">
+					</a>
+				</div>
+							<div class="slick-slide col-md-3 col-sm-6">
+					<a href="http://leonetiming.com/" target="_blank" rel="noopener noreferrer">
+						<img src="https://d368g9lw5ileu7.cloudfront.net/img/frontend2018/logos/leoneTiming.bAwne6.png" class="img-fluid d-block mx-auto" title="Leone Timing" alt="Leone Timing">
+					</a>
+				</div>
+							<div class="slick-slide col-md-3 col-sm-6">
+					<a href="http://www.spacecoastmarathon.com/" target="_blank" rel="noopener noreferrer">
+						<img src="https://d368g9lw5ileu7.cloudfront.net/img/frontend2018/logos/spaceCoast.bAwne6.png" class="img-fluid d-block mx-auto" title="Space Coast Marathon &amp; Half Marathon" alt="Space Coast Marathon &amp; Half Marathon">
+					</a>
+				</div>
+							<div class="slick-slide col-md-3 col-sm-6">
+					<a href="https://competitivetiming.com/" target="_blank" rel="noopener noreferrer">
+						<img src="https://d368g9lw5ileu7.cloudfront.net/img/frontend2018/logos/competitiveTimingLogo.bAwne6.png" class="img-fluid d-block mx-auto" title="Competitive Timing" alt="Competitive Timing">
+					</a>
+				</div>
+							<div class="slick-slide col-md-3 col-sm-6">
+					<a href="http://www.bayshoremarathon.org/" target="_blank" rel="noopener noreferrer">
+						<img src="https://d368g9lw5ileu7.cloudfront.net/img/frontend2018/logos/bayshoreMarathon.bAwne6.png" class="img-fluid d-block mx-auto" title="Bayshore Marathon" alt="Bayshore Marathon">
+					</a>
+				</div>
+							<div class="slick-slide col-md-3 col-sm-6">
+					<a href="http://www.hitekracing.com/" target="_blank" rel="noopener noreferrer">
+						<img src="https://d368g9lw5ileu7.cloudfront.net/img/frontend2018/logos/hiTek.bAwne6.png" class="img-fluid d-block mx-auto" title="HI-TEK Racing" alt="HI-TEK Racing">
+					</a>
+				</div>
+							<div class="slick-slide col-md-3 col-sm-6">
+					<a href="https://nightnationrun.com/" target="_blank" rel="noopener noreferrer">
+						<img src="https://d368g9lw5ileu7.cloudfront.net/img/frontend2018/logos/nnr.bAwne6.png" class="img-fluid d-block mx-auto" title="Night Nation Run" alt="Night Nation Run">
+					</a>
+				</div>
+							<div class="slick-slide col-md-3 col-sm-6">
+					<a href="https://fifththirdriverbankrun.rsupartner.com/" target="_blank" rel="noopener noreferrer">
+						<img src="https://d368g9lw5ileu7.cloudfront.net/img/frontend2018/logos/fifththirdriverbankrun.bAwne6.png" class="img-fluid d-block mx-auto" title="Fifth Third River Bank Run" alt="Fifth Third River Bank Run">
+					</a>
+				</div>
+							<div class="slick-slide col-md-3 col-sm-6">
+					<a href="http://www.kcrunningcompany.com/" target="_blank" rel="noopener noreferrer">
+						<img src="https://d368g9lw5ileu7.cloudfront.net/img/frontend2018/logos/kcRunningCo.bAwne6.png" class="img-fluid d-block mx-auto" title="KC Running Company" alt="KC Running Company">
+					</a>
+				</div>
+							<div class="slick-slide col-md-3 col-sm-6">
+					<a href="http://www.ktc.org/" target="_blank" rel="noopener noreferrer">
+						<img src="https://d368g9lw5ileu7.cloudfront.net/img/frontend2018/logos/knoxville.bAwne6.png" class="img-fluid d-block mx-auto" title="Knoxville Track Club" alt="Knoxville Track Club">
+					</a>
+				</div>
+							<div class="slick-slide col-md-3 col-sm-6">
+					<a href="https://semperfifund.org/" target="_blank" rel="noopener noreferrer">
+						<img src="https://d368g9lw5ileu7.cloudfront.net/img/frontend2018/logos/sff.bAwne6.png" class="img-fluid d-block mx-auto" title="Semper Fi Fund" alt="Semper Fi Fund">
+					</a>
+				</div>
+							<div class="slick-slide col-md-3 col-sm-6">
+					<a href="https://dqevents.com/" target="_blank" rel="noopener noreferrer">
+						<img src="https://d368g9lw5ileu7.cloudfront.net/img/frontend2018/logos/dqevents.bAwne6.png" class="img-fluid d-block mx-auto" title="DQ Events" alt="DQ Events">
+					</a>
+				</div>
+							<div class="slick-slide col-md-3 col-sm-6">
+					<a href="https://derbyfestivalmarathon.com/" target="_blank" rel="noopener noreferrer">
+						<img src="https://d368g9lw5ileu7.cloudfront.net/img/frontend2018/logos/derbyMarathon.bAwne6.png" class="img-fluid d-block mx-auto" title="Derby Festival Marathon" alt="Derby Festival Marathon">
+					</a>
+				</div>
+							<div class="slick-slide col-md-3 col-sm-6">
+					<a href="https://komenphiladelphia.org/" target="_blank" rel="noopener noreferrer">
+						<img src="https://d368g9lw5ileu7.cloudfront.net/img/frontend2018/logos/komenPhilly.bAwne6.png" class="img-fluid d-block mx-auto" title="Susan G. Komen Philadelphia" alt="Susan G. Komen Philadelphia">
+					</a>
+				</div>
+							<div class="slick-slide col-md-3 col-sm-6">
+					<a href="http://www.boilermaker.com/" target="_blank" rel="noopener noreferrer">
+						<img src="https://d368g9lw5ileu7.cloudfront.net/img/frontend2018/logos/boilermakerLogo.bAwne6.png" class="img-fluid d-block mx-auto" title="Boilermaker" alt="Boilermaker">
+					</a>
+				</div>
+							<div class="slick-slide col-md-3 col-sm-6">
+					<a href="http://www.springlake5.org/" target="_blank" rel="noopener noreferrer">
+						<img src="https://d368g9lw5ileu7.cloudfront.net/img/frontend2018/logos/springLake.bAwne6.png" class="img-fluid d-block mx-auto" title="The Spring Lake Five Mile Run" alt="The Spring Lake Five Mile Run">
+					</a>
+				</div>
+							<div class="slick-slide col-md-3 col-sm-6">
+					<a href="http://svturkeytrot.com/" target="_blank" rel="noopener noreferrer">
+						<img src="https://d368g9lw5ileu7.cloudfront.net/img/frontend2018/logos/svtt.bAwne6.png" class="img-fluid d-block mx-auto" title="Silicon Valley Turkey Trot" alt="Silicon Valley Turkey Trot">
+					</a>
+				</div>
+							<div class="slick-slide col-md-3 col-sm-6">
+					<a href="https://philadelphiamarathon.com/" target="_blank" rel="noopener noreferrer">
+						<img src="https://d368g9lw5ileu7.cloudfront.net/img/frontend2018/logos/philadelphiaMarathon.bAwne6.png" class="img-fluid d-block mx-auto" title="Philadelphia Marathon" alt="Philadelphia Marathon">
+					</a>
+				</div>
+							<div class="slick-slide col-md-3 col-sm-6">
+					<a href="http://www.racedayevents.com/" target="_blank" rel="noopener noreferrer">
+						<img src="https://d368g9lw5ileu7.cloudfront.net/img/frontend2018/logos/rde.bBBEui.png" class="img-fluid d-block mx-auto" title="Race Day Events" alt="Race Day Events">
+					</a>
+				</div>
+							<div class="slick-slide col-md-3 col-sm-6">
+					<a href="http://www.kpcorporaterunwalk.com/" target="_blank" rel="noopener noreferrer">
+						<img src="https://d368g9lw5ileu7.cloudfront.net/img/frontend2018/logos/kaiserPermanente.bAwne6.png" class="img-fluid d-block mx-auto" title="Kaiser Permanente Corporate Run/Walk" alt="Kaiser Permanente Corporate Run/Walk">
+					</a>
+				</div>
+							<div class="slick-slide col-md-3 col-sm-6">
+					<a href="https://www.vtsmts.com/" target="_blank" rel="noopener noreferrer">
+						<img src="https://d368g9lw5ileu7.cloudfront.net/img/frontend2018/logos/vts.bAwne6.png" class="img-fluid d-block mx-auto" title="Virginia Maryland Triathlon Series" alt="Virginia Maryland Triathlon Series">
+					</a>
+				</div>
+							<div class="slick-slide col-md-3 col-sm-6">
+					<a href="http://womensrun.org/" target="_blank" rel="noopener noreferrer">
+						<img src="https://d368g9lw5ileu7.cloudfront.net/img/frontend2018/logos/montanaWomensRun.bAwne6.png" class="img-fluid d-block mx-auto" title="Montana Women’s Run" alt="Montana Women’s Run">
+					</a>
+				</div>
+							<div class="slick-slide col-md-3 col-sm-6">
+					<a href="https://www.mcguiresirishpub.com/event.php?id=378" target="_blank" rel="noopener noreferrer">
+						<img src="https://d368g9lw5ileu7.cloudfront.net/img/frontend2018/logos/mcguires.bAwne6.png" class="img-fluid d-block mx-auto" title="McGuire’s Irish Pub" alt="McGuire’s Irish Pub">
+					</a>
+				</div>
+							<div class="slick-slide col-md-3 col-sm-6">
+					<a href="http://www.healthykidsrunningseries.org/" target="_blank" rel="noopener noreferrer">
+						<img src="https://d368g9lw5ileu7.cloudfront.net/img/frontend2018/logos/hkrs.bAwne6.png" class="img-fluid d-block mx-auto" title="Healthy Kids Running Series" alt="Healthy Kids Running Series">
+					</a>
+				</div>
+					</div>
+	</div>
+</section>
+
+<footer class="text-center bg-dark">
+	<div class="container">
+		<div class="row py-5">
+			<div class="col-lg-12">
+				<a class="logo icon icon-rsu-logo footer-logo" href="/" title="RunSignUp"></a>
+				<ul class="list-inline social-buttons my-3 noPrint">
+					<li class="list-inline-item">
+						<a href="https://twitter.com/ronsynup" target="_blank" rel="noopener noreferrer">
+							<span class="icon icon-twitter" aria-hidden="true" title="Twitter"></span>
+						</a>
+					</li>
+					<li class="list-inline-item">
+						<a href="https://www.facebook.com/runsignup/" target="_blank" rel="noopener noreferrer">
+							<span class="icon icon-facebook" aria-hidden="true" title="Facebook"></span>
+						</a>
+					</li>
+					<li class="list-inline-item">
+						<a href="https://www.linkedin.com/company/runsignup-com/" target="_blank" rel="noopener noreferrer">
+							<span class="icon icon-linkedin" aria-hidden="true" title="LinkedIn"></span>
+						</a>
+					</li>
+				</ul>
+				<ul class="list-inline quicklinks">
+					<li class="list-inline-item">
+						<a href="/About-Us/Privacy-Policy">Privacy Policy</a>
+					</li>
+					<li class="text-light list-inline-item"> | </li>
+					<li class="list-inline-item">
+						<a href="/About-Us/Legal#trademark">Trademark &amp; Copyright Infringement</a>
+					</li>
+				</ul>
+				<span class="copyright text-light">Copyright © RunSignUp Inc., 2018</span>
+			</div>
+		</div>
+	</div>
+</footer>
+
+
+
+
+	
+
+	<script type="text/javascript">//<![CDATA[
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		
+
+	ga('create', "UA-29002527-1", 'auto', 'rsu', {allowLinker: true});
+
+	
+		
+
+	
+	ga('rsu.require', 'linker');
+ga('rsu.send', 'pageview');	
+
+//]]></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta.3/js/bootstrap.bundle.min.js" integrity="sha256-DdAPqg2z9zRJwrQNtUogZNAYGhuPmF9SMo2wwchom1s=" crossorigin="anonymous"></script>
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js" integrity="sha256-H3cjtrm/ztDeuhCN9I4yh4iN2Ybx/y1RM7rMmAesA0k=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/scrollReveal.js/3.3.6/scrollreveal.min.js" integrity="sha256-SDKDHU0lE3Q1tYhe8x3nqrEl15dwjAM3sEIP0G50RBc=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha256-DHF4zGyjT7GOMPBwpeehwoey18z8uiz98G4PRu2lV0A=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/owl.carousel.min.js" integrity="sha256-s5TTOyp+xlSmsDfr/aZhg0Gz+JejYr5iTJI8JxG1SkM=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js" integrity="sha256-jDnOKIOq2KNsQZTcBTEnsp76FnfMEttF6AV2DF2fFNE=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js" integrity="sha256-P93G0oq6PBPWTP1IR8Mz/0jHHUpaWL0aBJTKauisG7Q=" crossorigin="anonymous"></script>
+
+<script type="text/javascript" src="https://d368g9lw5ileu7.cloudfront.net/js/frontend2018.min.bBh9RM.js"></script>
+<script type="text/javascript" src="https://d368g9lw5ileu7.cloudfront.net/js/frontend.min.bBKsv9.js"></script>
+
+	<script type="text/javascript">
+		
+			var _ss = _ss || [];
+			_ss.push(['_setDomain', 'https://koi-3QMU9P3SZ0.marketingautomation.services/net']);
+			_ss.push(['_setAccount', 'KOI-26STQA17M']);
+			_ss.push(['_trackPageView']);
+			(function() {
+				var ss = document.createElement('script');
+				ss.type = 'text/javascript';
+				ss.async = true;
+				ss.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'koi-3QMU9P3SZ0.marketingautomation.services/client/ss.js?ver=1.1.1';
+				var scr = document.getElementsByTagName('script')[0];
+				scr.parentNode.insertBefore(ss, scr);
+			})();
+		
+	</script>
+
+	
+		<script type="text/javascript">
+(function () {
+adroll_adv_id = "K6ZZMQU75ZFSNPOJWKRPKD";
+adroll_pix_id = "EFBZCVT4NVH3XPXQYT73HI";
+var _onload = function(){
+if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+var scr = document.createElement("script");
+var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+scr.setAttribute('async', 'true');
+scr.type = "text/javascript";
+scr.src = host + "/j/roundtrip.js";
+((document.getElementsByTagName('head') || [null])[0] ||
+document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+};
+if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+else {window.attachEvent('onload', _onload)}
+}());
+</script>
+	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"828ac3b705","applicationID":"788584","transactionName":"ZlBRN0tTVkFXUkBZXl8acBZKRldfGVBWX0RFGEYQFkJKW0BQV0kcQVpfClpL","queueTime":5,"applicationTime":22,"atts":"ShdSQQNJRU8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+</body></html>
