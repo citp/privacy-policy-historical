@@ -1,91 +1,56 @@
-> *The following text is extracted and transformed from the gamesfree.ca privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202081436id_/http%3A//www.gamesfree.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesfree.ca privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906072543id_/https%3A//www.gamesfree.ca/privacy.php) for the most accurate reproduction.*
 
-# GamesFree.ca
+# GamesFree.ca - OFFICAL WEBSITE - Privacy Policy
 
-## Privacy Policy
+Games Media  
+---  
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.  
+**What personal information do we collect from the people that visit our blog, website or app?**  
+We do not collect information from visitors of our site.  
+Location or other details to help you with your experience.  
+**When do we collect information?**  
+We collect information from you when you register on our site, subscribe to a newsletter or enter information on our site.  
+Facebook Connect   
+**How do we use your information?**  
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:  
+• To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.  
+• To improve our website in order to better serve you.  
+• To allow us to better service you in responding to your customer service requests.  
+**How do we protect your information?**  
+We do not use vulnerability scanning and/or scanning to PCI standards.  
+We only provide articles and information. We never ask for credit card numbers.  
+We do not use Malware Scanning.
 
-This Privacy Policy applies to Mediameg website located at www.GamesFree.ca("Site"). This notice describes only our online information collection and use practices at this Site; it doesn't apply to information we collect about you offline (such as over the phone) or in different situations (such as through email correspondence). 
+We do not use an SSL certificate  
+• We only provide articles and information. We never ask for personal or private information like names, email addresses, or credit card numbers.  
+  
+Do we use 'cookies'?  
+We do not use cookies for tracking purposes  
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies.  
+If you turn cookies off, some features will be disabled. that make your site experience more efficient and may not function properly.  
+However, you will still be able to place orders.  
+**Third-party disclosure**  
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it's release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property or safety.  
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.   
+**Third-party links**  
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.  
+**Google**  
+Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en  
+We use Google AdSense Advertising on our website.  
+Google, as a third-party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.   
+**We have implemented the following:**  
+• Google Display Network Impression Reporting  
+• DoubleClick Platform Integration  
+We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.  
+**Opting out: Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.**  
+**COPPA (Children Online Privacy Protection Act)**  
+**When it comes to the collection of personal information from children under the age of 13 years old, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States' consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.**  
+**We do not specifically market to children under the age of 13 years old.**  
+**Fair Information Practices**  
+**The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.**  
+**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:  
+We will notify you via email  
+• Within 7 business days**  
+**We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.**  
+  
 
-This privacy policy is effective as of August 1, 2008. In the future, our Site or our practices may change, and if appropriate, we will revise this Privacy Policy to reflect the changes. We'll post the updated version here, and we'll notify you if we think the changes will significantly impact the treatment of information you have already provided. 
-
-**Information We Collect**
-
-Information You Provide: You provide certain personally identifiable information (such as your name and email address) to MediaMeg when choosing to participate in various activities on the Site such as chat, posting messages in the games comment section or in our forums, sending feedback, or subscribing to newsletters or other mailing lists. 
-
-You may choose to disclose information about yourself in our online chat rooms, forums, game comments or in creating user "profiles". Information that you disclose in these areas is public information, and will be accessible to anyone who uses our Site. However, you may choose to have your profile page be public or private. 
-
-Other Information We Track: This Site uses passive tracking technologies to log non-identifiable information such as IP address, browser type and Site usage (for example: what pages are accessed, how often, referring/exit pages and URLs). We may also employ "cookies" or similar technologies that provide additional functionality to the Site and help us analyze Site usage more accurately. You can set your browser to reject cookies, but if you do, some features on our Site will not function normally. 
-
-Invite a Friend: You may invite friends to join the gamesFree.ca community by using the "invite a friend" feature. You will be required to submit your name and email address, as well as their name and email address. Your friend's personal information that you submit in this feature will be used only to send the email you request, and will not be stored or maintained by MediaMeg. 
-
-**How We Use This Information**
-
-We use both your personally identifiable information and certain non-personally identifiable site usage data to improve the quality and design of the Site and to create new features, promotions, and services by storing, tracking, and analyzing user preferences and trends. 
-
-We may also combine the information you submit to us with information we have collected from you in other forums, such as through emails or offline, or with publicly available information or information we obtain from third parties. 
-
-**When We Might Disclose Information**
-
-As part of our regular business conduct, we may share information with companies or individuals providing services or acting on our behalf, such as companies providing technological or fulfillment services. In the event that there is a change of corporate ownership, the new owners will of course be provided with our files, including information you have submitted. We will also share information with government officials, including law enforcement officials or court authorities, in order to cooperate with a legitimate investigation. 
-
-Unless we tell you first (such as at the time we collect information from you), or unless it is part of a specific program or feature in which you have elected to participate, we do not share personally identifiable information that we have collected (such as name or email address) with other, third-party companies for their own commercial or marketing purposes. 
-
-**Links and Third Parties**
-
-From time to time we may include at the Site links to other websites as a service to you. The third party sites are operated by companies that are outside of our control, and your activities at those sites will be governed by the policies and practices of those third parties. We encourage you to review the privacy practices of these third parties before disclosing any personally identifiable information, as we are not responsible for the privacy practices of those sites. 
-
-We sometimes work with third parties to add features or advertisements to our Site. These third parties may place cookies on your browser when you visit certain pages of our Site, or collect cookies that they have previously placed, along with the URL of the page you visited. We do not control those third parties or their use of data. In some cases we may provide tools for you to limit data sent to third parties. This privacy policy does not cover those third parties’ use of data. 
-
-**Security**
-
-We use standard and reasonable technological and procedural measures to protect the information you provide. We urge you to protect your password by not sharing it with anyone else, and to take measures to prevent it from unauthorized access or disclosure. For example, select number and letter combinations that would be difficult for a third party (or hacking program) to determine, and do not write down your password next to your computer. To learn more about how to protect yourself online, we encourage you to visit the government's website at [_www.onguardonline.gov_](http://www.onguardonline.gov/). 
-
-**Your Options**
-
-If you do not agree with the privacy practices described in this Privacy Policy, it may be best to limit your level of interaction with our Site, which could include simply not providing us with personal information. While this will limit the services that our Site is able to provide (chat, friends lists, etc.), most of the games will remain playable. This option may be best for those who do not wish to provide the mandatory information required to set up an account. 
-
-For questions or concerns regarding the use of personal information you submit to us, please contact us at info (at) gamesfree (dot) ca
-
-| 
-
-[](http://twitter.com/Gamesfree_ca)
-
-[](http://apps.facebook.com/gamesfree)
-
-[](http://www.gamesgirl.ca/)
-
-23010 Hits
-
-20661 Hits
-
-19940 Hits
-
-17943 Hits
-
-17248 Hits
-
-16081 Hits
-
-13185 Hits
-
-12837 Hits
-
-12735 Hits
-
-11914 Hits
-
-11482 Hits
-
-11438 Hits
-
-10263 Hits
-
-9957 Hits
-
-9893 Hits
-
-9818 Hits
-
-9352 Hits
-
-8129 Hits
