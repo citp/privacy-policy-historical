@@ -1,15 +1,18 @@
-> *The following text is extracted and transformed from the whitespark.ca privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910125527id_/https%3A//whitespark.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitespark.ca privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906031142id_/https%3A//whitespark.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Whitespark
 
 We love our customers, and their privacy is extremely important to us.
 
-### In a nutshell
+## In a nutshell
 
   * We don’t require any personal information that we don’t actually need.
+  * We only keep your personal information for as long as we need it.
   * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
   * We don’t store personal information on our servers unless required for the on-going operation of one of our services.
   * We don’t store credit card information on our servers.
+  * You may opt-out of collection, or request the removal of your personal information from our systems.
+  * You may request a copy of all your personal information we have stored.
 
 
 
@@ -21,7 +24,7 @@ Whitespark also collects potentially personally-identifying information like Int
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to Whitespark’s websites choose to interact with Whitespark in ways that require Whitespark to gather personally-identifying information. The amount and type of information that Whitespark gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a Whitespark account to provide a username and email address. Those who engage in transactions with Whitespark – by purchasing a Subscription or Service – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Whitespark collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Whitespark. Whitespark does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to Whitespark’s websites choose to interact with Whitespark in ways that require Whitespark to gather personally-identifying information. The amount and type of information that Whitespark gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a Whitespark account to provide a username and email address. Those who engage in transactions with Whitespark – by purchasing a Subscription or Service – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Whitespark collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Whitespark. Whitespark does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ### Aggregated Statistics
 
@@ -31,9 +34,35 @@ Whitespark may collect statistics about the behavior of visitors to its websites
 
 Whitespark discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Whitespark’s behalf or to provide services available at Whitespark’s website, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Whitespark’s website, you consent to the transfer of such information to them. Whitespark will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Whitespark discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Whitespark believes in good faith that disclosure is reasonably necessary to protect the property or rights of Whitespark, third parties or the public at large. If you are a registered user of the Whitespark website and have supplied your email address, Whitespark may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Whitespark and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Whitespark takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
+### Opting Out
+
+You can ask us to stop sending emails at any time or by following the unsubscribe links in any email message sent to you, or by contacting us.
+
+### Retention
+
+We will keep your personal data only as long as needed to fulfill the purposes we collected it for. We may keep basic information such as contact and billing information in order to make it easier for customers to make new or repeat orders.
+
+### Your rights
+
+You have various rights in relation to your personal data:
+
+  * You may request access to your personal data.
+  * You may request corrections of your personal data.
+  * You may request deletion of your personal data.
+  * You may decline the processing of your personal data.
+  * You may request restrictions related to processing of your personal data.
+  * You may request transfer of your personal data.
+  * You have the right to withdraw consent.
+
+
+
+There is no fee to access your personal data, or to exercise any of the other rights listed above. However we may charge a fee if the request is obviously unfounded or excessive. We reserve the right to refuse the request in those cases.
+
+We will try to respond to all legitimate requests within 30 days. It may take us longer if your request is complex or you have made a number of requests. In that case, we will contact you and notify you of updates.
+
 ### Data Storage & Security
 
-All data is stored at state-of-the-art data [Liquid Web Data Center facilities](https://www.liquidweb.com/data-centers/). All data centers are manned 24/7/365 by onsite, highly trained Heroic Support® technicians, have CCTV security cameras covering inside, outside, and all entrances to the facilities. Site entrances are controlled by electronic perimeter access cards, they are remotely monitored by a third party security company, are SSAE-16 & HIPAA compliant and Safe Harbor Certified. These data centers also feature numerous  geographic zones for added redundancy, as well as the ability to team with their US-West region to provide true Geographic Redundancy in multiple disaster-neutral US locations.
+All data is stored at state-of-the-art data [Liquid Web Data Center facilities](https://www.liquidweb.com/data-centers/). All data centers are manned 24/7/365 by onsite, highly trained Heroic Support® technicians, have CCTV security cameras covering inside, outside, and all entrances to the facilities. Site entrances are controlled by electronic perimeter access cards, they are remotely monitored by a third party security company, are SSAE-16 & HIPAA compliant and Safe Harbor Certified. These data centers also feature numerous geographic zones for added redundancy, as well as the ability to team with their US-West region to provide true Geographic Redundancy in multiple disaster-neutral US locations.
 
 ### Cookies
 
