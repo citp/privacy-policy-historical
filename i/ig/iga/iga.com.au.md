@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iga.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313064311id_/https%3A//www.iga.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iga.com.au privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906034311id_/https%3A//www.iga.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy | IGA Supermarkets
 
@@ -103,6 +103,6 @@ If you have any questions about this Privacy Policy, if you wish to update infor
 
 Metcash Limited 1 Thomas Holt Drive  
 Macquarie Park NSW 2113 Fax: (02) 9741 3027  
-E-mail: [privacy@metcash.com](mailto:privacy@metcash.com)  
+E-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d0a0a2b9a6b1b3a990bdb5a4b3b1a3b8feb3bfbd)  
 Metcash will take reasonable steps to remedy any issues resulting from our failure to comply with our privacy obligations.  
 Last updated January 2014
