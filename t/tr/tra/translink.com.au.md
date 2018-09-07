@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the translink.com.au privacy policy that was archived on 2018-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180317134000id_/https%3A//translink.com.au/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translink.com.au privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907045220id_/https%3A//translink.com.au/legal/privacy) for the most accurate reproduction.*
 
 # Privacy | translink.com.au
 
@@ -118,9 +118,11 @@ The TransLink website uses cookies for the [journey planner](http://jp.translink
 
 The website contains links to non-Department of Transport and Main Roads websites. The Department of Transport and Main Roads is not responsible for the privacy or security practices or the content of those websites.
 
-### Feedback & enquires
+In your use of any Google Maps maps or map data on the website, you are bound by the [Google Maps/Google Earth Additional Terms of Service](https://www.google.com/intl/en-GB_AU/help/terms_maps.html) and by the [Google Privacy Policy](https://policies.google.com/privacy?hl=en-GB) as amended from time to time.
 
-For general enquiries, [call TransLink on 13 12 30](https://web.archive.org/contact-us) (also available via the [National Relay Service](http://relayservice.gov.au/making-a-call/)).
+### Feedback & enquiries
+
+For general enquiries, [call TransLink on 13 12 30](https://web.archive.org/contact-us) (also available via the [National Relay Service](http://relayservice.gov.au/making-a-call/)).
 
 Or via post at:
 
@@ -155,7 +157,7 @@ Department of Transport and Main Roads 
 GPO Box 1549   
 Brisbane Qld 4001  
 **Email:** | [privacy@tmr.qld.gov.au](mailto:privacy@tmr.qld.gov.au)  
-**Phone:** | 07 3066 7108  
+**Phone:** | 07 3066 7568  
 **Fax:** | 07 3066 7022  
   
-Or you may lodge your complaint or enquiry online through our [online complaints form](https://translink.com.au/contact-us/feedback).
+Or you may lodge your complaint or enquiry online through our [online complaints form](https://web.archive.org/contact-us/feedback).
