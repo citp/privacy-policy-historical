@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garden.org privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709032120id_/https%3A//garden.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garden.org privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907230725id_/https%3A//garden.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Garden.org
 
@@ -36,6 +36,10 @@ A cookie is a string of information that a website stores on a visitor's compute
 ### Ads
 
 Ads appearing on our website may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Garden.org and does not cover the use of cookies by any advertisers.
+
+### Payments
+
+We use Stripe for payment, analytics, and other business services. Stripe collects identifying information about the devices that connect to its services. Stripe uses this information to operate and improve the services it provides to us, including for fraud detection. You can learn more about Stripe and read its privacy policy at https://stripe.com/privacy. 
 
 ### Privacy Policy Changes
 
