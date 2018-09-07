@@ -1,7 +1,11 @@
-<!--The following is the downloaded HTML source of the garden.org privacy policy that was archived on 2017-07-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170709032120id_/https%3A//garden.org/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the garden.org privacy policy that was archived on 2018-09-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180907230725id_/https%3A//garden.org/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
+
+
+
+
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -17,7 +21,7 @@
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
   <![endif]-->
 
-  <link href="/i/c/nga_20170324.css" rel="stylesheet">
+  <link href="/i/c/nga_20170921.css" rel="stylesheet">
   <script type="text/javascript" src="/i/js/colorbox-min.js" defer="defer"></script>
 
   <link rel="search" href="https://garden.org/i/search/opensearch_plants.xml" type="application/opensearchdescription+xml" title="NGA Database search">
@@ -32,6 +36,12 @@
 
 
   $(document).ready(function() {
+
+    // No framing the site, please.
+    if(top!=self) {
+      top.location.replace(document.location);
+    }
+
 
     // Make my boxes all the same height:
     var heights = $(".matchheight").map(function() { return $(this).height(); }).get(),
@@ -79,8 +89,25 @@
     });
 
     // ////////////////////////////////////////////
-
-
+    // Sticky Items in Sidebar:
+    var sidebar_offset = 0;
+    // Line below is to avoid top() if the element doesn't exist for whatever reason.
+    if ($("#sticky_sidebar").length) {
+      sidebar_offset = $("#sticky_sidebar").offset().top + 300;
+      if (sidebar_offset > 1000) { sidebar_offset = sidebar_offset+1200; }
+    }
+    $("#sticky_sidebar").affix({
+      offset: {
+        top: sidebar_offset
+      }
+    });
+    var $body   = $(document.body);
+    var navHeight = $(".navbar").outerHeight(true) + 10;
+    $body.scrollspy({
+      target: "#sticky_sidebar",
+      offset: navHeight
+    });
+    // / Sticky Items in Sidebar:
 
 
   });
@@ -157,8 +184,8 @@
     <div class="navbar-header navbar-right pull-right">
       <ul class="nav pull-left">
         
-      <li class="navbar-text pull-left"><a href="/users/join/">Signup</a></li>
-      <li class="navbar-text pull-left"><a href="/login.php">Login</a></li>
+      <li class="navbar-text pull-left"><a href="/users/join/"><i class="fa fa-user-plus"> </i> Signup</a></li>
+      <li class="navbar-text pull-left"><a href="/login.php"><i class="fa fa-sign-in"> </i> Login</a></li>
 
       </ul>
       <button type="button" data-toggle="collapse" data-target=".navbar-collapse" class="navbar-toggle">
@@ -212,7 +239,6 @@
             <li><a href="/apps/frost-dates/">Frost Dates Lookup</a></li>
             <li><a href="/apps/swap/">Seed Swaps</a></li>
             <li><a href="/lists/">Plant Lists</a></li>
-            <li><a href="/apps/photocontest/">Photo Contests</a></li>
             <li><a href="/nga/calculators/">Gardening Calculators</a></li>
             <li><a href="/greenpages/">Green Pages</a></li>
             <li><a href="/nga/zipzone/">Zone Lookup</a></li>
@@ -225,8 +251,10 @@
             <li><a href="/forums/">Forums</a></li>
             <li><a href="/blogs/">Blogs</a></li>
             <li><a href="/apps/events/">Gardening Calendar of Events</a></li>
-            <li><a href="/apps/ask/">Ask a Question</a></li>
+            <li><a href="/frogs/">Gardening Knowledgebase</a></li> 
+            <li><a href="/frogs/ask/">Ask a Question</a></li>
             <li><a href="/ideas/raffles/">Not-a-Raffle-Raffles</a></li>
+            <li><a href="/apps/photocontest/">Photo Contests</a></li>
           </ul>
         </li>
       </ul>
@@ -239,7 +267,7 @@
 
   <style>
     #row_ngalogo {
-      background-image: url("/pics/2017-05-19/rocklady/74210c.jpg");
+      background-image: url("/pics/2018-06-25/Char/17011a.jpg");
     }
   </style>
 
@@ -251,7 +279,7 @@
 
     </div>
   </div>
-<div class="container-fluid" id="ngabody"><div class="row" style="border-bottom: 1px solid #eee; margin-bottom:10px;">
+<div class="container-fluid" id="ngabody"><div class="row" style="margin-bottom:5px;">
           <div class="col-sm-8">
             <h1 class="page-header">Privacy Policy</h1>
           </div>
@@ -269,8 +297,7 @@
           </div>
           </div><div class="row"><div class="col-sm-12">
 <div class="row">
-  <div class="col-sm-8"><div class="panel panel-default ">
-<div class="panel-body">
+  <div class="col-sm-8"><div class="panel panel-default "><div class="panel-body">
 Your privacy is critically important to us. At Garden.org we have a few fundamental principles:
 <ul>
 <li>We don’t ask you for personal information unless we truly need it.</li>
@@ -294,13 +321,11 @@ Your privacy is critically important to us. At Garden.org we have a few fundamen
 <p>	A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Garden.org uses cookies to help Garden.org identify and track visitors, their usage of Garden.org website, and their website access preferences. Garden.org visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Garden.org's website, with the drawback that certain features of Garden.org's website may not function properly without the aid of cookies.</p>
 <h3>Ads</h3>
 <p>Ads appearing on our website may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Garden.org and does not cover the use of cookies by any advertisers.</p>
-<h3>Privacy Policy Changes</h3>
+<h3>Payments</h3>
+<p>We use Stripe for payment, analytics, and other business services. Stripe collects identifying information about the devices that connect to its services. Stripe uses this information to operate and improve the services it provides to us, including for fraud detection. You can learn more about Stripe and read its privacy policy at https://stripe.com/privacy.
+</p><h3>Privacy Policy Changes</h3>
 <p>	Although most changes are likely to be minor, Garden.org may change its Privacy Policy from time to time, and in Garden.org's sole discretion. Garden.org encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
-</p></div>
-</div></div><div class="col-sm-4"><div class="list-group"><div class="panel panel-default ">
-<div class="panel-heading">More about NGA</div>
-<div class="panel-body"><a class="list-group-item" href="/about/intro/"><i class="fa fa-fw fa-1x fa-info-circle"></i> About the National Gardening Association</a><p><a class="list-group-item" href="/about/staff/"><i class="fa fa-fw fa-1x fa-users"></i> Our Staff</a></p><p><a class="list-group-item" href="/about/sponsors/"><i class="fa fa-fw fa-1x fa-handshake-o"></i> Our Sponsors and Partners</a></p><p><a class="list-group-item" href="/about/advertise/"><i class="fa fa-fw fa-1x fa-eye"></i> Advertising and Sponsorships</a></p><p><a class="list-group-item" href="/about/tos/"><i class="fa fa-fw fa-1x fa-shield"></i> Terms of Service</a></p><p><a class="list-group-item" href="/about/privacy/"><i class="fa fa-fw fa-1x fa-user-secret"></i> Privacy Policy</a></p><p><a class="list-group-item" href="/about/contact/"><i class="fa fa-fw fa-1x fa-envelope"></i> Contact us</a></p><p><a class="list-group-item" href="/about/dmca/"><i class="fa fa-fw fa-1x fa-copyright"></i> Digital Millennium Copyright Act Notice</a></p><p></p></div>
-</div></div></div></div></div></div></div><div id="atpfooter"><div class="container-fluid">
+</p></div></div></div><div class="col-sm-4"><div class="list-group"><div class="panel panel-default "><div class="panel-heading">More about NGA</div><div class="panel-body"><a class="list-group-item" href="/about/intro/"><i class="fa fa-fw fa-1x fa-info-circle"></i> About the National Gardening Association</a><p><a class="list-group-item" href="/about/staff/"><i class="fa fa-fw fa-1x fa-users"></i> Our Staff</a></p><p><a class="list-group-item" href="/about/sponsors/"><i class="fa fa-fw fa-1x fa-handshake-o"></i> Our Sponsors and Corporate Members</a></p><p><a class="list-group-item" href="/about/advertise/"><i class="fa fa-fw fa-1x fa-eye"></i> Advertising and Sponsorships</a></p><p><a class="list-group-item" href="/about/tos/"><i class="fa fa-fw fa-1x fa-shield"></i> Terms of Service</a></p><p><a class="list-group-item" href="/about/privacy/"><i class="fa fa-fw fa-1x fa-user-secret"></i> Privacy Policy</a></p><p><a class="list-group-item" href="/about/contact/"><i class="fa fa-fw fa-1x fa-envelope"></i> Contact us</a></p><p><a class="list-group-item" href="/about/dmca/"><i class="fa fa-fw fa-1x fa-copyright"></i> Digital Millennium Copyright Act Notice</a></p><p></p></div></div></div></div></div></div></div></div><div id="atpfooter"><div class="container-fluid">
           <div class="col-sm-4">
             <a href="/">Garden.org Homepage</a><br>
             <a href="/help/">Help using the site</a><br>
@@ -308,13 +333,14 @@ Your privacy is critically important to us. At Garden.org we have a few fundamen
             <a href="/about/contact/">Contact</a><br>
             <a href="/about/tos/">Terms of Service</a><br>
             <a href="/about/privacy/">Privacy</a><br>
+            <a href="/about/sponsors/">Corporate Sponsors</a><br>
             <a href="/users/memberlist/">Memberlist</a><br>
             <a href="/special/acorns/">Acorns</a><br>
             <a href="/about/links/">Links</a><br>
             <a href="/apps/ask/">Ask a Question</a><br>
             <a href="/newsletter/">Newsletter</a><br>
             
-    <p>© 1972 - 2017 <a href="/">National Gardening Association</a></p><p>
+    <p>© 1972 - 2018 <a href="/">National Gardening Association</a></p><p>
     Times are presented in US Central Standard Time</p><p>
           </p></div>
      <div class="col-sm-2 text-left">
@@ -323,8 +349,8 @@ Your privacy is critically important to us. At Garden.org we have a few fundamen
       <a href="https://www.youtube.com/user/nationalgardening"><i class="fa fa-youtube-square fa-fw fa-2x"></i>Youtube</a><br>
       <a href="https://twitter.com/NatlGardening"><i class="fa fa-twitter-square fa-fw fa-2x"></i>Twitter</a><br>
       <a href="https://www.instagram.com/nationalgardeningassoc/"><i class="fa fa-instagram fa-fw fa-2x"></i>Instagram</a><br>
-    </div><div class="col-sm-6 text-right"><img src="/i/p/nga/nga_300.png" style="width:300px"><p>Today's site banner is by <a href="/users/profile/rocklady/">rocklady</a> and is called "<a href="/thread/go/69049/">Mahonia</a>"</p><p></p></div></div></div><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script><script type="text/javascript" src="/i/js/nga_20170629.js"></script>
+    </div><div class="col-sm-6 text-right"><p>Today's site banner is by <a href="/users/profile/Char/">Char</a> and is called "<a href="/thread/go/95729/">Sweet William</a>"</p><p></p></div></div></div><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script><script type="text/javascript" src="/i/js/nga_20170818.js"></script>
   <script>
     ga('send', 'pageview');
   </script>
-    <div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div></body></html>
+    </body></html>
