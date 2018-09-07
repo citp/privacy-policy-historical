@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theworkbuzz.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522211321id_/https%3A//hiring.careerbuilder.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theworkbuzz.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907234353id_/https%3A//hiring.careerbuilder.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CareerBuilder for Employers
 
