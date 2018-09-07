@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartjobboard.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110035145id_/https%3A//www.smartjobboard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartjobboard.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907052746id_/https%3A//www.smartjobboard.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Smartjobboard
 
