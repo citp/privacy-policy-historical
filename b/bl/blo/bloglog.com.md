@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloglog.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104145id_/http%3A//www.bloglog.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloglog.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907032933id_/http%3A//www.bloglog.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Bloglog
 
