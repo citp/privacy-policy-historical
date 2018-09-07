@@ -1,103 +1,103 @@
-> *The following text is extracted and transformed from the mediatek.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215141133id_/https%3A//www.mediatek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediatek.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907105307id_/https%3A//www.mediatek.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MediaTek
+# MediaTek Privacy Policy | MediaTek
 
-### Policy Overview
+This privacy statement describes the privacy practices of MediaTek and its subsidiaries (collectively, "MediaTek" "we," "our", "us" or the "Company") regarding our collection, use and disclosure of your personal information through our websites, products, services, tools, software, or applications on which we post a direct link to this privacy statement or which is referred to within this privacy statement (collectively the “MediaTek Services”).This privacy statement covers only your personal information collected through the MediaTek Services and not any other method of data collection, use and disclosure, including, without limitation, data collection practices of other services that maintain their own, separate privacy policies. We encourage you to read this privacy statement carefully. 
 
-This privacy policy describes the information that MediaTek and its subsidiaries and affiliates (collectively, "MediaTek" "we," "our", "us" or the "Company") collects about you, how we use and protect this information, and the choices you can make about how we use this information. This policy applies to information, including Personal Information, collected about you by MediaTek in different methods, including via the [MediaTek.com](http://www.mediatek.com/en/) website. 
+### Information that MediaTek Collects
 
-"Personal Information" means any information or set of information that identifies or could be used by or on behalf of MediaTek to identify an individual, such as the individual's name, address, email address, affiliated organization or company name, phone number, employer/profession or other specific types of personal information. Personal Information does not include information that is aggregated, anonymized, or publicly available information that has not been combined with non-public Personal Information. 
+We collect different types of information, including both personal and non-personal information. “Personal information” is information that can be used to individually identify you, including your name, postal or physical address, telephone number, e-mail address, and other information you have provided or is required to carry out a transaction, provide a service or deliver a product. Depending on where you live, Personal Information may also include your real-time location, your device’s Internet Protocol (IP) address or unique device identifier (UDI). We may collect and store information you or others provide in community discussions, chats, and correspondence received through the MediaTek Services or sent to us directly. 
 
-MediaTek respects individual privacy and values the trust of its customers, employees, consumers, business partners and others. 
+Portions of our MediaTek Services may only be accessible if you register. When you register we may ask you to provide a user name and password. We may retain this information to remember you when you log in. This information may be linked to other information that we collect while you are on the MediaTek Services. 
 
-### How MediaTek Collects and Uses Personal Information
+Prospective employees may submit information to apply for employment with us, which may be operated by an authorized vendor. Information collected through such online service may include name, address, telephone and fax numbers, email address, education history, military service, immigration status and employment history or other information. Information provided through this process is subject to the privacy policy of the authorized vendor(s), which you should review before providing information. 
 
-You do _NOT_ have to provide any personal information to us through the website. However, MediaTek may collect information about our customers, investors, business partners, vendors, job applicants, prospective employees and others in a variety of ways, including through personal contact, via our website and the internet, over the telephone, through correspondence with our employees and their attendance at industry events, when you use our products or services, when you apply for a job, and through third parties or other sources, where permitted by law. The personal information collected by us, or on our behalf, shall be limited to those details necessary for the purposes described below unless these are obvious to you or within your reasonable expectation. In general, we collect, use, and disclose information for the following purposes: to provide the products and services you request; to tell you about other products and services offered by MediaTek; to manage our sites and services; to administer and process any request for information or job application; to comply with our ethical, regulatory and legal obligations or requirements, including compliance with a judicial proceeding, court order or legal process, or for the purposes of a government or regulatory investigation; or to protect or defend the rights or property of MediaTek. 
+The collection and use of your Personal Information may be necessary for us to provide you with a product or service, communicate with you, or maintain our relationship with you. Please note that if you choose not to provide us with Personal Information, we may not be able to provide you with such, in part or at all. 
 
-In general, when browsing our website, you are not required to give us your Personal Information. However, MediaTek may collect, store, and/or use Personal Information such as your name, address, work or business your work for, phone number, email address, or other information, when you voluntarily submit it to us - for example, when you request information about our products or when you submit an employment application online. We may use this Personal Information to delete your requests for information or to contact you. 
+We also collect other non-personal types of data, including device information such as the type of browser or operating system used and software usage statistics. We use this data, and may compile and analyze the data, in order to improve products and services and to personalize your experience with us. Examples of non-personal information include hardware configuration, computer or device characteristics and connection information such as browser type, version and time zone setting, operating system, and platform; the full Uniform Resource Locator (URL) clickstream to, through and from our websites including date and time, cookie number. 
 
-We rely on third-party service providers to perform a variety of services on our behalf. Examples include HR recruiting, an email service provider, and investor portals on our site. In so doing, we may need to share your Personal Information with them. We provide our service providers with only the Personal Information they need to perform their services and we require that they protect this information and not use it for any other purpose. Except under the circumstances described above, MediaTek will not share or disclose Personal Information to any third party for promotional purposes without your permission. In no even will MediaTek sell, rent, share, trade or disclose Personal Information to any third party without your permission. 
+MediaTek respects individual privacy and values the trust of its customers, employees, consumers, business partners and others.
 
-In the event that we acquire an entity (such as through a merger or acquisition), we may use and/or disclose Personal Information of prospective employees to third parties in connection with the proposed transaction for the purposes of evaluating and/or performing the proposed transaction, and you consent to such disclosure. These purposes may include, for example, receiving advice on whether to proceed or continue with the transaction, fulfilling any reporting or audit requirements to such parties, and/or disclosing Personal Information as part of concluding a sale or transfer of assets. In the event a transaction is not concluded, we will require, by contract, any third parties not to use or disclose Personal Information in any manner whatsoever for any purpose, and to return or destroy such Personal Information. 
+### Cookies and Other Technologies We Use
 
-### Cookies and how we collect information
+We use tracking technologies such as cookies (small files placed on your hard drive), web beacons, website analytics tools, and the personal information you provide us to personalize your online experience and improve our services. Some information about your use of the MediaTek Services may be collected using tracking technologies across time and services, and used by us and third parties for purposes, such as to associate different devices you use, and deliver relevant ads and/or other content to you on the MediaTek Services. Please see our Cookie Statement for additional information, including certain choices you may have regarding some of these activities. By accessing MediaTek Services, you consent to the placement of cookies and our and third party use of track technologies subject to our [Cookie Statement](https://www.mediatek.com/cookie-statement). 
 
-Through our use of cookies, web beacons, tracking pixels, local storage, or other similar technologies, MediaTek may automatically collect information relating to such matters as: 
+Some web browsers may have settings for “Do Not Track” signals. Browsers may have this signal on or off by default, and there is no standard as to how websites should respond. We do not currently monitor or take action regarding these signals. We encourage you to look at opt-out methods described in our [Cookie Statement](https://www.mediatek.com/cookie-statement) or as otherwise available from applicable third parties.
 
-  * the total number of visits to this website,
-  * the number of visitors to each page of this website,
-  * the Internet Protocol (IP) addresses of our visitors,
-  * to distinguish you from other users of our website, and
-  * the time spent on this website.
+### Use of Personal Information
+
+You agree that we may use your Personal Information for our commercial purposes including for instance:
+
+  * To deliver a product or provide a service you have requested or to provide you with product registration, technical and customer support;
+  * To administer promotions that you enter such as a contest or sweepstakes;
+  * To consider you for employment if you submit a job application;
+  * To allow your participation in activities, such as online discussion groups or chats, communities and surveys;
+  * To communicate with you through emails, text messages or phone calls about our products and services, targeted marketing materials, service updates, and promotional offers;
+  * To customize, measure, deliver and improve our products, services, content and advertising;
+  * To recognize you when you log in and to authorize your instructions after you have logged in;
+  * To personalize your overall experience with us;
+  * To transfer information to our authorized third parties; and
+  * Other uses as indicated with the information that is collected. 
 
 
 
-We may use this information, which is collected and remains in aggregate form, to understand how our visitors use this website so that we can provide you with a good experience when you browse our website, and also to improve the website. We may also use your IP address to help diagnose problems with our servers and for purposes of system administration. From time to time, we may share such aggregated information, which does not identify any individual, with our agents, business partners, consultants, or other third parties. 
+### Sharing Personal Information
 
-We gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data to other information we collect about you. 
+We may also share Personal Information with our authorized third parties (such as our authorized vendors) who help with our business operations, including the storage and processing of personal data for the uses listed in this privacy statement. 
 
-Cookies are text files stored on a user's computer hard drive containing information about the user and are used by most major websites. Cookies can enable us to track the activity of our users to enhance their experience on this website and to deliver content specific to a user's interests. We may place a cookie in the browser file of your computer when you visit this website. 
+Except under the circumstances described above, MediaTek will not share or disclose Personal Information to any third party for promotional purposes without your permission. In no event will MediaTek sell, rent, share, trade or disclose Personal Information to any third party without your permission 
 
-You may delete or block cookies by activating the setting on your web browser that allows you to refuse the setting of all or some cookies. Although you may still use this website without the cookie, some parts of the website may not work properly for you. Third parties also place cookies on our website and the data is only collected in the aggregate. 
+We may disclose your personal information to comply with applicable laws, legal processes, government or quasi-governmental requests, to exercise our legal rights or defend against legal claims. We may disclose personal information and other information available to us when we believe, in our sole discretion, disclosure is necessary or appropriate in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to us or the rights, property or physical safety of any person, violations of our terms of use or other agreements, or as otherwise required or permitted by law. 
 
-If you would like further information about managing and disabling cookies, you can refer to your browser's help section or user guide. Alternatively, the Interactive Advertising Bureau has produced a guide (see [www.allaboutcookies.org](http://www.allaboutcookies.org/)) which explains how cookies work and can be managed. 
+If MediaTek were to undergo a re-organization, merger or sale of all or a part of our assets, we may transfer personal and non-personal information as part of the transaction. 
 
-MediaTek is assessing available technology to respond to "do-not-track" browser signals; however, this website currently does not support those web browser settings. 
+Please remember that any information you choose to disclose in public areas of the MediaTek Services (such as within community forums through a chat feature or published in a product review) may become public information. You should exercise caution when disclosing information in such public areas and refrain from disclosing Personal Information. 
 
-We and our affiliates, analytics or service providers use technologies such as cookies, scripts, and tags to analyze trends, administer the website, track users' movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregate basis. We also use software from Google Analytics for internal analytics that employs a software technology called "clear gifs" (which are also known as Web Beacons/ tracking pixels). 
-
-We use Google Analytics to collect information in an anonymous form about how visitors use the website, including the number of visitors to the website, where visitors have come to the website from, and the pages they visited. This information helps us better manage content on our website by informing us what content is effective. For more information about Google's privacy policy, please visit <http://www.google.com/intl/en/policies/>
-
-Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity use Local Storage (HTML5) to collect and store information. Various browsers may offer their own management tools for removing HTML5. 
+As permitted by applicable law, we may disclose and share non-personal information without restriction. For instance, we may share aggregated and non-personally identifiable information with our commercial customers, business partners or vendors for the purposes of improving their products or services.
 
 ### Minors
 
-MediaTek does not knowingly collect or use Personal Information from anyone under the age of 13, nor do we market this website to anyone under the age of 13. 
+The MediaTek Services are not directed to minors and are intended for a general audience comprised of adults. If you are a minor in your country of residence, you may use MediaTek Services only with the involvement of your parent or guardian. We do not knowingly collect personal information from children under the age of 13. If we learn that we have inadvertently collected personal information from a child under the age of 13, we will delete the information to the extent required by applicable law.
 
 ### Storage and Transfer of Information
 
-Your Personal Information may be transferred to, stored, and/or processed in the United States and/or other countries with different levels of privacy protection than are applicable in your country. When we do so, we transfer information in compliance with applicable data protection laws. We also take steps to protect Personal Information in the country in which it is stored or to which it is transferred. We have procedures and controls to help ensure the protection of Personal Information. Your Personal Information may also be processed by staff in the United States working for us or for one of our related companies, affiliates or suppliers. 
+Your Personal Information may be transferred to, stored, and/or processed in Taiwan and/or other countries with different levels of privacy protection than are applicable in your country. When we do so, we transfer information in compliance with applicable international data protection laws. We also take steps to protect Personal Information in the country in which it is stored or to which it is transferred. We have procedures and controls to help ensure the protection of Personal Information. Your Personal Information may also be processed by staff working for us or for our vendors or suppliers. Such staff may be engaged in, among other things, the provision of support services. By submitting your Personal Information, you consent to any such transfers, storage or other processing of your Personal Information as set out in this Privacy Statement. 
 
-It is important to note that some or all of your Personal Information provided to third party service providers may be held by them in countries other than your own, including in particular the United States. You acknowledge and understand that your Personal Information will be subject to the applicable laws of each such jurisdiction, which may not provide for the same protection as your country of residence. 
+It is important to note that some or all of your Personal Information provided to third party service providers may be held by them in countries other than your own. You acknowledge and understand that your Personal Information will be subject to the applicable laws of each such jurisdiction, which may not provide for the same protection as your country of residence. 
 
-Such staff may be engaged in, among other things, the provision of support services. By submitting your personal information via our website, you agree to any such transfers, storage or other processing. 
-
-We will retain your information for as long as any accounts you may have are active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. Subject to any applicable business, legal, or regulatory requirements, we securely destroy, erase or de-identify personal information when it is no longer required to fulfill our services to you or to enforce our rights or meet our obligations. 
-
-### Access
-
-Where allowed by law, you may request access to Personal Information that MediaTek holds about you by sending an email to [project_global_privacy@mediatek.com](mailto:project_global_privacy@mediatek.com). MediaTek will process that request in accordance with any local laws and our policies and procedures for dealing with such requests. Where allowed by law, MediaTek will also take reasonable steps to permit individuals to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete. MediaTek will usually respond to this request within 30 business days 
-
-There may be circumstances where we are unable to provide access to your personal information. We may deny or restrict access for legally permissible reasons, such as situations where the information contains references to other individuals and is not reasonably severable, or where it cannot be disclosed for legal, security, or commercial proprietary reasons. We will advise you of any reason for denying or restricting an access request. 
+We will not retain your personal information longer than is necessary to honor your choices, fulfill the purposes for which it was collected, or as required by law.
 
 ### Security
 
-We are committed to keeping Personal Information secure, and have implemented generally accepted industry standards of technical, administrative and physical procedures to protect Personal Information. We also limit access to Personal Information to those who have a business need for access. When we provide your Personal Information to controllers or processors, including service providers, we require those companies to protect the information and not to use the information for any other purpose. 
+We appreciate your trust in sharing your Personal Information with us, and we are committed to taking reasonable measures to protect it. We utilize a combination of security technologies, procedures and organizational measures that are generally accepted in the industry to help protect your Personal Information from unauthorized access, use or disclosure. 
 
-Nevertheless, although MediaTek website has been designed to offer a secure and reliable service we have tried to create a secured and reliable website, the confidentiality of any communication or material transmitted to or from this website cannot be guaranteed. We urge you to exercise caution when conveying Personal Information over the Internet. When disclosing any Personal Information, you should remain mindful that such information might be accessible by the public and, consequently, may be collected and used by others without your consent. You should also recognize that your use of the Internet and this website is solely at your own risk. 
+By way of example, access to your Personal Information is restricted to employees, contractors and agents of MediaTek or its subsidiaries who need to access such data to perform their assigned job duties. We may also store your personal information on limited-access computer systems which are located in controlled facilities. 
+
+Despite our efforts to protect your Personal Information, there is an inherent risk of encountering an unexpected security breach in any modern day computing environment. In the event of a security breach, if our investigations indicate that there could be significant harm to you as a result of such unauthorized access or disclosure of your Personal Information, we will promptly notify you and the proper authorities if required by law. We also encourage you to take precautions to protect your Personal Information when you are online. Create strong passwords by using a combination of letters and numbers, change passwords often, and use a secure browser. 
 
 ### Links
 
-As a convenience to you, MediaTek may provide links from this website to other websites maintained by independent third parties. We are not responsible for the privacy practices of independent third parties and once you leave the MediaTek website, this privacy policy will no longer apply. We encourage you to be aware when you leave this website, and to read the privacy policies of any other websites that you may visit. 
-
-Links to other websites are provided for informational purposes only and do not constitute endorsements of those other websites. MediaTek is not responsible for the content of links or third-party websites and does not make any representation regarding their content or accuracy. Your use of third-party websites is at your own risk. 
+We may link to, or otherwise make available via the MediaTek Services, third-party services such as Facebook, LinkedIn, Google+, Twitter, and YouTube, etc. which are outside of our control and are not covered by our statements in this privacy statement. We are not responsible for the privacy practices or the content of such third-party services, including without limitation social media platforms and their plug-ins that may be on MediaTek Services. If you have questions about how these third parties collect, use and share your information, you should review their policies or contact them directly. By allowing a link to a third-party service, or otherwise allowing association with a MediaTek Service, we are not in any way endorsing, promoting or representing the quality of that service or taking responsibility for its practices.
 
 ### Amendments
 
-This Policy may be amended from time to time. 
+This privacy statement may be amended from time to time. 
 
-If we decide to change our privacy policy, we may post those changes to this privacy policy, the MediaTek home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+If we decide to change our privacy statement, we will post the revised statement on this page. The revised privacy statement will supersede and replace any previous privacy statements effective as of the date on which the revised statement is posted. Your continued use of the MediaTek Services after such change represents and confirms your consent and agreement to any such changes.
 
-We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page prior to the change becoming effective. 
+### Rights in Respect of Your Personal Information
 
-### Notice to California Residents
+You have the right to update and correct the Personal Information on your account. You also have the right to request from MediaTek all personal information that we hold that relates to you to request restriction of the processing of that data and to request that we delete that data. Where allowed by applicable law there may be an administrative charge for supply of copies of data. You also have the right to object to our continued processing of your Personal Information. You may also have the right to data portability to the extent permitted by applicable law. If you have a complaint about the way in which MediaTek uses your personal information you have the right to complain to the applicable data protection authority in the country of your residence. 
 
-Subject to certain limits under California Civil Code § 1798.83, California residents may ask us to provide them with (i) a list of certain categories of personal information that we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, and (ii) the identity of those third parties. To make this request, California residents may contact us as specified in the Contact Us section below. 
-
-### Modifying or Deleting Your Personal Information
-
-If you wish to modify your personal information, or if you wish to discontinue receiving materials from us or wish to remove your personal information from MediaTek’s database, you may do so at the Member Login page of our website or you can contact us at p[project_global_privacy@mediatek.com](mailto:project_global_privacy@mediatek.com).
+If you wish to access, modify your Personal Information, or if you wish to discontinue receiving materials from us or wish to remove your Personal Information from MediaTek’s database, you may do so at the Member Login page of our website or you can contact us at [project_global_privacy@mediatek.com](mailto:%20project_global_privacy@mediatek.com).
 
 ### Contact Us
 
-If you have any questions regarding our privacy practices or this privacy policy, or would like to review or update your Personal Information, you may contact us at the following email address: [project_global_privacy@mediatek.com](mailto:project_global_privacy@mediatek.com).
+If you have comments or questions, you can email us or send us mail at the address below. Please include your contact information and a detailed description of your request or privacy concern. 
+
+MediaTek Inc.   
+No. 1, Dusing 1st Rd.   
+Hsinchu Science Park   
+Hsinchu City 30078   
+Taiwan   
+[project_global_privacy@mediatek.com](mailto:%20project_global_privacy@mediatek.com)
