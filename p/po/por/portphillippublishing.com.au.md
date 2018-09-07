@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the portphillippublishing.com.au privacy policy that was archived on 2017-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170413132118id_/https%3A//www.portphillippublishing.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portphillippublishing.com.au privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907140037id_/https%3A//www.portphillippublishing.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Port Phillip Publishing
+# Privacy Policy – Port Phillip Publishing
 
 **Port Phillip Publishing Privacy Policy**
 
@@ -54,7 +54,7 @@ We endeavor to keep all information about you up-to-date. If any information hel
 
 **Consent to use and disclosure of your personal information**
 
-PPP is a subsidiary of Agora Inc, a US-based publishing company. By subscribing to a PPP service you consent to being sent news and offers related to your subscription or that may suit your interests by PPP, related companies and carefully selected organisations. On occasions, PPP may provide your mailing address to third parties for direct marketing purposes. If at any time you do not wish your mailing address to be used for direct marketing or receive news and offers from carefully selected organisations, please contact us directly by email, post or phone. It is a requirement that all newsletters, updates and special reports be sent electronically. If you no longer wish to receive these services you may cancel your subscription at any time.
+PPP is a member of the global network of Agora companies, a company located in Baltimore, Maryland, USA. By subscribing to a PPP service you consent to being sent news and offers related to your subscription or that may suit your interests by PPP, related companies and carefully selected organisations. On occasions, PPP may provide your mailing address to third parties for direct marketing purposes. If at any time you do not wish your mailing address to be used for direct marketing or receive news and offers from carefully selected organisations, please contact us directly by email, post or phone. It is a requirement that all newsletters, updates and special reports be sent electronically. If you no longer wish to receive these services you may cancel your subscription at any time.
 
 We may occasionally send you marketing emails. Our email marketing is permission based. If you received a mailing from us, it is because you are a subscriber or have otherwise consented to the terms of this privacy policy. You may unsubscribe at any time by post, by phone, or by clicking the unsubscribe link at the bottom of each email. We do not rent or sell email addresses to companies outside the PPP Group.
 
@@ -70,7 +70,7 @@ Starting from 15 May 2017,  where users have chosen to enable Google to associa
 
 Google Analytics will collect Google-authenticated identifiers associated with users’ Google Accounts and will temporarily join these identifiers to our Google Analytics data
 
-Please note that all Google users can control their ads experience (or opt out of personalised ads altogether) at [My Account](http://myaccount.google.com/).
+Please note that all Google users can control their ads experience (or opt out of personalised ads altogether) at [My Account](http://myaccount.google.com/).
 
 **Updates to our privacy policy**
 
@@ -85,8 +85,7 @@ If you have concerns or wish to make a complaint regarding the handling of your 
 If you have any questions regarding our privacy policy you can reach us here:
 
 Port Phillip Publishing Pty Ltd,  
-PO Box 713  
-South Melbourne, VIC 3205
+96-98 Bridport Street, Albert Park, VIC 3206
 
 Ph: 1300 667 481 or +61 3 9037 8309
 
@@ -98,4 +97,10 @@ Port Phillip Publishing Pty Ltd,
 Albert Park, VIC 3206  
 Australia
 
-**Copyright 2016 Port Phillip Publishing Pty Ltd. All rights reserved. No portion of this website may be reproduced, copied or in any way reused without the written persmision of Port Phillip Publishing.**
+**Copyright 2018 Port Phillip Publishing Pty Ltd. All rights reserved. No portion of this website may be reproduced, copied or in any way reused without the written persmision of Port Phillip Publishing.**
+
+© Copyright 2006 - 2018 - Port Phillip Publishing.
+
+All rights reserved. (ACN: 117 765 009) (AFS Licence: 323 988).
+
+Content of this site may not be redistributed without the express written consent of Port Phillip Publishing Pty Ltd. 
