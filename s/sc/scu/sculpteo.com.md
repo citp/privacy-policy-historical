@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sculpteo.com privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324213527id_/https%3A//www.sculpteo.com/en/company/personal-information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sculpteo.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907220754id_/https%3A//www.sculpteo.com/en/company/personal-information) for the most accurate reproduction.*
 
 # Personal Information
 
