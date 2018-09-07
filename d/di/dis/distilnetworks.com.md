@@ -1,161 +1,139 @@
-> *The following text is extracted and transformed from the distilnetworks.com privacy policy that was archived on 2017-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170422163016id_/http%3A//www.distilnetworks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the distilnetworks.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907232616id_/https%3A//www.distilnetworks.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Distil Networks
 
-Last updated on May 6, 2016.
+_Last revised on July 25, 2018_
 
-  * Introduction
-  * How We Collect Information
-  * Information You Provide
-  * Information We Automatically or Passively Collect
-  * Other Information
-  * How Does Distil Uses Your Information?
-  * Third-Party Content and Collection
-  * Disclosure of Information
-  * Distil’s Policy Regarding How Our Vendor’s Use Your Information
-  * Does Distil Use Analytic Services?
-  * Children
-  * “Do Not Track” Signals
-  * We Offer Users a Choice
-  * Data Security
-  * Data Retention
-  * Consent to Transfer Information to the United States.
-  * California Privacy Rights
-  * How to Contact Distil
-  * Changes to this Privacy Statement
+## INTRODUCTION:
 
+Distil Networks, Inc. company that assists businesses (“ _ **Customers**_ ”) to detect and combat automated threats (e.g., content scraping, fraud, brute-force attacks, denial of inventory, etc.) and other information security vulnerabilities (our “ _ **Services**_ ”).
 
+At Distil Networks, Inc., we recognize that privacy is important. This Privacy Policy (“ _ **Policy**_ ”) applies to the collection of personal data by Distil Networks, Inc. and Distil Networks Limited (collectively, “ _ **Distil**_ ”, “ _ **we**_ ” or “ _ **us**_ ”). This policy explains our practices regarding the collection, use and disclosure of personal data both through our website ([www.distilnetworks.com](https://www.distilnetworks.com/)) and its subdomains (“ _ **Website**_ ”) and in the course of providing our Services.
 
-## INTRODUCTION
+## 1\. Personal data we collect through the Website
 
-Distil is committed to respecting the privacy of the individuals that use Distil’s website. This Privacy Statement describes how Distil Networks, Inc., its affiliates, and its subsidiaries (collectively, “Distil”) collect, use, and share information about you when you visit Distil’s website (www.distilnetworks.com) and all other Distil websites that link to this Privacy Statement (collectively, the “Sites”).
+We collect the following types of personal data through our Website:
 
-## HOW WE COLLECT INFORMATION
+#### Information you provide us:
 
-Distil collects information in two different ways. First, Distil may collect information from users of this Site. Second, Distil receives information from its subscribers in connection with their use of our services (the “Services”). We collect different information through each method. This Policy only covers information collected through the Site, and does not cover any information collected elsewhere online or offline by Distil, including the Services (unless specifically stated).
+In general, you can visit our Website without telling us who you are or revealing any personal data about yourself. However, you may provide us with personal data, for example, when you make inquiries about our Services through our “Contact” page or online chat tools, provide us with your contact information for the purpose of sending you white papers, reports, brochures, or to request a demo, attend our events or webinars, or when you sign up to our mailing list. When you communicate with us, we will keep copies of any communications that you send us.  We ask that you not send us, and you do not disclose, any sensitive personal data (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background or trade union membership) on or through the services or otherwise to us.
 
-## INFORMATION YOU PROVIDE
+#### Information we collect automatically:
 
-Distil and its service providers (i.e., companies that perform business operations on Distil’s behalf, such as mailing, ad management, web analytics, data processing, or marketing) may collect information that you provide when you use the Sites, including when you contact Distil with a question, comment, or request; enter a search term on the Sites; subscribe to a Distil newsletter or publication; request whitepapers; respond to a marketing campaign; or register for an event or training. The information you provide to us may include, but is not limited to, your name, your contact information, your employer, your username and password for the Site, and other information you choose to provide to us.
+We may also collect certain information through our Website by automated means, such as IP addresses, information about your browser, device IDs, your device’s operating system, information about your visit (including the URL clickstream to, through and from our Website), number of Website visits, and other page interactions. We collect this information automatically through the use of various technologies such as cookies and web beacons. For further information about the cookies that we use on our Website and how to exercise your cookie preferences, see the “How we use cookies” section below.
 
-## INFORMATION WE AUTOMATICALLY OR PASSIVELY COLLECT
+## 2\. How we use personal data collected through the Website
 
-Distil and its service providers may automatically collect certain information from your computer or mobile device over time and across different online services when you use the Sites. That information may include:
+We will only process your personal data in accordance with applicable data protection and privacy laws. We need certain personal data in order to provide you with access to the Services. If you registered with us, you will have been asked to check a box indicating your agreement to provide this data in order to access our Services or view our content. This consent provides us with the legal basis we require under applicable law to process your data. You maintain the right to withdraw such consent at any time.  If you do not agree to our use of your personal data in line with this policy, please do not use our Website. When fulfilling our contractual obligations to our customers (i.e., the data controllers), we have a legitimate interest in processing certain personal data for such contractual purposes. The information collected through our Website may be used for the following purposes:
 
-  1. the IP address associated with your computer or device,
-  2. the domain name of your Internet Service Provider,
-  3. the type of device you use to access the Sites,
-  4. the type, characteristic and settings for browser you use to access the Sites,
-  5. the operating system on your computer or device,
-  6. the content or pages you view on the Sites,
-  7. device identifiers associated with any device used to access the site,
-  8. the frequency with which you visit the Site,
-  9. duration of time that you use the Sites, and
-  10. the content you view immediately before and after you access the Sites.
+  * To provide, operate, optimize and maintain the Website;
+  * To deal with inquiries through our Website or to provide you with information and access to resources that you have requested from us;
+  * To provide you with offers and information regarding our Services;
+  * To analyze the use of our Website for trend monitoring, marketing and advertising purposes;
+  * For network security and administration;
+  * To investigate and prevent automated threats, other information security vulnerabilities (including unauthorized access to systems or networks), and unlawful activity; and
+  * For other legitimate business purposes and other purposes about which we notify you.
 
 
 
-Distil may also use technologies that let us know whether you viewed Distil emails or other electronic communications, how you interacted with them, and whether the advertisements we place on the Sites are effective. Distil and its service providers may collect this information whenever you use the Sites or interact with our electronic communications. We may collect the information using “cookies,” web beacons, or similar technologies.
+In addition to the above, Distil also uses its Services to detect and prevent automated threats and other information security vulnerabilities on its Websites. Please see the section below titled “How we use personal data collected through the Services” for more information regarding how we use any personal data that we may collect through the use of our Services on the Website.
 
-## OTHER INFORMATION
+## 3\. Personal data we collect through our Services
 
-Distil may collect information about you from publicly or commercially available sources and combine that with the information that we collect when you use the Sites. That information may include your name, contact information, interests, firmographics and demographics. Distil may use the combined information as disclosed in this Privacy Statement, including to contact you with offers that we feel may be of interest to you. If you do not wish us to supplement the information we collect about you when you use the Sites with information from publicly or commercially available sources, please contact via one of the channels listed in the “How to Contact Distil” section.
+When our Customers subscribe to our Services, the following personal data may be collected to help detect automated threats and for other information security purposes (e.g., prevention of content scraping, fraud, brute-force attacks, denial of inventory, etc.).
 
-## HOW DOES DISTIL USES YOUR INFORMATION?
+#### Information collected automatically:
 
-Distil may use the information to:
+During the course of providing our Services, we assist our Customers in detecting and preventing automated threats and other information security vulnerabilities in relation to our Customers’ digital properties (e.g., websites, mobile applications and APIs). To achieve that end, we analyze the traffic for our Customers’ digital properties and differentiate between the legitimate users of such properties and automated threats. Distil makes these determinations by automated and manual analyses using several potential indicators, such as IP addresses, information about your browser, device identifiers, your device’s operating system, information about your visit (including the URL clickstream to, through and from our Customer’s digital properties), number of visits to a digital property, CAPTCHA challenges and other page interactions, etc. (which we collectively refer to as “Fingerprints”), as well as by configurations set by our Customers. The configurations set by our Customers will depend on the business they operate and the types of automated threats and other information security vulnerabilities that are pertinent to their digital properties. When a Customer subscribes to our Services, our Customers and/or Distil may place Distil cookies on your device and/or run our JavaScript code to enable the collection of Fingerprints. The information is either collected directly from you or collected by our customers and subsequently sent to us. To the extent that any such information constitutes your personal data, we will process such personal data pursuant to this Policy. For information about cookies that are deployed through our Services and how to exercise your cookie preferences, please see the “How we use cookies” section below.
 
-  1. provide you with the content, information, products, and services that you request;
-  2. help you complete transactions and orders;
-  3. register you for events and trainings;
-  4. improve the Sites and your experience when visiting the Sites;
-  5. contact you for support or to provide you with information about Distil solutions;
-  6. personalize the content you see on the Sites (e.g., inferring your location based on your IP address or other information to provide you with relevant content);
-  7. deliver marketing communications, special offers, or advertisements that may be of interest to you, including the delivery of targeted advertisements that are based on your online activity on the Sites and other third-party websites (for example, if you view a page on a Distil website about a particular Distil offering, you may receive an online advertisement for that offering or a related one on a different Distil web page or on other online services you visit);
-  8. analyze the effectiveness of advertising on the Site;
-  9. better understand our customers and the people who visit the Site,
-  10. better understand how people interact with the Site;
-  11. troubleshoot the Site;
-  12. develop new products, services, and solutions;
-  13. detect and prevent potential fraud and security risks, and help others to do the same;
-  14. identify and filter suspected malicious and other undesirable web traffic for this Site and other third-party websites, and help others to do the same;
-  15. support Distil’s business operations.
+#### Additional information our Customers provide to us:
 
+In addition, our Customers may send additional information to us for the purpose of detecting and preventing automated threats or other information security purposes, including for the purpose of enabling Distil to perform such activities on our Customers’ behalf. For example, they may send us elements of your personal data that you have consented to being shared with us. They might also optionally provide us with information that you share with them through your use their digital properties (e.g., websites, APIs, or mobile applications).
 
+#### Information about our Customers:
 
-## THIRD-PARTY CONTENT AND COLLECTION
+If you are a Customer, we may also collect certain personal data about you to enable us to manage our business relationship with you – such as your name, contact details, job title, billing and payment information.
 
-The Sites may contain links to content or integrated content (like embedded videos) provided by third parties. For example, services such as YouTube may provide video content on the Sites, and services such as Survey Monkey may provide surveys about our services and solutions linked to from the Sites. The information practices of those third parties may differ from Distil’s. You should consult the privacy policies of any third party that provides content that you access through the Sites as Distil does not have control over the information that they collect, use, or share. Because your web browser may obtain integrated content directly from third-party servers, the third parties may be able to collect information as if you had visited their sites directly. These third parties may use the information they collect to track your online activities over time and across various websites.
+## 4\. How we use personal data collected through the Services
 
-We may include applications (or “widgets”) from social media providers that allow you to follow or interact with us on social media platforms. These widgets, such as a Facebook “Share” or “Like” button, are visible to you on the web page you visit. When you use these widgets or when you are logged in to those platforms, the respective social media providers may be able to collect information about your use of the Sites. Please visit the applicable social media network’s privacy policy to better understand their data collection practices and choices they make available to you. The privacy policy of the social media network controls the collection, use and disclosure of all personal information transmitted to that network. Depending upon your privacy settings with the social media providers, we may be able to collect information from your profile when you interact with the widgets.
+We may use personal data we collect through the Services for the following purposes:
 
-## DISCLOSURE OF INFORMATION
-
-Your personal information may be shared or disclosed:
-
-  1. To third-party vendors, suppliers and contractors (e.g., customer management systems providers, payment processing providers, data analysis providers, IT services and infrastructure providers, customer service system providers, marketing service providers, e-mail delivery service providers, security services providers, etc.) who provide products or services to Distil;
-  2. To our wholly-owned subsidiaries;
-  3. By you, on message boards, blog or forum posts, and other services to which you may be able to post information and materials. Please note that any information and materials that you post or disclose through these services may become public information and available to the general public. As such, we urge you to exercise caution when disclosing information.
-  4. To a third-party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business.
-  5. As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to request from public or government authorities, including government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, or that of our affiliates, you or others; (g) at our discretion under emergency circumstances; (h) to allow us to pursue available remedies or limit the damages that we may sustain.
+  * To provide the Services to our Customers,
+  * To optimize and improve the Services,
+  * To analyze the use of the Services for internal business purposes;
+  * To provide customer service and support;
+  * To send our Customers communications about their account, provide service updates and marketing information;
+  * To enable our Customers to share information about automated threats and other information security vulnerabilities;
+  * To conduct research and statistical analyses of automated threats and publish related reports;
+  * To investigate any unlawful or wrongful activity or unauthorized access to our Services; and
+  * For other legitimate business purposes and other purposes about which we will notify you.
 
 
 
-## DISTIL’S POLICY REGARDING HOW OUR VENDOR’S USE YOUR INFORMATION.
+## 5\. Information from Social Networking Sites
 
-With regards to those third-party service providers and other venders who process your personal information on behalf Distil, Distil recently adopted a policy not to permit such providers/vendors to use or disclose your personal information except to: (i) provide their respective products and services to Distil, and/or (ii) as otherwise disclosed in or permitted by this Privacy Policy. Distil will apply this policy to all vendors which Distil engages after the effective date of the current version of this Privacy Policy. For all such vendors that Distil has engaged prior to the effective date of the current version of this Privacy Policy, Distil has started the process of reviewing our contractual arrangements with such vendors, and if necessary, will attempt to modify such contractual arrangements to limit such vendors’ ability to use your information in accordance with this Privacy Policy.
+Our Website include(s) interfaces that allow you to connect with social networking sites (each a “SNS”). If you connect to a SNS through website, you authorize us to access, use and store the information that you agreed the SNS could provide to us based on your settings on that SNS. We will access, use and store that information in accordance with this Policy. You can revoke our access to the information you provide in this way at any time by amending the appropriate settings from within your account settings on the applicable SNS.
 
-## DOES DISTIL USE ANALYTIC SERVICES?
+## 6\. Personal data we collect from other sources
 
-Distil works with certain third parties analytic service providers (e.g., Google in connection with its Google Analytics services) to provide us with information regarding Site traffic and usage. Some of these parties may collect personal information when you visit the Site or other online websites and services. We may provide these third parties with your information, and these third parties may set and access their own tracking technologies (including cookies, web beacons, and embedded scripts) on the Site and elsewhere online. We are not responsible for the privacy practices of these third parties and this Privacy Policy, including the section titles Distil’s Policy Regarding How Our Vendor’s Use Your Information does not cover those practices. For information as to how Google uses information they collect from you when use the Sites, see www.google.com/policies/privacy/partners/. 
+We may also get information about you from other sources, for example, if you have agreed to share information with one of our partners, suppliers or service providers, we may add this to information we get from our Website or Services.
 
-## CHILDREN
+## 7\. How we share your personal data with third parties
 
-This Site is not intended for children (i.e., individuals under the age of eighteen), and as such, Distil does not knowingly collect personal information from children.
+We may share personal data collected through our Website and Services in the following ways:
 
-## “DO NOT TRACK” SIGNALS
+Information we share with our group companies: We may share your personal data with other members of the Distil group of companies for purposes consistent with this Privacy Policy.
 
-Distil supports the development and implementation of a standard “Do Not Track” (DNT) browser feature, which has been designed to provide users with control over the collection, sharing and use of information by third parties regarding their web-browsing activities. Once the DNT standardization is finalized by the W3C, Distil intends to honor a DNT setting. Except as otherwise described in this Privacy Policy, the personal information you provide on the Site will not be shared outside of Distil without your consent. To the extent we are legally permitted to do so, we will take reasonable steps to notify you in the event that we are required to provide your personal information to third parties as part of legal process. More information on DNT can be found at http://www.w3.org/2011/tracking-protection/.
+Information we share with our Customers: We may share your personal data collected through the Services with our Customers for purposes consistent with this Privacy Policy.
 
-## WE OFFER USERS A CHOICE
+Information we share with our service providers: We may also engage certain trusted third-party service providers, consultants or vendors to assist us in the provision of the Website and Services. We will only share your personal data with such third-parties to the extent necessary to perform such functions and in accordance with the purposes set out in this Policy and applicable laws.
 
-Users of this Site who do not want Distil to contact them or their company for marketing purposes by email, postal mail, fax and/or phone, may opt out by contacting us in the manner specified below (see “How to Contact Distil”). 
+Information disclosed in connection with business transfers: In the event of a corporate sale, merger, reorganization, acquisition, dissolution, financing or other similar event, your personal data may be shared or transferred in connection with, or during negotiations of, such event or transaction.
 
-Subject to the requirements set forth below, you may request to update or delete your personal information. Such request must be sent to Distil in the manner specified below (see How to Contact Distil) directly by the individual to which the personal information relates. Additionally, each request must contain sufficient information to specifically identify the personal information that you are requesting to delete or update. With regards to requests to update personal information, such request must include sufficient information for Distil to be able to determine how your personal information at issue is to be updated. Distil reserves the right to require you to verify your identify, in accordance with Distil’s then current policies and procedures, prior to acting upon your request. Please note that Distil can only update or delete your personal information to the extent that such personal information remains in Distil’s possession or control.
+Information disclosed for legal purposes and the protection of others: We may disclose personal data to a third party where we are legally required to do so in order to comply with applicable laws, regulations, legal process or governmental requests. We will also disclose personal data to the extent we believe necessary or appropriate: (i) to respond to claims, judicial orders, subpoenas, warrants or other process issued by a court of competent jurisdiction; (ii) to protect the vital interests of any person; (iii) to exercise, establish or defend our legal rights; and (iii) to stop any activity we consider illegal, unethical or legally actionable, including, without limitation, unauthorized use of digital properties (e.g., websites, APIs, and mobile applications).
 
-## DATA SECURITY
+## 8\. How we use cookies and similar technologies
 
-Distil strives to maintain reasonable administrative, technical, and physical safeguards designed to safeguard the information collected from the Sites against loss, and unauthorized access, use, alteration, and disclosure. However, no information system can be 100% secure. Therefore, Distil cannot guarantee the absolute security of your information. Distil is not responsible for the security of information you transmit to the Sites over networks that Distil does not control. Such networks include the systems and networks owned or operated by any Internet service provider, network service provider or wireless network service provider. 
+“Cookies” are small text files that are placed on your device when you visit (i) our Website or (ii) our Customers’ websites who have integrated Distil’s Services. Cookies are widely used in order to make websites work, or work more efficiently, as well as to provide certain device and other analytical information.
 
-If you have any reason to believe your interaction with us is no longer secure, please notify us immediately in accordance with the “How to Contact Distil” section below.
+For more information regarding our use of Cookies, please visit our [“Cookies and Similar Technologies” page](https://www.distilnetworks.com/cookie-policy/).
 
-## DATA RETENTION
+## 9\. Security
 
-Distil maintains your information until it determines there is no longer a valid business justification for holding that data. 
+We will use appropriate security measures to help protect your personal data. These measures include technical, administrative, physical and organizational measures to protect your data from misuse, unauthorized access or disclosure, loss, alteration or destruction. Please be aware that no website is completely secure. Although we will use reasonable endeavors to protect your personal data, you should only access the Website within a secure environment.
 
-## CONSENT TO TRANSFER INFORMATION TO THE UNITED STATES 
+## 10\. International transfers
 
-The Site is operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us may be transferred to and processed in the United States. By using the Site, you consent to this transfer, processing and storage of your information in the United States, a jurisdiction in which the privacy laws may not be as comprehensive as those in the country where you reside or are a citizen.
+If you are visiting our Website or interacting with our Services from outside the United States (US), including in the European Economic Area, please be aware that your personal data may be transferred to the US and potentially other countries whose data protection laws may not be as protective as those in your country of residence. However, our collection, storage and use of your personal data will at all times be in accordance with this Policy wherever it is processed.  By using the Website and/or the Services, you consent to such transfer, and are representing that you have the right to transfer such information outside your country.  We will take reasonable and appropriate measures to ensure that your data is treated securely and in accordance with this Policy. For our Services, we will continue to work with our Customers to put in place any appropriate data export solutions that may be needed under applicable laws.  We will only retain your personal data as long as reasonably relevant for the purposes for which it was collected.
 
-## CALIFORNIA PRIVACY RIGHTS
+## 11\. Your privacy rights
 
-Pursuant to California Civil Code Section 1798.83, residents of the State of California have the right to request from companies conducting business in California certain information regarding Distil’s disclosure within the immediately preceding calendar year of that California resident’s personal information to third parties (and in some cases affiliates) for their direct marketing purposes. Alternatively, the law provides that a company may comply, as Distil does, by disclosing in its privacy policy that it provides consumers choice (opt-out or opt-in) regarding sharing personal information with third parties and affiliates for those third parties’ and affiliates’ direct marketing purposes, and information on how to exercise that choice. At this time, we do not share personally identifiable information with third parties or affiliates for those third parties’ or affiliates’ direct marketing purposes. If we do so in the future, Distil will provide you with a choice prior to sharing your personally identifiable information with third parties and affiliates for their direct marketing purposes. If you do not opt-in or if you choose to opt-out at the time Distil offers that choice, Distil will not share your information with that identified third party or affiliate for its direct marketing purposes.
+If you are from certain territories (such as the European Economic Area) you may have certain rights in relation to your personal data, such as the right to access, correct, move, amend or delete any personal data we hold about you. If you wish to exercise such rights, or you have any questions or comments concerning your personal data, please contact us at privacy@distilnetworks.com.
 
-## HOW TO CONTACT DISTIL
+If you wish to make a general complaint about our privacy practices, please write to us at the email address above and we will respond within a reasonable time and in accordance with applicable laws.
 
-If you have any questions, comments or concerns about this Privacy Policy or Distil’s collection, use or sharing of your information or the accuracy of any of your personal information that we may have in our possession, please contact us via one of the following channels:
+We will consider and respond to your request promptly and in accordance with any applicable laws.
 
-Email: privacy@distilnetworks.com
+If you wish to be removed from our mailing list, you can do so my clicking “unsubscribe” in any email communications we send you, or by emailing us at the address above.
 
-Mail: Distil Networks, Inc.  
-Attn: Privacy Department  
-49 Stevenson Street, Suite 200  
-San Francisco, CA 94105
+## 12\. Participation in EU-US Privacy Shield Framework
 
-Please note that email communications are not always secure. Please DO NOT include personal information or any sensitive information (e.g., credit card information) in your e-mail messages to us.
+Distil Networks, Inc. participates in the EU-US Privacy Shield Framework. For more information regarding Distil’s participation in the EU-US Privacy Shield Framework, please visit [here](https://web.archive.org/privacy/privacyshield/).
 
-## CHANGES TO THIS PRIVACY STATEMENT
+## 13\. Links to other sites
 
-We may modify this Privacy Policy from time to time. Any changes will be effective immediately upon the posting of the revised Policy. If we are going to use personally identifying information in a manner materially different from that stated at the time of collection, we will notify users by posting a notice on the Site. Your continued use of the Site after the changes are posted constitutes your agreement to the changes. If you do not agree to the changes, please discontinue your use of the Site. 
+Our Website may contain links to other websites and services. Our Privacy Policy does not apply to such websites or services and we are not responsible for the content, privacy or security practices and policies of those websites or services. To protect your information, we recommend that you carefully review the privacy policies of other websites and services that you access.
 
-This Privacy Statement was last updated on May 5, 2016.
+## 14\. Changes to our Privacy Policy
+
+If we change our privacy policy, we will post those changes here and amend the “Last Updated” date at the top of this page. If we make any material changes to the privacy practices relating to our Services, we will amend this privacy policy and notify our Customers more directly – for example by posting a notification or sending a message through their account or by email. We encourage you to review this page frequently to stay informed of the latest modifications.
+
+## 15\. How to contact us
+
+If you have any questions, comments or concerns about this privacy policy, then please contact us at [privacy@distilnetworks.com](mailto:privacy@distilnetworks.com). If you prefer to mail your complaint, you can contact us at the following address:
+
+Distil Networks, Inc.  
+Attn: Data Protection Officer  
+4501 N Fairfax Drive, Suite 200  
+Arlington, VA 22203  
+USA
