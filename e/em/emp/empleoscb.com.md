@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the empleoscb.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107220432id_/https%3A//hiring.careerbuilder.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empleoscb.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907234353id_/https%3A//hiring.careerbuilder.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CareerBuilder for Employers
 
@@ -232,7 +232,7 @@ Return to Top
 
 ## California, USA Residents
 
-California law permits its residents to request and receive information about a business’ disclosure of certain categories of Personal Information to other companies for their use in direct marketing.  If you are a California resident and a user of any of the Sites, you can request a copy of this information from CareerBuilder by sending an email to [privacypolicy@careerbuilder.com](mailto:privacypolicy@careerbuilder.com) or a letter to CareerBuilder at 5550-A Peachtree Parkway, Norcross, Georgia 30092, Attention: Customer Service. Please include your name and email address in email requests, and your name and postal address in mail requests.
+California law permits its residents to request and receive information about a business’ disclosure of certain categories of Personal Information to other companies for their use in direct marketing.  If you are a California resident and a user of any of the Sites, you can request a copy of this information from CareerBuilder by sending an email to [the Customer Service Center](https://www.fuzeqna.com/careerbuilder/ext/answer.aspx?md=3&dt=kb&widgetid=55) or a letter to CareerBuilder at 5550-A Peachtree Parkway, Norcross, Georgia 30092, Attention: Customer Service. Please include your name and email address in email requests, and your name and postal address in mail requests.
 
 Return to Top
 
@@ -242,6 +242,6 @@ We do not knowingly collect or solicit information from anyone under the age of 
 
 Return to Top
 
-You can direct questions regarding this Privacy Policy to CareerBuilder by emailing us at [privacypolicy@careerbuilder.com](mailto:privacypolicy@careerbuilder.com) or by letter to CareerBuilder at 5550-A Peachtree Parkway, Norcross, Georgia 30092, Attention: Customer Service.  Please include your name and email address in email requests, and your name and postal address in mail requests.
+You can direct questions regarding this Privacy Policy to CareerBuilder by [emailing us at the Customer Service Center](https://www.fuzeqna.com/careerbuilder/ext/answer.aspx?md=3&dt=kb&widgetid=55) or by letter to CareerBuilder at 5550-A Peachtree Parkway, Norcross, Georgia 30092, Attention: Customer Service.  Please include your name and email address in email requests, and your name and postal address in mail requests.
 
 Return to Top
