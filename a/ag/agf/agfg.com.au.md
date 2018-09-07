@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the agfg.com.au privacy policy that was archived on 2018-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180324153028id_/https%3A//www.agfg.com.au/agfg/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agfg.com.au privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907084218id_/https%3A//www.agfg.com.au/agfg/privacy) for the most accurate reproduction.*
 
 # Privacy - Australian Good Food and Travel Guide
 
 ## Privacy Overview
 
-The Australian Good Food & Travel Guide periodically reviews its Privacy Policy and reserves the right, at its discretion, to modify or remove portions of this policy at any time. The Australian Good Food & Travel Guide considers the responsible use of personal information to be of vital importance. The Australian Good Food & Travel Guide is committed to ensuring that to the best of our ability we meet all the requirements of the National Privacy Principals and the Privacy Act.
+The Australian Good Food & Travel Guide periodically reviews its Privacy Policy and reserves the right, at its discretion, to modify or remove portions of this policy at any time. The Australian Good Food & Travel Guide considers the responsible use of personal information to be of vital importance. The Australian Good Food & Travel Guide is committed to ensuring that to the best of our ability we meet all the requirements of the National Privacy Principals and the Privacy Act. 
 
-In general, you can visit the Australian Good Food & Travel Guide website without revealing any personal information about yourself. However there are times when information will be collected, such as when you register for competitions or memberships, for billing purposes, appraisals or in connection with community postings such as message boards or feedback to us or to receive information from us. This information may include your name, home or business address and e-mail address. Personal information will only be collected when knowingly and voluntarily submitted.
+In general, you can visit the Australian Good Food & Travel Guide website without revealing any personal information about yourself. However there are times when information will be collected, such as when you register for competitions or memberships, for billing purposes, appraisals or in connection with community postings such as message boards or feedback to us or to receive information from us. This information may include your name, home or business address and e-mail address. Personal information will only be collected when knowingly and voluntarily submitted. 
 
 The Australian Good Food & Travel Guide may share the information obtained with other organisations with a similar purpose to our own. We will endeavour to limit the use of the information to the purpose for which it was provided.
 
