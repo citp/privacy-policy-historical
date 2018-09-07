@@ -1,106 +1,130 @@
-> *The following text is extracted and transformed from the i9advantage.com privacy policy that was archived on 2018-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180210141446id_/http%3A//i9advantage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i9advantage.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907184305id_/http%3A//i9advantage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-i9advantage.com respects individual privacy and values the confidence of its customers, business partners, and others who may use our services.  Not only does i9advantage.com strive to collect, use, and disclose personal information in a manner consistent with the laws of the countries in which we do business, but we also pride ourselves in upholding the highest ethical standards in our business practices.  This Data Security Privacy Policy (the “Policy”) sets forth the privacy principles that i9advantage.com follows with respect to personal information transferred from the European Union (“EU”) to the United States.
+### I-9 Advantage Privacy Policy
 
-**PRIVACY SHIELD**
+** ** **This Privacy Policy was last updated on, and is effective as of, May 16 2018.**
 
-The EU-U.S. Privacy Shield Framework was designed by the U.S. Department of Commerce and European Commission to provide companies on both sides of the Atlantic with a mechanism to comply with EU data protection requirements when transferring personal data from the European Union to the United States in support of transatlantic commerce. On July 12, 2016, the European Commission deemed the Privacy Shield Framework adequate to enable data transfers under EU law (see the [adequacy determination](http://ec.europa.eu/justice/data-protection/international-transfers/eu-us-privacy-shield/index_en.htm)).
+**For purposes of this Privacy Policy, “You” or “Your” means persons who access the Site and our customers and their applicants or employees who use the Service.**
 
-The Privacy Shield program, which is administered by the International Trade Administration (ITA) within the U.S. Department of Commerce, enables U.S.-based organizations to join the Privacy Shield Framework and benefit from the adequacy determination.  Upon voluntarily joining the Privacy Shield Framework, and publicly committing to comply with the Framework’s requirements, the commitment becomes enforceable under U.S. law. Consistent with its commitment to protecting personal privacy, i9advantage.com adheres to the Privacy Shield Principles.
+**WHEN YOU ACCESS THIS SITE OR USE THE SERVICE, YOU AGREE TO THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, YOU SHOULD STOP ACCESSING THIS SITE OR USING THE SERVICE.**
 
-i9advantage.com complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States.  i9advantage.com has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>
+**1\. Overview**
 
-**DEFINITIONS**
+1.1 Purpose.  I-9 Advantage, LLC (the “ **Company** ,” “ **we** ,” “ **us** ,” or “ **our** ”), operates this website located at www.i9advantage.com and related webpages and content (collectively the “ **Site** ”), as well as the web-based services platform (the “ **Service** ”) that is accessible through the Site.  Your privacy is important to us, which is why we have developed this Privacy Policy to explain our practices regarding the use and disclosure of personally identifiable information and other information that we obtain online from users of the Site or the Service.
 
-For purposes of this Policy, the following definitions will apply:
+1.2 Online Only.  This Privacy Policy applies only to information collected through our Site or the Service and not to information collected offline or by other means.
 
-“Agent” means any third party that uses personal information provided by i9advantage.com to perform tasks on behalf of and under the instruction of i9advantage.com.
+1.3 Changes to Privacy Policy.  We reserve the right to modify this Privacy Policy at any time, and any modifications made will be effective immediately upon posting, so you should check this page for any changes.  We will post at the top of this Privacy Policy the date that modifications were last made, which should alert you to any changes since your last visit to the Site.  Your continued use of the Site is your agreement to the revised Privacy Policy. 
 
-“i9advantage.com” means the corporation, its successors, affiliates and subsidiaries. 
+**2.   The Personal Data We Collect**
 
-“Personal Information” means any information or set of information that identifies or is used by or on behalf of i9advantage.com to identify an individual.  Personal information does not include information that is encoded or anonymized, or publicly available information that has not been combined with non-public personal information.
+We may collect and process the following personal data about you:
 
-“Sensitive Information” means personal information that reveals race, ethnic origin, sexual orientation, political opinions, religious or philosophical beliefs, trade union membership, or information that concerns an individual’s health.  In addition, i9advantage.com will treat, as sensitive personal information, any information received from a third party where that third party treats and identifies the information as sensitive.
+2.1 Information that you give us. 
 
-**SCOPE**
+2.1.1 This includes information you may give us so we can provide you with access to the Site or Service and may include your name, address, e-mail address, phone number and other information necessary to use the Site or Service as well as information necessary to complete the U.S. Department of Homeland Security Employment Eligibility Verification Form, known as “Form I-9.” 
 
-This Policy applies to all personal information received by i9advantage.com in the United States from the EU, in any format including electronic, paper, or verbal.
+2.1.2 When using the Site or Service, you may also provide us with personal information about you and your employees and applicants (as applicable) so we can provide the Service in accordance with our website and the Subscription Services Agreement or similar platform terms and conditions entered into with our customers or resellers.
 
-**NOTICE**
+2.2 Information that we collect automatically. We automatically collect the following information from your use of the Site:
 
-Where i9advantage.com collects personal information directly from individuals in the EU, it will inform them about the purposes for which it collects and uses the information, the types of third parties to which i9advantage.com discloses that information, and the choices and means, if any, i9advantage.com offers individuals for limiting the use and disclosure of their personal information.  Notice will be provided in clear and conspicuous language when individuals are first asked to provide personal information to i9advantage.com, or as soon as practicable thereafter, and in any event before i9advantage.com uses the information for a purpose other than that for which it was originally collected.
+2.2.1 technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information (if applicable), browser type and version, browser plug-in types and versions, operating system and platform; and
 
-i9advantage.com may be required, at times, to disclose personal information in response to lawful requests by government agencies and public authorities, including to meet national security or law enforcement requirements.
+2.2.2 information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from the Site (including date and time); products you viewed or searched for; page response times, length of visits to certain pages, and methods used to browse away from the page and any phone number used to call our customer service number.
 
-Where i9advantage.com receives personal information from its subsidiaries, affiliates or other entities in the EU, it will use such information in accordance with the notices provided by such entities and the choices made by the individuals to whom such personal information relates.
+2.3 Information that we receive from third parties.  We are working closely with third parties (including, for example, business partners, resellers, sub-contractors in technical and payment services, advertising networks, analytics providers and search information providers) and may receive information from them. 
 
-**CHOICE**
+**3.  Why We Collect Personal Data and What We Do With It**
 
-i9advantage.com will offer individuals the opportunity to choose (opt-out) whether their personal information is (a) to be disclosed to a third party, or (b) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual.
+3.1  When you provide your personal data to us, we will make reasonable efforts to ensure that the purpose for which you are providing that personal data is clear.
 
-For sensitive information, i9advantage.com will give individuals the opportunity to affirmatively and explicitly (opt-in) consent to the disclosure of the information to a third party or to the use of the information for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual.
+3.2 Depending on who you are and your relationship with us, we may process your personal data as follows:
 
-**DISCLOSURES AND TRANSFERS TO AGENTS**
+3.2.1 to carry out our obligations to you from your use of our Site, the Service or under another agreement with you;
 
-i9advantage.com may share an individual’s information with agents, contractors, or partners of i9advantage.com in connection with federal Form I-9 services that these individuals or entities perform for, or with, i9advantage.com.  Onward transfer of personal information is not shared, but, rather, is entered into i9advantage.com’s electronic I-9 software system and made available exclusively to authorized users of the electronic I-9 environment.  In the unlikely event of onward transfer of data to third parties, i9advantage.com assumes liability (a) to the extent we are required to respond by way of legal or ethical obligation; and (b) to the extent expressly permitted by an applicable law, rule, or regulation.
+3.2.2 to administer your account with us;
 
-i9advantage.com ensures that the use and disclosure of personal data is limited to agents, contractors, partners, or clients authorized to enter or edit such Form I-9 data on behalf of an employee.  I9advantage.com will obtain assurances from its agents and contractors that they will safeguard personal information received from us in a manner consistent with this Policy.  Appropriate assurance of compliance may be given in a number of ways, which may include one or more of the following:
+3.2.3 to provide you with information about our products, the Site, the Service and any other services we provide;
 
-  1. A contract between i9advantage.com and the third party which includes provisions requiring the third party to provide at least the same level of protection as is required by the relevant Privacy Shield Principles.
+3.2.4  to administer the Site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
 
+3.2.5 to allow you to participate in interactive features of the Site or Service, when you choose to do so;
 
-  2. The third party may be subject to the EU Data Protection Directive itself.
+3.2.6  internally, to inform decisions about our business operations and strategy; and
 
+3.2.7 to contact you from time to time to market any other services we provide and we think may be of interest to you.
 
-  3. The third party may have filed its own Privacy Shield certification.
+3.2. to facilitate your employer or prospective employer’s compliance with federal Form I-9 requirements.
 
+3.3 Our Service is used to facilitate employer federal Form I-9 compliance and involves the collection of personally identifiable information contained on Form I-9 from job applicants and employees of our customers.  Our Service may also involve transmission of Form I-9 information through the use of E-Verify.  It is the obligation of customers of our Service to ensure that all personal information collected for E-Verify is reasonably and properly safeguarded and used only for lawful  purposes for E-Verify compliance.  At a minimum our customers must: (a) allow ONLY authorized employees to handle Form I-9s and other information related to E-Verify; (ii) ensure that employee information is stored in a safe and secure location and that only authorized individuals have access to the information; and ensure that E-Verify results are discussed in private with the employee or employment candidate.   Any personally identifiable information collected by us for Form I-9 compliance is used by us solely to provide the Service to our customers and is not used or shared by us for any other purpose except as provided in this Privacy Policy.
 
+**4.   Who We Share Your Personal Data With**
 
-Where i9advantage.com has knowledge that an agent, contractor, or partner is using or disclosing personal information in a manner contrary to this Policy, we will take assertive and appropriate steps to prevent or stop the use or disclosure. 
+4.1 We may disclose your personal information:
 
-**SECURITY**
+4.1.1  to business partners, suppliers and sub-contractors for the performance of any contract we or you enter into with them or to fulfill our Services to you;
 
-i9advantage.com will employ reasonable safeguards to protect personal information in its possession.  To prevent unauthorized access, disclosure, and destruction of personal information and to maintain data accuracy and ensure the appropriate use and confidentiality of the personal information, either for i9advantage.com’s own purposes or on behalf of our customers, i9advantage.com has put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the personal information i9advantage.com processes.  ****
+4.1.2  to our customers in order to allow them to use our service in connection with their Form I-9 compliance activities or for E-Verify;
 
-**DATA INTEGRITY**
+4.1.3 in the event that we sell or transfer any part of our business or assets (whether by merger, asset sale or otherwise), in which case we may disclose and transfer your personal data to the prospective buyer of such business or assets;
 
-i9advantage.com processes personal information only in ways compatible with the purpose for which it was collected or subsequently authorized by the individual. To the extent necessary for such purposes, i9advantage.com takes reasonable steps to ensure that personal information is accurate, complete, current, and otherwise reliable with regard to its intended use. ****
+4.1.4  if we are under a duty to disclose or share your personal data in order to comply with any legal or regulatory obligation or request; and
 
-**ACCESS AND CORRECTION**
+4.1.5 to third parties to enforce agreements between us or to investigate potential breaches of those agreements or to protect the rights, property or safety of our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
-Upon request, individuals will be granted reasonable access to personal information that is maintained by i9advantage.com.  If an individual becomes aware that the personal information is inaccurate, the individual may contact i9advantage.com using the contact information below.  Upon receipt of such request, i9advantage.com will take reasonable steps to permit individuals to correct, amend, or delete information that is found to be inaccurate or incomplete.
+**5.  Security Measures for the Site**
 
-**ENFORCEMENT**
+5.1 We implement a variety of security measures for the Site and Service that we believe are commercially reasonable to help us maintain the safety of your personal information when you place an order or enter, submit or access your personal information.  These security measures include using one or more servers for the Site and Service that are secured by commercially reasonable measures. 
 
-i9advantage.com periodically verifies that this Policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented, and in conformity with the Privacy Shield Principles.  All reported breaches or potential breaches will be investigated by the Privacy Officer and the investigative agents the Officer assigns, who will take such actions as they deem appropriate in the investigation, and if necessary, remediate the situation.  Any employee that i9advantage.com determines is in violation of this Policy will be subject to disciplinary action up to and including termination of employment.  i9advantage is also subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
+5.3  You are responsible for keeping confidential your access credentials for the Site or Service, including password(s), and you should not share your password(s) with anyone.
 
-**DISPUTE RESOLUTION**
+5.4  Notwithstanding the above, you should be aware that the transmission of information via the Internet is not completely secure.  Although we will use commercially reasonable measures to protect your personal data, we cannot guarantee the security of your data transmitted using the Service or the Site, and as a result, any transmission of personal data is at your own risk.
 
-In compliance with the Privacy Shield Principles, i9advantage.com commits to resolving complaints about our collection or use of your personal information.  Individuals in the European Union (EU) with inquiries or complaints regarding our Private Shield policy should first contact our Privacy Officer at:   
-[PrivacyPolicy@i9advantage.com](mailto:PrivacyPolicy@nowHIRE.com) (additional contact information found below).
+  
+**6.  Cookies**
 
-i9davantage.com has further committed to refer unresolved Privacy Shield complaints to cooperate with EU data protection authorities (DPAs) with regard to human resources data transferred from the EU in the context of the employment relationship.  If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact the EU DPAs for more information or to file a complaint.  The services of EU DPAs are provided at no cost to you. ****
+6.1 The Site uses cookies to distinguish you from other users of the Site.  This helps us provide you with a good experience when you browse the Site and enables you to use the Service.  The use of cookies also allows us to improve the Site and the Service.
 
-Any questions or concerns regarding the use or disclosure of personal information should be directed to the Privacy Officer at the address given below.  i9advantage.com will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the Privacy Shield Principles contained in this Policy.  For complaints that cannot be resolved between i9advantage.com and the complainant, i9advantage.com has agreed to participate in the dispute resolution procedures of the panel established by the European data protection authorities to resolve disputes pursuant to the Privacy Shield Principles. 
+6.2  A cookie is a small file that a site or its service provider transfers to the hard drive of your computer or other device through your Web browser and enables the site or service provider systems to recognize your browser and capture certain information for use during your visit to our Site and for future visits to our Site.
 
-In accordance with the Privacy Shield Framework Principles (“Principles”) and the Privacy Shield’s arbitration requirement found in Annex I, i9advantage.com agrees to allow the Privacy Shield Panel to determine, for residual claims, whether i9advantage.com has violated its obligations under the Principles as to that individual, and whether any such violation remains fully or partially unremedied.  The Privacy Shield Panel is authorized to impose individual-specific, non-monetary equitable relief (such as access, correction, deletion, or return of the individual’s data in question) necessary to remedy the violation of the Principles only with respect to the individual.  No damages, costs, fees, or other remedies are available.  
+6.3  We use the following cookies:
 
-**CONTACT INFORMATION**
+6.3.1 Strictly necessary cookies. These are cookies that are required for the operation of the Site. They include, for example, cookies that enable you to log into secure areas of the Site, use a shopping cart or session tracking.
 
-Questions or comments regarding this Policy should be submitted to the i9advantage.com Privacy Officer by mail as follows:
+6.3.2  Analytical/performance cookies. They allow us to recognize and count the number of visitors and to see how visitors move around the Site when they are using it. This helps us to improve the way the Site works, for example, by ensuring that users are finding what they are looking for easily.  [Click here](http://www.google.com/intl/en/analytics/privacyoverview.html) for a detailed description of Google Analytics cookies we use. 
 
-Jamie Brooks  
-Product and Compliance Manager  
-21220 Kelly Road  
-Eastpointe, Michigan 48021  
-[PrivacyPolicy@i9advantage.com](mailto:PrivacyPolicy@nowHIRE.com)
+6.3.3  Functionality cookies. These are used to recognize you when you return to the Site. This enables us to personalize our content for you, greet you by name and remember your preferences. 
 
-**LIMITATION ON APPLICATION**
+6.3.4 Targeting cookies. These cookies record your visit to the Site, the pages you have visited and the links you have followed. We may also share this information with third parties that assist I-9 with our Site and fulfilling our services for you.
 
-Adherence by i9advantage.com to the Privacy Shield Principles may be limited in liability (a) to the extent we are required to respond to a legal or ethical obligation; and (b) to the extent expressly permitted by an applicable law, rule, or regulation.
+6.4  You can block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of the Site and use the Service.  In addition, if you delete any Site cookies on a given visit, you would need to block them again in subsequent visits to our Site.
 
-**CHANGES TO THIS PRIVACY SHIELD PRIVACY POLICY**
+**7\. Children’s Privacy and Age Limitations for the Site**
 
-This Policy may be amended from time to time, consistent with the requirements of the Privacy Shield Principles.  Notice of any such amendment will be posted on i9advantage.com’s web page - <http://www.i9advantage.com/>.
+7.1 The Site is intended for use by persons aged 18 or older, or persons under age 18 who are required to submit Form I-9 data to their employer or prospective employer for employment eligibility verification and by your use of this Website you affirm that you are at least 18 years of age or are using the Site or Services for Form I-9 compliance.  We do not knowingly collect personally identifiable information from persons under the age of 18 except in connection with Form I-9 compliance by our customers. If we discover or are made aware that we have received personally identifiable information from an individual who indicates that he or she is, or whom we otherwise have reason to believe is, under the age of 18 and who is not submitting the information in connection with Form I-9 compliance by our customers, we will delete such information from our systems.  If you are a parent or guardian of a child under the age of 18 and believe he or she has disclosed personally identifiable information to us other than for purposes of Form I-9 compliance, please contact us as provided below.  In any such event, a parent or guardian of a child under the age of 18 may review and request deletion of such child's personally identifiable information as well as prohibit the use thereof except to the extent required or necessary for Form I-9 compliance. 
+
+**8\. Additional Notices to California Residents**
+
+8.1 California Do-Not-Track Disclosure.  At this time, the Site is not set up to honor web browser do-not-track settings.
+
+8.2 Information on Marketing Disclosures.  California Civil Code Section 1798.83 permits our users who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us at 21220 Kelly Road, Eastpointe, MI 48021 U.S.A. 
+
+8.3 Content Removal Requests for Users Under 18 Years Old.   If you are a user under 18 years of age and reside in California, you may request and obtain removal of, content or information that you have posted on the Site.    You may send us any such requests by one of the following methods: (i) by email (writing “Privacy Policy – Removal Request” in the subject line) at support@i9advantage.com; or (ii) by writing to us at 21220 Kelly Road, Eastpointe MI 48021 U.S.A.  We will review the request and respond promptly.  You should be aware that a request to remove content or information posted by you on the Site does not ensure or require complete or comprehensive removal of such content or information from our databases.
+
+**9\. Links to Other Websites**
+
+9.1 The Site may contain links to other websites, applications, products and services provided or maintained by us, our affiliates and/or by third parties that may not follow the same privacy policies as applicable to the Site.  These other websites, applications, products and services may use cookies, collect data and use the data in ways that are different from the way in which we use the information collected through the Site. When linking to another website, you should read that website’s privacy policy. Our Privacy Policy only governs information collected on or through the Site.
+
+**10\. Limited Right to Use Site**
+
+10.1 Your use of our Site is subject to our continuing to have in place a valid agreement for use of this Site with you or your employer or prospective employer, as the case may be.  If such agreement is terminated for any reason, we reserve the right to terminate your further access to the Site.   
+
+**11\. Assignment**
+
+11.1 We may assign our rights and duties under this Privacy Policy, including, without limitation, our rights in information collected through the Site, to any third party at any time without notice to you in connection with any sale, merger, acquisition, divestiture or liquidation of all or part of our business or assets related to the Site, all or substantially all of our business or assets, or as part of any reorganization or restructuring of our business.
+
+**12\. Contact Us**
+
+ 12.1  Questions, comments and requests regarding our privacy policy are welcomed and should be addressed to I-9 Advantage, LLC at 21220 Kelly Road, Eastpointe, MI 48021 U.S.A. or at [support@i9advantage.com](mailto:support@i9advantage.com).
