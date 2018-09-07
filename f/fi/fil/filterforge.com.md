@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filterforge.com privacy policy that was archived on 2017-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171022145430id_/https%3A//filterforge.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filterforge.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907154722id_/https%3A//www.filterforge.com/privacy.html) for the most accurate reproduction.*
 
 # Filter Forge - Privacy Policy
 
