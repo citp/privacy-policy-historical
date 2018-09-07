@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comparethemarket.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606000609id_/https%3A//www.comparethemarket.com/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comparethemarket.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907122055id_/https%3A//www.comparethemarket.com/information/privacy-policy) for the most accurate reproduction.*
 
 # Compare the Market - Privacy & Cookie Policy
 
@@ -60,11 +60,11 @@ They will share your personal data with any insurance providers they work with i
 
 **Business insurance**
 
-Our business insurance comparison service is provided by our comparison service provider Your Insurance which is a trading name of Towergate Underwriting Group Limited who will also be a data controller in relation to any data you provide in relation to a quote for business insurance.
+Our business insurance comparison service is provided by our comparison service provider Simply Business is a trading name of Xbridge Limited who will also be a data controller in relation to any data you provide in relation to a quote for business insurance.
 
 They will share your personal data with any insurance providers they work with in order to provide your quote.
 
-If you use the telephone helpline to call Your Insurance they will be the data controller of any data that you provide directly to them which will be subject to their own privacy policy.
+If you use the telephone helpline to call Simply Business they will be the data controller of any data that you provide directly to them which will be subject to their own privacy policy.
 
 **Credit cards**
 
@@ -74,7 +74,7 @@ If you decide to click through to a credit card provider, any personal data you 
 
 Before you click through to a credit card provider we'll ask you if you want to enter your email address so you can claim a reward at a later date. This is optional to provide and will only be used to administer our rewards scheme.
 
-The credit card comparison service on our Website is provided by lovemoney.com Financial Service Limited.
+The credit card comparison service on our Website is provided by Runpath Regulated Services Limited.
 
 **Loans, current accounts, savings accounts and mortgages**
 
@@ -86,9 +86,44 @@ If you decide to click through to any provider, any personal data you provide wi
 
 The mortgage broker service on our Website is run by moneyQuest Mortgage Brokers Limited. If you decide to contact them or request them to contact you they will be the data controller in respect of any personal data that they process about you and this will be subject to their own privacy policy. If you request to be contacted we will pass them your personal data in order to facilitate this.
 
+**Mortgages**
+
+If you use our indicative mortgage eligibility check service, the personal data you provide (including any data about any joint applicant) will be processed by Runpath Regulated Services Limited (RRS). RRS is a data controller alongside Compare the Market Limited in respect of its use of your personal data for this service and you can find out more information on how they may process your data [**here**](https://www.runpath.com/regulated/privacypolicy "https://www.runpath.com/regulated/privacypolicy").
+
+As part of the indicative eligibility checking service RRS will need to retrieve and use data from one or more of the three main Credit Reference Agencies (CRAs) in order to provide your eligibility results.
+
+A Credit Reference Agency (CRA) is a company that collects personal information from various sources and provides that personal information for variety of uses (including to prospective lenders for the purposes of making credit decisions).
+
+RRS will search a CRA who will provide information about you which RRS will use to assess creditworthiness and your likely eligibility for a mortgage . The CRA will provide RRS with the publicly held data, including the electoral roll and shared credit performance data. If you have a financial associate their data may also be provided. This data is not shared with Compare the Market.
+
+When the CRA receives a search from RRS they will place a quotation search footprint on your credit report, regardless of whether you progress any application. This search will not affect your ability to gain credit. This may show in your credit report Compare the Market – Mortgage.
+
+If you choose to pursue an application, any data that you provide to that lender to progress your application will be subject to that lender's own privacy policy.
+
+RRS will only retain data retrieved from CRAs for 90 days.
+
+More information about each CRA and what it does with personal data is available at the following locations:
+
+Call Credit:  
+•www.callcredit.co.uk/crain
+
+Equifax:  
+•www.equifax.co.uk/crain
+
+Experian:  
+•www.experian.co.uk/crain
+
+You can contact any of the CRA's if you wish to obtain a copy of your credit report.
+
+Experian, Consumer Help Service, PO Box 8000, Nottingham NG80 7WF or call 0844 4818000 or log on to **[www.experian.co.uk](https://www.experian.co.uk/ "https://www.experian.co.uk/")**.
+
+CallCredit, Consumer Services Team, PO Box 491, Leeds, LS3 1WZ or call 0870 0601414
+
+Equifax PLC, Credit File Advice Centre, PO Box 1140, Bradford, BD1 5US or call 0844 335 0550 or log on to **[www.myequifax.co.uk](https://www.equifax.co.uk/ "https://www.equifax.co.uk/")**
+
 **Homeowner loan broker service**
 
-The homeowner loan broker service on our website is run by lovemoney.com Financial Services Limited. If you decide to contact them or request them to contact you they will be the data controller in respect of any personal data that they process about you and this will be subject to their own privacy policy. If you request to be contacted we will pass them your personal data in order to facilitate this.
+The homeowner loan broker service on our website is run by Runpath Regulated Services Limited. If you decide to contact them or request them to contact you they will be the data controller in respect of any personal data that they process about you and this will be subject to their own privacy policy. If you request to be contacted we will pass them your personal data in order to facilitate this.
 
 Before you click through to a loan provider we'll ask you if you want to enter your email address so you can claim a reward at a later date. This is optional to provide and will only be used to administer our rewards scheme.
 
@@ -104,15 +139,15 @@ Business energy comparison service
 
 The business energy comparison service on our Website is provided by Energylinx who are a data controller in respect of any personal data you input for the purposes of using the business energy comparison, including direct debit details which are collected directly by Energylinx. When you select to switch providers, Energylinx will pass any personal data including your direct debit details to the energy provider to allow them to process your switch. Any use of your personal data when you switch will be subject to the energy providers privacy policy which we are not responsible for.
 
-**Broadband, TV and mobile**
+**Broadband, phone, TV and mobile**
 
-Our Website also lets you compare broadband, TV and mobile details. This service is provided by Decision Technologies Limited. You can view deals available and click through to the providers without providing us with any personal data. You can choose to enter your postcode in order to view details of deals that are more relevant to you for example Decision Technologies Limited can use your postcode to perform an availability check for suppliers in your area.
+Our Website also lets you compare broadband, phone, TV and mobile deals. This service is provided by Decision Technologies Limited. You can view deals available and click through to the suppliers without providing us with any personal data. You can choose to enter your postcode in order to view details of deals that are more relevant to you (for example: Decision Technologies Limited can use your postcode to perform an availability check for suppliers in your area).
 
-If you decide to click through to a provider or telephone a provider, any personal data you provide will be subject to that's provider's privacy policy.If you place an order with a supplier by telephone, Decision Technologies Limited will collect your telephone number to track the progress of the order you have placed.
+If you decide to click through to a supplier or telephone a supplier, any personal data you provide will be subject to that supplier's privacy policy. If you place an order with a supplier by telephone, Decision Technologies Limited will collect your telephone number to track the progress of the order you have placed.
 
-Decision Technologies will be a data controller in relation to any personal data they collect when you use the broadband, tv or mobile comparison service.
+Decision Technologies will be a data controller in relation to any personal data they collect when you use the broadband, TV or mobile comparison service, and will be subject to their **[privacy policy](https://broadband.comparethemarket.com/privacypolicy "https://broadband.comparethemarket.com/privacypolicy")**. 
 
-Before you click through to a provider we'll ask you if you want to enter your email address so you can claim a reward at a later date. This is optional to provide and will only be used to administer our rewards scheme. If you choose to provide your email address for marketing or to participate in our rewards scheme, we will be the data controller of that data and we will process it for the purposes set out in this policy.
+Before you click through to a provider we'll ask you if you want to enter your email address so you can claim a reward later and to send you information about the last deal you have viewed. This is optional to provide and will only be used to administer our rewards scheme and trigger one single email about the last deal you view. If you choose to opt in for marketing or to participate in our rewards scheme, we will be the data controller of that data and we will process it for the purposes set out in this policy.
 
 ### Where do we get the data from?
 
@@ -142,7 +177,7 @@ You can read our cookie policy [**here**](https://web.archive.org/information/pr
 
 We may use web beacons and pixel tags alongside cookies both on our Website and in any emails we sent to you. Information collected may include items such as the IP address of your computer, the time you visited our Website and what links you clicked on or when you opened our emails. We may also use information from cookies or tags when you click through from comparethemarket.com to our partners' websites to help us understand which quotes you have progressed and if you have completed your purchase. Further information about cookies, web beacons and pixel tags can be found at http://www.allaboutcookies.org.
 
-This Website also uses Google Analytics to allow us to monitor how users use our Website. We use services provided by Google to do this including Google's Remarketing and Advertising Reporting Features. As part of this activity, if you have a Google account and have allowed Google to associate your web and app browsing history so that you may receive personalised ads then Google may collect a Google identifier which allows them to identify your Google account when you are using this Website. Alongside Google Analytics, this Website uses Accelerated Mobile Pages (AMP), this is a service provided by Google which allows webpages to load more quickly on a mobile device by allocating a Client ID to your mobile device if you have loaded the web page before. Please refer to our cookie policy for details of the cookies that are used in relation to Google Analytics activity.If you require further information or wish to opt out of Google Analytics Remarketing and Advertising Reporting Features then please visit **[Google's currently available opt-outs](https://tools.google.com/dlpage/gaoptout "Google's currently available opt-outs")**.
+This Website also uses Google Analytics to allow us to monitor how users use our Website. We use services provided by Google to do this including Google's Remarketing and Advertising Reporting Features. The features that we use include Google Display Network Impression Reporting, Google Analytics Demographics and Interest Reporting and integrated services that require Google Analytics to collect data for advertising purposes including the collection of the data via advertising cookies and identifiers. As part of this activity, if you have a Google account and have allowed Google to associate your web and app browsing history so that you may receive personalised ads then Google may collect a Google identifier which allows them to identify your Google account when you are using this Website (including where you use different devices to access this website). Google use this data alongside other data they may collect about you, which may include your location, search history, YouTube history and data from other sites that partner with Google, to provide us with aggregated and anonymised information which assists us in understanding how individuals are using our website. Alongside Google Analytics, this Website uses Accelerated Mobile Pages (AMP), this is a service provided by Google which allows webpages to load more quickly on a mobile device by allocating a Client ID to your mobile device if you have loaded the web page before. Please refer to our cookie policy for details of the cookies that are used in relation to Google Analytics activity. If you require further information or wish to opt out of Google Analytics Remarketing and Advertising Reporting Features then please visit  **[Google's currently available opt-outs](https://tools.google.com/dlpage/gaoptout "Google's currently available opt-outs")**.
 
 If you contact us electronically, we may collect your electronic identifier e.g. Internet Protocol (IP) address, or device ID or telephone number supplied by your service provider. This information may be used by us and/or shared with and used by our partners to aid in the detection of fraud. Where such data is used by a partner, this will be subject to the partner's own privacy policy.
 
@@ -205,7 +240,8 @@ We use the data set out above to:
   * send you any reminders that you have set up
   * send you any energy saving service information if you have signed up for this service
   * automatically generate quotes when your policies are due for renewal if you have opted into this service (you can opt out of this service at any time by changing the settings in your account)
-  * store your documents if you use the "Your Documents" feature, we also carry out analysis of your documents to identify the key information from the documents to make it easier for you to find the information you need; communicate with you about our services, for example send you confirmation emails regarding your quotes or your account details. When you obtain a quote with us, you will automatically be sent confirmation of your quote by email or SMS so that you have a record of your quote and can easily retrieve your quote in the future;
+  * store your documents if you use the "Your Documents" feature, we also carry out analysis of your documents to identify the key information from the documents to make it easier for you to find the information you need;
+  * communicate with you about our services, for example send you confirmation emails regarding your quotes or your account details. When you obtain a quote with us, you will automatically be sent confirmation of your quote by email or SMS so that you have a record of your quote and can easily retrieve your quote in the future;
   * manage, run and administer your account if you choose to set up an account with our Website; and
   * help us build up a picture of you as a customer to ensure that we provide you with more relevant information, such as showing you the right content at the right time.
 
@@ -250,9 +286,13 @@ When you provide your details you will be given an opportunity to confirm whethe
 
 If you consent to us contacting you for marketing purposes, we will disclose an anonymised version of your email address (we use a process called hashing to protect your details) to third party social media sites such as Facebook to enable us to display marketing to you via such sites. "Hashing" is similar to encryption and means that we scramble the plain text of your email address to create a unique and irreversible message. This means that the social media sites do not receive a plain text version of your email address. Where we do this, we require social media providers only to use your information for the purposes of enabling us to display marketing to you through their site and not for any of their own purposes.
 
-You can change your mind at any time by logging into your account and updating your preferences. You can also unsubscribe from emails by clicking on the unsubscribe link on any marketing emails that we send you, updating your preferences in your account or by unsubscribing on our [**website**](https://web.archive.org/ "Comparethemarket.com").
+You can change your mind at any time by logging into your account and updating your preferences. You can also unsubscribe from emails by clicking on the unsubscribe link on any marketing emails that we send you, updating your preferences in your account or by unsubscribing on our [**website**](https://preferences.comparethemarket.com/ "Contact preference centre").
 
 This will not impact any communications that we need to send you for the purpose of your quote, for example confirmation of your quote or your account details, notifications we need to send you regarding any rewards you have claimed or communications necessary for any other services you have requested that we provide to you.
+
+Your personal data will also be used to assist us and our approved advertising providers with our advertising activities, as set out in more detail in the "Targeting Cookies" section of our **[Cookies Policy](https://web.archive.org/information/privacy-policy/privacy-policy-use-of-cookies/ "Cookie policy")**. Targeting cookies do not collect information that is directly identifiable to you, such as your name, email address and information you enter into forms on our website. They collect information about your browsing activity and your device to enable our providers to serve our advertising to you. Most of these cookies are set by our providers who will be responsible for how the cookies (and information collected by them) are used.
+
+However, we do use the personal data that we hold about you to put you into "segments" based on your interests and needs so that we can ensure the advertising you see is relevant to you. To do this effectively, we need to share some of your information with some of our providers so that they can combine it with the information collected by their cookies and serve advertising to audiences that we select. The information shared is limited to your email address, IP address, information about which products you may be interested in such as which pages of our website or app you have visited or which of our emails you have clicked on and whether you have purchased a policy or claimed a reward with us. Information is always shared in an encrypted, non-identifiable form. Where we do this, we will be jointly responsible with the relevant provider for how that personal data is used. More information about our providers and the cookies used, including how to opt out, is set out in our **[Cookies Policy](https://web.archive.org/information/privacy-policy/privacy-policy-use-of-cookies/ "Cookie policy")**.
 
 _Market Research_
 
@@ -276,34 +316,44 @@ Where we collect special personal data and criminal conviction or offence data f
 
 It may also be necessary for us to retain a copy of any special personal data and criminal conviction or offence data for the purpose of making or defending claims or preventing or detecting crime, including fraud.
 
-### Meerkat Movies
+### Our Rewards schemes
 
-If you have activated a Meerkat Movies membership and downloaded the Meerkat Movies app (the App), we will use the app to collect and process certain personal data as set out in this section.
+The personal data that we use for the purposes set out in this Part includes: your name, contact details (including your address), details about any policies you take out with any of our insurance partners or other products you buy through our Website and any other information you provide to us, for example as part of any complaints or queries regarding our reward schemes.
 
-_What personal data do we use?_
+We run certain rewards schemes to reward our customers for buying policies and other products through the Website. Please see **[here](https://web.archive.org/information/rewards-terms/)** for more information about our rewards schemes.
+
+We process this data because we have a legitimate interest in processing the data in order to effectively administer our reward scheme provide you with the reward scheme you have requested.
+
+Please see the section below headed "Meerkat Movies and Meerkat Meals" for information about how personal data is collected and used by our Meerkat app.
+
+### Meerkat Movies and Meerkat Meals
+
+If you have activated a Meerkat Movies or Meerkat Meals membership (referred to in this section as “Rewards” and downloaded the Meerkat app (the App), we will use the App to collect and process certain personal data as set out in this section. 
+
+#### **_What personal data do we use?_**
 
 We collect and use the following information through the App:
 
   * your name, email address and password. This information is collected when you set up an account with comparethemarket.com and is used to log you into the App;
   * information about your location, where you have agreed on the App that we can do so (you can change your mind about this at any time using your device's settings). This involves obtaining location data from your device;
-  * information about your use of the App, such as whether you have used your 2 for 1 codes, what movie trailers you have watched on the App and what movies you have searched for; and
-  * information about your device, such as your IP address, device profile and device settings (for example, whether you have switched push messaging on or off in your device settings).
-  * The App also uses Google Analytics, please see the section on the use of our Website and our services.
+  * information about your use of the App, such as whether you have used your 2 for 1 codes, what movie trailers you have watched on the App, and which restaurants or movies you have searched for; and information about your device, such as your IP address, device profile and device settings (for example, whether you have switched push messaging on or off in your device settings).
+  * We will use the data set out above to validate your eligibility to participate in our reward schemes and to administer the schemes. We will also use this data to contact you in relation to our reward schemes and to deal with any complaints or queries you have in relation to the rewards schemes. We will exchange data with our partners where necessary for the administration of any rewards schemes. We will also receive some data from the app about how you have use the reward scheme, for example if you use Meerkat Meals, we will receive information about your use your reward such as when and where you have used your reward and the number of people you used the reward for. This allows us to monitor how customers are using the rewards and to help us make any changes/improvements to our rewards schemes.
 
 
 
-_How do we use your personal data?_
+#### **_How do we use your personal data?_**
 
 We use your personal data in the following ways and for the following purposes:
 
-  * Your name, email and password are used to log you into the App and to link you to your comparethemarket.com account to check your eligibility for Meerkat Movies and that your membership is valid and has not expired.
+  * Your name, email and password are used to log you into the App and to link you to your comparethemarket.com account to check your eligibility for Rewards and that your membership is valid and has not expired.
   * Your name is also used to personalise any messages that we send to you through the App.
   * If you have agreed to receive messages from us, we will either use your device information to send you push messages (where you have opted in specifically to receiving push messages), or we will send in-app messages to you, for example to ask you to review the App.
-  * If you have agreed to receive marketing from us we will use your device information to notify you of information, products or services that we think may be of interest to you based on your previous use of the App, such as the release of a new film.
-  * We will use information about your account to send you service messages relating to your account, for example to let you know if your Meerkat Movies membership is about to expire.
-  * When you first log into the App, you will be asked if you are happy to allow location services. This means that we are sent information by your device about your location. You can turn this setting on and off any time using your device's settings. If you have consented to the use of location services, we will use your location to show you which cinemas are nearby. We will also use this information to identify when you enter a particular location. For example, we will use this location information to identify when you enter a cinema so that we can send you a message reminding you to use your voucher code.
+  * If you have agreed to receive marketing from us we will use your device information to notify you of information, products or services that we think may be of interest to you based on your previous use of the App, such as the release of a new film or a change in the participating restaurants for Meerkat Meals.
+  * We will use information about your account to send you service messages relating to your account, for example to let you know if your Rewards are about to expire.
 
 
+
+When you first log into the App, you will be asked if you are happy to allow location services. This means that we are sent information by your device about your location. You can turn this setting on and off any time using your device's settings. If you have consented to the use of location services, we will use your location to show you information about which restaurants or cinemas are nearby. We will also use this information to identify when you enter a particular location. For example, we will use this location information to identify when you enter a cinema or restaurant.  We’ll use this information to give us insight as to how you use your Rewards and may also use this information to send you more tailored messages for example reminding you to use your voucher code.
 
 ### How long do we keep data?
 
@@ -376,6 +426,8 @@ moneyQuest - **[info@moneyquest.co.uk](mailto:info@moneyquest.co.uk)**
 
 Decision Technologies – **[dpo@decision.tech](mailto:dpo@decision.tech)**
 
+Simply Business -   **[dataprotectionteam@simplybusiness.co.u](mailto:dataprotectionteam@simplybusiness.co.uk " dataprotectionteam@simplybusiness.co.uk")** **[k](mailto:dataprotectionteam@simplybusiness.co.uk " dataprotectionteam@simplybusiness.co.uk")**
+
 If you would like contact any insurance partner about the data that they hold then please visit that insurance partner’s website and view their privacy policy for details of how to contact them about data matters. A full list of our partners can be found **[here](https://web.archive.org/trusted-partners/)**.
 
 If you have any other queries or concerns about this Privacy Policy, or if you would like to contact our Data Protection Officer, you can email **[ctm.dpo@bglgroup.co.uk](mailto:ctm.dpo@bglgroup.co.uk)**  or write to the Data Protection Officer at Compare the Market Limited, Pegasus House, Bakewell Road, Orton Southgate, Peterborough, PE2 6YS.
@@ -384,4 +436,4 @@ When contacting us please describe the information you require and make sure tha
 
 ### Information Commissioner’s Office
 
-If you have a complaint regarding how your personal data has been processed by us then please contact us first using the complaints procedure set out **[here](https://web.archive.org/contact-us-old/ "Contact us")**.  You also have the right to complain to the Information Commissioner’s Office, which regulates data protection compliance. You can find more information by visiting their website www.ico.org.uk.
+If you have a complaint regarding how your personal data has been processed by us then please contact us first using the complaints procedure set out **[here](https://help.comparethemarket.com/ "Contact us")**.  You also have the right to complain to the Information Commissioner’s Office, which regulates data protection compliance. You can find more information by visiting their website www.ico.org.uk.
