@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the untuckit.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615134432id_/https%3A//www.untuckit.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the untuckit.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907065520id_/https%3A//www.untuckit.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | UNTUCKit
+# Privacy Policy
 
 TERMS OF USE
 
