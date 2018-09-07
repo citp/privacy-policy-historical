@@ -1,31 +1,781 @@
-<!--The following is the downloaded HTML source of the untuckit.com privacy policy that was archived on 2017-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170615134432id_/https%3A//www.untuckit.com/pages/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the untuckit.com privacy policy that was archived on 2018-09-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180907065520id_/https%3A//www.untuckit.com/pages/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head>
+<!DOCTYPE html><html lang="en" class="no-js page"><!--<![endif]--><head>
+  <script type="text/javascript" async="" src="//s3.amazonaws.com/booster-eu-cookie/untuckit.myshopify.com/booster_eu_cookie.js?shop=untuckit.myshopify.com"></script><script type="text/javascript" async="" src="//app.backinstock.org/widget/3455_1533105383.js?v=5&amp;shop=untuckit.myshopify.com"></script><script type="text/javascript" async="" src="https://formbuilder.hulkapps.com/skeletopapp.js?shop=untuckit.myshopify.com"></script><script type="text/javascript" async="" src="//staticw2.yotpo.com/4bQZVaAkK8Pueyf6OmBRO4DzM5OCXvL8tymkB7hc/widget.js?shop=untuckit.myshopify.com"></script><script type="text/javascript" async="" src="https://sailthru-shopify.herokuapp.com/shopify.js?shop=untuckit.myshopify.com"></script><script type="text/javascript" async="" src="https://beacon.riskified.com/?shop=untuckit.myshopify.com"></script><script type="text/javascript" async="" src="//d1liekpayvooaz.cloudfront.net/apps/customizery/customizery.js?shop=untuckit.myshopify.com"></script><script type="text/javascript" async="" src="https://cdn.swellrewards.com/loader/9FILhFRBWjlv395vjEm8_g.js?shop=untuckit.myshopify.com"></script><script type="text/javascript" async="" src="https://aws.sunriseintegration.com/a/giftCardManager/js/GiftCardManager.js?shop=untuckit.myshopify.com"></script><script type="text/javascript" async="" src="https://app.revenueconduit.com/js/rc-util-shopify.js?shop=untuckit.myshopify.com"></script><script type="text/javascript" async="" src="https://assets1.adroll.com/shopify/latest/j/shopify_rolling_bootstrap.js?adroll_adv_id=26UOIHAA3JEXRIXJBKYN5W&amp;adroll_pix_id=FH4LKZ7CPNHJFGNDNY3REE&amp;shop=untuckit.myshopify.com"></script><script type="text/javascript" async="" src="https://cdn.kustomerapp.com/cw/sdk.v1.1.min.js"></script><script type="text/javascript" async="" src="https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2017.09.05.1"></script><script src="https://shopify-cdn.flow.io/untuckit/js/v0/flow.js?shop=untuckit.myshopify.com"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PTGGHF"></script><script src="https://cdn.yottaa.com/rapid.min.js"></script>
+  <script>
+    Yo.configure('https://qoe-1.yottaa.net/api/v1/configure.rapid.js?key=I8IcJXp3b6tahQ');
+  </script>
+  <script>
+  window.lpTag = window.lpTag || {};
+  </script>
+
+  <script type="text/javascript" id="Dynamic_Yield_Context">
+  
+    console.log('Dynamic Yield Type: Page');
+  
+  window.DY = window.DY || {};
+  DY.recommendationContext = {
+    
+      type: 'OTHER'
+    
+  };
+  console.log("DY Recommendation Context", DY.recommendationContext)
+  
+    window.DY_customerData = false;
+  
+</script>
+
+<script type="text/javascript" src="//cdn.dynamicyield.com/api/8769919/api_dynamic.js"></script>
+<script type="text/javascript" src="//cdn.dynamicyield.com/api/8769919/api_static.js"></script>
+
+  <script>
+/*
+===================================
+| DATALAYER ARCHITECTURE: SHOPIFY |
+-----------------------------------
+
+DEFINITION:
+A data layer helps you collect more accurate analytics data, that in turn allows you to better understand what potential buyers are doing on your website and where you can make improvements. It also reduces the time to implement marketing tags on a website, and reduces the need for IT involvement, leaving them to get on with implementing new features and fixing bugs.
+
+RESOURCES:
+http://www.datalayerdoctor.com/a-gentle-introduction-to-the-data-layer-for-digital-marketers/
+http://www.simoahava.com/analytics/data-layer/
+
+AUTHORS:
+Mechelle Warneke = [{
+Email: mechellewarneke@gmail.com,
+Website: mechellewarneke.com,
+BVACCEL: [{
+  Email: mechelle@bvaccel.com,
+  Position: XO Strategist | Technical Web Analyst
+}]
+}];
+
+Tyler Shambora = [{
+Website: tylershambora.com,
+BVACCEL: [{
+  Email: tyler@bvaccel.com,
+  Position: Lead Web Developer
+}]
+}];
+
+EXTERNAL DEPENDENCIES:
+* jQuery
+* jQuery Cookie Plugin v1.4.1 - https://github.com/carhartl/jquery-cookie
+* cartjs - https://github.com/discolabs/cartjs
+
+DataLayer Architecture: Shopify v1.3.1
+COPYRIGHT 2016
+LICENSES: MIT ( https://opensource.org/licenses/MIT )
+*/
+
+/* PRELOADS */
+
+__bva__jQueryinterval = setInterval(function(){
+// --------------------------------------------- wait for jQuery to load
+if(window.jQuery){
+// --------------- run script after jQuery has loaded
+
+// search parameters
+getURLParams = function(name, url){
+    if (!url) url = window.location.href;
+    name = name.replace(/[\[\]]/g, "\\$&");
+    var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+    results = regex.exec(url);
+    if (!results) return null;
+    if (!results[2]) return '';
+    return decodeURIComponent(results[2].replace(/\+/g, " "));
+  };
+
+/* =====================
+| DYNAMIC DEPENDENCIES |
+--------------------- */
+
+__bva__ = {
+  dynamicCart: true,  // if cart is dynamic (meaning no refresh on cart add) set to true
+  cart: null,
+  wishlist: null,
+  removeCart: null
+};
+
+customBindings = {
+  cartTriggers: ['.js-add-cart'],
+  viewCart: [],
+  removeCartTrigger: [],
+  cartVisableSelector: [],
+  promoSubscriptionsSelectors: [],
+  promoSuccess: [],
+  ctaSelectors: [],
+  newsletterSelectors: ['.newsletter button'],
+  newsletterSuccess: ['.form-confirm.success'],
+  searchPage: [],
+  wishlistSelector: [],
+  removeWishlist: [],
+  wishlistPage: [],
+  searchTermQuery: [getURLParams('q')] // replace var with correct query
+};
+
+/* DO NOT EDIT */
+defaultBindings = {
+  cartTriggers: ['form[action="/cart/add"] [type="submit"],.add-to-cart,.cart-btn,#add-to-cart, #quick-shop-add'],
+  viewCart: ['form[action="/cart"],.my-cart,.trigger-cart,#mobileCart'],
+  removeCartTrigger: ['[href*="/cart/change"]'],
+  cartVisableSelector: ['.inlinecart.is-active,.inline-cart.is-active'],
+  promoSubscriptionsSelectors: [],
+  promoSuccess: [],
+  ctaSelectors: [],
+  newsletterSelectors: ['input.contact_email'],
+  newsletterSuccess: ['.success_message'],
+  searchPage: ['search'],
+  wishlistSelector: [],
+  removeWishlist: [],
+  wishlistPage: []
+};
+
+// stitch bindings
+objectArray = customBindings;
+outputObject = __bva__;
+
+var applyBindings = function(objectArray, outputObject){
+  for (var x in objectArray) {
+    var key = x;
+    var objs = objectArray[x];
+    values = [];
+    if(objs.length > 0){
+      values.push(objs);
+      if(key in outputObject){
+        values.push(outputObject[key]);
+        outputObject[key] = values.join(", ");
+      }else{
+        outputObject[key] = values.join(", ");
+      }
+    }
+  }
+};
+
+applyBindings(customBindings, __bva__);
+applyBindings(defaultBindings, __bva__);
+
+/* =======================
+| PREREQUISITE LIBRARIES |
+----------------------- */
+
+  clearInterval(__bva__jQueryinterval);
+
+    // jquery-cookies.js
+    if(typeof $.cookie!==undefined){(function(a){if(typeof define==='function'&&define.amd){define(['jquery'],a)}else if(typeof exports==='object'){module.exports=a(require('jquery'))}else{a(jQuery)}}(function($){var g=/\+/g;function encode(s){return h.raw?s:encodeURIComponent(s)}function decode(s){return h.raw?s:decodeURIComponent(s)}function stringifyCookieValue(a){return encode(h.json?JSON.stringify(a):String(a))}function parseCookieValue(s){if(s.indexOf('"')===0){s=s.slice(1,-1).replace(/\\"/g,'"').replace(/\\\\/g,'\\')}try{s=decodeURIComponent(s.replace(g,' '));return h.json?JSON.parse(s):s}catch(e){}}function read(s,a){var b=h.raw?s:parseCookieValue(s);return $.isFunction(a)?a(b):b}var h=$.cookie=function(a,b,c){if(arguments.length>1&&!$.isFunction(b)){c=$.extend({},h.defaults,c);if(typeof c.expires==='number'){var d=c.expires,t=c.expires=new Date();t.setMilliseconds(t.getMilliseconds()+d*864e+5)}return(document.cookie=[encode(a),'=',stringifyCookieValue(b),c.expires?'; expires='+c.expires.toUTCString():'',c.path?'; path='+c.path:'',c.domain?'; domain='+c.domain:'',c.secure?'; secure':''].join(''))}var e=a?undefined:{},cookies=document.cookie?document.cookie.split('; '):[],i=0,l=cookies.length;for(;i<l;i++){var f=cookies[i].split('='),name=decode(f.shift()),cookie=f.join('=');if(a===name){e=read(cookie,b);break}if(!a&&(cookie=read(cookie))!==undefined){e[name]=cookie}}return e};h.defaults={};$.removeCookie=function(a,b){$.cookie(a,'',$.extend({},b,{expires:-1}));return!$.cookie(a)}}))}
+
+    /* ======================
+    | Begin dataLayer Build |
+    ---------------------- */
+    window.dataLayer = window.dataLayer || [];  // init data layer if doesn't already exist
+    dataLayer.push({'event': 'Begin DataLayer'}); // begin datalayer
+
+    var template = "page";
+
+    /* Landing Page Cookie
+    -----------------------
+    1. Detect if user just landed on the site
+    2. Only fires if Page Title matches website */
+
+    $.cookie.raw = true;
+    if ($.cookie('landingPage') === undefined || $.cookie('landingPage').length === 0) {
+      var landingPage = true;
+      $.cookie('landingPage', unescape);
+      $.removeCookie('landingPage', {path: '/'});
+      $.cookie('landingPage', 'landed', {path: '/'});
+    } else {
+      var landingPage = false;
+      $.cookie('landingPage', unescape);
+      $.removeCookie('landingPage', {path: '/'});
+      $.cookie('landingPage', 'refresh', {path: '/'});
+    }
+
+    /* Log State Cookie
+    ------------------- */
+    
+    var isLoggedIn = false;
+    
+    if (!isLoggedIn) {
+      $.cookie('logState', unescape);
+      $.removeCookie('logState', {path: '/'});
+      $.cookie('logState', 'loggedOut', {path: '/'});
+    } else {
+      if ($.cookie('logState') === 'loggedOut' || $.cookie('logState') === undefined) {
+        $.cookie('logState', unescape);
+        $.removeCookie('logState', {path: '/'});
+        $.cookie('logState', 'firstLog', {path: '/'});
+      } else if ($.cookie('logState') === 'firstLog') {
+        $.cookie('logState', unescape);
+        $.removeCookie('logState', {path: '/'});
+        $.cookie('logState', 'refresh', {path: '/'});
+      }
+    }
+
+    if ($.cookie('logState') === 'firstLog') {
+      var firstLog = true;
+    } else {
+      var firstLog = false;
+    }
+
+    /* ==========
+    | DATALAYERS |
+    ----------- */
+
+    /* DATALAYER: Landing Page
+    --------------------------
+    Fires any time a user first lands on the site. */
+
+    if ($.cookie('landingPage') === 'landed') {
+      dataLayer.push({
+        'pageType': 'Landing',
+        'event': 'Landing'
+      });
+    }
+
+    /* DATALAYER: Log State
+    -----------------------
+    1. Determine if user is logged in or not.
+    2. Return User specific data. */
+
+    var logState = {
+      
+      
+      'logState' : "Logged Out",
+      
+      
+      'firstLog'      : firstLog,
+      'customerEmail' : '',
+      'timestamp'     : Date.now(),
+      
+      'customerType'       : 'New',
+      'customerTypeNumber' :'1',
+      
+      'shippingInfo' : {
+        'fullName'  : '',
+        'firstName' : '',
+        'lastName'  : '',
+        'address1'  : '',
+        'address2'  : '',
+        'street'    : '',
+        'city'      : '',
+        'province'  : '',
+        'zip'       : '',
+        'country'   : '',
+        'phone'     : '',
+      },
+      'billingInfo' : {
+        'fullName'  : '',
+        'firstName' : '',
+        'lastName'  : '',
+        'address1'  : '',
+        'address2'  : '',
+        'street'    : '',
+        'city'      : '',
+        'province'  : '',
+        'zip'       : '',
+        'country'   : '',
+        'phone'     : '',
+      },
+      'checkoutEmail' : '',
+      'currency'      : 'USD',
+      'pageType'      : 'Log State',
+      'event'         : 'Log State'
+    }
+
+    dataLayer.push(logState);
+
+    /*DATALAYER: Homepage
+    --------------------------- */
+
+    if(document.location.pathname == "/"){
+      var homepage = {
+        'pageType' : 'Homepage',
+        'event'    : 'Homepage'
+      };
+      dataLayer.push(homepage);
+    }
+
+    /* DATALAYER: Blog Articles
+    ---------------------------
+    Fire on Blog Article Pages */
+
+    
+
+    /* DATALAYER: Product List Page (Collections, Category)
+    -------------------------------------------------------
+    Fire on all product listing pages. */
+
+    
+
+    /* DATALAYER: Product Page
+    --------------------------
+    Fire on all Product View pages. */
+
+    if (template.match(/.*product.*/gi) && !template.match(/.*collection.*/gi)) {
+      var product = {
+        'products': [{
+          'id'              : '',
+          'sku'             : '',
+          'variantId'       : '',
+          'productType'     : "",
+          'name'            : '',
+          'price'           : '',
+          'quantity'        : 1,
+          'imageURL'        : "https://cdn.shopify.com/s/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_grande.gif",
+          'productURL'      : 'https://www.untuckit.com',
+          'brand'           : 'UNTUCKit',
+          'comparePrice'    : '',
+          'categories'      : [],
+          'currentCategory' : "",
+          'productOptions'  : {
+            
+          }
+        }]
+      };
+
+      function productView(){
+        var sku = '',
+            qty = $('.js-add-qty').length ? $('.js-add-qty').val() : $('#quantity').val(),
+            variantID = $('.js-add-cart').attr('data-variant-id');
+
+        qty = parseInt(qty);
+        variantID = typeof variantID === 'undefined' ? window.location.search.split('=')[1] : variantID;
+
+        product.variantId = variantID;
+        product.quantity = qty;
+        product.sku = sku;
+
+        dataLayer.push(product, {
+          'pageType' : 'Product',
+          'event'    : 'Product'
+        });
+      }
+      productView();
+
+      $(__bva__.cartTriggers).click(function(){
+          productView();
+      });
+    }
+
+    /* DATALAYER: Cart View
+    -----------------------
+    1. Fire anytime a user views their cart (non-dynamic) */
+
+    
+
+    /* DATALAYER Variable: Checkout & Transaction Data */
+
+    __bva__products = [];
+
+    
+    transactionData = {
+      'transactionNumber'      : '',
+      'transactionId'          : '',
+      'transactionAffiliation' : 'UNTUCKit',
+      'transactionTotal'       : '',
+      'transactionTax'         : '',
+      'transactionShipping'    : '',
+      'transactionSubtotal'    : '',
+      
+
+      'products': __bva__products
+    };
+
+    /* DATALAYER: Transaction
+    -------------------------- */
+    if(document.location.pathname.match(/.*order.*/g)){
+      dataLayer.push(transactionData,{
+        'pageType' :'Transaction',
+        'event'    :'Transaction'
+      });
+    }
+
+    /* DATALAYER: Checkout
+    -------------------------- */
+    if(window.location.href.indexOf('checkout') > -1 && typeof Shopify.Checkout !== 'undefined'){
+      if(Shopify.Checkout.step){
+        if(Shopify.Checkout.step.length > 0){
+          if (Shopify.Checkout.step === 'contact_information'){
+            dataLayer.push(transactionData,{
+              'event'    :'Customer Information',
+              'pageType' :'Customer Information'});
+          }else if (Shopify.Checkout.step === 'shipping_method'){
+            dataLayer.push(transactionData,{
+              'event'    :'Shipping Information',
+              'pageType' :'Shipping Information'});
+          }else if( Shopify.Checkout.step === "payment_method" ){
+            dataLayer.push(transactionData,{
+              'event'    :'Add Payment Info',
+              'pageType' :'Add Payment Info'});
+          }
+        }
+
+        /* DATALAYER: Transaction
+        -------------------------- */
+        if(Shopify.Checkout.page == "thank_you"){
+          dataLayer.push(transactionData,{
+            'pageType' :'Transaction',
+            'event'    :'Transaction'
+          });
+        }
+      }
+    }
+
+    /* DATALAYER: All Pages
+    -----------------------
+    Fire all pages trigger after all additional dataLayers have loaded. */
+
+    dataLayer.push({
+      'event': 'DataLayer Loaded'
+    });
+
+    /*==========================
+    | dataLayer Event Bindings |
+    --------------------------*/
+
+    /* DATALAYER: Add to Cart / Dynamic Cart View
+    ---------------------------------------------
+    Fire all pages trigger after all additional dataLayers have loaded. */
+
+    $(document).ready(function() {
+
+      /* DATALAYER: Search Results
+      --------------------------- */
+
+      var searchPage = new RegExp(__bva__.searchPage, "g");
+      if(document.location.pathname.match(searchPage)){
+        var search = {
+          'searchTerm' : __bva__.searchTermQuery,
+          'pageType'   : "Search",
+          'event'      : "Search"
+        };
+
+        dataLayer.push(search);
+      }
+
+      /* DATALAYER: Cart
+      ------------------- */
+
+      /* STAGE CART DATA */
+      function mapJSONcartData(){
+        jQuery.getJSON('/cart.js', function (response) {
+        // --------------------------------------------- get Json response
+          __bva__.cart = response;
+          var cart = {
+            'products': __bva__.cart.items.map(function (line_item) {
+              return {
+                'id'       : line_item.id,
+                'sku'      : line_item.sku,
+                'variant'  : line_item.variant_id,
+                'name'     : line_item.title,
+                'price'    : (line_item.price/100),
+                'quantity' : line_item.quantity,
+                'image'    : line_item.image
+              }
+              }),
+            'pageType' : 'Cart',
+            'event'    : 'Cart'
+          };
+          if(cart.products.length > 0){
+            dataLayer.push(cart);
+          }
+        // --------------------------------------------- get Json response
+        });
+      }
+
+      viewcartfire = 0;
+
+      /* VIEW CART */
+      $(__bva__.viewCart).on('click', function (event) {
+      // ------------------------------------------------------------------------- view cart
+
+        if(viewcartfire !== 1){
+
+        viewcartfire = 1;
+        // IF DYNAMIC CART IS TRUE
+        if (__bva__.dynamicCart) {
+        // ---------------------------------- if dynamic cart is true
+        cartCheck = setInterval(function () {
+        // -------------------------------------- begin check interval
+          if ($(__bva__.cartVisableSelector).length > 0) {
+          // ------------------------------------------------------------------ check visible selectors
+            clearInterval(cartCheck);
+            mapJSONcartData();
+            // ------------------------------------------------------------------ check visible selectors
+            $(__bva__.removeCartTrigger).on('click', function (event) {
+            // ------------------------------------------------------------------- remove from cart
+              var link = $(this).attr("href");
+              jQuery.getJSON(link, function (response) {
+              // --------------------------------------------- get Json response
+                __bva__.removeCart = response;
+                var removeFromCart = {
+                  'products': __bva__.removeCart.items.map(function (line_item) {
+                    return {
+                      'id'       : line_item.id,
+                      'sku'      : line_item.sku,
+                      'variant'  : line_item.variant_id,
+                      'name'     : line_item.title,
+                      'price'    : (line_item.price/100),
+                      'quantity' : line_item.quantity
+                    }
+                  }),
+                    'pageType' : 'Remove from Cart',
+                    'event'    : 'Remove from Cart'
+                  };
+                dataLayer.push(removeFromCart);
+              // --------------------------------------------- get Json response
+              });
+            // ------------------------------------------------------------------- remove from cart
+            });
+            }
+          // -------------------------------------- begin check interval
+          }, 500);
+        // ---------------------------------- if dynamic cart is true
+        }
+      }
+      // ------------------------------------------------------------------------- view cart
+      });
+
+      /* ADD TO CART */
+      jQuery.getJSON('/cart.js', function (response) {
+      // --------------------------------------------- get Json response
+        __bva__.cart = response;
+        var cart = {
+          'products': __bva__.cart.items.map(function (line_item) {
+            return {
+              'id'       : line_item.id,
+              'sku'      : line_item.sku,
+              'variant'  : line_item.variant_id,
+              'name'     : line_item.title,
+              'price'    : (line_item.price/100),
+              'quantity' : line_item.quantity
+            }
+          })
+        }
+      // --------------------------------------------- get Json response
+      __bva__.cart = cart;
+      collection_cartIDs = [];
+      collection_matchIDs = [];
+      collection_addtocart = [];
+      for (var i = __bva__.cart.products.length - 1; i >= 0; i--) {
+          var x = parseFloat(__bva__.cart.products[i].variant);
+          collection_cartIDs.push(x);
+      }
+      });
+
+      function __bva__addtocart(){
+        
+        var sku = '',
+            qty = $('.js-add-qty').length ? $('.js-add-qty').val() : $('#quantity').val(),
+            variantID = $('.js-add-cart').attr('data-variant-id');
+
+        qty = parseInt(qty);
+        variantID = typeof variantID === 'undefined' ? window.location.search.split('=')[1] : variantID;
+
+        product.products[0].variantId = variantID;
+        product.products[0].quantity = qty;
+        product.products[0].sku = sku;
+        dataLayer.push(product, {
+          'pageType' : 'Add to Cart',
+          'event'    : 'Add to Cart'
+        });
+
+        
+
+          // IF DYNAMIC CART IS TRUE
+          if (__bva__.dynamicCart) {
+            // ---------------------------------- if dynamic cart is true
+            var cartCheck = setInterval(function () {
+            // -------------------------------------- begin check interval
+            if ($(__bva__.cartVisableSelector).length > 0) {
+              // ------------------------------------------------------------------ check visible selectors
+              clearInterval(cartCheck);
+              mapJSONcartData();
+              // ------------------------------------------------------------------ check visible selectors
+              $(__bva__.removeCartTrigger).on('click', function (event) {
+              // ------------------------------------------------------------------- remove from cart
+              var link = $(this).attr("href");
+              jQuery.getJSON(link, function (response) {
+                // --------------------------------------------- get Json response
+                __bva__.removeCart = response;
+                var removeFromCart = {
+                  'products': __bva__.removeCart.items.map(function (line_item) {
+                    return {
+                      'id'       : line_item.id,
+                      'sku'      : line_item.sku,
+                      'variant'  : line_item.variant_id,
+                      'name'     : line_item.title,
+                      'price'    : (line_item.price/100),
+                      'quantity' : line_item.quantity
+                    }
+                  }),
+                  'pageType' : 'Remove from Cart',
+                  'event'    : 'Remove from Cart'
+                };
+                dataLayer.push(removeFromCart);
+                // --------------------------------------------- get Json response
+              });
+              // ------------------------------------------------------------------- remove from cart
+            });
+            }
+            // -------------------------------------- begin check interval
+          }, 500);
+          // ---------------------------------- if dynamic cart is true
+        }
+      }
+
+      $(document).on('click', __bva__.cartTriggers, function() {
+        __bva__addtocart();
+      });
+
+      /* DATALAYER: Newsletter Subscription
+      ------------------------------------- */
+      __bva__newsletter_fire = 0;
+      $(document).on('click', __bva__.newsletterSelectors, function () {
+        if(__bva__newsletter_fire !== 1){
+        __bva__newsletter_fire = 1;
+        var newsletterCheck = setInterval(function () {
+        // -------------------------------------- begin check interval
+          if ($(__bva__.newsletterSuccess).length > 0) {
+          // ------------------------------------------------------------------ check visible selectors
+            clearInterval(newsletterCheck);
+            dataLayer.push({'event': 'Newsletter Subscription'});
+          // ------------------------------------------------------------------ check visible selectors
+          }
+        // -------------------------------------- begin check interval
+        },500);
+      }
+      });
+
+      /* DATALAYER: Wishlist
+      ------------------------------------- */
+      setTimeout( function(){
+
+        $(__bva__.wishlistSelector).on('click', function () {
+          dataLayer.push(product,
+            {'event': 'Add to Wishlist'});
+        });
+
+        if(document.location.pathname == __bva__.wishlistPage){
+          var __bva__productLinks = $('[href*="product"]');
+          var __bva__prods        = [];
+          var __bva__links        = [];
+          var __bva__count        = 1;
+
+          $(__bva__productLinks).each(function(){
+            var href = $(this).attr("href");
+            if(!__bva__links.includes(href)){
+              __bva__links.push(href);
+              $(this).attr("dataLayer-wishlist-item",__bva__count++);
+              jQuery.getJSON(href, function (response) {
+              // --------------------------------------------- get Json response
+                __bva__.wishlist = response;
+                var wishlistproducts = {
+                'id'   : __bva__.wishlist.product.id,
+                'name' : __bva__.wishlist.product.title,
+                };
+                __bva__prods.push(wishlistproducts);
+              // --------------------------------------------- get Json response
+              });
+            }
+          });
+
+          dataLayer.push({'products': __bva__prods,
+            'pageType' : 'Wishlist',
+            'event'    : 'Wishlist'});
+          }
+
+        var __bva__count = 1;
+        var wishlistDel  = $(__bva__.removeWishlist);
+        wishlistDel.each(function(){
+          $(this).attr("dataLayer-wishlist-item-del",__bva__count++);
+        });
+
+        $(__bva__.removeWishlist).on('click', function(){
+          var index = $(this).attr("dataLayer-wishlist-item-del");
+          var link  = $("[dataLayer-wishlist-item="+index+"]").attr("href");
+          jQuery.getJSON(link, function (response) {
+          // --------------------------------------------- get Json response
+            __bva__.wishlist     = response;
+            var wishlistproducts = {
+              'id'   : __bva__.wishlist.product.id,
+              'name' : __bva__.wishlist.product.title,
+            };
+
+            dataLayer.push({'products': wishlistproducts,
+            'pageType' : 'Wishlist',
+            'event'    : 'Wishlist Delete Product'});
+          // --------------------------------------------- get Json response
+          });
+        })
+      }, 3000);
+
+      /* DATALAYER: CTAs
+      ------------------ */
+      $(__bva__.ctaSelectors).on('click', function () {
+        var ctaCheck = setInterval(function () {
+        // -------------------------------------- begin check interval
+          if ($(__bva__.ctaSuccess).length > 0) {
+          // ------------------------------------------------------------------ check visible selectors
+            clearInterval(ctaCheck);
+            dataLayer.push({'event': 'CTA'});
+          // ------------------------------------------------------------------ check visible selectors
+          }
+        // -------------------------------------- begin check interval
+        },500);
+      });
+
+      /* DATALAYER: Promo Subscriptions
+      --------------------------------- */
+      $(__bva__.promoSubscriptionsSelectors).on('click', function () {
+        var ctaCheck = setInterval(function () {
+        // -------------------------------------- begin check interval
+          if ($(__bva__.promoSuccess).length > 0) {
+          // ------------------------------------------------------------------ check visible selectors
+            clearInterval(ctaCheck);
+            dataLayer.push({'event': 'Promo Subscription'});
+          // ------------------------------------------------------------------ check visible selectors
+          }
+        // -------------------------------------- begin check interval
+        },500);
+      });
+
+      
+    }); // document ready
+
+  // --------------- run script after jQuery has loaded
+  }
+// --------------------------------------------- wait for jQuery to load
+}, 500);
+</script>
+
   <!-- Google Tag Manager -->
 <!-- <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PTGGHF"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> -->
-<script type="text/javascript" async="" src="//d1liekpayvooaz.cloudfront.net/apps/customizery/customizery.js?shop=untuckit.myshopify.com"></script><script type="text/javascript" async="" src="https://cdn.swellrewards.com/loader/9FILhFRBWjlv395vjEm8_g.js?shop=untuckit.myshopify.com"></script><script type="text/javascript" async="" src="//dsyszv14g9ymi.cloudfront.net/st_1291072_310_1490165157.js?shop=untuckit.myshopify.com"></script><script type="text/javascript" async="" src="https://aws.sunriseintegration.com/a/giftCardManager/js/GiftCardManager.js?shop=untuckit.myshopify.com"></script><script type="text/javascript" async="" src="//assets.backinstock.org/widget/3455_1478196350.js?v=5&amp;shop=untuckit.myshopify.com"></script><script type="text/javascript" async="" src="//smartwishlist.webmarked.net/v5/smartwishlist-script-variables.php?shop=untuckit.myshopify.com"></script><script type="text/javascript" async="" src="//smartwishlist.webmarked.net/v5/smartwishlist.js?shop=untuckit.myshopify.com"></script><script type="text/javascript" async="" src="https://app.revenueconduit.com/js/rc-util-shopify.js?shop=untuckit.myshopify.com"></script><script type="text/javascript" async="" src="https://assets1.adroll.com/shopify/latest/j/shopify_rolling_bootstrap.js?adroll_adv_id=26UOIHAA3JEXRIXJBKYN5W&amp;adroll_pix_id=FH4LKZ7CPNHJFGNDNY3REE&amp;shop=untuckit.myshopify.com"></script><script type="text/javascript" async="" src="https://a.klaviyo.com/media/js/analytics/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.luckyorange.com/w.js"></script><script type="text/javascript" async="" src="https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2017.03.29.1"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PTGGHF"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-PTGGHF');</script>
 <!-- End Google Tag Manager -->
+ 
 
   
-  <link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/favicon.png?3589588252607778111" type="image/x-icon">
+  <link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/favicon.png?7077278485493149540" type="image/x-icon">
   
   
-  <link rel="apple-touch-icon-precomposed" href="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/iphone_icon.png?3589588252607778111">
+  <link rel="apple-touch-icon-precomposed" href="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/iphone_icon.png?7077278485493149540">
   
   
-  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/iphone_icon_retina.png?3589588252607778111">
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/iphone_icon_retina.png?7077278485493149540">
   
   
-  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/ipad_icon.png?3589588252607778111">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/ipad_icon.png?7077278485493149540">
   
   
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/ipad_icon_retina.png?3589588252607778111">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/ipad_icon_retina.png?7077278485493149540">
   
 
   <meta charset="UTF-8">
@@ -34,236 +784,286 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <link rel="canonical" href="https://www.untuckit.com/pages/privacy-policy">
   <meta name="google-site-verification" content="OztIN9jW6sv6cg7zCtScUDkG4FGIOoFSvq70UsXRKeo">
 
-  
-  <title>Privacy Policy | UNTUCKit</title>
-  
+  <script src="//findify-assets-2bveeb6u8ag.netdna-ssl.com/search/prod/untuckit.myshopify.com.min.js" async="" defer=""></script>
+
+  <script>
+  (function (f, l, o, w, i, n, g) {
+    f[i] = f[i] || {};
+    f[i].set = f[i].set || function () {
+      (f[i].q = f[i].q || []).push(arguments);
+    };
+    f[i].initialized = 0;
+    f[i].fraud = 'enabled';
+    n = l.createElement(o);
+    n.src = w;
+    g = l.getElementsByTagName(o)[0];
+    g.parentNode.insertBefore(n, g);
+  })(window, document, 'script', 'https://shopify-cdn.flow.io/untuckit/js/v0/flow.js?shop=untuckit.myshopify.com', 'Flow');</script><title>Privacy Policy</title>
+
 
   
-
-
+    <meta property="og:image" content="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/logo.svg?7077278485493149540">
   
-    <meta property="og:image" content="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/logo.svg?3589588252607778111">
-  
-  	<meta name="description" content="TERMS OF USE Welcome to Untuckit.com. Please review the following basic terms that govern your use of and purchase of products from our Site. Please note that y">
+  	<meta name="description" content="TERMS OF USE Welcome to Untuckit.com. Please review the following basic terms that govern your use of and purchase of products from our Site. Please note that your use of our Site constitutes your agreement to follow and be bound by those terms. &nbsp; GENERAL We may from time to time change the terms that govern your use o">
 
-
-
-  
-  <link href="//fonts.googleapis.com/css?family=Oswald:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&amp;subset=cyrillic-ext,greek-ext,latin,latin-ext,cyrillic,greek,vietnamese" rel="stylesheet" type="text/css">
-  
-
-  <!-- Button Google Fonts -->
-  <link href="//fonts.googleapis.com/css?family=.%7CRaleway:light,normal,bold" rel="stylesheet" type="text/css">
-
-  
-  <link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&amp;subset=cyrillic-ext,greek-ext,latin,latin-ext,cyrillic,greek,vietnamese" rel="stylesheet" type="text/css">
-  
-
-  <link href="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/font-awesome.min.css?3589588252607778111" rel="stylesheet" type="text/css" media="all">
-  <link href="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/bootstrap.min.3x.css?3589588252607778111" rel="stylesheet" type="text/css" media="all">
-  <link href="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/kumi.global.scss.css?3589588252607778111" rel="stylesheet" type="text/css" media="all">
-  <link href="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/kumi.style.scss.css?3589588252607778111" rel="stylesheet" type="text/css" media="all">
-  <link href="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/kumi.media.scss.css?3589588252607778111" rel="stylesheet" type="text/css" media="all">
-  <link href="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/untuckit.css?3589588252607778111" rel="stylesheet" type="text/css" media="all">
+<link href="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/bootstrap.min.3x.css?7077278485493149540" rel="stylesheet" type="text/css" media="all">
+  <link href="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/kumi.global.scss.css?7077278485493149540" rel="stylesheet" type="text/css" media="all">
 
   
 
   <!--  BVA Styles -->
+  <link href="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/vendor.css?7077278485493149540" rel="stylesheet" type="text/css" media="all">
+  <link href="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/bvaccel.css?7077278485493149540" rel="stylesheet" type="text/css" media="all">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/mhayes-twentytwenty/1.0.0/css/twentytwenty.css" rel="stylesheet" type="text/css" media="all">
 
-  <link href="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/bvaccel.css?3589588252607778111" rel="stylesheet" type="text/css" media="all">
-  <link href="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/vendor.css?3589588252607778111" rel="stylesheet" type="text/css" media="all">
   <!--[if IE 8 ]>
-  <link href="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/ie8.css?3589588252607778111" rel="stylesheet" type="text/css" media="all" />
+  <link href="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/ie8.css?7077278485493149540" rel="stylesheet" type="text/css" media="all" />
+  <![endif]-->
+  <!--[if lt IE 9]>
+  <script src="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/html5shiv.js?7077278485493149540" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/respond.js?7077278485493149540" type="text/javascript"></script>
   <![endif]-->
 
-  <script src="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/jquery-1.8.2.min.js?3589588252607778111" type="text/javascript"></script>
-  <script src="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/bootstrap.min.3x.js?3589588252607778111" type="text/javascript"></script>
-  <script src="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/modernizr.js?3589588252607778111" type="text/javascript"></script>
-  <script src="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/vendor.js?3589588252607778111" type="text/javascript"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
-  <script type="text/javascript" id="wa_u" defer="" src="https://counter.hitslink.com/track.js"></script>
-<script type="text/javascript" async="">//<![CDATA[
-var wa_pageName=location.pathname;    // customize the page name here;
-wa_account="8A918B8A9C94968BCFCE"; wa_location=27;
-wa_MultivariateKey = '';    //  Set this variable to perform multivariate testing
-var wa_c=new RegExp('__wa_v=([^;]+)').exec(document.cookie),wa_tz=new Date(),
-wa_rf=document.referrer,wa_sr=location.search,wa_hp='http'+(location.protocol=='https:'?'s':'');
-if(top!==self){wa_rf=top.document.referrer;wa_sr=top.location.search}
-if(wa_c!=null){wa_c=wa_c[1]}else{wa_c=wa_tz.getTime();
-document.cookie='__wa_v='+wa_c+';path=/;expires=1/1/'+(wa_tz.getUTCFullYear()+2);}wa_img=new Image();
-wa_img.src=wa_hp+'://counter.hitslink.com/statistics.asp?v=1&s=27&eacct='+wa_account+'&an='+
-escape(navigator.appName)+'&sr='+escape(wa_sr)+'&rf='+escape(wa_rf)+'&mvk='+escape(wa_MultivariateKey)+
-'&sl='+escape(navigator.systemLanguage)+'&l='+escape(navigator.language)+
-'&pf='+escape(navigator.platform)+'&pg='+escape(wa_pageName)+'&cd='+screen.colorDepth+'&rs='+escape(screen.width+
-' x '+screen.height)+'&je='+navigator.javaEnabled()+'&c='+wa_c+'&tks='+wa_tz.getTime()
-;document.getElementById('wa_u').src=wa_hp+'://counter.hitslink.com/track.js';//]]>
+
+
+
+
+<script id="env_data">
+	var ENV = ENV || {};
+
+	ENV.tests = ENV.tests || [];
+
+	ENV.shop = {
+		url: "https://www.untuckit.com",
+		shopify_domain: "https://untuckit.myshopify.com",
+		locale: "en",
+		money: {
+			curency: "USD",
+			format: "${{amount}}",
+			formatWithCurrency: "${{amount}} USD"
+		}
+	};
+
+	ENV.template = {
+	    handle: 'privacy-policy',
+	    template: 'page',
+	    template_default: 'page'
+	};
+ 
+	
+		ENV.page = {
+		    id: 7993797,
+		    handle: 'privacy-policy',
+		    template: 'page',
+		    template_default: 'page',
+		    admin: false,
+		    edit: false
+		};
+	
+
+	ENV.theme = {
+	    id: 62835141,
+	    role: 'main',
+	    name: 'Production',
+	    state: false
+	};
+
+	
+
+	
+
+	
+	ENV.customer = false;
+	
+
+
+	
+
+	
+
+
 </script>
-  <script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
-<script type="text/javascript">
-twttr.conversion.trackPid('l5nea', { tw_sale_amount: 0, tw_order_quantity: 0 });</script>
-<noscript>
-<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l5nea&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
-<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l5nea&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" /></noscript>
-
-  <!-- Begin Monetate ExpressTag Sync v8. Place at start of document head. DO NOT ALTER. -->
-  <script type="text/javascript">
-  var monetateT = new Date().getTime();
-  (function() {
-      var p = document.location.protocol;
-      if (p == "http:" || p == "https:") {
-          var m = document.createElement("script"); m.type = "text/javascript"; m.src = (p == "https:" ? "https://s" : "http://") + "e.monetate.net/js/2/a-9b7f2e08/p/untuckit.com/entry.js";
-          var e = document.createElement("div"); e.appendChild(m); document.write(e.innerHTML);
-      }
-  })();
-  </script><script type="text/javascript" src="https://se.monetate.net/js/2/a-9b7f2e08/p/untuckit.com/entry.js"></script>
-  <!-- End Monetate tag. -->
-
-  <script type="text/javascript">
-(function(){
-	// Get UTC no matter what timezone
-	var clientDate = new Date();
-	var utc = clientDate.getTime() + (clientDate.getTimezoneOffset() * 60000);
-
-	// Set to EST (UTC -5) and toString
-	var ESTDate = new Date(utc + (3600000 * -5));
-	var ESTString = ESTDate.toString();
-
-	// Get day and time as string
-	var whatDay = ESTString.substring(0,3);
-	var whatTime = (ESTString.substring(16,24)).replace(/:/g,'');
-
-	// console.log("ESTDate: " + ESTDate + " whatDay: " + whatDay + " whatTime: " + whatTime);
-
-	// Fire on       Sundays   between   7:00PM      and       10:00PM 
-	if( whatDay === "Sun" && whatTime >= 190000 && whatTime <= 220000 ) {
-		adroll_segments = "cafa129a";
-	}
-}());
-</script> <!-- AdRoll 11-10-2016 TV Fixed Segment tracking -->
-
-  <meta name="shopify-checkout-api-token" content="cea9886655903c1bc57c69c466670791">
-<script type="text/javascript">
-//<![CDATA[
-      var Shopify = Shopify || {};
-      Shopify.shop = "untuckit.myshopify.com";
-      Shopify.theme = {"name":"Production","id":62835141,"theme_store_id":null,"role":"main"};
-      Shopify.theme.handle = "null";
-      Shopify.theme.style = {"id":null,"handle":null};
-
-//]]>
-</script><script type="text/javascript">
-//<![CDATA[
-    (function() {
-      function asyncLoad() {
-        var urls = ["https:\/\/assets1.adroll.com\/shopify\/latest\/j\/shopify_rolling_bootstrap.js?adroll_adv_id=26UOIHAA3JEXRIXJBKYN5W\u0026adroll_pix_id=FH4LKZ7CPNHJFGNDNY3REE\u0026shop=untuckit.myshopify.com","https:\/\/app.revenueconduit.com\/js\/rc-util-shopify.js?shop=untuckit.myshopify.com","\/\/smartwishlist.webmarked.net\/v5\/smartwishlist.js?shop=untuckit.myshopify.com","\/\/smartwishlist.webmarked.net\/v5\/smartwishlist-script-variables.php?shop=untuckit.myshopify.com","\/\/assets.backinstock.org\/widget\/3455_1478196350.js?v=5\u0026shop=untuckit.myshopify.com","https:\/\/aws.sunriseintegration.com\/a\/giftCardManager\/js\/GiftCardManager.js?shop=untuckit.myshopify.com","\/\/dsyszv14g9ymi.cloudfront.net\/st_1291072_310_1490165157.js?shop=untuckit.myshopify.com","https:\/\/cdn.swellrewards.com\/loader\/9FILhFRBWjlv395vjEm8_g.js?shop=untuckit.myshopify.com","\/\/d1liekpayvooaz.cloudfront.net\/apps\/customizery\/customizery.js?shop=untuckit.myshopify.com"];
-        for (var i = 0; i < urls.length; i++) {
-          var s = document.createElement('script');
-          s.type = 'text/javascript';
-          s.async = true;
-          s.src = urls[i];
-          var x = document.getElementsByTagName('script')[0];
-          x.parentNode.insertBefore(s, x);
-        }
-      };
-      if(window.attachEvent) {
-        window.attachEvent('onload', asyncLoad);
-      } else {
-        window.addEventListener('load', asyncLoad, false);
-      }
-    })();
-
-//]]>
-</script><script id="__st">
-//<![CDATA[
-var __st={"a":1291072,"offset":-14400,"reqid":"ee99fa11-a6bb-4856-b82a-2eb59f2faa74","pageurl":"www.untuckit.com\/pages\/privacy-policy","s":"pages-7993797","u":"fdf437bee190","p":"page","rtyp":"page","rid":7993797};
-//]]>
-</script><script src="https://cdn.shopify.com/s/javascripts/shopify_stats.js?v=6" type="text/javascript" async="async"></script>
 <meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/1291072/digital_wallets/dialog">
-<script src="//cdn.shopify.com/s/assets/themes_support/ga_urchin_forms-668547562549a84f5dfa01ef82607987f85ecbe1c8301faf25059becfa208199.js" defer="defer"></script>
-      <script type="text/javascript">
-        
-      window.ShopifyAnalytics = window.ShopifyAnalytics || {};
-      window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
-      window.ShopifyAnalytics.meta.currency = 'USD';
-      var meta = {"page":{"pageType":"page","resourceType":"page","resourceId":7993797}};
-      for (var attr in meta) {
-        window.ShopifyAnalytics.meta[attr] = meta[attr];
-      }
+<meta name="shopify-checkout-api-token" content="cea9886655903c1bc57c69c466670791">
+<meta id="in-context-paypal-metadata" data-shop-id="1291072" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="USD">
+<meta id="amazon-payments-metadata" data-amazon-payments="true" data-amazon-payments-seller-id="A2SO11O03ZIS93" data-amazon-payments-callback-url="https://www.untuckit.com/1291072/amazon_payments/callback" data-amazon-payments-sandbox-mode="false" data-amazon-payments-client-id="amzn1.application-oa2-client.838723f0399d47e68c5656532ab3b426" data-amazon-payments-region="US" data-amazon-payments-language="en-US" data-amazon-payments-widget-library-url="https://static-na.payments-amazon.com/OffAmazonPayments/us/js/Widgets.js">
+<style media="all">.additional-checkout-button{border:0 !important;border-radius:5px !important;display:inline-block;margin:0 0 10px;padding:0 24px !important;max-width:100%;min-width:150px !important;line-height:44px !important;text-align:center !important}.additional-checkout-button+.additional-checkout-button{margin-left:10px}.additional-checkout-button:last-child{margin-bottom:0}.additional-checkout-button span{font-size:14px !important}.additional-checkout-button img{display:inline-block !important;height:1.3em !important;margin:0 !important;vertical-align:middle !important;width:auto !important}@media (max-width: 500px){.additional-checkout-button{display:block;margin-left:0 !important;padding:0 10px !important;width:100%}}.additional-checkout-button--apple-pay{background-color:#000 !important;color:#fff !important;display:none;font-family:-apple-system, &#39;Helvetica Neue&#39;, sans-serif !important;min-width:150px !important;white-space:nowrap !important}.additional-checkout-button--apple-pay:hover,.additional-checkout-button--apple-pay:active,.additional-checkout-button--apple-pay:visited{color:#fff !important;text-decoration:none !important}.additional-checkout-button--apple-pay .additional-checkout-button__logo{background:-webkit-named-image(apple-pay-logo-white) center center no-repeat !important;background-size:auto 100% !important;display:inline-block !important;vertical-align:middle !important;width:3em !important;height:1.3em !important}@media (max-width: 500px){.additional-checkout-button--apple-pay{display:none}}.additional-checkout-button--google-pay{line-height:0 !important;padding:0 !important;border-radius:unset !important;width:80px !important}@media (max-width: 500px){.additional-checkout-button--google-pay{width:100% !important}}.gpay-iframe{height:44px !important;width:100%  !important;cursor:pointer;vertical-align:middle !important}.additional-checkout-button--paypal-express{background-color:#ffc439 !important}.additional-checkout-button--paypal{vertical-align:top;line-height:0 !important;padding:0 !important}.additional-checkout-button--amazon{background-color:#fad676 !important;position:relative !important}.additional-checkout-button--amazon .additional-checkout-button__logo{-webkit-transform:translateY(4px) !important;transform:translateY(4px) !important}.additional-checkout-button--amazon .alt-payment-list-amazon-button-image{max-height:none !important;opacity:0 !important;position:absolute !important;top:0 !important;left:0 !important;width:100% !important;height:100% !important}.additional-checkout-button-visually-hidden{border:0 !important;clip:rect(0, 0, 0, 0) !important;clip:rect(0 0 0 0) !important;width:1px !important;height:1px !important;margin:-2px !important;overflow:hidden !important;padding:0 !important;position:absolute !important}
+</style>
+<style>.shopify-payment-button__button--hidden {
+  visibility: hidden;
+}
+
+.shopify-payment-button__button {
+  border-radius: 4px;
+  border: none;
+  box-shadow: 0 0 0 0 transparent;
+  color: white;
+  cursor: pointer;
+  display: block;
+  font-size: 1em;
+  font-weight: 500;
+  line-height: 1;
+  text-align: center;
+  width: 100%;
+  transition: background 0.2s ease-in-out;
+}
+
+.shopify-payment-button__button[disabled] {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.shopify-payment-button__button--unbranded {
+  background-color: #1990c6;
+  padding: 1em 2em;
+}
+
+.shopify-payment-button__button--unbranded:hover:not([disabled]) {
+  background-color: #136f99;
+}
+
+.shopify-payment-button__more-options {
+  background: transparent;
+  border: 0 none;
+  cursor: pointer;
+  display: block;
+  font-size: 1em;
+  margin-top: 1em;
+  text-align: center;
+  width: 100%;
+}
+
+.shopify-payment-button__more-options:hover:not([disabled]) {
+  text-decoration: underline;
+}
+
+.shopify-payment-button__more-options[disabled] {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.shopify-payment-button__button--branded {
+  display: flex;
+  flex-direction: column;
+  min-height: 44px;
+  position: relative;
+  z-index: 1;
+}
+
+.shopify-payment-button__button--branded .shopify-cleanslate {
+  flex: 1 !important;
+  display: flex !important;
+  flex-direction: column !important;
+}
+</style>
+<script id="shopify-features" type="application/json">{"accessToken":"cea9886655903c1bc57c69c466670791","betas":[],"domain":"www.untuckit.com","shopId":1291072,"smart_payment_buttons_url":"https:\/\/cdn.shopifycloud.com\/payment-sheet\/assets\/latest\/spb.js"}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "untuckit.myshopify.com";
+Shopify.currency = {"active":"USD"};
+Shopify.theme = {"name":"Production","id":62835141,"theme_store_id":null,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["https:\/\/assets1.adroll.com\/shopify\/latest\/j\/shopify_rolling_bootstrap.js?adroll_adv_id=26UOIHAA3JEXRIXJBKYN5W\u0026adroll_pix_id=FH4LKZ7CPNHJFGNDNY3REE\u0026shop=untuckit.myshopify.com","https:\/\/app.revenueconduit.com\/js\/rc-util-shopify.js?shop=untuckit.myshopify.com","https:\/\/aws.sunriseintegration.com\/a\/giftCardManager\/js\/GiftCardManager.js?shop=untuckit.myshopify.com","https:\/\/cdn.swellrewards.com\/loader\/9FILhFRBWjlv395vjEm8_g.js?shop=untuckit.myshopify.com","\/\/d1liekpayvooaz.cloudfront.net\/apps\/customizery\/customizery.js?shop=untuckit.myshopify.com","https:\/\/beacon.riskified.com\/?shop=untuckit.myshopify.com","https:\/\/sailthru-shopify.herokuapp.com\/shopify.js?shop=untuckit.myshopify.com","\/\/staticw2.yotpo.com\/4bQZVaAkK8Pueyf6OmBRO4DzM5OCXvL8tymkB7hc\/widget.js?shop=untuckit.myshopify.com","https:\/\/formbuilder.hulkapps.com\/skeletopapp.js?shop=untuckit.myshopify.com","\/\/app.backinstock.org\/widget\/3455_1533105383.js?v=5\u0026shop=untuckit.myshopify.com","\/\/s3.amazonaws.com\/booster-eu-cookie\/untuckit.myshopify.com\/booster_eu_cookie.js?shop=untuckit.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":1291072,"offset":-14400,"reqid":"a72df686-ef8b-4cc3-8680-bae34498da8b","pageurl":"www.untuckit.com\/pages\/privacy-policy","s":"pages-7993797","u":"b3a5fdd0b68f","p":"page","rtyp":"page","rid":7993797};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>window.Shopify = window.Shopify || {};
+window.Shopify.Checkout = window.Shopify.Checkout || {};
+window.Shopify.Checkout.apiHost = "untuckit.myshopify.com";</script>
+<script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'USD';
+var meta = {"page":{"pageType":"page","resourceType":"page","resourceId":7993797}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  ga('set', 'dimension2', (window.Yo ? Yo.rum.get().optState : 'yo-not-present'));
+};
+</script>
+<script class="analytics">(window.gaDevIds=window.gaDevIds||[]).push('BwiEti');
+
+
+(function () {
+  var customDocumentWrite = function(content) {
+    var jquery = null;
+
+    if (window.jQuery) {
+      jquery = window.jQuery;
+    } else if (window.Checkout && window.Checkout.$) {
+      jquery = window.Checkout.$;
+    }
+
+    if (jquery) {
+      jquery('body').append(content);
+    }
+  };
+
+  var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+  if (trekkie.integrations) {
+    return;
+  }
+  trekkie.methods = [
+    'identify',
+    'page',
+    'ready',
+    'track',
+    'trackForm',
+    'trackLink'
+  ];
+  trekkie.factory = function(method) {
+    return function() {
+      var args = Array.prototype.slice.call(arguments);
+      args.unshift(method);
+      trekkie.push(args);
+      return trekkie;
+    };
+  };
+  for (var i = 0; i < trekkie.methods.length; i++) {
+    var key = trekkie.methods[i];
+    trekkie[key] = trekkie.factory(key);
+  }
+  trekkie.load = function(config) {
+    trekkie.config = config;
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.onerror = function(e) {
+      (new Image()).src = '//v.shopify.com/internal_errors/track?error=trekkie_load';
+    };
+    script.async = true;
+    script.src = 'https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2017.09.05.1';
+    var first = document.getElementsByTagName('script')[0];
+    first.parentNode.insertBefore(script, first);
+  };
+  trekkie.load(
+    {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":1291072,"isMerchantRequest":null,"themeId":62835141,"themeCityHash":469383972949113607}},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":1.0},"Google Analytics":{"trackingId":"UA-12948137-2","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true},"Facebook Pixel":{"pixelIds":["811608632207862"],"agent":"plshopify1.2"},"Session Attribution":{}}
+  );
+
+  var loaded = false;
+  trekkie.ready(function() {
+    if (loaded) return;
+    loaded = true;
+
+    window.ShopifyAnalytics.lib = window.trekkie;
     
-      </script>
-
-      <script type="text/javascript">
-        window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
-          
-        };
-      </script>
-
-      <script type="text/javascript" class="analytics">
-        (window.gaDevIds=window.gaDevIds||[]).push('BwiEti');
-        
-
-        (function () {
-          var customDocumentWrite = function(content) {
-            var jquery = null;
-
-            if (window.jQuery) {
-              jquery = window.jQuery;
-            } else if (window.Checkout && window.Checkout.$) {
-              jquery = window.Checkout.$;
-            }
-
-            if (jquery) {
-              jquery('body').append(content);
-            }
-          };
-
-          var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
-          if (trekkie.integrations) {
-            return;
-          }
-          trekkie.methods = [
-            'identify',
-            'page',
-            'ready',
-            'track',
-            'trackForm',
-            'trackLink'
-          ];
-          trekkie.factory = function(method) {
-            return function() {
-              var args = Array.prototype.slice.call(arguments);
-              args.unshift(method);
-              trekkie.push(args);
-              return trekkie;
-            };
-          };
-          for (var i = 0; i < trekkie.methods.length; i++) {
-            var key = trekkie.methods[i];
-            trekkie[key] = trekkie.factory(key);
-          }
-          trekkie.load = function(config) {
-            trekkie.config = config;
-            var script = document.createElement('script');
-            script.type = 'text/javascript';
-            script.onerror = function(e) {
-              (new Image()).src = '//v.shopify.com/internal_errors/track?error=trekkie_load';
-            };
-            script.async = true;
-            script.src = 'https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2017.03.29.1';
-            var first = document.getElementsByTagName('script')[0];
-            first.parentNode.insertBefore(script, first);
-          };
-          trekkie.load(
-            {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":1291072,"isMerchantRequest":null,"themeId":62835141,"themeCityHash":17197418002132448630}},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":0.1},"Google Analytics":{"trackingId":"UA-12948137-2","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true},"Facebook Pixel":{"pixelIds":["426425191022312"],"agent":"plshopify1.2"},"Session Attribution":{}}
-          );
-
-          var loaded = false;
-          trekkie.ready(function() {
-            if (loaded) return;
-            loaded = true;
-
-            window.ShopifyAnalytics.lib = window.trekkie;
-            
       ga('require', 'linker');
       function addListener(element, type, callback) {
         if (element.addEventListener) {
@@ -299,642 +1099,358 @@ var __st={"a":1291072,"offset":-14400,"reqid":"ee99fa11-a6bb-4856-b82a-2eb59f2fa
       });
     
 
-            var originalDocumentWrite = document.write;
-            document.write = customDocumentWrite;
-            try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
-            document.write = originalDocumentWrite;
+    var originalDocumentWrite = document.write;
+    document.write = customDocumentWrite;
+    try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+    document.write = originalDocumentWrite;
 
-            
+    
         window.ShopifyAnalytics.lib.page(
           null,
           {"pageType":"page","resourceType":"page","resourceId":7993797}
         );
       
-            
-          });
+    
+  });
 
-          
+  
       var eventsListenerScript = document.createElement('script');
       eventsListenerScript.async = true;
-      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-9410288c486c406bc38edb97003bb123d375112c2b7e037d65afabae7c905e02.js";
+      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-f2c5800305098f0ebebdfa7d980c9abf56514c46d5305e97a7c476f7c9116163.js";
       document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
     
-        })();
-      </script><script async="" src="//cdn.shopify.com/s/assets/shop_events_listener-9410288c486c406bc38edb97003bb123d375112c2b7e037d65afabae7c905e02.js"></script>
-    
-<meta id="in-context-paypal-metadata" data-merchant-id="Q7US6MQTSPGMW" data-environment="production" data-locale="en_US" data-redirect-url="">
+})();</script><script async="" src="//cdn.shopify.com/s/assets/shop_events_listener-f2c5800305098f0ebebdfa7d980c9abf56514c46d5305e97a7c476f7c9116163.js"></script>
+<script defer="defer" integrity="sha256-LxA9If03/QAyD0u+i83z9sifkcZrI6GOqV1MLPQoc98=" crossorigin="anonymous" src="//cdn.shopify.com/s/assets/storefront/express_buttons-2f103d21fd37fd00320f4bbe8bcdf3f6c89f91c66b23a18ea95d4c2cf42873df.js"></script>
+<script defer="defer" integrity="sha256-NfqRkSQwKw0JfNupCky6Zxtoijw8YUA8km/3gYu7kY8=" crossorigin="anonymous" src="//cdn.shopify.com/s/assets/storefront/features-35fa919124302b0d097cdba90a4cba671b688a3c3c61403c926ff7818bbb918f.js"></script>
+<script defer="defer" src="//cdn.shopify.com/s/assets/themes_support/ga_urchin_forms-68ca1924c495cfc55dac65f4853e0c9a395387ffedc8fe58e0f2e677f95d7f23.js"></script>
 
-<link rel="stylesheet" media="all" href="//cdn.shopify.com/s/assets/storefront/additional-checkout-buttons-808913e66bb8ca34c54570ae143ad72de7405d257db279c632b910e1babef726.css">
 
-  <!-- Begin Monetate ExpressTag Sync v8. Place at start of document head. DO NOT ALTER. -->
-<script type="text/javascript">
-var monetateT = new Date().getTime();
-(function() {
-    var p = document.location.protocol;
-    if (p == "http:" || p == "https:") {
-        var m = document.createElement("script"); m.type = "text/javascript"; m.src = (p == "https:" ? "https://s" : "http://") + "e.monetate.net/js/2/a-9b7f2e08/p/untuckit.com/entry.js";
-        var e = document.createElement("div"); e.appendChild(m); document.write(e.innerHTML);
-    }
-})();
-</script><script type="text/javascript" src="https://se.monetate.net/js/2/a-9b7f2e08/p/untuckit.com/entry.js"></script>
-<!-- End Monetate tag. -->
-  
-
-
-
-
-
-<script>
-window.dataLayer = window.dataLayer || []
-
-
-
-cid = [];
-if( typeof ga != 'undefined' ){
-  ga(function(tracker) {
-    c = tracker.get('clientId');
-    cid.push({'cid':c});
-  });
-  console.log(cid);
-}else{
-  cid = "";
-}
-
-
-
-
-function getCookie(cname) {
- var name = cname + "=";
- var ca = document.cookie.split(';');
- for(var i = 0; i<ca.length; i++) {
-   var c = ca[i];
-   while (c.charAt(0)==' ') {
-     c = c.substring(1);
-   }
-   if (c.indexOf(name) == 0) {
-     return c.substring(name.length,c.length);
-   }
- }
- return "";
-}
-
-var d = new Date();
-var minutes = 1440; // 24 hours
-var d = d.setTime(d.getTime() + (minutes * 60 * 1000));
-var date = new Date(d).toUTCString();
-var re = new RegExp("untuckit","gi");
-
-if( document.title.match( re ) ){
-    if( getCookie("landingPage").length === 0 ){
-        document.cookie = "landingPage=;"
-        document.cookie = "landingPage=landed; expires="+date;
-    }else if( getCookie("landingPage") === "landed"  ){
-        document.cookie = "landingPage=;"
-        document.cookie = "landingPage=refresh; expires="+date;
-    }
-}
-
-logState = "Logged Out"
-
-
-/* LOG STATE COOKIE */
-if( logState === "Logged In"){
- if( getCookie("logState").length === 0 ){
-   document.cookie = "logState=;"
-   document.cookie = "logState=firstLog; expires="+date;
- }else if( getCookie("logState") === "firstLog"  ){
-   document.cookie = "logState=;"
-   document.cookie = "logState=refreshLog; expires="+date;
- }
-}else{
- document.cookie = "logState=;"
-}
-</script>
-
-  <script>
-/*
-===================================
-| DATALAYER ARCHITECTURE: SHOPIFY |
------------------------------------
-
-DEFINITION:
-A data layer helps you collect more accurate analytics data, that in turn allows you to better understand what potential buyers are doing on your website and where you can make improvements. It also reduces the time to implement marketing tags on a website, and reduces the need for IT involvement, leaving them to get on with implementing new features and fixing bugs.
-
-RESOURCES:
-http://www.datalayerdoctor.com/a-gentle-introduction-to-the-data-layer-for-digital-marketers/
-http://www.simoahava.com/analytics/data-layer/
-
-AUTHORS:
-Mechelle Warneke = [{
-Email: mechellewarneke@gmail.com,
-Website: mechellewarneke.com,
-BVACCEL: [{
-    Email: mechelle@bvaccel.com,
-    Position: XO Strategist | Technical Web Analyst
-}]
-}];
-
-EXTERNAL DEPENDENCIES:
-* jQuery Cookie Plugin v1.4.1 - https://github.com/carhartl/jquery-cookie
-
-DataLayer Architecture: Shopify v1.3.1
-COPYRIGHT 2016
-LICENSES: MIT ( https://opensource.org/licenses/MIT )
-*/
-
-/*
-========================
-| DYNAMIC DEPENDENCIES |
-------------------------
-
-[ IMPORTANT ]: Review options and make any necessary changes. */
-
-/* ------- DYNAMIC CART ------- */
-
-// If cart is dynamic ( meaning it will display on the same page instead of reloading to new page ), set this to true.
-var dynamic = false;
-
-/* [ IMPORTANT ] if dynamic = true fill out below */
-
-var cartButton = 'REPLACE WITH SELECTOR';
-// EX: jQuery( "#cd-cart-trigger" )
-
-var cartConditional = 'REPLACE WITH CONDITIONAL VISIBILITY'
-// EX: jQuery('.is-visible').length > 0
-
-/* ------- ADD TO CART CLICK ------- */
-
-var addToCart = '#add-to-cart, #quick-shop-add';
-
-/* ------- CONSOLE DATA [ UNDER CONSTRUCTION ] ------- */
-// If you want all data to be logged to the console for reference set to true.
-
-// var consoleLog = true;
-
-/*
-======================
-| LOAD PREREQUISITES |
-----------------------
-
-Load jQuery Cookie Library
---------------------------
-jQuery Cookie Plugin v1.4.1
-https://github.com/carhartl/jquery-cookie
-
-Copyright 2006, 2014 Klaus Hartl
-Released under the MIT license
-*/
-
-(function (factory) {
-  if (typeof define === 'function' && define.amd) {
-        // AMD (Register as an anonymous module)
-        define(['jquery'], factory);
-      } else if (typeof exports === 'object') {
-        // Node/CommonJS
-        module.exports = factory(require('jquery'));
-      } else {
-        // Browser globals
-        factory(jQuery);
-      }
-    }(function ($) {
-
-      var pluses = /\+/g;
-
-      function encode(s) {
-        return config.raw ? s : encodeURIComponent(s);
-      }
-
-      function decode(s) {
-        return config.raw ? s : decodeURIComponent(s);
-      }
-
-      function stringifyCookieValue(value) {
-        return encode(config.json ? JSON.stringify(value) : String(value));
-      }
-
-      function parseCookieValue(s) {
-        if (s.indexOf('"') === 0) {
-            // This is a quoted cookie as according to RFC2068, unescape...
-            s = s.slice(1, -1).replace(/\\"/g, '"').replace(/\\\\/g, '\\');
-          }
-
-          try {
-            // Replace server-side written pluses with spaces.
-            // If we can't decode the cookie, ignore it, it's unusable.
-            // If we can't parse the cookie, ignore it, it's unusable.
-            s = decodeURIComponent(s.replace(pluses, ' '));
-            return config.json ? JSON.parse(s) : s;
-          } catch(e) {}
-        }
-
-        function read(s, converter) {
-          var value = config.raw ? s : parseCookieValue(s);
-          return $.isFunction(converter) ? converter(value) : value;
-        }
-
-        var config = $.cookie = function (key, value, options) {
-
-        // Write
-
-        if (arguments.length > 1 && !$.isFunction(value)) {
-          options = $.extend({}, config.defaults, options);
-
-          if (typeof options.expires === 'number') {
-            var days = options.expires, t = options.expires = new Date();
-            t.setMilliseconds(t.getMilliseconds() + days * 864e+5);
-          }
-
-          return (document.cookie = [
-            encode(key), '=', stringifyCookieValue(value),
-                options.expires ? '; expires=' + options.expires.toUTCString() : '', // use expires attribute, max-age is not supported by IE
-                options.path    ? '; path=' + options.path : '',
-                options.domain  ? '; domain=' + options.domain : '',
-                options.secure  ? '; secure' : ''
-                ].join(''));
-        }
-
-        // Read
-
-        var result = key ? undefined : {},
-            // To prevent the for loop in the first place assign an empty array
-            // in case there are no cookies at all. Also prevents odd result when
-            // calling $.cookie().
-            cookies = document.cookie ? document.cookie.split('; ') : [],
-            i = 0,
-            l = cookies.length;
-
-            for (; i < l; i++) {
-              var parts = cookies[i].split('='),
-              name = decode(parts.shift()),
-              cookie = parts.join('=');
-
-              if (key === name) {
-                // If second argument (value) is a function it's a converter...
-                result = read(cookie, value);
-                break;
-              }
-
-            // Prevent storing a cookie that we couldn't decode.
-            if (!key && (cookie = read(cookie)) !== undefined) {
-              result[name] = cookie;
-            }
-          }
-
-          return result;
-        };
-
-        config.defaults = {};
-
-        $.removeCookie = function (key, options) {
-        // Must not alter options, thus extending a fresh object...
-        $.cookie(key, '', $.extend({}, options, { expires: -1 }));
-        return !$.cookie(key);
-      };
-
-    }));
-
-/*
-==========================
-| Begin GA Check Inteval |
---------------------------
-*/
-
-var timer = 1;
-var checkGAinterval = setInterval(function() {
-  var countdown = timer++;
-  //console.log(countdown);
-
-  var checkClientID = ga(function(tracker) {
-    c = tracker.get('clientId');
-    return c;
-  });
-
-  if (typeof ga != "undefined" && checkClientID != "undefined") {
-    clearInterval(checkGAinterval);
-
-    //console.log("----------------------\nBEGIN DATALAYER BUILD\nTHEME PAGES\n----------------------");
-    window.dataLayer = window.dataLayer || []
-
-    //console.log('Page Template = page');
-    var template = 'page';
-
-
-/*
-GA Client ID
-------------
-1. Capture & Store Google Analytics Client ID
-2. This is established as an initial identifier before user creates an account
-*/
-
-cid = [];
-ga(function(tracker) {
-  c = tracker.get('clientId');
-  cid.push(c);
-});
-
-//console.log("Client ID = "+cid[0]);
-
-
-/*
-Landing Page Cookie
--------------------
-1. Detect if user just landed on the site
-2. Only fires if Page Title matches website
-*/
-
-$.cookie.raw = true;
-
-if( $.cookie('landingPage') === undefined || $.cookie('landingPage').length === 0 ){
-
-  $.cookie('landingPage', unescape);
-  $.removeCookie('landingPage',{ path: '/' });
-  $.cookie('landingPage', 'landed',{ path: '/' });
-  var landingPage = true;
-  //console.log("Landing Page = True");
-
-}else{
-
-  $.cookie('landingPage', unescape);
-  $.removeCookie('landingPage',{ path: '/' });
-  $.cookie('landingPage', 'refresh',{ path: '/' });
-  //console.log("Landing Page = False");
-
-}
-
-/*
-Log State Cookie
-----------------
-*/
-
-
-
-if( typeof logState == "undefined" ){
-  var logState = "Logged Out";
-  $.cookie('logState', unescape);
-  $.removeCookie('logState',{ path: '/' });
-  $.cookie('logState', 'loggedOut',{ path: '/' })
-  //console.log("Log State = Logged Out");
-}
-
-if( logState === "Logged In"){
-  if( $.cookie('logState') === "loggedOut" || $.cookie('logState') === undefined ){
-
-    $.cookie('logState', unescape);
-    $.removeCookie('logState',{ path: '/' });
-    $.cookie('logState', 'firstLog',{ path: '/' });
-    //console.log("Log State = Logged In");
-
-  }else if( $.cookie("logState") === "firstLog"  ){
-
-    $.cookie('logState', unescape);
-    $.removeCookie('logState',{ path: '/' });
-    $.cookie('logState', 'refresh',{ path: '/' });
-    //console.log("Log State = Logged In");
-
-  }else{
-    //console.log("Log State = Logged In");
-  }
-}
-
-if( $.cookie("logState") === "firstLog"  ){
-  var firstLog = "True";
-}else{
-  var firstLog = "False";
-}
-//console.log("First Log = "+firstLog);
-
-    // TIMESTAMP
-    ts = Date.now();
-    console.log("Timestamp = "+ts);
-
-/*
-==============
-| DATALAYERS |
---------------
-*/
-
-/*
-DATALAYER: Landing Page
------------------------
-Fires any time a user first lands on the site.
-*/
-
-if( $.cookie("landingPage") === "landed"  ){
-  dataLayer.push({
-    'pageType':'Landing Page',
-    'event':'Landing Page'
-  });
-}
-
-/*
-DATALAYER: Log State
---------------------
-1. Determine if user is logged in or not.
-2. Return User specific data.
-*/
-
-dataLayer.push({
-  
-  
-  'logState': "Logged Out",
-  
-  
-  'firstLog': firstLog,
-  'clientId': cid[0],
-  'customerEmail': '',
-  'timestamp': ts
-},{'event':'Log State'});
-
-/*
-DATALAYER: Blog Articles
-------------------------
-Fire on Blog Article Pages
-*/
-
-
-
-/*
-DATALAYER: Product List Page ( Collections, Category)
------------------------------------------------------
-Fire on all product listing pages.
-*/
-
-
-
-/*
-DATALAYER: Product Page
------------------------
-Fire on all Product View pages.
-*/
-
-if( template.match(/.*product.*/gi) && !template.match(/.*collection.*/gi) ){
-  dataLayer.push({
-    'products': [{
-      'id': '',
-      'name': '',
-      'price': ''
-    }]},{
-      'pageType':'Product',
-      'event':'Product Page'
-
-    });
-}
-
-/*
-DATALAYER: Add to Cart
---------------------
-Fire anytime a user adds an item to their cart
-*/
-
-$( document ).ready(function() {
-  $( addToCart ).click(function() {
-    dataLayer.push({
-      'event':'Add to Cart'
-    });
-  });
-});
-
-/*
-DATALAYER: Cart Page
---------------------
-1. Fire anytime a user views their cart.
-2. Any dynamic carts require an interval detect.
-*/
-
-if( dynamic == false && template.match(/.*cart.*/gi)){
-  dataLayer.push({
-    'cartProducts':
-    [
-    
-    ]
-  },{
-    'pageType':'Cart',
-    'event':'Cart Page'
-  });
-}
-
-if( dynamic == true ){
-
-// run a script to capture form submits and push an event
-// to append to a trigger for paid conversion scripts / events
-fire = 0;
-
-jQuery( cartButton ).click(function(){
-// ------------------------------ FUNCTION 1
-//console.log("Cart Click")
-
-// Prevents multiple fires
-if( fire == 0 ){
-// ------------- IF 1
-fire = 1;
-
-    // set loader variable
-    // keep checking loader is done
-    interval = setInterval(function(){
-
-      //console.log("----------------------\nCART\n----------------------");
-      //console.log("Cart Interval Set");
-
-      if( cartConditional ){
-
-          // when loader is done stop interval
-          clearInterval(interval)
-
-          dataLayer.push({
-            'cartProducts':
-            [
-            
-            ]
-          },{
-            'pageType':'Cart',
-            'event':'Cart Page'
-          });
-
-          fire = 0;
-
-          //console.log("Cart Visible - Interval Ends");
-
-          set = 1;
-          
-        }else if( count == 30 ){
-          clearInterval(interval);
-          //console.log("Interval Timeout");
-          fire = 0;
-        }
-
-      }, 500);
-
-    setTimeout(function(){
-      interval;
-    }, 1000);
-// ------------- IF 1
-}
-// ------------------------------ FUNCTION 1
-});
-
-}
-
-/*
-DATALAYER: All Pages
---------------------
-Fire all pages trigger after all additional dataLayers have loaded.
-*/
-
-dataLayer.push({
-  'event':'All Pages'
-});
-
-// END GA INTERVAL
-}
-}, 3000);
-</script>
-
-
-  
 </head>
 
-<body class="templatePage countdown-banner--active">
-  <iframe class="iframe-tradedesk" width="0" height="0" style="display:none;" name="Trade Desk Tracking - UNTUCKit Retargeting" frameborder="0" scrolling="no" src="//insight.adsrvr.org/tags/e8jjfh0/qtyuzqyo/iframe"></iframe>
+<body class="templatePage page countdown-banner--active">
 
-  
-  <!--[if lt IE 9]>
-  <script src="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/html5shiv.js?3589588252607778111" type="text/javascript"></script>
-  <script src="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/respond.js?3589588252607778111" type="text/javascript"></script>
-  <![endif]-->
-  <form class="newsletter js-newsletter">
+  <div class="newsletter">
   <div class="wrapper">
-    <a href="#" class="js-close-newsletter close-newsletter">
-      <i class="fa fa-times"></i>
+    <a href="#" class="js-close-newsletter close-newsletter" title="Close Newsletter" aria-label="Close Newsletter">
+      <div class="icon-close"></div>
     </a>
-    <div class="newsletter-inner">
+    <form class="newsletter-inner js-newsletter">
       <div class="js-form-actions">
-        <p class="newsletter-heading">Join for 20% off your first order!</p>
-        <p class="newsletter-copy">Join our newsletter to be the first to hear about exclusive sales, new arrivals, back in stock notifications, and more. We promise not to blow up your inbox.</p>
+        <p class="newsletter-heading">New to UNTUCKit? <br> Take 20% OFF Your First Purchase</p>
+        <p class="newsletter-copy">Be the first to hear about exclusive sales, new arrivals, and more.</p>
         <input type="hidden" name="g" value="hVJLdp">
         <div class="form-row">
-          <input type="email" value="" name="email" placeholder="Enter your email address">
+          <label class="hidden" for="header-news-email">Enter Email</label>
+          <input id="header-news-email" type="email" value="" name="email" placeholder="Enter your email address">
           <button class="button button-navy" type="submit">Sign Up</button>
         </div>
       </div>
       <div class="newsletter-heading js-form-confirm form-confirm fail" style="display:none;">
         Something went wrong. Please refresh this page and try again.
       </div>
-      <div class="newsletter-heading js-form-confirm form-confirm success" style="display:none;">
-        Thank You. Your special offer will be emailed to you shortly.
-      </div>
+    </form>
+    <form class="post-newsletter js-post-newsletter">
+  <a href="#" class="icon-close js-close-post-newsletter" aria-label="Close Confirmation Newsletter"></a>
+  <p class="newsletter-heading">Thanks for signing up!</p>
+  <p class="newsletter-copy">Tell us a little more about you:</p>
+  <div class="form-row" id="newsletter-post">
+    <div class="form-row-name">
+      <label>Name</label>
+      <input aria-labelledby="newsletter-post" type="text" pattern="^[a-zA-Z ]*$" maxlength="144" name="name" placeholder="Name" required="">
+    </div>
+    <div class="form-row-zip">
+      <label>Zip Code</label>
+      <input aria-labelledby="newsletter-post" type="text" pattern="[0-9]{5}" maxlength="5" name="zip" placeholder="#####">
     </div>
   </div>
+  <div class="form-row">
+    <div class="form-row-gender">
+      <label>Gender</label>
+      <select aria-labelledby="newsletter-post" name="gender">
+        <option value="">Select</option>
+        <option value="m">Male</option>
+        <option value="f">Female</option>
+        <option value="o">Other</option>
+      </select>
+    </div>
+  </div>
+  <div class="form-row">
+    <div class="form-row-date">
+      <label>Birthday</label>
+      <select aria-labelledby="newsletter-post" name="month">
+        <option value="">MM</option>
+        <option value="01" data-days="31">01</option>
+        <option value="02" data-days="29">02</option>
+        <option value="03" data-days="31">03</option>
+        <option value="04" data-days="30">04</option>
+        <option value="05" data-days="31">05</option>
+        <option value="06" data-days="30">06</option>
+        <option value="07" data-days="31">07</option>
+        <option value="08" data-days="31">08</option>
+        <option value="09" data-days="30">09</option>
+        <option value="10" data-days="31">10</option>
+        <option value="11" data-days="30">11</option>
+        <option value="12" data-days="31">12</option>
+      </select>
+    </div>
+    <div class="form-row-date">
+      <select aria-labelledby="newsletter-post" name="day">
+        <option value="">DD</option>
+        <option value="01">01</option>
+        <option value="02">02</option>
+        <option value="03">03</option>
+        <option value="04">04</option>
+        <option value="05">05</option>
+        <option value="06">06</option>
+        <option value="07">07</option>
+        <option value="08">08</option>
+        <option value="09">09</option>
+        <option value="10">10</option>
+        <option value="11">11</option>
+        <option value="12">12</option>
+        <option value="13">13</option>
+        <option value="14">14</option>
+        <option value="15">15</option>
+        <option value="16">16</option>
+        <option value="17">17</option>
+        <option value="18">18</option>
+        <option value="19">19</option>
+        <option value="20">20</option>
+        <option value="21">21</option>
+        <option value="22">22</option>
+        <option value="23">23</option>
+        <option value="24">24</option>
+        <option value="25">25</option>
+        <option value="26">26</option>
+        <option value="27">27</option>
+        <option value="28">28</option>
+        <option value="29">29</option>
+        <option value="30">30</option>
+        <option value="31">31</option>
+      </select>
+    </div>
+    <div class="form-row-date">
+      <select aria-labelledby="newsletter-post" name="year">
+        <option value="">YYYY</option>
+        <option>2005</option>
+        <option>2004</option>
+        <option>2003</option>
+        <option>2002</option>
+        <option>2001</option>
+        <option>2000</option>
+        <option>1999</option>
+        <option>1998</option>
+        <option>1997</option>
+        <option>1996</option>
+        <option>1995</option>
+        <option>1994</option>
+        <option>1993</option>
+        <option>1992</option>
+        <option>1991</option>
+        <option>1990</option>
+        <option>1989</option>
+        <option>1988</option>
+        <option>1987</option>
+        <option>1986</option>
+        <option>1985</option>
+        <option>1984</option>
+        <option>1983</option>
+        <option>1982</option>
+        <option>1981</option>
+        <option>1980</option>
+        <option>1979</option>
+        <option>1978</option>
+        <option>1977</option>
+        <option>1976</option>
+        <option>1975</option>
+        <option>1974</option>
+        <option>1973</option>
+        <option>1972</option>
+        <option>1971</option>
+        <option>1970</option>
+        <option>1969</option>
+        <option>1968</option>
+        <option>1967</option>
+        <option>1966</option>
+        <option>1965</option>
+        <option>1964</option>
+        <option>1963</option>
+        <option>1962</option>
+        <option>1961</option>
+        <option>1960</option>
+        <option>1959</option>
+        <option>1958</option>
+        <option>1957</option>
+        <option>1956</option>
+        <option>1955</option>
+        <option>1954</option>
+        <option>1953</option>
+        <option>1952</option>
+        <option>1951</option>
+        <option>1950</option>
+        <option>1949</option>
+        <option>1948</option>
+        <option>1947</option>
+        <option>1946</option>
+        <option>1945</option>
+        <option>1944</option>
+        <option>1943</option>
+        <option>1942</option>
+        <option>1941</option>
+        <option>1940</option>
+        <option>1939</option>
+        <option>1938</option>
+        <option>1937</option>
+        <option>1936</option>
+        <option>1935</option>
+        <option>1934</option>
+        <option>1933</option>
+        <option>1932</option>
+        <option>1931</option>
+        <option>1930</option>
+        <option>1929</option>
+        <option>1928</option>
+        <option>1927</option>
+        <option>1926</option>
+        <option>1925</option>
+        <option>1924</option>
+        <option>1923</option>
+        <option>1922</option>
+        <option>1921</option>
+        <option>1920</option>
+        <option>1919</option>
+        <option>1918</option>
+        <option>1917</option>
+        <option>1916</option>
+        <option>1915</option>
+        <option>1914</option>
+        <option>1913</option>
+        <option>1912</option>
+        <option>1911</option>
+        <option>1910</option>
+        <option>1909</option>
+        <option>1908</option>
+        <option>1907</option>
+        <option>1906</option>
+        <option>1905</option>
+        <option>1904</option>
+        <option>1903</option>
+        <option>1902</option>
+        <option>1901</option>
+        <option>1900</option>
+      </select>
+    </div>
+  </div>
+  <button type="submit" class="button button-navy block">Submit</button>
 </form>
 
-  <div class="cart-sidebar" id="js-inline-cart"></div>  
+    <div class="newsletter-heading js-form-confirm form-confirm success" style="display:none;">
+      <div style="margin: 0 auto">Thank You. Your special offer will be emailed to you shortly.</div>
+    </div>
+    <div class="loader-wrapper js-newsletter-loader">
+  <div class="loader">
+    <span class="dot dot_1"></span>
+    <span class="dot dot_2"></span>
+    <span class="dot dot_3"></span>
+    <span class="dot dot_4"></span>
+  </div>
+</div>
 
+  </div>
+</div>
+
+  <div class="inline-cart js-inline-cart">
+  <div class="cart-heading">
+    <span class="icon-close js-close-cart"></span>
+    <span>Your Cart</span>
+  </div>
   
 
+  <div class="js-cart-contents cart-contents"></div>
+  <div class="cart-subtotal">
+  
+  
+  
+
+  <div class="hear-about-us js-hear-about-us">
+    <label>How did you hear about us?</label>
+    <select>
+      <option data-default="" value="">Please make a selection</option>
+      
+      
+      
+      <option data-custom="" value="Friend or Family Member">Friend or Family Member</option>
+      
+      
+      <option data-custom="" value="Retail Store">Retail Store</option>
+      
+      
+      <option data-custom="" value="Catalog/Postcard/Mailer">Catalog/Postcard/Mailer</option>
+      
+      
+      <option data-custom="" value="Magazine/Newspaper">Magazine/Newspaper</option>
+      
+      
+      <option data-custom="" value="Billboard">Billboard</option>
+      
+      
+      <option data-custom="" value="TV">TV</option>
+      
+      
+      <option data-custom="" value="Radio">Radio</option>
+      
+      
+      <option data-custom="" value="Podcast">Podcast</option>
+      
+      
+      <option data-custom="" value="Social Media">Social Media</option>
+      
+      
+      <option data-custom="" value="Received as Gift">Received as Gift</option>
+      
+      
+      <option data-custom="" value="Search Engine">Search Engine</option>
+      
+      
+      <option data-custom="" value="Display Ad">Display Ad</option>
+      
+      
+      <option data-custom="" value="Subway">Subway</option>
+      
+      
+      <option data-custom="" value="Email">Email</option>
+      
+      <option data-fixed="" value="Other">Other</option>
+    </select>
+  </div>
+
+
+  <div class="subtotal">
+    <span>
+      Subtotal
+      <div class="cart-tooltip">
+  <span class="icon-tooltip js-tooltip"></span>
+  <div class="tooltip-wrap">
+    State and local tax rules require we collect sales tax in any state in which UNTUCKit has a physical presence (such as a store).
+  </div>
+</div>
+
+    </span>
+    <span class="js-cart-total">0</span>
+  </div>
+  <a href="/checkout" class="button avenir button-navy checkout js-checkout" title="Check out">Check Out</a>
+  <a href="/cart" class="button simple view-cart">View Cart</a>
+  <p class="cart-promo">Have a promo code? Enter it in checkout!</p>
+</div>
+
+</div>
+
+  
 <header class="header js-header">
   <div class="js-banner-entry"></div>
+  <div class="flow-gdpr-banner"></div>
   
 
-  
 
 
 
@@ -984,911 +1500,930 @@ dataLayer.push({
 
 
 
-
-<div class="countdown-banner" countdown-banner="" timer-1-start="2017::06::14::04::33::00" timer-1-end="2017::06::15::14::00::00" timer-2-start="" timer-2-end="" timer-1-discounts="false" timer-2-discounts="false">
+<div class="countdown-banner" countdown-banner="" timer-timezone="America/New_York" timer-1-start="2018::07::05::00::00::00" timer-1-end="2018::07::06::03::00::00" timer-2-start="" timer-2-end="" timer-1-discounts="false" timer-2-discounts="false">
   <div class="countdown-banner-title">
-    <p class="countdown-banner-title--text" countdown-banner-text="" timer-1-message="- GET YOUR GIFT IN TIME FOR FATHER'S DAY! SELECT OVERNIGHT SHIPPING AT CHECKOUT! -" timer-2-message=""><a href="https://www.untuckit.com/collections/fathers-day-gift-guide-1">- GET YOUR GIFT IN TIME FOR FATHER'S DAY! SELECT OVERNIGHT SHIPPING AT CHECKOUT! -</a></p>
+    <p class="countdown-banner-title--text" countdown-banner-text="" timer-1-message="FINAL HOURS: 4th OF JULY SALE" timer-2-message=""><a href="https://www.untuckit.com/collections/shirts">FINAL HOURS: 4th OF JULY SALE</a></p>
   </div>
   <div class="countdown-banner-clock-container">
     <div class="countdown-banner-clock" countdown-clock=""></div>
   </div>
 </div>
 
-  <div class="header--top-bar">
+  <div class="header-top-bar">
     <div class="sale">
-  <a class="js-toggle-newsletter" href="#">Get 20% Off <i class="fa fa-angle-down"></i></a>
-  <form class="search" action="/search">
-    <input type="text" placeholder="Search" name="q" value="" class="search-box">
-    <button type="submit" class="search-submit js-search"><i class="fa fa-search" aria-hidden="true"></i></button>
-  </form>
+  <a class="toggle-newsletter js-toggle-newsletter" href="#" title="Toggle Newletter Box">Get 20% off</a>
+  
 </div>
 
-    <div class="free-shipping"><a href="/pages/faqs">FREE SHIPPING &amp; FREE RETURNS WITHIN THE US</a></div>
-    <div class="header--utility js-utility">
+    <div class="free-shipping">
+      
+        <span><a href="https://www.untuckit.com/collections/shirts">FREE SHIPPING AND RETURNS WITHIN THE US</a></span>
+      
+    </div>
+    <div class="header-utility js-utility">
   <div class="sale">
-  <a class="js-toggle-newsletter" href="#">Get 20% Off <i class="fa fa-angle-down"></i></a>
-  <form class="search" action="/search">
-    <input type="text" placeholder="Search" name="q" value="" class="search-box">
-    <button type="submit" class="search-submit js-search"><i class="fa fa-search" aria-hidden="true"></i></button>
-  </form>
+  <a class="toggle-newsletter js-toggle-newsletter" href="#" title="Toggle Newletter Box">Get 20% off</a>
+  
+    <form class="search mobile-only" action="/search" id="search-input-label">
+      <input type="text" placeholder="Search" name="q" value="" class="search-box" aria-labelledby="search-input-label">
+      <button type="submit" class="search-submit js-search" title="Seach" aria-label="Search Button"><i class="fa fa-search" aria-hidden="true"></i></button>
+    </form>
+  
 </div>
 
   
-  <a href="/pages/rewards" class="balance-block" id="menu-balance-block" style="display:none;">
+  <a href="/pages/rewards" class="balance-block menu-balance-block" style="display:none;" title="Reward Balance">
     Balance: <span class="doller-sign">$</span><span class="doller-sign swell-point-balance">0</span>
   </a>
   
-  
-<ul class="header--account">
-  
-  <li class="login account-link--wrap">
-    <a href="/account/login" id="customer_login_link">Log-in</a>
-  </li>
-  
-  <li class="account-link--wrap">
-    <a class="register account-link" href="/account/register">Create An Account</a>
-  </li>
-  <li id="LP_DIV_1450452725696" style="display:none;"></li>
-  
-  
-</ul>
 
 
-</div>
-
-  </div>
-  <div class="header--main">
-    <a href="#" class="show-nav js-show-nav"><i class="fa fa-bars" aria-hidden="true"></i></a>
-    <a href="/" class="logo"></a>
-    <a class="header--cart js-cart" href="#">
-  <i class="fa fa-shopping-cart"></i>
-  <div class="cart-text">
-    <span class="hide-mobile">Cart </span><span class="number-items" data-qty="0">0</span>
-  </div>
-</a>
-
-  </div>
-</header>
-<nav class="header--nav js-nav">
-  <div class="header--nav-scroll">
-    <a href="#" class="js-hide-nav hide-nav"><i class="fa fa-times" aria-hidden="true"></i></a>
+<div id="country-picker--desktop"></div>
+  <ul class="header-account">
     
-  <ul class="menu">
-    
+      <li class="login account-link-wrap">
+        <a href="/account/login" id="customer_login_link">Log-in</a>
+      </li>
       
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li class="menu-link--outer js-dropdown">
-  
-  <a href="/pages/men" class="menu-link menu-link--top">
-    <span>Men</span>
-    
-    <i class="fa fa-angle-down"></i>
-    
-  </a>
-  <div class="submenu--wrap submenu--wrap--top">
-    <ul class="menu menu--top">
+        <li class="account-link-wrap">
+          <a class="register account-link" href="/account/register">Create An Account</a>
+        </li>
+        <li id="LP_DIV_1450452725696" style="display:none;"></li>
       
-        
-        
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li class="menu-link--outer" data-img-src="//cdn.shopify.com/s/files/1/0129/1072/files/shirts.jpg?3589588252607778111">
-  
-  <a href="/collections/men#" class="menu-link menu-link--child">
-    <span>Shirts</span>
-    
-  </a>
-  <div class="submenu--wrap submenu--wrap--child">
-    <ul class="menu menu--child">
-      
-        
-        
-          <li>
-            <a href="/collections/shirts#wrinkle-free" class="menu-link--grandchild menu-link">
-              <span>Wrinkle Free</span>
-            </a>
-          </li>
-        
-          <li>
-            <a href="/collections/shirts#linen" class="menu-link--grandchild menu-link">
-              <span>Linen</span>
-            </a>
-          </li>
-        
-          <li>
-            <a href="/collections/shirts#solidsandstripes" class="menu-link--grandchild menu-link">
-              <span>Solids &amp; Stripes</span>
-            </a>
-          </li>
-        
-          <li>
-            <a href="/collections/shirts#checksginghams" class="menu-link--grandchild menu-link">
-              <span>Checks &amp; Ginghams</span>
-            </a>
-          </li>
-        
-          <li>
-            <a href="/collections/shirts#short-sleeves" class="menu-link--grandchild menu-link">
-              <span>Short Sleeves</span>
-            </a>
-          </li>
-        
-          <li>
-            <a href="/collections/shirts#plaidsandflannels" class="menu-link--grandchild menu-link">
-              <span>Plaids &amp; Flannels</span>
-            </a>
-          </li>
-        
-          <li>
-            <a href="/collections/shirts#chambraydenim" class="menu-link--grandchild menu-link">
-              <span>Chambray &amp; Denim</span>
-            </a>
-          </li>
-        
-          <li>
-            <a href="/collections/shirts#prints" class="menu-link--grandchild menu-link">
-              <span>Prints</span>
-            </a>
-          </li>
-        
-          <li>
-            <a href="/collections/shirts#performance" class="menu-link--grandchild menu-link">
-              <span>Performance</span>
-            </a>
-          </li>
-        
-          <li>
-            <a href="/collections/shirts#tall" class="menu-link--grandchild menu-link">
-              <span>Tall</span>
-            </a>
-          </li>
-        
-      
-    </ul>
-  </div>
-  
-</li>
-
-        
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li class="menu-link--outer" data-img-src="//cdn.shopify.com/s/files/1/0129/1072/files/polos.jpg?3589588252607778111">
-  
-  <a href="/collections/polos" class="menu-link menu-link--child">
-    <span>Polos</span>
-    
-  </a>
-  <div class="submenu--wrap submenu--wrap--child">
-    <ul class="menu menu--child">
-      
-        
-        
-          <li>
-            <a href="/collections/pique" class="menu-link--grandchild menu-link">
-              <span>Pique</span>
-            </a>
-          </li>
-        
-          <li>
-            <a href="/collections/jersey" class="menu-link--grandchild menu-link">
-              <span>Jersey</span>
-            </a>
-          </li>
-        
-          <li>
-            <a href="/collections/long-sleeve" class="menu-link--grandchild menu-link">
-              <span>Long Sleeve</span>
-            </a>
-          </li>
-        
-      
-    </ul>
-  </div>
-  
-</li>
-
-        
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li class="menu-link--outer" data-img-src="//cdn.shopify.com/s/files/1/0129/1072/files/tees-henleys.jpg?3589588252607778111">
-  
-  <a href="/collections/tees-henleys" class="menu-link menu-link--child">
-    <span>Tees &amp; Henleys</span>
-    
-  </a>
-  <div class="submenu--wrap submenu--wrap--child">
-    <ul class="menu menu--child">
-      
-        
-        
-          <li>
-            <a href="/collections/short-sleeve-tees" class="menu-link--grandchild menu-link">
-              <span>Short Sleeve Tees</span>
-            </a>
-          </li>
-        
-          <li>
-            <a href="/collections/long-sleeve-tees" class="menu-link--grandchild menu-link">
-              <span>Long Sleeve Tees</span>
-            </a>
-          </li>
-        
-          <li>
-            <a href="/collections/henleys" class="menu-link--grandchild menu-link">
-              <span>Henleys</span>
-            </a>
-          </li>
-        
-          <li>
-            <a href="/collections/v-neck" class="menu-link--grandchild menu-link">
-              <span>V-Neck</span>
-            </a>
-          </li>
-        
-          <li>
-            <a href="/collections/tees-henleys-quarter-zip" class="menu-link--grandchild menu-link">
-              <span>Quarter Zip Pullover</span>
-            </a>
-          </li>
-        
-      
-    </ul>
-  </div>
-  
-</li>
-
-        
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li class="menu-link--outer" data-img-src="//cdn.shopify.com/s/files/1/0129/1072/files/sweatshirts.jpg?3589588252607778111">
-  
-  <a href="/collections/sweatshirts" class="menu-link menu-link--child">
-    <span>Sweatshirts</span>
-    
-  </a>
-  <div class="submenu--wrap submenu--wrap--child">
-    <ul class="menu menu--child">
-      
-        
-        
-          <li>
-            <a href="/collections/crew-neck-sweatshirts" class="menu-link--grandchild menu-link">
-              <span>Crew Neck</span>
-            </a>
-          </li>
-        
-          <li>
-            <a href="/collections/hoodie" class="menu-link--grandchild menu-link">
-              <span>Hoodie</span>
-            </a>
-          </li>
-        
-          <li>
-            <a href="/collections/quarter-zip" class="menu-link--grandchild menu-link">
-              <span>Quarter Zip Pullover</span>
-            </a>
-          </li>
-        
-      
-    </ul>
-  </div>
-  
-</li>
-
-        
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li class="menu-link--outer" data-img-src="//cdn.shopify.com/s/files/1/0129/1072/files/performance.jpg?3589588252607778111">
-  
-  <a href="/collections/performance-all" class="menu-link menu-link--child">
-    <span>Performance</span>
-    
-  </a>
-  <div class="submenu--wrap submenu--wrap--child">
-    <ul class="menu menu--child">
-      
-        
-        
-          <li>
-            <a href="/collections/performance-tees-polos" class="menu-link--grandchild menu-link">
-              <span>Tees &amp; Polos</span>
-            </a>
-          </li>
-        
-          <li>
-            <a href="/collections/performance-shirts" class="menu-link--grandchild menu-link">
-              <span>Shirts</span>
-            </a>
-          </li>
-        
-          <li>
-            <a href="/collections/performance-quarter-zip" class="menu-link--grandchild menu-link">
-              <span>Quarter Zip Pullover</span>
-            </a>
-          </li>
-        
-          <li>
-            <a href="/collections/performance-full-zip" class="menu-link--grandchild menu-link">
-              <span>Full Zip</span>
-            </a>
-          </li>
-        
-      
-    </ul>
-  </div>
-  
-</li>
-
-        
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li class="menu-link--outer" data-img-src="//cdn.shopify.com/s/files/1/0129/1072/files/bottoms.jpg?3589588252607778111">
-  
-  <a href="/collections/bottoms" class="menu-link menu-link--child">
-    <span>Bottoms</span>
-    
-  </a>
-  <div class="submenu--wrap submenu--wrap--child">
-    <ul class="menu menu--child">
-      
-        
-        
-          <li>
-            <a href="/collections/shorts" class="menu-link--grandchild menu-link">
-              <span>Shorts</span>
-            </a>
-          </li>
-        
-      
-    </ul>
-  </div>
-  
-</li>
-
-        
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li class="menu-link--outer" data-img-src="//cdn.shopify.com/s/files/1/0129/1072/files/sweaters.jpg?3589588252607778111">
-  
-  <a href="/collections/sweaters" class="menu-link menu-link--child">
-    <span>Sweaters</span>
-    
-  </a>
-  <div class="submenu--wrap submenu--wrap--child">
-    <ul class="menu menu--child">
-      
-        
-        
-          <li>
-            <a href="/collections/quarter-zip-sweaters" class="menu-link--grandchild menu-link">
-              <span>Quarter Zip Pullover</span>
-            </a>
-          </li>
-        
-          <li>
-            <a href="/collections/v-neck-sweaters" class="menu-link--grandchild menu-link">
-              <span>V-Neck</span>
-            </a>
-          </li>
-        
-          <li>
-            <a href="/collections/cardigan" class="menu-link--grandchild menu-link">
-              <span>Cardigan</span>
-            </a>
-          </li>
-        
-      
-    </ul>
-  </div>
-  
-</li>
-
-        
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li class="menu-link--outer" data-img-src="//cdn.shopify.com/s/files/1/0129/1072/files/spring-jackets.jpg?3589588252607778111">
-  
-  <a href="/collections/jackets-1" class="menu-link menu-link--child">
-    <span>Spring Jackets</span>
-    
-  </a>
-  <div class="submenu--wrap submenu--wrap--child">
-    <ul class="menu menu--child">
-      
-        
-        
-          <li>
-            <a href="/collections/jackets" class="menu-link--grandchild menu-link">
-              <span>Jackets</span>
-            </a>
-          </li>
-        
-          <li>
-            <a href="/collections/vests-jackets" class="menu-link--grandchild menu-link">
-              <span>Vests</span>
-            </a>
-          </li>
-        
-          <li>
-            <a href="/collections/jackets-sport-coats" class="menu-link--grandchild menu-link">
-              <span>Sport Coats</span>
-            </a>
-          </li>
-        
-      
-    </ul>
-  </div>
-  
-</li>
-
-        
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li class="menu-link--outer" data-img-src="//cdn.shopify.com/s/files/1/0129/1072/files/accessories.jpg?3589588252607778111">
-  
-  <a href="/collections/accessories" class="menu-link menu-link--child">
-    <span>Accessories</span>
-    
-  </a>
-  <div class="submenu--wrap submenu--wrap--child">
-    <ul class="menu menu--child">
-      
-        
-        
-          <li>
-            <a href="/collections/accessories-socks" class="menu-link--grandchild menu-link">
-              <span>Socks</span>
-            </a>
-          </li>
-        
-          <li>
-            <a href="/collections/accessories-belts" class="menu-link--grandchild menu-link">
-              <span>Belts</span>
-            </a>
-          </li>
-        
-          <li>
-            <a href="/collections/accessories-undershirts" class="menu-link--grandchild menu-link">
-              <span>Undershirts</span>
-            </a>
-          </li>
-        
-      
-    </ul>
-  </div>
-  
-</li>
-
-        
-      
-    </ul>
-  </div>
-  
-</li>
-
-    
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li class="menu-link--outer">
-  
-  <a href="/collections/women" class="menu-link--top menu-link">
-    <span>Women</span>
-  </a>
-  
-</li>
-
-    
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li class="menu-link--outer">
-  
-  <a href="https://www.untuckit.com/collections/fathers-day-gift-guide-1" class="menu-link--top menu-link">
-    <span>Father's Day Gift Guide</span>
-  </a>
-  
-</li>
-
-    
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li class="menu-link--outer">
-  
-  <a href="/collections/new-arrivals" class="menu-link--top menu-link">
-    <span>New Arrivals</span>
-  </a>
-  
-</li>
-
-    
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li class="menu-link--outer">
-  
-  <a href="/pages/sizing" class="menu-link--top menu-link">
-    <span>Sizing</span>
-  </a>
-  
-</li>
-
-    
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li class="menu-link--outer">
-  
-  <a href="/products/e-gift-card" class="menu-link--top menu-link">
-    <span>Gift Cards</span>
-  </a>
-  
-</li>
-
-    
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li class="menu-link--outer js-dropdown">
-  
-  <a href="/pages/about-us" class="menu-link menu-link--top">
-    <span>About Us</span>
-    
-    <i class="fa fa-angle-down"></i>
-    
-  </a>
-  <div class="submenu--wrap submenu--wrap--top">
-    <ul class="menu menu--top">
-      
-        
-          <li class="menu-link--outer dropdown-repeat">
-            <a href="/pages/about-us" class="menu-link menu-link--child">
-              <span>About Us</span>
-            </a>
-          </li>
-        
-        
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li class="menu-link--outer" data-img-src="//cdn.shopify.com/s/files/1/0129/1072/files/store-locations.jpg?3589588252607778111">
-  
-  <a href="/blogs/store-locations" class="menu-link--child menu-link">
-    <span>Store Locations</span>
-  </a>
-  
-</li>
-
-        
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li class="menu-link--outer" data-img-src="//cdn.shopify.com/s/files/1/0129/1072/files/our-story.jpg?3589588252607778111">
-  
-  <a href="/pages/about-us" class="menu-link--child menu-link">
-    <span>Our Story</span>
-  </a>
-  
-</li>
-
-        
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li class="menu-link--outer" data-img-src="//cdn.shopify.com/s/files/1/0129/1072/files/careers.jpg?3589588252607778111">
-  
-  <a href="/blogs/careers" class="menu-link--child menu-link">
-    <span>Careers</span>
-  </a>
-  
-</li>
-
-        
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li class="menu-link--outer" data-img-src="//cdn.shopify.com/s/files/1/0129/1072/files/red-get-25.jpg?3589588252607778111">
-  
-  <a href="/pages/rewards" class="menu-link--child menu-link highlight">
-    <span>Get $25</span>
-  </a>
-  
-</li>
-
-        
-      
-    </ul>
-  </div>
-  
-</li>
-
-    
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li class="menu-link--outer">
-  
-  <a href="https://www.untuckit.com/collections/sale" class="menu-link--top menu-link">
-    <span>Sale</span>
-  </a>
-  
-</li>
-
     
   </ul>
 
+</div>
 
-    <div class="header--utility js-utility">
+    
+
+
+<div id="country-picker--mobile-2"></div>
+  </div>
+  <div class="header-main">
+    <a href="#" class="show-nav js-show-nav" title="Show Navigation" aria-label="Show Navigation"><i class="fa fa-bars" aria-hidden="true"></i></a>
+    <a href="/" class="logo logo--header-mobile" title="UNTUCKit" aria-label="UNTUCKit Logo"></a>
+    <div class="toggle-mobile js-toggle-newsletter">
+  <span>20% off</span>
+</div>
+
+    <a class="header-cart js-open-cart" href="#" title="View Cart">
+  <div class="cart-text-container">
+    <div class="number-items js-cart-qty">0
+    </div>
+    <span class="cart-text">Cart </span>
+  </div>
+</a>
+  </div>
+</header>
+
+<nav class="header-nav js-nav">
+  <div class="header-nav-scroll">
+    <a href="#" class="js-hide-nav hide-nav" title="Hide Navigation" aria-label="Hide Navigation"><i class="fa fa-times" aria-hidden="true"></i></a>
+
+<div id="country-picker--mobile"></div><div id="shopify-section-menu" class="shopify-section">
+
+<ul class="menu">
+
+
+  
+    <div class="menu-half menu-half--left">
+  
+
+  
+    <li class="menu-link-outer js-dropdown">
+      <a href="/pages/men" class="menu-link menu-link-top">
+        <span>Men</span>
+        <i class="fa fa-angle-down"></i>
+      </a>
+      <div class="submenu-wrap submenu-wrap-top">
+        <ul class="menu menu-top">
+        
+        
+          
+            
+            
+            
+            <li class="menu-col">
+              <ul class="menu-col-inner">
+              
+                
+
+
+
+
+
+
+
+<li class="menu-link-outer">
+
+  
+
+<a href="/collections/shirts" class="menu-link menu-link-child">
+  <span>Shirts</span>
+</a>
+
+  <div class="submenu-wrap submenu-wrap-child">
+    <ul class="menu menu-child">
+    
+      <li>
+        
+
+<a href="/collections/wrinkle-free" class="menu-link menu-link-grandchild">
+  <span>Wrinkle Free</span>
+</a>
+
+      </li>
+    
+      <li>
+        
+
+<a href="/collections/performance" class="menu-link menu-link-grandchild">
+  <span>Wrinkle Free Performance</span>
+</a>
+
+      </li>
+    
+      <li>
+        
+
+<a href="/collections/plaidsandflannels" class="menu-link menu-link-grandchild">
+  <span>Plaids &amp; Flannels</span>
+</a>
+
+      </li>
+    
+      <li>
+        
+
+<a href="/collections/solidsandstripes" class="menu-link menu-link-grandchild">
+  <span>Solids &amp; Stripes</span>
+</a>
+
+      </li>
+    
+      <li>
+        
+
+<a href="/collections/knit-button-downs" class="menu-link menu-link-grandchild">
+  <span>Knit Button-Downs</span>
+</a>
+
+      </li>
+    
+      <li>
+        
+
+<a href="/collections/checksginghams" class="menu-link menu-link-grandchild">
+  <span>Checks &amp; Ginghams</span>
+</a>
+
+      </li>
+    
+      <li>
+        
+
+<a href="/collections/chambraydenim" class="menu-link menu-link-grandchild">
+  <span>Chambray &amp; Denim</span>
+</a>
+
+      </li>
+    
+      <li>
+        
+
+<a href="/collections/short-sleeves" class="menu-link menu-link-grandchild">
+  <span>Short Sleeves</span>
+</a>
+
+      </li>
+    
+      <li>
+        
+
+<a href="/collections/tall" class="menu-link menu-link-grandchild">
+  <span>Tall</span>
+</a>
+
+      </li>
+    
+      <li>
+        
+
+<a href="/collections/relaxed-fit" class="menu-link menu-link-grandchild">
+  <span>Relaxed Fit</span>
+</a>
+
+      </li>
+    
+    </ul>
+  </div>
+
+</li>
+
+              
+              </ul>
+            </li>
+          
+            
+            
+            
+            <li class="menu-col">
+              <ul class="menu-col-inner">
+              
+                
+
+
+
+
+
+
+
+<li class="menu-link-outer">
+
+  
+
+<a href="/collections/polos" class="menu-link menu-link-child">
+  <span>Polos</span>
+</a>
+
+  <div class="submenu-wrap submenu-wrap-child">
+    <ul class="menu menu-child">
+    
+      <li>
+        
+
+<a href="/collections/long-sleeve" class="menu-link menu-link-grandchild">
+  <span>Long-Sleeve Polos</span>
+</a>
+
+      </li>
+    
+      <li>
+        
+
+<a href="/collections/short-sleeve-polos" class="menu-link menu-link-grandchild">
+  <span>Short-Sleeve Polos</span>
+</a>
+
+      </li>
+    
+    </ul>
+  </div>
+
+</li>
+
+              
+                
+
+
+
+
+
+
+
+<li class="menu-link-outer">
+
+  
+
+<a href="/collections/tees-henleys" class="menu-link menu-link-child">
+  <span>Tees &amp; Henleys</span>
+</a>
+
+  <div class="submenu-wrap submenu-wrap-child">
+    <ul class="menu menu-child">
+    
+      <li>
+        
+
+<a href="/collections/long-sleeve-henleys" class="menu-link menu-link-grandchild">
+  <span>Long-Sleeve Henleys</span>
+</a>
+
+      </li>
+    
+      <li>
+        
+
+<a href="/collections/ultrasoft-long-sleeve-tees" class="menu-link menu-link-grandchild">
+  <span>Ultrasoft Long-Sleeve Tees</span>
+</a>
+
+      </li>
+    
+      <li>
+        
+
+<a href="/collections/performance-tees" class="menu-link menu-link-grandchild">
+  <span>Performance Tees</span>
+</a>
+
+      </li>
+    
+      <li>
+        
+
+<a href="/collections/ultrasoft-tees" class="menu-link menu-link-grandchild">
+  <span>Ultrasoft Tees</span>
+</a>
+
+      </li>
+    
+      <li>
+        
+
+<a href="/collections/short-sleeve-henleys" class="menu-link menu-link-grandchild">
+  <span>Short-Sleeve Henleys</span>
+</a>
+
+      </li>
+    
+    </ul>
+  </div>
+
+</li>
+
+              
+              </ul>
+            </li>
+          
+            
+            
+            
+            <li class="menu-col menu-col-nosubnav">
+              <ul class="menu-col-inner">
+              
+                
+
+
+
+
+
+
+
+<li class="menu-link-outer">
+
+  
+
+<a href="/collections/bottoms" class="menu-link menu-link-child">
+  <span>Bottoms</span>
+</a>
+
+
+</li>
+
+              
+                
+
+
+
+
+
+
+
+<li class="menu-link-outer">
+
+  
+
+<a href="/collections/jackets-sport-coats" class="menu-link menu-link-child">
+  <span>Sport Coats</span>
+</a>
+
+
+</li>
+
+              
+                
+
+
+
+
+
+
+
+<li class="menu-link-outer">
+
+  
+
+<a href="/collections/sweatshirts" class="menu-link menu-link-child">
+  <span>Sweatshirts</span>
+</a>
+
+
+</li>
+
+              
+                
+
+
+
+
+
+
+
+<li class="menu-link-outer">
+
+  
+
+<a href="https://www.untuckit.com/collections/performance-all" class="menu-link menu-link-child">
+  <span>Performance</span>
+</a>
+
+
+</li>
+
+              
+                
+
+
+
+
+
+
+
+<li class="menu-link-outer">
+
+  
+
+<a href="/collections/outerwear" class="menu-link menu-link-child">
+  <span>Outerwear</span>
+</a>
+
+
+</li>
+
+              
+                
+
+
+
+
+
+
+
+<li class="menu-link-outer">
+
+  
+
+<a href="/collections/sweaters" class="menu-link menu-link-child">
+  <span>Sweaters</span>
+</a>
+
+
+</li>
+
+              
+                
+
+
+
+
+
+
+
+<li class="menu-link-outer">
+
+  
+
+<a href="/collections/shoes-accessories" class="menu-link menu-link-child">
+  <span>Shoes &amp; Accessories</span>
+</a>
+
+
+</li>
+
+              
+                
+
+
+
+
+
+
+
+<li class="menu-link-outer">
+
+  
+
+<a href="/collections/founders-favorites" class="menu-link menu-link-child">
+  <span>Founder's Favorites</span>
+</a>
+
+
+</li>
+
+              
+                
+
+
+
+
+
+
+
+<li class="menu-link-outer">
+
+  
+
+<a href="/collections/drews-picks" class="menu-link menu-link-child">
+  <span>Drew's Picks</span>
+</a>
+
+
+</li>
+
+              
+              </ul>
+            </li>
+          
+          <li class="menu-col menu-featured hide-mobile">
+            <a href="https://www.untuckit.com/products/e-gift-card?variant=23344297541" class="menu-featured-link">
+              <img data-src="//cdn.shopify.com/s/files/1/0129/1072/files/GIFT-CARD_Featured-Collection-Banner_MAY2018_390x484_3e00b9c7-d9db-4941-9886-d11a9be8c7fe_195x245.jpg?v=1531318023" data-srcset="//cdn.shopify.com/s/files/1/0129/1072/files/GIFT-CARD_Featured-Collection-Banner_MAY2018_390x484_3e00b9c7-d9db-4941-9886-d11a9be8c7fe_195x245.jpg?v=1531318023 195w, //cdn.shopify.com/s/files/1/0129/1072/files/GIFT-CARD_Featured-Collection-Banner_MAY2018_390x484_3e00b9c7-d9db-4941-9886-d11a9be8c7fe_195x245@2x.jpg?v=1531318023 380w" alt="Featured: Shop Instant Gift Cards">
+              <span>Shop Instant Gift Cards</span>
+            </a>
+          </li>
+        
+        </ul>
+      </div>
+    </li>
+  
+
+
+  
+
+  
+
+
+
+  
+
+  
+    <li class="menu-link-outer">
+      <a href="/collections/womens" class="menu-link-top menu-link">
+        <span>Women</span>
+      </a>
+    </li>
+  
+
+
+  
+
+  
+
+
+
+  
+
+  
+    <li class="menu-link-outer">
+      <a href="https://www.untuckit.com/collections/boys" class="menu-link-top menu-link">
+        <span>Boys</span>
+      </a>
+    </li>
+  
+
+
+  
+
+  
+
+
+
+  
+
+  
+    <li class="menu-link-outer">
+      <a href="/collections/new-arrivals" class="menu-link-top menu-link">
+        <span>New Arrivals</span>
+      </a>
+    </li>
+  
+
+
+  
+
+  
+
+
+
+  
+
+  
+    <li class="menu-link-outer">
+      <a href="https://www.untuckit.com/collections/sale" class="menu-link-top menu-link">
+        <span>Sale</span>
+      </a>
+    </li>
+  
+
+
+  
+    </div>
+    <a href="/" class="logo logo--header-desktop"></a>
+  
+
+  
+
+
+
+  
+    <div class="menu-half menu-half--right">
+  
+
+  
+    <li class="menu-link-outer">
+      <a href="https://www.untuckit.com/pages/every-body-welcome" class="menu-link-top menu-link">
+        <span>Find Your Fit</span>
+      </a>
+    </li>
+  
+
+
+  
+
+  
+
+
+
+  
+
+  
+    <li class="menu-link-outer js-dropdown">
+      <a href="/pages/about-us" class="menu-link menu-link-top">
+        <span>About Us</span>
+        <i class="fa fa-angle-down"></i>
+      </a>
+      <div class="submenu-wrap submenu-wrap-top">
+        <ul class="menu menu-top">
+        
+          <li class="menu-link-outer dropdown-repeat">
+            <a href="" class="menu-link menu-link-child" aria-label="Child Menu Link ">
+              <span></span>
+            </a>
+          </li>
+        
+        
+          <li class="menu-col menu-col-nosubnav">
+            <ul class="menu-col-inner">
+            
+              
+
+
+
+
+
+
+
+<li class="menu-link-outer">
+
+  
+
+<a href="/blogs/store-locations" class="menu-link menu-link-child">
+  <span>Store Locations</span>
+</a>
+
+
+</li>
+
+            
+              
+
+
+
+
+
+
+
+<li class="menu-link-outer">
+
+  
+
+<a href="/pages/about-us" class="menu-link menu-link-child">
+  <span>Our Story</span>
+</a>
+
+
+</li>
+
+            
+              
+
+
+
+
+
+
+
+<li class="menu-link-outer">
+
+  
+
+<a href="/pages/sizing" class="menu-link menu-link-child">
+  <span>Sizing</span>
+</a>
+
+
+</li>
+
+            
+              
+
+
+
+
+
+
+
+<li class="menu-link-outer">
+
+  
+
+<a href="/products/e-gift-card" class="menu-link menu-link-child">
+  <span>Gift Cards</span>
+</a>
+
+
+</li>
+
+            
+              
+
+
+
+
+
+
+
+<li class="menu-link-outer">
+
+  
+
+<a href="/blogs/careers" class="menu-link menu-link-child">
+  <span>Careers</span>
+</a>
+
+
+</li>
+
+            
+              
+
+
+
+
+
+
+
+<li class="menu-link-outer">
+
+  
+
+<a href="/pages/military" class="menu-link menu-link-child">
+  <span>Military Program</span>
+</a>
+
+
+</li>
+
+            
+              
+
+
+
+
+
+
+
+<li class="menu-link-outer">
+
+  
+
+<a href="/pages/rewards" class="menu-link menu-link-child highlight">
+  <span>Get $25</span>
+</a>
+
+
+</li>
+
+            
+            </ul>
+          </li>
+          
+            
+            
+            
+            
+            <li class="menu-link-outer menu-link-image">
+              <a href="/blogs/careers" class="menu-link">
+                <img data-src="//cdn.shopify.com/s/files/1/0129/1072/files/AboutUsDropdown_Homepage_APRIL_2018_Careers_1_195x245.jpg?v=1522938394" data-srcset="//cdn.shopify.com/s/files/1/0129/1072/files/AboutUsDropdown_Homepage_APRIL_2018_Careers_1_195x245.jpg?v=1522938394 195w, //cdn.shopify.com/s/files/1/0129/1072/files/AboutUsDropdown_Homepage_APRIL_2018_Careers_1_195x245@2x.jpg?v=1522938394 380w" alt="Careers">
+                <span>Careers</span>
+              </a>
+            </li>
+          
+            
+            
+            
+            
+            <li class="menu-link-outer menu-link-image">
+              <a href="/pages/about-us" class="menu-link">
+                <img data-src="//cdn.shopify.com/s/files/1/0129/1072/files/AboutUsDropdown_Homepage_APRIL_2018_AboutUs_2_195x245.jpg?v=1522938394" data-srcset="//cdn.shopify.com/s/files/1/0129/1072/files/AboutUsDropdown_Homepage_APRIL_2018_AboutUs_2_195x245.jpg?v=1522938394 195w, //cdn.shopify.com/s/files/1/0129/1072/files/AboutUsDropdown_Homepage_APRIL_2018_AboutUs_2_195x245@2x.jpg?v=1522938394 380w" alt="Our Story">
+                <span>Our Story</span>
+              </a>
+            </li>
+          
+            
+            
+            
+            
+            <li class="menu-link-outer menu-link-image">
+              <a href="/blogs/store-locations" class="menu-link">
+                <img data-src="//cdn.shopify.com/s/files/1/0129/1072/files/AboutUsDropdown_Homepage_APRIL_2018_Stores_3_195x245.jpg?v=1522938394" data-srcset="//cdn.shopify.com/s/files/1/0129/1072/files/AboutUsDropdown_Homepage_APRIL_2018_Stores_3_195x245.jpg?v=1522938394 195w, //cdn.shopify.com/s/files/1/0129/1072/files/AboutUsDropdown_Homepage_APRIL_2018_Stores_3_195x245@2x.jpg?v=1522938394 380w" alt="Store Locations">
+                <span>Store Locations</span>
+              </a>
+            </li>
+          
+        
+        </ul>
+      </div>
+    </li>
+  
+
+
+  
+
+  
+    <li class="menu-link-outer desktop-only js-dropdown">
+      <a href="#" class="menu-link-top menu-link js-menu-link-search">
+        <span class="menu-link__search-content">
+          <p>SEARCH</p>
+          <svg class="menu-link__search-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23 19"><g fill="none" fill-rule="evenodd" stroke="#133362" stroke-linejoin="round"><path d="M13.222 7.296a5.926 5.926 0 1 1-11.852 0 5.926 5.926 0 0 1 11.852 0z"></path><path d="M11.486 11.486l5.028 5.028" stroke-linecap="round"></path></g></svg>
+        </span>
+      </a>
+      <div class="submenu-wrap submenu-wrap-top submenu-wrap-top--search">
+        <div class="search-row" role="search">
+          <a class="search-row-icon js-search-row-icon" aria-hidden="true">
+            <svg class="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23 19"><g fill="none" fill-rule="evenodd" stroke="#133362" stroke-linejoin="round"><path d="M13.222 7.296a5.926 5.926 0 1 1-11.852 0 5.926 5.926 0 0 1 11.852 0z"></path><path d="M11.486 11.486l5.028 5.028" stroke-linecap="round"></path></g></svg>
+          </a>
+
+          <form class="search" action="/search" id="search-input-label-2">
+            <input type="text" placeholder="Enter Search Term Here" name="q" value="" class="search-box" aria-labelledby="search-input-label">
+            <div class="search-action">
+              <button type="submit" class="search-submit js-search" title="Seach" aria-label="Search Button"></button>
+              <span class="icon-close js-search-close"></span>
+            </div>
+          </form>
+        </div>
+      </div>
+    </li>
+
+    <li class="menu-link-outer desktop-only">
+      <a href="#" class="menu-link-top menu-link menu-link__cart js-open-cart">
+        <span>CART</span>
+        <div class="number-items js-cart-qty">
+          0
+        </div>
+      </a>
+    </li>
+    
+    </div>
+  
+
+
+
+</ul>
+</div>
+    <div class="header-utility js-utility">
   <div class="sale">
-  <a class="js-toggle-newsletter" href="#">Get 20% Off <i class="fa fa-angle-down"></i></a>
-  <form class="search" action="/search">
-    <input type="text" placeholder="Search" name="q" value="" class="search-box">
-    <button type="submit" class="search-submit js-search"><i class="fa fa-search" aria-hidden="true"></i></button>
-  </form>
+  <a class="toggle-newsletter js-toggle-newsletter" href="#" title="Toggle Newletter Box">Get 20% off</a>
+  
+    <form class="search mobile-only" action="/search" id="search-input-label">
+      <input type="text" placeholder="Search" name="q" value="" class="search-box" aria-labelledby="search-input-label">
+      <button type="submit" class="search-submit js-search" title="Seach" aria-label="Search Button"><i class="fa fa-search" aria-hidden="true"></i></button>
+    </form>
+  
 </div>
 
   
-  <a href="/pages/rewards" class="balance-block" id="menu-balance-block" style="display:none;">
+  <a href="/pages/rewards" class="balance-block menu-balance-block" style="display:none;" title="Reward Balance">
     Balance: <span class="doller-sign">$</span><span class="doller-sign swell-point-balance">0</span>
   </a>
   
-  
-<ul class="header--account">
-  
-  <li class="login account-link--wrap">
-    <a href="/account/login" id="customer_login_link">Log-in</a>
-  </li>
-  
-  <li class="account-link--wrap">
-    <a class="register account-link" href="/account/register">Create An Account</a>
-  </li>
-  <li id="LP_DIV_1450452725696" style="display:none;"></li>
-  
-  
-</ul>
 
+
+<div id="country-picker--desktop"></div>
+  <ul class="header-account">
+    
+      <li class="login account-link-wrap">
+        <a href="/account/login" id="customer_login_link">Log-in</a>
+      </li>
+      
+        <li class="account-link-wrap">
+          <a class="register account-link" href="/account/register">Create An Account</a>
+        </li>
+        <li id="LP_DIV_1450452725696" style="display:none;"></li>
+      
+    
+  </ul>
 
 </div>
 
@@ -1985,129 +2520,361 @@ dataLayer.push({
       </section>
     
     </main>
-    <footer class="footer">
-  <section class="footer-head">
-    <a class="logo" href="/"></a>
-    <div class="footer-contact">
-      <ul>
-        <li>questions@untuckit.com</li>
-        <li>+1 (888) 992-3102</li>
-        <li>M-F 10am-5pm EST</li>
-      </ul>
-    </div>
-    <ul class="list-inline ">
 
+    
+
+
+
+
+
+
+<footer class="footer" role="contentinfo">
+  <section class="footer-newsletter">
+  <p class="newsletter-title">Receive 20% Off Your First Purchase!</p>
+  <form id="klaviyo-footer" class="mailing-form" action="//manage.kmail-lists.com/subscriptions/subscribe" data-ajax-submit="//manage.kmail-lists.com/ajax/subscriptions/subscribe" method="GET" target="_blank" novalidate="novalidate">
+    <input type="hidden" name="g" value="hVJLdp">
+    <input type="hidden" class="js-source" value="footer">
+    <label class="hidden" for="k_id_email">Newsletter signup email input</label>
+    <input class="btn-block" type="email" value="" name="email" id="k_id_email" placeholder="enter your email address" required="" pattern="^[^\s@]+@([^\s@.,]+\.)+[^\s@.,]{2,}$">
+    <button id="klaviyo-email-submit" name="subscribe" aria-label="Mailing list subscribe">Sign Up</button>
+    <div class="klaviyo_messages">
+      <div class="success_message" style="display:none"></div>
+      <div class="error_message" style="display:none"></div>
+    </div>
+  </form>
+  <div class="klaviyo-footer-success"></div>
+  <form class="post-newsletter js-post-newsletter">
+  <a href="#" class="icon-close js-close-post-newsletter" aria-label="Close Confirmation Newsletter"></a>
+  <p class="newsletter-heading">Thanks for signing up!</p>
+  <p class="newsletter-copy">Tell us a little more about you:</p>
+  <div class="form-row" id="newsletter-post">
+    <div class="form-row-name">
+      <label>Name</label>
+      <input aria-labelledby="newsletter-post" type="text" pattern="^[a-zA-Z ]*$" maxlength="144" name="name" placeholder="Name" required="">
+    </div>
+    <div class="form-row-zip">
+      <label>Zip Code</label>
+      <input aria-labelledby="newsletter-post" type="text" pattern="[0-9]{5}" maxlength="5" name="zip" placeholder="#####">
+    </div>
+  </div>
+  <div class="form-row">
+    <div class="form-row-gender">
+      <label>Gender</label>
+      <select aria-labelledby="newsletter-post" name="gender">
+        <option value="">Select</option>
+        <option value="m">Male</option>
+        <option value="f">Female</option>
+        <option value="o">Other</option>
+      </select>
+    </div>
+  </div>
+  <div class="form-row">
+    <div class="form-row-date">
+      <label>Birthday</label>
+      <select aria-labelledby="newsletter-post" name="month">
+        <option value="">MM</option>
+        <option value="01" data-days="31">01</option>
+        <option value="02" data-days="29">02</option>
+        <option value="03" data-days="31">03</option>
+        <option value="04" data-days="30">04</option>
+        <option value="05" data-days="31">05</option>
+        <option value="06" data-days="30">06</option>
+        <option value="07" data-days="31">07</option>
+        <option value="08" data-days="31">08</option>
+        <option value="09" data-days="30">09</option>
+        <option value="10" data-days="31">10</option>
+        <option value="11" data-days="30">11</option>
+        <option value="12" data-days="31">12</option>
+      </select>
+    </div>
+    <div class="form-row-date">
+      <select aria-labelledby="newsletter-post" name="day">
+        <option value="">DD</option>
+        <option value="01">01</option>
+        <option value="02">02</option>
+        <option value="03">03</option>
+        <option value="04">04</option>
+        <option value="05">05</option>
+        <option value="06">06</option>
+        <option value="07">07</option>
+        <option value="08">08</option>
+        <option value="09">09</option>
+        <option value="10">10</option>
+        <option value="11">11</option>
+        <option value="12">12</option>
+        <option value="13">13</option>
+        <option value="14">14</option>
+        <option value="15">15</option>
+        <option value="16">16</option>
+        <option value="17">17</option>
+        <option value="18">18</option>
+        <option value="19">19</option>
+        <option value="20">20</option>
+        <option value="21">21</option>
+        <option value="22">22</option>
+        <option value="23">23</option>
+        <option value="24">24</option>
+        <option value="25">25</option>
+        <option value="26">26</option>
+        <option value="27">27</option>
+        <option value="28">28</option>
+        <option value="29">29</option>
+        <option value="30">30</option>
+        <option value="31">31</option>
+      </select>
+    </div>
+    <div class="form-row-date">
+      <select aria-labelledby="newsletter-post" name="year">
+        <option value="">YYYY</option>
+        <option>2005</option>
+        <option>2004</option>
+        <option>2003</option>
+        <option>2002</option>
+        <option>2001</option>
+        <option>2000</option>
+        <option>1999</option>
+        <option>1998</option>
+        <option>1997</option>
+        <option>1996</option>
+        <option>1995</option>
+        <option>1994</option>
+        <option>1993</option>
+        <option>1992</option>
+        <option>1991</option>
+        <option>1990</option>
+        <option>1989</option>
+        <option>1988</option>
+        <option>1987</option>
+        <option>1986</option>
+        <option>1985</option>
+        <option>1984</option>
+        <option>1983</option>
+        <option>1982</option>
+        <option>1981</option>
+        <option>1980</option>
+        <option>1979</option>
+        <option>1978</option>
+        <option>1977</option>
+        <option>1976</option>
+        <option>1975</option>
+        <option>1974</option>
+        <option>1973</option>
+        <option>1972</option>
+        <option>1971</option>
+        <option>1970</option>
+        <option>1969</option>
+        <option>1968</option>
+        <option>1967</option>
+        <option>1966</option>
+        <option>1965</option>
+        <option>1964</option>
+        <option>1963</option>
+        <option>1962</option>
+        <option>1961</option>
+        <option>1960</option>
+        <option>1959</option>
+        <option>1958</option>
+        <option>1957</option>
+        <option>1956</option>
+        <option>1955</option>
+        <option>1954</option>
+        <option>1953</option>
+        <option>1952</option>
+        <option>1951</option>
+        <option>1950</option>
+        <option>1949</option>
+        <option>1948</option>
+        <option>1947</option>
+        <option>1946</option>
+        <option>1945</option>
+        <option>1944</option>
+        <option>1943</option>
+        <option>1942</option>
+        <option>1941</option>
+        <option>1940</option>
+        <option>1939</option>
+        <option>1938</option>
+        <option>1937</option>
+        <option>1936</option>
+        <option>1935</option>
+        <option>1934</option>
+        <option>1933</option>
+        <option>1932</option>
+        <option>1931</option>
+        <option>1930</option>
+        <option>1929</option>
+        <option>1928</option>
+        <option>1927</option>
+        <option>1926</option>
+        <option>1925</option>
+        <option>1924</option>
+        <option>1923</option>
+        <option>1922</option>
+        <option>1921</option>
+        <option>1920</option>
+        <option>1919</option>
+        <option>1918</option>
+        <option>1917</option>
+        <option>1916</option>
+        <option>1915</option>
+        <option>1914</option>
+        <option>1913</option>
+        <option>1912</option>
+        <option>1911</option>
+        <option>1910</option>
+        <option>1909</option>
+        <option>1908</option>
+        <option>1907</option>
+        <option>1906</option>
+        <option>1905</option>
+        <option>1904</option>
+        <option>1903</option>
+        <option>1902</option>
+        <option>1901</option>
+        <option>1900</option>
+      </select>
+    </div>
+  </div>
+  <button type="submit" class="button button-navy block">Submit</button>
+</form>
+
+</section>
+
+  <div class="footer-links-and-contact-block">
+    <div class="links-block">
+      
+        <div class="links-group" data-toggle="shop">
+          <h3 class="group-title">Shop</h3>
+          <div class="group-links" data-toggle-group="shop">
+            
+              <a class="group-link" href="/collections/shirts">Men</a>
+            
+              <a class="group-link" href="/collections/womens">Women</a>
+            
+              <a class="group-link" href="/collections/boys">Boys</a>
+            
+              <a class="group-link" href="/collections/new-arrivals">New Arrivals</a>
+            
+              <a class="group-link" href="/collections/sale">Sale</a>
+            
+          </div>
+        </div>
+      
+        <div class="links-group" data-toggle="customer-service">
+          <h3 class="group-title">Customer Service</h3>
+          <div class="group-links" data-toggle-group="customer-service">
+            
+              <a class="group-link" href="/pages/contact-us">Contact Us</a>
+            
+              <a class="group-link" href="/pages/sizing">Sizing</a>
+            
+              <a class="group-link" href="/blogs/store-locations">Store Locations</a>
+            
+              <a class="group-link" href="http://support.untuckit.com">FAQs</a>
+            
+              <a class="group-link" href="/pages/corporate-program">Group Orders</a>
+            
+          </div>
+        </div>
+      
+        <div class="links-group" data-toggle="our-policies">
+          <h3 class="group-title">Our Policies</h3>
+          <div class="group-links" data-toggle-group="our-policies">
+            
+              <a class="group-link" href="/pages/return-information">Returns &amp; Exchanges</a>
+            
+              <a class="group-link" href="/pages/shipping-information">Shipping</a>
+            
+              <a class="group-link" href="/pages/privacy-policy">Privacy Policy</a>
+            
+          </div>
+        </div>
+      
+        <div class="links-group" data-toggle="more">
+          <h3 class="group-title">More</h3>
+          <div class="group-links" data-toggle-group="more">
+            
+              <a class="group-link" href="/pages/personalizeit">Custom Shop</a>
+            
+              <a class="group-link" href="/products/e-gift-card">Gift Cards</a>
+            
+              <a class="group-link" href="/pages/referral">Referral Program</a>
+            
+              <a class="group-link" href="/blogs/careers">Careers</a>
+            
+              <a class="group-link" href="/pages/military">Military Program</a>
+            
+              <a class="group-link" href="#">Subscribe for 20% Off!</a>
+            
+          </div>
+        </div>
+      
+    </div>
+    <div class="contact-support-block">
+      <h3 class="contact-support-block-heading">Have a question?</h3>
+      <p class="contact-support-block-generic-text">Reach us at</p>
+      <a class="contact-support-block-email" href="mailto:questions@untuckit.com">questions@untuckit.com</a>
+      <p class="contact-support-block-generic-text">-or-</p>
+      <a class="contact-support-block-telephone" href="tel:+1-888-992-3102">+1 (888) 992-3102</a>
+      <div class="contact-support-block-hours contact-support-block-generic-text">
+        Mon-Fri 9am-9pm ET<br>Sat-Sun 10am-6pm ET
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom-bar">
+    <div class="bottom-bar-logo">
+      <img src="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/logo-wht.svg?7077278485493149540" alt="logo white">
+    </div>
+    <div class="bottom-bar-logo-text">
+      © UNTUCKit 2018
+    </div>
+    <div class="bottom-bar-social-icons">
+      <ul class="list-inline ">
   
-  <li>
-    <a target="_blank" href="https://www.facebook.com/UNTUCKit" class="social-wrapper facebook">
+  <li data-network="facebook">
+    <a target="_blank" href="https://www.facebook.com/UNTUCKit" class="social-wrapper facebook" aria-label="Social Link Facebook" title="Facebook">
       <i class="fa fa-facebook"></i>
     </a>
   </li>
   
-
   
-  <li>
-    <a target="_blank" href="https://twitter.com/untuckit" class="social-wrapper twitter">
+  <li data-network="twitter">
+    <a target="_blank" href="https://twitter.com/untuckit" class="social-wrapper twitter" aria-label="Social Link Twitter" title="Twitter">
       <i class="fa fa-twitter"></i>
     </a>
   </li>
   
-
   
-  <li>
-    <a target="_blank" href="http://www.pinterest.com/untuckit/" class="social-wrapper pinterest">
+  <li data-network="pinterest">
+    <a target="_blank" href="http://www.pinterest.com/untuckit/" class="social-wrapper pinterest" aria-label="Social Link Pinterest" title="Pinterest">
       <i class="fa fa-pinterest"></i>
     </a>
   </li>
   
-
   
-
   
-
-  
-
   
   <li>
-    <a target="_blank" href="http://instagram.com/UNTUCKit" class="social-wrapper instagram">
+    <a target="_blank" href="http://instagram.com/UNTUCKit" class="social-wrapper instagram" aria-label="Social Link Instagram" title="Instagram">
       <i class="fa fa-instagram"></i>
     </a>
   </li>
   
-
   
-
   
 </ul>
 
-  </section>
-  
-    <section class="footer-accordion js-accordion">
-      <p class="accordion-head accordion-item"><span>Customer Service<i class="fa fa-angle-down" aria-hidden="true"></i></span></p>
-      <ul class="accordion-content">
-        
-        <li><a href="/pages/sizing" class="accordion-item">Sizing</a></li>
-        
-        <li><a href="/blogs/store-locations" class="accordion-item">Store Locations</a></li>
-        
-        <li><a href="/pages/faqs" class="accordion-item">FAQs</a></li>
-        
-        <li><a href="/pages/contact-us" class="accordion-item">Contact Us</a></li>
-        
-      </ul>
-    </section>
-  
-    <section class="footer-accordion js-accordion">
-      <p class="accordion-head accordion-item"><span>Our Policies<i class="fa fa-angle-down" aria-hidden="true"></i></span></p>
-      <ul class="accordion-content">
-        
-        <li><a href="/pages/return-information" class="accordion-item">Returns &amp; Exchanges</a></li>
-        
-        <li><a href="/pages/shipping-information" class="accordion-item">Shipping</a></li>
-        
-        <li><a href="/pages/privacy-policy" class="accordion-item">Privacy Policy</a></li>
-        
-      </ul>
-    </section>
-  
-    <section class="footer-accordion js-accordion">
-      <p class="accordion-head accordion-item"><span>More<i class="fa fa-angle-down" aria-hidden="true"></i></span></p>
-      <ul class="accordion-content">
-        
-        <li><a href="/collections/accessories/products/e-gift-card" class="accordion-item">Gift Cards</a></li>
-        
-        <li><a href="/pages/referral" class="accordion-item">Referral Program</a></li>
-        
-        <li><a href="/blogs/careers" class="accordion-item">Careers</a></li>
-        
-        <li><a href="/pages/sitemap" class="accordion-item">Sitemap</a></li>
-        
-      </ul>
-    </section>
-  
-  <section class="footer-newsletter">
-  <p class="newsletter-title">Subscribe for 20% Off!</p>
-  <form id="klaviyo-footer" class="mailing-form" action="//manage.kmail-lists.com/subscriptions/subscribe" data-ajax-submit="//manage.kmail-lists.com/ajax/subscriptions/subscribe" method="GET" target="_blank" novalidate="novalidate">
-    <input type="hidden" name="g" value="hVJLdp">
-    <input class="btn-block" type="email" value="" name="email" id="k_id_email" placeholder="enter your email address">
-    <button id="klaviyo-email-submit" name="subscribe">Sign Up</button>
-  </form>
-  <div class="klaviyo-footer-success"></div>
-</section>
-
-</footer>
-
+    </div>
   </div>
-
+</footer>
+  </div>
   
-
-  <script src="//cdn.shopify.com/s/assets/themes_support/api.jquery-e8cd60e806a5b540b6fcc57e49cddbddd442d295fd66603296eac737dd34de6b.js" type="text/javascript"></script>
-
   
   
 
   <div class="overlay" id="js-overlay"></div>
-  <div class="loader--wrapper js-loader">
+  <div class="loader-wrapper js-loader">
   <div class="loader">
     <span class="dot dot_1"></span>
     <span class="dot dot_2"></span>
@@ -2117,85 +2884,524 @@ dataLayer.push({
 </div>
 
   
-  <!-- CRITEO -->
-    <script type="text/javascript" src="//static.criteo.net/js/ld/ld.js" async="true"></script>
-    <script type="text/javascript">
-      var site_type = /Mobile|iP(hone|od|ad)|Android|BlackBerry|IEMobile/.test(navigator.userAgent) ? "m" : "d";
-      window.criteo_q = window.criteo_q || [];
-      window.criteo_q.push(
-        { event: "setAccount", account: 19246},
-        { event: "setSiteType", type: site_type});
-    </script>
-    
-  <img src="https://sp.analytics.yahoo.com/spp.pl?a=10001261414342&amp;.yp=420804" style="display:none;">
-
-  <script src="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/affiliate.js?3589588252607778111" type="text/javascript"></script>
-
-  <script type="text/javascript" src="//www.klaviyo.com/media/js/public/klaviyo_subscribe.js"></script>
-  <script type="text/javascript">
-  window.__wtw_lucky_site_id = 43030;
-
-  (function() {
-    var wa = document.createElement('script'); wa.type = 'text/javascript'; wa.async = true;
-    wa.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://cdn') + '.luckyorange.com/w.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa, s);
-  })();
-</script>
-
-  <script type="text/javascript">
-  var _learnq = _learnq || [];
-  _learnq.push(['account', 'a8jztF']);
-  (function () {
-  var b = document.createElement('script'); b.type = 'text/javascript'; b.async = true;
-  b.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'a.klaviyo.com/media/js/analytics/analytics.js';
-  var a = document.getElementsByTagName('script')[0]; a.parentNode.insertBefore(b, a);
-  })();
-
-  
-  
-</script>
-
-
- <!-- Montetate Tag -->
-  <script>
-
-  
-
-  </script>
+  <script src="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/affiliate.js?7077278485493149540" type="text/javascript"></script>
 
   <!-- BVA Scripts -->
-  <script src="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/bvaccel.js?3589588252607778111" type="text/javascript"></script>
+  <script src="https://ak.sail-horizon.com/spm/spm.v1.min.js"></script>
+
+<script type="text/template" id="cart--line_item">
+
+  <div class="line-item js-line-item" data-variant-id="{{variant_id}}" data-price="{{ price_cents }}" data-img="{{image}}">
+    <a class="line-img" href="{{url}}" title="{{variant_title}}">
+      <img data-src="{{ thumbnail }}" alt="{{title}}" data-srcset="{{ image }}">
+    </a>
+    <div class="line-desc">
+      <div class="line-detail">
+        <a class="line-heading" href="{{url}}" title="{{variant_title}}">{{title}}</a>
+        
+        <ul class="line-variant">
+          {{# variant_titles }}
+            <li>{{ name }}</li>
+          {{/ variant_titles }}
+        </ul>
+
+      </div>
+      <div class="line-edit">
+        <div class="line-price">{{ price }}</div>
+        <div class="line-qty" id="line-item-qty">
+          <span class="js-qty-adjust icon-minus"></span>
+          <input class="js-qty" value="{{ quantity }}" pattern="\d*" maxlength="3" aria-labelledby="line-item-qty"/>
+          <span class="js-qty-adjust icon-plus"></span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</script>
+
+<script src="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/vendor.js?7077278485493149540" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/files/1/0129/1072/t/20/assets/bvaccel.js?7077278485493149540" type="text/javascript"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+  
+  <script type="yo/sequence/defer/0" data-yo-src="//www.klaviyo.com/media/js/public/klaviyo_subscribe.js"></script>
+  <script type="yo/sequence/event/afterloaded *klaviyo" data-yo-how="eval">
+    Newsletter.init();
+  </script>
 
   
 
-  <script>
+ 
+    <div data-findify-event="update-cart">
+      
+    </div>
+
+<script>
     (function() {
-      CartJS.init({"token":"2ab9659220e67f6cc2c21c9355017ec5","note":null,"attributes":{},"original_total_price":0,"total_price":0,"total_discount":0,"total_weight":0,"item_count":0,"items":[],"requires_shipping":false});
-      Inherited.init();
-      Nav.init();
-      Sidebar.init();
+      window.SafeCookies = Cookies.noConflict();
+      DyEvents.init();
+      Article.init()
+      CartJS.init({"token":"946ee27b4b2b942323f92b1ccc19eeb1","note":null,"attributes":{},"original_total_price":0,"total_price":0,"total_discount":0,"total_weight":0.0,"item_count":0,"items":[],"requires_shipping":false,"currency":"USD"});
+      window.lazyImg = new LazyLoad();
       
-      
-      Slider.init();
-      Newsletter.init();
-      HearAboutUs.init();
-      readMore.init();
-      InlineCart.init();
-      Wishlist.init();
-      WishlistPage.init();
-      Form.init();
-      LiveChat.init();
-      Footer.init();
+
       CountdownBanner.init();
+
+      
+
+      Filter.init(false);
+      Footer.init();
+      Form.init();
+      
+      
+      LandingPage.init();
+      
+      HearAboutUs.init();
+      Inherited.init();
+      InlineCart.init();
+      Modal.init();
+      Nav.init();
+      Overlay.init();
       QuickShop.init();
-      SoftLoad.init();
-      Scroll.init();
+      QuoteCollection.init();
       ResponsiveImage.init();
       Reviews.init();
+      Scroll.init();
+      Sidebar.init();
+      Slider.init();
+      SoftLoad.init();
+      Wishlist.init();
+      WishlistPage.init();
+      Tabs.init();
+      Revealer.init();
+      RecentPosts.init();
+      
+        FlowCustom.init();
+      
+      Sailthru.init({ customerId: 'f213e9baceb7374fe468adbda3073e0e'});
+      
+      window.Sailhold = Sailthru;
     }());
   </script>
-  <!-- Tracking pixel -->
+
+  <script>
+/* global ga, Flow, ShopifyAnalytics */
+/* eslint-disable no-var, prefer-arrow-callback, prefer-template, object-shorthand */
+
+(function flowGa() {
+  var NOT_SET = '(not set)';
+
+  function gaReady() {
+    return typeof ga !== 'undefined';
+  }
+
+  // Flow is ready of 'getExperience' function exists
+  function flowReady() {
+    return Flow && typeof Flow.getExperience === 'function';
+  }
+
+  // Wait until trekkie is loaded (lib will transition from an empty array to an object).
+  function shopifyAnalyticsReady() {
+    return ShopifyAnalytics && typeof ShopifyAnalytics.lib === 'object';
+  }
+
+  function isReady() {
+    return gaReady() && flowReady() && shopifyAnalyticsReady();
+  }
+
+  /**
+   * Exponential backoff. Keep trying but delay a little longer each attempt.
+   */
+   function backoff(test, callback, delay) {
+    function getNewDelay() {
+      if (!delay) {
+        return 1;
+      }
+
+      return (delay >= Number.MAX_VALUE) ? delay : delay * 2;
+    }
+
+    if (test()) {
+      callback();
+    } else {
+      setTimeout(function () {
+        backoff(test, callback, getNewDelay());
+      }, Math.log(getNewDelay()) * 100);
+    }
+  }
+
+  function getItemFromCart(id, cart) {
+    var len = cart.items.length;
+    var item;
+    var i = 0;
+
+    for (i = 0; i < len; i += 1) {
+      if (id.toString() === cart.items[i].variant_id.toString()) {
+        item = cart.items[i];
+      }
+    }
+
+    return item;
+  }
+
+  function getOrderPricing(order) {
+    var pricing = {};
+    var prices = order.prices;
+    var pricesLength = order.prices.length;
+    var i;
+
+    for (i = 0; i < pricesLength; i += 1) {
+      pricing[prices[i].key] = prices[i].base.amount;
+    }
+
+    return pricing;
+  }
+
+  function getCountry() {
+    return Flow.getCountry() || NOT_SET;
+  }
+
+  function gaFlowTestData() {
+    const flowSession = JSON.parse(localStorage.getItem('_f60_session'));
+    const flowTestData = {
+      experiment_key: flowSession.experiment ? flowSession.experiment.key : undefined,
+      experiment_variant_key: flowSession.experiment && flowSession.experiment.variant ? flowSession.experiment.variant.key : undefined,
+    }
+    ga('set', 'dimension5', flowTestData.experiment_key);
+    ga('set', 'dimension6', flowTestData.experiment_variant_key);
+    // console.log('Data to be passed to 3rd party', flowTestData);
+  }
+
+  function gaDimensions() {
+    var country = getCountry();
+    var dim4 = country === NOT_SET ? 'Domestic' : 'International';
+
+    ga('set', 'dimension3', country);
+    ga('set', 'dimension4', dim4);
+  }
+
+    // Not generic, specific to MVMT -- Can be set outside of this code.
+    function allPages() {
+      window.__bva__ = window.__bva__ || []; 
+      var country = getCountry();
+      var dim4 = country === NOT_SET ? 'Domestic' : 'International';
+
+    // Call this ONCE for every page.
+    // Thows errors. Should not be set here. Only once at some higher level.
+    ga('require', 'ec');
+
+    gaFlowTestData();
+    gaDimensions();
+    ga('send', 'event', 'All Pages', 'Flow ' + dim4, country, {
+      nonInteraction: 1,
+    });
+  }
+
+  function ShopifyCheckout(){ // housing this in Flow to detect if Flow is enabled or not
+  // will complete up to step 4 if user is logged in without a Flow experience
+  // will complete up to steo 2 if user is logged in with a Flow experience
+  $(document).on("click", ".btn-checkout", function(){
+    ga('ec:setAction','checkout', {
+      'step': 1
+    });
+    ga('send', 'event', 'Checkout', 'Cart');
+
+      // check if customer
+      
+    });
+
+    // if user is not logged in and Flow is not enabled
+    if(Flow.getExperience() === undefined){
+      if(Shopify.Checkout){
+        if(Shopify.Checkout.step == "contact_information"){
+          ga('require', 'ec');
+          ga('ec:setAction','checkout', {
+            'step': 3
+          });
+          ga('send','event','Checkout','Customer Info');
+        }else if(Shopify.Checkout.step == "shipping_method"){
+          ga('require', 'ec');
+          ga('ec:setAction','checkout', {
+            'step': 4
+          });
+          ga('send','event','Checkout','Shipping');
+        }else if(Shopify.Checkout.step == "payment_method"){
+          ga('require', 'ec');
+          ga('ec:setAction','checkout', {
+            'step': 5
+          });
+          ga('send','event','Checkout','Payment');
+        }else if(Shopify.Checkout.step == "thank_you"){
+          ga('send','event','Checkout','Thank You');
+        }
+      }
+      $('.step__footer__continue-btn.btn').click(function(){
+        if($(this).children("span").text() == "Complete order"){
+          $('.section--payment-method input[name="checkout[payment_gateway]"]').each(function(){
+            if($(this).is(":checked")){
+              console.log('checked')
+              __bva__payment = $(this).parent().siblings(".radio__label").children(".radio__label__primary").text().trim();
+              var dimensionValue = __bva__payment;
+              ga('set', 'dimension16', dimensionValue);
+              ga('send','event','Checkout','Payment Method');
+            }
+          });
+        }
+      });
+    }
+  }
+
+  function GALogin(){
+    ga('ec:setAction','checkout', {
+      'step': 2,
+      'option': __bva__logStatus
+    });
+    var dimensionValue =  __bva__logStatus;
+    ga('set', 'dimension7', dimensionValue);
+    ga('send', 'event', 'Checkout','Login');
+  }
+
+  function setupAddToCart() {
+    Flow.on('cart.addItem', function (data) {
+      var item = getItemFromCart(data.id, data.cart);
+      var eventData = {
+        variantId: item.variant_id,
+        productId: item.product_id,
+        currency: window.ShopifyAnalytics.meta.currency,
+        quantity: data.quantity,
+        price: item.local.price.base.amount,
+        name: item.title,
+        sku: item.sku,
+        brand: item.vendor,
+        variant: item.variant_title,
+        category: item.product_type,
+      };
+
+      // Windsor Cirlce Add to Cart event
+      analytics.track('Added Product', {
+        id: item.variant_id,
+        name: item.title,
+        price: item.local.price.base.amount, 
+        quantity: 1,
+        cartLink: location.origin + '/cart',
+        value: parseInt( 1 || '0', 10) * parseInt( item.local.price.base.amount || '0', 10)
+      }, {wcapiVersion: '1.0'});
+
+      if (window.ShopifyAnalytics.meta.page) {
+        eventData.pageType = window.ShopifyAnalytics.meta.page.pageType;
+        eventData.resourceType = window.ShopifyAnalytics.meta.page.resourceType;
+        eventData.resourceId = window.ShopifyAnalytics.meta.page.resourceId;
+      }
+
+      // Trigger same code that Shopify uses internally.
+      window.ShopifyAnalytics.lib.track('Added Product', eventData);
+
+      // Can we get rid of this? Appears to be in use to flush data to ga servers.
+      ga('send', 'event', 'Flow', 'click', 'add to cart');
+    });
+  }
+
+  function gaAddProducs(order) {
+    var lines = order.lines;
+    var linesLength = lines.length;
+    var i;
+
+    for (i = 0; i < linesLength; i += 1) {
+      ga('ec:addProduct', {
+        id: lines[i].shopify.product_id,
+        name: lines[i].shopify.title,
+        variant: lines[i].shopify.variant_id,
+        price: lines[i].price.base.amount,
+        quantity: lines[i].shopify.quantity,
+        category: lines[i].shopify.product_type,
+      });
+    }
+  }
+
+  // GA Funnel Step 1 - Cart / Login
+  function gaStep1() {
+    ShopifyCheckout();
+  }
+
+  // GA Funnel Step 2 - Login
+  function gaStep2() {
+    if(document.location.pathname.match(/\/account\/login.*/g)){
+     $(document).on("click", '[kind="facebook"]', function(){
+      __bva__logStatus = "Account Created / Logged In: Facebook";
+      GALogin();
+    });
+
+     $(document).on("click", '[kind="google"]', function(){
+      __bva__logStatus = "Account Created / Logged In: Google";
+      GALogin();
+    });
+
+     $(document).on("click", '#customer_login [type="submit"]', function(){
+      __bva__logStatus = "Account Created : Email";
+      GALogin();
+    });
+
+     $(document).on("click", '#create_customer [type="submit"]', function(){
+      __bva__logStatus = "Logged In: Email";
+      GALogin();
+    });
+   }
+ }
+
+  // GA Funnel Step 3 - Checkout: Customer Information
+  function gaStep3(order) {
+    gaAddProducs(order);
+    ga('ec:setAction', 'checkout', {
+      step: 3,
+    });
+    gaDimensions();
+    ga('send', 'event', 'Flow Checkout', 'Customer Information');
+  }
+
+  // GA Funnel Step 4 - Checkout: Shipping Information
+  function gaStep4(order) {
+    gaAddProducs(order);
+    ga('ec:setAction', 'checkout', {
+      step: 4,
+    });
+    gaDimensions();
+    ga('send', 'event', 'Flow Checkout', 'Shipping Information');
+  }
+
+  // GA Funnel Step 5 - Checkout: Shipping Information
+  function gaStep5(order) {
+    gaAddProducs(order);
+    ga('ec:setAction', 'checkout', {
+      step: 5,
+    });
+    gaDimensions();
+    ga('send', 'event', 'Flow Checkout', 'Add Payment Info');
+  }
+
+  // GA Funnel Step 6 - Checkout: Thank You
+  function gaPurchase(order) {
+    var orderPricing = getOrderPricing(order);
+
+    gaAddProducs(order);
+    ga('ec:setAction', 'purchase', {
+      id: order.number,
+      revenue: order.total.base.amount,
+      tax: orderPricing.tax || 0,
+      shipping: getOrderPricing.shipping || 0,
+    });
+    gaDimensions();
+    ga('send', 'event', 'Flow Checkout', 'Purchase');
+  }
+
+  function setupCheckoutStep1() {
+    gaStep1();
+    gaStep2();
+  }
+
+  function setupCheckoutStep2() {
+    Flow.set('on', 'pageview.checkout_step_1', function (data) {
+      gaStep3(data.order);
+    });
+  }
+
+  function setupCheckoutStep3() {
+    Flow.set('on', 'pageview.checkout_step_2', function (data) {
+      gaStep4(data.order);
+    });
+  }
+
+  function setupCheckoutStep4() {
+    Flow.set('on', 'pageview.checkout_step_3', function (data) {
+      gaStep5(data.order);
+    });
+  }
+
+  function setupCheckoutThankYou() {
+    Flow.set('on', 'pageview.checkout_thank_you', function (data) {
+      gaPurchase(data.order);
+    });
+  }
+
+  function setup() {
+    console.log('[flow_ga] Setup!');
+
+    allPages();
+    setupAddToCart();
+    setupCheckoutStep1();
+    setupCheckoutStep2();
+    setupCheckoutStep3();
+    setupCheckoutStep4();
+    setupCheckoutThankYou();
+  }
+
+  function init() {
+    // Wait for GA, Shopify and Flow to be ready.
+    backoff(isReady, setup);
+  }
+
+  init();
+}());
+</script>
   
+<script type="text/javascript">
+var iwish_shop = "untuckit.myshopify.com";
+var iwish_pro_template = false;
+var iwish_cid = "";
+//Add to Wishlist - Product Page Text
+var iwish_added_txt = 'Added in Wishlist';
+var iwish_add_txt = 'Add to Wishlist';
+//Add to Wishlist - Collection Page Text
+var iwish_added_txt_col = 'Added in Wishlist';
+var iwish_add_txt_col = 'Add to Wishlist';
+//Quick View - Classes
+//var iwish_qvButton = '.quick_view';
+//var iwish_qvWrapper = '.reveal-modal';
+</script>
+<script src="https://cdn.myshopapps.com/iwish/iwishlist.js"></script>
+<script type="text/javascript">
+	jQuery( document ).ready(function() {
+		jQuery("a[href='/apps/iwish']").click(function(e) {
+			if(typeof(Storage) !== "undefined") {
+				e.preventDefault();
+				iWishPost('/apps/iwish',{iwishlist:JSON.stringify(iWishlistmain),cId:iwish_cid});
+			}
+		});
+		jQuery(".iWishAdd").click(function(e) {
+			var iWishvId = jQuery(this).attr('data-variant-id');
+			//var iWishvId = jQuery(this).parents(iwishWrapperClass).find(iWishVarSelector).val();
+			iwish_add(jQuery(this), iWishvId);
+			return false;
+		});
+		jQuery(".iWishAddColl").click(function() {
+        	var iWishvId = jQuery(this).attr("data-variant");
+           	iwish_addCollection(jQuery(this),iWishvId);
+          	return false;
+        });
+        iwishCheckColl();
+	});
+	function iwishCheckColl(){
+    	if(jQuery(".iwishcheck").length > 0) {
+        	jQuery(".iwishcheck").each(function() {
+        		var iWishvId = jQuery(this).attr("data-variant");
+        		var iWishpId = jQuery(this).attr("data-product");
+        		if(isInWishlist(iWishpId,iWishvId)){ jQuery(this).addClass("iwishAdded").html(iwish_added_txt_col); }
+        		jQuery(this).removeClass("iwishcheck");
+        	});
+    	}
+    }
+</script> 
+
+
+
+<script>
+!function(a,b,c,d){a.Kustomer=c,c._q=[],c._i=[],c.init=function(a){function b(a,b){a[b]=function(){a._q.push([b].concat(Array.prototype.slice.call(arguments,0)))}}for(var d="init clear identify track start describe".split(" "),e=0;e<d.length;e++)b(c,d[e]);c._i.push(a)};var e=b.createElement("script");e.type="text/javascript",e.async=!0,e.src="https://cdn.kustomerapp.com/cw/sdk.v1.1.min.js";var f=b.getElementsByTagName("script")[0];f.parentNode.insertBefore(e,f)}(this,document,window.Kustomer||{});
+
+// Add your API key here
+Kustomer.init('eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjViMzNmMmVkZjYzNWMzMDAxYjYzNmFhOSIsInVzZXIiOiI1YjMzZjJlZDRhNzU0YTI2NjU3YWIzN2QiLCJvcmciOiI1YWFiZjYyYzg1ODU1ZDE2NjM3MTI3ZjUiLCJvcmdOYW1lIjoidW50dWNraXQiLCJ1c2VyVHlwZSI6Im1hY2hpbmUiLCJyb2xlcyI6WyJvcmcudHJhY2tpbmciXSwiYXVkIjoidXJuOmNvbnN1bWVyIiwiaXNzIjoidXJuOmFwaSIsInN1YiI6IjViMzNmMmVkNGE3NTRhMjY2NTdhYjM3ZCJ9.LJny3jsWapK-ouC01dRRamg2RodGe-jSvWcau9X7sT0');
+
+ // Start the chat client
+Kustomer.start();
+</script>
 
 
 </body></html>
