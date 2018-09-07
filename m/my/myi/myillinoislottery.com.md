@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myillinoislottery.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606041021id_/http%3A//www.illinoislottery.com/en-us/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myillinoislottery.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907080346id_/http%3A//www.illinoislottery.com/en-us/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -164,13 +164,13 @@ The Website Providers and Third Party Service Providers may use your PII for var
 
 
 
-By submitting the foregoing information, you consent to its use for such purposes. When you sign up for a Players Account, the information you provide will be shared with IGT Global Solutions Corporation which is one of the Third Party Service Providers that administers your account. Your Players Account is subject to separate Illinois Lottery Terms and Conditions located at https://m.myillinoislottery.com/en-us/m/termsandconditions.html and IGT Global Solutions Corporation's privacy policy located below. More information is available in the Illinois Lottery Terms and Conditions. Any questions regarding your account should be directed to the Player Hotline [1-800-252-1775](https://web.archive.org/web/20180606041021id_/http%3A//www.illinoislottery.com/en-us/_tel_18002521775).
+By submitting the foregoing information, you consent to its use for such purposes. When you sign up for a Players Account, the information you provide will be shared with IGT Global Solutions Corporation which is one of the Third Party Service Providers that administers your account. Your Players Account is subject to separate Illinois Lottery Terms and Conditions located at https://m.myillinoislottery.com/en-us/m/termsandconditions.html and IGT Global Solutions Corporation's privacy policy located below. More information is available in the Illinois Lottery Terms and Conditions. Any questions regarding your account should be directed to the Player Hotline [1-800-252-1775](https://web.archive.org/web/20180907080346id_/http%3A//www.illinoislottery.com/en-us/_tel_18002521775).
 
 ### V. YOUR CHOICES REGARDING DISCLOSURE OF PERSONAL INFORMATION
 
 In the event you decline to provide any PII, you limit the Illinois Lottery's ability to serve you.
 
-As noted above, no PII is collected about you during your visit to the Websites unless you provide that information voluntarily by sending an e-mail, participating in a survey, registering for a Players Account, or using other interactive services that may be provided on the Websites. You may choose not to utilize some or all of these interactive services. While your choice not to participate in these activities may limit your ability to receive specific services or products through the Websites, it will not prevent you from requesting services or products from the Illinois Lottery by other means and will not normally have an impact on your ability to take advantage of other (non-interactive) features of the Websites, including browsing or downloading publicly available information. If you would like to participate in Illinois Lottery promotions and do not wish to enter PII through the Websites, contact the Lottery at [1-800-252-1775](https://web.archive.org/web/20180606041021id_/http%3A//www.illinoislottery.com/en-us/_tel_18002521775).
+As noted above, no PII is collected about you during your visit to the Websites unless you provide that information voluntarily by sending an e-mail, participating in a survey, registering for a Players Account, or using other interactive services that may be provided on the Websites. You may choose not to utilize some or all of these interactive services. While your choice not to participate in these activities may limit your ability to receive specific services or products through the Websites, it will not prevent you from requesting services or products from the Illinois Lottery by other means and will not normally have an impact on your ability to take advantage of other (non-interactive) features of the Websites, including browsing or downloading publicly available information. If you would like to participate in Illinois Lottery promotions and do not wish to enter PII through the Websites, contact the Lottery at [1-800-252-1775](https://web.archive.org/web/20180907080346id_/http%3A//www.illinoislottery.com/en-us/_tel_18002521775).
 
 ### VI. REVIEW AND CORRECTION OF PERSONAL INFORMATION
 
@@ -212,7 +212,7 @@ For questions regarding the Websites, please contact:
 
 [{{support@illinoislottery.com}}](mailto:support@illinoislottery.com)
 
-[1-800-252-1775](https://web.archive.org/web/20180606041021id_/http%3A//www.illinoislottery.com/en-us/_tel_18002521775)
+[1-800-252-1775](https://web.archive.org/web/20180907080346id_/http%3A//www.illinoislottery.com/en-us/_tel_18002521775)
 
 Because the Websites do not encrypt incoming email, you should not send information that you consider sensitive through the Websites.
 
@@ -254,7 +254,7 @@ For our nonaffiliates to market to you. | NO | We do not share
   
 **QUESTIONS?**
 
-Call [1-888-644-5161](https://web.archive.org/web/20180606041021id_/http%3A//www.illinoislottery.com/en-us/_tel_18886445161)
+Call [1-888-644-5161](https://web.archive.org/web/20180907080346id_/http%3A//www.illinoislottery.com/en-us/_tel_18886445161)
 
 #### WHO WE ARE
 
