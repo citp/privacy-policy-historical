@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whalewisdom.com privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302100505id_/https%3A//whalewisdom.com/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whalewisdom.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907124326id_/https%3A//whalewisdom.com/info/privacy_policy) for the most accurate reproduction.*
 
 # user privacy policy
 
@@ -35,3 +35,21 @@ WhaleWisdom.com is very concerned about safeguarding the confidentiality of your
 We will make any legally-required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored personal data to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system. 
 
 WhaleWisdom.com services and data utilize Amazon Elastic Cloud Compute (Amazon EC2) servers and Amazon Simple Email Services (SES). Both these services have a robust security policy. More information regarding Amazon EC2 and Amazon SES security and privacy policies can be found at <http://aws.amazon.com/ec2/> and <http://aws.amazon.com/ses/>, respectively. 
+
+### Third-Party Online Advertising
+
+We may use third parties who collect Information about Site Visitors through their own cookies, web beacons, and other technologies regarding your online activities, either on our Sites and/or other websites across the Internet, in an effort to understand your interests and deliver you advertisements that are tailored to your interests. These third parties include advertisers and ad networks that may collect information about when you view or interact with one of their advertisements and may collect information regarding your activities on our Sites and your online activities over time and across different Websites. Like most advertisers, we place advertisements where we think they will be most relevant to the recipient. One way we do so is by allowing the advertising networks with whom we work to place their own cookies when an individual visits our Sites. This enables the network advertising company to recognize individuals who have previously visited our Sites. When the individual visits a third-party website on which that network advertising company has purchased ad space, the advertising company can then recognize the individual's interest in WhaleWisdom and deliver one of our advertisements. 
+
+You may generally opt out of receiving personalized advertisements from certain third-party advertisers and ad networks. To learn more about these advertisements or to opt out, please visit the websites of the [Digital Advertising Alliance](http://optout.aboutads.info/#!/) and the [Network Advertising Initiative](http://optout.networkadvertising.org/#!/). 
+
+### How do we manage data on children
+
+In compliance with Children’s Online Privacy Protection Act (“COPPA”), this Site is not directed at children under the age of 13 and we do not intend to collect any personal identifiable information, such as name, home address, e-mail address, telephone number, or social security number, from children under the age of 13. If you are under the age of 13, please do not provide us with your personal identifiable information.
+
+If you are under the age of 16 (EU & elsewhere), please ask your parent/guardian for their consent before submitting your personal information to this site.
+
+If you have any reason to believe that a child under the age of 13 or 16 has provided us with his or her personal identifiable information, please contact us immediately for removal of that information from our databases. 
+
+### Privacy Notice for EEA Individuals
+
+This section covers disclosures on the General Data Protection Regulation (GDPR) for users residing within EEA only. GDPR replaces the existing Directive 95/46/ec, and aims at harmonizing data protection laws in the EU that are fit for purpose in the digital age. The primary objective of the GDPR is to give citizens back control of their personal data. Please follow the link below to access WhaleWisdom's General Data Protection Notice. [https://whalewisdom.com/info/gdpr_notice](https://web.archive.org/info/gdpr_notice)
