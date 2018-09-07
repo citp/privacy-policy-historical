@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the joomla-monster.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606162807id_/https%3A//www.joomla-monster.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomla-monster.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907171137id_/https%3A//www.joomla-monster.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Joomla-Monster
 
-**What information do we collect?**
+**Important:[Click this link to read the new privacy policy, which will come into force on May 25](https://www.joomla-monster.com/company/privacy-policy-gdpr).**
+
+ **What information do we collect?**
 
   * We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form.
   * When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
