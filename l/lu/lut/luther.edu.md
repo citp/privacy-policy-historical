@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luther.edu privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606083303id_/http%3A//www.luther.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luther.edu privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907145308id_/https%3A//www.luther.edu/privacy) for the most accurate reproduction.*
 
 # Privacy | Luther College
 
@@ -31,7 +31,7 @@ When you visit Luther Colleges website, we may collect technical and navigationa
 
 Luther College uses demographic information gathered through Google Analytics, including its Demographics and Interests reports, to gain a deeper understanding of who our visitors are, what they are interested in, and how they are using our website.
 
-In addition, as you browse our website, advertising cookies may be placed on your computer so that we can understand what you are interested in. This allows our display advertising partners to present you with targeted advertising on other sites based on your previous interactions with our websites. You can visit this page to opt out of targeted advertising.
+In addition, as you browse our website, advertising cookies may be placed on your computer so that we can understand what you are interested in. This allows our display advertising partners to present you with targeted advertising on other sites based on your previous interactions with our websites.
 
 We may also use the information we collect from you to:
 
