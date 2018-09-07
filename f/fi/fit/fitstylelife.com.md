@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitstylelife.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606013957id_/http%3A//www.fitstylelife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitstylelife.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907203043id_/http%3A//www.fitstylelife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FitStyleLife
 
@@ -43,7 +43,7 @@ We will not disclose your personal information:
 • If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of FitStyleLife.com, our customers or others. We may disclose aggregated information that does not identify any individual without restriction.
 
 **Your California Privacy Rights**  
-California Civil Code Section § 1798.83 may permit users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please [“>contact us](https://web.archive.org/web/20170606013957id_/http://www.fitstylelife.com/privacy-policy/%3Ca%20href=). At this time, we do not respond to browser “do not track” signals.
+California Civil Code Section § 1798.83 may permit users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please [“>contact us](https://web.archive.org/web/20180907203043id_/http://www.fitstylelife.com/privacy-policy/%3Ca%20href=). At this time, we do not respond to browser “do not track” signals.
 
 **Data Security**  
 We have implemented measures designed to secure our Website from unauthorized access, use, and alteration, but cannot guarantee its security.
