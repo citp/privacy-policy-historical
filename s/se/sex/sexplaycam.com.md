@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexplaycam.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602072231id_/http%3A//www.sexplaycam.com/main/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexplaycam.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907215940id_/http%3A//www.sexplaycam.com/main/privacy_policy) for the most accurate reproduction.*
 
 # SexPlayCam - The web's most unique adult fantasy playground
 
@@ -101,7 +101,7 @@ Unauthorized access to and/or disclosure of personal information by an employee 
 
 #### 12) Our Commitment to Data Security.
 
-The security of your personal information is a priority to SexPlayCam. We are responsible for protecting personal information under our control, including personal information that has been transferred to, or received from, a third party.
+The security of your personal information is a priority to SexPlayCam. As the Data Controllers, we are responsible for protecting personal information under our control, including personal information that has been transferred to, or received from, a third party.
 
 Registered User and Member accounts are secured by member-created passwords. We use reasonable measures to protect registration and membership information that is stored within our database, and we restrict access to User information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff, and such employees shall be required to respect the privacy of that information. 
 
@@ -142,8 +142,10 @@ To stop or resume receiving email notifications regarding various site activity 
 
 If you have any further questions or concerns about SexPlayCam's privacy policies and use of personal information, please contact us using our online [contact form](https://web.archive.org/contact) or by email to [the webmaster.](mailto:abuse@sexplaycam.com)
 
+SexPlayCam is owned and operated by Media Crush Digital.
+
 #### 18) Dispute Resolution
 
 Any claim or cause of action you may have arising from, connected with, or relating to this privacy policy or SexPlayCam's handling of your personal information, or any related matters must be commenced within six (6) months after the claim or cause of action arises, after which time the claim or cause of action is forever barred, regardless of any statute or law to the contrary.
 
-Version [06/23/10]
+Version [05/25/18]
