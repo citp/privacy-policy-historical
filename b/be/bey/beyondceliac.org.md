@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beyondceliac.org privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219231255id_/http%3A//www.beyondceliac.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondceliac.org privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907183800id_/https%3A//www.beyondceliac.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BeyondCeliac.org
 
@@ -81,7 +81,7 @@ Our Services are not designed for children under 13. We will not knowingly colle
 
 **Contact Us**
 
-If you have questions about the privacy aspects of our Services or would like to make a complaint, please contact us at [privacy@beyondceliac.org](mailto:privacy@beyondceliac.org).
+If you have questions about the privacy aspects of our Services or would like to make a complaint, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ee9e9c87988f8d97ae8c8b9781808a8d8b82878f8dc0819c89).
 
 **Changes to this Policy**
 
