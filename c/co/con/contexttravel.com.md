@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the contexttravel.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509055651id_/http%3A//www.contexttravel.com/faq/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contexttravel.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907170707id_/https%3A//www.contexttravel.com/privacy-policy) for the most accurate reproduction.*
 
-# FAQ - Privacy Policy
-
-#### What is Context's statement on privacy?
+# Privacy Policy - Context Travel
 
 The following is our PCI-compliant privacy statement:
 
 This is the web site of Context Walks LLC.  
 Our postal address is  
-2208 South Street  
-Philadelphia, PA 19146
+2401 Walnut St. Suite 208  
+Philadelphia, Pennsylvania 19103
 
 We can be reached via e-mail at [info@contexttravel.com](mailto:info@contexttravel.com) or you can reach us by telephone at +1 215 392 0303
 
@@ -29,5 +27,8 @@ We can be reached via e-mail at [info@contexttravel.com](mailto:info@contexttrav
   * Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information, unique identifiers.
   * Consumers can have this information corrected by sending us e-mail at the above address, calling us at the above telephone number. With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site.
   * If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org).
+  * You grant Context and sublicensees the right to use the name that you submit in connection with any review or other content that you supply, if they choose. You represent and warrant that you own or otherwise control all of the rights to the content that you post; that the content is accurate; that use of the content you supply does not violate this policy and will not cause injury to any person or entity; and that you will indemnify Context for all claims resulting from content you supply. Context has the right but not the obligation to monitor and edit or remove any activity or content. Context takes no responsibility and assumes no liability for any content posted by you or any third party.
+  * If you are an individual located in the European Economic Area, the UK, Canada or another jurisdiction outside of the United States with laws and regulations governing personal data collection, use, and disclosure that differ from United States laws, please be aware that information we collect (including through the use of methods such as cookies and other web technologies) will be processed and stored in the United States or in other countries where we or our third-party services providers have operations. By submitting your personal information to Context Travel, you expressly consent to having your personal data transferred to, processed, and stored in the United States or another jurisdiction which may not offer the same level of privacy protection as those in the country where you reside or are a citizen.
+  * At any time, you may ask us or third parties we may partner with to stop sending you marketing messages by following the opt-out links on any message sent to you or by contacting us at any time. Where you opt out of receiving these marketing messages, this will not apply to personal data provided to us as a result of a product/service purchase, product/service experience or other transactions. You also may contact us to be removed directly from our database and have your personal identifiable information removed from records that we have shared with third-party providers, such as emails and order history.
 
 
