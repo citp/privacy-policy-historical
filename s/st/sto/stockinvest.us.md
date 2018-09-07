@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockinvest.us privacy policy that was archived on 2017-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170420121142id_/http%3A//stockinvest.us/article/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockinvest.us privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907151328id_/https%3A//stockinvest.us/article/privacy-policy) for the most accurate reproduction.*
 
 # StockInvest.US - Stock Trading Ideas
 
