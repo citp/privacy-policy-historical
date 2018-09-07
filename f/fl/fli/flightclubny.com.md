@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flightclubny.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119161044id_/https%3A//www.flightclub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightclubny.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907170249id_/https%3A//www.flightclub.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Flight Club
 
