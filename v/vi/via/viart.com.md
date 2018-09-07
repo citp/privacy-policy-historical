@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viart.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507154506id_/http%3A//www.viart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viart.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907161618id_/https%3A//www.viart.com/privacy) for the most accurate reproduction.*
 
 # ViArt Software Privacy Policy
 
