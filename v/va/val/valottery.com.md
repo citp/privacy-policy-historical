@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the valottery.com privacy policy that was archived on 2017-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170301092054id_/https%3A//valottery.com/vaprivacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valottery.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907030954id_/https%3A//www.valottery.com/vaprivacystatement.aspx) for the most accurate reproduction.*
 
 # Official Home of the Virginia Lottery - Privacy Statement
 
-The TRUSTe certification applies to the following properties:   [www.valottery.com](http://www.valottery.com/).
-
-In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request. 
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request).  
 
 The Virginia Lottery will not collect any personal information about you (i.e., your name, address, telephone number, or email address) unless you provide it to us voluntarily. If you have access to the Internet, your computer automatically has an Internet Protocol ("IP") address. We use IP addresses to gather information to track the number of visitors to our website and to identify our most popular pages so we can improve site content.
 
@@ -70,4 +68,4 @@ We may update this privacy statement to reflect changes to our information pract
 
 If you choose to use our referral service to tell a friend about our website, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the website. Virginia Lottery does not store this information for the sole purpose of sending this one-time email. Your friend may contact us at our [Contact Us ](https://web.archive.org/en/contactus.aspx)page to request that we remove this information from our database.
 
-To offer comments about the Virginia Lottery website, about the information presented in this Privacy Statement, or to find your closest customer service center, please visit our [Contact Us](https://web.archive.org/en/contactus.aspx) page.  Our headquarters is located at, and our mailing address is, 900 E. Main Street, Richmond, VA 23219.
+To offer comments about the Virginia Lottery website, about the information presented in this Privacy Statement, or to find your closest customer service center, please visit our [Contact Us](https://web.archive.org/en/contactus.aspx) page.  Our headquarters is located at, and our mailing address is, 600 E. Main Street, Richmond, VA 23219.
