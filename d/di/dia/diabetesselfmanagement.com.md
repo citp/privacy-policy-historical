@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diabetesselfmanagement.com privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315134045id_/https%3A//www.diabetesselfmanagement.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabetesselfmanagement.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907165742id_/https%3A//www.diabetesselfmanagement.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Diabetes Self-Management
 
@@ -106,8 +106,23 @@ This Site may contain links or references to other websites outside of our contr
 
 By using this Site, you signify your acceptance of our Privacy Policy. If you do not agree to this policy, please do not use our Site. We reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time so visitors are encouraged to review this policy from time to time. We will notify users of this Site of such changes by posting such changed or updated Privacy Policy on this page. Any changes or updates will be effective immediately upon posting to this Site. Under certain circumstances, we may also elect to notify you of changes or updates to our Privacy Policy by additional means, such as posting a notice on the front page of our Site or sending you an email. Your continued use of our Site following the posting of changes to these terms means you accept these changes. 
 
-11\. **Contact Us**
+11\. **How to Access & Control Your Personal Data**
+
+Reviewing, Correcting and Removing Your Personal Information 
+
+You have the following data protection rights: 
+
+  * You can request access, correction, updates or deletion of your personal information.
+  * You can object to processing of your personal information, ask us to restrict processing of your personal information or request portability of your personal information.
+  * If we have collected and process your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+  * You have the right to complain to a data protection authority about our collection and use of your personal information. Contact details for data protection authorities in the EEA, Switzerland and certain non-European countries (including the US and Canada) are available [here](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm).
+
+
+
+To exercise any of these rights, please contact us at [accounts@diabetesselfmanagement.com](mailto:accounts@diabetesselfmanagement.com) or by mail to Madavor Media, 25 Braintree Hill Office Park, Suite 404, Braintree, MA 02184 USA, Attention: Privacy. We will respond to your request to change, correct, or delete your information within a reasonable timeframe and notify you of the action we have taken. 
+
+12\. **Contact Us**
 
 If you have any questions or comments regarding our privacy practices, you may contact us at webmaster@diabetesselfmanagement.com. 
 
-_Page updated on June 20, 2016._
+_Page updated on May 24, 2018._
