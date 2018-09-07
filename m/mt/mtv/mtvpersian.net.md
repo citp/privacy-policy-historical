@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtvpersian.net privacy policy that was archived on 2017-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170407052236id_/https%3A//www.mtvpersian.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtvpersian.net privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908005747id_/https%3A//www.mtvpersian.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -78,5 +78,3 @@ If there are any questions regarding this privacy policy, you may contact us via
 ## Update
 
 Last updated: September 17, 2016
-
-﻿
