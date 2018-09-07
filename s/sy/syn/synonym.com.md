@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synonym.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605191151id_/http%3A//www.synonym.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synonym.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907170342id_/https%3A//www.synonym.com/privacy) for the most accurate reproduction.*
 
 # Synonyms Thesaurus With Definitions and Antonyms
 
