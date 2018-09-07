@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learninga-z.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606040140id_/http%3A//help.learninga-z.com/customer/portal/articles/1649236-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learninga-z.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907202849id_/http%3A//help.learninga-z.com/customer/portal/articles/1649236-privacy) for the most accurate reproduction.*
 
 # Learning A-Z - Privacy
 
