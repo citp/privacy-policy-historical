@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saskpolytech.ca privacy policy that was archived on 2018-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180123084837id_/https%3A//saskpolytech.ca/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saskpolytech.ca privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907050828id_/https%3A//saskpolytech.ca/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -85,6 +85,16 @@ Saskatchewan Polytechnic Information Technology Services has the right to examin
 
 E-mail addresses and communications initiated from or delivered to any Saskatchewan Polytechnic e-mail account or electronic communication server are the property of Saskatchewan Polytechnic, and users of such services should be aware that they do not have a complete right of privacy to their electronic communication records. Saskatchewan Polytechnic does not routinely monitor individual use of electronic communication tools and services, but it may do so to the extent permitted by law and as necessary to maintain the integrity and efficiency of the systems. Saskatchewan Polytechnic reserves the right to inspect and disclose the contents of any e-mail sent or received using Saskatchewan Polytechnic electronic communication accounts, and the content any individual posts on any Saskatchewan Polytechnic discussion boards, when legal circumstances reasonably prompt such inspection and disclosure, or when Saskatchewan Polytechnic conducts an investigation into possible misuse or misconduct by any user of these services.
 
+### Cookies
+
+This website uses cookies. Cookies are pieces of data sent from the website and stored on your system. These cookies are used to provide tailored information and enhance your experience on the website. You are not required to accept cookies to use this site. Refer to the help menu in your browser for information on how to disable cookies.
+
+### Google Analytics
+
+Saskatchewan Polytechnic uses a tool called "Google Analytics" to gather information about the use of this website. Google Analytics collections information provided by your web browser and system. This information includes what pages are visited, how often users visit and what actions they performed on the website.
+
+Google Analytics does not collect any personally identifiable information and we do not combine information collected by Google analytics with any personally identifiable information. You can prevent your system from sending information to Google Analytics by disabling cookies on your browser.
+
 ### Disclosure
 
 Saskatchewan Polytechnic will rarely disclose your personal information to any third party without your consent. You may provide your consent by completing and signing the Saskatchewan Polytechnic [Consent to Release Information form](https://web.archive.org/admissions/resources/forms.aspx). Saskatchewan Polytechnic may disclose your personal information without your express consent in limited circumstances, including:  
@@ -150,4 +160,4 @@ Regina, Saskatchewan S4P 4B4  Telephone:  306-787-8350
 Toll Free Telephone (within Saskatchewan): 1-877-748-2298  
 Fax:  306-798-1603  
 E-mail:  [webmaster@oipc.sk.ca](mailto:webmaster@oipc.sk.ca?destined_for=OIPC&subject=OIPC%20Webmaster)  
-Website: [www.oipc.sk.ca/default.htm](http://www.oipc.sk.ca/default.htm)
+Website: [oipc.sk.ca](https://oipc.sk.ca/)
