@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freemoneywisdom.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507034552id_/http%3A//www.freemoneywisdom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemoneywisdom.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907080500id_/http%3A//www.freemoneywisdom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Money Wisdom
 
