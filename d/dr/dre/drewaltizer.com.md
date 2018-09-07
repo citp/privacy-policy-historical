@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drewaltizer.com privacy policy that was archived on 2017-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170117174219id_/https%3A//drewaltizer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drewaltizer.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907065207id_/https%3A//drewaltizer.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Drew Altizer Photography San Francisco, California based full service agency
+# Privacy Policy
 
 This is the privacy policy (the "Policy") for the Web site currently located at www.drewaltizer.com (the "Site"). Drew Altizer Photography ("we" or "us") owns and operates the Site. Please carefully review this Policy to learn about how we collect, use and protect any Personal Information (defined below) and Non-Personal Information (defined below) you provide us on or through the Site and your choices for managing your Personal Information. By using the Site, you signify your assent to this Policy. This Policy is subject to the Terms of Use posted on the Site.
 
@@ -8,7 +8,7 @@ Managing Personal Information
 
 If you have questions or concerns regarding this Policy or wish to update or delete your Personal Information in connection with the Site, please contact us at:
 
-Drew Altizer Photography San Francisco, CA 415.376.7359 info@drewaltizer.com 
+Drew Altizer Photography San Francisco, CA 415.684.7259 support@drewaltizer.com 
 
 Information We Automatically Collect
 
