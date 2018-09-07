@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airfind.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629041050id_/http%3A//airfind.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airfind.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907142404id_/http%3A//www.airfind.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
