@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookieskids.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130014413id_/https%3A//www.cookieskids.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookieskids.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907182628id_/https%3A//www.cookieskids.com/privacy.aspx) for the most accurate reproduction.*
 
 # Cookie's - The School Uniform Specialists - Privacy and Security
 
