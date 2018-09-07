@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hitsblender.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019121229id_/http%3A//www.hitsblender.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitsblender.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907143604id_/http%3A//hitsblender.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | HitsBlender - Free Unlimited Music Online
 
-Welcome to HitsBlender! This Privacy Policy is effective for Blisbury LLP («HitsBlender», «we», «us» and/or «our») and it applies to the HitsBlender website and associated pages (the «Site»), the content directory, tools, and applications (together with the Site, the «Service»).
+Welcome to HitsBlender! This Privacy Policy is effective for HitsBlender («HitsBlender», «we», «us» and/or «our») and it applies to the HitsBlender website and associated pages (the «Site»), the content directory, tools, and applications (together with the Site, the «Service»).
 
 We will continue to evaluate this Privacy Policy and update it accordingly when there is a change to our business practices, our users’ needs, and to comply with regulatory and legal requirements. Please check this page periodically for updates. If we make any material changes to this Privacy Policy, we will post the updated Privacy Policy here and notify you by email or by means of a notice on our website.
 
@@ -12,7 +12,7 @@ We do not collect email addresses or any personally identifiable information 
 
 ## Terms of Service
 
-Please also visit our [Terms of Service section](https://web.archive.org/web/20161019121229id_/http%3A//www.hitsblender.com/terms) establishing the use, disclaimers and limitations of liability governing the use of our service.
+Please also visit our [Terms of Service section](https://web.archive.org/web/20180907143604id_/http%3A//hitsblender.com/terms) establishing the use, disclaimers and limitations of liability governing the use of our service.
 
 ## Automatic Data Collection
 
