@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nissan.co.uk privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129100211id_/https%3A//www.nissan.co.uk/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nissan.co.uk privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907125926id_/https%3A//www.nissan.co.uk/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Legal Information | Nissan
 
