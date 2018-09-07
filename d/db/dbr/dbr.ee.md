@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dbr.ee privacy policy that was archived on 2017-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170419105039id_/https%3A//dbr.ee/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dbr.ee privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907184003id_/https%3A//dbr.ee/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DBREE
 
 Last updated: March 10, 2016
 
-DBREE ("us", "we", or "our") operates [http://dbr.ee](http://dbr.ee/) (the "Site") (collectively, the “Service”). This page informs you of our policies regarding the collection, use and disclosure of collected information we receive from users of the Service. 
+DBREE ("us", "we", or "our") operates [https://dbr.ee](https://dbr.ee/) (the "Site") (collectively, the “Service”). This page informs you of our policies regarding the collection, use and disclosure of collected information we receive from users of the Service. 
 
 ## Information Collection And Use
 
@@ -64,4 +64,4 @@ If we make any material changes to this Privacy Policy, we will notify you eithe
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at [contact@dbr.ee](mailto:contact@dbr.ee). 
+If you have any questions about this Privacy Policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#85e6eaebf1e4e6f1c5e1e7f7abe0e0). 
