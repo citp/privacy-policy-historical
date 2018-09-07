@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollandbranch.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613031533id_/https%3A//www.bollandbranch.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollandbranch.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907042641id_/https%3A//www.bollandbranch.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Boll & Branch
 
@@ -30,7 +30,7 @@ The Site uses cookies that are set by us or our third party services. You can re
 
 The following Information may automatically be received and/or collected from you through the Site: IP address, browser type, browser language, internet service provider (ISP), resource requested, date and time of resource request, and HTTP referring resource (if provided by the browser), operating system, and/or clickstream data. We aggregate this data, and may combine this data with other information we collect about you to better understand how visitors use our site, improving user experience, and to help manage, maintain, and report on use of our website. We also store IP addresses for fraud detection and prevention purposes.
 
-**Behavioral Advertising / Re-Targeting.** We partner with third parties to display advertising on our Site and manage our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about your activities on our Site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here). Please note this does not opt you out of being served advertisements. You will continue to receive generic advertisements.
+**Behavioral Advertising / Re-Targeting.** We partner with third parties to display advertising on our Site and manage our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about your activities on our Site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://optout.networkadvertising.org/)). Please note this does not opt you out of being served advertisements. You will continue to receive generic advertisements.
 
 **Social Media.** The Site include social media features and links, and may use social media application programming interfaces (“APIs”) for log-in. The social networking site may collect certain information about you. Please see the privacy policy for the applicable social networking site to learn more about how these social networking sites share your personal information, which practices may differ from ours.
 
@@ -44,7 +44,7 @@ Network Advertising Initiative: <http://www.networkadvertising.org/choices/>
 
 ## DO NOT TRACK SIGNALS
 
-The Site does not alter their practices when it receives Do-Not-Track (“DNT”) signals. At this time, we do not track user personal information over time and across third-party websites. Third parties that have services on our Site may obtain information about your browsing or usage habits, in accordance with their respective privacy policies. To find out more about DNT, you may wish to visit the following third party website [www.allaboutdnt.com](https://web.archive.org/web/20170613031533id_/https%3A//www.bollandbranch.com/pages/www.allaboutdnt.com).
+The Site does not alter their practices when it receives Do-Not-Track (“DNT”) signals. At this time, we do not track user personal information over time and across third-party websites. Third parties that have services on our Site may obtain information about your browsing or usage habits, in accordance with their respective privacy policies. To find out more about DNT, you may wish to visit the following third party website [www.allaboutdnt.com](https://web.archive.org/web/20180907042641id_/https%3A//www.bollandbranch.com/pages/www.allaboutdnt.com).
 
 ## PURPOSES OF INFORMATION COLLECTION, PROCESSING, AND/OR USE
 
