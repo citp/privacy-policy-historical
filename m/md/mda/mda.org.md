@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mda.org privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711064439id_/https%3A//www.mda.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mda.org privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907042118id_/https%3A//www.mda.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Muscular Dystrophy Association
 
@@ -110,11 +110,11 @@ Mail:     Muscular Dystrophy Association
 
 Attn:    c/o Privacy Matters
 
-            222 S. Riverside Plaza
+            161 N. Clark
 
-Suite 1500
+            Suite 3550
 
-Chicago, IL 60606
+            Chicago, IL 60601
 
 **14\. SOLE STATEMENT**
 
