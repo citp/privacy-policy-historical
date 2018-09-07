@@ -1,50 +1,57 @@
-> *The following text is extracted and transformed from the juneauempire.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630052000id_/http%3A//juneauempire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juneauempire.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907023248id_/https%3A//www.juneauempire.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy / About Our Ads | Juneau Empire - Alaska's Capital City Online Newspaper
+# Your Privacy | Juneau Empire
 
-Juneau Empire is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the Web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. We intend to give you as much control as possible over your personal information. The purpose of our policy is to inform you about the types of information we gather about you when you visit our site(s), how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. Our site(s) may contain links to other Web sites, including Web sites directed to children. We have no control over the privacy practices or the content of any of our business partners, advertisers, sponsors or other sites to which we provide links from our sites. You should check the applicable privacy policy of the Web site sponsor when linking to other Web sites. Juneau Empire strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number and other information) subject to the terms of this privacy policy. Please note this policy applies only to information collected by Juneau Empire online and does not impact information collected or used by Juneau Empire or its affiliates through other means.
+_Search Tip:_ Use quotes to find results containing your phrase, exactly, e.g., "Juneau Empire".
 
-**How we gather information from users**
+## Your Privacy
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. You can visit many pages on our site without providing any information. Other pages may prompt you to provide information, such as when you register for access to portions of our site, sign up for membership, request certain features (e.g., newsletters, news updates and other products), sign up for a newspaper subscription or make a purchase. You may also provide information when you participate in sweepstakes and contests, voting and polling activities, blogs, message boards and chat rooms and other interactive areas of our site. Like most Web sites, Juneau Empire also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but doing so may limit your ability to access certain portions of the site. Additionally we may not be able to customize the site's features according to your preferences.
+* * *
 
-**What we do with the information we collect**
+We value your trust very highly, and will work to protect the security and privacy of any personal information you provide to us and will only use it as we describe here in our Privacy Policy.
 
-We will use your information only as permitted by law. Aggregated Information (information that does not personally identify you) may be used in many ways. As one example, we may combine information about your usage patterns with similar information obtained from other users to learn which pages are visited most or what features are most attractive. Aggregated Information may occasionally be shared with our advertisers and business partners, but cannot be used to contact you individually.
+Personal Information means information about you which is, or can be, tied to you as an individual. Sound Publishing, Inc. will collect and use Personal Information of customers and members only as follows:
 
-We also collect information to enhance your visit and deliver more individualized content and advertising. For example, we may use Personally Identifiable Information collected on Juneau Empire to communicate with you regarding our Terms of Service and privacy policy, products and services offered by Juneau Empire and other affiliates and partners, administration of sweepstakes and contests, processing e-commerce transactions and other topics we think you might find of interest. We reserve the right to share this information with other Morris Communications, LLC, business units and affiliates, including for example our affiliated newspapers and entities in which Morris has an ownership interest (collectively, Affiliates). This policy does not apply to any Affiliate's use of such information.
+* * *
 
-Personally Identifiable Information collected by Juneau Empire may also be used for other purposes including but not limited to site administration and troubleshooting. Certain third parties who provide technical support for the operation of our site (our Web hosting service and our newsletter provider, for example) may access such information.
+#### Our purpose in collecting Personal Information
 
-As we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or whenever we deem it appropriate or necessary to give such information to law enforcement authorities. Please note we may not provide you with notice prior to disclosure in such cases.  
-Affiliated sites, linked sites and advertisements
+We collect Personal Information to deliver the products and services you want; administer our businesses; provide customer service; and respond to legal process (such as subpoenas and warrants).
 
-Juneau Empire expects its partners, advertisers and third-party affiliates to respect the privacy of our users. However, third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a Juneau Empire page, certain content that is actually created or hosted by a third party. Also, through Juneau Empire you may be introduced to, or be able to access, information, Web sites, advertisements, features, contests or sweepstakes offered by other parties. Juneau Empire is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+* * *
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Through features available on our site, third parties may use cookies or other technology to gather information. Juneau Empire does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties.
+#### What Personal Information we collect and how we collect it
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use non-personal information (I.e., information that does not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. For example, Juneau Empire participates in the APT from Yahoo! platform and Yahoo! is an ad network partner to display ads on our sites. To improve your ad experience on Juneau Empire sites and elsewhere on the Internet, we may send non-personal information to Yahoo! based on your browser's activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information regarding its own users to select which ads to display. Learn more about Yahoo!'s ad practices, including how to opt out of using anonymous information to select which ads to show you. Yahoo! is a member of the Network Advertising Initiative. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here. (link to <http://www.networkadvertising.org/managing/opt_out.asp>)
+The Personal Information we collect may include:
 
-This Web site uses services provided by NewsRight, LLC. NewsRight collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of NewsRight. Please refer to the NewsRight privacy policy at <http://www.newsregistry.com/privacycenter/servicepolicy.aspx> for further information.
+  * Contact information; names, addresses, email addresses and other such information required for us to transact business with you; and
 
-End users understand, acknowledge and agree that the Web site contains certain licensed content and technology from News Distribution Network (the “NDN Technology”), which may include certain metadata, tags, cookies, and other analytic devices for use as licensed content   End users also understand and agree that they are expressly prohibited from (i) modifying, editing, shortening, or otherwise altering the NDN Technology or the licensed content in any way; (ii) removing, editing, altering or obscuring any metadata or Intellectual Property markings associated with the NDN Technology or licensed content; (iii) downloading, copying, or otherwise replicating or making available the licensed content other than as set forth herein; or (iv) otherwise changing the appearance of the NDN Technology or licensed content.
+  * Technical information (such as your computers operating system and browser type, and the address of a referring website, if any, and the path you take through our web pages) when you visit our websites;
 
-Please be careful and responsible whenever you are online. Should you choose to voluntarily disclose Personally Identifiable Information on our site, such as in message boards, chat areas or in advertising or notices you post, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of Juneau Empire and this policy.
 
-**Children**
 
-Juneau Empire does not knowingly collect or solicit Personally Identifiable Information from or about children under the age of 13 except as permitted by law. If we discover we have received any information from a child under the age of 13 in violation of this policy, we will delete that information immediately. If you believe Juneau Empire has any information from or about anyone under the age of 13, please contact us at [webmaster@juneauempire.com](mailto:webmaster@juneauempire.com).
 
-**Compliance with legal process**
+When you visit our website, we may place a “cookie,” a small computer file, on your computer to allow our web site to function properly and to collect anonymous traffic data. You may delete this cookie from your computer. You may also set your Internet browser to reject cookies, however, doing so will compromise the functionality of our website.
 
-We may disclose personal information if we are required to do so by law or we in good faith believe that such action is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of our websites; or (4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions).
+* * *
 
-**How To Contact Us**
+#### How we use Personal Information
 
-For any questions or comments, you may contact us:
+  * We do not sell or rent Personal Information to others.
 
-Juneau Empire  
-3100 Channel Drive  
-Juneau, AK 99801  
-907-586-3740  
-[webmaster@juneauempire.com](mailto:webmaster@juneauempire.com)
+  * We do not use cookies to track movements on websites other than our own.
+
+  * We do not disclose Personal Information to others.
+
+  * We take reasonable steps to protect your Personal Information.
+
+  * We maintain reasonable physical, technical, and procedural measures to limit access to Personal Information to authorized individuals with appropriate purposes.
+
+  * Modifications to our privacy policies.
+
+
+
+
+* * *
+
+We reserve the right to change our privacy policies at any time, except as may be prohibited by law. We will post revisions online. Use of our websites or services or the purchase of products after posted changes means that you consent to the privacy policies as changed.
