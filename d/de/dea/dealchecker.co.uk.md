@@ -1,115 +1,100 @@
-> *The following text is extracted and transformed from the dealchecker.co.uk privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201143925id_/https%3A//www.dealchecker.co.uk/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealchecker.co.uk privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907162007id_/https%3A//www.dealchecker.co.uk/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
-### Privacy and Cookies
+## Privacy Policy
 
-DMC Digital Ltd is a UK registered company that wholly owns and operates the website dealchecker.co.uk. DMC Digital Ltd is part of the Easyvoyage Group. This privacy policy refers to your use of the dealchecker website and the information that we may collect from you as you do so.
+DMC Digital is a UK registered company that wholly owns and operates the website dealchecker.co.uk. DMC Digital Ltd is part of the Webedia Group. This privacy policy refers to your use of the dealchecker website and the information that we may collect from you as you do so.
 
-Privacy policy updated: 3rd October 2017
+dealchecker.co.uk act as a data controller over the information that we collect from you as you use the site, meaning that we are responsible for looking after it. Later on we will refer to data processors. These are businesses that we use to help us to fulfil our promise to you.
 
-  
+The dealchecker website has been designed for use by those aged over 18 years old. Those under 18 should seek permission from a parent or guardian before using.
 
-
-### Information we may collect from you
-
-As you use our website we may ask you to provide contact information such as an email address in certain circumstances. You are free to choose whether or not you provide this information, however, some services may not be accessible to you if you do not. 
-
-We ask you to submit your email address and post code when you subscribe to our newsletter service. We may also ask you to submit contact information if you enter a competition, if you provide feedback to us or if you apply for a job with us. 
-
-In addition to personal information that you choose to give us we may also collect information about your computer, this may include you IP address, operating system, web browser software, screen resolution and referring web site. 
-
-We use Google Analytics to collect data on the demographics of our users. This data is anonymised and not personally identifiable. It helps us understand our audience and how it breaks down by age, gender and interests. You can opt out of this kind of data collection through Google's ad settings. 
+**Privacy policy updated: 24th May 2018**
 
   
 
 
-### How we use this information
+### Why Do We Collect Data on Our Users?
 
-Any personal information such as email address or postcode is held by us for the purpose of communicating with you or improving the relevance of the adverts served to you by ourselves and selected third parties. 
+As our users move through the site we track information on searches made, links clicked and the duration of time spent on each page. This information is collated and then used to help us to improve the user experience. It is through this data collection that we create filters that make navigating the site simple, build pages that feel intuitive to use and understand what it is that our users love. 
 
-Where you have supplied details in order to subscribe to our newsletter this means sending you our weekly newsletter and other travel offers by email. We will only use your post code to improve our mailings by sending you more relevant content. 
+We also share anonymised data with our partners to help them to serve more relevant adverts to you.
 
-We may also reply to you if you give us feedback or apply for a job with us. 
-
-We will only share this information with the third parties stated within this privacy policy, and as stated in competitions that you may enter with us. 
-
-The information that may be collected from your computer is anonymised and used to track usage across devices. This information is used for the purpose of helping us to understand how we can improve our website for our users and to help our partners serve relevant adverts to you. 
+For the information that we hold on our email users, please check out our [email privacy policy](https://www.dealchecker.co.uk/site/email-privacy.html).
 
   
 
 
-### Third Party Companies
+### What Data Do We Collect
 
-dealchecker may share your details with other members of the Easyvoyage Group. We may also contact you with offers from third party companies that we think may be of interest to you, where we have permission to do so. 
+We collect information about the devices that our users utilise to view our site. We collect information about our users? IP address, operating system, screen resolution and referring website. 
 
-dealchecker might share anonymised information with third parties to provide you with exclusive offers, specifically from Criteo Email Service and Axciom. 
+Alongside this, we collect information about the actions that our users take on our website. We store data on clicks, user journeys and the duration of time spent on each page. 
+
+We use Google Analytics and Adobe Analytics to collect data on the demographics of our users. This data is anonymised and not personally identifiable. It helps us to understand our audience and how it breaks down by age, gender and interests. You can opt out of this kind of data being collected using the cookie pop ups available on each page or via on our cookie page.
 
   
 
 
-### Access and removal of Information
+### How Long Do We Store Your Data For?
 
-You have the right to access, change and delete personal data that you provide dealchecker part of your subscription. 
+The length of time that data is stored for varies between the types of cookie. You can find more information on this over on our [cookie policy](https://www.dealchecker.co.uk/site/cookies.html).
 
-You can exercise this right at any time by:  
+For information on the length of time that email data is used, head on over to our [ email privacy policy.](https://www.dealchecker.co.uk/site/email-privacy.html)
+
+  
 
 
-Following the links in dealchecker mailings to our preference centre
+### Who Do We Share Your Data With?
 
-Emailing us at [enquiries@dealchecker.co.uk](mailto:enquiries@dealchecker.co.uk)
+Here at dealchecker, we work with a number of partners to improve the experience that we can provide you (our users) with. These partners act as data processors, enabling us to run our website smoothly. 
 
-Where you request changes to your dealchecker subscription it can take up to five days for changes to take effect. 
+#### Adobe
 
-You can unsubscribe from the Criteo Email Service [here](https://emailprivacy.criteo.com/gb/opt-out.html). 
+We use Adobe's analytics suite so that we can understand how our website is performing. We share our site usage data with them and they let us organise it into a manner that can be understood and used to make improvements. You can find out more about their GDPR plans [here](https://www.adobe.com/privacy/general-data-protection-regulation.html).
 
-You can unsubscribe from Axciom [here](http://www.acxiom.co.uk/about-acxiom/privacy/uk-privacy-policy/). 
+#### Google Analytics
+
+Google Analytics also provides site usage data. In addition to this, it helps us to understand the demographic of our users so that we can provide content and deals that are relevant to them. Google uses a variety of methods to gather this data, for example when you sign up with a Google account, or also by some educated guesses based on your browsing history. They also enable us to recognise trends in page's popularity which stops us from becoming out of date.
+
+#### Everycity
+
+We work with [ Everycity](https://everycity.co.uk/) as a data processor to host our database. They allow us to store all of the great prices that we show on site, alongside a whole host of other information that ensures that dealchecker runs smoothly. 
 
   
 
 
 ### Cookies
 
-dealchecker aims to be open and clear about the use of cookies on our website. 
+dealchecker aims to be open and clear about the use of cookies on our website.
 
-We use cookies to recognise users and devices using the dealchecker website. These cookies contain an anonymised email address. 
+We use cookies to recognise users and devices using the dealchecker website. These cookies contain an anonymised email address.
 
-If you do not have cookies enabled on your web browser you may find that some sections of dealchecker do not work as well as they should. For example our search tools rely on cookies to ensure we return users’ individual search results. 
+If you do not have cookies enabled on your web browser you may find that some sections of dealchecker do not work as well as they should. For example our search tools rely on cookies to ensure we return users' individual search results.
 
-dealchecker also uses cookies to analyse our users’ behaviour on our site so that we can continue to improve the website experience. 
+dealchecker also uses cookies to analyse our users' behaviour on our site so that we can continue to improve the website experience.
 
 Some cookies are permanently stored by your browser, whilst others are deleted as soon as you leave the site.
 
 Our third parties use cookies to serve up adverts that are most relevant to you, but only store anonymised data in the cookies they use.
 
-If you’d like to learn more [click here to see our Cookie Policy](https://web.archive.org/web/20171201143925id_/https%3A//www.dealchecker.co.uk/site/cookies.html) which includes a complete list of all the cookies dealchecker uses. 
+If you’d like to learn more [click here to see our Cookie Policy](https://web.archive.org/web/20180907162007id_/https%3A//www.dealchecker.co.uk/site/cookies.html) which includes a complete list of all the cookies dealchecker uses. 
 
-If you’re worried about cookies you can choose to clear your browser’s cookies history or even to disable cookies entirely - [click here](https://web.archive.org/web/20171201143925id_/https%3A//www.dealchecker.co.uk/site/cookies.html#clearing) to learn how.
-
-  
-
-
-### Banner Advertising
-
-Our advertising is served for us by a variety of third party companies. They may also use cookie data to help serve more relevant advertising to you and to ensure that you do not see ads too repetitively. No personal data is collected by these companies. 
+If you’re worried about cookies you can choose to clear your browser’s cookies history or even to disable cookies entirely - [click here](https://web.archive.org/web/20180907162007id_/https%3A//www.dealchecker.co.uk/site/cookies.html#clearing) to learn how. Alternatively, you can control which cookies we store on you in the cookie pop ups which appear when you use our site or by clicking through here.
 
   
 
 
-### Validity
+### Your Options
 
-DMC Digital Ltd has the right to alter this privacy policy for any reason without prior notice. 
-
-Any updates to our privacy policy will be displayed on this page 
-
-If you have any questions about this privacy policy please write to us at: DMC Digital Limited, 1st Floor, 2-4 Rufus Street, London. N1 6PE 
-
-Or email us at [enquiries@dealchecker.co.uk](mailto:enquiries@dealchecker.co.uk)
+For those who subscribe to our email newsletters and use the site, the information that we store on how they use the website will be connected to their email address. These users can ask for their data to be deleted at any time by emailing [dataprotection@dealchecker.co.uk.](mailto:dataprotection@dealchecker.co.uk). Check out the [email privacy policy](https://www.dealchecker.co.uk/site/email-privacy.html) for further information. 
 
   
 
 
-### Spam
+### Contact
 
-dealchecker is against spam mailings. We will only send mailings to email addresses who have requested we do so directly or through our partner organisations. We will not send unsolicited mailings.   
-If you have received a mailing which you did not request please contact us on [enquiries@dealchecker.co.uk](mailto:enquiries@dealchecker.co.uk). 
+For more information or if you have any questions for us, please do not hesitate to email us at [dataprotection@dealchecker.co.uk](mailto:dataprotection@dealchecker.co.uk).
+
+Alternatively, you can write to us at: DMC Digital Limited, 1st Floor, 2-4 Rufus Street, N1 6PE
