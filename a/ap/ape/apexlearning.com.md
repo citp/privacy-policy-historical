@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apexlearning.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191506id_/https%3A//www.apexlearning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apexlearning.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907221916id_/https%3A//www.apexlearning.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Apex Learning
 
@@ -109,4 +109,6 @@ We reserve the right, at our discretion, to modify this Privacy Policy from time
 
 If you have questions or concerns regarding this Privacy Policy, please contact our support department at: Apex Learning Inc. 1215 Fourth Ave., Suite 1500 Seattle, WA 98161 or via email at: [support@apexlearning.com](mailto:support@apexlearning.com). In the U.S. you may also call us toll-free at: 1 (800) 453-1454. 
 
-Copyright © 2016 Apex Learning Inc. Apex Learning® and the Apex Learning logo are either registered trademarks or trademarks of Apex Learning Inc.
+Copyright © 2017 Apex Learning Inc. Apex Learning® and the Apex Learning logo are either registered trademarks or trademarks of Apex Learning Inc.
+
+Revision Date: September 19, 2017
