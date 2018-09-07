@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tatring.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627042040id_/https%3A//tatring.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tatring.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907073726id_/https%3A//tatring.com/privacy-policy) for the most accurate reproduction.*
 
 # HubPages Network Privacy Policy | TatRing
 
