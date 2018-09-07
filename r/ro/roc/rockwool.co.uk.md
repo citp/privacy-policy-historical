@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockwool.co.uk privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610012641id_/http%3A//www.rockwool.co.uk/about-us/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockwool.co.uk privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907184711id_/http%3A//www.rockwool.co.uk/about-us/privacy-statement) for the most accurate reproduction.*
 
 # ROCKWOOL Privacy Statement
 
