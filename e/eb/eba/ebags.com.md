@@ -1,94 +1,163 @@
-> *The following text is extracted and transformed from the ebags.com privacy policy that was archived on 2017-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170927233051id_/https%3A//www.ebags.com/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebags.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907202309id_/https%3A//www.ebags.com/help/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - eBags.com
 
-### Our Privacy Pledge
+Last Updated November 2017
 
-[](https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.ebags.com&lang=en)
+We want you to be familiar with how we collect, use and disclose Personal Information (as defined below). This Privacy Policy describes our practices in connection with Personal Information that we collect through websites operated by us or our U.S. affiliates, from which you are accessing this Privacy Policy (the " **Websites** "), through the software applications made available by us for use on or through computers and mobile devices (the " **Apps** "), through our social media pages and apps, through HTML-formatted email messages that we send to you that link to this Privacy Policy, as well as through your offline interactions with us where notice is legally required (collectively, including the Websites, Apps, Social Media Pages and offline interactions, the " **Services** "). By using the Services, you agree to this Privacy Policy. 
 
-### What type of information does eBags collect?
+### PERSONAL INFORMATION
 
-Our goal is to provide you with a safe and enjoyable shopping experience. When we collect information about you it is in an effort to create a customized and meaningful experience with the products and brands that are most relevant to you. You are free to browse the eBags site without revealing any personal information about yourself. However, once you give us your personal information, you are not anonymous to us.
+" **Personal Information** " is information that identifies you as an individual or relates to an identifiable individual, including:
 
-**Automatic Information**  
-We automatically track certain information based upon your behavior on our site. We use this information to analyze our users' behavior, interests, and demographics to better understand and serve our shoppers. This information may include the URLs, pages viewed on the site, which browser you are using and your IP address.
-
-**What about Cookies?**  
-"Cookies" are small pieces of information that a web site will store on your computer's hard drive. eBags will use cookies to identify you during your session, make our services easier to use and to store items in your shopping cart between visits. Cookies are never used to store sensitive customer information such as names, addresses, credit card numbers or passwords. Acceptance of cookies is not a requirement to browse our site, however, our shopping cart does require the acceptance of cookies to work properly. Most browsers automatically accept cookies, but you can configure your browser to prevent that. If you would like to place an order on our site but object to or otherwise are unable to use cookies, please feel free to place your order via our toll free number: 1-800-820-6126. 
-
-**Personally Identifiable Information**  
-This is information that you provide to us that is specific to you. We collect information such as your name, phone number, billing information, shipping information and other personal information as indicated on the forms throughout our site. You provide such information when you make a purchase, enter a contest or sweepstakes, fill out a survey or form, provide ratings or testimonials feedback, give or redeem a gift certificate, etc. Where possible, we indicate which fields are required and which fields are optional. You can always choose not to provide information, but you may not be able to use a particular service or feature by omitting the information.
-
-### Our use of your information
-
-We use the information we collect from you to improve our products and services and make your shopping experience more efficient and relevant. We review the actions of our visitors on an aggregate basis to determine customers' preferences. eBags also conducts analysis and research on our visitors' demographics, interests, and pages viewed based on the information provided to us during ordering, from our server log files, contests or surveys.
-
-**Contests and Sweepstakes**  
-When you enter a contest or other promotion, we may ask you for contact information such as your name, address and e-mail address in order to administer the contest, to send you promotional e-mails, notify winners and make the winners' list publicly available pursuant to certain states' laws. Your consent to such promotional use and disclosure of this information is a condition of your participation. As a condition of receiving any prize, you will be required to complete, execute and return an Affidavit of Eligibility, a Liability Release, and where lawful, a Publicity Release, for us to ensure that you are eligible to receive the prize according to the Contest Rules. In cases where the sweepstakes or promotional offer is co-branded with or sponsored by another party, we may share your information, with your consent, to that party.
-
-**E-mails**  
-It is possible to register as an email subscriber directly from our site or through another source, such as an eBags sweepstakes hosted on another site, Facebook contest, or a co-registration network. Upon registering, we will send you newsletters and e-mails featuring exclusive sales, promotions and other members-only benefits. When you join or make a purchase on eBags.com, you will automatically be subscribed to emails unless you opt-out during guest checkout. If you are a subscribed member, we will also send you emails to collect ratings and testimonials feedback related to your purchase and account status updates. If you'd rather not receive emails, please visit [Manage Email Preferences](https://web.archive.org/members/emailpreferences) to change your preferences. 
-
-**Gift Certificates**  
-If you purchase a gift certificate on our site, we will ask you to provide the recipient's name and e-mail address. The recipient information you provide us will only be used to deliver the gift certificate and for no other purpose.
-
-**Affiliate Program**  
-Our Affiliate Program is administered by Commission Junction. Any information collected by them is not governed by this Policy.
-
-### Does eBags share the information it receives?
-
-The following describes some of the ways that your personally identifiable information may be disclosed:
-
-**Fulfillment**  
-During the purchase process, we will share your information with certain intermediaries (e.g. UPS, APX, USPS, FedEx, Payment Processing Service Provider, Product Manufacturers) strictly to process and ship your order.
-
-**Promotional Offers**  
-At times we may send offers to select eBags subscribers on behalf of other parties. When we do this, we do not give that company your personally identifiable information without your consent. If you do not want to receive such communications, please visit [Manage Email Preferences](https://web.archive.org/members/emailpreferences). 
-
-**Agents**  
-We employ other third parties to perform services or functions on our behalf in order to improve our site, merchandising, marketing and promotional efforts, communications or other services. Those third parties include authorized contractors, consultants and other companies working with us (collectively, "agents"). They only have access to information needed to perform their functions, and may not share any information with others or use it for any other purpose than improving eBags' services and offerings. If you have made a purchase on the eBags website, we may make your name and postal address available to pre-screened companies who have specific direct mail (e.g. catalog) product or service offers that we think may be of interest to you. We only share with these pre-screened companies the individual names and postal address of customers who have actually purchased products from us. If you do not want us to share your name and postal address information, simply follow the instructions in the section below titled "Accessing and Updating Your Information." We may also receive information about you from other sources (such as demographic information and purchase history) and add it to our information in order to make our marketing efforts more efficient.
-
-**Advertisers**  
-We work with third party advertising companies to serve and track our ads. These third parties may serve other cookies. Our advertising partners use the anonymous, non-personally identifying information they collect from our site, in the aggregate, to help us better market and serve our customers. In the event that our advertisers collect any personal information on our behalf, it will not be used by them or disclosed to any third parties.
-
-**Third Party Sites**  
-You may visit other web sites, through links on our site, who may collect, use and share your personal information in accordance with their own privacy policies. The information practices of those websites linking from or to our site are not covered by this Policy, and we encourage you to be very cautious before you disclose your personal information to others. If you register for eBags on another web site or use a web site providing a service for eBags, that web site may provide personal information about you and your transactions back to eBags. It is possible that eBags could merge with or be acquired by another business entity. Should such an event occur, you should expect that eBags would share some or all of your information in order to continue to provide such products and services. Notice of such an event will be posted and we will require that the new combined entity follow the practices disclosed in this Privacy Policy.
-
-**Legal Requests**  
-eBags will cooperate with law enforcement inquiries. eBags reserves the right to disclose any activities or information about you to law enforcement or other government officials as we, in our sole discretion, determine necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements or other activity that is illegal or may expose us or you to legal liability.
-
-### Accessing and Updating Your Information
-
-You always have the opportunity to review and change the information you provide to us by logging into the site and entering in the new information yourself. You can edit your name, contact information and preferences by logging into the Your Account section of the site. 
-
-As a customer, subscriber or contest entrant, you will receive e-mail communications about new eBags products, special offers and requests for feedback. If you want to stop receiving our emails or to specify the communications you prefer to receive, you may unsubscribe or edit your profile at any time. You can do this through any of our emails, by visiting [Manage Email Preferences](https://web.archive.org/members/emailpreferences) or by sending us an email [help@ebags.com](mailto:help@ebags.com). 
-
-You may ask to have your account information removed from our active databases; however, because we keep track of past purchases, you cannot delete information associated with past purchases. Such information will be deactivated as soon as reasonably possible based on your account activity. Also, as a security measure we "back up" the data stored on our systems, and such prior information cannot be completely removed from our databases. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests.
-
-### Security
-
-The eBags Security Pledge protects you while you shop at eBags so that you never have to worry about credit card safety. We guarantee that every transaction you make at eBags will be safe. This means you pay nothing if unauthorized charges are made to your credit card as a result of shopping at eBags. eBags' servers use Secure Sockets Layer (SSL), an encryption technology that works with all modern web browsers, so that only eBags can read a buyer's personal information. We reveal only the last five digits of your credit card numbers when confirming an order. However, we will transmit the entire credit card number to the appropriate credit card company during order processing.
-
-### A special note about children's privacy
-
-You must be at least 18 years old to have our permission to use this site. We do not knowingly collect, use or disclose Personally Identifiable Information about visitors under 18 years of age. If you are a minor, you can use this service only in conjunction with your parents or guardians.
-
-### Privacy Policy Changes
-
-eBags reserves the right to change, modify, add or remove portions of this Policy at any time. Any changes will be posted in this document and will become effective immediately upon being posted unless we tell you otherwise.
-
-### Contacting eBags
-
-If you have further questions about eBags' Privacy Policy or comments on how we can improve the eBags shopping experience, please do not hesitate to email us at [privacy@ebags.com](mailto:privacy@ebags.com).
-
-Need more help? You can refer to our Help Center, email one of our friendly Customer Help Specialists [help@ebags.com](mailto:help@ebags.com) or call 1-800-820-6126.
-
-You may also write to us at:  
-Privacy Manager  
-eBags, Inc.  
-5500 Greenwood Plaza Blvd.  
-Suite 160  
-Greenwood Village, CO 80111  
+  * Name
+  * Postal address (including billing and shipping addresses)
+  * Telephone number
+  * Email address 
+  * Credit and debit card number
+  * Profile picture
+  * Social media account ID
+  * Travel information, including trip flight information
 
 
-We always enjoy hearing from you and appreciate your business.
+
+**Collection of Personal Information**
+
+We and our service providers may collect Personal Information in a variety of ways, including:
+
+  * **Through the Services** : We may collect Personal Information through the Services, e.g., when you sign up for a newsletter or make a purchase.
+  * **Offline** : We may collect Personal Information from you offline, such as when you attend one of our trade shows, place an order over the phone or contact customer service.
+  * **From Other Sources** : We may receive your Personal Information from other sources, such as our U.S. affiliates, public databases, joint marketing partners, social media platforms (including from people with whom you are friends or otherwise connected) and from other third parties. In addition, if you elect to connect your social media account to your Website account, certain Personal Information from your social media account will be shared with us, which may include Personal Information that is part of your profile or your friends' profiles. 
+
+
+
+We may use a third-party payment service to process payments made through the Services. If you wish to make a payment through the Services, your Personal Information may be collected by such third party and not by us, and will be subject to the third party’s privacy policy, rather than this Privacy Policy. We have no control over, and are not responsible for, this third party’s collection, use and disclosure of your Personal Information.
+
+If you submit any Personal Information relating to other people to us or to our service providers in connection with the Services, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy.
+
+**How We May Use Personal Information**
+
+We and our service providers may use Personal Information:
+
+  * To respond to your inquiries and fulfill your requests, such as to complete your transactions and provide you with related customer service.
+  * To send administrative information to you, such as changes to our terms, conditions and policies, as well as marketing communications that we believe may be of interest.
+  * To personalize your experience on the Services by presenting products and offers tailored to you and to facilitate social sharing functionality.
+  * To allow you to participate in sweepstakes, contests and similar promotions and to administer these activities. Some of these activities have additional rules containing additional information about how we use and disclose your Personal Information. 
+  * For our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products, enhancing, improving or modifying our Services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities. 
+  * To push any App notifications.
+
+
+
+**Disclosure of Personal Information**
+
+Your Personal Information may be disclosed:
+
+  * To our affiliates for the purposes described in this Privacy Policy. 
+  * To our third-party service providers who provide services such as website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, auditing and other services.
+  * To third parties, to permit them to send you marketing communications, consistent with your choices.
+  * To third-party sponsors of sweepstakes, contests and similar promotions.
+  * By you, on message boards, chat, profile pages and blogs and other services to which you are able to post information and content (including, without limitation, our Social Media Pages). Please note that any information you post or disclose through these services will become public and may be available to other users and the general public. 
+  * To your friends associated with your social media account, to other website users and to your social media account provider, in connection with your social sharing activity. By connecting your Services account and your social media account, you authorize us to share information with your social media account provider, and you understand that the use of the information we share will be governed by the social media provider's privacy policy.
+
+
+
+**Other Uses and Disclosures**
+
+We also may use and disclose your Personal Information as we believe to be necessary or appropriate: (a) to comply with applicable law, which may include laws outside your country of residence, to respond to requests from public and government authorities, which may include such authorities outside your country of residence, to cooperate with law enforcement, or for other legal reasons; (b) to enforce our terms and conditions; and (c) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others.
+
+We may furthermore use, disclose or transfer your information to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
+
+We may also use and disclose Personal Information collected through the Services in other ways, with your consent.
+
+### OTHER INFORMATION
+
+" **Other Information** " is any information that does not reveal your specific identity or does not directly relate to an identifiable individual, such as: 
+
+  * Browser and device information
+  * App usage data
+  * Information collected through cookies, pixel tags and other technologies
+  * Demographic information and other information provided by you that does not reveal your specific identify.
+  * Information that has been aggregated in a manner that it no longer reveals your specific identity.
+
+
+
+If we are required to treat Other Information as Personal Information under applicable law, then we may use and disclose it for the purposes for which we use and disclose Personal Information, as detailed in this Policy.
+
+**Collection of Other Information**
+
+We and our service providers may collect Other Information in a variety of ways, including:
+
+  * **Through your browser or device** : Certain information is collected by most browsers or automatically through your device, such as your Media Access Control (MAC) address, computer type (Windows or Macintosh), screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and version and the name and version of the Services (such as the App) you are using. We use this information to ensure that the Services function properly.
+  * **Through your use of the App** : When you download and use the App, we and our service providers may track and collect App usage data, such as the date and time the App on your device accesses our servers and what information and files have been downloaded to the App based on your device number.
+
+**Using cookies** : Cookies are pieces of information stored directly on the computer that you are using. Cookies allow us to collect information such as browser type, time spent on the Services, pages visited, language preferences, and other anonymous traffic data. We and our service providers use the information for security purposes, to facilitate navigation, to display information more effectively, and to personalize your experience. We also gather statistical information about use of the Services in order to continually improve their design and functionality, understand how they are used and assist us with resolving questions regarding them. Cookies further allow us to select which of our advertisements or offers are most likely to appeal to you and display them while you are on the Services. We may also use cookies or other technologies in online advertising to track responses to our ads. We do not respond to browser do-not-track signals at this time.
+
+If you do not want information collected through the use of cookies, most browsers allow you to automatically decline cookies or be given the choice of declining or accepting a particular cookie (or cookies) from a particular website. You may also wish to refer to <http://www.allaboutcookies.org/manage-cookies/index.html>. If, however, you do not accept cookies, you may experience some inconvenience in your use of the Services. You also may not receive advertising or other offers from us that are relevant to your interests and needs.
+
+  * **Using pixel tags and other similar technologies** : Pixel tags (also known as web beacons and clear GIFs) may be used to, among other things, track the actions of users of the Services (including email recipients), measure the success of our marketing campaigns and compile statistics about usage of the Services and response rates.
+  * **Analytics**. We use Google Analytics and other analytic tools, such as but not limited to Full Story, which use cookies, recordings and other similar technologies to collect and analyze information about use of the Services and report on activities and trends. These services may also collect information regarding the use of other websites, apps and online resources. You can learn about Google’s practices by going to www.google.com/policies/privacy/partners/, and opt out of them by downloading the Google Analytics opt-out browser add-on, available at <https://tools.google.com/dlpage/gaoptout>. Additionally if you prefer to not have your session recorded by Full Story, you may opt-out of this recording by going to <https://www.fullstory.com/optout>. 
+  * **Using Adobe Flash technology (including Flash Local Shared Objects ("Flash LSOs")) and other similar technologies** : We may use Flash LSOs and other technologies to, among other things, collect and store information about your use of the Services. If you do not want Flash LSOs stored on your computer, you can adjust the settings of your Flash player to block Flash LSO storage using the tools contained in the Website Storage Settings Panel. You can also go to the Global Storage Settings Panel and follow the instructions (which may explain, for example, how to delete existing Flash LSOs (referred to as "information" on the Macromedia site), how to prevent Flash LSOs from being placed on your computer without your being asked, and (for Flash Player 8 and later) how to block Flash LSOs that are not being delivered by the operator of the page you are on at the time). Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications, including those used in connection with the Services. 
+  * **IP Address** : Your IP address is a number that is automatically assigned to your computer by your Internet Service Provider (ISP). An IP address may be identified and logged automatically in our server log files whenever a user accesses the Services, along with the time of the visit and the page(s) that were visited. Collecting IP addresses is standard practice and is done automatically by many websites, applications and other services. We use IP addresses for purposes such as calculating usage levels, diagnosing server problems and administering the Services. We may also derive your approximate location from your IP address.
+  * **Physical Location** : We may collect the physical location of your device by, for example, using satellite, cell phone tower or WiFi signals. We may use your device’s physical location to provide you with personalized location-based services and content. We may also share your device’s physical location, combined with information about what advertisements you viewed and other information we collect, with our marketing partners to enable them to provide you with more personalized content and to study the effectiveness of advertising campaigns. In some instances, you may be permitted to allow or deny such uses and/or sharing of your device’s location, but if you do, we and/or our marketing partners may not be able to provide you with the applicable personalized services and content.
+
+
+
+**Uses and Disclosures of Other Information**
+
+We may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. In some instances, we may combine Other Information with Personal Information. If we do, we will treat the combined information as Personal Information as long as it is combined.
+
+### THIRD PARTY SERVICES
+
+This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any website or service to which the Services link. The inclusion of a link on the Services does not imply endorsement of the linked site or service by us or by our affiliates.
+
+In addition, we are not responsible for the information collection, use, disclosure or security policies or practices of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including with respect to any Personal Information you disclose to other organizations through or in connection with the Apps or our Social Media Pages.
+
+### THIRD-PARTY ADVERTISING
+
+We may use third-party advertising companies to serve advertisements regarding goods and services that may be of interest to you when you access and use the Services and other websites or online services, based on information relating to your access to and use of the Services and other websites or online services on any of your devices, as well as on information received from third parties. To do so, these companies may place or recognize a unique cookie on your browser (including through the use of pixel tags). They may also use these technologies, along with information they collect about your online use, to recognize you across the devices you use, such as a mobile phone and a laptop. If you would like more information about this practice, and to learn how to opt out of it in desktop and mobile browsers on the particular device on which you are accessing this Privacy Policy, please visit <http://www.networkadvertising.org/managing/opt_out.asp> and <http://www.aboutads.info/>. You may download the AppChoices app at www.aboutads.info/appchoices to opt out in mobile apps.
+
+### SECURITY
+
+We seek to use reasonable organizational, technical and administrative measures to protect Personal Information within our organization. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure, please immediately notify us in accordance with the "Contacting Us" section below.
+
+### CHOICES AND ACCESS
+
+**Your choices regarding our use and disclosure of your Personal Information**
+
+We give you choices regarding our use and disclosure of your Personal Information for marketing purposes. You may opt-out from: 
+
+  * Receiving electronic communications from us: If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt-out by following the unsubscribe link in any marketing communication and by contacting us at [info@ebags.com](mailto:info@ebags.com).
+  * Our sharing of your Personal Information with affiliates for their direct marketing purposes: If you would prefer that we not share your Personal Information on a going-forward basis with our affiliates for their direct marketing purposes, you may opt-out of this sharing by: contacting us at [info@ebags.com](mailto:info@ebags.com).
+  * Our sharing of your Personal Information with unaffiliated third parties for their direct marketing purposes: If you would prefer that we not share your Personal Information on a going-forward basis with unaffiliated third parties for their direct marketing purposes, you may opt-out of this sharing by contacting us at [info@ebags.com](mailto:info@ebags.com).
+
+
+
+We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you opt-out of receiving marketing-related emails from us, we may still send you important administrative messages, from which you cannot opt-out.
+
+**How you can access, change or suppress your Personal Information**
+
+If you would like to review, correct, update, suppress/restrict or delete Personal Information that you have previously provided to us, or if you would like to transfer your Personal Information to another company (to the extent this right to data portability is provided to you by applicable law), you may contact us by writing [info@ebags.com](mailto:info@ebags.com) or Customer Care, eBags Inc., 5500 Greenwood Plaza Blvd, Suite 160, Greenwood Village, CO 80111.
+
+In your request, please make clear what Personal Information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information. For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable.
+
+Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting a change or deletion (e.g., when you make a purchase or enter a promotion, you may not be able to change or delete the Personal Information provided until after the completion of such purchase or promotion). There may also be residual information that will remain within our databases and other records, which will not be removed.
+
+### USE OF SERVICES BY MINORS
+
+The Services are not directed to individuals under the age of thirteen (13), and we do not knowingly collect Personal Information from individuals under 13.
+
+### JURISDICTION AND CROSS-BORDER TRANSFER
+
+The Services are controlled and operated by us from the United States and are not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the Services you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have data protection rules that are different from those of your country. In certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities in those other countries may be entitled to access your personal information.
+
+### SENSITIVE INFORMATION
+
+We ask that you not send us, and you not disclose, any sensitive Personal Information (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background or trade union membership) on or through the Services or otherwise to us.
+
+### UPDATES TO THIS PRIVACY POLICY
+
+We may change this Privacy Policy. The "LAST UPDATED" legend at the top of this Privacy Policy indicates when this Privacy Policy was last revised. Any changes will become effective when we post the revised Privacy Policy on the Services. Your use of the Services following these changes means that you accept the revised Privacy Policy.
+
+### CONTACTING US
+
+eBags, Inc., located at 5500 Greenwood Plaza Blvd, Suite 160, Greenwood Village, CO 80111 is the company responsible for collection, use and disclosure of your Personal Information. If you have any questions about this Privacy Policy, please contact us at [info@ebags.com](mailto:info@ebags.com), or Customer Care eBags, Inc., 5500 Greenwood Plaza Blvd., Suite 160 Greenwood Village, CO 80111. Because email communications are not always secure, please do not include credit card or other sensitive information in your emails to us.
