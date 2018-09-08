@@ -1,87 +1,124 @@
-> *The following text is extracted and transformed from the pitchbook.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623054440id_/http%3A//pitchbook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitchbook.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908040051id_/https%3A//pitchbook.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PitchBook
 
-PITCHBOOK DATA, INC.
+PitchBook Privacy Policy (Updated for GDPR May 2018)
 
-PRIVACY POLICY
+PitchBook Data, Inc., its affiliates and group companies, including its parent company, Morningstar, Inc., (collectively, "PitchBook") is committed to safeguarding your privacy.
 
-Effective Date: December 1, 2009
+This Privacy Policy outlines the types of information we collect from website visitors, clients, and other third parties through our website, located at <https://pitchbook.com/> ("Site").
 
-OUR COMMITMENT TO PRIVACY
+In this Policy we set out how we collect and use personal information gathered through the Site, with whom we might share it, the means by which we keep it secure, and the choices you ("You") have about the information You choose to share with us.
 
-PitchBook Data, Inc. ("We", "Us", "Our") provides online research and data services offering premium data, news and analysis on the private equity and venture capital industries. This privacy policy ("Policy") generally describes our use of personal information that is collected at our Web site at www.pitchbook.com ("Site"). Your privacy is very important to us and we are committed to protecting the privacy of personal information that you provide to us when using our Site.
+If You have any questions about the privacy practices of PitchBook or our Privacy Policy, please send an email to [support@pitchbook.com](mailto:support@pitchbook.com) in the first instance.
 
-YOUR USE OF OUR SITE OR YOUR PROVISION TO US OF ANY PERSONAL INFORMATION CONSTITUTES YOUR AGREEMENT TO THIS POLICY, SO PLEASE DO NOT USE THE SITE OR PROVIDE YOUR PERSONAL INFORMATION IF YOU DO NOT AGREE.
+Personal information we collect and what we use it for
 
-LINKS TO THIRD PARTY WEB SITES
+The types of personal information we collect depend on the purpose for which You provide it to us. We only collect what is necessary for the purposes set out below and we do not sell or rent Your personal information to any third parties.
 
-Our Site contains links to other Web sites operated by third parties. We are not responsible for the privacy practices or policies of such third party web sites and this Policy does not apply to those Web sites. We recommend that you review the privacy policy at each Web site to determine how that site protects your privacy.
+  * a) Clients/authorized users
 
-THE INFORMATION WE COLLECT
+In Your capacity as an authorized user or contact for our products and services, we collect limited personal information about You, such as Your name, email and in some cases phone number and physical address and other personal information You choose to enter in the profile section of the Site. We also collect Your IP Address and track Your information about Your use of our Site and its features. Additionally, in those instances where You are paying for a subscription service, we will collect credit card or payment details.
 
-We may collect information about your visit and use of the Site, including the pages you view, the links you click, the files you download, the search criteria used and other actions taken in connection with the Site.
+What we use it for
 
-Additionally, we may collect certain information that your browser sends to every website you visit, such as your IP address, operating system, geographic location, browser type and language, access times and referring Web site addresses.
+We use the personal information to administer and support the contracts/relationships we have with You and the authorised users of the products and services. We use this information to provide updates about these products and services, to deliver product support, to manage billing and other client inquiries and send You information about other products and services that may be of interest to You. 
 
-When you receive newsletters or promotional e-mail from PitchBook, we may use customized links or similar technologies to determine whether the e-mail has been opened and which links you click in order to provide you with e-mail communications or other information that are more targeted to your needs.
+  * b) Website visitors
 
-Our Site contains cookies and other tracking mechanisms to store your preferences and other information on your computer. Our use of cookies saves you time by eliminating the need to repeatedly enter the same information and displaying your personalized content and appropriate advertising on your later visits to the Site. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to sign in or use other interactive features of our Site that depend on cookies.
+If You are accessing the Site to learn more about PitchBook and our products and services, to inquire about employment with PitchBook, etc., the information we collect may include name, IP, physical and email addresses, and phone number(s) via an online registration/request form, as well as usage information about your use of the Site as well as Your use of any newsletters or other communication you agree to receive following your visit to the Site.
 
-In order to verify whether you are entitled to access and use certain materials, content and services available from our Site, or to enable us to enhance your Site visit, or to assist you with customer service or technical support issues, we may ask you to provide certain personal information.
+If You are an EU data subject, our Site provides you the opportunity to consent to our use of your Personal Information prior to submitting any personal information; PitchBook will only use your Personal Information if you consent to such use.
 
-For example, we request information from you when you:
+What we use it for
 
-  * Log on to our Site, where you may be prompted to provide us with your user name and password as a condition to gaining access to the Site.
-  * Register or sign up to receive instant e-mail alerts issued from our online databases.
-  * Subscribe to a newsletter or customized news feeds.
-  * Request a product demonstration.
-  * Submit a "Report a Deal" form.
-  * Request to see which information PitchBook has for you, your firm and your deals.
-  * Request general information by submitting a Contact Us form.
+We use the personal information (and any preferences indicated by You, where appropriate) to send You the investment data, tools and other information You have requested and, in some cases, to provide You on our Site with targeted third-party advertisements which may be of interest to You based on any preferences You have indicated in Your registration/request form.
 
 
 
-In each of the instances above, we typically ask for your name, e-mail address, phone number, mailing address, user name and password, as well as other similar personal information that is needed to register or subscribe you to our services. 
 
-HOW WE USE YOUR INFORMATION
+PitchBook suppliers
 
-We collect and use your personal information to analyze trends, track visitor traffic and interest, operate and improve the Site and deliver services or carry out the transactions you have requested. These uses may include providing you with more effective customer service; making the Site or services easier to use by eliminating the need for you to repeatedly enter the same information; performing research and analysis aimed at improving our products, services and technologies; and displaying content and advertising that are customized to your interests and preferences. 
+We collect limited personal information, such as name, email and in some cases Your IP address, phone number and postal business address from You as the contact for the supplier of the business products and services being provided to PitchBook.
 
-We may, from time to time, include advertisements on our Site and we may use certain information about you that we collect at our Site to determine which advertisements to display. To the extent we work with third parties to provide such advertisements, we may provide them with certain information about you that we collect at our Site so they can select and display the advertisements for us. 
+What we use it for
 
-We also use your personal information to communicate with you. We may send certain mandatory service communications such as welcome letters, billing reminders, information on technical service issues and security announcements. Certain PitchBook services may send periodic member letters that are considered part of the service. We may also occasionally send you product surveys or promotional mailings to inform you of other products or services available from PitchBook and its affiliates. We may also use your information to send you e-mail notifications, newsletters, news feeds, special offers or to otherwise contact you in connection with providing our services to you. 
+We use the personal information to administer and support the contracts we have with You or Your employer. We also use this information to contact You for purposes of dealing with support, billing and inquiries about Your products and services.
 
-Personal information collected on the Site may be stored and processed in the United States or any other country in which PitchBook or its affiliates, subsidiaries or agents maintain facilities, and by using the Site or a PitchBook service, you consent to any such transfer of information outside of your country. 
+Candidates
 
-We may also collect public and non-public information from you or third parties and combine it with information collected at the Site. 
+If You are accessing the Site to inquire about employment with PitchBook, the information we gather may include, but is not limited to: Your name, physical and email addresses, and phone number(s) and if you are submitting an employment application and related information through the Site, Your user name/password and any additional employment-related information that You choose to provide.
 
-SHARING OF YOUR PERSONAL INFORMATION
+What we use it for
 
-Except as described in this Policy, we will not disclose your personal information outside of PitchBook and its subsidiaries and affiliates without your consent. The Site may allow you to choose to share your personal information with select PitchBook partners so that they can contact you about their products, services or offers. Or, the Site may give you a choice as to whether you wish to receive communications from PitchBook on behalf of external business partners about a partner's particular offering (without transferring your personal information to the third party). 
+We use this information to process and managed Your application for employment with PitchBook.
 
-If we offer co-branded services in conjunction with another company and you register for or use such services, both PitchBook and the other company may receive information collected in conjunction with the co-branded services. 
+Links to other websites
 
-We occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of mailings, providing customer support, hosting websites, processing transactions, or performing statistical analysis of our services. Those companies will be permitted to obtain only the personal information they need to deliver the service. They are required to maintain the confidentiality of the information and are prohibited from using it for any other purpose. 
+PitchBook may provide links to one or more other websites from the Sites. We encourage You to read those websites' individual privacy policies before providing any of Your personal information to them. PitchBook is not responsible for those websites, their policies or practices.
 
-We may also transfer your information in connection with a merger, acquisition, consolidation, change of control, corporate divestiture or dissolution where we sell all or a portion of our business or assets (including our associated customer lists containing your personal information). We may access and / or disclose your personal information if we believe such action is necessary to: (a) comply with the law or legal process served on PitchBook; (b) protect and defend the rights or property of PitchBook (including the enforcement of our agreements); or (c) act in urgent circumstances to protect the personal safety of users of the Site or members of the public. 
+Personal information: How long do we keep it
 
-HOW TO OPT-OUT OF RECEIVING PROMOTIONAL EMAILS
+PitchBook retains personal information only for as long as necessary for the uses we have set out above. Individual jurisdictions have different tax, accounting, regulatory and legal retention requirements and PitchBook is bound to keep certain personal data in accordance with these local requirements.
 
-You can stop the delivery of future promotional e-mail from the Site by following the specific instructions in the e-mail you receive. 
+Personal information: How we store and process it
 
-OUR COMMITMENT TO DATA SECURITY
+All personal information we gather from You may be processed and stored in any one of our group company locations and may subsequently be transferred to other countries for further processing, storage, and/or use by either PitchBook or third parties, on PitchBook's behalf. Our staff who need to access personal information to perform their roles will have access to it and have agreed to comply with PitchBook's policies on data protection.
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place a variety of security technologies and procedures to help protect your personal information we collect through the Site. If we, an affiliate, or one of our service providers is required to disclose or provide notice to you of unauthorized access to or other invasions of certain security systems, you agree that we may provide you notice by either posting notice on our Site or sending notice to any e-mail address we have for you. 
+PitchBook uses a small number of third parties to provide services on its behalf. These services may include, but are not limited to, handling, processing and delivery of mailings, providing customer support, hosting websites, processing transactions, performing statistical analysis of our services, and providing systems and software for its administrative functions, such as sales processing, accounting/finance management and procurement. In such cases, PitchBook remains controller of the personal data, the third parties only process the data in accordance with our instructions and we are responsible for ensuring such third parties are compliant with all applicable data protection regulations in relation to their processing activities.
 
-ACCESSING YOUR PERSONAL INFORMATION
+PitchBook also utilizes servers from Rackspace, Google Cloud and Amazon Web Services (AWS) to host our platform and to store our data. According to their respective privacy policy, Rackspace, Google Cloud and AWS follow US-Swiss Safe Harbor, Privacy Shield, and ISO27001 certifications and policies, as well as additional security measures. PitchBook's data warehouses currently reside within the US and by using our platform You understand and agree that Your personal information may be stored or any or all Rackspace, Google Cloud and AWS servers. More information about AWS's compliance can be found on its [Compliance page](https://aws.amazon.com/compliance/), Google Cloud's Privacy Shield information is found on its [EU Data protection page](https://cloud.google.com/security/compliance/eu-data-protection/) and Rackspace's certifications can be found on its [Compliance](https://www.rackspace.com/en-us/security/global-enterprise) and Validation page.
 
-We may provide you the ability to view or edit your personal information online. In order to help prevent your personal information from being viewed by others, you will be required to sign in with your credentials (user name and password). 
+Protection of Your personal information
 
-HOW TO CONTACT US
+We have technical, security and organisational measures in place, (and require our service providers do so as well), reasonably designed to protect against unauthorized access to, or unauthorized alteration, disclosure, or destruction of personal information. The measures we use are appropriate to the nature, scope and purpose for which we use the personal data we collect. These measures include internal reviews of our data collection, storage, and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. We have recently updated our processes to ensure we can comply with data subject requests as required under applicable law, to address complaints and to comply with breach reporting procedures and incident management plans.
 
-If you would like to contact us for any reason regarding our privacy practices, please write us at the following address: ATTN: President, PitchBook Data, Inc., 901 Fifth Avenue, Suite 1200, Seattle, WA 98164 
+PitchBook operates secure data networks protected by industry-standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided.
 
-CHANGES TO THIS POLICY
+Further information on our security and incident management is available from [support@pitchbook.com](mailto:support@pitchbook.com).
 
-We will occasionally update this Policy to reflect changes in our services and customer feedback. When we post changes to this Policy, we will revise the "Effective Date" at the top of this Policy. If there are material changes to this Policy or in how we will use your personal information, we will notify you either by prominently posting a notice of such changes prior to implementing the change or by directly sending you a notification. We encourage you to periodically review this Policy to be informed of how PitchBook is protecting your information. 
+Use of cookies on the Site and in our products and services
+
+We use Cookies to set user preferences such as email and, if applicable password. This information allows us to personalize the user experience and improve the quality of Site navigation and the products and services we offer through it. Cookies do not reveal the identity of the individual user; they only identify the computer utilized by that user. Specific information about the cookies we use is available on the Site.
+
+How to update Your personal information or make a data subject request
+
+Clients /Suppliers
+
+If You need to update Your personal information or make a Data Subject Request (as described below), please email us at [support@pitchbook.com](mailto:support@pitchbook.com) and Your email will be directed to the correct PitchBook team to take action with respect to Your request.
+
+Website visitors
+
+If You need to update Your preferences or personal information or make a Data Subject Request, You need only email us at [support@pitchbook.com](mailto:support@pitchbook.com) or follow the instructions contained in any email we have sent to You to unsubscribe or change Your preferences.
+
+Candidates Data Subject Requests or Questions related to Your personal information submitted as an application for employment inquiries You've made or job applications You've submitted should be sent to: [support@pitchbook.com](mailto:support@pitchbook.com) and Your email will be directed to the correct PitchBook team to take action with respect to Your request.
+
+What about children's privacy?
+
+PitchBook does not separately identify, or collect, any information that is specific to children.
+
+What is a Data Subject Request?
+
+Some local regulations grant individuals in those localities certain rights in respect of the personal data held by companies, including but not limited to the right of an EU Data Subject to inquire about their personal information. Data Subject Requests include these types of inquiries.
+
+Your consent
+
+If You are submitting personal information from a US IP address, You consent to the collection and use of any personal information and any related information in the manner described in this Privacy Policy. If You are an EU data subject, and we don't already have the right to use your personal information – for example, to perform under a contract with You, our Site provides You the opportunity to consent to our use prior to submitting it. PitchBook will only use Your personal information if it is authorized to do so and that use will be consistent with this Privacy Policy.
+
+Changes to the Privacy Policy
+
+PitchBook reserves the right to change this Privacy Policy at any time by distributing and/or posting a new Privacy Policy without notice. We encourage You to review our Privacy Policy on a regular basis so that You will be aware of any changes to it. Persons subject to EU General Data Protection Regulations 2016/ 679 ("GDPR") PitchBook has updated its Privacy Policy to take account of GDPR and much of the information set out above is relevant to You as an EU data subject, but we are obliged to also provide You with local contact details of our Data Protection Officer. 
+
+If You are an EU data subject and have any questions or comments about the information contained in this Privacy Policy or any other privacy inquiries, including if You want to make a data subject request or complain about Morningstar's collection and use of Your personal data, please contact our Data Protection Officer for all EU PitchBook entities: 
+
+  * The Data Protection Officer (DPO)
+  * Morningstar UK Limited
+  * 1 Oliver's Yard
+  * 55-71 City Road
+  * EC1Y 1HQ - London
+  * Phone : (+44) 020 3107 0000
+  * Email: [privacyenquiries@morningstar.com](mailto:privacyenquiries@morningstar.com)
+
+
+
+If You are not satisfied with our handling of Your complaint You can complain to Your local Data Protection Authority via the links below.
