@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getcocoon.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509184339id_/https%3A//getcocoon.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getcocoon.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908021659id_/https%3A//getcocoon.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cocoon
 
