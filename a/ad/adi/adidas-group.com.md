@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adidas-group.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125030157id_/http%3A//www.adidas-group.com/en/service/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adidas-group.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908035559id_/https%3A//www.adidas-group.com/en/service/privacy-statement) for the most accurate reproduction.*
 
-# adidas Group - Privacy Statement
+# adidas - Privacy Statement
 
 ## 1\. Who is in charge of the protection of your Personal data
 
@@ -131,3 +131,9 @@ For further information on Bing Maps and their Privacy Policy please click on th
 If you have any questions about the processing of your personal details or about our privacy policy you are welcome to contact our Group Data Protection Officer, who is also available regarding requests for information, suggestions or complaints.
 
 We encourage all interested parties or affected people to tell us about any concerns they have or general complaints regarding adherence to this online privacy policy. For such notifications, please use the contact data below. We will investigate your case and make every effort to rectify any problems or discrepancies that exist regarding the use and disclosure of personal data and which do not comply with the principles of this privacy policy. The contact details are:
+
+Please note that queries not submitted in German or English will take longer to process due to the translating required.
+
+## 14\. CHANGES TO THIS POLICY
+
+adidas has pledged to adhere to the fundamental principles of Data Protection and considers this privacy policy as being binding in nature. We therefore regularly review our online privacy policy in order to ensure that it is free of errors and clearly visible on websites, that it contains all the required information and that it is implemented in full and is compliant with the Data Protection principles. This privacy policy may be changed from time to time in order to keep pace with new developments and opportunities relating to the Internet and to stay in line with prevailing legislation. Significant changes to the policy will be publicised on our websites along with an updated version of the online privacy policy.
