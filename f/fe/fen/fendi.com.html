@@ -1,0 +1,1136 @@
+<!--The following is the downloaded HTML source of the fendi.com privacy policy that was archived on 2018-09-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180908154758id_/https%3A//www.fendi.com/us/info/legal-area/cookie-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="no-js   new-menu" lang="en-US"><head>
+<script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PMWVG7"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQIGVFRQCxACXFNQAQcFUQ=="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script><meta content="IE=edge" http-equiv="X-UA-Compatible"><meta charset="utf-8"><meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport"><meta content="4ei9f-KVt8Ar_JwawR2913cYXxKebGw5DHwUlq-EAs8" name="google-site-verification"><meta content="i5M-hBjS2T40uGDlFIbqlvX1ro52BO3AKu3QHLqYXYA" name="google-site-verification"><title>Cookie Policy - Customers Information | Fendi </title><meta content="Please read about our policy of how we set Cookies to those that are visiting our site. You can read complete information on the Fendi website. " name="description"><meta content="1618054005144073" property="fb:app_id"><meta content="website" property="og:type"><meta content="en_US" property="og:locale"><meta content="Cookie Policy - Customers Information | Fendi " property="og:title"><meta content="https://www.fendi.com/us/info/legal-area/cookie-policy" property="og:url"><meta content="https://static.www.fendi.com/docroot/fendi/6.0.47/favicon/apple-touch-icon-180x180.png" property="og:image"><meta content="Please read about our policy of how we set Cookies to those that are visiting our site. You can read complete information on the Fendi website. " property="og:description"><meta content="Fendi Online Store" property="og:site_name"><meta content="summary" name="twitter:card"><meta content="https://www.fendi.com/us/info/legal-area/cookie-policy" name="twitter:site"><meta content="Cookie Policy - Customers Information | Fendi " name="twitter:title"><meta content="Please read about our policy of how we set Cookies to those that are visiting our site. You can read complete information on the Fendi website. " name="twitter:description"><meta content="https://static.www.fendi.com/docroot/fendi/6.0.47/favicon/apple-touch-icon-180x180.png" name="twitter:image"><meta content="@Fendi" name="twitter:creator">
+<!-- hreflang -->
+<link rel="alternate" hreflang="en-us" href="https://www.fendi.com/us/info/legal-area/cookie-policy">
+<meta content="Fendi" name="author"><meta content="no" name="msapplication-tap-highlight"><link href="https://static.www.fendi.com/docroot/fendi/6.0.47/stylesheets/style.css" rel="stylesheet"><script src="https://static.www.fendi.com/docroot/fendi/6.0.47/javascripts/ie-hacks.js">/***/</script><link href="https://static.www.fendi.com/docroot/fendi/6.0.47/favicons/apple-touch-icon-57x57.png" sizes="57x57" rel="apple-touch-icon"><link href="https://static.www.fendi.com/docroot/fendi/6.0.47/favicons/apple-touch-icon-60x60.png" sizes="60x60" rel="apple-touch-icon"><link href="https://static.www.fendi.com/docroot/fendi/6.0.47/favicons/apple-touch-icon-72x72.png" sizes="72x72" rel="apple-touch-icon"><link href="https://static.www.fendi.com/docroot/fendi/6.0.47/favicons/apple-touch-icon-76x76.png" sizes="76x76" rel="apple-touch-icon"><link href="https://static.www.fendi.com/docroot/fendi/6.0.47/favicons/apple-touch-icon-114x114.png" sizes="114x114" rel="apple-touch-icon"><link href="https://static.www.fendi.com/docroot/fendi/6.0.47/favicons/apple-touch-icon-120x120.png" sizes="120x120" rel="apple-touch-icon"><link href="https://static.www.fendi.com/docroot/fendi/6.0.47/favicons/apple-touch-icon-144x144.png" sizes="144x144" rel="apple-touch-icon"><link href="https://static.www.fendi.com/docroot/fendi/6.0.47/favicons/apple-touch-icon-152x152.png" sizes="152x152" rel="apple-touch-icon"><link href="https://static.www.fendi.com/docroot/fendi/6.0.47/favicons/apple-touch-icon-180x180.png" sizes="180x180" rel="apple-touch-icon"><link sizes="32x32" href="https://static.www.fendi.com/docroot/fendi/6.0.47/favicons/favicon-32x32.png" type="image/png" rel="icon"><link sizes="194x194" href="https://static.www.fendi.com/docroot/fendi/6.0.47/favicons/favicon-194x194.png" type="image/png" rel="icon"><link sizes="192x192" href="https://static.www.fendi.com/docroot/fendi/6.0.47/favicons/android-chrome-192x192.png" type="image/png" rel="icon"><link sizes="16x16" href="https://static.www.fendi.com/docroot/fendi/6.0.47/favicons/favicon-16x16.png" type="image/png" rel="icon"><link href="https://static.www.fendi.com/docroot/fendi/6.0.47/favicons/manifest.json" rel="manifest"><link color="#f9b949" href="https://static.www.fendi.com/docroot/fendi/6.0.47/favicons/safari-pinned-tab.svg" rel="mask-icon"><link href="https://static.www.fendi.com/docroot/fendi/6.0.47/favicons/favicon.ico" rel="shortcut icon"><meta content="#f9b949" name="msapplication-TileColor"><meta content="https://static.www.fendi.com/docroot/fendi/6.0.47/favicons/mstile-144x144.png" name="msapplication-TileImage"><meta content="https://static.www.fendi.com/docroot/fendi/6.0.47/favicons/browserconfig.xml" name="msapplication-config"><meta content="#F9B949" name="theme-color"><meta content="Fendi" name="application-name"><style type="text/css">
+@media only screen and (max-width: 767px) {
+    
+    .store-locator header.user-locator .search-for-country {
+      padding-bottom: 25px;
+    }
+    
+    .store-locator header.user-locator .locate-action .privacy {
+        position: absolute;
+        bottom: -27px;
+        right: 0;
+        display: block;
+        min-width: 100px; 
+        
+    }
+    
+     .store-locator header.user-locator .locate-action {
+      position: relative;
+    }
+        
+    
+    
+    .jw-stretch-fill .jw-preview {
+        background-size: contain !important;
+    }
+    
+    
+    .btn.video:before {
+        line-height: 40px !important;
+    }
+    
+    .banner-single:not(.no-img) figcaption .btn.video:before, .banner-single:not(.no-img) figcaption .video.vex-dialog-button:before {
+        margin-top: 0;
+    }
+    
+    .ios .vex-theme-full .vex-content {
+        height: 100%;
+    }
+    
+    .banner.hidden-xs {
+        display: block !important;
+    }
+
+
+}
+
+
+@media only screen and (min-width: 768px) {
+    
+    .store-locator header.user-locator .boutique-type h1 {
+      margin-bottom: 30px; 
+        
+    }
+    
+    .store-locator.details header.user-locator {
+      min-height: 128px;
+    }
+    
+    .store-locator header.user-locator .search-for-country h1 {
+       margin-bottom: 30px;
+    }
+        
+      .store-locator header.user-locator .search-for-country .locate-action {
+        top: -10px;
+     }
+      
+    
+    
+    .macro-category .banner .btn-primary.video:before {
+        color: #fff;
+    }
+    
+    
+}
+
+
+
+.editmode .fased-carousel .product-card, .editmode .fased-carousel .item {
+    opacity: 1 !important;
+}
+
+.editmode .fased-carousel .product-card picture:after {
+    padding-bottom: 40%;
+}
+
+.ipad .vex-theme-full .vex-content {
+    overflow: visible;
+}
+
+.store-locator header.user-locator .locate-action .privacy {
+    display: block;
+    margin: 5px 0;
+    text-align: right; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+</style></head><body data-edit-modules="" data-product-code="" data-rec-action="" data-language="en" data-nl-show="false" data-nl-link="/us/action/newsletter/subscribe" data-include="Header;MainMenu;GtmTracking;EngineRec;QuickBuy" data-controller="EditorialWithSidebar" class=" t-editorial-with-sidebar en_US    image-crop"><div data-notificationmessage-cookie="notification-message-us-0" data-notificationmessage-show="false" id="notification-message" class="notification-message "><div class="container-fluid">
+
+      
+      <button data-notificationmessage-target="#notification-message" aria-label="Close" class="ico close"><span>Close</span></button></div></div>
+<script>
+  (function(){
+
+    var ecommerce = undefined;
+    var products = [];
+
+  window.dataLayer = [
+    {
+      "userId": ""
+      ,"userType": "GUEST"
+      ,"ambiente": "PROD"
+      ,"template": "t-editorial-with-sidebar"
+      ,"selectedLang": "en_US"
+  
+      ,"pageName": "|Cookie Policy"
+    
+    ,breadcrumbLiv0: 'us'
+  
+          ,breadcrumbLiv1: 'info'
+        
+          ,breadcrumbLiv2: 'legal-area'
+        
+    ,"ecommerce": ecommerce }];
+  })();
+</script>
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PMWVG7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PMWVG7');</script>
+<!-- End Google Tag Manager -->
+
+<div class="site"><a title="Jump to main content" aria-label="Jump to main content" tabindex="0" class="skip-navigation sr-only" href="#wrapper">Jump to main content</a><header role="presentation" class="main"><hr class="fendi-land-divider top"><div class="container-fluid"><div class="lower-bar"><div data-backdrop=".dark-backdrop" data-menu-html-class="hamburger-open" data-menu="nav.main" class="nav-toggler"><i class="icon-menu"></i></div><div class="site-utils"><a data-popover-hideloading="true" aria-label="Nearest stores" data-popover-target="#boutique-nearest" href="/us/store-locator" class="ico store-locator-link"><i class="iconfendi-pin"></i><span class="text">Nearest stores</span></a><button aria-label="Phone number:" data-popover-target="#telephone-information" class="ico"><i class="iconfendi-telephone"></i><span class="text">Phone number:</span></button><button class="active" aria-expanded="true" data-modal="/us/action/shipping-to" data-toggle="modal">
+    Shipping to: United States
+  </button><div class="dropdown"><button data-toggle-html-class="hamburger-open" data-popover-skip-hover="true" aria-expanded="false" aria-label="Change Language: English" data-popover-target="#language">
+            English 
+          </button><div role="dialog" aria-hidden="true" class="popover" id="language"><ul><li><a href="/?lang=es">Español</a></li></ul></div></div></div><div class="logo"><a aria-label="Fendi Home Page" href="/us/"><img alt="Fendi Roma" srcset="https://static.www.fendi.com/docroot/fendi/6.0.47/images/logo-xs.png 2x" class="hidden-md hidden-lg hidden-print"><img alt="Fendi Roma" srcset="https://static.www.fendi.com/docroot/fendi/6.0.47/images/logo.png 2x" class="print-only"></a></div><div class="user-utils"><a tabindex="0" data-popover-skip-hover="true" data-popover-target="#login-register" data-toggle-html-class="hamburger-open" aria-label="Log in/Register" class="login">Log in/Register
+        </a><button data-toggle-html-class="hamburger-open" data-popover-skip-hover="true" data-popover-target="#login-register" aria-label="Log in/Register" class="ico visible-sm-inline visible-xs-inline"><i class="iconfendi-user"></i><span class="text">Log in/Register</span></button><button data-popover-focus="input[type='search']" data-popover-skip-hover="true" data-toggle-html-class="hamburger-open" data-popover-hideloading="true" data-popover-target="#search-bar" aria-label="Search" class="ico" id="js-search-btn"><i class="iconfendi-search"></i><span class="text">Search</span></button><a data-wishlist-arialabel="Wishlist" href="/us/wishlist" aria-label="Wishlist: 0 item" class="ico wishlist js-miniwishlist-link"><i class="iconfendi-wishlist"></i><span class="count js-wishlist-items-counter"></span><span class="text">Wishlist</span></a><button data-minicart-arialabel="Shopping Bag" data-tab="#minicart-content" data-backdrop=".dark-backdrop" data-menu="#minicart" data-menu-html-class="hamburger-open minicart-in" aria-label="Shopping Bag: 0 item" class="ico bag js-minicart-link"><i class="iconfendi-bag"></i><span class="count js-cart-items-counter"></span><span class="text">Shopping Bag</span></button></div><div data-remote="/us/action/modals/nearest-boutique" id="boutique-nearest" aria-hidden="true" class="popover"></div><div aria-hidden="true" id="telephone-information" class="popover"><i class="ico iconfendi-telephone"></i><span>Customer Care</span><h4>
+        Contact us by phone at +1 646-952-8399
+    </h4><p>We're happy to help with any questions you may have regarding our products, orders or corporate information.</p><a class="more-info" href="/us/info/customer-care/contact-us">More info</a></div><div class="popover full" id="login-register" aria-hidden="true" role="dialog" data-remote="/us/action/modals/auth?targeturl=%2Fus%2Finfo%2Flegal-area%2Fcookie-policy" data-remote-callback="App.Pages.Header.buildCarousel()"></div><div class="popover full" id="search-bar" aria-hidden="true" role="dialog" data-remote="/us/search-results?bar=true"></div><div class="popover full" id="countries" aria-hidden="true" role="dialog" data-remote="/us/action/modals/country-selector"></div><div class="popover full" id="language-xs" aria-hidden="true" role="dialog" data-remote="/us/action/modals/languages-selector"></div></div></div></header><nav data-menu-scroll=".wrapper > section" class="main"><div class="wrapper"><header aria-hidden="true" class="visible-xs visible-sm"><ul class="first-level"><li><a href="tel:+1 646-952-8399" class="phone"><i class="iconfendi-telephone"></i>
+              +1 646-952-8399
+            </a></li></ul></header><section class="" role="navigation"><ul data-mainmenu-items="> li" data-mainmenu="" class="first-level expandable-sm expandable-xs" role="menu"><li data-mainmenu-lg-target="#woman-popover" data-mainmenu-md-target="#woman-popover" aria-haspopup="true" role="menuitem" class=""><a href="/us/woman" class=" main " target="_self" aria-selected="false" data-title-en="1000 - Woman" role="menuitemradio" data-expandable-modal="true" data-level="level 1">
+                  Woman
+                </a><div id="woman-popover" class="subnavigator popover "><span aria-hidden="true" class="arrow-menu"></span><a href="/us/woman" class="subhome " target="_self" data-label-id="Discover More" aria-hidden="true">
+                      Discover More
+                    </a><div class="subcategories"><div class="group 0"><div class="exp  "><h4 style=""><a data-expandable-context=".exp" data-expandable-target="#uuid-09a2d54b-2826-4429-9570-7970e692c16a" data-expandable-modal="true" href="/us/woman/new-arrivals">Featured</a></h4><div class="wrapper-nav-img"><img title="" alt="" src="https://static.www.fendi.com/mediaObject/fendi/woman/me_and_my_peekaboo_project/original/mustsee_woman.png" class="lazyload"></div>
+
+      <ul id="uuid-09a2d54b-2826-4429-9570-7970e692c16a" role="menu" class="expandable-sm expandable-xs  "><li role="menuitem" class=" item-link-for-mobile"><a href="/us/woman/new-arrivals">View all</a></li>
+            <li role="menuitem" class=" 0 "><a href="/us/woman/new-arrivals" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  New in
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/must-see/me-and-my-peekaboo" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Me And My Peekaboo
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/must-see/fancy-fendi" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Fancy Fendi
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/must-see/ff-reloaded" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  FF Reloaded
+                </a></li>
+          </ul>
+      
+    </div></div><div class="group 0"><div class="exp  "><h4 style=""><a data-expandable-context=".exp" data-expandable-target="#uuid-98815371-3eb2-48c4-af44-b6c8f1eb9965" data-expandable-modal="true" href="/us/woman/bags">Bags</a></h4><div class="wrapper-nav-img"></div>
+
+      <ul id="uuid-98815371-3eb2-48c4-af44-b6c8f1eb9965" role="menu" class="expandable-sm expandable-xs  "><li role="menuitem" class=" item-link-for-mobile"><a href="/us/woman/bags">View all</a></li>
+            <li role="menuitem" class=" 0 "><a href="/us/woman/bags/peekaboo" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Peekaboo
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/bags/exotic-bags" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Exotic Bags
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/bags/top-handles-and-totes" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Top Handles &amp; Totes
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/bags/boston-bags" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Boston Bags
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/bags/shoulder-bags" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Shoulder bags
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/bags/mini-bags-and-belt-bags" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Mini Bags &amp; Belt Bags
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/bags/clutches" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Clutches
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/bags/backpacks" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Backpacks
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/bag-accessories" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Bag Accessories
+                </a></li>
+          </ul>
+      
+    </div></div><div class="group 0"><div class="exp  "><h4 style=""><a data-expandable-context=".exp" data-expandable-target="#uuid-da3ba37e-d297-4ecd-82e0-f0beaf794986" data-expandable-modal="true" href="/us/woman/ready-to-wear">Ready to wear</a></h4><div class="wrapper-nav-img"></div>
+
+      <ul id="uuid-da3ba37e-d297-4ecd-82e0-f0beaf794986" role="menu" class="expandable-sm expandable-xs  "><li role="menuitem" class=" item-link-for-mobile"><a href="/us/woman/ready-to-wear">View all</a></li>
+            <li role="menuitem" class=" 0 "><a href="/us/woman/ready-to-wear/coats-and-jackets" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Coats &amp; Jackets
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/ready-to-wear/dresses" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Dresses
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/ready-to-wear/tops-and-shirts" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Tops &amp; Shirts
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/ready-to-wear/knitwears" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Knitwears
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/ready-to-wear/skirts-and-trousers" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Skirts &amp; Trousers
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/ready-to-wear/t-shirts-and-sweatshirts" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  T-shirts &amp; Sweatshirts
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/ready-to-wear/activewear" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Activewear
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/ready-to-wear/beachwear" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Beachwear
+                </a></li>
+          </ul>
+      
+    </div></div><div class="group 0"><div class="exp  "><h4 style=""><a data-expandable-context=".exp" data-expandable-target="#uuid-831dc671-9202-4b4d-afc5-71df4ec40756" data-expandable-modal="true" href="/us/woman/shoes">Shoes</a></h4><div class="wrapper-nav-img"></div>
+
+      <ul id="uuid-831dc671-9202-4b4d-afc5-71df4ec40756" role="menu" class="expandable-sm expandable-xs  "><li role="menuitem" class=" item-link-for-mobile"><a href="/us/woman/shoes">View all</a></li>
+            <li role="menuitem" class=" 0 "><a href="/us/woman/shoes/pumps" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Pumps
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/shoes/boots-and-booties" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Boots &amp; Booties
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/shoes/sandals-and-slides" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Sandals &amp; Slides
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/shoes/flat-shoes" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Flat Shoes
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/shoes/slingback-shoes" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Slingback Shoes
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/shoes/sneakers" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Sneakers
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/shoes/socks-and-tights" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Socks &amp; Tights
+                </a></li>
+          </ul>
+      
+    </div></div><div class="group 0"><div class="exp  "><h4 style=""><a data-expandable-context=".exp" data-expandable-target="#uuid-87a66fc3-4ece-47a8-a8e2-9c498038637b" data-expandable-modal="true" href="">Accessories</a></h4><div class="wrapper-nav-img"></div>
+
+      <ul id="uuid-87a66fc3-4ece-47a8-a8e2-9c498038637b" role="menu" class="expandable-sm expandable-xs  ">
+            <li role="menuitem" class=" hidden-xs hidden-sm "><a href="/us/woman/wallets-and-small-accessories" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Wallets and Small Accessories
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/belts" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Belts
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/bag-accessories" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Bag Accessories
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/sunglasses" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Sunglasses
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/timepieces/categories/women-watches" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Watches
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/fashion-jewelry" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Fashion Jewelry
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/textile-accessories" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Textile Accessories
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/books" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Books
+                </a></li>
+          </ul>
+      
+    </div></div><div class="group 0"><div class="exp  "><h4 style=""><a data-expandable-context=".exp" data-expandable-target="#uuid-6596a369-0dba-440e-b3f5-d4c697a413ad" data-expandable-modal="true" href="">Collections</a></h4><div class="wrapper-nav-img"></div>
+
+      <ul id="uuid-6596a369-0dba-440e-b3f5-d4c697a413ad" role="menu" class="expandable-sm expandable-xs  ">
+            <li role="menuitem" class=" 0 "><a href="/us/woman/collections/pre-fall-2018" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Pre Fall 2018
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/collections/fall-winter-2018-19" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Fall/Winter 2018-19
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/collections/fur-collection" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Fur Catalogue
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/collections/fendi-couture" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Fendi Couture Fall/Winter 2018-19
+                </a></li>
+          </ul>
+      
+    </div></div><div class="group hidden-md hidden-lg"><div class="exp  "><h4 style=""><a data-expandable-context=".exp" data-expandable-target="#uuid-3b135f20-2970-4aaa-a40f-449e056d8e1a" data-expandable-modal="true" href="/us/woman/wallets-and-small-accessories">Wallets &amp; Small Accessories</a></h4><div class="wrapper-nav-img"></div>
+
+      <ul id="uuid-3b135f20-2970-4aaa-a40f-449e056d8e1a" role="menu" class="expandable-sm expandable-xs  "><li role="menuitem" class=" item-link-for-mobile"><a href="/us/woman/wallets-and-small-accessories">View all</a></li>
+            <li role="menuitem" class=" 0 "><a href="/us/woman/wallets-and-small-accessories/zip-around-wallets" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Zip Around Wallets
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/wallets-and-small-accessories/continental-wallets" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Continental Wallets
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/wallets-and-small-accessories/compact-wallets" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Compact Wallets
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/wallets-and-small-accessories/coin-and-card-cases" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Coin &amp; Card Cases
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/wallets-and-small-accessories/keyrings" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Keyrings
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/wallets-and-small-accessories/phone-cases" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Phone Cases
+                </a></li>
+          </ul>
+      
+    </div></div></div></div></li><li data-mainmenu-lg-target="#man-popover" data-mainmenu-md-target="#man-popover" aria-haspopup="true" role="menuitem" class=""><a href="/us/man" class=" main " target="_self" aria-selected="false" data-title-en="2000 - Man" role="menuitemradio" data-expandable-modal="true" data-level="level 1">
+                  Man
+                </a><div id="man-popover" class="subnavigator popover "><span aria-hidden="true" class="arrow-menu"></span><a href="/us/man" class="subhome " target="_self" data-label-id="Discover More" aria-hidden="true">
+                      Discover More
+                    </a><div class="subcategories"><div class="group 0"><div class="exp  "><h4 style=""><a data-expandable-context=".exp" data-expandable-target="#uuid-4820e55f-d816-4dbe-be6c-c8bbe0986ed8" data-expandable-modal="true" href="/us/man/new-arrivals">Featured</a></h4><div class="wrapper-nav-img"><img title="" alt="" src="https://static.www.fendi.com/mediaObject/fendi/man/men_super_bugs_collection/original/men_super_bugs_collection.png" class="lazyload"></div>
+
+      <ul id="uuid-4820e55f-d816-4dbe-be6c-c8bbe0986ed8" role="menu" class="expandable-sm expandable-xs  "><li role="menuitem" class=" item-link-for-mobile"><a href="/us/man/new-arrivals">View all</a></li>
+            <li role="menuitem" class=" 0 "><a href="/us/man/new-arrivals" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  New in
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/woman/must-see/fancy-fendi" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Fancy Fendi
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/man/must-see/fendi-superbugs" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Fendi SuperBugs
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/man/must-see/selleria" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Selleria
+                </a></li>
+          </ul>
+      
+    </div></div><div class="group 0"><div class="exp  "><h4 style=""><a data-expandable-context=".exp" data-expandable-target="#uuid-4edea493-c797-44d5-891f-305795e67fe7" data-expandable-modal="true" href="/us/man/bags">Bags</a></h4><div class="wrapper-nav-img"></div>
+
+      <ul id="uuid-4edea493-c797-44d5-891f-305795e67fe7" role="menu" class="expandable-sm expandable-xs  "><li role="menuitem" class=" item-link-for-mobile"><a href="/us/man/bags">View all</a></li>
+            <li role="menuitem" class=" 0 "><a href="/us/man/bags/peekaboo" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Peekaboo
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/man/bags/briefcases" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Briefcases
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/man/bags/backpacks" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Backpacks
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/man/bags/messenger-bags" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Messenger Bags
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/man/bags/belt-bags-and-pouches" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Belt Bags &amp; Pouches
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/man/bags/totes" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Totes
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/man/bags/travel-bags" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Travel Bags
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/man/bag-accessories" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Bag Accessories
+                </a></li>
+          </ul>
+      
+    </div></div><div class="group 0"><div class="exp  "><h4 style=""><a data-expandable-context=".exp" data-expandable-target="#uuid-aa3c1f91-b1d7-43d3-b35f-7b1b3c7cb97f" data-expandable-modal="true" href="/us/man/ready-to-wear">Ready to wear</a></h4><div class="wrapper-nav-img"></div>
+
+      <ul id="uuid-aa3c1f91-b1d7-43d3-b35f-7b1b3c7cb97f" role="menu" class="expandable-sm expandable-xs  "><li role="menuitem" class=" item-link-for-mobile"><a href="/us/man/ready-to-wear">View all</a></li>
+            <li role="menuitem" class=" 0 "><a href="/us/man/ready-to-wear/coats-and-jackets" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Coats &amp; Jackets
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/man/ready-to-wear/shirts" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Shirts
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/man/ready-to-wear/t-shirts-and-polos" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  T-shirts &amp; Polos
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/man/ready-to-wear/knitwears" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Knitwears
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/man/ready-to-wear/sweatshirts" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Sweatshirts
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/man/ready-to-wear/denim-and-trousers" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Denim &amp; Trousers
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/man/ready-to-wear/activewear" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Activewear
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/man/ready-to-wear/beachwear" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Beachwear
+                </a></li>
+          </ul>
+      
+    </div></div><div class="group 0"><div class="exp  "><h4 style=""><a data-expandable-context=".exp" data-expandable-target="#uuid-68260af1-a6d0-4d19-b4ba-99989220fff4" data-expandable-modal="true" href="/us/man/shoes">Shoes</a></h4><div class="wrapper-nav-img"></div>
+
+      <ul id="uuid-68260af1-a6d0-4d19-b4ba-99989220fff4" role="menu" class="expandable-sm expandable-xs  "><li role="menuitem" class=" item-link-for-mobile"><a href="/us/man/shoes">View all</a></li>
+            <li role="menuitem" class=" 0 "><a href="/us/man/shoes/sneakers" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Sneakers
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/man/shoes/sandals-and-slides" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Sandals &amp; Slides
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/man/shoes/loafers-and-slippers" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Loafers &amp; Slippers
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/man/shoes/lace-ups-and-boots" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Lace Ups &amp; Boots
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/man/shoes/socks" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Socks
+                </a></li>
+          </ul>
+      
+    </div></div><div class="group hidden-md hidden-lg"><div class="exp  "><h4 style=""><a data-expandable-context=".exp" data-expandable-target="#uuid-7bb0c0b8-7a85-4399-9994-e7ad5348bb07" data-expandable-modal="true" href="/us/man/wallets-and-small-accessories">Wallets &amp; Small Accessories</a></h4><div class="wrapper-nav-img"></div>
+
+      <ul id="uuid-7bb0c0b8-7a85-4399-9994-e7ad5348bb07" role="menu" class="expandable-sm expandable-xs  "><li role="menuitem" class=" item-link-for-mobile"><a href="/us/man/wallets-and-small-accessories">View all</a></li>
+            <li role="menuitem" class=" 0 "><a href="/us/man/wallets-and-small-accessories/zip-around-wallets" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Zip Around Wallets
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/man/wallets-and-small-accessories/billfold-wallets" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Billfold Wallets
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/man/wallets-and-small-accessories/continental-wallets" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Continental Wallets
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/man/wallets-and-small-accessories/coin-and-card-cases" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Coin &amp; Card Cases
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/man/wallets-and-small-accessories/phone-cases" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Phone Cases
+                </a></li>
+          </ul>
+      
+    </div></div><div class="group 0"><div class="exp  "><h4 style=""><a data-expandable-context=".exp" data-expandable-target="#uuid-371a14dd-a654-45a0-8c2a-83001a7a127e" data-expandable-modal="true" href="/us/man">Accessories</a></h4><div class="wrapper-nav-img"></div>
+
+      <ul id="uuid-371a14dd-a654-45a0-8c2a-83001a7a127e" role="menu" class="expandable-sm expandable-xs  "><li role="menuitem" class=" item-link-for-mobile"><a href="/us/man">View all</a></li>
+            <li role="menuitem" class=" hidden-xs hidden-sm "><a href="/us/man/wallets-and-small-accessories" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Wallets and Small Accessories
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/man/belts" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Belts
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/man/bag-accessories" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Bag Accessories
+                </a></li><li role="menuitem" class=" hidden-xs "><a href="/us/man/sunglasses" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Sunglasses
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/timepieces/categories/men-watches" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Watches
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/man/fashion-jewelry" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Fashion Jewelry
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/man/textile-accessories" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Textile Accessories
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/man/books" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Books
+                </a></li>
+          </ul>
+      
+    </div></div><div class="group 0"><div class="exp  "><h4 style=""><a data-expandable-context=".exp" data-expandable-target="#uuid-1f07272b-5b86-478c-b989-ea803a80664f" data-expandable-modal="true" href="">Collections</a></h4><div class="wrapper-nav-img"></div>
+
+      <ul id="uuid-1f07272b-5b86-478c-b989-ea803a80664f" role="menu" class="expandable-sm expandable-xs  ">
+            <li role="menuitem" class=" 0 "><a href="/us/man/collections/fall-winter-2018-19" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Fall/Winter 2018-19
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/man/collections/spring-summer-2019" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Spring/Summer 2019
+                </a></li>
+          </ul>
+      
+    </div></div></div></div></li><li data-mainmenu-lg-target="#kids-popover" data-mainmenu-md-target="#kids-popover" aria-haspopup="true" role="menuitem" class=""><a href="/us/kids" class=" main " target="_self" aria-selected="false" data-title-en="4000 - KIDS" role="menuitemradio" data-expandable-modal="true" data-level="level 1">
+                  KIDS
+                </a><div id="kids-popover" class="subnavigator popover "><span aria-hidden="true" class="arrow-menu"></span><a href="/us/kids" class="subhome " target="_self" data-label-id="Discover More" aria-hidden="true">
+                      Discover More
+                    </a><div class="subcategories"><div class="group 0"><div class="exp  "><h4 style=""><a data-expandable-context=".exp" data-expandable-target="#uuid-7d3395bb-7960-40cb-b220-8b70c5dbd6f7" data-expandable-modal="true" href="/us/kids/featured/new-arrivals">Featured</a></h4><div class="wrapper-nav-img"><img title="" alt="" src="" class="lazyload"></div>
+
+      <ul id="uuid-7d3395bb-7960-40cb-b220-8b70c5dbd6f7" role="menu" class="expandable-sm expandable-xs  "><li role="menuitem" class=" item-link-for-mobile"><a href="/us/kids/featured/new-arrivals">View all</a></li>
+            <li role="menuitem" class=" 0 "><a href="/us/kids/featured/new-arrivals" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  New Arrivals
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/gift-ideas/categories/kid-s-gifts" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Gifts
+                </a></li>
+          </ul>
+      
+    </div></div><div class="group 0"><div class="exp  "><h4 style=""><a data-expandable-context=".exp" data-expandable-target="#uuid-14f70cfa-baf2-4c11-9513-0a6cb6b10e5c" data-expandable-modal="true" href="">Baby</a></h4><div class="wrapper-nav-img"></div>
+
+      <ul id="uuid-14f70cfa-baf2-4c11-9513-0a6cb6b10e5c" role="menu" class="expandable-sm expandable-xs  ">
+            <li role="menuitem" class=" 0 "><a href="/us/kids/baby" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Clothing
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/kids/baby/shoes" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Shoes
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/kids/baby/accessories" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Accessories
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/kids/baby/Strollers-and-Accessories" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Strollers &amp; Bags
+                </a></li>
+          </ul>
+      
+    </div></div><div class="group 0"><div class="exp  "><h4 style=""><a data-expandable-context=".exp" data-expandable-target="#uuid-0a79ded7-dfbc-45da-867f-f2d179667be9" data-expandable-modal="true" href="">Girls</a></h4><div class="wrapper-nav-img"></div>
+
+      <ul id="uuid-0a79ded7-dfbc-45da-867f-f2d179667be9" role="menu" class="expandable-sm expandable-xs  ">
+            <li role="menuitem" class=" 0 "><a href="/us/kids/junior-girls/ready-to-wear" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Clothing
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/kids/junior-girls/shoes" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Shoes
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/kids/junior-girls/accessories" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Accessories
+                </a></li>
+          </ul>
+      
+    </div></div><div class="group 0"><div class="exp  "><h4 style=""><a data-expandable-context=".exp" data-expandable-target="#uuid-9182ada4-c1e3-4b6b-a8fa-6e3638a3626f" data-expandable-modal="true" href="/us/kids/junior-boys">Boys</a></h4><div class="wrapper-nav-img"></div>
+
+      <ul id="uuid-9182ada4-c1e3-4b6b-a8fa-6e3638a3626f" role="menu" class="expandable-sm expandable-xs  "><li role="menuitem" class=" item-link-for-mobile"><a href="/us/kids/junior-boys">View all</a></li>
+            <li role="menuitem" class=" 0 "><a href="/us/kids/junior-boys/ready-to-wear" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Clothing
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/kids/junior-boys/shoes" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Shoes
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/kids/junior-boys/accessories" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Accessories
+                </a></li>
+          </ul>
+      
+    </div></div><div class="group 0"><div class="exp  "><h4 style=""><a data-expandable-context=".exp" data-expandable-target="#uuid-7009a72d-c2bb-4291-a7e5-fcb1402297ae" data-expandable-modal="true" href="">Collections</a></h4><div class="wrapper-nav-img"></div>
+
+      <ul id="uuid-7009a72d-c2bb-4291-a7e5-fcb1402297ae" role="menu" class="expandable-sm expandable-xs  ">
+            <li role="menuitem" class=" 0 "><a href="/us/kids/junior-boys/shop-by-look" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Junior Boys
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/kids/junior-girls/shop-by-look" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Junior Girls
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/kids/baby/shop-by-Look" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Baby
+                </a></li>
+          </ul>
+      
+    </div></div></div></div></li><li data-mainmenu-lg-target="#gift-ideas-popover" data-mainmenu-md-target="#gift-ideas-popover" aria-haspopup="true" role="menuitem" class=""><a href="/us/gift-ideas" class=" main " target="_self" aria-selected="false" data-title-en="gift-ideas" role="menuitemradio" data-expandable-modal="true" data-level="level 1">
+                  Gift Ideas
+                </a><div id="gift-ideas-popover" class="subnavigator popover "><span aria-hidden="true" class="arrow-menu"></span><a href="/us/gift-ideas" class="subhome " target="_self" data-label-id="Discover More" aria-hidden="true">
+                      Discover More
+                    </a><div class="subcategories"><div class="group 0"><div class="exp  "><h4 style=""><a data-expandable-context=".exp" data-expandable-target="#uuid-9bb99b73-75f3-41c8-9d9b-c56801ed4c75" data-expandable-modal="true" href="">Women's Gifts</a></h4><div class="wrapper-nav-img"><img title="" alt="" src="https://static.www.fendi.com/mediaObject/fendi/homepage/updates/update_26_04/bag-woman-menu/original/bag-woman-menu.jpg" class="lazyload"></div>
+
+      <ul id="uuid-9bb99b73-75f3-41c8-9d9b-c56801ed4c75" role="menu" class="expandable-sm expandable-xs  ">
+            <li role="menuitem" class=" 0 "><a href="/us/gift-ideas/categories/women-s-gifts" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  View all
+                </a></li>
+          </ul>
+      
+    </div></div><div class="group 0"><div class="exp  "><h4 style=""><a data-expandable-context=".exp" data-expandable-target="#uuid-55ce22c3-e203-4f72-8b77-f36e4383086e" data-expandable-modal="true" href="">Men's Gifts</a></h4><div class="wrapper-nav-img"><img title="" alt="" src="https://static.www.fendi.com/mediaObject/fendi/homepage/updates/07-03-18/bag-man-menu/original/bag-man-menu.jpg" class="lazyload"></div>
+
+      <ul id="uuid-55ce22c3-e203-4f72-8b77-f36e4383086e" role="menu" class="expandable-sm expandable-xs  ">
+            <li role="menuitem" class=" 0 "><a href="/us/gift-ideas/categories/men-s-gifts" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  View all
+                </a></li>
+          </ul>
+      
+    </div></div><div class="group 0"><div class="exp  "><h4 style=""><a data-expandable-context=".exp" data-expandable-target="#uuid-75ca0065-033f-4661-8a45-372caa713d6d" data-expandable-modal="true" href="">Kid's Gifts</a></h4><div class="wrapper-nav-img"><img title="" alt="" src="https://static.www.fendi.com/mediaObject/fendi/homepage/updates/update_26_04/kids-menu/original/kids-menu.jpg" class="lazyload"></div>
+
+      <ul id="uuid-75ca0065-033f-4661-8a45-372caa713d6d" role="menu" class="expandable-sm expandable-xs  ">
+            <li role="menuitem" class=" 0 "><a href="/us/gift-ideas/categories/kid-s-gifts" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  View all
+                </a></li>
+          </ul>
+      
+    </div></div></div></div></li><li data-mainmenu-lg-target="#timepieces-popover" data-mainmenu-md-target="#timepieces-popover" aria-haspopup="true" role="menuitem" class=""><a href="/us/timepieces" class=" main " target="_self" aria-selected="false" data-title-en="3000 - Timepieces" role="menuitemradio" data-expandable-modal="true" data-level="level 1">
+                  Watches
+                </a><div id="timepieces-popover" class="subnavigator popover "><span aria-hidden="true" class="arrow-menu"></span><a href="/us/timepieces" class="subhome " target="_self" data-label-id="Discover More" aria-hidden="true">
+                      Discover More
+                    </a><div class="subcategories"><div class="group 0"><div class="exp  "><h4 style=""><a data-expandable-context=".exp" data-expandable-target="#uuid-426aaa56-bcc8-4496-a517-4d5534ce739a" data-expandable-modal="true" href="">Categories</a></h4><div class="wrapper-nav-img"></div>
+
+      <ul id="uuid-426aaa56-bcc8-4496-a517-4d5534ce739a" role="menu" class="expandable-sm expandable-xs  ">
+            <li role="menuitem" class=" 0 "><a href="/us/timepieces/categories/women-watches" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Women's Watches
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/timepieces/categories/men-watches" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Men's Watches
+                </a></li>
+          </ul>
+      
+    </div></div><div class="group 0"><div class="exp  "><h4 style=""><a data-expandable-context=".exp" data-expandable-target="#uuid-1c30fc87-32eb-498d-beab-94d74caa1f2d" data-expandable-modal="true" href="">Collection</a></h4><div class="wrapper-nav-img"></div>
+
+      <ul id="uuid-1c30fc87-32eb-498d-beab-94d74caa1f2d" role="menu" class="expandable-sm expandable-xs  ">
+            <li role="menuitem" class=" 0 "><a href="/us/timepieces/collections/policromia" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Policromia
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/timepieces/collections/Fendi-IShine" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Fendi IShine
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/timepieces/collections/selleria" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Selleria
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/timepieces/collections/selleria-straps" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Selleria Straps
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/timepieces/collections/fendi-my-way" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Fendi My Way
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/timepieces/collections/run-away" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Run Away
+                </a></li>
+          </ul>
+      
+    </div></div><div class="group 0"><div class="exp  "><h4 style=""><a data-expandable-context=".exp" data-expandable-target="#uuid-ed5d526b-645c-4ed6-b045-f67989cff628" data-expandable-modal="true" href="">Service</a></h4><div class="wrapper-nav-img"></div>
+
+      <ul id="uuid-ed5d526b-645c-4ed6-b045-f67989cff628" role="menu" class="expandable-sm expandable-xs  ">
+            <li role="menuitem" class=" 0 "><a href="/us/timepieces/service/store-locator" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Store Locator
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/timepieces/service/cervice-centers" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Service Centers
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/timepieces/service/instructions-manual" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Instruction Manual
+                </a></li>
+          </ul>
+      
+    </div></div><div class="group 0"><div class="exp  "><h4 style=""><a data-expandable-context=".exp" data-expandable-target="#uuid-5641fe6a-bfed-4512-8b9c-f27c76fc1dc8" data-expandable-modal="true" href="/us/timepieces/collections/policromia">Policromia</a></h4><div class="wrapper-nav-img"><img title="" alt="" src="https://static.www.fendi.com/mediaObject/fendi/timepieces/policromia_menu/original/policromia_menu.jpg" class="lazyload"></div>
+
+      <ul id="uuid-5641fe6a-bfed-4512-8b9c-f27c76fc1dc8" role="menu" class="expandable-sm expandable-xs  "><li role="menuitem" class=" item-link-for-mobile"><a href="/us/timepieces/collections/policromia">View all</a></li>
+            <li role="menuitem" class=" 0 "><a href="/us/timepieces/collections/policromia" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Discover the Collection
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/timepieces/featured/made-to-order-policromia" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Made to Order
+                </a></li>
+          </ul>
+      
+    </div></div></div></div></li><li data-mainmenu-lg-target="#casa-popover" data-mainmenu-md-target="#casa-popover" aria-haspopup="true" role="menuitem" class=""><a href="/us/casa" class=" main " target="_self" aria-selected="false" data-title-en="Casa - subhome" role="menuitemradio" data-expandable-modal="true" data-level="level 1">
+                  Casa
+                </a><div id="casa-popover" class="subnavigator popover "><span aria-hidden="true" class="arrow-menu"></span><a href="/us/casa" class="subhome " target="_self" data-label-id="Discover More" aria-hidden="true">
+                      Scopri di più
+                    </a><div class="subcategories"><div class="group 0"><div class="exp  "><h4 style=""><a data-expandable-context=".exp" data-expandable-target="#uuid-d212471f-095a-4081-8604-32e071c207b0" data-expandable-modal="true" href="">Collection</a></h4><div class="wrapper-nav-img"></div>
+
+      <ul id="uuid-d212471f-095a-4081-8604-32e071c207b0" role="menu" class="expandable-sm expandable-xs  ">
+            <li role="menuitem" class=" 0 "><a href="/us/casa/collection/latest-news" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Latest News
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/casa/collection/latest-news#living" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Living
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/casa/collection/latest-news#dining" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Dining
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/casa/collection/latest-news#kitchen" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Kitchen
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/casa/collection/latest-news#bedroom" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Sleep
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/casa/collection/latest-news#luce" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Luce
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/casa/collection/latest-news#outdoor" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Outdoor
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/store-locator" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Find Boutique
+                </a></li>
+          </ul>
+      
+    </div></div><div class="group 0"><div class="exp  "><h4 style=""><a data-expandable-context=".exp" data-expandable-target="#uuid-d1dcd662-c3dd-426e-a9c1-e3ef65426c4e" data-expandable-modal="true" href="">Fendi Casa - il Viaggio</a></h4><div class="wrapper-nav-img"><img title="" alt="" src="https://static.www.fendi.com/mediaObject/fendi/casa/update_04_04_18/viaggio_menu/original/viaggio_menu.jpg" class="lazyload"></div>
+
+      <ul id="uuid-d1dcd662-c3dd-426e-a9c1-e3ef65426c4e" role="menu" class="expandable-sm expandable-xs  ">
+            <li role="menuitem" class=" 0 "><a href="/us/casa/il-viaggio" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Discover
+                </a></li>
+          </ul>
+      
+    </div></div><div class="group 0"><div class="exp  "><h4 style=""><a data-expandable-context=".exp" data-expandable-target="#uuid-d68b69ac-6ecb-40c8-aa3b-ca913b6b41c3" data-expandable-modal="true" href="">Interior Design</a></h4><div class="wrapper-nav-img"><img title="" alt="" src="https://static.www.fendi.com/mediaObject/fendi/casa_2017/interior_menu/original/interior_menu2.jpg" class="lazyload"></div>
+
+      <ul id="uuid-d68b69ac-6ecb-40c8-aa3b-ca913b6b41c3" role="menu" class="expandable-sm expandable-xs  ">
+            <li role="menuitem" class=" 0 "><a href="/us/casa/interior-design/all-projects" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  View All Projects
+                </a></li>
+          </ul>
+      
+    </div></div><div class="group 0"><div class="exp  "><h4 style=""><a data-expandable-context=".exp" data-expandable-target="#uuid-db83e239-f58d-42b3-b4ed-22f56caecb5b" data-expandable-modal="true" href="">Fendi Casa Icons</a></h4><div class="wrapper-nav-img"><img title="" alt="" src="https://static.www.fendi.com/mediaObject/fendi/casa_2017/icons_menu2/original/icons_menu2.jpg" class="lazyload"></div>
+
+      <ul id="uuid-db83e239-f58d-42b3-b4ed-22f56caecb5b" role="menu" class="expandable-sm expandable-xs  ">
+            <li role="menuitem" class=" 0 "><a href="/us/casa/Fendi-Casa-Icons/all-projects" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  View All Projects
+                </a></li>
+          </ul>
+      
+    </div></div></div></div></li><li data-mainmenu-lg-target="#fendi-roma-popover" data-mainmenu-md-target="#fendi-roma-popover" aria-haspopup="true" role="menuitem" class=""><a href="/us/fendi-roma" class=" main " target="_self" aria-selected="false" data-title-en="Fendi Roma - subhome" role="menuitemradio" data-expandable-modal="true" data-level="level 1">
+                  Fendi Roma
+                </a><div id="fendi-roma-popover" class="subnavigator popover "><span aria-hidden="true" class="arrow-menu"></span><a href="/us/fendi-roma" class="subhome " target="_self" data-label-id="Discover More" aria-hidden="true">
+                      Discover More
+                    </a><div class="subcategories"><div class="group 0"><div class="exp  "><h4 style=""><a data-expandable-context=".exp" data-expandable-target="#uuid-19046d09-c057-447e-a547-abfe5b92eacd" data-expandable-modal="true" href="">Special Projects</a></h4><div class="wrapper-nav-img"><img title="" alt="" src="https://static.www.fendi.com/mediaObject/fendi/Fendi-Roma/Galleria-Borghese/Galleria-Borghese-facciata-copyright-Ministero-dei-Beni-e-delle-Attività-Culturali-e-del-Turismo-Galleria-Borghese/original/Galleria-Borghese-facciata-copyright-Ministero-dei-Beni-e-delle-Attivit%C3%A0-Culturali-e-del-Turismo-Galleria-Borghese.jpg" class="lazyload"></div>
+
+      <ul id="uuid-19046d09-c057-447e-a547-abfe5b92eacd" role="menu" class="expandable-sm expandable-xs  ">
+            <li role="menuitem" class=" 0 "><a href="/us/fendi-roma/special_projects/fendi-and-galleria-borghese" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Fendi and Galleria Borghese
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/fendi-roma/special_projects/Giuseppe-Penone--Foglie-di-Pietra" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Giuseppe Penone: Foglie di Pietra
+                </a></li>
+          </ul>
+      
+    </div></div><div class="group 0"><div class="exp  "><h4 style=""><a data-expandable-context=".exp" data-expandable-target="#uuid-f7f80839-a168-4148-8379-6da45329296a" data-expandable-modal="true" href="">Fendi Is Rome</a></h4><div class="wrapper-nav-img"><img title="" alt="" src="https://static.www.fendi.com/mediaObject/fendi/Fendi-Roma/fendi-is-rome/fendi_isrome/original/fendi_isrome.jpg" class="lazyload"></div>
+
+      <ul id="uuid-f7f80839-a168-4148-8379-6da45329296a" role="menu" class="expandable-sm expandable-xs  ">
+            <li role="menuitem" class=" 0 "><a href="http://www.fendiprivatesuites.com/en" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Fendi Private Suites
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/fendi-roma/fendi-is-rome/palazzo-fendi" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Palazzo Fendi
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/fendi-roma/fendi-is-rome/palazzo-della-civilta-italiana" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Palazzo della Civiltà Italiana
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/fendi-roma/fendi-is-rome/the-restoration-of-the-trevi-fountain" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  The Restoration of the Trevi Fountain
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/fendi-roma/fendi-is-rome/fendi-90-Years" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Fendi 90 Years
+                </a></li>
+          </ul>
+      
+    </div></div><div class="group 0"><div class="exp  "><h4 style=""><a data-expandable-context=".exp" data-expandable-target="#uuid-1b8254b9-1f95-4ac4-9b0e-f136ece962ee" data-expandable-modal="true" href="">Craftsmanship</a></h4><div class="wrapper-nav-img"><img title="" alt="" src="https://static.www.fendi.com/mediaObject/fendi/Fendi-Roma/craftsmanship/craftsmanship_menu2/original/craftsmanship_menu2.jpg" class="lazyload"></div>
+
+      <ul id="uuid-1b8254b9-1f95-4ac4-9b0e-f136ece962ee" role="menu" class="expandable-sm expandable-xs  ">
+            <li role="menuitem" class=" 0 "><a href="/us/fendi-roma/craftsmanship/made-to-order" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Made to Order
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/fendi-roma/craftsmanship/fur-atelier" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Fur Atelier
+                </a></li>
+          </ul>
+      
+    </div></div><div class="group 0"><div class="exp  "><h4 style=""><a data-expandable-context=".exp" data-expandable-target="#uuid-f6aecf45-8e18-43a6-96b5-396a6b83735e" data-expandable-modal="true" href="">Corporate</a></h4><div class="wrapper-nav-img"><img title="" alt="" src="https://static.www.fendi.com/mediaObject/fendi/Fendi-Roma/corporate/original/corporate.jpg" class="lazyload"></div>
+
+      <ul id="uuid-f6aecf45-8e18-43a6-96b5-396a6b83735e" role="menu" class="expandable-sm expandable-xs  ">
+            <li role="menuitem" class=" 0 "><a href="/us/fendi-roma/corporate/careers" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Careers
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/fendi-roma/corporate/store-locator" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Store Locator
+                </a></li>
+          </ul>
+      
+    </div></div></div></div></li><li data-mainmenu-lg-target="" data-mainmenu-md-target="" aria-haspopup="true" role="menuitem" class=""><a href="/us/store-locator" class=" main direct" target="_self" aria-selected="false" role="menuitemradio" data-expandable-modal="false" data-level="level 1">
+                  Store Locator 
+                </a><div id="store-locator-popover" class="subnavigator popover "><span aria-hidden="true" class="arrow-menu"></span><a href="/us/store-locator" class="subhome " target="_self" data-label-id="Discover More" aria-hidden="true">
+                      Store Locator 
+                    </a></div></li><li data-mainmenu-lg-target="#fisfor-popover" data-mainmenu-md-target="#fisfor-popover" aria-haspopup="true" role="menuitem" class=""><a href="/us/fisfor" class=" main " target="_self" aria-selected="false" role="menuitemradio" data-expandable-modal="true" data-level="level 1">
+                  F is For...
+                </a><div id="fisfor-popover" class="subnavigator popover "><span aria-hidden="true" class="arrow-menu"></span><a href="/us/fisfor" class="subhome " target="_self" data-label-id="Discover More" aria-hidden="true">
+                      F is For...
+                    </a><div class="subcategories"><div class="group 0"><div class="exp  "><h4 style=""><a data-expandable-context=".exp" data-expandable-target="#uuid-219f44d4-2bb8-48a2-ae72-dd2e2daffc9b" data-expandable-modal="true" href="">Explore</a></h4><div class="wrapper-nav-img"></div>
+
+      <ul id="uuid-219f44d4-2bb8-48a2-ae72-dd2e2daffc9b" role="menu" class="expandable-sm expandable-xs  ">
+            <li role="menuitem" class=" 0 "><a href="/us/fisfor/categories/freaks" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Freaks / Manifesto
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/fisfor/categories/fulgore" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Fulgore / Editorials
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/fisfor/categories/faces" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Faces / Interviews
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/fisfor/categories/freedom" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Freedom / Places
+                </a></li><li role="menuitem" class=" 0 "><a href="/us/fisfor/categories/fearless" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Fearless / Stories
+                </a></li>
+          </ul>
+      
+    </div></div><div class="group 0"><div class="exp  "><h4 style=""><a data-expandable-context=".exp" data-expandable-target="#uuid-113799ea-8447-4bcb-bf8f-384cda43aa56" data-expandable-modal="true" href="">Aight Fendiman</a></h4><div class="wrapper-nav-img"><img title="" alt="" src="https://static.www.fendi.com/mediaObject/fendi/F-is-For/Articles/104_Fendiman/menu_JW/original/menu_JW.jpg" class="lazyload"></div>
+
+      <ul id="uuid-113799ea-8447-4bcb-bf8f-384cda43aa56" role="menu" class="expandable-sm expandable-xs  ">
+            <li role="menuitem" class=" 0 "><a href="/us/fisfor/F-IS-FOR-AIGHT-FENDIMAN" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Read more
+                </a></li>
+          </ul>
+      
+    </div></div><div class="group 0"><div class="exp  "><h4 style=""><a data-expandable-context=".exp" data-expandable-target="#uuid-a1028568-6290-4a6e-9ddc-21d99bbacff6" data-expandable-modal="true" href="">F is For... Fighter</a></h4><div class="wrapper-nav-img"><img title="" alt="" src="https://static.www.fendi.com/mediaObject/fendi/F-is-For/Articles/118_fearless_Chris-Eubank-Jr/menu_Chris-Eubank-Jr/original/menu_Chris-Eubank-Jr.jpg" class="lazyload"></div>
+
+      <ul id="uuid-a1028568-6290-4a6e-9ddc-21d99bbacff6" role="menu" class="expandable-sm expandable-xs  ">
+            <li role="menuitem" class=" 0 "><a href="/us/fisfor/f-is-for-fighter" class="" target="_self" tabindex="0" data-level="level 2" role="navigation">
+                  Read more
+                </a></li>
+          </ul>
+      
+    </div></div></div></div></li></ul><footer class="visible-xs visible-sm"><ul class="first-level"><li class="ship-to"><button class="active" data-popover-skip-hover="true" aria-expanded="true" data-popover-target="#countries">
+                  Shipping to: United States
+              </button></li><li class="language"><button class="active" data-popover-skip-hover="true" aria-expanded="true" data-popover-target="#language-xs">
+                      Language: English
+                  </button></li><li class="highlight"><a href="/us/store-locator" class="ico store-locator-link"><span class="label">Store Locator</span><i class="iconfendi-pin"></i></a></li></ul></footer></section></div><hr class="fendi-land-divider"></nav><div data-open="" aria-hidden="true" class="js-minicart-container" id="minicart"><header><ul role="tablist" class="tabs nav nav-tabs"><li role="presentation" class="active"><a data-toggle="tab" role="tab" aria-controls="minicart-content" href="#minicart-content" class="ico bag ">Shopping Bag<i class="iconfendi-bag"><span class="count js-cart-items-counter">0</span></i></a></li></ul></header><div class="tab-content"><div role="tabpanel" id="minicart-content" data-url="/us/action/minicart" class="tab-pane fade in active js-minicart"></div></div></div><main class="" role="main" id="wrapper"><div class="container-fluid"><div class="customer-care"><form class="main-categories visible-xs"><div class="form-group"><select role="menu" aria-label="Open main menu" name="navigation"><option role="menuitem" value="/us/info/legal-area/privacy-policy">Privacy Policies</option><option role="menuitem" value="/us/info/legal-area/cookie-policy" selected="selected">Cookie Policy</option><option role="menuitem" value="/us/info/legal-area/terms-sale">Terms and Conditions of Sale</option><option role="menuitem" value="/us/info/legal-area/terms-use">Website Terms of Use</option><option role="menuitem" value="/us/info/legal-area/compliance">Compliance</option></select></div></form><div class="row"><div class="col-sm-8 col-sm-push-4"><div class="content legal-area"><div class="block"><h2></h2><h3></h3>
+      <p style="margin-left:0cm; margin-right:0cm; text-align:center"><strong>COOKIE POLICY</strong></p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:center"><strong>Regulation (EU) 679/2016 <em>General Data Protection Regulation</em></strong></p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">&nbsp;</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><strong>Extensive disclosure on cookies</strong></p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">Pursuant to Article 13 of Regulation (EU) 679/2016 General Data Protection Regulation (the “<strong>Regulation</strong>”) <strong>Fendi S.r.l.</strong>, in its capacity as Data Controller (hereinafter: “<strong>FENDI</strong>” or “<strong>Website Manager</strong>”),&nbsp;provides you with the following information concerning the cookies installed on the www.fendi.com website (hereinafter, the <strong>Website</strong>).</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">&nbsp;</p>
+
+<ol>
+	<li style="text-align:justify"><strong>What are cookies</strong></li>
+</ol>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">Cookies are text files sent by a web server (namely, the computer that “hosts” the visited website) to the user’s browser (Internet Explorer, Firefox, Google Chrome, etc.) and stored on the device, either fixed or mobile (computer, smartphone, tablet), used by the user for browsing. Cookies allow the Website to identify the user’s device through the stored information each time the user reconnects itself to the Website through that device.</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">By using cookies, it is possible to make it easier for the user to browse the Website and to analyse their preferences and tastes by checking their browsing history, and consequently to offer products and provide services more consistent with the interests and expectations of said user.</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">Cookies may be “session cookies” (when they are stored only for the duration of the browsing session and are cancelled when the session is closed), or “permanent cookies” (that are stored for longer periods, until their expiry or cancellation by the user). Further, cookies may be installed by the website the user is visiting (so-called first party cookies) or may be installed by other websites (so-called third party cookies).</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">Cookies do not collect direct personal data information concerning the user. In fact, Fendi cannot, by means of cookies, directly obtain any personal data information (e.g. name, surname), unless expressly provided by the client.</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">&nbsp;</p>
+
+<ol start="2">
+	<li style="text-align:justify"><strong>Cookies used by FENDI</strong></li>
+</ol>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><strong><em>Browsing or session technical cookies </em></strong></p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">FENDI uses browsing or session technical cookies to allow normal and efficient browsing and use of the Website. For instance, such cookies allow you to purchase or, if you are a registered user, to authenticate access to the Website’s reserved areas.</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">Such cookies do not require the preventive and express consent of the user since they are closely linked to the provision of the service requested by the user of the Website.&nbsp;</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">&nbsp;</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><strong><em>Operation technical cookies</em></strong></p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">FENDI uses operation technical cookies that allow you to browse according to the criteria selected by you (for instance, the language or products that you selected for purchasing purposes) in order to improve the services provided by the Website. Within the Website, such cookies allow, in accordance with your express selection, for you to be identified in future accesses; or, if you have added one or more items in the shopping bag and closed the session before completing purchase without deleting them, such cookies allow you to continue shopping during your next access to the Website (within a limited period) recovering the selected items. Operation cookies are not indispensable for the Website to function, but they improve browsing quality and experience.</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">Such cookies do not require the prior and express consent of the user since they are closely linked to the provision of the service requested by the user of the Website.&nbsp;</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">&nbsp;</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><strong><em>Analytical cookies</em></strong></p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">FENDI, in its capacity as manager of the Website, uses third parties’ analytical cookies to collect information on the Website used by the users (number of visitors, visited pages, permanence on the Website, etc.) to prepare statistical analysis, on an aggregated basis, on the number of users and on how users browse our Website. To use such cookies, criteria for masking the source of the IP address have been adopted.</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">Such cookies do not require the prior and express consent of the user since they are closely linked to the provision of the service requested by the user of the Website.&nbsp;</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">&nbsp;</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><strong><em>Third party profiling cookies</em></strong></p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">FENDI uses third party profiling cookies (namely cookies that are issued and managed by parties other than FENDI) to send advertising messages in line with the preferences manifested by the user while browsing.</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">This category of cookies includes third party social media cookies that allow information on the user’s social network use to be collected.</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">The use of such cookies requires the express and informed consent of the user.</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">&nbsp;</p>
+
+<ol start="3">
+	<li style="text-align:justify"><strong>Features of the cookies used by FENDI on the Website</strong></li>
+</ol>
+
+<p style="margin-left:36pt; margin-right:0cm; text-align:justify">&nbsp;</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">The features of the cookies used on the Website are presented in the table below.</p>
+
+<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+
+<table cellspacing="0" class="Table" style="border-collapse:collapse; border:undefined; width: 100%;">
+	<thead>
+		<tr>
+			<td style="background-color:#dbe5f1; width:54.25pt">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:center"><strong>Cookies</strong></p>
+			</td>
+			<td style="background-color:#dbe5f1; width:52.45pt">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:center"><strong>Goal</strong></p>
+			</td>
+			<td style="background-color:#dbe5f1; width:85.1pt">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:center"><strong>Type and setting</strong></p>
+			</td>
+			<td style="background-color:#dbe5f1; width:2.0cm">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:center"><strong>Duration</strong></p>
+			</td>
+			<td style="background-color:#dbe5f1; width:2.0cm">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:center"><strong>User consent</strong></p>
+			</td>
+			<td style="background-color:#dbe5f1; width:177.5pt">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:center"><strong>Further information and </strong></p>
+
+			<p style="margin-left:0cm; margin-right:0cm; text-align:center"><strong>links to policies and third party consent forms</strong></p>
+			</td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td rowspan="2" style="height:15.6pt; width:54.25pt">
+			<p style="margin-left:0cm; margin-right:0cm">&nbsp;<strong>Analytics of the Google Analytics platform</strong></p>
+			</td>
+			<td rowspan="2" style="height:15.6pt; width:52.45pt">
+			<p style="margin-left:0cm; margin-right:0cm">It collects aggregated information on the pages visited by the user and on any other actions that the same may perform on these pages. It does not disclose the user’s personal data, but only anonymous data. Collection of this data is intended to improve the browsing experience for users.</p>
+			</td>
+			<td style="height:15.6pt; width:85.1pt">
+			<p style="margin-left:0cm; margin-right:0cm">3rd part</p>
+			</td>
+			<td rowspan="2" style="height:15.6pt; width:2.0cm">
+			<p style="margin-left:0cm; margin-right:0cm">Persistent</p>
+			</td>
+			<td rowspan="2" style="height:15.6pt; width:2.0cm">
+			<p style="margin-left:0cm; margin-right:0cm">&nbsp;Not</p>
+
+			<p style="margin-left:0cm; margin-right:0cm">Required</p>
+			</td>
+			<td rowspan="2" style="height:15.6pt; width:177.5pt">
+			<p style="margin-left:0cm; margin-right:0cm"><strong><em><u>FOR GOOGLE:</u></em></strong></p>
+
+			<p style="margin-left:0cm; margin-right:0cm"><em>The Google Privacy Policy is available at the following url:</em></p>
+
+			<p style="margin-left:0cm; margin-right:0cm"><em><a href="https://www.google.de/intl/it/policies/privacy/">https://www.google.de/intl/it/policies/privacy/</a></em></p>
+
+			<p style="margin-left:0cm; margin-right:0cm"><em>You can disable the Google Analytics cookies by downloading a specific browser plug-in at the following url: <a href="https://tools.google.com/dlpage/gaoptout">https://tools.google.com/dlpage/gaoptout</a></em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="height:54.35pt; width:85.1pt">
+			<p style="margin-left:0cm; margin-right:0cm"><strong><em>Settings:</em></strong></p>
+
+			<p style="margin-left:0cm; margin-right:0cm">The IP address has been anonymised (to mask the IP address at the source) and therefore, the possibility of accessing the disaggregated data is inhibited at source; the account is set up so that no data may be shared with Google; the advertising service of Google Analytics has been disabled.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:54.25pt">
+			<p style="margin-left:0cm; margin-right:0cm">&nbsp;<strong>Fendi technical</strong></p>
+			</td>
+			<td style="width:52.45pt">
+			<p style="margin-left:0cm; margin-right:0cm">&nbsp;This cookie is used to maintain the data of the session (which includes the state of access to the website).</p>
+			</td>
+			<td style="width:85.1pt">
+			<p style="margin-left:0cm; margin-right:0cm">&nbsp;1st part</p>
+			</td>
+			<td style="width:2.0cm">
+			<p style="margin-left:0cm; margin-right:0cm">&nbsp;Session</p>
+			</td>
+			<td style="width:2.0cm">
+			<p style="margin-left:0cm; margin-right:0cm">&nbsp;Not</p>
+
+			<p style="margin-left:0cm; margin-right:0cm">Required</p>
+			</td>
+			<td style="width:177.5pt">
+			<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+
+			<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+
+			<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+
+			<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="height:40.75pt; width:54.25pt">
+			<p style="margin-left:0cm; margin-right:0cm">&nbsp;Google Adsense&nbsp;<strong>profiling cookies</strong></p>
+
+			<p style="margin-left:0cm; margin-right:0cm"><strong><u>(Double Click)</u></strong></p>
+			</td>
+			<td rowspan="2" style="height:40.75pt; width:52.45pt">
+			<p style="margin-left:0cm; margin-right:0cm">&nbsp;These cookies are used to send advertising messages in line with the user’s preferences.</p>
+			</td>
+			<td rowspan="2" style="height:40.75pt; width:85.1pt">
+			<p style="margin-left:0cm; margin-right:0cm">&nbsp;3rd part</p>
+			</td>
+			<td rowspan="2" style="height:40.75pt; width:2.0cm">
+			<p style="margin-left:0cm; margin-right:0cm">&nbsp;Persistent</p>
+			</td>
+			<td rowspan="2" style="height:40.75pt; width:2.0cm">
+			<p style="margin-left:0cm; margin-right:0cm">&nbsp;Required</p>
+			</td>
+			<td style="height:40.75pt; width:177.5pt">
+			<p style="margin-left:0cm; margin-right:0cm"><strong><em><u>DOUBLE CLICK:</u></em></strong></p>
+
+			<p style="margin-left:0cm; margin-right:0cm"><em>The Double Click (Google Adsense) privacy policy, the cookies’ usage, as well as advertising management are available at the following links:</em></p>
+
+			<p style="margin-left:0cm; margin-right:0cm"><em><u>https://www.google.com/intl/it/policies/privacy/</u></em></p>
+
+			<p style="margin-left:0cm; margin-right:0cm"><em><u>https://www.google.com/intl/it/policies/technologies/</u></em></p>
+
+			<p style="margin-left:0cm; margin-right:0cm"><em>It is possible to download a Browser plug-in to permanently block Double Click cookies at the following link: </em></p>
+
+			<p style="margin-left:0cm; margin-right:0cm"><em><a href="https://www.google.com/settings/ads/plugin">https://www.google.com/settings/ads/plugin</a></em></p>
+
+			<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+
+			<p style="margin-left:0cm; margin-right:0cm"><strong><em><u>AMNET</u></em></strong></p>
+
+			<p style="margin-left:0cm; margin-right:0cm">Amnet is managed by Amnet Italia Srl, in respect of which, we invite you to consult the related privacy policy and the related usage purposes, operational methods and procedures to refuse the installation of the relevant cookies at the address: <a href="http://www.amnetgroup.com/terms-and-privacy/">http://www.amnetgroup.com/terms-and-privacy/</a></p>
+
+			<p style="margin-left:0cm; margin-right:0cm">Furthermore, to manage the cookies, Amnet uses the following platform: Adform.com and adformdsp.net managed by Adform, in respect of which, we invite you to consult the related privacy policy and the related usage purposes, operational methods and procedures to refuse the installation of the relevant cookies at the address: <a href="http://site.adform.com/privacy-policy/en">http://site.adform.com/privacy-policy/en</a></p>
+
+			<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="height:12.25pt; width:177.5pt">
+			<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:54.25pt">
+			<p style="margin-left:0cm; margin-right:0cm">&nbsp;<strong><em>FENDI</em></strong></p>
+			</td>
+			<td style="width:52.45pt">
+			<p style="margin-left:0cm; margin-right:0cm">&nbsp;This cookie memorises the user’s consent to use the cookies on the website</p>
+			</td>
+			<td style="width:85.1pt">
+			<p style="margin-left:0cm; margin-right:0cm">&nbsp;1st part</p>
+			</td>
+			<td style="width:2.0cm">
+			<p style="margin-left:0cm; margin-right:0cm">&nbsp;Persistent</p>
+			</td>
+			<td style="width:2.0cm">
+			<p style="margin-left:0cm; margin-right:0cm">&nbsp;Not</p>
+
+			<p style="margin-left:0cm; margin-right:0cm">Required</p>
+			</td>
+			<td style="width:177.5pt">
+			<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+
+			<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+
+			<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+
+<ol start="4">
+	<li style="text-align:justify"><strong>Management of cookie preferences</strong></li>
+</ol>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">Upon accessing any page of the Website, a banner including some brief information on the cookies used by FENDI is displayed. By providing your authorisation through the banner, you consent to the use of profiling cookies.</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">Please note that your consent will be required only upon your first access to the Website: afterwards, due to the use of a technical cookie, we will store your consent to allow you to directly access the Website pages on your return (without prejudice to your right to disable/enable the cookies or to delete them at any time: in this case, on your return, the Website will require your consent once more).</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">However, you may change and manage your preferences concerning the cookies by accepting or refusing to receive the cookies you prefer, by selecting the “Yes/No” box in the “<strong><em>consent</em></strong><em>”</em> field of the table displayed above.</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">You may also learn about the information and the modalities to disable the third party cookies by clicking the links in the column “<em>Further information</em> and links to the information and the third party consent forms” in the table above. However, following this operation, some of the functions of the website pages may not operate correctly.</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">&nbsp;</p>
+
+<ol start="5">
+	<li style="text-align:justify"><strong>How to change the browser settings concerning cookies</strong></li>
+</ol>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">It is possible to disable/enable or delete the cookies at any time by using the settings of your Web browser. In particular, if you do not wish to receive cookies, it is possible to set your own browser to inform you of the presence of a cookie, thus allowing you to decide whether to accept it or not; you may also automatically refuse all the cookies by enabling the specific browser option. You may also delete specific cookies already stored in the browser or block the storage of cookies on your computer by specific websites, or block third party cookies.</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">Below, find the methods provided by the main browsers:</p>
+
+<ul>
+	<li style="text-align:justify"><strong>Internet Explorer </strong><em>(http://windows.microsoft.com/it-it/windows7/how-to-manage-cookie-in-internet-explorer-9)</em></li>
+	<li style="text-align:justify"><strong>Chrome </strong><em>(https://support.google.com/chrome/answer/95647?hl=it ser)</em></li>
+	<li style="text-align:justify"><strong>Firefox </strong><em>(https://support.mozilla.org/it/kb/Gestione%20dei%20cookie)</em></li>
+	<li style="text-align:justify"><strong>Opera </strong><em>(http://help.opera.com/Windows/10.00/it/cookie.html)</em></li>
+	<li style="text-align:justify"><strong>Safari </strong><em>(https://support.apple.com/it-it/HT201265)</em></li>
+</ul>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">Following the disabling of all cookies, some functions of the website pages may not operate correctly.</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">&nbsp;Moreover, you may manage your cookie preferences at <a href="http://www.youronlinechoices.com">http://www.youronlinechoices.com</a>.</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">&nbsp;</p>
+
+<ol start="6">
+	<li style="text-align:justify"><strong>Who processes your personal data</strong></li>
+</ol>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">The data collected by using cookies may be processed by employees and collaborators of FENDI in their capacity as parties authorised to process. This data may also be processed by trusted companies that carry out technical and organisational tasks on our behalf. These companies are our direct collaborators and act as external data processors.</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">In particular, within the scope of the data processing carried out through the Website, FENDI has appointed Sopra Steria Group S.p.A., with registered office in Strada 4, Palazzo A7 20090 Assago/Milanofiori (Italy), and Openmind S.r.l., with registered office in Via G. Ferrari 39, 20900 Monza<strong> </strong>as data processors to manage the technical maintenance of the Website.</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">The data collected by using the cookies will not be disclosed.</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">&nbsp;</p>
+
+<ol start="7">
+	<li style="text-align:justify"><strong>The transfer of your personal data outside the European Union</strong></li>
+</ol>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">The data collected by using Google cookies will be transferred outside the European Union (e.g. in the United States, Canada, Japan, Korea).</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">Applicable privacy provisions establish that your specific consent is not required to transfer data to third party countries when the transfer of your data is required to execute an agreement concluded between the interested party and the data collector (Article 49, paragraph 1, sub-paragraph (b) of the Regulation), or for the execution of pre-contractual measures adopted on request by the interested party; transfer is carried out to a country that guarantees an adequate level of protection (Article 45 of the Regulation) or is based on the adoption of adequate provisions (Articles 46 and 47 of the Regulation), and in particular, based on the adoption of provisions that are binding for the businesses, the adoption of contract clauses approved by the European Commission or the adhesion to the guarantees provided for by the Privacy Shield agreement with the United States.</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">Therefore, the transfer of your data to third party countries shall be carried out pursuant to the guarantees, measures and rights established by (i) the Privacy Shield agreement with the United States, (ii) the Canadian personal data protection provisions for Canada (a country that guarantees an adequate data protection level), (iii) the adoption of standard contract clauses approved by the EU Commission as generally practised in the relations with the retail companies that manage the Fendi shops throughout the world and our service providers.</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">&nbsp;</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">Through a simple request made to the references indicated in point 10), you may receive further information on the transfer of your data and the guarantees regarding their protection as well as on the means for obtaining such data or the place where you may find the same.</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">&nbsp;</p>
+
+<ol start="8">
+	<li style="text-align:justify"><strong>Your rights</strong></li>
+</ol>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">By means of notice to be sent to the addresses mentioned under point 10), you may, at any time, exercise your rights under the Articles 15 to 22 of the Regulation, which include:</p>
+
+<ul>
+	<li style="list-style-type:none">
+	<ul>
+		<li style="text-align:justify">the right to obtain confirmation of whether or not your personal data is being processed;</li>
+		<li style="text-align:justify">the right to be granted access to your personal data and the information indicated by Article 15 of the Regulation;</li>
+		<li style="text-align:justify">the right to correct your inaccurate personal data without undue delay or to supplement your incomplete personal data;</li>
+		<li style="text-align:justify">the right to delete your personal data without undue delay;</li>
+		<li style="text-align:justify">the right to be granted restrictions on the processing of your personal data;</li>
+		<li style="text-align:justify">the right to be informed of any corrections or deletion or restrictions concerning the processing carried out in relation to your personal data;</li>
+		<li style="text-align:justify">the right to receive your personal data on an automatic device in a structured, ordinary and legible format;</li>
+		<li style="text-align:justify">the right to oppose, at any time, for reasons related to a particular situation, the processing of your personal data.</li>
+	</ul>
+	</li>
+</ul>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">In particular, your right to revoke, at any time, any consents to processing that may have been provided and to oppose our analysis-related activities.</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">Moreover, pursuant to Article 21 of the Regulation, you shall be entitled, at any time, to oppose, for reasons related to your particular situation, the processing of your personal data carried out to pursue the legitimate interest of the Data Controller pursuant to Article 6, paragraph 1, sub-para. f of the Regulation.</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">&nbsp;</p>
+
+<ol start="9">
+	<li style="text-align:justify"><strong>Who you may file a complaint with</strong></li>
+</ol>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">We hereby remind you that, if you think that the processing of your personal data infringes the regulatory provisions, you may file a complaint with the Authority for personal data protection (www.garanteprivacy.it), or with the Authority for personal data protection with jurisdiction in the country you reside in habitually, work in or in the place where the alleged infringement took place.</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">&nbsp;</p>
+
+<ol start="10">
+	<li style="text-align:justify"><strong>The Data Controller and the Data Protection Officer </strong></li>
+</ol>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">Fendi S.r.l. acts as Data Controller, with registered office in Palazzo della Civiltà, Quadrato della Concordia No. 3, 00144, Rome (RM), Italy, Tax Code, VAT number and Rome Companies’ Register No. 00900541004, tel. +39 06 334501. email customersprivacy@fendi.com, Website manager.</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">The Data Protection Officer appointed by Fendi S.r.l. may be contacted at the email address</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">dpo@fendi.com.</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">&nbsp;</p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">&nbsp;</p>
+
+<p>For further information on the processing of your personal data through the Website, please visit the <u><a href="/us/info/legal-area/privacy-policy">Privacy</a></u> section.</p>
+
+    </div><div class="text-body  ">
+      <p>Technical cookies<br>
+They do not require the user’s prior consent in order to be used.</p>
+
+<p>Analytical cookies<br>
+They do not require the user’s prior consent in order to be used.</p>
+
+<p>Profiling cookies</p>
+
+<p>Enable&nbsp;&nbsp;Disable</p>
+
+    </div></div></div><div class="col-sm-4 col-sm-pull-8"><ul role="menu" class="service-menu hidden-xs"><li role="menuitem" class=""><a href="/us/info/legal-area/privacy-policy" class="" target="_self">Privacy Policies</a></li><li role="menuitem" class="current"><a href="/us/info/legal-area/cookie-policy" class="" target="_self">Cookie Policy</a></li><li role="menuitem" class=""><a href="/us/info/legal-area/terms-sale" class="" target="_self">Terms and Conditions of Sale</a></li><li role="menuitem" class=""><a href="/us/info/legal-area/terms-use" class="" target="_self">Website Terms of Use</a></li><li role="menuitem" class=""><a href="/us/info/legal-area/compliance" class="" target="_self">Compliance</a></li></ul></div></div></div></div></main><footer class="main" id="site-footer"><div class="container-fluid"><div class="upper-bar"><div data-modal-title="Subscribe to our Newsletter" data-haserrors="false" data-is-modal="" data-modal-close-text="Close" data-nl-modal-title="Subscribe to our Newsletter" class="newsletter-form js-newsletter-container modal-false"><h3>Subscribe to our Newsletter</h3><form id="newsletterForm" data-replace-element=".js-newsletter-container" data-remote="true" data-action="/us/action/newsletter/subscribe?modal=false" class="js-newsletter-form" action="/us/woman/ready-to-wear" method="post" autocomplete="off"><div class=""></div><div class="form-group"><label for="subscribe-newsletter" cssclasslabel="control-label">Email</label><input id="subscribe-newsletter" name="email" data-show=".completion" data-down="true" data-slide="false" placeholder="Enter your email address" type="email" class="form-control" required="required" value="" autocomplete="off"></div><div class="completion ---- "><div class="disclaimer"><p>To receive more personalised content, including access to special events and the latest news in your area, please provide the following details:</p></div><div class="row"><div class="form-group col-md-2"><label for="titleCode">Title*</label><select id="titleCode" name="titleCode" aria-required="true" type="text" class="form-control " required="required"><option aria-hidden="true" value=""></option><option value="mrs">Mrs</option><option value="ms">Ms</option><option value="miss">Miss</option><option value="mr">Mr</option></select></div><div class="form-group col-md-5"><label for="firstName">First Name*
+      </label><input id="firstName" name="firstName" aria-required="true" type="text" class="form-control " required="required" value="" maxlength="150"></div><div class="form-group col-md-5"><label for="lastName">Last Name*
+      </label><input id="lastName" name="lastName" aria-required="true" type="text" class="form-control " required="required" value="" maxlength="150"></div></div><div class="row"><div class="form-group col-md-8"><label for="country-select" class="control-label">Country</label><div class="select " id="country"><span class="chevron-down"></span><select id="country-select" name="country" class="form-control" aria-label="Country"><option value="AF">Afghanistan</option><option value="AX">Aland Islands</option><option value="AL">Albania</option><option value="DZ">Algeria</option><option value="AS">American Samoa</option><option value="AD">Andorra</option><option value="AO">Angola</option><option value="AI">Anguilla</option><option value="AQ">Antarctica</option><option value="AG">Antigua and Barbuda</option><option value="AR">Argentina</option><option value="AM">Armenia</option><option value="AW">Aruba</option><option value="AU">Australia</option><option value="AT">Austria</option><option value="AZ">Azerbaijan</option><option value="BS">Bahamas</option><option value="BH">Bahrain</option><option value="BD">Bangladesh</option><option value="BB">Barbados</option><option value="BY">Belarus</option><option value="BE">Belgium</option><option value="BZ">Belize</option><option value="BJ">Benin</option><option value="BM">Bermuda</option><option value="BT">Bhutan</option><option value="BO">Bolivia</option><option value="BQ">Bonaire, Saint Eustatius and Saba</option><option value="BA">Bosnia and Herzegovina</option><option value="BW">Botswana</option><option value="BV">Bouvet Island</option><option value="BR">Brazil</option><option value="IO">British Indian Ocean Territory</option><option value="BN">Brunei Darussalam</option><option value="BG">Bulgaria</option><option value="BF">Burkina Faso</option><option value="BI">Burundi</option><option value="KH">Cambodia</option><option value="CM">Cameroon</option><option value="CA">Canada</option><option value="CV">Cape Verde</option><option value="KY">Cayman Islands</option><option value="CF">Central African Republic</option><option value="TD">Chad</option><option value="CL">Chile</option><option value="CN">China</option><option value="CX">Christmas Island</option><option value="CC">Cocos (Keeling) Islands</option><option value="CO">Colombia</option><option value="KM">Comoros</option><option value="CG">Congo</option><option value="CD">Congo, the Democratic Republic of the</option><option value="CK">Cook Islands</option><option value="CR">Costa Rica</option><option value="CI">Cote d'Ivoire</option><option value="HR">Croatia</option><option value="CU">Cuba</option><option value="CW">Cura‡ao</option><option value="CY">Cyprus</option><option value="CZ">Czech Republic</option><option value="DK">Denmark</option><option value="DJ">Djibouti</option><option value="DM">Dominica</option><option value="DO">Dominican Republic</option><option value="EC">Ecuador</option><option value="EG">Egypt</option><option value="SV">El Salvador</option><option value="GQ">Equatorial Guinea</option><option value="ER">Eritrea</option><option value="EE">Estonia</option><option value="ET">Ethiopia</option><option value="FK">Falkland Islands</option><option value="FO">Faroe Islands</option><option value="FJ">Fiji</option><option value="FI">Finland</option><option value="FR">France</option><option value="GF">French Guiana</option><option value="PF">French Polynesia</option><option value="TF">French Southern Territories</option><option value="GA">Gabon</option><option value="GM">Gambia</option><option value="GE">Georgia</option><option value="DE">Germany</option><option value="GH">Ghana</option><option value="GI">Gibraltar</option><option value="GB">Great Britain</option><option value="GR">Greece</option><option value="GL">Greenland</option><option value="GD">Grenada</option><option value="GP">Guadeloupe</option><option value="GU">Guam</option><option value="GT">Guatemala</option><option value="GG">Guernsey</option><option value="GN">Guinea</option><option value="GW">Guinea-Bissau</option><option value="GY">Guyana</option><option value="HT">Haiti</option><option value="HM">Heard Island and McDonald Islands</option><option value="VA">Holy See (Vatican City State)</option><option value="HN">Honduras</option><option value="HK">Hong Kong</option><option value="HU">Hungary</option><option value="IS">Iceland</option><option value="IN">India</option><option value="ID">Indonesia</option><option value="IR">Iran</option><option value="IQ">Iraq</option><option value="IE">Ireland</option><option value="IM">Isle of Man</option><option value="IL">Israel</option><option value="IT">Italy</option><option value="JM">Jamaica</option><option value="JP">Japan</option><option value="JE">Jersey</option><option value="JO">Jordan</option><option value="KZ">Kazakhstan</option><option value="KE">Kenya</option><option value="KI">Kiribati</option><option value="KP">Korea, Democratic People's Republic of</option><option value="KR">Korea, Republic of</option><option value="KW">Kuwait</option><option value="KG">Kyrgyzstan</option><option value="LA">Lao People's Democratic Republic</option><option value="LV">Latvia</option><option value="LB">Lebanon</option><option value="LS">Lesotho</option><option value="LR">Liberia</option><option value="LY">Libyan Arab Jamahiriya</option><option value="LI">Liechtenstein</option><option value="LT">Lithuania</option><option value="LU">Luxembourg</option><option value="MO">Macao</option><option value="MK">Macedonia</option><option value="MG">Madagascar</option><option value="MW">Malawi</option><option value="MY">Malaysia</option><option value="MV">Maldives</option><option value="ML">Mali</option><option value="MT">Malta</option><option value="MH">Marshall Islands</option><option value="MQ">Martinique</option><option value="MR">Mauritania</option><option value="MU">Mauritius</option><option value="YT">Mayotte</option><option value="MX">Mexico</option><option value="FM">Micronesia, Federated States of</option><option value="MD">Moldova</option><option value="MC">Monaco</option><option value="MN">Mongolia</option><option value="ME">Montenegro</option><option value="MS">Montserrat</option><option value="MA">Morocco</option><option value="MZ">Mozambique</option><option value="MM">Myanmar</option><option value="NA">Namibia</option><option value="NR">Nauru</option><option value="NP">Nepal</option><option value="NL">Netherlands</option><option value="NC">New Caledonia</option><option value="NZ">New Zealand</option><option value="NI">Nicaragua</option><option value="NE">Niger</option><option value="NG">Nigeria</option><option value="NU">Niue</option><option value="NF">Norfolk Island</option><option value="MP">Northern Mariana Islands</option><option value="NO">Norway</option><option value="OM">Oman</option><option value="PK">Pakistan</option><option value="PW">Palau</option><option value="PS">Palestinian Territory</option><option value="PA">Panama</option><option value="PG">Papua New Guinea</option><option value="PY">Paraguay</option><option value="PE">Peru</option><option value="PH">Philippines</option><option value="PN">Pitcairn</option><option value="PL">Poland</option><option value="PT">Portugal</option><option value="PR">Puerto Rico</option><option value="QA">Qatar</option><option value="RE">Reunion</option><option value="RO">Romania</option><option value="RU">Russian Federation</option><option value="RW">Rwanda</option><option value="BL">Saint Barth‚lemy</option><option value="SH">Saint Helena, Ascension and Tristan da Cunha</option><option value="KN">Saint Kitts and Nevis</option><option value="LC">Saint Lucia</option><option value="MF">Saint Martin (French part)</option><option value="PM">Saint Pierre and Miquelon</option><option value="VC">Saint Vincent and the Grenadines</option><option value="WS">Samoa</option><option value="SM">San Marino</option><option value="ST">Sao Tome and Principe</option><option value="SA">Saudi Arabia</option><option value="SN">Senegal</option><option value="RS">Serbia</option><option value="SC">Seychelles</option><option value="SL">Sierra Leone</option><option value="SG">Singapore</option><option value="SX">Sint Maarten (Dutch part)</option><option value="SK">Slovakia</option><option value="SI">Slovenia</option><option value="SB">Solomon Islands</option><option value="SO">Somalia</option><option value="ZA">South Africa</option><option value="GS">South Georgia and the South Sandwich Islands</option><option value="SS">South Sudan</option><option value="ES">Spain</option><option value="LK">Sri Lanka</option><option value="SD">Sudan</option><option value="SR">Suriname</option><option value="SJ">Svalbard and Jan Mayen</option><option value="SZ">Swaziland</option><option value="SE">Sweden</option><option value="CH">Switzerland</option><option value="SY">Syrian Arab Republic</option><option value="TW">Taiwan</option><option value="TJ">Tajikistan</option><option value="TZ">Tanzania</option><option value="TH">Thailand</option><option value="TL">Timor-Leste</option><option value="TG">Togo</option><option value="TK">Tokelau</option><option value="TO">Tonga</option><option value="TT">Trinidad and Tobago</option><option value="TN">Tunisia</option><option value="TR">Turkey</option><option value="TM">Turkmenistan</option><option value="TC">Turks and Caicos Islands</option><option value="TV">Tuvalu</option><option value="UG">Uganda</option><option value="UA">Ukraine</option><option value="AE">United Arab Emirates</option><option value="US" selected="selected">United States</option><option value="UM">United States Minor Outlying Islands</option><option value="UY">Uruguay</option><option value="UZ">Uzbekistan</option><option value="VU">Vanuatu</option><option value="VE">Venezuela</option><option value="VN">Viet Nam</option><option value="VG">Virgin Islands, British</option><option value="VI">Virgin Islands, U.S.</option><option value="WF">Wallis and Futuna</option><option value="EH">Western Sahara</option><option value="YE">Yemen</option><option value="ZM">Zambia</option><option value="ZW">Zimbabwe</option></select></div></div><div class="form-group col-md-4"><button value="subscribe" type="submit" class="btn btn-primary call-to-action">SUBSCRIBE</button></div></div><p>Your personal data will be used by Fendi S.r.l. to provide the Newsletter service expressly requested by you. Please consult the <a href="/us/info/legal-area/privacy-policy" target="_blank">Privacy Information Notice</a> for further information.</p></div></form><a class="info-privacy" href="/us/info/legal-area/privacy-policy">More info</a></div><div class="follow-fendi"><h3 id="acc-footer-social">Follow Fendi</h3><ul class="" aria-labelledby="acc-footer-social" role="menu"><li role="menuitem"><a aria-label="Follow us on Facebook" href="http://www.facebook.com/Fendi" target="_blank" class="ico"><i class="iconfendi-facebook"></i><span class="text">Facebook</span></a></li><li role="menuitem"><a aria-label="Follow us on Instagram" href="http://www.instagram.com/Fendi " target="_blank" class="ico"><i class="iconfendi-instagram"></i><span class="text">Instagram</span></a></li><li role="menuitem"><a aria-label="Follow us on Twitter" href="http://www.twitter.com/Fendi" target="_blank" class="ico"><i class="iconfendi-twitter"></i><span class="text">Twitter</span></a></li><li role="menuitem"><a aria-label="Follow us on YouTube" href="http://www.youtube.com/Fendi" target="_blank" class="ico"><i class="iconfendi-youtube"></i><span class="text">YouTube</span></a></li><li role="menuitem"><a aria-label="Follow us on Google+" href="http://www.google.com/+Fendi " target="_blank" class="ico"><i class="iconfendi-gplus"></i><span class="text">Google+</span></a></li><li role="menuitem"><a aria-label="Follow us on Pinterest" href="http://www.pinterest.com/FendiOfficial" target="_blank" class="ico"><i class="iconfendi-pinterest"></i><span class="text">Pinterest</span></a></li><li role="menuitem"><a data-modal-class="vex-half vex-theme-full-sm vex-theme-full-xs" data-modal="true" href="/us/action/modals/share-by-wechat" aria-label="Follow us on WeChat" class="ico"><i class="iconfendi-wechat"></i><span class="text">WeChat</span></a></li><li role="menuitem"><a aria-label="Follow us on Weibo" href="http://weibo.com/fendi" target="_blank" class="ico"><i class="iconfendi-weibo"></i><span class="text">Weibo</span></a></li><li role="menuitem"><a aria-label="Follow us on Spotify" href="https://play.spotify.com/user/fendioriginal" target="_blank" class="ico"><i class="iconfendi-spotify"></i><span class="text">Spotify</span></a></li><li role="menuitem"><a rel="nofollow" aria-label="Follow us on Snapchat" href="https://www.snapchat.com/add/fendi" target="_blank" class="ico"><i class="iconfendi-snapchat"></i><span class="text">Snapchat</span></a></li><li role="menuitem"><a rel="nofollow" aria-label="Follow us on Line" href="https://line.me/R/ti/p/%40fendi" target="_blank" class="ico"><i class="iconfendi-line"></i><span class="text">Line</span></a></li></ul></div></div><div class="lower-bar"><div class="group-link"><h4 class="sr-only">Corporate links</h4><div class="list-link exp expandable-xs"><h5 data-expandable-target="#ref-b0f8d434-407b-41ad-ae7e-1ac6bd968f36" data-expandable-context=".exp" class="expand-list" id="acc-b0f8d434-407b-41ad-ae7e-1ac6bd968f36">
+              Customer Care
+          </h5><ul aria-labelledby="acc-b0f8d434-407b-41ad-ae7e-1ac6bd968f36" class="list-unstyled" role="menu" id="ref-b0f8d434-407b-41ad-ae7e-1ac6bd968f36"><li class="" role="menuitem"><a href="/us/info/customer-care/contact-us" class="" target="_self">Contact us</a></li><li class="" role="menuitem"><a href="/us/info/customer-care/faq" class="" target="_self">FAQs</a></li><li class="" role="menuitem"><a href="/us/info/customer-care/shipping-and-delivery" class="" target="_self">Orders and Shipping</a></li><li class="" role="menuitem"><a href="/us/info/customer-care/returns-and-refunds" class="" target="_self">Returns and Refunds</a></li><li class="" role="menuitem"><a href="/us/info/customer-care/track-your-order" class="" target="_self">Track your Order</a></li><li class="" role="menuitem"><a href="/us/info/customer-care/return-form" class="" target="_self">Return Form</a></li></ul></div><div class="list-link exp expandable-xs"><h5 data-expandable-target="#ref-2782bf64-1910-4fda-92ca-066cde1f1996" data-expandable-context=".exp" class="expand-list" id="acc-2782bf64-1910-4fda-92ca-066cde1f1996">
+              Fendi &amp; Me
+          </h5><ul aria-labelledby="acc-2782bf64-1910-4fda-92ca-066cde1f1996" class="list-unstyled" role="menu" id="ref-2782bf64-1910-4fda-92ca-066cde1f1996"><li class="" role="menuitem"><a href="/us/my-account" class="" target="_self">Log in / Register</a></li><li class="" role="menuitem"><a href="/us/my-account/suggestions" class="" target="_self">Fendi 4 You</a></li><li class="" role="menuitem"><a href="/us/wishlist" class="" target="_self">Wish List</a></li></ul></div><div class="list-link exp expandable-xs"><h5 data-expandable-target="#ref-3e875584-c100-4062-ba09-cc1fc5092529" data-expandable-context=".exp" class="expand-list" id="acc-3e875584-c100-4062-ba09-cc1fc5092529">
+              Corporate
+          </h5><ul aria-labelledby="acc-3e875584-c100-4062-ba09-cc1fc5092529" class="list-unstyled" role="menu" id="ref-3e875584-c100-4062-ba09-cc1fc5092529"><li class="" role="menuitem"><a href="/us/fendi-roma" class="" target="_self">Fendi Roma</a></li><li class="" role="menuitem"><a href="/us/store-locator" class="" target="_self">Store Locator</a></li><li class="hidden-xs" role="menuitem"><a href="https://careers.fendi.com/" class="" target="_blank">Careers</a></li><li class="" role="menuitem"><a href="http://www.fendiprivatesuites.com/en" class="" target="_blank">Fendi Private Suites</a></li></ul></div><div class="list-link exp expandable-xs"><h5 data-expandable-target="#ref-0600a705-5250-4978-b271-163060046058" data-expandable-context=".exp" class="expand-list" id="acc-0600a705-5250-4978-b271-163060046058">
+              Legal Area
+          </h5><ul aria-labelledby="acc-0600a705-5250-4978-b271-163060046058" class="list-unstyled" role="menu" id="ref-0600a705-5250-4978-b271-163060046058"><li class="" role="menuitem"><a href="/us/info/legal-area/privacy-policy" class="" target="_self">Privacy Policies</a></li><li class="0" role="menuitem"><a href="/us/info/legal-area/cookie-policy" class="" target="_self">Cookie Policy</a></li><li class="0" role="menuitem"><a href="/us/info/legal-area/terms-sale" class="" target="_self">Terms and Conditions of Sale</a></li><li class="0" role="menuitem"><a href="/us/info/legal-area/terms-use" class="" target="_self">Website Terms of Use</a></li><li class="" role="menuitem"><a href="/us/info/legal-area/compliance" class="" target="_self">Compliance</a></li></ul></div></div><div class="bottom"><button class="active" aria-expanded="true" data-modal="/us/action/shipping-to" data-toggle="modal">
+    Shipping to: United States
+  </button><div class="dropdown"><button data-toggle-html-class="hamburger-open" data-popover-skip-hover="true" aria-expanded="false" aria-label="Change Language: English" data-popover-target="#change-language-footer"> English
+                </button><div role="dialog" aria-hidden="true" class="popover footer" id="change-language-footer"><ul><li><a href="/?lang=en_US">English</a></li><li><a href="/?lang=es">Español</a></li></ul></div></div><p class="copy">© FENDI - all rights reserved - P. IVA 00900541004 Licenza SIAE N. 3566/I/1417 - v. 6.0.47.as3</p></div></div></div></footer><div class="back-to-top-wrapper visible-xs"><a href="#" class="back-to-top in">Back to top</a></div></div><div class="dark-backdrop"><img aria-hidden="true" alt="Loading" src="https://static.www.fendi.com/docroot/fendi/6.0.47/images/loader.gif"></div><script id="cookies-setup">
+    window.CookiesSetup = {
+      'message': "This website uses third party profiling cookies to send advertising messages in line with your preferences. If you want more information or would like to disable all or some cookies, &lt;a href\=&#034;/us/info/legal-area/cookie-policy&#034;&gt;click here&lt;/a&gt;. &lt;br/&gt;If you want, you may authorise the use of cookies.&lt;button class=&#034;close-cookies&#034;&gt;Close&lt;/button&gt;",
+      'button': "I authorize",
+      'cookieName': "f_cookiedisclaimer-v1",
+      'path': '/',
+      'expires': 30
+    };
+    </script><script src="//players.brightcove.net/5704890267001/default_default/index.min.js"></script><script src="https://static.www.fendi.com/docroot/fendi/6.0.47/javascripts/libs.js">/**/</script><script src="https://static.www.fendi.com/docroot/fendi/6.0.47/javascripts/jwplayer.js">/**/</script><script src="https://static.www.fendi.com/docroot/fendi/6.0.47/javascripts/map-libs.js">/**/</script><script src="https://static.www.fendi.com/docroot/fendi/6.0.47/javascripts/videojs-ga.js">/**/</script><script src="https://static.www.fendi.com/docroot/fendi/6.0.47/javascripts/main.js">/**/</script><script src="//media.richrelevance.com/rrserver/js/1.2/p13n.js">/**/</script>
+  <script type="text/javascript" charset="utf-8">
+
+  if (typeof window.r3_common != 'undefined' && typeof window.App.Pages.EngineRec != 'undefined' ) {
+      R3_COMMON = new r3_common();
+
+      App.Pages.EngineRec.initialize(
+        'ca93d2fe53fec0c1'
+        ,'recs'
+        ,''
+        ,'BDA837CE6F60CC819E03F933A8B52F06.pro-hybris-fendi-as3'
+        ,'t-editorial-with-sidebar'
+        ,true
+        ,'us'
+        ,'/us/'
+        ,'https://www.fendi.com'
+        );
+  
+    }
+  </script> <script type="text/javascript" charset="utf-8">
+
+
+</script> <script>/**/
+  App.ieHacks = "https://static.www.fendi.com/docroot/fendi/6.0.47/javascripts/ie-hacks.js";
+  App.Utils.Ajax.useUjs = true;
+  App.gapi_key = "AIzaSyBH8zrI7BmpU_RWBXH_DX4toNsYz3aeBWk";
+  App.videojsGa = "https://static.www.fendi.com/docroot/fendi/6.0.47/javascripts/videojs.ga.js";
+  App.init();
+  </script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"errorBeacon":"bam.nr-data.net","licenseKey":"80f97d8c29","agent":"","beacon":"bam.nr-data.net","applicationTime":130,"applicationID":"28226627","transactionName":"ZlFbMBRQXBYHBRVRWV8behEVRV0ISRJMXVJYQFYWD1BeSBEPFVAbQl1dAQRQQA==","queueTime":0}</script></body></html>
