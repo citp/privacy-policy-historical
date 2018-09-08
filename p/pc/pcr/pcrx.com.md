@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcrx.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509065820id_/http%3A//www.pcrx.com/Legal/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcrx.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908202736id_/http%3A//www.pcrx.com/Legal/Privacy.aspx) for the most accurate reproduction.*
 
 # PCRx.com
 
@@ -197,6 +197,6 @@ This Privacy Policy may change from time to time and an updated Privacy Policy w
 
 ## GOVERNING LAW AND JURISDICTION
 
-Xacti CZ, s.r.o. operates under the regulatory guidelines of the United States of America.
+Worklio s.r.o. operates under the regulatory guidelines of the United States of America.
 
 **Last Updated:** January 26, 2017
