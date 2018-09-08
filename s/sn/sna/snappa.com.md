@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snappa.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513222946id_/https%3A//snappa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snappa.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908103348id_/https%3A//snappa.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Snappa
 
@@ -53,7 +53,7 @@ We will try to ensure that information about you is accurate, complete and up-to
 
 ####  Access 
 
-If you have any questions about the collection, use or disclosure of your personal information or if you simply want to know whether we have any of your personal information on file, you may contact Snappa support at contact@snappa.com. Except in limited circumstances, as specifically provided by applicable privacy legislation, we can tell you whether we hold personal information about you. 
+If you have any questions about the collection, use or disclosure of your personal information or if you simply want to know whether we have any of your personal information on file, you may contact Snappa support at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Except in limited circumstances, as specifically provided by applicable privacy legislation, we can tell you whether we hold personal information about you. If we do hold personal information about you, you may request that this information be erased. 
 
 ####  Notice 
 
