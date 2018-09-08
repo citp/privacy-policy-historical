@@ -1,54 +1,105 @@
-> *The following text is extracted and transformed from the dollywood.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102011439id_/http%3A//www.dollywood.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollywood.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908203516id_/https%3A//www.dollywood.com/Privacy) for the most accurate reproduction.*
 
-# Dolly Parton's Great Smoky Mountain Family Amusement Park
+# Privacy Policy | Dollywood | Pigeon Forge, TN
 
-The Dollywood Company values our customers and their privacy. The information below provides specific details concerning how we use any information you choose to share with us. However, if you choose not to read our Online Privacy Policy in its entirety, please know that THE DOLLYWOOD COMPANY WILL NEVER SHARE YOUR INFORMATION EXCEPT IN A SPECIFIC SITUATION WHERE DOING SO IS REQUIRED TO SUCCESSFULLY COMPLETE A TRANSACTION AND/OR ORDER WHICH YOU HAVE INITIATED. After reading our policy, you may submit any questions or concerns using the contact information provided at the conclusion. We appreciate you taking the time to familiarize yourself with our policy and hope that you find this information helpful.
+This Privacy Notice (“Notice”) applies to the websites, mobile applications, and online services of Herschend Entertainment Company, LLC, and its subsidiaries and affiliates, that provide this Notice (the “Online Services”). The Online Services include any publicly accessible Internet access system available at Herschend properties. This Notice does not apply to information collected or received apart from the Online Services and does not apply to data that does not allow us or third parties to identify or contact you.
 
-___________________________________________________________________
+* **What Information Does Herschend Gather?**
 
-The Dollywood Company is committed to protecting the privacy and security of our Internet visitors and customers. The following policy is designed to provide you the opportunity to learn more about how we use information collected via its website for:
+Information You Give Us. We may collect and retain any information provided by you or gathered from your devices in connection with your online activity. For example, we collect information you give us when you: 
 
-Dollywood:  [www.dollywood.com](http://www.dollywood.com/)   
-Dollywood’s Splash Country:  [www.dollywoodssplashcountry.com](http://www.dollywoodssplashcountry.com/)   
-Dollywood Vacations:  [www.dollywoodvacations.com](http://www.dollywoodvacations.com/)
+  * visit or use our Online Services;
+  * purchase tickets, register for events, book reservations or otherwise engage in other transactions with us; 
+  * communicate with us, such as to provide feedback, ask for additional information, complete an online survey, request support or service, apply for a job, or ask for additional information; 
+  * register for or manage an account with us; or 
+  * subscribe to newsletters, email lists, text messaging, push notifications or other content we provide. 
+  * Download our mobile application
 
-This policy does not apply to information which we may gather in other ways from you.
+We may collect information such as your first and last name, home or other physical address, email address, telephone number, date of birth and other information that permits you to be contacted physically or online, and other information, including information about your interactions with us or others. You may also provide us information about others, e.g., when purchasing tickets or registering for an event. We may collect payment information when you transact with us. You may choose not to provide certain information to us but doing so may restrict your ability to use our Online Services or conduct certain business with Herschend. 
 
-By using any of this site, you are accepting the Dollywood Company Online Privacy Policy. If you do not agree to this policy, please do not use this site. We reserve the right to modify, alter or otherwise update this policy at any time. We encourage you to periodically review this page for the latest information on our privacy and security practices.
+Social Media. We may collect information through our presence on social media and networking platforms. You may use social networks or other online services to access our Online Services. When you do so, information from those services may be made available to us. By associating a social network account with our Online Services, you agree that we may access and retain information relating to that account in accordance with the policies of the social network or other online service and this Notice. For example, we may be able to access account or profile information that you have provided to the social network or information about your interactions with the social network.
 
- **Data Collection and Use:** No personally identifiable information, such as your name, address, or e-mail address, is automatically collected from your visit to this site. Non-identifiable information such as browser type, operating system, and IP address is gathered to ensure our site is optimized for the mass users. This information is also used to improve the performance of our site.
+In addition, we may offer social networking features through our Online Services. Through participation in these features, you may choose to share information with us regarding your interests, hobbies, activities, geographic location(s), likes and dislikes. We may also collect information about you that we receive from other users or from third party applications or websites, such as data that is generated when another user tags you in a photo, video, or place, provides details about you, or indicates a relationship with you. Through ourselves or with third parties, we may keep track of transactions and connections that you make, applications that you use, feedback that you give to others, content that you provide or upload, how you respond to ads, and other actions that you take on the Online Services. We may also collect e-mail addresses of people you know (e.g., so that you can add them to your contacts).]
 
-However, our various contact & reservation forms and surveys may request that you provide personal information (such as your name, mailing and/or e-mail address) demographic information (such as your age and gender) and profile data (such as your preferences in entertainment and/or a record of past visits to the park). Information submitted at the time of registration or submission may be used for marketing purposes by us. In addition, should you elect to use the Trip Planner feature of the site, information about your trip will be stored by our vendor who provides hosting services for this website. 
+Device and Web Browsing Information. We may collect information from your devices and about your web browsing when you visit or use our Online Services. We may collect information such as:
 
-You may elect to provide The Dollywood Company with anecdotes or stories of your visit to one of our attractions, or to provide images or videos of your visit. Our use of that material and your rights will be described in detail at the time you make your election to submit that material. 
+  * your IP address;
+  * the type of browser, devices and operating systems you use;
+  * identifiers associated with the device(s) you use to access our Online Services;
+  * the pages you visit and the features you use, including dates and times;
+  * if you navigated from or navigate to another website, the address of that website; and
+  * information regarding your internet service provider.
 
-When you make a ticket purchase through this site, you are actually making a transaction through one of our partner sites. That partner will collect such personal information (including credit card information) as may be necessary to complete that transaction. For information about the partner’s privacy policies, you may find a link on the transaction page that will take you to the partner site where their privacy policy will be found.
+In addition, we may collect information about your activities on our Online Services through the use of cookies, clear GIFs or web beacons, local shared objects or Flash cookies, or through other identifiers or technologies, including similar technologies as they may evolve over time. We refer to these technologies collectively as “Data Technologies.”
 
-We also retain information regarding your purchase in our records, including information regarding your credit card. That information will be retained in the event adjustments or refunds may be required or to permit us to respond to questions which you may have. Only personnel with a “need to know” have access to that credit card information.
+We may allow third parties to use Data Technologies on our Online Services. The information collected by Data Technologies may be shared with and used by us, by others acting on our behalf, or by third parties subject to their own privacy policies. Information collected by Data Technologies may be used on this or on other websites or services, including those that may not be operated by us.
 
- **An Important Note about Children’s Online Privacy Protection:** We do not knowingly collect any personal information about children under the age of 13 years. To sign up for our e-newsletters or other updates, podcasts, RSS feeds, etc, you must be 13 years of age or older. To participate in sweepstakes and contests, you must be 18 years of age or older.
+Email _._ __ We may collect information regarding the effectiveness of our email and other communications with you. For example, we may know if you follow a link in an email we send to you.
 
- **Security:** We collect contact information which you provide (such as your name, mailing and/or e-mail address), and when appropriate, credit card information (your credit card number and expiration date) to process your order. Contact information from an order form is used to fulfill orders, and to reply to questions submitted by users. Credit card information that is collected is used to process your orders and will not be shared with third parties. When you provide credit card information (or sensitive personal information on an online employment application), we use secure socket layer (SSL) encryption to protect it. We will give out personal information to third parties only to comply with any legal actions such as a court order or to protect the safety and security of site users, the site, and property. Within our companies, such information will be provided only to employees with a need to know.
+Geolocation. We may collect session and geolocation information from your device. Geolocation information includes data such as your device’s physical location and may include GPS-based, WiFi-based or cell-based location information.
 
- **Cookies:** A cookie is a text file containing a unique identification number that is transferred from the website to your computer's browser. Cookies allow a website to track site navigation by its visitors. A cookie does not allow access to any information about you that you have not volunteered. As an example, we use cookies to keep track of your shopping cart order and to help identify you when you return to the shopping cart. Cookies may also be used to track other sites of interest to you but no personal information is transferred to other sites in that process.
+Information from Other Sources. We may obtain information about you from other third parties. This information may include information about your use of our Online Services, your use of other websites, your interests and preferences and other information about you or your household. We and others may combine information about you.
 
-Most browsers are initially set up to accept cookies; however, you can reset your browser to refuse all cookies or indicate when a cookie is being sent. If you choose to disable your cookies setting or refuse to accept a cookie, some parts of our site may not function properly or may be considerably slower. For example, without cookies, you will have difficulty completing ticket transactions with the shopping cart.
 
- **IP Addresses:** An IP address is a number that's automatically assigned to your computer by your Internet provider. This site collects IP addresses for the purpose of system administration and analyzing how our site is used. We may use your IP addresses in cooperation with your Internet provider to identify you only if we feel it is necessary to protect our service, sites, customers, or others.
 
- **Links to Other Sites:** The Dollywood Company is not responsible for the content or practices of third party websites that may be linked from our site or choose to link to our site. These sites operate independently of our site and have established their own privacy and security policies. Links posted on our site to other businesses does not imply that we endorse or are responsible for the services and products offered by mentioned sites.
+* **How Does Herschend Use Information About Me?**
 
- **Removal from List:** You always have the option of removing your name from our e-mail lists by following the procedure listed on each website form or communication that is sent to you. You may also request to be removed by completing the [Guest Services form](https://www.dollywood.com/askaquestion.aspx) and requesting removal from our list. We will promptly remove your name from all e-mail communications.
+We and others acting on our behalf may use the information that we gather to operate our businesses. For example, we may: 
 
- **Correction of Personal Information:** Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information, unique identifiers, transaction information, communications that the consumer/visitor has directed to the site. Consumers can have this information corrected by e-mail, by postal mail, or by telephone using the contact information below.
+Operate and Support our Services. We use the information that we gather in order to operate our services. For example, we may use the information that we collect or receive to provide support and assistance that you request or to diagnose or address technical problems in the operation of our Online Services or other services. If you establish an account with us, we may use information about you to manage or support your account.  We may identify your use of our Online Services from different devices, and we may use information we collect from you and receive from others to optimize your use of the Online Services and our services as you use different devices.   
 
- **Contact Us:** If you have any questions about this privacy statement or wish to be removed from our e-mail list and/or other mailing lists, newsletters, or promotional updates, you may write to:
+Improve and Evolve our Services. We evaluate and improve our services, including developing new products or services and using the information we gather to do so.
 
-The Dollywood Company   
-Attn: Marketing  
-2700 Dollywood Parks Blvd.  
-Pigeon Forge, Tennessee, 37863
+Advertise and Promote Products and Services. We may use the information we gather to offer, provide, or personalize products and services from us. For example, we may customize content, advertising, communications and promotions to reflect your preferences, interests, or prior interactions with us and others.
 
-We can be reached by telephone at 1-865-428-9488 or online through our [Guest Services form](https://www.dollywood.com/askaquestion.aspx).
+Make Other Contacts. We may contact you through telephone, text, email, chat or other means as permitted by law. 
 
- **Privacy Policy Effective:** October 1, 2007
+This Notice only addresses our own information practices. This Notice does not apply to information you share with third parties even if we link to those third parties from an Online Service. These third parties may have their own privacy policies governing their use of information that you can access from their websites. 
+
+Please note that other parties may collect personally identifiable information about your online activities over time and across different websites when you use our Online Services.
+
+* **When Does Herschend Share Information?**
+
+We may share the information we gather, including as follows:
+
+Service Providers. We may share information with third party service providers and others who help us operate our business or provide services on our behalf. These service providers include those who may help us verify identities and backgrounds, those who help us handle your account or provide customer service, and analytics companies, advertising networks and others, such as those that provide Data Technologies on our Online Services. 
+
+Corporate Affiliates and Other Ventures. We may share information with our corporate affiliates for their everyday business purposes, to provide services or to perform marketing. We may also participate in joint ventures with others, and we may share information as part of such joint ventures. We may share information with other selected third parties, including those who may use the information we provide to send you offers that may be of interest to you.
+
+Promotional. We may share information with third parties who help us develop and promote products and services, including joint marketing, or to help us customize advertisements, offers, or other communications to you. 
+
+Business **** Transfer. We may share information we have collected from you in connection with the sale or merger of our business or the transfer of assets.
+
+Protection **** of Ourselves and Others. We may use and share the information we gather to protect our own and others’ rights and property, including protection of our affiliates, customers and members of the public. We may use and share the information we gather to comply with law (including cooperation with regulators or officials), legal process or legal advice, and for preventing fraud, theft, and injury to you, us or others.
+
+* **What Choices Do I Have Regarding My Information?**
+
+You may limit and control the information provided to us in a number of ways. You may not be able to use all features of our Online Services if you limit the information you share with us.
+
+You are not required to register for an account.  You may update information provided in your online account by logging on to your account and editing that information. 
+
+You may unsubscribe from promotional emails from us by following the unsubscribe link included in each such email or visit the following link to unsubscribe: [www.hfecorp.com/unsubscribe](http://www.hfecorp.com/unsubscribe).
+
+Your browser and your device may provide you the option to limit the use of cookies or other Data Technologies. You should consult documentation for your browser or device for more information. Your device may have settings that allow you to prevent sharing geolocation information with us. You should consult your device’s settings or help documentation for more information about exercising these options. 
+
+You may be able to opt-out of receiving certain advertising tailored to your interests by third parties. See [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices). (Note that you will still receive advertising even after opting-out but such advertising may be less targeted to your interests and preferences.) 
+
+To modify your contact preferences or opt out of all communication or advertising from any of our attractions, go to [www.hfecorp.com/preferences](http://www.hfecorp.com/preferences)
+
+* **How Does Herschend Address California Online Privacy Rights?**
+
+If you are a California resident, you have the right to receive: a) information identifying any third party company(ies) to whom we may have disclosed, within the previous calendar year, your Personally Identifiable Information for that company's direct marketing purposes; and b) a description of the categories of Personally Identifiable Information disclosed. To obtain such information, please email your request to [info@hfecorp.com](mailto:info@hfecorp.com).
+
+As of the Effective Date listed above, there is no commonly accepted response for Do Not Track signals initiated by browsers. Therefore, we do not respond to such signals or to other mechanisms that provide the ability to exercise choice regarding the collection of personally identifiable information regarding your online activities over time and across third party websites or online services.
+
+* **How Does Herschend Provide Updates to this Notice?**
+
+When we make material changes to this Notice, we will update this web page and change the Effective Date listed above.
+
+* **How Can Herschend be Contacted Regarding Privacy Issues?**
+
+You can contact us with questions or comments about our privacy practices or this Notice by contacting us at:  [info@hfecorp.com](mailto:info@hfecorp.com)
+
+* **How Does Herschend Address Information Security?**
+
+We maintain administrative, technical and physical safeguards designed to protect the personal information you provide us through our Online Services. However, you should understand that no safeguards guarantee 100% security.
