@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pamperedchef.com privacy policy that was archived on 2017-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170810115027id_/https%3A//www.pamperedchef.com/about-us-legal-privacy-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pamperedchef.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908110348id_/https%3A//www.pamperedchef.com/about-us-legal-privacy-page) for the most accurate reproduction.*
 
-# Legal Privacy Page - About Us | Pampered Chef US Site
-
-## **Privacy Policy**
+# Privacy Policy | Pampered Chef US Site
 
 Last Revised February 1, 2017
 
