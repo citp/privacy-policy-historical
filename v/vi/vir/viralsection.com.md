@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralsection.com privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131023621id_/http%3A//viralsection.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralsection.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908185131id_/http%3A//viralsection.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
