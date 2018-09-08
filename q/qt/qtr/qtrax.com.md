@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qtrax.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623190616id_/http%3A//www.qtrax.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qtrax.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908143016id_/http%3A//qtrax.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # QTRAX
 
