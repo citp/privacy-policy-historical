@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allbud.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190510id_/https%3A//www.allbud.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbud.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908033047id_/https%3A//www.allbud.com/privacy-policy) for the most accurate reproduction.*
 
 # AllBud.com | MMJ Dispensary Locator and Strain Resource - Privacy Policy
 
