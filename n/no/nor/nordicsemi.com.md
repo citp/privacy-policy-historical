@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nordicsemi.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622195722id_/http%3A//www.nordicsemi.com/eng/About-us/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nordicsemi.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908115027id_/https%3A//www.nordicsemi.com/eng/About-us/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy / About us / Home - Ultra Low Power Wireless Solutions from NORDIC SEMICONDUCTOR
 
-This document was updated Tue May 22nd, 2018.
+This document was updated Mon Aug 20th, 2018.
 
 We at Nordic Semiconductor ASA (including its subsidiaries) are committed to the protection of your personal data. Below you will find information regarding the types of personal data we collect, the reasons and purposes of processing your personal data, and your rights regarding our processing.
 
@@ -56,15 +56,29 @@ This processing is based on consent and/or legitimate interest.
 
 
 
-## **4.** **Navigation information**
+## **4.** **Navigation information - cookies and tracking pixels**
 
-We use «cookies» and similar technologies on our digital channels. Cookies help us determine which parts of our digital channels are most popular, including which pages users visit and how much time they spend on them. This information is used for development and analysis of services, as well as for targeted advertisements on web pages. You can read more about this processing in our separate cookie policy.
+We use «cookies» and similar technologies on our digital channels. Cookies help us determine which parts of our digital channels are most popular, including which pages users visit and how much time they spend on them. This information is used for development and analysis of services, as well as for targeted advertisements on web pages. 
+
+Purposes of these technologies include:
+
+  * Performance - anonymous analytics that shows us the overall usage patterns of the site and help us understand difficulties you may have using the site
+  * Functionality - allows us to remember your choices on our website, like what material you like and which newsletters you have subscribed to
+  * Targeting or advertising - remember what you have looked at on our site and sometimes share this info with 3rd-party advertisers like Facebook and Google. 
+
+
 
 Information about your browsing device, software, and your visit is automatically collected by us. This information can include your IP address, browser type, domain name, internet provider, operating system, timestamp, and the referring web page.
 
 We use tracking pixels (also called clear gifs, web beacons, web bugs), to help improve our digital channels by letting us know the content the user is viewing. Tracking pixels are not stored on your computer, but invisibly incorporated into our web pages. They enable us to measure the effect of our marketing strategy.
 
-We may use third parties for internet marketing. These third parties use cookies and tracking pixels to gather information about your activities on this and other web sites to offer you targeted advertising based on your interests. If you no longer wish to receive such information whose purpose is targeted advertisement, you can opt-out through this web site: <http://www.youronlinechoices.eu/>. Keep in mind that this will not block all types of advertisements. You will still be exposed to generic commercials.
+We may use third parties for internet marketing. These third parties use cookies and tracking pixels to gather information about your activities on this and other web sites to offer you targeted advertising based on your interests. If you no longer wish to receive such information whose purpose is targeted advertisement, you can opt-out through this web site: <http://www.youronlinechoices.eu/>. Keep in mind that this will not block all types of advertising - you will still be exposed to generic advertising.
+
+If you visit our social media pages/profiles, exemplified here by Facebook, they will use cookies and process your personal information. More information about this processing and how they’re using cookies can be found in the respective social media’s pages about Privacy and use of Cookies. In some cases we can use this information - via that social media platform – for targeted advertising.
+
+For information about how to disable cookies on commonly used browsers, please refer to http://www.allaboutcookies.org/manage-cookies/index.html
+
+To opt out of 3rd-party advertising or targeting, please visit: [www.aboutads.info/choices.](http://www.aboutads.info/choices)
 
 ##  **5.** **Protecting your information**
 
