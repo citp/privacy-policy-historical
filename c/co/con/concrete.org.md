@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the concrete.org privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904121955id_/https%3A//www.concrete.org/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concrete.org privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908025039id_/https%3A//www.concrete.org/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
