@@ -1,136 +1,128 @@
-> *The following text is extracted and transformed from the sennheiserusa.com privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505164311id_/https%3A//en-us.sennheiser.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sennheiserusa.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908145511id_/https%3A//en-us.sennheiser.com/privacy) for the most accurate reproduction.*
 
-# Sennheiser - Headphones & Headsets - Microphones - Integrated Systems
+# Sennheiser - Privacy Statement
 
-## SENNHEISER ELECTRONIC CORPORATION PRIVACY STATEMENT
+### as of May 25, 2018
 
-**Last updated: April 25, 2013**
+**1.Introduction**
 
-BY USING THIS WEBSITE OR COMMERCE SOLUTION OR SUBMITTING PERSONAL INFORMATION TO SENNHEISER THROUGH THIS WEBSITE OR COMMERCE SOLUTION, YOU ARE CONSENTING TO THE COLLECTION, USE, TRANSFER, AND DISCLOSURE OF INFORMATION AS DESCRIBED IN THIS PRIVACY STATEMENT.
+This policy applies to any websites operated by Sennheiser electronic GmbH & Co. KG (hereinafter referred to as “Sennheiser”). Other policies may apply to other third-party servers and websites.
 
-### Scope of this Privacy Statement
+When you visit our website, your personal data will be collected by us.   
+As we take the protection of personal data very seriously, we like to inform you which personal data exactly is stored and how this data is used.
 
-In General. This Privacy Statement applies to each commerce solution, which may be but is not limited to a website or a software application (each, a "Property") operated by Sennheiser Electronic Corporation, 1 Enterprise Drive, Old Lyme, Connecticut 06371, USA ("Sennheiser") where this Privacy Statement can be accessed from a hyperlink on, or otherwise appears on, that Property.
+We are subject to the provisions of the European General Data Protection Regulation (DSGVO), the Federal Data Protection Act (BDSG) and the Telemedia Act (TMG) and have taken appropriate technical and organizational measures to ensure that these data protection regulations are observed.
 
-Sennheiser respects the privacy of our customers, partners and suppliers of products or services and clients. The purpose of this Privacy Statement is to provide you with information concerning how we collect personal information when you use this Property, and how we collect other information regarding your interaction with this Property without identifying you as an individual; how we use, handle and disclose collected information; and choices you may have about the ways we collect and use that information. Our goal in handling personal information provided to us is to comply with applicable data protection and privacy laws and to offer users of our Property notice, choice and consent regarding processing for direct marketing purposes, security, data integrity, access, and enforcement with regard to personal information.
+**2.Controller**  
+Sennheiser electronic GmbH & Co. KG  
+Am Labor 1  
+30900 Wedemark  
+Germany  
+Tel .: +49 (0) 5130 600 0  
+Fax: +49 (0) 5130 600 1300  
+E-Mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3d5e5253495c5e497d4e5853535558544e584f135e5250 "contact@sennheiser.com")  
+Further details can be found in the imprint.
 
-"Personal information" means information that identifies you personally, either alone or in combination with other information available to us.
+**3.Data Protection Officer**
 
-Supplemental Privacy Notices. This Privacy Statement may be supplemented or amended from time to time by additional "Privacy Notices" posted or appearing on this Property. Such Privacy Notice will provide supplemental information on how we collect and handle information specific to where that Privacy Notice appears, and is intended to be read together with this Privacy Statement.
+For questions about this privacy policy, you can also contact the Sennheiser Data Protection Officer:
 
-Third Party Privacy Policies or Statements. If you access a Property through which we offer products or services for sale, the Property may be co-branded with the name and branding of the organization whose product you are purchasing. If the privacy policy or statement of one of our partners also appears on this Property, this Privacy Statement will apply to our use of any information collected by us, and the privacy policy or statement of our partner will apply to any such information provided to that partner as contemplated by this Privacy Statement and any supplemental Privacy Notices.  
-Changes to this Privacy Statement
+Oliver Goldstein  
+PwC Cyber Security Services GmbH  
+Kapelle-Ufer 4, 10117 BerlinGermany  
+e-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#abc4ccc4c7cfd8dfcec2c5ebdbdcc886c8d2c9ced9d8cec8ded9c2dfd285c8c4c6 "ogoldstein@pwc-cybersecurity.com")
 
-We may occasionally update this Privacy Statement. These updates may reflect, among other things, changes in applicable laws, rules or regulations, changes in our data collection practices, and/or changes to our business or services. Changes to our Privacy Statement will become effective 30 days after posting and will only apply to your personal information we hold if you use the site after the revised statement becomes effective. If revisions to the Privacy Statement materially affect how we may use Personal Information collected from you prior to the date of the revised statement, then we will request that you opt-in to the revised Privacy Statement. We will post an updated version of this Privacy Statement on the Property with a revised effective date, to let you know that we updated the Privacy Statement.  
-Collection of Information
+**4.Handling of personal data**
 
-We collect personal information you provide when you use this Property. This may include, but is not limited to, the following situations: where you are providing information when you request information about, or use, a product or service available through this Property, or information you provide when you purchase a product or service through this Property; where you are entering a contest or a promotion, ordering a newsletter or utilizing other informational tools; and where you are submitting an order or purchasing, downloading and/or registering products and/or signing up for additional services.
+Personal data means any information relating to an identified or identifiable natural person; a natural person is regarded as identifiable, which can be identified directly or indirectly, in particular by association with an identifier such as a name, with an identification number, with location data, with an online identifier or with one or more special features.
 
-The information we collect may include, but is not limited to, your name, e-mail address, IP address, billing and/or shipping address, phone number, payment account information, and other information about you submitted to verify who you are or to prevent fraud. If you call our customer service, we may collect personal information you knowingly and voluntarily provide through your contact with our customer service representatives.
+**5.Collected data, purposes of data processing and legal basis**
 
-We furthermore collect information that is sent to us by your web browser, which may include without limitation information that does not identify you personally (such as the date and time of your visit, information about your web browser, etc.). The information we receive in such manner depends on the settings on your web browser. If you have created a user identity on one of your visits to this Property, we may link the information provided by your browser to information that identifies you personally and use it for the purposes described below. Please review the settings of your web browser if you want to learn what information your browser can send or how to change your browser settings.
+Every time a user accesses a Sennheiser page and every time a file is accessed, data about that process is stored in a log file. Depending on the access protocol used, the log record contains information with the following contents:
 
-We may also receive certain personal information about you from third parties where you have agreed to share such information with us, such as through your use of a social network authentication to sign in to this Property.  
-Cookies and Web Beacons, JavaScript tags, and Other Web Technologies
-
-We collect information that is typically not personally identifiable through the use of web technologies, including without limitation "session cookies," "persistent cookies," "web beacons" (also referred to as "tracking pixels," "pixel tags," or "action tags"), and "JavaScript tags." As the Internet evolves, we may implement and use different types of technologies for this purpose.
-
-We may place web technologies on this site directly or through our third party providers, and may place web technologies on behalf of the partner whose branding appears on this Property or its service providers and allow that partner to utilize the data collected. This information is used to enhance your use and experience with this Property, for marketing analysis, and for quality improvement purposes. They also help us identify your IP address. The information collected by web technologies does not identify you personally. However, if you have created a user identity on one of your visits to this Property, for example, by making a purchase, we may link the information we collect using web technologies to the information that identifies you personally.
-
-Cookies. When you visit or use this Property, your computer may receive one or more "cookies" in order to help personalize and support your use of this Property, our services, and/or the services of our partners. A "cookie" is a small text file that is transferred to a web browser by a web server, and can be read by a web server in the same domain at a later time. If you do not wish to receive cookies or wish to manage when you accept cookies in general, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. We provide more information on this in the "Your Choices" section, below. Although you are not required to accept our cookies, if you set your browser to reject cookies, you may not be able to use all of the features and functionality of this Property. Cookies allow us to customize information that is presented to you through your use of a Property we host and/or operate (such as to display personalized content and targeted advertising to you on your future visits to that Property), and to save time by storing information so you do not need to re-enter it during a later use of a Property. In general, cookies do not identify you personally. We may use a combination of "session cookies" and "persistent cookies" on this Property, further described below.
-
-Session Cookies. A "session cookie" is a temporary cookie that expires when you close your browser. A session cookie assigns a randomly-generated, unique identification number to your computer when you access this Property. Assigning your computer a number facilitates the proper functioning of the features of our Property by permitting us to maintain a persistent "state" for your session, such as maintaining the contents of your shopping cart during checkout. We also use session cookies to collect anonymous information (i.e., information that does not identify you personally) about the ways visitors use this Property – which pages they visit, which links they use, and how long they stay on each page. We analyze this information (known as "click-stream information") to better understand our visitors’ interests and needs and to improve the content and functionality of this Property.
-
-Persistent Cookies. Unlike a session cookie, a "persistent cookie" does not expire when you close your browser. It stays on your computer until the expiration date set in the cookie (for example, at the end of a calendar month) or until you delete it. Persistent cookies can be used to "tag" your computer so that the next time you visit (or someone using your computer visits), our server will recognize you, not by name, but by the "tag" on your computer. This will enable us to provide you with a personalized experience even if we do not know who you are. It will also allow us to collect more accurate information about the ways people use this Property, for example, how people use this Property on their first visit and how often they return. Using persistent cookies permits us to provide you with a more personalized shopping experience and, in some cases, may save you the trouble of re-entering information already in our database.
-
-Web Beacons. When you visit or use this Property, your computer may receive one or more "web beacons" in order to assist us with delivering cookies on this Property, to collect anonymous information about the use of this Property by our visitors, and to deliver customized or targeted content to you on this Property and through our partners. Web beacons (also referred to as "tracking pixels," "1x1 gifs," "single-pixel gifs," "pixel tags," or "action tags") are graphic images, usually no larger than a 1x1 pixel, placed at various locations on this Property. They also help us identify browser types, search terms that bring visitors to our Property, and the domain names of websites that refer traffic to us. We also utilize web beacons to provide us with more information on any emails we send out. In particular, a web beacon in an email communication will send us information to let us know that you have received, opened, or acted upon an e-mail you have chosen to receive from us.
-
-JavaScript Tags. This Property may include one or more JavaScript tags which are used by us to collect anonymous information about the use of this Property by our visitors, and to deliver customized or targeted content to you on this Property and through our partners. We may use JavaScript tags to anonymously track how visitors interact with our Properties, including where they came from and the manner in which they use our Properties.  
-Storage, Use and Sharing of Information
-
-Your personal information provided to us will be processed on our computer servers. In some cases (where it is necessary to do so in order to fulfill our contractual obligations to you) such information may also be transmitted or made available to (i) third-parties providing services to Sennheiser or (ii) product manufacturers, licensors and/or or suppliers, located in the European Economic Area ("EEA"), the United States of America or another territory outside the EEA.
-
-Our Use of Personal Information. We may use personal information collected by us for the following purposes:
-
-  * to contact you if you have requested information or communication from us;
-  * to determine the country in which you are located for compliance purposes (including without limitation export compliance) and for security, anti-piracy, and fraud prevention purposes;
-  * to help verify that existing personal information about you in our possession is accurate and complete;
-  * to provide you with product updates and upgrades, special offers, pricing information, newsletters, and other information, either on our own behalf or in some cases on behalf of a partner or client acting as their agent, where you have consented to receive it;
-  * to undertake any other promotional activities where you have consented to such promotional activities;
-  * in connection with keys, access codes or other information as may be required to permit you to access the websites or services of our partners to receive products, updates or services;
-  * for the purposes identified in a specific Supplemental Privacy Notice posted on the page or area of this Property where you provided that information;
-  * to verify compliance with applicable laws, rules and regulations;
-  * if you visit this Property for the purposes of conducting a purchase transaction:
-  * to take, verify, process or deliver your order, process or obtain payment, verify your tax or tax exempt status, contest chargebacks, determine your eligibility for a line of credit, or notify you of the status of your order;
-  * for fraud and piracy prevention purposes;
-  * to provide you, to the extent permitted by law, with a personalized shopping experience;
-  * to register your purchase with the manufacturer or service provider for warranty, technical support or similar purposes;
-  * to provide notice of your purchase to the provider of an online service for which you purchase a service use right from us, for example, in order for the service provider to enable your access to the service;
-  * to establish an account for future purchases by you if you have consented to the creation of an account;
-  * to facilitate the renewal of subscriptions for products or services; and
-  * to provide you with effective customer service (which may to the extent and in a manner permitted by applicable law, include contacting visitors who commence but do not complete a checkout process to follow up on the incomplete session or to see if there was a problem with their use of this Property), and/or technical support.
+  * IP address of the requesting computer
+  * Name of the requested file
+  * Date and time of the request
+  * Desired access methods / functions from the requesting computer
+  * Access status of the web server
+  * The URL from which the file was requested
+  * Operating system and browser type or browser settings.
 
 
 
-We keep your personal information only as long as we need it for the purposes for which it was originally collected (or to which you have subsequently consented), for other legitimate purposes (such as regulatory compliance), and as permitted or required by applicable law. We will observe applicable law and take reasonable steps to ensure any person or entity receiving personal information for the purposes described above, are obligated to protect and keep secure the personal information on your behalf.
+No usage profiles are created that link IP addresses and personally identifiable information. Something different is only valid if this is defined separately in this policy.
 
-Our Use of Anonymous Information. We may use anonymous information collected by us:
+The stored data will be used exclusively for purposes of technical content provision, identification and tracking of inadmissible access attempts / accesses to the web server as well as for statistical evaluations such as visitor numbers and page popularity. The evaluation is carried out only by authorized employees of Sennheiser.
 
-  * to personalize and support your use of this Property, our services, and/or the services of our partners;
-  * to improve this Property, the customer experience, our advertising systems, and our products and services;
-  * for fraud prevention purposes, such as device fingerprinting;
-  * to identify actions or transactions as originating through an affiliate marketing or referral program;
-  * to deliver targeted advertisements on this Property and other websites and/or commerce solutions;
-  * to provide reporting to our current and prospective partners and service providers; and
-  * for other historical, statistical or research and analysis purposes.
+**6.Use of cookies**
+
+As part of your visit to our website, we use cookies if you consented to it or this is technically required for providing our services to you. These are small text files that are stored on your computer through our web application and through which we can recognize your internet browser. The common internet browsers are set to automatically accept cookies. However, you can disable it or set your Internet browser to notify you of the use of cookies.
+
+The cookie data is not used to personally identify you.
+
+Persistent cookies are stored on your computer for 7 days and are designed to give you the most comfortable use of our website beyond the current visit and are used by us for the purpose of displaying individual content.
+
+If you do not want to allow persistent cookies, you can do so by disabling them in your browser. For details on the procedure, please refer to the help function in the menu bar of your browser. The deactivation of persistent cookies does not affect the usability of our site in general.
+
+Session cookies are only stored on your system until your current browser session is closed. They serve to give you an unlimited use of our services for the current visit of our site. These data are anonymous, so you are not personally identifiable.
+
+If you do not want to allow session cookies, you can do so by disabling session cookies in your browser. For details on the procedure, please refer to the help function in the menu bar of your browser.  
+By deactivating session cookies, we cannot guarantee that you will be able to use all our services without restriction.
+
+**7.Google Analytics**
+
+This website uses Google Analytics, a web analytics service provided by Google Inc. 1600 Amphitheater Parkway, Mountain View, CA 94043, USA ("Google"). The information generated by the cookie about your use of this website is usually transmitted to a Google server in the USA and stored there. However, in the event of activation of IP anonymisation on this website, your IP address will be shortened beforehand by Google within member states of the European Union or in other contracting states of the Agreement on the European Economic Area. Only in exceptional cases will the full IP address be sent to a Google server in the US and shortened there. On behalf of the operator of this website, Google will use this information to evaluate your use of the website, to compile reports on website activity and to provide other services related to website activity and internet usage to the website operator. The IP address provided by Google Analytics as part of Google Analytics will not be merged with other Google data. You can prevent the storage of cookies by a corresponding setting of your browser software. In addition, you may prevent the collection by Google of the data generated by the cookie and related to your use of the website (including your IP address) as well as the processing of this data by Google by using the link below [http: // tools.google.com/dlpage/gaoptout?hl=en](http://%20//%20tools.google.com/dlpage/gaoptout?hl=en "http: // tools.google.com/dlpage/gaoptout?hl=en") to download and install the available browser plugin.  
+For more information about Terms of Use and Privacy, please visit <http://www.google.com/analytics/terms/en.html> or <https://www.google.com/intl/en/policies/>.  
+We point out that on this website Google Analytics has been extended by the code "anonymizeIp" to ensure an anonymous collection of IP addresses (so-called IP-Masking).
+
+**8.Google Double Click**
+
+Sennheiser's website uses Doubleblick by Google. Doubleclick by Google uses cookies to show you advertisements that are relevant to you. Your browser will be assigned a pseudonymous identification number (ID) to check which ads have appeared in your browser and which ads have been viewed. The cookies themselves contain no personal information, according to Google. Using the DoubleClick cookie allows Google and its affiliate websites to serve ads based on previous visits to our or other websites on the Internet. The information generated by the cookies is transmitted by Google for evaluation to a server in the USA and stored there. Google transmits the data to third parties only because of legal regulations or order processing.  
+By using our web pages, you agree to the processing of the data collected about you by Google and the manner described above, the data processing and the stated purpose. You may prevent the collection by Google of the data generated by the cookies and related to your use of the Website and the processing of such data by Google by downloading and installing the browser plug-in available from DoubleClick's deactivation extension: https://www.google. com / settings / ads / plugin
+
+**9.Google GA Audiences / Remarinessing feature**
+
+The website uses Google's remarketing feature. The Remarketing feature allows Google to determine which pages visitors to the Google Network have viewed to display interest-based advertising to users. According to Google, no personal information is collected during this process.  
+Google's Remarketing feature can be disabled at <http://www.google.com/settings/ads>
+
+**10.Facebook Remarketing / Retargeting (Custom Audiences Pixel)**
+
+The website uses the "Custom Audiences" remarketing feature of Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA ("Facebook"). By means of this function and the use of the corresponding remarketing tag from Facebook, we may target users with advertising by displaying interest-based personalized Facebook ads when they visit Facebook.  
+When visiting the Sennheiser website, a direct link to the Facebook servers is made via the Facebook remarketing tags. The Facebook server communicates which of the Sennheiser websites you have visited. Facebook assigns this information to your personal Facebook user account.  
+For more information about the processing of data by Facebook and your rights and privacy opportunities, please refer to the Facebook Privacy Policy at <https://www.facebook.com/about/privacy/>. If you do not want Facebook to associate the collected information directly with your Facebook user account, you can disable the "Custom Audiences" remarketing feature in your Facebook profile, which requires you to log in there.
+
+**11.Contact form/ comment functions**
+
+Personal data, provided by using a contact form or a comment function on the website will be transferred to Sennheiser. When you use the comment function your comment will be published on the website including your name.
+
+Personal data provided by you will be transferred to us via secured connection and SSL (Secure-Socket-Layer) encrypted. We are using 256 bit encryption. The SSL encryption (identified by https:// in the address of the website of the internet browser) is a protocol for the encryption of data during the transfer from the webserver to the internet browser. During the transfer between the user’s computer and the SSl server the personal data are SSL encrypted.
+
+**12.Automated decision-making; profiling**
+
+Automated decision-making / profiling does not take place.
+
+**13.Supervisory Authority**
+
+You have the right to receive free information about your data stored by Sennheiser.
+
+In addition, you have the right to ask for 
+
+  * correction of incorrect data
+  * restriction of processing
+  * deletion of data
+  * objection to the data processing and
+  * data portability.
 
 
 
-In addition, we may "de-identify" personal information by removing any information that identifies you specifically, and use the rest for the purposes set forth above.
+There is a right of appeal to the supervisory authority responsible for Sennheiser. The contact details are:
 
-Our Partners. When we make products available for sale through a Property, we are doing so as an independent e-commerce reseller of, or service provider for, the partner whose name and/or logo appears on the particular Property. In connection with your purchase of a product or service through an online store we operate that is co-branded with our partner’s branding, we will provide certain of the personal information and/or anonymous information you provide in connection with your purchase to that partner for reporting purposes, to allow our partner or its service provider to register your purchase, to enable your access to products or services provided by our partner or its suppliers, to facilitate warranty, technical support or after-sales service, to allow our partner or its subcontractor to send communications to you if you have consented to receive them, to allow our partner or its service provider to provide services in connection with this Property such as customer support or single sign-on functionality on this Property and our partner’s website, or for similar purposes in order to fulfill obligations to you. We may also provide certain of the personal information you provide in connection with your purchase to the publisher or manufacturer of a product you purchase, or operator of a service for which you purchase a service use right from us, if different than the partner whose name and/or logo appears on this Property. The privacy policy of our partner, and of the publisher, manufacturer or operator of the product or service you purchase, will govern how that party uses and protects any of your personal information that we provide to them.
+The State Commissioner for Data Protection Niedersachsen  
+Prinzenstraße 5  
+30159 Hanover, Germany  
+Telephone + 49 (0) 511 120 4500  
+Fax + 49 (0) 511 120 4599  
+E-Mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#23534c50575057464f4f46634f45470d4d4a464746515042404b50464d0d4746 "poststelle@lfd.niedersachsen.de")
 
-Our Service Providers. We utilize other companies, including but not limited to our corporate affiliates, to provide joint services or certain services to us or on our behalf and help us to operate our business. For example, to the extent permitted by applicable law we may use our corporate affiliates and/or other companies to host or maintain this Property, to process credit card payments, to provide fraud screening and/or detection services, to perform data integrity checks, to offer you a line of credit, to provide optimization services, to fulfill your order, for payment collection, to deliver advertisements on this Property and third party websites and/or commerce solutions, to send mail or e-mail, and/or to provide customer service. We may share your information with our service providers in connection with their provision of services to us. These companies are required by contract to use any information we share with them only to perform services to us or on our behalf and to protect the confidentiality of your personal information. We may also allow these companies to utilize anonymous information, and to utilize aggregated personal information on an anonymous basis (i.e., where the aggregated data cannot identify you personally), for their business purposes. We will not share your personal information with our affiliates or unrelated third parties to use for their own marketing purposes without your consent.
-
-To Comply With Legal Requirements, Cooperate With Law Enforcement, Prevent Fraud and Other Crimes, and Protect Legal Rights, Property, You and Others. To the extent permitted by applicable law, we may disclose the personal information we collect on this Property without notifying you when we, in good faith, believe disclosure is appropriate to comply with the law or a regulatory requirement; to comply with governmental, administrative or judicial process, requirement or order, such as a subpoena or court order; to cooperate with law enforcement or other governmental investigations (without necessarily requiring the law enforcement or government agency requesting the information to formally serve us with a subpoena); to prevent or investigate a possible crime, such as fraud or identity theft; to enforce a contract; to protect the legal rights, property or safety of Sennheiser, its corporate affiliates, and their respective employees, clients and partners and agents, other users or the public in general; or to protect your vital interests if determined necessary by us. In addition, we may review our server logs for security purposes, such as detecting intrusions into our network. If we suspect criminal activity, we may share our server logs – which contain visitors’ IP addresses – with the appropriate investigative authorities who may use that information to trace and identify individuals. We also reserve the right to report to appropriate law enforcement or government agencies any activities that we, in good faith, believe are or may be in violation of applicable laws, rules or regulations without providing notice to you.
-
-In Connection With Corporate Events. If one of our corporate affiliates or a third party has acquired our business, specific assets or the business of one of our operating divisions through which you have provided information to us, for example, as the result of a sale, merger, reorganization, insolvency, dissolution or liquidation, your personal information will become owned by that company. In that event, the acquiring company’s use of your personal information will still be subject to this Privacy Statement, any applicable Supplemental Privacy Notices, and the privacy preferences you have expressed to us.  
-Your Choices
-
-Sennheiser respects your right to make choices about the ways we collect, use and disclose information about you. We generally ask you to indicate your choices at the time and on the page where you provide your personal information.
-
-When you provide personal information, we may offer you a choice as to whether you would like to receive further communications from us and/or from our partners, such as communications related to updates, upgrades, special offers and pricing. You have the right to withdraw your consent at any time. If you decide you no longer want to receive promotional messages from us, you may let us know by e-mailing us at opt-out@sennheiserusa.com or by following any unsubscribe link in our e-mails; please specify which consent you are revoking in your e-mail to us. Please note, however, if you give us permission to add your contact information to our Partner’s mailing list and later withdraw your permission, you will have to contact our Partner (or use the "opt-out" provided in the e-mails our Partner sends you) to have your name removed from our Partner’s mailing lists.
-
-If you accept a session or persistent cookie, you can delete it at any time through your web browser (e.g., as soon as you leave our Property). If you do not wish to receive cookies or wish to manage when you accept cookies in general, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. Although you are not required to accept our cookies, if you set your browser to reject cookies, you may not be able to use all of the features and functionality of this Property.
-
-We and our partners use third party service providers in connection with this Property and our business, which may include but are not limited to (a) Google Analytics and Omniture to serve ads on our behalf across the Internet and sometimes on this Property, and (b) ClickTale to gather user metrics and usage data. These service providers may collect anonymous information about your visits to our Property or to a website, your interaction with our Property or that website, and the products and services offered by us, our partners and our suppliers through the use of cookies, pixel tags, JavaScript code or other web technologies. We and our partners may use this anonymous information to provide targeted advertisements to you for goods and services, for marketing analysis, and for quality improvement purposes. If you would like more information about this practice and to know your choices about not having this anonymous information used, please visitwww.networkadvertising.org/consumer/optout.asp. You may view a list of third party service providers who collect anonymous information, and/or opt-out of such collection of anonymous information about you, by visitinghttp://www.networkadvertising.org/managing/optout.asp. If you would like to opt-out of tracking of your anonymous information through ClickTale, please visit http://www.clicktale.net/disable.html. If you opt out of having your information collected through cookies, web beacons and other tools, your existing display advertising cookie(s) will be deleted and new cookie will attempt to be placed that instructs service providers not to track your future activities when that cookie is detected (a "no-track" cookie). If your browsers are configured to reject cookies when you visit our opt-out page, a "no-track" cookie cannot be set on your computer. Also, if you subsequently erase "no-track" cookies, use a different computer or change web browsers, you will need to opt-out again.  
-Security of Information
-
-We are committed to keeping personal information secure. We have implemented physical, technical and administrative safeguards reasonably designed to protect your personal information from unauthorized access and disclosure. When we collect or transmit sensitive information such as a financial account number, we use industry standard methods to protect that information. It is important that you understand, however, that no commerce solution, website, database or system is completely secure or "hacker proof." You are also responsible for taking reasonable steps to protect your personal information against unauthorized disclosure or misuse, for example, by protecting your password.
-
-Different countries have different privacy laws and requirements. Please know, however, that no matter where your personal information is collected, used, transferred or stored, if it was collected through this Property, it will be protected by us in accordance with the terms of this Privacy Statement, any Supplemental Privacy Notices that apply to you, and applicable laws, rules and regulations.
-
-### Accessing and Correcting Your Personal Information
-
-We strive to maintain the accuracy and integrity of the personal information in our databases and to keep that information up-to-date. We provide ways for you to access your personal information as required by applicable law, so that you can correct inaccuracies or update your personal information.
-
-If you would like to review, correct or challenge your personal information, please contact us by postal mail addressed to us, ATTN: MARCOM PRIVACY, at 1 Enterprise Drive, Old Lyme, Connecticut 06371, USA. You may write to us in your own language.
-
-If you contact us we may, for your protection, ask you for additional information to verify your identity. In most cases, we will provide the access you request and correct or delete any inaccurate personal information you discover. We reserve the right, however, to limit or deny your request to the extent permitted by applicable law if the disclosure may lead to a breach of applicable law and regulation, e.g. in case of any legal obligation to retain certain data, or if you have failed to provide sufficient evidence to verify your identity.
-
-### Links to Third Party Websites
-
-This Privacy Statement is only applicable to the use and disclosure of information we collect from and about you through this Property and any other website or commerce solution on which this Privacy Statement appears. It does not apply to information collected directly by our partners, service providers or any other third party, even if their website links to this Property, or this Property links to their website. We do not control the privacy policies of our partners, service providers or other third parties. If you disclose information to any other party, different terms may apply to their use and disclosure of information disclosed to those third parties. Please review the privacy statement posted on each website you visit.  
-Children’s Privacy
-
-This Property is not directed at nor targeted to children. If you have not reached the age of majority or are not able to enter into legally binding agreements in your country, you may not use this Property unless supervised by an adult. Our goal is to comply with applicable laws and regulations relating to collection and use of information from children as such term is defined by applicable laws. If you believe that we have received information from a child or other person protected under such laws, please notify us immediately by postal mail addressed to Sennheiser’s Privacy Department, 1 Enterprise Drive, Old Lyme, Connecticut 06371, USA, and we will take reasonable steps to remove that information from our databases.
-
-## How to Contact Us
-
-If you have any questions, comments, or concerns regarding this Privacy Statement or our privacy practices, or have privacy-related questions not answered online, you may contact us by any of the following means:
-
-  * By Mail: You may contact us by postal mail addressed to Sennheiser, Inc., ATTN: Privacy Department, 1 Enterprise Drive, Old Lyme, Connecticut 06371, USA.
-
-
-
-You may write to us in your own language.
+**14.Amendments**  
+Since Sennheiser's website may be subject to change, it may be necessary in individual cases to make changes to this policy. Sennheiser reserves the right to change this policy at any time. The most recent version of this policy can be found on [http://www.sennheiser.com](http://www.sennheiser.com/ "http://www.Sennheiser.com")
