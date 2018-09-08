@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gcsbackpack.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608072125id_/http%3A//www.greenville.k12.sc.us/Departments/main.asp%3Ftitleid%3Detsprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gcsbackpack.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908185816id_/http%3A//www.greenville.k12.sc.us/Departments/main.asp%3Ftitleid%3Detsprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
