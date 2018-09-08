@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preventdisease.com privacy policy that was archived on 2018-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180330193803id_/http%3A//preventdisease.com/home/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preventdisease.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908044529id_/https%3A//www.preventdisease.com/home/privacy.shtml) for the most accurate reproduction.*
 
 # PreventDisease.com - Privacy Statement
 
@@ -89,11 +89,11 @@ Canada.
 
 **  
 Online Service Agreement**  
-Please see our [Online Service Agreement](http://www.preventdisease.com/home/terms_conditions.html) for other terms and conditions governing your use of the PreventDisease.com Web site. 
+Please see our [Online Service Agreement](https://www.preventdisease.com/home/terms_conditions.html) for other terms and conditions governing your use of the PreventDisease.com Web site. 
 
   
 
 
-[](http://www.addtoany.com/share_save)
+[](https://www.addtoany.com/share_save)
 
-...............................................................................................................[](https://www.pinterest.com/pin/create/button/?url=http://preventdisease.com&media=http://farm8.staticflickr.com/7027/6851755809_df5b2051c9_z.jpg&description=Next%20stop:%20Pinterest)
+...............................................................................................................[](https://www.pinterest.com/pin/create/button/?url=https://www.preventdisease.com&media=https://farm8.staticflickr.com/7027/6851755809_df5b2051c9_z.jpg&description=Next%20stop:%20Pinterest)
