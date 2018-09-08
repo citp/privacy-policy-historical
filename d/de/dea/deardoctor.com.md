@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deardoctor.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602205237id_/http%3A//www.deardoctor.com/legal.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deardoctor.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908114942id_/http%3A//www.deardoctor.com/legal.php%23privacy) for the most accurate reproduction.*
 
 # Dentist, Dentistry & Oral Health Guide | Dear Doctor Dental Magazine
 
