@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bellacor.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621111054id_/http%3A//www.bellacor.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellacor.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908185346id_/https%3A//www.bellacor.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | BELLACOR.COM’S Commitment To Privacy
 
@@ -46,12 +46,12 @@ Bellacor also gathers data on users movements. This information is used to impro
 
 In any communication be sure to include name, mailing address, and e-mail address. 
 
-Users that communicate with Bellacor.com and therefore supply Bellacor.com with an e-mail address may receive future communications via mail. To no longer receive marketing e–mails from Bellacor [click here](http://www.bellacor.com/unsubscribe.cfm). Note: Bellacor offers links to other third party sites and services. Be aware that these outside parties operate under separate privacy and security policies and Bellacor.com, Inc. has no responsibility or liability for independent policies or actions. All internal/external Bellacor.com, Inc. parties, such as employees, agents, and contractors are similarly bound by these privacy and security policies.   
+Users that communicate with Bellacor.com and therefore supply Bellacor.com with an e-mail address may receive future communications via mail. To no longer receive marketing e–mails from Bellacor [click here](https://www.bellacor.com/unsubscribe.cfm). Note: Bellacor offers links to other third party sites and services. Be aware that these outside parties operate under separate privacy and security policies and Bellacor.com, Inc. has no responsibility or liability for independent policies or actions. All internal/external Bellacor.com, Inc. parties, such as employees, agents, and contractors are similarly bound by these privacy and security policies.   
 top
 
   
   
-Users that have provided an e-mail address may receive promotional e–mails. To no longer receive marketing e–mails from Bellacor [click here](http://www.bellacor.com/unsubscribe.cfm).   
+Users that have provided an e-mail address may receive promotional e–mails. To no longer receive marketing e–mails from Bellacor [click here](https://www.bellacor.com/unsubscribe.cfm).   
 top
 
   
@@ -89,5 +89,5 @@ top
 
   
   
-For additional information contact [Customer Care](http://www.bellacor.com/contact.cfm)   
+For additional information contact [Customer Care](https://www.bellacor.com/contact.cfm)   
 top
