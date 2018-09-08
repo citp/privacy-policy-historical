@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the flareaudio.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002111145id_/https%3A//www.flareaudio.com/pages/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flareaudio.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908191603id_/https%3A//www.flareaudio.com/pages/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | Flare Audio Ltd
 
 At Flare Audio®, we respect your concerns about privacy and value the relationship we have with you.
 
-For the purposes of this policy, Flare means Flare Audio Limited, with registered offices at Unit 8, Chartwell Business Centre, Chartwell Road, Lancing, West Sussex, United Kingdom BN41 8FB.
+For the purposes of this policy, Flare means Flare Audio Limited, with registered offices at Unit 8, Chartwell Business Centre, Chartwell Road, Lancing, West Sussex, United Kingdom BN15 8FB.
 
 Like many companies, we use technology on our website to collect information that helps us enhance your online experience.
 
@@ -200,33 +200,31 @@ Certain pages on our website contain "web beacons" (also known as Internet tags,
 
 ## PRIVACY POLICY
 
+**We understand how important your personal data is. This is why we want you to know exactly how we secure and apply your data to better serve you as a customer. We will always treat your data with the upmost care and we will never sell your data to any third party for marketing purposes.**
+
 **Personal Information:** By "Personal Information" we mean any information relating to you and by which you can be identified directly (e.g. your name) or indirectly (e.g. your IP address which we collect when you purchase a product online).
 
-**How we collect your Personal Information:** The following is an overview of some of the means by which we may obtain Personal Information:
+**How we collect your personal data**
 
-Online: Purchases on the Flare® website
+  * Online account creation on the Flare website
+  * Purchases via the Flare website, Facebook page and Instagram page.
+  * Phone calls made to Flare
+  * Mail (postal and electronic) sent to Flare
+  * Product registration
+  * Participation in competitions, prize draws and surveys
 
-Other online interactions (competition and prize draw entries, surveys, etc.)
 
-Offline:Phone and mail.
 
-Product registration cards
+**What we use your data for**
 
-**How we use your Personal Information:** In general, the Personal Information will be used for the following purposes:
+  * Processing your orders. In order to process your orders, we use third party shipping software and postal services in which we transfer some of your order data. This includes full name, shipping address and contact details.
+  * Providing you with relevant updates about your current and previous orders
+  * Providing relevant answers to customer service enquiries
+  * Fraud prevention
+  * Serving more relevant ads to you, providing you with a better online service
+  * Providing you with news updates, product launches, special offers and discounts. We use MailChimp to process our mass email campaigns in accordance with their privacy guidelines.
 
-Processing your orders, answering your questions on Flare® products and services, or providing you with technical updates on our products and services in different areas, such as fulfillment of an order or billing.
 
-Carrying out market studies on the basis of aggregate (not personally identifiable) information in order to improve our products and services. Such market studies may be carried out with the help of external partners processing these data on behalf of Flare®.
-
-Analyzing your Personal Information including your personal preferences in order to provide you with personalized marketing information on Flare® products, services and promotions, as well as on products and services of partners of Flare® selected on the basis of personal preferences, hobbies and interests.
-
-You will receive this information by email, sms, over the phone or by personalized mail only if you have asked to receive such messages from Flare® and its commercial partners.
-
-Flare® may append additional data received from third parties to your Personal Information for analysis and marketing purposes.
-
-Establishing statistics on your use of the website, for marketing and analysis, in order to improve our website and our offers.
-
-Transferring your Personal Information to third parties for the purposes set out below.
 
 **Transfers to third parties:** It may be necessary to transfer your Personal Information (name, address, tel. number, e-mail, preferences, interest) to companies associated with Flare® or its agents, in order for them to carry out order research, purchase processing, analysis and marketing on behalf of Flare®.
 
