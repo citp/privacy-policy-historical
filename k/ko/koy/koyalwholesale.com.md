@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koyalwholesale.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191105id_/https%3A//www.koyalwholesale.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koyalwholesale.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908150435id_/https%3A//www.koyalwholesale.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Koyal Wholesale DIY Wedding Supplies & Personalized Party Decor
 
@@ -8,7 +8,7 @@ PRIVACY POLICY
 
 Koyal Wholesale Values Your Privacy
 
-Thank you for accessing [Koyalwholesale.com](http://www.koyalwholesale.com/) (“Site”). We understand you may have concerns about privacy or shopping online, and we respect your privacy. The personal information we collect online is only used to communicate with you about your order and customer experience. Any personal information is used solely to help us communicate with you and our vendors for order processing and is never sold or disclosed to outside third parties.
+Thank you for accessing [Koyalwholesale.com](https://www.koyalwholesale.com/) (“Site”). We understand you may have concerns about privacy or shopping online, and we respect your privacy. The personal information we collect online is only used to communicate with you about your order and customer experience. Any personal information is used solely to help us communicate with you and our vendors for order processing and is never sold or disclosed to outside third parties.
 
 Cookies Policy
 
