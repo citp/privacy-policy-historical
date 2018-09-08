@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stevens.edu privacy policy that was archived on 2017-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170203044114id_/https%3A//www.stevens.edu/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stevens.edu privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908055034id_/https%3A//www.stevens.edu/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Stevens Institute of Technology
 
@@ -21,3 +21,5 @@ Stevens uses tools such as Google AdWords and Google Display to remarket to user
 You may opt out of behavioral advertising by visiting the Network Advertising Initiative opt out page at http://www.networkadvertising.org/managing/opt_out.asp.
 
 Stevens.edu also utilizes “cookies”, small text files placed on the user’s computer or mobile device to help track information about the user’s browsing on the site. These cookies are used to recall your personal preferences, such as usernames and passwords, or to track statistics on usage Stevens,edu and its digital properties. Stevens’ use of cookies does not involve the collection of personally identifiable information.
+
+For information regarding the European Union General Data Protection Regulation (“GDPR”), please click [here](https://www.stevens.edu/directory/information-technology/cyber-security-and-information-security/european-union-general-data-protection-regulation-gdpr-faq).
