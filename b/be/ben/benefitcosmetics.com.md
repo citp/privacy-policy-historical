@@ -1,36 +1,34 @@
-> *The following text is extracted and transformed from the benefitcosmetics.com privacy policy that was archived on 2016-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160810041724id_/https%3A//www.benefitcosmetics.com/us/en/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefitcosmetics.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908223623id_/https%3A//www.benefitcosmetics.com/us/en/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Benefit Cosmetics
 
 ## PRIVACY POLICY
 
-* * *
-
-Last Updated: 2/1/2016
+Last Updated: 1/24/2018
 
 It’s like they always say, some things are better kept private. Here at Benefit Cosmetics (“Benefit”, “us”, “our” or “we”), we’re all about R.E.S.P.E.C.T. We value your concerns about privacy and want to make sure you feel comfortable using our websites and applications. Here’s the nitty-gritty on our Privacy Policy so you know what information we collect about you during your visit and what we do with that information.
 
 Please note that this Privacy Policy governs information provided to Benefit and communications from Benefit, including information you provide to us on Benefit’s websites, including, but not limited to, [www.benefitcosmetics.com](http://www.benefitcosmetics.com/), [www.boldisbeautiful.com](http://www.boldisbeautiful.com/) and [www.benefitboutiques.com](http://www.benefitboutiques.com/) (“Benefit’s Websites”), Benefit’s mobile websites, on Benefit’s blogs, on Benefit’s applications (including social media sites, such as Facebook and Twitter, and Ratings & Reviews and Ask & Answer) (“Benefit’s Applications”), in promotions in which Benefit is involved, in completing customer surveys, and information you provide to us at a Benefit boutique (brick and mortar stores) (collectively all of these collection mechanisms, websites and applications, including Benefit’s Websites, Benefit’s mobile website, Benefit’s blogs, Benefit’s Applications and the collection of data in Benefit’s boutiques, shall be referred to as “Benefit’s Sites”). Unless otherwise noted at the time of collection, this Privacy Policy does not govern any other information or communications that may reference Benefit with our affiliates, such as Sephora or Macy’s. Your use of Benefit’s Sites constitutes your acceptance of this Privacy Policy and your consent to the practices it describes.
 
-### **I. Types of Information Collected.**
+### I. Types of Information Collected.
 
 We collect two types of information when you visit Benefit’s Sites: (a) personally identifiable information and (b) non-personally identifiable information.
 
-**_(1) Personally identifiable information._**
+#### (1) Personally identifiable information.
 
-Personally identifiable information is any information about you, such as your name, address, telephone number, credit card number and billing information, birth date, email address, profile information, and purchase history. Whether or not you provide your personally identifiable information to us is completely up to you, but if you choose not to provide the information we request, you may be unable to fully enjoy Benefit’s Sites and services, make a purchase or complete a transaction.
+Personally identifiable information is any information that directly identifies you, or can be used to determine your identity. Whether or not you provide your personally identifiable information to us is completely up to you, but if you choose not to provide the information we request, you may be unable to fully enjoy Benefit’s Sites and services, make a purchase or complete a transaction.
 
-**_(2) Non-personally identifiable information._**
+#### (2) Non-personally identifiable information.
 
 Non-personally identifiable information can be technical information or it can be demographic information, such as your age, gender or interests. Non-personally identifiable information does NOT identify you personally.
 
 Note that we may tie non-personally identifiable information with personally identifiable information, in order to provide you with better recommendations, help authenticate you or other data or information you may provide, prevent fraud, and ensure that Benefit’s Sites meet your needs. When we tie non-personally identifiable information with personally identifiable information, it is considered “personal information” or “personally identifiable information” for the purposes of this Privacy Policy. This means that we will be using and sharing this combined data in the ways described below, in Sections III and IV of this Privacy Policy.
 
-### **II. Information Collection Practices.**
+### II. Information Collection Practices.
 
 When you visit Benefit’s Sites, with the help of our third party authorized agents, we may collect information both passively and directly.
 
-**_(1) Passive Information Collection._**
+#### (1) Passive Information Collection.
 
 We may collect information passively, while you are visiting or interacting with Benefit’s Sites. We call this “passive” collection since you may not know that this data is being collected when you visit or interact with Benefit’s Sites. This information may consist of the following items: website visitors’ IP address, IP address-related information, system Media Access Control address, network configuration information, network device information, browser plug-in type and versions, and operating system.
 
@@ -44,7 +42,7 @@ Finally, in order to help facilitate the delivery of relevant content, we may ut
 
 Information that is collected passively may be non-personally identifiable or it may identify you personally. Further, this information may be collected whether you are signed in to Benefit’s Sites or not. The purpose of this data collection is to optimize your experience on Benefit’s Sites, to ensure we are partnering with third parties that offer products and services that are of interest to you, to facilitate a transaction or fulfill the terms of an agreement, or to ensure that the advertisements offered to you are relevant.
 
-**_(2) Direct Information Collection._**
+#### (2) Direct Information Collection.
 
 We also may collect information from you directly, at the time that you supply data to us via Benefit’s Sites. This information may be collected in the following instances:
 
@@ -54,20 +52,21 @@ We also may collect information from you directly, at the time that you supply d
   * **Facebook Applications.** When you use one of our applications on Facebook, we will request your permission to access certain personally identifiable information on Facebook, such as your name, profile picture, gender, networks, user ID, list of friends, and other profile information. Depending on the application, you may have the opportunity to post reviews, questions, answers and other content to the application. You can change certain settings relating to these applications through your account and privacy settings on Facebook.
   * **Sweepstakes, Contests and Promotions.** If you enter a sweepstakes, contest or other promotion, we may ask you for your name, date of birth, email address, country/state of residence and other demographic information. We may sometimes use a third party application on Facebook or other third party websites to host a sweepstakes, contests and promotions. In those instances, the information you provide will be submitted to that third party and their privacy policy will govern the use and disclosure of the information you submit.
   * **Feedback.** If you contact us to give us feedback or ask questions about Benefit’s Sites or any of Benefit’s services or products, we may store your communications, including any personally identifiable information you include in them, so we can effectively respond to you.
+  * **Facial Detection and Augmented Reality Features.** When you use augmented reality features, such as Brow Try-On, we may collect information such as your skin tone, face shape, eye shape, brow shape, hair color, age, skin conditions, location, device used, and operating system in order to recommend products to you.
 
 
 
 The above list provides examples of how we may collect personally identifiable information from Benefit’s Sites. If you do not want us to collect your personally identifiable information, please do not provide it on Benefit’s Sites.
 
-### **III. Use of Information.**
+### III. Use of Information.
 
 We collect information to serve you better and to provide you with a customized experience while using Benefit’s Sites. Here are some examples of how we may use your personally identifiable information and non-personally identifiable information:
 
-**_(1) Personally identifiable information._**
+#### (1) Personally identifiable information.
 
 We may use your personally identifiable information in the following instances:
 
-  1. to fulfill a request from you, such as to send you catalogs, promotional emails or email notifications, fulfill and deliver your orders, tell you about our new products, services and offers, respond to your comments, feedback or questions, contact you if necessary while processing an order, and generate web analytics to compile user data for marketing purposes. If you would rather not receive promotional emails from us, please see the section titled “Opting Out” below.
+  1. to fulfill a request from you, such as to send you catalogs, promotional emails or email notifications, fulfill and deliver your orders, tell you about our new products, services and offers, recommend specific products based on your input and personal information, respond to your comments, feedback or questions, contact you if necessary while processing an order, and generate web analytics to compile user data for marketing purposes. If you would rather not receive promotional emails from us, please see the section titled “Opting Out” below.
   2. to request feedback and to enable us to develop, customize and improve Benefit’s Sites and our publications and products;
   3. to conduct marketing analysis and to send you surveys or newsletters;
   4. to contact or alert you about Benefit’s Sites, or any products, activities, special events or offers from us or our partners; and/or to contact or alert you for other marketing, informational, product development or promotional purposes;
@@ -84,19 +83,19 @@ We may use your personally identifiable information in the following instances:
 
 
 
-**_(2) Non-personally identifiable information._**
+#### (2) Non-personally identifiable information.
 
 Non-personally identifiable information is used in correlation with personally identifiable information, in order to fulfill transactions, provide you with a requested service, for research and market development, or in other ways as permitted by applicable laws, including combining non-personally identifiable information with personally identifiable information.
 
-### **IV. Sharing of Information.**
+**IV. Sharing of Information.**
 
-_**(1) Personally identifiable information.**_
+#### (1) Personally identifiable information.
 
 We will share your personally identifiable information with third parties as outlined in this Privacy Policy or with your consent. Below are examples of how we may share your personally identifiable information:
 
   1. We may disclose information to a third party to (a) comply with laws or respond to lawful requests and legal process, (b) to protect Benefit, and our agents, customers, and others from legal claims or actions, including claims of fraud or to enforce our agreements, policies and terms of use or (c) in the good faith belief that disclosure is needed to respond to an emergency, or protect the personal safety of any person.
   2. To complete your purchase. If you choose to make a purchase on Benefit’s Sites, we may collect from you your credit card number, billing address and other information related to such purchase, and we may use such collected information in order to fulfill your purchase. We may also provide such information, or other personally identifiable information provided by you, to unaffiliated third parties as necessary to complete your purchase (for example, to process your credit card).
-  3. Fromtime to time, Benefit’s Sites may include collaboration features that by their nature support sharing with users you choose. Those users can see your name, email address, information you add to your profile, and any files you choose to share; and they can post comments and email you.
+  3. From time to time, Benefit’s Sites may include collaboration features that by their nature support sharing with users you choose. Those users can see your name, email address, information you add to your profile, and any files you choose to share; and they can post comments and email you.
   4. On occasion we may also share a portion of our postal mailing list (which includes our customers’ names and postal addresses) with other companies or organizations that want to market products or services to you. We may also share your name, postal address and transactional information (including information about your past purchases but not any payment information) with third parties for marketing purposes, unless you direct us not to (see “Opting Out” section below). Also, we may share your personally identifiable information (either alone or in combination with non-personally identifiable information and/or demographic information) with affiliates, strategic partners, agents, third party marketers or other unaffiliated parties who are offering products or services that we believe may be of interest to you or who require your personally identifiable information for research, administrative and/or internal business purposes. These parties may use this information to contact you with an offer or advertisement related to a product or service, or they may use such information for their own research, administration or business purposes. If you do not want us to share your personally identifiable information in this manner, please do not provide us with this information. We do not ever rent or sell your email address with these organizations or with other third parties for marketing purposes, without putting you on notice.
   5. Benefit’s Sites may also include access to social networking websites established, owned and controlled by third parties such as Facebook.com, and information may be exchanged between Benefit’s Sites and these social networking websites. If you choose to use any third party services or access, purchase or view products or services on a third party website, we may facilitate sharing of your personally and non-personally identifiable information with those third parties. Please note, however, that your use of any services offered or your purchase of any product offered by a third party on a third party website shall not be solely governed by our Terms and Conditions or this Privacy Policy and we do not control the services of those third parties or how they use your information. Be sure to review the terms and the privacy policies of those third parties before using their services.
   6. We may be required to share your personally identifiable information in order to fulfill a service to you. For example, if you register on Benefit’s Sites, we may have to share your personal and/or non-personally identifiable information with third parties in order to provide content to you that we believe may be of interest to you.
@@ -108,23 +107,23 @@ We will share your personally identifiable information with third parties as out
 
 
 
-_**(2) Non-personally identifiable information.**_
+#### (2) Non-personally identifiable information.
 
 We reserve the right to share non-personally identifiable information about our customers, sales, and traffic to our partners and advertisers. Please also note that we may share your non-personally identifiable information when it is tied to your personally identifiable information, in the manners described in Section IV(1) of this Privacy Policy.
 
-### **V. Information on Public Areas of Benefit’s Sites.**
+### V. Information on Public Areas of Benefit’s Sites.
 
 Any information you submit in a public area of Benefit’s Sites – such as on a social media page, user comments, comments on Benefit’s blogs, reviews or comments on the Ratings & Reviews feature, questions or answers on the Ask & Answer application or any other public forum - will not be treated as confidential and may be publicly disclosed. This applies to personally identifiable information, as well as non-personally identifiable information, so please consider your public postings before doing so. Additionally, information posted on social media pages will be subject to the terms governing those pages and websites.
 
-### **VI. Location Services.**
+### VI. Location Services.
 
 Benefit’s Applications may include features that can provide you with location-based information if you tell us where you are (i.e., by allowing your mobile device to send us your location). If you want to deactivate this feature, please contact your carrier for information on how you can disable location services on your mobile device.
 
-### **VII. Protecting Kids’ Privacy.**
+### VII. Protecting Kids’ Privacy.
 
 Benefit’s Sites are not intended for children. We do not knowingly collect personally identifiable information from children, and none of the Benefit Sites are designed to attract children. In the event that we learn that a person under the age of 13 has provided personally identifiable information to Benefit, we will delete such personally identifiable information.
 
-### **VIII. Protecting Your Security.**
+### VIII. Protecting Your Security.
 
 Security for Benefit’s Sites is in accordance with industry standards to protect the security of your personal information both online and offline. Personally identifiable information is stored on computer servers in a controlled environment that is reasonably protected from unauthorized misuse or disclosure. We use available technology and other techniques to implement systems like firewalls, and/or encryption to secure marketing data transfers.
 
@@ -132,7 +131,7 @@ Orders placed on Benefit’s Website are encrypted using Secure Socket Layer (SS
 
 We take special steps to safeguard your personal information and since your password is protected, only you can access your account information. We recommend that you keep your password private and always sign-off of your account and close your browser when you are finished shopping. If you have any questions about security on our website, please email [privacy@benefitcosmetics.com](mailto:privacy@benefitcosmetics.com).
 
-### **IX. Opting Out.**
+### IX. Opting Out.
 
 If you would like to opt out of receiving promotional emails from us, please follow the unsubscribe instructions located at the bottom of each email.
 
@@ -140,15 +139,15 @@ If you would like to opt out of receiving direct email, mail, mobile marketing o
 
 Even if you opt-out, please note that Benefit may still use your personally identifiable information (and may share your information with our service providers) in the other manners described in this Privacy Policy.
 
-### **X. Changing, Updating or Deleting Personal Information.**
+### X. Changing, Updating or Deleting Personal Information.
 
 You can update, change or delete certain personally identifiable information (such as your email address, mailing address and payment method) on Benefit’s Websites by clicking “My Account” in the menu at the top of each page on Benefit’s Websites.
 
-### **XI. Third Party Advertisers.**
+### XI. Third Party Advertisers.
 
 We may use advertisers, third party ad networks, and other advertising companies to serve advertisements on Benefit’s Sites. Please be advised that such advertising companies may gather information about your visit to Benefit’s Sites or other sites (such as through cookies, web beacons and other technologies) to enable such advertising companies to market products or services to you, to monitor which ads have been served to your browser and which webpages you were viewing when such ads were delivered. If you would like more information about this practice and to know your choices please [click here](http://www.networkadvertising.org/choices/). PLEASE NOTE THAT THIS POLICY DOES NOT COVER THE COLLECTION AND USE OF INFORMATION BY SUCH ADVERTISING COMPANIES.
 
-### **XII. International Transfer of Information.**
+### XII. International Transfer of Information.
 
 If you choose to provide us with personally identifiable information, Benefit may transfer that information to its affiliates and subsidiaries or to other third parties, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personally identifiable information to the United States which does not have the same data protection laws as the EU and by providing your personally identifiable information you consent to:
 
@@ -157,19 +156,19 @@ If you choose to provide us with personally identifiable information, Benefit ma
 
 
 
-### **XIII.Changes to our Privacy Policy.**
+### XIII. Changes to our Privacy Policy.
 
 As the content of this Privacy Policy may change from time to time, we suggest you periodically consult this Privacy Policy. We will post the revised policy here, which at that time will be effective immediately. Your continued use of Benefit’s Sites subject to this Privacy Policy will signify your acceptance of privacy policy changes.
 
-### **XIV. Assignment.**
+### XIV. Assignment.
 
 In the event that all or part of our assets are sold or acquired by another party, or in the event of a merger, you grant us the right to assign the personally identifiable and non-personally identifiable information collected via the Sites.
 
-### **XV. Governing Law.**
+### XV. Governing Law.
 
 This Privacy Policy shall be governed by and construed in accordance with the laws of the State of California, excluding without resort to its conflicts-of-law principles. Please note that your use of Benefit’s Sites may be subject to other local, state, national, and international laws. You expressly agree that exclusive jurisdiction for any claim or dispute with Benefit or relating in any way to your use of Benefit’s Sites lies in the state and/or federal courts of California, and you further agree and expressly consent to the exercise of personal jurisdiction in the courts of California in connection with any such dispute including any claim involving us, Benefit’s Sites, our affiliates, subsidiaries, employees, contractors, officers, directors, telecommunication providers, and/or content providers.
 
-### **XVI. Contact Us.**
+### XVI. Contact Us.
 
 For further information on our Privacy Policy, or questions on information that we may have collected from you, please contact us by either of the following methods:
 
@@ -179,13 +178,13 @@ Legal Department
 San Francisco, California 94104  
 Email: [privacy@benefitcosmetics.com](mailto:privacy@benefitcosmetics.com)
 
-### **YOUR CALIFORNIA PRIVACY RIGHTS AND DO NOT TRACK DISCLOSURES**
+**YOUR CALIFORNIA PRIVACY RIGHTS AND DO NOT TRACK DISCLOSURES**
 
 Benefit does not support Do Not Track browser settings and does not currently participate in any “Do Not Track” frameworks that would allow us to respond to signals or other mechanisms from you regarding the collection of your Personally Identifiable Information or Non Personally Identifiable Information.
 
 Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding Benefit's disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please contact us at the address provided in Section XIV, above.
 
-### **ADDITIONAL INFORMATION FOR EU VISITORS**
+**ADDITIONAL INFORMATION FOR EU VISITORS**
 
 You have the right to access, correct and remove your personal information. You also have the option of preventing the processing of this data. You may exercise this right at any time by sending an email to the following address:
 
