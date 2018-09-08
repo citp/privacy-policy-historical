@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the health.vic.gov.au privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219210601id_/https%3A//www2.health.vic.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the health.vic.gov.au privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908225534id_/https%3A//www2.health.vic.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy - health.vic
-
-On this page: Privacy policy
 
 The _Privacy and Data Protection Act 2014_ and the _Health Records Act 2001_ regulate the information handling of personal and health information. It includes standards for information collection, storage, access, transmission, disclosure, use and disposal.
 
