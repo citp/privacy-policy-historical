@@ -1,161 +1,224 @@
-> *The following text is extracted and transformed from the fonebank.com privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510002619id_/http%3A//www.fonebank.com/privacy.aspx%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fonebank.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908225753id_/http%3A//fonebank.com/privacy.aspx%23privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Fonebank.com
 
 |    
 
 
-Privacy Policy
+Corporate Mobile Recycling Privacy Notice
 
-Fonebank has updated its privacy policy in compliance with EU Cookie legislation. Please read this to review the updates about which cookies we use and what information we collect on our site. By continuing to use this site, you are agreeing to our updated privacy policy. 
+**Introduction:**   
+This privacy policy explains how we collect; use; share; transfer; store; and protect your personal information. It also explains how to contact us to find out what personal information of yours we hold; what we use it for; how you can correct any inaccuracies; and how you can request that we stop using it. 
 
-• Part 1 of the Privacy Policy contains Fonebank’s general privacy principles.   
-• Part 2 of the Privacy Policy contains information of all the tracking cookies   
-• Part 3 of the Privacy Policy contains information regarding Fonebank’s Interest Based Advertising and Retargeting activities.   
-• Part 4 of the Privacy Policy contains contact information for different kinds of inquiries and requests relating to Fonebank’s processing of data and this Privacy Policy. 
+Please read this privacy policy carefully since once you use this website you will be regarded as having read and accepted its terms. 
 
-This Privacy Policy was last revised on 1st June 2012. Fonebank may at any time, and without notice, make modifications to keep compliant with applicable laws. You should therefore read this Privacy Policy each time you intend to provide Fonebank with personal data. 
+**Summary:**   
+Below is a summary of some of the main terms of this privacy policy: 
 
-**Part 1**
+  * Use of our website is strictly subject to this privacy policy. If you do not agree to its terms you must not use this website
+  * We may collect different types of personal information about you when you use our website and services including your name, email address and postcode
+  * The section how we use your information details all the ways we use your personal information, which includes: 
+    * To process an order you place through our website
+    * To tell you about our other products and special offers that you may be interested in
 
-Fonebank is committed to preserving the privacy of all visitors to our website at fonebank.com. Please read the following Privacy Policy to understand how we use and protect the information you provide to us. 
 
-By registering or placing an order on this website, you consent to the collection, use and transfer of your information under the terms of this policy. 
 
-**INFORMATION THAT WE COLLECT FROM YOU**
+We will share your information as required by law with Police Forces, Insurance Companies and other Public Agencies subject to the correct legal requests being undertaken by these bodies 
 
-When you visit, register or order products or services on fonebank.com you may be asked to provide certain information about yourself including your name, contact details and credit or debit card information. 
+You can ask us any questions about your personal information at any time by emailing [ot@cmrecycling.co.uk](mailto:ot@cmrecycling.co.uk). 
 
-We may also collect information about your usage of our website as well as information about you from messages you post to the website and e-mails or letters you send to us. 
+**About us:**   
+Fonebank.com, ZonZoo.es, Smartfonestore.com, Cmrecycling.co.uk, Movilbak.es, Fonebank.fr, Zonzoo.nl, Zonzoo.es, Simplydrop.co.uk, fonebank.gr, (the "website") is owned by CMR Limited ("we", "us" or "our"). 
 
-To maintain customer service standards, and to assist staff training, we may record and monitor incoming calls. 
+Our registered address is: 3 Long Yard, Holborn, London, WC1N 3LS, UK 
 
-**USE OF YOUR INFORMATION**
+Our company number is: 04591053 
 
-Your information will enable us to provide you with access to all parts of our website and to supply the services you have requested. It will also enable us to contact you where necessary concerning your orders. We will also use and analyse the information we collect so that we can administer, support, improve and develop our business. 
+We take your privacy and the security of your personal information very seriously. We comply with the data protection laws and we are registered with the Information Commissioner's Office Registration No. Z2026934. 
 
-In particular, we may use your information to contact you for your views on our services, and to notify you occasionally about important changes or developments to the website or our services. Further, where you have consented, we may also use your information to let you know by email about other products and services which we offer which may be of interest to you. If you change your mind about being contacted in the future, please let us know. 
+If after reading this privacy policy you still have any questions about how we use your personal information, please write to the Data Protection Officer at our registered address or by email [ot@cmrecycling.co.uk](mailto:ot@cmrecycling.co.uk). 
 
-**DISCLOSURE OF YOUR INFORMATION**
+**The information we collect and how we collect it:**   
+When you use our website or any of our other services we may collect personal information about you. The type of personal information we collect will vary depending on the services you are using. 
 
-The information you provide to us may be accessed by, or given to, third parties in order to enable us to process your order .Those parties process information, fulfil and deliver orders, process credit card payments and provide support services on our behalf. Third parties will not be allowed to use your personal information for their own purposes. 
+We need to collect your details in order to contract with you for the contractual purchasing and sale of mobile devices through our website. We need basic details in order to make payment and transfer funds to the correct bank accounts and postal address. In order to ensure that we are fulfilling our legitimate business interests and satisfying your requirements we may also need to contact you on periodic basis to help us review or improve our services to you the customer. Legally, it is mandatory to keep financial records for seven years in order to meet the requirements of HMRC and the Tax office. 
 
-**Right to information and rectification of personal data**
+You have a right to object to this processing. The section titled ‘How to get your Information Corrected’ or request we stop using it explains how this can be actioned. 
 
-Fonebank will take reasonable measures to rectify, block or erase personal data that it is shown incorrectly without undue delay. Part 3 of this Privacy Policy contains information about who you should contact if you would like us to correct personal data that we hold on you and which you consider incorrect. 
+We may collect: 
 
-To the extent required by law, we will inform you about Fonebank’s processing of your personal data in connection with the initial collection or registration of your personal data. Such information may for example be provided by notifying you about this Privacy Policy. 
+  * your email address, name, telephone number, address and bank account details to process an order to sell or purchase your mobile device;
+  * your email address if you register to receive our email newsletters
+  * your name, phone number and other personal information if you call our customer services team or pledge an order to our website;
+  * details of your visits to our website and how you use our services through the use of cookies. Please see our cookie policy for more information.
 
-You may request a copy of the personal data that Fonebank holds about you ("Subject Access Request"). You are entitled to such information free of charge once a year. This information will include information regarding what personal data Fonebank processes about you, where such information has been collected, for which purpose the information is being processed, and to whom, or to which categories of persons, the information is being disclosed. Contact information for Subject Access Request is set out in Part 4 of this Privacy Policy. 
 
-**Destruction of personal data**
 
-Any personal data that we hold on you is only stored as long as it is required for us to keep them in order to fulfill the purposes for which they were collected. Data may however be necessary to store for a longer period due to legal requirements, e.g. for accountancy purposes. 
+In all other instances where we collect your personal information, we act as a data controller 
 
-**Other Websites**
+**How we use your information:**
 
-This privacy policy only covers this website. Any other websites which may be linked to by our website are subject to their own policy, which may differ from ours. 
+  * **To improve our services** \- We may use your personal information to help us understand how people are using our website and services so that we may improve them. Additionally, if you have provided your consent for us to do so, we may contact you by email, online, or via the phone to ask you for feedback on your experience of using our website and services. We keep this information for a maximum of 3 years.
+  * **To fulfil an order you have placed** \- If you place an order to recycle or purchase a mobile device through our website, we will collect your personal information. We will also use your personal information to track the progress of the order you have placed. **We keep your bank account details for 48 hours after you have placed your order.** We keep other personal information for a maximum of 12 months.
+  * **To help you with a customer services enquiry** \- If you contact our customer services team, we will use your personal information to communicate with you and help sort out your enquiry. **We keep this information for a maximum of 12 months.**
+  * **To tell you about our products and any special offers that may be of interest** \- When you provide us with your personal information we may ask your consent to use it to send you additional information on other products and special offers that may be of interest. Unless you tell us otherwise, you are agreeing that we can use it for these purposes. We keep this information for a maximum of 3 years. You can easily unsubscribe from our emails or change your preferences at any time. Please see the “How to change your preferences” section, below.
 
-**SECURITY AND DATA RETENTION**
 
-We employ security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage. We will retain your information for a reasonable period or as long as the law requires. 
 
-**ACCESSING AND UPDATING**
+You can find out more about this, as well as information on how to turn off cookies, or change the cookie settings on your browser, by reading our full cookie policy. 
 
-You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us at info@fonebank.com.
+You can stop receiving these ads at any time by emailing us at [ot@cmrecycling.co.uk](mailto:ot@cmrecycling.co.uk). 
 
-**CHANGES TO OUR PRIVACY POLICY**
+**Who we share your information with:**   
+When you use our website and services you are consenting to us sharing your information for the following purposes: 
 
-Any changes to our privacy policy in the future will be posted to the website and, where appropriate, through e-mail notification. 
+  * **Email communications** \- we use MailChimp to help us manage our email communications. If you provide us with your personal information to send your additional information on other products and special offers, we may share this information with MailChimp solely to provide this service. They will not share this information with any other company or use it for any other purpose.
 
-**Part 2**
 
-The Site contains cookies. This Site sends your browser a cookie - a small piece of data stored on your computer's hard drive. The purpose of the cookie is to improve your reading of and your search possibilities on our site. If you are a registered Client, e.g. a publisher, the cookie will also manage and control your login and session on those parts of our Site that are only available to registered Clients. 
 
-If you do not want to accept that your computer receives and stores cookies, you can alter your security settings on your web browser (Internet Explorer, Google Chrome, Safari etc.). However, note that certain parts of our Site may only be used fully if your browser allows cookies. Thus, your reading experience of our Site may be affected negatively by removing and not allowing cookies. 
+We may use other companies to help provide or maintain different parts of our website and service and in doing so they may process your personal information. In these instances, we are the data controller and the other companies must comply with our strict privacy requirements. 
 
-If you wish to alter your cookie settings, by going to your browsers settings, below are short instructions on how to do this in the four most popular browsers: 
+We link to other companies’ websites from our website. We try to only include quality, safe and relevant links but we cannot guarantee or verify the content of any externally linked website. If you follow a link to any of these websites, please note that they should have their own privacy policies and we have not endorsed or approved those policies. We cannot be held responsible (and do not accept any responsibility or liability) for the uses to which any other company puts your personal information once you have left our website. 
 
-**Microsoft Internet Explorer**
+Where permitted by law, we may also disclose your personal information: 
 
-Click the 'Tools' icon in the top right hand corner and select 'Internet options'. In the pop up window select the 'Privacy' tab. From here you can adjust your cookie settings. 
+  * if we sell the group or any company or part of the group;
+  * to comply with any legal obligation, or to enforce or apply our rights and other agreements; and
+  * to protect the rights, property, or safety of us, our group; our customers, or others.
 
-**Google Chrome**
 
-Click the spanner in the top right hand corner and select 'Settings'. From here select 'Under the hood' and change the settings under 'Privacy'. 
 
-**Mozilla Firefox**
+We may also exchange your personal information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
 
-From the drop down menu in the top left hand corner select 'Options'. In the pop up window select the 'Privacy' tab. From here you can adjust your cookie settings. 
+**Where we transfer your information:**   
+Some of the personal information we collect may be transferred to, and stored at, a destination outside the European Union (EU). It may also be processed by staff operating outside the EU who work for us or for one of our suppliers. 
 
-**Safari**
+Some of our services are provided by companies based in the United States (for example, Amazon Web Services, Ebay, Cloudflare and Google Cloud Platform). When your personal information is transferred to the US we take all steps reasonably necessary to ensure that it is treated securely and in accordance with this privacy policy and all appropriate legal and regulatory requirements. Many of the companies we use are certified by the Privacy Shield framework (which sets security and privacy requirements for protection of your personal information) and we have written agreements with them to ensure they cannot process your personal information for any other purposes or share it with any other companies without our express permission. 
 
-From the settings drop down menu in the top right hand corner select 'Preferences'. Select the 'Security' tab and from here you can adjust your cookie settings. 
+By submitting your personal information to us, you agree to this transfer, storing or processing. 
 
-In addition, Fonebank may serve ads on this and other websites using our own ad-serving technology. In doing so, one of our ad servers will place or read a unique ad-serving cookie on your computer and will use non-personal information about your browser and your activity at this site to serve ads on this and other sites. The ad-serving cookie is a persistent cookie. 
+**How we keep your information safe:**   
+Keeping your personal information secure is very important to us. Once we have received your personal information, we will use strict procedures and security measures to protect it. Our website is secured by RapidSSL and we use a secure protocol (https://) to encrypt your information between your computer’s browser and our website. We protect our network with the latest firewall technology and we securely store personal information and encrypt your bank account details and passwords. We restrict the number of our staff that have access to any personal information and we have secure backup systems to ensure that any personal information cannot be lost or deleted. We train all our staff so that they understand the importance of keeping our customers’ personal information secure. 
 
-**Signup/Login cookies – First party Cookie**
+Where we have given you (or where you have chosen) a password which enables you to access certain parts of our website, you are responsible for keeping this password confidential. We ask you not to share a password with anyone and to choose a strong password (which should contain a mixture of letters and numbers). 
 
-| Cookie name| Description  
----|---  
-ASP.NET_SessionID| For security reasons when logging in a session cookie is needed. It is a unique id to this session and encrypts this in a cookie. This cookie is set when logging in and will be deleted when logging out.  
-USERID| A session cookie to keep you logged in to the old and the new system at the same time  
+Please bear in mind that no information sent over the Internet can be guaranteed to be totally secure. Although we will do our best to protect your personal information, we cannot guarantee the security of any personal information that you send to our website and it is sent at your own risk. 
+
+**How to change your preferences:**   
+If you no longer wish to be contacted by us, then you can let us know by emailing our customer services team ([ot@cmrecycling.co.uk](mailto:ot@cmrecycling.co.uk)) or by writing to us at our registered address. 
+
+All marketing emails have a clear unsubscribe link and if you click it then we will automatically unsubscribe you and you will not receive any further marketing emails. 
+
+**How to get your information corrected or request we stop using it:**   
+If you have any concerns about the accuracy of your personal information then you can contact us in writing by post or email (details below) and we will correct it. 
+
+If you want us to stop using your personal information then please contact us in writing by post or email (details below) explaining why you object to its use and what you want us to do. We will then respond appropriately to your request. 
+
+Please note that if you do not provide us with your personal information or object to us using it then this may prevent us from fulfilling certain requests (for example we cannot help you with certain enquiries without your contact details and we cannot fulfil a request to recycle your mobile device without your contact details). 
+
+**How to find out what information we hold:**   
+You have the right to get a copy of the information we hold about you. This is known as a subject access request. 
+
+If you wish to make a subject access request then please contact us in writing by post or email (details below). You must provide your full name, address and a contact telephone number. 
+
+If we hold information about you we will: 
+
+  * give you a description of it;
+  * tell you the legal basis for us holding it;
+  * tell you what we are using it for;
+  * tell you who it could be disclosed to;
+  * tell you how long we keep it; and
+  * let you have a printed copy of the information or, if you prefer, provide it to you in a commonly used electronic format.
+
+
+
+We will do this free of charge and we will respond to you within one month or your request. 
+
+If you identify any inaccuracies in the information we send you then let us know and we will correct it. 
+
+**Changes to this privacy policy:**   
+We update our privacy policy from time to time so we suggest you review it each time you provide any personal information. Any changes we may make in the future will be posted on this page and, where appropriate, notified elsewhere on the website. 
+
+**How to contact us or make a complaint:**   
+If you have any questions or comments about this privacy policy then please write to the Data Protection Officer at the registered address or email [ot@cmrecycling.co.uk](mailto:ot@cmrecycling.co.uk). 
+
+If you are concerned about the way we may be handling your personal information, then you can raise your concern with the Information Commissioner’s Office. 
+
+**How we identify the Lawful Basis for Processing Personal Data**
+
+  1. You, the customer, have given consent to the processing of your personal data for one or more specific purpose;
+  2. Processing is necessary for the performance of a contract to which you are a party or in order to take steps at your request, prior to entering into a contract;
+  3. Processing is necessary for compliance with a legal obligation to which the controller is subject;
+  4. Processing is necessary in order to protect the vital interests of the data subject or of another natural person;
+  5. Processing is necessary for the performance of a task carried out in your interests ie paying you money and completing the contract.
+  6. Processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of you which require protection of personal data, in particular where the data subject or individual is a child.
+
+
+
+**Below includes details regarding the cookies that we use on our website.**   
+A cookie is a small text file that is sent by the web server of the website you visit to your web browser and is stored on your computer. Cookies provide a number of functions in order to make websites work, or work more efficiently, as well as to provide information to the owners of websites (e.g. cookies can identify if you have previously visited or registered with a website). 
+
+The Privacy and Electronic Communications (EC Directive) Regulations 2003 has introduced requirements to provide website users with access to information. 
+
+We collect information about users visiting our Websites by analysing site traffic which includes the use of cookies. 
+
+The information collected by cookies and other tracking methods on our Websites is anonymous and does not contain any sensitive information such as your name, address or any payment details nor does it contain any information that can personally identify you. 
+
+You may delete and block all cookies from our Websites but some parts subsequently will not work. 
+
+You can find out more about the cookies we use on our Websites, as well as detailed information on how to turn off cookies, or change the cookie settings on your browser, in the following pages. 
+
+**STRICTLY NECESSARY COOKIES**   
+These cookies are essential in order to enable you to move around the website and use its features. These cookies ensure that our Website functions correctly and also facilitate a product selection or track a sale order you have made. 
+
+ASP.NET_SessionId, Cookie generated by applications based on the asp.net vb language. This is a general purpose identifier used to maintain user session variables. It is normally a random generated number, how it is used can be specific to the site, but a good example is maintaining a logged-in status for a user between pages. 
+
+UserID, this stores a randomly generated value that allows the use of the cart facility on our web sites. Without this the site would not function correctly. 
+
+| First Party | Cookie Name | Description  
+---|---|---  
+Fonebank.com, ZonZoo.es, Smartfonestore.com, Cmrecycling.co.uk, Movilbak.es, Fonebank.fr, Zonzoo.nl, Zonzoo.es, Simplydrop.co.uk, fonebank.gr, (the "website") is owned by CMR Limited ("we", "us" or "our"). | PHPSESSID | Cookie generated by applications based on the PHP language. This is a general purpose identifier used to maintain user session variables. It is normally a random generated number, how it is used can be specific to the site, but a good example is maintaining a logged-in status for a user between pages.  
   
-**Google Analytics - First party Cookie**
+**Google Analytics - Further information**   
+Our Website uses Google Analytics, a Web analytics service provided by Google Inc. ("Google"). Google Analytics uses cookies to help us analyse how users use the Website. The information generated by the cookies about your use of the Website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information to evaluate your use of the Website, to produce reports for us on Website activities, and to provide additional services associated with the use of the Internet and our Website. Google may also pass on this information to third parties where required to do so by law or where third parties process this data on Google's behalf. Under no circumstances will Google associate your IP address with any other data held by Google. 
 
-Cookie name| Description  
----|---  
-__utmz| Keeps track of where the visitor came from, what search engine they used, what link was clicked on, what keyword they used, and where in the world they are when they accessed the website.  
-_utmv| Stores information used within Analytics to identify users’ as part of a custom segmentation.  
-_utmc| Holds timestamp of the exact moment in time when a visitor leaves the site  
-_utmb| Holds timestamp of the exact moment in time when a visitor first visits the site  
-_utma| This cookie keeps track of the number of times a visitor has been to the site, when their first visit was, and when their last visit occurred.  
-Opt-out| You can opt out from Google analytics at https://tools.google.com/dlpage/gaoptout   
-| Further information on Google privacy policy can be found at http://www.google.com/analytics/learn/privacy.html  
-  
-**Tornado Tracking - First party Cookie**
+In addition this Website utilises Google Analytics Demographics and Interest Reporting which allows us to use aggregated user data (such as age, gender and interests) to better understand our audience and provide more relevant and targeted communications and content. 
 
-Cookie name| Description  
----|---  
-SEITCookies| To test if cookies are enabled in the browser  
-SessionIDSEI_c_id| Keeps track of where the visitor came from, what search engine etc they used, what link was clicked on, what keyword they used, and where in the world they are when they accessed the website.  
-OPT Out| You can opt out from Tornado tracking at http://www.roi-pro.com/opt-out   
-| Further information on privacy policy can be found at http://www.roi-pro.com/privacy_policy   
-  
-**Part 3**
+We also utilise Google Analytics Remarketing Audiences functionality. If you are signed in to your Google account this allows us to identify the type of device through which you access the Website (smartphone; PC; etc) and track a user across multiple devices to show more relevant ads. This functionality does not incorporate any personally identifiable data. You can change your Google account settings at: <https://myaccount.google.com/intro/privacy#>, 
 
-Fonebank processes digital information about Users (web surfers) who visit websites belonging to Clients with whom Fonebank has contracted to serve advertisements (the "Advertising Network"). This part of the Privacy Policy lets you know what information we collect and process about you as a User on behalf of our Clients, why we collect it and how it is used in relation to our Interest Based Advertising and Retargeting services to our Clients. The Policy contains instructions on how you can display and delete information collected by Fonebank yourself and how you can opt-out from further Interest Based Advertising and Retargeting activities of Fonebank. Further, the Policy contains instructions to our publishers on how to notify Users about Fonebank’s services on their websites. 
-
-**What is Interest Based Advertising and Retargeting?**
-
-There exists a range of different kinds of online Interest Based Advertising and Retargeting services; from fairly simple forms to the far-reaching monitoring of web surfer activities carried out by search-engine owners or services carried out in partnerships between technology companies and Internet Service Providers. As a common denomination, you could say that Interest Based Advertising and Retargeting is intended to make online display advertising more relevant to web surfers' likely interests. 
-
-Fonebank’s Interest Based Advertising and Retargeting services are cookie based. "Cookies" are small simple text files (not programs or spyware) stored on the hard drive of a web surfer's computer. Based on the anonymous information stored in the User's cookie, Fonebank is able provide more relevant advertising to the User on behalf of our Clients. For example, a User that visits recycling sites often will be categorized in the "recycling" segment, and will primarily be served advertisements that are relevant to the interests of a mobile recycling. 
-
-The fundamental integrity principle underlying all Fonebank’s processing of digital data relating to Users, is that such data shall be anonymous. Therefore, we do not store IP addresses on the cookie of a User, only a unique randomly generated ID that does not allow Fonebank to trace the User; we do not have, and will not initiate, any co-operation with Internet Service Providers in order to trace the identities of Users. The data stored on the cookie is limited to information collected at the User's visits to websites belonging to Fonebank’s Advertising Network. With the exception of a marginal proportion of cookie data saved for statistical purposes solely, a User's cookie can only be viewed by Fonebank when the User visits a website that belongs to our Advertising Network. 
-
-**Targeting information**
-
-**Use of collected digital data**
-
-Fonebank will use the User data in order to better target advertisements on behalf of our Clients, to provide aggregated non-personal reporting to our Clients, and to improve our advertising systems and products. The data may be combined with other anonymous information collected from other sources so that we may better serve Users with offers that may be of interest to them. We may also share anonymous data between companies within the Fonebank group of companies. 
-
-**Security**
-
-Fonebank is dedicated to maintaining the security of all its data and preventing unauthorized access through the implementation of appropriate technical and organizational measures, as far as is reasonably possible. Such security measures also include access restrictions, i.e. that data may be accessed only by a limited number of persons within Fonebank. 
-
-Our employees are made aware of, and must comply with, Fonebank’s security measures. When we occasionally use third-party contractors to perform tasks that might otherwise be performed by our employees, these contractors are contractually bound to adhere to this Privacy Policy and they are subject to similar restrictions as our employees. 
-
-**Opt-out**
-
-You may at any time easily block further cookie-based Interest Based Advertising and Retargeting activities from Fonebank by opting-out. 
-
-In addition, note that you are always able to prevent cookies from any website from being installed on your computer by readjusting your browser settings. For more information about cookies and how to disable them, you should consult the help section of your browser. 
-
-**Part 4**
-
-**CONTACT**
-
-All comments, queries and requests relating to our use of your information are welcomed and should be addressed to info@fonebank.com.
+You may refuse the use of cookies by selecting the appropriate settings on your browser as more fully explained below. Furthermore, you can opt-out of Google Analytics for Display Advertising and customise Google Display Network ads at <https://www.google.com/settings/ads> and you can prevent Google Analytics collecting IP addresses and using other cookies by downloading and installing the following Google browser plug-in: <https://tools.google.com/dlpage/gaoptout?hl=en-GB>
 
   | 
+
+Your Cart
+
+Cart is Empty 
+
+Top 5 Handsets This Month
+
+|   | 
+
+[1\. Apple iPad Air 32GB WiFi](https://web.archive.org/sell-Apple-iPad/Apple-iPad-Air-32GB-WiFi.aspx)
+
+[2\. Apple iPhone 5S 16GB](https://web.archive.org/sell-Apple-iPhone/Apple-iPhone-5S-16GB.aspx)
+
+[3\. Samsung Galaxy S6 G920 32GB](https://web.archive.org/sell-Samsung/Samsung-Galaxy-S6-G920-32GB.aspx)
+
+[4\. Apple iPhone 6 16GB](https://web.archive.org/sell-Apple-iPhone/Apple-iPhone-6-16GB.aspx)
+
+[5\. Apple iPhone 7 32GB](https://web.archive.org/sell-Apple-iPhone/Apple-iPhone-7-32GB.aspx)
+
+|    
+---|---|---  
+  
+Sell Mobiles Now
+
+  | 
+
+| 
+
+|   |   
+---|---|---  
+  
+   
+Or Select a Manufacturer
