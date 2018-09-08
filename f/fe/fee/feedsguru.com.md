@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feedsguru.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606025540id_/http%3A//feedsguru.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedsguru.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908035855id_/http%3A//feedsguru.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Feedsguru.com
 
@@ -56,6 +56,6 @@ Feeds Guru may amend this Privacy Statement from time to time. Use of informatio
 
 **QUESTIONS**
 
-If you have any questions or concerns regarding privacy on our Website, please send us a detailed message at testing-feedsguru.contactus@gmail.com.  
+If you have any questions or concerns regarding privacy on our Website, please send us a detailed message at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
 We will make every effort to resolve your concerns.  
 Effective Date: August 24, 2015
