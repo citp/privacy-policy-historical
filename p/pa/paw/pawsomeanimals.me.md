@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pawsomeanimals.me privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607004817id_/http%3A//www.pawsomeanimals.me/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pawsomeanimals.me privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908020404id_/http%3A//www.pawsomeanimals.me/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PaswomeAnimals
 
