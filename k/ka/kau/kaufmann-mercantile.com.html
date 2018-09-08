@@ -1,8 +1,7 @@
-<!--The following is the downloaded HTML source of the kaufmann-mercantile.com privacy policy that was archived on 2017-02-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170227174227id_/https%3A//www.kaufmann-mercantile.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kaufmann-mercantile.com privacy policy that was archived on 2018-09-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180908041855id_/https%3A//www.kaufmann-mercantile.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
-    <!-- Optimizely --><script type="text/javascript" async="" src="https://intljs.rmtag.com/113604.ct.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://js.bronto.com/c/7b11ublt2399vgz5f2hxtojl9zlzbk2txmip5dhev7f8ijg6oa/42eda233d5ad81747427fd73a9fbc24a5b9be242b5ede015174d0f8b1cd22f59/s/b.min.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/cf177e1dcc1cb6544d631420fad5cca21d03ae3c.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script async="" src="//web.archive.org/web/20161115015453/http://www.googletagmanager.com/gtm.js?id=GTM-WGLG34"></script><script async="" src="https://cdn.branch.io/branch-latest.min.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script src="//cdn.optimizely.com/js/7601934363.js"></script>
     <meta name="google-site-verification" content="6EXK51X56qs_-HQTfi7TLtGW8dUNsrriIJDmfBM67Ac">
     <meta name="msvalidate.01" content="59673E5568FB211A173E2149749A53FF">
     <meta charset="utf-8">
@@ -14,6 +13,8 @@
     <meta name="author" content="Kaufmann Mercantile">
     <meta name="keywords" content="ahalife, aha life, unique products, unique gifts, exclusive products, curation, luxury gifts, gifts that give back">
     
+    <meta property="og:image:width" content="476">
+    <meta property="og:image:height" content="249">
     <meta property="og:site_name" content="Kaufmann Mercantile">
     <meta property="fb:app_id" content="191536690866547">
     <meta property="og:title">
@@ -30,11 +31,11 @@
     
     
     <link rel="canonical" href="https://www.kaufmann-mercantile.com/privacy">
-    <link rel="stylesheet" href="/css/aha-marketplace-desktop.css?vsn=704d8f331ac8e24b6109a1378d97a54e6968a9ff">
-    <link rel="stylesheet" href="/css/jquery.bxslider.css">
+    <link rel="stylesheet" href="https://assets1.ahalife.co/css/aha-marketplace-desktop.css?vsn=229084611311f9d2b7fa117257bfc671926de4d7">
+    <link rel="stylesheet" href="https://assets1.ahalife.co/css/jquery.bxslider.css?vsn=229084611311f9d2b7fa117257bfc671926de4d7">
     
 	
-    <script>
+    <script src="//tags.tiqcdn.com/utag/ahalife/main/prod/utag.js" type="text/javascript" async=""></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//d241ujsiy3yht0.cloudfront.net/16631361f.js"></script><script>
  /*<![CDATA[*/
      window._ahaRegistrationSuccess = null;
  /*]]>*/
@@ -88,12 +89,48 @@ function checkVersion() {
         /*]]>*/
     </script>
     
+    <script type="application/ld+json">
+
+{
+
+	"@context": "http://schema.org",
+
+	"@type": "WebSite",
+
+	"url": "https://www.kaufmann-mercantile.com",
+
+	"potentialAction": {
+
+		"@type": "SearchAction",
+
+		"target": "https://www.kaufmann-mercantile.com/globalsearch/query?query={search_term_string}",
+
+		"query-input": "required name=search_term_string"
+
+	}
+
+}
+
+</script>
+    <script>
+    var accountId = '16631361';
+    var scriptUrl = '//d241ujsiy3yht0.cloudfront.net/' + accountId;
+    (function(c, o, n, v, e, r, t, s) {
+        s = c.fetch ? 'f' : '', c.ccartObj = e, c[e] = c[e] || function() {
+            (c[e].q = c[e].q || []).push(arguments)
+        }, c[e].t = Date.now(), r = o.createElement(n);
+        r.async = 1;
+        r.src = v + s + '.js';
+        t = o.getElementsByTagName(n)[0];
+        t.parentNode.insertBefore(r, t)
+    })(window, document, 'script', scriptUrl, 'ccart')
+</script>
     <script type="text/javascript">
         var _loadAhaPixel = function() {
+            console.log("Loading aha pixel!")
             if (window._delayAhaPixel) {
               return;
             }
-            var pixelUrl = '//' + 'pixel.kaufmann-mercantile.com' + '/pixel/image';
             var utmz = "";
             var value = "; " + document.cookie;
             var parts = value.split("; __utmz=");
@@ -105,23 +142,54 @@ function checkVersion() {
             if (!(!Aha || !Aha.utils || !Aha.utils.generateCurrentPageParams)) {
               currentPageParams = Aha.utils.generateCurrentPageParams();
             }
-
-            var img = $('<img id="ahaPixelTracking" style="display: none;" />');
-            img.attr('src', pixelUrl + '?utmz=' + encodeURIComponent(utmz) + currentPageParams);
-            $("footer").append(img);
+            
           };
+          <!-- Page-hiding snippet (recommended)  -->
+          (function(a,y,n,c,h,i,d,e){h.start=1*new Date;
+			h.end=i=function(){var s = document.getElementsByClassName('wrapper')[0];if(s){s.className=s.className.replace(RegExp(' ?'+y),'')}};
+			(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+			})(window,'async-hide','dataLayer',1000,
+			{'GTM-T39Q6R6':true});
+          
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		   
+		   (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			 ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); }
+			)(); 
+			          
+          ga('create', 'UA-11948452-6', 'auto', {'allowLinker': true});
+          ga('require', 'linker');
+          ga('linker:autoLink', 'none');
+          
+          <!-- Google optimize -->
+          ga('require', 'GTM-T39Q6R6');
+		  
+		  var YOTTAA_CONTROL_DIMENSION = 'dimension3'; //default is 'yottaa_control'
+		  var YOTTAA_TEST_DIMENSION = 'dimension4'; //default is 'yottaa_test'
+		  ga('set',YOTTAA_CONTROL_DIMENSION,'control');
+		  ga('set',YOTTAA_TEST_DIMENSION,window.Yo?'optimized' : 'control');
+		  ga('send', 'pageview');
+		  ga('set', 'dimension2', 'app03');
+		  ga('require', 'ecommerce');
+          
           var _gaq = _gaq || [];
           _gaq.push(['_setAccount', 'UA-11948452-6']);
           _gaq.push(['_setDomainName', 'none']);
           _gaq.push(['_setAllowLinker', true]);
-          _gaq.push(['_setCustomVar', 1, 'Server Name', 'app04', 2]);
-          _gaq.push(_loadAhaPixel);
-                var _user_id = '325032584';
+          _gaq.push(['_setCustomVar', 3, 'yottaa_control', 'control', 3]);
+          _gaq.push(['_setCustomVar', 4, 'yottaa_test', window.Yo ? 'optimized' : 'control', 3]);
+          _gaq.push(['_trackPageview']);
+	      _gaq.push(_loadAhaPixel); 
+                var _user_id = '447732340';
           var _user_fname = '';
           var _user_lname = '';
           var _user_email = '';
           var _logged_in = 'false';
-          var _server_name = 'app04';
+          var _server_name = 'app03';
           var _gtm_page_type = 'other';
 		  var _user_gender  = 'NOT_SPECIFIED';
 		  var _user_date_joined = '';
@@ -136,122 +204,58 @@ function checkVersion() {
 			  _user_date_joined = mmdd+'/'+year ;
 		  }
     </script>
-    <!-- Kissmetrics --><script>
-/*<![CDATA[*/
-var _kmq = _kmq || [];
-var _kmk = _kmk || 'cf177e1dcc1cb6544d631420fad5cca21d03ae3c';
-function _kms(u){
-  setTimeout(function(){
-    var d = document, f = d.getElementsByTagName('script')[0],
-    s = d.createElement('script');
-    s.type = 'text/javascript'; s.async = true; s.src = u;
-    f.parentNode.insertBefore(s, f);
-  }, 1);
-}
-_kms('//i.kissmetrics.com/i.js');
-_kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
-/*]]>*/
-</script>
 
-    <title>Privacy Policy - kaufmann-mercantile.com</title>
+    <title>Privacy Policy | Kaufmann Mercantile</title>
     
     
     
-
-    <!-- start Mixpanel --><script>
-
-	  	//Added function for Get Customer Type.
-	    function getCustomerType() {
-	
-	   		 var customerType = '3';
-			 //Anonymous user type is 3
-			 
-			 if(_user_anonymous  == 'true') {
-					customerType = '3';
-			 }//Not Anonymous and user_purchases count 0 or null or blanck 
-			 else if(_user_purchases == null || _user_purchases == ''){
-				customerType = '2';
-			 }//Other users 1
-			 else {
-				customerType = '1' ;
-			 }
-			 return customerType;
-	    }
-   
-		//Get mixpanel key from properties file.
-    	var mixpanelkey = '51e39981214a4229a8f5f63b95b657c4';
-
-        /*<![CDATA[*/
-        (function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
-        for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
-        mixpanel.init(mixpanelkey);
-        mixpanel.set_config({api_host: "https://api.mixpanel.com"});
-        (function () {
-        	var pageType = 'PRIVACY';
-        	window.pageType = window.pageType || pageType;
-        	var _setPeopleProps = function () {
-        		var params = {};
-        		var email = _user_email && _user_email.trim();
-        		var firstName = _user_fname && _user_fname.trim();
-        		var lastName = _user_lname && _user_lname.trim();
-        		if (!!email) {
-            		params['$email'] = email;
-            	}
-            	if (!!firstName) {
-            		params['$first_name'] = firstName;
-            	}
-            	if (!!lastName) {
-            		params['$last_name'] = lastName;
-            	}
-            	
-            	if (!!email) {
-            		mixpanel.people.set(params);
-            	}
-        	}
-        	if (!!window._user_email) {
-	        	if (window._user_anonymous != 'true') {
-		    		if (window._ahaRegistrationSuccess) {
-		    			mixpanel.alias(window._user_email);
-		    		} else if (window._ahaLoginSuccess) {
-		    			mixpanel.identify(window._user_email);
-		    		}
-		    		_setPeopleProps();
-	    		} else if (window.pageType == 'CONFIRMATION') {
-	    			mixpanel.identify(window._user_email);
-	    			_setPeopleProps();
-	    		}
-        	}
-        	window.ahaMixpanelTrack = window.ahaMixpanelTrack || [];
-        	window.ahaMixpanelTrack.push(['pageLoad', {}]);
-        })();
-        /*]]>*/
-    </script>
-    
-    <!-- end Mixpanel -->
-    
-    <!-- start branch --><!--  source : https://dev.branch.io/features/website-to-app-routing/guide/ --><script>
-//Get branch key from properties file.
-var branchkey = 'key_live_agi4Ki9uUSilM4kfl45FMnfmwraN4aAS';
-/*<![CDATA[*/
-// load the Branch SDK file
- var branch_product_id = null;
-	(function(b,r,a,n,c,h,_,s,d,k){if(!b[n]||!b[n]._q){for(;s<_.length;)c(h,_[s++]);d=r.createElement(a);d.async=1;d.src="https://cdn.branch.io/branch-latest.min.js";k=r.getElementsByTagName(a)[0];k.parentNode.insertBefore(d,k);b[n]=h}})(window,document,"script","branch",function(b,r){b[r]=function(){b._q.push([r,arguments])}},{_q:[],_v:1},"addListener applyCode banner closeBanner creditHistory credits data deepview deepviewCta first getCode init link logout redeem referrals removeListener sendSMS setBranchViewData setIdentity track validateCode".split(" "), 0);
-branch.init(branchkey);
-/*]]>*/
-</script>
-<!-- end branch -->
-
 </head>
 
 <body onload="checkVersion();" class="kaufmann-mercantile non-tablet">
     <script>$__siteid = 0; $__sitename = 'ahalife'; dataLayer = [{'siteId': $__siteid}]; $__gtmid='GTM-WGLG34'</script>
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PJPDDZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script type="text/javascript" src="/js/gtm.js"></script>
+<script type="text/javascript" src="https://assets2.ahalife.co/js/gtm.js"></script>
 <!-- End Google Tag Manager -->
+	<!-- TODO: remove criteo js --><script type="text/javascript" src="//static.criteo.net/js/ld/ld.js" async="true"></script>
+<script type="text/javascript" src="https://assets2.ahalife.co/js/lib/md5.js"></script>
+<script>
+/*<![CDATA[*/
+           
+var criteoCustomerId = 447732340;
+var email = null;
+var criteoHashedEmail;
+if (email) {
+    criteoHashedEmail = calcMD5(email);
+}
+           
+if (!window.dataLayer) window.dataLayer = [];
+var criteoBasket = null;
+var criteoListng = null;
+var criteoKeywords = null;
+var criteoProductId = null;
+if (!criteoProductId) {
+	criteoProductId = null;
+}
+var criteoOrderId = null;
+var criteoInfo = {
+       'event': 'criteInfoLoaded',
+       'criteoCustomerId': criteoCustomerId,
+       'criteoHashedEmail' : criteoHashedEmail,
+       'criteoBasket' : criteoBasket,
+       'criteoListng' : criteoListng,
+       'criteoKeywords' : criteoKeywords,
+       'criteoProductId' : criteoProductId,
+       'criteoOrderId' : criteoOrderId
+}
+dataLayer.push(criteoInfo);
+/*]]>*/
+</script>
+
     
-    <div class="wrapper">
+    <div class="wrapper async-hide">
         <header class="header forceMinWdith-desktop static showStatic" id="header" style="background-color:transparent;">
+	<div class="show-hide-sign-up"></div>
 	<script>
 /*<![CDATA[*/
   Aha.pixelUrlDefaults = null;
@@ -263,7 +267,10 @@ branch.init(branchkey);
     /*]]>*/
     </script>
 	<div class="header-bg">
-		<div class="helper-text-wrapper">
+		<div class="helper-text-wrapper container">
+			<div class="info-wrapper float-l common-icons">
+				<div><span class="icon phone"></span>+1 (855) 848-3778 &nbsp; &nbsp; M−F &nbsp; &nbsp; 9AM−6PM EST</div>
+			</div>
 			
 <div id="headerPromo">
 	
@@ -271,9 +278,13 @@ branch.init(branchkey);
 	
 		
 	
+		
+	
 		<div class="promos">
 			<ul class="promo-container" style="width: auto;">
-				<li class="promo" style="border: 0;"><a href="/shipping" class="link">Free Shipping &amp; Returns on All U.S. Orders over $200</a></li>
+				<li class="promo" style="border: 0;">
+					<a href="/shipping" class="link">free shipping on all U.S. orders over $150</a>
+				</li>
 			</ul>
 		</div>
 	
@@ -293,42 +304,16 @@ branch.init(branchkey);
 	
 		
 	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
+	<div class="promos promos-returns hide">
+		<ul class="promo-container" style="width: auto;">
+			<li class="promo" style="border: 0;">
+				<a href="/shipping" class="link">Free Returns in the U.S.</a>
+			</li>
+		</ul>
+	</div>
 </div>
-			<div class="info-wrapper float-r">
-				<div><span>AHA CONCIERGE: </span> +1 (855) 848-3778 &nbsp; &nbsp; Mon-Fri, 9am-6pm EST</div>
-			</div>
+			
+			<a class="info-wrapper float-r" href="https://www.ahalife.com" target="_blank">shop AHALIFE</a>
 			<div class="clearfix"></div>
 		</div>
 		<div class="mid-header">
@@ -337,24 +322,25 @@ branch.init(branchkey);
 	        		<div id="stickyHeaderBadge" class="float-l">
 	        			<img src="https://assets3.ahalife.co/img/badge.png">
 	        		</div>
-	            
-	            	<div class="logo-wrapper float-l">
-	            		<a moduletype="'hd-aha'" class="header-logo" href="/" title="Kaufmann Mercantile">
-	            			<img width="178" src="https://assets3.ahalife.co/img/sass/logo-kaufmann-mercantile.svg" alt="Kaufmann Mercantile">
-	            		</a>
-	            	</div>
-	            
+
 	            	<div class="searchWrapper float-l">
 		        		<div class="search desktop-search hidden-phone">
 			        		<div class="search-wrap">
-			                	<a href="javascript:;" class="ico ico_search ico_right search-link">
-			                		<form action="/globalsearch/query" method="get">
-			                			<input class="desktop-search-input" placeholder="Search products and designers" name="query">            		
-			                		</form>
-			                	</a>
+			                	<a href="javascript:document.getElementById('search-form').submit();" class="ico ico_search ico_right search-link"></a>
+			                	<div class="input-text">
+									<form action="/globalsearch/query" method="get" id="search-form">
+										<input class="desktop-search-input" placeholder="Search products and designers" name="query">
+									</form>
+								</div>
 			            	</div>
 		            	</div>
 		        	</div>
+
+					<div class="logo-wrapper float-l">
+						<h1><a moduletype="'hd-aha'" class="header-logo" href="/" title="Kaufmann Mercantile">
+							<img src="https://assets3.ahalife.co/img/sass/logo-kaufmann-mercantile.svg" alt="Kaufmann Mercantile">
+						</a></h1>
+					</div>
 
 	            	<div id="mobileShopLink" class="shop-link float-l">
 	            		<div class="list-icon"></div>
@@ -390,12 +376,16 @@ branch.init(branchkey);
 			</a>
 			
 		</li>
+		<li class="insider-rewards">
+			<a class="insider" href="/insider"><span id="insider-crowns">0</span></a>
+		</li>
 		<li class="customer-bookmarks">
-			<a class="aha-bookmark active" href="/bookmark">&nbsp;</a><span id="bookmarkCountText">(0)</span>
+			<a class="aha-bookmark active" href="/bookmark"><span id="bookmarkCountText">0</span></a>
 		</li>
 		<li class="bag">
 			<a moduletype="'hd-mb'" class=" ico ico_bag ico_right headerBag-link " href="/bag">
-				<span class="headerBag">My Bag </span>
+				<span class="headerBag">&nbsp;</span>
+				
 			</a>
 			<div id="id-empty-bag-popup" class="bag-popup">
     <div class="content-cont">
@@ -405,7 +395,7 @@ branch.init(branchkey);
         	<img height="70" width="60" alt="Empty Bag" src="https://assets3.ahalife.co/img/sass/my-bag-hover-kaufmann-mercantile.svg">
             <div>
 				<span>Your bag is empty</span>
-				Start filling it with inspiring<br>AHA products now!
+				Start filling it with inspiring<br><label>KM</label> products now!
             </div>  
         </div>
         <div class="header">
@@ -430,31 +420,39 @@ branch.init(branchkey);
 		<div>
 			<div class="secondary-nav clearfix static-nav">
 				<ul class="nav-ul">
-					<li class="nav-item"><a class="opt-main opt" data-galinkname="New" data-category-id="100001000" data-gacategory="New" href="/shop/kaufmann/whats-new"> <span>New</span>
-					</a></li>
-					<li class="nav-item"><a class="opt-main opt" data-galinkname="Gifts" data-category-id="100010200" data-gacategory="Gifts" href="/shop/kaufmann/gifts/valentines-day/for-her"> <span>Gifts</span>
-					</a></li>
-					<li class="nav-item"><a class="opt-main opt" data-galinkname="Sale" data-category-id="100011000" data-gacategory="Sale" href="/shop/kaufmann/sale">
-							<span>Sale</span>
-					</a></li>
-					<li class="nav-item"><a class="opt-main opt" data-galinkname="Home Decor" data-category-id="100002000" data-gacategory="Home Decor" href="/shop/kaufmann/home-decor">
+					<!-- <li class="nav-item"><a class="opt-main opt mothers-day"
+						data-galinkname="Mothers Day" data-category-id="0"
+						data-gacategory="Mothers Day" href="/kaufmann-story/3251/mothers-day"> <span>Mother&lsquo;s Day</span>
+					</a></li> -->
+					<li class="nav-item"><h2><a class="opt-main opt" data-galinkname="New" data-category-id="100001000" data-gacategory="New" href="/shop/kaufmann/whats-new"> <span>New</span>
+					</a></h2></li>
+					<li class="nav-item"><h2><a class="opt-main opt" data-galinkname="Gifts" data-category-id="100010200" data-gacategory="Gifts" href="/shop/kaufmann/gifts/whats-new"> <span>Gifts</span>
+					</a></h2></li>
+					<!--<li class="nav-item"><a class="opt-main opt holiday"
+						data-galinkname="Holiday" data-category-id="0"
+						data-gacategory="Holiday" href="/shop/holiday"> <span>Holiday</span>
+					</a></li>-->
+					<li class="nav-item"><h2><a class="opt-main opt" data-galinkname="Home Decor" data-category-id="100002000" data-gacategory="Home Decor" href="/shop/kaufmann/home-decor">
 							<span>Home</span>
-					</a></li>
-					<li class="nav-item"><a class="opt-main opt" data-galinkname="Kitchen &amp; Tabletop" data-category-id="100003000" data-gacategory="Kitchen &amp; Tabletop" href="/shop/kaufmann/kitchen-and-tabletop"> <span>Kitchen</span>
-					</a></li>
-					<li class="nav-item"><a class="opt-main opt" data-galinkname="Accessories" data-category-id="100004000" data-gacategory="Accessories" href="/shop/kaufmann/accessories">
+					</a></h2></li>
+					<li class="nav-item"><h2><a class="opt-main opt" data-galinkname="Kitchen &amp; Tabletop" data-category-id="100003000" data-gacategory="Kitchen &amp; Tabletop" href="/shop/kaufmann/kitchen-and-tabletop"> <span>Kitchen</span>
+					</a></h2></li>
+					<li class="nav-item"><h2><a class="opt-main opt" data-galinkname="Accessories" data-category-id="100004000" data-gacategory="Accessories" href="/shop/kaufmann/accessories">
 							<span>Accessories</span>
-					</a></li>
-					<li class="nav-item"><a class="opt-main opt" data-galinkname="Office" data-category-id="100005000" data-gacategory="Office" href="/shop/kaufmann/office"> <span>Office</span>
-					</a></li>
-					<li class="nav-item"><a class="opt-main opt" data-galinkname="Grooming &amp; Beauty" data-category-id="100006000" data-gacategory="Grooming &amp; Beauty" href="/shop/kaufmann/grooming-and-beauty"> <span>Beauty</span>
-					</a></li>
-					<li class="nav-item"><a class="opt-main opt" data-galinkname="Tools &amp; Outdoors" data-category-id="100007000" data-gacategory="Tools &amp; Outdoors" href="/shop/kaufmann/tools-and-outdoors"> <span>Outdoors</span>
-					</a></li>
-					<li class="nav-item"><a class="opt-main opt" data-galinkname="Garden" data-category-id="100008000" data-gacategory="Garden" href="/shop/kaufmann/garden"> <span>Garden</span>
-					</a></li>
-					<li class="nav-item"><a class="opt-main opt" data-galinkname="Field Notes" data-category-id="100008000" data-gacategory="Field Notes" href="/field-notes"> <span>Field Notes</span>
-					</a></li>
+					</a></h2></li>
+					<li class="nav-item"><h2><a class="opt-main opt" data-galinkname="Grooming &amp; Beauty" data-category-id="100006000" data-gacategory="Grooming &amp; Beauty" href="/shop/kaufmann/grooming-and-beauty"> <span>Grooming</span>
+					</a></h2></li>
+					<li class="nav-item"><h2><a class="opt-main opt" data-galinkname="Tools &amp; Outdoors" data-category-id="100007000" data-gacategory="Tools &amp; Outdoors" href="/shop/kaufmann/tools-and-outdoors"> <span>Outdoors</span>
+					</a></h2></li>
+					<!-- <li class="nav-item"><h2><a class="opt-main opt"
+						data-galinkname="Garden" data-category-id="100008000"
+						data-gacategory="Garden" href="/shop/kaufmann/garden"> <span>Garden</span>
+					</a></h2></li> -->
+					<li class="nav-item"><h2><a class="opt-main opt" data-galinkname="Sale" data-category-id="100011000" data-gacategory="Sale" href="/shop/kaufmann/sale">
+							<span>Sale</span>
+					</a></h2></li>
+					<li class="nav-item"><h2><a class="opt-main opt" data-galinkname="Field Notes" data-category-id="100008000" data-gacategory="Field Notes" href="/field-notes/"> <span>Field Notes</span>
+					</a></h2></li>
 				</ul>
 			</div>
 		</div>
@@ -466,7 +464,7 @@ branch.init(branchkey);
 		<!-- NEW  -->
 		<div class="category-dropdown hidden" data-url-key="/shop/kaufmann/new" data-gacategory="New">
 			<div class="category-header-wrapper">
-				<ul class="category-header" id="categolryHeader">
+				<ul class="category-header" id="categoryHeader">
 					<li><span id="categoryShopAll">Shop All</span> <a data-galinkname="New" data-category-id="100001000" href="/shop/kaufmann/new"><span class="bold">New</span>&nbsp;</a>
 					</li>
 					<li><a data-galinkname="What's New" data-category-id="100001000" href="/shop/kaufmann/new/whats-new">
@@ -484,7 +482,7 @@ branch.init(branchkey);
 		<!-- Home Decor  -->
 		<div class="category-dropdown hidden" data-url-key="/shop/kaufmann/home-decor" data-gacategory="Home Decor">
 			<div class="category-header-wrapper">
-				<ul class="category-header" id="categolryHeader">
+				<ul class="category-header" id="categoryHeader">
 					<li><span id="categoryShopAll">Shop All</span> <a data-galinkname="Men" data-category-id="100002000" href="/shop/kaufmann/home-decor"><span class="bold">Home
 								Decor</span>&nbsp;</a></li>
 					<li><a data-galinkname="What's New" data-category-id="100002000" href="/shop/kaufmann/home-decor/whats-new"> <span>What's
@@ -496,7 +494,24 @@ branch.init(branchkey);
 				</ul>
 				<div class="clearfix"></div>
 			</div>
+			
 			<div class="category-columns-wrapper">
+				<div class="secondary-category col-3" data-url-key="/shop/kaufmann/office">
+					<div class="category-image-wrapper">
+						<!--<img-->
+							<!--th:src="${imgHost} + '/img/marketplace/k-dropdown_category/home-decor/decor.jpg'"-->
+							<!--alt="Decor" />-->
+							<span class="km-sprite km-sprite-office-writing-instruments"></span>
+					</div>
+					
+					<div class="category-content-wrapper">
+						<div class="category-header padding-top-15">
+							<a data-galinkname="Office" data-category-id="100005000" data-gacategory="Office" href="/shop/kaufmann/office">
+								<span>Office</span>&nbsp;
+							</a>
+						</div>
+					</div>
+				</div>
 				<div class="secondary-category col-3" data-url-key="/shop/kaufmann/home-decor/decor">
 					<div class="category-image-wrapper">
 						<!--<img-->
@@ -504,6 +519,7 @@ branch.init(branchkey);
 							<!--alt="Decor" />-->
 							<span class="km-sprite km-sprite-home-decor-decor"></span>
 					</div>
+					
 					<div class="category-content-wrapper">
 						<div class="category-header padding-top-15">
 							<a data-galinkname="Decor" data-category-id="100002100" data-gacategory="Decor" href="/shop/kaufmann/home-decor/decor">
@@ -529,22 +545,6 @@ branch.init(branchkey);
 					</div>
 				</div>
 
-				<div class="secondary-category col-3" data-url-key="/shop/kaufmann/home-decor/craft-and-sewing">
-					<div class="category-image-wrapper">
-						<!--<img-->
-							<!--th:src="${imgHost} + '/img/marketplace/k-dropdown_category/home-decor/craft-sewing.jpg'"-->
-							<!--alt="Craft and Sewing" />-->
-						<span class="km-sprite km-sprite-home-decor-craft-sewing"></span>
-					</div>
-					<div class="category-content-wrapper">
-						<div class="category-header padding-top-15">
-							<a data-galinkname="Craft and Sewing" data-category-id="100002300" data-gacategory="Craft and Sewing" href="/shop/kaufmann/home-decor/craft-and-sewing"> <span>Craft
-									&amp; Sewing</span>&nbsp;
-							</a>
-						</div>
-					</div>
-				</div>
-
 				<div class="secondary-category col-3" data-url-key="/shop/kaufmann/home-decor/bar">
 					<div class="category-image-wrapper">
 						<!--<img th:src="${imgHost} + '/img/marketplace/k-dropdown_category/home-decor/bar.jpg'"-->
@@ -559,6 +559,62 @@ branch.init(branchkey);
 						</div>
 					</div>
 				</div>
+
+				<div class="secondary-category col-3" data-url-key="/shop/kaufmann/home-decor/lighting">
+					<div class="category-image-wrapper">
+						<img alt="Lighting" src="https://assets3.ahalife.co/img/marketplace/k-dropdown_category/home-decor/lighting.jpg">
+						<!--<span class="km-sprite km-sprite-home-decor-bar"></span>-->
+					</div>
+					<div class="category-content-wrapper">
+						<div class="category-header padding-top-15">
+							<a data-galinkname="Lighting" data-category-id="100002700" data-gacategory="Lighting" href="/shop/kaufmann/home-decor/lighting">
+								<span>Lighting</span>&nbsp;
+							</a>
+						</div>
+					</div>
+				</div>
+
+				<div class="secondary-category col-3" data-url-key="/shop/kaufmann/home-decor/textiles">
+					<div class="category-image-wrapper">
+						<img alt="Textiles" src="https://assets3.ahalife.co/img/marketplace/k-dropdown_category/home-decor/textiles.jpg">
+
+					</div>
+					<div class="category-content-wrapper">
+						<div class="category-header padding-top-15">
+							<a data-galinkname="Textiles" data-category-id="100002800" data-gacategory="Textiles" href="/shop/kaufmann/home-decor/textiles">
+								<span>Textiles</span>&nbsp;
+							</a>
+						</div>
+					</div>
+				</div>
+
+				<div class="secondary-category col-3" data-url-key="/shop/kaufmann/home-decor/books">
+					<div class="category-image-wrapper">
+						<img alt="Books" src="https://assets3.ahalife.co/img/marketplace/k-dropdown_category/home-decor/books.jpg">
+					</div>
+					<div class="category-content-wrapper">
+						<div class="category-header padding-top-15">
+							<a data-galinkname="Book" data-category-id="100002500" data-gacategory="Book" href="/shop/kaufmann/home-decor/books">
+								<span>Books</span>&nbsp;
+							</a>
+						</div>
+					</div>
+				</div>
+
+				<div class="secondary-category col-3" data-url-key="/shop/kaufmann/home-decor/furniture">
+					<div class="category-image-wrapper">
+						<img alt="Furniture" src="https://assets3.ahalife.co/img/marketplace/k-dropdown_category/home-decor/furniture.jpg">
+						<!--<span class="km-sprite km-sprite-home-decor-bar"></span>-->
+					</div>
+					<div class="category-content-wrapper">
+						<div class="category-header padding-top-15">
+							<a data-galinkname="Furniture" data-category-id="100002900" data-gacategory="Furniture" href="/shop/kaufmann/home-decor/furniture">
+								<span>Furniture</span>&nbsp;
+							</a>
+						</div>
+					</div>
+				</div>
+
 			</div>
 			<div class="clear"></div>
 		</div>
@@ -566,7 +622,7 @@ branch.init(branchkey);
 		<!-- Kitchen & Tabletop  -->
 		<div class="category-dropdown hidden" data-url-key="/shop/kaufmann/kitchen-and-tabletop" data-gacategory="Kitchen &amp; Tabletop">
 			<div class="category-header-wrapper">
-				<ul class="category-header" id="categolryHeader">
+				<ul class="category-header" id="categoryHeader">
 					<li><span id="categoryShopAll">Shop All</span> <a data-galinkname="Kitchen &amp; Tabletop" data-category-id="100003000" href="/shop/kaufmann/kitchen-and-tabletop"><span class="bold">Kitchen</span>&nbsp;</a></li>
 					<li><a data-galinkname="What's New" data-category-id="100003000" href="/shop/kaufmann/kitchen-and-tabletop/whats-new"> <span>What's
 								New</span>&nbsp;
@@ -663,7 +719,7 @@ branch.init(branchkey);
 		<!-- Accessories  -->
 		<div class="category-dropdown hidden" data-url-key="/shop/kaufmann/accessories" data-gacategory="Accessories">
 			<div class="category-header-wrapper">
-				<ul class="category-header" id="categolryHeader">
+				<ul class="category-header" id="categoryHeader">
 					<li><span id="categoryShopAll">Shop All</span> <a data-galinkname="Accessories" data-category-id="100004000" href="/shop/kaufmann/accessories"><span class="bold">Accessories</span>&nbsp;</a>
 					</li>
 					<li><a data-galinkname="What's New" data-category-id="100004000" href="/shop/kaufmann/accessories/whats-new"> <span>What's
@@ -747,7 +803,7 @@ branch.init(branchkey);
 		<!-- Office  -->
 		<div class="category-dropdown hidden" data-url-key="/shop/kaufmann/office" data-gacategory="Office">
 			<div class="category-header-wrapper">
-				<ul class="category-header" id="categolryHeader">
+				<ul class="category-header" id="categoryHeader">
 					<li><span id="categoryShopAll">Shop All</span> <a data-galinkname="Office" data-category-id="100005000" href="/shop/kaufmann/office"><span class="bold">Office</span>&nbsp;</a>
 					</li>
 					<li><a data-galinkname="What's New" data-category-id="100005000" href="/shop/kaufmann/office/whats-new"> <span>What's
@@ -846,7 +902,7 @@ branch.init(branchkey);
 		<!-- Grooming & Beauty  -->
 		<div class="category-dropdown hidden" data-url-key="/shop/kaufmann/grooming-and-beauty" data-gacategory="Grooming &amp; Beauty">
 			<div class="category-header-wrapper">
-				<ul class="category-header" id="categolryHeader">
+				<ul class="category-header" id="categoryHeader">
 					<li><span id="categoryShopAll">Shop All</span> <a data-galinkname="Grooming &amp; Beauty" data-category-id="100006000" href="/shop/kaufmann/grooming-and-beauty"><span class="bold">Beauty</span>&nbsp;</a></li>
 					<li><a data-galinkname="What's New" data-category-id="100006000" href="/shop/kaufmann/grooming-and-beauty/whats-new"> <span>What's
 								New</span>&nbsp;
@@ -911,7 +967,7 @@ branch.init(branchkey);
 		<!-- Tools & Outdoors  -->
 		<div class="category-dropdown hidden" data-url-key="/shop/kaufmann/tools-and-outdoors" data-gacategory="Tools &amp; Outdoors">
 			<div class="category-header-wrapper">
-				<ul class="category-header" id="categolryHeader">
+				<ul class="category-header" id="categoryHeader">
 					<li><span id="categoryShopAll">Shop All</span> <a data-galinkname="Tools &amp; Outdoors" data-category-id="100007000" href="/shop/kaufmann/tools-and-outdoors"><span class="bold">Tools
 								&amp; Outdoors</span>&nbsp;</a></li>
 					<li><a data-galinkname="What's New" data-category-id="100007000" href="/shop/kaufmann/tools-and-outdoors/whats-new"> <span>What's
@@ -970,6 +1026,69 @@ branch.init(branchkey);
 						</div>
 					</div>
 				</div>
+				<!-- Garden categories -->
+				<div class="secondary-category col-3" data-url-key="/shop/kaufmann/garden/garden-tools">
+					<div class="category-image-wrapper">
+						<!--<img-->
+							<!--th:src="${imgHost} + '/img/marketplace/k-dropdown_category/garden/garden-tools.jpg'"-->
+							<!--alt="Garden Tools" />-->
+						<span class="km-sprite km-sprite-garden-tools"></span>
+					</div>
+					<div class="category-content-wrapper">
+						<div class="category-header padding-top-15">
+							<a data-galinkname="Garden Tools" data-category-id="100008100" data-gacategory="Garden Tools" href="/shop/kaufmann/garden/garden-tools"> <span>Garden
+									Tools</span>&nbsp;
+							</a>
+						</div>
+					</div>
+				</div>
+
+				<div class="secondary-category col-3" data-url-key="/shop/kaufmann/garden/garden-wear-and-maintenance">
+					<div class="category-image-wrapper">
+						<!--<img-->
+							<!--th:src="${imgHost} + '/img/marketplace/k-dropdown_category/garden/garden-wear-maintenance.jpg'"-->
+							<!--alt="Garden Wear &amp; Maintenance" />-->
+						<span class="km-sprite km-sprite-garden-wear-maintenance"></span>
+					</div>
+					<div class="category-content-wrapper">
+						<div class="category-header padding-top-15">
+							<a data-galinkname="Garden Wear &amp; Maintenance" data-category-id="100008200" data-gacategory="Garden Wear &amp; Maintenance" href="/shop/kaufmann/garden/garden-wear-and-maintenance"> <span>Garden
+									Wear &amp; Maintenance</span>&nbsp;
+							</a>
+						</div>
+					</div>
+				</div>
+
+				<div class="secondary-category col-3" data-url-key="/shop/kaufmann/garden/outdoor-living">
+					<div class="category-image-wrapper">
+						<!--<img-->
+							<!--th:src="${imgHost} + '/img/marketplace/k-dropdown_category/garden/outdoor-living.jpg'"-->
+							<!--alt="Outdoor Living" />-->
+						<span class="km-sprite km-sprite-garden-outdoor-living"></span>
+					</div>
+					<div class="category-content-wrapper">
+						<div class="category-header padding-top-15">
+							<a data-galinkname="Outdoor Living" data-category-id="100008300" data-gacategory="Outdoor Living" href="/shop/kaufmann/garden/outdoor-living"> <span>Outdoor
+									Living</span>&nbsp;
+							</a>
+						</div>
+					</div>
+				</div>
+
+				<div class="secondary-category col-3" data-url-key="/shop/kaufmann/garden/seeds">
+					<div class="category-image-wrapper">
+						<!--<img th:src="${imgHost} + '/img/marketplace/k-dropdown_category/garden/seeds.jpg'"-->
+							<!--alt="Seeds" />-->
+						<span class="km-sprite km-sprite-garden-seeds"></span>
+					</div>
+					<div class="category-content-wrapper">
+						<div class="category-header padding-top-15">
+							<a data-galinkname="Seeds" data-category-id="100008400" data-gacategory="Seeds" href="/shop/kaufmann/garden/seeds">
+								<span>Seeds</span>&nbsp;
+							</a>
+						</div>
+					</div>
+				</div>
 			</div>
 			<div class="clear"></div>
 		</div>
@@ -977,7 +1096,7 @@ branch.init(branchkey);
 		<!-- Garden  -->
 		<div class="category-dropdown hidden" data-url-key="/shop/kaufmann/garden" data-gacategory="Garden">
 			<div class="category-header-wrapper">
-				<ul class="category-header" id="categolryHeader">
+				<ul class="category-header" id="categoryHeader">
 					<li><span id="categoryShopAll">Shop All</span> <a data-galinkname="Garden" data-category-id="100008000" href="/shop/kaufmann/garden"><span class="bold">Garden</span>&nbsp;</a>
 					</li>
 					<li><a data-galinkname="What's New" data-category-id="100008000" href="/shop/kaufmann/garden/whats-new"> <span>What's
@@ -1074,146 +1193,382 @@ branch.init(branchkey);
 		<div class="top-banner-placeholder-default l-fullWidth" data-domain="kaufmann-mercantile" data-type="default" data-s3bucket="//cdn1.ahalife.com"><a></a></div>
         
             <div class="l-fullWidth" role="main">
-    <div class="ahaHeader">Privacy Policy</div>
     <div class="termsBody">
+        <div class="ahaHeader">Privacy Policy</div>
+        <p class="paraSection">
+            Effective date: January 24, 2014
+            <br>
+            <br>
+            Thank you for visiting kaufmann-mercantile.com. AHAlife Holdings Inc. ("Kaufmann Mercantile," "we" or "us"),
+            is
+            committed to keeping our customers informed about how we use the information we gather from you through the
+            use
+            of our website, kaufmann-mercantile.com (the "Site"), and through our products, services and applications
+            offered on or off the Site (collectively with the Site, the “Services”). Our commitment to you
+            as a
+            valued customer is to provide you with an exciting, safe and personalized experience. As part of this
+            commitment
+            to you, we have created this privacy policy to inform you about how we collect, use and share your personal
+            information. In addition, we explain the steps we take to secure your personal information.
+            By using or accessing the Services in any manner, you acknowledge that you accept the practices and policies
+            described in this Privacy Policy, and you hereby consent that we will collect, use and share your
+            information in
+            the following ways. If you do not agree to this Privacy Policy, please do not use the Services.
+            <br>
+            <br>
+            Remember that your use of Kaufmann Mercantile’s Services is at all times subject to the <a href="http://www.kaufmann-mercantile.com/terms"><u>Terms of Use</u></a>, which incorporates this Privacy
+            Policy. Any terms we use in this Privacy Policy without defining them have the definitions given to them in
+            the
+            <a href="http://www.kaufmann-mercantile.com/terms"><u>Terms of Use</u></a>.
+        </p>
 
-        Effective date: January 24, 2014
-        <br>
-        <br>
-        Thank you for visiting Ahalife.com. AHAlife Holdings Inc. ("AHAlife," "we" or "us"), is committed to keeping our customers informed about how we use the information we gather from you through the use of our website, Ahalife.com (the "Site"), and through our products, services and applications offered on or off the Site (collectively with the Site, the “Services”). Our commitment to you as a valued customer is to provide you with an exciting, safe and personalized experience. As part of this commitment to you, we have created this privacy policy to inform you about how we collect, use and share your personal information. In addition, we explain the steps we take to secure your personal information.
-        By using or accessing the Services in any manner, you acknowledge that you accept the practices and policies described in this Privacy Policy, and you hereby consent that we will collect, use and share your information in the following ways. If you do not agree to this Privacy Policy, please do not use the Services.
-        <br>
-        <br>
-        Remember that your use of AHAlife’s Services is at all times subject to the <a href="http://www.ahalife.com/terms"><u>Terms of Use</u></a>, which incorporates this Privacy Policy.  Any terms we use in this Privacy Policy without defining them have the definitions given to them in the <a href="http://www.ahalife.com/terms"><u>Terms of Use</u></a>.
-        <br>
-        <br>
+        <h1>
+            <div class="terms_header">What Does this Privacy Policy Cover?</div>
+        </h1>
+        <p class="paraSection">
+            This Privacy Policy covers our treatment of personally identifiable information ("Personal Information")
+            that we
+            gather when you are accessing or using our Services, but not the practices of companies we don’t own
+            or
+            control, or people that we don’t manage. We gather various types of Personal Information from our
+            users,
+            as explained in more detail below, and we use this Personal Information internally in connection with our
+            Services, including to personalize, provide, and improve our services, to allow you to set up a user account
+            and
+            profile, to contact you and allow other users to contact you, to fulfill your requests for certain products
+            and
+            services, and to analyze how you use the Services. In certain cases, we may also share some Personal
+            Information
+            with third parties, but only as described below.
+        </p>
 
-		<div class="separator"></div>
-        <div class="terms_header">What Does this Privacy Policy Cover?</div>
-        <br>
-        This Privacy Policy covers our treatment of personally identifiable information ("Personal Information") that we gather when you are accessing or using our Services, but not the practices of companies we don’t own or control, or people that we don’t manage.  We gather various types of Personal Information from our users, as explained in more detail below, and we use this Personal Information internally in connection with our Services, including to personalize, provide, and improve our services, to allow you to set up a user account and profile, to contact you and allow other users to contact you, to fulfill your requests for certain products and services, and to analyze how you use the Services. In certain cases, we may also share some Personal Information with third parties, but only as described below.
-        <br>
-        <br>
+        <h1>
+            <div class="terms_header">Links to External Sites Are Not Covered By This Privacy Policy</div>
+        </h1>
+        <p class="paraSection">
+            Other sites accessible through our Site have their own privacy policies and data collection, use and
+            disclosure
+            practices. Please consult each site’s privacy policy. We are not responsible for the policies or
+            practices
+            of third parties. Please be aware that our Site may contain links to other sites on the Internet that are
+            owned
+            and operated by third parties. The information practices of those websites linked to our Sites are not
+            covered
+            by this Policy.
+        </p>
 
-		<div class="separator"></div>
-        <div class="terms_header">Links to External Sites Are Not Covered By This Privacy Policy</div>
-        <br>
-        Other sites accessible through our Site have their own privacy policies and data collection, use and disclosure practices. Please consult each site’s privacy policy. We are not responsible for the policies or practices of third parties. Please be aware that our Site may contain links to other sites on the Internet that are owned and operated by third parties. The information practices of those websites linked to our Sites are not covered by this Policy.
-        <br>
-        <br>
+        <h1>
+            <div class="terms_header">Will Kaufmann Mercantile Ever Change This Privacy Policy?</div>
+        </h1>
+        <p class="paraSection">
+            We’re constantly trying to improve our Services, so we may need to change this Privacy Policy from
+            time to
+            time as well, but we will alert you to changes by placing a notice on the Site and/or by some other means.
+            Please note that if you’ve opted not to receive legal notice emails from us (or you haven’t
+            provided
+            us with your email address), those legal notices will still govern your use of the Services, and you are
+            still
+            responsible for reading and understanding them. If you use the Services after any changes to the Privacy
+            Policy
+            have been posted, that means you agree to all of the changes. Use of information we collect now is subject
+            to
+            the Privacy Policy in effect at the time such information is collected.
+        </p>
 
-		<div class="separator"></div>
-        <div class="terms_header">Will AHAlife Ever Change This Privacy Policy?</div>
-        <br>
-        We’re constantly trying to improve our Services, so we may need to change this Privacy Policy from time to time as well, but we will alert you to changes by placing a notice on the Site and/or by some other means. Please note that if you’ve opted not to receive legal notice emails from us (or you haven’t provided us with your email address), those legal notices will still govern your use of the Services, and you are still responsible for reading and understanding them.  If you use the Services after any changes to the Privacy Policy have been posted, that means you agree to all of the changes. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is collected.
-        <br>
-        <br>
+        <h1>
+            <div class="terms_header">What Information Does Kaufmann Mercantile Collect and Use?</div>
+        </h1>
+        <p class="paraSection">
+            Our primary goal in collecting information is to provide our visitors with an easy, efficient, and
+            customized
+            online experience.
+            <br>
+            <br>
+            In order to better provide you with products and services, our Site collects the following types of
+            information:
+            <br>
+            <br>
+            <em>Financial Information:</em>
+            <br>
+            <br>
+            We do not currently collect financial information, such as your payment method (valid credit card number,
+            type,
+            expiration date or other financial information); that information is collected and stored by our third party
+            payment processing company (the “Payment Processor”), and use and storage of that information is
+            governed by the Payment Processor’s applicable terms of service and privacy policy.
+            <br>
+            <br>
+            <em>
+                Information Collected Automatically:
+            </em>
+            <br>
+            <br>
+            Whenever you interact with our Services, we automatically receive and record information on our server logs
+            from
+            your browser or device, which may include your IP address, device identification, “cookie”
+            information, the type of browser and/or device you’re using to access our Services, and the page or
+            feature you requested.
+            <br>
+            <br>
+            Cookies:
+            <br>
+            <br>
+            Cookies are pieces of data that we transfer to your browser or device that allow us to identify your browser
+            and/or device and tell us how and when pages and features in our Services are visited and by how many
+            people.
+            Websites typically use temporary cookies called "session" cookies to ensure that you are recognized when you
+            move from page to page within one site and that any information you have entered is remembered. For example,
+            if
+            an e-commerce site did not use session cookies then items placed in a shopping basket would disappear by the
+            time you reach the checkout. Websites also use "persistent" cookies to enable a website to remember you on
+            subsequent visits, speeding up or enhancing your experience of services offered, and allowing us to better
+            customize our services for you. Kaufmann Mercantile attempts to install both persistent and session cookies
+            when
+            a user arrives at our Site. We use cookies to track what users view, collect, purchase, like, favorite and
+            other
+            interactions with the Services. Users have the option to accept
+            or disable cookies at any time through their browsers. Visit the "help" portion of your toolbar for more
+            information. If you block or refuse to accept cookies, or delete cookies between visits to the Site, you may
+            not
+            be able to access or use certain features or functions of our Site. Our advertising partners may also
+            transmit
+            cookies to your browser or device, when you click on ads that appear on the Services. Also, if you click on
+            a
+            link to a third party website or service, such third party may also transmit cookies to you. Again, this
+            Privacy
+            Policy does not cover the use of cookies by any third parties, and we aren’t responsible for their
+            privacy
+            policies and practices.
+            <br>
+            <br>
+            Clear GIFs:
+            <br>
+            <br>
+            At times we employ clear GIFs (also known as pixel tags, single pixel GIFs, web beacons or action tags) for
+            our
+            benefit or the benefit of a third-party to help us or such third-party measure advertising effectiveness.
+            Clear
+            GIFs help us better manage content on our Site by informing us of what content is effective. These clear
+            GIFs
+            allow us to measure the usage of our Site by our visitors and the effectiveness of certain communications
+            and
+            marketing campaigns.
+            <br>
+            <br>
+            Non Personally Identifiable Information:
+            <br>
+            <br>
+            "Non Personally Identifiable Information" (don’t worry, it’s not as complicated as it sounds)
+            refers
+            to information that does not identify a specific individual by itself or in combination with other
+            information.
+            We may gather certain demographic information about you such as age, date of birth, gender, as well as
+            consumer
+            purchasing and preference information based upon how you shop on and navigate our Site. This information may
+            be
+            compiled and analyzed on both a personal and an aggregated basis. This information may include the website’s
+            Uniform Resource Locator ("URL") that you just came from, which URL you next go to, what browser you are
+            using,
+            and your Internet Protocol ("IP") address.
+            <br>
+            <br>
+            When we collect the usage information described above, we only use this data in aggregate form, and not in a
+            manner that would identify you personally. For example, we may use Non Personally Identifiable Information
+            for
+            testing or debugging purposes, or to analyze request usage patterns, and other customer behavior so that we
+            may
+            enhance our Site, products and services, and for our marketing purposes. We may also use this data to make
+            suggestions for products and services in order to make the Services more relevant and interesting to you.
+            <br>
+            <br>
+            Information You Provide Us:
+            <br><br>
+            We receive and store any information you knowingly provide to us. For example, we may collect Personal
+            Information such as your name, email address, mailing address, zip code, telephone number, mobile phone
+            number,
+            and other contact information, including information associated with recipients of purchases you may make,
+            when
+            you register with us, order a product or service, fill out surveys, correspond with us, or otherwise
+            volunteer
+            information, for instance, through the use of one of our interactive services (such as blogs, commenting,
+            message boards, product submissions, Q&amp;As). With this information, we can fill your service and product
+            orders and better provide you with personalized services. If you contact us by telephone, email or letter,
+            we
+            may keep a record of your contact information, correspondence or comments.
+            If you report a problem with our Site, we may collect such information in a file specific to you. If you
+            provide
+            us feedback through our Site or by email, we may ask for your name and email address in order to send you a
+            reply. If other users or third parties send us correspondence about your activities or purchases on our
+            Site, or
+            if you are the recipient of products sent by another customer, we may keep the information in a file
+            specific to
+            you. We may also use information to notify consumers about updates to our Site, to complete user initiated
+            transactions, to trace false orders and to contact consumers directly.
+            <br>
+            <br>
+            If you provide your third-party account credentials to us or otherwise sign in to the Services through a
+            third
+            party site or service, you understand some content and/or information in those accounts (“Third Party
+            Account Information”) may be transmitted into your account with us, and that Third Party Account
+            Information transmitted to our Services is covered by this Privacy Policy; for example, signing into the
+            Site
+            through Facebook Connect.
+            <br>
+            <br>
+            We may communicate with you if you’ve provided us the means to do so. For example, if you’ve
+            given
+            us your email address, we may send you promotional email offers on behalf of other businesses, or email you
+            about your use of the Services. If you no longer wish to receive such communications, please follow the
+            "unsubscribe" instructions that appear in every e-mail, or modify your settings when you’re logged in
+            under the “me” tab on the website. Once we have processed your request, we will not send you
+            promotional emails with respect to products and/or services offered by us through the Site of which you had
+            opted out unless you opt back in to receiving such communications. Please note that even if we stop sending
+            promotional e-mails to you following a request to unsubscribe, we may continue to send you operational
+            emails,
+            which contain information about your order. So keep in mind, if you purchase products on your site, you’ll
+            be receiving operational e-mails when we have important communication to share.
+        </p>
 
-		<div class="separator"></div>
-        <div class="terms_header">What Information Does AHAlife Collect and Use?</div>
-        <br>
-        Our primary goal in collecting information is to provide our visitors with an easy, efficient, and customized online experience.
-        <br>
-        <br>
-        In order to better provide you with products and services, our Site collects the following types of information:
-        <br>
-        <br>
-        <em>Financial Information:</em>
-        <br>
-        <br>
-        We do not currently collect financial information, such as your payment method (valid credit card number, type, expiration date or other financial information); that information is collected and stored by our third party payment processing company (the “Payment Processor”), and use and storage of that information is governed by the Payment Processor’s applicable terms of service and privacy policy.
-        <br>
-        <br>
-        <em>
-            Information Collected Automatically:
-        </em>
-        <br>
-        <br>
-        Whenever you interact with our Services, we automatically receive and record information on our server logs from your browser or device, which may include your IP address, device identification, “cookie” information, the type of browser and/or device you’re using to access our Services, and the page or feature you requested.
-        <br>
-        <br>
-        Cookies:
-        <br>
-        <br>
-        Cookies are pieces of data that we transfer to your browser or device that allow us to identify your browser and/or device and tell us how and when pages and features in our Services are visited and by how many people. Websites typically use temporary cookies called "session" cookies to ensure that you are recognized when you move from page to page within one site and that any information you have entered is remembered. For example, if an e-commerce site did not use session cookies then items placed in a shopping basket would disappear by the time you reach the checkout. Websites also use "persistent" cookies to enable a website to remember you on subsequent visits, speeding up or enhancing your experience of services offered, and allowing us to better customize our services for you. AHAlife attempts to install both persistent and session cookies when a user arrives at our Site. We use cookies to track what users view, collect, purchase, like, favorite and other interactions with the Services. Users have the option to accept
-        or disable cookies at any time through their browsers. Visit the "help" portion of your toolbar for more information. If you block or refuse to accept cookies, or delete cookies between visits to the Site, you may not be able to access or use certain features or functions of our Site. Our advertising partners may also transmit cookies to your browser or device, when you click on ads that appear on the Services. Also, if you click on a link to a third party website or service, such third party may also transmit cookies to you.  Again, this Privacy Policy does not cover the use of cookies by any third parties, and we aren’t responsible for their privacy policies and practices.
-        <br>
-        <br>
-        Clear GIFs:
-        <br>
-        <br>
-        At times we employ clear GIFs (also known as pixel tags, single pixel GIFs, web beacons or action tags) for our benefit or the benefit of a third-party to help us or such third-party measure advertising effectiveness. Clear GIFs help us better manage content on our Site by informing us of what content is effective. These clear GIFs allow us to measure the usage of our Site by our visitors and the effectiveness of certain communications and marketing campaigns.
-        <br>
-        <br>
-        Non Personally Identifiable Information:
-        <br>
-        <br>
-        "Non Personally Identifiable Information" (don’t worry, it’s not as complicated as it sounds) refers to information that does not identify a specific individual by itself or in combination with other information. We may gather certain demographic information about you such as age, date of birth, gender, as well as consumer purchasing and preference information based upon how you shop on and navigate our Site. This information may be compiled and analyzed on both a personal and an aggregated basis. This information may include the website’s Uniform Resource Locator ("URL") that you just came from, which URL you next go to, what browser you are using, and your Internet Protocol ("IP") address.
-        <br>
-        <br>
-        When we collect the usage information described above, we only use this data in aggregate form, and not in a manner that would identify you personally.  For example, we may use Non Personally Identifiable Information for testing or debugging purposes, or to analyze request usage patterns, and other customer behavior so that we may enhance our Site, products and services, and for our marketing purposes.  We may also use this data to make suggestions for products and services in order to make the Services more relevant and interesting to you.
-        <br>
-        <br>
-        Information You Provide Us:
-        <br><br>
-        We receive and store any information you knowingly provide to us.  For example, we may collect Personal Information such as your name, email address, mailing address, zip code, telephone number, mobile phone number, and other contact information, including information associated with recipients of purchases you may make, when you register with us, order a product or service, fill out surveys, correspond with us, or otherwise volunteer information, for instance, through the use of one of our interactive services (such as blogs, commenting, message boards, product submissions, Q&amp;As).  With this information, we can fill your service and product orders and better provide you with personalized services. If you contact us by telephone, email or letter, we may keep a record of your contact information, correspondence or comments.
-        If you report a problem with our Site, we may collect such information in a file specific to you. If you provide us feedback through our Site or by email, we may ask for your name and email address in order to send you a reply. If other users or third parties send us correspondence about your activities or purchases on our Site, or if you are the recipient of products sent by another customer, we may keep the information in a file specific to you. We may also use information to notify consumers about updates to our Site, to complete user initiated transactions, to trace false orders and to contact consumers directly.
-        <br>
-        <br>
-        If you provide your third-party account credentials to us or otherwise sign in to the Services through a third party site or service, you understand some content and/or information in those accounts (“Third Party Account Information”) may be transmitted into your account with us, and that Third Party Account Information transmitted to our Services is covered by this Privacy Policy; for example, signing into the Site through Facebook Connect.
-        <br>
-        <br>
-        We may communicate with you if you’ve provided us the means to do so. For example, if you’ve given us your email address, we may send you promotional email offers on behalf of other businesses, or email you about your use of the Services.  If you no longer wish to receive such communications, please follow the "unsubscribe" instructions that appear in every e-mail, or modify your settings when you’re logged in under the “me” tab on the website. Once we have processed your request, we will not send you promotional emails with respect to products and/or services offered by us through the Site of which you had opted out unless you opt back in to receiving such communications. Please note that even if we stop sending promotional e-mails to you following a request to unsubscribe, we may continue to send you operational emails, which contain information about your order. So keep in mind, if you purchase products on your site, you’ll be receiving operational e-mails when we have important communication to share.
-        <br>
-        <br>
+        <h1>
+            <div class="terms_header">What Information Might Kaufmann Mercantile Share with Others?</div>
+        </h1>
+        <p class="paraSection">
+            Except as otherwise stated in this Policy, we do not sell, trade or rent your Personal Information in
+            personally
+            identifiable form collected through our Services to others. However, we may share your Personal Information
+            with
+            third parties as described in this section:
+            <br>
+            <br>
+            <em>Affiliated Businesses:</em> In certain situations, businesses or third party websites we’re
+            affiliated
+            with may sell or provide products or services to you through or in connection with the Services (either
+            alone or
+            jointly with us). You can recognize when an affiliated business is associated with such a transaction or
+            service, and we will share your Personal Information with that affiliated business only to the extent that
+            it is
+            related to such transaction or service. We have no control over the policies and practices of third party
+            websites or businesses as to privacy or anything else, so if you choose to take part in any transaction or
+            service relating to an affiliated website or business, please review all such businesses’ or websites’
+            policies.
+            <br>
+            <br>
+            <em>Agents:</em> We employ other companies and people to perform tasks on our behalf and need to share your
+            information with them to provide products or services to you; for example, for tracking purposes, to charge
+            your
+            credit card, fill your order, improve the functionality of our Site, customize our marketing efforts,
+            perform
+            statistical and data analyses, deliver your order and deliver promotional emails to you from us, or to
+            provide
+            us with other services we request.
+            Unless we tell you differently, these third parties may not use your Personally Identifiable Information
+            other
+            than to provide the services requested by us.
+            <br>
+            <br>
+            <em>Aggregated Personal Information That’s No Longer Personally Identifiable:</em> We may anonymize
+            your
+            Personal Information so that you are not individually identified, and provide that information to our
+            partners.
+            We may also provide aggregate usage information, such as aggregated or segmented statistics about our
+            customers,
+            sales, traffic patterns, and related Site information, to our partners, who may use such information to
+            understand how often and in what ways people use our Services, so that they, too, can provide you with an
+            optimal online experience. However, we never disclose aggregate information to a partner in a manner that
+            would
+            identify you personally, as an individual.
+            <br>
+            <br>
+            <em>User Profile and Submissions:</em>
+            Certain user profile information, including your name, location, and any video or image content that such
+            user
+            has uploaded to the Services, may be displayed to other users to facilitate user interaction within the
+            Services
+            or address your request for our services. Your account privacy settings may allow you to limit the other
+            users
+            who can see the Personal Information in your user profile and/or what information in your user profile is
+            visible to others. Please remember that any content you upload to your public user profile, along with any
+            Personal Information or content that you voluntarily disclose online in a manner other users can view (on
+            discussion boards, in messages and chat areas, etc.) becomes publicly available, and can be collected and
+            used
+            by anyone. Your user name may also be displayed to other users if and when you send messages or comments or
+            upload images or videos through the Services and other users can contact you through messages and comments.
+            <br>
+            <br>
+            <em>Financial Information:</em> As stated above, we do not currently collect financial information, as that
+            information is collected and stored by our Payment Processor. However, we may from time to time request and
+            receive some of your financial information from our Payment Processor for the purposes of completing
+            transactions you have initiated through the Services, enrolling you in discount, rebate, and other programs
+            in
+            which you elect to participate, protecting against or identify possible fraudulent transactions, and
+            otherwise
+            as needed to manage our business.
+            <br>
+            <br>
+            <em>Protection of Us and Others:</em> We reserve the right to access, read, preserve, and disclose any
+            information that we believe in good faith is necessary to comply with relevant laws or to respond to
+            subpoenas
+            or warrants served on us; enforce or apply our Terms of Use (<a href="http://www.kaufmann-mercantile.com/terms">http://www.kaufmann-mercantile.com/terms</a>)
+            and other agreements; or to protect or defend the rights, property, or safety of our users, other and
+            ourselves.
+            We fully cooperate with law enforcement agencies in identifying those who use our services for illegal
+            activities. We reserve the right to report to law enforcement agencies any activities that we in good faith
+            believe to be unlawful
+            <br>
+            <br>
+            <em>Business Transfers:</em> We may choose to buy or sell assets. In these types of transactions, customer
+            information is typically one of the business assets that would be transferred. Also, if we (or our assets)
+            are
+            acquired, or if we go out of business, enter bankruptcy, or go through some other change of control,
+            Personal
+            Information could be one of the assets transferred to or acquired by a third party.
+        </p>
 
-		<div class="separator"></div>
-        <div class="terms_header">What Information Might AHAlife Share with Others?</div>
-        <br>
-        Except as otherwise stated in this Policy, we do not sell, trade or rent your Personal Information in personally identifiable form collected through our Services to others. However, we may share your Personal Information with third parties as described in this section:
-        <br>
-        <br>
-        <em>Affiliated Businesses:</em> In certain situations, businesses or third party websites we’re affiliated with may sell or provide products or services to you through or in connection with the Services (either alone or jointly with us).  You can recognize when an affiliated business is associated with such a transaction or service, and we will share your Personal Information with that affiliated business only to the extent that it is related to such transaction or service. We have no control over the policies and practices of third party websites or businesses as to privacy or anything else, so if you choose to take part in any transaction or service relating to an affiliated website or business, please review all such businesses’ or websites’ policies.
-        <br>
-        <br>
-        <em>Agents:</em> We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you; for example, for tracking purposes, to charge your credit card, fill your order, improve the functionality of our Site, customize our marketing efforts, perform statistical and data analyses, deliver your order and deliver promotional emails to you from us, or to provide us with other services we request.
-        Unless we tell you differently, these third parties may not use your Personally Identifiable Information other than to provide the services requested by us.
-        <br>
-        <br>
-        <em>Aggregated Personal Information That’s No Longer Personally Identifiable:</em> We may anonymize your Personal Information so that you are not individually identified, and provide that information to our partners.  We may also provide aggregate usage information, such as aggregated or segmented statistics about our customers, sales, traffic patterns, and related Site information, to our partners, who may use such information to understand how often and in what ways people use our Services, so that they, too, can provide you with an optimal online experience.  However, we never disclose aggregate information to a partner in a manner that would identify you personally, as an individual.
-        <br>
-        <br>
-        <em>User Profile and Submissions:</em>
-        Certain user profile information, including your name, location, and any video or image content that such user has uploaded to the Services, may be displayed to other users to facilitate user interaction within the Services or address your request for our services.  Your account privacy settings may allow you to limit the other users who can see the Personal Information in your user profile and/or what information in your user profile is visible to others.  Please remember that any content you upload to your public user profile, along with any Personal Information or content that you voluntarily disclose online in a manner other users can view (on discussion boards, in messages and chat areas, etc.) becomes publicly available, and can be collected and used by anyone.  Your user name may also be displayed to other users if and when you send messages or comments or upload images or videos through the Services and other users can contact you through messages and comments.
-        <br>
-        <br>
-        <em>Financial Information:</em> As stated above, we do not currently collect financial information, as that information is collected and stored by our Payment Processor. However, we may from time to time request and receive some of your financial information from our Payment Processor for the purposes of completing transactions you have initiated through the Services, enrolling you in discount, rebate, and other programs in which you elect to participate, protecting against or identify possible fraudulent transactions, and otherwise as needed to manage our business.
-        <br>
-        <br>
-        <em>Protection of Us and Others:</em> We reserve the right to access, read, preserve, and disclose any information that we believe in good faith is necessary to comply with relevant laws or to respond to subpoenas or warrants served on us; enforce or apply our Terms of Use (<a href="http://www.ahalife.com/terms">http://www.ahalife.com/terms</a>) and other agreements; or to protect or defend the rights, property, or safety of our users, other and ourselves. We fully cooperate with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful
-        <br>
-        <br>
-        <em>Business Transfers:</em> We may choose to buy or sell assets.  In these types of transactions, customer information is typically one of the business assets that would be transferred.  Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, Personal Information could be one of the assets transferred to or acquired by a third party.
-        <br>
-        <br>
+        <h1>
+            <div class="terms_header">How Does Kaufmann Mercantile Protect Your Personally Identifiable Information?
+            </div>
+        </h1>
+        <p class="paraSection">
+            Your account is protected by a password for your privacy and security. If you access your account via a
+            third
+            party site or service, you may have additional or different sign-on protections via that third party site or
+            service. You must prevent unauthorized access to your account and Personal Information by selecting and
+            protecting your password appropriately and limiting access to your computer or device and browser by signing
+            off
+            after you have finished accessing your account.
+            <br>
+            <br>
+            We employ industry-standard electronic, physical and administrative measures and techniques to protect the
+            security of the information you submit to us. We do not guarantee or warrant that such techniques will
+            prevent
+            unauthorized access to information about you that we store, Personally Information or otherwise. Credit card
+            transactions and order fulfillment are handled by established third-party banking institutions, process
+            agents,
+            distribution institutions and our vendors. They receive the information they need to verify and authorize
+            your
+            credit card transactions and to ship your order. When you input your credit card information for online
+            purchases, we offer secured server transactions that encrypt your information in transit to thwart someone
+            from
+            intercepting it and misusing it. When you access your account information, the information is kept on a
+            secure
+            server and will be protected by a password for your privacy and security. We seek to protect Account
+            information
+            to ensure that it is kept private; however, we cannot guarantee the security of any Account information.
+            Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of
+            user
+            information at any time.
+        </p>
 
-		<div class="separator"></div>
-        <div class="terms_header">How Does AHAlife Protect Your Personally Identifiable Information?</div>
-        <br>
-        Your account is protected by a password for your privacy and security.  If you access your account via a third party site or service, you may have additional or different sign-on protections via that third party site or service. You must prevent unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer or device and browser by signing off after you have finished accessing your account.
-        <br>
-        <br>
-        We employ industry-standard electronic, physical and administrative measures and techniques to protect the security of the information you submit to us. We do not guarantee or warrant that such techniques will prevent unauthorized access to information about you that we store, Personally Information or otherwise. Credit card transactions and order fulfillment are handled by established third-party banking institutions, process agents, distribution institutions and our vendors. They receive the information they need to verify and authorize your credit card transactions and to ship your order. When you input your credit card information for online purchases, we offer secured server transactions that encrypt your information in transit to thwart someone from intercepting it and misusing it. When you access your account information, the information is kept on a secure server and will be protected by a password for your privacy and security. We seek to protect Account information to ensure that it is kept private; however, we cannot guarantee the security of any Account information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
-        <br>
-        <br>
-
-		<div class="separator"></div>
-        <div class="terms_header">What Personal Information Can I Access?</div>
-        <br>
-        Through your account settings, you may access, and, in some cases, edit or delete the following information you’ve provided to us:
-        <br>
-        <br>
-        <ul style="margin: 0 0 0 40px; list-style-type: disc;">
+        <h1>
+            <div class="terms_header">What Personal Information Can I Access?</div>
+        </h1>
+        <p class="paraSection">
+            Through your account settings, you may access, and, in some cases, edit or delete the following information
+            you’ve
+            provided to us:
+            <br>
+            <br>
+        </p><ul style="margin: 0 0 0 40px; list-style-type: disc;">
             <li>name and password</li>
             <li>email address</li>
             <li>location</li>
@@ -1221,45 +1576,78 @@ branch.init(branchkey);
         </ul>
         <br>
         <br>
-        The information you can view, update, and delete may change as the Services change.  If you have any questions about viewing or updating information we have on file about you, please <a href="/contact"><u>contact us</u></a>.
-        <br>
-        <br>
+        The information you can view, update, and delete may change as the Services change. If you have any questions
+        about viewing or updating information we have on file about you, please <a href="/contact"><u>contact us</u></a>.
+        <p></p>
+        <h1>
+            <div class="terms_header">Your California Privacy Rights</div>
+        </h1>
+        <p class="paraSection">
+            In certain circumstances under California law, consumer customers of Kaufmann Mercantile who are California
+            residents are entitled to certain information regarding any personally identifiable information (as defined
+            by
+            certain California laws) we may share with direct marketing companies. Personally identifiable information
+            generally is defined under California law as information that identifies specifics about an individual and
+            can
+            be used to identify, contact, or locate an individual including that individual’s name, mailing
+            address,
+            telephone number, mobile
+            phone number, email address and other identification and contact information. If you are an eligible
+            customer of
+            Kaufmann Mercantile and would like to receive a list detailing the types of personally identifiable
+            information
+            we share with direct marketing companies and the names and addresses of all direct marketing companies that
+            we
+            provide personally identifiable information to, please <a href="/contact"><u>contact us</u></a>. We will
+            respond
+            to any request for information at such email address within thirty (30) days.
+        </p>
 
-		<div class="separator"></div>
-        <div class="terms_header">Your California Privacy Rights</div>
-        <br>
-        In certain circumstances under California law, consumer customers of AHAlife who are California residents are entitled to certain information regarding any personally identifiable information (as defined by certain California laws) we may share with direct marketing companies. Personally identifiable information generally is defined under California law as information that identifies specifics about an individual and can be used to identify, contact, or locate an individual including that individual’s name, mailing address, telephone number, mobile
-        phone number, email address and other identification and contact information. If you are an eligible customer of AHAlife and would like to receive a list detailing the types of personally identifiable information we share with direct marketing companies and the names and addresses of all direct marketing companies that we provide personally identifiable information to, please <a href="/contact"><u>contact us</u></a>. We will respond to any request for information at such email address within thirty (30) days.
-        <br>
-        <br>
+        <h1>
+            <div class="terms_header">Children and Privacy</div>
+        </h1>
+        <p class="paraSection">
+            We do not knowingly collect or solicit personal information from anyone under the age of 13. If you are
+            under
+            13, please do not attempt to register for the Services or send any personal information about yourself to
+            us. If
+            we learn that we have inadvertently gathered Personally Identifiable Information from children under 13, we
+            shall erase such information from our records and terminate the applicable account(s) promptly. If you
+            believe
+            that a child under 13 may have provided us personal information, please <a href="/contact"><u>contact us</u></a>.
+        </p>
 
-		<div class="separator"></div>
-        <div class="terms_header">Children and Privacy</div>
-        <br>
-        We do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Services or send any personal information about yourself to us. If we learn that we have inadvertently gathered Personally Identifiable Information from children under 13, we shall erase such information from our records and terminate the applicable account(s) promptly. If you believe that a child under 13 may have provided us personal information, please <a href="/contact"><u>contact us</u></a>.
-        <br>
-        <br>
-
-		<div class="separator"></div>
-        <div class="terms_header">What Choices Do I Have?</div>
-        <br>
-        You can always opt not to disclose information to us, but keep in mind some information may be needed to register with us or to take advantage of some of our special features.
-        <br>
-        <br>
-        You may be able to add, update, or delete information as explained above.  When you update information, however, we may maintain a copy of the unrevised information in our records.  You may request deletion of your account by <a href="/contact"><u>contacting us</u></a>.
-        Some information may remain in our records after your deletion of such information from your account. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally.
-        <br>
-        <br>
-        <br>
-        If you have any questions regarding our Policy or privacy practices, please <a href="/contact"><u>contact us</u></a>.
-        <br>
-        <br>
-        AHAlife Holdings Inc.
-        <br>
-        147 Front Street, 2nd Floor
-        <br>
-        Brooklyn, NY 11201
-        <br>
+        <h1>
+            <div class="terms_header">What Choices Do I Have?</div>
+        </h1>
+        <p class="paraSection">
+            You can always opt not to disclose information to us, but keep in mind some information may be needed to
+            register with us or to take advantage of some of our special features.
+            <br>
+            <br>
+            You may be able to add, update, or delete information as explained above. When you update information,
+            however,
+            we may maintain a copy of the unrevised information in our records. You may request deletion of your account
+            by
+            <a href="/contact"><u>contacting us</u></a>.
+            Some information may remain in our records after your deletion of such information from your account. We may
+            use
+            any aggregated data derived from or incorporating your Personal Information after you update or delete it,
+            but
+            not in a manner that would identify you personally.
+            <br>
+            <br>
+            <br>
+            If you have any questions regarding our Policy or privacy practices, please <a href="/contact"><u>contact
+            us</u></a>.
+            <br>
+            <br>
+            AHAlife Holdings Inc.
+            <br>
+            147 Front Street, 2nd Floor
+            <br>
+            Brooklyn, NY 11201
+        </p>
     </div>
 </div>
         <!-- special layout handling for error pages -->
@@ -1274,11 +1662,127 @@ branch.init(branchkey);
         window.Aha = window.Aha || {};
         window.Aha.domain = 'kaufmann-mercantile';
         window.useNewMarketplace = true;
+        window.Aha.bookmarksJson = null;
         /*]]>*/
     </script>
     
     
-	<!-- <div th:substituteby="catalog/partials/quickViewModal" /> -->
+	<div id="id-quick-view-modal" class="modal fade hide" role="dialog" aria-labelledby="quick-view" aria-hidden="true"></div>
+
+<script type="text/template" id="id-quick-view-template" data-csrf-param="csrfToken" data-csrf-value="L7H1-YF3G-8OKC-7WRF-UY29-2AP3-KV0A-DTHH">
+    /*<![CDATA[*/
+    <div id="id-product-quick-view">
+        <div class="navigation">
+            <% if (context.previous && context.previous.img) { %>
+            <a class="control previous float-l" href="javascript:;">
+                <img src="<%= context.previous.img %>" alt="" class="float-l">
+                <div class="arrow float-l">< <span class="text">Previous</span></div>
+            </a>
+            <% }; %>
+            <% if (context.next && context.next.img) { %>
+            <a class="control next float-r" href="javascript:;">
+                <img src="<%= context.next.img %>" alt="" class="float-r">
+                <div class="arrow float-r"><span class="text">Next</span> ></div>
+            </a>
+            <% }; %>
+        </div>
+        <div class="clear"></div>
+        <a href="javascript:;" id="id-close-quick-view" data-dismiss="modal"><img src="/img/btn_close_modules.png"/></a>
+        <div class="body">
+            <div class="float-l grid-47">
+                <div class="left-in-stock-label add-on hidden" style="display: block;"><span class="qty-in-stock" /> Left</div>
+                <div class="rel-pos" id="id-carousel-cont">
+                    <div>
+                        <ul class="carousel carouselQuickView" id="id-carousel">
+                            <% _.each(context.item.images, function(img){ %>
+                            <li class="collectible">
+                                <img src="<%= img %>" alt="<%= context.item.name %>" title="<%= context.item.name %>" data-product="<%= context.item.id %>"/>
+                            </li>
+                            <% }); %>
+                        </ul>
+                        <div id="prev_button" class="carousel-prev hidden-phone"></div>
+                        <div id="next_button" class="carousel-next hidden-phone"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="float-r grid-48">
+                <a href="<%= context.item.url %>" class="item-name"><%= context.item.name %></a>
+                <div class="clear"></div>
+				<% if (context.item.discountPrice ) { %>
+				<span style="color:red;text-decoration:line-through;" >
+                <div style="color:black;"  id="item-price" ><%= context.item.price %></div>
+				</span>
+                <div style="color:red;" id="item-price" class="item-price">$<%= context.item.discountPrice %></div>
+				<% } else { %>
+				<span id="saleContainer" class="hidden">
+					<div class="item-price" id="item-price1"><%= context.item.retailPrice %></div>
+				</span>			
+			    <div id="item-price" class="item-price"><%= context.item.price %></div>
+				<% } ; %>
+				<div>
+                <a href="<%= context.item.brandUrl %>" class="brand-name"><%= context.item.brandName %></a>
+                <% if (context.item.prettyAddress) { %><span>from <%= context.item.prettyAddress %></span><% }; %>
+                </div>
+				<div class="clear"></div>
+
+                <form method="POST" id="add-to-cart-form" class="add-to-cart" action="/bag/add">
+                    <input id="quickView-procuctId" class="product-id" type="hidden" name="product" value="<%= context.item.id %>"/>
+                    <input class="product-id" type="hidden" name="productId" value="<%= context.item.id %>"/>
+                    <input type="hidden" name="csrfToken" value="<%= context.CSRFToken %>">
+                    <div class="product-options-wrapper">
+						<%= context.item.options %>
+
+                    	<div class="btn-orange" id="add-to-btn">
+                        	<input id="buy-button" type="submit" class="btn-orange-inner" value="ADD TO BAG"/>
+                    	</div>
+
+                    	<div class="clear"></div>
+                    	<!-- Error messages -->
+                    	<div class="product-error-options error errorMessage">All options are required.</div>
+                    	<div class="product-error-inventory error errorMessage">This item is currently not available.</div>
+                    	<div class="out-of-stock-note error errorMessage">Sorry, this combination is not available.</div>
+					</div>
+                </form>
+            </div>
+
+            <div class="clear"></div>
+
+            <div>
+                <div class="float-l grid-47">
+                    <div class="item-story">
+                        <%= context.item.story %>... <a href="<%= context.item.url %>">View Full Details</a>
+                    </div>
+
+                </div>
+                <div class="float-r grid-48">
+                    <div class="detail-title float-l">Shipping Information:</div>
+                    <div class="clear"></div>
+                    <ul class="item-details">
+                        <li>
+                            This product ships from <%= context.item.brandName %> <% if (context.item.brandFrom) { %> in <%= context.item.brandFrom %>
+                            <% }; %>
+                        </li>
+                        <% if (context.item.shippingTime) { %>
+                        <li>
+                            Ships out in <%= context.item.shippingTime %>
+                        </li>
+                        <% }; %>
+                    </ul>
+                    <% if (context.item.returnPolicy) { %>
+                    <div class="detail-title-1 float-l">Return Policy:</div>
+                    <div class="detail-value float-l">
+                        <%= context.item.returnPolicy %>
+                    </div>
+                    <div class="clear"></div>
+                    <% }; %>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div>
+    </div>
+    /*]]>*/
+</script>
 	<div id="id-add-to-bag-underlay"></div>
 <div id="id-add-to-bag-popup" class="bag-popup">
     <div class="content-cont">
@@ -1307,83 +1811,74 @@ branch.init(branchkey);
     /*]]>*/
 </script>
     
-    <script src="/js/marketplace/aha_js_main.min.js?vsn=704d8f331ac8e24b6109a1378d97a54e6968a9ff"></script>
+    <script src="https://assets2.ahalife.co/js/marketplace/aha_js_main.min.js?vsn=229084611311f9d2b7fa117257bfc671926de4d7"></script>
     
     
     <div id="footerPadding" class="hidden"></div>
 <footer class="footer forceMinWdith-desktop">
-	<div id="suscribeLightbox" class="text-center hidden" onclick="EmailSubscription.preventBubbling(event)">
-	<div class="close" onclick="EmailSubscription.closeLightbox()"></div>
-	
-	<div class="status">
-		<div class="badge-icon"><img src="https://assets3.ahalife.co/img/badge.png"></div>
-		<div class="margin-top-5"></div>
-		<div class="heading">Thank You!</div>
-	</div>
-	
-	<div class="content">
-		<div class="heading">Find it First</div>
-		<div class="margin-top-5"></div>
-		<div class="sub-heading">Subscribe for free daily AHAs &amp;<br>
-		Earn 10% off your first order</div>
-		<div class="margin-top-15"></div>
-		
-		<form id="emailSubscriptionForm">
-			<input type="email" id="subscriptionEmailAddress" name="subscriptionEmailAddress" placeholder="Enter Your Email" required="required"><input type="submit" class="subscribe-btn" value="Subscribe">
-		<input type="hidden" name="csrfToken" value="AKTC-IKAQ-4RZT-BMZF-EUZI-WS39-WNUK-APSB"></form>
-	</div>
-</div>
-    <div class="clearfix l-fullWidth footer-links-container">
-        <ul class="footer-links clearfix ">
-        	<li><h4>About Kaufmann Mercantile</h4></li>
-            <li><a href="/about">About Us</a></li>
-            <li><a href="/field-notes">Field Notes</a></li>
-            <li><a href="/">Shop</a></li>
-        </ul>
-        <ul class="footer-links">
-        	<li><h4>Help</h4></li>
-            <li><a href="/faq">FAQ</a></li>
-            <li><a href="/terms">Terms of Use</a></li>
-            <li class="last-mobile"><a href="/privacy">Privacy Policy</a></li>
-        </ul>
-        <ul class="hide-mobile footer-links">
-	    	<li><h4>Follow Us</h4></li>
+	<div class="clearfix l-fullWidth footer-links-container">
+		<ul class="footer-links clearfix ">
+			<li><h4>About KM</h4></li>
+			<li><a href="/about">About Us</a></li>
+			<li><a href="/field-notes/">Field Notes</a></li>
+			<!-- <li><a th:href="@{/jobs}">Careers</a></li> -->
+			<li><a href="/brands">Sell on KM</a></li>
+		</ul>
+		<ul class="footer-links">
+			<li><h4>Concierge</h4></li>
+			<li><a href="/contact">Contact Us</a></li>
+			<li><a href="/shipping">Shipping &amp; Returns</a></li>
+		</ul>
+		<ul class="footer-links">
+			<li><h4>More Info</h4></li>
+			<li><a href="/faq">FAQ</a></li>
+			<li><a href="/terms">Terms of Use</a></li>
+			<li><a href="/privacy">Privacy Policy</a></li>
+        	<li class="last-mobile"><a href="http://brands.ahalife.com/">Brands Portal</a></li>
+		</ul>
+		<ul class="hide-mobile footer-links">
+			<li><h4>Follow us</h4></li>
 			<li class="no-mobile-divide">
-		        <ul class="footer-social-links clearfix">
-		            <li>
-		                <a title="Kaufmann Mercantile on Instagram" class="icon instagram-icon" href="https://instagram.com/kaufmannmercantile"></a>
-		                <a target="_blank" title="Kaufmann Mercantile on Facebook" class="icon facebook-icon" href="http://www.facebook.com/Kaufmann.Mercantile"></a>
-		                <a title="Kaufmann Mercantile on Twitter" class="icon twitter-icon" href="https://twitter.com/KaufmannMerc"></a>
-		                <a title="Kaufmann Mercantile on Pintrest" class="icon pintrest-icon" href="http://pinterest.com/kaufmannmerc/"></a>
-		            </li>
-		        </ul>
-		     </li>
-	    </ul>
-        <ul class="footer-links mobile-spacer-top subscribe-box">
-        	 <li class="hide-mobile"><h4>Subscribe For Updates</h4></li>
-			 <li><span id="footerText">Discover better products</span></li>
-		     <li class="hide-mobile" id="footerEmailSubscription">
-			     <form id="footerEmailSubscriptionForm" onsubmit="subscribeUserButton.disabled = true; return true;" class="email_subscription_form">
-	                <input type="email" id="footerSubscriptionEmailAddress" name="subscriptionEmailAddress" placeholder="Enter Email" required="required"><input type="submit" value="Subscribe" name="subscribeUserButton" class="email-submit-button subscribeUser">
-	                <div class="thank-you">Thank You!</div>
-	             <input type="hidden" name="csrfToken" value="AKTC-IKAQ-4RZT-BMZF-EUZI-WS39-WNUK-APSB"></form>
-		     </li>
-	    </ul>
-    </div>
-    <div class="footer-badges">
-    	<div class="container">
-    		<div class="trust-guard"></div>
-    		<div class="payments float-l">
-    			Pay with <img src="https://assets3.ahalife.co/img/footer/payment-options-icon.png">
-    			<span>Call us +1 (855) 848-3778</span>
-    		</div>
-    		<div class="copy-text float-r">
-    			Copyright © 2017 AHAlife &amp; KAUFMANN MERCANTILE © 2017. All rights reserved
-    		</div>
-    	</div>
-	    <div class="clear"></div>
-    </div>
+				<ul class="footer-social-links common-icons clearfix">
+					<li>
+						<a title="AHAlife on Instagram" class="social icon instagram-icon" href="https://instagram.com/kaufmannmercantile"></a>
+						<a target="_blank" title="AHAlife on Facebook" class="social icon facebook-icon" href="http://www.facebook.com/Kaufmann.Mercantile"></a>
+						<a title="AHAlife on Pintrest" class="social icon pintrest-icon" href="http://pinterest.com/kaufmannmerc/"></a>
+					</li>
+				</ul>
+			</li>
+		</ul>
+		<ul class="footer-links mobile-spacer-top subscribe-box">
+			<li class="hide-mobile"><h4>Subscribe For Updates</h4></li>
+			<li><span id="footerText">Discover better products</span></li>
+			<li class="hide-mobile" id="footerEmailSubscription">
+				<form id="footerEmailSubscriptionForm" onsubmit="subscribeUserButton.disabled = true; return true;" class="email_subscription_form">
+					<input type="email" id="footerSubscriptionEmailAddress" name="subscriptionEmailAddress" placeholder="Enter your email" required="required"><input type="submit" value="submit" name="subscribeUserButton" class="email-submit-button subscribeUser">
+					<div class="thank-you">Thanks for subscribing!</div>
+				<input type="hidden" name="csrfToken" value="L7H1-YF3G-8OKC-7WRF-UY29-2AP3-KV0A-DTHH"></form>
+			</li>
+		</ul>
+	</div>
+	<div class="footer-badges">
+		<div class="container">
+			<div class="trust-guard"></div>
+			<div class="payments float-l common-icons">
+				we accept &nbsp;<span class="icon payment-options e-visa"></span>
+				<span class="icon payment-options e-mastercard"></span>
+				<span class="icon payment-options e-discover"></span>
+				<span class="icon payment-options e-amex"></span>
+				<span class="icon payment-options e-JCB"></span>
+				<span class="icon payment-options e-PayPal"></span>
+				<span><span class="icon phone"></span>+1 (855) 848-3778 &nbsp; &nbsp;M−F &nbsp; &nbsp;9AM−6PM EST</span>
+			</div>
+			<div class="copy-text float-r">
+				Copyright © 2017 Kaufmann Mercantile. All rights reserved
+			</div>
+		</div>
+		<div class="clear"></div>
+	</div>
 </footer>
+
     <a id="id-back-to-top-btn" href="javascript:;" title="Back To Top">
     
     
@@ -1422,98 +1917,218 @@ branch.init(branchkey);
      fjs.parentNode.insertBefore(js, fjs);
    }(document, 'script', 'facebook-jssdk'));
 </script>
-    <script src="/js/marketplace/aha_js_main_ga.min.js?vsn=704d8f331ac8e24b6109a1378d97a54e6968a9ff"></script><script type="text/javascript" id="">var _bsw=_bsw||[];_bsw.push(["_bswId","42eda233d5ad81747427fd73a9fbc24a5b9be242b5ede015174d0f8b1cd22f59"]);(function(){var a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"==document.location.protocol?"https://":"http://")+"js.bronto.com/c/7b11ublt2399vgz5f2hxtojl9zlzbk2txmip5dhev7f8ijg6oa/42eda233d5ad81747427fd73a9fbc24a5b9be242b5ede015174d0f8b1cd22f59/s/b.min.js";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})();</script>
-
-<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");var userEmail=_user_email||"undefined",userEmail=userEmail.toLowerCase().trim(),userObj={em:userEmail};
-fbq("init","1624306867596985",userObj);fbq("track","PageView");</script>
-<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1624306867596985&amp;ev=PageView&amp;noscript=1"></noscript>
-
-
-
-<script type="text/javascript" id="">(function(a){window.DataLayer||(window.DataLayer={});DataLayer.events||(DataLayer.events={});DataLayer.events.SiteSection="1";var b=document.createElement("script");b.type="text/javascript";b.async=!0;b.src=a;a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a)})(document.location.protocol+"//intljs.rmtag.com/113604.ct.js");</script>
-
-<script type="text/javascript" id="" src="//static.tapfiliate.com/tapfiliate.js"></script><script type="text/javascript" id="" src="//35b6f904e354441198fcd9a7811ab8be.js.ubembed.com"></script>
+    <script src="https://assets2.ahalife.co/js/marketplace/aha_js_main_ga.min.js?vsn=229084611311f9d2b7fa117257bfc671926de4d7"></script>
     
     
-    <script src="/js/marketplace/aha_js_main_operations.min.js?vsn=704d8f331ac8e24b6109a1378d97a54e6968a9ff"></script>
-    
-    <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
-    
-    <script type="text/javascript">
-        /*<![CDATA[*/
-        
-        $(document).ready(function(){
-            $('#confirmationNewUserPassword').on('submit', function(e) {
-    
-                if ($('#password').val() != $('#confirmPassword').val()) {
-                    $(this).find('.error').removeClass('hide');
-                    $('#confirmPassword').focus();
-                    e.preventDefault();
-                }
-            });
-        });
-        /*]]>*/
-    </script>
-
-    <script src="/js/marketplace/aha_js_angular.min.js?vsn=704d8f331ac8e24b6109a1378d97a54e6968a9ff"></script>
+    <script src="https://assets2.ahalife.co/js/marketplace/aha_js_main_operations.min.js?vsn=229084611311f9d2b7fa117257bfc671926de4d7"></script>
     
 
+    <script src="https://assets2.ahalife.co/js/marketplace/aha_js_angular.min.js?vsn=229084611311f9d2b7fa117257bfc671926de4d7"></script>
     
+
     
     
 <div id="authModal" data-backdrop="static" data-keyboard="false" class="modal large fade hide register"></div>
 <div id="forgetPasswordModal" data-backdrop="static" data-keyboard="false" class="modal large fade hide"></div>
 <div id="simpleRegModal" data-backdrop="static" data-keyboard="false" class="modal large fade hide"></div>
 <!--Thankyou Modal -->
- <div class="modal confirmation fade" id="thankYouModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="display:none;">
-   <div class="modal-dialog modal-lg">
-      <div class="modal-content">
-       <div class="modal-header thankYouheader">
-         <a href="javascript:;" id="id-close-auth-modal" data-dismiss="modal"><img src="https://assets3.ahalife.co/img/btn_close_modules.png"></a>
-       </div>
-       <div class="modal-body thankyouContent">
-         THANK YOU!
-       </div>
+<div class="modal confirmation fade" id="thankYouModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="display:none;">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content register-modal">
+            <div class="modal-header thankYouheader">
+                <a href="javascript:;" id="id-close-auth-modal" data-dismiss="modal"><img src="https://assets3.ahalife.co/img/btn_close_modules.png"></a>
+            </div>
+            <div class="clear"></div>
+            
+            <img class="insider-logo" src="/img/marketplace/insider_program/km/km-insider-logo.png" alt="KM Insider">
+            <div class="clear"></div>
+            <div class="modal-body thankyouContent default">
+                Thanks for Becoming a member
+            </div>
+            <div class="modal-body thankyouContent other">
+                Congratulations on becoming <span>a KM</span> insider!
+            </div>
+            <div class="thankyouMessage default">
+                You're now also part of rewards program. Automatically get <span class="insider-points">1</span> for ever $1 you spend, plus an additional
+                <span class="insider-points">50</span> with your first purchase. <a href="/insider">Learn More</a>.
+            </div>
+            <div class="thankyouMessage insider">
+                You've just earned <span class="insider-points">50</span>. Get <span class="insider-points">1</span> point for ever $1 you spend, plus a bonus <span class="insider-points">50</span> with your first purchase.
+            </div>
+            <div class="thankyouMessage order-confirmation">
+                You're now part of rewards program. Automatically get <span class="insider-points">50</span> for ever $1 you spend. <a href="/insider">Learn More</a>.
+            </div>
+            <div class="thankyouButton default">
+                <a href="/" id="idShopNow">Shop Now</a>
+            </div>
+            <div class="thankyouButton other">
+                <a href="javascript:;" id="id-close-auth-modal" data-dismiss="modal">Close</a>
+            </div>
+        </div>
     </div>
-   </div>
- </div>
+</div>
 
 
-<script type="text/javascript" src="/js/promoModule.js?vsn=704d8f331ac8e24b6109a1378d97a54e6968a9ff"></script>
-<script type="text/javascript" src="/js/catalogOperations.js?vsn=704d8f331ac8e24b6109a1378d97a54e6968a9ff"></script>
+<script type="text/javascript" src="https://assets2.ahalife.co/js/promoModule.js?vsn=229084611311f9d2b7fa117257bfc671926de4d7"></script>
+<script type="text/javascript" src="https://assets2.ahalife.co/js/catalogOperations.js?vsn=229084611311f9d2b7fa117257bfc671926de4d7"></script>
 
 
 
 <script>
-	// do not show homepage modal again after this page
-	var showAuthModal;
-	var longLivedCookie = new Date(new Date().getTime()+1000000000000);
-	if (typeof getCookie == 'undefined' || !getCookie('homepageModal')) {
-		$.cookies.set('homepageModal', 1, {expiresAt: longLivedCookie});
-		showAuthModal = 1;
-	}
-	
-	// set cookies used for returning vs first time user segmentation
-	if (typeof getCookie == 'undefined' || !getCookie('trackReturningVisitor')) {
-		$.cookies.set('trackReturningVisitor', 1, {expiresAt: longLivedCookie});
-		$.cookies.set('newVisitorSession', 1, {expiresAt: new Date(new Date().getTime()+24*60*60*1000)});
-		//$.cookies.set('newVisitorSession', 1);
-	}
-	
-	/*<![CDATA[*/
-	var brontoDirectAddKey = 'blzkjvutmkolkojkstcnzwkhxiykbdl';
-	/*]]>*/
-	
-	/*<![CDATA[*/
-	var isNewUserForSignUp = null;
-	/*]]>*/
-	if(isNewUserForSignUp){
-		$.cookies.set('newVisitorSignUp', 1, {expiresAt: new Date(new Date().getTime()+24*60*60*1000)});
-	}
+    // do not show homepage modal again after this page
+    var showAuthModal;
+    var longLivedCookie = new Date(new Date().getTime() + 1000000000000);
+    if (typeof getCookie == 'undefined' || !getCookie('homepageModal')) {
+        $.cookies.set('homepageModal', 1, {expiresAt: longLivedCookie});
+        showAuthModal = 1;
+    }
+
+    // set cookies used for returning vs first time user segmentation
+    if (typeof getCookie == 'undefined' || !getCookie('trackReturningVisitor')) {
+        $.cookies.set('trackReturningVisitor', 1, {expiresAt: longLivedCookie});
+        $.cookies.set('newVisitorSession', 1, {expiresAt: new Date(new Date().getTime() + 24 * 60 * 60 * 1000)});
+        //$.cookies.set('newVisitorSession', 1);
+    }
+
+    /*<![CDATA[*/
+    var brontoDirectAddKey = 'blzkjvutmkolkojkstcnzwkhxiykbdl';
+	var brontoEmailListKey = '0bcf03ec00000000000000000000000c8cad';
+    /*]]>*/
+
+    /*<![CDATA[*/
+    var isNewUserForSignUp = null;
+    /*]]>*/
+    if (isNewUserForSignUp) {
+        $.cookies.set('newVisitorSignUp', 1, {expiresAt: new Date(new Date().getTime() + 24 * 60 * 60 * 1000)});
+    }
 </script>
 
 
 
+    <script>
+/*<![CDATA[*/
+(function () {
+	window.utag_data = window.utag_data || {};
+	var d = window.utag_data;
+	var tealium_page_type = 'other';
+	var tealium_page_name = null;
+	var criteoDeduplication = null;
+	window.tealium_cart = null || {};
+	var category = null;
+	var tealiumSku = null;
+	var tealiumEvent = null;
+	var tealiumBrand = null;
+	var tealiumProducts = null;
+	function _setUtag(n,v) {
+		if(v != null) {
+			window.utag_data[n] = '' + v;
+		}
+	}
+	function _setUtagProd(n,v) {
+		if(v != null) {
+			if (typeof v === 'string') {
+				window.utag_data[n] = window.utag_data[n] || [];
+				window.utag_data[n].push('' + v);
+			} else {
+				window.utag_data[n] = v;
+			}
+		}
+	}
+	function _categoriesFromList(cat, prefix, fn) {
+		if (cat && cat.length) {
+			fn(prefix + 'site_section', cat[0].trim());
+			for (var i = 1; i < cat.length; i++) {
+				fn(prefix + 'site_sub' + i + '_section', cat[i].trim());
+			}
+		}
+	}
+	function _createCategories(cat, prefix, fn) {
+		prefix = prefix || '';
+		cat = cat && cat.replace(/^[\s/]*/g,'').replace(/[\s/]*$/g,'').split('/');
+		_categoriesFromList(cat, prefix, fn);
+	}
+	function _isCheckout(t) {
+		return ['checkout', 'cart'].indexOf(t) != -1;
+	}
+	_setUtag('page_type', tealium_page_type);
+	var title = document.getElementsByTagName('title')[0];
+	title = title.textContent || title.innerHTML.replace("&amp;", '&');
+	_setUtag('page_name', tealium_page_name || title);
+	_setUtag('site_domain', 'kaufmann-mercantile');
+	_setUtag('language_code', 'en');
+	if (category && category.length) {
+		for (var i = 0; i < category.length; i++) {
+			category[i] = category[i].name
+		}
+		_categoriesFromList(category, '', _setUtag);
+	}
+	var customer_id = 447732340;
+	var customer_email = null;
+	var order_email = null;
+	_setUtag('customer_id', customer_id);
+	_setUtag('customer_email', customer_email || order_email);
+	if (criteoDeduplication != null) {
+		_setUtag('criteoDeduplication', criteoDeduplication);
+	}
+	if (d.page_type == 'product') {
+		_setUtagProd('product_id', '' + window.productId);
+		_setUtagProd('product_sku', '' + (tealiumSku || window.skuId));
+		_setUtagProd('product_name', '' + window.name);
+		_setUtagProd('product_price', '' + window.price);
+		var breadcrumbs = document.getElementById('breadcrumbs');
+		if (breadcrumbs) {
+			_createCategories(breadcrumbs.textContent, 'product_', _setUtagProd);
+		}
+	} else if (d.page_type == 'category') {
+		window.utag_cfg_ovrd = {noview:true};
+	} else if (d.page_type == 'search') {
+		var queryTerm = null;
+		var querySuggestion = null;
+		_setUtag('search_keyword', queryTerm);
+		if (querySuggestion) {
+			_setUtag('search_keyword_autocorrect', querySuggestion)
+		}
+		if (tealiumProducts) {
+			_setUtagProd('product_id', tealiumProducts.product_id);
+			_setUtagProd('product_name', tealiumProducts.product_name);
+			_setUtagProd('search_results', tealiumProducts.product_id);
+		}
+	}
+	
+	if (tealiumBrand) {
+		_setUtag('brand_id', tealiumBrand.id);
+		_setUtag('brand_name', tealiumBrand.name);
+	}
+	
+	var cart_var_prefix = 'cart_';
+	if (d.page_type == 'confirmation') {
+		cart_var_prefix = 'order_';
+	}
+	_setUtag(cart_var_prefix + 'order_id', tealium_cart.id);
+	_setUtag(cart_var_prefix + 'total_items', (tealium_cart.items || '0'));
+	_setUtag(cart_var_prefix + 'subtotal', (tealium_cart.subtotal))
+	_setUtag(cart_var_prefix + 'total', (tealium_cart.total))
+	if (tealium_cart && tealium_cart.products) {
+		for (var i = 0; i < tealium_cart.products.length; i++) {
+			_setUtagProd(cart_var_prefix + 'product_id', tealium_cart.products[i].id);
+			_setUtagProd(cart_var_prefix + 'product_sku', tealium_cart.products[i].sku);
+			_setUtagProd(cart_var_prefix + 'product_quantity', tealium_cart.products[i].quantity);
+			_setUtagProd(cart_var_prefix + 'product_price', tealium_cart.products[i].salePrice);
+			if (tealium_cart.products[i].categories && tealium_cart.products[i].categories.length) {
+				_categoriesFromList(tealium_cart.products[i].categories, cart_var_prefix + 'product_', _setUtagProd);
+			}
+		}
+	}
+})();
+
+(function(a,b,c,d){
+ a='//tags.tiqcdn.com/utag/' + 'ahalife' + '/'  + 'main' + '/'  + 'prod' + '/utag.js';
+ b=document;c='script';d=b.createElement(c);d.src=a;
+ d.type='text/java'+c;d.async=true;
+ a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a)
+})();
+/*]]>*/
+</script>
 
 
 </body></html>
