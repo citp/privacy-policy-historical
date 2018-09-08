@@ -1,36 +1,107 @@
-> *The following text is extracted and transformed from the firstfederal.com privacy policy that was archived on 2013-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130405062815id_/http%3A//firstfederal.com/webff/security/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstfederal.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908025239id_/https%3A//www.southstatebank.com/help/privacy-statement) for the most accurate reproduction.*
 
-# Privacy & Security - First Federal
+# South State Privacy Notice - South State Bank
 
-   
----  
-**   First Financial Holdings, Inc. Privacy Policy**  
+Regardless of changes in technology and information, South State Bank has always been-and will continue to be-committed to the principles of customer privacy. We understand that when you open an account with us, apply for a loan, or deal with us or one of our affiliated companies in any way, we ask you to provide us with private financial and personal information.
+
+We honor the trust you place in us by maintaining the confidentiality and accuracy of that information, and we use it in manners consistent with the confidence you have placed in us. We will uphold both the letter and the spirit of federal and state laws as they relate to this important issue.
+
+  * [Privacy Notice [PDF]](https://www.southstatebank.com/internet/wp-content/uploads/2018/09/Privacy-Statement-8-18.pdf?x11919 "Privacy Notice")
+  * [Privacy Notice Opt Out Form](https://www.southstatebank.com/customeroptout/ "Customer Opt Out")
+
+
+
+We reserve the right to change this notice at any time by posting a new privacy policy notice. We encourage you to carefully review the notice and the choices it outlines. If you have already requested a change in your information sharing, you do not need to respond again. We will continue to honor your previous sharing preferences.
+
+Rev. 7/18
+
+**FACTS** | **WHAT DOES SOUTH STATE BANK  ** **DO WITH YOUR PERSONAL INFORMATION?**  
+---|---  
+**Why?** | Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.  
+**What?** | The types of personal information we collect and share depend on the product or service you have with us. This information can include: 
+
+  * Social Security number and income;
+  * Account balances and transaction/payment history;
+  * Employment information and credit history.
+
   
+**How?** | All financial companies need to share customers’ personal information to run their everyday businesss. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons South State Bank chooses to share; and whether you can limit this sharing.  
+**Reasons we can share your personal information** | **Does South State Bank share?** | **Can you limit this sharing?**  
+**For our everyday business purposes –**
+
+such as: to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus
+
+| Yes | No  
+**For our marketing purposes –**
+
+to offer our products and services to you
+
+| Yes | Yes  
+**For joint marketing with other financial companies** | Yes | Yes  
+**For our affiliates’ everyday business purposes –**
+
+information about your transactions and experiences
+
+| Yes | No  
+**For our affiliates’ everyday business purposes –**
+
+information about your creditworthiness
+
+| Yes | Yes  
+**For our affiliates to market to you** | Yes | Yes  
+**For nonaffiliates to market to you** | Yes | Yes  
+**To limit our sharing** | 
+
+  * Call Toll-free 1-800-277-2175;
+  * Visit us online: www.southstatebank.com; or
+  * Visit any branch office and speak with a bank representative.
+
+
+
+**Please note:**
+
+If you are a _new_ customer, we can begin sharing your information 30 days from the date we sent this notice. When you are _no longer_ our customer, we continue to share your information as described in this notice.
+
+However, you can contact us at any time to limit our sharing.  
   
+**Questions?** | Call toll-free 1-800-277-2175 or visit any branch to speak with a bank representative.  
+**What We Do** |   
+---|---  
+**How does South State Bank protect my personal information?** | To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.  
+**How does South State Bank collect my personal information?** | We collect your personal information, for example, when you 
+
+  * Open an account, deposit money, or perform transactions;
+  * Pay your bills or apply for a loan;
+  * Use your credit or debit card.
 
 
-**  ** **** **Internet Privacy Policy**
 
-We recognize the importance of protecting the privacy of personally-identifying information that may be submitted to us when you visit our website. The information we receive depends on what you do when you visit our site. This is how we handle the information we learn about you from your visit to our website.
+We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.  
+  
+**Why can’t I limit all sharing?** | Federal law gives you the right to limit only 
 
-** If you visit our site to read or download information on our web pages such as press releases and checking and savings account information:**
+  * Sharing for affiliates’ everyday business purposes – information about your creditworthiness;
+  * Affiliates from using your information to market to you;
+  * Sharing for nonaffiliates to market to you.
 
-We collect and store only the following information about you: name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an America Online account, or a similar domain corresponding to your Internet Service Provider "ISP"); date and time you access our website; pages you may have visited on our site; and Internet address of the website from where you came to visit our website.
 
-We use the information we collect to measure the number of visitors to the different pages and sections of our site, and to help us make our site more useful to visitors.
 
-** If you visit our website to use interactive banking tools such as financial calculators and self-tests:**
+State laws and individual companies may give you additional rights to limit sharing.  
+  
+**What happens when I limit sharing for an account I hold jointly with someone else?** | Your choices will apply to individually unless you tell us otherwise. However, any account holder may express a privacy preference on behalf of the other joint account holders.  
+**Definitions** |   
+---|---  
+**Affiliates** | Companies related by common ownership or control. They can be financial and nonfinancial companies. 
 
-You may be asked for personal information in order to complete the requested analysis or evaluation. This information is NOT retained.
+_Our affiliates include financial companies such as South State Corporation, SSB_ _  Properties, Inc., Minis & Co., Inc. and South State Advisory, Inc._  
+  
+**Nonaffiliates** | Companies not related by common ownership or control. They can be financial and nonfinancial companies. 
 
-** If you identify yourself by sending an e-mail, signing on and using our Internet Banking feature, or filling out forms such as applications, check reorder forms, contact forms and guest registers:**
+  * _Nonaffiliates we share with can include credit card companies, mortgage servicing providers and marketing service providers so they can market to you._
 
-You may be asked for personally-identifying information in order to process your e-mail, transaction, form or application. This information may be retained by us and our business partners for processing and to facilitate decisions. Information you submit to us is treated no differently than any information you might provide in a written format such as a brochure application, reorder slip to order checks, or a letter.
+  
+**Joint Marketing** | A formal agreement between nonaffiliated financial companies that together market financial products or services to you. 
 
-** We Want To Be Very Clear**
+  * _Our joint marketing partners include credit card companies, marketing service providers, investment companies and insurance companies._
 
-** We protect and safeguard the privacy of users** of our on-line services, just as we do throughout the rest of our business. We will use personal information to identify you, to communicate with you, and to help us answer your questions.
 
-** We will NOT sell personally-identifying information** to a third party for the purpose of solicitation or provide personal information to a third party for its own use.
-
-If you have any questions that are not answered in this section please contact us.
