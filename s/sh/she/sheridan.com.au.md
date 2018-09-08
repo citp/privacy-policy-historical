@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sheridan.com.au privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319130826id_/https%3A//www.sheridan.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheridan.com.au privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908165916id_/https%3A//www.sheridan.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -40,7 +40,9 @@ We will not knowingly collect information from any unsupervised person under the
 
 back to top
 
-The HanesBrands Privacy Policy contains further details about our handling of personal information, including information about how you may access or update your personal information that we hold and how we deal with your concerns. The HanesBrands Privacy Policy is available on request or via [www.hanes.com](http://www.hanes.com/).
+As permitted by applicable law, you may have a right of access, rectification and delegation of information collected by you, and the right to oppose, for legitimate reasons, the processing of this information. To exercise these rights, please contact us using the contact details below. We request that you provide us with as much detail as you can about the particular information you seek, in order to help us retrieve it. An access fee may be charged to cover our costs of providing that information to you. In certain circumstances, we may not be required by law to provide you with access or to correct your personal information. If that is the case, we will give you our reasons for that decision. Where we decide not to update your personal information, you can request us to attach to the personal information a statement of the update sought.
+
+We take reasonable steps to make sure that the personal information we collect, use and disclose is accurate, complete and up-to-date.
 
 If you have any questions or feedback about privacy, please contact our Privacy Officer at [privacyofficeraustralasia@hanes.com](mailto:privacyofficeraustralasia@hanes.com) or call (+61 3) 8862 1400. For information about privacy generally, or if your concerns are not resolved to your satisfaction, you may contact the Office of the Australian Information Commissioner at [www.oaic.gov.au](http://www.oaic.gov.au/) and on 1300 363 992.
 
@@ -48,4 +50,4 @@ back to top
 
 Sheridan Australia Pty Ltd ABN 89 094 091 380
 
-Latest Revision: 12 March 2014
+Latest Revision: May 2018
