@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wkrb13.com privacy policy that was archived on 2018-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180619035126id_/https%3A//www.wkrb13.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wkrb13.com privacy policy that was archived on 2018-09-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180908114133id_/https%3A//www.wkrb13.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" style="display: block;min-width:1070px;"><head><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="//acdn.adnxs.com/ast/ast.js"></script>
 <meta name="distribution" content="global">
@@ -23,7 +23,7 @@
 <link rel="https://api.w.org/" href="https://www.wkrb13.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.wkrb13.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.wkrb13.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.9.6">
+<meta name="generator" content="WordPress 4.9.8">
 <link rel="canonical" href="https://www.wkrb13.com/privacy-policy">
 <link rel="shortlink" href="https://www.wkrb13.com/?p=40">
 <link rel="alternate" type="application/json+oembed" href="https://www.wkrb13.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.wkrb13.com%2Fprivacy-policy">
@@ -38,11 +38,27 @@
 
 <!-- End Meta Data -->
 
+	
 <script type="text/javascript">var PopupAdChannel=''; </script>
 
   <link rel="manifest" href="/manifest.json">
   <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js"></script>
   <script>
+  	function registerUserChange(action) {
+		OneSignal.getUserId( function(userId) {
+			OneSignalIdString = userId;
+			var Domain = 'wkrb13.com';
+			var url = "https://www.marketbeat.com/scripts/OneSignalTracking.ashx?OneSignalID=" + OneSignalIdString + "&domain=" + Domain + "&action=" + action;
+			var xhr = new XMLHttpRequest();
+			xhr.open('GET', url);
+			xhr.onload = function () {
+				if (xhr.status !== 200) {
+					console.log('GET failed.  Returned status of ' + xhr.status);
+				}
+			};
+			xhr.send();
+		});
+	}
     var OneSignal = window.OneSignal || [];
     OneSignal.push(["init", {
       appId: "27539f7d-08b9-4089-9eac-48d0d5b908a5",
@@ -54,9 +70,19 @@
  welcomeNotification: {
         "title": "Join Wall Street's Brightest Minds.",
         "message": "Receive research in your inbox from top analysts, before the market opens. Click here to learn how.",
-         "url": "https://www.marketbeat.com/subscribe/subscribe.aspx?ReferralType=OneSignalThankYou&ProductCode=1597t"
+         "url": "https://www.marketbeat.com/subscribe/subscribe.aspx?ReferralType=OneSignalThankYou&ProductCode=1997t"
     }
-    }]);
+    },
+		OneSignal.once('subscriptionChange', function (isSubscribed) {
+			if(isSubscribed) {
+				registerUserChange("subscribe");
+			}
+			else {
+				registerUserChange("unsubscribe");
+			}
+			
+		  })
+	]);
   </script>
 	
 <script type="text/javascript">var vbnfgha = '211626'; var ertdfga = '13739-bup-ac'; var qhyuioa = '53938'; var AdClientID = qhyuioa + vbnfgha + ertdfga; AdClientID = AdClientID.split("").reverse().join("");</script>
@@ -96,17 +122,21 @@
 <!-- End IMS --> 
 
 	
+	<!-- ManyChat -->
+<script src="//widget.manychat.com/1450892295227696.js" async="async">
+</script>
+	
 </head>
 <body>
 <div id="wrap">
 
 <!-- Start MarketBeat Modern Popup -->
 <link rel="stylesheet" type="text/css" media="all" href="https://www.marketbeat.com/scripts/modal/modernpopup.css?v=11">
-<script type="text/javascript" src="https://www.marketbeat.com/scripts/modal/modernpopup.js?v=18"></script>
+<script type="text/javascript" src="https://www.marketbeat.com/scripts/modal/modernpopup.js?v=29"></script>
 <script>
 	    if (Notification.permission == "denied") { showsecondarynotifications('WKRB News', 'https://marketbeat.com/images/webpush/web-push-wkrb.png');}
 </script>
-	<script type="text/javascript">LoadPopupRatings('ModernNonMarketsPopup-WKRB News', '');</script>
+	<script type="text/javascript">LoadPopupRatings('ModernNonMarketsPopup-WKRB News', 'wkrb13.com');</script>
 <!-- End MarketBeat Modern Popup -->
 
 <header>
@@ -175,7 +205,7 @@ google_ad_channel="9246755130,8569953935"</script>
 <h2>Special Note About Google Advertising</h2>
 <p>Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to <a href="http://www.google.com/privacy_ads.html">opt out of Google's cookie usage</a>. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies. </p>
 <h2>Contact Information</h2>
-<p>Concerns or questions about this privacy policy can be directed to <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="284b47465c494b5c6845495a434d5c4a4d495c064b4745">[email&nbsp;protected]</a> for further clarification.</p>
+<p>Concerns or questions about this privacy policy can be directed to contact@marketbeat.com for further clarification.</p>
 <p>This privacy policy was generated by the <a target="_blank" href="http://cybec.com/privacy-policy-plugin-for-wordpress/">Privacy Policy for WordPress</a> plugin.</p>
 <p></p>
 				<!-- end main text -->
@@ -187,11 +217,12 @@ google_ad_channel="9246755130,8569953935"</script>
 													</article>
 		</main> <!-- end main -->
 <aside>
+	
 <!-- Begin Dianomi Unit -->
 <iframe width="336" height="670" scrolling="NO" src="//www.dianomi.com/smartads.epl?id=3356" style="width: 336px; border: none; overflow: hidden;"></iframe>
 	
 <div class="ad336x280" style="width:336px;height:280px">
-	<script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+	<script type="text/javascript">
  google_ad_client = AdClientID;
  /* WKRB */
     google_ad_slot = "4633681535";
@@ -253,26 +284,26 @@ Follow @WKRBNews</a>
         <div>
         <h3>Recent Posts</h3>
             <ul>
-                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/06/19/somewhat-positive-press-coverage-somewhat-unlikely-to-affect-sunworks-sunw-stock-price.html">Somewhat Positive Press Coverage Somewhat Unlikely to Affect Sunworks (SUNW) Stock Price</a></li>
-                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/06/19/interlink-electronics-link-given-news-impact-rating-of-0-03.html">Interlink Electronics (LINK) Given News Impact Rating of -0.03</a></li>
-                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/06/19/somewhat-positive-media-coverage-somewhat-unlikely-to-affect-charles-colvard-ltd-cthr-share-price.html">Somewhat Positive Media Coverage Somewhat Unlikely to Affect Charles &amp; Colvard, Ltd. (CTHR) Share Price</a></li>
-                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/06/19/descartes-systems-group-dsgx-sets-new-52-week-high-at-31-60.html">Descartes Systems Group (DSGX) Sets New 52-Week High at $31.60</a></li>
-                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/06/19/seadrill-sdrl-shares-gap-down-to-0-42.html">Seadrill (SDRL) Shares Gap Down to $0.42</a></li>
-                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/06/19/0-04-eps-expected-for-capital-product-partners-l-p-cplp-this-quarter.html">$0.04 EPS Expected for Capital Product Partners L.P. (CPLP) This Quarter</a></li>
-                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/06/19/609-60-million-in-sales-expected-for-cott-corp-cot-this-quarter.html">$609.60 Million in Sales Expected for Cott Corp (COT) This Quarter</a></li>
-                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/06/19/496-30-million-in-sales-expected-for-nuance-communications-inc-nuan-this-quarter.html">$496.30 Million in Sales Expected for Nuance Communications Inc. (NUAN) This Quarter</a></li>
-                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/06/19/starbase-24-hour-trading-volume-hits-10004-00-star.html">Starbase 24 Hour Trading Volume Hits $10,004.00 (STAR)</a></li>
-                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/06/19/kubera-coin-kbr-trading-0-2-lower-over-last-week.html">Kubera Coin (KBR)  Trading 0.2% Lower  Over Last Week</a></li>
-                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/06/19/essentra-flraf-versus-newell-brands-nwl-head-to-head-survey.html">Essentra (FLRAF) versus Newell Brands (NWL) Head-To-Head Survey</a></li>
-                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/06/19/brokerages-anticipate-peoples-bancorp-inc-pebo-will-post-quarterly-sales-of-46-56-million.html">Brokerages Anticipate Peoples Bancorp Inc. (PEBO) Will Post Quarterly Sales of $46.56 Million</a></li>
-                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/06/19/yrc-worldwide-yrcw-versus-celadon-group-cgi-head-to-head-survey.html">YRC Worldwide (YRCW) versus Celadon Group (CGI) Head to Head Survey</a></li>
-                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/06/19/corindus-vascular-robotics-cvrs-shares-down-13-5.html">Corindus Vascular Robotics (CVRS)  Shares Down 13.5%</a></li>
-                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/06/19/iconix-brand-group-icon-shares-down-9-6.html">Iconix Brand Group (ICON)  Shares Down 9.6%</a></li>
-                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/06/19/0-33-earnings-per-share-expected-for-shell-midstream-partners-lp-shlx-this-quarter.html">$0.33 Earnings Per Share Expected for Shell Midstream Partners LP (SHLX) This Quarter</a></li>
-                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/06/19/oncobiologics-ons-earning-somewhat-favorable-press-coverage-report-shows.html">Oncobiologics (ONS) Earning Somewhat Favorable Press Coverage, Report Shows</a></li>
-                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/06/19/radisys-rsys-earns-daily-news-impact-score-of-0-07.html">RadiSys (RSYS) Earns Daily News Impact Score of 0.07</a></li>
-                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/06/19/atyr-pharma-life-receives-news-sentiment-score-of-0-17.html">aTyr Pharma (LIFE) Receives News Sentiment Score of 0.17</a></li>
-                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/06/19/safe-exchange-coin-safex-1-day-volume-hits-26462-00.html">Safe Exchange Coin (SAFEX) 1-Day Volume Hits $26,462.00</a></li>
+                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/09/08/take-two-interactive-software-inc-common-stock-ttwo-shares-bought-by-standard-life-aberdeen-plc.html">TAKE-TWO INTERACTIVE SOFTWARE, INC Common Stock (TTWO) Shares Bought by Standard Life Aberdeen plc</a></li>
+                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/09/08/hormel-foods-corp-hrl-holdings-trimmed-by-standard-life-aberdeen-plc.html">Hormel Foods Corp (HRL) Holdings Trimmed by Standard Life Aberdeen plc</a></li>
+                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/09/08/standard-life-aberdeen-plc-boosts-holdings-in-cadence-design-systems-inc-cdns.html">Standard Life Aberdeen plc Boosts Holdings in Cadence Design Systems Inc (CDNS)</a></li>
+                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/09/08/insider-buying-synchronoss-technologies-inc-sncr-director-purchases-96152-shares-of-stock.html">Insider Buying: Synchronoss Technologies, Inc. (SNCR) Director Purchases 96,152 Shares of Stock</a></li>
+                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/09/08/rapid7-inc-rpd-coo-sells-601920-00-in-stock.html">Rapid7 Inc (RPD) COO Sells $601,920.00 in Stock</a></li>
+                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/09/08/cadence-design-systems-inc-cdns-expected-to-post-earnings-of-0-41-per-share.html">Cadence Design Systems Inc (CDNS) Expected to Post Earnings of $0.41 Per Share</a></li>
+                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/09/08/accelerate-diagnostics-axdx-upgraded-at-bidaskclub.html">Accelerate Diagnostics (AXDX) Upgraded at BidaskClub</a></li>
+                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/09/08/wedbush-reiterates-neutral-rating-for-ansys-anss.html">Wedbush Reiterates “Neutral” Rating for ANSYS (ANSS)</a></li>
+                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/09/08/allscripts-healthcare-solutions-mdrx-upgraded-to-b-by-thestreet.html">Allscripts Healthcare Solutions (MDRX) Upgraded to B- by TheStreet</a></li>
+                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/09/08/ryder-system-r-receives-new-coverage-from-analysts-at-deutsche-bank.html">Ryder System (R) Receives New Coverage from Analysts at Deutsche Bank</a></li>
+                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/09/08/barrington-research-reiterates-61-00-price-target-for-koppers-kop.html">Barrington Research Reiterates “$61.00” Price Target for Koppers (KOP)</a></li>
+                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/09/08/arcelormittal-mt-upgraded-to-strong-buy-by-zacks-investment-research.html">ArcelorMittal (MT) Upgraded to Strong-Buy by Zacks Investment Research</a></li>
+                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/09/08/akorn-akrx-stock-rating-upgraded-by-bidaskclub.html">Akorn (AKRX) Stock Rating Upgraded by BidaskClub</a></li>
+                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/09/08/brokerages-anticipate-terex-co-tex-will-announce-earnings-of-0-73-per-share.html">Brokerages Anticipate Terex Co. (TEX) Will Announce Earnings of $0.73 Per Share</a></li>
+                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/09/08/mandalay-resources-mnd-sets-new-52-week-low-at-0-15.html">Mandalay Resources (MND) Sets New 52-Week Low at $0.15</a></li>
+                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/09/08/noble-midstream-partners-nblx-hits-new-12-month-low-at-41-76.html">Noble Midstream Partners (NBLX) Hits New 12-Month Low at $41.76</a></li>
+                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/09/08/900-shares-in-vail-resorts-inc-mtn-acquired-by-numerixs-investment-technologies-inc.html">900 Shares in Vail Resorts, Inc. (MTN) Acquired by NumerixS Investment Technologies Inc</a></li>
+                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/09/08/15500-shares-in-dynavax-technologies-co-dvax-acquired-by-numerixs-investment-technologies-inc.html">15,500 Shares in Dynavax Technologies Co. (DVAX) Acquired by NumerixS Investment Technologies Inc</a></li>
+                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/09/08/cabot-microelectronics-co-ccmp-holdings-reduced-by-federated-investors-inc-pa.html">Cabot Microelectronics Co. (CCMP) Holdings Reduced by Federated Investors Inc. PA</a></li>
+                        <li class="recent-posts"><a href="https://www.wkrb13.com/2018/09/08/planet-fitness-inc-plnt-shares-bought-by-numerixs-investment-technologies-inc.html">Planet Fitness Inc (PLNT) Shares Bought by NumerixS Investment Technologies Inc</a></li>
                         </ul>
         </div>  
 
@@ -295,7 +326,7 @@ Follow @WKRBNews</a>
 				</div><!-- end #footer-info -->
 			</div>	
 		</footer>
-		<script type="text/javascript" src="https://www.wkrb13.com/wp-includes/js/wp-embed.min.js?ver=4.9.6"></script>
+		<script type="text/javascript" src="https://www.wkrb13.com/wp-includes/js/wp-embed.min.js?ver=4.9.8"></script>
 
 <!-- Start of StatCounter Code for WKRB -->
 <script type="text/javascript">
@@ -326,7 +357,7 @@ var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "
 	<!-- End Social Sharing -->
 
 <!-- Begin Internal Tracking Pixel 2 -->
-<script type="text/javascript">document.write('<img src="https://www.american' + 'consumernews.net/scripts/viewcount.ashx?ArticleHistoryID=20431724&PostDate=2018-6-18&type=x&id=147996&domain=www.wkrb13.com&referrer=' + encodeURIComponent(document.referrer) + '" />');</script><img src="https://www.americanconsumernews.net/scripts/viewcount.ashx?ArticleHistoryID=20431724&amp;PostDate=2018-6-18&amp;type=x&amp;id=147996&amp;domain=www.wkrb13.com&amp;referrer=">
+<script type="text/javascript">document.write('<img src="https://www.american' + 'consumernews.net/scripts/viewcount.ashx?ArticleHistoryID=23990583&PostDate=2018-9-8&type=f&id=3958718&domain=www.wkrb13.com&referrer=' + encodeURIComponent(document.referrer) + '" />');</script><img src="https://www.americanconsumernews.net/scripts/viewcount.ashx?ArticleHistoryID=23990583&amp;PostDate=2018-9-8&amp;type=f&amp;id=3958718&amp;domain=www.wkrb13.com&amp;referrer=">
 <!-- End Internal Tracking Pixel 2-->
 
 <!-- Start of StatCounter Code for Updated Articles -->
