@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the send2press.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126104343id_/https%3A//www.send2press.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the send2press.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908201843id_/https%3A//www.send2press.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement for Send2Press Newswire, a service of Neotrope
 
@@ -6,7 +6,7 @@ The following privacy statement applies to all Neotrope® online properties, and
 
 Neotrope® and Send2Press® (Send2Press.com) have created this privacy statement to explain our commitment to your privacy. We seek to protect your private information so that you have an enjoyable shopping and viewing experience on our Web site. We will not sell, rent, trade, or disclose your personally identifiable information to anyone except as explained in this policy. This policy is believed to meet all local, state and Federal privacy laws and guidelines of the U.S.A. currently in place as of its writing, and is believed to meet the minimum requirements for the European Union, and Canada, but may not meet the requirements for other countries. 
 
-You may wish to review this policy annually, as it may be updated each January, or as industry and/or legal standards require it. This page was last updated on: February 01, 2016. 
+You may wish to review this policy annually, as it may be updated each January, or as industry and/or legal standards require it. This page was last updated on: May 06, 2018. 
 
 ## **Personally Identifiable Information**
 
@@ -112,15 +112,27 @@ This privacy policy was originally posted in 1997 on our Mindset Communications 
 
 ## **Effective Date**
 
-**This current privacy policy's _effective date_ will be considered Dec. 1, 2015 for purposes of California's 2004 privacy provisions, or any other government entity's privacy provisions.**   
+**This current privacy policy's _effective date_ will be considered Jan. 1, 2018 for purposes of California's 2004 privacy provisions, or any other government entity's privacy provisions.**   
  
 
 **Questions or Comments**  
-Please direct questions, comments and suggestions regarding this statement to the Privacy Manager, Neotrope/Send2Press, PMB 822 PO Box 7000, Redondo Beach, CA 90277-8710. You can also e-mail the Privacy Manager at _help [at] send2press.com_ , and state specifically you are inquiring about our privacy statement.
+Please direct questions, comments and suggestions regarding this statement to the Privacy Manager, Neotrope/Send2Press, 4332 W. 230th Street, Torrance, CA 90505. You can also e-mail the Privacy Manager at _help [at] send2press.com_ , and state specifically you are inquiring about our privacy statement.
 
 For questions about our product/services, please see the navigation found at top and bottom of each page of this site. 
+
+## **EU Customers GDPR Notice**
+
+For our friends from the European Union (EU), please note that we do not have an automated method for you to delete any content or "account" on our website. However, to comply with GDPR, we have the following options for European customers:
+
+  * If your personal information is found in a press release you have issued, you may at any time request that the release be removed from our main site, with the understanding it will not be removed anywhere else on the internet (and we cannot assist you with that).
+  * To download your order history, simply [log-in to your store account](https://www.send2press.com/store/my-account/) and use the _Save as PDF_ option for each order. We cannot do this for you.
+  * To delete your "store" account in our system, you may request we delete your store account via email to our main help[at]send2press.com email account. Once deleted no future coupons or promotions may be used and no order history will be available online.
+  * For U.S. tax and accounting purposes, we must keep a permanent record of all client orders and purchase history. These accounting records, which include no credit card data, are kept offline on compressed and encrypted secure media per our PCI-DSS Compliance. This data will not be deleted, even on request.
+
+  
+
 
 ## **Copyright Notice**
 
 **Important Copyright Notice**  
-This privacy policy is unique to Neotrope/Send2Press and contains original and specific sections, and may not be copied, cloned, used as a basis for another site's privacy policy, or mis-represented as part of Neotrope in any way. Copr. © 1997 - 2017 by Neotrope® — ALL RIGHTS RESERVED. 
+This privacy policy is unique to Neotrope/Send2Press and contains original and specific sections, and may not be copied, cloned, used as a basis for another site's privacy policy, or mis-represented as part of Neotrope in any way. Copr. © 1997 - 2018 by Neotrope® — ALL RIGHTS RESERVED. 
