@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stocksnap.io privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513223813id_/https%3A//stocksnap.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stocksnap.io privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908232046id_/https%3A//stocksnap.io/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Stocksnap
 
-Nosco Media Inc. (hereinafter referred to as "StockSnap") has created this Privacy Policy in order to demonstrate our firm commitment to help our users better understand what information we collect about them and what may happen to that information. The following discloses our information gathering and dissemination practices.
+StockSnap has created this Privacy Policy in order to demonstrate our firm commitment to help our users better understand what information we collect about them and what may happen to that information. The following discloses our information gathering and dissemination practices.
 
 By accepting this Privacy Policy you expressly consent to our use and disclosure of your personal information in the manner prescribed in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of StockSnap’s Terms and Conditions. Subject to the requirements of applicable law, we strive to provide a consistent set of privacy practices.
 
