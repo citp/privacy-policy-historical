@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityofws.org privacy policy that was archived on 2017-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170715095059id_/http%3A//cityofws.org/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityofws.org privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908065552id_/http%3A//www.cityofws.org/Privacy) for the most accurate reproduction.*
 
 # City of Winston-Salem | Home
 
