@@ -1,18 +1,155 @@
-<!--The following is the downloaded HTML source of the the-citizenry.com privacy policy that was archived on 2017-02-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170215230427id_/https%3A//www.the-citizenry.com/pages/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the the-citizenry.com privacy policy that was archived on 2018-09-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180908083405id_/https%3A//www.the-citizenry.com/pages/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="init no-js"><head>
+<!DOCTYPE html><html class="init no-js async-hide"><head>
+  <style>.initH{opacity:0}</style>
+
+
+<link href="//cdn.shopify.com/s/files/1/0438/1069/t/64/assets/fonts.scss.css?17229324992272953629" rel="stylesheet" type="text/css" media="all">
+<link href="//cdn.shopify.com/s/files/1/0438/1069/t/64/assets/app-min.css?17229324992272953629" rel="stylesheet" type="text/css" media="all">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link href="//cdn.shopify.com/s/files/1/0438/1069/t/64/assets/findify.scss.css?17229324992272953629" rel="stylesheet" type="text/css" media="all">
+
+
+
+
+
+
+
+
+
+  <script type="text/javascript" async="" src="//productreviews.shopifycdn.com/assets/v4/spr.js?shop=the-citizenry.myshopify.com"></script><script type="text/javascript" async="" src="https://cdn.swellrewards.com/loader/EPojJfZwJvMm1CmFkA9lVg.js?shop=the-citizenry.myshopify.com"></script><script type="text/javascript" async="" src="https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2017.09.05.1"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MW893QN"></script><script src="//cdn.shopify.com/s/files/1/0438/1069/t/64/assets/jquery.min.js?17229324992272953629" type="text/javascript"></script>
+
+
+<script>
+
+	// // Helpers
+	// function loadScript(src,attr,attrVal) {
+	//     return new Promise(function (resolve, reject) {
+	//         var s;
+	//         s = document.createElement('script');
+	//         s.src = src;
+	//         if(attr) {
+	//         	s.setAttribute(attr, attrVal);
+	//         }
+	//         s.onload = resolve;
+	//         s.onerror = reject;
+	//         document.head.appendChild(s);
+	//     });
+	// }
+
+	$(function(){
+		// IP API Settings:
+		var requestUrl = 'https://api.ipstack.com/check',
+	        accessKey = 'b72c21c26cf52edf622e841d7b29fd73',
+	        usa_code = 'US';
+
+		
+		jQuery.ajax( {
+			url: requestUrl+'?access_key='+accessKey,
+			type: 'POST',
+			dataType: 'jsonp',
+			success: function(location) {
+
+				// // Add Cookiebot for Non-US Res.
+				// if(location.country_code !== 'US') {
+				// 	var cookiebotScriptSrc = 'https://consent.cookiebot.com/uc.js',
+				// 		cookiebotDataAttr = 'data-cbid',
+				// 		cookiebotDataAttrVal = '83412875-d1a4-422d-b28e-e7c521bb1fc9',
+				// 		successCallback = function(){
+				// 			console.log('success!');
+				// 		},
+				// 		failureCallback = function(){
+				// 			console.log('failed!');
+				// 		}
+
+				// 	loadScript(cookiebotScriptSrc,cookiebotDataAttr,cookiebotDataAttrVal)
+				//     .then(successCallback, failureCallback);
+			 //    } 
+
+				// Localized Alert:
+				
+						var siteBanner_container = $('#main-menu__free-shipping--newNav'),
+								mainMenuUtilityNav_container = $('.site-header__top-utility-menu'),
+								shipNoteMsg_banner = 'FREE U.S. SHIPPING & RETURNS - ALWAYS';
+				  	if(location.country_code == 'US') {
+					    	siteBanner_container.html('<li>'+shipNoteMsg_banner+'</li>');
+				    } else {
+			        	mainMenuUtilityNav_container.addClass('outside_usa');
+				    }
+		    
+
+		    // Localized Waitlist Opt-In
+		    
+			}
+		});
+		
+	})
+</script>
+
+
+
+
+
+<script>
+  var showToaster;
+</script>
+<style>
+  #main-slider,
+  .hide-grid {
+    opacity:0;
+  }
+  #main-slider, #collection {transition: opacity 300ms ease-in-out;}
+  
+  #main-slider.rsWithBullets {opacity: 1;}
+</style>
+
+
+
   <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1' /><![endif]-->
-<meta content="width=device-width, initial-scale=1" name="viewport">
-<link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/0438/1069/t/39/assets/favicon.png?9112393443200147866" type="image/png">
+<meta content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0" name="viewport">
+<link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/0438/1069/t/64/assets/favicon.png?17229324992272953629" type="image/png">
 <link rel="canonical" href="https://www.the-citizenry.com/pages/privacy-policy">
-<title>The Citizenry |
-Privacy Policy   – The Citizenry
+<title>Privacy Policy   – The Citizenry
 </title>
+<meta name="description" content="Welcome. We partner with artisans to create modern goods for the well-traveled home.">
+<meta name="msvalidate.01" content="9CBFBE701C0F8AC76479A5AFCFD23CE4">
 
-<meta name="google-site-verification" content="C9lpttn-FN_EdNZLRwkU81Scfc3CyelZReSr6Bq5d3Y">
+
+
+
+
+
+
 
   
   <meta property="og:url" content="https://www.the-citizenry.com/pages/privacy-policy">
@@ -22,156 +159,208 @@ Privacy Policy   – The Citizenry
 
 
 
-  
-<link href="//cdn.shopify.com/s/files/1/0438/1069/t/39/assets/app.css?9112393443200147866" rel="stylesheet" type="text/css" media="all">
-
-  <script type="text/javascript" async="" src="https://cdn.swellrewards.com/loader/EPojJfZwJvMm1CmFkA9lVg.js?shop=the-citizenry.myshopify.com"></script><script type="text/javascript" async="" src="https://dow068lag04cv.cloudfront.net/10579-f18d5e72d87cf7e25f96219134dcb76a.js?shop=the-citizenry.myshopify.com"></script><script type="text/javascript" async="" src="https://a.klaviyo.com/media/js/analytics/analytics.js"></script><script type="text/javascript" async="" src="https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2017.02.14.1"></script><script type="text/javascript" async="" src="//cdn.shopify.com/s/javascripts/shopify_stats.js?v=6"></script><script src="//cdn.shopify.com/s/files/1/0438/1069/t/39/assets/jquery.min.js?9112393443200147866" type="text/javascript"></script>
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MW893QN');</script>
+<!-- End Google Tag Manager --> 
 
   <meta name="google-site-verification" content="C9lpttn-FN_EdNZLRwkU81Scfc3CyelZReSr6Bq5d3Y">
-  <!-- Hotjar Tracking Code for https://www.the-citizenry.com/ -->
-<script>
-    (function(h,o,t,j,a,r){
-        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-        h._hjSettings={hjid:288885,hjsv:5};
-        a=o.getElementsByTagName('head')[0];
-        r=o.createElement('script');r.async=1;
-        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-        a.appendChild(r);
-    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
-</script><script async="" src="//static.hotjar.com/c/hotjar-288885.js?sv=5"></script>
+<meta name="google-site-verification" content="g44SUz7ADm1uw2lfHSi60E0kZSaDGZj40yWsM1hkoOs">
 
-  <script>
-//<![CDATA[
-      var Shopify = Shopify || {};
-      Shopify.shop = "the-citizenry.myshopify.com";
-      Shopify.theme = {"name":"DPLY Live","id":64996293,"theme_store_id":null,"role":"main"};
-      Shopify.theme.handle = 'null';
-      Shopify.theme.style = {"id":null,"handle":null};
+  <style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-MHCJ76J':true});</script>
 
-//]]>
+  <meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/4381069/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="4bbb188f6a30f1694ef764918bb7f47b">
+<meta id="in-context-paypal-metadata" data-shop-id="4381069" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="USD">
+<meta id="amazon-payments-metadata" data-amazon-payments="true" data-amazon-payments-seller-id="ARKTQ9OU61EQR" data-amazon-payments-callback-url="https://www.the-citizenry.com/4381069/amazon_payments/callback" data-amazon-payments-sandbox-mode="false" data-amazon-payments-client-id="amzn1.application-oa2-client.9318942ca3d542cdbad8b8dec3aba50c" data-amazon-payments-region="US" data-amazon-payments-language="en-US" data-amazon-payments-widget-library-url="https://static-na.payments-amazon.com/OffAmazonPayments/us/js/Widgets.js">
+<style media="all">.additional-checkout-button{border:0 !important;border-radius:5px !important;display:inline-block;margin:0 0 10px;padding:0 24px !important;max-width:100%;min-width:150px !important;line-height:44px !important;text-align:center !important}.additional-checkout-button+.additional-checkout-button{margin-left:10px}.additional-checkout-button:last-child{margin-bottom:0}.additional-checkout-button span{font-size:14px !important}.additional-checkout-button img{display:inline-block !important;height:1.3em !important;margin:0 !important;vertical-align:middle !important;width:auto !important}@media (max-width: 500px){.additional-checkout-button{display:block;margin-left:0 !important;padding:0 10px !important;width:100%}}.additional-checkout-button--apple-pay{background-color:#000 !important;color:#fff !important;display:none;font-family:-apple-system, &#39;Helvetica Neue&#39;, sans-serif !important;min-width:150px !important;white-space:nowrap !important}.additional-checkout-button--apple-pay:hover,.additional-checkout-button--apple-pay:active,.additional-checkout-button--apple-pay:visited{color:#fff !important;text-decoration:none !important}.additional-checkout-button--apple-pay .additional-checkout-button__logo{background:-webkit-named-image(apple-pay-logo-white) center center no-repeat !important;background-size:auto 100% !important;display:inline-block !important;vertical-align:middle !important;width:3em !important;height:1.3em !important}@media (max-width: 500px){.additional-checkout-button--apple-pay{display:none}}.additional-checkout-button--google-pay{line-height:0 !important;padding:0 !important;border-radius:unset !important;width:80px !important}@media (max-width: 500px){.additional-checkout-button--google-pay{width:100% !important}}.gpay-iframe{height:44px !important;width:100%  !important;cursor:pointer;vertical-align:middle !important}.additional-checkout-button--paypal-express{background-color:#ffc439 !important}.additional-checkout-button--paypal{vertical-align:top;line-height:0 !important;padding:0 !important}.additional-checkout-button--amazon{background-color:#fad676 !important;position:relative !important}.additional-checkout-button--amazon .additional-checkout-button__logo{-webkit-transform:translateY(4px) !important;transform:translateY(4px) !important}.additional-checkout-button--amazon .alt-payment-list-amazon-button-image{max-height:none !important;opacity:0 !important;position:absolute !important;top:0 !important;left:0 !important;width:100% !important;height:100% !important}.additional-checkout-button-visually-hidden{border:0 !important;clip:rect(0, 0, 0, 0) !important;clip:rect(0 0 0 0) !important;width:1px !important;height:1px !important;margin:-2px !important;overflow:hidden !important;padding:0 !important;position:absolute !important}
+</style>
+<style>.shopify-payment-button__button--hidden {
+  visibility: hidden;
+}
+
+.shopify-payment-button__button {
+  border-radius: 4px;
+  border: none;
+  box-shadow: 0 0 0 0 transparent;
+  color: white;
+  cursor: pointer;
+  display: block;
+  font-size: 1em;
+  font-weight: 500;
+  line-height: 1;
+  text-align: center;
+  width: 100%;
+  transition: background 0.2s ease-in-out;
+}
+
+.shopify-payment-button__button[disabled] {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.shopify-payment-button__button--unbranded {
+  background-color: #1990c6;
+  padding: 1em 2em;
+}
+
+.shopify-payment-button__button--unbranded:hover:not([disabled]) {
+  background-color: #136f99;
+}
+
+.shopify-payment-button__more-options {
+  background: transparent;
+  border: 0 none;
+  cursor: pointer;
+  display: block;
+  font-size: 1em;
+  margin-top: 1em;
+  text-align: center;
+  width: 100%;
+}
+
+.shopify-payment-button__more-options:hover:not([disabled]) {
+  text-decoration: underline;
+}
+
+.shopify-payment-button__more-options[disabled] {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.shopify-payment-button__button--branded {
+  display: flex;
+  flex-direction: column;
+  min-height: 44px;
+  position: relative;
+  z-index: 1;
+}
+
+.shopify-payment-button__button--branded .shopify-cleanslate {
+  flex: 1 !important;
+  display: flex !important;
+  flex-direction: column !important;
+}
+</style>
+<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":4381069,"countryCode":"US","currencyCode":"USD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/4381069","merchantName":"The Citizenry","requiredBillingContactFields":["postalAddress","email","phone"],"requiredShippingContactFields":["postalAddress","email","phone"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex","discover"],"total":{"type":"pending","label":"The Citizenry","amount":"1.00"}}</script>
+<script id="shopify-features" type="application/json">{"accessToken":"4bbb188f6a30f1694ef764918bb7f47b","betas":[],"domain":"www.the-citizenry.com","shopId":4381069,"smart_payment_buttons_url":"https:\/\/cdn.shopifycloud.com\/payment-sheet\/assets\/latest\/spb.js"}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "the-citizenry.myshopify.com";
+Shopify.currency = {"active":"USD"};
+Shopify.theme = {"name":"Live (master)","id":159316873,"theme_store_id":null,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};</script>
+<script>window.ShopifyPay = window.ShopifyPay || {};
+window.ShopifyPay.canMakeAcceleratedPurchase = false;</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["https:\/\/cdn.swellrewards.com\/loader\/EPojJfZwJvMm1CmFkA9lVg.js?shop=the-citizenry.myshopify.com","\/\/productreviews.shopifycdn.com\/assets\/v4\/spr.js?shop=the-citizenry.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":4381069,"offset":-14400,"reqid":"c5c63edb-cdc7-4f6e-b753-f4b6b8ddf598","pageurl":"www.the-citizenry.com\/pages\/privacy-policy","s":"pages-16918017","u":"eeb0dcddaf1e","p":"page","rtyp":"page","rid":16918017};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>window.Shopify = window.Shopify || {};
+window.Shopify.Checkout = window.Shopify.Checkout || {};
+window.Shopify.Checkout.apiHost = "the-citizenry.myshopify.com";</script>
+<script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'USD';
+var meta = {"page":{"pageType":"page","resourceType":"page","resourceId":16918017}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  ga('require', 'linkid');
+ga('require', 'GTM-MHCJ76J');
+ga('set', '&uid', __st["cid"]);
+};
 </script>
+<script class="analytics">(window.gaDevIds=window.gaDevIds||[]).push('BwiEti');
 
 
-<script>
-//<![CDATA[
-    (function() {
-      function asyncLoad() {
-        var urls = ["https:\/\/dow068lag04cv.cloudfront.net\/10579-f18d5e72d87cf7e25f96219134dcb76a.js?shop=the-citizenry.myshopify.com","https:\/\/cdn.swellrewards.com\/loader\/EPojJfZwJvMm1CmFkA9lVg.js?shop=the-citizenry.myshopify.com"];
-        for (var i = 0; i < urls.length; i++) {
-          var s = document.createElement('script');
-          s.type = 'text/javascript';
-          s.async = true;
-          s.src = urls[i];
-          var x = document.getElementsByTagName('script')[0];
-          x.parentNode.insertBefore(s, x);
-        }
-      }
-      window.attachEvent ? window.attachEvent('onload', asyncLoad) : window.addEventListener('load', asyncLoad, false);
-    })();
+(function () {
+  var customDocumentWrite = function(content) {
+    var jquery = null;
 
-//]]>
-</script>
-<script id="__st">
-//<![CDATA[
-var __st={"a":4381069,"offset":-18000,"reqid":"042a8957-af08-49f1-a614-d5d5a6925a84","pageurl":"www.the-citizenry.com\/pages\/privacy-policy","s":"pages-16918017","u":"eae3afbdd65a","p":"page","rtyp":"page","rid":16918017};
-//]]>
-</script>
-<script>
-//<![CDATA[
-      (function() {
-        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
-        s.src = '//cdn.shopify.com/s/javascripts/shopify_stats.js?v=6';
-        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
-      })();
+    if (window.jQuery) {
+      jquery = window.jQuery;
+    } else if (window.Checkout && window.Checkout.$) {
+      jquery = window.Checkout.$;
+    }
 
-//]]>
-</script>
-<meta id="shopify-digital-wallet" data-iframe-url="/4381069/digital_wallets/dialog">
-<script src="//cdn.shopify.com/s/assets/themes_support/ga_urchin_forms-668547562549a84f5dfa01ef82607987f85ecbe1c8301faf25059becfa208199.js" defer="defer"></script>
-      <script type="text/javascript">
-        
-      window.ShopifyAnalytics = window.ShopifyAnalytics || {};
-      window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
-      window.ShopifyAnalytics.meta.currency = 'USD';
-      var meta = {};
-      for (var attr in meta) {
-        window.ShopifyAnalytics.meta[attr] = meta[attr];
-      }
+    if (jquery) {
+      jquery('body').append(content);
+    }
+  };
+
+  var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+  if (trekkie.integrations) {
+    return;
+  }
+  trekkie.methods = [
+    'identify',
+    'page',
+    'ready',
+    'track',
+    'trackForm',
+    'trackLink'
+  ];
+  trekkie.factory = function(method) {
+    return function() {
+      var args = Array.prototype.slice.call(arguments);
+      args.unshift(method);
+      trekkie.push(args);
+      return trekkie;
+    };
+  };
+  for (var i = 0; i < trekkie.methods.length; i++) {
+    var key = trekkie.methods[i];
+    trekkie[key] = trekkie.factory(key);
+  }
+  trekkie.load = function(config) {
+    trekkie.config = config;
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.onerror = function(e) {
+      (new Image()).src = '//v.shopify.com/internal_errors/track?error=trekkie_load';
+    };
+    script.async = true;
+    script.src = 'https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2017.09.05.1';
+    var first = document.getElementsByTagName('script')[0];
+    first.parentNode.insertBefore(script, first);
+  };
+  trekkie.load(
+    {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":4381069,"isMerchantRequest":null,"themeId":159316873,"themeCityHash":15001720876343083106}},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":1.0},"Google Analytics":{"trackingId":"UA-52146952-1","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true},"Facebook Pixel":{"pixelIds":["723190027785511"],"agent":"plshopify1.2"},"Session Attribution":{}}
+  );
+
+  var loaded = false;
+  trekkie.ready(function() {
+    if (loaded) return;
+    loaded = true;
+
+    window.ShopifyAnalytics.lib = window.trekkie;
     
-      </script>
-
-      <script type="text/javascript">
-        window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
-          ga('require', 'linkid');
-        };
-      </script>
-
-      <script type="text/javascript" class="analytics">
-        (window.gaDevIds=window.gaDevIds||[]).push('BwiEti');
-        
-
-        (function () {
-          var customDocumentWrite = function(content) {
-            var jquery = null;
-
-            if (window.jQuery) {
-              jquery = window.jQuery;
-            } else if (window.Checkout && window.Checkout.$) {
-              jquery = window.Checkout.$;
-            }
-
-            if (jquery) {
-              jquery('body').append(content);
-            }
-          };
-
-          var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
-          if (trekkie.integrations) {
-            return;
-          }
-          trekkie.methods = [
-            'identify',
-            'page',
-            'ready',
-            'track',
-            'trackForm',
-            'trackLink'
-          ];
-          trekkie.factory = function(method) {
-            return function() {
-              var args = Array.prototype.slice.call(arguments);
-              args.unshift(method);
-              trekkie.push(args);
-              return trekkie;
-            };
-          };
-          for (var i = 0; i < trekkie.methods.length; i++) {
-            var key = trekkie.methods[i];
-            trekkie[key] = trekkie.factory(key);
-          }
-          trekkie.load = function(config) {
-            trekkie.config = config;
-            var script = document.createElement('script');
-            script.type = 'text/javascript';
-            script.onerror = function(e) {
-              (new Image()).src = '//v.shopify.com/internal_errors/track?error=trekkie_load';
-            };
-            script.async = true;
-            script.src = 'https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2017.02.14.1';
-            var first = document.getElementsByTagName('script')[0];
-            first.parentNode.insertBefore(script, first);
-          };
-          trekkie.load(
-            {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":4381069}},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":0.1},"Google Analytics":{"trackingId":"UA-52146952-1","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true},"Facebook Pixel":{"pixelIds":["723190027785511"],"agent":"plshopify1.2"}}
-          );
-
-          var loaded = false;
-          trekkie.ready(function() {
-            if (loaded) return;
-            loaded = true;
-
-            window.ShopifyAnalytics.lib = window.trekkie;
-            
       ga('require', 'linker');
       function addListener(element, type, callback) {
         if (element.addEventListener) {
@@ -207,293 +396,580 @@ var __st={"a":4381069,"offset":-18000,"reqid":"042a8957-af08-49f1-a614-d5d5a6925
       });
     
 
-            var originalDocumentWrite = document.write;
-            document.write = customDocumentWrite;
-            try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
-            document.write = originalDocumentWrite;
+    var originalDocumentWrite = document.write;
+    document.write = customDocumentWrite;
+    try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+    document.write = originalDocumentWrite;
 
-            
+    
         window.ShopifyAnalytics.lib.page(
           null,
           {"pageType":"page","resourceType":"page","resourceId":16918017}
         );
       
-            
-          });
+    
+  });
 
-          
+  
       var eventsListenerScript = document.createElement('script');
       eventsListenerScript.async = true;
-      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-4e845435421548920fb58bb05f3fd9d8c43b5f09166ad6f568589cf558d53147.js";
+      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-f2c5800305098f0ebebdfa7d980c9abf56514c46d5305e97a7c476f7c9116163.js";
       document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
     
-        })();
-      </script><script async="" src="//cdn.shopify.com/s/assets/shop_events_listener-4e845435421548920fb58bb05f3fd9d8c43b5f09166ad6f568589cf558d53147.js"></script>
-    
-<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":4381069,"countryCode":"US","currencyCode":"USD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/4381069","merchantName":"The Citizenry","requiredBillingContactFields":["postalAddress","email","phone"],"requiredShippingContactFields":["postalAddress","email","phone"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex","discover"]}</script>
-<script src="//cdn.shopify.com/s/assets/storefront/express_buttons-7684654d5db4f15d6f88c096db6c2948dbde7bc7af480da85f6140430d056738.js" defer="defer" crossorigin="anonymous" integrity="sha256-doRlTV208V1viMCW22wpSNvee8evSA2oX2FAQw0FZzg="></script>
+})();</script><script async="" src="//cdn.shopify.com/s/assets/shop_events_listener-f2c5800305098f0ebebdfa7d980c9abf56514c46d5305e97a7c476f7c9116163.js"></script>
+<script defer="defer" integrity="sha256-LxA9If03/QAyD0u+i83z9sifkcZrI6GOqV1MLPQoc98=" crossorigin="anonymous" src="//cdn.shopify.com/s/assets/storefront/express_buttons-2f103d21fd37fd00320f4bbe8bcdf3f6c89f91c66b23a18ea95d4c2cf42873df.js"></script>
+<script defer="defer" integrity="sha256-NfqRkSQwKw0JfNupCky6Zxtoijw8YUA8km/3gYu7kY8=" crossorigin="anonymous" src="//cdn.shopify.com/s/assets/storefront/features-35fa919124302b0d097cdba90a4cba671b688a3c3c61403c926ff7818bbb918f.js"></script>
+<script defer="defer" src="//cdn.shopify.com/s/assets/themes_support/ga_urchin_forms-68ca1924c495cfc55dac65f4853e0c9a395387ffedc8fe58e0f2e677f95d7f23.js"></script>
 
-<meta name="shopify-checkout-api-token" content="4bbb188f6a30f1694ef764918bb7f47b">
-
-<link rel="stylesheet" media="all" href="//cdn.shopify.com/s/assets/storefront/additional-checkout-buttons-e666b0b8a20c90d1eaafcc0f38897f2b4ab8af21f68426b37926e48a2ae452c2.css">
-</head>
+<script type="text/javascript" async="" src="https://d1stxfv94hrhia.cloudfront.net/waves/v2/w.js"></script></head>
 
 <body id="privacy-policy" class="alertOff template-page">
-  <div id="load"></div>
+  
 
-  <div id="top"></div>
-<div class="site-header-wrap">
-  <div class="shift">
+
+  
+  
+
+
+
+<header class="site-header-layout" role="banner">
+	
+	<nav role="navigation" class="site-header__top-utility-menu">
+		<div class="cf top-utility-inner">
+			<ul class="site-header__top-utility-menu__alerts top-utility-menu__list hide_alert" id="main-menu__free-shipping--newNav">
+				
+			</ul>
+			<ul class="site-header__top-utility-menu__links top-utility-menu__list">
+				<li id="main-menu__assistant-phone--newNav">1.866.356.4284</li>
+				
+
+		
+				<li class="divider divider--h"></li>
+				
+	              
+		              <li><a class="" href="/account/login" id="main-menu__my-account-login--newNav">Login</a></li>
+	              
+	            
+			</ul>
+		</div>
+	</nav>
+
+	
+	<section class="site-header__main-menu-wrap">
+		<div class="site-header__main-menu__inner cf">
+			
+			<div class="menu-bar-mb-wrap">
+				<a href="/" class="site-header__logo" id="main-menu__logo--newNav">
+					<img src="//cdn.shopify.com/s/files/1/0438/1069/t/64/assets/logo_424x34.png?17229324992272953629" alt="The Citizenry" width="424" height="34">
+				</a>
+			</div>
+			<nav role="navigation" class="site-header__main-menu__menu-bar">
+
+				
+				<ul class="site-header__main-menu__menu-list" style="display: none">
+
+					
+
+					<li class="site-header__mb-only">
+						<a href="/collections/best-sellers " class="main-menu__top-level-link" id="main-menu__best-sellers--newNav">Best Sellers</a>
+					</li>
+
+					
+					    <li class="site-header__mb-only">
+							<a href="https://www.the-citizenry.com/collections/new-arrivals" class="main-menu__top-level-link" id="main-menu__mobile-custom-link-2--newNav">New Arrivals</a>
+						</li>
+				    
+
+					
+					<li class="main-menu__big-drop shop-drop" data-drop="big-drop">
+						<a href="/collections" class="main-menu__top-level-link main-menu__big-drop__toggle">Shop</a>
+						<div class="main-menu__big-drop_drop big-drop--open-on-mobile">
+							<div class="main-menu__big-drop__drop-inner">
+								<div class="main-menu__big-drop__drop-inner-inner cf">
+									
+									<div class="big-drop__col">
+
+										
+										<div class="big-drop__menu-list site-header__dsk-only" data-drop="small-drop">
+											<div class="small-drop-list-wrap">
+
+												<div class="small-drop-title"><a href="/collections/featured-collections" id="main-menu__shop__featured--newNav"><h5>Featured</h5></a></div> 
+												<ul class="small-drop-list">
+													<li><a href="/collections" id="main-menu__shop__featured-shop-all--newNav">Shop All</a></li>
+
+													
+														<li><a class="main-menu__highlight-link site-header__dsk-only" href="https://www.the-citizenry.com/collections/new-arrivals" id="main-menu__shop__featured-new-arrivals--newNav">New Arrivals</a></li>
+													
+
+													<li><a href="/collections/best-sellers" id="main-menu__shop__featured-best-sellers--newNav">Best Sellers</a></li>
+													<li><a href="/collections/gift-cards/Voucher" id="main-menu__shop__featured-gift-guide--newNav">Gift Cards</a></li>
+
+													
+														<li><a class="site-header__dsk-only" href="https://www.the-citizenry.com/collections/back-in-stock" id="main-menu__shop__featured-quatLink--newNav">Back in Stock</a></li>
+													
+
+
+												</ul>
+											</div>
+										</div>
+										
+										<div class="big-drop__menu-list site-header__dsk-only" data-drop="small-drop">
+											<div class="small-drop-list-wrap">
+
+												<div class="small-drop-title"><a href="/collections/where-weve-been" id="main-menu__shop__country--newNav"><h5>By Country</h5></a></div>
+												<ul class="small-drop-list">
+													<li><a href="/collections/peru" id="main-menu__shop__country-peru--newNav">Peru</a></li>
+													<li><a href="/collections/morocco" id="main-menu__shop__country-morocco--newNav">Morocco</a></li>
+													<li><a href="/collections/chile" id="main-menu__shop__country-argentina--newNav">Chile</a></li>
+													<li><a href="/collections/collection-three-mexico" id="main-menu__shop__country-mexico--newNav">Mexico</a></li>
+
+													<li>
+														<a href="/collections/where-weve-been" class="main-menu-more more-indicator" id="main-menu__shop__country-more--newNav">More</a>
+													</li>
+												</ul>
+											</div>
+										</div>
+									</div>
+
+									
+									<div class="big-drop__col">
+
+										
+										<div class="big-drop__menu-list" data-drop="small-drop">
+											<div class="small-drop-list-wrap">
+												<div class="small-drop-title"><a href="/collections/textiles" id="main-menu__shop__textiles--newNav">
+													<h5 class="site-header__dsk-only">Textiles</h5>
+													<h5 class="site-header__mb-only">Pillows &amp; Blankets</h5>
+												</a></div>
+												<ul class="small-drop-list">
+													<li><a href="/collections/pillows" id="main-menu__shop__textiles-pillows--newNav">Pillows</a></li>
+													<li><a href="/collections/blankets" id="main-menu__shop__textiles-blankets--newNav">Blankets</a></li>
+													<li><a href="/collections/bed-sets" id="main-menu__shop__textiles-bed-sets--newNav">Bed Sets</a></li>
+													<li class="site-header__dsk-only"><a href="/collections/rugs" id="main-menu__shop__textiles-rugs--newNav">Rugs</a></li>
+												</ul>
+											</div>
+										</div>
+
+										<div class="site-header__mb-only single-drop-menu-item">
+											<a href="/collections/rugs" id="main-menu__shop__rugs-mobile--newNav">Rugs</a>
+										</div>
+
+										
+										<div class="big-drop__menu-list" data-drop="small-drop">
+											<div class="small-drop-list-wrap">
+												<div class="small-drop-title"><a href="/collections/decor" id="main-menu__shop__decor--newNav"><h5>Decor</h5></a></div>
+												<ul class="small-drop-list">
+
+													
+
+													<li><a href="/collections/accents" id="main-menu__shop__decor-accents--newNav">Accents</a></li>
+													<li><a href="/collections/mirrors" id="main-menu__shop__decor-mirrors--newNav">Mirrors</a></li>
+													<li><a href="/collections/wall-art" id="main-menu__shop__decor-wall-art--newNav">Wall Art</a></li>
+													<li><a href="/collections/baskets" id="main-menu__shop__decor-baskets--newNav">Baskets</a></li>
+													<li><a href="/collections/art" id="main-menu__shop__decor-art--newNav">Travel Prints</a></li>
+
+												</ul>
+											</div>
+										</div>
+									</div>
+
+									
+									<div class="big-drop__col">
+
+										
+										<div class="big-drop__menu-list" data-drop="small-drop">
+											<div class="small-drop-list-wrap">
+												<div class="small-drop-title"><a href="/collections/furniture" id="main-menu__shop__furniture--newNav"><h5>Furniture</h5></a></div>
+												<ul class="small-drop-list">
+													<li><a href="/collections/chairs" id="main-menu__shop__furniture-chairs--newNav">Chairs</a></li>
+													<li><a href="/collections/ottomans-poufs" id="main-menu__shop__furniture-ottomans-poufs--newNav">Ottomans &amp; Poufs</a></li>
+													<li><a href="/collections/tables" id="main-menu__shop__furniture-tables-shelves--newNav">Tables &amp; Shelves</a></li>
+													<li><a href="/collections/the-summer-furniture-collection" id="main-menu__shop__furniture-outdoor--newNav">Outdoor</a></li>
+												</ul>
+											</div>
+										</div>
+
+										
+										<div class="big-drop__menu-list" data-drop="small-drop">
+											<div class="small-drop-list-wrap">
+												<div class="small-drop-title"><a href="/collections/kitchen-bath" id="main-menu__shop__kitchenBath--newNav"><h5>Kitchen &amp; Bath</h5></a></div>
+												<ul class="small-drop-list">
+													<li><a href="/collections/ceramics" id="main-menu__shop__kitchenBath-ceramics--newNav">Ceramics</a></li>
+													<li><a href="/collections/tableware" id="main-menu__shop__kitchenBath-tabletop--newNav">Tabletop</a></li>
+													<li><a href="/collections/aprons" id="main-menu__shop__kitchenBath-aprons--newNav">Aprons</a></li>
+													<li><a href="/collections/bath" id="main-menu__shop__kitchenBath-towels-bath--newNav">Towels &amp; Bath Mats</a></li>
+												</ul>
+											</div>
+										</div>
+
+										<div class="site-header__mb-only single-drop-menu-item">
+											<a href="/collections" id="main-menu__shop__shop-all--newNav">Shop All</a>
+										</div>
+
+									</div>
+								</div>
+							</div>
+						</div>
+					</li>
+
+					
+					
+
+					
+					<li class="main-menu__big-drop" data-drop="big-drop">
+						<a href="/pages/about" class="main-menu__top-level-link main-menu__big-drop__toggle" id="main-menu__story--newNav">Our Story</a>
+						<div class="main-menu__big-drop_drop ">
+							<div class="main-menu__big-drop__drop-inner">
+								<div class="main-menu__big-drop__drop-inner-inner cf">
+									
+									<div class="big-drop__col">
+
+										
+										<div class="big-drop__menu-list" data-drop="small-drop">
+
+											<div class="small-drop-list-wrap">
+												<div class="small-drop-title"><a href="/pages/about" id="main-menu__story--newNav"><h5>About</h5></a></div>
+												<ul class="small-drop-list">
+													<li><a href="/pages/about" id="main-menu__story-philosophy--newNav">Philosophy</a></li>
+													<li><a href="/pages/make-an-impact" id="main-menu__story-social-impact--newNav">Social Impact</a></li>
+													<li><a href="/blogs/all" id="main-menu__story-journal--newNav">Journal</a></li>
+
+
+													<li><a href="/pages/studio" id="main-menu__story-visit--newNav">Dallas Studio</a></li>
+
+												</ul>
+											</div>
+
+										</div>
+									</div>
+									
+									<div class="big-drop__col">
+
+										
+										<div class="big-drop__menu-list" data-drop="small-drop">
+											<div class="small-drop-list-wrap">
+												<div class="small-drop-title"><a href="/pages/team" id="main-menu__team--newNav"><h5>Team</h5></a></div>
+												<ul class="small-drop-list">
+													<li><a href="/pages/team#founders" class="close-onclick" id="main-menu__team-founders--newNav">Founders</a></li>
+													<li><a href="/pages/team#contact" class="close-onclick" id="main-menu__team-contact--newNav">Contact</a></li>
+													<li><a href="/pages/press" id="main-menu__team-press--newNav">Press</a></li>
+													<li><a href="/pages/join-the-citizenry" id="main-menu__team-careers--newNav">Careers</a></li>
+												</ul>
+											</div>
+
+										</div>
+									</div>
+
+								</div>
+							</div>
+						</div>
+					</li>
+
+					<li class="">
+						<a href="/pages/artisan-partners" class="main-menu__top-level-link" id="main-menu__artisans--newNav">Artisans</a>
+					</li>
+
+
+					
+
+
+					<li class="site-header__mb-only">
+						<a href="/pages/help#returns-exchanges" class="main-menu__top-level-link" id="main-menu__help-mb--newNav">Need Help?</a>
+					</li>
+
+					
+		              
+			              <li class="site-header__mb-only"><a class="main-menu__top-level-link" href="/account/login" id="main-menu__my-account-login--mb--newNav">Login</a></li>
+		              
+		            
+				</ul>
+
+			</nav>
+
+			
+			<div class="site-header__side-utility-menu">
+				
+				
+<div class="findify-search-bar">
+  <form action="/search" method="get" id="findify-search-form" class="tr-all" role="search">
     
-    <div class="site-alert">
-  <div class="inner">
+    <input type="hidden" name="type" value="product">
     
-    <h2 class="serif">Always Free U.S. Shipping &amp; Returns</h2>
+      <svg class="findify-seach-bar_icon tr-all" viewBox="0 0 24 24">
+        <path d="M10,0C4.486,0,0,4.486,0,10s4.486,10,10,10c2.035,0,3.928-0.614,5.509-1.663l4.369,4.37c0.391,0.391,1.024,0.391,1.414,0
+        l1.414-1.414c0.391-0.391,0.391-1.024,0-1.414l-4.37-4.37C19.386,13.928,20,12.035,20,10C20,4.486,15.514,0,10,0z M10,18
+        c-4.411,0-8-3.589-8-8s3.589-8,8-8s8,3.589,8,8S14.411,18,10,18z"></path>
+      </svg>
     
-    <a href="#" class="dismiss"><span class="close small"></span></a>
-  </div>
+    <input type="submit" class="btn" value="Search">
+    <input id="findify-search-text" type="text" name="q" value="" class="findify-search-bar_search-input findify-search-text tr-all" aria-label="Search Products">
+  </form>
+  <button id="findify-clear-search" class="findify-clear-icon tr-all">
+      <svg class="findify-close-bar_icon tr-all" viewBox="0 0 24 24">
+        <path d="M19.707,4.293c-0.391-0.391-1.023-0.391-1.414,0L12,10.586L5.707,4.293c-0.391-0.391-1.023-0.391-1.414,0
+        s-0.391,1.023,0,1.414L10.586,12l-6.293,6.293c-0.391,0.391-0.391,1.023,0,1.414C4.488,19.902,4.744,20,5,20
+        s0.512-0.098,0.707-0.293L12,13.414l6.293,6.293C18.488,19.902,18.744,20,19,20s0.512-0.098,0.707-0.293
+        c0.391-0.391,0.391-1.023,0-1.414L13.414,12l6.293-6.293C20.098,5.316,20.098,4.684,19.707,4.293z"></path>
+    </svg>
+  </button>  
 </div>
 
 
+<script>
+
+//
+// == start telegraph's findify code ==
+//
+$(function(){
+    var handleFindifySearch_dsktp = function(){
+
+        // Selectors
+        var findify_searchBar = $('.findify-search-bar'),
+            findify_searchForm = $('#findify-search-form'),
+            findify_textInput = $('#findify-search-text'),
+            findify_clearInputBtn = $('#findify-clear-search'), 
+            findify_backdrop = $('.findify-backdrop')
+        
+        // Focus
+        findify_textInput.focus(function(){
+            findify_searchBar.addClass('user-active');
+            findify_backdrop.addClass('active');
+        });
+
+        // Unfocus
+        $(document).click(function(event) { 
+          if(!$(event.target).closest('.findify-search-bar').length) {
+              if(findify_searchBar.hasClass("user-active")) {
+                  findify_searchBar.removeClass('user-active');
+              }
+          }        
+        });
+
+        // Clear Form
+        findify_clearInputBtn.click(function(e){
+            e.preventDefault();
+            findify_textInput.val('');
+            findify_searchBar.removeClass('user-active');
+        });
+
+        // Scroll to if on Search Results Page
+        var cur_url = window.location.href,
+            results_handle = 'pages/search-results';
+
+        if(cur_url.indexOf(results_handle)>0){
+          findify_searchForm.submit(function(){
+            $("body").velocity("scroll", { offset: "0", mobileHA: false });
+          })
+        }
+
+
+    }
+    handleFindifySearch_dsktp();
+
+
+});
+
+
+</script>
+
+
+				
+				<div class="cart_preview_wrap cart-preview-trigger">
+                	<a href="/cart" data-cart-view="data-cart-view" class="go-to-cart cart-preview" id="main-menu__cart-dropdown--newNav">
+                		<span class="bag-icon">
+                			<svg viewBox="0 0 17.8 17.2">
+                				<polygon points="1.6,16.6 3.1,5 14.7,5 16.2,16.6 "></polygon><path d="M6,7.2V3.5c0-1.6,1.3-2.9,2.9-2.9s2.9,1.3,2.9,2.9v3.6"></path>
+                			</svg>
+                		</span>
+	                	<span>
+		                    <span class="cartCount ">0</span>
+                        </span>
+	                </a>
+	            </div>
+
+			</div>
+
+			
+			<button id="findify-mobile-search-toggle" class="findify-mobile-toggle show-form-m-nav">
+
+<svg class="findify-seach-bar_icon tr-all" viewBox="0 0 24 24">
+  <path d="M10,0C4.486,0,0,4.486,0,10s4.486,10,10,10c2.035,0,3.928-0.614,5.509-1.663l4.369,4.37c0.391,0.391,1.024,0.391,1.414,0
+  l1.414-1.414c0.391-0.391,0.391-1.024,0-1.414l-4.37-4.37C19.386,13.928,20,12.035,20,10C20,4.486,15.514,0,10,0z M10,18
+  c-4.411,0-8-3.589-8-8s3.589-8,8-8s8,3.589,8,8S14.411,18,10,18z"></path>
+</svg>
+	
+</button>
+
+			
+<div id="findify-mobile-search" class="findify-search-bar-mobile">
+  <div class="findify-search-bar-mobile__inner">
+      <form id="findify-mobile-search-form" action="/search" method="get" class="findify-search-bar-mobile__form" role="search">
+        <input type="hidden" name="type" value="product">
+
+        <input class="findify-search-bar-mobile__input" id="findify-search-text-mobile" type="text" name="q" value="" placeholder="Search" aria-label="Search Site">
+      </form>
+
+      <button id="findify-close-search-mobile" class="findify-search-bar-mobile__close-icon">
+          <svg class="findify-close-bar_icon tr-all" viewBox="0 0 24 24">
+            <path d="M19.707,4.293c-0.391-0.391-1.023-0.391-1.414,0L12,10.586L5.707,4.293c-0.391-0.391-1.023-0.391-1.414,0
+            s-0.391,1.023,0,1.414L10.586,12l-6.293,6.293c-0.391,0.391-0.391,1.023,0,1.414C4.488,19.902,4.744,20,5,20
+            s0.512-0.098,0.707-0.293L12,13.414l6.293,6.293C18.488,19.902,18.744,20,19,20s0.512-0.098,0.707-0.293
+            c0.391-0.391,0.391-1.023,0-1.414L13.414,12l6.293-6.293C20.098,5.316,20.098,4.684,19.707,4.293z"></path>
+        </svg>
+      </button>
+  </div>
+</div>
+
+<script>
+
+// Toggle the search input
+// Move search results and main content down when search clicked 
+// so that the filters are still visible
+$('#findify-mobile-search-toggle').click(function(){
     
-    <div class="menu-wrap">
-      <header role="banner" id="site-header">
-        <div class="inner">
-          <div id="main-menu" class="main-menu-static align-l">
-            <a href="/" class="brand">
-              <img src="//cdn.shopify.com/s/files/1/0438/1069/t/39/assets/logo_424x34.png?9112393443200147866" alt="The Citizenry" width="424" height="34">
-            </a>
-            <ul class="menuzord-menu menu">
-    <li class=""><a href="/collections">Shop</a>
-        <div class="megamenu">
-            <div class="menu-row">
-                <div class="block-1 feature-img">
-                    <a href="/collections/shop-all" id="main-menu_shop-all-img">
-                        <img src="//cdn.shopify.com/s/files/1/0438/1069/files/Shop_All_Thumbnail_1-1_400x400.jpg?9112393443200147866" alt="Shop All" width="400" height="400">
-                        <div class="more">
-                          <span href="/collections" class="btn highlight">Shop All</span>
-                        </div>
-                    </a>
-                </div>
-                <div class="block-2">
-                    <header>
-                        <a href="/collections" id="main-menu_category-title">
-                          <h5>Category</h5>
-                          
-                        </a>
-                    </header>
-                    <ul class="news-col">
-                          <li><a href="/collections" id="main-menu_category-shop-all">Shop All</a></li>
-                        
-                          <li><a href="/collections/best-sellers">Best-Sellers</a></li>
-                        
-                          <li><a href="/collections/chairs">Chairs</a></li>
-                        
-                          <li><a href="/collections/pillows">Pillows</a></li>
-                        
-                          <li><a href="/collections/blankets">Blankets</a></li>
-                        
-                          <li><a href="/collections/tableware">Kitchen &amp; Tabletop</a></li>
-                        
-                          <li><a href="/collections/lighting-decor">Lighting &amp; Decor</a></li>
-                        
-                          <li><a href="/collections/baskets">Baskets</a></li>
-                        
-                          <li><a href="/collections/tables">Tables</a></li>
-                        
-                          <li><a href="/collections/rugs">Rugs</a></li>
-                        
-                          <li><a href="/collections/towels">Towels</a></li>
-                        
-                          <li><a href="/collections/gifts">Gifts</a></li>
-                        
-                    </ul>
-                </div>
+    if(parseInt($('#findify_results, .main-content').css('margin-top')) !== 70){
+        $('#findify_results, .main-content').css('margin-top',70);
+    } else {
+        $('#findify_results, .main-content').css('margin-top',0);
+    } 
 
-                <div class="block-3">
-                    <header>
-                        <a href="/collections" id="main-menu_collections-title">
-                          <h5>Collections</h5>
-                          
-                        </a>
-                    </header>
-                    <ul>
-                    <li><a href="/collections" id="main-menu_collections-shop-all">Shop All</a></li>
-                    
-                      
-                          <li><a href="/collections/ireland">Ireland</a></li>
-                      
-                          <li><a href="/collections/collection-three-mexico">Mexico</a></li>
-                      
-                          <li><a href="/collections/two-uganda">Uganda</a></li>
-                      
-                          <li><a href="/collections/peru">Peru </a></li>
-                      
-                          <li><a href="/collections/argentina">Argentina</a></li>
-                      
-                          <li><a href="/collections/brazil">Brazil</a></li>
-                      
-                    
-                    </ul>
-                </div>
-                <header class="show-for-m-nav">
-                  <a href="/collections">
-                    <h5>Shop All  →</h5>
-                  </a>
-                </header>
-            </div>
-        </div>
-    </li>
+    // close main menu
+    $('.menuzord-menu').hide();
+
+    if( $('#findify-mobile-search').is(':visible')){
+        $('#findify-mobile-search').hide();
+    } else {
+        $('#findify-mobile-search').show();
+    }
+});
+
+
+
+$( "#findify-mobile-search-toggle" ).click(function() {
     
-    
-    
+});
 
-    <li class=""><a href="javascript:void(0)">Our Story</a>
-        <div class="megamenu">
-            <div class="menu-row">
-                <div class="block-1 feature-img">
-                    <img src="//cdn.shopify.com/s/files/1/0438/1069/files/Our_Story_Thumbnail_2_1_400x400.jpg?9112393443200147866" alt="About the Citizenry" width="400" height="400">
-                </div>
-                <div class="block-3">
-                    <header>
-                        <a href="/pages/about">
-                          <h5>About</h5>
-                        </a>
-                    </header>
-                    <ul>
-                        <li><a href="/pages/about#philosophy">Philosophy</a></li>
-                        <li><a href="/pages/about#collections">Collections</a></li>
-                        <li><a href="/pages/make-an-impact">Social Impact</a></li>
-                        <li><a href="/pages/studio">Visit Us</a></li>
-                    </ul>
-                </div>
-                <div class="block-3">
-                    <header>
-                        <a href="/pages/team">
-                          <h5>Team</h5>
-                        </a>
-                    </header>
-                    <ul>
-                        <li><a href="/pages/team#founders">Founders</a></li>
-                        <li><a href="/pages/team#contact">Contact</a></li>
-                        <li><a href="/pages/press">Press</a></li>
-                        <li><a href="/pages/join-the-citizenry">Careers</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </li>
-    <li><a href="/pages/artisan-partners">Artisans</a></li>
-    <li><a href="/blogs/all">Blog</a></li>
-</ul>
+// Clicking the X icon hides itself and clears the text
+$('#findify-close-search-mobile').click(function(e){
+    e.preventDefault();
+    if($('#findify-search-text-mobile').val() == ''){
+        $('#findify-mobile-search').hide();
 
-          </div>
+        // reset the margin top of the search container
+        $('#findify_results, .main-content').css('margin-top',0);
 
-          <ul class="nav-utilities hide-for-m-nav">
-            <li>
-              
-              
-              <a href="/account/login" id="customer_login_link">Log In</a>
-              
-              
-            </li>
-            <div class="cart_preview_wrap">
+    }
 
-  <li>
-    <a href="/cart" data-cart-view="data-cart-view" class="go-to-cart cart-preview" data-icon="g">
-              <span rv-show="cart.item_count | gt 0">
-       <span class="cartCount" data-cart-render="item_count"></span>
-              </span>
-    </a>
-  </li>
+    $('#findify-search-text-mobile').val('');
+});
 
-  <div id="cart_preview">
-    <div data-cart-view="data-cart-view">
-      <header>
-        <h3>Your Bag</h3>
-      </header>
+</script>
 
-      <div class="has-items" rv-show="cart.item_count | gt 0">
-        <ul class="cart-items-list">
-          <li class="line-item" rv-each-item="cart.items">
-            <div class="img">
+			
+			
+<div id="cart-preview" data-cart-li-count="0">
+  <div class="cart-preview__inner" data-cart-view="data-cart-view">
+    <header class="cart-preview__header clearfix">
+      <h3>Your Bag</h3>
+    </header>
+
+    <div class="has-items" rv-show="cart.item_count | gt 0">
+      <ul class="cart-items-list pill-toggles reset text-left">
+
+        
+        <li class="cart-items-list__item" rv-each-item="cart.items">
+
+          
+          <div class="cart-items-list__item__row cf">
+            
+            <div class="cart-items-list__item__img">
               <a rv-href="item.url">
                 <img rv-src="item.image | productImageSize 'small'" width="400" height="400">
               </a>
             </div>
-            <div class="info">
-              <h4>
-                <span class="quantity">(<span rv-text="item.quantity"></span>)</span>
-                <span class="title" rv-html="item.product_title"></span>
-                <div rv-unless="item.variant_options.0 | eq 'Default Title'">
-                  <span class="meta sm" rv-text="item.variant_options.0"></span>
+            
+            <div class="cart-items-list__item__info">
+              
+              <div class="cart-items-list__item__props cf">
+                <h4>
+                  <span class="title" rv-html="item.product_title"></span>
+                </h4>
+                <ul rv-hide="item.propertyArray | empty">
+                  <li rv-each-property="item.propertyArray < properties">
+                      <span class="meta sm">{property.value}</span>
+                  </li>
+                </ul>
+              </div>
+
+              <div class="cart-items-list__item__qty-price cf">
+                <div class="cart-items-list__item__qty   product-layout">
+                  <div class="qty-wrap pos_rel qty-wrap--simple qty-wrap--small">
+                    <span class="item-qty" rv-text="item.quantity"></span>
+                    <div class="toggles">
+                      <span class="minus qty-toggle qtyminus" rv-data-cart-update="index | plus 1" rv-data-cart-quantity="item.quantity | minus 1" data-cart-update="1" data-cart-quantity="1">
+                        <svg class="icon--minus"><use xlink:href="#minus"></use></svg>
+                      </span>
+                      <span class="plus qty-toggle qtyplus" rv-data-cart-update="index | plus 1" rv-data-cart-quantity="item.quantity | plus 1" data-cart-update="1" data-cart-quantity="3">
+                        <svg class="icon--plus"><use xlink:href="#plus"></use></svg>
+                      </span>
+                    </div>
+                  </div>
                 </div>
-              </h4>
-               <ul rv-hide="item.propertyArray | empty">
-                <li rv-each-property="item.propertyArray < properties">
-                    <span class="meta sm">{property.value}</span>
-                </li>
-               </ul>
+                <div class="cart-items-list__item__price">
+                  <span class="price" rv-html="item.price | money Currency.currentCurrency"></span>
+                </div>
+              </div>
             </div>
-            <div class="price">
-              <span class="meta" rv-html="item.price | money Currency.currentCurrency"></span>
-            </div>
-          </li>
-        </ul>
-
-        <footer>
-          <div class="clearfix">
-            <div class="col">
-              <span class="meta caps sm">Shipping (within U.S.)</span>
-            </div>
-            <div class="col">
-              <span class="meta caps">Free</span>
-            </div>
+            
           </div>
-          <div class="clearfix">
-            <div class="col">
-              <span class="meta caps sm">Total</span>
-            </div>
-            <div class="col">
-              <span class="order-total" rv-html="cart.total_price | money Currency.currentCurrency"></span>
-            </div>
+          
+          <div class="cart-items-list__item__remove">
+            <span class="close small" rv-data-cart-remove="index | plus 1"></span>
           </div>
-          <hr>
 
-          <form method="post" action="/cart" rv-show="cart.item_count | gt 0">
-            <input type="submit" value="Check Out" class="no-mar cs-mar button primary expand" name="checkout">
-          </form>
+        </li>
+      </ul>
 
-          
-          
-        </footer>
-      </div>
-
-       <div class="text-center" rv-show="cart.item_count | lt 1">
-          You don't have anything in your bag yet!
-         <a href="/collections/shop-all" class="no-mar cs-mar button primary expand">Shop All</a>
-       </div>
-
-    </div>
-  </div>
-
-</div>
-
-          </ul>
-          <a href="/cart" class="go-to-cart show-for-m-nav" data-cart-view="data-cart-view" data-icon="g">
-            <span rv-show="cart.item_count | gt 0">
-              <span class="cartCount" data-cart-render="item_count">7</span>
-            </span>
-          </a>
+      <footer class="cart-preview__footer">    
+        <div class="cart-preview__shipping cf">
+          <div class="free-shipping-cta">
+            <svg class="svg-icon icon--box--fast icon--tiny"><use xlink:href="#box--fast"></use></svg>
+            <span class="copy">You have free U.S. Shipping + Returns</span>
+          </div>
         </div>
-      </header>
+        <div class="clearfix cart-preview__actions">
+          <a href="/cart" class="cart-preview__actions__checkout-btn button primary" style="line-height: 2;">Continue to Checkout</a>
+        </div>
+      </footer>
+
     </div>
+
+     <div class="text-center" rv-show="cart.item_count | lt 1">
+      <p class="sm-padding-b sm-padding-t">You don't have anything in your bag yet!</p>
+      <a href="/collections" class="no-mar cs-mar button primary expand">Shop All</a>
+     </div>
+
   </div>
 </div>
 
 
-  <main class="main-content" role="main">
-      
+
+		</div>
+
+		
+		<div id="open-nav" class="toggle-menu">
+	        <span></span>
+	        <span></span>
+	        <span></span>
+	        <span></span>
+	    </div>
+	</section>
+
+</header>
+
+
+  <main class="main-content cart-drop-curtain" role="main">
+        
       <div class="bounds">
         <div class="article-wrap">
           
@@ -513,120 +989,116 @@ var __st={"a":4381069,"offset":-18000,"reqid":"042a8957-af08-49f1-a614-d5d5a6925
 
           <article class="content-row article-content col-eight col-center padding-b">
             <p><img src="//cdn.shopify.com/s/files/1/0438/1069/files/terms.jpg?3894"></p>
-<p>&nbsp;</p>
-<p>This Privacy Policy governs the manner in which The Citizenry collects, uses, maintains and discloses information collected from users (each, a "User") of the www.the-citizenry.com website ("Site"). This privacy policy applies to the Site and all products and services offered by The Citizenry.</p>
-<p><strong>DISCLAIMER</strong></p>
-<p>The Citizenry collects important customer information in an effort to enhance and personalize your shopping experience. This allows us to communicate with our customers about our products, services and promotions.</p>
-<p><strong>COLLECTED INFORMATION &amp; HOW IT’S USED</strong></p>
-<p>We may collect personal information in a variety of ways, including, but not limited to, when you visit our site, register on the site, place an order, subscribe to the newsletter and connect with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, and credit card information. We do not share this information with outside parties except to the extent necessary to provide the services agreed to.</p>
-<p>This information will be used to fulfill your order, to improve customer service, more effectively respond to your customer service requests and support needs and to personalize user experience. Your email address will be used to share any necessary information related to your order. If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc. If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.</p>
-<p>We maintain a record of your purchase history, product interests, and whatever other membership details that might enable us to improve your shopping experience. Analytics such as site use and traffic patterns are also considered to help us improve the design of our website, the products we make and services we offer.</p>
-<p><strong>NON-PERSONAL IDENTIFICATION INFORMATION</strong></p>
-<p>We may collect non-personal identification information whenever Users interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.</p>
-<p><strong>WEB BROWSER COOKIES</strong></p>
-<p>On our site, your preferences are remembered through the use of "cookies" to enhance your shopping experience. You may choose to set your web browser to refuse cookies, or to alert you when cookies are being sent. If you do so, note that some parts of the Site may not function properly.</p>
-<p><strong>HOW WE PROTECT YOUR INFORMATION</strong></p>
-<p>We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our site.</p>
-<p>Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.</p>
-<p><strong>THIRD PARTY WEBSITES</strong></p>
-<p>Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.</p>
-<p><strong>CHANGES TO THIS PRIVACY POLICY</strong></p>
-<p>The Citizenry has the discretion to update this privacy policy at any time. When we do, we revise the updated date at the bottom of this page. We encourage you to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.</p>
-<p><strong>YOUR ACCEPTANCE OF THESE TERMS</strong></p>
-<p>By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.</p>
-<p><strong>IN SUMMARY</strong></p>
-<p>The Citizenry takes your privacy seriously. When connecting with us, we want our customers to feel confident that their personal information and credit card data is protected. Just as we are dedicated to bringing you the very best products, we are equally committed to providing our customers with a safe and secure shopping experience. The personal information we collect from our Site helps us better understand the interests of our audience in an ongoing effort to bring you improved service.</p>
-<p>If you have questions or suggestions regarding our privacy standards please email <a href="mailto:assistant@the-citizenry.com">assistant@the-citizenry.com</a>&nbsp;&nbsp;</p>
-<p>August 13th, 2014.&nbsp;</p>
+<p><strong>OVERVIEW</strong></p>
+<p>This Privacy Policy explains The Citizenry’s online and offline information practices, the kinds of information we may collect, how we intend to use and share that information, and how you can opt out of, correct, or change such information.</p>
+<p><strong>SCOPE</strong></p>
+<p>This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from www.the-citizenry.com (the “Site”). This Privacy Policy does not apply to any third-party websites, services or applications, even if they are accessible through our Site. All individuals whose responsibilities include the Processing of Personal Information on behalf of The Citizenry are expected to protect that data by adherence to this Privacy Policy. This Privacy Policy is intended to meet requirements globally, including those in North America, Europe, APAC, and other jurisdictions.</p>
+<p><strong>TYPES OF PERSONAL INFORMATION WE COLLECT</strong></p>
+<p>The Citizenry collects Personal Information regarding our site visitors, users and prospects, through the following types of interactions.</p>
+<p><b>Placing an Order with Us.</b> When you make a purchase or attempt to make a purchase through the Site, you provide certain types of information directly to us, including your name, billing address, shipping address, payment information (including credit card numbers and PayPal or ApplePay account information), email address, and phone number. We refer to this information as “Order Information”.</p>
+<p><b>Creating an Account with Us.</b> You have the option of creating an account with The Citizenry to allow easy access to your order history. During account creation, you provide your name and email address directly to us.</p>
+<p><b>Communicating with Us.</b> We may collect personal information such as phone number, email address or mailing address when you request information about The Citizenry, register for The Citizenry’s newsletter, request customer support, or otherwise communicate with us.</p>
+<p><b>Completing Surveys.</b> Occasionally, we may ask you to participate in online surveys about our products or services. If you decide to participate, you may be asked to provide certain personal information. All of this information is provided by you voluntarily, and may be used to improve our products, Site, or services.</p>
+<p><b>Posting on the Site. </b>You may add blog comments or post reviews of your purchases on The Citizenry’s site. When you disclose personal information through one of these submissions, it will be collected by the Site. If you choose to submit content to any public area of the Site, such content will be considered “public” and not subject to the privacy protections in this policy.</p>
+<p><b>Registering for Sweepstakes or Contests.</b> Occasionally, The Citizenry may run sweepstakes and contests. We ask those who enter in the sweepstakes or contests to provide contact information (e.g., an e-mail address). If you participate in a sweepstakes or contest, your contact information may be used to reach you about the sweepstakes or contest, and for other promotional, marketing and business purposes. All sweepstakes/contests entry forms will provide a way for participants to opt-out of any communications that are not related to awarding prizes.</p>
+<p><b>Automatic Data Collection.</b> When you visit the Site, we collect information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information”.</p>
+<p><b>Information from Other Sources.</b> We may receive information about you from other sources, including through Third-Party services and organizations to supplement information provided by you. For example, if you access our services through a Third-Party application, such as an App Store or SNS, we may collect information about you from that Third-Party application that you have made public via your privacy settings. Information we collect through App Stores or SNS accounts may include your name, your SNS user identification number, your SNS user name, location, sex, birth date, email, profile picture, and your contacts on the SNS. This supplemental information allows us to verify information that you have provided to The Citizenry and to enhance our ability to provide you with information about our business, products, and services.</p>
+<p><b>Location Information.</b> We may collect and store information about your location by converting your IP address into a rough geo-location. We may use location information to improve and personalize our services for you. If you do not want us to collect location information, you may disable that feature on your mobile device.</p>
+<p><strong>HOW THE CITIZENRY USES YOUR INFORMATION</strong></p>
+<p>We acquire, hold, use and process Personal Information for numerous business purposes, including:</p>
+<ul>
+<li>Fulfilling requests orders placed through the site or offline, including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations).</li>
+<li>Screening our orders for potential fraud or risk.</li>
+<li>Communicating with you directly about an order or inquiry you have made.</li>
+<li>Allowing you to register for events.</li>
+<li>Generally managing individual information and accounts.</li>
+<li>Marketing The Citizenry’s products and services by phone, postal mail, or email. You may contact <a href="mailto:assistant@the-citizenry.com">assistant@the-citizenry.com</a> at any time to opt out of the use of your Personal Information for marketing purposes.</li>
+<li>Conducting surveys to determine satisfaction with our products and effectiveness of our services, various types of communications, advertising campaigns, and/or promotional activities.</li>
+<li>Creating anonymous and aggregated information repositories for analytics, including the measurement of visitors’ interest in and use of various portions or features of the Site. We may share this information within The Citizenry and with Third Parties for our or their purposes in an anonymized or aggregated form that is designed to prevent anyone from identifying you.</li>
+<li>Sharing content with friends or colleagues through our referral services. Email addresses that you may provide for a friend or colleague will be used to send your friend or colleague the content or link you request, but will not be collected or otherwise used by The Citizenry or any other Third Parties for any other purpose.</li>
+</ul>
+<p><strong>COOKIES, PIXEL TAGS / WEB BEACONS, ANALYTICS INFORMATION AND WEB-BASED ADVERTISING</strong></p>
+<p>We, as well as Third Parties that provide content, advertising or other functionality on behalf of The Citizenry, may use cookies, pixel tags, local storage, and other technologies to automatically collect information.</p>
+<p>“Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit <a href="http://www.allaboutcookies.org">http://www.allaboutcookies.org</a>.</p>
+<p>“Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.</p>
+<p>“Web beacons”, “tags”, and “pixels” are electronic files used to record information about how you browse the Site.</p>
+<p><strong>ANALYTICS</strong></p>
+<p>We use Google Analytics, a service provided by Google, Inc. (“Google”), to gather information about how users engage with our services. For more information about Google Analytics, please visit <a href="www.google.com/policies/privacy/partners/">www.google.com/policies/privacy/partners/</a>. You can opt out of Google’s collection and processing of data generated by your use of the services by going to&nbsp;<a href="http://tools.google.com/dlpage/gaoptout">http://tools.google.com/dlpage/gaoptout</a>.</p>
+<p><strong>BEHAVIORAL ADVERTISING</strong></p>
+<p>As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at <a href="http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work">http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work</a>. You can opt out of targeted advertising by using the links below:</p>
+<ul>
+<li>Facebook: <a href="https://www.facebook.com/settings/?tab=ads">https://www.facebook.com/settings/?tab=ads</a>
+</li>
+<li>Google: <a href="https://www.google.com/settings/ads/anonymous">https://www.google.com/settings/ads/anonymous</a>
+</li>
+<li>Bing: <a href="https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads">https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads</a>
+</li>
+<li>Pinterest: <a href="https://help.pinterest.com/en/articles/what-are-promoted-pins">https://help.pinterest.com/en/articles/what-are-promoted-pins</a>
+</li>
+<li>Criteo: <a href="https://www.criteo.com/privacy/">https://www.criteo.com/privacy/</a>
+</li>
+</ul>
+<p>Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: <a href="http://optout.aboutads.info/">http://optout.aboutads.info/</a>.</p>
+<p><strong>DO NOT TRACK</strong></p>
+<p>Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.</p>
+<p><strong>YOUR RIGHTS</strong></p>
+<p>If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.</p>
+<p>Additionally, if you are a European resident, we note that we are processing your information in order to fulfill contracts we might have with you (for example, if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.</p>
+<p><strong>CHILDREN’S PRIVACY</strong></p>
+<p>The services are not directed to children under 16 years of age, and The Citizenry does not knowingly collect Personally Identifiable Information from children under 16 years of age. If you are under the age of 18, you must have your parent’s permission to access the services. If you learn that your child has provided us with Personal Information without your consent, you may alert us at assistant@the-citizenry.com. If we learn that we have collected any Personal Information from children under 16, we will promptly take steps to delete such information and terminate the child’s Account.</p>
+<p><strong>DATA RETENTION</strong></p>
+<p>When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.</p>
+<p>Additional personal information obtained through the site will be trained for as long as you use our services or as necessary to fulfill the purpose(s) for which it was collected, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws.</p>
+<p><strong>CHANGES</strong></p>
+<p>We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.</p>
+<p><strong>CONTACT US</strong></p>
+<p>For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at <a href="mailto:assistant@the-citizenry.com">assistant@the-citizenry.com</a>&nbsp;or by mail using the details provided below:</p>
+<p>The Citizenry<br> [Re: Privacy Compliance]<br> 4619 Insurance Lane, Suite 202<br> Dallas, Texas 75205<br>United States</p>
+<p><em>UPDATED MAY 24, 2018&nbsp;</em></p>
           </article>
         </div>
       </div>
     
-
-  </main>
-
-  <script>
-  NProgress.start();
-
-  WebFontConfig = {
-      typekit: { id: 'dlb1qft' },
-      active: function() {
-            var state = true;
-            fontStatusCheck(state);
-        },
-        inactive: function() {
-            var state = false;
-            fontStatusCheck(state);
-        }
-   };
-
-   (function(d) {
-      var wf = d.createElement('script'), s = d.scripts[0];
-      wf.src = '//cdn.shopify.com/s/files/1/0438/1069/t/39/assets/load.js?9112393443200147866';
-      s.parentNode.insertBefore(wf, s);
-   })(document);
-
-   // Font Loading
-  var fontStatusCheck = function(state){
-    if (state === false || state === true ) {
-      console.log('Fonts Loaded: ',state);
-      hideLoader();
-      NProgress.done();
-    }
-  };
-
-  // Hide Loader
-  var hideLoader = function(){
-    var loader = document.getElementById('load'),
-        body = document.getElementsByTagName('body')[0];
-    loader.classList.add('done');
-    loader.style.opacity = "0";
-    setTimeout(function(){ body.removeChild(loader); }, 2000);
-    NProgress.remove();
-  }
-</script>
+    
+<svg style="display:none" version="1.1" id="global-icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px">
+  
+  <symbol id="box--fast" viewBox="0 0 31.9 16.7">
+    <path class="st0 st1" d="M10.3,13.4H4.7C4.3,13.4,4,13,4,12.6c0-0.4,0.4-0.8,0.8-0.8h5.6c0.4,0,0.8,0.4,0.8,0.8
+    C11.1,13,10.7,13.4,10.3,13.4"></path>
+    <path class="st0 st1" d="M0.8,7.9h8.7c0.4,0,0.8,0.4,0.8,0.8c0,0.4-0.4,0.8-0.8,0.8H0.8C0.4,9.4,0,9,0,8.6C0,8.2,0.3,7.9,0.8,7.9"></path>
+    <path class="st0 st1" d="M4.7,5.5C4.3,5.5,4,5.1,4,4.7c0-0.4,0.4-0.8,0.8-0.8h5.6c0.4,0,0.8,0.4,0.8,0.8c0,0.4-0.4,0.8-0.8,0.8H4.7z"></path>
+    <path class="st0" d="M24.1,10.1c2.2-1.3,4.4-2.6,6.6-3.9l0,0.4l0,2.9l0,1.2v0.3c-1.2,0.7-2.3,1.4-3.5,2.1c-1,0.6-2.1,1.3-3.1,1.9
+    L24.1,10.1z M23,10.1l0,5.1c-0.1-0.1-0.3-0.1-0.4-0.2c-2.1-1.2-4.2-2.5-6.3-3.7l0-4.5l0-0.6C18.5,7.4,20.7,8.7,23,10.1z M23.5,9.1
+    C23.5,9.1,23.5,9.1,23.5,9.1c-0.3-0.2-0.6-0.4-0.9-0.6c-0.6-0.4-1.3-0.8-1.9-1.1C22.8,6,25,4.7,27.1,3.3c0.8,0.5,1.6,0.9,2.3,1.4
+    c0.3,0.2,0.5,0.3,0.8,0.5C28,6.5,25.8,7.8,23.5,9.1z M23.6,1.2c0.3,0.2,0.5,0.3,0.8,0.5c0.6,0.3,1.1,0.7,1.7,1
+    c-2.1,1.4-4.3,2.7-6.4,4.1c-0.9-0.6-1.9-1.1-2.8-1.7C17,5,17.2,4.9,17.4,4.8c1.7-1,3.4-1.9,5.1-2.9C22.8,1.6,23.2,1.4,23.6,1.2z
+    M31.8,8.4l0-3.3c0-0.6-1.4-1.1-1.7-1.3c-2.1-1.3-4.2-2.5-6.3-3.8c-0.1-0.1-0.3-0.1-0.5,0c-2.1,1.2-4.2,2.4-6.3,3.6
+    c-0.4,0.2-1.7,0.7-1.9,1.2c-0.3,1,0,2.3,0,3.3l0,3.4c0,0.6,1.3,1.1,1.7,1.3c2.1,1.3,4.3,2.5,6.4,3.8c0,0,0,0,0,0
+    c0.1,0.1,0.3,0.1,0.4,0c2.1-1.3,4.1-2.5,6.2-3.8c0.4-0.3,1.7-0.7,1.9-1.3C32.1,10.7,31.8,9.4,31.8,8.4z"></path>
+  </symbol>
 
   
-<div id="klaviyo_popup_wrap">
-  <div id="klaviyo_popup" class="white-popup-block mfp-hide">
-      <div class="clearfix inner">
-          <aside class="aside_content" style="background:url(//cdn.shopify.com/s/files/1/0438/1069/files/popup-img-compressor.jpg?9112393443200147866); background-size:cover;">
-              <img src="//cdn.shopify.com/s/files/1/0438/1069/files/popup-img-compressor_small.jpg?9112393443200147866" alt="Sign Up for Citizenry Updates" width="746" height="746">
-          </aside>
-          <section class="main_content c_vrt">
-              <header class="hide-on-success">
-                  <h4>Join the Adventure</h4>
-                  <hr class="s_c">
-                  <p>Curated content and early access<br>to new collections.</p>
-              </header>
-              <div class="form_wrap">
-                  <form id="klaviyo_popup_form" class="signup_form klaviyo_bare_embed_mD7xcb" action="//manage.kmail-lists.com/subscriptions/subscribe" data-ajax-submit="//manage.kmail-lists.com/ajax/subscriptions/subscribe" method="GET" target="_blank" novalidate="novalidate">
-                      <div class="clearfix klaviyo_messages">
-                        <div class="success_message serif n_s_g no_t_mar" style="display:none;">
-                            <h6>You're in!</h6>
-                            <p>We're excited to have you along for the ride.</p>
-                        </div>
-                        <div class="error_message" style="display:none;"></div>
-                      </div>
-                      <div class="clearfix">
-                        <input type="hidden" name="g" value="mD7xcb">
-                        <div class="email_wrap klaviyo_field_group">
-                          <input type="email" value="" name="email" id="k_id_email" placeholder="Enter your email" class="lightbox_email email">
-                        </div>
+  <symbol id="search-icon" viewBox="0 0 24 24">
+    <path d="M10,0C4.486,0,0,4.486,0,10s4.486,10,10,10c2.035,0,3.928-0.614,5.509-1.663l4.369,4.37c0.391,0.391,1.024,0.391,1.414,0
+    l1.414-1.414c0.391-0.391,0.391-1.024,0-1.414l-4.37-4.37C19.386,13.928,20,12.035,20,10C20,4.486,15.514,0,10,0z M10,18
+    c-4.411,0-8-3.589-8-8s3.589-8,8-8s8,3.589,8,8S14.411,18,10,18z"></path>
+  </symbol>
 
-                        <div class="klaviyo_form_actions">
-                          <button type="submit" class="submit btn klaviyo_submit_button">Join Now</button>
-                        </div>
-                        <div class="text-center hide-on-success">
-                          <small class="opt_out">No, I don’t want early access.</small>
-                        </div>
-                      </div>
-                  </form>
-              </div>
-          </section>
-      </div>
-  </div>
-</div>
+  
+  <symbol id="minus" viewBox="0 0 8 8">
+    <path class="st0" d="M0.2,3.5h7.6C7.9,3.5,8,3.6,8,3.7v0.6c0,0.1-0.1,0.2-0.2,0.2H0.2C0.1,4.5,0,4.4,0,4.3V3.7
+  C0,3.6,0.1,3.5,0.2,3.5z"></path>
+  </symbol>
+
+  
+  <symbol id="plus" viewBox="0 0 8 8">
+  <path class="st0 vert" d="M4.5,0.2v7.6C4.5,7.9,4.4,8,4.3,8H3.7C3.6,8,3.5,7.9,3.5,7.8V0.2C3.5,0.1,3.6,0,3.7,0h0.6
+  C4.4,0,4.5,0.1,4.5,0.2z"></path>
+  <path class="st0 horz" d="M0.2,3.5h7.6C7.9,3.5,8,3.6,8,3.7v0.6c0,0.1-0.1,0.2-0.2,0.2H0.2C0.1,4.5,0,4.4,0,4.3V3.7
+  C0,3.6,0.1,3.5,0.2,3.5z"></path>
+  </symbol>
+</svg>
+  </main>
 
   <footer id="site_footer" role="contentinfo">
     <div class="inner">
@@ -636,10 +1108,10 @@ var __st={"a":4381069,"offset":-18000,"reqid":"042a8957-af08-49f1-a614-d5d5a6925
                   <span class="seal"></span>
                   <h5>Get In Touch</h5></header>
                 <ul class="group_list">
-                    <li><a class="phone" href="tel:1.866.356.4284">1.866.356.4284</a></li>
-                    <li><a class="email" href="mailto:assistant@the-citizenry.com">assistant@the-citizenry.com</a></li>
+                    <li><a class="phone" href="tel:1.866.356.4284" id="footer_contact-phone">1.866.356.4284</a></li>
+                    <li><a class="email" href="mailto:assistant@the-citizenry.com" id="footer_contact-email">assistant@the-citizenry.com</a></li>
                     <br>
-                    <li><a href="/pages/studio" class="address">Visit Us →</a></li>
+                    <li><a href="/pages/studio" id="footer_contact-visit" class="address">Visit Us →</a></li>
                 </ul>
             </div>
 
@@ -647,13 +1119,13 @@ var __st={"a":4381069,"offset":-18000,"reqid":"042a8957-af08-49f1-a614-d5d5a6925
                 <header><h5>About Us</h5></header>
                 <ul class="group_list">
                   
-                    <li><a href="/pages/about">Our Story</a></li>
+                    <li><a href="/pages/about" id="footer_about-our-story">Our Story</a></li>
                   
-                    <li><a href="/pages/artisan-partners">Artisan Partners</a></li>
+                    <li><a href="/pages/artisan-partners" id="footer_about-artisan-partners">Artisan Partners</a></li>
                   
-                    <li><a href="/pages/press">Press</a></li>
+                    <li><a href="/pages/press" id="footer_about-press">Press</a></li>
                   
-                    <li><a href="/pages/join-the-citizenry">Careers</a></li>
+                    <li><a href="/pages/join-the-citizenry" id="footer_about-careers">Careers</a></li>
                   
                 </ul>
             </div>
@@ -662,81 +1134,153 @@ var __st={"a":4381069,"offset":-18000,"reqid":"042a8957-af08-49f1-a614-d5d5a6925
                 <header><h5>A Little Help</h5></header>
                 <ul class="group_list">
                   
-                    <li><a href="/collections/gifts/Voucher">Gift Cards</a></li>
+                    <li><a href="/collections/gift-cards/Voucher" id="footer_help-gift-cards">Gift Cards</a></li>
                   
-                    <li><a href="/pages/help#shipping">Shipping</a></li>
+                    <li><a href="/pages/help#shipping" id="footer_help-shipping">Shipping</a></li>
                   
-                    <li><a href="/pages/help#returns-exchanges">Returns &amp; Exchanges</a></li>
+                    <li><a href="/pages/help#returns-exchanges" id="footer_help-returns-exchanges">Returns &amp; Exchanges</a></li>
                   
-                    <li><a href="/pages/help#products">Care &amp; Assembly </a></li>
+                    <li><a href="/pages/help#products" id="footer_help-care-assembly">Care &amp; Assembly </a></li>
                   
                 </ul>
             </div>
 
             <div class="footer_group" id="social">
-
                 
-                  <header>
-                      <h5>Join the Adventure</h5>
-                      <p>Curated content &amp; early access to new styles.</p>
-                  </header>
-                  <div class="newsletter_wrap">
-                    <div class="signup_form_wrap">
-  <form id="klaviyo_footer_signup" class="signup_form klaviyo_bare_embed_mD7xcb" action="//manage.kmail-lists.com/subscriptions/subscribe" data-ajax-submit="//manage.kmail-lists.com/ajax/subscriptions/subscribe" method="GET" target="_blank" novalidate="novalidate">
-    <div class="clearfix klaviyo_messages">
-      <div class="success_message serif n_s_g no_t_mar" style="display:none;">
-          <h6>You're in!</h6>
-          <p>We're excited to have you along for the ride.</p>
-      </div>
-      <div class="error_message" style="display:none;"></div>
-    </div>
-    <div class="clearfix">
-      <input type="hidden" name="g" value="mD7xcb">
-      <div class="email_wrap klaviyo_field_group">
-        <input type="email" value="" name="email" id="k_id_email" placeholder="Enter your email" class="footer_email email">
-      </div>
 
-      <div class="klaviyo_form_actions">
-        <button type="submit" class="submit btn klaviyo_submit_button">Join</button>
-      </div>
+                  <div class="newsletter_wrap">
+                    <form id="footer_signup" class="signup_form signup_form_logic" action="#" method="GET" target="_blank" novalidate="novalidate">
+  <header class="hide_on_success">
+    <h5>Join the Adventure</h5>
+    <p>Curated content &amp; early access to new styles.</p>
+  </header>
+
+  <div class="clearfix success_message show_on_success serif n_s_g no_t_mar" style="display:none;">
+    <h6>You're in!</h6>
+    <p>We're excited to have you along for the ride.</p>
+  </div>
+
+  <div class="clearfix input_fields hide_on_success">
+    <input type="hidden" name="source" value="footer_signup">
+
+    <div class="email_wrap field_group">
+      <input type="email" value="" name="email" id="email" placeholder="Enter your email" class="footer_email email">
     </div>
-  </form>
-</div>
+
+    <div class="form_actions">
+      <button type="submit" class="submit btn submit_button" id="footer_form-join-btn">Join</button>
+    </div>
+  </div>
+</form>
+
 
                   </div>
+
                 
                 <ul class="social_list">
-                  <li><a data-icon="b" class="ico" href="http://instagram.com/the_citizenry" target="_blank" title="Follow The Citizenry on Instagram"></a></li>
-                  <li><a data-icon="h" class="ico" href="http://www.pinterest.com/thecitizenry/" target="_blank" title="Follow The Citizenry on Pinterest"></a></li>
-                  <li><a data-icon="c" class="ico" href="https://www.facebook.com/jointhecitizenry" target="_blank" title="The Citizenry on Facebook"></a></li>
-                  <li><a data-icon="a" class="ico" href="https://twitter.com/itsthecitizenry" target="_blank" title="The Citizenry on twitter"></a></li>
+                  <li><a data-icon="b" class="ico" id="footer_social-instagram" href="http://instagram.com/the_citizenry" target="_blank" title="Follow The Citizenry on Instagram"></a></li>
+                  <li><a data-icon="h" class="ico" id="footer_social-pinterest" href="http://www.pinterest.com/thecitizenry/" target="_blank" title="Follow The Citizenry on Pinterest"></a></li>
+                  <li><a data-icon="c" class="ico" id="footer_social-facebook" href="https://www.facebook.com/jointhecitizenry" target="_blank" title="The Citizenry on Facebook"></a></li>
+                  <li><a data-icon="a" class="ico" id="footer_social-twitter" href="https://twitter.com/itsthecitizenry" target="_blank" title="The Citizenry on twitter"></a></li>
+                  <li class="t-link"><a id="footer_view-blog" href="/blogs/all">Blog</a></li>
                 </ul>
             </div>
         </div>
 
         <div class="secondary_footer_menu">
             <ul class="utility">
-                <li><a href="/pages/terms">Terms</a></li>
-                <li><a href="/pages/privacy-policy">Privacy</a></li>
+                <li><a href="/pages/terms" id="footer_utility-terms">Terms</a></li>
+                <li><a href="/pages/privacy-policy" id="footer_utility-privacy">Privacy</a></li>
             </ul>
             <small class="copyright">© The Citizenry 2016,  All Rights Reserved</small>
         </div>
     </div>
 </footer>
 
+  <!-- RetentionScience start -->
+<script type="text/javascript">
+  var _rsq = _rsq || [];
+  _rsq.push(['_setSiteId', '465']);
+  _rsq.push(['_enableOnsite']);
+
+  
+
+  /*** EVENT SPECIFIC CODE ***/
+  
+
+  
+
+  
+
+  _rsq.push(['_track']);
+  /*** END EVENT SPECIFIC CODE ***/
+
+  /*** FUNCTION FOR AJAX TRACKING ***/
+  var _rs_ajax = {};
+  _rs_ajax.updateCart = function() {
+    jQuery.getJSON('/cart.js', function (cart, textStatus) {
+      for(var i = 0; i < cart.items.length; i++) {
+        var cartItem = cart.items[i];
+        var price = cartItem.price / 100;
+
+        _rsq.push(['_addItem', { 'id':cartItem.id.toString(), 'name':cartItem.title.toString(),'price':price.toFixed(2).toString() }]);
+      }
+      _rsq.push(['_setAction', 'shopping_cart']);
+      _rsq.push(['_track']);
+    });
+  };
+  /*** END FUNCTION FOR AJAX TRACKING ***/
+
+  (function() {
+     var rScix = document.createElement('script');
+     rScix.type = 'text/javascript';
+     rScix.async = true;
+     rScix.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'd1stxfv94hrhia.cloudfront.net/waves/v2/w.js';
+     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(rScix);
+  })();
+// jQuery(document).ready(function($) {
+//   $('#k_id_email').on('change', function() {
+//       _rsq.push(['_setUserEmail', $(this).val()]);
+//       _rsq.push(['_setAction', 'email_entered']);
+//       _rsq.push(['_track']);
+//   });
+
+//   $('#addToCart').on('click', function() {
+//       _rs_ajax.updateCart();
+//   });
+
+// });
+</script>
+<!-- RetentionScience end -->
+
   
 <script>
-  var IconPath = "//cdn.shopify.com/s/files/1/0438/1069/t/39/assets/icons.svg?9112393443200147866";
+  var IconPath = "//cdn.shopify.com/s/files/1/0438/1069/t/64/assets/icons.svg?17229324992272953629";
 </script>
-<script src="//cdn.shopify.com/s/files/1/0438/1069/t/39/assets/sitescripts.js?9112393443200147866" type="text/javascript"></script>
-<script src="//cdn.shopify.com/s/files/1/0438/1069/t/39/assets/app.js?9112393443200147866" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0438/1069/t/64/assets/sitescripts-min.js?17229324992272953629" type="text/javascript"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.16.0/jquery.validate.min.js" type="text/javascript" charset="utf-8"></script>
+<script>$.validator.methods.email = function( value, element ) { return this.optional( element ) || /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/.test( value ); }</script>
+<script src="//cdn.shopify.com/s/files/1/0438/1069/t/64/assets/app-min.js?17229324992272953629" type="text/javascript"></script>
+
+
+
 
 
 <script type="text/javascript">
+  var cartCounter = $('.cartCount');
   jQuery(function() {
-    CartJS.init({"token":"e1e9d7ebde9c0f2752db53773f42f91b","note":null,"attributes":{},"original_total_price":0,"total_price":0,"total_discount":0,"total_weight":0,"item_count":0,"items":[],"requires_shipping":false}, {
+    CartJS.init({"token":"e0ce8ea5dc23ced25532f5040c0326fd","note":null,"attributes":{},"original_total_price":0,"total_price":0,"total_discount":0,"total_weight":0.0,"item_count":0,"items":[],"requires_shipping":false,"currency":"USD"}, {
       "moneyFormat": "${{amount_no_decimals}}"
     });
+  });
+  $(document).on('cart.requestComplete', function(event, cart) {
+      var count = cart.item_count;
+      if (count == 0){
+        cartCounter.removeClass('show').html('');
+      } else {
+        cartCounter.addClass('show').html(cart.item_count);
+      }
   });
 </script>
 
@@ -764,286 +1308,100 @@ var __st={"a":4381069,"offset":-18000,"reqid":"042a8957-af08-49f1-a614-d5d5a6925
 
 
 
-<script type="text/javascript" src="//www.klaviyo.com/media/js/public/klaviyo_subscribe.js"></script>
+
+
+
+
+
 
 
 <script type="text/javascript">
-  // - Send Klaviyo Footer Form
+$(document).ready(function(){
+  $(".signup_form_logic").each( function() {
+    $(this).validate({
+      rules: {
+        email: {
+          required: "Please enter a valid email",
+          email: true
+        }
+      },
+      highlight: function(element, errorClass, validClass) {
+        console.log('error');
+        $(this).addClass('error');
+      },
+      unhighlight: function(element, errorClass, validClass) {
+        console.log('valid');
+        $(this).removeClass('error');
+      },
+      submitHandler: function(form, ev) {
+        ev.preventDefault();
+        var emailVal = $(form).find('input[type="email"]').val();
+        var sourceVal = $(form).find('input[name="source"]').val();
+        var showOnSuccess = $(form).find('.show_on_success');
+        var hideOnSuccess = $(form).find('.hide_on_success');
+        // console.log('email '+emailVal+ ' source '+sourceVal);
+        var successRedirect = $(form).find('input[name="redirect"]').val();
+        var onSuccess = $(form).find('input[name="onSuccess"]').val();
+
+        // Retention Science - Push Data
+        _rsq.push(['_setUserProperties', { 'record_id':emailVal,'email':emailVal,'registration_source':sourceVal}]);
+        _rsq.push(['_setUserEmail', emailVal]);
+        _rsq.push(['_setAction', 'email_entered']);
+        _rsq.push(['_track']);
+
+        // On Success UI Update
+        hideOnSuccess.hide();
+        showOnSuccess.fadeIn();
+
+        // For Modal Forms
+        if ($(form).hasClass('isModal')) {
+          var isModal = true;
+          setTimeout(close_popup, 4000);
+        }
+
+        // If Redirect, Redirect
+        if (successRedirect) {
+          setTimeout(function(){
+            window.location.href = successRedirect;
+          }, 1000);
+        }
+        // General Toaster
+        if (onSuccess == 'generalToaster') {
+          var generalToasterWrap = document.querySelector('#general-toaster');
+          setTimeout(function(){
+            $(generalToasterWrap).velocity({ translateY: '400px' }, { duration: 700 , easing: 'in-out-sine',
+              complete: function(){
+                $(generalToasterWrap).css({'display':'none'});
+              }
+            });
+          }, 4000);
+        }
+        // Set Cookie
+        createCookie('userEnagedEmailForm', 'yes', 1);
+      }
+    });
+  });
+});
+</script>
+
+
+<script>
   // Close Popup
   function close_popup(){
     $.magnificPopup.close();
   };
-  // On Footer Success
-  function klav_footer_success(){
-    $('#social header').hide();
-  };
-  // On Lighbox Success
-  function klav_modal_success(){
-    $('#klaviyo_popup .hide-on-success').hide(0, function() {
-        setTimeout(close_popup, 3000);
-    });
-  };
-  // On Opt Out
-  $('#klaviyo_popup small.opt_out').click(function(){
+  // Close Modal
+  $('.close_modal').click(function(){
     close_popup();
   });
-
-  // Send Footer Form
-  KlaviyoSubscribe.attachToForms('#klaviyo_footer_signup', {
-    hide_form_on_success: true,
-    custom_success_message: true,
-    extra_properties: {$source: 'Footer'},
-    success: function ($form) {
-      var email = $form.find('[name="email"]').val();
-      _learnq.push(['identify', { $email: email }]);
-      _learnq.push(['track', 'Signed Up via Footer']);
-      klav_footer_success();
-    }
-  });
-
-  // Send New Collection Form
-  KlaviyoSubscribe.attachToForms('#klaviyo_new_collection_signup', {
-    hide_form_on_success: true,
-    custom_success_message: true,
-    extra_properties: {$source: 'Landing_Page_Collection: 2016_07_Ireland'},
-    success: function ($form) {
-      var email = $form.find('[name="email"]').val();
-      _learnq.push(['identify', { $email: email }]);
-      _learnq.push(['track', 'Signed Up via Landing_Page_Collection: 2016_07_Ireland']);
-      klav_footer_success();
-    }
-  });
-
-  // Send New Collection Form
-  KlaviyoSubscribe.attachToForms('#klaviyo_vida_nueva_collection_signup', {
-    hide_form_on_success: true,
-    custom_success_message: true,
-    extra_properties: {$source: 'Landing_Page_Collection: 2016_09_Oaxaca'},
-    success: function ($form) {
-      var email = $form.find('[name="email"]').val();
-      _learnq.push(['identify', { $email: email }]);
-      _learnq.push(['track', 'Signed Up via Landing_Page_Collection: 2016_09_Oaxaca']);
-      klav_footer_success();
-    }
-  });
-
-  // Send New Collection Form
-  KlaviyoSubscribe.attachToForms('#klaviyo_joinery_collection_signup', {
-    hide_form_on_success: true,
-    custom_success_message: true,
-    extra_properties: {$source: 'Landing_Page_Collection: 2016_11_Joinery'},
-    success: function ($form) {
-      var email = $form.find('[name="email"]').val();
-      _learnq.push(['identify', { $email: email }]);
-      _learnq.push(['track', 'Signed Up via Landing_Page_Collection: 2016_11_Joinery']);
-      klav_footer_success();
-    }
-  });
-
-  // - Send Klaviyo Popup Form
-  KlaviyoSubscribe.attachToForms('#klaviyo_popup_form', {
-    hide_form_on_success: true,
-    custom_success_message: true,
-    extra_properties: {$source: 'Lightbox'},
-    success: function ($form) {
-      var email = $form.find('[name="email"]').val();
-      _learnq.push(['identify', { $email: email }]);
-      _learnq.push(['track', 'Signed Up via Lightbox']);
-      klav_modal_success();
-    }
-  });
-
-  // - Send Coming Soon Form
-  KlaviyoSubscribe.attachToForms('#coming_soon_signup', {
-    hide_form_on_success: true,
-    custom_success_message: true,
-    extra_properties: {$source: 'Coming Soon', Coming_Soon_Collection: '2016_07_Ireland'},
-    success: function ($form) {
-      var email = $form.find('[name="email"]').val();
-     _learnq.push(['identify', { $email: email }]);
-     _learnq.push(['track', 'Signed Up via Coming_Soon_Collection: 2016_07_Ireland']);
-    }
-  });
-
-  // Send Lonny Giveaway Form
-  KlaviyoSubscribe.attachToForms('#klaviyo_giveaway_signup', {
-    hide_form_on_success: true,
-    custom_success_message: true,
-    extra_properties: {$source: 'Landing Page: FORCUPOFJO'},
-    success: function ($form) {
-      var email = $form.find('[name="email"]').val();
-      _learnq.push(['identify', { $email: email }]);
-      _learnq.push(['track', 'Signed Up via Landing Page: FORCUPOFJO']);
-      klav_footer_success();
-    }
-  });
-
-  // Send Lonny Giveaway Form
-  KlaviyoSubscribe.attachToForms('#klaviyo_early_brazil_signup', {
-    hide_form_on_success: true,
-    custom_success_message: true,
-    extra_properties: {$source: '2016 Black Friday Collection', Coming_Soon_Collection: '2016 Black Friday'},
-    success: function ($form) {
-      var email = $form.find('[name="email"]').val();
-      _learnq.push(['identify', { $email: email }]);
-      _learnq.push(['track', 'Signed Up via  2016 Black Friday Collection']);
-      klav_footer_success();
-    }
-  });
-  // Send Remodelista Form Giveaway_2016_11_Remodelista
-  KlaviyoSubscribe.attachToForms('#klaviyo_remodelista_signup', {
-    hide_form_on_success: true,
-    custom_success_message: true,
-    extra_properties: {$source: 'Giveaway_2016_11_Remodelista'},
-    success: function ($form) {
-      var email = $form.find('[name="email"]').val();
-      _learnq.push(['identify', { $email: email }]);
-      _learnq.push(['track', 'Signed Up for The Citizenry Master List via Giveaway_2016_11_Remodelista']);
-      klav_footer_success();
-    }
-  });
-
-  // - Klaviyo Form Validation
-  $('#klaviyo_popup_form').isHappy({
-      fields: {
-          '.lightbox_email': {
-              required: true,
-              test: happy.email,
-              message: 'Please enter a valid email address.'
-          }
-      }
-  });
-  $('#klaviyo_footer_signup').isHappy({
-      fields: {
-          '.footer_email': {
-              required: true,
-              test: happy.email,
-              message: 'Please enter a valid email.'
-          }
-      }
-  });
-  $('#klaviyo_new_collection_signup').isHappy({
-      fields: {
-          '.footer_email': {
-              required: true,
-              test: happy.email,
-              message: 'Please enter a valid email.'
-          }
-      }
-  });
-  $('#coming_soon_signup').isHappy({
-      fields: {
-          '#k_id_email': {
-              required: true,
-              test: happy.email,
-              message: 'Please enter a valid email address.'
-          }
-      }
-  });
-  $('#klaviyo_giveaway_signup').isHappy({
-      fields: {
-          '#klaviyo_giveaway_signup .email': {
-              required: true,
-              test: happy.email,
-              message: ''
-          }
-      }
-  });
-  $('#klaviyo_joinery_collection_signup').isHappy({
-      fields: {
-          '#joinery_email': {
-              required: true,
-              test: happy.email,
-              message: 'Please enter a valid email address.'
-          }
-      }
-  });
-</script>
-
-  
-
-  <!-- Google Code for Remarketing Tag -->
-<!--------------------------------------------------
-Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
---------------------------------------------------->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 967755563;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/967755563/?value=0&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-
-  <script type="text/javascript"> var _learnq = _learnq || []; _learnq.push(['account', 'fSyUzS']); (function () { var b = document.createElement('script'); b.type = 'text/javascript'; b.async = true; b.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'a.klaviyo.com/media/js/analytics/analytics.js'; var a = document.getElementsByTagName('script')[0]; a.parentNode.insertBefore(b, a); })(); </script>
-
-
-
-<script type="text/javascript">
-  //
-  // Waitlist Form: Show or Trigger Send 
-  //
-  jQuery('#notify-me').click(function() {
-    jQuery('#notify-me').hide();
-    
-    jQuery('#notify-me-wrapper').fadeIn();
-    
-    return false;
-  });
-
-  //
-  // Waitlist Form: Send Data
-  //
-  $('#contact_form').submit( function(){
-	var email = $(this).find('input[type="email"]').val();
-    
-
-
-    if(email !== ''){
-      var data = $(this).serialize();
-      $.ajax({  
-        type: "POST",  
-        url: "/contact",  
-        data: data,  
-        success: function() { 
-          
-          var variantID = $('input#variantId').val();
-          console.log('successful waitlist signup from: '+email+variantID);
-
-          $('#notify-me-wrapper').hide();
-          $('#waitlist-success').fadeIn();
-		  
-
-          _learnq.push(['identify', {
-            '$email' : email,
-            'WaitlistVariantName' : '',
-            'WaitlistVariantID' : variantID
-          }]);
-          
-          _learnq.push(['track', 'Signed Up for Waitlist:  - '+variantID]);
-
-        },
-        error: function() {
-           console.log('waitlist fail');
-        }    
-      }); 
-    }
-    else {
-       console.log('waitlist error');
-    }
-    return false;
-  });  
-
 </script>
 
 
-
+<script data-cookieconsent="preferences" src="//cdn.shopify.com/s/files/1/0438/1069/t/64/assets/cookies-min.js?17229324992272953629"></script>
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MW893QN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 
   <!-- CRITEO -->
     <script type="text/javascript" src="//static.criteo.net/js/ld/ld.js" async="true"></script>
@@ -1065,6 +1423,90 @@ var google_remarketing_only = true;
 
 
 	<!-- END CRITEO -->
+
+  
+<style>#general-toaster{display:none;padding:2.1875rem 2.5rem 2.9375rem;background:rgba(56,56,56,0.98);position:fixed;bottom:0;z-index:10000000;width:100%;cursor:pointer}#general-toaster header{display:-ms-flexbox;display:flex;float:left;-ms-flex-preferred-size:60%;flex-basis:60%;width:60%}#general-toaster header .inner{display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap}#general-toaster label.error{position:absolute;bottom:-28px;font-weight:400}#general-toaster .title{color:white;margin:4px 0 0;display:inline-block;font-size:24px;padding-right:2.25rem;letter-spacing:1.44px;vertical-align:top}#general-toaster.error button.btn{pointer-events:none}#general-toaster .error_message{display:none !important}#general-toaster .unhappyMessage{top:44px}#general-toaster h5{display:block;margin:16px 0 0;text-align:center}#general-toaster .cp{margin:0;color:white;display:inline-block;max-width:398px;width:100%;padding:0 2.25rem}#general-toaster .form-w{float:left;-ms-flex-preferred-size:40%;flex-basis:40%;width:40%}#general-toaster form{max-width:24rem;margin:6px 0 0}#general-toaster input[type="email"]{background:white !important;border-color:white !important;text-transform:none;font-weight:400;width:66%;font-size:15px}#general-toaster input[type="email"]::-webkit-input-placeholder{color:#BDBDBD}#general-toaster input[type="email"]::-moz-placeholder{color:#BDBDBD}#general-toaster input[type="email"]:-ms-input-placeholder{color:#BDBDBD}#general-toaster input[type="email"]::placeholder{color:#BDBDBD}#general-toaster button.btn{width:34%}#general-toaster .close{position:absolute;right:12px;top:25px}@media only screen and (max-width: 51.5rem){#general-toaster .title{padding-left:0}}@media only screen and (max-width: 48rem){#general-toaster header{display:block;-ms-flex-preferred-size:46%;flex-basis:46%;width:46%}#general-toaster .title{padding-left:0}#general-toaster .cp{padding:8px 24px 0 0}#general-toaster .form-w{-ms-flex-item-align:end;align-self:flex-end;margin-bottom:10px;-ms-flex-preferred-size:54%;flex-basis:54%;width:54%}}@media only screen and (max-width: 40rem){#general-toaster{display:none !important}}
+</style>
+<footer id="general-toaster">
+	<div class="inner">
+		<header>
+			<h2 class="serif title text-left">Be the first to know</h2>
+				<p class="cp">Email subscribers get early access to new collections. Want to be first in line?</p>
+			</header>
+
+			<div class="form-w">
+				<form id="general_toaster_form" class="clearfix signup_form_logic p_rel on_dark single-split-form">
+			        <div class="success_message n_s_g show_on_success" style="display:none">
+			          <h5 class="ttn ltr1 color_mono_0"><b>You're in!</b></h5>
+			        </div>
+			        <div class="hide_on_success">
+			          <div class="field_group p_rel abs_error">
+			            <input type="email" value="" name="email" id="general_toaster_input" placeholder="Enter your email" class="email">
+			            <input type="hidden" name="source" value="General Signup_Toaster">
+			            <input type="hidden" name="onSuccess" value="generalToaster">
+			          </div>
+			          <div class="form_actions">
+			            <button type="submit" class="btn knockout peach color_mono_0" id="general_toaster-btn">Join the List</button>
+			          </div>
+			        </div>
+			      </form>
+				
+			</div>
+
+		</div>
+		<span class="close small white" id="close-gen-toaster"></span>
+	</footer>		
+  
+
+ 
+    <div data-findify-event="update-cart">
+      
+    </div>
+
+
+  <script async="" src="//cdn.shopify.com/s/files/1/0438/1069/t/64/assets/findify-min.js?17229324992272953629"></script>
+  <script async="" src="//findify-assets-2bveeb6u8ag.netdna-ssl.com/search/prod/the-citizenry.myshopify.com.min.js"></script>
+  <style>.initH {opacity:1}</style>
+
+
+<script>
+
+    setTimeout(function() {
+      $('.cart-wrap').transition({opacity:1});
+    }, 400);
+    var prevPage = document.referrer;
+    var prevPageEl = $('.prevPageLink');
+    if(prevPage.length){
+      prevPageEl.addClass('prevPageAvail');
+      prevPageEl.attr('href',prevPage);
+    }
+
+
+  $(function(){
+    var cart_li_items = $('.cart-items-list__item').length;
+    if(cart_li_items>3) {
+      $("#cart-preview").attr('data-cart-li-count', 'long');
+    }
+      else {
+        $("#cart-preview").attr('data-cart-li-count', cart_li_items);
+      }
+
+
+    $(document).on('cart.requestComplete', function(event, cart) {
+      var cart_li_items = $('.cart-items-list__item').length;
+
+      if(cart_li_items>3) {
+        $("#cart-preview").attr('data-cart-li-count', 'long');
+      }
+        else {
+          $("#cart-preview").attr('data-cart-li-count', cart_li_items);
+        }
+    });
+  });
+
+
+</script>
+
 
 
 
