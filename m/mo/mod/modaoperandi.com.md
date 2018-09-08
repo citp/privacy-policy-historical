@@ -1,95 +1,131 @@
-> *The following text is extracted and transformed from the modaoperandi.com privacy policy that was archived on 2018-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180221110242id_/https%3A//www.modaoperandi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modaoperandi.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908174348id_/https%3A//www.modaoperandi.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Moda Operandi
+# Moda Operandi | Moda Operandi
 
-We at Moda Operandi, Inc. created this Privacy Policy because we care about your privacy and we understand that you want control over how the information you provide to us is used, stored and shared. This Privacy Policy describes how we gather information from you when you visit the Moda Operandi, Inc. website located at www.modaoperandi.com (the “Site”), how your information is used and stored on the Moda Operandi iPhone or iPad app, and how we may use and share that information. By visiting our Site, you are accepting the practices described in this Privacy Policy and the accompanying [Terms and Conditions](https://web.archive.org/terms). 
+Moda Operandi, Inc. ("we," "us," or "our) created this Privacy Policy because we care about your privacy and we understand that you want to know how the information you provide to us is used, stored, and shared. This Privacy Policy describes how we gather information from you when you visit the Moda Operandi, Inc. website located at www.modaoperandi.com (the "Site"), access our Mobile App (the "Mobile App"), or purchase our products and services ("Products" and "Services") through the Site. 
 
-In this Privacy Policy, the words “we,” “us” and “our” refer to Moda Operandi.   
+By visiting our Site, accessing our Mobile App, or purchasing our Products you are accepting the practices described in this Privacy Policy and the accompanying [Terms and Conditions](https://www.modaoperandi.com/terms). Capitalized terms not defined in this Privacy Policy have the meaning ascribed to them in the Terms and Conditions. 
+
+### The Information We Collect and Share
+
+**Contact and Registration Information**
+
+We collect contact information on our Site and Mobile App from visitors and customers who wish to obtain information or support, or to purchase our Products. The contact information you will be asked to provide may include first name, last name, address, telephone number, and e-mail address ("Contact Information"). The Contact Information is used to establish an account, provide the requested Service or information, and to contact prospective and current customers for purposes of direct marketing of our current and future products and services. Such direct marketing shall be sent in response to a request from you to receive marketing emails, newsletters of similar communications, or when you have purchased Products or Services, or expressed interest in such Products or Services (e.g., attending a Showroom or Customer Acquisition Appointment). Customers will also be asked to provide their name and email address in connection with booking a Showroom or Customer Acquisition Appointment. 
+
+**Billing Information**
+
+If you wish to purchase a product or service through the Site, you will be required to provide certain additional information which may include a credit card number, expiration date, card verification value, and similar information ("Billing Information"). Billing Information is collected and processed by our third-party payment processor operating as our agent. Moda Operandi does not directly obtain or process any Billing Information. 
+
+**Customer CRM Data**
+
+We use a variety of tools for marketing purposes. Our B2C customer relationship management database (such as Oracle Responsys or Zaius), manages the storage of customer email addresses and will collect your email address, name, and products currently in your shopping cart in order to create and optimize targeted marketing campaigns. Our sales team uses an internal CRM system, "Stylist Suite", to access order history information as well as product and interaction preferences. Any personal data provided to/or collected, will be used to provide our products and services in accordance with this Privacy Policy. You may request Moda Operandi to manually remove your account information from either platform. To submit a request, please contact [privacy@modaoperandi.com](mailto:privacy@modaoperandi.com) and allow us a reasonable time to process your request. 
+
+**Opt-Out for Direct Marketing; Email Management**
+
+You may opt out at any time from the use of your personal information for direct marketing purposes, and/or the transfer of your personal information to third parties for direct marketing purposes by emailing the instructions to [ privacy@modaoperandi.com ](mailto:privacy@modaoperandi.com) . Please allow us a reasonable time to process your request. 
+
+You may also manage your receipt of marketing and non-transactional communications by clicking on the "Unsubscribe" link located on the bottom of any Moda Operandi marketing email and following the instructions found on the page to which the link takes you. You cannot opt out of receiving transactional e-mails related to the Site. Please allow us a reasonable time to process your request. 
+
+**Third-Party Analytics Providers**
+
+We use one or more third-party analytics services (such as Google Analytics, Google Optimize and Zaius on the Site and Mobile App) to evaluate your use of the Site and Mobile App, compile reports on activity (based on their collection of IP addresses, Internet service provider, browser type, operating system and language, referring and exit pages and URLs, data and time, amount of time spent on particular pages, what sections of the Site and Mobile App you visit, number of links clicked, search terms and other similar usage data), and analyze performance metrics. These third parties use cookies and other technologies to help collect, analyze and provide us reports and/or data. By accessing and using the Site and Mobile App, you consent to the processing of data about you by these analytics providers in the manner and for the purposes set out in this Privacy Policy. For more information on these third parties, including how to opt-out from certain data collection, please visit the sites below. Please be advised that if you opt-out of any service, you may not be able to use the full functionality of the Site and the Mobile App. We may also use a data collection automation and marketing reporting service (such as Funnel.io) for the purposes of automating and centralizing access to our third-party provider data. 
+
+For Google Analytics, please visit: [ https://www.google.com/analytics ](https://www.google.com/analytics) . 
+
+For Zaius, please visit: [ https://www.zaius.com/privacy-policy/ ](https://www.zaius.com/privacy-policy/)
+
+**Remarketing**
+
+We partner with the third party advertising companies and marketing organizations listed below to either display advertising on our Site or to manage our advertising on other sites. Our ad network partners use cookies and web beacons (pixels) and may collect data, typically associated with online identifiers, including your email, email hash, user id, session id, cookie id, browser type, mobile device, referring url, member id, city country, demographic data, and information about your activities on this and other web sites to provide you targeted advertising based upon your consumer profile. We use Tealium as our tag management system (tags are another name for web beacons or pixels, which enable us and third parties to recognize cookies on your browser). For more information about Tealium, including how to opt out from certain data collection, please visit <https://tealium.com/>. 
+
+Below is a list of remarketing/advertising providers that we use; however, such list may be subject to change based on the campaigns that we run. We will endeavor to update this as much as possible. You may use the link next to the companies listed below to learn more about them and, if available, how to opt-out from such company serving you targeted ads. Please note this does not-opt you out of being served advertising generally. You will continue to receive generic ads]. 
+
+**Advertisers**
+
+  * Oracle BlueKai: [ https://www.oracle.com/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html ](https://www.oracle.com/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html)
+  * Google: [ https://policies.google.com/technologies/ads ](https://policies.google.com/technologies/ads)
+  * Rakuten Linkshare: [ https://rakutenmarketing.com/legal-notices/services-privacy-policy ](https://rakutenmarketing.com/legal-notices/services-privacy-policy)
+  * Facebook/Instagram: [ https://www.facebook.com/about/privacy/update ](https://www.facebook.com/about/privacy/update)
+  * Bing: [ https://www.docracy.com/0fap0koedur/bing-com-privacy-policy-tos ](https://www.docracy.com/0fap0koedur/bing-com-privacy-policy-tos)
+  * Criteo: [ https://www.criteo.com/privacy/ ](https://www.criteo.com/privacy/)
+  * Netmining: [ http://netmining.com/ ](http://netmining.com/)
+  * Dstillery: [ https://dstillery.com/privacy-policy/ ](https://dstillery.com/privacy-policy/)
+  * YieldMo: [ https://www.yieldmo.com/privacy/ ](https://www.yieldmo.com/privacy/)
 
 
-The Information We Collect
 
-Personal Data
+**How to Opt-out from Interest-Based Advertising**
 
-Personal Data is information that identifies you or can be used to identify or contact you (collectively, “Personal Data”). Such Personal Data may include your name, address, email address, telephone number, birthdate (primarily for eligibility purposes). When registering to become a member (“Member”) on our Site, you will be required to provide us with Personal Data.
+You may learn more about interest-based advertising from the below links; further, provided that any such company is a member of the below self-regulatory bodies, you may be able to effectuate your opt-out here as well: 
 
-Billing Information
-
-If you wish to purchase a product or service through the Site, you will be required to provide certain information in addition to the Personal Data noted above. Such information may include a credit card number, PayPal account number, and similar information (collectively, “Billing Information”).
-
-Other Information and Cookies
-
-In addition to the Personal Data and Billing Information noted above that you voluntarily provide to us, we may collect additional information (collectively, “Other Information”). Such Other Information may include (i) information that we automatically collect when you visit the Site, such as your IP address, Internet service provider, browser type and language, referring and exit pages and URLs, date and time of your visit, amount of time spent on particular pages, what sections of the Site you visit, number of links you click while in the Site, and similar information concerning your use of the Site; and (ii) additional information that you voluntarily provide to us regarding your use and interest in our programs, offers, products, and services. When using the app, such Other Information may also include your location. 
-
-Other Information also includes information that we collect using “cookie” technology. Cookies are bits of information that a website transfers to an individual’s hard drive for record-keeping purposes. Cookies can enhance your online experience by automatically saving your preferences. We use cookies because they help us provide you with a better online experience. The information we collect through the use of cookies allows Moda Operandi to determine when and for how long you logged on to the Site, so that we can try to understand how to better serve your needs. If you object to the use of cookies for any reason, you may set your Internet browser to notify you when you receive a cookie, giving you the opportunity to decide whether to accept it. If you decline to receive cookies, you may have difficulty using certain features of the Site.
-
-The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy policy. We do not have access or control over these cookies. We do not tie the information gathered to our Customers’ or Users’ personal data.
-
-The Information Collected by or Through Third-Party Companies
-
-We may share Other Information about your activity on the Site with third parties for the purpose of tailoring, analyzing, managing, reporting, and optimizing advertising you see on the Site and elsewhere. These third parties may use cookies, pixel tags (also called web beacons or clear gifs), and/or other technologies to collect such Other Information for such purposes. Pixel tags enable us, and these third-parties, to recognize a browser’s cookie when a browser visits the site on which the pixel tag is located in order to enable such things as tailoring appropriate advertisements.
-
-Behavioral Targeting / Re-Targeting
-
-We partner with a third party ad network to either display advertising on our Site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal data about your activities on this and other web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences.truste.com/). You may opt out of Google retargeting by clicking [here](https://tools.google.com/dlpage/gaoptout/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
-
-How We Use and Share Your Information 
-
-We use the Personal Data, the Billing Information, and the Other Information to provide you access to and usage of the Site, solicit your feedback, inform you about our products and services and those of our third-party marketing partners, to administer our 
-
-rewards and promotional programs, and to improve our services to you. Also, we may use and/or share the Personal Data, the Billing Information, and/or the Other Information as described below. If Moda Operandi intends on using any Personal Data, Billing Information, or Other Information in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which it is collected, or, if you have not been so informed, we will inform you and obtain your consent after collection, but before use. Otherwise, we will only share personal data with third parties as outlined in this Privacy Policy. 
-
-  * Moda Operandi, like many businesses, sometimes hires other companies to perform certain business-related functions. For example, we may pass your Personal Data and Billing Information to our designated service providers in order to process payments, ship products, send mailings, and maintain databases. When we employ another company to perform a function of this nature, we provide the company only with the information they need to perform their specific function. These companies are authorized to use your personal data only as necessary to provide these services to us. By engaging in any transactions on our Site, you agree and consent to Moda’s forwarding of your Personal Data, Billing Information and Other Information to said third parties.
-  * We may share your Personal Data and Other Information with our third-party promotional and marketing partners, including, without limitation, businesses participating in our various programs. If you do not want us to share your personal information with these companies, please contact us. Moda Operandi does not sell and/or rent personal information to third-parties or any other companies.
-  * Moda Operandi may sponsor promotions or contests directly or through third parties, or Moda Operandi may enter into collaborative relationships with other third parties on the Site. If you participate in these activities or events, you may be asked to provide Personal Data or to answer questions that seek your personal data. Participation in these promotions or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. In certain instances failure to disclose the information may prohibit you from participating in promotions and/or contests.
-  * In an ongoing effort to better understand our users and our Site, we might analyze the Other Information in aggregate form in order to operate, maintain, manage, and improve the Site. This aggregate information does not identify you personally. We may share this aggregate data with our affiliates, agents, and business partners. We may also disclose aggregated user statistics in order to describe our products and the Site to current and prospective business partners and to other third parties for other lawful purposes.
-  * Moda Operandi may disclose your Personal Data, Billing Information, and/or Other Information if required to do so by law or in the good-faith belief that such action is necessary to (a) comply with a subpoena or legal obligation (b) protect and defend the rights or property of Moda Operandi, (c) act in urgent circumstances to protect the personal safety of Members or other users of the Site or the public (d) protect against legal liability or (e) any third party with your prior consent.
-  * As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data, Billing Information, and Other Information may be part of the transferred assets. You will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your personal data, as well as any choices you may have regarding your personal data. Once the data is transferred pursuant to this Paragraph, we have no further responsibility, control or ownership of it.
+  * Network Advertising Initiative (NAI) - [ http://optout.networkadvertising.org/ ](http://optout.networkadvertising.org/)
+  * Digital Advertising Alliance (DAA) - <http://optout.aboutads.info/>
+  * Digital Advertising Alliance Canada (DAAC) - [ http://youradchoices.ca/choices ](http://youradchoices.ca/choices)
+  * Digital Advertising Alliance EU (EDAA) - [ http://www.youronlinechoices.com/ ](http://www.youronlinechoices.com/)
+  * DAA AppChoices page - [ http://www.aboutads.info/appchoices ](http://www.aboutads.info/appchoices/)
 
 
 
-Information Posted On Public Forums
+**Onward Transfers to Third Parties**
 
-We feature or may in the future feature public forums such as chat rooms, message boards, bulletin boards, user reviews, virtual closets, and similar activities where you and other users of our Site can communicate with one another (collectively, “Public Forums”). Anytime you post, please be aware that you are posting using a third party application and we have no access or control over this information. To request removal of your personal information from our blog, you can either log into the third party application and remove your comment or you can contact the appropriate third party application. Your interaction with these features is governed by the privacy policy of the company providing it.
+Moda Operandi, like many businesses, sometimes hires other companies to perform certain business-related functions. We may disclose personal information to our affiliates and subsidiaries that assist in providing the Services or supporting our Site and the Mobile App. We may disclose personal information to certain third party companies (some of which described above) but only to the extent needed to enable them to provide such services. The types of companies that may receive personal information and their functions are: database management/backup services, shippers (3PLs), mail centers, promotional and marketing partners, sweepstake and contest operators, advertising, payment processing services, customer service, hosting services, IT support services, and sales and customer support companies. These companies are authorized to use your personal data only as necessary to provide these services to us. 
 
-ANY INFORMATION (INCLUDING PERSONAL DATA) THAT YOU POST IN ANY PUBLIC FORUM ON OUR SITE IS PUBLIC INFORMATION AND MAY BE SEEN, COLLECTED, OR USED FOR ANY REASON BY ANYONE, INCLUDING THIRD PARTIES NOT AFFILIATED WITH MODA OPERANDI.
+**Aggregate Data**
 
-You should think carefully before disclosing any information in any Public Forum on our Site.
+In an ongoing effort to better understand our users and our Site and Mobile App, we might analyze your information in aggregate form in order to operate, maintain, manage, and improve the Site, the Services, and the Mobile App. This aggregate information does not identify you personally. 
 
-Accessing, Modifying and Deleting Personal Data and Communication Preferences
+We may share this aggregate data with our affiliates, agents, and business partners. We may also disclose aggregated user statistics in order to describe our products and the Site to current and prospective business partners and to other third parties for other lawful purposes. 
 
-You may access, review, delete, and/or make changes to Personal Data that you have provided to us by clicking on "[My Account](https://web.archive.org/account)" on our Site or by emailing us at [care@modaoperandi.com](mailto:care@modaoperandi.com). 
+**Customer Profiles**
 
-We will respond to your request to access Personal Data within 30 days. In addition, you may manage your receipt of marketing and non-transactional communications by clicking the “unsubscribe” link located at the bottom of any Moda Operandi marketing emails or by emailing your request to [care@modaoperandi.com](mailto:care@modaoperandi.com). We will use commercially reasonable efforts to process such requests in a timely manner. You should be aware, however, that it is not always possible to completely remove or modify information in our subscription databases. You cannot opt out of receiving transactional emails related to your account with Moda Operandi. 
+We use the information we have about your past purchases to create customer profiles. We use these profiles to deliver personalized user experiences. You may opt out at any time from the use of your personal information for segmentation and profiling purposes, and/or being provided a different customer experience based on your profile by emailing [privacy@modaoperandi.com](mailto:privacy@modaoperandi.com). Please allow us a reasonable time to process your request. 
 
-We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+**Disclosures to Public Authorities**
 
-California Residents
+Moda Operandi is required to disclose personal information in response to lawful requests by public authorities, including for the purpose of meeting national security or law enforcement requirements. We may also disclose personal information to other third parties when compelled to do so by government authorities or required by law or regulation including, but not limited to, in response to court orders and subpoenas. 
 
-Under California Civil Code Section 1798.83, California residents who have an established business relationship with us may choose to opt out of our sharing your Personal Data with third parties for direct marketing purposes. If you are a California resident and you have already granted us this permission and (1) you now wish to opt out; or (2) you wish to request certain information regarding our disclosure of your Personal Data to third parties for direct marketing purposes, please contact us as described in the “How to Contact Us” section below.
+**Business Transfers**
 
-A Special Note Regarding Children
+As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, we expect that information that we have collected, including personal information would be transferred to the surviving entity in a merger or the acquiring entity. All such transfers shall be subject to our commitments with respect to the privacy and confidentiality of such personal information as set forth in this Privacy Policy. This policy shall be binding upon Moda Operandi and its legal successors in interest. 
 
-The Site is not directed to children under the age of 13. We adhere to the Children’s Online Privacy Protection Act (“COPPA”) and will not knowingly register or otherwise collect Personal Data from any child under the age of 13. We ask that minors under the age of 13 not submit any Personal Data to us. If a child under the age of 13 has provided us with Personal Data, a parent or guardian of that child may contact us as described in the “How to Contact Us” section below and request that such information be deleted from our records.
+**Information Posted On Public Forums**
 
-Links to Other Websites
+We feature or may in the future feature public forums such as blogs, chat rooms, message boards, bulletin boards, user reviews, virtual closets, and similar activities where you and other users of our Site can communicate with one another (collectively, "Public Forums").You may voluntarily post and share information through the Public Forums available from time to time through the Site, the App, and the Services. NONE of the information you provide to through the Public Forums or through use of these features are protected by this Privacy Policy including any personal information. THIS PRIVACY POLICY DOES NOT APPLY TO ANY INFORMATION (INCLUDING PERSONAL INFORMATION) THAT YOU PROVIDE USING ANY SUCH FEATURES. ALL SUCH INFORMATION IS PUBLIC INFORMATION AND MAY BE VIEWED, COLLECTED, USED, MODIFIED AND/OR DISCLOSED FOR ANY PURPOSE BY MODA OPERANDI, ITS AFFILIATES AND SUBSIDIARIES, ANY USER OF THE SITE, THE APP OR THE SERVICES, AND THE PUBLIC. 
 
-The Site may contain links to third-party websites. We have no control over the privacy practices or the content of any of our business partners, advertisers, sponsors, or other websites to which we provide links. As such, we are not responsible for the content or the privacy policies of those third-party websites. You should check the applicable third-party privacy policy and terms and conditions when visiting any other websites.
+You should think carefully before disclosing any information in any Public Forum on our Site. 
 
-Security
+**Retention of Personal Information**
 
-We have reasonable security measures in place intended to protect against the loss, misuse or alteration of Personal Data, Billing Information, and Other Information that we have collected from you at the Site. However, we are unable to guarantee that the security measures we take will not be penetrated or compromised, or that your Personal Data will remain secure under all circumstances.
+We will retain your personal information in a form that identifies you only for as long as it serves the purpose(s) for which it was initially collected as stated in this Privacy Policy, subsequently authorized, or as permitted under applicable law. 
 
-When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). If you have any questions about security on our Site, you can contact us at [info@modaoperandi.com](mailto:info@modaoperandi.com). 
+**Your Rights**
 
-Single Sign-On
+Upon request to [privacy@modaoperandi.com](mailto:privacy@modaoperandi.com), with the subject line, "Privacy Rights", we will provide you with confirmation as to whether we are processing your personal data, and have the data communicated to you within a reasonable time. You have the right to access, correct, amend or delete your personal data where it is inaccurate or has been processed in violation of this Privacy Policy. Please allow us a reasonable time to respond to your inquiries and requests. 
 
-Our web site includes social media features, such as the Facebook Like button and widgets, such as the ShareThis button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our web site. Your interactions with these features are governed by the privacy policy of the company providing it.
+**California Residents**
 
-Changes to Our Privacy Policy
+Under California Civil Code Section 1798.83, California residents who have the right to obtain certain information about the types of personal information that companies with whom they have an established business relationship with (and are not otherwise exempt) have shared with third parties for direct marketing purposes during the preceding calendar year, including the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties if you wish to submit a request pursuant to Section 1798.83, please contact Moda Operandi via email at [privacy@modaoperandi.com](mailto:privacy@modaoperandi.com). In addition, Moda Operandi does not monitor or recognize or honor any "do not track" mechanisms or signals. 
 
-This Privacy Policy is effective as of the date stated at the top of this policy. We may change this Privacy Policy from time to time, and will post any changes on our Site as soon as they go into effect. By accessing the Site after we make any such changes to this Privacy Policy, you are deemed to have accepted such changes. Please be aware that, to the extent permitted by applicable law, our use of information is governed by the Privacy Policy in effect at the time we use the information. Please refer back to this Privacy Policy on a regular basis. If we make any material changes we will notify you by email sent to the e-mail address specified in your account or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+**Children**
 
-How to Contact Us
+The Site is not directed to children under the age of 13. We adhere to the Children's Online Privacy Protection Act ("COPPA") and will not knowingly register or otherwise collect personal information from any child under the age of 13. We ask that minors under the age of 13 not submit any personal information to us. If you have reason to believe a child under the age of 13 has provided us with personal information, please contact us as described in the "How to Contact Us" section below and request that such information be deleted from our records. 
 
-If you wish to contact us about this Privacy Policy, you may reach us by email at [info@modaoperandi.com](mailto:info@modaoperandi.com) or by telephone at 1 (888) 797-2741 in the U.S. and Canada or 1 (212) 796-5704 internationally. 
+**Links to Other Websites**
+
+The Site may contain links to third-party websites. We have no control over the privacy practices or the content of any of our business partners, advertisers, sponsors, or other websites to which we provide links. As such, we are not responsible for the content or the privacy policies of those third-party websites. You should check the applicable third-party privacy policy and terms and conditions when visiting any other websites. 
+
+**How we Protect your Information**
+
+Moda Operandi takes very seriously the security and privacy of the personal information that it collects pursuant to this Privacy Policy. Accordingly, we will implement reasonable and appropriate security measures to protect your personal information from loss, misuse and unauthorized access, disclosure, alteration and destruction, taking into account the risks involved in processing and the nature of such data, and comply with applicable laws and regulations. 
+
+**Single Sign-On**
+
+Our web site includes social media features, such as the Facebook Like button and widgets, such as the ShareThis button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our web site. Your interactions with these features are governed by the privacy policy of the company providing it. 
+
+**Changes to Our Privacy Policy**
+
+This Privacy Policy is effective as of the date stated at the top of this policy. We may change this Privacy Policy from time to time, and will post any changes on our Site as soon as they go into effect. By accessing the Site after we make any such changes to this Privacy Policy, you are deemed to have accepted such changes. Please be aware that, to the extent permitted by applicable law, our use of information is governed by the Privacy Policy in effect at the time we use the information. Please refer back to this Privacy Policy on a regular basis. 
+
+**How to Contact Us**
+
+If you wish to contact us about this Privacy Policy, you may reach us by email at [privacy@modaoperandi.com](mailto:privacy@modaoperandi.com) with the subject line, "Privacy Policy." 
