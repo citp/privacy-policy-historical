@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the meetcircle.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629165925id_/https%3A//meetcircle.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetcircle.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908165822id_/https%3A//meetcircle.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy — Circle with Disney
+# Privacy Issues and Policies - Circle
+
+### General Privacy Issues and Circle Privacy Policies
+
+_Effective date: May 25, 2018_
 
 Circle Media Labs Inc. with its corporate office located 1201 NE Lloyd Blvd Ste 100, OR 97232, Portland, United States of America and our affiliated businesses (collectively, "Circle" or "us") are committed to being responsible custodians of the information you provide us and the information we collect in the course of operating our business. 
 
@@ -155,7 +159,7 @@ Circle or its duly authorized support representatives will only access your Circ
 
 Pursuant to Section 4.2 of Schedule 1 of Canada's Personal Information Protection and Electronic Documents Act (the **"Act"** ), Circle Media, Inc., a Nevada Corporation ( **"Circle"** ) provides this Privacy Notice ( **"Notice"** ) to its Canadian customers. The Act provides that the protection of Canadian citizens requires certain disclosures to be made before the acceptance of any offer of services. If after reading these disclosures you do not wish to use Circle's device (the **"Circle Device"** ) or services ( **"Services"** ), you may return your Circle Device for a full refund. 
 
-Circle believes that its Privacy Policy, as described in more detail in its [Terms of Use](https://web.archive.org/legal/license/) and [Privacy Policy](https://web.archive.org/legal/privacy/), meets or exceeds the requirements of the Act. It is Circle's interpretation of Section 7.2(2) of Division One of Part One of the Act that Circle's data collection activities fall within the Completed Business Transaction exemption to some requirements of the Act. Additionally, Circle does not collect "Personal Information" as defined in the Act unless it is encrypted in transit and at rest. Nonetheless, using the Services carries certain privacy risks unique to Canadians. Please review this Notice carefully. 
+Circle believes that its Privacy Policy, as described in more detail in its [Terms of Use](https://web.archive.org/legal/terms/) and [Privacy Policy](https://web.archive.org/legal/privacy/), meets or exceeds the requirements of the Act. It is Circle's interpretation of Section 7.2(2) of Division One of Part One of the Act that Circle's data collection activities fall within the Completed Business Transaction exemption to some requirements of the Act. Additionally, Circle does not collect "Personal Information" as defined in the Act unless it is encrypted in transit and at rest. Nonetheless, using the Services carries certain privacy risks unique to Canadians. Please review this Notice carefully. 
 
 **Circle's Servers are in the United States of America.** In order to provide the Services, the Circle Device uses the Internet to connect to Circle's servers. Those servers are located within the continental United States. The Act recommends that notice be given that data, which may include Personal Information, will travel between Canada and the United States, and that the data will rest on our servers. 
 
