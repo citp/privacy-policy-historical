@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizenship.gov.au privacy policy that was archived on 2018-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180331055703id_/https%3A//www.homeaffairs.gov.au/website/web-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizenship.gov.au privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908121234id_/https%3A//www.homeaffairs.gov.au/website/web-privacy-statement) for the most accurate reproduction.*
 
 # Web privacy statement
 
