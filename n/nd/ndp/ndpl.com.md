@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ndpl.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521155518id_/http%3A//tatapower-ddl.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ndpl.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908232128id_/http%3A//tatapower-ddl.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # TPDDl :: Privacy Policy
 
