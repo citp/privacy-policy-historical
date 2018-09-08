@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 911metallurgist.com privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128140351id_/https%3A//www.911metallurgist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 911metallurgist.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908202102id_/https%3A//www.911metallurgist.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy & Disclaimer
 
 **Privacy**
 
@@ -79,3 +79,18 @@
 **Changes to Privacy Policy**
 
 24\. If 911Metallurgist decides to change its Privacy Policy, it will post changes on this Privacy Policy page. Please refer back to this Privacy Policy regularly to review any amendments.
+
+Legal Information
+
+  1. The information provided on the 911Metallurgist web site has been amassed for your convenience. 911Metallurgist makes no guarantees as to the accuracy or completeness of any information contained in its web site.
+  2. 911Metallurgist, including directors, affiliates, officers, employees, agents, contractors, successors and assigns, does not accept any liability for any loss, damage or other injury resulting from its website use.
+  3. Links to other web sites are provided for your convenience and 911Metallurgist is not responsible for the information contained on those web sites. The suggestion of a link to another web site does not constitute an endorsement or approval of that web site, or any products or services offered on that web site, by 911Metallurgist.
+  4. 911Metallurgist, its directors, affiliates, officers, employees, agents, contractors, successors and assigns do not accept any liability: 
+    * of any investment decisions made on the basis of this information. This web site does not offer financial advice and should not be confused by such. 911Metallurgist urges you to obtain professional advice before proceeding with any investment.
+    * for any damages or losses whatsoever, relating to the use of this site and any other site linked to this site.
+  5. The limitation on liability contained in paragraph 4 applies to direct, indirect, consequential, special, punitive or other damages that you or others may suffer, as well as damages for loss of profit, business interruption or the loss of data or information.
+  6. Nothing in this web site constitutes or is intended to constitute an offer of, or an invitation to purchase or subscribe for, to securities.  911Metallurgist holds the copyright to this web site.  911Metallurgist grants you a limited licence to download this web site for personal use only. You are not permitted to reproduce or alter this web site, or any copy of it, for any other purpose without the prior express written consent of the team at 911Metallurgist.
+  7. 911Metallurgist regards your privacy as important and will take all reasonable steps to ensure that if you have subscribed to receive notification of web site updates; your e-mail address and contact information shall remain confidential.
+  8. 911Metallurgist reserves the right to make changes, modifications, additions, deletions and corrections to the web site, at any time and without notice.
+
+
