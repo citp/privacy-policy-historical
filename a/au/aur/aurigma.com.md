@@ -1,40 +1,36 @@
-> *The following text is extracted and transformed from the aurigma.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807031832id_/http%3A//www.aurigma.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aurigma.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908034706id_/https%3A//www.aurigma.com/privacy-policy) for the most accurate reproduction.*
 
 # Aurigma Privacy Policy
 
-## A. INTRODUCTION
+## A. Introduction
 
 PLEASE READ THIS DOCUMENT CAREFULLY. IT CONTAINS IMPORTANT INFORMATION THAT YOU SHOULD KNOW BEFORE CONTINUING TO USE OUR SERVICE. BY CONTINUING TO USE AURIGMA, INC.WEBSITE AND SERVICES YOU WILL BE DEEMED TO HAVE ACCEPTED THIS AURIGMA PRIVACY POLICY. Your use of the Aurigma and any services and software provided therein, including any dispute concerning privacy, is subject to this Privacy Policy. By using the Aurigma’s Website, you are accepting the practices set out in this Privacy Policy. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date below to determine if the policy has been modified since you last reviewed it. Your continued use of any portion of the Aurigma’s Website following posting of the updated Privacy Policy will constitute your acceptance of the changes.
 
-This privacy statement was last updated on 29 December 2009. Aurigma, Inc. and its affiliates (collectively, **_“Aurigma”_** ) has created this privacy statement in order to disclose its information gathering and dissemination practices for this internet Website, **www.aurigma.com** located in the Virginia, United States (the **_“Website”_** ).
+This privacy statement was last updated on 29 December 2009. Aurigma, Inc. and its affiliates (collectively, “Aurigma”) has created this privacy statement in order to disclose its information gathering and dissemination practices for this internet Website, www.aurigma.com located in the Virginia, United States (the “Website”).
 
 Upon reading this privacy statement, you will be informed regarding the following:
 
-(1) what personally identifiable information of yours or third party personally identifiable information is collected from you through the Website;
+  * (1) what personally identifiable information of yours or third party personally identifiable information is collected from you through the Website;
+  * (2) the organization collecting the information;
+  * (3) how the information is used;
+  * (4) with whom the information may be shared;
+  * (5) what choices are available to you regarding collection, use and distribution of the information;
+  * (6) the kind of security procedures that are in place to protect the loss, misuse or alteration of information under Aurigma’s control; and
+  * (7) how you can access and correct any inaccuracies in the information collected about you.
 
-(2) the organization collecting the information;
 
-(3) how the information is used;
-
-(4) with whom the information may be shared;
-
-(5) what choices are available to you regarding collection, use and distribution of the information;
-
-(6) the kind of security procedures that are in place to protect the loss, misuse or alteration of information under Aurigma’s control; and
-
-(7) how you can access and correct any inaccuracies in the information collected about you.
 
 Questions regarding this statement should be directed to [privacy@aurigma.com](mailto:privacy@aurigma.com).
 
-If you have any concerns or feel that there are certain problems or issues relating to compliance with the policies outlined in this privacy statement, please submit a report to [privacy@aurigma.com](mailto:privacy@aurigma.com).
+If you have any concerns or feel that there are certain problems or issues relating to compliance with the policies outlined in this privacy statement, please submit a report to [privacy@aurigma.com](mailto:privacy@aurigma.com).
 
 ### Word from Aurigma
 
-Aurigma has a strong commitment to providing superior service to all of our customers and visitors of this Website and particularly respecting your concerns about privacy. We understand that you may have questions about how this Website collects and uses information and we have prepared this statement to inform you of the privacy principles that govern the Website (the **_“Privacy Policy”_** ). We will not sell or rent your personally identifiable information or a list of our customers to third parties. However, as described in more detail below, there are limited circumstances in which some of your information will be shared with third parties, under strict restrictions, so it is important for you to review this Privacy Policy.
+Aurigma has a strong commitment to providing superior service to all of our customers and visitors of this Website and particularly respecting your concerns about privacy. We understand that you may have questions about how this Website collects and uses information and we have prepared this statement to inform you of the privacy principles that govern the Website (the “Privacy Policy”). We will not sell or rent your personally identifiable information or a list of our customers to third parties. However, as described in more detail below, there are limited circumstances in which some of your information will be shared with third parties, under strict restrictions, so it is important for you to review this Privacy Policy.
 
 This Privacy Policy contains numerous general and technical details about the steps we take to respect your privacy concerns. We have organized this Privacy Policy by major processes and areas so that you can quickly link to the information of most interest to you. The bottom line is that meeting your needs and expectations form the foundation of everything we do - including protecting your privacy.
 
-Personal information on this Website is collected by Aurigma and if after reviewing this Privacy Policy you have any questions or privacy concerns please contact [privacy@aurigma.com](mailto:privacy@aurigma.com).
+Personal information on this Website is collected by Aurigma and if after reviewing this Privacy Policy you have any questions or privacy concerns please contact [privacy@aurigma.com](mailto:privacy@aurigma.com).
 
 ### Changes in Privacy Policy
 
@@ -48,11 +44,11 @@ The Aurigma Website may also contain advertising and other links to other web si
 
 ### Legal Issues
 
-This Website may be subject to the laws of various jurisdictions, including the laws of the United States of America , European Union and Russian Federation, and other jurisdiction because the access to our Website may use internet traffic of different jurisdictions, including without limitation the United States of America , EU and Russian Federation . Aurigma will disclose personally identifiable information without your permission when required by law, or in good faith belief that such action is necessary to investigate or protect against harmful activities to Aurigma guests, visitors, associates, or property (including this Website), or to others. As mentioned above, laws related to personal identifiable information vary by country. For example, personally identifiable information collected in the European Union and its Member States is subject to the EU Directives concerning personal data, privacy and electronic communications, including but not limited to Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector and Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data and the subsequent legislation adopted in the EU Member States.
+This Website may be subject to the laws of various jurisdictions, including the laws of the United States of America , European Union and Russian Federation, and other jurisdiction because the access to our Website may use internet traffic of different jurisdictions, including without limitation the United States of America , EU and Russian Federation . Aurigma will disclose personally identifiable information without your permission when required by law, or in good faith belief that such action is necessary to investigate or protect against harmful activities to Aurigma guests, visitors, associates, or property (including this Website), or to others. As mentioned above, laws related to personal identifiable information vary by country. For example, personally identifiable information collected in the European Union and its Member States is subject to the EU Directives concerning personal data, privacy and electronic communications, including but not limited to Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector and Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data and the subsequent legislation adopted in the EU Member States.
 
 Aurigma may be required by law enforcement or judicial authorities to provide personally identifiable information to appropriate governmental authorities. If requested by law enforcement or judicial authorities, we will provide this information upon receipt of the appropriate documentation. Aurigma may also provide information to law enforcement to protect its property and the health and safety of individuals as permitted by statute.
 
-## B. COLLECTED INFORMATION
+## B. Collected Information
 
 ### Browsing
 
@@ -62,7 +58,7 @@ This Website does not collect personally identifiable information from your comp
 
 As a visitor to this Website, you can engage in many activities without providing any personal information as described above in the Section Browsing above. In connection with other activities, such as utilizing online software applications or purchasing or downloading any of the products and services available on the Website, Aurigma may ask you to voluntarily supply us with certain information about yourself by filling out and submitting an online form. It is completely optional for you to engage in these activities and/or make any purchases. If you elect to engage in these activities or make purchases, however, Aurigma may ask that you provide us personal information, defined as any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including but not limited to your first and last name, mailing address (including ZIP code), e-mail address, employer, and other personal information. This information is requested in conjunction with the purchase and registration of our Products or services. In addition, as noted below, minimum information is requested if you choose to subscribe to product updates.
 
-Aurigma may collect personal information as described above of registered users, service subscribers, and all posted advertisements information. All advertisements will be archived and stored on our servers. You may deactivate your personal information by contacting at [privacy@aurigma.com](mailto:privacy@aurigma.com). When and if you deactivate your personal information, all information stored and maintained as part of your personal information will be deleted from our servers, provided that the information may be retained by Aurigma for archival, backup and record purposes. The security of this information is addressed in the Section Security below.
+Aurigma may collect personal information as described above of registered users, service subscribers, and all posted advertisements information. All advertisements will be archived and stored on our servers. You may deactivate your personal information by contacting at privacy@aurigma.com. When and if you deactivate your personal information, all information stored and maintained as part of your personal information will be deleted from our servers, provided that the information may be retained by Aurigma for archival, backup and record purposes. The security of this information is addressed in the Section Security below.
 
 You never have to answer any questions, and you can decline this exchange of information at any time. However, if you should choose to withhold requested information, we may not be able to provide you with some of the services dependent upon the collection of this information. Depending upon the activity, some of the information that we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity or purchase, you will not be able to engage in that activity or make such a purchase. Aurigma will inform on the mandatory and/or optional character of the requested and/or required information.
 
@@ -70,7 +66,7 @@ All posted personal information in advertisements and postings will be available
 
 Aurigma will only share your information with outside parties in ways that are described in this privacy statement or if we are required to do so by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law, cooperate with law enforcement agencies, or comply with a legal process served on our Website and the subsequent legislation adopted in the EU Member States.
 
-When you use the Website, Aurigma or third parties authorized by Aurigma may also collect certain technical and routing information about your computer to facilitate your use of the Website and its services. When you surf the Internet, your Internet browser (such as Mozilla Firefox or Microsoft Internet Explorer) automatically transmits some information to Aurigma every time you access content on one of our internet domains within the Website. Examples of such information include the URL of the Web page you were just on (known as the _" **Refer** "_), the IP (or Internet Protocol) address of the computer you are using, or the browser version you are using to access our site. All of this information may be collected by Aurigma and used to help improve our offerings to you.
+When you use the Website, Aurigma or third parties authorized by Aurigma may also collect certain technical and routing information about your computer to facilitate your use of the Website and its services. When you surf the Internet, your Internet browser (such as Mozilla Firefox or Microsoft Internet Explorer) automatically transmits some information to Aurigma every time you access content on one of our internet domains within the Website. Examples of such information include the URL of the Web page you were just on (known as the "Refer"), the IP (or Internet Protocol) address of the computer you are using, or the browser version you are using to access our site. All of this information may be collected by Aurigma and used to help improve our offerings to you.
 
 We use such data to facilitate and track your use of the Website and its services. Aurigma also uses such environmental variables to measure traffic patterns on the Website. Without expressly informing you in each particular circumstance, we do not match such information with any of your personal information.
 
@@ -80,9 +76,9 @@ Aurigma may establish relationships with various service providers whose service
 
 ### Updating Your Personal Preferences
 
-You may have access and correct your personal information and privacy preferences by writing Aurigma at [privacy@aurigma.com](mailto:privacy@aurigma.com).
+You may have access and correct your personal information and privacy preferences by writing Aurigma at [privacy@aurigma.com](mailto:privacy@aurigma.com).
 
-As a registered user you have the right to access and change your personal information and privacy preferences at any time by logging into your personal account, where you can view and make changes to your personal information. You may also access and change your personal information and privacy preferences by contacting us at [privacy@aurigma.com](mailto:privacy@aurigma.com).
+As a registered user you have the right to access and change your personal information and privacy preferences at any time by logging into your personal account, where you can view and make changes to your personal information. You may also access and change your personal information and privacy preferences by contacting us at [privacy@aurigma.com](mailto:privacy@aurigma.com).
 
 ### Information Relating to Children
 
@@ -94,7 +90,7 @@ Aurigma operates secure data networks protected by industry standard firewall an
 
 We treat the information you provide to us as confidential information; it is, accordingly, subject to our company’s security procedures and corporate policies regarding protection and use of confidential information. After personally identifiable information reaches Aurigma it is stored on a server with physical and electronic security features as customary in the industry, including utilization of login/password procedures and electronic firewalls designed to block unauthorized access from outside of Aurigma. Because laws applicable to personal information vary by country, our offices or other business operations may put in place additional measures that vary depending on the applicable legal requirements. Information collected on the sites covered by this Privacy Policy is processed and stored in the United States and possibly other jurisdictions and also in other countries where Aurigma and its service providers conduct business. All Aurigma employees are aware of our privacy and security policies. Your information is only accessible to those employees who need it in order to perform their jobs.
 
-## C. USE AND DISCLOSURE OF INFORMATION
+## C. Use And Disclosure of Information
 
 ### How your personal information is used
 
@@ -124,27 +120,24 @@ We reserve the right to send a one-time registration confirmation email, and inf
 
 Aurigma is retaining these rights because in limited cases we feel that we may need the right to contact you as a matter of law or regarding matters that will be important to you. These rights do not allow us to contact you to market a new or existing service if you have asked us not to do so, and issuance of these types of communications is rare.
 
-When you create a personal account with Aurigma and/or provide your e-mail address and other personal identification information, based on your personal preferences, we may periodically contact you via e-mail and provide information about special offers and promotions that may be of interest to you. These communications will relate to Aurigma offers and/or the promotions of select, reputable third parties with whom Aurigma has a strategic marketing relationship because they offer products or services that we believe would be of interest to you. We may use a third party e-mail service provider to send e-mails. This service provider is prohibited from using your e-mail address for any purpose other than to send Aurigma related e-mail. If you do not wish to receive e-mails with updates and information please unsubscribe by entering your email address on the [Unsubscribe page](http://www.aurigma.com/us.aspx). In addition, every time you receive an e-mail you will be provided the choice to opt-out of future e-mails by following the instructions provided in the e-mail. You may also opt-out online by updating your personal account as described in Updating Your Personal References Section above.
+When you create a personal account with Aurigma and/or provide your e-mail address and other personal identification information, based on your personal preferences, we may periodically contact you via e-mail and provide information about special offers and promotions that may be of interest to you. These communications will relate to Aurigma offers and/or the promotions of select, reputable third parties with whom Aurigma has a strategic marketing relationship because they offer products or services that we believe would be of interest to you. We may use a third party e-mail service provider to send e-mails. This service provider is prohibited from using your e-mail address for any purpose other than to send Aurigma related e-mail. If you do not wish to receive e-mails with updates and information please unsubscribe by entering your email address on the [Unsubscribe page](http://www.graphicsmill.com/us). In addition, every time you receive an e-mail you will be provided the choice to opt-out of future e-mails by following the instructions provided in the e-mail. You may also opt-out online by updating your personal account as described in Updating Your Personal References Section above.
 
-To ensure that your request is honored, you must provide Aurigma with information sufficient for us to accurately identify and access your records. The information we require is your full name, address and the email address you provided to Aurigma when you requested services or products. Aurigma reserves the right to contact you to verify that we have accurately identified your record. 
+To ensure that your request is honored, you must provide Aurigma with information sufficient for us to accurately identify and access your records. The information we require is your full name, address and the email address you provided to Aurigma when you requested services or products. Aurigma reserves the right to contact you to verify that we have accurately identified your record.
 
 ### Cookies
 
 Our Website uses "cookie" technology. "Cookies" are short pieces of data generated by a web server that a website stores on a user’s computer. Certain pages on our Website may require the use of a cookie for purposes of keeping information you enter on multiple pages together. Cookies also enable us to customize our Website and offerings to your needs and provide you with a better online experience with us. In addition, cookies are used to:
 
-  * measure usage of various pages on our Website to help us make our information; more pertinent to your needs and easy for you to access;
-  * identify and categorized the internet webpages from which the visitor came to the Website and observe the browsing patterns; and
-  * provide functionality such as online orders, Aurigma’s services and other functionality that we believe would be of interest and value to you.
-
-
-
+measure usage of various pages on our Website to help us make our information; more pertinent to your needs and easy for you to access;  
+identify and categorized the internet webpages from which the visitor came to the Website and observe the browsing patterns; and  
+provide functionality such as online orders, Aurigma’s services and other functionality that we believe would be of interest and value to you.  
 The types of cookies that we use are referred to as “session” cookies and “persistent” cookies. Session cookies are temporary and are automatically deleted once you leave the Website. Persistent cookies remain on your computer hard drive until you delete them. We do not use cookies to gather information concerning your visits to other websites, nor ascertain any personally identifiable information about you apart from what you voluntarily provide us in your dealings with Aurigma. Cookies do not, under ordinary circumstances, corrupt or damage your computer, programs, or computer files.
 
 In addition, the service providers we use to serve and host our advertisements, and/or deliver our e-mails, use session and persistent cookies, to track the number of times the Website is accessed and whether the site was accessed from an advertisement. There are no cookies in the advertisement or e-mail. A cookie is placed on your computer only if and when you click on an advertisement or open the e-mail. The cookie generated from the advertisement or e-mail does not contain any personally identifiable information and will remain on your hard drive until you delete it.
 
 You may set your browser to block cookies (consult the instructions for your particular browser on how to do this), although doing so may adversely affect your ability to perform certain transactions, use certain functionality and access certain content on our Website.
 
-## D. PRIVACY-RELATED INQUIRIES AND COMPLAINTS
+## D. Privacy-Related Inquiries and Complaints
 
 Aurigma takes and addresses its users’ privacy concerns with utmost respect and attention. If you believe that there was an instance of non-compliance with this Online Privacy Policy with regard to your personal information or you have other related inquiries or concerns, you may write or contact Aurigma at email: [privacy@aurigma.com](mailto:privacy@aurigma.com).
 
@@ -154,4 +147,4 @@ Please note that if you provide Aurigma with inconsistent privacy preferences (f
 
 Please note that Aurigma does not collect any credit card information unless and until you provide such information in connection with your payment for Aurigma’s paid services. Aurigma will never contact you to ask you for your credit card data or other personal information via e-mail, phone etc.
 
-Copyright © 2009 **Aurigma, Inc.** All rights reserved.
+Copyright © 2009-2014 Aurigma, Inc. All rights reserved.
