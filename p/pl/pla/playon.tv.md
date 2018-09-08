@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playon.tv privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514144910id_/https%3A//www.playon.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playon.tv privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908025636id_/https%3A//www.playon.tv/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | www.playon.tv
 
@@ -31,6 +31,8 @@ Any passwords to third-party sites that you provide to the PlayOn Cloud service 
 **Payment Information:** If you place an order for one of our products, you may be required to enter your credit card number and information, as well as your address and/or other contact information. Our credit card transaction data is processed and stored by PayPal or Vantiv — please see the section on security for more information.
 
 **Transactional Data:** We collect information from and about the devices you use to access the Services. This includes things like IP addresses, the type of browser and device you use, and identifiers associated with your devices.
+
+**Phone Number:** If you provide us with a phone number, neither MMT nor third-party vendors handling requests containing your phone number will ever store or share your phone number information.
 
 **Cookies and Pixel Tags:** We use technologies such as cookies and pixel tags to optimize your experience by ensuring that the most relevant information, searches, and offers are displayed to you while using the Services. Cookies are strings of text and numbers that can identify your computer to us when you use the Services, and which may be correlated with your information in our log files. You can set your browser to not accept cookies, but this may limit your ability to use the Services. MMT uses pixel tags to gather information about the emails we send to our users. Pixel tags are tiny graphic files, not visible to the human eye, that are included in our HTML-encoded email messages. When such a message is opened in an HTML-capable email program, the recipient's computer will access our email provider's server to retrieve the pixel tag file, allowing us to record and store, along with your email address, the date and time the recipient viewed the message, and other standard logging information. The pixel tag also may see or read cookies.
 
