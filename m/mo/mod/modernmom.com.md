@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the modernmom.com privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509055056id_/http%3A//www.modernmom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernmom.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908025736id_/https%3A//www.modernmom.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – ModernMom
+# Privacy Policy - ModernMom
 
 **Welcome**
 
@@ -56,15 +56,23 @@ This site takes reasonable steps to protect personally identifiable information 
 
 **Links to Other Web Sites**
 
-This site may contain links or references to other Web sites to which this Privacy Policy does not apply. We encourage you to read the Privacy Policy ofevery Web site you visit.
+This site may contain links or references to other Web sites to which this Privacy Policy does not apply. We encourage you to read the Privacy Policy of every Web site you visit.
 
 **Third Party Advertising**
 
-We use Connexity and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. Please visit Connexity.com  if you would like more information about this practice and to know your choices about not having this information used by these companies.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. Please visit Connexity.com  if you would like more information about this practice and to know your choices about not having this information used by these companies.
 
 **Third Party Cookies**
 
 In the course of serving advertisements to this site,  our third-party advertiser may place or recognize a unique cookie on your browser.
+
+**AFFILIATE DISCLAIMER**
+
+Some of the sections of this site will allow you to purchase different products and services online provided by other merchants, and not us. Some of the links that we post on our site are “affiliate links.” This means if you click on the link and purchase the item, we will receive an affiliate commission.*
+
+We are not responsible for the quality, accuracy, timeliness, reliability or any other aspect of these products and services. In addition, a merchant will likely have privacy and data collection practices that are different from ours. If you make a purchase from a merchant on their site or on a site that we have posted a link to, the information obtained during your visit to that merchant’s online store or site, and the information that you give as part of the transaction, such as your name, e-mail address, street address, telephone number, and credit card number, may be collected the merchant and us. For more information regarding a merchant, its online store, its privacy policies, and/or any additional terms and conditions that may apply, visit that merchant’s website and click on its information links or contact the merchant directly.
+
+We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
 
 **How to Contact Us**
 
