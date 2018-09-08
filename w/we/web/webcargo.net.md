@@ -1,118 +1,133 @@
-> *The following text is extracted and transformed from the webcargo.net privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317030509id_/https%3A//www.webcargo.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcargo.net privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909005357id_/https%3A//www.webcargo.net/privacy) for the most accurate reproduction.*
 
 # WEBCARGO
 
-**Last modified: May 25, 2003**
+Privacy Policy
 
-Welcome to WEBCARGO.net operated by WEBCARGO, Inc. WEBCARGO.net consists of web pages at the URLs www.webcargo.net, and pages linked thereto which display the WEBCARGO branding bar and which include a footer link to the WEBCARGO.net Terms and Conditions (the "Terms and Conditions") or to this WEBCARGO privacy policy (the "Privacy Policy").
+* * *
 
-This statement discloses the privacy practices of WEBCARGO.net. By using the WEBCARGO.net or by agreeing to the Terms and Conditions you consent and agree, without limitation or qualification, to the collection, use and disclosure of personal information and to the privacy practices set out in the Privacy Policy and to any other privacy or data collection policy which is displayed in WEBCARGO.net web site.
+### 1\. General Information
 
-The Privacy Policy contains detailed information about the following: 
+1.1 This policy (“Privacy Policy”) explains what information Webcargo Inc. and its subsidiaries (“Webcargo.net”) or our service providers collect from or about users of the Webcargo websites, including any content Webcargo may provide through the websites (collectively, the “Webcargo Websites”), the Webcargo.net services or any other services that Webcargo may provide through the Webcargo Websites (collectively, the “Service Offerings”), our mobile applications, and other interactions (e.g., customer service inquiries, user conferences, etc.), and states our practices regarding such information. If you are outside the European Economic Area (EEA), by accessing files, browsing, or otherwise using the Webcargo Websites, you have agreed to the use of your data as described in this Privacy Policy. If you are in the EEA, by accessing the Webcargo Websites, you have agreed to the use of my data as described in this Privacy Policy. It also describes the choices regarding use, access and collection of personal information as well as your rights to your personal data that we process. If you do not agree with the terms, please do not access or use the Webcargo Websites, Service Offerings, mobile applications, or any other aspect of Webcargo’s business.
 
-  1. 1\. What information of yours does WEBCARGO.net collect?
-  2. 2\. What are "cookies" and "web beacons" and how does WEBCARGO.net use them?
-  3. 3\. What organization is collecting the information?
-  4. 4\. How does WEBCARGO.net use the information?
-  5. 5\. With whom does WEBCARGO.net share the information that is collected?
-  6. 6\. How can you access, edit or delete your information?
-  7. 7\. How can you opt-out?
-  8. 8\. What types of security procedures are in place to protect against the loss, misuse or alteration of your information?
-  9. 9\. What can you do to better protect yourself on the Internet?
+### 2\. Scope
 
+2.1 This Privacy Policy applies to personal information and other information Webcargo or its service providers collect from or about the users of the Webcargo Websites, Service Offerings, our mobile applications and other interactions (e.g., customer service inquiries, user conferences, etc.). Unless otherwise specified below, this Privacy Policy does not apply to any other products or services or to information collected in any other way (whether online or offline) or for any other purpose.
 
+### 3\. Personal Information of our Customer’s Clients and Employees
 
-All questions or concerns regarding our use of your information and this statement should be directed to: 
+3.1 Webcargo collects information under the direction of our customers, and has no direct relationship with the individuals whose personal data it processes on behalf of such customers. When we provide services to our customers, in some instances we process personal information about their clients or employees (“Client Information”) on their behalf. In these situations, it is our customers rather than we who decide the reasons for which the Client Information will be processed.If you are a client or employee of one of our customers and would no longer like to be contacted by one of our customers that use our service or for details of how the Client Information will be used and protected, and details of how to access or correct the information, please refer to the privacy statement of the Webcargo customer to which you submitted your personal information. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our customers.
 
-WEBCARGO  
-Site Privacy Coordinator  
-PO Box.329 Stock Exchange Tower  
-Montréal (Québec) H4Z 1G8  
-CANADA  
-[privacy@webcargo.net](mailto:privacy@webcargo.net?subject=Privacy%20Policy)
+3.2 Webcargo acknowledges that you have the right to access your personal information. An individual who seeks access, or who seeks to correct, amend, or delete data should directly query Webcargo’s customer. If requested to remove data, we will respond within the applicable legal timeframe.
 
-Please note that the Privacy Policy may be updated from time to time so please check back periodically. The updated policy will be displayed or linked to web pages at WEBCARGO.net. By using WEBCARGO.net after the updated policy has been so posted, you consent and agree, without limitation or qualification, to the collection, use and disclosure of personal information and to the privacy practices set out in the updated Privacy Policy. Personal information collected prior to the posting of the updated Privacy Policy will only be used or disclosed for new purposes set out in an updated Privacy Policy once you have consented to such use by using WEBCARGO.net after the updated policy has been posted to WEBCARGO.net.
+3.3 We will retain personal data we process on behalf of our customers for as long as needed to provide services to our customers at their instruction. Webcargo may also retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-**1\. What information of yours does WEBCARGO.net collect?**
+### 4\. Personal Information
 
-The goal of WEBCARGO.net is to help you sending your e-document and simplyfied the management of doing it. To achieve this goal, WEBCARGO.net needs to collect personal information.
+4.1 For purposes of this Privacy Policy, “personal information” means information that can be used to personally identify you, such as your name, address, telephone number, e-mail address, user IDs and passwords, online identifiers, device information, billing and transaction information, credit card or other financial information, contact preferences, and similar information.
 
-Personal information includes information that tells us specifically who you are, such as your name and postal code. Wherever and whenever WEBCARGO collects personal information we make an effort to include a link to this Privacy Policy on that page. WEBCARGO collects personal information in the following ways from different parts of WEBCARGO.net:
+### 5\. Personal Information We Collect
 
-Personal information is gathered when you voluntarily register with WEBCARGO.net. If you choose to register you may provide WEBCARGO with your name, postal code, email address and other information. While not all of this information is required, the more information you volunteer (and the more accurate it is), the better we are able to customize your experience. If you choose not to provide the requested information, WEBCARGO.net may not be able to offer you some of the personalized services that depend on this type of information to function. However to register, you still have the option of providing only the minimum necessary information.
+5.1 Webcargo or our service providers may collect, store, and process personal information and other information from or about you when you:
 
-If you contact WEBCARGO.net, we may keep a record of that correspondence. We do not collect any email addresses of those who communicate with WEBCARGO.net via email. We use the information provided only so that we may respond to the email.
+5.1.1 use Webcargo Websites or Service Offerings to order products or services;
 
-**2\. What are "cookies" and "web beacons" and how does WEBCARGO use them?**
+5.1.2 register products;
 
-We also collect anonymous information using "cookies." A cookie is a small text file containing a unique identification number that is transferred from a web site to the hard drive of your computer so that the web site may identify you without having to sign in each time. This unique number identifies your browser-- but not you -- to WEBCARGO.net computers whenever you visit WEBCARGO.net. A cookie will NOT let a web site know any personal information about you, such as your real name and address. The coding in the cookies WEBCARGO sets lets us know that you are using a particular computer but nothing more. Since cookies are only text files, they cannot run on your computer, search your computer for other information or transmit any information to anyone.
+5.1.3 request information;
 
-To help serve you better WEBCARGO uses cookies to:
+5.1.4 subscribe to marketing or support materials;
 
-Help us remember who you are through your browser settings so that WEBCARGO can offer and provide personalized services. WEBCARGO uses cookies to store and sometimes track information about what is done and seen across WEBCARGO.net. Cookies also allow us to save passwords and preferences for you so that you will not have to re-enter them the next time you visit.
+5.1.5 download proprietary Webcargo software, third party software, or open source software (“Software”) from Webcargo Websites;
 
-Measure traffic patterns: Without cookies, it could be difficult for WEBCARGO to know that certain services are more popular than others are. This information helps us to better understand when to offer new services.
+5.1.6 enter a contest;
 
-Estimate audience size: Cookies help us know whether or not users have seen particular displays, including advertisements.
+5.1.7 respond to promotional campaigns; and
 
-Displaying advertisements: WEBCARGO and third party advertising networks used by WEBCARGO may use cookies when serving advertisements. See section 3 below for details on the information gathering practices of our ad serving partners.
+5.1.8  register to a secure extranet site to obtain access to Software or Service Offering and any associated information, support, and training
 
-Cookies are used on most major web sites. Most browsers are initially set up to accept cookies. If you prefer, you can reset your browser either to notify you when you have received a cookie, or to refuse to accept cookies. You should understand that while WEBCARGO does not require you to use cookies, certain sites will not function properly if you set your browser to not accept cookies.
+5.2  We also may collect additional information that is related to you such as your computer’s operating system, browser, and your use of and activities on our websites.
 
-WEBCARGO.net may contain electronic images known as Web beacons - sometimes called single-pixel gifs - that allow WEBCARGO to count users who have visited those pages and to deliver co-branded services. Web beacons are not used to access your personal information on WEBCARGO.net; they are a technique used to compile aggregated statistics about WEBCARGO.net usage. Web beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the Web beacon resides. WEBCARGO.net web pages may also contain Web beacons placed there by our advertising partner to help WEBCARGO determine the effectiveness of our Internet advertising campaigns.
+### 6\. How We Use the Information We Collect
 
-**3\. What organization is collecting the information?**
+6.1 Webcargo or our service providers may use the personal information and other information we collect from you in various ways including in connection with: providing service and support to you; billing you for Service Offerings; verifying your identity; carrying out our obligations and enforcing our rights arising from any contracts entered into between you and Webcargo; communicating information about Webcargo Websites, Service Offerings and our mobile applications, and other interactions (e.g., customer service inquiries, user conferences, etc.); improving our Webcargo Websites, Services Offerings and our mobile applications, and other interactions (e.g., customer service inquiries, user conferences, etc.); contacting you to complete surveys that we use for marketing or quality assurance purposes; sending you promotional information; complying with Service Offering obligations as well as in any other way we describe when you provide information; combating fraud, crime and as otherwise required or permitted by law; and for any other purpose with your consent.
 
-When you provide personal registration information at WEBCARGO.net , that information is collected by WEBCARGO. It may be disclosed to other organizations in the circumstances described in Section 5 below.
+6.2 To assist us with the uses described in this Privacy Policy, information we or our service providers have collected from or about you through Webcargo Websites, Webcargo Service Offerings and our mobile applications, and other interactions (e.g., customer service inquiries, user conferences, etc.), including about your use thereof, may be combined with or enhanced by other information from or about you that we have obtained from other online or offline sources, including from our service providers or business partners.
 
-The majority of the online banner advertisements you see on WEBCARGO.net are served through a reputable third party. If you would like to know more about what information is collected and how information is used by our third party ad server or about its "opt-out" procedures, please click here www.doubleclick.net/us/corporate/privacy.
+6.3 To ensure you receive proper notifications, we will need to collect certain information about your device such as operating system and user identification information.
 
-Be aware that WEBCARGO.net sponsors and other advertisers have links on our sites that take you to other sites that may collect personal information about you. This Privacy Policy does not cover third party data collection practices and WEBCARGO does not assume any responsibility for the actions of such third parties.
+### 7\. Collection of Information Using Cookies and Other Tools
 
-**4\. How does WEBCARGO.net use the information it collects?**
+7.1 Webcargo may collect and/or log your Internet Protocol address, Internet domain name, the web browser and operating system used to access Webcargo Websites, Service Offerings, our mobile applications or other interactions (e.g., customer service inquiries, user conferences, etc.), the files visited, the time spent in each file, and the time and date of each visit or clickstream data. Webcargo may collect this information automatically as you browse via the use of log files and web beacons to analyze trends in the aggregate and administer the Webcargo Websites and Service Offerings. Webcargo and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
 
-Any personal information you provide to WEBCARGO when registering for Services at WEBCARGO.net is maintained and accessible only by WEBCARGO, unless specifically stated otherwise. WEBCARGO requests information from its users so that users can enjoy customized experiences across WEBCARGO.net , including personalization services.
+7.2 We may also use cookies and other electronic tools placed by a third-party service provider to measure the effectiveness of our advertising and other information and help us understand what product information is of most interest to our customers and what kinds of advertising offers our customers like to see. Although the service provider logs the information coming from Webcargo Websites or Service Offerings on our behalf, Webcargo controls how that data may and may not be used. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
 
-WEBCARGO may use the information it collects as follows:
+7.3 If you wish to opt out of interest-based advertising, please contact us at support@webcargo.net or follow the opt-out instructions in the email.
 
-To offer its users the ability to customize or personalize content on WEBCARGO.net ,
+### 8\. Sharing Your Information
 
-To deliver products and services requested.
+8.1 Webcargo may share non-personal information (e.g., anonymous, aggregated data) without restriction. Webcargo may share your personal information as described in this Privacy Policy and with its service providers and suppliers to the extent necessary to deliver the Webcargo Websites or Service Offerings you requested, respond to your requests for information on Software or Service Offerings, or otherwise support your business needs. If you opt out of sharing your information with these third-party service providers for these purposes, we may be unable to provide the Webcargo Websites, Service Offerings, mobile applications, information or support you requested.
 
-WEBCARGO uses the anonymous, aggregate data collected to inform our sponsors and advertisers as to numbers of people who have certain demographic characteristics and the number of those people who have seen and "clicked" on their advertisement(s). We will also disclose to those third-party sponsors and advertisers the overall demographics available regarding who saw and "clicked" on their advertisement. No personal information will be disclosed to these sponsors and advertisers as part of this process; only information in an anonymous, aggregate form will be disclosed.
+8.2 Third-party service providers and suppliers receiving personal information are authorized to use your personal information only for the purpose it was originally intended or as required or permitted by law. However, unless otherwise dictated by law or agreement, Webcargo is not responsible for any improper use by such parties.
 
-WEBCARGO also uses the anonymous, aggregate data to perform statistical analyses of the collective characteristics and behavior of our registered users and visitors, to measure user demographics and interests regarding specific areas of WEBCARGO.net, to describe our services to third parties such as prospective business partners and advertisers and to analyze how and where best to use our resources. Without such data, we would not know what the most popular areas of WEBCARGO.net are, and we would not be able to change and update the content and services appropriately. WEBCARGO also uses such data to monitor and improve the operation of WEBCARGO.net and to maintain the quality of the Services made available through WEBCARGO.net. No personal information will be disclosed during these activities.
+### 9\. Sharing Personal information Across Country Borders
 
-With your specific permission, WEBCARGO may, from time to time, use your personal information to contact you about changes or enhancements to Products and Services on WEBCARGO.net . If you indicated that you were interested in receiving offers or information from selected WEBCARGO.net sponsors and advertisers, WEBCARGO will send you email publications and mailings about products and services that we feel may be of interest to you. For those who elect to receive such materials from WEBCARGO or third parties, and who indicate that they do in their profile, WEBCARGO will release personal information. Personal information released includes name, email address and other necessary information supplied in WEBCARGO.net registration process. If at any time you would like to end your subscription to any email materials, follow either the directions posted at the bottom of the email material, or the directions at the email newsletter company's web site.
+9.1 We may also disclose your personal information and other information, including across country borders:
 
-WEBCARGO may also use personal information if it has reasonable grounds to believe the information could be useful when investigating a contravention of a federal, provincial or foreign law; for an emergency that threatens an individual's life, health or security; if the use is clearly in the individual's interest and consent is not available in a timely way; or if knowledge and consent would compromise the availability or accuracy of the information and collection is required to investigate a breach of an agreement or contravention of a federal or provincial law.
+9.1.1  to our subsidiaries, affiliates, and worldwide offices;
 
-WEBCARGO may disclose personal information (i) to an advocate or notary or a barrister or solicitor who is representing it; (ii) if required to comply with a subpoena or warrant issued or an order made by a court, person or body with jurisdiction to compel the production of information, or to comply with rules of court relating to the production of records; (iii) to a government institution or part of a government institution that has made a request for the information, identified its lawful authority to obtain the information and indicated that (A) it suspects that the information relates to national security, the defence of Canada or the conduct of international affairs, (B) the disclosure is requested for the purpose of enforcing any law of Canada, a province or a foreign jurisdiction, carrying out an investigation relating to the enforcement of any such law or gathering intelligence for the purpose of enforcing any such law, or (C) the disclosure is requested for the purpose of administering any law of Canada or a province; (iv) to a person who needs the information because of an emergency that threatens the life, health or security of an individual; (v) for purposes related to investigating a breach of an agreement or a contravention of the laws of Canada or a province; or (vi) where otherwise required by law.
+9.1.2  to comply with the law or in response to a subpoena, court order, law enforcement or government request, or other legal process;
 
-WEBCARGO may disclose personal information in connection with a corporate re-organization, a merger or amalgamation with another entity, or a sale of all or a substantial portion of the assets of WEBCARGO provided that the personal information disclosed continues to be used for the purposes permitted by this Privacy Policy by the entity acquiring the information.
+9.1.3  to produce relevant documents or information in connection with litigation, arbitration, mediation, adjudication, government or internal investigations, or other legal or administrative proceedings;
 
-**5\. With whom does WEBCARGO.net share the information that is collected?**
+9.1.4  if Webcargo determines in its good faith judgment that such disclosure is necessary to provide its services or to protect the rights, interests, safety, or property of its business, employees, suppliers, customers, or others;
 
-In order to provide you with content and services that match your interests, WEBCARGO may disclose personal information to its agents, suppliers and service providers in conjunction with providing you with Products and Services or operating portions of WEBCARGO.net . Such entities will be required to use personal information provided solely for such purposes. In addition, WEBCARGO may share data with trusted partners to help us perform statistical analysis. All such third parties are prohibited from using your personal information except to provide these services.
+9.1.5  if Webcargo determines in its good faith judgment that such disclosure is necessary to provide its services or to protect the rights, interests, safety, or property of its business, employees, suppliers, customers, or others; in connection with any proposed or actual sale or other transfer of some or all assets of Webcargo, and/or any proposed or actual sale or merger of Webcargo or any division of Webcargo;
 
-WEBCARGO does not sell, rent or lease its customer lists to third parties. WEBCARGO may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your personal information (e-mail, name, address, telephone number) is not disclosed to the third party.
+9.1.6  to enforce the terms of any agreement with Webcargo;
 
-**6\. How can you access, edit or delete your information?**
+9.1.7  to combat fraud or other criminal activity;
 
-WEBCARGO.net provides its registered users the ability to access and edit the personal information in their user profiles. Currently, to access and edit your personal information, you have to go to WEBCARGO.net. WEBCARGO also offers all users who have volunteered any personal information to WEBCARGO the opportunity to review the information provided and to rectify any inaccuracies. Please contact our Privacy Site Coordinator by clicking here [privacy@webcargo.net](mailto:privacy@webcargo.net?subject=Privacy%20Policy)
+9.1.8 for any other purpose disclosed by us when you provide the information;
 
-**7\. How can you opt-out?**
+9.1.9 as otherwise required or permitted by law; and/or
 
-You can opt-out of providing personal information and from receiving information on WEBCARGO.net updates and new services, as well as direct email offers from selected WEBCARGO.net partners and sponsors. This is done at the point of initial collection of information and during the editing or updating process. The process to opt out of WEBCARGO.net email materials is the same as the process for editing user information profiles described above. In addition, all such email materials have easy-to-follow unsubscribe directions posted at the bottom of the email. If you have any questions or concerns, please contact us at [info@webcargo.net](mailto:info@webcargo.net?subject=Info)
+9.1.10 with your consent.
 
-**8\. What kinds of security procedures are in place to protect against the loss, misuse or alteration of your information?**
+9.2 In certain cases Webcargo offers European Union Model Clauses, also known as Standard Contractual Clauses, to meet the adequacy and security requirements for our customers that operate in the European Union, and other international transfers of customer data.
 
-WEBCARGO.net has security measures in place to attempt to protect against the loss, misuse and alteration of your user data under our control. WEBCARGO attempts to keep such information in secure facilities, protected from unauthorized access and kept only as long as is reasonably required. Only persons who have a need to know your personal information for the purposes described in this Privacy Policy have access to the user data you choose to provide to us. WEBCARGO has imposed strict rules on WEBCARGO.net employees who have access to the databases that store user personal information or to the servers that host our services. While we cannot guarantee that loss, misuse or alteration to data will not occur, we make reasonable efforts to prevent such occurrences. Any other particularly sensitive information, such as your credit card number collected for a commerce transaction is encrypted prior to transmission. WEBCARGO is not liable for any use or disclosure of your personal information that is beyond our reasonable control.
+9.3 IUnless permitted by relevant laws, Webcargo will not share, sell, trade, or lease your personal information to or with others except as provided for in this Privacy Policy.
 
-You are responsible for the security of your WEBCARGO.net ID and password. Please take care when using and storing them. WEBCARGO recommends that you do not divulge your password to anyone. You should log out of your browser at the end of each computer session to ensure that others cannot access your personal information and correspondence, especially if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe.
+### 10\. Marketing Choices, Right to Access Your Personal Information, and Our Retention
 
-**9\. What you can do to better protect yourself on the Internet**
+10.1 Your Marketing Choices. Your decision to provide the personal information that we may request from time to time is voluntary. However, if you do not provide the personal information requested, you may not be able to proceed with the activity or receive the benefit for which the personal information is being requested. You can always unsubscribe or choose not to receive promotional materials from Webcargo by following the specific instructions in the email or other communication you receive or by notifying us via the appropriate method(s) described below. It may take a reasonable period of time to process your request, but no longer than 10 business days for email promotions. In countries where Webcargo is required to do so by law, Webcargo will offer you the opportunity to provide opt-in consent before promotional materials are sent, or promotional calls are made, to you. This will not apply to service communications that are considered part of certain Service Offerings, which you may receive periodically unless you cancel the applicable Service Offerings.
 
-Know the risks.
+10.2 Your Access to Your Personal Information. Webcargo strives to keep your personal information accurate. We have implemented technology, management processes, and policies designed to maintain data integrity. We will provide you with reasonable access to your personal information in accordance with relevant laws, including by making reasonable efforts to provide you with online access and the opportunity to update your information. To protect your privacy and security, we will take steps to verify your identity before granting access or making changes to your personal information. Upon request, Webcargo will provide you with information about whether we hold any of your personal information. To request access, correction, or deletion or transfer of your personal information, follow the applicable instructions below. While we will make reasonable efforts to accommodate your request, we also reserve the right to reject such requests or to impose certain restrictions and requirements on such requests, if required or permitted by applicable law. We will respond to your request within a reasonable time frame.
 
-When you communicate with others online, you should be aware that, when disclosing personal information such as one's actual name, member name or email address on a web page or any other medium, such information may be collected, used, and further disclosed by others outside WEBCARGO.net . Accordingly, if you do not want your personal information to be available to others arising from such activities you should not participate in such activities or you should limit the personal information you make available.
+10.3 Our Retention of Your Information. We will retain your personal information for as long as your account is active or as needed to provide you Webcargo Websites, Service Offerings and mobile applications. If you wish to cancel your account, or request that we no longer use your personal information to provide you Software or Services, contact us via the applicable methods provided below. Even after we cancel your account or cease using your personal information to provide you Software or Services, we may still retain, use, and disclose your information as necessary to comply with our legal, regulatory, ethical, or document retention obligations, and any request to delete your personal information is subject to these obligations and restrictions.
+
+### 11\. Security of Your Personal Information
+
+11.1 Webcargo has implemented administrative, technical, and physical measures designed to protect your personal information from accidental loss and from unauthorized access, disclosure, use, alteration, or destruction. These measures include computer safeguards and secured files and buildings, Internet firewalls, intrusion detection, anti-virus protection, network monitoring, and, where appropriate and required by applicable law, Transport Layer Security (“TLS”) or similarly encrypted browsers. However, no electronic data transmission or storage of information can be guaranteed to be 100% private and secure, and you understand that Webcargo does not ensure or warrant the privacy or security of any information we collect from or about you, and that you use the Webcargo Websites and provide us with information at your own risk. If a password is used to help protect your accounts and personal information, it is your responsibility to keep your password confidential. Please also be careful to avoid “phishing” scams, where someone may send you an email that looks like it is from Webcargo asking for your personal information. Webcargo will never request your personal information through e-mail. If you have any questions about the security of your personal information, you can contact us at set forth below.
+
+### 12\. Webcargo Contact Information for Marketing Choices, Requests for Access, Correction Deletion or Transfer, and Questions About and Enforcement of This Privacy Policy
+
+12.1 Unsubscribe from Webcargo emails at our unsubscribe page  [here](https://webcargo.net/user/profile/edit-preferences/)
+
+12.2 To request access, correction, deletion or transfer of your personal information or withdrawal of consent to the processing described in this Privacy Policy, please email us at [support@webcargo.net](mailto:support@webcargo.net)
+
+12.3 If you have questions regarding our compliance with this Privacy Policy, please contact us by mail at Webcargo, Inc., 800 Square Victoria, 26th Floor PO Box 329, Montréal, Québec H4Z 1A1, Attn: Legal; or emailing us at [support@webcargo.net](mailto:support@webcargo.net)
+
+12.4 If you are a resident of the EEA and have an unresolved privacy or personal information collection, use, or disclosure concern that we have not addressed satisfactorily, please contact the EU Data Protection Authorities. If you are a resident of Switzerland and have this concern, please contact the Swiss Federal Data Protection and Information Commissioner. 
+
+12.4.1 For more information on how to contact the EU Data Protection Authorities, click  [here](https://ec.europa.eu/info/law/law-topic/data-protection_en)
+
+12.4.2 For more information on how to contact the Swiss Federal Data Protection and Information Commissioner, click [here](https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/links/data-protection---switzerland.html)
+
+### 13\. Changes to this Privacy Policy
+
+13.1 Webcargo may update this Privacy Policy periodically, and will note the date of its most recent revision above. If we make material changes to this Privacy Policy, we will notify you either by prominently posting a notice of such changes prior to implementing the changes or by directly sending you a notification. We encourage you to review this Privacy Policy frequently to be informed of how Webcargo is collecting, using, retaining, protecting, disclosing, and transferring your information. 
+
+* * *
+
+This Policy was last updated on May 26, 2018
