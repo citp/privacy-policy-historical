@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freehit.eu privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509125308id_/http%3A//www.freehit.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freehit.eu privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908200349id_/http%3A//www.freehit.eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy / Contact Us – Freehit.eu
 
