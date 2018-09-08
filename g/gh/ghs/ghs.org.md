@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ghs.org privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703022916id_/http%3A//www.ghs.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghs.org privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908070556id_/http%3A//www.ghs.org/privacypolicy) for the most accurate reproduction.*
 
-# Greenville Health System GHS Notice of Privacy Practices - Greenville Health System
+# GHS Notice of Privacy Practices - Greenville Health System
 
 _This Notice describes how medical information about you may be used and released and how you can get this information._ **Please read it carefully.** _ _
 
@@ -233,7 +233,7 @@ Greenville, SC 29605
 830 S. Buncombe Road  
 Greer, SC 29650
 
-**[Hillcrest Memorial Hospital](https://www.ghs.org/locations/simpsonvillecampus/)**  
+**[Hillcrest Memorial Hospital](https://www.ghs.org/locations/simpsonvillecampus/hillcrest-memorial-hospital/)**  
 729 S.E. Main St.  
 Simpsonville, SC 29681
 
