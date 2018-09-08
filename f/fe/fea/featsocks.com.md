@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the featsocks.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606223102id_/https%3A//featsocks.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the featsocks.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908190140id_/https%3A//featsocks.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – FEAT Socks
+
+[Home](https://web.archive.org/ "Home") » Privacy Policy
 
 FEAT Socks operates the website located at www.FEATsocks.com. This Privacy Policy describes the information that we collect through our website and how we use that information. If you have any questions about our Privacy Policy, please contact us at info@featsocks.com.
 
