@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marines.com privacy policy that was archived on 2017-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170907004658id_/http%3A//www.marines.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marines.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908160623id_/https%3A//www.marines.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Marines.com
 
