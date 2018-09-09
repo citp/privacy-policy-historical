@@ -1,53 +1,71 @@
-> *The following text is extracted and transformed from the unacademy.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184407id_/https%3A//unacademy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unacademy.in privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909144245id_/https%3A//unacademy.com/privacy) for the most accurate reproduction.*
 
 # Unacademy - India's largest learning platform
 
-##### A. GENERAL
+##### A. General
 
-1.1 Unacademy is committed to the protection of personal information provided by the users to us. You agree that your use of Unacademy’s web platform implies your consent to the collection and use of your personal information (or your children's personal information in case the user is minor) in accordance with the terms of this Privacy Policy.
+In this policy, the words "we", "our", and "us" refer to Unacademy and the privacy mechanism outlined identify personally identifiable or personal information that may be collected, how such information is used, and the choices you have regarding our use of this information.
 
-1.2 We at Unacademy take the privacy of its users seriously. We are committed to safeguarding the privacy of our users while providing a personalized and valuable service.
+In addition to the terms stated in Terms of Service provided under this Website, we are committed to protecting your privacy. Authorized representatives of Unacademy on a need to know basis only use any information received from you. We constantly review our systems and data to secure your personal information. We will investigate any complaint or such actions with a view to prosecuting and/or taking civil proceedings to recover damages against those responsible. Any User who does not agree with any provisions of this Privacy Policy and the Terms of Service is required to leave the Website immediately. Should you disagree with policy and still continue to access the Website and provide your personal information, Unacademy disclaim all the liabilities arising therefrom.
 
-1.3 No user information is rented or sold to any third party. When a user uses the platform, Unacademy may collect users’ mobile phone number, login information from Facebook, Twitter and Google account and other personal information. A high standard of security is maintained by Unacademy for its users; however the transmission of information via the internet is not completely secure. So, whilst we will do our best to protect user information, particularly with respect to protection of personal data, we cannot ensure the security of user data transmitted to us via the internet or any other medium
+##### B. Applicability
 
-##### B. INFORMATION COLLECTED
+This privacy policy applies to all Users who access the Website and are therefore required to read and understand the privacy policy before submitting any Personal Information. If you have inadvertently submitted any such information to Unacademy prior to reading the privacy statements set out herein, and you do not agree with the manner in which such information is collected, stored or used, then you may access, modify and delete all information stored about You by writing to us at[help@unacademy.com](mailto:help@unacademy.com). Unacademy is keeping personal data of the User, and every User is also entitled to require Unacademy to delete and destroy all such information (but not that of other Users).
 
-2.1 We collect personal information from you at registration and other times (for instance, when you register for the platform) such as your name, email address, gender etc.
+This privacy policy applies to Website and services that are owned and operated by Unacademy. Unacademy does not exercise control over the sites displayed as search results or links from within its Services . Third party websites may place their own cookies or other files on the Users' computer, collect data or solicit personal information from the Users, for which Unacademy is not responsible or liable. Accordingly, Unacademy does not make any representations concerning the privacy practices or policies of such third parties or terms of use of such websites, nor does Unacademy guarantee the accuracy, integrity, or quality of the information, data, text, software, sound, photographs, graphics, videos, messages or other materials available on such websites. The inclusion or exclusion does not imply any endorsement by Unacademy of the website, the website's provider, or the information on the website. Unacademy encourages the User to read the privacy policies of that Website.
 
-2.2 You are under no obligation to provide us with such information. However, if you choose to withhold requested information, you may not be able to use the platform and we may not be able to respond effectively to your query or provide you with certain services.
+Unacademy has taken all reasonable precautions to treat Personal Information as confidential with industry standards that it has implemented to protect from unauthorized access, improper use or disclosure, modification and unlawful destruction or accidental loss of the Personal Information.
 
-##### C. DISCLOSURE OF PERSONAL INFORMATION
+##### C. Access
 
-3.1 We do not disclose your information to any third parties other than Unacademy’s affiliates.
+User are allowed to access the Website, register for courses and avail Services available with Unacademy as a guest and without creating an account on the Website or providing any Personal Information, Unacademy takes no responsibility or validate the information provided by the guest, except as otherwise required under any law, regulation or an order of competent authority. In order to have access to all the features and benefits on our Website, a User is required to first create an account on our Website. To create an account a User is required to provide the Personal Information as may be required during the time of registration. Other information requested on the registration page, including the ability to receive promotional offers from Unacademy, is optional. Unacademy may, in future, include other optional requests for information from the User to help Unacademy to customize the Website to deliver personalized information to the User. Without User's agreement, Unacademy will not share, rent or sell any personal information with third parties in any way other than what is disclosed in this privacy policy. Unacademy may keep records of telephone calls received and made for making enquiries, registered courses, feedback or other purposes for the purpose of rendering services effectively and efficiently.
 
-"3.2 We also use information in aggregate form (so that no individual user is identified):  
+##### D. Personal Information
 
+Personal Information shall mean the information which identifies the User, name, identification number email address, age, phone number, password or any financial account information provided to Unacademy at the time of registration or any time thereafter.
 
-(i) to build up marketing profiles;  
-(ii) to aid strategic development ;  
-(iii) to manage our relationship with advertisers and partners; and  
-(iv) to audit usage of the Application.
+##### E. Automatic Information Collection
 
-3.3 Unacademy reserves the right to disclose personal information if required to do so by law or if we believe that it is necessary to do so to protect and defend the rights, property or personal safety of Unacademy, the platform, or its users.
+control. Some examples of the information we collect and analyse include the Internet protocol (IP) address used to connect your computer to the internet; login; email; password; computer and connection information such as browser type and version, operating system, and platform; course enrolled history, which we sometimes aggregate with similar information from other users to create features, reports such as popular courses, most used features etc; the full Uniform Resource Locator (URL) click stream to, and from our website, including date and time; cookie number; courses or videos you viewed or searched for; the phone number you used to call our customer service.
 
-3.4. You agree that Unacademy may use personal information about you to improve its marketing and promotional efforts to analyze application usage, improve the application content and product offerings and for its business purposes.
+During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain page, course and videos, page interaction information (such as scrolling, clicks and mouse overs), and methods used to browse away from the page.
 
-##### D. YOUR ACCEPTANCE OF THIS POLICY
+##### F. Information Security
 
-4.1 By using this platform, you consent to the collection and use of your information by Unacademy and to this Privacy Policy. If we change the Privacy Policy then we will post these changes on this page.
+To protect the security of your Personal information during transmission, we use Secure Sockets Layer (SSL) software, which encrypts information you input. To prevent unauthorized access to sensitive information, it is important for you to monitor those who have access to your password and to your computer, laptop or any other device through which your account can be accessed. Be sure to sign off when finished while using a shared computer.
 
-4.2 Whilst we use all reasonable endeavours to protect your security in the manner described above, we consider that it is only appropriate to advise users that data transmission over the internet, the world wide web or any other type of network cannot always be guaranteed as completely secure and therefore that you use the Application at your own risk. And you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner.
+##### F. Use of your personal information
 
-##### E. YOUR RIGHTS
+While availing our services you will provide access to Unacademy with your personal information. If that information is wrong, you can request us to modify or delete the same. Unacademy will take all reasonable measures to ensure that the information is modified and used for rendering services to you and as otherwise in compliance with laws. When editing or deleting personal information, we may ask you to verify your identity before we can act on your request. Unacademy may at its discretion reject any request that is contrary to law, requires un-reasonable technical efforts. We do not assure that we will delete all residual copies and archives made by any third party without our knowledge and consent.
 
-5.1 You have a legal right to a copy of any personal information about you held by us. You also have a right to correct any errors in that information. As mentioned above, you have a right to request that we cease to use your personal information for direct marketing purposes.
+##### G. Exceptions
 
-##### F. COLLECTION OF INFORMATION BY THIRD PARTIES
+Your Personal Information may be shared with third parties who have a need or authority to receive such information, if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to comply with (i) in response to any authority having to receive such information under law (ii) any order of court (iii) detect, prevent, or otherwise address fraud, security or technical issues (iv) protect against harm to the rights, property or safety of Unacademy, our users or the public as required or permitted by law.
 
-6.1. The platform may contain links to other sites/application whose information practices may be different that of Unacademy. You should consult the other application’s privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
+##### User choices with regard to access of information
 
-6.2 You shall refrain from any act likely to damage the privacy or reputation of other party or any other person by avoiding any libellous, provocative, malicious or threatening comment, message or text.
+Unacademy does not make any unsolicited calls or otherwise market any products or services, except for in relation to the purpose for which such information has been provided or taking any feedback or addressing the complaints. User shall not disclose their Personal Information to any third Parties not authorised by Unacademy and verify the identity of such personal who seek information. Unacademy will communicate with the Users through email and notices posted on the Website or through other means available through the service, including text and other forms of messaging. The Users can change their e-mail and contact preferences at any time by logging into their account or by calling the customer support or such or mode available from time to time.
 
-6.3 By posting any content in the Application, you automatically grant to Unacademy a perpetual, royalty-free, irrevocable and unrestricted worldwide right and license to use, reproduce, modify, adapt, publish, translate, create derivative works from and distribute the posted content or incorporate the posted content into any form, medium, or technology now known or later developed for any purpose, including advertising and promotion, and you automatically waive all "moral rights" with respect to the posted content.
+Unacademy may, if you so choose, send direct mailers to you at the address given by you. You have the option to 'opt-out' of this direct mailer by way of links provided at the bottom of each mailer. We respect your privacy and to the extent that you choose not to receive such mailers, we will take all steps to remove you from the list. Should you evidence any violation of our terms and policies, please write to us at [help@unacademy.com](mailto:help@unacademy.com) and report such incident.
 
-If you have questions or concerns, feel free to email us or to correspond at[team@Unacademy.in](mailto:team@Unacademy.in)and we will attempt to address your issue.
+All the information provided to Unacademy either by a User, the User confirms that the same including sensitive personal information, is true, accurate and voluntary. User has the right to withdraw information at any time, in accordance with the terms of this privacy policy and the Terms of Service.
+
+##### Report, Analysis & Confidentiality
+
+Unacademy may have to use Personal Information without reference to any persona or identity for research, statistical analysis and business intelligence purpose and may transfer such research, statistical or intelligence data in an aggregated or non-personally identifiable form to third parties and affiliates.
+
+All Unacademy employees and data processors, who have access to, and are associated with the processing of sensitive personal data or information, are obliged to respect the confidentiality of every User's sensitive personal data and information.
+
+##### Sharing of Information
+
+Unacademy may also disclose or transfer User's personal and other information which a User provides, to another third party as part of reorganization or a sale of the assets of Unacademy corporation division or company. Any third party to which Unacademy transfers or sells its assets will have the right to continue to use the personal and other information that a User provide to us.
+
+To the extent necessary to provide Users with the services on the Website, Unacademy may provide their Personal Information to third party contractors who work on behalf of or with Unacademy to provide Users with such services , to help Unacademy communicate with Users or to maintain the Website. Generally, these contractors do not have any independent right to share this information, however certain contractors who provide services on the Website, including the providers of online communications services, will have rights to use and disclose the personal information collected in connection with the provision of these services in accordance with their own privacy policies.
+
+##### Revision of terms & Grievance reporting
+
+Unacademy may update or amend this privacy policy at any time, with or without advance notice. In the event there are significant changes in the way Unacademy treats User's personally identifiable information, Unacademy will display a notice on the Website or send Users an email. Unacademy's current privacy policy applies to all information that Unacademy has about Users and their account.
+
+Notwithstanding the above, Unacademy shall not be required to notify the Users of any changes made to the privacy policy. Should you have any concern or reject the changes in the privacy policy you can refuse to accept the amendments and opt for withdrawing your Personal Information by writing to us at [help@unacademy.com](mailto:help@unacademy.com).
+
+If you have any compliant or grievances with respect to Website or this Privacy Policy please write to us at [help@unacademy.com](mailto:help@unacademy.com).
