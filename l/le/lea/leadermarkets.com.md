@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the leadermarkets.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623070303id_/http%3A//www.hasoffers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadermarkets.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909035016id_/http%3A//www.hasoffers.com/privacy-policy) for the most accurate reproduction.*
 
 # HasOffers Privacy Policy
 
-### Effective April 20, 2018
+### Effective August 17, 2018
 
 HasOffers by TUNE (“HasOffers”, “TUNE”, “we”, “us”, “our”) provides solutions for performance marketers. This Privacy Policy is provided to help you understand how TUNE processes end user data on behalf of advertising networks who use the HasOffers platform. It does not state the use practices or policies of our clients, of the websites or apps on which ads are shown, or of other parties. 
 
@@ -66,7 +66,7 @@ At the direction of our clients, who act as data controllers, HasOffers collects
   * IP address
   * Cookies
   * Pixel Tags
-  * Imprecise Geographic Location Data derived from IP address and/or wifi networks.
+  * Imprecise Geographic Location Data derived from IP address and/or wifi networks
 
 
 
@@ -78,7 +78,9 @@ Clients own the data that they provide to and collect through the HasOffers plat
 
 ## How Do Clients Use HasOffers To Collect Information From Users?
 
-Clients use HasOffers for pixel or server postback tracking to collect information about Users. Pixel tracking (also called “cookie-based tracking” and “client-side tracking”) methods store a HasOffers session identifier in a user’s browser cookie on click. In postback tracking (also called “server-side tracking”), HasOffers directly sends a session identifier to the advertiser on click. On conversion, the advertiser then communicates that identifier to HasOffers for validation. HasOffers also supports server-to-server measurement for some clients. With any of the mentioned methods, when an end user clicks on an advertisement, goes to a specific web page or mobile app action that a Client chooses to monitor, HasOffers collects information from the User’s computer or device, including but not limited to IP and Ad Identifiers. 
+Clients use HasOffers for pixel or server postback tracking to collect information about Users. Pixel tracking (also called “cookie-based tracking” and “client-side tracking”) methods store a HasOffers session identifier in a user’s browser cookie on click. In postback tracking (also called “server-side tracking”), HasOffers directly sends a session identifier to the advertiser on click. On conversion, the advertiser then communicates that identifier to HasOffers for validation.
+
+HasOffers also supports server-to-server measurement for some clients. With any of the mentioned methods, when an end user clicks on an advertisement, goes to a specific web page or mobile app action that a Client chooses to monitor, HasOffers collects information from the User’s computer or device, including but not limited to IP and Ad Identifiers. 
 
 ## How Do Clients Use HasOffers To Process Information From End Users?
 
@@ -102,7 +104,9 @@ HasOffers may disclose end user data in the event we reasonably suspect fraudule
 
 End users can disable cookies in most internet browsers. An overview of the process is available [here](http://www.allaboutcookies.org/manage-cookies/). Disabling cookies will not, however, stop receipt of all advertisements. If an end user would like to opt out of a particular ad network, publisher, or advertiser’s ads, they will need to contact those companies directly to inquire whether they have an opt-out option.
 
-End users can also disable collection of Ad Identifiers for targeted advertising by enabling the Limit Ad Tracking setting on their smartphone. End users can also reset the Ad Identifier altogether using their smartphone’s privacy settings. End users should also note that TUNE collects information on behalf of its clients. To opt out, please see optoutmobile.com or contact the data controller directly. We will actively work with our clients to fulfill such requests as reasonable and required by law. 
+End users can also disable collection of Ad Identifiers for targeted advertising by enabling the Limit Ad Tracking setting on their smartphone. End users can also reset the Ad Identifier altogether using their smartphone’s privacy settings.
+
+End users should also note that TUNE collects information on behalf of its clients. To opt out, please see optoutmobile.com or contact the data controller directly. We will actively work with our clients to fulfill such requests as reasonable and required by law. 
 
 ## How Does TUNE Adhere to GDPR Principles?
 
@@ -110,7 +114,7 @@ TUNE serves as a data processor under the GDPR, and adheres to the principles an
 
 ## EU To U.S. Transfers
 
-TUNE has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. See TUNE's Privacy Shield Statement [here](https://www.tune.com/privacy-shield-statement/ "TUNE's Privacy Shield Statement"). To learn more about Privacy Shield, please visit [www.privacyshield.gov](https://www.privacyshield.gov/).
+TUNE has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. See TUNE's Privacy Shield Statement [here](https://web.archive.org/privacy-shield-statement/ "TUNE's Privacy Shield Statement"). To learn more about Privacy Shield, please visit [www.privacyshield.gov](https://www.privacyshield.gov/).
 
 ## Security
 
@@ -122,14 +126,22 @@ HasOffers may find it necessary to update this Privacy Policy from time to time.
 
 ## Questions About This Privacy Policy?
 
-If you have an unresolved privacy or data use concern that a TUNE client or TUNE has not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) [here](https://feedback-form.truste.com/watchdog/request.).
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
 
 ## Contact Information
 
-If you have any questions regarding this Privacy Policy, or would like more information on our privacy practices, please contact us at [legal@tune.com](mailto:legal@tune.com) or by mail at: 
+If you have any questions regarding this Privacy Policy, or would like more information on our privacy practices, please contact us at [legal@tune.com](mailto:legal@tune.com) or by mail at:
 
-TUNE, Inc.   
-2200 Western Ave., Suite 200   
-Seattle WA, 98121 
+TUNE, Inc.  
+2200 Western Ave., Suite 200  
+Seattle WA, 98121  
+CEO: Peter Hamilton
+
+TUNE has also appointed an external ePrivacy GmbH as its external Data Protection Officer. For all requests concerning the security of your data, you can contact our data protection officer at "[privacy@tune.com](mailto:privacy@tune.com)." If you have a particularly sensitive request, please contact our data protection officer by postal mail (available below).
+
+External Data Protection Officer  
+ePrivacy GmbH  
+represented by Prof. Dr. Christoph Bauer  
+Große Bleichen 21, 20354 Hamburg
 
 **
