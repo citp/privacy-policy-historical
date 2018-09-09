@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontier.co.uk privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628081743id_/https%3A//www.frontier.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontier.co.uk privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909165441id_/https%3A//www.frontier.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Frontier
 
@@ -338,6 +338,21 @@ If you have consented to our use of information about you for a specific purpose
 
 Where we are using your information because we have a legitimate interest to do so, you have the right to object to that use though, in some cases, this may mean no longer using the Services.
 
+Below is a table of our legitimate interests 
+
+### Process
+
+| 
+
+### Legitimate Interest  
+  
+---|---  
+On boarding campaigns for new users using our Services | To keep new users engaged with our Services and develop and grow our business  
+Re-engagement campaigns for existing users using our Services | To re-engage users with our Services and develop and grow our business  
+To use Data Analytics to improve our Services and marketing. | To define types of customers for our Services to help develop our business and inform marketing strategy  
+To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you | To study how customers use our Services and inform our marketing strategy  
+To make suggestions and recommendations to you about goods or Services that may be of interest to you | To develop our Services and grow our business   
+  
 As we make online games, this means sharing information through the Services. We share information we collect about you in the ways discussed below. We do not sell your information to third parties.
 
 ### 
