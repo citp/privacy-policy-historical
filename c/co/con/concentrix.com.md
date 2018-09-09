@@ -1,19 +1,88 @@
-> *The following text is extracted and transformed from the concentrix.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319024237id_/https%3A//www.concentrix.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concentrix.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909171524id_/https%3A//www.concentrix.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Concentrix Corporation
+# Privacy Policy | Concentrix
 
-## Your Personal Information is Secure at SYNNEX and Concentrix
+### **1\. Introduction**
 
-We employ data encryption technology in all areas of the site which require you to provide your personal or sensitive information. These include online ordering, order status, and credit application. This is done to protect you from unauthorized use of the information you are sending to our server. To make sure you have the latest security features on your browser, download and install the latest version of your favorite browser.
+ ** ** As a globally integrated company, Concentrix’s business processes increasingly go beyond the borders of one country. This globalization demands not only the availability of communication and information systems across the Concentrix group of companies, but also the world-wide processing, sharing and use of multiple types of information including information about an individual whose identity is apparent (either directly and indirectly), or can be reasonably be ascertained from the information available or likely to be available (Personal Information).
 
-## Cookies Enhance Your Online Shopping Experience
+This Policy letter sets forth the general principles which underlie Concentrix’s specific practices for collecting, using, disclosing, storing, retaining, disposing, accessing, transferring or otherwise processing Personal Information.
 
-There is a technology called “cookies” which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. Some SYNNEX and Concentrix pages use cookies so that we can better serve you when you return to our site. It does not store any personal information such as your email address, street address, credit card number, or phone number. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.
+###  **2\. Applicability**
 
-We believe that excessive, unsolicited email (also known as spam) has no place in online business relationships. SYNNEX and Concentrix uses email to confirm orders, to appraise you of the status of your orders, and other matters related to your account. We also send email if you have subscribed to any of our newsletters or product alerts. We do not sell our email list to any of our business partners for any reason including the purpose of soliciting business from you.
+This Policy applies to all Concentrix personnel, operating units, and wholly owned subsidiaries worldwide and (as transferred and agreed) with suppliers/business partners who must act consistently with the principles contained in the policy. Country and industry-specific laws and regulations shall take precedence over this policy, to the extent applicable. The application of these principles is more particularly described in the applicable Concentrix Corporate Instructions (and any accompanying implementation Guidelines) relating to processing Personal Information. Please read this policy along with the company guidelines for use and processing of Personal Information to understand how Concentrix plans to achieve the set principles.
 
-In addition to personal information you provide to us for the purpose of ordering product, you may provide financial information to us for the purpose of extending credit to you. This data is only used to evaluate your credit worthiness and is reviewed periodically as long as your account is active. It is shared with financial institutions as a normal course of doing business. Your account status and payment history is also reported to various credit reporting agencies.
+###  **3\. Privacy Policy Statement**
 
-## Online Privacy Policy Only
+Concentrix remains committed to protecting the privacy and confidentiality of Personal Information of its Employees (including prospects and contractors), Clients, Client Customers, Business Partners and other identifiable individuals that it may receive, use, access, process, transfer or store as part of its business. Uniform practices for collecting, using, disclosing, storing, retaining, disposing, accessing, transferring or otherwise processing such information assists Concentrix to process Personal Information fairly and appropriately.
 
-We do track domains from which people visit us. We do track web site navigation and purchasing behavior. We analyze this data for trends and statistics in an aggregated manner. We use this data to improve our web site and for enhancing your online experience at SYNNEX and Concentrix. This data is not used or shared in any other way.
+Concentrix may collect personal information from various persons as part of the services it may render to them, or in the course of its business. Based on the information being collected and nature of services or requirement, Concentrix will apply suitable mechanisms to ensure that Concentrix has a lawful basis for receiving, accessing, using, processing, transferring, storing and/or disposing such personal information.
+
+###  **4\. General Privacy Principles**
+
+These general principles apply to the processing of Personal Information world-wide by Concentrix.
+
+ **A. Accountability:**
+
+Concentrix understands its accountability and responsibility for any Personal Information that it may receive, use, process, store as part of its business.  Accordingly, it will:
+
+I. have appropriate corporate instructions, guidelines and other measures to be able to demonstrate that Personal Information is used/ stored / processed / retained / disposed / transferred in compliance with applicable law and other applicable guidelines;
+
+II. designate an individual or individuals who are accountable for the organization’s compliance with the Privacy principles; and
+
+III. ensure the availability of required policies, procedures and contacts for management of personal information; these being reviewed at a minimum annually or as and when there is a change warranted.
+
+ **B. Fairness and Purpose:**
+
+Concentrix will collect adequate, relevant and necessary Personal Information, and will process such information fairly and lawfully for the purpose it is collected. The purpose of collection will be specified not later than at the time of data collection, or on each occasion of change of purpose.
+
+ **C. Accuracy:**
+
+Concentrix will keep Personal Information as accurate, complete and up-to- date as is necessary for the purpose for which it is processed; and provide appropriate channels for the same.
+
+ **D. Disclosure and Data Sharing:**
+
+Concentrix will make Personal Information available inside or outside Concentrix under appropriate circumstances for business purpose only or as authorized by law. This may require Concentrix to transfer personal information to countries other than Concentrix operation’s country of business (including transfer to other entities or third parties).
+
+Concentrix will implement privacy principles for the use / processing/ transfer / storing/ disposal of personal information as may be prescribed under applicable laws.
+
+ **E. Cross-Border Data Flows:**
+
+When conducting business, working on Company projects, or implementing new processes or systems, an operation may require the transfer of personal information to other entities or third parties that are located outside of the Concentrix operation’s country of business. While permissible data transfer mechanisms are defined by applicable law or regulation, examples include:
+
+i. a data transfer agreement with the party who will access or obtain the personal information; or
+
+ii. notice to and/or approval from a country’s local data protection authority; or
+
+iii. notice to and/or consent from the individual whose data is to be transferred.
+
+ **F. Security:**
+
+Concentrix will implement reasonable technical and organizational measures to safeguard Personal Information and instruct third parties processing Personal Information on behalf of Concentrix to process and manage it in a manner which is consistent with Concentrix standards (for Concentrix owned information) or Concentrix Client standards (for Client information), as may be applicable.
+
+ **G. Access:**
+
+Upon request, Concentrix will, within a reasonable time, manner, and in a readily intelligible form provide individuals appropriate access to Personal Information retained by Concentrix. Concentrix has the right to deny the request; however, the reasons of denial will be provided. Concentrix will erase, rectify, complete, or amend the data pursuant to a justified request.
+
+ **H. Retention and Disposal:**
+
+Concentrix will retain Personal information in a form that permits identification for no longer than as necessary for the fulfillment of the stated purpose, and should be disposed thereafter.
+
+ **I. Transparency:**
+
+Concentrix will be transparent, and make readily available to individuals, specific information related to management of Personal Information.
+
+ **J. Custodianship:**
+
+Concentrix will follow appropriate policies and practices agreed with its clients for the safe handling of Personal Information that it processes on behalf of its clients.
+
+###  **5\. Enforcement and Redressal**
+
+Concentrix will provide appropriate robust mechanisms for assuring compliance with the Principles, and address grievance and / or provide recourse for individuals who are affected by non-compliance with the Principles.
+
+### More Information on GDPR:
+
+  * [GDPR](https://web.archive.org/gdpr/)
+  * [GDPR FAQ](https://web.archive.org/gdpr-faq/)
+
+
