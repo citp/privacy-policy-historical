@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blinksale.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108185203id_/https%3A//www.blinksale.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blinksale.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909105407id_/https%3A//www.blinksale.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Blinksale | Online Invoicing Software & Application
 
@@ -13,7 +13,14 @@ Your information will never be sold to or shared with other companies or organiz
 
 When you use the Blinksale Service we may store some information on your computer. This information will be in the form of a “cookie” or similar file. Cookies are small pieces of information stored on your hard drive, not on the Blinksale website. We do not use cookies to spy on you or otherwise invade your privacy. They cannot invade your hard drive and steal information.
 
-We use cookies to help you navigate the Blinksale website and Service as easily as possible, and to remember information about your current session. You must enable cookies on your web browser to use the Blinksale Service.
+We use cookies to help you navigate the Blinksale website and Service as easily as possible, and to remember information about your current session. We use these cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. By continuing to browse the site, you are agreeing to our use of cookies. You must enable cookies on your web browser to use the Blinksale Service.
+
+### We use the following cookies:
+
+  * **Strictly necessary cookies.** These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services.
+  * **Analytical/performance cookies.** They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.
+
+
 
 ## Security and Storage
 
@@ -23,8 +30,8 @@ Additionally, you retain all rights of ownership to the data you have stored on 
 
 ## Corrections and Updates
 
-DoubleWide Labs allows consumers who use the Blinksale Service to update or modify their information by clicking on the Account link in the Blinksale navigation menu.
+Doublewide Partners allows consumers who use the Blinksale Service to update or modify their information by clicking on the Account link in the Blinksale navigation menu.
 
-## Contacting DoubleWide Labs 
+## Contacting Doublewide Partners
 
 If you have any questions about this privacy statement or your dealings with the Blinksale website, you can contact us at support at blinksale dot com.
