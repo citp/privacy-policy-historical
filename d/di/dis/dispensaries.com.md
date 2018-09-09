@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dispensaries.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913154458id_/https%3A//www.dispensaries.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dispensaries.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909140843id_/https%3A//www.dispensaries.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Dispensaries
 
@@ -60,7 +60,7 @@ The Services have security measures in place to prevent the loss, misuse, and al
 
 ##### INFORMATION CHANGES AND POLICY UPDATES
 
-**Contacting Us.** If you have any questions about this Policy or our practices related to the Services, please contact us at the following e-mail address: support@dispensaries.com.
+**Contacting Us.** If you have any questions about this Policy or our practices related to the Services, please contact us at the following e-mail address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **Lost or Stolen Information.** You must promptly notify us if your user name, or password is lost, stolen, or used without permission. In such an event, we will remove that user name, or password from your account and update our records accordingly.
 
