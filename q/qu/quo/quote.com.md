@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the quote.com privacy policy that was archived on 2017-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170411044623id_/https%3A//quote.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quote.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909122643id_/https%3A//quote.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Quote.com®
+# Privacy Policy - Quote.com®
 
 Quote, LLC. ("Quote," "we," or "us") knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected when you use Quote.com (the "site") and related services (the "Service"), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy.
 
