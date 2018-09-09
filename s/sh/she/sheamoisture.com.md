@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sheamoisture.com privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707061017id_/https%3A//www.sheamoisture.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheamoisture.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909100148id_/https%3A//www.sheamoisture.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy A Better Way to Beautiful Since 1912.
 
@@ -40,7 +40,7 @@ We may offer sweepstakes, contests, and other promotions on our sites and applic
 
 ### Direct Marketing Partners and Your Choices
 
-We may share the information that we collect, including your name, e-mail address, mailing address, or other details, with third parties for direct marketing purposes. If you would prefer that we not share information about you with such third parties for direct marketing purposes, you may opt-out by sending an e-mail to legal@sundialbrands.com, or by writing to Sundial Brands LLC, Attn: Legal Dept., 11 Ranick Drive, South Amityville, NY 11701. When making such a request, please include enough information in your request to help us identify you in our records, such as your name, account name, e-mail address and mailing address.
+We may share the information that we collect, including your name, e-mail address, mailing address, or other details, with third parties for direct marketing purposes. If you would prefer that we not share information about you with such third parties for direct marketing purposes, you may opt-out by sending an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), or by writing to Sundial Brands LLC, Attn: Legal Dept., 11 Ranick Drive, South Amityville, NY 11701. When making such a request, please include enough information in your request to help us identify you in our records, such as your name, account name, e-mail address and mailing address.
 
 ## Third-Party Sites & Services
 
@@ -56,9 +56,13 @@ Our sites and applications may include links to third-party websites or other on
 
 Third parties may use tracking technologies in connection with our sites and applications, which may include the collection of information about your online activities over time and across third-party websites. This Privacy Policy does not apply to these third-party technologies because we may not control them and we are not responsible for them. Do Not Track is a technology that enables users to opt out of tracking by websites they do not visit. Currently, we do not monitor or take any action with respect to Do Not Track technology.
 
+We also collect non-personally identifiable information via Google advertising cookies and anonymous identifiers, which includes information about user demographic and interest categories. You may opt out of this practice by [clicking here](http://optout.networkadvertising.org/?c=1#!/) or by visiting Google Analytics' currently available [opt-outs page](https://tools.google.com/dlpage/gaoptout/).
+
+We use third-party service providers to serve ads on our behalf across the Internet and sometimes on this site, as well as to conduct direct email re-marketing. They may collect information about your visits to our website, and your interaction with our products and services. They may also use information about your visits to this and other websites to target advertisements for goods and services. This information is collected through the use of a pixel tag, which is industry standard technology used by most major websites. No personally identifiable information is given to our service providers in this process. If you would like more information about the practice of using pixel tags and to know your choices about not having this information used by our third party service providers, please [click here](http://www.networkadvertising.org/managing/opt_out.asp). You can also read more about online marketing practices and the technologies that support them by visiting the Network Advertising Initiative's website by [clicking here](http://www.networkadvertising.org/).
+
 ### Updating Your Information
 
-Our sites and applications may allow you to update the information that we collect from you, such as the contact information that you provide when you register for an account. You may also request that we update your information by sending an e-mail to us at support@sundialbrands.com. Our sites and applications may also allow you to update your e- mail preferences. If you would prefer not to receive e-mail newsletters or other messages from us, you may use the “unsubscribe” features that are included in such messages or contact us at support@sundialbrands.com.
+Our sites and applications may allow you to update the information that we collect from you, such as the contact information that you provide when you register for an account. You may also request that we update your information by sending an e-mail to us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Our sites and applications may also allow you to update your e- mail preferences. If you would prefer not to receive e-mail newsletters or other messages from us, you may use the “unsubscribe” features that are included in such messages or contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ### How We Protect Your Information
 
@@ -70,7 +74,7 @@ Our sites and applications are operated in the United States and are intended fo
 
 ### Children’s Privacy
 
-Our sites and applications are intended for general audiences, and we do not knowingly seek or collect personal information from children under the age of 18. In accordance with the Child Online Privacy Protection Act, in the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any personal information from or about a child, please contact us at support@sundialbrands.com.
+Our sites and applications are intended for general audiences, and we do not knowingly seek or collect personal information from children under the age of 18. In accordance with the Child Online Privacy Protection Act, in the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any personal information from or about a child, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ### Privacy Policy Changes
 
@@ -78,10 +82,10 @@ We reserve the right to change this Privacy Policy at any time and we will post 
 
 ### Contact Us
 
-If you have any questions regarding our Privacy Policy, practices, or your use of our sites or applications, please contactus at support@sundialbrands.com or using the information below:
+If you have any questions regarding our Privacy Policy, practices, or your use of our sites or applications, please contactus at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or using the information below:
 
 Sundial Brands LLC   
 Attn: Legal Dept.   
 11 Ranick Drive South   
 Amityville, NY 11701   
-legal@sundialbrands.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
