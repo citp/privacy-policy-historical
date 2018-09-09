@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poetry4kids.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620164714id_/http%3A//www.poetry4kids.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poetry4kids.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909102926id_/https%3A//www.poetry4kids.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kenn Nesbitt's Poetry4kids.com
 
