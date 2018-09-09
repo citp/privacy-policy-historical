@@ -1,88 +1,160 @@
-> *The following text is extracted and transformed from the mipim.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510124058id_/http%3A//www.mipim.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mipim.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909145551id_/https%3A//www.reedmidem.com/en/privacy-policy.html) for the most accurate reproduction.*
 
-# Data Privacy Policy - MIPIMWorld
+# Reed MIDEM Privacy Policy
 
-Welcome to Reed MIDEM’s website [www.mipim.com ](http://www.mipim.com/)(hereafter: the “Portal”). Since 1994, Reed MIDEM, member of the Reed Exhibitions group, has been offering Internet services and secure Websites (hereinafter called "the Sites") which are user-friendly and respectful of their users' rights.  
-We undertake to respect the privacy of users of these Sites and in particular the Portal. We have consequently prepared this Data Protection Notice (hereafter: the "Privacy Policy") to explain the nature of the information gathered on the Portal when you visit them, and the ways in which it may be used.
+**About This Privacy Policy**
 
-## 1\. GENERALITY
+Reed Exhibitions is committed to respecting and protecting your privacy. This privacy policy applies to each Reed Exhibitions website, event, app and other service (each, a “Service”) that refers or links to this privacy policy. This privacy policy may be supplemented by additional privacy statements, terms or notices provided to you. The  Reed Exhibitions company that owns or administers the Service, as identified therein, is the primary controller of your personal information provided to, or collected by or for, the Service.
 
-Reed MIDEM respects the privacy of every individual who visits the Portal, and all other Sites owned, operated or maintained directly or indirectly by Reed MIDEM.  
-Reed MIDEM hereby informs you on the terms and conditions under which data that we collect from you on the Portal will be used, shared and otherwise treated. This Privacy Policy will also instruct you on how you can verify the accuracy, and control certain uses, of the information you provide to us on the Portal. Reed MIDEM abides by the constraining French and European rules in terms of protection of personal data and privacy. Personal data processing carried out by Reed MIDEM in the framework of the Portal were notified to the French Data Protection Authority, the CNIL ([www.cnil.fr](http://www.cnil.fr/ "www.cnil.fr")).  
-The Portal is governed by French law. Any use made of it must comply with its terms and will be deemed to have taken place on French territory. Any access to and/or use of the Portal is deemed to express unreserved acceptance of these Privacy Policy.
+**Information We Collect**
 
-For the purpose of the present privacy policy, Reed MIDEM considers its clients (hereinafter “Clients”) to be:   
-• Visitors and PSB (Participant without a stand) to exhibitions,   
-• Exhibitors at exhibitions and their affiliates,   
-• Conference participants,   
-• The press,  
-• Sales representatives of Reed MIDEM.
+We collect information about you in three ways: (1) from your input through our web forms, badge scanners, app forms and other mechanisms, (2) from third-party sources, and (3) through automated technologies.
 
-For any additional information, please contact Reed MIDEM’s team by sending an email to customerhelpservice@reedmidem.com.
+_Data You Provide To Us_
 
-## 2\. COLLECTION AND USE OF PERSONAL DATA
+The types of personal information that we collect directly from you depends on how you interact with us and the Service and may include:
 
-### 2.1 - Information collected
+  * Contact details, such as your name, email address, postal address, social media handle and phone number;
+  * Account login credentials, such as usernames and passwords, password hints and similar security information;
+  * Other account or event registration and profile information, such as educational, employment and professional background, dietary and accessibility requirements, and photo;
+  * Payment information, such as credit or debit card number;
+  * Comments, feedback and other information you provide to us, including information that you send to customer support and messages, appointment inquiries and other information that you wish us to share with our exhibitors, visitors, partners and others; and/or
+  * Interests and communication preferences, including My Show/My Event matchmaking and event planning and networking choices and preferred language.
 
-Reed MIDEM collects personal data on Clients, in accordance with the French Data Processing, Data Files and Individual Liberties Law dated January 6th, 1978 through, inter alia, paper and electronic forms used for participation to Reed MIDEM events, answers to satisfaction questionnaires and participation to surveys as run from time to time by Reed MIDEM, information supplied in the course of visiting Reed MIDEM websites, including information provided upon request by Reed MIDEM to allow it to answer queries on Reed MIDEM’s products and services.  
-Reed MIDEM distinguishes two kinds of personal data supplied by its Clients which are processed as described below.br /> \- Financial Information  
-Information associated with payments, which is obtained during registration procedures (e.g. credit card numbers, names of financial institutions and credit card expiry dates, listed by way of example but not of limitation) is classed as "Financial Information".  
-\- Business Information  
-Business Information includes Clients’ names, addresses, telephone and fax numbers, e-mail addresses and other personal data related to professional activities. The data collected during a Client's visit to the Portal is classed as “Business Information”.
 
-### 2.2 - Use of Business and Financial Information
 
-\- Financial information  
-Reed MIDEM uses Financial Information exclusively for purposes of processing registration, as well as for accounting and debt collection purposes.  
-\- Business information  
-Reed MIDEM uses Business Information and share it on a need basis with other organizations, partners or contractors of Reed MIDEM, to enable or to facilitate the performance of contracts entered with the Clients for the supply of products and services as well as to inform them on Reed MIDEM’s similar products and services. Reed MIDEM may also have to disclose Business Information to comply with applicable law and/or court injunction, and to compel respect of rights, property and safety of Reed MIDEM or of third parties.  
-As part of Portal online services, Clients have access to a database containing Business Information, to allow them to identify the Clients and to communicate with them using their contact details, including their email addresses.
+_Data From Other Sources_
 
-### 2.3 - Use by Client of other Client’s personal data
+We also may obtain personal information about you from our group companies and from other third parties, including:
 
-Each client having authorized access to Portal online services commits to make a use of personal data of other Clients in a good faith manner in compliance with the French Data Processing, Data Files and Individual Liberties Law dated January 6th, 1978 and the standards of Netiquette and conduct of business dealings in terms mutually approved by the concerned Clients. It is prohibited to use the Portal online services to collect or store personal data about other Clients.  
-Commercial use of Clients’ personal data made available in the course of the Portal on line services and not expressly agreed by the concerned Client is formally prohibited and subject to court action for remedy.  
-The Client is fully liable for conforming with applicable rules, more specifically those set forth in the French Data Processing, Data Files and Individual Liberties Law dated January 6th, 1978, regarding the transfer of personal data of Clients to third countries.
+  * Service providers that help us determine a location based on your IP address in order to customize certain products to your location;
+  * Partners with which we offer co-branded services or engage in joint marketing activities; and/or
+  * Publicly-available sources and data suppliers from which we obtain data to validate or supplement the information we hold.
 
-## 3 User rights
 
-### 3.1 - Rights guaranteed by the French Privacy Law
 
-In accordance with the provisions of French law 78-17 dated January 6th, 1978 related to “Information Technology and Civil liberties” (Law No. 78-17 of 6 January 1978 amended by Law No. 2004-801 of 6 August 2004), if you have previously submitted personal data to Reed MIDEM, you have the right to access, rectify or object to the personal data relating to you.  
-You may thereby require any information concerning yourself which would be untrue, incomplete, and ambiguous or obsolete, to be modified, completed, clarified, updated or deleted.  
-If you wish to exercise that right, please please contact us.  
-Please also note that once we receive your request, it may take up to 3 weeks to become effective.
+_Data From Service Use_
 
-### 3.2 - Rights provided by the Trusting Digital Economy Law
+Our Service may automatically collect information about how you and your device interact with the Service, including:
 
-In accordance with the provisions of the French law 2004-575 dated June 21st, 2004 related to « Trusting Digital Economy”, you have the right to opt out of receiving future marketing communication from Reed MIDEM through use of your electronic contact details.  
-If you wish to opt out, please click hereunder:  
-Thank you for not sending future commercial offers for products and services through use of my email, unless to respond to an express request on my part.
+  * Computer, device and connection information, such as IP address, browser type and version, operating system, platform and other software installed on your device, unique device identifier and other technical identifiers, error reports and performance data; 
+  * Usage data, such as the features you used, the settings you selected, your URL click stream data, including date and time stamp and referring and exit pages, and pages you visited on the Service; and/or 
+  * For location-aware Services, your location, such as where you are located on the event floor.
 
-## 4\. SECURITY
 
-The Portal managed by Reed MIDEM uses a secure server to protect financial and business data. To the extent that the Portal offer secure server software, it is used to encrypt the information exchanged between your Web browser and our the Portal. This measure ensures the security of your business and financial transactions when you use the Portal. We follow strict security procedures when filing and using the information you supply, and may request proof of your identity before supplying you with business information. We take all reasonable steps to ensure the secrecy of your personal data and passwords.  
-You are fully responsible for maintening the confidentiality of your password and abstaining from communicating it to any other person and you are solely liable for activities that occur under your password and login. Reed MIDEM disclaims all liabilities for inaccuracy of your personal data and in case of theft, loss, misuse, communication, fraudulent use of your login and password arising from your failure to comply with the above.
 
-## 5\. USE OF COOKIES
+We collect this data through our servers and the use of cookies and other technologies. You can control cookies through your browser’s settings and other tools. However, if you block certain cookies, you may not be able to register, login, or access certain parts or make full use of the Service. For more details, visit the cookie notice of the Service.
 
-The Portal may use cookies in the case of on-line purchase procedures to ensure the smooth operation of your on-line payments, to facilitate your registration procedures and to eliminate the need to input information that you have already provided during a previous visit to the Portal, or in the case of sections protected by a password.  
-Cookies are small information files that a website can send to the hard disk of a personal computer for traceability reasons. They are not executable programs, and cannot contain viruses or applications. The cookies used only take up a minimal amount of space on your hard disk.  
-Most browsers are initially set to accept cookies. However, you can always prevent cookies from being recorded on your computer by using the options provided by your browser.If you do so, some parts of the Portal may not operate as well as they should.  
-For more information on cookies and configuration of your web browser, you may visit the French data protection authority website at: [www.cnil.fr](http://www.cnil.fr/index.php?id=42 "www.cnil.fr").
+**How We Use Your Information**
 
-## 6\. LINKS TO OTHER SITES
+Depending on how you interact with us and the Service, we use your personal information to:
 
-The Portal provides links to third-party websites managed by other companies than Reed MIDEM. Reed MIDEM neither publishes nor monitors the sources and content of these websites nor their links with other sites.  
-Due to the open communication nature of the Internet, Reed MIDEM cannot guarantee that communications between you and the Portal, and the Portal and you, will be free from unauthorized access by third parties. Users of the Portal use these sites at their own risk.  
-The links to these third-party websites that may also collect personal and non personal data, in no manner constitute Reed MIDEM’s approval or validation with the contents of these websites nor Reed MIDEM’s association with the owners and/or the publishers, designers, webmasters, managers or hosts of these websites who each should have their own privacy policy and data collection practices, independent of Reed MIDEM and the Portal.  
-Reed MIDEM cannot be held liable for their contents, products, services, advertising, cookies, computer code, or for the use of the data you supply to those websites as well as for any and all money damages or losses, whether proven or alleged, consecutive to or while using the information, services or data available on these sites. Reed MIDEM provides these links for the convenience of the visitors to the Portal and such visitors access these websites at their own risk.
+  * Provide, activate and manage your access to and use of the Service;
+  * Process and fulfill a request, order, download or other transaction; 
+  * Provide technical, product and other support and to help keep the Service working, safe and secure;
+  * Enhance and improve the Service and our other products and services and to develop new products, services and benefits; 
+  * Offer you customized content and other personalization to make the Service more relevant to your interests and geography; 
+  * Respond to your requests, inquiries, comments and concerns; 
+  * Notify you about changes, updates and other announcements related to the Service and our other products and services;
+  * Deliver targeted advertisements, promotional messages, notices and other information related to the Service and your interests;
+  * Provide you with promotional messages and other information about products, events and services of ours, our affiliates and third parties, such as exhibitors, sponsors and media partners; 
+  * Invite you to participate in user testing and surveys as well as sweepstakes, competitions and similar promotions; 
+  * Identify usage trends and develop data analysis, including for purposes of research, audit, reporting and other business operations, including determining the effectiveness of our promotional campaigns and evaluating our business performance; and/or
+  * Comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-## 7\. STATISTICS
 
-The Portal is regularly monitored in order to supply you with the best service and to meet your expectations. For this purpose, we consult the statistics relating to use of the Portal and develop the Portal on the basis of this data. User statistics are anonymous.
 
-## 8\. ACCEPTANCE OF THIS PRIVACY POLICY AND AMENDMENTS
+**Sharing of Your Information**
 
-Reed MIDEM reserves the right to modify or, in general, to update this notice at any time to change in the law or for other reasons, which we reserve the right to do without prior notice.  
-These modifications will enter into force as soon as they are posted online on the Portal. Therefore you are invited to visit the Portal’s version which is constantly online. If Reed MIDEM changes this Privacy Policy, your continued use of the Portal following the posting of such changes will signify your acceptance of those changes.
+_Our Processors_
+
+Depending on the Service provided, we share personal information with:
+
+  * Our affiliates, trading names and divisions within the Reed Exhibitions group of companies worldwide (for a list, [click here](http://www.reedexpo.com/Contact-Us)) and certain RELX Group companies that provide technology, customer service and other shared services functions; and/or
+  * Our service providers, suppliers, agents and representatives, including but not limited to, payment processors, onsite event contractors, customer support, email service providers, IT service providers, mailing houses and shipping agents,
+
+
+
+to process the information for us based on our instructions and in compliance with this privacy policy and any other appropriate confidentiality and security measures.
+
+_Your Choices_
+
+We share your personal information with our affiliates and with exhibitors, sponsors, media partners, joint venture partners and other third parties, including entities for which we are acting as an agent, licensee or event manager, that wish to send you information about their products and services that may be of interest to you, as determined by your choices in managing your communications preferences and other settings.
+
+The Service may let you post and share personal information, comments, materials and other content. Any such contributions you disclose publicly may be collected and used by others, may be indexed by search engines, and might not be able to be removed. Please be careful when disclosing personal information in these public areas.
+
+_Legal Reasons_
+
+We will disclose your personal information if we have a good faith belief that such disclosure is necessary to:
+
+  * meet any applicable law, regulation, legal process or other legal obligation; 
+  * detect, investigate and help prevent security, fraud or technical issues; and/or
+  * protect the rights, property or safety of Reed Exhibitions, our users, employees or others;
+
+
+
+and as part of a corporate transaction, such as a transfer of assets or an acquisition by or merger with another company.
+
+**Your Communications Preferences**
+
+You can customize and manage your communications preferences and other settings when you register with the Service, by updating your account features and preferences, by using the ‘opt-out’ or unsubscribe mechanism or other means provided within the communications that you receive, or by contacting us. We reserve the right to notify you of changes or updates to the Service whenever necessary.
+
+**Accessing and Updating Your Information**
+
+_Your Account_
+
+The Service may allow registered users to directly access and review their account information and make corrections or updates at any time. Keeping such information up to date is solely the responsibility of the user. Registered users may also close their account directly through the Service or by contacting the Service’s customer support.
+
+_Your Rights_
+
+Under European and certain other privacy and data protection laws you can request free of charge:
+
+·         access to and correction or deletion of your personal information;
+
+·         restriction of our processing of your personal information, or to object to our processing; and
+
+·         a copy of your personal information (right to data portability).
+
+If you wish to exercise any of these rights, please contact us through the contact address provided below. We will respond to your request consistent with applicable laws. To protect your privacy and security, we may require you to verify your identity.
+
+**Data Retention**
+
+We retain your personal information for as long as necessary to provide the Service and fulfill the transactions you have requested, or for other essential purposes such as complying with our legal obligations, maintaining business and financial records, resolving disputes, maintaining security, detecting and preventing fraud and abuse, and enforcing our agreements.
+
+**Children’s Privacy**
+
+We do not knowingly collect information from children under the age of 13 or target the Service to children under 13.
+
+**Data Security**
+
+We take precautions to safeguard your personal information against loss, theft and misuse and unauthorized access, disclosure, alteration and destruction through the use of appropriate technical and organizational measures.
+
+**Locations of Processing**
+
+Your personal information may be stored and processed in your region or another country where Reed Exhibitions affiliates and their service providers maintain servers and facilities, including Australia, Austria, France, Germany, India, Italy, Japan, Korea, the Philippines, Singapore, the United Kingdom and the United States. We take steps, including through contracts, intended to ensure that the information continues to be protected wherever it is located in a manner consistent with the standards of protection required under applicable law. Where personal information is transferred from the European Economic Area or Switzerland to a country that has not received an adequacy decision by the European Commission, we rely on appropriate safeguards, such as the European Commission-approved Standard Contractual Clauses and EU-U.S. and Swiss-U.S. Privacy Shield Frameworks, to transfer the data.
+
+**Grounds for Processing**
+
+When we collect from you any personal information within the scope of European data protection laws, we do so:
+
+·         with your consent;
+
+·         where necessary to provide the Service, fulfill a transaction or otherwise perform a contract with you or at your request prior to entering into a contract;
+
+·         where necessary for our compliance with a legal obligation;
+
+·         where necessary for the performance of a task carried out in the public interest; and/or
+
+·         as necessary to operate our business, protect the security of our systems, customers and users, detect or prevent fraud, enable our customers to comply with legal obligations, or fulfill our other legitimate interests as described above, except where our interests are overridden by your privacy rights.
+
+Where we rely on your consent to process personal information, you have the right to withdraw your consent at any time, and where we rely on legitimate interests, you have the right to object.
+
+**Changes**
+
+We will update this privacy policy from time to time. Any changes will be posted on this page with an updated revision date. If we make any material changes, we will provide notice through the Service or by other means.
+
+**Contact**
+
+If you have any questions, comments, complaints or requests concerning this privacy policy or our processing of your information, please contact: Data Protection Officer, Reed Exhibitions Limited, Gateway House, 28 The Quadrant, Richmond, Surrey TW9 1DN, United Kingdom, [dataprotection@reedexpo.com](mailto:dataprotection@reedexpo.com), You also may lodge a complaint with the data protection authority in the applicable jurisdiction.
+
+Last updated: May 2018
