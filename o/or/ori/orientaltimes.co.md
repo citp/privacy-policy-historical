@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orientaltimes.co privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831065024id_/https%3A//orientaltimes.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orientaltimes.co privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909021806id_/https%3A//orientaltimes.co/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Oriental Times
 
