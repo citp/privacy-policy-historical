@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstsiteguide.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119125205id_/https%3A//firstsiteguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstsiteguide.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909060113id_/https%3A//firstsiteguide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
