@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the schooldude.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223103144id_/https%3A//www.schooldude.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schooldude.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909032520id_/https%3A//www.dudesolutions.com/privacy) for the most accurate reproduction.*
 
-# Cloud Operations Software for Schools - SchoolDude
+# Operations Management Software | Dude Solutions
 
-Last modified: June 15, 2016
+Last modified: June 6, 2017
 
 Privacy Policy
 
@@ -83,6 +83,14 @@ We have developed and implemented a security assurance program using privacy and
 The safety and security of your information also depends on you. When we have given you (or when you have chosen) a password for access to certain parts of our Platform, you are responsible for keeping that password confidential. We ask you not to share your password with anyone. You are responsible for compliance with our privacy and security recommendations. We are not responsible for your circumvention of any privacy settings or security measures contained on our Platform.
 
 Unfortunately, the transmission of information over the Internet is not completely secure. Although we have implemented security measures that we think are adequate, we cannot guarantee the security of your Personal Information transmitted to our Platform. Any transmission of Personal Information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on our Platform. 
+
+Mobile Device Management
+
+If Technology Essentials MDM (mobile device management) application is installed on your device, it will enable your organization to enforce and periodically report on your device's configuration to ensure alignment with your organization’s security policies, procedures and standards. 
+
+We respect your privacy, and Technology Essentials MDM cannot access your personal application data, your call history, your voicemail or your SMS messages on your mobile device. We cannot and do not collect your personal data via Technology Essentials MDM. Here's what information is collected by Technology Essentials MDM and why: (a) device and network ID, and information on storage capacity, operating system, carrier, and firmware (to uniquely identify your device and to ensure that we're looking at the correct records if it’s lost or stolen), (b) list of apps installed by Technology Essentials MDM (needed to confirm whether apps provided by your organization have been installed), and (c) jailbreak or root detection (indicates whether built-in security features have been bypassed).
+
+Permissions included within Technology Essentials MDM are critical in order to allow the DSI Device Policy Controller to perform the necessary administrative functions required within the context of an EMM/MDM admin app. These administration functions include, but are not limited to, adding and removing accounts, applying and enforcing device policies, implementing application restrictions, imposing constant device compliance with defined policies, and remotely erasing your organization’s data if you lose your device.
 
 Changes to Our Privacy Policy
 
