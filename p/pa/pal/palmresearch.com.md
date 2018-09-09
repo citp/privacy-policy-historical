@@ -1,14 +1,17 @@
-> *The following text is extracted and transformed from the palmresearch.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603040118id_/http%3A//badger.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palmresearch.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909213027id_/http%3A//www.palmresearch.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Badger.Org Privacy Statement
+# Privacy Policy - Palm Research
 
-**Privacy Statement**
-
-Badger.Org, Inc. respects the privacy of every individual who visits our websites or responds to our interactive advertisements. This Privacy Statement outlines the information Badger.Org, Inc. will collect and how we will use that information. This Statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit Badger.Org, Inc. websites or respond to our advertisements.
-
- **Personally-Identifiable Information**  
-Badger.Org, Inc. will not collect any personally-identifiable information about you (that is, your name, address, telephone number, or email address) unless you provide it to us voluntarily. If you do not want your personally-identifiable information collected, please do not submit it to us. If you have already submitted this information and would like for us to remove it from our records, please contact us at the email address or phone number listed at the bottom of this Statement. We will use reasonable efforts to delete your information from our existing files. When you do provide us with personally-identifiable information, we may use that information in the following ways, unless stated otherwise: we may store and process that information to better understand your needs and how we can improve our products and services; we may use that information to contact you; but we will NOT provide that information to third parties **Children**  
-Badger.Org, Inc. has no intention of collecting any personally-identifiable information (that is, name, address, telephone number, or email address) from individuals under thirteen years of age. Where appropriate, Badger.Org, Inc. will specifically instruct children not to submit such information on our websites or advertisements. If a child has provided us with personally-identifiable information, a parent or guardian of that child should contact us at the email address listed at the bottom of this Statement if they would like this information deleted from our records. We will use reasonable efforts to delete the child's information from our existing files. **Non-Personally-Identifiable Information Collected Automatically**  
-In some cases, we may collect information about you that is not personally-identifiable. Examples of this type of information include the type of Internet Browser you are using, the type of computer operating system you are using, and the domain name of the website from which you linked to our site or advertisement. **Information We May Place Automatically On Your Computer's Hard Drive**  
-When you view one of our websites or advertisements, we may store some information on your computer. This information will be in the form of a "Cookie" or similar file and will help us in many ways. For example, Cookies allow us to tailor a website or advertisement to better match your interests and preferences. With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies, or receive a warning before a Cookie is stored. Please refer to your Browser instructions or help screen to learn more about these functions. **Who to Contact**  
-If you have submitted personally-identifiable information through a Badger.Org, Inc. website or interactive advertisement, and would like that information deleted from our records, please contact us at our email address, badger@badger.org. We will use reasonable efforts to delete this information from our existing files. 
+Privacy Policy  
+Use of our site located at http://palmresearch.com (or any variation of palmresearch.com) indicates acceptance of our Privacy Policy.  
+Privacy of Information  
+Palm Research believes in honest marketing and fair business practices. Because of this, we promise to never share your personal and confidential information with any party for their data collecting / advertising / promotional purposes. We will, however, share personal and confidential information with authorities if required to do so by law.  
+The information we collect, including but not limited to, name, age, mailing address and phone number, is solely used for contacting you about your member account. We will never ask you to confirm your personal information through email, with the exception that, from time to time, we may ask you to log in to your account and confirm the information.  
+Cookie and Pixel Tracking  
+Our members participate in surveys linked to from our site, and in order to provide "real time" tracking to our members, we may utilize the cookie function of your computer browser. This cookie only stores information limited to the survey panel number and member number and can only be accessed by our site.  
+Third Party Websites  
+Palm Research offers surveys from our partners and other third party websites. Please refer to their respective privacy policies for information on how they handle personal information.  
+Changes to our Privacy Policy  
+Please check this page periodically for any changes to our privacy policy. We reserve the right to change, modify, add or remove portions of our Privacy Policy at any time.  
+| Revised on April 14, 2018  
+---
