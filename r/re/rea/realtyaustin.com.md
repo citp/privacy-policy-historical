@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtyaustin.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023152821id_/https%3A//www.realtyaustin.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtyaustin.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909161123id_/https%3A//www.realtyaustin.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Realty Austin Privacy Policy
 
