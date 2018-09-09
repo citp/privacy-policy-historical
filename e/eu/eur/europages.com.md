@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the europages.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915095720id_/http%3A//corporate.europages.co.uk/services-solutions/terms-and-conditions/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europages.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909134630id_/http%3A//corporate.europages.co.uk/services-solutions/terms-and-conditions/privacy) for the most accurate reproduction.*
 
 # EUROPAGES privacy policy | Europages
+
+Last updated: 12/14/2017
 
 EUROPAGES recognises the importance that must be given to protecting personal data.
 
@@ -151,7 +153,7 @@ Users are informed of the installation of cookies on their browser. The cookie s
 
 ## 5\. Unsubscribing – Contacts
 
- **5.1** A company whose details are given in the free listing section of the Directory has the right to access, rectify and delete its data according to the conditions described in Clause 4.4 below.
+ **5.1** A company whose details are given in the free listing section of the Directory has the right to access, rectify and delete its data according to the conditions described in Clause 5.4 below.
 
  **5.2** Any User of the www.europages.com website may object to the processing of their personal data
 
