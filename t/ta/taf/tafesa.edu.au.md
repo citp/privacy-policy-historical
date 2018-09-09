@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tafesa.edu.au privacy policy that was archived on 2018-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180403162029id_/https%3A//www.tafesa.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tafesa.edu.au privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909041511id_/http%3A//www.tafesa.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy - TAFE SA
 
