@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawyersclubindia.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630170817id_/http%3A//www.lawyersclubindia.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawyersclubindia.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909123214id_/http%3A//www.lawyersclubindia.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
