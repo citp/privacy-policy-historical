@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canfinhomes.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508120340id_/http%3A//www.canfinhomes.com/Privacy%2520Policy-CFHL.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canfinhomes.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909150928id_/http%3A//www.canfinhomes.com/Privacy%2520Policy-CFHL.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
