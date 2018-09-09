@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thechronicle.com.au privacy policy that was archived on 2018-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180320091936id_/https%3A//www.thechronicle.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thechronicle.com.au privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909023923id_/https%3A//www.thechronicle.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Chronicle
 
@@ -157,14 +157,14 @@ Privacy Officer
 
 APN Newspapers Pty Ltd 
 
-PO Box 8060 
+PO Box 1578 
 
-Maroochydore D.C. QLD 4558 
+Milton QLD 4064 
 
 Phone: 1300 130 590 
 
 Fax: (07) 5456 6920 
 
-Email: privacyofficer@apn.com.au. 
+Email: [privacyofficer@newsregionalmedia.com.au ](mailto:privacyofficer@newsregionalmedia.com.au)
 
 ARM takes complaints about breaches of the APPs seriously and will investigate any complaint we receive and respond to you as soon as reasonably practicable. 
