@@ -1,548 +1,1423 @@
-<!--The following is the downloaded HTML source of the 7-eleven.com privacy policy that was archived on 2017-02-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170205004254id_/http%3A//www.7-eleven.com/Home/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 7-eleven.com privacy policy that was archived on 2018-09-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180909125220id_/https%3A//www.7-eleven.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml"><head>
-	<meta name="viewport" content="width=device-width">
-	<meta name="google-site-verification" content="vaXhQH6Ry2pZBJgTEyB-mi_9hOPvYdbW02oEit8Dt54">
-    <meta name="description">
-	<title>Privacy</title>
-	
-	<link href="/Content/Site.css" rel="stylesheet" type="text/css">
-	<link href="/Content/themes/7-Eleven/jquery-ui-1.9.0.custom.css" rel="stylesheet" type="text/css">
-	<link href="/Content/LoginModal.css" rel="stylesheet" type="text/css">
-	<link href="/Content/FindStore.css" rel="stylesheet" type="text/css">
-	<link href="/Content/mapcontrol.css" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" type="text/css" href="//cloud.typography.com/6386292/640264/css/fonts.css">
-	
-
-	<script type="text/javascript" async="" src="https://web.archive.org/web/20140402160758/https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5GNBDN"></script><script src="/Scripts/jquery-1.8.2.min.js" type="text/javascript"></script>
-	<script src="/Scripts/jquery.lazyload.min.js" type="text/javascript"></script>
-	<script src="/Scripts/jquery-ui-1.9.0.custom.min.js" type="text/javascript"></script>
-	<script src="/Scripts/knockout-2.1.0.js" type="text/javascript"></script>
-	<script src="/Scripts/jquery.jcarousel.min.js" type="text/javascript"></script>
-	<script src="/Scripts/jquery.validate.min.js" type="text/javascript"></script>
-	<script src="/Scripts/jquery.validate.unobtrusive.min.js" type="text/javascript"></script>
-	<script src="/Scripts/jquery-cookie.1.0.0.js" type="text/javascript"></script>
-
-	<script type="text/javascript" src="https://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
-
-	<script src="/Scripts/main.js" type="text/javascript"></script>
-	<script src="/Scripts/integer.utils.js" type="text/javascript"></script>
-	<script src="/Scripts/LoginModal.js" type="text/javascript"></script>
-	
-
-	<script language="javascript" type="text/javascript">
-		Integer.Utils.BaseUrl = BaseUrl = "/";
-		GeocodeServiceURL = "https://dev.virtualearth.net/REST/v1/Locations/";
-		Integer.Utils.APIKeys.BingMaps = BingMapsAppId = "AjZxfKx5tbByQGUJWrABpswfTTd94Fp2OHknRQNyWvsuRjcqcacoRN96ukwkxnSs";
-		Integer.Utils.CaptchaKey = CaptchaKey = "6LfbKt4SAAAAAGhph1SsH3QukiSCr1AYXDJVT_qM";
-		Integer.Utils.APIKeys.ajax = ajaxAPIKey = "A95D6FB9-A6FC-4F40-B00E-EBD4729D55B2";
-		isMobile = false;
-	</script>
-
-</head>
-
-<body>
-	<!-- Google Tag Manager -->
-	<noscript>
-		<iframe src="//www.googletagmanager.com/ns.html?id=GTM-5GNBDN"
-			height="0" width="0" style="display:none;visibility:hidden"></iframe>
-	</noscript>
-	<script>
-		(function(w, d, s, l, i) {
-			w[l] = w[l] || []; w[l].push({
-				'gtm.start':
-				new Date().getTime(), event: 'gtm.js'
-			}); var f = d.getElementsByTagName(s)[0],
-			j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-			'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-		})(window, document, 'script', 'dataLayer', 'GTM-5GNBDN');
-	</script>
-	<!-- End Google Tag Manager -->
-	<img src="/Content/images/ajax-loader.gif" alt="Working..." id="ajaxLoader" class="ajaxLoader" style="display: none;">
-	<div id="mainWrapper">
-		<div id="siteContentBGWrapper">
-			<div id="siteContentOuterGradientWrapper">
-				<div id="topFixedWrapper">
-					<div id="sevenElevenBarHolder">
-						<a id="sevenElevenLogoLink" href="/">
-							<img src="/Content/images/blank.png" width="78" height="100" alt="Seven Home"></a>
-						<img id="sevenElevenBanner" src="/Content/images/img_sevenElevenBanner.png" alt="Seven Eleven Banner">
-						
-
-<form action="/Home/Locator" id="findStoreForm" method="post">    <input type="hidden" id="SourceLatitude" name="SourceLatitude" value="0.00">
-    <input type="hidden" id="SourceLongitude" name="SourceLongitude" value="0.00">
-    <input type="hidden" id="PageSize" name="PageSize" value="5">
-    <input type="hidden" id="PageNumber" name="PageNumber" value="0">
-    <div class="loginHolder">
-        <div class="storeLocatorSearchHolder">
-            <div class="search-left">
-                <label>Radius</label>
-                <select id="searchRangeMiles" class="storeLocatorSearch" name="searchRangeMiles">
-    				<option value="5">5 miles</option>
-    				<option value="10">10 miles</option>
-    				<option value="15">15 miles</option>
-    				<option value="30">30 miles</option>
-    				<option value="100">100 miles</option>
-    				<option value="1000">1000 miles</option>
-    				<option value="3000">3000 miles</option>
-    			</select>
-            </div>
-            <div class="search-right">
-                <label>Location</label>
-                <input type="text" id="storeLocatorSearch" name="StoreLocatorSearchTerm" class="storeLocatorSearch data-tooltip" value="ZIP or city, state" data-tooltip="ZIP or city, state"> 
-                <button type="submit" id="storeSearchAnchor"><img src="/Content/images/locator/filter_search_btn.png" alt="Search" id="storeSearchButton"></button>
-            </div>
-        </div>
-        <div class="advancedSearchHolder">
-            <a href="javascript:void(0);" data-bind="click: toggleStoreFilters" class="collapsed" id="advancedSearchAnchor"></a>
-        </div>
-    </div>
-    <div class="advancedSearchContentHolder">
-        <div class="advancedSearchContent">
-            <div class="searchSelections searchColumn" id="searchSelections" style="display: block;">
-                
-                <h2>Filter Stores by Feature</h2> 
-
-                <div class="selectionWrapper">
-                    <input type="checkbox" id="checkbox_atm" value="atm" name="Filters" class="findStoreAdvancedOption">
-                    <label for="checkbox_atm">ATM</label>
-                </div>  
-
-                <div class="selectionWrapper">
-                    <input type="checkbox" id="checkbox_liquor" value="liquor" name="Filters" class="findStoreAdvancedOption">
-                    <label for="checkbox_liquor">Liquor</label>
-                </div> 
-
-                <div class="selectionWrapper">
-                    <input type="checkbox" id="checkbox_beer" value="beer" name="Filters" class="findStoreAdvancedOption">
-                    <label for="checkbox_beer">Beer</label>
-                </div>
-
-                <div class="selectionWrapper">
-                    <input type="checkbox" id="checkbox_lottery" value="lottery" name="Filters" class="findStoreAdvancedOption">
-                    <label for="checkbox_lottery">Lottery</label>
-                </div> 
-
-                <div class="selectionWrapper">
-                    <input type="checkbox" id="checkbox_carwash" value="carwash" name="Filters" class="findStoreAdvancedOption">
-                    <label for="checkbox_carwash">Car Wash</label>
-                </div>  
-
-                <div class="selectionWrapper">
-                    <input type="checkbox" id="checkbox_propane" value="propane" name="Filters" class="findStoreAdvancedOption">
-                    <label for="checkbox_propane">Propane</label>
-                </div>
-
-                <div class="selectionWrapper">
-                    <input type="checkbox" id="checkbox_diesel" value="diesel" name="Filters" class="findStoreAdvancedOption">
-                    <label for="checkbox_diesel">Diesel</label>
-                </div> 
-
-                <div class="selectionWrapper">
-                    <input type="checkbox" id="checkbox_redbox" value="redbox" name="Filters" class="findStoreAdvancedOption">
-                    <label for="checkbox_redbox">Redbox</label>
-                </div>
-
-                <div class="selectionWrapper">
-                    <input type="checkbox" id="checkbox_fuel" value="gas" name="Filters" class="findStoreAdvancedOption">
-                    <label for="checkbox_fuel">Fuel</label>
-                </div>
-
-                <div class="selectionWrapper">
-                    <input type="checkbox" id="checkbox_snap" value="SNAP" name="Filters" class="findStoreAdvancedOption">
-                    <label for="checkbox_snap">SNAP</label>
-                </div>
-
-                <div class="selectionWrapper">
-                    <input type="checkbox" id="checkbox_hotfoods" value="hotfood" name="Filters" class="findStoreAdvancedOption">
-                    <label for="checkbox_hotfoods">Hot Foods</label>
-                </div>
-
-                <div class="selectionWrapper">
-                    <input type="checkbox" id="checkbox_wine" value="wine" name="Filters" class="findStoreAdvancedOption">
-                    <label for="checkbox_wine">Wine</label>
-                </div>
-               
-                <div class="clearfix"></div>
-            </div>
-            <div class="searchResults searchColumn" id="directionsResult">
-                <h2>Directions</h2>
-                <div><ol id="directionsList" class="storeResult"></ol>
-                </div>
-                <p class="storeResult">
-                    <a href="javascript:RestoreSearchResults();">Back to search results.</a>
-                </p>
-                <div class="clearfix"></div>
-            </div>
-            <div class="searchResults searchColumn" id="searchResults">
-                <h2>Found <span id="storeCount"></span> Stores Near You</h2>
-                <img src="/Content/images/ajaxArrows.gif" alt="Working..." id="locatorModalSpinner" class="arrowAjaxSpinner ajaxLoader" style="display: none;">
-                <div id="searchResultsPagerHolder">
-                    <div data-bind="template: { name: 'storeResultTemplate', foreach: storeResults }" id="storeResultsHolder"></div>
-                </div>
-
-                <a href="javascript:void();" data-action="pageDown" data-bind="visible: showPrevBtn" class="pager">Previous</a>
-                <a href="javascript:void();" data-action="pageUp" data-bind="visible: showNextBtn" class="pager rightPager">Next</a>
-            
-            <div class="clearfix"></div>
-            </div>
-
-            <div class="clearfix"></div>
-            <p class="storeHoursText">Most stores are open 24 hours a day, 7 days a week.</p>
-            
-        </div>
-    </div>
-</form>
+<!DOCTYPE html><html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# "><head>
+<meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-spa-1071.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PXJQNCP"></script><script type="text/javascript" async="" src="https://assets.kochava.com/kochava.js/v1/kochava.min.js?c=0.7568556414942174"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQcDWVRUDRAEUFhTDgMDUg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(20),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,c){try{h?h-=1:o(c||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,s.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:s.now();i("err",[t,n])}var i=t("handle"),a=t(21),c=t("ee"),s=t("loader"),f=t("gos"),u=window.onerror,d=!1,p="nr@seenError",h=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(13),t(12),"addEventListener"in window&&t(6),s.xhrWrappable&&t(14),d=!0)}c.on("fn-start",function(t,e,n){d&&(h+=1)}),c.on("fn-err",function(t,e,n){d&&!n[p]&&(f(n,p,function(){return!0}),this.thrown=!0,o(n))}),c.on("fn-end",function(){d&&!this.thrown&&h>0&&(h-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){M++,S=y.hash,this[u]=b.now()}function o(){M--,y.hash!==S&&i(0,!0);var t=b.now();this[l]=~~this[l]+t-this[u],this[d]=t}function i(t,e){E.emit("newURL",[""+y,e])}function a(t,e){t.on(e,function(){this[e]=b.now()})}var c="-start",s="-end",f="-body",u="fn"+c,d="fn"+s,p="cb"+c,h="cb"+s,l="jsTime",m="fetch",v="addEventListener",w=window,y=w.location,b=t("loader");if(w[v]&&b.xhrWrappable){var g=t(10),x=t(11),E=t(8),P=t(6),O=t(13),R=t(7),T=t(14),L=t(9),j=t("ee"),N=j.get("tracer");t(15),b.features.spa=!0;var S,M=0;j.on(u,r),j.on(p,r),j.on(d,o),j.on(h,o),j.buffer([u,d,"xhr-done","xhr-resolved"]),P.buffer([u]),O.buffer(["setTimeout"+s,"clearTimeout"+c,u]),T.buffer([u,"new-xhr","send-xhr"+c]),R.buffer([m+c,m+"-done",m+f+c,m+f+s]),E.buffer(["newURL"]),g.buffer([u]),x.buffer(["propagate",p,h,"executor-err","resolve"+c]),N.buffer([u,"no-"+u]),L.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"]),a(T,"send-xhr"+c),a(j,"xhr-resolved"),a(j,"xhr-done"),a(R,m+c),a(R,m+"-done"),a(L,"new-jsonp"),a(L,"jsonp-end"),a(L,"cb-start"),E.on("pushState-end",i),E.on("replaceState-end",i),w[v]("hashchange",i,!0),w[v]("load",i,!0),w[v]("popstate",function(){i(0,M>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(13),c=t(12),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",p="resource",h="-start",l="-end",m="fn"+h,v="fn"+l,w="bstTimer",y="pushState",b=t("loader");b.features.stn=!0,t(8);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=b.now())}),o.on(v,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,b.now()])}),a.on(m,function(t,e,n){this.bstStart=b.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,b.now(),this.bstType])}),c.on(m,function(){this.bstStart=b.now()}),c.on(v,function(t,e){i(w,[e,this.bstStart,b.now(),"requestAnimationFrame"])}),o.on(y+h,function(t){this.time=b.now(),this.startPath=location.pathname+location.hash}),o.on(y+l,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(23)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=r.apply(this,arguments);return o.emit(n+"start",arguments,t),t.then(function(e){return o.emit(n+"end",[null,e],t),e},function(e){throw o.emit(n+"end",[e],t),e})})}var o=t("ee").get("fetch"),i=t(20);e.exports=o;var a=window,c="fetch-",s=c+"body-",f=["arrayBuffer","blob","json","text","formData"],u=a.Request,d=a.Response,p=a.fetch,h="prototype";u&&d&&p&&(i(f,function(t,e){r(u[h],e,s),r(d[h],e,s)}),r(a,"fetch",c),o.on(c+"end",function(t,e){var n=this;e?e.clone().arrayBuffer().then(function(t){n.rxSize=t.byteLength,o.emit(c+"done",[null,e],n)}):o.emit(c+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t(23)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){function r(t){function e(){s.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}function n(){s.emit("jsonp-error",[],p),s.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}var r=t&&"string"==typeof t.nodeName&&"script"===t.nodeName.toLowerCase();if(r){var o="function"==typeof t.addEventListener;if(o){var a=i(t.src);if(a){var u=c(a),d="function"==typeof u.parent[u.key];if(d){var p={};f.inPlace(u.parent,[u.key],"cb-",p),t.addEventListener("load",e,!1),t.addEventListener("error",n,!1),s.emit("new-jsonp",[t.src],p)}}}}}function o(){return"addEventListener"in window}function i(t){var e=t.match(u);return e?e[1]:null}function a(t,e){var n=t.match(p),r=n[1],o=n[3];return o?a(o,e[r]):e[r]}function c(t){var e=t.match(d);return e&&e.length>=3?{key:e[2],parent:a(e[1],window)}:{key:t,parent:window}}var s=t("ee").get("jsonp"),f=t(23)(s);if(e.exports=s,o()){var u=/[?&](?:callback|cb)=([^&#]+)/,d=/(.*)\.([^.]+)/,p=/^(\w+)(\.|$)(.*)$/,h=["appendChild","insertBefore","replaceChild"];f.inPlace(HTMLElement.prototype,h,"dom-"),f.inPlace(HTMLHeadElement.prototype,h,"dom-"),f.inPlace(HTMLBodyElement.prototype,h,"dom-"),s.on("dom-start",function(t){r(t[0])})}},{}],10:[function(t,e,n){var r=t("ee").get("mutation"),o=t(23)(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],11:[function(t,e,n){function r(t){var e=a.context(),n=c(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t(23),a=t("ee").get("promise"),c=i(a),s=t(20),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;s(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),c=f.resolve(i);return c}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),s(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=c(t[0],"resolve-",this),t[1]=c(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),c.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=c(t[0],"cb-",this),t[1]=c(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],12:[function(t,e,n){var r=t("ee").get("raf"),o=t(23)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],13:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(23)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],14:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",c)}function i(t){b.push(t),l&&(x?x.then(a):v?v(a):(E=-E,P.data=E))}function a(){for(var t=0;t<b.length;t++)r([],b[t]);b.length&&(b=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),d=t(23)(u),p=NREUM.o,h=p.XHR,l=p.MO,m=p.PR,v=p.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],b=[];e.exports=u;var g=window.XMLHttpRequest=function(t){var e=new h(t);try{u.emit("new-xhr",[e],e),e.addEventListener(w,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(h,g),g.prototype=h.prototype,d.inPlace(g.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),l){var x=m&&m.resolve();if(!v&&!m){var E=1,P=document.createTextNode(E);new l(a).observe(P,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],15:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return l(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(16),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,p=t("id"),h=t(19),l=t(18),m=window.XMLHttpRequest;a.features.xhr=!0,t(14),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||h<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=l(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],16:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],17:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(20),c=t(21),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",h=p+"ixn-";a(d,function(t,e){u[e]=o(p+e,!0,"api")}),u.addPageAction=o(p+"addPageAction",!0),u.setCurrentRouteName=o(p+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var l=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(h+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw s.emit("fn-err",[arguments,this,t],n),t}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){l[e]=o(h+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],18:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],19:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],20:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],21:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],22:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],23:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(21),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){p([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){p([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){p([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function p(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!p.aborted||i){t&&t(n,r,o);for(var a=e(o),c=l(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[y[n]];return d&&d.push([b,n,r,a]),a}}function h(t,e){w[t]=l(t).concat(e)}function l(t){return w[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var w={},y={},b={on:h,emit:n,get:m,listeners:l,context:e,buffer:v,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(p.aborted=!0,u=p.backlog={})}var c="nr@context",s=t("gos"),f=t(20),u={},d={},p=e.exports=o();p.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!x++){var t=g.info=NREUM.info,e=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(y,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+g.offset],null,"api");var n=p.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===p.readyState&&i()}function i(){s("mark",["domContent",a()+g.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-g.offset}var c=(new Date).getTime(),s=t("handle"),f=t(20),u=t("ee"),d=window,p=d.document,h="addEventListener",l="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var w=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1071.min.js"},b=m&&v&&v[h]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:c,now:a,origin:w,features:{},xhrWrappable:b};t(17),p[h]?(p[h]("DOMContentLoaded",i,!1),d[h]("load",r,!1)):(p[l]("onreadystatechange",o),d[l]("onload",r)),s("mark",["firstbyte",c],null,"api");var x=0,E=t(22)},{}]},{},["loader",2,15,5,3,4]);</script>
+<meta name="title" content="Privacy Policy | 7-Eleven">
+<meta name="description" content="7-Eleven is committed to preserving the privacy of those who visit our sites or who use our apps. View our full privacy policy here.">
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)">
+<meta name="MobileOptimized" content="width">
+<meta name="HandheldFriendly" content="true">
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+<meta name="apple-itunes-app-2" content="app-id=589653414-2, affiliate-data=myAffiliateData, app-argument=/">
+<script>var seServer = {
+        uri: 'https://api.7-eleven.com',
+        anon_id: 'sl3rgdU5c5ZvsYj95FGIuexau5Nt7J5OTf7VRPfV',
+        anon_secret: '11BBlWqIeLenwAmPOKqz8WN5NIZRCCSBSEcBtp9DikLh90WL217OlaCvghuDJucGP5wG12VW2vQ7FRAzUMcYtOOrLtcd4eMqShsOJJKZnJOL5snAnih0uyUN8ZEURXPh',
+        pw_id: 'OUp5z7I9y3HNDcyl5dwLSG5XkhulFUtsBfzwdpQU',
+        pw_secret: 'ZPGlCgFo4pO0jXmny4CudBSNSTx9vGtx8TcCTPnNLj3mTdNGGQw9n6SdNVN4wkmo1DczkRrLI5BomHRM3VzBoPLwkEs0IslGZEW7Tyd3C3TVPCvSQA4qHZnZPBEa2W7R',
+        version: '3.5.7',
+        platform: 'us_web',
+        generate_headers: true
+      }</script>
+<link rel="shortcut icon" href="/themes/seveneleven/favicon.ico" type="image/vnd.microsoft.icon">
+<script>(function(e,a){if(!a.__SV){var b=window;try{var c,l,i,j=b.location,g=j.hash;c=function(a,b){return(l=a.match(RegExp(b+"=([^&]*)")))?l[1]:null};g&&c(g,"state")&&(i=JSON.parse(decodeURIComponent(c(g,"state"))),"mpeditor"===i.action&&(b.sessionStorage.setItem("_mpcehash",g),history.replaceState(i.desiredHash||"",e.title,j.pathname+j.search)))}catch(m){}var k,h;window.mixpanel=a;a._i=[];a.init=function(b,c,f){function e(b,a){var c=a.split(".");2==c.length&&(b=b[c[0]],a=c[1]);b[a]=function(){b.push([a].concat(Array.prototype.slice.call(arguments,
+0)))}}var d=a;"undefined"!==typeof f?d=a[f]=[]:f="mixpanel";d.people=d.people||[];d.toString=function(b){var a="mixpanel";"mixpanel"!==f&&(a+="."+f);b||(a+=" (stub)");return a};d.people.toString=function(){return d.toString(1)+".people (stub)"};k="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config reset people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+for(h=0;h<k.length;h++)e(d,k[h]);a._i.push([b,c,f])};a.__SV=1.2;b=e.createElement("script");b.type="text/javascript";b.async=!0;b.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";c=e.getElementsByTagName("script")[0];c.parentNode.insertBefore(b,c)}})(document,window.mixpanel||[]);
+mixpanel.init("8bb005605c4d2863cb137a83697c5199");</script>
+<script>!function(a,b,c,d,e){var f=window.kochava=window.kochava||[];if(f.loaded)return void(window.console&&console.error&&console.error("Kochava snippet already included"));f.loaded=!0,f.methods=["page","identify","activity","conversion","init"],stub=function(a){return function(){var b=Array.prototype.slice.call(arguments);return b.unshift(a),f.push(b),f}};for(var g=0;g<f.methods.length;g++){var h=f.methods[g];f[h]=stub(h)}f.init((new Date).getTime(),a,e),function(){var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=("https:"===document.location.protocol?"https://":"http://")+"assets.kochava.com/kochava.js/"+b+"/kochava.min.js",d||(a.src=a.src+"?c="+Math.random());var c=document.getElementsByTagName("script")[0];c.parentNode.insertBefore(a,c)}(),c&&f.page()}("ko7-11-web-prod-robw","v1",true,false,false);</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-PXJQNCP');</script>
+<title>Privacy Policy | 7-Eleven</title>
+<link rel="stylesheet" href="/sites/default/files/css/css_j1lnQ3fK8UQVpE9DrVpc4XQZ5O5LtHE3vlwSbqImJP8.css?pelicl" media="all">
+<link rel="stylesheet" href="/sites/default/files/css/css_nd0QKPhKijObS8QkwGFyMk9EL9sANK0hUNoqHJUlcyQ.css?pelicl" media="all">
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
 <script type="text/javascript">
-	//debugger;
-	$(function() {
-		if (typeof SevenELocator !== 'function') {
-			$('form#findStoreForm').on('submit.locatorForm', function() {
-				var searchValue = $("#storeLocatorSearch").val(),
-					toolTip = $("#storeLocatorSearch").attr("data-tooltip"),
-					range = $("#searchRangeMiles").val(),
-					isValid = true;
+    var featureClasses = "";
+    var c_name = "se_feature_cookie";
+    var c_start = document.cookie.indexOf(c_name + "=");
+    if (c_start !== -1) {
+      c_start = c_start + c_name.length + 1;
+      var c_end = document.cookie.indexOf(";", c_start);
+      if (c_end == -1) c_end = document.cookie.length;    
+      var se_feature_cookie = JSON.parse(unescape(document.cookie.substring(c_start, c_end)));
+      if (se_feature_cookie.userAuth) featureClasses += " feUserAuth";
+      if (se_feature_cookie.se7now) featureClasses += " fe7now";
+      if (se_feature_cookie.sePostmates) featureClasses += " fePostmates";
+    }
+    if (featureClasses == "") {
+      var seUser = JSON.parse(localStorage.getItem("seUser"));
+      if (seUser && seUser.shortprofile) {
+        featureClasses = " feUserAuth";
+      }
+    }
+    </script>
+</head>
+<body class="title-privacy-policy slug-privacy se-search se-7rewards path-node page-node-type-legal">
+<script type="text/javascript">
+    document.body.className += featureClasses;
+    </script>
+<a href="#main" class="visually-hidden focusable skip-link">
+Skip to main content
+</a>
 
-				if (searchValue == toolTip || searchValue == "" || searchValue == null) {
-					isValid = false;
-					$("#storeLocatorSearch").addClass("validationError");
-				} else {
-					$("#storeLocatorSearch").removeClass("validationError");
-				}
-				if (range == null || range == "") {
-					isValid = false;
-					$("#searchRangeMiles").addClass("validationError");
-				} else {
-					$("#searchRangeMiles").removeClass("validationError");
-				}
-				if (isValid) {
-					return true;
-				} else {
-					alert('Please enter a location (Ex: zip code, city, or landmark) and a search radius.');
-					return false;
-				}
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PXJQNCP" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-				$('#advancedSearchAnchor').on('click', function() {
-					if ($("#advancedSearchAnchor").hasClass("expanded")) {
-						$("#advancedSearchAnchor").removeClass("expanded").addClass("collapsed");
-						$("#searchSelections").slideUp("slow");
-						//$(".advancedSearchContentHolder .advancedSearchContent").slideUp('slow');
-					} else {
-						$("#advancedSearchAnchor").removeClass("collapsed").addClass("expanded");
-						$("#searchSelections").slideDown("slow");
-						//$(".advancedSearchContentHolder .advancedSearchContent").slideDown('slow');
-					}
-				});
-			});
-		}
-    });
-    
-
-</script>
-
-<script id="storeResultTemplate" type="text/html">
-	<div class="store" data-bind="uniqueId: uniqueId">
-		<div class="number resultsListNumber" data-bind="text: $parent.getPinId(index)"></div>
-		<p class="storeResult">
-            <span data-bind="visible: function() { return typeof DistanceFromSearch == 'string'; }, text: DistanceFromSearch + 'les away'"></span><br />
-			<strong><span class="title">7-ELEVEN</span> #<span data-bind="text: StoreNumber"></span> </strong>
-			
-            <a href="javascript:FollowMapLink();" class="storesResultMapLink hidden">Map</a><br />
-			<span data-bind="text: Address1"></span><br />
-			<span data-bind="text: City"></span>, <span data-bind="text: State"></span> <span data-bind="text: Zip"></span><br />
-			<span data-bind="text: Phone"></span><br />
-			
-            <p class="storeResult directionsLinkHolder">
-                <a href="#" class="featuresLink" data-bind="click: toggleFeatures">Features</a> | 
-                <!-- <a href="#" class="directionsLink" data-bind="click: $parent.getDirectDirections, uniqueId: 'directionsLink_' + StoreNumber" data-mode="driving">Get Directions</a> -->
-                <a class="directionsLink" href="javascript:void(0);" target="_blank" data-bind="attr: { href: $parent.getDirectDirections($data) }">Get Directions</a>
-                <!-- <a href="javascript:void(0);" target="_blank" data-bind="attr: { href: $parent.getDirections($data) }"> -->
-                <!--<a href="#" class="directionsLink" data-bind="click: $parent.getWalkingDirections, uniqueId: 'walkDirectionsLink_' + StoreNumber">Walking Directions</a>-->
-            </p>
-		</p>
-		<div class="clearfix"></div>
-		<ul data-bind="foreach: Features,uniqueId: 'featuresHolder_' + StoreNumber" class="storeFeaturesList">
-			<li data-bind="text: $data"></li>
-		</ul>    
-		<div class="clearfix"></div>
-		
-		<div class="clearfix"></div>
-		<div class="directionsResults" data-bind="uniqueId: 'directionsPane_' + uniqueId" start="0"></div>
-		<div class="clearfix"></div>
-		<div class="mapHtmlDataHolder" data-bind="uniqueId: 'descriptionHolder_' + uniqueId">
-			<div class="mapInfoBox">
-                <span class="" data-bind="text: DistanceFromSearch + 'les away'"></span>
-				<h2 class="chunkFive" data-bind="text: StoreName + ' #' + StoreNumber"></h2>
-				<p class="storeResult">
-					<span data-bind="text: Address1"></span><br />
-					<span data-bind="text: City"></span>, <span data-bind="text: State"></span> <span data-bind="text: Zip"></span><br />
-					<span data-bind="text: Phone"></span><br />
-					<a class="directionsLink" href="javascript:void(0);" target="_blank" data-bind="attr: { href: $parent.getDirectDirections($data) }">Get Directions</a>
-				</p>
-				<h3 class="chunkFive">Features</h3>
-				<ul style="margin-top: 0;" data-bind="foreach: Features" class="tmplFeatList">
-					<li><span data-bind="text: $data"></span></li>
-				</ul>
-			</div>
-		</div>
-	</div>
-</script>
-						
-					</div>
-					<div id="topNavHolder">
-						
-
-<a id="homeLinkHouse" href="/"></a>
-<ul class="firstNode"><li class="homecarousels_li"><a class="homecarousels_a" href="/homecarousels/">HomeCarousels</a><ul class="homecarousels_children_ul"></ul></li><li class="Food_li"><a class="Food_a" href="/Food/">Food</a><ul class="Food_children_ul"><li class="Sandwiches_li"><a class="Sandwiches_a" href="/Food/Sandwiches/">Sandwiches</a></li><li class="Salads_li"><a class="Salads_a" href="/Food/Salads/">Salads</a></li><li class="Pizza_li"><a class="Pizza_a" href="/Food/Pizza/">Pizza</a></li><li class="Big-Bite_li"><a class="Big-Bite_a" href="/Food/Big-Bite/">Big Bite</a></li><li class="Taquitos_li"><a class="Taquitos_a" href="/Food/Taquitos/">Taquitos</a></li><li class="Snacks-and-Sides_li"><a class="Snacks-and-Sides_a" href="/Food/Snacks-and-Sides/">Snacks &amp; Sides</a></li><li class="Bakery_li"><a class="Bakery_a" href="/Food/Bakery/">Bakery</a></li><li class="Ice-Cream_li"><a class="Ice-Cream_a" href="/Food/Ice-Cream/">Ice Cream</a></li></ul></li><li class="Drinks_li"><a class="Drinks_a" href="/Drinks/">Drinks</a><ul class="Drinks_children_ul"><li class="Hot-Coffee_li"><a class="Hot-Coffee_a" href="/Drinks/Hot-Coffee/">Coffee</a></li><li class="Chillers-Iced-Coffee_li"><a class="Chillers-Iced-Coffee_a" href="/Drinks/Chillers-Iced-Coffee/">Chillers Iced Coffee</a></li><li class="Slurpee_li"><a class="Slurpee_a" href="/Drinks/Slurpee/">Slurpee</a></li><li class="Big-Gulp_li"><a class="Big-Gulp_a" href="/Drinks/Big-Gulp/">Big Gulp</a></li><li class="Bottles-and-Cans_li"><a class="Bottles-and-Cans_a" href="/Drinks/Bottles-and-Cans/">Bottles &amp; Cans</a></li></ul></li><li class="Cash-And-Cards_li"><a class="Cash-And-Cards_a" href="/Cash-And-Cards/">Cash &amp; Cards</a><ul class="Cash-And-Cards_children_ul"></ul></li><li class="Necessities_li"><a class="Necessities_a" href="/Necessities/">Necessities</a><ul class="Necessities_children_ul"><li class="Wireless-Accessories_li"><a class="Wireless-Accessories_a" href="/Necessities/Wireless-Accessories/">Wireless Accessories</a></li><li class="Personal-Care_li"><a class="Personal-Care_a" href="/Necessities/Personal-Care/">Personal Care</a></li></ul></li><li class="Deals-and-Promos_li"><a class="Deals-and-Promos_a" href="/Deals-and-Promos/">Deals</a><ul class="Deals-and-Promos_children_ul"></ul></li><li class="7rewards_li"><a class="7rewards_a" href="/7rewards/" target="_blank"><img src="/Content/Images/29.7E_Rewards_Logo-01.png" alt="7Rewards" style="height: 15px; margin-top: 1px;"></a></li><li class="slurpee_li"><a class="slurpee_a" href="http://www.slurpee.com" target="_blank"><img src="/Content/Images/29.RedSlurpee-01.png" alt="Slurpee" style="height: 18px;"></a></li></ul>
-
-					</div>
-				</div>
-				<div id="siteContentInnerGradientWrapper">
-					<div id="searchBarHolder">
-    <form id="siteSearchForm" method="post" action="/search">
-        <div id="searchBarHolderbox">
-            <input type="text" value="What are you looking for?" data-tooltip="What are you looking for?" id="searchTerm" name="searchTerm" class="data-tooltip ui-autocomplete-input" autocomplete="off"><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
-            <input type="submit" id="siteSearchButton" value="">
-        </div>
-    </form>
-    
+<div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+<div id="page" class="se-page-inner se-hdr-img se-hdr-title">
+<div id="androidAppBanner">
+<div>
+<p>7-Eleven, Inc.<br>Get The App!</p>
+<a class="close" href="#" title="Close Banner"><span aria-hidden="true">×</span><span class="hide">Close</span></a>
+<a class="install" href="market://details?id=com.sei.android" title="Install the 7-Eleven App"><img alt="Install the 7-Eleven App" src="/themes/seveneleven/assets/img/app-install-btn.png"></a>
 </div>
-					<div id="shopSlurpee">
-						<a href="https://slurpee.com/shop" target="_blank">
-							<img src="/content/images/btn_shopSlurpee.png" alt="Shop Now">
-						</a>
-					</div>
-
-					
-
-
-
-
-<div class="privacy-copy">
-    <p><strong>7-Eleven.com (www.7-Eleven.com/privacy) and Slurpee.com (www.slurpee.com.com/privacy) </strong></p>
-    <p><strong>Privacy Policy for Websites and Mobile Applications</strong></p>
-    <p>7-Eleven, Inc., (“7-Eleven” or “we”) the operator of the 7-Eleven.com and Slurpee.com web sites (the “Site” or “Sites”) and certain mobile application(s) (“Apps”) is committed to preserving the privacy of those who visit the Sites or who use the Apps. This document will outline how we gather and utilize various sources of information obtained during your visit to the Sites and use the Apps. This Privacy Statement applies solely to information collected at the Sites and via the Apps. This Privacy Statement does not apply to any other data gathered or used by 7-Eleven including through web sites not listed above. </p>
-    <p><strong>Personal and Non-Personal Information:</strong></p>
-    <p>When using the Sites and Apps, in order to utilize some of the services, you may be asked to provide, or you may choose to submit, certain personally identifiable information about yourself ("Personal Information"). Personal Information can include your name, birth date, gender, email address, physical address and telephone number or other information you may provide. We may also leverage social network information (e.g. photos) when we have permission to do so. For example, we may collect information when you connect with 7-Eleven via a social media service, such as Slurpee's or 7-Eleven’s Facebook pages.</p>
-    <p>Personal Information does not include transactional data related to purchases at 7-Eleven Stores, unless we combine such transaction data with your Personal Information, which we may do.   In addition, we may also collect non-personally identifiable information, such as IP host address, pages viewed, browser type, duration and frequency of visits, and other data, and may aggregate any information collected in a manner which does not identify any individual ("Aggregate Information"). Information obtained in connection with the Sites and/or Apps may be intermingled with and used by us in conjunction with information obtained through sources other than the Sites and/or Apps, including both offline and online sources.  By using the Sites or the Apps you consent to the collection and use of this type of information.</p>
-    <p><strong><u>Information Collection</u>: We and our service providers may collect Personal Information in a variety of ways, including:</strong></p>
-    <ul>
-    <p><strong>Through the Services</strong>:  We may collect Personal Information through the Sites and Apps, e.g., when you register, sign up for a newsletter, or participate in a promotion.</p>
-    <p><strong>Mobile Applications:</strong><br>In addition to the information above, the following applies to our mobile applications</p>
-        <li>Our Apps collect certain information as part of their normal operations, such as the type of mobile device you use, the temporary or persistent unique device identifiers (sometimes called UDID), and information about the way you use the applications. The Apps may also collect certain information you voluntarily provide, such as product information when you scan a bar code, and transactional information, such as when you make a purchase or respond to an offer.</li>
-        <li>Our Apps also collect precise information about the location of your device, such as when you search for a store. You must first provide permission through your device before the application obtains such location.</li>
-    </ul>
-
-    <p>We may disclose or otherwise make available personal information about you to third party service providers that assist us in the design, development and/or operation of our Apps. We may also work with analytic companies to help us understand how our Apps are being used, such as the frequency and duration of usage. These providers may collect device-specific information, such as a unique device identifier, when you use our Sites or one of the Apps. The device identifier is used to improve services within our Apps such as barcode scanners. Our service providers may not use or disclose personal information for any purpose other than for providing the services on our behalf.</p>
-    <p>You may at any time opt-out of the collection and of your precise location information:</p>
-    <ul>
-        <li>You can stop all collection of information by our Apps easily by uninstalling the Apps. You may use the standard uninstall processes available as part of your mobile device or via the mobile application marketplace or network.</li>
-        <li>You may at any time opt-out from further allowing us to have access to your location data by adjusting the permissions in your mobile device.</li>
-        <li>Even after you opt out, service providers may collect device-specific information (such as a unique device identifier) when you use our Site. However, the Apps will not collect such information.</li>
-    </ul>
-<p><strong>From Other Sources:</strong>  We may receive your Personal Information from other sources, such as public databases; joint marketing partners; social media platforms; people with whom you are friends or otherwise connected on social media platforms; and other third parties.  For example, if you connect your social media account to your Website account, certain Personal Information from your social media account will be shared with us, which may include Personal Information that is part of your profile or your friends’ profiles.  In addition, we may supplement the Personal Information that you provide us and/or the Other Information we collect from you with demographic, social, and other information about you that we receive from other sources.   Once we combine data from other sources with your Personal Information collected pursuant to this policy, we apply this policy to the combined data as long as it is combined. However, this Privacy Policy does not apply to the original source or uncombined data</p>
-    <p><strong>Information Usage and Disclosure:</strong></p>
-    <p>As permitted by applicable law may use the Personal Information we collect to contact you about our products and services or those of our partners or other third parties from time to time. We do not sell your Personal Information to third parties or mass marketers. For example, we will not sell to another company your name or email address. Unless you consent to the disclosure of your Personal Information, only we and our affiliates, our technical consultants, third party auditors and other third parties who make our Sites and/or Apps available, enhance their functionality, or provide associated services and/or who deal with you in delivering content, samples, products, gifts and prizes, have access to this information, and we do not agree to uses of your Personal Information which are inconsistent with this policy</p>
-    <p>Please note that 7-Eleven reserves the right to and may disclose Personal Information about you in response to (a) requests from local, state or federal law enforcement officials; (b) any judicial, administrative or similar proceeding or order, such as a subpoena; (c) if required by law; or (d) to investigate suspected fraud, harassment, physical threats, or other violations of any law, rule or regulation, the Site’s or Apps’ rules or policies, or the rights of third parties or to investigate any suspected conduct which we deem improper. Please also note that we do reserve the right to transfer your Personal Information and other information to our successors in business and purchasers of the corresponding Site and/or App assets.  If you are from Canada please review the section in this Policy that explains how your Personal Information may be transferred outside of Canada.</p>
-    <p><strong>Cookies:</strong></p>
-    <p>Our Sites may pass a "cookie" (a string of information that is sent by a web site to be resident on your system's hard drive, and/or temporarily in your computer's memory blocks). The purpose of a cookie is to tell the web server that you have returned to a particular page, to retain login information or to otherwise remember preferences and enhance your experience on the Sites. We may allow third parties to set cookies through the Sites in order to help us manage and analyze the performance of the Sites. You may set your browser to decline cookies. If you do so, however, you may not be able to fully experience some interactive features of the Sites.</p>
-    <p><strong>Clickstream:</strong></p>
-    <p>As you use the Internet, a trail of electronic information is left at each web site you visit. This information, which is sometimes referred to as "clickstream data," can be collected and stored by a web site's server. Clickstream data can tell us the type of computer and browsing software you use and the address of the web site from which you linked to the Sites. We may collect and use clickstream data as a form of Aggregate Information to anonymously determine how much time visitors spend on each page of our Sites, how visitors navigate throughout the Sites and how we may tailor our web pages to better meet the needs of visitors. This information will be used to improve our Sites and our services. Any collection or use of clickstream data will be anonymous and aggregate, and will not intentionally contain any Personal Information</p>
-    <p><strong>Interest Based Advertising:</strong></p>
-    <p>We may participate in Interest-based and behavioral advertising. This means that you may see advertising on our website tailored to how you engage, browse or shop, or you may see advertising for 7-Eleven on other websites, applications and social media based on your behavior across websites, applications and social media.  We may target ads based on data we have collected, or data provided by third parties alone or in combination with the data we collect ourselves.  By using the Sites or the Apps you agree to usage tracking and targeted, behavioral advertising.  If you do not wish to have cookies track your usage for these purposes please see the section in this Privacy Policy on disabling cookies or do not use the Sites and the Apps.</p>
-    <p><strong>Social Networking and Public Forums:</strong></p>
-    <p>You should be aware that Personal Information which you voluntarily include and transmit online may be viewed  collected and used by us and by others, and could be used to personalize your experience. Users of the Sites and Apps are solely responsible for the content of messages they post online including on public forums. These forums include but are not limited to social networking services, chat rooms, bulletin boards, blogs or other publicly accessible forums which may be viewed and used by anyone with access to such forums. Users should be aware that when they voluntarily disclose Personal Information within a public forum that user information may be collected and used by others. The Sites and Apps are unable to control such uses of your Personal Information, and by using such services you assume the risk that the Personal Information provided by you may be viewed, collected and used by third parties.</p>
-    <p>The Sites allow users the option to log-on or submit information through Facebook, Twitter, and MySpace and other third party social networking websites via a third party website called Gigya. If you provide your social networking username and password through the Gigya portal, depending on your privacy settings, Gigya pulls your information from that social networking website and makes such information available on the applicable Site.  The Gigya website database holds a unique reference ID generated by Gigya for each user that logs in and coordinates information to show the last city the user visited on the site. If you choose to log on to the Sites through Gigya or such third party social networking websites, your Personal Information is subject to the applicable social networking website and your current privacy setting on such social networking website. This information (including without limitation, your name, photographs, geographic location and any status update or text that you provide) may be displayed on the applicable Site as part of the Site’s experience while you are logged on. The Sites have no control over the content or privacy policies of the Gigya website or third party social networking sites. If you choose to log on to a website through Gigya or a third party social networking website, 7-Eleven is not responsible or liable for the privacy practices or content of Gigya or such websites.</p>
-
-    <p><strong>COPPA:</strong></p>
-    <p>Our Sites and Apps, as well as those of our affiliates and third parties, are intended for general audiences. We implement appropriate screening measures to ensure that the content on our Sites and Apps is directed to a general audience.</p>
-       <p><strong><u>Use of the Services</u>:</strong></p>
-    <p><strong>Links to Third Party Sites:</strong></p>
-    <p>Our Sites and Apps may contain links to other web sites, including our affiliated or co-branded web sites. Other web sites may also reference or link to our Sites or Apps. These other web sites are not controlled by 7-Eleven. We encourage our users to be aware when they leave our Sites or Apps to read the privacy policies of each and every web site that collects personally identifiable information. We do not endorse, screen or approve, and are not responsible for the privacy practices or content of such other web sites or mobile applications. Visiting these other web sites is at your own risk. Please note that if you use the "Share" function available from the Sites or any App, that will lead you to a separate web site or service governed by another party’s privacy policy and terms.</p>
-    <p><strong>Security:</strong></p>
-    <p>7-Eleven will not be liable for disclosures of your Personal Information due to errors in transmission or unauthorized acts of third parties. We have undertaken commercially reasonable efforts to prevent unauthorized Internet access to visitor data retained in our servers, however, due to the inherent open nature of the Internet, 7-Eleven cannot ensure or warrant the security of any information you transmit to us or any information provided online, and you do so at your own risk. Users must accept all risks associated with any data transmission, including the risk that their Personal Information may be intercepted in transit.</p>
-
-    <p><strong>Policy Modifications/Opt-Out:</strong></p>
-    <p>We reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time. However, if at any time in the future we plan to use Personal Information in a way that materially differs from this policy, we will post such changes here. Your continued use of the Service following the posting of any changes to this policy means you accept such changes. Please check this page periodically for changes to this Privacy Policy.</p>
-    
-    <p><strong>Communications with 7-Eleven: </strong></p>
-    <p>We want to communicate with you in ways you want to hear from us. Examples include email text messages, newsletters, special offers, and new product announcements. We use the following standards for marketing communications: </p>
-    <ul>
-        <li>We will not contact you via phone or text message without your express consent (obtained as indicated below) (opt-in).</li>
-        <li>We will not disclose your personal information to third parties for marketing purposes without your consent (opt-in).</li>
-        <li>o	As permitted by applicable law we use an opt-out standard for all other communications (meaning we will conduct the activity unless you tell us not to).  If the law requires your express consent for us to send all other communication to you, we will not send such communication unless we have that express consent.</li>
-        </ul>
-
-    <p>You can update or change your preferences for marketing materials at any time by opting out as described below.</p>
-    <p>Any communication or material you transmit to us by email or otherwise, including any data, questions, comments, suggestions, or the like is, and will be treated as, non-confidential and non-proprietary. Except to the extent expressly covered by this policy, anything you transmit or post may be used by us for any purpose, including but not limited to, reproduction, disclosure, transmission, publication, broadcast and posting. Furthermore, you expressly agree that we are free to use any ideas, concepts, know-how, or techniques contained in any communication you send to us without compensation and for any purpose whatsoever, including but not limited to, developing, manufacturing and marketing products and services using such information.</p>
-
-	<p><strong><u>Obtaining Your Consent for Communications:</u></strong></p>
-	<ul>
-		<li>Your consent to receive communications can be obtained via email, text message, from the Sites, telephone key press or voice recording. </li>
-		<li>Your consent is not required as a condition for purchasing goods or services.</li>
-		<li>By giving your consent you are confirming that you are over the age of 13.</li>
-		<li>By giving your consent please be aware that you are allowing 7-Eleven to contact you via telephone calls or text messages using automated technology to the telephone number associated with the device from which you provide such consent. </li>
-	</ul>
-<p><strong><u>Opt Out:</u></strong></p>
-<p>To the extent that you are receiving marketing communications from the Sites and/or Apps you have the option to unsubscribe or opt-out of future communications.  You may unsubscribe or opt-out of future messages as follows</p>
-<ul>
-<li>If you no longer wish to receive texts you may text the word “STOP</li>
-<li>If you no longer wish to receive emails you may click on the hyperlink titled “Unsubscribe” at the bottom of any marketing related email sent to you by 7-Eleven, and then follow the directions to unsubscribe from email.</li>
-<li>If you no longer wish to receive marketing communications on the App, uninstall the App.</li>
-</ul>
-<p>Additionally, requests to opt out of any marketing use your Personal Information can be sent to us at webmaster@7-11.com or support@slurpeenation.com, as appropriate,  and we will process your request within any time period required by law. We are not responsible for removing your Personal Information from the lists of any third party who has previously been provided your information in accordance with this policy.</p>
-    <p><strong><u>Contact Us:</u></strong></p>
-    <p>If you have any questions, comments or concerns about our Privacy Policy, you may contact us at the following address:</p>
-    
-    <div class="addressHolder">
-        <p>
-            <strong>7-Eleven.com</strong><br>
-            7-Eleven, Inc.<br>
-            Attn: Webmaster<br>
-            3200 Hackberry Road<br>
-            Irving, TX 75063<br>
-            <a href="mailto:webmaster@7-11.com">webmaster@7-11.com</a>
-        </p>
-    </div>
-    
-    <div class="addressHolder">
-        <p>
-            <strong>Slurpee.com</strong><br>
-            7-Eleven, Inc.<br>
-            Attn: Slurpee.com<br>
-            3200 Hackberry Road<br>
-            Irving, TX 75063<br>
-            <a href="mailto:support@slurpeenation.com">support@slurpeenation.com</a>
-        </p>   
-    </div>
-    <div class="clearfix"></div>    
-    <p><strong>Your California Privacy Rights: </strong></p>
-    <p>This Privacy Policy describes how we share information collected via our Sites or Apps for marketing purposes. The Policy and rights apply to all customers, including California residents:</p>
-    <ul>
-        <li>We share information with others outside of 7-Eleven for marketing purposes only if we have your consent as provided herein (opt-in). See Information Usage and 7-Eleven Communications.  </li>
-        <li>We may also share information with other businesses within our corporate family. See Information Usage.</li>
-    </ul>
-    <p>Please contact us with any questions, or to request a list of third parties to whom we may disclose information for marketing purposes and the categories of information we may disclose, via the Contact Us section above.</p>
-    <p><strong>United States of America:</strong></p>
-    <p>Our Sites and Apps are maintained in the United States of America. By using the Sites and/or the Apps, you authorize the export of Personal Information to the USA and its storage and use as specified in this policy.</p>
-    <p><strong>Canada:</strong></p>
-    <p>If you are a resident of Canada and you use the Sites and/or the Apps, your Personal Information  may be stored or accessed outside of Canada, including by our affiliated companies or by third party service providers.  This means that your Personal Information will be subject to the laws of the jurisdiction in which it is stored or accessed including the access rights of the government of that jurisdiction.  <strong>If you do not wish for your Personal Information to be stored or accessed outside of Canada you have the option of not using the Sites or the Apps.</strong>  If you have questions about storage of your personal information outside of Canada please contact us as set forth above in the Contact Us section. .</p>
-    <p><strong>Effective Date:</strong></p>
-    <p>This privacy policy is effective and was last updated on March 3rd, 2015.</p>
+</div> <header id="header">
+<div class="hdr-upper">
+<div class="hdr-inner">
+<a class="hdr-logo" href="/" title="7-Eleven Home">7-Eleven</a>
+<div class="hdr-msg-desktop"></div>
+<a class="hdr-search" href="#" title="Search">Search</a>
+<a class="hdr-location" href="#" title="Store Locator">Find Us</a>
+<button class="hdr-menu" aria-expanded="false" aria-label="Navigation Menu">
+<span></span>
+<span></span>
+<span></span>
+<span></span>
+</button>
+<nav class="hidden-xs">
+<ul class="userInfo-desktop"></ul>
+</nav>
 </div>
-
-					<div class="clearfix"></div>
-				</div>
-				<div class="clearfix"></div>
-			</div>
-		</div>
-		<div id="siteFooter">
-			
-
-<div class="footer-header"></div>
-<div class="footer-legal-links">
-    <div id="footer-fbtw">
-        <div class="footer-dialog"></div>
-        <span class="copy">Follow us:</span>
-        <a class="footer-link-001" href="http://www.facebook.com/7Eleven" onclick="gaTrack('Footer', 'Click', 'Facebook')" target="_blank"></a>
-        <a class="footer-link-002" href="http://twitter.com/7eleven" onclick="gaTrack('Footer', 'Click', 'Twitter')" target="_blank"></a>
-    </div>
-    <a href="/Home/Privacy">Privacy Policy</a>
-    |
-    <a href="/Home/Terms">Terms of Use</a>
-    |
-    <a href="/Home/FAQ">FAQ</a>
-    |
-    <a href="/Home/SupplyChains">Supply Chains Act</a>
 </div>
-<div class="footer-quick-links"></div>
-<div class="footer-content">
-    <div class="footer-company box">
-        <div class="footer-title">The Company</div>
-        <ul class="footer-left">
-            <li><a href="http://careers.7-eleven.com/careers/Careers.html" target="_blank">Careers</a></li>
-            <li><a href="http://corp.7-eleven.com/ContactUs/tabid/184/Default.aspx" target="_blank">Contact Us</a></li>
-            <li><a href="http://corp.7-eleven.com/corp/home" target="_blank">Corporate</a></li>
-            <li><a href="http://franchise.7-eleven.com" target="_blank">Franchising</a></li>
-        </ul>
-        <ul class="footer-right">
-            <li><a href="http://corp.7-eleven.com/AboutUs/InternationalLicensing/tabid/115/Default.aspx" target="_blank">International</a></li>
-            <li><a href="http://corp.7-eleven.com/NewsRoom/tabid/373/Default.aspx" target="_blank">Newsroom Us</a></li>
-            <li><a href="http://corp.7-eleven.com/RealEstate/tabid/180/Default.aspx" target="_blank">Store Development</a></li>
-            <li><a href="http://corp.7-eleven.com/ContactUs/DoingBusinesswith7Eleven/tabid/369/Default.aspx" target="_blank">Supplier/Vendor Application</a></li>
-        </ul>
-    </div>
-    <div class="footer-company box">
-        <div class="footer-title">On This Site</div>
-        <ul class="footer-left">
-            <li><a href="/Only-at-7-Eleven/">Only at 7-Eleven</a></li>
-            <li><a href="/Hungry/">Hungry</a></li>
-            <li><a href="/Thirsty/">Thirsty</a></li>
-        </ul>
-        <ul class="footer-right">
-            <li><a href="/Financial/">Cash and Cards</a></li>
-            <li><a href="/And-More/">And More</a></li>
-            <li><a href="/Cards/Gift-Cards/7-Eleven-Gift-Cards/">Gift Card Balance</a></li>
-        </ul>
-    </div>
-    <div class="footer-links">
-        <a href="http://franchise.7-eleven.com" target="_blank">Franchise</a>
-        |
-        <a href="http://careers.7-eleven.com/careers/Careers.html" target="_blank">Careers</a>
-        |
-        <a href="/locator">Find a Store</a>
-    </div>
-    <div class="footer-disclaimer">
-        This site is intended for residents of the U.S. and Canada, excluding Quebec. ©2013 7-Eleven, Inc. All rights reserved. Products and services available at participating locations.
-    </div>
+<div class="hdr-msg-mobile"></div>
+<div class="hdr-lower">
+<div class="hdr-inner">
+<div class="hdr-search-container">
+<div class="hdr-wrapper">
+<form class="hdr-search-form">
+<input type="text" name="hdr-search-term" placeholder="I'm looking for…">
+<input type="submit" value="Search">
+</form>
+<a class="hdr-search-close hidden-xs" href="/">Close</a>
+</div>
+</div>
+<div class="hdr-location-container">
+<div class="hdr-wrapper">
+<form class="hdr-locator-form">
+<input type="text" name="hdr-ftr-locator-term" placeholder="Street, City, State or ZIP">
+<input type="submit" value="Submit">
+</form>
+<span>or</span>
+<a href="/locator" class="btn-location">Use My Location</a>
+<a class="hdr-location-close hidden-xs" href="/">Close</a>
+</div>
+</div>
+<div class="hdr-menu-container">
+<nav class="hdr-wrapper">
+<ul data-id="main-nav"><li data-title="Hungry"><a href="" class="menu" data-drupal-link-system-path="<front>">Hungry</a><div class="submenu"><div class="submenu-inner centered"><a href="#" class="prev">Prev</a><section data-menu="Hungry"><div class="ultimenu__region region region-ultimenu-megamenu-hungry"><div class="views-element-container block block-views block-views-blockour-food-block-1" id="block-views-block-our-food-block-1"><div><div class="js-view-dom-id-71f6c2f43f3c87939231f83dd811a0506a926498c1138482966b78642515e3ea"><ul class="product-menu" id="Our-Food"><li><a href="/hot-foods" data-title="Hot Foods"><img class="visible-xs" src="/sites/default/files/2018-06/hot-foods-mobile%402x_0.png" alt="Hot Foods"><img class="hidden-xs" src="/sites/default/files/2018-06/hot-food%402x_0.png" alt="Hot Foods"><span>Hot Foods </span></a></li><li><a href="/healthy-choices" data-title="Healthy Choices"><img class="visible-xs" src="/sites/default/files/2018-06/healthy-mobile%402x_0.png" alt="Healthy Choices"><img class="hidden-xs" src="/sites/default/files/2018-06/healthy%402x_0.png" alt="Healthy Choices"><span>Healthy Choices </span></a></li><li><a href="/sandwiches" data-title="Sandwiches"><img class="visible-xs" src="/sites/default/files/2018-06/sandwiches-mobile%402x_0.png" alt="Sandwiches"><img class="hidden-xs" src="/sites/default/files/2018-06/sandwiches%402x_0.png" alt="Sandwiches"><span>Sandwiches </span></a></li><li><a href="/bakery" data-title="Bakery"><img class="visible-xs" src="/sites/default/files/2018-06/bakery-mobile%402x_0.png" alt="Bakery"><img class="hidden-xs" src="/sites/default/files/2018-06/bakery%402x_0.png" alt="Bakery"><span>Bakery </span></a></li><li><a href="/breakfast" data-title="Breakfast"><img class="visible-xs" src="/sites/default/files/2018-06/breakfast-mobile%402x_0.png" alt="Breakfast"><img class="hidden-xs" src="/sites/default/files/2018-06/breakfast%402x_0.png" alt="Breakfast"><span>Breakfast </span></a></li><li><a href="/pizza" data-title="Pizza"><img class="visible-xs" src="/sites/default/files/2018-06/pizza-mobile%402x_1.png" alt="Pizza"><img class="hidden-xs" src="/sites/default/files/2018-06/pizza%402x.png" alt="Pizza"><span>Pizza </span></a></li><li><a href="/snacks" data-title="Snacks"><img class="visible-xs" src="/sites/default/files/2018-06/7-select-snacks-mobile%402x_0.png" alt="Snacks"><img class="hidden-xs" src="/sites/default/files/2018-06/7-select-snacks%402x.png" alt="Snacks"><span>Snacks </span></a></li><li><a href="/locally-made-meals" data-title="Locally Made Meals"><img class="visible-xs" src="/sites/default/files/2018-06/locally-made-meals-mobile%402x_0.png" alt="Locally Made Meals"><img class="hidden-xs" src="/sites/default/files/2018-06/locally-made-meals%402x.png" alt="Locally Made Meals"><span>Locally Made Meals </span></a></li></ul></div></div></div></div></section><a href="#" class="next">Next</a></div></div></li><li data-title="Thirsty"><a href="" class="menu" data-drupal-link-system-path="<front>">Thirsty</a><div class="submenu"><div class="submenu-inner centered"><a href="#" class="prev">Prev</a><section data-menu="Thirsty"><div class="ultimenu__region region region-ultimenu-megamenu-thirsty"><div class="views-element-container block block-views block-views-blockour-drinks-block-1" id="block-views-block-our-drinks-block-1"><div><div class="js-view-dom-id-4de94097a57401538a4e9fc0bb2ae56231d696917d84069dcf178c258a01d8d7"><ul class="product-menu" id="Our-Drinks"><li><a href="/coffee" data-title="Coffee &amp; Cafe"><img class="visible-xs" src="/sites/default/files/2018-06/coffee-mobile%402x_0.png" alt="Coffee &amp; Cafe"><img class="hidden-xs" src="/sites/default/files/2018-06/coffee%402x_0.png" alt="Coffee &amp; Cafe"><span>Coffee &amp; Cafe </span></a></li><li><a href="/big-gulp" data-title="Big Gulp"><img class="visible-xs" src="/sites/default/files/2018-06/big-gulp-mobile%402x_0.png" alt="Big Gulp"><img class="hidden-xs" src="/sites/default/files/2018-06/big-gulp%402x_0.png" alt="Big Gulp"><span>Big Gulp </span></a></li><li><a href="/bottled-canned" data-title="Bottled &amp; Canned"><img class="visible-xs" src="/sites/default/files/2018-06/bottled-mobile%402x_0.png" alt="Bottled &amp; Canned"><img class="hidden-xs" src="/sites/default/files/2018-06/bottled%402x_0.png" alt="Bottled &amp; Canned"><span>Bottled &amp; Canned </span></a></li><li><a href="/beer-wine" data-title="Beer &amp; Wine"><img class="visible-xs" src="/sites/default/files/2018-06/beer-wine-mobile%402x_0.png" alt="Beer &amp; Wine"><img class="hidden-xs" src="/sites/default/files/2018-06/beer-wine%402x_0.png" alt="Beer &amp; Wine"><span>Beer &amp; Wine </span></a></li></ul></div></div></div></div></section><a href="#" class="next">Next</a></div></div></li><li data-title="Slurpee"><a href="/slurpee" data-drupal-link-system-path="taxonomy/term/121">Slurpee<sup>®</sup></a></li><li data-title="Shop Online"><a href="https://www.amazon.com/stores/node/9499326011?_encoding=UTF8&amp;field-lbr_brands_browse-bin=7-Eleven&amp;ref_=bl_dp_s_web_9499326011">Shop Online</a></li><li data-title="Financial Services"><a href="/financial-services" data-drupal-link-system-path="taxonomy/term/176">Financial Services</a></li></ul>
+<ul class="userInfo-mobile account visible-xs"></ul>
+</nav>
+</div>
+</div>
+</div>
+</header>
+<div role="main" id="se-scrollable" tabindex="-1">
+<div id="se-subheader">
+<h1>PRIVACY POLICY</h1>
+</div>
+<div id="se-content">
+<p>Privacy Policy for 7-Eleven, Inc.</p>
+<p>7-Eleven, Inc., (“7-Eleven,” “we,” “us,” or “our”) the operator of the 7-Eleven.com and Slurpee.com web sites (the “Site” or “Sites”) and certain mobile application(s) (“Apps”) is committed to preserving the privacy of those who visit the Sites or who use the Apps. This document will outline how we gather and utilize various sources of information obtained during: (i)&nbsp; your visit to the Sites and use of the Apps, (ii) your participation in the 7Rewards loyalty program described at www.7eleven.com/7rewards (the “Program”), and (iii) in-store visits via beacons or Wi-Fi. This Privacy Statement applies solely to information collected at the Sites and via the Apps and via in-store beacons or in-store Wi-Fi. This Privacy Statement does not apply to any other data gathered or used by 7-Eleven including data otherwise collected in stores or through web sites not listed above.</p>
+<p>Information Collection:</p>
+<p>Personal and Non-Personal Information:</p>
+<p>When using the Sites and Apps, in order to utilize some of the services, you may be asked to provide, or you may choose to submit, certain personally identifiable information about yourself ("Personal Information"). Personal Information can include your name, birth date, gender, email address, physical address and telephone number or other information you may provide. We may also leverage social network information (e.g. photos) when we have permission to do so. For example, we may collect information when you connect or interact with 7-Eleven via a social media service.</p>
+<p>Personal Information does not include transactional data related to purchases at 7-Eleven stores, unless we combine such transaction data with your Personal Information, which we may do. In addition, we may also collect non-personally identifiable information, such as IP host address, pages viewed, browser type, duration and frequency of visits, and other data, and may aggregate any information collected in a manner which does not identify any individual ("Aggregate Information"). Information obtained in connection with the Sites and/or Apps may be intermingled with and used by us in conjunction with information obtained through sources other than the Sites and/or Apps, including both offline and online sources. By using the Sites or the Apps you consent to the collection and use of this type of information.</p>
+<p>We and our service providers may collect Personal Information in a variety of ways, including:</p>
+<p>Through the Services: We may collect Personal Information through the Sites, Apps, and through the Program, e.g., when you register, sign up for a newsletter, or participate in a promotion.</p>
+<p>Apps:</p>
+<p>In addition to the information above, the following applies to our Apps:</p>
+<p>Our Apps collect certain information as part of their normal operations, such as the type of mobile device you use, the temporary or persistent unique device identifiers (sometimes called UDID), and information about the way you use the Apps. The Apps may also collect certain information you voluntarily provide, such as product information when you scan a bar code, and transactional information, such as when you make a purchase or respond to an offer.</p>
+<p>Our Apps also collect information about the precise location of your device, such as when you search for a store. You must first provide permission through your device before the App obtains such location. We may combine this information with other location-based information, such as your IP address and billing or postal code, for example, to give you information about stores near you and to provide you with other services on your mobile device. We may share your location information with companies that help us provide you with services and to help us understand how the services are being used. You may stop the collection of this information at any time by changing the settings on your mobile device, but note that some features of our Apps may no longer function if you do so.</p>
+<p>We may disclose or otherwise make available personal information about you to third party service providers that assist us in the design, development and/or operation of our Apps. We may also work with analytic companies to help us understand how our Apps are being used, such as the frequency and duration of usage. These providers may collect device-specific information, such as a unique device identifier, when you use our Sites or one of the Apps. The device identifier is used to improve services within our Apps such as barcode scanners. Our service providers may not use or disclose personal information for any purpose other than for providing the services on our behalf.</p>
+<p>You can stop all collection of information by our Apps easily by uninstalling the Apps. You may use the standard uninstall processes available as part of your mobile device or via the mobile application marketplace or network.</p>
+<p>Even after you opt out, service providers may collect device-specific information (such as a unique device identifier) when you use our Site. However, the Apps will not collect such information.</p>
+<p>Beacons. 7-Eleven may collect information about the location of your device when you visit a store.&nbsp; For example, we may collect in-store location information using Bluetooth signals to connect to our Beacons and help you while inside our store to find nearby products or receive real-time offers.&nbsp; We may use the data we collect to improve and make the 7-Eleven in-store experience more interactive, for internal operations, for marketing and promotions and advertising, and for fraud prevention and security.&nbsp; Beacons transmit a Bluetooth signal that can be received by Bluetooth-enabled devices, such as a mobile phone, when those devices are within proximity of a beacon.&nbsp; By acting similar to radar systems, Beacons only push out radio signal pulses to map nearby Bluetooth-enabled devices.&nbsp; Beacons do not collect or pull in personal data.&nbsp; Within the Apps, in-app permissions (such as permission to access location and accept Push Notifications) must be enabled for a Beacon to interact with your specific Bluetooth-enabled device.&nbsp; Interactions with and notifications delivered to your device may include customer service information, in-store directions, offers and advertisements from 7-Eleven as well as other non-7-Eleven applications and advertisers.&nbsp; With or without the Apps, Beacon preferences are managed through your device settings.&nbsp; You may stop the collection of this information at any time by disabling Bluetooth communication on your mobile device, but note that the Apps may no longer function properly if you do so.</p>
+<p>In-Store Wi-Fi. Some 7-Eleven locations offer Wi-Fi services to visitors. Wi-Fi routers capture certain data from devices that interact with the router. Some examples of data automatically collected through our Wi-Fi service may include: (a) information about your device, including a MAC Address, and telemetry data (such as signal strength and quality) related to your use of our Wi-Fi service; or (b) vendors that analyze Wi-Fi data automatically collected to provide operational insights such as foot traffic volumes, dwell times, and how costumers move through our stores. Unless we receive consent to use Wi-Fi data in a manner that identifies you or your device(s), Wi-Fi data is anonymously collected or de-identified.</p>
+<p>From Other Sources:</p>
+<p>We may receive your Personal Information from other sources, such as public databases; joint marketing partners; social media platforms; people with whom you are friends or otherwise connected on social media platforms; and other third parties. For example, if you connect your social media account to your 7-Eleven account, or create or log into your 7-Eleven account through a social media site, certain information from your social media account will be shared with us, which may include Personal Information that is part of your profile or your friends’ profiles. In addition, we may supplement the Personal Information that you provide us and/or the Other Information we collect from you with demographic, social, and other information about you that we receive from other sources. Once we combine data from other sources with your Personal Information collected pursuant to this policy, we apply this policy to the combined data as long as it is combined. However, this Privacy Policy does not apply to the original source or uncombined data. 7-Eleven has no control over the content or privacy policies of the third party social networking sites. If you choose to create an account or log into your account through a third party social networking website, 7-Eleven is not responsible or liable for the privacy practices or content of such websites.</p>
+<p>Information Collected by Cookies and Other Tracking Technology:</p>
+<p>We and our third party partners and service providers may use various tracking technologies, including cookies and web beacons, to collect information about you when you interact with our Sites and Apps, including information about your browsing and purchasing behavior. Cookies are small data files stored on your hard drive or in device memory, either for only the duration of your visit (“session cookies”) or for a fixed period of time (“persistent cookies”). Cookies help us improve the Sites’ and Apps’ functionality and performance, improve your user experience and convenience, see which areas and features of the Sites and Apps are popular, count visits, and tailor your experience. Web beacons are electronic images that may be used in the Sites, Apps or emails and help deliver cookies, count visits, and test and understand usage and campaign effectiveness. We may also allow third parties to set cookies through the Sites and Apps in order to help us manage and analyze the performance of the Sites and Apps, to display ads and offer promotions that we think are most relevant to you, to help us learn about our audience and how people use the Sites, the Apps and the Program, and to link your activity on the Sites, the Apps or the Program to your social network accounts. The information collected may include the type of device, your operating system, your browser, your internet service provider, your domain name, your internet protocol (IP) address, the date and time that you accessed our Sites and Apps or participated in the Program, the website that referred you to our Sites, the web pages you requested, the date and time of those requests, and the subject of the ads you click or scroll over. Most web browsers automatically accept cookies, but you may set your browser to decline cookies. If you do so, however, you may not be able to fully experience some features of the Sites, the Apps and the Program.</p>
+<p>Clickstream:</p>
+<p>As you use the Internet, a trail of electronic information is left at each web site you visit. This information, which is sometimes referred to as "clickstream data," can be collected and stored by a web site's server. Clickstream data can tell us the type of computer and browsing software you use and the address of the web site from which you linked to the Sites. We may collect and use clickstream data to determine how much time visitors spend on each page of our Sites, how visitors navigate throughout the Sites and how we may tailor our web pages to better meet the needs of visitors. This information will be used to improve our Sites and our services.</p>
+<p>Information Usage:</p>
+<p>7-Eleven may use information about you for various purposes, including to (a) provide, maintain, and improve the Sites, the Apps or the Program; (b) send you technical notices, updates, security alerts, and support and administrative messages; (c) respond to your comments, questions, and requests, and to provide customer service; (d) communicate with you about products, services, offers, promotions, rewards, and events offered by 7-Eleven and others, and provide news and information we think will be of interest to you; (e) monitor and analyze trends, usage and activities in connection with our Sites, Apps and the Program; (f) detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of 7-Eleven and others; (g) facilitate contests, sweepstakes and promotions and process and deliver entries and rewards; (h) link or combine with information we get from our Sites, the Apps and the Program, and from others to help understand your needs and provide you with better service; (i) maintain appropriate records for internal administrative purposes; and (j) carry out any other purpose described to you at the time the information was collected or permitted by law.</p>
+<p>Information Disclosure:</p>
+<p>We may share information about you, including Personal Information, as follows, or as otherwise described in this Privacy Statement: (a) with vendors, consultants and other service providers who need access to such information to carry out work or perform services on our behalf; (b) in response to requests from local, state, provincial or federal law enforcement officials, any judicial, administrative or similar proceeding or order, such as a subpoena if we believe disclosure is in accordance with, or required by any applicable law; (c) with vendors, sponsors, and fulfillment partners that help us administer our loyalty program, contests, sweepstakes and other promotional events in which you participate; (d) if we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of 7-Eleven and others; (e) to investigate suspected fraud, harassment, physical threats, or other violations of any law, rule or regulation, the Sites’ or Apps’ or Program’s rules or policies, or the rights of third parties or to investigate any suspected conduct which we deem improper; (f) in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company; (g) between and among 7-Eleven and our current and future parents, affiliates, subsidiaries, and other companies under common control and ownership; (h) with your consent or at your direction; and (hi) as otherwise permitted or required by law. We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.</p>
+<p>Analytics Services Provided by Others:</p>
+<p>We may also work with analytic companies to help us understand how our Sites, Apps or Program are being used, such as the frequency and duration of usage. These providers may use cookies, web beacons and other technologies to collect device-specific information, such as a unique device identifier, when you use our Sites, Apps or Program. The device identifier is used to improve services within our Apps such as barcode scanners.</p>
+<p>Interest Based Advertising:</p>
+<p>We may participate in Interest-based and behavioral advertising. This means that you may see advertising on our website tailored to how you engage, browse or shop, or you may see advertising for 7-Eleven on other websites, applications and social media based on your behavior across websites, applications and social media. We may target ads based on data we have collected, or data provided by third parties alone or in combination with the data we collect ourselves. By using the Sites or the Apps you agree to usage tracking and targeted, behavioral advertising. If you do not wish to have cookies track your usage for these purposes please see the section in this Privacy Policy on disabling cookies or do not use the Sites and the Apps.</p>
+<p>Social Networking and Public Forums:</p>
+<p>You should be aware that Personal Information which you voluntarily include and transmit online may be viewed collected and used by us and by others, and could be used to personalize your experience. Users of the Sites and Apps are solely responsible for the content of messages they post online including on public forums. These forums include but are not limited to social networking services, chat rooms, bulletin boards, blogs or other publicly accessible forums which may be viewed and used by anyone with access to such forums. Users should be aware that when they voluntarily disclose Personal Information within a public forum that user information may be collected and used by others. The Sites and Apps are unable to control such uses of your Personal Information, and by using such services you assume the risk that the Personal Information provided by you may be viewed, collected and used by third parties.</p>
+<p>COPPA:</p>
+<p>Our Sites and Apps are intended for general audiences. Links to Third Party Sites:</p>
+<p>Our Sites and Apps may contain links to other web sites, including our affiliated or co-branded web sites. Other web sites may also reference or link to our Sites or Apps. These other web sites are not controlled by 7-Eleven. We encourage our users to be aware when they leave our Sites or Apps to read the privacy policies of each and every web site that collects personally identifiable information. We do not endorse, screen or approve, and are not responsible for the privacy practices or content of such other web sites or mobile applications. Visiting these other web sites is at your own risk. Please note that if you use the "Share" function available from the Sites or any App, that will lead you to a separate web site or service governed by another party’s privacy policy and terms.</p>
+<p>Security:</p>
+<p>7-Eleven will not be liable for disclosures of your Personal Information due to errors in transmission or unauthorized acts of third parties. We have undertaken commercially reasonable efforts to prevent unauthorized Internet access to visitor data retained in our servers, however, due to the inherent open nature of the Internet, 7-Eleven cannot ensure or warrant the security of any information you transmit to us or any information provided online, and you do so at your own risk. Users must accept all risks associated with any data transmission, including the risk that their Personal Information may be intercepted in transit.</p>
+<p>Modifications:</p>
+<p>We reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time. However, if at any time in the future we plan to use Personal Information in a way that materially differs from this policy, we will post such changes here, and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you a notification). Your continued use of the Service following the posting of any changes to this policy means you accept such changes. Please check this page periodically for changes to this Privacy Policy.</p>
+<p>Communications with 7-Eleven:</p>
+<p>We want to communicate with you in ways you want to hear from us. Examples include email, text messages, and newsletters, which may contain special offers and new product announcements.</p>
+<p>You can update or change your communication preferences at any time by opting out as described below.</p>
+<p>Any communication or material you transmit to us by email or otherwise, including any data, questions, comments, suggestions, or the like is, and will be treated as, non-confidential and non-proprietary. Except to the extent expressly covered by this policy, anything you transmit or post may be used by us for any purpose, including but not limited to, reproduction, disclosure, transmission, publication, broadcast and posting. Furthermore, you expressly agree that we are free to use any ideas, concepts, know-how, or techniques contained in any communication you send to us without compensation and for any purpose whatsoever, including but not limited to, developing, manufacturing and marketing products and services using such information.</p>
+<p>Obtaining Your Consent for Communications:</p>
+<p>Your consent to receive communications can be obtained via email, text message, from the Sites, the Apps, telephone key press or voice recording.</p>
+<p>Your consent is not required as a condition for purchasing goods or services.</p>
+<p>By giving your consent please be aware that you are allowing 7-Eleven to contact you via telephone calls or text messages using automated technology to the telephone number associated with the device from which you provide such consent.</p>
+<p>Opt Out:</p>
+<p>To the extent that you are receiving marketing communications from the Sites and/or Apps you have the option to unsubscribe or opt-out of future communications. You may unsubscribe or opt-out of future messages as follows.</p>
+<p>If you no longer wish to receive texts you may text the word “STOP” to the telephone number 711247 from the mobile device you wish to no longer receive texts.</p>
+<p>If you no longer wish to receive emails you may click on the hyperlink titled “Unsubscribe” at the bottom of any marketing related email sent to you by 7-Eleven, and then follow the directions to unsubscribe from email, or you can modify your preferences in your account settings located in the Apps.</p>
+<p>Where our Apps allow for the delivery of “push notifications” you can opt out of receiving these notifications by toggling the “Notifications” switches within our Apps to “off,” or by changing the notification settings on your device. By downloading and using our Apps, you may also receive promotional messages, offers, news and information about 7-Eleven or our business partners within the Apps themselves. These “in app” messages are part of our Apps’ functionality and cannot be turned off. If you do not want to receive “in app” messages, offers, news and information, do not download or use our Apps. Please note that if you opt out of receiving promotional communications from us, we may still send you transactional communications, including emails about your account or purchases.</p>
+<p>Contact Us:</p>
+<p>If you have any questions, comments or concerns about our Privacy Policy, you may contact us at the following address:</p>
+<p>7-Eleven.com<br>
+7-Eleven, Inc.<br>
+Attn: Webmaster<br>
+3200 Hackberry Road<br>
+Irving, TX 75063<br>
+<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="cbbcaea9a6aab8bfaeb98bfce6fafae5a8a4a6">[email&nbsp;protected]</a></p>
+<p>Your California Privacy Rights:</p>
+<p>California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. If you are a California resident, you may request this information once per calendar year by contacting us at <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="cbbbb9a2bdaaa8b28bfce6fafae5a8a4a6e5">[email&nbsp;protected]</a></p>
+<p>United States of America:</p>
+<p>Our Sites and Apps are maintained in the United States of America. By using the Sites and/or the Apps, you authorize the export of Personal Information to the USA and its storage and use as specified in this policy.</p>
+<p>Canada:</p>
+<p>If you are a resident of Canada and you use the Sites and/or the Apps, your Personal Information may be stored or accessed outside of Canada, including by our affiliated companies or by third party service providers. This means that your Personal Information will be subject to the laws of the jurisdiction in which it is stored or accessed including the access rights of the government of that jurisdiction. If you do not wish for your Personal Information to be stored or accessed outside of Canada you have the option of not using the Sites or the Apps. If you have questions about storage of your personal information outside of Canada please contact us as set forth above in the Contact Us section.</p>
+<p>Effective Date:</p>
+<p>This privacy policy is effective and was last updated on 07-06-18.</p>
+</div>
+<footer id="footer">
+<div class="inner">
+<div class="block-1">
+<div class="region region-footer-block-1">
+<div id="block-footergettoknowus" class="block block-block-content block-block-content5c3ac0c3-a663-43f4-be21-830dda1b586b">
+<div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><h2>Get To Know Us</h2>
+<ul class="menu"><li class="menu-item"><a href="http://corp.7-eleven.com/corp/about" target="_blank">About 7-Eleven</a></li>
+<li class="menu-item"><a href="http://careers.7-eleven.com/careers/Careers.html" target="_blank">Careers</a></li>
+<li class="menu-item"><a href="http://corp.7-eleven.com/corp/newsroom" target="_blank">Newsroom</a></li>
+<li class="menu-item"><a href="https://www.7-elevenrenew.com/" target="_blank">7-Eleven Renew</a></li>
+<li class="menu-item"><a href="/locations">All Locations</a></li>
+</ul></div>
+</div>
+</div>
+</div>
+<div class="block-2">
+<div class="region region-footer-block-2">
+<div id="block-footerfranchiseinfo" class="block block-block-content block-block-contentec8169d9-f633-42df-b95c-3e949d0b5c88">
+<div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><h2>Franchise Info</h2>
+<ul class="menu"><li class="menu-item"><a href="http://franchise.7-eleven.com/franchise/franchising-101" target="_blank">Franchising 101</a></li>
+<li class="menu-item"><a href="http://franchise.7-eleven.com/franchise/new-franchisee" target="_blank">Franchise Process</a></li>
+<li class="menu-item"><a href="http://franchise.7-eleven.com/franchise/veterans-franchise-program" target="_blank">Franchising for Veterans</a></li>
+</ul></div>
+</div>
+</div>
+</div>
+<div class="block-3">
+<div class="region region-footer-block-3">
+<div id="block-footerhowcanwehelp" class="block block-block-content block-block-content3074af97-2870-4474-b273-a8f21b283d50">
+<div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><h2>How can we help?</h2>
+<ul class="menu"><li class="menu-item"><a class="feedback" href="http://survey.medallia.com/?711-gr" target="_blank">Leave Feedback</a></li>
+<li class="menu-item"><a href="http://corp.7-eleven.com/corp/contact-us" target="_blank">Contact us</a></li>
+</ul></div>
+</div>
+</div>
+</div>
+<div class="block-4">
+<div class="region region-footer-block-4">
+<div id="block-footerdownload" class="block block-block-content block-block-content96d3157e-107b-433c-81ad-62107afb0aec">
+<div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><h2>Download</h2>
+<ul><li><a href="/app" target="_blank">7-Eleven App</a></li>
+<li><a href="/7now-app" target="_blank">7Now Delivery App</a></li>
+</ul></div>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<div class="block-5">
+<div class="region region-footer-block-5">
+<div id="block-footersocial" class="block block-block-content block-block-content69574a02-7f1d-4dd5-b4b8-1b577f4e0dbc">
+<div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><h2>Follow us</h2>
+<ul><li><a class="facebook" href="https://www.facebook.com/7Eleven" target="_blank" title="Facebook">Facebook</a></li>
+<li><a class="twitter" href="https://twitter.com/7Eleven" target="_blank" title="Twitter">Twitter</a></li>
+<li><a class="instagram" href="https://www.instagram.com/7eleven/" target="_blank" title="Instagram">Instagram</a></li>
+<li><a class="snapchat" href="https://www.snapchat.com/" target="_blank" title="Snapchat">Snapchat</a></li>
+</ul></div>
+</div>
+</div>
+</div>
+<div class="block-6">
+<div class="region region-footer-block-6">
+<div id="block-footerfindastore" class="block block-block-content block-block-content7f9ae997-a48a-4346-bcaa-a5f206a77d75">
+<div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><h2>Find Us</h2>
+<form class="ftr-locator-form"><input name="hdr-ftr-locator-term" placeholder="Street, City, State or ZIP" type="text"><input type="submit">&nbsp;</form>
+<ul class="se-links"><li><a class="see-us-locations" href="/locations">See U.S. Locations</a></li>
+</ul></div>
+</div>
+</div>
+</div>
+<div class="block-7">
+<div class="region region-footer-block-7">
+<div id="block-footerlegal" class="block block-block-content block-block-content39d384a6-45b7-4b7a-ac1b-e80f2e50a85b">
+<div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><a href="/terms">Terms &amp; Conditions</a><a href="/privacy">Privacy Policy</a></p>
+<p>This site is intended for residents of the U.S. and Canada, excluding Quebec.&nbsp;©2018&nbsp;7-Eleven, Inc. All rights reserved. Products and services available at participating locations.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<div class="se-modals" data-modal-hide-message="">
+<div class="se-modals-inner">
+
+<div class="se-modal" id="location-modal-popup" map-id="location-modal-map">
+<div class="se-modal-inner">
+<div class="visible-map">
+<h4 class="header hidden-xs ">Participating Locations</h4>
+<div class="map-container ">
+<div id="location-modal-map">
+</div>
+<div id="seLocationControls" class="mapControls">
+<button title="Filters" class="seFilters hidden-xs se-filters">Filters</button>
+<a title="Re-Center Map" class="seRecenter" href="javascript:void(0);">Recenter Map</a>
+<a title="Zoom In" class="hidden-xs seZoomIn" href="javascript:void(0);">Zoom In</a>
+<a title="Zoom Out" class="hidden-xs seZoomOut" href="javascript:void(0);">Zoom Out</a>
+</div>
+</div>
+<div class="back-container visible-xs">
+<div class="back-btn " data-semodal-hide="this">Back</div>
+<div class="filters-btn  se-filters">Filters</div>
+</div>
+<div class="location-list-container" id="location-list-container">
+</div>
+</div>
+<div class="visible-filter filter-container-zone">
+<h4 class="header no-border"><span class="hidden-xs before-element">&nbsp;</span>Filters</h4>
+<a href="javascript:void(0);" class="close visible-xs before-element">X</a>
+<div class="line">&nbsp;</div>
+<div class="check-list-filter-items" id="check-list-filter-items">
+</div>
+<div class="filter-button-container">
+<button class="se-btn" id="apply-filter-modal">APPLY</button>
+<div>
+<a title="Clear All" id="clear-all-modal" class="clear-all-filters" href="javascript:void(0);">Clear all</a>
+</div>
+</div>
+</div>
+<a href="javascript:void(0);" class="se-modal-btn-close hidden-xs " data-semodal-hide="this">Close</a>
+<div class="se-modal-loader"></div>
+</div>
 </div>
 
-		</div>
-	</div>
+<div class="se-modal" id="se-modal-api-error">
+<div class="se-modal-inner">
+<h4>Error</h4>
+<p>It looks like something went wrong. Sorry about that. Please try again later.</p>
+<div class="se-form-buttons">
+<button class="se-btn" data-semodal-hide="this">Close</button>
+</div>
+<a href="#" class="se-modal-btn-close" data-semodal-hide="this">Close</a>
+<div class="se-modal-loader"></div>
+</div>
+</div>
 
-	
+<div class="se-modal" id="se-modal-terms">
+<div class="se-modal-inner">
+<h4>A few things have changed</h4>
+<p>Review and accept the new Terms and Conditions as well as the new Privacy Policy to continue.</p>
+<form class="se-form-account se-form-modal" id="se-form-terms" method="post" action="#" novalidate="">
+</form>
+<div class="se-fe-errors">
+</div>
+<div class="se-form-buttons">
+<button class="se-btn se-btn-disabled se-modal-submit">Done</button>
+<button class="se-btn-transparent se-modal-signout">Sign Out</button>
+</div>
+<div class="se-modal-loader"></div>
+</div>
+</div>
 
-	
-	<div id="holidayInterstitial" title="">
-		<a href="#" class="interstitialClose">
-			<img src="/Content/images/home/7e_nov_dec_close.png"></a>
-	</div>
-	<div id="sevenElevenDayInterstitial" title="">
-		<a href="#" class="interstitialClose">
-			<img src="/Content/images/home/7-11-day-close.png"></a>
-		<a href="/Home/Locator" class="storeFinder">
-			<img src="/Content/images/home/7-11-day-btn-findStore.png" title="Find a Store" alt="Find a Store"></a>
-	</div>
-	<div id="mioInterstitial_042313" title="">
-		<a href="#" class="interstitialClose">
-			<img src="/Content/images/mio_interstitial_042213_closeBtn.png"></a>
-		<a href="/Home/Locator" class="storeFinder">
-			<img src="/Content/images/mio_interstitial_042213_storeFinderBtn.png" title="Find a Store" alt="Find a Store"></a>
-	</div>
+<div class="se-modal" id="se-modal-age-verify">
+<div class="se-modal-inner">
+<h4>Hey, Gotta Ask.</h4>
+<p>Are you 21 or over?</p>
+<div class="se-redeem-errors"></div>
+<div class="se-form-buttons">
+<button class="se-btn" data-semodal-hide="this">I'm Old Enough</button>
+<button class="se-btn-transparent">I’m too young</button>
+</div>
+<div class="se-modal-loader"></div>
+</div>
+</div>
 
-	<script type="text/javascript">
+<div class="se-modal" id="se-modal-redeem-confirmation">
+<div class="se-modal-inner">
+<h4>Want this reward?</h4>
+<p>Once saved, you can't remove it from your rewards wallet. Just making sure.</p>
+<div class="se-redeem-errors"></div>
+<div class="se-form-buttons">
+<button class="se-btn se-modal-submit">Save</button>
+<button class="se-btn-transparent" data-semodal-hide="this">Nevermind</button>
+</div>
+<a href="#" class="se-modal-btn-close" data-semodal-hide="this">Close</a>
+<div class="se-modal-loader"></div>
+</div>
+</div>
 
-		//var _gaq = [['_setAccount', 'UA-16680901-1'], ['_trackPageview']];
-		//(function (d, t) {
-		//    var g = d.createElement(t),
-		//    s = d.getElementsByTagName(t)[0];
-		//    g.async = g.src = '//www.google-analytics.com/ga.js';
-		//    s.parentNode.insertBefore(g, s);
-		//}(document, 'script'));
-		Integer.Tagging.init('UA-16680901-1');
-		Integer.Tagging.gtm = false;
-	</script>
+<div class="se-modal" id="se-modal-unsaved-edits">
+<div class="se-modal-inner">
+<h4>Hold Up</h4>
+<p>Your info will be lost if you don't update now. Are you sure you want to do that?</p>
+<div class="se-form-buttons">
+<button class="se-btn se-modal-submit">Update</button>
+<button class="se-btn-transparent" data-semodal-hide="this">Close Anyway</button>
+</div>
+<a href="#" class="se-modal-btn-close" data-semodal-hide="this">Close</a>
+<div class="se-modal-loader"></div>
+</div>
+</div>
 
+<div class="se-modal" id="se-modal-forgot-password">
+<div class="se-modal-inner">
+<h4>Forgot Your Password?</h4>
+<p>Please enter the email address that was used to register your account. If the email you provide is valid, you will receive a link to reset your password shortly.</p>
+<form class="se-form-account se-form-modal" id="se-form-forgot-password" method="post" action="#" novalidate="">
+<div class="se-form-element">
+<div class="se-fe-label">
+<label for="input_fp_email">Email Address</label>
+</div>
+<div class="se-fe-input">
+<input type="email" name="email" id="input_fp_email" data-sevalidate="required email" placeholder="Email Address" value="">
+</div>
+<div class="se-fe-message">
+<div class="se-fe-errors"></div>
+</div>
+</div>
+<div class="se-form-errors">
+</div>
+<div class="se-form-element se-form-buttons">
+<input type="submit" class="se-btn se-btn-disabled se-modal-submit" value="Send Email">
+<a href="#" class="se-btn-transparent" data-semodal-hide="this">Cancel</a>
+</div>
+</form>
+<a href="#" class="se-modal-btn-close" data-semodal-hide="this">Close</a>
+<div class="se-modal-loader"></div>
+</div>
+</div>
 
-	<!--Used for floodlight tracking--look for FloodlightTrack function in main.js-->
-	<div id="FloodlightTrackingHolder"></div>
+<div class="se-modal" id="se-modal-forgot-password-confirmation">
+<div class="se-modal-inner">
+<h4>Check Your Inbox</h4>
+<p>We have sent you an email with further instructions on resetting your password. You should receive it momentarily.</p>
+<a href="#" class="se-modal-btn-close" data-semodal-hide="this">Close</a>
+<div class="se-modal-loader"></div>
+</div>
+</div>
 
+<div class="se-modal" id="se-modal-account-suspended">
+<div class="se-modal-inner">
+<h4 class="se-modal-title">YOUR ACCOUNT HAS BEEN DISABLED</h4>
+<p class="se-modal-description">We’ve locked your account due to suspicious activity. To unlock your account, please contact customer support at 1-800-255-0711.</p>
+<a href="#" class="se-modal-btn-close" data-semodal-hide="this">Close</a>
+<div class="se-modal-loader"></div>
+</div>
+</div>
 
-<div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-draggable ui-resizable" tabindex="-1" role="dialog" aria-labelledby="ui-id-1" style="display: none; outline: 0px; z-index: 1000; position: absolute;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span id="ui-id-1" class="ui-dialog-title">Message</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div class="modal ui-dialog-content ui-widget-content" id="genericMessageModal" style="display: block;">
-		<h3 id="messageHeader"></h3>
-		<p id="messageBody"></p>
-		<input type="button" value="ok" id="genericMessageConfirm">
-	</div><div class="ui-resizable-handle ui-resizable-n" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-w" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se ui-icon-grip-diagonal-se" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 1000;"></div></div><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-2" tabindex="0" style="z-index: 1; display: none;"></ul><div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-draggable" tabindex="-1" role="dialog" aria-labelledby="ui-id-3" style="display: none; outline: 0px; z-index: 1000;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span id="ui-id-3" class="ui-dialog-title">Site Credits</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div class="modal ui-dialog-content ui-widget-content" id="creditsModal" style="display: block;">
-        <div id="creditsWrapper"></div>
-    </div></div></body></html>
+<div class="se-modal se-modal-form" id="se-modal-edit-profile">
+<div class="se-modal-inner">
+<h4>Profile</h4>
+<form class="se-form-account se-form-modal" id="se-form-edit-profile" method="post" action="#" novalidate="">
+<div class="se-form-row">
+<div class="se-form-element se-fe-half" data-previous="" data-changed="false">
+<div class="se-fe-label">
+<label for="input_ep_first_name">First Name</label>
+</div>
+<div class="se-fe-input">
+<input type="text" name="first_name" id="input_ep_first_name" data-sevalidate="required" placeholder="First Name">
+<a href="#" class="se-btn-input-clear">Clear Input</a>
+</div>
+<div class="se-fe-message">
+<div class="se-fe-errors"></div>
+</div>
+</div>
+<div class="se-form-element se-fe-half" data-previous="" data-changed="false">
+<div class="se-fe-label">
+<label for="input_ep_last_name">Last Name</label>
+</div>
+<div class="se-fe-input">
+<input type="text" name="last_name" id="input_ep_last_name" placeholder="Last Name (optional)">
+<a href="#" class="se-btn-input-clear">Clear Input</a>
+</div>
+<div class="se-fe-message">
+<div class="se-fe-errors"></div>
+</div>
+</div>
+</div>
+<div class="se-form-row">
+<div class="se-form-element se-fe-full se-fe-disabled" data-previous="" data-changed="false">
+<div class="se-fe-label">
+<label for="input_ep_username">Account ID</label>
+</div>
+<div class="se-fe-input">
+<input type="email" name="username" id="input_ep_username" placeholder="Account ID" disabled="">
+</div>
+<div class="se-fe-message">
+<div class="se-fe-errors"></div>
+</div>
+</div>
+</div>
+<div class="se-form-row">
+<div class="se-form-element se-fe-full" data-previous="" data-changed="false">
+<div class="se-fe-label">
+<label for="input_ep_email">Email Address</label>
+</div>
+<div class="se-fe-input">
+<input type="email" name="email" id="input_ep_email" data-sevalidate="email" placeholder="Email Address">
+</div>
+<div class="se-fe-message">
+<div class="se-fe-errors"></div>
+</div>
+</div>
+</div>
+<div class="se-form-row">
+<div class="se-form-element se-fe-half se-fe-date" data-previous="" data-changed="false">
+<div class="se-fe-label">
+<label for="input_ep_birthdate">Birth Date</label>
+</div>
+<div class="se-fe-input" id="input_ep_dob">
+<input type="text" pattern="\d*" name="birthdate" id="input_ep_birthdate" data-sevalidate="date" class="input-date se-fe-disabled" placeholder="Birth Date" disabled="">
+</div>
+<div class="se-fe-input" id="input_ep_dob_editable">
+<div class="se-fe-select se-fe-month">
+<select name="dob-month" id="input_ep_dob_month" class="se-form-placeholder se-fe-disabled" data-sevalidate="">
+<option value="">Month</option>
+<option value="01">Jan</option>
+<option value="02">Feb</option>
+<option value="03">Mar</option>
+<option value="04">Apr</option>
+<option value="05">May</option>
+<option value="06">Jun</option>
+<option value="07">Jul</option>
+<option value="08">Aug</option>
+<option value="09">Sep</option>
+<option value="10">Oct</option>
+<option value="11">Nov</option>
+<option value="12">Dec</option>
+</select>
+<a href="#" class="se-btn-select-clear">Clear Input</a>
+</div>
+ <div class="se-fe-select se-fe-day">
+<select name="dob-day" id="input_ep_dob_day" class="se-form-placeholder se-fe-disabled" data-sevalidate="">
+<option value="">Day</option>
+<option value="01">1</option>
+<option value="02">2</option>
+<option value="03">3</option>
+<option value="04">4</option>
+<option value="05">5</option>
+<option value="06">6</option>
+<option value="07">7</option>
+<option value="08">8</option>
+<option value="09">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+<option value="18">18</option>
+<option value="19">19</option>
+<option value="20">20</option>
+<option value="21">21</option>
+<option value="22">22</option>
+<option value="23">23</option>
+<option value="24">24</option>
+<option value="25">25</option>
+<option value="26">26</option>
+<option value="27">27</option>
+<option value="28">28</option>
+<option value="29">29</option>
+<option value="30">30</option>
+<option value="31">31</option>
+</select>
+<a href="#" class="se-btn-select-clear">Clear Input</a>
+</div>
+<div class="se-fe-select se-fe-year">
+<select name="dob-year" id="input_ep_dob_year" class="se-form-placeholder se-fe-disabled" data-sevalidate="">
+<option value="">Year</option>
+<option value="2017">2017</option>
+<option value="2016">2016</option>
+<option value="2015">2015</option>
+<option value="2014">2014</option>
+<option value="2013">2013</option>
+<option value="2012">2012</option>
+<option value="2011">2011</option>
+<option value="2010">2010</option>
+<option value="2009">2009</option>
+<option value="2008">2008</option>
+<option value="2007">2007</option>
+<option value="2006">2006</option>
+<option value="2005">2005</option>
+<option value="2004">2004</option>
+<option value="2003">2003</option>
+<option value="2002">2002</option>
+<option value="2001">2001</option>
+<option value="2000">2000</option>
+<option value="1999">1999</option>
+<option value="1998">1998</option>
+<option value="1997">1997</option>
+<option value="1996">1996</option>
+<option value="1995">1995</option>
+<option value="1994">1994</option>
+<option value="1993">1993</option>
+<option value="1992">1992</option>
+<option value="1991">1991</option>
+<option value="1990">1990</option>
+<option value="1989">1989</option>
+<option value="1988">1988</option>
+<option value="1987">1987</option>
+<option value="1986">1986</option>
+<option value="1985">1985</option>
+<option value="1984">1984</option>
+<option value="1983">1983</option>
+<option value="1982">1982</option>
+<option value="1981">1981</option>
+<option value="1980">1980</option>
+<option value="1979">1979</option>
+<option value="1978">1978</option>
+<option value="1977">1977</option>
+<option value="1976">1976</option>
+<option value="1975">1975</option>
+<option value="1974">1974</option>
+<option value="1973">1973</option>
+<option value="1972">1972</option>
+<option value="1971">1971</option>
+<option value="1970">1970</option>
+<option value="1969">1969</option>
+<option value="1968">1968</option>
+<option value="1967">1967</option>
+<option value="1966">1966</option>
+<option value="1965">1965</option>
+<option value="1964">1964</option>
+<option value="1963">1963</option>
+<option value="1962">1962</option>
+<option value="1961">1961</option>
+<option value="1960">1960</option>
+<option value="1959">1959</option>
+<option value="1958">1958</option>
+<option value="1957">1957</option>
+<option value="1956">1956</option>
+<option value="1955">1955</option>
+<option value="1954">1954</option>
+<option value="1953">1953</option>
+<option value="1952">1952</option>
+<option value="1951">1951</option>
+<option value="1950">1950</option>
+<option value="1949">1949</option>
+<option value="1948">1948</option>
+ <option value="1947">1947</option>
+<option value="1946">1946</option>
+<option value="1945">1945</option>
+<option value="1944">1944</option>
+<option value="1943">1943</option>
+<option value="1942">1942</option>
+<option value="1941">1941</option>
+<option value="1940">1940</option>
+<option value="1939">1939</option>
+<option value="1938">1938</option>
+<option value="1937">1937</option>
+<option value="1936">1936</option>
+<option value="1935">1935</option>
+<option value="1934">1934</option>
+<option value="1933">1933</option>
+<option value="1932">1932</option>
+<option value="1931">1931</option>
+<option value="1930">1930</option>
+<option value="1929">1929</option>
+<option value="1928">1928</option>
+<option value="1927">1927</option>
+<option value="1926">1926</option>
+<option value="1925">1925</option>
+<option value="1924">1924</option>
+<option value="1923">1923</option>
+<option value="1922">1922</option>
+<option value="1921">1921</option>
+<option value="1920">1920</option>
+<option value="1919">1919</option>
+<option value="1918">1918</option>
+<option value="1917">1917</option>
+<option value="1916">1916</option>
+<option value="1915">1915</option>
+<option value="1914">1914</option>
+<option value="1913">1913</option>
+<option value="1912">1912</option>
+<option value="1911">1911</option>
+<option value="1910">1910</option>
+<option value="1909">1909</option>
+<option value="1908">1908</option>
+<option value="1907">1907</option>
+<option value="1906">1906</option>
+<option value="1905">1905</option>
+<option value="1904">1904</option>
+<option value="1903">1903</option>
+<option value="1902">1902</option>
+<option value="1901">1901</option>
+<option value="1900">1900</option>
+</select>
+<a href="#" class="se-btn-select-clear">Clear Input</a>
+</div>
+</div>
+<div class="se-fe-message">
+<div class="se-fe-errors"></div>
+</div>
+</div>
+<div class="se-form-element se-fe-half" data-previous="" data-changed="false">
+ <div class="se-fe-label">
+<label for="input_ep_mobile_number">Mobile Phone</label>
+</div>
+<div class="se-fe-input se-form-tooltip">
+<input type="tel" pattern="\d*" name="mobile_number" id="input_ep_mobile_number" class="input-phone" data-sevalidate="phone" placeholder="Mobile Phone (optional)">
+<a title="Can be used in-store to identify. Will be used to verify account. You agree to receive a one-time autodialed SMS message with a verification code. Message and data rates may apply. Consent is not a condition of purchase." href="#" class="se-form-tooltip-show" aria-haspopup="true" aria-describedby="setooltip_phone"><span role="presentation">Show Tooltip</span></a>
+<div role="setooltip" id="setooltip_phone" aria-hidden="true">Can be used in-store to identify. Will be used to verify account. You agree to receive a one-time autodialed SMS message with a verification code. Message and data rates may apply. Consent is not a condition of purchase.</div>
+<a href="#" class="se-btn-input-clear">Clear Input</a>
+</div>
+<div class="se-fe-message">
+<div class="se-fe-errors"></div>
+</div>
+</div>
+</div>
+<div class="se-form-row">
+<div class="se-form-element se-fe-full" data-previous="" data-changed="false">
+<div class="se-fe-label">
+<label for="input_ep_address_1">Address 1</label>
+</div>
+<div class="se-fe-input">
+<input type="text" name="address_line_1" id="input_ep_address_1" placeholder="Address 1 (optional)">
+<a href="#" class="se-btn-input-clear">Clear Input</a>
+</div>
+<div class="se-fe-message">
+<div class="se-fe-errors"></div>
+</div>
+</div>
+</div>
+<div class="se-form-row">
+<div class="se-form-element se-fe-full" data-previous="" data-changed="false">
+<div class="se-fe-label">
+<label for="input_ep_address_2">Address 2</label>
+</div>
+<div class="se-fe-input">
+<input type="text" name="address_line_2" id="input_ep_address_2" placeholder="Address 2 (optional)">
+<a href="#" class="se-btn-input-clear">Clear Input</a>
+</div>
+<div class="se-fe-message">
+<div class="se-fe-errors"></div>
+</div>
+</div>
+</div>
+<div class="se-form-row">
+<div class="se-form-element se-fe-half" data-previous="" data-changed="false">
+<div class="se-fe-label">
+<label for="input_ep_city">City</label>
+</div>
+<div class="se-fe-input">
+<input type="text" name="city" id="input_ep_city" placeholder="City (optional)">
+<a href="#" class="se-btn-input-clear">Clear Input</a>
+</div>
+<div class="se-fe-message">
+<div class="se-fe-errors"></div>
+</div>
+</div>
+<div class="se-form-element se-fe-half se-fe-state" data-previous="" data-changed="false">
+ <div class="se-fe-label">
+<label for="input_ep_state" class="se-fe-label-state">State</label>
+</div>
+<div class="se-fe-input">
+<div class="se-fe-select">
+<select name="state" id="input_ep_state" class="se-form-placeholder" data-previous="" data-changed="false">
+<option value="">State (optional)</option>
+<option value="AL">Alabama</option>
+<option value="AK">Alaska</option>
+<option value="AZ">Arizona</option>
+<option value="AR">Arkansas</option>
+<option value="CA">California</option>
+<option value="CO">Colorado</option>
+<option value="CT">Connecticut</option>
+<option value="DE">Delaware</option>
+<option value="FL">Florida</option>
+<option value="GA">Georgia</option>
+<option value="HI">Hawaii</option>
+<option value="ID">Idaho</option>
+<option value="IL">Illinois</option>
+<option value="IN">Indiana</option>
+<option value="IA">Iowa</option>
+<option value="KS">Kansas</option>
+<option value="KY">Kentucky</option>
+<option value="LA">Louisiana</option>
+<option value="ME">Maine</option>
+<option value="MD">Maryland</option>
+<option value="MA">Massachusetts</option>
+<option value="MI">Michigan</option>
+<option value="MN">Minnesota</option>
+<option value="MS">Mississippi</option>
+<option value="MO">Missouri</option>
+<option value="MT">Montana</option>
+<option value="NE">Nebraska</option>
+<option value="NV">Nevada</option>
+<option value="NH">New Hampshire</option>
+<option value="NJ">New Jersey</option>
+<option value="NM">New Mexico</option>
+<option value="NY">New York</option>
+<option value="NC">North Carolina</option>
+<option value="ND">North Dakota</option>
+<option value="OH">Ohio</option>
+<option value="OK">Oklahoma</option>
+<option value="OR">Oregon</option>
+<option value="PA">Pennsylvania</option>
+<option value="RI">Rhode Island</option>
+<option value="SC">South Carolina</option>
+<option value="SD">South Dakota</option>
+<option value="TN">Tennessee</option>
+<option value="TX">Texas</option>
+<option value="UT">Utah</option>
+<option value="VT">Vermont</option>
+<option value="VA">Virginia</option>
+ <option value="WA">Washington</option>
+<option value="WV">West Virginia</option>
+<option value="WI">Wisconsin</option>
+<option value="WY">Wyoming</option>
+<option value="DC">District of Columbia</option>
+<option value="AS">American Samoa</option>
+<option value="GU">Guam</option>
+<option value="MP">Northern Mariana Islands</option>
+<option value="PR">Puerto Rico</option>
+<option value="UM">United States Minor Outlying Islands</option>
+<option value="VI">Virgin Islands, U.S.</option>
+</select>
+<a href="#" class="se-btn-select-clear">Clear Input</a>
+</div>
+</div>
+<div class="se-fe-message">
+<div class="se-fe-errors"></div>
+</div>
+</div>
+<div class="se-form-element se-fe-half se-fe-province" data-previous="" data-changed="false">
+<div class="se-fe-label">
+<label for="input_ep_province" class="se-fe-label-province">Province</label>
+</div>
+<div class="se-fe-input">
+<select name="province" id="input_ep_province" class="se-form-placeholder" data-previous="" data-changed="false">
+<option value="">Province (optional)</option>
+<option value="AB">Alberta</option>
+<option value="BC">British Columbia</option>
+<option value="MB">Manitoba</option>
+<option value="NB">New Brunswick</option>
+<option value="NL">Newfoundland and Labrador</option>
+<option value="NS">Nova Scotia</option>
+<option value="ON">Ontario</option>
+<option value="PE">Prince Edward Island</option>
+<option value="QC">Quebec</option>
+<option value="SK">Saskatchewan</option>
+<option value="NT">Northwest Territories</option>
+<option value="NU">Nunavut</option>
+<option value="YT">Yukon</option>
+</select>
+<a href="#" class="se-btn-input-clear">Clear Input</a>
+</div>
+<div class="se-fe-message">
+<div class="se-fe-errors"></div>
+</div>
+</div>
+</div>
+<div class="se-form-row">
+<div class="se-form-element se-fe-half se-fe-zip" data-previous="" data-changed="false">
+<div class="se-fe-label">
+<label for="input_ep_zip" class="se-fe-label-zip">ZIP Code</label>
+</div>
+<div class="se-fe-input">
+<input type="number" pattern="\d*" name="zip" id="input_ep_zip" class="input-zip" data-sevalidate="zip" placeholder="ZIP Code (optional)">
+<a href="#" class="se-btn-input-clear">Clear Input</a>
+</div>
+<div class="se-fe-message">
+<div class="se-fe-errors"></div>
+ </div>
+</div>
+<div class="se-form-element se-fe-half se-fe-postal" data-previous="" data-changed="false">
+<div class="se-fe-label">
+<label for="input_ep_postal" class="se-fe-label-postal">Postal Code</label>
+</div>
+<div class="se-fe-input">
+<input type="text" name="postal" id="input_ep_postal" class="input-postal" data-sevalidate="postal" placeholder="Postal Code (optional)">
+<a href="#" class="se-btn-input-clear">Clear Input</a>
+</div>
+<div class="se-fe-message">
+<div class="se-fe-errors"></div>
+</div>
+</div>
+<div class="se-form-element se-fe-half se-fe-radio se-fe-country" data-previous="" data-changed="false">
+<div class="se-fe-label">
+</div>
+<div class="se-fe-input">
+<div class="label">Country</div>
+<div class="se-fe-input-radio-group" data-previous="" data-changed="false">
+<div class="se-fe-input-radio"><input type="radio" name="country" id="input_ep_country_usa" data-sevalidate="required" value="US"><label for="input_ep_country_usa" class="flag-unitedstates-sm">United States</label></div>
+<div class="se-fe-input-radio"><input type="radio" name="country" id="input_ep_country_canada" data-sevalidate="required" value="CA"><label for="input_ep_country_canada" class="flag-canada-sm">Canada</label></div>
+</div>
+</div>
+<div class="se-fe-message">
+<div class="se-fe-errors"></div>
+</div>
+</div>
+</div>
+<div class="se-form-row">
+<div class="se-form-element se-fe-full se-fe-radio se-fe-radio-stacked se-fe-gender" data-previous="" data-changed="false">
+<div class="se-fe-input">
+<div class="label">Gender</div>
+<div class="se-fe-input-radio-group" data-previous="" data-changed="false">
+<div class="se-fe-input-radio"><input type="radio" name="gender" id="input_ep_gender_female" value="Female"><label for="input_ep_gender_female">Female</label></div>
+<div class="se-fe-input-radio"><input type="radio" name="gender" id="input_ep_gender_male" value="Male"><label for="input_ep_gender_male">Male</label></div>
+<div class="se-fe-input-radio"><input type="radio" name="gender" id="input_ep_gender_unspecified" value="PNTS"><label for="input_ep_gender_unspecified">Prefer not to say</label></div>
+</div>
+</div>
+<div class="se-fe-message">
+<div class="se-fe-errors"></div>
+</div>
+</div>
+</div>
+<div class="se-form-row">
+<div class="se-form-element se-fe-full se-fe-password se-fe-link">
+<div class="se-fe-label">
+<label>Password</label>
+</div>
+<div class="se-fe-input">
+<a href="#" data-semodal-change="#se-modal-forgot-password">Reset Password</a>
+</div>
+</div>
+</div>
+<div class="se-form-errors">
+</div>
+ <div class="se-form-element se-form-buttons">
+<input type="submit" class="se-btn se-modal-submit" value="Update">
+<a href="#" class="se-btn-transparent se-modal-cancel">Cancel</a>
+</div>
+</form>
+<a href="#" class="se-modal-btn-close">Close</a>
+<div class="se-modal-loader"></div>
+</div>
+</div>
+
+<div class="se-modal se-modal-form" id="se-modal-age-verification">
+<div class="se-modal-inner">
+<h4>Age Verification</h4>
+<form class="se-form-account se-form-modal" id="se-form-age-verification" method="post" action="#" novalidate="">
+<div class="se-form-row">
+<div class="se-form-element se-fe-half se-fe-date">
+<div class="se-fe-label">
+<label>Birth Date</label>
+</div>
+<div class="se-fe-input">
+<div class="se-fe-select se-fe-month">
+<select name="dob-month" id="input_av_dob_month" class="se-form-placeholder" data-sevalidate="required">
+<option value="">Month</option>
+<option value="01">Jan</option>
+<option value="02">Feb</option>
+<option value="03">Mar</option>
+<option value="04">Apr</option>
+<option value="05">May</option>
+<option value="06">Jun</option>
+<option value="07">Jul</option>
+<option value="08">Aug</option>
+<option value="09">Sep</option>
+<option value="10">Oct</option>
+<option value="11">Nov</option>
+<option value="12">Dec</option>
+</select>
+<a href="#" class="se-btn-select-clear">Clear Input</a>
+</div>
+<div class="se-fe-select se-fe-day">
+<select name="dob-day" id="input_av_dob_day" class="se-form-placeholder" data-sevalidate="required">
+<option value="">Day</option>
+<option value="01">1</option>
+<option value="02">2</option>
+<option value="03">3</option>
+<option value="04">4</option>
+<option value="05">5</option>
+<option value="06">6</option>
+<option value="07">7</option>
+<option value="08">8</option>
+<option value="09">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+<option value="18">18</option>
+<option value="19">19</option>
+<option value="20">20</option>
+<option value="21">21</option>
+<option value="22">22</option>
+<option value="23">23</option>
+<option value="24">24</option>
+<option value="25">25</option>
+<option value="26">26</option>
+<option value="27">27</option>
+<option value="28">28</option>
+<option value="29">29</option>
+<option value="30">30</option>
+<option value="31">31</option>
+</select>
+<a href="#" class="se-btn-select-clear">Clear Input</a>
+</div>
+<div class="se-fe-select se-fe-year">
+<select name="dob-year" id="input_av_dob_year" class="se-form-placeholder" data-sevalidate="required">
+<option value="">Year</option>
+<option value="2017">2017</option>
+<option value="2016">2016</option>
+<option value="2015">2015</option>
+<option value="2014">2014</option>
+<option value="2013">2013</option>
+<option value="2012">2012</option>
+<option value="2011">2011</option>
+<option value="2010">2010</option>
+<option value="2009">2009</option>
+<option value="2008">2008</option>
+<option value="2007">2007</option>
+<option value="2006">2006</option>
+<option value="2005">2005</option>
+<option value="2004">2004</option>
+<option value="2003">2003</option>
+<option value="2002">2002</option>
+<option value="2001">2001</option>
+<option value="2000">2000</option>
+<option value="1999">1999</option>
+<option value="1998">1998</option>
+<option value="1997">1997</option>
+<option value="1996">1996</option>
+<option value="1995">1995</option>
+<option value="1994">1994</option>
+<option value="1993">1993</option>
+<option value="1992">1992</option>
+<option value="1991">1991</option>
+<option value="1990">1990</option>
+<option value="1989">1989</option>
+<option value="1988">1988</option>
+<option value="1987">1987</option>
+<option value="1986">1986</option>
+<option value="1985">1985</option>
+<option value="1984">1984</option>
+<option value="1983">1983</option>
+<option value="1982">1982</option>
+<option value="1981">1981</option>
+<option value="1980">1980</option>
+<option value="1979">1979</option>
+<option value="1978">1978</option>
+<option value="1977">1977</option>
+<option value="1976">1976</option>
+<option value="1975">1975</option>
+<option value="1974">1974</option>
+<option value="1973">1973</option>
+<option value="1972">1972</option>
+<option value="1971">1971</option>
+<option value="1970">1970</option>
+<option value="1969">1969</option>
+<option value="1968">1968</option>
+<option value="1967">1967</option>
+<option value="1966">1966</option>
+<option value="1965">1965</option>
+<option value="1964">1964</option>
+<option value="1963">1963</option>
+<option value="1962">1962</option>
+<option value="1961">1961</option>
+<option value="1960">1960</option>
+<option value="1959">1959</option>
+<option value="1958">1958</option>
+<option value="1957">1957</option>
+<option value="1956">1956</option>
+<option value="1955">1955</option>
+<option value="1954">1954</option>
+<option value="1953">1953</option>
+<option value="1952">1952</option>
+<option value="1951">1951</option>
+<option value="1950">1950</option>
+<option value="1949">1949</option>
+<option value="1948">1948</option>
+<option value="1947">1947</option>
+<option value="1946">1946</option>
+<option value="1945">1945</option>
+<option value="1944">1944</option>
+<option value="1943">1943</option>
+<option value="1942">1942</option>
+<option value="1941">1941</option>
+<option value="1940">1940</option>
+<option value="1939">1939</option>
+<option value="1938">1938</option>
+<option value="1937">1937</option>
+<option value="1936">1936</option>
+<option value="1935">1935</option>
+<option value="1934">1934</option>
+<option value="1933">1933</option>
+<option value="1932">1932</option>
+<option value="1931">1931</option>
+<option value="1930">1930</option>
+<option value="1929">1929</option>
+<option value="1928">1928</option>
+<option value="1927">1927</option>
+<option value="1926">1926</option>
+ <option value="1925">1925</option>
+<option value="1924">1924</option>
+<option value="1923">1923</option>
+<option value="1922">1922</option>
+<option value="1921">1921</option>
+<option value="1920">1920</option>
+<option value="1919">1919</option>
+<option value="1918">1918</option>
+<option value="1917">1917</option>
+<option value="1916">1916</option>
+<option value="1915">1915</option>
+<option value="1914">1914</option>
+<option value="1913">1913</option>
+<option value="1912">1912</option>
+<option value="1911">1911</option>
+<option value="1910">1910</option>
+<option value="1909">1909</option>
+<option value="1908">1908</option>
+<option value="1907">1907</option>
+<option value="1906">1906</option>
+<option value="1905">1905</option>
+<option value="1904">1904</option>
+<option value="1903">1903</option>
+<option value="1902">1902</option>
+<option value="1901">1901</option>
+<option value="1900">1900</option>
+</select>
+<a href="#" class="se-btn-select-clear">Clear Input</a>
+</div>
+</div>
+<div class="se-fe-message">
+<div class="se-fe-errors"></div>
+</div>
+</div>
+</div>
+<div class="se-form-row">
+<div class="se-form-element se-fe-half ">
+<div class="se-fe-label">
+<label for="input_av_first_name">First Name</label>
+</div>
+<div class="se-fe-input">
+<input type="text" name="first_name" id="input_av_first_name" data-sevalidate="required" placeholder="First Name">
+<a href="#" class="se-btn-input-clear">Clear Input</a>
+</div>
+<div class="se-fe-message">
+<div class="se-fe-errors"></div>
+</div>
+</div>
+<div class="se-form-element se-fe-half">
+<div class="se-fe-label">
+<label for="input_av_last_name">Last Name</label>
+</div>
+<div class="se-fe-input">
+<input type="text" name="last_name" id="input_av_last_name" data-sevalidate="required" placeholder="Last Name">
+<a href="#" class="se-btn-input-clear">Clear Input</a>
+</div>
+<div class="se-fe-message">
+<div class="se-fe-errors"></div>
+</div>
+</div>
+</div>
+<div class="se-form-row">
+<div class="se-form-element se-fe-full">
+<div class="se-fe-label">
+ <label for="input_av_address_1">Address 1</label>
+</div>
+<div class="se-fe-input">
+<input type="text" name="address_line_1" id="input_av_address_1" data-sevalidate="required" placeholder="Address 1">
+<a href="#" class="se-btn-input-clear">Clear Input</a>
+</div>
+<div class="se-fe-message">
+<div class="se-fe-errors"></div>
+</div>
+</div>
+</div>
+<div class="se-form-row">
+<div class="se-form-element se-fe-full">
+<div class="se-fe-label">
+<label for="input_av_address_2">Address 2</label>
+</div>
+<div class="se-fe-input">
+<input type="text" name="address_line_2" id="input_av_address_2" placeholder="Address 2 (optional)">
+<a href="#" class="se-btn-input-clear">Clear Input</a>
+</div>
+<div class="se-fe-message">
+<div class="se-fe-errors"></div>
+</div>
+</div>
+</div>
+<div class="se-form-row">
+<div class="se-form-element se-fe-half">
+<div class="se-fe-label">
+<label for="input_av_city">City</label>
+</div>
+<div class="se-fe-input">
+<input type="text" name="city" id="input_av_city" placeholder="City">
+<a href="#" class="se-btn-input-clear">Clear Input</a>
+</div>
+<div class="se-fe-message">
+<div class="se-fe-errors"></div>
+</div>
+</div>
+<div class="se-form-element se-fe-half">
+<div class="se-fe-label">
+<label for="input_av_state" class="se-fe-label-state">State</label>
+</div>
+<div class="se-fe-input">
+<div class="se-fe-select">
+<select name="state" id="input_av_state" class="se-form-placeholder" data-sevalidate="required state" data-previous="" data-changed="false">
+<option value="">State</option>
+<option value="AL">Alabama</option>
+<option value="AK">Alaska</option>
+<option value="AZ">Arizona</option>
+<option value="AR">Arkansas</option>
+<option value="CA">California</option>
+<option value="CO">Colorado</option>
+<option value="CT">Connecticut</option>
+<option value="DE">Delaware</option>
+<option value="FL">Florida</option>
+<option value="GA">Georgia</option>
+<option value="HI">Hawaii</option>
+<option value="ID">Idaho</option>
+<option value="IL">Illinois</option>
+<option value="IN">Indiana</option>
+<option value="IA">Iowa</option>
+<option value="KS">Kansas</option>
+<option value="KY">Kentucky</option>
+<option value="LA">Louisiana</option>
+<option value="ME">Maine</option>
+<option value="MD">Maryland</option>
+<option value="MA">Massachusetts</option>
+<option value="MI">Michigan</option>
+<option value="MN">Minnesota</option>
+<option value="MS">Mississippi</option>
+<option value="MO">Missouri</option>
+<option value="MT">Montana</option>
+<option value="NE">Nebraska</option>
+<option value="NV">Nevada</option>
+<option value="NH">New Hampshire</option>
+<option value="NJ">New Jersey</option>
+<option value="NM">New Mexico</option>
+<option value="NY">New York</option>
+<option value="NC">North Carolina</option>
+<option value="ND">North Dakota</option>
+<option value="OH">Ohio</option>
+<option value="OK">Oklahoma</option>
+<option value="OR">Oregon</option>
+<option value="PA">Pennsylvania</option>
+<option value="RI">Rhode Island</option>
+<option value="SC">South Carolina</option>
+<option value="SD">South Dakota</option>
+<option value="TN">Tennessee</option>
+<option value="TX">Texas</option>
+<option value="UT">Utah</option>
+<option value="VT">Vermont</option>
+<option value="VA">Virginia</option>
+<option value="WA">Washington</option>
+<option value="WV">West Virginia</option>
+<option value="WI">Wisconsin</option>
+<option value="WY">Wyoming</option>
+<option value="DC">District of Columbia</option>
+<option value="AS">American Samoa</option>
+<option value="GU">Guam</option>
+<option value="MP">Northern Mariana Islands</option>
+<option value="PR">Puerto Rico</option>
+<option value="UM">United States Minor Outlying Islands</option>
+<option value="VI">Virgin Islands, U.S.</option>
+</select>
+<a href="#" class="se-btn-select-clear">Clear Input</a>
+</div>
+</div>
+<div class="se-fe-message">
+<div class="se-fe-errors"></div>
+</div>
+</div>
+</div>
+<div class="se-form-row">
+<div class="se-form-element se-fe-half">
+<div class="se-fe-label">
+<label for="input_av_zip" class="se-fe-label-zip">ZIP Code</label>
+</div>
+<div class="se-fe-input">
+<input type="number" pattern="\d*" name="zip" id="input_av_zip" class="input-zip" data-sevalidate="required zip" placeholder="ZIP Code">
+<a href="#" class="se-btn-input-clear">Clear Input</a>
+</div>
+<div class="se-fe-message">
+<div class="se-fe-errors"></div>
+</div>
+</div>
+</div>
+<div class="se-form-errors">
+</div>
+<div class="se-form-element se-form-buttons">
+<input type="hidden" name="country" value="US">
+<input type="submit" class="se-btn se-btn-disabled se-modal-submit" value="Verify Age">
+<a href="#" class="se-btn-transparent" data-semodal-hide="this">Cancel</a>
+</div>
+</form>
+<a href="#" class="se-modal-btn-close" data-semodal-hide="this">Close</a>
+<div class="se-modal-loader"></div>
+</div>
+</div>
+
+<div class="se-modal" id="se-modal-login">
+<div class="se-modal-inner">
+<h4>Sign In</h4>
+<p>To make sure your account remains safe,<br>we ask that you re-confirm your identity.</p>
+<div class="se-form-facebook" style="display: none;">
+<button class="se-btn-facebook">Connect with Facebook</button>
+<div>OR</div>
+</div>
+<form class="se-form-account se-form-modal" id="se-form-login-modal" method="post" action="#" novalidate="">
+<div class="se-form-element">
+<div class="se-fe-label">
+<label for="input_li_email">Account ID (Email Address)</label>
+</div>
+<div class="se-fe-input">
+<input type="email" name="email_address" id="input_li_email" placeholder="Account ID (Email Address)" data-sevalidate="required email" value="">
+</div>
+<div class="se-fe-message">
+<div class="se-fe-errors"></div>
+</div>
+</div>
+<div class="se-form-element se-form-password">
+<div class="se-fe-label">
+<label for="input_li_password">Password</label>
+</div>
+<div class="se-fe-input">
+<input type="password" name="password" id="input_li_password" data-sevalidate="required" placeholder="Password">
+<a href="#" class="se-form-password-show">Show Password</a>
+</div>
+<div class="se-fe-message">
+<div class="se-fe-errors"></div>
+</div>
+</div>
+<div class="se-form-errors">
+</div>
+<div class="se-form-element se-form-buttons">
+<input type="submit" class="se-btn se-btn-disabled se-modal-submit" value="Sign In">
+</div>
+</form>
+<div class="se-modal-links">
+<p><a href="#" data-semodal-change="#se-modal-forgot-password">Forgot Password</a></p>
+<p><a href="/register" class="register">Not a member? Register now.</a></p>
+</div>
+<a href="#" class="se-modal-btn-close" data-semodal-hide="this">Close</a>
+<div class="se-modal-loader"></div>
+</div>
+</div>
+
+<div class="se-modal" id="se-modal-verify-user">
+<div class="se-modal-inner">
+<h4>Sign In</h4>
+<p>Welcome back, <span class="username"></span>. <span class="se-modal-verify-copy"><br>Please log in to continue.</span></p>
+<div class="se-form-facebook-loader" style="display: none;">
+<div class="se-loader">
+<p>Connecting to Facebook</p>
+</div>
+</div>
+<div class="se-form-facebook" style="display: none;">
+<button class="se-btn-facebook">Connect with Facebook</button>
+<div class="se-form-errors">
+</div>
+</div>
+<form class="se-form-account se-form-modal" id="se-form-verify-user" method="post" action="#" novalidate="">
+<div class="se-form-element se-form-password">
+<div class="se-fe-label">
+<label for="input_vu_password">Password</label>
+</div>
+<div class="se-fe-input">
+<input type="password" name="password" id="input_vu_password" data-sevalidate="required" placeholder="Password">
+<a href="#" class="se-form-password-show">Show Password</a>
+</div>
+<div class="se-fe-message">
+<div class="se-fe-errors"></div>
+</div>
+</div>
+<div class="se-form-errors">
+</div>
+<div class="se-form-element se-form-buttons">
+<input type="submit" class="se-btn se-btn-disabled se-modal-submit" value="Sign In">
+</div>
+</form>
+<div class="se-modal-links">
+<p><a href="#" data-semodal-change="#se-modal-forgot-password" class="forgotpassword">Forgot Password?</a></p>
+<p><a href="#" class="signout">Not <span class="username"></span>?</a></p>
+</div>
+<a href="#" class="se-modal-btn-close se-modal-verify-btn-close" data-semodal-hide="this">Close</a>
+<div class="se-modal-loader"></div>
+</div>
+</div>
+
+<div class="se-modal" id="se-sms-verify-modal">
+<div class="se-modal-inner sms-verify show">
+<a href="#" class="se-modal-btn-close" data-semodal-hide="this" tabindex="-1">Close</a>
+<h4>LET’S VERIFY YOUR MOBILE PHONE</h4>
+<div id="se-modal-inner-form">
+<p>Account verification required for new members to receive welcome offer.</p>
+<p class="modal-text">We sent a 6 digit PIN to <span id="last-four">your phone</span>.<br>Please enter it below.</p>
+<form class="se-sms-user" id="se-sms-verify">
+<div class="se-form-row se-form-element">
+<div class="se-fe-label">
+<label for="input_verification_pin">Verification PIN</label>
+</div>
+<div class="se-fe-input sms_verify_input">
+<input type="tel" name="sms" id="sms_verify" data-sevalidate="required sms" placeholder="Verification PIN" maxlength="6">
+</div>
+<div class="se-fe-message">
+<div class="se-fe-errors sms"></div>
+</div>
+</div>
+<a href="#" id="verify-pin-sms" class="se-btn sms-verify invalid">Verify</a>
+</form>
+<a href="#" class="se-btn-green-sm" data-semodal-hide="this">Cancel</a>
+<p class="modal-note"><a href="#" id="se-modal-sms-moreoptions">Click here</a> for more options</p>
+</div>
+<div id="se-modal-inner-options">
+<div class="title"><span class="col">Verify (•••) ••• - <span id="se-sms-verify-modal-fourdigits">••••</span></span><span class="col text-right"><a href="#" id="sm-verify-resend">Resend</a></span></div>
+<p>Didn’t receive your 6 digit PIN? No problem, click resend and we will send you a new unique PIN to verify your mobile phone.</p>
+<div class="title"><span class="col">Help?</span><span class="col text-right"><a href="http://survey.medallia.com/?711-need-help&amp;feedback-area=3" target="_blank">Contact Support</a></span></div>
+<p>If you have having issues verifying your mobile phone, contact support and we will look into it for you.</p>
+<a href="#" id="se-modal-sms-back" class="se-btn valid">Back</a>
+</div>
+</div>
+</div>
+</div> 
+
+<div id="se-modal-message"></div>
+
+<div id="se-modal-loader-mobile"></div>
+
+<div class="se-modals-fade"></div>
+</div>
+</div>
+<div id="se-mq-320"></div>
+<div id="se-mq-768"></div>
+<div id="se-mq-1024"></div>
+<div id="se-mq-1200"></div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/1006","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","jquery":{"ui":{"datepicker":{"isRTL":false,"firstDay":0}}},"ajaxPageState":{"libraries":"classy\/base,classy\/messages,core\/drupal.ajax,core\/html5shiv,core\/normalize,modal\/modal,seveneleven\/global-styling,seveneleven\/legal,system\/base,ultimenu\/ultimenu.skin.basic,views\/views.module","theme":"seveneleven","theme_token":null},"ajaxTrustedUrl":[],"user":{"uid":0,"permissionsHash":"ecc063058bcd83dec34b236799981c1e8217efa92e01673b8c03e12c242abb3b"}}</script>
+<script src="/sites/default/files/js/js_LTJuBasa2PMEx8NMha7k0MmfHumcI5OnaLskkQ211GU.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"027ebb3a8a","applicationID":"44919244","transactionName":"NlVQZ0YACkQCUhENVw8fc1BACAtZTEEEA10+U1NQXAQ=","queueTime":0,"applicationTime":18,"atts":"GhJTEQ4aGUo=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</body></html>
