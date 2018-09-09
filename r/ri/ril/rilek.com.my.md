@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rilek.com.my privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130230527id_/http%3A//www.rilek.com.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rilek.com.my privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909133447id_/https%3A//www.rilek.com.my/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RILEK
 
@@ -114,11 +114,11 @@ If there are any questions regarding this privacy policy you may contact us usin
  
 
 https://www.rilek.com.my  
-M-02-01, Pusat Dagangan NZX, Jalan PJU 1A/41B, Ara Jaya  
-Petaling Jaya, Selangor 47301  
+Level 23A, Block N, Empire City Damansara, Jalan Damansara PJU 8,  
+Petaling Jaya, Selangor 47820  
 Malaysia  
 helpdesk@komms.com.my  
-603.7887.1053
+603.7611.9222
 
  
 
