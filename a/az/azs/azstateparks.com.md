@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azstateparks.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613223745id_/https%3A//azstateparks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azstateparks.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909224422id_/https%3A//azstateparks.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Arizona State Parks
 
@@ -109,7 +109,7 @@ The State of Arizona retains all rights to the information provided by this webs
 
 To offer comments about Arizona State Parks and Trails, or about the information presented in this Privacy Policy, contact Arizona State Parks and Trails Marketing Department:
 
-By Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+By Email: pio@azstateparks.gov
 
 By Telephone: (602) 542-4174
 
