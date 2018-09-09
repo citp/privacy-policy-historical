@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the leanplum.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208110322id_/https%3A//www.leanplum.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leanplum.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909050405id_/https%3A//www.leanplum.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Leanplum
 
-Last Updated: 3. December 2017
+Last Updated: Tuesday, August 21, 2018
 
 This privacy policy (this “Policy”) describes the collection of personal information by Leanplum, Inc., a Delaware corporation (“Leanplum,” “we,” or “us”) from users of our website at www.leanplum.com (the “Website”), as well as all software and other services provided by us via the Website or third party distributors (collectively, together with the Website, our “Service”). This Policy also describes our use and disclosure of that information. By using our Service, you consent to the collection, use, and disclosure of personal information in accordance with this Policy.  
   
@@ -78,7 +78,7 @@ Please be aware that if you opt-out of receiving commercial e-mail from us, it m
   
 **Access**  
   
-If we offer the ability to create user accounts or profiles on our Service, you have the right to access and update many categories of Personal Information that you provide to us by logging in to your account and accessing your account settings. If you wish to access or amend any other Personal Information we hold about you, you may contact us at privacy@leanplum.com or by the other methods described under “Contacting Us” below.  
+If we offer the ability to create user accounts or profiles on our Service, you have the right to access and update many categories of Personal Information that you provide to us by logging in to your account and accessing your account settings. If you wish to access or amend any other Personal Information we hold about you, you may contact us at privacy@leanplum.com, or visit our [Data Subject Access Request Portal](https://app.onetrust.com/app/#/webform/0754f27d-cf55-4148-84fd-1e9d90b6a2e6), or the other methods described under “Contacting Us” below.  
   
 If you request that we delete your account on any of our Service (via a user settings page, by e-mail, or otherwise), we will do so within a reasonable period of time, but we may need to retain some of your Personal Information in order to satisfy our legal obligations, or where we reasonably believe that we have a legitimate reason to do so.  
   
