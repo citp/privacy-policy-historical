@@ -1,26 +1,74 @@
-> *The following text is extracted and transformed from the turnpikeinfo.com privacy policy that was archived on 2017-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170403170258id_/https%3A//turnpikeinfo.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turnpikeinfo.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909060551id_/https%3A//turnpikeinfo.com/legal/privacy.php) for the most accurate reproduction.*
 
 # CURRENT PRIVACY POLICY - TURNPIKEINFO.COM
 
-## Privacy Policy
+### PRIVACY POLICY: UPDATED MAY 25, 2018
 
-## Privacy Policy: Updated August 31, 2016
-
-[VIEW THE PREVIOUS VERSION OF THIS PAGE](https://web.archive.org/web/20170403170258id_/https%3A//turnpikeinfo.com/legal/privacy-2015-07-17.php)
+[VIEW PREVIOUS VERSION OF THIS PAGE](https://web.archive.org/web/20180909060551id_/https%3A//turnpikeinfo.com/legal/privacy-2017-11-20.php)
 
 Welcome to this website, owned and operated by Turnpike Information Company ("TURNPIKE"), a wholly-owned subsidiary of Rodan Media Group Corporation ("RODAN"). Both companies are corporations organized under the laws of the state of Florida. Use of this website is subject the terms and conditions delineated herein. We strongly recommend you also read our [Terms Of Use](https://web.archive.org/legal/terms.php) and our [Refund Policy](https://web.archive.org/legal/refunds.php). 
 
 These conditions may be modified at any time, without prior notice to the user. It is your responsibility to check for modifications. By utilizing this website or ordering any products or services, you agree to the conditions outlined on these pages; if you do not agree to these conditions, you may not use this website.
 
-**OVERVIEW**
+**OVERVIEW AND LEGAL VENUE**
 
-We take your right to privacy seriously, and we want you to feel comfortable using this web site. This privacy policy deals with personally-identifiable information (referred to as "data" below) that may be collected by this site. This policy does not apply to other entities that are not owned or controlled by the site editor, nor does it apply to persons that are not employees or agents of the site editor, or that are not under the site editor's control. 
+We take your right to privacy seriously, and we want you to feel comfortable using this web site. This privacy policy deals with personally-identifiable information (referred to as "data" below) that may be collected by this site. This policy does not apply to other entities that are not owned or controlled by TURNPIKE, nor does it apply to persons that are not employees or agents of TURNPIKE, or that are not under the control of TURNPIKE.
+
+For transparency, third party entities that are used by TURNPIKE for the collection of data are named hereinbelow.
+
+Use of this website shall be governed by the laws of the United States of America, the state of Florida, where applicable, or any ordinances of Broward County or the city of Fort Lauderdale. Users making use of this site stipulate that any claim arising from the use of this site will be heard either in the 17th Judicial Circuit of the State of Florida, or the United States Circuit Court in the Southern District of Florida.
+
+**SUPPLEMENTAL HOTEL RESERVATIONS PRIVACY TERMS**
+
+Specific, supplemental privacy terms govern hotel reservations and lodging, as required by our third-party reservations partners. Please, be sure to review the [Hotels Privacy Policy](http://reserve.turnpikeinfo.com/hotels/help/privacy/?refid=5955) associated with hotel reservations booked through our network, as posted on http://reserve.turnpikeinfo.com. 
+
+If you are reserving a hotel through TURNPIKE, these supplemental privacy terms will apply to you, and they are to be taken in addition to the privacy terms delineated on this page.
 
 **INFORMATION WE GATHER FROM VISITORS**
 
-In common with other websites, log files are stored on a web server saving details such as the visitor's IP address, browser type, referring page and time of visit. Cookies may be used to remember visitor preferences when interacting with the website.
+At no time are any names, addresses, emails, telephone numbers or other, similar contact information gathered from users without direct user input and consent. When this information is gathered, it is entered manually by a user on a form. See the "Forms and Purchases" section below for clarification.
 
-Where email forms or puchase forms are used, the visitor's email and a username will be stored on a third-party web server leased by RODAN, as well as a a private system owned and operated by RODAN. Information contained on the any forms submitted through this website will be retained by RODAN and TURNPIKE, in perpetuity, for internal use and to consummate any purchase of goods or services.
+In common with other websites, we keep log files stored on the website's server saving details such as the visitor's IP address, the network used by the visitor, if provided by the network, the browser utilized, the device used, any referring page, the time of the visit, and the pages visited. 
+
+Third-party analytics are used to record pages visited by users, where those users are located and what devices and browsers are being used. These third-party analytics may gather additional information about presumptive age, gender, income, marital status, ethnicity, nationality and other demographic data used to analyze and quantify visitor behavior and trends. 
+
+TURNPIKE uses [Google Analytics](https://policies.google.com/technologies/partner-sites), [Quantcast](https://www.quantcast.com/privacy/) and [Alexa](https://www.alexa.com/help/privacy). Data from these third-party analytics are kept on third-party servers that are not under the control of TURNPIKE. However, TURNPIKE does maintain copies of much of this analytics data at its media offices in Fort Lauderdale, Florida.
+
+**COOKIES**
+
+Cookies are digital signature files that are stored by your web browser to allow your preferences to be recorded when visiting the website. Also they may be used to track your return visits to the website. You may be able to block cookies via your browser settings, but this may prevent you from access to certain features of the website. 
+
+Third-party advertising companies and analytics sites may also use cookies for tracking purposes.
+
+It is these cookies that store the data gathered, either by TURNPIKE or third parties.
+
+All the cookies that are utilized by TURNPIKE or by third-parties may be deleted by removing same from each browser on each device used to visit the website. 
+
+Generally, browsers make the removal of recent browsing history possible via a menu option. Refer to instructions or the help guide from your browser or device in order to facilitate the process of removing cookies.
+
+**WHY DOES TURNPIKEINFO.COM NEED THIS DATA?**
+
+TURNPIKE uses this data in order to understand how users utilize and interact with the content and data on the website. Knowing the type of content our visitors use, and understanding how users in different regions make use of that data, provides TURNPIKE the information required to concentrate development on areas of greatest consumer and user interest and demand. By knowing which devices and browsers our visitors use most, we can maintain compatibility requirements to serve properly the content delivered by the website.
+
+Cookies may be used to remember visitor preferences when interacting with the website. These cookies may include form data previously entered by the user for email communications or to consummate a sale, or it may include, inter alia, data about the user's most recent visit to the website. 
+
+Data about a visitor session, such as the most recent state or state and roadway visited, are stored in temporary session cookies that generally expire within sixty minutes. These data only keep information about the most recent state or state and road viewed, and only for the purpose of resuming a website visit. 
+
+Some cookies are used by third-party analytics in order to track visitor trends. 
+
+**ADVERTISER NETWORKS**
+
+Third-party advertisers, served via the AdSense ad network, make use of data gathered via cookies utilized by AdSense and its partners for the personalization of advertising. These personalized ads may be served to North American visitors, particularly in the United States.
+
+Non-personalized advertising is served to visitors in many countries outside the United States, as TURNPIKE does not presently cover toll roads or issues outside of North America. 
+
+**FORMS AND PURCHASES**
+
+Where email forms or puchase forms are used, the information provided voluntarily by the visitor may be stored in a database on the server utilized by TURNPIKE. This is particularly true when a sale is consummated. This data is maintained in perpetuity, either in said database, which is located on a web server, or in the form of digital backup or a SQL archive file, both of which may be maintained in digital format at our media offices in Fort Lauderdale, Florida.
+
+Emails sent to TURNPIKE, either via the visitor email form on the /contact.php page, or via order notifications triggered by the order form pages at /orders/order-form.php, are maintained by TURNPIKE on its own servers as well as a third-party email server used by TURNPIKE. 
+
+Information contained on the any forms submitted through this website will be retained by RODAN and TURNPIKE, in perpetuity, for internal use and to consummate any purchase of goods or services.
 
 This information we save does not include any payment information on the part of the user, even when a purchase is made. All payment information is encrypted and sent to our payment processors, either Stripe, Paypal or other third-party vendor as may be used, from time to time.
 
@@ -32,25 +80,25 @@ No information provided by the user will ever be sold or otherwise conveyed to a
 
 At any time you initiate communication with TURNPIKE or RODAN, including for the purchase of any goods or services, we may send email to you, directly, in resonse to your email to us. We may further send emails to you to inform you of news of our services or offers by us or our affiliates, only when you have previously sent communications to us. At any time you wish to opt-out of receiving emails from TURNPIKE or RODAN, simply reply to our communications with "REMOVE" or "UNSUBSCRIBE" in the subject line, and you will be taken off our list email recipients. 
 
-Even under conditions where an request to opt-out has been received, any further communication by you or a purchase of a product or service by you, through this website, may result in new communications from us.
+Even under conditions where an request to opt-out has been received, any further communication by you or a purchase of a product or service by you, through this website, may result in new communications from us. 
 
-**WEBSITE ANALYTICS**
+**WHERE IS COLLECTED DATA PRESERVED?**
 
-TURNPIKE and RODAN utilize third-party analytics companies to help track website visits. Additionally, a server-based program, deployed on RODAN's server, also used to track visits. Third-party analytics companies are used in order to provide a full range of industry-recognized quantification data that may be used to customize advertising settings and content delivery.
+Data gathered by TURNPIKE, and third-party analytics data that TURNPIKE may preserve, are maintained either on its web servers or at its Fort Lauderdale, Florida media offices or at a third-party storage facility used by TURNPIKE for storage and archive purposes.
 
-**HOW INFORMATION IS USED**
+In the case of data collected by the TURNPIKE web server, not by third-party analytics, these data are maintained on the server, in perpetuity, and may, from time to time, be copied and preserved by TURNPIKE to its local offices.
 
-The information gathered on this website is used to enhance the vistor's experience when using the website to display personalized content and advertising. This may include gathering specific information about the type of device used to access the website, in order to provide options about viewing the full website design or an alternate website design specifically constructed to accommodate the screen sizes and data bandwidth restrictions common to mobile devices. 
+In the case of data that is copied from TURNPIKE's server or from third-party analytics sources, data are stored either at the Fort Lauderdale media office or on digital storage devices that are preserved in a climate-controlled storage facility in Fort Lauderdale, Florida.
 
-**COOKIES**
+No data collected by third-party advertisers networks is maintained by TURNPIKE.
 
-Cookies are digital signature files that are stored by your web browser to allow your preferences to be recorded when visiting the website. Also they may be used to track your return visits to the website. You may be able to block cookies via your browser settings, but this may prevent you from access to certain features of the website. 
+**WHO HAS ACCESS TO THE DATA?**
 
-Third-party advertising companies and analytics sites may also use cookies for tracking purposes.
+In the case of data preserved by TURNPIKE, only TURNPIKE has access to the data. Data are not shared with any third party, except in circumstances where TURNPIKE is required to share data by law, such as a bona fide law-enforcement request, a subpoena, either local, state or federal, criminal or civil. 
 
 **CONTACT INFORMATION**
 
-If you have any questions regarding the policies and terms on this website, please contact the duly appointed registered agent of RODAN at [rodan@rodanmedia.net](mailto:rodan@rodanmedia.net). 
+If you have any questions regarding the policies and terms on this website, please contact the duly appointed registered agent of RODAN at [drg@rodanmedia.net](mailto:drg@rodanmedia.net). 
 
 You may also send written communications to the following address:
 
@@ -63,7 +111,3 @@ Fifth Floor Suite 507
 200 SE 6th Street 
 
 Fort Lauderdale, FL 33301
-
-**SUPPLEMENTAL/ADDITIONAL PRIVACY TERMS**
-
-Additional privacy terms govern hotel reservations and lodging. Please, be sure to review the [privacy policy](http://reserve.turnpikeinfo.com/hotels/help/privacy/?refid=5955) associated with hotel reservations.
