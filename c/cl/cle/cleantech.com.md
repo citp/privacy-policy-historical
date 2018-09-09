@@ -1,45 +1,96 @@
-> *The following text is extracted and transformed from the cleantech.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175715id_/http%3A//www.cleantech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleantech.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909032458id_/https%3A//www.cleantech.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cleantech Group
 
-Cleantech Group – (“us,” “we” “our” or “Cleantech”) created this Web Site Privacy Policy (“Privacy Policy”) in order to ensure the confidence of visitors and customers (“you” or “your”) of and to our Web site (the “Site”), and to demonstrate our commitment to fair information practices and the protection of privacy.
+**PRIVACY AND PERSONAL DATA**
 
-1\. Types of Information Collected
+The guidelines below detail the data protection policy of Cleantech Group regarding personal data.
 
-a. Traffic Data Collected. We automatically track and collect the following information when you visit our Site, including your: (i) IP address; (ii) domain server; (iii) type of computer; and (iv) type of web browser (collectively “Traffic Data”). Traffic Data is anonymous information that does not personally identify you but is helpful for marketing purposes or for improving your experience on the Site. We also use “cookies” to customize content specific to your interests, to ensure that you do not see the same advertisement repeatedly and to store your password so you do not have to re-enter it each time you visit the Site.
+Cleantech Group strives for transparency and takes very seriously the confidentiality of personal information and data provided by you.
 
-b. Personal Information Collected. In order for you to access certain premium services and to purchase products that we offer via the Site, we require you to provide us with information that personally identifies you (“Personal Information”). Personal Information may include: (i) Contact Data (such as your name, mailing and e-mail addresses); (ii) Financial Data (such as your account or credit card number); and (iii) Demographic Data (such as your zip code, age and income). If you communicate with us by e-mail, post messages to any of our chat groups, bulletin boards or forums, or otherwise complete online forms, surveys or contest entries, any information provided in such communication may be collected as Personal Information.
+By providing your personal information and data, you consent to the use, analysis and, where applicable, disclosure of such information by us according to the terms and conditions described herewith.
 
-2\. Uses of Information Collected
+  1. GENERAL INFORMATION
 
-We use Contact Data to send you information about our company or our products or services, or promotional material from some of our partners, or to contact you when necessary. We use your Financial Data to verify your qualifications for certain products or services and to bill you for products and services. We use your Demographic Data to customize and tailor your experience on the Site, displaying content that we think you might be interest in and according to your preferences.
 
-3\. Sharing of Personal Information
 
-We share Demographic Data with advertisers and other third parties only on an aggregate basis. We may share Contact Data with other companies who may want to send you information about their products or services. If you do not want us to share your Contact Data with any third parties, please email us at <website@cleantech.com>.
+Cleantech Group may collect personal data via its website from, among other things, requests to create a user account or requests to subscribe to our newsletter and other mailings. Cleantech Group will also collect personal information if you subscribe to our premium services, or if you register for Cleantech Group events.
 
-4\. User Choice Regarding Collection, Use and Distribution of Personal Information
+If you communicate with us by phone, email, post messages to any of our social media groups, forums, or otherwise complete online forms, surveys or contest entries, any information provided in such communication may be collected as Personal Information.
 
-You may choose not to provide us with any Personal Information. In such an event, you can still access and use much of the Site; however you will not be able to access and use those portions of the Site that require your Personal Information. If you do not wish to receive information and promotional material from us or from some of our partners please email us at <website@cleantech.com>.
+Personal Information may include: (1) Contact Data (such as your name, company name, title, phone number, mailing and email addresses); (2) Traffic Data (such as your IP address, domain server, type of computer, type of web browser, search history and page view history).
 
-5\. Confidentiality and Security of Personal Information
+All personal data that you are transmitting to Cleantech Group for the benefit of services provided in this website will be treated according to the [Online Privacy Protection Act of 2003 – Online Privacy Protection Act of 2003 – California Business and Professions Code sections 22575-22579](http://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=BPC&division=8.&title=&part=&chapter=22.&article=) and [The General Data Protection Regulation (“GDPR”) effective from May 25, 2018](https://www.eugdpr.org/the-regulation.html).
 
-Except as otherwise noted in this Privacy Policy, we will keep your Personal Information private and will not share it with third parties, unless such disclosure is necessary to: (a) comply with a court order or other legas process; (b) protect our rights or property; or (c) enforce our Terms of Service. Your Personal Information is stored on secure servers that are not accessible by third parties. We provide you with the capability to transmit your Personal Information via secured and encrypted channels if you use a similarly equipped web browser.
+  2. RIGHT TO ACCESS, CORRECT AND DELETE DATA AND TO OBJECT TO DATA PROCESSING
 
-6\. User Ability to Access, Update and Correct Personal Information
 
-In order to ensure that all of your personal information is correct and up-to-date, at any time you may visit your personal profile on our Site. Through your personal profile you may review and update your Personal Information that we have already collected.
 
-7\. Lost or Stolen Information
+All mailings from us will provide a link to allow you to unsubscribe.
 
-You must promptly notify us if your credit card, user name or password is lost, stolen or used without permission. In such an event, we will cancel that credit card number, username or password and update our records accordingly.
+Beyond unsubscribing, you are also entitled to access, correct and delete personal data which relates to you, and to object to the processing of such data. You may exercise this right at any time by contacting us via the following methods:
 
-8\. Other Limits to Your Privacy
+  * Complete our [contact form](http://info.cleantech.com/ContactUs.html) on our website
+  * Send an email to: [helpdesk@cleantech.com](mailto:helpdesk@cleantech.com)
+  * Write to: Cleantech Group, 1714 Franklin St, 100-286, Oakland CA 94612, United States
 
-The Site contains links to other Web sites. We are not responsible for the privacy practices or the content of such Web sites. Please understand that any information that is disclosed in these areas becomes public information. We have no control over its use and you should exercise caution when deciding to disclose your Personal Information.
 
-9\. Updates and Changes to Privacy Policy
+  3. MANAGEMENT OF PERSONAL DATA BY THE COMPANY
 
-We reserve the right, at any time and without notice, to add to, change, update or modify this Privacy Policy, simply by posting such change, update or modification on the Site. Any such change, update or modification will be effective immediately upon posting on the Site.
 
-*NOTE: This Privacy Policy is innapplicable to any commercial web site directed to, or that knowingly collects information from, children under age 13.
+
+3.1 Purpose of data collection
+
+Cleantech Group collects your personal data via its website for the following purposes only:
+
+  * managing subscriptions to our research services, our newsletter and press releases
+  * managing attendance at and/or participation in our international events series
+  * sending documents requested via the website
+  * sending periodic notifications of our events series and releases of our research, and occasional promotional materials of relevance, given your past interactions with us
+  * billing and account management
+
+
+
+3.2 Retention of data
+
+We retain data collected for the purposes of managing premium subscriptions and active user accounts for a minimum of the term of service. Otherwise, data may be retained indefinitely unless you request that we delete it. Once we receive a data deletion request, we will undertake to delete all data within one week of the request.
+
+3.3 Data recipients
+
+Cleantech Group is the recipient of the data. We have security and privacy measures in place to ensure an adequate level of data protection. We do not in the normal course of business share your data with third parties. Cleantech Group will only send your personal data to a third party if:
+
+  * you have given us your prior approval to share such information,
+  * Cleantech Group must share such information with third parties to provide a service you have requested, or
+  * Cleantech Group is required by a judicial authority or any other administrative authority to provide such information.
+
+
+
+3.4 Data security and privacy
+
+Cleantech Group has made every effort to put in place suitable precautions to safeguard the security and privacy of personal data, and to prevent it from being altered, corrupted, destroyed or accessed by unauthorized third parties.
+
+However, the company does not control every risk related to the use of the Internet, and therefore warns visitors of the potential risks involved in the functioning and use of the Internet.
+
+  4. COOKIES
+
+
+
+When you visit our company website, a cookie may be automatically installed and temporarily saved in your computer’s memory or on its hard disk to make it easier for you to navigate around our site and to save your password. Cookies do not enable us to identify you, but are used to record information about the pages you have viewed on our website, the date and time of your visit to the site, etc.
+
+You can disable cookies in your web browser. However, this will disable all cookies used by your browser, including those from other websites, which may cause certain settings or information to be altered or lost. Disabling cookies may change your browsing experience on our website or may make navigating around the site more difficult.
+
+  5. HOW WE RESPOND TO DO NOT TRACK SIGNALS (DNT)
+
+
+
+This site does not respond to DNT signals. If we are providing services to you, such as subscriptions or user accounts, we will track page views and sign-in logs for purposes of providing and improving our services. Clients or account holders who opt in to our services agree to this per this policy.
+
+Some third-party sites accessed through our site will also track your browsing activities when they serve you content. If you are visiting such sites, your browser may allow you to set the DNT signal on your browser so that third parties (particularly advertisers) know you do not want to be tracked.
+
+  6. CHANGES TO DATA PROTECTION POLICY
+
+
+
+Cleantech Group may make changes to its Data Protection Policy at any time, and you will be notified if and when this occurs.
+
+Date: May 11, 2018
