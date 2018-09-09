@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshpreserving.com privacy policy that was archived on 2018-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180114233839id_/https%3A//www.freshpreserving.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshpreserving.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909070035id_/https%3A//www.freshpreserving.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,10 +9,6 @@ This policy is intended to help you understand how Newell Brands Inc., its subsi
 ## **Collection of Personal Information**
 
 If you browse any Newell Brands website, you may generally do so anonymously without providing any personal information. However, there are cases in which we may ask you for personal data. For example, we will occasionally conduct on-line surveys to better understand the needs and profile of our visitors. In addition, we may request personal information when you register to receive additional information regarding our products and services, download software, sign up for a newsletter or send us a question. In such cases, the personal information we request will typically consist of: your title, first and last name, mailing address and email address, as well as certain billing and credit card information for purposes of effecting payments. Additionally, we may provide you with the option of submitting information such as your birthday, anniversary date, information regarding the size and composition of your household and your preferred retailers, all of which are intended to enhance your experience, and inform you, of our product and service offerings Even if you choose not to give information we request, you can still visit most of the Newell Brands website, but you may be unable to access certain options, offers and services.
-
-## **Orders**
-
-As noted above, when you place an order for a product or service, we need to know your name, e-mail address, mailing address, credit card number and expiration date. This personal information is required so that we can process and fulfill your order, send an order or shipping confirmation, as well as notify you of your order status. All Internet transactions with Newell Brands are performed on a secure server that encrypts your credit card information to ensure it is not read by unauthorized third parties.
 
 ## **Newell Brands Mailings/Marketing Communications**
 
