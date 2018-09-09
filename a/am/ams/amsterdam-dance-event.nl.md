@@ -1,101 +1,194 @@
-> *The following text is extracted and transformed from the amsterdam-dance-event.nl privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018234443id_/http%3A//www.amsterdam-dance-event.nl/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amsterdam-dance-event.nl privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909052951id_/https%3A//www.amsterdam-dance-event.nl/privacy) for the most accurate reproduction.*
 
-# Privacy policy - Amsterdam Dance Event 2014
+# Privacy policy - Amsterdam Dance Event
 
-## Article 1 Definitions
+## INTRODUCTION
 
-**ADE Foundation:** Stichting Amsterdam Dance Event, a foundation with full legal capacity, having its registered office and its offices in (1213 BA) Hilversum at Nassaulaan 25, which foundation organises the annual Amsterdam Dance Event, and also, where appropriate, the relevant organisation (or organisations) that is (or are) affiliated to ADE Foundation.  
-Amsterdam Dance Event: the annual five-day Amsterdam Dance Event organised by ADE Foundation. The Amsterdam Dance Event is an international platform that consists of various programme components (hereinafter: Events) in the context of a business conference (hereinafter: Conference), a platform for brand activation (hereinafter: Playground) and a festival (indoor festival) (hereinafter: the Festival) that features electronic music.  
-Visitor: any natural person that is not acting in the course of a profession or business, or a Delegate, that is attending an Event and/or visiting the Website(s).  
-Delegate: a natural person that is attending the conference as a professional visitor of the Amsterdam Dance Event and who has registered with the ADE Foundation as such.  
-Promoter: the natural person or organisation that produces and/or organises an Event or instructs the production and/or organisation of an Event and is responsible for the said Event.  
-Website(s): the website(s) operated by ADE Foundation and/or the organisation(s) affiliated to it, including but not limited to www.amsterdam-dance-event.nl, and the ADE Foundation apps linked to the said website(s). 
+In this Privacy Statement, we aim to inform you as comprehensible and complete as possible about the way in which we may collect and use your (personal) data. 
 
-## Article 2 Processing of personal data and the identity of ADE Foundation
+We are Stichting Amsterdam Dance Event, a foundation with full legal capacity, having its registered office in (2132 HB) Hoofddorp at Saturnusstraat 46 and registered with the chamber of commerce under KvK number 34292016 (in the following referred to as: ‘the ADE Foundation’). You can reach us at the aforementioned address or by email at info@amsterdam-dance-event.nl or in case of specific privacy issues at privacy@amsterdam-dance-event.nl. 
 
-**2.1** Please note that the processing of personal data is subject to international law, as stated in the Personal Data Protection Act (Wet bescherming persoonsgegevens). The creation, by any third party, of any list of addresses, whether computerized or otherwise, from the information provided in the ADE database(s), for promotional or commercial purposes, may only be done with the prior (written) authorization of ADE Foundation.  
-**2.2** It is very important to ADE Foundation that the data obtained from its Visitors are used in a responsible manner. As such, ADE Foundation processes and protects personal data carefully and with due observance of the relevant provisions of the Personal Data Protection Act (Wet bescherming persoonsgegevens). In this Privacy Statement, information shall be provided about the collection and processing of personal data by or on behalf of ADE Foundation. This Privacy Statement shall relate to the use that ADE Foundation can make of the personal data belonging to Visitors to its Website(s) and/or to the Events that form part of the Amsterdam Dance Event and that have registered via the Website(s), which data ADE Foundation shall either use itself or instruct third parties to use.   
-**2.3** ADE Foundation has its registered office at Nassaulaan 25 (1213 BA) in Hilversum. It is registered with the chamber of commerce under KvK number 34292016. ADE Foundation can be contacted via the following e-mail address: info@amsterdam-dance-event.nl.   
-**2.4** It is not compulsory to provide personal data. However, it shall be necessary to provide a number of pieces of personal data before it will be possible to use some services. 
+We organize the annual Amsterdam Dance Event, an international platform combining a business conference, a platform for brand activation and a(n) (indoor) festival consisting of events featuring electronic music (‘the ADE’), in part through our website(s), including but not limited to www.amsterdam-dance-event.nl, and/or the website(s) (of organization(s)) affiliated to our website(s) (the ‘Website(s)), web interfaces on our own and/or affiliated website(s) and our own social media pages and/or those of companies we work together with for the purpose of organizing the ADE (our ‘Partner Companies’), where our visitors to the business conference (‘Delegates’) and visitors to the festival (‘Visitors’) can directly make agreements or bookings, and the ADE Foundation apps linked to the Website(s) (together referred to as: the ‘Platform’). 
 
-## Article 3 Which data does ADE Foundation collect?
+For the purpose of organizing the ADE, we may use (some of) the personal data of Visitors and/or and Delegates. 
 
-**3.1** Visitors that wish to take part in the Amsterdam Dance Event are asked to register with ADE Foundation. When doing this, ADE Foundation may ask Visitors for the following data (hereinafter: Registration Data):
+It is very important to us that data obtained from our visitors is used in a responsible manner. As such, we process and protect your personal data carefully and in compliance with the relevant provisions of the European General Data Protection Regulation (GDPR). 
 
-  * \- Name;
-  * \- Gender;
-  * \- E-mail address;
-  * \- Telephone number;
-  * \- Occupation;
-  * \- Address;
-  * \- Log-in name and password;
-  * \- Company data, including company name, country, address, city, postcode, telephone number and company e-mail address;
-  * \- Data about social network profiles and online media, including website(s) such as LinkedIn, Twitter, Facebook, SoundCloud and Instagram.
+It is not compulsory to provide personal data to make use of the Platform. However, for some of our services it might be necessary to provide certain personal data. 
+
+## 1\. The data we use
+
+We may collect and/or use the following data of visitors to the ADE, the Website(s) and/or other parts of the Platform: 
+
+‘Registration Data’ 
+
+  * Data you have provided to us yourself when:
+    * registering with us for an account, such as your name, gender, email and home address, place and date of birth, log-in name, password, profile picture and IP-address and/or data about your social network profiles, including website(s) such as LinkedIn, Twitter, Facebook, Spotify, SoundCloud and Instagram;
+    * purchasing products, such as your name, gender, email and home address, place and date of birth, log-in name, password, profile picture, IP-address and payment details; 
+    * registering for specific services (for instance to perform at the ADE), such as your name, gender, email and home address, place and date of birth, log-in name, password, profile picture and IP-address; and/or
+    * registering for newsletters, such as name, gender, email and home address, place and date of birth, log-in name, password and IP-address.
 
 
 
-**3.2** ADE Foundation shall also be able to obtain venue data from Visitors, which data pertain to the event venues that the Visitor has visited in relation to the Amsterdam Dance Event (hereinafter: Venue Data). ADE Foundation may obtain these Venue Data when the Visitor checks in using a wrist band containing an electronic chip when visiting the event venues in question. In principle, these data shall only be processed in an anonymised form for the purpose of statistics and the improvement of service provision by ADE Foundation. These data may only be processed and used in a non-anonymised form too with the explicit, prior permission of the Visitor.   
-**3.3** ADE Foundation shall also be able to obtain data about the interests, buying behaviour or wishes of Visitors (hereinafter: Commercial Data). ADE Foundation may obtain these data when a Visitor notifies it of them. However, it may also obtain data of this nature if the Visitor offers it access to the said data – via Facebook, for example – or because it has been able to deduce these Commercial Data from the way in which the Visitor uses the Website(s) (and apps) or from the fact that the Visitor has made purchases elsewhere, via third parties, that ensue from his use of the Website(s) (and apps). The ADE Foundation servers shall also automatically record the surf data of the Visitor, such as the IP address, the time of the visit, the browser type and which functionalities are used (hereinafter: Surf Data). ADE Foundation shall be able to exchange these Commercial Data with its own partners or group companies and shall be able to use the Commercial Data and Surf Data relating to the various products and services that the Visitor buys to create a profile. It shall only be able to process and use these Commercial Data and Surf Data in a non-anonymised form too if the Visitor grants his explicit, prior permission for ADE Foundation to do so. Should the Visitor object to the further processing of Commercial Data and Surf Data, he shall be required to immediately notify ADE Foundation of this via privacy@amsterdam-dance-event.nl. 
+Delegates may be asked to provide further information such as occupation, phone number, company data including company name, phone number, picture and address. We primarily use your Registration Data to carry out our agreement with you as best as we can or for the purposes of our internal administration. 
 
-## Article 4 For which purposes are data processed?
+‘External Data’ 
 
-**4.1** Initially, ADE Foundation uses personal data to make it possible to perform the agreement it enters into with the Visitor as well as possible and also for the purposes of its internal administration.   
-**4.2** Name and address data are used to make it possible to deliver the products ordered on the Website(s) to the correct person, to make it possible to verify – via registration – who is entitled to tickets that have been ordered and to the wrist bands to be provided to the holders of tickets. Added to this, by registering the Visitor and linking tickets to a particular Visitor, a situation is avoided in which tickets can be sold by or for the Visitor.   
-**4.3** Registration Data for the Visitor can be used to create an account on the Website(s) operated by ADE Foundation. Only Delegates shall be able to view the account and corresponding registration data for other Delegates on the Website(s). This facility is offered to Delegates because it is useful for them to know which other Delegates will be attending, because of which they are able to optimise their participation in the Conference as much as possible, by networking and making new business contacts, for instance. Unequivocal permission shall always be requested before proceeding to publish a personal e-mail address or telephone number.   
-**4.4** The Registration Data of Delegates may also be published in a guide, so that the other Delegates know who will be attending and/or have attended the Conference, because of which they are able to optimise their participation in the Conference as much as possible, by networking and making new business contacts, for instance. Unequivocal permission shall always be requested before proceeding to publish a personal e-mail address or telephone number.   
-**4.5** The Venue Data of Visitors shall only be used internally and in an anonymised form with the object of gaining an insight into visitor numbers. This enables ADE Foundation to improve its service provision, as these data show which Events have been popular and which not and also make it possible to interface with the evident needs and wishes of Visitors in the future. In this way, ADE Foundation is also able to check whether the parties that organise different components of the Amsterdam Dance Event do actually meet their obligation to allow the agreed minimum number of Visitors entry to the component in question. These Venue Data may only be used in a non-anonymised form too if the Visitor grants his explicit permission for ADE Foundation to do so.   
-**4.6** From time to time, ADE Foundation may use the Registration Data to contact Visitors for the purpose of market research.   
-**4.7** Except where necessary for performance of the agreement entered into with the Visitor – to deliver products or tickets, for example – personal data shall never be passed on to third parties without the explicit permission of the Visitor.   
-**4.8** ADE Foundation shall only use Registration Data, Venue Data, Commercial Data and/or Surf Data for the following purposes with the explicit and unequivocal permission of the Visitor and provided this permission has not been withdrawn via privacy@amsterdam-dance-event.nl: (i) to be able to offer, deliver and invoice agreed products, services and/or information (or have the aforementioned offered, delivered and invoiced) on the basis of these data and also to be able to modify products, services and/or information or offers of this nature (or instruct the aforementioned) in line with the needs and wishes of the Visitor and, should the Visitor wish this to happen, to give ADE Foundation the opportunity to exchange information (or cause information to be exchanged) with others, (ii) to be able to make (targeted) offers via advertising, e-mail and/or social media networks and to keep the Visitor up-to-date on the latest news and/or updates and/or service announcements, (iii) to be able to maintain and/or improve the Website(s) from a technical point of view, (iv) to be able to comply with legislation and regulations and identify fraud, theft or misuse, (v) to be able to lease data in an electronic form to carefully selected third parties that are able to offer products or services, (vi) to be able to do market research, (vii) to be able to prepare analyses of the visit to and use and purchase of products and services, (viii) to establish a strategy for the future, (ix) to be able to receive data pertaining to buying behaviour via/from third parties, such as affiliate marketeers, if a purchase elsewhere ensues from the use of the Website(s) (and apps), (x) to be able to update the personal profile of the Visitor, and (xi) to enable the Visitor to take part in special commercial or sales promotion campaigns by third parties that have been carefully selected by ADE Foundation. If the Visitor buys elsewhere and provides data to the selling party or intermediary when doing so, ADE Foundation shall not have any influence on what this party or intermediary might do with the said data. The privacy policy and terms and conditions stipulated by the said party or intermediary may apply to data processing of this nature. The party or intermediary in question shall have independent responsibility for the use and provision of data that are used in this manner. 
+  * Data which we have access to through:
+    * our Partners (companies we have agreements with to provide you certain services, like Booking.com or KLM), which you have provided them in order to make use of their services;
+    * our Promoters (companies that organize an event that is part of the ADE festival and are responsible for the said event), but only in case you have provided them with such data in order to make use of their services;
+    * and/or Third Parties (companies that provide certain online services through the Platform, such as Spotify, YouTube, Xaton, Paylogic or Facebook), upon providing them with your data and after registering with us through their (website(s) or app(s)) or when you make a payment for a purchase on the Platform.
 
-## Article 5 Social media networks
 
-**5.1 Using a wrist band, the Venue Data applicable for a Visitor can be linked to his profile on a selected social media network. These Venue Data may only be used on the social media network in question, via ADE Foundation, if the Visitor explicitly agrees to this by using this functionality. The way in which information will be disclosed shall depend on the privacy settings applicable for the profile of the Visitor in question.  
- **5.2 The social media networks in question shall have independent responsibility for the use of data and the provision of data that are used in this way. The said social media networks shall be responsible for this use, which responsibility shall include cookies that the social media networks could use for this purpose, for example, and their privacy statements and conditions shall apply.
 
-##  Article 6 Cookies and surf data
+‘Venue Data’ 
 
-  
-**6.1 ADE Foundation shall be able to collect information about the surf behaviour of Visitors that is generated automatically. These Surf Data shall include the IP address and cookies. The servers for ADE Foundation shall also automatically record certain data, such as the URL, IP address, browser type, language and the date and time of the visit to the Website(s) operated by ADE Foundation. ADE Foundation shall be able to save these Surf Data and use them to produce a statistical analysis of visits to its Website(s) and of the use of its Website(s) and also to optimise the said Website(s). ADE Foundation shall anonymise Surf Data (if possible).  
- **6.2 To ensure that the Website(s) are working properly, ADE Foundation shall be entitled, just as most websites are, to use cookies to obtain information that will make it easier for the Visitor to navigate the Website(s). These cookies are small text files that are saved on the computer of the Visitor to the Website(s) and that contain the data necessary to ensure that the visit to the Website(s) is as positive and effective as possible. This could include remembering the personal settings of the Visitor, including language settings and his preference for mobile or desktop, the contents of a shopping basket and/or remembering that a Visitor is logged in and logging in the Visitor again automatically. These cookies can be sent via the settings used for the web browser.  
- **6.3 Added to the above, ADE Foundation uses Google Analytics to gain an insight into how its Website(s) is (or are) used. This information (including IP address) shall only be provided to Google when wanting to use the Google statistics program. Google shall only be able to provide this information to third parties if it is obliged to do so by law or if this is necessary to make it possible to offer the service (the statistics program) to ADE Foundation. Cookies are also used on the Website(s) in relation to Google Analytics. ADE Foundation does not have any influence on what Google does with the statistical information obtained in this way.  
- **6.4 Added to the above, cookies can be placed via the Website(s) and then read by Facebook and Twitter. ADE Foundation does not have any influence on the use of these data by these parties. Facebook and Twitter are responsible for this type of cookie use and their privacy statements and conditions shall apply in this situation too.
+  * Data we have collected about which venues and corresponding performances you visited during the ADE. We collect these Venue Data when you check into a venue taking part in the ADE using a wristband containing an electronic chip.
 
-##  Article 7 Transfer to third parties
 
-  
-**7.1 ADE Foundation shall only transfer (personal) data about Visitors to third parties if the Visitor has given his explicit and unequivocal permission for ADE Foundation to do so and this permission has not been withdrawn via privacy@amsterdam-dance-event.nl.  
- **7.2 By agreeing to this Privacy Statement, the Visitor is giving ADE Foundation his explicit and unequivocal permission to provide his Registration Data, Venue Data, Commercial Data and/or Surf Data to third parties that ADE Foundation has selected carefully, which parties shall be directly involved with the Website(s) and the Amsterdam Dance Event, including Promoters, and only insofar as this is necessary in connection with the purposes referred to above, including commercial purposes.  
- **7.3 ADE Foundation shall only be able to use and/or transfer Registration Data, Venue Data, Commercial Data and/or Surf Data to Promoters that it has selected carefully and that organise Events that form part of the Amsterdam Dance and also third parties taking part in Playground if a Visitor has given his explicit and unequivocal permission for ADE Foundation to do so and this permission has not been withdrawn via privacy@amsterdam-dance-event.nl. By doing this, the said carefully selected Promoters and third parties shall be able to send the Visitor information and offers about their products and services.  
- **7.4 ADE Foundation shall be able to provide data relating to a Visitor to a third party without the specific permission of the said Visitor where required to do so in a lawful request to do so from authorities, further to a summons or a court order, as part of actions to identify or avoid loss or fraud, theft or misuse, or acts to guarantee the safety of the network and the services provided by ADE Foundation.  
- **7.5 Because ADE Foundation uses processors that deliver products or services on the instructions of ADE Foundation as part of its service provision and performance of the delivery obligation involves the use of the personal data belonging to Visitors (except where indicated otherwise), ADE Foundation shall also be able to provide the said personal data to these processors, solely where necessary for the said delivery obligation.  
- **7.6 Finally, ADE Foundation shall be able to share certain anonymised data with third parties, such as the number of Visitors that use certain parts of the Website(s) and/or visited certain Events that form part of the Amsterdam Dance Event. The third parties in question shall not be able to identify the Visitor on the basis of these data.
 
-##  Article 8 Minors
+‘Commercial Data’ 
+
+  * Data we have collected and compiled about your online interests and buying behavior, which we will only use as anonymized data, except if you have given us permission to use it without anonymizing.
+
+
+
+‘Surf Data’ 
+
+  * Data we collect about your surfing behavior:
+    * on our Platform, such as your type of account and IP-address, the time of your visit and/or services you have used on or through the Platform
+    * technical information, such as your browser type and which functionalities you use which we only use anonymously or after having received your explicit permission. Part of Surf Data are cookies, which are discussed in a little more detail below.
+
+
+
+Furthermore, we may use anonymized and combined data for various purposes, such as testing of our IT systems, research, data analyses, development of marketing and promotional models and new and improved appliances and services. 
+
+## 2\. How we use your data
 
   
-If a Visitor has not reached the age of 16 yet, his parents or legal representatives must be aware of this Privacy Statement before the Visitor will be able to register to use the Website(s). 
 
-##  Article 9 Retention period
+
+  * Registration and use of account
+    * To create an account on the Platform, and to offer, deliver and invoice the products and/or services you order on our Platform through this account, we will use your Registration Data and/or External Data if you register through one of our Third Parties.
+    * Upon registration with us, or if you have pre-registered, we will send you a welcoming email.
+    * Furthermore, we will use your Registration Data and your Surf Data (such as user cookies) to verify that you are the same user who purchased certain products and/or services on the Platform, for example tickets, wrist bands and merchandise.
+    * Only when you are registered as a Delegate, some of your Registration Data may become visible to other Delegates, in their accounts or in a physical guide. This is only possible for Delegates and is part of our agreement with Delegates to offer the
+full experience of a delegate ticket: to know which other Delegates will be attending in order to optimize their participation in the Conference by, for instance, networking and making new business contacts. Any other information besides your name, such as your e-mail address or telephone number, will only be made visible if you have given us permission to do so and as long as you have not withdrawn your permission. 
+    * We collect External Data when you register through one of our Third Parties. We may use such External Data to adapt and be able to provide services adjusted to your tastes and interests.
+    * On the Platform you also have the possibility to register for services from our Partners. In case you do so, we will not collect or use such External Data. It will be provided directly to those Partners and their privacy policy applies to further use they make thereof. We will make sure it is always clear to you when you are providing your data to such Partners. We will, however, collect Surf Data and Commercial Data about the interaction you have with our Partners in order to adjust and optimize our services to your interests in the future.
+    * We may collect your Registration Data, Venue Data, Commercial Data and/or Surf Data to analyze the way in which you visit and use the Platform and purchase our products and services, or to make an anonymous profile of your interests and behavior, including the way in which you interact on various parts of the Platform such as purchase of products through us or our Partners or Third Parties.
+    * From time to time, we may use the Registration Data to contact you for the purpose of market research.
+
+
+
+The legal ground for the use of your data in the above is the necessity to perform our agreements with you and legitimate interests to know who makes use of our services and how. Where we use your data based on your explicit permission, you are always entitled to withdraw such permission in the way as set out below. 
+
+  * In order to offer you a personalized experience of the use of our Platform, we may lease data in an electronic form, for instance by placing third party pixels on our Website(s), to our carefully selected Third Parties, so that they are able to offer products or services. But only if you have given us permission to do so. 
+
+
+  * Subscriptions and forms
+    * You will only receive our newsletters if you have subscribed to our newsletter, in which you will always have the possibility to unsubscribe.
+    * If we have your explicit permission, we may use your Registration Data, Venue Data, Commercial Data and/or Surf Data to send you information about artists or speakers performing at ADE and events that might interest you. 
+    * To make (targeted) offers via advertising, email and/or social media networks and to keep you up-to-date on the latest news and/or updates and/or service announcements, we may use your Registration Data, Surf Data and/or Commercial Data;
+
+
+
+The legal ground for this use of your data is your explicit permission and/or our legitimate interests to know how you make use of our services and improve our business. 
+
+  * Venue Data 
+    * In principle, these data shall only be processed as anonymized data for internal purposes such as statistics and to gain insight into visitor numbers. We will only use Venue Data in a non-anonymized form if you have explicitly given your prior permission.
+    * Use of Venue Data helps us to improve our services, because it shows us which events and performances as part of the ADE have been popular and which have not. It also helps us to try to adapt our services to suit your wishes and expectations even more.
+    * Anonymized Venue Data enable us to check whether our Promoters actually meet their obligation to us and allow the agreed minimum number of Delegates to enter the event in question. 
+    * You are able to link your Venue Data to your profile on selected social media networks. If you choose to do so, your Venue Data will be available on the selected social media network in a way that depends on the settings in your social media account settings. As long as you don’t explicitly choose for this option, the Venue Data will not be disclosed.
+    * The social media networks in question are responsible for the use of data through this functionality, including the use of cookies they could use for this purpose. From the moment you choose this functionality, what the social media network does with your data is out of our hands. The privacy statements and conditions of those social media networks apply.
+    * The legal ground for this use of your data is your explicit permission and/or our legitimate interests to improve our services.
 
   
-ADE Foundation shall not retain personal data any longer than necessary for performance of the agreements. 
 
-##  Article 10 Access and correction
 
-  
-The Visitor shall be required to ensure that ADE Foundation always has the correct personal data. The Visitor shall be able to contact ADE Foundation in writing via the e-mail address privacy@amsterdam-dance-event.nl to request access to and/or the removal of his (personal) data. Any corrections that the Visitor has provided shall be processed at the written request of the Visitor. 
-
-##  Article 11 Protection
-
-**11.1 ADE Foundation shall guarantee that it will treat all personal data with the greatest possible care and that it shall not use the said data for any purposes other than those that can be understood to be included in the purposes referred to above.  
- **11.2 ADE Foundation shall put all reasonable measures in place to ensure that personal data have been protected against theft. Only its own employees shall have access to the data, provided they are responsible for the accounts and the Website(s) and have signed a non-disclosure agreement and shall then solely be able to use the said data for the purposes referred to above.
-
-## Article 12 Changes to privacy and cookie policy
+## 3\. Third parties
 
   
-ADE Foundation shall reserve the right to modify this privacy and cookie policy and, as such, advises Visitors to regularly check the most-up-to-date version of the Privacy Statement on the Website(s) to see if any changes have been made. If changes are of a fundamental nature, ADE Foundation shall clearly notify Visitors of these changes, which it could do via e-mail, for example. The most recent changes to this Privacy Statement were made and published on July 1st 2014. ****
 
-************************
 
-************
+  * We only share your Data with Partners, Promoters and Third Companies where we explicitly let you know.
+  * We will never transfer your personal data to third parties without your explicit permission, except when it is necessary to carry out our agreement with you – for instance, to deliver products, services or tickets where we share data with our carefully selected processors – or if we are required to do so by law.
+  * To be able to provide our services, we use companies to process and store information including your Data (‘third party processors’). In order for them to carry out their agreement, we may transfer your Data to them. In such cases we will always make sure they are obliged to apply our same standards of processing and protection of your Data.
+  * When you register for services from our Partners, your information will be handed over to those parties and their privacy policy applies to further use they make thereof. We will make sure it is always clear to you when you are providing your data to such Partners.
+
+  
+
+
+## 4\. Cookies and Surf Data
+
+  
+
+
+  * We may collect automatically generated Surf Data, including your IP-address and cookies. Our servers also automatically record certain data, such as the URL, IP address, browser type, language and the date and time of the visit to the Website(s). We store these Surf Data and use them make statistical analyses of visits to and use of the Website(s) and also to optimize the Website(s). We always anonymize Surf Data as much as possible.
+  * To ensure that the Website(s) are working properly, we can, just as most websites do, use cookies to obtain information to make it easier for you to navigate the Website(s). These cookies are small text files that are saved on your computer and that contain the data necessary to ensure that your use of the Website(s) is as positive and effective as possible. This could include remembering your personal settings, such as language settings and preferences for mobile or desktop, the contents of a shopping basket and/or remembering that you are logged in. These cookies can be set via the settings used for the web browser. 
+  * We also use Google Analytics and Google Analytics cookies to gain an insight into how the Website(s) is (or are) used. This information (including IP-address) shall only be provided to Google when wanting to use the Google statistics program. We do not use other Google services when using Google Analytics. We have a Data Processing Agreement with Google and will make sure to partially anonymize the IP-address and switch off the option to share data.
+  * Finally, cookies can be placed via the Website(s) and then read by Facebook, Twitter and KLM. We do not have any influence on the use of these data by these parties and they are responsible for this type of cookie use and their privacy statements and conditions shall apply in this situation.
+
+  
+
+
+## 5\. Time limit
+
+  
+
+
+  * We shall not hold personal data any longer than necessary for carrying out our agreements with you as set out in the above. This means that upon unsubscribing from communications or user accounts, we will erase your Data we have for those purposes.
+  * In case we hold and use your personal data based on your permission, we will immediately remove your data upon withdrawal of your permission.
+
+  
+
+
+## 6\. Withdrawal of permission
+
+In case we use your personal data based on your explicit prior permission, you can at all times withdraw your permission by sending an email to [privacy@amsterdam-dance-event.nl](https://www.amsterdam-dance-event.nl/privacy@amsterdam-dance-event.nl) with a request and description of which permission you wish to withdraw. In case you make such a request we will provide you with a form to specify your request. Also, when we send you direct marketing messages for which we do not need your prior explicit permission, you are absolutely free to sign out from such messages. 
+
+## 7\. Access, removal, corrections and complaints
+
+  
+
+
+  * You are required to ensure that the Registration Data you provide to us is always correct. However, you of course always have the general privacy rights of access to and correction of your personal data, the right to be forgotten and to restriction of processing, the right of data portability, and the right not to be subjected to automated decision making (profiling), which means the following.
+  * You are always free to contact us in writing via the e-mail address privacy@amsterdam-dance-event.nl to request information about whether or not we use any of your personal data, where and for what purpose we do so. If so, we will provide you with an electronic copy of any of your personal data we may use, which you are free to transmit to another data controller.
+  * If you believe they are no longer relevant for the purposes for which they were collected, you also have the right to send us a request to erase your personal data and/or cease further dissemination of your personal data.
+  * Furthermore, you are free to provide us with any corrections to your personal data.
+  * We ask you when sending us one of the requests above, to provide us with a copy of a valid identification document. We shall consider your requests by comparing your privacy rights to the public interest in the availability of the data.
+  * Finally, you have the right to send us any motivated complaints about how we use your personal data and, if you so wish, file a complaint with the supervisory privacy authority.
+
+  
+
+
+## 8\. Protection
+
+  
+
+
+  * We will treat all your personal data with the greatest possible care and that we shall not use the data for any purposes other than those that can be understood to be included in the purposes referred to above. 
+  * We have put all reasonable measures in place to ensure that personal data are protected against theft, misconduct and/or data breaches. Only our own employees have access to the data, provided they are responsible for the accounts and the Website(s) and have signed a non-disclosure agreement and shall then solely be able to use the said data for the purposes referred to above. 
+  * In all agreements regarding third party processors we oblige those parties to install at least the same level of protection and measurements protecting your personal data.
+
+  
+
+
+## 9\. Transfer to third countries
+
+We may transfer data to a processor or third party based in a country outside of the EU or international organizations, but only if they provide appropriate measures to safeguard the protection of your data, and on condition that your rights and effective legal remedies are available. In such cases we will upon your request provide you with a copy of which data are transferred and to which third countries and under which level of protection. 
+
+## 10\. Minors
+
+If you have not reached the age of 16 yet, your parents or legal representatives must be aware of this Privacy Statement before you are able to register and use the Website(s) and the Platform. 
+
+## 11\. General
+
+  
+
+
+  * We reserve the right to modify this privacy and cookie policy and, as such, advise you to regularly check the most-up-to-date version of the Privacy Statement on the Website(s) or Platform to see if any changes have been made. If changes are of a fundamental nature, we shall clearly notify you of these changes, for example via e-mail. The most recent changes to this Privacy Statement were made and published in May 2018.
+  * This Privacy Statement and its contents have been construed under the applicability of and are exclusively governed by Dutch law.
+  * Any disputes arising will be exclusively submitted to the competent court in Amsterdam.
+
+
