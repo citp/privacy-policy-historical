@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oshopping.com.ph privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515072618id_/http%3A//oshopping.com.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oshopping.com.ph privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909112939id_/https%3A//oshopping.com.ph/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# Privacy Policy
 
 The privacy and security of personal data collected from you – our customers, suppliers and trade partners – are important to A CJ O Shopping, Corporation. The officers and employees of A CJ O Shopping adhere to the principles of the Data Privacy Act of 2012 (RA 10173) (the “Data Privacy Act”), its implementing rules and regulations and rules, regulations and the relevant issuances of the National Privacy Commission of the Philippines (“NPC”) and comply with the best data privacy practices sanctioned in its Implementing Rules and Regulations and the relevant issuances of the National Privacy Commission of the Philippines (“NPC”) .   
 This Privacy Policy (“Policy”) governs the collection, sharing, recording, updating, modification, retrieval, use, retention and disposal of Personal Information and Sensitive Personal Information gathered pursuant to rendering services to our customers. 
@@ -35,6 +35,10 @@ Such procedures shall also be regularly monitored, modified, and updated to ensu
 COLLECTION OF PERSONAL DATA
 
 In the ordinary course of business through off-site sign-ups, A CJ O Shopping may collect your personal data such as your name, address, contact details, gender, marital status, age religious affiliation, health, or education, and other sensitive personal information.
+
+ACJO may install “cookies” to help you personalize your experience with the Website. A “cookie” is a HTTP file that is placed on your browser by a web page server. Cookies cannot be used to run programs or deliver viruses to your device. Its primary purpose is to provide our users with convenience in their browsing experience. For example, when you personalize websites to suit your preferences, or register with Linked Sites or services, a cookie helps the Website remember your behavioral information. Kindly note that on subsequent visits, this information can be retrieved to provide you with a faster and more customized browsing experience based on your preferences. 
+
+Cookies are uniquely assigned to you, and can only be read by the web page server of the Website that issued it. You can modify your browser settings to accept or decline cookies. Unless you have modified your settings to decline cookies, it will automatically be installed when you continue to use the Website.
 
 USE OF PERSONAL DATA
 
