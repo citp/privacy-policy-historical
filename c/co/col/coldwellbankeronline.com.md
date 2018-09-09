@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coldwellbankeronline.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120054500id_/https%3A//www.coldwellbankerhomes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coldwellbankeronline.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909142959id_/https%3A//www.coldwellbankerhomes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - ColdwellBankerHomes.com
 
@@ -41,6 +41,12 @@ We use Non-Personal Information to customize the advertising and content you see
 **Cookies**
 
 A cookie is a small data file, often including an anonymous unique identifier, that is sent from a web site's computer and stored on your computer's hard drive. Use of cookies is common on the Internet. A web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser permits a web site to access only the cookies it has already sent to you, not the cookies sent to you by other sites. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is sent. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.) You can reset your browser to refuse all cookies or indicate when a cookie is being sent. But if you refuse cookies, some parts of the Site will not function properly and may not provide services or information you have requested. For example, without cookies, we will not be able to provide you with searches that you have asked us to save.
+
+**Hotjar**
+
+We use [Hotjar](https://www.hotjar.com/) in order to better understand our users’ needs and to optimize this service and experience. Hotjar is a technology service that helps us better understand our users' experience (e.g. how much time they spend on which pages, which links they choose to click, what users do and don’t like, etc.) and this enables us to build and maintain our service with user feedback. Hotjar uses cookies and other technologies to collect data on our users’ behavior and their devices (in particular device's IP address, captured and stored only in anonymized form), device screen size, device type (unique device identifiers), browser information, geographic location (country only), preferred language used to display our website. Hotjar stores this information in a pseudonymized user profile. Neither Hotjar nor we will ever use this information to identify individual users or to match it with further data on an individual user. For further details, please see Hotjar’s privacy policy by clicking on [this link](https://www.hotjar.com/legal/policies/privacy).
+
+You can opt-out to the creation of a user profile, Hotjar’s storing of data about your usage of our site and Hotjar’s use of tracking cookies on other websites by following this [opt-out link](https://www.hotjar.com/opt-out). 
 
 ### 2(c) Use of Information With Respect to Third Parties
 
