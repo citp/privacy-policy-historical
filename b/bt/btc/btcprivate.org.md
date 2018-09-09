@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btcprivate.org privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605160143id_/https%3A//btcprivate.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btcprivate.org privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909151040id_/https%3A//btcprivate.org/privacy.html) for the most accurate reproduction.*
 
 # Bitcoin Private
 
