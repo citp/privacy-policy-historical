@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flutetunes.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206224517id_/https%3A//www.flutetunes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flutetunes.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909094103id_/https%3A//www.flutetunes.com/privacy.php) for the most accurate reproduction.*
 
 # Website Privacy Policy | flutetunes.com
 
