@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggerbulk.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618101353id_/http%3A//www.bloggerbulk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggerbulk.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909052324id_/http%3A//www.bloggerbulk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
