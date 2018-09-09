@@ -1,164 +1,105 @@
-> *The following text is extracted and transformed from the knowledgetree.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618225138id_/http%3A//savogroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowledgetree.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909171051id_/https%3A//seismic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SAVO Sales Enablement
+# Seismic Privacy Policy | Seismic Sales Enablement Platform
 
-**Effective Date: November 14, 2017**
+We at Seismic Software, Inc., D/B/A Seismic (“Seismic,” “we,” “us,” “our”) know that our users (“you,” “your”) care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting or using www.Seismic.com (“Website”) and domain name, and any other linked pages, features, content, Seismic Mobile Application (“Mobile Application”), or the software (“Software”) or any other products or services we offer from time to time by in connection therewith (collectively, the “Seismic Services””), you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.
 
-SAVO Group (“SAVO” or the “Company”) is committed to protecting the privacy of your information. This Privacy Policy describes SAVO’s information practices.
+1) What Does This Privacy Policy Cover?
 
-SAVO Group is committed to protecting the privacy of your information. This Privacy Policy describes SAVO’s information practices. This Privacy Policy covers our collection, use, and disclosure of information collected on our web site [www.savogroup.com](http://www.savogroup.com/), and through our SaaS Service Platforms located at [www.gosavo.com](https://www.gosavo.com/) and [www.savoinspire.com](https://www.savoinspire.com/) and our mobile application SAVO Sales Pro. The use of information collected through our services shall be limited to the purpose of providing the service for which the Client has engaged SAVO.
+This Privacy Policy covers our treatment of personally identifiable information (“Personal Information”) that we gather when you are accessing or using our Website located at www.Seismic.com, Software, and on our Mobile Application collectively “Seismic Services”. The use of information collected through our Software shall be limited to the purpose of providing the service for which the Client has engaged Seismic. This policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
 
-SAVO Group participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework.  SAVO Group is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. [<https://www.privacyshield.gov/list>]
+Seismic has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s Program Requirements](https://www.trustarc.com/privacy-certification-standards/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s certification covers Seismic Services as defined above. The TRUSTe certification does not cover personal information collected through downloadable software. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 855-466-8748. If you are not satisfied with our response you can [contactTRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
-SAVO Group is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  SAVO Group complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register for Seismic Services. If you are under 13, please do not attempt to register for Seismic Services or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to us or on Seismic Services. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [support@seismic.com](mailto:support@seismic.com).
 
-With respect to personal data received or transferred pursuant to the Privacy Shield Framework, SAVO Group is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, SAVO Group may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+2) What Information Does Seismic Collect?
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.  
-Under certain conditions, more fully described on the Privacy Shield website [<https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>], you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+We gather various types of Personal Information such as name, email address, company name, phone number, Mobile OS, and Device type from our users, as explained more fully below. We may use this Personal Information to personalize and improve Seismic Services, to allow our users to set up a user account and profile, to contact users, to fulfill your requests for certain products and services, to analyze how users utilize the Seismic Services, and as otherwise set forth in this Privacy Policy. We may share certain types of Personal Information with third parties (described in this Section and in Section III below). We collect the following types of information:
 
-  1.  **Web Sites**
+1) Information You Provide to Us:
 
+We receive and store any information you knowingly provide to us on Seismic Services. For example, we collect Personal Information such as your name, email address, etc. We may collect other Personal Information you provide to us through your use of Seismic Services, such as the information or content you upload, display, manage and/or otherwise use in connection with your creation of pitches through the Software (your “Content”). Our Mobile Application does not track users using Geo-Location. You can choose not to provide us with certain information, but then you may not be able to register with us or to take advantage of some of our features. We may anonymize your Personal Information so that you cannot be individually identified, and provide that information to our partners.
 
+From time to time, we display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [support@seismic.com](mailto:support@seismic.com).
 
-SAVO’s Digital Properties may contain links to other web sites. SAVO takes reasonable measures to ensure that SAVO’s Digital Properties is free of malware, but SAVO is not responsible for the information practices, content, or terms of service of such other web sites. The Company encourages you to review the privacy policies of other web sites to understand their information practices and terms of service.
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. You can request the removal of your personal information from our blog or community forum, by contacting us at [support@seismic.com](mailto:support@seismic.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-  2.  **Personally Identifiable Information Collected**
+Seismic also collects information under the direction of its Clients who utilize our Software, and has no direct relationship with the individuals whose personal data it processes.
 
+2) Information Collected Automatically:
 
+Whenever you interact with Seismic Services , we automatically receive and record information on our server logs from your browser including your IP address, “cookie” information, and the page you requested. “Cookies” are identifiers we transfer to your computer that allow us to recognize your browser and tell us how and when pages in our Website are visited and by how many people. You may be able to change the preferences on your browser to prevent or limit your computer or device’s acceptance of cookies, but this may prevent you from taking advantage of our Website’s best features.
 
-SAVO offers a variety of services that are collectively referred to as the “Service.” SAVO collects information from individuals who simply visit the Company’s Digital Properties and/or who wish to obtain additional information about the Service (“Visitors”) and individuals registered to use the Service (“Customers”).
+We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.
 
-When expressing an interest in obtaining additional information about the Service or registering to use the Service, SAVO requires you to provide the Company with contact information, such as name, company name, address, phone number, and email address (“Required Contact Information”). When purchasing the Service, SAVO requires you to provide the Company with financial qualification and billing information, such as billing name and address, credit card number, and the number of employees within the organization that will be using the Service (“Billing Information”). SAVO may also ask you to provide additional information, such as annual revenues, number of employees, or industry (“Optional Information”). Required Contact Information, Billing Information and Optional Information are referred to collectively as “Data About SAVO Customers”.
+We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see section IV below.
 
-As you navigate the Company’s Digital Properties, SAVO may also collect information through the use of commonly-used tracking technologies, such as cookies and web beacons (“Web Site Navigational Information”). Web Site Navigational Information includes standard information from your web browser (such as browser type, browser version, and browser language), your Internet Protocol (“IP”) address, and the actions you take on the Company’s Digital Properties (such as the web pages viewed and the links clicked).  For more information, please see Section 4 Web Site Navigational Information below.
+The use of cookies and web beacons by our third party tracking utility company is not covered by our privacy policy. We do not have access or control over these tracking technologies.
 
-When you download and use our Services, we automatically collect information on the type of device you use, operating system version, and the device identifier (or “UDID”).
+When we collect usage information (such as the numbers and frequency of visitors to the Website), we only use this data in aggregate form, and not in a manner that would identify you personally. For example, this aggregate data tells us how often users use parts of the Website, so that we can make the Website appealing to as many users as possible. We may also provide this aggregate information to our partners; our partners may use such information to understand how often and in what ways people use Seismic services, so that they, too, can provide you with an optimal experience. We never disclose aggregate information to a partner in a manner that would identify you personally.
 
-We do not ask you for, access or track any location based information from your mobile device at any time while downloading or using our mobile application or Services.
+3) E-mail and Other Communications:
 
-We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile application.
+We may contact you, by email or other means; for example, we may send you promotional offers on behalf of other businesses, or communicate with you about your use of Seismic Services. Also, we may receive a confirmation when you open an email from us. This confirmation helps us make emails more interesting and improve our service. If you do not want to receive email or other mail from us, please indicate your preference by sending an email to [support@seismic.com](mailto:support@seismic.com).
 
-  3.  **Use of Information Collected**
+3) Will Seismic Share Any of the Personal Information it Receives?
 
+We neither rent nor sell your Personal Information in personally identifiable form to anyone. We share your Personal Information in personally identifiable form with third parties as described below.
 
+1) Affiliated Businesses We Do Not Control:
 
-The Company uses Data About SAVO Customers to perform requested Service, and for other internal product development efforts. For example, if you fill out a “Contact Me” Web form, the Company will use the information provided to contact you about your interest in the Service.
+In certain situations, businesses we're affiliated with may sell items or provide services to you through the Website (either alone or jointly with us). You can recognize when an affiliated business is associated with such a transaction or service, and we will share your Personal Information with that affiliated business only to the extent that it is related to such transaction or service.
 
-The Company may also use Data About SAVO Customers for marketing purposes. For example, the Company may use information you provide to contact you to further discuss your interest in SAVO, the Service, and to send you information regarding the Company and its partners, such as information about promotions or events.
+2) Agents:
 
-SAVO uses Web Site Navigational Information to operate and improve the Company’s Digital Properties. The Company may also use Web Site Navigational Information in combination with Data About SAVO Customers to provide Visitors and Customers with personalized information about the Company.
+We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, our agents do not have any right to use the Personal Information we share with them beyond what is necessary to assist us. Seismic may transfer personal information collected through its Software to companies that help us provide our service as described above. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Clients.
 
-SAVO will use Data About SAVO Customers and Web Site Navigational Information only for the purposes described above and, except as noted in this Privacy Policy, will not disclose or distribute such information to third parties other than its agents, partners and service providers.
+3) Business Transfers:
 
-  4.  **Web Site Navigational Information**
+We may choose to buy or sell assets.  In these types of transactions, customer information is typically one of the business assets that is transferred.  Also, if we (or substantially all of our assets) are acquired, or if we go out of business or enter bankruptcy, Personal Information would be one of the assets transferred to or acquired by a third party. You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
+4) Protection of Seismic and Others:
 
+We may release Personal Information when we believe in good faith that release is necessary to comply with a subpoena, or similar legal process; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Seismic, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
-SAVO collects Web Site Navigational Information as you navigate the Company’s Digital Properties. This section describes the types of Web Site Navigational Information the Company may collect, typical methods used for collection of such information, and how the Company may use this information.
+5) With Your Consent:
 
- **Tracking Technologies**
+4) Is Personal Information About me Secure?
 
-Technologies such as: cookies, beacons, tags, scripts or similar technologies are used by SAVO and our third party partners such as our marketing partners, analytics, and customer support service providers.  These technologies are used to make interactions with the Company’s Digital Properties easy and meaningful.  We also use technologies for analyzing trends, administering the site, tracking users’ movements around these properties and to gather demographic information about our user base as a whole.  We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+Your account is protected by a password for your privacy and security. You need to prevent unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer or device and browser by signing off after you have finished accessing your account. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. We endeavor to protect the privacy of your account and other Personal Information we hold in our records, but we cannot guarantee complete security. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. When you enter sensitive information (such as your login information in our Software, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-We use cookies to make your interactions with the Company’s Digital Properties easy and meaningful such as to remember users’ settings (e.g. language preference) and for authentication. We may use information cookies in combination with Data About SAVO Customers to provide you with information about the Company and the Service. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+The Website may contain links to other sites. We are not responsible for the privacy policies and/or practices on other sites. When following a link to another site you should read that site's privacy policy.
 
- **Log Files**
+5) What personal information can i access?
 
-As is true of most web sites, we gather certain information automatically and store it in log files.  This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. SAVO uses this information for various purposes such as tracking and monitoring Customers and Visitors activities on Company’s Digital Properties.   For example, SAVO uses IP addresses to monitor the regions from which Customers and Visitors navigate the Company’s Digital Properties and to authenticate Customers credential as part of its security features.  We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, and site functionality.
+Through your account settings with Seismic Services, you may access, and, in some cases, edit or delete the following information you've provided to us:
 
- **Behavioral Targeting / Re-Targeting**
+\- name and password  
+\- email address  
+\- location  
+\- content
 
-We partner with a third party ad network to either display advertising on the Company’s Digital Properties or to manage our advertising on other sites.  Our ad network partner uses cookies and web beacons to collect non-personally identifiable information about your activities on this and other web sites to provide you targeted advertising based upon your interests.  If you wish not to have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) or if located in the European Union click [here](http://www.youronlinechoices.eu/). Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
+6) The information you can view and update may change as the Seismic Services changes. If you have any questions about viewing or updating information we have on file about you, please contact us via at [support@seismic.com](mailto:support@seismic.com)
 
-  5.  **Public Forums, Refer a Friend, and Customer Testimonials**
+7) What Choices Do I Have?
 
+You can always opt not to disclose information to use, but keep in mind some information may be needed to register with us or to take advantage of some of our special features.
 
+You may be able to add, update, or delete information as explained in Section V above. When you update information, however, we may maintain a copy of the unrevised information in our records. You may request deletion of your account via email to [support@seismic.com](mailto:support@seismic.com). Please note that some information may remain in our private records after your deletion of such information from your account. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally.
 
-SAVO may provide blog or forum on the Company’s Digital Properties. Any personally identifiable information you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. SAVO is not responsible in any respect for the personally identifiable information you choose to submit in these forums, and urges you not to submit any personally identifiable information to any such forum. To request removal of your personally identifiable information from our blog or community forum, contact us at supportdesk@savogroup.com.  In some cases, we may not be able to remove your personally identifiable information, in which case we will let you know if we are unable to do so and why.
+We collect information for our clients, if you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the client that you interact with directly. Seismic will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. Seismic will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
- _We may also collect, from you, the following personal information about your contacts:_
+If you do not wish to receive email or other mail from us, please contact us via email at support@seismic.com or follow the unsubscribe instructions in each promotional email. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes.
 
-  * [Name and email address], in order to refer our products or services
+8) Changes to this Privacy Policy
 
+We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
+9) Questions or Concerns
 
-When you provide us with personal information about your contacts we will only use this information for the specific reason for which it is provided.
+If you have any questions or concerns regarding our privacy policies, please send us a detailed message to [support@seismic.com](mailto:support@seismic.com). We will make every effort to resolve your concerns.
 
-If you believe that one of your contacts has provided us with your personal information and you would like to request that it be removed from our database, please contact us at [supportdesk@savogroup.com](mailto:supportdesk@savogroup.com).
+12770 El Camino Real, Suite 300  
+San Diego, CA 92130
 
-SAVO posts testimonials on the Company’s Digital Properties that contain information such as Customer names and titles. SAVO obtains the consent of each Customer prior to posting any information on such a list or posting testimonials within the log in to the client area.  If you wish to update or delete your testimonial, you can contact us at supportdesk@savogroup.com.
-
-  6.  **Sharing of Information Collected**
-
-
-
-SAVO reserves the right to disclose personally identifiable information of the Company’s Customers or Visitors if: requests by public authorities, including to meet national security or law enforcement requirements; required by law; if the Company reasonably believes that disclosure is necessary to protect the Company’s rights, protect your safety or the safety of others, and to investigate fraud; if necessary to perform credit checks or collect or report debts owed to us; and/or to comply with a judicial or other government subpoenas, warrants, court orders or other legal process (collectively, such laws, rights and proceedings, orders and processes are referred to below as “Legal Processes”).
-
-SAVO reserves the right to transfer any personally identifiable information we have about you in the event of a merger, acquisition, or sale of all or a portion of our business or assets. Should such a transfer occur, we will use reasonable efforts to try to require that the transferee use personally identifiable information you have provided through our Company’s Digital Properties in a manner that is consistent with this Privacy Policy.
-
-SAVO may also share personally identifiable information of the Company’s Customers or Visitors with persons who perform certain services for us, such as our accountants, auditors, attorneys and the like, but only to the extent necessary for them to perform their services to us. We expect such service providers to comply with our privacy and information security standards.
-
-  7.  **Communications Preferences**
-
-
-
-SAVO offers Customers and Visitors who provide contact information a means to choose how SAVO uses the information provided. You may manage receipt of email communications from SAVO by clicking on the “to manage your subscriptions or to unsubscribe, click here” link located on the bottom of the SAVO’s emails. Additionally, you may send a request specifying your communications preferences to [marketing@savogroup.com](mailto:marketing@savogroup.com).  If you no longer wish to allow us to share your information with third parties, you may opt-out from such sharing by contacting that third party directly.
-
-  8.  **Correcting and Updating Your Information**
-
-
-
-Upon request Savo Group will provide you with information about whether we hold any of your personal information.
-
-SAVO is committed to ensuring that the personally identifiable information that it collects regarding its Customers and Visitors is reliable for its intended uses and is accurate, complete, and current. If SAVO discovers that corrections are necessary with respect to any such information, it will promptly update its records. Customers may also update or change their registration information by editing their user or organization record. To update a user profile or billing information, please email supportdesk@savogroup.com or call (312) 506-1700. Visitors may update or change their personal information by clicking [here](http://discover.savogroup.com/email-preference-center). Requests to access, change, or delete your information will be handled within 90 days. We will respond to your access request within 30 days.
-
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us as described below. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-  9.  **Customer Data**
-
-
-
-SAVO Customers use the Service to host data and information (“Customer Data”). SAVO will not review, share, distribute, or reference any such Customer Data except as provided in the SAVO Application Services Agreement (or similar services agreement), or as may be required by Legal Processes, and will host Customer Data solely to facilitate the processing and use of the Customer Data by its Customers. Individual records of Customer Data may be viewed or accessed by SAVO only for the purpose of resolving a problem, support issues, or suspected violation of the SAVO Application Services Agreement, or as may be required by Legal Processes. Customers are responsible for maintaining the security and confidentiality of their SAVO usernames and passwords. Customers maintaining Customer Data that constitutes personally identifiable information subject to the protections of the European Union’s Data Protection Directive will remain responsible for such information vis-à-vis the individual in accordance with the relevant EU provisions, although, as set forth in the SAVO Application Services Agreement, SAVO will cooperate with the Customer as may be necessary to ensure that individuals’ rights to access and correct such information are respected. SAVO permanently deletes or destroys Customer Data residing on its servers promptly upon the termination of a Customer relationship.
-
- **Information Related to Data Collected for our Clients**
-
-SAVO Group acknowledges that you have the right to access your personal information.   SAVO collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes.  If you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly.  We may transfer personal information to companies that help us provide our service.  Transfers to subsequent third parties are covered by the service agreements with our Clients.
-
- **Access and Retention of Data Controlled by our Clients**
-
-SAVO has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his or her query to SAVO’s Client (the data controller).  If the Client requests SAVO to remove the data, we will respond to their request within 30 days.
-
-We will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client.  SAVO will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
- **Security**
-
-SAVO uses industry standard security measures to protect Customer Data from unauthorized access, maintain data accuracy, and help ensure the appropriate use of Customer Data. The Service can be accessed only by Internet Explorer version 8.0 or later, Firefox version 2.0 or later, or Safari version 3.0 or later, because these browsers permit the use of Transport Layer Security (“TLS”) technology (formerly Secure Socket Layer or SSL technology) that protects Customer Data using both server authentication and data encryption. These technologies help ensure that Customer Data is safe, secure, and only available to the Customer to whom the information belongs and those to whom the Customer has granted access. SAVO also implements an advanced security method based on dynamic data and encoded session identifications, and the Company hosts its SAVO Digital Properties in a secure server environment that uses firewalls and other advanced technology to prevent interference or access from outside intruders. SAVO also offers enhanced security features within the Service that permit Customers to configure security settings to the level they deem necessary.
-
-Because the Company uses the Service to maintain data about Visitors, Data About SAVO Customers and Web Site Navigational Information, this information is secured in the same manner as described above for Customer Data. To the extent that SAVO provides Data About SAVO Customers and Web Site Navigational Information to its agents, partners or service providers, as described in Section 6 of this Privacy Policy, SAVO takes commercially reasonable steps to ensure that its agents, partners or service providers either abide by SAVO’s privacy practices as reflected in this Privacy Policy or by substantially equivalent policies.
-
-Although we strive to make security a priority, note that no method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.  If you have any questions about security on the Company’s Digital Properties, you can contact supportdesk@savogroup.com.
-
-  11.  **Social Media Widgets**
-
-
-
-Our Company’s Digital Properties include Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
-
-  12.  **Changes to this Privacy Policy**
-
-
-
-SAVO reserves the right to change this Privacy Policy, with the prior approval of TRUSTe. SAVO will provide notification of the material changes to this Privacy Policy through the Company’s Digital Properties at least thirty (30) calendar days prior to the change taking effect.
-
-  13.  **Contacting Us**
-
-
-
-Questions regarding this Privacy Policy or the information practices of the Company’s Digital Properties should be directed to SAVO Privacy by emailing supportdesk@savogroup.com or by mailing SAVO Privacy and Security, 222 W Merchandise Mart Plaza, Suite 1710, Chicago, IL 60654.
-
-  14.  **Your California Privacy Rights**
-
-
-
-Under California’s Shine the Light law, Cal. Civ. Code § 1798.83, California residents have the right under certain circumstances to request, once per year, information regarding our disclosure of personal information to third parties for direct marketing purposes, including a list of the categories of information we have shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year.  To make such a request, please contact us by emailing supportdesk@savogroup.com or by mailing SAVO Privacy and Security, 222 W Merchandise Mart Plaza, Suite 1710, Chicago, IL 60654.
+Effective Date: June 24th, 2014
