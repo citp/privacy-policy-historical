@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lotuscars.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526143501id_/http%3A//www.lotuscars.com/legal-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lotuscars.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909150033id_/https%3A//www.lotuscars.com/legal-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lotus Cars
 
@@ -70,10 +70,12 @@ You have the right to ask us not to process your personal data for marketing pur
 
 Webmaster, Group Lotus plc, Potash Lane, Hethel, Norwich, Norfolk NR14 8EZ UK.
 
+You have the right to object to the processing, restrict or stop processing or request deletion of the personal data we hold on you. If you do ask us to delete or stop processing it, we may not be required to do so if legislation does not allow us to, i.e. for safety issues.
+
 Our website may contain links to other websites that may be of interest to you but which are outside of our group.  Please note that this Privacy Policy applies only to our website.  Websites which are linked from our website may not have privacy policies or they may use your personal information in ways which are different to those set out in this policy. Lotus is not responsible for the content, privacy or security of other websites.
 
 **ACCESS TO INFORMATION**  
-You have the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our administration costs in providing you with details of the information we hold about you.  
+You have the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any excessive or unfounded access request may be subject to a reasonable fee to meet our administration costs in providing you with details of the information we hold about you.  
  **  
 CHANGES TO OUR PRIVACY POLICY**  
 This privacy policy may be amended from time to time and amendments published on our websites.
@@ -82,3 +84,5 @@ This privacy policy may be amended from time to time and amendments published on
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to us at [webmaster@lotuscars.co.uk](mailto:webmaster@lotuscars.com) or at:
 
 Webmaster, Group Lotus plc, Potash Lane, Hethel, Norwich, Norfolk NR14 8EZ UK.
+
+If you are not happy, or have a complaint about the way we use your personal information, we hope that you will contact us at the above address. If you are not satisfied, you may also make a complaint to the Information Commissioners office which is the supervisory authority who regulates personal data in the UK.
