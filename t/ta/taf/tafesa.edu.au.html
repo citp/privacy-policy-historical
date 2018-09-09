@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tafesa.edu.au privacy policy that was archived on 2018-04-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180403162029id_/https%3A//www.tafesa.edu.au/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tafesa.edu.au privacy policy that was archived on 2018-09-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180909041511id_/http%3A//www.tafesa.edu.au/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head id="Head1">
     <!-- Google Tag Manager -->
@@ -42,7 +42,7 @@
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
-    <form method="post" action="./" id="form1">
+    <form method="post" action="./privacy" id="form1">
 <div class="aspNetHidden">
 <input type="hidden" name="ctl24_TSSM" id="ctl24_TSSM" value="">
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
@@ -130,14 +130,26 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [],
         $('#MainMenuPortalAnchor').css('border-right', 'none');
         $('#MainNavSearchDiv').css('margin-top', '0px');
         $('#MainNavSearchDiv').css('padding-top', '2px');
-        $('#MainNavBarQuickLinksDiv').css('padding-top', '5px');
-        $('#MainNavBarQuickLinksDiv').css('padding-bottom', '10px');
-		
-		if ($(window).width() <= 450)
-		{
+
+        if ($(window).width() > 768) {
+            $('#MainNavBarQuickLinksDiv').css('padding-top', '5px');
+            $('#MainNavBarQuickLinksDiv').css('padding-bottom', '10px');
+        }
         $('#MainNavBarQuickLinksDiv').css('width', '100%');
+
+		if ($(window).width() <= 768)
+		{
+            $('#MainNavBarQuickLinksDiv').css('padding-left', '20px');
+            $('#MainNavBarQuickLinksDiv').css('padding-right', '20px');
+            $('#MainNavBarQuickLinksDiv').css('padding-top', '2px');
+            $('#MainNavBarQuickLinksDiv').css('padding-bottom', '3px');
+            $('#navBarQuickLink').css('padding-left', '0px');
+            $('#navBarQuickLink').css('padding-right', '0px');
 		} else {
-		$('#MainNavBarQuickLinksDiv').css('width', '80%');
+            $('#MainNavBarQuickLinksDiv').css('padding-left', '0px');
+            $('#MainNavBarQuickLinksDiv').css('padding-right', '0px');
+            $('#navBarQuickLink').css('padding-left', '15px');
+            $('#navBarQuickLink').css('padding-right', '15px');
 		}
         $('#MainNavBarQuickLinksDiv').css('display', 'inline-block');
         $('#MainNavBarQuickLinksDiv').css('padding-left', '0px');
@@ -251,7 +263,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [],
     <div class="navbar navbar-main navbar-default" id="navbarHeader">
         <div class="container">
             <div class="row">
-                <div class="col-xs-12 col-lg-12 header_inner" id="MainNavInnerHeaderDiv">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 header_inner" id="MainNavInnerHeaderDiv">
                     <div class="navbar-header col-xs-12 col-sm-4 col-md-4" id="MainNavNavBarHeaderDiv">
                         <a class="logo clearfix" href="/" id="MainNavLogoClearFixAnchor">
                             <img src="/SiteFinity/WebsiteTemplates/TAFESABootstrap/App_Themes/TAFESA/images/base/logo_TAFESA.png" alt="TAFESA" id="MainNavTAFELogo">
@@ -260,8 +272,8 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [],
                             <img src="/SiteFinity/WebsiteTemplates/TAFESABootstrap/App_Themes/TAFESA/images/base/logo_TAFESA_RGB.png" alt="TAFESA" id="MainNavTAFEPrintLogo">
                         </a>
                     </div>
-                    <div class=" col-xs-12 col-sm-8 col-md-8" id="navbarQuickLink">
-                        <div class="navbar-header col-md-12" id="MainNavBarQuickLinksDiv">
+                    <div class="col-xs-12 col-sm-8 col-md-8 col-lg-8 custom-search-box" id="navbarQuickLink">
+                        <div class="navbar-header col-xs-12 col-sm-12 col-md-12 col-lg-12" id="MainNavBarQuickLinksDiv">
                             <ul class="menu-top navbar-right" id="MainMenuNavBarul">
                                 <li class="divider hidden-xs"><a href="/">Home</a></li>
                                 <li class="divider" id="MainMenuLearnLi"><a href="https://learn.tafesa.edu.au/login/index.php" target="_blank" class="col-xs-12">learn</a></li>
@@ -272,9 +284,10 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [],
                                 <li class="hidden-xs"><a href="tel:1800 882 661">Freecall 1800 882 661</a></li>
                             </ul>
                         </div>
-                        <div class="custom-search" id="MainNavSearchDiv">
-                            <div class="input-group col-xs-12 col-md-6 pull-right">
-                                <div id="mainNav1_searchBox" indexcatalog="all">
+                        <div class="custom-search col-xs-12 col-sm-12 col-md-12 col-lg-12" id="MainNavSearchDiv">
+                            <div class="input-group col-xs-12 col-sm-12 col-md-8 col-lg-8 pull-right custom-search-box">
+                                <div class="col-xs-8 col-sm-9 col-md-9 col-lg-10 custom-search-box">
+                                    <div id="mainNav1_searchBox" indexcatalog="all">
 	
 
 
@@ -325,6 +338,67 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [],
 </script>
 
 </div>
+                                </div>
+                                <div class="col-xs-4 col-sm-3 col-md-3 col-lg-2 shopping-cart">
+                                    
+<link href="/SiteFinity/WebsiteTemplates/TAFESABootstrap/App_Themes/TAFESA/Global/Global/style.css" rel="stylesheet" type="text/css">
+<!-- <link href="/ecommerce/content/cart.css" rel="stylesheet" type="text/css"  /> -->
+<!-- <link href="/ecommerce/content/checkout.css" rel="stylesheet" type="text/css"  /> -->
+<link href="/ecommerce/content/style.css" rel="stylesheet" type="text/css">
+<script src="/ecommerce/scripts/checkout/cart.js"></script>
+<input type="hidden" name="ctl00$mainNav1$CartSummary1$CartDetailsUrlHiddenField" id="mainNav1_CartSummary1_CartDetailsUrlHiddenField" value="/ecommerce/cart">
+<input type="hidden" name="ctl00$mainNav1$CartSummary1$CheckoutUrlHiddenField" id="mainNav1_CartSummary1_CheckoutUrlHiddenField" value="/ecommerce/checkout">
+<input type="hidden" name="ctl00$mainNav1$CartSummary1$WebAPIGetCartUrlKeyHiddenField" id="mainNav1_CartSummary1_WebAPIGetCartUrlKeyHiddenField" value="http://www.tafesa.edu.au/ecommerce/api/cart">
+
+<script>
+
+    setUrl(changeHttp('http://www.tafesa.edu.au/ecommerce/api/cart'));
+    setCheckoutUrl('/ecommerce/checkout');
+    setCartUrl('/ecommerce/cart');
+
+    $(function () {
+        getCartItems();
+        $(window).resize(function () {
+            changeDropdownHeight();
+        });
+        $(window).ready(function () {
+            changeDropdownHeight();
+        });
+    });
+
+    function changeDropdownHeight() {
+        if ($(window).width() > 796) {
+            $('#Shopping-cart').css('max-height', ($(window).height() - 100) + 'px');
+        }
+        else {
+            $('#Shopping-cart').css('max-height', ($(window).height() - 150) + 'px');
+        }
+    }
+
+    function changeHttp(value) {
+
+        if (location.protocol === 'https:') {
+
+            if (value.indexOf("https://") === -1) {
+                value = value.replace("http://", "https://");
+            }
+        }
+
+        return value;
+    }
+</script>
+
+<div class="dropdown pull-right shopping-cart-placeholder">
+    <button class="btn btn-theme dropdown-toggle shopping-cart" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <i class="fa fa-shopping-cart fa-2x shopping-cart-fa" aria-hidden="true"></i>
+        <span id="lblQuantity"></span><span class="caret"></span>
+    </button>
+    <div class="dropdown-menu cart-items shopping-cart-dropdown" aria-labelledby="dropdownMenuButton" id="Shopping-cart" style="max-height: 668px;">
+        <ul id="cartitems" class="cart"></ul>
+    </div>
+</div>
+
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -343,7 +417,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [],
                 </button>
             </div>
             <div class="navbar-collapse collapse" id="bs-navbar-collapse">
-                <ul class="nav navbar-nav"><li class="nav-item dropdown"><a class="dropdown-toggle mainMenuItem" data-toggle="dropdown" data-navitem="Courses" data-delay="0" data-close-others="false" href="#">Courses <i class="fa fa-angle-down"></i><br>&nbsp;</a><ul class="dropdown-menu"><li class="nav-item dropdown"><a href="/courses/arts-design">Arts and Design</a></li><li class="nav-item dropdown"><a href="/courses/building-construction">Building and Construction</a></li><li class="nav-item dropdown"><a href="/courses/business-marketing">Business and Marketing</a></li><li class="nav-item dropdown"><a href="/courses/community-services">Community Services</a></li><li class="nav-item dropdown"><a href="/courses/education-languages">Education and Languages</a></li><li class="nav-item dropdown"><a href="/courses/government-property-legal">Government, Property and Legal</a></li><li class="nav-item dropdown"><a href="/courses/hair-beauty">Hair and Beauty</a></li><li class="nav-item dropdown"><a href="/courses/health-lifestyle">Health and Lifestyle</a></li><li class="nav-item dropdown"><a href="/courses/hospitality-tourism">Hospitality and Tourism</a></li><li class="nav-item dropdown"><a href="/courses/information-technology">Information Technology</a></li><li class="nav-item dropdown"><a href="/courses/mining-engineering-automotive">Mining, Engineering and Automotive</a></li><li class="nav-item dropdown"><a href="/courses/primary-industries-science">Primary Industries and Science</a></li><li class="nav-item dropdown"><a href="/courses/short-courses">Short Courses</a></li></ul></li><li class="nav-item dropdown"><a class="dropdown-toggle mainMenuItem" data-toggle="dropdown" data-navitem="Locations" data-delay="0" data-close-others="false" href="#">Locations <i class="fa fa-angle-down"></i><br>&nbsp;</a><ul class="dropdown-menu"><li class="nav-item dropdown"><a href="/locations/metro">Adelaide Metropolitan</a></li><li class="nav-item dropdown"><a href="/locations/adelaide-hills-fleurieu">Adelaide Hills and Fleurieu</a></li><li class="nav-item dropdown"><a href="/locations/barossa-riverland">Barossa and Riverland</a></li><li class="nav-item dropdown"><a href="/locations/far-north">Far North</a></li><li class="nav-item dropdown"><a href="/locations/limestone-coast">Limestone Coast</a></li><li class="nav-item dropdown"><a href="/locations/whyalla-eyre-peninsula">Eyre Peninsula</a></li><li class="nav-item dropdown"><a href="/locations/yorke-peninsula-mid-north">Yorke Peninsula and Mid-North</a></li><li class="nav-item dropdown"><a href="/locations/apy-lands">APY Lands</a></li></ul></li><li class="nav-item dropdown"><a class="dropdown-toggle mainMenuItem" data-toggle="dropdown" data-navitem="Apply and Enrol" data-delay="0" data-close-others="false" href="#">Apply and Enrol <i class="fa fa-angle-down"></i><br>&nbsp;</a><ul class="dropdown-menu"><li class="nav-item dropdown"><a href="/apply-enrol/how-to-apply">How to Apply and Enrol</a></li><li class="nav-item dropdown"><a href="/apply-enrol/admissions-criteria">Admissions Criteria</a></li><li class="nav-item dropdown"><a href="/apply-enrol/key-dates">Key Dates</a></li><li class="nav-item dropdown"><a href="/apply-enrol/fees-payments">Fees and Payments</a></li><li class="nav-item dropdown"><a href="/apply-enrol/fee-help">FEE-HELP</a></li><li class="nav-item dropdown"><a href="/apply-enrol/vet-student-loans">VET Student Loans</a></li><li class="nav-item dropdown"><a href="/apply-enrol/information-sessions">Information Sessions</a></li><li class="nav-item dropdown"><a href="/apply-enrol/secondary-school-courses">Secondary Schools</a></li><li class="nav-item dropdown"><a href="/apply-enrol/uni-pathway-programs">University Pathways</a></li><li class="nav-item dropdown"><a href="/apply-enrol/before-starting">Before Starting</a></li></ul></li><li class="nav-item dropdown"><a class="dropdown-toggle mainMenuItem" data-toggle="dropdown" data-navitem="Services" data-delay="0" data-close-others="false" href="#">Services <i class="fa fa-angle-down"></i><br>&nbsp;</a><ul class="dropdown-menu"><li class="nav-item dropdown"><a href="/services/aboriginal-support">Aboriginal Access Centre</a></li><li class="nav-item dropdown"><a href="/services/accommodation">Accommodation</a></li><li class="nav-item dropdown"><a href="/services/career-services">Career Services</a></li><li class="nav-item dropdown"><a href="/services/child-care">Childcare</a></li><li class="nav-item dropdown"><a href="/services/disability-support">Disability Support</a></li><li class="nav-item dropdown"><a href="/services/hire-facilities">Hire Facilities</a></li><li class="nav-item dropdown"><a href="/services/ict-support">ICT Support</a></li><li class="nav-item dropdown"><a href="/services/learning-support">Learning Support</a></li><li class="nav-item dropdown"><a href="/services/libraries">Libraries</a></li><li class="nav-item dropdown"><a href="/services/maintenance-request">Maintenance Request</a></li><li class="nav-item dropdown"><a href="/services/parchments-results">Parchments and Results</a></li><li class="nav-item dropdown"><a href="/services/counselling">Student Counselling</a></li><li class="nav-item dropdown"><a href="/services/student-id-card">Student ID Card</a></li></ul></li><li class="nav-item dropdown"><a class="dropdown-toggle mainMenuItem" data-toggle="dropdown" data-navitem="International" data-delay="0" data-close-others="false" href="#">International <i class="fa fa-angle-down"></i><br>&nbsp;</a><ul class="dropdown-menu"><li class="nav-item dropdown"><a href="/international/international-study">Why TAFE SA?</a></li><li class="nav-item dropdown"><a href="/international/international-courses">International Courses</a></li><li class="nav-item dropdown"><a href="/international/course-enquiry">Course Enquiry</a></li><li class="nav-item dropdown"><a href="/international/entry-requirements">Entry Requirements</a></li><li class="nav-item dropdown"><a href="/international/apply-international-student">Apply and Enrol</a></li><li class="nav-item dropdown"><a href="/international/university-pathway-programs">University Packaged Offers</a></li><li class="nav-item dropdown"><a href="/international/english-language-centre">English Language Centre</a></li><li class="nav-item dropdown"><a href="/international/adelaide-south-australia">About Adelaide</a></li><li class="nav-item dropdown"><a href="/international/int-support-services">Support Services</a></li><li class="nav-item dropdown"><a href="/international/agents-partners">Agents</a></li><li class="nav-item dropdown"><a href="/international/vocational-study-tours">Vocational Study Tours</a></li></ul></li><li class="nav-item dropdown"><a class="dropdown-toggle mainMenuItem" data-toggle="dropdown" data-navitem="Industry" data-delay="0" data-close-others="false" href="#">Industry <i class="fa fa-angle-down"></i><br>&nbsp;</a><ul class="dropdown-menu"><li class="nav-item dropdown"><a href="/industry/train-your-staff">Train Your Staff</a></li><li class="nav-item dropdown"><a href="/industry/innovation">Innovation and Technology</a></li><li class="nav-item dropdown"><a href="/industry/partnerships">Partnerships</a></li><li class="nav-item dropdown"><a href="/industry/workready-and-jobactive">WorkReady and jobactive</a></li><li class="nav-item dropdown"><a href="/industry/apprenticeships-and-traineeships">Apprenticeships and Traineeships </a></li><li class="nav-item dropdown"><a href="/industry/vet-in-schools">VET in Schools</a></li><li class="nav-item dropdown"><a href="/industry/youth-jobs-path">Youth Jobs PaTH</a></li><li class="nav-item dropdown"><a href="/industry/contact-us">Contact Us</a></li></ul></li><li class="nav-item dropdown"><a class="dropdown-toggle mainMenuItem" data-toggle="dropdown" data-navitem="About Us" data-delay="0" data-close-others="false" href="#">About Us <i class="fa fa-angle-down"></i><br>&nbsp;</a><ul class="dropdown-menu dropdown-menu-right"><li class="nav-item dropdown"><a href="/about-tafesa/about-tafe-sa">About TAFE SA</a></li><li class="nav-item dropdown"><a href="/about-tafesa/board">Our Board</a></li><li class="nav-item dropdown"><a href="/about-tafesa/management-team">Our Management Team</a></li><li class="nav-item dropdown"><a href="/about-tafesa/strategic-plan">Strategic Plan</a></li><li class="nav-item dropdown"><a href="/about-tafesa/asqa-audit-update">ASQA Audit Update</a></li><li class="nav-item dropdown"><a href="/about-tafesa/access">Improving Access to Education</a></li><li class="nav-item dropdown"><a href="/about-tafesa/publications">Publications</a></li><li class="nav-item dropdown"><a href="/about-tafesa/disclosure">Disclosure</a></li><li class="nav-item dropdown"><a href="/about-tafesa/jobs-at-tafesa">Jobs at TAFE SA</a></li><li class="nav-item dropdown"><a href="/about-tafesa/contact-us">Contact Us</a></li></ul></li></ul>
+                <ul class="nav navbar-nav"><li class="nav-item dropdown"><a class="dropdown-toggle mainMenuItem" data-toggle="dropdown" data-navitem="Courses" data-delay="0" data-close-others="false" href="#">Courses <i class="fa fa-angle-down"></i><br>&nbsp;</a><ul class="dropdown-menu"><li class="nav-item dropdown"><a href="/courses/arts-design">Arts and Design</a></li><li class="nav-item dropdown"><a href="/courses/building-construction">Building and Construction</a></li><li class="nav-item dropdown"><a href="/courses/business-marketing">Business and Marketing</a></li><li class="nav-item dropdown"><a href="/courses/community-services">Community Services</a></li><li class="nav-item dropdown"><a href="/courses/education-languages">Education and Languages</a></li><li class="nav-item dropdown"><a href="/courses/government-property-legal">Government, Property and Legal</a></li><li class="nav-item dropdown"><a href="/courses/hair-beauty">Hair and Beauty</a></li><li class="nav-item dropdown"><a href="/courses/health-lifestyle">Health and Lifestyle</a></li><li class="nav-item dropdown"><a href="/courses/hospitality-tourism">Hospitality and Tourism</a></li><li class="nav-item dropdown"><a href="/courses/information-technology">Information Technology</a></li><li class="nav-item dropdown"><a href="/courses/mining-engineering-automotive">Mining, Engineering and Automotive</a></li><li class="nav-item dropdown"><a href="/courses/primary-industries-science">Primary Industries and Science</a></li><li class="nav-item dropdown"><a href="/courses/short-courses">Short Courses</a></li></ul></li><li class="nav-item dropdown"><a class="dropdown-toggle mainMenuItem" data-toggle="dropdown" data-navitem="Locations" data-delay="0" data-close-others="false" href="#">Locations <i class="fa fa-angle-down"></i><br>&nbsp;</a><ul class="dropdown-menu"><li class="nav-item dropdown"><a href="/locations/metro">Adelaide Metropolitan</a></li><li class="nav-item dropdown"><a href="/locations/adelaide-hills-fleurieu">Adelaide Hills and Fleurieu</a></li><li class="nav-item dropdown"><a href="/locations/barossa-riverland">Barossa and Riverland</a></li><li class="nav-item dropdown"><a href="/locations/far-north">Far North</a></li><li class="nav-item dropdown"><a href="/locations/limestone-coast">Limestone Coast</a></li><li class="nav-item dropdown"><a href="/locations/whyalla-eyre-peninsula">Eyre Peninsula</a></li><li class="nav-item dropdown"><a href="/locations/yorke-peninsula-mid-north">Yorke Peninsula and Mid-North</a></li><li class="nav-item dropdown"><a href="/locations/apy-lands">APY Lands</a></li></ul></li><li class="nav-item dropdown"><a class="dropdown-toggle mainMenuItem" data-toggle="dropdown" data-navitem="Apply and Enrol" data-delay="0" data-close-others="false" href="#">Apply and Enrol <i class="fa fa-angle-down"></i><br>&nbsp;</a><ul class="dropdown-menu"><li class="nav-item dropdown"><a href="/apply-enrol/how-to-apply">How to Apply and Enrol</a></li><li class="nav-item dropdown"><a href="/apply-enrol/admissions-criteria">Admissions Criteria</a></li><li class="nav-item dropdown"><a href="/apply-enrol/key-dates">Key Dates</a></li><li class="nav-item dropdown"><a href="/apply-enrol/fees-payments">Fees and Payments</a></li><li class="nav-item dropdown"><a href="/apply-enrol/fee-help">FEE-HELP</a></li><li class="nav-item dropdown"><a href="/apply-enrol/vet-student-loans">VET Student Loans</a></li><li class="nav-item dropdown"><a href="/apply-enrol/information-sessions">Information Sessions</a></li><li class="nav-item dropdown"><a href="/apply-enrol/secondary-school-courses">Secondary Schools</a></li><li class="nav-item dropdown"><a href="/apply-enrol/uni-pathway-programs">University Pathways</a></li><li class="nav-item dropdown"><a href="/apply-enrol/before-starting">Before Starting</a></li><li class="nav-item dropdown"><a href="/apply-enrol/cspa">Core Skills Profile for Adults (CSPA)</a></li></ul></li><li class="nav-item dropdown"><a class="dropdown-toggle mainMenuItem" data-toggle="dropdown" data-navitem="Services" data-delay="0" data-close-others="false" href="#">Services <i class="fa fa-angle-down"></i><br>&nbsp;</a><ul class="dropdown-menu"><li class="nav-item dropdown"><a href="/services/aboriginal-support">Aboriginal Access Centre</a></li><li class="nav-item dropdown"><a href="/services/accommodation">Accommodation</a></li><li class="nav-item dropdown"><a href="/services/career-services">Career Services</a></li><li class="nav-item dropdown"><a href="/services/child-care">Childcare</a></li><li class="nav-item dropdown"><a href="/services/disability-support">Disability Support</a></li><li class="nav-item dropdown"><a href="/services/hire-facilities">Hire Facilities</a></li><li class="nav-item dropdown"><a href="/services/ict-support">ICT Support</a></li><li class="nav-item dropdown"><a href="/services/learning-support">Learning Support</a></li><li class="nav-item dropdown"><a href="/services/libraries">Libraries</a></li><li class="nav-item dropdown"><a href="/services/maintenance-request">Maintenance Request</a></li><li class="nav-item dropdown"><a href="/services/parchments-results">Parchments and Results</a></li><li class="nav-item dropdown"><a href="/services/counselling">Student Counselling</a></li><li class="nav-item dropdown"><a href="/services/student-id-card">Student ID Card</a></li></ul></li><li class="nav-item dropdown"><a class="dropdown-toggle mainMenuItem" data-toggle="dropdown" data-navitem="International" data-delay="0" data-close-others="false" href="#">International <i class="fa fa-angle-down"></i><br>&nbsp;</a><ul class="dropdown-menu"><li class="nav-item dropdown"><a href="/international/international-study">Why TAFE SA?</a></li><li class="nav-item dropdown"><a href="/international/international-courses">International Courses</a></li><li class="nav-item dropdown"><a href="/international/course-enquiry">Enquire Now</a></li><li class="nav-item dropdown"><a href="/international/entry-requirements">Entry Requirements</a></li><li class="nav-item dropdown"><a href="/international/apply-international-student">Apply and Enrol</a></li><li class="nav-item dropdown"><a href="/international/university-pathway-programs">University Packaged Offers</a></li><li class="nav-item dropdown"><a href="/international/english-language-centre">English Language Centre</a></li><li class="nav-item dropdown"><a href="/international/adelaide-south-australia">About Adelaide</a></li><li class="nav-item dropdown"><a href="/international/int-support-services">Support Services</a></li><li class="nav-item dropdown"><a href="/international/agents-partners">Agents</a></li><li class="nav-item dropdown"><a href="/international/vocational-study-tours">Vocational Study Tours</a></li></ul></li><li class="nav-item dropdown"><a class="dropdown-toggle mainMenuItem" data-toggle="dropdown" data-navitem="Industry" data-delay="0" data-close-others="false" href="#">Industry <i class="fa fa-angle-down"></i><br>&nbsp;</a><ul class="dropdown-menu"><li class="nav-item dropdown"><a href="/industry/train-your-staff">Train Your Staff</a></li><li class="nav-item dropdown"><a href="/industry/innovation">Innovation and Technology</a></li><li class="nav-item dropdown"><a href="/industry/partnerships">Partnerships</a></li><li class="nav-item dropdown"><a href="/industry/workready-and-jobactive">WorkReady and jobactive</a></li><li class="nav-item dropdown"><a href="/industry/apprenticeships-and-traineeships">Apprenticeships and Traineeships </a></li><li class="nav-item dropdown"><a href="/industry/vet-in-schools">VET in Schools</a></li><li class="nav-item dropdown"><a href="/industry/youth-jobs-path">Youth Jobs PaTH</a></li><li class="nav-item dropdown"><a href="/industry/contact-us">Contact Us</a></li></ul></li><li class="nav-item dropdown"><a class="dropdown-toggle mainMenuItem" data-toggle="dropdown" data-navitem="About Us" data-delay="0" data-close-others="false" href="#">About Us <i class="fa fa-angle-down"></i><br>&nbsp;</a><ul class="dropdown-menu dropdown-menu-right"><li class="nav-item dropdown"><a href="/about-tafesa/about-tafe-sa">About TAFE SA</a></li><li class="nav-item dropdown"><a href="/about-tafesa/board">Our Board</a></li><li class="nav-item dropdown"><a href="/about-tafesa/management-team">Our Management Team</a></li><li class="nav-item dropdown"><a href="/about-tafesa/strategic-plan">Strategic Plan</a></li><li class="nav-item dropdown"><a href="/about-tafesa/asqa-audit-update">ASQA Audit Update</a></li><li class="nav-item dropdown"><a href="/about-tafesa/publications">Publications</a></li><li class="nav-item dropdown"><a href="/about-tafesa/disclosure">Disclosure</a></li><li class="nav-item dropdown"><a href="/about-tafesa/jobs-at-tafesa">Jobs at TAFE SA</a></li><li class="nav-item dropdown"><a href="/about-tafesa/complaints-feedback">Complaints and Feedback</a></li><li class="nav-item dropdown"><a href="/about-tafesa/contact-us">Contact Us</a></li></ul></li></ul>
             </div>
         </div>
     </nav>
@@ -380,7 +454,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [],
                         <li class="breadcrumb-item"><a href="/">Home</a></li>
                             
                                 <li class="breadcrumb-item">
-                                    <a href="../privacy">Privacy</a>
+                                    <a href="privacy">Privacy</a>
                                 </li>
                             
                     </ol>
