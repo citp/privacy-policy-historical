@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the axparis.co.uk privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629151147id_/https%3A//www.axparis.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axparis.co.uk privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909052453id_/https%3A//www.axparis.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Women’s Fashion | Shop Online at AX Paris
+
+Sign up to the newsletter and get 10% off your first order  
+
+
+[ ](https://www.axparis.com/)
 
 Privacy matters AXPARIS recognizes the importance of our customers' privacy and takes a number of steps to protect that privacy. The following discloses the information gathering and dissemination practices for our web site.
 
