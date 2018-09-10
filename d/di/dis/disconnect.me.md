@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the disconnect.me privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004074156id_/https%3A//disconnect.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disconnect.me privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910120953id_/https%3A//disconnect.me/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This policy effective May 19, 2015
+This policy effective June 22, 2018
 
 We’re committed to protecting your privacy and collecting only the minimum amount of info needed to provide our software and services — referred to as “Services”. Your use of the Services indicates you agree to this policy and [our terms of use](https://web.archive.org/terms). 
 
@@ -14,6 +14,7 @@ Nothing in this policy contradicts the following statements:
   2. We don’t sell your personal info to advertisers or other third parties. 
   3. We share your personal info only when legally required, or when reasonably necessary to prevent harm in an emergency situation.
   4. We retain your personal info, excluding info you make public, for no more than 30 days after you request deletion. 
+  5. We have never received any legal or government demands for user information. 
 
 
 
@@ -52,6 +53,12 @@ In all instances, we’ll share the minimum info necessary to meet the immediate
 ###  4\. Disconnect retains the Personal Info you volunteer for one month or less 
 
 We remove your Personal Info from our records within 30 days of any request to do so. 
+
+###  5\. Transparency report 
+
+As explained above, we will comply with a request for user data when the law requires it, but we require valid legal process to compel the disclosure of user data to the government; such as a legitimate and properly scoped court order, or a search warrant supported by probable cause and issued by an appropriate law enforcement authority. We interpret requests narrowly, and we will oppose unlawful or overbroad requests for specific user data. 
+
+Recipients of National Security Requests can only publish reporting bands instead of specific figures. If we receive such a request, we may challenge these reporting bands, in addition to opposing any unlawful or overbroad requests. 
 
 ## Changes to this policy
 
