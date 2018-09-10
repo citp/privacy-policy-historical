@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easylearning.guru privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506110840id_/http%3A//www.easylearning.guru/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easylearning.guru privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910142640id_/http%3A//easylearning.guru/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Easylearning Guru| Easylearning Guru Hadoop Training
 
