@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bjsrestaurants.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902215512id_/https%3A//www.bjsrestaurants.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bjsrestaurants.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911010356id_/https%3A//www.bjsrestaurants.com/privacy-policy) for the most accurate reproduction.*
 
-# Updated Privacy Policy | BJ's Restaurants and Brewhouse
+# Updated Privacy Policy - Online Information Security Disclosure | BJ's Restaurants and Brewhouse
 
 **BJ’s Restaurants, Inc.**
 
