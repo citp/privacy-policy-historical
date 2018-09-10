@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keepinspiring.me privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625014911id_/http%3A//www.keepinspiring.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keepinspiring.me privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910042340id_/http%3A//www.keepinspiring.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
