@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techwyse.com privacy policy that was archived on 2018-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180430060515id_/https%3A//www.techwyse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techwyse.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910201623id_/https%3A//www.techwyse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TechWyse
 
@@ -35,3 +35,15 @@ TechWyse will not retain your personal information longer than is necessary to f
 ## Third-Party Web Beacons
 
 We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, click the request information button below.
+
+## CAN-SPAM and CASL Compliant
+
+TechWyse is compliant with CAN-SPAM and CASL regulations in all email communication in order to ensure the protection of user data. All email communication to users is through opt-in consent, display the sender’s contact and business information, provide a visible unsubscribe link, and are always truthful.
+
+TechWyse explicitly states a truthful subject line, email subject matter, URLs, and hyperlinks. We also include the street address and company name in all marketing and sales email communication by TechWyse or on behalf of clients.
+
+In correspondence with regulations, it is our duty to ensure email lists and personal information are up-to-date. 
+
+## GDPR Compliant
+
+TechWyse is compliant with the General Data Protection Regulation (GDPR) for email communication in and outside of the European Union as of May 25, 2018. This is to ensure the protection of user data of E.U. citizens by requiring user opt-in consent for email communication. Any user data that is stored is by pseudonymization or anonymization. Opt-in consent for email communication can be withdrawn at any time.
