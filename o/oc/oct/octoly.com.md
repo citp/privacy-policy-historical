@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the octoly.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227215748id_/https%3A//www.octoly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the octoly.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910230127id_/https%3A//www.octoly.com/privacy) for the most accurate reproduction.*
 
-# Octoly.com
+# Privacy Policy | Octoly.com
 
-Updated on November 17th, 2016 
-
-Protecting Your personal information is Octoly's priority. This privacy policy (the “Privacy Policy”) governs Your access and use of Octoly’s Site available at the following URL address: www.octoly.com (the "Site") and the services related to or offered on the Octoly platform (the “Platform”) which can be accessed by creators (the “Creators”) after having registered at the following URL address: [www.octoly.com/pro/sign_up](https://www.octoly.com/pro/sign_up) , and by clients by subscribing to the Platform by executing and agreement with Octoly (hereinafter collectively, the "Services"), and governs collection and processing of Your data by Octoly, Inc and any of its affiliates. 
+Protecting Your personal information is Octoly's priority. This privacy policy (the “Privacy Policy”) governs Your access and use of Octoly’s Site available at the following URL address: [https://www.octoly.com/](https://web.archive.org/) (the "Site") and the services related to or offered on the Octoly platform (the “Platform”) which can be accessed by creators (the “Creators”) after having registered at the following URL address: [https://www.octoly.com/creators/sign_up](https://web.archive.org/creators/sign_up) , and by clients by subscribing to the Platform by executing and agreement with Octoly (hereinafter collectively, the "Services"), and governs collection and processing of Your data by Octoly, Inc and any of its affiliates. 
 
 For the purposes of the Privacy Policy, unless otherwise noted, all references to "Octoly" will therefore include Videoagency, Octoly, Inc. and their affiliates. 
 
@@ -12,7 +10,7 @@ For the purposes of the Privacy Policy, unless otherwise noted, all references t
 
 By using and accessing the Services, You either as an individual or a single entity ("You" or "Your" as applicable), hereby fully consent to all terms of the Privacy Policy. 
 
-The Services are not accessible to children under the age of thirteen. Therefore, by using and accessing the Services, You warrant that You are over the age of 13. If You are under 13 years of age, do not use or access the Services at any time or in any manner. If You are between 13 and 18, You must have the prior written authorisation of Your parent or guardian to use and access the Site and the Platform. 
+The Services are not accessible to children under the age of sixteen. Therefore, by using and accessing the Services, You warrant that You are over the age of 16. If You are under 16 years of age, do not use or access the Services at any time or in any manner. 
 
 ## 2\. Data Collection
 
@@ -22,7 +20,9 @@ Use of the Site: when You use the Site, Data about Your computer hardware and so
 
 Registration and/or subscription to the Platform: when registering and/or subscribing to the Platform, You will transmit to Octoly Your name, address and email address. Octoly may also collect anonymous demographic information, which is not unique to You, such as Your age and gender. 
 
-Social media: If You access or log-in to the Site and/or Platform through a social media or other service or connect the Site and/or Platform to a social media or other service, the information Octoly collects may also include Your user ID and/or user name associated with that social media service, any information or content You have permitted the social media service to share with Octoly, such as Your profile picture, email address or friends lists, and any information You have made public in connection with that social media service. When You access the Site and/or Platform through social media services or when You connect the Site and/or Platform to social media services, You are authorizing Octoly to collect, store, and use such information to perform the Services. 
+Log-in through social media: If You access or log-in to the Site and/or Platform through a social media or other service or connect the Site and/or Platform to a social media or other service, the information Octoly collects may also include Your user ID and/or user name associated with that social media service, any information or content You have permitted the social media service to share with Octoly, such as Your profile picture, email address or friends lists, and any information You have made public in connection with that social media service. When You access the Site and/or Platform through social media services or when You connect the Site and/or Platform to social media services, You are authorizing Octoly to collect, store, and use such information to perform the Services. 
+
+Social Media Data as described under Section 6 of the Privacy Policy. 
 
 The Data shall not be public unless shared by You within Your Octoly account. Please keep in mind that if You directly disclose personally identifiable information or personally sensitive data through Octoly's public message boards, this information may be collected and used by others. Such disclosure will be made under Your sole responsibility. 
 
@@ -54,22 +54,42 @@ Other than set forth herein, Octoly does not sell, rent or lease the Data to thi
 
 ## 5\. Use of Cookies/Targeted Advertising
 
-Octoly or third parties authorized by Octoly (such as advertisers and analytics companies), may use tracking technology such as "cookies" to help personalize Your online experience. A cookie is a text file that is placed on Your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to Your computer. Cookies are uniquely assigned to You, and can only be read by a web server in the domain that issued the cookie to You. For more information about cookies, please visit: www.allaboutcookies.org 
+Octoly or third parties authorized by Octoly (such as advertisers and analytics companies), may use tracking technology such as "cookies" to help personalize Your online experience. A cookie is a text file that is placed on Your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to Your computer. Cookies are uniquely assigned to You, and can only be read by a web server in the domain that issued the cookie to You. For more information about cookies, please visit: [www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
 You have the ability to accept or decline cookies by indicating Your choice in the cookie banner displayed when connecting to the Site and/or the Platform. If You choose to decline cookies, You may not be able to fully experience the interactive features of the Octoly services or websites You visit. 
 
-You can choose to limit Behavioral Advertising on the Site by clicking http://www.aboutads.info/choices/ and opting-out of cookies placed by those vendors listed. After You opt-out, You will still see advertisements but the advertising may not be as relevant to Your interests. If You change Your computer, change Your browser, or delete Your cookies, You will need to renew Your opt-out. 
+You can choose to limit Behavioral Advertising on the Site by clicking <http://www.aboutads.info/choices/> and opting-out of cookies placed by those vendors listed. After You opt-out, You will still see advertisements but the advertising may not be as relevant to Your interests. If You change Your computer, change Your browser, or delete Your cookies, You will need to renew Your opt-out. 
 
-## 6\. Security and storage of the Data
+## 6\. Social Media Data
+
+### 6.1. YouTube Data
+
+As a Creator, You acknowledge and agree that the Octoly uses YouTube’s API to collect and store all information and data available within Your YouTube account including, without limitation, the title of Your YouTube channels, their date and country of creation, images and description, number of views, number of videos, number of comments, number of subscribers (“YouTube Data”). Therefore, by using the Platform, You notably agree to be bound to the Google Privacy Policy available at the following URL address: [http://www.google.com/policies/privacy.](http://www.google.com/policies/privacy)
+
+The YouTube Data is collected to (i) confirm Your subscription to the Platform and to (ii) compute statistics regarding Your Octoly activity. Your YouTube Data is stored in Octoly’s servers and shared with Octoly’s privileged partners for statistical purposes. 
+
+You can revoke at any time Octoly’s access to Your YouTube Data via the Google security settings page available at the following URL address: [https://security.google.com/settings/security/permissions.](https://security.google.com/settings/security/permissions)
+
+### 6.2. Instagram Data
+
+As a Creator, You acknowledge and agree that Octoly collects and stores all information and data available within Your Instagram account including, without limitation, the title of Your Instagram channels, their date and country of creation, images and description including Your stories, number of views, number of pictures, number of comments, number of subscribers (“Instagram Data”). 
+
+The Instagram Data is collected to (i) confirm Your subscription to the Platform and to (ii) compute statistics regarding Your Octoly activity. Your Instagram Data is stored in Octoly’s servers and shared with Octoly’s privileged partners for statistical purposes. 
+
+You can revoke at any time Octoly’s access to Your Instagram Data by sending an email to Octoly at: dpo@Octoly.com. 
+
+## 7\. Security and storage of the Data
 
 Octoly secures the Data from unauthorized access, use or disclosure by unauthorized third parties and ensures that will take all appropriate measures to limit the risk that it may be lost, damaged or misused. 
 
 Data is stored on secured third party servers in the USA. The Data is kept only as long as necessary for the purposes set out above. After that point, Data is kept only for statistical and evidence purposes and shall not be used for any other reason. Once such period is expired, the Data is destroyed. 
 
-## 7\. Your rights
+## 8\. Your rights
 
 You are entitled to access, correct and ask for Your Data to be deleted by requesting to do so via Your Personal settings and Account Information or by sending a letter to the following address: Octoly Inc. - 244 Fifth Avenue, Suite D61 NYC - New York 10001 - U.S. 
 
-You can also opt-out of receiving announcements of certain information by following the unsubscribe instructions provided in the promotional e-mail You receive, by choosing Your preferred settings at the following URL address: https://www.octoly.com/creators/settings/notifications or by sending us an email to : hello@octoly.com. 
+You can also opt-out of receiving announcements of certain information by following the unsubscribe instructions provided in the promotional e-mail You receive, by choosing Your preferred settings at the following URL address: [https://www.octoly.com/creators/settings/notifications](https://web.archive.org/creators/settings/notifications) or by sending us an email to : dpo@octoly.com. 
 
 At this time Octoly does not respond to browser 'Do Not Track' signals, as Octoly awaits the work of interested stakeholders and others to develop standards for how such signals should be interpreted. 
+
+Updated on April 9th, 2018 
