@@ -1,69 +1,45 @@
-> *The following text is extracted and transformed from the trafficengine.net privacy policy that was archived on 2014-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140410064657id_/http%3A//trafficengine.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficengine.net privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910062629id_/http%3A//trafficengine.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Traffic Engine - Search Engine Marketing Technology
+# Privacy policy – Traffic Engine
 
-Traffic Engine, Inc.(TE) is committed to protecting your privacy. This Privacy Policy explains the type of information TE collects through its website and what TE does with it. Please read the following privacy policy carefully before using the TE website. If you use the TE website, you will be bound by the terms of this Privacy Policy. This policy may change from time to time so you should check it frequently. TE does not attempt to determine the identity of any TE user by analyzing Web usage paths. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](mailto:privacy@trafficengine.net).
 
-If you are visiting TRAFFIC ENGINE.COM and you search the internet from the website, we collect the following information: your Internet Protocol ("IP") address, which may include a domain name; the name of and information about any advertisement that brought you to the TE website; searches you perform, links you click on; and computer and connection information such as browser type and version, operating system, and platform. We also transmit cookies to your computer so we can know your browser's language, the version of our site you viewed and the country you are from.
+At http://trafficengine.net we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by http://trafficengine.net and how we use it.
 
-TE analyzes its logs of usage path collected from users to determine Web usage and shopping patterns of users in the aggregate.
+**Log Files**  
+Like many other Web sites, http://trafficengine.net makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-If you e-mail TE, we may store copies of such e-mail or similar communications between you and TE. This can result in the collection of your e-mail address or other personally identifiable information you may have in your e-mail text, addresses, or other fields, as well as the collection of the your IP address, the Internet or other routing of your communication, and the date and time of your communication. We do not attempt to correlate this information to your TE cookie number or your usage and shopping paths unless responding to your inquiry requires us to do so.
+**Cookies and Web Beacons**  
+http://trafficengine.net uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
 
-Although these information logs may contain personally identifiable information, TE does not attempt to correlate cookie numbers, usage paths, or demographic information to your e-mail address and does not attempt to determine the identity of any TE user by analyzing this information, except as required by subpoenas, court orders or legal requirements.
+**DoubleClick DART Cookie**
 
-Although these information logs may contain personally identifiable information, TE does not attempt to correlate cookie numbers, usage paths, or demographic information to your e-mail address and does not attempt to determine the identity of any TE user by analyzing this information, except as required by subpoenas, court orders or legal requirements.
+→ Google, as a third party vendor, uses cookies to serve ads on http://trafficengine.net.  
+→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to http://trafficengine.net and other sites on the Internet.  
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
-All transmissions between you and TE, including e-mails, URLs, cookie identification numbers, usage paths, and any personally identifiable information they might contain, pass through many third party machines, operating systems, programs, browsers, Web servers, networks, routers, Ethernet switches, ISPs, proxy servers, intranets, the public telephone systems, or other devices, any of which may create activity logs containing such transmissions.
+**Our Advertising Partners**
 
-If you gave us your e-mail address, TE may contact you by e-mail to respond to reviews, ratings, and customer service inquiries you submit. We do not disclose your e-mail address to business partners or to anyone other than employees and agents working for or on behalf of TE, except as required by subpoenas, court orders, or legal requirements. We do not use your e-mail address to correlate your identity to your Web usage paths.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
 
-How does TE share the information it collects? TE does not attempt to determine the identity of its users or correlate their e-mail addresses with their Web usage paths. Except as described below, TE does not intentionally disclose personally identifying information collected from any user to any third party without the user's consent.
+_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:  [Privacy Policies](http://www.privacypolicyonline.com/privacy-policies).  
+You may consult this listing to find the privacy policy for each of the advertising partners of http://trafficengine.net._
 
-We do not use your cookies or usage paths to attempt to determine your identity. We use IP addresses to diagnose problems with our servers and to administer our website. Your IP address also is used by TE to gather broad demographic information, such as your general geographic location and Internet Service Provider. IP addresses are further used to help determine the number of TE users. This demographic information may also be used by TE to analyze aggregate Web usage behavior.
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on http://trafficengine.net and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
 
-We disclose any information we possess in response to subpoenas, court orders, or legal requirements, and such information might be used by the receiving party to determine your identity, your Web usage or other things about you. We generally do not inform users of such requests for information, although we might try to do so in some cases.
+http://trafficengine.net has no access to or control over these cookies that are used by third-party advertisers.
 
-TE does not attempt to determine the identity of its users or correlate their e-mail addresses with their Web usage paths. Except as described below, TE does not intentionally disclose personally identifying information collected from any user to any third party without the user's consent.
+**Third Party Privacy Policies**
 
-We provide "stripped" usage path information, demographic information, and shopping path information, to researchers, and other third parties. They use it to prepare analyses of aggregate Web patterns and trends. Such analyses are used in research and commercial reports.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://trafficengine.net’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
 
-We disclose any information we possess in response to subpoenas, court orders, or legal requirements, and such information might be used by the receiving party to determine your identity, your Web usage or other things about you. We generally do not inform users of such requests for information, although we might try to do so in some cases.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
 
-All transmissions between you and TE, including e-mails, URLs, cookie identification numbers, usage paths, and any personally identifiable information they might contain, pass through many third party machines, operating systems, programs, browsers, Web servers, networks, routers, Ethernet switches, ISPs, proxy servers, intranets, the public telephone systems, or other devices, any of which may create activity logs containing such transmissions.
+**Children’s Information**  
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. http://trafficengine.net does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that http://trafficengine.net has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
 
-If you gave us your e-mail address, TE may contact you by e-mail to respond to reviews, ratings, and customer service inquiries you submit. We do not disclose your e-mail address to business partners or to anyone other than employees and agents working for or on behalf of TE, except as required by subpoenas, court orders, or legal requirements. We do not use your e-mail address to correlate your identity to your Web usage paths.
+**Online Privacy Policy Only**  
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
 
-We do not use your cookies or usage paths to attempt to determine your identity. We use IP addresses to diagnose problems with our servers and to administer our website. Your IP address also is used by TE to gather broad demographic information, such as your general geographic location and Internet Service Provider. IP addresses are further used to help determine the number of TE users. This demographic information may also be used by TE to analyze aggregate Web usage behavior.
-
-TE does not attempt to determine the identity of its users or correlate their e-mail addresses with their Web usage paths. Except as described below, TE does not intentionally disclose personally identifying information collected from any user to any third party without the user's consent.
-
-We provide "stripped" usage path information, demographic information, and shopping path information, to researchers, and other third parties. They use it to prepare analyses of aggregate Web patterns and trends. Such analyses are used in research and commercial reports.
-
-We disclose any information we possess in response to subpoenas, court orders, or legal requirements, and such information might be used by the receiving party to determine your identity, your Web usage or other things about you. We generally do not inform users of such requests for information, although we might try to do so in some cases.
-
-We employ other companies and individuals to perform functions on our behalf, such as technical support services. To perform those functions, it may be necessary for them to obtain access to TE 's databases and servers, which may contain personally identifying information about users. They may not use such access or information for any purpose other than that for which they are retained.
-
-In the event that TE or substantially all of its assets are sold or acquired, all information collected by TE would be transferred to the acquiring party. In any such transfer, however, such information would remain subject to any applicable terms and conditions, including the terms of this Privacy Policy and any amendment thereto.
-
-TE uses commercially reasonable computer security safeguards to protect its databases and servers against risks of loss, unauthorized access, destruction, misuse, modification, or inadvertent or improper disclosure of data. These risks, however, cannot be completely eliminated and TE therefore cannot guarantee complete security. TE prohibits its employees from using any of this information to determine your identity.
-
-No confidentiality for customer feedback.
-
-Feedback and other comments and statements that you chose to submit to TE by any means whether by e-mail to TE Customer Support, telephone, letter, or any other means shall be considered non confidential. TE is free to use such information on an unrestricted basis.
-
-Data collection and use practices by other businesses that are not controlled by TE.
-
-The TE website provides links to various features, services, and Web pages provided solely by our business partners or other organizations. The links take you to pages provided solely by those entities, although sometimes the pages are co-branded with the TE logo. You will be able to tell when another entity is involved with providing features, services, or Web pages, and any information about your interaction with those Web pages, including which pages and advertisements you view and any search terms or other information you enter, will be received by that other business.
-
-When you click on links to other businesses, those businesses may attach a cookie to your hard drive and may collect information about you. TE makes no claims or representations about what those businesses do or do not collect about you. Please review any terms of use and privacy policies of those other businesses to learn about their data collection and data use practices.
-
-Further, our business partners may post advertisements on pages co-branded with the TE logo. Those advertisements are transmitted to your browser directly by the advertiser or the business partner, not by TE, and those advertisers may transmit a cookie to your hard drive and may collect information about you. If an advertiser or its ad server has previously placed a cookie on your machine, it may recognize the cookie and learn you have visited our co-branded Web page or used our website even though you do not click on the advertisement. TE makes no claim or representations concerning what such advertisers do or do not collect about you, and refers you to those entities for information about their privacy practices.
-
-You acknowledge and agree that TE is not responsible for any content, advertising, products, or other materials on the websites (whether co-branded with the TE logo or not) of or available from other businesses that we do not control. You further acknowledge that TE shall not be responsible or liable, directly or indirectly, for any damage or loss caused by or in connection with use of or reliance on any such content, goods or services available on or through any such site or resource.
-
-TE does not collect any personally identifiable information or try to aggregate the different data we might have to identify an individual, you don't have to worry about changing the information that we gathered on your usage of our website. If you have more questions regarding the information that we collect or the way that we use it, do not hesitate to contact us.
-
-Traffic Engine Management Team
-
-| 
+**Consent**  
+By using our website, you hereby consent to our privacy policy and agree to its terms.
