@@ -1,37 +1,69 @@
-> *The following text is extracted and transformed from the go4hosting.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606214112id_/https%3A//www.go4hosting.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go4hosting.in privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911001748id_/https%3A//www.go4hosting.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Go4Hosting
 
-Please carefully read the below mentioned Privacy Policy of Go4hosting TM that contains the brief explanation of the following:
+It would behoove you to familiarize yourself with our Privacy Policy, and contact us at Cyfuture India Pvt. Ltd., 197/198, NSEZ, Noida, India - 201301, for any further clarifications.
 
-**Information gathered on Go4hosting TM 's Web Site**  
-Any information collected by Go4hosting TM , at its web site from customers and/or prospective customers, will be used for communicating with the customer or prospective customer. Any financial information collected from the customers during an Order Process shall be used to verify customer identity, credit worthiness and also for billing purposes for the services ordered and/or rendered.
+### PERSONAL INFORMATION: COLLECTION & USAGE
 
-Go4hosting may collect and store related information such as Website visitors' IP address, date and time of visits, transcripts of the Live Help sessions, etc. This information may be used to gather statistical information as well as to maintain records relating to order validation, fraud prevention, etc.
+For the purposes of this privacy policy, any information that can potentially identify a person comes under the ambit of “Personal Information”. Cyfuture services request you to provide personal Information when you interact with them, and the information you provide is used in accordance with the Cyfuture Privacy Policy. This information may be used in combination with generic information for various purposes such as marketing & advertising or product development. In case you refrain from providing your personal information, you may not be able to utilize optimum benefits from Cyfuture products.
 
-**Information gathered by Email and other Customer Communication **  
-Go4hosting may collect and retain information received from Customers and prospecting customers via emails and other means of communication with Go4hosting. Also Go4hosting may collect and maintain information provided to Go4hosting by customers during Customer Service and/or Technical Support incidents.
+You might provide your name, email, physical address, phone number, IP address, credit card information among other personal information when you explore our services, take part in a survey, or contact us. Cyfuture collects this data for better recommending suitable products and services.
 
-**Information Distribution**  
-Any customer information collected by Go4hosting will not be divulged to any unrelated third party. Go4hosting may share customer's and prospective customer's information with Go4hosting's partners and vendors in connection with Go4hosting's normal course of business. It is Go4hosting's policy to protect customer's financial information by using reasonable, commercially available methods. However, Go4hosting may share customer information as described below:
+With your consent, the data you provide is used in accordance with this Privacy Policy, legislative requirements (including region-specific restrictions and guidelines, if any), and legitimate disclosure laws. We use the data we collect to update you about our offerings, feature additions or enhancements, and other updates in relation to the performance & security of our services.
 
-  * **WHOIS: **  
-We are required by the 'Internet Corporation for Assigned Names and Numbers (or "ICANN") to collect information about you during the domain name registration process. This information includes your full name, mailing address, phone number, email address, and, where provided, your facsimile number. ICANN then requires all registrars to make your full name, mailing address, phone number, email address, and, where provided, your facsimile number, as well as the creation and expiration dates of your domain name registration and the name server information associated with your domain name, to the public via an interactive Web page and a "port 43" WHOIS service. For the purposes of this Privacy Notice we will refer to this information as your "WHOIS Information." Please note that we may not be able to control how members of the public may use the WHOIS Information.
-  * **Advertisers: **  
+This data is used in the development of new products & services, network & transaction security and financial verification wherever necessary.
 
-  * **Agents:**  
-We engage other companies and individuals to perform functions on our behalf. Examples include processing credit card payments, providing marketing assistance, providing customer services, sending postal mail and email to you, removing repetitive information from customer lists, and analyzing data. These persons have access to personal information needed to perform their functions. These companies do not retain, share, store or use personally identifiable information that you provide to Go4hosting, Cyber Futuristics (I) Pvt. Ltd., for any secondary purposes.
-  * **Business Transfer: **  
-As we continue to develop our business, we might sell or buy businesses or their assets. In such transactions, customer information generally is one of the transferred business assets. Also, if Go4hosting, Cyber Futuristics (I) Pvt. Ltd., or all or substantially all of its assets were ever to be acquired, customer information will of course be one of the transferred assets.
-  * **Compliance: **  
-We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our Services Agreement and other agreements; or protect the rights, property, or safety of Go4hosting, Cyber Futuristics (I) Pvt. Ltd, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
-  * **Partners: **  
-We partner with other parties to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services.
-  * **Service Providers: **  
-We engage other companies and individuals to perform enhanced services on our behalf. For example, we have engaged Critical Path, Inc. to provide free electronic mail services to our domain name registrants. In addition, certain of our enhanced services such as our website generator require that we contact Internet directories and various search engines on your behalf. Many of our service providers have access to personal information needed to perform their services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
+Personal information that you provide lets us keep you informed about changes in our products, services, the terms & conditions relating to them, and important security updates. We may use the data for system performance analysis, internal auditing and process improvement purposes. The carrying out of promotional activities and limited-period offers makes use of this data as well. For preventing fraud and illegal financial transactions, we may validate your personal information through comparison with public resources and databases to avoid monetary or privacy loss. 
+
+Third parties also create databases of personal information, which may be acquired and used by us in the development and deployment of our products & services according to prevalent laws governing the usage of such databases. 
+
+### PERSONAL INFORMATION: PROTECTION
+
+Cyfuture is committed to protect your personal information stored with us. We use a variety of security technologies and procedures to help protect your personal data from unauthorized access, use or disclosure. 
+
+### CONSEQUENCES OF NOT PROVIDING PERSONAL INFORMATION
+
+If you choose not to provide your Personal Information when the same is mandatory to process your request, we may not be able to provide the requested service.
+
+### ACCESS, CORRECTION AND OBJECTION OF PERSONAL INFORMATION
+
+Your active participation in keeping the data Cyfuture stores about you is encouraged. You can request us to update your personal information in case of changes or errors, and also request deletion, provided we are not required to retain the data for specified amounts of time by law.
+
+### SHARING WITH OR DISCLOSURE TO THIRD PARTIES
+
+In certain cases, it might become necessary to share personal information with law enforcement, legal or government authorities. These cases may arise from litigation, from public or government requests, or from national security reasons. In such cases, Cyfuture will be obliged to disclose your personal information to only the relevant authorities, and to inform you in such events.
+
+In case of any mergers & acquisitions, sale of company assets or reorganization of the firm, Cyfuture may be required to transfer any and all data to third party or parties, including personal information.
+
+### THIRD-PARTY SERVICES 
+
+Cyfuture products and services might contain links that lead to third-party applications or resources. If you choose to visit or interact with those third parties and their affiliates, the data you provide to them is governed by their separate privacy policies, to which you should pay heed regarding the usage of your personal information by them. Cyfuture has no control or responsibility towards data collected, stored and manipulated by third parties.
+
+### RETENTION OF PERSONAL DATA
+
+We will retain your personal data for as long as needed to provide the access and use of the website unless a longer period of retention is required either by law, or is necessitated for a legitimate business purpose.
+
+### INFORMATION SPECIFICALLY RELEVANT FOR EU USERS (GDPR)
+
+Cyfuture is ardently pursuant of GDPR directives for data subjects in the EU. If you are a user of Cyfuture services in the European Union, you have the following rights with respect to Cyfuture’s handling of your personal information:
+
+  * You can request an explanation of personal data processing, handling and usage by us;
+  * You also have the right to receive a copy of the information that we collect about you whether the information is collected on the basis of consent or because the said information was required by us in order to provide the requested services.
+  * You possess the right to withdraw your consent for personal data processing, at any time to prevent future processing;
+  * You have the right to request correction of your personal data that has been stored with us in case you believe the same is not accurate;
+  * You may request deletion of your personal data, provided this request does not contravene any laws or legal procedures;
+  * You have the right to object to Cyfuture’s processing of their personal information; 
+  * You can contact the relevant data protection authority for issues regarding your personal data.
 
 
 
-**Modification on this Policy**  
-Go4hosting may modify its Privacy Policy at any time by placing a revised copy of the privacy Policy at its web site at:   
-[http://www.go4hosting.in/privacy-policy](https://www.go4hosting.in/privacy-policy)
+**DATA TRANSFER :** In order for us to provide the services to you, your personal information will be transferred to, and stored at/processed in our servers in accordance with extant laws. Your personal data is also processed by staff operating in global locations. We will take all steps reasonably necessary to ensure that your personal data is treated securely and in accordance with this policy.
+
+### QUERIES REGARDING PRIVACY 
+
+Cyfuture is always open to answering queries, providing clarifications and addressing concerns regarding your privacy. If you have any questions regarding this Privacy Policy, please contact us via e-mail at: [privacy@cyfuture.com](mailto:privacy@cyfuture.com)
+
+### PRIVACY POLICY UPDATES
+
+We may update this privacy policy from time to time. We encourage you to periodically review this privacy to understand how Cyfuture is protecting your information. If any change is unacceptable to you, you have the right to cease using this website. If you do not do so, you will be deemed to have accepted our then current Privacy Policy. 
