@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the jacobbromwell.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012122604id_/https%3A//www.jacobbromwell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacobbromwell.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910181904id_/https%3A//www.jacobbromwell.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jacob Bromwell®
 
-## PRIVACY POLICY - THE BROMWELL COMPANY  
+## PRIVACY POLICY - THE BROMWELL COMPANY, INC.  
 
 
-Rev: 5/3/2016
+Rev: 5/25/2018
 
 ## GENERAL
 
 * * *
 
-The Bromwell Company ("Bromwell") respects the privacy of every individual who visits jacobbromwell.com (the "Website") or responds to our guestbook, contests, or interactive advertisements. Bromwell's Privacy Policy outlines the information Bromwell will collect and how we will use that information. This Policy will also inform you what to do if you do not want your Personal Information to be shared or divulged when you visit our Website or respond to our advertising.
+The Bromwell Company, Inc. ("Bromwell") respects the privacy of every individual who visits jacobbromwell.com (the "Website") or responds to our guestbook, contests, or interactive advertisements. Bromwell's Privacy Policy outlines the information Bromwell will collect and how we will use that information. This Policy will also inform you what to do if you do not want your Personal Information to be shared or divulged when you visit our Website or respond to our advertising.
 
 We do not attempt to collect excessive or irrelevant information, whether that information personally identifies you or not. We collect information solely for the purposes stated below. We will take reasonable steps to delete or de-identify information about you that we collect when it is no longer needed to interact with you. You agree that until you notify us by following the instructions under "Opt-out" below or we determine that the information is no longer needed, we may retain the information indefinitely.
 
@@ -71,13 +71,13 @@ We may provide links to websites outside of our Website. These linked sites are 
 
 * * *
 
-If after registering on or otherwise providing your Personal Information when visiting our Website you no longer wish to receive any materials, offers or correspondence, please send an email to [service@bromwell.com](mailto:service@bromwell.com), indicating your preference to "unsubscribe" and we will promptly remove you from our list. Please be sure to include your name and email address in your email. You can also submit your opt-out request through this self-service form, email opt-out.
+If after registering on or otherwise providing your Personal Information when visiting our Website you no longer wish to receive any materials, offers or correspondence, please send an email to [info@bromwell.com](mailto:info@bromwell.com), indicating your preference to "unsubscribe" and we will promptly remove you from our list. Please be sure to include your name and email address in your email. You can also submit your opt-out request through this self-service form, email opt-out.
 
 ## CONTACT US
 
 * * *
 
-If you have any questions regarding this privacy policy or would like to have any Personal Information updated or deleted from our records please contact us at: [service@bromwell.com](mailto:service@bromwell.com)
+If you have any questions regarding this privacy policy or would like to have any Personal Information updated or deleted from our records please contact us at: [info@bromwell.com](mailto:info@bromwell.com)
 
 ## HOW TO PROTECT THE SECURITY OF YOUR FINANCIAL INFORMATION
 
