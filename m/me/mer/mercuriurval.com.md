@@ -1,19 +1,60 @@
-> *The following text is extracted and transformed from the mercuriurval.com privacy policy that was archived on 2017-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170522061235id_/http%3A//www.mercuriurval.com/FooterInfoModal.aspx%3Fcountry%3DUS%26lang%3DEN%26Content%3DPrivacy%26keepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D370%26width%3D675) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercuriurval.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910022555id_/https%3A//www.mercuriurval.com/en-us/about-us/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy - Mercuri Urval
 
-**This Privacy Policy** describes how Mercuri Urval Group plc collects, uses and safeguards personal information that you may provide to us.  When we refer to personal information we mean information or an opinion about you, from which your identity is apparent or can be reasonably ascertained.   We are committed to promoting confidence in the manner in which your personal information is handled by us.  In this regard, we will act ethically and as evidence of this commitment, we will comply with the privacy and data protection requirements of the countries in which we operate.
+## Privacy Policy
 
-**In general,** you can visit Mercuri Urval web sites without telling us who you are and without revealing any information about yourself. However there may be occasions when you choose to give us personal information.  Generally this will be for the purposes of:
+This website is operated by Mercuri Urval ("we" or "us"). **By using and visiting our website and by submitting your personal information to us you agree to us using your personal information as set out in this privacy policy.**
 
-  * **receiving further information from us or;**
-  * **for recruitment, selection and development purposes by potential employers, managing recruitment and human resource processes and any related purpose where you have consented to the collection.**   
- 
+If you want to know about how we use cookies please click [here](https://web.archive.org/en-us/about-us/cookies/ "Cookie Policy").
+
+We respect the privacy of users of our website and recognise that when you choose to provide us with information about yourself, you trust us to act in a responsible manner with that information. This privacy policy contains important information about how we use your personal information.
+
+**What information do we collect?**
+
+At times we may request that you voluntarily supply us with personal information. Generally this information is requested when you want us to provide you with information.
+
+We may gather the following information about you:
+
+  * Name
+  * Email address
+  * Telephone number
+  * IP address (a unique identifier for your computer or other device)
+  * Mobile device ID
 
 
 
-**We do not collect information** about our visitors from other sources, such as public records or bodies, or private organizations.  We do not collect or use personal data for any purpose other than those indicated above and will ask you when we need information that personally identifies you or allows us to contact you.
+Information provided by you in relation to submitting a job application to us (this may include sensitive personal information e.g. ethnic origin)
 
-**If we wish to use** your personal data for a new purpose, we offer you the means to consent to this new purpose by indicating in a box at the point on the site where personal data is collected.
+**How do we use it?**
 
-**If we require** you to provide certain personal information about yourself for the purposes described above, we will not rent, sell or exchange information about you to third parties except to your employers or potential employers, where you consent, where you would reasonably expect the information to be disclosed or where we are legally required to disclose such information.
+We will use this information in the following ways:
+
+  * to provide you with information that you have requested e.g. a newsletter, job subscriptions;
+  * to respond to specific queries you may raise regarding Mercuri Urval and its operating companies;
+    * to provide you with better ways of accessing information from this website;
+    * to process and consider your job application;
+
+
+
+For how we use your information that is collected using cookies and similar technologies please see the "Cookies" [here](https://web.archive.org/en-us/about-us/cookies/ "Cookie Policy").
+
+**Do we pass your information to third parties?**
+
+We may send your personal information to other group companies, affiliates and third parties to help us process your personal information for the purposes set out in this policy.
+
+We may disclose your personal information if we or any of our assets are the subject of a sale or similar corporate transaction. We will ensure that the third parties who receive your personal information are required to keep it confidential.
+
+We may disclose personal information to third parties when we reasonably believe we are required by law, and in order to investigate, prevent, or take action regarding suspected or actual unlawful or otherwise prohibited activities, including, but not limited to, fraud.
+
+**How do we use your information for marketing?**
+
+We will only provide information to you that you have asked for via the website.
+
+**Where do we send your information?**
+
+We are a global company and therefore we may transfer your personal information to countries around the world including the US and other countries outside Europe. We will, where necessary, put in place appropriate safeguards to ensure your information is protected.
+
+**How long do we keep your information?**
+
+We will keep your information for a reasonable period for the purposes set out above.
