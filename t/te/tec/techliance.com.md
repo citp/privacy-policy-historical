@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techliance.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513104126id_/http%3A//www.techliance.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techliance.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910130423id_/http%3A//www.techliance.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Techliance LLC | IT Services Company
 
