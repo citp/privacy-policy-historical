@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theta360.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230023515id_/https%3A//theta360.com/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theta360.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910062202id_/https%3A//theta360.com/en/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | RICOH THETA
 
@@ -48,7 +48,7 @@ This Company will not provide Personal Information to a third party except in th
 
 ## 4\. Inquiries and Procedures Relating to Disclosure etc. of Personal Information to the Principal
 
-  1. Refer to ["Contact Information for Inquiries Relating to Personal Information"](http://www.us.ricoh-imaging.com/about-pentax/privacy/) for information on procedures and contact information in the event that the Principal or an agent for the Principal wishes to view, change or cease use of Personal Information.
+  1. Refer to ["Contact Information for Inquiries Relating to Personal Information"](http://www.us.ricoh-imaging.com/index.php/privacy-policy/) for information on procedures and contact information in the event that the Principal or an agent for the Principal wishes to view, change or cease use of Personal Information.
   2. Persons making inquiries may be asked to confirm that they are the Principal or a legitimate agent of the Principal. We ask for your cooperation in these cases.
   3. Please be aware that requests may not be granted in cases in the following categories. 
     1. If the requester cannot confirm that they are the Principal or a legitimate agent of the Principal.
@@ -127,7 +127,7 @@ This Company may amend this Policy in response to changes to or improvements of 
 
 ### Contact Center for Inquiries Relating to Personal Information/Contact Information for Complaints
 
-Complaints and other inquiries from Customers relating to the handling of Personal Information are accepted by email, phone and fax. Refer to ["Contact Information for Inquiries Relating to Personal Information"](http://www.us.ricoh-imaging.com/about-pentax/privacy/) for details.
+Complaints and other inquiries from Customers relating to the handling of Personal Information are accepted by email, phone and fax. Refer to ["Contact Information for Inquiries Relating to Personal Information"](http://www.us.ricoh-imaging.com/index.php/privacy-policy/) for details.
 
 (*1) Refers to personal data held by this Company for over 6 months with the right to disclose, amend, cease use, etc.  
 (*2) Refers to identifying information that is sent from a Web server when a browser accesses a website, and sent from the browser to the server when the website is accessed again later.  
