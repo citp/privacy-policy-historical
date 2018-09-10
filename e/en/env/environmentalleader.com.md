@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the environmentalleader.com privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319064946id_/https%3A//www.environmentalleader.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environmentalleader.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910033522id_/https%3A//www.environmentalleader.com/privacy) for the most accurate reproduction.*
 
 # Environmental Leader | Privacy Policy Disclosures
 
@@ -26,5 +26,3 @@ We are committed to conducting our business in accordance with these principles 
 Fort Collins, CO 80527-0627  
 970-377-9505  
 INFO@BUSINESSECTORMEDIA.COM
-
-(Visited 27 times, 27 visits today)
