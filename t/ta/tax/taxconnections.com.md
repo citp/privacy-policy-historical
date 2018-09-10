@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the taxconnections.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231000656id_/https%3A//www.taxconnections.com/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxconnections.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910071124id_/https%3A//www.taxconnections.com/footer/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TaxConnections
 
-**TAXCONNECTIONS PRIVACY POLICY - UPDATED SEPTEMBER 5, 2016**
+**TAXCONNECTIONS PRIVACY POLICY - UPDATED FEBRUARY 2018**
 
 This privacy policy describes how TaxConnections Inc, a company incorporated in the State of Delaware, in the United States of America collects and uses the personal information you provide on our company website [www.taxconnections.com](http://www.taxconnections.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
