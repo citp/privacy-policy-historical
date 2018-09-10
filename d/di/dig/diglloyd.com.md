@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diglloyd.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704044502id_/https%3A//diglloyd.com/site-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diglloyd.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910221645id_/https%3A//diglloyd.com/site-privacy.html) for the most accurate reproduction.*
 
 # diglloyd - Privacy Policy
 
@@ -9,11 +9,11 @@ Effective date: January 15, 2014
 
 This privacy policy applies to the websites owned by DIGLLOYD INC (“we”, “us”, “our”) that post this policy, namely diglloyd.com, MacPerformanceGuide.com, and WindInMyFace.com, and related sites (collectively, “Sites”). This policy does not apply to any website that posts a different statement.
 
-Your use of any of these Sites or email contact with us constitutes your acceptance of the terms of this privacy policy as revised from time to time. 
+Your use of any of these Sites or email contact with us constitutes your acceptance of the terms of this privacy policy as revised from time to time.
 
 ###  How to Contact Us 
 
-If you have any questions or concerns about this privacy policy or your personally identifiable information, please contact us via email at privacy@diglloyd.com. 
+If you have any questions or concerns about this privacy policy or your personally identifiable information, please contact us via email at privacy@diglloyd.com.
 
 Or via postal mail at:
 
@@ -23,7 +23,7 @@ Portola Valley, CA 94028
 
 ###  What Information We Collect, How We Get It and How We Use It 
 
-_User Entry_ —Most of the information we collect that could personally identify you (“Personally Identifiable Information” as the lawyers call it) is voluntarily entered by you when you request products or services from one or more of our Sites.  Examples may include name, username, e-mail address(es), mailing address, phone number or similar information.  You may provide us this information when you create a subscription account, sign-up for our newsletter, order a product, engage our consulting services, request a quote or advice, send us a question via email or otherwise contact us.  We use this information to respond to your request and/or to provide services to you.
+_User Entry_ —Most of the information we collect that could personally identify you (“Personally Identifiable Information” as the lawyers call it) is voluntarily entered by you when you request products or services from one or more of our Sites. Examples may include name, username, e-mail address(es), mailing address, phone number or similar information. You may provide us this information when you create a subscription account, sign-up for our newsletter, order a product, engage our consulting services, request a quote or advice, send us a question via email or otherwise contact us. We use this information to respond to your request and/or to provide services to you.
 
 If you are entering another person’s personally identifiable information (e.g., you are purchasing a subscription for your spouse), by doing so you represent and warrant that you have the authority or permission to do so. If someone other than you has entered your personally identifiable information and you wish for us to delete it, please contact us at the address provided above.
 
@@ -52,7 +52,7 @@ Subscribers may request that a particular contact email be used for these purpos
 
 ###  Site access information
 
-We log and collect and retain technical information such as IP address(es), date and time of access, browser type, login username, page viewing history and similar information via cookies and other automated mechanisms.  This information usually does not personally identify you, but it is possible that it could at some point be linked with other personally identifiable information.  We use this information for analysis of web site usage patterns, bandwidth utilization and similar analysis, and/or to identify violation of Sites [terms of service](https://web.archive.org/web/20170704044502id_/https%3A//diglloyd.com/site-terms-of-use.html) (e.g. bulk downloading, unauthorized access, inappropriate linking, and similar activities that we deem at our sole discretion to be inappropriate or unwanted).
+We log and collect and retain technical information such as IP address(es), date and time of access, browser type, login username, page viewing history and similar information via cookies and other automated mechanisms. This information usually does not personally identify you, but it is possible that it could at some point be linked with other personally identifiable information. We use this information for analysis of web site usage patterns, bandwidth utilization and similar analysis, and/or to identify violation of Sites [terms of service](https://web.archive.org/web/20180910221645id_/https%3A//diglloyd.com/site-terms-of-use.html) (e.g. bulk downloading, unauthorized access, inappropriate linking, and similar activities that we deem at our sole discretion to be inappropriate or unwanted).
 
 We also use this information to enhance your user experience, such as display preferences for images, site readability options and similar site options and behaviors.
 
@@ -64,7 +64,7 @@ Should we undergo a change to our corporate organization (for example, merger, a
 
 ###  How We Protect Your Personally Identifiable Information 
 
-We take reasonable steps to protect your personally identifiable information from loss, misuse, unauthorized access, disclosure, alteration or destruction.  No measure of security is full-proof, so please keep this in mind when deciding the information you choose to provide to us. 
+We take reasonable steps to protect your personally identifiable information from loss, misuse, unauthorized access, disclosure, alteration or destruction. No measure of security is full-proof, so please keep this in mind when deciding the information you choose to provide to us.
 
 We do not encrypt access to Sites.
 
@@ -91,7 +91,7 @@ We do not offer the option to delete or alter any personally identifiable inform
 
 ###  Do Not Track Signals 
 
-The Sites currently do not support the ability to respond to “Do Not Track” signals that may be emitted from a user’s device. 
+The Sites currently do not support the ability to respond to “Do Not Track” signals that may be emitted from a user’s device.
 
 ###  Third-Party Collection of Personally Identifiable Information 
 
@@ -101,13 +101,13 @@ Our Sites do not knowingly permit or facilitate any third-party to collect perso
 
 We use Google Analytics in order to track information on Sites for the purpose of website optimization and assessing general Site usage patterns, areas of interest, etc.
 
-Google Analytics uses cookies and JavaScript code to collect information about visitors. Google Analytics offers an opt-out provision for website visitors who do not want their data to be collected at http://tools.google.com/dlpage/gaoptout. See the Google privacy policy at http://www.google.com/privacy.html.
+Google Analytics uses cookies and JavaScript code to collect information about visitors. Google Analytics offers an opt-out provision for website visitors who do not want their data to be collected at https://tools.google.com/dlpage/gaoptout. See the Google privacy policy at https://www.google.com/privacy.html.
 
 Google Analytics collects general information about user activity including network location and IP address, type of web browser, software manufacture and version number, type of operating system, screen colors and screen resolution, jvascript support, Adobe Flash version, country, city, state, region, county, or geographic area, hostname and connect speed, time of visit, time spent on each page of the website, pages visited, referring site, website the user came through (URL, for example, clicking on a hyperlink from Zeiss.com), search engine query and which links were clicked on.
 
 ###  Changes to this Privacy Policy 
 
-Should we decide it is useful or helpful to make changes to this privacy policy, a revised version of the policy will be posted at this location indicating a new effective date.  Your continued use of any of the Sites will constitute your acceptance of the revised policy.
+Should we decide it is useful or helpful to make changes to this privacy policy, a revised version of the policy will be posted at this location indicating a new effective date. Your continued use of any of the Sites will constitute your acceptance of the revised policy.
 
 ###  Governing Law 
 
