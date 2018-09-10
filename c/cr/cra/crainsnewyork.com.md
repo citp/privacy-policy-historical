@@ -1,28 +1,30 @@
-> *The following text is extracted and transformed from the crainsnewyork.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529024122id_/http%3A//www.crainsnewyork.com/section/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crainsnewyork.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910071355id_/https%3A//www.crainsnewyork.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | Crain's New York Business
+# Privacy Policy | Crain's New York Business
 
-_Effective starting: May 20, 2018_
+_Effective starting: May 25, 2018_
 
-**_Crainsnewyork.com  Crain’s New York Business and the associated newsletters, news alerts, data centers, research reports, and other features are products_ of Crain Communications Inc. Our postal address is 685 Third Avenue; New York, NY 10017. We can be reached by e-mail at [customerservice@crainsnewyork.com](mailto:customerservice@crainsnewyork.com) or by telephone at 877-824-9379.**
+**_Crainsnewyork.com  Crain’s New York Business and the associated newsletters, news alerts, data centers, research reports, and other features are products_ of Crain Communications Inc. Our postal address is 685 Third Avenue; New York, NY 10017. We can be reached by e-mail at  **[customerservice@crainsnewyork.com](mailto:customerservice@crainsnewyork.com) **or by telephone at 877-824-9379.**
 
 **What this Privacy Policy covers**
 
 This Privacy Policy covers the information we collect about you when you use our products or services, or otherwise interact with us (for example, by registering for and receiving any of our print publications, digital e-mails and newsletters; accessing our website; enrolling in any of our membership products; attending our events, conferences, and webinars; downloading of Crain and sponsor research and content; viewing our video, podcasts, and other content; and using our mobile and digital applications and social media channels (collectively, we refer to all of these products as Crain’s or our “Products” in this Privacy Policy), unless a different policy is displayed. Unless otherwise noted, our Products are provided by Crain in the United States and by Crain Communications Limited in the United Kingdom.   
 
-This policy also explains your choices about how we use information about you.  Your choices include how you can modify your marketing preferences, object to certain uses of information about you and how you can access and update certain information about you.
+This policy also explains your choices about how we use information about you.  Your choices include how you can modify your marketing preferences, object to certain uses of information about you and how you can access and update certain information about you.  
 
 **If you do not agree with this policy, do not access or use our Products or interact with any other aspect of our business**.  
 
 This policy is intended to help you understand:
 
-\-- What information we collect about you  
-\-- How we use information we collect  
-\-- How we share information we collect  
-\-- How we store and secure information we collect  
-\-- How to access and control your information  
-\-- How we transfer information we collect internationally  
-\-- Other important privacy information
+  * What information we collect about you
+  * How we use information we collect
+  * How we share information we collect
+  * How we store and secure information we collect
+  * How to access and control your information
+  * How we transfer information we collect internationally
+  * Other important privacy information
+
+
 
 Where we provide the Products under contract with an organization (for example your employer) that organization controls the information processed by the Products. For more information, please see Notice to End Users below. 
 
@@ -56,17 +58,15 @@ _What types of technologies do we use?_
 
 We use cookies, web beacons and other technologies to improve and customize our Products and your experience; to allow you to access and use the Products without re-entering your username or password; to understand usage of our Products and the interests of our customers; to determine whether an email has been opened and acted upon; and to present you with advertising relevant to your interests. For each visitor to Crain’s Products, our servers may automatically attempt to identify the user through a cookie set within your browser. This is done to provide applicable access to the Crain’s Products. From time to time we may also track information, in aggregate, on pages and features that users access or view. The activity is collected and stored in our server's log files. We may log Internet Protocol (IP) addresses, or the location of your computer on the Internet required for systems administration and troubleshooting purposes.
 
-How do we use them?
+_How do we use them?_
 
-**Where strictly necessary.**   These cookies and other technologies are essential in order to enable the Products to provide the feature you have requested, such as remembering you have logged in.
+  * **Where strictly necessary.**   These cookies and other technologies are essential in order to enable the Products to provide the feature you have requested, such as remembering you have logged in.
+  * **For  functionality.**  These cookies and similar technologies remember choices you make such as language or search parameters. We use these cookies to provide you with an experience more appropriate with your selections and to make your use of the Products more tailored.
+  * **For  performance and analytics.**  These cookies and similar technologies collect information on how users interact with the Products and enable us to improve how the Products operate.
+  * **Targeting Cookies or Advertising Cookies.**   These cookies collect information about your browsing habits in order to make advertising relevant to you and your interests. They remember the websites you have visited and that information is shared with other parties such as advertising technology service providers and advertisers.
+  * **Social media cookies.** These cookies are used when you share information using a social media sharing button or “like” button on our websites or you link your account or engage with our content on or through a social media site. The social network and related service providers will record that you have done this. This information may be used for targeting/advertising activities.
 
-**For  functionality.**  These cookies and similar technologies remember choices you make such as language or search parameters. We use these cookies to provide you with an experience more appropriate with your selections and to make your use of the Products more tailored.
 
-**For  performance and analytics.**  These cookies and similar technologies collect information on how users interact with the Products and enable us to improve how the Products operate.
-
-**Targeting Cookies or Advertising Cookies.**   These cookies collect information about your browsing habits in order to make advertising relevant to you and your interests. They remember the websites you have visited and that information is shared with other parties such as advertising technology service providers and advertisers.
-
-**Social media cookies.** These cookies are used when you share information using a social media sharing button or “like” button on our websites or you link your account or engage with our content on or through a social media site. The social network and related service providers will record that you have done this. This information may be used for targeting/advertising activities.
 
 _How can you opt-out?_
 
@@ -195,7 +195,7 @@ Your request and choices may be limited in certain cases: for example, if fulfil
 
 **_Opt out of  communications_**: You may opt out of receiving promotional communications from us by using the unsubscribe link within each email, updating your email preferences within your Product account settings menu, or by contacting us as provided below to have your contact information removed from our promotional email list or registration database.  Even after you opt out from receiving promotional messages from us, you will continue to receive transactional messages (such as a receipt for a purchase) from us regarding our Products.
 
-You may be able to opt out of receiving personalized advertisements from other companies who are members of the Network Advertising Initiative or who subscribe to the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising. For more information about this practice and to understand your options, please visit: [http://www.aboutads.info](http://www.aboutads.info/), <http://optout.networkadvertising.org/> and [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
+You may be able to opt out of receiving personalized advertisements from other companies who are members of the Network Advertising Initiative or who subscribe to the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising. For more information about this practice and to understand your options, please visit: [http://www.aboutads.info](http://www.aboutads.info/), [http://optout.networkadvertising.org](http://optout.networkadvertising.org/) and  [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
 
 **_Mobile Consents/Opt-Outs_** **.** We may send you messages, including marketing, via your wireless email address or by short message service (SMS), wireless access protocol (WAP) services or mobile phone service. By providing us with your wireless email address or by signing up for any SMS, WAP or mobile phone service, you consent to receiving services and messages at the address or number you provide for such purposes, and understand that your wireless carrier’s rates apply to these services/messages. You may opt-out of SMS, WAP or mobile services by following the instructions provided in the message.
 
