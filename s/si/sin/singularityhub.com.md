@@ -1,153 +1,302 @@
-> *The following text is extracted and transformed from the singularityhub.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119095239id_/https%3A//singularityhub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singularityhub.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911001108id_/https%3A//singularityhub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Singularity Hub
 
-_**Version 1.4 –  ** **Last revised on: April 4, 2017**_
+_Effective Date 25 May 2018_
 
-Singularity Education Group (“Singularity”, “SU”, “us”, and “we”) is committed to protecting your privacy. We operate the Singularity University website at su.org and singularityu.org (“SU Site”), the Singularity Hub website at singularityhub.com (“Singularity Hub Site”), and the SingularityU community website at singularityuglobal.org. Collectively, the foregoing websites and any other websites, programs, and services owned or controlled by Singularity that link to this Agreement are referred to as the “Site.” SU also provides certain mobile application(s) associated with the Site (“Mobile App”). Together, the Site and the Mobile App are referred to in this Agreement as the “Services.”
+## Introduction
 
-### Purpose of this Privacy Policy
+Singularity Education Group (“Singularity”, “SU”, “us”, “our”, and “we”) takes your privacy seriously. This Privacy Policy has been designed to answer your questions about your privacy rights while you engage our websites and mobile application(s) (collectively, “Sites”), as well as when you participate in SU programs and events and/or license our content and software products (collectively “Solutions”). If you need more information, please refer to the [Contact Us Section](https://su.org/privacy-policy/#contact) of this policy below.
 
-We have prepared this Privacy Policy to describe how we will use the data we collect from users of our Services.  Services may contain links to other websites for your convenience and information. We are not responsible for the privacy practices or the content of those sites.
+## Purpose
 
-### What You Consent to by Using Our Services
+This Privacy Policy applies to Singularity Sites and Solutions that link to or reference this Policy. This Policy describes how we handle Personal Information, as defined in the section below, and the choices available to you regarding: i) how we collect, use, and access your Personal Information; and ii) how to confirm your Personal Information is updated, corrected, and/or deleted. Additional terms and information about SU’s Personal Information handling practices may be provided in offer descriptions, supplement statements or contract terms, or notices provided prior to or at the time of information collection.
 
-Please understand that by submitting Personal Data through our Services, you expressly consent and agree to the collection, use, and disclosure of your Personal Data in accordance with this Privacy Policy, and as permitted or required by law. If you do not agree with these terms, then please do not provide any Personal Data to us. If you refuse or withdraw your consent, or if you choose not to provide us with any required Personal Data, we may not be able to provide you with the Services.
+## Definition of Personal Information
 
-**_For Users Outside of the United States_** **: Please be advised that, by using our Services, you are consenting to the transfer and processing of your Personal Data across international borders. Your Personal Data may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personal Data may differ from the laws in your country, including lawful requirements to disclose Personal Data to government authorities.**
+### (What is Personal Information?)
 
-### Types of Data We Collect
+“Personal information” is any information that can be used to identify an individual, and may include, but is not limited to, for example, name, address, email address, phone number, login information (account number, password), marketing preferences, social media account information, IP addresses, location data (if combined with other identifiers), personal identification numbers (passport numbers, social security numbers, etc.), photos, video footage with your likeness, audio recordings, payment card number, criminal record, educational and professional records, and any form of biometric, health, genetic, racial, religion, political affiliation, gender-based, sexual preference, age-related, or other identifying personal data. If we link other data with your personal information, we will treat that linked data as Personal Information. We also collect Personal Information from trusted third-party sources and engage third parties to collect Personal Information to assist us.
 
-“Personal Data” means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data. “Anonymous Data” means data that is not associated with or linked to your Personal Data; Anonymous Data does not, by directly or indirectly, permit the identification of individual persons. We collect Personal Data and Anonymous Data, as described below.
+## Collection and Use of Your Personal Information
 
-(a) _Information You Provide to Us_.
+### (What Personal Information Do We Collect and Why Do We Need It?)
 
-When you create a user account (“Account”) to access certain features of the Services, we may collect Personal Data from you, such as your username, e-mail and password. In some cases we may ask for additional information for security reasons or to provide specific services to you. We may ask that you create an Account for each applicable Site. You may also login using a social networking site account as described below.
+We may collect a variety of information, including Personal Information, about you as you use our Sites and Solutions and interact with us. For a complete listing of the Personal Information we typically collect and how we use it by Site and Solution family, please [download the SU Personal Information Collection and Usage](https://su.org/wp-content/uploads/2018/05/SU-Personal-Information-Collection-and-Usage.pdf) document. A summary of what we collect and how we use the Personal Information associated with our main  Site and Solutions is compiled for your convenience below.
 
-When you apply for our educational programs, access information about the programs for which you are registered through our Services, or join ourCommunity Directory, we or our third party service providers will collect additional Personal Data from you, which may include, without limitation, your first and last name, gender, profile picture, mailing address, telephone number, date of birth, confirmation of the age of majority, country of citizenship, country of residence, professional title, company name, professional interests and your web presence (for example, your website, LinkedIn address, Twitter feed address).
+### _Community Membership Profile:_
 
-When you register for paid services through any Site, such as a membership on the Singularity Hub Site in order to access premium services or subscribe to our online offerings, we or our third party service providers will collect all information necessary to complete the transaction, including your name, credit card information, billing information and shipping information.
+When you become an SU community member, we collect information about you including (but not limited to) your name, your employer’s name, your work address (including your country location), and your email address. We may also collect your personal email address, a personal mailing address, and a mobile phone number. We ask members to voluntarily provide additional information in their membership profile, such as information about their educational background, professional experience, interests in exponential technologies, a photo, social media identifiers, and some other information. Members may edit their profile at any time to change, add, or remove Personal Information.
 
-When you create social networking accounts and participate in public forums on our Services, or use our applications on third-party platforms such as social networking sites, we may collect user-generated content you elect to share, including Personal Data, status updates, pictures, digital files, audio and video recordings that you upload.
+We process your personal information for membership administration, to deliver member benefits to you, and to inform you of SU-related events, content, and other benefits or opportunities associated with your SU membership. We may also use this information to help us understand our members’ needs and interests to better tailor our Site and Solutions to meet your needs.
 
-If you make available certain information, files, or messages through the Services, we will collect and retain that information and may associate that information with your Account.
+Members can participate in local SU chapter meetings organized by volunteers which take place at various locations. We may collect registration information from SU users, community members and their guests, which we may share with a sponsoring SU partner and location hosts for purposes of verifying registration and to ensure only registered guests are allowed attendance.
 
-If you provide us feedback or contact us via e-mail, we will collect your name and e-mail address, as well as any other content included in the e-mail, in order to send you a reply.
+### _Personal Information Provided at Live or Web Programs and Events_
 
-When you participate in one of our surveys, we may collect additional profile information.
+SU hosts many events throughout the year. These include in-person and web-based conferences, summits, speakers’ series, and other in-person as well as virtual gatherings (collectively “events”). If you register for one of our events and you are a member, we will access the information in your member account to provide you with information and services associated with the event. If you are not a member and you register for one of our events, we will collect your name, telephone number, address, email address and select other information, which we will store in our database(s) and use to provide you with information and services associated with the current and future events, SU community membership and SU content.
 
-When you post messages on the message boards of our Services, the information contained in your posting will be stored on our servers and other users will be able to see it.
+If you are a presenter or speaker at one of our events, we will collect information about you including your name, employer, educational and professional background, contact information, and photograph.  We may collect information provided by event attendees who evaluated your performance as a presenter. We may also make and store a recording of your voice and likeness in certain instances.
 
-We may also collect Personal Data, such as at other points in our Services that state that Personal Data is being collected.
+If you attend an in person SU event, you may be offered the option to download a mobile application to help you navigate the event and plan your schedule. This event app may require the device identifier associated with your device but does not collect or use any other personal data without your consent.
 
-(b) _Information Collected via Technology_.
+Some of our events are sponsored. We may provide an attendee list to certain sponsors. If you do not wish to have your information shared with a sponsor or to receive information from sponsors, you can express your preferences when you register for events.
 
-To make our Services more useful to you, our servers (which may be hosted by a third party service provider) collect information from you when you use our Services, including your browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, and/or a date/time stamp for your visit.
+### _Personal Information Provided to Acquire Content Access_
 
-We may use web beacons, cookies, and URL information to gather information regarding the date and time of your visit and the information for which you searched and which you viewed. This information is used for many purposes, including, for example, to provide useful features to simplify your experience when you return to our Services; deliver relevant content based on your preferences, usage patterns, and location; monitor and evaluate the use and operation of our Services; and analyze traffic on our Services and on the sites of third parties. “Web beacons” are small pieces of data that are embedded in images on the pages of the Site. Web beacons may involve the transmission of information directly to us, to another party on our behalf, or to another party in accordance with its privacy policy. “Cookies” are small pieces of information that a website sends to your computer, mobile phone, or other device while you are viewing a web site. We may use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site. Persistent cookies can be removed by following Internet browser help file directions.  If you choose to disable cookies, some areas or features of our Services may not work properly.
+We offer exciting content for SU’s community members and non-community members alike. In addition to producing original content, we also subscribe to news feeds and blogs produced by others, which we link to and from our website. This means you may find yourself on an SU site or reading SU content and we will offer you a link to another organization’s website where you will find content on exponential technologies or exponential thinking that we or our faculty find relevant and useful to you. At these times, you will be leaving the SU Site(s). SU is not responsible or liable for content provided by these third party websites or Personal Information they may happen to gather from you.
 
-We may use third party services for delivering content or advertisements on the Services, such as Amazon, NetShelter and Google Adsense. Such third party services may use cookies, web beacons, Flash cookies, and other technologies to collect information on how you use and interact with our Services, and your activities across different web sites or platforms, such as the pages you visited, your IP address, a date/time stamp for your visit, and which site referred you to our Site. Flash cookies are different from browser cookies because of the amount of, type of, and way that data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies, please [click](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html)[here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). If you disable Flash cookies, you may not have access to certain features that make your experience more efficient and some of our services may not function properly. You may choose not to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers [here.](http://www.aboutads.info/) We adhere to the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising.
+You may manage your SU subscriptions by subscribing or unsubscribing at any time. Please note that if you have set your browser to block cookies, this may have an impact on your ability to unsubscribe. If you have any difficulties managing your email or other communication preferences with SU, please contact us at [info@su.org](mailto:info@su.org).
 
-If you use our Mobile App, we may collect information about the device on which the Mobile App is installed, including for example information such as an equipment identifier (e.g., IMEI or UDID), subscriber identifier, mobile phone number, device name, type and manufacturer, operating system type and version, wireless carrier, network type, country of origin, and IP address. We may also collect location data directly from the GPS on your device if it is required to provide the needed functionality of the product or service, and use third-party service providers to translate that information into usable location information (where we are permitted by law to process this information).
+We use Google Analytics to track how often people gain access to or read our content. We use this information in the aggregate to understand what content our community members find useful or interesting, so we can produce the most valuable content to meet your needs.
 
-_(c)   A Note About Children_. We do not intentionally gather Personal Data from visitors who are under the age of 13. If you are under age 13, please do not attempt to create a user account or provide any personal information about yourself to us. If you are a parent or legal guardian who discovers that your child under age 13 has provided us with any Personal Data, you may contact us at any time at privacy@singularityu.org, and we will endeavor to promptly delete such information from our files and records.
+We also conduct surveys that we use to evaluate content quality and relevance to our SU community. We do not track individuals but look at information in the aggregate only. Participation in surveys is voluntary.
 
-### How We Use Your Personal Data
+### _Personal Information Provided in Site or Solution Forums and Chat Rooms_
 
-(a) _Provide Services to You_. Personal Data you submit to us is used either to respond to requests that you make, or to aid us in serving you better. We use your Personal Data in some of the following ways:
+If you participate in an SU community member or cohort forum or chat room on an SU Site or Solution, the information, including Personal Information, you provide there will be made available to others, and could be used to contact you, send you unsolicited messages, or for purposes over which neither SU nor you has control.  Forums, chat rooms, and social media controlled by individual members of the SU member community may have additional rules and conditions or none at all. As further described in the Terms of Use applicable to Sites and Solutions, SU is not responsible for the Personal Information or any other information you choose to submit in these forums.  To request removal of your Personal Information from forums and chat rooms located on SU Sites, please contact us using the [Personal Information Access Request Form](https://su.org/contact/privacy-and-data-access/). In some situations, due to current technology limitations, it may not be feasible to remove some or all of your Personal Information from these forums.
 
-to facilitate the creation of and secure your Account on our network;
+### _Personal Information Provided for Training_
 
-to identify you as a user in our system;
+You may sign up directly with us to participate in our in-person or on-line training courses delivered over a learning management system (LMS), in which case, we collect your name and contact information directly from you. Alternatively your employer or an SU partner may register you to participate in the training. Your Personal Information will be stored in our database (hosted by a cloud service provider) and may also be shared with a delivery partner or co-sponsor of the training program (to verify numbers and attendance rates), trainers (to determine the experience level, industry, and the demographics of the target audience(s)), and/or vendors supporting event delivery (to verify your identity).
 
-to optimize or improve our Services and products;
+### _Personal Information Provided in Correspondence with Singularity_
 
-to provide the Services and products you request;
+If you correspond with us by email, the postal service, or other form of communication, we may retain the correspondence and the information contained in it and use it to respond to your inquiry and to keep a record of the complaint, accommodation, or other request.
 
-to improve the quality of experience when you interact with our Services;
+If you ask us not to contact you by email at a certain email address, SU will retain a copy of that email address on its “master do not send” list in order to comply with your no-contact request.
 
-to send you a welcome e-mail to verify ownership of the e-mail address provided when your Account was created;
+### _Personal Information Provided to Process Payment_
 
-to send you administrative e-mail notifications, such as security or support and maintenance advisories;
+You may purchase Solutions using a payment card. Payment card information may be provided directly by users, via an SU Site or authorized third party event registration vendor site, into the PCI/DSS-compliant payment processing service to which SU subscribes. We do not process or store the card information. Occasionally, members or customers ask SU employees or SU event volunteers to enter payment card or other financial account information into the PCI/DSS-compliant payment processing service to which SU subscribes. We strongly encourage you not to submit this information by email. When SU employees receive payment card or other financial account information from customers or members by email, fax, phone, or mail, it is entered as instructed and then deleted or destroyed.
 
-to respond to your inquiries related to employment opportunities or other requests;
+### _Personal Information Received from Third Parties_
 
-to detect, investigate, and prevent activities that may violate our policies or be illegal
+Periodically, SU receives Personal Information about individuals from third parties. For example, this may happen if your employer is participating in a corporate program and signs you up for an event, training, SU membership, or SU Solution access. SU may also collect Personal Information about prospective employees, faculty, vendors, contractors, and partners from due diligence vendors who conduct business and criminal history background checks on information available from the public domain.
 
-to make telephone calls to you, from time to time, as a part of secondary fraud protection or to solicit your feedback;
+### _Personal Information Collected Electronically_
 
-(b) _Statistical and Service Analysis_. We perform statistical, demographic and marketing analyses of your use of our Services, and subscribing and purchasing patterns, so that we may enhance the content of our Services and improve Site navigation.  We may also create Anonymous Data records from Personal Data by excluding information (such as your name) that makes the data personally identifiable to you, so that we can perform additional analysis of request and usage patterns. Singularity reserves the right to use Anonymous Data for any purpose and disclose Anonymous Data to third parties in its sole discretion.
+#### Personal Information Collected on Sites
 
-(c) _Relevant Advertising_.  We may use (or permit third parties to use) activity, demographic and preference information to identify products and services, including our Services, that are most relevant to you, for purposes of facilitating the display of targeted advertising. This means you may see advertising within our Service or on other websites that you visit that is most likely to interest you, improving both your experience and the effectiveness of the ads (if permitted by local law) and choices and controls that may be available to you; including newsletters, surveys, offers, and other promotional materials related to our Services, offerings of our business partners, and for othermarketing purposes of Singularity.
+We use automatic data collection tools on our Sites, such as cookies, embedded web links, and web beacons. These tools collect certain standard information that your browser sends back to our Site(s).  Examples include:
 
-### Sharing of Your Personal Data
+  * Browser type and version;
+  * Address of the website from which you arrived at our Site;
+  * Your Internet Protocol (IP) Address: this is a number automatically assigned to your computer or device whenever you connect to the Internet. It is a unique address assigned by your Internet service provider or IT department on a TCP/IP network. Among other things, the IP address allows web servers to locate and identify your device; and
+  * Clickstream Behavior: this includes the pages you view and the links you click.  These tools help make your visit to our Sites easier, more efficient, and more valuable by providing you with a customized experience and recognizing you when you return.
 
-We disclose your Personal Data as described below and as described elsewhere in this Privacy Policy.
 
-(a) _Third Party Service Providers and Business Partners_. We may share your Personal Data with third party service providers, for purposes such as providing payment processing services for the Services. These third party service providers are required not to use your Personal Data other than to provide the services requested by Singularity.We also may share or disclose your Personal Data with our current and future business partners, including but not limited to our event sponsors, so that we or our business partners can provide you with information about products and services that may be of interest to you.
 
-(b) _Affiliates and Acquisitions_. We may share some or all of your Personal Data with our subsidiaries, joint ventures, or other companies under common control with us (“Affiliates”), in which case we will require our Affiliates to honor this Privacy Policy. If another company acquires our company, business, or our assets, including through bankruptcy, that company will possess the Personal Data collected by us and will assume the rights and obligations regarding your Personal Data as described in this Privacy Policy.
+#### Use of Google Analytics and Other Backend Analytics Tools
 
-(c) _Other Disclosures_. Regardless of any choices you make regarding your Personal Data (as described below), Singularity may disclose Personal Data if it believes in good faith that such disclosure is necessary (i) in connection with any legal investigation; (ii) to comply with relevant laws or to respond to subpoenas or warrants served on Singularity; (iii) to protect or defend the rights or property of Singularity or users of the Services; and/or (iv) to investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or the terms of use for our Services.
+We use Google Analytics, a service that transmits our Site traffic to Google servers in the United States. Google Analytics does not identify individual users or associate your IP address with other data held by Google.  We use reports and data provided by Google Analytics and other website traffic tracking services to help us understand our Site traffic trends and usage. For more information regarding how Google collects and processes data, please visit www.google.com/policies/privacy/partners.
 
-**External Links and Social Networking Sites**
+#### Mobile Application
 
-If you login using a social networking site (e.g., Facebook) account (“SNS Account”), we may receive information about you from such social networking sites, in accordance with the terms of use and privacy policy of that social networking site. If you consent to our sharing information with these social networking sites, we will share information with them in accordance with your privacy choices. Once we share your information with these social networking sites, the terms and policies of these sites, and not our Privacy Policy, will apply to their use of your information.
+If you use our Mobile App, we may collection information about the device on which the Mobile App is installed such as a device identifier (IMEI or UDID), subscriber identifier, mobile phone number, device name, type, and manufacturer, operating system type and version, wireless carrier, network type, country of origin, and IP address. We may also collect location data from the GPS on your device.
 
-When you click on a link to any other website or location, you will leave our Site or Mobile App and go to another site and another entity may collect Personal Data or Anonymous Data from you. We have no control over, do not review, and cannot be responsible for, the content, privacy policies, or practices of any third party site, service, or application including their use of any cookies and/or collection of any Personal Data. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of data after you click on links to such outside websites. We encourage you to be aware when you leave the Services, and to read the privacy policy of each third party site, service or application that you visit.
+#### Do Not Track Option
 
-### Your Choices Regarding Your Personal Data
+Some web browsers may give you the ability to enable a “do not track” feature that sends signals to the SU Sites you visit, instructing that you do not want your online activities to be tracked.  Be aware that this is different from blocking or deleting cookies. Browsers with “do not track” features enabled may still accept cookies. SU Sites do not currently recognize and respond to “do not track” signals. If we do in the future, we will describe how in this Privacy Policy.
 
-(a) _Choices_. We offer you choices regarding the collection, use, and sharing of your Personal Data.
+#### Singularity Cookie Policy
 
-(i) We will periodically send you free newsletters and e-mails that directly promote the use of our Services. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly (please see contact information below).
+To learn more about how to update your choices in relation to Cookies and other web browsing technologies, please go to the [SU Cookies Policy](https://su.org/privacy-policy/#cookie).
 
-(ii) Despite your indicated e-mail preferences, we may send you service related communication, including notices of any updates to our Terms of Use or Privacy Policy.
+### _Personal Information Use Summary_
 
-(b) _Changes to Personal Data_. You may change your Personal Data in your Account by editing your profile within your Account. You may also contact us via privacy@singularityu.org. We try to answer every email promptly, but may not always be able to do so. You may request deletion of your Personal Data by us, but please note that we may be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives. We may retain your information for fraud prevention or similar purposes.In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties’ policies.
+Personal Information you provide to us is used either to respond to requests that you make or to aid us in serving you better. For a more complete listing of the type(s) of Personal Information we typically collect and how we use it by Site and Solution family, please [download the SU Personal Information Collection and Usage](https://su.org/wp-content/uploads/2018/05/SU-Personal-Information-Collection-and-Usage.pdf) document.  A summary of the ways we may use your Personal Information is set forth below:
 
-(c) _Do Not Track_. Because an industry-standard Do Not Track protocol has not yet been established, our information collection and disclosure practices, and the choices we offer, will continue to operate as described in this Privacy Policy regardless of choices made regarding the use of Do Not Track technologies.
+  * To create and secure your community membership account;
+  * To identify you as a user in our system;
+  * To optimize and improve our Sites, Solutions, and services;
+  * To deliver Solutions and services you request;
+  * To send you administrative email notifications;
+  * To respond to and track progress of your inquiries;
+  * To detect, investigate, and prevent illegal or non-compliant activities;
+  * To make phone calls to you, from time to time, to solicit feedback or provide secondary fraud protection; and
+  * To market SU and/or third party services of possible interest to you on our applicable Sites and Solutions.
 
-**Security of Your Personal Data**
 
-Singularity is committed to protecting the security of your Personal Data. We use a variety of industry-standard security technologies and procedures to help protect your Personal Data from unauthorized access, use, or disclosure. We also require you to enter a password to access your Account information. Please do not disclose your Account password to unauthorized people. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while Singularity uses reasonable efforts to protect your Personal Data, Singularity cannot guarantee its absolute security.
 
-**Questions for Us**
+## Sharing Your Personal Information with Third Parties
 
-Singularity welcomes your comments or questions regarding this Privacy Policy. Please e-mail us at privacy@singularityu.org or contact us at the following address or phone number:
+### (With Whom Do We Share Your Personal Information?)
 
-Attn: General Counsel
+We may share your Personal Information with third parties for the purposes of operating our business, delivering, improving, and customizing our Sites and Solutions, sending marketing and other communications related to our business, and for other legitimate purposes permitted by applicable law or otherwise with your consent. We may share Personal Information in the following ways:
 
-Singularity Education Group
+  * Within Singularity and any of our subsidiaries or affiliates for purposes of data processing, storage, and/or marketing;
+  * With business partners, service vendors, or contractors to provide a requested Site content or enhancements, a Solution, a service or a transaction. Examples include, but are not limited to: processing of orders and credit card transactions, hosting websites, customer and faculty relationship management, hosting event and program planning and registration, assisting with sales-related efforts or post-sales support, delivering content, Solutions, or services, and providing customer support;
+  * With service vendors focused on the provision, payment, and auditing of employee, vendor, contractor, faculty and moderator benefits;
+  * With search engine, web analytics, and survey providers engaged to track trends and other statistics to enhance the user and member experience;
+  * In connection with, or during negotiations of, any merger, sale of SU assets, consolidation or restructuring, financing, or acquisition of all or a portion of our business by or to another company;
+  * In response to a request for information by a competent authority if we believe disclosure is in accordance with, or is otherwise required by, any applicable law, regulation or legal process;
+  * With law enforcement officials, government authorities, or other third parties as necessary to comply with legal process or meet national security requirements; protect the rights, property, or safety of Cisco, its business partners, you, or others; or as otherwise required by applicable law.
+  * In aggregated, anonymized, and/or de-identified form which cannot reasonably be used to identify you; and/or
+  * If we otherwise notify you and you consent to the sharing.
 
-NASA Research Park
 
-Building 20, S. Akron Rd.
 
-MS 20-1
+SU Sites and select Solutions use interfaces with social media sites such as Facebook, LinkedIn, Twitter and others. If you choose to “like” or share information from SU Sites or Solutions through these services, you should review the privacy policy of that service. If you are a member of a social media site, the interfaces may allow the social media site to connect your site visit to your Personal Information.
 
-Moffett Field
+SU makes community member information available through its community directory, known as the SU Global Hub, using the SU Global Site. Community members are invited to opt-in to having their information shared in the SU Global Hub.
 
-CA 94035-0001
+## International Transfers of Your Personal Information
+
+### (Do We Send Your Personal Information Abroad?)
+
+Singularity is headquartered in the United States and Personal Information we collect from you will be processed in the United States.  The United States has not sought nor received a finding of “adequacy” from the European Union under Article 45 of the GDPR. We aim to collect and transfer Personal Information only: i) with your consent; ii) to perform a contract with you; or iii) to fulfill a compelling legitimate interest in a manner that does not outweigh your rights and freedoms.
+
+By providing us with your Personal Information, you acknowledge and agree that we may from time to time transfer any of your Personal Information to any of our offices, agents, partners, or appointed representatives located around the world. We are implementing appropriate safeguards for transfers of Personal Information originating from the European Economic Area (EEA) to countries located outside of the EEA. These safeguards include implementing standard data protection clauses that have been approved by the European Commission or (in relation to transfers from the European Union to the USA) transferring Personal Information to entities that have signed up to the EU-U.S. [Privacy Shield](https://www.privacyshield.gov/welcome). Please do not submit any Personal Information to us if you do not wish for your data to be transferred internationally.
+
+## Your Rights and Choices Regarding Your Personal Information
+
+### (How May I Access, Change, or Delete My Personal Information?)
+
+SU encourages you to keep your Personal Information accurate and current. In addition, you have the right to ask us not to process your Personal Information for marketing purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data, clicking the unsubscribe button on any communication we have sent to you or by contacting us.
+
+Where you have consented to us using your Personal Information, you can withdraw that consent at any time.  If the information we hold about you is inaccurate or incomplete, you can notify us and ask us to correct or supplement it. You may request that we erase that Personal Information or cease processing it, subject to certain exceptions. You also have the right, with some exceptions and qualifications, to ask us to provide a copy of any Personal Information we hold about you.
+
+You may also request information about: i) the purpose of the processing; ii) the categories of Personal Information concerned; iii) who else other than SU might have received the Personal Information; iv) what the source of the information was (if you didn’t provide it directly to us); and v) how long it will be stored.
+
+Where you have provided your data to us and it is processed by automated means, you may be able to request that we provide it to you in a structured, machine readable format.
+
+Reasonable access to a record of your Personal Information will be provided at no cost on request made on our [Personal Information Access Request Form](https://su.org/contact/privacy-and-data-access/). If access cannot be provided within a reasonable time frame, we will provide you with an estimated date when a record of the Personal Information will be provided. If for some reason we cannot supply you with a record of the Personal Information we have collected, used, and/or stored, we will provide an explanation as to why we cannot provide the record.
+
+If you have a complaint about how we have handled your Personal Information, you may be able to ask us to restrict how we use it while your complaint is resolved. In some circumstances you can ask us to erase your Personal Information:
+
+  * by withdrawing your consent for us to use it;
+  * if it is no longer necessary for us to use your Personal Information;
+  * if you object to the use of your Personal Information and we don’t have a good reason to continue to use it; or
+  * if we haven’t handled your Personal Information in accordance with our obligations.
+
+
+
+## Security of Your Personal Information
+
+### (Is My Personal Information Safe with Singularity?)
+
+SU intends to protect the Personal Information entrusted to us and treat it securely in accordance with this Privacy Policy. SU implements various physical, administrative, and technical measures designed to protect your Personal Information from unauthorized access, use or disclosure. We contractually require our critical vendors to protect such information from unauthorized access, use and disclosure. We restrict access to your Personal Information to those who need to know that information to provide Solutions or other benefits to you. In addition, we train our employees about the importance of confidentiality and maintaining the privacy and security of your information. We commit to taking appropriate disciplinary measures to enforce our employees’ privacy responsibilities.
+
+We require you to enter a password to access Personal Information associated with your SU account. Please do not disclose your account password to unauthorized people.
+
+Note, however, that no method of transmission over the Internet, or method of electronic storage, is 100% secure.  While we use reasonable efforts to protect your Personal Information, we cannot ensure or warrant the security of any Personal Information you provide to us.
+
+## Retention of Personal Information
+
+### (Does Singularity Retain My Personal Information?)
+
+We will retain your Personal Information for the period required to fulfill the purposes for which it has been collected.  These purposes may include the need to fulfill various commercial and legal requirements. Key requirements driving the need for collection, analysis and storage of Personal Information may include for example:
+
+  * Business strategy;
+  * Current and prospective SU community member outreach;
+  * Resource planning;
+  * Legal compliance;
+  * Financial reporting;
+  * Dispute resolution; and/or
+  * Asset protection and agreement enforcement.
+
+
+
+Your Personal Information is stored by SU on servers of the cloud-based database management services we engage, located primarily in the United States. Unless you request otherwise, we will retain data for the duration of your business relationship with us or for as long as is required by law. For more information on where and how long your Personal Information is stored, please contact [privacy@su.org](mailto:privacy@su.org).
+
+## Children’s Privacy
+
+### (Does Singularity Collect Information from Children?)
+
+We encourage parents and guardians to take an active role in their children’s online activities. We do not knowingly collect Personal Information from minors under the age of eighteen (18) without appropriate parental or guardian consent. If you believe that we may have collected Personal Information from someone under the applicable age of consent in your country without proper consent, please let us know using the methods described in the “[How to Contact Us](https://su.org/privacy-policy/#contact)” section and we will take appropriate measures to investigate and address the issue promptly.
+
+## Changes to this Privacy Policy
+
+By using this Site and/or Solutions, you agree to the terms and conditions contained in this Privacy Policy and Terms of Use and/or any other agreement that we might have with you. If you do not agree to any of these terms and conditions, you should not use this Site or Solution.
+
+We may revise this Privacy Policy on occasion. If we make any material changes to the way we intend to use your Personal Information we will notify you by sending you an email to the last email address you provided to use and by prominently posting the changes on our Sites.  Changes will be effective no later than thirty (30) days following notification. You are responsible for making certain that we have your current email address on file. If the email address we have on file is invalid, our dispatch of the email to your last known email address along with posting the notice of material Policy changes on our Sites will constitute effective notice of the changes.  If you do not wish to permit the changes in the use of your Personal Information, you must notify us prior to the effective date of the changes. Continued use of our Services or Solutions following notice will indicate your acknowledgement of and agreement to be bound by the changes until such time that you notify us you would like to deactivate your account and/or have your Personal Information deleted as set forth in the “[How to Contact Us](https://su.org/privacy-policy/#contact)” section of this Policy.
+
+## Additional Policies
+
+Certain services and solutions provided by or through Singularity may be subject to additional privacy terms or Personal Information disclosures (collectively, “Additional Policies”).  In the event of any direct contact between any Additional Policies and this Policy, the Additional Policies will control.
+
+## California Privacy Rights
+
+Under California’s “Shine the Light” law, California residents may request once annually that Singularity disclose select information we have shared about them, if any, with other businesses for their own direct marketing uses. If applicable, responses will include categories of customer information and the names and addresses of the businesses with which we shared information for the immediately prior calendar year (e.g., requests made in 2012 will receive information regarding 2011 sharing activities, if any).  Note that not all Personal Information or information sharing is covered by the “Shine the Light” requirements.
+
+### (How May I Contact Singularity about this Policy?)
+
+**Questions about this Privacy Policy**
+
+Should you have any queries regarding this Privacy Policy or how your information is collected, used and stored, please contact [privacy@su.org](mailto:privacy@su.org) or contact us at the following location or via telephone at:
+
+Attn: General Counsel  
+Singularity Education Group  
+NASA Research Park  
+Building 20, S. Akron Road  
+MS 201-1  
+Moffett Field, CA 94035-0001
 
 Phone: (650) 200-3434
 
-### Changes to This Privacy Policy
+### (How May I Contact Singularity to Request Access to My Personal Information or to Report a Suspected Breach of Personal Information?)
 
-This Privacy Policy is subject to occasional revision, and if we make any material changes in the way we use your Personal Data, we will notify you by sending you an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our Site. Any changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our Site. These changes will be effective immediately for new users of our Service. Please note that at all times you are responsible for updating your Personal Data to provide us with your most current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of Personal Data that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your Personal Data, you must notify us prior to the effective date of the changes that you wish to deactivate your Account with us. Continued use of our Services, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
+**To Request Access to or Report a Suspected Breach of Personal Information**
 
-**Additional Policies**
+If you wish to engage your rights to access, correct, modify, or delete your Personal Information please complete our [Personal Information Access Request Form](https://su.org/contact/privacy-and-data-access/).
 
-Certain services provided by or through Singularity may be subject to additional privacy policies or privacy disclosures (collectively “Additional Policies”). In the event of any direct conflict between any Additional Policies and this policy, the Additional Policies will control.
+If you want to report a suspected breach of your Personal Information, please complete the [Suspected Breach Notification Form](https://su.org/contact/breach-notification/).
 
-### California Privacy Rights
+## Cookies Policy
 
-Under California’s “Shine the Light” law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g. requests made in 2012 will receive information regarding 2011 sharing activities).
+Singularity Education Group (“Singularity”, “SU”, “we”, “us”, “our”) takes your privacy very seriously, including your activities in browsing Singularity owned or controlled websites and mobile application(s) (collectively, “Sites”).
 
-To obtain this information, please send an email message to privacy@singularityu.org with “Request for California Privacy Information” on the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response. Please be aware that not all information sharing is covered by the “Shine the Light” requirements and only information on covered sharing will be included in our response.
+Our Sites use cookies and similar technologies for various purposes including to distinguish you from other users of our Sites. By continuing to use our Sites, you agree to our Cookie Policy.
+
+### What Cookies Do We Use?
+
+Cookies are text files containing small amounts of information. They are downloaded to your computer or device when you visit a Site. They don’t tell us who you are but they do enable us to recognize your device and where you have made various preferences or actions they enable us to remember them.
+
+### Why and How Do We Use Cookies?
+
+Cookies do lots of different jobs, like letting you navigate between web pages efficiently, remembering your preferences, and generally improving your experience of our Sites. They can also help to ensure that advertisements and content you see online are more relevant to you and your interests.
+
+The cookies used on the Sites have been categorized based on function. Here are the main types of cookies we use and why we use them:
+
+  * **  Essential Cookies**
+
+
+
+These cookies are necessary in order to enable you to move around our Sites and use their features, such as accessing secure areas of our Sites. Without these cookies services you may have asked for, cannot be provided.
+
+  * **  Performance Cookies**
+
+
+
+These cookies collect information about how you use our Sites. For instance, they tell us which pages you visit most often, and if you receive any error messages from our web pages. These cookies do not identify you. All information they collect is aggregated and therefore anonymous. We use these cookies to measure and analyze how our customers use our Sites and to improve their functionality and the user experience.
+
+  * **Functionality Cookies**
+
+
+
+These cookies allow our sites to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, personalized features. These cookies can also be used to remember changes you have made to customizable parts of our Sites. The information these cookies collect may be anonymized and they cannot track your browsing activity on other websites.
+
+  * **Targeting & Advertising Cookies**
+
+
+
+These cookies are used to deliver marketing and communications more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as to help measure the effectiveness of advertising campaign.
+
+### Disabling Cookies
+
+Some web browsers may give you the ability to enable a “do not track” feature that sends signals to the Sites you visit, instructing that you do not want your online activities to be tracked.  Be aware that this is different from blocking or deleting cookies. Browsers with “do not track” features enabled may still accept cookies. SU Sites do not currently recognize and respond to “do not track” signals. If we do in the future, we will describe how in our Privacy Policy and this Cookie Policy.
+
+### Changes to our Cookie Policy
+
+We may change this Cookie Policy from time to time. If we make changes, we will notify you by revising the date at the top of this policy and in some cases by adding notices on our homepage or other Sites or sending you email updates.
+
+### Contact Us
+
+If you have any questions about our Cookie Policy you can contact us at:  [privacy@su.org](mailto:privacy@su.org).
 
 Singularity University, Singularity Hub, Singularity Summit, SU Labs, Singularity Labs, Exponential Medicine, Exponential Finance and all associated logos and design elements are trademarks and/or service marks of Singularity Education Group.
 
-© 2017 Singularity Education Group. All Rights Reserved.
+© 2018 Singularity Education Group. All Rights Reserved.
 
 Singularity University is not a degree granting institution.
