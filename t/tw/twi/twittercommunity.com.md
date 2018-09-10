@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twittercommunity.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530161244id_/https%3A//twittercommunity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twittercommunity.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911000556id_/https%3A//twittercommunity.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Twitter Developers
 
