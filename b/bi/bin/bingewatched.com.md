@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bingewatched.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507083435id_/http%3A//www.bingewatched.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bingewatched.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910040614id_/http%3A//www.bingewatched.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Binge Watched
 
