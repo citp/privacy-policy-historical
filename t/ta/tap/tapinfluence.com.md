@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tapinfluence.com privacy policy that was archived on 2017-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170819091819id_/https%3A//www.tapinfluence.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tapinfluence.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910172214id_/https%3A//www.tapinfluence.com/privacy) for the most accurate reproduction.*
 
 # TapInfluence Privacy Policy
 
@@ -59,9 +59,8 @@ Under California Civil Code sections 1798.83-1798.84, California residents who h
 If you have questions about this privacy policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
 TapInfluence  
-1514 Curtis St.  
-Ste 300  
-Denver, CO
+67 E Evelyn Ave, STE 5  
+Mountain View, CA 94041
 
 [info@tapinfluence.com](mailto:info@tapinfluence.com)
 
