@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freegameshype.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511143418id_/http%3A//www.freegameshype.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegameshype.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911013341id_/http%3A//www.freegameshype.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - FreeGamesHype.com
 
