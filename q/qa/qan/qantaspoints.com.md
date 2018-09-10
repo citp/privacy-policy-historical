@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qantaspoints.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915002824id_/https%3A//www.qantas.com.au/travel/airlines/privacy/global/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qantaspoints.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911005905id_/https%3A//www.qantas.com.au/travel/airlines/privacy/global/en) for the most accurate reproduction.*
 
 # Privacy Statement | Qantas
 
