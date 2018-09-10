@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailymile.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606045639id_/http%3A//www.dailymile.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailymile.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910231237id_/http%3A//www.dailymile.com/help/privacy) for the most accurate reproduction.*
 
 # Help: dailymile Policy | dailymile
 
@@ -38,6 +38,69 @@ Archiving and display of dailymile pages by search engines and other sites
     
 
 Search engines and other sites not affiliated with dailymile - including archive.org and google.com, and groups.yahoo.com - archive or otherwise make available dailymile pages.
+
+Where we send your data
+    
+
+Billing providers in order to charge you for services we offer.
+
+    
+
+Business metrics aggregators that help us run our business.
+
+    
+
+Third-party services that provide software to help us run our apps like hosting services and error tracking.
+
+GDPR legal basis for collecting your information
+    
+
+We collect the minimum amount of information needed to provide the products and services you've requested. How we collect and use your data is covered by our legitimate interest.
+
+Your rights under GDPR
+    
+
+You may:
+
+    
+
+* Be informed whether we store your data.
+
+    
+
+* Be granted access to your data (with some stipulations – see GDPR Article 15 for the precise terms).
+
+    
+
+* Correct any errors in the data of yours that we store.
+
+    
+
+* Request that your data be erased.
+
+    
+
+* Restrict the processing of your data. This means that we will continue to store your data, but will not use it.
+
+    
+
+* Object to our use of your data.
+
+    
+
+* Request the data we hold be provided to you or to another service. (See GDPR Article 20 for the precise terms.)
+
+    
+
+* Not be subject to decisions based entirely on automated processing.
+
+    
+
+Exercising some of these rights might interfere with our ability to provide you with services.
+
+    
+
+To exercise any of these rights, please email us at contact@dailymile.com.
 
 Circumstances in which dailymile may release information
     
