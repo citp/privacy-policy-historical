@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picbear.online privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527111328id_/http%3A//picbear.online/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picbear.online privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910195545id_/http%3A//picbear.online/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Picbear
 
