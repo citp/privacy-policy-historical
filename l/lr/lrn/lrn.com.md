@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the lrn.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604150440id_/http%3A//lrn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lrn.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910111908id_/http%3A//lrn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – LRN
 
 **_LRN CORPORATION PRIVACY POLICY_**
 
-LRN Corporation (“LRN” or “Company”) is committed to protecting your privacy and earning your trust. This Privacy Policy, which is effective as of August 12, 2016, describes LRN’s privacy practices for both the web site located at  ** _[www.lrn.com](http://www.lrn.com/)_** , the Customer Web Sites which LRN creates, configures and hosts on behalf of its customers, and any derivative products which are developed to work either remotely or on a mobile/tablet device. The ownership of the data on LRN’s Customer Web Sites or mobile/tablet apps is subject to agreements entered into between LRN and each of its customers.
+LRN Corporation (“LRN” or “Company”) is committed to protecting your privacy and earning your trust. This Privacy Policy, which is effective as of August 12, 2016, describes LRN’s privacy practices for both the web site located at  ** _[www.lrn.com](https://www.lrn.com/)_** , the Customer Web Sites which LRN creates, configures and hosts on behalf of its customers, and any derivative products which are developed to work either remotely or on a mobile/tablet device. The ownership of the data on LRN’s Customer Web Sites or mobile/tablet apps is subject to agreements entered into between LRN and each of its customers.
 
 LRN’s data privacy and data security practices implement best practices for the protection and security of personal information, and also implement the requirements prescribed by the United States and the European Union (“EU”) under the EU/US Privacy Shield Program – which provides compliance guidance for U.S.-based organizations in connection with the European Union’s directives on the protection of the personal information of EU data subjects.
 
 **_LRN’s COMMITMENTS UNDER THE EU  GENERAL DATA PROTECTION REGULATION (GDPR) & EU/US PRIVACY SHIELD PROGRAM_**
 
-LRN adheres to the EU GDPR [www.eugdpr.org](http://www.eugdpr.org/) and Privacy Shield principles _[www.privacyshield.gov](https://www.privacyshield.gov/)_ set forth, which are summarized below:
+LRN adheres to the EU GDPR [www.eugdpr.org](https://www.eugdpr.org/) and Privacy Shield principles _[www.privacyshield.gov](https://www.privacyshield.gov/)_ set forth, which are summarized below:
 
 _Notice_ : LRN will inform EU data subjects of the Company’s data handling practices, which are set forth in the Privacy Shield Program policy.
 
@@ -70,7 +70,7 @@ LRN’s arrangements with its customers require LRN to provide all User informat
 
 We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
-LRN actively collects information from visitors to its website at  ** _[www.lrn.com](http://www.lrn.com/)_**  both by asking specific questions on the site and by permitting visitors to communicate directly with LRN via e-mail. Some of the information that visitors to the website submit may be personally identifiable (that is, information that can be uniquely identified with an individual, such as name, address, e-mail address, phone number, etc.). LRN uses this information to send visitors to its website further information regarding LRN. LRN does not provide, sell, or otherwise make available to third parties personal information that is collected from visitors to the website.
+LRN actively collects information from visitors to its website at  ** _[www.lrn.com](https://www.lrn.com/)_**  both by asking specific questions on the site and by permitting visitors to communicate directly with LRN via e-mail. Some of the information that visitors to the website submit may be personally identifiable (that is, information that can be uniquely identified with an individual, such as name, address, e-mail address, phone number, etc.). LRN uses this information to send visitors to its website further information regarding LRN. LRN does not provide, sell, or otherwise make available to third parties personal information that is collected from visitors to the website.
 
 LRN may collect, store or accumulate certain non-personally identifiable information concerning visitors’ use of this site, such as information regarding which pages are most often visited. LRN may share with or transfer to third parties such non-personally identifiable information for the purpose of maintaining the site, responding to direct inquiries, or measuring traffic and traffic trends at this site. LRN does not otherwise provide or sell any of this information to third parties.
 
