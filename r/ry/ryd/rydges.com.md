@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rydges.com privacy policy that was archived on 2017-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170426214008id_/https%3A//www.rydges.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rydges.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911003255id_/https%3A//www.rydges.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rydges Hotels & Resorts
 
@@ -40,7 +40,7 @@ From time to time, the EVENT Group may conduct competitions on its website. When
 
 **Priority Guest Rewards Program**
 
-The EVENT Group operates the Priority Guest Rewards loyalty program (“PGR Program”). The hotels that participate in the PGR Program are listed on the website [www.priorityguestrewards.com](http://www.priorityguestrewards.com/) (“Participating Hotels”) and include certain Rydges, QT, Atura and Art Series hotels.
+The EVENT Group operates the Priority Guest Rewards loyalty program (“PGR Program”). The hotels that participate in the PGR Program are listed on the website [www.priorityguestrewards.com](http://www.priorityguestrewards.com/) (“Participating Hotels”) and include certain Rydges, QT, and Atura hotels.
 
 Effective from 1 August 2014, any new PGR Program members will automatically also become a member of the Global Hotel Alliance (GHA) loyalty program. Existing PGR Program members need to “opt-in” after 1 August 2014 to become a GHA loyalty program member. GHA member benefits are detailed on the GHA website [www.gha.com](http://www.gha.com/). GHA is based in Switzerland.
 
