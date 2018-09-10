@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ensorings.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205052905id_/https%3A//ensorings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ensorings.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911010113id_/https%3A//ensorings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,13 +26,13 @@ You may set most browsers to notify you if you receive a cookie, or you may choo
 
 **2)   Referrals**
 
-You may choose to invite friends to join the **EnsoRings.com** by sending invitation emails via our invite feature.  **EnsoRings.com** ** ** stores the email addresses you provide so that the respondents may be added to your social network, confirm orders/purchases and also to send reminders of the invitations. **EnsoRings.com**  does not sell these email addresses or use them to send any other communication besides invitations and invitation reminders. Recipients of invitations may contact  **EnsoRings.com** ** ** to request removal of their information from our database.
+You may choose to invite friends to join the **EnsoRings.com** by sending invitation emails via our invite feature.  **EnsoRings.com** ** ** stores the email addresses you provide so that the respondents may be added to your social network, confirm orders/purchases and also to send reminders of the invitations.  **EnsoRings.com**  does not sell these email addresses or use them to send any other communication besides invitations and invitation reminders. Recipients of invitations may contact  **EnsoRings.com** ** ** to request removal of their information from our database.
 
 **3)   How We Use Your Information**
 
 ****EnsoRings.com** **only uses your personal information for the original purposes it was given. Your personal information will not be sold or otherwise transferred to unaffiliated third parties without your approval at the time of collection.
 
-****EnsoRings.com** **will not disclose, use, give or sell any personal information to third parties for any purposes other than to our suppliers and other third parties who need to know in order to deliver services on behalf of  **EnsoRings.com  **unless required to do so by law. Further, **EnsoRings.com** ** ** reserves the right to contact you regarding matters relevant to the underlying service provided and/or the information collected.
+****EnsoRings.com** **will not disclose, use, give or sell any personal information to third parties for any purposes other than to our suppliers and other third parties who need to know in order to deliver services on behalf of  **EnsoRings.com  **unless required to do so by law. Further,  **EnsoRings.com** ** ** reserves the right to contact you regarding matters relevant to the underlying service provided and/or the information collected.
 
 Please note that personally identifiable information is used only to provide you with a more enjoyable, convenient online experience and to help us identify and/or provide information, products or services that may be of interest to you. We use your personally identifiable information to support and enhance your use of the Site and its features, including without limitation: fulfilling your order; providing customer service; tracking email invitations you send; and otherwise supporting your use of the Site.
 
@@ -77,7 +77,7 @@ By consenting to the Terms and Conditions of the Site and hence the Privacy Poli
 If you have any questions or concerns regarding this Privacy Policy please contact:
 
 **Enso Rings  
-**35 W. Center Street Suite #906  
-Midavle, Utah 84047  
-(385) 351 – 4983  
+**247 S. Millpond Dr.  
+Suite 100  
+Lehi, UT 84043  
 contact@ensorings.com
