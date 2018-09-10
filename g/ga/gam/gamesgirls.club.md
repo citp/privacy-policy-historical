@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesgirls.club privacy policy that was archived on 2018-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180203001433id_/http%3A//gamesgirls.club/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesgirls.club privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910213431id_/https%3A//gamesgirls.club/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
