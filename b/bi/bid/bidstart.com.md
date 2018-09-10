@@ -1,86 +1,66 @@
-> *The following text is extracted and transformed from the bidstart.com privacy policy that was archived on 2016-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160808140455id_/http%3A//www.bidstart.com/wiki/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidstart.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910144951id_/https%3A//www.hipstamp.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - StampWantsWiki
+# Privacy Policy / HipStamp
 
-### From StampWantsWiki
+Effective Date: January 29, 2016
 
-This privacy policy sets out how bidStart uses and protects any information that you give bidStart when you use this website. 
+The following information comprises the Privacy Policy ("Privacy Policy"), which informs you of any intended uses of any information you submit to HipComic, LLC. ("HipComic", "us", or "we"). This includes any and all information, including "Personal Information" such as name, email address, credit card information, and all other public, non-public and anonymous information we collect from you by any method or means.
 
-bidStart is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. 
+ **Acceptance of Privacy Policy**
 
-bidStart may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from August 21, 2011. 
+By using the Site or any Service we provide, you ("you", "the user") or the person accessing our site and services, including any other person or company whose behalf you are accessing our site and services for, are agreeing to this Privacy Policy, as well as our Terms of Use, which is made available by clicking on "Terms" in the footer of our website. This Privacy Policy should be checked regularly for updates, and your continued use of the site and services indicates your continued acceptance of this and any future Privacy Policy. If you do not agree or consent to this Privacy Policy, immediately discontinue the use of our site and do not use any of our services offered through our site.
 
-## Contents
+ **Collection of Personal Information**
 
-  * 1 What we collect
-  * 2 What we do with the information we gather
-  * 3 Handling of Payments
-  * 4 MyMessages
-  * 5 Security
-  * 6 How we use cookies
-  * 7 Controlling your personal information
-  * 8 Links to other websites
+How information is collected
 
+When you interact with our site in anyway, including but not limited to: creating an account, registering information, subscribing to emails, contact us or making purchases through the site, we ask you for Personal Information. HipComic may keep information relating to how you use the site, including, but not limited to, what pages you view and transactions you attempt or complete. Cookies and other related technology may be utilized to collect information about your interaction with our site. Personal Information may also be collected through third parties in order to give us additional information to enhance the service we provide you.
 
+What information is collected
 
-## What we collect
-
-We may collect the following information: 
-
-  * name and date of birth 
-  * contact information including address, email address and phone number 
-  * demographic information such as post code, preferences and interests 
-  * other information relevant to the use of our website 
+  * Email Address: Provided to us in conjunction with registering an account, or through contacting us in any way.
+  * Other Contact Information: Including but not limited to: name, mailing address, telephone numbers, fax numbers, social media and other third-party username and account information.
+  * Technology Related Information: Information provided by your Internet browser. IP addresses, cookies and any and all future technology related information.
+  * Demographics: Any demographic or psychographic information including but not limited to : age, gender, income, location and social relationships.
+  * Financial Information: Credit and Debit card information, as well as any other information related to payments and transactions.
+  * Browsing and Transaction Information: Including but not limited to any way in which you interact with our site, or make purchases on our site.
 
 
 
-## What we do with the information we gather
+ **Use of Information**
 
-**We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law.**
+In general, your Personal Information is used for the following purposes
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
+  * Internal record keeping
+  * Improving, Analyzing and Tracking our Site and Services
+  * Marketing and Promotion
+  * Emails and social media contact
+  * Prevent fraud
+  * Enforce our Terms of Use
+  * Corporate Obligations
+  * Provide help and support to you, our employees and our merchants
+  * Provide help or support to our merchants or business partners
 
-  * Internal record keeping. 
-  * If you sell or win an item to another user of our website, your name, physical address and email address will be provided to that user so that the transaction can be completed. However, your phone number and all other personal information will not be provided to that user; unless our staff, and/or that user is unable to reach you by MyMessage or email regarding an open issue with a transaction within a reasonable amount of time. 
-  * We may use the information to improve our products and services. 
-  * We may use your name to identify yourself with your username. 
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. This will generally be provided in the form of a newsletter. If you do not wish to receive this newsletter you may opt out on the Account Details page. However, we may still send important system and other related emails if need be, though unlikely. Your email address will also be used to send you updates on items you are currently involved with, the extent of which you can modify from the Account Details page. 
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests. 
 
 
+ **Disclosure of Information**
 
-## Handling of Payments
+You may request details of personal information, which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please contact us using the information provided on our Contact Us page.
 
-To settle your account balance (the fees you incur through selling items) with bidStart, all payments are handled through PayPal. You do not need a PayPal account to pay though, just a credit card (PayPal can process credit cards without the need of an account). Paypal helps ensure that your credit card information stays private. As for individual items you wish to purchase on our website, the seller will specify what payment forms they accept and are solely responsible for any information you provide them. 
+At any time, you may access or update your account and contact information by accessing your HipComic Members Area > My Account page.
 
-## MyMessages
+If you believe that any information we are holding on you is incorrect or incomplete, please contact us and we will promptly correct any information found to be incorrect.
 
-An automated system is in place to ensure members do not use the MyMessages system in a way which is not compliant with our terms and conditions; for example sending spam, bulk messages, links to outside websites, and all other applicable terms and conditions. In some cases, when our admin staff is alerted to possible terms and conditions violations, or if there is an issue with a specific transaction, our admin staff may manually review MyMessages if neccessary to resolve any outstanding issues. 
+ **Security**
 
-## Security
+We take the protection and security of your Personal Information very seriously. We use a variety of technological and industry standard processes and procedures to help safe guard this information. Financial information will be stored using industry standard encryption technology. However, you understand that no process or procedures by any company can ever fully eliminate all risks associated with your Personal Information.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+ **Third Party Privacy and External Links**
 
-## How we use cookies
+Our site may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here. Please note that this is in no way related to any information we collect from you. We do not share any of your Personal Information we collect with these companies.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
+ **Modification of this Privacy Policy**
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
-
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website, and you will not be able to login to your account. 
-
-## Controlling your personal information
-
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
-
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to us (see the Contact Us Page). 
-
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible. We will promptly correct any information found to be incorrect. 
-
-## Links to other websites
-
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
-
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/ "http://www.networkadvertising.org"). Please note that this is in no way related to any information we collect from you. We do not share any of your personal information we collect with these companies. 
+HipComic reserves the right at all times to discontinue or modify this Privacy Policy as we reason necessary or desirable at any time. In the event that we make a modification to our site, which will significantly affect your use of the site or our service, we will notify you through the email address registered to your account and/or by posting a notice of such change on our site. In the event that there are any changes to the Privacy Policy, they will become effective immediately for any continued use of the site, and new activity on the site, but will not become retroactive. These changes will be effective immediately for any new user to our site and for all activity, which takes place after the Privacy Policy, has changed. We strongly suggest that you continuously revisit our Privacy Policy occasionally in order to ensure that you are informed of the current Privacy Policy for our site. Your use of our site following an update to our Privacy Policy constitutes your acceptance of the modified Privacy Policy.
