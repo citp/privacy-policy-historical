@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facebookstatus123.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607220939id_/http%3A//fbstatuses123.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facebookstatus123.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910175826id_/http%3A//fbstatuses123.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Facebook Status
 
