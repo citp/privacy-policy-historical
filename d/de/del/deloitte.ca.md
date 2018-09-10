@@ -1,94 +1,165 @@
-> *The following text is extracted and transformed from the deloitte.ca privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202033241id_/https%3A//www2.deloitte.com/ca/en/footerlinks1/privacy.html%3Ficid%3Dbottom_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deloitte.ca privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910221325id_/https%3A//www2.deloitte.com/ca/en/footerlinks1/privacy.html%3Ficid%3Dbottom_privacy) for the most accurate reproduction.*
 
 # Privacy
 
-**Introduction**
+### Who this privacy statement applies to and what it covers
 
-Deloitte.com is comprised of various individual global, country, regional, or practice specific websites, each of which is provided by Deloitte Touche Tohmatsu Limited (" **DTTL** ") or one of its member firms or their related entities (collectively, the " **Deloitte Network** "). These individual websites are designated in the  **upper right-hand**  corner of each webpage.
+This privacy statement applies to Deloitte LLP with registered office address at #200 – 8 Adelaide St. West, Toronto, Ontario, Canada. M5H 0A9, and our affiliates and related entities (“Deloitte”, “we”, “us” or “our”).  
+We are committed to protecting your privacy and handling your information in an open and transparent manner.
 
-This Privacy Statement applies only to the specific webpages of deloitte.com designated as "Canada" in the upper right-hand corner, which are referred to below as "this Website".
+This privacy statement sets out how we will collect, handle, store and protect information about you when:
 
-Deloitte Canada which is the DTTL member firm in Canada (also referred to below as “ **we** ”, “ **us** ” or “ **our** ”) is a privacy conscious global organization. We are the entity within the Deloitte Network that is providing this Website and this Privacy Statement explains how we protect visitors’ information gathered via this Website.
+providing services to you or our clients  
+you use “our Website” or  
+performing any other activities that form part of the operation of our business.
 
-**By using this Website you are agreeing to the use of your information as described in this Privacy Statement.**
+When we refer to “our Website” or “this Website” in this policy we mean the specific webpages of deloitte.com designated as Canada in the upper right hand corner, and to specific webpages with a URL commencing ‘www2.deloitte.com/ca/’.
 
-Please note that the other country, regional and practice specific websites contained within deloitte.com are provided by other entities within the Deloitte Network and are not provided by us. Such websites, as well as other websites that may be linked to this Website, are not governed by this Privacy Statement. We encourage visitors to review each of these other website's Privacy Statements before disclosing any personal information.
+Deloitte.com is comprised of various global, country, regional and practice specific websites, each of which is provided by Deloitte Touche Tohmatsu Limited (“DTTL”) or one of its independent member firms or their related entities (collectively, the “Deloitte Network”). To learn more about DTTL, the member firms of DTTL and their related entities, please see [About Deloitte](https://www2.deloitte.com/ca/en/pages/about-deloitte/articles/about-deloitte.html).
 
-This Privacy Statement may be supplemented or amended from time to time by Privacy Statements that are specific to certain areas of this Website (e.g., recruitment). For more detail about the online recruitment process, please review the specific statement governing that area.
+This privacy statement also contains information about when we share your personal data with other members of the Deloitte Network and other third parties (for example, our service providers).
 
-If you have any questions regarding this Privacy Statement, please contact webmaster services using the [Contact us](https://web.archive.org/content/www/ca/en/footerlinks/contact-us.html) link.
+In this privacy statement, your information is sometimes called “personal data” or “personal information”. We may also sometimes collectively refer to handling, collecting, protecting and storing your personal information as “processing” such personal information.  
+ 
 
-**Information collection**
+### About other areas of deloitte.com
 
-As a visitor, you do not have to submit any personal information in order to use the Website. This Website only collects personal information that is specifically and voluntarily provided by visitors. Such information may consist of, but is not limited to, your name, current job title, company address, email address, and telephone and fax numbers.
+Please note that the other country and regional websites contained within deloitte.com are provided by other entities within the Deloitte Network and are not provided by us. Such websites, as well as other websites that may be linked to this Website, are not governed by this privacy statement. We encourage visitors to review the privacy statements on each of these other websites before disclosing any personal information.
 
-We also collect information from you to administer events, surveys and the Alumni Directory. We may also store and maintain any content that you provide, including but not limited to postings on any blogs, forums, wikis and other social media applications and services that we may provide.
+### What information we collect?
 
-We do not usually seek sensitive information (e.g., data relating to race or ethnic origin, religious beliefs, criminal record, physical or mental health, or sexual orientation) from visitors. We will, where necessary, obtain your explicit consent to collect and use such information.
+In the course of providing services to you or our client and performing due diligence checks in connection with our services (or discussing possible services we might provide), we will collect or obtain personal data about you. We may also collect personal data from you when you use this Website.
 
-**Log information, cookies, and web beacons**
+We may collect or obtain such data because you give it to us (for example in a form on our Website), because other people give that data to us (for example your employer or adviser, or third party service providers that we use to help operate our business) or because it is publicly available.
 
-This site collects standard internet log information including your IP address, browser type and language, access times, and referring website addresses. To ensure that this Website is well managed and to facilitate improved navigation, we or our service providers may also use cookies (small text files stored in a user’s browser), or Web beacons (electronic images that allow this Website to count visitors who have accessed a particular page and to access certain cookies) to collect aggregate data. Additional information on how we use cookies and other tracking technologies and how you can control these can be found in our [cookie notice](https://web.archive.org/content/www/ca/en/footerlinks1/cookies.html).
+We may also collect or obtain personal data from you because we observe or infer that data about you from the way you interact with us or others. For example, to improve your experience when you use this Website and ensure that it is functioning effectively, we (or our service providers) may use cookies (small text files stored in a user’s browser) and Web beacons which may collect personal data. Additional information on how we use cookies and other tracking technologies and how you can control these can be found in our [cookie notice](https://www2.deloitte.com/ca/en/footerlinks1/cookies.html).
 
-**Information use**
+The personal data that we collect or obtain may include but is not limited to: your name; age; date of birth; gender; e-mail address; home address; country of residence; lifestyle and social circumstances (for example, your pastimes); family circumstances (for example, your marital status and dependents); employment and education details (for example, the organization you work for, your job title and your education details); financial and tax-related information (for example your income and tax residency); your postings on any blogs, forums, wikis and any other social media applications and services that we provide; your IP address; your browser type and language; your access times; complaint details; details of how you use our products and services; details of how you like to interact with us and other similar information.
 
-At times, you may provide personal information via this site, for example, to gain access to specific content, attend a hosted event, respond to a survey, or request communications about specific areas of interest such as the Alumni Directory. In such cases, the information you submit will be used to manage your request and to customize and improve this Website and related events, programs and services offered to you. Survey information may also be used to analyze issues and topics related to Deloitte, the market or the individual respondent.
+The personal data we collect may also include so called ‘sensitive’ or ‘special categories’ of personal data, such as details about your: dietary requirements (for example, where Deloitte would like to provide you with lunch during a meeting), health (for example, so that we can make reasonable accommodations for you in our buildings, products and services) and sexual orientation (for example if you provide us with details of your spouse or partner).
 
-We may also use your personal information for marketing purposes, or to send you promotional materials or communications regarding services provided by us or other members of the Deloitte Network that we feel may be of interest to you. We may also contact you to seek feedback on our services or for market or other research purposes.  Your personal information may also be used to protect our rights or property and that of our users and, where appropriate, to comply with legal process.
+The types of personal data and special categories of personal data that we collect may vary depending on the nature of the services that we provide to you or our client, or how you use our Website. In some rare circumstances, we might also gather other special categories of personal data about you because you volunteer that data to us or we are required to gather that data as a result of legal requirements imposed on us.
 
-You may at any time request that we discontinue sending you emails or other communications generated in response to your provision of personal information via this Website at [unsubscribe@deloitte.ca](mailto:unsubscribe@deloitte.ca)
+Where we are provided with personal data about you by our client, we take steps to ensure that the client has complied with the privacy laws and regulations relevant to that information; this may include, for example, that the client has provided you with notice of the collection (and other matters) and has obtained any necessary consent for us to process that information as described in this privacy statement.
 
-**Disclosure of information to third parties**
+We understand the importance of protecting children's privacy. Our Website and services are not designed for, or intentionally targeted at, children. It is not our policy to intentionally collect or store information about children.
 
-We may provide your personal information to other entities within the Deloitte Network in order to provide you with information that could be of interest to you and conduct market or other research. Personal information may also be disclosed to other entities within the Deloitte Network and other third parties in order to respond to your requests or inquiries, as part of a corporate transaction such as a sale, divestiture, reorganization, merger or acquisition, or where those parties handle information on our behalf.
+### How we use information about you? 
 
-All of these disclosures may involve the transfer of personal information to countries or regions without data protection rules similar to those in effect in your area of residence.
+**Use of personal information to provide services to our clients**  
+We will use your personal data to provide you or our client with services. As part of this, we may use your personal data in the course of correspondence relating to the services. Such correspondence may be with you, our client, other members of the Deloitte Network, our service providers or competent authorities. We may also use your personal data to conduct due diligence checks relating to the services. 
 
-Personal information may also be disclosed to law enforcement, regulatory, or other government agencies, or to other third parties, in each case to comply with legal or regulatory obligations or requests.
+Because we provide a wide range of services to our clients, the way we use personal data in relation to our services also varies. For example, we might use personal data:
 
-By providing information through this Website, you are consenting to the disclosures described above.
+  * about a client’s employees to help those employees manage their tax affairs when working overseas
+  * about a client’s employees and customers in the course of conducting an audit (or similar activity) for a client
+  * about a client’s employees and customers in the course of implementing new human resources or customer relationship management systems
+  * To provide immigration assistance to an individual, either directly or on behalf of a client
+  * To support a client in the course of a forensic investigation 
+  * about a client to help him/her complete a tax return.
 
-**Blogs, forums, wikis, and other social media**
 
-This Website may host various blogs, forums, wikis, and other social media applications or services that allow you to share content with other users (collectively “ **Social Media Applications** ”). Any personal information or other information that you contribute to any Social Media Application can be read, collected, and used by other users of that Social Media Application over whom we have little or no control. Therefore, we are not responsible for any other user’s use, misuse, or misappropriation of any personal information or other information that you contribute to any Social Media Application.
 
-**Access to information**
+**Use of personal information for other activities that form part of the operation of our business  
+**We may also use your personal data for the purposes of, or in connection with:
 
-Visitors who would like to request access to their information, to update their details, or unsubscribe from communications should contact webmaster services using the [Contact us](https://web.archive.org/content/www/ca/en/footerlinks/contact-us.html) link. In all cases we will treat requests to access information or change information in accordance with applicable legal requirements.
+  * applicable legal or regulatory requirements
+  * requests and communications from competent authorities
+  * client account opening and other administrative purposes 
+  * financial accounting, invoicing and risk analysis purposes
+  * client relationship purposes, which may involve: (i) sending you thought leadership or details of our products and services that we think might be of interest to you; (ii) contacting you to receive feedback on services; (iii) contacting you for other market or research purposes; or (iv) managing our own customer relationship management processes;
+  * recruitment and business development purposes (for example testimonials from a client’s employees may be used as part of our recruitment and business development materials with that employee’s permission)
+  * services we receive from our professional advisors, such as lawyers, accountants and consultants
+  * protecting our rights and those of our clients. 
 
-**Information security**
 
-We have in place reasonable commercial standards of technology and operational security to protect all information provided by visitors via this Website from unauthorized access, disclosure, alteration, or destruction.
 
-**Email preferences**
+**Use of personal information collected via our Website**  
+In addition to the purposes connected to the operation of our business above, we may also use your personal data collected via our Website:
 
-We provide a newsletter subscription feature on this Website to make it easy for clients, alumni and Website visitors to request and receive information of interest to them on a regular basis. If you choose to subscribe to this newsletter feature, you must submit your name, email, province/territory and a password, which you may choose to create.
+  * to manage and improve our Website
+  * to tailor the content of our Website to provide you with a more personalised experience and draw your attention to information about our products and services that may be of interest to you
+  * to manage and respond to any request you submit through our Website.
 
-The information you submit for the newsletter feature is password-protected and can only be accessed and updated by you and our subscription administrators.
 
-Your newsletter subscription may be delivered with the assistance of service providers, which may be located in Canada or in other countries. We take steps to protect personal information when we work with business partners and service providers. Please note that forwarding email newsletters may generate identifying information about the recipient to us, although we do not use the information for any purpose.
 
-Please visit our [email preferences page](https://preferences.deloitte.ca/authentication).
+### The legal grounds we use for processing personal information
 
-**Changes to our Privacy Statement**
+We are required by law to set out in this privacy statement the legal grounds on which we rely in order to process your personal data.
 
-We may modify or amend this Privacy Statement from time to time at our discretion. When we make changes to this statement, we will amend the revision date at the top of this page, and such modified or amended Privacy Statement shall be effective as to you and your information as of that revision date. We encourage you to periodically review this Privacy Statement to be informed about how we are protecting your information.
+As a result, we use your personal data for the purposes outlined above because : (a) of our legitimate interests in the effective delivery of our services to you or our client; (b) of our legitimate interests in the effective and lawful operation of our business so long as such interests are not outweighed by your interests; (c) of the legal and regulatory obligations that we are subject to, such as keeping records for tax purposes or providing information to a public body or law enforcement agency or (d) the information is required in order to provide our services to you or our client.
 
-**Children's privacy protection**
+To the extent that we process any sensitive personal data relating to you for any of the purposes outlined above, we will do so because either: (i) you have given us your explicit consent to process that data; (ii) we are required by law to process that data in order to ensure we meet our ‘know your client’ and ‘anti-money laundering’ obligations (or other legal obligations imposed on us); (iii) the processing is necessary to carry out our obligations under employment, social security or social protection law; (iv) the processing is necessary for the establishment, exercise or defence of legal claims or (v) you have made the data public..
 
-We understand the importance of protecting children's privacy in the interactive online world. This Website is not designed for or intentionally targeted at children 13 years of age or younger. It is not our policy to intentionally collect or maintain information about anyone under the age of 13.
+Where we are legally required to obtain your explicit consent to provide you with certain marketing materials, we will only provide you with such marketing materials where we have obtained such consent from you.
 
-**Visitors' questions**
+If you do not want to continue receiving any marketing materials from us, you can click on the unsubscribe function in the communication or e-mail [unsubscribe@deloitte.ca](mailto:unsubscribe@deloitte.ca).  
+ 
 
-If you have any questions or concerns regarding your privacy while using this Website, please direct them to webmaster services using the [contact us](https://web.archive.org/content/www/ca/en/footerlinks/contact-us.html) link.
+### Who we disclose your information to?
 
-To remove your name from our mailing lists, email us at [unsubscribe@deloitte.ca](mailto:unsubscribe@deloitte.ca)
+In connection with one or more of the purposes outlined in the “How we use information about you?” section above, we may disclose details about you to: other members of the Deloitte Network; third parties that provide services to us and/or the Deloitte Network; competent authorities (including courts and authorities regulating us or another member of the Deloitte Network); your employer and/or their advisers; your advisers; credit reference agencies or other organizations that help us make credit decisions and reduce the incidence of fraud and other third parties that reasonably require access to personal data relating to you for one or more of the purposes outlined in the “How we use information about you?” section above.
 
-To request the personal information we have about you, inquire or complain about our privacy practices, please contact:
+Our Website hosts various blogs, forums, wikis and other social media applications or services that allow you to share content with other users (collectively “Social Media Applications”). Importantly, any personal information that you contribute to these Social Media Applications can be read, collected and used by other users of the application. We have little or no control over these other users and, therefore, we cannot guarantee that any information that you contribute to any Social Media Applications will be handled in accordance with this privacy statement.
+
+Please note that some of the recipients of your personal data referenced above may be based in countries outside of the Canada, whose laws may not provide the same level of data protection. In such cases, we will ensure that there are adequate safeguards in place to protect your personal data that comply with our legal obligations. Where the recipient is not a member of the Deloitte Network, the adequate safeguard might be a data transfer agreement with the recipient based on standard contractual clauses approved by the European Commission for transfers of personal data to third countries.
+
+Further details of the transfers described above and the adequate safeguards used by Deloitte in respect of such transfers (including copies of relevant agreements) are also available from us by contacting [privacyoffice@deloitte.ca](mailto:privacyoffice@deloitte.ca).
+
+We may also need to disclose your personal data if required to do so by law, a regulator or during legal proceedings.
+
+We may share non-personal, de-identified and aggregated information with third parties for several purposes, including data analytics, research, submissions, thought leadership and promotional purposes.  
+ 
+
+### Protection of your personal information
+
+We use a range of physical, electronic and managerial measures to ensure that we keep your personal data secure, accurate and up to date.
+
+These measures include: 
+
+  * education and training to relevant staff to ensure they are aware of our privacy obligations when handling personal data
+  * administrative and technical controls to restrict access to personal data on a ‘need to know’ basis
+  * technological security measures, including firewalls, multi-factor authentication, encryption and anti-virus software
+  * physical security measures, such as staff security passes to access our premises. 
+
+
+
+Although we use appropriate security measures once we have received your personal data, the transmission of data over the internet (including by e-mail) is never completely secure. We endeavor to protect personal data, but we cannot guarantee the security of data transmitted to us or by us.
+
+### How long we keep your information for?
+
+We will hold your personal data on our systems for the longest of the following periods: (i) as long as is necessary for the relevant activity or services; (ii) any retention period that is required by law or professional standards; (iii) the end of the period in which litigation or investigations might arise in respect of the services or (iv) as directed by Deloitte’s own internal retention policies or practices, the length of which may vary depending on the nature of the information that is held. Further, any copies of personal data stored in our electronic backups will be destroyed in accordance with that backup’s ordinary lifecycle. 
+
+### Your rights
+
+You have various rights in relation to your personal data. In particular, you have a right to:
+
+  * obtain confirmation that we are processing your personal data and request a copy of the personal data we hold about you
+  * ask that we update the personal data we hold about you, or correct such personal data that you think is incorrect or incomplete
+  * ask that we delete personal data that we hold about you, or restrict the way in which we use such personal data
+  * withdraw consent to our processing of your personal data (to the extent such processing is based on consent)
+  * To the extent prescribed by applicable law, receive a copy of the personal data concerning you, which you have provided to us, in a structured, commonly used and machine-readable format and to transmit such personal data to another party (to the extent the processing is based on consent or a contract)
+  * object to our processing of your personal data.
+
+
+
+To exercise any of your rights, or if you have any other questions about our use of your personal data, please email privacyoffice@deloitte.ca or write to us at the address below:
 
 **Privacy Office**  
 Deloitte LLP  
-22 Adelaide Street West, Suite 200  
-Toronto, ON M5H 0A9  
+8 Adelaide Street West, Suite 200  
+Toronto, ON M5H 0A9  
 Canada  
 [privacyoffice@deloitte.ca](mailto:privacyoffice@deloitte.ca)
+
+You may also use these contact details if you wish to make a complaint to us relating to your privacy.
+
+### Right to complain
+
+If you are unhappy with the way we have handled your personal data or any privacy query or request that you have raised with us, you have a right to complain to the Data Protection Authority (“DPA”) in your jurisdiction. If you would like to be directed to the appropriate DPA, please [contact us](mailto:privacyoffice@deloitte.ca).
+
+### Changes to this privacy statement
+
+We may modify or amend this privacy statement from time to time.
+
+To let you know when we make changes to this privacy statement, we will amend the revision date at the top of this page. The new modified or amended privacy statement will apply from that revision date. Therefore, we encourage you to periodically review this statement to be informed about how we are protecting your information.
