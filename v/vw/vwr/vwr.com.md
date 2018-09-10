@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vwr.com privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302023403id_/https%3A//us.vwr.com/store/content/externalContentPage.jsp%3Fpath%3D/en_US/about_vwr_privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vwr.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910191504id_/https%3A//us.vwr.com/store/content/externalContentPage.jsp%3Fpath%3D/en_US/about_vwr_privacy.jsp) for the most accurate reproduction.*
 
 # Privacy | VWR
 
@@ -58,5 +58,4 @@ VWR makes every effort to ensure that data is secure. In the event that our proc
   * We will communicate to the customer whatever information may aid their efforts to prevent data theft from causing harm to their organization. This may include an estimate of the number of records, users, or accounts involved. 
   * Following any event that involves compromised data, we will collect feedback from the impacted customers. This feedback will be used to adjust this process to better serve our customers in any future event. 
 
-  
-[ Manage your print and e-mail subscriptions. ](https://web.archive.org/store/content/externalContentPage.jsp;jsessionid=KUx26Za9PvNtrVdw1JoNwsVp.estore1c?path=/en_US/literature_manage_subscriptions.jsp)
+[ Manage your print and e-mail subscriptions. ](https://web.archive.org/store/content/externalContentPage.jsp;jsessionid=NMZZE6i9UeJpzmjiTLHP3kGr.estore6d?path=/en_US/literature_manage_subscriptions.jsp)
