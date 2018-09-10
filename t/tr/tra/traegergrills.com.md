@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the traegergrills.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108184218id_/http%3A//www.traegergrills.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traegergrills.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910223233id_/https%3A//www.traegergrills.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Traeger Wood Pellet Grills
 
 ### What information do we collect?
 
@@ -177,6 +177,8 @@ The information that Traeger Grills and third parties collect from the Traeger W
 
 **Additional information**
 
+Depending on where you live, you have the right to know what information we collect and store about you. You also have to right to request us to remove your data if it's no longer needed or used by us. If you would like to talk to someone on our team about your information, please email privacy@traegergrills.com
+
 We reserve the right to amend this Policy at any time.  We will make the revised Policy accessible through the App, so you should review the Policy periodically.  Any such amendments to this Policy may apply to information we collect in the future as well as any information we obtained prior to such amendment.  If we make a material change to the Policy, you will be provided with appropriate notice.
 
 If you have any questions or concerns about this Policy or about the information that Traeger Grills collects about you or if you would like to update or change that information, please send us an email by using the “Contact Us” link on the company’s website, www.traegergrills.com.
@@ -195,6 +197,6 @@ Back to top ↑
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 8/9/2013
+This policy was last modified on 5/25/2018
 
 Back to top ↑
