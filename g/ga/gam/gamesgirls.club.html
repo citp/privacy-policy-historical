@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gamesgirls.club privacy policy that was archived on 2018-02-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180203001433id_/http%3A//gamesgirls.club/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gamesgirls.club privacy policy that was archived on 2018-09-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180910213431id_/https%3A//gamesgirls.club/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -22,12 +22,15 @@
             <input type="submit" class="ipbtn" value="" onclick="submit();">
             <script async="" src="//www.google-analytics.com/analytics.js"></script><script>
             function submit(){
-                var gameName = document.getElementById("gameWord").value;
+                var gameName = document.getElementById("gameWord").value.trim();
                 if(gameName==""){
                     alert("please input the search game name");
                     return;
+                } else {
+                    gameName = gameName.toLowerCase();
+                    gameName = gameName.replace(/\s/ig, '-');
                 }
-                window.location.href = "/find/"+gameName;
+                window.location.href = "/s/"+gameName;
             }
             
             document.getElementById("gameWord").onfocus = function () {
@@ -151,16 +154,13 @@
     <div class="wrapper fn-clear">
     <div class="f-text fn-right">
     <p>Free Online Games for Girls:</p>
-    <div>Welcome to GamesGirls.club! GamesGirls.club is girls' zone to play free online games. Stocked each day with new free games, including <h2>sports games</h2>, <h2>decorating games</h2>, makeover games, animal games, make up games, dress up games, puzzle games, cooking games, skill games and more other games. Just enjoy yourself!<br>
+    <div>Welcome to GamesGirls.club! GamesGirls.club is girls' zone to play free online games. Stocked each day with new free games, including <h2>makeover games</h2>, <h2>decorating games</h2>, puzzle games, dress up games, sports games, animal games, cooking games, skill games, make up games and more other games. Just enjoy yourself!<br>
 <center><a href="https://play.google.com/store/apps/details?id=co.gamegirl.play&amp;utm_campaign=ggclub" target="_blank">
     <img alt="Get it on Google Play" src="/images/googleplay.png">
 </a></center></div>
     </div>
     </div>
     <p>
-        <a href="http://m.shtoss.com" target="_blank">Mobile Games</a> | 
-        <a href="http://shtoss.com" target="_blank">Free Online Games</a> | 
-        <a href="http://gamegirl.co" target="_blank">Free Mobile And Tablet Games</a> | 
         <a href="/privacy.php" rel="nofollow" title="Privacy Policy">Privacy Policy</a>
     </p>
 </footer>
