@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the puckermob.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629064753id_/http%3A//www.puckermob.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puckermob.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910051339id_/http%3A//www.puckermob.com/privacy) for the most accurate reproduction.*
 
 # Pucker Mob | We're All Part of It
 
 ## Privacy Policy
 
-Welcome to PuckerMob, the website and mobile service of Sequel Media International, LLC. (“PuckerMob,” “we,” or “us”). Our Privacy Policy explains how we collect, use, disclose, and protect information that applies to our Service, and your choices about the collection and use of your information.
+Welcome to PuckerMob, the website and mobile service of BloomJoy/AnswerMedia, LLC. (“PuckerMob,” “we,” or “us”). Our Privacy Policy explains how we collect, use, disclose, and protect information that applies to our Service, and your choices about the collection and use of your information.
 
 ### 1\. How we collect and use information
 
@@ -64,15 +64,19 @@ Compromise of information: In the event that any information under our control i
 
 ### 4\. Your choices about your information
 
-You control your account information and settings: You may update your account information and email-communication preferences at any time by logging into your account and changing your profile settings. You can also stop receiving promotional email communications from us by clicking on the “unsubscribe link” provided in such communications. We make every effort to promptly process all unsubscribe requests. As noted above, you may not opt out of Service-related communications (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices). If you have any questions about reviewing or modifying your account information, you can contact us directly at [info@sequelmediainternational.com](mailto:info@sequelmediainternational.com)
+You control your account information and settings: You may update your account information and email-communication preferences at any time by logging into your account and changing your profile settings. You can also stop receiving promotional email communications from us by clicking on the “unsubscribe link” provided in such communications. We make every effort to promptly process all unsubscribe requests. As noted above, you may not opt out of Service-related communications (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices). If you have any questions about reviewing or modifying your account information, you can contact us directly at [info@puckermob.com](mailto:info@puckermob.com)
 
-Opting out of collection of your information for Tracking / Advertising: Please refer to your mobile device or browser's technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. Depending on your type of device, it may not be possible to delete or disable tracking mechanisms on your mobile device. Note that disabling cookies and/or other tracking tools prevents PuckerMob or its business partners from tracking your browser's activities in relation to the Service, and for use in targeted advertising activities by third parties. However, doing so may disable many of the features available through the Service. If you have any questions about opting out of the collection of cookies and other tracking/recording tools, you can contact us directly at [info@sequelmediainternational.com](mailto:info@sequelmediainternational.com)
+Opting out of collection of your information for Tracking / Advertising: Please refer to your mobile device or browser's technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. Depending on your type of device, it may not be possible to delete or disable tracking mechanisms on your mobile device. Note that disabling cookies and/or other tracking tools prevents PuckerMob or its business partners from tracking your browser's activities in relation to the Service, and for use in targeted advertising activities by third parties. However, doing so may disable many of the features available through the Service.
+
+If you wish to opt out of targeted advertising activities by third party advertisers, you may visit [optout.networkadvertising.org](http://optout.networkadvertising.org/) where you can learn more about tailored online ads and your choices to opt out of receiving them.
+
+If you have any questions about opting out of the collection of cookies and other tracking/recording tools, you can contact us directly at [info@puckermob.com](mailto:info@puckermob.com)
 
 How long we keep your User Content: Following termination or deactivation of your User account, PuckerMob may retain your profile information and User Content for a commercially reasonable time for backup, archival, or audit purposes.
 
 ### 5\. Children's privacy
 
-PuckerMob does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under 13, please contact us at [info@sequelmediainternational.com](mailto:info@sequelmediainternational.com)
+PuckerMob does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under 13, please contact us at [info@puckermob.com](mailto:info@puckermob.com)
 
 ### 6\. Links to other web sites and services
 
@@ -82,12 +86,12 @@ This Privacy Policy does not apply to information we collect by other means (inc
 
 ### 7\. How to contact us
 
-If you have any questions about this Privacy Policy or the Service, please contact us at [info@sequelmediainternational.com](mailto:info@sequelmediainternational.com).
+If you have any questions about this Privacy Policy or the Service, please contact us at [info@puckermob.com](mailto:info@puckermob.com).
 
 ### 8\. Changes to our privacy policy
 
 PuckerMob may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and so you should review this page periodically. When we change the policy in a material manner we will let you know and update the 'last modified' date at the bottom of this page.
 
-This Privacy Policy was last modified on June 16, 2016.
+This Privacy Policy was last modified on July 26, 2018.
 
 * * *
