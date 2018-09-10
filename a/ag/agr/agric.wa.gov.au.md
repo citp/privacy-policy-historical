@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the agric.wa.gov.au privacy policy that was archived on 2018-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180402005703id_/https%3A//www.agric.wa.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agric.wa.gov.au privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910183324id_/https%3A//www.agric.wa.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Agriculture and Food
 
-The Department of Agriculture and Food, Western Australia records your visit and logs the following information for statistical purposes:
+The Department of Primary Industries and Regional Development records your visit and logs the following information for statistical purposes:
 
   * the user's server address
   * the user's top level domain name (for example .com, .gov, .au, .uk etc.)
@@ -19,7 +19,7 @@ No attempt will be made to identify users or their browsing activities except in
 
 ## Use of information collected
 
-If you send us a message or subscribe to any services on the Department of Agriculture and Food, Western Australia’s website, your email address and other personal information you may provide will be maintained on our systems. This information will only be used for the purpose for which you have provided it and will not be used for any other purpose without your consent.
+If you send us a message or subscribe to any services on the Department of Primary Industries and Regional Development’s website, your email address and other personal information you may provide will be maintained on our systems. This information will only be used for the purpose for which you have provided it and will not be used for any other purpose without your consent.
 
 Please note there may be additional privacy information relating to specific services provided on the department's website — these statements will be accessible from the specific applications.
 
