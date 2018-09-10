@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 2merkato.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616005224id_/http%3A//www.2merkato.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2merkato.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910193732id_/http%3A//www.2merkato.com/63-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | 2merkato.com
+# Privacy Policy
 
 **What information do we collect?**
 
@@ -34,10 +34,6 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**California Online Privacy Protection Act Compliance**
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
 **Your Consent**
 
 By using our site, you consent to our online privacy policy.
@@ -48,4 +44,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may[ contact us](http://www.2merkato.com/contact-us/general-questions) using the information below. 
+If there are any questions regarding this privacy policy you may[ contact us](http://www.2merkato.com/index.php?option=com_contact&view=contact&id=1&Itemid=131) using the information below.
+
+Mega Building (Bole Road), First floor, Office No.116  
+Addis Ababa, Ethiopia
