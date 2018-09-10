@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chemistdirect.com.au privacy policy that was archived on 2018-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180426210234id_/https%3A//www.chemistdirect.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemistdirect.com.au privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910210436id_/https%3A//www.chemistdirect.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
