@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soliloquywp.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902093854id_/https%3A//soliloquywp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soliloquywp.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910230557id_/https%3A//soliloquywp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
