@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freevectors.net privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517150023id_/http%3A//www.freevectors.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freevectors.net privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910074618id_/http%3A//www.freevectors.net/privacy) for the most accurate reproduction.*
 
 # Free Vector Art & Graphics :: Privacy Policy
 
