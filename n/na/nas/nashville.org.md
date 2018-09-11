@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nashville.org privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704005724id_/https%3A//www.nashville.gov/Privacy-and-Security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nashville.org privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911165804id_/https%3A//www.nashville.gov/Privacy-and-Security.aspx) for the most accurate reproduction.*
 
 # Nashville > Privacy and Security
 
@@ -41,7 +41,7 @@ A cookie is a small data file that certain Web sites write to your hard drive wh
 
 If you prefer not to receive cookies while browsing our web site, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser, although you may not be able to take full advantage of this web site if you do so. You do not need to have cookies turned on to use or navigate through many parts of our web site, except access to certain web pages that require a login and password.
 
-For more detailed information on cookies, visit this page on the Microsoft web site: <http://www.microsoft.com/info/cookies.htm>
+For more detailed information on cookies, visit [Microsoft's information on cookie management](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies).
 
 ## External Links
 
