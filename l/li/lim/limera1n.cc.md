@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limera1n.cc privacy policy that was archived on 2018-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180512193122id_/http%3A//www.limera1n.cc/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limera1n.cc privacy policy that was archived on 2018-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180912011546id_/http%3A//www.limera1n.cc/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Limera1n
 
