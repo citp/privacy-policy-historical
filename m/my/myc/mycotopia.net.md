@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycotopia.net privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630091702id_/https%3A//mycotopia.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycotopia.net privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911160126id_/https%3A//mycotopia.net/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Mycotopia
 
