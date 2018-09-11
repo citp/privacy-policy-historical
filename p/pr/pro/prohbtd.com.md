@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prohbtd.com privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417101508id_/https%3A//prohbtd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prohbtd.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911164613id_/https%3A//prohbtd.com/privacy) for the most accurate reproduction.*
 
-# PRØHBTD
+# Privacy
 
 Effective Date: March 6, 2017
 
