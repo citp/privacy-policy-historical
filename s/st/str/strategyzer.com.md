@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the strategyzer.com privacy policy that was archived on 2017-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170319183006id_/https%3A//strategyzer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strategyzer.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911040956id_/https%3A//strategyzer.com/privacy-policy) for the most accurate reproduction.*
 
 # Strategyzer | Privacy Policy
 
 [](https://web.archive.org/)
 
 Strategyzer AG provides an individual or collaborative service to create, analyze, share, and discuss strategic business issues such as business models (hereafter called "Content"). Furthermore it enables the adding of meaningful metadata and comments to content created individually or collaboratively. 
+
+Strategyzer AG is committed to protecting the privacy of the users and to comply with all relevant laws. This Privacy Policy describes general rules applied to all of our global users as well as rules specifically applicable to EU users. 
 
 ### Information Collection and Use Practices
 
@@ -79,6 +81,27 @@ _Collaboration_
 
 All work done by the collaborators are owned by the project owner. The project owner has the right to add and delete members to his project according to his judgement. 
 
+### EU users
+
+On 25 May 2018 a new European privacy law, the [General Data Protection Regulation (GDPR)](https://ec.europa.eu/info/law/law-topic/data-protection_en), comes into force. It imposes new rules on companies, government agencies, non-profits, and other organizations which offer goods and services to EU individuals or which collect and analyze their data. The GDPR applies no matter where the data is processed and where the organization processing data is physically located. It is meant to strengthen users rights in light of fast technological developments and increased globalization of business operations involving any form of processing personal data. 
+
+The GDPR regulates the “processing” of personal data for EU individuals, which includes collection, storage, transfer, or use. The term “personal data” is very broad under new regulation and extends to any information relating to an identified or identifiable individual (a “data subject”). 
+
+The GDPR also expands the concept of sensitive data (personal data revealing: racial/ethnic origin, political/religious etc views, trade union membership, health, sex life and sexual orientation, genetic and biometric data).  
+Strategyzer AG can assure its users that it does not process any of such sensitive data. 
+
+Strategyzer AG is committed to comply with EU data protection regulation and provides its EU users with a number of important assurances, such as the following: 
+
+  * We will keep Your data within Strategyzer AG and our trusted third parties except where disclosure is required by law, for example to government bodies and law enforcement agencies.
+  * Some of our trusted third parties may need to transfer personal data overseas. Being responsible for its users personal data, Strategyzer AG always ensures that Your data remains protected and secure when being transferred.
+  * Strategyzer AG will process Your data only in accordance with legitimate purpose, i.e. to provide and improve our services. Strategyzer follows Your instructions regarding storage and processing of Your data. Importantly, the consent given by You to be provided with information about a variety of products and services Strategyzer AG offers can be withdrawn at any time.
+  * Strategyzer AG users have the “right to be forgotten”, which means the right to require that Strategyzer AG erases personal data about You in certain conditions, including if the personal data is no longer necessary for the original purpose of the processing or if the data subject withdraws consent for the processing. 
+  * You will now also have the right, in certain circumstances, to receive the personal data that You have provided to Strategyzer AG in a structured, commonly used and machine-readable format.
+  * Strategyzer AG has and will maintain technical and organizational measures to ensure security of Your data.
+  * Strategyzer AG will notify You of a security incident without undue delay after becoming aware of the security incident.
+
+
+
 ### Other
 
-When you use Strategyzer AG Services, you are subject to the Strategyzer AG [Terms of Service](https://strategyzer.com/terms-of-service). Please see [Strategyzer AG Support](http://support.strategyzer.com/) if you have questions about this service. This page describes current Strategyzer AG practices with respect to this particular service. This information may change as Strategyzer AG revises this service by adding or removing features or using different service providers. 
+When you use Strategyzer AG Services, you are subject to the Strategyzer AG [Terms of Service](https://strategyzer.com/terms-of-service). Please see [Strategyzer AG Support](https://strategyzer.uservoice.com/) if you have questions about this service. This page describes current Strategyzer AG practices with respect to this particular service. This information may change as Strategyzer AG revises this service by adding or removing features or using different service providers. 
