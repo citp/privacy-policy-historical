@@ -1,16 +1,33 @@
-> *The following text is extracted and transformed from the disabroad.org privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517095241id_/https%3A//disabroad.org/cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disabroad.org privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911021954id_/https%3A//disabroad.org/cookie-policy) for the most accurate reproduction.*
 
-# Cookie Policy | DIS
-
-DIS uses cookies for collecting statistics and improving your user experience.
+# Cookie and Privacy Policy | DIS
 
 **Owner information**  
 This website is offered by:
 
-DIS  
-1456 Copenhagen  
-Phone: (+45) 3311 0144  
-Fax: (+45) 3393 2624
+DIS – Study Abroad in Scandinavia  
+Vestergade 7  
+DK-1456 København K  
+Business registration no. in Denmark: DK13058946  
+Tel no: +45 33 11 01 44
+
+**Collection of personal data**  
+Personal information is never disclosed to third parties, unless you express consent, and we never collect personal information unless you have given us this information at registration, purchase, or participating in a survey, etc.
+
+**Data Protection Officer  
+**For any GDPR or personal data related inquiries, please contact [dataprotectionofficer@dis.dk](mailto:dataprotectionofficer@dis.dk).
+
+[Privacy Notice for University Partner Colleagues](https://disabroad.org/privacy-notice-university-partner/)
+
+[Privacy Notice for Prospective Students](https://disabroad.org/privacy-notice-prospect-students/)
+
+[Privacy Notice for students](https://disabroad.org/privacy-notice-for-students/)
+
+* * *
+
+### Cookie Policy
+
+DIS uses cookies for collecting statistics and improving your user experience.
 
 **Cookies**  
 A cookie is a small text file stored in your browser to recognize your computer on subsequent visits. There is no personal information stored in our cookies and they can not contain viruses.
@@ -30,9 +47,3 @@ We use Google Analytics which enables cookies to compile statistics about the us
 
 **Google Analytics (traffic measurement)**  
 You can disable cookies by Google Analytics here: <https://tools.google.com/dlpage/gaoptout>
-
-**Collection of personal data**  
-Personal information is never disclosed to third parties, unless you express consent, and we never collect personal information unless you have given us this information at registration, purchase, or participating in a survey, etc.
-
-**Data Protection Officer  
-**For any GDPR or personal data related inquiries, please contact dataprotectionofficer@dis.dk.
