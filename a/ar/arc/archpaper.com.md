@@ -1,47 +1,177 @@
-> *The following text is extracted and transformed from the archpaper.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409052046id_/http%3A//www.archpaper.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archpaper.com privacy policy that was archived on 2018-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180912000751id_/https%3A//archpaper.com/privacy-policy) for the most accurate reproduction.*
 
-# The Architect's Newspaper - About Us - Privacy Policy
+# Privacy Policy - Archpaper.com
 
-_The Architect's Newspaper_ , LLC understands that confidential business information must remain confidential. We are absolutely committed to keeping your private information private. This Privacy Statement discloses the information gathering and dissemination practices we use on the archpaper.com website.
+We at the AN MEDIA Group take your privacy seriously. The following outlines our data policies in compliance with all applicable laws and regulations. 
 
-Information Collected
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. This information has also been compiled to ensure that we comply with the European Union’s new General Data Protection Regulations. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-During the subscription process, our forms require you to provide contact and profile information. In addition to the information we obtain at registration, we may ask you for information at other times. We use customer contact, profile and site use information to tailor your experience at our site and to send you communications about our company and our partners. As described below, you may choose to opt-out of receiving this information. We may share profile and site use information with advertisers. Financial information that we collect may be used to check your qualifications for registration or to bill you for products and services which you order. We may supplement the information that you provide to us with information we receive from third parties.
+**What personal information do we collect from the people that visit our blog, website or app?**
 
-_The Architect's Newspaper_ , LLC also may occasionally ask you to provide information to participate in certain services such as requesting a sample, emailing a document to a colleague, requesting product information, and creating a sample board. Finally, _The Architect's Newspaper_ , LLC collects information about its Members in general, which does not necessarily identify the Member, by using our server log files.
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number or other details to help you with your experience.
 
-Information Gathering and Usage
+**When do we collect information?**
 
-Our website is for use by practicing professionals and designers. To ensure the quality of data and services we provide, we must verify that you are who you say you are. When you order a product or service we use your name, email address, delivery address, and credit card number and expiration date (or financial information) as part of a credit check. We use your email address as a component of our security check - preferably a company email. We ask for your telephone number to enable us to contact you if there is a problem with your order or the delivery of a product or service. In the event you have asked for the delivery of tangible goods, we may need to share the telephone number with the carrier delivering the goods.
+We collect information from you when you register on our site, place an order, subscribe to a newsletter, fill out a form or enter information on our site.
 
-When you order a product or service from a company linked to the _The Architect's Newspaper_ , LLC Web site, it may be necessary for _The Architect's Newspaper_ , LLC to share certain limited information, such as your IP address, with such company in order to process and complete your purchase or other transaction. In such cases, _The Architect's Newspaper_ , LLC shares the minimum information necessary to complete the transaction and only shares such information when you make a purchase or engage in a transaction - not when you simply visit and leave the other site.
+**How do we use your information?**
 
-Information Sharing
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-For the most part, company information that is shared with other companies is done only upon authorization from your company. In order to request a sample for example, the manufacturer must be provided with your company name, contact name, mailing address, phone number, fax number, and email address. These are paid services of members is only shared with manufacturers, vendors, and contractors upon your request.
+  *       ****To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+  *       ****To administer a contest, promotion, survey or other site feature.
+  *       ****To quickly process your transactions.
+  *       ****To send periodic emails regarding your order or other products and services.
+  *       ****To follow up with them after correspondence (live chat, email or phone inquiries)
 
-From time to time, we share aggregated data regarding the Members and users of our services (for example, the percentage of our users that are architects). Some of this information may include the data obtained as described in the "cookies" section below, but no personally identifiable information is included in these types of statistics.
 
-If you choose to receive information from companies with which we have a strategic alliance, T _he Architect's Newspaper_ , LLC (or agents working on behalf of _The Architect's Newspaper_ , LLC and under confidentiality agreements) will send you these direct mailings. _The Architect's Newspaper_ , LLC will not provide your information to strategic alliance companies unless it is necessary to complete a purchase from or transaction with such company or to provide a co-branded product/service on _The Architect's Newspaper_ , LLC that you have ordered. This may be necessary so that the company may process your orders and ship, supply, maintain, or service the goods or services that you requested. If you register directly with another company reached through the _The Architect's Newspaper_ , LLC site, that company will have control over the information you provide.
 
-Opt-In
+**How do we protect your information?**
 
-_The Architect's Newspaper_ , LLC follows an "opt-in" policy. When you register with _The Architect's Newspaper_ , LLC, you can choose whether you want to receive promotional information from us or from companies with which we have a strategic alliance. If you want to receive this information, be sure to indicate that on your _The Architect's Newspaper_ , LLC registration form. You also have choices about whether you want to receive this information when you visit and provide information to other sites, including sites accessible through _The Architect's Newspaper_ , LLC.
+We do not use vulnerability scanning and/or scanning to PCI standards.
 
-Links
+We only provide articles and information. We never ask for credit card numbers.
 
-Our site contains links to other sites and information provided by third-party suppliers. These third party suppliers are solely responsible for the accuracy of their data and their sites have separate data collection and privacy policies which you should review before providing information on these other sites. We are not responsible for the privacy practices of these other sites.
+We use regular Malware Scanning.
 
-_The Architect's Newspaper_ , LLC Security Precautions
+We do not use an SSL certificate. 
 
-We use a 24 / 7 monitored security to prevent a breach of security within our internet servers. While no data transmission across the internet can be guaranteed to be 100% secure, we strive to protect your vital information. Your _The Architect's Newspaper_ , LLC membership profile is password protected so that only you have access. It may on occasion be necessary for _The Architect's Newspaper_ , LLC employees or contractors working on behalf of _The Architect's Newspaper_ , LLC to have access to your profile to provide you with support or to perform certain maintenance tasks. This access happens on an as-needed basis only.
+We only provide articles and information. We never ask for personal or private information like names, email addresses, or credit card numbers.
 
-We recommend that you do not divulge your password to anyone. Also remember to sign out of your _The Architect's Newspaper_ , LLC account and close your browser window when you have finished your work. Unfortunately, we cannot ensure or warrant the security of any information you transmit to us or within our online products or services.
+**Do we use ‘cookies’?**
 
-Data storage
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-Company and personal data submitted to _The Architect's Newspaper_ , LLC is processed and stored in the United States where our hosting, services, and corporate offices currently reside. In the future, data may also be processed and stored in other countries when our services are being provided outside the United States.
+**We use cookies to:**
 
-Changes
+  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
 
-If we change our Privacy Statement, we will post the changes here so that you will always know the information we gather and how we use and disclose this information. Ultimately, you are responsible for maintaining the secrecy of your passwords and your profile. Please be careful and responsible whenever you're online.
+
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
+
+If you turn cookies off, some features will be disabled. It won’t affect the user’s experience that make your site experience more efficient and may not function properly.
+
+However, you will still be able to place orders .
+
+**Third-party disclosure**
+
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when its release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property or safety. 
+
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third-party links**
+
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**Google**
+
+Google’s advertising requirements can be summed up by [Google’s Advertising Principles](https://support.google.com/adwordspolicy/answer/1316548?hl=en). They are put in place to provide a positive experience for users. They are available [here](https://support.google.com/adwordspolicy/answer/1316548?hl=en).
+
+We use Google AdSense Advertising on our website.
+
+Google, as a third-party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
+
+**We have implemented the following:**
+
+  *       ****Demographics and Interests Reporting
+
+
+
+We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
+
+**Opting out:**
+
+Users can set preferences for how Google advertises to you using the [Google Ad Settings](https://adssettings.google.com/authenticated) page. Alternatively, you can opt out by visiting the [Network Advertising Initiative Opt Out](http://optout.networkadvertising.org/?c=1#!/) page or by using the Google Analytics Opt Out Browser add on.
+
+**California Online Privacy Protection Act**
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – See more at: <http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf>
+
+**According to CalOPPA, we agree to the following:**
+
+Users can visit our site anonymously.
+
+Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.
+
+Our Privacy Policy link includes the word ‘Privacy’ and can easily be found on the page specified above.
+
+**You will be notified of any Privacy Policy changes:**
+
+  * On our Privacy Policy Page
+
+
+
+**You can change your personal information:**
+
+  * By emailing us at  **info@archpaper.com.**
+
+
+
+**How does our site handle Do Not Track signals?**
+
+We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+
+**Does our site allow third-party behavioral tracking?**
+
+It’s also important to note that we do not allow third-party behavioral tracking.
+
+**COPPA (Children Online Privacy Protection Act)**
+
+When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+
+We do not specifically market to children under the age of 13 years old.
+
+**Fair Information Practices**
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
+
+We will notify you via email
+
+  * Within 7 business days
+
+
+
+We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+
+**CAN SPAM Act**
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+We collect your email address in order to:
+
+  * Send information, respond to inquiries, and/or other requests or questions
+  * Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
+
+
+
+**To be in accordance with CANSPAM, we agree to the following:**
+
+  * Not use false or misleading subjects or email addresses.
+  * Identify the message as an advertisement in some reasonable way.
+  * Include the physical address of our business or site headquarters.
+  * Monitor third-party email marketing services for compliance, if one is used.
+  * Honor opt-out/unsubscribe requests quickly.
+  * Allow users to unsubscribe by using the link at the bottom of each email.
+
+
+
+**If at any time you would like to unsubscribe from receiving future emails, you can email us at info@archpaper.com.**
+
+  * Follow the instructions at the bottom of each email and we will promptly remove you from ALL correspondence.
+
+
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy, you may contact us using the information below.
+
+**AN MEDIA GROUP  
+****21 Murray Street, 5th Fl**  
+**New York, NY 10007**  
+**United States  
+info@archpaper.com**
+
+**Last Edited on 2018-05-20**
