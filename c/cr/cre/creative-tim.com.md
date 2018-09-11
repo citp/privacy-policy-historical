@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creative-tim.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119191928id_/https%3A//www.creative-tim.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creative-tim.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911100243id_/https%3A//www.creative-tim.com/privacy) for the most accurate reproduction.*
 
 # 
 
