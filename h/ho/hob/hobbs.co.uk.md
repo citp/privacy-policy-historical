@@ -1,92 +1,160 @@
-> *The following text is extracted and transformed from the hobbs.co.uk privacy policy that was archived on 2018-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180301040412id_/https%3A//www.hobbs.co.uk/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobbs.co.uk privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911194058id_/https%3A//www.hobbs.co.uk/information/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hobbs
 
-We treat your right to privacy very seriously. Here are some things you should know about how we protect any information you provide when communicating with us, including when you visit our website at http://www.hobbs.co.uk. By communicating with us, including when you access and use our website, you are accepting and agreeing to the information practices described in this Privacy and Cookies Policy, below.
+At Hobbs we take your privacy very seriously and are committed to protecting the privacy and security of our customers. We fully appreciate and respect the importance of data protection and security on the Internet.
 
-As part of our initiative to comply with recent legislation, full information on how we use and store cookies can be found in our [cookies policy](https://web.archive.org/information/cookies-policy), which forms part of this overall privacy policy.
+This Privacy Policy (the “Policy”) outlines how your personal information is treated and forms part of our terms and conditions. This Policy explains:
 
-Who We Are
+Please contact our [_Customer Services team_](https://web.archive.org/information/contact-us) if you would like to discuss this with us or have any questions, comments or suggestions relating to this Policy.
+
+About Us
     
 
-Any information provided to or gathered from [http://www.hobbs.co.uk](http://www.hobbs.co.uk/) (“Website”) in the course of providing services to you is controlled by Hobbs Limited trading as Hobbs (“we, “us”). We are registered in England (Company number: 01577740) and our registered office is: Milton Gate, 60 Chiswell Street, London, EC1Y 4AG, United Kingdom. Our VAT Number is 393 824 029. We are registered with the Information Commissioner in accordance with the Data Protection Act 1998, Data Protection Registration no.Z4850415. Hobbs is a registered trademark of Hobbs Limited.
+This Site is run by Hobbs Limited (“Hobbs”). For the purposes of applicable data protection laws, including the EU General Data Protection Regulation (“GDPR”) (as amended or superseded) Hobbs is the “controller” of the personal information collected through the Site, by phone or in any Hobbs store.
 
-What Information We Collect
+How Do We Collect Information from You?
     
 
-When you place an Order or otherwise interact with the Hobbs Website, we may ask you for certain information and you may submit personal data to us (for example your name, phone number, postal address, email address, contact and bank / credit card details). We may also record which products you are interested in and which products you purchase as well as customer traffic patterns and site use.
+1\. Information we collect when you visit our Site
 
-We collect this information in the following ways: ****
+We will collect personal information that you provide to us when you:
 
-  * **Information you provide us** : when you contact us (including by email, phone, via the Website or otherwise), subscribe for e-mail newsletters and update services, order items from us, participate in market research initiatives or promotional events, complete a questionnaire or competition entry form, submit a job application form or provide a product review.
-  * **Information automatically collected:** whenever you interact with the Website (including when you browse the Website or download information from it) we receive and store certain types of information. Like many websites, we use cookies (see our _[cookie policy](https://web.archive.org/information/cookies-policy)_ for how we use these). Information automatically received includes your IP address (which identifies the computer you use to access the website); the time and date of your visit; your computer, browser, operating system and internet connection details; analysis of your journey through our website; products you searched for. We may also use software tools provided by Google Analytics to measure and collect session information, length of visits to certain pages, repeat visits and page interaction information (such as clicks).
-  * **Email Communications:**  to help us make our email newsletter more useful and interesting for our customers we attempt to receive a confirmation when you open and click on email newsletters from Hobbs (if your email software/service supports this option). If you no longer wish to receive email newsletters, please notify us using the links provided in each newsletter, by emailing [privacy@hobbs.co.uk](mailto:privacy@hobbs.co.uk) or by logging into Your Account and clicking Edit under Newsletter Subscription.
-  *   **Information from other sources:** we may receive information about you from third parties and add this to our account information. For example we may update your address information using information from our delivery carriers, or check your credit history information with credit bureaus and other sources we use to process payments.
+  * create an account on our Site;
+  * place an order through our Site;
+  * fill in forms on our Site, for example to leave feedback, enter a competition or respond to a survey;
+  * subscribe to our mailing list.
 
 
-How We Use This Information
+
+We will also collect certain information automatically when you visit our Site, in particular:
+
+  * when you access our Site, we use “cookies” to make it easier for you to use our Site. These cookies record data about the pages you browse and the activities you carried out during your visit. Further details about our use of cookies is set out in our Cookie Policy _[here](https://web.archive.org/information/cookies-policy); _
+  * we record details of the resources that you access to visit our Site (for example, URL addresses, traffic data etc.);
+  * we record information about the type of device you have used to visit our Site, your device settings, and the cause of any system errors. Your device manufacturer or operating system provider will have further details on what information your device makes available.  
+
+
+
+2\. Information we collect in our stores
+
+We will collect personal information that you provide to us in our stores when you:
+
+  * ask us to provide you with a digital receipt;
+  * subscribe to our mailing list;
+  * enter a competition or respond to a survey.
+
+
+
+3\. Information we collect when you contact us
+
+We will collect personal information about you when you contact us by telephone, e-mail, Live Chat or via social media.
+
+4\. Information we collect if you apply for a job with us
+
+You may be able to apply for a job with us through our Site, in-store or through third party websites such as LinkedIn. The personal information we collect about you may include your name, contact details, employment history, and any information set out in your CV.
+
+How We Use Your Information
     
 
-We will only use your Personal Information for the purpose(s) for which you provide it to us including for example to:
+We will use your information in the following ways:
 
-  * Respond to your enquiries; provide you with updates on our services and details of promotional events.
-  * Process orders and payments and arrange delivery of items.
-  * Communicate with you regarding orders, promotions and market research initiatives.
-  * Update our records and maintain any account information you may have with us.
-  * Prevent or detect fraud or abuses of our Website.
-  * Enable third parties to carry out technical, logistical or other functions on our behalf to make the website more useful to you.
-  * Process job applications.
-  * Enter you into prize draws to win Hobbs products or benefits;
+1\. For the performance of a contract between you and us:
 
+  * to provide you with an account on our Site, if you choose to sign up for one;
+  * to fulfil any order that you place with us;
+  * to collect payment from you;
+  * to provide you with a receipt, if you ask us to send this to you electronically;
+  * to protect and defend our legal rights and interests.
 
 
-By placing an order and/or submitting your details to us you agree to this use.
 
-Data Security
+2\. Where we have a legitimate interest in using your personal information:
+
+  * to administer and monitor our Site, including to ensure that content is presented in the most effective manner for you and for your device, and to allow you to participate in interactive features when you choose to;
+  * to analyse any feedback that you provide on our services, and to improve our services;
+  * to administer competitions that you have entered;
+  * to review and assess any job application that you submit to us.
+
+
+
+3\. Where you have provided your consent to our use of cookies:
+
+  * Further details about our use of cookies is set out in our Cookie Policy _[here](https://web.archive.org/information/cookies-policy). _
+
+
+
+4.If you have consented to receive marketing information from us, we may use your information in the following ways:
+
+  * we will process details of your previous transactions and contact you by e-mail with information about goods and services similar to merchandise you have purchased (however we never store your payment details);
+  * if you have consented to us doing so, we will share your information internally within the TFG Brands (London) group in order to send you tailored offers or other information we believe will be of interest;
+  * if you provide your mobile telephone number in our preferences centre and if you have consented for us to do so, we may contact you with marketing messages which have been tailored to match your preferences.
+
+
+
+You have the option _to unsubscribe_ from our e-mails through a link at the bottom of every e-mail we send to you. You have the option to unsubscribe from our text messages by following the instructions in the text message or contacting the Customer Services team.
+
+If you want to change the details that you have registered with us, or would like to amend your subscription preferences or unsubscribe altogether, this can be changed in the “My Account” section of our Site or by contacting our Customer Services team.
+
+How We Share Your Information
     
 
-We employ security measures to prevent unauthorized access to Personal Information we collect from you. We use SSL encryption on our checkout pages to ensure that your credit card details and personal information remains safe.
+  * We share your information with our core service providers and third party platforms as required for our business to function; for example, picking, packaging and processing orders, fulfilling deliveries, customer support, fraud detection, credit risk reduction checks, IT systems support, and internal audits.
+  * If you choose to provide feedback on your transaction, we will share your information with Bazaarvoice, a third party feedback site who will capture your feedback on transactions which we use to enhance our customer service.
+  * Your information may be processed by a third party in order to maintain the functionality of our Site and database.
+  * In the event that you add items to your basket but do not complete a transaction, Salescycle or Redeye will automatically send you an e-mail to remind you that there are items in your basket.
+  * Whilst you are a member of our mailing list we may share your information with trusted non-core service providers, such as marketing partners we have carefully selected to deliver incentives to participate in offers, polls, surveys, analysis or research, all of which assist us in enhancing our services. They are not permitted to use your information after you unsubscribe.
+  * If you make an enquiry to the customer services team via email, phone or Livechat, the details of your enquiry will be securely stored against your customer record in the Zendesk helpdesk system. This allows us to accurately respond to your query in a timely manner, and keep a record of responses that have been given.
 
-All personal customer information is stored within a robust secure environment and without exception, our practice is that no data is ever provided to third parties unless acting on behalf of Hobbs as outlined below.
 
-  
-Please note that email correspondence with us is in free format text and cannot be encrypted.  Accordingly please do not send any sensitive information such as credit card details or passwords via email.
-Who Else May See Your Data
+
+We also use services offered by Google, Facebook, Instagram and other similar social media platforms to better tailor our marketing communications and for targeted advertising. As part of this process, some personal information, such as your e-mail address, is provided to the relevant third party, however for security purposes this data is “hashed” prior to being shared. Hashing is a process of identity masking or “pseudonymisation” which means we do not disclose your e-mail but still enables linking between your social media presence and our Site. Your personal information will be transmitted to countries outside of the EEA, including the United States. If you would like more information about how your personal information may be transmitted, and the safeguards applied, please contact [privacy@hobbs.co.uk](mailto:privacy@hobbs.co.uk).  You may have the right to object to your personal information being used in this way (see “Rights you may have” below). 
+
+We receive insights from Facebook about the effectiveness of our advertising campaigns which you experience on our Site and social channels, helps to better target our advertising.
+
+Every external company we work with has a contract with us which clearly sets out our expectations and requirements in handling personal information and obligates them to meet these standards and those contained in the GDPR.
+
+How Long We Keep Your Information
     
 
-We only share your Personal Information with companies forming part of the Hobbs group and our appointed carriers, sub-contractors and distributors. We only share your Personal Information with other parties as described below.  We ensure the parties with whom we share your Personal Information follow practices at least as protective as those described in this Privacy Policy.
+We retain the information you provide for the following periods:
 
-Agents: from time to time we employ other companies to perform functions on our behalf including fulfilling order deliveries, sending customer communications, analysing data, providing marketing assistance, processing payments and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
+  * for as long as you subscribe to receive marketing information;
+  * for as long as your account is being used and for a period of three years after the date you cease to use your account, after which period we will anonymise the personal information on file by deleting the personal information and allocating a personally unidentifiable unique reference ID and store the remaining information for a period of five years (“ **Data Retention Period** ”).  After this time it will be permanently deleted from all systems and back-ups. If you wish to set up an account after this period this will be treated as a new account and your transaction history will not be available;
+  * in the case of any contact you may have with our Customer Care team for as long as is necessary to provide support-related reports and trend analysis.
 
-Business transfers: in any corporate transactions (e.g. buying or selling of businesses, stores or business units) Personal Information is generally one of the transferred assets.
 
-Fraud / Credit Risk: where necessary to prevent fraud or reduce credit risk we may exchange your Personal Information with other companies and organisations.
 
-With your consent: other than as set out above, you will receive notice when information about you might go to third parties and you will have an opportunity to choose not to share your information.
+Our Data Retention Period has been determined to cover credit risk, fraud detection and customer service periods, as well as to cover regulatory requirements, and the resolution of disputes or fraud prevention.
 
-If we have to transfer your Personal Information to countries outside the European Union (the data protection laws of which may differ from those applying in the European Union) we will ensure it is treated with the same levels of protection as apply in the European Union. By supplying us with your Personal Information you expressly agree to us transferring your Personal Information in this way.
-
-Marketing Communications From Hobbs
+How We Store Your Information
     
 
-If you have consented during our order process, or by providing your details on our web sign-up page or in one of our stores, we may send you updates and information by email, post or SMS and your data may be used for profiling. These communications may include joint promotions with our business partners, but we will not share your information with them. If you no longer want to receive such offers, please send us a message at [privacy@hobbs.co.uk](mailto:privacy@hobbs.co.uk)
+Your information may be processed by our staff or by the staff of our suppliers to the extent necessary to fulfil your order. By submitting your personal information to us, you agree to the transfer of your personal information, its storage and processing.
 
-Collection of Information by Third Party Websites
+We will keep the data which we collect from you on a secure server. Any information you give us relating to credit card details is handled by a PCI DSS compliant third party and encrypted using secure server technology. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access and require our suppliers to do the same.
+
+Where we have given you a password (or where you have chosen one) to access certain parts of this Site, you are responsible for keeping this password confidential. We ask that you do not share a password with anyone.
+
+Sensitive Personal Information
     
 
-Our Website may contain links to other websites whose information practices may be different to ours. You should check the privacy notices of those third party sites as we have no control over information that is submitted to or collected by those third party sites
+We do not seek to collect sensitive personal information (i.e. information relating to race or ethnic origin, political opinions, religious or other beliefs, trade union membership, physical or mental health, sexual orientation or criminal records). We ask that you do not provide such information to us.
 
-Cookies
+Rights You May Have
     
 
-A full explanation of what cookies are and how we use them can be found in our [Cookies Policy](https://web.archive.org/information/cookies-policy). This forms part of this Privacy Policy but is on a separate page to make it easier to read.
+You may have certain rights in relation to personal information that we hold about you. These include the right to request access to your personal information, to request that it is erased, that its processing is restricted, or that any inaccurate personal information is rectified. You may also have the right to object to the processing of your personal information, or in some circumstances to obtain a copy of the personal information in a machine readable format. You also have the right to complain about the use of your personal information to the Information Commissioner’s Office.
 
-Revisions to this Privacy Policy
+Please contact our privacy officer at [privacy@hobbs.co.uk](mailto:privacy@hobbs.co.uk) if you would like to make a request.
+
+Changes to this Policy
     
 
- We reserve the right to update or revise all or any part of this Privacy Policy from time to time.  A copy of the current Privacy Policy will be posted on our Website and we encourage you to check it periodically.  The version of the Privacy Policy which is current at the time you supply Personal Information to us applies to our treatment of your Personal Information.
+We may change this Policy from time to time. If we make changes, we will notify you by revising the date at the top of this Policy, and if the changes are significant, we may provide you with additional notice such as adding a statement to the homepage of the Site or sending you an e-mail with the update.
 
-How to Contact Us
+Please check this Policy regularly to stay informed about our information practices and the ways you can help protect your privacy.
+
+Contact Us
     
 
- If you have any questions about this Privacy Policy or how we use your Personal Information, or if at any time you decide that you no longer wish us to hold or use any of your Personal Information or wish to change the use to which your Personal Information can be put, please let us know by emailing us at [privacy@hobbs.co.uk](mailto:privacy@hobbs.co.uk)
+If you have any questions about the Policy and practices of this Site you can contact us at [privacy@hobbs.co.uk](mailto:privacy@hobbs.co.uk).
