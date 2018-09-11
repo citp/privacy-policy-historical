@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobsjunctiononline.com privacy policy that was archived on 2018-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180429093430id_/http%3A//jobssjunction.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsjunctiononline.com privacy policy that was archived on 2018-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180912001755id_/http%3A//www.jobsjunctiononline.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy ~ Jobs Junction
+# Privacy Policy - Jobs junction
 
 We are committed to user information confidentiality. Should you require any information pertaining to our privacy policy, please contact us.  
   
