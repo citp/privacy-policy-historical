@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airmiles.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170136id_/https%3A//www.airmiles.ca/arrow/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airmiles.ca privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911190858id_/https%3A//www.airmiles.ca/arrow/PrivacyPolicy) for the most accurate reproduction.*
 
 # AIR MILES - Home
 
@@ -6,37 +6,37 @@
 
 #### THE AIR MILES® Privacy Pledge
 
-Protecting the privacy and confidentiality of your Personal Information has always been a fundamental principle in our relationship with you, our Sponsors and Suppliers. This Privacy Pledge tells you how we will ensure the confidentiality and privacy of the information that you entrust us with.
+Protecting the privacy and confidentiality of your Personal Information has always been a fundamental principle in our relationship with you, our Partners and Suppliers. This Privacy Pledge tells you how we will ensure the confidentiality and privacy of the information that you entrust us with.
 
   1. The AIR MILES Reward Program collects Personal Information for the following purposes: 
-    1. To administer the AIR MILES Reward Program and Affiliated Businesses, including the management of Collector Accounts to accurately record and update reward mile balances
+    1. To administer the AIR MILES Reward Program and Affiliated Businesses, including the management of Collector Accounts to accurately record and update Reward Mile balances;
     2. To market, manage, and process Collector redemptions, including the issuance of reward tickets, vouchers, products and services;
-    3. To invoice Collector, Sponsor and Supplier accounts as appropriate;
-    4. To communicate information and offers to Collectors, Sponsors and Suppliers;
+    3. To invoice Collector, Partner and Supplier accounts as appropriate;
+    4. To communicate information and offers to Collectors, Partner and Suppliers;
     5. To understand and analyze Collectors' responses, needs and preferences;
     6. To develop, enhance, market and/or provide products and services to meet those needs; and
     7. To enable Collectors to participate in marketing promotions and contests.
 
-From time to time, you may be asked to provide additional Personal Information. If you choose not to provide this information, it will not affect your ability to collect or redeem AIR MILES reward miles.
+From time to time, you may be asked to provide additional Personal Information. If you choose not to provide this information, it will not affect your ability to collect or use AIR MILES Reward Miles.
 
 
 
 
-  2. The AIR MILES Reward Program will use this information from time to time **to promote additional products, services, rewards and special offers** from the AIR MILES® Reward Program and/or its Sponsors and Suppliers.
+  2. The AIR MILES Reward Program will use this information from time to time **to promote additional products, services, rewards and special offers** from the AIR MILES® Reward Program and/or its Partners and Suppliers.
 
 
 
-  3. **Collector information is processed and stored in secure, dedicated and confidential databases** in Toronto, Ontario and Dallas, Texas.
+  3. **Collector information is processed and stored in secure, dedicated and confidential database** in Ontario and New Jersey.
 
 
 
-  4. **The AIR MILES® Reward Program does not give, rent or sell Collector lists** to any organization or individual other than its Affiliated Businesses, Sponsors, Suppliers and companies contracted to process and manage Collector transactions, redemption requests, research, analysis and communications and in all cases, only to fulfill the specified purposes.  
-In addition, a Collector's specific transaction information from one AIR MILES Sponsor is not disclosed to another AIR MILES Sponsor.
+  4. **The AIR MILES® Reward Program does not give, rent or sell Collector lists** to any organization or individual other than its Affiliated Businesses, Partners, Suppliers and companies contracted to process and manage Collector transactions, redemption requests, research, analysis and communications and in all cases, only to fulfill the specified purposes.  
+In addition, a Collector's specific transaction information from one AIR MILES Partner is not disclosed to another AIR MILES Partner. 
 
 
 
-  5. **The AIR MILES ® Reward Program respects the privacy of Collectors when promoting products and services.**  
-AIR MILES Collectors can opt out of receiving marketing and promotional communications in electronic, printed or verbal format, other than Collector Summaries, by writing to us at: 
+  5. **The AIR MILES® Reward Program respects the privacy of Collectors when promoting products and services.**  
+AIR MILES Collectors can opt out of receiving marketing and promotional communications in electronic, printed or verbal format, other than Collector Summaries, by writing to us at:
 
 > AIR MILES Customer Care  
 > P.O. Box 602, Station A  
@@ -46,7 +46,7 @@ AIR MILES Collectors can opt out of receiving marketing and promotional communic
 > by email to [privacyoffice@airmiles.ca](mailto:privacyoffice@airmiles.ca),  
 > or by calling us at 1-888-AIRMILES (1-888-247-6453, in Toronto call 416-226-5171).
 
-The decision to opt out of additional communications does not affect the Collector's ability to collect or redeem reward miles in the AIR MILES Reward Program
+The decision to opt out of additional communications does not affect the Collector's ability to collect or use Reward Miles in the AIR MILES Reward Program.
 
 
 
@@ -57,19 +57,19 @@ A "session cookie", which resides in memory and persists only as long as the bro
 
 The Website will also set a cookie to remember your preferences to enhance your experience each time you visit the Website.
 
-The Website also allows third party partners to use cookies or other technologies to collect anonymous information about browsing behavior on our website to personalize advertising content for the AIR MILES Reward Program and/or its Sponsors and Suppliers that appears:
+The Website and the mobile app also allows third party partners to use cookies or other technologies to collect or receive anonymous information about browsing behavior on our website to personalize advertising content for the AIR MILES Reward Program and/or its Partners and Suppliers that appears:
 
-  * On our website, and
+  * On our website and mobile app, and
   * On other sites across the Internet,
   * And for statistical purposes.
 
 
 
-You have several options for managing your cookie settings:
+You have several options for managing your cookie settings on the Website:
 
-  * If you would like to disable "third party" cookies generated by advertisers, you can do so by visiting the third party's website and following their instructions to "opt out" of their targeted advertising. 
+  * If you would like to disable "third party" cookies generated by advertisers, you can do so by visiting the third party's website and following their instructions to "opt out" of their targeted advertising.
   * You can block all cookies using your browser's controls. Please note that this will limit your experience on some websites, including airmiles.ca.
-  * Or you can delete your cookies using your browser's controls after browsing the Website. 
+  * Or you can delete your cookies using your browser's controls after browsing the Website.
 
 
 
