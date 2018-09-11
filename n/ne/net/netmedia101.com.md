@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netmedia101.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621060454id_/http%3A//netmedia101.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netmedia101.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911162352id_/http%3A//netmedia101.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NetMedia101
 
