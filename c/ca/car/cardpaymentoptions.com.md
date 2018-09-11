@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardpaymentoptions.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213013107id_/https%3A//www.cardpaymentoptions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardpaymentoptions.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911032500id_/https%3A//www.cardpaymentoptions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,13 +6,13 @@
 
 ### We Hate Spam Too!
 
-Below is our Privacy Policy which covers how we may collect data from you when visiting our website and the circumstances under which such data will be shared. However, we want to be very clear about something: We hate spam as much as anyone and will never share your information without your consent or purposely make it available to lowlifes who want to spam you. Period.
+Below is our Privacy Policy which covers how we may collect data from you when visiting our website and the circumstances under which such data will be shared. However, we want to be very clear about something: We hate spam as much as anyone and will never share your information without your consent or purposely make it available to people who want to spam you. Period.
 
 ### How Your Information May Be Collected
 
 **Direct Collection**
 
-We only collect identifiable information from you when you directly supply it to us through the use of an online form, by leaving a comment on an article, sending us an email, or using another contact method.
+We only collect identifiable information from you when you directly supply it to us through the use of an online form, by leaving a comment on an article, sending us an email, calling us, or using another contact method.
 
 **Cookies**
 
@@ -20,7 +20,7 @@ Cookies may be installed on your system when visiting our website which are used
 
 ### Information Never Shared
 
-We never share data with other parties that you do not consent to have shared.
+We never share data with outside unaffiliated parties that you do not consent to have shared. We may, however, share your information with partners or affiliates who facilitate a CPO service. This allows for a seamless experience on the CPO website. All affiliates and partners who receive information from CPO are bound to confidentiality agreements and are not permitted to market to you without your consent or share your information with any other parties.
 
 ### Information That May Be Shared
 
