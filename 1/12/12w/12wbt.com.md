@@ -1,20 +1,16 @@
-> *The following text is extracted and transformed from the 12wbt.com privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313072000id_/https%3A//www.12wbt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 12wbt.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911160642id_/https%3A//www.12wbt.com/privacy) for the most accurate reproduction.*
 
 # Privacy - 12wbt.com
 
 ## 1\. MICHELLE BRIDGES 12 WEEK BODY TRANSFORMATION WEBSITE PRIVACY POLICY
 
-[ ](https://privacy.truste.com/privacy-seal/12WBT-Pty-/validation?rid=e6725e0d-e30a-4f70-a7ca-5442dcacbf16 "TRUSTe online privacy certification")
-
 **Effective Date: 17/10/2014**
 
 Protecting your privacy: 12WBT Trading Pty Ltd ABN 31 154 009 622 or Level 5, 14 Foster Street Surry Hills NSW 2010 ( **"us, we, our"** or **"12WBT"** ) are committed to protecting the information about you that we collect, store and use when you provide it to us at our web and mobile sites: [www.12wbt.com](http://www.12wbt.com/) and mobile application: 12WBT Daily (Website). We manage your information in accordance with the Australian Privacy Principles set out in the Privacy Act 1988 (Cth). This document describes how we manage any personal information we have collected about you from the Website. 
 
-By accessing the Website you accept the terms and conditions of its use, and consent to the collection, use and disclosure of your personal information in accordance with this privacy policy and the terms and conditions of use of the Website.
+By accessing the Website you accept the terms and conditions of its use, and consent to the collection, use and disclosure of your personal information in accordance with this privacy policy and the terms and conditions of use of the Website. 
 
-12WBT has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/program-requirements) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this web and mobile site: [www.12wbt.com](http://www.12wbt.com/) and our mobile application: 12WBT Daily. 
-
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, or believe that your privacy has been breached, please contact us at [support@12wbtsupport.com](mailto:support@12wbtsupport.com) and provide details of the incident so that we can investigate it. We request that all complaints be made in writing, so that we can be sure about the details of the complaint. We will treat your complaint confidentially, investigate your complaint and aim to ensure that we contact you and your complaint is resolved within a reasonable time (and in any event within the time required by the Privacy Act, if applicable). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). 
+If you have questions or complaints regarding our privacy policy or practices, or believe that your privacy has been breached, please contact us at [support@12wbtsupport.com](mailto:support@12wbtsupport.com) and provide details of the incident so that we can investigate it. We request that all complaints be made in writing, so that we can be sure about the details of the complaint. We will treat your complaint confidentially, investigate your complaint and aim to ensure that we contact you and your complaint is resolved within a reasonable time (and in any event within the time required by the Privacy Act, if applicable). 
 
 ## 2\. COLLECTION & USE OF PERSONAL INFORMATION
 
@@ -135,7 +131,7 @@ Third Parties, with whom we partner to provide certain features on our site or t
 
 ### 3.2 Advertisements
 
-We partner with a third party ad network to either display advertising on our Website or to manage our advertising on other sites. Our ad network partner may use cookies and Web beacons to collect non-personally identifiable information about your activities on the Website and other websites that you may visit to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted advertisements, you may opt-out by [clicking here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+We partner with a third party ad network to either display advertising on our Website or to manage our advertising on other sites. Our ad network partner may use cookies and Web beacons to collect non-personally identifiable information about your activities on the Website and other websites that you may visit to provide you targeted advertising based upon your interests.
 
 ### 3.3 Social Media Features
 
