@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the hours-locations.com privacy policy that was archived on 2017-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170421093802id_/https%3A//www.hours-locations.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hours-locations.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911032347id_/https%3A//www.hours-locations.com/privacy-policy) for the most accurate reproduction.*
 
 # Local Business & Store Locations & Hours of Operation
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@hours-locations.com.
+  
+We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/hours-locations.com).  
+
+
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://www.hours-locations.com/cdn-cgi/l/email-protection)
 
 At www.hours-locations.com, the privacy of our visitors is of extremely importance to us. This privacy policy document outlines the types of personal information is received and collected by www.hours-locations.com and how it is used.
 
