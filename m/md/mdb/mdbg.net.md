@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mdbg.net privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523180007id_/https%3A//www.mdbg.net/chinese/dictionary%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdbg.net privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911213218id_/https%3A//www.mdbg.net/chinese/dictionary%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# MDBG English to Chinese dictionary
+# MDBG Chinese Dictionary
 
 隐私
 
@@ -26,6 +26,10 @@ We publish Google Adsense interest-based advertisements on our website. These ar
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
 
+###  More information about cookies and disabling cookies 
+
+You can find more information about cookies and how to disable cookies on the following website: [Cookies & You](https://cookiesandyou.com/). 
+
 [](http://www.facebook.com/pages/MDBG/56716356738)
 
-Tip: Pinyin can be entered with or without tone numbers, e.g. 'nihao' or 'ni3hao3'.
+Tip: In the character dictionary, entering multiple pinyin syllables will result in multiple searches on one result page.
