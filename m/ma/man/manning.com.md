@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manning.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119083402id_/https%3A//www.manning.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manning.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911120142id_/https%3A//www.manning.com/privacy) for the most accurate reproduction.*
 
 # Manning | Privacy
 
@@ -30,7 +30,7 @@ Additionally, Manning's shopping cart currently requires the use of third party 
 
 This policy was put in effect on September 21, 2005.
 
-If we revise our Privacy Policy, we will post any changes on [manning.com](https://web.archive.org/admin). Should we wish to use personally identifiable information for a different purpose than was stated at the time it was collected, we will send users notice via email and give them the choice of opting-out of any new use of their personal information.
+If we revise our Privacy Policy, we will post any changes on [manning.com](https://web.archive.org/catalog). Should we wish to use personally identifiable information for a different purpose than was stated at the time it was collected, we will send users notice via email and give them the choice of opting-out of any new use of their personal information.
 
 ## How to update, correct, or delete your information
 
