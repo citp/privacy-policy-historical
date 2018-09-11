@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oyster.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904053427id_/https%3A//www.oyster.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oyster.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911192759id_/https%3A//www.oyster.com/about/privacy) for the most accurate reproduction.*
 
 # Oyster Privacy Policy | Oyster.com Hotel Reviews and Photos | Oyster.com
 
@@ -14,13 +14,15 @@ This privacy statement describes how Oyster.com (operated by Smarter Travel Medi
 
 A cookie is a small piece of data that a web server places on a user's computer. Oyster employs the use of cookies and web beacons to ensure that you do not see the same ad repeatedly, to track marketing promotions, to estimate and report audience size and traffic, and to customize and personalize your experience at Oyster.com.
 
+This Site participates in exchanges of anonymous information about user browsing behavior on the Site. This non-personally identifiable information is collected by cookies and other similar technologies and segmented into different anonymized groups. We may share these types of anonymous information with third parties to facilitate the display of targeted advertisements. Please click [here](http://optout.networkadvertising.org/#!/) or [here](http://optout.aboutads.info/#!/) to learn more about these types of exchanges, including how to access information about the topics of interest associated with cookies and your options with regard to participation in these programs (including opting-out).
+
 Furthermore, Oyster may, from time to time, use outside media companies to display advertisements on our site. These ads may contain cookies and web beacons, which are collected and tracked by the outside media company. Oyster has no access to or control over these cookies.
 
 Most web browsers provide users the ability to limit the use of cookies and web beacons by allowing users to adjust privacy settings. If a user has their cookies disabled, Oyster will still be accessible, but some sections of the Web site will not perform as well as they normally would with cookies enabled.
 
  _Links to Other Web Sites_
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of STM. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+Our Site includes links to other Web sites whose privacy practices may differ from those of STM. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.  
 
 ### Security
 
