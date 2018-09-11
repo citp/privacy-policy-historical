@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the safetyrisk.net privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103215418id_/http%3A//www.safetyrisk.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safetyrisk.net privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911185517id_/https%3A//safetyrisk.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SafetyRisk.net — SafetyRisk.net
+# Privacy Policy • SafetyRisk.net
+
+You are here: [Home](https://safetyrisk.net/) / Privacy Policy
 
 ## Our Privacy Policy
 
