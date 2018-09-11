@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the izarc.org privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103195311id_/http%3A//www.izarc.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the izarc.org privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911140515id_/https%3A//www.izarc.org/privacy-policy) for the most accurate reproduction.*
 
 # IZArc | Privacy Policy
 
