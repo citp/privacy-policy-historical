@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blueoceanstrategy.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129021423id_/https%3A//www.blueoceanstrategy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueoceanstrategy.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911051129id_/https%3A//www.blueoceanstrategy.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Blue Ocean Strategy
 
@@ -17,6 +17,12 @@ In addition to any information you may affirmatively provide to BOS through on-l
 • Referring web page  
 • Date, time & duration of visit
 
+As part of the registration process for our e-newsletter, we collect personal information. We use that information to send you the newsletters and information you’ve signed up for; to contact you if we need to obtain or provide additional information; to check our records are correct and to check if you’re satisfied and get your feedback. We don’t rent or trade email lists with other organisations and businesses.
+
+We use a third-party provider, MailChimp, to deliver our newsletter. We gather statistics around email opening and clicks using industry standard technologies to help us monitor and improve our e-newsletter. For more information, please see [MailChimp’s privacy notice](https://mailchimp.com/legal/privacy/). You can unsubscribe to general mailings at any time by clicking the unsubscribe link at the bottom of any of our emails.
+
+Under the General Data Protection Regulation (the “GDPR”), you have the right to access and amend any of your personal data that we hold. Simply email your request to **news(at)blueoceanstrategy(dot)com**. 
+
 **Links**
 
 Links to Other Websites and Search Results: The Website may contain links to websites operated by other parties. BOS provides these links to other websites as a convenience, and your use of these sites is at your own risk. The linked sites are not under the control of BOS and BOS is not responsible for the content available on these third party sites. Such links do not imply endorsement of information or material on any other site and the BOS disclaims all liability with regard to your access to, use of or transactions with such linked websites. You acknowledge and agree that BOS shall not be responsible or liable, directly or indirectly, for any damage, loss or other claim caused or alleged to be caused by or in connection with, access to, use of or reliance on any content available on or through any other site or resource.
@@ -25,7 +31,7 @@ Links to the Website: You may link another website to the Website subject to the
 
 The foregoing policies are subject to change. We encourage you to check back for updates from time to time. If you have additional questions about this privacy statement, we invite you to contact:
 
-admin@blueoceanstrategy.com
+**admin(at)blueoceanstrategy(dot)com**
 
-Last Updated: April 2016  
+Last Updated: May 2018  
 Effective Date: October 1st 2012
