@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the argentinatriplex.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217051423id_/http%3A//www.argentinatriplex.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the argentinatriplex.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911073314id_/http%3A//www.argentinatriplex.com/privacy.html) for the most accurate reproduction.*
 
 # ..:: ATX Network ::..
 
