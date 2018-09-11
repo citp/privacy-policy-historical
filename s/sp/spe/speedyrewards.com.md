@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedyrewards.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613214742id_/https%3A//www.speedway.com/About/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedyrewards.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911042554id_/https%3A//www.speedway.com/About/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Statement - Speedway
 
@@ -65,7 +65,7 @@ If you wish to change anything about your Member account information, there are 
   * Write to us at **Speedy Rewards** , P.O. Box 1500, Springfield, OH 45503
   * Register on our website www.SpeedyRewards.com to administer your own account
   * Register on the Speedy Rewards Terminal at any of our convenient locations
-  * Call us toll-free at our Service Center at 1-800-643-1948 between the hours of 8:30 AM and 5:30 PM Eastern Time, Monday - Friday
+  * Call us toll-free at our Service Center at 1-800-643-1948 between the hours of 7:00 AM and 8:00 PM Eastern Time, Monday - Friday and Saturday 8:00 AM - 12:00 PM Eastern Time
 
 
 
@@ -105,7 +105,7 @@ Members who wish to change their privacy boundaries may do so by:
   * Write to us at: **Speedy Rewards** , P.O. Box 1500, Springfield, OH 45503
   * Update your profile on our website at: [www.SpeedyRewards.com](https://web.archive.org/)
   * Update your profile on the **Speedy Rewards** Terminal at any of our convenient locations
-  * Call us toll-free at our Service Center at 1-800-643-1948 between the hours of 8:30 AM and 5:30 PM Eastern Time, Monday - Friday.
+  * Call us toll-free at our Service Center at 1-800-643-1948 between the hours of 7:00 AM and 8:00 PM Eastern Time, Monday - Friday and Saturday 8:00 AM - 12:00 PM Eastern Time.
 
 
 
