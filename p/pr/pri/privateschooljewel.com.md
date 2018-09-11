@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privateschooljewel.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513020629id_/http%3A//www.privateschooljewel.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privateschooljewel.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911165945id_/http%3A//privateschooljewel.com/privacy.html) for the most accurate reproduction.*
 
 # Private School Jewel
 
