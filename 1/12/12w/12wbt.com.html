@@ -1,10 +1,8 @@
-<!--The following is the downloaded HTML source of the 12wbt.com privacy policy that was archived on 2017-03-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170313072000id_/https%3A//www.12wbt.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 12wbt.com privacy policy that was archived on 2018-09-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180911160642id_/https%3A//www.12wbt.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html class=" async-hide"><head>
   
-<script src="https://js-agent.newrelic.com/nr-1016.min.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-CMJ5"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"b7898c665b","applicationID":"3940269","transactionName":"e10NTRANWAoHR0kJWltdDlYWC0IDTUUTB1lRUUxJAwVRFU1GDgpC","queueTime":0,"applicationTime":24,"ttGuid":"","agentToken":null,"agent":""}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAAGU19ACwoEVFNUDg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(14)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(14)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(14)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",c)}function i(t){y.push(t),h&&(w=-w,b.data=w)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(14)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var g=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,g),g.prototype=p.prototype,d.inPlace(g.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var w=1,b=document.createTextNode(w);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[g[n]];return f&&f.push([w,n,r,i]),i}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",g[n]=e,e in u||(u[e]=[])})}var y={},g={},w={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return w}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=w.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(y,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(12),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(9);var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1016.min.js"},g=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),w=e.exports={offset:a(),origin:v,features:{},xhrWrappable:g};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,7]);</script>
 
   
 
@@ -69,24 +67,8 @@
   <link rel="apple-touch-icon-precomposed" href="/sites/53927e37f20e991c08000011/theme/images/favicons/apple-touch-icon-72x72-precomposed.png" sizes="72x72">
   <link rel="apple-touch-icon-precomposed" href="/sites/53927e37f20e991c08000011/theme/images/favicons/apple-touch-icon-precomposed.png">
 
-  <link href="/sites/53927e37f20e991c08000011/theme/stylesheets/application.02f56051.css" media="screen" rel="stylesheet" type="text/css">
+  <link href="/sites/53927e37f20e991c08000011/theme/stylesheets/application.2b8358f1.css" media="screen" rel="stylesheet" type="text/css">
 
-  
-
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.js" type="text/javascript"></script>
-
-  
-    <script src="//cdn.optimizely.com/js/11976653.js" type="text/javascript"></script>
-  
-
-  <script src="/sites/53927e37f20e991c08000011/theme/javascripts/vendor.1f4d9e3d.js" type="text/javascript"></script>
-
-  <script src="/sites/53927e37f20e991c08000011/theme/javascripts/application.f4391e72.js" type="text/javascript"></script>
-
-  <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <script src="/sites/53927e37f20e991c08000011/theme/javascripts/ie8.js" type="text/javascript" ></script>
-  <![endif]-->
 
 
 
@@ -108,65 +90,69 @@
 
       <ul class="nav navbar-nav" id="navbar-nav">
         <li class="home visible-md visible-lg">
-          <a href="/"><span class="logo-12wbt-white"></span></a>
+          <a href="/" class="navbar-link">
+            <span class="logo-12wbt-white"><span class="sr-only">12WBT Logo Blue</span>
+            </span>
+          </a>
+
         </li>
 
         <li>
-          <a href="/how-it-works"><i class="icon-12wbt-question"></i><span>How it Works</span></a>
+          <a href="/how-it-works" class="navbar-link"><span>How it Works</span></a>
         </li>
 
         <li>
-          <a href="/12wbt-programs"><i class="icon-12wbt-wbt"></i><span>Programs</span></a>
+          <a href="/12wbt-programs" class="navbar-link"><span>Programs</span></a>
         </li>
 
         <li>
-          <a href="/nutrition"><i class="icon-12wbt-food"></i><span>Nutrition</span></a>
+          <a href="/nutrition" class="navbar-link"><span>Nutrition</span></a>
         </li>
 
         <li>
-          <a href="/fitness"><i class="icon-12wbt-fitness"></i><span>Fitness</span></a>
+          <a href="/fitness" class="navbar-link"><span>Fitness</span></a>
         </li>
 
         <li>
-          <a href="/mindset"><i class="icon-12wbt-mindset"></i><span>Mindset</span></a>
+          <a href="/mindset" class="navbar-link"><span>Mindset</span></a>
         </li>
 
         <li class="dropdown  hidden-sm hidden-xs community">
-          <a href="/community"><span>Community<i class="fa fa-chevron-down"></i></span></a>
+          <a href="/community" class="navbar-link"><span>Community<i class="fa fa-chevron-down"></i></span></a>
           <ul>
             <li>
-              <a href="/blog"><span>Blog</span></a>
+              <a href="/blog" class="navbar-link"><span>Blog</span></a>
             </li>
             <li>
-              <a href="/success-stories"><span>Success Stories</span></a>
+              <a href="/success-stories" class="navbar-link"><span>Success Stories</span></a>
             </li>
             <li>
-              <a href="/crews"><span>Crews</span></a>
+              <a href="/crews" class="navbar-link"><span>Crews</span></a>
             </li>
             <li class="double-level">
-              <a href="/community/group-membership"><span class="meta">Corporate Groups</span></a>
+              <a href="/community/group-membership" class="navbar-link"><span class="meta">Corporate Groups</span></a>
             </li>
           </ul>
         </li>
 
         <li class="visible-sm visible-xs  ">
-          <a href="/community"><i class="icon-12wbt-forums"></i><span>Community</span></a>
+          <a href="/community" class="navbar-link"><span>Community</span></a>
         </li>
 
         <li class="visible-sm visible-xs">
-          <a href="/blog"><i class="icon-12wbt-blog"></i><span>Blog</span></a>
+          <a href="/blog" class="navbar-link"><span>Blog</span></a>
         </li>
 
         <li class="visible-sm visible-xs  ">
-          <a href="/success-stories"><i class="icon-12wbt-testimonials"></i><span>Success Stories</span></a>
+          <a href="/success-stories" class="navbar-link"><span>Success Stories</span></a>
         </li>
 
         <li class="visible-sm visible-xs ">
-          <a href="/crews"><i class="icon-12wbt-members"></i><span>Crews</span></a>
+          <a href="/crews" class="navbar-link"><span>Crews</span></a>
         </li>
 
         <li class="help">
-          <a href="/faqs"><i class="icon-12wbt-help"></i><span>FAQs</span></a>
+          <a href="/faqs" class="navbar-link"><span>FAQs</span></a>
         </li>
       </ul>
     </div>
@@ -183,17 +169,19 @@
       </button>
 
       <div id="home-button" class="btn-home visible-xs visible-sm">
-         <a href="/"><span class="logo-12wbt-white"></span></a>
+         <a href="/" class="navbar-link">
+          <span class="logo-12wbt-white"></span><span class="sr-only">12WBT Logo White</span>
+          </a>
       </div>
 
       <ul id="login-buttons" class="login-nav">
         <li class="login-button">
-          <a href="https://go.12wbt.com/login" rel="nofollow">
+          <a href="https://go.12wbt.com/login" rel="nofollow" class="">
             <span>Login</span>
           </a>
         </li>
         <li id="sign-up-nav" class="dropdown">
-          <a href="https://go.12wbt.com/sign-up" class="join-now">Join Now<i></i></a>
+          <a href="https://go.12wbt.com/sign-up?billing_option=single-payment" class="join-now">Join Now<i></i></a>
           <div class="highlight-box signup-options">
             <div class="highlight-box-container">
               <div class="row">
@@ -202,7 +190,7 @@
                     <strong>1 payment of</strong>
                     <em>$199</em>
                     <span>BEST VALUE</span>
-                    <a href="https://go.12wbt.com/sign-up/single-payment" class="btn btn-md btn-green-gradient">Join Now!</a>
+                    <a href="https://go.12wbt.com/sign-up?billing_option=single-payment" class="btn btn-md btn-green-gradient">Join Now!</a>
                   </p>
                   <div class="or">
                     <small>Or</small>
@@ -214,7 +202,7 @@
                     <em>$19.99 a week</em>
                     <span>$239.88 TOTAL</span>
                   </p>
-                  <a href="https://go.12wbt.com/sign-up/recurring-payment" class="btn btn-md btn-green-gradient">Join Now!</a>
+                  <a href="https://go.12wbt.com/sign-up?billing_option=recurring-payment" class="btn btn-md btn-green-gradient">Join Now!</a>
                 </div>
               </div>
             </div>
@@ -233,7 +221,7 @@
       <ul id="account-links" class="login-nav logged-in-nav" style="display:none;">
         <li class="logged-in-as"></li>
         <li class="last">
-          <a href="https://go.12wbt.com/members/my-profile">My Profile</a>
+          <a href="https://go.12wbt.com/members/my-profile" class="navbar-link">My Profile</a>
         </li>
       </ul>
     </div>
@@ -264,7 +252,7 @@
           <!-- /Hero -->
 
           <!-- Main Content -->
-          <div id="main-content" class="clearfix">
+          <div id="main-content" class="clearfix bg-white">
             <div class="container-fluid container-fluid-no-gutter">
 
               
@@ -290,33 +278,18 @@
             
   <h2>1. MICHELLE BRIDGES 12 WEEK BODY TRANSFORMATION WEBSITE PRIVACY POLICY</h2>
 
-<p>
-</p><div id="6c1e0e20-ba23-419e-86bd-23ee5b02f013" style="width:110px; height:35px; float:right;">
-  <script nonce="" type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/12WBT-Pty-/asc?rid=6c1e0e20-ba23-419e-86bd-23ee5b02f013"></script>
-  <a href="//privacy.truste.com/privacy-seal/12WBT-Pty-/validation?rid=e6725e0d-e30a-4f70-a7ca-5442dcacbf16" title="TRUSTe online privacy certification" target="_blank">
-    <img style="border: none; width:110px; height:35px;" src="//privacy-policy.truste.com/privacy-seal/12WBT-Pty-/seal?rid=e6725e0d-e30a-4f70-a7ca-5442dcacbf16" alt="TRUSTe online privacy certification">
-  </a>
-</div>
-
 <strong>Effective Date: 17/10/2014</strong>
 <p></p>
 
 <p>
-  Protecting your privacy: 12WBT Trading Pty Ltd ABN 31 154 009 622 or Level 5, 14 Foster Street Surry Hills NSW 2010 (<strong>"us, we, our"</strong>
-  or <strong>"12WBT"</strong>) are committed to protecting the information about you that we collect, store and use when you provide it to us at our web and mobile sites:
-  <a href="http://www.12wbt.com">www.12wbt.com</a>
-  and mobile application: 12WBT Daily (Website). We manage your information in accordance with the Australian Privacy Principles set out in the Privacy Act 1988 (Cth). This document describes how we manage any personal information we have collected about you from the Website.
-</p>
-<p>By accessing the Website you accept the terms and conditions of its use, and consent to the collection, use and disclosure of your personal information in accordance with this privacy policy and the terms and conditions of use of the Website.</p>
-<p>
-  12WBT has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with
-  <a href="http://www.truste.com/privacy-program-requirements/program-requirements">TRUSTe's program requirements</a>
-  including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program covers only information that is collected through this web and mobile site:
-  <a href="http://www.12wbt.com">www.12wbt.com</a> and our mobile application: 12WBT Daily.
+Protecting your privacy: 12WBT Trading Pty Ltd ABN 31 154 009 622 or Level 5, 14 Foster Street Surry Hills NSW 2010 (<strong>"us, we, our"</strong> or <strong>"12WBT"</strong>) are committed to protecting the information about you that we collect, store and use when you provide it to us at our web and mobile sites: <a href="http://www.12wbt.com">www.12wbt.com</a> and mobile application: 12WBT Daily (Website). We manage your information in accordance with the Australian Privacy Principles set out in the Privacy Act 1988 (Cth). This document describes how we manage any personal information we have collected about you from the Website.
 </p>
 <p>
-  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, or believe that your privacy has been breached, please contact us at <a href="mailto:support@12wbtsupport.com">support@12wbtsupport.com</a> and provide details of the incident so that we can investigate it. We request that all complaints be made in writing, so that we can be sure about the details of the complaint. We will treat your complaint confidentially, investigate your complaint and aim to ensure that we contact you and your complaint is resolved within a reasonable time (and in any event within the time required by the Privacy Act, if applicable). If you are not satisfied with our response you can contact
-  <a href="https://feedback-form.truste.com/watchdog/request">TRUSTe here</a>.
+By accessing the Website you accept the terms and conditions of its use, and consent to the collection, use and disclosure of your personal information in accordance with this privacy policy and the terms and conditions of use of the Website.
+</p>
+
+<p>
+If you have questions or complaints regarding our privacy policy or practices, or believe that your privacy has been breached, please contact us at <a href="mailto:support@12wbtsupport.com">support@12wbtsupport.com</a> and provide details of the incident so that we can investigate it. We request that all complaints be made in writing, so that we can be sure about the details of the complaint. We will treat your complaint confidentially, investigate your complaint and aim to ensure that we contact you and your complaint is resolved within a reasonable time (and in any event within the time required by the Privacy Act, if applicable).
 </p>
 
 <h2>2. COLLECTION &amp; USE OF PERSONAL INFORMATION</h2>
@@ -392,7 +365,7 @@
 <p>We use local storage objects (LSOs) such as HTML5 to store content information and preferences [or - other uses].</p>
 <p>Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use LSOs such as HTML5 to collect and store information.</p>
 <h3>3.2 Advertisements</h3>
-<p>We partner with a third party ad network to either display advertising on our Website or to manage our advertising on other sites.  Our ad network partner may use cookies and Web beacons to collect non-personally identifiable information about your activities on the Website and other websites that you may visit to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted advertisements, you may opt-out by <a href="http://preferences-mgr.truste.com">clicking here</a>. Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.</p>
+<p>We partner with a third party ad network to either display advertising on our Website or to manage our advertising on other sites. Our ad network partner may use cookies and Web beacons to collect non-personally identifiable information about your activities on the Website and other websites that you may visit to provide you targeted advertising based upon your interests.</p>
 <h3>3.3 Social Media Features</h3>
 <p>The Website includes Social Media Features, such as the Facebook Like button.  These features may collect your IP address, which page you are visiting on our Website, and may set a cookie to enable the feature to function properly.  Social media features and widgets are either hosted by a third party or hosted directly on our Website.  Your interactions with these features are governed by the privacy policy of the company providing them.</p>
 <h3>3.4 Forums</h3>
@@ -460,7 +433,7 @@
 
 
               
-                <section class="call-to-action banner content-section section-reduced-padding">
+                <section id="section-call-to-action" class="call-to-action banner content-section section-reduced-padding">
   <div class="container">
     <div class="row v-align-middle-md">
       <div class="col-sm-7">
@@ -474,11 +447,14 @@
         </h2>
       </div>
       <div class="col-sm-5">
-        <div class="join-now-box box-white text-center join-tout">
-  <p><em>Save $40</em></p>
-  <p>With our $199 up-front payment</p>
-  <a href="https://go.12wbt.com/sign-up/single-payment" class="btn btn-md section-btn btn-green-gradient">Join Now!</a>
-  <p><small>Weekly payments also available</small></p>
+        <div class="join-now-box box-white text-center join-tout join-tout-primary">
+  <span class="generic-countdown-message"></span>
+  <p><em>Only $19.99</em></p>
+  <p>per week</p>
+  <a class="btn btn-md section-btn btn-green-gradient" href="https://go.12wbt.com/sign-up?billing_option=single-payment" data-track-ga="{ &quot;GAEventCategory&quot;: &quot;Leads&quot;, &quot;GAEventAction&quot;: &quot;Click Button&quot;, &quot;GAEventLabel&quot;: &quot;Join Now Tout&quot; }">
+     Join Now
+  </a>
+  <p><small>Upfront payments also available</small></p>
 </div>
 
       </div>
@@ -498,7 +474,7 @@
 
     <!-- Footer  -->
     
-      <footer id="footer-public" class="">
+      <footer id="footer-public" class="section">
       <div id="footer-links">
   <div id="copyright" class="section">
     <div class="container">
@@ -553,7 +529,7 @@
               Consult your healthcare professional before beginning any diet or
               fitness regime.
             </span>
-            Copyright © 2017 12WBT Trading Pty Ltd.
+            Copyright © 2018 12WBT Trading Pty Ltd.
           </p>
           <p>
             <a href="/blog">12WBT Blog</a> |
@@ -569,7 +545,7 @@
           </p>
         </div>
 
-        <div class="col-md-3 truste visible-md visible-lg visible-xl">
+        <div class="col-md-3 visible-md visible-lg visible-xl">
           <div class="fa-social-grey">
   <span class="social-blurb">share. connect. follow</span>
 
@@ -630,7 +606,21 @@
 </div>
 
     
-    <div id="fb-root"></div>
+      
+
+  <script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-CMJ5"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" type="text/javascript"></script>
+
+  <script src="/sites/53927e37f20e991c08000011/theme/javascripts/vendor.69d16d7e.js" type="text/javascript"></script>
+
+  <script src="/sites/53927e37f20e991c08000011/theme/javascripts/application.41decdfd.js" type="text/javascript"></script>
+
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="/sites/53927e37f20e991c08000011/theme/javascripts/ie8.js" type="text/javascript" ></script>
+  <![endif]-->
+
+
+<div id="fb-root"></div>
 
 <noscript>
   <p class="noscript-message">
@@ -653,6 +643,16 @@
     'pageType':    'Public',
     'cmsLocale':   'en'
   });
+</script>
+
+
+<!-- Google Optimize page hiding snippet -->
+<style>.async-hide { opacity: 0 !important} </style>
+<script>
+(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);
+})(window,document.documentElement,'async-hide','dataLayer',4000,{'GTM-CMJ5':true});
 </script>
 
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-CMJ5" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -713,15 +713,6 @@
   $(window).on('load resize', loadXfbml);
 </script>
 <!-- Start Facebook SDK -->
-
-<!-- Brightcove -->
-<script type="text/javascript" nonce="">
-  $.getScript('https://sadmin.brightcove.com/js/BrightcoveExperiences.js', function() {
-    brightcove.createExperiences();
-
-    $(document).trigger('brightcove:ready');
-  });
-</script>
 
 <script type="text/javascript" nonce="">
     function test_domain(email) {
