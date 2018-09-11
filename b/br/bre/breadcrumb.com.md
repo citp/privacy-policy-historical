@@ -1,33 +1,135 @@
-> *The following text is extracted and transformed from the breadcrumb.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531173832id_/https%3A//breadcrumb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breadcrumb.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911200349id_/https%3A//upserve.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Breadcrumb Point of Sale
+# Privacy Terms | Upserve
 
-This Privacy Statement explains how Pospitality, LLC (“Pospitality”) collects, uses, shares and protects personally identifiable information obtained from visitors to the generally accessible web pages located at www.breadcrumbpos.com (the “Site”) that link to this Privacy Statement. This Privacy Statement does not cover any other information that Pospitality collects, including without limitation, information that Pospitality collects offline or information it collects from registered users and customers about their businesses, employees or patrons via online accounts, applications, or password-restricted websites. In this Privacy Statement, “we”, “us”, “our”, and similar terms refer to Pospitality, and “you”, “your”, and similar terms refer to you, a visitor to the Site. If you visit the Site on behalf of a company, partnership, organization, or other entity, then “you” and similar terms refer to both you and that entity. If you do not agree to the terms and conditions of this Privacy Statement, you may not visit this Site. If you are under the age of 13, you are not permitted to use this Site or to provide any personal information to us.
+## **Overview**
 
-### What Information We Collect
+At Upserve, our relationship with you is our most important asset. We want to earn your trust by being transparent about how Upserve works. You should read this policy in its entirety.
 
-We collect information that you intentionally and actively give to us, such as your email address if you request information or registration information when you sign up for our services. We may also collect information about your computer or other device and visits to the Site and other websites via technologies that are commonly used on many websites. When you visit our Site, we send one or more cookies (a small file containing a string of characters) to your computer that uniquely identifies your browser. Cookies make it easier for you to log on to and use the Site during future visits. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. (Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences.) We automatically record information on our servers when you visit our Site, including your web request and Internet Protocol address.
+The Site may be used for obtaining information about, and enrolling and participating in, a rewards program we offer on behalf of participating merchants using payment cards.
 
-### How We Use Your Information
+We will not disclose your Personal Information to any non-affiliated third party for use in marketing that party’s goods or services without your consent.
 
-We use your information to process and administer details of your Site usage, to communicate with you, to provide helpful features, and to keep you informed about new developments at Pospitality. We also aggregate, use and analyze the statistical data we collect so that we can administer, support, improve and develop our business and the Site.
+We take data security seriously. We take reasonable steps to protect the security of your Personal Information and Business Information. See  our [security page](https://upserve.com/security) for more information on the steps we take to protect your Personal Information and Business Information.
 
-### When We Disclose Your Information
+If you have any questions or concerns about this Privacy and Security Policy, contact our privacy team by emailing privacy@upserve.com. You may also contact us by mail at 10 Dorrance Street, Providence, RI 02903.
 
-We are not in the business of selling personal information and share your information only in the following situations: (1) with our affiliated companies, including Groupon, Inc. and its subsidiaries for marketing or to support other services you may receive from us or any of our affiliates; (2) with service providers that process information only on our behalf and subject to confidentiality obligations; (3) in the context of mergers, acquisitions, reorganizations, restructurings, and a sale of all or substantially all of the assets of our company or a division – in which case, our new business partners or owners may then provide you with information about their products and or services; (4) variously for any number of reasons when information about you has been rendered anonymous, for example, in an aggregate analytic report, and (5) in response to legal process and/or formal law enforcement, to protect our rights or property, for the prevention or detection of a crime, or as otherwise required by law.
+###  **Scope.**
 
-### External Links
+This Privacy Policy describes Upserve’s policies and procedures on the collection, use and disclosure of your information, primarily the result of your registering (“opting in”) to loyalty programs we offer on behalf of participating merchants . It does not, however, apply to entities that Upserve does not own or control. Upserve receives your information through our various APIs, services and third-parties (the “Service”). When using our Service you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country that you reside in or create information from, your information may be used by Upserve in the United States or any other country where Upserve operates.
 
-The Site may contain links to the websites of other companies, organizations, or individuals. We are not responsible for how these other companies, organizations, or individuals collect, use, disclose, or secure the information that you provide them. If you choose to access a third party website linked from the Site, you do so at your own risk and subject to any terms of service or privacy policy, if any, associated with such third party websites.
+###  **No information from children under age 13.**
 
-### We Process Your Data In The United States
+We do not knowingly market to, or solicit or collect information from, children under the age of 18. If you are under age 13, please do not attempt to register for Upserve or provide any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under age 13, please contact us by emailing privacy@upserve.com.
 
-By providing any personal information to us, all users, including, without limitation, users in Canada and otherwise outside of the United States, fully understand and unambiguously consent to this Privacy Statement and to the transfer of such personal information across international borders in accordance with our standard operations, including the collection, storage, and processing of such information in the United States of America.
+##  **Information Collection and Use**
 
-### We May Change This Privacy Statement
+###  **Personal information.**
 
-We reserve the right to make changes to this Privacy Statement at any time. The most current version of the Statement will govern our use of your information. If we make a modification to this Privacy Statement that is material, we will notify you, either by posting a revised version of this Privacy Statement, or other means, including, without limitation, at our sole discretion, by sending an email to the email address associated with your account, if we have it, or by displaying an announcement above the text of this Privacy Statement. You agree to review this Privacy Statement each time you visit the Site. Your continued use of the Site will indicate your agreement to be bound by the revised Privacy Statement.
+Upserve is committed to maintaining the confidentiality, integrity and security of any personal information about our users. “Personal information” for purposes of this Policy means information you provide to us through registration on this Website, such as your mobile phone number or email address.
 
-### Questions?
+###  **Program Data.**
 
-All comments, queries and requests relating to our use of your information are welcomed and should be addressed to info@breadcrumbpos.com. 
+Program Data means the data we receive from you in order for you to participate in a loyalty programs. Program Data does not include information that we receive from other parties in connection with your participation in programs.
+
+Location Information.
+
+Upserve does not collect your geographic location.
+
+###  **Additional Information.**
+
+You may provide us with additional information, such as a short biography or a picture. We may use your contact information to send you information. You may unsubscribe from these messages by following the instructions contained within the messages or the instructions on our web site. If you email us, we may keep your message, email address and contact information to respond to your request. Providing the additional information described in this section is entirely optional.
+
+###  **Registration.**
+
+Some features of the Site or the Service may require registration, which involves provision to Upserve of an email address and password (collectively the “Registration Information”). In order to benefit from the full functionality of the Service to participate in loyalty programs, you also must provide your payment card information to allow Upserve to facilitate loyalty rewards at participating merchants for your use.
+
+###  **Log Data.**
+
+Our servers automatically record information (“Log Data”) created by your use of the Service. Log Data may include information such as your IP address, browser type, the referring domain, pages visited, and search terms. Other actions, such as interactions with the Website, may also be included in Log Data. This information may be used, for example, to alert you to software compatibility issues, or it may be analyzed to improve our Web design and functionality.
+
+###  **Cookies.**
+
+Like many websites, we use “cookie” technology to collect additional website usage data and to improve our Service. A cookie is a small data file that is transferred to your computer. Upserve may use both session cookies and persistent cookies to better understand how you interact with our Service, to monitor aggregate usage by our users and web traffic routing on our Service, and to improve our Service. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you choose to eliminate cookies, the full functionality of the Service may be impaired for you. We may link the information we store in cookies to any personally identifiable information you submit while on our site.
+
+###  **Third Party Analytics Services.**
+
+Upserve uses third party analytics services such as Google Analytics, Mixpanel, Intercom, Segment, Totango and others to help understand use of our Service. Analytics services collect information sent by your browser as part of a Web page request, including cookies and your IP address. These third party services have their own privacy policies governing use of this information. Upserve continually evaluates analytics services to use in addition to those mentioned, and we may update this policy in the future to reflect our ongoing use of said services.
+
+###  **Notifications and E-Mail Newsletters.**
+
+Upserve may use your information to deliver to you any administrative notices, notification alerts and communications relevant to your use of the Service. We also allow users to subscribe to email newsletters and from time to time may transmit emails promoting Upserve or third-party goods or services. Upserve subscribers have the ability to opt-out of receiving our promotional emails and to terminate newsletter subscriptions by following the instructions in the emails. Opting out in this manner will not end transmission of service-related emails, such as email alerts. You may not opt-out of all of these communications, which are not promotional in nature, but many such alerts can be turned off in your account settings page. If you do not wish to receive them and you cannot turn them off in your account settings page, you have the option to deactivate your account.
+
+###  **Public Support Forums and Blogs.**
+
+Upserve operates a public support forum page, and we operate corporate blogs and microblogs in order to communicate with our customers in other various online communities. These forums use third party services such as Salesforce (d/b/a Desk.com), Facebook, Twitter and others. If you interact with these forums, you should be aware that any information you submit there can be read, collected or used by other users and could be used to send you unsolicited messages. We are not responsible for the personal information you choose to submit in these forums. These forums are operated by third parties, which maintain their own privacy policies.
+
+###  **Surveys.**
+
+From time to time, Upserve may also ask you to participate in surveys designed to help Upserve improve the Site. Any personal information provided to Upserve in connection with any survey will be used only in relation to that survey and as elsewhere set forth in this Policy.
+
+###  **Facebook Connect.**
+
+You may be able to log in to our site using sign-in services such as Facebook Connect or an Open ID provider. If available, these services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect may give you the option to post information about your activities on this Web site.
+
+##  **Information Sharing and Disclosure**
+
+###  **Your Consent.**
+
+We may share or disclose your information with your consent, such as when you use a third party web client to access your Upserve account. We may also share your Private Information as described in this Privacy and Security Policy. Other than as described in this Privacy and Security Policy, we will not disclose your Registration Information, Account Credentials, or Account Data to any third parties.
+
+###  **Service Providers.**
+
+We engage certain trusted third parties to perform functions and provide services to us. We may share your personal information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only pursuant to obligations mirroring the protections of this privacy policy.
+
+###  **Law and Harm.**
+
+We may disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect Upserve’s rights or property.
+
+###  **Business Transfers.**
+
+If the ownership of all or substantially all of our business changes, we may transfer your information to the new owner so that the service can continue to operate. In such a case, your information would remain subject to the promises made in any pre-existing Privacy Policy.
+
+###  **Non-Private or Non-Personal Information.**
+
+Upserve may share or disclose your non-private, aggregated, anonymous or otherwise non-personal information and disclose such data only in a non-personally identifiable manner. We may share information that is not personally identifiable to you or your business, including aggregated statistical information derived from Program Data, with our affiliates, partners, merchants, and others. Such information could be used, for example, to provide us with statistical or other analysis. None of this type of information can be linked by the recipient in a way that identifies the Program Data as pertaining specifically to you. We may also disclose or share information that is not personally identifiable to you with our affiliates, partners, merchants and others.
+
+##  **Modifying Your Personal Information**
+
+###  **Editing your profile.**
+
+If you are a registered user of our Service, we provide you with tools to access or modify the personal information you provided to us and associated with your account. You may change your profile information at any time by going to your settings page.
+
+###  **Deleting your account.**
+
+You can delete your account by issuing a request via email to support@upserve.com or by following the “Delete Account” link on the settings page, if available. When you request us to delete your account for the Service, your loyalty program data will be expunged from our primary production servers and further access to your account will not be possible. However, portions of your data, consisting of aggregate, anonymized data derived from your Account Information, may remain on our production servers indefinitely. Your data may also remain on a backup server or media. Upserve keeps these backups to ensure our continued ability to provide the Service to you in the event of malfunction or damage to our primary production servers. We also reserve the right to use any aggregated or anonymous data derived from or incorporating your personal information.
+
+###  **Limitations on Removal.**
+
+Even after you remove information from your profile or delete your account, copies of that information may remain viewable elsewhere to the extent it has been shared with others, it was otherwise distributed pursuant to your privacy settings, or it was copied or stored by other users. Additionally, we may retain certain information to prevent identity theft and other misconduct even if deletion has been requested.
+
+###  **Backup copies.**
+
+Removed and deleted information may persist in backup copies, but will not be available to others.
+
+###  **Changes in this Privacy Statement**
+
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+
+###  **Contact information.**
+
+If you have questions, comments, concerns or feedback regarding this Privacy Policy or any other privacy or security concern, send an e-mail to security@upserve.com.
+
+## Want to Talk Shop?
+
+Fill out the form below to schedule a short demonstration!
+
+#### Learn how our Restaurant POS and Management Platform can help you:
+
+  * Boost sales by 30%
+  * Increase staff productivity
+  * Manage your restaurant from anywhere, 24/7
+
+
