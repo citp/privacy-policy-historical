@@ -1,17 +1,67 @@
-> *The following text is extracted and transformed from the discord.io privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629210239id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discord.io privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911185544id_/https%3A//discord.io/page/privacy) for the most accurate reproduction.*
 
-# Legal
+# Privacy Policy - Discord.io
 
-* * *
+### Privacy Policy
 
-**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from https://discord.io/ (the “Site”).
 
-  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
-  * the date and time you access the website and pages you visit;
-  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
-  * demographic and other non-personally identifiable profile information about you; and
-  * information to combat fraud or misuse
+PERSONAL INFORMATION WE COLLECT
 
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
 
+We collect Device Information using the following technologies:
 
-**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+    \- “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.
+
+    \- “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.  
+    \- “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
+
+Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information, email address, and phone number.  We refer to this information as “Order Information.”
+
+When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
+
+HOW DO WE USE YOUR PERSONAL INFORMATION?
+
+We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations).  Additionally, we use this Order Information to:  
+Communicate with you;  
+Screen our orders for potential risk or fraud; and  
+When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.
+
+We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
+
+SHARING YOUR PERSONAL INFORMATION
+
+We value your Personal Information just as much as you do, which is why treat it as we would with our own.  
+We don't share your Personal Inform with third parties, with the only expections being;  
+\- Google Analytics, to help us understand how our customers use the Site. You can read more about how Google uses your Personal Information here:  https://www.google.com/intl/en/policies/privacy/.  You can also opt-out of Google Analytics here:  https://tools.google.com/dlpage/gaoptout.  
+\- In the neccesary situations to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
+
+As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you.  For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.
+
+You can opt out of targeted advertising by visiting;  
+-    FACEBOOK - https://www.facebook.com/settings/?tab=ads  
+-    GOOGLE - https://www.google.com/settings/ads/anonymous  
+-    BING - https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads
+
+Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at:  http://optout.aboutads.info/.
+
+DO NOT TRACK  
+Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
+
+YOUR RIGHTS  
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
+
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above.  Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
+
+DATA RETENTION  
+When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
+
+MINORS  
+The Site is not intended for individuals under the age of 18.
+
+CHANGES  
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
+
+CONTACT US  
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at admin@discord.io or by mail using the contact form here: <https://discord.io/contact>
