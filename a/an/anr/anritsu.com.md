@@ -1,158 +1,120 @@
-> *The following text is extracted and transformed from the anritsu.com privacy policy that was archived on 2017-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170721002721id_/https%3A//www.anritsu.com/en-AU/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anritsu.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911172333id_/https%3A//www.anritsu.com/en-AU/privacy-policy) for the most accurate reproduction.*
 
-# Anritsu Company - Privacy Statement- Anritsu Asia Pacific
+# Anritsu Group Privacy Policy- Anritsu Asia Pacific
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=8188e017-bb0d-41f5-a61e-1cf6d87cf339 "TRUSTe Privacy Certification")
+The Anritsu Corporation and its group companies ("Anritsu"), recognizing its social responsibility to appropriately protect the personal information (information that can be used to identify a specific individual) of all individuals it has connections with, including its customers, shareholders/investors, business partners and employees, has adopted the following privacy policy, and will take all possible measures to ensure the proper handling and protection of personal information in its possession.
 
-**Effective Date:** September 1, 2016
+  1. Anritsu will strictly comply with all laws, regulations and other social standards concerning the protection of personal information.
+  2. Anritsu will strive to properly administer personal information by appointing a person in charge of overall control of personal information and by placing a personal information administrator in each division that handles personal information.
+  3. Anritsu will educate its officers, staff and other personnel with regard to protection of personal information.
+  4. Anritsu will collect, use and provide personal information in an appropriate manner.  
+Specifically, 
+    1. It will collect personal information in an appropriate and fair manner, clearly stating the intended use at the time of collection.
+    2. It will not collect "Special care-required personal information", except in cases where advance consent of the person concerned has been received or where permissible by law.
+    3. It will use personal information only for the purposes specified by notification or public announcement, or that were made clear at the time of collection, except in cases where advance consent of the person concerned has been received or where permissible by law.
+    4. It will not provide personal information to third parties other than group companies or their service providers, except in cases where advance consent of the person concerned has been received or where permissible by law.
+    5. In cases where personal information is provided to third parties, or received from third parties, it will keep a record appropriately, except in cases where permissible by law.
+    6. In cases where personal information is provided to service providers or others, it will take appropriate measures, in the form of a written contract or otherwise, to ensure that personal information is protected.
+  5. Anritsu will respond reasonably and appropriately to confirmation, revision or other requests from individuals regarding their own personal information, upon confirming their identities.
+  6. Anritsu will take all reasonable human, physical, technological, and operational measures to ensure that personal information is handled safely and shall make utmost efforts to prevent unauthorized access to, leakage, or loss of personal information.
+  7. Anritsu will periodically review this policy and associated company regulations and operating procedures, making revisions and improvements on an ongoing basis.
 
-This privacy statement describes how Anritsu Company (also referred to in this document as “Anritsu”, or “we”) collects and uses the personal information you provide on our Web site: [www.anritsu.com](https://web.archive.org/en-AU). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-## EU-U.S. Privacy Shield
 
-Anritsu Company, Anritsu Infivis, Inc. and Anritsu Instruments Company participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Anritsu is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. <https://www.privacyshield.gov/list>
+September 1, 2017  
+ANRITSU CORPORATION
 
-Anritsu is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Anritsu complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+  
 
-With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Anritsu is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Anritsu may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+## Handling of Personal Information
 
-Under certain conditions, more fully described on the Privacy Shield website [https://www.privacyshield.gov](https://www.privacyshield.gov/), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+### Purpose of Utilization
 
-## U.S. - Swiss Safe Harbor Framework
+  1. We will utilize your personal information for the following purposes: 
+    * To execute customer's contractual obligations;
+    * For the development, improvement, sale, offering, installment, after service, repair, maintenance, marketing and promotion of the products (including systems and software.) relating to company`s business purposes;
+    * To provide useful information of our products (including systems and software.) and services related to the business purposes;
+    * For investors relationship as well as business activities related to our company business;
+    * For management of our shareholders;
+    * For research and study as well as questionnaire of the above purposes;
+    * To respond to inquiries; and
+    * To provide services pertaining to any of the above business purposes.
+  2. Furthermore, for efficient business operation, we may provide your personal information to outsource part of the business to a third party. In this case, we will place an agreement with the third party on how to handle your personal information as necessary and appropriate to fully protect your personal information.
 
-Anritsu complies with the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from Switzerland. Anritsu has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Anritsu’s certification, please visit <https://safeharbor.export.gov/swisslist.aspx>.
 
-## Collection and Use of Personal Information
 
-We may collect the following personal information from you
+### Disclosure and providing personal information to a third party
 
-  * Contact Information such as name, email address, mailing address, phone number
-  * Billing Information such as credit card number, and billing address
-  * Unique Identifiers such as user name, account number, password
-  * Third party names and email addresses
+  1. We will not disclose or provide personal data to a third party other than the above outsourcing purpose or unless we meet the following criteria: 
+    * Consent from the principal;
+    * In a manner where personal information is not identifiable such as statistical data base;
+    * Requested under laws and regulations;
+    * For the protection of human life, body or fortune and difficult to obtain consent from the principal.
+    * In cases where there is a need to cooperate with the central government organization or a local government, or a person entrusted by them performing affairs prescribed by laws and regulations, and when there is a possibility that obtaining a principal's consent would interfere with the performance of the said affairs; and
+    * For use among the group companies of the individual data.
 
 
 
-We may also collect the following information from you
+### Shared use of personal information
 
-  * Information about your business such as company name, company size, business type
+We may share your personal information within the group companies described below.
 
+Items on shared usage of the personal data | 
 
+  * Name of the customer;
+  * Contacts (address, phone number, email address);
+  * Transaction records with our company.
 
-As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
+  
+---|---  
+Scope of shared usage of the personal data | [Anritsu Group Worldwide](https://web.archive.org/en-AU/contact-us/corporate-information/anritsu-worldwide)  
+Purposes of usage of the personal data | 
 
-We use this information to
+  * Development, improvement, sale, offering, installment, after service, repair and maintenance, marketing and sales promotion of Anritsu products (Including system and software) and services relating to our business purposes.
+  * To provide useful information on product (including system and software), service and activity relating to our business purposes.
+  * For research and questionnaire purposes relating to the above services.
 
-  * Fulfill your order
-  * Send you an order confirmation
-  * Send you requested product or service information
-  * Send product updates or warranty information
-  * Respond to customer service requests
-  * Register your products
-  * Administer your account
-  * Send you a newsletter
-  * Send you marketing communications
-  * Respond to your questions and concerns
-  * Improve our Web site and marketing efforts
-  * Share registered product resources with others in your company
+  
+Responsibility of handling the personal data | ANRITSU CORPORATION  
+  
+### Disclosure, Correction, Deletion, Termination of usage etc.
 
+  1. Should there be any inquiry on personal information we possess, or request to correct, delete or terminate the usage of the personal information due to error or change, we will confirm that the inquiry is from the said person, and within a timely manner and scope of disclosure, answer to the inquiry, correct or delete etc. such personal information.
+  2. Please be noted that deletion or termination of usage of part or entire personal information may hinder us from providing you satisfying services. (We may not be able to delete or terminate usage of those information we possess under certain law requirements.)
 
 
-## Information Sharing
 
-We may provide your personal information to companies that provide services to help us with our business activities such as our shopping platform and administering surveys for customer feedback and product registration. These companies are authorized to use your personal information only as necessary to provide these services to us.
+### Contact Information
 
-We will share your personal information with third parties only in the ways that are described in this privacy statement.
+  1. Please use the inquiry form ([Contact Us](https://www.anritsu.com/subscription/privacy-contactus.aspx)) for any inquiries on your personal information or any questions regarding the Privacy Policy.
+  2. As a general rule, answer to inquiry will be in writing. For certain information, we may ask you to fill out our form. In these circumstances, we will send you those forms, so please kindly fill them out and send it back to us.
 
-We may also disclose your personal information
 
-  * as required by law, such as to comply with a subpoena, or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, to any other third party with your prior consent to do so.
-  * if Anritsu is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
+### About this website
 
+  1. Usage of Cookies  
+Within some of the pages of our website, we use a technology called "Cookies" to enhance the experience of our website when you re-visit. "Cookies" is an industry standard technology which the server recognizes your computer. "Cookies" recognizes your computer, but unless you type in your personal information you will not be identified. Furthermore, depending on the type of your browser, you may choose to disable the cookies. As a consequence, there may be some cases where you may not be able to use partial or the entire services we provide.
+  2. Access log  
+We may collect your IP address and domain name within our Web server to analyze site access when you visit our website. These information will be deleted as necessary after the report is created.
 
-## Tracking Technologies
 
-As is true of most websites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
 
-Anritsu and our partners, use technologies such as cookies, beacons, tags, and scripts, to analyze trends, administer the website, tracking users’ movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis.
+## The purposes of the Company shall be to engage in the following businesses:
 
-We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
+  1. Manufacture and sale of telecommunications equipment and tools;
+  2. Manufacture and sale of general electrical equipment and tools;
+  3. Manufacture and sale of general equipment and tools;
+  4. Manufacture and sale of precision equipment and tools;
+  5. Manufacture and sale of medical equipment and tools;
+  6. Manufacture and sale of electronic components, microchip, and semiconductor circuit;
+  7. Development and sale of system and software associated with the above;
+  8. Rental, purchase, recycling, and maintenance service of equipment and tools associated with the above;
+  9. Contracting for construction works;
+  10. Leasing of real estate;
+  11. Services for information and telecommunications, information processing, and information providing;
+  12. Worker dispatching services; and
+  13. Any and all activities incidental to any of the foregoing items and investment.
 
-We also use cookies to track your activity on our site such as what sections of the website that you have visited. We link the information we store in these cookies to personal information so that we may send you marketing emails based on your site activity. If you wish to unsubscribe from receiving these emails, please follow the unsubscribe mechanism in the email.
 
-We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) . Please note this does not opt you out of being served ads. You will continue to receive generic ads.
-
-We use Local Storage, such as HTML5 to store content information and preferences. Various browsers may offer their own management tools for removing HTML5.
-
-Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use Flash cookies to collect and store information.
-
-To manage Flash cookies, please click here:  
-<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
-
-## _Adjusting Browser Cookie Settings_
-
-Cookies can be removed explicitly through functionality built into most web browsers. You may also set your web browser (e.g. Microsoft Internet Explorer or Mozilla Firefox) to notify you of cookie placement requests, to ask for permission to accept them, or to decline cookies completely.
-
-For information on how to adjust your browser regarding cookies, please visit:
-
-  * Microsoft Internet Explorer: <http://www.microsoft.com/info/cookies.htm>
-  * Firefox: <http://support.mozilla.com/en-US/home>
-  * Chrome: <http://www.google.com/support/chrome/?hl=en>
-  * Safari: <http://www.apple.com/support/safari/>
-  * Opera: <http://www.opera.com/browser/tutorials/security/>
-
-
-
-If you choose to decline cookies, some functionalities> of the website may not be available.  
-If you are located in an EU country, please refer to ‘Cookie Preferences’ located in the bottom right of the footer for opt out options.
-
-## Surveys
-
-We allow you to provide us feedback. We collect this information from you via a survey. We use a third party service provider to conduct these surveys. The company will be prohibited from using our users’ personally identifiable information for any other purpose.
-
-## Email Communications
-
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails.
-
-## Access to Personally Identifiable Information
-
-Upon request Anritsu will provide you with information about whether we hold any of your personal information.
-
-If your personal information changes, you may correct or update this information by logging into your account and click on Edit My Account. If you would like to request to have your personal information deleted, please click [here](http://www.anritsu.com/Subscription/unsubscribe.aspx?rd=true). We will respond to your request to access within 30 days.
-
-We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-## Links to Other Web Sites
-
-Our Site includes links to other Web sites whose privacy practices may differ from those of Anritsu. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
-
-## Tell-A-Friend
-
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Anritsu stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
-
-Your friend may choose to stop receiving our emails by following the unsubscribe instructions included in the emails.
-
-## Social Media Widgets
-
-Our Web site includes Social Media Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy statement of the company providing it.
-
-## Security
-
-The security of your personal information is important to us. We follow reasonable physical, administrative and technical safeguards intended to protect the personal information submitted to us, both during transmission and after we receive it. For example, when you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). If you have any questions about security on our Web site, you can [contact us](http://www.anritsu.com/subscription/privacy-contactus.aspx).
-
-## Notification of Privacy Statement Changes
-
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-## Contact Information
-
-Please direct questions or comments about our privacy practices to:
-
-Anritsu Corporation  
-Corporate Communication Dept.  
-Address: 5-1-1 Onna, Atsugi-shi, Kanagawa, 243-8555 Japan
-
-[Contact Us](https://web.archive.org/subscription/privacy-contactus.aspx)
