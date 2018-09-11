@@ -1,0 +1,7 @@
+> *The following text is extracted and transformed from the nd.edu.au privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911100339id_/https%3A//www.notredame.edu.au/home/privacy) for the most accurate reproduction.*
+
+# Privacy Statement | Notre Dame
+
+Any personal information provided to the University by individuals will only be used for the purpose for which it is provided, or in accordance with the individual’s specific consent. The University will not disclose personal information to a third party unless required to or permitted by law or where an individual has consented to the disclosure. Information relating to how the University collects, uses or discloses personal information and how a complaint may be made about the University’s handling of your personal information is contained in the University’s [Privacy Policy](https://www.notredame.edu.au/__data/assets/pdf_file/0004/2101/POLICY-Privacy.pdf "Privacy Policy").
+
+Individuals have a right to access their personal information that the University holds about them and to seek its correction. If you wish to access your personal information or inquire about the handling of your personal information, please contact the relevant Campus Registrar via email [Fremantle.Registrar@nd.edu.au](mailto:Fremantle.Registrar@nd.edu.au) (for Broome / Fremantle Students), or [Sydney.Registrar@nd.edu.au](mailto:Sydney.Registrar@nd.edu.au) (for Sydney Students).
