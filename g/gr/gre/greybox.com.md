@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greybox.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112041925id_/https%3A//www.greybox.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greybox.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911020520id_/https%3A//www.greybox.com/en/privacy-policy/%23cookies-and-other-tracking) for the most accurate reproduction.*
 
 # Greybox Privacy Policy - Grey Box
 
@@ -6,7 +6,7 @@
 
 _Effective Date: February 23, 2017_
 
-Grey Box™, a division of Redux! Games, LLC ("Grey Box", "we" or "us") is committed to safeguarding consumer privacy on the Internet and protecting the information that you may provide. This document ("Privacy Policy") discloses the privacy practices with respect to your access and use of our services, whether through our website www.greyboxgreybox.com or Grey Box's online games, blogs, chat rooms, forums, and related services created or controlled by or on behalf of Grey Box (collectively, the "Services"). Your use of the Services constitutes acceptance of both this Privacy Policy and our [Terms of Service](http://www.greybox.com/termsofservice/) (as defined in such Terms of Service, which are included below). 
+Grey Box™, a division of Redux! Games, LLC ("Grey Box", "we" or "us") is committed to safeguarding consumer privacy on the Internet and protecting the information that you may provide. This document ("Privacy Policy") discloses the privacy practices with respect to your access and use of our services, whether through our website [www.greybox.com](https://www.greybox.com/en/) or Grey Box's online games, blogs, chat rooms, forums, and related services created or controlled by or on behalf of Grey Box (collectively, the "Services"). Your use of the Services constitutes acceptance of both this Privacy Policy and our [Terms of Service](http://www.greybox.com/termsofservice/) (as defined in such Terms of Service, which are included below). 
 
 This Privacy Policy is intended to provide you with notice of the following: 
 
