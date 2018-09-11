@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the melbournewater.com.au privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319171105id_/https%3A//www.melbournewater.com.au/privacy-website-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melbournewater.com.au privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911144040id_/https%3A//www.melbournewater.com.au/privacy-website-statement) for the most accurate reproduction.*
 
 # Privacy website statement | Melbourne Water
 
@@ -6,9 +6,9 @@
 
 The following privacy statement applies to the entire Melbourne Water website, what personal information is collected and how it is handled. The statement does not extend beyond this website. If you visit other sites from this website you should familiarise yourself with their privacy statements.
 
-For general information about how we seek to protect your personal information, please see our privacy policy.
+For general information about how we seek to protect your personal information, please visit [our privacy policy page](https://www.melbournewater.com.au/about-us/publications-and-policies/legislation-and-policies/policies-and-procedures/privacy-policy). You can also download the full policy here.
 
-[Privacy policy64.14 KB (PDF)](https://www.melbournewater.com.au/sites/default/files/2017-10/privacy-policy.pdf)  
+[Privacy policy64.14 KB (PDF)](https://web.archive.org/media/3071/download)  
 
 
 ## ​What information do we collect?
@@ -44,6 +44,10 @@ We use cookies:
 
 
 If you do not wish to accept cookies you can set your browser to refuse them. However, cookies allow you to fully utilise all our website services and we encourage you to accept them.
+
+## Google reCAPTCHA
+
+We use a Google-provided tool called "reCAPTCHA" which, on some form submissions, is intended to tell humans from robots to prevent abuse of those forms by spam bots. The reCAPTCHA tool may, in its algorithm, make use of cookies as well as other information like IP address, date, time, language, screen size and resolution, and mouse movements while on the page. The reCAPTCHA tool is subject to Google’s [terms of use](https://policies.google.com/terms?hl=en) and[ privacy policy](https://policies.google.com/privacy?hl=en).
 
 ## Use and disclosure of information
 
