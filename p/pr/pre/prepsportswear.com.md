@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the prepsportswear.com privacy policy that was archived on 2017-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170522062014id_/https%3A//www.prepsportswear.com/customerservice/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prepsportswear.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911210543id_/https%3A//www.prepsportswear.com/customerservice/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Prep Sportswear
 
 This notice describes our privacy policy. Prep Sportswear knows that you care how information about you is used and shared, and we will attempt to do so carefully and sensibly. This Privacy Policy explains what information we collect, how we use that information, and the choices we offer, including how to access and update information. **By visiting www.PrepSportswear.com (the “Site”), you are expressly accepting the practices described in this Privacy Policy**. For other terms and conditions that apply to your use of this Site, please review our [Terms of Use](https://web.archive.org/customerservice/termsofuse). 
 
-#### What Personal Information Does Prep Sportswear Gather?
+## What Personal Information Does Prep Sportswear Gather?
 
 #### Information You Give Us
 
