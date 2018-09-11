@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bigfatpurse.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610045037id_/https%3A//www.drwealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigfatpurse.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911185240id_/https%3A//www.drwealth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dr Wealth
 
-This Privacy Policy governs the manner in which DrWealth collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.drwealth.com website (“Site”).
+[vc_row row_type=”row” use_row_as_full_screen_section=”no” type=”full_width” angled_section=”no” text_align=”left” background_image_as_pattern=”without_pattern” css_animation=””][vc_column css=”.vc_custom_1461134421092{padding-top: 65px !important;padding-bottom: 65px !important;}”][vc_column_text]This Privacy Policy governs the manner in which DrWealth collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.drwealth.com website (“Site”).
 
 This privacy policy applies to the Site and all products and services offered by DrWealth.
 
@@ -69,4 +69,7 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us here](https://www.drwealth.com/contact/)
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us here](https://www.drwealth.com/contact/)[/vc_column_text][/vc_column][/vc_row]
+
+  
+
