@@ -1,267 +1,276 @@
-> *The following text is extracted and transformed from the citadines.com privacy policy that was archived on 2017-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171009181857id_/https%3A//www.citadines.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citadines.com privacy policy that was archived on 2018-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180912163300id_/https%3A//www.citadines.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Revised and posted as of 23 December 2015**
+## Personal Data Protection Policy
 
-The Ascott Limited, of registered address at 168 Robinson Road, Capital Tower, #30-01, Singapore 068912, (“ **Ascott** ”) is committed to safeguarding your Personal Data. Please read the following policy to understand how any Personal Data that you provide to us will be treated.
+**Personal Data Protection is important to us**
 
-You agree and consent to Ascott Limited and their related corporations (collectively referred to herein as "Ascott", "us", "we" or "our"), collecting, using, storing, processing, disclosing and sharing amongst themselves your Personal Data as data controllers, and disclosing such Personal Data to Ascott’s authorised service providers and relevant third parties either as data controllers and data processors as appropriate in the manner set forth in this Privacy Policy (the " **Policy** "). By accessing and using this Site and subject to your rights at law, you (the “ **User** ” or “ **you** ”) accept and agree to these terms and conditions without any limitation or qualification.
+Protection of your Personal Data is important to us. This Ascott Personal Data Protection Policy (“ **Policy** ”) outlines how we manage the Personal Data we hold. The Policy applies to all departments and business units across the Ascott Group. The Ascott Limited (Reg. No.197900881N), and/or its related corporations and affiliates (referred to hereunder as “Ascott”, the “Ascott Group”, “we”, “us” or “our”) collectively or singularly as the context requires, recognise the importance of protecting Personal Data.
 
-Your consent to this Policy supplements but does not supersede nor replace any other consents you may have previously provided to Ascott nor does it affect any rights which Ascott may have at law in connection with the collection, use or disclosure of your Personal Data.
+We respect the confidentiality of Personal Data and privacy of individuals and are committed to complying with the Singapore Personal Data Protection Act (Act 26 of 2012) (“ **PDPA** ”) and other applicable data protection laws, including the European Union (“ **EU** ”) General Data Protection Regulation (“ **GDPR** ”) where applicable. Please read this Policy so that you know and understand the purposes for which we collect, use and disclose your Personal Data.
 
-For the avoidance of doubt, this Policy forms a part of the terms and conditions governing your relationship with us (“ **Terms and Conditions** ”) and should be read in conjunction with those Terms and Conditions.
+We adopt a pragmatic “Data- _light_ , Data- _tight_ ” approach in our business conduct.
 
-1.   **What Personal Data do we collect from you?**
+“Data- _light_ ” means that we collect Personal Data only for what is required in business or in activities conducted by our organisation and will properly destroy the Personal Data once there is no business or legal purpose. We do not collect Personal Data randomly or indiscriminately without purpose.
 
-1.1  We receive and store information about you which you provide to us, or which we collect from our website when you make a reservation, submit forms or enquiries to us or via other forms of interaction. This includes information, whether true or not, about an individual who can be indentified or identifiable (a) from that data; or (b) from that data combined with other information to which we have or are likely to have access, including data in our records as may be updated from time to time (“ **Personal Data** ”). Examples of personal data which we may collect from you include: personal information about yourself such as your name, passport/identification details, postal address, e-mail address, telephone or mobile number and credit card details. You may also be asked to provide further information including photo identification about yourself and your family members, such as the dates of your arrival and departure. In order to provide you with better service, we may also collect your preferences, e.g. smoking or non-smoking room, the preferred location of your apartment (low floor, high floor, etc.), type of bed, preferred newspaper etc. The Personal Data which we collect from you will be stored in electronic and/or in hard copy files.
+“Data- _tight_ ” means that we do not disclose your Personal Data unless prior consent has been obtained and we have administrative, physical and Information Technology (IT) security measures to protect your Personal Data.
 
-1.2  You always have the option of not providing the Personal Data requested, or of withdrawing your consent to any or all use of your Personal Data (see paragraph 8below), although please note that we may be legally permitted or required to continue to process your Personal Data in certain circumstances in accordance with applicable law even if you withdraw your consent. However, depending on the nature of your request and the Personal Data concerned (for example, if you do not provide us with mandatory information), we may not be able to process your reservation, registration or request, or continue providing you with the products or services requested or administer any contractual relationship which may be in place.
+This Policy supplements but does not supersede nor replace any other consents you may have previously provided to us in respect of your Personal Data, and your consents herein are additional to any rights which any member of the Ascott Group may have at law to collect, use or disclose your Personal Data. This Policy does not affect any rights which we may have at law in connection with the collection, use or disclosure of your Personal Data.
 
-2\.   **How do we collect Personal Data?**
+For the avoidance of doubt, to the maximum extent permitted under applicable law, nothing in this Policy establishes any joint and several liability on the part of the Ascott Group members.
 
-2.1  Generally, we collect Personal Data in the following ways:
+**1.      _Your Personal Data  _**
 
-(a)  when you make a reservation (which, if made on-line, is effected by clicking the ‘accept’ button) or submit forms relating to any of our Products and Services (defined below);
+1.1.   **  “Personal Data” **refers to any data or information about you from which you can be identified either (a) from that data alone; or (b) from that data combined with other information. Examples of such Personal Data which you may provide us include (depending on the nature of your interaction with us): 
 
-(b)  when you make a reservation through our global reservation team over the phone or interact with any of our staff, for example, via telephone calls, letters, face-to-face meetings, online forms, reservation chat, social media platforms and emails;
+a)    your name, NRIC number, passport number or other identification number, telephone number(s), mailing address, email address and any other information relating to you which you have provided us in any form you may have submitted to us, or in other forms of interaction with you;  
+b)    information about your use of our websites and services, including cookies, IP addresses, subscription account details and membership details;   
+c)    your employment history, education background, and income levels; and  
+d)    your payment related information, such as your bank account or credit card information, and your credit history.
 
-(c)  when you use some of our services, for example, websites and apps including establishing any Ascott Online Advantage accounts with us;
+In addition, if you make a reservation to be a resident at one of our serviced apartments or hotels, you may also be asked to provide further information including photo identification about yourself and your family members, such as the dates of your arrival and departure. In order to provide you with better service, we may also collect your preferences, e.g. smoking or non-smoking room, the preferred location of your apartment (low floor, high floor, etc.), type of bed, preferred newspaper etc.
 
-(d)  when you request that we contact you, sign up as an Ascott Online Advantage member, be included in an email or other mailing list;
+1.2.    In respect of our activities in the EU, Personal Data shall also include personal data revealing   racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person's sex life or sexual orientation, criminal convictions and offences, and other information defined as personal data under GDPR such as internet protocol addresses and cookie identifiers (insofar as such information is capable of identifying individuals either directly or indirectly).
 
-(e)  when you respond to our promotions (provided to you in accordance with your prior consent and with applicable laws), initiatives or to any request for additional Personal Data;
+**2.      _Collection of Personal Data_**
 
-(f)  when you are contacted by (in accordance with the consent provided by you and/or in accordance with applicable laws), and respond to, our marketing representatives;
+2.1.    Generally, we collect your Personal Data in the following ways: 
 
-(g)  when we receive references or reservations from our business partners, online travel agents and third parties, for example, where you have been referred by them;
+a)    when you submit forms, information or feedback relating to any of our products or services (including by use of our interactive IT touch screens such as iPads/Tablets), or submit any online queries;  
+b)    when you register for or use any of our services on websites or apps owned or operated by us or when you register as a member of websites owned and/or operated by us;   
+c)    when you interact with our customer service officers or any of our staff, for example, via face-to-face meetings, telephone calls, letters, online forms (such as any “Contact Us” forms on our websites), reservation chat, social media platforms and emails;  
+d)    when you use or purchase our services or products;   
+e)    when you establish any online accounts with us (such as Ascott Online Advantage accounts);   
+f)    when you request that we contact you;   
+g)    when you respond to our request for additional Personal Data;   
+h)    when you ask to be included in an email or other mailing list;   
+i)    when you respond to our promotions and other initiatives;   
+j)    when you respond to our market surveys;   
+k)    when you submit a job application or a scholarship application;   
+l)    when we receive references from business partners, online travel agents and third parties, for example, where you have been referred by them;   
+m)    when you submit your Personal Data to us for any other reason;   
+n)    when you make a reservation (for example through our global reservation team over the phone or online); and  
+o)    when you browse our website. Please refer to the Cookie Policy below at paragraph 8 for more information. 
 
-(h)  when we seek information from third parties about you in connection with the  Products and Services you have applied for; and
+We may monitor or record phone calls and customer-facing interactions for quality assurance, employee training and performance evaluation, identity verification purposes, feedback, respond to your queries and requests and resolve complaints and other related purposes. Such monitoring or recording will be in accordance with applicable law. 
 
-(i)  when you submit your Personal Data to us for any other reasons.
+2.2.    If you provide Personal Data of a third party (e.g. information of your dependent, spouse, children and/or parents) to us, you represent and warrant that the collection, use and disclosure of that Personal Data to us, as well as the further processing of that Personal Data by us for the purposes set out below, is lawful. 
 
-2.2  When you browse our website, you generally do so anonymously but please see the section below on cookies.
+2.3.    In respect of our activities in the EU, CapitaLand Limited (Reg. No. 198900036N), the parent entity of The Ascott Limited, and The Ascott Limited are the ultimate primary data controllers for processing of the Personal Data.  CapitaLand Limited and its related corporations and affiliates are referred to hereunder as the “CapitaLand Group”.
 
-2.3  If you provide us with any Personal Data relating to a third party (e.g. information of your spouse, children, parents, and/or employees), by submitting such information to us (whether by yourself or through the third party directly and whether on the same day as your registration date at our property or otherwise), you represent to us that you have obtained the consent of the third party to provide us with their Personal Data for the respective purposes set forth in this Policy. It is your sole responsibility to ensure that such third parties are duly informed of the conditions under which their data may be processed in accordance with this Privacy Policy and that you have authority to provide such information to Ascott.
+**3.      _Use and Disclosure of Personal Data_**
 
-2.4  You should ensure that all Personal Data submitted to us is complete, accurate, true and correct. In the event your Personal Data becomes inaccurate because of modifications, it is your responsibility to update your information with Ascott. Failure on your part to do so may result in our inability to provide you with the Products and Services you have requested.
+3.1.    Our business is to understand and meet your needs and provide you with the products and services that you require. To do this effectively, we need to collect a range of Personal Data about you as described in paragraph 1 above. 
 
-3\.   **What are the purposes for which we collect, use, store, duplicate, transfer, disclose or process your Personal Data?**
+3.2.    In general, we will, subject to applicable law, use and disclose your Personal Data for the following purposes: 
 
-3.1  Ascott’s primary goals in collecting, using, storing, duplicating, transferring, disclosing and processing your Personal Data includes providing our Products and Services (for details see para 3.5), enabling Ascott to improve our service levels, maintain the client relationship, respond to your feedback, queries, requests and resolve complaints, customer research, and other related purposes. To the extent Ascott stores and uses usage/traffic data of websites to establish user profiles to improve services and for marketing purposes, this will be done only with a pseudonym and Ascott will not reconnect such data with other data. Users may object to the establishment of such user profiles (see paragraph 8.)
+a)    provide you with the products or services that have been requested;   
+b)    help us review, develop, improve, manage the delivery of and – to the extent this requires the use of Personal Data – enhance our products and services, including analysing future customer needs, conducting market research, customer satisfaction surveys and data analytics for example to enable us to understand and determine customer location, preferences and demographics (which does not involve automated profiling or result in automated decision-making activity which is regulated under the GDPR);   
+c)    communicate with you and respond to your queries, requests and complaints;   
+d)    provide ongoing information about our products and services which may be of interest to you;   
+e)    handle disputes and conduct and facilitate investigations and proceedings;   
+f)    protect and enforce our contractual and legal rights and obligations (including repayment obligations) and for credit and internal risk management;  
+g)    prevent, detect and investigate crime, including fraud and money-laundering, and to analyse and manage other commercial risks;   
+h)    manage our infrastructure and facilitate business operations (including but not limited to billing, customer service and customer verification) and comply with internal policies and procedures;   
+i)    facilitate business asset transactions (which may extend to any merger, acquisition or asset sale) involving any CapitaLand Group entity; and   
+j)    comply with any applicable rules, laws and regulations, codes of practice or guidelines or assist in law enforcement and investigations by relevant authorities. 
 
-3.2  We may also collect, use, duplicate, transfer or disclose your Personal Data for the purposes of managing the administrative and business operations of Ascott and complying with internal policies and procedures, including conducting audits, preventing, detecting and investigating crime and analyzing and managing commercial risks and conducting investigations relating to disputes, billing or fraud, and other related purposes.
+3.3.    Generally, we process your Personal Data for one or more of the specific purposes identified in this Policy based on your consent obtained. Where GDPR applies, the legal basis for our processing of your Personal Data could also be that it is necessary for the legitimate interests pursued by us, or a third party which is described in paragraph 3.9 of this Policy. These legitimate interests include providing services to you where you are our client, managing the relationship between Ascott and you and facilitating internal business purposes and administrative purposes. In some cases, the provision and processing of your Personal Data may be a statutory and/or contractual requirement, or may be necessary in order to perform any contract you have agreed with us or perform services that you have requested.
 
-3.3  We may also collect, use, duplicate, transfer or disclose your Personal Data in order to meet or comply with any applicable rules, laws, regulations, codes of practice or guidelines issued by any legal or regulatory bodies which are binding on Ascott, to facilitate any mergers, acquisitions or asset sales and to safeguard and enforce our contractual and legal rights and obligations, and other related purposes.
+  3.4.    In addition, we may use and disclose your Personal Data for the following purposes, depending on the nature of our relationship with you: 
 
-3.4  We may also monitor or record phone calls and customer-facing interactions for quality assurance, employee training and performance evaluation, identity verification purposes, feedback, respond to your queries and requests and resolve complaints and other related purposes. We will inform you about the recording when you call us and give you the opportunity to indicate that you do not wish for the conversation to be recorded.
+a)   **  If you have a membership account with us (for example as a member of Ascott Online Advantage): **
 
-3.5   **In addition:**
+(i)    process your application for the account;   
+(ii)    maintain your account with us;   
+(iii)    verify your personal particulars and process payment requests in relation to provision of the services which you may be entitled to or which you may have requested for;   
+(iv)    provide you with the goods and services which you have signed up for;   
+(v)    communicate with you of changes and development to our policies, terms and conditions and other administrative information, including for the purposes of servicing you in relation to products and services offered to you;   
+(vi)    resolve complaints and handle requests and enquiries;   
+(vii)    conduct market research for statistical, profiling and statistical analysis for the improvement of services provided to you;  
+(viii)    provide membership services to you; and   
+(ix)    process your Personal Data in relation to any of the purposes stated above. 
 
-(a)  If you are an individual using the products or services of Ascott, or an employee of an organisation which is a customer of Ascott (for products and services relating to, without limitation, our serviced apartments (“ **Products and Services** ”), Ascott may collect, use, duplicate, transfer and disclose your Personal Data for the purpose of providing you with the Products and Services which you have requested, facilitating the daily operation of the Products and Services (including but not limited to billing, customer service and customer verification), providing membership services to you when you sign up as an Ascott Online Advantage member, enforcement of repayment obligations, credit and internal risk management. We may also analyse your use of our Products and Services so as to help us improve, review, develop and efficiently manage the Products and Services offered to you and purposes which are reasonably related to the aforesaid.
+b)   **  If you download or use any of our mobile applications (apps):**
 
-(b)  If you are an employee, officer or owner of an external service provider or vendor outsourced or prospected by Ascott, we may collect, use, duplicate, transfer or disclose your Personal Data for the purposes of managing project tenders or the supply of goods and services, processing and payment of vendor invoices and purposes which are reasonably related to the aforesaid.
+  (i)    process your application for subscription services if they are provided in the apps;   
+(ii)    maintain your account with us;   
+(iii)    verify and process your personal particulars and process payment requests in relation to provision of goods and services connected to the app;   
+(iv)    provide you with the goods and services which you have signed up for;  
+(v)    communicate with you changes and development to our policies, terms and conditions and other administrative information, including for the purposes of servicing you in relation to products and services offered to you;   
+(vi)    resolve complaints and handling requests and enquiries;   
+(vii)    conduct market research for statistical, profiling and statistical analysis for the improvement of services provided to you; and  
+(viii)    process your Personal Data in relation to any of the purposes stated above. 
 
-(c)  If you submit an application to us as a candidate for an employment position, and have consented explicitly when submitting your application we may collect, use, duplicate, transfer or disclose your Personal Data for the purposes of conducting interviews and assessing your suitability for the position applied for, processing your application which includes pre-recruitment checks and background screening, providing or obtaining employee references, processing staff referrals and any other purposes relating to any of the above;
+c)     **If you are a resident at one of our serviced apartments or hotels, or an employee or an organisation which is a customer of our serviced apartments or hotels:  **
 
-3.6  Like most businesses, marketing is important to our business' success. We may therefore, from time to time, send you marketing and promotional material in relation to Products and Services (including but not limited to our enewsletter) or products and services of our marketing partners which we believe may be of interest to you, subject to the consent provided by you, whether you are a current or prospective customer. We may also collect, use, duplicate, transfer and disclose your Personal Data for the following “ **Ascott Additional Purposes** ”:
+(i)    conduct due diligence checks;  
+(ii)    establish user profiles to improve services and for marketing purposes;  
+(iii)    meet quality assurance, employee training and performance evaluation purposes;  
+(iv)    maintain the client relationship;  
+(v)    prepare lease documentation and any other documents as may be required;   
+(vi)    perform administration of the lease;  
+(vii)    perform financial transactions such as payments for the period of stay, and enforce repayment obligations, credit and internal risk management;  
+(viii)    communicate with you changes and development to our policies, terms and conditions and other administrative information, and   
+(ix)    any other purpose related to any of the above. 
 
-(i)  conducting market research and surveys to enable us to understand and determine customer location, preferences and demographics to develop special offers and marketing programmes in relation to Ascott's Products and Services;
+d)   **  If you are a shareholder or unitholder of our shares (including units in Ascott Residence Trust): **
 
-(ii)  leads generation and management for marketing Ascott's Products and Services;
+(i)    administer the relationship, including the verification of your identity and/or the identity of your proxy (as may be applicable);   
+(ii)    inform you of our performance and the products and services that we provide to our customers through the sending of circulars, reports, newsletters and communications;   
+(iii)    communicate with you changes and development to our policies, terms and conditions and other administrative information; and   
+(iv)    any other purpose related to any of the above.
 
-(iii) providing and/or marketing or offering other Products and Services and benefits to you, including promotions, loyalty and reward programmes from Ascott;
+e)   **  If you are a vendor, a prospective vendor or a contractor: **
 
-(iv)  administering contests, competitions and marketing campaigns or organising promotional events and corporate social responsibility projects; and
+(i)    evaluate your proposal and to conduct background checks on you;   
+(ii)    communicate with your deployed staff, after award of contract, who are in our properties to carry out work or services, and for any emergency or/and security concerns; and   
+(iii)    any other purpose related to any of the above. 
 
-(v)  purposes which are reasonably related to the aforesaid,
+f)     **If you submit an application to us as a candidate for employment:**
 
-in each case described in this paragraph 3.6, we will only send you marketing and promotional material where such practice is in accordance with applicable laws and, where required under applicable laws, with your prior express consent.
+(i)    process your application including pre-recruitment checks;   
+(ii)    provide or to obtain references for background screening/vetting;   
+(iii)    collect information about your suitability for the position applied for;   
+(iv)    organise training and staff development programs;    
+(v)    assess your performance;   
+(vi)    administer benefits and payroll processing;   
+(vii)    provide you with tools to facilitate or as required for you to do your job;   
+(viii)    communicate with you to comply with our policies and processes, including for business continuity purposes; and   
+(ix)    any other purposes related to the aforesaid.
 
-3.7  If you are receiving promotional information from us or your Personal Data is otherwise being used for Ascott Additional Purposes and you no longer wish to receive such information, or to have your Personal Data used or disclosed for these Ascott Additional Purposes, please see paragraph 8 below for more information.
+g)     **If you are an existing employee, CapitaLand Group’s Employee Personal Data Protection Policy would also apply to you.**
 
-3.8  If you have provided us with your telephone number(s) and have indicated your consent to receiving marketing or promotional information via your telephone number(s), then from time to time, Ascott may contact you using such telephone number(s) (including via voice calls, text, fax or other means) with information about our Products and Services.
+3.5.    The above purposes are not exhaustive, and depending on the nature of your relationship with us (for example, if you are a member of Ascott Online Advantage), we may collect, use and disclose your Personal Data for additional purposes which you will be notified of, in accordance with applicable terms and conditions.
 
-3.9  In relation to particular Products and Services or in your interactions with us, we may also have specifically notified you of other purposes for which we collect, use, duplicate, transfer or disclose your Personal Data. If so, upon obtaining your consent in accordance with applicable laws, we will collect, use, duplicate, transfer and disclose your Personal Data for these additional purposes as well, unless we have specifically notified you otherwise.
+   3.6.    When you apply for or hold a co-brand product which is offered jointly by us and our co-brand partner(s), we may also collect, use and disclose your Personal Data for the purpose of sharing your Personal Data with the co-brand partners for offering, marketing and promoting to you any products, services, offers or events which the co-brand partner thinks may be of interest to you.  We will only share your Personal Data with the co-brand partners where permitted by applicable law.
 
-4\.   **Disclosure of Personal Data**
+3.7.    Where you have provided us with specific consents, we may also use and disclose your Personal Data for the following purposes: 
 
-4.1  Ascott will take reasonable steps using administrative, technical and physical safeguards to protect your Personal Data against unauthorised access, modification, alteration, distortion, damage or disclosure. In carrying out our business, it may be necessary to share information about you with and between our related corporations and third party service providers. Some of these related corporations and third party service providers may be located in countries outside Singapore or the European Economic Area that may not afford an adequate protection to personal data or have protections in place which are similar to those in your country of residence. However, Ascott will take reasonable steps to ensure that your Personal Data transmitted outside of your country of residence is adequately protected.
+a)    providing services and extending benefits to you, including promotions, loyalty and reward programmes, sending you industry market updates (e.g. in real estate), newsletters (e.g. on property) and other information on our products, services, offers or promotions which may be of interest to you and conducting market research to develop special offers, promotional and/or marketing programmes; and  
+b)    administering contests, competitions and conducting lucky draws, including, where necessary, announcing the results of these contests, competitions and lucky draws and identifying and contacting the winners.
 
-4.2  Subject to the provisions of any applicable law, your Personal Data may be disclosed, for the purposes listed above (where applicable), to the following parties (whether inside or outside the country in which your Personal Data was originally collected), who will each be subject to a duty to keep your Personal Data confidential (subject to any applicable laws or regulations or orders issued by a court or regulatory authority of competent jurisdiction):
+3.8.    In relation to particular products or services or in your interactions with us, we may also notify or have specifically notified you of other purposes for which we collect, use or disclose your Personal Data. If so, we will collect, use and disclose your Personal Data for these additional purposes as well, unless we have specifically notified you otherwise.
 
-(a)  Ascott’s related corporations, affiliates and third parties to provide Products and Services to you, address your questions and requests in relation to your billing arrangements with us as well as our Products and Services, to maintain and operate our systems and/or services;
+3.9.    Your Personal Data will be protected and kept confidential, but subject to the provisions of any applicable law, your Personal Data may, depending on the products or services concerned, be disclosed to third parties set out below. Such disclosure may be subject to additional legal requirements under applicable law, depending on the nature of such transfer to third parties. Your Personal Data will, in each case, only be disclosed to the extent necessary and proportionate.
 
-(b)  companies providing services relating to insurance and consultancy to Ascott;
+The third parties are: 
 
-(c)  agents, contractors or third party service providers who provide operational services to Ascott, such as courier services, telecommunications, information technology, payment, printing, billing, payroll, processing, technical services, training, market research, call centre, security or other services to Ascott;
+a)    other divisions or entities within the CapitaLand Group;   
+b)    our joint venture/ alliance partners;  
+c)    our agents, contractors, third party service providers and specialist advisers who have been contracted to provide us with administrative, financial, research, operational or other services in pursuance of the purposes set out in this Policy, such as telecommunications, information technology, payment, payroll, processing, training, market research, storage and archival;   
+d)    any third party business partners who offer goods and services or sponsor contests or other promotional programmes, whether in conjunction with us or not, and where permitted by applicable laws;   
+e)    insurers or insurance investigators and credit providers;   
+f)    the Credit Bureau, or in the event of default or disputes, any debt collection agencies or dispute resolution centres;   
+g)    any business partner, investor, assignee or transferee (actual or prospective) to facilitate business asset transactions (which may extend to any merger, acquisition or asset sale) involving the CapitaLand Group;   
+h)    our professional advisors such as our auditors and lawyers;   
+i)    relevant government regulators or authority or law enforcement agency to comply with any laws or rules and regulations imposed by any governmental authority;   
+j)    anyone to whom we transfer or may transfer our rights and obligations, including, for example, where we obtain the services of a third party organisation to handle any aspect of the processing of your Personal Data for the purposes notified to you in accordance with this Policy;   
+k)    banks, credit card companies and their respective service providers; and   
+l)    any other party as may be consented to by you, as specified by you or as may be notified to you by us in subsequent notices.
 
-(d)  vendors or third party service providers in connection with marketing promotions and services offered by Ascott, subject to and in accordance with the prior express consent provided by you;
+In the event that your Personal Data is shared with a third party that acts with a member of the Ascott Group as joint controllers under GDPR, we will, to the extent required by law, provide you with additional information on the responsibilities of each joint controller, any particular means by which you can enforce your rights and the primary contact person for such requests in relation to your rights.
 
-(e)  any investor, assignee or transferee (actual or prospective) to facilitate business asset transactions (which may extend to any merger, acquisition or asset sale) involving any of our group companies;
+3.10    We require that organisations outside the Ascott Group which handle or obtain Personal Data as service providers to us acknowledge the confidentiality of this data, undertake to respect any individual's right to privacy and comply with the PDPA, the GDPR and any other applicable data protection laws. As a requirement under these laws, we may be required to have specific agreements in place with such third parties to regulate and safeguard your data protection rights. We also require that these organisations use this information only for our purposes and follow our directions with respect to this information. 
 
-(f)   collection and repossession agencies in relation to the enforcement of repayment obligations for debts;
+**4.      _Transfer of Personal Data_**
 
-(g)  external banks, credit card companies and their respective service providers for the purposes of processing payments made by or to you;
+4.1    Your Personal Data may be stored in external servers located overseas. In addition, as described above, in carrying out our business, it may be necessary to share information about you with and between our related corporations and third party service providers, some of which may be located in countries outside your country of residence. Such countries may not afford a standard of protection similar to those in your country of residence. However, we will take reasonable steps to ensure that your Personal Data transmitted outside of your country of residence is adequately protected. In addition, we will ensure that such transfers comply with the requirements of the applicable data protection laws.
 
-(h)  our professional advisers such as auditors and lawyers;
+4.2    In respect of our activities in EU, where your Personal Data is transferred to locations outside the European Economic Area, we have entered into a special type of contract (called European Commission Model Contractual Clauses) with the recipients of your Personal Data to ensure that they will provide adequate levels of protection for your Personal Data. If you wish, you may request for more information about the transfers of your Personal Data and/or a copy of the European Commission Model Contractual Clauses by contacting the relevant Data Protection Officer at the contact details provided in paragraph 12.1 below. 
 
-(i)   relevant government regulators, statutory boards or authorities or law enforcement agencies to comply with any laws, rules, guidelines and regulations or schemes imposed by any governmental authority; and
+**5.      _Retention of Personal Data_**
 
-(j)  any other party to whom you authorise us to disclose your Personal Data to.
+5.1    We may retain your Personal Data for as long as it is necessary for the purposes it has been collected, and (i) in most cases, up to 7 years; or (ii) in respect of our activities in the EU, up to 10 years, unless otherwise permitted by applicable law or in order to defend legal claims. Where we no longer require your Personal Data for those purposes, we will cease to retain such Personal Data in accordance with our internal retention policy.
 
-For avoidance of doubt, reference to any organizations or entities in this Section means reference to the organizations or entities and their representatives, employees, agents and advisors.
+**6.      _Your Rights_**
 
-5\.   **Use of Cookies**
+6.1    You have the following rights, under applicable data protection laws (except where the exercise of these are restricted under applicable laws – for example, due to judicial proceedings or the carrying out of investigations), which can be exercised by contacting the relevant Data Protection Officer at the contact details provided in paragraph 12.1 below:   
+(a)    you have the right to obtain from us confirmation as to whether or not your Personal Data is being processed and to request a copy of your information. Where legally required, we can provide your information in an easily accessible format and assist in transferring some of this information to third parties;  
+(b)    you are entitled to rectification of your Personal Data. We endeavour to ensure that all Personal Data we have about you is accurate and up-to-date. We understand that this information changes frequently with changes of address and other personal circumstances. We encourage you to contact us as soon as possible to enable us to update any Personal Data we have about you. Incomplete or outdated Personal Data may result in our inability to provide you with products and services you have requested;  
+(c)    in certain circumstances, you have the right to request to have your Personal Data deleted or the processing of which restricted;  
+(d)    if we process your information based on our legitimate interests explained above, or in the public interest, you can object to this processing in certain circumstances. In such cases, we will cease processing your information unless we have compelling legitimate grounds to continue processing or where it is necessary for legal reasons. Where we use your data for direct marketing purposes, you can always object using the unsubscribe link in such communications or by contacting us at the details below;  
+(e)    to prevent any processing of Personal Data that is causing or is likely to cause unwarranted and substantial damage or distress to you or another individual;  
+(f)    to be informed about any use of your Personal Data to make automated decisions about you where such decisions produce legal effects or have similarly significant effects on you, and to obtain meaningful information about the logic involved, as well as the significance and the envisaged consequences of this processing; and   
+(g)    to lodge a complaint about the way in which your Personal Data is being used to a supervisory authority.
 
-5.1  Our use of cookies on our websites is governed by our Cookie Policy set out here. By using, accessing or browsing our websites, you are consenting to our use of cookies in accordance with this Cookie Policy. This Cookie Policy may be updated from time to time and we will provide notice on website of such updates. It is your responsibility to check back regularly for updates to the same.
+6.2    Where we rely on your consent to use your Personal Data, you have the right to withdraw that consent at any time.   
+If you withdraw your consent to any or all purposes and depending on the nature of your request, we may not be in a position to continue to provide our products or services to you. Please note, however, that if you have provided us consent in respect of the use of your Singapore telephone number(s) for receiving marketing or promotional information, any such consent provided will not be affected by your withdrawal of your other consent in accordance with the terms set out in this Policy.  If you do not wish for your Singapore telephone number(s) to be used for receiving marketing or promotional information, please contact the relevant Data Protection Officer and specify that you wish to withdraw your consent for such purpose.
 
-5.2  If you do not agree to our use of cookies as set out in this Cookie Policy, you should delete or disable the cookies associated with our website by changing the settings on your browser accordingly. Please refer to paragraph 5.10 below for more information on how to configure or disable cookies in each browser. However, you may not be able to enter or use certain part(s) of our websites, and some of the functions and services may not be able to function without cookies. This may also impact your user experience while on our websites.
+6.3    Where mandated under the applicable data protection laws, your exercise of the rights described or referred to above shall be free of charge. In all other situations, we may charge a fee to cover the cost of verifying the request and locating, retrieving and copying any material requested. 
 
-5.3  What are Cookies: A cookie is a small file containing a string of characters that is sent to your computer when you visit our websites for record keeping purposes. Cookies are stored in your browser’s file directory, and the next time you visit the website, your browser will read the cookie and relay the information back to the website or element that originally set the cookie. Depending on the type of cookie it is, cookies may store user preferences and other information.
+6.4    If you want to exercise any of your rights or if you wish to raise a complaint on how Ascott Group has handled your Personal Data, you may contact the relevant Data Protection Officer at the contact details provided in paragraph 12.1 below.
 
-5.4  Which cookies are used on our website?
+**7.      _Management and Security_**
 
-The information below explains the cookies we use on our website and why we use them:
+7.1    We have appointed Data Protection Officers to oversee our management of your Personal Data in accordance with this Policy and the applicable data protections law. We train our employees who handle your Personal Data to respect the confidentiality of your Personal Data, and we regard breaches of all applicable data protection laws very seriously.
 
-Cookie
+**8.      _Cookie Policy_  **
 
-| 
+8.1    Please see our [_Cookie Policy_](https://www.citadines.com/cookie-policy.html) for more details. 
 
-Name
+**9.      _Third-Party Sites  _**
 
-| 
+9.1    Our website may contain links to other websites operated by third parties, such as our business partners. We are not responsible for the privacy practices of websites operated by third parties that are linked to our website, unless that is a mandatory requirement by applicable data protection laws and regulations. We encourage you to learn about the privacy policies of such third parties. Once you have left our website, you should check the applicable privacy policy of such third parties at their respective websites to determine how they will handle any information they collect from you. 
 
-Purpose  
+**10.          _Third Party Modules_**
+
+10.1    Our website uses the Google Maps API from Google Inc (“Google”). For more information about the privacy practices of Google, please see Google’s Privacy Policy available at [_https://www.google.com/policies/privacy_](https://www.google.com/policies/privacy) or such other URL as Google may provide from time to time. Subject to the requirements of applicable data protection laws, by using our website and/or such functionality built into the website, you agree that Google’s Privacy Policy and this Policy shall apply to the collection, use and disclosure of your Personal Data by Google and Ascott respectively. 
+
+**11.      _Telemarketing Policy  _**
+
+11.1     This section outlines our telemarketing policy which relates only to individual users of Singapore telephone numbers and was developed to comply with the Do Not Call (“DNC”) provisions under the PDPA. Our telemarketing policy applies to the Ascott Group unless we have notified you otherwise in writing.
+
+11.2    We aim to comply with the DNC provisions and your choices to receive promotional and marketing messages:
+
+a)    If you have registered your Singapore telephone number with the relevant Singapore DNC registers, we will not send you promotional and marketing messages via SMS, fax, calls and other means (as applicable) to your telephone number.  
+b)    However, if you have previously consented to our sending you such messages to your Singapore telephone number(s), we will continue to do so until you withdraw such consent, regardless of your DNC nominations.  
+c)    Also, if you currently have an existing, ongoing relationship with us, depending on the nature of that relationship, we may continue to send you promotional or marketing messages via SMS or fax about products and services which are related to that ongoing relationship notwithstanding your registration with the DNC Registry, unless you opt-out of receiving such messages.
+
+**12.      _How to contact us_**
+
+12.1      If you have any questions about this Policy or any queries relating to your Personal Data, or you would like to obtain access and/or make corrections to your Personal Data records, please contact the relevant Data Protection Officers:
+
+_All countries (except EU and Georgia)_
+
+**Name:** Dr Freddie Tan, Group Data Protection Officer, CapitaLand Limited
+
+**Email:**  [ _ascottdpo@the-ascott.com_](mailto:ascottdpo@the-ascott.com)
+
+**Number:** +65 6713 2705
+
+_EU and Georgia_
+
+For individuals residing in the EU (except Germany) and Georgia, please contact the Data Protection Officer below:
+
+**Name:** Philippe De L’Espinay
+
+**Email:**[data.protection@the-ascott.com](mailto:data.protection@the-ascott.com)
+
+**Number:** +33 1 4105 7879
+
+For residents residing in Germany, please contact the Data Protection Officer below: 
+
+**Name:** Marc Sandfort
+
+**Email:**[data.protection@the-ascott.com](mailto:data.protection@the-ascott.com)
+
+**Number:** +44 7442 505 687
+
+Please provide your full name, contact details and the name of the property(s) you stayed at so that we can assist you appropriately.
+
+**13.      _Governing Law_**
+
+13.1     This Policy and your use of this website shall be governed in all respects by the laws of Singapore. 
+
+For the avoidance of doubt, the applicable data protection laws will apply to the processing of your Personal Data. 
+
+**14.      _Review of this Policy_**
+
+14.1     This Policy will be reviewed from time to time by us. We may also from time to time update this Policy to take account of new laws and technology, changes to our operations and practices and the changing business environment. If you are unsure whether you are reading the most current version, please contact us. 
+
+14.2     In the event of any inconsistencies between the English version and other translations of this Policy, the English version shall prevail.
+
   
----|---|---  
-  
-Google Analytics
-
-| 
-
-_utma  
-_utmb  
-_utmc  
-_utmz
-
-| 
-
-These cookies are used to collect information about how visitors use our Site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.  
-[Click here for an overview of privacy at Google](http://www.google.co.uk/intl/en/analytics/privacyoverview.html "External link")  
-  
-Session cookies
-
-|  | 
-
-These cookies are used to make the websites easier for you to use, and to enable you to navigate from page to page within each website more easily.
-
-These cookies are automatically deleted once you close your browser.  
-  
-Unique third-party persistent cookies, clear gifs or beacon gifs
-
-|  | 
-
-These cookies do not collect personally identifiable information on you. The information collected via these cookies are used to build profiles of different types of users in order to better tailor our products and services to each profiled group of visitors.  
-  
-5.5  What do we use cookies for?
-
-(a)  We use cookies to track information such as the number of users and their frequency of use, profiles of users and their preferred sites.
-
-(b)  We use cookies to make the websites easier to use and to better tailor our products and services to your interests and needs. Cookies may also be used to help speed up your future activities and experience on our websites.
-
-(c)  When you interact with us on our websites, we may collect for the purposes of analysis statistical information from which individuals cannot be identified (“ **Aggregate Information** ”), such as number of users, their frequency of use, the number of page views (or page impressions) that occur on the websites and common entry and exit points into and out of the websites.
-
-(d)  We use such statistical information to understand how people use our websites and to help us improve their structure and contents. We cannot identify you personally from this information.
-
-(e)  We may use cookies that are necessary in order to enable our websites to operate, for example, cookies that enable you to log onto secure parts of our websites.
-
-(f)  We use cookies to track you as you navigate the websites and to enable the use of any e-commerce facilities.
-
-(g)  We use cookies to personalise the website for you, including targeting advertisements which may be of particular interest to you.
-
-5.6  In addition to the cookies described above, we may also use other cookies on our website in future. These additional cookies will generally be used for the purposes described above. If the additional cookies are used for other purposes, or to collect other types of data, or provide new functionality, this section on cookies will be updated accordingly.
-
-5.7  As we use Google Analytics on the website, a service provided by Google Inc, you should also review the Google Analytics security and privacy principles available at <https://support.google.com/analytics/answer/6004245?hl=en>. We use Google Analytics cookies to collect information about how visitors use our websites and the total number of times a visitor has been into our website. We use the information to improve the website and enhance the experience of our online visitors. You can, at any time, opt-out from the use of Google Analytics by either changing the settings on your browser accordingly or by clicking at the following link: <https://tools.google.com/dlpage/gaoptout?hl=en>
-
-5.8  We use the cookies of third party social networking platforms and websites to enable you to interact with these platforms and websites to share information about our websites through them (e.g. through "Like" or "Share" buttons or through comment boxes, etc.). The social networking platforms in question will have access and use the information in these cookies for their own purposes and we invite you to consult their respective privacy and cookie policies.
-
-5.9  Information stored in cookies on the website is used exclusively by Ascott, except the one saved by Google Analytics, which is used and maintained by Google and Ascott, for statistical purposes. Our third party ad-servers, if any, may also use the information stored in the cookies to customise your website experience. We do not have any direct control over the content of these adverts.
-
-5.10  The way which cookies can be managed depends on your browser. The following links provide information on how to configure or disable cookies in each browser:
-
-  * Google Chrome: <https://support.google.com/chrome/answer/95647?hl=en>
-  * Mozilla Firefox: <https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences>
-  * Internet Explorer: <http://windows.microsoft.com/en-SG/internet-explorer/delete-manage-cookies#ie=ie-9>
-  * Safari: <http://support.apple.com/kb/HT1677?utm_source=Agillic%20Dialogue>
-  * Safari for iPhone: <http://support.apple.com/kb/ta38619>
-  * Chrome for Android: <https://support.google.com/chrome/answer/2392971?hl=en>
-
-
-
-6\.   **Term of retention of your Personal Data**
-
-6.1  We will retain your information for a term which shall not exceed the time strictly necessary for the purposes set out in this Policy, or for our legal or business purposes. In any case, such retention will not exceed five (5) years after the last contact between you and us, unless you continue to have a subsisting relationship with us as an Ascott Online Advantage member or subscriber of our enewsletters.
-
-7\.   **Third-Party Sites**
-
-7.1  Our website may contain links to other websites operated by third parties, such as our business partners. We are not responsible for the privacy practices of websites operated by third parties that are linked to our website. We encourage you to learn about the privacy policies of such third party websites. Once you have left our website, you should check the applicable privacy policy of the third party website to determine how they will handle any information they collect from you.
-
-8\.   **Your rights - Contacting Us – Withdrawal of Consent, Access and Correction of your Personal Data**
-
-8.1  In accordance with applicable law, you have a right to access, update, rectify and modify the Personal Data we have about you which is held by us. You also have a right to oppose, for legitimate grounds, to the processing of your information, including objecting to the processing of user profiles or to the use of your Personal Data for marketing purposes. Should you oppose to the processing of your information for legitimate grounds, you understand that we may not be able to provide you with the Products and Services.
-
-8.2  If you:
-
-(a)  have any questions or feedback relating to your Personal Data or our Policy;  or
-
-(b)  would like to exercise any of the rights set out in this paragraph 8.1;
-
-please contact Ascott as follows:
-
-**Email** :   [ascottdpo@the-ascott.com](mailto:ascottdpo@the-ascott.com)
-
-**Call** :      (65) 6736 9789
-
-**Write in** : Data Protection Officer
-
-168 Robinson Road, #30-01, Capital Tower, Singapore 068912
-
-(when writing in, please enclose your full name and your passport / identification number so that we can identify you)
-
-(c)  are an Ascott Online Advantage member or a subscriber of our newsletters, you will also have the option to correct your profile data online;
-
-(d)  are an Ascott Online Advantage member, you will have the option of deactivating your account online;
-
-(e)  wish to unsubscribe from our mailing list, you may use our unsubscription form available at our websites, namely [www.the-ascott.com](http://www.the-ascott.com/), [www.citadines.com](http://www.citadines.com/)and [www.somerset.com](http://www.somerset.com/). If submitting a formal request to unsubscribe from our mailing list through email, please include “Unsubscribe” in the subject title of your email.
-
-8.3  Please note that if your Personal Data has been provided to us by a third party (e.g. a referrer, or your company), you should contact that organisation or individual to make such queries, complaints, and access and correction requests to Ascott on your behalf.
-
-9\.   **Ascott’s Telemarketing Policy for Individual Users of Singapore Telephone Numbers**
-
-9.1  Ascott’s Telemarketing Policy relates only to individual users of Singapore telephone numbers and was developed to comply with the Do Not Call (“ **DNC** ”) provisions under Singapore’s Personal Data Protection Act 2012 (“ **PDPA** ”). Our Telemarketing Policy for Singapore Telephone Numbers applies to Ascott and our related corporations unless we have notified you otherwise in writing.
-
-9.2  From 2 January 2014, the DNC provisions introduce certain changes to the way in which businesses may send you promotional and marketing messages via SMS, fax, calls and other means using your Singapore telephone number(s). These are messages sent to you with the intention of or advertising, promoting or offering to provide goods or services, interests in land, business or investment opportunities or advertising or promoting the supplier or provider of the aforesaid.
-
-These changes will however generally not affect businesses sending other types of messages to you using Singapore telephone number(s) such as informational and service related messages, messages that are for business to business marketing, market survey/research or which promote charitable or religious causes, and personal messages sent by individuals.
-
-For more information, please visit the website [Do Not Call Registry & You](http://www.dnc.gov.sg/).
-
-9.3  Ascott aims to comply with the DNC provisions and respects your choices to receive promotional and marketing messages:
-
-  * If you have registered your Singapore telephone number with the Singapore Do Not Call (DNC) registry, we will not send you promotional and marketing messages via SMS, fax, calls and other means to your telephone number.
-  * However, if you have previously consented to our sending you such messages to your Singapore telephone number(s), we will continue to do so until you withdraw such consent.
-
-
-
-9.4  The Data Protection Officer shall oversee our compliance with the DNC provisions and the rest of the PDPA. Should you have any feedback or enquiries on our compliance with the DNC provisions or you would like to manage how we may send promotional or marketing messages via your Singapore telephone number, please contact our Data Protection Officer via the methods set out in paragraph 8 above.
-
-10\.   **Governing Law**
-
-10.1  This Privacy Policy and your use of this website shall be governed in all respects by the laws of Singapore.
-
-11\.   **Notices and revision**
-
-11.1  Ascott may from time to time modify, update / change this Policy to ensure that this Policy is consistent with our future developments, industry trends and/or any changes in legal or regulatory requirements. Subject to your rights at law, you agree to be bound by the prevailing terms of the Policy as updated from time to time on our website. Please check back regularly for updated information on the handling of your Personal Data. If we make any material changes in the way we collect, use, and/or share your Personal Data, we will notify you by posting notice of the changes on the website.
-
-11.2  In the event of any inconsistencies between the English version and other translations of this Policy, the English version shall prevail.
+**Posted as of 21 May 2018**
