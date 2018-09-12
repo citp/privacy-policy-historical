@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ninewest.com privacy policy that was archived on 2018-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180512191940id_/http%3A//www.ninewest.com/Privacy/PRIVACY%2Cdefault%2Cpg.html%3Fep_tag%3DZT_subfooter%253aprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ninewest.com privacy policy that was archived on 2018-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180913014352id_/http%3A//www.ninewest.com/Privacy/PRIVACY%2Cdefault%2Cpg.html%3Fep_tag%3DZT_subfooter%253aprivacy) for the most accurate reproduction.*
 
 # Privacy Policy | Nine West
 
