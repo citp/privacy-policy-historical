@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthdirect.gov.au privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319074931id_/https%3A//www.healthdirect.gov.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthdirect.gov.au privacy policy that was archived on 2018-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180912065616id_/https%3A//www.healthdirect.gov.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | healthdirect
 
