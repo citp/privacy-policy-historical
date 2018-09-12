@@ -1,100 +1,111 @@
-> *The following text is extracted and transformed from the vps.ag privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226224735id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vps.ag privacy policy that was archived on 2018-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180912131650id_/https%3A//vps.ag/privacy.php) for the most accurate reproduction.*
 
-# Legal Agreement
+# VPS.AG - Terms and conditions
 
-**Go Daddy Respects Your Privacy**
+### PRIVACY POLICY
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Your privacy is important to Belcloud Hosting Corporation (“Belcloud”), therefore Belcloud takes great care in handling the personal data of its customers in order to protect customer privacy. Belcloud believes you should know what information they collect from you, as well as how that information is used, disclosed, and protected. Belcloud has created this Privacy Statement to explain their privacy practices and policies. This statement does not cover data hosted, transmitted or processed on infrastructure leased from Belcloud by its customers. The customer leasing Belcloud services will be responsible for the personal data processing, acting as a data controller. If at any time Belcloud has access to personal data stored on infrastructure leased from Belcloud, Belcloud shall be the data processor, and any actions performed by Belcloud in relation to such data shall be solely governed by the agreement concluded between Belcloud’s customer and Belcloud.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Belcloud will not sell or disclose your personal information to unaffiliated third parties without your consent except as otherwise provided in this statement or our General Terms and Conditions of Sale and Services, and Acceptable Use Policy.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+By using Belcloud websites, products and services you agree and give consent to the terms set out in this Privacy Statement.
 
-**Information Collection and Use**
+This Privacy Statement was most recently changed on 24th of May 2018.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+#### **Belcloud MAY COLLECT YOUR DATA WHEN**
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+  * You order a product or service from Belcloud;
+  * You participate in a Belcloud survey;
+  * You subscribe to a Belcloud newsletter;
+  * You ask Belcloud for information about a Belcloud service, or contact Belcloud with a question, comment or complaint;
+  * You submit an abuse notification to Belcloud.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+In addition, Belcloud may collect data about you from fraud‐prevention agencies, referral partners, business directories and credit reference agencies.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Belcloud does not intentionally collect information from children under the age of 16.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+#### **Belcloud MAY COLLECT THE FOLLOWING DATA ABOUT YOU**
 
-**Security**
+  * Your name, (business/private) address, phone number, date of birth, email address, personal identification numbers (including but limited to social security number), documents and information that certify your identity; 
+  * Your Belcloud account information – such as Belcloud products and services you ordered, your customer ID, service charges, and the use of Belcloud services; 
+  * Your IP address when placing an online order through Belcloud’s website. At the moment of securely entering your personal details and payment information; 
+  * Your contact with Belcloud – such as a note or recording of a call you make to Belcloud, a chat record when you engage in a chat session with Belcloud, an email or letter you send to Belcloud or other records of any contact you have with Belcloud; 
+  * Information about your payment methods, such as credit card number, bank account number or other banking information;
+  * Information provided by you to Belcloud when you notify Belcloud of a (suspected) breach of Belcloud’s Acceptable Use Policy;
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-**Updating Your Information**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+#### **PAYMENT INFORMATION**
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+Your payment transaction may be processed by one of our third-party payment vendors, ex: PayPal, CoinPayments, SafeCharge etc. These vendors are payment providers who can process your payment on behalf of Belcloud.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+#### **Belcloud MAY SHARE DATA ABOUT YOU WITH**
 
-      iii.      You may call us at: (480) 505-8800
+  * Partners or agents involved in delivering the services you’ve ordered with Belcloud;
+  * Debt collection agencies or other debt recovery organizations;
+  * Law enforcement agencies, regulatory organizations, courts or other public authorities to the extent required by law;
+  * A Belcloud customer, if you notify Belcloud that this customer use of Belcloud services violates the Belcloud’s Acceptable Use Policy or applicable law; 
+  * A third party that has claimed that your use of the Belcloud services violates the Belcloud’s Acceptable Use Policy or applicable law (to the extent such sharing is required by law). 
 
-       iv.      You may fax us at: (480) 505-8844
 
-**Sending Emails**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+#### **Belcloud MAY PROCESS YOUR DATA FOR THE FOLLOWING PURPOSES:**
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+  * Partners or agents involved in delivering the services you’ve ordered with Belcloud;
+  * Debt collection agencies or other debt recovery organizations;
+  * Law enforcement agencies, regulatory organizations, courts or other public authorities to the extent required by law;
+  * A Belcloud customer, if you notify Belcloud that this customer use of Belcloud services violates the Belcloud’s Acceptable Use Policy or applicable law; 
+  * A third party that has claimed that your use of the Belcloud services violates the Belcloud’s Acceptable Use Policy or applicable law (to the extent such sharing is required by law). 
 
-**Compliance with Laws and Law Enforcement**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-**Third Party Service Providers**
+#### **Belcloud MAY PROCESS YOUR DATA FOR THE FOLLOWING PURPOSES:**
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+  * Processing of orders and provision of products and services;
+  * Conducting market research, conducting retention and customer satisfaction surveys, conducting marketing (including social media) and sales activities; 
+  * Communicating with customers to provide information about services of Belcloud and affiliated companies, to provide information about offers, orders, provision of services, order status and payment, to provide support and maintenance services, to handle complaints, and to answer questions from (potential) customers; 
+  * Performing financial processes (including calculating, invoicing and collection of service charges), processing financial transactions regarding the acceptance of orders, checking solvency and granting debt collection rights to third parties; 
+  * Investigating and processing suspected violations of Belcloud’s Acceptable Use Policy;
+  * Ensuring the security of persons, goods, objects, and performing fraud detection;
+  * Conducting legal processes, including conducting legal proceedings, and collecting evidence for civil legal proceedings;
+  * Complying with statutory obligations, including the provision of data to authorized authorities in the context of criminal investigations, complying with (applicable) data retention obligations, and the provision to third parties of data concerning customers in connection with an infringement of these third parties’ rights. 
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-**Supplementation of Information**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+#### **COOKIES AND SIMILAR TECHNOLOGIES**
 
-**Contests/Surveys**
+A cookie is a small amount of information that our websites can store on your computer or any other device used. Your device provides this cookie when visiting the same website in the future. Cookies are used to enhance your experience with a website.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+Belcloud uses cookies to identify visitors and track visits to their websites, store login session information and remember your user preferences.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+Visitors can disable the storage of cookies in their web browser, but should be aware that doing so may affect the quality of the experience with a website.
 
-**Tell-A-Friend**
+#### **WHERE DOES Belcloud STORE YOUR PERSONAL DATA**
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+Personal data collected by Belcloud is stored and processed in a data center in Sofia, Bulgaria, being its primary and only location. Personal data collected by affiliates, service providers or payment providers of Belcloud may be stored and processed in any other country where they maintain facilities.
 
-**What Happens to my Personal Information if I Opt Out?**
+#### **HOW TO ACCESS AND CONTROL YOUR PERSONAL DATA**
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+You can view and edit part of your personally identifiable information by logging into the Profile Area of this website. 
 
-**Transfer of Data Abroad**
+If you cannot access certain personal data collected by Belcloud via the link above or directly through the Belcloud services you use, you can always contact Belcloud using the contact details listed below this statement. Belcloud will respond to requests to access (make available) or delete your personal data within 5 business days.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+You can choose whether you do not wish to receive promotional communications from Belcloud by email, physical mail and telephone, or marketing communications (e.g., news and updates) from Belcloud. You can exercise that right at any time by contacting admin[at]belcloud[dot]net.
 
-**Changes in Our Practices**
+#### **SECURITY AND SAFETY FEATURES**
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+Belcloud is committed to protecting the security of your personal data. We use a variety of security technologies and procedures to enable protecting your personal data from unauthorized access, use or disclosure. E.g., we store the personal data you provide on computer systems that have limited access and are in controlled facilities. When we transmit highly confidential data (such as a credit card number or password) over the Internet, we protect it through the use of encryption.
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+Belcloud is ISO/IEC 27001:2013 certified for Information Security Management and compliant with Payment Card Industry Data Security Standard (PCI DSS). These certifications help Belcloud ensure that they have enterprise- grade controls in place to protect customer information and payment data.
 
-**Contacting Our Site**
+#### **CHANGES TO THIS PRIVACY STATEMENT**
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+Belcloud will update this Privacy Statement when necessary to reflect customer feedback and changes in their products and services, or if changes in the law so require. Changes to this statement will be made at Belcloud’s sole discretion. When they post changes to this Privacy Statement, Belcloud will revise the “recently changed” date in introduction of the statement above and describe the changes in the announcement which is also made available on their website. Belcloud encourages you to periodically review this Privacy Statement to learn how it is protecting your data.
 
-* * *
+#### **HOW TO CONTACT US**
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+If you have a privacy concern, complaint, or question for the Data Protection Officer of Belcloud, please contact the DPO by sending an email to admin[at]belcloud[dot]net. The DPO will respond to the questions or concerns within 5 business days.
+
+Unless otherwise stated, Belcloud is a data controller for personal data it collects through the products and services it provides. Belcloud’s address is: Suite 9, Ansuya Estate, Revolution Avenue, Victoria, Seychelles. Email: admin[at]belcloud[dot]net.
