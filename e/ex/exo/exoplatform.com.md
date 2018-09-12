@@ -1,70 +1,69 @@
-> *The following text is extracted and transformed from the exoplatform.com privacy policy that was archived on 2016-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160115215638id_/https%3A//www.exoplatform.com/company/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exoplatform.com privacy policy that was archived on 2018-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180912205950id_/https%3A//www.exoplatform.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy, terms and conditions | eXo Platform
+# Privacy Policy - eXo Platform
 
-**What information do we collect?**
+eXo Platform SAS is a simplified joint stock company with capital of € 229,042.70 that is registered under company number 450 511 506 with Paris Register of Commerce and Companies. The company’s head office is at 4 rue d’Alleray 75015 Paris. Here, represented by its President, Mr Benjamin MESTRALLET (“ **eXo** ”) the company hereby commits to protecting the personal data of its Clients, visitors (“ **Users** ”) of its Websites, especially [www.exoplatform.com](https://www.exoplatform.com/) (“ **Websites** ”)
 
-We collect information from you when you register on our site, subscribe to our newsletter or fill out a form.
+By accessing and using the Websites, Users undertake to abide by and be bound by this Privacy Policy, which can be changed or updated at any time, without notice. Any modification or updates will be published online on the Website.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, company name, title/role, or other identifying or contact information. You may, however, visit our site anonymously.
+## **I. The nature of the personal data that is collected by eXo**
 
-**What do we use your information for?**
+eXo collects and processes the data that is provided voluntarily by Users in order to access or use the Websites, as well as data relating to Users’ preferences of users and traffic (such as IP addresses).
 
-Any of the information we collect from you may be used in one of the following ways:  
-\- To personalize your experience (your information helps us to better respond to your individual needs)  
-\- To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)  
-\- To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)  
-\- To send periodic emails 
+The purpose of this processing of data is to allow Users to access the Websites and use the services, improve services by placing cookies on Users' devices, maintain our customer relationship and engage in dialogue via the Live Chat, to provide a service that is adapted to Users’ requirements and inform them about our products and service offerings, to perform tasks related to sales solicitation, in particular by sending newsletters, telephone calls, for the preparation of sales statistics, for the sale, lease or exchange of its soliciting files, the updating of its solicitation files, the management of rights of access requests, rectification and opposition, the management of people’s opinions of the products and services.
 
-The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
+In some cases, Users could provide the following personal information as identification: name, email address, telephone number.
 
-**How do we protect your information?**
+eXo shall never collect or process personal data directly or indirectly concerning: race, health, sexual orientation, political or philosophical convictions or religious beliefs.
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+## **II. Data other than that of a personal nature**
 
-**Do we use cookies?**
+#### **2.1. Traffic**
 
-Yes. (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+Traffic data is generated when Users' devices connect to the Internet and, in isolation, is not sufficient to identify them. eXo may collect the following data: the origin of the connection, the type and the version of Internet browser that the User is using, the duration of the connection, etc. This data can be used for statistical purposes, to analyse traffic and improve websites. Traffic data is always processed anonymously. 
 
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+#### **2.2. Cookies**
 
-**Do we disclose any information to outside parties?**
+eXo places cookies on Users’ devices. Cookies are small files that contain, for example, traffic data and Users’ preferences.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+The cookies placed by eXo have the following purpose: “User authentication”, recording Users’ visits and their origin and offering a LiveChat.
 
-**California Online Privacy Protection Act Compliance**
+eXo uses the Google Analytics service (provided by Google Inc.) as a means of measuring audience reach, Mixpanel (provided by Mixpanel Inc.) and Smartlook (provided by Smartsupp.com, s.r.o) to collect the following data: the origin of connections (access providers), type and version of browser used, the language of the browser, duration of the connection, IP address, etc. and store cookies on Users’ devices in order to perform audience reach strategies. For further information, the Customer/Client or Users can consult the following sites: [www.google.com/intl/fr/policies/privacy/](http://www.google.com/intl/fr/policies/privacy/) , [Mixpanel.com/legal/dpa/](https://mixpanel.com/legal/dpa/) or [smartlook.com/documents/dpa.pdf](https://www.smartlook.com/documents/dpa.pdf)
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+Some partners of eXo can thus deposit cookies on the terminals of the Users: Google Analytics, Mixpanel and Smartlook for the purposes specified above as well as Marketo for the visits follow-up and the recording of the prospects, Intercom for the Live Chat, Pixel (Facebook) and Google Adwords for remarketing.
 
-**Childrens Online Privacy Protection Act Compliance**
+Cookies are required to navigate on the websites and must therefore be accepted by Users. Users can configure their browser to disable cookies or warn about them before accepting a cookie on the websites they visit. However, if Users disable cookies, they may not be able to use all the websites parts.
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+Cookies are valid for a period of thirteen (13) months. eXo will request a renewal of consent after this period
 
-**Online Privacy Policy Only**
+## **III. Processing of Users’ personal data**
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+eXo collects and processes Users’ personal data in a fair and lawful manner that respects the rights of Users. eXo is the entity responsible for the processing of Users’ personal data.
 
-**Terms and Conditions**
+## **IV. Storage of Users’ personal data**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.exoplatform.com
+#### **4\. 1. Security**
 
-**Your Consent**
+The personal data provided by Users is hosted by Salesforce, Google and Marketo, whose servers are located respectively in Dallas, South Carolina and San José in the United States
 
-By using our site, you consent to our web site privacy policy.
+eXo endeavours to make its best efforts to avoid any interference with Users’ personal data, such as the loss, diversion, intrusion, unauthorised disclosure, alteration or destruction of personal data.
 
-**Changes to our Privacy Policy**
+#### **4\. 2. Duration**
 
-If we decide to change our privacy policy, we will post those changes on this page.
+The personal data processed by eXo will be deleted no later than three years from the date of the last contact arising from solicitation for prospect/user, following an unsubscription of the newsletter or in connection with the community (eXo tribe)
 
-**Contacting Us**
+## **V. Transfer of Users’ personal data**
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
+eXo may transfer personal data to its subsidiary eXo MEA (which is located in Tunisia) for sales solicitation. eXo may transfer Users’ personal data if this so required by law or court order.
 
-[http://www.exoplatform.com/company/en/company/contact-us](https://web.archive.org/company/en/company/contact-us)  
-51 Federal Street Suite 305  
-San Francisco, CA 94107  
-USA  
-[info@exoplatform.com](mailto:info@exoplatform.com)  
-4155128000  
-This policy is powered by Trust Guard PCI compliance.  
+eXo may share Clients’/Customers’ or Users’ personal data with its trading partners, for the purpose of marketing, advertising or to offer products and services, including Marketo and Intercom. eXo may also share information in aggregated, anonymised form. Such information does not identify Users individually. 
 
+## **VI. Communications from eXo**
+
+eXo may send emails to Users at their email address for technical or administrative reasons, or to inform Users of the evolution of its services.
+
+## **VII. Exercise of the rights of Users**
+
+The Users have rights concerning access, modification and rectification, and opposition to processing and portability. Users can request the deletion of personal data that has been collected or processed by eXo, and to lodge a complaint with a supervisory authority control and define the directives relating to your digital legacy.
+
+Users are able to exercise these rights by writing to eXo at its postal address : 4 rue d’Alleray 75015 Paris or by visiting [data-privacy@exoplatform.com.](mailto:data-privacy@exoplatform.com)
