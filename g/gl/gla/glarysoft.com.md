@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the glarysoft.com privacy policy that was archived on 2018-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180218110054id_/https%3A//www.glarysoft.com/inf/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glarysoft.com privacy policy that was archived on 2018-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180912043109id_/https%3A//www.glarysoft.com/inf/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Glarysoft
 
 #### Glarysoft Privacy Policy
 
-##### Effective Date:February 8, 2018
+##### Effective Date: May 29, 2018
 
 Glarysoft Ltd. (''Glarysoft'') is committed to preserving the privacy of our users. We know how much you care about the way your Personal Data is used. In that regard, we have established for the Sites and/or Services the following privacy policy to explain and describe what personal information Glarysoft collects on our Sites and/or Services, how Glarysoft uses it and your options regarding information Glarysoft may collect about you. By accepting this Privacy Policy, you expressly consent to the information handling practices described in this Policy. This Privacy Policy is a part of and incorporated into Glarysoft's Terms of Use and End User License Agreements associated with its Sites and/or Services. 
 
@@ -102,7 +102,7 @@ MyCommerce have their own privacy policy which you can see at <https://www.mycom
 
 ##### Search
 
-Some of the web search services provided herein are provided by Trovi Search and powered by Trovi search partners. For information on the web search services data collection, please visit http://info.trovi.com/Privacy, and the search provider's privacy policy, as applicable.? 
+Some of the web search services provided herein are provided by Trovi Search and powered by Trovi search partners. For information on the web search services data collection, please visit http://info.trovi.com/Privacy, and the search provider's privacy policy, as applicable. 
 
 ##### Download
 
@@ -159,31 +159,49 @@ By using any third-party services to log in to your Glarysoft account or access 
 
 Glarysoft's content, including forums contests, products, services, newsletters and communications that we send to our users, may contain links to content provided by third-parties. For example, our communications may contain links to third-party merchants from whom you may purchase products. To purchase products from these third-party merchants, you may be required to provide Personal Information, including your credit card or other payment information. 
 
-##### 6\. Children Under 13
+##### 6\. Children Under 16
 
-We do not knowingly seek or collect Personal Information from users under the age of 13, except to the extent that Glarysoft may collect limited personal information from students (but not their email addresses), but only where that student's school or school district, has contracted with Glarysoft to collect the personal information from students for the educational context authorized by the school or school district. Children under 13 years old are not allowed to create an account without a parent's or guardian's express consent. We recommend that minors over the age of 13 ask their parents for permission before sending any information about themselves to anyone over the Internet. 
+We do not knowingly seek or collect Personal Information from users under the age of 16, except to the extent that Glarysoft may collect limited personal information from students (but not their email addresses), but only where that student's school or school district, has contracted with Glarysoft to collect the personal information from students for the educational context authorized by the school or school district. Children under 16 years old are not allowed to create an account without a parent's or guardian's express consent. We recommend that minors over the age of 16 ask their parents for permission before sending any information about themselves to anyone over the Internet. 
 
 We require schools or school districts to obtain parental or guardian consent from a student's parent or guardian before collecting any such student Personal Information. If you are a student, please do not send any Personal Information about yourself to us, other than what we request from you when you sign up for any of our Sites and/or Services. In the event that we learn that we have collected personal information from a student without parental or guardian consent being obtained by his or her school or school district, or if we learn a student has provided us Personal Information beyond what we request when he or she signs up for any of our Sites and/or Services, we will delete that information as quickly as possible. If you believe that a student may have provided us Personal Information beyond what is requested when signing up for any of our Sites and/or Services, or that a student's school or school district has not obtained parental or guardian consent, please contact us at [support@glarysoft.com](mailto:support@glarysoft.com). 
 
 Notwithstanding anything to the contrary contained in this Policy, if you are a student as described above, and your parent or guardian signed up for our Sites and/or Service with a password or access ID provided by your school, you understand that your parent or guardian may be able to view all information within or associated with your account, including, without limitation, messages between you and your teacher and grades you received on your assignment. 
 
-Users under 13 years of age who are not students as described above, your continued use of the Site and/or Service will be considered by Glarysoft as confirmation that your parent or guardian has expressly consented to the handling of your Personal Information as described in this Policy as further indicated in the opening paragraph of this Policy. 
+##### 7\. Notification in the event of a breach
 
-##### 7\. Changes and Updates to This Policy
+In the unlikely event of a breach in the security of personal data, we will notify all users who are actually or potentially affected. 
+
+We may tailor the method of notice depending on the circumstances. Where the only contact information that we have for you is an email address, then the notification will necessarily be by email. We may also elect to give you notice via our in-product messaging system. Where we believe there are affected users for which we have no contact information on file, we may give notice via publication on our company website. 
+
+We reserve the right to delay notification if we are asked to do so by law enforcement or other authorities, or if we believe that giving notice immediately will increase the risk of harm to our user body overall. 
+
+##### 8\. International Transfers of Your Personal Data
+
+We are a global business that provides its products and services all around the world. In order to reach all of our users and provide all of them with our software, we operate on an infrastructure that spans the globe. The servers that are part of this infrastructure may therefore be located in a country different than the one where you live. Regardless, we provide the same GDPR-level of protection to all personal data it processes. 
+
+At the same time, when we transfer personal data outside of the EEA, we always make sure to put in place appropriate and suitable safeguards, such as standardized contracts approved by the European Commission, which legally bind the receiving party to adhere to a high level of protection, and to ensure that your data remains safe and secure at all times and that your rights are protected. 
+
+Situations where we transfer personal data outside of the EEA include the provision of our products and services, processing of transactions and your payment details, and the provision of support services. 
+
+##### 9\. Data Protection Officer
+
+To protect user data security, we have a Data Protection Officer (DPO) to monitor our protection of user data, provide advice as required and cooperate with regulatory agencies. You can contact our data protection officer at [support@glarysoft.com](mailto:support@glarysoft.com). 
+
+##### 10\. Changes and Updates to This Policy
 
 We may update this Policy from time to time. If we do, we will update the "effective date" at the top of the Policy. If we make material changes to how we use Personal Information, we will attempt to notify you of the change and to give you the opportunity to exercise choice as to how your Personal Information is used. We will post the updated Policy on the affected Sites and/or Service, and if we have your email address, we will send notice of the update to that email address. 
 
 We encourage you to review this Policy periodically to stay informed about our collection, use, and disclosure of Personal Information. Your continued use of our Sites and/or Services or any other content, products or other services covered by this Policy constitutes your agreement to this Policy and any updates. 
 
-##### 8\. No Error Free Performance
+##### 11\. No Error Free Performance
 
 Glarysoft does not guarantee error-free performance under this Privacy Policy. Glarysoft will use reasonable efforts to comply with this Privacy Policy and will take prompt corrective action when Glarysoft learns of any failure to comply with our Privacy Policy. Glarysoft shall not be liable for any incidental, consequential or punitive damages relating to this Privacy Policy. 
 
-##### 9\. Installation of Glarysoft Software
+##### 12\. Installation of Glarysoft Software
 
 By installing Glarysoft software, you are agreeing to the Terms and Conditions contained in the EULA (end-user license agreement) that appears when you run the installation programs. Please refer to <https://www.glarysoft.com/inf/eula/> for more information. 
 
-##### 10\. Contact Us
+##### 13\. Contact Us
 
 Glarysoft regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or Glarysoft's treatment of personal information by contacting us through this website. If you have questions about this statement or believe that we have not adhered to it, please contact us. 
 
