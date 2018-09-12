@@ -1,76 +1,91 @@
-> *The following text is extracted and transformed from the thames-water.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509200231id_/http%3A//www.thameswater.co.uk/cps/rde/xchg/corp/hs.xsl/4444.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thames-water.com privacy policy that was archived on 2018-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180912203634id_/https%3A//www.thameswater.co.uk/Legal/Privacy%3Futm_source%3DFooter%26utm_campaign%3DFooter%2520links%2520-%2520Privacy) for the most accurate reproduction.*
 
-# Privacy policy - Thames Water
+# Privacy | Legal | Thames Water
 
-Last reviewed: 11.7.2011 - 8.17pm
+Smart Meters
 
-Thames Water is committed to protecting your privacy and complying with the Data Protection Act 1998. This policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  
+Customer Surveys
 
-In this privacy policy references to "we" and "us" are to Thames Water Ltd, Thames Water Utilities Ltd, and all subsidiary companies there of. 
+Property Searches
 
-## What information do we collect? 
+Developer Services
 
-We may collect store and process the following information that you provide to us via this website: 
+* * *
 
-  * Any personal details you submit to us such as name, address, email address etc. This includes information provided when you enter a competition or promotion; 
-  * Any information you provide to us when we ask you to complete surveys that we use for research purposes, although you do not have to respond to them; 
-  * Payment details in respect of payments that you make via this website including payment card details and other transaction details. Please note - we do not retain credit verification numbers (CVCs); 
-  * Opt in and opt out preferences that you provide to us via this website confirming whether you wish us (and selected third parties) to contact you with information and offers that may be of interest to you; 
+We may collect the following types of your personal data:
 
-
-
-## Using the information we collect 
-
-We may use the information that we collect from you via this website in the following ways: 
-
-  * In accordance with the Data Protection Act 1998 and other applicable laws; 
-  * For any particular use of the data specified at the time you provide it; 
-  * To process any payments that you make via this website; and 
-  * To contact you in any way (including mail, e-mail, phone, text) about products and services offered by us and selected partners. We will only contact you in this way if you have previously given your permission. 
+  * your name, address, email address, telephone (landline) number, and mobile telephone number; 
+  * information about your billing and payment history, and information we learn from the way you manage your account; 
+  * information about your credit history with other credit providers which we obtain from credit reference agencies; 
+  * some of the information we collect about you may include special category data; If you have provided us with details of your health, we will use that information where you need to be treated as a Vulnerable or Priority Customer for water needs. 
 
 
 
-We use a third party, [WorldPay UK Ltd](http://www.worldpay.com/ "WorldPay UK Ltd - link opens in a new window"), to collect your payment details process payments made over this website. 
+If you volunteer other relevant information about your circumstances which affect your ability to pay your bills, we will take account of those details; and, 
 
-If you provide us with sensitive personal information, you consent to the processing of this information for the purposes which you have provided it. 
+  * Information about your use of our services, including information about your water usage which we collect from meters. 
 
-## Your rights 
 
-You can request a copy of the information that we hold about you at any time by contacting us at the address below. The provision of this information may be subject to the payment of a fee (currently £10). 
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually seek your consent if we intend to use your data for such purposes and you can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at the address below. 
+#### Smart Metering - Why do we use smart meters?
 
-Please let us know if the personal data that we hold about you needs to be updated by emailing us. 
+Managing water supplies will only get more difficult as our population grows and our climate changes.
 
-Our site may contain links to and from this websites to websites of other organisations. If you follow a link to any of these websites, please note that these websites have their own Terms & Conditions and privacy policies and that we do not accept any responsibility or liability for these policies. 
+As a result, we need to modernise the way we manage supplies by fitting meters across our region, helping to protect supplies for future generations.
 
-## Security 
+Smart meters send us regular meter reads (hourly/daily/monthly), so we can:
 
-We will take appropriate technical and organisational measures to prevent the loss misuse or alteration of your personal information including the encryption of data using SSL technology. 
+  * give you frequent information so that you can be in control of your water use and your bill; 
+  * let you know if you have a leak on your external pipe; 
+  * give you accurate bills based on what you have used; 
+  * help you with any queries quickly; 
+  * measure the amount of water that is used by our customers so we can maintain our network more efficiently; and, 
+  * identify leaks on our network and act quickly to fix them. 
 
-We will ensure that the personal information that you provide us via this website is held on secure servers. 
 
-## Cookies 
 
-The site may use 'cookies' which allow us to identify the computer used but not the individual user, record the areas of the site visited and recognise your computer when you return to the site. We do not track any information after you leave our site. 
+Find more information about how we use your data for the smart metering programme [here](https://web.archive.org/My-Account/Water-meters/More-information).
 
-## Updates to this privacy policy 
+#### Customer Surveys
 
-We may update this privacy policy from time to time and will state on the policy the date when the policy was last updated. 
+We are committed to improving the service we provide to our customers. Essential to this is the need to understand, directly from our customers, how well we are currently doing. We use this information to create and monitor change. Gathering this feedback also provides us with an opportunity to reconnect with our customers and ‘put things right’ should they be less than happy with our service.
 
-## Contact 
+We use a variety of methods to gather feedback from our customers. We may do this ourselves, but equally we also rely on a small number of partner organisations. We have Data Sharing Agreements in place with these agencies and all conform to Market Research Society Codes of Conduct. The following agencies undertake the most work for us:
 
-Questions related to this privacy policy and access to any personal you have provided to us should be addressed to: 
+  * **Rant & Rave** carry out the bulk of our customer surveys. You may get a text, email or landline voicemail, asking a number of different questions, including your satisfaction with the service and whether you would recommend Thames Water. This will most often happen after interactions on the phone, website or after a visit from one of our technicians or contractors. Occasionally, and in particular during service failures, we may use Rant & Rave to proactively keep you updated; and to help us gather information to best service your needs in the moment. If you are dissatisfied with our service, we may look to reconnect with you to put things right. 
+  * **BMG (Bostock Marketing Group)** work on behalf of our Regulator (Ofwat) and ourselves. Every three months, Ofwat commissions BMG to phone a number of our customers who have recently made contact with us to ask them for their view on the service we provided. They may also ask some demographic questions to enable Ofwat to understand whether we are treating all our customers fairly. BMG also carry out the same survey on behalf of Thames Water, however this is done on a weekly basis. 
+  * **Allto Consulting** also work on behalf of our Regulator. Ofwat are in the process of piloting a new way of measuring the service Water companies provide. Allto Consulting may contact our customers through a number of different ways, including telephone, text, email and online. Surveys will be conducted on any customers within the Thames Water area, regardless of whether they have made contact with the water company. 
+  * **Populus** are employed by us to conduct quarterly surveys on customers within our area (contactors and non-contactors). They recruit and utilise their own online panel of customers, asking them specifically about whether they would recommend Thames Water and further questions to understand reasoning behind their scores. They also undertake various other forms of research on our behalf, including focus groups, online surveys and panels, telephone, face-to-face and in the street surveying 
+  * Other companies that we partner with include: **BritainThinks, Verve, eftec** and **Community Research**. All companies undertake various forms of research on our behalf, including focus groups, online surveys and panels, telephone, face-to-face and in the street surveying. 
 
-Thames Water Data Protection Officer  
-Clearwater Court  
-Vastern Road  
-Reading  
-Berkshire  
-RG1 8DB 
 
-or complete our online enquiry form:
 
-[Online enquiry form](https://web.archive.org/cps/rde/xchg/corp/hs.xsl/14109.htm "Online enquiry form")
+Customers may opt out or stop any service improvement surveying at any point in time – whether that’s stopping any further surveys or withdrawing partway through the activity. Other than the Rant & Rave survey, customers will always be asked whether they wish to remain anonymous to Thames Water.
 
-   Last updated: June 2011
+Customer data generated through these routes will only be used for the purpose of gaining a better understanding of the service we provide, how we can improve it and with the intention of helping customers during incidents if required. (This is not used for any Marketing activity).
+
+#### Property Searches
+
+We collect and store the following information (which may include personal data) that you and/or your agent provide:
+
+  * Personal details you and/or your agent submit to us via this website: <https://www.thameswater-propertysearches.co.uk/> (the "Website"), such as name, address, and email address. This includes information provided at the time of registering with our site or when requesting services from us. 
+  * Details you and/or your agent submit which relate to the property on which searches are to be carried out, including the address, current registered proprietor, current use and future use. 
+  * Details of any contact you and/or your agent make to us, we may keep a record of that correspondence (including email). 
+  * Details of the transactions you and/or your agent carry out through the Website and of the fulfilment of your orders. 
+  * Details of your, and/or your agent, visits to the Website and the resources that you and/or your agent access. 
+
+
+
+For more information about property searches please visit the website [here](https://www.thameswater-propertysearches.co.uk/).
+
+#### Developer Services
+
+Developer Services offers a wide range of products and services, with expert advice and assistance for all of our customers. We are responsible for providing new assets, adoption of new and existing assets and ensuring they meet our standards.
+
+We will use the information you provide on Developer Services application forms to provide the service you’ve requested. We potentially share it with our delivery partners, to provide the service you’ve requested.
+
+This could include contacting you to discuss your application and/or provide more details, visiting the site where work needs to be carried out, and invoicing you when appropriate.
+
+We won’t use this information for marketing purposes without contacting you to seek your consent.
+
+For more information about Developer Services please visit the website [here](https://developers.thameswater.co.uk/).
