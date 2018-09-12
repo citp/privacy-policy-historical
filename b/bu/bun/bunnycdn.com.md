@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bunnycdn.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627013722id_/https%3A//bunnycdn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bunnycdn.com privacy policy that was archived on 2018-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180912074230id_/https%3A//bunnycdn.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Data Policy - BunnyCDN
 
@@ -70,4 +70,4 @@ After signing up for an account, we might share your name and email address with
 When posting a comment on our blog or knowledge base, your provided information is shared with a service called Disqus that we use to provide users the ability to leave comments under our articles.
 
 This privacy policy is subject to change without prior notice.  
-It was last updated on 5/5/2018. If you require more information or have any questions, fell free to contact us at: support@bunnycdn.com
+It was last updated on 5/5/2018. If you require more information or have any questions, feel free to contact us at: support@bunnycdn.com
