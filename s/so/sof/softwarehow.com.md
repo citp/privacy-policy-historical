@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the softwarehow.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126070541id_/http%3A//www.softwarehow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwarehow.com privacy policy that was archived on 2018-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180912125512id_/https%3A//www.softwarehow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 _This policy was last updated on Nov 1, 2015._
 
-Thank you for visiting [SoftwareHow.com](http://www.softwarehow.com/) (hereinafter known as “provider,” “me” or “I” or “the site”).
+Thank you for visiting [SoftwareHow.com](https://www.softwarehow.com/) (hereinafter known as “provider,” “me” or “I” or “the site”).
 
-Your privacy is very important. Accordingly, I have developed this Privacy Policy in order for you to understand how I collect, use, communicate and make use of personal information. If you require any more information or have any questions about this policy, please feel free to [contact me](http://www.softwarehow.com/contact/).
+Your privacy is very important. Accordingly, I have developed this Privacy Policy in order for you to understand how I collect, use, communicate and make use of personal information. If you require any more information or have any questions about this policy, please feel free to [contact me](https://www.softwarehow.com/contact/).
 
 The following outlines specific policies for this site.
 
@@ -52,4 +52,4 @@ The site owner reserves the rights to amend this privacy policy at any time with
 
 ### Contact
 
-If you have any questions about these policies, please [address them](http://www.softwarehow.com/contact/) to the site owner.
+If you have any questions about these policies, please [address them](https://www.softwarehow.com/contact/) to the site owner.
