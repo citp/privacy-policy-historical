@@ -1,125 +1,208 @@
-<!--The following is the downloaded HTML source of the alabe.com privacy policy that was archived on 2017-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170616204614id_/http%3A//alabe.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alabe.com privacy policy that was archived on 2018-09-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180912184629id_/https%3A//alabe.com/privacy.html) for the most accurate reproduction.-->
 
-<html xmlns="http://www.w3.org/1999/xhtml"><head>
-              <link rel="shortcut icon" href="../favicon.ico">
-		<title>ASTROLABE: Privacy Policy</title>
-		<meta name="keywords" content="astrology, software, Programs, zodiac, Rob Hand, Astrological, NCGR, Free Astrology Chart, Solar Fire, Nova, Astrolabe, Astrologer, Professional, Chartwheels, Readings, Horoscope, Horoscopes, Sign, Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, Pisces, midpoints">
-		<meta name="Description" content="Astrolabe's Privacy Policy. Astrology Software and Astrology Programs by Astrolabe Inc. the largest publisher of Computer Astrology titles">
-		<style type="text/css">
-.doink09 { font-size: 09px; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
-.doink10 { font-size: 10px; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
-.doink12 { font-size: 12px; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
-.doink13 { font-size: 13px; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
-.doink14 {
-	font-size: 14px;
-	font-family: Arial, Verdana, Helvetica, sans-serif;
-	width:100%;
-	color: #000000;
-	text-align: center;
-	padding: 0;
-	margin-top: 0;
-	margin-right: auto;
-	margin-bottom: 0;
-	margin-left: auto;
-}
-.doink15 { font-size: 15px; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
-.doink16 { font-size: 16px; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
-.doink17 { font-size: 17px; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
-.doink18 { font-size: 18px; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
-.doink21 { font-size: 21px; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
-.doink25 { font-size: 25px; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
-.doink30 { font-size: 30px; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
-.doink14 #container {
-	width: 90%;
-	text-align: left;
-	padding: 0;
-	margin-top: 0;
-	margin-right: auto;
-	margin-bottom: 0;
-	margin-left: auto;
-	font-size: 14px;
-	font-family: Arial, Verdana, Helvetica, sans-serif;
-}
-.style2 {font-size: 20px; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; }
-.style6 {color: #333366}
-        </style>
-	</head>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head itemscope="" itemtype="http://schema.org/WebSite">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial scale=1">
+<link rel="canonical" href="http://alabe.com/privacy.html">
+<link rel="shortcut icon" href="favicon.ico">
+<link rel="author" href="http://www.alabe.com/default.asp">
+<link rel="stylesheet" href="bootstrap-3.3.2-dist/css/bootstrap.min.css">
+<link rel="stylesheet" media="screen" href="superfish-master/src/css/superfish.min.css">
+<script src="JS/jquery-3.2.0.min.js"></script>
+<script src="../bootstrap-3.3.2-dist/js/bootstrap.min.js"></script>
+<script src="superfish-master/src/js/superfish.min.js"></script>
+<script>/** * hoverIntent is similar to jQuery's built-in "hover" method except that * instead of firing the handlerIn function immediately, hoverIntent checks * to see if the user's mouse has slowed down (beneath the sensitivity * threshold) before firing the event. The handlerOut function is only * called after a matching handlerIn. * * hoverIntent r7 // 2013.03.11 // jQuery 1.9.1+ * http://cherne.net/brian/resources/jquery.hoverIntent.html * * You may use hoverIntent under the terms of the MIT license. Basically that * means you are free to use hoverIntent as long as this header is left intact. * Copyright 2007, 2013 Brian Cherne * * // basic usage ... just like .hover() * .hoverIntent( handlerIn, handlerOut ) * .hoverIntent( handlerInOut ) * * // basic usage ... with event delegation! * .hoverIntent( handlerIn, handlerOut, selector ) * .hoverIntent( handlerInOut, selector ) * * // using a basic configuration object * .hoverIntent( config ) * * @param handlerIn function OR configuration object * @param handlerOut function OR selector for delegation OR undefined * @param selector selector OR undefined * @author Brian Cherne <brian(at)cherne(dot)net> **/(function($){$.fn.hoverIntent=function(handlerIn,handlerOut,selector){// default configuration values var cfg={interval: 100, sensitivity: 7, timeout: 0}; if ( typeof handlerIn==="object" ){cfg=$.extend(cfg, handlerIn );}else if ($.isFunction(handlerOut)){cfg=$.extend(cfg,{over: handlerIn, out: handlerOut, selector: selector});}else{cfg=$.extend(cfg,{over: handlerIn, out: handlerIn, selector: handlerOut});}// instantiate variables // cX, cY=current X and Y position of mouse, updated by mousemove event // pX, pY=previous X and Y position of mouse, set by mouseover and polling interval var cX, cY, pX, pY; // A private function for getting mouse position var track=function(ev){cX=ev.pageX; cY=ev.pageY;}; // A private function for comparing current and previous mouse position var compare=function(ev,ob){ob.hoverIntent_t=clearTimeout(ob.hoverIntent_t); // compare mouse positions to see if they've crossed the threshold if ( ( Math.abs(pX-cX) + Math.abs(pY-cY) ) < cfg.sensitivity ){$(ob).off("mousemove.hoverIntent",track); // set hoverIntent state to true (so mouseOut can be called) ob.hoverIntent_s=1; return cfg.over.apply(ob,[ev]);}else{// set previous coordinates for next time pX=cX; pY=cY; // use self-calling timeout, guarantees intervals are spaced out properly (avoids JavaScript timer bugs) ob.hoverIntent_t=setTimeout( function(){compare(ev, ob);}, cfg.interval );}}; // A private function for delaying the mouseOut function var delay=function(ev,ob){ob.hoverIntent_t=clearTimeout(ob.hoverIntent_t); ob.hoverIntent_s=0; return cfg.out.apply(ob,[ev]);}; // A private function for handling mouse 'hovering' var handleHover=function(e){// copy objects to be passed into t (required for event object to be passed in IE) var ev=jQuery.extend({},e); var ob=this; // cancel hoverIntent timer if it exists if (ob.hoverIntent_t){ob.hoverIntent_t=clearTimeout(ob.hoverIntent_t);}// if e.type=="mouseenter" if (e.type=="mouseenter"){// set "previous" X and Y position based on initial entry point pX=ev.pageX; pY=ev.pageY; // update "current" X and Y position based on mousemove $(ob).on("mousemove.hoverIntent",track); // start polling interval (self-calling timeout) to compare mouse coordinates over time if (ob.hoverIntent_s !=1){ob.hoverIntent_t=setTimeout( function(){compare(ev,ob);}, cfg.interval );}// else e.type=="mouseleave"}else{// unbind expensive mousemove event $(ob).off("mousemove.hoverIntent",track); // if hoverIntent state is true, then call the mouseOut function after the specified delay if (ob.hoverIntent_s==1){ob.hoverIntent_t=setTimeout( function(){delay(ev,ob);}, cfg.timeout );}}}; // listen for mouseenter and mouseleave return this.on({'mouseenter.hoverIntent':handleHover,'mouseleave.hoverIntent':handleHover}, cfg.selector);};})(jQuery);</script>
+<script>$(document).ready(function(){$('ul.sf-menu').superfish({animation:{height:'show'}, delay: 1000}); $(window).scroll(function(){if ($(this).scrollTop() > 200){$('.uparrow').fadeIn();} else{$('.uparrow').fadeOut();}}); $('.uparrow').click(function(){$("html, body").animate({scrollTop: 0}, 1000); return false;});});
+</script>
+<meta name="description" content="Privacy policy of Astrolabe Inc., Astrology Software and Professional Astrology Programs, Reports, Books, Gifts, Jewelry, Education, Services by Astrolabe Inc. the largest publisher of Computer Astrology titles related to Astrology and Horoscopes, Uranian Astrology, Symmetrical Astrology">
+<meta name="keywords" content="astrology, software, Programs, zodiac, Planets, Rob Hand, Astrological, NCGR, Free Astrology Chart, Free Horoscopes, Horoscope Reports, Astrology Reports, Free Astrology Reports, Solar Fire, Nova, Astrolabe, Astrologer, Professional, Chartwheels, Readings, Horoscope, Horoscopes, Chart Progressions Transits Directions Stars Sign, Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, Pisces, midpoints, Jewelry, Uranian, Symmetrical, Dial, birth chart, natal chart">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_us">
+<meta property="og:url" content="https://alabe.com/privacy.html">
+<meta property="og:title" content="Privacy Policy | Astrolabe Inc">
+<meta property="og:description" content="Astrolabe Inc, the world's largest publisher of astrology software, including the best-selling program Solar Fire.">
+<meta property="og:image" content="https://alabe.com/images/AstroLogo292x105.png">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="292">
+<meta property="og:image:height" content="105">
+<meta property="og:site_name" content="Astrolabe Inc">
+<meta property="og:see_also" content="https://twitter.com/AstrolabeToday">
+<meta property="og:see_also" content="https://www.facebook.com/pages/Astrolabe-Astrology-Software-and-Services/52527078715">
+<meta property="og:see_also" content="https://www.linkedin.com/company/astrolabe-group">
+<meta itemprop="name" content="Astrolabe Privacy Policy">
+<meta itemprop="url" content="http://alabe.com/privacy.html">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@AstrolabeToday">
+<meta name="twitter:title" content="Privacy Policy | Astrolabe Inc.">
+<meta name="twitter:description" content="Astrolabe Inc, the world's largest publisher of astrology software, including the best-selling program Solar Fire.">
+<meta name="twitter:image" content="https://alabe.com/images/AstroLogo292x105.png">
+<title>ASTROLABE: Privacy Policy</title>
+<style type="text/css"></style>
+</head>
+<body>
+<a id="PrivacyTop"></a>
+<div class="container">
+  <div class="page-header"> <a href="#" class="uparrow" title="Top">Scroll</a>
+    <h1 class="alltop"><a href="http://www.alabe.com" title="Astrolabe"><img src="Images/AstroLogo292x105.png" width="292" height="105" alt="Astrolabe: Astrology Software and Professional Astrology Programs, Privacy Policy"></a></h1>
+  </div>
+  <a href="#content" class="sr-only">Skip to main content</a><br>
+  <div class="menufix">
+    <ul class="sf-menu sf-js-enabled sf-arrows" style="touch-action: pan-y;">
+      <li><a href="#" class="sf-with-ul">Home</a>
+        <ul class="hidden" style="display: none;">
+          <li><a href="http://alabe.com" title="Astrolabe Homepage">Home</a></li>
+          <li><a href="http://alabe.com/products.htm" title="All Astrolabe Products">All Products</a></li>
+          <li><a href="https://alabe.com/cgi-bin/cart32.exe/alabe-ItemList" title="Shopping Cart">Shopping Cart</a></li>
+        </ul>
+      </li>
+      <li><a href="#" class="sf-with-ul">Software</a>
+        <ul class="hidden" style="display: none;">
+          <li><a href="http://alabe.com/solarfireV9.html" title="Solar Fire">Solar Fire</a></li>
+          <li><a href="http://alabe.com/novacw.html" title="Nova Chartwheels">Nova Chartwheels</a></li>
+          <li><a href="http://alabe.com/alaberpts.html" title="Astrolabe Report Writer Software">Astrolabe Report Writer Software</a></li>
+          <li><a href="http://alabe.com/jigsaw.htm" title="JigSaw, for Astrological Research">JigSaw 2.2 - For Research</a></li>
+          <li><a href="http://alabe.com/atlas.htm" title="ACS PC US and International Atlas">ACS PC Atlas</a></li>
+          <li><a href="http://alabe.com/impastro.html" title="Imperial Astrologer: Chinese Astrology">Imperial Astrologer</a></li>
+          <li><a href="http://alabe.com/astrotides.html" title="AstroTides">AstroTides</a></li>
+          <li><a href="http://alabe.com/placidus.html" title="Ancient Astrology: Mesopotamian, Hellenistic, Medieval">Placidus and Ancient Astrology</a></li>
+          <li><a href="http://alabe.com/accessories.htm" title="Astrology Accessories: For the Serious Astrologer">Astro Accessories</a></li>
+        </ul>
+      </li>
+      <li><a href="#" class="sf-with-ul">Support</a>
+        <ul class="hidden" style="display: none;">
+          <li><a href="http://alabe.com/support/default.asp" title="Get Help With Your Astrology Programs">Get Help</a></li>
+          <li><a href="http://alabe.com/downloads/default.asp" title="Updates For Your Astrology Programs">Software Updates &amp; Documentation</a></li>
+          <li><a href="http://alabe.com/Ticket/kb/root.aspx" title="Search the Astrolabe Knowledge Base for Astrology Answers">Tech Support: Knowledge Base</a></li>
+          <li><a href="http://alabe.com/Ticket/community/root.aspx" title="Astrolabe Community Astrology Forum" target="_blank">Tech Support: Forums</a></li>
+          <li><a href="http://alabe.com/Ticket/Main/frmNewTicket.aspx" title="Submit a Ticket for Astrology Tech Support" target="_blank">Tech Support: Submit A Ticket</a></li>
+        </ul>
+      </li>
+      <li><a href="#" class="sf-with-ul">Astro Reports</a>
+        <ul class="hidden" style="display: none;">
+          <li><a href="http://alabe.com/chartservice/chtsvcindex.html" title="Astrolabe's Astrological Reports; Birth Chart Reports, Forecast Reports, Relationship Reports">Astrolabe Reports</a></li>
+          <li><a href="http://alabe.com/chartservice/astroint.html" title="Astro* Intelligence Reports">Astro*Intelligence Reports</a></li>
+          <li><a href="http://alabe.com/whnumerology.html" title="Numerology Reports">KnoU Numerology Reports</a></li>
+          <li><a href="http://alabe.com/chartservice/chtcalc.html" title="Customized Astrological Chart Calculation">Chart Calculation</a></li>
+        </ul>
+      </li>
+      <li><a href="#" class="sf-with-ul">About Astrology</a>
+        <ul class="hidden" style="display: none;">
+          <li><a href="http://alabe.com/events.html" title="Upcoming Astrological Events">Astrology Events</a></li>
+          <li><a href="http://alabe.com/library.html" title="Articles and Lectures on Astrology">Articles and Lectures</a></li>
+          <li><a href="http://alabe.com/books.html" title="Astrology Books">Astrology Books</a></li>
+          <li><a href="http://alabe.com/SFDVD.htm" title="Astrology Videos and Audio Recordings">Video and Audio</a></li>
+          <li><a href="https://www.astrologersalliance.org/certified-astrologers" target="_blank" title="Directory of Certified Astrologers">NCGR: Certified Astrologers</a></li>
+        </ul>
+      </li>
+      <li><a href="#" class="sf-with-ul">Books &amp; Merchandise</a>
+        <ul class="hidden" style="display: none;">
+          <li><a href="http://alabe.com/books.html" title="Astrology Books"> Astrology Books</a></li>
+          <li><a href="http://alabe.com/SFDVD.htm" title="Astrology Videos and Audio Recordings">Video and Audio</a></li>
+          <li><a href="http://alabe.com/products.htm" title="All Astrolabe Products">All Products</a></li>
+          <li><a href="http://alabe.com/AlabeBro_8-13-15-Web.pdf" title="Astrolabe Product Catalog">Download Our Catalog</a></li>
+        </ul>
+      </li>
+      <li><a href="#" class="sf-with-ul">About Us</a>
+        <ul class="hidden" style="display: none;">
+          <li><a href="http://alabe.com/contact.html" title="Contact Astrolabe">Contact Us</a></li>
+          <li><a href="http://alabe.com/history.htm" title="Astrolabe's History">History and Bios</a></li>
+          <li><a href="http://alabe.com/dealers2013.html" title="Astrolabe Product Dealers">Dealer Network</a></li>
+          <li><a href="http://alabe.com/alabelinks.html" title="Links to Friends of Astrolabe">Friends of Astrolabe</a></li>
+          <li><a href="http://astrolabes.org/" target="_blank" title="What is an Astrolabe?">What's An Astrolabe?</a></li>
+        </ul>
+      </li>
+      <li><a href="#" class="sf-with-ul">Free Astro Chart</a>
+        <ul class="hidden" style="display: none;">
+          <li><a href="http://alabe.com/freechart/" title="Astrolabe's Free Natal Chart">Free Birth Chart</a></li>
+          <li><a href="http://alabe.com/FreeStuff.htm" title="More Free Astro Stuff">More Free Stuff</a></li>
+          <li><a href="https://alabe.com/cgi-bin/cart32.exe/alabe-ItemList" title="Shopping Cart">Shopping Cart</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  <br>
+  <br>
+  <div id="section"> <br>
+    <h2 style="text-align: center"><a id="content">Astrolabe's Privacy Policy</a></h2>
+    <h4 style="text-align: center">Updated May 25, 2018</h4>
+  </div>
+  <br>
+  <p>To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make it easy to find, we have made it available on our homepage. This notice applies to all information collected or submitted on the Astrolabe website. </p>
+  <br>
+  <p><b>The Information We Collect:</b> On some pages, you can order products, request free charts, subscribe to our newsletter, or make emailed requests for more information or for technical support. In order to fulfill such requests, we need to ask for information like your </p>
+  <p class="style6"> Name<br>
+    </p>
+  <p class="style6"> Address<br>
+    </p>
+  <p class="style6"> Email address<br>
+  </p>
+  <p class="style6"> Phone number<br>
+  </p>
+  <p class="style6"> Credit/Debit Card Information<br>
+  </p>
+  <p class="style6"> Birth date, time and place (when you are ordering an astrological chart or report).</p>
+  <p class="style6">You can also submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to give us the recipient's address. In such circumstances, the types of personal information collected will be similar to the above, except for credit card and other billing information. </p>
+  <br>
+  <p class="style6"><b>The Way We Use Information:</b> The only ways we use personal information are as follows: </p>
+  <p class="style6">We use the information you provide about yourself when placing an order to complete that order and that information remains as part of our customer records. We may use your contact information in the future for targeted mailings via email or through the postal service. When you purchase an astrological report or chart, we may store your birth data. </p>
+  <p class="style6"> We use the information you provide about someone else when placing an order to ship the product and to confirm delivery. This information also becomes part of our customer records. </p>
+  <p class="style6"> We use your return email address to answer your email, send an order confirmation, or to email your free charts or chart report purchases to you. </p>
+  <p class="style6"> If you come to our site from an affiliate third party site, we may share your contact information with the owners of that third party site. </p>
+  <br>
+  <p class="style6"><b>Other Uses of Email Addresses:</b> When you supply your email address (and you are not a resident of the European Union), we may use it to subscribe you to our email newsletter, AUGuries. AUGuries is generally published at intervals from four to eight weeks and includes interesting astrological information as well as updates on our new products, services and sales. <!--We use a double opt-in process, so you may--> You can unsubscribe to AUGuries at any time by following the instructions at the bottom of our notices. Individuals that we can identify as residing in or citizens of the European Union will not be added without their explicit consent.</p>
+  <p class="style6">Occasionally we may also use our email list to provide you with information on products and services from non-profit astrological organizations or from third parties with whom we partner in a joint venture. We never, however, sell or share our email list to any third party who is not an authorized dealer or vendor of Astrolabe products. Instead, we would incorporate their message into an email originated from Astrolabe. </p>
+  <p class="style6">If you wish, you can be removed from our email list by following the instructions that appear at the bottom of every mass email.</p>
+  <br>
+  <p class="style6"><b>Collecting Site Statistics:</b> To improve the design of our website, we collect demographic information and statistics on things like which pages are visited the most. This information is stored without your name and email address attached to it. Sometimes we might share such statistics with another organization -- for example, telling them that X number of individuals visited a certain area on our website. In sharing such information, we would not disclose anything that could be used to identify you individually. </p>
+  <p class="style6">If you wish to not be included in the site statistics, you may want to download and use an <a href="https://tools.google.com/dlpage/gaoptout" target="_blank">Opt-Out browser add-on</a>.</p>
+  <br>
+  <p class="style6"><b>Data Security:</b> To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect from you online. </p>
+  <br>
+  <p class="style6"><b>How You Can Access Or Correct Your Information:</b> To be removed from our email list or to correct factual errors in your personally identifiable information, you can send us an email at <a href="mailto:astrolabe@alabe.com">astrolabe@alabe.com</a>. To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making corrections. </p>
+  <br>
+  <p><b>How To Contact Us:</b> If you have any questions, concerns or comments about these privacy policies, please send us an email at <a href="mailto:astrolabe@alabe.com?subject=Privacy Policy">astrolabe@alabe.com</a>.</p>
+  <br>
+  <h4>Additional Rights for Individuals in the European Union</h4>
+  <p>Individuals who use our website and are located in or residents of the European Union have certain data rights that may be subject to limitations and/or restrictions.</p>
+  <p><strong>Data Storage:</strong> For the purposes of EU data protection laws, Astrolabe is the data controller of your personal information collected on this website. Any information collected is stored and processed in the United States.</p>
+  <br>
+  <p><strong>Data Processing:</strong> If you are based in the EU, we will only process your personal data for a purpose described in this Privacy Policy if (1) you have provided your consent (which can be withdrawn at any time), (2) the processing is necessary for the performance of a contract we are about to enter into or have entered into with you, (3) we are required by law, (4) processing is required to protect your vital interests or those of another person, or (5) the processing is necessary for the purposes of our legitimate commercial interests (except where such interests are overridden by your rights and interests).</p>
+  <br>
+  <p>In certain circumstances you have rights under data protection laws in relation to your personal data that we hold about you. You may:
+  </p><ul><li>
+  <strong>Request access to your personal data.</strong> You have the right to request access to any personal data we hold about you as well as related information, including the purposes for processing the personal data, the recipients or categories of recipients with whom the personal data has been shared, where possible, the period for which the personal data will be stored and the source of the personal data.</li>
+  <li><strong>Request correction of your personal data.</strong> You have the right to obtain without undue delay the rectification of any inaccurate personal data we hold about you.</li>
+  <li><strong>Request erasure of your personal data.</strong> You have the right to request that personal data held about you be deleted.</li>
+  <li><strong>Request restriction of processing your personal data.</strong> You have the right to prevent or restrict processing of your personal data where that processing is carried out for our legitimate interest or for direct marketing.</li>
+  <li><strong>Request transfer of your personal data.</strong> You have the right to request transfer of your personal data directly to a third party where this is technically feasible.</li></ul><p></p>
+    <p>You may exercise any of these rights by calling us at +1 (508) 896-5081 or by emailing us at astrolabe@alabe.com.</p><br>
+  <p><strong>Complaints:</strong> Where you believe that we have not complied with our obligation under this Privacy Policy or European data protection law, you have the right to make a complaint to an EU Data Protection Authority.</p>
+  <br>
+  <p><strong>Email Marketing:</strong> We will only send you direct marketing communications through our AUGuries newsletter if you have given your consent to receive such marketing. You can choose to stop receiving any direct marketing communications from us at any time simply by following the "Unsubscribe" link at the bottom of any AUGuries email.</p><br>
+<!--  <p><strong>Our Do Not Track Policy:</strong> Some browsers have “do not track” features that allow you to tell a website not to track you. We honor these requests and we do not use third-party cookies on our website. If you block or reject cookies, it will not affect your user experience on our website.</p>
+  <br />-->
+  <p><b>How To Contact Us:</b> If you have any questions, concerns or comments about you wish to exercise any of your rights under this privacy policy, please send us an email at <a href="mailto:astrolabe@alabe.com?subject=Privacy Policy">astrolabe@alabe.com</a>.</p><br>
+  <p> <small>Effective August 20, 2003 &nbsp;&nbsp; Updated May 25, 2018 to comply with GDPR policy</small></p>
+</div>
+<footer class="footer">
+  <div class="text-muted">
+    <div class="row">
+      <div class="col-xs-6 col-sm-3 col-md-1 col-md-offset-1"><a href="http://alabe.com/products.htm" title="Astrolabe Products page">Products</a> </div>
+      <div class="col-xs-6 col-sm-3 col-md-1"><a href="http://alabe.com/privacy.html" title="Astrolabe Privacy Policy">Privacy</a> </div>
+      <div class="col-xs-6 col-sm-3 col-md-1"><a href="http://alabe.com/SecureShopping.html" title="Secure Shopping at Astrolabe">Secure Shopping</a> </div>
+      <div class="col-xs-6 col-sm-3 col-md-1"><a href="http://alabe.com/PolicyandPurchase.html" target="_blank" title="Policies and Purchase agreement">Policies</a> </div>
+      <div class="col-xs-6 col-sm-3 col-md-1"><a href="http://alabe.com/disclaimer.html" title="Astrolabe Disclaimer">Disclaimer</a> </div>
+      <div class="col-xs-6 col-sm-3 col-md-1"><a href="http://alabe.com/Library.html" title="Astrology Articles">Astro Articles</a> </div>
+      <div class="col-xs-6 col-sm-3 col-md-1"><a href="http://alabe.com/AlabeBro_8-13-15-Web.pdf" title="Astrolabe Products Catalog">Download Catalog</a> </div>
+      <div class="col-xs-6 col-sm-3 col-md-1"><a href="http://astrolabes.org/" target="_blank" title="What is an Astrolabe?">What's An Astrolabe</a> </div>
+      <div class="col-xs-6 col-sm-3 col-md-1"><a href="http://alabe.com/EndUserLicense.html" title="EULA for Downloaded Software from Astrolabe">Software EULA</a> </div>
+      <div class="col-xs-6 col-sm-3-offset-2 col-md-1"> <a href="http://alabe.com/default.asp" title="Astrolabe home"> <img src="Images/alablo_5.gif" alt="Astrolabe home" width="42" height="46"></a></div>
+    </div>
+  </div>
+</footer>
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug --> 
+<script>(function (){'use strict'; if (navigator.userAgent.match(/IEMobile\/10\.0/)){var msViewportStyle=document.createElement('style') msViewportStyle.appendChild( document.createTextNode( '@-ms-viewport{width:auto!important}' ) ) document.querySelector('head').appendChild(msViewportStyle)}})();</script>
 
-	<body background="alabeback4.gif" vlink="#ff0000" class="doink12" bgcolor="">
-				<div align="center">
-					<p>
-						<script type="text/javascript" src="topmenu.js"></script>
-						<script type="text/javascript" src="prog1.js"></script>
-                        <br><br>
-				  </p><p align="center"><a href="/"><font size="7"></font><img src="RAYSLOGO-3.gif" border="0" alt="Astrolabe"></a> </p>
-                        <br>
-						<br>
-						<b><font color="#1c3393"><span class="style2">Our Privacy Policy</span></font></b><p></p>
-					<p><b><font color="#1c3393"><span class="doink17">Effective 8/20/03<br>
-								</span></font><font color="#1c3393" size="+1"><br>
-								<br>
-								<br>
-							</font></b></p>
-				</div>
-				<div class="doink14"><div id="container">
-					<p><span class="style6">To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make it easy to find, we have made it available on our homepage. This notice applies to all information collected or submitted on the Astrolabe website. </span><br>
-							<br>
-				  </p>
-					<p><span class="style6"><b>The Information We Collect:</b> On some pages, you can order products, request free charts, subscribe to our newsletter, or make emailed requests for more information or for technical support. In order to fulfill such requests, we need to ask for information like your </span><br>
-				  </p>
-					<p class="style6">      Name<br>
-						</p>
-					<p class="style6">      Address<br>
-						</p>
-					<p class="style6">      Email address<br>
-						</p>
-					<p class="style6">      Phone number<br>
-						</p>
-					<p class="style6">      Credit/Debit Card Information<br>
-						</p>
-					<p class="style6">      Birth date, time and place (when you are ordering an astrological chart or report).
-							<br>
-						</p>
-					<p class="style6">You can also submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to give us the recipient's address. In such circumstances, the types of personal information collected could be similar to the above, except for credit card and other billing information.<br>
-							<br>
-						</p>
-					<p class="style6"><b>The Way We Use Information:</b> The only ways we use personal information are as follows:<br>
-						</p>
-					<p class="style6">We use the information you provide about yourself when placing an order to complete that order and that information remains as part of our customer records. We may use your contact information in the future for targeted mailings via email or through the postal service. When you purchase an astrological report or chart, we may store your birth data. <br>
-						</p>
-					<p class="style6"> We use the information you provide about someone else when placing an order to ship the product and to confirm delivery. This information also becomes part of our customer records.<br>
-						</p>
-					<p class="style6"> We use your return email address to answer your email, send an order confirmation, or to email your free charts or chart report purchases to you.<br>
-						</p>
-					<p class="style6"> If you come to our site from an affiliate third party site, we may share your contact information with the owners of that third party site.<br>
-							<br>
-						</p>
-					<p class="style6"><b>Other Uses of Email Addresses:</b> When you supply your email address, we may use it to subscribe you to our email newsletter, AUGuries. AUGuries is generally published at intervals from four to eight weeks and includes interesting astrological information as well as updates on our new products, services and sales. You can unsubscribe to AUGuries at any time by following the instructions at the bottom of our notices. 
-							<br>
-						</p>
-					<p class="style6">Sometimes we may also use our email list to provide you with information on products and services from non-profit astrological organizations or from third parties with whom we partner in a joint venture. We never, however, sell or share our email list to any third party who is not an authorized dealer or vendor of Astrolabe products. Instead, we would incorporate their message into an email originated from Astrolabe.
-							<br>
-						</p>
-<p class="style6">If you wish, you can be removed from our email list by following the instructions that appear at the bottom of every mass email. <br>
-							<br>
-						</p>
-					<p class="style6"><b>Collecting Site Statistics:</b> To improve the design of our website, we collect demographic information and statistics on things like which pages are visited the most. This information is stored without your name and email address attached to it. Sometimes we might share such statistics with another organization -- for example, telling them that X number of individuals visited a certain area on our website. In sharing such information, we would not disclose anything that could be used to identify you individually. <br>
-							<br>
-						</p>
-					<p class="style6"><b>Data Security:</b> To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect from you online.<br>
-							<br>
-						</p>
-					<p class="style6"><b>How You Can Access Or Correct Your Information:</b> To be removed from our email list or to correct factual errors in your personally identifiable information, you can send us an email at <a href="mailto:astrolabe@alabe.com">astrolabe@alabe.com</a>. To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making corrections.<br>
-							<br>
-						</p>
-		    <p><span class="style6"><b>How To Contact Us:</b> If you have any questions, concerns or comments about these privacy policies, please send us an email at <a href="mailto:astrolabe@alabe.com?subject=Privacy Policy">astrolabe@alabe.com</a>.</span><br>
-				  </p>
-					<p></p>  </div>
-				</div>
-                            <p align="center"><a href="default.asp"><img src="home.jpg" alt="HOMEPAGE" width="91" height="48" naturalsizeflag="3" align="BOTTOM"></a>
-                                      
-				</p>
 
-
-<div style="position: absolute; visibility: visible; background-color: rgb(214, 222, 247); width: 849px; height: 29px; font-family: arial, helvetica, geneva, swiss, sunsans-regular; font-weight: bold; font-style: normal; font-size: 9pt; z-index: 101; top: 0px; left: 258.5px;"><div style="position: absolute; visibility: inherit; cursor: default; width: 103px; height: 25px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 1px;">Home<img src="http://alabe.com/tridown.gif" style="position: absolute; width: 10px; height: 5px; top: 20px; left: 93px;"></div><div style="position: absolute; visibility: inherit; cursor: default; width: 103px; height: 25px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 107px; top: 1px;">Software<img src="http://alabe.com/tridown.gif" style="position: absolute; width: 10px; height: 5px; top: 20px; left: 93px;"></div><div style="position: absolute; visibility: inherit; cursor: default; width: 103px; height: 25px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 213px; top: 1px;">Support<img src="http://alabe.com/tridown.gif" style="position: absolute; width: 10px; height: 5px; top: 20px; left: 93px;"></div><div style="position: absolute; visibility: inherit; cursor: default; width: 103px; height: 25px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 319px; top: 1px;">Astro Reports<img src="http://alabe.com/tridown.gif" style="position: absolute; width: 10px; height: 5px; top: 20px; left: 93px;"></div><div style="position: absolute; visibility: inherit; cursor: default; width: 103px; height: 25px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 425px; top: 1px;">About Astrology<img src="http://alabe.com/tridown.gif" style="position: absolute; width: 10px; height: 5px; top: 20px; left: 93px;"></div><div style="position: absolute; visibility: inherit; cursor: default; width: 103px; height: 25px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 531px; top: 1px;">Books &amp; More<img src="http://alabe.com/tridown.gif" style="position: absolute; width: 10px; height: 5px; top: 20px; left: 93px;"></div><div style="position: absolute; visibility: inherit; cursor: default; width: 103px; height: 25px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 637px; top: 1px;">About Us<img src="http://alabe.com/tridown.gif" style="position: absolute; width: 10px; height: 5px; top: 20px; left: 93px;"></div><div style="position: absolute; visibility: inherit; cursor: default; width: 103px; height: 25px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 743px; top: 1px;">Free Chart<img src="http://alabe.com/tridown.gif" style="position: absolute; width: 10px; height: 5px; top: 20px; left: 93px;"></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(214, 222, 247); width: 102px; height: 47px; font-family: arial, helvetica, geneva, swiss, sunsans-regular; font-weight: bold; font-style: normal; font-size: 9pt; z-index: 102; top: 28px; left: 258.5px;"><div style="position: absolute; visibility: inherit; cursor: default; width: 98px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 1px;">Home Page</div><div style="position: absolute; visibility: inherit; cursor: default; width: 98px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 24px;">Shopping Cart</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(214, 222, 247); width: 187px; height: 231px; font-family: arial, helvetica, geneva, swiss, sunsans-regular; font-weight: bold; font-style: normal; font-size: 9pt; z-index: 102; top: 28px; left: 364.5px;"><div style="position: absolute; visibility: inherit; cursor: default; width: 183px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 1px;">All Products</div><div style="position: absolute; visibility: inherit; cursor: default; width: 183px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 24px;">Solar Fire V9</div><div style="position: absolute; visibility: inherit; cursor: default; width: 183px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 47px;">Nova Chartwheels</div><div style="position: absolute; visibility: inherit; cursor: default; width: 183px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 70px;">Astrolabe Report Software</div><div style="position: absolute; visibility: inherit; cursor: default; width: 183px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 93px;">JigSaw 2.2 - For Research</div><div style="position: absolute; visibility: inherit; cursor: default; width: 183px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 116px;">ACS PC Atlas</div><div style="position: absolute; visibility: inherit; cursor: default; width: 183px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 139px;">Imperial Astrologer</div><div style="position: absolute; visibility: inherit; cursor: default; width: 183px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 162px;">AstroTides</div><div style="position: absolute; visibility: inherit; cursor: default; width: 183px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 185px;">Placidus et al</div><div style="position: absolute; visibility: inherit; cursor: default; width: 183px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 208px;">Astro Accessories</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(214, 222, 247); width: 252px; height: 139px; font-family: arial, helvetica, geneva, swiss, sunsans-regular; font-weight: bold; font-style: normal; font-size: 9pt; z-index: 102; top: 28px; left: 470.5px;"><div style="position: absolute; visibility: inherit; cursor: default; width: 248px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 1px;">Get Help</div><div style="position: absolute; visibility: inherit; cursor: default; width: 248px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 24px;">Downloads &amp; Updates</div><div style="position: absolute; visibility: inherit; cursor: default; width: 248px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 47px;">Search Tech Support Knowledge Base</div><div style="position: absolute; visibility: inherit; cursor: default; width: 248px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 70px;">Forums</div><div style="position: absolute; visibility: inherit; cursor: default; width: 248px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 93px;">Troubleshooting and FAQs</div><div style="position: absolute; visibility: inherit; cursor: default; width: 248px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 116px;">Submit A Ticket</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(214, 222, 247); width: 202px; height: 93px; font-family: arial, helvetica, geneva, swiss, sunsans-regular; font-weight: bold; font-style: normal; font-size: 9pt; z-index: 102; top: 28px; left: 576.5px;"><div style="position: absolute; visibility: inherit; cursor: default; width: 198px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 1px;">Astrolabe Reports</div><div style="position: absolute; visibility: inherit; cursor: default; width: 198px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 24px;">Astro* Intelligence Reports</div><div style="position: absolute; visibility: inherit; cursor: default; width: 198px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 47px;">Numerology Reports</div><div style="position: absolute; visibility: inherit; cursor: default; width: 198px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 70px;">Chart Calculation</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(214, 222, 247); width: 237px; height: 139px; font-family: arial, helvetica, geneva, swiss, sunsans-regular; font-weight: bold; font-style: normal; font-size: 9pt; z-index: 102; top: 28px; left: 682.5px;"><div style="position: absolute; visibility: inherit; cursor: default; width: 233px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 1px;">Events</div><div style="position: absolute; visibility: inherit; cursor: default; width: 233px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 24px;">Articles &amp; Lectures</div><div style="position: absolute; visibility: inherit; cursor: default; width: 233px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 47px;">Books For Sale</div><div style="position: absolute; visibility: inherit; cursor: default; width: 233px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 70px;">DVDs and CDs</div><div style="position: absolute; visibility: inherit; cursor: default; width: 233px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 93px;">What Astrology Can Do For You</div><div style="position: absolute; visibility: inherit; cursor: default; width: 233px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 116px;">NCGR Directory of Certified Astrologers</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(214, 222, 247); width: 152px; height: 116px; font-family: arial, helvetica, geneva, swiss, sunsans-regular; font-weight: bold; font-style: normal; font-size: 9pt; z-index: 102; top: 28px; left: 788.5px;"><div style="position: absolute; visibility: inherit; cursor: default; width: 148px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 1px;">Books For Sale</div><div style="position: absolute; visibility: inherit; cursor: default; width: 148px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 24px;">T Shirts</div><div style="position: absolute; visibility: inherit; cursor: default; width: 148px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 47px;">DVDs and CDs</div><div style="position: absolute; visibility: inherit; cursor: default; width: 148px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 70px;">Download Our Catalog</div><div style="position: absolute; visibility: inherit; cursor: default; width: 148px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 93px;">Shopping Cart</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(214, 222, 247); width: 152px; height: 162px; font-family: arial, helvetica, geneva, swiss, sunsans-regular; font-weight: bold; font-style: normal; font-size: 9pt; z-index: 102; top: 28px; left: 894.5px;"><div style="position: absolute; visibility: inherit; cursor: default; width: 148px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 1px;">Contact Us</div><div style="position: absolute; visibility: inherit; cursor: default; width: 148px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 24px;">Join Our Mailing List</div><div style="position: absolute; visibility: inherit; cursor: default; width: 148px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 47px;">History &amp; Bios</div><div style="position: absolute; visibility: inherit; cursor: default; width: 148px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 70px;">What's an Astrolabe?</div><div style="position: absolute; visibility: inherit; cursor: default; width: 148px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 93px;">Photo Gallery</div><div style="position: absolute; visibility: inherit; cursor: default; width: 148px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 116px;">Dealer Network</div><div style="position: absolute; visibility: inherit; cursor: default; width: 148px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 139px;">Friends of Astrolabe</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(214, 222, 247); width: 102px; height: 47px; font-family: arial, helvetica, geneva, swiss, sunsans-regular; font-weight: bold; font-style: normal; font-size: 9pt; z-index: 102; top: 28px; left: 1000.5px;"><div style="position: absolute; visibility: inherit; cursor: default; width: 98px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 1px;">Free Chart</div><div style="position: absolute; visibility: inherit; cursor: default; width: 98px; height: 20px; padding-left: 2px; padding-top: 2px; overflow: hidden; color: white; background-color: rgb(0, 51, 153); text-align: center; left: 1px; top: 24px;">More Free Stuff</div></div></body></html>
+</body></html>
