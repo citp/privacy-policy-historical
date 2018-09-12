@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kjprnews.com privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506143501id_/http%3A//kjprnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kjprnews.com privacy policy that was archived on 2018-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180912233633id_/http%3A//kjprnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kjprnews
 
