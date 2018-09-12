@@ -1,105 +1,234 @@
-> *The following text is extracted and transformed from the cubecart.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208063054id_/https%3A//www.cubecart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cubecart.com privacy policy that was archived on 2018-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180913001528id_/https%3A//www.cubecart.com/privacy-notice%23appendix) for the most accurate reproduction.*
 
-# Privacy Policy | CubeCart
+# Privacy Notice | CubeCart
 
-We use cookies to improve your online experience and the service we offer. To accept cookies continue browsing as normal. Read our [privacy policy](https://web.archive.org/privacy-policy#cookies) for more information. [×]()
+We use cookies to improve your online experience and the services we offer. To accept cookies continue browsing as normal. Read our [privacy policy](https://web.archive.org/privacy-notice#appendix) for more information. [×]()
 
-## PRIVACY POLICY AND CONSENT TO USE OF DATA
+## Contents
 
-IMPORTANT: BY SUBMITTING DATA TO US AND/OR USING OUR WEB SITE YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA THAT YOU SUBMIT MAY BE PROCESSED BY US IN THE MANNER AND FOR THE PURPOSES DESCRIBED IN THE FOLLOWING PRIVACY POLICY.
+  1. Introduction
+  2. Explaining the legal bases we rely on
+  3. When do we collect your personal data?
+  4. What sort of personal data do we collect?
+  5. How and why do we use your personal data?
+  6. Your data for personalised direct marketing
+  7. How we protect your personal data
+  8. How long will we keep your personal data?
+  9. Who do we share your personal data with?
+  10. Where your personal data may be processed
+  11. What are your rights over your personal data?
+  12. Contacting the Regulator
+  13. If you live outside the UK
+  14. How to contact us if you have questions?
 
-## Privacy Policy
 
-This Privacy Policy describes CubeCart Limited's current policies and practices with regard to Personal Data collected by us manually or through this web site (“Web Site”). The term “Personal Data” refers to personally identifiable information about you, such as your name, birth date, e-mail address or mailing address.
 
-## Notification of changes to this Policy
+### 1\. Introduction
 
-We are continually improving and adding new functionality and features to this Web Site and improving and adding to our existing services. Because of these ongoing changes, changes in the law and the changing nature of technology, our data practices will change from time to time. If and when our data practices change, we will (as soon as practicable) post the changes on our Web Site to notify you of the changes. We encourage you to check this page frequently.
+This Privacy Notice explains in detail the types of personal data we may collect about you when you interact with us. It also explains how we’ll store and handle that data, and keep it safe.
 
-## Collection of Personal Data including e-mail addresses
+There’s a lot of information here, but we want you to be fully informed about your rights, and how CubeCart Limited uses your data.
 
-We will collect and store the information you give us. You may use this Web Site to register to receive additional information or services from us. When you register, we ask you for contact information like your name, postal address and e-mail address.
+We hope the following sections will answer any questions you have but if not, please do get in touch with us.
 
-We sometimes supplement the information that you provide with information that is received from third parties. For instance, if inaccurate postal or zip codes are received, we may use third party software to fix them.
+For simplicity throughout this policy, ‘we’ and ‘us’ means CubeCart Limited.
 
-## Use of Personal Data
+It’s likely that we’ll need to update this Privacy Notice from time to time. We’ll notify you of any significant changes, but you’re welcome to come back and check it whenever you wish.
 
-We process your Personal Data only for specific and limited purposes. We ask only for data that is adequate, relevant and not excessive for those purposes. The purposes for which process Personal Data are notified to the Office of the Information Commissioner. Some of these purposes include the following:-
+### 2\. Explaining the legal bases we rely on
 
-We may contact you occasionally to inform you of new services we will be providing, or events or articles we think will be of interest to you.   
-We may send you requested information and related material.   
-We will use your Personal Data to provide our services.  
-We may use your Personal Data internally to help us improve our services and to help resolve any problems.
+The law on data protection sets out a number of different reasons for which a company may collect and process your personal data, including:
 
-## Opt-out choice
+**Consent**
 
-If you do not wish to receive information from us and want to be removed from our standard mailing list, please change your forums profile or click the unsubscribe link which can be found at the bottom of every email we send.
+In specific situations, we can collect and process your data with your consent. For example, when you tick a box to receive email newsletters. When collecting your personal data, we’ll always make clear to you which data is necessary in connection with a particular service.
 
-## Anonymous data collected through this Web Site
+**Contractual obligations**  
+In certain circumstances, we need your personal data to comply with our contractual obligations. For example, if you order a product or service from us, we’ll collect your billing address, and pass them to our payment service provider.
 
-In addition to the information we collect as described above, we use technology to collect anonymous information about the use of our Web Site. For example, we use technology to track which pages of our Web Site our visitors view. We alsÏo use technology to determine which Web browsers our visitors use. This technology does not identify you personally, it simply enables us to compile statistics about our visitors and their use of our Web Site.
+**Legal compliance**
 
-Our Web Site contains hyperlinks to other pages on our Web Site. We use technology to track how often these links are used and which pages on our Web Site our visitors choose to view. Again this technology does not identify you personally – it simply enables us to compile statistics about the use of these hyperlinks.
+If the law requires us to, we may need to collect and process your data. For example, we can pass on details of people involved in fraud or other criminal activity affecting us to law enforcement.
 
-We use this anonymous data to improve the content and functionality of this Web Site and our e-mail updates, to better understand our clients and markets, and to improve our services.
+**Legitimate interest**
 
-## Cookies
+In specific situations, we require your data to pursue our legitimate interests in a way which might reasonably be expected as part of running our business and which does not materially impact your rights, freedom or interests. For example we may use your purchase history to build a list of promotional “Top Extensions”.
 
-In order to collect the anonymous data described in the preceding paragraph, we may in the future use temporary “cookies” that collect the first level domain name of the user (for example, if your e-mail address is “john@example.com,” the cookie collects the “example.com” portion of your e-mail address) and the date and time you accessed this Web Site. Cookies by themselves cannot be used to discover the identity of the user. A cookie is a small piece of information which is sent to your browser and stored on your computer’s hard drive. Cookies do not damage your computer. You can set your browser to notify you when you receive a cookie. This enables you to decide if you want to accept it or not.
+### 3\. When do we collect your personal data?
 
-We also use your IP address to help diagnose problems with our server and to administer our Web Site. An IP address is a numeric code that identifies your computer on a network, or in this case, the Internet. Your IP address is also used to gather broad demographic information, such as determining how many of our visitors are from outside of the UK.
+  * When you visit any of our “*.cubecart.com” websites, and use your account to buy products and services.
+  * When you create an account with us.
+  * When you engage with us on social media.
+  * When you download or install CubeCart scripts or extensions.
+  * When you contact us by any means with queries, complaints etc.
+  * When you enter prize draws or competitions.
+  * When you comment on or review our products and services.
+  * When you submit a live store submission.
+  * When you leave a testimonial.
+  * When you provide a CubeCart “Success Story”.
 
-We may also perform IP lookups to determine which domain you are coming from (i.e: aol.com, yourcompany.com) to more accurately gauge our users' demographics.
 
-### Cookies Used
 
-Organisation | Cookie Name | Expiration Time | Description  
+### 4\. What sort of personal data do we collect?
+
+  * We will collect your name, gender, date of birth, billing address, orders and receipts, email address and IP address. For your security, we’ll also keep an encrypted record of your login password.
+  * Details of your interactions with us through website and support helpdesk. For example, we collect notes from our conversations with you, details of any complaints or comments you make, details of purchases you made, items viewed or downloaded, voucher redemptions, web pages you visit and when you contact us.
+  * Details of your visits to our websites and which site you came from to ours.
+  * Information gathered by the use of cookies in your web browser. Learn more about how we use cookies and what they are in the appendix at the end of this document.
+  * Your comments, testimonials, case studies, success stories and product reviews.
+  * To deliver the best possible web experience, we collect technical information about your internet connection and browser as well as the country where your computer is located, the web pages viewed during your visit, the advertisements you clicked on, and any search terms you entered.
+  * Your social media username, if you interact with us through those channels, to help us respond to your comments, questions or feedback.
+
+
+
+### 5\. How and why do we use your personal data?
+
+  * To process any orders that you make by using our website. If we don’t collect your personal data during checkout, we won’t be able to process your order and comply with our legal obligations.
+  * To respond to your queries, refund requests and complaints. Handling the information you sent enables us to respond. We may also keep a record of these to inform any future communication with us and to demonstrate how we communicated with you throughout. We do this on the basis of our contractual obligations to you, our legal obligations and our legitimate interests in providing you with the best service and understanding how we can improve our service based on your experience.
+  * To protect our business and your account from fraud and other illegal activities. This includes using your personal data to maintain, update and safeguard your account. We’ll also monitor your browsing activity with us to quickly identify and resolve any problems and protect the integrity of our websites. We’ll do all of this as part of our legitimate interest. For example, by checking your password when you login and using automated monitoring of IP addresses to identify possible fraudulent log-ins from unexpected locations.
+  * To process payments and to prevent fraudulent transactions. We do this on the basis of our legitimate business interests. This also helps to protect our customers from fraud.
+  * To send you communications required by law or which are necessary to inform you about our changes to the services we provide you. For example, updates to this Privacy Notice and legally required information relating to your orders. These service messages will not include any promotional content and do not require prior consent when sent by email. If we do not use your personal data for these purposes, we would be unable to comply with our legal obligations.
+  * To develop, test and improve the systems, services and products we provide to you. We’ll do this on the basis of our legitimate business interests.
+  * To comply with our contractual or legal obligations to share data with law enforcement.
+
+
+
+### 6\. Your data for personalised direct marketing
+
+We do not partake in direct marketing of any kind other than social media posts via Twitter and Facebook. We will not send promotional marketing emails and we do not keep or maintain a mailing list.
+
+### 7\. How we protect your personal data
+
+We know how much data security matters to all our customers. With this in mind we will treat your data with the utmost care and take all appropriate steps to protect it.
+
+We secure access to all transactional areas of our websites and apps using ‘https’ technology.
+
+Access to your personal data is password-protected, and all data is secured by SSL encryption.
+
+We regularly monitor our system for possible vulnerabilities and attacks, and we carry out penetration testing to identify ways to further strengthen security.
+
+### 8\. How long will we keep your personal data?
+
+Whenever we collect or process your personal data, we’ll only keep it for as long as is necessary for the purpose for which it was collected.
+
+At the end of that retention period, your data will either be deleted completely or anonymised, for example by aggregation with other data so that it can be used in a non-identifiable way for statistical analysis and business planning. When you place an order, we’ll keep the personal data you give us for five years so we can comply with our legal and contractual obligations.
+
+### 9\. Who do we share your personal data with?
+
+We share your personal data with third parties when absolutely necessary and for legitimate interests. For example we will share your name and billing address with our card payment providers for fraud management purposes and track your IP address across page loads. 
+
+Here’s the policy we apply to those organisations to keep your data safe and protect your privacy:
+
+  * We provide only the information they need to perform their specific services.
+  * They may only use your data for the exact purposes we specify in our contract with them.
+  * If we stop using their services, any of your data held by them will either be deleted or rendered anonymous.
+
+
+
+Currently we use Stripe, PayPal, ZenDesk & Google who will process your personal data as part of their contracts with us.
+
+### 10\. Where your personal data may be processed
+
+Sometimes we will need to share your personal data with third parties and suppliers outside the European Economic Area (EEA), such as the USA.
+
+**International orders**
+
+If you are based outside the UK and place an order with us, we will transfer the personal data that we collect from you to the us in the UK.
+
+**Protecting your data outside the EEA**
+
+The EEA includes all EU Member countries as well as Iceland, Liechtenstein and Norway. We may transfer personal data that we collect from you to third-party data processors in countries that are outside the EEA.
+
+Any transfer of your personal data will follow applicable laws and we will treat the information under the guiding principles of this Privacy Notice.
+
+### 11\. What are your rights over your personal data?
+
+You have the right to request:
+
+  * Access to the personal data we hold about you, free of charge in most cases.
+  * The correction of your personal data when incorrect, out of date or incomplete.
+  * For example, when you withdraw consent, or object and we have no legitimate overriding interest, or once the purpose for which we hold the data has come to an end (such as contractual support obligations).
+  * That we stop using your personal data for direct marketing (either through specific channels, or all channels). This is not something we partake in anyway.
+  * That we stop any consent-based processing of your personal data after you withdraw that consent.
+
+
+
+You have the right to request a copy of any information about you that the we hold at any time, and also to have that information corrected if it is inaccurate. To ask for your information, please contact our Data Protection Officer via the sales department of our [support helpdesk](https://www.google.com/url?q=https://support.cubecart.com/staff/Tickets/Manage/Filter/7/4/-1&sa=D&ust=1525686863755000). To ask for your information to be amended, please update your online account, or contact our Customer Services team.
+
+If we choose not to action your request we will explain to you the reasons for our refusal.
+
+Whenever you have given us your consent to use your personal data, you have the right to change your mind at any time and withdraw that consent.
+
+In cases where we are processing your personal data on the basis of our legitimate interest, you can ask us to stop for reasons connected to your individual situation. We must then do so unless we believe we have a legitimate overriding reason to continue processing your personal data.
+
+To protect the confidentiality of your information, we will ask you to verify your identity before proceeding with any request you make under this Privacy Notice. If you have authorised a third party to submit a request on your behalf, we will ask them to prove they have your permission to act.
+
+### 12\. Contacting the Regulator
+
+If you feel that your data has not been handled correctly, or you are unhappy with our response to any requests you have made to us regarding the use of your personal data, you have the right to lodge a complaint with the Information Commissioner’s Office.
+
+You can contact them by calling 0303 123 1113.
+
+Or go online to [www.ico.org.uk/concerns](https://www.google.com/url?q=http://www.ico.org.uk/concerns&sa=D&ust=1525686863757000) (opens in a new window; please note we can't be responsible for the content of external websites)
+
+If you are based outside the UK, you have the right to lodge your complaint with the relevant data protection regulator in your country of residence. Details can be found in Section 14.
+
+### 13\. If you live outside the UK
+
+### 14\. How to contact us if you have questions?
+
+We are happy to answer any questions you have. Please contact our sales department [via our helpdesk](https://www.google.com/url?q=https://support.cubecart.com/Tickets/Submit&sa=D&ust=1525686863759000).
+
+## Appendix
+
+### Cookies
+
+Cookies by themselves cannot be used to discover the identity of the user. A cookie is a small piece of information which is sent to your browser and stored on your computer’s hard drive. Cookies do not damage your computer. You can set your browser to notify you when you receive a cookie. This enables you to decide if you want to accept it or not.
+
+#### Cookies Used
+
+Cookie Name | Organisation | Expiration Time | Description  
 ---|---|---|---  
-CubeCart | ccsession | 1 Month | Essential session tracking cookie  
-CubeCart | eucookie | 2 Years | Determines of EU cookie note should show or not.  
-[Google](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage) | _ga | 2 years | Used to distinguish users  
-[Google](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage) | _gat  | 10 minutes | Used to throttle request rate  
-ZenDesk Chat | _zlcmid | 1 Year | Stores visitor's machine-id for widget's authentication  
-ZenDesk Chat | _zlcprivacy | 1 Year | Stores visitor's decision on CookieLaw  
+ccsession | CubeCart | 1 Month | Essential session tracking cookie  
+eucookie | CubeCart | 2 Years | Determines of EU cookie note should show or not.  
+ips4_hasJS | CubeCart Forums | 1 Day | This cookie is set by javascript and then later read to determine if javascript is supported in the user agent.  
+ips4_IPSSessionFront | CubeCart Forums | 1 Year | This is a session tracking cookie, used to track the user between page loads.  
+ips4_IPSTimeZone | CubeCart Forums | 1 Year | This cookie is set by javascript to detect the user's local time zone so that the software can adapt the displaying of times automatically.  
+ips4_member_id | CubeCart Forums | 1 Day | This cookie would contain the user's member ID, used to "remember" the user in case their session ends between visits.  
+ips4_login_key | CubeCart Forums | 1 Day | A unique key to authenticate your member ID cookie. This cookie is set after you log in when you tick 'Remember Me' so you can be automatically logged in again in the future.  
+ips4_device_key | CubeCart Forums | 1 Day | Information about the device from which you are browsing. e.g. Phone, tablet or computer.  
+__stripe_mid | CubeCart Helpdesk | 1 Year | Essential session cookie used by Stipe to enable payment processing.  
+__stripe_sid | CubeCart Helpdesk | 30 Minutes | Essential session cookie used by Stipe to enable payment processing.  
+jqCookieJar_options | CubeCart Helpdesk | 1 Year | Holds functional information about your session.  
+SWIFT_client | CubeCart Helpdesk | 1 Year | Used by our helpdesk to deliver the correct page layout.  
+SWIFT_sessionid40 | CubeCart Helpdesk | 1 Year | Essential session cookie used by our helpdesk to track user between page loads.  
+CCS_C1E7E907CE | CubeCart Demo Store | 1 Week | Essential session cookie used by our demo store to track user between page loads.  
+accept_cookies | CubeCart Demo Store | 2 Years | This cookies is set after the user has consented to the cookie acceptance dialogue to prevent the message showing on subsequent page loads.  
+ccScroll | CubeCart Demo Store | 1 Year | This is used to memorise how far the user has scrolled in order to display the same on return.  
+product_view | CubeCart Demo Store | 1 Year | This is used to memorise if the products should be displayed as a list of grid.  
+_ga | [Google](https://www.google.com/url?q=https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage&sa=D&ust=1525686863766000) | 2 years | Used to distinguish users  
+_gat | [Google](https://www.google.com/url?q=https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage&sa=D&ust=1525686863767000) | 10 minutes | Used to throttle request rate  
+_gid | [Google](https://www.google.com/url?q=https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage&sa=D&ust=1525686863769000) | 24 hours | Used to distinguish users.  
+__zlcmid | [ZenDesk Chat](https://www.zendesk.co.uk/chat/) | 1 Year | Stores visitor's machine-id for widget's authentication  
+__zlcprivacy | [ZenDesk Chat](https://www.zendesk.co.uk/chat/) | 1 Year | Stores visitor's decision on CookieLaw  
+__atuvc | [AddThis Widget](http://www.addthis.com/) | 2 Years | Share count cache  
+__atuvs | [AddThis Widget](http://www.addthis.com/) | 2 Years | Undocumented  
   
-## Disclosure of your Personal Data
+©2018 CubeCart Limited. All rights reserved. 
 
-We do not share, sell or distribute your Personal Data with unrelated third parties, except under these limited circumstances:-
+CubeCart Limited is a company registered in England & Wales under number 5323904.  
+VAT Registration Number GB886451190. 
 
-Personal Data may occasionally be transferred to third parties who act for us for further processing in accordance with the purposes for which the data was originally collected or for purposes to which you have subsequently consented.
+[](https://web.archive.org/live-chat)
 
-We may share or transfer the information in our databases to comply with a legal requirement, for the administration of justice, to protect your vital interests, to protect the security or integrity of our databases or this Web Site, to take precautions against legal liability, or in the event of a corporate sale, merger, reorganisation, dissolution or similar event.
+## Live Chat 
 
-We may share or transfer the information in our databases with third parties whose products and services we believe may be of interest and value to you.
+Official technical support with live chat is available to all merchants & developers subscribed to one of our technical support plans.
 
-Where appropriate, before disclosing Personal Data to a third party, we contractually require the third party to take adequate precautions to protect that data and maintain confidentiality.
+[Learn More](https://web.archive.org/technical-support)
 
-## Data Integrity and Security
+Existing customer? Please login to [https://support.cubecart.com](https://support.cubecart.com/) to chat now.
 
-We strive to maintain the reliability, accuracy, completeness and currency of Personal Data in our databases and to protect the privacy and security of our databases. We keep your Personal Data only for as long as reasonably necessary for the purposes for which it was collected or to comply with any applicable legal or ethical reporting or document retention requirements.
+Question about our support plans? Chat Now[Contact Us](https://support.cubecart.com/Tickets/Submit)
 
-Our employees and counsellors who have access to Personal Data have been trained to handle such data properly and in accordance with our security protocols and strict standards of confidentiality. Although we cannot guarantee against any loss, misuse, unauthorised disclosure, alteration or destruction of data, we try to prevent such unfortunate occurrences.
-
-## Data Access and Corrections
-
-Upon receipt of your written request and enough information to permit us to identify your Personal Data, we will disclose to you the Personal Data we hold about you. We will also correct, amend or delete any Personal Data that is inaccurate and notify any third party recipients of the necessary changes.
-
-If you wish to access or correct your Personal Data, please contact us using the hyperlink on our navigation bar. We do not charge for complying with a correction request, however, for all other requests, we may charge a small fee to cover its costs. Requests to delete Personal Data are subject to any applicable legal and ethical reporting or document retention obligations imposed on us.
-
-## Link to other web sites
-
-This Web Site contains hyperlinks to web sites that are not operated by us. These hyperlinks are provided for your reference and convenience only and do not imply any endorsement of the activities of these third-party web sites or any association with their operators. We do not control these web sites and are not responsible for their data or privacy practices. We urge you to review any privacy policy posted on any site you visit before using the site or providing any Personal Data about yourself.
-
-## Transfer of Data Abroad
-
-We do not intentionally transfer Personal Data outside the United States of America.
-
-Of course, the Internet is made up of a large number of international connections. If you are visiting this Web Site from a country other than the country in which our server is located (currently, the United States of America), the various communications will necessarily result in the transfer of information across international boundaries. By visiting this Web Site and communicating electronically with us, you consent to these transfers.
-
-## Governing Law
-
-This privacy policy forms part of our Web Site [Terms of Use](https://web.archive.org/terms-of-use) and as such shall be governed by and construed in accordance with the laws of England. You agree to submit any dispute arising out of your use of this Web Site to the exclusive jurisdiction of the courts of England.
-
-## Questions
-
-If you have any questions about this Privacy Policy or concerns about the way we process your Personal Data, please [contact us](https://support.cubecart.com/index.php?/Tickets/Submit).
+×
