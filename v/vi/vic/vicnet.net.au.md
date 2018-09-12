@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vicnet.net.au privacy policy that was archived on 2018-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180328101715id_/http%3A//www.slv.vic.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vicnet.net.au privacy policy that was archived on 2018-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180912192206id_/http%3A//www.slv.vic.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy statement | State Library Victoria
 
@@ -31,7 +31,7 @@ The Library may in some circumstances, for the necessary performance of its func
 
 ### Email addresses
 
-We will only record your email address if you complete an online form or send us a message. It will only be used for the purposes for which you have provided it and will not be added to a mailing list unless specifically requested. You can unsubscribe or opt-out of our mailing lists at any time. We will not use your email address for any other purpose except without your consent.
+We will only record your email address if you complete an online form or send us a message. It will only be used for the purposes for which you have provided it and will not be added to a mailing list unless specifically requested. You can unsubscribe or opt-out of our mailing lists at any time. We will not use your email address for any other purpose except with your consent.
 
 ### Disclosure
 
