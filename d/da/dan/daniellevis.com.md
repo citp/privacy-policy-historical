@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daniellevis.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607055647id_/http%3A//www.daniellevis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daniellevis.com privacy policy that was archived on 2018-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180912173924id_/http%3A//www.daniellevis.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The EMAIL ALCHEMIST
 
@@ -9,19 +9,60 @@ To review material modifications and their effective dates scroll to the bottom 
 
 Levis International Marketing, Inc. (“LIM”) owns and operates this daniellevis.com website business. All references to “we”, “us”, this “website” or this “site” shall be construed to mean LIM.
 
+If you are a resident of the European Economic Area (EEA) consisting of the EU, plus Norway, Iceland, and Liechtenstein, you have specific rights as described in this Privacy Policy. We may act as the controller if we collect Personal Data from you directly. We may also act as the processor if we process data transmitted from our subscribers that have contracted for access and use of our online services.
+
 HOW WE MODIFY THIS PRIVACY POLICY
 
 We reserve the right to modify this Privacy Policy at any time, and without prior notice, by posting an amended Privacy Policy that is always accessible by clicking on the “Privacy Policy” link on this site’s home page. Your continued use of this site indicates your acceptance of the amended Privacy Policy.
 
 Regarding Personal Information (defined below), if any modifications are materially less restrictive on our use or disclosure of the Personal Information previously disclosed by you, we will obtain your consent before implementing such revisions with respect to such information.
 
-THE TYPES OF INFORMATION WE COLLECT
+LEGAL BASIS FOR PROCESSING PERSONAL DATA UNDER THE GENERAL DATA PROTECTION REGULATION (GDPR)
 
-Personal Information. “Personal Information” includes any information regarding a natural person that may be used directly to identify the person. Personal Information that we collect may vary with each separate purpose for which you provide it, and it may include one or more of the following categories: name, physical address, an email address, phone number, credit card information including credit card number, expiration date, and billing address, and location data.
+If you are from the European Economic Area (EEA), our legal basis for collecting and using Personal Data described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
 
-Usage Data. We reserve the right to collect information based on your usage of this site which is information collected automatically from this site (or third party services employed in this site ), which can include: the IP addresses or domain names of the computers utilized by the users who use this site, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server’s answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the user, the various time details per visit (e.g., the time spent on each page within the site) and the details about the path followed within the site with special reference to the sequence of pages visited, other parameters about the device operating system and/or the user’s IT environment, and data, conversion rates, marketing and conversion data and statistics, reports, analytics data, reviews and surveys (“Usage Data”). Usage Data is essentially anonymous when collected, but could be used indirectly to identify a person.
+We may process your Personal Data because:
 
-HOW AND WHEN WE COLLECT INFORMATION
+  * We need to perform a contract with you
+  * You have given us permission to do so
+  * The processing is in our legitimate interests and it’s not overridden by your rights
+  * For payment processing purposes
+  * To comply with the law
+
+
+
+THE TYPES OF DATA WE COLLECT
+
+Personal Data.
+
+“Personal Data” means data about a living individual who can be identified from those data (or from those data and other information either in our possession or likely to come into our possession).
+
+Personal Data may include, but is not limited to:
+
+  * First name and last name
+  * Email address
+  * Phone number
+  * Business name
+  * Website URL
+  * Address, State, Province, ZIP/Postal code, City
+  * Any Personal Data you post on our website
+  * Any Personal Data you post on a social media platform
+  * Data about how you use our website
+  * Technical data such as your IP address, your login data, details about your browser, time zone settings and other technology on the devise you use to access our website
+  * Your marketing and communication preferences
+  * Any information that you directly provide to us whether through our contact form ,over the phone, by email or otherwise
+  * Geo-location data
+  * Cookies and Usage Data
+
+
+
+Passively or Automatically Collected Data (“Usage Data”).
+
+We may also collect information regarding how our service is accessed and used. This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+
+Geo-Location Data. If you are accessing a page from a computer or a mobile device, you may be asked to share your precise (GPS level) geo-location information with us so we can customize your experience when we work with a marketing partner such as a third-party service provider, advertiser, or advertising network and platform. If you agree to the collection of location data, in most cases, you will be able to turn off such data collection at any time by accessing the privacy settings of your mobile device.
+
+HOW AND WHEN WE COLLECT DATA
 
 Personal Information. We collect Personal Information at the time you provide it to us. We collect Personal Information through sign-up forms and as part of your registration for an account, product, or service, promotion, or contest from this website. Personal Information that we collect may vary with the each sign-up or registration. In addition, we collect personal information from all communications with site visitors including without limitation, text messages, faxes, telephone calls, and regular “snail mail”, as well as from third-party outside sources including database vendors.
 
@@ -29,13 +70,25 @@ Your Communications With Us. We collect Personal Information that we receive fro
 
 Usage Data. We reserve the right to monitor your use of this site. As you navigate through this site, Usage Data may be passively collected (that is, gathered without your actively providing the information) using various analytics and reporting technologies, such as cookies and web beacons.
 
-HOW WE USE YOUR INFORMATION
+HOW WE USE YOUR DATA
 
 We may use your Personal Information only for the performance of the services or transaction for which it was given, and our private, internal reporting for this site, and security assessments for this site.
 
 We reserve the right to make full use of Usage Data. For example, we may use Usage Data to provide better service to site visitors, customize the site based on your preferences, compile and analyze statistics and trends about the use of this site, and otherwise administer and improve this site for your use. Specific uses are described below.
 
-INFORMATION SHARING AND DISCLOSURE
+RETENTION OF DATA
+
+We will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+
+We will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our service, or we are legally obligated to retain this data for longer time periods.
+
+TRANSFER OF DATA
+
+We are located in the United States. Your submission of your Personal Data via this website will transfer your Personal Data to us.  We will not transfer your Personal Data outside the United States unless the transfer is made to a country or territory recognized by the EU as having an adequate level of data security, or is made with your consent, or is made to satisfy our legitimate interest regarding our contractual arrangements with our subscribers that have contracted for access and use of our online services.
+
+Your consent to this Privacy Policy followed by your submission of your data to us signifies your agreement with these transfers and storage of your data.
+
+DISCLOSURE OF DATA
 
 General Disclosure Policy. We reserve the right to disclose your Personal Information as described below. We reserve the right to disclose Usage Data without restriction.
 
@@ -50,6 +103,39 @@ Legal Process, Enforcement and Security Notice. We reserve the right to disclose
 When We Participate In a Joint Venture With Marketing Partners. We may participate with another company or individual for purposes of jointly promoting our products, services, promotions or contests or their products, services, promotions, or contests. We reserve the right to disclose your Personal Information to them for purposes of (i) compensation, transaction processing, fulfillment, and support, and (ii) for purposes of offering you other products, services, promotions, and contests. These joint venture marketing partners may also contact you regarding other products, services, promotions, or contests.
 
 Your California Privacy Rights. Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to the email address provided in our contact information below and include the phrase “California Privacy Request” in the subject line, the domain name of the Web site you are inquiring about, along with your name, address and email address. We will respond to you within thirty days of receiving such a request.
+
+YOUR DATA PROTECTION RIGHTS UNDER THE GENERAL DATA PROTECTION REGULATION (GDPR)
+
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. We will take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.
+
+In certain circumstances, you have the following data protection rights:
+
+  * **The right to access, update or to delete the information we have on you.** Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you.
+
+
+  * **The right of rectification.** You have the right to have your information rectified if that information is inaccurate or incomplete.
+
+
+  * **The right to object.** You have the right to object to our processing of your Personal Data.
+
+
+  * **The right of restriction.** You have the right to request that we restrict the processing of your personal information.
+
+
+  * **The right to data portability.** You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
+
+
+  * **The right to withdraw consent.** You also have the right to withdraw your consent at any time where we have relied on your consent to process your personal information.
+
+
+
+Please note that we may ask you to verify your identity before responding to such requests.
+
+You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the
+
+European Economic Area (EEA).
 
 SPECIFIC INFORMATION ABOUT COOKIES AND WEB BEACONS
 
@@ -97,7 +183,7 @@ This site may contain links to other websites operated by our joint venture mark
 
 CHILDREN’S ONLINE POLICY
 
-We are committed to preserving online privacy for all of its website visitors, including children. This site is a general audience site. Consistent with the Children’s Online Privacy Protection Act (COPPA), we will not knowingly collect any information from, or sell to, children under the age of 13. If you are a parent or guardian who has discovered that your child under the age of 13 has submitted his or her personally identifiable information without your permission or consent, we will remove the information from our active list, at your request. To request the removal of your child’s information, please contact our site as provided below under “Contact Us”, and be sure to include in your message the same login information that your child submitted.
+We are committed to preserving online privacy for all of its website visitors, including children. This site is a general audience site. Consistent with the Children’s Online Privacy Protection Act (COPPA), we will not knowingly collect any information from, or sell to, children under the age of 18. If you are a parent or guardian who has discovered that your child under the age of 18 has submitted his or her personally identifiable information without your permission or consent, we will remove the information from our active list, at your request. To request the removal of your child’s information, please contact our site as provided below under “Contact Us”, and be sure to include in your message the same login information that your child submitted.
 
 CONTACT US
 
@@ -109,5 +195,5 @@ Attn: Privacy Policy Officer
 Barrie, ON L4N 9J2 CANADA  
 Email: support@daniellevis.com  
 Telephone: 7057197954–  
->>Material Modifications<< Since July 1, 2016: none.  
+>>Material Modifications<< Since July 1, 2016: GDPR compliance.  
 Notice: This document is Copyright © Chip Cooper of the law firm of Jones & Haley, P.C., and licensed for use by the owner of this website under distribution rights granted to FTCGuardian.com. All rights reserved worldwide. No part of this document may be copied, reprinted, reproduced, or transmitted in any form or by any means without the prior written permission of the copyright owner.
