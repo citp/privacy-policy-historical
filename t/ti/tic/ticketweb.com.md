@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketweb.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626010851id_/https%3A//www.ticketweb.com/aboutus/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketweb.com privacy policy that was archived on 2018-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180913014938id_/https%3A//info.ticketweb.com/privacy-policy) for the most accurate reproduction.*
 
 # spinner
 
