@@ -1,0 +1,1554 @@
+<!--The following is the downloaded HTML source of the startselect.com privacy policy that was archived on 2018-09-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180912083235id_/https%3A//startselect.com/gb-en/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-gb" itemscope="" itemtype="http://schema.org/WebPage"><head>
+<link rel="dns-prefetch" href="//cdn.startselect.com">
+<meta charset="utf-8">
+<title>Startselect</title>
+<meta name="description">
+<meta name="keywords">
+<meta name="robots">
+<meta name="csrf-token" content="kzVpIPW9hDwhO6eiGooszlcBCMt4dO8LHTneHk0D">
+<meta name="google-site-verification" content="_KFI_6C_zkLfhEvoV2Xd8DnHY4FG_enDoL_LAPlr8U0">
+<meta name="msvalidate.01" content="E1A879034027D33846C9B04582E538D0">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" sizes="57x57" href="https://cdn.startselect.com/images/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://cdn.startselect.com/images/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://cdn.startselect.com/images/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://cdn.startselect.com/images/apple-icon-144x144.png">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link rel="canonical" href="https://startselect.com/gb-en/privacy-policy">
+<meta http-equiv="Content-Language" content="en-gb">
+<link rel="manifest" href="https://startselect.com/manifest.json">
+<meta name="theme-color" content="#3CAFB1">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@startslct">
+<meta name="twitter:creator" content="@startslct"> <meta property="og:title" content="">
+<meta property="og:url" content="https://startselect.com/gb-en/privacy-policy">
+<meta property="og:image:secure_url" content="https://cdn.startselect.com/images/logo/startselect_1200.png">
+<meta property="og:description" content="">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Startselect"> <link media="all" type="text/css" rel="stylesheet" href="/dist/app_2018-9-11_7-34-22.css">
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TKQJWX"></script><script>if(/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) { document.write('<script src="https://startselect.com/polyfills/babel-polyfill.min.js"><\/script>'); }</script>
+<script>
+        var dataLayer = dataLayer || [];
+        dataLayer.push({
+            'sift_key': 'a8aae5051d',
+            'sift_user_id': '',
+            'sift_session_id': '3c7e1403b51f48083df955abfaab11c1',
+        });
+    </script>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TKQJWX" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TKQJWX');</script></head>
+<body>
+<div id="vue-container" data-identifier="vueContainer">
+<div class="navbar-top">
+<div class="navbar-top__container container">
+<div onclick="EventTracker.pushEvent('Startselect Logo', 'click'); redirect('https://startselect.com/gb-en');" class="cursor-pointer flex">
+<img class="navbar-top__brand-symbol" src="https://cdn.startselect.com/images/logo/symbol.svg" alt="Startselect Logo Symbol">
+<img class="navbar-top__brand-text" src="https://cdn.startselect.com/images/logo/text.svg" alt="Startselect Logo Text">
+</div>
+<div class="flex flex-1">
+<search-products-autocomplete ref="search-products-autocomplete"></search-products-autocomplete>
+</div>
+<div class="flex items-center" v-cloak="">
+<div class="navbar-top__icons">
+<span @click="openSearchMenu();" class="navbar-top__icons__icon icon icon--search tablet-landscape:hidden"></span>
+<div class="navbar-top__icons__icon hidden tablet-landscape:flex" @click="modals.regionSelection = true;">
+<span class="flags GB"></span>
+<span>GB</span>
+</div>
+<div v-if="!isAuthenticated" @click="modals.loginRegister = true; $helpers.EventTracker.pushEvent('Login Icon', 'click');" class="navbar-top__icons__icon icon icon--user">
+<span class="hidden tablet-landscape:block ml-2">Sign in</span>
+</div>
+<span v-else="" @click="$helpers.redirect('https://startselect.com/gb-en/account/order-history')" class="navbar-top__icons__icon icon icon--user icon--green"></span>
+<div :class="{'navbar-top__icons__icon navbar-top__icons__icon--cart': true, 'navbar-top__icons__icon--cart-active': totalProductsInCart > 0, 'hidden': !mounted}" data-ss-track="global--to_cart_button" @click="$helpers.redirect('https://startselect.com/gb-en/cart')">
+<i class="icon icon--exclamation text-red-dark"></i>
+<i class="icon icon--cart"></i>
+<span v-cloak="" class="text-black ml-2">
+&lt;% totalProductsInCart %&gt;
+</span>
+</div>
+<span @click="openMobileMenu();" class="navbar-top__icons__icon icon icon--mobile-menu tablet-landscape:hidden"></span>
+</div>
+</div>
+</div> <div class="topmenu">
+<div class="container">
+<ul class="list-reset flex">
+<li class="topmenu__item">
+Games
+<span class="ml-2 icon icon--angle-down"></span>
+<span class="ml-2 icon icon--angle-up"></span>
+<ul class="topmenu__item__submenu">
+<li><a class="topmenu__item__submenu__link " href="https://startselect.com/gb-en/xbox-one" title="Xbox One">Xbox One</a></li>
+<li><a class="topmenu__item__submenu__link " href="https://startselect.com/gb-en/switch" title="Nintendo Switch">Nintendo Switch</a></li>
+<li><a class="topmenu__item__submenu__link " href="https://startselect.com/gb-en/3ds" title="Nintendo 3DS">Nintendo 3DS</a></li>
+<li><a class="topmenu__item__submenu__link " href="https://startselect.com/gb-en/pc" title="PC games">PC games</a></li>
+<li><a class="topmenu__item__submenu__link " href="https://startselect.com/gb-en/xbox-360" title="Xbox 360">Xbox 360</a></li>
+<li><a class="topmenu__item__submenu__link " href="https://startselect.com/gb-en/wii-u" title="Wii U">Wii U</a></li>
+<li><a class="topmenu__item__submenu__link " href="https://startselect.com/gb-en/mac" title="Mac games">Mac games</a></li>
+<li><a class="topmenu__item__submenu__link " href="https://startselect.com/gb-en/linux" title="Linux games">Linux games</a></li>
+</ul>
+</li>
+<li class="topmenu__item">
+Subscriptions
+<span class="ml-2 icon icon--angle-down"></span>
+<span class="ml-2 icon icon--angle-up"></span>
+<ul class="topmenu__item__submenu">
+<li><a class="topmenu__item__submenu__link " href="https://startselect.com/gb-en/xbox-live" title="Xbox Live Gold">Xbox Live Gold</a></li>
+<li><a class="topmenu__item__submenu__link " href="https://startselect.com/gb-en/playstation-plus" title="PlayStation Plus">PlayStation Plus</a></li>
+<li><a class="topmenu__item__submenu__link " href="https://startselect.com/gb-en/netflix" title="Netflix">Netflix</a></li>
+<li><a class="topmenu__item__submenu__link " href="https://startselect.com/gb-en/spotify" title="Spotify">Spotify</a></li>
+<li><a class="topmenu__item__submenu__link " href="https://startselect.com/gb-en/deezer" title="Deezer">Deezer</a></li>
+<li><a class="topmenu__item__submenu__link " href="https://startselect.com/gb-en/world-of-warcraft-60-days-gametime-card/33538" title="World of Warcraft 60 Days">World of Warcraft 60 Days</a></li>
+<li><a class="topmenu__item__submenu__link " href="https://startselect.com/gb-en/ea-access-12-month-subscription/35402" title="EA Access: 12 Month Subscription">EA Access: 12 Month Subscription</a></li>
+</ul>
+</li>
+<li class="topmenu__item">
+Gift cards
+<span class="ml-2 icon icon--angle-down"></span>
+<span class="ml-2 icon icon--angle-up"></span>
+<ul class="topmenu__item__submenu">
+<li><a class="topmenu__item__submenu__link " href="https://startselect.com/gb-en/xbox-gift-card" title="Xbox Gift Card">Xbox Gift Card</a></li>
+<li><a class="topmenu__item__submenu__link " href="https://startselect.com/gb-en/playstation-network-cards" title="PlayStation Network">PlayStation Network</a></li>
+<li><a class="topmenu__item__submenu__link " href="https://startselect.com/gb-en/itunes" title="App Store &amp; iTunes Gift Cards">App Store &amp; iTunes Gift Cards</a></li>
+<li><a class="topmenu__item__submenu__link " href="https://startselect.com/gb-en/nintendo-eshop-card" title="Nintendo eShop Cards">Nintendo eShop Cards</a></li>
+<li><a class="topmenu__item__submenu__link " href="https://startselect.com/gb-en/google-play" title="Google Play">Google Play</a></li>
+<li><a class="topmenu__item__submenu__link " href="https://startselect.com/gb-en/blizzard" title="Blizzard gift card">Blizzard gift card</a></li>
+</ul>
+</li>
+<li class="topmenu__item">
+In-game credits
+<span class="ml-2 icon icon--angle-down"></span>
+<span class="ml-2 icon icon--angle-up"></span>
+<ul class="topmenu__item__submenu">
+<li><a class="topmenu__item__submenu__link " href="https://startselect.com/gb-en/fifa-points" title="FIFA Points">FIFA Points</a></li>
+<li><a class="topmenu__item__submenu__link " href="https://startselect.com/gb-en/call-of-duty-points" title="Call Of Duty Points">Call Of Duty Points</a></li>
+<li><a class="topmenu__item__submenu__link " href="https://startselect.com/gb-en/grand-theft-auto-5-shark-cash-cards" title="Grand Theft Auto 5 Shark Cash Cards">Grand Theft Auto 5 Shark Cash Cards</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div> </div>
+<div class="breadcrumb">
+<div class="container">
+<ul class="breadcrumb__list">
+<li class="breadcrumb__list__item">
+<a href="https://startselect.com/gb-en" class="breadcrumb__list__item__link" @click="$helpers.EventTracker.pushEvent('Breadcrumb', 'click', 'Home');">Home</a>
+</li>
+<li class="breadcrumb__list__item breadcrumb__list__item--active">
+Privacy policy
+</li>
+</ul>
+<span class="spacer">&nbsp;</span>
+</div>
+</div>
+<div class="pt-4 pb-8">
+<section class="container">
+<div class="default-page">
+<div class="default-page__grid-row">
+<div class="default-page__grid-row__widget default-page__grid-row__widget--w-full">
+<h1>Privacy Statement of Online Prepaid Services BV</h1>
+<div class="default-page__grid-row__widget__text">
+<p><em>1 May 2018</em></p>
+<p>During the processing we conform to the requirements of the applicable data protection legislation (Autoriteit Persoonsgegevens, The Netherlands). This means we:</p>
+<ul>
+<li><strong>clearly specify our purposes</strong> before we process personal data, by using this Privacy Statement;</li>
+<li><strong>limit our collection of personal data</strong> to only the personal data needed for legitimate purposes;</li>
+<li>first <strong>ask for explicit permission</strong> to process your personal data in cases where your permission is required;</li>
+<li>take <strong>appropriate security measures</strong> to protect your personal data and we demand the same from parties who process personal data on our behalf;</li>
+<li><strong>respect</strong> your right to inspect, correct or delete your personal data held by us.</li>
+</ul>
+<p>Online Prepaid Services BV is the party responsible for all data processing. In this privacy statement, we will explain which personal data we collect and for which purposes. We recommend that you read it carefully.</p>
+<p><strong>Statistics and profiling</strong><br> We keep statistics on the use of our webshop. These statistics help us to, for example, only show you information that is relevant to you. We may combine personal data to get to know more about you. We will of course respect your privacy at all times.</p>
+<p>For this purpose, we use your ip address, payment details and email address. We do this on the basis of your consent.</p>
+<p><strong>Contact Form</strong> <strong>and</strong> <strong>Newsletter</strong><br> You can use our webshop to ask questions or make any request.</p>
+<p>For this purpose, we use your ip address and email address. We need and store this information so we can help you in the best way possible and make sure that you are satisfied with our response. This way we can easily access the information in case you have any following questions and train our customer service to improve even more.</p>
+<p>We have a newsletter to inform those interested of our products and/or services. Each newsletter contains a link with which to unsubscribe from our newsletter. You can also enable/disable this on your accountpage. We store this information for one month after you cancelled your subscription.</p>
+<p><strong>Handling your order</strong><br> We will use your personal data when handling your order. We may also obtain information on your payment from your bank or credit card company or via one of our payment service providers.</p>
+<p>For this purpose, we use your payment details, invoice address (if applicable), email address, name and address details and ip address. We need this data in the performance of the agreement that you conclude with us. We store this information until your order has been completed and seven years thereafter (the legal retention period).</p>
+<p><strong>Registration</strong><br> Certain features of our service require you to register beforehand. You will have to provide some information about yourself and choose a user name and password for the account that we will set up for you.</p>
+<p>For this purpose, we use your name, ip address and email address. We need this data in the performance of the agreement that you conclude with us. We keep this information for a maximum of three months after you closed your account.</p>
+<p>We will retain this data so that you do not have to re-enter it every time you visit our website, and in order to contact you in the performance of the agreement that you conclude with us, invoicing and payment, and to provide an overview of the products and services you have purchased from us.</p>
+<p><strong>Promotion</strong><br> Other than the advertisements on the website, we can inform you about new products or services:</p>
+<ul>
+<li>by e-mail</li>
+<li>via social media</li>
+</ul>
+<p>You can object at all times against this promotional communication. Every e-mail contains a cancellation link. You can block us or use the cancellation option. You can inform us through your account.</p>
+<p><strong>Location data</strong><br> If necessary, we may collect your location data (GPS). If that is the case, you will be asked to grant consent beforehand.</p>
+<p>This location data and other data can also be stored and processed by the provider of the navigation/mapping software, such as Google Maps, but the data could also be used by, for example, Google or Apple itself. We have no control over their actions. We recommend that you read the applicable privacy statement of the provider in question.</p>
+<p><strong>Publication</strong><br> When placing a review on one of our products or services, the following data is published so as to be visible to everyone on the Internet:<br> - Name or nickname you provided when adding the review<br> - Content of your review</p>
+<p>You choose which information you publish. Be aware that you could be traced with this information.</p>
+<p><strong>Providing Data to Third Parties</strong><br> We may provide your data to our partners. These partners will provide personalised advertisements based on your personal data. These partners are involved in the performance of the agreement that you conclude with us. These partners may use your data for their own marketing purposes. These partners may be based outside the EU. Therefore we ask you for your explicit consent when first accessing our services.<br> Our website features social media buttons. These buttons are used by the providers of these services to collect your personal data.</p>
+<p><strong>Statistics</strong><br> We keep statistics on the use of our webshop</p>
+<p><strong>Cookies</strong><br> Our webshop makes use of cookies. Cookies are small files in which we can store information, so that you do not have to fill certain information again. We can also use them to see whether you are visiting us again.</p>
+<p>The first time you visit our webshop, we will show you a notification explaining our cookies. If you keep using our webshop, we assume that you do not object to these cookies.</p>
+<p>We made arrangements with other parties who place cookies through our website. Nevertheless, we cannot fully control what they are doing with their cookies, so please read their privacy statements as well.<br> <br> The following list shows cookies which are being created at our services. This list is not complete and can change. You can disable the use of cookies through your browser setting, but some parts of our website may not work properly as a result of that.</p>
+<ul>
+<li>Bing - Analytical, retargeting and marketing<br> <a href="https://privacy.microsoft.com/en-us/privacystatement" target="_blank" rel="noopener noreferrer">https://privacy.microsoft.com/en-us/privacystatement</a></li>
+<li>Cloudflare - Analytical<br> <a href="https://www.cloudflare.com/security-policy/" target="_blank" rel="noopener noreferrer">https://www.cloudflare.com/security-policy/</a></li>
+<li>Doubleclick - Analytical, retargeting and marketing<br> <a href="https://www.google.com/policies/privacy/" target="_blank" rel="noopener noreferrer">https://www.google.com/policies/privacy/</a></li>
+<li>Facebook - Analytical, social and marketing<br> <a href="https://www.facebook.com/help/cookies/update" target="_blank" rel="noopener noreferrer">https://www.facebook.com/help/cookies/update</a></li>
+<li>Google AdWords - Analytical, retargeting, marketing<br> <a href="https://www.google.com/policies/privacy/" target="_blank" rel="noopener noreferrer">https://www.google.com/policies/privacy/</a></li>
+<li>Google Analytics - Analytical, A/B testing <br> <a href="https://www.google.com/policies/privacy/" target="_blank" rel="noopener noreferrer">https://www.google.com/policies/privacy/</a></li>
+<li>Hotjar - Analytical<br><a href="https://www.hotjar.com/legal/policies/privacy#enduserenglish">https://www.hotjar.com/legal/policies/privacy#enduserenglish</a>&nbsp;</li>
+<li>Google+ - Social<br> <a href="https://www.google.com/policies/privacy/" target="_blank" rel="noopener noreferrer">https://www.google.com/policies/privacy/</a></li>
+<li>Sift - Analytical<br> <a href="https://siftscience.com/service-privacy" target="_blank" rel="noopener noreferrer">https://siftscience.com/service-privacy</a></li>
+<li>Startselect - Functional and Analytical<br> <a href="https://startselect.com/privacy-policy" target="_blank" rel="noopener noreferrer">https://startselect.com/privacy-policy</a></li>
+<li>Twitter - Analytical, social and marketing<br> <a href="https://twitter.com/privacy" target="_blank" rel="noopener noreferrer">https://twitter.com/privacy</a></li>
+</ul>
+<br>
+<p><strong>Google Analytics</strong><br> We use Google Analytics to track visitors on our website and to get reports about how visitors use the website. We accepted the data processing agreement from Google. We don’t allow Google to use information obtained by Analytics for other Google services, and we anonymize the IP-adresses.</p>
+<p><strong>Security</strong><br> We take security measures to reduce misuse of and unauthorised access to personal data. We take the following measures in particular:</p>
+<ul>
+<li>Access to personal data requires the use of a user name and password</li>
+<li>We take physical measures to protect access to the systems in which the personal data is stored</li>
+<li>We make use of secure connections (Secure Sockets Layer of SSL) to encrypt all information between you and our website when entering your personal data</li>
+<li>We keep logs of all requests for personal data</li>
+</ul>
+<p><strong>Changes to this Privacy Statement</strong><br> We reserve the right to modify this statement. We recommend that you consult this statement on a regular basis, so that you remain informed of any changes</p>
+<p><strong>Inspection and Modification of your Data</strong><br> You can always contact us if you have any questions regarding our privacy policy or wish to review, modify or delete your personal data.</p>
+<p>You have the following right:</p>
+<ul>
+<li>Being informed on which personal data we have and what we are using it for;</li>
+<li>Inspection of the personal data that we keep from you;</li>
+<li>Having incorrect data corrected;</li>
+<li>Request to delete outdated personal data;</li>
+<li>Revoke your consent;</li>
+<li>Object to certain uses.</li>
+</ul>
+<p>Please note that you always make clear who you are, so that we can assure we do not modify or remove the data from the wrong person.</p>
+<p><strong>Complaints</strong><br> If you think that we are not helping you in the right way, you have the right to lodge a complaint at the authority. For The Netherlands, this is the Autoriteit Persoonsgegevens. (<a href="https://autoriteitpersoonsgegevens.nl/en" target="_blank" rel="noopener noreferrer">https://autoriteitpersoonsgegevens.nl/en</a> )</p>
+<p><strong>Contact details<br> </strong>You can always contact us, our preferred way is by email. <br> <br> Online PrePaid Services BV<br> Hoevenweg 19<br> 5652 AW Eindhoven, the Netherlands<br> <a href="mailto:support@startselect.com">support@startselect.com</a></p>
+</div> </div>
+</div> </div>
+</section>
+</div>
+<div class="footer w-full">
+<div class="container max-auto">
+<div class="footer__support">
+<div class="flex flex-col w-1/3 pr-8">
+<span class="footer__support__heading mb-8">
+Can’t find what you are looking for?
+</span>
+<div class="flex flex-row">
+<img src="https://cdn.startselect.com/production/employees/roy.jpg" alt="Roy" class="footer__support__employee">
+<span>
+<strong>Roy</strong> and the Startselect team are here to help!
+</span>
+ </div>
+</div>
+<div class="footer__support__links w-2/3 pl-8">
+<div class="flex flex-row">
+<div class="w-1/2">
+<span class="footer__support__heading mb-4">
+Knowledge base
+</span>
+<a class="footer__support__links__link" href="https://startselect.com/gb-en/help/articles/payment-methods/16" title="Payment methods">
+Payment methods<br>
+</a>
+<a class="footer__support__links__link" href="https://startselect.com/gb-en/help/articles/failed-payment/14" title="Failed payment">
+Failed payment<br>
+</a>
+<a class="footer__support__links__link" href="https://startselect.com/gb-en/help/articles/paid-with-paypal-but-you-have-not-received-the-order/15" title="Paid with PayPal but you have not received the order?">
+Paid with PayPal but you have not received the order?<br>
+</a>
+<a class="footer__support__links__link" href="https://startselect.com/gb-en/help/articles/paypal-limit/13" title="PayPal Limit">
+PayPal Limit<br>
+</a>
+<a class="footer__support__links__link" href="https://startselect.com/gb-en/help/articles/xbox-codes/45" title="Xbox Codes">
+Xbox Codes<br>
+</a>
+</div>
+<div class="w-1/2">
+<span class="footer__support__heading mb-6">
+We're happy to help
+</span>
+<div class="helpcenter__search">
+<form method="GET" action="https://startselect.com/gb-en/help/search" accept-charset="UTF-8" class="helpcenter__search__form" autocomplete="off">
+<div class="helpcenter__search__form__wrapper">
+<input type="text" name="keyword" value="" class="input-text" placeholder="I need help with..">
+<button type="submit" class="button button--primary">
+Search
+</button>
+</div>
+</form>
+ </div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer__mobile-buttons">
+<a class="footer__mobile-buttons__button" href="https://startselect.com/gb-en/support" title="Support">
+Support
+<i class="icon icon--angle-right"></i>
+</a>
+<a class="footer__mobile-buttons__button" href="https://startselect.com/gb-en/about" title="Startselect">
+Startselect
+<i class="icon icon--angle-right"></i>
+</a>
+<a class="footer__mobile-buttons__button" href="https://startselect.com/gb-en/account" title="My account">
+My account
+<i class="icon icon--angle-right"></i>
+</a>
+</div>
+<div class="footer__links-and-social">
+<div class="w-1/2">
+<span class="footer__links-and-social__heading">
+Startselect
+</span>
+<div class="footer__links-and-social__links">
+<ul class="list-reset">
+<li>
+<a href="https://startselect.com/gb-en" title="Home">
+Home
+</a>
+</li>
+<li>
+<a href="https://startselect.com/gb-en/about" title="About Startselect">
+About Startselect
+</a>
+</li>
+<li>
+<a href="https://startselect.com/gb-en/news" title="Blog">
+Blog
+</a>
+</li>
+<li>
+<a href="https://startselect.com/gb-en/partners" title="Partners">
+Partners
+</a>
+</li>
+<li>
+<a href="https://www.werkenbijstartselect.com" title="Jobs" target="_blank">
+Jobs
+</a>
+</li>
+<li>
+<a href="https://startselect.com/gb-en/contact" title="Contact">
+Contact
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="w-1/2">
+<span class="footer__links-and-social__heading">
+Follow us!
+</span>
+Stay informed about our latest offers and news from Startselect via our social media channels!
+<div class="mt-6">
+<div class="social-icons">
+<a href="https://www.facebook.com/startselectuk" class="social-icons__link icon icon--facebook" target="_blank" title="Facebook" @click="$helpers.EventTracker.pushEvent('Footer Social', 'click', 'Facebook');">
+</a>
+<a href="https://twitter.com/Startslct" class="social-icons__link icon icon--twitter" target="_blank" title="Twitter" @click="$helpers.EventTracker.pushEvent('Footer Social', 'click', 'Twitter');">
+</a>
+<a href="https://www.youtube.com/channel/UCgDOC6-72j0OVofhcaTDIuQ" class="social-icons__link icon icon--youtube" target="_blank" title="YouTube" @click="$helpers.EventTracker.pushEvent('Footer Social', 'click', 'YouTube');">
+</a>
+<a href="https://www.twitch.tv/startslct" class="social-icons__link icon icon--twitch" target="_blank" title="Twitch" @click="$helpers.EventTracker.pushEvent('Footer Social', 'click', 'Twitch');">
+</a>
+<a href="https://www.instagram.com/startslct/" class="social-icons__link icon icon--instagram" target="_blank" title="Instagram" @click="$helpers.EventTracker.pushEvent('Footer Social', 'click', 'Instagram');">
+</a>
+<a href="https://www.linkedin.com/company/3226501?trk=tyah&amp;trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A3226501%2Cidx%3A2-1-2%2CtarId%3A1454077736741%2Ctas%3AOnline%20Prep" class="social-icons__link icon icon--linkedin" target="_blank" title="LinkedIn" @click="$helpers.EventTracker.pushEvent('Footer Social', 'click', 'LinkedIn');">
+</a>
+<a href="https://www.snapchat.com/add/start.select" class="social-icons__link icon icon--snapchat" target="_blank" title="Snapchat" @click="$helpers.EventTracker.pushEvent('Footer Social', 'click', 'Snapchat');">
+</a>
+</div> </div>
+</div>
+</div>
+<div class="footer__payment-icons">
+<span class="payment-icon payment-icon--creditcard footer__payment-icons__payment-icon gb" title="Creditcard"></span>
+<span class="payment-icon payment-icon--rapid_transfer footer__payment-icons__payment-icon gb" title="Rapid Transfer"></span>
+<span class="payment-icon payment-icon--bitcoin footer__payment-icons__payment-icon gb" title="Bitcoin"></span>
+<span class="payment-icon payment-icon--trustly footer__payment-icons__payment-icon gb" title="Trustly"></span>
+<span class="payment-icon payment-icon--skrill footer__payment-icons__payment-icon gb" title="Skrill"></span>
+<span class="payment-icon payment-icon--paypal footer__payment-icons__payment-icon gb" title="PayPal"></span>
+<span class="payment-icon payment-icon--neteller footer__payment-icons__payment-icon gb" title="Neteller"></span>
+<span class="payment-icon payment-icon--banktransfer footer__payment-icons__payment-icon gb" title="Banktransfer"></span>
+</div>
+<div class="footer__review-provider">
+<a class="footer__review-provider__badge" href="https://startselect.com/gb-en/reviews" @click="$helpers.EventTracker.pushEvent('Yotpo Footer', 'click', 'gb-en/privacy-policy');">
+<span class="footer__review-provider__badge__total-reviews">
+20
+</span>
+<span class="footer__review-provider__badge__certified-by">
+Certified reviews
+</span>
+<star-rating :rating="4.4" :show-rating="false" :star-size="20" :read-only="true" :increment="0.1">
+</star-rating>
+<img src="https://cdn.startselect.com/images/review-provider/badge.png" alt="Powered by Yotpo">
+</a>
+<span class="footer__review-provider__powered-by">
+Powered by Yotpo
+</span>
+</div>
+<div class="footer__bottom-bar">
+<div class="footer__bottom-bar__items">
+<span class="footer__bottom-bar__items__item">© Copyright Startselect</span>
+<a class="footer__bottom-bar__items__item" href="//cdn.startselect.com/pdf/terms-and-conditions-en.pdf" target="_blank">
+Terms &amp; Conditions
+</a>
+<a class="footer__bottom-bar__items__item" href="https://startselect.com/gb-en/privacy-policy">
+Privacy policy
+</a>
+<a class="footer__bottom-bar__items__item" href="https://startselect.com/gb-en/sitemap">
+Sitemap
+</a>
+</div>
+<span class="footer__bottom-bar__text">
+©2018 Startselect B.V. - KvK 52837610 - All prices include VAT<br> The productnames used on this website are for identification purposes only. All trademarks and registered trademarks are the property of their respective owners.<br>
+</span>
+</div>
+</div>
+</div>
+<div class="back-to-top " v-if="showBackToTopButton" @click="$helpers.scrollToElement('body');">
+<span class="icon icon--angle-up">
+</span></div> <nav class="mobile-menu" v-if="mobileMenu.isVisible" v-cloak="">
+<div class="mobile-menu__icon-wrapper">
+<i v-if="mobileMenu.activeSubmenu" class="mobile-menu__icon-wrapper__icon mobile-menu__icon-wrapper__icon--back icon icon--angle-left" @click="mobileMenu.activeSubmenu = '';"></i>
+<span>&nbsp;</span>
+ <i class="mobile-menu__icon-wrapper__icon icon icon--close" @click="closeMobileMenu();"></i>
+</div>
+<div v-if="!mobileMenu.activeSubmenu">
+<a class="mobile-menu__link" href="javascript:void(0);" @click="mobileMenu.activeSubmenu = 'games'" title="Games">
+Games
+<i class="mobile-menu__link__icon icon icon--angle-right"></i>
+</a>
+<a class="mobile-menu__link" href="javascript:void(0);" @click="mobileMenu.activeSubmenu = 'subscriptions'" title="Subscriptions">
+Subscriptions
+<i class="mobile-menu__link__icon icon icon--angle-right"></i>
+</a>
+<a class="mobile-menu__link" href="javascript:void(0);" @click="mobileMenu.activeSubmenu = 'giftcards'" title="Gift cards">
+Gift cards
+<i class="mobile-menu__link__icon icon icon--angle-right"></i>
+</a>
+<a class="mobile-menu__link" href="javascript:void(0);" @click="mobileMenu.activeSubmenu = 'promo'" title="In-game credits">
+In-game credits
+<i class="mobile-menu__link__icon icon icon--angle-right"></i>
+</a>
+<span class="mobile-menu__heading">
+Startselect
+</span>
+<div class="mobile-menu__link-container">
+<ul class="list-reset">
+<li>
+<a href="https://startselect.com/gb-en" title="Home">
+Home
+</a>
+</li>
+<li>
+<a href="https://startselect.com/gb-en/about" title="About Startselect">
+About Startselect
+</a>
+</li>
+<li>
+<a href="https://startselect.com/gb-en/news" title="Blog">
+Blog
+</a>
+</li>
+<li>
+<a href="https://startselect.com/gb-en/partners" title="Partners">
+Partners
+</a>
+</li>
+<li>
+<a href="https://www.werkenbijstartselect.com" title="Jobs" target="_blank">
+Jobs
+</a>
+</li>
+<li>
+<a href="https://startselect.com/gb-en/contact" title="Contact">
+Contact
+</a>
+</li>
+</ul>
+</div>
+<div class="select-region">
+<span class="select-region__heading">Select your country and preferred language:</span>
+<button class="select-region__dropdown-item" @click="regionDropdowns.country.isVisible = !regionDropdowns.country.isVisible; regionDropdowns.language.isVisible = false;">
+<span :class="'flags ' +  regionDropdowns.country.code"></span>
+&lt;% regionDropdowns.country.title %&gt;
+<span class="icon icon--angle-down float-right"></span>
+</button>
+<ul v-if="regionDropdowns.country.isVisible" class="select-region__dropdown-list select-region__dropdown-list--country">
+<li @click="selectCountry($event, 'BE', 'België', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags BE">België</span>
+</li>
+<li @click="selectCountry($event, 'BG', 'Bulgaria', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags BG">Bulgaria</span>
+</li>
+<li @click="selectCountry($event, 'HR', 'Croatia', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags HR">Croatia</span>
+</li>
+<li @click="selectCountry($event, 'CY', 'Cyprus', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags CY">Cyprus</span>
+</li>
+<li @click="selectCountry($event, 'CZ', 'Czech Republic', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags CZ">Czech Republic</span>
+</li>
+<li @click="selectCountry($event, 'DK', 'Denmark', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags DK">Denmark</span>
+</li>
+<li @click="selectCountry($event, 'DE', 'Deutschland', 'de', 'Deutsch')" class="select-region__dropdown-list__item">
+<span class="flags DE">Deutschland</span>
+</li>
+<li @click="selectCountry($event, 'ES', 'España', 'es', 'Español')" class="select-region__dropdown-list__item">
+<span class="flags ES">España</span>
+</li>
+<li @click="selectCountry($event, 'EE', 'Estonia', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags EE">Estonia</span>
+</li>
+<li @click="selectCountry($event, 'FR', 'France', 'fr', 'Français')" class="select-region__dropdown-list__item">
+<span class="flags FR">France</span>
+</li>
+<li @click="selectCountry($event, 'GB', 'Great Britain', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags GB">Great Britain</span>
+</li>
+<li @click="selectCountry($event, 'GR', 'Greece', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags GR">Greece</span>
+</li>
+<li @click="selectCountry($event, 'HU', 'Hungary', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags HU">Hungary</span>
+</li>
+<li @click="selectCountry($event, 'IE', 'Ireland', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags IE">Ireland</span>
+</li>
+<li @click="selectCountry($event, 'IT', 'Italia', 'it', 'Italiano')" class="select-region__dropdown-list__item">
+<span class="flags IT">Italia</span>
+</li>
+<li @click="selectCountry($event, 'LV', 'Latvia', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags LV">Latvia</span>
+</li>
+<li @click="selectCountry($event, 'LT', 'Lithuania', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags LT">Lithuania</span>
+</li>
+<li @click="selectCountry($event, 'LU', 'Luxembourg', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags LU">Luxembourg</span>
+</li>
+<li @click="selectCountry($event, 'MT', 'Malta', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags MT">Malta</span>
+</li>
+<li @click="selectCountry($event, 'NL', 'Nederland', 'nl', 'Nederlands')" class="select-region__dropdown-list__item">
+<span class="flags NL">Nederland</span>
+</li>
+<li @click="selectCountry($event, 'NO', 'Norway', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags NO">Norway</span>
+</li>
+<li @click="selectCountry($event, 'AT', 'Österreich', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags AT">Österreich</span>
+</li>
+<li @click="selectCountry($event, 'PL', 'Poland', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags PL">Poland</span>
+</li>
+<li @click="selectCountry($event, 'PT', 'Portugal', 'pt', 'Português')" class="select-region__dropdown-list__item">
+<span class="flags PT">Portugal</span>
+</li>
+<li @click="selectCountry($event, 'RO', 'Romania', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags RO">Romania</span>
+</li>
+<li @click="selectCountry($event, 'CH', 'Schweiz', 'de', 'Deutsch')" class="select-region__dropdown-list__item">
+<span class="flags CH">Schweiz</span>
+</li>
+<li @click="selectCountry($event, 'SK', 'Slovakia', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags SK">Slovakia</span>
+</li>
+<li @click="selectCountry($event, 'SI', 'Slovenia', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags SI">Slovenia</span>
+</li>
+<li @click="selectCountry($event, 'FI', 'Suomi', 'fi', 'Suomi')" class="select-region__dropdown-list__item">
+<span class="flags FI">Suomi</span>
+</li>
+<li @click="selectCountry($event, 'SE', 'Sverige', 'sv', 'Svenska')" class="select-region__dropdown-list__item">
+<span class="flags SE">Sverige</span>
+</li>
+</ul>
+<button class="select-region__dropdown-item" @click="regionDropdowns.language.isVisible = !regionDropdowns.language.isVisible; regionDropdowns.country.isVisible = false;">
+<span>&lt;% regionDropdowns.language.title %&gt;</span>
+<span class="icon icon--angle-down float-right"></span>
+</button>
+<ul v-if="regionDropdowns.language.isVisible" class="select-region__dropdown-list select-region__dropdown-list--language">
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'BE', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'fr', 'Français')" :class="{'hidden': regionDropdowns.country.code != 'BE', 'select-region__dropdown-list__item': true}">Français</li>
+<li @click="selectLanguage($event, 'nl', 'Nederlands')" :class="{'hidden': regionDropdowns.country.code != 'BE', 'select-region__dropdown-list__item': true}">Nederlands</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'BG', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'HR', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'CY', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'CZ', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'DK', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'de', 'Deutsch')" :class="{'hidden': regionDropdowns.country.code != 'DE', 'select-region__dropdown-list__item': true}">Deutsch</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'DE', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'es', 'Español')" :class="{'hidden': regionDropdowns.country.code != 'ES', 'select-region__dropdown-list__item': true}">Español</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'ES', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'EE', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'fr', 'Français')" :class="{'hidden': regionDropdowns.country.code != 'FR', 'select-region__dropdown-list__item': true}">Français</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'FR', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'GB', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'GR', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'HU', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'IE', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'it', 'Italiano')" :class="{'hidden': regionDropdowns.country.code != 'IT', 'select-region__dropdown-list__item': true}">Italiano</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'IT', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'LV', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'LT', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'LU', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'fr', 'Français')" :class="{'hidden': regionDropdowns.country.code != 'LU', 'select-region__dropdown-list__item': true}">Français</li>
+<li @click="selectLanguage($event, 'de', 'Deutsch')" :class="{'hidden': regionDropdowns.country.code != 'LU', 'select-region__dropdown-list__item': true}">Deutsch</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'MT', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'nl', 'Nederlands')" :class="{'hidden': regionDropdowns.country.code != 'NL', 'select-region__dropdown-list__item': true}">Nederlands</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'NL', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'NO', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'AT', 'select-region__dropdown-list__item': true}">English</li>
+ <li @click="selectLanguage($event, 'de', 'Deutsch')" :class="{'hidden': regionDropdowns.country.code != 'AT', 'select-region__dropdown-list__item': true}">Deutsch</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'PL', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'pt', 'Português')" :class="{'hidden': regionDropdowns.country.code != 'PT', 'select-region__dropdown-list__item': true}">Português</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'PT', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'RO', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'de', 'Deutsch')" :class="{'hidden': regionDropdowns.country.code != 'CH', 'select-region__dropdown-list__item': true}">Deutsch</li>
+<li @click="selectLanguage($event, 'fr', 'Français')" :class="{'hidden': regionDropdowns.country.code != 'CH', 'select-region__dropdown-list__item': true}">Français</li>
+<li @click="selectLanguage($event, 'it', 'Italiano')" :class="{'hidden': regionDropdowns.country.code != 'CH', 'select-region__dropdown-list__item': true}">Italiano</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'CH', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'SK', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'SI', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'fi', 'Suomi')" :class="{'hidden': regionDropdowns.country.code != 'FI', 'select-region__dropdown-list__item': true}">Suomi</li>
+<li @click="selectLanguage($event, 'sv', 'Svenska')" :class="{'hidden': regionDropdowns.country.code != 'FI', 'select-region__dropdown-list__item': true}">Svenska</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'FI', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'sv', 'Svenska')" :class="{'hidden': regionDropdowns.country.code != 'SE', 'select-region__dropdown-list__item': true}">Svenska</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'SE', 'select-region__dropdown-list__item': true}">English</li>
+</ul>
+<button @click="goToSelectedRegion();" type="submit" class="button button--inversed">
+Continue
+</button>
+<div class="select-region-text">
+Your country selection will ensure that we offer the correct products and payment methods. Please ensure that it corresponds to your country and to the account(s) on which you are planning to redeem the product.
+</div>
+</div>
+<a href="https://startselect.com/gb-en/account" class="mobile-menu__register-login">
+<i class="icon icon--user mr-2"></i>
+Register or log in
+</a>
+</div>
+<div v-if="mobileMenu.activeSubmenu === 'games'">
+<a class="mobile-menu__link " href="https://startselect.com/gb-en/xbox-one" title="Xbox One">
+Xbox One
+<i class="mobile-menu__link__icon icon icon--angle-right"></i>
+</a>
+<a class="mobile-menu__link " href="https://startselect.com/gb-en/switch" title="Nintendo Switch">
+Nintendo Switch
+<i class="mobile-menu__link__icon icon icon--angle-right"></i>
+</a>
+<a class="mobile-menu__link " href="https://startselect.com/gb-en/3ds" title="Nintendo 3DS">
+Nintendo 3DS
+<i class="mobile-menu__link__icon icon icon--angle-right"></i>
+</a>
+<a class="mobile-menu__link " href="https://startselect.com/gb-en/pc" title="PC games">
+PC games
+<i class="mobile-menu__link__icon icon icon--angle-right"></i>
+</a>
+<a class="mobile-menu__link " href="https://startselect.com/gb-en/xbox-360" title="Xbox 360">
+Xbox 360
+<i class="mobile-menu__link__icon icon icon--angle-right"></i>
+</a>
+<a class="mobile-menu__link " href="https://startselect.com/gb-en/wii-u" title="Wii U">
+Wii U
+<i class="mobile-menu__link__icon icon icon--angle-right"></i>
+</a>
+<a class="mobile-menu__link " href="https://startselect.com/gb-en/mac" title="Mac games">
+Mac games
+<i class="mobile-menu__link__icon icon icon--angle-right"></i>
+</a>
+<a class="mobile-menu__link " href="https://startselect.com/gb-en/linux" title="Linux games">
+Linux games
+<i class="mobile-menu__link__icon icon icon--angle-right"></i>
+</a>
+</div>
+<div v-if="mobileMenu.activeSubmenu === 'subscriptions'">
+<a class="mobile-menu__link " href="https://startselect.com/gb-en/xbox-live" title="Xbox Live Gold">
+Xbox Live Gold
+<i class="mobile-menu__link__icon icon icon--angle-right"></i>
+</a>
+<a class="mobile-menu__link " href="https://startselect.com/gb-en/playstation-plus" title="PlayStation Plus">
+PlayStation Plus
+<i class="mobile-menu__link__icon icon icon--angle-right"></i>
+</a>
+<a class="mobile-menu__link " href="https://startselect.com/gb-en/netflix" title="Netflix">
+Netflix
+<i class="mobile-menu__link__icon icon icon--angle-right"></i>
+</a>
+<a class="mobile-menu__link " href="https://startselect.com/gb-en/spotify" title="Spotify">
+Spotify
+<i class="mobile-menu__link__icon icon icon--angle-right"></i>
+</a>
+<a class="mobile-menu__link " href="https://startselect.com/gb-en/deezer" title="Deezer">
+Deezer
+<i class="mobile-menu__link__icon icon icon--angle-right"></i>
+</a>
+<a class="mobile-menu__link " href="https://startselect.com/gb-en/world-of-warcraft-60-days-gametime-card/33538" title="World of Warcraft 60 Days">
+World of Warcraft 60 Days
+<i class="mobile-menu__link__icon icon icon--angle-right"></i>
+</a>
+<a class="mobile-menu__link " href="https://startselect.com/gb-en/ea-access-12-month-subscription/35402" title="EA Access: 12 Month Subscription">
+EA Access: 12 Month Subscription
+<i class="mobile-menu__link__icon icon icon--angle-right"></i>
+</a>
+</div>
+<div v-if="mobileMenu.activeSubmenu === 'giftcards'">
+<a class="mobile-menu__link " href="https://startselect.com/gb-en/xbox-gift-card" title="Xbox Gift Card">
+Xbox Gift Card
+<i class="mobile-menu__link__icon icon icon--angle-right"></i>
+</a>
+<a class="mobile-menu__link " href="https://startselect.com/gb-en/playstation-network-cards" title="PlayStation Network">
+PlayStation Network
+<i class="mobile-menu__link__icon icon icon--angle-right"></i>
+</a>
+<a class="mobile-menu__link " href="https://startselect.com/gb-en/itunes" title="App Store &amp; iTunes Gift Cards">
+App Store &amp; iTunes Gift Cards
+<i class="mobile-menu__link__icon icon icon--angle-right"></i>
+</a>
+<a class="mobile-menu__link " href="https://startselect.com/gb-en/nintendo-eshop-card" title="Nintendo eShop Cards">
+Nintendo eShop Cards
+<i class="mobile-menu__link__icon icon icon--angle-right"></i>
+</a>
+<a class="mobile-menu__link " href="https://startselect.com/gb-en/google-play" title="Google Play">
+Google Play
+<i class="mobile-menu__link__icon icon icon--angle-right"></i>
+</a>
+<a class="mobile-menu__link " href="https://startselect.com/gb-en/blizzard" title="Blizzard gift card">
+Blizzard gift card
+<i class="mobile-menu__link__icon icon icon--angle-right"></i>
+</a>
+</div>
+<div v-if="mobileMenu.activeSubmenu === 'promo'">
+<a class="mobile-menu__link " href="https://startselect.com/gb-en/fifa-points" title="FIFA Points">
+FIFA Points
+<i class="mobile-menu__link__icon icon icon--angle-right"></i>
+</a>
+<a class="mobile-menu__link " href="https://startselect.com/gb-en/call-of-duty-points" title="Call Of Duty Points">
+Call Of Duty Points
+<i class="mobile-menu__link__icon icon icon--angle-right"></i>
+</a>
+<a class="mobile-menu__link " href="https://startselect.com/gb-en/grand-theft-auto-5-shark-cash-cards" title="Grand Theft Auto 5 Shark Cash Cards">
+ Grand Theft Auto 5 Shark Cash Cards
+<i class="mobile-menu__link__icon icon icon--angle-right"></i>
+</a>
+</div>
+</nav>
+<div class="notification notification--cookie" data-identifier="notification--cookie">
+<div>
+By using our website you agree that we set cookies and collect data to optimize your experience on our website. <a href="../../../../privacy-policy">Please review our privacy-policy.</a>
+</div>
+<button id="cookie-approve" @click="dismissNotification(2, $event);" type="button" class="button button--primary button--w-auto ml-8 py-2">
+I agree
+</button>
+</div>
+<div v-cloak="" v-if="notify.visible" v-html="notify.text" class="fixed rounded text-green-dark pin-r m-4 pin-b py-3 px-4 tablet-landscape:px-8 bg-green-lighter border border-solid border-green" style="z-index: 9999 !important;"></div> <modal v-if="modals.loginRegister" @close="modals.loginRegister = false">
+<div slot="body" v-cloak="">
+<div class="vue-modal__body vue-modal__body--login-register">
+<div class="vue-modal__body vue-modal__login-register__tabs">
+<span @click="loginRegister.activeTab = 'login'" :class="{'vue-modal__login-register__tabs__tab' : true, 'vue-modal__login-register__tabs__tab--active' : (loginRegister.activeTab == 'login' || loginRegister.activeTab == 'password')}">Login</span>
+<span @click="loginRegister.activeTab = 'register'; loginRegister.fields.email = ''; loginRegister.fields.password = ''" :class="{'vue-modal__login-register__tabs__tab' : true, 'vue-modal__login-register__tabs__tab--active' : loginRegister.activeTab == 'register'}">Register</span>
+</div>
+<div class="vue-modal__login-register__tab-content">
+<div v-if="loginRegister.activeTab == 'login'">
+<div v-if="loginRegister.passwordForgotten.sentEmail" class="notification notification--success">
+If the data was found you will receive the e-mail within a few minutes.
+</div>
+<h3>Log in with e-mail</h3>
+<email-field>
+<input placeholder="Please enter your e-mail address" class="input-text" v-model="loginRegister.fields.email" @keyup.enter="login()" name="email" type="text">
+</email-field>
+<input placeholder="Please enter your password" class="input-text mt-3" v-model="loginRegister.fields.password" @keyup.enter="login()" name="password" type="password" value="">
+<label class="input-text my-3">
+<input v-model="loginRegister.fields.keepSignedIn" name="keep_signed_in" type="checkbox" value="1">
+Remember me
+</label>
+<button class="button button--primary w-full mb-3" @click="login()" type="button">Log in with e-mail</button>
+<a @click="loginRegister.activeTab = 'password'" href="javascript:void(0);" class="vue-modal__login-register__tab-content__link">
+Forgot your password?
+</a>
+<div class="divider"></div>
+<h3>Log in with social media</h3>
+<div class="social-buttons-login account-popup">
+<a href="https://startselect.com/gb-en/auth/facebook" title="Sign in or register with Facebook" class="button button--social button--social--facebook icon icon--facebook mb-3" data-ss-track="login--facebook-social-button" @click="$helpers.EventTracker.pushEvent('Login', 'click', 'Facebook');">
+Sign in with <strong>Facebook</strong>
+</a>
+<a href="https://startselect.com/gb-en/auth/google" title="Sign in or register with Google" class="button button--social button--social--google icon icon--google mb-3" data-ss-track="login--google-social-button" @click="$helpers.EventTracker.pushEvent('Login', 'click', 'Google');">
+Sign in with <strong>Google</strong>
+ </a>
+<div class="clear"></div>
+</div>
+<div v-if="!loginRegister.showMore.login">
+<a @click="loginRegister.showMore.login = true" href="javascript:void(0);" class="vue-modal__login-register__tab-content__link">
+Show more (Twitter)
+</a>
+</div>
+<div v-else="">
+<div class="social-buttons-login account-popup">
+<a href="https://startselect.com/gb-en/auth/twitter" title="Sign in or register with Twitter" class="button button--social button--social--twitter icon icon--twitter mb-3" data-ss-track="login--twitter-social-button" @click="$helpers.EventTracker.pushEvent('Login', 'click', 'Twitter');">
+Sign in with <strong>Twitter</strong>
+</a>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+<div v-if="loginRegister.activeTab == 'register'">
+<h3>Register with e-mail</h3>
+<email-field>
+<input placeholder="Please enter your e-mail address" class="input-text" v-model="loginRegister.fields.email" @keyup.enter="createAccount()" name="email" type="text">
+</email-field>
+<input placeholder="Please enter your password" class="input-text mt-3" v-model="loginRegister.fields.password" @keyup.enter="createAccount()" name="password" type="password" value="">
+<input placeholder="Confirm your password" class="input-text mt-3" v-model="loginRegister.fields.passwordConfirmation" @keyup.enter="createAccount()" name="password_confirmation" type="password" value="">
+<label class="input-text my-3">
+<input v-model="loginRegister.fields.subscribeNewsletter" name="subscribe_newsletter" type="checkbox" value="1">
+Subscribe to our newsletter
+</label>
+<button class="button button--primary w-full" @click="createAccount()" type="button">Create account</button>
+<div class="divider"></div>
+<h3>Register with social media</h3>
+<div class="social-buttons-login account-popup">
+<a href="https://startselect.com/gb-en/auth/facebook" title="Sign in or register with Facebook" class="button button--social button--social--facebook icon icon--facebook mb-3" data-ss-track="login--facebook-social-button" @click="$helpers.EventTracker.pushEvent('Login', 'click', 'Facebook');">
+Register with <strong>Facebook</strong>
+</a>
+<a href="https://startselect.com/gb-en/auth/google" title="Sign in or register with Google" class="button button--social button--social--google icon icon--google mb-3" data-ss-track="login--google-social-button" @click="$helpers.EventTracker.pushEvent('Login', 'click', 'Google');">
+Register with <strong>Google</strong>
+</a>
+<div class="clear"></div>
+</div>
+<div v-if="!loginRegister.showMore.register">
+<a @click="loginRegister.showMore.register = true" href="javascript:void(0);" class="vue-modal__login-register__tab-content__link">
+Show more (Twitter)
+</a>
+</div>
+<div v-else="">
+<div class="social-buttons-login account-popup">
+<a href="https://startselect.com/gb-en/auth/twitter" title="Sign in or register with Twitter" class="button button--social button--social--twitter icon icon--twitter mb-3" data-ss-track="login--twitter-social-button" @click="$helpers.EventTracker.pushEvent('Login', 'click', 'Twitter');">
+Register with <strong>Twitter</strong>
+</a>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+ <div v-if="loginRegister.activeTab == 'password'">
+<h3>Forgot your password?</h3>
+Fill in your e-mail address and we'll send you an e-mail with instructions on how to recover your password.
+<email-field>
+<input placeholder="Please enter your e-mail address" class="input-text mt-8 mb-0" v-model="loginRegister.fields.email" @keyup.enter="sendPasswordRecoveryEmail()" name="email" type="text">
+</email-field>
+<button class="button button--primary w-full mb-2 mt-3" @click="sendPasswordRecoveryEmail()" :disabled="!loginRegister.fields.email || !$helpers.isValidEmailAddress(loginRegister.fields.email)" type="button">Send e-mail</button>
+<a @click="loginRegister.activeTab = 'login'" href="javascript:void(0);" class="vue-modal__login-register__tab-content__link">
+Go back to login
+</a>
+</div>
+</div>
+</div>
+</div>
+</modal>
+<modal v-if="modals.countrySwitch.show" @close="modals.countrySwitch.show = false">
+<div slot="body" v-cloak="">
+<div class="vue-modal__body vue-modal__body--whitespace text-sm">
+<h2>Visit Startselect Great Britain!</h2>
+You are currently visiting Startselect Great Britain.<br>
+We only deliver products you order on this website in Great Britain.<br><br>
+If you want to order products in United States then please visit https://startselect.com/us-en.
+<button class="border text-grey-darker border-solid border-grey-light w-full mt-6 text-left p-3" @click="acceptInvalidCountry();">
+<span class="flags GB"></span>
+Stay on Startselect Great Britain
+</button>
+<a href="https://startselect.com/gb-en/locale" class="block no-underline text-grey-darker border border-solid border-grey-light w-full mt-3 text-left p-3">
+<span class="flags IO"></span>
+Yes, let me select my region
+</a>
+</div>
+</div>
+</modal><modal v-if="modals.regionSelection" @close="modals.regionSelection = false">
+<div slot="body" v-cloak="">
+<div class="vue-modal__body bg-white">
+<div class="select-region">
+<span class="select-region__heading">Select your country and preferred language:</span>
+<button class="select-region__dropdown-item" @click="regionDropdowns.country.isVisible = !regionDropdowns.country.isVisible; regionDropdowns.language.isVisible = false;">
+<span :class="'flags ' +  regionDropdowns.country.code"></span>
+&lt;% regionDropdowns.country.title %&gt;
+<span class="icon icon--angle-down float-right"></span>
+</button>
+<ul v-if="regionDropdowns.country.isVisible" class="select-region__dropdown-list select-region__dropdown-list--country">
+<li @click="selectCountry($event, 'BE', 'België', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags BE">België</span>
+</li>
+<li @click="selectCountry($event, 'BG', 'Bulgaria', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags BG">Bulgaria</span>
+</li>
+<li @click="selectCountry($event, 'HR', 'Croatia', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags HR">Croatia</span>
+</li>
+<li @click="selectCountry($event, 'CY', 'Cyprus', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags CY">Cyprus</span>
+</li>
+<li @click="selectCountry($event, 'CZ', 'Czech Republic', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags CZ">Czech Republic</span>
+</li>
+<li @click="selectCountry($event, 'DK', 'Denmark', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags DK">Denmark</span>
+</li>
+<li @click="selectCountry($event, 'DE', 'Deutschland', 'de', 'Deutsch')" class="select-region__dropdown-list__item">
+<span class="flags DE">Deutschland</span>
+</li>
+<li @click="selectCountry($event, 'ES', 'España', 'es', 'Español')" class="select-region__dropdown-list__item">
+<span class="flags ES">España</span>
+</li>
+<li @click="selectCountry($event, 'EE', 'Estonia', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags EE">Estonia</span>
+</li>
+<li @click="selectCountry($event, 'FR', 'France', 'fr', 'Français')" class="select-region__dropdown-list__item">
+<span class="flags FR">France</span>
+</li>
+<li @click="selectCountry($event, 'GB', 'Great Britain', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags GB">Great Britain</span>
+</li>
+<li @click="selectCountry($event, 'GR', 'Greece', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags GR">Greece</span>
+</li>
+<li @click="selectCountry($event, 'HU', 'Hungary', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags HU">Hungary</span>
+</li>
+<li @click="selectCountry($event, 'IE', 'Ireland', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags IE">Ireland</span>
+</li>
+<li @click="selectCountry($event, 'IT', 'Italia', 'it', 'Italiano')" class="select-region__dropdown-list__item">
+<span class="flags IT">Italia</span>
+</li>
+<li @click="selectCountry($event, 'LV', 'Latvia', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags LV">Latvia</span>
+</li>
+<li @click="selectCountry($event, 'LT', 'Lithuania', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags LT">Lithuania</span>
+</li>
+<li @click="selectCountry($event, 'LU', 'Luxembourg', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags LU">Luxembourg</span>
+</li>
+<li @click="selectCountry($event, 'MT', 'Malta', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags MT">Malta</span>
+</li>
+<li @click="selectCountry($event, 'NL', 'Nederland', 'nl', 'Nederlands')" class="select-region__dropdown-list__item">
+<span class="flags NL">Nederland</span>
+</li>
+<li @click="selectCountry($event, 'NO', 'Norway', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags NO">Norway</span>
+</li>
+<li @click="selectCountry($event, 'AT', 'Österreich', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags AT">Österreich</span>
+</li>
+<li @click="selectCountry($event, 'PL', 'Poland', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags PL">Poland</span>
+</li>
+<li @click="selectCountry($event, 'PT', 'Portugal', 'pt', 'Português')" class="select-region__dropdown-list__item">
+<span class="flags PT">Portugal</span>
+</li>
+<li @click="selectCountry($event, 'RO', 'Romania', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags RO">Romania</span>
+</li>
+<li @click="selectCountry($event, 'CH', 'Schweiz', 'de', 'Deutsch')" class="select-region__dropdown-list__item">
+<span class="flags CH">Schweiz</span>
+</li>
+<li @click="selectCountry($event, 'SK', 'Slovakia', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags SK">Slovakia</span>
+</li>
+<li @click="selectCountry($event, 'SI', 'Slovenia', 'en', 'English')" class="select-region__dropdown-list__item">
+<span class="flags SI">Slovenia</span>
+</li>
+<li @click="selectCountry($event, 'FI', 'Suomi', 'fi', 'Suomi')" class="select-region__dropdown-list__item">
+<span class="flags FI">Suomi</span>
+</li>
+<li @click="selectCountry($event, 'SE', 'Sverige', 'sv', 'Svenska')" class="select-region__dropdown-list__item">
+<span class="flags SE">Sverige</span>
+</li>
+</ul>
+<button class="select-region__dropdown-item" @click="regionDropdowns.language.isVisible = !regionDropdowns.language.isVisible; regionDropdowns.country.isVisible = false;">
+<span>&lt;% regionDropdowns.language.title %&gt;</span>
+<span class="icon icon--angle-down float-right"></span>
+</button>
+<ul v-if="regionDropdowns.language.isVisible" class="select-region__dropdown-list select-region__dropdown-list--language">
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'BE', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'fr', 'Français')" :class="{'hidden': regionDropdowns.country.code != 'BE', 'select-region__dropdown-list__item': true}">Français</li>
+<li @click="selectLanguage($event, 'nl', 'Nederlands')" :class="{'hidden': regionDropdowns.country.code != 'BE', 'select-region__dropdown-list__item': true}">Nederlands</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'BG', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'HR', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'CY', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'CZ', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'DK', 'select-region__dropdown-list__item': true}">English</li>
+ <li @click="selectLanguage($event, 'de', 'Deutsch')" :class="{'hidden': regionDropdowns.country.code != 'DE', 'select-region__dropdown-list__item': true}">Deutsch</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'DE', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'es', 'Español')" :class="{'hidden': regionDropdowns.country.code != 'ES', 'select-region__dropdown-list__item': true}">Español</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'ES', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'EE', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'fr', 'Français')" :class="{'hidden': regionDropdowns.country.code != 'FR', 'select-region__dropdown-list__item': true}">Français</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'FR', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'GB', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'GR', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'HU', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'IE', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'it', 'Italiano')" :class="{'hidden': regionDropdowns.country.code != 'IT', 'select-region__dropdown-list__item': true}">Italiano</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'IT', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'LV', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'LT', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'LU', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'fr', 'Français')" :class="{'hidden': regionDropdowns.country.code != 'LU', 'select-region__dropdown-list__item': true}">Français</li>
+<li @click="selectLanguage($event, 'de', 'Deutsch')" :class="{'hidden': regionDropdowns.country.code != 'LU', 'select-region__dropdown-list__item': true}">Deutsch</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'MT', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'nl', 'Nederlands')" :class="{'hidden': regionDropdowns.country.code != 'NL', 'select-region__dropdown-list__item': true}">Nederlands</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'NL', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'NO', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'AT', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'de', 'Deutsch')" :class="{'hidden': regionDropdowns.country.code != 'AT', 'select-region__dropdown-list__item': true}">Deutsch</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'PL', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'pt', 'Português')" :class="{'hidden': regionDropdowns.country.code != 'PT', 'select-region__dropdown-list__item': true}">Português</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'PT', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'RO', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'de', 'Deutsch')" :class="{'hidden': regionDropdowns.country.code != 'CH', 'select-region__dropdown-list__item': true}">Deutsch</li>
+<li @click="selectLanguage($event, 'fr', 'Français')" :class="{'hidden': regionDropdowns.country.code != 'CH', 'select-region__dropdown-list__item': true}">Français</li>
+<li @click="selectLanguage($event, 'it', 'Italiano')" :class="{'hidden': regionDropdowns.country.code != 'CH', 'select-region__dropdown-list__item': true}">Italiano</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'CH', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'SK', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'SI', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'fi', 'Suomi')" :class="{'hidden': regionDropdowns.country.code != 'FI', 'select-region__dropdown-list__item': true}">Suomi</li>
+<li @click="selectLanguage($event, 'sv', 'Svenska')" :class="{'hidden': regionDropdowns.country.code != 'FI', 'select-region__dropdown-list__item': true}">Svenska</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'FI', 'select-region__dropdown-list__item': true}">English</li>
+<li @click="selectLanguage($event, 'sv', 'Svenska')" :class="{'hidden': regionDropdowns.country.code != 'SE', 'select-region__dropdown-list__item': true}">Svenska</li>
+<li @click="selectLanguage($event, 'en', 'English')" :class="{'hidden': regionDropdowns.country.code != 'SE', 'select-region__dropdown-list__item': true}">English</li>
+</ul>
+<button @click="goToSelectedRegion();" type="submit" class="button button--inversed">
+Continue
+</button>
+<div class="select-region-text">
+Your country selection will ensure that we offer the correct products and payment methods. Please ensure that it corresponds to your country and to the account(s) on which you are planning to redeem the product.
+</div>
+</div> </div>
+</div>
+</modal><modal v-if="modals.sendAsGift.show" @close="modals.sendAsGift.show = false">
+<div slot="body" v-cloak="">
+<div class="vue-modal__body vue-modal__body--whitespace">
+<strong class="block mb-4">Send product as gift to:</strong>
+<div v-if="modals.sendAsGift.hasRecipients()" class="mb-4">
+<select v-model="modals.sendAsGift.rowId" class="select" @change="modals.sendAsGift.selectRecipient()">
+<option value="">- Select a recipient -</option>
+<option :value="rowId" v-for="(recipient, rowId) in modals.sendAsGift.recipients">
+&lt;% recipient.firstName %&gt; &lt;% recipient.lastName %&gt; (&lt;% recipient.email %&gt;)
+</option>
+</select>
+</div>
+<form action="" @submit.prevent="modals.sendAsGift.storeProduct($event)">
+<label for="firstname">Firstname *</label>
+<input v-model="modals.sendAsGift.form.firstName" class="input-text mb-4" :placeholder="modals.sendAsGift.translations.gift_form_first_name" required="required" name="firstname" type="text" id="firstname">
+<label for="lastname">Lastname *</label>
+<input v-model="modals.sendAsGift.form.lastName" class="input-text mb-4" :placeholder="modals.sendAsGift.translations.gift_form_last_name" required="required" name="lastname" type="text" id="lastname">
+<label for="email">E-mail address *</label>
+<email-field>
+<input v-model="modals.sendAsGift.form.email" class="input-text" :placeholder="modals.sendAsGift.translations.gift_form_email_address" required="required" name="email" type="email" id="email">
+</email-field>
+<label for="email_confirm" class="mt-4">Confirm e-mail address *</label>
+<input v-model="modals.sendAsGift.form.emailConfirm" @paste="$event.preventDefault()" class="input-text mb-4" :placeholder="modals.sendAsGift.translations.gift_form_email_address_confirm" autocomplete="off" required="required" name="email_confirm" type="email" id="email_confirm">
+<label for="personal_message">Personal message (optional)</label>
+<textarea v-model="modals.sendAsGift.form.message.value" @keyup="modals.sendAsGift.monitorMessageLength()" class="input-text" id="personal_message" :placeholder="modals.sendAsGift.translations.gift_form_personal_message_optional" name="message" cols="50" rows="10"></textarea>
+<div class="text-sm text-grey">
+<span data-identifier="message-characters">
+&lt;% modals.sendAsGift.messageCharactersLeft() %&gt;
+</span>
+Characters left
+</div>
+<button type="submit" class="button button--primary mt-4">
+Confirm
+</button>
+</form>
+</div>
+</div>
+</modal>
+<modal v-if="modals.confirm.visible" @close="modals.confirm.visible = false; modals.confirm.cancelCallback()">
+<div v-cloak="" slot="body">
+<div class="vue-modal__body vue-modal__body--whitespace">
+<div class="w-full" v-html="modals.confirm.text"></div>
+<div class="flex flex-row mt-8">
+<button class="button button--inversed flex-1 mr-2" @click="modals.confirm.visible = false; modals.confirm.cancelCallback()" type="button">
+&lt;% modals.confirm.labels.cancel %&gt;
+</button>
+<button class="button button--primary ml-2" @click="modals.confirm.visible = false; modals.confirm.confirmCallback()" type="button">
+&lt;% modals.confirm.labels.confirm %&gt;
+</button>
+</div>
+</div>
+</div>
+</modal><modal v-if="modals.prompt.visible" @close="modals.prompt.visible = false">
+<div v-cloak="" slot="body">
+<div class="vue-modal__body vue-modal__body--whitespace">
+<div class="w-full font-semibold" v-html="modals.prompt.text"></div>
+<input type="text" class="input-text mt-1" :placeholder="modals.prompt.placeholder" v-model="promptValue">
+<div class="flex flex-row mt-8">
+<button class="button button--primary flex-1 mr-2 inversed" @click="modals.prompt.visible = false; modals.prompt.cancelCallback()" type="button">
+&lt;% modals.prompt.labels.cancel %&gt;
+</button>
+<button class="button button--primary flex-1 ml-2" @click="modals.prompt.visible = false; modals.prompt.confirmCallback()" type="button">
+&lt;% modals.prompt.labels.confirm %&gt;
+</button>
+</div>
+</div>
+</div>
+</modal><modal v-if="modals.iframe.visible" @close="modals.iframe.visible = false; modals.iframe.closeCallback()">
+<div v-cloak="" slot="body">
+<div class="vue-modal__body vue-modal__body--whitespace">
+<iframe :width="modals.iframe.width" :height="modals.iframe.height" :src="modals.iframe.url" frameborder="0" allowfullscreen=""></iframe>
+</div>
+</div>
+</modal><modal v-if="modals.alert.visible" @close="modals.alert.visible = false;">
+<div v-cloak="" slot="body">
+<div class="vue-modal__body vue-modal__body--whitespace">
+<div class="w-full" v-html="modals.alert.text"></div>
+<button class="button button--inversed button--w-auto float-right mt-6" @click="modals.alert.visible = false; modals.alert.confirmCallback()" type="button">
+OK
+</button>
+</div>
+</div>
+</modal> </div>
+<script type="text/template" id="search-result-autocomplete">
+    <div class="col-xs-12 result" data-identifier="autocomplete-result" data-slug="/gb-en/{! slug !}">
+    <img src="{! packshot !}" class="packshot float-left">
+    <div class="text">
+        <strong>{! title !}</strong><br>
+
+                    £ {! price !}
+            </div>
+</div></script><script type="text/template" id="search-result-autocomplete-page-numbers">
+    <div class="col-xs-12" id="autocomplete-navigation" data-identifier="autocomplete-page-numbers">
+    <span class="text">
+        Page {! page !} / {! totalPages !}
+    </span>
+    <div data-identifier="autocomplete-navigation" class="float-right">
+        <a data-identifier="previous-page" class="previous-page" href="javascript:void(0);" title="previous page">previous page</a>
+        <a data-identifier="next-page" class="next-page" href="javascript:void(0);" title="next page">next page</a>
+    </div>
+</div></script><script type="text/template" id="number-input-controls">
+    <div data-identifier="number-controls" class="number-controls">
+        <span data-identifier="number-more" class="number-more">+</span>
+        <span data-identifier="number-less" class="number-less">-</span>
+    </div>
+</script>
+<script type="text/x-template" id="modal-template">
+    <transition name="vue-modal">
+        <div class="vue-modal__mask">
+            <div class="table-cell align-middle">
+                <div class="vue-modal__mask__container">
+                    <i class="vue-modal__close fas fa-times" @click="$emit('close')"></i>
+                    <slot name="body"></slot>
+                </div>
+            </div>
+        </div>
+    </transition>
+</script><script type="text/x-template" id="vue-email-field">
+    <div>
+        <slot></slot>
+        <div class="my-1 text-sm" v-if="suggestion && suggestion.full">
+            Did you mean <span @click="updateEmailField" class="text-green cursor-pointer"><% suggestion.full %></span>?
+        </div>
+    </div>
+</script><script type="text/x-template" id="vue-gift-button">
+    <span class="cursor-pointer" @click="showForm();" v-html="buttonText"></span>
+</script><script type="text/x-template" id="vue-search-products-autocomplete">
+    <div class="search-products-autocomplete" v-click-outside="{ resultsVisible : false }">
+
+        
+        <div class="search-products-autocomplete__desktop-search">
+            <div class="search-products-autocomplete__desktop-search__container">
+                <input :placeholder="translations.searchPlaceholder" class="input-text" autocomplete="off" v-model="keyword" @keyup="search();" @keyup.enter="openSearchPage();" @focus="resultsVisible = true;" name="phrase" type="text" value="">
+                <span class="hidden tablet-landscape:flex">
+                    <button class="search-products-autocomplete__desktop-search__container__submit icon icon--search" type="button"></button>
+                </span>
+            </div>
+        </div>
+
+        <div v-if="mobileOrTabletOverlayShouldBeVisible()" class="search-products-autocomplete__results">
+
+            
+            <div class="search-products-autocomplete__results__mobile-search">
+                <div class="search-products-autocomplete__results__mobile-search__container">
+                    <span @click="hideResults();" class="search-products-autocomplete__results__mobile-search__container__close icon icon--angle-left"></span>
+                    <div class="py-2 w-full">
+                        <input :placeholder="translations.searchPlaceholder" data-identifier="mobile-search-keyword" class="input-text" autocomplete="off" v-model="keyword" @keyup="search();" @keyup.enter="openSearchPage();" @focus="resultsVisible = true;" name="phrase" type="text" value="">
+                    </div>
+                    <span @click="keyword = null; clearResults();" class="search-products-autocomplete__results__mobile-search__container__clear icon icon--close-rounded"></span>
+                </div>
+            </div>
+
+            
+            <div class="py-2 px-4 text-base" v-if="isSearching">
+                Searching..
+            </div>
+            <div v-else-if="results || sectionResults">
+                <ul class="list-reset px-6 tablet-landscape:px-0">
+                    <li v-if="results" v-for="result in results">
+                        <a :href="result.value" :title="result.label" v-html="resultMarkup(result.label)" class="search-products-autocomplete__results__item"></a>
+                    </li>
+                    <li v-if="results">&nbsp;</li>
+                    <li v-for="sectionResult in sectionResults">
+                        <a :href="sectionResult.value" v-html="sectionResult.label" class="search-products-autocomplete__results__item"></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</script><script type="text/x-template" id="vue-search-faq">
+    <div id="search-form" class="search-faq" v-click-outside="{ resultsVisible: false }">
+        <div class="flex flex-row">
+            <input autocomplete="off" :placeholder="text.placeholderSearch" class="search-input form-control" data-identifier="faq-search-input" v-model="keyword" @focus="resultsVisible = true;" @keyup="search();" @keyup.enter="submitForm();" name="keyword" type="text">
+
+            <button type="button" @click="submitForm();" class="search-button"><% searchText %></button>
+        </div>
+
+        <div id="faq-autocomplete" v-if="resultsVisible && (message || results)">
+            <ul v-if="results">
+                <li v-for="result in results">
+                    <a :href="result.url" :title="result.title"><% result.title %></a>
+                </li>
+            </ul>
+            <span v-if="message"><% message %></span>
+        </div>
+
+        <div class="clearfix"></div>
+    </div>
+</script><script type="text/x-template" id="vue-google-map">
+    <div class="map">
+        <div id="gmapWrapper">
+            <div id="gmapCanvas"></div>
+        </div>
+    </div>
+</script><script type="text/x-template" id="vue-how-to-videos">
+    <div>
+        <select class="select mb-4 select-video" @change="changeVideo($event)">
+            <option value="">Select your system</option>
+            <option :value="identifier" v-for="(video, identifier) in availableVideos">
+                <% video.title.short %>
+            </option>
+        </select>
+
+        <div v-if="activeVideo">
+            <span class="block font-semibold mb-4">
+                <% activeVideo.title.normal %>
+            </span>
+            <iframe class="video" :width="iframe.width" :height="iframe.height" :src="activeVideo.url + '?rel=0&amp;controls=0&amp;showinfo=0'" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+</script><script type="text/x-template" id="vue-reviews-overview">
+    <div class="reviews" data-identifier="reviews">
+        <div class="flex flex-row items-center">
+            <span class="mr-2">Reviews by</span>
+            <img src="https://cdn.startselect.com/images/review-provider/circle.png">
+        </div>
+
+        <hr class="mb-2">
+
+        <div class="flex flex-col tablet:flex-row tablet:items-center">
+            <div class="w-full py-2 tablet:py-0 tablet:w-1/2 flex items-top">
+                <div class="inline-flex mr-4">
+                    <star-rating
+                        :rating="score"
+                        :show-rating="false"
+                        :star-size="20"
+                        :read-only="true"
+                        :increment="0.1">
+                    </star-rating>
+                </div>
+
+                <% pagination.total %> Reviews
+            </div>
+            <div class="w-full tablet:w-1/2">
+                            </div>
+        </div>
+
+        <hr class="mt-2">
+
+        <div v-if="categories">
+            <ul class="flex flex-row list-reset">
+                <li @click="openCategory(categoryObject.category)" v-for="categoryObject in categories" :class="'border-green border-solid pb-1 mr-4 cursor-pointer' + (categoryObject.category == category ? ' border-b-2 font-bold' : '')">
+                    <% categoryObject.title %>
+                </li>
+            </ul>
+        </div>
+
+                
+        <hr>
+
+        <div v-for="item in items" class="reviews__item">
+            <div class="flex flex-row py-4" v-if="category == 'questionsAndAnswers'">
+                <div class="reviews__item__avatar-container">
+    <span class="reviews__item__avatar-container__content">
+        <% item.asker.name.substring(0, 1).toUpperCase() %>
+    </span>
+    <i v-if="item.is_verified_buyer" class="reviews__item__avatar-container__icon icon icon--check"></i>
+</div>
+<div class="text-base w-full">
+    <span class="reviews__item__name">
+        <% item.asker.name %>
+    </span>
+    <span class="reviews__item__verified" v-if="item.is_verified_buyer">
+        verified buyer
+    </span>
+    <span class="reviews__item__date">
+        <% $helpers.getDate('dd-mm-YYYY', item.created_at) %>
+    </span>
+    <p class="mb-4">
+        <% item.content %>
+    </p>
+
+    <div v-if="item.answers" v-for="answer in item.answers" class="reviews__item__comment">
+        <img :src="answer.answerer.image" class="reviews__item__comment__image">
+        <div class="flex flex-col tablet:pl-4 w-full">
+            <div>
+                <span class="reviews__item__name">
+                    <% answer.answerer.name %>
+                </span>
+
+                <span class="reviews__item__date">
+                    <% $helpers.getDate('dd-mm-YYYY', answer.created_at) %>
+                </span>
+            </div>
+
+            <p class="mb-4">
+                <% answer.content %>
+            </p>
+
+                    </div>
+    </div>
+</div>            </div>
+            <div class="flex flex-row py-4" v-else>
+                <div class="reviews__item__avatar-container">
+    <span class="reviews__item__avatar-container__content">
+        <% item.user.name.substring(0, 1).toUpperCase() %>
+    </span>
+    <i v-if="item.is_verified_buyer" class="reviews__item__avatar-container__icon icon icon--check"></i>
+</div>
+<div class="text-base w-full">
+    <span class="reviews__item__name">
+        <% item.user.name %>
+    </span>
+    <span class="reviews__item__verified" v-if="item.is_verified_buyer">
+        verified buyer
+    </span>
+    <span class="reviews__item__date">
+        <% $helpers.getDate('dd-mm-YYYY', item.created_at) %>
+    </span>
+
+    <div class="my-2">
+        <star-rating
+            :rating="item.score"
+            :show-rating="false"
+            :star-size="20"
+            :read-only="true"
+            :increment="0.1">
+        </star-rating>
+    </div>
+
+    <div class="flex flex-col">
+        <span class="font-bold">
+            <% item.title %>
+        </span>
+        <p class="mb-4">
+            <% item.body %>
+        </p>
+    </div>
+
+    
+    <div v-if="item.comment" class="reviews__item__comment">
+        <img :src="item.comment.image" class="reviews__item__comment__image">
+        <div class="flex flex-col tablet:pl-4 w-full">
+            <div>
+                <span class="reviews__item__name">
+                    <% item.comment.name %>
+                </span>
+
+                <span class="reviews__item__date">
+                    <% $helpers.getDate('dd-mm-YYYY', item.comment.created_at) %>
+                </span>
+            </div>
+
+            <% item.comment.content %>
+        </div>
+    </div>
+</div>            </div>
+        </div>
+
+        <div v-if="pagination.last_page > 1">
+            <ul class="pagination">
+    <li :class="{'pagination__item' : true, 'pagination__item--disabled' : pagination.page <= 1}">
+        <a class="pagination__item__link" :href="getPreviousPageUrl()">
+            <span class="icon icon--angle-left">
+                &nbsp; Previous
+            </span>
+        </a>
+    </li>
+
+    <li class="pagination__item" v-if="pageNumber > 0" v-for="pageNumber in [pagination.page - 2, pagination.page - 1]">
+        <a class="pagination__item__link" :href="getUrl((pageNumber == 1 ? '' : pageNumber))">
+            <% pageNumber %>
+        </a>
+    </li>
+    <li class="pagination__item pagination__item--active">
+        <a class="pagination__item__link" href="javascript:void(0);">
+            <% pagination.page %>
+        </a>
+    </li>
+    <li class="pagination__item" v-if="pageNumber <= pagination.last_page" v-for="pageNumber in [parseInt(pagination.page) + 1, parseInt(pagination.page) + 2]">
+        <a class="pagination__item__link" :href="getUrl(pageNumber)">
+            <% pageNumber %>
+        </a>
+    </li>
+
+    <li :class="{'pagination__item' : true, 'pagination__item--disabled' : pagination.page >= pagination.last_page }">
+        <a class="pagination__item__link" :href="getUrl((pagination.page + 1))">
+            Next &nbsp;
+
+            <span class="icon icon--angle-right"></span>
+        </a>
+    </li>
+</ul>        </div>
+    </div>
+</script><script type="text/x-template" id="vue-product-converter">
+    <div v-if="mounted" class="flex flex-col tablet-landscape:flex-row">
+
+        
+        <div class="tablet-landscape:flex-1">
+            <div class="flex flex-row mb-4 -mx-1">
+                <button v-for="keyProvider in keyProviders"
+                        @click="setKeyProvider(keyProvider.id)"
+                        type="button"
+                        class="button button--primary mx-1"
+                        :class="{'bg-grey-dark text-white': active.keyProvider && active.keyProvider.id == keyProvider.id}">
+                    <% keyProvider.title %>
+                </button>
+            </div>
+
+            <div v-html="translations.howMany"></div>
+
+            <select class="select select--text-sm mt-2" data-id="items" autocomplete="off" v-model="dropdownValue" @change="selectItem()">
+                <option value="" v-if="$helpers.isMobile() || $helpers.isTablet()">
+                    <% translations.selectProductPlaceholder.mobile %>
+                </option>
+                <option value="" v-else>
+                    <% translations.selectProductPlaceholder.desktop %>
+                </option>
+                <option v-for="item in items" :value="item.id" v-if="active.keyProvider && active.keyProvider.id == item.key_provider_id">
+                    <% item.title %>
+                </option>
+            </select>
+        </div>
+
+        
+        <div class="bg-green-lighter p-4 w-full mx-0 tablet-landscape:flex-1 my-4 tablet-landscape:my-0 tablet-landscape:mx-3">
+            <div v-if="active.item">
+                <strong class="text-2xl font-normal block text-green mb-2">
+                    <% active.item.title %>
+                </strong>
+                <span class="text-grey-dark" v-html="translations.converterText.replace(':item', active.item.title).replace(':products', productTitles.join(', '))"></span>
+            </div>
+            <div v-else class="text-grey-darker font-semibold" v-html="translations.secondBox.defaultText"></div>
+        </div>
+
+        
+        <div class="bg-green-lighter p-4 tablet-landscape:flex-1">
+            <div v-if="items && active.products" class="-mt-2">
+                <div class="flex flex-col">
+                    <div v-for="product in active.products" class="flex border-b border-solid border-grey py-2">
+                        <div v-if="product.packshot">
+                            <img :src="product.packshot" style="max-width: 65px;">
+                        </div>
+                        <div class="w-full px-4 items-center">
+                            <span class="font-semibold block text-sm truncate">
+                                <% product.quantity %>x
+                                <% product.title %>
+                            </span>
+                            <span class="text-grey text-sm block">
+                                Digital edition
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                <div class="bg-white mb-4">
+                    <div class="border-b border-solid border-green-lighter mt-4 p-2">
+                        <% active.item.title %>
+                    </div>
+                    <div class="p-2">
+                        Total
+                        <span class="float-right">
+                                                            <span>£</span>
+                                                        <span><% totalPrice %></span>
+                                                    </span>
+                    </div>
+                </div>
+                <button @click="addToCart()" :disabled="loading" class="button button--cta" type="button">
+                    Buy
+                </button>
+            </div>
+            <div v-else class="text-grey-darker font-semibold">
+                <% translations.thirdBox.defaultText %>
+            </div>
+        </div>
+    </div>
+</script>
+<script type="text/x-template" id="vue-page-widget-email-subscribe">
+    <div class="card">
+        <div class="card__header">
+            Subscribe!
+        </div>
+        <div class="card__body" v-if="!subscribed">
+            <% textSmall %>
+
+            <email-field>
+                <input class="input-text" :placeholder="$helpers.htmlEntityDecode(&quot;E-mail&quot;)" v-model="email" @keyup.enter="subscribe()" name="email" type="email" id="email">
+            </email-field>
+
+            <div class="py-4">
+                <% textMedium %>
+            </div>
+
+            <div class="text-center">
+                <button class="button button--primary w-1/2 inline-block" :disabled="!email || !$helpers.isValidEmailAddress(email)" @click="subscribe()" type="button">Confirm</button>
+            </div>
+        </div>
+        <div class="card__body py-0" v-else>
+            <div class="alert alert--success">
+                You have successfully subscribed to our newsletter!
+            </div>
+        </div>
+    </div>
+</script>
+<script>if(typeof app == 'undefined') {
+        var app = {};
+    }
+    app.data = {"country":{"code":"GB","decimal_seperator":".","thousand_seperator":",","currency_after_amount":0,"localized":{"title":"Great Britain"}},"language":{"locale":"en-gb","code":"en","title":"English"},"currency":{"symbol":"\u00a3"},"region":"gb-en","urls":{"CartController@hasAvailableQuantityForProductTypeAndKeyProvider":{"method":"GET","url":"https:\/\/startselect.com\/gb-en\/cart\/has-available-quantity"},"CartController@index":{"method":"GET","url":"https:\/\/startselect.com\/gb-en\/cart"},"GeofenceController@acceptInvalidCountry":{"method":"GET","url":"https:\/\/startselect.com\/gb-en\/accept-invalid-country"},"HelpCenterController@search":{"method":"GET","url":"https:\/\/startselect.com\/gb-en\/help\/search"},"HelpCenterController@openArticle":{"method":"GET","url":"https:\/\/startselect.com\/gb-en\/help\/search\/open-article"},"PaymentsController@renderResponseByTransactionId":{"method":"GET","url":"https:\/\/startselect.com\/gb-en\/payment\/render-response\/{transactionId}"},"ProductCombinationsController@getData":{"method":"GET","url":"https:\/\/startselect.com\/gb-en\/product-converter\/{identifier}"},"ProductOverviewsController@searchPage":{"method":"GET","url":"https:\/\/startselect.com\/gb-en\/search"},"ProductSearchController@autocomplete":{"method":"GET","url":"https:\/\/startselect.com\/gb-en\/autocomplete"},"ProductSearchController@search":{"method":"GET","url":"https:\/\/startselect.com\/gb-en\/searchQuery"},"UsersController@index":{"method":"GET","url":"https:\/\/startselect.com\/gb-en\/account"},"CartController@addProductsByOrderProductIds":{"method":"POST","url":"https:\/\/startselect.com\/gb-en\/cart\/add-products-by-order-product-ids"},"CartController@addProductsByProductIds":{"method":"POST","url":"https:\/\/startselect.com\/gb-en\/cart\/add-products-by-product-ids"},"CartController@store":{"method":"POST","url":"https:\/\/startselect.com\/gb-en\/cart"},"CouponsController@apply":{"method":"POST","url":"https:\/\/startselect.com\/gb-en\/coupon\/apply"},"GiftsController@add":{"method":"POST","url":"https:\/\/startselect.com\/gb-en\/gift\/add"},"NewsletterSubscribersController@store":{"method":"POST","url":"https:\/\/startselect.com\/gb-en\/newsletter\/subscribe"},"NotificationController@dismiss":{"method":"POST","url":"https:\/\/startselect.com\/gb-en\/notification\/dismiss"},"OrdersController@confirm":{"method":"POST","url":"https:\/\/startselect.com\/gb-en\/order\/confirm"},"OrderProductsController@redeem":{"method":"POST","url":"https:\/\/startselect.com\/gb-en\/order-products\/{id}\/redeem"},"PaymentsController@getRedirectUrlByTransactionId":{"method":"POST","url":"https:\/\/startselect.com\/gb-en\/payment\/get-redirect-url?{transactionId}"},"PaymentsController@status":{"method":"POST","url":"https:\/\/startselect.com\/gb-en\/payment\/status"},"ProductsController@subscribe":{"method":"POST","url":"https:\/\/startselect.com\/gb-en\/product\/{id}\/subscribe"},"ReviewsController@storeVote":{"method":"POST","url":"https:\/\/startselect.com\/gb-en\/reviews\/vote"},"UsersController@authenticate":{"method":"POST","url":"https:\/\/startselect.com\/gb-en\/account\/authenticate"},"UsersController@convertGuestToAccount":{"method":"POST","url":"https:\/\/startselect.com\/gb-en\/account\/create-from-guest"},"UsersController@generateResetPasswordTokenAndSendEmail":{"method":"POST","url":"https:\/\/startselect.com\/gb-en\/account\/reset\/send-email"},"UsersController@register":{"method":"POST","url":"https:\/\/startselect.com\/gb-en\/account\/register"},"UsersController@usesAccountSince":{"method":"POST","url":"https:\/\/startselect.com\/gb-en\/account\/uses-account-since"},"CartController@update":{"method":"PUT","url":"https:\/\/startselect.com\/gb-en\/cart\/{rowid}"},"UsersController@updateNewsletterSetting":{"method":"PATCH","url":"https:\/\/startselect.com\/gb-en\/account\/update-newsletter"},"CartController@destroy":{"method":"DELETE","url":"https:\/\/startselect.com\/gb-en\/cart\/{cart}"}},"countrySwitch":{"show":true,"accepted":false},"refreshOnLogin":false,"translations":{"account":{"invalid_email":{"title":"Invalid e-mail address","text":"We've noticed that your e-mail address is not valid, please update your e-mail address as soon as possible in your account settings. \r\n\r\nWithout a valid e-mail address we cannot deliver any orders via e-mail. "},"my":{"account":"My Account"}},"your_password":"Your password","password_reset_email_sent":"If the data was found you will receive the e-mail within a few minutes.","buttons":{"ok":"OK","cancel":"Cancel","confirm":"Confirm"},"copy_to_clipboard":{"success":"Successfully copied to clipboard","failed":"Could not copy, please use Ctrl + C"},"pagination":{"next":"Next","previous":"Previous"},"placeholder":{"email":"Please enter your e-mail address","password":"Please enter your password","name":"Please enter your name","choose_password":"Choose your password","confirm_password":"Confirm your password"},"validation":{"emailInvalid":"The e-mail address you provided is invalid.","passwordDifferent":"Make sure both passwords are identical. ","passwordLength":"Your password should contain at least %s characters.","requiredFieldsEmpty":"Please fill out all the required fields.","giftSameEmail":"The E-mail address and Confirm e-mail address must match."},"defaultError":"Something went wrong. Please try again.","search":{"placeholder":"Search for"},"paypal":{"billing_agreement":{"consent":{"body":"Do you want PayPal instant payments to be enabled? This is the fastest way to get your code for current and future purchases. More information on PayPal instant payments can be found <a href=\"https:\/\/startselect.com\/gb-en\/help\/articles\/paypal-instant-payments\/53\" target=\"_blank\">here<\/a>.","buttons":{"cancel":"No","confirm":"Yes, use one-click payments"}}}}},"user":[],"cart":{"productTotal":0}};
+
+app.data.modules = typeof app.data.modules == 'undefined' ? {} : app.data.modules;</script>
+<script src="https://startselect.com/dist/vendor.min.js?v=2018-4"></script>
+<script src="https://startselect.com/dist/app_2018-9-11_7-34-13.js"></script>
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "name": "Startselect",
+    "url": "https://startselect.com/gb-en/privacy-policy",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Startselect",
+        "url": "https://startselect.com/gb-en/privacy-policy",
+        "email": "support@startselect.com"
+                    ,"aggregateRating": {
+                "@type": "AggregateRating",
+                "bestRating": "5",
+                "ratingValue": "4.4",
+                "ratingCount": "20"
+            }
+            },
+    "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://startselect.com/gb-en/search?phrase={phrase}",
+        "query-input": "required name=phrase"
+    }
+}
+</script>
+
+
+</body></html>
