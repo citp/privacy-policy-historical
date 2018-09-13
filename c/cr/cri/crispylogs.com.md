@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crispylogs.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516081602id_/http%3A//crispylogs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crispylogs.com privacy policy that was archived on 2018-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180913031548id_/http%3A//crispylogs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Crispylogs
 
