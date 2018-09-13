@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the djmaza.com privacy policy that was archived on 2018-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180111010135id_/https%3A//www.djmaza.com/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djmaza.com privacy policy that was archived on 2018-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180913050641id_/https%3A//www.djmaza.ms/page/privacy.html) for the most accurate reproduction.*
 
-# Privacy Page - DJMaza.Life
+# Privacy Page - DJMaza.Info
 
 ### What do we use your information for?
 
