@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bzzagent.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616033625id_/https%3A//www.bzzagent.com/pg/Privacy-Notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bzzagent.com privacy policy that was archived on 2018-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180913041824id_/https%3A//www.bzzagent.com/pg/Privacy-Notice) for the most accurate reproduction.*
 
 # BzzAgent Privacy Notice | the short version...
 
