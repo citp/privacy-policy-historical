@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the dominos.co.in privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530100404id_/https%3A//www.dominos.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominos.co.in privacy policy that was archived on 2018-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180913042648id_/http%3A//www.dominos.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+#### Download the app for exclusive deals
+
+[](https://play.google.com/store/apps/details?id=com.Dominos&hl=en "Dominos Android Mobile App")
+
+[](https://itunes.apple.com/in/app/dominos-pizza-india/id523106486?mt=8 "Dominos IOS Mobile App")
 
 Welcome At Domino's we recognize that privacy is important!!
 
