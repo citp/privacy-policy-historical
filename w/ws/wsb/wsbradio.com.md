@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsbradio.com privacy policy that was archived on 2018-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180405214153id_/https%3A//www.wsbradio.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsbradio.com privacy policy that was archived on 2018-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180913045209id_/https%3A//www.wsbradio.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Atlanta: News, Weather and Traffic
 
