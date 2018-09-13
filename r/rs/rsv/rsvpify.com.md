@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the rsvpify.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701152121id_/https%3A//rsvpify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsvpify.com privacy policy that was archived on 2018-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180913103816id_/https%3A//rsvpify.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RSVPify
 
 **COLLECTION OF PERSONAL INFORMATION**
 
-You can browse RSVPify.com without telling us who you are or revealing any personal information about yourself.  If, on the other hand, you register for an account with us, you give us your personal information, and you are not anonymous.  If you choose to provide us with personal information, you consent to the transfer and storage of that information on our servers located in the United States.
+You can browse RSVPify.com without telling us who you are or revealing any personal information about yourself. If, on the other hand, you register for an account with us, you give us your personal information, and you are not anonymous. If you choose to provide us with personal information, you consent to the transfer and storage of that information on our servers located in the United States.
 
 We collect the following types of personal information in order to provide you with the use of and access to our site, applications, services and tools, and to help us personalize and improve your experience:
 
-Information we collect automatically **:  **When you visit our site, use our applications, services, and tools, or interact with our advertising or content, we automatically collect information sent to us by your computer, mobile device, or other access device. This information is associated with you personally only when sign in as a registered user, and includes but is not limited to:
+Information we collect automatically **:  **When you visit our site, use our applications, services, and tools, and/or interact with our advertising or content, we automatically collect information sent to us by your computer, mobile device, or other access device. This information is associated with you personally only when sign in as a registered user, and includes but is not limited to:
 
   * device ID or unique identifier, device type, geo-location information, computer and connection information, statistics on page views, traffic to and from the site, referral URL, ad data, IP address, and standard web log information,
   * anonymous information collected through our use cookies and web beacons.
 
 
 
-Information you give us: We collect and store any information you enter on RSVPify.com or you provide to us in context of using RSVPify.com.  This may include, but is not limited to:
+Information you give us: We collect and store any information you enter on RSVPify.com or you provide to us in context of using RSVPify.com. This may include, but is not limited to:
 
   * information you provide us when registering for an account, including email address, phone number, mobile telephone number, physical contact information, and financial information, such as credit card or bank account numbers;
   * additional information you may provide to us via social media site or services;
@@ -25,22 +25,26 @@ Information you give us: We collect and store any information you enter on RSVP
 
 
 
- **  
-MOBILE**
+**TRANSFER OF PERSONAL DATA**
+
+The Service is hosted and operated in the United States (“U.S.“), with development, support, and maintenance operations in other countries. If you do not reside in the U.S., laws in the U.S. (and other countries) may differ from the laws where you reside. By using the Service, you acknowledge that any Personal Data about you, regardless of whether provided by you or obtained from a third party, is being provided to RSVPify in the U.S. and will be hosted on U.S. servers, and you authorize RSVPify to transfer, store, host and process your information to and in the U.S., and possibly other countries. By providing information to RSVPify, you consent to the storage of your Personal Information in the United States, irregardless of where you reside. **  
+**
+
+**MOBILE**
 
 When you download or use our Mobile Applications, or access one of our mobile optimized sites, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location based services, such as advertising, search results, and other personalized content. Most mobile devices allow you to control or disable location services in the device’s setting’s menu. If you have questions about how to disable your device’s location services, we recommend you contact your mobile service carrier or the manufacture of your particular device.
 
- **INFORMATION FROM OTHER SOURCES**
+**INFORMATION FROM OTHER SOURCES**
 
 We may receive or collect supplemental information about you from third parties sources and add it to our account information. This may include, but is not limited to, demographic, navigation information, additional contact information, credit check information, background check information, and additional information about you from credit bureaus or other sources, as permitted by law.
 
- **INFORMATION SHARING & REGISTRATION WITH SOCIAL MEDIA SITE**
+**INFORMATION SHARING & REGISTRATION WITH SOCIAL MEDIA SITE**
 
 We offer sign-on services that allow you to use third party login credentials to access the RSVPify site or related site. We also offer services that allow you to share information with third party social media website such as Facebook, Google Plus, Twitter, and others.
 
 You may choose to provide us with access to certain personal information stored by such third party website. The personal information we have access to varies by website and is controlled your by privacy settings on that website and your consent. By associating an account managed by a third party with your RSVPify account and authorizing RSVPify to have access to this information, you agree that RSVPify may collect, use and store information from these website in accordance with this Privacy Policy.
 
- **USE OF PERSONAL INFORMATION**
+**USE OF PERSONAL INFORMATION**
 
 Our primary purpose in collecting personal information is to provide you with access to our site and/or use of our services, applications and tools, provide you with requested customer service and relevant information about your account and our services, and to provide you with a safe, smooth, efficient, and customized experience. You agree that we may use your personal information to:
 
@@ -55,14 +59,13 @@ Our primary purpose in collecting personal information is to provide you with ac
 
 
 
- **  
-MARKETING**
+**MARKETING**
 
-Personally identifiable information including but not limited to your contact information (name, email address, phone number, billing address, etc.) and that of your guests is kept strictly confidential, and will never be sold, rented or otherwise used for the purposes of third-party marketing. RSVPify will never market its services or the services of its partners to your guests, but may from time to time send marketing-related emails to confirmed users of RSVPify.
+Personally identifiable information including but not limited to your contact information (name, email address, phone number, billing address, etc.) and that of your guests is kept strictly confidential, and will never be sold, or rented. RSVPify will not market its services or the services of its partners to your guests, but may from time to time send marketing-related emails to confirmed users of RSVPify.
 
-We allow third-party companies to collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect and use non-personally identifiable information (e.g., hashed data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you.  To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at www.aboutads.info and Networking Advertising Initiative at www.networkadvertising.org/choices/.
+We allow third-party companies to collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect and use non-personally identifiable information (e.g., hashed data, click stream information, browser type, device IDs, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites.  in order to provide advertisements about goods and services likely to be of greater interest to you. These advertising partners may use this information (and similar information collected from other websites) for purposes of delivering targeted advertisements to you when you visit non-RSVPify related websites within their networks. This practice is commonly referred to as “interest-based advertising” or “online behavioral advertising". We may allow access to other data collected by the Site to facilitate transmittal of information that may be useful, relevant, valuable or otherwise of interest to you. If you prefer that we do not share your Personal Information with Third-Party advertising partners, you may opt-out of such sharing at no cost by following the instructions in below (after the Disclosure of your Personal Information section).
 
- **OUR DISCLOSURE OF YOUR PERSONAL INFORMATION**
+**OUR DISCLOSURE OF YOUR PERSONAL INFORMATION**
 
 We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that content or information violates the rights of others, or protect anyone’s rights, property, or safety. Such information will be disclosed in accordance with this Privacy Policy and applicable laws and regulations. As stated above, we do not disclose your personal information to third parties for their marketing purposes without your explicit consent.
 
@@ -81,11 +84,27 @@ We may also share your personal information with:
 
 Without limiting the above, in an effort to respect your privacy and our ability to keep the community free from bad actors, we will not otherwise disclose your personal information to law enforcement, other government officials, or other third parties without a subpoena, court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity.
 
- **USING INFORMATION FROM RSVPIFY**
+**OPT-OUT (RIGHT TO RESTRICT PROCESSING)**
+
+_General:  _You have the right to opt-out of certain uses and disclosures of your Personal Information. Where you have consented to RSVPify Processing of your Personal Information or Sensitive Personal Information, you may withdraw that consent at any time and opt-out to further Processing by contacting us at support@rsvpify.zendesk.com. Even if you opt-out, we may still collect and use non-Personal Information regarding your activities on our Sites and/or information from the advertisements on Third-Party websites for non-interest based advertising purposes, such as to determine the effectiveness of the advertisements.
+
+_Email And Telephone Communications:  _If you receive an unwanted email from us, you can use the unsubscribe link found at the bottom of the email to opt-out of receiving future emails. We will process your request within a reasonable time after receipt. Note that you must click on the unsubscribe list to be removed from our marketing lists as reaching out to individual members of our support team will not qualify you for removal. Note that you will continue to receive transaction-related emails regarding products or Services you have requested. We may also send you certain non-promotional communications regarding RSVPify and our Services and you will not be able to opt-out of those communications (e.g., communications regarding updates to our Terms or this Privacy Policy).
+
+_Mobile Devices:  _RSVPify may occasionally send you push notifications through our mobile applications with information that may be of interest to you. You may at any time opt-out from receiving these types of communications by changing the settings on your mobile device. RSVPify may also collect location-based information if you use our mobile applications. You may opt-out of this collection by changing the settings on your mobile device.
+
+_“Do Not Track”:  _Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services. Please note that we do not respond to or honor DNT signals or similar mechanisms transmitted by web browsers.
+
+_Cookies And Interest-Based Advertising:_  As noted above, you may stop or restrict the placement of cookies on your computer or remove them from your browser by adjusting your web browser preferences. Please note that cookie-based opt-outs are not effective on mobile applications. However, on many mobile devices, application users may opt-out of certain mobile ads via their device settings.
+
+The online advertising industry also provides websites from which you may opt-out of receiving targeted ads from our data partners and our other advertising partners that participate in self-regulatory programs. You can access these, and also learn more about targeted advertising and consumer choice and privacy, at www.networkadvertising.org/managing/opt_out.asp, or http://www.youronlinechoices.eu/ and www.aboutads.info/choices/.
+
+To be clear, whether you are using our opt-out or an online industry opt-out, these cookie-based opt-outs must be performed on each device and browser that you wish to have opted-out. For example, if you have opted-out on your computer browser, that opt-out will not be effective on your mobile device. You must separately opt-out on each device. Advertisements on Third-Party websites that contain the AdChoices link and that link to this Privacy Policy may have been directed to you based on anonymous, non-Personal Information collected by advertising partners over time and across websites. These advertisements provide a mechanism to opt-out of the advertising partners’ use of this information for interest-based advertising purposes.
+
+**USING INFORMATION FROM RSVPIFY**
 
 We encourage you to disclose your privacy practices and respect the privacy of other users. We cannot guarantee the privacy or security of your information. To help protect your privacy, we offer a number of tools and measures to mitigate the possibility of unauthorized account access or access to our RSVP system.
 
- **HOW WE USE COOKIES**
+**HOW WE USE COOKIES**
 
 When you access our website, or use our applications and/or services and tools, we may place small data files on your computer or other device. We use these data files, commonly known as “Cookies", to help us identify you as a user, customize our services, content and advertising, to measure promotional effectiveness, and to promote trust and safety.
 
@@ -93,39 +112,42 @@ A few important things you should know about our use of Cookies:
 
   * We offer certain features that are available only through the use of Cookies
   * We use both session and persistent Cookies. Session Cookies expire and no longer have any effect when you log out of your account or close your browser. Persistent Cookies remain on your device until you erase them or they expire
-  * You are always free to decline Cookies if your browser permits, although doing so may interfere with your use of our website, applications, and/or services and tools. Refer to the help section of your browser, browser extensions, or installed applications for instructions on blocking, deleting, or disabling Cookies
+  * You are always free to decline Cookies if your browser permits, although doing so may interfere with your use of our website, applications, and/or services and tools. Refer to the Opt-Out section above and the help section of your browser, browser extensions, or installed applications for instructions on blocking, deleting, or disabling Cookies
   * We encode and protect our Cookies so that only we can interpret the information stored in them
   * You may encounter Cookies from third parties, known as service providers, that we have allowed on our site that assist us with various aspects of our web site operations and services
   * You also may encounter Cookies from third parties on certain pages of the website that we do not control and have not authorized. (For example, if you view a web page created by another user, there may be a cookie placed by that web page)
 
 
 
- **  
-NO SPAM, SPYWARE OR SPOOFING**
+**NO SPAM, SPYWARE OR SPOOFING**
 
-We and our users do not tolerate spam. Make sure to set your RSVPify communication preferences so we communicate to you as you prefer. You are not licensed to add other RSVPify users, even a user who has purchased an item from you, to your mailing list (email or physical mail) without their express consent. To report RSVPify-related spam or spoof emails to RSVPify, please forward the email to support@RSVPify.zendesk.com or support@RSVPify.zendesk.com. You may not use our communication tools to send spam or otherwise send content that would violate our Terms of Service. We automatically scan and may manually filter messages to check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content, but we do not permanently store messages sent through these tools. If you send an email to an email address that is not registered in our community (via Refer-a-Friend or other tools), we do not permanently store that email or use that email address for any marketing purpose. We do not rent or sell these email addresses.
+We and our users do not tolerate spam. Make sure to set your RSVPify communication preferences so we communicate to you as you prefer. You are not licensed to add other RSVPify users, even a user who has purchased an item from you, to your mailing list (email or physical mail) without their express consent. To report RSVPify-related spam or spoof emails to RSVPify, please forward the email to support@RSVPify.zendesk.com. You may not use our communication tools to send spam or otherwise send content that would violate our [Terms of Service](https://rsvpify.com/tos/). We automatically scan and may manually filter messages to check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content, but we do not permanently store messages sent through these tools. If you send an email to an email address that is not registered in our community (via Refer-a-Friend or other tools), we do not permanently store that email or use that email address for any marketing purpose. We do not rent or sell these email addresses.
 
- **ACCESSING, REVIEWING AND CHANGING YOUR PERSONAL INFORMATION**
+**ACCESSING, REVIEWING AND CHANGING YOUR PERSONAL INFORMATION**
 
 Your password is the key to your account. Use unique numbers, letters and special characters, and do not disclose your RSVPify password to anyone. If you do share your password or your personal information with others, remember that you are responsible for all actions taken in the name of your account. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately notify RSVPify and change your password.
 
 You can see, review and change most of your personal information by signing on to RSVPify. Generally, we will not manually modify your personal information because it is very difficult to verify your identity remotely. You must promptly update your personal information if it changes or is inaccurate.
 
- **THIRD PARTIES**
+**THIRD PARTIES**
 
 Except as otherwise expressly included in this Privacy Policy, this document addresses only the use and disclosure of information we collect from you. If you disclose your information to others on our site or other sites throughout the internet, different rules may apply to their use or disclosure of the information you provide to them. RSVPify does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. We encourage you to ask questions before you disclose your personal information to others.
 
- **CONTACT US**
+**DATA RETENTION**
 
- ****You may write to us at:
+RSVPify retains the Personal Information we receive as described in this Privacy Policy for as long as you use our Services or as necessary to fulfill the purpose(s) for which it was collected, provide our Services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws.
+
+**CONTACT US**
+
+****You may write to us at:
 
 RSVPify LLC  
-757 N. Orleans Street  
-Suite 1508  
+20 W Kinzie  
+17th Floor  
 Chicago, IL 60654
 
 …or by email at support@rsvpify.zendesk.com.
 
 LAST UPDATED
 
-December 11, 2015
+May 23, 2018
