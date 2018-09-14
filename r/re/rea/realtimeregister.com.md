@@ -1,29 +1,55 @@
-> *The following text is extracted and transformed from the realtimeregister.com privacy policy that was archived on 2004-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040213093847id_/http%3A//realtimeregister.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtimeregister.com privacy policy that was archived on 2018-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180914181826id_/https%3A//www.realtimeregister.com/privacy) for the most accurate reproduction.*
 
-# Disclaimer
+# Privacy Statement - Realtime Register
 
-**Privacy Policy**  
+## Article 1: Introduction
+
+This is the Privacy Statement of Realtime Register B.V. and the labels it controls. In this statement you can read how we handle the personal information we receive from our contact with you. Realtime Register complies with the conditions set by GDPR (General Data Protection Regulation).
+
+## Article 2: Collected personal information
+
+Your privacy is of great importance to us. We do everything we can to protect your data. To offer you services and to guarantee our service to you we do need some personal information from you. Realtime Register B.V. processes this personal information because you use our products and/or because you provide us this information yourself.
+
+Realtime Register B.V. processes data for the following purposes:
+
+  * Providing and billing our services;
+  * Sending our newsletters;
+  * Processing your orders and keeping you informed about the status of these orders;
+  * Storing customer details in our database to be able to execute the agreement between you and Realtime Register B.V.;
+  * Storing customer details in our database in order to publish them through the WHOIS-database;
+  * Implementing measures to improve our service;
+  * Providing information or offers.
 
 
-* * *
 
-  
-RealTimeRegister Privacy Statement Information  
-RealTimeRegister knows the importance of keeping your information private. That is why we have adopted this Privacy Policy, which embodies our commitment to the protection of your privacy through adherence to fair electronic information practices. This notice describes our privacy policy. By interacting with RealTimeRegister, you agree to accept the guidelines described in this Privacy Statement. 
+## Article 3: Minors
 
-Information collected by RealTimeRegister
+Realtime Register B.V. does not intend to collect information regarding persons younger than 18 years old. We also do not offer services to minors. We recommend parents to involve themselves in the online activities of their children, to prevent information about these children being collected without parental consent. If you are convinced that we have collected personal information of a minor without parental consent, please contact us so we can delete this information.
 
-Here are the types of information we gather from RealTimeRegister's visitors:
+## Article 4: Security
 
-  
-Information entered on our website or given to us in any way are collected and stored in our system. Internet Corporation for Assigned Names and Numbers ("ICANN"), an organization that assumes responsible for domain name allocation, requires information about you during the domain name registration process. The information includes: name, address, phone number, email address and fax. When you register a domain name with RealTimeRegister, we require you to provide credit card number and billing address. Financial information such as the above is collected during the domain name registration process.
+For safely transferring data we use a SSL-security system (Secure Socket Layer) with 128/256-bits-encryption. This technique offers the highest level of security and is also used in online banking because of this. All methods of payment we offer are extensively secured following this standard. You can see that your information is transmitted securely through the icon of a key or closed lock in the address bar of your browser.
 
-How the information is shared:
+## Article 5: Data of visiting website
 
-  
-It is required by ICANN that your name, address, phone number, email address and fax together with the creation and expiration dates of your domain name registration and the nameserver information associated with your domain name, be made available to the public via an interactive Web page and a "port 43" WHOIS service. Please note that RealTimeRegister may not be able to control how members of the public may use the Whois information.
+We receive data from your visit to our website. Examples of this include cookies. We use this data to get a clearer image of our customers and to develop our services and website to your personal preferences.
 
-Sites Other than RealTimeRegister
+## Article 6: Viewing and changing data
 
-  
-RealTimeRegister will not be responsible for content or privacy policies of other Web Sites such as advertisers we may link to or those which link to our site. This Privacy Statement is only responsible for the information collected on RealTimeRegister's site.
+You can always view and change the personal information you provided us with through your personal customer area. Some services provided by us use multi-factor authentication. We strongly recommend you use this feature.
+
+## Article 7: Retention period and viewing of information
+
+When you end your services with us we retain some information based on the legal retention period. We delete information which is no longer needed. After the legal retention period we delete all your data.You are entitled to view the data we have regarding yourself after you cancelled your services with us. You can always ask our customer service for access to, correction of or deletion of your personal information. To be sure the request is made by you, we will ask you to include a copy of your ID with your request. To protect your privacy, we ask you to make your picture and BSN (social security number) invisible by coloring these black. Realtime Register B.V. will respond as soon as possible, but at least within four weeks to your request.
+
+## Article 8: Sharing information with third parties
+
+Realtime Register B.V. will only share your personal information with third parties if this is absolutely necessary for us to execute our agreement with you, or to comply with a legal obligation.
+
+## Article 9: Phone calls
+
+Phone calls are recorded and stored to improve the quality of our customer service. The recordings are only used for coaching, only the coaches and the employee you had the conversation with have access to the recording. We retain the recordings for a period of 6 months.
+
+## Article 10: Changes
+
+This Privacy Statement is subject to changes. A change will be communicated through this page
