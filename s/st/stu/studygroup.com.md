@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studygroup.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212095434id_/http%3A//corporate.studygroup.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studygroup.com privacy policy that was archived on 2018-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180914205920id_/http%3A//corporate.studygroup.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Study Group: Global Leaders in International Education
 
@@ -8,75 +8,99 @@ Study Group takes your privacy very seriously. This Privacy Policy explains how 
 
 **
 
-We take your privacy seriously. This Privacy Policy, including the contained website usage policy, explains how Study Group (“We”) collect, use and process your personal data, as well as ensure information about you is kept confidential. Any information you are asked to provide using this website will only be used in the ways described in this privacy policy.
+We take your privacy seriously. This Privacy Policy, including the contained website usage policy, explains how Study Group (“we”) collect, use and process your personal data, as well as ensure information about you is kept confidential. Any information you are asked to provide using this website will only be used in the ways described in this privacy policy.
 
-Please read it carefully, as by using the International Study Centre pages of the StudyGroup Corporate website, or our services, you will be deemed to have read and accepted its terms.
+Please read it carefully, as by using this website, or our services, you will be deemed to have read and accepted its terms.
 
-This website privacy policy was updated on: 02.06.2016
+This website privacy policy was updated on 16 May 2018.
 
-### Definitions
+### INTRODUCTION
 
-Study Group means Study Group UK Limited, a company incorporated and registered in England and Wales with company number 3108030 or its wholly owned subsidiary Bellerbys Educational Services Limited, a company incorporated and registered in England and Wales with company number 02325576 as the context so applies.
+Study Group means Study Group UK Limited, a company incorporated and registered in England and Wales with company number 3108030 or any group subsidiaries.
 
-Study Centre Website means http://corporate.studygroup.com/ and any other website which states that this Privacy Policy applies to that website.
+Study Group respects your privacy and is committed to protecting your personal data. This Privacy Policy will inform you as to how we look after your personal data when you visit our website (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you.
 
-Study Group Website means www.studygroup.com and any other website which states that this Privacy Policy applies to that website.
+### PURPOSE OF THIS PRIVACY POLICY
 
-Study Group Application means any enquiry or application that this Privacy Policy applies to that Application.
+This Privacy Policy aims to give you information on how Study Group collects and processes your personal data through your use of this website, including any data you may provide through this website.
 
-### Introduction
+This website is not intended for children and we do not knowingly collect data relating to children.
 
-The Study Centre Website and Study Group Application, including all information and materials contained on them are managed by Study Group
+It is important that you read this Privacy Policy together with any other Privacy Notice or fair processing notice we may provide on specific occasions when we are collecting or processing personal data about you so that you are fully aware of how and why we are using your data. This Privacy Policy supplements the other notices and is not intended to override them.
 
-This policy (together with our terms of use and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By using the Study Group Website or the Study Centre Website and/or filling out a Study Group Application, you are accepting and consenting to the practices described in this policy. If you do not agree to these terms of use, you must not use our site.
+### CONTROLLER
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is Study Group of 1 Billinton Way, Brighton, East Sussex, BN1 4LF.
+Study Group is the controller and responsible for your personal data.
 
-### Accessing Our Site
+Study Group is made up of different legal entities who act as joint controllers. Whereas the decisions on processing may be made at the level of Study Group, you may exercise your rights under EU General Data Protection Regulation (GDPR) in respect of and against each of the controllers. This Privacy Policy is issued on behalf of the parent Study Group company so when we mention “Study Group”, “we”, “us” or “our” in this Privacy Policy, we are referring to the relevant company in Study Group responsible for processing your data.
 
-Our site is made available free of charge.
+We have appointed a Data Protection Officer (DPO) who is responsible for overseeing questions in relation to this Privacy Policy. If you have any questions about this Privacy Policy, including any requests to exercise your legal rights, please contact the DPO using the details set out below.
 
-We do not guarantee that our site, or any content on it, will always be available or be uninterrupted. Access to our site is permitted on a temporary basis. We may suspend, withdraw, discontinue or change all or any part of our site without notice. We will not be liable to you if for any reason our site is unavailable at any time or for any period.
+### CONTACT DETAILS 
 
-You are responsible for making all arrangements necessary for you to have access to our site.
+Our full details are: Study Group UK Limited, 1 Billinton Way, Brighton, BN1 4LF 
 
-You are also responsible for ensuring that all persons who access our site through your internet connection are aware of these terms of use and other applicable terms and conditions, and that they comply with them.
+Data Protection Officer: Aphaia Limited, Studio 5, 155 Commercial St, London E1 6BJ, [dpo@aphaia.co.uk](mailto:dpo@aphaia.co.uk) :  (+44) (0)20 3917 4158
 
-### Information we may collect from you
+Email address: [GDPR@studygroup.com](mailto:GDPR@studygroup.com)
 
-### We may collect and process the following data about you:
+You have the right to make a complaint at any time to the Information Commissioner’s Office, the UK supervisory authority for data protection issues ([www.ico.org.uk](http://www.ico.org.uk/)), or another Data Protection Authority that may be competent in your case. We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.
+
+### INFORMING US OF CHANGES 
+
+It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
+
+### THIRD-PARTY LINKS 
+
+This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy policy of every website you visit.
+
+### THE DATA WE COLLECT ABOUT YOU 
+
+Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data).
+
+We may process your data in order to enter into- and perform a contract with you, or based on our legitimate interest of fraud prevention, safety and security; error detection and rectification; marketing our services; or analytics in terms of visitors’ website use and their experience in order to improve the service. Sometimes we may seek your consent or get in touch based on the contact email you left on our website, of which you can always opt-out by clicking a link in our correspondence or emailing us to [GDPR@studygroup.com](mailto:GDPR@studygroup.com).
+
+We may collect, use, store and transfer different kinds of personal data about you which we have grouped together follows:
 
   * Information you give us. You may give us information about you by filling in forms on our site or by corresponding with us by phone, e-mail or otherwise. Students are asked to supply information to Study Group when applying for enrolment, at orientation sessions and during the periods of study. This includes information when applying for enrolment, at orientation sessions, during periods of study and information that you provide when you register to use our site, subscribe to our service, search for a product, and when you report a problem with our site. The information you give us may include your name, address, telephone number(s), email addresses(s), date of birth, gender, country of birth, nationality, citizenship country, passport details, academic and English language attainments, disabilities, health information, including illnesses, allergies and dietary Information. Study Group may also collect information regarding payment of fees.
   * Information we collect about you. With regard to each of your visits to our site we may automatically collect the following information:
   * technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;
   * information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number.
-  * Information we receive from other sources. We may receive information about you if you use any of the other websites we operate or the other services we provide. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them.
+  * Information we receive from other sources. We may receive information about you if you use any of the other websites we operate or the other services we provide. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them in relation to your expressed interest in our services and information required to enter into a contract with you such as creditworthiness.
 
 
 
-### Uses made of the information
+We may also collect, use and share aggregated data such as statistical or demographic data for any purpose. Aggregated data may be derived from your personal data but is not considered personal data in law as this data does not directly or indirectly reveal your identity. For example, we may aggregate your usage data to calculate the percentage of users accessing a specific website feature. However, if we combine or connect aggregated data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this Privacy Policy.
 
-### We use information held about you in the following ways:
+### IF YOU FAIL TO PROVIDE PERSONAL DATA 
 
-### Information you give to us. We will use this information:
+Where we need to collect personal data by law, or under the terms of a contract we have with you and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with services). In this case, we may have to cancel services you have with us but we will notify you if this is the case at the time.
 
-  * to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us;
-  * to provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;
-  * to provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you. If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you. If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data;
-  * to notify you about changes to our service;
-  * to ensure that content from our site is presented in the most effective manner for you and for your computer.
-  * Information we collect about you. We will use this information:
-  * to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
-  * to improve our site to ensure that content is presented in the most effective manner for you and for your computer;
-  * to allow you to participate in interactive features of our service, when you choose to do so;
-  * as part of our efforts to keep our site safe and secure;
-  * to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
-  * to make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them.
-  * Information we receive from other sources. We may combine this information with information you give to us and information we collect about you. We may use this information and the combined information for the purposes set out above (depending on the types of information we receive).
+### HOW WE USE YOUR PERSONAL DATA 
+
+We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
+
+  * Where we need to perform the contract we are about to enter into or have entered into with you.
+  * Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
+  * Where we need to comply with a legal or regulatory obligation.
 
 
 
-### Cookies
+### MARKETING
+
+We strive to provide you with choices regarding certain personal data uses, particularly around marketing and advertising. Where your personal data will be used for marketing, you will be asked for your explicit consent. 
+
+### PROMOTIONAL OFFERS FROM US 
+
+We may use your Identity, Contact, Technical, Usage and Profile Data to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which products, services and offers may be relevant for you (we call this marketing).
+
+You will receive marketing communications from us if you have requested information from us or if you provided us with your details when you entered a competition or registered for a promotion and, in each case, you have not opted out of receiving that marketing.
+
+### THIRD-PARTY MARKETING
+
+We will get your express opt-in consent before we share your personal data with any company outside Study Group for marketing purposes. 
+
+### COOKIES
 
 Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. By continuing to browse the site, you are agreeing to our use of cookies.
 
@@ -86,39 +110,53 @@ Advertising and Remarketing Cookies – Study Group uses 3rd party vendor re-mar
 
 These cookies do not in any way identify you or give access to your computer or mobile device. These cookies allow us to tailor our marketing to better suit your needs and only display messages relevant to you.
 
-You can opt out of Google’s use of cookies via Google’s Ads Settings: http://www.google.com/settings/ads.
+You can opt out of Google’s use of cookies via Google’s Ads Settings: <http://www.google.com/settings/ads>
 
-### Disclosure of your information
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. 
 
-We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+### RECIPIENTS OF YOUR PERSONAL DATA 
 
-### We may share your information with selected third parties including:
+We may have to share your personal data with companies within Study Group.
 
-  * Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you.
-  * Advertisers and advertising networks that require the data to select and serve relevant adverts to you and others.
-  * Analytics and search engine providers that assist us in the improvement and optimisation of our site.
-  * Credit reference agencies for the purpose of assessing your credit score where this is a condition of us entering into a contract with you.
+We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
+
+### TRANSFERRING INFORMATION OUTSIDE THE EU
+
+We may transfer the personal information we collect about you to the following countries outside the EU in order to perform our contract with you:
+
+  * Australia
+  * New Zealand
+  * USA
+  * Canada
+  * Brazil
+  * Republic of Ireland
+  * China
+  * Malaysia
+  * Singapore
+  * Indonesia
+  * Dubai 
+  * Hong Kong
+  * India
+  * Russia
+  * South Korea
+  * Taiwan
+  * Thailand
+  * Nigeria
+  * Vietnam 
 
 
 
-### We may disclose your personal information to third parties:
+There is an adequacy decision by the European Commission in respect of the following countries; Andorra, Argentina, Canada (commercial organisations), Faroe Islands, Guernsey, Israel, Isle of Man, Jersey, New Zealand, Switzerland, Uruguay and the US (limited to the Privacy Shield framework) as providing adequate protection. This means that these countries to which we transfer your data are deemed to provide an adequate level of protection for your personal information. 
 
-  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * If Study Group or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property, or safety of Study Group, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
-  * We will never sell your email address or other details, and all communications from us will contain a clear "unsubscribe" option.
+However, to ensure that your personal information does receive an adequate level of protection wherever it is transferred within Study Group, we have put in place appropriate measures to ensure that your personal information is treated by those third parties in a way that is consistent with and which respects the EU and UK laws on data protection. If you require further information about these protective measures, you can request it from the DPO.
 
+### DATA SECURITY 
 
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
 
-### Where we store your personal data
+We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the UK and European Union. It may also be processed by staff operating outside of these jurisdictions, who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. Countries outside of the European Union, such as the United States, may not have data privacy laws as strong as those in force in the European Union.
-
-All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
-
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
-
-### Intellectual property rights
+### INTELLECTUAL PROPERTY RIGHTS
 
 We are the owner or the licensee of all intellectual property rights in our site, and in the material published on it. Those works are protected by copyright laws and treaties around the world. All such rights are reserved.
 
@@ -132,32 +170,7 @@ You must not use any part of the content on our site for commercial purposes wit
 
 If you print off, copy or download any part of our site in breach of these terms of use, your right to use our site will cease immediately and you must, at our option, return or destroy any copies of the materials you have made.
 
-### Your rights
-
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at 1 Billinton Way, Brighton, East Sussex, BN1 4LF.
-
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
-
-### Access to information
-
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
-
-### Acceptable Use
-
-### You may use our site only for lawful purposes. You may not use our site:
-
-  * In any way that breaches any applicable local, national or international law or regulation.
-  * In any way that is unlawful or fraudulent, or has any unlawful or fraudulent purpose or effect.
-  * Not to reproduce, duplicate, copy or re-sell any part of our site in contravention of the provisions of our terms of website use.
-  * To report any weaknesses on the Website to the appropriate security staff. Weaknesses in computer security include unexpected software or system behaviour, which may result in unintentional disclosure of information or exposure to security threats.
-
-
-
-### Links to External Websites
-
-Our website may include links to other websites. We are not responsible for the content and privacy practices of other websites. We recommend that you examine each website’s Privacy Policy separately.
-
-### Viruses
+### VIRUSES
 
 We do not guarantee that our site will be secure or free from bugs or viruses.
 
@@ -165,10 +178,46 @@ You are responsible for configuring your information technology, computer progra
 
 You must not misuse our site by knowingly introducing viruses, trojans, worms, logic bombs or other material which is malicious or technologically harmful. You must not attempt to gain unauthorised access to our site, the server on which our site is stored or any server, computer or database connected to our site. You must not attack our site via a denial-of-service attack or a distributed denial-of service attack. By breaching this provision, you would commit a criminal offence under the Computer Misuse Act 1990. We will report any such breach to the relevant law enforcement authorities and we will co-operate with those authorities by disclosing your identity to them. In the event of such a breach, your right to use our site will cease immediately.
 
-### Changes to this policy
+### HOW LONG WILL YOU USE MY PERSONAL DATA FOR? 
 
-Any changes we may make to our privacy policy in the future will be posted on this page. Please check back frequently to see any updates or changes to our privacy policy.
+We will only retain your personal information for as long as is necessary either to fulfil the purposes we collected it for or for the purposes of satisfying any legal, accounting, or reporting requirements. To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and any applicable legal requirements. After this period we will use our best endeavours to securely destroy your personal information.
 
-### Contact
+In some circumstances we may anonymise your personal information so that it can no longer be associated with you, in which case we may use such information without further notice to you.
 
-If you have any questions on this policy, or how we use any personal information we may hold, please contact us at 1 Billinton Way, Brighton, East Sussex, BN1 4LF.
+### YOUR LEGAL RIGHTS
+
+Under certain circumstances, you have the following rights under data protection laws in relation to your personal data: 
+
+  * Request access to your personal data (commonly known as a “data subject access request”). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
+  * Request correction of the personal data that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
+  * Request erasure of your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.
+  * Object to processing of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.
+  * Request restriction of processing of your personal data. This enables you to ask us to suspend the processing of your personal data in the following scenarios: (a) if you want us to establish the data’s accuracy; (b) where our use of the data is unlawful but you do not want us to erase it; (c) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or (d) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.
+  * Request the transfer of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.
+  * Withdraw consent at any time where we are relying on consent to process your personal data.
+
+
+
+However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
+
+If you wish to exercise any of the rights set out above, please contact the DPO at [GDPR@studygroup.com](mailto:GDPR@studygroup.com).
+
+### NO FEE USUALLY REQUIRED 
+
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
+
+### WHAT WE MAY NEED FROM YOU 
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+
+### TIME LIMIT TO RESPOND 
+
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
+
+### CHANGES TO THIS POLICY
+
+Any changes we may make to our Privacy Policy in the future will be posted on this page. Please check back frequently to see any updates or changes to our Privacy Policy.
+
+### CONTACT AND COMPLAINTS
+
+Please contact [GDPR@studygroup.com](mailto:GDPR@studygroup.com) when you are exercising your rights listed in this policy, or our Data Protection Officer at [dpo@aphaia.co.uk](mailto:dpo@aphaia.co.uk) where you have a query about how we process the data. 
