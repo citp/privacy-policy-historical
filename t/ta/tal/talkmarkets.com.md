@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talkmarkets.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614202012id_/http%3A//www.talkmarkets.com/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkmarkets.com privacy policy that was archived on 2018-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180915000252id_/http%3A//talkmarkets.com/Privacy-policy) for the most accurate reproduction.*
 
 # TalkMarkets - privacypolicy
 
