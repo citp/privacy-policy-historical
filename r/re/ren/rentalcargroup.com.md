@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the rentalcargroup.com privacy policy that was archived on 2017-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170323192607id_/https%3A//www.rentalcargroup.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentalcargroup.com privacy policy that was archived on 2018-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180914095108id_/https%3A//www.rentalcargroup.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# 🚗 Privacy Policy - RentalCarGroup car hire, car rental with all-inclusive rates
+# 🚗 Privacy Policy | RentalCarGroup rent a car, car rental with all-inclusive rates
 
-## We offer a price comparison of all major and independent car rental suppliers
-
-**We  know how serious you are about your personal privacy. We value our customer relationship with you and we keep your privacy in mind. You have a right to know how we use the personal data we collect in order to help you with your car hire.**
+**We  know how serious you are about your personal privacy. We value our customer relationship with you and we keep your privacy in mind. You have a right to know how we use the personal data we collect in order to help you with your rent a car.**
 
 The following represents our privacy policy regarding the collection, handling, and distribution of your personal data.  
 The information we collect is used:
@@ -23,8 +21,8 @@ We share this information with the car rental franchisees that provide you 
 **Security**  
 We protect our customer information. Any personal data we receive through our site is protected and encrypted by Secure Socket Layer (SSL). We have taken what we believe to be reasonable steps to ensure your personal data is accessible only to those whom we designate.
 
-###### Contact our reservations department:
+###### Contact our reservations department
 
 [EST] Mon - Fri: 03:00 - 16:00  Sat - Sun : 03:00 - 11:00
 
-[GMT] Mon - Fri: 08:00 - 23:00  Sat - Sun : 08:00 - 16:00
+[GMT] Mon - Fri: 08:00 - 16:00  Sat - Sun : 08:00 - 16:00
