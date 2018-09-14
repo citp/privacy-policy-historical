@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instanttrafficgeneration.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607095954id_/http%3A//instanttrafficgeneration.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instanttrafficgeneration.com privacy policy that was archived on 2018-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180914083917id_/http%3A//instanttrafficgeneration.com/privacy.php) for the most accurate reproduction.*
 
 # Worldprofit's Instant Traffic Generation Free Traffic Exchange | Free Advertising Free Web Traffic
 
