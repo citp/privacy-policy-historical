@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdn77.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109155810id_/https%3A//www.cdn77.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdn77.com privacy policy that was archived on 2018-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180914204139id_/https%3A//www.cdn77.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CDN77.com
 
@@ -16,9 +16,19 @@ The Site does not enable our visitors to communicate with other visitors or to p
 
 The Site may include links to third party Web service providers.
 
-### Automatic collection of information
+### Automatic collection of non-personal information (visitors)
 
-We may automatically log personal data by means such as programming or we may link information automatically logged by such means with personal data about specific individuals. We may also use cookies to store personal data or we may link information stored in cookies with personal data about specific individuals. We do so for the following purposes:
+We may collect non-personal data when you visit our Site. For example, we collect data such as randomly assigned numeric identifiers with respect to general Site usage on a non-personally identifiable basis. Other non-personal data may be collected by our partners for statistical purposes. We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. The data are processed in accordance with applicable laws, including the GDPR. We do so for the following purposes: 
+
+  * Statistical purposes
+  * Marketing
+  * Social media features
+
+
+
+### Automatic collection of personal information (customers and logged users)
+
+We may automatically log personal data by means such as programming or we may link information automatically logged by such means with personal data about specific individuals. We may also use cookies to store personal data or we may link information stored in cookies with personal data about specific individuals. The data are processed in accordance with applicable laws, including the GDPR. We do so for the following purposes: 
 
   * Technical administration of the web site
   * Research and development
@@ -65,11 +75,11 @@ All of our employees and data processors who have access to, and are associated 
 
 Please note that personal data may be disclosed in compliance with legally mandated reporting and disclosure requirements, as well as judicial, subpoena, warrants, or other government orders and legal process requirements.
 
-Access to the personal data we may hold about you
+### Access to the personal data we may hold about you
 
 You can ask us, by sending an email (to [support@cdn77.com](mailto:support@cdn77.com)) whether we are keeping personal data about you.
 
-Upon request, which you can indicate by sending an email (to [support@cdn77.com](mailto:support@cdn77.com)), we will provide you with a readable copy of the personal data which we keep about you, within a month. This requires proof of your identity.
+Upon request, which you can indicate by sending an email (to [support@cdn77.com](mailto:support@cdn77.com)), we will provide you with a machine-readable, structured copy of the personal data which we keep about you, within 30 days. This requires proof of your identity. We verify email address associated with your request. 
 
 We allow you to challenge the data that we hold about you and, where appropriate, you may have the data:
 
