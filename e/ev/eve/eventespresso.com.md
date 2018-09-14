@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the eventespresso.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018003507id_/http%3A//eventespresso.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventespresso.com privacy policy that was archived on 2018-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180914161215id_/https%3A//eventespresso.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Event Espresso - WordPress Event Registration Calendar Ticketing Manager Plugin
+# Privacy Policy - Event Espresso
+
+**Live outside of the United States?** Please refer to our [Privacy Notice](https://eventespresso.com/privacy-notice/) for more information about how we protect your personal data.
 
 _Your privacy is critically important to us. At Event Espresso we have a few fundamental principles:_
 
@@ -51,3 +53,7 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 **Privacy Policy Changes**
 
 Although most changes are likely to be minor, Event Espresso may change its Privacy Policy from time to time, and in Event Espresso’s sole discretion. Event Espresso encourages visitors to frequently check this page for any changes to its Privacy Policy.
+
+**Privacy Notice**
+
+If you live outside of the United States or just want to learn more about how we protect your data, then please refer to our [Privacy Notice](https://eventespresso.com/privacy-notice/).
