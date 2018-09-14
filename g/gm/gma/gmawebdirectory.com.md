@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmawebdirectory.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606045322id_/http%3A//www.gmawebdirectory.com/our_site_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmawebdirectory.com privacy policy that was archived on 2018-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180914123557id_/http%3A//www.gmawebdirectory.com/our_site_privacy_policy.html) for the most accurate reproduction.*
 
 # Montreal Directory Quebec Canada Directroy and Greater Montreal Area Montreal business listings and yellow pages - Our Site Privacy Policy
 
