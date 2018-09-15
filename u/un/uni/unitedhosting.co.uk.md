@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitedhosting.co.uk privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616204018id_/https%3A//www.unitedhosting.co.uk/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedhosting.co.uk privacy policy that was archived on 2018-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180915195552id_/https%3A//www.unitedhosting.co.uk/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UnitedHosting
 
