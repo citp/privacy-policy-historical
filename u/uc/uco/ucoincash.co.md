@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucoincash.co privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630191752id_/https%3A//ucoincash.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucoincash.co privacy policy that was archived on 2018-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180915114916id_/https%3A//ucoincash.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -72,4 +72,4 @@ COOKIES
 
 Most web browsers are set to accept cookies by default. If you prefer, you can usually set your browser to remove or reject cookies, but note that doing so does not necessarily affect third party flash cookies used in connection with our Site. If you choose to remove or reject cookies, this could affect the availability and functionality of our Site. 
 
-If you have any questions about this Privacy Policy contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4a393f3a3a25383e0a3f29252324292b3922642925)
+If you have any questions about this Privacy Policy contact us at [support@ucoincash.co](mailto:support@ucoincash.co)
