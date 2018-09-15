@@ -1,133 +1,137 @@
-> *The following text is extracted and transformed from the revahealth.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606203522id_/http%3A//www.whatclinic.com/viewprivacy.aspx%3FTB_iframe%3Dtrue%26height%3D600%26width%3D800) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revahealth.com privacy policy that was archived on 2018-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180915150447id_/https%3A//www.whatclinic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# WhatClinic - Privacy Policy
 
-**_Privacy Statement_**
+WhatClinic (“we”) are committed to safeguarding the privacy of our website visitors and registered users of the WhatClinic platform; this Notice sets out how we will treat your personal data when we act as the controller of that data and when its processing is governed by the EU General Data Protection Regulation (GDPR).
 
-Global Medical Treatment Limited, trading as whatclinic.com ("WhatClinic.com", "we" or "us") respects and protects your right to privacy in relation to your interactions with this website. We have adopted the following policies to safeguard your personal information and to protect its confidentiality. Any information which is provided by you to whatclinic.com via this website or otherwise will be treated in accordance with the terms of the Data Protection Acts 1988 and 2003 (the "Acts") and/or such amending or replacement legislation as may be adopted in Ireland from time to time. You should read this Privacy Statement carefully before using this website. If you do not read or if you disagree with any aspect of the Privacy Statement, you should not use this website. Your use of this website signifies your agreement to be bound by the terms of this Privacy Statement.
+### Definitions
 
-**_Access by Minors_**
+We use the term “personal data” to refer to any information collected or processed by, or in connection with, this website or the platform, that directly, or indirectly, identifies you or factors specific to you, such as your name, IP address or user preferences.  
+Below we describe “lawful grounds” for processing your personal data. These lawful grounds (sometimes also referred to as “legal basis”) are the justification under GDPR for the processing of your personal data. If there are no lawful grounds for processing your personal data neither we, nor anyone else, is permitted to access or process your personal data.
 
-If you are aged 18 or under, you should not use this website nor should you provide any personal information to us via the website.
+### What personal data do we collect?
 
-### Information For Consumers
+We may collect, store and use the following kinds of information and personal data (“Collected Information”):
 
-  1. Contacting Provider Clinics or Providers via our Website: If you are a consumer seeking to arrange a consultation with a clinic or provider of healthcare, aesthetic, holistic and similar services and other parties listed on the website www.whatclinic.com (a "Provider"), then you will be asked to provide certain personal information to us so that Providers who are registered with us can decide if they wish to offer medical services to you. Such information will include, without limitation, details such as your name, address, contact details (including email and telephone number) and relevant medical information. If you do not wish to provide your name to us, you may use an alias. If you wish to arrange a consultation with a Provider, then you acknowledge that we may provide all information that you have submitted to us via the website including any personal information to that Provider and you **explicitly consent to such disclosure**. This information may also include statistical information concerning your use of the Website.
-  2. Registered Users: Certain functions on our Website require you to set up an account and to become a registered user of our Website and requires you to give us details of your name, address, phone number, valid email address and certain other personal information. You may include other information to personalise your account, such as your gender and your reviews of Providers. You acknowledge and agree that information which is publicly available on your account (such as your user name, reviews and comments which you post on our Website) may become publicly available and used by third parties, and we have no obligations to you for any information which you made publicly available. You also explicitly consent to our processing your personal data and the transfer and disclosure of your personal information to Providers that are based in countries where protections for personal data are not as strong as those in Ireland under the Acts or in the European Union generally.
-  3. We use any personal information you provide to identify you as a prospective patient, to process your request for medical services, and to deliver relevant information about you to Providers and to facilitate consultations with Providers. We may also use your contact details, phone number and email address, to contact you from time to time to update you as to progress in relation to your consultation with a Provider and other matters concerning the service we provide. You consent to us contacting you in this regard. We will not sell your personal information to any third parties for marketing purposes without your consent.
-  4. We may from time to time transfer your data to one of our authorised service providers for customer service, business management, service delivery or service quality purposes. We will ensure that our authorised service providers process your information in a secure manner and in accordance with this Privacy Statement. 
-  5. We may also receive anonymous data from third parties which, when combined with other data which we retain, may be capable of identifying you. This combined data will be safeguarded by us in the same way as other personal data as described in this Privacy Statement. 
-  6. We may use the information you make available to us to send you details of promotions or offers. If you do not wish us to contact you for marketing purposes, you may notify us by following the "unsubscribe" links on email communications issued by us and/or contacting us directly at +353 (0)1 906 0122
-  7. Apart from the information you provide us with during the course of our provision of Services to you, we may also collect and process the following data: 
-    * When you contact us, we will keep a record of that correspondence;
-    * Site visit data, technical and statistical data. See the section on technical and statistical data later below.
-    * Information we collect using cookies and/or selected third party websites. See the section on Cookies below.
-    * Communication with Us, Providers, or other Users of our Services through comments, feedback and either private or public messaging on site services;
-    * Your telephone conversations - these may be recorded both to assist us in training and in quality management, and to allow for the speedy resolution of queries;
-
-
-
-You acknowledge and consent to the recording and retention of such information for these purposes.
-
-### Information For Providers
-
-  8. If you are a Provider (or a representative of a Provider) who wishes to use whatclinic.com’s online marketplace, then you will be asked to submit personal information as part of our registration process, for example, name, email address, phone number etc. This personal information will be used to facilitate medical consultations with prospective patients. You explicitly consent to the disclosure of all necessary personal information to prospective patients. Other than this authorised disclosure, whatclinic.com will not release any personal information to any third parties without your prior consent except for the purposes of validating information or unless we reasonably believe that we are required to do so by operation of law. whatclinic.com retains the right at all times to contact you in relation to the services provided on this website.
-  9. We use any personal information you provide to identify you as a Provider, to process your registration, to verify credit or other charge card details, to process your credit card transactions and to deliver relevant information about you to prospective patients and to facilitate consultations with prospective patients. We will not give or sell your personal information to any third parties for marketing purposes without your consent.
-  10. You also acknowledge and agree that in certain circumstances we may be obliged to disclose personal information that you have provided to us to third parties, for example, to our credit card payment service provider, in order to conform to any requirements of law or to comply with any legal process, as well as to protect and defend our rights and/or the rights of prospective patients.
+  1. information and personal data about your visits to and use of this website and our platform. We collect personal data about your computer and your visits to this website or the platform, including your IP address, geographical location, browser type, referral source, length of visit and number of page views, all of which are also Collected Information.
+  2. information about any transactions carried out between you and us on this website, including information relating to any purchases you make of our goods or services. We collect: 
+    * First and last name
+    * Title
+    * Contact information (email, phone)
+    * Professional life data
+    * Personal life data
+    * Connection data
+    * Localisation data
+    * Application usage data
+    * Email communication data
+    * Call recording data
+  3. information that you provide to us for the purpose of registering with us on the website or platform and/or subscribing to our website services and/or email notifications. We collect first and last name, email address, and phone number for these purposes.
 
 
 
-If at any time after giving us this information you decide that you no longer wish us to hold or use this information, or in the case that the information becomes out of date, you are free to notify us, and we will endeavour to remove or rectify the information promptly.
+### Cookies and other tracking technologies we use
 
-We do not collect or keep your personal data unless it is necessary for the purposes(s) set out in this Statement, nor do we keep your personal data for longer than is necessary.
+We use cookies on this website. A cookie is a text file sent by a web server to a web browser, and stored by that browser. The text file is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
 
-### How we use your information
+We may send one or more cookies which may be stored by your browser on your computer. The information we obtain from cookies is part of the Collected Information. Our advertisers and service providers may also send you cookies.
 
-Information collected is used by Us in order to facilitate your enquiry to providers listed on the site, and for any other purposes set out herein. This includes, in certain circumstances, the transfer of your information to our third party data processors who assist with the performance of certain Services or elements thereof. Your information may be processed in the following ways:
+Most browsers allow you to refuse to accept cookies. (For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector.) This will, however, have a negative impact upon the usability of many websites, including this one.
 
-  * for general account management
-  * to provide, monitor and improve our Services;
-  * to help identify you;
-  * to serve appropriate and tailored marketing material and content via SMS, email, phone, push notification, post or otherwise, in accordance with your marketing preferences;
-  * to help diagnose system problems and to administer our Website;
-  * to gather broad demographic information about you, such as determining your location in relation to the services that are most suitable for your needs;
-  * to carry out customer research, testing and analysis;
-  * to enable us to comply with any legal or regulatory requirements.
+To improve our services and this site, we may retain third party service providers to operate this site and help us monitor, collect and analyze information regarding your interactions with this website and data you input, including through the use of such providers’ cookies on your computer.
 
+For more information about cookies and other tracking technologies we use, please see our [Cookies Policy](https://web.archive.org/cookies-policy).
 
+### Why we use collected information
 
-### Sharing and Transfer of Information
+Collected Information, including personal data, will be used to:
 
-  * WhatClinic may share User or Provider information with trusted third parties to provide you with services you have indicated you are interested in, to increase site performance or to enhance the end-user experience.
-  * You also acknowledge and agree that in certain circumstances we may be obliged to disclose personal information that you have provided to us to third parties, including, but not limited to, any relevant regulator and law enforcement agencies for example, in order to conform to any requirements of law or to comply with any legal process, as well as to protect and defend our rights.
-  * Whatclinic.com reserves the right to transfer information (including any personal information you provide) to a third party in the event of a sale, merger, liquidation, receivership or transfer of all or substantially all of the assets of whatclinic.com , a subsidiary or line of business associated with whatclinic.com.
-  * We may from time to time transfer your data to one of our authorised service providers for customer service, business management or for any of the purposes described herein. We will ensure that service providers process your information under strict contractual instruction, in a secure manner and in accordance with this Privacy Policy. 
+  1. administer and improve this website’s and the platform’s usability;
+  2. improve your browsing experience by modification and replacement of text, images, videos or links to increase relevance to the visitor;
+  3. send to you marketing and other communications relating to our business or the businesses of carefully selected third parties which we think may be of interest to you by post or, where you have specifically consented, by email or similar technology.
+  4. provide other companies with statistical information about our users. Information we provide to other companies will not identify any individual user.
+  5. allow us to see what enquiries made through our system get responded to, though we restrict who can see the text of the responses. We have a similar system for phone calls, routing them through a company called Twilio. We record these calls only with the express permission of the Clinic. WhatClinic uses a third party, MailGun, to route emails between our Clinics and Users and vice versa
 
 
 
-### Links to Third Party Sites
+### Lawful grounds
 
-You should also be aware that where you link to another website from this website, that whatclinic.com has no control over that other website. Accordingly, whatclinic.com cannot guarantee that the controller of that website will respect your privacy in the same manner as whatclinic.com.
+If you are a registered platform user, or a website user, the lawful grounds for processing your Collected Information is our legitimate interest in understanding how users interact with this website and the platform, and to improve how we promote our products and services.
 
-### Access to your Personal Information
+### Sharing collected information
 
-You have the right to request a copy of the information which we hold about you (for which we may charge you a small fee) and to have inaccuracies in your information corrected.
+We may share Collected Information about you:
 
-### Use of your Personal Information by Third Parties
+  1. to enable our service providers (third party sub-processors) to provide data centre hosting services, database hosting services, dialer infrastructure services, email sync services and to enable our third party processors to provide sales and marketing operations services;
+  2. to the extent that we are required to do so by law;
+  3. in connection with any legal proceedings or prospective legal proceedings;
+  4. in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk).
+  5. in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-Except as otherwise set out in this Privacy Statement this policy only addresses the use and disclosure of information that whatclinic.com collects from you. We cannot guarantee and accept no liability in the event that a Provider (if you are a consumer) or any other third party gives your personal data to third parties or in any way impinges upon your data protection or privacy rights.
 
-### Technical and Statistical Data
 
-Due to the nature of the internet, we cannot guarantee the protection of your personal data and therefore we are not responsible for any loss or damage resulting to you when the website is used. You should be aware that each time you visit a website, two general levels of information about your visit can be retained. The first level comprises statistical and other analytical information collected on an aggregate and non-individual specific basis of all browsers who visit the website and the second is information which is personal or particular to a specific visitor who knowingly chooses to provide that information.
+### Security of collected information
 
-The statistical and analytical information provides us with a general and non-individual specific information about the number of people who visit this website; the number of people who return to the website; the pages that they visit; and where they were before they came to the website and the page in the website at which they exited. This information helps us monitor traffic on a website so that we can manage the website's capacity and efficiency. This type of non-personal information and data can be collected through the standard operation for internet servers and logs as well as "cookies" and other technical mechanisms.
+We will take reasonable precautions to prevent the loss, misuse or alteration of your personal data. Data transmission over the Internet is inherently unsecure and we cannot guarantee the security of data sent over the Internet. We will store all the personal data you provide or that we collect about you on our secure servers.
 
-### IP Addresses and Cookies
+You are responsible for keeping your passwords confidential. We will not ask you for your passwords.
 
-Like almost all commercial websites, WhatClinic.com records statistical data and uses Cookies to improve site performance.
+### Transfers of Collected Information
 
-###### Statistical data:
+We are located in Dublin, Ireland. Submitting your personal data via this website or the platform will transfer your personal data to us. We will process transferred personal data pursuant to the EU-US and the Swiss-US [Privacy Shield Framework](https://www.privacyshield.gov/). The European Commission has issued an adequacy decision stating that entities like ours that accredit to the EU-US Privacy Shield principles be considered to offer adequate protection to personal data, as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. We adhere to the Privacy Shield Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement for the personal data you provide or we obtain about you.
 
-The WhatClinic.com site logs certain statistical data, such as IP address, the type of operating systems used and browser types used. This statistical data is not connected to personal information, and so user information is anonymous. For example, if we know that a growing number of users have a new type of browser, we know that it’s a good idea to test new pages and features in that browser.
+We may transfer your personal data to third parties, as described in Sharing Collected Information, pursuant to the onward transfer principles of the EU-US Privacy Shield. We use these third-parties to perform certain functions offered as part of our products and services, e.g. data centre hosting services, SaaS survey solutions and SaaS IT service management software. These providers all certify compliance with the EU-US and Swiss-US Privacy Shield Framework and are restricted from direct access to your personal data but, if necessary, may be granted access to your personal data only to the extent necessary to permit them to perform their contracted services. They are bound by confidentiality agreements and are restricted from using the personal data for other purposes. With respect to personal data received or transferred pursuant to the Privacy Shield Framework, we are subject to the regulatory enforcement powers of the US Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-###### What are cookies?
+To learn more, please visit [**Privacy Shield Framework**](https://www.privacyshield.gov/)
 
-A Cookie allows websites to remember you, and it helps many of the features of the website to work better. We use Cookies to help our website load faster, and to make it easier and faster for users to log in. These small packets of information are stored on your computer by your browser. Cookies help us learn about how people interact with our site, and so we can make improvements based on the information.
+### Retention of your personal data
 
-###### What kind of Cookies do we use?
+We retain your personal data until data is requested to be purged from our systems by you or an authorized member of your organization.
 
-Our site uses two kinds of Cookies; our own, and Cookies from third parties. We use Cookies to operate and personalize the website. They help us to track page views and conversion and also return visits from users over a two year period.
+### Changes to this notice
 
-###### What third-party services do we use?
+We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes.
 
-‘Third parties’ are approved partner websites and those Cookies can be used for things like measurement and reporting, but may be also used to track your interests and to retarget you on other websites with advertising. We aim to be as transparent as possible around our use of Cookies, so we've listed all the third parties we work with below.
+### Third party websites
 
-Google Analytics is used to track general visitor interactions such as page views and conversion. We also use it for demographic and interest reporting and to understand our audience for remarketing purposes. We also use it to measure the success of marketing campaigns using Google Adwords and Bing Ads.
+The website contains links to other websites. We are not responsible for the privacy policies of third party websites or such site operators’ actions including the collection or use of your personal data.
 
-To learn more about Google's data policy see here <http://www.google.com/intl/en/policies/privacy/partners/>. Google provides a tool to allow you to prevent your data from being used by Google Analytics. Click here <https://tools.google.com/dlpage/gaoptout/> to download it.
+### Access to your personal data
 
-We use AdRoll to track how you use the site to target ads to you on other websites. Information about how to opt out of AdRoll services can be found here <https://help.adroll.com/hc/en-us/articles/203845070-How-do-I-opt-out->.
+If you use this website, upon request, WhatClinic will grant you access to your personal data and allow you to correct, amend or delete information that is demonstrated to be inaccurate or incomplete. See [Contact Us](https://web.archive.org/contactus.aspx) details on our website.
 
-We use a Facebook Cookie for audience building and conversion tracking. Facebook's Cookie policy can be found here <https://www.facebook.com/help/cookies/>
+If you are a platform user, we depend on you to update and correct your personal data to the extent necessary for the purposes for which that data was collected, such as contact information you provide to us so that we can provide you with invoicing information.
 
-###### How long do they last?
+### Your rights
 
-Cookies generally have a ‘lifespan’ and after that period they expire. Some expire as soon as you log off, and some last for weeks or longer. Cookies on our site are renewed when you visit or log in, and usually expire after 7 to 30 days of inactivity. Cookies that we use to personalise the experience for returning visitors may have a lifespan of up to two years.
+You are entitled to have any inadequate, incomplete or incorrect personal data corrected (that is, rectified).
 
-###### Switching off cookies:
+You also have the right to request access to your personal data (including receiving a copy thereof) as well as additional information about how the data was processed.
 
-Most web browsers automatically accept Cookies. Your browser should tell you how to turn off the automatic acceptance of Cookies if you look through settings. This will almost certainly create issues when using the whatclinic.com site. Unless you have adjusted your browser setting so that it will refuse all Cookies, our system will issue Cookies when you log on to our site. If you are concerned with 3rd party Cookies (other than our own) there is excellent advice available here: <http://www.youronlinechoices.com/ie/>
+If we ever process your personal data, with the lawful grounds of your consent, you have the right to withdraw consent at any time without affecting the lawfulness of processing based on consent before its withdrawal.
 
-WhatClinic.com ITS DIRECTORS, EMPLOYEES, SERVANTS AND AGENTS, AFFILIATES OR OTHER REPRESENTATIVES AND THEIR RESPECTIVE PARENT AND SUBSIDIARY COMPANIES, SHALL NOT BE LIABLE IN RESPECT OF ANY CLAIMS, EMERGENCIES, DEMANDS, CAUSES OF ACTION, DAMAGES, LOSSES, EXPENSES, INCLUDING WITHOUT LIMITATION, REASONABLE LEGAL FEES AND COSTS OF PROCEEDINGS ARISING OUT OF OR IN CONNECTION WITH THE USE AND/OR DISSEMINATION OF PERSONAL INFORMATION RELATING TO YOU IN ACCORDANCE WITH THIS PRIVACY POLICY AND YOUR CONSENTS.
+Furthermore, you are entitled to have your personal data erased under certain circumstances.
 
-**_Amendments_**
+As of May 25, 2018, you also have the following additional rights:
 
-Whatclinic.com reserves the right in its sole discretion to amend this privacy policy at any time, and you should regularly check this privacy policy for any amendments.
+  * _Data portability_ – if ever we rely (as the lawful grounds for processing) upon your consent, or the fact that the processing is necessary to perform a contract to which you are party (such as making an enquiry), and the personal data is processed by automatic means, you have the right to receive all such personal data which you have provided us in a structured, commonly used and machine-readable format, and also to require that it be transmitted to another controller where this is technically feasible. 
+  * _Right to erasure_ – you are entitled to have your personal data erased under specific circumstances, such as where you have withdrawn your consent, where you object to processing based on legitimate interests and we have no overriding legitimate grounds (see below) or where personal data is unlawfully processed, provided that applicable law does not provide otherwise.
+  * _Right to restriction of processing_ – you have the right to restrict the processing of your personal data (that is, allow only its storage) where: 
+    * you contest the accuracy of the personal data, until we have taken sufficient steps to correct or verify its accuracy;
+    * where the processing is unlawful but you do not want us to erase the personal data;
+    * where we no longer need your personal data for the purposes of the processing, but you require such personal data for the establishment, exercise or defence of legal claims; or
+    * where you have objected to processing, justified on lawful grounds (see below), pending verification as to whether we have your permission to continue processing.
 
-**_Governing Law and Jurisdiction_**
 
-This Privacy Statement is governed by the laws of Ireland and you submit to the exclusive jurisdiction of the Irish courts.
 
-  
+Where your personal data is subject to restriction we will only process it with your consent or for the establishment, exercise or defense of legal claims.
 
+  * _Right to object to processing (including profiling) based on lawful grounds_ – where we rely upon legitimate interests to process personal data, you have the right to object to that processing. If you object, we must stop that processing unless we can demonstrate compelling legitimate grounds for the processing that overrides your interests, rights and freedoms, or we need to process the personal data for the establishment, exercise or defense of legal claims, or an applicable law requires otherwise.
+  * _Right to object to direct marketing (including profiling)_ – you have the right to object to our use of your personal data for direct marketing purposes (including profiling).
+
+
+
+You also have the right to lodge a complaint with the supervisory authority of your habitual residence, place of work or place of alleged infringement, if you consider that the processing of your personal data infringes an applicable law.
+
+You may contact us if you wish to exercise any of your rights in respect of your personal data processed by this website or the platform. 
+
+[Contact Us](https://web.archive.org/contactus.aspx) for any further information.
