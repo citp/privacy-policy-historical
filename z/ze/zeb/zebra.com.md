@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the zebra.com privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210205324id_/https%3A//www.zebra.com/us/en/about-zebra/company-information/compliance/information-privacy/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zebra.com privacy policy that was archived on 2018-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180915234036id_/https%3A//www.zebra.com/us/en/about-zebra/company-information/legal/privacy-statement.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement | Zebra Technologies
 
-### **  
-ZEBRA PRIVACY STATEMENT**
+### **ZEBRA PRIVACY STATEMENT**
 
-This Zebra Privacy Statement ("Privacy Statement") describes how Zebra Technologies Corporation and its subsidiaries and affiliates ("Zebra") collect, use, transfer, and disclose data including personally identifiable information (“Personal Information”) obtained through Zebra’s websites (the "Site(s)") and via other methods.  By using the Sites or submitting any Personal Information to Zebra, you acknowledge that you have read, understood, and agree to be bound by this Privacy Statement and the Zebra [Terms of Use](https://web.archive.org/us/en/about-zebra/company-information/compliance/information-privacy/terms-of-use.html).
+This Zebra Privacy Statement ("Privacy Statement") describes how Zebra Technologies Corporation and its subsidiaries and affiliates ("Zebra") collect, use, transfer, and disclose data including personally identifiable information (“Personal Information”) obtained through Zebra’s websites (the "Site(s)") and via other methods.  By using the Sites or submitting any Personal Information to Zebra, you acknowledge that you have read, understood, and agree to be bound by this Privacy Statement and the Zebra [**Terms of Use**](https://web.archive.org/us/en/about-zebra/company-information/legal/terms-of-use.html).
 
-This Privacy Statement also describes certain matters related to the EU-U.S. Privacy Shield and U.S.-Swiss Safe Harbor frameworks. Zebra has certified it adheres to EU-U.S. Privacy Shield framework and the U.S.-Swiss Safe Harbor framework.  To learn more and view Zebra’s Privacy Shield Policy click:  [www.zebra.com/privacyshield](https://web.archive.org/us/en/about-zebra/company-information/compliance/information-privacy/privacyshield.html).  
+This Privacy Statement also describes certain matters related to the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield frameworks. Zebra has certified it adheres to EU-U.S. Privacy Shield framework and the Swiss-U.S Privacy Shield framework.  To learn more and view Zebra’s Privacy Shield Policy [click here](https://web.archive.org/content/dam/zebra/corporate-policies/en/privacy-shield-policy-en-us.pdf).  
  
 
 ### **DATA ZEBRA COLLECTS**
@@ -41,7 +40,7 @@ _**Other Technology**_ **.** Sites also use IP addresses, log files and other te
 
 ### **HOW ZEBRA USES PERSONAL INFORMATION**
 
-Zebra uses, discloses, transfers, and otherwise processes data, including Personal Information, in several ways. Zebra uses the data it collects for three basic purposes: (1) to process transactions for the sale and support of Zebra products and/or services, (2) to operate Zebra’s business, and to provide and support the products and services Zebra offers (including improving and personalizing), and (3) to send certain communications, including promotional communications. When customers place an order, Zebra uses the Personal Information provided, including any payment information necessary to provide the products or services requested.  If you create a user profile, Zebra will store Personal Information as requested to manage the profile and communicate with the user. **  **Without limiting our obligations under our [Privacy Shield Policy](https://web.archive.org/us/en/about-zebra/company-information/compliance/information-privacy/privacyshield.html), if you are located outside of the United States, please be aware that any information you provide to Zebra through the Sites may be transferred to the United States.  Please also be aware that by using the Sites and giving Zebra your information, you consent to such transfer. You also understand that the U.S. may not provide the same level of protections as the laws of your country.
+Zebra uses, discloses, transfers, and otherwise processes data, including Personal Information, in several ways. Zebra uses the data it collects for three basic purposes: (1) to process transactions for the sale and support of Zebra products and/or services, (2) to operate Zebra’s business, and to provide and support the products and services Zebra offers (including improving and personalizing), and (3) to send certain communications, including promotional communications. When customers place an order, Zebra uses the Personal Information provided, including any payment information necessary to provide the products or services requested.  If you create a user profile, Zebra will store Personal Information as requested to manage the profile and communicate with the user. **  **Without limiting our obligations under our [**Privacy Shield Policy**](https://web.archive.org/content/dam/zebra/corporate-policies/en/privacy-shield-policy-en-us.pdf), if you are located outside of the United States, please be aware that any information you provide to Zebra through the Sites may be transferred to the United States.  Please also be aware that by using the Sites and giving Zebra your information, you consent to such transfer. You also understand that the U.S. may not provide the same level of protections as the laws of your country.
 
 Personal Information may also, subject to the requirements of applicable law, be used, disclosed and transferred to law enforcement personnel and other persons in situations where Zebra believes that it is necessary to identify, contact, or bring legal proceedings against someone who may be misusing the Sites, interfering with the rights of Zebra or other users, or when Zebra reasonably believes that the law requires or permits such disclosure.  
  
@@ -67,7 +66,7 @@ Pursuant to applicable regulations, Zebra maintains reasonable technical and adm
 
 ### **ACCESS AND CORRECTION OF PERSONAL INFORMATION**
 
-If you wish to access or update the Personal Information submitted through the Sites, or to make any inquiries (including requests of cancellation or deletion) about the collection or processing of such information, please contact us as described below in the section labeled "Contact" or in the [Privacy Shield Policy](https://web.archive.org/us/en/about-zebra/company-information/compliance/information-privacy/privacyshield.html) as applicable.  Zebra provides individuals with access to their Personal Information where required by applicable data protection and privacy laws.  Individuals will be required to sufficiently verify their identity. Declining to provide Personal Information may limit Zebra’s ability to respond to your inquiry.  
+If you wish to access or update the Personal Information submitted through the Sites, or to make any inquiries (including requests of cancellation or deletion) about the collection or processing of such information, please contact us as described below in the section labeled "Contact" or in the [**Privacy Shield Policy**](https://web.archive.org/content/dam/zebra/corporate-policies/en/privacy-shield-policy-en-us.pdf) as applicable.  Zebra provides individuals with access to their Personal Information where required by applicable data protection and privacy laws.  Individuals will be required to sufficiently verify their identity. Declining to provide Personal Information may limit Zebra’s ability to respond to your inquiry.  
  
 
 ### **LINKS TO OTHER INTERNET SITES**
@@ -80,9 +79,13 @@ The statements set forth in this Privacy Statement are for the Sites and other a
 Zebra will keep your data, which may include Personal Information, for as long as necessary for the purposes for which it was collected, to provide you with products or services, to conduct legitimate business interests, and where otherwise required or permitted by law.  
  
 
+### **GENERAL DATA PROTECTION REGULATION (GDPR)**
+
+This [GDPR Addendum](https://web.archive.org/us/en/about-zebra/company-information/legal/gdpr.html) applies in circumstances where Zebra’s privacy practices are subject to the EU General Data Protection Regulation (“GDPR”). If applicable to you, the [GDPR Addendum](https://web.archive.org/us/en/about-zebra/company-information/legal/gdpr.html) should be read in conjunction with this Privacy Policy.
+
 ### **REVISIONS TO THIS PRIVACY STATEMENT  **
 
-Zebra reserves the right to change this Privacy Statement from time to time at Zebra’s discretion.  Please check this Privacy Statement frequently and particularly before you submit Personal Information via the Sites.  
+Zebra reserves the right to change this Privacy Statement from time to time at Zebra’s discretion. Please check this Privacy Statement frequently and particularly before you submit Personal Information via the Sites.  
  
 
 ### **CONTACT**
@@ -95,9 +98,6 @@ Attn: Legal Department
 3 Overlook Point  
 Lincolnshire, IL 60069 USA
 
-Email:  [zebralegal@zebra.com  
-](mailto:zebralegal@zebra.com)General Phone: **+1 847 634 6700**  
-Fax: **+1 847 955 4514**  
- 
+Email:  [Privacy@Zebra.com](mailto:Privacy@Zebra.com)
 
-v1 Date: September 27, 2016
+V2 Date: June 28, 2017
