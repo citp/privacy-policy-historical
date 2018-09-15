@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fticonsulting.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528115151id_/http%3A//www.fticonsulting.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fticonsulting.com privacy policy that was archived on 2018-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180915120057id_/http%3A//www.fticonsulting.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Information Security | FTI Consulting
 
@@ -45,7 +45,7 @@ We collect information about you if:
   * the use of your personal information is reasonably necessary to provide our Services (in these circumstances, your personal information may be disclosed to us by our client who may, for example, be your employer or service provider, or we may obtain your personal information from a range of public or subscription sources, directly from you, or from your associates or persons known to you);
   * you apply for a position with FTI Consulting;
   * you attend an FTI Consulting hosted or sponsored event or webinar;
-  * you invest in FTI Consulting stock (please see our investor site [link] for more information); or
+  * you invest in FTI Consulting stock (please see our [investor site](http://ir.fticonsulting.com/phoenix.zhtml?c=82634&p=irol-IRHome) for more information); or
   * you contact us with any other enquiry, complaint or notice.
 
 
@@ -71,6 +71,7 @@ If you attend an FTI Consulting event or webinar, or if you associate with an FT
 If you or the organisation you are associated with becomes an FTI Consulting client, then we may process your personal information in order to:
 
   * carry out "Know Your Client" checks and screening prior to starting a new engagement (as well as basic contact information, this may mean processing compliance related information such as proof of your identity, information about your professional background, history of directorships and, in some circumstance, details of any criminal convictions or adverse media coverage);
+  * carry out background checks for the purposes of complying with anti-money laundering and terrorist financing laws;
   * carry out client communication, service, billing and administration;
   * deal with client complaints; and
   * administer claims.
@@ -101,6 +102,7 @@ All processing ( _i.e._ use) of your personal information is justified by a "law
 
   * the processing is necessary for the performance of a contract to which you are a party, or to take steps (at your request) to enter into a contract (e.g. where you request certain Services as an individual client, or where we help advise your employer or service provider on fulfilling an obligation to you under a contract);
   * the processing is necessary for us to comply with a relevant legal obligation (e.g. where we are required to collect certain information about our clients for tax or accounting purposes, or where we are required to make disclosures to courts or regulators); or
+  * the processing is necessary for the performance of a task carried out in the public interest (e.g. background checks for anti-money laundering and terrorist financing purposes); or
   * the processing is in our legitimate interests, subject to due consideration for your interests and fundamental rights (this is the basis we rely upon for the majority of the processing of personal information in connection with the provision of our Services, and also for the purposes of most client on-boarding, administration and relationship management activities). 
 
 
@@ -142,7 +144,7 @@ FTI Consulting will take appropriate steps ensure that transfers of personal inf
 You have a right to contact us for more information about the safeguards we have put in place (including a copy of relevant contractual commitments) to ensure the adequate protection of your personal information when this is transferred as mentioned above.
 
 **Information Security**  
-FTI Consulting has reasonable technical safeguards, security policies and procedures in place to protect personal information from unauthorized loss, misuse, alteration, or destruction. Measures we take include placing confidentiality requirements on our staff members and service providers, limiting access to your personal information on a "need to know" basis, and providing training to appropriate FTI Consulting personnel.
+FTI Consulting has reasonable technical safeguards, security policies and procedures in place to protect personal information from unauthorized loss, misuse, alteration, or destruction. Measures we take include placing confidentiality requirements on our staff members and service providers, limiting access to your personal information on a "need to know" basis, and providing training to appropriate FTI Consulting personnel. We also maintain comprehensive policies addressing data incident response protocols. Our IT Security Program is audited on a regular basis.
 
 Despite FTI Consulting's best efforts, however, security cannot be absolutely guaranteed against all threats.
 
@@ -335,13 +337,13 @@ FTI Consulting will not transfer, disclose, sell, distribute, or lease your Pers
 **Information Security and Data Integrity**  
 FTI Consulting has reasonable security policies and procedures in place to protect Personal Information from unauthorized loss, misuse, alteration, or destruction.
 
-Despite FTI Consulting's best efforts, however, security cannot be absolutely guaranteed against all threats. To the best of FTI Consulting’s ability, access to your Personal Information is limited to those who have a need to know.
+Despite FTI Consulting's best efforts, however, security cannot be absolutely guaranteed against all threats. To the best of FTI Consulting’s ability, access to your Personal Information is limited to those who have a need to know. 
 
 **Access**  
 If FTI Consulting holds your Personal Information, under most circumstances you have the right to reasonable access to that data to correct any inaccuracies. You can also make a request to update or remove information about you by contacting [privacy@fticonsulting.com](mailto:privacy@fticonsulting.com), and FTI Consulting will make all reasonable and practical efforts to comply with your request, so long as it is consistent with applicable law and professional standards.
 
 **Recourse, Enforcement and Liability**  
-FTI Consulting commits to resolve complaints about your privacy and its collection or use of your Personal Information in compliance with the EU-US and Swiss-US Privacy Shield Principles. Please contact FTI Consulting at: [privacy@fticonsulting.com](https://web.archive.org/web/20180528115151id_/http%3A//www.fticonsulting.com/about/privacy@fticonsulting.com) should you have a Privacy Shield-related (or general privacy-related) complaint. 
+FTI Consulting commits to resolve complaints about your privacy and its collection or use of your Personal Information in compliance with the EU-US and Swiss-US Privacy Shield Principles. Please contact FTI Consulting at: [privacy@fticonsulting.com](mailto:privacy@fticonsulting.com) should you have a Privacy Shield-related (or general privacy-related) complaint. 
 
 If you are a resident of the EU/EEA, and you have a complaint related to this Policy that cannot be resolved with FTI Consulting directly, you may report your claim to the EU/EEA Data Protection Authorities located in your jurisdiction. If you are a resident of Switzerland, and you have a complaint related to this Policy that cannot be resolved with FTI Consulting directly, you alternatively may report your claim to the Swiss Data Protection Authority (Federal Data Protection and Information Commissioner). As further explained in the Privacy Shield Principles, a binding arbitration option will also be made available to you in order to address residual complaints not resolved by any other means.
 
