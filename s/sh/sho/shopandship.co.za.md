@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the shopandship.co.za privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829090604id_/http%3A//shopandship.co.za/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopandship.co.za privacy policy that was archived on 2018-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180915110425id_/https%3A//www.shopandship.co.za/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Shop and Ship Online South Africa
 
-  
 Shop and Ship Online (Pty) Ltd is committed to protecting your privacy. This privacy policy applies to all the web pages related to this website.
 
 All the information gathered in the online forms on the website is used to personally identify users that subscribe to this service. The information will not be used for anything other that which is stated in the Terms & Conditions of use for this service. None of the information will be sold or made available to any third parties. Ever.
