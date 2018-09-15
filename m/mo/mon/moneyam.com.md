@@ -1,91 +1,227 @@
-> *The following text is extracted and transformed from the moneyam.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514005431id_/https%3A//www.moneyam.com/tandc/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyam.com privacy policy that was archived on 2018-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180915090452id_/https%3A//www.moneyam.com/tandc/privacypolicy.php) for the most accurate reproduction.*
 
 # MoneyAM - Free Share Prices, Stock Quotes, Charts, News, Level2
 
-Privacy Policy
+This policy (together with any other documents referred to in it) explains how we collect, process and protect personal data about you. By visiting our website, you are accepting and consenting to the practices described in this policy.
 
-AJ Bell Media Limited is committed to protecting and respecting your privacy. 
+From time to time, the website may contain links to and from other websites, including those of our advertisers and affiliates. If you follow a link from/to any of these websites, please note that they have their own privacy policies and we don’t accept any responsibility or liability for your data if you choose to use these websites. Please check these policies before you submit any personal data to these websites.
 
-This policy sets out the basis on which your personal data will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how it will be treated by us. 
+This policy includes:
 
-For the purpose of the Data Protection Act 1998 ("the Act") the data controller is AJ Bell Media Limited of Trafford House, Chester Rd, Stretford, Manchester M32 0RS. 
+  * Details of the types of personal data we may collect and store
+  * The legal basis for using your personal data
+  * How we capture and receive this personal data
+  * How we use your personal data
+  * How we may disclose your personal data and share this with third parties
+  * Where we store and protect your personal data and how long we will hold it for
+  * Your legal rights in relation to your personal data we hold
+  * How you can contact us for more information
 
-**1\. Information we may collect from you**
 
-We may collect and process the following data about you: 
 
-• Information that you provide by filling in forms on the Website. This includes information provided at the time of registration or at the time of posting material or requesting further services. We may also ask you for information when you report a problem with the Website; 
+For the purpose of the Data Protection Bill, the General Data Protection Regulation (GDPR) and other relevant legislation, our data controller is AJ Bell Media Limited of 49 Southwark Bridge Road, London SE1 9HH.
 
-• If you contact us, we may keep a record of that correspondence; 
+The table(s) below confirms the personal information we collect from you, along with why we collect your data and the legal basis for doing so:
 
-• We may also ask you to complete surveys that we use for research purposes although you do not have to respond to them; 
+| Type of data | Data collected | Purpose of processing | Legal basis  
+---|---|---|---  
+Contact information |  Including details of yours:
 
-• Details of transactions you carry out through the Website; 
+  * First Name
+  * Last Name
+  * Username
+  * Email address
+  * Telephone number (optional)
+  * Any other contact details
 
-• Details of your visits to the Website and the resources that you access. 
+|  Verifying your identity
 
-**2\. IP Addresses and Cookies**
+Contacting you about products, services, regulatory obligations, and contractual obligations
 
-We may collect information about your computer including where available your IP address, operating system and browser type for system administration and to report aggregate information to our advertisers. This is data about our users browsing actions & patterns and does not identify any individual. 
+Seeking your consent for subscription transactions and changes to terms and conditions
 
-For the same reason we may obtain information about your general Internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve the Website and to deliver a better and more personalised service. They enable us:- 
+To distribute emails and alerts that you have opted in too
 
-• to estimate our audience size and usage pattern; 
+To contact you should you win a prize draw or a competition
 
-• to store information about your preferences and so allow us to customise the Website according to your individual interests; 
+To ensure that when you vote in one of our awards, you only submit your vote(s) once 
 
-• to speed up your searches; 
+|  In order to fulfil our contractual obligations and obligations under consent, to contact you and update you on product changes, and in order to comply with regulatory requirements   
+Confirmation that you are a private investor |  Including details of your:
 
-• to recognise you when you return to the Website. 
+  * First Name
+  * Last Name
+  * Email Address
 
-You may refuse to accept cookies by activating the setting on your browser, which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of the Website. 
+| The London Stock Exchange requires confirmation that you are a Private Investor before you can access Share Prices and the Regulatory News Services | In order to fulfil our contractual obligations  
+Subscription information |  Including:
 
-Please note that our advertisers may also use cookies over which we have no control. 
+  * Payment card details
 
-**3\. Where we store your personal data and Security**
+| Efficiently processing and completing subscriptions you instruct, or that we must undertake for legal or regulatory reasons. | In order to fulfil our contractual obligations and in order to comply with regulatory requirements  
+Technical |  Each time you visit the website, we may automatically collect the following information:
 
-The data that we collect from you may be transferred to and stored at a destination outside the European Economic Area. By submitting your personal data you agree to this transfer. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy. 
+Technical information, including the Internet Protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform.
 
-All transactions on the Website are effected by using third party secure servers based on the SSL (Secure Socket Layer) encryption standard. All credit card information is transmitted to us and then on to the Credit-Card Company, via secure encrypted link. You can look for the locked padlock icon on your browser to verify that your connection to the Website is encrypted (usually the bottom right of your browser window). Your credit card number is not stored on our server, nor do we have access to this data other than to pass it directly to the Credit Card Company for validation via secure link. 
+Information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from the website (including date and time); page response times; download errors; length of visits to certain pages; page interaction information; methods used to browse away from the page and any phone number used to call our customer service number. 
 
-Personal information that you may supply to us is stored in a password-protected format to prevent loss, misuse, or alteration of the data. As mentioned above, your credit card number is not stored on our server. 
+| Efficiently processing and completing subscriptions you instruct, or that we must undertake for legal or regulatory reasons.  | In order to fulfil our contractual obligations and in order to comply with regulatory requirements  
+  
+## The legal basis for using your personal information
 
-Unfortunately no transmission of data via the Internet can be guaranteed to be 100 percent secure. Consequently, whilst we are committed to continued best efforts to protect your personal information, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Upon receipt of your transmitted personal data we promise to use best efforts to ensure its security on our systems. 
+We’ll only collect, use and share your personal information where we’re satisfied that we have an appropriate legal basis to do so. This may be because:
 
-Please note that whenever you voluntarily disclose personal information online on the internet (for example on message boards, through e-mail, or in chat areas), that information can potentially be collected and used by others without you necessarily knowing about it. Therefore, where you provide personal data online that is accessible to the public, you may receive unsolicited communication from others in return. 
+  * you’ve provided your consent to us using your personal information – for example, when you registered with us and agreed to our terms and conditions
+  * our use of your personal information is in our legitimate interest as a commercial organisation – so we can verify your identity, or communicate with you about the products and services that you use or may wish to use. In these cases, we’ll look after your information at all times in a way that is proportionate and respects your privacy rights. You have a right to object to processing, as explained below
+  * our use of your personal information is necessary to perform a contract or take steps to enter into a contract with you – for example, on taking out a subscription with us
+  * our use of your personal information is necessary to comply with a relevant legal or regulatory obligation that we have. 
 
-**4\. Uses made of the information**
 
-We use information held about you in the following ways: 
 
-• to ensure that content from the Website is presented in the most effective manner for you and for your computer; 
+If you would like to find out more about the legal basis for which we process personal information, please [contact us](https://web.archive.org/contact.php).
 
-• to provide you with the Services that you request from us or which we feel may interest you; 
+## Information you give us
 
-• to allow you to participate in interactive features of the Service where you choose to do so; 
+You may give us information by filling in forms on the website or by corresponding with us by phone, email or otherwise. This includes information you provide when you register to use AJ Bell Media, take out a subscription, search the website, enter a competition or promotion, take part in a survey, or when you interact with the website in any other way. This also includes any occasions when you report a problem with the website. The information you give us may include your name, address, email address, phone number, financial information and/or other relevant personal details.
 
-• to notify you about changes to the Services. 
+By submitting such details, you confirm that you are entitled to disclose information about, or provided by, any third party.
 
-We may disclose your personal information to any member of our group which means our subsidiaries, our ultimate holding company and its subsidiaries as defined in section 736 of the UK Company Act 1985. 
+## Information we receive from other sources
 
-We may disclose your personal information to third parties: 
+We may also receive information about you if you use any of the other websites we operate, or the other services we provide. In such cases, when we collect the data, we’ll inform you that it may be shared internally and combined with data collected on this site. We also work closely with third parties (including, for example, business partners; external/third party service providers in technical, payment and delivery services; advertising networks; analytics providers; search information providers and credit reference agencies) and may receive information about you from them.
 
-• in the event that we sell or buy any business or assets in which case we may disclose your personal data to the seller or buyer of such business or assets; 
+If you authorise a third party to contact us on your behalf which entitles them to provide us with, and receive, information about you or the services you have with us, we’ll always verify their identity and right to access your information before any information about your account(s) is provided. Please see our website terms of use for more details.
 
-• if AJ Bell Media Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will of course be one of the transferred assets; 
+## Cookies
 
-• if we are under a duty to disclose or share your personal data in order to comply with any legal obligation or in order to enforce or apply our Terms and Conditions and other agreements; or protect the rights, property, or safety of AJ Bell Media Limited, our customers, or others. This includes exchanging information with other companies and organisations for fraud protection and credit risk reduction. 
+Our website uses cookies to distinguish you from other users of our website. This helps us to improve your experience when you browse our website. For detailed information on the cookies we use and the purposes for which we use them, see our [cookie policy](https://web.archive.org/tandc/cookiepolicy.php).
 
-We do not disclose individual information to our advertisers, but we may provide them with aggregate information about our users. We may also use such aggregate information to help advertisers reach the kind of audience they want to target. We would comply with our advertiser wishes by displaying their advertisement to that target audience using the personal data we have collected from you and from others. 
+## Disclosure of your information
 
-**5\. Your rights**
+We may share your personal information with any member of our group. This includes our subsidiaries and our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006. 
 
-You have the right to request us not to disclose any of your personal data or information or to pass information to third parties. We will usually inform you before collecting your data, if we intend to disclose your information to any third party and you can exercise that right by checking certain boxes on the forms we use to collect your data. You can also notify us by contacting us at: AJ Bell Media Limited, Trafford House, Chester Rd, Stretford, Manchester M32 0RS or email support@moneyam.com 
+We share information amongst our subsidiaries to ensure that each business unit which provides platform and pension administration services has the information it needs to efficiently and effectively process transactions and other administrative duties on your behalf. It also means they comply with regulatory requirements and reporting obligations.
 
-Our site contains links to and from our advertisers, partners and affiliates websites. If you follow a link to their sites, please note that these sites have their own privacy policy and that AJ Bell Media Limited does not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these sites. 
+We may share your information with selected third parties, including:
 
-**6\. Access to information**
+  * business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you, including but not limited to: 
+    * Credit Card processors
+    * Regulated Exchanges
+    * Data and software providers
+  * analytics and search engine providers that help us to improve and optimise the website
 
-The Act gives you various rights including the right to access information held about you. Your right to access can be exercised in accordance with the Act. 
 
-Questions about this privacy policy can be addressed to Michael Boydell at: AJ Bell Media Limited, Trafford House, Chester Rd, Stretford, Manchester M32 0RS 
+
+We may disclose your personal information to third parties:
+
+  * in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of the business or assets
+  * if AJ Bell Media Limited, its holding company or substantially all of its assets are acquired by a third party, in which case the personal data we hold about our customers will be one of the transferred assets
+  * if we’re required to disclose or share your personal data in order to comply with a legal obligation, or to enforce or apply our rights under this policy or terms and conditions and other agreements; or to protect the rights, property, or safety of any member of our group, our customers, or others.
+
+
+
+## How we store and protect your personal data
+
+Your data will primarily be held in the UK but there may be occasions when the data that we collect from you is transferred to, and stored at, a destination outside the European Economic Area (EEA). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. These staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We’ll take all steps that are reasonably necessary to ensure your data is treated securely and in accordance with this privacy policy.
+
+All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. You are responsible for keeping confidential any password we've given you, or you have chosen, which enables you to access certain parts of the website. It’s important you don’t share a password with anyone. If you (or your representative) contact us for details of your account, we’ll ask some questions so that we can establish your (or your representative’s) identity. We won’t disclose any details unless we’re satisfied that you (or your representative) are who you claim to be.
+
+Unfortunately, transmitting information via the internet can’t be completely secure. Although we will do our best to protect your personal data, we can’t guarantee the security of your data transmitted to the website; any transmission is at your own risk. Once we have received your information, we’ll use strict procedures and security features to try to prevent unauthorised access. We strongly suggest you purchase and keep up-to-date software to protect the security of your computer or device.
+
+### How long we will store your personal data for
+
+Your data will be stored for the duration of your relationship with us. After the relationship ends, we will store your data only for as long as it’s appropriate and necessary to do so.
+
+## Your rights
+
+You have the following rights when it comes to your data that we hold:
+
+### The right to access
+
+You have a right to request that we provide you with a copy of the personal information on you that we hold. You also have the right to be informed of (a) the source of your personal information; (b) the purposes, legal basis and methods of processing; (c) the data controller’s identity; and (d) the entities or categories of entities your personal information may be transferred to.
+
+### The right to rectification
+
+You have a right to request that we rectify inaccurate personal information. We may seek to verify the accuracy of the personal information before rectifying it.
+
+### The right to erasure
+
+In limited circumstances, you can request that we erase your personal information if:
+
+  * it’s no longer needed for the purposes for which it was collected; or
+  * you have withdrawn your consent (where the data processing was based on consent); or
+  * following a successful right to object (see right to object); or
+  * it has been processed unlawfully; or
+  * to comply with a legal obligation to which you are subject.
+
+
+
+We aren’t required to comply with your request to erase personal information if the processing of your personal information is necessary:
+
+  * for compliance with a legal obligation; or
+  * for the establishment, exercise or defence of legal claims.
+
+
+
+### The right to restriction of processing
+
+You can ask us to restrict your personal information, but only where:
+
+  * its accuracy is contested, to allow us to verify its accuracy; or
+  * the processing is unlawful, but you don’t want it erased; or
+  * it’s no longer needed for the purposes for which it was collected, but we still need it to establish, exercise or defend legal claims; or
+  * you have exercised the right to object, and verification of overriding grounds is pending.
+
+
+
+We can continue to use your personal information following a request for restriction, where:
+
+  * we have your consent; or
+  * to establish, exercise or defend legal claims; or
+  * to protect the rights of another natural or legal person.
+
+
+
+### The right to object to processing
+
+You can object to any processing of your personal information which has our legitimate interests as its legal basis – providing you believe your fundamental rights and freedoms outweigh our legitimate interests. 
+
+If you raise an objection, we’ll need to demonstrate that we have compelling legitimate interests which override your rights and freedoms in order to continue processing your data. 
+
+### The right to portability
+
+You have the right to ask us to provide you with an electronic file containing all personal information we hold about you. You can give this information to other organisations if you wish to.
+
+### Right to object to how we use your personal information for direct marketing purposes
+
+You also have the right to ask us not to process your personal data for marketing purposes.
+
+You can choose the communications we send you by using the communication preferences area of our website or by using the manage preferences links in our emails. However, keep in mind you can’t opt-out of receiving regulatory or legal updates (e.g. information about a change in the product terms and conditions) by email. We regularly review our records to ensure that we only retain your personal details for as long as is necessary for the purposes set out above.
+
+### Right to obtain a copy of personal information safeguards used for transfers outside your jurisdiction
+
+You can ask to obtain a copy of, or reference to, the safeguards under which your personal information is transferred outside of the European Union.
+
+We may redact data transfer agreements to protect commercial terms.
+
+### Right to lodge a complaint with your local supervisory authority
+
+If you have concerns about how we’re processing your personal information, you have a right to lodge a complaint with your local supervisory authority.
+
+We ask that you please attempt to resolve any issues with us first – although you have a right to contact your supervisory authority at any time.
+
+## Access to information
+
+Before sending you a copy of the personal information you requested, we may ask you for additional information to confirm your identity and for security purposes. We reserve the right to charge a fee where permitted by law – for instance if your request is manifestly unfounded or excessive.
+
+You can exercise your rights by contacting us. Subject to legal and other permissible considerations, we’ll make every reasonable effort to honour your request promptly, or inform you if we require further information in order to fulfil your request.
+
+We may not always be able to fully address your request, for example if it goes against the duty of confidentiality we owe to others, or if we’re legally entitled to deal with the request in a different way.
+
+## Changes to our privacy policy
+
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email. Please note that updates to this policy are not emailed as a matter of course, so please check back frequently to see any updates or changes to our privacy policy.
+
+## Contact
+
+Please email any questions or comments about this policy to Customer Services, support@sharesmagazine.co.uk or by calling 0207 378 4424.
