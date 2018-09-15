@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the rapidleechhost.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029063530id_/https%3A//www.estrowebservices.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidleechhost.com privacy policy that was archived on 2018-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180915165141id_/https%3A//www.estrowebservices.com/privacy) for the most accurate reproduction.*
 
-# Estro Web Services Private Limited - Portal Home
-
-Privacy Policy
+# Privacy Policy - EstroWeb - Trusted Offshore 1gbps Linux VPS and Windows RDP hosting
 
 In an effort to protect our clients' and site visitors privacy and rights, Estro Web Services Private Limited has established a Privacy Policy which explains what information we gather on visitors and what we do with information that we gather.
 
