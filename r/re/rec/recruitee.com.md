@@ -1,29 +1,131 @@
-> *The following text is extracted and transformed from the recruitee.com privacy policy that was archived on 2017-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170318054721id_/https%3A//recruitee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recruitee.com privacy policy that was archived on 2018-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180915202226id_/https%3A//recruitee.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Recruitee
 
-This document sets out the Privacy Policy of Recruitee B.V (Company number 63881829) at Herengracht 182, 1016BR, Amsterdam and govern your privacy and related matters by using the website, including the parts of the website accessed by Recruitee Subscribers and users. Please read these Terms carefully before using the website and Recruitee services. By agreeing to the Terms required to use the Service, you are accepting the practices described in this Privacy Policy (the "Privacy Policy"). Capitalized terms used but not defined in the Privacy Policy have the meanings ascribed to them in the Terms of Use. 
+**Personal data of Recruitee.com visitors** Recruitee processes the personal data of visitors of Recruitee.com as described in this paragraph, including the users of the SaaS, excluding the visitors of careers websites of customers (Visitors). 
 
-**1\. Information that Recruitee collects** When you visit our Site or use our Service you may provide us with two types of information: personal information you actively choose to disclose ("Active Information’’) and non-personally identifiable information collected, in a way not visible to you, on an aggregate basis as you and others use our Site ("Passive Information"). These two types of information are referred to collectively as "Subscriber Information." 
+Recruitee collects and uses the personal data of Visitors for the purpose of: 
 
-**1.1 Active Information You Provide** In order to use the Service, we require you to disclose the following information: full legal name, valid e-mail address and, if you are a client, your full company name. Additionally, if you choose to post information through our Service or engage in email, regular mail, telephone or other contact with us, we may retain information disclosed thereby as well. Job candidates can apply for jobs of our Clients by using online forms, which contain additional information such as resumes, motivation letters, answers to questions and additional personal information /work history. 
+  * \- The functioning of the website;
+  * \- Monitoring the performance of the website;
+  * \- Supporting the business operations of Recruitee, including sales and marketing;
+  * \- Improving and optimizing the website and services of Recruitee.
 
-**1.2 Passive Information Collected** Our Site and the Service utilize a standard technology called cookies to collect information about how our Site and Service is used. Passive Information gathered may include but is not limited to the date and time of visits, the Site pages viewed, time spent at our Site, a logging of activities, and the sites visited just before and just after our Site. 
 
-**1.3 Cookies** Cookies are a feature of web browser software that allow web servers to recognize the computer used to access a Site. They are small pieces of data that that we transfer to your computer’s hard drive to enable our systems to recognize your browser, simplify subsequent interactions with our Site and streamline your use of the site. 
 
-**2\. Use of Information Collected** Individuals we employ directly, or as contractors or agents at our direction, use Active Information for purposes of administering our business activities, providing Subscriber services such as support, and making available other products or services we think may be of interest to our users and to job candidates. Recruitee will never use or sell information provided by you or by Candidates, in any other way then for supporting the Services. We may use the Active Information or Passive Information you provide to us to contact you about changes to our Site and Service, new Service, features or products we offer, or other information we think you might find valuable, as well as to provide or enhance features of our Site and Service. Active information includes, but is not limited to include information from Job candidates by using online forms, which contain additional information such as resumes, motivation letters, answers to questions and additional personal information, and work history. If at any time you do not wish to receive such information from us, please send us an email to that effect to hello@recruitee.com. We also use Passive Information to gather information about our users and to enhance and design our Site to make it easier, faster and friendlier to use. Additionally, Passive Information help us know information about how many people visit our Site, when they visit and how they use our service. We do not connect any of this information to your personal information or email address. All rights of intellectual property of Subscriber to data, information, Subscriber Content, trademarks and trade names are and will remain the property of Subscriber, and Subscriber Content will only be processed by Recruitee only on behalf of Subsriber. 
+The categories of personal data used for the purposes listed under this paragraph are: 
 
-**3\. Sharing Information with Others** In addition to as described above, we may share Subscriber Information (not content) with others in the following situations: 
+  * \- Device, browser and referrer;
+  * \- Unique identifiers;
+  * \- Timezone and approximate location;
+  * \- Usage of the website;
+  * \- Requests and responses sent to and from your device.
 
-**3.1 Business Transactions** As we continue to develop our business, we might become involved in financing transactions or business transactions involving the sale or license of our assets or business units. In either case, Subscriber Information often is disclosed on a confidential basis or is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Policy (unless, of course, the Subscriber consents otherwise). Also, in the event the Company is merged with another company or acquired, or substantially all of its assets are acquired, Subscriber Information will be one of the transferred assets. Protection of Recruitee and Others: We release Subscriber Information when we believe release is appropriate to comply with the law or legitimate requests of law enforcement officials; enforce or apply our Terms and other agreements; or protect the rights, property, or safety of the Company, our users, job candidates or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. This does not, however, include selling, renting, sharing, or otherwise disclosing personally identifiable information from Subscribers for commercial purposes in violation of the commitments set forth in this Privacy Policy. Non-Personally Identifiable Information: We may disclose anonymous Passive Information about user habits, characteristics and user patterns, based on aggregate user statistics to advertisers on our Site or others. 
 
-**3.2 Security of Subscriber Information** We secure your Subscriber Information by using commercially reasonable, industry-standard measures to prevent unauthorized access or disclosure, or accidental loss, disclosure or destruction thereof. However, even very good security measures may fail to prevent computer hacking or other breaches of security, and we can provide no guarantees that the same will not occur. Additionally, our postings on this Site and other communications you may have with us via email or regular mail may not be secure unless we advise you that security measures are in place prior to your sending information. Therefore, if you choose to communicate with us through these means, you are assuming the risk of doing so and we request that you do not send or post sensitive information through those means. 
 
-**3.3 Other Websites** You may be able to access other websites through our Site and/or Service. When you do so you are thereby subject to those other sites policies regarding privacy and data collection and you should read those sites' privacy policies to make sure you agree to them before using such sites. When you choose to visit such sites, you should read their privacy policies and terms of use to make sure you agree with them. 
+Recruitee and it’s partners place cookies for all the purposes listed under this paragraph. 
 
-**4\. Email security handling** Until May 2016, this application is built using Context.IO technology. By signing up or using this application, you understand and agree that DokDok, Inc., its parent company, Return Path, Inc. and their affiliates (collectively "Context.IO Providers"), who provide Context.IO, will have access to your information and will be permitted to use that information in accordance with Return Path's Privacy Policy http://returnpath.com/data-privacy-policy/. If you wish to opt-out of sharing your information with Context.IO Providers, you may do so at https://optout.context.io/. 
+Recruitee uses it legitimate interests for processing personal data for purposes listed under this paragraph, such legitimate interests are the same as the purposes that Recruitee processes personal data for. 
 
-**5\. Opting Out/Correcting or Deleting Personal Information** If you desire not to receive information about products or services we think may be of interest to you or if you wish to delete or correct your information, please send an e‐mail to hello@recruitee.com. 
+**Responsibility for personal data of Customer’s applicants, potential candidates and Users of the SaaS**
 
-**6\. Changes to Our Privacy Policy** Our Privacy Policy may change from time to time. Recruitee B.V. reserves the right, at its discretion, to modify this Privacy Policy at any time by posting a notice on the Site, or by sending you a notice via e-mail. You will be responsible for reviewing and becoming familiar with any such modifications. Your use of the Site and/or the Service following such notification constitutes Subscriber's acceptance of the terms and conditions of this Agreement as modified. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. 
+In some cases Recruitee processes personal data as a service for SaaS Customers. The SaaS is the software-as-a-service for recruitment that Recruitee offers to customers (Customers). In those cases the Customer carries the responsibility for the personal data that is being processed, in other words the Customer is the controller and Recruitee is the processor. Job applicants, potential job candidates and end-users of the SaaS (Users) should always contact the Customer for more information about how their personal data is being processed with our SaaS and the responsibilities of the Customer as opposed to those of Recruitee. 
+
+This document describes the processing activities regarding Users of the SaaS, despite the fact that Recruitee is not always the Controller for personal data of Users. Please be aware that the processing activities that the Customer performs may not align with this document. 
+
+**Personal Data of Users of the SaaS**
+
+Recruitee processes personal data of Users for the following purposes: 
+
+  * \- Recruitee’s customer support and success;
+  * \- Recruitee’s billing and administration;
+  * \- Providing the Recruitee SaaS and accompanying services;
+  * \- Sales and marketing of Recruitee’s product and services.
+
+
+
+The following categories of personal data of Users are processed: 
+
+  * \- Contact details such address, e-mail and phone number;
+  * \- Support communications;
+  * \- Billing details;
+  * \- Username and password;
+  * \- Activities in the SaaS;
+  * \- Other personal data entered into the SaaS.
+
+
+
+The Customer and/or User decides the retention period for all personal data that he can control the retention of through the SaaS or that he can provide instructions for under the agreements between Customer and Recruitee. 
+
+**Social media and distributed content**
+
+Recruitee may use the services of our partners to stay in touch with you or to provide you with content. For example we may provide you with articles through our Facebook page. Services of Recruitee’s partners may also be used for Recruitee and it’s partners to process personal data or place cookies on your device for the following purposes: 
+
+  * \- Sales and marketing of Recruitee’s product and services;
+  * \- Improving our product and user experience;
+  * \- Thought leadership and branding;
+  * \- Communicating with customers and potential customers;
+
+
+
+Recruitee may process the following personal data for the purposes defined under this paragraph: 
+
+  * \- Social media profile;
+  * \- Unique identifiers;
+  * \- Contact information.
+
+
+
+**Advertising**
+
+The following companies process your personal data that was collected for the purposes of marketing and sales to help Recruitee serve you Recruitee’s advertisements on third party websites and applications: Facebook, Google, LinkedIn (limited to linkedin.com), Microsoft (Bing), Twitter (limited to twitter.com) and Quora (limited to quora.com). Unique identifiers (with the help of cookies), contact information and browsing history are processed for those purposes. Opt-outs for processing of your personal data for this purpose are available on the following pages: 
+
+<http://optout.aboutads.info/> (Facebook, Google, LinkedIn, Microsoft and Twitter) 
+
+<https://www.quora.com/optout> (Quora) 
+
+**E-mails & other communications **
+
+Recruitee may send you e-mails with information about Recruitee’s products and services, or other information that may interest you. E-mails will only be sent based on opt-in, unless you register for Recruitee’s services. If you are registered for a Recruitee service you may receive e-mails about similar services or to help you become a successful user of our services. You can contact us by e-mail to opt-out of our e-mails or use the unsubscribe links provided in the e-mail communications that we send you. 
+
+Communications between you and Recruitee such as chats, e-mails, phone conversations and private messages may be stored to improve our communications and for future reference. 
+
+**Applicants to Recruitee jobs (jobs.recruitee.com)**
+
+This section applies to applicants of jobs at Recruitee as shown on our Careers Site (jobs.recruitee.com). 
+
+If you apply for a job at Recruitee.com then we process your personal data to facilitate the entire job application procedure on the grounds of our legitimate interests for recruiting. After the procedure we will delete your personal data as soon as possible, unless we have informed you that we require it for other purposes. The following personal data can be processed for the job application procedure: 
+
+  * \- Any personal data that you provide through our job application form including, but not limited to:
+  * Full name, email address, phone number, picture, cover letter, résumé, LinkedIn profile and which job you have applied for.
+  * Statuses, notes and planning related to your job application
+  * \- Email communications
+
+
+
+Under European data protection law we are required to inform you that withholding personal data in your job application can give you a disadvantage in comparison to other candidates who are applying for the same role. 
+
+**Cookie permissions**
+
+Upon visiting our website for the first time you are presented with our cookie consent tool. The cookie consent tool offers Visitors a choice to either accept or reject cookies that require your consent under data protection law. Recruitee will always respect your choices. It’s also possible to either disable or delete our cookies in your internet browser. 
+
+**Requests or questions**
+
+Feel free to contact us if you have any questions regarding your personal data. You can also contact us with requests to exercise your rights under European data protection law. Such rights include the rights to access, rectification, erasure, restriction of processing, data portability and object. 
+
+If you have any requests or questions with regard to your personal data you can contact us at:   
+[hello@recruitee.com](mailto:hello@recruitee.com)
+
+**Updates to this policy**
+
+From time to time, Recruitee will revise this policy, without further notice. Recruitee recommends that you regularly check whether this policy has been revised. However, Recruitee will notify Users via notifications in the in-app live chat or by e-mail about any major changes that would negatively impact User’s interests. This policy does not apply to third-party services that may be accessed through links on the Services. 
+
+**Recruitee’s identity and address**
+
+The details of Recruitee are as follows:   
+Recruitee B.V., Johan Huizingalaan 763A, 1066 VH Amsterdam, The Netherlands. 
+
+**Supervisory authority**
+
+The “Autoriteit Persoonsgegevens” is the supervisory authority for the processing of personal data by Recruitee.   
+<https://autoriteitpersoonsgegevens.nl/>
