@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tropicana.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517105146id_/http%3A//www.tropicana.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tropicana.com privacy policy that was archived on 2018-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180915120630id_/http%3A//www.tropicana.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tropicana
 
@@ -46,7 +46,7 @@ We take commercially reasonable precautions to keep Personal Information secure.
 
 Collection of Personal Information from Children Under 13 Years Old
 
-Tropicana and the www.tropicana.com website do not knowingly collect information from children under 13 on this site, do not direct this site to children under 13 and do not believe that our site is appealing to children in that age group. If you are a parent and believe your child has provided us with information, please contact Maureen Meier at [Maureen.Meier@tropicana.com.](mailto:Maureen.Meier@tropicana.com)
+Tropicana and the www.tropicana.com website do not knowingly collect information from children under 13 on this site, do not direct this site to children under 13 and do not believe that our site is appealing to children in that age group. If you are a parent and believe your child has provided us with information, please contact Lori Alexander at [Lori.Alexander@pepsico.com.](mailto:Lori.Alexander@pepsico.com)
 
 Links to Other Websites
 
@@ -54,7 +54,7 @@ Users should be aware that when you are on this website you could be directed to
 
 How to Contact Us
 
-To opt out of receiving marketing email messages from us you can send an opt-out request to [Maureen.Meier@tropicana.com](mailto:Maureen.Meier@tropicana.com). For other questions, please contact us at: Tropicana Products, Inc., Attn. Privacy Inquiries, P.O. Box 049003, Chicago, IL 60604-9003; or [Maureen.Meier@tropicana.com](mailto:Maureen.Meier@tropicana.com).
+To opt out of receiving marketing email messages from us you can send an opt-out request to [Lori.Alexander@pepsico.com](mailto:Lori.Alexander@pepsico.com). For other questions, please contact us at: Tropicana Products, Inc., Attn. Privacy Inquiries, P.O. Box 049003, Chicago, IL 60604-9003; or [Lori.Alexander@pepsico.com](mailto:Lori.Alexander@pepsico.com).
 
 Important Note Regarding U.S. Law Use of Materials on This Website
 
