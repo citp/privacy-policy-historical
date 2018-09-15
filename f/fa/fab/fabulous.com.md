@@ -1,395 +1,58 @@
-> *The following text is extracted and transformed from the fabulous.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114133946id_/http%3A//www.fabulous.com/informationcenter/index.htm%3Fformdata%5Bqid%5D%3D190) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabulous.com privacy policy that was archived on 2018-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180915231449id_/https%3A//fabulous.com/terms/doc/privacy.policy) for the most accurate reproduction.*
 
-# Fabulous - Information Center
+# Terms Doc Privacy.policy | Fabulous
 
-**Introduction**
+**1\. IP Address.** We use your IP address to help diagnose problems with our servers and to administer Fabulous. We use cookies to save your password so you do not have to re-enter it each time you visit Fabulous.
 
-|  | 
+ 
 
-This statement includes:
+**2\. Registration Data.** Our registration form requires you to provide contact information such as name and email address. We use contact information from the registration form to send you information about us and contact you when necessary. If you prefer to not receive most of our future mailings; see the choice/opt-out section below.
 
-  * our _collection statement_ , explaining aspects of our collection and use of personal information
+ 
 
-  * our _privacy policy_ , further explaining how we manage personal information.
+**3\. Hyperlinks.** Fabulous may contain hyperlinks to other sites. We are not responsible for the privacy practices or the content of such third-party sites.
 
+ 
 
-  
-|  |   
-|  | 
+**4\. Financial Information.** Fabulous uses an online ordering system that enables you to register domain names online, as well as access other services we offer. We collect your financial information such as account and/or credit card numbers for the sole purpose of billing you for the Services you purchase.
 
-**COLLECTION STATEMENT**  
-  
-|  |   
-  
-**Who we are**
+ 
 
-|  | 
+**5\. Cookies.** We may permit an ad company to display ads on Fabulous that may contain cookies. While we do use cookies in other parts of Fabulous, cookies received with banner ads are collected by an advertising company. That advertising company, and not us, has exclusive control of and access to the information it collects.
 
-Dark Blue Sea Pty Ltd ABN 47 091 509 796
+ 
 
-Fabulous.com Pty Ltd ABN 64 094 218 443
+**6\. Public Forums.** We may offer you chat rooms, forums, message boards, and/or news groups as available. Please remember that any information that is disclosed in these areas becomes public information, and you should exercise caution when deciding to disclose any personal information.
 
-Fabulous Parking Pty Ltd ABN 16 094 225 091
+ 
 
-Fabulous.com.au Pty Ltd ABN 34 139 626 994
+**7\. Security.** We follow security measures to protect the loss, misuse, or alteration of the personal information under our control. Any credit card or other sensitive information you enter is transmitted via SSL, a very strong encryption technology, which is the Internet standard for safety and security.
 
-Roar.com Pty Ltd ABN 99 094 225 064
+ 
 
-Pageseeker.com Pty Ltd ABN 45 090 513 849
+**8\. Permitted Disclosures.** We may disclose personal information about you to third parties when the disclosures have been specifically authorized by you or when we believe, in good faith, that such disclosures are reasonably necessary to comply with any applicable law, dispute resolution process, or to comply with or enforce this Agreement.
 
-Darkblue.com Pty Ltd ABN 14 094 225 082
+ 
 
-Yexa.com Pty Ltd ABN 12 094 225 073
+**9\. Remarketing.** We are participants in remarketing advertising. This program allows us to connect with previous customers and visitors in an effort to encourage them to purchase our services through targeted advertising. Through participation in this program, we permit third-party vendors, including Google, to display our advertising on websites across the Internet. Google uses cookies to serve our advertising on visitors to our site whenever they browse competing sites for similar services. We do permit anyone to opt-out of this program as outlined below.
 
-Drop.com.au Pty Ltd ABN 79 135 424 878
+ 
 
-Yexa.com.au Pty Ltd ABN 84 137 606 172
+**10\. Choice/Opt-Out.** When we first request information from you, we provide you with an opportunity to opt-out of receiving certain communications from us and our affiliates. We also give you an opportunity to remove your information from our database and to decline future communications or to cancel any of our offered Services. Please visit <https://fabulous.com/my/profile/communications/> for more information. We also permit anyone to opt-out of the Google remarketing program. Please visit <https://www.google.com/ads/preferences/> or <http://www.networkadvertising.org/managing/opt_out.asp> for the procedure on opting out of the Google remarketing program.
 
-Whois Privacy Services Pty Ltd ABN 65 133 058 741
+ 
 
-('the DBS Group', 'we' or 'our')  
-  
-|  |   
-  
-**Our contact details**
+**11\. Corrections/Updates.** You are obligated to update your information and we provide you options at Fabulous for changing and modifying information previously provided. Please visit <http://www.fabulous.com/my/> for more information.
 
-|  | 
+ 
 
-  * Phone: 07 3007 0070 
+**12\. Contact Person.** If you have any questions about our privacy policy, our practices, or your dealings with us, you can contact:
 
-  * Email: [privacy@darkbluesea.com](mailto:privacy@darkbluesea.com)
+ 
 
+Fabulous.com  
+3500 N. Causeway Blvd.  
+Suite 160  
+Metairie, LA 70002
 
-  
-|  |   
-  
-**Collection from third party sources**
-
-|  | 
-
-We may collect personal information from someone other than you, and you may not be aware of the collection, when it is not reasonable or practicable to collect it from you, and it is available from:
-
-  * publicly available sources like phone books
-
-  * other companies in our group that you may have dealt with
-
-  * third parties like our business partners, your authorised representative/s
-
-  * information brokers
-
-  * fraud checking agencies
-
-  * our affiliates, resellers, contractors and other representatives that you may deal with
-
-  * our websites and how you use them (through the use of cookies)
-
-  * various parties listed under _Disclosing personal information_ in our Privacy Policy.
-
-
-  
-|  |   
-  
-**Collection under law**
-
-|  | 
-
-We may be required to collect personal information in order to comply with the law.  
-  
-|  |   
-  
-**Why we collect and hold personal information**
-
-|  | 
-
-We collect and hold personal information because:
-
-  * we may need to use it to operate our business
-
-  * we may need to provide it to other parties in connection with our business.
-
-
-
-
-The uses and disclosures we may make of personal information are detailed in our Privacy Policy.  
-  
-|  |   
-  
-**Unavailability of personal information**
-
-|  | 
-
-If we cannot collect the information we need about you, we may not be able to supply the products or service you want.   
-  
-|  |   
-  
-**Disclosing personal information**
-
-|  | 
-
-We may disclose personal information as reasonably required to contractors and suppliers whose goods and services that we use to operate our business and provide products and support to you, to comply with our contractual obligations with regulatory authorities including publishing personal information in Whois records for domain names, and to other parties detailed in our Privacy Policy.
-
-Some of these parties may be based overseas eg America.   
-  
-|  |   
-  
-**Access and correction**
-
-|  | 
-
-Our privacy policy contains information about how the you can access and seek correction of the personal information about you that we hold.  
-  
-|  |   
-  
-**Complaints**
-
-|  | 
-
-Our privacy policy explains how you can complain about a breach of the Australian Privacy Principles, and how we will deal with such a complaint.  
-  
-|  |   
-|  | 
-
-**PRIVACY POLICY**  
-  
-|  |   
-  
-**Personal information**
-
-|  | 
-
-This refers to information or an opinion about a living person who is identified or reasonably identifiable, whether or not true and whether or not recorded in material form.  
-  
-|  |   
-  
-**Kinds of personal information we collect and hold**
-
-|  | 
-
-Broadly, we may collect and hold:
-
-  * _personal details_ like name, date of birth, gender, and occupation
-
-  * _contact details_ like physical, postal, work and email addresses and phone numbers 
-
-  * _financial details_ like credit card numbers and your billing and payment history with us 
-
-  * _service-related details_ like your user name, encrypted password and service usage history, support incidents, data from cookies, enquiries and complaints
-
-  * _other details_ relating to special situations.
-
-
-
-
-In any case, we only collect personal information that is reasonably necessary to support our functions and activities. If we cannot collect the information we need about you, we may not be able to supply the products or service you want.   
-  
-|  |   
-  
-**Collecting personal information**
-
-|  | 
-
-Unless it is not reasonable or practicable to do so, and in other cases allowed by law, we will collect personal information about you directly from you (eg when you contact us by phone or online, or apply for domain names or services on our website).
-
-In other cases, we may collect personal information about you from:
-
-  * publicly available sources like phone books
-
-  * other companies in our group that you may have dealt with
-
-  * third parties like our business partners, your authorised representative/s
-
-  * information brokers
-
-  * fraud checking agencies
-
-  * our affiliates, resellers, contractors and other representatives that you may deal with
-
-  * our websites and how you use them (through the use of cookies)
-
-  * various parties listed under _Disclosing personal information_ below.
-
-
-  
-|  |   
-  
-**Holding personal information**
-
-|  | 
-
-We hold personal information in hard and/or soft copy at our offices and in other facilities that we own or license from third parties, like data centres. We take reasonable steps to keep it secure and to protect it from unauthorised access, use or alteration.  
-  
-|  |   
-  
-**Why we collect and hold personal information**
-
-|  | 
-
-We collect and hold personal information because:
-
-  * we may need to use it to operate our business
-
-  * we may need to provide it to other parties in connection with our business.
-
-
-  
-|  |   
-  
-**Using personal information**
-
-|  | 
-
-We may use personal information:
-
-  * to identify you
-
-  * for credit checks
-
-  * to prevent fraud
-
-  * to supply products (including goods and/or services) to you
-
-  * to give you information about us and our products, and product offers
-
-  * for direct marketing – see _Direct marketing_ for details
-
-  * to improve our products, our marketing and our website
-
-  * to answer your enquiries
-
-  * to give you customer support and service
-
-  * to better understand your needs and respond to them
-
-  * to manage and plan our products and business
-
-  * to charge and bill you for products you use
-
-  * to collect payment from you or make payment to you
-
-  * to monitor, manage, test and improve our network and facilities
-
-  * to comply with various laws or contractual obligations that apply to us
-
-  * for other purposes related to the operation of our business.
-
-
-  
-|  |   
-  
-**Disclosing personal information**
-
-|  | 
-
-We may disclose personal information as reasonably required:
-
-  * to contractors and suppliers who supply or support us in:
-
-    * market research, sales and marketing
-
-    * direct marketing – see _Direct marketing_ for details
-
-    * identity and fraud checking
-
-    * credit management
-
-    * service provisioning
-
-    * installation, maintenance and repairs
-
-    * helpdesk and enquiries
-
-    * support and complaint management
-
-    * communications and mailing
-
-    * billing, debt recovery and credit management
-
-    * network and product design and maintenance
-
-    * corporate strategy
-
-    * legal and regulatory advice and compliance
-
-    * accounting and financial planning
-
-    * risk management
-
-    * otherwise providing goods and services that we use to operate our business and provide products and support to you
-
-  * to your authorised representative/s
-
-  * to identify you as a registrant of a domain name in publicly available Whois record
-
-  * if you ask us to do so
-
-  * to our agents, resellers, affiliates and members of our corporate group
-
-  * to our business partners and wholesale suppliers
-
-  * to organisations that provide credit or finance to us
-
-  * to persons who invest in or acquire all or part of our business or company, or are considering doing so.
-
-
-
-
-Some of these parties may be based overseas eg America.   
-  
-|  |   
-  
-**Direct marketing**
-
-|  | 
-
-We may use and disclose personal information to direct market to you products offered by us, our agents, resellers, affiliates and members of our corporate group (including each member of the DBS Group), and our business partners, where we think the offers will be of interest to you, using:
-
-  * post
-
-  * email
-
-  * electronic messaging
-
-  * social media
-
-  * targeted web content
-
-  * other direct marketing channels.
-
-
-
-
-Direct marketing may continue until you opt-out by calling the number in _Contacting us_ even if you are no longer our customer.   
-  
-|  |   
-  
-**Accessing and correcting personal information**
-
-|  | 
-
-Please contact us for these purposes using the details in _Contacting us_ below. We shall process and respond to your request in accordance with Australian Privacy Principle 12. There is no charge for making a request but a reasonable administrative charge, on a cost recovery basis, may be payable before we agree to provide access.  
-  
-|  |   
-  
-**Complaints**
-
-|  | 
-
-If you wish to complain about a breach of the Australian Privacy Principles, please contact us using the details in _Contacting us_ below. We shall:
-
-  * acknowledge your complaint within a reasonable time
-
-  * give you an estimated first response time
-
-  * allocate your complaint to a suitably senior staff member
-
-  * process and respond to your complaint as soon as we reasonably can.
-
-
-  
-|  |   
-  
-**Contacting us**
-
-|  | 
-
-Questions, requests and complaints regarding our Privacy Statement or our compliance with privacy laws should be directed to us by telephone on 07 3007 0070 or email to [privacy@darkbluesea.com](mailto:privacy@darkbluesea.com), or by post The Privacy Officer, The DBS Group, P.O. Box 757, Fortitude Valley, QLD 4006.
+Phone number: 504-507-8209
