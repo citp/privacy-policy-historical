@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landofbasketball.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608071642id_/http%3A//www.landofbasketball.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landofbasketball.com privacy policy that was archived on 2018-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180915102038id_/http%3A//landofbasketball.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # LandOfBasketball.com Privacy Policy
 
@@ -46,4 +46,4 @@ League and team logos and names and all other logos and trademarks belong to the
 
 ### **Contact**
 
-If you have any comments or questions you can [contact us](https://web.archive.org/web/20180608071642id_/http%3A//www.landofbasketball.com/contact_us.htm)
+If you have any comments or questions you can [contact us](https://web.archive.org/web/20180915102038id_/http%3A//landofbasketball.com/contact_us.htm)
