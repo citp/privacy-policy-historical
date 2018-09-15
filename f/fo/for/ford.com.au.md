@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ford.com.au privacy policy that was archived on 2018-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180412150200id_/https%3A//www.ford.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ford.com.au privacy policy that was archived on 2018-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180915224525id_/http%3A//www.ford.com.au/privacy.html) for the most accurate reproduction.*
 
 # Ford Australia - Privacy
 
 Ford Motor Company of Australia Limited  
 Privacy Policy  
-Version date: January 2014
+Version date: August 2018
 
   1. Introduction
   2. What is personal information?
@@ -71,6 +71,7 @@ Back to Top
   * when you enter a competition or promotion;
   * if you are an individual contractor to Ford, from your employer or recruitment agency;
   * if you are employed by or contracted to a Dealer, from that Dealer;
+  * via in-vehicle technologies (e.g. SYNC system analytics and diagnostics features);
   * via the SYNC owners forum;
   * from publicly available sources;
   * from our related companies; and
@@ -102,6 +103,7 @@ Back to Top
   * to inform you in the event of a field service action, for example a recall, affecting your Ford vehicle;
   * to issue service reminders;
   * to improve our products and services;
+  * to help us identify and diagnose SYNC system usage and performance issues for quality assurance purposes and to improve our products and services;
   * to contact you (directly or through our service providers and marketing research agencies) to obtain your feedback and to find out your level of satisfaction with our products, services and Dealers through surveys;
   * to report to and evaluate Dealers;
   * to verify your identity;
@@ -155,6 +157,8 @@ Back to Top
 
 7.4 If you post information to certain public parts of our website or to our social media pages, you acknowledge that such information may be available to be viewed by the public. You should use discretion in deciding what information you upload to such sites.
 
+7.5 Your personal information will not be “sold” by Ford to any other organisation for that organisation's unrelated independent use. If you have opted in to receive marketing materials from Ford, we may share anonymised “hashed” data with social media advertising partners, such as Facebook, so that they can create Custom Audiences and deliver advertisements on our behalf to their members. Members are identifiable when the Social Media partner matches our anonymised data to its anonymised data of its users.
+
 Back to Top
 
 8\. Does personal information leave Australia?  
@@ -166,8 +170,6 @@ Back to Top
 
 9\. How do we protect personal information?  
 9.1 Ford will take reasonable steps to keep any personal information we hold about you secure. However, except to the extent liability cannot be excluded due to the operation of statute, we exclude all liability (including in negligence) for the consequences of any unauthorised access to, disclosure of, misuse of or loss or corruption of your personal information. Nothing in this Privacy Policy restricts, excludes or modifies or purports to restrict, exclude or modify any statutory consumer rights under any applicable law including the Competition and Consumer Act 2010 (Cth). Please notify us immediately if you become aware of any breach of security.
-
-9.2 Your personal information will not be “sold” by Ford to any other organisation for that organisation's unrelated independent use.
 
 Back to Top
 
@@ -194,11 +196,15 @@ Back to Top
 12\. Links, cookies and use of the Ford website  
 12.1 The Ford website contains links to other sites. This Privacy Policy applies to the Ford website and not any linked sites. We encourage you to read the privacy policies of each website that collects your personal information.
 
-12.2 Ford and its third party service providers uses technology such as "cookies", "pixel tags" and java code on Ford websites and in emails you have agreed to receive from us. The use of "cookies", "pixel tags" and java code is an industry standard, and helps us monitor the effectiveness of our advertising and how visitors use the Ford websites. A "cookie" is a small data element stored by your web browser on your computer system. If selected by you, the Ford websites will store your username and password in a "cookie" to enable you to be automatically logged in when you return. Ford website "cookies" do not store your email address or other personal information about you.
+12.2 Ford and its third party service providers and / or advertising partners uses web tracking and storage technology tools such as web beacons, "cookies", "pixel tags" and java code on Ford websites and in emails you have agreed to receive from us to collect or receive information regarding your activities on the site (eg. your IP address, page(s) visited, time of day). The use of such technology is an industry standard, and helps monitor the effectiveness of advertising and how visitors use websites. A "cookie" is a small data element stored by your web browser on your computer system. If selected by you, the Ford websites will store your username and password in a "cookie" to enable you to be automatically logged in when you return.
 
-12.3 We and our third party service providers use this technology to generate statistics and measure site activity to improve the usefulness of customer visits. During normal website usage we do not collect or store personal information such as your name, mailing address, email address or phone number.
+12.3 We, our third party service providers and / or advertising partners use this technology to generate statistics and measure site activity to improve the usefulness of customer visits.
 
-12.4 Each time you access Ford websites, the Ford server may deliver certain customised information, including ads, to you based on the data stored in your cookie. Third party vendors may show our ads on sites on the Internet and serve these ads based on a user’s prior visits to our website and other Internet activity. Ford may also use analytics data supplied by third party vendors to inform and optimise our ad campaigns.
+12.4 Each time you access Ford websites, Ford and its third party service providers and / or advertising partners may deliver certain customised information, including ads, to you based on the data stored in your cookie. Third party advertising partners may show our ads on sites on the Internet and serve these ads based on information they collected about a user’s prior visits to our website and other Internet activity. Ford may also use analytics data supplied by third party vendors to inform and optimise our ad campaigns. This practice is commonly referred to as "interest-based advertising".
+
+12.5 Opting out of Interest-Based Advertising: You may learn about how to opt-out of this kind of collection and use of information for your browser or device by managing your settings, and for your social media accounts by managing your preferences in your account settings.
+
+12.6 Opting out from specific advertisers: Facebook: To learn more about how to opt out of Facebook Interest-Based Advertising, go to the Privacy tab on the Facebook website footer, and then select Facebook Ads Controls.
 
 Back to Top
 
@@ -240,7 +246,7 @@ OR
 
 Ford Motor Company of Australia Limited  
 Privacy Policy  
-Version date: January 2014
+Version date: August 2018
 
   1. Introduction
   2. What is personal information?
@@ -307,6 +313,7 @@ Back to Top
   * when you enter a competition or promotion;
   * if you are an individual contractor to Ford, from your employer or recruitment agency;
   * if you are employed by or contracted to a Dealer, from that Dealer;
+  * via in-vehicle technologies (e.g. SYNC system analytics and diagnostics features);
   * via the SYNC owners forum;
   * from publicly available sources;
   * from our related companies; and
@@ -338,6 +345,7 @@ Back to Top
   * to inform you in the event of a field service action, for example a recall, affecting your Ford vehicle;
   * to issue service reminders;
   * to improve our products and services;
+  * to help us identify and diagnose SYNC system usage and performance issues for quality assurance purposes and to improve our products and services;
   * to contact you (directly or through our service providers and marketing research agencies) to obtain your feedback and to find out your level of satisfaction with our products, services and Dealers through surveys;
   * to report to and evaluate Dealers;
   * to verify your identity;
@@ -391,6 +399,8 @@ Back to Top
 
 7.4 If you post information to certain public parts of our website or to our social media pages, you acknowledge that such information may be available to be viewed by the public. You should use discretion in deciding what information you upload to such sites.
 
+7.5 Your personal information will not be “sold” by Ford to any other organisation for that organisation's unrelated independent use. If you have opted in to receive marketing materials from Ford, we may share anonymised “hashed” data with social media advertising partners, such as Facebook, so that they can create Custom Audiences and deliver advertisements on our behalf to their members. Members are identifiable when the Social Media partner matches our anonymised data to its anonymised data of its users.
+
 Back to Top
 
 8\. Does personal information leave Australia?  
@@ -401,9 +411,8 @@ Back to Top
 Back to Top
 
 9\. How do we protect personal information?  
-9.1 Ford will take reasonable steps to keep any personal information we hold about you secure. However, except to the extent liability cannot be excluded due to the operation of statute, we exclude all liability (including in negligence) for the consequences of any unauthorised access to, disclosure of, misuse of or loss or corruption of your personal information. Nothing in this Privacy Policy restricts, excludes or modifies or purports to restrict, exclude or modify any statutory consumer rights under any applicable law including the Competition and Consumer Act 2010 (Cth). Please notify us immediately if you become aware of any breach of security.
+9.1 Ford will take reasonable steps to keep any personal information we hold about you secure. However, except to the extent liability cannot be excluded due to the operation of statute, we exclude all liability (including in negligence) for the consequences of any unauthorised access to, disclosure of, misuse of or loss or corruption of your personal information. Nothing in this Privacy Policy restricts, excludes or modifies or purports to restrict, exclude or modify any statutory consumer rights under any applicable law including the Competition and Consumer Act 2010 (Cth). Please notify us immediately if you become aware of any breach of security.  
 
-9.2 Your personal information will not be “sold” by Ford to any other organisation for that organisation's unrelated independent use.
 
 Back to Top
 
@@ -430,11 +439,15 @@ Back to Top
 12\. Links, cookies and use of the Ford website  
 12.1 The Ford website contains links to other sites. This Privacy Policy applies to the Ford website and not any linked sites. We encourage you to read the privacy policies of each website that collects your personal information.
 
-12.2 Ford and its third party service providers uses technology such as "cookies", "pixel tags" and java code on Ford websites and in emails you have agreed to receive from us. The use of "cookies", "pixel tags" and java code is an industry standard, and helps us monitor the effectiveness of our advertising and how visitors use the Ford websites. A "cookie" is a small data element stored by your web browser on your computer system. If selected by you, the Ford websites will store your username and password in a "cookie" to enable you to be automatically logged in when you return. Ford website "cookies" do not store your email address or other personal information about you.
+12.2 Ford and its third party service providers and / or advertising partners uses web tracking and storage technology tools such as web beacons, "cookies", "pixel tags" and java code on Ford websites and in emails you have agreed to receive from us to collect or receive information regarding your activities on the site (eg. your IP address, page(s) visited, time of day). The use of such technology is an industry standard, and helps monitor the effectiveness of advertising and how visitors use websites. A "cookie" is a small data element stored by your web browser on your computer system. If selected by you, the Ford websites will store your username and password in a "cookie" to enable you to be automatically logged in when you return.
 
-12.3 We and our third party service providers use this technology to generate statistics and measure site activity to improve the usefulness of customer visits. During normal website usage we do not collect or store personal information such as your name, mailing address, email address or phone number.
+12.3 We, our third party service providers and / or advertising partners use this technology to generate statistics and measure site activity to improve the usefulness of customer visits.
 
-12.4 Each time you access Ford websites, the Ford server may deliver certain customised information, including ads, to you based on the data stored in your cookie. Third party vendors may show our ads on sites on the Internet and serve these ads based on a user’s prior visits to our website and other Internet activity. Ford may also use analytics data supplied by third party vendors to inform and optimise our ad campaigns.
+12.4 Each time you access Ford websites, Ford and its third party service providers and / or advertising partners may deliver certain customised information, including ads, to you based on the data stored in your cookie. Third party advertising partners may show our ads on sites on the Internet and serve these ads based on information they collected about a user’s prior visits to our website and other Internet activity. Ford may also use analytics data supplied by third party vendors to inform and optimise our ad campaigns. This practice is commonly referred to as "interest-based advertising".
+
+12.5 Opting out of Interest-Based Advertising: You may learn about how to opt-out of this kind of collection and use of information for your browser or device by managing your settings, and for your social media accounts by managing your preferences in your account settings.
+
+12.6 Opting out from specific advertisers: Facebook: To learn more about how to opt out of Facebook Interest-Based Advertising, go to the Privacy tab on the Facebook website footer, and then select Facebook Ads Controls.
 
 Back to Top
 
