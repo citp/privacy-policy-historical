@@ -1,91 +1,319 @@
-> *The following text is extracted and transformed from the i-mscp.net privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118163822id_/http%3A//i-mscp.net/index.php/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-mscp.net privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916005117id_/https%3A//i-mscp.net/wcf/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - i-MSCP - internet - Multi Server Control Panel
 
-This site uses cookies. By continuing to browse this site, you are agreeing to our use of cookies. [More details](http://i-mscp.net/index.php/CookiePolicy/)
+##  1\. An overview of data protection 
 
-We, the Operators of this Website, provide it as a public service to our users.
+###  General 
 
-Your privacy is important to the us. Our goal is to provide you with a personalized online experience that provides you with the information, resources, and services that are most relevant and helpful to you. This Privacy Policy has been written to describe the conditions under which this web site is being made available to you. The Privacy Policy discusses, among other things, how data obtained during your visit to this web site may be collected and used. We strongly recommend that you read the Privacy Policy carefully. By using this web site, you agree to be bound by the terms of this Privacy Policy. If you do not accept the terms of the Privacy Policy, you are directed to discontinue accessing or otherwise using the web site or any materials obtained from it. If you are dissatisfied with the web site, by all means contact us; otherwise, your only recourse is to disconnect from this site and refrain from visiting the site in the future.
+The following gives a simple overview of what happens to your personal information when you visit our website. Personal information is any data with which you could be personally identified. Detailed information on the subject of data protection can be found in our privacy policy found below.
 
-The process of maintaining a web site is an evolving one, and the Operators may decide at some point in the future, without advance notice, to modify the terms of this Privacy Policy. Your use of the web site, or materials obtained from the web site, indicates your assent to the Privacy Policy at the time of such use. The effective Privacy Policy will be posted on the web site, and you should check upon every visit for any changes.
+###  Data collection on our website 
 
-## Sites Covered by this Privacy Policy
+**Who is responsible for the data collection on this website?**
 
-This Privacy Policy applies to all the Operators-maintained web sites, domains, information portals, and registries.
+The data collected on this website are processed by the website operator. The operator's contact details can be found in the website's required legal notice.
 
-## Children’s Privacy
+**How do we collect your data?**
 
-The Operators are committed to protecting the privacy needs of children, and we encourage parents and guardians to take an active role in their children’s online activities and interests. The Operators do not intentionally collect information from minors, and the Operators do not target its web site to children.
+Some data are collected when you provide it to us. This could, for example, be data you enter on a contact form.
 
-## Links to Non-Operators Web Sites
+Other data are collected automatically by our IT systems when you visit the website. These data are primarily technical data such as the browser and operating system you are using or when you accessed the page. These data are collected automatically as soon as you enter our website.
 
-The Operators’s web sites may provide links to third-party web sites for the convenience of our users. If you access those links, you will leave the Operators’s web site. the Operators do not control these third-party websites and cannot represent that their policies and practices will be consistent with this Privacy Policy. For example, other web sites may collect or use personal information about you in a manner different from that described in this document. Therefore, you should use other web sites with caution, and you do so at your own risk. We encourage you to review the privacy policy of any web site before submitting personal information.
+**What do we use your data for?**
 
-## Types of Information We Collect
+Part of the data is collected to ensure the proper functioning of the website. Other data can be used to analyze how visitors use the site.
 
-### Non-Personal Information
+**What rights do you have regarding your data?**
 
-Non-personal information is data about usage and service operation that is not directly associated with a specific personal identity. The Operators may collect and analyze non-personal information to evaluate how visitors use the Operators’s web sites.
+You always have the right to request information about your stored data, its origin, its recipients, and the purpose of its collection at no charge. You also have the right to request that it be corrected, blocked, or deleted. You can contact us at any time using the address given in the legal notice if you have further questions about the issue of privacy and data protection. You may also, of course, file a complaint with the competent regulatory authorities.
 
-### Aggregate Information
+##  2\. General information and mandatory information 
 
-The Operators may gather aggregate information, which refers to information your computer automatically provides to us and that cannot be tied back to you as a specific individual. Examples include referral data (the web sites you visited just before and just after our site), the pages viewed, time spent at our Web site, and Internet Protocol (IP) addresses. An IP address is a number that is automatically assigned to your computer whenever you access the Internet. For example, when you request a page from one of our sites, our servers log your IP address to create aggregate reports on user demographics and traffic patterns and for purposes of system administration.
+###  Data protection 
 
-### Log Files
+The operators of this website take the protection of your personal data very seriously. We treat your personal data as confidential and in accordance with the statutory data protection regulations and this privacy policy.
 
-Every time you request or download a file from the web site, the Operators may store data about these events and your IP address in a log file. The Operators may use this information to analyze trends, administer the web site, track users’ movements, and gather broad demographic information for aggregate use or for other business purposes.
+If you use this website, various pieces of personal data will be collected. Personal information is any data with which you could be personally identified. This privacy policy explains what information we collect and what we use it for. It also explains how and for what purpose this happens.
 
-### Cookies
+Please note that data transmitted via the internet (e.g. via email communication) may be subject to security breaches. Complete protection of your data from third-party access is not possible.
 
-Our site may use a feature of your browser to set a “cookie” on your computer. Cookies are small packets of information that a web site’s computer stores on your computer. The Operators’s web sites can then read the cookies whenever you visit our site. We may use cookies in a number of ways, such as to save your password so you don’t have to re-enter it each time you visit our site, to deliver content specific to your interests and to track the pages you’ve visited. These cookies allow us to use the information we collect to customize your experience so that your visit to our site is as relevant and as valuable to you as possible.
+###  Notice concerning the party responsible for this website 
 
-Most browser software can be set up to deal with cookies. You may modify your browser preference to provide you with choices relating to cookies. You have the choice to accept all cookies, to be notified when a cookie is set or to reject all cookies. If you choose to reject cookies, certain of the functions and conveniences of our web site may not work properly, and you may be unable to use those of the Operators’s services that require registration in order to participate, or you will have to re-register each time you visit our site. Most browsers offer instructions on how to reset the browser to reject cookies in the “Help” section of the toolbar. We do not link non-personal information from cookies to personally identifiable information without your permission.
+The party responsible for processing data on this website is:
 
-### Personal Information
+Laurent Declercq, 23 Rue des lavandières - 14220 Esson (FRANCE)
 
-Personal information is information that is associated with your name or personal identity. The Operators use personal information to better understand your needs and interests and to provide you with better service. On some of the Operators web pages, you may be able to request information, subscribe to mailing lists, participate in online discussions, collaborate on documents, provide feedback, submit information into registries, register for events, apply for membership, or join technical committees or working groups. The types of personal information you provide to us on these pages may include name, address, phone number, e-mail address, user IDs, passwords, billing information, or credit card information.
+Telephone: +33 231 930 054
 
-### Members-Only Web Sites
+Email: [l.declercq@nuxwin.com](mailto:l.declercq@nuxwin.com)
 
-Information you provide on Operators’s membership applications is used to create a member profile, and some information may be shared with other of the Operators’s individual member representatives and organizations. Member contact information may be provided to other members on a secure web site to encourage and facilitate collaboration, research, and the free exchange of information among the Operators’s members, but we expressly prohibit members from using member contact information to send unsolicited commercial correspondence. The Operators’s members may be automatically added to the Operators’s mailing lists. From time to time, member information may be shared with event organizers and/or other organizations that provide additional benefits to the Operators’s members. By providing us with your personal information on the membership application, you expressly consent to our storing, processing, and distributing your information for these purposes.
+###  Revocation of your consent to the processing of your data 
 
-## How We Use Your Information
+Many data processing operations are only possible with your express consent. You may revoke your consent at any time with future effect. An informal email making this request is sufficient. The data processed before we receive your request may still be legally processed.
 
-The Operators may use non-personal data that is aggregated for reporting about the Operators’s web site usability, performance, and effectiveness. It may be used to improve the experience, usability, and content of the site.
+###  Right to file complaints with regulatory authorities 
 
-The Operators may use personal information to provide services that support the activities of the Operators’s members and their collaboration on the Operators’s standards and projects. When accessing the Operators’s members-only web pages, your personal user information may be tracked by the Operators in order to support collaboration, ensure authorized access, and enable communication between members.
+If there has been a breach of data protection legislation, the person affected may file a complaint with the competent regulatory authorities. The competent regulatory authority for matters related to data protection legislation is the data protection officer of the state in which our company is headquartered. A list of data protection officers and their contact details can be found at the following link: [https://www.bfdi.bund.de/DE/In…schriften_links-node.html](https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html).
 
-Credit card information may be collected to facilitate membership applications; or if you purchase a product or service from our website, such information will not be kept longer than necessary for providing the services requested. Credit card numbers are used only for processing payment and are not used for other purposes. Payment processing services may be provided by a third-party payment service, and a management company external to the Operators may provide support for the financial activities of the Operators. the Operators may share your personal information with its partners to facilitate these transactions.
+###  Right to data portability 
 
-## Information Sharing
+You have the right to have data which we process based on your consent or in fulfillment of a contract automatically delivered to yourself or to a third party in a standard, machine-readable format. If you require the direct transfer of data to another responsible party, this will only be done to the extent technically feasible.
 
-The Operators does not sell, rent, or lease any individual’s personal information or lists of email addresses to anyone for marketing purposes, and we take commercially reasonable steps to maintain the security of this information. However, the Operators reserve the right to supply any such information to any organization into which the Operators may merge in the future or to which it may make any transfer in order to enable a third party to continue part or all of its mission. We also reserve the right to release personal information to protect our systems or business, when we reasonably believe you to be in violation of our Terms of Use or if we reasonably believe you to have initiated or participated in any illegal activity. In addition, please be aware that in certain circumstances, the Operators may be obligated to release your personal information pursuant to judicial or other government subpoenas, warrants, or other orders.
+###  Information, blocking, deletion 
 
-In keeping with our open process, the Operators may maintain publicly accessible archives for the majority of our activities. For example, posting an email to any of the Operators’s-hosted public mail lists or discussion forums, subscribing to one of our newsletters or registering for one of our public meetings may result in your email address becoming part of the publicly accessible archives.
+As permitted by law, you have the right to be provided at any time with information free of charge about any of your personal data that is stored as well as its origin, the recipient and the purpose for which it has been processed. You also have the right to have this data corrected, blocked or deleted. You can contact us at any time using the address given in our legal notice if you have further questions on the topic of personal data.
 
-On some sites, anonymous users are allowed to post content and/or participate in forum discussions. In such a case, since no user name can be associated with such a user, the IP address number of a user is used as an identifier. When posting content or messages to a Operators site anonymously, your IP address may be revealed to the public.
+###  Opposition to promotional emails 
 
-If you are a registered member of an Operators's website or email list, you should be aware that some items of your personal information may be visible to other members and to the public. The Operators’s member databases may retain information about your name, e-mail address, company affiliation (if an organizational member), and such other personal address and identifying data as you choose to supply. That data may be visible to other of the Operators’s members and to the public. Your name, e-mail address, and other information you may supply also may be associated in the Operators’s publicly accessible records with the Operators’s various committees, working groups, and similar activities that you join, in various places, including: (i) the permanently-posted attendance and membership records of those activities; (ii) documents generated by the activity, which may be permanently archived; and, (iii) along with message content, in the permanent archives of the Operators’s e-mail lists, which also may be public.
+We hereby expressly prohibit the use of contact data published in the context of website legal notice requirements with regard to sending promotional and informational materials not expressly requested. The website operator reserves the right to take specific legal action if unsolicited advertising material, such as email spam, is received.
 
-Please remember that any information (including personal information) that you disclose in public areas of our web site, such as forums, message boards, and news groups, becomes public information that others may collect, circulate, and use. Because we cannot and do not control the acts of others, you should exercise caution when deciding to disclose information about yourself or others in public forums such as these.
+##  3\. Data collection on our website 
 
-Given the international scope of the Operators websites, personal information may be visible to persons outside your country of residence, including to persons in countries that your own country’s privacy laws and regulations deem deficient in ensuring an adequate level of protection for such information. If you are unsure whether this Privacy Policy is in conflict with applicable local rules, you should not submit your information. If you are located within the European Union, you should note that your information will be transferred to the United States, which is deemed by the European Union to have inadequate data protection. Nevertheless, in accordance with local laws implementing European Union Directive 95/46/EC of 24 October 1995 (“EU Privacy Directive”) on the protection of individuals with regard to the processing of personal data and on the free movement of such data, individuals located in countries outside of the United States of America who submit personal information do thereby consent to the general use of such information as provided in this Privacy Policy and to its transfer to and/or storage in the United States of America.
+###  Cookies 
 
-If you do not want your personal information collected and used by the Operators, please do not visit the Operators’s web site or apply for membership of any of the Operators' websites or email lists.
+Some of our web pages use cookies. Cookies do not harm your computer and do not contain any viruses. Cookies help make our website more user-friendly, efficient, and secure. Cookies are small text files that are stored on your computer and saved by your browser.
 
-## Access to and Accuracy of Member Information
+Most of the cookies we use are so-called "session cookies." They are automatically deleted after your visit. Other cookies remain in your device's memory until you delete them. These cookies make it possible to recognize your browser when you next visit the site.
 
-The Operators are committed to keeping the personal information of our members accurate. All the information you have submitted to us can be verified and changed. In order to do this, please email us a request. We may provide members with online access to their own personal profiles, enabling them to update or delete information at any time. To protect our members’ privacy and security, we also may take reasonable steps to verify identity, such as a user ID and password, before granting access to modify personal profile data. Certain areas of the Operators’s web sites may limit access to specific individuals through the use of passwords or other personal identifiers; a password prompt is your indication that a members-only resource is being accessed.
+You can configure your browser to inform you about the use of cookies so that you can decide on a case-by-case basis whether to accept or reject a cookie. Alternatively, your browser can be configured to automatically accept cookies under certain conditions or to always reject them, or to automatically delete cookies when closing your browser. Disabling cookies may limit the functionality of this website.
 
-## Security
+Cookies which are necessary to allow electronic communications or to provide certain functions you wish to use (such as the shopping cart) are stored pursuant to Art. 6 paragraph 1, letter f of GDPR. The website operator has a legitimate interest in the storage of cookies to ensure an optimized service provided free of technical errors. If other cookies (such as those used to analyze your surfing behavior) are also stored, they will be treated separately in this privacy policy.
 
-The Operators make every effort to protect personal information by users of the web site, including using firewalls and other security measures on its servers. No server, however, is 100% secure, and you should take this into account when submitting personal or confidential information about yourself on any web site, including this one. Much of the personal information is used in conjunction with member services such as collaboration and discussion, so some types of personal information such as your name, company affiliation, and email address will be visible to other the Operators’s members and to the public. The Operators assume no liability for the interception, alteration, or misuse of the information you provide. You alone are responsible for maintaining the secrecy of your personal information. Please use care when use access this web site and provide personal information.
+###  Server log files 
 
-## Opting Out
+The website provider automatically collects and stores information that your browser automatically transmits to us in "server log files". These are:
 
-From time to time the Operators may email you electronic newsletters, announcements, surveys or other information. If you prefer not to receive any or all of these communications, you may opt out by following the directions provided within the electronic newsletters and announcements.
+  * Browser type and browser version
+  * Operating system used
+  * Referrer URL
+  * Host name of the accessing computer
+  * Time of the server request
+  * IP address
 
-If you have questions regarding this privacy policy, please contact us.
 
-_Source:[forum-template.wikidot.com](http://forum-template.wikidot.com/legal:privacy-policy)_
+
+These data will not be combined with data from other sources.
+
+The basis for data processing is Art. 6 (1) (b) GDPR, which allows the processing of data to fulfill a contract or for measures preliminary to a contract.
+
+###  Registration on this website 
+
+You can register on our website in order to access additional functions offered here. The input data will only be used for the purpose of using the respective site or service for which you have registered. The mandatory information requested during registration must be provided in full. Otherwise, we will reject your registration.
+
+To inform you about important changes such as those within the scope of our site or technical changes, we will use the email address specified during registration.
+
+We will process the data provided during registration only based on your consent per Art. 6 (1)(a) GDPR. You may revoke your consent at any time with future effect. An informal email making this request is sufficient. The data processed before we receive your request may still be legally processed.
+
+We will continue to store the data collected during registration for as long as you remain registered on our website. Statutory retention periods remain unaffected.
+
+###  Registration with Facebook Connect 
+
+Instead of registering directly on our website, you may also register using Facebook Connect. This service is provided by Facebook Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland.
+
+If you decide to register with Facebook Connect, you will be automatically redirected to the Facebook platform. There you can log in with your Facebook username and password. This will link your Facebook profile to our website or services. This link gives us access to your data stored on Facebook. Including especially your:
+
+  * Facebook name
+  * Facebook profile picture
+  * Email address provided to Facebook
+  * Facebook ID
+  * Birthday
+  * Gender
+  * Country
+
+
+
+This data will be used to set up, provide, and personalize your account.
+
+For more information, see Facebook's Terms of Use and Privacy Policy. These can be found at <https://www.facebook.com/about/privacy/> and <https://www.facebook.com/legal/terms/>.
+
+###  Registration with Google+ 
+
+Instead of registering directly on our website, you may also register using Google+. This service is provided by Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.
+
+If you decide to register with Google+, you will be automatically redirected to the Google+ platform. There you can log in with your Google+ username and password. This will link your Google+ profile to our website or services. This link gives us access to your data stored on Google+. Including especially your:
+
+  * Google+ name
+  * Google+ profile picture
+  * Google+ cover picture
+  * Email address provided to Google+
+  * Google+ ID
+  * Birthday
+  * Gender
+  * Country
+
+
+
+This data will be used to set up, provide, and personalize your account.
+
+For more information, see Google's Terms of Use and Privacy Policy. These can be found at <https://policies.google.com/terms>, <https://www.google.com/+/policy/pagesterms.html> and <https://policies.google.com/privacy>.
+
+###  Registration with Twitter 
+
+Instead of registering directly on our website, you may also register using Twitter. This service is provided by Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA.
+
+If you decide to register with Twitter, you will be automatically redirected to the Twitter platform. There you can log in with your Twitter username and password. This will link your Twitter profile to our website or services. This link gives us access to your data stored on Twitter. Including especially your:
+
+  * Twitter name
+  * Twitter profile picture
+  * Twitter cover picture
+  * Email address provided to Twitter
+  * Twitter ID
+  * Birthday
+  * Gender
+  * Country
+
+
+
+This data will be used to set up, provide, and personalize your account.
+
+For more information, see Twitter's Terms of Use and Privacy Policy. These can be found at <https://twitter.com/tos> and <https://twitter.com/privacy>.
+
+###  Registration with GitHub 
+
+Instead of registering directly on our website, you may also register using GitHub. This service is provided by GitHub, Inc, 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA.
+
+If you decide to register with GitHub, you will be automatically redirected to the GitHub platform. There you can log in with your GitHub username and password. This will link your GitHub profile to our website or services. This link gives us access to your data stored on GitHub. Including especially your:
+
+  * GitHub name
+  * GitHub profile picture
+  * GitHub cover picture
+  * Email address provided to GitHub
+  * GitHub ID
+  * Birthday
+  * Gender
+  * Country
+
+
+
+This data will be used to set up, provide, and personalize your account.
+
+For more information, see GitHub's Terms of Use and Privacy Policy. These can be found at <https://help.github.com/articles/github-terms-of-service/> and <https://help.github.com/articles/github-privacy-statement/>.
+
+###  Processing of data (customer and contract data) 
+
+We collect, process, and use personal data only insofar as it is necessary to establish, or modify legal relationships with us (master data). This is done based on Art. 6 (1) (b) GDPR, which allows the processing of data to fulfill a contract or for measures preliminary to a contract. We collect, process and use your personal data when accessing our website (usage data) only to the extent required to enable you to access our service or to bill you for the same.
+
+Collected customer data shall be deleted after completion of the order or termination of the business relationship. Legal retention periods remain unaffected.
+
+###  Data transferred when signing up for services and digital content 
+
+We transmit personally identifiable data to third parties only to the extent required to fulfill the terms of your contract with us, for example, to banks entrusted to process your payments.
+
+Your data will not be transmitted for any other purpose unless you have given your express permission to do so. Your data will not be disclosed to third parties for advertising purposes without your express consent.
+
+The basis for data processing is Art. 6 (1) (b) GDPR, which allows the processing of data to fulfill a contract or for measures preliminary to a contract.
+
+##  4\. Analytics and advertising 
+
+###  Google reCAPTCHA 
+
+We use "Google reCAPTCHA" (hereinafter "reCAPTCHA") on our websites. This service is provided by Google Inc., 1600 Amphitheater Parkway, Mountain View, CA 94043, USA ("Google").
+
+reCAPTCHA is used to check whether the data entered on our website (such as on a contact form) has been entered by a human or by an automated program. To do this, reCAPTCHA analyzes the behavior of the website visitor based on various characteristics. This analysis starts automatically as soon as the website visitor enters the website. For the analysis, reCAPTCHA evaluates various information (e.g. IP address, how long the visitor has been on the website, or mouse movements made by the user). The data collected during the analysis will be forwarded to Google.
+
+The reCAPTCHA analyses take place completely in the background. Website visitors are not advised that such an analysis is taking place.
+
+Data processing is based on Art. 6 (1) (f) GDPR. The website operator has a legitimate interest in protecting its site from abusive automated crawling and spam.
+
+For more information about Google reCAPTCHA and Google's privacy policy, please visit the following links: <https://www.google.com/intl/de/policies/privacy/> and <https://www.google.com/recaptcha/intro/android.html>.
+
+##  5\. Newsletter 
+
+###  Newsletter data 
+
+If you would like to receive our newsletter, we require a valid email address as well as information that allows us to verify that you are the owner of the specified email address and that you agree to receive this newsletter. No additional data is collected or is only collected on a voluntary basis. We only use this data to send the requested information and do not pass it on to third parties.
+
+We will, therefore, process any data you enter onto the contact form only with your consent per Art. 6 (1) (a) GDPR. You can revoke consent to the storage of your data and email address as well as their use for sending the newsletter at any time, e.g. through the "unsubscribe" link in the newsletter. The data processed before we receive your request may still be legally processed.
+
+The data provided when registering for the newsletter will be used to distribute the newsletter until you cancel your subscription when said data will be deleted. Data we have stored for other purposes (e.g. email addresses for the members area) remain unaffected.
+
+##  6\. Plugins and tools 
+
+###  YouTube 
+
+Our website uses plugins from YouTube, which is operated by Google. The operator of the pages is YouTube LLC, 901 Cherry Ave., San Bruno, CA 94066, USA.
+
+If you visit one of our pages featuring a YouTube plugin, a connection to the YouTube servers is established. Here the YouTube server is informed about which of our pages you have visited.
+
+If you're logged in to your YouTube account, YouTube allows you to associate your browsing behavior directly with your personal profile. You can prevent this by logging out of your YouTube account.
+
+YouTube is used to help make our website appealing. This constitutes a justified interest pursuant to Art. 6 (1) (f) GDPR.
+
+Further information about handling user data, can be found in the data protection declaration of YouTube under <https://www.google.de/intl/de/policies/privacy>.
+
+###  Google Web Fonts 
+
+For uniform representation of fonts, this page uses web fonts provided by Google. When you open a page, your browser loads the required web fonts into your browser cache to display texts and fonts correctly.
+
+When you call up a page of our website that contains a social plugin, your browser makes a direct connection with Google servers. Google thus becomes aware that our web page was accessed via your IP address. The use of Google Web fonts is done in the interest of a uniform and attractive presentation of our website. This constitutes a justified interest pursuant to Art. 6 (1) (f) GDPR.
+
+If your browser does not support web fonts, a standard font is used by your computer.
+
+Further information about handling user data, can be found at <https://developers.google.com/fonts/faq> and in Google's privacy policy at <https://www.google.com/policies/privacy/>.
+
+###  Vimeo 
+
+Our website uses features provided by the Vimeo video portal. This service is provided by Vimeo Inc., 555 West 18th Street, New York, New York 10011, USA.
+
+If you visit one of our pages featuring a Vimeo plugin, a connection to the Vimeo servers is established. Here the Vimeo server is informed about which of our pages you have visited. In addition, Vimeo will receive your IP address. This also applies if you are not logged in to Vimeo when you visit our website or do not have a Vimeo account. The information is transmitted to a Vimeo server in the US, where it is stored.
+
+If you are logged in to your Vimeo account, Vimeo allows you to associate your browsing behavior directly with your personal profile. You can prevent this by logging out of your Vimeo account.
+
+For more information on how to handle user data, please refer to the Vimeo Privacy Policy at <https://vimeo.com/privacy>.
+
+###  Google Maps 
+
+This site uses the Google Maps map service via an API. It is operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.
+
+To use Google Maps, it is necessary to save your IP address. This information is generally transmitted to a Google server in the USA and stored there. The provider of this site has no influence on this data transfer.
+
+The use of Google Maps is in the interest of making our website appealing and to facilitate the location of places specified by us on the website. This constitutes a justified interest pursuant to Art. 6 (1) (f) GDPR.
+
+Further information about handling user data, can be found in the data protection declaration of Google at <https://www.google.de/intl/de/policies/privacy/>.
+
+###  SoundCloud 
+
+On our pages, plugins of the SoundCloud social network (SoundCloud Limited, Berners House, 47-48 Berners Street, London W1T 3NF, UK) may be integrated. The SoundCloud plugins can be recognized by the SoundCloud logo on our site.
+
+When you visit our site, a direct connection between your browser and the SoundCloud server is established via the plugin. This enables SoundCloud to receive information that you have visited our site from your IP address. If you click on the "Like" or "Share" buttons while you are logged into your SoundCloud account, you can link the content of our pages to your SoundCloud profile. This means that SoundCloud can associate visits to our pages with your user account. We would like to point out that, as the provider of these pages, we have no knowledge of the content of the data transmitted or how it will be used by SoundCloud. For more information on SoundCloud's privacy policy, please go to <https://soundcloud.com/pages/privacy>.
+
+If you do not want SoundCloud to associate your visit to our site with your SoundCloud account, please log out of your SoundCloud account.
+
+###  Veoh 
+
+Our website uses features provided by the Veoh video portal. This service is provided by FC2, 4730 South Fort Apache Road, Suite 300, Las Vegas, NV 89147, USA.
+
+If you visit one of our pages featuring a Veoh plugin, a connection to the Veoh servers is established. Here the Veoh server is informed about which of our pages you have visited. In addition, Veoh will receive your IP address. This also applies if you are not logged in to Veoh when you visit our website or do not have a Veoh account. The information is transmitted to a Veoh server in the US, where it is stored.
+
+If you are logged in to your Veoh account, Veoh allows you to associate your browsing behavior directly with your personal profile. You can prevent this by logging out of your Veoh account.
+
+For more information on how to handle user data, please refer to the Veoh Privacy Policy at <http://www.veoh.com/corporate/privacypolicy>.
+
+###  Dailymotion 
+
+Our website uses features provided by the Dailymotion video portal. This service is provided by Dailymotion, 140 boulevard Malesherbes, 75017 Paris, France.
+
+If you visit one of our pages featuring a Dailymotion plugin, a connection to the Dailymotion servers is established. Here the Dailymotion server is informed about which of our pages you have visited. In addition, Dailymotion will receive your IP address. This also applies if you are not logged in to Dailymotion when you visit our website or do not have a Dailymotion account.
+
+If you are logged in to your Dailymotion account, Dailymotion allows you to associate your browsing behavior directly with your personal profile. You can prevent this by logging out of your Dailymotion account.
+
+For more information on how to handle user data, please refer to the Dailymotion Privacy Policy at <https://www.dailymotion.com/legal/privacy>.
+
+###  GitHub 
+
+Our website uses features provided by the GitHub. This service is provided by GitHub, Inc, 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA.
+
+If you visit one of our pages featuring a GitHub plugin, a connection to the GitHub servers is established. Here the GitHub server is informed about which of our pages you have visited. In addition, GitHub will receive your IP address. This also applies if you are not logged in to GitHub when you visit our website or do not have a GitHub account. The information is transmitted to a GitHub server in the US, where it is stored.
+
+If you are logged in to your GitHub account, GitHub allows you to associate your browsing behavior directly with your personal profile. You can prevent this by logging out of your GitHub account.
+
+For more information on how to handle user data, please refer to the GitHub Privacy Policy at <https://help.github.com/articles/github-privacy-statement/>.
+
+##  7\. Payment service providers 
+
+###  PayPal 
+
+Our website accepts payments via PayPal. The provider of this service is PayPal (Europe) S.à.r.l & Cie, S.C.A. (22-24 Boulevard Royal, L-2449 Luxembourg.
+
+If you select payment via PayPal, the payment data you provide will be supplied to PayPal based on Art. 6 (1) (a) (Consent) and Art. 6 (1) (b) GDPR (Processing for contract purposes). You have the option to revoke your consent at any time with future effect. It does not affect the processing of data previously collected.
