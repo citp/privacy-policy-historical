@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the marykay.com privacy policy that was archived on 2017-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170404183731id_/https%3A//www.marykay.com/en-us/Pages/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marykay.com privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916144756id_/https%3A//www.marykay.com/en-us/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 This Consumer Privacy Policy describes the information that Mary Kay collects about you. It details how we use that information and the choices you can make about how this information is used. The information covered in this Policy and in the Mary Kay Global Privacy Statement includes information collected about you on Mary Kay websites, and through special programs and services offered by Mary Kay Independent Beauty Consultants or third parties as described herein.
 
-For information about privacy in connection with your visit to the Personal Website of a Mary Kay Independent Beauty Consultant, please see Personal Website Privacy Policy tab on this page.
+For information about privacy in connection with your visit to the Personal Web Site of a Mary Kay Independent Beauty Consultant, please see the Personal Web Site Privacy Policy tab on this page.
 
 For Independent Beauty Consultants who wish to seek further information about privacy as it relates specifically to you, please see the Independent Beauty Consultant Privacy Policy tab on this page.
 
@@ -26,9 +26,9 @@ Mary Kay is subject to the investigative and enforcement authority of the Federa
 
 **Privacy Complaints by European Union Citizens:**
 
-Mary Kay complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  Mary Kay has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability.  If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the EU-U.S. Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/). In compliance with the EU-U.S. Privacy Shield, Mary Kay commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Mary Kay as listed above.
+Mary Kay complies with the EU-U.S. Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  Mary Kay has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability.  If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the EU-U.S. Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/). In compliance with the EU-U.S. Privacy Shield, Mary Kay commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Mary Kay as listed above.
 
-Mary Kay has further committed to refer unresolved privacy complaints under the EU-U.S. Privacy Shield to an independent dispute resolution mechanism, the BBB EU Privacy Shield, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Mary Kay, please visit the BBB EU Privacy Shield website at <http://www.bbb.org/EU-privacy-shield/bbb-eu-safe-harbor-dispute-resolution/> for more information and to file a complaint. 
+Mary Kay has further committed to refer unresolved privacy complaints under the EU-U.S. Privacy Shield to an independent dispute resolution mechanism, the BBB EU Privacy Shield, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Mary Kay, please visit the BBB EU Privacy Shield website at <http://www.bbb.org/EU-privacy-shield/for-eu-consumers/> for more information and to file a complaint. 
 
 Finally and under limited circumstances, EU individuals with unresolved complaints can seek recourse from the Privacy Shield Panel, a binding arbitration mechanism.
 
@@ -59,7 +59,7 @@ _**Information we collect when you visit our sites, use our services, or view ou
   * Mary Kay emails you open and/or forward
   * Mary Kay offers or links you connect to via emails
   * Information about your visits to the Personal Web Site of your Independent Beauty Consultant
-  * Product selections and preferences for ease of use while browsing
+  * Your product selections and preferences
 
 
 
@@ -89,7 +89,7 @@ The following are specific ways we may use the information we collect about you:
 
 _**Choices:  **_We give you choices about how we communicate with you.
 
-_**Digital and Electronic Communications:  **_We only send you promotional mobile or email messages if you ask to receive these from us or if your Independent Beauty Consultant asks us to send it to you.
+_**Digital and Electronic Communications:  **_We only send you promotional mobile or email messages if you ask to receive these from us or if your Independent Beauty Consultant asks us to send them to you.
 
 You can stop receiving promotional mobile and email messages from Mary Kay at any time. Follow the opt out or unsubscribe instructions provided in any such message you receive from us or [click here](https://web.archive.org/en-us/pages/email-unsubscription) to find out additional information about how to let us know which materials you no longer wish to receive.
 
@@ -193,7 +193,7 @@ _2016 Update:_  The 2016 updates are related to the adoption of the EU-U.S. Pri
 
 At Mary Kay, we understand the importance of privacy.  Our most important goal is to protect, collect and use personal information provided to us in the spirit of one of our most important founding principles -- the Golden Rule. Your choice with regard to your personal information is important to us and we will use and maintain information only in ways you have allowed. Therefore, we do not trade, sell or lease personal information entrusted to us. This Global Privacy Statement describes how we work to maintain your trust.
 
-We strive to be consistent in how we implement privacy policies across the globe. Our privacy policies are designed to comply with the law in each country where we do business and applies to:
+We strive to be consistent in how we implement privacy policies across the globe. Our privacy policies are designed to comply with the law in each country where we do business and apply to:
 
   1. All individuals who provide personal information, such as Independent Beauty Consultants, consumers, customers, research subjects, business partners, shareholders, job applicants, employees, retirees, and others; 
   2. All countries where we operate, even where local regulations do not exist; 
@@ -203,16 +203,14 @@ We strive to be consistent in how we implement privacy policies across the globe
 
 Mary Kay manages privacy through our Global Privacy Team, representing all geographic regions where we do business and business processes where personal information is collected—such as from Independent Beauty Consultants, consumer promotions, and employee programs. Mary Kay seeks to promote and utilize industry best practices to ensure privacy concerns are addressed and that personal information is protected.
 
-  * Our privacy policies are designed to model internationally accepted privacy principles, or fair information practices, such as those established by the European Union (EU) Data Protection Directive and the EU-U.S. Privacy Shield as set forth by the U.S. Department of Commerce. [https://www.privacyshield.gov](https://www.privacyshield.gov/)
-
-
+Our privacy policies are designed to model internationally accepted privacy principles, or fair information practices, such as those established by the European Union (EU) Data Protection Directive and the EU-U.S. Privacy Shield as set forth by the U.S. Department of Commerce. [https://www.privacyshield.gov](https://www.privacyshield.gov/)
 
 Mary Kay has certified that it adheres to the EU-U.S. Privacy Shield principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).  These principles and how Mary Kay works to apply them are:  
 
 
 ## Why We Collect Information
 
-Mary Kay collects and uses personal information to provide an incredible business opportunity, fabulous products, and services of superior quality for Independent Beauty Consultants and their customers, consumers of our products and services, employees, and others who may come into contact with Mary Kay. We limit the collection of personal information to what we need to know in order to achieve our goal of providing superior quality, value and opportunities. For example, we use e-mail addresses to send Independent Beauty Consultants, consumers, employees or job applicants information they have requested. Independent Beauty Consultant and consumer feedback on products and services is used to improve those products and services. 
+Mary Kay collects and uses personal information to provide an incredible business opportunity, fabulous products, and services of superior quality for Independent Beauty Consultants and their customers, consumers of our products and services, employees, and others who may come into contact with Mary Kay. We limit the collection of personal information to what we need to know in order to achieve our goal of providing superior quality, value and opportunities. For example, we use e-mail addresses to send Independent Beauty Consultants, consumers, employees and job applicants information they have requested. Independent Beauty Consultant and consumer feedback on products and services is used to improve those products and services. 
 
 We tell individuals what information we collect, how it is used, whether it may be transferred to others to provide the products or services requested, and how to contact the Company or the Mary Kay Privacy Team with inquiries. We provide a link to our Privacy Policies on our websites, and provide additional targeted privacy notices to users who may need additional information about different areas on our websites when appropriate. 
 
@@ -236,7 +234,7 @@ Mary Kay privacy policies and data protection practices extend by contract to ou
 
 For more information or to review a country specific Privacy Policy, [click here](https://web.archive.org/en-us/pages/countryselector).
 
-If you have questions or concerns regarding your privacy, please contact us directly.  Click here to select your country and be linked to the correct address or e-mail address to use in your specific location, or use the postal address below. Please feel free to use your native language when sending your questions or comments. 
+If you have questions or concerns regarding your privacy, please contact us directly.  [Click here](https://www.marykay.com/en-us/pages/countryselector) to select your country and be linked to the correct address or e-mail address to use in your specific location, or use the postal address below. Please feel free to use your native language when sending your questions or comments. 
 
 Otherwise, you can contact us at this address: 
 
@@ -254,7 +252,7 @@ We participate in the U.S. Council of Better Business Bureau’s (BBB) Accredite
 
 In compliance with the EU-U.S. Privacy Shield principles, Mary Kay commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Mary Kay in your country of residence.
 
-Mary Kay has further committed to refer unresolved privacy complaints under the EU-U.S. Privacy Shield to an independent dispute resolution mechanism, the BBB EU Privacy Shield, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Mary Kay, please visit the BBB EU Privacy Shield website at <http://www.bbb.org/EU-privacy-shield/bbb-eu-safe-harbor-dispute-resolution/> for more information and to file a complaint. 
+Mary Kay has further committed to refer unresolved privacy complaints under the EU-U.S. Privacy Shield to an independent dispute resolution mechanism, the BBB EU Privacy Shield, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Mary Kay, please visit the BBB EU Privacy Shield website at <http://www.bbb.org/EU-privacy-shield/for-eu-consumers/> for more information and to file a complaint. 
 
 ## Notification of Policy Changes
 
@@ -276,9 +274,9 @@ Mary Kay is proud to support the efforts of Mary Kay Independent Beauty Consulta
 
 When you provide your information to your Independent Beauty Consultant through her Personal Web Site, your information is placed in a secure location on behalf of your Independent Beauty Consultant. Your information will be shared with Mary Kay but will not be shared with others without your permission. 
 
-## Information Collected on the Personal Website
+## Information Collected on the Personal Web Site
 
-Information that you choose to provide to your Independent Beauty Consultant on her Personal Website may include:
+Information that you choose to provide to your Independent Beauty Consultant on her Personal Web Site may include:
 
   * Name, email address, postal address
   * Username and password
@@ -294,7 +292,7 @@ Information that you choose to provide to your Independent Beauty Consultant on 
 
 
 
-While on the Independent Beauty Consultant’s Personal Website, cookies and other technologies are used to capture information about you and your use of the site. The following are examples of information that may be collected with these technologies:
+While on the Independent Beauty Consultant’s Personal Web Site, cookies and other technologies are used to capture information about you and your use of the site. The following are examples of information that may be collected with these technologies:
 
   * Your browser type and operating system
   * Web pages you view
@@ -310,7 +308,7 @@ While on the Independent Beauty Consultant’s Personal Website, cookies and oth
 
 ## How This Information is Used
 
-Your Independent Beauty Consultant uses the information you provide on the Personal Website to:
+Your Independent Beauty Consultant uses the information you provide on the Personal Web Site to:
 
   * Provide you with superior quality service
   * Tell you about new products and promotions that may be of interest to you
@@ -324,15 +322,14 @@ Your Independent Beauty Consultant uses the information you provide on the Perso
 
 
 
-Mary Kay uses the information you provide on the Personal Website to:  
-
+Mary Kay uses the information you provide on the Personal Web Site to:
 
   * Facilitate the processing of payment for purchases or other services for or on behalf of your Independent Beauty Consultant
   * Protect against or identify possible fraudulent transactions
   * Assist the Independent Beauty Consultant in identifying your preferences
   * Analyze the use of Mary Kay products, services, and sites
-  * Understand how you arrived at the Personal Website and how you use the site so that we can make it better for you and your Independent Beauty Consultant
-  * Determine the effectiveness of the Personal Website
+  * Understand how you arrived at the Personal Web Site and how you use the site so that we can make it better for you and your Independent Beauty Consultant
+  * Determine the effectiveness of the Personal Web Site
   * Enforce the Personal Web Site and related Terms and Conditions and otherwise manage and secure the site and business
   * Ask you if you wish to participate in market research, and then contact you if you give us permission
   * Facilitate communication or information you have requested from your Independent Beauty Consultant
@@ -341,9 +338,9 @@ Mary Kay uses the information you provide on the Personal Website to:
 
 ## Your Choices and How to Access Your Information
 
-When using the Personal Website you are providing your information to the Independent Beauty Consultant. Mary Kay has access to your information only for the purpose of providing a service to your Independent Beauty Consultant. However, rest assured that we treat your information provided through the Personal Website in accordance with the standards set forth in our Consumer Privacy Policy and our Global Privacy Statement in addition to this Privacy Statement. Please refer to those privacy policies, for further information. Generally, individuals who provide information through the Personal Website can contact Mary Kay directly to request to stop future communications directly from Mary Kay in connection with the Personal Website. Please contact the Privacy Team for more information or to make a request or [click here](https://web.archive.org/en-us/pages/email-unsubscription) o submit a request online. You will need to contact your Independent Beauty Consultant directly in order to request that your Independent Beauty Consultant not forward or otherwise send information to you that is not sent directly by Mary Kay through the Personal Website program.
+When using the Personal Web Site you are providing your information to the Independent Beauty Consultant. Mary Kay has access to your information only for the purpose of providing a service to your Independent Beauty Consultant. However, rest assured that we treat your information provided through the Personal Web Site in accordance with the standards set forth in our Consumer Privacy Policy and our Global Privacy Statement in addition to this Privacy Policy. Please refer to those privacy policies, for further information. Generally, individuals who provide information through the Personal Web Site can contact Mary Kay directly to request to stop future communications directly from Mary Kay in connection with the Personal Web Site. Please contact the Privacy Team for more information or to make a request or [click here](https://web.archive.org/en-us/pages/email-unsubscription) to submit a request online. You will need to contact your Independent Beauty Consultant directly in order to request that your Independent Beauty Consultant not forward or otherwise send information to you that is not sent directly by Mary Kay through the Personal Web Site program.
 
-You can view, correct or update the personal contact information you provide through the Personal Website by contacting your Independent Beauty Consultant. 
+You can view, correct or update the personal contact information you provide through the Personal Web Site by contacting your Independent Beauty Consultant. 
 
 ## Third Party Service Providers
 
@@ -351,12 +348,12 @@ Your Independent Beauty Consultant may choose to utilize services offered by Mar
 
 For example, service providers may be utilized to:
 
-  * Fulfill your product and service requests.
-  * Host sites and deliver email and mobile messages.
-  * Mail product samples, contact contest winners, manage payments or take other actions on behalf of your Independent Beauty Consultant.
-  * Analyze data, sometimes combined with other sources, to send more targeted communications to you.
-  * Conduct research and analyze data to improve the products, services and sites made available to you.
-  * Facilitate payment or order processing.
+  * Fulfill your product and service requests
+  * Host sites and deliver email and mobile messages
+  * Mail product samples, contact contest winners, manage payments or take other actions on behalf of your Independent Beauty Consultant
+  * Analyze data, sometimes combined with other sources, to send more targeted communications to you
+  * Conduct research and analyze data to improve the products, services and sites made available to you
+  * Facilitate payment or order processing
 
 
 
@@ -372,11 +369,11 @@ Your personal information may be transferred to, stored, and processed in a coun
 
 We take steps to protect personal information no matter what country it is stored in or transferred to. We have procedures and controls as appropriate to help ensure this.
 
-We adhere to the EU Data Privacy Directive and country data privacy laws, as well as the U.S. Department of Commerce <https://www.commerce.gov/page/eu-us-privacy-shield>.
+We adhere to the EU Data Privacy Directive and country data privacy laws, as well as the EU-U.S. Privacy Shield Framework set forth by the U.S. Department of Commerce. To learn more about the EU-U.S. Privacy Shield program, please visit <https://www.privacyshield.gov/>.
 
 We may transfer personal information to Mary Kay databases in countries other than where it was provided. Our global privacy program requires the same high level of security and protection of personal information in all geographies with procedures and contracts in place to help ensure this is so.
 
-Data may be temporarily transferred to a vendor or business partner to provide services for the Independent Beauty Consultant such as targeted email communications, mailing information or samples. These vendors and business partners are required to protect and manage the personal information to the same high standards Mary Kay does, and they cannot use the information for purposes other than to provide the services Mary Kay or your Independent Beauty Consultant have requested. 
+Data may be transferred to a vendor or business partner to provide services for the Independent Beauty Consultant such as targeted email communications, mailing information or samples. These vendors and business partners are required to protect and manage the personal information to the same high standards Mary Kay does, and they cannot use the information for purposes other than to provide the services Mary Kay or your Independent Beauty Consultant have requested. 
 
 If you have questions or concerns regarding your privacy, please contact us directly.
 
@@ -390,22 +387,13 @@ We are committed to working with you to obtain a fair resolution of any complain
 
 We participate in the U.S. Council of Better Business Bureau’s (BBB) Accredited Business Program. Further information about this program and its dispute resolution process is available at [www.bbb.org](http://www.bbb.org/). 
 
-For nearly 50 years Mary Kay has provided limitless opportunities to Independent Beauty Consultants around the world. Trust is one of the cornerstones on which the Company was built. It is in this spirit of trust and our Golden Rule philosophy that we are committed to protecting the personal information we collect about you. 
+For over 50 years Mary Kay has provided limitless opportunities to Independent Beauty Consultants around the world. Trust is one of the cornerstones on which the Company was built. It is in this spirit of trust and our Golden Rule philosophy that we are committed to protecting the personal information we collect about you. 
 
 This Privacy Statement was created specifically with you in mind. It describes the information we collect from Independent Beauty Consultants, how that information is used and protected, and the choices you can make about how we use and share your information. 
 
-Our privacy practices are consistent with: 
-
-  * The European Union Data Protection Directive through the U.S. Department of Commerce EU-US Privacy Shield.
-  * Fair information practices established by the Organization for Economic CO-operation and Development (OECD)
-  * The Asia Pacific Economic Cooperation forum (APEC) Privacy Framework.
-  * Applicable national and state data protection laws. 
-
-
-
 We are committed to working with you to obtain a fair resolution of any complaint or concern about privacy.  We cooperate with country data protection authorities if they believe that a privacy problem has occurred. 
 
-In order to provide you up-to-date product and business information for the efficient functioning of your Mary Kay business Mary Kay collects the following information from or about you:
+In order to provide you up-to-date product and business information for the efficient functioning of your Mary Kay business, Mary Kay collects the following information from or about you:
 
   * Name 
   * Postal address
@@ -424,13 +412,13 @@ In order to provide you up-to-date product and business information for the effi
   * Payment information (such as a credit card or financial information in connection with your orders from the company)
   * Commission history
   * Customer Service call information
-  * Other information you may choose to share with us in connection to your Mary Kay business or which is shared about you by other Independent Beauty Consultant’s or consumers
+  * Other information you may choose to share with us in connection to your Mary Kay business or which is shared about you by other Independent Beauty Consultants or consumers
 
 
 
 ## How We Use This Information
 
-As a Mary Kay Independent Beauty Consultant you are in business for yourself but not by yourself. Generally we use the information we collect from and about you to provide the products and services you and your customers request and to promote the efficient facilitation of the Mary Kay business opportunity. 
+As a Mary Kay Independent Beauty Consultant you are in business for yourself but not by yourself. Generally, we use the information we collect from and about you to provide the products and services you and your customers request and to promote the efficient facilitation of the Mary Kay business opportunity. 
 
 More specifically your information is used to:
 
@@ -450,7 +438,7 @@ More specifically your information is used to:
   * Understand how you are utilizing business tools offered by Mary Kay including personal websites and other e-commerce tools 
   * Determine the effectiveness of our advertising and promotions 
   * Enforce our Terms and Conditions and otherwise manage our relationship with you 
-  * Compliance with the Independent Beauty Consultant Agreement, Independent Sales Director Agreement and/or Independent National Sales Director Agreement, as applicable 
+  * Comply with the Independent Beauty Consultant Agreement, Independent Sales Director Agreement and/or Independent National Sales Director Agreement, as applicable 
   * Calculate, process and send commission payments, prizes and awards 
   * Send general correspondence relating to your contracts or relationship with Mary Kay 
   * Comply with our contractual relationship with you and other Independent Beauty Consultants, Independent Sales Directors and Independent National Sales Directors 
@@ -461,7 +449,7 @@ More specifically your information is used to:
 
 ## Use of Cookies and Other Technology
 
-We use cookies and other technologies to collect information about you when you visit our sites, use our services or view online advertisements or other information contained on _Mary Kay InTouch_ or marykay.com. We may also use those techniques to make online browsing more seamless. The following are examples of information we may collect with these technologies:
+We use cookies and other technologies to collect information about you when you visit our sites, use our services or view online advertisements or other information contained on _Mary Kay InTouch _ **®**_ _ or marykay.com. We may also use those techniques to make online browsing more seamless. The following are examples of information we may collect with these technologies:
 
   * Your browser type and operating system
   * IP address
@@ -469,8 +457,8 @@ We use cookies and other technologies to collect information about you when you 
   * Links you click
   * Mary Kay emails you open and/or forward
   * Mary Kay offers or links you connect to via emails
-  * Web Sites which lead you to our site or visited upon exiting our site
-  * Track items selected
+  * Web Sites which lead you to our site or are visited upon exiting our site
+  * Items selected
 
 
 
@@ -478,7 +466,7 @@ We use this information to provide you with a more user-friendly experience and 
 
 ## Your Choices and How to Access this Information
 
-As an Independent Beauty Consultant, it is necessary that we use your information in order to facilitate our contractual relationship with you and others, and to provide you with the most up to date information in order for you to be successful in the operation of your independent Mary Kay business. We offer access and choice with regard to your information in compliance with applicable law.  
+As an Independent Beauty Consultant, it is necessary that we use your information in order to facilitate our contractual relationship with you and others, and to provide you with the most up-to-date information in order for you to be successful in the operation of your independent Mary Kay business. We offer access and choice with regard to your information in compliance with applicable law.  
 **  
 Choices**
 
@@ -488,7 +476,7 @@ We give you choice regarding how we communicate with you.
 
 We send you promotional mobile or email messages that you have opted in to receive. Generally you agree to receive these communications when you sign up as an Independent Beauty Consultant or when you join the on-line community available to Independent Beauty Consultants, Independent Sales Directors and Independent National Sales Directors. 
 
-You can stop receiving particular promotional mobile and email messages from Mary Kay and third parties who may send information on our behalf by following the instructions provided in any such message you receive. It may be necessary to continue to send you certain information electronically pursuant to the terms of your Independent Beauty Consultant Agreement and relationship with Company.
+You can stop receiving particular promotional mobile and email messages from Mary Kay and third parties who may send information on our behalf by following the instructions provided in any such message you receive. It may be necessary to continue to send you certain information electronically pursuant to the terms of your Independent Beauty Consultant Agreement and relationship with the Company.
 
 **Postal Mail**
 
@@ -498,7 +486,7 @@ In connection with your status as an Independent Beauty Consultant we may mail y
 
 **Access**
 
-We take steps to keep your personal information accurate. You can view, correct or update the personal contact information you provide Mary Kay. Most Mary Kay programs provide access to view or update personal information online including _Mary Kay InTouch_ ® and Personal Websites.  If you have any questions, you can contact Customer Service or the Data Privacy Team.
+We take steps to keep your personal information accurate. You can view, correct or update the personal contact information you provide Mary Kay. Most Mary Kay programs provide access to view or update personal information online including _Mary Kay InTouch_ ® and Personal Web Sites.  If you have any questions, you can contact Customer Service or the Global Privacy Team.
 
 In general, we do not share personal information with marketers outside of Mary Kay. There are circumstances where special offers may be available to Independent Beauty Consultants by third-party companies and in those instances we will only provide your information if we have clearly provided notice and asked for and obtained your consent depending upon your location.  We may share your information with potential customers who have contacted the Company for a referral to an Independent Beauty Consultant, if allowed by law and/or if you give us specific permission to pass on this information to potential customers.  We share information with other Independent Beauty Consultants in order to facilitate contractual obligations pursuant to the Independent Beauty Consultant Agreement, including to your recruiter, Independent Sales Director(s) and Independent National Sales Director(s), for the purpose of honoring our agreements with you and with them.  We only provide personal information needed in order to facilitate support for you and contractual compliance. 
 
@@ -528,17 +516,16 @@ We may also disclose your personal information:
 
   * In order to provide first class Golden Rule Service around the globe, we may share personal information with other Mary Kay entities through a protected environment.
   * When required by law, and/or public authorities.
-  * Aggregated and non-personal information
 
 
 
 We may share aggregated information that does not identify you for general business analysis. For example, we may disclose the number of visitors to Mary Kay sites or services. 
 
-We may transfer personal information to Mary Kay databases in countries other than where it was provided. Our Global Privacy Program requires the same high level of security and protection of personal information in all geographies with procedures and contracts in place to help ensure this is so. Data may be temporarily transferred to a vendor or business partner to provide services for Mary Kay, such as mailing information or samples. These vendors and business partners are required to protect and manage the personal information to the same high standards Mary Kay does, and they cannot use the information for purposes other than to provide the services Mary Kay has requested. 
+We may transfer personal information to Mary Kay databases in countries other than where it was provided. Our Global Privacy Program requires the same high level of security and protection of personal information in all geographies with procedures and contracts in place to help ensure this is so. Data may be transferred to a vendor or business partner to provide services for Mary Kay, such as mailing information or samples. These vendors and business partners are required to protect and manage the personal information to the same high standards Mary Kay does, and they cannot use the information for purposes other than to provide the services Mary Kay has requested. 
 
 Mary Kay protects personal information under company control by industry standard security practices and measures, in order to prevent loss, misuse, unauthorized access, disclosure or alteration of the information. We limit access to personal information to those who have a business need for such information. We do not keep personal information any longer than necessary to meet the business purpose for which it was collected, though in some cases, contractual, legal or regulatory reasons require that personal information not be deleted for certain time periods. 
 
-If you have any concerns or questions about the security of your information in connection with May Kay or any of our web sites, or if you have any additional questions relating to Privacy at Mary Kay please contact Customer Service in your market or:
+If you have any concerns or questions about the security of your information in connection with Mary Kay or any of our web sites, or if you have any additional questions relating to Privacy at Mary Kay please contact Customer Service in your market or:
 
 Mary Kay Global Privacy Team   
 16251 Dallas Parkway   
