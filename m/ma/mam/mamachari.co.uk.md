@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mamachari.co.uk privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517163148id_/http%3A//www.mamachari.co.uk/service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamachari.co.uk privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916192831id_/http%3A//www.mamachari.co.uk/service/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Mamachari
 
