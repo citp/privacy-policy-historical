@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the steelcase.com privacy policy that was archived on 2018-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180518160529id_/https%3A//www.steelcase.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steelcase.com privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916084842id_/https%3A//www.steelcase.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Steelcase
+
+## Website Privacy Policy
 
 _Last revised and updated:  March 6, 2017_
 
@@ -95,5 +97,7 @@ To ask questions or comment about this privacy policy and our privacy practices,
 Unless otherwise stated, Steelcase Inc. is the data controller for personal information we collect through the Website and other means subject to this policy. Our address is Steelcase Inc., Attn: Privacy Officer, 901 44th Street SE, Grand Rapids, Michigan 49508 USA. Telephone toll-free: 800-333-9939.
 
 Steelcase France is our data protection representative for the European Economic Area and Switzerland. The data protection officer of Steelcase France can be reached at: Steelcase S.A., Attn: Data Protection Officer, Espace Europeen de l’Enterprise, Schiltigheim 67300 France.
+
+#### ** **
 
 Copyright © 1996-2017 Steelcase Inc.  All rights reserved.
