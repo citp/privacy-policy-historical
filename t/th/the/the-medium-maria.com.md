@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the the-medium-maria.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621120642id_/http%3A//www.the-medium-maria.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-medium-maria.com privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916060554id_/https%3A//www.the-medium-maria.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Legal Terms | Maria
 
 ##  **PRIVACY POLICY**
 
-Last update: 25/05/2018
+Last update: 23/08/2018
 
 Mediaweb Limited would like to thank you for visiting the-medium-maria.com (the "website") and for your interest in our products and services. Your privacy is important to us and we want you to feel comfortable while visiting our website. Mediaweb Limited recognizes the need for appropriate protection and management of personal data collected. This document explains clearly and simply which of your personal data are collected by our website and how these personal data are used. You will also find essential information on your rights with regard to the sharing, transmission, alteration or deletion of your personal data. Please read this document carefully so that you fully understand our privacy policy. This privacy policy is subject to any applicable mandatory local laws and regulations.
 
@@ -12,7 +12,7 @@ By using the website, you acknowledge and agree to the application of this priva
 
 ###  About the-medium-maria.com
 
-The the-medium-maria.com website belongs to Mediaweb Ltd - Unit 313, 3/F Austin Tower, N° 22-26 Austin Avenue - Tsim Sha Tsui - Kowloon - HONG KONG - Business Registration # 1278084 - VAT identification nbr: EU826410323, acting as the controller (hereinafter "Mediaweb Limited", "we", "us" or "our"). Depending on the means of payment chosen by the client, payments will be processed by Mediaweb Limited or its partner: Mediaweb Limited - 8A Pitmans Alley - Main Street - Gibraltar - Business Registration #102528.
+The the-medium-maria.com website is run by and belongs to Mediaweb Limited - Room 1004, 10/F Railway Plaza - 39 Chatham Road South, Tsim Sha Tsui - Kowloon - Hong Kong - Business Registration # 1278084 - VAT identification nbr: EU826410323, acting as the controller (hereinafter "Mediaweb Limited", "we", "us" or "our"). Depending on the means of payment chosen by the client, payments will be processed by Mediaweb Limited or its partner: Mediaweb Limited - 8A Pitmans Alley - Main Street - Gibraltar - Business Registration #102528.
 
 ###  What is to be considered when data is transferred over the internet?
 
@@ -105,8 +105,6 @@ _SESSxxxxxxxx |  Used to distinguish users |  Never (in the past) |  Alphanumeri
 _etuix |  Used to distinguish users |  1 year & 1 month |  Alphanumeric  
 _has_js |  Used to detect JS |  Never (in the past) |  Numeric  
 _omappvp |  Used by OptinMonster to control Crowdstacker subscription pop-ups, so you only see them occasionally |  10 years & 4 months |  Numeric  
-_ABTasty |  Used to distinguish users |  1 year & 1 month |  Numeric  
-_ABTastySession |  Used to distinguish users |  Session period |  Numeric  
   
 Some of our pages may also contain web beacons which allow us to collect information on the volume and origin of visitor traffic to our pages as well as general demographic information about these visitors. This data is stored anonymously, it does not contain any personal information and can thus be disclosed to third parties, particularly for information or statistical analysis purposes, particularly in order to analyze the performance of our marketing promotions.
 
