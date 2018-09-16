@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epocrates.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517163905id_/http%3A//www.epocrates.com/privacy%3Fcid%3DfooterPolicies%23privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epocrates.com privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916202124id_/http%3A//www.epocrates.com/privacy%3Fcid%3DfooterPolicies%23privacyPolicy) for the most accurate reproduction.*
 
 # Policies | Epocrates
 
