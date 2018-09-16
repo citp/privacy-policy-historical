@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleartax.in privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707000834id_/https%3A//cleartax.in/Meta/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleartax.in privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916090315id_/https%3A//cleartax.in/Meta/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy: ClearTax.in
 
@@ -60,11 +60,3 @@ When you are in the process of e-Filing your Income Tax Return, ClearTax may req
   * Other additional webservices as provided to E-Return Intermediaries
 
 
-
-ClearTax is a product by Defmacro Software Pvt. Ltd. 
-
-ISO 27001   
-Data Center 
-
-SSL Certified Site   
-128-bit encryption 
