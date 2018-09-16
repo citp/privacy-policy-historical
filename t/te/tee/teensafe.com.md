@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teensafe.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523033623id_/https%3A//www.teensafe.com/helps/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teensafe.com privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916184055id_/https%3A//www.teensafe.com/helps/privacy) for the most accurate reproduction.*
 
 # TeenSafe, Inc. Privacy Policy - TeenSafe
 
