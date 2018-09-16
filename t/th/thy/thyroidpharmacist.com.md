@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thyroidpharmacist.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622071322id_/https%3A//thyroidpharmacist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thyroidpharmacist.com privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916103553id_/https%3A//thyroidpharmacist.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Dr. Izabella Wentz
+# PRIVACY POLICY
 
 Updated: May 2018
 
