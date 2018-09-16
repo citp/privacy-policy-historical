@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premiumlinkgenerator.com privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011023118id_/https%3A//ww.premiumlinkgenerator.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumlinkgenerator.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917013650id_/https%3A//ww.premiumlinkgenerator.com/privacy-policy) for the most accurate reproduction.*
 
 # ▷ Privacy Policy || Premium Link Generator ⇒ 1 Account for 50+ Hosts
 
