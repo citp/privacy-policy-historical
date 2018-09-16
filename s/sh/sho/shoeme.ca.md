@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoeme.ca privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521121321id_/http%3A//dsw.townshoes.ca/store/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoeme.ca privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916164442id_/http%3A//dsw.townshoes.ca/store/dsw/en/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Designer Shoe Warehouse
 
@@ -57,7 +57,7 @@ If you choose to forward or share email communications that you've received from
 
 #### **UNSUBSCRIBING/WITHDRAWING YOUR CONSENT**
 
-WeWe will always provide you with the opportunity to "opt out" or "unsubscribe" within each communication we send to you.   To unsubscribe from Email Communications, click the unsubscribe link at the bottom of any of our emails. 
+We will always provide you with the opportunity to "opt out" or "unsubscribe" within each communication we send to you.   To unsubscribe from Email Communications, click the unsubscribe link at the bottom of any of our emails. 
 
 If you would like to unsubscribe from a Town Shoes Limited email list now, please click [HERE](https://gcp-tsl-web-prod.appspot.com/unsubscribe).
 
