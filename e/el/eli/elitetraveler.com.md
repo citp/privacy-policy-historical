@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitetraveler.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622094708id_/https%3A//www.elitetraveler.com/elite-traveler-magazine-internet-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitetraveler.com privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916124618id_/https%3A//www.elitetraveler.com/elite-traveler-magazine-internet-privacy-policy) for the most accurate reproduction.*
 
 # ELITE TRAVELER MAGAZINE INTERNET PRIVACY POLICY | Elite Traveler
 
@@ -37,7 +37,7 @@ If User decides to opt-in to our mailing list, they will receive emails that may
 
 ### User’ right to Opt-out
 
-If you do not want to continue to receive e-mail communications from us please let us know by sending an e-mail to [unsubscribe@elitetraveler.com](https://web.archive.org/web/20180622094708id_/https%3A//www.elitetraveler.com/unsubscribe@elitetraveler.com). Should you request that we amend or suppress records containing your personal data we will endeavour to do so as promptly as practical; however you may receive communications for a transitional period whilst we process your records.
+If you do not want to continue to receive e-mail communications from us please let us know by sending an e-mail to [unsubscribe@elitetraveler.com](https://web.archive.org/web/20180916124618id_/https%3A//www.elitetraveler.com/unsubscribe@elitetraveler.com). Should you request that we amend or suppress records containing your personal data we will endeavour to do so as promptly as practical; however you may receive communications for a transitional period whilst we process your records.
 
 ### How we protect your information
 
