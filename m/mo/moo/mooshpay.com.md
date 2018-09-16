@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mooshpay.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516194937id_/http%3A//mooshpay.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mooshpay.com privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916041506id_/http%3A//mooshpay.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mooshpay
+
+Mooshpay will be closing on August 31, 2018. Currently, you will no longer be allowed to create new products. Please move your existing products to another platform. We are so sorry for the trouble, but this product never got enough traction to move out of Beta. 
 
 ###  Welcome to Mooshpay.com (the "Site").
 
