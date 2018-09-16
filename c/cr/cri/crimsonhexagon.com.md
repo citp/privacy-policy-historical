@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the crimsonhexagon.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603035029id_/https%3A//www.crimsonhexagon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crimsonhexagon.com privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916121531id_/https%3A//www.crimsonhexagon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [Updated: May 2018] 
 
-This Privacy Policy will take effect on May 25, 2018.  To see the previous version, please [click here](https://www.crimsonhexagon.com/privacy-policy-2018-05-24/).
+This Privacy Policy is effective as of May 25, 2018.  
+
+To see the previous version, please [click here](https://www.crimsonhexagon.com/privacy-policy-2018-05-24/).
 
 ## Introduction
 
@@ -43,7 +45,7 @@ This Privacy Policy does not apply, however, to Crimson Hexagon employees, emplo
 
 **Important Note for European Users**
 
-Information submitted by you will be stored, processed, and used by us and our third party service providers who help us to deliver our services and operate our business.
+ ****Information submitted by you will be stored, processed, and used by us and our third party service providers who help us to deliver our services and operate our business.
 
 Please note that information covered by this Privacy Policy will be hosted and stored in the United States. The United States has data protection laws that may not be consistent with those of other countries, including those in the European Union (EU).  We will take all reasonable steps to ensure that your privacy rights are protected in accordance with this Privacy Policy.
 
@@ -314,4 +316,4 @@ Mailing Address or Phone:
 
 ## Ready to transform your business?
 
-Get a walkthrough of Crimson Hexagon and learn how social insights can help you make better business decisions.
+Get a walkthrough of Crimson Hexagon and learn how consumer insights can help you make better business decisions.
