@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the additudemag.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625061938id_/https%3A//www.additudemag.com/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the additudemag.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917005507id_/https%3A//www.additudemag.com/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # ADDitude's Privacy Policy
 
