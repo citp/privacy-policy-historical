@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanasafinaz.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930091100id_/http%3A//www.sanasafinaz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanasafinaz.com privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916182017id_/https%3A//www.sanasafinaz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
