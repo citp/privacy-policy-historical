@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nybg.org privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002150326id_/https%3A//www.nybg.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nybg.org privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916194115id_/https%3A//www.nybg.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » New York Botanical Garden
 
@@ -20,16 +20,30 @@ Section Navigation
     * [Press Room](https://www.nybg.org/about/press-room/)
       * [Press Release Archive](https://www.nybg.org/about/press-room/press-release-listing/)
       * [Media Gallery](https://www.nybg.org/about/press-room/image-listing/)
-        * [Exhibitions](https://www.nybg.org/about/press-room/image-listing/exhibitions/)
-          * [CHIHULY](https://www.nybg.org/about/press-room/image-listing/exhibitions/chihuly/)
-          * [What in the World is a Herbarium?](https://www.nybg.org/about/press-room/image-listing/exhibitions/what-in-the-world-is-a-herbarium/)
-          * [The Orchid Show](https://www.nybg.org/about/press-room/image-listing/exhibitions/the-orchid-show-press-room/)
-            * [Orchid Close-Ups](https://www.nybg.org/about/press-room/image-listing/exhibitions/the-orchid-show-press-room/orchid-close-ups/)
-            * [The Orchid Show: Thailand](https://www.nybg.org/about/press-room/image-listing/exhibitions/the-orchid-show-press-room/the-orchid-show/)
-          * [Holiday Train Show®](https://www.nybg.org/about/press-room/image-listing/exhibitions/holiday-train-show/)
-          * [Kiku: The Art of the Japanese Garden](https://www.nybg.org/about/press-room/image-listing/exhibitions/kiku-the-art-of-the-japanese-garden/)
-          * [Impressionism: American Gardens on Canvas](https://www.nybg.org/about/press-room/image-listing/exhibitions/impressionism-american-gardens-on-canvas/)
-        * [General NYBG Images](https://www.nybg.org/about/press-room/image-listing/general-nybg-images/)
+        * [Exhibitions Press Room](https://www.nybg.org/about/press-room/image-listing/exhibitions/)
+          * [Georgia O’Keeffe:   
+Visions of Hawai‘i   
+Image Gallery](https://www.nybg.org/about/press-room/image-listing/exhibitions/georgia-okeeffe-visions-of-hawaii/)
+          * [CHIHULY   
+Image Gallery](https://www.nybg.org/about/press-room/image-listing/exhibitions/chihuly/)
+          * [What in the World is a Herbarium?   
+Image Gallery](https://www.nybg.org/about/press-room/image-listing/exhibitions/what-in-the-world-is-a-herbarium/)
+          * [The Orchid Show   
+Image Gallery](https://www.nybg.org/about/press-room/image-listing/exhibitions/the-orchid-show-press-room/)
+            * [Orchid Close-Ups Press Room](https://www.nybg.org/about/press-room/image-listing/exhibitions/the-orchid-show-press-room/orchid-close-ups/)
+            * [The Orchid Show: Thailand Press Room](https://www.nybg.org/about/press-room/image-listing/exhibitions/the-orchid-show-press-room/the-orchid-show/)
+          * [Holiday Train Show®   
+Image Gallery](https://www.nybg.org/about/press-room/image-listing/exhibitions/holiday-train-show/)
+            * [Bar Car Nights   
+Image Gallery](https://www.nybg.org/about/press-room/image-listing/exhibitions/holiday-train-show/bar-car-nights/)
+          * [Kiku: The Art of the Japanese Garden   
+Image Gallery](https://www.nybg.org/about/press-room/image-listing/exhibitions/kiku-the-art-of-the-japanese-garden/)
+          * [Impressionism: American Gardens on Canvas   
+Image Gallery](https://www.nybg.org/about/press-room/image-listing/exhibitions/impressionism-american-gardens-on-canvas/)
+        * [General NYBG   
+Image Gallery](https://www.nybg.org/about/press-room/image-listing/general-nybg-images/)
+          * [Spring at NYBG](https://www.nybg.org/about/press-room/image-listing/general-nybg-images/spring-at-nybg/)
+          * [The Edible Academy](https://www.nybg.org/about/press-room/image-listing/general-nybg-images/edible-academy/)
     * [Work With Us](https://www.nybg.org/about/work-with-us/)
       * [Employment](https://www.nybg.org/about/work-with-us/employment/)
       * [Internships](https://www.nybg.org/about/work-with-us/employment-2/)
@@ -39,12 +53,14 @@ Section Navigation
         * [Citizen Science](https://www.nybg.org/about/work-with-us/volunteer/citizen-science/)
     * [Sustainability](https://www.nybg.org/about/sustainability/)
       * [Energy Efficiency](https://www.nybg.org/about/sustainability/energy-efficiency/)
-        * [Lighting Infrastructure](https://www.nybg.org/about/sustainability/energy-efficiency/lighting-infrastructure/)
-        * [Load Management](https://www.nybg.org/about/sustainability/energy-efficiency/load-management/)
-        * [HVAC Equipment](https://www.nybg.org/about/sustainability/energy-efficiency/hvac-equipment/)
-        * [Gas Vehicles](https://www.nybg.org/about/sustainability/energy-efficiency/gas-vehicles/)
+        * [Modernizing Lighting Infrastructure](https://www.nybg.org/about/sustainability/energy-efficiency/lighting-infrastructure/)
+        * [Peak Load Management](https://www.nybg.org/about/sustainability/energy-efficiency/load-management/)
+        * [Optimizing HVAC Equipment](https://www.nybg.org/about/sustainability/energy-efficiency/hvac-equipment/)
+        * [Electric & Natural Gas Vehicles](https://www.nybg.org/about/sustainability/energy-efficiency/gas-vehicles/)
+        * [Storm Water Management](https://www.nybg.org/about/sustainability/energy-efficiency/storm-water-management/)
+        * [Alternative Energy Development](https://www.nybg.org/about/sustainability/energy-efficiency/alternative-energy-development/)
       * [Alternative Treatments](https://www.nybg.org/about/sustainability/alternative-treatments/)
-        * [The GMR Center](https://www.nybg.org/about/sustainability/alternative-treatments/the-gmr-center/)
+        * [The Green Materials Recycling Center](https://www.nybg.org/about/sustainability/alternative-treatments/the-gmr-center/)
         * [Pest Management](https://www.nybg.org/about/sustainability/alternative-treatments/pest-management/)
         * [Mature Tree Care](https://www.nybg.org/about/sustainability/alternative-treatments/tree-care/)
         * [Turf Care](https://www.nybg.org/about/sustainability/alternative-treatments/turf-care/)
@@ -53,8 +69,10 @@ Section Navigation
         * [Restoring the Thain Family Forest](https://www.nybg.org/about/sustainability/protect-restore/restoring-the-tff/)
         * [Bronx River Research & Partners](https://www.nybg.org/about/sustainability/protect-restore/bronx-river-research-partners/)
         * [Planting Thousands of Trees](https://www.nybg.org/about/sustainability/protect-restore/planting-thousands-of-trees/)
+        * [Air Quality](https://www.nybg.org/about/sustainability/protect-restore/air-quality/)
+        * [Minimizing the Waste Stream](https://www.nybg.org/about/sustainability/protect-restore/minimizing-waste-stream/)
       * [Future Stewards](https://www.nybg.org/about/sustainability/future-stewards/)
-      * [Before the Green is Gone: Sustainability Summit](https://www.nybg.org/about/sustainability/green-gone-sustainability-summit-dinner/)
+      * [Sustainability Summit](https://www.nybg.org/about/sustainability/green-gone-sustainability-summit-dinner/)
       * [Partners](https://www.nybg.org/about/sustainability/partners/)
     * [Private Events](https://www.nybg.org/about/private-events/)
       * [Photography and Film](https://www.nybg.org/about/private-events/photography-and-film/)
@@ -64,6 +82,7 @@ Section Navigation
       * [Commercial Film, Television and Photography Application](https://www.nybg.org/about/private-events/commercial-film-television-photography-application/)
     * [Garden News](https://www.nybg.org/about/garden-news/)
     * [Privacy Policy](https://www.nybg.org/about/privacy-policy/)
+    * [Brand Partnerships](https://www.nybg.org/about/brand/)
     * [Contact](https://www.nybg.org/about/contact/)
 
 
