@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wdwnt.com privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309070026id_/https%3A//wdwnt.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wdwnt.com privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916105447id_/https%3A//wdwnt.com/disclosure) for the most accurate reproduction.*
 
 # Disclosure/Disclaimer/Privacy Policy - WDW News Today
 
@@ -51,4 +51,4 @@ Through the use of this website, you are hereby accepting the terms and conditio
 ### How to Contact Us
 
 If you have any questions or concerns regarding the Privacy Policy Agreement related to our website, please feel free to contact us at the following email address.  
-Email: wdwnewstoday@gmail.com
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
