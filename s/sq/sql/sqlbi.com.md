@@ -1,362 +1,342 @@
-> *The following text is extracted and transformed from the sqlbi.com privacy policy that was archived on 2018-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180218065553id_/https%3A//www.sqlbi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlbi.com privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916194441id_/https%3A//www.sqlbi.com/privacy) for the most accurate reproduction.*
 
 # Privacy - SQLBI
 
-### Privacy Policy of [sqlbi.com](https://www.sqlbi.com/)
+## Data Controller and Owner
 
-This Application collects some Personal Data from its Users.
+**SQLBI Corp.** – [info@sqlbi.com](mailto:info@sqlbi.com)  
+**5348 Vegas Drive - Las Vegas, NV 89108**
 
-### Data Controller and Owner
+This document governs the privacy notice of the following websites: 
 
-LOADER S.r.l. - Via Bobbio 23/F - 10141 Torino (TO) - Italy - [info@loader.it](mailto:info@loader.it)
+  * www.sqlbi.com
+  * www.daxpatterns.com
+  * www.daxformatter.com
+  * okviz.com
+  * synoptic.design
+  * sql.bi
 
-### Types of Data collected
 
-Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Cookie, Usage data, Email address, First Name and Last Name, and Geographic position. 
 
-Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection.  
-The Personal Data may be freely provided by the User, or collected automatically when using this Application.  
-Any use of Cookies - or of other tracking tools - by this Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User.  
-Failure to provide certain Personal Data may make it impossible for this Application to provide its services.
+Last update: _May 25, 2018_
 
-Users are responsible for any Personal Data of third parties obtained, published or shared through this Application and confirm that they have the third party's consent to provide the Data to the Owner.
+## Definitions
 
-### Mode and place of processing the Data
+_Non-personal data_ is information that is in no way personally identifiable.
 
-#### Methods of processing
+_Personal data_ means any information relating to an identified or an identifiable natural person who can be identified, directly or indirectly, by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
 
-The Data Controller processes the Data of Users in a proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.  
-The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Data Controller, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of the site (administration, sales, marketing, legal, system administration) or external parties (such as third party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Data Controller at any time.
+A _Visitor_ is someone who merely browses our websites. A _Subscriber_ is someone who has registered to our newsletter. A _Customer_ is someone who has registered with us to use or buy our services and products. The term _User_ is a collective identifier that refers to either a visitor, a member, or a customer.
 
-#### Place
+## Your rights
 
-The Data is processed at the Data Controller's operating offices and in any other places where the parties involved with the processing are located. For further information, please contact the Data Controller.
+When using our websites and submitting personal data to us, you may have certain rights under the General Data Protection Regulation (GDPR) and other laws. Depending on the legal basis for processing your personal data, you may have some or all of the following rights: 
 
-#### Retention time
+  * #### The right to be informed
 
-The Data is kept for the time necessary to provide the service requested by the User, or stated by the purposes outlined in this document, and the User can always request that the Data Controller suspend or remove the data.
+You have the right to be informed about the personal data we collect from you, and how we process it.
 
-### The use of the collected Data
+  * #### The right of access
 
-The Data concerning the User is collected to allow the Owner to provide its services, as well as for the following purposes: Analytics, Contacting the User, Managing contacts and sending messages, Hosting and backend infrastructure, Backup saving and management, Displaying content from external platforms, Content commenting, Interaction with external social networks and platforms, RSS feed management, Location-based interactions, Handling payments and Selling goods and services online. 
+You have the right to get confirmation that your personal data is being processed and have the ability to access your personal data. 
+  * #### The right to rectification
 
-The Personal Data used for each purpose is outlined in the specific sections of this document.
+You have the right to have your personal data corrected if it is inaccurate or incomplete. 
+  * #### The right to erasure (right to be forgotten)
 
-### Detailed information on the processing of Personal Data
+You have the right to request the removal or deletion of your personal data if there is no compelling reason for us to continue processing it. 
+  * #### The right to restrict processing
 
-Personal Data is collected for the following purposes and using the following services:
+You have a right to ‘block' or restrict the processing of your personal data. When your personal data is restricted, we are permitted to store your data, but not to process it further. 
+  * #### The right to data portability
 
-  * #### Analytics
+You have the right to request and get your personal data that you provided to us and use it for your own purposes. We will provide your data to you within 30 days of your request. To request your personal data, please contact us at [info@sqlbi.com](mailto:info@sqlbi.com). 
+  * #### The right to object
 
-The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
+You have the right to object to us processing your personal data for the following reasons: 
+    * Processing was based on legitimate interests or the performance of a task in the public interest/exercise of official authority 
+    * Direct marketing 
+    * Processing for purposes of scientific/historical research and statistics 
+    * Rights in relation to automated decision-making and profiling 
+  * #### Automated individual decision-making and profiling
 
-#### Google Analytics (Google)
+You will have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning you or similarly significantly affects you. 
+  * #### Filing a complaint with authorities
 
-Google Analytics is a web analysis service provided by Google Inc. (Google). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.  
-Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
+You have the right to file a complaint with supervisory authorities if your information has not been processed in compliance with the General Data Protection Regulation. If the supervisory authorities fail to address your complaint properly, you may have the right to a judicial remedy. 
 
-Personal Data collected: Cookie and Usage data.   
-Place of processing: USA \- [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) \- [Opt Out](http://tools.google.com/dlpage/gaoptout?hl=en)
 
-  * #### Contacting the User
 
-#### Mailing List or Newsletter (This Application)
+For details about your rights under the GDPR, read the [Regulation (EU) 2016/679.](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG)
 
-By registering on the mailing list or for the newsletter, the User’s email address will be added to the contact list of those who may receive email messages containing information of commercial or promotional nature concerning this Application. Your email address might also be added to this list as a result of signing up to this Application or after making a purchase.
+## Information we collect
 
-Personal Data collected: Email address and Usage data. 
+Generally, you control the amount and type of information that you provide to us when using our websites.
 
-  * #### Managing contacts and sending messages
+Our legal basis for collecting and processing your Personal Data when you buy our products or services is based on and the necessity for the performance of a contract or to take steps to enter into a contract. Our legal basis for collecting and processing your Personal Data when you sign up for our newsletter, workshop, services, and product information through our websites opt-in forms is based on consent.
 
-These services make it possible to manage a database of email contacts, phone contacts or any other contact information to communicate with the User.  
-These services may also collect data concerning the date and time when the message was viewed by the User, as well as when the User interacted with it, such as by clicking on links included in the message.
+If you do not provide us with enough Personal Data, we may not be able to provide you with all our products and services. However, you can access and use some parts of our websites without giving us your Personal Data.
 
-#### Sparkpot (Message Systems, Inc.)
+### How we collect Personal Data
 
-Sparkpost is an email address management and message sending service provided by Message Systems, Inc.
+We collect Personal Data in different ways:
 
-Personal Data collected: Email address.  
-Place of processing : USA \- [Privacy Policy](https://www.sparkpost.com/policies/privacy/)
+  * #### Automatically
 
-  * #### Hosting and backend infrastructure
+We automatically receive information from your web browser or mobile device. This information may include the name of the website from which you entered our websites, if any, as well as the name of the website you'll visit when you leave our websites, your Internet service provider's name, your web browser type, the type of mobile device, your computer operating system, and data about your browsing activity when using our websites. We use all this information to analyze trends among our users to help improve our websites. 
+  * #### When entering and using our websites
 
-These services have the purpose of hosting data and files that enable this Application to run and be distributed as well as to provide a ready-made infrastructure to run specific features or parts of this Application. Some of these services work through geographically distributed servers, making it difficult to determine the actual location where the Personal Data are stored.
+When you enter and use our websites and agree to accept cookies, some of these cookies may contain your Personal Data. 
+  * #### When buying products or services
 
-#### Microsoft Azure (Microsoft Corporation)
+When you buying our products or services, we may collect some or all of the following information: your first and last name, email address, physical address, company name, or other payment information, phone number, user name, password, and other information listed. 
 
-Microsoft Azure is a hosting service provided by Microsoft Corporation.
 
-Personal Data collected: Various types of Data as specified in the privacy policy of the service.   
-[Privacy Policy](http://azure.microsoft.com/en-us/support/legal/privacy-statement/)
 
-  * #### Backup saving and management
+### Cookies
 
-These services allow the Owner to save and manage backups of this Application on external servers managed by the service provider itself. The backups may include the source code and content as well as the data that the User provides to this Application.
+A cookie is a small piece of data or a text file that is downloaded to your computer or mobile device when you access certain websites. Cookies may contain text that can be read by the web server that delivered the cookie to you. The text can uniquely identifies your computer or mobile device.
 
-#### Backup on DropBox (DropBox Inc.)
+Cookies can be classified in these categories:
 
-DropBox is a service to save and manage backups provided by DropBox Inc.
+  * #### Necessary cookies
 
-Personal Data collected: Various types of Data as specified in the privacy policy of the service.   
-Place of processing: USA \- [Privacy Policy](https://www.dropbox.com/privacy#privacy)
+These cookies are necessary for proper functioning of our websites, such as displaying content, logging in, validating your session, responding to your request for services, and other functions. Most web browsers can be set to disable the use of cookies. However, if you disable these cookies, you may not be able to access features on our websites correctly or at all. 
+  * #### Statistics cookies
 
-  * #### Displaying content from external platforms
+These cookies collect information about the use of our websites, such as pages visited, traffic sources, users' interests, content management, and other website measurements. 
+  * #### Functional cookies
 
-These services allow you to view content hosted on external platforms directly from the pages of this Application and interact with them.  
-If a service of this kind is installed, it may still collect web traffic data for the pages where the service is installed, even when users do not use it.
+These cookies enable our websites to remember a user's choices – such as their language, user name, and other personal choices – while using the website. They can also be used to deliver services, such as letting a user make a blog post, listen to audio, or watch videos on the website. 
+  * #### Marketing cookies
 
-#### Google Fonts (Google Inc.)
+These cookies are usually placed and used to develop a profile of your browsing interests and serve advertisements that are related to your interests. 
+  * #### Session cookies
 
-Google Fonts is a typeface visualization service provided by Google Inc. that allows this Application to incorporate content of this kind on its pages.
+These cookies allow our websites to link the actions of a user during a browser session. They may be used for a variety of purposes, such as remembering what a user has put in their shopping cart as they browse a website. Session cookies also permit users to be recognized as they navigate a website so that any item or page changes they make are remembered from page to page. Session cookies expire after a browser session. 
+  * #### Persistent cookies
 
-Personal Data collected: Cookie and Usage data.   
-Place of processing: USA \- [Privacy Policy](http://www.google.it/intl/en/policies/privacy/)
+These cookies are stored on a user's device in between browser sessions, which allows the user's preferences or actions across a website (or, in some cases, across different websites) to be remembered. Persistent cookies may be used for a variety of purposes, including remembering users' choices and preferences when using a website or to target advertising to them. 
 
-#### Google Maps widget (Google Inc.)
 
-Google Maps is a maps visualization service provided by Google Inc. that allows this Application to incorporate content of this kind on its pages.
 
-Personal Data collected: Cookie and Usage data.  
-Place of processing: USA \- [Privacy Policy](http://www.google.it/intl/en/policies/privacy/)
+Our websites use cookies for:
 
-#### Youtube video widget (Google Inc.)
+  * Identifying the areas of our websites that you have visited
+  * Personalizing content that you see on our websites
+  * Our websites analytics
+  * Remembering your preferences, settings, and login details
+  * Targeted advertising and serving ads relevant to your interests
+  * Allowing you to post comments
+  * Allowing you to share content with social networks
 
-Youtube is a video content visualization service provided by Google Inc. that allows this Application to incorporate content of this kind on its pages.
 
-Personal Data collected: Cookie and Usage data.   
-Place of processing: USA \- [Privacy Policy](http://www.google.it/intl/en/policies/privacy/)
 
-  * Content commenting services allow Users to make and publish their comments on the contents of this Application.  
-Depending on the settings chosen by the Owner, Users may also leave anonymous comments. If there is an email address among the Personal Data provided by the User, it may be used to send notifications of comments on the same content. Users are responsible for the content of their own comments.  
-If a content commenting service provided by third parties is installed, it may still collect web traffic data for the pages where the comment service is installed, even when users do not use the content commenting service.
+By agreeing to accept our use of cookies, you are giving us, and third parties we partner with, permission to place, store, and access some or all the cookies described below on your computer.
 
-#### Disqus (Disqus)
+For a complete list of each cookie used by our websites, read the Cookie Declaration section below.
 
-Disqus is a content commenting service provided by Big Heads Labs Inc.
+### Web Beacons
 
-Personal Data collected: Cookie and Usage data.  
-Place of processing: USA \- [Privacy Policy](http://docs.disqus.com/help/30/) \- [Opt out](https://help.disqus.com/customer/portal/articles/1657951)
+We may also use a technology called web beacons to collect general information about your use of our websites and your use of special promotions or newsletters. The information we collect by web beacons allows us to statistically monitor the number of people who open our emails. Web beacons also help us to understand the behavior of our users.
 
-  * These services allow interaction with social networks or other external platforms directly from the pages of this Application.  
-The interaction and information obtained by this Application are always subject to the User’s privacy settings for each social network.  
-If a service enabling interaction with social networks is installed it may still collect traffic data for the pages where the service is installed, even when Users do not use it.
+## How your information is used
 
-#### AddThis (Addthis Inc.)
+We use the information we receive from you to:
 
-AddThis is a service provided by Clearspring Technologies Inc., which displays a widget that allows interaction with social networks and external platforms as well as sharing the contents of this Application.  
-Depending on the configuration, this service can display widgets belonging to third parties such as the managers of social networks where interactions are shared. In this case, also the third parties that provide the widget will be informed of interactions and Usage Data on the pages where this service is installed.
+  * Provide our products and services you have requested or purchased from us
+  * Personalize and customize our content
+  * Make improvements to our website
+  * Contact you with updates to our website
+  * Resolve problems and disputes
+  * Contact you with marketing and advertising that we believe may be of interest to you
 
-Personal Data collected: Cookie and Usage data.   
-Place of processing: USA \- [Privacy Policy](http://www.addthis.com/privacy/privacy-policy)
 
-#### Twitter Tweet button and social widgets (Twitter)
 
-The Twitter Tweet button and social widgets are services allowing interaction with the Twitter social network provided by Twitter Inc.
+### Communications and emails
 
-Personal Data collected: Cookie and Usage data.   
-Place of processing: USA \- [Privacy Policy](http://twitter.com/privacy)
+When we communicate with you about our websites, we will use the email address you provided when you registered. We may also send you emails with promotional information about our websites or offers from us or our affiliates unless you have opted out of receiving such information. You can change your contact preferences at any time by sending us an email with your request to: [info@sqlbi.com](mailto:info@sqlbi.com)
 
-  * These services allow this Application to manage RSS feeds and the distribution of their content. Depending on the characteristics of the service used, these services may be used to insert ads within the content and to gather statistics data from them.
+### Sharing information with third parties
 
-#### Feedburner (Google)
+We do not sell or rent your Personal Data to third parties for marketing purposes. However, we may provide your Personal Data to third-party service providers we hire to provide services to us. These third-party service providers may include but are not limited to: payment processors (e.g. Paypal or Stripe), web analytics companies, data management services, law firms, email service providers (Sparkpost), and shipping companies (such as Amazon).
 
-Feedburner is a service to manage RSS feeds provided by Google Inc. It allows the collection of statistics on what content is consumed and to insert ads in it.
+For more information on how these services use your data, visit their privacy notices at these links:
 
-Personal Data collected: Cookie and Usage data.  
-Place of processing: USA \- [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
+  * **Microsoft Azure** \- [Privacy Policy](https://privacy.microsoft.com/en-us/privacystatement)
+  * **Google Analytics** \- [Privacy Policy](https://policies.google.com/privacy?hl=en) \- [Opt Out](http://tools.google.com/dlpage/gaoptout?hl=en)
+  * **Google Fonts** \- [Privacy Policy](https://policies.google.com/privacy?hl=en)
+  * **Google Maps** \- [Privacy Policy](https://policies.google.com/privacy?hl=en)
+  * **Youtube** \- [Privacy Policy](https://policies.google.com/privacy?hl=en)
+  * **Vimeo** \- [Privacy Policy](https://vimeo.com/privacy/)
+  * **Azure Media Services** \- [Privacy Policy](https://privacy.microsoft.com/en-us/privacystatement)
+  * **Sparkpost** \- [Privacy Policy](https://www.sparkpost.com/policies/privacy/)
+  * **Feedburner** \- [Privacy Policy](https://policies.google.com/privacy?hl=en)
+  * **Disqus** \- [Privacy Policy](https://help.disqus.com/terms-and-policies/disqus-privacy-policy) \- [Opt Out](https://disqus.com/data-sharing-settings/)
+  * **AddThis** \- [Privacy Policy](https://www.addthis.com/privacy)
+  * **CloudFlare** \- [Privacy Policy](https://www.cloudflare.com/privacypolicy/)
+  * **Stripe** \- [Privacy Policy](https://stripe.com/us/privacy)
+  * **PayPal** \- [Privacy Policy](https://www.paypal.com/webapps/mpp/ua/privacy-full)
 
-  * #### Location-based interactions
 
-#### Non-continuous geolocation (This Application)
 
-The geographic location of the User is determined in a manner that isn't continuous, either at the specific request of the User or when the User doesn't point out their current location in the appropriate field and allows the application to detect the position automatically.
+### Legally required releases of information
 
-Personal Data collected: Geographic position. 
+We may be legally required to disclose your Personal Data if such disclosure is
 
-  * #### Handling payments
+  * required by subpoena, law, or other legal process 
+  * necessary to assist law enforcement officials or government enforcement agencies 
+  * necessary to investigate violations of or otherwise enforce our Legal Terms 
+  * necessary to protect us from legal action or claims from third parties, including you and/or other users 
+  * necessary to protect the legal rights, personal/real property, or personal safety of our company, users, employees, and affiliates. 
 
-Payment processing services enable this Application to process payments by credit card, bank transfer or other means. To ensure greater security, this Application shares only the information necessary to execute the transaction with the financial intermediaries handling the transaction.  
-Some of these services may also enable the sending of timed messages to the User, such as emails containing invoices or notifications concerning the payment.
 
-#### PayPal (PayPal Inc.)
 
-PayPal is a payment service provided by PayPal Inc., which allows Users to make online payments using their PayPal credentials.
+### Community discussion boards
 
-Personal Data collected: Various types of Data as specified in the privacy policy of the service.  
-[Privacy Policy](https://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside)
+Our website may offer the ability for users to communicate with each other through online community discussion boards or other mechanisms. We do not filter or monitor what is posted on such discussion boards. If you choose to post on these discussion boards, you should use care when exposing any Personal Data, as such information is not protected by our privacy notice nor are we liable if you choose to disclose your Personal Data through such postings. Also, Personal Data you post on our websites for publication may be available worldwide by means of the Internet. We cannot prevent the use or misuse of such information by others.
 
-  * #### Selling goods and services online
+### Retaining and destroying your Personal Data
 
-The Personal Data collected are used to provide the User with services or to sell goods, including payment and possible delivery.  
-The Personal Data collected to complete the payment may include the credit card, the bank account used for the transfer, or any other means of payment envisaged. The kind of Data collected by this Application depends on the payment system used.
+We retain information that we collect from you (including your Personal Data) only for as long as we need it for legal, business, or tax purposes. Your information may be retained in electronic form, paper form, or a combination of both. When your information is no longer needed, we will destroy, delete, or erase it.
 
+### Updating your Personal Data
 
+You can update your Personal Data using services found on our website. If no such services exist, you can contact us using the contact information found at the top of this notice and we will help you. However, we may keep your Personal Data as needed to enforce our agreements and to comply with any legal obligations.
 
+### Revoking your consent for using your Personal Data
 
-### Further information about Personal Data
+You have the right to revoke your consent for us to use your Personal Data at any time. Such an optout will not affect disclosures otherwise permitted by law including but not limited to:
 
-We don't sell or rent Users' Data to any third parties for any purpose. The only uses of Data are those highlighted in this policy. Users are the only owner of their Data and can request modification or deletion at any time. 
+  * disclosures to affiliates and business partners
+  * disclosures to third-party service providers that provide certain services for our business, such as credit card processing, computer system services, shipping, data management services
+  * disclosures to third parties as necessary to fulfill your requests
+  * disclosures to governmental agencies or law enforcement departments, or as otherwise required to be made under applicable law
+  * previously completed disclosures to third parties
+  * disclosures to third parties in connection with subsequent contests or promotions you may choose to enter, or third-party offers you may choose to accept.
 
-### Information about Cookies
 
-This website uses Cookies to distinguish you from other users. A cookie is a small file of letters and numbers placed on your computer or device. The information we gain from these cookies does not identify you personally , but helps us to provide you with a good experience when you browse our website and also allows us to improve our site and services: 
 
-  * #### Analytics
+If you want to revoke your consent for us to use your Personal Data, send us an email with your request to [info@sqlbi.com](mailto:info@sqlbi.com)
 
-These Cookies are necessary for the functioning of the services filed under the section Analytics:
+### Protecting the privacy rights of third parties
 
-##### _ut*, _ga*
+If any postings you make on our website contain information about third parties, you must make sure you have permission to include that information in your posting. While we are not legally liable for the actions of our users, we will remove any postings about which we are notified, if such postings violate the privacy rights of others.
 
-Google Analytics Cookies.
+### Do Not Track setting
 
-  * #### Contacting the User
+Some web browsers have settings that enable you to request that our website not track your movement within our website. Our website does not obey such settings when transmitted to and detected by our website. You can turn off tracking features and other security settings in your browser by referring to your browser's user manual.
 
-These Cookies are necessary for the functioning of the services filed under the section Contacting the User:
+### Links to other websites
 
-##### _sqlbi_nl
+Our website may contain links to other websites. These websites are not under our control and are not subject to our privacy notice. These websites will likely have their own privacy notices. We have no responsibility for these websites and we provide links to these websites solely for your convenience. You acknowledge that your use of and access to these websites are solely at your risk. It is your responsibility to check the privacy notices of these websites to see how they treat your Personal Data.
 
-Mailing List Cookies.
+### Protecting children's privacy
 
-  * #### Displaying content from external platforms
+Even though our website is not designed for use by anyone under the age of 13, we realize that a child under the age of 13 may attempt to access our website. We do not knowingly collect Personal Data from children under the age of 13. If you are a parent or guardian and believe that your child is using our website, please contact us. Before we remove any information, we may ask for proof of identification to prevent malicious removal of account information. If we discover that a child is accessing our website, we will delete his/her information within a reasonable period of time. You acknowledge that we do not verify the age of our users nor do we have any liability to do so.
 
-These Cookies are necessary for the functioning of the services filed under the section Displaying content from external platforms:
+### Our email policy
 
-##### ACTIVITY, APISID, GED_PLAYLIST_ACTIVITY, GEUP, HSID, LOGIN_INFO, PREF, SAPISID, SID, SSID, VISITOR_INFO1_LIVE, YSC, __utma, __utmc, __utmz, s_gl, wide
+You can always opt out of receiving further email correspondence from us by clicking the unsubscribe link at the bottom of any of our emails or by [emailing directly to us](mailto:info@sqlbi.com?subject=Unsubscribe%20me). We will not sell, rent, or trade your email address to any unaffiliated third-party without your permission except in the sale or transfer of our business.
 
-Youtube video widget Cookies.
+### Our software policy
 
-  * #### Hosting and backend infrastructure
+We provide several software tools that our users can download from our websites or from third-party repositories.
 
-  * #### Content commenting
+These tools includes Custom Visuals for Microsoft Power BI, Microsoft Office plugins and standalone application.
 
-These Cookies are necessary for the functioning of the services filed under the section Content commenting:
+These tools may collect or transfer Non-Personal Data to our services for statistical purposes. No Personal Data is collected by us.
 
-##### __qca, mc, UID, UIDR, disqus_unique, testCookie
+### Our security policy
 
-Disqus Cookies.
+We have built our websites using industry-standard security measures and authentication tools to protect the security of your Personal Data. We and the third parties who provide services for us, also maintain technical and physical safeguards to protect your Personal Data. When we collect your credit card information through our website, we will encrypt it before it travels over the Internet using industry-standard technology for conducting secure online transactions. Unfortunately, we cannot guarantee against the loss or misuse of your Personal Data or secure data transmission over the Internet because of its nature.
 
-  * #### Interaction with external social networks and platforms
+We strongly urge you to protect any password you may have for our websites and to not share it with anyone. You should always log out of our websites when you finish using it, especially if you are sharing or using a computer in a public place.
 
-These Cookies are necessary for the functioning of the services filed under the section Interaction with external social networks and platforms:
+### Use of your credit card
 
-##### __at*, __ut*, bt, di2, dt, loc, uid, uit, uvc, vc, ss*
+You may have to provide a credit card to buy products and services from our website. We use third-party billing services and have no control over these services. We use our commercially reasonable efforts to make sure your credit card number is kept strictly confidential by using only third-party billing services that use industry-standard encryption technology to protect your credit card number from unauthorized use. However, you understand and agree that we are in no way responsible for any misuse of your credit card number.
 
-AddThis Cookies.
+We do not store your credit card numbers on our databases.
 
-##### _twitter_sess, auth_token, kdt, twid, guest_id, remember_checked_on
+### Transferring Personal Data from the European Union
 
-Twitter Tweet button and social widgets Cookies.
+Personal Data that we collect from you may be stored, processed, and transferred to the United States, and possibly other countries where we or our service providers operate. The European Union has not found the United States and some other countries to have an adequate level of protection of Personal Data under Article 45 of the GDPR. Our company relies on derogations for specific situations as defined in Article 49 of the GDPR. For European Union customers and users, with your consent, your Personal Data may be transferred outside the European Union to the United States and other countries. We will use your Personal Data to provide the goods, services, and/or information you request from us to perform a contract with you or to satisfy a legitimate interest of our company in a manner that does not outweigh your freedoms and rights. Wherever we transfer, process or store your Personal Data, we will take reasonable steps to protect it. We will use the information we collect from you in accordance with our privacy notice. By using our website, services, or products, you agree to the transfers of your Personal Data described within this section.
 
-  * #### Location-based interactions
+### Changes to our privacy notice
 
-These Cookies are necessary for automatic content localization, when available.
+We reserve the right to change this privacy notice at any time. If our company decides to change this privacy notice, we will post those changes on our website so that our users are always aware of what information we collect, use, and disclose. If at any time we decide to disclose or use your Personal Data in a method different from that specified at the time it was collected, we will provide advance notice by email (sent to the email address on file in your account). Otherwise we will use and disclose our users' Personal Data in agreement with the privacy notice in effect when the information was collected. In all cases, your continued use of our website, services, and products after any change to this privacy notice will constitute your acceptance of such change.
 
-##### _sqlbi_iso, _sqlbi_cur
+### Questions about our privacy notice
 
-  * #### Other (strictly necessary to the basic functionality of the website)
+If you have any questions about our privacy notice, please contact us at [info@sqlbi.com](mailto:info@sqlbi.com)
 
-These Cookies contain a reference to a session stored on the web server:
+* * *
 
-##### PHPSESSID
+## Cookie Declaration
 
-These Cookies contain user preferences about Cookies placement:
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our websites with our social media, advertising and analytics partners who may combine it with other information that you have provided to them or that they have collected from your use of their services.
 
-##### _sqlbi_cookie_pref
+The law states that we can store cookies on your device if they are strictly necessary for the operation of the website. For all other types of cookies we need your permission.
 
+Some cookies are placed by third party services that appear on our pages.
 
+Your consent applies to the following domains:
 
+  * www.sqlbi.com
+  * www.daxpatterns.com
+  * www.daxformatter.com
+  * okviz.com
+  * synoptic.design
+  * sql.bi
 
+
+
+Your current state: **Allow necessary cookies only**  
+Consent all cookies \- Withdraw your consent
+
+#### Necessary cookies
+
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of our websites. Our websites cannot function properly without these cookies.
+
+Name| Provider| Purpose  
+---|---|---  
+_sqlbi_consent| First-party| Store cookie consent  
+_sqlbi_t_lu| First-party| Store newsletter registration preference  
+daxformatter-*| First-party| Store user preferences on DAX Formatter  
+PHPSESSID, wordpress_*, wp-settings-*| First-party| Track user session  
+_sqlbi_bypass_unsupported| First-party| Allow browsing website from unsupported browser  
+woocommerce_*, wp_woocommerce_*| First-party| Cart and checkout  
+__stripe*, country| stripe.com| Allow credit card processing  
+1P_JAR, HSID, SSID, CONSENT, OTZ, APISID, SAPISID, SID, SIDCC, DV, UULE, NID| google.com| Recaptcha widget  
   
-Since the installation of third party Cookies and other tracking systems through the services used within this Application can not be technically controlled by the Owner, any specific references to Cookies and tracking systems installed by third parties are to be considered indicative. In order to obtain complete information, consult the privacy policy for the respective third party services listed in this document.
+#### Functional cookies
 
-You may find out more information, including how to opt-out of these cookies being set in your browser by visiting [www.youronlinechoices.com](http://www.youronlinechoices.com/)
+Functional cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
 
-You can control cookies also via your browser settings - remember that if you turn off cookies in your browser then these settings apply to all websites not just this one. For more information visit [www.aboutcookies.org](http://www.aboutcookies.org/)
-
-### Cookies preferences
-
-The law requires that we obtain your consent to use or store certain cookies on your computer or device:
-
-I consent to the use of cookies as described above  
-I do not consent to the use of cookies
-
-**When you move away from this page, your settings will be saved.**
-
-### Additional information about Data collection and processing
-
-#### Legal action
-
-The User's Personal Data may be used for legal purposes by the Data Controller, in Court or in the stages leading to possible legal action arising from improper use of this Application or the related services.  
-The User declares to be aware that the Data Controller may be required to reveal personal data upon request of public authorities. 
-
-#### Additional information about User's Personal Data
-
-In addition to the information contained in this privacy policy, this Application may provide the User with additional and contextual information concerning particular services or the collection and processing of Personal Data upon request. 
-
-#### System Logs and Maintenance
-
-For operation and maintenance purposes, this Application and any third party services may collect files that record interaction with this Application (System Logs) or use for this purpose other Personal Data (such as IP Address). 
-
-#### Information not contained in this policy
-
-More details concerning the collection or processing of Personal Data may be requested from the Data Controller at any time. Please see the contact information at the beginning of this document. 
-
-#### The rights of Users
-
-Users have the right, at any time, to know whether their Personal Data has been stored and can consult the Data Controller to learn about their contents and origin, to verify their accuracy or to ask for them to be supplemented, cancelled, updated or corrected, or for their transformation into anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons. Requests should be sent to the Data Controller at the contact information set out above. 
-
-This Application does not support _Do Not Track_ requests.  
-To determine whether any of the third party services it uses honor the _Do Not Track_ requests, please read their privacy policies. 
-
-#### Changes to this privacy policy
-
-The Data Controller reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. If a User objects to any of the changes to the Policy, the User must cease using this Application and can request that the Data Controller removes the Personal Data. Unless stated otherwise, the then-current privacy policy applies to all Personal Data the Data Controller has about Users. 
-
-#### Information about this privacy policy
-
-The Data Controller is responsible for this privacy policy, prepared starting from the modules provided by Iubenda and hosted on Iubenda's servers. 
-
-###  Definitions and legal references 
-
-#### Personal Data (or Data)
-
-Any information regarding a natural person, a legal person, an institution or an association, which is, or can be, identified, even indirectly, by reference to any other information, including a personal identification number.
-
-#### Usage Data
-
-Information collected automatically from this Application (or third party services employed in this Application ), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Application, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment.
-
-#### User
-
-The individual using this Application, which must coincide with or be authorized by the Data Subject, to whom the Personal Data refer.
-
-#### Data Subject
-
-The legal or natural person to whom the Personal Data refers.
-
-#### Data Processor (or Data Supervisor)
-
-The natural person, legal person, public administration or any other body, association or organization authorized by the Data Controller to process the Personal Data in compliance with this privacy policy.
-
-#### Data Controller (or Owner)
-
-The natural person, legal person, public administration or any other body, association or organization with the right, also jointly with another Data Controller, to make decisions regarding the purposes, and the methods of processing of Personal Data and the means used, including the security measures concerning the operation and use of this Application. The Data Controller, unless otherwise specified, is the Owner of this Application.
-
-#### This Application
-
-The hardware or software tool by which the Personal Data of the User is collected.
-
-#### Cookie
-
-Small piece of data stored in the User's device.
-
-#### Legal information
-
-Notice to European Users: this privacy statement has been prepared in fulfillment of the obligations under Art. 10 of EC Directive n. 95/46/EC, and under the provisions of Directive 2002/58/EC, as revised by Directive 2009/136/EC, on the subject of Cookies.
-
-This privacy policy relates solely to this Application.
-
-Latest update: May 1, 2017 
-
+Name| Provider| Purpose  
+---|---|---  
+_sqlbi_iso| First-party| Store user country  
+__cfduid| freegeoip.net| Store user country  
+__qca, __ssid, _albexps, _uetsid, mp_*, vuid, vimeo, player, continous_play_v3, has_loggend_in, has_uploaded, is_logged_in, optimizely*| vimeo.com| Vimeo video player  
+disqus_auth, disqusauths, csrftoken, session_id| disqus.com| DISQUS commenting widget  
   
+#### Statistics cookies
 
+Statistic cookies help website owners to understand how visitors interact with websites by collecting their browsing history.
+
+Name| Provider| Purpose  
+---|---|---  
+_sqlbi_t_*| First-party| Track user activity  
+_gid, _ga, _gat| google.com| Track user activity  
+_utm*, disqus_unique| disqus.com| Track user activity  
+ai_session, ai_user| microsoft.com| Track page performance  
+__at*, __ut*, bt, di2, dt, loc, uid, uit, uvc, vc, ss*| addthis.com| Track user social activity  
+  
+#### Marketing cookies
+
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+
+Name| Provider| Purpose  
+---|---|---  
+_No cookies in this category_
