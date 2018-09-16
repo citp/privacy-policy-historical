@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialclerks.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609070614id_/http%3A//socialclerk.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialclerks.com privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916195013id_/http%3A//socialclerk.net/privacy_policy) for the most accurate reproduction.*
 
 # SocialClerks - Build Your Social Media Presence Today For Free!
 
