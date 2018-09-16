@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mahobeachcam.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627215930id_/http%3A//www.ptztv.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mahobeachcam.com privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916190019id_/http%3A//www.ptztv.com/about-us/privacy) for the most accurate reproduction.*
 
 # PTZtv - Privacy Policy
 
@@ -43,7 +43,9 @@ Google Analytics privacy policy is [here](https://www.google.com/analytics/lear
 
 We also contract with Sovrn for advertising. How they use information and how you can opt-out are explained [here](https://www.sovrn.com/privacy-policy/).
 
-Users may also opt out of the use of cookies for interest-based advertising by visiting [aboutads.info](http://optout.aboutads.info/). 
+Users may also opt out of the use of cookies for interest-based advertising by visiting [aboutads.info](http://optout.aboutads.info/) .
+
+Our advertising partners may source ads from networks that are [members](http://www.networkadvertising.org/participating-networks/) of the Network Advertising Initiative (NAI) and their opt-out page for interest-based advertising is [here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 We also include social media plug-ins from both Facebook and Twitter. Their policies for information collection and use are explained at the following links :
 
@@ -65,8 +67,6 @@ Cookies are small files that a site or its service provider transfer to your com
 PTZtv makes minimal use of cookies for the sole purpose of saving and restoring viewer preferences, options and consent.
 
 Third party vendors -- including Google, Sovrn and other partners listed above -- use cookies on our sites. Cookies enable some of these vendors to serve ads to our users based on their visits to our sites and/or other sites on the Internet. Personalized ads are more effective and help us maintain a free-to-view site strategy.
-
-**Starting May 25th, 2018 our advertising partners have been instructed to no longer serve personalized ads to users located in the European Economic Area (EEA).**
 
 **Do we disclose any information to outside parties?**
 
@@ -100,6 +100,6 @@ By using our websites, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
-This policy was last modified on **May 11th, 2018**
+This policy was last modified on **September 7th, 2018**
 
 If you have further questions, please contact us by email to [info@ptztv.com](mailto:info@ptztv.com)
