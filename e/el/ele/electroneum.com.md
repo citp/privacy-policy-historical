@@ -1,68 +1,288 @@
-> *The following text is extracted and transformed from the electroneum.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220083025id_/http%3A//electroneum.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electroneum.com privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916155604id_/https%3A//electroneum.com/privacy-and-cookies-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Electroneum – Crowdfunding Token Sale
+# Privacy and Cookies Policy – Electroneum – The mobile based cryptocurrency
 
-This Privacy Policy constitutes an agreement between the company Electroneum Ltd, incorporated in England number 10845797. (“the Company”, “we”, “us”, or “our”) and you or the entity you represent (“you“). Please read this document carefully to be sure that you understand it. By viewing, accessing or using the Electroneum app or by registering to take part in the Crowdsale Token Sale, you agree to this Privacy Policy as a binding legal agreement between you and us, without limitation or qualification.
+## ABOUT THIS NOTICE
 
-Privacy is of utmost importance at Electroneum Ltd. (“Electroneum”). We recognize the significance of protecting information which is stored on our computers or is intended to be stored on our computers and which relates to an individual. The data we protect is the “Personal Data” which is any information relating to an identified or identifiable person, sometimes called a data subject, and have made protecting privacy and the confidentiality of Personal Data a fundamental component of the way we do business. This Privacy Policy informs you of the ways we ensure privacy and the confidentiality of Personal Data. We are compliant with applicable privacy laws in the countries in which we operate. This policy describes the information we gather, how we may use those Personal Data and the circumstances under which we may disclose such information to third parties.
+Electroneum Ltd is committed to protecting the privacy and security of your personal information. This privacy notice describes how we collect and use personal information about you in accordance with data protection law. Please read it carefully.
 
-#### Collecting of Personal Information
+Data protection law says that the personal information we hold about you must be:
 
-When you access or use the Electroneum site, Token Sale Manager or Electroneum App, we may collect some information, including:
+  * Used lawfully, fairly and in a transparent way.
+  * Collected only for valid purposes that we have clearly explained to you and not used in any way that is incompatible with those purposes.
+  * Relevant to the purposes we have told you about and limited only to those purposes.
+  * Accurate and kept up to date.
+  * Kept only as long as necessary for the purposes we have told you about.
+  * Kept securely.
 
-Information you may provide to us: Your email address, bitcoin addresses, mobile phone number, alias, password, mobile PIN code, and any other information you choose to provide.
 
-Log Information: We may log information about your use of the Services, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our websites.
 
-Device Information: We may collect information about the mobile device you use to access our mobile application, including the hardware model, operating system and version, unique device identifiers and mobile network information.
+This notice is separated into the following sections for ease of use. If you have any questions about this notice or how we collect and use personal information about you please __contact us__.
 
-Wallet Address Information: When you create a wallet through the Electroneum App, an encrypted wallet public key, a spend key and a view key pair are automatically generated and stored via our Services. We will encrypt your spend key with your PIN number and an individually created hash. If you forgot your PIN or lose your PIN we cannot regain you access to your Electroneum.
+  1. Information about us
+  2. What personal information do we collect and how do we collect it?
+  3. How and why do we use your information?
+  4. Automated decision making
+  5. Sharing your information
+  6. Where we store your information
+  7. Data Security
+  8. How long will we keep your information for?
+  9. Your rights
+  10. Cookies
+  11. Third party websites
+  12. Changes to this privacy notice
 
-We recommend you only keep enough Electroneum in your mobile wallet for day to day use. Large sums of Electroneum (a subjective number based on the value you and the market puts on Electroneum at any given time) should be transferred to an offline wallet. Offline wallets can be generated free of charge at [http://my.electroneum.com](http://my.electroneum.com/)
 
-When you send funds from an offline wallet address (also known as a paper wallet or a cold storage wallet) we do NOT store your spend key, however it should be assumed that the spend key is compromised as it has travelled through the internet. We only transfer spend keys via HTTPS but to be 100% sure of your future security you should create a new offline wallet and transfer the balance of your account to the new offline wallet. In this manner it is not possible for a third party to access the bulk of your Electroneum.
 
-Information We Collect From Other Sources: We may also obtain information from other sources and combine that with information we collect through our Services. For instance, when you ask a question via a third-party social media service, we may collect that information and append it to the data we store about you. Any third-party services may collect information as determined by their own privacy policies.
+### _1 INFORMATION ABOUT US_
 
-We also may use “cookies” from time to time to help personalize your online experience with us. A cookie is a small text file that is stored on your computer to help us make your visit to our site more “user-friendly.” Cookies provide us with information about your use of the site that can help us improve the site and your experience with it. Any Personal Data collected through cookies will be treated in accordance with this Privacy Policy. If you have set your browser to warn you before accepting cookies, you should receive a warning message with each cookie. You may refuse cookie by turning them off in your browser, however, you should be aware that our site, like most other popular sites, may not work well with cookies disabled.
+1.1 We are Electroneum Ltd. Our registered office is at Lyndean House, 30-34 Albion Place, Maidstone, Kent ME14 5DZ and our registered company number is 10845797.
 
-#### Use and Disclosure of Personal Data
+1.2 The cryptocurrency that has been developed by Electroneum Ltd is known as “Electroneum”, or “ETN”.
 
-Except as part of the sale of all or substantially all of the assets of Electroneum (in which case you will be given prior notice), we will not use your Personal Data unless we have your consent. We will only use and/or disclose Personal Data internally in order to:
+1.3 If you have any questions, please contact us via [https://support.electroneum.com](https://support.electroneum.com/).
 
-Understand and meet your needs and preferences;  
-Develop new and enhance existing service and product offerings;  
-Manage and develop our business and operations;  
-Carry out any purposes for which we have received your consent; and  
-Meet legal and regulatory requirements.  
-We also reserve the right to use aggregated Personal Data provided that those data do not relate to any individual.
+### _2 WHAT PERSONAL INFORMATION DO WE COLLECT AND HOW DO WE COLLECT IT?_
 
-Personal Data may be collected, stored and/or processed by third party service providers or by companies in the Electroneum corporate family to perform functions on our behalf. All such third parties will be contractually bound to protect data in compliance with our policy.
+Personal data, or personal information, means any information about an individual who can be identified. It does not include data where an individual cannot be identified (anonymous data). We collect personal information from you in the following ways.
 
-Except where we are required by law to disclose Personal Data or are exempted from, released from or not subject to any legal requirement concerning the disclosure of Personal Data, we will require any person to whom we provide your Personal Data to agree to comply with our Privacy Policy in force at that time or requirements substantially similar to such policy. We will make reasonable commercial efforts to ensure that they comply with such policy or requirements, however, we will have no liability to you if any person fails to do so.
+2.1 **Form information.** This is information about you (such as your name, address, email address, ETN and other cryptocurrency wallet addresses, mobile phone number and alias) that you give us when filling in forms or using our services and digital content whether on our website or elsewhere. This could include, for example, forms which you complete to register for our services, place an order, sign-up for a newsletter or enter a competition.
 
-We shall require any third party, including without limitation any government or enforcement entity, seeking access to data we hold to have obtained a Court Order, or proof they are statutorily empowered to access your data and that their request is valid and within their power.
+2.2 **Form information.** This is information about you (such as your name, address, email address, ETN and other cryptocurrency wallet addresses, mobile phone number and alias) that you give us when filling in forms or using our services and digital content whether on our website or elsewhere. This could include, for example, forms which you complete to register for our services, place an order, sign-up for a newsletter or enter a competition.
 
-#### Processing
+2.3 **Emails and records of other contact**. This is information you provide when you contact us (for example by email, post or SMS) or when you respond to correspondence from us. This may include enquiries about our services, follow-up comments or complaints.
 
-We will process your Personal Data legally and fairly and not use it outside the purposes of which we have informed you. So far as we are able we shall ensure that all of your Personal Data is accurate and up to date.
+2.4 **Technical information**. This is information about you which is collected via technical means such as your IP address, cookies, webpage counters and other analytics tools.
 
-#### Security of Your Personal Data
+2.5 **Visitor information.** We collect information about visitors to our premises. We may record information on your visit, including the date and time, who you are visiting, your name, employer, contact details and vehicle registration number. If you have an accident at our premises, this may include an account of your accident.
 
-We protect Personal Data with appropriate physical, technological and organizational safeguards and security measures. Your Personal Data comes to us via the internet which chooses its own routes and means whereby information is conveyed from location to location. As such we cannot give any warranty or assurance that the means where information is conveyed to us are safe, reliable or have integrity. We audit our procedures and security measures regularly to ensure they are being properly administered and remain effective and appropriate. Every member of Electroneum is committed to our privacy policies and procedures to safeguard Personal Data. Our site has security measures in place to protect against the loss, misuse and unauthorized alteration of the information under our control. More specifically, our server uses SSL (Secure Sockets Layer) security protection by encrypting your Personal Data including credit card number, name and address to prevent individuals from reading these Data as it travels over the Internet. The length of time we retain Personal Data outside our back up system varies depending on the purpose for which it was collected and used. This period may extend beyond the end of the particular relationship with us but only for so long as we are contractually bound to do so, or so far as is necessary for audit or other accounting purposes. When Personal Data are no longer needed we have procedures either to destroy, delete, erase or convert it to an anonymous form. We reserve the right to maintain your Personal Data as part of our standard back up procedures.
+2.6 **Caller information.** We may collect details of phone numbers used to call our organisation and the date, time and duration of any calls. Please note that if we record your calls to or from us, we will inform you of this.
 
-#### Storage of personal data
+2.7 **CCTV**. We operate CCTV at our premises which may record you and your activities. We display notices to make it clear that surveillance is in operation.
 
-Data provided to Electroneum is stored in accordance with applicable laws of the jurisdiction of the data subject, at secure locations in the EU. Electroneum has ensured that appropriate security standards are in place regarding the safeguarding, confidentiality and security of Data. In regard to data subjects resident in the EU, Electroneum, where required, registers with appropriate national data protection / information protection authorities. Electroneum also ensures that data is held in a manner that meets the requirements of any national law of any member state of the European Union giving effect to Directive 95/46/EC. The Directive provides obligations on the protection of individuals with regard to the processing of personal data and on the free movement of such data.
+2.8 **Employee information.** If you work for one of our customers, suppliers or business partners, the information we collect about you may include your contact information, details of your employment and our relationship with you.
 
-#### Withdrawal of Consent
+2.9 **Information we receive from third parties.** As well as the information listed above, we may also receive the following types of personal information about you from the following sources:
 
-Except as required or enabled by law (including, for the avoidance of doubt, the laws of the member states of the European Union we have mentioned above), we will not use or disclose your Personal Data for any purpose for which you refuse consent or later withdraw your consent. If you withdraw consent, you agree that in spite of this withdrawal, we may continue to use those Personal Data previously provided to us to the extent that we are contractually or otherwise legally obliged to do so and to the extent necessary to enforce any contractual obligation you may have towards Electroneum or in any other way permitted by law. You also understand that although you can use our site for some purposes without providing Personal Data, we need certain Personal Data, including data linked to payment or involving an ongoing relationship with Electroneum or our partners. If you refuse to provide us with Personal Data we require or later withdraw your consent, we may no longer be able to provide you with certain services.
+2.9.1 Our other channels. This is information we receive about you if you use any of the other websites we operate or the other services or products we provide. In this case we will have informed you when we collected that data if we intend to share those data internally and combine it with data collected on this website. We will also have told you for what purpose we will share and combine your data.
 
-#### Acceptance
+2.9.2 Our service providers. We work closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers and credit reference agencies) who may provide us with information about you.
 
-By using this site, you signify your agreement to this Policy. Electroneum reserves the right to change this Policy at any time. Any changes will be posted so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it.
+2.9.3 Credit information. We may also collect credit information on you from third party reference agencies.
 
-#### Questions
+2.9.4 Businesses we have bought. If we have acquired another business, or substantially all of its assets, which originally held your information, we will hold and use the information you provided to them, or which they otherwise held about you, in accordance with this privacy notice.
 
-Any questions about this policy, the collection, use and disclosure of Personal Data by Electroneum or access to your Personal Data which is required by law (or would be so subject had the storage in question taken place in a relevant EU member state if the case may be but not otherwise) to be disclosed should be directed to [_support@electroneum.com_](https://web.archive.org/web/20171220083025id_/http%3A//electroneum.com/_wp_link_placeholder)
+### _3 BLOCKCHAIN AND PERSONAL INFORMATION_
+
+3.1 The services we provide operate using distributed ledger technology, also known as ‘blockchain’.
+
+3.2 Our cryptocurrency, “ETN”, uses a blockchain which is a public ledger of transactions and when you transact with third parties using ETN, each user of our network independently verifies the validity of your transactions. In doing so the data relating to your transactions, including your public keys, is shared with each user of our network.
+
+3.3 As part of our Services and Digital Content, we make online and offline wallets available to you (for more information on this, please see our [Terms and Conditions for the Provision of Services and Digital Content](https://electroneum.com/terms-and-conditions/)  and [Best Practice guidance](https://electroneum.com/best-practices/) . Each wallet uses a public key, You cannot be directly identified from your public key or wallet address.
+
+3.4 Your transactions are “hashed” in order to “pseudonymise” your personal information. This means that we process (by using the hashing function) your transactions so that the personal data contained within them cannot be attributed to any specific individual without using additional identifying information.
+
+3.5 The act of pseudonymising your personal information makes it very difficult for any third party to identify you from your public key or your transaction history, however this data is still considered to be personal data under data protection laws.
+
+3.6 Each user of the ETN blockchain determines the purposes and means by which transaction information is processed and therefore acts as a data controller in their own right. Each user of ETN’s blockchain is solely responsible for its own compliance with relevant data protection laws.
+
+3.7 To the extent that we do determine the purposes and means by which your personal information is processed, we will comply with all relevant data protection laws which apply in England and Wales.
+
+3.8 Our services facilitate the sending and receiving of ETN between users and cannot function without the data sharing element of blockchain technology. We do not control the ongoing state of Electroneum’s blockchain or the information stored on it as we are not a party to these transactions.
+
+### _4 HOW AND WHY DO WE USE YOUR INFORMATION?_
+
+4.1  **Common uses of your information**
+
+We will only use your personal information when the law allows us to do so. Most commonly, we will use your personal information in the following circumstances:
+
+4.1.1 Where we need to perform a contract we have entered into with you.
+
+4.1.2 Where we need to comply with a legal obligation.
+
+4.1.3 Where it is necessary for our legitimate interests (or those of a third party) and your interests and rights do not override those interests.
+
+4.1.4 We may also use your personal information where we need to protect your interests (or someone else’s interests) or where it is needed in the public interest although these circumstances are likely to be rare.
+
+4.2 **Specific examples** of ways in which we may use your personal information include:
+
+4.2.1 **Website administration.** We may use technical information, information about your visit to our website, cookie data, content and other information gathered about your participation in discussion boards or other functions on our website. We use this as necessary for our legitimate interests in administering our website and to ensure it operates effectively and securely.
+
+4.2.2 **Website advertising**. We, or third party advertisers, may serve adverts on you. Where those adverts are targeted, this may involve using technical information, information about your visit to our website, cookie data and information we (or our third party advertisers) have obtained from third parties. More information is available in our Cookie Notice below. This won’t include information such as your name or contact details. Where our adverts are displayed to you using your information, your information is used as necessary for our legitimate interests in marketing to you.
+
+4.2.3 **Customer Administration.** We may use information about you including form information, content and other information you provide to us or which we collect about you as necessary to carry out our contracts with you, and for our legitimate interests in administering your account and any subscriptions or competitions we operate, as well as to review and improve our offerings, including troubleshooting, data analysis, testing, research, statistical and survey purposes.
+
+4.2.4 **Direct Marketing.** We may send direct postal or electronic marketing to you using your contact details and information you have provided us. We use this as necessary for our legitimate interests in marketing to you and maintaining a list of potential customers. If you are not acting as a business and have not provided your contact details directly to us in relation to our products or services, we will only send electronic marketing to you if you have consented to that marketing. We will always provide an “opt-out” option on any marketing messages we send you. If you “opt-out” of our marketing materials you will be added to our suppression list to ensure we do not accidentally send you further marketing.
+
+4.2.5 **Third Party Personnel Administration.** If you work for one of our customers, suppliers or business partners, we may hold information on you. This includes information you provide when you correspond with us, as well as details of your employment, contact details, and our relationship with you. We use this as necessary for our legitimate interests in managing our relationship with your employer.
+
+4.2.6 **CCTV Information and Visitor Information.** We use CCTV information and visitor information as necessary for our legitimate interests in administering your visit, ensuring site security and visitor safety, and administering parking.
+
+4.2.7 **Job Applications**. If you apply for a position with us, we hold and use information on you. This will include information you provide to us in your application, as well as opinion information on you from any referees you provide. We may also obtain criminal record and identity verification information from reference agencies. We use this as necessary to enter into an employment contract with you, and for our legitimate interests in evaluating candidates and recording our recruitment activities, and as necessary to exercise and perform our employment law obligations and rights.
+
+4.2.8 **Former Employees**. If you used to work for us, your information will be used in accordance with our employee privacy notice. If you are a former employee or contractor and require a copy of this, please contact us.
+
+4.3 **If you fail to provide personal information**
+
+If we have (or are entering into) a contract with you, and you fail to provide certain information when requested, we may not be able to perform (or enter into) that contract, or we may be prevented from complying with our legal obligations.
+
+4.4 **Change of purpose**
+
+We will only use your personal information for the purposes for which we collected it as set out in this notice, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If we need to use your personal information for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
+
+Please note that we may process your personal information without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
+
+### _5 AUTOMATED DECISION MAKING_
+
+We automatically monitor use of our services for the purposes of fraud detection.
+
+### _6 SHARING YOUR INFORMATION_
+
+As well as any sharing listed in section 4 ( _How and why do we use your information?_ ) we may also share your information with third parties, including third-party service providers and other entities in our group. We require third parties to respect the security of your personal information and to treat it in accordance with the law.
+
+6.1 **Why might we share your personal information with third parties?**
+
+We may share your personal information with third parties if we are under a duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce or apply our agreements with you, or to protect the rights, property, or safety of us, our customers, or others or where we have another legitimate interest in doing so. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+6.2 **Which third-party service providers process your personal information?**
+
+“Third parties” includes third-party service providers (including contractors and designated agents) and other organisations within our group. The following activities are carried out by third-party service providers: administration and IT services using AWS.amazon.com and Twilio.
+
+6.3 **How secure is your information with third-party service providers and other entities in your group?**
+
+All our third-party service providers and other entities in the group are required to take appropriate security measures to protect your personal information in line with our policies. We do not allow our third-party service providers to use your personal information for their own purposes. We only permit them to process your personal information for specified purposes and in accordance with our instructions.
+
+6.4 **When might we share your personal information with other entities in the group?**
+
+We will share your personal information with other entities in our group as part of our regular reporting activities on company performance, in the context of a business reorganisation or group restructuring exercise, for system maintenance support and hosting of data.
+
+6.5 **What about other third parties**?
+
+We may share your personal information with other third parties, for example in the context of the possible sale or restructuring of the business. We may also need to share your personal information with a regulator or to otherwise comply with the law.
+
+6.6 **Blockchain and data sharing**
+
+Please see section 3 for further information on the sharing of data over the ETN blockchain.
+
+### _7 WHERE WE STORE YOUR INFORMATION_
+
+7.1 Our office headquarters are based at Lyndean House, 30-34 Albion Place, Maidstone, Kent ME14 5DZ and our main data centres are with Amazon Cloud Services [(ACS Data Protection)](https://aws.amazon.com/compliance/eu-data-protection/) located in the UK, Japan, USA and Ireland. However, where required to perform our contract with you or for our wider business purposes, the information that we hold about you may be transferred to, and stored at, a destination outside the UK and the EU. It may also be processed by staff operating outside the UK and EU who work for us or for one of our service providers. We will take all steps reasonably necessary to ensure that your personal information is treated securely and in accordance with this privacy notice.
+
+7.2 We may transfer data to countries outside of the UK and the EU which the EU does not consider to have an adequate data protection regime in place. Where we do this, we will ensure that appropriate safeguards are put in place.
+
+7.3 Due to the nature of ETN’s blockchain, any personal data may be stored anywhere around the world at any time. However we are not in control of the information contained on the ETN blockchain: please refer to section 3 for further details.
+
+### _8 DATA SECURITY_
+
+8.1 We have put in place measures to protect the security of your information. Details of these measures are available upon request.
+
+8.2 Subject to section 3 above, third parties will only process your personal information on our instructions and where they have agreed to treat the information confidentially and to keep it secure.
+
+8.3 We have put in place appropriate security measures to prevent your personal information from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal information to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal information on our instructions and they are subject to a duty of confidentiality.
+
+8.4 We have put in place procedures to deal with any suspected data security breach and will notify you and any applicable regulator of a suspected breach where necessary.
+
+### _9 HOW LONG WILL WE KEEP YOUR INFORMATION FOR?_
+
+9.1 If and to the extent that your public key and other wallet information represents personal data, any personal information stored on our blockchain as part of a transaction will remain there indefinitely due to the nature of blockchain technology. As set out in section 3, we do not control the ongoing state of ETN’s blockchain or the information stored on it.
+
+9.2 In all other instances, we will only retain your personal information for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements. To determine the appropriate retention period for personal information, we consider the amount, nature, and sensitivity of the personal information, the potential risk of harm from unauthorised use or disclosure of your personal information, the purposes for which we process your personal information and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+9.3 Details of our typical retention periods for different aspects of your personal information are set out below. If you would like details of our retention periods for a particular aspect of your personal information which is not detailed below, please contact us:
+
+9.3.1 **Contact Information** such as your name, email address and telephone number, where this is kept for marketing purposes, we will keep it on an ongoing basis until such time as you un-subscribe. Thereafter we will add your details to our suppression list indefinitely.
+
+9.3.2 **Content** which you post on our website such as support desk comments, photographs, videos, blog posts, and other content may be kept indefinitely after you close your account for audit and crime prevention purposes..
+
+9.3.3 **Technical information** which is collected via technical means such as cookies, webpage counters and other analytics tools is kept for a period of up to six months from expiry of the cookie.
+
+9.3.4 **Visitor information** which is collected about visitors to our premises is kept for a period of up to six years. If you have an accident on our premises, our accident records are retained for a period of up to twenty one years.
+
+9.3.5 **Telephone recordings** which we make of your telephone conversations with us may be kept for a period of up to six years.
+
+9.3.6 **CCTV recordings** may be kept for a period of up to twelve months (unless there an incident occurs and it is necessary for us to keep recordings for longer to properly deal with it).
+
+9.4 In some circumstances we may anonymise your personal information so that it can no longer be associated with you, in which case we may use such information without further notice to you.
+
+### _10 YOUR RIGHTS_
+
+10.1 Data protection law gives you a number of rights when it comes to personal information we hold about you. The key rights are set out below. More information about your rights can be obtained from the Information Commissioner’s Office (ICO). Under certain circumstances, by law you have the right to:
+
+10.1.1 **Be informed** in a clear, transparent and easily understandable way about how we use your personal information and about your rights. This is why we are providing you with the information in this notice. If you require any further information about how we use your personal information, please let us know.
+
+10.1.2 **Request** **access** to your personal information (commonly known as a “data subject access request”). This enables you to receive a copy of the personal information we hold about you and to check that we are lawfully processing it.
+
+10.1.3 **Request** **correction** of the personal information that we hold about you. This enables you to have any incomplete or inaccurate information we hold about you corrected.
+
+10.1.4 **Request erasure** of your personal information. This enables you to ask us to delete or remove personal information where there is no good reason for us continuing to process it (for instance, we may need to continue using your personal data to comply with our legal obligations). You also have the right to ask us to delete or remove your personal information where you have exercised your right to object to processing (see below).
+
+10.1.5 **Object to processing** of your personal information where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to us using your information on this basis and we do not have a compelling legitimate basis for doing so which overrides your rights, interests and freedoms (for instance, we may need it to defend a legal claim). You also have the right to object where we are processing your personal information for direct marketing purposes.
+
+10.1.6 **Request the restriction of processing** of your personal information. This enables you to ask us to suspend the processing of personal information about you, for example if you want us to establish its accuracy or the reason for processing it.
+
+10.1.7 **Request the transfer** of your personal information to another party where you provided it to us and we are using it based on your consent, or to carry out a contract with you, and we process it using automated means.
+
+10.1.8 **Withdraw consent.** In the limited circumstances where we are relying on your consent (as opposed to the other bases set out above) to the collection, processing and transfer of your personal information for a specific purpose, you have the right to withdraw your consent for that specific processing at any time. Once we have received notification that you have withdrawn your consent, we will no longer process your information for the purpose or purposes you originally agreed to, unless we have another legitimate interest in doing so.
+
+10.1.9 **Lodge a complaint**. If you think that we are using your information in a way which breaches data protection law, you have the right to lodge a complaint with your national data protection supervisory authority (if you are in the UK, this will be the ICO).
+
+If you want to review, verify, correct or request erasure of your personal information, object to the processing of your personal information, withdraw your consent to the processing of your personal information or request that we transfer a copy of your personal information to another party, please contact us via [https://support.electroneum.com](https://support.electroneum.com/).
+
+10.2 **Marketing Purposes**
+
+In addition to the rights set out above, you also have the right to ask us not to process your personal information for marketing purposes. We will usually inform you (before collecting your personal information) if we intend to use your personal information for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your personal information.  You can exercise the right at any time by contacting us in writing. You can also use the unsubscribe option in our marketing emails to unsubscribe from further marketing emails. Please note that where you unsubscribe from any postal marketing, you may initially still receive some content which has already been printed or sent, but we will remove you from any future campaigns.
+
+10.3 **No fee usually required**
+
+You will not have to pay a fee to access your personal information (or to exercise any of the other rights). However, we may charge a reasonable fee if your request for access is clearly unfounded or excessive. Alternatively, we may refuse to comply with the request in such circumstances.
+
+10.4 **What we may need from you**
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access the information (or to exercise any of your other rights). This is another appropriate security measure to ensure that personal information is not disclosed to any person who has no right to receive it.
+
+10.5 **Timescale**
+
+Please consider your request responsibly before submitting it. We will respond to your request as soon as we can. Generally, this will be within one month from when we receive your request but, if the request is going to take longer to deal with, we will let you know.
+
+### _11 COOKIES_
+
+Our website uses cookies. For detailed information on the cookies we use and the purposes for which we use them see our Cookie Notice below.
+
+### _12  _ _THIRD PARTY WEBSITES_
+
+Our website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal information to these websites.
+
+### _13  _ _CHANGES TO THIS PRIVACY NOTICE_
+
+Any changes we make to our privacy notice in the future will be posted on this page and, where appropriate, notified to you by e-mail or otherwise. Please check back frequently to see any updates or changes to our privacy notice.
+
+## _INFORMATION ABOUT OUR USE OF COOKIES_
+
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. By continuing to browse the site, you are agreeing to our use of cookies.
+
+A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree. Cookies contain information that is transferred to your computer’s hard drive.
+
+We use the following cookies:
+
+  * **Strictly necessary cookies.** These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services.
+  * **Analytical/performance cookies.** They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.
+  * **Functionality cookies.** These are used to recognise you when you return to our website. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
+  * **Targeting cookies.** These cookies record your visit to our website, the pages you have visited and the links you have followed. We will use this information to make our website and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
+
+
+
+You can find more information about the individual cookies we use and the purposes for which we use them in the table below:
+
+**Cookie Name** | **Function** | **Domain**  
+---|---|---  
+ico | User’s Session | electroneum.com  
+_ga | Google Analytics | electroneum.com  
+_locale | Allows persistence of language | electroneum.com  
+_gat | Google Analytics | electroneum.com  
+_gid | Google Analytics | electroneum.com  
+  
+Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies
+
+You block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site.
+
+Except for essential cookies, all cookies will expire after six months.
