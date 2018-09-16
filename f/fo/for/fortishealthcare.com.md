@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortishealthcare.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513025508id_/http%3A//www.fortishealthcare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortishealthcare.com privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916121544id_/http%3A//www.fortishealthcare.com/privacy-policy) for the most accurate reproduction.*
 
 # Largest Group of Hospitals in India for Public Health care Services | Fortis Healthcare
 
