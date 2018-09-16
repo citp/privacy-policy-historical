@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thehendonmob.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231114324id_/http%3A//www.thehendonmob.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehendonmob.com privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916231920id_/http%3A//www.thehendonmob.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Poker Hendon Mob
+# The Hendon Mob Privacy Policy - The Hendon Mob
 
 Last Updated: 15th of April 2014
 
-The Hendon Mob ("The Hendon Mob/us/we/our") is committed to protecting the privacy of its users ("users" or "you"). For the purpose of the Data Protection Act 1998 (“Act”), the data controller is Mediarex Enterprises Ltd, British Virgin Island registered company N°1701449, 2nd  Floor, Yamraj Building, Road Town, Tortola, British Virgin. This Privacy Policy has been created to inform you about how The Hendon Mob manages, collects, stores and uses the information you provide in connection with the thehendonmob.com website, forums and/or any related services (collectively "Service(s)").
+The Hendon Mob (“The Hendon Mob/us/we/our”) is committed to protecting the privacy of its users (“users” or “you”). For the purpose of the Data Protection Act 1998 (“Act”), the data controller is Mediarex Enterprises Ltd, British Virgin Island registered company N°1701449, 2nd  Floor, Yamraj Building, Road Town, Tortola, British Virgin. This Privacy Policy has been created to inform you about how The Hendon Mob manages, collects, stores and uses the information you provide in connection with the thehendonmob.com website, forums and/or any related services (collectively “Service(s)”).
 
 By visiting or otherwise using any of our Services, you consent to the collection, storage, use and disclosure of your personal information as described in this Privacy Policy, the terms of which are expressly incorporated by reference into The Hendon Mob Terms of Use.
 
@@ -19,7 +19,7 @@ The Hendon Mob’s Services are not intended for use by individuals under 18 (ei
 **What Information Do We Collect?**  
 The information we collect from you allows you to use our Services, it also enables us to improve and provide relevant, enhanced Services to you and thereby improve your user experience.
 
-Information We Collect Directly From You. 
+Information We Collect Directly From You.
 
 If you subscribe to our emails, or open a user account directly with The Hendon Mob, we collect the information you provide to us, namely email address, name, address, age.
 
@@ -45,19 +45,19 @@ The information that you provide to The Hendon Mob will not be disclosed, rented
 
 **Where we store your data**
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). By submitting your personal data, you agree to this transfer, storing or processing. The Hendon Mob will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). By submitting your personal data, you agree to this transfer, storing or processing. The Hendon Mob will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
 **Refer A Friend; Friend Finder Tools**
 
-If you choose to use a referral service to "tell a friend" about a Service, whether directly via the Service or via a social network service (“SNS”), such tools will help you find your contacts and allow your contacts to associate your Service account with your social networking profile and/or email address. The Hendon Mob may ask you for your friend’s name and email address. The Hendon Mob will send your friend an email on your behalf or a text message inviting him or her to visit the relevant site or visit the Service. The Hendon Mob stores your friend's name and email for the purpose of sending this email and for redundancy checking (to be sure that your friend does not receive multiple copies of the same email message). Your resulting friend’s list and information will be subject to this Privacy Policy. The Hendon Mob does not keep or use this information for any other purpose.
+If you choose to use a referral service to “tell a friend” about a Service, whether directly via the Service or via a social network service (“SNS”), such tools will help you find your contacts and allow your contacts to associate your Service account with your social networking profile and/or email address. The Hendon Mob may ask you for your friend’s name and email address. The Hendon Mob will send your friend an email on your behalf or a text message inviting him or her to visit the relevant site or visit the Service. The Hendon Mob stores your friend’s name and email for the purpose of sending this email and for redundancy checking (to be sure that your friend does not receive multiple copies of the same email message). Your resulting friend’s list and information will be subject to this Privacy Policy. The Hendon Mob does not keep or use this information for any other purpose.
 
 **Promotions; Contests; Sweepstakes – Publicity Waiver**
 
-If you enter into a sweepstake, contest, or similar promotion (“Promotion”), The Hendon Mob may use the information you provide to administer those Promotions. By accepting any prize from the Service, you agree to allow us to publish, print, broadcast and use, worldwide, in any media at any time, now or hereafter created, your name, picture, voice, likeness, and/or biographical information for promotional purposes without additional compensation and execute such releases as we may require for this purpose. 
+If you enter into a sweepstake, contest, or similar promotion (“Promotion”), The Hendon Mob may use the information you provide to administer those Promotions. By accepting any prize from the Service, you agree to allow us to publish, print, broadcast and use, worldwide, in any media at any time, now or hereafter created, your name, picture, voice, likeness, and/or biographical information for promotional purposes without additional compensation and execute such releases as we may require for this purpose.
 
 **User Contributions**
 
-You are responsible for any content, including personal information, that you contribute to be posted, published or displayed on the Service, or in its chat rooms, blogs, message boards, user “profiles” for public view, or in similar forums on its sites through mobile services and/or through third party sites or services. (collectively "User Contributions").  Information that you disclose in any of these forums is public information, and as such you can have no expectation of privacy or confidentiality.
+You are responsible for any content, including personal information, that you contribute to be posted, published or displayed on the Service, or in its chat rooms, blogs, message boards, user “profiles” for public view, or in similar forums on its sites through mobile services and/or through third party sites or services. (collectively “User Contributions”).  Information that you disclose in any of these forums is public information, and as such you can have no expectation of privacy or confidentiality.
 
 The Hendon Mob cannot control the actions of other users of the Services with whom you may choose to share your User Contributions; therefore, we cannot guarantee who will view your User Contributions. We are not responsible for circumvention by third parties of any privacy settings or security measures contained on the Service.
 
@@ -72,7 +72,7 @@ The Hendon Mob may employ third party contractors to collect personal informatio
 **Other Data Collection**
 
 **Cookies**  
-Like many other Services, The Hendon Mob may use "cookies" to collect information. A cookie is a small data file that is transferred to your computer’s hard disk or your mobile device for record-keeping purposes. The Service may send cookies to a computer or a mobile device when a user accesses or views a Service. Information contained in a cookie may be linked to personal information for purposes such as improving the quality of The Hendon Mob’s Service, tailoring recommendations to interests, and making the Service easier to use. Third party advertisers on the Services may also place or read cookies on your browser. Cookies can be disabled at any time by changing your web browser’s options to stop accepting cookies or to prompt you before accepting a cookie from the services, websites and/ or applications that you visit or use. If you do not accept cookies, however, you may not be able to use all portions or functionalities of the Service.
+Like many other Services, The Hendon Mob may use “cookies” to collect information. A cookie is a small data file that is transferred to your computer’s hard disk or your mobile device for record-keeping purposes. The Service may send cookies to a computer or a mobile device when a user accesses or views a Service. Information contained in a cookie may be linked to personal information for purposes such as improving the quality of The Hendon Mob’s Service, tailoring recommendations to interests, and making the Service easier to use. Third party advertisers on the Services may also place or read cookies on your browser. Cookies can be disabled at any time by changing your web browser’s options to stop accepting cookies or to prompt you before accepting a cookie from the services, websites and/ or applications that you visit or use. If you do not accept cookies, however, you may not be able to use all portions or functionalities of the Service.
 
 **Web Beacons**
 
