@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultra-pornstars.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606050058id_/http%3A//www.ultra-pornstars.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultra-pornstars.com privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916192240id_/http%3A//www.ultra-pornstars.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -96,8 +96,10 @@ You can easily withdraw your consent to our use of cookies by clearing your cook
 
   * **Analytical cookies** \- This website uses first party analytical cookies to collect information about your visit to this site. 
     * _First Party Analytics_ \- We place our own analytical cookie. The information in this persistent cookie has a retention period of 12 months. We consider the data we process through analytical cookies anonymous, since this information does not relate to an identified or identifiable natural person. We may disclose aggregated, anonymous information to third parties to operate our services properly. 
-    * **Orientation filter cookie** \- We store your orientation setting in a persistent cookie after you click on that feature. This cookie can be removed through the settings of your browser. 
-    * **Language filter cookie** \- We store your language setting in a persistent cookie after you click on that feature. This cookie can be removed through the settings of your browser. 
+  * **Orientation filter cookie** \- We store your orientation setting in a persistent cookie after you click on that feature. This cookie can be removed through the settings of your browser. 
+  * **Language filter cookie** \- We store your language setting in a persistent cookie after you click on that feature. This cookie can be removed through the settings of your browser. 
+
+
 
 For an overview of cookies that are placed through our site see the table below: 
 
@@ -155,12 +157,14 @@ The passively collected, aggregated information collected through cookies is bei
 
 Personal data you actively provided to us through your use of the site is handled to process your report, feedback or request. We do not provide third parties with your personal data, or information regarding your use of the services or site(s) accessible through our services, unless this is strictly necessary in our sole discretion, and we believe that it is reasonable to do so, including but not limited to, the following reasons: 
 
-    * To satisfy any laws, regulations or legal requests for such information;
-    * To disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Terms of Use or other policies;
-    * To operate our services properly;
-    * To process your request;
-    * To protect our site’s visitors, the general public, and ourselves. We specifically reserve the right to disclose any and all information to law enforcement in the event that a crime is committed, is suspected, or if we are compelled to do so by lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process;
-    * To cooperate with law enforcement authorities, government agencies and/or private-party litigants seeking information about our users, to the extent required by applicable law and/or if we are legally advised to do so. Examples of such cooperation include but are not limited to, lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process.
+  * To satisfy any laws, regulations or legal requests for such information;
+  * To disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Terms of Use or other policies;
+  * To operate our services properly;
+  * To process your request;
+  * To protect our site’s visitors, the general public, and ourselves. We specifically reserve the right to disclose any and all information to law enforcement in the event that a crime is committed, is suspected, or if we are compelled to do so by lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process;
+  * To cooperate with law enforcement authorities, government agencies and/or private-party litigants seeking information about our users, to the extent required by applicable law and/or if we are legally advised to do so. Examples of such cooperation include but are not limited to, lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process.
+
+
 
 ### 7\. What are your rights regarding our processing of your personal data?
 
@@ -199,6 +203,3 @@ We reserve the right to make changes to this Privacy Policy. We recommend that y
 ### 11\. Any Questions
 
 If you have any questions about our Privacy Policy or about the access, rectification, restriction and/or erasure of your personal data, please contact us at: [support@adultwebmasternet.com](mailto:support@adultwebmasternet.com?subject=Privacy%20Policy%20Question%20in%20regards%20to%20ultra-pornstars.com%20site). 
-
-
-
