@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the canstar.com.au privacy policy that was archived on 2018-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180326182624id_/https%3A//www.canstar.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canstar.com.au privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916120434id_/https%3A//www.canstar.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Canstar Pty Limited – Privacy Policy
 
-**Version: 4  September 2017**
+**Version: 17 April  2018**
 
 **CANSTAR Pty Limited AR 443019 recognises the importance of protecting your privacy and abides by the Australian Privacy Principles contained in the (amended) Privacy Act 1988.**
 
@@ -18,14 +18,19 @@ Because we strive to provide our website users with personalised services showin
 
 We collect and hold information about you when you access and use our services through our website.  The types of information we keep on record will depend on the type of product or service requested by you.
 
-Generally, we keep a record of the following types of information about you:
+We may keep a record of the following types of information about you:
 
   * Personal information that you give us when you use the website, such as your name, address, and postcode;
-  * Pages of the website that you have visited;
-  * The Facebook profile information identified in the ‘Log in’ form, if you choose to log in to our website using Facebook;
-  * Other information voluntarily provided by you
+  * If you provide them to us, the name of your product provider, credit provider or product details for specific products that you hold;
+
+
+
+The Facebook profile information identified in the ‘Log in’ form, if you choose to log in or sign up to our website using Facebook;
+
+  * Pages of the website that you have visited;Your IP address for your interaction with various parts of our website. Your IP address is the identifier for your computer when you are using the internet;
+  * Other information voluntarily provided by you;
   * Any other information we need to enable us to deliver services to you;
-  * Your IP address for your interaction with various parts of our website. Your IP address is the identifier for your computer when you are using the internet; and
+  * and
   * Personal information that you give us when you visit the Canstar office, such as photographs we take of you with your permission, and physical or digital signatures.
 
 
@@ -132,4 +137,4 @@ By email:  enquiries@canstar.com.au
 
 We will try to answer any questions you may have, correct any error on our part or resolve any complaint that you may have about our information handling practices. If we do not resolve a complaint to your satisfaction, you also have the right to complain to the Office of the Australian Privacy Commissioner, Tel: 1300 363 992 or email:privacy@privacy.gov.au
 
-You acknowledge and accept that your use of the CANSTAR website indicates your acceptance of the CANSTAR website [Terms of Use](https://web.archive.org/terms-of-use/) and this Privacy Policy.
+You acknowledge and accept that your use of the CANSTAR website indicates your acceptance of the CANSTAR website [Terms of Use](https://www.canstar.com.au/terms-of-use/) and this Privacy Policy.
