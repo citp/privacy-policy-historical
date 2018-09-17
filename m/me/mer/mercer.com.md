@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the mercer.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606162129id_/https%3A//www.mercer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercer.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917160118id_/https%3A//www.mercer.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy
+# Mercer Privacy Notice
 
-## Privacy Statement: mercer.com
+**THIS PRIVACY NOTICE IS FOR ALL VISITORS FROM OUTSIDE THE EUROPEAN ECONOMIC AREA. IF YOU ARE LOCATED INSIDE THE EEA, PLEASE CLICK[HERE.](https://www.uk.mercer.com/privacy.html)**
+
+* * *
 
 Mercer LLC and its affiliates (the “Company”) believe strongly in protecting the privacy of Internet users who visit our website, located at www.mercer.com (the "Site”). This Privacy Statement is intended to inform you of the ways in which this Site collects personal information, the uses to which that information will be put, and the ways in which we will protect any personal information you choose to provide us. Generally, personal information is information that can be used to identify you or your activities on the Site or information about you which you provide to us through services offered on the Site.
 
@@ -14,19 +16,21 @@ The information collected by the Company through the Site falls into two categor
 
 **Information Voluntarily Provided by You:**
 
-In the course of using this Site, you may choose to provide us with information to help us serve your needs. For example, you may provide us your e-mail address to request information, or you may send us your mailing address so we may send you the material you have requested. You may also choose to apply for a job at the Company and submit a job application via our careers site http://www.mmc.com/join-us/overview.html.  Any personal information you send us will be used only for the purpose indicated on the careers site or in this Statement.
+In the course of using this Site, you may choose to provide us with information to help us serve your needs. For example, you may provide us your e-mail address to request information, or you may send us your mailing address so we may send you the material you have requested. You may also choose to apply for a job at the Company and submit a job application via our careers site <https://careers.mmc.com/>.  Any personal information you send us will be used only for the purpose indicated on the careers site or in this Statement.
 
 **Information Collected by Automated Means:**
 
 We use various tools to enhance the Site user experience and track users of the Site, including cookies and web beacons. Cookies are small pieces of text that a website places on your computer to help remember information about your visit. Web beacons are tiny graphics with a unique identifier that are embedded invisibly on the web pages. Neither cookies nor web beacons can read data off your computer's hard drive or collect your personal information. We use information collected from cookies and web beacons to improve your experience and the overall quality of our services. We may also use cookies and web beacons to collect information from third parties (such as Google) to help advertise our products and services, to analyze the effectiveness of our marketing or the performance of this Site, and to determine whether you may be interested in other products or services. We also use web beacons to help deliver cookies and compile analytics. Our cookies and web beacons may also come from third-party service providers who have permission to place such tools on our Site.
 
-You can refuse to accept and delete cookies by adjusting your browser setting.  Please note that refusing or deleting cookies may impact your browsing experience on the Site, or prevent you from using some of its services, and it may result in the deletion of any preferences you have set. For more information on how to reject or delete cookies, you should consult with your browser's or device’s help documentation or visit www.aboutcookies.org. The Company does not use technology that recognizes do-not-track signals from your browser. You can also opt out of Internet based advertising by installing a browser plugin from the third party where available. For more information about interest-based advertising, please see: http://www.networkadvertising.org/managing/opt_out.asp.
+You can refuse to accept and delete cookies by adjusting your browser setting.  Please note that refusing or deleting cookies may impact your browsing experience on the Site, or prevent you from using some of its services, and it may result in the deletion of any preferences you have set. For more information on how to reject or delete cookies, you should consult with your browser's or device’s help documentation or visit www.aboutcookies.org. We belong to ad networks that may use your browsing history across participating website to show you interest-based advertisements on those websites.  Because the data used for interest-based advertising is also used for other necessary purposes (including providing our products, analytics and fraud detection), opting out of interest-based advertising does not stop that data from being collected. Nor does it mean you will stop getting ads or see fewer ads. However, if you do opt out, the ads you receive will no longer be interest-based and may be less relevant to your interests. The Company does not use technology that recognizes do-not-track signals from your browser. You can also opt out of Internet based advertising by installing a browser plugin from the third party where available. For more information about interest-based advertising, please see: <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 In addition, in the course of ensuring network security and consistent service for all users, the Company employs software programs to do such things as monitor network traffic, identify unauthorized access or access to nonpublic information, detect computer viruses and other software that might damage the Company’s computers or the network, and monitor and fine-tune the performance of the Company network and this Site. In the course of such monitoring, these programs may detect additional information from your computer such as your IP address, addresses from network packets, and other technical information. Any such information is used only for the purpose of maintaining the security and performance of the Company’s networks and computer systems.
 
 **How Do We Use the Data We Collect?**
 
-We will use the information provided by you in order to serve your needs. This may include things such as sending you electronic or written materials or, for example, if you supply us with your telephone number, you may receive telephone contact from us in response to your request.
+We will use the information provided by you in order to serve your needs. This may include things such as sending you electronic or written materials or, for example, if you supply us with your telephone number, you may receive telephone contact from us in response to your request. We work with our business partners to collect information about the use of the site.  Our business partners collect information such as how often users visit the site and what pages users visited prior to visiting the site.   We use this information to maintain and improve the site.  We may partner with Google Analytics in these activities.  For information about how Google uses the information, see [Terms of Service](http://www.google.com/intl/en/policies/terms/) and the [Google Privacy Statement](http://www.google.com/policies/privacy/). You can opt out of Google Analytics by visiting <https://tools.google.com/dlpage/gaoptout>.
+
+We may also use the information we collect and receive as otherwise described to you at the point of collection or pursuant to your consent.
 
 **Who Do We Share Your Data With?**
 
@@ -70,7 +74,7 @@ Under California’s “Shine the Light” law, Site visitors who are California
 
 **For Company Career Candidates**
 
-Please read our Candidate Privacy Statement  posted on our careers websites, available at http://www.mmc.com/join-us/overview.html
+Please read our Candidate Privacy Statement  posted on our careers websites, available at <https://careers.mmc.com/>.
 
 **Changes to Privacy Statement**
 
@@ -78,11 +82,11 @@ The Privacy Statement is subject to change at any time. It was last changed on M
 
 **Questions or Concerns?**
 
-If you have any questions, concerns, or complaints about this Privacy Statement, or our privacy practices in general, they should be directed to the Company at webmaster@mercer.com or by contacting the Company at:
+If you have any questions, concerns, or complaints about this Privacy Statement, or our privacy practices in general, they should be directed to the Company at [privacycoordinator@mercer.com](mailto:privacycoordinator@mercer.com) or by contacting the Company at:
 
 Mercer LLC  
 1166 Avenue of Americas,  
 New York, New York 10036  
 USA
 
-© 2017, MERCER LLC. ALL RIGHTS RESERVED
+© 2018, MERCER LLC. ALL RIGHTS RESERVED
