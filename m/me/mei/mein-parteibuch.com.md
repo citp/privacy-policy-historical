@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mein-parteibuch.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608093708id_/http%3A//www.mein-parteibuch.com/blog/2009/06/12/warum-werden-artikel-zu-klemens-joos-wegzensiert) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mein-parteibuch.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917062838id_/http%3A//www.mein-parteibuch.com/blog/2009/06/12/warum-werden-artikel-zu-klemens-joos-wegzensiert) for the most accurate reproduction.*
 
 # Privacy Policy - Mein Parteibuch
 
