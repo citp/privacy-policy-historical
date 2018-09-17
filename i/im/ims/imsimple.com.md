@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imsimple.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115053435id_/http%3A//work1099.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imsimple.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917035733id_/http%3A//work1099.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Work1099
 
