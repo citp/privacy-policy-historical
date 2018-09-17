@@ -1,24 +1,22 @@
-> *The following text is extracted and transformed from the utahrealestate.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929112426id_/https%3A//www.utahrealestate.com/page/do/privacy.policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utahrealestate.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917202817id_/https%3A//www.utahrealestate.com/page/do/privacy.policy) for the most accurate reproduction.*
 
 # UtahRealEstate.com
 
-##  UtahRealEstate.com Privacy Policy
-
-UtahRealEstate.com ("URE") operates an online multiple listing service and serves real estate professionals, their clients, and consumers looking for real estate. URE is committed to the protection and security of the information provided by visitors to utahrealestate.com and propertypond.com (including their online and mobile versions) (hereinafter "Website"). This Privacy Policy is set forth to help you understand the information collected by URE. Your use of the Websites constitutes your acceptance of this Privacy Policy, and all future revisions thereto.
+UtahRealEstate.com ("URE") operates an online multiple listing service and serves real estate professionals, their clients, and consumers looking for real estate. URE is committed to the protection and security of the information provided by visitors to utahrealestate.com and propertypond.com (including their online and mobile versions) (hereinafter "Websites"). This Privacy Policy is set forth to help you understand the information collected by URE. Your use of the Websites constitutes your acceptance of this Privacy Policy, and all future revisions thereto.
 
 _**Application of Policy**_
 
-This policy applies to the Websites and their associated pages. Please note that there may be links to other companies and websites on the Websites that are not owned by URE. With respect to those companies and websites, this Privacy Policy is inapplicable. 
+This policy applies to the Websites and their associated pages. Please note that there may be links to other companies and websites on the Websites that are not owned by URE. With respect to those companies and websites, this Privacy Policy is inapplicable.
 
-**_Types fo Information Collected_**
+**_Types of Information Collected_**
 
-When you visit the Websites, URE collects certain information about your visit.  For instance, URE may collect information about the type of internet browser you are using, the server name and Internet Protocol address through which you access the Websites, the pages you access within the Websites, information about your geographic location, how long you spend on the Websites, information you input into the Websites regarding your contact information or real estate listings, if you navigated to the URE Websites from another website, and the internet address of where you came from.
+When you visit the Websites, URE collects certain information about your visit.  For instance, URE may collect information about the type of internet browser you are using, the server name and Internet Protocol address through which you access the Websites, the pages you access within the Websites, information about your geographic location, how long you spend on the Websites, information you input into the Websites regarding your contact information or real estate listings, if you navigated to the URE Websites from another website, and the internet address of where you came from. URE also contracts with ListTrac. ListTrac collects information about your real estate viewing activities and preferences that allows ListTrac and approved 3rd party companies to engage with you through personalized, relevant adverts when you are browsing other websites and social media platforms, and through ListTrac’s analytics services. You can learn more about ListTrac and opt out at <http://listtrac.com/privacypolicy.html>.
 
 URE may have to disclose, transfer, sell, or assign information obtained from you through the Websites to a third party if URE utilizes companies and individuals who URE employs or engages to perform services on URE's behalf for the Websites or if requested by the government, law enforcement, or via subpoena. URE may also disclose information if URE is or may be acquired by another entity or engages in the sale of URE's assets.
 
 _**How URE Protects Information**_
 
-URE takes appropriate measures to ensure that any information collected is protected.  Please note, however, that due to the open nature of the internet, URE cannot guarantee that all communication between you and URE will be free from unauthorized access by third parties nor can we be responsible or liable for information harvested or scraped from the Websites by third parties. You can always refuse to provide personal information on the Websites, but doing so may result in decreased functionality of the Websites for you.
+URE takes reasonable measures to ensure that any information collected is protected.  Please note, however, that due to the open nature of the internet, URE cannot guarantee that all communication between you and URE will be free from unauthorized access by third parties nor can we be responsible or liable for information harvested or scraped from the Websites by third parties. You can always refuse to provide personal information on the Websites, but doing so may result in decreased functionality of the Websites for you.
 
 _**Cookies**_
 
@@ -30,9 +28,9 @@ The Websites may include discussion forums (such as message boards and chat feat
 
 _**Advertising**_
 
-URE utilizes advertisements in its Websites. URE wants to make these advertisements useful and relevant to you. As a result, URE may provide advertisements on the Websites based on information collected from you or in relation to your interaction with the Websites. The advertisers may utilize cookies and other technologies to your online activity and to learn what types of information are of most interest to you. Use of these technologies by the advertisers is subject to the advertiser's own privacy policies.
+URE utilizes advertisements in its Websites. URE wants to make these advertisements useful and relevant to you. As a result, URE may provide advertisements on the Websites based on information collected from you or in relation to your interaction with the Websites. The advertisers may utilize cookies and other technologies to your online activity and to learn what types of information are of most interest to you. Use of these technologies by the advertisers is subject to the advertisers' own privacy policies.
 
-_**Children**_          
+_**Children**_          
 
 These Websites are not directed to children under the age of 13, and URE does not knowingly collect any information, including personal information, from children under the age of 13.
 
@@ -48,4 +46,4 @@ legal@utahrealestate.com
 Wasatch Front Regional Multiple Listing Service, Inc.  
 Attn: Legal Department  
 230 W. Towne Ridge Parkway, Suite 400  
-Sandy, UT 84070 
+Sandy, UT 84070
