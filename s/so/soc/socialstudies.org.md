@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialstudies.org privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514092135id_/https%3A//www.socialstudies.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialstudies.org privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917114857id_/https%3A//www.socialstudies.org/privacy) for the most accurate reproduction.*
 
 # NCSS Privacy Policy | National Council for the Social Studies
 
@@ -73,6 +73,6 @@ NCSS may disclose your personally identifiable information if required to do so 
 
 ## Privacy policy updates
 
-We have tried to create a privacy policy that is comprehensive, readable, and durable. Despite our best efforts, we may find it necessary to revise it. Any changes will be made without prior notice. The current NCSS privacy policy will continue to be posted at this address ([www.socialstudies.org/privacy](http://www.socialstudies.org/privacy)). If you have questions or comments about our privacy policy, please email [webmaster@ncss.org](mailto:webmaster@ncss.org).
+We have tried to create a privacy policy that is comprehensive, readable, and durable. Despite our best efforts, we may find it necessary to revise it. Any changes will be made without prior notice. The current NCSS privacy policy will continue to be posted at this address ([www.socialstudies.org/privacy](https://www.socialstudies.org/privacy)). If you have questions or comments about our privacy policy, please email [webmaster@ncss.org](mailto:webmaster@ncss.org).
 
 (July 2014)
