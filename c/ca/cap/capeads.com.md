@@ -1,53 +1,93 @@
-> *The following text is extracted and transformed from the capeads.com privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101224253id_/http%3A//www.junkmail.co.za/blog/privacy-policy/36771) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capeads.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917041735id_/https%3A//www.junkmail.co.za/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Junk Mail Blog
+# PrivacyPolicy | Junk Mail
 
-**Junk Mail Digital Privacy Statement**
+**1\. Introduction**
 
-Junk Mail Digital is committed to protecting your privacy and developing technology that gives you a powerful and safe online experience. This Statement of Privacy applies to the Junk Mail Digital Web (www.junkmail.co.za) site and governs data collection and usage. By using the Junk Mail Digital website, you consent to the data practices described in this statement.
+We respect your privacy and take it very seriously. We are Junk Mail Digital Media (Pty) Ltd (Registration number: 2011/001328/07), also known as Junk Mail and including Job Mail, Auto Mart, Truck & Trailer, AgriMag, and GotProperty, and this is our plan of action for the protection of your personal information. It describes how we collect, use, disclose, and store your personal information.
 
-**Collection of your Personal Information**  
-Junk Mail Digital collects personally identifiable information during the optional registration, responding to adverts and advert placement processes, such as your email address, name, home or work address or telephone number. Junk Mail Digital also collects anonymous demographic information, which is not unique to you, such as your postal code, age, gender, preferences, interests and favourites.
+**2\. Application**
 
-There is also information about your computer hardware and software that is automatically collected by Junk Mail Digital. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used by Junk Mail Digital for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Junk Mail Digital website.
+This policy applies to you when you visit our website, use our application, or order our goods or services as a customer.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through the Junk Mail Digital public message boards, this information may be collected and used by others.
+**3\. Personal information**
 
-Junk Mail Digital encourages you to review the privacy statements of websites you choose to link to from Junk Mail Digital so that you can understand how those websites collect, use and share your information. Junk Mail Digital is not responsible for the privacy statements or other content on websites outside of the [www.junkmail.co.za](http://www.junkmail.co.za/) website and the Junk Mail Digital family of websites.
+3.1. Scope. Your personal information includes information we collect:
 
-**Use of your Personal Information**  
-Junk Mail Digital collects and uses your personal information to operate the Junk Mail Digital website and deliver the services you have requested. Junk Mail Digital also uses your personally identifiable information to inform you of other products or services available from Junk Mail Digital and its affiliates. Junk Mail Digital may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+  * automatically when you visit our website or use our application;
+  * accept on registration or submission;
+  * get through an order; or
+  * you provide voluntarily; but
+  * excludes anonymous, de-identified, statistical, and public information.
 
-Junk Mail Digital does not sell, rent or lease its customer lists to third parties. Junk Mail Digital may, from time to time, contact you on behalf of external (third party) business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (email, name, address, telephone number) is not transferred to the third party. In addition, Junk Mail Digital may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Junk Mail Digital, and they are required to maintain the confidentiality of your information.
 
-Junk Mail may, from time to time, use any information you have submitted on any of the company sites, including but not limited to Junk Mail, Job Mail, Auto Mart, Truck & Trailer, and AgriMag, to send you marketing material that might be relevant to you.
 
-Junk Mail can, from time to time, also collect and use your information, gathered while you browse the website, for current and future marketing purposes. You can opt-out of marketing communications with us at any time.
+3.2. Your obligations. You may only send us your own personal information or someone else's personal information if you have their permission to do so.
 
-Junk Mail Digital does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+**4\. Acceptance and changes**
 
-Junk Mail Digital keeps track of the websites and pages our customers visit within Junk Mail Digital, in order to determine what Junk Mail Digital services are the most popular. This data is used to deliver customised content and advertising within Junk Mail Digital to customers whose behaviour indicates that they are interested in a particular subject area.
+4.1. Acceptance. You may not order any of our goods or services if you do not accept this policy or any changes to it.
 
-Junk Mail Digital will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Junk Mail Digital or the site; (b) protect and defend the rights or property of Junk Mail Digital; and, (c) act under exigent circumstances to protect the personal safety of users of Junk Mail Digital, or the public.
+4.2. Changes. We may change this policy at any time and will notify you of the changes on our website, through our application, or by email. The changed policy applies to you if you continue using our website, our application, or our goods or services following the notification.
 
-**Use of Cookies**  
-The Junk Mail Digital website uses “cookies” to help you personalise your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+**5\. Collection**
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalise Junk Mail Digital pages, or register with the Junk Mail Digital site or services, a cookie helps Junk Mail Digital to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Junk Mail Digital website, the information you previously provided can be retrieved, so you can easily use the Junk Mail Digital features that you customised.
+5.1. Automatically. We collect your Internet usage information automatically when you visit our website, including your IP address, browser details, and usage information, which we may use to display our website correctly, track your activities on it, or for other necessary purposes.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Junk Mail Digital services or other websites you visit.
+5.2. On registration or submission. We may ask you to provide us with certain identifying information when you register on or otherwise submit information through our website or application for the first time.
 
-**Security of your Personal Information**  
-Junk Mail Digital secures your personal information from unauthorized access, use or disclosure. Junk Mail Digital secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol. Junk Mail Digital does not though store any Credit Card details.
+5.3. Through an order. We ask you to provide us certain goods or services information when you order our goods or services.
 
-**Third Party Cookies**
+5.4. Voluntarily. We may ask you to provide us certain optional information on a voluntary basis.
 
-Junk Mail Digital use both our own (first party) and partner companies’ (third party) cookies to support the activity on the [www.junkmail.co.za](http://www.junkmail.co.za/) website. First party cookies are owned & created by the website you’re viewing. Third party cookies are owned and created by an independent company, usually a company providing a service to the website owners. Examples of usages for third party cookies are web analysis (e.g. Google Analytic) and search queries.
+5.5. Consent to collection. We will get your consent to collect your personal information in accordance with applicable law when you provide us with it.
 
-Junk Mail Digital takes due care when selecting 3rd Party service providers, however Junk Mail Digital cannot take responsibility for the content and use of the cookies deployed by such 3rd parties. You have the ability within your browser to specifically deny 3rd party cookies.
+5.6. Purpose for collection. We may process your information that you provide to us for the purposes that you indicated when you agreed to provide it to us. Processing includes gathering your personal information, disclosing it, and combining it with other personal information.
 
-**Changes to this Statement**  
-Junk Mail Digital will occasionally update this Statement of Privacy to reflect company and customer feedback. Junk Mail Digital encourages you to periodically review this Statement to be informed of how Junk Mail Digital is protecting your information.
+**6\. Use**
 
-**Contact Information**  
-Junk Mail Digital welcomes your comments regarding this Statement of Privacy. If you believe that Junk Mail Digital has not adhered to this Statement, please contact Junk Mail Digital at [webmaster@junkmail.co.za](mailto:webmaster@junkmail.co.za). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+6.1. Processing. We may process your personal information to fulfil our obligations to you.
+
+6.2. Cookies. We may place small text files on your device when you visit our website that allow us to provide you with a personalised experience by associating your personal information with your device. They let us remember your preferences, allow third parties to provide services to you, and otherwise serve useful purposes for you. Your internet browser generally accepts them automatically, but you can often change this setting or delete them manually. However, we won't be able to provide you with access to certain aspects of our website where cookies are necessary if you do so. We have no access to or control over any cookies that our business partners use on our website and they have their own privacy polices that govern them.
+
+6.3. Messages. We may use your identifying information to send you administrative and update messages about the website. We may also sometimes send you promotional messages, but [you may choose to opt-out of them | we will first send you one message asking you to opt-in and will not continue to send you promotional messages unless you have done so].
+
+6.4. Targeted content. We may use your personal information to provide you with targeted content on our website in a completely automated process.
+
+**7\. Disclosure**
+
+7.1. Sharing. We may share your personal information with third parties for the purposes of fulfilling our obligations to you, including with:
+
+  * other companies or divisions within our group;
+  * our contractors who help provide part of our goods or services; or
+  * third parties as required by applicable law.
+
+
+
+7.2. Honour this policy. We will require anyone that we share your personal information with to honour this policy whenever possible in terms of applicable law.
+
+7.3. Mandatory disclosure. We may disclose personal information to third parties if required for legal reasons, such as to regulators as required by law or governmental audit, law enforcement as required by a subpoena or court order, or third parties as required by applicable law.
+
+7.4. Marketing purposes. We may disclose aggregate statistical information that we have derived from your and other people's personal information to our advertisers or business partners.
+
+7.5. Personnel. We may need to disclose personal information to our personnel to do their jobs, but will not do so unnecessarily.
+
+7.6. Change of ownership. We may assign our rights to the personal information we process to our new owners if our ownership changes for any reason.
+
+**8\. Storage**
+
+8.1. Accuracy. We will do our best to keep your personal information that we collect accurate, complete, and up to date.
+
+8.2. Participation. We may ask you to update your personal information from time to time or give you a way to review it, but will take steps to verify your identity to prevent unauthorised access when doing so.
+
+8.3. Retention. We will only keep your personal information for as long as is necessary to fulfil our obligations to you, unless you have given us permission to keep it longer or we are otherwise legally allowed to do so.
+
+8.4. Transfer. We may transfer your personal information outside of the country in which it was collected to a foreign country. You consent to us processing your personal information in a foreign country with less stringent data protection laws than the country in which it was collected.
+
+**9\. General**
+
+9.1. Updating or removing. You may update or remove your personal information through our website or application or by contacting us.
+
+9.2. Limitation. We are not responsible for anyone else's privacy policies or practices.
+
+9.3. Enquiries. Please contact us if you have any questions about this privacy policy or how we handle your personal information.
