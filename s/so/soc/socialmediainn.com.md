@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the socialmediainn.com privacy policy that was archived on 2017-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170423063216id_/http%3A//socialmediainn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialmediainn.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917043500id_/https%3A//socialmediainn.com/privacy) for the most accurate reproduction.*
 
-# Socialmediainn | Social Media Software | Online Reviews | Social Media Marketing | Management
+# Socialmediainn - Easy Social Media Management Tool | Online Reputation Monitoring | Social Analytics | Social Media Marketing
 
   
 
