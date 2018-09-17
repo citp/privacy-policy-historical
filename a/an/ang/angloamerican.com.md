@@ -1,175 +1,337 @@
-> *The following text is extracted and transformed from the angloamerican.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516075530id_/http%3A//www.angloamerican.com/site-services/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angloamerican.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917074225id_/http%3A//www.angloamerican.com/site-services/privacy-policy) for the most accurate reproduction.*
 
-# Privacy and Cookie policy – Anglo American
+# Privacy policy – Anglo American
 
-This website ("our Site") is operated by Anglo American plc ("we” or "us" or "our”). We are registered in England and Wales under company number 3564138 and have our registered office at 20 Carlton House Terrace, London, SW1Y 5AN. We are committed to protecting and respecting your privacy and we comply with data protection legislation and other applicable local laws.
+Our Site ("our Site") is operated by Anglo American plc ("Company", "we” or "us" or "our”). We are registered in England and Wales under company number 3564138 and have our registered office at 20 Carlton House Terrace, London, SW1Y 5AN. We are committed to protecting and respecting your privacy and we comply with data protection legislation and other applicable local laws.
 
-This policy (together with our [Terms and Conditions](https://web.archive.org/site-services/terms-and-conditions) which can be found at and any other documents referred to on it) sets out how we will use any personal data which you provide through our Site. Please read it carefully before you proceed.
+The Company is a member of the Anglo American group of companies ( **"Group"** ). Other data controllers registered in the EU that are part of the Group include: 
 
-By visiting our Site, and/or using the services offered on or through our Site, you agree to the terms of this Privacy and Cookie Policy as it may be amended from time to time. This Privacy and Cookie Policy is incorporated into, and part of, the [Terms and Conditions](https://web.archive.org/site-services/terms-and-conditions) of our Site, which governs your use of our Site.
-
-## INFORMATION WE MAY COLLECT FROM YOU
-
-We may collect, receive, store and process the following data about you:
-
-  * Information that you provide by filling in forms on our Sites. This includes subscribing to our service, applying for jobs via the Site, posting material or requesting further services including, for example, name, home and/or business address, email address, telephone number, demographic information such as age and/or other information that may identify you as an individual, username and password if you create an account on our Site and such other information as may be necessary for the purposes identified in this Privacy Policy. We may also ask you for information when you sign-up for e-mail newsletters and when you report a problem with our Site.
-  * If you contact us, we may keep a record of that correspondence.
-  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
-  * Details of your visits to our Site including, but not limited to, traffic data, location data, weblogs and other communication data, and the resources that you access. 
-  * Any other data you may provide to us in connection with our services and/or our Site, including but not limited to: 
-    * information you provide when you apply for jobs using the Site;
-    * information you provide when using the ‘Tools for Suppliers’ section of the Site (including applying to be one of our prospective suppliers);
-    * information you provide when subscribing to alerts from the Site or using the Contact Us section of the Site;
-
-and 
-
-    * pictures, comments and/or videos which you submit to us either via our social media sites or our Site.
-
-
-
-If you do not agree to us collecting this information about you, we may not be able to provide you with certain services, including those identified in this Privacy Policy, and you should not use our Site as some of this information is collected automatically.
-
-## IP ADDRESSES, COOKIES AND GIFS
-
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not show personal details that identify you.
-
-For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies are small pieces of information sent by a web server to a web browser which allow the web server to recognise the web browser. They help us to improve our Site and to deliver a better and more personalised service. They enable us:
-
-  * To estimate our audience size and usage pattern.
-  * To store information about your preferences, and so allow us to customise our Site according to your individual interests.
-  * To speed up your searches.
-  * To recognise you when you return to our Site.
+  * Anglo American Services (UK) Limited 
+  * Anglo Platinum Marketing Limited 
+  * Anglo American Marketing Limited 
+  * Anglo Industrial Minerals Limited 
+  * Kumba International Trading S.á.r.l 
+  * Kumba Iron Ore Holdings S.à r.l.
+  * AA Sakatti Mining Oy
+  * DeBeers Diamond Jewellers Limited
+  * De Beers Auction Sales Belgium NV
+  * De Beers UK Limited
+  * Forevermark Italy S.r.l.
+  * Forevermark Limited (UK)
+  * Forevermark NV
+  * Element Six (UK) Limited 
+  * Element Six AB
+  * Element Six B.V
+  * Element Six GmbH
+  * Element Six Limited 
+  * Element Six Limited (Ireland) 
+  * Element Six Technologies Limited
 
 
 
-You can control how your browser handles cookies received from websites. You can choose to refuse all cookies, or to be prompted before a cookie is saved to your hard drive, or to only accept cookies from certain websites that you designate. Information on deleting or controlling cookies is available at [www.AboutCookies.org](http://www.aboutcookies.org/ "Opens in a new window"). By refusing to accept cookies from us, you may not be able to use some of the features and functionality available on our Site.
+You can find out more about our Group at www.angloamerican.com or by contacting us using the information in the contact us section. 
 
-Here is a list of the cookies on our Site and what they are used for:
+This policy (together with our [Terms and Conditions](http://www.angloamerican.com/site-services/terms-and-conditions "Opens in a new window") and any other documents referred to in it) sets out how we will use any personal data which you provide through our Site. Please read it carefully before you proceed.
 
-Cookie name | Purpose | Expires  
----|---|---  
-ASP.NET_SessionID | Enables tools to work | After a short time or when you close your browser  
-ASPSSESSIONIDBRAQBQ | Allows webcast form to work | After a short time or when you close your browser  
-ASPSSESSIONIDSCATSCTR | Allows job search form to work | After a short time or when you close your browser  
-Plugin%5FID | Supports operation of careers section | After a short time or when you close your browser  
-Ref | Tracks the posting reference | After a short time or when you close your browser  
- url#lang |  Stores language for the website |  At end of session  
-ACOOKIE | 
+**Updates**
 
-Small text files stored in the browser on the user's computer, when visiting web pages.
+We may amend this privacy notice from time to time to keep it up to date with legal requirements and the way we operate our business, and will place any updates on our Site. Please regularly check these pages for the latest version of this notice. If we make fundamental changes to this privacy notice, we will seek to inform you by notice on our Site or email where possible. This privacy notice was last updated on 21/05/2018.
 
-Cookies store information that can be used for several purposes: to personalize web browsing, to gather demographic information about how many users visit a page, to monitor which banners are displayed to the user, etc.
+**Third Party Websites**
 
-| Two years  
-_utma | This cookie, used by Google Analytics, keeps track of the number of times a user has been to the Site, when their first visit was, and when their last visit occurred. | Two years  
-_utmb | This cookie, used by Google Analytics, captures the timestamp of the exact moment in time when a user enters the Site. | 30 minutes  
-_utmc | This cookie, used by Google Analytics, captures the timestamp of the exact moment in time when a user leaves the Site. | After a short time or when you close your browser  
-_utmv | “utmv” is used to identify segments. All information is sent to the server anonymously. See Google's website for more information. | After a short time or when you close your browser  
-_utmz | This cookie keeps track of where the user came from, what search engine the user used, what link was clicked on, what keyword the user used, and where they were in the world when accessing the Site. | 6 months  
-__atuvc | The __atuvc cookie is created and read by the AddThis social sharing site JavaScript on the client side in order to make sure the user sees the updated count if they share a page and return to it before our share count cache is updated. No data from that cookie is sent back to AddThis and removing it when disabling cookies would cause unexpected behaviour for users. | Two years  
+You might find external links to third party websites on our Site. This privacy notice does not apply to your use of a third party site.
+
+## WHAT PERSONAL DATA WE COLLECT AND WHEN AND WHY WE USE IT 
+
+In this section you can find out more about
+
+  * the types of personal data we collect
+  * when we collect personal data 
+  * how we use personal data 
+  * the legal basis for using personal data 
+
+
+
+**When we collect personal data**
+
+Personal data is any information capable of identifying a natural person, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to their his or her physical, physiological, mental, economic, cultural or social identity. Data is considered personal when it enables anyone to link information to a specific person, even if the person or entity holding that data cannot make that link.
+
+We collect personal data about you collectively ( **"you"** ) if you register with or use our Site. 
+
+Our Site is not intended for children and we do not knowingly collect data relating to children.
+
+_If you contact us using the "contact us" section of our Site_
+
+  * If you contact us via the “contact us” page on our Site, we will process your personal data in order to consider and respond to those queries.
+  * The personal data that we process to do so will be the personal data that you provide to us, such as your name, your contact details (such as email address and telephone number) and the content of your query.
+  * The source of your personal data will be you, however, we may also generate personal data internally if this is needed to respond to your query.
+
+
+
+_If you leave a comment on a blog or other post on our Site_
+
+  * If you leave a comment on any page on our Site, we will process your personal data in order to facilitate this activity.
+  * The personal data that we process to do so will be the personal data that you provide to us, such as the content of your comment and any personal data you choose to provide.
+  * The source of your personal data will be you.
+
+
+
+_If you sign up to subscriber alerts_
+
+  * If you sign up to subscriber alerts, we will process your personal data in order to provide you with email alerts, as requested.
+  * The personal data that we process to do so will be the personal data that you provide to us, such as your name, your email address, your country of residence and your occupation.
+  * The source of this personal data will be you.
+
+
+
+_Cookies_
+
+  * If you visit our Site, we use cookies to understand who has seen which webpages, to determine how frequently particular pages are visited and to determine the most popular areas of our Site.
+  * Cookies will collect personal data about you. The personal data that is collected by these cookies is IP address, operating system and browser type.
+  * One of the analytics tools that our website uses is Google Analytics, to learn more about Google Analytics, you can visit [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/ "Opens in a new window")
+  * The source of this personal data will be you, gathered by the cookie. Some information may also come from analytics providers (such as Google). For further information, please see the Cookies section below.
+
+
+
+We also collect, use and share aggregated data such as statistical or demographic data for any purpose. Aggregated data may be derived from your personal data but is not considered personal data in law as this data does not directly or indirectly reveal your identity. For example, we may aggregate your usage data to calculate the percentage of users accessing a specific website feature. However, if we combine or connect Aggregated data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy notice.
+
+We do not collect any Special Categories of Personal Data about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). Nor do we collect any information about criminal convictions and offences.
+
+**Legal basis for using your personal data**
+
+We will only collect, use and share your personal data where we are satisfied that we have an appropriate legal basis to do this. This may be because:
+
+  * we need to use your personal data to perform a contract or take steps to enter into a contract with you; and/or 
+  * we need to use your personal data for our legitimate interest as a commercial organisation. In all such cases, we will look after your information at all times in a way that is proportionate and respects your privacy rights and you have a right to object to processing as explained in the Legal Rights section below; and/or 
+  * we need to use your personal data to comply with a relevant legal or regulatory obligation that we have; and/or
+  * We have your consent to using your personal data for a particular activity. 
+
+
+
+In particular:
+
+**What we use your information for**
+
+| **Legal basis for using personal data** | 
+
+**Legitimate interests legal basis**  
   
-We may use "clear GIFs” (aka "Web beacons” or "pixel tags”) or similar technologies, in our Site and/or in our communications with you to enable us to know whether you have visited a web page or received a message. A clear GIF is typically a one-pixel, transparent image (although it can be a visible image as well), located on a web page or in an e-mail that communicates to us whether you viewed an email that we sent you or visited a certain page on our Site. A clear GIF may enable us to relate your viewing or receipt of a web page or message to other information we hold about you.
+---|---|---  
+  
+To consider and respond to queries that you submit using the "contact us" section of our Site
 
-Our server automatically collects data about your server’s internet address when you visit us. This information, known as an Internet Protocol address, or IP Address, is a number that’s automatically assigned to your computer by your internet service provider whenever you’re on the internet. When you request pages from our Site, our servers may log your IP Address and sometimes your domain name. Our server may also record the referring page that linked you to us (e.g., another website or a search engine); the pages you visit on our Site; the website you visit after our Site; the ads you see and/or click on; other information about the type of web browser, computer, platform, related software and settings you are using; any search terms you have entered on our Site or a referral site; and other web usage activity and data logged by our web servers. We use this information for internal system administration, to help diagnose problems with our server, and to administer our Site. Such information may also be used to gather broad demographic information, such as country of origin and internet service provider. Any or all of activities with regard to our Site usage information may be performed on our behalf by our services providers.
+| Legitimate interests | The management of our business.   
+To allow you to post comments on our Site | Legitimate interests | 
 
-## WHERE WE STORE YOUR PERSONAL DATA
+The management of our business.   
+  
+To send you subscriber alerts
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA") and your country for the purposes outlined in this Privacy and Cookie Policy. It may also be processed by staff operating outside the EEA and your country who work for us or for one of our service providers for the purposes outlined in this Privacy and Cookie Policy.
+| Consent | Not applicable  
+  
+To manage our Site and improve your user experience
 
-More specifically, we may transfer your data to: 
+| Legitimate interests | 
 
-  * [your local Anglo American entity for the purpose of managing our and their relationship with you and for the purposes outline in this Privacy and Cookie Policy]
+To ensure the effective operation of our Site.
 
+To ensure that content from our Site is presented in the most effective manner for you and for your computer. 
 
+If you review or download information on our Site, we track the visit to give us information about which part of the site is frequented.  
+  
+If you would like to find out more about the legal basis for which we process personal data please contact us.
 
-By submitting your personal data, you agree to this transfer, storing or processing of your personal data worldwide on our corporate systems, to other affiliates within the Anglo American group, and/or agents, subcontractors or service providers of the Anglo American group for the abovementioned purposes. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy and Cookie Policy.
+## COOKIES 
 
-## SECURITY
+A cookie is a small text file containing small amounts of information which is downloaded to / stored on your computer (or other internet enabled devices, such as a smartphone or tablet) when you visit a website. 
 
-Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+Cookies help us remember information about your visit to our Site, like your country, language and other settings. They can also help us to operate our Site more efficiently and make your next visit easier. Cookies can allow us to do various other things, as explained further in our Cookie Policy which you can access by clicking on the link below. 
 
-While we have implemented reasonable technical and organisational precautions to protect the security and integrity of personal data provided to our Site, due to the inherent nature of the internet as an open global communications vehicle, we cannot guarantee that information, during transmission through the internet or while stored on our system or otherwise in our care, will be absolutely safe from intrusion by others, such as hackers. We maintain physical, electronic and procedural safeguards to protect your Personal Data.
+For more information about how our cookies work and information about how to manage your cookie settings please visit our [Cookie Policy](https://web.archive.org/site-services/cookie-policy).
 
-You agree to (a) immediately notify us of any unauthorised use of your password or account or any other breach of security, and (b) ensure that you exit from your account at the end of each session. It is your responsibility to control the dissemination and use of your password, control access to and use of your account, and notify us when you desire to cancel your account on this Site. We are not responsible or liable for any loss or damage arising from your failure to comply with this provision.
+## SHARING PERSONAL DATA OTHERS 
 
-We will not be liable for disclosure of your information due to errors or unauthorised acts of third parties during or after transmission.
+In this section you can find out more about how we share personal data:
 
-We recommend that you change your password every three months. If you are using a public computer (e.g. at a library), or a shared computer, we urge you to log out of your account and our Site altogether, and quit the browser application before you leave the computer. This will help prevent others from accessing your account and any personal information.
-
-In the unlikely event that we believe that the security of your personal information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavour to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail. You hereby consent to our use of e-mail as a means of such notification.
-
-## USES MADE OF YOUR PERSONAL DATA
-
-We use information held about you in the following ways:
-
-  * To ensure that content from our Site is presented in the most effective manner for you and for your computer. 
-  * To carry out our obligations arising from any contracts entered into between you and us.
-  * To allow you to participate in interactive features of our service, when you choose to do so.
-  * To notify you about changes to our service. 
-  * If you review or download information on our Site, we track the visit to give us information about which part of the site is frequented.
-  * To send you notices (for example, in the form of e-mails, SMS, mailings, and the like), and otherwise correspond with you, about products, services, companies and events, sponsored by us and others, that We think might interest you, where you have consented to be contacted for such purposes.
-
-
-
-Your personal information may be retained, processed and used (by us and our service providers) for as long as necessary and in locations that we consider appropriate for the purposes identified in this Privacy Policy. 
-
-## SERVICE PROVIDERS
-
-We may use third-party partners to help operate our Site and deliver our products and services, and may share your information with our affiliates, service providers, recruitment companies and other third parties that provide products or services for or through this Site or for our business (such as website or database hosting companies, address list hosting companies, e-mail service providers, analytics companies, distribution companies, fulfilment companies, and other similar service providers that use such information on our behalf). Specifically we may use:
-
-  * Page Up People to assist with the provision of recruitment services on our Site; and
-  * Xcitec to assist with the provision of supplier related content and services on our Site.
+  * within Company 
+  * with third parties that help us provide our products and services; and
+  * government organisations and agencies, law enforcement and regulators 
 
 
 
-We may disclose aggregate statistics regarding user behaviour as a measure of interest in, and use of, our Site and e-mails to third parties in the form of aggregate data, such as overall patterns or demographic reports that do not describe or identify any individual user.
+We share your personal data in the manner and for the purposes described below:
 
-## DISCLOSURE OF YOUR INFORMATION
-
-Your privacy is important to us. We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries for the purposes identified in this Privacy and Cookie Policy.
-
-We may also use your personal information to maintain our internal record keeping and/or share it with our affiliates for internal marketing or other purposes.
-
-We may disclose your personal information to third parties:
-
-  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * If Anglo American plc or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Terms and Conditions and other agreements; or to protect the rights, property, or safety of Anglo American plc, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * within the Group, where such disclosure is necessary to provide you with our products or services or to manage our business;
+  * with Investis, who operate our Site and manage subscriber alerts on behalf of the Company;
+  * with Page Up People to assist with the provision of recruitment services on our Site (please see the applicable privacy notice); and
+  * Emptoris to assist with the provision of supplier related content and services on our Site;
+  * with other third parties who help manage our business and deliver services; 
+  * with government organisations and agencies, law enforcement, regulators, which may include the Information Commissioner's Office, to comply with all applicable laws, regulations and rules, and requests of law enforcement, regulatory and other governmental agencies; and
+  * we may share in aggregate, statistical form, non‑personal data regarding the visitors to our Site, traffic patterns, and website usage with our partners, affiliates or advertisers.
 
 
 
-We may disclose user information to government authorities, and to other third parties when compelled to do so by government and law enforcement authorities or otherwise as required or permitted by law, including but not limited to in response to court orders and subpoenas. We also may disclose user information when we have reason to believe that someone is causing injury to or interference with our rights or property, other users of our Site, or anyone else that could be harmed by such activities. Additionally, we cooperate with law enforcement inquiries and other third parties to enforce laws, intellectual property rights and other rights.
+Where appropriate, the third parties set out above have agreed to confidentiality restrictions and use any personal data we share with them or which they collect on our behalf solely for the purpose of providing the contracted service to us. 
 
-## MARKETING
+If, in the future, we sell or transfer some or all of our business or assets to a third party, we may disclose information to a potential or actual third party purchaser of our business or assets.
 
-We may permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and they may contact you about these by post, telephone or electronic means. Where we permit selected third parties to use your data, they will contact you by electronic means only if you have consented to this. 
+## EXPLAINING MORE ABOUT DIRECT MARKETING 
 
-You have the right to ask us not to process your personal data for marketing purposes. In accordance with local laws, we will seek your permission (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.
+In this section you can find out more about
 
-You have the right to "opt in” and "opt out” of certain uses of your personal data. For example, at the time you are requested to provide personal information on the Site, you may have the opportunity to elect to, or not to (1) receive correspondence from us, or (2) have your personal information shared with other entities for their marketing purposes.
+  * how we use personal data to keep you up to date with our products and services.
+  * how you can manage your marketing preferences
 
-Please understand that if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us. Also, a request to have us stop sharing your personal information with other entities for marketing purposes will only apply as of the date of your request, and we will not be responsible for any communications that you may receive from entities that received your personal information prior to such request. In these cases, please contact that entity directly. You can also exercise the right at any time by contacting us at [corporateaffairs@angloamerican.com](mailto:corporateaffairs@angloamerican.com)[](mailto:CorporateAffairs3@angloamerican.com)
 
-Our Site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies or Content contained on this Site. Please check these policies before you submit any personal data to these websites.
 
-## ACCESS TO INFORMATION
+**How we use personal data to keep you up to date with our products and services**
 
-Subject to your local laws, you may have the right to access all the personal information we hold about you (which may include a right to correct any inaccuracies or request deletion or object to the processing of your information). If you wish to exercise your rights in relation to your personal data which is held by us, please contact [corporateaffairs@angloamerican.com](mailto:corporateaffairs@angloamerican.com)[](mailto:corporateaffairs@angloamerican.com). We may require verification of your identity before providing a copy of your information as permitted by law.
+If you sign up to our subscriber alerts, we will use your personal data to let you know about our products and services that we believe will be of interest to you. We will do so by email. We will respect your preferences for how you would like us to manage marketing activity with you. 
 
-## PUBLIC AND INTERACTIVE AREAS OF OUR SITE
+**How you can manage your marketing preferences**
 
-Personal data that you post on or through the public areas of our Site, such as posting comments on our blog, are generally accessible to, and may be collected and used by, others and may result in unsolicited messages or other contact from others. You should not provide Personal Data about yourself in public or interactive areas of our Site. Such Personal Data is not covered under this Privacy Policy.
+To protect privacy rights and to ensure you have control over how we manage marketing with you:
 
-## MINORS
+  * we will take steps to limit direct marketing to a reasonable and proportionate level and only send you communications which we believe may be of interest or relevance to you; 
+  * you can ask us to stop direct marketing at any time ‑ you can ask us to stop sending email marketing, by following the "unsubscribe" link you will find on all the email marketing messages we send you. Alternatively you can contact us. Please specify whether you would like us to stop all forms of marketing or just a particular type; and 
+  * you can change the way your browser manages cookies, which may be used to deliver online advertising, by following the settings on your browser as explained in the section on Cookies.
 
-We are keen to protect the personal data of those under the age of 18. If you are under the age of 18, you should have the permission of your parent or legal guardian before providing any personal information to us.
 
-## CHANGES TO OUR PRIVACY POLICY
 
-Any changes we may make to our Privacy and Cookie Policy in the future will be posted on this page and will be effective upon posting. Your continued use of our Sites after any such changes are posted will be considered acceptance by you of such changes. Under certain circumstances, we may also elect to have such changes notified to you by e-mail or by posting a notice on the front page of our Site. You should regularly check back to this page from time to time.
+We recommend you routinely review the privacy notices and preference settings that are available to you on any social media platforms as well as your preferences within your account with us.
 
-## CONTACT
+## TRANSFERRING PERSONAL DATA GLOBALLY 
 
-Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to [corporateaffairs@angloamerican.com](mailto:corporateaffairs@angloamerican.com).
+In this section you can find out more about:
 
-If you believe we have breached your privacy, you may lodge a complaint with us at [corporateaffairs@angloamerican.com](mailto:corporateaffairs@angloamerican.com). When you contact us, please include your name, postal address, email address and telephone number and details of your complaint. We will respond to your complaint as soon as reasonably practicable, and will let you know whether we accept your complaint, whether we need any further information from you and the next steps in resolving your complaint.
+  * how we operate as a global business and transfer data internationally. 
+  * the arrangements we have in place to protect your personal data if we transfer it overseas.
+
+
+
+We operate on a global basis. Accordingly, your personal data may be transferred and stored in countries outside the EU, including to any of our locations, as shown [here](http://www.angloamerican.com/about-us/where-we-operate#/projects-operations-offices-headquarters/diamonds-copper-platinum-coal-iron-nickel), that are subject to different standards of data protection.
+
+We will take appropriate steps ensure that transfers of personal data are in accordance with applicable law and carefully managed to protect your privacy rights and interests and transfers are limited to countries which are recognised as providing an adequate level of legal protection or where we can be satisfied that alternative arrangement are in place to protect your privacy rights. To this end:
+
+  * we ensure transfers within the Groupwill be covered by an agreement entered into by members of the Group which contractually obliges each member to ensure that personal data receives an adequate and consistent level of protection wherever it is transferred within the Group;
+  * where we transfer your personal data outside the Group or to third parties who help provide our products and services, we obtain contractual commitments from them to protect your personal data. Some of these assurances are well recognised certification schemes like the EU/ US Privacy Shield for the protection of personal data transferred from within the EU to the United States; or
+  * where we receive requests for information from law enforcement or regulators, we carefully validate these requests before any personal data are disclosed.
+
+
+
+You have a right to contact us for more information about the safeguards we have put in place (including a copy of relevant contractual commitments) to ensure the adequate protection of your personal data when this is transferred as mentioned above. 
+
+## HOW WE PROTECT AND STORE YOUR INFORMATION
+
+**Security**
+
+We have implemented and maintain appropriate technical and organisational security measures, policies and procedures designed to reduce the risk of accidental destruction or loss, or the unauthorised disclosure or access to such information appropriate to the nature of the information concerned. 
+
+**Storing your personal data**
+
+We will store your personal data for as long as is reasonably necessary for the purposes for which it was collected, as explained in this privacy notice. Where your information is no longer needed, we will ensure that it is disposed of in a secure manner. In some circumstances we may store your personal data for longer periods of time, for instance where we are required to do so in accordance with legal, regulatory, tax, accounting requirements.
+
+In specific circumstances we may store your personal data for longer periods of time so that we have an accurate record of your dealings with us in the event of any complaints or challenges, or if we reasonably believe there is a prospect of litigation relating to your personal data or dealings.
+
+## LEGAL RIGHTS AVAILABLE TO HELP MANAGE YOUR PRIVACY 
+
+Subject to certain exemptions, and in some cases dependent upon the processing activity we are undertaking, you have certain rights in relation to your personal data.
+
+**To access personal data**
+
+You have a right to request that we provide you with a copy of your personal data that we hold and you have the right to be informed of; (a) the source of your personal data; (b) the purposes, legal basis and methods of processing; (c) the data controller’s identity; and (d) the entities or categories of entities to whom your personal data may be transferred.
+
+**To rectify / erase personal data**
+
+You have a right to request that we rectify inaccurate personal data. We may seek to verify the accuracy of the personal data before rectifying it. 
+
+You can also request that we erase your personal data in limited circumstances where:
+
+  * it is no longer needed for the purposes for which it was collected; or
+  * you have withdrawn your consent (where the data processing was based on consent); or
+  * following a successful right to object (see right to object); or
+  * it has been processed unlawfully; or
+  * to comply with a legal obligation to which the Company is subject. 
+
+
+
+We are not required to comply with your request to erase personal data if the processing of your personal data is necessary: 
+
+  * for compliance with a legal obligation; or
+    * for the establishment, exercise or defence of legal claims
+
+
+
+**Right to restrict the processing of your personal data**
+
+You can ask us to restrict your personal data, but only where:
+
+  * its accuracy is contested, to allow us to verify its accuracy; or
+  * the processing is unlawful, but you do not want it erased; or
+  * it is no longer needed for the purposes for which it was collected, but we still need it to establish, exercise or defend legal claims; or
+  * you have exercised the right to object, and verification of overriding grounds is pending.
+
+
+
+We can continue to use your personal data following a request for restriction, where:
+
+  * we have your consent; or
+  * to establish, exercise or defend legal claims; or
+  * to protect the rights of another natural or legal person. 
+
+
+
+**Right to transfer your personal data**
+
+You can ask us to provide your personal data to you in a structured, commonly used, machine‑readable format, or you can ask to have it transferred directly to another data controller, but in each case only where:
+
+  * the processing is based on your consent or on the performance of a contract with you; and
+  * the processing is carried out by automated means. 
+
+
+
+**Right to object to the processing of your personal data**
+
+You can object to any processing of your personal data which has our legitimate interests as its legal basis, if you believe your fundamental rights and freedoms outweigh our legitimate interests. 
+
+If you raise an objection, we have an opportunity to demonstrate that we have compelling legitimate interests which override your rights and freedoms.
+
+**Right to object to how we use your personal data for direct marketing purposes**
+
+You can request that we change the manner in which we contact you for marketing purposes.
+
+You can request that we not transfer your personal data to unaffiliated third parties for the purposes of direct marketing or any other purposes.
+
+**Right to obtain a copy of personal data safeguards used for transfers outside your jurisdiction**
+
+You can ask to obtain a copy of, or reference to, the safeguards under which your personal data is transferred outside of the European Union. 
+
+We may redact data transfer agreements to protect commercial terms.
+
+**Right to lodge a complaint with your local supervisory authority**
+
+You have a right to lodge a complaint with your [local supervisory authority](http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080 "Opens in a new window") if you have concerns about how we are processing your personal data.
+
+We ask that you please attempt to resolve any issues with us first, although you have a right to contact your supervisory authority at any time.
+
+If you wish to access any of the above mentioned rights, we may ask you for additional information to confirm your identity and for security purposes, in particular before disclosing personal data to you. We reserve the right to charge a fee where permitted by law, for instance if your request is manifestly unfounded or excessive.
+
+You can exercise your rights by contacting us. Subject to legal and other permissible considerations, we will make every reasonable effort to honour your request promptly or inform you if we require further information in order to fulfil your request. 
+
+We may not always be able to fully address your request, for example if it would impact the duty of confidentiality we owe to others, or if we are legally entitled to deal with the request in a different way. 
+
+## CONTACT US 
+
+The primary point of contact for all issues arising from this privacy notice is our Data Protection Team. The Data Protection Team can be contacted in the following ways:
+
+Email: [dataprotection@angloamerican.com](mailto:dataprotection@angloamerican.com)
+
+Telephone: +44 (0)20 7968 8888
+
+Post: 20 Carlton House Terrace, London, SW1Y 5AN 
+
+If you have any questions, concerns or complaints regarding our compliance with this privacy notice, the information we hold about you or if you wish to exercise your rights, we encourage you to first contact our Data Protection Team. We will investigate and attempt to resolve complaints and disputes and make every reasonable effort to honour your wish to exercise your rights as quickly as possible and in any event, within the timescales provided by data protection laws.
+
+**To contact your data protection supervisory authority**
+
+You have a right to lodge a complaint with your local [data protection supervisory authority](http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080 "Opens in a new window") (i.e. the supervisory authority in your place of habitual residence, place or work or place of alleged infringement) at any time. We ask that you please attempt to resolve any issues with us before your local supervisory authority.
