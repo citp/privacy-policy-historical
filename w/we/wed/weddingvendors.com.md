@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingvendors.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519112520id_/http%3A//www.weddingvendors.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingvendors.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917134653id_/http%3A//www.weddingvendors.com/about/privacy) for the most accurate reproduction.*
 
 # WeddingVendors.com: Privacy Policy
 
@@ -37,6 +37,16 @@ We use cookies to store information about visitors preferences, record user-spec
 ### Third-Party Ad Serving
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [NAI](http://www.networkadvertising.org/managing/opt_out.asp "Network Advertising Initiative"). 
+
+#### Third-Party: Exponential
+
+Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via [privacy@exponential.com](mailto:privacy@exponential.com). 
+
+Exponential creates an anonymous, hashed ID, third-party tracking cookie in your browser from the domain tribalfusion.com that persists for three months, which you can opt out of at their [opt- out](http://exponential.com/privacy/opt-out/) page. 
+
+### Google and User Information
+
+You can obtain information for how Google manages data in its ad products at [this page](https://policies.google.com/technologies/partner-sites). This includes AdSense and DoubleClick for Publishers, which are both utilized on this website. 
 
 ### DoubleClick DART Cookie
 
