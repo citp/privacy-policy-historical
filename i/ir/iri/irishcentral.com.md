@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irishcentral.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626172805id_/https%3A//www.irishcentral.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishcentral.com privacy policy that was archived on 2018-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180918000947id_/https%3A//www.irishcentral.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | IrishCentral.com
 
@@ -118,7 +118,7 @@ Our website includes social media features, widgets and/or interactive mini-prog
 
 Please see the list below of the companies we currently work with along with a link to their privacy policy:
 
-  * AddThis <http://www.addthis.com/privacy/privacy-policy/>
+  * AddThis [http://www.addthis.com/privacy/privacy-policy/](https://www.addthis.com/privacy/privacy-policy/)
   * AdSense <https://policies.google.com/technologies/ads>
   * AppNexus <https://www.appnexus.com/en/company/platform-privacy-policy>
   * Disqus <https://help.disqus.com/terms-and-policies/disqus-privacy-policy>
