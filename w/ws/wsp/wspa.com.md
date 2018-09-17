@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wspa.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623041544id_/http%3A//www.wspa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wspa.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917053621id_/https%3A//www.wspa.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - WSPA
+# Privacy Policy for 7News WSPA
 
 **Updated: December 1, 2016**
 
@@ -78,7 +78,7 @@ Once you leave our Properties via such a link or by clicking on an advertisement
 
 In all of the above instances, our Privacy Policy will not apply to any information collected by these third parties. This collection of information is not under our control and such third party information practices may be different than ours.
 
-Further, these third parties may offer you a way to choose not to have your information used for interest-based advertising purposes (sometimes called online behavioral advertising). To opt-out and/or manage your preferences for interest-based advertising, please visit the Network Advertising Initiative Consumer Opt-Out Page at [http://www.aboutads.info/choices](http://www.aboutads.info/choices/), the Digital Advertising Alliance Consumer Choice Page at [http://www.aboutads.info/choices](http://www.aboutads.info/choices/), the European Interactive Digital Advertising Alliance online choice page at [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/), and the Digital Advertising Alliance of Canada online choice page at [http://www.youradchoices.ca](http://www.youradchoices.ca/). We adhere to the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising.
+Further, these third parties may offer you a way to choose not to have your information used for interest-based advertising purposes (sometimes called online behavioral advertising). To opt-out and/or manage your preferences for interest-based advertising, please visit the Network Advertising Initiative Consumer Opt-Out Page at [http://www.aboutads.info/choices](https://www.aboutads.info/choices/), the Digital Advertising Alliance Consumer Choice Page at [http://www.aboutads.info/choices](https://www.aboutads.info/choices/), the European Interactive Digital Advertising Alliance online choice page at [https://www.youronlinechoices.eu](https://www.youronlinechoices.eu/), and the Digital Advertising Alliance of Canada online choice page at [http://www.youradchoices.ca](https://www.youradchoices.ca/). We adhere to the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising.
 
 Please note that if you choose to opt out of having your information used to deliver advertisements tailored to your interests, you will continue to see advertisements on our Properties, but these advertisements may not be as relevant to you.
 
@@ -129,7 +129,7 @@ Additionally, if you are a California resident under the age of 18, and a regist
 
  **13\. Security of Information** We take reasonable security precautions to secure the Personal Information that you choose to provide against the loss, misuse, alteration or unauthorized access of such information. Unfortunately, no transmission of data over the Internet is guaranteed to be completely secure. It may be possible for third parties not under our control to intercept or access transmissions or private communications unlawfully. While we strive to protect your Personal Information, we cannot ensure or warrant the security of any Personal Information that you transmit to us. Any such transmission is done at your own risk.
 
-We do not and will not ever request your login information, password or credit card information in an unsecured or unsolicited email or telephone communication. This practice is commonly known as "phishing." For more information about "phishing" and protecting your Personal Information from identity theft, you may want to visit the Federal Trade Commission at [www.ftc.gov](http://www.ftc.gov/).
+We do not and will not ever request your login information, password or credit card information in an unsecured or unsolicited email or telephone communication. This practice is commonly known as "phishing." For more information about "phishing" and protecting your Personal Information from identity theft, you may want to visit the Federal Trade Commission at [www.ftc.gov](https://www.ftc.gov/).
 
  **14\. Our Commitment to Children's Privacy** Our Properties are intended for a general audience and we do not knowingly collect or store Personal Information about children under the age of 13. We may ask for a birth date to ensure that we are not collecting Personal Information from children under 13 or to identify when additional steps may need to be taken in connection with Personal Information collected from children under 18. In those instances where we have actual knowledge that we are collecting Personal Information from children or the Properties offer a service directed toward children, we will comply with applicable laws.
 
