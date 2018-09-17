@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donorschoose.org privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610153550id_/https%3A//www.donorschoose.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donorschoose.org privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917131910id_/https%3A//www.donorschoose.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
