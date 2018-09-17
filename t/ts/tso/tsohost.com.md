@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsohost.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625121126id_/https%3A//www.tsohost.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsohost.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917213341id_/https%3A//www.tsohost.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Legal
 
@@ -117,7 +117,7 @@ If you are unable for any reason to access your Account Settings or our [Privacy
 
 If you have any questions about the security or retention of your personal data, you can contact us at privacy@tsohost.com.
 
- **‘Do Not Track’  notifications.** Some browsers allow you to automatically notify websites you visit not to track you using a “Do Not Track” signal. There is no consensus among industry participants as to what “Do Not Track” means in this context. Like many websites and online services, we currently do not alter our practices when we receive a “Do Not Track” signal from a visitor’s browser. To find out more about “Do Not Track,” you may wish to visit [www.allaboutdnt.com.](https://web.archive.org/web/20180625121126id_/https%3A//www.tsohost.com/legal/www.allaboutdnt.com/)
+ **‘Do Not Track’  notifications.** Some browsers allow you to automatically notify websites you visit not to track you using a “Do Not Track” signal. There is no consensus among industry participants as to what “Do Not Track” means in this context. Like many websites and online services, we currently do not alter our practices when we receive a “Do Not Track” signal from a visitor’s browser. To find out more about “Do Not Track,” you may wish to visit [www.allaboutdnt.com.](https://web.archive.org/web/20180917213341id_/https%3A//www.tsohost.com/legal/www.allaboutdnt.com/)
 
  **Age restrictions.** Our Services are available for purchase only for those over the age of 16.  Our Services are not targeted to, intended to be consumed by or designed to entice individuals under the age of 16. If you know of or have reason to believe anyone under the age of 16 has provided us with any personal data, please contact us.
 
@@ -125,7 +125,7 @@ If you have any questions about the security or retention of your personal data,
 
  **Data Protection Authority.** Tsohost Limited is the data controller for www.tsohost.com and is registered on the Information Commissioner’s Office’s Register of Data Controllers under number ZA004806. You may direct questions or complaints in respect of how we handle your Personal Data to the Information Commissioner’s Office. 
 
-[www.ico.org.uk](https://web.archive.org/web/20180625121126id_/https%3A//www.tsohost.com/legal/www.ico.org.uk)
+[www.ico.org.uk](https://web.archive.org/web/20180917213341id_/https%3A//www.tsohost.com/legal/www.ico.org.uk)
 
 Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF Phone: 0303 123 1113
 
