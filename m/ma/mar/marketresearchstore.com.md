@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketresearchstore.com privacy policy that was archived on 2018-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180425013753id_/http%3A//marketresearchstore.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketresearchstore.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917202046id_/https%3A//www.marketresearchstore.com/privacy-statement) for the most accurate reproduction.*
 
 # Market Research Store Privacy Statement
 
