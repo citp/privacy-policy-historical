@@ -1,76 +1,80 @@
-> *The following text is extracted and transformed from the britaxusa.com privacy policy that was archived on 2012-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121008004039id_/http%3A//www.britaxusa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britaxusa.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917151103id_/https%3A//us.britax.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Britax USA
+# Britax Privacy Policy
 
-**Our Commitment to You**
+Britax Child Safety, Inc.("Britax") is committed to protecting your privacy. Britax will preserve any personal information that you provide to us. We have updated our privacy policy, which explains what Personal Data Britax collects from you, how that data is used or shared, and what choices you have in the process. Carefully review this Privacy Policy before continuing to access our website. By accessing our website, you consent to the terms of this Privacy Policy.
 
-Britax is committed to protecting your privacy online. We promise to preserve any personal information that you provide to us, and to make every reasonable effort to use this information only as you choose.
+#### Our use of cookies
 
-This document sets forth the Britax Child Safety, Inc. ("Britax") Privacy Policy for this website, www.britaxusa.com. Use of this Website signifies consent to this Privacy Policy. If you have objections to this Privacy Policy, do not use this Website. 
+Britax uses cookies and beacons on this website. Cookies are small files placed on your computer (or other device) when you visit our website. These small pieces of data are read each time you return to our website, which allows us to remember your device and how you browsed the site (e.g., remembering your name and password, rather than having to re-enter them). We also use cookies to analyze our website traffic, provide social media features, and personalize content and ads. In addition, our website uses third-party cookies or tracking technologies, like Google Analytics, which help us improve our website content and user experience. Google Analytics collects standard log information through your browser, as well as information about visitor behavior, in an anonymous form. Britax does not share information about you that Google Analytics or Google could recognize or access as Personal Data. Most Internet browsers are set to accept cookies by default. These settings can be changed so that cookies are not accepted at all, or a notification is given asking for your consent. If you do not wish to have cookies placed on your computer, please change your browser settings, although certain features of our website may not function properly without them. To opt-out of Google Analytics’ cookies, please [click here.](https://tools.google.com/dlpage/gaoptout)
 
-**Changes in Privacy Policy**
+#### What Personal Data we collect and why
 
-Britax reserves the right to revise its Privacy Policy at any time by updating this posting, and your use of this Website after such change signifies your acceptance of the changed terms. Periodically check these terms for revisions.
+If you simply browse Britax’s website, you may generally do so anonymously, without providing Personal Data. When you visit some parts of our website, we may ask you for Personal Data. For example, we ask for certain information when you join us on social media, participate in community forums, contact us with questions, or request support. You can also provide Personal Data to us directly, either through our website or separately (e.g., email correspondence). Pursuant to regulatory obligations, Britax will use Personal Data collected from your product registration to notify you in the event of a product recall or as otherwise permitted under federal law.
 
-**Your Personal Data**
+#### Your Personal Data may also be used to conduct business, such as:
 
-If you browse the Britax's Website you may on the whole do so anonymously without providing any personal information. However, there are cases in which we may ask you for personal data. Britax only uses your information to conduct business with you. Examples include:
+  * Log in / Account creation, with email verification
+  * Registration for Britax’s electronic newsletter
+  * Processing and fulfilling orders
+  * Use of financial, bank account, credit card or bank card information to process payments for orders
+  * Order and shipping confirmations
+  * Order follow-up
+  * Sharing stories and photos you send us, with your consent
+  * Replying to an email from you
+  * Communicating with you in other ways, such as by mail or telephone
+  * Communicating with you for other purposes, such as changes to our website or policies, security updates, marketing communications, technical support, or requests for feedback
 
-  * Product registration
-  * Processing, fulfilling, and follow-up on orders
-  * Answering your email
-  * Communicating with you
 
 
+Additionally, Britax occasionally conducts online surveys to better understand the needs and profiles of visitors to our website. Any customer who does not wish to receive marketing communications from us may opt out by (1) changing their email preferences, or (2) clicking the unsubscribe link at the bottom of this website or in Britax’s electronic newsletter.
 
-Additionally, we will occasionally conduct on-line surveys to better understand the needs and profile of our visitors. 
+#### Use of Personal Data when you order a Britax® product
 
-Unless otherwise indicated in this Privacy Policy, your personally identifiable information will not be rented, sold, or shared with any third party. Any information you give to Britax will be held with the utmost care, and will not be used in ways in which you have not consented.
+When you place an order for a Britax® product, we ask for your name, email address, mailing address, phone number, and a credit card number and expiration date. This Personal Data is required for orders to be processed and fulfilled, or to send an order or shipping confirmation. If necessary, Britax may provide select Personal Data to third-party shipping agents (e.g., your name, phone number, and delivery address) or financial institutions (such as credit card companies), if necessary, to order, pay for, or ship products or related services you’ve ordered from us. All Internet transactions with Britax are performed on a secure server that encrypts your credit card or bank account information to protect against access by unauthorized third parties. Your credit card or other financial information will not be stored on Britax servers.
 
-**Order Information**
+#### Information Britax does not use
 
-When you place an order for a Britax product, we need to know your name, email address, mailing address, and credit card number and expiration date. This personal information is necessary so that we can process and fulfill your order or send an order or shipping confirmation. Britax may provide your personal information to third party shipping agents or financial institutions (such as credit card companies), if necessary, to order, pay for or ship products or services that you have ordered. All Internet transactions with Britax are performed on a secure server that encrypts your credit card information to ensure that it is not read by unauthorized third parties. Your credit card information will not be stored on our servers.
+We do not track you across multiple devices. Unless otherwise provided in this Privacy Policy, your Personal Data will not be rented, sold, or shared with any third party.
 
-**Shared Information**
+#### What information we may share
 
-Britax Child Safety, Inc. may disclose user information in special cases, when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference (intentional or unintentional) with our property rights, other Britax website users, or anyone else that could be harmed by such activities. Britax may disclose your personal information without your consent, in Britax's good faith judgment, to comply with laws or regulations of a governmental or regulatory body, or in response to a valid subpoena, warrant, or court order, or to protect the rights of Britax or others.
+Britax may disclose user information, including Personal Data, in special cases, when it has reason to believe that disclosure is necessary, such as: to identify, contact or facilitate legal action; to comply with laws, regulations, or obligations of a governmental or regulatory body; to facilitate the sale or transfer of any part of its business or assets, or the merger or acquisition by another entity; and to protect the rights of Britax or others.
 
-Britax reserves the right to transfer your personal information in connection with the sale or transfer of all of our business or assets to another entity, or is acquired by, or merged with, another entity. Britax may provide to such entity customer and personal information that is related to that part of our business that was sold to or merged with the other entity without your consent.
+#### Retention of your information or Personal Data
 
-Policies for Children
+The length of time we keep your Personal Data depends on what it is and whether we have an ongoing business need to retain it, such as to comply with applicable legal, tax, or accounting requirements. We’ll retain the Personal Data you’ve provided to us for as long as we have a relationship with you and for a period of time afterwards when we have an ongoing business need to retain it, consistent with our data retention policy and other practices. After that time, it will be deleted or anonymized.
 
-Britax Child Safety, Inc. does not knowingly collect or use information from our guests under 13 years of age or provide any personally identifying information from such guests to any third party for any reason. 
+#### Browser Information
 
-Britax urges parents and caregivers to spend time with their children online and to participate in their activities and interests. 
+Britax analyzes its website logs to constantly improve the value of the materials available on this website. Website logs are not personally identifiable, and Britax makes no attempt to link them with the individuals who actually browse our website.
 
-**Browser Information**
+#### Linked Sites
 
-Britax Child Safety, Inc. analyzes our website logs to constantly improve the value of the materials available on this website. Our website logs are not personally identifiable, and we make no attempt to link them with the individuals that actually browse the site.
+Britax’s website may contain links to and from third-party and/or affiliates websites managed by persons, organizations or entities not controlled by Britax. A link from this website to any other site does not imply that Britax endorses or approves of other websites and or their content. These links are provided for reference and convenience when researching related products and/or activities, and Britax encourages you to review the privacy practices of those websites.
 
-**Use of Cookies**
+#### Site Security
 
-This site may use "cookies" to store information or recognize your computer when it is logging onto our company's website. Cookies may also be used to provide additional features and benefits to you in the future. If for any reason you may wish to not take advantage of cookies, you may have your browser not accept them, although this may disable some of the features on our site.
+We’re committed to protecting your Personal Data, including electronically stored data outside the U.S. When it comes to your Personal Data, security is a priority for us; however, as we all recognize, no website can be 100% secure. Any Personal Data you provide to Britax will be retained and stored with care, consistent with applicable security polices and regulations. This website uses encryption technology for the transmission of electronically stored data, with a focus on sensitive financial information.
 
-**Linked Sites**
+#### Changes to this Privacy Policy
 
-The Britax Child Safety, Inc. website may contain links to and from third-party websites. The linked sites are not under the control of Britax. Britax encourages you to find out the privacy practices of those websites.
+Britax periodically reviews its Privacy Policy and makes revisions from time to time. Please check back with us to stay informed about revisions to this Policy.
 
-**Site Security**
+#### Disclaimers
 
-Britax Child Safety, Inc. makes every effort to safeguard information transmitted between visitors and the Site and information stored on our servers. This site uses Secure Socket Layers encryption for the transmission of data to our servers during member sign in and order check out.
+**Britax uses reasonable efforts to ensure the accuracy and reliability of this website’s content, but we make no representations or warranties about the content's accuracy, correctness or reliability. Britax is not responsible for any damages arising out of your use of, your inability to use, security issues, or other issues with the performance of this website or its content to the extent permitted by applicable law.**
 
-**Contact Information:**
+#### Contact Information
 
-If you have questions or concerns about your privacy when using the Britax website, contact us by email at [privacy@britax.com](mailto:privacy@britax.com), or by mail at:
+If you have questions or concerns about the privacy of your Personal Data when using the Britax website, please contact us by email at [website@britax.com](mailto:website@britax.com), or by mail at:
 
-Britax Child Safety, Inc.
-
-Online Privacy Policy
-
-13501 South Ridge Drive
-
-Charlotte, North Carolina 28273
-
+Britax Child Safety, Inc.  
+Online Privacy Policy  
+4140 Pleasant Road  
+Fort Mill, SC 29708  
 USA
 
-Questions about products should not be directed to the above email address. All such questions or requests will not be answered. 
+#### Key Terms
+
+“Britax” refers to Britax Child Safety, Inc., a US-based company located in Fort Mill, South Carolina that manufactures and distributes Britax® products. This Privacy Policy does not apply to non-US affiliates. Always refer to the applicable privacy policy of the region in which you reside. “Personal Data” means identifiable information about you; specifically, your name, address, phone number, date of birth, email address, user name and password, products you may have purchased, product registration, support queries, comments on community forums, personally identifiable information you share with us on social media, and any medical information that you may share with us. Personal Data also includes financial and bank account numbers, credit or bank card information, and unique identifiers, such as a government-issued Social Security number, driver’s license number, and passport number.
