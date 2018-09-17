@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the webmenu.com privacy policy that was archived on 2016-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160815032222id_/http%3A//www.webmenu.com/docs/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmenu.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917083316id_/http%3A//www.webmenu.com/docs/privacy/index.html) for the most accurate reproduction.*
 
 # WebMenu.com : Docs > Privacy Policy
 
-**PRIVACY** Updated 12/26/2015
+**PRIVACY** Updated 03/08/2018
 
 At WebMenu.com we recognize that privacy is important. This Privacy Policy applies to all of the products, services and websites offered by WebMenu.com LLC. or its subsidiaries or affiliated companies collectively, WebMenu.com 's "services." In addition, where more detailed information is needed to explain our privacy practices, we post supplementary privacy notices to describe how particular services process personal information. These notices can be found in the WebMenu.com Privacy Information. 
 
@@ -10,10 +10,10 @@ WebMenu.com adheres to the US Safe Harbor Privacy Principles of Notice, Choice, 
 
 If you have any questions about this Privacy Policy, please feel free to contact us through our website or write to us at 
 
-**WebMenu.com LLC.**
-
-Kailua, Hawaii 96734 USA   
-Studio City, California USA
+**WebMenu.com LLC.**   
+Kailua HI 96734   
+855.932.6368  
+[support@webmenu.com](mailto:support@webmenu.com)
 
 I **nformation we collect and how we use it**
 
@@ -85,10 +85,10 @@ Enforcement
 
 WebMenu.com regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or WebMenu.com 's treatment of personal information by contacting us through this web site or by writing to us at 
 
-**WebMenu.com LLC.**
-
+**WebMenu.com LLC.**   
 Kailua, Hawaii 96734 USA   
-Studio City, California USA
+855.932.6368  
+[support@webmenu.com](mailto:support@webmenu.com)
 
 When we receive formal written complaints at this address, it is WebMenu.com 's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between WebMenu.com and an individual.  
 Changes to this Privacy Policy
@@ -97,11 +97,9 @@ Please note that this Privacy Policy may change from time to time. We will not r
 
 If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through this web site or at 
 
-**WebMenu.com LLC.**
-
+**WebMenu.com LLC.**  
 Kailua, Hawaii 96734 USA   
-Studio City, California USA
+855.932.6368  
+[support@webmenu.com](mailto:support@webmenu.com)
 
-[Call Now WebRTC](https://comm.comm3cx.emergevoip.com/webrtc/493689)
-
-  © 2016 WebMenu.com all rights reserved.
+  © 2018 WebMenu.com all rights reserved.
