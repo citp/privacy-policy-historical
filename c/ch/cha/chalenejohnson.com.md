@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chalenejohnson.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514065221id_/http%3A//www.chalenejohnson.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chalenejohnson.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917061029id_/http%3A//www.chalenejohnson.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Chalene Johnson Official Site
 
@@ -16,16 +16,10 @@ Any of the information we collect from you may be used in one of the following w
 (your information helps us to better respond to your individual needs)
   * To improve customer service  
 (your information helps us to more effectively respond to your customer service requests and support needs)
-  * To process transactions  
+  * To process transactions – Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+  * To send periodic emails – The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
-
-  * To send periodic emails
-
-
-
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
 **How do we protect your information?**
 
@@ -61,7 +55,7 @@ This online privacy policy applies only to information collected through our web
 
 **Your Consent**
 
-By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our online privacy policy.
 
 **Changes to our Privacy Policy**
 
@@ -71,8 +65,11 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.chalenejohnson.com  
-65 Enterprise Suite #345  
-Aliso Viejo, California 92565  
+> [Home](http://www.chalenejohnson.com/)
+
+  
+28241 Crown Valley Parkway  
+Suite F #178  
+Laguna Niguel, California 92677  
 United States  
-operations@chalenejohnson.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
