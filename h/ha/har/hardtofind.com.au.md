@@ -1,57 +1,73 @@
-> *The following text is extracted and transformed from the hardtofind.com.au privacy policy that was archived on 2018-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180409183618id_/https%3A//www.hardtofind.com.au/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardtofind.com.au privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917113307id_/https%3A//www.hardtofind.com.au/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | hardtofind.
 
-In this privacy policy, "we", "us" and "our" means Hardtofind Pty Limited (ABN 13 132 954 039) of Suite 2.27, 100 Collins Street, Alexandria NSW 2015
+## 1 INTRODUCTION
 
-_Background_
+Our website shopping platform displays products available from independent sellers (“Sellers”). We act as their agent and receive payments on their behalf.
 
-Our website shopping platform displays products available from various sellers (“Sellers”). We act as the agent of Sellers and receive payments on their behalf. This means we may collect personal information from you in two different circumstances. Firstly, we may collect information relating to your use of our website. Secondly, we may collect information relating to your purchase of products from Sellers.
+We and our Australian Sellers are bound by the Australian Privacy Principles. To the best of our ability, we and our Sellers also comply with privacy laws in jurisdictions where Sellers or their customers are located, including the EU General Data Privacy Regulation (GDPR). 
 
-_What personal information do we collect?_
+Our policy in relation to the collection, use, storage, access, rectification, transfer and deletion of personal information is set out here and in our [Cookie Policy](https://www.hardtofind.com.au/page/cookie_policy).
 
-If you choose to contact us, we will collect your contact details and any other information you choose to provide. Our website server automatically collects navigational data, including the type of browser you are using, your IP address, the URL you have come from, and the time you spent on our site, your domain type and server. This kind of information is collected by almost all commercial websites, using cookies. Our cookies do not capture or track any personal information. You may elect to set your computer so that cookies are not placed on your browser. 
+In these policy statements, "we", "us" and "our" means Hard To Find Pty Limited (ABN 1313295039) of Suite 2.27, 100 Collins Street, Alexandria NSW 2015, Australia. We are the controller of personal information collected on our website.
 
-We collect information from you on behalf of Sellers when you order products on our website. This may include information relating to your order and other information you may choose to provide (e.g. when using the “contact the Seller” section). 
+## 2 PERSONAL INFORMATION WE COLLECT AND USE – WHAT, WHEN, HOW AND WHY
 
-_Collection of information generally_
+This section provides details of what personal information we collect on our website, when and how we collect it, why we need it and how we use it.
 
-If we do ask you for information, we will endeavour to say which information we require and which information is optional. 
+  1. **Sign-up**. We invite every new visitor on our website to subscribe to our e-mail list in order to receive information on products and special offers available from our Sellers. This is totally optional; visitors can continue to browse our site without subscribing. The only information we collect on sign-up is your email address. See also (g) below.
+  2. **Account opening, shipping and billing details**. The first time you choose a product to purchase on our website and proceed to Checkout, you will be invited to establish a Hardtofind account by providing your email address and a password. You will also be requested to provide the shipping details for the order – the recipient’s name, address, and phone number – and your billing contact details (your name, address and phone number, if different from the shipping details). We collect this information so we can arrange fulfillment of your order and communicate with you if we encounter problems in doing so. We store this information so you will not have to re-enter it for future purchases on our site, and for the purposes outlined in (d) and (g) below.
+  3. **Checkout**. If you choose to continue with Checkout, you will be offered a choice of three secure payment options – credit card, PayPal and zipPay. Our credit facility is provided by a PayPal service called Braintree. PayPal and zipPay will require your credit card or direct debit details. PayPal offers an option to securely save your credit card details in the PayPal/Braintree system. If you do this, PayPal will send a small piece of software code that enables us to reference your stored card so you will not need to re-enter all the details the next time you shop on our site. We do not store your card details in our own system
+  4. **Purchase details**. We record your purchase details for tax and contractual purposes, and for the purposes outlined in (g) and (h) below
+  5. **Messaging**. We record transactional messages in connection with your purchase of a product and any messages between you and our Customer Service team. We engage the secure services of various unrelated companies to provide and manage these messaging channels, including Zendesk and Mandrill. They enable you to communicate with us about products on our site, the delivery of your orders and any questions or concerns you may have about your purchases.
+  6. **Wishlists, gift vouchers and other facilities**. We may also collect personal information in connection with Wishlists, Gift Vouchers or use of other facilities and services on our website. In each case, the what, when how and why of the information we collect will be obvious from the context.
+  7. **Direct marketing**. If you have signed up to receive our emails or purchased products on our website we may contact you directly by email, text messages or post to inform you about products and offers available on our website. Our email platform is securely hosted by MailChimp. We may use your personal information to form a view on what we think you might want or need, or what might be of interest to you. At the bottom of every promotional email you receive from us we provide a “click here” link that will allow you to determine how often you want to hear from us and to provide your gender and birth date. If you choose to provide these details we may send you special birthday offers. To “unsubscribe”, click the link at the end of messages you receive or [contact us](https://www.hardtofind.com.au/home/contact), selecting “Privacy” in the Enquiry Type menu.
+  8. **Information we obtain through cookies and similar tools**. We use cookies and technologies that perform functions similar to cookies to collect information. If you allow your browser to accept cookies, they will enable us to record the pages that you visit and the time you spend on them. We use this information to improve the performance of our website and make your browsing experience and the direct marketing communications you receive from us more relevant to your interests. Our [Cookie Policy](https://www.hardtofind.com.au/page/cookie_policy) provides additional detail on our use of these tools and how to manage cookies in your browser.
+  9. **Analytics**. We also record the type of browser you are using and your IP address. We use this and other information we collect to analyse, maintain and improve the performance of our website and ensure that our site design is compatible with your browser and location.
 
-You may choose not to provide us with any personal information. If you do so, however, you will not be able to purchase products from our Sellers and you may not be able to use some or all of this website. 
 
-_How is your personal information used by us?_
 
-We use your information to assist us in providing this website shopping platform and to enable Sellers to fulfil your purchase order. 
+## 3 OUR LEGAL BASIS FOR COLLECTING PERSONAL INFORMATION
 
-If you have “opted in” to receive our marketing and other communications, we may inform you of products available on our website and other matters. If you later decide you no longer wish to receive these communications you may “unsubscribe” using the link provided in our emails or by contacting our Privacy Officer (see contact details below). 
+We collect personal information on our website because it is necessary for (a) the formation of the contract of purchase and sale; (b) payment; and (c) in case we need to contact you in relation to your order or delivery details. We also collect personal information based on (d) your consent to our use of cookies; and (e) our commercial interest in marketing our services and in monitoring and improving the use and performance of our website.
 
-We may use your information for other purposes outlined at the time it is collected, or for purposes which can reasonably be inferred from the circumstances in which the information is supplied. We may also keep and file information. 
+## 4 INTEGRITY AND SECURITY OF PERSONAL INFORMATION
 
-_Will your personal information be given to anyone else?_
+We take reasonable steps to ensure that any personal information we collect is accurate, up-to-date, complete and relevant to our commercial interests. We take all reasonable steps to safeguard information held by us from unauthorised access, destruction, use, modification or disclosure. Our servers and IT systems are password protected and comply with security standards. The entities that provide our payment systems use secure socket layer technology (SSL) to encrypt credit card numbers and other critical data. Our paper files are stored in premises that are locked when unattended. 
 
-As noted above, we collect information on behalf of Sellers. We stipulate that they use such information only for the purposes of providing the products you order. 
+We collect order information as agent for our Sellers and pass it on to them. They are contractually obliged to use such information only for the purpose of providing products you order. 
 
-We may disclose information to third parties to whom we contract out specialised functions (e.g. technology service providers and electronic payment organisations). These services may be based in various countries. We take steps to ensure that all our contractors keep such information confidential and use it only to provide the services required by us. 
+We disclose information to independent entities that we engage to support our website, customer service and marketing. They include Google, Bing, Facebook, Stylight, Adroll, Criteo, Outbrain, Feefo, Hotjar, Newrelic, MailChimp and Vero. These entities are legally and contractually obliged to maintain the privacy and confidentiality of that information and to use it only to provide the services contracted by us. Their Privacy Policy and cookie information is available on their respective websites.
 
-Disclosures may also need to be made to law enforcement agencies, government agencies, courts or external advisors in accordance with legal requirements.
+If required by law, we may also provide information to government agencies and courts.
 
-_Access to and correction of your personal information_
+## 5 CROSS-BORDER TRANSFER OF PERSONAL INFORMATION
 
-You have a right to seek access to information we hold about you. We may charge you for the cost of providing such access. You also have a right to ask us to correct information that is inaccurate, incomplete or out of date.
+Our website database is hosted by Amazon Web Services on servers located in Australia and Singapore. Our Data Processing Agreement with AWS is GDPR-compliant.
 
-If you have any concerns or complaints about how we handle your personal information, or if you have any questions about this policy, please contact our Privacy Officer. If we fail to respond within 30 days or if you are dissatisfied with our response, you may make a complaint to the Office of the Australian Information Commissioner. 
+The AWS Privacy Policy is available on the AWS website. 
 
-_Is your personal information stored safely?_
+If you use our website to buy from a Seller in another country, your transaction will involve a cross-border transfer of your name, address and purchase information to the Seller. Our Sellers are bound by the privacy laws in the countries where they operate.
 
-We take reasonable steps to safeguard information held by us from unauthorised access, destruction, use, modification or disclosure. Our IT systems are password protected and comply with security standards. Paper files are stored in premises that are locked when unattended. 
+Independent entities that we engage to support of our website, customer service and marketing may also access information in our database and may provide all or part of their support from other countries that provide an adequate level of data protection.
 
-_Contacting our Privacy Officer_
+## 6 THE PERIOD FOR WHICH YOUR PERSONAL INFORMATION WILL BE STORED
 
-If you have any questions or comments about this privacy policy, or if you wish to complain about how we have handled personal information about you, please contact our Privacy Officer by [email](https://www.hardtofind.com.au/home/contact) or by mail at Suite 2.27, 100 Collins Street, Alexandria NSW 2015 
+We will retain information relating to purchases on our website for a period of 5 years, in accordance with the requirements of Australian tax law. We will retain any information relating to your browsing history on our website for so long as your account with us remains active or until you withdraw your consent to our use of this information, whichever first occurs.
 
-_Revisions to this privacy policy_
+## 7 YOUR PRIVACY RIGHTS AND HOW TO EXERCISE THEM
 
-We may revise this privacy policy from time to time. We will include a notice on this Website alerting you when any such revisions have been made. 
+If we have your personal information, you have various rights under the privacy law in Australia. You may also have rights under the law in your location if you are outside Australia. They may include a right to access, rectify and erase your information and a right to withdraw your consent to its use.
 
-_Revised 12 March 2014_
+To exercise your privacy rights, please [contact us](https://www.hardtofind.com.au/home/contact), selecting “Privacy” in the Enquiry Type menu. We will respond as soon as possible. In the unlikely event we are unable to resolve your concern within 30 days, you can proceed to lodge a complaint with [OAIC](https://www.oaic.gov.au/).
+
+If you are outside Australia, you may also be able to lodge a complaint at any time with the supervisory authority for privacy in your home state, province or country.
+
+You can edit and update your Wishlist and delete your stored credit card details via your account page.
+
+You can use the privacy settings in your web browser to block our cookies. We do not recommend you do this, for the reasons stated in our [Cookie Policy](https://www.hardtofind.com.au/page/cookie_policy).
+
+## 8 CHANGES TO THIS PRIVACY POLICY
+
+This policy is effective from 22 May 2018. Any changes will be posted on this page. If changes are significant, we may choose to notify you by email or to clearly indicate on our home page that the policy has been updated.
