@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomerblog.com privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901172025id_/http%3A//gomerblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomerblog.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917102341id_/https%3A//gomerblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GomerBlog
 
@@ -15,6 +15,12 @@ You can turn off the use of cookies at anytime by changing your specific browser
 We are not responsible for republished content from this blog on other blogs or websites without our permission.
 
 This Website contains links to other web sites operated by third parties that may be of interest to you. We cannot control these third party sites, which may collect personal information from you. When you follow a link and leave this Website, you do so at your own risk.
+
+DMD Healthcare Communications NetworkSM Privacy Statement  
+This digital service participates in the DMD Healthcare Communication  
+NetworkSM (the “Network”), and as such has implemented various technologies for universal registration/login among all Network member websites. These technologies are managed by DMD Marketing Corp. (“DMD”), and may involve the collection, receipt, and sharing of information with DMD, its clients and other Network members. If you would like to understand how this digital service’s participation in the Network affects your privacy, please click here:  
+http://usersupport.dmdconnects.com/PrivacyPolicy.htm  
+Please note that the Network registration/login system may be different from the registration/login used by this digital service for other products and services. To the extent that anything in this privacy policy conflicts with the policy for the Network technologies, the conflict will be resolved in favor of the policy applicable to the Network technologies.
 
 We do not have control over the privacy policies applied by any other party to whom you may disclose information. We are not responsible for their content or privacy policies. If you would like information on another party’s privacy policy, you should contact that party directly, and we encourage you to do so.
 
@@ -188,4 +194,4 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 
 ****and we will promptly remove you from **ALL** correspondence.****
 
-If there are any questions regarding this privacy policy, you may contact us using [the contact us page](http://gomerblog.com/contact-us-2/)
+If there are any questions regarding this privacy policy, you may contact us using [the contact us page](https://gomerblog.com/contact-us-2/)
