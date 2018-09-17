@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the checkster.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614121420id_/https%3A//www.checkster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkster.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917144550id_/https%3A//www.checkster.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Checkster
 
-**[English](https://www.checkster.com/privacy) | [Français](https://www.checkster.com/privacy-francais) | [Español](https://www.checkster.com/privacy-espanol) | [Nederlands |](https://www.checkster.com/privacybeleid-dutch) [Italiano](https://www.checkster.com/privacy-italian) | [日本語](https://www.checkster.com/privacy-japanese) | [한국어](https://www.checkster.com/privacy-korean) | [中文](https://web.archive.org/privacy-chinese)**
+**[English](https://www.checkster.com/privacy) | [Français](https://www.checkster.com/privacy-francais) | [Español](https://www.checkster.com/privacy-espanol) | [Nederlands |](https://www.checkster.com/privacybeleid-dutch) [Italiano](https://www.checkster.com/privacy-italian) | [日本語](https://www.checkster.com/privacy-japanese) | [한국어](https://www.checkster.com/privacy-korean) | [中文](https://web.archive.org/privacy-chinese)  **|  [Português](https://web.archive.org/privacy-portuguese)****
 
 **1\. Policy Statement**
 
@@ -116,7 +116,7 @@ Global Clients will either store their data in Europe or sign a Model Clause wit
 
 8.3 General Data Protection Regulation European Representative
 
-Pursuant to Article 27 of the General Data Protection Regulation (GDPR), Checkster Inc. has appointed European Data Protection Office (EDPO) as its GDPR representative in the EU. You can contact EDPO regarding matters pertaining to the GDPR by:
+Pursuant to Article 27 of the General Data Protection Regulation (GDPR), Checkster Inc. has appointed European Data Protection Office ([EDPO](https://www.smartcertificate.com/SmartCertificate/Default.aspx?OUzRIZdibcSGkmHiWcpbWL0TkPbVNB9Ee6iPHJvG3moWLgZsS9FlfuURGwlT4Q%2b9)) as its GDPR representative in the EU. You can contact EDPO regarding matters pertaining to the GDPR by:
 
   * Sending an email to [privacy@edpo.brussels](mailto:privacy@edpo.brussels)
   * Using EDPO’s online request form at <https://www.edpo.brussels/contact>
@@ -124,12 +124,18 @@ Pursuant to Article 27 of the General Data Protection Regulation (GDPR), Checkst
 
 
 
-In compliance with Article 37 of the GDPR, Checkster is working with CMS (Cameron McKenna Naborro Olswang LLP) Legal, a multinational law firm, for all matters regarding international data privacy. For any questions or concerns about Checkster’s personal data policies or practices, you may contact CMS, our appointed Data Protection Officer, at: 
+For the purpose of compliance with EU data protection laws our data protection officer is CMS Debacker:
 
-  * bruessel@cms-hs.com
-  * Address: Chaussée de la Hulpe 178, 1170 Brussels, Belgium
+CMS Debacker cvba/scrl  
+Tel      +32 2 743 69 00  
+Fax     +32 2 743 69 01  
+Mobile +32 497 535 225  
+[office@cms-db.com  
+](mailto:office@cms-db.com)Chaussée de la Hulpe 178  
+1170 Brussels  
+Belgium
 
-
+For any questions or concerns about Checkster’s Privacy Policy or about Checkster’s data handling practices, you may contact CMS Debacker.
 
 **9\. Cookies**
 
