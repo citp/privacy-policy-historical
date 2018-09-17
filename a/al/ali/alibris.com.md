@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the alibris.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709012919id_/https%3A//www.alibris.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alibris.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917122438id_/http%3A//www.alibris.com/policies/privacy) for the most accurate reproduction.*
 
 # Help Center Home - Help & Customer Service - Alibris
 
 | 
 
-(Last updated: June 28, 2012)
+(Last updated: May 24, 2018)
 
 **Your privacy matters to us**
 
 Welcome to Alibris, Inc. (Alibris). Because we are committed to protecting your privacy in all aspects of our business, we hope you will take the time to read this policy, which explains what information we collect from you and how we use and disclose that information. This Privacy Policy (" **Policy** ") is incorporated into and is subject to the Alibris [Terms of Use](https://web.archive.org/policies/terms) (" **Terms** "), and capitalized terms used but not defined in this Privacy Policy are defined in the Terms.
 
-Alibris operates web sites located at [www.alibris.com](http://www.alibris.com/), [www.alibris.co.uk](http://www.alibris.co.uk/), and at other locations on the internet, as well as other services including the online store, marketplace, community and any other features, content, or services we may offer from time to time (collectively, the " **Service** "). This Policy does not apply to the practices of companies that Alibris does not own or control, or to people that Alibris does not employ or manage. The collection and use of your information by third parties (such as on third party web sites and services that are linked to, reference, advertised, or otherwise made available to you through the Service, or other users of the Service, such as users who you transact with to buy and sell items) are governed by those parties' own policies. Before using such third party services or transacting with other users, you should familiarize yourself with their policies and practices with respect to the collection, use, and disclosure of personal information.
+Alibris operates web sites located at [www.alibris.com](https://www.alibris.com/), [www.alibris.co.uk](http://www.alibris.co.uk/), and at other locations on the internet, as well as other services including the online store, marketplace, community and any other features, content, or services we may offer from time to time (collectively, the " **Service** "). This Policy does not apply to the practices of companies that Alibris does not own or control, or to people that Alibris does not employ or manage. The collection and use of your information by third parties (such as on third party web sites and services that are linked to, reference, advertised, or otherwise made available to you through the Service, or other users of the Service, such as users who you transact with to buy and sell items) are governed by those parties' own policies. Before using such third party services or transacting with other users, you should familiarize yourself with their policies and practices with respect to the collection, use, and disclosure of personal information.
 
 **What information we collect from you**
 
