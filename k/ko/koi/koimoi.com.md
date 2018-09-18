@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the koimoi.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606062114id_/http%3A//www.koimoi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koimoi.com privacy policy that was archived on 2018-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180918171358id_/https%3A//www.koimoi.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Koimoi
+# Privacy Policy | Koimoi
 
 ### **General Principles**
 
@@ -110,5 +110,8 @@ To ensure that the security and integrity of our Services are safeguarded, we ma
 We may under certain circumstances procure an element of the Services from a third party service provider; for example we may use third party advertising companies to serve advertisements when you visit our Website. To the extent that it may be necessary, and solely for the purposes of providing the Service to you, you agree that we may disclose to such third party any of your Personal Information that may be necessary for the procurement of services from the third party. These companies may also use information (not including your name, address, email address or telephone number) about your visits to this and other Websites in order to provide advertisements about goods and services of interest to you. More information about this practice and your choices about not having this information used by these companies would be available with the respective third parties. Also, you can visit [http://www.networkadvertising.org/choices](http://www.networkadvertising.org/choices/) for information on how to opt-out of the use of such technologies for the delivery of more relevant advertising.
 
 Using the Google Ads Settings <https://www.google.com/settings/ads>, you can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads. You can also opt-out by downloading and installing the Google Analytics Opt-out Browser Add-on [https://tools.google.com/dlpage/gaoptout/ ](https://tools.google.com/dlpage/gaoptout/) for your web browser.
+
+Third parties, including Quora, may use cookies, web beacons, and other storage technologies to collect or receive information from your websites and elsewhere on the internet and use that information to provide measurement services and target ads.  
+You can opt-out of the collection and use of information for ad targeting by using to <http://www.aboutads.info/choices> and [Your Online Choices | EDAA](http://www.youronlinechoices.eu/)
 
 In addition to the general limitations in the above terms, we will not be liable to you or any other third party for any damages suffered by you or any other third party howsoever arising from the disclosure of your Personal Information. Your only remedy under such circumstances will be to end this agreement.
