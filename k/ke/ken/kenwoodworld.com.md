@@ -1,130 +1,149 @@
-> *The following text is extracted and transformed from the kenwoodworld.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121191707id_/http%3A//www.kenwoodworld.com/en-int/terms-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenwoodworld.com privacy policy that was archived on 2018-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180918031928id_/http%3A//www.kenwoodworld.com/en-int/terms-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kenwood International | Terms and Conditions
 
-We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. **  
-**
+**WHO WE ARE**
 
-The Kenwoodworld.com website uses cookies. By using our website and agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy.
+De’Longhi Group considers the protection of personal data of third parties, in its possession, as very important and is committed to protect the privacy of said third parties included, but not limited to, its customers, when carrying on its business, and it pays particular attention to the security and confidentiality of its customers’ personal data.
 
-**(1) What information do we collect?**
+This Privacy Statement applies to all personal data collected by De’Longhi Group (De’Longhi S.p.A., De’Longhi Appliances S.r.l. and its subsidiaries) from De’Longhi Group’s website and other sources, and describes how De’Longhi Group uses and protects the personal data.
 
-We may collect, store and use the following kinds of personal information:
+In accordance with article 13 of the GDPR 679/2016, we provide you with the following information.
 
-(a) information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation.
+**WHICH PERSONAL DATA MAY BE COLLECTED**
 
-(b) information that you provide to us for the purpose of registering with us.
+The following categories of personal data relating to you may be collected:
 
-(c) information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters.
+  * **Contact data**  – information on your name, place and date of birth, tax code, address, telephone number, mobile telephone number, email address;
+  * **Interests  **– information you have provided regarding areas that interest you, for example products you find interesting;
+  * **Other personal data**  – informations you have provided regarding your date of birth, education, professional situation;
+  * **Use of the website  **– information on how you use the website, how you open or forward our communications, including information acquired via cookies (see our Cookie Policy[ [here]](https://web.archive.org/terms-conditions/cookies-policy "Cookies Policy") which regulates the details).
 
-(d) any other information that you choose to send to us; and
 
-(e) other information.
 
-**(2) Cookies**
+**HOW WE COLLECT YOUR PERSONAL DATA**
 
-A cookie consists of a piece of text sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
+**De’Longhi**  collects and processes your personal data in the following circumstances:
 
-We use “session” cookies on this website. We will use the session cookies to: keep track of you whilst you navigate the website; and other uses.
+  * if you register on our website / download our App to use its functionalities;
+  * if you contact us to request after-sales assistance;
+  * if you respond to our marketing activities, for example when you complete a reply card or submit your data online on one of our websites;
+  * if other Group companies as well as our business partners provide data about you in a manner that is permitted.
 
-Session cookies will be deleted from your computer when you close your browser. Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.
 
-We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: http://www.google.com/privacypolicy.html.
 
-* * *
+If you provide personal data on behalf of someone else, you must first ensure they have read this Privacy Policy.
 
-**(3) Using your personal information**
+Kindly help us to keep your personal data up-to-date by informing us of any changes. Any change in address should be promptly communicated to De’Longhi in order to avoid problems in the use of our services.
 
-Personal information submitted to us via this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
+**FOR WHAT PURPOSES CAN YOUR PERSONAL DATA BE USED**
 
-We may use your personal information to:
+The processing of personal data must be justified by one of the legal basis established by existing data protection regulations, as described below.
 
-(a) administer the website;
+**a) Establishment and execution of contractual obligation and resulting obligations, including communications regarding services (for example to perform after-sales services)**
 
-(b) improve your browsing experience by personalising the website;
+De’Longhi may process your Contact data in order to establish and execute a contractual relationship, to provide services requested or to respond to reports or complaints.
 
-(c) send you general (non-marketing) commercial communications;
+De’Longhi may also use your contact details, particularly your email address, to provide you with information concerning the service.
 
-(d) send you email notifications which you have specifically requested;
+Legal bases for the processing: performance of a contract.
 
-(e) send to you our newsletter and other marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications)
+The provision of data is obligatory to enable us to manage the contractual relationship; in the absence of the data, we will be unable to put the contract into effect.
 
-(f) provide third parties with statistical information about our users – but this information will not be used to identify any individual user;
+**b) Operational management and strictly-related purposes, for access to the website, particularly secure areas**. ** **
 
-(g) deal with enquiries and complaints made by or about you relating to the website;
+De’Longhi collects your Contact data and Use of the website to allow you to access your Personal Area in order to: (i) download from your Personal Area any documents relating to services you have purchased; (ii) activate any other requests made via the website.
 
-and (h) other uses.
+Legal bases for the processing: performance of a contract.
 
-Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the licence you grant to us.
+The provision of data is obligatory to enable us to respond to your requests; in the absence of the data, we will be unable to proceed.
 
-We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.
+**c) Customer Satisfaction surveys ( _client to check)_**
 
-* * *
+De’Longhi may use your Contact data to carry out surveys aimed at measuring customer satisfaction in relation to the service provided.
 
-**(4) Disclosures**
+Legal bases for processing consent:  a failure to give consent in no way affects the contractual relationship.
 
-We may disclose information about you to any of our employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes as set out in this privacy policy.
+Your consent may be revoked at any time by writing to the following email address; [dpo.privacy@delonghigroup.com](mailto:dpo.privacy@delonghigroup.com).
 
-In addition, we may disclose your personal information:
+**d) Marketing to meet your needs or to inform you of promotions, also based on your preferences   _(we have also included profiled marketing)_**
 
-(a) to the extent that we are required to do so by law;
+De’Longhi may processes your Contact data for marketing and advertising purposes, to inform you of promotional sales initiatives via automated means of contact (email, SMS and other mass communication tools, etc.) and traditional contact methods (e.g. by telephone), such as for market research and statistical surveys, if you give us your consent and within the limits of the consent declaration
 
-(b) in connection with any legal proceedings or prospective legal proceedings;
+De’Longhi may also processes your Contact data, Interests and Other personal data, in order to send you advertising communication, based on a specific customer profile designed on your personal preferences and interests, if you give us a specific consent and within the limits of the consent
 
-(c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk);
+Legal bases for processing consent:  a failure to give consent in no way affects the contractual relationship. ** _ _**
 
-(d) to the purchaser (or prospective purchaser) of any business or asset that we are (or are contemplating) selling; and
+Your consent may be revoked at any time by writing at the following email; [dpo.privacy@delonghigroup.com](mailto:dpo.privacy@delonghigroup.com).
 
-(e) to any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information.
+**e) Compliance with legally-binding requests by the legal authorities to discharge obligations of law, regulations or provisions**
 
-Except as provided in this privacy policy, we will not provide your information to third parties.
+De Longhi collects your personal data to comply with legal obligations.
 
-* * *
+Legal bases for the processing: legal obligations with which the Company must comply.
 
-**(5) International data transfers**
+**HOW WE KEEP YOUR PERSONAL DATA SAFE**
 
-Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.
+The Company uses a wide range of security measures to improve protection and maintain the security, integrity and accessibility of your personal data.
 
-Information which you provide may be transferred to countries (including the United States, Japan, ( _other countries_ ) which do not have data protection laws equivalent to those in force in the European Economic Area.
+All your personal data are stored on our secure servers (or on secure paper copies) or on those of our suppliers or commercial partners, and may be accessed and used based on our standards and our security policies (or equivalent standards for our suppliers or commercial partners).
 
-In addition, personal information that you submit for publication on the website will be published on the internet and may be available, via the internet, around the world. We cannot prevent the use or misuse of such information by others.
+The security measures we have adopted include:
 
-You expressly agree to such transfers of personal information.
+  * severe restrictions on access to your personal data, based on necessity and solely for the purposes communicated;
+  * perimeter security systems to prevent unauthorised external access;
+  * permanent monitoring of access to IT systems to identify and stop the misuse of personal data;
+  * tracking of access to your personal data by internal personnel and verification of the related purpose;
+  * using encrypted means via Secure Socket Layer (SSL) technology for transactions on our website that require the entering of personal data.
 
-* * *
 
-**(6) Security of your personal information**
 
-We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
+Where we have provided you with (or you have chosen) a password to allow you to access our website, application or services, you are responsible for keeping this password secret and for complying with any other security procedure we inform you of. Please do not share your password with anyone.
 
-We will store all the personal information you provide on our secure (password- and firewall- protected) servers. All electronic transactions you make to or receive from us will be encrypted using SSL technology.
+**HOW LONG DO WE STORE YOUR INFORMATION FOR**
 
-Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
+We will keep your personal data only for the length of time necessary to achieve the purposes for which they were collected or for any other related and lawful purpose. Therefore, if your personal data are processed for two different purposes, we will keep the data until the lengthier purpose is achieved. However, we will cease to process the personal data collected for the purpose whose retention period has expired.
 
-* * *
+We limit access to your personal data to only those individuals who need to use them for the appropriate purposes.
 
-**(7) Policy amendments**
+When your personal data are no longer required, or when there is no longer any legal precondition for keeping them, they will be irreversibly anonymized (and in such a way may be stored) or securely destroyed.
 
-We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes.
+The retention periods relating to the different purposes described above are indicated to follow:
 
-We may also notify you of changes to our privacy policy by email.
+a) Compliance with contractual obligations: data processed to comply with any contractual obligation may be kept for the duration of the contract and in any case no longer than the subsequent 10 years, in order to verify any outstanding issues including accounting documents (e.g. invoices).
 
-* * *
+b) Operational management and strictly-related purposes for access to the website: data processed for these purposes may be kept for the duration of the contract and in any case no longer than the subsequent 10 years.
 
-**(8) Your rights**
+c) Customer Satisfaction surveys: data processed for these purposes may be kept for 24 months from the date on which you provided your consent for this purpose (except where you decline to receive further communications).
 
-You may instruct us to provide you with any personal information we hold about you. Provision of such information will be subject to:
+d) For marketing purposes, including profiled marketing: data processed for marketing purposes may be kept for 24 months from the date on which you provided your consent for this purpose (except where you decline to receive further communications); for profiled marketing purposes, data will be kept for 12 months.
 
-(a) the supply of appropriate evidence of your identity (for this purpose, we will usually accept a photocopy of your passport certified by a solicitor or bank plus an original copy of a utility bill showing your current address).
+e) In the event of disputes: should it be necessary for us to defend ourselves or take action or bring claims against you or third parties, we may keep the personal data we deem reasonably necessary for such purposes, for the length of time it takes to pursue the claim.
 
-We may withhold such personal information to the extent permitted by law.
+**WHO WE CAN SHARE YOUR PERSONAL DATA WITH**
 
-You may instruct us not to process your personal information for marketing purposes, by sending an email to us. In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal information for marketing purposes.
+Your personal data may be accessed by duly-authorised employees and by external suppliers, appointed, if necessary, as data processors, who support us in providing services.
 
-The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
+For the purposes of the performance of their activities and to follow up on the above mentioned purposes your personal data may also be accessed by other De Longhi Group companies.
 
-**(9) Updating information**
+**CONTACTS**
 
-Please let us know if the personal information which we hold about you needs to be corrected or updated.
+Should you have any questions regarding our processing of your personal data, kindly or contact us by: email [dpo.privacy@delonghigroup.com](mailto:dpo.privacy@delonghigroup.com) .  
 
-* * *
+For any questions or concerns regarding the present Privacy Statement you can also the De’Longhi Group web site of  your country and to be linked to the correct address or e-mail address to use.
+
+**YOUR PERSONAL DATA PROTECTION RIGHTS AND YOUR RIGHT TO FILE COMPLAINTS BEFORE THE SUPERVISORY AUTHORITIES**
+
+On certain conditions, you are entitled to request:
+
+  * access to your personal data,
+  * a copy of the personal data you have provided to us (‘portability’),
+  * the adjustment of data in our possession,
+  * the deletion of any data for which the legal precondition for processing no longer exists,
+  * to deny processing for direct marketing purposes,
+  * to revoke your consent, in cases where the processing is based on consent,
+  * to limit the way in which we process your personal data.
+
+
+
+The exercising of the above rights is subject to certain exceptions that are intended to safeguard the public interest (e.g. the prevention or identification of crimes) and our interests (e.g. maintaining professional secrecy). Should you wish to exercise any of the above rights, we will check that you are entitled to do so and will usually respond within one month.
