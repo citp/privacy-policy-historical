@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoiper.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190447id_/https%3A//www.zoiper.com/en/zoiper-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoiper.com privacy policy that was archived on 2018-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180918021017id_/https%3A//www.zoiper.com/en/zoiper-privacy-policy) for the most accurate reproduction.*
 
 # Zoiper Privacy Policy :: Zoiper
 
@@ -8,7 +8,7 @@ The present document outlines the rules for collection, storing and processing o
 
 For the purposes of this Privacy Policy the terms defined in the Zoiper Standard Terms and Conditions shall apply. In addition, the following terms will be defined and understood as follows: 
 
-1.1. “Securax” or “we” is Securax EOOD, a company duly organized under the laws of Bulgaria, with registered address at 11 Gen. Ivan Kolev Str., fl. 1, 1407 Sofia, Bulgaria. Securax is the controller with regard to the processing of personal data performed in relation to the use of the website [ www.zoiper.com ](https://www.zoiper.com/) and all software products and services available for purchase or free download from it or provided by Securax via other distribution channels (e.g. app stores). Securax is registered in the Registry of Data Controllers kept by the Commission for Personal Data Protection. 
+1.1. “Securax” or “we” is Securax EOOD, a company duly organized under the laws of Bulgaria, with registered address at 11 Gen. Ivan Kolev Str., fl. 1, 1407 Sofia, Bulgaria. Securax is the controller with regard to the processing of personal data performed in relation to the use of the website [www.zoiper.com](https://web.archive.org/) and all software products and services available for purchase or free download from it or provided by Securax via other distribution channels (e.g. app stores). Securax is registered in the Registry of Data Controllers kept by the Commission for Personal Data Protection. 
 
 1.2. “Data Subject” or “you” is any identified or identifiable natural person whose Personal Data is collected, stored, disclosed or processed in any other way by Securax under the rules of this Privacy Policy. Securax does not knowingly collect or otherwise process personal data of children under 16 years of age. For the avoidance of doubt, Securax only processes the categories of personal data that are mentioned in this Privacy Policy.
 
@@ -18,7 +18,7 @@ For the purposes of this Privacy Policy the terms defined in the Zoiper Standard
 
 1.5. “Anonymous Information” is information which is not Personal Data, because it is anonymous and is processed in such a way that it cannot be used to directly or indirectly identify a particular natural person (e.g. information that a particular number of users visited our Website via a link on another website).
 
-1.6. “Website” is the website [ www.zoiper.com ](https://www.zoiper.com/) .
+1.6. “Website” is the website [www.zoiper.com](https://web.archive.org/) .
 
 #### 2\. PRINCIPLES
 
@@ -64,7 +64,7 @@ For the purposes of this Privacy Policy the terms defined in the Zoiper Standard
 
 4.7. We are obliged to disclose Personal Data when this is requested by competent authorities in cases provided in the applicable legislation. Examples of such cases may include on-going criminal investigations, tax investigations, market investigations by competition protection authorities, etc. 
 
-4.8. Anonymous Information pertaining to the Website or the usage of Products and/or Services may be provided to third parties, in particular Google Inc. and other providers of statistics-generating services, for the purpose of creating statistics and analysis of the usage of the Website, Products and Services. You can find more information about how Google Inc. handles these data at the following URL address: <https://www.google.com/policies/privacy/partners/> , or at another URL address provided by Google Inc. 
+4.8. Anonymous Information pertaining to the Website or the usage of Products and/or Services may be provided to third parties, in particular Google Inc. and other providers of statistics-generating services, for the purpose of creating statistics and analysis of the usage of the Website, Products and Services. You can find more information about how Google Inc. handles these data at the following URL address: <https://www.google.com/policies/privacy/partners/>, or at another URL address provided by Google Inc. 
 
 #### 5\. YOUR RIGHTS
 
