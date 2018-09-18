@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charlespoliquin.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606003729id_/http%3A//www.poliquingroup.com/Home/tabid/745/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charlespoliquin.com privacy policy that was archived on 2018-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180918205918id_/http%3A//www.poliquingroup.com/Home/tabid/745/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Poliquin Group
 
@@ -44,4 +44,4 @@ Poliquin Group will occasionally update this Statement of Privacy to reflect com
 
 Contact Information
 
-Poliquin Group welcomes your comments regarding this Statement of Privacy. If you believe that Poliquin Group has not adhered to this Statement, please contact Poliquin Group at [admin@change.me](mailto:admin@change.me). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+Poliquin Group welcomes your comments regarding this Statement of Privacy. If you believe that Poliquin Group has not adhered to this Statement, please contact Poliquin Group at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a1c0c5ccc8cfe1c2c9c0cfc6c48fccc4). We will use commercially reasonable efforts to promptly determine and remedy the problem.
