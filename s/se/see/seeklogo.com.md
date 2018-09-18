@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seeklogo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184652id_/http%3A//seeklogo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seeklogo.com privacy policy that was archived on 2018-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180918025745id_/https%3A//seeklogo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | seeklogo
 
