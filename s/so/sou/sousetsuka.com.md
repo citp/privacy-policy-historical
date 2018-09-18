@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the sousetsuka.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519163644id_/http%3A//sousetsuka.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sousetsuka.com privacy policy that was archived on 2018-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180918052508id_/http%3A//sousetsuka.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Sousetsuka
 
 **Privacy Policy for www.sousetsuka.com**
 
-At www.sousetsuka.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.sousetsuka.com and how it is used. 
+At www.sousetsuka.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.sousetsuka.com and how it is used.
+
+Please refer to https://www.google.co.uk/policies/technologies/partner-sites/ to learn how Google manages data in its ads products. 
 
 **Log Files**  
 Like many other Web sites, www.sousetsuka.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
