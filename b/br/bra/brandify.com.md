@@ -1,69 +1,150 @@
-> *The following text is extracted and transformed from the brandify.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423120215id_/https%3A//www.brandify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandify.com privacy policy that was archived on 2018-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180918042822id_/https%3A//458525-hs-sites-com.sandbox.hs-sites.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Brandify
+# Privacy Policy for Location Platform | Brandify
 
-## Brandify Privacy Policy
+Where 2 Get It, Inc., which does business as Brandify, is committed to working with public policy organizations, industry groups, and government institutions to understand and address privacy issues as they relate to visitors to our Website. This online privacy statement tells you about the information Brandify collects in relation to our website, http://www.brandify.com (the "Website"), how we use that information, and how you can opt out of the uses of your information. If you have any questions about our privacy policy or our use of your information, you can email us at [privacy@brandify.com](mailto:privacy@brandify.com). Brandify is located at 222 S. Harbor Blvd., Suite 600, Anaheim, CA 92805.
 
-The brandify.com web site (the “Site”) is owned and operated by Place Platform, Inc (“Brandify,” “We,” “Us” and “Our”). Brandify is committed to maintaining your confidence and trust with respect to the information We collect from you. This Privacy Policy sets forth how We collect, use, protect, and disclose personal information you provide through Our Site, and how We use that information to offer you Our products and services.
+PLEASE READ THIS PRIVACY STATEMENT CAREFULLY BEFORE USING ANY OF BRANDIFY'S SERVICES DESCRIBED BELOW. BY USING ANY SUCH SERVICES, YOU ARE ACKNOWLEDGING THAT YOU HAVE READ AND UNDERSTAND THIS POLICY AND THAT YOU AGREE TO BE BOUND BY ITS TERMS. IF YOU DO NOT AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY STATEMENT, SIMPLY EXIT THIS PAGE WITHOUT ACCESSING OR USING ANY OF OUR SERVICES.
 
-**Information we collect and/or retrieve**
+## Information Collection and Use
 
-In order to use Our services, you must register with Us. Our registration process requires you to submit information pertinent to your business such as business name, number of employees, business type, and business website address. Additionally, we may require you to submit personal information such as your name, email address, and zip code in addition to other information you choose to supply to Us concerning your preferences and interests expressed in the course of using Our services.   
-All fees associated with your Brandify account, if applicable, require payment via a credit card. Your credit card information will be held in strictest confidence and only be used in connection with the monthly charges associated with your account. 
+Brandify collects information in various ways. Those wishing to submit data on Brandify’s Website (“Users”) may submit data expressing interest in products or services advertised on the Website.
 
-**Profile information about you retrieved from third parties**
+Brandify also collects information from third party companies or individuals seeking consumer information or contacts regarding specified goods or services they provide. Brandify collects information from Users by way of questionnaires and/or “Contact Us” forms. This information is submitted voluntarily and is used by third-party clients (“Clients”) to contact the user about the services for which the user has expressed interest.
 
-In order to benefit from the full functionality of Our services, you must allow Brandify access to your personal, social, and business profile data such as your LinkedIn profile, Facebook profile, or Google+ Local profile. In such instances, you are authorizing Brandify to access your profile data using [OAuth](http://oauth.net/about/), which allows you to authorize Brandify to retrieve data on your behalf without giving Us your credentials to these third party sites.
+We may also collect information from third parties or publicly available sources. We may receive personal data about you from various types of third parties, including:
 
-**Publicly available information that may be about you and your business retrieved through Internet search engines**
+  * Technical Data and/or Tracking Data from analytics providers, advertising networks and search information providers;
+  * Identity and Contact Data from data partners; and
+  * Data from any third parties who are permitted by law or have your permission to share your personal data with us, such as via social media or review sites.
 
-We are a data aggregator and as such We will seed searches against Internet search engines using supplied business information as well as your personal information to retrieve data that may or may not be related to you. This retrieved information along with your personal and profile information may be used to build your Brandify profile, generate your Brandify Score, and the underlying analysis and recommendations.
+Brandify may collect and receive Customer data in a variety of ways. When you visit or use our Website or Services in any way, we collect and process different types of information. This information may vary depending on whether you are a Client, or a User of our website. Such information about you may include:
 
-**Cookies**
+Client Data. Customers or individuals that utilize our services, or those granted access to our services, routinely submit information to Brandify when accessing its services. This data is collecting for the performance of a contract with you. Such information can vary depending on your use of the Website or Services and may include your customers or employees personal data such as:
 
-Like most web sites, Brandify collects information regarding your use of the Site through the use of cookies. Cookies are anonymous, unique alphanumeric identifiers sent to your browser from a website’s computers and stored on your computer. The type of information We collect as a result of a cookie being stored on your computer includes the Internet protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; and click stream data, including date and time, cookie number and content you viewed or searched for on the Site.  
-We utilize cookies to provide a personalized product experience and to track usage. We may use “session ID cookies” to enable certain features of the site, to better understand how you interact with our site and to estimate audience size and monitor aggregate usage patterns. You can configure your browser to accept, reject, or prompt you to accept cookies before you visit websites. However, some Brandify features and services may not function properly if cookies are disabled. 
+  * **Identity Data** , including first name, last name, gender, username, email address, employment address, or position;
+  * **Contact Data** , including billing address, email address, webpage, or Company information; and
+  * **Marketing Data** , including your communication preferences with your Customers, and customer information.
 
-**Information usage**
 
-We use the information you provide and the information We collect about you for the following purposes:
 
-1\. To provide Our services including display of customized content such as to generate searches against various online data sources in order to build your Brandify profile, generate your Brandify Score, and the underlying analysis and recommendations. Another example would be to perform analysis using sophisticated link analysis, visualization and semantics technologies to enable you to quickly evaluate and explore data that may relate to you.
+User Data **.** Those using Brandify’s website may be asked to voluntarily submit personal data such as names, addresses, phone numbers, contact information, or email addresses. This information is provided at the consent of the user on behalf of the specified client. 
 
-2\. We may use your e-mail address to send you information and updates pertaining to your account and premium offerings. You may also receive occasional company news, updates, related product or service information, etc. If at any time you would like to unsubscribe from receiving future emails, you may do so by changing your contact preferences by logging into account settings.
+With respect to Client Data, Brandify acts as a controller of this information. This information is provided for the performance of a contract with our Clients. With respect to User data, Brandify acts as a processor and the Clients are the controllers of such information. With respect to User data, Brandify acts as a processor of such information, on behalf of the controller soliciting such information. Each Controller maintains its individual privacy policy and every User is advised to be familiar with the privacy policy of the entity from whom they solicit information. 
 
-3\. To produce third party partner offers to help you act on recommendations We generate to improve your and your business’ online reputation.
+We may, in the future, sell or otherwise transfer some or all of our assets or equity to a third party. Your personally identifiable information and other information we obtain from you via the Website may be disclosed to any potential or actual third party purchasers of such assets or equity and may be among the assets transferred. Any such transfer would ensure a continuation of acceptable privacy policies.
 
-4\. To protect, maintain, and improve Our services through research and analysis as well as to ensure our technology infrastructure is performing optimally.
+## Privacy of Minors
 
-5\. Anonymously and in aggregate fashion, allow you to compare your Brandify Score with businesses in your industry, geographic location, etc.
+To access or use the Website, you must be at least 13 years of age, if, under 13 or the age of majority in your jurisdiction, your use must be under the supervision of a parent, guardian, or other responsible adult. If you become aware that a child has provided us with personal information without adult supervision, please contact us at privacy@brandify.com. Any information provided by a child under 13 without parental consent, is subject to removal. 
 
-6\. Anonymously and in aggregate fashion, to generate market studies, product usage and demographics data.
+## Cookies
 
-7\. In the event that Brandify’s assets are sold, transferred, or otherwise shared in connection with a merger, acquisition, reorganization, or sale of assets, your information would be shared, sold and/or transferred to that acquiring entity. 
+A "cookie" is a piece of data stored on a user's hard drive containing information about the user. As part of offering and providing personalized services, we may use cookies to store and sometimes track your information, thereby saving time while you are on our Website. If a user rejects the cookie, they may still use the Website; however, the user may be limited in some areas of the Website. Usage of a cookie is in no way linked to any personally identifiable information while on our Website.
 
-**Do we disclose any information to outside parties?**
+Generally we use cookies to:
 
-We may share your personally identifiable information with trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when We believe release is appropriate to comply with the law, enforce our Site policies, or protect Our or other’s rights, property, or safety.  
-In the event you register for Our services via a Brandify partner, you may be bound to the privacy policy of that partner in addition that of Brandify.  
-Other than to Brandify partners, we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+  * Access your account information;
+  * Track the interests of our users to enhance the experience on our Website;
+  * Estimate our audience size; and
+  * Measure certain traffic patterns.
 
-**How do we protect your information?**
 
-We recognize that your privacy is important to you, and therefore, we endeavor to keep your personal information confidential. The personal information about each user is stored on servers that are behind a firewall and physically housed within a secure data center. Furthermore, our internal practices help protect your privacy by limiting employee access to and use of personal information. However, We do not represent, warrant, or guarantee that your personal information will be protected against unauthorized access, loss, misuse, or alterations, and do not accept any liability for the security of the personal information submitted to us nor for your or third parties’ use or misuse of personal information.
 
-**Third party sites and links**
+Some of our business partners may use cookies on our Website (e.g., advertisers); however, we have no access to or control over these cookies.
 
-This privacy policy applies to Brandify services only. We do not exercise control over the content that we retrieve for you as part of our products or services, or links from within our various services. If you click on these links, these other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. 
+The following cookies are required by our code in order for our store locators to function properly:
 
-**Third party sites and links**
+  * **W2GISM:** a session cookie which allows us to cache values.
+  * **Appkey:** a unique UUID value assigned to a specific locator; one of two ways in which we ensure that the page and resources are loaded and used only by the authorized client.
+  * **Authsite:** the URL that has been authorized to use this locator; the second part of our security to ensure the page and resources are used only by the authorized client.
+  * **Behavioral targeting:** We may integrate with third party service providers, such as advertising and analytics partners, that use various technologies to collect information, such as cookies, web beacons, or JavaScript, to provide you with personalized content or advertising based upon your browsing activities and interests. You may opt out of receiving personalized content or advertisements as described below.
+  * **Opting out of cookies and mobile device identifiers:** You may opt out of receiving certain cookies and trackers by visiting the Network Advertising Initiative (NAI) opt-out page or the Digital Advertising Alliance (DAA) consumer opt-out page, or by installing the DAA's AppChoice app on your mobile computing device. When you use these opt-out features, an "opt-out" cookie will be placed on your computer, tablet, or mobile computing device indicating that you do not want to receive interest-based advertising from NAI or DAA member companies. If you delete cookies on your computer, tablet, or mobile computing device, you may need to opt out again. You will need to opt out of each browser and device for which you desire to apply these opt-out features.
 
-We are in compliance with the requirements of [COPPA](http://www.coppa.org/coppa.htm) (Children’s Online Privacy Protection Act); we do not knowingly collect any information from anyone under 13 years of age. Our site, products and services are all directed to people who are at least 18 years old or older. If we learn that we have collected personal information of a child under 13 years of age, We will take steps to delete this information.
 
-**About this Privacy Policy**
 
-Any changes to Our Privacy Policy will be posted on Our Site at <http://www.brandify.com/privacy>. If at any time you believe that we have not adhered to this Privacy Policy, please contact Us at [privacy@brandify.com](mailto:privacy@brandify.com). Brandify will use reasonable efforts to resolve any disputes under this Privacy Policy and will use reasonable efforts to promptly investigate and, if necessary, correct any problem.   
-Last updated: December 1, 2013 
+Data Retention  
 
-  
+Brandify will retain data in accordance with a Customer’s instructions, including any applicable terms in the Customer Agreement, and as required by applicable law. Brandify will retain user information for twelve months following the use of the Website unless the user directs otherwise. Customers or Users may direct the deletion of data at any time. The deletion of Customer or User Data may result in the inability to utilize the website or receive communications from Brandify, or its customers. For more detail, please contact Brandify support. Brandify may retain information following this time period to pursue legitimate business interests, conduct audits, comply with (and demonstrate compliance with) legal obligations, resolve disputes and enforce our agreements
 
+Log Files
+
+Every computer connected to the Internet is given an IP address. We use IP addresses to analyze trends, administer the Website, track users' movement and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information, and our web servers do not record the email addresses of our visitors.
+
+## Sharing
+
+As a general rule, except as described in this privacy statement, we will not disclose any of your personally identifiable information except when we have your permission or under special circumstances (such as when we believe the law requires it). We may share aggregated demographic information with certain partners, affiliates and advertisers; however, except as described above, this is not linked to any personal information that can identify any individual person. We may collect, compile, store, publish, promote, report, sell or otherwise disclose or use any and all such aggregated information so long as it is related to the business of the Website. In addition, Brandify may disclose account or other personal information when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with Brandify's rights or property, other Website users, or anyone else that could be harmed by such activities.
+
+## International Transfers
+
+Whenever we transfer your personal data out of the EEA, we will comply with applicable data protection law. This may be accomplished by transferring your data to a country that has officially been deemed to provide an adequate level of protection for personal data by the European Commission.
+
+Or, we may use specific contracts approved by the European Commission which give personal data the same protection it has in Europe (called the “EU Model Clauses”).
+
+## Links
+
+This Website may contain links to other websites. Please be aware that we are not responsible for the privacy practices of such other websites. We encourage our users to remain vigilant when they leave our Website and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this Website. Please keep in mind that whenever you voluntarily disclose personal information online — for example on message boards, through email, or in chat areas — such information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any registration information. Please be careful and responsible when you are online.
+
+Surveys
+
+From time to time our Website may request information from users via surveys. Participation in these surveys, to the extent we run any, is completely voluntary and the user, therefore, has a choice whether or not to disclose this information. Information requested may include contact information (such as name and address) and demographic information (such as zip code and age level). Survey information will be used for purposes of monitoring or improving the use and satisfaction of this Website.
+
+## Security
+
+This Website takes numerous precautions to protect our Users' information. When Users submit sensitive information via the Website, such information is protected both on- and offline. Brandify goes to great lengths to ensure that no unauthorized parties can access information collected during the provision of services through the Website. We encrypt certain sensitive information using Secure Socket Layer (SSL) technology to ensure that our visitors' information is safe as it is sent over the Internet to our server. SSL works by using a private key to encrypt data that is transferred over the SSL connection. While we use SSL encryption to protect sensitive information online, we also take many precautions to protect User information offline. All of our Users' and Clients’ sensitive information is restricted in our offices. While Brandify employs commercially reasonable security measures to protect our data and seeks to partner with companies which do the same, we cannot guarantee the security of any data transmission over the Internet or any wireless network. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure, and we, therefore, are not responsible for any breach of security or for any actions of any third parties that may receive any such information.
+
+## Site and Service Updates
+
+From time to time we may send our Users and Clients Website and service announcement updates. This communication is to provide requested services and in regards to issues relating to their account via email or phone.
+
+## Correcting or Updating Personal Information 
+
+If a user's personally identifiable information changes (such as zip code), or if a user no longer desires our service, please send an email to [privacy@brandify.com](mailto:data@brandify.com) or call customer support at 888.377.2767.
+
+## Choice/Opt Out
+
+Our users are given the opportunity to "opt out" of receiving communications from us or allowing us to collect user data at the point where we ask for the information by sending us an email at [privacy@brandify.com](mailto:privacy@brandify.com).
+
+## Rights of EU Citizens (Extended to all Users) 
+
+As a consequence of the General Data Protection Regulation (GDPR) effective May 25, 2018, citizens of the European Union (EU) are granted certain rights related to the collection of personal data by online companies. We hereby extend the rights of EU citizens under GDPR to all users regardless of nationality. Such rights are described below.
+
+The right to be informed – an obligation on Brandify to inform you of the use of your personal data;
+
+The right of access – a right to access personal data we hold about you;
+
+The right to rectification – a right to correct personal data about you that may be incomplete or inaccurate;
+
+The right to be forgotten – in certain circumstances you can ask us to delete the personal data we have about you, unless there is a legal requirement on our part to keep it;
+
+The right to restrict processing – a right for you to request a suspension of personal data processing;
+
+The right to data portability – a right to ask us for a copy of your personal data; and
+
+The right to object – a right for you to object to us with respect to our use of your personal data. 
+
+You may opt out of communications we send you at any time by clicking on the "unsubscribe" or "opt-out" link. 
+
+You can object to the processing of your personal information, request portability of your information, or restrict processing of your personal information. Simply contact us at privacy@brandify.com.
+
+If you have previously provided consent for the use of personal information, you may withdraw that consent at any time by contacting us at privacy@brandify.com. 
+
+All communications regarding the exercise of data protection rights are dealt with in an expeditious fashion and in accordance with relevant data protection laws and guidelines. Notwithstanding the foregoing, we reserve the right to archive and store any information that we deem reasonably necessary to comply with our legal obligations, resolve disputes and enforce our agreements.
+
+In order to make any of the above requests, or if you have any concerns regarding data use or privacy, please send an email to [privacy@brandify.com](mailto:privacy@brandify.com).
+
+## Notification of Changes
+
+If we decide to change our privacy statement, we will post those changes under the appropriate link on the home page of our Website, so our Users are always aware of what information we collect, how we use it, and under what circumstances if any, we disclose it. You are responsible for periodically reviewing this privacy statement to apprise yourself of any changes. If at any point, we decide to use personally identifiable information in a manner different from what was stated at the time it was collected, we will notify Users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy statement under which the information was collected.
+
+Brandify does not respond to Do Not Track signals or other mechanisms that provide consumer choice about tracking.
+
+If you have any questions or concerns regarding any issue relating to our privacy practices, you may contact us using the information below.
+
+Where2GetIt, Inc. dba Brandify  
+222 S. Harbor Blvd  
+Suite 600  
+Anaheim, CA 92805  
+Attn: Privacy Manager   
+Email: [privacy@brandify.com](mailto:privacy@brandify.com)   
+Telephone: 888-377-2767 
