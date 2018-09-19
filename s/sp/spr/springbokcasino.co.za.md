@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the springbokcasino.co.za privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129032510id_/https%3A//www.springbokcasino.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springbokcasino.co.za privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919213907id_/https%3A//www.springbokcasino.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy
 
