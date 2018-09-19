@@ -1,84 +1,148 @@
-> *The following text is extracted and transformed from the selz.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701225746id_/https%3A//selz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selz.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919020248id_/https%3A//selz.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Selz
 
 ## Introduction
 
-This site available at Selz.com (“this site”) is operated and administered by Selz.com Pty Ltd (ABN 29 163 769 837) (“Selz”,“we”, “us”, “our”). We care about your privacy.
+This Privacy Policy explains what information Selz Pty Ltd., a company registered in Australia (ABN 29 163 769 837) and its related entities ("Selz") collect about you and why, and what we do with that information. It also explains the choices available to you regarding our use of your personal information and how you can access and update this information, whether you are a merchant or end user that uses Selz products, applications or services (together, the “Services”), a buyer that shops at a store using our technology, or whether you are simply visiting a website owned and operated by Selz. 
 
-This policy sets out in detail how we manage the personal information you provide to us. Your use of this site will be governed by this Privacy Policy, amongst other things. 
+By using any Selz Services, or by dealing with a merchant using Selz services you are agreeing to the terms of this Privacy Policy and, as applicable, the Selz Terms of Service. 
 
-You may not use this site if you do not agree to this policy. 
+## Information relating to our Merchants
 
-We may change this Privacy Policy at any time by posting an updated version of the policy on this site - please check back from time to time to check for any changes to this policy. 
+  1. What information do we collect from Merchants?
 
-We respect your rights to privacy under the Privacy Act 1988 (Cth) and the National Privacy Principles. 
+We collect information that is required to enable us to manage your account, for identification and authentication purposes, service improvement, to provide our Services including support services, to address malicious use of our Services and for legal and regulatory purposes.
 
-We will not use or disclose your personal information other than for the purposes of collection described in this policy or for purposes for which we have received your consent, and always in accordance with the privacy settings you have selected. 
+Specifically, we collect:
 
-## Collection of information?
+    1. At account creation: we collect your name, company name, address, email address and phone number and other information you may provide us about your business. We use this information to provide you with our Services. We also collect this information to make sure we comply with legal requirements.
+    2. At plan subscription: we collect your payment/billing information, for example, credit card information. We use this information to collect payment from you for using our Services.
+    3. At Selz Pay application: we collect your business name, business ID, business directors, date of birth, bank account information, and government-issued identification information, such as your Social Security Number or a copy of your government-issued identification. We use this information to provide you with Selz Pay services, including fraud and risk monitoring, and to comply with legal and regulatory requirements.
+    4. Usage Data: we also collect data about how and when you access your account and the Selz platform, including information about the browser you use, your network connection, your IP address and information about how you browse the Selz interface. We use this information to give you access and to improve our Services. We also use this information to provide you with advertising or marketing information. 
+  2. How is this information collected?
 
-We collect, use and disclose on that information that is required to enable us to manage your account, identification and authentication purposes, for service improvement, to provide our services, to maintain customer/visitor lists, to respond to inquiries, and to address malicious use of our services.
+We collect this information when you sign up for our Services, when you access our Services or otherwise provide us with the information. We may also collect personal information from third parties, such as our service providers, business affiliates and credit reporting agencies.
 
-“Personal information” is any information that can be used to identify you. We collect personal information about you if you provide it to us knowingly. This includes your name, address, telephone number, email address, or credit card or financial account details.
+  3. How is this information shared?
 
-We may also collect personal information from third parties, such as our service providers, business affiliates and credit reporting agencies. Generally speaking, we will provide you on request with access to the information we hold about you. If there is a reason why we can’t give you access to such information, we’ll let you know. If you advise us of any errors relating to your personal information held by us, we will amend your personal information to correct them. Please direct such requests by email to [support@selz.com](mailto:support@selz.com) with Privacy as subject heading.
+Selz works with a variety of third parties and service providers to help provide you with our Services and we may share personal information with them to support these efforts. We may also share your information in the following circumstances:
 
-## What information do we collect?
-
-When you register as a user of this site, or contact us, we collect your full name, email address, telephone number, address, and in some cases, your financial and credit details, together with other information as may be requested on the registration form, transactions, user support or surveys from time to time.
-
-We will collect personal information from users only if they voluntarily submit such information to us. It is the choice of the user whether to provide personal information, however If a user does choose not to provide certain requested personal information that user in certain circumstances will not be able register or able to use certain features of the site.
-
-We may collect personal information from our third party service providers, such as credit reporting agencies. We use this information to provide our services to you, to administer this site and to enable third parties such as sellers to provide services to you, as well as for the other purposes set out in this policy.
-
-We may collect non personal identification information about users whenever they interact with the site. Non personal identification information is of an anonymous nature such as IP address, browser name, type of computer, technical information about the user’s means of connection to the site, or aggregate information about site usage.
-
-## What do we do with the information?
-
-We will only use or disclose your personal information or sensitive information for the purposes for which you have provided it to us, and as set out in this policy, unless:
-
-  1. You have consented to the use or disclosure; or
-  2. It is necessary to comply with the law.
+    * To prevent, investigate, or take action regarding illegal activities, suspected fraud, violations of our Terms of Service, or any other agreements related to the Services, or as required by law.
+    * To help us conduct marketing and/or advertising campaigns.
+    * To conform to legal requirements, or to respond to lawful court orders, subpoenas, warrants, or other requests by public authorities.
+    * Personal information may also be shared with another company if it acquires our business, whether through merger, acquisition, bankruptcy, dissolution, reorganization, or other similar transaction or proceeding. If this happens, we will take appropriate steps to inform you, including sending you an email, if we have your email address, and posting notices on our home page.
+    * Selz will always ask for your consent before sharing your personal information with third parties for purposes other than those described in Section: Third Party Apps.
 
 
 
-Your personal information may be disclosed to and used by credit reporting agencies and fraud checking agencies to check your credit worthiness and to conduct other credit related checks or to conduct fraud checks. Our related entities and business affiliates may also contact you about our other services or products that may be of interest to you. In each case, this will be done only in accordance with the privacy settings you have selected.
+## Information relating to our Buyers
 
-We collect information for the following purposes:
+  1. What information do we collect from Buyers?
 
-  * In order to facilitate the buying and/or selling of items and services on our site;
-  * To personalise the user experience;
-  * To provide users with transactional notifications such as unsubscribing, registration confirmations, confirmation of account changes, or emails relating to a users account or changes in the site terms or policies;
-  * Advertisements appearing on this site may be delivered to users by us or multiple third party web advertisers including Google. The third party web advertisers may set cookies and use cookies to serve ads based on a user’s prior visits to a website. Users may opt out of Google’s use of cookies by visiting the Google advertising opt-out page;
-  * This site may use web beacons (which is a graphic image 1x1 pixel). The web beacon collects non personal identification information and is used to monitor the behaviour of users visiting the site, target advertisements, and provide aggregated reports.
+    1. Usage data: we collect information about orders that Buyers initiate, information about the Selz-supported stores that Buyers visit, and information about the device and browser they use. We use this information to provide our Merchants with the Services, including supporting and processing orders and to improve our Services.
+    2. Checkout data: we collect our Buyers’ name, email, shipping address, billing address, phone number, IP address, and any other custom fields as defined by our Merchants.
+
+We use this information to provide our Merchants with the Services, including supporting and processing orders and for risk and fraud screening, and authentication.
+
+  2. How is this information collected?
+
+We collect this information when a Buyer uses or accesses an online store or online checkout that uses our Services, such as when a Buyer visits a Merchant’s site, or places an order on a Merchant’s site. We may also collect personal information from third parties, such as our service providers, and business affiliates.
+
+  3. How is this information shared?
+
+Selz works with a variety of third parties and service providers to help provide you with our Services and we may share personal information with them to support these efforts. We may also share your information in the following circumstances:
+
+    * To prevent, investigate, or take action regarding illegal activities, suspected fraud, violations of our Terms of Service, or any other agreements related to the Services, or as required by law.
+    * If the Merchant whose store you visit or whose checkout you access directs us to transfer this information.
+    * To conform to legal requirements, or to respond to lawful court orders, subpoenas, warrants, or other requests by public authorities.
+    * Personal information may also be shared with another company if it acquires our business, whether through merger, acquisition, bankruptcy, dissolution, reorganization, or other similar transaction or proceeding. If this happens, we will take appropriate steps to inform you, including sending you an email, if we have your email address, and posting notices on our home page.
 
 
 
-To properly operate and administer this site, we need to provide your personal information to Selz staff and technical contractors. Such staff and technical contractors are subject to obligations of confidentiality to us, and you authorise them to gain access to personal information as part of their services to us.
+## Information relating to Selz website visitors and support users
 
-Some of our technical contractors are located outside of Australia. By using this site and accepting this Privacy Policy, you consent to the transfer of your personal information, sensitive information and other information to our technical contractors located outside Australia that assist us in administering this site. We take reasonable steps to ensure such technical contractors are bound by confidentiality and privacy obligations in relation to the protection of your information. 
+  1. What information do we collect from website visitors and support users?
 
-## Do we share personal information with third parties?
+    1. Website visitors: we collect information about the device and browser visitors use, as well as the visitors’ network connection, IP address and information about the cookies installed on your device.
+    2. Chat support: we collect chat support users’ name, email address, information about the device and browser you use, your network connection, IP address, chat transcript and other personal information you provide during the chat.
 
-Yes. Your personal information is collected so that we, as well as our related entities and business affiliates can promote and market our/their services to you (including by way of direct mail, telemarketing, email, SMS and MMS messages). This is to keep you informed of products, services and special offers and may continue even after you have stopped using this site. However, this will be done only in accordance with the privacy settings you have selected.
+We use this information to verify your account, to provide and enhance our Services and answer any questions you may have.
 
-We require that third parties with whom we share your personal information safeguard it the same way we do. If you do not wish Selz, its related bodies and business affiliates to promote and market products, services and special offers to you, please email support@selz.com.
+  2. How is this information collected?
 
-## How do we use “cookies” and “log files”?
+We collect this information from visitors and support users who visit the Selz website, use Services offered on our website or engage with us either by email, web form, or instant message.
 
-As part of offering and providing customisable and personalised services, we use cookies to store and sometimes track information about your use of this site (such as your preferences, session information and information on how you visit and access our web pages). A cookie is a small amount of data that is sent to your Internet web browser from our web server and stored on your computer, but does not contain any of your personal information. If you do not wish to receive cookies, you can set your browser so that your computer does not accept them. We may also log IP addresses (the electronic addresses of computers connected to the Internet) to analyse trends, administer this site, track user movements on this site, and gather broad demographic information for aggregate use by us and our advertisers and business partners.
+  3. How is this information shared?
 
-Any User may choose to set their web browser to refuse cookies, or to alert them when cookies are being sent. If the User does this some parts of the Site may not function properly or be accessible.
+Selz works with a variety of third parties and service providers to help provide you with our Services and we may share personal information with them to support these efforts.
 
-## What do we do to safeguard personal information?
 
-We take reasonable steps to keep your personal information, sensitive information and other information or data processed through this site secure, including restricting physical access to your personal information and sensitive information and using firewalls and secure databases. However, no data transmission over the Internet can be guaranteed as completely secure. As a result, although we try hard to protect your personal information, sensitive information and other information provided to us, we cannot guarantee its security and you transmit such information at your own risk.
 
-## What about links to other websites?
 
-This Privacy Policy applies solely to information collected by this site. This site may contain links to other websites. We make no representations or warranties as to the privacy practices of any website operated by a third party and we are not responsible for the content or practices of such websites. You should check the Privacy Policy for all third party websites you visit to understand their procedures for collecting, using and disclosing personal information.
+## Cookies and related tracking methods
 
-## What should I do if I have any privacy-related complaints or enquiries?
+As part of offering and providing customizable and personalized services, we use cookies to store and sometimes track information about your use of this site (such as your preferences, session information and information on how you visit and access our web pages). A cookie is a small amount of data that is sent to your Internet web browser from our web server and stored on your computer, but does not contain any of your personal information. If you do not wish to receive cookies, you can set your browser so that your computer does not accept them. We may also log IP addresses (the electronic addresses of computers connected to the Internet) to analyze trends, administer this site, track user movements on this site, and gather broad demographic information for aggregate use by us and our advertisers and business partners.
 
-If you have any questions about our Privacy Policy, or any complaint regarding treatment of your privacy by us, please email: [support@selz.com](mailto:support@selz.com).
+We also use cookies to serve targeted ads from Google, Facebook, Bing, and other third-party vendors.
+
+Any user may choose to set their web browser to refuse cookies, or to alert them when cookies are being sent. If the User does this some parts of the Site may not function properly or be accessible.
+
+## Third Party apps
+
+Selz’s platform allows merchants to connect their stores with third party applications to alter or provide new functionalities in their store. Selz is not responsible for and has no control over how these apps function. Merchants ultimately can control which apps they choose to use with their stores, and are responsible for making sure that they do so in compliance with relevant privacy and data protection requirements.
+
+## Account closure and your personal data
+
+In general, we will continue to store archived copies of your personal information for legitimate business purposes and to comply with the law, except when we receive a valid erasure request or, if you are a merchant, you terminate your account and your information is purged pursuant to our standard process.
+
+We will continue to store anonymous or anonymized information, such as website visits, without identifiers, in order to improve our Services.
+
+## How we store and secure your personal information
+
+We follow industry standards on information security management to safeguard sensitive information, such as financial information, intellectual property, employee details and any other personal information entrusted to us. Our information security systems apply to people, processes and information technology systems on a risk management basis.
+
+No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee the absolute security of your personal information.
+
+## Residents of the European Economic Area
+
+Selz works with merchants and users around the world, including in the EEA. If you are located in the EEA, as part of our service, we may transfer your personal information to other regions, including to Australia, the United States and. In order to ensure that your information is protected when transferred out of the EEA, Selz relies on standard contractual data protection clauses, which have been approved by the European Commission.
+
+If you are located in the EEA, you have certain rights under European law with respect to your personal data, including the right to request access to, correct, amend, delete, or limit the use of your personal data. If you are a merchant, a partner, a visitor of Selz’s websites, or a user of Selz’s support services and wish to exercise these rights, please reach out to us using the contact information below. If you are a buyer and wish to exercise these rights, please contact the merchants you interacted with directly -- we serve as a processor on their behalf, and can only forward your request to them to allow them to respond.
+
+Additionally, if you are located in the EEA, we note that we are generally processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above, unless we are required by law to obtain your consent for a particular processing operation.
+
+If you have unresolved concerns, you may have the right to complain to a data protection authority in the country where you live, where you work or where you feel your rights were infringed.
+
+## How we transfer information we collect internationally
+
+We collect information globally and primarily store that information in the United States. We transfer, process and store your information outside of your country of residence, to wherever we or our third-party service providers operate for the purpose of providing you the Services. Whenever we transfer your information, we take steps to protect it, however these countries may not have equivalent privacy and data protection laws to the laws of many of the countries where our customers and users are based.
+
+When we share information about you within and among Selz affiliates, we make use of standard contractual data protection clauses, which have been approved by the European Commission.
+
+## Our policy towards children
+
+The Services are not directed to individuals under 16. We do not knowingly collect personal information from children under 16. If we become aware that a child under 16 has provided us with personal information, we will take steps to delete such information. If you become aware that a child has provided us with personal information, please contact our support services.
+
+## Changes to our Privacy Policy
+
+We may change this privacy policy from time to time. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice by adding a notice on the Services homepages, login screens, or by sending you an email notification. We will also keep prior versions of this Privacy Policy in an archive for your review. We encourage you to review our privacy policy whenever you use the Services to stay informed about our information practices and the ways you can help protect your privacy.
+
+If you disagree with any changes to this privacy policy, you will need to stop using the Services and deactivate your account(s), as outlined above.
+
+## Contact Us
+
+If you have any questions or comments about this Privacy Policy or feel that we are not abiding by the terms of this Privacy Policy, please contact our Data Protection Officer in any of the following ways:
+
+By email at [privacy@selz.com](mailto:privacy@selz.com)
+
+or
+
+By post at:
+
+Selz Pty Ltd.  
+Attn: Data Protection Officer  
+Suite 1D, Level 23  
+1 Farrer Place  
+Sydney NSW 2000  
+AUSTRALIA 
