@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olo.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120040226id_/http%3A//www.olo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olo.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919115056id_/https%3A//www.olo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Olo
 
@@ -104,9 +104,8 @@ This Privacy Policy is subject to occasional revision, and if we make any materi
 
  **CONTACT US**
 
-If you have any questions or complaints about our Privacy Policy or our data collection or processing practices, or if you want to report any security violations to us, please contact us at: (212) 260-0895 or 1-888-411-6626; by Facsimile at: (212) 656-1671; by email at: [support@olo.com](mailto:support@olo.com); or by mail at:
+If you have any questions or complaints about our Privacy Policy or our data collection or processing practices, or if you want to report any security violations to us, please contact us by email at: [privacy@olo.com](mailto:privacy@olo.com); by Phone at: (212) 260-0895 or 1-888-411-6626; by Facsimile at: (212) 656-167; or by mail at:
 
 Olo  
 26 Broadway, 24th Floor  
-New York, NY 10004 USA  
-[Email Us](mailto:hello@olo.com)
+New York, NY 10004 USA
