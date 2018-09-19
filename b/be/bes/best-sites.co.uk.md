@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the best-sites.co.uk privacy policy that was archived on 2018-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180112002752id_/http%3A//best-sites.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-sites.co.uk privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919170959id_/http%3A//best-sites.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
