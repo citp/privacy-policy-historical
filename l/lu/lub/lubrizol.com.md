@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lubrizol.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028065239id_/http%3A//www.lubrizol.com/PrivacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lubrizol.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919164004id_/https%3A//www.lubrizol.com/Contact-Us/Lubrizol-Privacy-and-Cookie-Policy) for the most accurate reproduction.*
 
-# Privacy and Cookie Policy - The Lubrizol Corporation
+# Lubrizol Privacy and Cookie Policy - Lubrizol
 
 The Lubrizol Corporation and its affiliates (collectively "Lubrizol") respect your privacy and are committed to protecting your personal information that you may provide while using our websites. This policy describes the ways that information about our website visitors is collected, how that information is used, and how someone can request changes to the way their personal information is used or shared.
 
@@ -8,15 +8,15 @@ The Lubrizol Corporation and its affiliates (collectively "Lubrizol") respect yo
 
 Anonymous information is unidentified information and is not associated with an individual. 
 
-We may use anonymous cookies (See Cookies) to collect demographic information, track site metrics, or provide a richer experience for site visitors. Anonymous cookies do not contain any personally identifiable information 
-
-In general, your visit to and use of Lubrizol's website, www.lubrizol.com, is anonymous. 
+We may use anonymous cookies (See Cookies) to collect demographic information, track site metrics, or provide a richer experience for site visitors. Anonymous cookies do not contain any personally identifiable information. 
 
 ## Personally Identifiable Information 
 
 Personally identifiable information (PII) is information that can identify you, such as your name, email address, address, and telephone number. 
 
 We collect PII that you choose to provide to us when you register for access to a secure website; register for email newsletters; participate in surveys; request samples; request literature not on the site; or complete inquiry forms. When you provide this information to us, you are no longer anonymous for that activity. 
+
+## How We Use Your Personally Identifiable Information
 
 We make every effort to let you know before we collect PII via our websites. If you choose to provide PII via our websites, we want you know how we may use such information. We may use PII to:
 
@@ -28,7 +28,7 @@ We make every effort to let you know before we collect PII via our websites. If 
 
 
 
-_*All email messages you receive from us will allow you to opt out of future emails._ _ _
+_*All email messages you receive from us will allow you to opt out of future emails._ __
 
 ## How We Keep Your Information Secure 
 
@@ -37,7 +37,9 @@ personally identifiable information to third parties without your permission.
 
 We use reasonable precautions to protect personally identifiable information, including technical, administrative, and physical procedures. 
 
-When we contract with other companies to provide us with web services, we only share personally identifiable information with those that we believe share our commitment to privacy and information security. However, we are not responsible for any breach of security or for the actions of these parties and your use of the site is subject to [Lubrizol’s Terms of Use](https://web.archive.org/TermsOfUse.html "Lubrizol’s Terms of Use"). 
+In the event of a data breach, a notification will appear on the website within 72 hours of the breach.
+
+When we contract with other companies to provide us with web services, we only share personally identifiable information with those that we believe share our commitment to privacy and information security. However, we are not responsible for any breach of security or for the actions of these parties and your use of the site is subject to [Lubrizol’s Terms of Use](https://web.archive.org/Contact-Us/Terms-of-Use). 
 
 Lubrizol is not responsible for the information you volunteer about yourself in posting comments, discussion forums or other publicly accessible interactions. 
 
@@ -58,10 +60,38 @@ We may use cookies for:
 
 
 
-You do not need to accept cookies to visit our sites, but without them, your access to some areas and functionality may be limited or completely restricted.
+You do not need to accept cookies to visit our sites, but without them, your access to some areas and functionality may be limited or completely restricted. You can prevent the setting of cookies by adjusting the settings on your browser (see your browser Help for how to do this). 
 
+### Cookies Used on This Site
+
+**  Name** |   **Lifespan** |   **Purpose  **  
+---|---|---  
+_  **First-Party Cookies**_ |   |    
+ SC_ANALYTICS_GLOBAL_COOKIE |  10 yrs |  Identifies repeat visits by unique visitors  
+ ASP.NET_SessionId |  session |  Maintains an anonymized visitor session by the server  
+ EL_PREF |  16 mos |  Remembers the language selected for future visits  
+ CONSENT |  1 yr |  Stores a value so that we know if you have accepted cookies on this website  
+  |   |    
+  ** _Third-Party Cookies_** |   |    
+ _ga |  2 yrs |  Used by Google Analytics to distinguish unique visitors by assigning a randomly generated number as a client identifier to calculate visitor, session and campaign data for the sites analytics reports  
+ _gid |  1 day |  Used by Google Analytics to store and update a unique value for each page visited  
+ __utmz |  6 mos |  Used by Google Analytics to identify the source of traffic to the site   
+ __utma | 2 yrs |  Used by Google Analytics to distinguish between visitors and sessions to calculate new and returning visitor statistics  
+ VISITOR_INFO1_LIVE |  6 mos |  Used by YouTube to measure your bandwidth to determine whether you get the new player interface or the old  
+ YSC |  session |  Used by YouTube to help track the number of views for a particular video  
+ PREF |  2 yrs |  Used by YouTube to help advertisers target preferences and serve up related content within an embedded YouTube video  
+  |   |    
+  ** _Recruitment Site Cookies_** |   |    
+ RMK0 | session  |  Contains visitor's encrypted e-mail address to eliminate the need to re-enter their email as they navigate  
+ RMK1 |  session  |  Used to identify a visitor during an apply action and provides security during an edit action  
+ RMK4 |  session  |  Indicates if the visitor has acknowledged the "cookies policy" banner  
+ RMK12 |  session  |  Used to simplify the workflow by auto-populating the email address in the subscribe box for future site visits  
+ JSESSIONID |  session  |  Used to identify new visitors for tracking and analytics  
+  
 ## How to Reach Us 
 
-Upon written request sent to [](https://web.archive.org/Website-Data-Privacy-Form.html "Lubrizol Website Data Privacy")to The Lubrizol Corporation, 29400 Lakeland Boulevard, Wickliffe, Ohio 44092, Lubrizol will allow you to review, update, and/or remove from our databases personally identifiable information that you provided to us. In such request, please include your name and e-mail address. Removal of personally identifiable information will prevent you from accessing restricted sites (example: ([www.mylubrizol.com](http://www.mylubrizol.com/)) unless you re-enter your personally identifiable information at a later date. 
+Upon written request sent to The Lubrizol Corporation, ATTN: Data Privacy Officer, 29400 Lakeland Boulevard, Wickliffe, Ohio 44092, Lubrizol will allow you to review, update, and/or remove from our databases personally identifiable information that you provided to us. In the request, please include your name and e-mail address. 
+
+Removal of personally identifiable information will prevent you from accessing restricted content and sites (example: ([www.mylubrizol.com](https://www.mylubrizol.com/)) unless you re-enter your personally identifiable information at a later date. 
 
 Lubrizol websites may contain links to third party sites that Lubrizol does not own or maintain. Lubrizol is not responsible for the privacy practices or other aspects of those sites. 
