@@ -1,82 +1,150 @@
-> *The following text is extracted and transformed from the sleeklens.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928211936id_/https%3A//sleeklens.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleeklens.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919154117id_/https%3A//sleeklens.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Sleeklens - Handmade professional Lightroom presets
 
-**When do we collect your information?**
+## ABOUT THIS PRIVACY POLICY
 
-We usually collect your information when you sign up for our newsletter, make a purchase on the site or when you register an account during checkout or at any time. We may also collect your information when you submit a contact form.
+Gringo Group ApS is a reputable digital media company which owns and operates several websites including: _[gearweare.com](https://www.gearweare.com/)_ , _[nicershoes.com](https://nicershoes.com/)_ , _[thegearhunt.com](https://thegearhunt.com/)_ , _[runnerclick.com](https://runnerclick.com/)_ , _[sleeklens.com](https://sleeklens.com/)_ , _[borncute.com](https://borncute.com/)_ and _[thatsweetgift.com](https://thatsweetgift.com/)_   (collectively, these sites are referred to as “Gringo Group Services” or simply “Services” in this Policy).
 
- **Disclosure on the collected information**
+This Privacy Policy describes, among other things:
 
-Some of the information we may collect includes one or both of your names, your phone number, your email address, credit card information or mailing information. Please note that you do not have to supply any personal information during checkout as you can also checkout as a “guest”.
+  * the types of information collected about you when you use the Gringo Group Services;
+  * how your information may be used and when it may be disclosed;
+  * your rights and how you can control this information; and
+  * how we protect your information.
 
- **How we use the information we collect**
 
-The information that we collect may be used in one or several of the following ways as may be applicable:
 
-1\. To process your transactions  
-2\. To sign you up for our newsletter  
-3\. To get in touch with you should there be any issues with your purchase or payment options  
-4\. To get back to you in case you submitted a contact form, emailed us or got in touch with us using any of our online platforms.
+## INFORMATION COLLECTED
 
- **Our Privacy Guarantee**
+## Information you provide directly to Gringo Group Services
 
-Any information that you submit to us, whether private or public, will not be exchanged, sold, transferred or in any way passed on to any third party, company or entity for any reason, without your express consent, other than for the sole reason of ensuring the successful delivery of your presets.
+You are not required to provide information about yourself when you visit a site controlled by Gringo Group Services. We may ask you for different types of information when you register for our services (including newsletters), enter one of our competitions, ask to work with us, or directly contact Gringo Group Services. The types of information we collect include your:
 
- **Amazon Affiliate Disclosure**
+  * Contact information, such as name, email address, postal address and phone number
+  * Username and password
+  * Age and date of birth
+  * Other demographic information, such as gender, job information, and postal code
+  * Public information, including profile information
+  * Communication preferences, such as which newsletters you would like to receive
+  * Correspondence you send to us
 
-Sleeklens has affiliate links on some posts and pages. These links gives us the chance to earn a cut if one clicks on these links and purchase through the site. This will in no way cost you extra.
 
-Sleeklens is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for website owners to earn advertising fees by advertising and linking to amazon.com, endless.com, smallparts.com, myhabit.com, and any other website that may be affiliated with Amazon Service LLC Associates Program.
 
- **How we protect your information**
+## Information Gringo Group Services collects automatically
 
-All your sensitive information, including your payment and/or credit card information, is sent over Secure Socket Layer (SSL) technology. It is also encrypted on our Payment Gateway’s servers and is only made accessible to only those who have the express authority as well as special access rights to those systems. Everyone with such privileges is mandated by law to keep all information confidential.
+Gringo Group Services may collect certain information automatically, including:
 
-We do not store any of your personal information, including your payment and/or credit card information on our servers.
+  * Your device type and settings, software used and browser type and operating system
+  * Your Internet Protocol (IP) address
+  * Websites or other services you visited before and after visiting a Gringo Group Service
+  * Web pages and advertisements you view and links you click on within Gringo Group Services
+  * Information collected through cookies
+  * Standard server log information
 
- **Our “Cookies” Policy**
 
-We do not track any behavioral analytics using cookies. Our sole use of cookies is to ensure that the website remembers your purchases and what you put into and remove from your cart. We also use cookies to help your computer remember your account and log you in automatically if you do no expressly sign out of your account.
 
- **Information Disclosure Policy**
+## Information Gringo Group Services obtains from other sources
 
-We do not, in any way, trade with, transfer or sell any of your personally identifiable information to any third parties. The exception is trusted third parties who help in the processing of you transactions, who may help us operate our website from time to time and who assist us in conducting our business better and offering better services to you. We ensure that any third parties that we disclose your information to also agree to keep it in the strictest confidence.
+When you sign up using your social media account, we gather information including your:
 
-We may release appropriate information in order to comply with enforceable laws, in order to ensure our site policies are enforced or protect the rights of our visitors and others. However, we may, from time to time, provide non-identifiable information to third parties for advertising, marketing or any other uses.
+  * Profile Information
+  * Email address
+  * Friend and contact lists
 
- **Third party products, services and/or links**
 
-We may, from time to time and at our own discretion, decide to include third party products on our website. All of these third party providers may have their own privacy policies. We do not have any liability or responsibility for those third party providers. We always aim to protect the integrity of our website and that is why we encourage you to send us feedback should you have something to say about thee third party providers.
 
- **Childrens Online Privacy Protection Act Compliance**
+## USE OF INFORMATION
 
-We comply fully with the COPPA (Childrens Online Privacy Protection Act) requirements. We shall never, in any way, collect information that comes from anyone who is below 13 years. All of the products that we make available on the site are geared towards people who are 13 years and older.
+We generally use information we collect about you to:
 
- **The reach of our Privacy Policy**
+  * Fulfill your requests for services and information, including to send you electronic newsletters
+  * Enable you to participate in competitions
+  * Provide you with information, special offers and promotional materials on behalf of Gringo Group Services, companies within our corporate family, and third parties, in accordance with applicable law
+  * Analyze the use of Gringo Group Services and information about visitors to our Services to understand and improve our service offerings
+  * Customize the content you see when you visit a site controlled by Gringo Group Services;
+  * Develop and provide advertising tailored to your interests
+  * Fulfill any other purposes that we will disclose to you either at the time we collect your information or pursuant to your consent
 
-This privacy policy covers the information that is collected through our website only. It does not cover any information that is collected offline.
 
- **The Terms and Conditions of this Privacy Policy**
 
-You are encouraged to [visit our Terms and Conditions page](https://sleeklens.com/terms-of-service/) which outlines the disclaimers, use and limitations of liability that govern the visit, use and interaction of our website.
+## DISCLOSURE OF INFORMATION
 
- **Your Consent**
+There may be times times when we must share your personal data with others such as when, for example, we are required to do so by law, or to protect our business, or to protect our users. We may also share your personal data with others if we sell our business or a part of it. We also:
 
-By visiting, using or in any other way interacting with our website, you consent to the application of this website’s Priovacy Policy.
+  * Allow authorized third parties to track and store information about visitors to our website
+  * Disclose your personal data to those who are providing services to us if they have appropriate processes to protect your personal data
 
- **Reservations for change of Privacy Policy**
 
-Sleeklens reserves the right to change any part or all of this Privacy Policy without pour users’ and visitors’ consent. Should any or all of this privacy policy change, we will post those changes on this page an any other appropriate place on our website.
 
- **Getting in touch with us**
+Otherwise, we will only share your personal information if you have consented to our doing so.
 
-You may get in touch with us using our email address or [our contact page](https://sleeklens.com/contact/) if you would like any clarifications regarding this privacy policy.
+## Amazon Services LLC
 
- **Ownership**
+Gringo Group ApS is a participant in the Amazon Services LLC Associates Program, which is an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
 
-Sleeklens.com is run, operated and maintained by Sleeklens. From time to time, this website may decide to accept various forms of affiliate payouts and deals as well as other forms of advertisement.
+## LEGAL BASIS FOR DATA PROCESSING
 
- **Sleeklens’ Return Policy**
+The legal basis we use to justify processing your personal data includes processing that is:
 
-Due to the digital nature of our products and the fact that they are instant downloads, we do not accept returns.
+  * necessary for the performance of the contract between you and Gringo Group Services (for example, to allow you to identify and authenticate yourself so you may use your account);
+  * necessary to comply with legal requirements (for example, to assist legal authorities in their investigations);
+  * necessary for our legitimate interests (for example, to manage our relationship with you and to improve the website and our Services); and
+  * based on consent you provide (for example, when you consent to us communicating with you about our products and services or provide you with marketing information).
+
+
+
+## Data Retention
+
+We retain your accurate, up-to-date and complete personal data as long as it is necessary for the purposes for which the personal data is processed and as long as needed in order to comply with our legal obligations (such as tax purposes).
+
+## GDPR RIGHTS FOR EUROPEAN UNION INDIVIDUALS
+
+The law gives you certain rights in relation to your personal data. If you would like to exercise or discuss these rights, please contact us at: danielc@gringogroupaps.com
+
+For data which we obtain and collect from you, you have the right to:
+
+  * Access this data and get a copy of it for free
+  * Make changes to your personal data if it is incomplete or inaccurate
+  * Restrict the processing of your personal data
+  * Ask us to erase your personal data
+  * Object to us processing your personal data
+  * Ask us to make your data portable
+  * Raise concerns regarding the use of your personal data by contacting the Danish Data Protection Authority at:
+
+
+
+Borgergade 28, 5.  
+1300 København K  
+Tlf. 33 19 32 00  
+dt@datatilsynet.dk
+
+## PROTECTING YOUR INFORMATION
+
+We at Gringo Group Services are committed to protecting your personal information. We have appropriate technical, organizational, and physical procedures in place to protect your information.  Please note that, as with any transaction, no data transmission or storage can be guaranteed to be 100% secure; however, we will do everything we can to protect your information.
+
+## THIRD PARTY WEBSITES
+
+Gringo Group Services contain links that will send you to websites and platforms owned by third party affiliates. Keepin mind that this Privacy Policy only applies to Gringo Group Services. We are not responsible for the privacy practices of affiliate websites, and we recommend that you review the privacy policies of each website that you visit.
+
+## INTERNATIONAL TRANSFER OF PERSONAL DATA
+
+Our company is registered and based in Denmark. In general, your data will be kept within the EU; however, there are times when we may transfer your data out of the EU. For example, we may use service providers not located in the EU to help improve our services to you. In such a case, we will only do so when we can provide an adequate level of protection to your personal data.
+
+## CHILDREN
+
+We do not knowingly collect personal data from children. If we become aware that a child has provided personal data to us, we will delete such data as soon as possible. If you have information that your child or any other child is using our service, please contact us at danielc@gringogroupaps.com
+
+## USER GENERATED CONTENT
+
+Some Gringo Group Services allow users to post their own content for reviews. Please remember that any information you post becomes public information, and we recommend you exercise caution when posting any personal information such as photos or your contact information. We may not be able to stop such information from being used in a way that violates this Privacy Policy, the law, or your personal privacy and safety.
+
+## CONTACT US
+
+If you have any questions or concerns about this Privacy Policy, the controller of your information is:
+
+Gringo Group ApS  
+Kaffevej 41, 5 sal, th  
+Rodovre 2610  
+Denmark  
+You can contact us at: danielc@gringogroupaps.com
