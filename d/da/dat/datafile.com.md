@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the datafile.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219062118id_/http%3A//www.datafile.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datafile.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919102157id_/http%3A//www.datafile.com/privacy.html) for the most accurate reproduction.*
 
 # DataFile.com - Reliable file hosting
 
-DataFile.com is a provider of online file storage service. Your use of the [www.datafile.com](http://datafile.com/) site is governed by DataFile Terms and Conditions and this Privacy Policy. The purpose of this Privacy Policy is to inform you about the service we provide, about the ways how the personal information you submit to us may be used, and how this information is protected on our website.
+Ехinеt Dеvеlорmеnt LP, with registered address Suitе 1 9-10 Dоck Strееt, Dundее, Sсоtlаnd, DD1 4BT, UK (hereinafter referred to as "datafile.com" ) provides a cloud storage service (hereinafter "Service") on the Internet under the domain datafile.com enabling Users to upload and download their own files. 
+
+Your use of the [www.datafile.com](http://datafile.com/) site is governed by DataFile Terms and Conditions and this Privacy Policy. The purpose of this Privacy Policy is to inform you about the service we provide, about the ways how the personal information you submit to us may be used, and how this information is protected on our website.
 
 DataFile.com ("us" or "we") respects the privacy of the visitors on its website. We may update this policy from time to time, so we ask you to check the policy regularly. We will notify you about significant changes by placing a prominent notice on this page and other places we find appropriate.
 
