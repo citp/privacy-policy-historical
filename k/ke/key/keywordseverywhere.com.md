@@ -1,47 +1,155 @@
-> *The following text is extracted and transformed from the keywordseverywhere.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512034326id_/https%3A//keywordseverywhere.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywordseverywhere.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919161105id_/https%3A//keywordseverywhere.com/privacy.html) for the most accurate reproduction.*
 
 # Keywords Everywhere Privacy Policy
 
-Your privacy is critically important to us. At KeywordsEverywhere.com we have adapted the privacy policy from [Wordpress](https://automattic.com/privacy/) that follow a few fundamental principles:
+Your privacy is critically important to us. At KeywordsEverywhere.com, we have adapted the privacy policy from [Wordpress](https://automattic.com/privacy/) that follow a few fundamental principles:
 
-  * We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for things like your gender or income level for no apparent reason.)
-  * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
-  * We don’t store personal information on our servers unless required for the on-going operation of one of our services.
+  * We are thoughtful about the personal information we ask you to provide and the personal information that we collect about you through the operation of our services.
+  * We store personal information for only as long as we have a reason to keep it.
+  * We aim for full transparency on how we gather, use, and share your personal information.
 
 
 
-Below is our privacy policy which incorporates these goals.
+Below is our Privacy Policy, which incorporates and clarifies these principles.
 
-If you have questions about deleting or correcting your personal data please contact us.
+### Who We Are and What This Policy Covers
 
-It is KeywordsEverywhere.com's policy to respect your privacy regarding any information we may collect while operating our websites.
+We are the folks behind Keywords Everywhere a popular browser add-on in the SEO space.
 
-### Website Visitors
+This Privacy Policy applies to information that we collect about you when you use our browser add-on in Chrome or Firefox
 
-Like most website operators, KeywordsEverywhere.com collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. KeywordsEverywhere.com’s purpose in collecting non-personally identifying information is to better understand how KeywordsEverywhere.com’s visitors use its website. From time to time, KeywordsEverywhere.com may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+Throughout this Privacy Policy we'll refer to our website, Chrome extension and Firefox add-on collectively as "Services." And if you'd like to learn more about which KeywordsEverywhere.com company is the controller of information about you, take a look at the section below on Controllers and Responsible Companies.
 
-KeywordsEverywhere.com also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users. KeywordsEverywhere.com only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below
+Below we explain how we collect, use, and share information about you, along with the choices that you have with respect to that information.
 
-### Gathering of Personally-Identifying Information
+### Information We Collect
 
-Certain visitors to KeywordsEverywhere.com's choose to interact with KeywordsEverywhere.com in ways that require KeywordsEverywhere.com to gather personally-identifying information. The amount and type of information that KeywordsEverywhere.com gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account to provide an email address. KeywordsEverywhere.com collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with KeywordsEverywhere.com. KeywordsEverywhere.com does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+We only collect information about you if we have a reason to do so-for example, to provide our Services, to communicate with you, or to make our Services better.
 
-### Protection of Certain Personally-Identifying Information
+#### _Information You Provide to Us_
 
-KeywordsEverywhere.com discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on KeywordsEverywhere.com's behalf or to provide services available at KeywordsEverywhere.com's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using KeywordsEverywhere.com's websites, you consent to the transfer of such information to them. KeywordsEverywhere.com will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, KeywordsEverywhere.com discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when KeywordsEverywhere.com believes in good faith that disclosure is reasonably necessary to protect the property or rights of KeywordsEverywhere.com, third parties or the public at large. If you are a registered user at KeywordsEverywhere.com and have supplied your email address, KeywordsEverywhere.com may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with KeywordsEverywhere.com. We expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. KeywordsEverywhere.com takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+It's probably no surprise that we collect information that you provide to us. The amount and type of information depends on the context and how we use the information. Here are some examples:
 
-### Cookies
+  * **Email Address:** We ask you to sign up for an API key using your Email Address. The API key is required for using the Chrome extension Firefox add-on. We do not require any other additional information.
+  * **Communications With Us (Hi There!):** You may also provide us information when you respond to surveys, communicate with us about a support question, or post a question about your site in our public forums.
 
-A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. KeywordsEverywhere.com uses cookies to help KeywordsEverywhere.com identify and track visitors, their usage of KeywordsEverywhere.com website, and their website access preferences. KeywordsEverywhere.com visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using KeywordsEverywhere.com's websites, with the drawback that certain features of KeywordsEverywhere.com's websites may not function properly without the aid of cookies.
 
-### Business Transfers
 
-If KeywordsEverywhere.com, or substantially all of its assets, were acquired, or in the unlikely event that KeywordsEverywhere.com goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of KeywordsEverywhere.com may continue to use your personal information as set forth in this policy.
+#### _Information We Collect Automatically_
 
-### Ads
+We also collect some information automatically:
 
-Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by KeywordsEverywhere.com and does not cover the use of cookies by any advertisers.
+  * **Log Information:** Like most online service providers, we collect information that web browsers, mobile devices, and servers typically make available, such as the browser type, IP address, unique device identifiers, language preference, referring site, the date and time of access, operating system, and mobile network information. We collect log information when you browse our website KeywordsEverywhere.com. We do not collect any log information when you are using the Chrome extension or Firefox Add-on.
+  * **Location Information:** We may determine the approximate location of your device from your IP address. We collect and use this information to, for example, calculate how many people visit our Services from certain geographic regions. We may also collect information about your precise location via our mobile apps (when, for example, you post a photograph with location information) if you allow us to do so through your mobile device operating system's permissions.
+  * **Information from Cookies & Other Technologies:** A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Pixel tags (also called web beacons) are small blocks of code placed on websites and emails. KeywordsEverywhere.com uses cookies and other technologies like pixel tags to help us identify and track visitors, usage, and access preferences for our Services, as well as track and understand email campaign effectiveness and to deliver targeted ads.
+
+
+
+### How And Why We Use Information
+
+#### _Purposes for Using Information_
+
+We use information about you as mentioned above and for the purposes listed below:
+
+  * To provide our Services-for example, to generate an API key for use with the Chrome extension or Firefox add-on;
+  * To further develop and improve our Services-for example by adding new features that we think our users will enjoy or will help them with online marketing;
+  * To monitor and analyze trends and better understand how users interact with our Services, which helps us improve our Services and make them easier to use;
+  * To measure, gauge, and improve the effectiveness of our advertising;
+  * To monitor and prevent any problems with our Services, protect the security of our Services, detect and prevent illegal activities, fight spam, and protect the rights and property of KeywordsEverywhere.com and others, which may result in us declining the use of our Services;
+  * To communicate with you, for example through an email, about offers and promotions offered by KeywordsEverywhere.com and others we think will be of interest to you, solicit your feedback, or keep you up to date on KeywordsEverywhere.com and our other products; and
+  * To personalize your experience using our Services, target our marketing messages to groups of our users (for example, those who have been our user for a certain length of time), and serve relevant advertisements.
+
+
+
+#### _Legal Bases for Collecting and Using Information_
+
+A note here for those in the European Union about our legal grounds for processing information about you under EU data protection laws, which is that our use of your information is based on the grounds that:
+
+(1) The use is necessary in order to fulfill our commitments to you under our Terms of Service or other agreements with you or is necessary to administer your account–for example, in order to enable the browser add-on using an API key; or
+
+(2) The use is necessary for compliance with a legal obligation; or
+
+(3) The use is necessary in order to protect your vital interests or those of another person; or
+
+(4) We have a legitimate interest in using your information–for example, to provide and update our Services, to improve our Services so that we can offer you an even better user experience, to safeguard our Services, to communicate with you, to measure, gauge, and improve the effectiveness of our advertising, and better understand user retention and attrition, to monitor and prevent any problems with our Services, and to personalize your experience; or
+
+(5) You have given us your consent–for example before we place certain cookies on your device and access and analyze them later on.
+
+### Sharing Information
+
+#### _How We Share Information_
+
+We do not sell our users' private personal information.
+
+We share information about you in the limited circumstances spelled out below and with appropriate safeguards on your privacy:
+
+  * **Subsidiaries, Employees, and Independent Contractors:** We may disclose information about you to our subsidiaries, our employees, and individuals who are our independent contractors that need to know the information in order to help us provide our Services or to process the information on our behalf. We require our subsidiaries, employees, and independent contractors to follow this Privacy Policy for personal information that we share with them.
+  * **Business Transfers:** In connection with any merger, sale of company assets, or acquisition of all or a portion of our business by another company, or in the unlikely event that KeywordsEverywhere.com goes out of business or enters bankruptcy, user information would likely be one of the assets that is transferred or acquired by a third party. If any of these events were to happen, this Privacy Policy would continue to apply to your information and the party receiving your information may continue to use your information, but only consistent with this Privacy Policy.
+  * **With Your Consent:** We may share and disclose information with your consent or at your direction.
+  * **Aggregated or De-Identified Information:** We may share information that has been aggregated or reasonably de-identified, so that the information could not reasonably be used to identify you. For instance, we may publish aggregate statistics about the use of our Services and we may share a hashed version of your email address to facilitate customized ad campaigns on other platforms.
+  * **Published Support Requests:** And if you send us a request (for example, via a support email or one of our feedback mechanisms), we reserve the right to publish that request in order to help us clarify or respond to your request or to help us support other users.
+
+
+
+### How Long We Keep Information
+
+We generally discard information about you when we no longer need the information for the purposes for which we collect and use it–which are described in the section above on How and Why We Use Information–and we are not legally required to continue to keep it.
+
+For example, we keep the web server logs that record information about a visitor to one of KeywordsEverywhere.com's websites, such as the visitor's IP address, browser type, and operating system, for approximately 30 days. We retain the logs for this period of time in order to, among other things, analyze traffic to KeywordsEverywhere.com's websites and investigate issues if something goes wrong on one of our websites.
+
+### Security
+
+While no online service is 100% secure, we work very hard to protect information about you against unauthorized access, use, alteration, or destruction, and take reasonable measures to do so, such as monitoring our Services for potential vulnerabilities and attacks.
+
+### Choices
+
+You have several choices available when it comes to information about you:
+
+  * **Opt-Out of Electronic Communications:** You may opt out of receiving promotional messages from us. Just follow the instructions in those messages. If you opt out of promotional messages, we may still send you other messages, like those about your account and legal notices.
+  * **Set Your Browser to Reject Cookies:** At this time, KeywordsEverywhere.com does not respond to "do not track" signals across all of our Services. However, you can usually choose to set your browser to remove or reject browser cookies before using KeywordsEverywhere.com's websites, with the drawback that certain features of KeywordsEverywhere.com's websites may not function properly without the aid of cookies.
+  * **Close Your Account:** While we'd be very sad to see you go, if you no longer want to use our Services, you can close your account. Please [email us for getting your account closed](mailto:akash@KeywordsEverywhere.com). Please keep in mind that we may continue to retain your information after closing your account, as described in How Long We Keep Information above–for example, when that information is reasonably needed to comply with (or demonstrate our compliance with) legal obligations such as law enforcement requests, or reasonably needed for our legitimate business interests.
+
+
+
+### Your Rights
+
+If you are located in certain countries, including those that fall under the scope of the European General Data Protection Regulation (AKA the "GDPR"), data protection laws give you rights with respect to your personal data, subject to any exemptions provided by the law, including the rights to:
+
+  * Request access to your personal data;
+  * Request correction or deletion of your personal data;
+  * Object to our use and processing of your personal data;
+  * Request that we limit our use and processing of your personal data; and
+  * Request portability of your personal data.
+
+
+
+You can usually access, correct, or delete your personal data using your account settings and tools that we offer, but if you aren't able to do that, or you would like to contact us about one of the other rights, scroll down to How to Reach Us to, well, find out how to reach us.
+
+EU individuals also have the right to make a complaint to a government supervisory authority.
+
+### Controllers and Responsible Company
+
+KeywordsEverywhere.com's Services are provided by the parent company called Axeman Tech Pvt Ltd.
+
+Axeman Tech Pvt Ltd  
+502 B Anisha Apartments   
+Yari Road, Versova  
+Mumbai 400061  
+Maharashtra  
+India
+
+### How to Reach Us
+
+If you have a question about this Privacy Policy, or you would like to contact us about any of the rights mentioned in the Your Rights section above, please [contact us](mailto:akash@KeywordsEverywhere.com).
+
+### Other Things You Should Know (Keep Reading!)
+
+#### _Ads and Analytics Services Provided by Others_
+
+Ads appearing on any of our Services may be delivered by advertising networks. Other parties may also provide analytics services via our Services. These ad networks and analytics providers may set tracking technologies (like cookies) to collect information about your use of our Services and across other websites and online services. These technologies allow these third parties to recognize your device to compile information about you or others who use your device. This information allows us and other companies to, among other things, analyze and track usage, determine the popularity of certain content, and deliver advertisements that may be more targeted to your interests. Please note this Privacy Policy only covers the collection of information by KeywordsEverywhere.com and does not cover the collection of information by any third party advertisers or analytics providers.
 
 ### Privacy Policy Changes
 
-Although most changes are likely to be minor, KeywordsEverywhere.com may change its Privacy Policy from time to time, and in KeywordsEverywhere.com's sole discretion. KeywordsEverywhere.com encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a KeywordsEverywhere.com account, you should also check your account for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+Although most changes are likely to be minor, KeywordsEverywhere.com may change its Privacy Policy from time to time. KeywordsEverywhere.com encourages visitors to frequently check this page for any changes to its Privacy Policy. If we make changes, we will notify you by revising the change log below, and, in some cases, we may provide additional notice (such as adding a statement to our homepage, or sending you a notification through email). Your further use of the Services after a change to our Privacy Policy will be subject to the updated policy.
+
+That's it! Thanks for reading.
