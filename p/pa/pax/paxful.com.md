@@ -1,74 +1,176 @@
-> *The following text is extracted and transformed from the paxful.com privacy policy that was archived on 2018-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180122010527id_/https%3A//paxful.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paxful.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919224229id_/https%3A//paxful.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which Paxful, Inc. collects, uses, maintains and discloses information collected from users (each, a "User") of the https://paxful.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Paxful, Inc..
+Welcome to the privacy policy for Paxful.com! Here we explain what data we collect when you come to our platform and use it. We also explain why we collect this data and who your data is shared with. Please read over this and contact us with any questions regarding this document. Before you can sign up for an account with Paxful, please review the policy and signify your acceptance of the various sections.
 
-### Personal identification information
+### What Data We Collect on You, Our Customer.
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+#### Biographical (Required)
 
-### Non-personal identification information
-
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
-
-### Web browser cookies
-
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
-
-### How we use collected information
-
-Paxful, Inc. may collect and use Users personal information for the following purposes:
-
-  * _To run and operate our Site_  
-We may need your information display content on the Site correctly. 
-  * _To improve customer service_  
-Information you provide helps us respond to your customer service requests and support needs more efficiently. 
-  * _To process payments_  
-Our Vendors may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties. 
-  * _To send periodic emails_  
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. 
+  * Name
+  * Email Address
+  * Phone Number
+  * Country
+  * Full Address
+  * Date of Birth
+  * Other Similar Biographical Data
 
 
 
-### How we protect your information
+#### Device Identifiers (Required)
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site. We take the strongest means possible to secure our data against software breeches and social engineering. We also use offer 2Factor Authentication.
+  * IP Addresses
+  * Cookies for user device authentication
+  * Other Similar Device Identifiers
 
-Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. Our Site is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users
 
-### Cookies
 
-A cookie is a small piece of information that is placed on your computer when you visit certain websites. Find out more about the use of cookies on http://www.cookiecentral.com.
+#### Paxful Account Details (Required)
 
-We use the following types of cookie:
+  * Username
+  * User Profile Information in the “Bio” section
+  * Profile Picture
+  * Joined Date
+  * Default Currency
+  * Time Zone
+  * Default Language
+  * Other Similar Account Details
 
-Analytics cookies that anonymously remember your computer or mobile device when you visit our website. They keep track of browsing patterns and build up a profile of how our readers use the website. We might use that information to target advertisements to you on our and other websites.
 
-Service cookies that help us to make our website work as efficiently as possible; remember your registration and login details; remember your settings preferences; and meter the number of pages you view for the purpose of administering subscriptions to Paxful.
 
-Third party advertising and analytics cookies, which are placed by or on behalf of independent advertisers who are advertising on our site. These cookies may be placed within the advertisement and elsewhere on our site. They are anonymous – they cannot identify individuals. They are used for statistical analysis by allowing the advertiser to count how many people have seen their advertisement or have seen it more than once. They might also allow the advertiser to tailor advertising to you when you visit other websites.
+#### Paxful Account Activity (Required)
 
-We have no access to third party cookies and third party organisations have no access to ours. The third party organisations that place cookies have their own strict privacy policies.
+  * Trade Chat Messages
+  * Trade Chat Attachments
+  * Trade Activity
+  * Transaction History
+  * Affiliate Name
+  * Affiliate ID
+  * Affiliate Link
+  * Affiliate Transactions
+  * Offers Created
+  * Offer Terms
+  * Trade Instructions
+  * Account Notifications
+  * Other Similar Account Activity
 
-### Sharing your personal information
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. 
 
-### Compliance with children's online privacy protection act
+#### Financial Data (Required)
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+  * Bitcoin Private Keys
+  * Bitcoin Public Keys
+  * Wallet Balance
+  * Bitcoin transactions received
+  * Bitcoin transactions sent
+  * Other Similar Financial Data
 
-### Changes to this privacy policy
 
-Paxful, Inc. has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-### Your acceptance of these terms
+#### KYC Documents
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+  * ID
+  * Proof of Address
+  * Selfie with ID
+  * Video
+  * Other Similar KYC Documents
 
-### Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-This document was last updated on November 28, 2016
+* * *
+
+### Where Your Data is Shared.
+
+Some of your data on Paxful.com will be shared with 3rd parties for purposes of providing you the best services possible. We do not sell your data. We share the following data with 3rd parties. Please consent to this before being able to sign up for an account on Paxful.com. 
+
+Some or all of your personal data may be shared with government agencies. This will only happen if an official legal request is sent to Paxful. Paxful may be required to keep these actions confidential from you. 
+
+#### Biographical
+
+  * Email Address
+  * Phone Number
+
+
+
+#### Device Identifiers
+
+  * IP Addresses
+
+
+
+#### Paxful Account Details
+
+  * Username
+
+
+
+#### Paxful Account Activity (Required)
+
+  * Trade Chat Messages
+  * Trade Chat Attachments
+  * Account Notifications
+
+
+
+#### Financial Data (Required)
+
+  * Bitcoin Private Keys
+  * Bitcoin Public Keys
+  * Bitcoin transactions
+
+
+
+#### Site Wide
+
+  * Website text and translations
+
+
+
+* * *
+
+### Why We Collect Certain Data.
+
+#### Biographical
+
+This information is collected to identify you in our systems for a variety of reasons including fraud protection, and certain financial regulations in various jurisdictions.
+
+#### Device Identifiers
+
+This information is collected to identify you in our systems for a variety of reasons including fraud protection, and certain financial regulations in various jurisdictions. This information also helps keep your account secure so we can keep a track of where your account has been accessed from. Logging your IP address also allows Paxful to offer you the best experience possible by determining your location for offer matching. 
+
+#### Paxful Account Details
+
+Your Paxful account details are collected to ensure you have the best experience possible on our platform. This information also allows other users to interact with you in easier ways. 
+
+#### Paxful Account Activity
+
+Your activity on Paxful.com is stored in order to provide you with great user feedback, amongst other things. As well as feedback for you, your account activity helps other users interact with you on Paxful easier. We also store this data in order to analyse transactions that may be in a dispute or other inquiry. 
+
+#### Financial Data
+
+Financial data on Paxful is used to provide you with feedback on your transactional history. It is also stored on Paxful in order to facilitate your transactions. 
+
+#### KYC Documents
+
+These documents are uploaded by customers who wish to verify their identity on the Paxful platform. This identity verification process allows you to have higher trade limits, and to have more access to offers on the platform. 
+
+* * *
+
+### How Long We Hold This Data
+
+Paxful.com holds your account data indefinitely. This is because all account data is associated with financial transactions which may need to be referenced by government authorities. Paxful never sells this data or shares this data. When you close your account, we stop sharing your data with 3rd parties immediately. All data is stored in encrypted servers. 
+
+* * *
+
+### Your Rights on Paxful
+
+You have a right to request your data on Paxful.com be sent to you in PDF or CSV form. 
+
+You have a right to request Paxful.com stop sharing your data with 3rd parties. 
+
+* * *
+
+### Publically Viewable Data
+
+Your user profile page and all open offers are publically viewable pieces of content. You may elect to make your profile viewable to only trusted Paxful users. You may also elect to make any of your individual trade offers viewable to only trusted Paxful users. 
