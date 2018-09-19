@@ -1,9 +1,37 @@
-> *The following text is extracted and transformed from the acr.org privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002051408id_/https%3A//www.acr.org/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acr.org privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919131051id_/https%3A//www.acr.org/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy - American College of Radiology
+# Privacy | American College of Radiology
 
-* * *
+The ACR is committed to protecting your privacy and will collect no personal information from you unless you consent to provide that information. This privacy policy applies when you visit or use our websites. This policy may be supplemented by additional privacy statements, terms or notices provided to you. 
 
-The ACR is committed to protecting your privacy and will collect no personal information from you unless you choose to provide that information. If you purchase an ACR product online, we collect personal information required to support the purchase of products, including names, addresses, and e-mail addresses. When existing demographic information in our database is incorrect or incomplete, that information will be updated. The ACR only shares your personal information when necessary to complete your order (eg, your credit card and billing information is shared with our bank for authorization, and your delivery address is shared with our fulfillment center and shipper). The fulfillment center uses your e-mail address to send you an order confirmation and to alert you to any changes in the availability of the items you ordered. The ACR sends e-mails to let you know about changes to its Web site and communicate with you about issues that matter to the professions of radiology, radiation oncology, and medical physics, but we do not sell e-mail addresses to third parties. The ACR, like most associations, does sell address information as a means of generating nondues income. 
+### Information we collect
 
-You may opt out of the e-mail contact or address label sales by notifying the College's Membership Services Department at (800) 347-7748 or [membership@acr.org](mailto:membership@acr.org).
+When visiting our websites, we collect information about you in two ways: directly from your input and through [cookies](https://web.archive.org/CookiePolicy).
+
+The types of personal information that we collect directly from you may include, but not limited to: 
+
+  * Contact details, such as your name, email address, postal address, phone number and social media handle
+  * Account login credentials
+  * Information that you share in your account profile
+
+
+
+### How we use your information
+
+The ACR uses and shares your personal information when necessary to complete your registration or order, including: 
+
+  * Credit card and billing information shared with our bank for authorization, 
+  * Delivery address shared with our fulfillment center and shipper. 
+  * E-mail address is used to send you an order confirmation and to alert you to any changes in the availability of the items you ordered. 
+  * The ACR sends e-mails to let you know about changes to its Web site and communicate with you about issues that matter to the professions of radiology, radiation oncology, and medical physics. 
+
+
+
+### For EU residents 
+
+ACR uses your personal data in accordance with the EU data protection legislation, including national or international legislation implementing the EU Data Protection Directive (until superseded), the Privacy in Electronic Communications (“ePrivacy”) Directive (EU), and the General Data Protection Regulation (EU) 2016/679 (“GDPR”), as amended or superseded. 
+
+**At any time, you may update your preferences or change your consent by notifying the College's Membership Services Department at 1-800-347-7748 or[membership@acr.org](mailto:membership@acr.org).   **
+
+
+
