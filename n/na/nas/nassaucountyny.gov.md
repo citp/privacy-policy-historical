@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nassaucountyny.gov privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001012006id_/https%3A//www.nassaucountyny.gov/1986/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nassaucountyny.gov privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919153738id_/https%3A//www.nassaucountyny.gov/1986/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nassau County, NY - Official Website
 
