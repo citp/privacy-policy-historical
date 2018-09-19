@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stevenspass.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704051559id_/https%3A//www.stevenspass.com/site/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stevenspass.com privacy policy that was archived on 2018-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180920013141id_/https%3A//www.stevenspass.com/site/footer/privacy) for the most accurate reproduction.*
 
 # Stevens Pass Washington Ski Resort - Privacy Policy
 
@@ -17,9 +17,5 @@ Stevens Pass contains links to other websites Strategic Partners. Stevens Pass d
 ##### Contacting the Website
 
 If you have any further questions about this policy or other practices of Stevens Pass, please contact [info@stevenpass.com](mailto:info@stevenpass.com).
-
-Beginning of dialog window. 
-
-Bike Park season is upon us and we are now open for downhill mountain biking, disc golf, scenic rides and hiking.
 
 Beginning of dialog window.
