@@ -1,24 +1,26 @@
-> *The following text is extracted and transformed from the mytuner-radio.com privacy policy that was archived on 2017-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170729194141id_/https%3A//mytuner-radio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytuner-radio.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919192631id_/https%3A//mytuner-radio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - myTuner Radio
 
 This Privacy Policy governs the manner in which myTuner collects, uses, maintains and discloses information collected from users (each, a "User") of myTuner Mobile Applications ("Apps"). This privacy policy applies to the Apps and all products and services offered by myTuner, including its website.
 
-By using the Apps or accessing the website you accept this policy. If you do not agree with it, please do not use our apps or website.
+By using the Apps or accessing the website you are subject to this policy. If you do not agree with it, please do not use our apps or website. In order to better control your privacy we recommend that you check the settings of your devices.
 
-This policy is an integral part of the Terms of Service (https://www.mytuner.mobi/terms/)
+This policy is an integral part of the Terms of Service (<https://mytuner-radio.com/terms/>) 
 
 #### Personal identification information
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our apps, register on the apps, and in connection with other activities, services, features or resources we make available on our apps. Users may be asked for, as appropriate, email address. Users may, however, visit our apps anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, however it may prevent them from engaging in certain apps related activities.
+We may collect personal identification information from Users in a variety of ways, including when Users visit our apps, register on the apps, and in connection with other activities, services, features or resources we make available on our apps. Users may be asked for an email address as necessary contract performance. Other personal data will be processed on the basis of consent and/or legitimate interests. Users may use our apps anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us and consent to its use. Users can always refuse to supply personal data and may revoke their consent at any time.
 
 We may automatically collect:
 
-  * * _Location Information_ that allows us to periodically determine your location, including your location relative to and within third party merchant locations.
-  * * _Device and Usage Information_ that may include (i) information specific to your mobile device (e.g., make, model, operating system, device identifier and similar information); (ii) information about your use of features, functions, or notifications on the device; and (iii) signal strength relating to WiFi or Bluetooth functionality, temperature, battery level, and similar technical data.
-  * * _Identifiers that you use to log in to or use our service,_ such as your user name or Facebook ID, and the public data associated with it.
+  * * _Location Information_ that allows us to periodically determine your location, including your location relative to and within third party merchant locations. 
+  * * _Device and Usage Information_ that may include (i) information specific to your mobile device (e.g., make, model, operating system, device identifier and similar information); (ii) information about your use of features, functions, or notifications on the device; and (iii) signal strength relating to WiFi or Bluetooth functionality, temperature, battery level, and similar technical data. 
+  * * _Identifiers that you use to log in to or use our service,_ such as your user name or Facebook ID, and the public data associated with it. 
 
 
+
+Unless you exercise the right of erasure we will keep this data for five years.
 
 #### Non-personal identification information
 
@@ -26,7 +28,7 @@ We may collect non-personal identification information about Users whenever they
 
 #### Cookies
 
-myTuner also automatically collects your IP address and referring website address, browser type, domain name and website/App access frequency. This information is intended to help facilitate your experience. In order to so Mytuner uses cookies, which, if you allow their use, store small amounts of data on your device when you visit a website/use an app.
+myTuner may automatically collect your IP address and referring website address, browser type, domain name and website/App access frequency. This information is intended to help facilitate your experience. In order to so Mytuner uses cookies, which, if you allow their use, store small amounts of data on your device when you visit a website/use an app. This is done in order to persue legitimate interests.
 
 Cookies are small text files containing a string of alphanumeric characters. myTuner may use both session cookies (disappear after you close your browser) and persistent cookies (used by your browser on subsequent visits).
 
@@ -40,30 +42,32 @@ myTuner uses Google Analytics. If you do not want Google Analytics to collect an
 
 myTuner may collect and use Users personal information for the following purposes:
 
-  * * To improve customer service Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * * To improve customer service Information you provide helps us respond to your customer service requests and support needs more efficiently. 
   * * Provide user and other support, including to our third-party business partners.
   * * Carry out other purposes that are disclosed to you and to which you consent.
-  * * To send periodic emails on company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via email.
-  * * The app can share collected location and bluetooth data for Interest-Based Advertising: Allowing Advertisers to infer interests and serve ads to users based on their app activity and location data over time
+  * * To send periodic emails on company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via email. 
+  * * The app can share collected location and bluetooth data for Interest-Based Advertising: Allowing Advertisers to infer interests and serve ads to users based on their app activity and location data over time 
 
 
+
+Unless you exercise the right of erasure, we will keep this data for five years.
 
 #### How we protect your information
 
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our apps.
 
-  * * To prevent the collection of Location Information on iOS mobile devices, disable the location services feature on the settings of your device.
-  * * To prevent the collection of Location Information on Android devices disable Bluetooth and Location.
-  * * On iOS devices you can opt-out from any interest-based advertising. Go on Settings. Privacy, Advertising and then click on "Limit Ad-tracking". When you have opted out using this setting on a device, advertisers will not use in-app information collected from that device to infer your interests or serve ads to that device that are targeted based on your inferred interests
+  * * To prevent the collection of Location Information on iOS mobile devices, disable the location services feature on the settings of your device. 
+  * * To prevent the collection of Location Information on Android devices disable Bluetooth and Location. 
+  * * On iOS devices you can opt-out from any interest-based advertising. Go on Settings. Privacy, Advertising and then click on "Limit Ad-tracking". When you have opted out using this setting on a device, advertisers will not use in-app information collected from that device to infer your interests or serve ads to that device that are targeted based on your inferred interests 
 
 
 
-#### Sharing your personal information
+#### Sharing information
 
 We may share the information we collect with third-party business partners who commit to comply with applicable laws concerning their usage of the information. Our third-party business partners may use the information either for themselves or on behalf of their own business partners to:
 
   * * Operate and improve their services;
-  * * Provide you with advertisements and information for products and services or send you other notifications based on variables such as your location, and assess your level of engagement with them;
+  * * Provide you with advertisements and information for products and services or send you other notifications based on variables such as your location, and assess your level of engagement with them; 
   * * Carry out other purposes that are disclosed to you and to which you consent.
 
 
@@ -78,17 +82,13 @@ By using our apps, you signify your acceptance of this policy. If you do not agr
 
 #### Your rights
 
-Pursuant to data protection laws, you have the right to access, modify, rectify and delete any of your individual data we might possess. To do so, please write to help@mytuner.mobi or to:
+Pursuant to data protection laws, you have the right to access, modify, rectify and delete any of your individual data we might possess. You can also revoke your consent at any time, object to the treatment, exercise your right of data portability or present a complaint to the supervision authority.
+
+In order to exercise your rights, please write to help@mytuner.mobi or to:
 
 AppGeneration Software Technologies, Lda  
-Praceta Adelino Amaro da Costa 778-3ºE  
-4050-012 Porto  
+Av. da Boavista, 848  
+4100-112 Porto  
 Portugal
 
 #### Contacting us
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: 
-
-myTuner  
-http://www.mytuner.mobi/  
-help@mytuner.mobi
