@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the protectionthroughgold.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006130130id_/http%3A//protectionthroughgold.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protectionthroughgold.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919151055id_/https%3A//protectionthroughgold.com/privacy) for the most accurate reproduction.*
 
 # Protection Through Gold - Privacy Policy
 
