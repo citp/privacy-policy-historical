@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the tafensw.edu.au privacy policy that was archived on 2018-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180312171633id_/https%3A//www.tafensw.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tafensw.edu.au privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919150852id_/https%3A//www.tafensw.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy - TAFE NSW
 
-  1. [Home](https://www.tafensw.edu.au/)
-  2. [Privacy](https://www.tafensw.edu.au/privacy)
-
-
+## Footer Links - Privacy - Content
 
 ## Website Privacy Statement
 
@@ -52,7 +49,7 @@ TAFE NSW reserves the right to make disclosures to relevant authorities where th
 
 ## Access and correction
 
-If TAFE NSW holds your personal information you can request to access or amend it by contacting the business centre with responsibility for the information. Requests for access to your personal information can also be made to TAFE NSW's [Information Access](https://www.tafensw.edu.au/information-access) Unit.
+If TAFE NSW holds your personal information you can request to access or amend it by contacting the business centre with responsibility for the information. Requests for access to your personal information can also be made to TAFE NSW's [Information Access](https://www.tafensw.edu.au/information-access) Unit.
 
 ## Updating statement
 
@@ -60,4 +57,4 @@ TAFE NSW acknowledges and embraces the developing nature of online communication
 
 ## More about privacy
 
-For more information about how TAFE NSW handles your personal information, please see our [Privacy Management Plan](https://www.tafensw.edu.au/__data/assets/pdf_file/0018/29331/privacy-management-plan-march-2014.pdf).
+For more information about how TAFE NSW handles your personal information, please see our [Privacy Management Plan](https://www.tafensw.edu.au/__data/assets/pdf_file/0018/29331/privacy-management-plan-march-2014.pdf).
