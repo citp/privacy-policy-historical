@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kde-look.org privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706025111id_/https%3A//store.kde.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kde-look.org privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919210213id_/https%3A//store.kde.org/privacy) for the most accurate reproduction.*
 
 # store.kde.org
 
