@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 65daigou.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421024122id_/https%3A//www.65daigou.com/Help/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 65daigou.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919184119id_/https%3A//ezbuy.sg/Help/PrivacyPolicy) for the most accurate reproduction.*
 
 # Most efficient, cost effective and reliable agent.
 
@@ -14,7 +14,7 @@ We require this information in order to be able to provide our services to you, 
 
   * • We may use the information to improve our services.  
 
-  * • We may periodically send promotional news about changes to our services or special offers that we think you may find interesting, using the email which you have provided.  
+  * • We may periodically send promotional news about changes to our services or special offers that we think you may find interesting, using the personal particulars which you have provided.  
 
   * • From time to time, we may contact you for market research purposes through the email which you have provided. Participation in our research is not mandatory and is completely optional.  
 
@@ -40,10 +40,8 @@ Our website may contain links to enable you to visit other websites of interest 
 
 **Changes to Privacy Policy**
 
-65daigou reserves the right to modify and change the Privacy Policy at any time provided the changes are published on our site. 
+ezbuy reserves the right to modify and change the Privacy Policy at any time provided the changes are published on our site. 
 
-**Complain about breaches of policy**
+**Complaint about breaches of policy**
 
-Please contact us as set below if you have any questions about this Privacy Policy, any queries about our business practices, or any of your dealings with us, or our treatment of your personal information. Email: service@65daigou.com 
-
-**Update on 2015-09-16**
+Please contact us as set below if you have any questions about this Privacy Policy, any queries about our business practices, or any of your dealings with us, or our treatment of your personal information. Email: support@ezbuy.com 
