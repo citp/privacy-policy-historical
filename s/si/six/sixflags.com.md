@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sixflags.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225001226id_/https%3A//www.sixflags.com/national/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixflags.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919165735id_/https%3A//www.sixflags.com/national/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Six Flags
 
-_Effective date: December 26, 2014_
+_Effective date: September 15, 2017_
 
-Six Flags Entertainment Corporation (“Six Flags,” “we,” “us,” and “our”) owns and operates sixflags.com (this “Site”). This Online Privacy Policy (this “Policy”) describes our commitment to privacy and reflects the importance we place on earning and keeping your trust.
+Six Flags Entertainment Corporation (“Six Flags,” “we,” “us,” and “our”) owns and operates sixflags.com (the “Website”) and the Six Flags Mobile Application (the “App”) (together, the “Site”). This Online Privacy Policy (this “Policy”) describes our commitment to privacy and reflects the importance we place on earning and keeping your trust.
 
 To jump to a particular section, click on the relevant link. Otherwise, scroll down to read the entire Policy.
 
@@ -12,6 +12,7 @@ To jump to a particular section, click on the relevant link. Otherwise, scroll d
   * Your Consent
   * Our Terms of Use
   * Your Choices
+  * Location Data
   * This Policy May Change
   * Information We Collect
   * Information About Third-Party Cookies
@@ -29,7 +30,7 @@ To jump to a particular section, click on the relevant link. Otherwise, scroll d
 
 ## Scope of This Policy
 
-Six Flags collects certain information about or related to you through this Site. Some of the information Six Flags collects may be “personal information”—information that identifies you personally, alone or in combination with other information available to us. Other information may be nonpersonally identifiable, such as your IP address.
+Six Flags collects certain information about or related to you through this Site. Some of the information Six Flags collects may be “personal information”—information that identifies you personally, alone or in combination with other information available to us. Other information may be nonpersonally identifiable, such as your IP address or operating system.
 
 Six Flags has provided this Policy so that you will know what information Six Flags collects, how Six Flags uses this information, the types of third parties with whom Six Flags may share this information, and some of the choices that are available to you.
 
@@ -41,7 +42,7 @@ By using this Site, you are consenting to the collection, use, disclosure, and t
 
 ## Our Terms of Use
 
-This Policy is part of the [Terms of Use](https://web.archive.org/web/20161225001226id_/https%3A//www.sixflags.com/national/terms-of-use) that govern your use of this Site. A link to our [Terms of Use](https://web.archive.org/web/20161225001226id_/https%3A//www.sixflags.com/national/terms-of-use) is provided at the bottom of each page of this Site.
+This Policy is part of the [Terms of Use](https://web.archive.org/web/20180919165735id_/https%3A//www.sixflags.com/national/terms-of-use) that govern your use of this Site. A link to our [Terms of Use](https://web.archive.org/web/20180919165735id_/https%3A//www.sixflags.com/national/terms-of-use) is provided at the bottom of each page of this Site.
 
 ## Your Choices
 
@@ -51,6 +52,10 @@ _Do Not Track Mechanisms._ California law requires this Policy to address how we
 
 _Previously Expressed Preferences._ You may change previously expressed preferences regarding how we use your information. For example, you can opt out of promotional emails we send to you by selecting the “unsubscribe” link located at the bottom of each communication. To change other preferences, please contact us using the information provided below.
 
+## Location Data
+
+When you download the App, we may ask your permission to track your precise, real-time location. If you consent, we may track your location even when you are not using the App. You may change your location-tracking preferences at any time through the settings on your device or through the settings section in the App. Such location-tracking services may be erroneous, inaccurate, incomplete or time-delayed. 
+
 ## This Policy May Change
 
 Six Flags reserves the right to update or modify this Policy and any Privacy Notice, at any time and without prior notice, by posting the revised version of the Policy or Privacy Notice on this Site. These changes will only apply to the information we collect after we have posted the revised Policy or Privacy Notice on this Site.
@@ -59,7 +64,7 @@ Your use of this Site following any such change constitutes your agreement that 
 
 ## Information We Collect
 
-Information You Manually Provide. Six Flags collects the information you manually provide (using your keyboard, mouse, or touchpad) when you use this Site, for example, we collect the information you provide when you communicate with us, purchase tickets, register for a sweepstakes, or otherwise interact with this Site. Some of the information you manually provide may be personal information, such as your name and contact information.
+Information You Manually Provide. Six Flags collects the information you manually provide (using your keyboard, mouse, touchpad, or screen) when you use this Site, for example, we collect the information you provide when you communicate with us, purchase tickets, register for a sweepstakes, or otherwise interact with this Site. Some of the information you manually provide may be personal information, such as your name and contact information.
 
 _Information From Third-Party Social Media Platforms._ You may be able to register with, log on to, or enhance your profile on this Site by choosing to automatically populate the requested data fields with information you previously provided to a third-party social media platform (such as Facebook or Twitter). By doing this, you are asking the third-party platform to send us information, including personal information, from your profile on that platform. We treat that information as we do any other information you give to us when you register, log on, or enhance your profile. 
 
@@ -105,7 +110,7 @@ Generally, we use the information we collect through this Site:
 
 _With Third–Party Vendors._ Six Flags shares information collected through this Site with third-party vendors who act for us or on our behalf. For example, we may use third-party vendors to design and operate this Site; to conduct surveys; and to help us with our promotional efforts. These third-party vendors may need information about you to perform their functions.
 
-_With Other Users of this Site._ You may be able to submit User-Generated Content on or through this Site. Similarly, User-Generated Content that you post on our Facebook page or through Twitter may automatically appear on this Site using functionality made available by those third-party platforms. In this Policy, “User-Generated Content” or “UGC” refers to content that you post using social networking tools and that does not constitute “Feedback” (as that term is defined in our [Terms of Use](https://web.archive.org/web/20161225001226id_/https%3A//www.sixflags.com/national/terms-of-use)). Any personal information contained in UGC can be read, collected, or used by others. In addition, we may use UGC you submit for advertising campaigns and other promotions. We may or may not use your name in connection with such use, and we may or may not seek your consent before using the content for such purposes. Therefore, you should have no expectation of privacy with respect to UGC you submit on or through this Site.
+_With Other Users of this Site._ You may be able to submit User-Generated Content on or through this Site. Similarly, User-Generated Content that you post on our Facebook page or through Twitter may automatically appear on this Site using functionality made available by those third-party platforms. In this Policy, “User-Generated Content” or “UGC” refers to content that you post using social networking tools and that does not constitute “Feedback” (as that term is defined in our [Terms of Use](https://web.archive.org/web/20180919165735id_/https%3A//www.sixflags.com/national/terms-of-use)). Any personal information contained in UGC can be read, collected, or used by others. In addition, we may use UGC you submit for advertising campaigns and other promotions. We may or may not use your name in connection with such use, and we may or may not seek your consent before using the content for such purposes. Therefore, you should have no expectation of privacy with respect to UGC you submit on or through this Site.
 
 _With Third-Party Social Media Platforms._ We may provide functionality on this Site that allows you to automatically post information about the actions you take on this Site to a third-party social media platform (such as Facebook or Twitter). If you choose to take advantage of this functionality, people with access to your profile on the third-party platform may be able to see the actions you have taken—for example, the comments you have posted or the items you have purchased. Thus, you should have no expectation of privacy in those actions. Further, if you choose to link your profile on this Site with an account on a third-party social media platform, we may share the information in your profile with that third-party platform.
 
@@ -115,7 +120,7 @@ _In aggregate or de-identified form._ We use information collected through this 
 
 _As Part of a Business Transfer._ Your information may be transferred to successor organization if, for example, we transfer the ownership or operation of this Site to another organization or if we merge with another organization. If such a transfer occurs, the successor organization’s use of your information will still be subject to this Policy and the privacy preferences you have expressed to us.
 
-_To Comply with Laws and Protect Our Rights and the Rights of Others._ We may disclose your information when we, in good faith, believe disclosure is appropriate to comply with the law, a court order or a subpoena. We may also disclose your information to prevent or investigate a possible crime, such as fraud or identity theft; to protect the security of this Site; to enforce or apply our online [Terms of Use](https://web.archive.org/web/20161225001226id_/https%3A//www.sixflags.com/national/terms-of-use) or other agreements; or to protect our own rights or property or the rights, property or safety of our users or others.
+_To Comply with Laws and Protect Our Rights and the Rights of Others._ We may disclose your information when we, in good faith, believe disclosure is appropriate to comply with the law, a court order or a subpoena. We may also disclose your information to prevent or investigate a possible crime, such as fraud or identity theft; to protect the security of this Site; to enforce or apply our online [Terms of Use](https://web.archive.org/web/20180919165735id_/https%3A//www.sixflags.com/national/terms-of-use) or other agreements; or to protect our own rights or property or the rights, property or safety of our users or others.
 
 _As Described in a Privacy Notice or click-through agreement._ We reserve the right to disclose your information as described in any Privacy Notice posted on a page of this Site where you provide that information. By providing your information on that page you will be consenting to the disclosure of your information as described in that privacy notice. We also reserve the right to disclose your information as described in any click–through agreement to which you have agreed.
 
