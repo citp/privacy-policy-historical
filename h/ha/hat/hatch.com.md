@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hatch.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015063609id_/https%3A//www.hatch.com/About-Us/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hatch.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919205950id_/https%3A//www.hatch.com/en/About-Us/Privacy-Statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -6,8 +6,10 @@ Hatch Ltd. and Hatch Technologies Ltd. and their respective affiliates (collecti
 
 ###  What personal information do we collect?
 
-As this website provides the opportunity to apply for employment, the personal information that you provide to us in the application process will be stored and processed by a third party based in the United States and transferred to relevant Hatch employees for the purposes of considering you for career opportunities within Hatch. We may also collect information from public sources, educational institutions and other third parties such as former employers and referees to verify or add to information you have provided to us.   
-Use and disclosure of information  
+As this website provides the opportunity to apply for employment, the personal information that you provide to us in the application process will be stored and processed by a third party based in the United States and transferred to relevant Hatch employees for the purposes of considering you for career opportunities within Hatch. We may also collect information from public sources, educational institutions and other third parties such as former employers and referees to verify or add to information you have provided to us. 
+
+#### Use and disclosure of information
+
 Hatch is committed to neither use nor disclose personal information that it has collected, other than the purpose for which it was collected or any reasonable secondary purpose, including compliance with applicable laws. It is Hatch’s policy to obtain your written consent before it uses personal information for a purpose or in a manner different to the purpose or manner that was disclosed to you. However Hatch may collect and provide statistics about the web site and its users to other third parties. To assist us in providing a quality service to you and to evaluate our website a "cookie" (a data file that may be written to your computer by a web site) may be used. Only anonymous operating system data is collected such as domain, browser and IP address. No personal information can be viewed and no data can be accessed on your hard drive or other storage facilities.
 
 ####  Accessing and accuracy of your personal information
@@ -34,7 +36,7 @@ As we plan to keep our privacy statement current, this information can be subjec
 
 Detailed requirements for specific countries, which prevail over the Global Privacy Statement to the extent of any inconsistency, are linked below:
 
-  * [Privacy Statement - Australia](https://web.archive.org/About-Us/Privacy-Statement-Australia) 
+  * [Privacy Statement - Australia](https://web.archive.org/About-Us/Privacy-Statement-Australia)
 
 
 
