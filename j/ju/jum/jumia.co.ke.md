@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jumia.co.ke privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129094140id_/https%3A//www.jumia.co.ke/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumia.co.ke privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919091337id_/https%3A//www.jumia.co.ke/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Jumia Kenya
 
@@ -10,16 +10,19 @@ Your privacy is important to Jumia and always has been. So we've developed a Pri
 User data may be shared with Jumia providers to improve order processing and customer service. It may also be used both for marketing research purposes and customer relation management, it being specified that some of those providers are not located in the European Union.
 
 **What is done with your personal information?**  
-User data collected help us to personalize our website according to each users wishes and preferences. Offering you the most spontaneous and friendly surfing experience is our priority. Data collected are for statistical purposes only and help us to:
+User data collected help us to personalize our website according to each user's wishes and preferences. Offering you the most spontaneous and friendly surfing experience is our priority. Data collected are for statistical purposes only and help us to:
 
   * Process orders
   * Deliver products and services
+  * Develop products and services
   * Process payments and communicate with you about your orders, products, services and promotional offers
   * Keep and update our database and your accounts with us
   * Propose a unique and targeted navigation experience
   * Prevent and detect fraud and abuse on our website
 
 
+
+By completing an order or signing up, you agree to receive a) emails associated with finalizing your order, which may contain relevant offers from third parties, and b) emails asking you to review Jumia and your purchase and c) promotional emails, SMS and push notifications from Jumia. You may unsubscribe from promotional emails via a link provided in each email. If you would like us to remove your personal information from our database, unsubscribe from emails and/or SMS, please email Customer Service email address by country.
 
 2\. What about Cookies?
 
