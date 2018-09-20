@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seerinteractive.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521120156id_/http%3A//www.seerinteractive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seerinteractive.com privacy policy that was archived on 2018-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180920122025id_/http%3A//www.seerinteractive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Seer Interactive
 
