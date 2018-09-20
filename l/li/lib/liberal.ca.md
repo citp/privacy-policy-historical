@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liberal.ca privacy policy that was archived on 2018-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180210064725id_/https%3A//www.liberal.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liberal.ca privacy policy that was archived on 2018-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180920224949id_/http%3A//www.liberal.ca/privacy) for the most accurate reproduction.*
 
 # » Privacy Policy
 
