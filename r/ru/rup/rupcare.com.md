@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rupcare.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521115207id_/http%3A//rupcare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rupcare.com privacy policy that was archived on 2018-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180920164934id_/http%3A//rupcare.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RupCare:: Bangladesh's First Style, Fashion, Beauty care, Skin care, Hair care, Celebs, Women, Health, Home Decor, Recipes Site
 
