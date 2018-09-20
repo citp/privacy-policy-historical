@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transformersgame.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117175953id_/http%3A//www.hasbro.com/en-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transformersgame.com privacy policy that was archived on 2018-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180920232205id_/http%3A//www.hasbro.com/en-us/privacy) for the most accurate reproduction.*
 
 # None
 
@@ -6,7 +6,7 @@
 
 **HASBRO WEBSITE PRIVACY POLICY**
 
-(Last Updated: 7/20/2017)
+(Last Updated: 2/16/2018)
 
  **WELCOME!**
 
@@ -95,7 +95,7 @@ In some cases, we may also collect information you provide about others, such as
 
  **Information We Collect Automatically From You**
 
-When you access or use our Services, we may also automatically collect information about your visit. When you visit our websites, the personal information we collect is your computer's Internet Protocol (“IP”) address, which we use for the support of our internal operations. The non-personal information we collect includes your operating system, access times, browser type and language, country, and the URL of the website you visited before navigating to our Services. If you access our Services via a mobile device, we may also collect your device make and model, mobile carrier, operating system version, language your device is set to, mobile web browser type and version, the country in which you are using your device, and non-personal analytics and statistical data regarding use of the websites (e.g., downloads, number of users, sessions, frequency of use, retention, territories, and in-game events). Please be sure to review Hasbro’s [_Mobile Privacy Policy_](http://www.hasbro.com/app_esrb_privacy) or [_Cast-Enabled Application Privacy Policy_](http://www.hasbro.com/en-us/privacy-connectedtv) to learn more about our privacy practices in relation to mobile application usage.
+When you access or use our Services, we may also automatically collect information about your visit. When you visit our websites, the personal information we collect is your computer's Internet Protocol (“IP”) address, which we use for the support of our internal operations. The non-personal information we collect includes your operating system, access times, browser type and language, country, and the URL of the website you visited before navigating to our Services. If you access our Services via a mobile device, we may also collect your device make and model, mobile carrier, operating system version, language your device is set to, mobile web browser type and version, the country in which you are using your device, and non-personal analytics and statistical data regarding use of the websites (e.g., downloads, number of users, sessions, frequency of use, retention, territories, and in-game events). Please be sure to review Hasbro’s [_Mobile Privacy Policy_](https://docs.hasbro.com/en-us/legal/app_esrb_privacy) or [_Cast-Enabled Application Privacy Policy_](https://docs.hasbro.com/en-us/legal/privacy-connectedtv) to learn more about our privacy practices in relation to mobile application usage.
 
 To collect this information, we use various technologies, including the following:
 
@@ -105,6 +105,8 @@ To collect this information, we use various technologies, including the followin
 
  **Log Files:** Log files record website activity on our Services and enable us to gather statistics about our users' browsing habits. These entries help Hasbro determine (among other things) how many and how often users have accessed or used our Services, which pages of our Services they've visited, and other similar data.
 
+ **Do Not Track (DNT) Signals:** Your browser may allow you to set a Do Not Track (DNT) signal indicating that you do not wish your online activity to be tracked. Currently, our system does not support and cannot act on DNT signal headers that we may receive. However, the choices that we provide you concerning collection and use of your personal information will continue to operate as described in this Privacy Policy
+
 We may associate the information we collect from these technologies with other personal information that you provide for the purposes described in this Policy.
 
  **Information We Collect from Third Parties**
@@ -113,15 +115,15 @@ We may also obtain information from other sources and combine that with informat
 
  **Third-Party Technology**
 
-For a list of third-party partners whose technology we have integrated on our site, please click [_here_. ](http://www.hasbro.com/en-us/thirdpartieslist)If you have any inquiries regarding our partner's privacy practices or how they use your information, you can review our partner’s privacy policy and terms of use or contact [_Hasbro Consumer Care_](http://corporate.hasbro.com/en-us/consumer-care).
+For a list of third-party partners whose technology we have integrated on our site, please click [_here_. ](https://docs.hasbro.com/legal/thirdpartieslist)If you have any inquiries regarding our partner's privacy practices or how they use your information, you can review our partner’s privacy policy and terms of use or contact [_Hasbro Consumer Care_](http://corporate.hasbro.com/en-us/consumer-care).
 
  **Website Analytics**
 
-We use analytics services and software provided by third parties (identified [_here_](http://www.hasbro.com/en-us/thirdpartieslist)) to help us understand how users access and use the Services. These tools and services use cookies, web beacons and other devices or technologies on our Services to enable them to track traffic data. The data collected typically includes information such as your IP address, your Internet Service Provider, your web browser, the time spent on web pages, the links clicked and the advertisements viewed on those pages. We use this information to improve our Services and your experience, to see which areas and features of our Services are popular, and to count visits.
+We use analytics services and software provided by third parties (identified [_here_](https://docs.hasbro.com/legal/thirdpartieslist)) to help us understand how users access and use the Services. These tools and services use cookies, web beacons and other devices or technologies on our Services to enable them to track traffic data. The data collected typically includes information such as your IP address, your Internet Service Provider, your web browser, the time spent on web pages, the links clicked and the advertisements viewed on those pages. We use this information to improve our Services and your experience, to see which areas and features of our Services are popular, and to count visits.
 
  **Third Party Advertising**
 
-We engage third parties to place ads for our products and services on other websites. These third parties use cookies, web beacons and other devices or technologies to collect information about your visits to websites and mobile applications, including Hasbro’s websites and mobile applications. The data collected typically includes information such as your IP address, your web browser, web pages viewed, time spent on pages, links clicked and whether you purchased an advertised product. These third parties use this information to deliver advertising and/or content targeted to your interests. For more information about targeted advertising provided by these third parties, and how to opt out of having your information used in this way by companies that participate in the Digital Advertising Alliance, please visit: [_www.aboutads.info/choices_](http://www.aboutads.info/choices) or [_www.networkadvertising.org/managing/opt_out.asp_](http://www.networkadvertising.org/managing/opt_out.asp). You may refer to our list of third parties ([ _here_](http://www.hasbro.com/en-us/thirdpartieslist)) in order to see which of our third party service providers offer consumer opt-out choices through the Digital Advertising Alliance’s (DAA) and/or Network Advertising Initiative’s (NAI) sites. Hasbro is not responsible for the effectiveness of, or compliance with, any third parties’ opt-out options or programs or the accuracy of their statements regarding their opt-out options or programs.
+We engage third parties to place ads for our products and services on other websites. These third parties use cookies, web beacons and other devices or technologies to collect information about your visits to websites and mobile applications, including Hasbro’s websites and mobile applications. The data collected typically includes information such as your IP address, your web browser, web pages viewed, time spent on pages, links clicked and whether you purchased an advertised product. These third parties use this information to deliver advertising and/or content targeted to your interests. For more information about targeted advertising provided by these third parties, and how to opt out of having your information used in this way by companies that participate in the Digital Advertising Alliance, please visit: [_www.aboutads.info/choices_](http://www.aboutads.info/choices) or [_www.networkadvertising.org/managing/opt_out.asp_](http://www.networkadvertising.org/managing/opt_out.asp). You may refer to our list of third parties ([ _here_](https://docs.hasbro.com/legal/thirdpartieslist)) in order to see which of our third party service providers offer consumer opt-out choices through the Digital Advertising Alliance’s (DAA) and/or Network Advertising Initiative’s (NAI) sites. Hasbro is not responsible for the effectiveness of, or compliance with, any third parties’ opt-out options or programs or the accuracy of their statements regarding their opt-out options or programs.
 
  _Back to top_
 
@@ -153,7 +155,7 @@ Hasbro is committed to compliance with the [_Children’s Online Privacy Protect
 
  **Services Directed to Children**
 
-Hasbro’s Services contain content appropriate for a wide range of audiences, including Children. For a list of Services that Hasbro treats as being directed to Children under COPPA, please contact our Senior Digital Compliance Specialist at [_Rachel.Mccaughey@hasbro.com_](mailto:Rachel.Mccaughey@hasbro.com).
+Hasbro’s Services contain content appropriate for a wide range of audiences, including Children. For a list of Services that Hasbro treats as being directed to Children under COPPA, please contact [_hopp.us@hasbro.com_](mailto:hopp.us@hasbro.com).
 
  **Collection and Use of Children's Personal Information**
 
@@ -273,17 +275,13 @@ Pawtucket, RI 02861
 (800) 255-5516  
  
 
-For any other issues, please contact [_Hasbro Consumer Care_](http://corporate.hasbro.com/en-us/consumer-care). For additional information about our Services, please see our [_Terms and Conditions of Use_](http://www.hasbro.com/home/terms.html).
+For any other issues, please contact [_Hasbro Consumer Care_](http://corporate.hasbro.com/en-us/consumer-care). For additional information about our Services, please see our [_Terms and Conditions of Use_](https://docs.hasbro.com/en-us/legal/terms).
 
 As aforementioned, Hasbro is a licensee of the ESRB’s Privacy Certified Program. If you believe that we have not responded to your privacy-related inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at [_https://www.esrb.org/privacy/contact.aspx_](https://www.esrb.org/privacy/contact.aspx) or:
 
  **ESRB**  
 Attn: Privacy Certified Program  
-420 Lexington Avenue, Suite 2024  
+420 Lexington Avenue, Suite 2240  
 New York, NY 10170
 
 [ _privacy@esrb.org_](mailto:privacy@esrb.org?subject=General%20Privacy%20Policy%20Question)
-
- _Back to top_
-
-[](http://www.esrb.org/confirm/hasbro-confirmation.jsp)[](http://www.esrb.org/confirm/hasbro-confirmation.jsp)
