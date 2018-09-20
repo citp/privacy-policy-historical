@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vespa.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520032249id_/http%3A//www.vespa.com/us_EN/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vespa.com privacy policy that was archived on 2018-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180920023201id_/https%3A//www.vespa.com/us_EN/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Vespa.com
+# Vespa USA Privacy Policy
 
 
 
