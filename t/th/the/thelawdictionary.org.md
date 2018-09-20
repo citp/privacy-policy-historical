@@ -1,50 +1,175 @@
-> *The following text is extracted and transformed from the thelawdictionary.org privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617184344id_/https%3A//thelawdictionary.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelawdictionary.org privacy policy that was archived on 2018-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180920164606id_/https%3A//thelawdictionary.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy – Last revised: Oct 5, 2012
+**Privacy Policy**
 
- **TheLawDictionary.org** respects your privacy. When you use TheLawDictionary.org or any other online products or websites that we own (our “sites”) and mobile applications (our “apps”), we collect information about you and use it to facilitate and improve our services. Information about you may also be shared with other companies. For instance, companies engaged in “targeted” or “behavioral” advertising present ads that might be of interest to you based on information about your online activities. We want to be clear about how information about you may be used and what your privacy options are.
+  
+This privacy policy applies between you, the User of this Website and SURESWIFT CAPITAL INC., the owner and provider of this Website https://thelawdictionary.org. TheLawDictionary.org takes the privacy of your information very seriously. This privacy policy applies to our use of any and all Data collected by us or provided by you in relation to your use of the Website. Please read this privacy policy carefully.
 
-This Privacy Policy explains what information we collect, how we use it, how other companies may use it, and tracking technologies used to collect information. If we make any material changes to our privacy practices, we will post a revised Privacy Policy on this page. If you have any questions, please contact us by sending an email [here](https://thelawdictionary.org/contact/).
+##  **Definitions and interpretation**
 
- **Information collected automatically** : When you visit our sites and use our apps, we automatically collect and store information about your computer or mobile device and your activities. This information includes:
+  1. In this privacy policy, the following definitions are used:  
+  
+**Data** **  
+** Collectively all information that you submit to TheLawDictionary.org via the Website. This definition incorporates, where applicable, the definitions provided in the Data Protection Act 1998 and the European Union’s 2018 General Data Protection Regulation (GDPR);  
+  
+**Cookies** **  
+** A small text file may be placed on your computer by this Website when you visit certain parts of the Website and/or when you use certain features of the Website. Details of the cookies used by this Website are set out in the clause below ( **Cookies** );  
+**  
+****TheLawDictionary.org, SURESWIFT CAPITAL INC., we or us** **  
+** TheLawDictionary.org, owned fully by SURESWIFT CAPITAL INC., a company incorporated in Victoria, British Columbia, Canada with whose registered office is at 113-1834C Oak Bay Avenue, V8R 0A4;  
+  
+**UK and EU Cookie Law** **  
+** The Privacy and Electronic Communications (EC Directive) Regulations 2003 as amended by the Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011 and the European Union’s 2018 General Data Protection Regulation;  
+  
+**User or you** **  
+** Any third party that accesses the Website and is not either (i) employed by SURESWIFT CAPITAL INC. and acting in the course of their employment or (ii) engaged as a consultant or otherwise providing services to SURESWIFT CAPITAL INC. and accessing the Website in connection with the provision of such services; and  
+  
+**Website** **  
+** The website that you are currently using, https://thelawdictionary.org, and any sub-domains of this site unless expressly excluded by their own terms and conditions.
+  2. In this privacy policy, unless the context requires a different interpretation:
 
-  * Your computer’s IP address
-  * Technical information about your computer or mobile device (such as type of device, web browser or operating system)
-  * Your preferences and settings (time zone, language, etc.)
-  * Your mobile device’s unique ID number
-  * Your mobile device’s geographic location (specific geographic location if you’ve enabled collection of that information, or general geographic location automatically)
-  * The URL of the last web page you visited before coming to one of our sites
-  * The words you have looked up and results you selected
-  * The ads you clicked on
-  * How long you visited our sites or used our apps and which services and features you used
-  * For app users, the online or offline status of Your app
+
+  1.     1. the singular includes the plural and vice versa;
+    2. references to sub-clauses, clauses, schedules or appendices are to sub-clauses, clauses, schedules or appendices of this privacy policy;
+    3. a reference to a person includes firms, companies, government entities, trusts and partnerships;
+    4. “including” is understood to mean “including without limitation”;
+    5. reference to any statutory provision includes any modification or amendment of it;
+    6. the headings and sub-headings do not form part of this privacy policy.
 
 
 
-We use your information to provide and improve our services, customize services for you (such as by remembering your preferences), make special offers (like sweepstakes), better understand our users, diagnose and fix problems, and sell and display ads that may be relevant to you. Email addresses, mobile phone numbers, and credit card information are used only for providing you the services you requested upon creating your account.
+##  **  
+****Scope of this privacy policy**
 
-We share user information with other companies for various reasons. What information we make available to other companies depends on the nature of our relationships with them. We generally require these other companies to keep our users’ information confidential.
+  1. This privacy policy applies only to the actions of TheLawDictionary.org and Users with respect to this Website. It does not extend to any websites that can be accessed from this Website including, but not limited to, any links we may provide to social media websites or externally-facing URLs provided throughout throughout the course of using TheLawDictionary.org.
 
- **Advertisers** : Advertisers and advertising networks use tracking technologies to collect information about users’ computers or mobile devices and their online activities (for example, web pages visited and searches made) as well as general geographic location and use that information to display targeted ads to users. We sometimes allow these ad companies to collect such information when you use our sites and apps to enable them to display targeted ads to you.
 
- **Analytics Companies** : We allow analytics companies to use tracking technologies to collect information about our users’ computers or mobile devices and their online activities. These companies analyze this information to help us understand how our sites and apps are being used. Certain versions of our App have an “Opt out of Tracking” setting, which permits you to opt out of being tracked by third party analytics companies.
 
- **What we don’t share** : We do not provide ad companies or analytics companies with your name, address, email address, phone number, or credit card information.
+##  **Data collected**
 
- **Aggregated Information** : We may publicly disclose aggregated information about our users, such as the total number of our users and their overall demographics.
+  1. We may collect the following Data, which includes personal Data, from you:
+    1. Name
+    2. Contact Information such as email addresses and phone numbers
+    3. Information about your computer or mobile devices and your activities, such as:
+      1. Your computer’s IP address
+      2. Technical information about your computer or mobile device (such as type of device, web browser or operating system)
+      3. Your preferences and settings (time zone, language, etc.)
+      4. Your mobile device’s unique ID number
+      5. Your mobile device’s geographic location (specific geographic location if you’ve enabled collection of that information, or general geographic location automatically)
+      6. The URL of the last web page you visited before coming to one of our sites
+      7. The words you have looked up and results you selected
+      8. The ads you clicked on
+      9. The length of time you spent on our app, and which services and features you used
+      10. For app users, the online or offline status of your app
+  2. in each case, in accordance with this privacy policy.
 
- **Legal Matters** : We may disclose user information: in response to a legal request, such as a subpoena, court order, or government demand; to investigate or report illegal activity; or to enforce our rights or defend claims. We may also transfer your information to another company in connection with a corporate restructuring, such as a sale, merger or in the event of a bankruptcy proceeding.
 
-We, as well as other companies, use tracking technologies to collect and store data about your computer or mobile device and your activities on our sites and apps.
 
- **Cookies** : When you visit our sites, we place “cookies” (small text files) on your computer to recognize you. We do this to store your preferences and track your use of our sites. Ad companies place cookies on your computer to track your activities across various sites so that they can display targeted ads. Some ad companies and game developers use “flash cookies” for ads and games that use Flash media technology.
+##  **Our use of Data**
 
-Many ad companies are members of the Network Advertising Initiative. NAI members allow users to opt out of being tracked by cookies. To opt out of cookie tracking by NAI members, you may visit <http://www.networkadvertising.org/> and click on the “Consumer Opt-out” button. Companies may also be members of the Digital Advertising Alliance (“DAA”) and to opt out of cookie tracking by DAA members, you may visit <http://www.aboutads.info/choices/>. Finally, to learn how to remove cookies, you may visit these links: [deleting cookies](http://answers.ask.com/Computers/Networking_and_Security/how_to_delete_cookies_from_computer) and [deleting flash cookies](http://www.macromedia.com/support/documentation/en/flashplayer/help/). By using our site and products, you give us explicit consent to place cookies and other tracking technology on your computer or mobile device.
+  1. For purposes of the Data Protection Act 1998 and GDPR, TheLawDictionary.org acts as the “data controller”.
+  2. We will retain any Data you submit for as long as TheLawDictionary.org deems it necessary to provide adequate service to the User, unless explicitly asked by a User for their Data to be deleted.
+  3. Unless it is specifically stated otherwise, your Data can be disclosed to third parties for the sake of administering better service to the User and also for marketing purposes through various affiliates and / or other companies within our group.
+  4. All personal Data is stored securely in accordance with the principles of the Data Protection Act 1998 and the European Union’s General Data Protection Regulation. For more details on these two security regulations see the clause below ( **Security** ).
+  5. Any or all of the above Data may be required by us from time to time in order to provide you with the best possible service and experience when using our Website. Specifically, Data may be used by us for the following reasons:
+    1. internal record keeping;
+    2. improvement of our products / services;
+    3. transmission by email of promotional materials that may be of interest to you;
+    4. transmission to 3rd parties in order for them to market relevant promotional materials that may be of interest to you;
+    5. The ability to make automated decision making, including profiling, only for the purpose of offering a better and more personalized experience for the User or marketing to new users based on information from the users of TheLawDictionary.org in aggregate;
 
- **Pixel tags** : We embed pixel tags (also called web beacons or clear GIFs) on web pages, ads, and emails. These tiny, invisible graphics are used to access cookies and track user activities (such as how many times a page is viewed). We use pixel tags to measure the popularity of our features and services. Ad companies use pixel tags to measure the number of ads displayed and their performance (such as how many people clicked on an ad).
 
- **Mobile Device IDs** : If you’re using an app, we use mobile device IDs (the unique identifier assigned to a device by the manufacturer), instead of cookies, to recognize you. We do this to store your preferences and track your use of our apps. Unlike cookies, device IDs cannot be deleted. Ad companies use device IDs to track your use of the app, track the number of ads displayed, measure ad performance and display ads that are more relevant to you. Analytics companies use device IDs to track information about app usage.
 
-If you’re outside the United States, your information will be sent to and stored in the United States, where our servers are located. By using our sites and apps, you agree to the information collection, use, and sharing practices described in this Privacy Policy.
+in each case, in accordance with this privacy policy.
+
+##  **Third party websites and services**
+
+  1. TheLawDictionary.org may, from time to time, employ the services of other parties for dealing with certain processes necessary for the operation of the Website. The providers of such services have access to certain personal Data provided by Users of this Website and may be located in various locations throughout the world.
+  2. Any Data used by such parties is used only to the extent required by them to perform the services that we request. Any use for other purposes is strictly prohibited. Furthermore, any Data that is processed by third parties will be processed within the terms of this privacy policy and in accordance with the Data Protection Act 1998 and GDPR.
+  3. Additionally, Data can be transmitted to 3rd parties for relevant marketing purposes at the sole discretion of those employed by SURESWIFT CAPITAL INC. and TheLawDictionary.org.
+
+
+
+##  **  
+****Links to other websites**
+
+  1. This Website may provide links to other websites. We have no control over such websites and are not responsible for the content of these websites. This privacy policy does not extend to your use of such websites. You are advised to read the privacy policy or statement of other websites prior to using them.
+
+
+
+##  **  
+****Changes of business ownership and control**
+
+  1. SURESWIFT CAPITAL INC. may expand or reduce our business and this may involve the sale and/or the transfer of control of all or part of TheLawDictionary.org. Data provided by Users will, where it is relevant to any part of our business so transferred, be transferred along with that part and the new owner or newly controlling party will, under the terms of this privacy policy, be permitted to use the Data for the purposes for which it was originally supplied to us.
+  2. We may also disclose Data to a prospective purchaser of our business or any part of it.
+  3. In the above instances, we will take steps with the aim of ensuring your privacy is protected.
+
+
+
+##  **  
+****Controlling use of your Data**
+
+  1. Wherever you are required to submit Data, you will be given options to restrict our use of that Data. This may include the following:
+    1. use of Data for direct or indirect marketing purposes; and 
+  2. You have the right to ask for a copy of any of your personal Data held by TheLawDictionary.org.
+  3. You have the right to withdraw consent necessary to use the services provided by TheLawDictionary.org at any time.
+  4. You have the right for your data to be deleted from the servers and databases of TheLawDictionary.org.
+
+
+
+##  **  
+****Functionality of the Website**
+
+  1. To use all features and functions available on the Website, you may be required to submit certain Data.
+  2. In order to use the service administered by https://thelawdictionary.org all Users must consent for TheLawDictionary.org to use your data for purposes TheLawDictionary.org sees fit as outlined elsewhere in the Privacy Policy. Refusal to offer consent is grounds for TheLawDictionary.org to block access to services offered by https://thelawdictionary.org
+  3. A User may revoke consent at any time.
+  4. You may restrict your internet browser’s use of Cookies. For more information see the clause below ( **Cookies** ).
+
+
+
+##  **Security**
+
+  1. Data security is of great importance to TheLawDictionary.org, and to protect your Data we have put in place suitable physical, electronic and managerial procedures to safeguard and secure Data collected via this Website.
+  2. If password access is required for certain parts of the Website, you are responsible for keeping this password confidential.
+  3. We endeavour to do our best to protect your personal Data. However, transmission of information over the internet is not always perfectly secure and is done at your own risk. We cannot ensure the security of your Data transmitted to the Website.
+
+
+
+##  **  
+****Cookies**
+
+  1. This Website may place and access certain Cookies on your computer. https://thelawdictionary.org uses Cookies to improve your experience of using the Website and to improve our range of products and services. https://thelawdictionary.org has carefully chosen these Cookies and has taken steps to ensure that your privacy is protected and respected at all times.
+  2. All Cookies used by this Website are used in accordance with current UK and EU Cookie Law.
+  3. Before the Website places Cookies on your computer, you will be presented with a message bar requesting your consent to set those Cookies. By giving your consent to the placing of Cookies, you are enabling TheLawDictionary.org to provide a better experience and service to you. You may, if you wish, deny consent to the placing of Cookies; however certain features of the Website may not function fully or as intended.
+  4. This Website may place the following Cookies:
+
+ **Type of Cookie**|  **Purpose**  
+---|---  
+Strictly necessary cookies| These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services.  
+  
+  1. You can choose to enable or disable Cookies in your internet browser. By default, most internet browsers accept Cookies but this can be changed. For further details, please consult the help menu in your internet browser.
+  2. You can choose to delete Cookies at any time; however you may lose any information that enables you to access the Website more quickly and efficiently including, but not limited to, personalisation settings.
+  3. It is recommended that you ensure that your internet browser is up-to-date and that you consult the help and guidance provided by the developer of your internet browser if you are unsure about adjusting your privacy settings.
+
+
+
+##  **  
+****General**
+
+  1. You may not transfer any of your rights under this privacy policy to any other person. We may transfer our rights under this privacy policy where we reasonably believe your rights will not be affected.
+  2. If any court or competent authority finds that any provision of this privacy policy (or part of any provision) is invalid, illegal or unenforceable, that provision or part-provision will, to the extent required, be deemed to be deleted, and the validity and enforceability of the other provisions of this privacy policy will not be affected.
+  3. Unless otherwise agreed, no delay, act or omission by a party in exercising any right or remedy will be deemed a waiver of that, or any other, right or remedy.
+  4. The Privacy Policy is governed by and interpreted according to the laws of Canada. Any dispute, controversy or claim arising under, out of or relating to the validity, interpretation and performance of this Privacy Policy shall be referred to and finally determined by the competent courts of the Province of British Columbia and British Columbia law shall apply.
+  5. For any questions or concerns relating to the use of your User Data while using TheLawDictionary.org, you are welcome to contact the SURESWIFT CAPITAL INC.’s chosen Data Protection Officer who can be reached by sending an email to [privacy@sureswiftcapital.com](mailto:privacy@sureswiftcapital.com).
+  6. Every user of TheLawDictionary.org has a variety of rights relating to the use of their data while using TheLawDictionary.org, including the right to lodge a complaint with a supervisory authority.
+
+
+
+##  **  
+****Changes to this privacy policy**
+
+TheLawDictionary.org reserves the right to change this privacy policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on the Website and you are deemed to have accepted the terms of the privacy policy on your first use of the Website following the alterations.You may contact TheLawDictionary.org by submitting a message at [https://thelawdictionary.org/contact](https://thelawdictionary.org/contact).
+
+Last Updated: This Privacy Policy was last updated on July 6, 2018.
