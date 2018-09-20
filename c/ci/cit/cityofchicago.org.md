@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityofchicago.org privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831224338id_/https%3A//www.cityofchicago.org/city/en/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityofchicago.org privacy policy that was archived on 2018-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180920232803id_/https%3A//www.cityofchicago.org/city/en/general/privacy.html) for the most accurate reproduction.*
 
 # City of Chicago :: Privacy Policy
 
@@ -35,3 +35,6 @@ We do not sell data for direct mail or advertising purposes.
 **Other Web Sites**
 
 This site contains links to other sites. The City of Chicago is not responsible for the privacy practices or the content of such sites, which include the Chicago Park District, the Chicago Public Schools, the Chicago Transit Authority (CTA), the City Colleges of Chicago, the Chicago Housing Authority (CHA), the Chicago Store and the Metropolitan Exposition and Pier Authority.
+
+  
+
