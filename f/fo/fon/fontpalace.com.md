@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fontpalace.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614190337id_/http%3A//www.fontpalace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontpalace.com privacy policy that was archived on 2018-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180920104527id_/https%3A//www.fontpalace.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Free fonts download for Windows and Mac - FontPalace.com
 
@@ -6,7 +6,7 @@
 
 What information do we collect? 
 
-We collect your "name", "email address" and "IP address" when you fill out any of our contact us form. This information is purely used to communicate your query, we do not store mentioned information at our end for any type of future usage. 
+We collect your "name", "email address" and "IP address" when you fill out any of our contact us form. This information is purely used to communicate your query, we do not store mentioned information at our end for any type of future usage. This website will not share any personal information with third parties. 
 
 Google Adsense and the DoubleClick DART Cookie 
 
@@ -15,6 +15,10 @@ We also use third party advertisements to support our site and to bring you offe
 You can disable or selectively turn off "our" or "any third-party" cookies from your browser settings, or by managing preferences of your internet security tool. 
 
 For further information, visit [http://www.google.com/privacy_ads.html ](http://www.google.com/privacy_ads.html)
+
+Consent 
+
+By using our website "FontPalace.com", you hereby consent to our privacy policy and agree to its terms. 
 
 Website Disclaimer 
 
