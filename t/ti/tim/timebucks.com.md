@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the timebucks.com privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510191910id_/https%3A//timebucks.com/index.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timebucks.com privacy policy that was archived on 2018-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180920164310id_/https%3A//timebucks.com/index.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This web site is owned and managed by LK International.
+This web site is owned and managed by Australian Clearing Pty Ltd.
 
 To reach us via e-mail, you can email support@TimeBucks.com
 
