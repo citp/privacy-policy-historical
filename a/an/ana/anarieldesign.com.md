@@ -1,95 +1,79 @@
-> *The following text is extracted and transformed from the anarieldesign.com privacy policy that was archived on 2017-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170715000548id_/https%3A//www.anarieldesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anarieldesign.com privacy policy that was archived on 2018-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180920223247id_/https%3A//www.anarieldesign.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Anariel Design
 
-At Anariel Design, we collect and manage user data according to the following Privacy Policy. This document is part of Anariel Design’s Terms of Use, and by using AnarielDesign.com (the “Website”), you agree to the terms of this Privacy Policy and the Terms of Use. Please read the Terms of Use in their entirety, and refer to those for definitions and contacts.
+We at Anariel Design (Ana & Marko Segota GbR) take data privacy very seriously. We also recognise the importance of protecting and respecting your personal data. The privacy policy is there to inform you what personal data we collect on our site, how we use that data and whom you can contact regarding your personal data.
 
-* * *
+**What data is being collected?**
 
- **Data Collected**
+When using our site there are different types of Personal Data that might be collected. The data might be collected by the site itself or through third parties. These are: Cookies, Usage Data, first name, last name, email address and website.
 
-We collect anonymous data from every visitor of the Website to monitor traffic and fix bugs. For example, we collect information like web requests, the data sent in response to such requests, the Internet Protocol address, the browser type, the browser language, and a timestamp for the request.
+Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using this Website.
 
-We ask you to log in and provide certain personal information (such as your name and email address) in order to be able to access our members area and support. In order to enable these or any other login based features, we use cookies to store session information for your convenience. You can block or delete cookies and still be able to use Anariel Design, although if you do you will then be asked for your username and password every time you log in to the Website. In order to take advantage of certain features of the Website, you may also choose to provide us with other personal information, but your decision to utilize these features and provide such data will always be voluntary.
+Unless specified otherwise, all Data requested by this Website is required by the Website to provide its services.  
+Users are responsible for any third-party Personal Data obtained, published or shared through this Website and confirm that they have the third party’s consent to provide the Data to the Owner.
 
-You are able to view, change and remove your data associated with your account. Should you choose to delete your account, we will automatically delete all data.
+**How the data is collected?**
 
-Minors and children should not use Anariel Design. By using the Website, you represent that you have the legal capacity to enter into a binding agreement.
+On anarieldesign.com website some personal data might be collected in a couple of ways.
 
-* * *
-
- **Cookies**
-
-A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
-
-Currently we operate an “implied consent” policy which means that we assume you are happy with this usage. If you are not happy, then you should not use this Website.
-
-We may use both “session” cookies and “persistent” cookies on the website. Session cookies will be deleted from your computer when you close your browser. Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.
-
-We will use the session cookies to: keep track of you whilst you navigate the website; prevent fraud and increase website security. We will use the persistent cookies to: enable our website to recognize you when you visit and keep track of your preferences in relation to your use of our website.
-
-* * *
-
- **Use of the Data**
-
-We only use your personal information to provide you the Anariel Design services or to communicate with you about the services or the Website.
-
-We may use your personal information to:
-
-  * administer the website;
-  * improve your browsing experience by personalising the website;
-  * enable your use of the services available on the website;
-  * send statements and invoices to you, and collect payments from you;
-  * send you general (non-marketing) commercial communications;
-  * send you email notifications which you have specifically requested;
-  * deal with enquiries and complaints made by or about you relating to the website;
-  * keep the website secure and prevent fraud;
-  * verify compliance with the terms and conditions governing the use of the website.
-  * We employ industry standard techniques to protect against unauthorised access of data about you that we store, including personal information.
+  * _Blog comments_ – if you post a comment on one of our blog posts our site will collect your name, email address and optionally a website. This data is stored on our server located in Germany.
+  * _Email contact_ – when you contact us via a contact form on our site we collect your name and email address to be able to reply to your request in a personal manner. This data is stored on our server located in Germany.
+  * _Newsletter subscription_ – if you subscribe to our newsletter, your email address will be collected by a 3rd party newsletter service Convertkit that enables us to send you requested content. Convertkit is a US based company and the data is stored on their servers. Here you can check Convertkit [ **Privacy Policy**](https://convertkit.com/privacy/).
+  * _Creating a user account_ – you might want to create an account to get access to support or theme updates. In the process, we collect your name and email address to create an account in aMember membership software. Besides that, IP address is collected by the system for security purposes. Amember is a 3rd party software that offers a sophisticated membership platform for our users. This data is stored on our server.
+  * _Product Purchase_ – when you decide to purchase one of the products on this website you’ll be forwarded to the Fastspring website for the purchase process and order fulfilment. FastSpring is a reliable and authorized reseller of software and other digital products with headquarters in the US. All the payment data you provide on their site is stored on their servers. Here you can check Fastspring [ **Privacy Policy**](https://fastspring.com/privacy/).
 
 
 
-We do not share personal information you have provided to us without your consent, unless:
+**Who might we share your data with?**
 
-  * doing so is appropriate to carry out your own request;
-  * we believe it’s needed to enforce our Terms of Use, or that is legally required;
-  * we believe it’s needed to detect, prevent or address fraud, security or technical issues;
-  * otherwise protect our property, legal rights, or that of others.
+  * _Google Analytics_ – We share your IP address with analytics and search engine providers that assist us in the improvement and optimisation of our site
+  * _YouTube_ – is a video content visualization service provided by Google Inc. that allows this Website to incorporate the content of this kind on its pages. Data collected: cookies and usage data.
+  * _Gravatar_ – is an image visualization service provided by Automattic Inc. that allows this Website to incorporate the content of this kind on its pages. Data collected: email address and usage data.
+  * _Convertkit_ – is an email address management and message sending service provided by Convertkit LLC. Data collected: email address.
+  * _Social networks and other websites_ – Our website includes links to other websites, whose privacy practices may be different from ours. If you submit Personal Information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.
 
 
 
-We may contact you, by email or other means. For example, we may send you promotional emails relating to Anariel Design or other third parties we feels you would be interested in, or communicate with you about your use of the Anariel Design website. We may also use technology to alert us via a confirmation email when you open an email from us. If you do not want to receive email from Anariel Design, please opt out of receiving emails at the bottom of any Anariel Design emails or by editing your profile preferences.
+We do not otherwise share or supply personal information to third parties. We do not sell or rent your personal information to marketers or third parties.
 
-* * *
+**What do we do with your data?**
 
- **Sharing of Data**
+The data we collect from you is used to provide you with a safe, smooth, efficient and customised experience. By submitting your information on this website, you agree that we may use your information for the following purposes:
 
-We don’t share your personal information with third parties. Only aggregated, anonymised data is periodically transmitted to external services to help us improve the Anariel Design Website and service. We currently use Google Analytics (traffic analysis, SEO optimisation), MailChimp (mailing list management). Feel free to check out their own Privacy Policies to find out more.
+  * _Fulfilling Your Requests_ – we use your e-mail addresses to provide you with the information, products and services that you request from us.
+  * _Customer Service_ – We communicate with our users on a regular basis via email to provide requested services and help you manage your account. As we are obligated to send these communications to current customers, if you do not wish to receive these communications at all, then, unfortunately, you must close your account.
+  * _Email Marketing_ – we also use your email address to send you other types of communications that you can control, including information about new themes, customer surveys and special promotions.
 
-We may choose to buy or sell assets. In these types of transactions, user information is typically one of the transferred business assets. Moreover, if we, or substantially all of our assets, were acquired, or if we go out of business or enter bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of us or our assets may continue to use your personal information as set forth in this policy.
 
-* * *
 
- **International Data Transfers**
+**How Long Do We Keep Hold of Your Information?**
 
-Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.
+We retain data for the purposes of reporting and backup for a period of up to five years. Where you have requested that we do so, we will take steps to delete your data from our system.
 
-Information which you provide may be transferred to countries which do not have data protection laws equivalent to those in force in the European Economic Area.
+**How can I access information you hold about me?**
 
-In addition, personal information that you submit for publication on the website will be published on the internet and may be available, via the internet, around the world. We cannot prevent the use or misuse of such information by others.
+You may exercise certain rights regarding your Data processed by the Owner.  
+Users entitled to broader protection standards (e.g. EU citizens) may exercise any of the rights described below. In all other cases, Users may inquire with the Owner to find out which rights apply to them.  
+In particular, you have the right to do the following:
 
-* * *
+  * withdraw your consent at any time
+  * object to processing of your Data
+  * access your Data
+  * verify and seek rectification
+  * restrict the processing of your Data
+  * have your Personal Data deleted or otherwise removed
+  * receive your Data and have it transferred to another controller
 
- **Security of your personal information**
 
-We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
 
-You acknowledge that the transmission of information over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
+**Cookie Policy**  
+Anariel Design is using cookies to improve your experience of our Website. When you visit our Website, our servers send a cookie to your web browser. You can delete these cookies at any time. Standing alone, cookies do not personally identify an individual. Cookies merely recognize the web browser. Please refer to our Cookie Policy for more information.
 
-You are responsible for keeping your password and other login details confidential. We will not ask you for your password (except when you log in to the website).
+**Owner and data controller:**  
+Ana & Marko Segota GbR  
+Wolf-Dietrich-Str. 7  
+83395 Freilassing  
+Germany
 
-* * *
-
- **Changes to the Privacy Policy**
-
-We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make major changes in the way we collect or use information, we will notify you by posting an announcement on the Website or sending you an email. A user is bound by any changes to the Privacy Policy when he or she uses the Services after such changes have been first posted.
+_Updated : May 22, 2018_
