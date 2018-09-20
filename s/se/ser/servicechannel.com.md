@@ -1,22 +1,50 @@
-> *The following text is extracted and transformed from the servicechannel.com privacy policy that was archived on 2017-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170424160506id_/http%3A//servicechannel.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servicechannel.com privacy policy that was archived on 2018-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180920230508id_/https%3A//servicechannel.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ServiceChannel
 
-We at **_ServiceChannel.com, Inc._** (“ServiceChannel,” “we,” “us” or “our”) know that our users (“you” or “your”) care about how your personal information (referred to as ‘personal data’ in Europe) is used and shared, and we take your privacy seriously. This Privacy Policy describes how we collect, use, and disclosure information, and your rights in relation to that information. Please read the following to learn more about our Privacy Policy **.** By using the ServiceChannel mobile or web applications (collectively, the “App”) and any services, products, features, or content available on ServiceChannel’s websites, including without limitation, [www.servicechannel.com](http://www.servicechannel.com/), [www.fixxbook.com](http://www.fixxbook.com/), and [www.sendaguy.com](http://www.sendaguy.com/), (together with the App, the “Services”), you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways. You also acknowledge and agree that your use of any and all services, products, features, content or applications other than (or additional to) the Services offered by or for ServiceChannel may be governed by separate terms of service and privacy policies.
+We at **_ServiceChannel.com, Inc. and our affiliates_** (“ServiceChannel,” “we,” “us” or “our”) know that our users (“you” or “your”) care about how your personal information (referred to as ‘personal data’ in Europe) is used and shared, and we take your privacy seriously. This Privacy Policy describes how we collect, use, and disclose information, and your rights in relation to that information. Please read the following to learn more about our Privacy Policy **.** By using the ServiceChannel mobile or web applications (collectively, the “App”) and any services, products, features, or content available on ServiceChannel’s websites, including without limitation, [www.servicechannel.com](http://www.servicechannel.com/), [www.fixxbook.com](http://www.fixxbook.com/), and [www.sendaguy.com](http://www.sendaguy.com/), (together with the App, the “Services”), you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby acknowledge that we will collect, use, and share your information in the following ways. You also acknowledge and agree that your use of any and all services, products, features, content or applications other than (or additional to) the Services offered by or for ServiceChannel may be governed by separate terms of service and privacy policies.
 
-I. WHAT DOES THIS PRIVACY POLICY COVER?
+## Quick links
+
+We recommend that you read this Privacy Policy in full to ensure you are fully informed.  However, if you only want to access a particular section of this Privacy Policy, then you can click on the relevant link below to jump to that section.
+
+> I.  WHAT DOES THIS PRIVACY POLICY COVER?
+> 
+> II. WHAT INFORMATION DOES SERVICECHANNEL COLLECT?
+> 
+> III.  USE AND SHARING OF INFORMATION
+> 
+> IV.  LEGAL BASIS FOR PROCESSING PERSONAL INFORMATION
+> 
+> V.  INTERNATIONAL TRANSFERS
+> 
+> IV.  WHAT RIGHTS AND CHOICES DO I HAVE?
+> 
+> VII.  DATA RETENTION
+> 
+> VIII.  MARKETING AND EMAIL COMMUNICATION
+> 
+> IX.  SECURITY
+> 
+> X.  CHANGES TO THIS PRIVACY POLICY
+> 
+> XI.  CONTACT US
+
+**I. WHAT DOES THIS PRIVACY POLICY COVER?**
 
 This Privacy Policy covers our treatment of Personal Information and Other Information we gather from you when you are accessing or using our Services. Personally identifiable information (“Personal Information”) may include, but is not limited to, your name, username, home and/or work address, telephone number, e-mail address, company affiliation and associated interests. We collect some of this Personal Information by requesting it directly from you, and we may also obtain information about you from third-party sources, as described below.
 
-ServiceChannel also observes, derives, collects and infers other information (“Other Information”) through your interaction with and use of the Services, which does not reveal your specific identity or does not directly relate to an individual. Other Information may include, but is not limited to, browser and device information (such as browser type and version, operating system and version, device ID and language, and Internet connection), data collected through automated electronic interactions, application usage data, demographic information, geographic or geo-location information (including without limitation, precise geo-location), IP address, and statistical and aggregated information.  Other Information may constitute Personal Information when coupled with Personal Information that we hold and process about you.  In such circumstances such Other Information shall be treated as Personal Information.   
+ServiceChannel also observes, derives, collects and infers other information (“Other Information”) through your interaction with and use of the Services, which does not reveal your specific identity or does not directly relate to an individual. Other Information may include, but is not limited to, browser and device information (such as browser type and version, operating system and version, device ID and language, and Internet connection), data collected through automated electronic interactions, application usage data, demographic information, geographic location information ( e.g. country or city-level location) or geo-location information (including without limitation, precise geo-location), IP address, and statistical and aggregated information.  Other Information may constitute Personal Information when coupled with Personal Information that we hold and process about you.  In such circumstances such Other Information shall be treated as Personal Information.   
+
+Collecting this information enables us to better understand the visitors who come to our Website, where they come from, and what content on our Website is of interest to them.  We use this information for our internal analytics purposes and to improve the quality and relevance of our Website to our visitors.
 
 This Privacy Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
 
 Our Services are not intended for users under 13 years of age.  We do not knowingly collect or solicit Personal Information from anyone under the age of 13. If you are under 13, please do not attempt to access or use the Services or send any information about yourself to us, including your name, address, telephone number, or email address.
 
-We gather various types of Personal Information and Other Information from our users, as explained more fully below.  We may use this Personal Information and Other Information to personalize and improve our services, to allow our users to set up a user account and profile, to contact users, to fulfill your requests for certain products and services, to analyze how users utilize the Services, and as otherwise set forth in this Privacy Policy. We may share certain types of Personal Information with third parties, as described below. 
+We gather various types of Personal Information and Other Information from our users, as explained more fully below.  We may use this Personal Information and Other Information to personalize and improve our services, to allow our users to set up a user account and profile, to contact users, to fulfill your requests for certain products and services, to analyze how users utilize the Services, and as otherwise set forth in this Privacy Policy. We may share certain types of Personal Information with third parties, as described below. ****
 
-II. WHAT INFORMATION DOES SERVICECHANNEL COLLECT?
+**II. WHAT INFORMATION DOES SERVICECHANNEL COLLECT?**
 
 1\. Information You Provide to Us
 
@@ -38,13 +66,13 @@ When you use our Services, we may collect the following information about you:
 
 **Information Collected Automatically:** Whenever you interact with our Services, we automatically receive and record information on our server logs from your browser, including your IP address, “cookie” information, the page you requested, App usage, App crashes, and other system activity. 
 
-**Cookies and Similar Technologies:** We and our service providers may use technologies like “cookies,” pixels, and local storage (like on your browser or device, which is similar to a cookie but holds more information) and identifiers (including identifiers supplied by your browser or device or by app platform companies) on our website, in our emails, and within our apps to provide you with a range of products and services. You can control cookies through your browser settings and other tools. For more information, including the types of cookies and similar technologies found on the Services, please read ServiceChannel’s ‘[Cookie Policy](http://servicechannel.info/cookie-policy)’.  Please be aware that limiting the ability of websites to set cookies, however, may worsen your overall user experience, and in some cases the Services will not work properly without the use of cookies, local storage and similar technologies.
+**Cookies and Similar Technologies:** We and our service providers may use technologies like “cookies,” pixels, and local storage (like on your browser or device, which is similar to a cookie but holds more information) and identifiers (including identifiers supplied by your browser or device or by app platform companies) on our website, in our emails, and within our apps to provide you with a range of products and services. You can control cookies through your browser settings and other tools. For more information, including the types of cookies and similar technologies found on the Services, please read ServiceChannel’s ‘[Cookie Policy](https://servicechannel.info/cookie-policy)’.  Please be aware that limiting the ability of websites to set cookies, however, may worsen your overall user experience, and in some cases the Services will not work properly without the use of cookies, local storage and similar technologies.
 
 3\. Information We Receive from Third Parties
 
 We receive and store information from third parties that interact in some way with the Services or that provide services to us in connection with the Services. In addition, you may choose to use third party services, websites or apps that share your Personal Information, activities and/or content with ServiceChannel. Please read the privacy policy of any such service so that you understand its sharing practices.
 
-III. USE AND SHARING OF INFORMATION
+**III. USE AND SHARING OF INFORMATION**
 
 We neither rent nor sell your Personal Information in personally identifiable form to anyone.  However, we do use and share with third parties your Personal Information and Other Information as described in Section II and in this Section:
 
@@ -76,15 +104,27 @@ We neither rent nor sell your Personal Information in personally identifiable fo
 
 **Advertisers.** We may use third parties to administer a limited set of ServiceChannel advertisements on third party electronic channels. No Personal Information is provided to the advertisers as part of this process, but aggregate profile information or Other Information, such as implied or inferred interests, may be used in the selection of advertising to make sure that it has relevance to the user. Some banner ads may contain embedded pixels that may write and read cookies or return session connection information that allows advertisers to better determine how many individual users have clicked on the ad banner.  We may also use advertising technologies and participate in advertising technology networks that collect Other Information from ServiceChannel and non-ServiceChannel Services, as well as from other sources, to show you ServiceChannel-related advertisements on ServiceChannel’s own and third-party websites and apps. These advertisements may be tailored to your perceived interests using retargeting and behavioral advertising technologies, a set of practices collectively referred to as “Interest Based Advertising” in this Privacy Policy.  For more information about Interest Based Advertising, including how to opt-out, visit [youronlinechoices](http://www.youronlinechoices.com/) (applicable for European users only), the [Network Advertising Initiative](http://www.networkadvertising.org/understanding-digital-advertising) or the [Digital Advertising Alliance](http://www.aboutads.info/). You may opt out of certain Interest Based Advertising by following the instructions in the “What Rights and Choices Do I Have?” section of this Privacy Policy. Opting-out does not mean that you will stop receiving ads from ServiceChannel. It means that you still stop receiving ads from ServiceChannel that have been targeted to you based on your visits and browsing activity across websites over time.  For more information, see the “What Choices Do I Have?” section below.
 
-**Other Information.** We may use, transfer, and disclose Other Information we collect for any purpose, except where applicable law requires otherwise. If we are required to treat Other Information as Personal Information under applicable law, then we will only use it in the same way that we are permitted to use and disclose Personal Information.
+**Other Information.** We may use, transfer, and disclose Other Information we collect for any purpose, except where applicable law requires otherwise. If we are required to treat Other Information as Personal Information under applicable law, then we will only use it in the same way that we are permitted to use and disclose Personal Information. ****
 
-The grounds on which we process your Personal Information include where you have given your consent, where it is necessary to provide you the Service, or where it is necessary to fulfil our obligations to a third party in providing you with the Services.  
+**IV. LEGAL BASIS FOR PROCESSING PERSONAL INFORMATION**
 
-IV. INTERNATIONAL TRANSFERS
+The grounds on which we process your Personal Information include where you have given your consent, where it is necessary to provide you the Service, where it is in our legitimate interest. 
 
-We are a United States company and as such we process and store Personal Information and Other Information in the United States.  As a result, that United States federal and state governments, courts, or law enforcement or regulatory agencies may be able to obtain disclosure of your information through laws applicable in the United States. Your use of the Services or your submission of any Personal Information to us will constitute your consent to the transfer of your Personal Information from your home country which may provide for different data protection rules than in your country.
+In some cases, we may also have a legal obligation to collect personal information from you or may otherwise need the personal information to protect your vital interests or those of another person.
 
-V. WHAT RIGHTS AND CHOICES DO I HAVE?
+If we ask you to provide personal information to comply with a legal requirement or to perform a contact with you, we will make this clear at the relevant time and advise you whether the provision of your personal information is mandatory or not (as well as of the possible consequences if you do not provide your personal information). 
+
+If we collect and use your personal information in reliance on our legitimate interests (or those of any third party), this interest will normally be to operate our platform and communicating with you as necessary to provide our services to you and for our legitimate commercial interest, for instance, when responding to your queries, improving our platform, undertaking marketing, or for the purposes of detecting or preventing illegal activities.  We may have other legitimate interests and if appropriate we will make clear to you at the relevant time what those legitimate interests are. ****
+
+**V. INTERNATIONAL TRANSFERS**
+
+ServiceChannel.com, Inc is a United States company and as such we process and store Personal Information and Other Information in the United States.  As a result, United States federal and state governments, courts, or law enforcement or regulatory agencies may be able to obtain disclosure of your information through laws applicable in the United States. If you use the Services or submit any Personal Information to us, you acknowledge that your Personal Information will be transferred from your home country to the US which may provide for different data protection rules than in your country.
+
+However, we have taken appropriate safeguards to require that your personal information will remain protected in accordance with this Privacy Policy.  These include implementing Standard Contractual Clauses for transfers of personal information between our group companies, which require all group companies to protect personal information they process from the EEA in accordance with European Union data protection law. 
+
+Our Standard Contractual Clauses can be provided on request.
+
+**VI. WHAT RIGHTS AND CHOICES DO I HAVE?**
 
 1. User Account Information
 
@@ -96,15 +136,23 @@ ServiceChannel will comply with individual’s requests regarding access, correc
 
 **Your European Privacy Rights**
 
-Under European data protection and privacy laws, the following rights are available to you if you are based in the European Union:
+Under European data protection and privacy laws, if applicable the following rights are available to you subject to conditions and exemptions; 
 
-We will hold Personal Information about you after you cancel your account for no more than two (2) years.  
+  * If you wish to access, correct, update or request deletion of your personal information, you can do so at any time by contacting us using the contact details provided under the “How to contact us” heading below. 
+  * In addition, you can object to processing of your personal information, ask us to restrict processing of your personal information or request portability of your personal information. Again, you can exercise these rights by contacting us using the contact details provided under the “How to contact us” heading below.
+  * You have the right to opt-out of marketing communications we send you at any time.  You can exercise this right by clicking on the “unsubscribe” or “opt-out” link in the marketing e-mails we send you.  To opt-out of other forms of marketing (such as postal marketing or telemarketing), then please contact us using the contact details provided under the “How to contact us” heading below.
+  * Similarly, if we have collected and process your personal information with your consent, then you can withdraw your consent at any time.  Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+  * You have the right to complain to a data protection authority about our collection and use of your personal information.  For more information, please contact your local data protection authority. 
 
-You have the right to request that we cease processing Personal Information about you, that we rectify Personal Data held about you or that we erase Personal Information held about you.  This is a right of request only and we will consider any such request in accordance with applicable laws.  
 
-At any time you can make a subject access request to us to review your personal information collected via our Services by sending us an email at [support@servicechannel.com](mailto:support@servicechannel.com). We may take steps to verify your identity before providing you access to your personal information and may request a small administrative fee of no more than £10.
 
-European citizens will also have the right to contact their local data protection supervisory authority in the event that you are not satisfied with how we process your Personal Information. 
+We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws. ****
+
+**VII. DATA RETENTION**
+
+We retain personal information we collect from you where we have an ongoing legitimate business need to do so (for example, to provide you with a service you have requested or to comply with applicable legal, tax or accounting requirements). 
+
+We will hold Personal Information about you after you cancel your account for no more than two (2) years after the applicable account is deleted.  
 
 **Your California Privacy Rights**
 
@@ -118,20 +166,20 @@ Also, certain versions of the iOS operating system permit you to “Limit Ad Tra
 
 At this time we do not honor web browser Do Not Track (“DNT”) signals or similar mechanisms.
 
-VI. MARKETING AND EMAIL COMMUNICATION
+**VIII. MARKETING AND EMAIL COMMUNICATION**
 
-By providing your email address to us, you expressly consent to receive emails from us, where permitted by law. We may use email to communicate with you, to send information that you have requested or to send information about other products or services developed or provided by us or our partners. If you do not want to receive commercial email or other mail from us, you may unsubscribe using the unsubscribe link at the bottom of an email you receive. Please note that if you do not want to receive legal notices from us, such as notices regarding this Privacy Policy, those legal notices will still govern your use of the Services, and you are responsible for reviewing such legal notices for changes. We may receive a confirmation when you open an email from ServiceChannel if your computer supports this type of program. ServiceChannel uses this confirmation to help us make emails more interesting and helpful and to improve our service.
+By providing your email address to us, you acknowledge that you will  receive emails from us, where permitted by law. We may use email to communicate with you, to send information that you have requested or to send information about other products or services developed or provided by us or our partners. If you do not want to receive commercial email or other mail from us, you may unsubscribe using the unsubscribe link at the bottom of an email you receive. Please note that if you do not want to receive legal notices from us, such as notices regarding this Privacy Policy, those legal notices will still govern your use of the Services, and you are responsible for reviewing such legal notices for changes. We may receive a confirmation when you open an email from ServiceChannel if your computer supports this type of program. ServiceChannel uses this confirmation to help us make emails more interesting and helpful and to improve our service. ****
 
-VII. SECURITY
+**IX. SECURITY**
 
-ServiceChannel uses commercially reasonable physical, electronic, and procedural safeguards to protect your Personal Information against loss or unauthorized access, use, modification, or deletion. However, no security program is foolproof, and thus we cannot guarantee the absolute security of your Personal Information or Other Information. We will retain your Personal Information for as long as reasonably necessary to accomplish the purposes in this Privacy Policy or as required by law.
+ServiceChannel uses commercially reasonable physical, electronic, and procedural safeguards to protect your Personal Information against loss or unauthorized access, use, modification, or deletion. However, no security program is foolproof, and thus we cannot guarantee the absolute security of your Personal Information or Other Information. ****
 
-VIII. CHANGES TO THIS PRIVACY POLICY
+**X. CHANGES TO THIS PRIVACY POLICY**
 
-We may amend this Privacy Policy from time to time.  Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used.  If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Website or sending you a message. You are bound by any changes to the Privacy Policy when you use the Services after such changes have been first posted.
+We may amend this Privacy Policy from time to time.  Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used.  If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Website or sending you a message. You are bound by any changes to the Privacy Policy when you use the Services after such changes have been first posted. ****
 
-IX. CONTACT US
+**XI. CONTACT US**
 
-If you have any questions or concerns regarding our Privacy Policy, please send us a message to support@servicechannel.com, and we will try to resolve your concerns.
+If you have any questions or concerns regarding our Privacy Policy, please send us a message to[ support@servicechannel.com](mailto:support@servicechannel.com), and we will try to resolve your concerns.
 
-Updated _February 6, 2017_ _;_ Effective Date: _March 5_ _, 2017_
+Last Updated May 17, 2018; __ Effective Date: June 15, 2018
