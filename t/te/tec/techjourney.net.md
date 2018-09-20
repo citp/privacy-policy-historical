@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techjourney.net privacy policy that was archived on 2018-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180329193848id_/https%3A//techjourney.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techjourney.net privacy policy that was archived on 2018-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180920073446id_/https%3A//techjourney.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tech Journey
 
