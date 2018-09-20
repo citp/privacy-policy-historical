@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the record-eagle.com privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319230039id_/http%3A//www.record-eagle.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the record-eagle.com privacy policy that was archived on 2018-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180920051728id_/http%3A//www.record-eagle.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | record-eagle.com
-
-[](https://visitor.r20.constantcontact.com/d.jsp?llr=t8oml49ab&p=oi&m=1128481045363&sit=m5lwgcwlb&f=0bcee991-2a82-4fca-a0c3-93bee982f8a6)
 
 **Effective**
 
@@ -36,6 +34,10 @@ In the event you do not wish to receive promotional or editorial content e-mail(
 
 When you visit the Site, we or a third party advertiser may store or recognize some information on your computer in the form of a "cookie" or similar file that provides an opportunity for a better user experience for you and better programming from us. A "cookie" is a small computer file that is transferred to a computer's hard drive and which permits us to know about site visits. We may use cookies to improve your experience on the Site by making it easier for you to navigate through the Site or to make a site feature work better. Information collected from a "cookie" might include information regarding your browser, type of computer, operating system, Internet service provider and other similar information. Cookie technology may also gather information about the areas you visit on our Site and about the links you may select from within our Site to other areas of the Internet. We use such information in the aggregate to understand which services and resources our visitors prefer and how those services and resources are used. Cookies also allow us to remember you between visits, for example, they may be used for any auto-login feature on the Site or to save any customized preference settings for future visits. We do not extract Personal Information during this process. With most Internet browsers or other software, you can erase cookies from your computer hard drive, block all cookies or receive a warning before a cookie is stored. Please refer to your browser instructions to learn more about these functions. If you reject cookies, functionality of the Site may be limited, and you may not be able to take advantage of many of the Site's features.
 
+In order to provide a more relevant online experience, some of the ads that you see across our Services as well as third party websites and applications are customized based on your previous online activity. For more general information about interest-based ads and your choices, visit these sites: the [Digital Advertising Alliance](http://optout.aboutads.info/?c=2&lang=EN) or the [Network Advertising Initiative](http://optout.networkadvertising.org/?c=1#!/).
+
+For our mobile applications, you can opt-out of the use of this information to tailor the ads you are shown, by using the "Limit Ad Tracking" settings on your mobile device. You will continue to see ads, but they will not be selected based on your activity across unrelated web sites or apps.
+
  **Links**
 
 The Site may contain links to Third Party Sites. CNHI is not responsible for the collection or use of your Personal or Anonymous Information at any Third Party Sites. Therefore, CHNI disclaims any liability for any third party's use of your Personal or Anonymous Information obtained through using the Third Party Site.
@@ -60,6 +62,10 @@ We have policies and procedures in place to protect the privacy and confidential
 
 Beginning January 1, 2005, California law permits customers who are California residents to request once in any calendar year certain information regarding our disclosure of personal information to third parties for marketing purposes. To make such a request, please contact us by e-mail at: digital@cnhi.com, or write to us at: CNHI LLC, Attn: General Counsel, 445 Dexter Avenue; Montgomery, AL 36104.
 
+ **Prohibited Uses**
+
+This Site is not intended for use by persons located within the European Economic Area (EEA). We do not request or accept personal information concerning or supplied by persons who are located within the EEA at the time they access this Site. If you have accessed this Site from within the EEA, you should immediately discontinue your use. If you have supplied personal information to us in violation of this provision, whether through the registration of new user accounts or otherwise, please contact us at digital@cnhi.com. If you continue to use this Site in violation of this provision, your continued use, including the collection of any data, will be governed by US law.
+
  **Access and Corrections**
 
 We strive to keep your Personal Information accurate. You can access and update the Personal Information that you have provided to us at any time. If you wish to update Personal Information provided to us, please access your account where you may view, update or correct your information online. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting you access to your data or enabling you to make corrections.
@@ -72,8 +78,10 @@ This Site uses services provided by AP News Registry. AP News Registry collects 
 
 If you have any questions or comments about this Policy, please contact us by e-mail at digital@cnhi.com, or write to us at: CNHI LLC, Attn: General Counsel, 445 Dexter Avenue; Montgomery, AL 36104. Please provide a concise communication with complete information, including your contact information.
 
-[](https://visitor.r20.constantcontact.com/manage/optin?v=001nB4nx3I80XpIAn1Kro4uukTlo8dK5UAJKGlRyb3Q2-QyQ_faxXcN72E6ZhB73awuXeX0WK2VcuxSwk1U1mniCiw65UkpxQOH8BVMXIKQ3E_DobYm0UZV5zD4kWK3fdGjxaARWjIsStXzOKrpWzoi-yNR-Q0Oof6A)
+  * [ Horn, Linda](http://obituaries.record-eagle.com/obituary/linda-horn-2018-1068233973)
+  * [ Achard, Marilyn](http://obituaries.record-eagle.com/obituary/marilyn-achard-2018-1068233971)
+  * [ ROHDY, Betty Feb 8, 1923 - Sep 13, 2018](http://obituaries.record-eagle.com/obituary/betty-rohdy-1923-2018-1068220879)
+  * [ BILLINGTON, Thomas Aug 14, 1947 - Aug 26, 2018](http://obituaries.record-eagle.com/obituary/thomas-billington-1947-2018-1068221119)
+  * [ CHANCE, Winifred Oct 11, 1924 - Sep 13, 2018](http://obituaries.record-eagle.com/obituary/winifred-chance-1924-2018-1068220889)
 
-[](http://www.record-eagle.com/news/gt_scene/)
 
-We're always interested in hearing about news in our community. Let us know what's going on!
