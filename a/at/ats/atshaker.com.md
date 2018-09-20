@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the atshaker.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117130601id_/http%3A//playstudios.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atshaker.com privacy policy that was archived on 2018-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180920141155id_/http%3A//www.playstudios.com/previous-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Playstudios
+
+This Privacy Policy if effective through May 25, 2018
 
 PLAYSTUDIOS, Inc. (“PLAYSTUDIOS”,” “we,” “us” or “our”) values your privacy. We offer a variety of games through various means, including our mobile application and our Facebook application (collectively, our “Applications”). On our website [www.PlayStudios.com](http://www.playstudios.com/) (the “Site”), we provide information about our products and services, including those games, and how you may redeem certain points that you earn through the Applications. In this Privacy Policy (“Policy”), we describe how we collect, use, and disclose information that we obtain about visitors to our Site and our Applications, and the services offered on each (collectively, “Services”).
 
  
 
-By using any of our Services or visiting our Site or Applications, you agree that your personal information will be handled as described in this Policy. Your use of our Site, Applications or Services, and any dispute over privacy, is subject to this Policy and our Terms of Service, including its applicable limitations on damages and the resolution of disputes. The PLAYSTUDIOS Terms of Services are incorporated by reference into this Policy:
+By using any of our Services or visiting our Site or Applications, you agree that your personal information will be handled as described in this Policy. Your use of our Site, Applications or Services, and any dispute over privacy, is subject to this Policy and our Terms of Service, including its applicable limitations on damages and the resolution of disputes. The PLAYSTUDIOS Terms of Services are incorporated by reference into this Policy:
 
   * [myVEGAS Mobile Slots](http://www.playstudios.com/terms-of-service-mobile/ "Terms of Service – Mobile")
   * [myVEGAS Facebook Slots](http://www.playstudios.com/terms-of-service-facebook/ "Terms of Service – Facebook")
@@ -117,7 +119,7 @@ For users of our mobile application, in addition to the information listed above
 
 We may use this information in the aggregate or we may combine it with personal information about you.
 
-Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your web browser for record-keeping purposes. Some cookies allow us to make it easier for you to navigate our Site and Applications, while other cookies are used to enable a faster log-in process or to allow us to track your activities at our Site and Applications. There are two types of cookies: session-based and persistent-based cookies.
+Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your web browser for record-keeping purposes. Some cookies allow us to make it easier for you to navigate our Site and Applications, while other cookies are used to enable a faster log-in process or to allow us to track your activities at our Site and Applications. There are two types of cookies: session-based and persistent-based cookies. 
 
  
 
@@ -154,7 +156,7 @@ We use the information that we gather about you for the following purposes:
   * To provide our Services to you, to communicate with you about your use of our Services, to respond to your inquiries, to fulfill your orders, and for other customer service purposes.
   * To tailor the content and information that we may send or display to you, to offer location customization, and to otherwise personalize your experiences while using the Site, Applications, or our Services.
   * Where permitted by law, and in accordance with Facebook’s applicable terms and conditions, for marketing and promotional purposes. For example, we may use your information, such as your email address, to email you news and newsletters, special offers, and promotions, or to otherwise contact you about products or information we think may interest you. We may also use the information that we learn about you to determine where to assist us in advertising our Services on third party websites.
-  * To better understand how users access and use our Services, both on an aggregated and individualized basis, in order to improve our Services, analyze player traffic and activity, respond to user desires and preferences, and for other research and analytical purposes. 
+  * To better understand how users access and use our Services, both on an aggregated and individualized basis, in order to improve our Services, analyze player traffic and activity, respond to user desires and preferences, and for other research and analytical purposes.
   * We also may post to your Facebook Wall, access posts in your news feeds, and access your Facebook data when you are not logged into Facebook. We will use and access this information for the purposes described in this section and as discussed below.
   * As required or permitted by law.
 
@@ -212,6 +214,8 @@ If you would like to access or modify your Facebook profile information, or adju
 ## What Choices Do I Have Regarding Use of My Personal Information?
 
 We may send periodic promotional or informational emails to you. You may opt-out of such communications by following the opt-out instructions contained in the e-mail. Please note that it may take up to 10 business days for us to process opt-out requests. If you opt-out of receiving emails about recommendations or other information we think may interest you, we may still send you e-mails about your account or any Services you have requested or received from us.
+
+As noted above, to adjust the types of information about you that we receive from Facebook, you must change your Facebook account settings directly through Facebook.
 
  
 
