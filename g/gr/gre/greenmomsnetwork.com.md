@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenmomsnetwork.com privacy policy that was archived on 2017-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170727022704id_/http%3A//greenmomsnetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenmomsnetwork.com privacy policy that was archived on 2018-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180920183656id_/http%3A//greenmomsnetwork.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Green Moms Network
 
