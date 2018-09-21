@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adorebeauty.com.au privacy policy that was archived on 2018-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180418130046id_/https%3A//www.adorebeauty.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adorebeauty.com.au privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921121153id_/https%3A//www.adorebeauty.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -17,9 +17,9 @@ We will generally only use the information that you provide us with for the prim
 
 Your email address may also be used to contact you in the event that you discontinue a shopping session. We may contact you by email to see if there were any problems and if we can help you to complete your transaction.
 
-**Order information** such as your name, billing address, delivery address, email address and phone number are collected at the time you place your order and are necessary to effect delivery of the products that you order, and to contact you in regard to your order if necessary. These details are retained in our database for record keeping purposes. If you purchase any Clinique products, customer and order information will also be provided to Estée Lauder Pty Ltd for the purpose of completing the sale. This information will be kept secure and handled according to the [Clinique Australia Online Privacy Policy](http://www.clinique.com.au/cms/customer_service/privacy.tmpl).
+**Order information** such as your name, billing address, delivery address, email address and phone number are collected at the time you place your order and are necessary to effect delivery of the products that you order, and to contact you in regard to your order if necessary. These details are retained in our database for record keeping purposes. 
 
-If you have registered as a member, you can change or delete these details at any time by [logging in](https://www.adorebeauty.com.au/customer/account/login/) using your email address and password, and then going to the [Modify Details](https://www.adorebeauty.com.au/) section.
+If you have registered as a member, you can change or delete these details at any time by [logging in](https://www.adorebeauty.com.au/customer/account/login/) using your email address and password, and then going to the [Modify Details](http://www.adorebeauty.com.au/) section.
 
 **If you elect to pay online** using your credit card, your card details are not viewed by us or by any person except you, at any time during the transaction. These details are necessary to process your order using this payment process. They are encrypted and passed directly to the Bank through our security provider [eWay](http://www.eway.com.au/). You can read more about our payment systems and security in the Help section. We do not retain your credit card details.
 
@@ -31,7 +31,7 @@ Any other information you provide at the checkout, such as comments or survey re
 
 **Promotional Communications** : as part of our promotional, educational and remarketing campaigns, we may contact you using the email address you have provided. If you prefer not to hear from us, please click on the “unsubscribe” link at the bottom of any email and you will be removed from any future communications.
 
-You can also unsubscribe (or re-subscribe) at any time by [logging in](https://www.adorebeauty.com.au/customer/account/login/) using your email address and password, and then going to the [Modify Details](https://www.adorebeauty.com.au/) section.
+You can also unsubscribe (or re-subscribe) at any time by [logging in](http://www.adorebeauty.com.au/customer/account/login/) using your email address and password, and then going to the [Modify Details](http://www.adorebeauty.com.au/) section.
 
 **Why does Adore Beauty collect this information?**
 
@@ -69,7 +69,7 @@ If you would like to find out what information we have about you, please email s
 
 **What if the information we hold is wrong or needs to be changed?**
 
-Some information can be changed directly by yourself. You can do this by logging in using your email address and password, and going to the Modify Details section. If you are having trouble using this feature, please [contact us](https://www.adorebeauty.com.au/contact-us/) and we will make the relevant changes and report back to you. If you have any other concerns you should also [contact us](https://www.adorebeauty.com.au/contact-us/).
+Some information can be changed directly by yourself. You can do this by logging in using your email address and password, and going to the Modify Details section. If you are having trouble using this feature, please [contact us](http://www.adorebeauty.com.au/contact-us/) and we will make the relevant changes and report back to you. If you have any other concerns you should also [contact us](http://www.adorebeauty.com.au/contact-us/).
 
 Other information can be changed or corrected by emailing us at service@adorebeauty.com.au and specifying what information you would like amended..
 
@@ -94,6 +94,6 @@ This website uses the following cookies:
 • AdRoll: We use retargeting codes to log when users view specific pages, allowing us to provide targeted advertising in the future.You can manage your preference/ opt-out here: http://www.networkadvertising.org/choices/  
 • Website Optimiser: Our website optimiser uses cookies to remember the website for which you searched. This helps it generate the required results.
 
-If you would like to complain about a breach of the Australian Privacy Principles you can contact us directly by email at [service@adorebeauty.com.au](mailto:service@adorebeauty.com.au) or in writing by sending a letter to 461 Victoria Street, Brunswick West, 3055. We will look into your complaint and respond promptly in writing notifying you of what we will do in response.
+If you would like to complain about a breach of the Australian Privacy Principles you can contact us directly by email at [service@adorebeauty.com.au](mailto:service@adorebeauty.com.au) or in writing by sending a letter to Level 1, 421 High St Northcote VIC 3070 AUSTRALIA. We will look into your complaint and respond promptly in writing notifying you of what we will do in response.
 
 If you are unsatisfied with our response you can contact the Office of the Australian Information Commissioner.
