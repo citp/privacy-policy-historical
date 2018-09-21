@@ -1,211 +1,172 @@
-> *The following text is extracted and transformed from the gsbank.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616202346id_/http%3A//www.goldmansachs.com/privacy-and-security/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsbank.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921124321id_/https%3A//www.marcus.com/us/en/privacy-policy) for the most accurate reproduction.*
 
-# Goldman Sachs | Privacy and Security - Goldman Sachs Global Privacy Policy
+# Privacy Policy | Marcus by Goldman Sachs®
 
-**Your Privacy Is Important to Goldman Sachs**
+**Table of Contents**
 
-In the course of serving you as an individual client or as someone associated with a corporate or institutional client, Goldman Sachs may obtain personal information about you. Obtaining this information is important to our ability to deliver the highest level of service to you, but we also recognize that you expect us to treat this information appropriately.
+  1. General
+  2. Sources of Information
+  3. Our Use of Your Information
+  4. Disclosures of Your Personal Information within Goldman Sachs
+  5. Disclosures of Your Personal Information to Third Parties
+  6. Cookies and Other Tracking Technologies
+  7. Information Security: How We Protect Your Privacy
+  8. Other Important Information
+  9. Other Privacy Policies or Statements  
 
- This policy describes the types of personal information we may collect about you, the purposes for which we use the information, the circumstances in which we may share the information and the steps that we take to safeguard the information to protect your privacy. As used throughout this policy, the term “Goldman Sachs” refers to The Goldman Sachs Group, Inc. and its affiliates worldwide.
+  10. Do Not Track Signals
+  11. Do Not Call Policy
 
-**The Sources of Information**
 
-The personal information we collect about you comes primarily from the account applications or other forms and materials you submit to Goldman Sachs during the course of your relationship with us. We may also collect information about your transactions and experiences with Goldman Sachs relating to the products and services Goldman Sachs provides. In addition, depending on the products or services you require, Goldman Sachs may obtain additional information about you, such as your credit history, from consumer reporting agencies.
 
-Finally, in the provision of financial services to you and subject to strict compliance with all applicable laws and regulations, information may be collected about you indirectly from monitoring or other means (e.g. recording of telephone calls and monitoring e-mails). In these circumstances, the information is not accessed on a continuous or routine basis, but it may be used for compliance or security purposes.
+**1\. GENERAL ******
 
-**The Information We Have about You**
+Your privacy is important to us. We want you to understand how we may collect, use, share and keep information about you and the choices that are available to you. This Online Privacy Policy describes the types of information we may collect about you, the purposes for which we use the information, the circumstances in which we may share the information, the steps that we take to safeguard the information and to protect your privacy, our do not call policy; and other important privacy terms (as updated from time-to-time, this  **“Online Privacy Policy”** ) that apply when you visit the Marcus by Goldman Sachs website ([www.marcus.com](http://www.marcus.com/)) and any associated websites, products, services or mobile applications (collectively, the “ **Site** ”). By using the Site, you are accepting the terms of this Online Privacy Policy and you are consenting to our collection, use, disclosure and protection of your information as described in this Online Privacy Policy.
 
-If you deal with Goldman Sachs in your individual capacity (e.g. as a private client), or as a settlor/trustee/beneficiary of a trust, or as an owner or principal of a company or other investment vehicle established to invest on your behalf or on behalf of your family, etc., the typical information we collect about you would include:
+As used throughout this Online Privacy Policy, the terms (1) “ **Goldman Sachs,** ” “ **we,** ” “ **us** ” or “ **our** ” means Goldman Sachs Bank USA and its affiliates, agents and assigns worldwide; (2) “ **you** ” or “ **your** ” means any user of the Site; (3) " **Products** ” means the Online Savings Accounts and Certificate of Deposit Accounts (each an “Account”), loans, financial education materials and any other products or services provided through the Site; and (4) “ **includes** ” or “ **including** ” means “including but not limited to” or “includes but is not limited to.”
 
-  * Your name, address and other contact details; 
-  
+As you review this Online Privacy Policy, please remember information you provide to us in connection with a Product may be governed by a separate notice called the [Goldman Sachs Bank USA Privacy Notice.](https://www.marcus.com/content/dam/mosaic/shared/pdf/GLBA.pdf) Please refer to that notice for additional information about our privacy practices and your rights and choices.
 
-  * Your age, occupation and marital status;
-  
+We may change this Online Privacy Policy from time-to-time. If we make changes to this statement, we will update the “Last Modified” date at the top of this page. Any changes to this Online Privacy Policy will become effective when posted unless indicated otherwise. Your continued use of the Site following the posting of any changes will mean that you accept those changes.
 
-  * Extensive financial information, including source of wealth, investment experience and objectives, risk tolerance and, in certain jurisdictions, representations required under applicable law or regulation concerning your financial resources; 
-  
+We may make links to websites or applications that are owned by third parties (" **third-party websites** ") available on the Site. Information collected by providers of such third-party websites is governed by their privacy policies, which we encourage you to review. These third-party websites operate independently from us and are not subject to this Online Privacy Policy or any of our privacy policies.
 
-  * A head and shoulders photograph from, as applicable, your passport, national identity card or driver's license, as required by laws and regulations addressing due diligence and related matters; and 
-  
+**2\. SOURCES OF INFORMATION **
 
-  * A personal identifier such as, depending on your country of residence, your Social Security Number, National Insurance Number, Tax File Number, etc.
+The personal information we collect about you comes primarily from the information that you provide to us during the course of your relationship with us. We may also collect information about your transactions and experiences with us relating to your use of the Site and/or the Products. In addition, depending on the Products that we provide to you, we may obtain additional information about you from third parties (for example, we may obtain your credit history from consumer reporting agencies or demographic information maintained by third parties). 
 
+When you interact with the Site on a social media platform, we may collect the personal information that you make available to us relating to that platform, including your account ID or username and other information included in your posts.
 
+Finally, in the provision of Products to you, information may be collected about you indirectly through monitoring or other means (for example, recording of telephone calls, monitoring emails and information collected through your use of the Site). By communicating with us, you acknowledge that your communication may be overheard, monitored, or recorded without further notice or warning.
 
-If you are an employee/officer/director/principal, etc. of one of our corporate or institutional clients, the typical information we collect about you personally would include:
+**_Information That You Provide_**
 
-  * Your name and contact details;
-  
+When you visit the Site, apply for a Product, establish a customer relationship with us, use a Product or otherwise interact with us, the typical information we may collect about you depends on the Product and may include:
 
-  * Your role/position/title and area of responsibility; and 
-  
+  * Your name, address, phone, email and other contact details and similar information; 
+  * Your age and occupation; 
+  * Your Social Security Number/ Individual Taxpayer Identification Number; 
+  * Financial information (for example, information about your income and your full bank account numbers); 
+  * Documents to verify your identity, occupation and income, such as photographs or copies of government IDs, checks, tax documents and other similar materials; and 
+  * Other personal information that you disclose as part of any Product enrollment, Account application, loan application or in other communications with us.
 
-  * Certain identifying information (e.g. passport photo, etc.) as required by laws and regulations addressing money laundering and related matters.
 
 
+Of course, you are not required to supply any of the personal information that we request. However, your failure to do so may result in our being unable to open or maintain an Account or to provide Products to you. You agree to promptly notify us if there are any changes to your personal information by updating your online account in the following manner:
 
-Of course, you are not required to supply any of the personal information that we may request. However, failure to do so may result in our being unable to open or maintain your account or to provide services to you. While we make every effort to ensure that all information we hold about you is accurate, complete and up to date, you can help us considerably in this regard by promptly notifying us if there are any changes to your personal information.
+  * For Marcus Savings Products call us toll-free at 1-855-730-SAVE (1-855-730-7283) or write us at Goldman Sachs Bank USA, P.O. Box 1978, Cranberry Twp, PA 16066.
+  * For other Products (including Marcus Loans), please call us toll-free at 1-844-MARCUS2 (1-844-627-2872) or write  us at Goldman Sachs Bank USA, P.O. Box 45400, Salt Lake City, UT 84145-0400.
 
-**Our Use of Your Personal Information**
 
-We may use your personal information to:
 
-  * Administer, operate, facilitate and manage your relationship and/or account with Goldman Sachs. This may include sharing such information internally as well as disclosing it to third parties, as described in the following two sections, respectively;
-  
+**_Automatically Collected Information_**
 
-  * Contact you or, if applicable, your designated representative(s) by post, telephone, electronic mail, facsimile, etc., in connection with your relationship and/or account; 
-  
+In addition to the information that you provide to us, we collect certain information automatically through your use of the Site or interaction with our advertisements. For example, we may collect data regarding your use of the Site directly or through our service providers using cookies, web beacons, page tags, pixels or similar tools that are set when you visit the Site or when you view an advertisement that we have placed on another site (“ **Clickstream Data** ”). Clickstream Data may include computer and connection information such as statistics on your page views, pathways to and from the Site, referral URL, ad data, IP address (which can be used to derive the location of your device), device identifiers, the type of operating system and browser you use, and other device settings. Clickstream Data also may include your browsing history, transaction history, your web log information and other information that may be aggregated and/or de-identified. Clickstream Data helps us suggest Products or service offerings that may be of interest to you. This information may be used by us (or third parties on our behalf) for the purposes described in this Online Privacy Policy or for other business purposes as permitted by law. For more information about how this Site uses cookies, web beacons, page tags, pixels and similar choices and your rights and choices, please see Cookies and Other Tracking Technologies below.
 
-  * Provide you with information (such as investment research), recommendations, or advice concerning products and services offered by Goldman Sachs; and 
-  
+**_Location Information_**
 
-  * Facilitate our internal business operations, including assessing and managing risk and fulfilling our legal and regulatory requirements.
+We may receive information about your location and your mobile device, including a unique identifier for your device. In addition, in some instances, location information can be derived from your IP address or through your wi-fi connection. You can change whether you share specific geo-location information in your device settings; however, some Products or features on the Site may not function properly without this information. 
 
+**3\. OUR USE OF YOUR INFORMATION ******
 
+We use your information to provide you with Products and information and to help us personalize and continually improve the Site and Products, including fulfilling requests for information, processing applications, analyzing and compiling trends and statistics and communicating with you.  
 
-If your relationship with Goldman Sachs ends, Goldman Sachs will continue to treat your personal information, to the extent we retain it, as described in this policy.
+We may also use your information to:
 
-**Disclosures of Your Personal Information within Goldman Sachs**
+  * Administer, operate and manage your relationship and/or Products with us. This may include sharing such information internally as well as disclosing it to third parties, as described in this Online Privacy Policy and other privacy notices that we may provide to you in connection with specific Products;
+  * Contact you through various channels, including mail, telephone, text message, in-app and Site messaging, and email, in connection with your Products; 
+  * Provide you with customized information and reports, tailored content and marketing messages; 
+  * Authenticate your identity, including during the application process;
+  * Support our internal business operations, including assessing and managing risk and fulfilling our legal and regulatory requirements; 
+  * Comply with contractual obligations, relevant industry standards and our policies;
+  * Mitigate fraud, enhance the security of your Products and our online services and manage institutional risk;
+  * Operate, evaluate and improve our business (including developing new Products and services; improving existing Products and services; performing data analytics; and performing accounting, auditing and other internal functions);
+  * Improve Site performance and personalize your experience with the Site;
+  * Notify you about changes to the Site, Products and policies;
+  * Perform analytics concerning your use of our online services, including your responses to our emails and the pages and advertisements you view; 
+  * Respond to your requests and otherwise fulfill any purpose for which you provide to us;
+  * For any other purpose that we disclose at the time you provide, or when we collect, your information; and
+  * Other purposes permitted by applicable law.
 
-In order to provide efficient and reliable services and to improve product and service options available to you, more than one entity within Goldman Sachs may be given, or given access to, your personal information. For example, one Goldman Sachs entity might share your information with another in order to facilitate settlement of your transactions or the maintenance of your accounts, or as part of its arranging for the performance of specialized services such as US and international brokerage, asset management and advisory and trust services. When so sharing your personal information, we adhere to applicable legal and industry standards regarding the protection of personal information. Additional information on how your personal information is protected while within Goldman Sachs is provided below, under Information Security: How We Protect Your Privacy.
 
-**Disclosures of Your Personal Information to Third Parties**
 
-Goldman Sachs does not disclose your personal information to third parties, except as described in this policy. Third party disclosures may include sharing such information with non-affiliated companies that perform support services for your account or facilitate your transactions with Goldman Sachs, including those that provide professional, legal or accounting advice to Goldman Sachs. Non-affiliated companies that assist Goldman Sachs in providing services to you are required to maintain the confidentiality of such information to the extent they receive it and to use your personal information only in the course of providing such services and only for the purposes that Goldman Sachs dictates.
+In addition to the above, we may use data that we collect on an aggregate or anonymous basis for various business purposes, where permissible under applicable laws and regulations.
 
-We may also disclose your personal information to fulfill your instructions, to protect our rights and interests and those of our business partners or pursuant to your express consent. Finally, under limited circumstances, your personal information may be disclosed to third parties as permitted by, or to comply with, applicable laws and regulations; for instance, when responding to a subpoena or similar legal process, to protect against fraud and to otherwise cooperate with law enforcement or regulatory authorities or with organizations such as exchanges and clearinghouses.
+We also may use or combine information that we collect offline or that we receive from third-party sources for many reasons, including to enhance, expand and check the accuracy of our records. Additionally, data collected from a particular browser, device or application may be used with or to recognize you on another browser, device or application linked to you.
 
-_You should know that Goldman Sachs will not sell your personal information._
+We provide you with certain communication choices relating to certain types of communications and information sharing. See the  _Do Not Call Policy  _below for more details on your telemarketing options. You may also receive a privacy notice in connection with certain Products that you receive from us describing certain communication choices associated with that Product. You can exercise your communications choices by following any instructions contained in our privacy notices or marketing materials, or:
 
-**Goldman Sachs Bank AG, Switzerland**
+  * For Marcus Savings Products call us toll-free at 1-855-730-SAVE (1-855-730-7283) or write us at Goldman Sachs Bank USA, P.O. Box 1978, Cranberry Twp, PA 16066.
+  * For other Products (including Marcus Loans), please call us toll-free at 1-844-MARCUS2 (1-844-627-2872) or write  us at Goldman Sachs Bank USA, P.O. Box 45400, Salt Lake City, UT 84145-0400.
 
-The treatment and transfer of your personal information in case you are a client of Goldman Sachs Bank AG, Switzerland, is ruled by Swiss laws such as Swiss Banking Secrecy Art. 47 Banking Law, the Swiss Data Protection law, the General Conditions and any further agreement between Goldman Sachs Bank AG and you.
 
-**Information Security: How We Protect Your Privacy**
 
-Goldman Sachs is committed to protecting the privacy and confidentiality of your personal information. We limit access to your personal information to authorized Goldman Sachs employees or agents and, as described above in Disclosures of Your Personal Information to Third Parties, our service providers are held to stringent standards of privacy. We also maintain physical, electronic and procedural safeguards to protect the information against loss, misuse, damage or modification and unauthorized access or disclosure. Some of the other central features of our information security program are:
+If your relationship with us ends, we will continue to treat your personal information, to the extent we retain it, as described in this Online Privacy Policy or as set forth in the privacy notice for the applicable Product.
 
-  * A dedicated group – the Information Security Department – that designs, implements and provides oversight to our information security program;
-  
+**4\. DISCLOSURES OF YOUR PERSONAL INFORMATION WITHIN GOLDMAN SACHS ******
 
-  * The use of specialized technology such as firewalls; 
-  
+In order to provide efficient and reliable Products and to improve product and service options available to you, more than one entity within Goldman Sachs may be given, or given access to, your personal information. For example, one Goldman Sachs entity might share your information with another in order to facilitate your transactions, assist in the Account application process, for the maintenance of your accounts or for other purposes permissible under applicable law. When we share your personal information in this way, we adhere to all applicable legal requirements regarding the sharing and protection of personal information. The privacy notice for an applicable Product may have information about your rights and choices regarding sharing your personal information within Goldman Sachs. Additional information on how your personal information is protected while within Goldman Sachs is provided below, under Information Security: How We Protect Your Privacy.
 
-  * Testing of the security and operability of products and services before they are introduced to the Internet, as well as ongoing scanning for publicly known vulnerabilities in the technology; 
-  
+**5\. DISCLOSURES OF YOUR PERSONAL INFORMATION TO THIRD PARTIES ******
 
-  * Internal and external reviews of our Internet sites and services; 
-  
+We only share your personally identifiable information with third parties as described below. In addition, we may share information that does not specifically and personally identify you, such as aggregated information, device identifiers or other unique identifiers to third parties.  
 
-  * Monitoring of our systems infrastructure to detect weaknesses and potential intrusions; 
-  
+_We will not sell information that personally identifies you to any third party for their own marketing purposes._
 
-  * Implementing controls to identify, authenticate and authorize access to various systems or sites; 
-  
+**_Third-Party Service Providers:  _**We may share your personal information with non-affiliated companies that perform support services for us or in connection with any Product that you apply for or may receive from us (“ **Third-Party Service Providers** ”). Third-Party Service Providers that assist us are required to protect any non-public personally identifiable information that they receive from us and to use that information only for the purposes that we instructor for other business purposes as permitted by law.
 
-  * Protecting information during transmission through various means including, where appropriate, encryption; and 
-  
+**_Law Enforcement, Legal Process and Emergency Situations_** : Your personal information may be disclosed to third parties as permitted by, or to comply with, applicable laws and regulations. Examples include responding to a subpoena or similar legal process, protecting against fraud and cooperating with law enforcement or regulatory authorities. We may also disclose your information if we believe it is necessary or appropriate to protect our rights, property or safety or the rights, property or safety of our employees, customers or others, or to enforce our contractual rights.
 
-  * Providing Goldman Sachs personnel with relevant training and continually updating our security practices in light of new risks and developments in technology.
+**_Sale, Assignment or Change of Control:_**  In the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of any or all of our assets or liabilities, some of the personal information that we hold may be among the assets or liabilities transferred to a buyer or other successor. We may transfer to another entity or its affiliates or service providers some or all information about you in connection with, or during negotiations of, any merger, acquisition, sale of assets or liabilities or any line of business, change in ownership control or financing transaction.  
 
+**6\. COOKIES AND OTHER TRACKING TECHNOLOGIES ******
 
+Like many websites, we use tracking technologies such as cookies, web beacons and similar technologies. We may also use these technologies to, when applicable, record your preferences, track your use of the Site across multiple devices, measure exposure to our online advertisements, monitor traffic, analyze use of the Site, for security purposes, to display information more effectively, to personalize a user’s experience, and to improve the Site and make the Site easier to use.
 
-**Privacy and the Internet**
+You have choices to limit some tracking mechanisms that collect information when you use the Site. Many web browsers automatically accept cookies, but you can usually modify your browser’s setting to decline cookies if you prefer. If you choose to decline cookies, certain features of the Site may not function properly or may not remain accessible to you. In addition, you may also render some web beacons unusable by rejecting or removing their associated cookies. Note that, if you choose to remove cookies, you may remove opt-out cookies that affect your advertising preferences.
 
-The following additional information will be of interest to you as a visitor to this site:
+For more information about your choices, see _Interest-Based Advertising_ below.
 
-  * Users of private Goldman Sachs Web sites are required to identify and authenticate themselves prior to accessing our services. Generally, identification and authentication take place through the use of your user name and a password, or with an RSA SecurID* Card and a Personal Identification Number (PIN).
-  
+**_Cookies_**
 
-  * The private Goldman Sachs Web sites are built upon a secure infrastructure with multiple layers of protection, including measures ranging from proper physical security of our machines to system intrusion detection capabilities. Within such private sites, Goldman Sachs uses industry standard encryption technologies to protect your information from external compromise.
-  
+Cookies are small text files that may be placed on your device when you visit the Site or when you view advertisements that we have placed on other websites. Cookies allow your browser to remember some specific information which the web server can later retrieve and use.  When you quit your browser, some cookies are stored in your computer’s memory, while some expire or disappear.
 
-  * Security is a cooperative effort between Goldman Sachs and the users of the Goldman Sachs Web sites. Please remember that your password, RSA SecurID Card and PIN are personal to you and should not be made available to any other person. Also, you should discontinue their use and notify us if you have any reason to suspect that someone else may be using them.
-  
+**_Tags, Pixels, Web Beacons, Clear GIFs_**
 
-  * “Cookies” are small text files that may be placed on your Web browser when you visit our Web sites or when you view advertisements we have placed on other Web sites. For more information about cookies, how our Web sites use them, and your options with respect to their use, please see our [cookies policy. ](https://web.archive.org/privacy-and-security/cookies.html)
-  
+A web beacon, also known as an Internet tag, pixel tag or clear GIF, is typically a one-pixel, transparent image located on a webpage or in an email.  These may be used when you are served with advertisements, when you interact with advertisements outside of our online services or when you interact with our communications.  They are generally used to transmit information back to a web server.  
 
-  * “Clickstream” data (e.g., information regarding which of our Web pages you access, the frequency of such access, and your product and service preferences) may be collected by Goldman Sachs itself, or by our service providers, using cookies, Web beacons, page tags, or similar tools that are set when you visit our Web site or when you view an advertisement we have placed on another Web site. Clickstream data and similar information may be shared internally within Goldman Sachs and used: for administrative purposes; to assess the usage, value and performance of our online products and services; to improve your experience with our Web sites; and as otherwise permitted by applicable law or regulation. If you are a Goldman Sachs client, this information helps us suggest products or service offerings that may be of interest to you. This information may be processed by us for the purposes described above, or on our behalf by third parties, solely in accordance with our instructions.
-  
+**_Interest-Based Advertising_**
 
-  * When you visit this site, your browser may be momentarily directed to the Web site of an ad server or other third party service provider. This re-direction process will not be apparent to you. These third party Web sites automatically receive your IP address when this happens, and they may also collect information from your interaction with our Web sites including computer and connection information, standard Web log information, and ad information. Such information does not identify you individually.
-  
+Interest-based advertising refers to collecting information about your online activities over time and across different websites, devices, and other online services to deliver advertisements to users of that device based on their web-viewing behavior. We use interest-based advertising to deliver advertisements and other targeted content to you. To facilitate interest-based advertising, we partner with third-party advertising companies who also use these tracking tools to provide advertisements on the Site or other websites. These third parties may use these technologies to collect information about you when you use the Site and your other online activities. They may collect information about your online activities over time and across different websites and other online services. They may also use persistent identifiers to track your Internet usage across other websites and devices in their networks beyond the Site. They may use this information to provide you with interest-based advertising or other targeted content.
 
-  * Goldman Sachs may make available on this Web site third party applications such as content linking or sharing facilities. Information collected by providers of such applications is governed by their privacy policies.
+We, and many of the third-party advertisers that place tracking tools on the Site, are members of the Interactive Advertising Bureau’s _Self-Regulatory Program for Online Behavioral Advertising_.  Some of our ads that are displayed on third-party websites will feature an Ad-Choices icon inside the ad.  Clicking on the AdChoices icon inside the ad will provide you with an opportunity to opt out of interest-based advertising by the third parties that participate in the program. In addition, you can learn more about the options available to limit these third parties’ collection and use of your information by visiting our [opt-out page](http://preferences-mgr.truste.com/?pid=gs01&aid=gs01&type=marcusbygs) and the websites for the [Network Advertising Initiative](http://optout.networkadvertising.org/) and the [Digital Advertising Alliance](http://youradchoices.com/aboutus.aspx), as well as the webpages for [Facebook’s ad preferences tool](https://www.facebook.com/ads/about) and [privacy policy](https://www.facebook.com/policy).
 
+If you choose to opt-out, a cookie will be placed on your browser or device indicating your decision. This cookie is specific to a particular device and browser, so if you use different browsers or devices, you will need to opt-out on each. In addition, because the opt-out is facilitated via cookies, if you clear your cookies you will need to opt-out again.
 
-  * Our Web sites are not currently configured to respond to “do not track” signals or similar mechanisms.
+**_Additional Technology_** __
 
+We use Google Analytics, a web analytics service provided by Google, Inc. (“ **Google** ”), on the Site. Google Analytics uses cookies or other tracking technologies to help us analyze how users interact with and use the Site, compile reports on the Site’s activity and provide other services related to Site activity and usage. The technologies used by Google may collect information such as your IP address, time of visit, whether you are a return visitor and any referring website. The Site does not use Google Analytics to gather information that personally identifies you. The information generated by Google Analytics will be transmitted to and stored by Google and will be subject to Google’s privacy policies. To learn more about Google’s partner services and to learn how to opt out of tracking of analytics by Google, click <https://www.google.com/policies/privacy/partners/>. 
 
+In addition to Google Analytics, we use the Google Maps API to help pre-fill in address information.  To learn more about Google’s privacy practices, click <http://www.google.com/policies/privacy>.
 
-**Other Privacy Policies or Statements; Changes to Policy**
+**7\. INFORMATION SECURITY: HOW WE PROTECT YOUR PRIVACY ******
 
-This policy provides a general statement of the ways in which Goldman Sachs protects your personal information. You may, however, in connection with specific products or services offered by Goldman Sachs, be provided with privacy policies or statements that supplement this policy. This policy may be changed from time to time to reflect changes in our practices concerning the collection and use of personal information. The revised policy will be effective immediately upon posting to our Web site. This version of the Policy is effective December 13, 2013.
+We take the security of your personal information seriously. We seek to limit access to your personal information to authorized employees, agents, contractors or vendors. We also maintain physical, electronic and procedural safeguards designed to protect the information against loss, misuse, damage or modification and unauthorized access or disclosure while in our possession.
 
-**Additional Information: The European Economic Area – Singapore, Switzerland, Hong Kong, Japan, Australia and New Zealand**  
-_(This section applies only if your information is processed by Goldman Sachs in a Member State of the European Economic Area (EEA), Singapore, Switzerland, Hong Kong, Japan, Australia or New Zealand)._
+**8\. OTHER IMPORTANT INFORMATION ******
 
-You are entitled to access any personal data about you held by Goldman Sachs by sending a written request to the applicable individual identified below. You may be required to supply a valid means of identification as a security precaution to assist us in preventing the unauthorized disclosure of your personal information. We will process your request within the time provided by applicable law. You are also entitled to have Goldman Sachs modify or delete any information that you believe is incorrect or out of date.
+You must be an individual of at least eighteen (18) years of age and reside in the United States or on a United States military base, or in a United States Territory in order to use the Site. If you do use the Site outside of the United States, you understand and consent to the transfer of your personal information to, and the collection, processing and storage of your personal information in, the United States and elsewhere. The laws in the United States and these countries regarding personal information may be different from the laws of your state or country.
 
-Goldman Sachs may occasionally contact you by post, telephone, electronic mail, facsimile, etc., with details of products and services that we believe may be of interest to you. If you do not wish to be contacted in this way, if you wish to exercise your rights of correction and access, or if you require further information regarding our privacy policies and practices in the above-referenced regions, please contact:
+**9\. OTHER PRIVACY POLICIES OR STATEMENTS ******
 
-For Australia and New Zealand: | 
+This Online Privacy Policy provides a general statement of the ways in which we protect your personal information through the Site. We may, however, in connection with other specific Products, provide you with privacy notices, disclosures, policies or terms that supplement this Online Privacy Policy, such as the [ Goldman Sachs Bank USA Privacy Notice](https://www.marcus.com/content/dam/mosaic/shared/pdf/GLBA.pdf) _._ Please refer to that notice for additional information about our privacy practices and your rights and choices. To the extent that there is a conflict between this Online Privacy Policy and any privacy notice, disclosure, policies or terms relating to any Product, the privacy notice, disclosure, policies or terms relating to the Product will govern.
 
-The Privacy Officer   
-Goldman Sachs Australia Group Holdings Pty Ltd   
-GPO Box 2050   
-Melbourne 3001   
-Australia   
-  
----|---  
-For Hong Kong: | 
+**10\. DO NOT TRACK SIGNALS ******
 
-Winnie Tam, Vice President   
-Goldman Sachs (Asia) L.L.C.   
-60/F, Cheung Kong Center   
-2 Queens Road, Central Hong Kong   
-  
-For the EEA: | 
+Your browser or device may include Do Not Track functionality. The Site is not built to respond to Do Not Track signals. That means that, even if your browser is set to “Do Not Track,” our information collection and disclosure practices (including the choices that we provide to customers) will continue to operate as described in this Online Privacy Policy. 
 
-Mark Pearce, Vice President    
-Goldman Sachs International   
-Peterborough Court   
-133 Fleet Street   
-London EC4A 2BB   
-  
-For Switzerland: | 
+**11\. DO NOT CALL POLICY ******
 
-Rene Schwab   
-Goldman Sachs Bank AG   
-Claridenstrasse 25   
-Postfach 8022, Zurich   
-  
-For Japan: | 
+Goldman Sachs Bank USA (“ **GS Bank** ”) does not place marketing telephone calls to numbers appearing on a state or federal do not call list (unless permitted by applicable law) or to the number of a person who has requested not to receive telemarketing calls made by or on behalf of GS Bank. If you ask not to receive telemarketing calls from us, you will be placed on our internally-maintained do not call list and will not be called during any future telemarketing campaigns. Any request to be placed on our internally-maintained do not call list will be processed within a reasonable amount of time, not to exceed 30 days. GS Bank employees involved in GS Bank's telemarketing campaigns receive training on how to use our internally-maintained do not call list, and how to document, process and honor requests to be placed on our internally-maintained do not call list. It is our policy to honor a do not call request for five (5) years from the time the request is made. However, some states have do not call laws that require us to honor such a request for a longer period of time, and it is our policy to comply with those laws when applicable. Subject to applicable law, if you communicate with us by telephone, we may monitor or record the call. We reserve the right to revise this Do Not Call Policy.
 
-Hiroki Inaba, Vice President   
-Goldman Sachs Japan, Co., Ltd.   
-Roppongi Hills Mori Tower   
-10-1, Roppongi 6-chome Minato-ku, Tokyo 106-6147   
-  
-For Singapore: | 
-
-Pui Fun Chow   
-Data Protection Officer   
-Goldman Sachs (Singapore) Pte   
-1 Raffles Link   
-#07-01 South Lobby   
-Singapore 039393   
-  
-**Additional Information: The United States**
-
-If you require further information regarding our privacy policies and practices in the United States please contact: 
-
-J. Thomas Morina, Vice President   
-Goldman, Sachs & Co.   
-30 Hudson Street   
-Jersey City, NJ 07302 
-
-* RSA SecurID is a trademark owned by RSA Security Inc.
+Marcus by Goldman Sachs® is a brand of Goldman Sachs Bank USA, which is a wholly-owned subsidiary of The Goldman Sachs Group, Inc., New York State-chartered bank and a member of the Federal Reserve System and FDIC. All savings deposit products provided by Goldman Sachs Bank USA. 
