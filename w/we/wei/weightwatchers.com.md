@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weightwatchers.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618234412id_/https%3A//www.weightwatchers.com/us/privacy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightwatchers.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921084513id_/https%3A//www.weightwatchers.com/us/privacy/policy) for the most accurate reproduction.*
 
-# Privacy Policy | Weight Watchers
+# Privacy Policy | WW USA
 
 This Privacy Policy governs our United States weightwatchers.com websites (collectively our "Website") and our Online Products, and explains how we collect your personal information on our Website or through the Online Products, how we protect such information, and the choices you have concerning the use of such information.  Your privacy and the security of your personally identifiable information are very important to us. We want you to be as comfortable as possible visiting our Website and using our Online Products. We are dedicated to protecting the privacy of those who visit our Website and use our Online Products. Please read this Privacy Policy carefully. Except as WeightWatchers.com, Inc. and Weight Watchers International, Inc. (collectively, "we", "us", or "our") disclose in this Privacy Policy, we will not sell, share, license, trade, or rent your personally identifiable information to others. 
 
