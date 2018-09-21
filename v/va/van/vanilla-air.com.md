@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vanilla-air.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624080156id_/https%3A//www.vanilla-air.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanilla-air.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921071929id_/https%3A//www.vanilla-air.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vanilla Air: Airline Tickets, Flights and Airfare
 
@@ -87,7 +87,7 @@ Customers can use the following method to make requests for disclosure, etc. to 
 [1] Request method  
 Send the required documents to the address below.   
 Vanilla Air, Inc.  
-Human Resources / General Affairs Department, Personal Information Handling Representative  
+General Administration Department, Personal Information Handling Representative  
 1-1 Narita-furugome, Narita-shi, Chiba 282-0004, Japan
 
 [2] Required documents  
