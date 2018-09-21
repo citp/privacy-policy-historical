@@ -1,172 +1,142 @@
-> *The following text is extracted and transformed from the travelingmom.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620082049id_/http%3A//travelingmom.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelingmom.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921073622id_/https%3A//www.travelingmom.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy & Terms - Traveling Mom
 
-Travelingmom™ Privacy Policy
+**[](https://www.travelingmom.com/wp-content/uploads/2013/08/airplane-sky-cloudes-travel-small.jpg)**
 
-Travelingmom™ is designed to be a welcoming, safe site for you and your family to enjoy. We want you to feel secure sharing your personal information with us, and in return, we hope you will find the services offered by our site useful, timely, and relevant. We promise:
+_Updated May 24, 2018_
 
-    * We will not rent or sell your personal information to any other party.  
-    * We will notify you if we are going to use your personal information in a manner different from that stated at the time it is collected.  
-    * You will have a choice as to whether or not we use your information in that different manner.  
-    * If you ever want us to stop contacting you, just let us know and we will stop immediately after we have confirmed your decision.
+**For details on Twitter party and contest rules, please click[here](http://travelingmom.com/about-us/3854-contest-rules.html).**
 
-If at any time you have concerns about how the personal information you have provided us is being used, please contact us at webmaster@travelingmom.com. If we do not provide you with an adequate response, let me know korlando@travelingmom.com, and I will personally address your concerns and respond to you.
+**For details on the TMOM Disclosure Policy, please click[here](https://www.travelingmom.com/blogging-guidelines-a-disclosure/).**
 
-Our privacy policy contains the details of how travelingmom™ uses the information you provide. We value our customer and strive to provide quality service in every area. Thank you.
+**PRIVACY POLICY**
 
-Warmest regards,
+TravelingMom™ is designed to be a welcoming, safe site for you and your family to enjoy. You are free to explore TravelingMom without providing any Personal Information about yourself. When you comment or enter a giveaway, we require you to provide Personal Information about yourself such as an email address. We want you to feel secure sharing personal information with us, and in return, we hope you will find the services offered by our site useful, timely, and relevant.
 
-Kim Orlando  
-Owner  
-Travelingmom, LLC
+We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what personally identifiable information we may collect and how it may be used. This statement only applies to this Website and its mobile application, collectively referred to as WEBSITE.
 
-Information Collection & Use
+Please read the following terms and conditions (“Terms and Conditions”) closely before using www.TravelingMom.com (Website). By accessing, browsing and using this website, you acknowledge that you have read, understood and agree to comply with the terms and conditions stated here. If you do not agree with any part of these Terms and Conditions, YOU MUST NOT USE THIS SITE.
 
-In general, you can visit this Web site without telling us who you are or revealing any information about yourself.
+We may at any time modify these Terms and Conditions, and if you are on our newsletter mailing list, we will send an email to you noting the modifications. Your continued use of this Site will constitute your acceptance of and agreement to the terms and conditions in force at the time of your use.
 
-Log Files
+While we will notify you of any material changes to this Privacy Policy, we encourage you to review this Privacy Policy periodically. We will also keep prior versions of this Privacy Policy in an archive for your review.
 
-Like most Web sites, our Web servers collect the domain names, not e-mail addresses, of visitors. This information is gathered automatically and stored in log files, and include internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+**WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?**
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site, and to gather demographic information about our user base as a whole.
+Information You Voluntarily Submit to the Website: We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form. In addition, you are able to create a user profile, which allows you to create a username and password. We will store the username, but your password will not be visible in our records.
 
-Age Policy.
+Information We Collect from Others: We may receive information about you from other sources.  You may link your Facebook, Instagram, and/or Google accounts to your user profile.  If you choose to link your Facebook, Instagram, and/or Google accounts to your user profile, we will receive your name, email address and profile picture associated with that account.
 
-This Web site is not intended for persons under 13 years of age. WE do not knowingly solict or collect personal information from or about children, and we do not knowingly market our products or services to children. If you are a parent or become aware of a child registered under the age of 13, please notify travelingmom™ at webmaster@travelingmom.com or as provided at the end of this policy.
+Automatically-Collected Information: We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
 
-Note to Parents.
+Cookies: We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
 
-If your child is under 13 and has become a travelingmom™ member using a false age, please notify us as provided at the end of this policy and we will immediately close the account and nullify all personally identifiable information provided by them. If your child is under the age of 18 and you would like to know more about our site, information practices, stored information on your child, or how to close your child’s account, please contact us at webmaster@travelingmom.com or as provided at the end of this policy.
+**HOW YOUR INFORMATION MAY BE USED**
 
-Cookies
+We may use the information collected in the following ways:
 
-Our web servers collect the domain names, not the e-mail addresses, of visitors. Our web servers also seek (as many Web sites do) to place a "cookie" (a small data file) on your computer's hard drive which allows the server to determine the computer when it visits again, in order to track statistical information about navigation to and throughout certain areas of our site. This cookie is not used to obtain your name or any personal data, and the information that is tracked is used only for internal purposes, such as to improve site navigation and to measure the effectiveness of our promotional placements, and is not shared with anyone other than travelingmom affiliates and contractors who assist travelingmom in these efforts and are bound to confidentiality. However, if you prefer not to accept cookies, you can set your browser to reject them or to alert you before one is placed. If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
+  * To operate and maintain the WEBSITE;
+  * To create your account, identify you as a user of the Website, and customize the Website and/or mobile application for your account;
+  * To send you promotional information, such as newsletters. Each email promotion will provide information on how to opt-out of future mailings;
+  * To send you administrative communications, such as administrative emails, confirmation emails, technical notices, updates on policies, or security alerts;
+  * To respond to your comments or inquiries;
+  * To provide you with user support;
+  * To track and measure advertising on the Website;
+  * To protect, investigate, and deter against unauthorized or illegal activity.
 
-We use both session ID cookies and/or persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. [See http://support.microsoft.com/default.aspx?scid=kb;EN-US;278835 for more information about removing cookies from your computer.] We set a persistent cookie to store your passwords, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
 
-Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. [See "Third Party Advertisers."] This privacy statement covers the use of cookies by travelingmom.com only and does not cover the use of cookies by any advertisers.
 
-Registration
+**THIRD-PARTY USE OF PERSONAL INFORMATION**
 
-There are some portions of this Web site where you will be required to complete a registration form and/or create a username and password. During registration you are required to give contact information (such as name, address, telephone number, fax number, or e-mail address). We use this information to contact you about the services on our site in which you have expressed interest.
+The Website may use third-party service providers to service various aspects of the Website. Each third-party service provider’s use of your personal information is dictated by their respective privacy policies.
 
-Travelingmom™ is the sole owner of information collected on travelingmom.com.
+The Website currently uses the following third-party service providers:
 
-Orders
+  * Google Analytics
+  * Mail Chimp
+  * Synerise
+  * Sales Manago
+  * Gleam
 
-If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date).
 
-We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you.
 
-Surveys or Contests
+At this time, your personal information is not shared directly with any other third-party applications. This list may be amended from time to time in the Website’s sole discretion.
 
-From time-to-time we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code).
+Except when required by law, we will not sell, distribute, or reveal your email addresses or other personal information without your consent; however, we may disclose or transfer personal information collected through the Website to third parties who acquire all or a portion of our business, which may be the result of a merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us.
 
-We use this information to notify contest winners and award prizes, to monitor site traffic or personalize the site (in the case of anonymous information collected in surveys), to send participants an e mail newsletter.
+**ANONYMOUS DATA**
 
-We may use a third party service provider to conduct these surveys or contests; that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+From time to time, we may use anonymous data, which does not identify you alone, or when combined with data from other parties. This type of anonymous data may be provided to other parties for marketing, advertising, or other uses. Examples of this anonymous data may include analytics or information collected from cookies.
 
-Tell-A-Friend
+**PUBLICLY VISIBLE INFORMATION**
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Travelingmom™ stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+If you create a user profile on the Website certain information may be publicly visible.  To create a user profile, you must choose a username and password and input your email address for profile confirmation.  To leave a comment, you must enter your first and last name, email address and website. Your email address will never be available publicly.  At your option, you may also add an avatar and a profile description. You may also choose to link your Facebook, Twitter, Instagram, and Google Account. Users may see your username, avatar, profile description and website information.
 
-Your friend may contact us at webmaster@travelingmom.com to request that we remove this information from our database.
+**COOKIES**
 
-Communications from the Site
+The Website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Website content based on visitors’ browser type or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described herein.
 
-Special Offers and Updates. We will occasionally send you information on products, services, special deals, or promotions. You can sign up for these e-mails from us on our registration page.
+Users may, at any time, prevent the setting of cookies, by the Website, by using a corresponding setting of your internet browser and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an Internet browser or other software programs. This is possible in all popular Internet browsers. However, if users deactivate the setting of cookies in your Internet browser, not all functions of our Website may be entirely usable.
 
-Out of respect for your privacy, we present the option not to receive these types of communications. Please see the "Choice and Opt-out."
+**ADVERTISING**
 
-Newsletters. If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the "Choice and Opt-out" section.
+**Display Ads**
 
-Service-related Announcements. We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. You may opt-out of these communications. Please see "Choice and Opt-out."
+We may use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies, as noted above.
 
-Customer Service. Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account.
+**Retargeting Ads**
 
-Profile
+From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market the Website. These companies use cookies to serve ads based on someone’s past visits to the Website.
 
-We store information that we collect through cookies, log files, clear gifs, and/or third party sources to create a "profile" of your preferences in order to provide tailored promotions and marketing offers and to improve the content of the site for you.
+**Affiliate Program Participation**
 
-We do not share your profile with other third parties.
+The Website may engage in affiliate marketing, which is done by embedding tracking links into the Website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions.
 
-Uses of Information
+TravelingMom is a participant in affiliate programs such as Commission Junction, the Amazon Services LLC Associates Program, and others. These are affiliate advertising programs designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com and other sites.  As part of these affiliate programs, the Website will post customized links to track the referrals to their websites. These programs utilize cookies to track visits for the purposes of assigning commission on these sales.
 
-Domain name information that we collect is not used to personally identify you and instead is aggregated to measure the number of visits, average time spent on the site, pages viewed, etc. We use this information to measure the use of our site and to improve the content of our site.
+**NEWSLETTERS**
 
-When other information is collected from you, such as your name and e-mail address, we generally let you know at the time of collection how we will use the personal information. Usually, we use the personal information you provide only to respond to your inquiry or to process your request. This information may be shared with other businesses, but only if necessary to fulfill your request or for related purposes.
+On the Website, you may subscribe to our newsletter, which may be used for advertising purposes. All newsletters sent may contain tracking pixels. The pixel is embedded in emails and allows an analysis of the success of online marketing campaigns. Because of these tracking pixels, we may see if and when you open an email and which links within the email you click. Also, this allows the Website to adapt the content of future newsletters to the interests of the user. This behavior will not be passed on to third parties.
 
-Third Party Advertisers
+**RIGHTS RELATED TO YOUR PERSONAL INFORMATION**
 
-The ads appearing on this Web site are delivered to users by Google, our advertising partner. We share Web site usage information about users with a reputable third party Google for the purpose of targeting our Internet banner advertisements on this site.
+**Opt-out** – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at deb@travelingmom.com to be removed from our mailing list.
 
-Google uses cookies and other technologies on this site, which allow it to recognize a user's cookie when a user visits this site. The information that Google collects and shares through this technology is not personally identifiable.
+**Access** – You may access the personal information we have about you by submitting a request to deb@travelingmom.com.
 
-For more information about our third-party advertiser, or to learn more about the choices available to you regarding this anonymous information, please click here.
+**Amend** – You may contact us at deb@travelingmom.com to amend or update your personal information.
 
-Links to Other Sites
+**Forget** – In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request to deb@travelingmom.com.
 
-This Web site contains links to other sites that are not owned or controlled by travelingmom™, LLC. While we try to link only to sites that share our high standards and respect for privacy, please be aware that we, travelingmom™, LLC, are not responsible for the privacy practices of such other sites.
+Please note that we may need to retain certain information for recordkeeping purposes or to complete transactions, or when required by law.
 
-We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.
+**SENSITIVE PERSONAL INFORMATION**
 
-This privacy statement applies only to information collected by this Web site.
+At no time should you submit sensitive personal information to the Website. This includes your social security number, information regarding race or ethnic origin, political opinions, religious beliefs, health information, criminal background, or trade union memberships. If you elect to submit such information to us, it will be subject to this Privacy Policy.
 
-Information Sharing and Disclosure
+**CHILDREN’S INFORMATION**
 
-Aggregate Information (non-personally identifiable). We share aggregated demographic information about our user base with our partners and advertisers. This information does not identify individual users.
+The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at deb@travelingmom.com and we will use our best efforts to promptly remove such information from our records.
 
-We do not link aggregate user data with personally identifiable information.
+**CONTACT INFORMATION**
 
-Personally Identifiable Information. We DO NOT Share Personally Identifiable Information with Third Parties.
+At any time, please contact us at deb@travelingmom.com for questions related to this Privacy Policy.
 
-Legal Disclaimer
+**COPYRIGHT NOTICE**
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site
+As a User/ Visitor of TravelingMom.com or its entities, you acknowledge that all content included on this Site, including, without limitation, the information, data, software, photographs, graphs, video, typefaces, graphics, music, sounds, images, illustrations, maps, designs, icons, written and other material and compilations (collectively, “Content”) are intellectual property and copyrighted works of TravelingMom and/or various third-party Sponsors. Reproductions or storage of Content retrieved from this Site, in all forms, media and technologies now existing or hereafter developed, is subject to the US Copyright Act of 1976, Title 17 of the United States Code. None of the Content may be reproduced or displayed without the prior written permission of TravelingMom or the respective copyright owner. The exception is anything written by founder Kim Orlando may be republished with a link back to TravelingMom.com provided the re-Publisher is a non-pornographic, political or other defamatory website.
 
-Choice/Opt-out
+**CORPORATE IDENTIFICATION AND TRADEMARKS**
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at webmaster@travelingmom.com, or you may contact us at 51 Orchard Place, Greenwich, CT 06830 to opt-out.
+TravelingMom, and the TravelingMom Influencer Networks logo (the “Trademarks”) are either registered trademarks or trademarks of TravelingMom, LLC in the United States and/or other countries. Other product and company names mentioned on the Site may be trademarks of Sponsors or third parties. You may not use, copy, reproduce, republish, upload, post, transmit distribute or modify the Trademarks, or any mark confusingly similar to the Trademarks, in any way, including in advertising or publicity pertaining to distribution of materials on this Site, without TravelingMom’s prior written consent.
 
-You will be notified when your personal information is collected by any third party that is not our agent or service provider, so you can make an informed choice as to whether or not to share your information with that party.
+**USE OF THE WWW.TRAVELINGMOM.COM LINK**
 
-Bulletin Boards/Forums/Chat Rooms
+You may post the TravelingMom.com link (the “Link”) on another site if you obtain written approval from TravelingMom before posting the Link. To obtain any other approvals, please email editor@travelingmom.com. The Link may only be used in the format “TravelingMom.com.” TravelingMom reserves the right to terminate any and/or all uses of the Link at any time. Notwithstanding approval to use the Link, you must still abide by the “Use Restrictions” listed below.
 
-If you use a bulletin board or chat room on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
+**USE RESTRICTION**
 
-Access to Personally Identifiable Information
+This Site is intended for personal use. You may not use robots or other automated means to access this Site, unless specifically permitted in writing by TravelingMom.
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by or by emailing our Customer Support at webmaster@travelingmom.com or by contacting us by telephone or postal mail at the contact information listed below.
-
-Security of Collected Information
-
-The security of your personal information is important to us. We maintain strict physical, electronic, and administrative safeguards to protect your personal information from unauthorized or inappropriate access.
-
-We restrict access to information about you to those Travelingmom employees who need to know the information to respond to your inquiry or request. Employees who misuse personal information are subject to disciplinary action.
-
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
-
-If you have any questions about security on our Web site, you can send email us at webmaster@travelingmom.com.
-
-Business Transitions
-
-In the event travelingmom™, LLC goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via prominent notice on our Web site for 30 days prior to any such change in ownership or control of your personal information.
-
-Changes in this Privacy Statement
-
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by e-mail, or by means of a notice on our home page.
-
-Contact Us
-
-If you have any questions or suggestions regarding our privacy policy, please contact us at: webmaster@travelingmom.com.
-
-or
-
-Travelingmom™, LLC  
-51 Orchard Place  
-Greenwich, CT 06830
-
-We welcome your questions and suggestions about our privacy policy. 
+Permission is granted to electronically copy and print in hard-copy portions of this Site for the sole purpose of using this Site as a resource. Any other use of materials or Content on this Site, including reproduction for a purpose other than that noted above without TravelingMom’s prior written consent is prohibited and subject to legal action and financial restitution.
