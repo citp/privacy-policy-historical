@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tatadocomo.com privacy policy that was archived on 2018-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180219045741id_/https%3A//www.tatadocomo.com/downloads/data-privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tatadocomo.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921080056id_/https%3A//www.tatadocomo.com/downloads/data-privacy-policy.pdf) for the most accurate reproduction.*
 
 # 
 
