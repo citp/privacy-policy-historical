@@ -1,10 +1,22 @@
-> *The following text is extracted and transformed from the internmatch.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518231602id_/https%3A//www.wayup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internmatch.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921023712id_/https%3A//www.wayup.com/privacy) for the most accurate reproduction.*
 
 # 
 
+Additional links:  
+
+
+  * [Terms and Conditions](https://web.archive.org/terms/)
+  * [DMCA Policy](https://web.archive.org/dmca/)
+  * [Privacy Policy](https://web.archive.org/legal/)
+  * [Acceptable Use Policy](https://web.archive.org/aup/)
+  * [Branding Terms](https://web.archive.org/brandingterms/)
+  * [Jobs Terms](https://web.archive.org/jobsterms/)
+
+
+
 PRIVACY POLICY
 
-Welcome to WayUp, operated by WayUp, Inc. (“WayUp” and sometimes referred to as “our”) and located at 263 West 38th Street, Floor 16, New York, NY 10018.  This Privacy Policy addresses WayUp’s practices regarding information collected from users and visitors of our Services and only addresses information collected directly through or from our Services – it does not address or govern any information-gathering, use, or dissemination practices related to information collected from the visitor (sometimes referred to as a “visitor,” "you" or "your") other than directly through or from our Services, such as from telephone, facsimile, postal mail, personal delivery, or other or additional offline means or media. 
+Welcome to WayUp, operated by WayUp, Inc. (“WayUp” and sometimes referred to as “our”) and located at 114 W 26th St, 4th Floor, New York, NY 10001.  This Privacy Policy addresses WayUp’s practices regarding information collected from users and visitors of our Services and only addresses information collected directly through or from our Services – it does not address or govern any information-gathering, use, or dissemination practices related to information collected from the visitor (sometimes referred to as a “visitor,” "you" or "your") other than directly through or from our Services, such as from telephone, facsimile, postal mail, personal delivery, or other or additional offline means or media. 
 
 This Privacy Policy is incorporated into WayUp's Terms and Conditions by reference, as if set forth fully therein, which must be reviewed and accepted by you. Our Services are not intended for children under the age of 18. WayUp does not knowingly collect personal information online from visitors in this age group.
 
@@ -38,17 +50,20 @@ Please also be advised that your desire to opt-out of future communications will
 
   8. California Residents.  Under California Civil Code Section 1798.83 (the “Shine the Light” law), California residents who provide personal information in obtaining products or services from WayUp are entitled to request and obtain from us once per calendar year information about the customer information about them that we have shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g., requests made in 2016 will receive information regarding 2015 sharing activities). If you are a California resident and would like a copy of this information, please submit a written request to:  WayUp, Inc.  
 Attn: California/Shine the Light  
-263 West 38th Street, Floor 16  
-New York, NY 10018  
+114 W 26th St, 4th Floor  
+New York, NY 10001  
 
 
 
   9. Right to Change Privacy Policy.  WayUp reserves the right at any time to modify, alter or update this Privacy Policy. Your use of our Services following any changes means that you agree to follow and be bound by the Privacy Policy as changed. Any change to this Privacy Policy shall be effective as to any visitor who has visited our Services before the change was made. It is the obligation of users visiting our Services before the change to learn of changes to the Privacy Policy since their last visit.
 
 
+  10. Email, SMS, and Push Notification Communications.  We may communicate with you via email, SMS or other text message (“Text Message”) or push notifications, to the extent you permit us to do so, and we may collect information regarding such communications, such as confirmation when you open an email, read a Text Message or receive a push notification. We use this information to improve our Services, including without limitation our customer service. We will never share this information with a third party, except as expressly provided in our Privacy Policy. You may opt-out of receiving these messages at any time by sending us a request at [info@wayup.com ](mailto:info@wayup.com?Subject=Request%20To%20Opt%20Out), and, if you have previously elected to receive Text Messages from WayUp, you may also opt out by responding “STOP” to any Text Message. You acknowledge that opting out of receiving text (SMS) messages may impact your use of the Services.
+
+
 
 If you have any questions or need to contact us, we recommend you reach out to info@wayup.com. If your question is urgent, you may contact 212-239-1911.
 
-Last modified: September 23, 2016
+Last modified: October 18, 2017
 
-Copyright © 2014-2016 WayUp, Inc.; All rights reserved.
+Copyright © 2014-2017 WayUp, Inc.; All rights reserved.
