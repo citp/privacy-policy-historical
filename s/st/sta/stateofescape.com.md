@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stateofescape.com privacy policy that was archived on 2017-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170125161645id_/https%3A//www.stateofescape.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stateofescape.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921062923id_/https%3A//www.stateofescape.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | State of Escape
+# Privacy – State of Escape
 
 INFORMATION:
 
@@ -10,7 +10,7 @@ CONSENT:
 
 When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only. If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at any time, by contacting us at [info@stateofescape.com.au](mailto:info@stateofescape.com.au) or mailing us at: State of Escape Pty Ltd PO BOX 611, MANLY NSW AU 1655
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at any time, by contacting us at [care@stateofescape.com.au](mailto:info@stateofescape.com.au) or mailing us at: State of Escape Pty Ltd PO BOX 611, MANLY NSW AU 1655
 
 DISCLOSURE:
 
