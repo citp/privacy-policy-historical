@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mercola.com privacy policy that was archived on 2018-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180204085711id_/https%3A//media.mercola.com/assets/html/privacy/security_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercola.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921085445id_/https%3A//media.mercola.com/assets/html/privacy/security_privacy.html) for the most accurate reproduction.*
 
 # Mercola Policy on Security, Privacy and Website Terms of Use
 
-## Effective Date: 3/7/2017
+## Effective Date: 3/5/2018
 
 This policy sets forth the type of information [Mercola.com](http://www.mercola.com/) collects from you via this website: [www.mercola.com](http://www.mercola.com/) (the "Website"), the way we use such information, and the procedures we use to keep such information confidential. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. 
 
@@ -62,7 +62,7 @@ We may automatically gather general statistical information about our website an
 
 ### Children Under 13
 
-We do not knowingly collect or use personal information from children under 13. We have no way of distinguishing the age of individuals who address our website, and so we carry out the same Privacy Policy for individuals of all ages. If a child has provided us with personal information, the parent or guardian should contact us to remove the information and opt out of promotional opportunities.
+We do not knowingly collect or use personal information from children under 13. We have no way of distinguishing the age of individuals who address our website, and so we carry out the same Privacy Policy for individuals of all ages. If a child has provided us with personal information, the parent or guardian should contact us to remove the information and opt out of promotional opportunities. If we learn that we have received personal information from an individual under the age of 13, we will delete the information.
 
 ^ Back to Top
 
@@ -75,8 +75,6 @@ Like most standard website servers, we use log files. This includes internet pro
 ### Cookies and Other Tracking Technologies
 
 Technologies such as: cookies or similar technologies are used by [Mercola.com](http://www.mercola.com/) and our partners [e.g. lifestyle-publishing websites, etc.], affiliates, or analytics or service providers [e.g. online customer support provider, etc.]. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
-
-We use Local Storage Objects (LSOs) such as HTML5 to store geographic information and user preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash cookies, please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
 **Why do we use these technologies?**
 
@@ -128,7 +126,7 @@ If you place a request for products or services, we use your personal informatio
 
 If [Mercola.com](http://www.mercola.com/) is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
-We may also use or disclose information to resolve disputes or investigate problems. We may disclose or access information whenever we believe in good faith that the law so requires, such as to comply with a litigation, or that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or if we otherwise consider it necessary to do so to maintain service and improve our products and services.
+In certain situations, Mercola.com may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We may also use or disclose information to resolve disputes or investigate problems. We may disclose or access information whenever we believe in good faith that the law so requires, such as to comply with a litigation, or that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or if we otherwise consider it necessary to do so to maintain service and improve our products and services.
 
 We may use your IP address to help diagnose problems with our servers, to manage our website and to enhance our site based on the usage pattern data we receive.
 
@@ -156,6 +154,12 @@ For example, some common applications of cookies are to select advertising based
 
 Additionally, we may use cookies to understand and improve how you are using social plugins to interact with our website and products. We may share information about this analysis with our partners.  
   
+^ Back to Top
+
+### Sharing with Service Providers
+
+We may share your information with third parties who provide services on our behalf to help with our business activities. These companies are authorized to use your personal information only as necessary to provide these services to us. These services may include payment processing, fulfilling orders and delivering packages. 
+
 ^ Back to Top
 
 ### User Access and Choice
