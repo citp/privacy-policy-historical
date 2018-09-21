@@ -1,28 +1,26 @@
-> *The following text is extracted and transformed from the rss.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110090903id_/https%3A//www.rss.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rss.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921095115id_/https%3A//rss.com/privacy-policy) for the most accurate reproduction.*
 
-# RSS Reader
-
-## RSS.COM Privacy Policy
+# Privacy Policy | RSS.com
 
 This Privacy Policy was last modified on September 12, 2013.
 
-RSS America, LLC ("us", "we", or "our") operates http://rss.com (the "Site"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
+RSS America, LLC (“us”, “we”, or “our”) operates https://rss.com (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 
-We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://rss.com.
+We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at https://rss.com.
 
 **Information Collection And Use**  
-While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your name, email address, postal address and phone number ("Personal Information").
+While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your name, email address, postal address and phone number (“Personal Information”).
 
 **Log Data**  
-Like many site operators, we collect information that your browser sends whenever you visit our Site ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics.
+Like many site operators, we collect information that your browser sends whenever you visit our Site (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
 **Cookies**  
-Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer's hard drive.
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.
 
-Like many sites, we use "cookies" to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Site.
+Like many sites, we use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Site.
 
 **DoubleClick Cookie**  
-Google, as a third party vendor, may use cookies to serve ads on our Site. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Site or other sites on the Internet.
+Google, as a third party vendor, may use cookies to serve ads on our Site. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Site or other sites on the Internet.
 
 You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the [Google Ads Settings](http://www.google.com/ads/preferences/) page.
 
@@ -43,12 +41,12 @@ If RSS America, LLC is involved in a merger, acquisition or asset sale, your Per
 The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
 **Links To Other Sites**  
-Our Site may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+Our Site may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
 
 RSS America, LLC has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party sites or services.
 
-**Children's Privacy**  
-Our Site does not address anyone under the age of 13 ("Children"). We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and are aware that your Children has provided us with Personal Information, please contact us. If we discover that a Children under 13 has provided us with Personal Information, we will delete such information from our servers immediately.
+**Children’s Privacy**  
+Our Site does not address anyone under the age of 13 (“Children”). We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and are aware that your Children has provided us with Personal Information, please contact us. If we discover that a Children under 13 has provided us with Personal Information, we will delete such information from our servers immediately.
 
 **Changes To This Privacy Policy**  
 RSS America, LLC may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to review this Privacy Policy periodically for any changes.
