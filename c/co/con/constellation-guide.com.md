@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the constellation-guide.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522002212id_/http%3A//www.constellation-guide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the constellation-guide.com privacy policy that was archived on 2018-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180922014807id_/http%3A//www.constellation-guide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Constellation Guide
 
@@ -22,6 +22,7 @@ For more information about Google’s use of cookies, please visit:
 
   * [Google’s Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
   * [DoubleClick](https://support.google.com/adsense/answer/2839090)
+  * [How Google uses information from partner sites](https://policies.google.com/technologies/partner-sites)
 
 
 
@@ -48,3 +49,5 @@ By using our site, you consent to our website’s privacy policy.
 **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page.
+
+This privacy policy was last updated on May 24, 2018. 
