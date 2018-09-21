@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netflixmovies.com privacy policy that was archived on 2017-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170316141739id_/https%3A//www.netflixmovies.com/i/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netflixmovies.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921115540id_/https%3A//www.netflixmovies.com/i/privacy) for the most accurate reproduction.*
 
 # Read our Privacy Policy | NetflixMovies.com
 
