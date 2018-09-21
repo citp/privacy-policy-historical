@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nuuvem.com.br privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119020941id_/http%3A//www.nuuvem.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuuvem.com.br privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921092029id_/https%3A//www.nuuvem.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-[](http://www.nuuvem.com/)
+# Privacy Policy - Nuuvem
 
 ## Nuuvem Portal
 
