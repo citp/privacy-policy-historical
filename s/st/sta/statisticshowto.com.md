@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statisticshowto.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630180132id_/http%3A//www.statisticshowto.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statisticshowto.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921080301id_/http%3A//www.statisticshowto.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Statistics How To
 
@@ -35,3 +35,13 @@ www.statisticshowto.com has no access to or control over these cookies that are 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.statisticshowto.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+\------------------------------------------------------------------------------ 
+
+**Need help with a homework or test question?** With [Chegg Study](http://chggtrx.com/click.track?CID=267627&AFID=423464&ADID=1095978&SID=), you can get step-by-step solutions to your questions from an expert in the field. If you'd rather get 1:1 study help, [Chegg Tutors](http://chggtrx.com/click.track?CID=286409&AFID=423464&ADID=1873486&SID=) offers 30 minutes of **free tutoring** to new users, so you can try them out before committing to a subscription. 
+
+If you prefer an **online interactive environment** to learn R and statistics, this [_free R Tutorial by Datacamp_](https://www.datacamp.com/courses/free-introduction-to-r?tap_a=5644-dce66f&tap_s=109699-3b32b3) is a great way to get started. If you're are somewhat comfortable with R and are interested in going deeper into Statistics, try [_this Statistics with R track_](https://www.datacamp.com/tracks/statistics-with-r?tap_a=5644-dce66f&tap_s=109699-3b32b3). 
+
+**Comments? Need to post a correction?** Please post a comment on our [_Facebook page_](https://www.facebook.com/statisticshowto/). 
+
+[Check out our updated Privacy policy and Cookie Policy](http://www.statisticshowto.com/blog/privacy-policy/)
