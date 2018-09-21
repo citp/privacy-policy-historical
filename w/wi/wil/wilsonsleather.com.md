@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wilsonsleather.com privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417014405id_/https%3A//www.wilsonsleather.com/category/customer-service/privacy-and-security.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilsonsleather.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921131940id_/https%3A//www.wilsonsleather.com/category/customer-service/privacy-and-security.do) for the most accurate reproduction.*
 
 # Privacy and Security - Wilsons Leather
 
