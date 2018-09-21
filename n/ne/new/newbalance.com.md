@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the newbalance.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529065246id_/http%3A//www.newbalance.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newbalance.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921132811id_/https%3A//www.newbalance.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last Updated: September 25, 2017
+Last Updated: September 4, 2018
 
 Thank you for placing your trust in New Balance. You are very important to us and we want to provide you with a safe and secure online experience. This Privacy Policy describes how we collect and use your information and explains the choices that you have with regard to how we use your information. 
 
@@ -86,6 +86,10 @@ Gift Recipient: If a gift giver has elected to send you a New Balance gift using
 
 
 
+#### Delivery Tracking
+
+After you make a purchase through the Service, New Balance will send you an email with a link to track your order. By clicking the “Track Your Order” button, you will be brought to the website of our order tracking service provider, Narvar Inc. (the “Narvar site”), where you can view your estimated delivery date. If you elect to receive SMS text message updates about your order, you will need to provide your mobile number, which will be shared with Narvar in order to send you delivery updates. We will not share any additional Personal Information about you with Narvar. To opt-out of text SMS message delivery notifications from Narvar, simply return to the Narvar site using the original link and click on the “Unsubscribe” button. Alternatively, you can reply back to the SMS text message with any of the following works: “STOP”, “STOPALL”, “UNSUBSCRIBE”, “CANCEL”, “END”, “QUIT”.
+
 By using the Service or by providing us with Personal Information, you are consenting to this Privacy Policy and to our use of your Personal Information in accordance with this Privacy Policy. If you provide Personal Information to us through the Service, you acknowledge and agree that your Personal Information is stored on servers hosted in the United States of America and/or in other third countries. Your Personal Information is subject to the laws of the countries in which it is stored and used, and the privacy legislation of these countries may differ from those applicable to your country of residence. Under the applicable laws, the courts, organizations responsible for applying the legislation, regulatory agencies or safety authorities may under some circumstances be authorized to access your Personal Information. By giving us your Personal Information, you agree to allow it to be transferred to the United States of America, and third countries, and you acknowledge and agree that the country in which your Personal Information is stored and process may have a different legal regime for protecting Personal Information than that of your country of residence.
 
 ## HOW DO YOU USE THE DATA THAT IS COLLECTED FROM OR ABOUT ME
@@ -94,7 +98,7 @@ The Personal Information we receive allows us to enable your use of our Service,
 
   * Customize your communications and shopping experience. 
   * Process your purchase, confirm your orders and communicate to you about account information or customer service needs. 
-  * Provide you with a print catalog via postal mail. 
+  * Provide you with a direct mailing, including print catalog, via postal mail. 
   * Process your registration for MyNB and administer your participation in this program. 
   * Adapt the content and layout of our Websites and New Balance Apps tailored to your needs and so you do not have to enter information more than once. 
   * Notify you about new products and services, special offerings and other promotions. 
@@ -125,11 +129,21 @@ From time to time, we may make available certain Personal Information to New Bal
 
 ### Cooperative Databases:
 
-In connection with the distribution of our print catalogs and other marketing materials, we participate in cooperative data sharing databases. The participants of these databases provide customer names, mailing addresses and information about their customers' purchasing history to the database vendor which allows the database participants to segment and/or obtain access to potentially interested parties to which they may wish to target their own promotions. If you prefer not to have your name, email address and mailing address released to these cooperative databases, please let us know by sending an e-mail to CustomerCare@newbalance.com. 
+In connection with the distribution of our print catalogs and other marketing materials, we participate in cooperative data sharing databases. The participants of these databases provide customer names, email addresses, mailing addresses and information about their customers' purchasing history to the database vendor which allows the database participants to segment and/or obtain access to potentially interested parties to which they may wish to target their own promotions. If you prefer not to have your name, email address, mailing address and information about your purchasing history released to these cooperative databases, please let us know by sending an e-mail to CustomerCare@newbalance.com. 
 
 ### Targeted Product Recommendations and Other Communications:
 
-We use third-party companies to help serve targeted product recommendations and other communications. To enable these companies to provide you with targeted recommendations and other communications, we may provide these companies with certain Personal Information about you, such as your name, address and email address, as well as your transaction history. These companies may use data about you in order to provide recommendations for products and services that might be of interest to you. If you wish to opt-out of this program, please let us know by sending an e-mail to CustomerCare@newbalance.com. 
+We use third-party companies to help serve targeted product recommendations and other communications. Specifically, by using the Service these third-party companies: 
+
+  * may collect certain information about you, including your name, address and email address, as well as your transaction history, in order to serve advertisements or provide other advertising services to you, including email, display media and direct mail; 
+  * may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, mobile advertising identifiers, New Balance App usage and/or location data through the New Balance App) in order to provide advertisements about goods and services likely to be of greater interest to you; and/or
+  * may use non-cookie technologies to recognize your computer or device and/or to collect and record information about your web surfing activity (and to keep track of which user identities match to which devices or browsers). Please keep in mind that your web browser may not permit you to block the use of these non-cookie technologies, and those browser settings that block cookies may have no effect on such techniques. 
+
+
+
+When we generate such advertisements, data collected from you through online cookies and other technologies may be combined with other de-identified data (such as a hashed, non-readable email or postal address) in order to tailor ads to you based on your preferences and other information about you.
+
+If you wish to opt-out of this program, you may do so at [http://optout.networkadvertising.org](http://optout.networkadvertising.org/) (Network Advertising Initiative) and <http://optout.aboutads.info/> (Digital Advertising Alliance), or you may let us know by sending an e-mail to [CustomerCare@newbalance.com](mailto:customercare@newbalance.com). Please note that if you choose to opt out of interest-based advertising, you may continue to see ads on the Service and other sites, but they will not be based on how you browse or shop at New Balance. Further, to successfully opt-out, you must have cookies enabled in your web browser; once you successfully opt-out, if you delete your browser’s saved cookies, you will need to opt-out again.
 
 ### Distributors and Other Third Parties Involved in The Girls Night Out Program:
 
@@ -198,7 +212,7 @@ At times, we may provide links from our Website and New Balance Apps to other we
 
 If for any reason you would like to stop receiving any emails sent by New Balance that notify you of upcoming events, promotions, sales, new products or contain other commercial communications, simply click the unsubscribe link provided at the bottom of every email and every page of our Website. This will direct you to an unsubscribe page where you can remove your name from either the email or New Balance direct mail sign-up. By registering for MyNB, you are indicating your consent to receive commercial emails about MyNB. However, you can elect to opt-out of receiving these emails at any time by clicking on the unsubscribe link that is included on each commercial email about MyNB. 
 
-To opt-out of SMS Text messages you will need to use your mobile device. Simply text "STOP" to 746762 or send a request to CustomerCare@newbalance.com. 
+To opt-out of SMS Text messages you will need to use your mobile device. Simply text "STOP" to 746762 or send a request to CustomerCare@newbalance.com. To opt-out of SMS Text messages from our order tracking service provider Narvar Inc., see the instructions above under the section “Personal Information” and subsection “Delivery Tracking.” 
 
 Please note that if you decide to opt-out of all third-party transmissions of your Personal Information, we may not be able to process your order. 
 
