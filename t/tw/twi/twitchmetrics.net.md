@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the twitchmetrics.net privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617065151id_/http%3A//www.twitchmetrics.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitchmetrics.net privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921203938id_/https%3A//www.twitchmetrics.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Twitchmetrics
+# Privacy Policy
 
 Twitchmetrics is a technology company focused on delivering knowledge through vivid, contextually-rich presentations, called Twitchmetrics Visualizations. These Twitchmetrics Visualizations put data into context for researchers, journalists and enterprise. This Privacy Policy exists to explain how this data and your information may be collected, used, and protected. This Privacy Policy may be updated by us from time to time in which case we will provide notice of material changes to this Privacy Policy by posting a notification on the Twitchmetrics website.
 
