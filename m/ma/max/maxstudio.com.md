@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxstudio.com privacy policy that was archived on 2018-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180225012326id_/https%3A//www.maxstudio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxstudio.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921162833id_/https%3A//www.maxstudio.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -70,7 +70,7 @@ Communication/Unsubscribe/Opt-Out
 **Terms of Use  
 ** Your use of our products and services, and any disputes arising from them, is subject to this Privacy Policy.
 
-For questions or concerns, please email MAX STUDIO Consumer Services/Privacy at [service@maxstudioservices.com](https://web.archive.org/web/20180225012326id_/https://www.maxstudio.com/privacy/%E2%80%9Cmailto:service@maxstudioservices.com%E2%80%9D "“service@maxstudioservices.com”") or write to us at the following address:
+For questions or concerns, please email MAX STUDIO Consumer Services/Privacy at [service@maxstudioservices.com](https://web.archive.org/web/20180921162833id_/https://www.maxstudio.com/privacy/%E2%80%9Cmailto:service@maxstudioservices.com%E2%80%9D "“service@maxstudioservices.com”") or write to us at the following address:
 
 LEON MAX, INC  
 dba MAX STUDIO  
