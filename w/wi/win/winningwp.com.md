@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winningwp.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183256id_/https%3A//winningwp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winningwp.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921160342id_/https%3A//winningwp.com/privacy-policy) for the most accurate reproduction.*
 
 # WinningWP Privacy Policy - WinningWP
 
@@ -12,17 +12,8 @@ WinningWP may occasionally change this policy by updating this page. You should 
 
 We may collect the following information:
 
-  * name and contact information, such as email address
-  * other information relevant to customer surveys and/or offers
   * non-personal information regarding how users interact with our site
-
-
-
-## What we do with the information we gather:
-
-We collect this information in order to better understand your needs, which in turn allows us to improve our content and services. We may also collect your information for any of the follow reasons:
-
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * name and contact information, such as email address if, and only if, you choose to contact us via our [contact form](https://winningwp.com/contact/).
 
 
 
@@ -32,7 +23,7 @@ We are committed to ensuring that your information is secure. In order to preven
 
 ## Sharing your information
 
-We do not sell, trade, or rent user’s personal information to others. We may share generic aggregated demographic information not linked to any personal information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the site and/or administer activities on our behalf, such as sending out newsletters or surveys.
+We do not sell, trade, or rent user’s personal information to others. We may share generic aggregated demographic information not linked to any personal information regarding visitors and users with our business partners for the purposes outlined above. We may use third party service providers to help us operate our business and the site and/or administer activities on our behalf, such as sending out email newsletters that you have specifically chosen to receive (and from which you can unsubscribe any time).
 
 ## Web-browser cookies
 
@@ -44,7 +35,7 @@ Cookies do lots of different jobs, like letting you navigate between pages effic
 
 ### Strictly necessary cookies
 
-These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies services you have asked for, like shopping baskets or e-billing, cannot be provided.
+These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website.
 
 ### Performance cookies
 
@@ -53,10 +44,6 @@ These cookies collect information about how visitors use a website, for instance
 ### Functionality cookies
 
 These cookies allow the website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. For instance, a website may be able to provide you with local weather reports or traffic news by storing in a cookie the region in which you are currently located. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customize. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites. 
-
-### Advertising cookies
-
-These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organizations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organizations.
 
 ## Links to other websites
 
@@ -70,4 +57,4 @@ By using this site, it is deemed you have agreed to these terms and conditions o
 
 If you have any questions regarding our policies, the practices of this website, or your dealings with WinningWP, please [contact us](https://winningwp.com/contact/).
 
-**_This document was last updated on January 21, 2014_**
+**_This document was last updated on May 3rd, 2018_**
