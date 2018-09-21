@@ -1,186 +1,178 @@
-> *The following text is extracted and transformed from the potguide.com privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313233952id_/https%3A//potguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the potguide.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921104017id_/https%3A//potguide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PotGuide.com
 
-This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+## PGED Corp.  
+Privacy Policy
 
-**What personal information do we collect from the people that visit our blog, website or app?**
+Date of last revision: June 14th, 2018
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address or other details to help you with your experience.
+## Who We Are?
 
-**When do we collect information?**
+The name of our company is PGED Corp., also known as PotGuide, and we’re a company located in Colorado that’s a resource for the cannabis industry. Our site consists of business directories, deals systems, events systems, strain profiles and product reviews. The site also contains booking functionality for lodging and activities.
 
-We collect information from you when you register on our site, subscribe to a newsletter, fill out a form or enter information on our site.
+## What Is This?
 
-**How do we use your information?**
+This is a privacy policy and the reason we have it is to tell you how we collect, manage, store, and use your information.
 
-  
+Just so we’re clear, whenever we say “we,” “us,” “our,” or “ourselves”, we’re talking about PGED Corp. and whenever we say “you” or “your,” we’re talking about the person or business who has decided to use our services. And since we do a lot of different stuff, when we talk about our services, we mean any of our websites or apps; or any features, products, graphics, text, images, photos, audio, video, or similar things we use.
 
+## Why Are We Showing You This?
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+We value and respect your privacy. That is why we strive to only use your information when we think that doing so improves your experience in using our services. If you feel that we could improve in this mission in any way, or if you have a complaint or concern, please let us know by sending us your feedback to the following email address: [privacy@potguide.com](mailto:privacy@potguide.com).
 
-**•** To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+Our goal is to be as transparent and open about our use of information and data as possible, so that our users can benefit from both the way they provide information and how we use it.
 
-**•** To improve our website in order to better serve you.
+This privacy policy should be read along with our Terms of Service, posted at [https://potguide.com/terms-of-service/](https://web.archive.org/terms-of-service/) That’s another big part of what we do, so please review it and follow its process for questions or concerns about what it says there.
 
-**•** To allow us to better service you in responding to your customer service requests.
+## Information Collection and Use
 
-**•** To administer a contest, promotion, survey or other site feature.
+In using the services, you may be asked to provide us a variety of information– some of which can personally identify you and some that cannot. We may collect, store, and share this personal information with third parties, but only in the ways we explain in this policy. Here’s how we do it and why we do it:
 
-**•** To send periodic emails regarding your order or other products and services.
+  1. ### Personally Identifiable Information: How we collect it.
 
-**How do we protect visitor information?**
+Personally identifiable information is data that can be used to contact or identify a single person. Examples include your name, you phone number, your email, your address, and your IP address. We collect this kind of information in the following ways:
 
-  
+    * Information you give us when you create an account with us: This information includes your name, your email address, and your password hash.
+    * Information we obtain when you join our email list: This is just your email.
+    * Information for giveaways and competitions: This is usually your name, email, and date of birth.
+    * We collect cookies to maintain session information on our sites.
+    * We use Google Analytics, and this also sets cookies. We have the demographic feature of Google Analytics active.
+    * We use the Google Maps API, please reference the [Google Privacy Policy.](https://www.google.com/policies/privacy)
+  2. ### Personally Identifiable Information: How we use it.
 
+PGED Corp. uses your information in the following ways:
 
-Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
+    * Our email list allows us to contact you by email.
+    * Your account information is used to assist with user login functionality to leave reviews, “like” deals, and to view your travel itinerary.
+    * The giveaway information is used to enroll you in contests and promotions, and to select and notify winners.
+    * All of the information we receive is used to tailor our services to your needs and the way you use our services.
+    * We collect cookies to maintain session information on our sites.
+    * We use Google Analytics, and this also sets cookies. We have the demographic feature of Google Analytics active.
+  3. ### Who We Share Your Information With and Why
 
-We use regular Malware Scanning.
+PGED Corp. only shares your information with third parties in the following ways and for the following purposes:
 
-Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
+    1. We will share any information provided for activity and lodging bookings with our software as a service providers to facilitate those bookings and to complete the transactions.
+    2. We share your giveaway information with contest sponsors to assist with their promotions and as an incentive for the contests sponsors to give contests.
+    3. We share your information with Hubspot to help us better segment/target our user base with quality content.
+    4. We will share all collected information to the extent necessary and as required by law or to comply with any legal obligations, including defense of our company.
+  4. ### Information We Get From Other Places
 
-We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.
+We also receive information from other sources, such as Expedia, FareHarbor, Peek, and Checkfront. For Expedia bookings, we collect your first/last name, address, email, phone, and credit-card information. From FareHarbor, Peek, and Checkfront, we also receive your names, addresses, email, phone, and credit-card information. We do not store information specific to your credit card (that is, your credit card number, date, or security code), or your activity data as it pertains to those platforms. We store information from Expedia bookings for 3 years.
 
-All transactions are processed through a gateway provider and are not stored or processed on our servers.
+We also receive information from Google Analytics, Facebook log in, and your Google log in.
 
-**Do we use 'cookies'?**
+We receive all of this information consistent with those companies’ privacy policies. For information about their privacy policies, please visit those sites.
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+  5. ### Your Choices in What Information You Share
 
-**•** Help remember and process the items in the shopping cart.
+We do not require you to provide any personal data to visit the site, including to view our directories, deals system, blog content, etc. Our process for collecting information begins when you create an account, sign up for a promotion, or register for an activity. We will request your consent to use your data at that time. We will not use your data for more than the purpose for which it was collected.
 
-**•** Understand and save user's preferences for future visits.
+  6. ### Non-Personally Identifiable Information
 
-**•** Keep track of advertisements.
+Non-personally identifiable information includes general details about your device and connection (including the type of computer/mobile device, operating system, web-browser or other software, language preference, and hardware); general information from the app store or referring website; the date and time of visit or use; and, internet content provider information. We may collect your non-personally identifying information when you visit our site by accessing Google Analytics, through software that collects and stores this information or other means.
 
-**•** Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
+  7. ### How Long We Keep Your Information
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
+Unless otherwise specified, we will retain your Personally identifiable information for as long as you use our services, or until you request in writing that we delete or otherwise remove your Personally identifiable information.
 
-If you disable cookies off, some features will be disabled It won't affect the users experience that make your site experience more efficient and some of our services will not function properly.
+Google Analytics information is stored for 38 months then deleted.
 
-However, you can still place orders .
+Expedia Lodgings information is stored for 3 years then deleted.
 
-**Third Party Disclosure**
+Furthermore, when we process information, we retain a record, to the extent reasonably possible, of the following information: the processor, purpose of the processing, categories of individuals and data involved, nature of disclosure, if there is a transfer of information over national boundaries, the length of time the information will be held before erasure, and the security measures involved.
 
-  
+  8. ### Where We Keep and Transfer Your Information
 
+Our business is operated in the United States and third parties with whom we share your information are as well. Our servers are located here and this is where your data and information will be stored.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. 
+Please be aware if you are a citizen of another country, and if you live in Europe in particular, that your information will be transferred out of your home country and into the United States. The United States might not have the same level of data protection as your country provides.
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+Based outside of the EU, we do not focus our business in the EU. We do not directly solicit privacy data from those located in the EU, but to the extent that we occasionally process personal data from individuals in the EU, we do not do so in a way that is targeted to reveal race; ethnicity; political, religious, or philosophical beliefs; trade union memberships; health; sexual activity; or, sexual orientation.
 
-**Third party links**
+If you would like more information about this, please email us at [privacy@potguide.com](mailto:privacy@potguide.com).
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+  9. ### EU Rights to Information
 
-**Google**
+According to the laws of the European Union (except for limited exceptions, where applicable), anyone in those countries has the right to:
 
-  
+    * Be informed about their data and its processing
+    * Have access to their data
+    * Correct any errors in their data
+    * Erase data from our records
+    * Restrict processing and use of data
+    * Data portability
+    * Object to the use of their data, including for the purpose of automated profiling and direct marketing
+    * Make decisions about automated decision making and profiling
 
+PGED Corp. respects each of these rights for all of its users, regardless of citizenship. If you have any questions or concerns about any of these rights, or if you would like to assert any of these rights at any time, please contact [privacy@potguide.com](mailto:privacy@potguide.com). Before we use your information in any way not authorized in this privacy policy, we will contact you to request your informed consent.
 
-Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
 
-We use Google AdSense Advertising on our website.
 
-Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-We utilize the Google Maps API, please reference the [Google Privacy Policy.](https://www.google.com/policies/privacy)
+## Protecting Your Information
 
-**We have implemented the following:**
+  1. ### Keeping it Safe
 
-**•** Demographics and Interests Reporting
+PGED Corp. makes reasonable and commercially feasible efforts to keep your information safe. Though we are a small business, we have appropriate security measures in place to prevent your information from being accidentally lost, used, or accessed in an unauthorized way. We restrict access to your personal information to those who need to know it, are subject to contractual confidentiality obligations, and may be disciplined or terminated if they fail to meet these obligations. Those processing your information will do so only in an authorized manner and are subject to a duty of confidentiality.
 
-We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
+We also:
 
-Opting out:  
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+    * Encrypt many of our services using SSL
+    * We are PCI compliant
+    * We do monthly PCI scans
+    * We do server patches every 30 days
+    * We regularly review our processes to consider if there are any additional improvements we can make to our systems.
 
-**California Online Privacy Protection Act**
+That said, no organization or business can guarantee 100% data protection. With that in mind, we also have procedures in place to deal with any suspected data security breach. We will inform both you and any applicable authorities of a suspected data security breach, as and when required by law.
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+  2. ### Links to Other Websites
 
-**According to CalOPPA we agree to the following:**
+Our site has links to the sites, content, and services of other businesses, suppliers, advertisers, sponsors, and other third parties. Any products or services found through a link to any of these other sites are subject to separate privacy policies. PGED Corp. is not liable for any content provided or actions taken by such third parties.
 
-Users can visit our site anonymously
+  3. ### Posting Content to Our Site or Social Media
 
-Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
+Any content you post on this site or others, including through social media links, is likely to become publicly available and may not be fully revocable or erasable by PGED Corp., because it will have become available to third parties. You can always ask us to delete information in our possession, but we cannot force anyone else to erase your information. Please be aware that you publish such information at your own risk.
 
-Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above.
+  4. ### Do Not Track Signals
 
-Users will be notified of any privacy policy changes:
+Some technologies, such as web browsers or mobile devices, provide a setting that when turned on sends a Do Not Track (DNT) signal when browsing a website or app. There is currently no common standard for responding to DNT Signals or even in the DNT signal itself. We currently do not have any technology implemented to process DNT Signals.
 
-**•** On our Privacy Policy Page
+  5. ### Use by Minors Expressly Prohibited
 
-Users are able to change their personal information:
+This website, its content, and our services are not intended for anyone under the age of 21. PGED Corp. does not knowingly collect information from those under the age of 21. PGED Corp. learns it has accidentally collected such information, it will be deleted.
 
-**•** By logging in to their account
+  6. ### Compliance with Regulators
 
-**How does our site handle do not track signals?**
+We regularly review our privacy policy to do our best to ensure it complies with any applicable laws. Ours is a small business, but when we receive formal written complaints, we will contact the person who made the complaint to follow up as soon as practicable. We will work with relevant regulatory authorities to resolve any complaints or concerns that we cannot resolve with our users directly.
 
-We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+You also have the right to file a complaint with the supervisory authority of your home country, where available, relating to the processing of any personal data you feel may have violated local regulations.
 
-**Does our site allow third party behavioral tracking?**
 
-It's also important to note that we allow third party behavioral tracking
 
-**COPPA (Children Online Privacy Protection Act)**
 
-  
+## General Information for Your Further Understanding
 
+  1. ### No Unsolicited Personal Information Requests
 
-When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
+We will never ask you for your personal information in an unsolicited letter, call, or email. If you contact us, we will only use your personal information if necessary to fulfill your request.
 
-We do not market to children of any age.
+  2. ### Changes
 
-**Fair Information Practices**
+Our business and the services we provide are constantly evolving. We may change our privacy policy at any time. If we change our policy, we will affirmatively request that you consent to the new policy or email you for consent at that time. We will not reduce your rights under this policy without your consent.
 
-  
+  3. ### Security
 
+The security of our services is important to us. We use reasonable efforts to secure any information you provide to our systems. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, we cannot guarantee your security. As with disclosure of any information electronically, there is a risk that any information you disclose by use of the services could be collected or used by others. This could result in unsolicited messages from third parties or use of such information by third parties for their own purposes, legal or illegal. You hereby waive any claims against us and agree not to hold us liable for the theft or misuse of personal information.
 
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+  4. ### Complaints
 
-**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+PGED Corp. respects the rights of all of its users, regardless of location or citizenship. If you have any questions or concerns about any of these rights, or if you would like to assert any of these rights at any time, please contact [privacy@potguide.com](mailto:privacy@potguide.com).
 
-We will notify the users via in site notification
+  5. ### Questions about Policy
 
-**•** Within 7 business days
+If you have any questions about this privacy policy, contact us at: [privacy@potguide.com](mailto:privacy@potguide.com). By accessing any of our services or content, you are affirming that you understand and agree with the terms of our Privacy Policy.
 
-We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
 
-**CAN SPAM Act**
 
-  
-
-
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
-
-**We collect your email address in order to:**
-
-**•** Send information, respond to inquiries, and/or other requests or questions.
-
-**•** Market to our mailing list or continue to send emails to our clients after the original transaction has occurred
-
-**To be in accordance with CANSPAM we agree to the following:**
-
-**•** NOT use false, or misleading subjects or email addresses
-
-**•** Identify the message as an advertisement in some reasonable way
-
-**•** Include the physical address of our business or site headquarters
-
-**•** Monitor third party email marketing services for compliance, if one is used.
-
-**•** Honor opt-out/unsubscribe requests quickly
-
-**•** Allow users to unsubscribe by using the link at the bottom of each email
-
-**  
-If at any time you would like to unsubscribe from receiving future emails, you can email us at**
-
-**•** Follow the instructions at the bottom of each email.
-
-and we will promptly remove you from **ALL** correspondence.
-
-PGED Corp.
