@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fifauteam.com privacy policy that was archived on 2017-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170721105755id_/https%3A//www.fifauteam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fifauteam.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921104021id_/https%3A//www.fifauteam.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of FIFA U Team Website
 
@@ -6,13 +6,13 @@ Your privacy on this site is very important to us. The information collected is 
 
 There are three types of personal information that we receive and store when a user visits our website: Records, Cookies and Registration Data.
 
-  * **Records**
+  *  **Records**
 
 
 
 Like most websites, we collect and use information contained in records: your IP address, the browser you used, your ISP, the pages visited and length of visit on each page.
 
-  * **Cookies**
+  *  **Cookies**
 
 
 
@@ -22,11 +22,11 @@ During your visit to our site, you may watch advertisements provided by third-pa
 
 Google is one of the providers of advertising content. This company uses the DART cookie in order to display ads to users based on their visit to this or another site on the Internet. To disable this cookie, please read the Privacy Policy of Google ads.
 
-  * **Registration Data  
+  *  **Registration Data  
 **
 
 
 
 This website has a comment section that requires the introduction of a name and email address. Only the name is shared with everyone. The email address is not published.
 
-If you believe that your privacy is not protected by our privacy policy, please [contact us](http://www.fifauteam.com/contacts/ "Contact Us").
+If you believe that your privacy is not protected by our privacy policy, please [contact us](https://www.fifauteam.com/contacts/ "Contact Us").
