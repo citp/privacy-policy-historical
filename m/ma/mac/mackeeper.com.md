@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mackeeper.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703122725id_/https%3A//mackeeper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mackeeper.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921024748id_/https%3A//mackeeper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MacKeeper™
 
@@ -18,7 +18,7 @@ This information is:
 
   * Contact details (such as email address);
 
-  * Billing information (such as credit card number and its expiry date);
+  * Communication with MacKeeper support (via emails, chats or calls).
 
 
 
@@ -33,6 +33,8 @@ Information Provided by You will be used only for:
 
   * Emails informing about news, updates etc.
 
+  * Providing customer support and responding to customer requests.
+
 
 
 
@@ -42,11 +44,11 @@ User information is not complemented by information from other sources.
 
 Once you purchase our software, the information collected by our software is linked to your personal information and can be used to handle any technical, product, or customer support requests that you may send to us.
 
-The user is able to correct material inaccuracies in Personally Identifiable Information, such as account or contact information, in their Kromtech account.
-
 #### Information Collected Automatically
 
 In addition to information you enter yourself, we may collect some information automatically for optimizing your experience when using our product and improving the product itself, including but not limited to:
+
+  * Device information;
 
   * User configuration information;
 
@@ -58,8 +60,6 @@ In addition to information you enter yourself, we may collect some information a
 
 
 
-
-During registration of a Kromtech account we will also collect such information as name, email and phone number.
 
 This data is used for the following purposes:
 
@@ -74,11 +74,11 @@ This data is used for the following purposes:
 
 
 
-#### Information Collected Automatically
+#### Collecting Information from Children
 
-Company’s website or services are not directed to children. We may not knowingly collect any personally identifiable information from children under 13 years of age.
+Company’s website or services are not directed to children. We may not knowingly collect any personally identifiable information from children under 16 years of age.
 
-If you are under 13 years of age, then please do not use or access our product and services at any time or in any manner. Company reserves the right to delete this information if it learns that Personally Identifiable Information of children under the age of 13 has been collected on the services without parental consent. If you are a parent or guardian and discover that your child under the age of 13 has obtained an account on our services, then you may contact our Customer Support at [support@mackeeper.com](mailto:support@mackeeper.com) and request to delete that child’s personal information.
+If you are under 16 years of age, then please do not use or access our product and services at any time or in any manner. Company reserves the right to delete this information if it learns that Personally Identifiable Information of children under the age of 16 has been collected on the services without parental consent. If you are a parent or guardian and discover that your child under the age of 16 has obtained an account on our services, then you may contact our Customer Support at [support@kromtech.net](mailto:support@kromtech.net) and request to delete that child’s personal information.
 
 Information collected via MacKeeper™:
 
@@ -106,13 +106,13 @@ Collected information is used for:
 
 
 
-In case if you want to delete your Kromtech account please contact our Customer Support.
+In case if you want to delete your Kromtech account please contact our [Customer Support](mailto:support@kromtech.net).
 
-#### "Camera Tracker" and "Microphone Tracker"
+#### "Camera Tracking" and "Microphone Tracking"
 
-The Camera and Microphone Tracker features are designed to detect the usage of camera and microphone (both built-in and external) by other applications on your device. These features will help you detect unauthorized intrusion into your private life by unknown applications.
+The Camera and Microphone Tracking feature is designed to detect the usage of camera and microphone (both built-in and external) by other applications on your device. This feature will help you detect unauthorized intrusion into your private life by unknown applications.
 
-After you activate these features, they will notify you if some application starts using your camera and/or microphone. You can allow your camera and microphone to be always used by applications that you believe are safe, so no notifications will be shown next time for these apps.
+When you activate this feature, it will notify you that some application started to use your camera and/or microphone. You can allow your camera and microphone to be always used by applications that you believe are safe, so no notifications will be shown next time for these apps.
 
 MacKeeper does not track and/or save any audio or video recordings, but it indicates the moment when the camera and/or microphone becomes activated by any application that is installed on your device.
 
@@ -120,7 +120,7 @@ MacKeeper does not track and/or save any audio or video recordings, but it indic
 
 Anti-Theft is one of security features of MacKeeper™. By default Anti-Theft is disabled. In case you enable Anti-Theft service it will automatically collect your computer's IP address and its geographical position every hour.
 
-You can report your computer STOLEN or LOST on your [Kromtech account](http://account.mackeeper.com/), in open Anti-Theft tab. Then it will collect IP address, track location, trace-route and make snapshots using the built-in iSight camera or any external camera every five minutes.
+You can report your computer STOLEN or LOST on your [MacKeeper](http://account.mackeeper.com/) account, in open Anti-Theft tab. Then it will collect IP address, track location, trace-route and make snapshots using the built-in iSight camera or any external camera every five minutes.
 
 Automatically gathered data collected by the Anti-Theft service is completely anonymous. Therefore even if it is revealed to some third parties, this won’t affect your privacy.
 
@@ -132,10 +132,12 @@ MacKeeper™ Internet Security feature is powered by Avira’s antivirus engine.
 
 Occasionally you will receive customer satisfaction surveys via email where you will be asked to provide us with your opinion and some additional personal information. It will be used solely by us for our internal usage to improve our products and services, overall, making your user experience better.
 
-#### Information Provided by Third Parties:
+#### Information that is Collected and Provided by Third Parties:
 
-We can use your personal information such as email address provided by third parties (e.g. cleverbridge) for our promotional activities such as notifying you about product updates and special offers according to cleverbridge [Privacy Policy](https://www.cleverbridge.com/corporate/privacy-policy/). If you don’t agree with this, please don’t proceed the purchase of our product.
+Some of your Personal Information, such as your name, email address and other information (like the type of subscription you bought, it's price, etc.; please note that we don't collect information about your credit card number or other sensitive data), may be collected and provided to us by third parties, such as [cleverbridge©](https://www.cleverbridge.com/corporate/). We will use your personal information collected in this way only in accordance with this Privacy Policy and cleverbridge© [Privacy Policy](https://www.cleverbridge.com/corporate/privacy-policy/).
+
+We recommend you to overview cleverbridge© [Privacy Policy](https://www.cleverbridge.com/corporate/privacy-policy/) to make sure that you agree to all conditions; otherwise, do not purchase or use our service.
 
 #### Data Retention
 
-We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. In the event you terminate relationship with Kromtech, we will still retain your information in our databases. If you wish to cancel your account or request that we no longer use your information to provide you services contact our Customer Support at [support@mackeeper.com](mailto:support@mackeeper.com).
+We will retain your information for as long as your account is active or as needed to provide you services. In the event you terminate relationship with Kromtech, we may retain information needed to resolve disputes, enforce our user agreement, protect our legal rights, and comply with technical and legal requirements and constraints related to the security, integrity and operation of MacKeeper. Otherwise, we will retain your personal information for as long as reasonably necessary to provide you services, create and improve MacKeeper, comply with the law, and to run our business. If you wish to cancel your account or request that we no longer use your information to provide you services contact our Customer Support at [support@kromtech.net](mailto:support@kromtech.net).
