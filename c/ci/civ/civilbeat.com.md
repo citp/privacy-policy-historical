@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the civilbeat.com privacy policy that was archived on 2017-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171029162000id_/http%3A//www.civilbeat.org/civil-beat-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the civilbeat.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921045753id_/https%3A//www.civilbeat.org/civil-beat-privacy-policy) for the most accurate reproduction.*
 
 # Civil Beat Privacy Policy - Honolulu Civil Beat
 
@@ -15,10 +15,6 @@ Information We Collect Upon Membership Registration.When you donate to us or au
 PayPal Password. Please note that we do not collect or have access to your PayPal password. Your PayPal password is between PayPal and you., We use PayPal to authenticate you but that authentication is done though PayPal’s website and servers. We will not ask you to share your PayPal password with us.
 
 Optional Information. You may have the opportunity to provide us with additional, optional information about yourself. You may choose to do this because it enhances the Civil Beat experience for you and/or other Civil Beat users. This may include a URL of your choosing, or some free-form text that you might want to include about yourself.
-
-### Commenting
-
-We also give anyone the ability to participate in discussions on the website through our commenting system Civil Comments. While we hope that you will consider being a constructive participant in these discussions, whether you decide to participate is entirely up to you. When you provide us this information, you agree and understand that this information may be made public to the entire world and that it is not entitled to the protections in this privacy policy. Optional information may also be combined with information from other users or third-parties. Other users may rate or comment about your optional information, and/or your information may be combined with Civil Beat content. If this isn’t agreeable to you, then please do not provide this optional information to us. We can’t control what the entire world does with this optional information and are not responsible for whatever happens to this optional information.
 
 Log Data. We may record some or all of the information your browser sends to our servers. This may include information such as your IP address, the domain you are visiting from, your browser type, the third party website from which your visit originated, the operating system you are using, the pages you visit on our website, and/or terms you may have searched for. We use this information to monitor and improve the technical performance of our website and to improve the overall Civil Beat service.
 
