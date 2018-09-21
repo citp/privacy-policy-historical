@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shawdirect.ca privacy policy that was archived on 2018-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180119233121id_/http%3A//assets.aws.shawdirect.ca/uploadedfiles/privacypolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shawdirect.ca privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921131413id_/https%3A//assets.aws.shawdirect.ca/uploadedfiles/privacypolicy.pdf) for the most accurate reproduction.*
 
 # 
 
