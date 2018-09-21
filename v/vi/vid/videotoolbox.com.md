@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videotoolbox.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614022107id_/http%3A//videotoolbox.com/videotoolbox%2520privacy%2520policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videotoolbox.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921125834id_/http%3A//www.videotoolbox.com/videotoolbox%2520privacy%2520policy.pdf) for the most accurate reproduction.*
 
 # Privacy Notice
 
