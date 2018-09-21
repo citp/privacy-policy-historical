@@ -1,153 +1,69 @@
-> *The following text is extracted and transformed from the technewstoday.com privacy policy that was archived on 2017-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170124020553id_/http%3A//www.technewstoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technewstoday.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921075016id_/https%3A//www.technewstoday.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy
 
-TechNewsToday places a high value on the privacy of its users. This Privacy Policy (“PP”) sets out the
+## Who we are
 
-types of information that we may collect from users of www.technewstoday.com (the “Website”) and
+Our website address is: http://www.technewstoday.com.
 
-the purposes for which we may use such information. The PP and the Terms of Use (“TOU”) constitute a
+## What personal data we collect and why we collect it
 
-legally binding agreement between you and TechNewsToday. If you do not agree to any part of the PP
+### Comments
 
-and/or TOU, you must not use the website. The PP may be modified from time to time and you are
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-advised to check this page regularly.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-**INFORMATION THAT MAY BE COLLECTED**
+### Media
 
-In addition to the other types of UGC that TechNewsToday may collect from you and that may be used
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-by it according to the licenses set forth in the TOU, TechNewsToday may collect personally-identifiable
+### Contact forms
 
-information (called “personal information” in this PP) submitted to TechNewsToday, including (but not
+### Cookies
 
-limited to) information submitted when registering an account with us or filling out other forms.
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-This “personal information” may include (but not be limited to) your:
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-Name
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
-Gender
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
-Date of birth
+### Embedded content from other websites
 
-Occupation
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
-Income range
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
 
-Home and/or work address
+### Analytics
 
-Email address
+## Who we share your data with
 
-Telephone Numbers
+## How long we retain your data
 
-TechNewsToday may also periodically collect log files, including IP addresses, from our server. These
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
 
-files give a general picture of who is visiting the Website and which pages are being viewed most often.
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
 
-This information is collected to assist us in the maintenance and administration of the Website. Log files
+## What rights you have over your data
 
-are collected mainly for research purposes to see what pages are of most interest and use to current
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
-and potential clients as well as to gather demographic, geographic and economic trends.
+## Where we send your data
 
-TechNewsToday reserves the right to make changes to this policy's description of log files use at any
+Visitor comments may be checked through an automated spam detection service.
 
-time.
+## Your contact information
 
-**USE OF PERSONAL INFORMATION**
+## Additional information
 
-You hereby agree that TechNewsToday may use your personal information for the following purposes:
+### How we protect your data
 
-Administering the Website
+### What data breach procedures we have in place
 
-Personalizing the Website for you
+### What third parties we receive data from
 
-Sending you marketing communications, including on behalf of third party advertisers, provided such
+### What automated decision making and/or profiling we do with user data
 
-advertisers will not be provided access to your personally-identifiable information
-
-Sending you other electronic communications
-
-Enabling your access and use of the Website
-
-Monitoring compliance with the TOU
-
-Allowing you to use interactive features of the Website
-
-**SECURITY**
-
-TechNewsToday will exercise reasonable care, including taking technical and organisational precautions,
-
-in order to protect your personal data from unauthorized access or use. Your personal information will
-
-only be stored on secure servers owned, controlled or contracted for by TechNewsToday. If
-
-TechNewsToday contracts out its data hosting to a third party, we will endeavor to ensure that party has
-
-agreed to comply with our privacy standards as described in this PP.
-
-Despite TechNewsToday obligations to make reasonable efforts to protect personal information as set
-
-forth above, TechNewsToday cannot provide perfect security, and will not be responsible or liable for
-
-damage, pecuniary or otherwise, caused by a third party’s unauthorized access to or use of your
-
-personal information. Further, TechNewsToday shall not be responsible for maintaining or storing your
-
-personal information or other UGC for any particular period of time.
-
-**DATA TRANSFER**
-
-Your personal information may be transferred internationally between the countries in which
-
-TechNewsToday maintains a presence in order to enable the use of your data as specified in the PP.
-
-**CHILD PRIVACY**
-
-TechNewsToday considers the privacy of children to be especially important and prohibits children
-
-under the age of 16 from sending their personal information over the internet without their
-
-parent/guardian’s permission.
-
-**THIRD PARTY SITES**
-
-The Website may contain links to third party sites. TechNewsToday is not responsible for the practices of
-
-third parties and encourages users to read their privacy policies before using their websites.
-
-**DISCLOSURE TO THIRD PARTIES**
-
-We do not share any of the personal information you provide to us with any third party other than
-
-service providers of ours who assist us in providing the information and/or services we are providing to
-
-you. To the extent that we do share your personal information with a service provider, we will endeavor
-
-to ensure that party has agreed to comply with our privacy standards as described in this PP.
-
-**OTHER PERSONS’ PERSONAL INFORMATION**
-
-In using the Website, you may acquire access to others’ personal information, such as names and
-
-addresses. Your use of the Website constitutes your agreement to respect others’ privacy with respect
-
-to personal information. You may not, under any circumstances, release others’ personal information to
-
-third parties, including your employees who have no need for the information, without the written
-
-consent of both TechNewsToday and the person or persons whose personal information you intend to
-
-forward. You may not, under any circumstances, use personal information obtained from the Website to
-
-send unsolicited email, facsimile transmissions, or spam, even if the person to whom you intend to send
-
-unsolicited email or spam has communicated with you in the past. You agree to immediately notify
-
-TechNewsToday of any release or breach of any third party’s personal information (including name,
-
-address, phone numbers, email addresses, account numbers, investment histories, or social security
-
-number) that occurs as a result of use of the Website under your user name.
+### Industry regulatory disclosure requirements
