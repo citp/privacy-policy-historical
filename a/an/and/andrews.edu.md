@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andrews.edu privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928074139id_/https%3A//www.andrews.edu/services/its/web-privacy-and-security-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andrews.edu privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921105601id_/https%3A//www.andrews.edu/services/its/web-privacy-and-security-statement.html) for the most accurate reproduction.*
 
 # Web Privacy and Security Statement :: Andrews University
 
