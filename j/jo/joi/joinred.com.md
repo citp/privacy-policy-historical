@@ -1,37 +1,83 @@
-> *The following text is extracted and transformed from the joinred.com privacy policy that was archived on 2018-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180329093101id_/https%3A//www.red.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joinred.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921084207id_/https%3A//www.red.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - (RED)
+# Privacy Policy — (RED)
 
-**Privacy Policy**
+## **Introduction**
 
-www.red.org (the “Site”) is owned by (RED), a division of the ONE Campaign (“us”, “we”, “our” or “(RED)”). (RED) has legal obligations towards you in the way we deal with Personal Information (as defined below) that we collect from you. This Privacy Policy does not apply to other Sites which may be accessible through our Site and does not apply to practices of persons or entities that (RED) does not control, manage or employ. The Site contains  links to other Sites that are operated by third parties, including but not limited to third party Sites that may display (RED)’s trademarks and logos. We encourage you to read the privacy policies on those other Sites. Whenever we make a material change to this Privacy Policy, we will post such change on the Site, and any such change will be effective immediately upon posting. Please check this Privacy Policy regularly to keep up-to-date with any changes.
+We are committed to protecting the privacy and security of key stakeholders, business partners, influencers, and any other business contact. You are reading this because you received information from an employee at (RED).  This Privacy Policy (the “Policy”) is designed to inform you about our obligations to you. Please note, this Policy is meant to cover: key stakeholders, business partners, influencers, and any other contacts any employee at (RED) has and continues to maintain. If you have questions about this Policy, or if you would like to exercise any rights that you may have in relation to your personal data,[ ](https://www.one.org/contact/)please [contact us](mailto:hello@red.org).
 
-**Scope of Privacy Policy**
+(RED) is a division of The ONE Campaign, a nonprofit, public charity, organized according to Section 501(c)(3) of the US Internal Revenue Code (“IRC”). ONE is made up of the following separate entities:
 
-This Privacy Policy applies to any Personal Information that we receive from you e.g. through subscription and sales on this Site, and subsequently process e.g. through (RED) email alerts. It sets out the basis on which any Personal Information we receive will be collected, shared, and used by us.  “Personal Information” means any data that can be used to identify you as a particular individual, such as your name, postal address, e-mail address, telephone number, and credit card or debit card number.  This Privacy Policy also applies to information we collect through technology, such as your Internet Protocol (IP) address, cookies, browser type, date/time stamp, location, pages viSited and stored passwords, if any. A “cookie” is a small data file that our server sends to your browser when you visit the Site. The use of cookies helps us to assist your use of certain aspects of the Site. We may use information from cookies for the following purposes: Traffic monitoring the IP address from which you access the Site, the type of browser and operating system used to access the Site, the date and time of your access to the Site, the pages you visit the Internet address of the Site from which you accessed the Site, to recognize repeat visitors for statistical / analytical purposes. You can remove or block cookies using the settings in your browser, but that may impact your ability to use the Site. The Site may contain links for your benefit to third party Sites operated by our partners, by manufacturers and other third parties. If you click on such a link you will no longer be on our Site. You must read the privacy policy of the third party to see how your personal information will be handled on that Site. We are not responsible for the privacy policies or practices, content, or security of any third party Site.
+  * Canada: ONE Global (Canada);
 
-Access to certain portions of this Site is restricted to people of legal drinking age, including access to all advertising and marketing information on this Site relating to alcohol. Date of birth affirmation is required at the entrance to those portions of the Site and age affirmation prompts may also be located elsewhere on the Site. If someone under the legal drinking age has provided us with personal information by obtaining access in violation of the Site access restrictions, (RED) asks that the parent or guardian of that person contact us at the e-mail address at the bottom of this Privacy Policy and request removal of the information from our records. Upon receiving such a request, we will promptly remove such information from our records.
+  * Nigeria: ONE Campaign Nigeria LTD/ GTE
 
-**Disclosure and Sharing of Information**
+  * South Africa: ONE Campaign Africa NPC.
 
-We reserve the right to implement programs with partners and other Sites in order to improve the service we offer. As part of these programs, these third parties may share information with us. For example, when you click on information in relation to one of our partners, we may ask partners to tell us how you responded to the information we showed. We may also provide information to service providers that help us serve you better. This may include, but is not limited to, the use of third parties to help host our Site, send out email updates, remove repetitive information from our user lists, process payments and fulfill orders for merchandise, fraud prevention, or provide search results or links (including sponsored links). These service providers may have access to your Personal Information for use for a limited time, but we will implement appropriate contractual and technical protections to limit their use of that information to helping us provide the service.
+  * United Kingdom: ONE Against Poverty (UK), registered with the Charity Commission under number 1170855.
 
-Also, we must reserve the right to use or disclose any information as needed to satisfy any law. (RED) may disclose your Personal Information as is necessary to: (a) comply with a subpoena, court order or other requests (including civil and criminal matters); (b) cooperate with law enforcement or other government agencies; (c) establish or exercise our legal rights; (d) protect the property or safety of our company and employees; (e) defend against legal claims; (f) help with internal and external investigations; or (g) as otherwise required or permitted by law. This may include responding to requests from jurisdictions outside of the United States and the United Kingdom if there is a good faith belief that such response is required by law under the local laws in that jurisdiction and is consistent with generally accepted international standards. In the event of a sale, merger, consolidation, change in control, transfer of substantial assets, reorganization or liquidation, we may transfer, sell, or assign to third parties information concerning your relationship with us, including without limitation, Personal Information that you provide and other information concerning your relationship with us.
+  * US: In addition to The ONE Campaign, ONE also operates ONE Action, a nonprofit, social welfare organization organized according to Section 501(c)(4) of the IRC.
 
-**Data Export**
 
-(RED) is the data controller of your Personal Information. (RED) is a division of the ONE Campaign, and its principal place of business is 49 W 27th Street 3rd Floor, New York, New York 10001, United States. By agreeing to this Privacy Policy, you explicitly consent to your Personal Information being exported to (RED) in the USA from the location where this information was provided. Please do not accept the terms of this Privacy Policy if you do not agree to your data being exported in this way. Your Personal Information will be held on the data systems of (RED) or third party data processors selected by (RED) to store and/or process this data, and will be deleted from our systems if you inform us that you no longer wish to continue your registration as a recipient of (RED) or (PRODUCT) RED related information.
 
-Personal Information supplied by you during the registration process or during a purchase is held securely and is accessible to you. You agree that we may share your Personal Information with (PRODUCT) RED partners so that they can inform you about new products and services. We further reserve the right to share aggregated information with third parties to help improve or promote our Site but will do so in such a way that no individual user can be identified or linked to any specific action or information. By agreeing to this Privacy Policy, you explicitly consent to receiving electronic communications, including e-mails or newsletters sent by us or on our behalf and/or by our  (RED) or (PRODUCT) RED partners. Each commercial e-mail that we send to you will offer you the opportunity to opt-out of continuing to receive such messages. We may take up to ten (10) days to process your opt-out requests. In some instances, we may have already shared your information with one of our authorized third parties before you changed your e-mail and newsletter choices. In those cases, you should directly contact those third parties to opt-out of receiving their communications (for which we are not responsible).
 
-**Children**
+While ONE operates multiple corporate entities, those entities share offices, staff, and a common mission.  As such, data received and processed by us may be shared across the corporate entities and geographies described above.
 
-This Site is a general audience Site. (RED) does not knowingly collect Personal Information from children under the age of thirteen (13), unless we receive verifiable consent from a parent or guardian. If (RED) becomes aware that a child under the age of thirteen (13) has provided us with Personal Information without the proper consent, that information will be deleted from our databases. Parents who have questions about Personal Information that may have been submitted by a child under the age of thirteen (13) should e-mail us at hello@red.org.
+(RED)  is located in the United States and maintains its primary website servers there. As such, any information you provide or have provided will be transferred from your country of residence to (RED)’s servers in the US.
 
-**Security**
+## Privacy Policy
 
-The security and confidentiality of your information is extremely important to us. We use commercially reasonable technical, administrative, and physical security measures to protect your information from unauthorized access and improper use. We may update our security measures from time-to-time to ensure we are using new technology and safety methods, but please keep in mind that despite our best efforts, no security measures are perfect or impenetrable. You must also protect against unauthorized access to your user name and password to your membership/account and to your computer. If you would like to access, update or request deletion of your Personal Information, please contact us at www.red.org. You may also write us at (RED), 49 W 27th Street, 3rd Floor, New York, NY 10001
+ _Information (RED) collects and how we use it_
 
-Please note that Personal Information stored on the Site will be collected, stored and processed in the United States of America. By this Privacy Policy, (RED) has intended to abide by the safe harbor framework as set forth by the United States Department of Commerce regarding the collection, use and retention of data from the European Union and the PIPEDA regarding the collection, use and retention of data from Canada.
+### Personal Information
 
-Effective Date: November 2015
+To fulfill its mission, (RED) depends on the participation of people just like you.  (RED)’s communications are designed to facilitate that participation through interaction, which often means asking people for their personal information and retaining that information on our systems. What follows is an explanation of the ways in which we ask for your personal information.
+
+### GDPR Compliance
+
+Where applicable, (RED) complies with EU data protection law when collecting, using, storing and otherwise processing your personal data (as defined in the EU General Data Protection Regulation  ((EU) 2016/679) (“GDPR”)) and below is an overview of how (RED) complies with EU data protection law.   
+
+  * Lawful Basis: (RED) has a legitimate interest in processing your personal information and your interests and fundamental rights do not override those interests.
+
+  * Categories of User: Key stakeholders, business partners, influencers, and other business contacts.
+
+  * Legitimate Interest: Examples of the legitimate interest we have in processing your personal data include growing our business, interacting with key stakeholders, partners, and and managing our business communications.  
+
+  * Other Lawful Basis: We may also process the personal data you provide where:
+
+    * We have lawful grounds to do so, including to comply with our legal and regulatory obligations;
+
+    * Such processing is necessary for the purposes of performing a contract between us.
+
+  * Data Controllers: The data controllers for the purposes of EU data protection law are ONE and its network of global affiliates.  Those organizations include: The ONE Campaign, ONE Action, ONE Global Canada, ONE Campaign Nigeria LTD/GTE, ONE Campaign Africa NPC, and ONE Against Poverty UK.  We hope to continue to grow, so we will keep this Policy updated with any new entities incorporated in the future.
+
+  * Third Parties: We will never disclose your personal data except to (RED) staff and (RED)’s authorized agents.  If we disclose your data to third party authorized agents, we will execute non-disclosure agreements to ensure your personal data is never shared, sold, or disclosed by the third party agent.
+
+  * Reason for Processing: The reason we process your personal data--keeping it on our systems and servers and contacting you--is to fulfill our mission to raise money and awareness for the fight against AIDS.  We will never sell or profit from your personal data.
+
+  * You can [unsubscribe](https://web.archive.org/unsubscribe) at any time.  Further, you have the right of erasure, so if you wish to have your personal data erased from our systems, please [contact us.](mailto:hello@red.org)
+
+  * Your Rights: If you are an EU citizen and reside in the EU, or are non-EU national residing in the EU, you may have the following rights with respect to the personal data you provide to us, to the extent permitted by applicable data protection laws:
+
+    * To withdraw any consent that you have provided to us to process your personal data.
+
+    * To access or rectify your personal data.
+
+    * To have your personal data erased if it is no longer necessary for the purposes for which it was processed, you have withdrawn your consent to, or object to, its processing and there is no other legitimate grounds for processing it or you consider it has been unlawfully processed.
+
+    * To have the processing of your personal data restricted if you contest its accuracy, its processing is unlawful, we no longer need it but you need it for a legal claim, or you have objected to its processing and await verification of our legitimate grounds for processing it.
+
+    * To have your personal data transferred to another company under certain circumstances.
+
+
+
+
+You also have the right to complain to your national data protection regulator if you feel that your personal data has been unlawfully processed.
+
+### Children’s privacy
+
+We do not knowingly contact or collect personal information from minors. Our website and communications are not intended to solicit information of any kind from children under 13 (or if being a 'minor' is defined as a higher or younger age in your relevant jurisdiction, that relevant age), and we have designed the site to block our knowing acceptance of information from minors whenever age-related information is requested.
+
+It is possible that by fraud or deception we may receive information pertaining to minors. If we are notified of this, as soon as we verify the notification, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by minors, [please contact us](mailto:hello@red.org).
+
+ _Last Updated: May 2018_
