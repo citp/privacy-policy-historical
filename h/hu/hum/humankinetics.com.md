@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humankinetics.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522040741id_/http%3A//www.humankinetics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humankinetics.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921112252id_/http%3A//www.humankinetics.com/privacy-policy) for the most accurate reproduction.*
 
 # What is the Human Kinetics Privacy Policy?
 
@@ -7,6 +7,8 @@
 
 
 **What is the Human Kinetics Privacy Policy?**
+
+European customers please click [here](https://uk.humankinetics.com/pages/privacy-policy "Europe’s privacy policy") to view our European Privacy Policy
 
 Thank you for visiting HumanKinetics.com. This Privacy Policy will tell you:
 
