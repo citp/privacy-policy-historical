@@ -1,37 +1,99 @@
-> *The following text is extracted and transformed from the data.gov.uk privacy policy that was archived on 2018-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180204071314id_/https%3A//data.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the data.gov.uk privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921073856id_/https%3A//data.gov.uk/privacy) for the most accurate reproduction.*
 
-# Privacy | data.gov.uk
+# Privacy - data.gov.uk
 
-[Complete a short survey](http://www.smartsurvey.co.uk/s/Z06XA/) to share your feedback and tell us if you'd like to help us to test the new data.gov.uk site. 
+Last updated 23 May 2018
 
-**Your personal data**
+##  Who we are 
 
-From time to time, you may be asked to submit personal information about yourself (e.g. name and e-mail address) in order to receive or use services on our website. Such services include e-mail updates, website feedback, or suggesting an idea / application.
+Find open data is a data service provided by the [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) (GDS) which is part of the Cabinet Office. Our job is the digital transformation of government. 
 
-By entering your details in the fields requested, you enable the Crown/Government (Cabinet Office) and its service providers to provide you with the services you select. Any personal information you provide to us will only be used by us, our agents and service providers, and will not be disclosed unless we are obliged or permitted to by law to do so.
+Data.gov.uk helps people to find and use open government data, and supports government publishers to maintain data. 
 
-If you post or send offensive, inappropriate or objectionable content anywhere on this site, we may use whatever information about you is available to us to stop such behaviour.
+The data controller for GDS is the Cabinet Office — a data controller determines how and why personal data is processed. For more information read the Cabinet Office’s entry in the [Data Protection Public Register](https://ico.org.uk/ESDWebPages/Entry/Z7414053). 
 
-We will hold your personal information on our systems for as long as you use the service you have requested, and remove it in the event that the purpose has been met or when you no longer wish to continue your subscription.
+##  What data we need 
 
-**Accessibility statement**
+The personal data we collect from you will include: 
 
-This website is run by Government Digital Services. It is our intention that the website is usable and accessible to all users. This website's objective is to conform to the Guidelines for (UK Government Websites), which supports Web Content Accessibility Guidelines of the World Wide Web Consortium. A full [accessibility statement](https://www.data.gov.uk/accessibility-statement) is available.
+  * your name
+  * your email address
+  * your organisation
 
-**Feedback**
 
-We very much welcome and actively encourage your feedback on this site. The site is being constantly developed, so we encourage you to provide feedback to ensure that future iterations meet your needs. This project is seen by us as a collaborative one between government and yourselves so do get in touch and help shape future direction.
 
-We will not pass on any of your personal information when dealing with your enquiry, unless you have given us permission to do so. Once we have replied to you, we keep a record of your message for audit purposes.
+The legal basis for processing this data is in the exercise of a public task of a Government Department to undertake its functions. 
 
-**The Data Protection Act**
+##  Why we need it 
 
-Under the Data Protection Act 1998, we have a legal duty to protect any information we collect from you. We use leading technologies and encryption software to safeguard your data, and keep strict security standards to prevent any unauthorised access to it.
+We collect your personal data so we can provide access to the publishing service and to send you email notifications about service changes. 
 
-We will not pass on your personal details to any third party without your permission.
+We collect an email address and name so we can verify you work for the publishing organisation. 
 
-If you wish to see our records of any correspondence you have sent to us, or if you have a query or complaint about this privacy policy or about the site, you can contact us using the contact us form.
+##  What we do with it 
 
-**Changes to this privacy policy**
+We use the data you provide to set up your account so you can manage and publish data. From time to time, we might need to update you about changes in the service. 
 
-If this privacy policy changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
+We will not:
+
+  * sell or rent your data to third parties
+  * share your data with third parties for marketing purposes
+
+
+
+We will share your data if we are required to do so by law — for example, by court order, or to prevent fraud or other crime. 
+
+##  How long we keep your data 
+
+We will only retain your personal data for as long as it is required by law. In general, this means that we will only hold your personal data for the length of time you use this service, or up to 12 months after you leave the service whereby all information will then be deleted. 
+
+##  Children’s privacy protection 
+
+We understand the importance of protecting children’s privacy online. Our service is not designed for, or intentionally targeted at, children 13 years of age or younger. It is not our policy to intentionally collect or maintain data about anyone under the age of 13. 
+
+##  Where your data is processed and stored 
+
+To make sure that your data is as safe as possible, we design and maintain systems with secure accounts. Your personal data will not be transferred outside of the [European Economic Area (EEA)](https://www.gov.uk/eu-eea) while it’s processed at GDS. 
+
+##  How we protect your data and keep it secure 
+
+We are committed to doing all that we can to keep your data secure. To prevent unauthorised access or disclosure we have put in place technical and organisational procedures to secure the data we collect about you. 
+
+For example, we protect your data using varying levels of encryption. We also make sure that any third parties that we deal with have an obligation to keep all personal data they process on our behalf secure. 
+
+##  What are your rights 
+
+You have the right to:
+
+  * request information about how your personal data is processed and to request a copy of that personal data 
+  * request that any inaccuracies in your personal data are rectified without delay 
+  * request that any incomplete personal data is completed, including by means of a supplementary statement 
+  * request that your personal data is erased if there is no longer a justification for it to be processed 
+  * request that the processing of your personal data is restricted in certain circumstances — for example, where accuracy is contested 
+
+
+
+If your personal data is processed on the basis of consent, you have the right to: 
+
+  * request a copy of any personal data you have provided, and for this to be provided in a structured, commonly used and machine-readable format 
+
+
+
+##  Changes to this notice 
+
+We may change this privacy notice at our discretion at any time. In that case the ‘Last updated’ date at the top of this page will also change. Any changes to this privacy notice will apply to you and your data immediately. If these changes affect how your personal data is processed, GDS will take reasonable steps to make sure you know. 
+
+##  Questions and complaints 
+
+The data controller for your personal data is the Cabinet Office. Contact the Data Protection Officer if you have any questions or think that your personal data has been misused or mishandled. 
+
+If you have a complaint, you can also contact the [Information Commissioner](https://ico.org.uk/), who is an independent regulator set up to uphold information rights. 
+
+Information Commissioner’s Office  
+[casework@ico.org.uk](mailto:casework@ico.org.uk)  
+0303 123 1113  
+Wycliffe House  
+Water Lane  
+Wilmslow  
+Cheshire  
+SK9 5AF 
