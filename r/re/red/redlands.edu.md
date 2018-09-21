@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redlands.edu privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120044939id_/http%3A//www.redlands.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redlands.edu privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921234654id_/http%3A//www.redlands.edu/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy, confidentiality policy
 
@@ -26,8 +26,8 @@ University of Redlands will not disclose, without your consent, personal informa
  **Access to Your Own Information**  
 Questions regarding users' rights to review, modify or delete their previously provided personal information should be directed to the campus organization to which they provided the information. If you have any questions about this privacy statement or University of Redlands privacy practices, please contact:
 
-University of Redlands   
-P.O. Box 3080 Redlands, CA 92373-0999   
+University of Redlands  
+P.O. Box 3080 Redlands, CA 92373-0999  
 webteam@redlands.edu
 
  **Notification of Changes**  
