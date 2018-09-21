@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the papyrusonline.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710014221id_/https%3A//www.papyrusonline.com/customer-services/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papyrusonline.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921025659id_/https%3A//www.papyrusonline.com/customer-services/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security
 
-_Updated and effective as of November 1, 2016._
+_Updated and effective as of May 25, 2018._
 
 **Thank you for visiting the Papyrus online store.** Papyrus takes your privacy seriously and is committed to safeguarding your privacy online. Because we do gather certain types of information from visitors to our website, we have developed a privacy policy to help our visitors understand the terms and conditions surrounding the collection and use of information. This policy only applies to visitors accessing our website (papyrusonline.com) from the United States and Canada, and does not apply to data that may be collected offline or in our stores. By visiting our website you are accepting the practices described in this policy. If you do not agree with these terms, do not use or visit the website.
 
@@ -40,21 +40,25 @@ The "Help" feature on most browsers will tell you how to prevent your browser fr
 
 If you would prefer not to have our partners use this data to deliver relevant advertising on other websites, the Network Advertising Initiative provides an opt-out tool for the purpose of opting out of Internet-based advertising by its participating member companies. It is located at the following link: <http://www.networkadvertising.org/choices/>. If you delete your cookies, use a different web browser, or use a different computer, you will need to renew your opt-out choice.
 
+##### Use of Technology to Communicate with Mobile Devices
+
+We use Bluetooth (BLE) Beacons, Wi-Fi, and similar technologies within some of our locations that may communicate with your (mobile) device and identify its location if the device has Bluetooth and/or Wi-Fi enabled and is properly configured. As a result, we may collect your Wi-Fi and/or Bluetooth MAC Address and send BLE signals to your device. We do not collect any personal information when we do so. To opt out of BLE Beacons and/or the collection of your MAC address, turn off your device Bluetooth and Wi-Fi capabilities.
+
 ##### Do Not Track Signals
 
 Some web browsers allow you to request that websites and advertisers not track you by turning on the "Do Not Track" preference in the web browser settings. In the interest of serving our visitors, we have not set up our website to accommodate the Do Not Track signal as certain functions on most modern websites require some level of tracking ability to be useful to visitors.
 
 ##### Editing Your Personal Information
 
-You can visit papyrusonline.com without telling us who you are or providing us with any personal information. However, during the course of browsing and shopping on the Papyrus website it is possible for you to create a customer account that will allow you to save addresses, item customizations, shopping cart contents, your order history and other personal information that would help make your shopping experience easier. If you ever need to edit your saved personal information, you may log into your customer account and edit your personal information at your own convenience. If you require assistance editing or deleting your personal information, you may contact Customer Service through our Contact Form. If so, we will make good faith efforts to make requested changes in our then active databases as soon as reasonably practicable (but we may retain prior information as business records).
+You can visit papyrusonline.com without telling us who you are or providing us with any personal information. However, during the course of browsing and shopping on the Papyrus website it is possible for you to create a customer account that will allow you to save addresses, item customizations, shopping cart contents, your order history and other personal information that would help make your shopping experience easier. We store this information until a request is submitted to either delete or edit. If you ever need to edit your saved personal information, you may log into your customer account and edit your personal information at your own convenience. If you require assistance editing or deleting your personal information, you may contact Customer Service through our Contact Form. If so, we will make good faith efforts to make requested changes in our then active databases as soon as reasonably practicable (but we may retain prior information as business records).
 
-##### How we Communicate with You
+##### How We Communicate with You
 
 Papyrus may send communications to you on the basis of the information you provide to us through email or postal mail. You may always specifically request not to be contacted (see Opt-Out Procedures below).
 
 ##### Opt-Out Procedures
 
-You may always opt-out of receiving future marketing communications from Papyrus by (a) clicking the "Unsubscribe" link at the bottom of the email message, (b) visiting our [Email Unsubscribe](https://www.papyrusonline.com/email-unsubscribe-ppy) page and submitting your email address there, or (c) making a request through Customer Service. It may take several weeks to have your name removed from our files depending on how you make your request. Your request not to receive marketing communications from us will not preclude us from contacting you regarding a question we have about your purchase or sending you transactional messages.
+You may always opt-out of receiving future marketing communications from Papyrus by (a) clicking the "Unsubscribe" link at the bottom of the email message, (b) visiting our [Email Preferences](https://web.archive.org/customer-services/email-preferences) page and unsubscribing from there, or (c) making a request through Customer Service. It may take several weeks to have your name removed from our files depending on how you make your request. Your request not to receive marketing communications from us will not preclude us from contacting you regarding a question we have about your purchase or sending you transactional messages.
 
 The Network Advertising Initiative provides an opt-out tool for the purpose of opting out of Internet-based advertising by its participating member companies. It is located at the following link: <http://www.networkadvertising.org/choices/>. If you delete your cookies, use a different web browser, or use a different computer, you will need to renew your opt-out choice.
 
@@ -89,6 +93,55 @@ Any dispute or claim relating in any way to your use of this website, including 
 ##### Pricing
 
 Despite our best efforts, a small number of the items on our website may be mispriced. If the correct price of an item sold by by us is higher than our stated price, we will, at our discretion, either contact you for instructions before shipping or cancel your order and notify you of such cancellation.
+
+##### Mobile Messaging Terms & Conditions
+
+###### What is PAPYRUS Mobile Messaging?
+
+PAPYRUS Mobile Messaging is a program where we use SMS text messages to notify customers of special offers, sales and events. We send up to 10 times a month. No purchase is necessary for subscription.
+
+###### How do I sign up for PAPYRUS Mobile Messaging?
+
+Join PAPYRUS Mobile Messaging by texting XOXO to the short code 86156. You will receive up to 10 messages a month. PAPYRUS Mobile Messaging is not spam. By texting XOXO to 86156, you consent to receive marketing text messages from PAPYRUS. You are not obligated to purchase any goods or services in order to receive messages. Messages will be sent to the mobile number used at opt-in. We may send text messages using an automatic telephone dialing system. You must notify PAPYRUS if your number is changed or deactivated by contacting our customer service team at (707) 399-3775. You will receive a confirmation text message as part of registration and may opt out by replying STOP to any message.
+
+You also affirm that you are at least 13 years of age or older, are authorized to agree to receive mobile contacts on this phone number and are responsible for any mobile message or data charges incurred. If you are between 13 and 17 years old, you are confirming parental consent to enroll your number in PAPYRUS Mobile Message except where restricted by state law.
+
+###### Is it free?
+
+Although PAPYRUS Mobile Messaging is complimentary, messages and data rates may apply. Depending on your texting plan, you may be charged by your carrier. By providing your consent to participate in PAPYRUS Mobile Messaging, you approve any such charges from your mobile carrier. Charges for text messages may appear on your mobile phone bill or be deducted from your prepaid balance.
+
+###### What if I don't want to receive any more promotional/alert messages?
+
+To STOP receiving messages from PAPYRUS, simply text "STOP" to the short code 86156. After doing so you will no longer receive any PAPYRUS messages. We will take you off our messaging list within 24 hours.
+
+###### What if I want back in?
+
+You can start receiving PAPYRUS again by following the steps outlined above in the section: "How do I sign up for PAPYRUS Mobile Messaging?"
+
+###### What if I want more info?
+
+To request more info simply text "HELP" to the short code 86156.
+
+###### Commands
+
+**STOP:** At any time, you can text "STOP" to the short code 86156. This will prevent you from receiving any future PAPYRUS messages. It may take us up to 24 hours to implement your request.
+
+**HELP:** At any time, you can text "HELP" to the short code 86156. Texting "HELP" will return the following message: PAPYRUS: For more info on PAPYRUS, contact https://www.papyrusonline.com/customer-service, or call (707) 399-3775. Txt STOP to stop. Msg&data rates may apply.
+
+Customer Service Phone #: (707) 399-3775
+
+###### Who are the Participating Carriers?
+
+Participating carriers include AT&T, T-Mobile®, Verizon Wireless, Sprint, Boost, U.S. Cellular, Cellular One, MetroPCS, ACS/Alaska, Bluegrass Cellular, Cellular One of East Central Illinois, Centennial Wireless, Cox Communications, EKN/Appalachian Wireless, GCI, Google Voice, Illinois Valley Cellular, Immix/Keystone Wireless, Inland Cellular, Nex-Tech Wireless, Rural Cellular Corporation, Thumb Cellular, United Wireless, West Central (WCC), Cellcom, Cellsouth, Cricket, and Virgin Mobile.
+
+###### Additional Information
+
+T-Mobile® and other mobile carriers are not liable for delayed or undelivered messages. By subscribing to PAPYRUS Mobile Messaging, you agree to receive autodialed marketing messages and text messages at a telephone number that is unambiguously designated by the user. Terms & Conditions are subject to change. PAPYRUS reserves the right to terminate PAPYRUS Mobile Messaging service at any time without notice. The information in any message may be subject to certain time lags and or delays. You are responsible for managing the types of SMS texts you receive.
+
+###### What is your Privacy Policy?
+
+You can view our Privacy Policy by visiting the link below:  
+https://www.papyrusonline.com/customer-services/privacy-security
 
 ##### Your California Privacy Rights
 
