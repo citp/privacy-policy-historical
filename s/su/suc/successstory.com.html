@@ -1,65 +1,43 @@
-<!--The following is the downloaded HTML source of the successstory.com privacy policy that was archived on 2017-07-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170708103850id_/https%3A//successstory.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the successstory.com privacy policy that was archived on 2018-09-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180921050529id_/https%3A//successstory.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
-    <!-- Meta -->
-    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;version=v2.3&amp;appId=1701390533464198"></script><script type="text/javascript" src="https://contextual.media.net/dmedianet.js?cid=8CUTYCBRX&amp;https=1" async=""></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-     <title>Privacy Policy | SuccessStory</title>
+<!DOCTYPE html><html lang="en" class=" async-hide"><head>
+     
+  <meta charset="utf-8">
+    <!-- <meta http-equiv="content-type";content="text/html";charset="UTF-8"/> -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+   <!--  <link rel="icon" href="https://successstory.com/favicon.ico"> -->
+    <link rel="shortcut icon" href="https://images.successstory.com/favicon.ico">
+    <link rel="canonical" href="http://successstory.com/privacy-policy">
 
-    <meta name="author" content="">
-        <meta property="og:image" content="https://successstory.com//">
-    
-
-
-<meta name="keywords" content="Privacy Policy
-">
-<meta name="description" content="Privacy Policy
-">
-
-     <!-- Favicon -->
-    <link rel="icon" href="https://successstory.com/favicon.ico">
-    <link rel="canonical" href="https://successstory.com/privacy-policy">
-    <!-- build:css -->
-    <link rel="stylesheet" href="https://successstory.com/assets/dist_dev/style.css">
-    <link rel="stylesheet" href="https://successstory.com/assets/dist_dev/new-style.css">
-    <link rel="stylesheet" href="https://successstory.com/assets/dist_dev/vendor.css">
-
+<style>.async-hide { opacity: 0 !important} </style>
+<!-- <script src="//surgeprice.com/display/async/WPfME7273ixbyN8Cw/successstory.com/ariel.js" data-cfasync="false"></script>
+ -->
+<script type="text/javascript" src="https://contextual.media.net/dmedianet.js?cid=8CUTYCBRX&amp;https=1" async=""></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-WD7JW2L':true});</script>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
   ga('create', 'UA-52534146-2', 'auto');
+  ga('require', 'GTM-WD7JW2L');
   ga('send', 'pageview');
 </script>
-
-<meta name="google-site-verification" content="E2YTtFneDsAGQrLt4m3AJaDPaXSXuTgPhhrH9wLGfno">
-<meta name="google-site-verification" content="p3neq-bnt8VEFpVd1xH8WU4U2ReR8TWb5lr7-b3S3Kg">
-<meta name="msvalidate.01" content="7C2AFA00B3CEE462B9C558E987590BCE">
-<script type="text/javascript">
-function imgError(image) {
- var imgsrepath = image.src;
-    image.onerror = "";
-
-    imgsrepath = imgsrepath.replace('administrator/image_uploads/', 'adminimg/image_uploads/');
-
-    image.src = imgsrepath;
-    return true;
-}
-function imgQuoteError(image) {
- var imgsrepath = image.src;
-    image.onerror = "";
-
-    imgsrepath = imgsrepath.replace('img_quotes/img_comb_quotes/', 'img_quotes/');
-
-    image.src = imgsrepath;
-    return true;
-}
-</script> 
-
-<script type="text/javascript">
+ 
+      <link rel="stylesheet" type="text/css" href="https://images.successstory.com/css/style.css">
+          <meta name="google-site-verification" content="E2YTtFneDsAGQrLt4m3AJaDPaXSXuTgPhhrH9wLGfno">
+    <meta name="google-site-verification" content="p3neq-bnt8VEFpVd1xH8WU4U2ReR8TWb5lr7-b3S3Kg">
+    <meta name="msvalidate.01" content="7C2AFA00B3CEE462B9C558E987590BCE">
+      <title>Privacy Policy | SuccessStory</title>
+      <meta name="keywords" content="Privacy Policy
+">
+      <meta name="description" content="Privacy Policy
+">
+  <script type="text/javascript">
     window._mNHandle = window._mNHandle || {};
     window._mNHandle.queue = window._mNHandle.queue || [];
     medianet_versionId = "121199"; 
@@ -73,279 +51,206 @@ function imgQuoteError(image) {
         sctHl.parentNode.insertBefore(sct, sctHl);
     })();
     </script>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-</head>
-<body>
-<div class="wrap"> <!-- wrap start-->
-  <header class="header"> <!-- header -->    
-    <div id="main-navbar" class="main-navbar main-navbar-fixed-top header-grey"><!-- main-navbar -->      
-      <div class="main-navbar-content"><!-- main-navbar-content -->        
-        <div class="home-container-sec change-header grey-new-sec">
-          <div class="header-section inner-menu-ss">
-            <div class="logo"> <a href="https://successstory.com/"><img src="https://successstory.com/assets/img/successstory-logo-s.svg" alt="Success Story" title="Success Story"></a></div>
-             <div class="mobile-social-media-button"> </div>
-            <nav class="top-menu">
-              <button id="mobile-menu-button1" class="icon navbar-toggle top-nav-ss collapsed" type="button" data-toggle="offcanvas"></button> 
-              <ul>
-                <li> <a href="https://successstory.com/stories">Stories</a> </li>
-                <li> <a href="https://successstory.com/inspiration">Motivation</a> </li>
-                <li> <a href="https://successstory.com/quote">Quotes</a> </li>
-              </ul>
-            </nav>
-            <div class="header-right-sec social">
-              <ul>
-                <li>
-                  <div class="fb-icon"><a href="https://www.facebook.com/pages/Success-Story/763747140350424" target="_blank" rel="nofollow"></a></div>
-                </li>
-                <li>
-                  <div class="tw-icon"><a href="https://twitter.com/SuccessStory6" target="_blank" rel="nofollow"></a></div>
-                </li>
-                <li>
-                  <div class="gplus-icon"><a href="https://plus.google.com/109714974920133487997/" target="_blank" rel="nofollow"></a></div>
-                </li>
-                <li>
-                <div class="search-icon"></div>  
-
-                 <div class="search-cont">
-                  <div class="search-cls search-icon"> </div>
-                  <div class="home-container-sec"><div class="new-search"><input type="text" placeholder="Search on SuccessStory" class="form-control" title="search" id="searchTag" name="searchTag"></div></div>
-                </div>                 
-                </li>
-                <li>
-                  <ul class="nav pull-right user-menu">
-          <li class="dropdown" id="menuLogin">
-            <a class="dropdown-toggle" href="#" data-toggle="dropdown">Login</a>
-            <div class="dropdown-menu menucustomclass">
-              <div class="login user-tab">
-                
-                <form id="formLogin" method="POST">
-                  <h3>Welcome Back! to SuccessStory</h3>
-                  <div id="warningmess" style="color:red;display:none;float:right;margin-top:6px;"></div>
-                  <div class="form-group">
-                    <label for="inputEmail" class="control-label">Your Email ID</label>
-                    <input type="email" class="form-control" id="inputEmail" name="inputEmail" required="">
-                  </div>
-                  <div class="form-group">
-                    <label for="inputPass" class="control-label">Password</label>
-                    <input type="password" class="form-control" id="inputPass" name="inputPass" required="">
-                  </div>
-                  <div class="form-group">
-                    <input type="submit" id="loginhome" class="btn btn-blue btn-sm" value="Login">
-                    <a href="#" class="pull-right small-cap user-menu-tab" data-target=".forgotpass">Forgot Password?</a>
-                  </div>
-                  <div class="side-note"> 
-                    <span id="newacccont">Do you want to be Successful?</span> <a href="#" class="user-menu-tab" data-target=".register">Register Here!</a>
-                  </div>
-                </form>
-              </div><!-- login -->
-              <div class="register user-tab">
-                <form id="formRegister" name="formRegister" method="POST">
-                  <h3>Register to SuccessStory</h3>
-                  <div id="registersuccess" style="display:none;color:blue;"></div>
-                  <div id="registerfail" style="display:none;color:red;"></div>
-                  <div class="form-group">
-                    <label for="inputRegisterName" class="control-label">Your Name</label>
-                    <input type="text" class="form-control" id="inputRegisterName" name="inputRegisterName" required="">
-                  </div>
-                  <div class="form-group">
-                    <label for="inputRegisterEmail" class="control-label">Your Email</label>
-                    <input type="email" class="form-control" id="inputRegisterEmail" name="inputRegisterEmail" required="">
-                  </div>
-                  <div class="form-group">
-                    <label for="inputRegisterPass" class="control-label">Password</label>
-                    <input type="password" class="form-control" id="inputRegisterPass" name="inputRegisterPass" required="">
-                  </div>
-                  <div class="checkbox">
-                      <label>
-                        <input type="checkbox" checked="checked"> I accept Terms of Service and Privacy Policy.
-                      </label>
-                  </div>
-                  <div class="form-group">
-                    <input type="submit" id="registerhome" class="btn btn-blue btn-block" value="Register to SuccessStory">
-                  </div>
-                  <div class="side-note"> 
-                    Already have account? <a href="#" class="user-menu-tab" data-target=".login">Login Here!</a>
-                  </div>
-                </form>
-              </div><!-- register -->
-              <div class="forgotpass user-tab">
-                <form id="formForgotPass" method="POST">
-                  <div id="successmess" style="display:none;color:blue;"></div>
-                  <div id="warningmessforgot" style="display:none;color:red;"></div>
-                  <h3>Forgot Password</h3>
-                  <div class="form-group">
-                    <label for="inputForgotEmail" class="control-label">Your Email ID</label>
-                    <input type="email" class="form-control" id="inputForgotEmail" name="inputForgotEmail" required="">
-                  </div>
-                  <div class="form-group">
-                    <input type="submit" id="forgotbutton" class="btn btn-blue btn-block" value="Reset Password">
-                  </div>
-                  <div class="side-note"> 
-                    Password Remember? <a href="#" class="user-menu-tab" data-target=".login">Login Here!</a>
-                  </div>
-                </form>
-              </div><!-- forgotpass -->
-            </div>
-          </li>
-        </ul>
-        </li>
-              </ul>
-            </div>
-          </div>
-        </div> <!-- home-cantainer-1 end -->
-
-
-        <div class="home-container-sec change-header white-new-sec">
-          <div class="header-section inner-menu-ss">            
-             <div class="mobile-social-media-button"> </div>
-              <nav class="top-menu">
-                <button id="mobile-menu-button1" class="icon navbar-toggle top-nav-ss collapsed" type="button" data-toggle="offcanvas"></button>                 
-              </nav>
-            <div class="header-right-sec social">
-              <ul>                
-                <li>
-                <div class="search-icon"></div>
-                 <div class="search-cont">
-                  <div class="search-cls search-icon"> </div>
-                  <div class="home-container-sec"><div class="new-search"><input type="text" placeholder="Search on SuccessStory" class="form-control" title="search" id="searchTag" name="searchTag"></div></div>
-                </div>                 
-                </li> 
-              </ul>             
-            </div>
-          </div>
-        </div>
-         <!-- home-container-2 end--> 
+</head><body>
+  <header>
+    <div class="container">
+    <div class="logo">
+          <button class="menu-btn icon"></button>
+          <button class="icon f-navbtn"></button>
+          <a href="https://successstory.com/"><img src="https://images.successstory.com/images/img/logo.svg" alt="Sucess Story"></a>
       </div>
-      <!-- main-navbar-content  end--> 
-    </div>
-    <!-- main-navbar end--> 
-  </header>
-  <!-- header closed -->
-<!--=== header-mobile ===-->
-   <div class="menu_mask_div"></div>
-    <header id="header-mobile"> 
-      <div class="search">
-        <form action="destination.html" class="search" id="searchmobile" name="searchmobile">
-          <div class="input-group">
-            <input type="text" name="searchTagmobile" id="searchTagmobile" title="search" class="form-control" placeholder="Search here">
-            <span class="input-group-btn">
-              <button class="btn btn-link" type="submit" id="mobilesearchsubmit"><i class="glyphicon glyphicon-search"></i></button>
-            </span>
-          </div>
-        </form>
-      </div>     
-      <div id="toggle-mobile">
-        <nav id="primary-menu-mobile" role="navigation">
-          <ul class="navbar-nav" id="menu-top-menyu-1">
-            <li><a href="https://successstory.com/" class="home">Home</a></li>
-            <li class="menu-item-has-children">
-              <a href="https://successstory.com/people">People</a>
-                            <ul class="sub-menu">
-                                <li><a href="https://successstory.com/industry/people/automobile">Automobile</a></li>
-                                <li><a href="https://successstory.com/industry/people/business">Business</a></li>
-                                <li><a href="https://successstory.com/industry/people/education">Education</a></li>
-                                <li><a href="https://successstory.com/industry/people/entertainment">Entertainment</a></li>
-                                <li><a href="https://successstory.com/industry/people/fashion-retail">Fashion &amp; Retail</a></li>
-                                <li><a href="https://successstory.com/industry/people/food-beverage">Food &amp; Beverage</a></li>
-                                <li><a href="https://successstory.com/industry/people/health-services">Health Services</a></li>
-                                <li><a href="https://successstory.com/industry/people/internet">Internet</a></li>
-                                <li><a href="https://successstory.com/industry/people/manufacturing">Manufacturing</a></li>
-                                <li><a href="https://successstory.com/industry/people/media">Media</a></li>
-                                <li><a href="https://successstory.com/industry/people/politics">Politics</a></li>
-                                <li><a href="https://successstory.com/industry/people/publishing">Publishing</a></li>
-                                <li><a href="https://successstory.com/industry/people/service">Service</a></li>
-                                <li><a href="https://successstory.com/industry/people/sports">Sports</a></li>
-                                <li><a href="https://successstory.com/industry/people/technology">Technology</a></li>
-                              </ul>
-            </li>
-
-            <li class="menu-item-has-children">
-              <a href="https://successstory.com/companies">Company</a>
-                            <ul class="sub-menu">
-                                <li><a href="https://successstory.com/industry/companies/automobile">Automobile</a></li>
-                                                <li><a href="https://successstory.com/industry/companies/business">Business</a></li>
-                                                                <li><a href="https://successstory.com/industry/companies/entertainment">Entertainment</a></li>
-                                                <li><a href="https://successstory.com/industry/companies/fashion-retail">Fashion &amp; Retail</a></li>
-                                                <li><a href="https://successstory.com/industry/companies/food-beverage">Food &amp; Beverage</a></li>
-                                                <li><a href="https://successstory.com/industry/companies/health-services">Health Services</a></li>
-                                                <li><a href="https://successstory.com/industry/companies/insurance">Insurance</a></li>
-                                                <li><a href="https://successstory.com/industry/companies/internet">Internet</a></li>
-                                                <li><a href="https://successstory.com/industry/companies/manufacturing">Manufacturing</a></li>
-                                                <li><a href="https://successstory.com/industry/companies/media">Media</a></li>
-                                                                <li><a href="https://successstory.com/industry/companies/publishing">Publishing</a></li>
-                                                <li><a href="https://successstory.com/industry/companies/service">Service</a></li>
-                                                                <li><a href="https://successstory.com/industry/companies/technology">Technology</a></li>
-                                              </ul>
-            </li>
-
-            <li class="menu-item-has-children">
-              <a href="https://successstory.com/products">Products</a>
-                            <ul class="sub-menu">
-                                                                
-                <li><a href="https://successstory.com/industry/product/entertainment">Entertainment</a></li>
-                                                
-                <li><a href="https://successstory.com/industry/product/food-beverage">Food &amp; Beverage</a></li>
-                                                                
-                <li><a href="https://successstory.com/industry/product/internet">Internet</a></li>
-                                                
-                <li><a href="https://successstory.com/industry/product/media">Media</a></li>
-                                                                                                
-                <li><a href="https://successstory.com/industry/product/technology">Technology</a></li>
-                                              </ul>
-            </li>
-
-            <li class="menu-item-has-children">
-              <a href="https://successstory.com/inspiration">Motivation</a>
-                            <ul class="sub-menu">
-                                <li><a href="https://successstory.com/industry/inspiration/achievement">Achievement</a></li>
-                                <li><a href="https://successstory.com/industry/inspiration/entrepreneur">Entrepreneur</a></li>
-                                <li><a href="https://successstory.com/industry/inspiration/inspiration">Inspiration</a></li>
-                                <li><a href="https://successstory.com/industry/inspiration/life">Life</a></li>
-                                <li><a href="https://successstory.com/industry/inspiration/motivation">Motivation</a></li>
-                                <li><a href="https://successstory.com/industry/inspiration/success">Success</a></li>
-                              </ul>
-            </li>
-
-             <li><a href="https://successstory.com/lists">Lists</a></li>
-
-             <li>
-              <a href="https://successstory.com/photos">Photos</a>
-            </li>
-
-            <li>
-              <a href="https://successstory.com/videos">Videos</a>
-            </li>
-
-            <li>
-              <a href="https://successstory.com/quote">Quotes</a>
-             
-            </li>
-
-            <li class="menu-item-has-children">
-              <a href="https://successstory.com/spendit">Spend It</a>
-                            <ul class="sub-menu">
-                                <li><a href="https://successstory.com/industry/spendit/autos">Autos</a></li>
-                                <li><a href="https://successstory.com/industry/spendit/expenditure">Expenditure</a></li>
-                                <li><a href="https://successstory.com/industry/spendit/hotel-resorts">Hotels &amp; Resorts</a></li>
-                              </ul>
-            </li>
-            <li>
-              <a href="https://successstory.com/interviews">Interviews</a>
-              
-            </li>
-            <li><a href="https://successstory.com/become-author" class="contribute">Contribute</a></li>
-            <li><a href="https://successstory.com/about-us">About Us</a></li>
-            <li><a href="https://successstory.com/contact-us">Contact Us</a></li>
+      <div class="header-nav">
+          <ul>
+            <li> <a href="https://successstory.com/stories">Stories</a> </li>
+            <li> <a href="https://successstory.com/inspiration">Motivation</a> </li>
+            <li> <a href="https://successstory.com/quote">Quotes</a> </li>
           </ul>
-        </nav>
       </div>
-    </header>
-    <!--=== END header mobile ===-->
-<p>&nbsp;</p>
-<!--=== Main content ===-->
-<div class="container top-padding-45">
-<div class="page-section col-md-9 small-size-content">
+      
+      <nav class="main-navbar-content">
+          <div class="scrollbar-inner scroller">
+              <button class="close icons"></button>
+              <ul class="navbar-nav">
+                  <li class="home"><a href="https://successstory.com/" class="home">Home</a></li>
+                  <li class="menu-item-has-children">
+                      <a href="https://successstory.com/people">People</a>
+                      <i class="icon drop-icon"></i>
+                      <ul class="sub-menu">
+                        <li><a href="https://successstory.com/industry/people/automobile">Automobile</a></li>
+                          <li><a href="https://successstory.com/industry/people/business">Business</a></li>
+                          <li><a href="https://successstory.com/industry/people/education">Education</a></li>
+                          <li><a href="https://successstory.com/industry/people/entertainment">Entertainment</a></li>
+                          <li><a href="https://successstory.com/industry/people/fashion-retail">Fashion &amp; Retail</a></li>
+                          <li><a href="https://successstory.com/industry/people/food-beverage">Food &amp; Beverage</a></li>
+                          <li><a href="https://successstory.com/industry/people/health-services">Health Services</a></li>
+                          <li><a href="https://successstory.com/industry/people/internet">Internet</a></li>
+                          <li><a href="https://successstory.com/industry/people/manufacturing">Manufacturing</a></li>
+                          <li><a href="https://successstory.com/industry/people/media">Media</a></li>
+                          <li><a href="https://successstory.com/industry/people/politics">Politics</a></li>
+                          <li><a href="https://successstory.com/industry/people/publishing">Publishing</a></li>
+                          <li><a href="https://successstory.com/industry/people/service">Service</a></li>
+                          <li><a href="https://successstory.com/industry/people/sports">Sports</a></li>
+                          <li><a href="https://successstory.com/industry/people/technology">Technology</a></li>
+                    </ul>
+                  </li>
+                  <li class="menu-item-has-children">
+                      <a href="https://successstory.com/companies">Company</a>
+                      <i class="icon drop-icon"></i>
+                      <ul class="sub-menu">
+                          <li><a href="https://successstory.com/industry/companies/automobile">Automobile</a></li>
+                            <li><a href="https://successstory.com/industry/companies/business">Business</a></li>
+                            <li><a href="https://successstory.com/industry/companies/entertainment">Entertainment</a></li>
+                            <li><a href="https://successstory.com/industry/companies/fashion-retail">Fashion &amp; Retail</a></li>
+                            <li><a href="https://successstory.com/industry/companies/food-beverage">Food &amp; Beverage</a></li>
+                            <li><a href="https://successstory.com/industry/companies/health-services">Health Services</a></li>
+                            <li><a href="https://successstory.com/industry/companies/insurance">Insurance</a></li>
+                            <li><a href="https://successstory.com/industry/companies/internet">Internet</a></li>
+                            <li><a href="https://successstory.com/industry/companies/manufacturing">Manufacturing</a></li>
+                            <li><a href="https://successstory.com/industry/companies/media">Media</a></li>
+                            <li><a href="https://successstory.com/industry/companies/publishing">Publishing</a></li>
+                            <li><a href="https://successstory.com/industry/companies/service">Service</a></li>
+                            <li><a href="https://successstory.com/industry/companies/technology">Technology</a></li>
+                      </ul>
+                  </li>
+                  <li class="menu-item-has-children">
+                      <a href="https://successstory.com/products">Products</a>
+                      <i class="icon drop-icon"></i>
+                      <ul class="sub-menu">
+                          <li><a href="https://successstory.com/industry/product/entertainment">Entertainment</a></li>
+                            <li><a href="https://successstory.com/industry/product/food-beverage">Food &amp; Beverage</a></li>
+                            <li><a href="https://successstory.com/industry/product/internet">Internet</a></li>
+                            <li><a href="https://successstory.com/industry/product/media">Media</a></li>
+                            <li><a href="https://successstory.com/industry/product/technology">Technology</a></li>
+                      </ul>
+                  </li>
+                  <li class="menu-item-has-children">
+                      <a href="https://successstory.com/inspiration">Motivation</a>
+                      <i class="icon drop-icon"></i>
+                      <ul class="sub-menu">
+                            <li><a href="https://successstory.com/industry/inspiration/achievement">Achievement</a></li>
+                            <li><a href="https://successstory.com/industry/inspiration/entrepreneur">Entrepreneur</a></li>
+                            <li><a href="https://successstory.com/industry/inspiration/inspiration">Inspiration</a></li>
+                            <li><a href="https://successstory.com/industry/inspiration/life">Life</a></li>
+                            <li><a href="https://successstory.com/industry/inspiration/motivation">Motivation</a></li>
+                            <li><a href="https://successstory.com/industry/inspiration/success">Success</a></li>
+                        </ul>
+                  </li>
+                  <li><a href="https://successstory.com/lists">Lists</a></li>
+                  <li><a href="https://successstory.com/photos">Photos</a></li>
+                  <li><a href="https://successstory.com/videos">Videos</a></li>
+                  <li><a href="https://successstory.com/quote">Quotes</a></li>
+                  <li class="menu-item-has-children">
+                      <a href="https://successstory.com/spendit">Spend It</a>
+                      <i class="icon drop-icon"></i>
+                      <ul class="sub-menu">
+                            <li><a href="https://successstory.com/industry/spendit/autos">Autos</a></li>
+                            <li><a href="https://successstory.com/industry/spendit/expenditure">Expenditure</a></li>
+                            <li><a href="https://successstory.com/industry/spendit/hotel-resorts">Hotels &amp; Resorts</a></li>
+                        </ul>
+                  </li>
+                  <li class="menu-item-has-children">
+                      <a href="https://successstory.com/become-author">Contribute</a>
+                  </li>
+                  <li class="menu-item-has-children">
+                      <a href="https://successstory.com/about-us">About Us</a>
+                  </li>
+                  <li class="menu-item-has-children">
+                      <a href="https://successstory.com/contact-us">Contact Us</a>
+                  </li>
+              </ul>
+          </div>
+      </nav>      <button class="signin">Sign in</button>
+      <button class="user-icon"></button>
+      <div class="search-sec">
+          <button class="icon search-iocn"></button>
+          <form method="get" id="searchform" action="https://successstory.com/">
+                      <input type="text" name="s" id="s" placeholder="Search">
+                    </form>
+          <span class="close"></span>
+      </div>
+    </div>
+    <div class="login-screens">
+      <div class="user-profile-popups">
+        <div class="user-profile-popup">
+          <div class="modal-header">
+            <h3>SuccessStory</h3>
+          </div>
+          <form class="login" method="post">
+            <div class="modal-body">
+              <h4>Welcome Back !!!</h4>
+              <ul>
+                <li class="wrapper">
+                  <input class="input" name="inputEmail" id="inputEmail" placeholder="Email id" type="email" autocomplete="off">
+                    <span class="underline"></span>
+                    <span class="error-msg mailerror"></span>
+                  </li>
+                <li class="wrapper">
+                  <input class="input" name="inputPass" id="inputPass" placeholder="Password" type="password">
+                    <span class="underline"></span>
+                    <span class="error-msg passerror"></span>
+                    <h6 class="forgot-frm">Forgot Password ?</h6>
+                  </li>
+                <li>
+                  <button id="loginhome">Sign in</button>
+                </li>
+              </ul>
+              <h5>Don't have an Account?<br> <span class="signup-frm">Sign Up</span> </h5>
+            </div>
+          </form>
+          <form class="signup">
+            <div class="modal-body">
+              <h4>Sign Up</h4>
+              <ul>
+                <li class="wrapper">
+                  <input class="input" name="inputRegisterName" id="inputRegisterName" placeholder="Name" type="text">
+                    <span class="underline"></span>
+                </li>
+                <li class="wrapper">
+                  <input class="input" name="inputRegisterEmail" id="inputRegisterEmail" placeholder="Email" type="text">
+                    <span class="underline"></span>
+                    <span class="error-msg mailerror msg-none"></span>
+                </li>
+                <li class="wrapper">
+                    <input class="input" type="password" name="inputRegisterPass" id="inputRegisterPass" placeholder="Password">
+                    <span class="underline"></span>
+                     <span class="error-msg passerror"></span>
+                </li>
+                <li>
+                  <button id="registerhome">Sign in</button>
+                  <h6>By Signing up you accept our terms of Serivce
+                  &amp; privacy policy</h6>
+                </li>
+              </ul>
+              <h5>Have an Account? <br> <span class="signin-frm">Sign in</span></h5>
+            </div>
+          </form>
+          <form class="forgot-pwd">
+            <div class="modal-body">
+              <h4>Forgot password</h4>
+              <ul>
+                <li class="wrapper red">
+                  <input class="input" name="inputForgotEmail" id="inputForgotEmail" placeholder="Registered Email id" type="text">
+                    <span class="underline"></span>
+                    <span class="error-msg mailerror"></span>
+                  </li>
+                  <li>
+                  <button id="forgotbutton">Forgot Password</button>
+                </li>
+              </ul>
+              <h5>Password Remember? <br><span class="signin-frm">Sign in</span></h5>
+            </div>
+          </form>
+          <a class="close icon" title="Close"></a>
+        </div>
+      </div>
+    </div>
+  </header>
+  <input type="hidden" id="siteURL" name="siteURL" value="https://successstory.com/">
+  <!-- header closed -->    <div class="main-body-sec">
+        <div class="main-container">
+<section class="privacy-policy">
+  <div class="container">
+    
 <h2>Privacy Policy</h2>
 <h3>Successstory.com Online Privacy Statement</h3>
 <p>(The policies stated within this document are applicable to successstory.com on the World Wide Web.)</p>
@@ -385,317 +290,40 @@ function imgQuoteError(image) {
 <p>This privacy policy may be modified from time to time. If there is a significant change, we will indicate on our sites that our privacy policy has changed and provide a link to the new policy.</p>
 <h3>Contacting SuccessStory</h3>
 <p>Should you have any questions, concerns or suggestions, you may contact SuccessStory.com by e-mail at contact@successstory.com</p>
-</div>
-<!-- /page-section --></div>
-<!-- /container -->
-<p>&nbsp;</p>
-<!--=== END Main content ===-->
-<p>&nbsp;</p>
-<!-- /wrap -->
-<p>&nbsp;</p>
 
 
- 
-
-  <!-- CODE ADDING ON 22/07/2015 ############################################## -->
-
-  <div class="mobile-social-media-icons">
-<ul>
-<li class="mob-facebook"><a href="#"></a></li>
-<li class="mob-twitter"><a href="#"></a></li>
-<li class="mob-gplus"><a href="#"></a></li>
-<li class="mob-pintrest"><a href="#"></a></li>
-<li class="mob-whatsup"><a href="#"></a></li>
-<li class="mob-mail"><a href="#"></a></li>
-</ul>
-</div>
-  
-  <!--=== Footer ===-->
-  <footer class="footer">
-  <div class="row footernew">
-    <div class="container">
-      <div class="ftlt">
-      <ul>
-        <li><a href="https://successstory.com/about-us">About</a></li>
-        <li><a href="https://successstory.com/contact-us">Contact</a></li>
-        <li><a href="https://successstory.com/disclaimer">Disclaimer</a></li>
-        <li><a href="https://successstory.com/privacy-policy">Privacy Policy</a></li>
-      </ul>
-      </div>
-      <div class="ftmd"><blockquote>"Experience is simply the name we give our mistakes." <span>- Oscar Wilde</span>
-        </blockquote>
-      </div>
-        
-      <div class="ftrt">
-        <div class="ftshare">
-          <span><a href="https://www.facebook.com/successstorydotcom?ref=tn_tnmn" class="glyph-fb" target="_blank"></a></span>
-          <span><a href="https://plus.google.com/u/0/b/109714974920133487997/109714974920133487997/posts" class="glyph-go" target="_blank"></a></span>
-          <!--<span><a href="#" class="glyph-in"></a></span>-->
-          <span><a href="https://twitter.com/SuccessStory6" class="glpyh-tw" target="_blank"></a></span>
-          <span><a href="https://www.pinterest.com/successfulquote/" class="glyph-pin" target="_blank"></a></span>
-        </div>
-        <div class="cont"><a href="https://successstory.com/become-author">Contribute to SuccessStory</a></div>
-      </div>
-    
-    </div>
   </div>
-        <div class="row ftbootom">
-        <div class="container">
-          <div class="col-md-3 col-sm-4 colwidth33">
-            Copyright © 2017 Successstory.com
-          </div>
-          <div class="col-md-3 col-sm-4 colwidth33 align">
-            <a href="http://www.blueberrylabs.com/"><span>Designed by <img src="https://successstory.com/assets/img/blueberry-logo.png" alt="blueberry logo" width="70px" height="25px"></span></a>
-          </div>
-          
-          <div class="col-md-3 col-sm-4 text-right colwidth33">
-          <!--  <span><img src="https://successstory.com/assets/img/ft-logo.png" width="51px" height = "21px"></span>-->
-<!--            <span style="padding-right:0px;"><img src="https://successstory.com/assets/img/ft-logo1.png" alt="ft logo" style="padding-right:0px;" width="59px" height = "22px"></span>-->
+</section>
+
+
+
+
             
-            
-          </div>
         </div>
     </div>
-  </footer>
-  <!--=== END Footer ===-->
-  <!-- *** jQuery and Bootstrap - Be careful to don't remove *** -->
-  <input type="hidden" value="https://successstory.com/" name="siteurl" id="siteurl">
-  <input type="hidden" name="hidd_tags_url" id="hidd_tags_url" value="https://successstory.com/tags/">
- <script src="https://successstory.com/assets/js/jquery.min.js" type="text/javascript"></script>
-  <!--<script src="js/validations.js" type="text/javascript"></script>
-   JS Theme Init -->
-  <!-- build:js -->
-  <script src="https://successstory.com/assets/dist_dev/app.js"></script>
-  
-  <!-- endbuild -->
-  <script>SS.app.init();</script>
-
-   
-<div id="example-content" style="display:none;">
-              <h2>Share This</h2>
-        <p> Experts share their Ideas, Success Tips
-
-and Secrets </p>
-
-        <ul>
-          <li><button onclick="javascript:void(window.open('http://pinterest.com/pin/create/button/?url=https://successstory.com/privacy-policy&amp;media=&amp;description=Fixed+WordPress+Social+Share+Buttons', 'Pinterest', 'width=650,height=500,scrollbars=yes'));" class="m_piterest"><i class="m_glyph-pinterest"></i><span>Pin it</span></button></li>
-           <li>
-        <button onclick="javascript:void(window.open('http://www.facebook.com/sharer/sharer.php?u=https://successstory.com/privacy-policy', 'Facebook', 'width=650,height=200,scrollbars=yes'));" class="m_facebook"><i class="m_glyph-facebook"></i><span>Share</span></button>
-        </li>
-          <li><button onclick="javascript:void(window.open('http://twitter.com/home?status=Fixed+WordPress+Social+Share+Buttons https://successstory.com/privacy-policy', 'Twitter', 'width=650,height=400,scrollbars=yes'));" class="m_twitter"><i class="m_glyph-twitter"></i><span>Twitt</span></button></li>
-          <li><button onclick="javascript:void(window.open('https://plusone.google.com/_/+1/confirm?url=https://successstory.com/privacy-policy', 'Plus One', 'width=650,height=200,scrollbars=yes'));" class="m_google"><i class="m_glyph-google"></i><span>Share</span></button></li>
-          <li>
-            <!--<button onclick="javascript:void(sharewhatsapp());" data-text="PHP Login Script using PDO" data-link="http://www.stepblogging.com/php-login-script-using-pdo/"  ><i class="whatsapp"></i>Share</button>-->
-
-            <button onclick="javascript:void(sharewhatsapp('https://successstory.com/privacy-policy'));" class="wup"><i class="glyph-wup"></i><span>Wats</span></button>
-
-            </li>
-
-
-         
+    <div class="empty-box"></div>
         
-        <!-- <button onclick="javascript:void(window.open('https://www.whatsapp.com/', 'Whatsup', 'width=650,height=500,scrollbars=yes'));" class="wup"><i class="glyph-wup"></i><span>Wats</span></button> -->
-            </ul>
-        
+        <div class="empty-box"></div>
+    <footer>
+        <div class="container">
+            <div class="footer-top">
+                <ul class="static-links">
+                    <li><a href="https://successstory.com/about-us">About</a></li>
+                    <li><a href="https://successstory.com/contact-us">Contact</a></li>
+                    <li><a href="https://successstory.com/disclaimer">Disclaimer</a></li>
+                    <li><a href="https://successstory.com/privacy-policy">Privacy Policy</a></li>
+                </ul>
+                <a href="https://successstory.com/become-author" class="contribute">Contribute To SuccessStory</a>
+            </div>
+            <div class="copyrights">
+                <span>©2018SuccessStory.com</span>
+                <span class="all-rights">All Rights Reserved</span>
+            </div>
         </div>
-
-<!-- CODE ADDING ON 22/07/2015 ##################################### -->
-
-<script type="text/javascript">
-$('.menu_mask_div').click(function(){
-  $('.menu_mask_div').removeClass('menu_mask_div_active');
-$('body').removeClass('menu_open');
-$('.main-navbar-content').removeClass('wrap');
-});
-
-$( ".top-nav-ss" ).click(function() {  
-$('.menu_mask_div').addClass('menu_mask_div_active');
-$('body').addClass('menu_open');
-$('.main-navbar-content').addClass('wrap');
-});
-
- $(".search-icon").click(function(){  
-    $(".search-cont").slideToggle();
-    // $(".header_ad_responsive").removeClass('add-topads');
-    // $("#main-navbar").removeClass('header-white-bg').addClass("header-grey");
-     $(".search-icon").addClass('active');
-    setTimeout(function(){
-      $("#searchTag").focus();
-    }, 250);
-
-  }); 
- $(".search-cls").click(function(){
-   $(".search-icon").removeClass('active');
- });
-//####################### on hover displaying the share icons ############################
-$(".hover-share-div img").mouseenter(function(){
-    var dt = $(this).attr("src");
-      $(".imagefacebookshare").attr("name",dt);
-      $("#twittershate").attr("name",dt);
-      $(".pinterestshare").attr("name",dt);
-    var linkurl='';
-});
-//####################### on hover displaying the share icons ############################
-var linkurl='';
-linkurl = linkurl.replace('www.successstory.com', 'successstory.com');
-//####################### IMAGE SHARING IN FACE BOOK ##################################
-$(".imagefacebookshare").click(function(){ 
-  var linkimg = $(this).attr("name");
-  var pagetitle = $(document).find("title").text();
-  window.open('https://www.facebook.com/dialog/feed?app_id=844835342273698%20&link='+linkurl+'&redirect_uri='+linkurl+'&picture='+linkimg+'&name='+pagetitle+'&caption=www.successstory.com', 'Facebook', 'width=650,height=500,scrollbars=yes');
-});
-//################# PINTEREST SHARING ####################################################
-$(".piterest").click(function(){
-  var linkimg = $(this).attr("name");
- var pagetitle = $(document).find("title").text();
- window.open('https://www.pinterest.com/join/?next=/pin/create/button/%3Furl='+linkurl+'&media='+linkimg+'&description='+pagetitle, 'Pinterest', 'width=650,height=500,scrollbars=yes');
-});
-//################# share links code ###########################
-$(".email_shareicon,.mob-mail").click(function(){
-   window.open('https://mail.google.com/mail/?view=cm&fs=1&tf=1', "", "width=800, height=600");
-
-});
-$(".sub-tw-icon-ss,.mob-twitter").click(function(){
-  var currenturl = window.location.href;
-  var title = "";
-title = title.replace('|', '');
-window.open('https://twitter.com/intent/tweet?url='+currenturl+'&text='+title+'&via=Successstory.com', 'Twitter', 'width=650,height=400,scrollbars=yes');
-});
-$(".sub-gplus-icon-ss,.mob-gplus").click(function(){
-  var currenturl = window.location.href;
-  var title = document.getElementsByTagName("title")[0].innerHTML;
-  window.open('https://plusone.google.com/_/+1/confirm?url='+currenturl+' ', 'Plus One', 'width=650,height=200,scrollbars=yes');  
-});
-$(".sub-pin-icon-ss,.mob-pintrest").click(function(){
-  var currenturl = window.location.href;
-  var title = document.getElementsByTagName("title")[0].innerHTML;
-  window.open('http://pinterest.com/pin/create/button/?url='+currenturl+'&amp;media=&amp;description='+title+' ', 'Pinterest', 'width=650,height=500,scrollbars=yes'); 
-   
-});
-$(".sub-linkin-icon-ss").click(function(){
-  var currenturl = window.location.href;
-  var title = document.getElementsByTagName("title")[0].innerHTML;
-  window.open('http://www.linkedin.com/shareArticle?mini=true&url= '+currenturl+'&title='+title+'&source=successstory.com');  
-});
-$(".fb-icon-ss,.mob-facebook").click(function(){
-  var currenturl = window.location.href;
-  var title = document.getElementsByTagName("title")[0].innerHTML;
-  window.open('http://www.facebook.com/sharer/sharer.php?u='+currenturl+' ', 'Facebook', 'width=650,height=200,scrollbars=yes');  
-});
-$(".mob-whatsup").click(function(){
-  var currenturl = window.location.href;
-  var title = document.getElementsByTagName("title")[0].innerHTML;
-  window.open('whatsapp://send?text='+title+' - '+currenturl+'');  
-});
-//################# mobile social media code ###########################
-$(".mobile-social-media-button").click(function(){
-  $(".mobile-social-media-icons").slideToggle();
-  $(".mobile-social-media-button").toggleClass("clos-btn");      
-});
-
-</script>
-
-  <div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.3&appId=1701390533464198";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-<!--No Follow Link -->
-<script type="text/javascript">
-//############################# MAKING ALL EXTERNAL LINKS AS NO FOLLOW START HERE ##############################
-jQuery('a').each(function() {
-var href = jQuery(this).attr('href');
-if (typeof href != 'undefined' && href != "" && (href.indexOf('http://') != -1 ||
-href.indexOf('https://') != -1) && href.indexOf(window.location.hostname) == -1 && href.indexOf('successstory') == -1) {
-jQuery(this).attr("rel", "nofollow");
-}
-});
-//############################# MAKING ALL EXTERNAL LINKS AS NO FOLLOW END HERE  ##############################
-
-//############################# WRITING ALT TEXT FOR ALL IMAGES  ##############################
-jQuery('img').each(function() {
-  var imgpat = jQuery(this).attr('src');
-  imgpat = imgpat.split('/');
-  var imgpatlen = imgpat.length;
-  var onlyimgpath = imgpat[imgpatlen-1];
-  var imagenamear = onlyimgpath.split('_');
-  var imgpatnamelen = imagenamear.length;
-  var imagename = imagenamear[0];
-  imagename = imagename.replace(/\-/g, ' ');
-  imagename = imagename.replace('.jpg','');
-  imagename = imagename.replace('.jpeg', '');
-  imagename = imagename.replace('.png', '');
-  imagename = imagename.replace('.gif', '');
-  jQuery(this).attr("alt", imagename);
-});
-//############################# WRITING ALT TEXT FOR ALL IMAGES  ##############################
-$(".pic-close").click(function(e){
-  e.preventDefault();
-  var siteurl = $('#siteurl').val();
-  var post_id = $(this).attr('name');      
-  jQuery.ajax({
-      type: "POST",
-      url: siteurl+"Ajax/ajx_delete_author_posts.php",
-      data:{post_id : post_id },
-        success: function(data)
-        {                                         
-          location = siteurl+'author_drafted_articles.php';
-        }
-    });
-
-});
-</script>
-<script src="https://successstory.com/assets/dist_dev/modal.js"></script>
-  <script>
-    $(function()
-    {
-      // Create a modal instance.
-      var $m = $('body').modal(),
-          // Access an instance API
-          api = $m.data('modal');
-      // Bind a click event to copy a hidden elements content into the modal window
-      $(document).on('click', '.js-open', function()
-      {
-        api.open( document.getElementById('example-content').innerHTML );
-      });
-    });
-  </script>
-<script type="text/javascript">
-  function downloadJSAtOnload() {
-  var element = document.createElement("script");
-  element.src = "https://successstory.com/js/validations.js";
-  document.body.appendChild(element);
-  }
-  if (window.addEventListener)
-  window.addEventListener("load", downloadJSAtOnload, false);
-  else if (window.attachEvent)
-  window.attachEvent("onload", downloadJSAtOnload);
-  else window.onload = downloadJSAtOnload;
-
-var popup_status = 'not_open';
-var daysubsclosed1 = getCookie('subscribeclose');
-  $(document).mousemove(function(e) {
-    if(parseInt(e.pageY)-parseInt($(window).scrollTop()) < 10 && popup_status == 'not_open' && daysubsclosed1 != 'closed')
-    { 
-      popup_status = 'opened';
-      $(".autopopupshow").trigger('click');
-    }
-  });
-
-var delay = 20000; 
-var daysubsclosed = '';// getCookie('subscribeclose');
-  setTimeout(function(){
-        
-      if (daysubsclosed != 'closed' && $(window).width > 640 )
-      $(".autopopupshow").trigger('click');
-       }, delay);
-
-
-function getCookie(cname) {
+    </footer>
+    <script type="text/javascript">
+    var daysubsclosed1 = getCookie('subscribeclose');
+    function getCookie(cname) {
     var name = cname + "=";
     var ca = document.cookie.split(';');
     for(var i = 0; i <ca.length; i++) {
@@ -708,60 +336,13 @@ function getCookie(cname) {
         }
     }
     return "";
-}
+    }
+    </script>
+            <script type="text/javascript" src="https://images.successstory.com/js/jquery-1.10.2.min.js" defer="" onload=""></script>
+        
+<!--         <script type="text/javascript" src="https://successstory.com/js/home.min.js" defer onload=''></script>
+ -->
+        <script type="text/javascript" src="https://images.successstory.com/js/home.min.js" defer="" onload=""></script>
+          
 
-
-</script>
- 
-  <input type="hidden" class="autopopupshow" data-toggle="modal" data-target="#subscribe-blue-modal">
-  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1083aae873","applicationID":"51401072","transactionName":"ZAMGbENRCBJXARIPCV1JMUpYHxYTXxQHBR9sFgtUWFMfT0YKFg==","queueTime":0,"applicationTime":11,"atts":"SEQFGgtLGxw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
-
-
-<!--=== Subscribe popup ===-->
-<div id="subscribe-blue-modal" class="modal fade bs-example-modal-lg top-pad" tabindex="-1" role="dialog" aria-hidden="true">
-  <div class="modal-dialog modal-lg panel-join-blue">
- 
-    <div class="modal-content square">
-  <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true"><img src="https://successstory.com/content/popup-close.png" alt="close" width="15px" height="15px"></span></button>
-          <div class="modal-title">
-            <span class="logo"><img src="https://successstory.com/content/popup-logo.png" alt="logo" width="321px" height="38px"></span>
-            <h2>Want to be Successful?</h2>
-            
-          </div>
-          <div class="modal-body">
-             <span class="lg">Learn <strong>SECRETS</strong> from People Who Already Made it</span>
-      <h3>Be A Part of Success Community</h3>
-      
-            <div id="warningsubscribemess_popup" style="display:none;color:red;"></div>
-            <div id="successmessage_popup" style="display:none;color:Blue;"></div>
-            <form class="form-grey sub_popup_sub_close">
-              <div class="form-group newpopform">
-                <input type="hidden" id="siteurl_popup" value="https://successstory.com/">
-                <input type="email" class="" id="useremail_popup" name="useremail_popup" placeholder="Enter your Email ID" required="">
-               
-              </div>
-              <input type="submit" class="btn btn-block btn-brown bluebuton" id="subscriptionpopup" value="I Want to be Successful">
-            </form>
-             
-     <!-- <h4>No Thanks<span class="thanks">, Am not interested in success</span></h4> -->
-     <button type="button" class="textsave" data-dismiss="modal" aria-label="Close"><h4>No Thanks<span class="thanks">, Am not interested in success</span></h4></button>
-          </div><!-- /modal-body -->
-  <h2 id="subpopupresp" style="display:none;"> </h2>
-         
-    </div><!-- /modal-content -->
-  </div><!-- /modal-dialog -->
-</div><!-- /modal -->
-<!--=== END Newsletter Subscription popup ===-->
-<script type="text/javascript">
-  $(".close").click(function(){
-  setCookie('subscribeclose', 'closed', 1)
-});
-
-  function setCookie(cname, cvalue, exdays) {
-    var d = new Date();
-    d.setTime(d.getTime() + (exdays*24*60*60*1000));
-    var expires = "expires="+ d.toUTCString();
-    document.cookie = cname + "=" + cvalue + "; " + expires +"; path=/";
-}
-</script>
-</div><script src="https://successstory.com/js/validations.js"></script></body></html>
+<!-- created on 2018-07-19 21:06:46 --></body></html>
