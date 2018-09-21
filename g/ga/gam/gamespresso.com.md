@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gamespresso.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622133223id_/http%3A//www.gamespresso.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamespresso.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921042127id_/https%3A//www.gamespresso.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gamespresso
 
-This Privacy Policy governs the manner in which Gamespresso collects, uses, maintains and discloses information collected from users (each, a “User”) of the [gamespresso.com](http://fb3.a27.myftpupload.com/privacy-policy/www.gamespresso.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Gamespresso.
+This Privacy Policy governs the manner in which Gamespresso collects, uses, maintains and discloses information collected from users (each, a “User”) of the [gamespresso.com](https://fb3.a27.myftpupload.com/privacy-policy/www.gamespresso.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Gamespresso.
 
 **Personal identification information**
 
@@ -53,7 +53,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 **Google Adsense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <https://www.google.com/privacy_ads.html>
 
 **Changes to this privacy policy**
 
@@ -65,4 +65,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please use our [contact us](http://www.gamespresso.com/contact-us/) page.
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please use our [contact us](https://www.gamespresso.com/contact-us/) page.
