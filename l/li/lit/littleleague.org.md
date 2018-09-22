@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the littleleague.org privacy policy that was archived on 2018-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180118011541id_/https%3A//www.littleleague.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littleleague.org privacy policy that was archived on 2018-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180922204947id_/https%3A//www.littleleague.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Little League
 
 The Little League® Privacy Policy has been written to answer questions you might have about our information and privacy practices. As a youth organization we are very concerned about privacy. Therefore, we have taken measures to tailor our content and offerings to help protect the privacy of players, parents/guardians, volunteers and coaches/managers. This Privacy Policy applies to information collected on Little League International authored websites such as [LittleLeague.org](https://www.littleleague.org/); [LittleLeaguestore.net](http://www.littleleaguestore.net/?utm_source=ll.org%20privacy%20policy%20page&utm_medium=LL.org%20Link&utm_content=LL.org%20Privacy%20Policy%20Page); [videos.LittleLeague.org](http://videos.littleleague.org/?utm_source=ll.org%20privacy%20policy%20page&utm_medium=Videos%20Link&utm_content=LL.org%20Privacy%20Policy%20Page); [LittleLeagueU.org](http://www.littleleagueu.org/?utm_source=ll.org%20privacy%20policy%20page&utm_medium=LLU%20Link&utm_content=LL.org%20Privacy%20Policy%20Page); and other affiliated websites and our official pages on [Facebook](http://www.facebook.com/littleleague), [Twitter](http://www.twitter.com/littleleague), Snapchat, [YouTube](http://www.youtube.com/littleleague), [Instagram](http://www.instagram.com/littleleague) or other social media (the “Sites”) as well as information received from other sources such as charter enrollment and player registration data and volunteer data reporting.
 
 **This policy was last updated on December 7, 2017.**
-
-DOWNLOAD File size: 120 KB Privacy Policy  .pdf 
-
-[ Download ](https://ll-production-uploads.s3.amazonaws.com/uploads/2017/12/privacy-policy.pdf)
 
 ### Advice to Children and Parents
 
@@ -75,7 +71,7 @@ Little League International has implemented reasonable physical, electronic, and
 
 ### Questions or Concerns
 
-This policy was last updated on March 14, 2017. If you have any questions, comments, or concerns regarding the Little League International Privacy Policy, please contact us at [privacy@LittleLeague.org](mailto:privacy@LittleLeague.org).
+This policy was last updated on December 7, 2017. If you have any questions, comments, or concerns regarding the Little League International Privacy Policy, please contact us at [privacy@LittleLeague.org](mailto:privacy@LittleLeague.org).
 
 ### Local Leagues – Include Opt-In to Privacy Policy During Registration
 
