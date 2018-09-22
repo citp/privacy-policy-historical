@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostadvice.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001032125id_/https%3A//hostadvice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostadvice.com privacy policy that was archived on 2018-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180922153441id_/https%3A//hostadvice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HostAdvice
 
