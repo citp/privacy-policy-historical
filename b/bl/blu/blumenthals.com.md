@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blumenthals.com privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325055857id_/http%3A//blumenthals.com/images/upload/Privacy%2520Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blumenthals.com privacy policy that was archived on 2018-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180922065156id_/http%3A//blumenthals.com/images/upload/Privacy%2520Policy.pdf) for the most accurate reproduction.*
 
 # 1. Personally Identifiable Information:
 
