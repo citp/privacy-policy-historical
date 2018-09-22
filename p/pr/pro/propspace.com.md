@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propspace.com privacy policy that was archived on 2017-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170319141633id_/https%3A//www.propspace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propspace.com privacy policy that was archived on 2018-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180922072226id_/https%3A//www.propspace.com/privacy-policy) for the most accurate reproduction.*
 
 # Global Real Estate Software - the definitive CRM software - PropSpace - PropSpace Real Estate CRM
 
