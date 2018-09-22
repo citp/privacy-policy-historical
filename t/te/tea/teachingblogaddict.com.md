@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachingblogaddict.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524091148id_/http%3A//www.teachjunkie.com/site-portfolio/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachingblogaddict.com privacy policy that was archived on 2018-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180922085914id_/https%3A//www.teachjunkie.com/site-portfolio/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Teach Junkie
 
