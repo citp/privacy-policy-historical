@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airlinequality.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603053553id_/http%3A//www.airlinequality.com/info/cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airlinequality.com privacy policy that was archived on 2018-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180922024524id_/http%3A//www.airlinequality.com/info/cookies) for the most accurate reproduction.*
 
 # Read about our Privacy and Cookies policy | SKYTRAX
 
@@ -96,7 +96,7 @@ To stop receiving Skytrax’s promotional offers and alerts, please click the �
 
 You have the right to:
 
-  * Access all personal information supplied to Skytrax and held by us in order to rectify any inaccuracies on the information held. Further enquiries should be sent by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d8b1b6beb798b9b1aab4b1b6bda9adb9b4b1aca1f6bbb7b5) or by post to 85 Great Portland Street, London W1W 7LT;
+  * Access all personal information supplied to Skytrax and held by us in order to rectify any inaccuracies on the information held. Further enquiries should be sent by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9bf2f5fdf4dbfaf2e9f7f2f5feeaeefaf7f2efe2b5f8f4f6) or by post to 85 Great Portland Street, London W1W 7LT;
   * Request the erasure of your personal data or to object to the processing of your data;
   * Request that your personal data be ported to you or a new provider if the data is processed automatically;
   * Lodge a complaint with a supervisory authority. For details of our complaint procedure, please see our Terms of Use available on our Website;
@@ -130,4 +130,4 @@ By using Skytrax, you consent to the practices described in this Privacy Notice.
 
 #### 8\. CONTACT
 
-Questions, comments and requests regarding this Notice are welcomed and should be sent by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f990979f96b998908b9590979c888c9895908d80d79a9694) or by post to 85 Great Portland Street, London W1W 7LT.
+Questions, comments and requests regarding this Notice are welcomed and should be sent by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8ce5e2eae3ccede5fee0e5e2e9fdf9ede0e5f8f5a2efe3e1) or by post to 85 Great Portland Street, London W1W 7LT.
