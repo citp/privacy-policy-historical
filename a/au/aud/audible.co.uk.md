@@ -1,137 +1,228 @@
-> *The following text is extracted and transformed from the audible.co.uk privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231109id_/http%3A//www.audible.co.uk/privacy-policy/ref%3Dmn_anon-h_f6_pn) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audible.co.uk privacy policy that was archived on 2018-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180922111743id_/https%3A//www.audible.co.uk/legal-terms/privacy-policy/ref%3Dmn_anon-h_f6_pn%3FmoduleId%3D201648650) for the most accurate reproduction.*
 
-# Audible.co.uk Privacy Notice | Audible.co.uk
+# Audible UK | Stories That Speak to You | Audible.co.uk
 
-Last updated: 1st November, 2016
+_Last updated: 23 rd May, 2018._
 
-Audible.co.uk knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes the privacy policy of Audible.co.uk. **By visiting Audible.co.uk, you are accepting and consenting to the practices described in this Privacy Notice.**
+We know that you care how information about you is used and shared, and we appreciate your trust in us to do that carefully and sensibly. This Privacy Notice describes how we collect and process your personal information through Audible websites, services, and applications that reference this Privacy Notice (together “Audible Services”).
 
-Any personal information provided to or gathered by Audible.co.uk is controlled Audible Ltd of 26-28 Glasshouse Yard, London EC1A 4JU, United Kingdom .
+Table of Contents
 
-Audible, Inc is a subsidiary of Amazon.com, Inc. Amazon.com, Inc. participates in the EU-US Privacy Shield framework. Click here to learn more.
+## Controllers of Personal Information
 
-Back to Top
+Audible GmbH of Schumannstr. 6, 10117 Berlin and Audible Limited of 26-28 Glasshouse Yard, London EC1A 4JU (together “Audible Europe”) are data controllers of personal information collected and processed through Audible Services. Details can be found here.
 
-### What Personal Information About Customers Does Audible.co.uk Gather? 
+## EU-US and Swiss-US Privacy Shield
 
-The information we learn from customers helps us personalise and continually improve your shopping experience at Audible.co.uk. We use the information to handle orders, deliver products and services, process payments, communicate with you about orders, products, services and promotional offers, update our records and generally maintain your accounts with us, display content such as wish lists and customer reviews and recommend merchandise and services that might be of interest to you. We also use this information to improve our store and platform, prevent or detect fraud or abuses of our website and enable third parties to carry out technical, logistical or other functions on our behalf.
+Audible, Inc. participates in the EU-US and Swiss-US Privacy Shield frameworks. Click here to learn more.
 
-Here are the types of information we gather
+## What Personal Information About Customers Does Audible Europe Collect?
 
-  1. **Information You Give Us:** We receive and store any information you enter on our Web site or give us in any other way. Click here to see examples of what we collect  . You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customising future shopping for you, improving our stores, and communicating with you. 
-  2. **Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies" and we obtain certain types of information when your Web browser accesses Audible.co.uk or advertisements and other content served by or on behalf of Audible.co.uk on other Web sites. Click here to see examples of the information we receive. 
-  3. **E-mail Communications:** To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Audible.co.uk if your computer supports such capabilities. We also compare our customer list to lists received from other companies in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your Contact Preferences.
-  4. **Mobile:** When you download or use apps created by Amazon or our subsidiaries, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as advertising, search results, and other personalized content. Most mobile devices allow you to turn off location services. For more information about how to do this, click [here](https://www.amazon.co.uk/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=502584#GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_22160257376047E78334D565CD73852D). 
-  5. **Information from Other Sources:** We might receive information about you from other sources and add it to our account information. Click here to see examples of the information we receive.
+We collect your personal information in order to provide and continually improve our products and services.
 
+Here are the types of information we gather:
 
-
-Back to Top
-
-### What About Cookies? 
-
-  1. Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognise your browser and to store items in your Shopping Basket between visits. 
-  2. The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. However, because cookies allow you to take advantage of some of Audible.co.uk's essential features, we recommend that you leave them turned on. 
-
-If you do leave cookies turned on, be sure to sign off when you finish using a shared computer.
-
-
-
+* Information You Give Us: we receive and store any information you provide in relation to Audible Services. Click here to see examples of what we collect. You can choose not to provide certain information but then you might not be able to take advantage of certain of the Audible Services.
+* Automatic Information: we automatically receive and store certain types of information when you use Audible Services, such as information about your use and your interaction with content and services available through Audible Services. Like many websites, we use “cookies” and other unique identifiers, and we obtain certain types of information when your web browser or device accesses Audible Services and other content served by or on behalf of Audible Europe on other websites. Click here to see examples of what we collect.
+* Information From Other Sources: we might receive information about you from other sources. Click here to see examples of the information we receive.
 
 Back to Top
 
-### Does Audible.co.uk Share the Information It Receives? 
+## For What Purposes does Audible Europe Process Your Personal Information?
 
-Information about our customers is an important part of our business, and we are not in the business of selling it to others. Audible.co.uk share customer information only as described below, with Audible Inc. and with Audible Inc.'s parent company Amazon.com, Inc. and the subsidiaries which Amazon.com, Inc., controls controls and that are either subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice.
+**_We process your personal information to operate, provide, and improve the Audible Services that we offer to our customers. These purposes include:_**
 
-  1. **Third-Party Service Providers:** We employ other companies and individuals to perform functions on our behalf. Examples include sending postal mail and e-mail, removing repetitive information from customer lists, analysing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. Further, they must process the personal information in accordance with this Privacy Notice and as permitted by the UK's Data Protection Act. 
-  2. **Business Transfers:** As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the event that Audible, Inc., or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. 
-  3. **Protection of Audible.co.uk and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our [Conditions of Use](https://web.archive.org/conditions-of-use) and other agreements; or protect the rights, property, or safety of Audible.co.uk, our users, or others. This includes exchanging information with other companies and organisations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in a way that is contrary to the commitments made in this Privacy Notice.
-  4. **With Your Consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information. 
-
-Whenever we transfer personal information to countries outside of the European Economic Area in the course of sharing information as set out above, we will ensure that the information is transferred in accordance with this Privacy Notice and as permitted by the applicable laws on data protection.
-
-
-
-
-Back to Top
-
-### How Secure Is Information About Me? 
-
-  1. We work to protect the security of your credit card information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.
-  2. We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
-  3. We maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of personally identifiable customer information. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you.
-  4. It is important for you to protect against unauthorised access to your password and to your computer. Be sure to sign off when finished using a shared computer. 
-
-
+* **Purchase and delivery of products and services.** We use your personal information to take and handle orders, deliver products and services, process payments, and communicate with you about orders, products, services, and promotional offers.
+* **Provide, troubleshoot, and improve Audible Services.** We use your personal information to provide functionality, analyse performance, fix errors, and improve usability and effectiveness of the Audible Services.
+* **Recommendations and personalisation.** We use your personal information to recommend content, features, products and services that might be of interest to you, identify your preferences, and personalise your experience with Audible Services.
+* **Comply with legal obligations.** In certain cases, we have a legal obligation to collect and process your personal information.
+* **Communicate with you.** We use your personal information to communicate with you in relation to Audible Services via different channels (e.g., by phone, email, chat).
+* **Advertising.** We use your personal information to display interest-based ads for features, products, and services that might be of interest to you. To learn more, please read our [Interest-based Ads Notice](https://www.audible.co.uk/ep/interestbasedads).
+* **Fraud Prevention and Credit Risks.** We process personal information to prevent and detect fraud and abuse in order to protect the security of our customers, Audible Europe, and others. We may also use scoring methods to assess and manage credit risks.
+* **Purposes for which we seek your consent.** We may also ask for your consent to process your personal information for a specific purpose that we communicate to you. When you consent to our processing your personal information for a specified purpose, you may withdraw your consent at any time and we will stop processing of your data for that purpose.
 
 Back to Top
 
-### What About Third-Party Advertisers and Links to Other Websites? 
+## What About Cookies?
 
-Our site may include third-party advertising and links to other Web sites. We do not provide any personally identifiable customer information to these third-party Web sites.
-
-These third-party websites, or Internet advertising companies working on their behalf, sometimes use technology to send (or "serve") advertisements directly to your browser. They may automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize advertising content. We do not have access to or control over cookies or other features that they may use, and the information practices of these third-party Web sites are not covered by this Privacy Notice. Please contact them directly for more information about their privacy practices. In addition, the [Network Advertising Initiative](http://www.networkadvertising.org/) offers useful information about Internet advertising companies (also called "ad networks" or "network advertisers"), including information about how to opt-out of their information collection.
+To enable our systems to recognise your browser or device and to provide Audible Services to you, we use cookies. For more information about cookies and how we use them, please read our [Cookies Notice](https://www.audible.co.uk/legal-terms/cookieandinternet/ref=mn_anon-h_f6_ca?moduleId=201654420).
 
 Back to Top
 
-### What Information Can I Access? 
+## Does Audible Europe Share Your Personal Information?
 
-Audible.co.uk gives you access to a broad range of information about your account and your interactions with Audible.co.uk for the limited purpose of viewing and, in certain cases, updating that information. Click here to see some examples . This list will change as our website evolves.
+Information about our customers is an important part of our business and we are not in the business of selling our customers’ personal information to others. Audible Europe shares customers’ personal information only as described below and with Amazon.com, Inc. and the subsidiaries that Amazon.com, Inc. controls that are either subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice.
 
-Back to Top
-
-### What Choices Do I Have? 
-
-  1. As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such Audible.co.uk features as special sales and promotions, Customer Reviews or Recommendations. You can add or update certain information on pages such as those referenced in the "Which Information Can I Access?" section. When you update information, we usually keep a copy of the previous version for our records. 
-  2. If you do not want to receive e-mail or other mail from us, please adjust your Contact Preferences. (If you do not want to receive Conditions of Use and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of Audible.co.uk and orders placed with Audible.co.uk, and it is your responsibility to review them for changes.)
-  3. The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. However, because cookies allow you to take advantage of some of Audible.co.uk's essential features, we recommend that you leave them turned on. These essential features include access to your membership plan, your credits, My Library and personalised recommendations.
+  * **Third Party Service Providers:** We employ other companies and individuals to perform functions on our behalf. Examples include sending postal mail and e-mail, removing repetitive information from customer lists, analysing data, providing marketing assistance, providing search results and links (including paid listings and links), processing payments, transmitting content, scoring credit risk, and providing customer service. These third party service providers have access to personal information needed to perform their functions, but may not use it for other purposes. Further, they must process the personal information in accordance with this Privacy Notice and as permitted by applicable data protection laws. 
+  * **Business Transfers:** As we continue to develop our business, we might sell or buy other businesses or services. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that Amazon.com, Inc. (Audible Europe’s ultimate parent company) or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
+  * **Protection of Audible Europe and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of Audible Europe, our users, or others. This includes exchanging information with other companies and organisations for fraud protection and credit risk reduction.
 
 
 
-Back to Top
+Other than as set out above, you will receive notice when personal information about you might be shared with third parties and you will have an opportunity to choose not to share the information.
 
-### Are Children Allowed to Use Audible.co.uk? 
+**Transfers out of the European Economic Area**
 
-Audible.co.uk does not sell products to children. We sell children's products for purchase by adults. If you are under 18, you may use Audible.co.uk only with the involvement of a parent or guardian.
+Whenever we transfer personal information to countries outside of the European Economic Area, we will ensure that the information is transferred in accordance with this Privacy Notice and as permitted by the applicable laws on data protection.
 
 Back to Top
 
-### Conditions of Use, Notices, and Revisions 
+## How Secure is Information About Me?
 
-If you choose to visit Audible.co.uk, your visit and any dispute over privacy is subject to this Privacy Notice and to our [Conditions of Use](https://web.archive.org/conditions-of-use), including limitations on damages, resolution of disputes, and choice of law. If you have any concern about privacy at Audible.co.uk, please [contact us](http://beta.audible.co.uk/email-help) with a thorough description, and we will try to resolve the issue for you. Our business changes constantly, and our Privacy Notice and our Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our website frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account from 4thMay 2011 or prior to that date if you agree to the Privacy Notice upon transitioning your sign-in credentials to Amazon or in any other way. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
+We design our systems and devices with your security and privacy in mind. 
+
+* We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.
+* We follow the Payment Card Industry Data Security Standard (PCI DSS) when handling credit card data. 
+* We maintain physical, electronic, and procedural safeguards in connection with the collection, storage, and disclosure of personal customer information. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you.
+* It is important for you to protect against unauthorised access to your password and to your computers, devices, and applications. Be sure to sign out when you finish using a shared computer. Click on the “Hi, [your name]” drop-down menu and click “Sign Out”.
 
 Back to Top
 
-### Examples of Information Collected
+## What About Third-Party Advertisers and Links to Other Websites?
 
-**Information You Give Us**
+Audible Services may include links to other websites and apps, which may collect information about you when you interact with their content, advertising, and services. To learn more, see our [Interest-based Ads Notice](https://www.audible.co.uk/ep/interestbasedads).
 
-You provide most such information when you search, buy, participate in a contest or questionnaire or communicate with customer service. For example, you provide information when you: search for a product; place an order through Audible.co.uk; provide information in My Account; communicate with us by phone, e-mail or otherwise; complete a questionnaire or a contest entry form; compile Wish Lists, provide and rate Reviews; and share products with friends. As a result of those actions, you might supply us with such information as: your name; address and phone numbers; credit card information; people to whom purchases have been shipped (including addresses and phone numbers); email addresses of Friends and other people; and content of reviews and e-mails to us. 
+Back to Top
 
-**Automatic Information**
+## What Information Can I Access?
 
-Examples of the information we collect and analyse include: the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type, version and time zone setting; operating system and platform; purchase history, which we sometimes aggregate with similar information from other customers to create features such as Best Sellers; the full Uniform Resource Locators (URL) clickstream to, through and from our website (including date and time); cookie number; products you viewed or searched for; and any phone number used to call our customer service number. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our website for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. 
+You can access your information, including your name, payment options, membership information, and purchase history in the [Your Account](https://www.audible.co.uk/account) section of the Audible websites. Click [here](https://www.audible.co.uk/ep/privacyfaq) for information on how to access your personal information.
 
-**Information From Other Sources**
+Back to Top
 
-Examples of information we receive from other sources include demographic information. 
+## What Choices Do I Have?
 
-**Information You Can Access**
+If you have any questions or objections as to how we collect and process your personal information, please contact our [Customer Service team](https://audible.co.uk/contactus).
 
-Examples of information you can access easily at Audible.co.uk include: up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, communications preferences, shipping and billing addresses); credit card information; and your Wish List. Other Audible-specific information that can be accessed includes your Membership/Account details, Your Content Library (My Library), Your Past Reviews and Ratings, and Your Download Preferences. 
+* As discussed above, you can choose not to provide certain information but then you might not be able to take advantage of many of the Audible Services.
+* You can add or update certain information on pages such as those referenced in our [Audible Privacy Help Page](https://www.audible.co.uk/ep/privacyfaq). When you update information, we usually keep a copy of the previous version for our records.
+* If you don't want to receive e-mail communication from us, please adjust your Email Preferences under “Your Account" > “Email Preferences”. If you don’t want to receive in-app notifications from us, please adjust your notification settings in the app or your device.
+* If you don't want us to use your personal information to deliver interest-based ads to you, please adjust your settings in our [Interest-based Ads Notice](https://www.audible.co.uk/ep/interestbasedads).
+* The Help feature on most browsers and devices will tell you how to prevent your browser or device from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Because cookies allow you to take advantage of some essential Audible Services, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Basket, proceed to Checkout, or use any Audible Services that require you to sign in. For more information about cookies, see our [Cookies Notice](https://www.audible.co.uk/legal-terms/cookieandinternet/ref=mn_anon-h_f6_ca?moduleId=201654420).
+* If you want to browse our websites anonymously, you may do so by signing out of your account (click on the “Hi, [your name]” drop-down menu and click “Sign Out”) and disabling cookies on your browser.
+* When you consent to our processing your personal information for a specified purpose, you may withdraw your consent at any time and we will stop any further processing of your data for that purpose.
 
-**EU-US Privacy Shield**
+In addition, subject to applicable law, you have the right to request access to, correct, and delete your personal data, and to ask for data portability. You may also object to our processing of your personal data or ask that we restrict the processing of your personal data in certain instances. If you wish to do any of these things, please contact [Audible Customer Service](https://audible.co.uk/contactus).
 
-Amazon.com, Inc. and certain of its controlled US affiliates (together, the Amazon Group Companies, or “We”) participate in the EU-US Privacy Shield Framework regarding the collection, use, and retention of personal information from European Union member countries. We have certified with the Department of Commerce that we adhere to the Privacy Shield Principles. To learn more about the Privacy Shield Principles, click [here](https://www.commerce.gov/tags/eu-us-privacy-shield). If you have any inquiries or complaints about our handling of your personal data under Privacy Shield, or about our privacy practices generally, please contact us at: **privacyshield@amazon.com**. We will respond to your inquiry promptly. If we are unable to satisfactorily resolve any complaint relating to the Privacy Shield, or if we fail to acknowledge your complaint in a timely fashion, you can submit your complaint to TRUSTe, which provides an independent third-party dispute resolution service based in the United States. TRUSTe has committed to respond to complaints and to provide appropriate recourse at no cost to you. To learn more about TRUSTe’s dispute resolution services or to refer a complaint to TRUSTe, visit [here](https://www.truste.com/consumer-resources/). If neither Amazon nor TRUSTe resolves your complaint, you may pursue binding arbitration through the Privacy Shield Panel. To learn more about the Privacy Shield Panel, click [here](https://www.commerce.gov/tags/eu-us-privacy-shield). As explained [here](http://www.audible.co.uk/legal-terms/privacy-policy/ref=mn_anon-h_f6_pn?moduleId=201648650#q3) we sometimes provide personal information to third parties to perform services on our behalf. If we transfer personal information received under the Privacy Shield to a third party, the third party’s access, use, and disclosure of the personal data must also be in compliance with our Privacy Shield obligations, and we will remain liable under the Privacy Shield for any failure to do so by the third party unless we prove we are not responsible for the event giving rise to the damage. You can review our Privacy Shield registration [here](https://www.privacyshield.gov/participant?id=a2zt0000000TOWQAA4). The Amazon Group Companies are subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). We may be required to disclose personal information that we handle under the Privacy Shield in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
+Back to Top
 
-**AMAZON GROUP COMPANIES**
+## Are Children Allowed to Use Audible Services?
 
-As of September 30, 2016, the following entities are included in Amazon.com, Inc.’s Privacy Shield Certification: 
+Audible Europe doesn't sell products for purchase by children. We do sell children's products for purchase by adults. If you're under 18, you may use Audible Services only with the involvement of a parent or guardian.
 
-* Amazon.com, Inc.
-* Amazon Media Group LLC
-* Amazon Web Services, Inc.
-* Audible, Inc.
+Back to Top
+
+## How long do we keep your personal information?
+
+We keep your personal information to enable your continued use of Audible Services, for as long as it is required in order to fulfil the relevant purposes described in this Privacy Notice, as may be required by law such as for tax and accounting purposes, or as otherwise communicated to you. For example, we retain your transaction history so that you can review past purchases, re-download your content, and to improve the relevancy of products and content we recommend.
+
+Back to Top
+
+## Contacts, Notices & Revisions
+
+If you have any concern about privacy at Audible Europe or want to contact one of our data controllers, please [contact us](https://audible.co.uk/contactus) with a thorough description and we will try to resolve the issue for you. Further, the data protection officer for the above mentioned data controllers can be contacted at eu-privacy@audible.de and eu-privacy@audible.co.uk. You can file a complaint with the [Berlin Data Protection Authority](https://www.datenschutz-berlin.de/) for Audible GmbH, or the [Information Commissioner’s Office](https://ico.org.uk/) for Audible Limited.
+
+Our business changes constantly and our Privacy Notice will change also. You should check our website frequently for changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
+
+Back to Top
+
+## Examples of Information Collected
+
+**Information You Give Us When You Use Audible Services**
+
+You provide information to us when you:
+
+* search for products or services;
+* place an order through Audible Services;
+* download, stream, view, or use content on a device, or through a service or application; download or use an application on a device;
+* provide information in [Your Account](https://www.audible.co.uk/account) (and you might have more than one if you have used more than one e-mail address or mobile number when shopping with us) or your [Listener Page](https://www.audible.co.uk/a/listener/);
+* talk to or otherwise interact with Audible Services via the Amazon Alexa Voice service;
+* configure your settings on, provide data access permissions for, or interact with Amazon services;
+* communicate with us by phone, e-mail, or otherwise;
+* complete a questionnaire, a support ticket, or a contest entry form;
+* upload images, videos or other files to Audible Services;
+* compile [Wish Lists](https://www.audible.co.uk/wishlist);
+* participate in community features, like providing reviews and ratings; or
+* employ Product Availability Alerts, such as Pre-Order Notifications.
+
+As a result of those actions, you might supply us with such information as: your name, address and phone number; IP address; payment information; your age; your location information; people to whom you’ve sent Audible gifts or products, content of reviews and e-mails to us; your [Listener Page](https://www.audible.co.uk/a/listener/); credit history information; VAT numbers; and device log files and configurations.
+
+Back to Top
+
+## Automatic Information
+
+Examples of the information we collect and analyse include:
+
+* the Internet protocol (IP) address used to connect your computer or other device to the Internet;
+* login, e-mail address, and password;
+* computer, device, and connection information such as device application or browser type and version, browser plug-in types and versions, operating system, or time zone setting;
+* the location of your device or computer;
+* content interaction information, such as content downloads, streams, playback details, listening behaviour like start and stop points, listening duration, reading behaviour on your Kindle devices and apps (so we can provide our WhisperSync for Voice functionality and award badges based on your listening and also calculate royalties), and network details for streaming and download quality, including information about your internet service provider;
+* Device metrics such as when a device is in use, application usage, connectivity data, and any errors or event failures;
+* Audible Service metrics (e.g., the occurrences of technical errors, your interactions with service features and content, your settings preferences and backup information, location of your device running an application);
+* purchase and content use history, which we sometimes aggregate with similar information from other customers to create features such as Best Sellers;
+* the full Uniform Resource Locators (URL) clickstream to, through, and from our website (including date and time); cookie number; products and/or content you viewed or searched for, page response times, download errors, page interaction information (such as scrolling, clicks, and mouse-overs); and
+* phone numbers used to call our customer service number.
+
+We may also use device identifiers, cookies, and other technologies on devices, applications and our web pages to collect browsing, usage or other technical information for fraud prevention purposes.
+
+Back to Top
+
+## Information From Other Sources
+
+Examples of information we receive from other sources include:
+
+* account information, purchase or redemption information, page-view and clicks information, or other information about your interactions with businesses with which we operate co-branded offerings, who assist us in our targeted marketing, or for which we provide technical, fulfillment, advertising, or other services;
+* information about your interactions with products and services offered by our ultimate parent company Amazon.com, Inc. and its subsidiaries;
+* search results and links, including paid listings; and
+* credit history information from credit bureaus, which we use to help prevent and detect fraud.
+
+Back to Top
+
+## Information You Can Access
+
+Examples of information you can access through Audible Services include:
+
+* status of recent orders (including subscriptions);
+* your complete order history;
+* personally identifiable information (including name, e-mail, password, communications, and personalised advertising preferences);
+* payment settings (including payment card information and gift membership balances);
+* e-mail notification settings;
+* recommendations and the products you have purchased or added to your [Wish List](https://www.audible.co.uk/wishlist) that are the basis for recommendations;
+* your [Wish List](https://www.audible.co.uk/wishlist) and purchased content;
+* content that you recently listened to; and
+* Your [Listener Page](https://www.audible.co.uk/a/listener) (including any Reviews and ratings).
+
+Back to Top
+
+## EU-US and Swiss-US Privacy Shield
+
+Amazon.com, Inc. and certain of its controlled US affiliates (together, the Amazon Group Companies[LINK], or "We") participate in the EU-US and Swiss-US Privacy Shield Frameworks regarding the collection, use, and retention of personal information from European Union member countries and Switzerland, respectively. We have certified with the Department of Commerce that we adhere to the Privacy Shield Principles. To learn more about the Privacy Shield Principles, see [here](https://www.commerce.gov/tags/eu-us-privacy-shield).
+
+If you have any inquiries or complaints about our handling of your personal data under Privacy Shield, or about our privacy practices generally, please contact us at: privacyshield@amazon.com. We will respond to your inquiry promptly. If we are unable to resolve any complaint relating to the Privacy Shield satisfactorily, or if we fail to acknowledge your complaint in a timely fashion, you can submit your complaint to TRUSTe, which provides an independent third-party dispute resolution service based in the United States. TRUSTe has committed to respond to complaints and to provide appropriate recourse at no cost to you. To learn more about TRUSTe's dispute resolution services or to refer a complaint to TRUSTe, visit [here](https://www.truste.com/consumer-resources/). If neither Amazon nor TRUSTe resolves your complaint, you may pursue binding arbitration through the Privacy Shield Panel. To learn more about the Privacy Shield Panel, see [here](https://www.commerce.gov/tags/eu-us-privacy-shield).
+
+As explained here we sometimes provide personal information to third parties to perform services on our behalf. If we transfer personal information received under the Privacy Shield to a third party, the third party's access, use, and disclosure of the personal data must also be in compliance with our Privacy Shield obligations, and we will remain liable under the Privacy Shield for any failure to do so by the third party unless we prove we are not responsible for the event giving rise to the damage.
+
+You can review our Privacy Shield registration [here](https://www.privacyshield.gov/participant?id=a2zt0000000TOWQAA4). The Amazon Group Companies are subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). We may be required to disclose personal information that we handle under the Privacy Shield in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+Back to Top
+
+## Amazon Group Companies
+
+As of July 5, 2017, the following entities are included in Amazon.com, Inc.'s Privacy Shield Certification:
+
+Amazon.com, Inc.
+
+Amazon Corporate LLC 
+
+Amazon Digital Services LLC
+
+Amazon Media Group LLC
+
+Amazon Services LLC
+
+Amazon Web Services, Inc.
+
+Audible, Inc.
 
 Back to Top
