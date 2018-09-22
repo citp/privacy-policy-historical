@@ -1,76 +1,207 @@
-> *The following text is extracted and transformed from the ripple.com privacy policy that was archived on 2017-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171015205938id_/https%3A//ripple.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ripple.com privacy policy that was archived on 2018-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180922055514id_/https%3A//ripple.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ripple
 
-_Last Revised: 2/17/2016_
+**Effective Date: June 29, 2018**
 
-This Privacy Policy describes how Ripple Labs, Inc. and its subsidiaries and affiliated companies (“Ripple,” “we” or “us”) collect, use and share information about you. This policy applies to information we collect when you use our websites, including www.ripple.com, (collectively, the “Site”) or otherwise interact with us as described below.
+### **INTRODUCTION**
 
-This policy does not apply to the Ripple open source client software or the Ripple distributed open source global payment network accessed through that software (collectively, “Ripple Technology”), which may be accessed via our Site. Ripple does not own or control Ripple Technology. However, if you access Ripple Technology from a hyperlink on our Site, we may collect the information identified in the “Information We Collect Automatically” section below in connection with your use of Ripple Technology. If you prefer, you can usually set your browser to remove or reject cookies, which will disable any information we would collect from cookies. We use the information collected on Ripple Technology solely to analyze trends and evaluate user engagement of Ripple Technology, when accessed from our Site. We will not collect any of the information that you provide directly to Ripple Technology. Additionally, if you access Ripple Technology by any other method, other than through a hyperlink available via our Site, then we will not collect any information in connection with your use of Ripple Technology.
+Ripple Labs Inc. and its subsidiaries and affiliated companies, (“Ripple”, “we”, “our”, “us”) understands and respects our users’ need for privacy. This Privacy Policy explains how Ripple collects, uses and shares information we collect about you.
 
-We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of this policy, and in some cases, we may provide you with additional notice (such as adding a statement to the homepages of our Site or sending you an email notification). We encourage you to review the Privacy Policy whenever you interact with us to stay informed about our information practices and the ways you can help protect your privacy.
+#### **APPLICABILITY** :
 
-**COLLECTION OF INFORMATION**
+This policy applies to Information we collect when you use our websites (including our company website www.ripple.com, our RippleNet Services website, and our developer website developers.ripple.com, collectively, the “Site”), and when you interact with us, through the use of Ripple products and services (including xRapid and xVia, collectively, the “Ripple Service” or the “Services”) described in our Terms and Conditions.
 
-_Information You Provide to Us_
+This Privacy Policy does not apply to the XRP Ledger software, which is open source, or the distributed open source global network accessed through that software (collectively, “XRP Ledger”) However, if you access XRP Ledger-related content from a hyperlink on our Site, we may collect the information identified in the “Information We Collect Automatically” sections below in connection with your use of the Site.
 
-We collect information you provide directly to us. For example, we collect information when you create an online account, post messages to our forums or wikis or otherwise communicate with us.
+#### **TABLE OF CONTENTS:**
 
-The types of information we may collect include your name, email address, username, password, location and any other information you choose to provide.
-
-**INFORMATION WE COLLECT AUTOMATICALLY**
-
-We automatically collect certain information about you when you access or use our Site or transact business with us, including Log Information. We collect information about your use of our Site, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Site.
-
-Information Collected by Cookies and Other Tracking Technologies: We may use cookies, web beacons (also known as “tracking pixels”) and other tracking technologies to collect information about you when you interact with our Site or emails, including information about your browsing behavior on our Site. We use this information to improve our Site and your experience, see which areas and features of our sites are popular, count visits, understand campaign effectiveness and determine whether an email has been opened and links within the email have been clicked.
-
-**INFORMATION WE COLLECT FROM OTHER SOURCES**
-
-We may also obtain information about you from other sources and combine that with information we collect about you.
-
-**USE OF INFORMATION**
-
-We may use information about you for various purposes, including to:
-
-  *    Respond to your comments, questions and requests and provide customer service;
-  *    Monitor and analyze trends, usage and activities in order to operate and improve our Site;
-  *    Manage your online account(s) and send you technical notices, updates, security alerts and support and administrative messages;
-  *    Link or combine with information we get from others to help understand your needs and provide you with better service; and
-  *    Carry out any other purpose for which the information was collected.
-  *    We are based in the United States and the information we collect is governed by U.S. law. By accessing or using our Site or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries.
+  * How we collect your information
+  * How we use your information
+  * How we share your information
+  * Legal bases for processing (for EEA users)
+  * Transfer of personal data to other countries
+  * How we protect your information
+  * How long we retain your information
+  * Children’s information
+  * Your rights
+  * Disputes and Data protection authority
+  * Changes to this privacy policy
+  * Third party services, applications and websites
+  * Contacting us
 
 
 
-**SHARING OF INFORMATION**
+### **HOW WE COLLECT YOUR INFORMATION**
 
-We may share information about you as follows:
+#### INFORMATION WE COLLECT FROM OUR WEBSITES AND EVENTS:
 
-  *    With vendors, consultants and other service providers who need access to such information to carry out work on our behalf;
-  *    In response to a request for information if we believe disclosure is in accordance with any applicable law, regulation or legal process, or as otherwise required by any applicable law, rule or regulation;
-  *    If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of us or any third party;
-  *    In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company; and
-  *    With your consent or at your direction.
+**_Information You Provide to Us:_**  We collect information you provide directly to us when you browse our Site, create an online account, post messages to our forums or wikis, provide feedback through surveys, participate in any interactive features, contests, promotions, sweepstakes, activities or events. The types of information we may collect include your name, email address, username, password, location and any other information you choose to provide.
+
+**_Information We Collect Automatically through the use of Cookies and Other Tracking Technology:_** When you visit the Company’s website, we obtain certain information by automated means, such as cookies, web beacons, web server logs and other technologies. A “cookie” is a text file that websites send to a visitor’s computer or other Internet-connected device to identify the visitor’s browser or to store information or settings in the browser. A “web beacon,” also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server.
+
+We may use these automated technologies to collect information about your equipment, browsing actions, and usage patterns. The information we obtain in this manner may include your device IP address, identifiers associated with your devices, types of devices connected to our services, web browser characteristics, device characteristics, language preferences, referring/exit pages, clickstream data, and dates and times of visits to our Site.
+
+The information we collect through cookies and similar technologies helps us (1) remember your information so you will not have to re-enter it; (2) understand how you use and interact with our website; (3) measure the usability of our website and the effectiveness of our communications; and (4) otherwise manage and enhance our website, and help ensure it is working properly.
+
+Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies. Please note, however, that without cookies you may not be able to use all of the features of our website.
+
+#### **INFORMATION WE COLLECT RELATING TO OUR PRODUCTS AND SERVICES:**
+
+Financial institutions and other organizations around the world, together referred to as “xRapid Customers and xVia Customers” use the xRapid and xVia products and services (“the Ripple Service” or “the Services”) to exchange data relating to financial transactions and, in the case of xRapid, settle those financial transactions.
+
+xRapid and xVia process Personal Data of individuals (“Personal Data”) in the two following contexts:
+
+  * **_Ripple’s Provision of the Services:_** Personal Data that xRapid and xVia collects for its own purposes relating to the provision of the Services (for example, contact details of employees of xRapid and xVia Customers)
+
+
+  * **_Customer Use of the Services:_** Personal Data that xRapid and xVia Customers collect and supply to xRapid and xVia as part of their use of the Services (for example, Personal Data contained in messages or files that xRapid and xVia customers send)
 
 
 
-We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
+#### RIPPLE’S PROVISION OF THE SERVICES:
 
-**ANALYTICS SERVICES PROVIDED BY OTHERS**
+**_Information You Provide to Us:_** Ripple collects Personal Data relating to employees, officers, and/or directors of xRapid and xVia’s Customers that is directly provided to us. Personal Data typically includes contact details such as name, title, work address, work email address, and work telephone number.
 
-We engage third parties to provide analytics services. These entities may use cookies, web beacons and other technologies to collect information about your use of our Site, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by us and others to, among other things, analyze and track data, determine the popularity of certain content and better understand your online activity.
+**_Information from Other Sources:_** Ripple collects information publicly available on a Customer’s website, or through publicly available resources relating to employees, officers, or directors of xRapid and xVia’s Customers and Potential Customers. This information typically includes publicly available information such as name, title, work address, work email address, and work telephone number.
 
-**SECURITY**
+**_Information We Collect Automatically:_** Ripple may collect xRapid and xVia usernames, user passwords, user’s Internet Protocol (“IP”) addresses, computer and connection information such as browser type, version, and operating system during the course of managing the xRapid and xVia products and services.
 
-We take reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
+#### **CUSTOMER’S USE OF THE SERVICES:**
 
-**YOUR CHOICES**
+The xRapid product enables xRapid Customers to connect to their digital asset exchange accounts in order to check balances, receive payment estimates, submit instructions for payments initiation, and check status of payments in progress.
 
-_Account Information_
+The xVia product enables xVia Customers to connect to multiple banks and other financial institutions through one API, in order to initiate payments, purchase FX, and view and manage balances and transaction listings.
 
-You may update, correct or delete your online account information at any time by logging into your account or by contacting us at the information below. Please note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time.
+**_Information You Provide to Us:_** Through use of the Services, the xRapid and xVia products may collect and process Personal Data of individuals collected by xRapid and xVia Customers for purposes of processing payments in accordance with the Terms and Conditions we have entered into with you.
 
-**COOKIES**
+Personal Data used for facilitating payments typically includes sender and beneficiary account name and account number (which could be the account holder’s name); description of the transaction; payment amounts and instructions; and sender and beneficiary addresses and phone number.
 
-Most web browsers are set to accept cookies by default. If you prefer, you can usually set your browser to remove or reject cookies, but note that doing so does not necessarily affect third party flash cookies used in connection with our Site. If you choose to remove or reject cookies, this could affect the availability and functionality of our Site.
+### **HOW WE USE YOUR INFORMATION**
 
-If you have any questions about this Privacy Policy [Contact Us](https://ripple.com/contact).
+#### RIPPLE WEBSITES AND EVENTS:
+
+Ripple collects this data for various purposes, including to:
+
+  * Respond to your comments, questions and requests and provide customer service;
+  * Monitor and analyze trends, usage and activities in order to operate and improve our Site;
+  * Manage your online account(s) and send you technical notices, updates, security alerts and support and administrative messages;
+  * Organize regional or local events, and the registration and management of customer representatives that are active in xRapid and xVia advisory and working groups;
+  * Link or combine with information we get from others to help understand your needs and provide you with better service; and
+  * Carry out any other purpose for which the information was collected.
+
+
+
+#### **RIPPLE’S PROVISION OF THE SERVICES:**
+
+Ripple collects this data for purposes relating to the provision of the Services, and include the following:
+
+  * The administration, monitoring, and ongoing management of xRapid and xVia services and products;
+  * The development, deployment, management, support, and invoicing of the xRapid and xVia services and products; and  
+The organization of regional or local events, and the registration and management of customer representatives that are active in xRapid and xVia advisory and working groups.
+
+
+
+#### **CUSTOMER USE OF THE SERVICES:**
+
+Ripple collects this data for various purposes, including to:
+
+  * Respond to your comments, questions and requests and provide customer service;
+  * Monitor and analyze trends, usage and activities in order to operate and improve our Services;
+  * Manage your online account(s) and send you technical notices, updates, security alerts and support and administrative messages; and
+  * Carry out any other purpose for which the information was collected.
+
+
+
+### **HOW WE SHARE YOUR INFORMATION**
+
+#### RIPPLE WEBSITES AND EVENTS, AND RIPPLE’S PROVISION OF THE SERVICES:
+
+We may share your Personal Data as follows:
+
+  * With vendors, consultants and other service providers who need access to such information to carry out work on our behalf;
+  * In response to a request for information if we believe disclosure is in accordance with any applicable law, regulation or legal process, or as otherwise required by any applicable law, rule or regulation;
+  * If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of us or any third party;
+  * In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company;
+  * With your consent or at your direction; and
+  * We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
+
+
+
+#### **RIPPLE SUB-PROCESSORS:**
+
+We use the following sub-processors to operate our Services:
+
+**Third-Party Service or Vendor** | **Type of Service** | **Location**  
+---|---|---  
+Salesforce | Sales Data Host Platform | United States  
+Zendesk | Cloud-based Customer Support Services | United States  
+Amazon Web Services | Cloud Service Provider | United States  
+Google Cloud | Cloud Service Provider | United States  
+IBM Softlayer | Cloud Service Provider | United States  
+  
+### **LEGAL BASES FOR PROCESSING (FOR EEA USERS)**
+
+If you are an individual from the European Economic Area (“EEA”), we collect and process your personal data only where we have legal basis for doing so under applicable EU laws.  The legal basis depends on the Services you use and how you use them. This means we collect and use your personal data only:
+
+  * To fulfill our contractual obligations to you;
+  * To operate our business, including to improve and develop our services, for fraud prevention purposes, improve user experience, or other legitimate interest; and/or
+  * As otherwise in compliance with law.
+
+
+
+If you have any questions about the legal basis for processing, please refer to the “Your Rights” section below or contact us at the address listed in the “Contact Us” section.
+
+### **TRANSFER OF PERSONAL DATA TO OTHER COUNTRIES**
+
+We transfer your Personal Data to countries outside the United Kingdom and the European Economic Area (“EEA”), including, but not limited to the United States, where Ripple Labs Inc. Corporate Headquarters is located, and where our IT systems (including email) are located. When required for the xRapid and xVia Purposes, xRapid and xVia may transfer and store Personal Data to locations in or outside the European Economic Area (“EEA”).
+
+### **HOW WE PROTECT YOUR INFORMATION**
+
+We are committed to protecting your information. We maintain appropriate administrative, technical and physical safeguards designed to protect the Personal Data you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.
+
+###  **HOW LONG WE RETAIN YOUR INFORMATION**
+
+We will retain your Personal Data on file for as long as necessary for our legitimate business purposes. Please note that in certain cases, legal or regulatory obligations require us to retain specific records for a longer period of time.
+
+**CHILDREN’S INFORMATION**
+
+Our Services are not directed to children under the age of 16. If you learn that a child under the age of 16 has provided us with personal information without consent, please contact us.
+
+### **YOUR RIGHTS**
+
+You have the right to request a copy of your information, to object to our use of your information (including for marketing purposes), where applicable, to correct your information, to request the deletion or restriction of your information, or to request your information in a structured, electronic format.  Please note that we may retain certain information as required by law or for legitimate business purposes. If you would like to exercise any of these rights, please contact [support@ripple.com](mailto:support@ripple.com).
+
+### **DISPUTES AND DATA PROTECTION AUTHORITY**
+
+As part of our commitment to privacy, if you are a resident of the European Union or Switzerland and you have a privacy or data use concern, please contact us directly at support@ripple.com, and we will use our best efforts to address your concern.
+
+Ripple has registered with JAMS to provide independent third party dispute resolution at no cost to the complaining party. To contact JAMS and/or learn more about the company’s dispute resolution services, including instructions for submitting a complaint, please visit: https://www.jamsadr.com/eu-us-privacy-shield.
+
+Subject to applicable law, you also have the right to (1) restrict Ripple Labs Inc.’s use of information that constitutes your Personal Data and (2) lodge a complaint with your local data protection authority or the United Kingdom Information Commissioner’s Office, which is Ripple Labs Inc.’s lead supervisory authority in the European Union. If you are a resident of the European Economic Area, United Kingdom or Switzerland and believe we maintain your Personal Data within the scope of the General Data Protection Regulation (GDPR), you may direct questions or complaints to our lead supervisory authority:
+
+United Kingdom’s Information Commissioner’s Office
+
+Wycliffe House, Water Lane, Wilmslow, Cheshire. SK9 5AF
+
+Phone: 0303 123 1113
+
+Email: <https://ico.org.uk/global/contact-us/email/>
+
+###  **CHANGES TO THIS PRIVACY POLICY**
+
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of this policy, and in some cases, we may provide you with additional notice (such as adding a statement to the homepages of our Site or sending you an email notification). We encourage you to review the Privacy Policy whenever you interact with us to stay informed about our information practices and the ways you can help protect your privacy.
+
+**THIRD PARTY SERVICES, APPLICATIONS, AND WEBSITES**
+
+Certain third party services, websites, or applications you use, or navigate to from our Services may have separate user terms and privacy policies that are independent of this Policy. This includes, for example, websites owned and operated by our customers or partners. We are not responsible for the privacy practices of these third party services or applications. We recommend carefully reviewing the user terms and privacy statement of each third party service, website, and/or application prior to use.
+
+**CONTACTING US**
+
+To submit questions regarding this Privacy Policy you can contact Ripple by emailing us at support@ripple.com or at our mailing address at:
+
+Ripple Labs Inc.  
+Attention: General Counsel  
+315 Montgomery Street, 2nd Floor  
+San Francisco, CA 94104  
+U.S.A.
