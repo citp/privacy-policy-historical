@@ -1,69 +1,230 @@
-> *The following text is extracted and transformed from the theme-junkie.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003223051id_/https%3A//www.theme-junkie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theme-junkie.com privacy policy that was archived on 2018-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180922235817id_/https%3A//www.theme-junkie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Theme Junkie
 
-## What Do We Do With Your Information?
+_Last Updated: 25 April 2018_
 
-When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.
+Theme Junkie takes data privacy very seriously and recognises the importance of protecting and respecting your personal data. This Privacy Policy describes the information we collect, how we use that information, to whom we pass the information, your rights and key contact information.
 
-When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.
+## 1\. Overview
 
-Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates.
+To provide you with our WordPress services we need to collect information about you. Our aim is not to be intrusive, and we won’t ask you unnecessary questions. Any information we receive about you will be subject to strict controls to minimise the risk of misuse – including unauthorised access to, or disclosure of, your personal data.
 
-## Consent
+Please read this notice carefully, together with our [Terms and Conditions](https://www.theme-junkie.com/terms-conditions/) and any other documents referred to in it. Here we set out the basis on which any information we collect about you or from you, or that you provide to us, will be processed by us and other parties in providing you with the services accessed through the website. Theme Junkie (“our”, “us” and “we”) commits to using your information only in accordance with the terms of this Privacy Policy.
 
-How do you get my consent?
+For the purposes of this Privacy Policy, the term “information” means any confidential and/or personal data or other information related to users of Theme Junkie – including, but not limited to, corporate and individual customers and their connected parties.
 
-When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.
+By visiting this website or providing your personal information to one of our employees, for example by telephone or email, you accept and expressly consent to our use and disclosure of your personal information and direct us to do so in the manner described in this Privacy Policy.
 
-If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
+This includes information you provide when you browse our website, register for an account, enter a competition, promotion or survey, purchase from us, and when you contact us for other reasons.
 
-### How do I withdraw my consent?
+If you have concerns about any of the terms of this Privacy Policy, please email us so that we can provide further information.
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at support@theme-junkie.com.
+## 2\. What Information We Collect
 
-## Disclosure
+We may collect and process the following information about you:
 
-We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
+### Information You Provide to Us
 
-Payment:
+You may provide us with information by filling in forms on our website, our partners’ websites or by talking with us by over the phone or corresponding with us via email or otherwise.
 
-If you choose a direct payment gateway to complete your purchase, then that processor stores your credit card data. Theme Junkie does not directly hold any credit card information.
+This includes information you provide when you browse our website, register for an account, purchase from us, and when you contact us for other reasons.
 
-## Third-Party Services
+ **Initial Information**
 
-In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
+To open a free Theme Junkie account or purchase one of our products, you must provide your name, address, and email address.
 
-However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.
+In order to place an order with Theme Junkie, you may be asked to provide debit card details (including the long number, start and expiry dates and the card verification value code (CVV/CVC)), or complete your transaction with PayPal.
 
-For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.
+### When We Communicate
 
-In particular, remember that certain providers may be located in or have facilities that are located in a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.
+When you communicate with us for customer service or other purposes, including by phone, email or using other methods, we retain that information and our responses to you.
 
-As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.
+### Information We Collect When You Use Our Website
 
-Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
+When you arrive at or leave the Theme Junkie website, whether connected by a fixed line or wirelessly, we receive the web address of the site that you came from or are going to.
 
-### Links
+While you are using our site we collect information on the services you search for or view, page response times and length of visits to specific pages, how you interacted with each page (including scrolling, clicks and mouse-overs), and methods used to browse away from the page.
 
-When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
+We collect information about the device you are using, such as the type of device, operating system and platform, the type and version of browser, browser plug-in types and versions, the times you access our website/app and the time zone setting, mobile network information and unique device identifier.
 
-## Security
+## 3\. How We Use Your Information
+
+Our primary purpose in collecting your information is to provide you with a safe, smooth, efficient and customised experience. By submitting your information to Theme Junkie, you agree that we may use your information for the following purposes:
+
+### Fulfilling Your Requests
+
+We will use your information to:
+
+  * Provide you with the information, products and services that you request from us, including the provision of WordPress themes and plugins
+  * Complete any transaction you are undertaking with us; and
+  * Administer any promotion, survey or competition that you enter via our website(s)
+
+
+
+### Communication and Customer Service
+
+We communicate with our users on a regular basis via email to provide requested services and help you manage your account. These activities include:
+
+  * Responding to requests for customer service
+  * Confirming information concerning a user’s identity, business or account activity
+  * Resolving customer complaints
+  * Resolving disputes about billing or transactions
+  * Conducting customer surveys
+  * Investigating suspicious transactions
+
+
+
+We use your email address to:
+
+  * Confirm your opening of a Theme Junkie account
+  * Send you notice of any purchases that you make with Theme Junkie
+  * Send you information about important changes to our products and services, including notice of any times that our services may not be available
+  * Send notices and other disclosures required by law
+
+
+
+Users cannot opt out of these communications, but they will be primarily service-oriented rather than promotional.
+
+As we are obligated to send these communications to current customers, if you do not wish to receive these communications at all, then, unfortunately, you must close your account.
+
+### Marketing
+
+We also use your email address to send you other types of communications that you can control, including information about new themes, customer surveys and special promotions. These communications are to:
+
+* Provide you with information about services we offer that are similar to those that you have already enquired about or purchased
+* Provide news about the WordPress industry, marketing and advertising messages, updates on the services we offer, and promotional offers based on your activities
+* Tell you about new products and features we are developing that you may find useful
+
+You can choose whether to receive these communications when you make a purchase, or create an account (or at any time thereafter) by logging in to your account on the Theme Junkie website, visiting your profile page and accessing the preference center.
+
+### Service Improvements and Account Management
+
+We will use your information to deliver and improve Theme Junkie services and manage your account, including:
+
+  * Verifying your identity, including during account creation and password reset processes
+  * Resolving disputes, collecting fees and troubleshooting problems;
+  * Providing you with customer support services including notifying you of changes to our service, including any outages, and to send you service emails relating to your account and transactions on your account
+  * Improving our existing, and developing new, products, services, websites, apps and capabilities
+  * Administering our website(s) and for internal business administration and operations purposes, including storage, backup, archiving, troubleshooting, data analysis, testing, research, statistical and survey purposes
+  * As part of our efforts to keep our site safe and secure, including managing and protecting our information technology infrastructure.
+
+
+
+### Questionnaires, Surveys, Competitions and Profile Data
+
+From time to time we may offer you optional questionnaires, surveys, and competitions. If you choose to answer these questionnaires, surveys or competitions, we may use your information to improve Theme Junkie, send you marketing or advertising information, manage the competitions and for such purposes as collecting demographic information or assessing users’ interests and needs.
+
+You will be given notice of how the information will be used prior to your participation in the survey, questionnaire or competition.
+
+### Accessing and Changing Your Information
+
+You can review the information you have provided to us and make any desired changes to your information or to the settings on your Theme Junkie account at any time by logging in to your account on the Theme Junkie website, visiting the profile page and changing your details.
+
+## 4\. Cookies
+
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site and to provide interest-based advertising.
+
+You may adjust the settings on your browser to refuse cookies but some of the services on our website(s) may not work if you do so.
+
+## 5\. Public Information and Sharing with Third Parties
+
+### Banks and Payment Providers
+
+When you place an order with Theme Junkie, we will provide your information to the business partners who are contracted to Theme Junkie to complete this transaction, for example passing bank details to the correspondent bank(s) or payment provider(s) involved in the transaction.
+
+### Blog Comments
+
+We have public blogs on our websites. Any information you include in a comment on our blog may be read, collected, and used by anyone. If your personal information appears on our blogs and you want it removed, [contact us here](https://web.archive.org/cdn-cgi/l/email-protection#96e5e3e6e6f9e4e2d6e2fef3fbf3bbfce3f8fdfff3b8f5f9fb). If we are unable to remove your information, we will tell you why.
+
+### Social Media Platforms and WidgetsLinks to Third-Party Websites
+
+Our websites include links to other websites, whose privacy practices may be different from ours. If you submit Personal Information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.
+
+### Where Required by Law
+
+We may disclose necessary information to the police and other law enforcement agencies, security forces, competent governmental, intergovernmental or supranational bodies, competent agencies, departments, regulatory authorities, self-regulatory authorities or organisations, and other third parties where we are legally compelled and/or permitted to do so.
+
+### Mergers and Acquisitions
+
+As with any business, it is possible that in the future Theme Junkie could buy, merge with, or be acquired by, another company. We may disclose your information to the prospective seller or buyer of such business or assets, along with its professional advisers. If Theme Junkie or a substantial proportion of its assets are acquired by a third party, information held by us about our customers will be one of the transferred assets, and such successor company would continue to be bound by this Privacy Policy unless and until it is amended.
+
+### Analytics and Search Engine Providers
+
+We share your IP address with analytics and search engine providers that assist us in the improvement and optimisation of our site, and also for 3rd party advertising on 3rd party websites.
+
+### Affiliates
+
+If you are referred to us by a third party – either via our affiliate network or via a refer-a-friend promotion – depending on the arrangement, we may notify them when you place an order.
+
+## 6\. Transferring Data Overseas
+
+Theme Junkie is committed to adequately protecting your information regardless of where the data resides and to providing appropriate protection for your information where such data is transferred outside of the EEA.
+
+The information that we collect from you may be transferred to, and stored in, a country outside the European Economic Area (EEA). It may also be processed by staff operating outside the EEA who work for us or for our suppliers. These staff may be engaged in the fulfilment of your request, the processing of your payment details and the provision of support services. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+
+By submitting your information and making use of Theme Junkie, you agree to such transfers, storing or processing. We will take all steps reasonably necessary to ensure that your information is treated securely and in accordance with this Privacy Policy.
+
+We will do our best to protect your information, however we cannot guarantee the security of your information transmitted to our site or sent to us by email or other non-secure electronic methods; any such transmission is at your own risk. Once we have received your information, we will use protective procedures and security features to try to prevent unauthorised access.
+
+## 7\. Data Retention Policy
+
+We retain data for the purposes of reporting, backup, and financial compliance for a period of up to five years. Where you have requested that we do so, we will take steps to delete your data from our system (with the exception of the required data retention for tax or financial reporting).
+
+Where you have asked us not to contact you, we will retain that information on a ‘do not contact’ list to reduce the risk of us contacting you in the future.
+
+## 8\. Security Policy
 
 To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
 
 If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
 
-## Age of Consent
+## 9\. Age of Consent
 
 By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
 
-## Changes to This Privacy Policy
+## 10\. Customer Rights
 
-We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
+You have the following rights:
 
-If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
+ **To ask us to correct any information we hold about you if it is incorrect.**
 
-## Questions and Contact Information
+Whilst we endeavour at all times to keep your information accurate, we welcome your corrections. You can correct your profile at any time by logging onto your account via the Theme Junkie website. We may ask you for additional verification information if you are changing certain details such as your name or your address.
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at support@theme-junkie.com.
+ **To ask us to erase your information if we no longer have any reason to hold it, also known as the ‘right to be forgotten’.**
+
+Our Data Retention Policy (see section 7) explains the circumstances when we can or are obliged to retain information, however outside of those periods we will delete your information in line with our data retention policy and on request. We will maintain a record that you made an erasure request to reduce the likelihood of us contacting you in the future but we will use that information for no other purpose.
+
+ **To ask us to return to you information you provided to us, also known as ‘data portability’.**
+
+You can ask us to send you in electronic format the information you provided to us.
+
+ **To ask us not to process your information where you previously gave consent or where we are exercising our legitimate interest.**
+
+If you make a request for us to stop processing your information, we will investigate to see if there is a compelling reason for processing to continue and will discuss the conclusion of the investigation with you.
+
+You cannot object to processing which is a legal obligation or where we must process your information to satisfy a contract to which you are a party. If you previously gave consent and we processed your data on the basis of that consent, you cannot object to that past processing, however you can ask us to stop processing it in the future.
+
+ **To ask for a copy of the information we hold about you.**
+
+We will endeavour to respond to your request within 30 days, however at time of high demand we may need 90 days to compile a full response.
+
+ **To ask us not to process your information for marketing purposes.**
+
+You can do this by checking or unchecking certain boxes on the forms we use to collect your information, or by logging onto your account and managing your contact preferences, or by clicking on the ‘unsubscribe’ link(s) at the foot of every marketing or promotional email.
+
+## 11\. Contacting Us
+
+### The Data Controller
+
+The Data Controller is Compact Creative Limited, Registered office address C/O Ppi Accountancy Limited Horley Green House, Horley Green Road, Claremount, Halifax, HX3 6AS, company registration number 07208797.
+
+### Contacting Us With Questions or Requests
+
+If you want to exercise your right to access your information or have any questions about this Privacy Policy, Theme Junkie’s information practices, or your dealings with Theme Junkie, you can [contact us by email](https://web.archive.org/cdn-cgi/l/email-protection#54272124243b262014203c313931793e213a3f3d317a373b39).
+
+## 12\. Changes to This Privacy Policy
+
+We may amend this policy at any time, as new features are added to Theme Junkie or as we incorporate suggestions from our customers. The current version of the policy is reflected in the “updated” date at the start of the policy.
+
+Your continued use of our website(s) after a posting of a new version of this Policy will constitute your acceptance of, and agreement to, any changes. If you disagree with the terms of this Privacy Policy, you may close your account at any time.
