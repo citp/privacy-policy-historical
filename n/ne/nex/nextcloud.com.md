@@ -1,14 +1,18 @@
-> *The following text is extracted and transformed from the nextcloud.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527004545id_/https%3A//nextcloud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextcloud.com privacy policy that was archived on 2018-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180922160332id_/https%3A//nextcloud.com/privacy) for the most accurate reproduction.*
 
-# Privacy – The most popular self-hosted file share and collaboration platform
+# Privacy – Nextcloud
 
 We recognize that privacy is extremely important to all visitors to our website. We do not share any individual information with anybody without your permission.
 
-We use the open source [Matomo (the former Piwik)](http://matomo.org/) tool to get information on how our website is used and use [phplist](https://www.phplist.com/) to handle our newsletters. We use the open source marketing automation tool [Mautic](https://mautic.com/) to track business users that did download resources like white papers or participate in webinars. From neither will we hand over individual data to anybody else and any privacy breaches we will disclose as soon as possible. Our [security scanner](https://scan.nextcloud.com/) is strictly based on publicly available information, that is the list of known vulnerabilities relevant for ownCloud/Nextcloud releases as well as any applied hardenings/settings we can scan without having access to the server.
+We use the open source [Matomo (the former Piwik)](http://matomo.org/) tool to get information on how our website is used and use [phplist](https://www.phplist.com/) to handle our newsletters. We use the open source marketing automation tool [Mautic](https://mautic.com/) to track business users that did download resources like white papers or participate in webinars. From neither will we hand over individual data to anybody else and any privacy breaches we will disclose as soon as possible. Our [security scanner](https://scan.nextcloud.com/) is strictly based on publicly available information, that is the list of known vulnerabilities relevant for ownCloud/Nextcloud releases as well as any applied hardenings/settings we can scan without having access to the server. Last but not least, on [help.nextcloud.com](https://scan.nextcloud.com/) we run the open source [discourse](https://discourse.org/) software. This platform is meant for home users and home user questions! As enterprise visitor, please use [our support portal](https://portal.nextcloud.com/). If you still use the forums, expect that we reach out to you at some point.
+
+Our website embeds content, like YouTube videos, ReChelp.nextcloud.comaptcha captchas and others. We don't share any of your data with the parties behind them, however, they can gather some information when you watch a video or click the captcha.
 
 Please note that [nextcloud.com/news](https://nextcloud.com/news) aggregates community blogs and we can not be held responsible for their opinions or content.
 
-Our software, be it the Nextcloud server or the Android or iOS apps, do not sent any user data to us. The optional Usage Survey app can sent usage statistics like installed apps to us to help us improve our service. The Updater app, if enabled, sents Nextcloud version, PHP version and the channel it wants to the Nextcloud updater server to receive update information.
+Our software, be it the Nextcloud server or the Android or iOS apps, do not sent any user data to us. The optional Usage Survey app can sent usage statistics like installed apps to us to help us improve our service. You can review and approve the data before it is sent. We store the data aggregated and not per user, so a theft of our data can not be used to get any information about any specific installation. The Updater app, if enabled, sends Nextcloud version, PHP version, install time and the channel it wants to the Nextcloud updater server to receive update information. We store the install time to track statistics, all other data is discarded right away.
+
+We can not take any responsibility for third-party apps and the data they store or sent about users. We do have a policy in our app store against abusing private data and any app that is found to be in violation is removed and its author banned. However, we do not have the ability to check all code of all third party applications and thus we recommend you are careful when installing third party apps.
 
 If you see any problems, please report it to [abuse@nextcloud.com](mailto:abuse@nextcloud.com).
 
@@ -16,15 +20,27 @@ You can find details in our full privacy policy below.
 
 ## Nextcloud Privacy Policy
 
-This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+Our privacy policy is written to help you find out how Nextcloud handles 'Personally identifiable information' (PII). PII is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
 ### What personal information do we collect from the people that visit our blog, website or app?
 
-When registering or submitting a form on our site, as appropriate, you may be asked to enter your name, email address, phone number or other details to help you with your experience.
+Like most websites, nextcloud.com collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. nextcloud.com’s purpose in collecting non-personally identifying information is to better understand how nextcloud.com’s visitors use its website. From time to time, nextcloud.com may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+
+nextcloud.com also collects potentially personally-identifying information like Internet Protocol (IP) addresses. nextcloud.com does not use such information to identify its visitors, however, and does not disclose such information to third parties unless legally obliged to do so.
+
+We honour the do-not-track directive. nextcloud.com won't track anything if this is enabled.
+
+Furthermore, our website visit statistics tool Mamoto is configured to anonymize visitors' IP addresses data by not storing the last digits of all IP addresses.
+
+When registering or submitting a form on our site, as appropriate, you may be asked to enter your name, email address, phone number or other details. See below on what happens with that data.
 
 ### When do we collect information?
 
+#### On our websites:
+
 We collect information from you when you subscribe to a newsletter, fill out a form or enter information on our site.
+
+#### Nextcloud Files
 
 Our apps only communicate with your own Nextcloud server and do not sent any data to us. The Play Store version equal to or newer than 1.5.0 for Nextcloud supports push notifications which use the Google servers. However Google does not have access to the actual notification data. Only a header with a subject is sent via Google, but in encrypted form, and the rest of the content is retrieved directly from your Nextcloud server and **not** sent through Google. The iOS client works in a similar way.
 
@@ -38,15 +54,17 @@ We may use the information we collect from you when you register, sign up for ou
 
 
 
-### A concrete example
+### Mautic
 
-As an example, we use the open source [Mautic marketing automation tool.](https://mautic.org/) This is used for actions like emailing a whitepaper to people who entered their email address to receive it. In line with our business strategy of not monetizing home and small business users but aim for large enterprises, our goal is to ONLY track employees of companies using their work email. We try to drop all home/private users from the database as soon as we find out they are private users. For example, we remove contacts with an @gmail or @icloud address and keep obviously business related addresses (@acme @example-ltd @placeholder-corp.com). We then might follow up on a End-to-end Encryption white paper download a week later with an offer to download our Server-side Encryption white paper; or sent a follow-up email suggesting to read a new blog about encryption we wrote. Our goal is to keep potential customers informed and help them in their journey to become a Nextcloud user and customer, without bothering home users.
+We use the open source [Mautic marketing automation tool.](https://mautic.org/) This is used for actions like emailing a whitepaper to people who entered their email address to receive it. If you enter an email address on our site, you agree with that (otherwise we can't sent you that white paper either). We might sent follow-up emails (like a reminder if you didn't download the white paper, or a notification of a new white paper), from which you can opt-out on the bottom of the emails.
 
-Of course, you can opt-out of any emails using the unsubscribe link on the bottom of these emails.
+In line with our business strategy of not monetizing home and small business users but aim for large enterprises, our goal is to ONLY track employees of companies using their work email. We try to drop all home/private users from the database as soon as we find out they are private users, of course after we have sent them the white paper they asked for. For example, we remove contacts with an @gmail or @icloud address and keep obviously business related addresses (@acme @example-ltd @placeholder-corp.com). For those we then might follow up on a End-to-end Encryption white paper download a week later with an offer to download our Server-side Encryption white paper; or sent a follow-up email suggesting to read a new blog about encryption we wrote. Our goal is to keep potential customers informed and help them in their journey to become a Nextcloud user and customer, without bothering others.
+
+Of course, you can opt-out of any emails using the unsubscribe link on the bottom of these emails. Note that you then don't get any emails from Mautic anymore: also not if you enter your mail again to get a white paper!
 
 ### How do we protect visitor information?
 
-We only provide articles, white papers and other information. We never ask for credit card numbers.
+We only provide articles, white papers and other information. We never ask for credit card numbers or other financial data.
 
 We use regular Malware Scanning.
 
@@ -72,7 +90,7 @@ If you disable cookies, some minor features might be disabled.
 ### Third-party disclosure
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when its release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property or safety.  
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. Think aggregated statistics (number of website visitors in a particular month) or trends ("we see an increase in the number of visitors from Asia").
 
 ### Third-party links
 
@@ -133,7 +151,7 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 ### Unsubscribing
 
-If at any time you would like to unsubscribe from receiving future emails follow the instructions at the bottom of each email and we will promptly remove you from **ALL** correspondence.
+If at any time you would like to unsubscribe from receiving future emails follow the instructions at the bottom of each email and we will promptly remove you from correspondence by that tool. Note that you have to unsubscribe separately from our newsletter and our marketing automation tool.
 
 ### Website source
 
@@ -143,21 +161,25 @@ The source code of the website can be found in [our GitHub repo](https://github.
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
+## Privacy Policy Changes
+
+Although most changes are likely to be minor, Nextcloud may change its Privacy Policy from time to time and at our sole discretion. We encourage visitors to frequently check this page for any changes to our Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
 ## Legal Notice
 
 Nextcloud GmbH  
-Hauptmannsreute 44A  
-70192 Stuttgart Germany  
+Hirschstrasse 26  
+70173 Stuttgart Germany  
+
+
 HRB 227086 (AG München)  
 T +49 711 25 24 28 90  
-[contact form](https://nextcloud.com/contact)  
+[contact form](https://nextcloud.com/contact)
 
-
-Managing Directors:  
-Niels Mache  
+Managing Director:  
 Frank Karlitschek  
 
 
 All product names and trademarks are the property of their respective owners, which might in no way be associated or affiliated with Nextcloud.
 
-Last Edited on 2018-04-03
+Last Edited on 2018-05-29
