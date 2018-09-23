@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the javhd.today privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525010800id_/http%3A//javhd.today/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javhd.today privacy policy that was archived on 2018-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180923161416id_/http%3A//www.javhd.today/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
