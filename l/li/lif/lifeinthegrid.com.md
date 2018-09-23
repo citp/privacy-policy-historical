@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifeinthegrid.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524121213id_/http%3A//lifeinthegrid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeinthegrid.com privacy policy that was archived on 2018-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180923141854id_/http%3A//lifeinthegrid.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Life in the Grid
 
