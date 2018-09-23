@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the the42.ie privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629141808id_/http%3A//www.thejournal.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the42.ie privacy policy that was archived on 2018-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180923044546id_/http%3A//www.the42.ie/privacy) for the most accurate reproduction.*
 
-# TheJournal.ie - Read, Share and Shape the News
+# The42
 
 * Except as disclosed in this Privacy Notice, we will not disclose Personal Data that we collect to any parties other than those with whom we partner or are affiliated with, without your consent. Except as disclosed below, we will not sell, share, trade, rent, or give away your Personal Data.
 
