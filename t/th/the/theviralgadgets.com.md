@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theviralgadgets.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929065143id_/https%3A//theviralgadgets.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theviralgadgets.com privacy policy that was archived on 2018-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180923041831id_/http%3A//theviralgadgets.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – The Viral Gadgets
+# Privacy Policy
 
 PRIVACY STATEMENT
 
@@ -19,7 +19,7 @@ When you provide us with personal information to complete a transaction, verify 
 If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
 How do I withdraw my consent?  
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at viralcaps@squalet.com.
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at hello@TVG.com.
 
 SECTION 3 - DISCLOSURE
 
@@ -77,5 +77,5 @@ If our store is acquired or merged with another company, your information may be
 
 QUESTIONS AND CONTACT INFORMATION
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at viralcaps@squalet.com.  
-\---- 
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at hello@theviralgadgets.com.  
+\----
