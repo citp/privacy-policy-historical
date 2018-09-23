@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameskinny.com privacy policy that was archived on 2018-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180425001103id_/https%3A//www.gameskinny.com/375/privacy-policy-375) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameskinny.com privacy policy that was archived on 2018-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180923131533id_/https%3A//www.gameskinny.com/375/privacy-policy-375) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,6 +19,31 @@ Launch Media Network will not obtain personally-identifying information about yo
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Cookies or similar type of file to track and target your interests may also be used. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.networkadvertising.org/choices>.
 
 This Website may contain links to other Websites owned and operated by third parties. Please note that these websites’ privacy policies may differ from that of Launch Media Network. Launch Media Network is not responsible for the privacy practices of those third parties and does not control the use of information provided through such third party websites. We encourage you to read the privacy policy of any website you may visit.
+
+## General Data Protection Regulation (GDPR)
+
+All EU citizens have additional rights under the GDPR. We take GDPR seriously and will process any GDPR requests without undue delay. Email all GDPR related requests to privacy@gamerlaunch.com. Include necessary information to identify the requested action and data subject as defined by [the GDPR](https://gdpr-info.eu/).
+
+Certain data is required to use our service. We track IP addresses for fraud and abuse prevention. Username, Handle and Email are required for account creation. Under the GDPR our legal basis for this collection is legitimate interest due to requiring of processing this data to provide our services for login, user accounts, etc.
+
+### You can contact us at any time to:
+
+    * Request information that Guild Launch, LLC has about you.
+    * Correct any information that Guild Launch, LLC.
+    * Delete information that Guild Launch, LLC has about you.
+
+### You have the following rights under the GDPR:
+
+    * Right to be informed
+    * Right of access
+    * Right of rectification
+    * Right to erasure
+    * Right to restrict data processing
+    * Right to data portability
+    * Right to object
+    * Rights of automated decision-making and profiling
+
+If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with GameSkinny, please feel free to contact GameSkinny at the following address: 8010 Roswell Rd, Atlanta, GA 30350
 
 
 
