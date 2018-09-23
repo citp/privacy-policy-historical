@@ -1,51 +1,119 @@
-> *The following text is extracted and transformed from the adsoftheworld.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226131947id_/http%3A//mediabistroholdings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsoftheworld.com privacy policy that was archived on 2018-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180923093730id_/https%3A//clios.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Mediabistro Holdings
+# Privacy Policy | Clio Awards LLC
 
-_Effective Date_ : July 8, 2015
+Your privacy is important to us. It is Clio Awards, LLC's policy to respect your privacy regarding any information we may collect from you across our websites, [https://clios.com](https://clios.com/), [https://entries.clios.com](https://entries.clios.com/), [https://musebycl.io](https://musebycl.io/), [https://www.adsoftheworld.com](https://www.adsoftheworld.com/), [https://www.brandsoftheworld.com](https://www.brandsoftheworld.com/), and other sites we own and operate.
 
-This Privacy Policy is applicable to , [www.adweek.com](http://www.adweek.com/),  [www.clioawards.com](http://www.clioawards.com/), [www.mediabistro.com](http://www.mediabistro.com/), [www.filmjournal.com](http://www.filmjournal.com/) and any other site that may be operated by or for Mediabistro Holdings (together, the “Websites”). It explains how we collect information from users of the Websites and how we use such information. Your use of the Websites constitutes your acceptance of this Privacy Policy. Please also read our Terms of Use , which govern the basic operation of the Websites.
+### 1\. Information we collect
 
-1\. The Information We Collect and Use  
-A. Non-Personally Identifiable Information. When you visit a Website, we may collect certain data that does not tell us specifically who you are. This is “Non-Personally Identifiable Information.” It includes things like your Internet Protocol (IP) address, browser type, and the last domain you visited before coming to our Website or the domain you go to when you leave. It also includes various statistical data such as which pages you visit on our Websites, how long you stay on them, and what you click.
+#### Log data
 
-We may place a “cookie” on your computer. A cookie is a small amount of data, which often includes an anonymous unique identifier, sent to your browser from a website’s computers and stored on your computer’s hard drive. We may use cookies to keep track of your choice of language and home page preference; to understand your exposure to certain Internet advertisements as you use the Websites, and to gather usage data that will help us generally improve the quality of the Websites. There is a simple procedure in most browsers that allows you to deny or accept cookies. You should note that cookies may be necessary to provide you with certain features on the Websites.
+When you visit our website, our servers may automatically log the standard data provided by your web browser. It may include your computer’s Internet Protocol (IP) address, your browser type and version, the pages you visit, the time and date of your visit, the time spent on each page, and other details.
 
-We also may use a small piece of code (sometimes referred to as “1×1 clear pixel,” “Web beacon” or “clear GIF”) placed in the pages of the Websites to help us gather additional information about which parts of the site receive the most visitors and other user traffic patterns, and enable us to administer the site.
+#### Personal information
 
-No Personally Identifiable Information (see below) is collected through our cookies or Web beacons nor do we allow third-party companies to collect such information from cookies or web beacons on our Website. We may, however, from time to time, allow third-party companies to serve ads and/or collect certain Non-Personally Identifiable Information when you visit our Website. These companies may use Non-Personally Identifiable Information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use cookies or third party web beacons to collect this information. To learn more about this behavioral advertising practice or to opt out of this type of advertising, you can visit http://www.networkadvertising.org/managing/opt_out.asp.
+We may ask for personal information, such as your:
 
-B. Personally Identifiable Information. We also may collect information that can be used to identify you (“Personally Identifiable Information”). We only collect Personally Identifiable Information when you specifically provide it to us. For example, in connection with your use of certain features of the Websites you may be asked to create a user account and provide certain information including your name, email addresses, address, and telephone number. You may also provide User Uploaded Information to the Websites, as described in the Terms of Use, or you may provide information such as your credit card number in connection with the purchase of services or content available through the Websites. When you create a user account with a Mediabistro Holdings website and sign in to your account on the Websites or post User Uploaded Information, you are not anonymous to us.
+  * Name
+  * Email
+  * Social media profiles
+  * Phone/mobile number
+  * Work address
+  * Payment information
 
-We may use Personally Identifiable Information to fulfill your requests, respond to your inquiries and provide other services, and to alert you to information, offers, or publications in which we think you may be interested. The emails that we send contain links that enable you to “unsubscribe” from such mailings.
 
-We do not sell Personally Identifiable Information or other information you make available to the Websites, or share such information with third parties, except as described below.
 
-From time to time, we may partner with unaffiliated companies or individuals for market research, product development or similar purposes. These companies or individuals may be provided with access to Personally Identifiable Information and Non-Personally Identifiable Information, but we will require by contract that they agree to maintain the confidentiality, security and integrity of such information. We also may subcontract with other companies and individuals to do work on our behalf; they may be provided with access to Personally Identifiable and Non-Personally Identifiable Information, but only as needed to perform their functions.
+### 2\. Legal bases for processing
 
-We may share Personally Identifiable Information with third parties, who may contact you to offer products and services. At any time, you can contact Mediabistro Holdings at 212-493-4100 and [terms@mediabistro.com](mailto:terms@mediabistro.com) to request that we not share your Personally Identifiable Information with third parties.
+We will process your personal information lawfully, fairly and in a transparent manner. We collect and process information about you only where we have legal bases for doing so.
 
-We may disclose your Personally Identifiable Information to third parties in connection with a corporate transaction where all or a portion of our business (e.g., a portion that includes our customer lists) is sold or transferred. We also may disclose your Personally Identifiable Information if disclosure is required by law or as part of a lawsuit or government investigation or proceeding, or in order to permit us to exercise or preserve our legal rights or take action regarding potentially illegal activities or to protect the safety of any person.
+These legal bases depend on the services you use and how you use them, meaning we collect and use your information only where:
 
-2\. Data Security  
-Mediabistro Holdings LLC cannot ensure or warrant the security or privacy of any information you transmit to us. We attempt to follow policies and procedures that will protect against unauthorized access to your Personally Identifiable Information. But we can make no guarantees or promises in this regard, and you provide information to us at your own risk.
+  * it’s necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract (for example, when we provide a service you request from us);
+  * it satisfies a legitimate interest (which is not overridden by your data protection interests), such as for research and development, to market and promote our services, and to protect our legal rights and interests;
+  * you give us consent to do so for a specific purpose (for example, you might consent to us sending you our newsletter); or
+  * we need to process your data to comply with a legal obligation.
 
-We may store the Personally Identifiable Information we hold about you indefinitely. We may store this information in the United States or we may transfer it to any other country. The data protection laws of the countries where we store your personal data may or may not provide a level of protection equivalent to the laws in your home country. Wherever we hold the data, we will apply the terms of this Privacy Policy.
 
-3\. Children  
-This site is not directed at children under the age of 13 and we endeavor not to knowingly collect any Personally Identifiable Information from children under the age of 13. If a parent or guardian believes that this site has collected the Personally Identifiable Information of a child under the age of 13, please contact [terms@mediabistro.com](mailto:terms@mediabistro.com) .
 
-4\. Access to your information  
-You may contact us at [terms@mediabistro.com](mailto:terms@mediabistro.com) if at any time you would like to see the Personally Identifiable Information we hold about you, or to ask us to correct or update this information, or to ask us to delete it. Please contact us if you have questions or wish to take any action with respect to information to which this Privacy Policy applies (see below for contact information).
+Where you consent to our use of information about you for a specific purpose, you have the right to change your mind at any time (but this will not affect any processing that has already taken place).
 
-5\. How To Contact Us  
-You may contact Mediabistro Holdings regarding our privacy practices at the following address:  
-Mediabistro Holdings  
-825 8th Avenue  
-29th Floor  
-New York, NY 10019  
-[terms@mediabistro.com](mailto:terms@mediabistro.com)  
-212-493-4100
+We don’t keep personal information for longer than is necessary. While we retain this information, we will protect it within commercially acceptable means to prevent loss and theft, as well as unauthorised access, disclosure, copying, use or modification. That said, we advise that no method of electronic transmission or storage is 100% secure and cannot guarantee absolute data security. If necessary, we may retain your personal information for our compliance with a legal obligation or in order to protect your vital interests or the vital interests of another natural person.
 
-6\. Changes To The Privacy Policy  
-This Privacy Policy is effective as of July 2015. We reserve the right to change this Privacy Policy at any time. We do not undertake to provide you with personal notice of any changes. In the event of material changes, we will provide notice by means that are reasonable under the circumstances, such as by posting a notice on the Websites. Your continued use of the Websites following the posting of changes to this Privacy Policy means you accept those changes.
+### 3\. Collection and use of information
+
+We may collect, hold, use and disclose information for the following purposes and personal information will not be further processed in a manner that is incompatible with these purposes:
+
+  * to enable you to customise or personalise your experience of our website;
+  * to enable you to access and use our website, associated applications and associated social media platforms;
+  * to contact and communicate with you;
+  * for internal record keeping and administrative purposes;
+  * for analytics, market research and business development, including to operate and improve our website, associated applications and associated social media platforms;
+  * for advertising and marketing, including to send you promotional information about our products and services and information about third parties that we consider may be of interest to you; and
+  * to comply with our legal obligations and resolve any disputes that we may have.
+
+
+
+### 4\. Disclosure of personal information to third parties
+
+We may disclose personal information to:
+
+  * third party service providers for the purpose of enabling them to provide their services, including (without limitation) IT service providers, data storage, web-hosting and server providers, debt collectors, maintenance or problem-solving providers, marketing or advertising providers, professional advisors and payment systems operators;
+  * our employees, contractors and/or related entities;
+  * sponsors or promoters of any competition we run;
+  * credit reporting agencies, courts, tribunals and regulatory authorities, in the event you fail to pay for goods or services we have provided to you;
+  * courts, tribunals, regulatory authorities and law enforcement officers, as required by law, in connection with any actual or prospective legal proceedings, or in order to establish, exercise or defend our legal rights;
+  * third parties, including agents or sub-contractors, who assist us in providing information, products, services or direct marketing to you; and
+  * third parties to collect and process data.
+
+
+
+### 5\. International transfers of personal information
+
+The personal information we collect is stored and processed in United States, or where we or our partners, affiliates and third-party providers maintain facilities. By providing us with your personal information, you consent to the disclosure to these overseas third parties.
+
+We will ensure that any transfer of personal information from countries in the European Economic Area (EEA) to countries outside the EEA will be protected by appropriate safeguards, for example by using standard data protection clauses approved by the European Commission, or the use of binding corporate rules or other legally accepted means.
+
+Where we transfer personal information from a non-EEA country to another country, you acknowledge that third parties in other jurisdictions may not be subject to similar data protection laws to the ones in our jurisdiction. There are risks if any such third party engages in any act or practice that would contravene the data privacy laws in our jurisdiction and this might mean that you will not be able to seek redress under our jurisdiction’s privacy laws.
+
+### 6\. Your rights and controlling your personal information
+
+**Choice and consent:** By providing personal information to us, you consent to us collecting, holding, using and disclosing your personal information in accordance with this privacy policy. If you are under 16 years of age, you must have, and warrant to the extent permitted by law to us, that you have your parent or legal guardian’s permission to access and use the website and they (your parents or guardian) have consented to you providing us with your personal information. You do not have to provide personal information to us, however, if you do not, it may affect your use of this website or the products and/or services offered on or through it.
+
+**Information from third parties:** If we receive personal information about you from a third party, we will protect it as set out in this privacy policy. If you are a third party providing personal information about somebody else, you represent and warrant that you have such person’s consent to provide the personal information to us.
+
+**Restrict:** You may choose to restrict the collection or use of your personal information. If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us using the details below. If you ask us to restrict or limit how we process your personal information, we will let you know how the restriction affects your use of our website or products and services.
+
+**Access and data portability:** You may request details of the personal information that we hold about you. You may request a copy of the personal information we hold about you. Where possible, we will provide this information in CSV format or other easily readable machine format. You may request that we erase the personal information we hold about you at any time. You may also request that we transfer this personal information to another third party.
+
+**Correction:** If you believe that any information we hold about you is inaccurate, out of date, incomplete, irrelevant or misleading, please contact us using the details below. We will take reasonable steps to correct any information found to be inaccurate, incomplete, misleading or out of date.
+
+**Notification of data breaches:** We will comply laws applicable to us in respect of any data breach.
+
+**Complaints:** If you believe that we have breached a relevant data protection law and wish to make a complaint, please contact us using the details below and provide us with full details of the alleged breach. We will promptly investigate your complaint and respond to you, in writing, setting out the outcome of our investigation and the steps we will take to deal with your complaint. You also have the right to contact a regulatory body or data protection authority in relation to your complaint.
+
+**Unsubscribe:** To unsubscribe from our e-mail database or opt-out of communications (including marketing communications), please email terms@clioawards.com or opt-out using the links provided in our marketing emails.
+
+### 7\. Cookies
+
+We use “cookies” to collect information about you and your activity across our site. A cookie is a small piece of data that our website stores on your computer, and accesses each time you visit, so we can understand how you use our site. This helps us serve you content based on preferences you have specified. Please refer to our Cookie Policy for more information.
+
+### 8\. Business transfers
+
+If we or our assets are acquired, or in the unlikely event that we go out of business or enter bankruptcy, we would include data among the assets transferred to any parties who acquire us. You acknowledge that such transfers may occur, and that any parties who acquire us may continue to use your personal information according to this policy.
+
+### 9\. Limits of our policy
+
+Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and policies of those sites, and cannot accept responsibility or liability for their respective privacy practices.
+
+### 10\. Changes to this policy
+
+At our discretion, we may change our privacy policy to reflect current acceptable practices. We will take reasonable steps to let users know about changes via our website. Your continued use of this site after any changes to this policy will be regarded as acceptance of our practices around privacy and personal information.
+
+If we make a significant change to this privacy policy, for example changing a lawful basis on which we process your personal information, we will ask you to re-consent to the amended privacy policy.
+
+**Clio Awards, LLC Data Controller and Data Protection Officer**  
+David Heide  
+terms@clioawards.com
+
+This policy is effective as of 16 July 2018.
