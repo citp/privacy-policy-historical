@@ -1,125 +1,185 @@
-> *The following text is extracted and transformed from the tienda.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181911id_/http%3A//tienda.com/support/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tienda.com privacy policy that was archived on 2018-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180923233917id_/http%3A//www.tienda.com/support/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## Privacy Policy in Brief
+##  **LA TIENDA PRIVACY POLICY**
 
-Tienda, Inc and its subsidiaries, LaTienda.com and … (collectively, "La Tienda" or "We") have formulated this privacy statement in an effort to demonstrate our unwavering commitment to protect your privacy. While there are many pages on our Website that you may peruse freely without sharing any personal data, this privacy policy pertains to the data we collect on those occasions in which you have specifically requested information, desire to register and/or purchase products. This privacy policy explains data collection and use in order for us to provide for your requests. This privacy statement applies to any sub-domain of La Tienda (i.e. www.tienda.com/accounts/login.html). Please read our complete privacy statement. **By using the La Tienda Website, you do hereby represent and warrant that you have read, understand and agree to all terms of this privacy policy.**
+Welcome to La Tienda! La Tienda is an ecommerce website that brings you the best of artisan Spanish foods and handcrafted housewares for delivery right to your doorstep.
 
-## Purpose
+This Privacy Policy describes what personal information La Tienda collects, how La Tienda uses this information, how this information may be shared, and what choices and rights you have with respect to this information. Access and use of our website is subject to this Privacy Policy. Our websites are made up of [latienda.com](http://tienda.com/), [jamon.com](http://jamon.com/) and other sites and apps on which this Privacy Policy is posted and that are La Tienda-branded or operated by Tienda Inc.; our plug-ins, widgets, and content embedded on third-party sites; and communications and services offered through such sites, apps, plugins, widgets, and content. This privacy statement applies to any sub-domain of La Tienda (i.e. www.tienda.com/accounts/login.html). Please read our complete privacy statement.
 
-This privacy policy is intended to:
+**By using the La Tienda websites, you do hereby represent and warrant that you have read, understand, agree and consent to all terms of this Privacy Policy.**
 
-  
+The terms "we", "us," "our," or "La Tienda" refer to Tienda, Inc., and its subsidiaries, LaTienda.com and jamon.com.
 
-  * Detail the kinds of information, including personal information, that we collect on the Website;
-  
+**1\. Collection of Information**
 
-  * Describe how the information is used;
-  
+We collect information that you provide us, from third parties, and automatically when you use our website. We collect information associated with your device using cookies and similar technologies. We may also receive information about your location.
 
-  * Detail with whom the information is shared;
-  
+**Information You Provide Us**
 
-  * List security measures taken on the La Tienda Website;
-  
+We collect information that you provide us, including your account and profile information, content you submit to our website, your purchase information, your communications, and information you provide to us as part of surveys and contests.
 
-  * Provide you with information as to how to correct or update your personal account information;
-  
+**Account and Profile Information**
 
-  * Provide you with contact information for us.
-  
+When you create an account on our website, we collect information you provide us, like your name, email address, interests, gender, age, and profile information.
 
-  
+**Content You Submit**
 
+We collect information and content that you submit on our website, including comments, reviews and searches.
 
-## Collection of Non-Identifiable Information
+**Purchases**
 
-If you do nothing but browse through the La Tienda Website, read pages, or download free information, we may gather and store particular information automatically about your visit. This information does not provide any personal details about you. We automatically collect and store only the following information about your visit: 
+If you purchase products on our website, we collect certain information in order to process your purchases and sales, such as your phone number, address, and payment method (for example, credit card or bank account information).
 
-  
+**Communications**
 
-  1. The Internet domain (for example, "yourcompany.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our Website;
-  
+When you communicate with us (via email, phone, through our website, or otherwise) and when you use our website to communicate with others, we store a copy of your communications (including call recordings, subject to providing you notice or obtaining your consent in accordance with applicable law). La Tienda will provide you notice or obtain your consent in accordance with applicable law before recording these calls.
 
-  2. The type of browser and operating system used to access our Website;
-  
+**Surveys and Contests**
 
-  3. The date and time you access our Website;
-  
+If you participate in our surveys, contests, or promotions, we will collect the information you provide to us.
 
-  4. The pages you visit; and
-  
+**Information from Others**
 
-  5. If you linked to the Website from another website, the address of that website.
-  
+We collect information that others provide us, including information from other websites and platforms, publicly available information, information from other users of our website, information from our partners and corporate affiliates, and information from third-party sites.
 
+**Other Websites**
 
+We may receive information about you from third-party platforms that obtain your permission to share this information with us. If you choose to sign-up for our website through Facebook or Google or upload your contacts from your third-party email service, you will be asked to share certain information with us as identified by those third-party platforms.
 
-This information is utilized to help us discern ways to make our Website more useful to visitors, to track the number of visitors to our Website, for use in advertizing and market research, to diagnose service or technology problems and to assess and maintain security.
+**Publicly Available Information**
 
-## How Collected Personal Information Is Used
+Others may provide information on our website that includes information about you (for example, when ordering a gift for you).
 
-When you subscribe to our emails, or purchase a product, we will ask for personal information from you in order to provide you with the requested service. The extent of the information gathered can vary from your name and email address (for an email, for instance), to billing and shipping information (for a product purchase, for instance.  
-La Tienda is the sole owner of the information collected. 
+Our Partners. We may receive information about you from our partners. For example, our payment processors may update your payment information, advertising partners may help us send communications to your address, and third parties may help us prevent fraud by verifying your contact information.
 
-## Use of Your Personal Information
+**Third-Party Sites**
 
-We use your personal information in order to:
+Certain third-party sites embed a La Tienda plug-in, widget, or content, including through La Tienda-branded buttons, badges, and slideshows and La Tienda co-branded content partnerships. You may also choose to use La Tienda browser extensions. These plug-ins, widgets, and embedded content provide information to La Tienda pursuant to our [Cookie Policy](https://www.tienda.com/support/cookie-policy.html). In addition, other sites are developed or hosted by La Tienda. La Tienda collects the information described in this Privacy Policy on those websites, including your messages sent through those websites. These websites collect usage information and your messages as further described in their privacy policies.
 
-  
+**Automatically Collected Information**
 
-  * Deliver products that you request or purchase. 
-  
+We collect information about your use of our website, including your search activity, the pages you view, the date and time of your visit, and if you use our browser extensions, content you interact with on third-party sites. We also collect information that your device provides to us in connection with your use of our website, such as your browser type, type of device, browser language, IP address, mobile carrier, unique device identifier, location, and requested and referring URLs.
 
-  * Alert you to special offers, updated information, and other new services from La Tienda, if you so request.
-  
+**Cookies and Similar Technologies**
 
-  * Allow you access to limited-entry areas of our Website, as appropriate.
-  
+We use cookies in connection with your use of our website to collect information related to what you see and interact with on our website and other website access and use. Please see our [Cookie Policy](https://www.tienda.com/support/cookie-policy.html) for more information on our use of cookies and how to opt-out of cookies, but please note that we do not change system behavior within our Website in response to browser requests not to be tracked.
 
+**Location Information**
 
+We will receive your device's location if you enable this through your browser or mobile device. We may infer your general location from your IP address. You may also choose to provide us your location information by inputting this information in our website, including in your settings or when you checkout as a shipping or billing address.
 
-We may use other companies to provide limited services on our behalf, including an outside shipping company to ship orders and a credit card processing company to bill you for goods and services. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.  
-La Tienda may disclose your personal information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on La Tienda or the Website; (b) protect and defend the rights or property of La Tienda and its family of Websites, or (c) act in urgent circumstances to protect the personal safety of La Tienda employees, users of La Tienda products or services, or members of the public.
+**2\. Use of Information**
 
-## Control of Your Personal Information
+We use the information we collect to provide, support, and personalize our website and to communicate with you about our website (on and off our website). The ways we do this include the following:
 
-When you register or otherwise give us personal information, La Tienda will not share that information with third parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes stated above.
+a. to provide and improve our website's functionality, including to display content you post publicly; to fulfill your purchases through our website; to process, store, and deliver your communications; to provide customer service and support; to respond to your inquiries or requests; to back-up our systems; and to improve the security of our website;
 
-## Choice/Opt-out
+b. to evaluate use of our website for our business purposes and to improve and develop our products and services, including new products and services and our website's functionality;
 
-Our users are given the opportunity to "opt-out" of having their information used for purposes not directly related to our Website at the point where we ask for the information. For example, users who buy a product from us but don’t want any marketing material can keep their email address off of our lists.  
-If you no longer wish to receive our email and promotional communications, you may also opt-out of receiving them by following the instructions included in each newsletter or communication. You can also email your request directly to [contact@latienda.com](mailto:contact@latienda.com)
+c. to personalize your experience, such as to tailor the content and information made available to you and our support services;
 
-## Security of Your Personal Information
+d. to display relevant advertising (on our website and third-party sites) and to evaluate the success of our advertising;
 
-We are committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure, and follow generally accepted industry-standard security technologies to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet or method of electronic storage is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. For example, we store the personal information you provide in computer servers with limited access that are located in controlled facilities. As well, when we transmit sensitive information (such as a credit card number) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. 
+e. to communicate with you as described in our agreements with you (for example, the [Terms of Use](https://www.tienda.com/support/terms-of-use.html)) and this Privacy Policy;
 
-## Cookies
+f. to prevent fraud and to maintain a quality experience for our business purposes or legal reasons, including to filter for spam and communications that violate our agreements with you (for example, the [Terms of Use](https://www.tienda.com/support/terms-of-use.html));
 
-A cookie is a small piece of data containing a unique identification number that is sent to your browser from a Web server, and is stored on your computer's hard drive. The La Tienda Website uses cookies to collect certain non-personally identifiable information (e.g., IP address, web pages on the Website visited, time, and date) to make sure you don't see the same ad repeatedly. We use cookies for other purposes as set forth below.  
-The La Tienda Website relies on cookies to preserve the La Tienda Website identity you have created while logged on. If you choose to not accept cookies, you cannot participate as a registered, signed-in member.
+g. to enforce compliance with our agreements with you (for example, the [Terms of Use](https://www.tienda.com/support/terms-of-use.html)) and applicable law; to comply with our legal obligations; to prosecute or defend a lawsuit, arbitration, or similar legal proceeding; to respond to lawful requests by public authorities (including national security or law enforcement requirements);
 
-## Contests and/or Surveys
+h. to perform research and analysis for our business purposes; and
 
-There may be occasions in which you will have the option to take part in contests and/or surveys, and in order for you partake, we may request personal information from you which could include your name, address, and/or zip code. Participation is voluntary, and thus you can opt not to provide these details.
+i. if you decide to participate, to administer surveys, contests, and promotions.
 
-## Links to Other Websites
+If you provide us information about your contacts (for example, when you sign up for our website through Facebook), in order to facilitate a more connected experience, we may inform your contacts who have accounts on our website that you also have joined our website and follow them on your behalf so that you may view their public activities on our website.
 
-This La Tienda Website may contain links to other websites that are not owned or controlled by LA TIENDA Please be aware that we, La Tienda, are not responsible for the privacy practices of such other websites. We encourage you to be aware when you leave our Website and to read the privacy statements of each and every website that collects personally identifiable information.  
-This privacy statement applies only to information collected by this Website. If you use a blog on this Website, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
+We may use your communications generally for quality assurance purposes and training and to improve our products and services. We may use automated technology to review your communications and improve your user experience.
 
-## Access to Your Personal Information
+We may use your log-in information, cookie information, device information and IP addresses to identify you and log your use across devices and our website. We may use your addresses to personalize your experience on our website.
 
-We will provide you with the means to ensure that your personal information is correct and current. If you register with La Tienda or subscribe to a newsletter, you can review and edit your personal information.
+For your convenience, unless you opt-out through your settings, we will store information about your payment method. If you make purchases on our website as a visitor and subsequently create an account, for your reference, we will make information available to you about any prior purchases completed using the email address for your account.
 
-## Changes in This Privacy Statement
+Any use of your information that is incompatible with these uses will be disclosed to you in advance so that you may opt out of such uses at your discretion.
 
-La Tienda will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the bottom of the privacy statement. For material changes to this statement, La Tienda will place a prominent notice on the Website.  
-This policy is subject to and consistent with all applicable and governing statutes and regulations.
+**3\. Sharing Your Information**
 
-## Contact Us
+We do not rent or sell your personal contact information (such as your email address associated with your account registration) to third parties to use for their own marketing purposes. We share information in the following ways:
 
-La Tienda welcomes your comments regarding this privacy statement. Please contact us by e-mail at [contact@latienda.com](mailto:contact@latienda.com)  
-LAST UPDATED NOVEMBER 2012
+**Website Visitors and Users**
+
+Your product reviews may be shared on our website excluding any personal information like your name or address. 
+
+**Service Providers and Website Partners**
+
+We may share your information with others as reasonably needed for our uses described in this Privacy Policy, and we ask them to limit their use of that information. In addition, if you specifically agree to share your information with a third-party partner, for example, as part of a contest or promotion we sponsor with such third party, we will share your contact information with that third-party partner.
+
+**Advertisers and Ad Networks**
+
+We use advertising networks and similar companies to serve advertisements on third-party sites and to assist us in evaluating the effectiveness of our advertising. We may work with advertising partners to serve ads on our website. We may use advertising partners to communicate with you at the addresses they have for you. These types of companies use cookies and similar technologies. We may provide advertising networks, advertising partners, and businesses advertising on our platform with aggregate information but other than hashed information or device identifiers, we do not disclose your name, contact information, or other personal information. For more information, please see our [Cookie Policy](https://www.tienda.com/support/cookie-policy.html).
+
+Businesses advertising on our website may also use cookies or similar technologies to track your activities on our website. Some of these businesses are participants in the Network Advertising Initiative or the Digital Advertising Alliance. Please visit these organizations' opt-out pages to learn about how you may opt out of receiving web-based personalized ads from participating businesses. You can access any settings offered by your mobile operating system to limit ad tracking or install the AppChoices app to learn more about how you may opt out of receiving personalized ads in mobile apps.
+
+**Corporate Affiliates and Business Transfers**
+
+We may share information from or about you with (a) joint ventures or other companies in the La Tienda Family of Companies or (b) a potential or actual acquirer, successor, or assignee as part of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets, or stock (including in bankruptcy or similar proceedings). In these cases, their use will be subject to this Privacy Policy.
+
+**Investigations**
+
+We may investigate and disclose information from or about you, as permitted by applicable law, if we believe that such investigation or disclosure is (a) reasonably necessary to comply with legal process and law enforcement instructions and orders, such as a search warrant, subpoena, statute, judicial proceeding, or other legal process served on us; (b) helpful to prevent, investigate, or identify possible wrongdoing in connection with our website; (c) helpful to protect our rights, reputation, property, or that of our visitors, users, corporate affiliates, or the public; or (d) to enforce compliance with our agreements with you (for example, the [Terms of Use](https://www.tienda.com/support/terms-of-use.html)).
+
+**4\. Third Party Plug-ins, Widgets, and Links**
+
+Our website may include third-party social media features and other third-party plug-ins and widgets. When these features are displayed on our website, they are operated or hosted by third parties and are subject to their own privacy policies instead of this Privacy Policy. Our website also contains links to third-party sites that are not controlled or operated by us. Please be aware that we are not responsible for the privacy practices of such other sites.
+
+**5\. Communication**
+
+An essential part of our services that you sign up for when you create a La Tienda account on our website is to receive communications from La Tienda through email, catalog, other direct mail and our website. We communicate with you about your account and privacy. We also ask for your feedback about your experience in connection with our website. In accordance with applicable law, we communicate to you about products and offers, and we may feature other businesses in these communications. You may change your communication preferences at any time through your settings and you may also opt-out of similar types of marketing emails from La Tienda directly through the email. Please be aware that you cannot opt-out of receiving account and privacy-related messages from us.
+
+Our website also allows you and others to send messages in our website, as well as share content with others outside our website.
+
+**6\. Account Termination and Data Retention**
+
+To request permanent closure and deletion of your account, please contact us as described in the Contact Us section.
+
+We will keep your personal information only for as long as necessary to fulfill the purposes for which we are processing your personal information unless the law permits or requires us to retain your personal information for a longer period. For example, we may need to keep your personal data for quality assurance for our website or to defend future legal claims. We also will retain aggregated information after your account has been closed. Please note that copies of information that you have updated, modified, or deleted may continue to reside in our systems for a period of time, and we may maintain copies of this information as part of our business records.
+
+**7\. Children**
+
+Our website is intended for general audiences and is not directed to children under 13. We do not knowingly collect personal information from children under 13. In the event that we learn that we have collected personal information from a child under age 13, we will take appropriate steps to delete that information. If you become aware or believe that a child has provided us with personal information, please contact us as provided in the Contact Us section.
+
+**8\. Data Security**
+
+We use reasonable and appropriate measures to protect your personal information from loss, misuse, unauthorized access, disclosure, alteration, and destruction, taking into account the risks involved in the processing and the nature of the personal information.
+
+**9\. Updates to this Privacy Policy**
+
+We may revise this Privacy Policy from time to time. The most current version of our Privacy Policy will govern our use of information about you. If we make material changes to our Privacy Policy, we will notify you by email or by posting a notice on our website. By continuing to access or use our website after those changes become effective, you are subject to the revised Privacy Policy.
+
+**10\. Contact Us**
+
+If you have questions or comments about the La Tienda Privacy Policy,
+
+a. if you are a resident of the European Economic Area, please email us at [EUprivacy@tienda.com](mailto:EUprivacy@tienda.com).
+
+You may also mail us at our address at 3601 La Grange Parkway, Toano, VA 23168, USA.
+
+**11\. Legal Basis for Processing Personal Information (European Economic Area)**
+
+If you are from the EEA, our legal basis for collecting and using the personal information described in this Privacy Policy will depend on the personal information concerned and the specific context in which we collect it. We collect and use your information for a variety of business purposes that are in our legitimate interests, in order to enter into or perform a contract with you, with your consent, or to comply with our legal obligations.
+
+If you wish to learn more about specific legal grounds we rely on to process your information for any particular purpose (including any legitimate interests we have to process this information), please contact us as provided under the Contact Us section. For example, we rely on our legitimate interests to process information for direct marketing purposes and for fraud prevention and detection, provided these interests are not overridden by your data protection interests or fundamental rights and freedoms.
+
+**12\. Your Data Protection Rights (European Economic Area)**
+
+In some regions, such as the EEA, you may have certain rights in relation to your personal information, including the right to access, correct, update, or request deletion of your personal information. La Tienda takes reasonable steps to ensure that the data we collect is reliable for its intended use, accurate, complete, and up to date. You also can manage your profile and settings within our website. However, if you are not a user of our website and you want to contact us directly about accessing, correcting, updating, or deleting your personal information, or altering your data or marketing preferences, you can do so at any time by contacting as provided in the Contact Us section. We will consider your request in accordance with applicable laws.
+
+You can object to processing of your personal information, ask us to restrict processing of your personal information, or request portability of your personal information. Again, you can exercise these rights by contacting us as provided in the Contact Us section. You also can delete your customer account and obtain a copy of your information by contacting us as described in the Contact Us section.
+
+You can complain to a data protection authority about our collection and use of your personal information. For more information, please contact your local data protection authority. Contact details for data protection authorities in the EEA and Switzerland are available [here](http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080).
+
+Similarly, if we have collected and processed your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+
+We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws. We may ask you to verify your identity in order to help us respond efficiently to your request.
+
+Effective May 25, 2018
