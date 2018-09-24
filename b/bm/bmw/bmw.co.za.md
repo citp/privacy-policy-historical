@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmw.co.za privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525192845id_/http%3A//www.bmw.co.za/en/footer/metanavigation/legal-disclaimer-pool/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmw.co.za privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924085542id_/https%3A//www.bmw.co.za/en/footer/metanavigation/legal-disclaimer-pool/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
