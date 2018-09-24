@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extraplay.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525175142id_/http%3A//www.extraplay.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extraplay.com privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924172425id_/http%3A//www.extraplay.com/privacy-policy.php) for the most accurate reproduction.*
 
 # extraplay - Privacy Policy
 
