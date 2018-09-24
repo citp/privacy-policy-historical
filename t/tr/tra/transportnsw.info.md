@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the transportnsw.info privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120074342id_/http%3A//transportnsw.info/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transportnsw.info privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924043742id_/https%3A//transportnsw.info/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy | transportnsw.info
-
-  1. [Home](https://web.archive.org/)
-  2. [About us](https://web.archive.org/about-us)
-  3. Privacy 
-
-
 
 This NSW Government website is maintained by Transport for NSW. This Privacy Statement applies to all the publicly accessible pages located at the www.transportnsw.info site ( **Site** ).
 
@@ -96,6 +90,24 @@ Transport for NSW provides feedback facilities on the Site to allow users to pro
 Personal information and sometimes, health information, are requested to enable follow up by Transport for NSW for more details or for the purpose of providing a reply to your feedback. This information will only be used for the primary purpose for which it was provided. We will not add your email address or name to any mailing list. We will not disclose your personal information or health information without your consent or as otherwise may be permitted in accordance with the PPIPA and HRIPA (for example, disclosure may be required by law).
 
 Transport for NSW may publish aggregated information about feedback on the Site, to the extent that it does not identify or cannot be used to identify individual users.
+
+If you choose to view your Opal card activity on this Site, you will need to provide your Opal access details, either:
+
+  * username/email for your Opal account
+  * password for your Opal account
+
+
+
+Or
+
+  * Opal card number
+  * security code
+
+
+
+These details will then be used to connect with the Opal database and enable your travel history to be retrieved and displayed on this Site.
+
+This information is not shared with any other another third party system and is not stored on the Site.
 
 Information collected is stored in an appropriately secure format and held by Transport for NSW for archival purposes. When the information is no longer required for the purposes for which it was collected it is deleted.
 
