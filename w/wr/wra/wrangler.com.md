@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrangler.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007172734id_/https%3A//www.wrangler.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrangler.com privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924052647id_/https%3A//www.wrangler.com/help/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy & Legal Notices
 
