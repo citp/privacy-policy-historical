@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cedexis.com privacy policy that was archived on 2017-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171029075024id_/https%3A//www.cedexis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cedexis.com privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924083256id_/https%3A//www.cedexis.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cedexis - RUM-Optimized Global Traffic Management
 
-Last updated: 01/09/2017
+Last updated: 01/08/2018
 
 This policy is intended to inform users of our policies and procedures regarding the collection, use, and disclosure of personal information received through our website, portal, and other online services that link to this policy (together, the “Website”) and through websites operated by our customers who use our services (“Customer Services”). This policy may be updated from time to time for any reason, at our sole discretion. We will notify you of any significant changes to this policy and changes to the way we use your information by posting the new policy on our website (or as required by law). You are advised to consult this policy regularly for any changes. Thank you.
 
@@ -49,7 +49,7 @@ Cedexis Radar, Openmix, and Impact are Customer Services provided by Cedexis to 
 
 Cedexis undertakes reasonable security measures to protect data to guard against unauthorized access to personal data. If you use our Portal, you are responsible for safeguarding your username and password. For Customer Services, Cedexis’ security practices are governed by its agreements with its customers and partners.
 
-If you learn of a security issue with our Websites or our Customer Services, please contact us at [support@cedexis.com](https://web.archive.org/web/20171029075024id_/https://www.cedexis.com/privacy-policy/support@cedexis.com).
+If you learn of a security issue with our Websites or our Customer Services, please contact us at [support@cedexis.com](https://web.archive.org/web/20180924083256id_/https://www.cedexis.com/privacy-policy/support@cedexis.com).
 
 ### Data Retention and Disaster Recovery
 
@@ -83,18 +83,18 @@ When you visit our Websites, we and others give you choices described in our [Co
 
 Our marketing emails tell you how to “opt-out” of receiving further marketing emails. If you opt out, we may still send you non-marketing emails. Non-marketing emails include emails about your accounts and our business dealings with you.
 
-### Privacy Shield and Safe Harbor
+### Privacy Shield
 
-Cedexis complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce and under the jurisdiction of the U.S. Federal Trade Commission (FTC) regarding the collection, use, and retention of personal information from European Union member countries. Cedexis has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
+Cedexis complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce and under the jurisdiction of the U.S. Federal Trade Commission (FTC) regarding the collection, use, and retention of personal information from European Union member countries. Cedexis has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/).
 
 Cedexis’s participation in the Privacy Shield applies to all personal data that is subject to our Privacy Policy and is received from the European Union and European Economic Area. We will comply with the Privacy Shield Principles in respect of such personal data.
 
 In compliance with the EU-U.S. Privacy Shield Principles, Cedexis commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact Cedexis using the information provided above.
 
-Cedexis has further committed to refer unresolved privacy complaints under the EU-U.S. Privacy Shield Principles to an independent dispute resolution mechanism free of charge to you and operated by ICDR/AAA. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://info.adr.org/safeharbor> for more information and to file a complaint. A binding arbitration option will also be made available to you in order to address residual complaints not resolved by any other means.
+Cedexis complies with the U.S.-Swiss Privacy Shield Framework as set forth by the U.S. Department of Commerce and under the jurisdiction of the U.S. Federal Trade Commission (FTC) regarding the collection, use, and retention of personal information from Switzerland. Cedexis has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/).
 
-Cedexis complies with the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce and under the jurisdiction of the U.S. Federal Trade Commission (FTC) regarding the collection, use, and retention of personal information from Switzerland. Cedexis has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit <http://www.export.gov/safeharbor>.
+Cedexis’s participation in the Privacy Shield applies to all personal data that is subject to our Privacy Policy and is received from Switzerland. We will comply with the Privacy Shield Principles in respect of such personal data.
 
-In compliance with the U.S.-Swiss Safe Harbor Principles, Cedexis commits to resolve complaints about your privacy and our collection or use of your personal information. Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Cedexis using the information provided above.
+In compliance with the U.S.-Swiss Privacy Shield Principles, Cedexis commits to resolve complaints about your privacy and our collection or use of your personal information. Swiss individuals with inquiries or complaints regarding this privacy policy should first contact Cedexis using the information provided above.
 
-Cedexis has further committed to refer unresolved privacy complaints under the U.S.-Swiss Safe Harbor to an independent dispute resolution mechanism operated by ICDR/AAA. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://info.adr.org/safeharbor> for more information and to file a complaint.
+Cedexis has further committed to refer unresolved privacy complaints under the EU-U.S. Privacy Shield Principles and U.S.-Swiss Privacy Shield Principles to an independent dispute resolution mechanism free of charge to you and operated by ICDR/AAA. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [http://info.adr.org/safeharbor](http://info.adr.org/safeharbor) for more information and to file a complaint. A binding arbitration option will also be made available to you in order to address residual complaints not resolved by any other means.
