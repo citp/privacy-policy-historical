@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halfbakedharvest.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119115026id_/https%3A//www.halfbakedharvest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halfbakedharvest.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925005235id_/https%3A//www.halfbakedharvest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Half Baked Harvest
 
