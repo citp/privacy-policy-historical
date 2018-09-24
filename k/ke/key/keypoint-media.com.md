@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keypoint-media.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519190715id_/http%3A//keypoint-media.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keypoint-media.com privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924235237id_/http%3A//keypoint-media.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy of Keypoint-media
 
