@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the newsela.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514142609id_/https%3A//newsela.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsela.com privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924160525id_/https%3A//newsela.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Newsela | Newsela - Privacy Policy
 
-Newsela - Privacy Policy _[Last Updated: October 22, 2016]_
+Newsela - Privacy Policy _[Last Updated: July 30, 2018]_
 
 Here's why we believe in privacy:
 
@@ -90,6 +90,7 @@ We use information collected through our Services, or disclosed by you on our Si
   * operate, maintain, and improve our Site, App, and Services;
   * respond to comments and questions and provide customer service;
   * send you related information including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages;
+  * create advertisements shown to teachers and administrators that reflect the interests and capabilities of their students and communicate with teachers and administrators about promotions and other news about Services offered by us (Note: Newsela never directs targeted advertising at Children. See: “Interest-Based or Online Behavioral Advertising,” below.);
   * customize advertisements and communicate about promotions and other news about Services offered by us;
   * protect, investigate, and deter against fraudulent, unauthorized, or illegal activity;
   * link or combine with other personal information we get from third parties such as your associated school, to help understand your needs and provide you with better service; and
@@ -104,7 +105,7 @@ We will not use your personal information in any way other than in connection wi
 We do not share your or your student's personal information except as follows:
 
   * with your school or school district at their request;
-  * with third party service providers, consultants, and other service providers who perform services for us and need access to your or your student's information to do that work in a manner consistent with this Policy (for example, our web hosting provider, third party analytics service providers, advertising services providers, and purchase processors);
+  * with third party service providers, consultants, and other service providers who perform services for us and need access to your or your student's information to do that work in a manner consistent with this Policy (for example, our web hosting provider, third party analytics service providers, advertising services providers, and purchase processors. Note: Newsela never directs targeted advertising at Children. See: “Interest-Based or Online Behavioral Advertising,” below.);
   * to comply with laws or to respond to lawful requests and legal process;
   * to protect the rights and property of Newsela, our agents, users, and others including to enforce our agreements, policies, and terms of use;
   * in an emergency to protect the personal safety of our users or any person;
