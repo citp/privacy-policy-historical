@@ -1,35 +1,113 @@
-> *The following text is extracted and transformed from the couchbase.com privacy policy that was archived on 2018-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180210125526id_/http%3A//www.couchbase.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couchbase.com privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924201433id_/https%3A//www.couchbase.com/privacy-policy) for the most accurate reproduction.*
 
 # Couchbase
 
-Couchbase, Inc. owns and operates the Couchbase website. Please read the following to learn more about our privacy policy. You may also want to review our [Terms of Service](https://web.archive.org/docs/common/terms-of-service.html "Terms of Service").
+COUCHBASE PRIVACY POLICY
 
-**Privacy Policy Scope**  
-This policy covers how Couchbase treats information about you that Couchbase collects and receives, including information related to your use of Couchbase products and services. This policy does not apply to the practices of companies that Couchbase does not own or control, or to people that Couchbase does not employ or manage. In addition, certain Couchbase partners may have their own privacy policies and statements.
+**Introduction**
 
-**Personal Information**  
-Couchbase collects personal information when you visit the Couchbase websites, join the Couchbase Community, sign-up for a mailing list, request news and product information, enter contests, complete surveys or purchase Couchbase products and services. Personal information is information about you that is personally identifiable like your name, address, email address or phone number, and that is otherwise not publicly available. We use the personal information you voluntarily provide to register you software you’re downloading, to send information you've requested, and to fulfill orders.
+This is the privacy policy of Couchbase, Inc. and its subsidiaries (“Privacy Policy”).
 
-  
-When you join the Couchbase Forums you must provide an email. When you purchase or download Couchbase commercial subscriptions, we may add you to one or more of our mailing lists and we may occasionally contact you via email. When you enter a contest or survey, we may ask for your name, address and email address so we can administer the contest and notify winners.
+Your privacy and trust are important to us. Please read this Privacy Policy to understand how we collect and use personal data, for example when you contact us, visit our websites, apply for a job, or use our services.
 
-**Use of Personal Information**  
-Couchbase does not sell or rent your personal information to anyone. We may release personal information when we believe that it is required to comply with the law, or to protect the rights, property, or safety of Couchbase, our users, or others. This may include exchanging information with other companies and organizations for purposes of fraud protection and credit risk management.
+**Personal Data**
 
-**Aggregate Information**  
-Couchbase also collects aggregated tracking data when users visit our websites. We analyze visitors' use of our sites by tracking information such as page views, traffic flows, search terms and click throughs. We use this information to improve our websites. We may also share this anonymous traffic and demographic information in aggregate form with advertisers and other business partners. We do not share any information with anyone that can identify an individual user. Cookies. As part of our approach to providing personalized services on our web site, Couchbase uses cookies to store and sometimes track information about you. A cookie is a small data file sent to your browser from a web server and stored on your hard drive that allows easier access the next time the same page is visited. For example, a cookie is sent when you sign-up to download products or information on Couchbase's website. With your consent, cookies can store information from forms you fill out to create a user profile so that you do not have to re-enter the information each time you visit.
+Couchbase is committed to the responsible handling and safeguarding of your personal data.
 
-  
-If you do not want your personal information to be stored by cookies, you can configure your browser so that it notifies you whenever a cookie is received. This way you can decide each time to accept cookies or not. However, the use of cookies may be necessary to provide certain features and choosing to reject cookies may reduce the functionality of the Couchbase website. Your browser should include precise instructions explaining how to control the acceptance of cookies.
+Personal data means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person [ Art 4 General Data Protection Regulation (EU) 2016/679 ].
 
-**IP Addresses**  
-The Couchbase websites also automatically capture IP addresses. We use IP addresses to analyze trends, administer the site, track user movement, ensure the security of your interaction with the Couchbase website, and gather broad demographic information for aggregate use.
+We collect, use, disclose, transfer and store personal data to the extent needed to deliver our services and for operational business purposes as detailed in this Privacy Policy.
 
-**Security**  
-The Couchbase websites have security measures in place to protect the loss, misuse, and alteration of the information under our control. All personal information and aggregate information is stored on a server. This server is located in a locked and guarded place and only authorized Couchbase personnel have access to the database containing user names and passwords.
+**The Personal Data We Collect and How We Collect It**
 
-**Notification of Changes**  
-If we change our Privacy Policy, we will post an updated privacy policy. If we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users via email. Users will be able to opt out of any new use of their personal information. Choice/Opt-Out. The Couchbase website provides users the opportunity to opt-out of receiving communications from us and from our partners any time we collect personal information.
+We collect personal data from you, for example, if you register for an event, request information on our products or services, or request customer support. We may ask you to provide information such as your name, address, phone number, email address, user name and password. Not all of the information that Couchbase holds about you will always come directly from you. For example, it may come from your employer if they are a customer using our products or services or from someone who has written a reference for you in relation to a job application. We also collect information from other sources such as marketers, partners and service providers in order to offer services we think may be of interest to you.
 
-**Contact Couchbase**  
-If you have any questions or comments about our privacy policy, the practices of the Couchbase websites or your dealings with Couchbase, you can at any time  [info@couchbase.com](mailto:info@couchbase.com).
+As further described in the Cookies and Similar Technologies section below, we may collect certain technical information about your interaction with our services to help us improve our services, analyse usage, deliver advertising and improve your user experience.
+
+**How We Use Personal Data**
+
+We use, store and process personal data to provide, improve and develop our services and comply with our legal obligations. Accordingly, we may use such information for the following business related purposes:
+
+**1\. Customer communication and administration:** We use personal data to respond to general inquiries, provide technical and customer support and training, verify your identity, and send important account, subscription and service information.
+
+**2\. Marketing and events:** We use personal data to provide you with news, promotions, marketing and event communications about our products and services which we think may be of interest to you. You can opt-out of receiving marketing communications from us by following the unsubscribe instructions included in our marketing communications or changing your notification settings in our [marketing preference center](https://info.couchbase.com/unsubscribe-or-manage-preferences).
+
+**3\. Community and event forums:** Any personal data you choose to post, share, upload, or make available is public and visible to others. We may use information you provide to personalize your experience and to make recommendations in respect of information about our products and services.
+
+**4\. Personalize, measure and improve our advertising:** As further described in the Cookies and Similar Technologies section below, we may collect certain technical information about the computers or devices (including mobile devices) you use and your online activities to deliver targeted advertising.
+
+**5\. Human resource management:** We may use personal data for purposes of recruitment and employee administration.
+
+**6\. Hosted services:** Some of our service offerings may provide database management and data storage as an integral part of the product or solution offering. Data stored by our customers may contain personal data. Any information stored by or on behalf such customer is controlled and managed by and only made available to such customer and our access is limited to Couchbase personnel with a critical business reason only, such as technical support.
+
+**7\. Legal obligations:** We may use and retain personal data as necessary for legal and compliance reasons, including the prevention, detection or investigation of fraud, abuse, security incidents and any harmful activity.
+
+We will process personal data on the basis of our legitimate interest in undertaking the above business related activities; where it is necessary for the adequate performance of any contract we may have with you or to comply with the law; and/or on the basis of your clear and informed consent (as applicable).
+
+**Sharing Personal Data**
+
+We do not share your personal data with third parties except as described in this Privacy Policy. When we share personal data, we do so in accordance with data privacy laws. We may share personal data as follows:
+
+**1\. Affiliates:** Our business is supported by a variety of teams and functions located around the world. Personal data will be made available to them if necessary to provide, improve and develop our services and comply with our legal obligations.
+
+All our employees and contractors are required to process your personal data in a manner consistent with this Privacy Policy.
+
+**2\. Third Party Service Providers:** We partner with and are supported by service providers around the world. Personal data will be made available to these service providers only when necessary to fulfil the services they provide to us, such as system and platform support, advertising and marketing services, recruiting services. Such service providers are prohibited from sharing or using personal data we make available to them for any other purpose than to provide services to us.
+
+**3\. Safety, Security and Compliance with Law:** We may disclose personal data when we believe in good faith that such sharing is reasonably necessary to investigate, prevent, or take action regarding possible illegal activities or to comply with legal process. We may also share personal data in situations involving potential threats to the physical safety of any person, violations of this Privacy Policy or our customer agreements; or to respond to claims of violation of the rights of third parties and/or to protect the rights, property and safety of Couchbase, our employees, customers or the public. This may involve the sharing of your personal data with law enforcement, government agencies, courts and/or other organizations.
+
+**4\. Business Transactions:  **If Couchbase is involved in a merger, acquisition, or sale of all or a portion of its assets, personal data may be among the transferred assets. In such event, we will notify you via email and/or a prominent notice on our website.
+
+**Where We Store and Process Personal Data**
+
+To facilitate our global operations, Couchbase may transfer, store and process your personal data within our group of companies or with service providers based in the United States, Europe, India, Asia and Australia. Laws in these countries may differ from the laws applicable to your country of residence. We take appropriate steps to ensure that personal data is processed, secured and transferred according to applicable law. Where we transfer personal data from the European Economic Area to other countries in which applicable laws do not offer the same level of data privacy protection, we have ensured that appropriate safeguards are in place to ensure an adequate level of data protection.
+
+**How We Secure Personal Data**
+
+We use administrative, technical and physical security measures to help protect your personal data against unauthorized access, loss, destruction or alteration. Such safeguards are selected based on the level of sensitivity of the information we collect, process and store and the current state of technology. Some of the safeguards we employ are firewalls, data encryption, and information access controls.
+
+**How Long We Keep Personal Data**
+
+We retain personal data for as long as we reasonably require it for legal or business purposes, taking into consideration local laws, contractual obligations, and the expectations and requirements of our customers. When we no longer need personal data, we securely delete or destroy it.
+
+**Your Right to Access and Control Your Personal Data**
+
+We respect your right to access and control your personal data and we will respond to lawful requests for information. We shall correct, amend, port, cease processing or delete your personal data, subject to and in accordance with our rights and obligations under applicable law. Please contact [dpo@couchbase.com](mailto:dpo@couchbase.com) with any requests related to your personal data. If you are not satisfied with the way that Couchbase manages your personal data, you have the right to make a complaint to the competent data protection authorities.
+
+**Links to Third Party Services**
+
+Our services may contain links to third party websites, tools and services. We are not responsible for the privacy practices of such third parties. You should review the privacy statements or policies applicable to such third party websites, tools and services.
+
+**Children’s Privacy**
+
+Our products and services are not designed for and are not marketed to minors. We do not knowingly collect or solicit personal data from minors. If we learn that we have collected personal data from a minor, we will delete that information as quickly as possible.
+
+**Cookies and Similar Technologies**
+
+We use cookies, web beacons, unique identifiers and other similar technologies to provide our services and help collect data. We do this to understand your use of our websites, emails, mobile applications and services; improve your user experience and enable personalized features and content; optimize our advertisements and marketing; and to enable third party advertising companies to assist us in serving advertising specific to your interests across the internet. For more information about our use of cookies and related technologies and how you can control and manage them, please see our [Cookie Policy](https://www.couchbase.com/cookie-policy).
+
+Couchbase currently does not respond to Do Not Track (DNT) signals from browser or mobile application settings due to lack of standardization regarding how such signals should be interpreted. Couchbase will continue to monitor industry activity in this area and reassess our DNT practices as necessary.
+
+**Changes to this Privacy Policy**
+
+We reserve the right to amend this Privacy Policy at any time. If we make changes to this Privacy Policy, we will post the revised Privacy Policy on this website, and in the case of any material changes we shall notify you by email or other means before such material changes take effect. Your continued use of the services after the date the changes take effect shall be subject to the revised Privacy Policy.
+
+**How to Contact Us**
+
+If you have any questions regarding our Privacy Policy, you may contact us in one of the following ways:
+
+**Post:** _                                                        _ **Email:** __[dpo@couchbase.com](mailto:dpo@couchbase.com)
+
+Couchbase Inc,
+
+Attn: Legal Dept
+
+2440 West El Camino Real
+
+Mountain View
+
+CA 94040
+
+USA
+
+**Last updated: May 24, 2018**
