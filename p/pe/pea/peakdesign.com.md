@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peakdesign.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624132530id_/https%3A//www.peakdesign.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peakdesign.com privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924070519id_/https%3A//www.peakdesign.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Peak Design
 
