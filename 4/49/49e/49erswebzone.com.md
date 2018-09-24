@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 49erswebzone.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004153609id_/http%3A//www.skybox360.com/privacy.php%3Fsite%3D49erswebzone.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 49erswebzone.com privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924103409id_/http%3A//www.skybox360.com/privacy.php%3Fsite%3D49erswebzone.com) for the most accurate reproduction.*
 
 # 49erswebzone.com Privacy Policy
 
@@ -62,9 +62,11 @@ This site has reasonable security measures in place to protect against unauthori
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.networkadvertising.org/managing/opt_out.asp>
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. Specifically, Google, as a third party vendor, uses cookies to serve ads on this website. Google´s use of the DART cookie enables it to serve ads to you based on your visit to this website and other websites on the Internet. You may opt out of the use of the DART cookies by visiting the Google ad and content network [privacy policy](http://www.google.com/privacy_ads.html).
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. Specifically, Google, as a third party vendor, uses cookies to serve ads on this website. Google�s use of the DART cookie enables it to serve ads to you based on your visit to this website and other websites on the Internet. You may opt out of the use of the DART cookies by visiting the Google ad and content network [privacy policy](http://www.google.com/privacy_ads.html).
 
 In addition, we use clear GIFs or pixel tags to help manage our online advertising. These clear GIFs enable our ad serving company to recognize a browser's cookie when a browser visits this site. This allows us to learn which banner ads bring users to our website. The information we collect and share through this technology is not personally identifiable.
+
+Exponential Interactive, Inc, as one of our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via privacy@exponential.com.
 
 ## Linked Websites and Services
 
