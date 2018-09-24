@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vionicshoes.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608013948id_/http%3A//www.vionicshoes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vionicshoes.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925001032id_/https%3A//www.vionicshoes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,7 +35,7 @@ California law entitles residents to ask us for a notice describing what categor
 
 ## Do Not Track
 
-California Business and Professions Code Section 22575 (as amended January 1, 2014) provides that California Residents are entitled to know how websites respond to “Do Not Track” browser settings. We do not currently alter our practices when we receive Do Not Track signals. For more information about Do Not Track, [click here](http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201320140AB370).
+California Business and Professions Code Section 22575 (as amended January 1, 2014) provides that California Residents are entitled to know how websites respond to “Do Not Track” browser settings. We do not currently alter our practices when we receive Do Not Track signals. For more information about Do Not Track, [click here](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201320140AB370).
 
 ## Children Under Age 13
 
