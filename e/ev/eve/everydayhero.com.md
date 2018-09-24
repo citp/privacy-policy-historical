@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the everydayhero.com privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916030843id_/https%3A//everydayhero.com/us/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everydayhero.com privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924202927id_/https%3A//everydayhero.com/us/terms/privacy) for the most accurate reproduction.*
 
 # everydayhero
 
 This website is operated by Blackbaud, Inc., d/b/a Everyday Hero.
 
-At Blackbaud, we are committed to protecting your privacy. You can travel through most of our site without giving us any information about yourself. But sometimes we do need information to provide services that you request. This Website Privacy Policy ("Policy") provides you with information concerning our practices and procedures as they relate specifically to information we collect at this website. If you have additional questions or would like further information on this topic, please feel free to write to us at [webmaster@blackbaud.com](https://web.archive.org/web/20170916030843id_/https%3A//everydayhero.com/us/terms/webmaster@blackbaud.com). By visiting this website, you are accepting the practices described herein. We may update this Policy from time to time, so please check this Policy periodically for changes.
+At Blackbaud, we are committed to protecting your privacy. You can travel through most of our site without giving us any information about yourself. But sometimes we do need information to provide services that you request. This Website Privacy Policy ("Policy") provides you with information concerning our practices and procedures as they relate specifically to information we collect at this website. If you have additional questions or would like further information on this topic, please feel free to write to us at [webmaster@blackbaud.com](https://web.archive.org/web/20180924202927id_/https%3A//everydayhero.com/us/terms/webmaster@blackbaud.com). By visiting this website, you are accepting the practices described herein. We may update this Policy from time to time, so please check this Policy periodically for changes.
 
 * #### Collecting your Personal Information
 
@@ -28,7 +28,7 @@ If you are a California resident, you may ask us to disclose certain information
 
 * #### Promotional Emails
 
-We may send you e-mails with promotional offers, special event information, sales notifications or other messages only if you opt-in to receiving such e-mails. If you would no longer like to receive such e-mails from us, please follow the "Unsubscribe" instructions at the end of each email or contact us at [webmaster@blackbaud.com](https://web.archive.org/web/20170916030843id_/https%3A//everydayhero.com/us/terms/webmaster@blackbaud.com). Your e-mail address will be removed from our marketing list. Please allow us a reasonable period of time in order to satisfy your request, as some promotions may already be in process.
+We may send you e-mails with promotional offers, special event information, sales notifications or other messages only if you opt-in to receiving such e-mails. If you would no longer like to receive such e-mails from us, please follow the "Unsubscribe" instructions at the end of each email or contact us at [webmaster@blackbaud.com](https://web.archive.org/web/20180924202927id_/https%3A//everydayhero.com/us/terms/webmaster@blackbaud.com). Your e-mail address will be removed from our marketing list. Please allow us a reasonable period of time in order to satisfy your request, as some promotions may already be in process.
 
 By creating an account or making a donation through Everyday Hero you are consenting to receive marketing communications from us via e-mail including community-related content, event partner opportunities, cause-related information, product updates, competitions and promotional campaigns. You can opt-out from any of these campaigns using the ‘unsubscribe’ button at the bottom of these emails, or you can unsubscribe from all databases at any time by replying to any email you receive from Everyday Hero with the subject line ‘GLOBAL UNSUBSCRIBE’. Your email address will then be removed from our marketing list. Everyday Hero will process unsubscribe requests within three working days.
 
@@ -44,7 +44,17 @@ We require you to enter your password for security purposes before you update yo
 
 * #### Security of your Personal Information
 
-We restrict access to personal information collected about you at our website to our employees, our affiliates' employees, those who are otherwise specified in this Policy, or others who need to know that information to provide services to you or in the course of conducting our business operations or activities. While no website can guarantee security, we maintain appropriate physical, electronic, and procedural safeguards to protect your personal information collected via the website. We protect our databases with various physical, technical and procedural measures and we restrict access to your information by unauthorized persons. We also advise all Blackbaud employees about their responsibility to protect customer data and we provide them with appropriate guidelines for adhering to our company's business ethics standards and confidentiality policies. Inside Blackbaud, data is stored in password-controlled servers with limited access.
+While no website can guarantee security, everydayhero maintains reasonable administrative, technical and physical safeguards to protect Personal Information from loss, misuse and unauthorized access, disclosure, alteration and destruction.
+
+everydayhero does not disclose any personal information about our users to anyone, except as described in this policy and as permitted by law. We adhere to the Payment Card Industries Standard for storing user information.
+
+Personal and Account information is restricted to those employees who need to know that information as part of their job, to service your account, or to provide products and services to you.
+
+everydayhero maintains physical, electronic, and procedural safeguards that are reasonably designed to guard your non-public personal information.
+
+everydayhero adheres to the Payment Card Industry Data Security Standard (PCI DSS). The Payment Card Industry Data Security Standard (PCI DSS) is a proprietary information security standard for organisations that handle branded credit cards from the major card schemes including Visa, MasterCard, American Express, and Discover.
+
+We also advise all Blackbaud employees about their responsibility to protect customer data and we provide them with appropriate guidelines for adhering to our company's business ethics standards and confidentiality policies. Inside Blackbaud, data is stored in password-controlled servers with limited access.
 
 * #### Links to Other Websites
 
@@ -82,7 +92,7 @@ Blackbaud may update this Policy at any time and from time to time and we will p
 
 * #### Contacting Us
 
-If you have any questions about this Policy or would like to learn more about how we protect privacy, please write to us at Blackbaud, Inc., 2000 Daniel Island Drive, Charleston, SC, 29492-7541, USA or at [webmaster@blackbaud.com](https://web.archive.org/web/20170916030843id_/https%3A//everydayhero.com/us/terms/webmaster@blackbaud.com).
+If you have any questions about this Policy or would like to learn more about how we protect privacy, please write to us at Blackbaud, Inc., 2000 Daniel Island Drive, Charleston, SC, 29492-7541, USA or at [webmaster@blackbaud.com](https://web.archive.org/web/20180924202927id_/https%3A//everydayhero.com/us/terms/webmaster@blackbaud.com).
 
 Last updated February 10, 2017
 
