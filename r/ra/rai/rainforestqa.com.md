@@ -1,38 +1,82 @@
-> *The following text is extracted and transformed from the rainforestqa.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625042235id_/https%3A//www.rainforestqa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainforestqa.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925003403id_/https%3A//www.rainforestqa.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Rainforest QA
+# Privacy Policy - Rainforest QA
 
-### Rainforest Privacy Policy
+## General Information
 
-#### General Information
+The following sections describe the type of personal information we collect, how we use it, and the options available for making changes to that information. This Privacy Policy applies to [https://www.rainforestqa.com](https://www.rainforestqa.com/) (our “Website”), and to the Rainforest Applications and Services (collectively referred to as our “Services”). Please check our Website regularly for updates of this policy at: <https://www.rainforestqa.com/privacy>
 
-We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
+## EU-US Privacy Shield Statement
 
-  * It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law.
-  * We transfer information about you if Rainforest is acquired by or merged with another company. In this event, Rainforest will notify you before information about you is transferred and becomes subject to a different privacy policy.
+Rainforest aims to comply with the EU-US Privacy Shield framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Rainforest strives to adhere to the Swiss-US Privacy Shield and the EU-US Privacy Shield Principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access and recourse, enforcement and liability.
+
+To learn more about the EU-US Privacy Shield and Swiss-US Privacy Shield programs please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/)
+
+For the European market, Rainforest collects and processes European data taking into account the European General Data Protection Regulation (GDPR).
+
+## Personal Information That We Collect
+
+Rainforest collects several types of personal information from website visitors, platform users, employees, customers, suppliers, services providers, advisers, consultants, other professional experts, complainants and enquirers.
+
+## How We Use the Personal Information That We Collect
+
+We use personal information to:
+
+  * Support the processing of our Services (e.g. products and services provision, billing, identification and authentication, services improvement, contact, and research)
+  * Maintain our customer accounts and records (e.g. name, email address, billing address and credit card information).
+  * Carry out our contractual and legal obligations
+  * Support and manage our employees
+  * Send emails, newsletters, and marketing communications
+  * Respond to questions and concerns from customers or data subjects
 
 
 
-#### Information Gathering and Usage
+Rainforest may share personal information with contracted third parties such as our service providers. See “Disclosure of Personal Information” below.
 
-When you register for Rainforest we ask for information such as your name, email address, billing address, credit card information. Members who sign up for the free account are not required to enter a credit card. Rainforest uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research. 
+## Web Tracking Technologies
 
-#### Cookies
+We use web tracking technology to understand usage of our Services and IP addresses. More broadly, technologies such as cookies, beacons, tags and scripts are used by Rainforest and our online service and marketing providers. These technologies are used in analyzing trends, administering the Website, tracking users’ movements around our Website, and to gather demographic information about our website user base as a whole.
 
-A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive. Cookies are required to use the Rainforest service. We use cookies to record current session information, but do not use permanent cookies. You are required to re-login to your Rainforest account after a certain period of time has elapsed to protect you against others accidentally accessing your account contents. 
+We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. We use cookies to remember users’ settings and for internal analytics usage.
 
-#### Data Storage
+Users can control the use of cookies at the individual browser level. If a user rejects cookies, they may still use our Website, but their ability to use some features or areas of our site may be limited. As is true of most Websites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about website users. We do this to improve services we offer, to improve marketing, analytics, or Website functionality.
 
-Rainforest uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Rainforest. Although Rainforest owns the code, databases, and all rights to the Rainforest application, you retain all rights to your data.
+## Making Changes to Personal Information and Opt-Out
 
-#### Disclosure
+Where Rainforest receives personal information for use in our Services in the EU or Switzerland, Rainforest will provide individuals with an opportunity to opt-out to prevent such personal information being disclosed to a third-party. Users may request a change to their personal information or to opt-out by sending us a written explanation to [privacy@rainforestqa.com](mailto:privacy@rainforestqa.com) Where information cannot be changed or removed, we will tell the user the reason(s). We will provide confirmation that the request has been processed within (30) days upon receipt of the request.
 
-Rainforest may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service.
+## Protection of Personal Information
 
-#### Changes
+Rainforest classifies personal information as confidential. We maintain reasonable security measures to protect confidential information from loss, destruction, misuse, and unauthorized access or disclosure. Our Website and Services use transport layer security (TLS) technology. Please note that no method of transmission over the Internet, or method of electronic storage is 100% secure. Therefore, we cannot guarantee its absolute security. If users of our services have any questions about security on our Website and Services, they can email us at [privacy@rainforestqa.com](mailto:privacy@rainforestqa.com)
 
-Rainforest may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Rainforest primary account holder account or by placing a prominent notice on our site.
+## Retention of Personal Information
 
-#### Questions
+Rainforest retains personal information for only as long as needed to comply with our legal obligations, resolve disputes, enforce our agreements, or as otherwise reasonably necessary for our business purposes.
 
-Any questions about this Privacy Policy should be addressed to [hello@rainforestqa.com](mailto:hello@rainforestqa.com). 
+## Disclosure of Personal Information
+
+We sometimes share the personal information we process with the data subject themselves and also with other organizations. Where this is necessary we are required to comply with all aspects of data protection legislation of the applicable domains of operation e.g., European GDPR. We may disclose personal information:
+
+  * as required by law, such as to comply with a subpoena or similar legal process;
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+  * if Rainforest is involved in a merger, acquisition, or sale of all or a portion of its assets. In this case users will be notified via email and/or a prominent notice on our Website of any change in ownership or uses of personal information, as well as any choices data subjects may have regarding their personal information.
+
+
+
+## Social Media Features
+
+Our Website includes social media features, such as interactive mini-programs that run on our Website. These features may collect the website visitors IP address and the pages visited on our Website, and may set a cookie to enable the feature to function properly. Social media features are either hosted by a third party or hosted directly on our Website. Interactions with these features are governed by the privacy policy of the company providing it.
+
+## Links to Other Websites
+
+Our Website may contain links to other Internet sites, such as Twitter and LinkedIn, and they may ask for different personal information. We do not accept any responsibility or liability for the privacy practices of third-party websites. If a website visitor submits personal information to any of those sites, his or her information is governed by their privacy policies. We encourage website visitors to carefully read the privacy policy of any website visited.
+
+## Changes to This Privacy Policy
+
+This Privacy Policy and our practices are internally reviewed on an annual basis for compliance.
+
+If we make any material changes to this policy we will notify impacted data subjects by email or by means of a notice on this Website. We encourage users to periodically review this page for the latest information on our privacy practices.
+
+## Contact Us | Dispute Resolution Related to This Policy
+
+Questions, concerns and/or complaints regarding our Privacy Policy should be emailed to [privacy@rainforestqa.com](mailto:privacy@rainforestqa.com) or mailed to: Rainforest, Inc. Attn: Data Protection Officer, 600 Battery Street, 2nd Floor, San Francisco, CA 94111 USA. We will respond to Complainants within 45 days and take steps to remedy any issues arising out of a failure to comply with our Privacy Policy.
