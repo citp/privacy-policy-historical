@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3d-car-shows.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526084044id_/http%3A//3d-car-shows.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3d-car-shows.com privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924223010id_/https%3A//3d-car-shows.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy 3D Car Shows
 
@@ -57,13 +57,13 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:
 
-<http://www.networkadvertising.org/choices/>
+<https://www.networkadvertising.org/choices/>
 
 ## Google Adsense
 
 Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at
 
-<http://www.google.com/policies/technologies/ads/>
+<https://www.google.com/policies/technologies/ads/>
 
 ## Compliance with children’s online privacy protection act
 
