@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wedding-spot.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001134805id_/https%3A//www.wedding-spot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedding-spot.com privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924133502id_/https%3A//www.wedding-spot.com/privacy) for the most accurate reproduction.*
 
 # Wedding Spot Privacy Policy
 
@@ -13,7 +13,7 @@ Last updated July 10, 2013
 
 Wedding Spot, Inc. ( **"Wedding Spot"** , **"Company"** or **"We"** ) respects your privacy and is committed to protecting it through our compliance with this policy.
 
-This policy describes the types of information we may collect from you or that you may provide when you visit the website [www.wedding-spot.com](http://www.wedding-spot.com/) (our **"Site"** ) and our practices for collecting, using, maintaining, protecting and disclosing that information.
+This policy describes the types of information we may collect from you or that you may provide when you visit the website [www.wedding-spot.com](https://www.wedding-spot.com/) (our **"Site"** ) and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
 This policy applies to information we collect:
 
