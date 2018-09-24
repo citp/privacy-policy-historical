@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uihealthcare.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701204244id_/https%3A//uihc.org/node/107836) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uihealthcare.com privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924185019id_/https%3A//uihc.org/node/107836) for the most accurate reproduction.*
 
-# Privacy Notice in English | University of Iowa Hospitals and Clinics
+# Privacy Notice in English | University of Iowa Hospitals & Clinics
 
 THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.
 
@@ -12,7 +12,7 @@ THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSE
 
 As your health care provider, we are legally required to protect the privacy of your health information, and to provide you with this Notice about our legal duties and privacy practices. This requirement applies to all patients served by University of Iowa Health Care and University of Iowa Student Health Services.
 
-University of Iowa Health Care describes the partnership between University of Iowa Hospitals and Clinics and the Roy J. and Lucille A. Carver College of Medicine. Student Health Services provides health services to University of Iowa students. This Notice applies to health information held by both entities.
+University of Iowa Health Care describes the partnership between University of Iowa Hospitals & Clinics and the Roy J. and Lucille A. Carver College of Medicine. Student Health Services provides health services to University of Iowa students. This Notice applies to health information held by both entities.
 
 University of Iowa Heath Care and Student Health Services are legally required to follow the privacy practices described in this Notice. We will let you know promptly if an error occurs that may have compromised the privacy and security of your health information. If you have any questions or want more information about this Notice, please contact our Privacy Officer at the contact information listed at the end of this Notice.
 
@@ -22,20 +22,20 @@ University of Iowa Heath Care and Student Health Services are legally required t
 
 This Notice applies to all of the records, both electronic and paper, about your care. It includes all information created by staff of University of Iowa Health Care or Student Health Services. This staff includes physicians, other health care professionals, students, and other departmental staff.
 
-This Notice about our privacy practices explains how, when, and why we use and shareyour PHI. We may not use or disclose any more of your PHI than is necessary for the purpose of the use or disclosure, with some exceptions.
+This Notice about our privacy practices explains how, when, and why we use and share your PHI. We may not use or disclose any more of your PHI than is necessary for the purpose of the use or disclosure, with some exceptions.
 
 ## Changes to This Notice
 
-We reserve the right to change the terms of this Notice and our privacy policies. Any changes will apply to your past, current, or future PHI. When we make an important change to our policies, we will change this Notice and post a new Notice on our website ([uihealthcare.org](http://www.uihealthcare.org/ "http://www.uihealthcare.org")). We will have available a copy of the revised Privacy Notice in the place where we provide medical services. The Notice will contain the effective date on the last page. You may also request a copy of our current Privacy Notice at any time from the University of Iowa Hospitals and Clinics Registration Desks.
+We reserve the right to change the terms of this Notice and our privacy policies. Any changes will apply to your past, current, or future PHI. When we make an important change to our policies, we will change this Notice and post a new Notice on our website ([uihealthcare.org](https://uihealthcare.org/ "https://uihealthcare.org/")). We will have available a copy of the revised Privacy Notice in the place where we provide medical services. The Notice will contain the effective date on the last page. You may also request a copy of our current Privacy Notice at any time from the University of Iowa Hospitals & Clinics Registration Desks.
 
 ## Uses of Protected Health Information
 
-University of Iowa Heath Care and Student Health Services collect health information about you and store it in a chart and on a computer. This is your medical record. The medical record is the property of University of Iowa Hospitals and Clinics or Student Health Services, but the information in the medical record belongs to you.
+University of Iowa Heath Care and Student Health Services collect health information about you and store it in a chart and on a computer. This is your medical record. The medical record is the property of University of Iowa Hospitals & Clinics or Student Health Services, but the information in the medical record belongs to you.
 
-We are allowed by law to use and share health information with others without your consent or as the UI Hospitals and Clinics general consent form permits for many reasons. The following examples describe the categories of our uses and disclosures. Please note that not every use or disclosure in each category is listed.
+We are allowed by law to use and share health information with others without your consent or as the UI Hospitals & Clinics general consent form permits for many reasons. The following examples describe the categories of our uses and disclosures. Please note that not every use or disclosure in each category is listed.
 
 Treatment
-    We may use and disclose medical information about you to physicians, nurses, technicians, physicians in training, or other health care professionals who are involved in your care. For example, if you are being treated for a knee injury, we may disclose your PHI to the Department of Rehabilitation Therapies. Different health care professionals, such as pharmacists, lab technicians, and x-ray technicians, also may share information about you in order to coordinate your care. In addition, we may send information to the physician who referred you to University of Iowa Health Care, or other health care providers not affiliated with UI Hospitals and Clinics who are involved in your care. At all times, we will comply with any regulations that apply.
+    We may use and disclose medical information about you to physicians, nurses, technicians, physicians in training, or other health care professionals who are involved in your care. For example, if you are being treated for a knee injury, we may disclose your PHI to the Department of Rehabilitation Therapies. Different health care professionals, such as pharmacists, lab technicians, and x-ray technicians, also may share information about you in order to coordinate your care. In addition, we may send information to the physician who referred you to University of Iowa Health Care, or other health care providers not affiliated with UI Hospitals & Clinics who are involved in your care. At all times, we will comply with any regulations that apply.
 Payment
     We may use and disclose your PHI in order to bill and collect payment for the treatment and services we provided to you. **** For example, we may provide PHI to an insurance company or other third party payor in order to obtain approval for treatment or admission to the hospital. We may also share your health information with another doctor or hospital that has treated you so that they can bill you, your insurance company, or a third party.
 Health care operations
@@ -66,7 +66,7 @@ Hospital Directory
 Healthcare Affiliates/Alliances
     We participate in a variety of electronic health information data sharing agreements with other health care providers, public health organizations, and payors. These data sharing arrangements are to facilitate treatment, improve health care operations, and allow for an analysis of care provided in all settings. These data sharing arrangements are designed to assure appropriate protections are in place and prevent the inappropriate release of your protected health information. If you do not wish to participate in these data sharing arrangements, please notify our Privacy Officer at the contact information listed at the end of this Notice.
 Fundraising
-    We may use your PHI in efforts to raise money for University of Iowa Health Care. We may provide your PHI to the University of Iowa Foundation for this purpose. We would release contact information only, such as your name, address, phone number, and the dates that health care was provided to you. If you do not want University of Iowa Health Care to contact you for fundraising efforts, please notify our Privacy Officer at the contact information listed at the end of this Notice.
+    We may use your PHI in efforts to raise money for University of Iowa Health Care. We may provide your PHI to the University of Iowa Center for Advancement for this purpose. We would release contact information only, such as your name, address, phone number, and the dates that health care was provided to you. If you do not want University of Iowa Health Care to contact you for fundraising efforts, please notify our Privacy Officer at the contact information listed at the end of this Notice.
 Disclosures to family, friends, or others
     We may provide your PHI to a family member, friend, or other person you tell us is involved in your care or involved in the payment of your health care, unless you object in whole or in part. If you are unable to agree or object to such a disclosure, we may disclose such information as necessary if we determine that it is in your best interest. This could include sharing information with your family or friend so they can pick up a prescription or a medical supply. We may also share medical information about you with an organization assisting in a disaster relief effort.
     **Except as described above, all other uses and disclosures of your PHI will require your authorization. Examples of cases where we never share your PHI unless you give us written permission include marketing purposes, sale of your PHI, or psychotherapy notes.**
@@ -107,20 +107,20 @@ If you believe your privacy rights have been violated, you may file a complaint 
 
 To file a complaint with University of Iowa Health Care, notify the University of Iowa Health Care Privacy Officer at the contact information listed below. You may also contact the Office of Patient Relations listed below. You will not be penalized for filing a complaint and your care will not be compromised.
 
-University of Iowa Hospitals and Clinics  
+University of Iowa Hospitals & Clinics  
 Office of Patient Relations  
 200 Hawkins Drive, CC102 GH  
 Iowa City, IA 52242-1009  
-[319-356-1802](tel:1-319-356-1802)  
+[1-319-356-1802](tel:1-319-356-1802)  
 [patient-reps@uiowa.edu](mailto:patient-reps@uiowa.edu)
 
 If you have questions about this Notice, or have any complaints about our privacy practices, please contact:
 
-University of Iowa Hospitals and Clinics  
+University of Iowa Hospitals & Clinics  
 Privacy Officer  
 200 Hawkins Drive, 1346 JCP  
 Iowa City, IA 52242-1009  
-[319-384-8282](tel:1-319-384-8282)  
+[1-319-384-8282](tel:1-319-384-8282)  
 [compliance@healthcare.uiowa.edu](mailto:compliance@healthcare.uiowa.edu)
 
 Contact Information: For: | Contact  
@@ -137,21 +137,21 @@ Contact Information: For: | Contact
   * Inspection and Copying of your Billing Records
   * Amending your Billing Records
 
-|  University of Iowa Hospitals and Clinics  
+|  University of Iowa Hospitals & Clinics  
 Patient Financial Services  
 200 Hawkins Drive  
 Iowa City, IA 52242-1084  
-[319-356-2211](tel:1-319-356-2211)  
+[1-319-356-2211](tel:1-319-356-2211)  
   
   * Inspection and Copying of your Medical Record
   * Amending your Medical Record
   * Revoking your Permission to Disclose your Medical Information
 
-|  University of Iowa Hospitals and Clinics  
+|  University of Iowa Hospitals & Clinics  
 Release of Information  
 200 Hawkins Drive, 2040 SRF  
 Iowa City, IA 52242-1085  
-[319-356-1719](tel:1-319-356-1719)  
+[1-319-356-1719](tel:1-319-356-1719)  
   
 If you would like to file a complaint with the Secretary of the U.S. Department of Health and Human Services, please contact:
 
@@ -159,7 +159,7 @@ U.S. Department of Health and Human Services
 Office for Civil Rights  
 200 Independence Avenue, S.W.  
 Washington, D.C. 20201  
-[877-696-6775](tel:1-877-696-6775)  
+[1-877-696-6775](tel:1-877-696-6775)  
 [www.hhs.gov/ocr/privacy/hipaa/complaints/](https://www.hhs.gov/hipaa/filing-a-complaint/what-to-expect/index.html)
 
 This notice is in effect February 19, 2015.
