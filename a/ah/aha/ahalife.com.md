@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ahalife.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130004911id_/https%3A//www.ahalife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahalife.com privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924202733id_/https%3A//www.ahalife.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - AHAlife.com
+# Privacy Policy | AHAlife
 
 Effective date: January 24, 2014 
 
@@ -68,7 +68,11 @@ _User Profile and Submissions:_ Certain user profile information, including your
 
 _Financial Information:_ As stated above, we do not currently collect financial information, as that information is collected and stored by our Payment Processor. However, we may from time to time request and receive some of your financial information from our Payment Processor for the purposes of completing transactions you have initiated through the Services, enrolling you in discount, rebate, and other programs in which you elect to participate, protecting against or identify possible fraudulent transactions, and otherwise as needed to manage our business. 
 
-_Protection of Us and Others:_ We reserve the right to access, read, preserve, and disclose any information that we believe in good faith is necessary to comply with relevant laws or to respond to subpoenas or warrants served on us; enforce or apply our Terms of Use (<http://www.ahalife.com/terms>) and other agreements; or to protect or defend the rights, property, or safety of our users, other and ourselves. We fully cooperate with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful 
+_Protection of Us and Others:_ We reserve the right to access, read, preserve, and disclose any information that we believe in good faith is necessary to comply with relevant laws or to respond to subpoenas or warrants served on us; enforce or apply our Terms of Use (
+
+[ _http://www.ahalife.com/terms_](http://www.ahalife.com/terms)
+
+) and other agreements; or to protect or defend the rights, property, or safety of our users, other and ourselves. We fully cooperate with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful 
 
 _Business Transfers:_ We may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that would be transferred. Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, Personal Information could be one of the assets transferred to or acquired by a third party. 
 
@@ -91,17 +95,9 @@ The information you can view, update, and delete may change as the Services chan
 
 . 
 
-In certain circumstances under California law, consumer customers of AHAlife who are California residents are entitled to certain information regarding any personally identifiable information (as defined by certain California laws) we may share with direct marketing companies. Personally identifiable information generally is defined under California law as information that identifies specifics about an individual and can be used to identify, contact, or locate an individual including that individual’s name, mailing address, telephone number, mobile phone number, email address and other identification and contact information. If you are an eligible customer of AHAlife and would like to receive a list detailing the types of personally identifiable information we share with direct marketing companies and the names and addresses of all direct marketing companies that we provide personally identifiable information to, please 
+In certain circumstances under California law, consumer customers of AHAlife who are California residents are entitled to certain information regarding any personally identifiable information (as defined by certain California laws) we may share with direct marketing companies. Personally identifiable information generally is defined under California law as information that identifies specifics about an individual and can be used to identify, contact, or locate an individual including that individual’s name, mailing address, telephone number, mobile phone number, email address and other identification and contact information. If you are an eligible customer of AHAlife and would like to receive a list detailing the types of personally identifiable information we share with direct marketing companies and the names and addresses of all direct marketing companies that we provide personally identifiable information to, please [_contact us_](https://web.archive.org/contact). We will respond to any request for information at such email address within thirty (30) days. 
 
-[_contact us_](https://web.archive.org/contact)
-
-. We will respond to any request for information at such email address within thirty (30) days. 
-
-We do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Services or send any personal information about yourself to us. If we learn that we have inadvertently gathered Personally Identifiable Information from children under 13, we shall erase such information from our records and terminate the applicable account(s) promptly. If you believe that a child under 13 may have provided us personal information, please 
-
-[_contact us_](https://web.archive.org/contact)
-
-. 
+We do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Services or send any personal information about yourself to us. If we learn that we have inadvertently gathered Personally Identifiable Information from children under 13, we shall erase such information from our records and terminate the applicable account(s) promptly. If you believe that a child under 13 may have provided us personal information, please [_contact us_](https://web.archive.org/contact). 
 
 You can always opt not to disclose information to us, but keep in mind some information may be needed to register with us or to take advantage of some of our special features. 
 
