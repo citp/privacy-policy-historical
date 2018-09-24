@@ -1,19 +1,124 @@
-> *The following text is extracted and transformed from the sydneytrains.info privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602203342id_/http%3A//www.sydneytrains.info/general/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sydneytrains.info privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924043742id_/https%3A//transportnsw.info/about-us/privacy) for the most accurate reproduction.*
 
-# Privacy - Sydney Trains
+# Privacy | transportnsw.info
 
-Under the Privacy and Personal Information Protection Act 1998 (NSW), you have the right to know the information that Sydney Trains collects about users of its website, the purpose for which the information is collected, how the information is used and to whom, if anyone, the information is to be disclosed.
+This NSW Government website is maintained by Transport for NSW. This Privacy Statement applies to all the publicly accessible pages located at the www.transportnsw.info site ( **Site** ).
 
-## Site visit data
+Transport for NSW does not have any responsibility for the privacy policies or practices of third party sites linked to the transportnsw.info site.
 
-Sydney Trains maintains site visit data to help us improve our site and provide better train services. When you access the Sydney Trains website, Sydney Trains logs your IP address (which indicates the location of your computer on the Internet), the date and time of your visit and the pages accessed. Sydney Trains may also perform analysis of the user behaviour of its website in order to measure interest in various areas of the website. Sydney Trains does not identify users or their browsing activities.
+If you have any questions about the Site or the application of this Privacy Statement or a request for access to information held by Transport for NSW, please contact:
 
-## Feedback
+Manager, Information and Privacy Unit  
+Transport for NSW  
+PO Box K659   
+Phone: 02 8202 3768  
+Email: [privacy@transport.nsw.gov.au](mailto:privacy@transport.nsw.gov.au)
 
-If you submit a website feedback form, the details that you submit to Sydney Trains will be securely stored and used for the purpose of improving the Sydney Trains website and services. Any complaints submitted via the Sydney Trains website will be forwarded to Transport Info (131 500).
+Users of the Site are entitled to expect that any information gathered while using the Site will be treated within the terms of the New South Wales government's privacy responsibilities and obligations. The New South Wales government's privacy practices are regulated by the  _Privacy and Personal Information Protection Act 1998_  (NSW) ( **PPIPA** ) and  _Health Records and Information Privacy Act 2002_  (NSW) ( **HRIPA** ).
 
-## Disclosure of information
+This Privacy Statement sets out how Transport for NSW collects, uses, discloses and stores information collected through your use of the Site, which may include personal information and health information, and how individuals may access and correct personal information that we may hold.  Transport for NSW will only collect, use and disclose this information in accordance with PPIPA, HRIPA and any other applicable laws.  
 
-We disclose relevant personal information to external organisations that help us provide services. These organisations are bound by confidentiality arrangements.
+When you access the pages on our Site our computers automatically record information that identifies, for each page accessed:
 
-For further information or inquiries regarding privacy, contact the [Sydney Trains GIPA/Right to Information & Privacy Office](http://www.sydneytrains.nsw.gov.au/).
+  * the IP (Internet Protocol) address of the device being used, which can sometimes be matched to broad geographic data
+  * the pages accessed, documents downloaded and transactions completed such as keywords searched for onsite or trip plans and other forms completed
+  * the date and time of your visit
+  * the last site and page visited immediately prior to arriving at the transportnsw.info site, including any search terms used at internet search engines
+  * the address, hostname and top-level domain, for example .com or .au, of your server
+  * the type of browser and operating system used on the device
+  * the bandwidth, that is, your internet connection speed
+  * if the device supports JavaScript or other specific technologies and their version number
+  * the number of screen colours displayed on the device
+  * the time spent on each page of the transportnsw.info site
+
+
+
+Only some of this information may be considered personal information.
+
+If you use the feedback facilities on the Site you may also choose to provide us with your personal information such as your name, address, phone number and relevant contact details or other information about you. Depending on your complaint or the service you require, sometimes this information may also include health information. You may choose to provide feedback anonymously or not provide all the information requested.  If you use the feedback facilities anonymously or do not provide us with the requested information we may not be able to reply to your feedback.
+
+### **Cookies**
+
+We collect the information on our Site by using ‘cookies’ which are small pieces of text data that a web server can store on, and later retrieve from, a computer. They do not personally identify you, but do identify your browser. Cookies can be either 'persistent' or 'session' based. Persistent cookies are stored on your computer, contain an expiration date, and may be used to track your browsing behaviour upon return to the issuing website. Session cookies are short-lived, are used only during a browsing session, and expire when you shut down your browser.
+
+We use first and second party persistent cookies (i.e. issued and retrieved by the transportnsw.info systems or its service providers) to collect information about visitor behaviour and general website statistics. We may also use services, for example, Facebook Pixel and Cadreon, which may place cookies on your browser to provide relevant advertisements and information from us to your browser or app.
+
+The cookies on the Site do not read the information on your hard drive. Transport for NSW makes no attempt to associate cookies with users' names or identities. Our server cannot find out your name or email address from the cookies used on the site.
+
+You can accept or decline cookies by modifying the settings on your browser. Disabling cookies will not affect your ability to use our websites.
+
+If you would like to enable/disable cookies in your browser, you can do this in:
+
+  * Google Chrome > Settings > Show advanced settings > Privacy > Content settings
+  * Mozilla Firefox > Options > Privacy > History (Use custom settings for history)
+  * Safari > Edit > Preferences > Privacy
+  * Internet Explore > Tools > Internet Options > Privacy
+
+
+
+### **Analytics services**
+
+We also use analytics services (for example, Google Analytics and Facebook pixel) to help us analyse and provide reporting on how users use the Site.
+
+The information collected on our Site may be used to allow us to provide a faster and richer interaction when you return to the Site in the future, such as being able to populate fields in the Trip Planner from your previous entries. 
+
+In addition, the information collected during each visit is aggregated with similar logged information and published in reports so Transport for NSW can identify patterns of usage of the Site. This will assist us in improving the Site and the services offered on it.
+
+Feedback that we receive from you through the Site will be used according to the “What we do with feedback information” section further below.
+
+Finally, your information may be used to maintain and protect the security of the Site.
+
+The information provided will be disclosed to service providers for them to help us analyse how users use the Site. This information does not identify individual users.
+
+Transport for NSW captures this information on its own computers and those of its service providers. Access to the raw data is restricted to a limited number of officers in Transport for NSW and its service providers for the purpose of website analysis and to report on the success of Transport for NSW in meeting its communication and access objectives. Transport for NSW will not disclose or publish information that identifies individual machines, or potentially identifies sub-groupings of addresses, without your consent or otherwise in accordance with the PPIPA and HRIPA (for example, disclosure may be required by law).
+
+Transport for NSW may use and disclose more extensive information than stated above in certain circumstances, including:
+
+  * unauthorised attempts to access files which are not published transportnsw.info pages
+  * unauthorised tampering or interference with files published on the Site
+  * unauthorised attempts to index the contents of the Site by other websites
+  * attempts to intercept messages of other users of the Site
+  * communications that are defamatory, abusive, vilify individuals or groups or which give rise to a suspicion that an offence is being committed, and
+  * attempts to otherwise compromise the security of the web server, breach the laws of the State of New South Wales or Commonwealth of Australia, or interfere with the enjoyment of the Site by other users.
+
+
+
+Transport for NSW reserves the right to make disclosures to relevant authorities where the use of the Site raises a suspicion that an offence is being, or has been, committed. In the event of an investigation, Transport for NSW will provide access to data to any law enforcement agency that may execute a warrant to inspect our logs.
+
+Transport for NSW provides feedback facilities on the Site to allow users to provide input into the future development of the Site and to comment on the provision of transport services in NSW.
+
+Personal information and sometimes, health information, are requested to enable follow up by Transport for NSW for more details or for the purpose of providing a reply to your feedback. This information will only be used for the primary purpose for which it was provided. We will not add your email address or name to any mailing list. We will not disclose your personal information or health information without your consent or as otherwise may be permitted in accordance with the PPIPA and HRIPA (for example, disclosure may be required by law).
+
+Transport for NSW may publish aggregated information about feedback on the Site, to the extent that it does not identify or cannot be used to identify individual users.
+
+If you choose to view your Opal card activity on this Site, you will need to provide your Opal access details, either:
+
+  * username/email for your Opal account
+  * password for your Opal account
+
+
+
+Or
+
+  * Opal card number
+  * security code
+
+
+
+These details will then be used to connect with the Opal database and enable your travel history to be retrieved and displayed on this Site.
+
+This information is not shared with any other another third party system and is not stored on the Site.
+
+Information collected is stored in an appropriately secure format and held by Transport for NSW for archival purposes. When the information is no longer required for the purposes for which it was collected it is deleted.
+
+If you wish to:
+
+  * ask questions about this Privacy Statement ;
+  * obtain access to or seek correction of your personal information; or
+  * make a complaint in relation to your privacy,
+
+
+
+please contact the Information and Privacy Unit (as per the details provided at the start of this Privacy Statement).
+
+Due to the developing nature of privacy principles for online communication, this Privacy statement may be modified or expanded in light of new developments or issues that may arise from time to time. The amended Privacy Statement will be posted to the Site and will operate from the time it is posted.
