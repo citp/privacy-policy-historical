@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cesarsway.com privacy policy that was archived on 2017-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171018180122id_/https%3A//www.cesarsway.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cesarsway.com privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924171630id_/https%3A//www.cesarsway.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Cesar's Way
 
@@ -101,6 +101,7 @@ We may occasionally modify this policy, and such modification shall be effective
 If you have any questions, comments, or concerns about this privacy policy, please contact us using the following contact information:
 
 Cesar’s Way Inc.  
-P.O. Box 57857  
-Sherman Oaks, CA 91413  
+PO Box 802888  
+Santa Clarita, CA 91380-2888
+
 [contactus@cesarsway.com](mailto:contactus@cesarsway.com)
