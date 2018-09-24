@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamersdecide.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524141015id_/http%3A//www.gamersdecide.com/privacy-policy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamersdecide.com privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924062322id_/http%3A//www.gamersdecide.com/privacy-policy-cookies) for the most accurate reproduction.*
 
 # Privacy policy & cookies | GAMERS DECIDE
 
@@ -32,7 +32,7 @@ Privacy policy
 
 3.2    We may process data about your use of our website and services ("usage data"). The usage data may include your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths, as well as information about the timing, frequency and pattern of your service use. The source of the usage data is our analytics tracking system. This usage data may be processed for the purposes of analysing the use of the website and services. The legal basis for this processing is consent or our legitimate interests, namely monitoring and improving our website and services.
 
-3.3    We may process your account data ("account data"). The account data may include your name and email address. The source of the account data is directly from you but only with your explicit permission. The account data may be processed for the purposes of operating our website, providing our services, ensuring the security of our website and services, maintaining back-ups of our databases and communicating with you. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business.
+3.3    We may process your account data ("account data"). The account data may include your name, d.o.b. and email address. The source of the account data is directly from you but only with your explicit permission. The account data may be processed for the purposes of operating our website, providing our services, ensuring the security of our website and services, maintaining back-ups of our databases and communicating with you. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business.
 
 3.4    We may process your information included in your personal profile on our website ("profile data"). The profile data may include your name, email address, profile pictures, date of birth, interests and hobbies. The profile data may be processed for the purposes of enabling and monitoring your use of our website and services. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business.
 
@@ -64,7 +64,7 @@ Privacy policy
 
 5.2    The hosting facilities for our website are situated in US, Europe and UK. The European Commission has made an "adequacy decision" with respect to the data protection laws of each of these countries. Transfers to each of these countries will be protected by appropriate safeguards, namely EU-U.S. Privacy Shield Framework.
 
-5.3    Mailing databases are situated in US and Australia. The European Commission has made an "adequacy decision" with respect to the data protection laws of each of these countries. Transfers to each of these countries will be protected by appropriate safeguards, namely  EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield.
+5.3    Mailing databases are situated in the US. The European Commission has made an "adequacy decision" with respect to the data protection laws of each of these countries. Transfers to each of these countries will be protected by appropriate safeguards, namely  EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield.
 
 5.4    You acknowledge that personal data that you submit for publication through our website or services may be available, via the internet, around the world. We cannot prevent the use (or misuse) of such personal data by others.
 
@@ -76,7 +76,7 @@ Privacy policy
 
 6.3    We will retain and delete your personal data as follows:
 
-(a)    Profile data containing personal data will be retained for two years following your last login, if you have not logged in for over two years, you will be notified of this. If we have not received notification within 30 days of your intent to use your account we will delete your profile data and notify you of this deletion.
+(a)    Profile data containing personal data will be retained for three years following your last login, if you have not logged in for over three years, you will be notified of this. If we have not received notification within 30 days of your intent to use your account we will delete your profile data and notify you of this deletion.
 
 (b)    Cookie data will be retained for no longer than 30 days.
 
@@ -191,4 +191,4 @@ Privacy policy
 13.   Contacting the Web Site  
 If you have any questions about this comments system policy, the practices of this site, or your dealings with this Web site, you can contact:
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d9b3b8b4bcaaf7bab6b6a9bcab99beb8b4bcabaabdbcbab0bdbcf7bab6b4)
+[james.cooper@gamersdecide.com](mailto:james.cooper@gamersdecide.com)
