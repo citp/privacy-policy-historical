@@ -1,15 +1,13 @@
-<!--The following is the downloaded HTML source of the wrangler.com privacy policy that was archived on 2017-10-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171007172734id_/https%3A//www.wrangler.com/help/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wrangler.com privacy policy that was archived on 2018-09-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180924052647id_/https%3A//www.wrangler.com/help/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js vfrs cms" lang="en"><!--<![endif]--><head>
-<!-- CMS Branch: release/rel-4.17 P2 -->
-<!-- CMS Commit Id: 35a7d09 -->
-<!-- CMS Build Version: 4.17.19378.35a7d0910ea7 -->
-<!-- Page Generation Time: 2017/10/07 01:11:44 -->
+<!-- CMS Branch: release/rel-18.18 -->
+<!-- CMS Commit Id: e94bb19 -->
+<!-- CMS Build Version: 18.18.35.e94bb19 -->
+<!-- Page Generation Time: 2018/09/21 09:39:54 -->
 <title>Privacy Policy &amp; Legal Notices</title>
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-<meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MCGFRZ"></script><script>
 		if (top.location != self.location) {
@@ -24,12 +22,16 @@
 <script type="text/javascript">
 			window.isEditMode = false;
 		</script>
-<link href="/etc/designs/vfcorp/wrangler/clientlibs/global/css/global-cms.css?4-17-19378-35a7d0910ea7" rel="stylesheet" type="text/css">
+<link href="/etc/designs/vfcorp/wrangler/clientlibs/global/css/global-cms.css?18-18-35-e94bb19" rel="stylesheet" type="text/css">
 <script type="text/javascript">
 	dataLayer = [ {
 		"pageName" 		: "privacy",
 		"pageCategory"	: "",
 		"platform" 		: "AEM",
+        "language"		: "en",
+        "country"		: "US",
+        "currency" 		: "USD",
+        "currencySymbol": "$"
 	} ];
 </script>
 <!-- Google Tag Manager -->
@@ -42,7 +44,7 @@
 <!-- ESI/SSI Start Head Remote-->
 <!-- IncludeURL: https://www.wrangler.com/webapp/wcs/stores/servlet/VFPageHeaderRegistryView?storeId=7401&langId=-1&aem=true&cmEnabled=false -->
 <!-- ESI include -->
-<!-- generated: Sat Oct 07 07:32:27 EDT 2017 -->
+<!-- generated: Sun Sep 23 06:53:03 EDT 2018 -->
 
 
 <meta name="storeId" content="7401">
@@ -104,22 +106,22 @@
             "navHeaderExcludeSearchSuggestion" : false,
             "bloomReachEnabled" : true,
             "trackOrdersMadeInStoreEnable" : false,
-            "enableKioskSessionButtons": false,
+            "enableKioskSessionButtons": true,
             "favoritesEnabled": false,
             "kioskClearSessionReturnURL" : 'https://www.wrangler.com/shop/LogonForm?langId=-1&storeId=7401',
             "attraqtEnabled" : false,
             "attraqtSearchEnabled" : false,
-            "productDoubleExposeDelimiter" : '',
             "onlineExchangeEnabled" : false,
-            "kioskEnabled": false,
+            "kioskEnabled": true,
             "recaptchaAPI" : 'https://www.google.com/recaptcha/api.js?render=explicit&onload=recaptchaOnLoadCallBack',
             "recaptchaAPISitekey": '6LdcAxsUAAAAADupcxensuJzbBJNH6ckPnnc03dl',
             "currencySymbol": '$',
+            "currencyCode": "USD",
             "fontsDeferredLoadingEnabled": false,
             "isBloomReachMoreEnabled": false,
-            "ecomBuildLabel": '201709111122',
-            "ecomBuildBranch": 'release/rel-4.17',
-            "ecomBuildTag": 'release/rel-4.17/ECOM/201709111122'
+            "ecomBuildLabel": '201809141700',
+            "ecomBuildBranch": 'release/rel-18.18',
+            "ecomBuildTag": 'release/rel-18.18/ECOM/201809141700'
         };
         
         WCS_CONFIG.BOPIS = {
@@ -129,30 +131,26 @@
             "w2giMaxRadius": '100',
             "w2giWhereClauseBrand": '',
             "w2giKey": '955E76F0-416F-11E3-95D3-B6F01FB6C313',
+            "w2giServerApiEnabled" : true,
+            "w2giServerApiURL" : 'https://www.wrangler.com/shop/VFAjaxGetStoresView?langId=-1&storeId=7401',
             "bopisFavStore": 'FAVSTORE',
             "pickUpInStoreCode": 'PickupInStore',
-            "bopisEnabled": false
+            "bopisEnabled": false,
+            "bopisFavoriteEnabled": false
         };
         
-        WCS_CONFIG.ATTRAQT = {
-			"COUNTRY": '',
-            "ENABLED": false,
-            "MAINJS": '',
-            "AUTOCOMPLETE_ENABLED": false,
-            "AUTO_COMPLETE_JS": '',
-            "JQUERY_AUTO_COMPLETE_JS": '',
-            "PDP_TRACKING_ENABLED": false,
-            "ORDER_TRACKING_ENABLED": false,
-            "QUICKVIEW_TRACKING_ENABLED": false
-        };   
-        
+    
+	    WCS_CONFIG.ATTRAQT = {
+	        "ENABLED": false
+	    };
+	
 
         WCS_CONFIG.cart = {
             "showCartOnlyWhenActive": false,
             "showCartFirstLoad": true,
             "shortShippingMethodNameEnabled": false,
             "shopCartPromoCodeEnabled": true,
-            "orderItemPriceDisplayAdjustmentEnabled": false,
+            "orderItemPriceDisplayAdjustmentEnabled": true,
             "shopcartPromoSectionCollapsed": true
         };
 
@@ -182,22 +180,37 @@
             "showPriceAboveAddToCart" : true,
             "pdpShowOOSInSizeDropDown" : false,
             "pdpMobileCTACheckoutEnabled" : true,
+            "pdpMobileCTAShippingEnabled" : false,
             "pdpMobileCTAButtonText" : 'Checkout',
             "pdpTemplateType" : 'swatches',
             "pdpDisplayBracketInDiscountPercent":true,
             "pdpInstoreOMSInventoryCheckEnabled":false,
+            "pdpInstoreFilterShowInstockOnly":false,
             "pdpShowOutOfStockEnabled":false,
             "pdpInStoreW2GICountryCode":'US',
             "pdpShowStockAvailabilityDisclaimerEnabled":'false',
-            "pdpListPriceRangeEnabled":false
-        };
+            "pdpListPriceRangeEnabled":false,
+            "pdpSizeSelectorBoxDisplayEnabled":'true',
+            "w2giAddWhereClauseFilterStores":false,
+            "w2giStoreField" :'',
+            "w2gifetchBrandStores":true,
+            "w2gifetchOutletStores":false,
+            "w2gifetchSummitSeries":false,
+            "w2gifetchAuthorizedDealers":false,
+            "w2gicatalogStoreIdCheck" :false,
+            "w2gifilterOOSStores" :false,
+            "w2giServerApiEnabled" :true,
+            "instoreAvailabilityEnabled" :false,
+            "pdpInStoreUseCityStateZip" :false,
+            "skuLevelBadgeAttributeEnabled":false
+          };
 
         WCS_CONFIG.grid = {
             "showLoadingNotification": true,
             "productGridColorClickThroughEnabled": true,
             "isProductGridSwatchesExpansionEnabled": true,
             "isProductImageOfColorOnHoverEnabled": false,
-            "isAlternateViewEnabled": false,
+            "isAlternateViewEnabled": true,
             "gridAltViewHoverDelay": 500,
             "gridAltViewFadeSpeed": 'slow',
             "gridTopBarEnabled": true,
@@ -207,12 +220,16 @@
             "redirectToPDPOnSwatchClickEnabled": false,
             "productListFloatingFiltersEnabled": false,
             "productListFloatingFiltersCollapseAtNavBottom": false,
+            "productListStickySidebarFiltersEnabled":false,
             "pageSizeByDeviceEnabled": false,
             "pageSizeForMobile": 24,
             "pageSizeForTablet": 48,
             "pageSizeForDesktop": 72,
             "easyAskMultiSelectFacetEnabled": false,
-            "unfilteredSearchInventorySensitive": true
+            "unfilteredSearchInventorySensitive": true,
+            "adaptiveProductGroupingEnabled": false,
+            "maxProductsToDisplay": 6,
+            "facetEngine": 'facets'
         };
 
         WCS_CONFIG.owlCarousel = {
@@ -236,7 +253,6 @@
             "checkoutGiftOptionEnabled": false,
             "addressAutoCompleteEnabled" : false,
             "checkoutAddressAutoCompleteGeoLocationEnabled" : true,
-            "checkoutSingleFieldCCEntryEnabled": false,
             "worldPayConnectionErrorText": '???WORLDPAY_CONNECTION_ERROR_INFO_TEXT???',
             "worldPayBillingEnabled": 'false',
             "paymentSectionSideBySideLayoutEnabled": false,
@@ -262,16 +278,18 @@
             "proceedToPaymentCTAEnabled" : false,
             "qasFindAddressTimeout" : 2500,
             "syncShipModesForDYO" : false,
-            "giftCardCaptchaEnabled" : false,          
-            "giftCardAttemptMaxCountWithoutCaptcha" : 3 ,
+            "giftCardCaptchaEnabled" : true,          
+            "giftCardAttemptMaxCountWithoutCaptcha" : 0,
             "creditCardCaptchaEnabled" : true,          
-            "creditCardAttemptMaxCountWithoutCaptcha" : 5,
-            "deliveryMethodFromStoreTextEnabled":false
+            "creditCardAttemptMaxCountWithoutCaptcha" : 3,
+            "deliveryMethodFromStoreTextEnabled":false,
+            "w2giServerApiEnabled" : true
         };
 
         WCS_CONFIG.address = {
             "isRelaxedValidationRuleForCountryEnabled": false,
-            "qasAddressListDropdownDefault": 'Please select an address from the list'
+            "qasAddressListDropdownDefault": 'Please select an address from the list',
+            "qasReturnsEnabled": false
         };
 
         WCS_CONFIG.topnav = {
@@ -286,12 +304,12 @@
              "navHeaderSignInLabelEnabled": false,
              "mobileScrollToTop": false,
              "headerNavGreeting": 'Hi,',
-             "navHoverDelay": 250,
-             "accordionMenuEnabled": false
+             "navHoverDelay": 250
         };
 
         WCS_CONFIG.quickView = {
-            "quickViewAlternateViewsEnabled": false
+            "quickViewAlternateViewsEnabled": false,
+            "quickViewNotifyMeEnabled" : false
         };
 
         WCS_CONFIG.BackToTop = {
@@ -303,7 +321,9 @@
              "addressAutoCompleteEnabled": "false",
              "posLogonUtmCampaign": "store-",
              "passwordResetCaptchaEnabled" : true,          
-             "passwordResetAttemptMaxCountWithoutCaptcha" : 3
+             "passwordResetAttemptMaxCountWithoutCaptcha" : 3,
+             "logonCaptchaEnabled" : true,          
+             "logonAttemptMaxCountWithoutCaptcha" : 3
         };
 
         WCS_CONFIG.ANALYTICS = {
@@ -324,20 +344,14 @@
             }
         };
 
-    
         var VIEWPORTS = {
             "S7_PRESETS": {
                 "THUMBNAIL" : '$ARTICLE-PRODUCT-BOTTOM-MOBILE$',
                 "MAIN_VIEW_DESKTOP": '$585x585$',
                 "MAIN_VIEW_TABLET" : '$585x585$',
-                "MAIN_VIEW_MOBILE" : '$ARTICLE-PRODUCT-BOTTOM$',
+                "MAIN_VIEW_MOBILE" : '$323x323$',
                 "MAIN_VIEW_HOPUP" : '$920x920$',
                 "THUMBNAIL_CLEAN" : 'ARTICLE-PRODUCT-BOTTOM-MOBILE'
-            },
-            "BREAKPOINTS": {
-                "MOBILE" : {"MIN": 0, "MAX" : 639},
-                "TABLET" : {"MIN": 640, "MAX" : 1023},
-                "DESKTOP" : {"MIN": 1024, "MAX" : 1128}
             }
         };
 
@@ -357,28 +371,8 @@
     };
 
     
-            WCS_CONFIG.scene7 = {
-                scene7PDPViewer: 'VFDPS7Viewer',
-                scene7PDPViewerName: 'FlyoutViewer',
-                scene7ProductImageSetSuffix: '_is?req=imageset,json&handler=imageSetCallBack',
-                scene7ImageSetPattern: 'COLORCODE',
-                scene7ViewerUrl: '//images.wrangler.com/s7viewers/html5/js/VFDPS7Viewer.js'
-            };
-
-            var SCENE7 = {
-                HOST: '//images.wrangler.com/',
-                BRAND: 'Wrangler',
-                SERVER_URL: '//images.wrangler.com/is/image/',
-				SET_SUFFIX: '_is',
-                LOCALE: 'en',
-                TIP_BUBBLE_OVER: "Mouse over image for a closer look.",
-                IMAGE_PATTERN: '{prefix}/{pattern}{view}?${profile}${postfix}',
-                URL_PREFIX: '//images.wrangler.com/is/image/Wrangler',
-                IMAGE_NAME_PATTERN: '',
-                HERO_VIEW_NAME: '{color_identifier}-HERO',
-                URL_POSTFIX: '',
-                VIEWER_CONFIG: {"medium":{"Swatches":{"position":"bottom","modifiers":{"align":"center,center"}},"ControlBar":{"modifiers":{"transition":"fade"}}},"large":{"Swatches":{"position":"left","modifiers":{"align":"center,top"}}}}
-               };
+            WCS_CONFIG.scene7 = {"scene7PDPViewer":"VFDPS7Viewer","scene7PDPViewerName":"FlyoutViewer","scene7ViewerUrl":"//images.wrangler.com/s7viewers/html5/js/VFDPS7Viewer.js"};
+            var SCENE7 = {"HOST":"//images.wrangler.com/","BRAND":"Wrangler","SERVER_URL":"//images.wrangler.com/is/image/","LOCALE":"en","TIP_BUBBLE_OVER":"Mouse over image for a closer look.","URL_PREFIX":"//images.wrangler.com/is/image/Wrangler","VIEWER_CONFIG":{}};
         
 
         WCS_CONFIG.HandleBarsModules = {};
@@ -398,7 +392,7 @@
             displayFeaturedResultsTextHeader: true, 
             hasFeaturedResults : true,
             topSearchesText : 'Keywords:',
-            searchAllText : 'Search all ',
+            searchAllText : 'Search all',
             featuredResultsText : 'Products:',
             loadParameters : {
                 target : '.search-form-js',
@@ -413,13 +407,14 @@
             "MINI_WISHLIST_URL" : '//www.wrangler.com/webapp/wcs/stores/servlet/VFAjaxGetMiniWishListView',
             "AUTOCOMPLETE_URL"  : '//www.wrangler.com/webapp/wcs/stores/servlet/VFAutoSuggestView',
             "ARTICLESEARCH_URL" : '//www.wrangler.com/bin/aem/search/articlesearch',
-            "FREE_GIFT_URL" : '//www.wrangler.com/webapp/wcs/stores/servlet/VFPromotionFreeGiftChoicesView',
+            "FREE_GIFT_URL" : '//www.wrangler.com/webapp/wcs/stores/servlet/VFPromotionFreeGiftChoicesView?langId=-1&storeId=7401',
             "SFL_INSTOCK_EDIT_URL"  : '//www.wrangler.com/webapp/wcs/stores/servlet/VFEditShopCartDisplay?storeId=7401',
             "SFL_CUSTOM_EDIT_URL"   : 'https://www.wrangler.com/shop/CategoryDisplay?catalogId=13652&linkRef=editCart&langId=-1&identifier=NEW+CUSTOMS&storeId=7401&page=configure',
             "SFL_MTC_WISHLIST_URL"  : 'VFAjaxInterestItemAdd?storeId=7401&listId=.',
             "SFL_MTC_WISHLIST_LAST_REMOVE" : 'VFOrderItemDelete?storeId=7401&langId=-1&URL=OrderItemDisplay%3flangId%3d-1%26storeId%3d7401%26orderId%3d.%26removeToWL%3dtrue',
             "ADD_TO_FAVORITELIST_URL"  : 'VFAjaxInterestItemAdd?storeId=7401&listId=.',
-            "REMOVE_FROM_FAVORITELIST_URL"  : 'VFAjaxInterestItemDelete?storeId=7401&listId=.'
+            "REMOVE_FROM_FAVORITELIST_URL"  : 'VFAjaxInterestItemDelete?storeId=7401&listId=.',
+            "GIFT_OPTION_URL" : '//www.wrangler.com/webapp/wcs/stores/servlet/VFGiftOptionAddEditDisplay?storeId=7401'
         };
         var espotHeaderNavCloneEnabled = true;
         var hideSearchResultsOnMobile  = 'false';
@@ -452,13 +447,28 @@
 <!-- Begin Monetate Custom Tag -->
 <script type="text/javascript">var monetateT = new Date().getTime();</script>
 <script type="text/javascript" src="//se.monetate.net/js/2/a-3b6723fd/p/wrangler.com/entry.js"></script><!-- END Monetate tag. -->
-<script src="/etc/designs/vfcorp/wrangler/clientlibs/global/js/manifest.js?4-17-19378-35a7d0910ea7"></script>
-<script data-main="cms.main" src="/etc/designs/vfcorp/wrangler/clientlibs/global/js/lib/require.js?4-17-19378-35a7d0910ea7"></script>
+<script src="/etc/designs/vfcorp/wrangler/clientlibs/global/js/manifest.js?18-18-35-e94bb19"></script>
+<script data-main="cms.main" src="/etc/designs/vfcorp/wrangler/clientlibs/global/js/lib/require.js?18-18-35-e94bb19"></script>
 <!-- ESI/SSI Start Head Remote-->
 <!-- IncludeURL: https://www.wrangler.com/webapp/wcs/stores/servlet/VFPageHeaderScriptsView?storeId=7401&langId=-1&aem=true&cmEnabled=false -->
 <!-- ESI include -->
-<!-- generated: Sat Oct 07 07:32:27 EDT 2017 -->
+<!-- generated: Sun Sep 23 06:53:03 EDT 2018 -->
 
+
+    <script>
+        try{
+            if (typeof 300 === "number"){            
+                if ("performance" in window && window.performance) {     
+                   if(window.performance.setResourceTimingBufferSize) {         
+                      performance.setResourceTimingBufferSize(300);     
+                   }     
+                   else if(window.performance.webkitSetResourceTimingBufferSize) {         
+                      performance.webkitSetResourceTimingBufferSize(300);     
+                   } 
+                }
+            }
+        }catch(e){} 
+    </script> 
 <!-- -->					
 
 
@@ -484,7 +494,7 @@
 <meta property="og:url" content="https://www.wrangler.com/help/privacy.html">
 <meta property="og:description" content="">
 <!-- No og:image set -->
-<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="cms.main" src="/etc/designs/vfcorp/wrangler/clientlibs/global/e427b10/js/main-cms.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="wcs.zmetrics" src="/etc/designs/vfcorp/wrangler/clientlibs/global/e427b10/js/metrics/zmetrics.js"></script></head>
+</head>
 <body id="" class="">
 <!--[if lte IE 9]>
 	    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
@@ -494,127 +504,117 @@
 <!-- ESI/SSI Start Top Nav-->
 <!-- IncludeURL: https://www.wrangler.com/webapp/wcs/stores/servlet/VFHeaderDisplayView?storeId=7401&langId=-1&aem=true -->
 <!-- ESI include -->
-<!-- -->			
+<!-- generated: Sun Sep 23 06:53:03 EDT 2018 -->
 
 
-
-
-
+		<section id="global-cart-wishlist-panels" class="mini-cart-section l-top global-cart-wishlist-panels-js global-cart-wishlist-panels-top-js hide">
+			<ul class="mini-cart-tags tags hide">
+				<li class="mini-cart-tag mini-cart-tag-shopcart cart cart-js" data-tabcontent-id="shopcart">
+					<span class="mini-cart-tag-qty mini-cart-tag-shopcart-qty nav-shoppingbag-qty-js"></span>
+					<div id="icon-panel-cart" class="mini-cart-tag-cart-icon mini-cart-tag-shopcart-icon graphic-icon-panel-cart"></div>
+				</li>
+			</ul>
+			<div class="mini-cart-notification notification hide"></div>
 		
+			
+				<div class="hide-for-medium-up small-12 columns">	
+					
 
+<div class="email-me-my-cart-action-container text-center">
+    <a class="email-me-my-cart-action-open-form email-me-my-cart-email-only-action-open-form-js" data-action="open-form">
+        <span class="icon icon-mail"></span>Email Me My Cart
+    </a>
+</div>
 
-
-<section id="global-cart-wishlist-panels" class="mini-cart-section l-top global-cart-wishlist-panels-js global-cart-wishlist-panels-top-js hide" data-currency="USD">
-	<ul class="mini-cart-tags tags hide">
-		<li class="mini-cart-tag mini-cart-tag-shopcart cart cart-js" data-tabcontent-id="shopcart">
-			<span class="mini-cart-tag-qty mini-cart-tag-shopcart-qty nav-shoppingbag-qty-js"></span>
-			<div id="icon-panel-cart" class="mini-cart-tag-cart-icon mini-cart-tag-shopcart-icon graphic-icon-panel-cart"></div>
-		</li>
-	</ul>
-	<div class="mini-cart-notification notification hide"></div>
-
+<form action="https://www.wrangler.com/webapp/wcs/stores/servlet/VFCEmailCart" data-vfdp-novalidate="" class="email-me-my-cart-email-only-form validation-form wcs-form email-me-my-cart-form-js" method="post">
 	
-	<div class="mini-cart-content content">
-		<article class="mini-cart-content-container mini-cart-shopcart-content-container shopcart cart-list" data-tabcontent="shopcart"></article>
-	</div>
-</section>	
+	<input type="hidden" name="orderId" value="">
+    <div class="email-me-my-cart-form-container email-me-my-cart-email-only-form-container-js row">
+        <div class="email-me-my-cart-form-my-email-input-container small-12">
+            <label for="email-me-my-cart-email-only-email" class="email-me-my-cart-form-my-email-input-label text-left">
+                Your email address:
+            </label>
+            
+            <input name="senderEmail" type="text" placeholder="Your Email" class="email email-me-my-cart-form-my-email-input strict-email-js" vfc-pii="" id="email-me-my-cart-email-only-email" required="">
+            
+            <div class="email-me-my-cart-form-submit-button-container small-5 medium-6 right">
+                <button class="email-me-my-cart-email-only-form-action-submit-js button primary right" type="submit">
+                    Submit
+                </button>
+            </div>
+            <!-- Email Me My Cart Message -->
+            <div class="alert text-center email-me-my-cart-message email-me-my-cart-message-js"></div>
+        </div>
+    </div>
+</form>
 
+
+				</div>
+			
+		
+			<div class="mini-cart-content content">
+				<article class="mini-cart-content-container mini-cart-shopcart-content-container shopcart cart-list" data-tabcontent="shopcart"></article>
+			</div>
+		</section>	
+	
 
 <div id="global-body-overlay" title="Click to close"></div>
 
 
 
-
 <div class="header-container">
 	<div class="contain-to-grid contain-to-grid-js  ">
-				
+		
+		
 		<div id="master-header" class="master-header">
-				        	        <nav class="top-bar top-bar-js" data-options="custom_back_text:true; mobile_show_parent_link: true; back_text: Back">
+	        <nav class="top-bar top-bar-js" data-options="custom_back_text:true; mobile_show_parent_link: true; back_text: Back">
 	    		<ul class="title-area">
 	    			<li class="name">
 	    				<nav class="store-logo">
-	                					
-							<!-- generated: Sat Oct 07 07:31:39 EDT 2017 -->
+	    					
+
+<a href="/" title="Home"><div class="header-logo"></div></a>
 
 
-
-<div class="espot-container">
-	<div class="genericESpot">
-		
-                            <div class="caption" style="display:none !important;">[ES_STORE_LOGO]</div>
-                    <!-- -->
-			
-
-
-
-
-
-
-	
-		<div id="ES_STORE_LOGO_marketing" class="ad">
-		
-	<div id="ES_STORE_LOGO_marketing_1" class="ad_marketing">
-	
-					
-									<a href="/" title="Home"><div class="header-logo"></div></a>							
-						
-	</div>
-
-	</div>
-<!-- -->
-	</div>
-</div>
-
-						                			                    </nav>
+	                    </nav>
 	                </li>
 					
-						    					
-							<!-- generated: Sat Oct 07 07:31:39 EDT 2017 -->
-
-
+					
 	<li class="menu-topbar search-topbar search-topbar-js">
-		
-				<i class="search-icon icon-search"></i>
-			
+		<i class="search-icon icon-search"></i>
 	</li>
 	
 		<li class="menu-topbar locator-topbar locator-topbar-js">
 			<a href="/utility/store-locator.html">
-				
-						<i class="locator-icon icon-location"></i>
-					
+				<i class="locator-icon icon-location"></i>
 			</a>
 		</li>
 	
 	<li class="menu-topbar cart-topbar cart-topbar-js">
     	<a href="https://www.wrangler.com/shop/OrderCalculate?calculationUsageId=-1&amp;calculationUsageId=-2&amp;calculationUsageId=-7&amp;orderId=.&amp;langId=-1&amp;storeId=7401&amp;URL=OrderItemDisplay%3FlangId%3D-1%26storeId%3D7401%26deleteOutOfStockOrderItem%3DY%26orderId%3D.">
-    		
-    				<i class="cart-icon icon-shopcart"><span class="cart-items-count nav-shoppingbag-qty-js"></span></i>
-    			
+ 			<span class="cart-icon icon-shopcart"><span class="cart-items-count nav-shoppingbag-qty-js"></span></span>
     	</a>
 	</li>
 
 <li class="menu-topbar toggle-topbar toggle-topbar-js">
 	<a href="#">
-		
-				<i class="menu-icon icon-menu"></i>
-			
+		<i class="menu-icon icon-menu"></i>
 	</a>
 </li> 
 
 
-						    				            </ul>	
-	    			
+					
+	            </ul>	
+	    		
 	        	<section class="topnav top-bar-section">
 					<div class="lower-container lower-container-js">
 	        			<ul class="topnav-main right lower" role="navigation">
-	        						
-							<!-- generated: Sat Oct 07 07:31:39 EDT 2017 -->
-
-
+	        				
 					<li class="topnav-main-item has-dropdown has-dropdown-js more-link-js">
+					
 						
-								<a href="/men.html">Men</a>
+								<a href="/men.html" data-category-image-url="">Men</a>
+
 								<span class="dropdown-arrow"></span>
 								
 								<!-- -->			
@@ -634,10 +634,9 @@
 				
 				
 				
-				
 	
 
-																																	
+																														
 			
 				
 			
@@ -648,15 +647,6 @@
 			
 			
 						
-							
-							
-				
-			
-		
-						
-		
-					
-			
 							
 							
 				
@@ -713,6 +703,8 @@
 		
 					
 			
+			
+						
 							
 							
 				
@@ -722,8 +714,6 @@
 		
 					
 			
-			
-						
 							
 							
 				
@@ -746,15 +736,18 @@
 				</div>
 
 																			<ul>
-																								<li class=""><a class="button-link" href="https://www.wrangler.com/shop/men-view-all">VIEW ALL<span class="next-arrow"></span></a></li>
-																																<li class=""><a class="button-link" href="https://www.wrangler.com/shop/men-new-arrivals">NEW ARRIVALS<span class="next-arrow"></span></a></li>
-																																<li class=""><a class="button-link" href="https://www.wrangler.com/shop/men-favorites">FAVORITES<span class="next-arrow"></span></a></li>
-																																<li class=""><a class="button-link" href="https://www.wrangler.com/shop/men-big-tall">BIG &amp; TALL<span class="next-arrow"></span></a></li>
-																																<li class=""><a class="button-link" href="https://www.wrangler.com/shop/men-exclusives">EXCLUSIVES<span class="next-arrow"></span></a></li>
-																																<li class=""><a class="button-link" href="https://www.wrangler.com/shop/men-sale">SALE<span class="next-arrow"></span></a></li>
-																																<li class=""><a class="button-link" href="/fit-guide/men-compare-fit.html">JEANS FIT GUIDE<span class="next-arrow"></span></a></li>
-																					</ul>
-																																																																																																						</div>
+																							<li class=""><a class="button-link" href="/shop/men">VIEW ALL<span class="next-arrow"></span></a></li>
+					
+														<li class=""><a class="button-link" href="https://www.wrangler.com/shop/men-new-arrivals">NEW ARRIVALS<span class="next-arrow"></span></a></li>
+					
+														<li class=""><a class="button-link" href="https://www.wrangler.com/shop/men-favorites">FAVORITES<span class="next-arrow"></span></a></li>
+					
+														<li class=""><a class="button-link" href="https://www.wrangler.com/shop/men-exclusives">EXCLUSIVES<span class="next-arrow"></span></a></li>
+					
+														<li class=""><a class="button-link" href="https://www.wrangler.com/shop/men-sale">SALE<span class="next-arrow"></span></a></li>
+					
+									</ul>
+																																																																																													</div>
 		</li>
 		<li class="topnav-main-item-stacked-subsection sub-section">
 			<ul class="sub-cat-lists-js">
@@ -763,94 +756,85 @@
 																							
 						
 												
-						<li id="gnav-men-jeans" data-sub-cat-col-container="1" class="topnav-main-item-stacked-subsection-item has-dropdown has-dropdown-js sub-category stacked-container " data-sub-cat-id="gnav-men-pants">
+						<li id="gnav-men-jeans" data-sub-cat-col-container="1" class="topnav-main-item-stacked-subsection-item has-dropdown has-dropdown-js sub-category stacked-container " data-sub-cat-id="gnav-men-shirts">
 															<a href="https://www.wrangler.com/shop/men-jeans" class="topnav-main-item-stacked-subsection-item-header sub-category-header">Jeans <span class="next-arrow"></span></a>
 																						<ul class="topnav-main-item-stacked-subsection-item-content content dropdown">
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-jeans-classic-western">Classic Western</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-jeans-fashion">Fashion</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-jeans-everyday">Everyday</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-jeans-riggs-workwear">RIGGS Workwear</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-jeans-camo-outdoor">Camo &amp; Outdoor</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-jeans-view-all">VIEW ALL</a>
-																					</li>
-																										</ul>
+															    							<li class="">
+									<a href="/shop/western-wear-men-jeans">Western</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/men-jeans-selvedge">Selvedge</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/men-jeans-made-in-usa">Made in USA</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/men-jeans-workwear">Workwear</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/men-jeans-by-feature-advanced-comfort">Advanced Comfort</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/men-jeans-by-feature-lined">Lined</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/men-jeans-camo-outdoor">Camo &amp; Outdoor</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/men-jeans-big-and-tall">Big and Tall</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/men-jeans-view-all">VIEW ALL</a>
+							</li>
+																			</ul>
 													</li>
 															
 																							
 						
 						
 						<li id="gnav-men-jeans-by-fit" data-sub-cat-col-row="1" class="topnav-main-item-stacked-subsection-item has-dropdown has-dropdown-js sub-category stacked stacked-list-js ">
-															<a href="/fit-guide/men-compare-fit.html" class="topnav-main-item-stacked-subsection-item-header sub-category-header">Jeans by Fit <span class="next-arrow"></span></a>
+															<a href="/shop/men-jeans" class="topnav-main-item-stacked-subsection-item-header sub-category-header">Jeans by Fit <span class="next-arrow"></span></a>
 																						<ul class="topnav-main-item-stacked-subsection-item-content content dropdown">
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-jeans-by-fit-original">Original</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-jeans-by-fit-regular">Regular</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-jeans-by-fit-slim">Slim</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-jeans-by-fit-relaxed">Relaxed</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-jeans-by-fit-loose">Loose</a>
-																					</li>
-																										</ul>
-													</li>
-															
-																							
-						
-						
-						<li id="gnav-men-jeans-by-feature" data-sub-cat-col-row="1" class="topnav-main-item-stacked-subsection-item has-dropdown has-dropdown-js sub-category stacked stacked-list-js ">
-															<a href="/men/jeans-by-feature.html" class="topnav-main-item-stacked-subsection-item-header sub-category-header">Jeans by Feature <span class="next-arrow"></span></a>
-																						<ul class="topnav-main-item-stacked-subsection-item-content content dropdown">
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-jeans-by-feature-advanced-comfort">Advanced Comfort</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-jeans-by-feature-flame-resistant">Flame Resistant</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-jeans-by-feature-wicking">Wicking</a>
-																					</li>
-																										</ul>
+															    							<li class="">
+									<a href="https://www.wrangler.com/shop/men-jeans-by-fit-original">Original</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/men-jeans-by-fit-regular">Regular</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/men-jeans-by-fit-slim">Slim</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/men-jeans-by-fit-relaxed">Relaxed</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/men-jeans-by-fit-loose">Loose</a>
+							</li>
+																			</ul>
 													</li>
 															
 																							
 						
 												
-						<li id="gnav-men-pants" data-sub-cat-col-container="2" class="topnav-main-item-stacked-subsection-item has-dropdown has-dropdown-js sub-category stacked-container " data-sub-cat-id="gnav-men-shirts">
+						<li id="gnav-men-pants" data-sub-cat-col-container="2" class="topnav-main-item-stacked-subsection-item has-dropdown has-dropdown-js sub-category stacked-container " data-sub-cat-id="gnav-men-shorts">
 															<a href="https://www.wrangler.com/shop/men-pants" class="topnav-main-item-stacked-subsection-item-header sub-category-header">Pants <span class="next-arrow"></span></a>
 																						<ul class="topnav-main-item-stacked-subsection-item-content content dropdown">
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-pants-cargo-carpenter">Cargo &amp; Carpenter</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-pants-casual-flat-front">Casual Flat Front</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-pants-casual-pleated">Casual Pleated</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-pants-riggs-workwear">RIGGS Workwear</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-pants-view-all">VIEW ALL</a>
-																					</li>
-																										</ul>
+															    							<li class="">
+									<a href="https://www.wrangler.com/shop/men-pants-cargo-carpenter">Cargo &amp; Carpenter</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/men-pants-casual-flat-front">Casual Flat Front</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/men-pants-casual-pleated">Casual Pleated</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/men-pants-riggs-workwear">RIGGS Workwear</a>
+							</li>
+										<li class="">
+									<a href="/shop/men-pants">VIEW ALL</a>
+							</li>
+																			</ul>
 													</li>
 															
 																							
@@ -859,33 +843,29 @@
 						<li id="gnav-men-shirts" data-sub-cat-col-row="2" class="topnav-main-item-stacked-subsection-item has-dropdown has-dropdown-js sub-category stacked stacked-list-js ">
 															<a href="https://www.wrangler.com/shop/men-shirts" class="topnav-main-item-stacked-subsection-item-header sub-category-header">Shirts <span class="next-arrow"></span></a>
 																						<ul class="topnav-main-item-stacked-subsection-item-content content dropdown">
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-shirts-western-snap-front">Western Snap Front</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-shirts-button-down">Button-Down Front</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-shirts-work-shirts">Work Shirts</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-shirts-polos">Polos</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-shirts-tees-henleys">Tees &amp; Henleys</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-shirts-view-all">VIEW ALL</a>
-																					</li>
-																										</ul>
+															    							<li class="">
+									<a href="https://www.wrangler.com/shop/men-shirts-western-snap-front">Western Snap Front</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/men-shirts-button-down">Button-Down Front</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/men-shirts-work-shirts">Work Shirts</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/men-shirts-polos">Polos</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/men-shirts-tees-henleys">Tees &amp; Henleys</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/mens-shirts-big-and-tall">Big and Tall</a>
+							</li>
+										<li class="">
+									<a href="/shop/men-shirts">VIEW ALL</a>
+							</li>
+																			</ul>
 													</li>
-															
-																							
-						
-						
-						<li id="gnav-men-jackets-outerwear" data-sub-cat-col-row="3" class="topnav-main-item-stacked-subsection-item sub-category stacked stacked-list-js ">
-															<a href="https://www.wrangler.com/shop/men-jackets-outerwear" class="topnav-main-item-stacked-subsection-item-header sub-category-header">Jackets &amp; Outerwear <span class="next-arrow"></span></a>
-																				</li>
 															
 																							
 						
@@ -904,23 +884,30 @@
 																							
 						
 												
-						<li id="gnav-men-accessories" data-sub-cat-col-container="3" class="topnav-main-item-stacked-subsection-item has-dropdown has-dropdown-js sub-category stacked-container " data-sub-cat-id="gnav-men-jackets-outerwear">
+						<li id="gnav-men-accessories" data-sub-cat-col-container="3" class="topnav-main-item-stacked-subsection-item has-dropdown has-dropdown-js sub-category stacked-container " data-sub-cat-id="gnav-men-overalls">
 															<a href="https://www.wrangler.com/shop/men-accessories" class="topnav-main-item-stacked-subsection-item-header sub-category-header">Accessories <span class="next-arrow"></span></a>
 																						<ul class="topnav-main-item-stacked-subsection-item-content content dropdown">
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-accessories-belts">Belts</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-accessories-socks">Socks</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-accessories-hats">Hats</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-accessories-patches">Patches &amp; Pins</a>
-																					</li>
-																										</ul>
+															    							<li class="">
+									<a href="https://www.wrangler.com/shop/men-accessories-belts">Belts</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/men-accessories-socks">Socks</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/men-accessories-hats">Hats</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/men-accessories-patches">Patches &amp; Pins</a>
+							</li>
+																			</ul>
 													</li>
+															
+																							
+						
+						
+						<li id="gnav-men-jackets-outerwear" data-sub-cat-col-row="3" class="topnav-main-item-stacked-subsection-item sub-category stacked stacked-list-js ">
+															<a href="https://www.wrangler.com/shop/men-jackets-outerwear" class="topnav-main-item-stacked-subsection-item-header sub-category-header">Jackets &amp; Outerwear <span class="next-arrow"></span></a>
+																				</li>
 															
 																							
 						
@@ -928,34 +915,34 @@
 						<li id="gnav-men-collections" data-sub-cat-col-row="3" class="topnav-main-item-stacked-subsection-item has-dropdown has-dropdown-js sub-category stacked stacked-list-js ">
 															<a href="/collections/men.html" class="topnav-main-item-stacked-subsection-item-header sub-category-header">Collections <span class="next-arrow"></span></a>
 																						<ul class="topnav-main-item-stacked-subsection-item-content content dropdown">
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-collections-cowboy-cut">Cowboy Cut</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-collections-five-star">Five Star</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-collections-riggs-workwear">RIGGS WORKWEAR</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-collections-wrangler-retro">Wrangler Retro</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-collections-advanced-comfort">Advanced Comfort</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-collections-wrangler-1947">Wrangler 1947 Ltd. Ed.</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-collections-wrangler-jeans-co">Wrangler Jeans Co.</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-collections-george-strait">George Strait</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/men-collections-wrangler-rugged-wear">Wrangler Rugged Wear</a>
-																					</li>
-																										</ul>
+															    							<li class="">
+									<a href="https://www.wrangler.com/shop/men-collections-cowboy-cut">Cowboy Cut</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/men-collections-five-star">Five Star</a>
+							</li>
+										<li class="">
+									<a href="/collections/wrangler-27406.html ">Wrangler 27406</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/men-collections-riggs-workwear">RIGGS WORKWEAR</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/men-collections-wrangler-retro">Wrangler Retro</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/men-collections-advanced-comfort">Advanced Comfort</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/men-collections-wrangler-1947">Wrangler 1947 Ltd. Ed.</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/men-collections-george-strait">George Strait</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/men-collections-wrangler-rugged-wear">Wrangler Rugged Wear</a>
+							</li>
+																			</ul>
 													</li>
 																		</ul>
 		</li>
@@ -965,7 +952,7 @@
 				<ul class="header-nav-carousel-js header-nav-carousel">
 					<li>
 									
-							<!-- generated: Sat Oct 07 07:31:39 EDT 2017 -->
+							<!-- generated: Sun Sep 23 06:53:03 EDT 2018 -->
 
 
 
@@ -1013,8 +1000,10 @@
 					</li>
 				
 					<li class="topnav-main-item has-dropdown has-dropdown-js more-link-js">
+					
 						
-								<a href="/women.html">Women</a>
+								<a href="/women.html" data-category-image-url="">Women</a>
+
 								<span class="dropdown-arrow"></span>
 								
 								<!-- -->			
@@ -1063,8 +1052,6 @@
 		
 					
 			
-			
-						
 							
 							
 				
@@ -1074,6 +1061,8 @@
 		
 					
 			
+			
+						
 							
 							
 				
@@ -1116,13 +1105,19 @@
 				</div>
 
 																			<ul>
-																								<li class=""><a class="button-link" href="https://www.wrangler.com/shop/women-view-all">VIEW ALL<span class="next-arrow"></span></a></li>
-																																<li class=""><a class="button-link" href="https://www.wrangler.com/shop/women-new-arrivals">NEW ARRIVALS<span class="next-arrow"></span></a></li>
-																																<li class=""><a class="button-link" href="https://www.wrangler.com/shop/women-favorites">FAVORITES<span class="next-arrow"></span></a></li>
-																																<li class=""><a class="button-link" href="https://www.wrangler.com/shop/women-plus-sizes">PLUS SIZES<span class="next-arrow"></span></a></li>
-																																<li class=""><a class="button-link" href="https://www.wrangler.com/shop/women-exclusives">EXCLUSIVES<span class="next-arrow"></span></a></li>
-																																<li class=""><a class="button-link" href="https://www.wrangler.com/shop/women-sale">SALE<span class="next-arrow"></span></a></li>
-																					</ul>
+																							<li class=""><a class="button-link" href="/shop/women">VIEW ALL<span class="next-arrow"></span></a></li>
+					
+														<li class=""><a class="button-link" href="https://www.wrangler.com/shop/women-new-arrivals">NEW ARRIVALS<span class="next-arrow"></span></a></li>
+					
+														<li class=""><a class="button-link" href="https://www.wrangler.com/shop/women-favorites">FAVORITES<span class="next-arrow"></span></a></li>
+					
+														<li class=""><a class="button-link" href="https://www.wrangler.com/shop/women-plus-sizes">PLUS SIZES<span class="next-arrow"></span></a></li>
+					
+														<li class=""><a class="button-link" href="https://www.wrangler.com/shop/women-exclusives">EXCLUSIVES<span class="next-arrow"></span></a></li>
+					
+														<li class=""><a class="button-link" href="https://www.wrangler.com/shop/women-sale">SALE<span class="next-arrow"></span></a></li>
+					
+									</ul>
 																																																																											</div>
 		</li>
 		<li class="topnav-main-item-stacked-subsection sub-section">
@@ -1132,93 +1127,34 @@
 																							
 						
 												
-						<li id="gnav-women-jeans" data-sub-cat-col-container="1" class="topnav-main-item-stacked-subsection-item has-dropdown has-dropdown-js sub-category stacked-container " data-sub-cat-id="gnav-women-jackets">
+						<li id="gnav-women-jeans" data-sub-cat-col-container="1" class="topnav-main-item-stacked-subsection-item has-dropdown has-dropdown-js sub-category stacked-container " data-sub-cat-id="gnav-women-tops">
 															<a href="https://www.wrangler.com/shop/women-jeans" class="topnav-main-item-stacked-subsection-item-header sub-category-header">Jeans <span class="next-arrow"></span></a>
 																						<ul class="topnav-main-item-stacked-subsection-item-content content dropdown">
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/women-jeans-classic-western-riding">Classic Western &amp; Riding</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/women-jeans-bootcut">Bootcut</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/women-jeans-high-waisted">High Waisted</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/women-jeans-flare">Flare &amp; Wide-Leg</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/women-jeans-100-cotton">100% Cotton</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/women-jeans-stretch">Stretch</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/women-jeans-skinny">Skinny</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/women-jeans-slimming-tummy-control">Slimming</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/women-jeans-view-all">VIEW ALL</a>
-																					</li>
-																										</ul>
-													</li>
-															
-																							
-						
-						
-						<li id="gnav-women-dresses-skirts" data-sub-cat-col-row="2" class="topnav-main-item-stacked-subsection-item sub-category stacked stacked-list-js ">
-															<a href="https://www.wrangler.com/shop/women-dresses-skirts" class="topnav-main-item-stacked-subsection-item-header sub-category-header">Dresses &amp; Skirts <span class="next-arrow"></span></a>
-																				</li>
-															
-																							
-						
-												
-						<li id="gnav-women-tops" data-sub-cat-col-container="2" class="topnav-main-item-stacked-subsection-item has-dropdown has-dropdown-js sub-category stacked-container " data-sub-cat-id="gnav-women-accessories">
-															<a href="https://www.wrangler.com/shop/women-tops" class="topnav-main-item-stacked-subsection-item-header sub-category-header">Tops <span class="next-arrow"></span></a>
-																						<ul class="topnav-main-item-stacked-subsection-item-content content dropdown">
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/women-tops-long-sleeve">Long Sleeve</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/women-tops-short-sleeve">Short Sleeve</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/women-tops-sleeveless">Sleeveless</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/women-tops-cardigans-tunics">Cardigans &amp; Tunics</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/women-tops-view-all">VIEW ALL</a>
-																					</li>
-																										</ul>
-													</li>
-															
-																							
-						
-						
-						<li id="gnav-women-jackets" data-sub-cat-col-row="2" class="topnav-main-item-stacked-subsection-item sub-category stacked stacked-list-js ">
-															<a href="https://www.wrangler.com/shop/women-jackets" class="topnav-main-item-stacked-subsection-item-header sub-category-header">Jackets <span class="next-arrow"></span></a>
-																				</li>
-															
-																							
-						
-						
-						<li id="gnav-women-accessories" data-sub-cat-col-row="2" class="topnav-main-item-stacked-subsection-item has-dropdown has-dropdown-js sub-category stacked stacked-list-js ">
-															<a href="https://www.wrangler.com/shop/women-accessories" class="topnav-main-item-stacked-subsection-item-header sub-category-header">Accessories <span class="next-arrow"></span></a>
-																						<ul class="topnav-main-item-stacked-subsection-item-content content dropdown">
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/women-accessories-jewelry">Jewelry</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/women-accessories-socks">Socks</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/women-accessories-patches">Patches &amp; Pins</a>
-																					</li>
-																										</ul>
+															    							<li class="">
+									<a href="https://www.wrangler.com/shop/women-jeans-classic-western-riding">Classic Western &amp; Riding</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/women-jeans-bootcut">Bootcut</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/women-jeans-high-waisted">High Waisted</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/women-jeans-100-cotton">100% Cotton</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/women-jeans-flare">Flare &amp; Wide-Leg</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/women-jeans-skinny">Skinny</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/women-jeans-stretch">Stretch</a>
+							</li>
+										<li class="">
+									<a href="/shop/women-jeans">VIEW ALL</a>
+							</li>
+																			</ul>
 													</li>
 															
 																							
@@ -1230,38 +1166,103 @@
 															
 																							
 						
+						
+						<li id="gnav-women-dresses-skirts" data-sub-cat-col-row="1" class="topnav-main-item-stacked-subsection-item sub-category stacked stacked-list-js ">
+															<a href="https://www.wrangler.com/shop/women-dresses-skirts" class="topnav-main-item-stacked-subsection-item-header sub-category-header">Dresses &amp; Skirts <span class="next-arrow"></span></a>
+																				</li>
+															
+																							
+						
 												
-						<li id="gnav-women-collections" data-sub-cat-col-container="3" class="topnav-main-item-stacked-subsection-item has-dropdown has-dropdown-js sub-category stacked-container " data-sub-cat-id="gnav-women-shorts">
+						<li id="gnav-women-tops" data-sub-cat-col-container="2" class="topnav-main-item-stacked-subsection-item has-dropdown has-dropdown-js sub-category stacked-container " data-sub-cat-id="gnav-women-jackets-outerwear">
+															<a href="https://www.wrangler.com/shop/women-tops" class="topnav-main-item-stacked-subsection-item-header sub-category-header">Tops <span class="next-arrow"></span></a>
+																						<ul class="topnav-main-item-stacked-subsection-item-content content dropdown">
+															    							<li class="">
+									<a href="https://www.wrangler.com/shop/women-tops-long-sleeve">Long Sleeve</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/women-tops-short-sleeve">Short Sleeve</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/women-tops-sleeveless">Sleeveless</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/women-tops-cardigans-tunics">Cardigans &amp; Tunics</a>
+							</li>
+										<li class="">
+									<a href="/shop/women-tops">VIEW ALL</a>
+							</li>
+																			</ul>
+													</li>
+															
+																							
+						
+						
+						<li id="gnav-women-jackets-outerwear" data-sub-cat-col-row="2" class="topnav-main-item-stacked-subsection-item sub-category stacked stacked-list-js ">
+															<a href="https://www.wrangler.com/shop/women-jackets" class="topnav-main-item-stacked-subsection-item-header sub-category-header">Jackets &amp; Outerwear <span class="next-arrow"></span></a>
+																				</li>
+															
+																							
+						
+						
+						<li id="gnav-women-accessories" data-sub-cat-col-row="2" class="topnav-main-item-stacked-subsection-item has-dropdown has-dropdown-js sub-category stacked stacked-list-js ">
+															<a href="https://www.wrangler.com/shop/women-accessories" class="topnav-main-item-stacked-subsection-item-header sub-category-header">Accessories <span class="next-arrow"></span></a>
+																						<ul class="topnav-main-item-stacked-subsection-item-content content dropdown">
+															    							<li class="">
+									<a href="https://www.wrangler.com/shop/women-accessories-belts">Belts</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/women-accessories-hats-scarves">Hats &amp; Scarves</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/women-accessories-socks">Socks</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/women-accessories-patches">Patches &amp; Pins</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/women-accessories-jewelry">Jewelry</a>
+							</li>
+																			</ul>
+													</li>
+															
+																							
+						
+												
+						<li id="gnav-women-collections" data-sub-cat-col-container="3" class="topnav-main-item-stacked-subsection-item has-dropdown has-dropdown-js sub-category stacked-container " data-sub-cat-id="gnav-women-accessories">
 															<a href="/collections/women.html" class="topnav-main-item-stacked-subsection-item-header sub-category-header">Collections <span class="next-arrow"></span></a>
 																						<ul class="topnav-main-item-stacked-subsection-item-content content dropdown">
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/women-collections-cowboy-cut">Cowboy Cut</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/women-collections-ultimate-riding-jean">Ultimate Riding Jean</a>
-																					</li>
-																			<li class="">
-																							<a href="/collections/wrangler-retro.html">Wrangler Retro</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/women-collections-wrangler-1947">Wrangler 1947 Ltd. Ed.</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/women-collections-aura-from-the-women-at-wrangler">Aura from the Women at Wrangler</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/women-collections-wrangler-blues">Wrangler Blues</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/women-collections-flame-resistant-fr">Flame Resistant FR</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/women-collections-as-real-as-wrangler">As Real as Wrangler</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/women-collections-wrangler-progear">Wrangler ProGear</a>
-																					</li>
-																										</ul>
+															    							<li class="">
+									<a href="https://www.wrangler.com/shop/women-collections-cowboy-cut">Cowboy Cut</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/women-collections-ultimate-riding-jean">Ultimate Riding Jean</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/women-collections-wrangler-retro">Wrangler Retro</a>
+							</li>
+										<li class="">
+									<a href="/collections/wrangler-27406.html ">Wrangler 27406</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/women-collections-wrangler-1947">Wrangler 1947 Ltd. Ed.</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/women-collections-aura-from-the-women-at-wrangler">Aura from the Women at Wrangler</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/women-collections-wrangler-blues">Wrangler Blues</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/women-collections-flame-resistant-fr">Flame Resistant FR</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/women-collections-as-real-as-wrangler">As Real as Wrangler</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/women-collections-wrangler-progear">Wrangler ProGear</a>
+							</li>
+																			</ul>
 													</li>
 																		</ul>
 		</li>
@@ -1271,7 +1272,7 @@
 				<ul class="header-nav-carousel-js header-nav-carousel">
 					<li>
 									
-							<!-- generated: Sat Oct 07 07:31:39 EDT 2017 -->
+							<!-- generated: Sun Sep 23 06:53:04 EDT 2018 -->
 
 
 
@@ -1320,8 +1321,10 @@
 					</li>
 				
 					<li class="topnav-main-item has-dropdown has-dropdown-js more-link-js">
+					
 						
-								<a href="/kids.html">Kids</a>
+								<a href="/kids.html" data-category-image-url="">Kids</a>
+
 								<span class="dropdown-arrow"></span>
 								
 								<!-- -->			
@@ -1413,10 +1416,13 @@
 				</div>
 
 																			<ul>
-																								<li class=""><a class="button-link" href="https://www.wrangler.com/shop/kids-new-arrivals">NEW ARRIVALS<span class="next-arrow"></span></a></li>
-																																<li class=""><a class="button-link" href="https://www.wrangler.com/shop/kids-favorites">FAVORITES<span class="next-arrow"></span></a></li>
-																																<li class=""><a class="button-link" href="https://www.wrangler.com/shop/kids-sale">SALE<span class="next-arrow"></span></a></li>
-																					</ul>
+																							<li class=""><a class="button-link" href="https://www.wrangler.com/shop/kids-new-arrivals">NEW ARRIVALS<span class="next-arrow"></span></a></li>
+					
+														<li class=""><a class="button-link" href="https://www.wrangler.com/shop/kids-favorites">FAVORITES<span class="next-arrow"></span></a></li>
+					
+														<li class=""><a class="button-link" href="https://www.wrangler.com/shop/kids-sale">SALE<span class="next-arrow"></span></a></li>
+					
+									</ul>
 																																																																		</div>
 		</li>
 		<li class="topnav-main-item-stacked-subsection sub-section">
@@ -1429,22 +1435,22 @@
 						<li id="gnav-kids-boys" data-sub-cat-col-container="1" class="topnav-main-item-stacked-subsection-item has-dropdown has-dropdown-js sub-category stacked-container " data-sub-cat-id="gnav-kids-by-size">
 															<a href="/kids/boys.html" class="topnav-main-item-stacked-subsection-item-header sub-category-header">Boys <span class="next-arrow"></span></a>
 																						<ul class="topnav-main-item-stacked-subsection-item-content content dropdown">
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/kids-boys-jeans-pants">Jeans &amp; Pants</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/kids-boys-shirts">Shirts</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/kids-boys-shorts">Shorts</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/kids-boys-accessories">Accessories</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/kids-boys-view-all">VIEW ALL</a>
-																					</li>
-																										</ul>
+															    							<li class="">
+									<a href="https://www.wrangler.com/shop/kids-boys-jeans-pants">Jeans &amp; Pants</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/kids-boys-shirts">Shirts</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/kids-boys-shorts">Shorts</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/kids-boys-accessories">Accessories</a>
+							</li>
+										<li class="">
+									<a href="/shop/kids-boys">VIEW ALL</a>
+							</li>
+																			</ul>
 													</li>
 															
 																							
@@ -1453,16 +1459,16 @@
 						<li id="gnav-kids-by-size" data-sub-cat-col-row="1" class="topnav-main-item-stacked-subsection-item has-dropdown has-dropdown-js sub-category stacked stacked-list-js ">
 															<a href="https://www.wrangler.com/shop/kids-boys-by-size" class="topnav-main-item-stacked-subsection-item-header sub-category-header">By Size <span class="next-arrow"></span></a>
 																						<ul class="topnav-main-item-stacked-subsection-item-content content dropdown">
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/kids-boys-by-size-little-boys">Little Boys (4-7)</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/kids-boys-by-size-big-boys">Big Boys (8+)</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/kids-boys-by-size-husky">Husky</a>
-																					</li>
-																										</ul>
+															    							<li class="">
+									<a href="https://www.wrangler.com/shop/kids-boys-by-size-little-boys">Little Boys (4-7)</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/kids-boys-by-size-big-boys">Big Boys (8+)</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/kids-boys-by-size-husky">Husky</a>
+							</li>
+																			</ul>
 													</li>
 															
 																							
@@ -1471,22 +1477,19 @@
 						<li id="gnav-kids-girls" data-sub-cat-col-container="2" class="topnav-main-item-stacked-subsection-item has-dropdown has-dropdown-js sub-category stacked-container " data-sub-cat-id="gnav-kids-baby-toddler">
 															<a href="/kids/girls.html" class="topnav-main-item-stacked-subsection-item-header sub-category-header">Girls <span class="next-arrow"></span></a>
 																						<ul class="topnav-main-item-stacked-subsection-item-content content dropdown">
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/kids-girls-jeans-pants">Jeans &amp; Pants</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/kids-girls-shirts">Shirts</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/kids-girls-dresses-skirts">Dresses &amp; Skirts</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/kids-girls-shorts">Shorts</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/kids-girls-view-all">VIEW ALL</a>
-																					</li>
-																										</ul>
+															    							<li class="">
+									<a href="https://www.wrangler.com/shop/kids-girls-jeans-pants">Jeans &amp; Pants</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/kids-girls-shirts">Shirts</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/kids-girls-dresses-skirts">Dresses &amp; Skirts</a>
+							</li>
+										<li class="">
+									<a href="/shop/kids-girls">VIEW ALL</a>
+							</li>
+																			</ul>
 													</li>
 															
 																							
@@ -1495,13 +1498,13 @@
 						<li id="gnav-kids-by-size" data-sub-cat-col-row="2" class="topnav-main-item-stacked-subsection-item has-dropdown has-dropdown-js sub-category stacked stacked-list-js ">
 															<a href="https://www.wrangler.com/shop/kids-girls-by-size" class="topnav-main-item-stacked-subsection-item-header sub-category-header">By Size <span class="next-arrow"></span></a>
 																						<ul class="topnav-main-item-stacked-subsection-item-content content dropdown">
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/kids-girls-by-size-little-girls">Little Girls (4-6X)</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/kids-girls-by-size-big-girls">Big Girls (8+)</a>
-																					</li>
-																										</ul>
+															    							<li class="">
+									<a href="https://www.wrangler.com/shop/kids-girls-by-size-little-girls">Little Girls (4-6X)</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/kids-girls-by-size-big-girls">Big Girls (8+)</a>
+							</li>
+																			</ul>
 													</li>
 															
 																							
@@ -1510,13 +1513,19 @@
 						<li id="gnav-kids-baby-toddler" data-sub-cat-col-container="3" class="topnav-main-item-stacked-subsection-item has-dropdown has-dropdown-js sub-category stacked-container " data-sub-cat-id="gnav-kids-collections">
 															<a href="https://www.wrangler.com/shop/kids-baby-toddler" class="topnav-main-item-stacked-subsection-item-header sub-category-header">Baby &amp; Toddler <span class="next-arrow"></span></a>
 																						<ul class="topnav-main-item-stacked-subsection-item-content content dropdown">
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/kids-baby-toddler-boys">Boys</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/kids-baby-toddler-girls">Girls</a>
-																					</li>
-																										</ul>
+															    							<li class="">
+									<a href="https://www.wrangler.com/shop/kids-baby-boys">Baby Boys</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/kids-baby-girls">Baby Girls</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/kids-toddler-boys">Toddler Boys</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/kids-toddler-girls">Toddler Girls</a>
+							</li>
+																			</ul>
 													</li>
 															
 																							
@@ -1525,28 +1534,19 @@
 						<li id="gnav-kids-collections" data-sub-cat-col-row="3" class="topnav-main-item-stacked-subsection-item has-dropdown has-dropdown-js sub-category stacked stacked-list-js ">
 															<a href="/collections/kids.html" class="topnav-main-item-stacked-subsection-item-header sub-category-header">Collections <span class="next-arrow"></span></a>
 																						<ul class="topnav-main-item-stacked-subsection-item-content content dropdown">
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/kids-collections-cowboy-cut">Cowboy Cut</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/kids-collections-five-star">Five Star</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/kids-collections-george-strait">George Strait</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/kids-collections-wrangler-jeans-co">Wrangler Jeans Co.</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/kids-collections-ultimate-riding-jean">Ultimate Riding Jean</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/kids-collections-retro">Wrangler Retro</a>
-																					</li>
-																			<li class="">
-																							<a href="https://www.wrangler.com/shop/kids-collections-wrangler-girl">Wrangler Girl</a>
-																					</li>
-																										</ul>
+															    							<li class="">
+									<a href="https://www.wrangler.com/shop/kids-collections-cowboy-cut">Cowboy Cut</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/kids-collections-george-strait">George Strait</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/kids-collections-wrangler-jeans-co">Wrangler Jeans Co.</a>
+							</li>
+										<li class="">
+									<a href="https://www.wrangler.com/shop/kids-collections-retro">Wrangler Retro</a>
+							</li>
+																			</ul>
 													</li>
 																		</ul>
 		</li>
@@ -1556,7 +1556,7 @@
 				<ul class="header-nav-carousel-js header-nav-carousel">
 					<li>
 									
-							<!-- generated: Sat Oct 07 07:31:40 EDT 2017 -->
+							<!-- generated: Sun Sep 23 06:53:04 EDT 2018 -->
 
 
 
@@ -1604,8 +1604,10 @@
 					</li>
 				
 					<li class="topnav-main-item has-dropdown has-dropdown-js more-link-js">
+					
 						
-								<a href="/western-wear.html">Western</a>
+								<a href="/western-wear.html" data-category-image-url="">Western</a>
+
 								<span class="dropdown-arrow"></span>
 								
 								<!-- -->			
@@ -1626,7 +1628,7 @@
 		            	</a>
 
 												<ul>
-													</ul>
+																		</ul>
 											</li>
 									<li class="topnav-main-item-thumbnails-item item ">
 													<a href="/western-wear/women.html" class="img">
@@ -1636,7 +1638,7 @@
 		            	</a>
 
 												<ul>
-													</ul>
+																		</ul>
 											</li>
 									<li class="topnav-main-item-thumbnails-item item ">
 													<a href="/western-wear/kids.html" class="img">
@@ -1646,7 +1648,7 @@
 		            	</a>
 
 												<ul>
-													</ul>
+																		</ul>
 											</li>
 				
 											</ul>
@@ -1656,14 +1658,17 @@
 					</li>
 				
 					<li class="topnav-main-item more-link-js">
+					
 						
-								<a href="/limited-release.html">Limited Release</a>
+								<a href="https://www.wrangler.com/shop/new" data-category-image-url="">New</a>
 							
 					</li>
 				
 					<li class="topnav-main-item has-dropdown has-dropdown-js more-link-js">
+					
 						
-								<a href="https://www.wrangler.com/shop/sale">Sale</a>
+								<a href="https://www.wrangler.com/shop/sale" data-category-image-url="">Sale</a>
+
 								<span class="dropdown-arrow"></span>
 								
 								<!-- -->			
@@ -1684,7 +1689,7 @@
 		            	</a>
 
 												<ul>
-													</ul>
+																		</ul>
 											</li>
 									<li class="topnav-main-item-thumbnails-item item ">
 													<a href="https://www.wrangler.com/shop/sale-women" class="img">
@@ -1694,7 +1699,7 @@
 		            	</a>
 
 												<ul>
-													</ul>
+																		</ul>
 											</li>
 									<li class="topnav-main-item-thumbnails-item item ">
 													<a href="https://www.wrangler.com/shop/sale-kids" class="img">
@@ -1704,7 +1709,7 @@
 		            	</a>
 
 												<ul>
-													</ul>
+																		</ul>
 											</li>
 									<li class="topnav-main-item-thumbnails-item item ">
 													<a href="/shop/sale" class="img">
@@ -1714,7 +1719,7 @@
 		            	</a>
 
 												<ul>
-													</ul>
+																		</ul>
 											</li>
 				
 											</ul>
@@ -1723,10 +1728,10 @@
 </ul><!-- -->
 					</li>
 				
-						                    </ul>
+	                    </ul>
 					</div>
-	    				    					
-							<!-- generated: Sat Oct 07 07:31:40 EDT 2017 -->
+					
+					<!-- generated: Sun Sep 23 06:53:04 EDT 2018 -->
 
 
 
@@ -1751,6 +1756,7 @@
 				</a>
 			</li>
 		
+
 		<li class="topnav-util-item unav-myaccount">
 			
 					<a title="My Account" id="btn-myaccount" href="https://www.wrangler.com/shop/LogonForm?langId=-1&amp;storeId=7401" class="">
@@ -1761,36 +1767,43 @@
 		</li>
 
 		
-		
+
 		<li class="topnav-util-item unav-signing">
 			<a title="Sign Out" href="https://www.wrangler.com/shop/VFLogoff?catalogId=13652&amp;langId=-1&amp;storeId=7401&amp;URL=LogonForm">
 				<span class="icon icon-sign-out"></span>
 				<span class="hide-for-medium">Sign Out</span>
 			</a>
 		</li>
-		
+
 		
 		<li class="topnav-util-item mini-cart-tag mini-cart-tag-shopcart unav-shoppingbag unav-shoppingbag-js">
 			<a title="Shopping Cart" id="btn-shoppingbag" class="btn-shoppingbag-js" href="https://www.wrangler.com/shop/OrderCalculate?calculationUsageId=-1&amp;calculationUsageId=-2&amp;calculationUsageId=-7&amp;orderId=.&amp;langId=-1&amp;storeId=7401&amp;URL=OrderItemDisplay%3FlangId%3D-1%26storeId%3D7401%26deleteOutOfStockOrderItem%3DY%26orderId%3D.">
 				<span class="icon-shopcart"></span>
 				<span class="shoppingbag-label">Cart (<span id="nav-shoppingbag-qty" class="nav-shoppingbag-qty-js"></span>)</span>
-			</a>					
+			</a>
 		</li>
 	
 </ul>
 
-						    				        	</section>
-	         </nav>
-	
-	        	    	 
-	    	 <!-- START: SEARCH -->
+	        	</section>
+	        </nav>
+			
+			
+	            	<div class="in-store-tablet-action-clear-session-container clear-session-js top hide">
+	            		<a href="#" class="in-store-tablet-action-clear-session button primary">Clear Session</a>
+	            	</div>
+				
+	            	<div class="in-store-tablet-action-clear-session-container clear-session-template-js clear-session-js bottom hide">
+	            		<a href="#" class="in-store-tablet-action-clear-session button primary">Clear Session</a>
+	            	</div>
+				
+	        
 	    	<div class="search-form-container" role="search">
-	    				
-							<!-- generated: Sat Oct 07 07:31:40 EDT 2017 -->
+	    		<!-- generated: Sun Sep 23 06:53:05 EDT 2018 -->
 
 
 
-		<form class="menu-content search-form-js wcs-form" action="/webapp/wcs/stores/servlet/VFSearchDisplay" method="get" data-exclude-from-top-bar-width="true">
+		<form class="menu-content search-form-js wcs-form" data-vfdp-novalidate="true" action="/webapp/wcs/stores/servlet/VFSearchDisplay" method="get" data-exclude-from-top-bar-width="true">
 			<input type="hidden" name="storeId" value="7401">
 			<input type="hidden" name="catalogId" value="13652">
 			<input type="hidden" name="langId" id="siteLangId" value="-1">
@@ -1814,17 +1827,16 @@
 			</div>
 			<div class="ui-autocomplete-container ui-suggestion-list"></div>
 		</form>
-						    	</div>
-	    	<!-- END: SEARCH -->
+	    	</div>
 	    </div>
 	</div>
 </div>
 
 <article class="page-util" role="marquee">
 	<div class="page-util-container">
-						<div id="espot-header" class="espot-header-js">
-					
-							<!-- generated: Sat Oct 07 07:31:40 EDT 2017 -->
+		
+			<div id="espot-header" class="espot-header-js">
+				<!-- generated: Sun Sep 23 06:53:05 EDT 2018 -->
 
 
 
@@ -1847,25 +1859,25 @@
 	
 					
 									<style>
+	#master-container #gm-espot a.glob-marketing {color:#FFF;}
+	#master-container #gm-espot a.glob-marketing:hover {color:#FFF;}
+	#master-container article.page-util {background-color:#000000; background:#000000;}
 	@media only screen and (max-width: 639px) {
-	.onlydesk {display:none; letter-spacing:.03em;}
+		.onlydesk {display:none; letter-spacing:.03em;}
 	}
-
 	@media only screen and (min-width: 640px) and (max-width: 1023px) {
 	.onlydesk {letter-spacing:.03em;}
 	}
-
 	@media only screen and (min-width: 1024px) {
 	.onlydesk {letter-spacing:.05em;}
 	}
-
-	#gm-espot a.glob-marketing{color:#002A52;}
-	#gm-espot a.glob-marketing:hover {color:#7B221D;}
-	article.page-util, article.page-util:hover {background-color:#F0F0F0;}
+	#global-cart-wishlist-panels .mini-cart-item-container .mini-cart-current-price {color: #9F2B25; display: block;}
+	#global-cart-wishlist-panels .mini-cart-item-container .mini-cart-original-price {display: block; text-decoration: line-through;}
 </style>
+
 <div id="generic-global-espot">
 	<div id="gm-espot" style="text-align:center;">
-		<a href="/email/sign-up.html" class="glob-marketing"><span style="font-size:1.08em;"><span class="onlydesk">Orders over $100 ship free every day&nbsp; + &nbsp;</span>Sign up for email and get FREE SHIPPING</span><button class="icon-arrow-right-indicator postfix" style="color:inherit; display:inline; background-color:transparent; border-width:0px; margin:0; width:25px; padding:0;"></button></a>
+		<a href="/email/sign-up.html?banner=global.evergreen-freeship.fs-100.global-mkt-1" class="glob-marketing"><span style="font-size:1.08em;"><span class="onlydesk">Orders over $100 ship free every day&nbsp; + &nbsp;</span>Sign up for email and get FREE SHIPPING</span><button class="icon-arrow-right-indicator postfix" style="color:inherit; display:inline; background-color:transparent; border-width:0px; margin:0; width:25px; padding:.69em 0; font-size:1em;"></button></a>
 	</div>
 </div>							
 						
@@ -1876,17 +1888,20 @@
 	</div>
 </div>
 
-							</div>
-					</div>
+			</div>
+		
+	</div>
 </article>
-		<!-- -->
+
+
+
 <!-- ESI/SSI End Top Nav-->
 </div>
 <section id="body-container">
 <div class="row layout-col-2-left">
 <main class="medium-8 large-9 medium-push-4 large-push-3 columns">
 <article>
-<div class="parsys content"><div class="basecomponent section customhtml">
+<div class="content parsys"><div class="customhtml2 section">
 <!-- START garnish wrap open -->
 <div class="garnish-wrapper">
 <div class="garnish-full-width top-pad-default bottom-pad-default top-margin-default bottom-margin-default 
@@ -1911,7 +1926,7 @@ h1 {margin-bottom:.37em;}
 </div>
 <!-- END garnish wrap close -->
 </div>
-<div class="parbase section text">
+<div class="text section">
 <div>
 <h1>Privacy Policy</h1>
 <p>Wrangler recognizes that you care how information about you is used and shared and respects your privacy. This Privacy Policy describes what information we may collect from you, how we collect that information, how we use that information, and the choices you have regarding your information. By using our website, mobile applications, or providing information to us in other ways, you agree to be bound by this Privacy Policy.</p>
@@ -1971,12 +1986,13 @@ Greensboro NC 27420<br>
 </p>
 <p><b>WHAT IF I AM AN INTERNATIONAL USER?</b>&nbsp;<br>
 Our digital operations are conducted, in whole or in part, in the United States. Regardless of where you live, you consent to have your personal data transferred, processed, and stored in the United States, and allow Wrangler to use and collect your personal information in accordance with this Privacy Policy.</p>
-</div></div>
+</div>
+</div>
 </div>
 </article>
 </main>
 <aside class="medium-4 large-3 medium-pull-8 large-pull-9 columns">
-<div class="sidebar parsys"><div class="basecomponent section customhtml">
+<div class="sidebar parsys"><div class="customhtml2 section">
 <!-- START garnish wrap open -->
 <div class="garnish-wrapper">
 <div class="garnish-full-width top-pad-default bottom-pad-default top-margin-default bottom-margin-default 
@@ -1989,7 +2005,7 @@ Our digital operations are conducted, in whole or in part, in the United States.
 </div>
 <!-- END garnish wrap close -->
 </div>
-<div class="basecomponent section secondarynav">
+<div class="secondarynav section">
 <nav class="secondarynavigation layout-vertical">
 <h3>Customer Service</h3>
 <ul>
@@ -2023,6 +2039,12 @@ Our digital operations are conducted, in whole or in part, in the United States.
 <li class="">
 <a href="/help/uk-slavery-act.html" title="UK Slavery Act">UK Slavery Act</a>
 </li>
+<li class="">
+<a href="/help/military-discount.html" title="ID.ME Military Discount">ID.ME Military Discount</a>
+</li>
+<li class="">
+<a href="/help/Healthy-Soils-Scholarship.html" title="Healthy Soils Scholarship">Healthy Soils Scholarship</a>
+</li>
 </ul></nav></div>
 </div>
 </aside>
@@ -2037,19 +2059,19 @@ Our digital operations are conducted, in whole or in part, in the United States.
 <!-- IncludeURL: /utility/footer.footer.html -->
 <!-- ESI include -->
 
-<!-- CMS Branch: release/rel-4.17 -->
-<!-- CMS Commit Id: 35a7d09 -->
-<!-- CMS Build Version: 4.17.19378.35a7d0910ea7 -->
-<!-- Page Generation Time: 2017/10/07 00:50:08 -->
+<!-- CMS Branch: release/rel-18.18 -->
+<!-- CMS Commit Id: e94bb19 -->
+<!-- CMS Build Version: 18.18.35.e94bb19 -->
+<!-- Page Generation Time: 2018/09/21 08:43:23 -->
 <div class="footer splitcolumnfooter">
 <!--START: VF FOOTER-->
-<footer class="extended" role="banner">
+<footer class="extended">
 <div class="footer-content-wrap">
 <div class="footer-content row" role="navigation">
 <div class="small-12 medium-2 large-2 medium-offset-1 large-offset-1 columns" role="menu">
 <div class="footer_col1 footer_col">
-<div class="" aria-labelledby="Shop">
-<div class="heading">Shop</div>
+<div class="" aria-labelledby="footer-col-shop">
+<div class="heading" id="footer-col-shop">Shop</div>
 <div class="column-content">
 <ul>
 <li role="menuitem"><a href="https://www.wrangler.com/men.html">Men</a></li>
@@ -2064,8 +2086,8 @@ Our digital operations are conducted, in whole or in part, in the United States.
 </div>
 <div class="small-12 medium-2 large-2 columns" role="menu">
 <div class="footer_col2 footer_col">
-<div class="" aria-labelledby="Account">
-<div class="heading">Account</div>
+<div class="" aria-labelledby="footer-col-account">
+<div class="heading" id="footer-col-account">Account</div>
 <div class="column-content">
 <ul>
 <li role="menuitem"><a href="https://www.wrangler.com/shop/LogonForm?langId=-1&amp;storeId=7401">Sign In</a></li>
@@ -2078,8 +2100,8 @@ Our digital operations are conducted, in whole or in part, in the United States.
 </div>
 <div class="small-12 medium-2 large-2 columns" role="menu">
 <div class="footer_col3 footer_col">
-<div class="" aria-labelledby="About">
-<div class="heading">About</div>
+<div class="" aria-labelledby="footer-col-about">
+<div class="heading" id="footer-col-about">About</div>
 <div class="column-content">
 <ul>
 <li role="menuitem"><a href="https://www.wrangler.com/about/our-company.html">Our Company</a></li>
@@ -2096,8 +2118,8 @@ Our digital operations are conducted, in whole or in part, in the United States.
 </div>
 <div class="small-12 medium-2 large-2 columns" role="menu">
 <div class="footer_col4 footer_col">
-<div class="" aria-labelledby="Help">
-<div class="heading">Help</div>
+<div class="" aria-labelledby="footer-col-help">
+<div class="heading" id="footer-col-help">Help</div>
 <div class="column-content">
 <ul>
 <li role="menuitem"><a href="https://www.wrangler.com/help/faq.html">Questions?</a></li>
@@ -2111,14 +2133,15 @@ Our digital operations are conducted, in whole or in part, in the United States.
 </div>
 <div class="small-12 medium-2 large-2 columns end" role="menu">
 <div class="footer_col5 footer_col">
-<div class="" aria-labelledby="Policies">
-<div class="heading">Policies</div>
+<div class="" aria-labelledby="footer-col-policies">
+<div class="heading" id="footer-col-policies">Policies</div>
 <div class="column-content">
 <ul>
 <li role="menuitem"><a href="https://www.wrangler.com/help/shipping.html">Shipping</a></li>
 <li role="menuitem"><a href="https://www.wrangler.com/help/return-policy.html">Returns</a></li>
 <li role="menuitem"><a href="https://www.wrangler.com/help/warranty.html">Warranty</a></li>
 <li role="menuitem"><a href="https://www.wrangler.com/help/privacy.html">Privacy</a></li>
+<li role="menuitem"><a href="https://www.wrangler.com/help/terms.html">Terms of Use</a></li>
 <li role="menuitem"><a href="https://www.wrangler.com/help/ca-transparency-supply-chain.html" target="_blank">CA Supply Chains Act</a></li>
 <li role="menuitem"><a href="https://www.wrangler.com/help/uk-slavery-act.html" target="_blank">UK Slavery Act</a></li>
 </ul>
@@ -2135,7 +2158,28 @@ Our digital operations are conducted, in whole or in part, in the United States.
 <p class="show-for-large-up"></p>
 <a href="https://www.wrangler.com/utility/store-locator.html" class="button primary expand">Store Locator</a>
 <div class="customHtmlBlock1">
-</div>
+<code><br></code><style> /*
+div.footer-extra div.large-3.medium-4.columns.text-left.footer-signup {float:left !important;} 
+div.footer-localize {margin-right:12px; margin-top:1.5em; float: left;}
+div.footer-localize .country-name:before {color:#7B7B7B; font-family: 'icomoon'; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; line-height: 1; -webkit-font-smoothing: antialiased; content: "\1F30F\ ";}
+div.footer-localize a {color: #7B7B7B;}
+div.footer-localize .icon-arrow-down-indicator-open {display:none;}
+
+@media only screen and (min-width: 640px) {
+div.footer-content-wrap div.small-12.medium-2.large-2.medium-offset-1.large-offset-1.columns {margin-left:12%;}
+}
+
+@media only screen and (max-width: 639px) {
+div.footer-extra div.large-3.medium-4.columns.text-left.footer-signup {margin-top:1.37em;}
+footer .footer-content-wrap .footer-extra {border-width:0 !important;}
+div.footer-localize {text-align:center; float:none; margin:0;}
+.footer-util .small-12.medium-6.large-5.large-pull-6.medium-pull-6.columns.util-left .icon-store-logo {margin-top:20px; margin-bottom:20px;}
+}
+*/
+
+.footer-signup button {background-color:#9F2B25!important; color:#fff;}
+.footer-signup button:hover {color:#fff!important;}
+</style></div>
 </div>
 <div class="large-4 medium-4 columns text-left footer-social">
 <div class="heading">Follow Wrangler</div>
@@ -2150,15 +2194,18 @@ Our digital operations are conducted, in whole or in part, in the United States.
 </div>
 </div>
 <div class="large-3 medium-4 columns text-left footer-signup end">
-<form class="signup custom" method="GET" action="//www.wrangler.com/webapp/wcs/stores/servlet/VFCAjaxEmailSubscriptionAdd" data-signupform-options="{&quot;successMessage&quot;:&quot;Thank you for signing up!&quot;,&quot;errorMessage&quot;:&quot;There was a problem. Please try again later.&quot;}" data-abide="true">
+<form class="signup custom" method="GET" action="//www.wrangler.com/webapp/wcs/stores/servlet/VFCAjaxEmailSubscriptionAdd" data-signupform-options="{&quot;successMessage&quot;:&quot;Thank you for signing up!&quot;,&quot;errorMessage&quot;:&quot;There was a problem. Please try again later.&quot;,&quot;alreadySubscribedMessage&quot;:&quot;Sorry, this address already exists.&quot;}" data-abide="true">
 <div class="heading">Get News &amp; Updates</div>
 <p class="show-for-large-up"> </p>
 <div class="row collapse">
-<div class="small-10 columns input-wrapper">
-<input class="email" type="email" name="email" required="" placeholder="Email Address"> <small class="error">A valid email address is required</small>
+<div class="small-12 input-group">
+<input class="email input-group-field" type="email" name="email" required="" placeholder="Email Address" id="footer-email-signup">
+<button class="input-group-button" type="submit" aria-label="Sign Up">
+<span class="icon-arrow-right-indicator-open"></span>
+</button>
 </div>
-<div class="small-2 columns email-wrapper">
-<button class="postfix" type="submit" aria-label="Sign Up"><span class="icon-arrow-right-indicator-open"></span></button>
+<div class="row collapse">
+<span class="form-error" data-form-error-for="footer-email-signup">A valid email address is required</span>
 </div>
 </div>
 <input type="hidden" name="storeId" value="7401">
@@ -2177,8 +2224,6 @@ Our digital operations are conducted, in whole or in part, in the United States.
 <div class="row">
 <div class="small-12 medium-6 large-5 end large-push-6 medium-push-6 columns util-right">
 <div class="row">
-<div class="customHtmlBlock3">
-​</div>
 </div>
 <div class="row">
 <div class="footer-localize">
@@ -2205,11 +2250,11 @@ Our digital operations are conducted, in whole or in part, in the United States.
 </div>
 <script>
 		var version = {
-			build : "4.17.19378.35a7d0910ea7",
-			branch : "release/rel-4.17",
-			commit : "35a7d09"
+			build : "18.18.35.e94bb19",
+			branch : "release/rel-18.18",
+			commit : "e94bb19"
 		};
 		console.info('CMS Version:', version);
 	</script>
-
+<script type="text/javascript">var _cf = _cf || []; _cf.push(['_setFsp', true]); _cf.push(['_setBm', true]);</script><script type="text/javascript" src="/_bm/bd-1-30"></script>
 </body></html>
