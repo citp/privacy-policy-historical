@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ems1.com privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131193032id_/https%3A//www.ems1.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ems1.com privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924075256id_/https%3A//www.ems1.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ We are committed to maintaining your confidence and trust with respect to the in
 
 EMS1 is dedicated to safeguarding your privacy online. As a policy, we will not sell or otherwise misuse your personal information. Your personal information helps us customize EMS1 to your interests and allows us to negotiate valuable member discounts and related services. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings. 
 
-This privacy policy was last updated on 05/06/2015
+This privacy policy was last updated on 04/27/2018
 
 ### What personal information does EMS1 collect from me?
 
