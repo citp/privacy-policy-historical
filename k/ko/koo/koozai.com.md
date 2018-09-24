@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koozai.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611124349id_/https%3A//www.koozai.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koozai.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925005209id_/https%3A//www.koozai.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | Koozai
 
@@ -11,120 +11,200 @@ Call **03332 207 677**
 
 We promise not to spy on you and eat all your cookies
 
-## Introduction
+This policy was last updated June 2018
 
-The following website has been provided for information pertaining to Koozai and their services. The below information sets out how Koozai uses and protects the data collected via our website. When using this site, you are legally bound to the following privacy policy, so please read carefully. Privacy protection is something that Koozai are fully committed towards.
+## In Summary
 
-## What information do we collect?
+Koozai Ltd. (‘Koozai’, ‘we’, ‘us’, and ‘our’) take data protection very seriously and we are committed to protecting your personal information.
 
-We have several services that require the supply of personal information. For example, when contacting us, we will ask for contact details such as your name, email address and telephone number. When registering for our monthly newsletter, we will require personal information including your name and email address.
+This explains what information gather about you, what we use that information for, and who we give that information to. It also sets out your rights in relation to your information, how long we keep it and who you can contact for more information. Click on the links to take you to the sections.
 
-## What do we do with the information we gather?
+It is our policy to collect only the minimum information required from you. If you believe we have collected excessive information about you, please contact us www.koozai.com/contact/  
+to raise any concerns you may have.
 
-All of the information collected from the website is retained by Koozai. We do not divulge any information to third parties outside of the company without prior consent from the website visitor – unless it is necessary to provide a requested service such as newsletters.
+Although you do not have to provide any of your personal information to us, if we ask you to do so and you refuse, we may be unable to provide you with the information, benefits or services you want from us.
 
-## Securing Your Data
+## What Is Personal Information?
 
-Koozai are committed to ensuring that your personal information is secure. We follow strict policies and adhere to high standards of security when gathering personal information. Various firewall applications have been installed on our website to protect your personal information from being stolen, destroyed or divulged to third parties, unless you have given us permission for the latter. Your personal details are stored at our restricted offices which have no unauthorised access.
+Personal information is anything that enables you to be identified or identifiable, such as your:
 
-## What we collect?
-
-Through the use of contact forms, call back requests and newsletter sign-ups, we may collect, but are not limited to, the following information:
-
-  * name and job title
-  * website details
-  * contact information including email address and phone number
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
-
-
-
-## What do we do with the information?
-
-In order to understand your needs and provide you with a better service we will require the aforementioned information. We may use the information for the following reasons:
-
-  * internal record keeping
-  * the improvement of our products and services
-  * using the email address which you have provided, we will periodically send you promotional emails regarding new products, special offers or other information that may be of interest to you
-  * to customise the website according to your interests
+  * First and last names
+  * Postal and email addresses
+  * Telephone numbers
+  * Identity documents (e.g. passports & driving licence)
+  * Identity numbers (e.g. National Insurance and Bank accounts)
+  * Career & educational documents (e.g. CVs & qualifications)
+  * Contact information
 
 
 
-## How do we use cookies?
+Your personal information is sometimes called “personal data”. We collectively refer to handling, collecting, protecting or storing your personal information as ‘processing’.
 
-Cookies are files which can be placed onto your computer’s hard drive, once permission has been given. There are numerous benefits to having cookies placed on your hard drive. If you have accepted, cookies are used to identify when you visit a particular site, as well as analyse web traffic. Cookies also facilitate a more personal web experience, allowing web applications to gather information about your personal preferences, and respond to you as an individual.
+## Collecting Personal Information
 
-Please visit: [http://www.aboutcookies.org](http://www.aboutcookies.org/) for more information on cookies.
+Below are just some examples of how you may provide personal information to us:
 
-At Koozai, traffic log cookies are used to identify the pages that are being used. From the data provided by these cookies, we can analyse web page traffic and tailor our website to our customer’s needs. This information is only used for the purpose of statistical analysis.
+  * Asking us to provide digital marketing services
+  * Contacting us, including via our website
+  * Searching and browsing our website
+  * Subscribing to our newsletters, e.g. Koozletter
+  * Accessing our online publications / Koozai TV
+  * Participating in our bulletin boards, discussion or message forums
+  * Registering for or attending our events
+  * Submitting CVs or work history information to us
+  * Providing us with business cards or other contact information
 
-You have the choice of whether or not to accept cookies. For your information, the majority of web browsers accept cookies. You can decline cookies within your web browser settings if necessary. However, doing so will not give you full functionality of the website. If you accept cookies, we are able to monitor which pages our visitors find useful. This provides us information to be used for a better user experience. We do not have access to your computer or any other information about you through the use of cookies.
+
+
+## Using Personal Information
+
+When you provide personal information to us, we may use it for any of the purposes described below or as stated at the point we collect it from you (or as may obvious to you from the context of collection), including:
+
+  * To provide services to you that you have requested
+  * To develop our business and services
+  * To consider whether to offer someone employment with us
+  * To administer and manage our website including  
+– To personalise and enrich your browsing experience by displaying content that is more likely to be relevant and of interest to you  
+– To sort and analyse user data (such as determining how many users from the same organisation have subscribed to or are using the Website)  
+– To understand how people, use the features and functions of our website in order to improve the user experience
+  * To conduct quality and risk management reviews
+  * Any other purposes for which personal information has been provided to us, including any of the purposes given in the ‘Collection of personal information’ section above.
+
+
+
+We do not collect personally identifying information for sale to third parties.
+
+## Legal Grounds For Processing Personal Information
+
+We rely on one or more of the following processing conditions:
+
+  * To perform our contractual obligations to you; and/or
+  * To satisfy any legal and regulatory obligations to which we are subject; and/or
+  * To satisfy our legitimate interests in the effective delivery of information and services to you and in the effective and lawful operation of our businesses (where this does not interfere with your rights); and/or
+  * When you have agreed to us processing your personal information.
+
+
+
+## Security Of Personal Information
+
+We have implemented generally accepted standards of technology and operational security in order to protect personally identifiable information from loss, misuse, alteration or destruction.
+
+Only authorised persons are provided access to personally identifiable information we have collected, and such individuals have agreed to maintain the confidentiality of this information.
+
+Although we use appropriate security measures once we have received your personal data, the transmission of data over the internet (including by e-mail) is never completely secure.
+
+We endeavour to protect personal data, but we cannot guarantee the security of data transmitted to or by us.
+
+## Sharing Personal Information
+
+We may transfer, share or disclose the personal data we collect from you to third parties (other organisations or individuals) for:
+
+  * The purposes for which the information has been submitted
+  * The purposes listed above under ‘Use of personal information’
+  * The administration and maintenance of our website and/or
+  * Other internal or administrative purposes
+
+
+
+We also may transfer share or disclose personal data to third party service providers of identity management, website hosting and management, data analysis, data backup, security and storage services.
+
+These third party providers may use their own third party subcontractors that have access to personal data (sub-processors). It is our policy to use only third-party providers that are bound to maintain appropriate levels of security and confidentiality, to process personal information only as instructed by us, and to flow those same obligations down to their sub-processors.
+
+## Other Disclosures
+
+We may also disclose personal information to third parties under the following circumstances:
+
+  * When explicitly requested by you
+  * When required to deliver goods or services requested by you
+  * When required to facilitate our conferences or events that you have asked to attend which are hosted by a third party
+  * As otherwise set out in this privacy policy.
+
+
+
+We may also disclose your personal information to law enforcement, regulatory and other government agencies and to professional bodies and other third parties, as required by and/or in accordance with applicable law or regulation.
+
+## International Transfers Of Personal Information
+
+Your personal information will not be transferred by us outside the UK.
+
+## Retention Of Personal Information
+
+We will retain your personal information only for as long as we need it, given the purposes for which it was collected, or as required to do so by law.
+
+Normally, this means we will retain your personal information for 2 years after our last contact or end of a project. For more information please contact us to request a copy of our retention policy: www.koozai.com/contact/
+
+## Marketing
+
+At Koozai we only aim to distribute marketing materials that are of interest to their recipients. We have an opt-in system to our three marketing distributions Koozletter, Exclusive VIP Invites and Tune In.
+
+When you opt into any of these subscriptions you will only receive marketing emails related to that specific subscription. If you want to unsubscribe from any subscriptions, you should look for and follow the instructions we will provided in the relevant communications to you.
+
+If you choose to unsubscribe from any or all mailings, we may retain information sufficient to identify you so that we can honour your request.
+
+## Rights In Relation To Your Information
+
+You have certain rights in relation to the personal information we hold about you. In particular, you have the right to:
+
+  * Request a copy of personal information we hold about you;
+  * Ask that we update the personal information we hold about you, or correct such personal information that you think is incorrect or incomplete;
+  * Ask that we delete personal information that we hold about you, or restrict the way in which we use such personal information;
+  * Object to our processing of your personal information; and/or
+  * Withdraw your consent to our processing of your personal information (to the extent such processing is based on consent and consent is the only permissible basis for processing).
+
+
+
+If you would like to exercise these rights or understand if these rights apply to you, please contact us www.koozai.com/contact/
+
+## Automated Decision Making
+
+We will not use your personal information for automated decision making or profiling.
+
+## Children
+
+We understand the importance of protecting children’s privacy and we never knowingly collect personal information about individuals under the age of 13. We adhere to laws regarding marketing to children.
+
+## Our Website
+
+Our Website may link to third-party sites not controlled by us and which do not operate under our privacy practices. When you link to third-party sites, our privacy practices no longer apply. We encourage you to review each third-party site’s privacy policy before disclosing any personally identifiable information.
+
+We do not intend to collect special category (also known as sensitive) personal information through our website (unless we are legally required to do so). Examples of special category information are: race or ethnic origin; political opinions; religious or philosophical beliefs; trade union membership; physical or mental health; genetic data; biometric data; sexual life or sexual orientation; and criminal records.
+
+We ask that you do not provide us with special category personal information when using our website.
 
 ## Cookies
 
 This website uses the following cookies:
 
- **Google Analytics** : This cookie allows us to see information on user website activities including, but not limited to page views, source and time spent on website. The information is depersonalised and is displayed as numbers, meaning it cannot be tracked back to individuals. This will help to protect your privacy. Using Google Analytics we can see what content is popular on our website, and strive to give you more of the things you enjoy reading and watching.
-
- **Infinity Call Tracking** : This is used to set dynamic phone numbers which help us identify how you found the Koozai website when you call us. This allows us to identify the source that you used to find the Koozai website and helps us control our advertising methods in the future.
-
- **Google AdWords** : Using Google AdWords code we are able to see which pages helped lead to contact form submissions. This allows us to make better use of our paid search budget.
-
- **Facebook Advertising** : We use Facebook advertising conversion tracking and re-targeting pixels, which allows us to collect or receive information from your website and elsewhere on the internet and use that information to provide measurement services and target advertising.
-
- **DoubleClick** : We use remarketing codes to log when users view specific pages, allowing us to provide targeted advertising in the future.
-
- **Website Optimiser** : Our website optimiser uses cookies to remember the website for which you searched. This helps it generate the required results.
-
-## Social sharing cookies
-
-On our blog we use social sharing buttons for services including, but not limited to, Twitter, LinkedIn, StumbleUpon, Share This, Google+ and Facebook. These allow you to share pages with your friends via those networks. Whilst you will be asked to login to use these services, this process is handled directly with the social sharing providers and their databases and servers. These sites may also monitor your usage of these buttons, through the use of external tracking codes that are required to run the buttons on this website.
-
-## Email codes
-
-If you have opted in to receive our newsletters, then this may include tracking codes that help us understand who, as well as how many people have opened or clicked on each email. This data helps us to create better emails in the future, and provide you with a better service. This data is stored on the servers of our email partners and covered under their security measures.
-
-## Links to other websites
-
-This website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over the other websites. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
-
-## Links
-
-Hyperlinks on this site may be shortened. The purpose of which is to hide long links for functionality and tracking purposes.
-
-## Associations
-
-We do not receive physical products or cash directly in exchange for any reviews or posts. No one has ever paid or will ever pay us for reviews or posts, to avoid any conflict of interest. We only promote the products and services that we trust. We always aim to give honest opinions, findings, beliefs, or experiences on topics or products that we write about and promote.
-
-## Controlling your personal information
-
-You may choose to restrict the collection or use of your personal information in the following ways:
-
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may opt-out at any time by writing to or emailing us via the contact page
+  * Google Analytics: This cookie allows us to see information on user website activities including, but not limited to page views, source and time spent on website. The information is depersonalised and is displayed as numbers, meaning it cannot be tracked back to individuals. This will help to protect your privacy. Using Google Analytics we can see what content is popular on our website, and strive to give you more of the things you enjoy reading and watching.
+  * Infinity Call Tracking: This is used to set dynamic phone numbers which help us identify how you found the Koozai website when you call us. This allows us to identify the source that you used to find the Koozai website and helps us control our advertising methods in the future.
+  * Google Ads: Using Google Ads code we are able to see which pages helped lead to contact form submissions. This allows us to make better use of our paid search budget.
+  * Facebook Advertising: We use Facebook advertising conversion tracking and re-targeting pixels, which allows us to collect or receive information from your website and elsewhere on the internet and use that information to provide measurement services and target advertising.
+  * DoubleClick: We use remarketing codes to log when users view specific pages, allowing us to provide targeted advertising in the future.
+  * Website Optimiser: Our website optimiser uses cookies to remember the website for which you searched. This helps it generate the required results.
 
 
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties that may be relevant to your indicated needs.
+##  Contact us
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held then please write to us.
+If you have any questions or complaints about the way your personal information is processed by us, or would like to exercise one of your rights set out above, please contact us by one of the following means:
 
-If you believe that any information we are holding about you is incorrect or incomplete, please write to or email us as soon as possible at the address detailed below. We will promptly correct any information found to be incorrect.
+Form: www.koozai.com/contact/
 
-## How to opt out of cookies
+Email: info@nullkoozai.com
 
-To opt out of a third-party vendor’s use of cookies, visit the [Network Advertising Initiative opt out page. ](http://www.networkadvertising.org/choices/)You can opt out of Google’s use of cookies by visiting Google’s Ads Settings [here. ](https://www.google.com/settings/u/0/ads/authenticated#display_optout)Opt out of DoubleClick’s use of cookies by visiting the DoubleClick opt-out page [here.](https://www.google.com/settings/u/0/ads/authenticated#display_optout) If you want to opt out of our e-mails, fill in the contact form on our [website](https://www.koozai.com/contact/).
-
-## Variations to the Policy
-
-We reserve the right to alter and change information provided in this document at our own discretion and therefore this document should be regularly referred to for updates and variations.
-
-If you have any questions regarding this policy, our contact details are as follows:
-
-Koozai  
+Post: Koozai  
 50-52 Botley Road  
 Park Gate  
 Southampton  
 Hampshire  
 SO31 1BB
 
-+44 (0) 845 453 1234
+You also have the right to lodge a complaint with your local data protection regulator, which in the UK is the Information Commissioner Office (ICO). The ICO can be contacted by the following means:
+
+Form: www.ico.org.uk/global/contact-us/email/
+
+Telephone: 0303 123 1113 (local rate calls to this number cost the same as calls to 01 or 02 numbers). If you’re calling from outside the UK, please call +44 1625 545 700.  
+Post: Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire  
+SK9 5AF
+
+We may update this Privacy notice at any time by publishing an updated version here. So that you know when we make changes to this Privacy statement, we will amend the revision date at the top of this page. The new modified or amended Privacy notice will apply from that revision date. Therefore, we encourage you to review this Privacy notice periodically to be informed about how we are protecting your information.
