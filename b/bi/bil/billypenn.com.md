@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the billypenn.com privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309080409id_/https%3A//billypenn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billypenn.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925034959id_/https%3A//billypenn.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Billy Penn, Philadelphia
+# Privacy policy - On top of Philly news
 
 This privacy policy (“ **Policy** ”) describes how Spirited Media Inc. and its related companies (“ **Company** ”) collect, use and share personal information of consumer users of this website, www.billypenn.com (the “ **Site** ”). This Policy also applies to any of our other websites that post this Policy. This Policy does not apply to websites that post different statements.
 
