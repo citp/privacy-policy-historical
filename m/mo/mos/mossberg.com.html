@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the mossberg.com privacy policy that was archived on 2018-01-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180128181721id_/http%3A//www.mossberg.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mossberg.com privacy policy that was archived on 2018-09-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180925165943id_/http%3A//www.mossberg.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
 <meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgIOUFVVGwQCXVdTBwEP"};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
 <meta name="viewport" content="width=device-width">
 <title>
-Privacy Policy | O.F. Mossberg &amp; Sons</title>
+Privacy Policy | O.F. Mossberg &amp; Sons, Inc.</title>
 <link rel="stylesheet" type="text/css" href="//fast.fonts.net/cssapi/a28ad9b5-065c-4065-a810-7a64c971de15.css">
 <link rel="stylesheet" type="text/css" href="https://www.mossberg.com/wp-content/themes/mossberg/style.css" media="screen">
 <link rel="profile" href="//gmpg.org/xfn/11">
@@ -16,19 +16,19 @@ Privacy Policy | O.F. Mossberg &amp; Sons</title>
 <link rel="canonical" href="https://www.mossberg.com/privacy-policy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Privacy Policy | O.F. Mossberg &amp; Sons">
-<meta property="og:description" content="O. F. Mossberg &amp; Sons, Inc. Website Privacy Statement.&nbsp;This document was last updated on November 1, 2006. 1. Acknowledgement and Acceptance of Terms O. F. Mossberg &amp; Sons, Inc. (“Mossberg”) is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or …">
+<meta property="og:title" content="Privacy Policy | O.F. Mossberg &amp; Sons, Inc.">
+<meta property="og:description" content="O. F. Mossberg &amp; Sons, Inc. Privacy Policy. This Policy was last updated on May 24, 2018. 1. Introduction; Acknowledgement and Acceptance of Terms O. F. Mossberg &amp; Sons, Inc. and its affiliated entities respect your privacy and are committed to safeguarding your personal information in a transparent and appropriate manner. The terms “we”, “us”, …">
 <meta property="og:url" content="https://www.mossberg.com/privacy-policy/">
-<meta property="og:site_name" content="O.F. Mossberg &amp; Sons">
+<meta property="og:site_name" content="O.F. Mossberg &amp; Sons, Inc.">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:description" content="O. F. Mossberg &amp; Sons, Inc. Website Privacy Statement.&nbsp;This document was last updated on November 1, 2006. 1. Acknowledgement and Acceptance of Terms O. F. Mossberg &amp; Sons, Inc. (“Mossberg”) is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or […]">
-<meta name="twitter:title" content="Privacy Policy | O.F. Mossberg &amp; Sons">
-<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.mossberg.com\/","name":"O.F. Mossberg &amp; Sons","alternateName":"O.F. Mossberg & Sons, Inc.","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.mossberg.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<meta name="twitter:description" content="O. F. Mossberg &amp; Sons, Inc. Privacy Policy. This Policy was last updated on May 24, 2018. 1. Introduction; Acknowledgement and Acceptance of Terms O. F. Mossberg &amp; Sons, Inc. and its affiliated entities respect your privacy and are committed to safeguarding your personal information in a transparent and appropriate manner. The terms “we”, “us”, […]">
+<meta name="twitter:title" content="Privacy Policy | O.F. Mossberg &amp; Sons, Inc.">
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.mossberg.com\/","name":"O.F. Mossberg &amp; Sons, Inc.","alternateName":"O.F. Mossberg & Sons, Inc.","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.mossberg.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
 <script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/www.mossberg.com\/privacy-policy\/","sameAs":[],"@id":"#organization","name":"O.F. Mossberg & Sons, Inc.","logo":"http:\/\/www.mossberg.com\/wp-content\/uploads\/2015\/05\/header-logo.png"}</script>
 <!-- / Yoast SEO plugin. -->
 
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="alternate" type="application/rss+xml" title="O.F. Mossberg &amp; Sons » Privacy Policy Comments Feed" href="https://www.mossberg.com/privacy-policy/feed/">
+<link rel="alternate" type="application/rss+xml" title="O.F. Mossberg &amp; Sons, Inc. » Privacy Policy Comments Feed" href="https://www.mossberg.com/privacy-policy/feed/">
 <!-- This site uses the Google Analytics by MonsterInsights plugin v6.2.6 - Using Analytics tracking - https://www.monsterinsights.com/ -->
 <script type="text/javascript" data-cfasync="false">
 		var disableStr = 'ga-disable-UA-40222409-1';
@@ -59,9 +59,9 @@ Privacy Policy | O.F. Mossberg &amp; Sons</title>
 </script>
 <!-- / Google Analytics by MonsterInsights -->
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.mossberg.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.2"}};
-			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="https://www.mossberg.com/wp-includes/js/wp-emoji-release.min.js?ver=4.9.2" type="text/javascript" defer=""></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.mossberg.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.mossberg.com/wp-includes/js/wp-emoji-release.min.js?ver=4.9.8" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -90,17 +90,14 @@ var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"fal
 <link rel="https://api.w.org/" href="https://www.mossberg.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.mossberg.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.mossberg.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.9.2">
+<meta name="generator" content="WordPress 4.9.8">
 <meta name="generator" content="WooCommerce 2.3.7">
 <link rel="shortlink" href="https://www.mossberg.com/?p=24">
 <link rel="alternate" type="application/json+oembed" href="https://www.mossberg.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.mossberg.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://www.mossberg.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.mossberg.com%2Fprivacy-policy%2F&amp;format=xml">
 <script type="text/javascript">var algolia = {"debug":false,"application_id":"G1S210VCE5","search_api_key":"6b27fafb8b8f414aefb6c0b5ef21abcd","powered_by_enabled":false,"query":"","autocomplete":{"sources":[],"input_selector":"input[name='s']:not('.no-autocomplete')"},"indices":{"searchable_posts":{"name":"wp_searchable_posts","id":"searchable_posts","enabled":true,"replicas":[]}}};</script><script type="text/javascript" src="https://www.mossberg.com/wp-content/themes/mossberg/js/js-mobile-navigation.js"></script>
-<script type="text/javascript" src="https://www.mossberg.com/wp-content/themes/mossberg/js/js-new-relic.js"></script>
 </head>
-
 <body class="body_background">
-
 <!-- Header -->
 <div class="header_container desktop" id="header">
 <!-- Notice -->
@@ -133,7 +130,6 @@ var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"fal
 	<li id="menu-item-5269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5269"><a href="https://www.mossberg.com/firearms/rifles/">Rifles</a></li>
 	<li id="menu-item-5270" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5270"><a href="https://www.mossberg.com/firearms/shotguns/">Shotguns</a></li>
 	<li id="menu-item-21162" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21162"><a href="https://www.mossberg.com/firearms/pistol-grip-firearms-and-aows/">Pistol Grip / AOW / NFA</a></li>
-	<li id="menu-item-5271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5271"><a href="https://www.mossberg.com/firearms/pistols/">Pistols</a></li>
 	<li id="menu-item-6009" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6009"><a href="https://www.mossberg.com/firearms/specialty-series/">Series</a></li>
 	<li id="menu-item-22901" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-22901"><a href="https://www.mossberg.com/category/series/specialty-series/youth-firearms/">Youth</a></li>
 	<li id="menu-item-6332" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6332"><a href="https://www.mossberg.com/dealers/">Dealers</a></li>
@@ -141,20 +137,11 @@ var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"fal
 	<li id="menu-item-24237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24237"><a target="_blank" href="https://www.mossberg.com/flex-configurator/">FLEX Configurator</a></li>
 </ul>
 </li>
-<li id="menu-item-17918" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17918"><a href="https://www.mossberg.com/parts-and-accessories/">Store</a>
-<ul class="sub-menu">
-	<li id="menu-item-17271" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17271"><a href="http://www.mossberg.com/store/parts.html">Parts</a></li>
-	<li id="menu-item-17272" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17272"><a href="http://www.mossberg.com/store/apparel.html">Apparel</a></li>
-	<li id="menu-item-17273" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17273"><a href="http://www.mossberg.com/store/gear.html">Gear</a></li>
-	<li id="menu-item-24712" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24712"><a href="http://www.mossberg.com/store/promos/deals.html">Deals</a></li>
-	<li id="menu-item-24239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24239"><a href="https://www.mossberg.com/schematics/">Parts Schematics</a></li>
-	<li id="menu-item-24238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24238"><a target="_blank" href="https://www.mossberg.com/flex-configurator/">FLEX Configurator</a></li>
-</ul>
-</li>
 <li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-41"><a href="https://www.mossberg.com/service/">Customer Service</a>
 <ul class="sub-menu">
 	<li id="menu-item-20473" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20473"><a href="https://www.mossberg.com/service/">General Information</a></li>
 	<li id="menu-item-22710" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22710"><a href="https://www.mossberg.com/service/request/">Firearm Service Request</a></li>
+	<li id="menu-item-25644" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25644"><a href="https://www.mossberg.com/service/warranty-registration/">Warranty Registration</a></li>
 	<li id="menu-item-2326" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2326"><a href="https://www.mossberg.com/service/owners-manuals/">Owner’s Manuals</a></li>
 	<li id="menu-item-22709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22709"><a href="https://www.mossberg.com/schematics/">Parts Schematics</a></li>
 	<li id="menu-item-14120" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14120"><a href="https://www.mossberg.com/catalog-request/">Request a Catalog</a></li>
@@ -192,11 +179,17 @@ var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"fal
 	<li id="menu-item-6105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6105"><a href="https://www.mossberg.com/law-enforcement/le-service-support/">LE Service &amp; Support</a></li>
 </ul>
 </li>
-<li id="menu-item-18720" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18720"><a href="https://www.mossberg.com/armyourself/">Arm Yourself</a></li>
+<li id="menu-item-18720" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-18720"><a href="https://www.mossberg.com/armyourself/">Arm Yourself</a>
+<ul class="sub-menu">
+	<li id="menu-item-25724" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25724"><a href="http://www.mossberg.com/armyourself/#arm-yourself-with-safety">Safety</a></li>
+	<li id="menu-item-25725" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25725"><a href="http://www.mossberg.com/armyourself/#arm-yourself-with-information">Information</a></li>
+	<li id="menu-item-25726" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25726"><a href="http://www.mossberg.com/armyourself/#arm-yourself-with-facts">Facts</a></li>
+</ul>
+</li>
+<li id="menu-item-17918" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17918"><a href="https://www.mossberg.com/parts-and-accessories/">Mossberg Store »</a></li>
 </ul></div><!-- Main Nav -->
 </div>
 <!-- Header -->
-
 <!-- Header Mobile -->
 <div class="header_mobile mobile" id="header_mobile" onclick="toggle_navigation('header-navigation-mobile')">
 <div class="header">
@@ -207,7 +200,6 @@ var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"fal
 <div id="header-navigation-mobile" class="header_navigation_mobile">
 <ul id="nav-menu" class="nav_menu"><li id="menu-item-56" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-56"><a href="https://www.mossberg.com/">Home</a></li>
 <li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"><a href="https://www.mossberg.com/firearms/">Firearms</a></li>
-<li id="menu-item-18191" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18191"><a href="https://www.mossberg.com/parts-and-accessories/">Store</a></li>
 <li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a href="https://www.mossberg.com/service/">Customer Service</a></li>
 <li id="menu-item-6012" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6012"><a href="https://www.mossberg.com/community/">Community</a></li>
 <li id="menu-item-9341" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9341"><a href="https://www.mossberg.com/community/mossberg-blog/">Blog</a></li>
@@ -216,8 +208,7 @@ var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"fal
 <li id="menu-item-18722" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18722"><a href="https://www.mossberg.com/armyourself/">Arm Yourself</a></li>
 <li id="menu-item-52" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52"><a href="https://www.mossberg.com/contact-us/">Contact Us</a></li>
 <li id="menu-item-17283" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17283"><a href="https://www.mossberg.com/dealers/">Dealer Locator</a></li>
-<li id="menu-item-17284" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17284"><a href="http://www.mossberg.com/store/customer/account/">My Account</a></li>
-<li id="menu-item-17285" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17285"><a href="https://174.143.201.163/~mossberg/store/checkout/cart/">Cart</a></li>
+<li id="menu-item-18191" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18191"><a href="https://www.mossberg.com/parts-and-accessories/">Mossberg Store »</a></li>
 </ul><div class="header_search">
 <form role="search" method="get" id="searchform" class="searchform" action="https://www.mossberg.com/">
 				<div>
@@ -231,91 +222,90 @@ var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"fal
 <div class="header_notice">ALERT: Mossberg.com will be unavailable between 2:00-5:00AM Eastern while we perform scheduled maintenance.</div> 
  Notice -->
 <!-- Header Mobile -->
-
 <!-- Main -->
 
 <div class="content_container">
 <div class="content">
-<!-- Page -->
-<div class="content_page">
-<!-- Breadcrumbs -->
-<div class="breadcrumbs desktop">
-<a href="https://www.mossberg.com/privacy-policy/">Privacy Policy</a></div>
-<!-- Breadcrumbs -->
-<!-- Breadcrumb Nav -->
-<div class="breadcrumb_navigation_spacer"></div><!-- Breadcrumb Nav -->
-<!-- Title -->
-<div class="container_title"><h1>Privacy Policy</h1></div>
-<!-- Title -->
-</div>
-<!-- Page -->
-<div class="content_eight content_left">
+<div class="content_nine content_left">
 <!-- Posts -->
-<div class="post_text"><p><em>O. F. Mossberg &amp; Sons, Inc. Website Privacy Statement.&nbsp;</em><em>This document was last updated on November 1, 2006.</em></p>
-<h3>1. Acknowledgement and Acceptance of Terms</h3>
-<p>O. F. Mossberg &amp; Sons, Inc. (“Mossberg”) is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website.&nbsp;&nbsp; By accessing www.mossberg.com, you acknowledge and fully understand Mossberg’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.</p>
-<h3>2. Participating Merchant Policies</h3>
-<p>Related products, services and other offerings with links from this website, including, but not limited to other organization’s sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in Mossberg services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy.&nbsp; However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites.&nbsp; We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.</p>
-<h3>3. Information We Collect and How We Use It</h3>
-<p>Mossberg collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.</p>
-<h5>Web Server Logs</h5>
-<p>When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include:<br>
-• Your Internet protocol address.<br>
-• The kind of browser or computer you use.<br>
-• Number of links you click within the site.<br>
-• State or country from which you accessed the site.<br>
-• Date and time of your visit.<br>
-• Name of your Internet service provider.<br>
-• Web page you linked to our site from.<br>
-• Pages you viewed on the site.</p>
-<h5>Use of Cookies</h5>
-<p>Mossberg may use cookies to personalize or enhance your user experience.&nbsp; A cookie is a small text file that is placed on your hard disk by a Web page server.&nbsp; Cookies cannot be used to run programs or deliver viruses to your computer.&nbsp; Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you.</p>
-<p>One of the primary purposes of cookies is to provide a convenience feature to save you time.&nbsp; For example, if you purchase a product from us, personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits.&nbsp; Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality.</p>
-<p>Mossberg reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value (such as merging into a site that relies on third-party cookies).</p>
-<p>You have the ability to accept or decline cookies.&nbsp; Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.</p>
-<h5>Personal Information Users</h5>
-<p>Visitors to our website can purchase products.&nbsp; When you register to purchase, we will request some personal information which will include all or some of the following: your name, address, email, telephone number or facsimile number, account number and other relevant information.&nbsp; We must request financial and/or credit card information for all purchases.&nbsp; Any financial information we collect is used only to bill you for the products you purchased.&nbsp; Credit card information may be forwarded to your credit card provider.&nbsp; For other types of registrations, we will ask for the relevant information.&nbsp; You may also be asked to disclose personal information to us so that we can provide assistance and information to you.&nbsp; For example, such data may be warranted in order to provide technical support, or to order catalogs or other written materials from us.</p>
-<p>We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:</p>
-<p>• To fulfill your requests for products or services;<br>
-• To protect ourselves from liability;<br>
-• To respond to legal process or comply with law; or<br>
-• In connection with a merger, acquisition, or liquidation of the company.</p>
-<h3>4. Use of Web Beacons or GIF files</h3>
-<p>Mossberg Web pages may contain electronic images known as Web beacons – sometimes also called single-pixel gifs – that allow Mossberg to count users who have visited those pages and to deliver co-branded services.&nbsp; Mossberg may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.</p>
-<p>Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications.&nbsp; These Web beacons may be used by these service providers to place a persistent cookie on your computer.&nbsp; This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site.&nbsp; Mossberg prohibits Web beacons from being used to collect or access your personal information.</p>
-<h3>5. Accessing Web Account Information</h3>
-<p>We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current.&nbsp; You may review and request changes to this information by contacting us by sending an email to our support attendant at support@mossberg.com .</p>
-<h3>6. Changes to this Statement</h3>
-<p>Mossberg has the discretion to occasionally update this privacy statement.&nbsp; When we do, we will also revise the “updated” date at the top of this Privacy page.&nbsp; We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect.&nbsp; Your continued use of the service constitutes your agreement to this privacy statement and any updates.</p>
-<h3>7. Contacting Us</h3>
-<p>If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at support@mossberg.com or send your comments to:</p>
+<div class="post_text"><h1>Privacy Policy</h1><p><em>O. F. Mossberg &amp; Sons, Inc. Privacy Policy. This Policy was last updated on May 24, 2018.</em></p>
+<h3>1. Introduction; Acknowledgement and Acceptance of Terms</h3>
+<p>O. F. Mossberg &amp; Sons, Inc. and its affiliated entities respect your privacy and are committed to safeguarding your personal information in a transparent and appropriate manner. The terms “we”, “us”, or “Mossberg” each refer to O. F. Mossberg &amp; Sons, Inc. and its affiliated entities.</p>
+<p>This Privacy Policy describes the information we collect from you and how we use that information.&nbsp; It applies to information we collect on our website (www.mossberg.com) (the “Website”) and from your communications with us.</p>
+<p>Please read this Privacy Policy carefully and completely.&nbsp; If you do not agree with this Privacy Policy, our practices and policies regarding the use of your information, or the Terms &amp; Conditions of our Website, please do not use or access the Website. By visiting or using our Website, you acknowledge and agree that you have read and understand this Privacy Policy and consent to the use of information as described in this Privacy Policy. This Privacy Policy, and any updates or revisions to it, will be prominently displayed on, and accessible from, our Website.</p>
+<p>Our Website is intended for a general audience and is not intended to be used or accessed by children under 13 years of age.&nbsp; We do not knowingly collect personal information about children under the age of 13.&nbsp; If we become aware that we have been provided information about a child under the age of 13, we will delete that personal information from our records. &nbsp;If you are under the age of 16, by using or accessing our Website you agree that you have obtained parental or guardian consent to the use of this Website.</p>
+<h3>2. Information We Collect and How We Use It</h3>
+<p>A. When you visit our Website, we use automatic data collection technologies to track certain information.&nbsp; We use this information to administer the Website and analyze its usage in order to deliver the best possible experience to you.</p>
+<p>Examples of information we may track for these purposes include:</p>
+<ul>
+<li>Your Internet protocol (IP) address.</li>
+<li>The kind of Internet browser you use and the kind of computer or device you use to access the Website.</li>
+<li>The number of links you click within the Website.</li>
+<li>Your geographic location.</li>
+<li>The date and time of your visit to our Website.</li>
+<li>The name of your Internet service provider.</li>
+<li>The web page you linked to our Website from.</li>
+<li>Pages you accessed and content you viewed on the Website.</li>
+</ul>
+<p>B. We may use cookies to personalize or enhance your user experience.</p>
+<p>A cookie is a small text file that is placed on your hard disk when you access our Website. Cookies cannot run programs or deliver viruses to your computer. Cookies are uniquely assigned to your browser and can only be read by a web server in the domain that issued the cookie. No personal information is stored in cookies.</p>
+<p>One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you purchase a product from us, personalize a web page, or navigate within a website, a cookie helps the website to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases website navigation by providing and saving your preferences and login information, as well as providing personalized functionality.</p>
+<p>Most Internet browsers allow you to control cookies through their individual settings or controls. However, if you limit the ability of websites to use or set cookies, you may impact your overall user experience. Some Internet browsers offer a "Do Not Track" ("DNT") signal that allows you to set preferences regarding tracking. We do not currently employ technology that recognizes DNT signals, however we will only process your personal information in accordance with this Privacy Policy.</p>
+<p>In addition to cookies, we may also use electronic images that are sometimes referred to as pixel tags, web beacons, or single-pixel GIFs.&nbsp; These images allow Mossberg to count users who have visited certain pages and to deliver co-branded services.&nbsp; Mossberg may also include these images in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.</p>
+<p>Some of these images may be placed by third-party service providers to help determine the effectiveness of our advertising campaigns or email communications.&nbsp; These images may be used by these service providers to place a persistent cookie on your computer or device.&nbsp; This allows the service provider to recognize your computer or device each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our Website and how you use our Website.&nbsp; Mossberg prohibits these images from being used to collect or access your personal information.</p>
+<p>Some of your activity on our Website is conducted through Google Analytics.&nbsp; You may review Google Analytics’ privacy policies here: https://support.google.com/analytics#topic=1008008. &nbsp;We may also use other providers for analytical data regarding our Website from time to time. Additionally, Mossberg reserves the right to engage in other activities, such as sharing aggregated site statistics with third-parties or permitting other companies to place cookies through our Website, in order to deliver the best possible experience to you.</p>
+<p>C. We also collect personal information you provide to us.</p>
+<p>Information you provide to us that we collect includes:</p>
+<ul>
+<li>Information you provide to us by completing forms, questionnaires, or notices on our Website, or contacting us through our Website, sending us emails, or communicating with us directly. This includes information provided when you register for an account, make purchases, request information or services from us, submit service requests, or opt-in and consent to receive communications from us concerning, among other things, news about Mossberg and our products and services. We may also ask you for information when you enter a contest or promotion sponsored by Mossberg, and when you report a problem with our Website.</li>
+<li>Records and copies of correspondence, including e-mail addresses if you contact us.</li>
+<li>Information you provide to us and details of transactions or purchases you engage in through our Website, such as purchases through the Mossberg Store, and the fulfillment of your orders.&nbsp; When you make a purchase, we will request some information, including personal information, such as your name, address, email address, and telephone number, as well as&nbsp;financial and/or credit card information, which may be forwarded to your credit card provider or a third-party processor.&nbsp; We may also ask you to provide personal information to provide you support regarding our products or services.</li>
+<li>Information you provide when you submit a search query on our Website.</li>
+</ul>
+<p>Please note, we are not responsible for maintaining or ensuring the accuracy or completeness of your information, including your personal information.&nbsp; It is your responsibility to update your personal information and to ensure it is complete and accurate.&nbsp; You can inform us of changes or inaccuracies to your personal information by emailing us at service@mossberg.com.</p>
+<h3>3. Why We Use Personal Information</h3>
+<p>We collect information based upon the performance of our services at your request, such as the fulfillment of purchases or service requests you have made, our legitimate interests, and your consent, where applicable.</p>
+<h3>4. Third-Parties</h3>
+<p>Generally speaking, we limit the use of your personal information by third-party vendors.&nbsp; However, we use certain third-party vendors to enhance and maintain the high quality of your experience with us and on our Website. For example, we may provide your personal information to third-party vendors to fulfill purchases, process credit cards, or engage in email communications, among other things.&nbsp; We will only share your personal information when it is necessary, such as when it is necessary to fulfill orders, or when you have provided consent.&nbsp; Your personal information will only be used by the vendors performing services on behalf of Mossberg.</p>
+<p>Additionally, we may share personal information to respond to legal processes, cooperate with law enforcement, or otherwise comply with applicable laws.</p>
+<h3>5. Your Choices</h3>
+<p>We want you to understand how your personal information is being used and to, where possible, control how your personal information is used by Mossberg, within the scope of the applicable laws and regulations. &nbsp;You can control your information in the following ways:</p>
+<ul>
+<li>You can review, update, or change certain personal information you have provided to us by accessing your account through the Website;</li>
+<li>You may review and adjust your communication and data preferences by accessing our <a href="http://stage00.mossberg.com/privacy-center/">Privacy Center</a> or contacting us at service@mossberg.com, e.g., you can opt-out and unsubscribe from our email list, in which case you will no longer receive emails from us regarding new products, news about Mossberg, and other items of interest;</li>
+<li>You may request additional information about whether we store or process any of your personal data; and</li>
+<li>California Civil Code § 1798.83 permits California residents to obtain certain information from us regarding our disclosure of personal information to third-parties where the disclosure is for direct marketing purposes. If you are a California resident and would like to request this information, please contact us at service@mossberg.com.<br>
+Where we are using your personal information on the basis of your consent, you are entitled to withdraw that consent at any time. Where we process your personal information based on a legitimate interest, you may object at any time&nbsp;to that use of your personal information.</li>
+</ul>
+<p>Please note, regardless of whether you opt-out or unsubscribe from communications, or withdraw consent regarding direct marketing, we may continue to contact you concerning other matters where we have a lawful or legitimate basis to do.</p>
+<p>Please note that our policy is to retain certain data under specific circumstances for a period time pursuant to our retention polices, e.g., where you make a service request or make a purchase. However, as noted above, via the Privacy Center, you can request that we remove data you have provided to us by consent, e.g., upon request, we will delete your email address so that you will no longer receive marketing communications from us, such as communications about new Mossberg products.&nbsp; You may continue to receive emails from us, however, where it is necessary for us to do so in order to fulfill other obligations, or where we have a lawful or legitimate basis to do so, e.g., service requests or order fulfilment.</p>
+<h3>6. Data Security &amp; Storage</h3>
+<p>We have implemented appropriate technical and organizational measures to ensure that your personal information is safeguarded in a commercially reasonable manner to prevent the accidental or unlawful destruction, theft, misuse, loss, or alteration of your personal information and the unauthorized disclosure of, or access to, your personal information. We cannot, however, guarantee that our safeguards are impenetrable.</p>
+<p>We work also with our third-party vendors to ensure that those vendors also implement commercially reasonable measures to safeguard and protect your personal information.</p>
+<p>Unfortunately, the transmission of information via the Internet is not completely secure and we cannot guarantee the security of your personal information transmitted to our Website.&nbsp; Any transmission of personal information is at your own risk.&nbsp; We are not responsible for the circumvention of any privacy settings or security measures contained on the Website.</p>
+<p>Your personal information is stored and processed in the United States and is not transferred outside of the United States. We retain your personal information for a period of time that is consistent with our retention policies, as revised from time to time, and which are designed to, among other things, ensure we are able to provide our products and services to you and conduct our business, ensure you can continue to use the Website, allow you to receive communications from us as necessary or requested, allow us to comply with applicable laws and regulations, and allow us to resolve disputes with any parties.</p>
+<h3>7. Third-Party Content, Links</h3>
+<p>Our Website contains links to other websites or services, and may contain embedded content, including images or video, which are displayed on our Website.&nbsp; Some of the content displayed on our Website is not owned, controlled, or operated by Mossberg and, if you click on the content, you will be taken to a website that is not affiliated with Mossberg. Please be aware that Mossberg is not responsible for content owned, controlled, or operated by third-parties or the privacy practices or policies of those third-parties. If you click on a third-party link or third-party content, we encourage you to read the privacy statements or policies of each and every website you access to ensure that you agree or consent to those statements or policies. This Privacy Policy applies solely to Mossberg.</p>
+<h3>8. Changes to this Policy</h3>
+<p>Mossberg may revise, change, modify or update this Privacy Policy at its discretion.&nbsp; When we do, we will also revise the “updated” date at the top of this Privacy page.&nbsp; We encourage you to periodically review this Privacy Policy to stay informed about how we are helping to protect the personal information we collect.</p>
+<h3>9. How to Contact Us</h3>
+<p>If you have any questions regarding our Privacy Policy or how we use your personal information, please contact our Data Privacy Officer at service@mossberg.com, or send your comments to:</p>
 <p>O. F. Mossberg &amp; Sons, Inc.<br>
-Attention:&nbsp; Privacy Statement Support Personnel<br>
+Attention:&nbsp; Data Privacy Officer<br>
 7 Grasso Avenue, P. O. Box 497<br>
 North Haven, CT&nbsp; 06473</p>
-<p>Mossberg will use commercially reasonable efforts to promptly respond and resolve any problem or question.</p>
 </div><!-- Posts -->
 </div>
-<div class="content_four content_right">
-<!-- CTA -->
-<div class="cta_sidebar">
-<!--HubSpot Call-to-Action Code --><span id="hs-cta-wrapper-e4234fb3-a01f-4246-90a6-2096f4cadcc0" class="hs-cta-wrapper"><span id="hs-cta-e4234fb3-a01f-4246-90a6-2096f4cadcc0" class="hs-cta-node hs-cta-e4234fb3-a01f-4246-90a6-2096f4cadcc0"><!-- [if lte IE 8]>
-<div id="hs-cta-ie-element"></div>
-<![endif]--><a href="https://cta-redirect.hubspot.com/cta/redirect/479666/e4234fb3-a01f-4246-90a6-2096f4cadcc0"><img id="hs-cta-img-e4234fb3-a01f-4246-90a6-2096f4cadcc0" class="hs-cta-img" style="border-width: 0px;" src="https://no-cache.hubspot.com/cta/default/479666/e4234fb3-a01f-4246-90a6-2096f4cadcc0.png" alt="New Call-to-action"></a></span><script charset="utf-8" src="https://js.hscta.net/cta/current.js"></script></span><!-- end HubSpot Call-to-Action Code --><!--HubSpot Call-to-Action Code -->
-<span id="hs-cta-wrapper-aca73d0f-b22e-4050-9f61-fdcb177f0ca3" class="hs-cta-wrapper">
-<span id="hs-cta-aca73d0f-b22e-4050-9f61-fdcb177f0ca3" class="hs-cta-node hs-cta-aca73d0f-b22e-4050-9f61-fdcb177f0ca3">
-<!-- [if lte IE 8]>
-<div id="hs-cta-ie-element"></div>
-<![endif]-->
-<a href="http://cta-redirect.hubspot.com/cta/redirect/479666/aca73d0f-b22e-4050-9f61-fdcb177f0ca3"><img id="hs-cta-img-aca73d0f-b22e-4050-9f61-fdcb177f0ca3" class="hs-cta-img" style="border-width: 0px;" src="https://no-cache.hubspot.com/cta/default/479666/aca73d0f-b22e-4050-9f61-fdcb177f0ca3.png" alt="New Call-to-action"></a>
-</span>
-<script charset="utf-8" src="https://js.hscta.net/cta/current.js"></script>
-<script type="text/javascript">
-        hbspt.cta.load(479666, 'aca73d0f-b22e-4050-9f61-fdcb177f0ca3', {});
-    </script>
-</span>
-<!-- end HubSpot Call-to-Action Code --></div>
-<!-- CTA -->
+<div class="content_three content_right">
+<div class="post_text">
+<h1>Privacy Links</h1>
+<p>
+<a href="https://www.mossberg.com/privacy-center">Privacy Center »</a><br>
+<a href="https://www.mossberg.com/privacy-policy">Privacy Policy »</a><br>
+<a href="https://www.mossberg.com/terms-of-use">Terms of Use »</a><br>
+<a href="https://www.mossberg.com/contact-us">Contact Us »</a><br>
+</p>
+</div>
 </div>
 </div>
 </div>
@@ -338,7 +328,6 @@ North Haven, CT&nbsp; 06473</p>
 	<li id="menu-item-17996" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17996"><a href="https://www.mossberg.com/firearms/rifles/">Rifles</a></li>
 	<li id="menu-item-17997" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17997"><a href="https://www.mossberg.com/firearms/shotguns/">Shotguns</a></li>
 	<li id="menu-item-25372" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25372"><a href="http://www.mossberg.com/firearms/pistol-grip-firearms-and-aows/">Pistol Grip / AOW / NFA</a></li>
-	<li id="menu-item-17998" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17998"><a href="https://www.mossberg.com/firearms/pistols/">Pistols</a></li>
 	<li id="menu-item-17999" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17999"><a href="https://www.mossberg.com/firearms/specialty-series/">Series</a></li>
 	<li id="menu-item-18000" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18000"><a href="https://www.mossberg.com/dealers/">Dealers</a></li>
 	<li id="menu-item-20469" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20469"><a href="https://www.mossberg.com/schematics/">Parts Schematics</a></li>
@@ -355,6 +344,7 @@ North Haven, CT&nbsp; 06473</p>
 <li id="menu-item-18007" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-18007"><a href="https://www.mossberg.com/service/">Customer Service</a>
 <ul class="sub-menu">
 	<li id="menu-item-22713" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22713"><a href="https://www.mossberg.com/service/request/">Firearm Service Request</a></li>
+	<li id="menu-item-25649" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25649"><a href="https://www.mossberg.com/service/warranty-registration/">Warranty Registration</a></li>
 	<li id="menu-item-18010" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18010"><a href="https://www.mossberg.com/service/owners-manuals/">Owner’s Manuals</a></li>
 	<li id="menu-item-22712" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22712"><a href="https://www.mossberg.com/schematics/">Parts Schematics</a></li>
 	<li id="menu-item-18013" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18013"><a href="https://www.mossberg.com/service/request-owners-manual/">Request an Owner’s Manual</a></li>
@@ -394,8 +384,9 @@ North Haven, CT&nbsp; 06473</p>
 <ul class="sub-menu">
 	<li id="menu-item-18015" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18015"><a href="https://www.mossberg.com/safety/">Safety</a></li>
 	<li id="menu-item-18035" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18035"><a href="https://www.mossberg.com/media-resources/">Press</a></li>
+	<li id="menu-item-27097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27097"><a href="https://www.mossberg.com/privacy-center/">Privacy Center</a></li>
 	<li id="menu-item-18024" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-24 current_page_item menu-item-18024"><a href="https://www.mossberg.com/privacy-policy/">Privacy Policy</a></li>
-	<li id="menu-item-18025" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18025"><a href="https://www.mossberg.com/terms-and-conditions/">Terms &amp; Conditions</a></li>
+	<li id="menu-item-27080" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27080"><a href="https://www.mossberg.com/terms-of-use/">Terms of Use</a></li>
 </ul>
 </li>
 </ul></div></div>
@@ -406,7 +397,7 @@ North Haven, CT&nbsp; 06473</p>
 <!-- Info -->
 <div class="footer_info">
 <a href="https://www.mossberg.com/"><img src="https://www.mossberg.com/wp-content/themes/mossberg/template/footer/footer-logo.png"></a>
-<p>© Copyright 2018<br>O.F. Mossberg &amp; Sons</p>
+<p>© Copyright 2018<br>O.F. Mossberg &amp; Sons, Inc.</p>
 </div>
 <!-- Info -->
 </div>
@@ -423,7 +414,7 @@ North Haven, CT&nbsp; 06473</p>
 </div>
 </div>
 <!-- Footer -->
-<span style="color:#111;">207.241.231.163</span>
+<span style="color:#111;">207.241.229.237</span>
 </div>
 
 
@@ -437,8 +428,14 @@ North Haven, CT&nbsp; 06473</p>
 </div><!-- Social -->
 <!-- Info -->
 <div class="footer_info">
+<p>
+<a href="https://www.mossberg.com/privacy-center">Privacy Center</a> | 
+<a href="https://www.mossberg.com/privacy-policy">Privacy Policy</a> | 
+<a href="https://www.mossberg.com/terms-of-use">Terms of Use</a> | 
+<a href="https://www.mossberg.com/contact-us">Contact Us</a>
+</p>
 <a href="https://www.mossberg.com/"><img src="https://www.mossberg.com/wp-content/themes/mossberg/template/footer/footer-logo.png" id="footer_logo" class="footer_logo"></a>
-<p>© Copyright 2018<br>O.F. Mossberg &amp; Sons</p>
+<p>© Copyright 2018<br>O.F. Mossberg &amp; Sons, Inc.</p>
 </div>
 <!-- Info -->
 <!-- Callout -->
@@ -475,7 +472,17 @@ var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","fragmen
 /* ]]> */
 </script>
 <script type="text/javascript" src="//www.mossberg.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.3.7"></script>
-<script type="text/javascript" src="https://www.mossberg.com/wp-includes/js/wp-embed.min.js?ver=4.9.2"></script>
+<script type="text/javascript" src="https://www.mossberg.com/wp-includes/js/wp-embed.min.js?ver=4.9.8"></script>
+
+<!-- Cookie Policy -->
+<script type="text/javascript" src="https://www.mossberg.com/wp-content/themes/mossberg/js/js-cookie-policy.js"></script>
+<div class="content_cookie" id="cookie-policy">
+<div class="cookie_text">
+	<div class="cookie_button"><a href="http://www.mossberg.com/cookie-accept?page=/privacy-policy/">Continue</a></div>
+	<h3>Cookies on the Mossberg Website</h3><p>We use cookies to help provide you with the best possible online experience. By using this site, you agree that we may store and access cookies on your device. Read our <a href="http://www.mossberg.com/privacy-policy/" target="_blank" rel="noopener">Privacy Policy</a> to learn more about how we use cookies.</p>
+
+	</div></div>
+<!-- Cookie Policy -->
 
 <!-- Centro -->
 <script type="text/javascript">
@@ -498,6 +505,6 @@ fbq('track', 'PageView');
 <!-- Hubspot -->
 <script type="text/javascript" id="hs-script-loader" async="" defer="" src="//js.hs-scripts.com/479666.js"></script>
 <!-- Hubspot -->
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"337879e6cf","applicationID":"72961008","transactionName":"ZABWZEFVV0FYUxJbCV1KdVNHXVZcFkAHVQM=","queueTime":0,"applicationTime":717,"atts":"SEdVEglPRE8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"337879e6cf","applicationID":"72961008","transactionName":"ZABWZEFVV0FYUxJbCV1KdVNHXVZcFkAHVQMeFUZZRVVaSw==","queueTime":0,"applicationTime":1212,"atts":"SEdVEglPRE8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
