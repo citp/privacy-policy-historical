@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the casa.gov.au privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325054927id_/https%3A//www.casa.gov.au/about-us/standard-page/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casa.gov.au privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925044035id_/https%3A//www.casa.gov.au/about-us/standard-page/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | Civil Aviation Safety Authority
 
-## We respect your privacy
-
 CASA is committed to respecting your right to privacy and protecting your personal information. We are bound by the _Privacy Act 1988_ , and our staff are trained to respect your privacy in accordance with our standards, policies and procedures.
 
-For more information you can [read our privacy policy](https://web.archive.org/standard-page/civil-aviation-safety-authority-casa-privacy-policy). The information in this policy changes from time to time.
+For more information you can [read our privacy policy](https://web.archive.org/privacy-policy). The information in this policy changes from time to time.
 
 This following list explains what sort of information we collect when you go to our website and how we use it.
 
@@ -25,8 +23,6 @@ This following list explains what sort of information we collect when you go to 
 
 
 By using our website, you consent to us using your information in accordance with this document.
-
-## The information we collect
 
 Each time you visit CASA’s website, our web server collects the following information:
 
@@ -85,8 +81,6 @@ Our online store is managed by BRN Benchmark Pty Ltd and is hosted by Shopify In
 
 We use YouTube, owned by Google, for the embedded display of video material and captions. The information collected about your use of the YouTube video service will be transmitted to and stored by Google on servers in the United States. Google will use this information to report on video activity, for development and improvement purposes. You may refuse to provide this information by not viewing videos presented via YouTube’s service.
 
-## How we use your information
-
 The type of information we collect from you will depend on what online services you use. When you subscribe to a mailing list, we use your e-mail address to send information on the topics you nominated. We may also use your email address to send regular communications about aviation safety information.
 
 When responding to items displayed in our website we may request (for example, in an order form), and you may provide personal information such as your name and address, email address and contact phone numbers. In the forms we will usually tell you how we use the personal information we collect, who we give access to that information and how you can access it, if we have retained it.
@@ -129,13 +123,11 @@ Where you contact us by email or through our websites, we may respond by email. 
 
 To protect your information from misuse, we store it using multiple firewalls, secure passwords and sign in processes.
 
-## Making a complaint
+We conduct a [privacy impact assessment](https://web.archive.org/standard-page/privacy-impact-assessment-register) (PIA) for all high privacy risk projects. A project may be a high privacy risk if it has a significant impact on a person's privacy.
 
 If you believe we have breached your privacy, you can make a written complaint to our privacy contact officer using the contact details below. We will respond within 30 days of receiving your complaint.
 
 You can also contact the privacy contact officer if you have any questions about this privacy statement or any privacy concerns.
-
-## Contact details
 
   * You can call us on 131 757 within Australia, or +61262171111 outside Australia.
   * You can send any queries or complaints about privacy to [privacy@casa.gov.au](mailto:privacy@casa.gov.au)
