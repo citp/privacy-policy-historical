@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the schoolhouseelectric.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115052147id_/https%3A//www.schoolhouseelectric.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolhouseelectric.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925071912id_/https%3A//www.schoolhouse.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Schoolhouse Electric
+# Privacy Policy | Schoolhouse
 
 ### GENERAL STATEMENT
 
-Schoolhouse Electric & Supply Co. respects the privacy of all individuals visiting our website. This Privacy Policy will outline what type of information Schoolhouse Electric & Supply Co. will collect and what may be done with this information. Schoolhouse Electric Supply Co. reserves the right &to amend this Privacy Policy at any time. In that case, the changes will be posted here.
+Schoolhouse Electric & Supply Co. respects the privacy of all individuals visiting our website. This Privacy Policy will outline what type of information Schoolhouse Electric & Supply Co. will collect and what may be done with this information. Schoolhouse Electric Supply Co. reserves the right to amend this Privacy Policy at any time. In that case, the changes will be posted here.
 
 ### PERSONALLY-IDENTIFIABLE INFORMATION
 
-Personally-identifiable information (such as your name, address, e-mail address, or phone number) will not be collected unless given by you voluntarily and knowingly. In the case that you do submit personally-identifiable information to us, it may be stored by Schoolhouse Electric & Supply Co.may be used by Schoolhouse Electric & Supply Co. to contact you. Your personally-identifiable information WILL NOT be sold or given to a third party for use in marketing or solicitation. Schoolhouse Electric & Supply Co. will confidentially maintain your personal information and will use it only to enhance or support your relationship with Schoolhouse Electric & Supply Co. It is possible, however, that Schoolhouse Electric & Supply Co. may be forced to disclose your information to the government or another third party in certain circumstances.
+Personally-identifiable information (such as your name, address, e-mail address, or phone number) will not be collected unless given by you voluntarily and knowingly. In the case that you do submit personally-identifiable information to us, it may be stored and used by Schoolhouse Electric & Supply Co. to contact you. Your personally-identifiable information WILL NOT be sold or given to a third party for use in marketing or solicitation. Schoolhouse Electric & Supply Co. will confidentially maintain your personal information and will use it only to enhance or support your relationship with Schoolhouse Electric & Supply Co. It is possible, however, that Schoolhouse Electric & Supply Co. may be forced to disclose your information to the government or another third party in certain circumstances.
 
 While Schoolhouse Electric & Supply Co. will work hard to keep your personal information private, it is possible that a third party could intercept your information illegally. If, to our knowledge, this occurs, Schoolhouse Electric & Supply Co. will contact you in order to explain the situation.
 
 Schoolhouse Electric & Supply Co. does not intend to collect or maintain personally-identifiable information from children under the age of eighteen. If a child does submit this type of information to Schoolhouse Electric & Supply Co., a parent or guardian should contact us using the contact information provided at the bottom of this page.
 
-If you would like to remove your information from our database, change your information, or opt out of receiving communication from Schoolhouse Electric & Supply Co., you may contact us using the contact information provided at the top of this page.
+If you would like to remove your information from our database, change your information, or opt out of receiving communication from Schoolhouse Electric & Supply Co., you may contact us using the contact information provided at the bottom of this page.
 
 ### OTHER INFORMATION AND “COOKIES”
 
@@ -27,3 +27,7 @@ While Schoolhouse Electric & Supply Co. will work to maintain your security, no 
 ### THIRD-PARTY WEBSITES
 
 This Privacy Policy applies only to Schoolhouse Electric & Supply Co., and not to any other company or website.
+
+### CONTROLLING YOU PERSONAL INFORMATION
+
+If you have previously agreed to Schoolhouse using your personal information for marketing purposes, you may change your mind at any time and opt out through your options in your [My Account](https://www.schoolhouse.com/account/login) section when logged in, unsubscribe link within our marketing emails or contacting us at [customersupport@schoolhouse.com](mailto:customersupport@schoolhouse.com)
