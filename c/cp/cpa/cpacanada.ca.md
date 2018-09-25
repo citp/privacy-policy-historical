@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpacanada.ca privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119213005id_/https%3A//www.cpacanada.ca/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpacanada.ca privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925191436id_/https%3A//www.cpacanada.ca/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -134,12 +134,14 @@ Last revised: May 25, 2017
 
 ## Highlights
 
-Join our financial literacy volunteer program for CPA members.
+November 22, 2018
 
-February 26, 2018
+CPA Canada’s annual financial literacy conference is a must-attend for those who want to learn how to improve the financial health of Canadians.
 
-Embrace change and make an impact on your not-for-profit (NFP) with insights from industry experts and leaders.
+October 1, 2018
 
-November 16, 2017
+The ONE is Canada’s must-attend, multi-track CPA event of the year. Stay at the top of your game with future-focused sessions, thought-provoking keynotes, prime networking opportunities and a first-class exhibition floor.
 
-From podcasts to virtual classrooms and online courses, there are multiple ways to meet your 2017 CPD requirements online and on the go.
+October 15, 2018
+
+Stay up-to-date on critical indirect tax issues and network with other indirect tax professionals at Canada’s largest and longest-running indirect tax event.
