@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualmedicalcentre.com privacy policy that was archived on 2017-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170316005952id_/https%3A//www.myvmc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualmedicalcentre.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925072754id_/https%3A//www.myvmc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | myVMC
 
@@ -6,8 +6,10 @@
   * What personal information does myVMC collect and how does myVMC use your personal information?
   * Protecting your personal information
   * Accessing and correcting your personal information
+  * Removing your personal information
   * Your personal information and third parties
   * Cookies
+  * Keeping information secure
 
 
 
@@ -39,7 +41,7 @@ Importantly, we do not combine the anonymous information collected through Googl
 
 To opt out of these features at any time, simply change your Google Ads Settings by [clicking here](http://google.com.au/policies/technologies/ads). Alternatively, you can opt out of a third party vendor’s use of cookies by visiting the Network Advertising Initiative opt-out page (see <http://networkadvertising.org/choices/#completed>).
 
-If you do not wish to receive any cookies you may set your browser to refuse cookies. However, this will mean that we will not be able to personalise your website each time you visit.
+If you do not wish to receive any cookies you may set your browser to refuse cookies. However, this will mean that we will not be able to personalise your website each time you visit. See more here.
 
 myVMC will not collect your personal information unless you have consented and given it to us.
 
@@ -105,6 +107,23 @@ If you believe that your personal information is being used for a purpose other 
 
 A member’s identity needs to be validated before his⁄her personal information is divulged when requested. In all cases, myVMC will take reasonable steps to verify your identity before granting access to personal information or making corrections. If in doubt we do not divulge any information.
 
+*Please note that we may keep a record of your communications to help us resolve any issues that you raise.
+
+### Removing your personal information
+
+Right to remove:
+
+You have the right to request us to “remove” your personal data. We will respond to your request within a timely manner and we will delete your data but will generally assume that you would prefer us to keep a note of your name on a register of individuals who would prefer not to be contacted. That way, we will minimise the chances of you being contacted in the future where your data are collected in unconnected circumstances. If you would prefer us not to do this, you are free to say so.
+
+We would only be entitled to refuse to comply with your request for one of the following reasons:
+
+  * for archival, research or statistical purposes
+  * to exercise or defend a legal claim
+
+
+
+When complying with a valid request for the removal of data, we will take all reasonably practicable steps to delete the relevant data.
+
 ### Your personal information and third parties
 
 Contracts with all service providers⁄consultants whose service involves access to personal information comply with the myVMC Privacy Policy.
@@ -122,10 +141,18 @@ In both cases, third parties are required to sign an undertaking that the inform
 
 ### Cookies
 
+MyVMC uses cookies to ensure you get the best experience on the website. We use them to analyse how many people are coming to the site and what is most interesting to them so it can guide us in our future educational content development. Our advertisers also use cookies (you will see advertisements in the external banners of the site, each clearly marked as ‘ad’ so it can be distinguished from our referenced educational content) to serve ads which are relevant to your interests. If you continue without changing your settings, we will accept your consent to receive these cookies. However, if you wish to, you can change your browser settings to block or remove cookies at any time. Go to <https://ico.org.uk/your-data-matters/online/cookies/> for information on how to do this.
+
 A cookie is a small amount of data, which may include an anonymous unique identifier, that is sent to an individual’s browser from a website’s computers and may either be used only during the internet session (a “session” cookie) or may be stored on the individual’s computer hard drive (a “persistent” cookie).
 
 Cookies can contain data about user movement during the visit to a website. If an individual’s browser software is set to allow cookies, a website can send its own cookie to them. A website cannot access cookies sent to the individual by other sites.
 
 myVMC uses cookies to make the individual’s use of the myVMC site and services as enjoyable as possible. Cookies themselves do not personally identify users, although they do identify a user’s browser. Cookies are useful to estimate the number of myVMC site members and determine overall traffic patterns through the website.
 
-An individual can configure their browser to accept all cookies, reject all cookies, or notify them when a cookie is sent. (Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences.)
+An individual can configure their browser to accept all cookies, reject all cookies, or notify them when a cookie is sent. (Each browser is different, so check the “Help” menu of your browser or go to <https://ico.org.uk/your-data-matters/online/cookies/> to learn how to change your cookie preferences.)
+
+### Keeping information secure
+
+We invest significant resources to protect your personal information, from loss, misuse, unauthorised access, modification or disclosure. However, no internet-based site can be 100% secure and so we cannot be held responsible for unauthorised or unintended access that is beyond our control.
+
+[Contact us](https://www.myvmc.com/contact-us/) if you have any questions.
