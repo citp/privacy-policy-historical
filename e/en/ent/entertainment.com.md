@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entertainment.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929021803id_/https%3A//answers.entertainment.com/customer/portal/articles/1731240) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainment.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925170320id_/https%3A//answers.entertainment.com/customer/portal/articles/1731240) for the most accurate reproduction.*
 
 # Entertainment | Privacy Policy
 
@@ -142,4 +142,4 @@ We will occasionally update this Privacy Policy to reflect changes in our practi
 
     **How to Contact Us**
 
-If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by e-mail or postal mail as follows: Chief Security Officer, Entertainment®, 1401 Crooks Rd., Suite 150, Troy, MI 48084.  [Click here](https://answers.entertainment.com/customer/portal/emails/new) to send us a message.
+If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by e-mail or postal mail as follows: Entertainment®, Attn: Member Services, 1401 Crooks Rd., Suite 150, Troy, MI 48084.  [Click here](https://answers.entertainment.com/customer/portal/emails/new) to send us a message.
