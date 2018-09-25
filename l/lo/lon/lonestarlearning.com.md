@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lonestarlearning.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525070424id_/http%3A//store.lonestarlearning.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lonestarlearning.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925161248id_/https%3A//store.lonestarlearning.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -17,6 +17,12 @@ By using the Site, you agree to this Privacy Policy. If you do not agree to this
 PERSONALLY IDENTIFIABLE INFORMATION
 
 As used in this Privacy Policy, Personally Identifiable Information (“PII”) means any information about yourself that you may provide to us when using the Site, such as when you sign up for a user account, which may include (but is not limited to) your name and contact information. We endeavor to limit the collection of PII to what we need with respect to specific Site activities in order to satisfy business, legal, or regulatory requirements.
+
+Contact form submission data ó IP address, user agent, name, email address, website, and message ó is submitted to the Akismet service (owned by Automattic) for the sole purpose of spam checking. The actual submission data is stored in the database of the site on which it was submitted and is emailed directly to the owner of the form (i.e. the site author who published the page on which the contact form resides). This email will include the submitterís IP address, timestamp, name, email address, website, and message.
+
+Data Synced: Post and post meta data associated with a userís contact form submission. If Akismet is enabled on the site, the IP address and user agent originally submitted with the comment are synced, as well, as they are stored in post meta. Purchase events will send Google Analytics the following information: order number, product id and name, product category, total cost, and quantity of items purchased.
+
+Data Used: When sharing content via ShareThis or email, the following information is used: sharing partyís name and email address (if the user is logged in, this information will be pulled directly from their account), IP address (for spam checking), user agent (for spam checking), and email body/content. This content will be sent to Akismet (also owned by Automattic) so that a spam check can be performed. 
 
 INFORMATION WE COLLECT AND HOW WE USE IT
 
@@ -39,8 +45,6 @@ To enforce our Terms of Use;
 To generate aggregate statistical studies and conduct research; or
 
 To provide any legitimate business service or product.
-
-LSL does not provide, sell or lend any personally identifiable information to any third party.
 
 COOKIES
 
