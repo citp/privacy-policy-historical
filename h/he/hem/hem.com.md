@@ -1,63 +1,149 @@
-> *The following text is extracted and transformed from the hem.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523132649id_/https%3A//www.hem.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hem.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925075212id_/https%3A//www.hem.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Hem Design Studio Sweden AB Privacy Policy
 
-#### Privacy Policy
+This Privacy Policy describes how your personal information is collected, used, stored and shared ("processed") when you visit or make a purchase from www.hem.com (the “Site”).
 
-The Hem website is provided by Hem Design Studio Sweden AB, Eastmansvägen 12A, 113 61 Stockholm, Stockholm, Sweden (hereinafter referred to as "Hem"). This data protection declaration provides information on how we use and protect your data on the Hem website. Using the Hem website implies that you accept the terms set forth in this data protection declaration. If you do not agree with these terms, please do not use the Hem website. This data protection declaration applies from the time you begin using the Hem website.
+DATA CONTROLLER (“ **We** ”): 
 
-#### Data Collection
+Hem Design Studio Sweden AB, ORG.NR: 559047-2766  
+Eastmansvägen 12A, 113 61 Stockholm, Sweden  
++46 (0)8 408 067 40  
+info@hem.com  
 
-You may use parts of the Hem website without telling us who you are or providing any personal data. Data will be automatically collected from your computer while you surf the Hem website, e.g. the areas you visit on the Hem site and how you interact with the Hem website. We will collect your IP address, computer and connection data, browser type and version, operating system and platform, the URLs you linked from and which you visit next and a cookie number. When you have placed an order with Hem, we will collect and store your email address, first name and surname, gender, password and, where applicable, information on the person who invited you. When you are ready to place an order, you will provide us with additional contract information such as billing and delivery address, payment information and a telephone number. In the course of your dealings with Hem you may voluntarily provide us with further personal data to enable us to learn more about you and your preferences with regard to Hem and, in certain circumstances, to individualise your experience, e.g. the details in your profile. We may obtain more information from or about you in other ways, for example when you contact customer service or respond to a survey, or from feedback from logistic partners. Such data is always collected in accordance with the data protection legislation applicable. Your data protection rights are considered in accordance with legal requirements.
+PERSONAL INFORMATION WE PROCESS
 
-#### Usage
+When you visit, and browse the Site, we automatically collect data about:
 
-We use your personal data, in anonymous form or by link to pseudonyms, when required, for the following purposes: To handle sales; in order to provide information and services required by you, such as customer service, for example; to deliver goods that you have ordered and to handle payments; to provide for a customised presentation of content, advertising and user experience; to communicate with you about your orders; to provide news regarding the services of Hem and other administrative issues; to provide you with targeted marketing activities and advertising offers on the Hem website; to inform you (after your newsletter registration) about sales promotions at Hem, providing you agreed to receive the newsletter at the time of your registration, a consent which can be revoked at any time; to improve our site and services; to settle legal disputes; to respond to complaints and to fix technical problems; to prevent, uncover and investigate abuse, in particular fraud; to analyse the Hem website and user behaviour and to compile aggregated reports. User profiles based on pseudonyms may be created for the purposes of: advertising, market research and user-friendly design of services, and content provided by the services as well as marketing activities and advertising offers. The aggregated data will not be used to identify you as an individual or be combined with personal data linked to the pseudonym without your express approval. You can object at any time to the creation of user profiles in future by sending an appropriate email to info@hem.com or by following the instructions that Hem provides to you for this purpose.
+\- Your device, your web browser, IP address, time zone, and some of the cookies that are installed on your device.
 
-#### Service Provider
+\- Additionally, we collect data about the individual web pages or products that you view, what websites or search terms referred you to the Site, and data about how you interact with the Site.
 
-We are entitled to forward your personal data to contracted service providers that support our business operations or that we use to fulfil our contract with you (e.g. IT services, logistic partners) or to our suppliers that deliver goods directly to you. Our service providers are bound to observe confidentiality.
+We refer to this automatically-collected information as “ **Device Data** ”, and we collect it using the following technologies:
 
-#### Feedback
+\- “ **Cookies** ”, which are data files that are stored by your internet browser or your computer, and which often include an anonymous unique identifier. The webpages you browse are then able to recognize some information contained in the cookies stored by your browser. While some cookies are necessary to ensure proper communication with the website (for example to store items in your shopping cart), some cookies may also contain anonymous analytical information about your browsing to display content relevant for you, and may be stored for a longer period of time. For more information about cookies, and how to disable them, visit http://www.allaboutcookies.org.
 
-We may use the findings from surveys in which you have participated for our own internal development and market research and share the results with our associated companies, consultants, suppliers and service providers.
+\- “ **Log files** ” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
 
-#### Third-Party Companies
+\- “ **Web beacons** ”, “ **tags** ”, and “ **pixels** ” are electronic files used to record information about how you browse the Site.
 
-(Insofar as we are planning a merger with or takeover of these companies.) Should this circumstance arise, we will prompt the resulting legal person to abide by this data protection declaration with regard to your personal data. We will inform you in advance and obtain your permission should your personal data be used in conflict with this data protection declaration.
+In addition to Device Data, when you make a purchase or attempt to make a purchase through the Site, we need to collect certain information from you, including:
 
-#### Public Authorities
+\- Your name, billing address, shipping address, payment information (including credit card numbers and bank details), email address, and a phone number.
 
-We are entitled to inform law enforcement authorities, other government agencies or third parties in connection with an investigation concerning suspected illegal or other activities that make us, you or another customer of Hem liable for claims. The personal data revealed by us may include names, addresses, telephone numbers, email addresses, fraud complaints and purchasing history, as well as any other data we deem relevant. When you use the Hem website from a computer shared with others or a computer at an internet café, some of your personal data can also be seen by other persons who use the computer after you, if you fail to log out.
+We are unable to fulfill your order, and you cannot enter into a purchasing agreement with us without providing us with this information.   
+We refer to this information as “ **Order Data** ”. 
 
-#### Direct Marketing
+When we talk about “ **Personal Data** ” in this Privacy Policy, we are talking both about Device Data and Order Data.
 
-We will not sell or lease your personal data to third parties for marketing purposes without your explicit permission.
+Finally, we process information regarding your subscription to our services (Hem PRO), information you provided to us by completing online forms on the Site, or information you submit to us regarding claims.
 
-#### Anti-Spam Directive
+HOW DO WE PROCESS YOUR PERSONAL INFORMATION?
 
-Hem does not allow any spam, but that does not mean that we can prevent spam on the internet. If you think that you have received an unsolicited email from us, please contact info@hem.com so that we can investigate the issue.
+By default, we only process the minimal amount of personal data necessary to operate our business properly. We do not collect any sensitive personal data such as data regarding racial or ethnic origin, political opinions, religious or philosophical beliefs or trade union membership.
 
-#### Cookies
+Your personal data may be processed either:  
+\- By you giving us **consent** with the processing of your data, or   
+\- To enable a performance of a **contract** between us and you, or   
+\- Where the processing is necessary for our **legitimate** business **interests** (such as for example the development of our business, providing information about our business to potential customers, identifying fraudulent claims, or the improvement of the customer experience on the Site).
 
-Hem and other members of our group of companies that provide us with services as well as our external service providers may place cookies or web beacons onto your computer when you visit the Hem website. Hem uses cookies; cookies are small files that are stored on your hard drive. They make navigation easier. Cookies also help us with identification. We use these cookies and web beacons to monitor your preferences and present the Hem website in the best possible way, to recognise returning users, to measure user traffic and activities during visits to the Hem website, to monitor and improve our service and to guard against fraud. We also use cookies to individualise our service, content, advertising and product line. We may use the services of external advertising companies which may place cookies in order to allow them to collect and use anonymous data concerning your visit to the Hem website. You can block cookies at any time by changing your browser settings. However, this might mean that we are unable to provide certain services. In order to place an order through the Hem website your browser must be set to accept cookies. This website uses Google Analytics, a web analysis service by Google Inc. ("Google"). Google Analytics uses cookies. The information generated by the cookie concerning your use of the website is usually sent to a Google server in the USA and stored there. When the IP anonymisation on this website is activated, your IP address is first shortened by Google in the member states of the European Union or in other states that are party to the agreement on the European Economic Area. In exceptional cases, the full IP address is sent to a Google server in the USA and shortened there. Google uses this information at the request of the operator of this website to evaluate your use of the website, compile reports on website activities and provide additional services concerning website use and internet use to the operator of this website. The IP address sent by your browser as part of the Google Analytics process will not be combined with other Google data. You can prevent storage of the cookies by appropriate settings of your browser. Please take note that in this case you might not be able to use all the functions of this website. Furthermore, you can prevent the transmission to Google of data created by the cookie concerning your use of this website (incl. IP address) as well as the processing of these data by Google by downloading and installing the Link Available Browse plug-in.
+FOR WHAT PURPOSE DO WE PROCESS YOUR PERSONAL DATA?
 
-#### Saving The Contract Wording
+We use the non-directly identifiable **Device Data** to screen for potential risk and fraud (particularly your IP address), and more generally to improve and optimize our Site (for example, by analyzing how our customers browse and interact with the Site, or to assess the success of our marketing and advertising campaigns). Additionally, we use the Device Data that we collect for advertising and retargeting, in order to optimize the user experience on the Site.
 
-We will save the wording of the contract and send you your order information via email. Your previous orders are no longer visible to you.
+We use the **Order Data** that we collect generally to fulfill any orders placed through the Site (including processing your payment data, arranging for shipping, and providing you with invoices and/or order confirmations). Additionally, we use this Order Data to:  
+\- Communicate with you;  
+\- Screen our orders for potential risk or fraud; and  
+\- When in line with the preferences you have shared with us, provide you with data or advertising relating to our products or services.
 
-#### Links To Other Websites
+SHARING YOUR PERSONAL INFORMATION
 
-The Hem website contains links to other websites. We should point out that we do not influence the presentation or content of other websites. Nor can we therefore accept any liability for the accuracy, correctness, completeness or quality of information provided there. Hem is not responsible for the data protection methods or contents of these sites and does not regularly monitor them. Please read the data protection declarations on these sites if you are concerned about their methods of data collection and usage.
+We share your Personal Data with third parties to make sure that we can sell our products properly, and that shopping is a comfortable experience for you. We use Shopify to power our online store--you can read more about how Shopify uses your Personal Data here: <https://www.shopify.com/legal/privacy> .  
+We use MailChimp to maintain subscriptions to our newsletters – you can read more about how MailChimp uses your data here: <https://mailchimp.com/legal/privacy/> . We also use Google Analytics to help us understand how our customers use the Site -- you can read more about how Google uses your Personal Data here: <https://www.google.com/intl/en/policies/privacy/> and you can also opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaoptout>.  
+In order to process payments, we need to share some of your personal data with our payment solutions providers, such as PayPal and Braintree.
 
-#### Amending/Deleting Personal Data (Right To Information)
+Furthermore, we share your personal data with our logistics and warehouse operators to ensure proper delivery of the products ordered.
 
-You are entitled to be informed about the data stored in connection with your person and to have them corrected or deleted. We will, on request, inform you as quickly as possible as required by law what personal data of yours is stored with Hem. We do our best to enter changes in our database as quickly as possible. However, not all databases can immediately be updated and old data may remain in our archives and records for a short period until they are updated. We also might not be able to send changes to partners, suppliers or external service providers who have already received your data or information. We will keep information in certain circumstances even if you might have asked for it to be deleted so that we can settle disputes, analyse programs, implement our general terms and conditions of business and shopping rules and comply with legal requirements. For both technical and legal reasons this information is never completely deleted from our database, including saved back-up systems. If incorrect information about you should be kept despite our endeavours to ensure that data are up to date and correct we will rectify this at your request.
+Finally, we may also share your Personal Data to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for data we receive, or to otherwise protect our rights.
 
-#### Security
+TRANSFER OF DATA TO A THIRD COUNTRY
 
-Hem uses physical, electronic and administrative security measures, including an extended firewall and password protection for its database, which are intended to ensure the security of the data. We restrict access to personal data to staff members who have a need to know this information in order to provide, develop or improve the services of Hem.
+While all of our servers are hosted within the EU, due to the nature of the services we are using to power our site, your personal data  may be transferred outside of the EU - namely into to Canada and into the US.
 
-#### General
+BEHAVIOURAL ADVERTISING AND OPT-OUT LINKS
 
-We may change this declaration from time to time by informing you of any changes and publishing the amended terms on the Hem website. For new users, the amended terms will be effective immediately; or existing users, they will come into effect 30 days after they have been communicated, excepting any users who object to them. If you have questions concerning this data protection declaration or the use of personal data at Hem, you can send an email to service@hem.com or contact Hem Design Studio Sweden AB, Eastmansvägen 12A, 113 61 Stockholm, 112 34, Stockholm, Sweden.
+As described above, we may use your Personal Data to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at <http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work> .
+
+You can opt out of targeted advertising / communication by using the links below:
+
+\- Facebook: https://www.facebook.com/settings/?tab=ads
+
+\- Google: https://www.google.com/settings/ads/anonymous
+
+\- Bing: https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads
+
+\- Mailchimp Hem Pro Europe: https://hem.us13.list-manage.com/unsubscribe?u=8b6f74da1e1f401c90d020ab3&id=addaed014d
+
+\- Mailchimp Hem Newsletter Europe: https://hem.us13.list-manage.com/unsubscribe?u=8b6f74da1e1f401c90d020ab3&id=3d26074663
+
+\- Mailchimp Waiting list 2018 EU Pro: https://hem.us13.list-manage.com/unsubscribe?u=8b6f74da1e1f401c90d020ab3&id=8d9853c405
+
+\- Mailchimp Waiting list 2018 EU: https://hem.us13.list-manage.com/unsubscribe?u=8b6f74da1e1f401c90d020ab3&id=c29359f6a5
+
+Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: <http://optout.aboutads.info/>.
+
+MANAGING YOUR COOKIES:
+
+After you give us consent to store cookies on your device, this information will be stored for when you browse the Site next time.   
+You can withdraw this consent at any time by deleting cookies for each of the browsers, that you use (such as Google Chrome, Mozilla Firefox, Safari, Internet Explorer or Microsoft Edge).
+
+DO NOT TRACK
+
+Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
+
+YOUR RIGHTS
+
+If you are a European resident, you additionally have the following rights:  
+\- The **right to access the personal data we hold about you**  
+\- The **right to** **receive your data in a portable and structured format.** Please note, that we may apply a reasonable fee for any copies of your data after the first one that we provide you with.  
+\- The **right to have your data kept accurate** and have it corrected on request  
+\- The **right to have your data erased** , in cases where it is no longer necessary for the purpose for which we collected it, or if you believe we have collected it unlawfully. You might also have your data erased in cases when you gave your consent for its processing, and you withdraw such consent, or if you use your right to object (see further). Please note, that in some situations we might not be able to erase your data because of legal regulations which require us to keep copies of it. We will notify you about such rules at the time of your request.  
+\- The **right to have processing restricted** (apart from storage), in cases where for example you request a correction of the data  
+\- The **right to object to processing** , if it is carried out based on our legitimate interest (for example in cases of direct marketing)  
+\- The **right to withdraw consent at any time** , when the processing is based on you giving us consent to process your personal data  
+\- The **right to lodge a complaint with the relevant supervisory authority**. The Swedish Data Protection Authority (DPA) / Datainspektionen is available for contact at <https://www.datainspektionen.se/in-english/contact-us/> . However, we would appreciate if you contacted us beforehand to see if we can help you resolve your concerns as well.  
+\- In cases where we don’t have the data directly from you, **the right to know where the personal data has been collected from**
+
+We will communicate any requests to correct or erase personal data to each of the third parties we have shared it with, and you have the right to be informed about these third parties, should you request it.
+
+You may exercise all the above-mentioned rights by writing to us on the contact information written below, and we will do our best to reply to you without any unnecessary delay, however at the latest within one month from such request.
+
+AUTOMATED DECISION MAKING
+
+In general, we do not carry out automated decision making, including profiling, that produces legal effects with regards to you. We do, however need to automatically modify some aspects of our offers (such as the VAT, for example) based on your location, in order to comply with laws in different countries.
+
+DATA RETENTION
+
+We will maintain your Order Information only for as long as it is necessary to comply with legal obligations in the respective countries. We will maintain other types of data unless or until you ask us to delete it. 
+
+DATA BREACH
+
+In case of a data breach, we inform the necessary authority without unnecessary delay, at the latest within 72 hours of becoming aware of it, as well as to you in case such breach could result in a high risk to your rights and freedoms. We will also document and maintain records of any such breach.
+
+CHANGES
+
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
+
+MINORS
+
+The Site is not intended for individuals under the age of 18, and we do not knowingly process their personal data. 
+
+CONTACT US
+
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, or unsubscribe from any of our services please contact us by e-mail at info@hem.com or by mail using the details provided below:
+
+Privacy Compliance Officer  
+Hem Design Studio  
+Eastmansvägen 12A  
+11361 Stockholm  
+Sweden
