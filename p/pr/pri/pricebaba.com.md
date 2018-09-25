@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricebaba.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117022308id_/http%3A//pricebaba.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricebaba.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925204708id_/https%3A//pricebaba.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Pricebaba.com
 
@@ -25,15 +25,15 @@ We do collect information you provide to us such as name, email, mobile phone nu
 
 We may disclose to third party services certain personally identifiable information listed below: 
 
-  * • information you provide us such as name, email, mobile phone number 
-  * • information we collect as you access and use our service, including device information, location and network carrier 
+  * information you provide us such as name, email, mobile phone number
+  * information we collect as you access and use our service, including device information, location and network carrier 
 
 
 
 This information is shared with third party service providers so that we can: 
 
-  * • personalize the app for you
-  * • perform behavioral analytics
+  * personalize the app for you
+  * perform behavioral analytics
 
 
 
