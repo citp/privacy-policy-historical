@@ -1,69 +1,226 @@
-> *The following text is extracted and transformed from the swns.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630202616id_/http%3A//swns.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swns.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925020356id_/http%3A//www.swns.com/privacy) for the most accurate reproduction.*
 
-# Privacy : SWNS
+# SWNS Privacy Policy - SWNS Mainsite
 
-swns.com Limited (“the Company”, “swns.com”, South West News Service) is committed to ensuring that Members’ and Users’ (“you”, “your”) privacy is protected. This privacy policy explains how we intend to and will use the data we collect about you on swns.com (“the Website”), how you can instruct us if you prefer to limit the use of that data and the procedures that we have in place to safeguard your privacy. South West News Service is registered with the Information Commissioner’s Office in the United Kingdom. You should read this policy in its entirety.
+Version 1.00, 220518 **.  **This policy was last updated on May 22 2018.
 
-1\. Personal Information
+  1. **About this policy  
+**
+  2.  **Who we are  
+**
+  3.  **The personal data we collect about you  
+**
+  4.  **How we use your personal data  
+**
+  5.  **Exemptions  
+**
+  6.  **Who we share your personal data with  
+**
+  7.  **Where you personal data are stored  
+**
+  8.  **How we keep your personal data secure  
+**
+  9.  **How long we keep your personal data for  
+**
+  10.  **Cookies  
+**
+  11.  **Your rights**
 
-1.1 Account Activity
 
-When you initially visit the South West News Service Website, you are required to register as a member (“Member”) before you can upload content, flag articles or post comments. During this registration process, we collect personal data about you, including your name, postal address, e-mail address and telephone number (“Data”). By registering on our Website you are consenting to the use of your data by the Company in accordance with our Terms and Conditions, this Privacy Policy and our 4 simple rules.
 
-We gather this Data to allow us to keep a record of individual Members responsible for uploading specific news articles and reports and to protect your account from unauthorised access. The Data you provide is also used by us to communicate with you with regards to the operation, maintenance, and functionality of this Website.
+## 1\. About this policy
 
-Data will be stored on our servers in a database for the duration of your registration, after which time they will be archived and kept for seven years.
+This policy explains how we collect and process personal data from and about the following groups of individuals:
 
-1.2 Non Account Activity
+  * Individuals working for our customers and suppliers  
 
-Users of the Website who wish only to read news articles or reports do not need to register as a Member (“User”); however, such Users are not allowed to upload content to the Website, flag articles or post commentary.
+  * Individuals who contribute content to us such as news stories and other media  
 
-2\. Company Use and Disclosure
+  * Visitors to our website  
 
-If you submit personal information to the Company, we may use the information and relevant statistical data to monitor the Website’s usage by Members and to help us develop the Website and our services from time to time. These statistics will not include information that can be used to identify you as an individual.
 
-Your user name is displayed to other Users when you upload videos or send messages through this Website. Other Users can contact you through messages and comments. Any video(s) you submit to the Website is viewable by the general public and may be redistributed through the internet and other media channels. Moderators will monitor content on this Website on a random basis and may use your Data to contact you in relation to any news articles or reports that you upload to this Website.
 
-From time to time, we may provide your Data to our customer service agencies for research and analysis purposes and to monitor and improve the services we provide. The Company or our appointed agents and sub-contractors may contact you by e-mail or telephone to ask you for your feedback and comments on our services.
 
-The Company may also wish to provide you with information about special features of this Website or any other services or products we think might be of interest to you. If you would rather not receive this information, please send a blank e-mail message to contact@swns.com.com with the subject line “South West News Service Opt-out”.
+Our objective is to ensure that you are never surprised by how your personal data has been used by us. You are therefore encouraged to read this policy. There may be other notices that apply to specific services we provide, which you should also read at the relevant time.
 
-The Company may also want to provide you with related information from carefully selected third parties we think might be of interest to you. If you would rather not receive this information, please send an e-mail to thirdparty@swns.com.com
+As our business and this website develops, we may need to update this policy. If we intend to make any important changes that affect your rights and interests, we will make sure we bring this to your attention and explain what this means for you beforehand.
 
-3\. Third Party Advertisements
+If you have any questions in relation to this policy or wish to exercise any of Your rights under data protection law, you should contact our Data Protection Officer Jo Garner by email at news@swns.com.
 
-South West News Service may allow other companies called “third-party ad servers” or “ad networks” to serve advertisements within this Website. These third-parties may use technology to send, directly to your browser, the advertisements and links that appear on this Website. They will automatically receive your IP address when this happens and they may employ other technologies such as cookies to measure the effectiveness and/or personalise the advertisements. Any Data received from a third party ad server in relation to your account will be handled in accordance with this Privacy Policy.
+## 2\. Who we are
 
-South West News Service will not provide your personal information to third party ad servers without your consent, except as a part of a Website feature which you as a Member will have the option to opt out of before such disclosure.
+South West News Service Limited (trading as SWNS) is a limited company registered in England and Wales (company no 6561578) and registered as a controller with the ICO under number [Z1433952](https://ico.org.uk/ESDWebPages/Entry/Z1433952).
 
-4\. Use of cookies
+## 3\. The personal data we collect about you
 
-The use of cookies is common in the computer industry. A cookie is data sent to your computer by a Web server that records your actions on a certain Web site. When you visit the site again after being sent the cookie, the site will load certain pages according to the information stored in the cookie. We use cookies in two ways:
+Personal data means any data that identifies or can be used to identify a person. It does not include data where the identity has been removed (anonymous data).
 
-4.1 Per-session cookies: These are used while Members are logged on to the Website and when Users visit the Website to help us monitor traffic through the Website and do not store any personal information; and
+The types of personal data that we may collect from or about you will depend on which group you fall into and may include:
 
-4.2 Auto logon cookies: These store some personal data in order to allow Members to log on automatically when you visit the Website.
+**Individuals working for our customers and suppliers and agents**  
 
-With most web browsers it is possible to configure your Internet browser so that it can refuse new cookies, prompt you to accept a cookie or disable cookies altogether. How you do this will depend on the Internet browser you use (For example Internet Explorer 7, Netscape, Firefox). By refusing to accept South West News Service’ cookies our Website will not operate correctly. For further details on cookies we recommend that you visit www.allaboutcookies.org.
 
-Cookies relating to this Website will be stored on your computer. Unless otherwise indicated, auto logon cookies will be stored on Members’ computers for a period of one month.
+  * your name(s) and contact details  
 
-5\. Sale or Merger of Business
+  * your job title or role and the department/division/publication you work for  
 
-If the Company is sold or integrated with another business, your Data may be disclosed to our advisers and any prospective purchasers, their advisers and new owners of the business. We will handle the transfer of your data securely in accordance with this Privacy Policy.
+  * any correspondence we have with you in relation our contractual relationship
 
-6\. Protecting Your Information
 
-Internet security is not absolute; therefore, security controls are built into the Website to offer you a greater degree of protection. We also keep your Data confidential subject to the purposes for which the details were collected. The internal procedures of the Data Controller cover the storage, access and disclosure of your data.
 
-7\. Updating Personal Information
+**Individuals who contribute content to us such as news stories and other media**  
 
-You may update or correct your personal profile information by accessing your private user profile on www.swns.com.com for amending your settings, updating your profile and changing your password.
 
-8\. Your consent
+  * your name(s) and contact details  
 
-By submitting your Data you consent to the use of your Data as set out in this Privacy Policy and as set out in the Website Terms and Conditions. If we change our Privacy Policy we will post the changes on this page, and may place notices on other pages of this Website, so that you may be kept informed of the Data we collect and how we use it at all times. Continued use of the service will signify that you agree to any such changes.
+  * your bank account number and sort code or other bank account details, if we make any payment to you for a story or any other media  
 
-Owing to the global nature of the Internet infrastructure, the Data you provide may be transferred in transit to countries outside the European Economic Area that do not have similar protections in place regarding your Data and its use as set out in this Privacy Policy. By submitting your Data, you consent to these transfers and agree that South West News Service will not be held liable for any loss, damage, and inconvenience suffered as a result of such transfers of Data.
+  * your login details if you have an account for SWNS.rocks (our content submission platform)  
 
-This Privacy Policy was last updated in January 2010.
+  * any correspondence we have with you in relation to the content submitted by you  
+
+  * biographical and other information about you and your image, where any content submitted by you relates to or includes you
+
+
+
+**Visitors to our website**  
+
+
+  * your name(s) and contact details when you contact our news desk, picture desk or any of our offices  
+
+  * any correspondence we have with you
+
+
+
+## 4\. How we use your personal data
+
+We will only use your personal data when the law allows us to. We will generally rely on one of three legal grounds for using your personal data:
+
+  * where we need to perform the contract we are about to enter into or have entered into with you   
+
+  * where necessary for our legitimate interests or those of a third party, provided those interests do not override your fundamental rights and interests  
+
+  * where we need to comply with a legal or regulatory obligation  
+
+
+
+
+Generally, we do not rely on consent as a legal ground for using your personal data, except in relation to sending you marketing by email or text message. You have the right to withdraw your consent to marketing at any time either by contacting us, clicking the unsubscribe link in an email or replying to a text message with the required words notified to you in each text message.
+
+Specifically, we will use your personal data as follows:
+
+  *  **contact details:** to respond to your enquiry, contact you in relation to a story or media that you have contributed or administer our contract with you (as appropriate)  
+
+  *  **bank account details:** to make any payment that we have agreed to make to you  
+
+  *  **correspondence:** to communicate with you in relation to your enquiry, story or contract   
+
+  *  **biographical information and images:** to investigate, author and publish journalistic, artistic and/or literary works (subject to the exemptions noted below)
+
+
+
+## 5\. Exemptions
+
+Data protection law strives to achieve a balance between individuals’ right to privacy and freedom of expression. Although we are required to preserve the confidentiality and security of personal data provided to or obtained by us, the Data Protection Act 2018 includes important exemptions from a number of data protection obligations, including the obligation to provide individuals with information about how we process their personal data, for the purposes of journalism, artistic and literary purposes.
+
+In order to rely on the exemption, we must show that we processed your personal data (or that of a third party, where relevant) with a view to publication that we reasonably believe to be in the public interest and that complying with various obligations under data protection law would be incompatible with processing personal data for journalistic purposes.
+
+SWNS honours the Independent Press Standard Organisation Editors’ Code of Practice, even though it is not a member of IPSO.
+
+## 6\. Who we share your personal data with
+
+We will share your personal data with appropriate members of staff within our organisation.
+
+We also share your personal data with:
+
+  * where you are an agent or work for one of our customers or suppliers, other businesses within the SWNS Media Group, including 72 Point and OnePoll  
+
+  * service providers including our hosting provider and email marketing platform   
+
+  * HM Revenue & Customs, the tax authority in the UK who require reporting of our processing activities in certain circumstances  
+
+  * any third parties to whom we may choose to sell, transfer or merge parts of our business or assets or third parties we may seek to acquire or merge with (if any change happens to our business, the new owners may use your personal data in the same way as set out in this policy)
+
+
+
+## 7\. Where your personal data are stored
+
+We do not transfer your personal data outside of the European Economic Area.
+
+## 8\. How we keep your personal data secure
+
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. We also limit access to your personal data to those within our organisation that have a need to access it. They will only process your personal data on our instructions and they are required to keep your personal data confidential. 
+
+Please note that any correspondence with us by email or telephone is not encrypted. If you have any particular concerns regarding the security of your correspondence with us, please let us know.
+
+## 9\. How long we keep your personal data for
+
+We will only keep your personal data for as long as necessary in connection with the purposes we collected it for and to comply with any legal, accounting or reporting requirements. To determine how long we keep your personal data for, we consider the amount, nature and sensitivity of the personal data, the purposes for which it was collected and the potential risk of harm from us continuing to keep it.  
+
+Any email correspondence that we have had with you will be stored on our email servers, archived and then deleted in accordance with our back-up and retention policies. 
+
+If we have paid you anything, we will retain details of the transaction for a period of six years from the date of the transaction order for tax purposes. 
+
+We will retain personal data relating to email marketing data until you unsubscribe or your email address has become permanently unavailable. Once you have unsubscribed, we will keep a record of your choice indefinitely to ensure that you do not receive any further emails from us. 
+
+We may retain any data that does not identify you indefinitely.
+
+## 10\. Cookies
+
+We use various cookies across the suite of SWNS websites.
+
+Cookies are small pieces of data that are logged on your computer or other device, when websites are loaded in a browser. Almost all websites use cookies, which are widely used to remember you and your preferences.
+
+Cookies help our websites serve you a consistent and efficient experience, as well as perform essential functions such as allowing users to register and remain logged in. Cookies may be set by the site that you are visiting (known as “first party cookies”), or by third parties, such as social media sharing buttons (“third party cookies”).
+
+Visitors may wish to restrict the use of cookies or completely prevent them from being set. You can sometimes disable cookies on our sites (using our EU Cookie Law banner), browse in ‘incognito mode’ to prevent them being stored, or you delete them from your browser history. Most browsers provide settings to control cookie behaviour, such as the length of time they are stored – either through built-in functionality or by utilizing third party plugins.
+
+If you disable cookies, please be aware that some of the features of our service may not function correctly.
+
+ **How we use cookies**
+
+We use cookies for a number of different purposes. Some cookies are necessary for technical reasons; some enable a personalised experience for both visitors and registered users; and some allow us to serve third party content from sites like Youtube and Vimeo.
+
+Some of these cookies may be set when a page is loaded, or when a visitor takes a particular action (clicking the “like” or “follow” button on a post, for example).
+
+ **Types of cookie we use**
+
+The table below explains the types of cookies we use on our websites and why we use them. These vary across our suite of websites. For more information on specific site cookies, please contact us.
+
+ **Description of the cookies on SWNS websites  
+**
+
+Essential - Essential for website to perform its basic functions. These include those required to allow registered users to authenticate and perform account related functions.
+
+Functionality - Used to store preferences set by users such as account name, language, and location.
+
+Security - Used to help identify and prevent potential security risks (i.e. security and anti-spam software or plugins).
+
+Analytics - Tools such as Google Analytics collect information on how users interact with our websites, including what pages are visited most, as well as other analytical data. We use this detail to understand how users interact with our sites.
+
+Third Party / Embedded Content - We use a number of third party applications and services to enhance the experience of website visitors. These include social media platforms such as Facebook and Twitter (through the use of sharing buttons), or embedded content from Youtube and Vimeo. As a result, cookies may be set by these third parties, and used by them to track your online activity. We have no direct control over the information that is collected by these cookies.
+
+## 11\. Your rights
+
+Subject to the exemptions noted above, you have a number of rights in relation to the personal data we hold about you:
+
+Access: You have the right to request access to and be provided with a copy of the personal data held about you together with certain information about the processing of such personal data to check that are holding it lawfully
+
+  *  **Correction** : You have the right to ask us to correct any inaccurate or incomplete personal data held about you  
+
+  *  **Deletion** : You have the right to ask us to delete or remove any personal data held about you where there is no good reason for us to continue holding it or where you have exercised your right to object  
+
+  *  **Restriction** : You have the right to ask us to restrict how we hold your personal data, for example, to confirm its accuracy or our reasons for holding it  
+
+  *  **Objection** : You have the right to object to our holding of any personal data about you which is based on our legitimate interests or those of a third party based on your particular circumstances. You also have the right to object to our holding your personal data for direct marketing purposes  
+
+  *  **Portability** : You have the right to receive or request that we transfer a copy of the personal data we hold about you in an electronic format where the basis of our holding such information is your consent or the performance of a contract and the information is processed by automated means  
+
+  *  **Complaints** : You have the right to complain to the Information Commissioner’s Office (ICO) or any other EU supervisory authority in relation to how we collect and use your personal data  
+
+
+
+
+You will not have to pay any fee to exercise any of the above rights though we may charge a reasonable fee or refuse to comply with your request if any request is clearly unfounded or excessive. Where this is the case, we will let you know.
+
+To protect the confidentiality of your personal data we will ask you to verify your identity before fulfilling any request in relation to your personal data.
