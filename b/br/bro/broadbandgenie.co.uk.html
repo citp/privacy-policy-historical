@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the broadbandgenie.co.uk privacy policy that was archived on 2018-04-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180408094222id_/https%3A//www.broadbandgenie.co.uk/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the broadbandgenie.co.uk privacy policy that was archived on 2018-09-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180925061217id_/https%3A//www.broadbandgenie.co.uk/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="js" lang="en"><!--<![endif]--><head>
 <meta charset="utf-8">
@@ -11,18 +11,18 @@
 <link rel="canonical" href="/about/privacy">
 
 <!--[if lte IE 8]>
-          <link rel="stylesheet" href="/new-css/ie.css?v29">
+          <link rel="stylesheet" href="/new-css/ie.css?v29.1">
         <![endif]-->
 <!--[if gt IE 8]><!-->
-<link rel="stylesheet" href="/new-css/main-live.css?v44">
-<!--<![endif]-->
+<link rel="stylesheet" href="/new-css/main-live.css?v2.1">
+<link rel="stylesheet" type="text/css" href="/new-css/main-live-medium.css?v2.1" media="all and (min-width: 450px)">
 <!--[if lt IE 9]>
    <script src="/js/html5shiv.js"></script>
 <![endif]-->
 <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KH7CC4"></script><script>
     (function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)
     dataLayer = [{
-      'splittest': '1'    }];
+      'splittest': '0'    }];
   </script>
 
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -85,30 +85,62 @@ function addFunctionToOnload(func,dependentFunction) {
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KH7CC4"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-<div id="cookie-notice" class="display"><p>Cookies help us deliver our services. By using our services you agree to our use of cookies. <a href="/about/privacy" rel="nofollow">Learn more</a> <a id="close-cookie">Okay</a></p></div>
+<div id="cookie-notice" class="display">
+<a class="close-cookie close-x">x</a>
+<p>Broadband Genie, and some associated third party tools, use cookies. These are often necessary for the site to function properly and required to achieve the purposes illustrated in our <a href="/about/cookies" target="_blank">cookie policy</a>, where you can manage your consent options.</p>
+<p>By clicking ‘OK’, closing this banner, clicking a link or continuing to browse otherwise, you agree to the use of cookies.</p>
+<a href="/about/privacy" rel="nofollow" target="_blank" class="read-privacy">Read our privacy policy</a><a class="close-cookie close-ok">OK</a>
+</div>
 <script>
-  var acceptCookies = document.cookie.replace(/(?:(?:^|.*;\s*)ACCEPTCOOKIES\s*\=\s*([^;]*).*$)|^.*$/, "$1");
-  var box = document.getElementById('cookie-notice');
-  var close = document.getElementById('close-cookie');
-  if (acceptCookies !== 'y') { box.className = 'display'; }
-  close.onclick = function(){ document.cookie = 'ACCEPTCOOKIES=y;expires=Fri, 31 Dec 9999 23:59:59 GMT;path=/;'; $('#cookie-notice').slideUp('fast'); };
+    var acceptCookies = document.cookie.replace(/(?:(?:^|.*;\s*)COOKIESCONSENT\s*\=\s*([^;]*).*$)|^.*$/, "$1");
+    var box = document.getElementById('cookie-notice');
+    if (acceptCookies !== 'y') { box.className = 'display'; }
+
+    var closes = document.getElementsByClassName('close-cookie');
+    for(var i = 0; i < closes.length; i++) {
+        var close = closes[i];
+        close.onclick = function() {
+            var cookieDate = 'Wed, 25 Sep 2019 06:12:17 UTC';
+            document.cookie = 'COOKIESCONSENT=y;expires='+cookieDate+';path=/;';
+            $('#cookie-notice').fadeOut('fast');
+        };
+    }
 </script>
 <div id="full-container" class="container">
 <header class="row main-header">
 <div class="atf-inner">
-<div class="column col-3 genie-logo">
-<div class="inner"><a href="/"><img src="https://img.broadbandgenie.co.uk/genie-logo.png" alt="Broadband Genie Logo" class="logo"></a></div>
+<div class="column genie-logo">
+<a href="/"><img src="https://img.broadbandgenie.co.uk/genie-logo.png" alt="Broadband Genie Logo" class="logo"></a>
 </div>
-<div class="column col-9 header-content">
+<div class="column header-content">
 <div class="advert">
 <div class="hotline">
 <div>
-<span>Order by phone</span>
+<strong>Order by phone:</strong>
 <em class="atf-sprite"><a>0800 4661 043</a></em>
 </div>
 <div class="hotline-times">
-Open Mon - Sun
-<a href="/broadband/out/simplify/0?popup=1" rel="nofollow" class="magnific-popup mfp-iframe simplify" onclick="dataLayer.push({'event': 'simplifyForm'});">Opening times</a>
+<span>Open Mon - Sun</span>
+<a href="#simplify-number-0" class="magnific-popup mfp-inline simplify" onclick="_gaq.push(['_trackPageview','/simplifyform']);">What's this number?</a>
+<div id="simplify-number-0" class="mfp-hide simplify-popup">
+<div class="popup-wrapper">
+<div class="numbers">
+<h1>Find the best broadband package for you</h1>
+<h2 class="center">Call us: <span>0800 4661 043 </span></h2>
+<ul>
+<li><b>Monday to Friday:</b> 8am to 9pm</li>
+<li><b>Saturday:</b> 9am to 6:30pm</li>
+<li><b>Sunday:</b> 10am to 6:30pm</li>
+</ul>
+<div class="simplify-footer">
+<img src="https://img.broadbandgenie.co.uk/logos/simplify-ofcom.png" alt="Price comparison calculator approved by Ofcom">
+<p>Broadband Genie's helpline is powered by <br>Simplify Digital, the Ofcom accredited switching service</p>
+<p class="simplify-more-info">For more information please see our <a href="/about/privacy" target="_blank">privacy policy</a>.</p>
+</div>
+</div>
+</div>
+</div>
+
 </div>
 </div>
 <div class="mpu">
@@ -137,7 +169,7 @@ Open Mon - Sun
 <li><a href="/broadband/broadband-phone-deal" title="Broadband and phone deals">Broadband + phone</a></li>
 <li><a href="/broadband/broadband-and-tv-bundles" title="Broadband and TV deals">Broadband + TV</a></li>
 <li><a href="/broadband/fibre-optic" title="Fibre broadband">Fibre broadband</a></li>
-<li><a href="/broadband/business-broadband" title="Business broadband">Business broadband</a></li>
+<li><a href="/broadband/no-contract-broadband" title="No contract broadband">No contract broadband</a></li>
 </ul>
 </div>
 <div class="column col-4">
@@ -153,12 +185,13 @@ Open Mon - Sun
 <div class="column col-4 providers-hide">
 <strong class="subhead">Providers</strong>
 <ul class="providers">
-<li><a href="/providers/bt/broadband"><img src="https://img.broadbandgenie.co.uk/provider-logos/png/60/bt.png"></a></li>
-<li><a href="/providers/sky/broadband"><img src="https://img.broadbandgenie.co.uk/provider-logos/png/60/sky.png"></a></li>
-<li><a href="/providers/virgin-media/broadband"><img src="https://img.broadbandgenie.co.uk/provider-logos/png/60/virgin.png"></a></li>
-<li><a href="/providers/talktalk/broadband"><img src="https://img.broadbandgenie.co.uk/provider-logos/png/60/talktalk.png"></a></li>
-<li><a href="/providers/plusnet/broadband"><img src="https://img.broadbandgenie.co.uk/provider-logos/png/60/plusnet.png"></a></li>
-<li><a href="/providers/ee/broadband"><img src="https://img.broadbandgenie.co.uk/provider-logos/png/60/ee.png"></a></li>
+<li><a href="/providers/bt/broadband"><img src="https://images.broadbandgenie.co.uk/logos/networks/7.png"></a></li>
+<li><a href="/providers/sky/broadband"><img src="https://images.broadbandgenie.co.uk/logos/networks/32.png"></a></li>
+<li><a href="/providers/virgin-media/broadband"><img src="https://images.broadbandgenie.co.uk/logos/networks/43.png"></a></li>
+<li><a href="/providers/talktalk/broadband"><img src="https://images.broadbandgenie.co.uk/logos/networks/28.png"></a></li>
+<li><a href="/providers/plusnet/broadband"><img src="https://images.broadbandgenie.co.uk/logos/networks/33.png"></a></li>
+<li><a href="/providers/ee/broadband"><img src="https://images.broadbandgenie.co.uk/logos/networks/91.png"></a></li>
+<li><a href="/providers/sse/broadband"><img src="https://images.broadbandgenie.co.uk/logos/networks/101.png"></a></li>
 <li class="plain"><a href="/broadband/providers">All broadband providers</a></li>
 </ul>
 </div>
@@ -181,8 +214,6 @@ Open Mon - Sun
 <div class="column col-4">
 <strong class="subhead">Other deals</strong>
 <ul>
-<li><a href="/providers/sky/tv/sky-original">Sky Original bundles</a></li>
-<li><a href="/providers/sky/tv/sky-variety">Sky Variety deals</a></li>
 <li><a href="/providers/sky/tv/sky-q">Sky Q deals</a></li>
 <li><a href="/tv/sky-cinema">Sky Cinema deals</a></li>
 </ul>
@@ -190,11 +221,11 @@ Open Mon - Sun
 <div class="column col-4 providers-hide">
 <strong class="subhead">Providers</strong>
 <ul class="providers">
-<li><a href="/providers/sky/tv"><img src="https://img.broadbandgenie.co.uk/provider-logos/png/60/sky.png"></a></li>
-<li><a href="/providers/bt/tv"><img src="https://img.broadbandgenie.co.uk/provider-logos/png/60/bt.png"></a></li>
-<li><a href="/providers/virgin-media/tv"><img src="https://img.broadbandgenie.co.uk/provider-logos/png/60/virgin.png"></a></li>
-<li><a href="/providers/talktalk/tv"><img src="https://img.broadbandgenie.co.uk/provider-logos/png/60/talktalk.png"></a></li>
-<li><a href="/tv?network%5B%5D=90"><img src="https://img.broadbandgenie.co.uk/provider-logos/png/60/ee.png"></a></li>
+<li><a href="/providers/sky/tv"><img src="https://images.broadbandgenie.co.uk/logos/networks/32.png"></a></li>
+ <li><a href="/providers/bt/tv"><img src="https://images.broadbandgenie.co.uk/logos/networks/7.png"></a></li>
+<li><a href="/providers/virgin-media/tv"><img src="https://images.broadbandgenie.co.uk/logos/networks/43.png"></a></li>
+<li><a href="/providers/talktalk/tv"><img src="https://images.broadbandgenie.co.uk/logos/networks/28.png"></a></li>
+<li><a href="/tv?network%5B%5D=90"><img src="https://images.broadbandgenie.co.uk/logos/networks/91.png"></a></li>
 <li><a href="/tv?network%5B%5D=104"><img src="https://img.broadbandgenie.co.uk/provider-logos/png/60/nowtv.png"></a></li>
 </ul>
 </div>
@@ -218,7 +249,7 @@ Open Mon - Sun
 <strong class="subhead">Other deals</strong>
 <ul>
 <li><a href="/mobilebroadband/dongle">Dongle deals</a></li>
- <li><a href="/mobilebroadband/mobile-wifi">Mobile WiFi</a></li>
+<li><a href="/mobilebroadband/mobile-wifi">Mobile WiFi</a></li>
 <li><a href="/mobilebroadband/mifi">MiFi</a></li>
 <li><a href="/mobilebroadband/pay-as-you-go">Pay as you go</a></li>
 </ul>
@@ -226,9 +257,9 @@ Open Mon - Sun
 <div class="column col-4 providers-hide">
 <strong class="subhead">Providers</strong>
 <ul class="providers">
-<li><a href="/mobilebroadband/review/3"><img src="https://img.broadbandgenie.co.uk/provider-logos/png/60/three.png"></a></li>
-<li><a href="/mobilebroadband/review/vodafone"><img src="https://img.broadbandgenie.co.uk/provider-logos/png/60/vodafone.png"></a></li>
-<li><a href="/mobilebroadband/review/o2"><img src="https://img.broadbandgenie.co.uk/provider-logos/png/60/o2.png"></a></li>
+<li><a href="/mobilebroadband/review/3"><img src="https://images.broadbandgenie.co.uk/logos/networks/79.png"></a></li>
+<li><a href="/mobilebroadband/review/vodafone"><img src="https://images.broadbandgenie.co.uk/logos/networks/36.png"></a></li>
+<li><a href="/mobilebroadband/review/o2"><img src="https://images.broadbandgenie.co.uk/logos/networks/37.png"></a></li>
 <li><a href="/mobilebroadband/review/ee"><img src="https://img.broadbandgenie.co.uk/provider-logos/png/60/ee.png"></a></li>
 <li class="plain"><a href="/mobilebroadband/review">All mobile broadband providers</a></li>
 </ul>
@@ -276,8 +307,7 @@ Open Mon - Sun
 </form>
 </div>
 </li>
-</ul>
-</nav>
+</ul> </nav>
 </div>
 </div>
 </header>
@@ -287,23 +317,146 @@ Open Mon - Sun
 <section class="col-8 column overflow-vis">
 <h1>Privacy policy</h1>
 <div class="strapline" id="home-banner"></div>
-<div id="news-story"><h3>Personal data, email policy and cookies</h3>
-<h5><em>Updated November 28th&nbsp;2017</em></h5>
-<p>Broadband Genie is committed to respecting the privacy of its visitors. We do not collect any personal data when you visit the site and you can access and browse our website without disclosing any personal data. We use cookies which collect anonymous information about the pages visited to allow us to monitor the performance of the website.</p>
-<p>If you use our availability checker, Broadband Genie will use your postcode and telephone number to perform a broadband availability check on your line. We do not store your telephone number. We may store your postcode and availability or speed results and other non-personal data for the purpose of building up a national picture of broadband speeds and availability. We may disclose this data to other organisations for similar research purposes; never for sales purposes.</p>
-<p>This website does make use of cookies so that your availability information is used throughout your visit. You can read more about cookies, and how to control cookies using your browser settings, at <a href="http://www.aboutcookies.org/" target="_blank">www.aboutcookies.org</a>.</p>
-<p>We use third-party advertising companies to serve ads when you visit our website. These companies may use non-personally identifying information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide interest-based advertisements about goods and services of interest to you.</p>
+<div id="news-story"><h3><em>Updated May 2018</em></h3>
+<h2>Overview&nbsp;</h2>
 <ul>
-<li>Google, as a third-party vendor, uses cookies to serve ads on our site.</li>
-<li>Google's use of the DART (Dynamic Advertising Reporting and Targeting) cookie enables it to serve ads to users based on their visit to our site and other sites on the Internet.</li>
-<li>Users may opt out of the use of the DART cookie by visiting the <a href="http://www.google.co.uk/privacy_ads.html" target="_blank">Google ad and content network privacy policy</a>.</li>
+<li>The use of Broadband Genie is strictly subject to this privacy policy.</li>
 </ul>
-<p>We use Hotjar in order to better understand our users’ needs and to optimize this service and experience. Hotjar is a technology service that helps us better understand our users experience (e.g. how much time they spend on which pages, which links they choose to click, what users do and don’t like, etc.) and this enables us to build and maintain our service with user feedback. Hotjar uses cookies and other technologies to collect data on our users’ behavior and their devices (in particular device's IP address (captured and stored only in anonymized form), device screen size, device type (unique device identifiers), browser information, geographic location (country only), preferred language used to display our website). Hotjar stores this information in a pseudonymized user profile. Neither Hotjar nor we will ever use this information to identify individual users or to match it with further data on an individual user. For further details, please see Hotjar’s privacy policy by clicking on <a href="https://www.hotjar.com/privacy">this link</a>.<br>
-&nbsp;<br>
-You can opt-out to the creation of a user profile, Hotjar’s storing of data about your usage of our site and Hotjar’s use of tracking cookies on other websites by following this <a href="https://www.hotjar.com/opt-out">opt-out link.</a> ​</p>
-<p>By entering your email address on the Broadband Genie site, including submitting a form or entering a competition, you will be subscribed to our email mailing list about our products, news and promotions.&nbsp;</p>
-<p>We are committed to maintaining your privacy and we will not pass your information to any third party providers. However, we reserve the right to pass your details to law enforcement agencies if required to do so by applicable law, or in cases of possible criminal prosecution.</p>
-<p>You can unsubscribe from these emails at any time by following the unsubscribe link in each email that we send out or you can update your preferences about which emails you would like to receive <a class="fancybox fancybox.iframe" href="/preferences">here</a>.</p>
+<ul>
+<li>We may collect some personal information from you when you use the Broadband Genie website. The section entitled ‘The information we collect and how we collect it’ contains full details.&nbsp;</li>
+</ul>
+<ul>
+<li>The section entitled ‘How we use your information’ details the manner in which we use this information.</li>
+</ul>
+<ul>
+<li>We will share your information with other companies when required to by law.&nbsp;</li>
+</ul>
+<ul>
+<li>You can ask us any questions about your personal information at any time by emailing <a href="mailto:privacy@broadbandgenie.co.uk">privacy@broadbandgenie.co.uk</a></li>
+</ul>
+<h2>About us</h2>
+<p>Broadband Genie is owned and operated by Genie Ventures Ltd.</p>
+<p>Our company registration number: 05085554</p>
+<p>Our registered address is:</p>
+<p>Carlyle House&nbsp;<br>
+Carlyle Road&nbsp;<br>
+Cambridge&nbsp;<br>
+CB4 3DN</p>
+<h2>The information we collect and how we collect it</h2>
+<p>When you use the Broadband Genie website we may collect personal information about you. This information is as follows:</p>
+<ul>
+<li>Your postcode: If you perform a check for available broadband services in your area, or if you use our speed test</li>
+</ul>
+<ul>
+<li>Your email address: If you choose to have a copy of your comparison results sent to your inbox, or if you apply for a reward or a special offer</li>
+</ul>
+<ul>
+<li>Your email address or Twitter handle: If you are entering an on-site competition or survey. We may also collect your age, gender, postcode and location if relevant to a particular survey&nbsp;</li>
+</ul>
+<ul>
+<li>The details of your visit are tracked through the use of cookies. Please see our <a href="/about/cookies">cookie policy</a> for more information</li>
+</ul>
+<p>The following sections explain why we collect this information, how we use it and who we share it with.&nbsp;</p>
+<h2>Why do we collect this information?</h2>
+<p>All companies are required to have a valid lawful basis in order to use (or process) personal data.&nbsp;</p>
+<p>The lawful basis under which we collect and use your personal information is as follows: it is necessary for the performance of a contract, or pre-contractual steps, if this information is collected in either of the following ways:</p>
+<ul>
+<li>You apply for a reward or a special offer that Broadband Genie is providing as part of your broadband order with your chosen supplier</li>
+</ul>
+<ul>
+<li>&nbsp;You are entering an on-site competition or survey&nbsp;</li>
+</ul>
+<p>In any other circumstance, the legal basis under which we collect and use your personal information is that it is necessary for our legitimate business interests. "Legitimate interests" refers to the interests of our company in conducting and managing our business, in order to supply the best service and the most relevant user experience.</p>
+<p>With any personal information that is collected for our legitimate interests, we have to consider and balance any potential impact on you (both positive and negative), and your rights under data protection laws. Our legitimate business interests cannot override your interests - we will not use your personal information for activities where our interests are overridden by any potential impact to you.</p>
+<p>You have a right to object to the reasons we collect any of the information detailed within this privacy document. The section ‘Contact us or make a complaint’ at the end of this document explains how you can do this.&nbsp;</p>
+<h2>How we use your information</h2>
+<p>When you click through a product link on Broadband Genie to a third party website we will use <a href="/about/cookies">cookies</a> to track the progress of your visit through to your chosen broadband supplier’s site. This is to ensure we receive a commission once the supplier completes your order on its website. For more information on how Broadband Genie is funded, please follow <a href="/about/funding">this link</a>. &nbsp;</p>
+<p>Other ways we may use your personal information:&nbsp;</p>
+<h3>To provide accurate postcode and speed test results</h3>
+<p>When you perform an availability or speed check on our website we will use your postcode to complete this check. This is essential to display the most accurate picture of which suppliers are available where you live, or your current broadband speed.&nbsp;</p>
+<p>Broadband Genie partners with SamKnows to perform this postcode check and broadbandspeedchecker.co.uk to provide speed test results. For more information on how we work with these companies, please refer to the ‘Who we share your information with’ section below.&nbsp;</p>
+<h3>To fulfil a competition prize, reward or special offer&nbsp;</h3>
+<p>We will collect your email address if you apply for a reward or a special offer that Broadband Genie is providing as part of your broadband order with your chosen supplier.&nbsp;</p>
+<p>We need this information in order to send you your reward or special offer once your transaction has been completed through your chosen broadband supplier and your broadband has been installed.&nbsp;</p>
+<p>We keep this information for a maximum of 12 months; unless you explicitly opt in to receiving marketing emails from Broadband Genie, in which case your information will be kept until you <a href="/preferences">unsubscribe</a> from receiving further emails from us.&nbsp;</p>
+<p>We may also collect your email address or Twitter username if you enter a competition on Broadband Genie. We need this information in order to send you your prize once the competition has closed. We keep this information for a maximum of 12 months.</p>
+<h3>To email you your comparison results&nbsp;</h3>
+<p>If you ask us to email you your broadband comparison results, we will use your email address to send these to you.&nbsp;</p>
+<p>We will not keep your email address unless you explicitly opt in to receiving marketing emails from Broadband Genie, in which case your information will be kept until you unsubscribe from receiving further emails from us.&nbsp;</p>
+<h3>To provide a broadband comparison service over the phone&nbsp;</h3>
+<p>We provide customer support telephone numbers across the Broadband Genie website in order to provide an additional method for users to complete their broadband purchase.&nbsp;</p>
+<p>We partner with Simplify Digital to provide this service. Broadband Genie does not collect any personal information via these phone numbers, but our partners may do.&nbsp;</p>
+<p>For more information on how we work with Simplify Digital, please refer to the ‘Who we share your information with’ section below.&nbsp;</p>
+<h3>To improve our user experience&nbsp;</h3>
+<p>We use information about your visits to Broadband Genie in order to develop and improve our website experience for users.&nbsp;</p>
+<p>For further details on the information we collect for the purpose of improving user experience and how to opt out, please see our <a href="/about/cookies">cookie policy</a>.</p>
+<h2>Who we share your information with&nbsp;</h2>
+<h3>Simplify Digital</h3>
+<p>We partner with Simplify Digital provide an additional method for users to complete their broadband purchase by ordering over the phone. Broadband Genie does not collect any personal information via these phone numbers.</p>
+<p>Simplify Digital may collect personal information including but not limited to name, email address, phone number, broadband supplier and product purchased. This information is used for internal sales reporting only and is kept for a maximum of three years. For more information, please see Simplify Digital’s <a href="https://www.simplifydigital.co.uk/corporate/privacy-policy/">privacy policy</a>.&nbsp;</p>
+<h3>Hotjar</h3>
+<p>We use a company called Hotjar in order to better understand our users’ needs and to optimise our service by studying and improving user experience (how much time they spend on which pages, which links they choose to click, what users do and don’t like, etc)&nbsp;</p>
+<p>Hotjar uses cookies and other technologies to collect data on our users’ behaviour and their devices - in particular a device's IP address (captured and stored only in anonymised form), device screen size, device type (unique device identifiers), browser information, geographic location (country only) and preferred language.</p>
+<p>Hotjar stores this information in a pseudonymised user profile. Neither Hotjar nor Broadband Genie will ever use this information to identify individual users, or to match it with further data on an individual user.&nbsp;</p>
+<p>For further details, please see Hotjar’s privacy policy by clicking on <a href="https://www.hotjar.com/privacy">this link</a>.&nbsp;</p>
+<p>You can opt out of the creation of a user profile, Hotjar’s storing of data about your usage of our site and Hotjar’s use of tracking cookies on other websites by following this <a href="https://www.hotjar.com/legal/compliance/opt-out">opt-out link</a>.</p>
+<h3>SurveyGizmo</h3>
+<p>SurveyGizmo is a data collection platform. We use SurveyGizmo to host surveys for the purposes of gathering research for editorial content and visitor feedback to improve our site.</p>
+<p>The data collected is encrypted and stored in SurveyGizmo's EU data centre. SurveyGizmo does not sell or share data collected by surveys, and does not have access to survey data except when specifically requested by us for the purposes of providing technical or customer support.&nbsp;</p>
+<p>This data is kept for a maximum of 12 months.&nbsp;</p>
+<p>For further information see SurveyGizmo’s <a href="https://www.surveygizmo.eu/privacy/">privacy policy</a>.</p>
+<h3>Giftcloud</h3>
+<p>Giftcloud is our chosen voucher supplier for all incentive offers provided by Broadband Genie. We use Giftcloud because it allow us to offer a wide variety of rewards to our customers.&nbsp;</p>
+<p>We send Giftcloud the email addresses for all approved sales when running rewards or special offers. Giftcloud then send the reward to the customer. It does not use this data for anything else, or share it with any third party.&nbsp;</p>
+<p>Giftcloud holds your email address for a 12-month period to ensure we are able to answer any queries from our customers.&nbsp;</p>
+<p>For further information see Giftcloud’s <a href="https://www.giftcloud.com/uk/privacy">privacy policy</a>.</p>
+<h3>Feefo&nbsp;</h3>
+<p>Feefo is a review platform. We use Feefo to gather customer feedback in order to maintain and improve our current service.&nbsp;</p>
+<p>When a user consents to supplying us with their email address whilst using the website and subsequently purchases, Feefo may send an email to that user on behalf of Broadband Genie in order to obtain a review.&nbsp;</p>
+<p>Feefo receive a name, email address and information about the product the user purchases. This data is stored by Feefo in order to provide us with statistics for that user’s experience.&nbsp;</p>
+<p>Feefo does not use this information for any other purposes. Please refer to Feefo’s <a href="https://www.feefo.com/business/gb_en/privacy-policy">privacy policy</a> for further information.&nbsp;</p>
+<h3>Broadbandspeedchecker.co.uk&nbsp;</h3>
+<p>Our broadband speed test is powered by broadbandspeedchecker.co.uk. When you check your speed on Broadband Genie we will share your computer’s IP address with broadbandspeedchecker.co.uk in order to show you your current broadband speed.&nbsp;</p>
+<p>This IP address is anonymised and does not personally identify a user. Broadbandspeedchecker.co.uk may share IP data, along with speed tests and network measurements, with third parties to compile aggregate information about network statistics and usage in particular areas. Broadband Genie does not store this information anywhere.&nbsp;</p>
+<p>For more information, please see Broadbandspeedchecker.co.uk’s <a href="https://www.broadbandspeedchecker.co.uk/privacy_policy.aspx">privacy policy</a>.&nbsp;</p>
+<h3>SamKnows</h3>
+<p>Broadband Genie partners with SamKnows to perform postcode checks on our website in order to show users accurate available supplier and deal information at that exact location.&nbsp;</p>
+<p>In order to display these results Broadband Genie sends a user’s postcode to SamKnows, which then passes back its data to populate our comparison tables accurately.&nbsp;</p>
+<p>SamKnows keeps this information for seven days before deleting. Broadband Genie does not store this information anywhere.&nbsp;</p>
+<p>Please refer to SamKnows’ <a href="https://samknows.com/legal/privacy-policy">privacy policy</a>&nbsp;for further information.&nbsp;</p>
+<h2>How we keep your information safe&nbsp;</h2>
+<p>The security of our users’ data is of primary importance at Broadband Genie. We have in place several procedures to keep your information safe, which include but are not limited to:</p>
+<ul>
+<li>Https protocols: We use https on Broadband Genie to encrypt user data between the device and our website.</li>
+</ul>
+<ul>
+<li>Password protection: Our content-management systems are secured via passwords. We use LastPass to further secure our passwords within the company.</li>
+</ul>
+<ul>
+<li>Google authentication: Our reporting, email, Google Drive, content-management systems, Analytics and AdWords are all secured via Google Authentication, which is backed up by two-step verification logins.</li>
+</ul>
+<ul>
+<li>User passwords: Where users have access to Broadband Genie, we would implore them to consider choosing a secure password and to protect it.</li>
+</ul>
+<ul>
+<li>Data deletion: We delete all non-essential data after a short, relevant period (outlined above). This includes an overwhelming majority of the personal data.</li>
+</ul>
+<ul>
+<li>Access: Within our own company, access to personal data is limited to a small number of relevant individuals.</li>
+</ul>
+<ul>
+<li>Firewalls and antivirus: We ensure staff are using devices with up-to-date firewalls and antivirus software.</li>
+</ul>
+<h2>Changes to our privacy policy</h2>
+<p>Broadband Genie’s privacy policy may be subject to occasional change. Any changes to our privacy policy in the future will be posted to the website and, where appropriate, through email notification.</p>
+<h2>Contact us or make a complaint</h2>
+<p>If you would like to find out what information we hold on you, change, correct, remove or request we stop using this information, or make a complaint, please email <a href="mailto:privacy@broadbandgenie.co.uk">privacy@broadbandgenie.co.uk</a> or send a letter to:</p>
+<p>Broadband Genie&nbsp;<br>
+Carlyle House<br>
+Carlyle Road&nbsp;<br>
+Cambridge&nbsp;<br>
+CB4 3DN</p>
+<p>If you do wish to make a complaint, or are concerned about the way in which we are handling your data, you can raise this concern with a relevant regulatory authority within your country of residence. In the UK this is the <a href="https://ico.org.uk/for-the-public/raising-concerns/">Information Commissioner’s Office</a>.</p>
 </div>
 <img src="/tracking/about/privacy" width="1" height="1">
 </section>
@@ -316,6 +469,7 @@ You can opt-out to the creation of a user profile, Hotjar’s storing of data ab
 <li><a href="/media">Media Information</a></li>
 <li><a href="/about/user-agreement" rel="nofollow">Terms &amp; Conditions</a></li>
 <li><a href="/about/privacy" rel="nofollow">Privacy Policy</a></li>
+<li><a href="/about/cookies" rel="nofollow">Cookie Policy</a></li>
 </ul>
 </div>
 <div class="sidebar-item">
@@ -328,67 +482,45 @@ You can opt-out to the creation of a user profile, Hotjar’s storing of data ab
 <div id="mostviewed">
 <ol>
 <li>
-<a href="/blog/20180405-tesco-which-announce-closure-free-email-services"><span class="news-article-title">Tesco and Which? announce closure of free email services</span><span class="news-date">Thu 05 Apr 2018</span></a>
+<a href="/blog/20180425-free-mobile-roaming-brexit-survey"><span class="news-article-title">Competition: win a Motorola Moto G6 smartphone!</span><span class="news-date">Wed 25 Apr 2018</span></a>
 </li>
 <li>
-<a href="/blog/20180222-competition-win-panasonic-hd-tv-snes-classic-mini"><span class="news-article-title">Competition: win a Panasonic HD TV and Super Nintendo Classic Mini</span><span class="news-date">Thu 22 Feb 2018</span></a>
+<a href="/blog/20180409-wifi-router-security-survey"><span class="news-article-title">Wi-Fi router security knowledge gap putting devices and private data at risk in UK homes</span><span class="news-date">Thu 12 Apr 2018</span></a>
 </li>
 <li>
-<a href="/blog/20180328-10mb-broadband-all-government-confirms-plans-uso"><span class="news-article-title">10Mb broadband for all as Government confirms plans for USO</span><span class="news-date">Wed 28 Mar 2018</span></a>
+<a href="/blog/20180719-bt-launches-new-superfast-student-broadband-deals"><span class="news-article-title">BT launches new superfast student broadband deals</span><span class="news-date">Thu 19 Jul 2018</span></a>
+</li>
+<li>
+<a href="/blog/20180820-wycombe-wanderers-top-league-broadband-speeds"><span class="news-article-title">Wycombe Wanderers top of the league (for broadband speeds)</span><span class="news-date">Wed 22 Aug 2018</span></a>
 </li>
 <li>
 <a href="/blog/20180129-adult-age-verification-personal-data-porn"><span class="news-article-title">Adult age verification law coming this April: no porn without your personal data</span><span class="news-date">Mon 29 Jan 2018</span></a>
-</li>
-<li>
-<a href="/blog/20180309-sign-up-bt-broadband-now-claim-rewards-worth-up-250"><span class="news-article-title">Sign up for BT broadband now and claim rewards worth up to £250!</span><span class="news-date">Fri 09 Mar 2018</span></a>
 </li>
 </ol>
 </div>
 <div id="latest">
 <ol>
 <li>
-<a href="/blog/20180406-ee-rated-fastest-mobile-broadband-provider-q1-opensignal-report"><span class="news-article-title">EE rated fastest mobile broadband provider in Q1 OpenSignal report</span><span class="news-date">Fri 06 Apr 2018</span></a>
+<a href="/blog/20180820-wycombe-wanderers-top-league-broadband-speeds"><span class="news-article-title">Wycombe Wanderers top of the league (for broadband speeds)</span><span class="news-date">Wed 22 Aug 2018</span></a>
 </li>
 <li>
-<a href="/blog/20180405-tesco-which-announce-closure-free-email-services"><span class="news-article-title">Tesco and Which? announce closure of free email services</span><span class="news-date">Thu 05 Apr 2018</span></a>
+<a href="/blog/20180719-bt-launches-new-superfast-student-broadband-deals"><span class="news-article-title">BT launches new superfast student broadband deals</span><span class="news-date">Thu 19 Jul 2018</span></a>
 </li>
 <li>
-<a href="/blog/20180328-10mb-broadband-all-government-confirms-plans-uso"><span class="news-article-title">10Mb broadband for all as Government confirms plans for USO</span><span class="news-date">Wed 28 Mar 2018</span></a>
+<a href="/blog/20180625-majority-want-free-mobile-roaming-continue-after-brexit"><span class="news-article-title">Majority want free mobile roaming to continue after Brexit</span><span class="news-date">Fri 29 Jun 2018</span></a>
 </li>
 <li>
-<a href="/blog/20180322-virgin-media-launches-350mbps-broadband-existing-customers-get-free-upgrade"><span class="news-article-title">Virgin Media launches 350Mbps broadband, existing customers to get free upgrade</span><span class="news-date">Thu 22 Mar 2018</span></a>
+<a href="/blog/20180626-ee-announces-ultrafast-145mb-300mb-fibre-max-broadband"><span class="news-article-title">EE announces ultrafast 145Mb and 300Mb Fibre Max broadband</span><span class="news-date">Tue 26 Jun 2018</span></a>
 </li>
 </ol>
 </div>
 <a href="/blog" class="view-all">See all &gt;</a>
 </nav>
 </div>
-<div class="sidebar-item"> <h3>Guides &amp; resources</h3>
-<ul class="sidelinks">
-<li><a href="/broadband#article" title="home broadband">home broadband</a></li>
-<li><a href="/mobilebroadband#article" title="mobile broadband">mobile broadband</a></li>
-<li><a href="/broadband/in" title="broadband in your area">broadband in your area</a></li>
-<li><a href="/broadband/tools/speedtest" title="broadband speed test">broadband speed test</a></li>
-<li><a href="/broadband/tools/speedtest" title="mobile broadband speed test">mobile broadband speed test</a></li>
-<li><a href="/mobilebroadband/help/guide-to-national-mobile-broadband-coverage" title="mobile broadband coverage">mobile broadband coverage</a></li>
-<li><a href="/broadband/fibre-optic#article" title="fibre broadband">fibre broadband</a></li>
-<li><a href="/broadband/business-broadband#article" title="business broadband">business broadband</a></li>
-</ul>
-</div>
 </aside>
 </div>
-</div>
-<footer>
+</div> <footer>
 <div class="atf-inner">
-<div class="column col-4">
-<h4>Keep up to date:</h4>
-<p>Latest broadband news, rants and prices</p>
-<form method="post" action="/mailing-list">
-<div class="field">
-<p class="text search footer-email"><input type="search" placeholder="Enter email address" name="email"><span class="btn submit"><input type="submit" name="subscribe" value="Sign up"></span></p>
-</div>
-</form>
-</div>
 <div class="column col-4">
 <h4>Follow us</h4>
 <div class="social-footer">
@@ -399,14 +531,6 @@ You can opt-out to the creation of a user profile, Hotjar’s storing of data ab
 <p class="desktop-copy">© Genie Ventures Ltd 2018</p>
 </div>
 <div class="column col-4">
-<h4>Site information:</h4>
-<ul class="footer-list">
-<li><a href="/about/sitemap" title="Sitemap">Sitemap</a></li>
-<li><a href="/about" title="About Broadband Genie">About</a></li>
-<li><a href="/media" title="Media Centre">Press</a></li>
-<li><a href="/about/privacy" title="Privacy">Privacy</a></li>
-<li><a href="/about/user-agreement" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
-<li><a href="/about/contact" title="Contact">Contact</a></li></ul>
 <h4>Quick links:</h4>
 <ul class="footer-list">
 <li><a href="/broadband" title="compare broadband internet providers">Home broadband</a></li>
@@ -416,21 +540,30 @@ You can opt-out to the creation of a user profile, Hotjar’s storing of data ab
 <li><a href="/mobilebroadband/apple-ipad" title="iPads on contract">iPads on contract</a></li>
 </ul>
 </div>
+<div class="column col-4">
+<h4>Site information:</h4>
+<ul class="footer-list">
+<li><a href="/about/sitemap" title="Sitemap">Sitemap</a></li>
+<li><a href="/about" title="About Broadband Genie">About</a></li>
+<li><a href="/media" title="Media Centre">Press</a></li>
+<li><a href="/about/help" title="Help">Help</a></li>
+<li><a href="/about/privacy" title="Privacy">Privacy</a></li>
+<li><a href="/about/cookies" title="Cookies">Cookies</a></li>
+<li><a href="/about/user-agreement" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
+<li><a href="/about/contact" title="Contact">Contact</a></li></ul> </div>
 <div class="column col-12 footer-row">
 <p class="mobile-copy">© Genie Ventures Ltd 2018</p>
 </div>
 </div>
 </footer>
-</div>
-
+</div> 
 </div> 
 
 
 <!--[if lt IE 7 ]>
-    <script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
-    <script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
-  <![endif]-->
-<a href="/feedback" id="feedback" rel="nofollow" class="magnific-popup mfp-iframe">Feedback</a>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js" defer=""></script>
 <script src="/new-js/jquery-ui-custom.min.js" defer=""></script>
@@ -441,7 +574,7 @@ You can opt-out to the creation of a user profile, Hotjar’s storing of data ab
 
 <script type="text/javascript">
 var ggoals_account = 'broadbandgenie';
-var ggoals_splittest = 1;
+var ggoals_splittest = 0;
 addUrlToOnload('//conversions.genieventures.co.uk/gt.js');
 </script>
 
