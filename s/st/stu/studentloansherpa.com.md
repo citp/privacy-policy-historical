@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the studentloansherpa.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909071633id_/https%3A//studentloansherpa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentloansherpa.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925190826id_/https%3A//studentloansherpa.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Student Loan Sherpa
+# Privacy Policy
 
 At The Student Loan Sherpa, the privacy of our visitors is of extreme importance. This privacy policy document outlines the types of personal information that is received and collected by The Student Loan Sherpa and how it is used.
 
@@ -20,7 +20,7 @@ The Student Loan Sherpa does use cookies to store information about visitors pre
 
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html)
 
-Some of our advertising partners may use cookies and web beacons on our site. The Finest in Fantasy.com advertising partners include, but are not limited to,
+Some of our advertising partners may use cookies and web beacons on our site. The Student Loan Sherpa advertising partners include, but are not limited to,
 
 Google Adsense, [FlexOffers.com](http://flexoffers.com/) and [cj.com](http://cj.com/).
 
@@ -34,4 +34,4 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 **Questions**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact studentloansherpa@gmail.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
