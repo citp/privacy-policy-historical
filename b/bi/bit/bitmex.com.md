@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitmex.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606195101id_/https%3A//www.bitmex.com/app/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitmex.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925141347id_/https%3A//www.bitmex.com/app/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - BitMEX
 
