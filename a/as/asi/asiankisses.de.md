@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiankisses.de privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627224648id_/http%3A//www.asiankisses.de/datasavety.php%3Fl%3Den%26randm%3D4%26randw%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiankisses.de privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925230421id_/https%3A//www.asiankisses.de/datasavety.php%3Fl%3Den%26randm%3D4%26randw%3D7) for the most accurate reproduction.*
 
 # Asian Kisses
 
