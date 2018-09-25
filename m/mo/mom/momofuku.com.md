@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the momofuku.com privacy policy that was archived on 2017-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170131123000id_/https%3A//momofuku.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momofuku.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925201649id_/https%3A//momofuku.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Momofuku
 
-We are pleased that you have elected to visit this Website (referred to herein as the “Website” or the “Site”), operated by, or on behalf of, MomoIP, LLC on its own behalf and on behalf of its [affiliated entities](http://www.momofuku.com/) (collectively, “Momofuku”, “us” and “we”).
+We are pleased that you have elected to visit this Website (referred to herein as the “Website” or the “Site”), operated by, or on behalf of, MomoIP, LLC on its own behalf and on behalf of its [affiliated entities](https://www.momofuku.com/) (collectively, “Momofuku”, “us” and “we”).
 
 Momofuku respects privacy rights, and is committed to safeguarding the Personal Information entrusted to us by our clients and visitors to our Website. Momofuku has implemented this Privacy Policy to govern the use of Personal Information that we collect through this Website, including Personal Information you send to us. This Privacy Policy does not govern Personal Information collected from any other source or in any other manner. This Privacy Policy is intended to provide you with information as to:(i) the type of information that is collected, (ii) how the collected information is used and with whom it is shared; (iii) how we intend to protect the information; and (iv) how you can have such information modified and/or removed.
 
@@ -10,15 +10,15 @@ Momofuku respects privacy rights, and is committed to safeguarding the Personal 
 
 **Overview**
 
-I. [Your California Privacy Rights](http://momofuku.com/privacy-policy/#calfornia)  
-II. [Collection and Use of Information:](http://momofuku.com/privacy-policy/#collection)  
+I. [Your California Privacy Rights](http://momofuku.wpengine.com/privacy-policy/#calfornia)  
+II. [Collection and Use of Information:](http://momofuku.wpengine.com/privacy-policy/#collection)  
 Personal Information | Financial Information | Other Information | Your Consent | Use of Your Personal Information | Opting In and Opting Out of Electronic Communications | Use of Your Personal Information within Momofuku | Our Service Providers | If Momofuku changes Ownership | Lawful Access, Legal Action, and Investigations | Use of Cookies | Google Analytics  
-III. [Disclosure of Information to Non-Affiliated Third Parties](http://momofuku.com/privacy-policy/#disclosure)  
-IV. [Retention of Personal Information](http://momofuku.com/privacy-policy/#retention)  
-V. [Your Privacy Choices: Limiting Information Sharing / Accessing your Information](http://momofuku.com/privacy-policy/#choices)  
-VI. [Protection and Security of Information](http://momofuku.com/privacy-policy/#protection) | [Your Responsibility for your Username and Password](http://momofuku.com/privacy-policy/#responsibility)  
-VII. [Links to Other Websites](http://momofuku.com/privacy-policy/#links)  
-VIII. [Contact us](http://momofuku.com/privacy-policy/#contactus)
+III. [Disclosure of Information to Non-Affiliated Third Parties](http://momofuku.wpengine.com/privacy-policy/#disclosure)  
+IV. [Retention of Personal Information](http://momofuku.wpengine.com/privacy-policy/#retention)  
+V. [Your Privacy Choices: Limiting Information Sharing / Accessing your Information](http://momofuku.wpengine.com/privacy-policy/#choices)  
+VI. [Protection and Security of Information](http://momofuku.wpengine.com/privacy-policy/#protection) | [Your Responsibility for your Username and Password](http://momofuku.wpengine.com/privacy-policy/#responsibility)  
+VII. [Links to Other Websites](http://momofuku.wpengine.com/privacy-policy/#links)  
+VIII. [Contact us](http://momofuku.wpengine.com/privacy-policy/#contactus)
 
 **California Privacy Rights**  
 Under California law, California residents who have provided personally identifiable information to a company may have the right to request a list of all third parties to whom that company had disclosed such information for the third parties’ direct marketing purposes during the preceding calendar year, along with a list of the categories of Personal Information that had been so disclosed. However, Momofuku’s policy, as disclosed on this Website, does not currently permit Momofuku to share the Personal Information collected at this Website about you with non-affiliated third parties for such third parties’ direct marketing purposes. Moreover, even if Momofuku’s policy permitted the disclosure of Personal Information to third parties for such third parties’ direct marketing purposes, because Momofuku provides you with an opportunity to opt out of such disclosure, Momofuku does not have to provide you with such lists. If you are a California resident who would like information on how to exercise your rights concerning third party disclosures, you may send an email to or contact us via postal mail at:
@@ -101,7 +101,7 @@ Information posted on the website may continue to be displayed on this website, 
 **Your Privacy Choices – Limiting Information Sharing/Accessing Your Info**  
 You may have the right to request access to the Personal Information that we hold about you, which includes the right to amend or correct that information, as appropriate, and to receive an account of how it has been used and a list of the organizations to whom it has been disclosed. In some circumstances, you may have the right to object to Momofuku’s use of that Personal Information. If you are unable to access and update your information by logging into our website, you may request access and update your Personal Information.
 
-To protect the confidentiality of your information and respect your wishes for how it is used Momofuku offers “opt out” alternatives. Specifically, you may instruct us not to share Personal Information about you with our affiliates. [As noted above](http://momofuku.com/privacy-policy/#opting), you may also opt-out of receiving electronic communications from us at any time. You may make your privacy choice at any time and it will remain in effect until you change it.
+To protect the confidentiality of your information and respect your wishes for how it is used Momofuku offers “opt out” alternatives. Specifically, you may instruct us not to share Personal Information about you with our affiliates. [As noted above](http://momofuku.wpengine.com/privacy-policy/#opting), you may also opt-out of receiving electronic communications from us at any time. You may make your privacy choice at any time and it will remain in effect until you change it.
 
 If you would like to check, change, or confirm your privacy choices please contact us at:
 
@@ -119,13 +119,13 @@ Momofuku maintains reasonable standards of confidentiality and security for this
 In the event that Momofuku determines that there has been a security breach requiring notification that results in the unauthorized disclosure of Personal Information to a third party, Momofuku will promptly notify consumers whose Personal Information it reasonably believes has been compromised by posting information on the Website and, if email contact is possible, then also by sending an email advisory with respect to situation.
 
 **Your Responsibility for your Username and Password**  
-If you have an account with this Website, you are solely responsible for the security of your username and password, and shall take precautions to keep your password private to prevent any unauthorized use. Neither Momofuku nor any other person or entity will be responsible for any losses, damages or consequences suffered due to careless or unauthorized use of a password. See[Terms of Use](http://www.momofuku.com/terms-of-use) for details.
+If you have an account with this Website, you are solely responsible for the security of your username and password, and shall take precautions to keep your password private to prevent any unauthorized use. Neither Momofuku nor any other person or entity will be responsible for any losses, damages or consequences suffered due to careless or unauthorized use of a password. See[Terms of Use](https://www.momofuku.com/terms-of-use) for details.
 
 **Links to Other Websites**  
 From time to time, the Momofuku Website may contain links to other websites that are not controlled and/or maintained by Momofuku. Please be aware that these other websites may have different privacy policies which may subject you to different privacy practices. Please review the privacy policies of such other websites for information concerning what information is collected on such websites and how it is used.
 
 **Governing Law**  
-This Privacy Policy shall be governed by the laws of the State of New York of the United States of America, without regard to its conflict of law provisions. Please click here to review the terms relating to [Disputes and Governing Law for this Website.](http://www.momofuku.com/terms-of-use/#disputes)
+This Privacy Policy shall be governed by the laws of the State of New York of the United States of America, without regard to its conflict of law provisions. Please click here to review the terms relating to [Disputes and Governing Law for this Website.](https://www.momofuku.com/terms-of-use/#disputes)
 
 **Contact Us**  
 If you have any questions or complaints concerning this Privacy Policy or our handling of your Personal Information (other than with respect to California Privacy Rights) you may contact or write to us at:
