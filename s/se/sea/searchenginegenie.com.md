@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchenginegenie.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123202620id_/https%3A//www.searchenginegenie.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchenginegenie.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925144500id_/https%3A//www.searchenginegenie.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy policy search engine optimization SEO marketing search engine genie
 
@@ -47,5 +47,9 @@ European union cookie consent policy:
 
 
 Search Engine Genie complies with EU cookie consent policy. 
+
+[Cancellation and refund policy](https://www.searchenginegenie.com/cancellation-refund-policy.html "Cancellation and refund policy")   
+[Click Here to Make Payment](https://www.searchenginegenie.com/login.php "Search Engine Optimization Login")    
+[Disclaimer SEG](https://www.searchenginegenie.com/disclaimer.html "SEG disclaimer") 
 
 For more information on Search Engine Genie’s services, contact us at ****[webpromotions@gmail.com](mailto:webpromotions@gmail.com)****
