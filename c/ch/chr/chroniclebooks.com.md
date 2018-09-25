@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the chroniclebooks.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222101217id_/http%3A//www.chroniclebooks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chroniclebooks.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925083446id_/https%3A//www.chroniclebooks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+**Last Updated: May 25, 2018.**
 
 **Internal Use of Non-Personal and Personal Information**
 
@@ -64,7 +66,7 @@ We use secure socket layer (SSL) to encrypt your data during transmission to us,
 **Managing Personal Information**
 
   
-You may review, correct, update, or change your Personal Information at any time by visiting your account on the Site, or by contacting us at:
+We understand that you have rights over your Personal Information. You may review, correct, update, change, or delete your Personal Information at any time by visiting your account on the Site, or by contacting us at:
 
 Chronicle Books  
 680 Second Street  
@@ -75,13 +77,23 @@ Email: hello@chroniclebooks.com
 **Opt-In/Opt-Out of Email Communications**
 
   
-Upon registration or from time-to-time, you may be asked to indicate whether you are interested in receiving information from us about special offers or news about our products and services. You may also be provided with the opportunity to receive offers directly from select companies other than us. Chronicle Books will use information you provide through the Site, such as your email address or other personally identifiable information, without further consent for non-promotional or administrative purposes, such as notifying you of major website updates, and to send promotional and community-building communications. At any time, you can follow a link provided in every email message to unsubscribe from that mailing list or email service.
+Upon registration or from time-to-time, you may be asked to indicate whether you are interested in receiving information from us about special offers, news about our products and services, or promotional and community-building communications. You may also be provided with the opportunity to receive offers directly from select companies other than us. If you opt-in to these communications, at any time you can follow a link provided in every email message to unsubscribe from that mailing list or email service. 
+
+Chronicle Books will use information you provide through the Site, such as your email address or other personally identifiable information, without further consent for non-promotional or administrative purposes, such as notifying you of major website updates.
 
 Please note than any opt-out or request not to receive future email will not apply to communications that relate to payment confirmations or reminders, communications in the event of a change in our Terms of Service or this Privacy Policy, and for other administrative purposes relating to your access to Chronicle Books.
 
 **International Visitors and Customers**
 
-This Site is hosted in the United States. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law please note that you are transferring your personal data to the United States which does not have the same data protection laws as the EU and by providing your personal data you consent to: the use of your personal data for the uses identified above in accordance with this Privacy Policy; and the transfer of your personal data to the United States as indicated above.
+Your personal data is important to us. The European Union General Data protection regulation (GDPR) puts you in charge of your personal data.
+
+Information Collected: When visitors browse our Site, or engage in communications with us, we may collect and control Browser Information, Support Information, and Contact Information submitted using any messaging features.
+
+Information Usage: We use this information to provide our Services, improve and personalize our Services, and provide support if needed.
+
+Promotional: We may deliver and personalize our communications with visitors. For example, we may notify a visitor by email or other means when we are offering a promotion, or invite the recipient to participate in a survey. At any time, you can follow a link provided in every email message to unsubscribe from that mailing list or email service.
+
+Access to Your Personal Data: We understand that you have rights over your Personal Data, and provide reasonable steps to allow you to access, correct, amend, or delete your Personal Data. This includes the right to withdraw, at any time, your consent for our collection and use. Visitors are able to update many types of collected Personal Data directly within their accounts. Please contact us if you are unable to access or otherwise change your Personal Data within your account.
 
 **Linking and Third Party Sites**
 
@@ -93,4 +105,4 @@ We may occasionally update this Policy. When we do, we will also revise the “l
 
 **Copyright**
 
-Copyright © 1996-2017 Chronicle Books LLC. All rights reserved. No material herein may be reproduced in any form by any means without the express written consent of Chronicle Books.
+Copyright © 1996-2018 Chronicle Books LLC. All rights reserved. No material herein may be reproduced in any form by any means without the express written consent of Chronicle Books.
