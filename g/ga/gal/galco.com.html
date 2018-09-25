@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the galco.com privacy policy that was archived on 2018-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180525183454id_/http%3A//www.galco.com/mktg/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the galco.com privacy policy that was archived on 2018-09-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180925070217id_/http%3A//galco.com/mktg/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
    <meta charset="utf-8">
@@ -13,8 +13,8 @@
    <link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800" rel="stylesheet" type="text/css">
    <link href="//fonts.googleapis.com/css?family=Open+Sans%7CFjalla+One" rel="stylesheet" type="text/css">
 
-   <link rel="stylesheet" href="/css/bootstrap.css" type="text/css">
-   <link rel="stylesheet" href="/css/galco.css" type="text/css">
+   <link rel="stylesheet" href="/css/bootstrap.css?t=1529928817" type="text/css">
+   <link rel="stylesheet" href="/css/galco.css?t=1529928817" type="text/css">
    <link rel="stylesheet" href="/css/font-awesome.min.css" type="text/css">
    <link rel="stylesheet" href="/css/ionicons.min.css" type="text/css">
    <link rel="stylesheet" href="/css/jquery-ui.min.css" type="text/css">
@@ -43,12 +43,17 @@
    <noscript><img src="//bat.bing.com/action/0?ti=5695318&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
    <!-- END BING UET -->
    <!-- JQuery and JQuery UI -->
-   <script type="text/javascript" src="/jscripts/jquery-1.11.3.min.js"></script>
+   <script type="text/javascript" src="/jscripts/jquery.min.js"></script>
+   <script type="text/javascript" src="/jscripts/jquery-migrate.min.js"></script>
    <script type="text/javascript" src="/jscripts/jquery-ui.min.js"></script>
    <script type="text/javascript" src="/jscripts/bootstrap.min.js"></script>
+   <script>
+   var btn = $.fn.button.noConflict() // reverts $.fn.button to jqueryui btn
+   $.fn.btn = btn // assigns bootstrap button functionality to $.fn.btn
+   </script>
    <!-- Various javascripts -->
-   <script type="text/javascript" src="/jscripts/template-reskin.js"></script>
-   <script type="text/javascript" src="/jscripts/cookies.js"></script>
+   <script type="text/javascript" src="/jscripts/template-reskin.js?t=1529928817"></script>
+   <script type="text/javascript" src="/jscripts/cookies.js?t=1529928817"></script>
    <script type="text/javascript" src="/jscripts/phone.js"></script>
    <script type="text/javascript" src="/jscripts/jsindex_array.js"></script>
    <script type="text/javascript" src="/jscripts/jsindex.js"></script>
@@ -59,6 +64,7 @@
    <script type="text/javascript" src="/jscripts/scrollto.min.js" async=""></script>
    <script type="text/javascript" src="/jscripts/featherlight.min.js"></script>
    <script type="text/javascript" src="/jscripts/dropdownkeys.js"></script><!-- ECP-101 -->
+   <script src="//www.google.com/recaptcha/api.js?render=explicit" async="" defer=""></script>
 
    <!--[if (!IE)|(gt IE 7)]>
       <script type="text/javascript" src="/jscripts/picturefill.min.js"></script>
@@ -202,12 +208,10 @@
                <div class="tabtext">Buy Products <span class="ion-android-arrow-dropdown"></span></div>
             </div>
             <div id="prdtablines" onmouseover="showDivDelay('prdtablines')" onmouseout="hideDivDelay('prdtablines')" class="middropdown-menu"></div>
-
             <div id="rprtab" class="text-left midtabs navbar-nav" onclick="togglehdrdiv('rprtablines'); ">
                <div class="tabtext">Send-In Repair <span class="ion-android-arrow-dropdown"></span></div>
             </div>
             <div id="rprtablines" onmouseover="showDivDelay('rprtablines')" onmouseout="hideDivDelay('rprtablines')" class="middropdown-menu"></div>
-
             <div id="fldtab" class="text-left midtabs navbar-nav" onclick="togglehdrdiv('fldtablines');">
                <div class="tabtext">On-Site Repair <span class="ion-android-arrow-dropdown"></span></div>
             </div>
@@ -288,10 +292,10 @@
                   <ul> 
                      <li data-linedisplay="#engineered_0">
                         <ul>
-                           <li class="abouteng"><a onclick="hideDivDelay('engtablines');" href="/info/fanuc-cnc-retrofit/">About Fanuc CNC Retrofit</a></li>
-                           <li class="abouteng"><a onclick="hideDivDelay('engtablines');" href="/info/fanuc-cnc/">CNC</a></li> 
-                           <li class="abouteng"><a onclick="hideDivDelay('engtablines');" href="/info/fanuc-motion-control/">Motion Control</a></li>
-                           <li class="abouteng"><a onclick="hideDivDelay('engtablines');" href="/info/fanuc-motor-drives/">Motors &amp; Drives</a></li>
+                           <li data-linedisplay="#cnc1" class="abouteng"><a onclick="hideDivDelay('engtablines');" href="/info/fanuc-cnc-retrofit/">About Fanuc CNC Retrofit</a></li>
+                           <li data-linedisplay="#cnc2" class="abouteng"><a onclick="hideDivDelay('engtablines');" href="/info/fanuc-cnc/">CNC</a></li> 
+                           <li data-linedisplay="#cnc3" class="abouteng"><a onclick="hideDivDelay('engtablines');" href="/info/fanuc-motion-control/">Motion Control</a></li>
+                           <li data-linedisplay="#cnc4" class="abouteng"><a onclick="hideDivDelay('engtablines');" href="/info/fanuc-motor-drives/">Motors &amp; Drives</a></li>
                         </ul>
                      </li>                       
                   </ul>
@@ -312,18 +316,7 @@
                      </div>
                   </div> <!-- End lineText -->
                   <div class="lineLinks">                 
-                     <div class="col-xs-4 enghome2">
-                        <ul>                      
-                           <li><a onclick="hideDivDelay('engtablines');" href="/engsvc/engineered-systems.htm#engtech">Experienced Engineers &amp; Technicians</a></li>
-                           <li><a onclick="hideDivDelay('engtablines');" href="/engsvc/engineered-systems.htm#focuson">Focus on Maximizing ROI &amp; Productivity</a></li>
-                           <li><a onclick="hideDivDelay('engtablines');" href="/engsvc/engineered-systems.htm#turnkey">Complete Turnkey Engineered Systems</a></li>
-                           <li><a onclick="hideDivDelay('engtablines');" href="/engsvc/engineered-systems.htm#factauth">Factory Authorized Integrator</a></li>
-                           <li><a onclick="hideDivDelay('engtablines');" href="/engsvc/engineered-systems.htm#appexp">Application Expertise</a></li>
-                        </ul>                                          
-                     </div>
-                     <div class="col-xs-4 enghome1">
-                        <img src="/images/hard-hat-workers.jpg" alt="hardhatworkers" class="img-responsive">
-                     </div>
+                     <div class="col-xs-8 enghome2"></div>
                      <div class="col-xs-4 enghome3">
                         <img class="enhomesiteimg" src="/images/empty-icon.png">                      
                      </div>                  
@@ -347,36 +340,28 @@
                      </div>
                   </div> <!-- End lineText -->
                   <div class="lineLinks">
-                     <div class="col-xs-4 fanucleftcol">
-                        <ul>
-                           <li data-linedisplay="#cnc1"><a href="/info/fanuc-cnc-retrofit/">About FANUC CNC Retrofit Process</a></li>
-                           <li data-linedisplay="#cnc2"><a href="/info/fanuc-cnc/">CNC</a></li>
-                           <li data-linedisplay="#cnc3"><a href="/info/fanuc-motion-control/">Motion Control</a></li>
-                           <li data-linedisplay="#cnc4"><a href="/info/fanuc-motor-drives/">Motors &amp; Drives</a></li>
-                        </ul>                        
-                     </div>
-                     <div class="col-xs-4 fanucrightcol">                        
-                        <div id="cnc1" class="fanucrightmenu active">
+                     <div class="col-xs-5 fanucleftcol">                                          
+                        <div id="cnc1" class="fanucleftmenu active">
                            Galco Industrial Electronics retrofits obsolete CNCs on machine tool mills, grinders, lathes and routers with 
                            FANUC FA America products. A complete retrofit upgrades CNC components, motion control equipment, and motors 
                            and drives.
                         </div> 
-                        <div id="cnc2" class="fanucrightmenu">
+                        <div id="cnc2" class="fanucleftmenu">
                            FANUC CNCs offer the best performance for machine tools in virtually every industry, from mills and lathes to 
                            highly complex 5-axis applications. Fine-tune your control with the Series 30<em style="font-family: Book Antiquaua;">i</em>, 
                            0<em style="font-family: Book Antiqua;">i</em>, 35<em style="font-family: Book Antiqua;">i</em>, 
                            <em style="font-family: Book Antiqua;">i</em>HMI, and more.
                         </div> 
-                        <div id="cnc3" class="fanucrightmenu">
+                        <div id="cnc3" class="fanucleftmenu">
                            FANUC's Power Motion <em style="font-family: Book Antiqua;">i</em>-MODEL A Motion controller features pressure and 
                            position control, multi-axis synchronization, electronic CAM and high-speed response, scalable up to 32 axes.
                         </div> 
-                        <div id="cnc4" class="fanucrightmenu">
+                        <div id="cnc4" class="fanucleftmenu">
                            FANUC servo, spindle, linear and torque motors and drives are engineered to provide the best possible return in 
                            precision, speed, and efficiency. Options apply to entry-level machines, precision machines, and 5-axis machines.   
                         </div>                                
                      </div>
-                     <div class="col-xs-4 enghome3">
+                     <div class="col-xs-7 enghome3">
                         <img class="engsiteimg" src="/images/empty-icon.png">                        
                      </div>               
                   </div> <!-- End lineLinks -->
@@ -429,8 +414,7 @@
    </nav>
    <!-- End navbar two -->
 </nav>
-<!-- End of navbar one -->
-   
+<!-- End of navbar one -->   
    <!--start of middle sec-->
    <div class="middle-se">
       <main id="panel">
@@ -454,15 +438,15 @@
                   <p class="bottompagepad">We only collect the e-mail addresses of those who voluntarily submit them to us by making postings to our registration center, or by placing an on-line order.</p>
                   <p class="bottompagepad">The information we collect may be used to improve the content of our web site, customize the content and/or layout of each page for each individual visitor, notify visitors about updates to our web site and/or contact visitors for marketing purposes.&nbsp; This information is NOT shared with organizations outside of Galco Industrial Electronics, nor for commercial purposes.</p>
                   <p class="bottompagepad">If you do not want to receive e-mail from us in the future, please let us know by e-mailing
-                     <a href="/cdn-cgi/l/email-protection#c1aca0b3aaa4b5a8afa681a6a0ada2aeefa2aeac" style="text-decoration:underline; color: #1c2173;"><span class="__cf_email__" data-cfemail="d9b4b8abb2bcadb0b7be99beb8b5bab6f7bab6b4">[email&nbsp;protected]</span></a>
+                     <a href="/cdn-cgi/l/email-protection#adc0ccdfc6c8d9c4c3caedcaccc1cec283cec2c0" style="text-decoration:underline; color: #1c2173;"><span class="__cf_email__" data-cfemail="9bf6fae9f0feeff2f5fcdbfcfaf7f8f4b5f8f4f6">[email&nbsp;protected]</span></a>
                      or writing to us at our postal address (above). &nbsp;Clearly indicate that you do not want to receive future e-mails from Galco, and we will remove your address from our distribution list.</p>
                   <p class="blueboxsub">Postal/Fax/Telephone Privacy Policy</p>
                   <p class="bottompagepad">Persons who supply us with their telephone numbers online may receive telephone contact from us with information regarding orders they have placed.&nbsp; They also may receive mailings, faxes and/or telephone contact from us with information regarding new products and services or upcoming events.
                      <br>
                      <br>If you do not wish to receive telephone calls, faxes or mailings from our company, please e-mail us at
-                     <a href="/cdn-cgi/l/email-protection#c885a9baa3adbca1a6af88afa9a4aba7e6aba7a5" style="text-decoration:underline; color: #1c2173;"><span class="__cf_email__" data-cfemail="6904081b020c1d00070e290e08050a06470a0604">[email&nbsp;protected]</span></a> or write to us at the above address.&nbsp; Provide with your name, company name, phone number, fax number and address and we will remove you from our house list.</p>
+                     <a href="/cdn-cgi/l/email-protection#a2efc3d0c9c7d6cbccc5e2c5c3cec1cd8cc1cdcf" style="text-decoration:underline; color: #1c2173;"><span class="__cf_email__" data-cfemail="7f121e0d141a0b1611183f181e131c10511c1012">[email&nbsp;protected]</span></a> or write to us at the above address.&nbsp; Provide with your name, company name, phone number, fax number and address and we will remove you from our house list.</p>
                   <p class="bottompagepad">Questions or comments about our website? &nbsp;Send them to
-                     <a href="/cdn-cgi/l/email-protection#205745424d41535445526047414c434f0e434f4d" style="text-decoration:underline; color: #1c2173;"><span class="__cf_email__" data-cfemail="2453414649455750415664434548474b0a474b49">[email&nbsp;protected]</span></a>.</p>
+                     <a href="/cdn-cgi/l/email-protection#1a6d7f78777b696e7f685a7d7b76797534797577" style="text-decoration:underline; color: #1c2173;"><span class="__cf_email__" data-cfemail="ee998b8c838f9d9a8b9cae898f828d81c08d8183">[email&nbsp;protected]</span></a>.</p>
                   <p class="bottompagepad">We hope you enjoy your visit at www.galco.com.</p>
                </div>
             </div>
@@ -689,10 +673,10 @@
                      <div class="col-xs-12 col-sm-6 col-lg-7 footeremailbox">
                         <input type="email" placeholder="Enter Email Address" name="newsletter_email_address" class="email" id="newsletter_email_address" style="width: 100%; height: 34px;">
                      </div>
+                     <!--<div id="newsletter-recaptcha" data-sitekey="6LdSUhwUAAAAAEJckR57dReUrmN8nRzHy5SUIaKw" data-callback="newsLetterSubmit" data-size="invisible" data-badge="bottomleft"></div>-->
                      <div class="col-xs-offset-2 col-xs-8 col-sm-2 col-sm-offset-0 footerbtnbox">
-                        <button type="submit" value="Subscribe" name="newsletter_subscribe" id="newsletter_subscribe" class="btn btn-primary pull-left" style="width: 100%; height: 34px; padding: 0px 12px;"><span>Join</span></button>
+                        <input class="btn btn-primary pull-left" style="width: 100%; height: 34px; padding: 0px 12px;" onclick="return newsletterForm()" value="Join" border="0">
                      </div>
-                     <input type="hidden" name="newsletter_captcha_response" id="newsletter_captcha_response">
                   </form>
                </div>
             </div>
@@ -753,7 +737,7 @@
 
    <!--end of btm sec-->
    <!--start of bottomscripts-->
-<script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script src="/jscripts/topnav.js"></script>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/jscripts/topnav.js"></script>
 <script src="/jscripts/slideout.min.js"></script>
 <script type="text/javascript">
 // <!-- BEGIN: Google Trusted Stores -->
