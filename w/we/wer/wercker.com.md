@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wercker.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527110208id_/https%3A//www.wercker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wercker.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925073141id_/https%3A//www.wercker.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -39,4 +39,4 @@ All product names, logos, and brands are property of their respective owners. Al
 
 ### Questions
 
-Any questions about this Privacy Policy should be addressed to [pleasemailus@wercker.com](mailto:pleasemailus@wercker.com).
+See [Oracle's Privacy Policy](https://www.oracle.com/legal/privacy/privacy-policy.html) for more information.
