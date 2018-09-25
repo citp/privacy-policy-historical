@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomezpeerzone.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523162154id_/http%3A//www.gomezpeerzone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomezpeerzone.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925072527id_/http%3A//www.gomezpeerzone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PEER Zone
 
@@ -64,22 +64,6 @@ To prevent unauthorized access, maintain data accuracy and ensure the correct us
 ## European Union and Swiss Safe Harbor Certification
 
 Dynatrace complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Dynatrace has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Dynatrace LLC’s certification, please visit <http://www.export.gov/safeharbor/>. 
-
-## Public Forums
-
-This site may make chat rooms, forums, message boards, feedback forms, web logs, “blogs”, news groups and/or other public messaging forums available to its users. Please remember that any information you disclose in these areas becomes public information. You should always exercise caution when deciding to disclose your personal information in these public forums. 
-
-## Online Job Applications
-
-Dynatrace’s website provides the opportunity for candidates to submit their resume or curriculum vitae online. All resumes received by Dynatrace will be held in confidence and used only for the purpose of considering the candidate for employment or for such other purpose as requested by the candidate. Dynatrace will not sell, trade, rent or distribute the personal information contained in any online application to any third party. All open positions offered by Dynatrace or by its domestic and international subsidiaries are subject to specific job skill requirements. The job skill requirements, qualifications and preferred experience are determined by the domestic or international subsidiary offering the position. All positions are subject to local prevailing employment laws and restrictions. This includes immigration laws pertaining to work authorization requirements and any other applicable government permissions or compliance. 
-
-### How to Update Your Resume/Personal Information:
-
-If you have already submitted your resume or curriculum vitae to Dynatrace and your skills, experience or contact information has changed, please resubmit your resume. Your revised resume will be updated in our resume management system. Visit the Careers site to learn more about open positions, candidate eligibility and the interviewing process. 
-
-### How to Contact Dynatrace Recruiting Regarding Your Privacy:
-
-Please e-mail us at [dynatrace.recruiting@dynatrace.com](mailto:dynatrace.recruiting@dynatrace.com) if you have any concerns regarding your privacy during the recruiting process. 
 
 ## Issue Resolution
 
