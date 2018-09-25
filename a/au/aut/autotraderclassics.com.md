@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the autotraderclassics.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128154234id_/https%3A//classics.autotrader.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autotraderclassics.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925234723id_/https%3A//classics.autotrader.com/privacy-policy) for the most accurate reproduction.*
 
-# Classics on Autotrader
+# Classic Cars and Trucks for Sale - Classics on Autotrader
 
 ##### Effective Date: March 16, 2015
 
