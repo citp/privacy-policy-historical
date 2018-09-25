@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devmate.com privacy policy that was archived on 2017-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170503043039id_/http%3A//devmate.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devmate.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925204210id_/https%3A//devmate.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy | DevMate
 
@@ -6,7 +6,7 @@ This Privacy Policy ("Policy") is adopted by DevMate, Inc. ("we", or "us") and p
 
 This Policy is an integral part of the Site and the Service, as defined below. The privacy practices set forth herein have been established to provide the best services while protecting personal information. If you do not agree to the terms of this Policy in whole, you must not use the Site or any services, software, or applications from the Site.
 
-If you have questions or feedback regarding this Policy or any other privacy or security concern, please contact us at support@devmate.com or call +1 (877) 5-MACPAW.
+If you have questions or feedback regarding this Policy or any other privacy or security concern, please contact us at support@devmate.com or call +1 (844)723-5163
 
 ## 1\. Definitions
 
@@ -64,7 +64,7 @@ When we receive personal information from you, we may use it for a number of pur
 
 
 
-We will not use your email address for any third party advertisements or notices. If we decide to provide you with email offers, you will have the opportunity to opt-out of any emails by notifying the Company via email at support@devmate.com or by calling+1 (877) 5-MACPAW.
+We will not use your email address for any third party advertisements or notices. If we decide to provide you with email offers, you will have the opportunity to opt-out of any emails by notifying the Company via email at support@devmate.com or by calling +1 (844)723-5163.
 
 If you send us a request, question, or comment (for example via a support email or via one of our feedback mechanisms), the Company reserves the right to publish it in order to help us clarify or respond to your request or to help us support other users of the Site and the Service.
 
