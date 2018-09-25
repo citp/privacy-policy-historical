@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bonnieplants.com privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226195713id_/https%3A//bonnieplants.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonnieplants.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925083033id_/https%3A//bonnieplants.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bonnie Plants
 
-Bonnie Plants, Inc. and its affiliated companies (“Bonnie Plants”) gather certain types of information from visitors. We are providing this privacy policy to help you understand the types of information we gather, how it is used and shared, and how you can update or modify user profile or registration information you have provided to us online. This policy applies only to information collected online at bonnieplants.com and other sites and mobile applications where this policy has been linked (collectively, the “Bonnie Plants Websites”). 
+Bonnie Plants, Inc. and its affiliated companies (“Bonnie Plants”) gather certain types of information from visitors. We are providing this privacy policy to help you understand the types of information we gather, how it is used and shared, and how you can update or modify user profile or registration information you have provided to us online. This policy applies only to information collected online at bonnieplants.com and other sites and mobile applications where this policy has been linked (collectively, the “Bonnie Plants Websites”).
 
 ## Information Collected
 
@@ -33,7 +33,7 @@ In addition, we use information collected through cookies, web beacons and other
 
 ## Disclosure of Personal Information
 
-We collect and maintain the personal information of our consumers for the use of Bonnie Plants and our marketing agents. We do not sell or rent your personally identifiable information to third parties, and do not share or trade your personally identifiable information with third parties other than as described below. 
+We collect and maintain the personal information of our consumers for the use of Bonnie Plants and our marketing agents. We do not sell or rent your personally identifiable information to third parties, and do not share or trade your personally identifiable information with third parties other than as described below.
 
   * Selected Companies: Bonnie Plants may work with select retailers and other companies at various times to provide expanded services that relate to Bonnie Plants Websites or its visitors. As part of such a relationship, Bonnie Plants may share with these companies or these companies may interact with your browser, collect or have access to some or all of the information collected in connection with certain interactive functions offered on the Bonnie Plants Websites or on other web sites where Bonnie Plants provides advertisements and interactive functions.
   * Service Providers: Bonnie Plants may use other companies and individuals to perform certain functions on our behalf. Examples include administering e-mail services, marketing, monitoring website activity and running special promotions, such as sweepstakes, contests or surveys. Such parties only have access to the personal information needed to perform these functions and may not use or store the information for any other purpose.
@@ -60,7 +60,7 @@ On Bonnie Plants Websites, we may collect information about your online activiti
 
 ## Accessing Bonnie Plants Websites from Outside of the United States
 
-If you are visiting the Bonnie Plants Websites from a location outside of the United States, your connection will be through and to servers located in the United States. Any information you provide during your visit will be processed and maintained on our Web server and/or other internal systems located within the United States. 
+If you are visiting the Bonnie Plants Websites from a location outside of the United States, your connection will be through and to servers located in the United States. Any information you provide during your visit will be processed and maintained on our Web server and/or other internal systems located within the United States.
 
 ## External Links
 
@@ -76,11 +76,11 @@ Bonnie Plants may make blogs, chat rooms, forums, message boards, and/or news gr
 
 ## Correcting and Updating Information
 
-You can update or modify your registration information if you elect to register with a Bonnie Plants Websites by logging into your registration information and following the instructions provided to update or modify such information. 
+You can update or modify your registration information if you elect to register with a Bonnie Plants Websites by logging into your registration information and following the instructions provided to update or modify such information.
 
 ## Updates to Privacy Policy
 
-This privacy policy may be revised over time as new features are added to the Bonnie Plants Websites. Should there be a material change to our information collection or use practices, the change will be applied only to information collected on a going forward basis and the “Effective Date” of the policy will be updated. 
+This privacy policy may be revised over time as new features are added to the Bonnie Plants Websites. Should there be a material change to our information collection or use practices, the change will be applied only to information collected on a going forward basis and the “Effective Date” of the policy will be updated.
 
 ## Security Statement
 
