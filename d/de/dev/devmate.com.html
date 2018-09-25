@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the devmate.com privacy policy that was archived on 2017-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170503043039id_/http%3A//devmate.com/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the devmate.com privacy policy that was archived on 2018-09-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180925204210id_/https%3A//devmate.com/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml" data-doc="policy"><head>
 	<meta charset="UTF-8">
@@ -36,7 +36,7 @@
 </head>
 <body>
 
-<script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580398200000/1790930.js"></script><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+<script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580398500000/1790930.js"></script><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
 	(function ( i, s, o, g, r, a, m ) {
 		i['GoogleAnalyticsObject'] = r;
 		i[r] = i[r] || function () {
@@ -65,10 +65,14 @@
 			padding-top: 98px;
 		}
 		.banner {
-			background: #003f7c;
-			background: -moz-linear-gradient(top, #003f7c 0%, #0a5fb6 100%);
-			background: -webkit-linear-gradient(top, #003f7c 0%,#0a5fb6 100%);
-			background: linear-gradient(to bottom, #003f7c 0%,#0a5fb6 100%);
+			background: #1a3649;
+			background: -moz-linear-gradient(-45deg, #1a3649 0%, #204259 100%);
+			background: -webkit-gradient(left top, right bottom, color-stop(0%, #1a3649), color-stop(100%, #204259));
+			background: -webkit-linear-gradient(-45deg, #1a3649 0%, #204259 100%);
+			background: -o-linear-gradient(-45deg, #1a3649 0%, #204259 100%);
+			background: -ms-linear-gradient(-45deg, #1a3649 0%, #204259 100%);
+			background: linear-gradient(135deg, #1a3649 0%, #204259 100%);
+			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1a3649', endColorstr='#204259', GradientType=1 );
 			position: relative;
 			min-height: 98px;
 			top: 0;
@@ -79,10 +83,26 @@
 		.banner-content {
 			max-width: 1060px;
 			margin: 0 auto;
-			padding: 13px 20px 13px 40px;
+			padding: 23px 20px 23px 50px;
 			position: relative;
 			text-align: center;
 		}
+		.banner-content:after {
+			content: "";
+			position: absolute;
+			top: -15px;
+			right: 0;
+			bottom: 0;
+			width: 400px;
+			height: 98px;
+			opacity: 0.4;
+			pointer-events: none;
+			background-image: url(/img/announcement/confetti.png);
+			background-size: 100%;
+			background-position: top right;
+			z-index: 0;
+			background-repeat: no-repeat;
+        }
 		.banner-title {
 			font-family: 'SofiaProRegular', 'Helvetica Neue', sans-serif;
 			font-size: 22px;
@@ -105,6 +125,7 @@
 			display: inline-block;
 			text-decoration: none;
 			padding: 0 20px;
+			z-index: 1;
 		}
 		.banner-btn:hover {
 			background: #f2f2f2;
@@ -156,7 +177,13 @@
 		.banner-img {
 			position: absolute;
 			left: 40px;
+			top: 0px;
 			bottom: 0;
+			width: 110px;
+			height: 101px;
+			background-image: url(/img/announcement/octopus.png);
+			background-repeat: no-repeat;
+			background-size: contain;
 		}
 		@media (max-width : 800px) {
 			.banner {
@@ -170,24 +197,24 @@
 	</style>
 
 	<script src="/js/modules/banners.js"></script>
-	<div class="banner" id="windows-beta-banner">
+	<div class="banner" id="announcement-banner">
 		<div class="banner-close" data-banner-close=""></div>
 		<div class="banner-content">
-			<img class="banner-img" src="/landings/windows-beta/img/banner_logo.png" srcset="/landings/windows-beta/img/banner_logo_2x.png 2x" alt="">
-			<div class="banner-title">DevMate is coming to Windows.</div>
-			<div class="banner-subtitle">Be part of the Beta!</div>
-			<a class="banner-btn" href="/windows-beta">Learn more</a>
+			<div class="banner-img"></div>
+			<div class="banner-title">Paddle and DevMate are joining forces!</div>
+			<div class="banner-subtitle">Helping you build better software.</div>
+			<a class="banner-btn" href="/devmate-announcement/" target="_blank">Learn more</a>
 		</div>
 	</div>
 	<script>
-		if (document.cookie.indexOf("windows-beta-banner") >= 0) {
+		window.hideBanner = (typeof window.hideBanner != 'undefined') ? window.hideBanner : false;
+		if (document.cookie.indexOf("announcement-banner") >= 0 || window.hideBanner) {
 			document.querySelector('body').style['paddingTop'] = 0;
-			document.getElementById('windows-beta-banner').style['display'] = 'none';
+			document.getElementById('announcement-banner').style['display'] = 'none';
 		} else {
-			new Banner('#windows-beta-banner', 'windows-beta-banner');
+			new Banner('#announcement-banner', 'announcement-banner');
 		}
 	</script>
-
 
 	<!-- end banner -->
 	<div class="container clearfix">
@@ -256,7 +283,7 @@
 
 				<p>This Policy is an integral part of the Site and the Service, as defined below. The privacy practices set forth herein have been established to provide the best services while protecting personal information. If you do not agree to the terms of this Policy in whole, you must not use the Site or any services, software, or applications from the Site.</p>
 
-				<p>If you have questions or feedback regarding this Policy or any other privacy or security concern, please contact us at support@devmate.com or call +1 (877) 5-MACPAW.</p>
+				<p>If you have questions or feedback regarding this Policy or any other privacy or security concern, please contact us at support@devmate.com or call +1 (844)723-5163</p>
 			</div>
 		</div>
 	</div>
@@ -347,7 +374,7 @@
 					<li>Operate, evaluate and improve our business (including developing new products and services, managing our communications, performing market research, and administering the Site).</li>
 				</ul>
 
-				<p>We will not use your email address for any third party advertisements or notices. If we decide to provide you with email offers, you will have the opportunity to opt-out of any emails by notifying the Company via email at support@devmate.com or by calling+1 (877) 5-MACPAW.</p>
+				<p>We will not use your email address for any third party advertisements or notices. If we decide to provide you with email offers, you will have the opportunity to opt-out of any emails by notifying the Company via email at support@devmate.com or by calling +1 (844)723-5163.</p>
 
 				<p>If you send us a request, question, or comment (for example via a support email or via one of our feedback mechanisms), the Company reserves the right to publish it in order to help us clarify or respond to your request or to help us support other users of the Site and the Service.</p>
 			</div>
@@ -504,6 +531,8 @@
 <script src="/js/libs/tFormer.js?v=1455126524905"></script>
 
 <script src="/js/devmate.min.js?v=1455126524905"></script>
+
+<script src="/js/sticky.js?v=1455126524905"></script>
 
 
 
