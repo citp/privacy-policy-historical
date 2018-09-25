@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the com-unik.info privacy policy that was archived on 2018-03-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180318123213id_/https%3A//www.com-unik.info/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the com-unik.info privacy policy that was archived on 2018-09-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180925102506id_/https%3A//www.com-unik.info/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" style="display:block;min-width:1040px;"><head>
+<!DOCTYPE html><html lang="en" style="display:block;min-width:1040px;"><head><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="//acdn.adnxs.com/ast/ast.js"></script>
 <meta name="distribution" content="global">
 <meta name="robots" content="follow, all">
  <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
 <meta name="viewport" content="width=1040">
 
 <!-- Escape from Frames -->
-<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript">if(self==top){document.documentElement.style.display="block"}else{top.location=self.location};
+<script type="text/javascript">if(self==top){document.documentElement.style.display="block"}else{top.location=self.location};
 var qva = '539382';var fan = '3739';var jwa = '116261';var geq = '-bup-ac';</script>
 
 <link rel="stylesheet" type="text/css" href="https://www.com-unik.info/wp-content/themes/alambre-com-unik/style.css?v=12" media="screen">
@@ -39,8 +39,23 @@ var qva = '539382';var fan = '3739';var jwa = '116261';var geq = '-bup-ac';</scr
 
 
  <link rel="manifest" href="/manifest.json">
-  <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+  <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js"></script>
   <script>
+  	function registerUserChange(action) {
+		OneSignal.getUserId( function(userId) {
+			OneSignalIdString = userId;
+			var Domain = '';
+			var url = "https://www.marketbeat.com/scripts/OneSignalTracking.ashx?OneSignalID=" + OneSignalIdString + "&domain=" + Domain + "&action=" + action;
+			var xhr = new XMLHttpRequest();
+			xhr.open('GET', url);
+			xhr.onload = function () {
+				if (xhr.status !== 200) {
+					console.log('GET failed.  Returned status of ' + xhr.status);
+				}
+			};
+			xhr.send();
+		});
+	}
     var OneSignal = window.OneSignal || [];
     OneSignal.push(["init", {
       appId: "e44ae816-df10-443c-9af6-8ac7ebff4880",
@@ -52,21 +67,71 @@ var qva = '539382';var fan = '3739';var jwa = '116261';var geq = '-bup-ac';</scr
  welcomeNotification: {
         "title": "Join Wall Street's Brightest Minds.",
         "message": "Receive research in your inbox from top analysts, before the market opens. Click here to learn how.",
-         "url": "https://www.marketbeat.com/subscribe/subscribe.aspx?ReferralType=OneSignalThankYou&ProductCode=1597t"
+         "url": "https://www.marketbeat.com/subscribe/subscribe.aspx?ReferralType=OneSignalThankYou&ProductCode=1997t"
     }
-    }]);
+    },
+		OneSignal.once('subscriptionChange', function (isSubscribed) {
+			if(isSubscribed) {
+				registerUserChange("subscribe");
+			}
+			else {
+				registerUserChange("unsubscribe");
+			}
+			
+		  })
+	]);
   </script>
 
 <script type="text/javascript">var vbnfgha = '211626'; var ertdfga = '13739-bup-ac'; var qhyuioa = '53938'; var AdClientID = qhyuioa + vbnfgha + ertdfga; AdClientID = AdClientID.split("").reverse().join("");</script>
+	
+<!-- start ims header script -->
+	<script type="text/javascript">
+		var apntag = apntag || {};
+		apntag.anq = apntag.anq || [];
+		(function() {
+			var d = document, e = d.createElement('script'), p = d.getElementsByTagName('head')[0];
+			e.type = 'text/javascript';  e.async = true;
+			e.src = '//acdn.adnxs.com/ast/ast.js';
+			p.insertBefore(e, p.firstChild);
+		})();
 
-</head>
+		
+		apntag.anq.push(function() {
+			apntag.setPageOpts({
+				member: 6989
+			});
+		});
+
+		apntag.anq.push(function() {
+
+      		apntag.defineTag({
+				tagId: 13226773,
+				sizes: [[300,250]],
+				keywords: {'position': ['RightRail_1']},
+				targetId: 'Com_Unik_ROS_RightRail_1'
+			});
+					});
+
+		apntag.anq.push(function() {
+			apntag.loadTags();
+		});
+		</script>
+<!-- end ims header script -->
+	
+	
+<script src="//widget.manychat.com/1450892295227696.js" async="async"></script></head>
+	
+<!-- ManyChat -->
 
 <body>
 
 
 <!-- Start MarketBeat Modern Popup -->
 <link rel="stylesheet" type="text/css" media="all" href="https://www.marketbeat.com/scripts/modal/modernpopup.css?v=11">
-<script type="text/javascript" src="https://www.marketbeat.com/scripts/modal/modernpopup.js?v=11"></script>
+<script type="text/javascript" src="https://www.marketbeat.com/scripts/modal/modernpopup.js?v=29"></script>
+<script>
+	    if (Notification.permission == "denied") { showsecondarynotifications('Community Financial News', 'https://marketbeat.com/images/webpush/get-notifications_com-unik.png');}
+</script>	
 	<script type="text/javascript">LoadPopupRatings('ModernNonMarketsPopup-Community Financial News', '');</script>
 <!-- End MarketBeat Modern Popup -->
 
@@ -131,14 +196,15 @@ google_ad_channel="9246755130,8569953935"+PopupAdChannel;</script>
 </header> <!-- end: header -->
 	<div class="width-limiter">
 		<aside>
-
+	
 <div>
 <!-- Begin Dianomi Unit -->
-<iframe width="336" height="670" scrolling="NO" src="//www.dianomi.com/smartads.epl?id=3355" style="width: 336px; border: none; overflow: hidden;"></iframe>
+<iframe width="336" height="670" scrolling="NO" src="//www.dianomi.com/smartads.epl?id=3356" style="width: 336px; border: none; overflow: hidden;"></iframe>
 <!-- End Dianomi Unit -->
 
 </div>
 
+		
 <!-- first square unit -->
 <div class="ad336x280">
 
@@ -169,8 +235,6 @@ google_ad_channel="9246755130,2058900337"+PopupAdChannel;</script>
 </div>
 <!-- end second square unit -->
 
-
-
 <!-- OptIn Form -->
 <!-- Start Sidebar Registration -->
 <!-- End Sidebar Registration -->
@@ -191,26 +255,26 @@ google_ad_channel="9246755130,2058900337"+PopupAdChannel;</script>
         <div>
         <h3>Top Stories</h3>
             <ul>
-                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/03/18/tiptree-inc-tipt-declares-quarterly-dividend-of-0-03.html">Tiptree Inc (TIPT) Declares Quarterly Dividend of $0.03</a></li>
-                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/03/18/guggenheim-capital-llc-has-43-90-million-holdings-in-northrop-grumman-co-noc.html">Guggenheim Capital LLC Has $43.90 Million Holdings in Northrop Grumman Co. (NOC)</a></li>
-                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/03/18/guggenheim-capital-llc-cuts-stake-in-eog-resources-inc-eog.html">Guggenheim Capital LLC Cuts Stake in EOG Resources Inc (EOG)</a></li>
-                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/03/18/goldman-sachs-group-inc-has-59-81-million-holdings-in-powershares-kbw-bank-portfolio-kbwb.html">Goldman Sachs Group Inc. Has $59.81 Million Holdings in PowerShares KBW Bank Portfolio (KBWB)</a></li>
-                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/03/18/bgc-partners-inc-bgcp-stake-raised-by-goldman-sachs-group-inc.html">BGC Partners, Inc. (BGCP) Stake Raised by Goldman Sachs Group Inc.</a></li>
-                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/03/18/magna-international-mga-and-aptiv-aptv-head-to-head-contrast.html">Magna International (MGA) and Aptiv (APTV) Head to Head Contrast</a></li>
-                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/03/18/global-trust-asset-management-llc-purchases-new-holdings-in-cvs-health-corp-cvs.html">Global Trust Asset Management LLC Purchases New Holdings in CVS Health Corp (CVS)</a></li>
-                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/03/18/financial-comparison-mt-bank-mtb-versus-itau-corpbanca-itcb.html">Financial Comparison: M&amp;T Bank (MTB) versus Itau Corpbanca (ITCB)</a></li>
-                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/03/18/goldman-sachs-group-inc-has-61-80-million-holdings-in-liberty-property-trust-lpt.html">Goldman Sachs Group Inc. Has $61.80 Million Holdings in Liberty Property Trust (LPT)</a></li>
-                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/03/18/continental-building-products-inc-cbpx-shares-bought-by-macquarie-group-ltd.html">Continental Building Products Inc (CBPX) Shares Bought by Macquarie Group Ltd.</a></li>
-                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/03/18/telefonica-s-a-tef-stake-lessened-by-macquarie-group-ltd.html">Telefonica S.A. (TEF) Stake Lessened by Macquarie Group Ltd.</a></li>
-                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/03/18/macquarie-group-ltd-cuts-stake-in-choice-hotels-chh.html">Macquarie Group Ltd. Cuts Stake in Choice Hotels (CHH)</a></li>
-                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/03/18/macquarie-group-ltd-sells-19796-shares-of-valley-national-bancorp-vly.html">Macquarie Group Ltd. Sells 19,796 Shares of Valley National Bancorp (VLY)</a></li>
-                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/03/18/zcoin-hits-24-hour-volume-of-935780-00-xzc.html">ZCoin Hits 24 Hour Volume of $935,780.00 (XZC)</a></li>
-                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/03/18/bitconnect-trading-17-2-lower-this-week-bcc.html">BitConnect  Trading 17.2% Lower  This Week (BCC)</a></li>
-                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/03/18/nexus-market-capitalization-tops-100-11-million-nxs.html">Nexus Market Capitalization Tops $100.11 Million (NXS)</a></li>
-                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/03/18/united-community-banks-inc-ucbi-stake-boosted-by-glenmede-trust-co-na.html">United Community Banks, Inc. (UCBI) Stake Boosted by Glenmede Trust Co. NA</a></li>
-                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/03/18/murphy-oil-co-mur-holdings-raised-by-geode-capital-management-llc.html">Murphy Oil Co. (MUR) Holdings Raised by Geode Capital Management LLC</a></li>
-                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/03/18/geode-capital-management-llc-acquires-240671-shares-of-patterson-uti-energy-inc-pten.html">Geode Capital Management LLC Acquires 240,671 Shares of Patterson-UTI Energy, Inc. (PTEN)</a></li>
-                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/03/18/the-coca-cola-co-ko-position-cut-by-gamco-investors-inc-et-al.html">The Coca-Cola Co (KO) Position Cut by Gamco Investors INC. ET AL</a></li>
+                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/09/25/nomura-holdings-inc-acquires-new-holdings-in-texas-capital-bancshares-inc-tcbi.html">Nomura Holdings Inc. Acquires New Holdings in Texas Capital Bancshares Inc (TCBI)</a></li>
+                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/09/25/jazz-pharmaceuticals-plc-jazz-position-reduced-by-nomura-holdings-inc.html">Jazz Pharmaceuticals PLC (JAZZ) Position Reduced by Nomura Holdings Inc.</a></li>
+                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/09/25/glenmede-trust-co-na-boosts-holdings-in-crane-co-cr.html">Glenmede Trust Co. NA Boosts Holdings in Crane Co. (CR)</a></li>
+                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/09/25/fidelity-national-information-servcs-fis-price-target-increased-to-125-00-by-analysts-at-suntrust-banks.html">Fidelity National Information Servcs (FIS) Price Target Increased to $125.00 by Analysts at SunTrust Banks</a></li>
+                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/09/25/coresite-realty-cor-rating-lowered-to-market-perform-at-cowen.html">CoreSite Realty (COR) Rating Lowered to Market Perform at Cowen</a></li>
+                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/09/25/dun-bradstreet-dnb-upgraded-at-zacks-investment-research.html">Dun &amp; Bradstreet (DNB) Upgraded at Zacks Investment Research</a></li>
+                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/09/25/just-energy-group-je-given-a-6-00-price-target-at-b-riley.html">Just Energy Group (JE) Given a $6.00 Price Target at B. Riley</a></li>
+                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/09/25/republic-services-inc-rsg-position-trimmed-by-glenmede-trust-co-na.html">Republic Services, Inc. (RSG) Position Trimmed by Glenmede Trust Co. NA</a></li>
+                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/09/25/glenmede-trust-co-na-purchases-6338-shares-of-novartis-ag-nvs.html">Glenmede Trust Co. NA Purchases 6,338 Shares of Novartis AG (NVS)</a></li>
+                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/09/25/glenmede-trust-co-na-reduces-stake-in-mastercard-inc-ma.html">Glenmede Trust Co. NA Reduces Stake in Mastercard Inc (MA)</a></li>
+                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/09/25/millennium-management-llc-trims-holdings-in-grifols-s-a-s-grfs.html">Millennium Management LLC Trims Holdings in GRIFOLS S A/S (GRFS)</a></li>
+                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/09/25/millennium-management-llc-trims-position-in-big-lots-inc-big.html">Millennium Management LLC Trims Position in Big Lots, Inc. (BIG)</a></li>
+                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/09/25/millennium-management-llc-has-30-14-million-stake-in-canadian-natural-resource-ltd-cnq.html">Millennium Management LLC Has $30.14 Million Stake in Canadian Natural Resource Ltd (CNQ)</a></li>
+                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/09/25/millennium-management-llc-sells-1164169-shares-of-gardner-denver-holdings-inc-gdi.html">Millennium Management LLC Sells 1,164,169 Shares of Gardner Denver Holdings Inc (GDI)</a></li>
+                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/09/25/trex-company-inc-trex-position-boosted-by-metlife-investment-advisors-llc.html">Trex Company Inc (TREX) Position Boosted by MetLife Investment Advisors LLC</a></li>
+                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/09/25/critical-review-gaming-and-leisure-properties-glpi-and-corenergy-infrastructure-trust-corr.html">Critical Review: Gaming and Leisure Properties (GLPI) and Corenergy Infrastructure Trust (CORR)</a></li>
+                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/09/25/reviewing-strata-skin-sciences-sskn-tactile-systems-technology-tcmd.html">Reviewing STRATA Skin Sciences (SSKN) &amp; Tactile Systems Technology (TCMD)</a></li>
+                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/09/25/brokerages-anticipate-silicon-motion-technology-corp-simo-will-post-earnings-of-0-88-per-share.html">Brokerages Anticipate Silicon Motion Technology Corp. (SIMO) Will Post Earnings of $0.88 Per Share</a></li>
+                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/09/25/liberty-broadband-corp-series-c-lbrdk-given-104-00-consensus-target-price-by-analysts.html">Liberty Broadband Corp Series C (LBRDK) Given $104.00 Consensus Target Price by Analysts</a></li>
+                        <li class="recent-posts"><a href="https://www.com-unik.info/2018/09/25/analysts-set-bae-systems-plc-ba-target-price-at-683-80.html">Analysts Set BAE Systems plc (BA) Target Price at $683.80</a></li>
                         </ul>
         </div>  
 <!-- end recent posts -->
@@ -271,7 +335,7 @@ google_ad_channel="9246755130,2058900337"+PopupAdChannel;</script>
 
 			</div>	
 		</footer>
-		<script data-cfasync="false" src="/cdn-cgi/scripts/d07b1474/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="https://www.com-unik.info/wp-content/plugins/bwp-minify/min/?f=wp-includes/js/wp-embed.min.js&amp;ver=1505054104"></script>
+		<script type="text/javascript" src="https://www.com-unik.info/wp-content/plugins/bwp-minify/min/?f=wp-includes/js/wp-embed.min.js&amp;ver=1505054104"></script>
 
 <!-- Start of StatCounter Code for Com-Unik -->
 <script type="text/javascript">
@@ -327,7 +391,7 @@ if(OneSignal.isPushNotificationsSupported())
 </script>
 <!-- End Registration Code -->
 
-<script type="text/javascript" src="https://ads.pro-market.net/ads/scripts/site-131218.js"></script>
+
 
 	
 
