@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spysparrow.me privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618134624id_/http%3A//www.spysparrow.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spysparrow.me privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925023002id_/http%3A//www.spysparrow.me/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
