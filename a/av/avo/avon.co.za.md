@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avon.co.za privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617040306id_/http%3A//avon.co.za/PRSuite/privacy_security.page%3Ffooter%3DY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avon.co.za privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925165932id_/http%3A//www.avon.co.za/PRSuite/privacy_security.page%3Ffooter%3DY) for the most accurate reproduction.*
 
 # Avon - cosmetics, beauty, make-up, skincare, fragrance, work from home
 
