@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nigerianmonitor.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620003232id_/http%3A//www.nigerianmonitor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nigerianmonitor.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925164122id_/http%3A//www.nigerianmonitor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
