@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the zalora.com.ph privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007175707id_/https%3A//www.zalora.com.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zalora.com.ph privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925042111id_/https%3A//www.zalora.com.ph/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at ZALORA Philippines
 
 _**This is the ZALORA Personal Data Protection Policy (“Policy”) which sets forth how BF Jade E-Services Philippines, Inc. (“ZALORA”) manages, collects, uses and discloses your Personal Data, in accordance with the Philippine Data Privacy Act of 2012 (“the Act”).**.   
 This Policy supplements, but does not supersede, nor replace, any other consents you may have previously provided to ZALORA in respect of your Personal Data.  
-ZALORA may update this Policy to ensure that it is consistent with any changes in legal or regulatory requirements. Subject to your rights at law, you agree to be bound by the prevailing terms of the Personal Data Protection Policy as updated from time to time on our website.  
+ZALORA may update this Policy to ensure that it is consistent with any changes in legal or regulatory requirements.When you submit information to us, or sign up as a customer on our website, or view any of the products or services offered by us, you agree and consent to the collection, use and processing of personal information, in the manner set forth in this Privacy Policy. Subject to your rights at law, you agree to be bound by the prevailing terms of the Personal Data Protection Policy as updated from time to time on our website.  
 _
 
 **Personal Data**  
 In this Policy, Personal Data refers to any information whether recorded in a material form or not, from which the identity of a Customer is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify a Customer. 
 
-When you create a ZALORA account, the personal information we collect may include your: Name, Email, Gender, Birthday, Mobile Number and Delivery/Billing Address. 
+When you create a ZALORA account, the personal information we collect may include your: Name, Email, Gender, Birthday, Mobile Number and Delivery/Billing Address. When you place an order, we may collect information relevant to your preferred payment method. 
 
 **Purposes for which Personal Information shall be Processed**  
 ZALORA may collect, use, and disclose your Personal Data to certain third-parties identified below, for the following purposes:   
@@ -57,6 +57,10 @@ If you provide us with any Personal Data relating to a third-party (e.g. informa
 You should ensure that all Personal Data submitted to us is complete, accurate, true and correct. Failure on your part to do so may result in our inability to provide you with the products and services you have requested.
 
 We may store your personal data while you are a Customer, or as long as may be necessary to fulfill the purpose for which it was collected.
+
+**Sociomantic**
+
+Zalora uses Sociomantic's services, and Sociomantic's tags are implemented on Zalora's sites to collect anonymous information about you. You may find out more about the information collected by Sociomantic, how it is used, and how you can opt out at https://www.sociomantic.com/privacy/en/
 
 **Methods utilized for automated access**  
 When you visit ZALORA, our company servers will automatically record information that your browser sends whenever you visit a website. This data may include:   
