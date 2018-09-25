@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the podcastawards.com privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712220511id_/https%3A//www.podcastawards.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the podcastawards.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925221835id_/https%3A//www.podcastawards.com/privacy) for the most accurate reproduction.*
 
 # Podcast Awards - Privacy Policy
 
@@ -13,10 +13,10 @@ Any personal information you share with us during the collection of data for the
 
 We may email podcasters to update you on the status of the awards, but those contacts will be limited to the event.
 
-**Listeners who register to nominate will not be contacted by the Podcast Awards team, your data is strictly for verification only. At the end of the annual event your account information will be purged from the Podcast Awards site database.**
+*** Listeners who register to nominate will not be contacted by the Podcast Awards team, your data is strictly for verification only. At the end of the annual event your account information will be purged from the Podcast Awards site database. ***
 
 Those involved in the nomination reviews will not have access to who you nominated.
 
 We respect each and every participant's privacy and will safeguard your email and any other contact information as if it were our own.
 
-[ Print ](https://www.podcastawards.com/privacy?tmpl=component&print=1&page= "Print article < Privacy Policy >")
+[ Print ](https://www.podcastawards.com/privacy?tmpl=component&print=1 "Print article < Privacy Policy >")
