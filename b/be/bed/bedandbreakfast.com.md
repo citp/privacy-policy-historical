@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bedandbreakfast.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928115603id_/https%3A//www.bedandbreakfast.com/privacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bedandbreakfast.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926095516id_/http%3A//www.bedandbreakfast.com/privacystatement.aspx) for the most accurate reproduction.*
 
 # PrivacyStatement.cshtml
 
@@ -8,7 +8,7 @@
 
 We are serious about protecting the privacy of our users.  This Privacy Policy describes how we use and protect your personal data.  It applies to BedandBreakfast.com, Inns.com, any subdomains thereof and any other websites where this policy is linked to in the footer of the page and any mobile application of such websites (which we have collectively called the “Site” in this policy).
 
-The Site is operated by BedandBreakfast.com, Inc. which is part of the HomeAway, Inc. group (collectively, “HomeAway”).  You can find details of the HomeAway group and the companies in it in its initial, annual and quarterly filings made with the United States Securities and Exchange Commission on Forms S-1, 10-K and 10-Q, which can be accessed here: 
+The Site is operated by BedandBreakfast.com, Inc. which is part of the HomeAway.com, Inc. group (collectively, “HomeAway”).  You can find details of the HomeAway group and the companies in it in its initial, annual and quarterly filings made with the United States Securities and Exchange Commission on Forms S-1, 10-K and 10-Q, which can be accessed here: 
 
 [http://investors.homeaway.com/sec.cfm](http://investors.homeaway.com/sec.cfm).
 
@@ -162,6 +162,4 @@ We will retain your personal data only as long as is necessary for the purposes 
 
  **How do I contact you?**
 
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, we encourage you to contact us at 
-
-[Customer Support](http://support.homeaway.com/). If you are unhappy with their answers, you can also speak to our Chief Privacy Officer Arndt Soret at asoret@homeaway.com.  In the unlikely event you still have an unresolved complaint, if your data was transferred to the US from the EU or Switzerland under Safe Harbor, you can also contact our dispute resolution service operated by NIPC, an independent arbitration service based in the EU.  Our Chief Privacy Officer can give you the details for this service.
+If you have any questions about this Privacy Policy, thepractices of this Site, or your dealings with this Site, we encourage you tocontact us at [CustomerSupport](http://support.homeaway.com/). If you are unhappy with their answers, you can also contact us a [privacy@homeaway.com](mailto:privacy@homeaway.com).  In theunlikely event you still have an unresolved complaint, if your data wastransferred to the US from the EU or Switzerland under Safe Harbor, you canalso contact our dispute resolution service operated by NIPC, an independentarbitration service based in the EU.  Our privacy team can give you thedetails for this service.
