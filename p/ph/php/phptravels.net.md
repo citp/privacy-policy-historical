@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phptravels.net privacy policy that was archived on 2018-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180421051459id_/http%3A//www.phptravels.net/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phptravels.net privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927012757id_/http%3A//www.phptravels.net/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
