@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twittercounter.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626230042id_/https%3A//twittercounter.com/privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twittercounter.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926214815id_/https%3A//twittercounter.com/privacy-policy.pdf) for the most accurate reproduction.*
 
 # Twitter Counter Data and Customer Content
 
@@ -11,8 +11,8 @@ protecting the privacy of all individuals who:
      ● use the mobile applications that TC makes available from time to time (the
         "​Applications​");
      ● use the Services including Twitter Counter Free, Individual, Professional,
-        Business, Unlimited Promoted Accounts Campaigns and other TC products
-        and services (the "​Platforms​"); and
+        Business, Unlimited and other TC products and services (the "​Platforms​");
+        and
 "​Services​" are TC's platforms, websites and other properties. When we talk about
 “Personal Information”, we mean information relating to you or other identifiable
 individuals.
@@ -311,3 +311,7 @@ TwitterCounter B.V
 Singel 542
 Amsterdam, 1017 AZ
 The Netherlands
+
+
+
+
