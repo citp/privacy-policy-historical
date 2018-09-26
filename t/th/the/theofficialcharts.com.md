@@ -1,139 +1,198 @@
-> *The following text is extracted and transformed from the theofficialcharts.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511221547id_/http%3A//www.officialcharts.com/who-we-are/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theofficialcharts.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926193731id_/http%3A//www.officialcharts.com/who-we-are/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The Official UK Charts Company Limited (referred to in these terms and conditions as "OCC", "we", "us" or "our") is a limited company owned jointly by BPI (British Recorded Music Industry) Limited (“BPI”) and the Entertainment Retailers Association (“ERA”).  OCC and BPI are committed to protecting your privacy on-line.  We use the information we collect about you to provide services to you when you visit the websites currently located at [www.theofficialcharts.com](http://www.theofficialcharts.com/) (the "Site"). We appreciate that you do not want any personal information you provide to us distributed indiscriminately and here, we explain how we collect information, what we do with it and what controls you have.
+The Official UK Charts Company (referred to in this notice as the “OCC”, “we” and “us”) is a limited company owned jointly by BPI (British Recorded Music Industry) Limited (“BPI”) and the Entertainment Retailers Association (“ERA”). 
 
-It is your responsibility to read and understand this Privacy Policy. If you do not understand or accept this Privacy Policy then you should contact our Information Protection Officer whose contact details are set out below. If you do not agree to all of this Privacy Policy and do not wish to be bound by it, you are not authorised to access or otherwise use any of our Sites.
+OCC and BPI are committed to protecting your privacy on-line.  This policy explains how we use your personal data to provide services to you when you visit the website currently located at www.officialcharts.com (the "Site"), and when you sign up to receive our newsletters, and when we process third party and supplier contact information.
 
-Introduction
+References to your “personal data” include any or all of your personal data, as the context requires, including “special categories of personal data”, which relates to more sensitive information about you.  The only special category data we collect is gender, from our newsletter subscribers.  There are other categories of “special categories of personal data” which are less likely to be processed, but for a full definition, see Article 9 of the General Data Protection Regulation (“GDPR”).
 
-This Privacy Policy explains the following:  
-•    What information we collect about you;   
-•    How we store your information;  
-•    How your information is used;   
-•    When we may contact you;   
-•    Whether we will disclose your details to anyone else;  
-•    Any age restrictions on supplying personal information to us;   
-•    How long we may keep your personal information;  
-•    Our use of cookies on the Site and how you can reject these cookies;   
-•    How to contact us.
+The OCC is a “data controller”. This means that we are responsible for deciding how we hold and use personal data about you.
 
-1\. What Information We Collect
+OCC is not obliged to appoint a statutory data protection officer, but have appointed an internal Data Protection Manager (“DPM”). For any queries, please contact: 
 
-So that we can provide a personalised service, we may, upon registration or at other times on our Site, ask you to submit personal information to us. You may also be required to provide personal information to order products, enter competitions, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters or participate in one of our online forums or communities. The types of information that may be collected at these pages include: your name, e-mail address, postal address, telephone/mobile number, your gender and date of birth. Different web pages on the Site may ask for different personal information. We may ask you for other information, including, but not limited to, your interests, opinions and the way you use our service to assist us in our initiatives outlined above and to improve our understanding of customer trends and patterns.
+Data Protection Manager
 
-You are under no obligation to provide such information. However, if you should choose to withhold requested information, we may not be able to provide you with certain services.
+BPI | County Hall | Westminster Bridge Road | London | SE1 7JA
 
-If you're entering a competition, you can choose to tick either 'yes' or 'no' to let us know if you would like to be contacted or not. And don't worry, ticking 'no' won't affect your entry into the competition - your chances are as good as everyone else's! If you're registering specifically to hear from us, we'll take this as your consent, so we won't ask you to tick 'yes' or 'no'.
+Email: [dataprotectionofficer@bpi.co.uk](mailto:dataprotectionofficer@bpi.co.uk)
 
-Please note that sometimes on particular web pages on the Site we will require you to provide additional personal information. When we do this we will specify further on these web pages why we are collecting your information and how we will use it.
+Telephone: +44 (0)20 7803 1300
 
-2\. How We Store Your Information
+The DPM is responsible for overseeing compliance with this privacy notice and for handling any data protection queries or issues involving OCC.  You should contact the DPM in the first instance about any issue involving data protection, whether it involves your data or anyone else’s.
 
-Information you submit via a Site is sent to a computer located in the United Kingdom.  Information submitted by you may be transferred to, stored and processed by us, our subsidiaries, BPI, ERA and any subsidiaries of BPI or ERA as well as OCC, ERA and BPI's service providers and to other reputable third party organisations, which may be situated outside the European Economic Area. In addition if you use our services while you are outside the EEA, your information may be transferred outside the EEA in order to provide you with those services.
+We collect the following personal information from subscribers to our newsletters:
 
-By submitting information, you agree to the collection, transfer, storage or processing of information about you for the purposes described in this Privacy Policy.  OCC, ERA and BPI will take all reasonable steps to ensure that information about you is treated securely in accordance with this policy and that all information you provide to us is stored on OCC, ERA or BPI’s secure servers or those of our service providers.
+  * Name
+  * Email address
+  * Telephone number
+  * Date of Birth (optional)
+  * Gender (optional)
 
-3.  How Your Information Is Used
 
-We will use the information you provide to us to:  
-•    monitor, develop and improve the Site, services and your experience;  
-•    assist in and administer the provision of services to you (i.e. dispatch news and communications via email, post, fax or phone, provide you with password reminders or to notify you that a particular service has been suspended for maintenance);   
-•    process and deal with any complaints or enquiries made about you;  
-•    contact you about a submission you have made to the Site, including any content you provide; and  
-•    understand customer trends and patterns.
 
-4\. When We May Contact You
+In respect of visitors to the Site, we may collect:
 
-We may contact you:  
-•    in relation to the functioning of any service you have signed up for in order to ensure that we can deliver the services to you;   
-•    where you have opted to receive further correspondence;   
-•    in relation to any contribution you have made to the Site, e.g. on our message boards;   
-•    to invite you to participate in surveys about our services (participation is always voluntary); and   
-•    for marketing purposes where you have specifically agreed to this (see paragraph 5 below)   
-Local pages will give you information about how we will contact you in relation to specific services.
+  * IP Address
 
-5\. Will I Be Contacted For Marketing Purposes?
 
-Where and only where requested by you we will:  
-•    send you and keep you updated with information by email, telephone (including SMS) or mail about existing and new services, products and special offers from us; and/or  
-•    send you information by email, telephone or mail about related products or services of selected third parties that may be of interest to you. However, you always have the opportunity to remove your consent to such use by following the ‘unsubscribe’ link at the foot of any emails that we send to you or by emailing us at [Note to draft: what are applicable email/physical addresses?] or writing to us at the address set out below with a request to remove your consent.
 
-We will not send you unsolicited premium rate SMS messages (which are SMS messages you pay to receive), although your service provider may impose a charge on messages that you receive.  Please check with your service provider for details.
+In respect of third parties/suppliers, we may collect:
 
-You can tell us not to contact you or share the information with a third party either at initial registration or later through updates or amendments to your personal information.  We may occasionally contact you about products and services we feel may be of interest to you.  This will only come from us (or our agents) and only if you have indicated that you do not object to these offers.
+  * Name
+  * Contact details
 
-6\. Will We Share Your Personal Information With Anyone Else?
 
-We will keep your information confidential except where disclosure is required or permitted by law (for example to government bodies and law enforcement agencies) or as described in paragraph 7. Generally, we will only use your information within OCC, OCC’s subsidiaries, ERA or BPI and any subsidiaries of ERA or BPI. However, sometimes OCC and/or ERA and/or BPI use third parties to process your information.  OCC and/or ERA and/or BPI will require these third parties to comply strictly with its instructions and will require that they do not use your personal information for their own business purposes.
 
-7\. Offensive Or Inappropriate Content On A Site
+We collect the data in relation to subscribers to our newsletters from the subscribers themselves, who either input their data into a page on our website, or through a pop up on our website, or when they are given the option to subscribe when entering a competition.
 
-If you post or send offensive, inappropriate or objectionable content anywhere on or to the Site, or otherwise engage in any disruptive behaviour on the Site, we may use your personal information to stop such behaviour. Where we reasonably believe that you are or may be in breach of any of applicable laws (for example, but without limitation, content you have posted may be defamatory), we may use your personal information to inform relevant third parties such as your employer, school email/Internet provider or law enforcement agencies about the content and your behaviour.
+We collect data from Site visitors through cookies. Please see our [Cookies policy here](https://web.archive.org/who-we-are/cookie-policy/).
 
-8\. What If I Am A User Aged 16 or Under?
+We collect data from our newsletter subscribers in order to be able to email them newsletters they have subscribed to. We also send out newsletters, competitions, promotions and offers. We also collect data such as gender and date of birth (along with optional musical preferences) so that we can analyse and segment our database in order to develop marketing plans.
 
-If you are aged 16 or under, please get your parent/guardian's permission beforehand whenever you provide personal information to the Site. Users without this consent are not allowed to provide us with personal information. If we become aware that you are under 16 and are attempting to or have submitted personal information via the Site without your parent/guardian's permission, we will not accept such information and we will take steps to remove such information from our records. This may involve us having to access and verify your age and other relevant details.
+We collect data from the Site in order to monitor, develop and improve the Site and your experience using it and to understand customer trends and patterns.
 
-9\. Keeping Our Records Accurate
+We will only use your personal data as permitted by law.  We will use your personal data in either of the following circumstances:
 
-We aim to keep our information about you as accurate as possible, but we depend on our users to update their personal information whenever necessary.  You can inform us of a change in your details or unsubscribe from our mailing list by emailing us at [Note: check as above] or by writing to us at the address set out below. If you have another query relating to your information, please contact us as set out below.
+  1. Where we have your consent to do so.
+  2. Where we need to perform the contract we have entered into with you.
+  3. Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests. We are required to specify what the legitimate interests are (see below for further details). 
 
-10\. Limitation Of Liability
 
-The Site may contain links to other websites where information practices may be different to ours. For example, if you "click" on a link, the "click" may take you off the Site. Visitors should consult the other websites' privacy policies as we are not responsible for and have no control over information that is submitted to, or collected by, these third parties.
 
-We may sometimes offer content (e.g., competitions, sweepstakes, or promotions) sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that you voluntarily submit to participate in the website activity. We are not responsible for and have no control over these third parties' use of this information. However, we will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
+## Consent
 
-We may use a reputable third party to present or serve the advertisements that you may see at the Site. This Privacy Policy does not cover any use of information that a third-party ad server may have collected from you.
+You are asked to consent to the use of your personal data when you subscribe to our newsletter(s).   You may withdraw your consent for the use of your data for receiving the newsletter for these purposes at any time by following a clearly displayed link in the email [[and on our website, here](https://web.archive.org/chart-news/subscribe-to-the-official-charts-newsletter__19834/)] in which case all reasonable efforts will be made to erase your data from our systems.
 
-11\. Legal Disclaimer
+## What if I am a Site user aged 13 or under?
 
-We are not responsible nor will be liable to you in any way for events beyond our direct control. Because of the complex and constantly changing nature of our technology and business, we cannot guarantee nor do we represent that our performance will be error free, and to the maximum extent permitted by law we will not be liable for any direct, indirect, incidental, consequential or punitive damages or other loss suffered by you and relating to the use or release of your personal information.
+If you are aged 13 or under, you will need your parent/guardian's permission before you provide personal information to the Site. Users aged under 13 without parental/guardian consent are not allowed to provide us with personal information. If we become aware that you are under 13 and are attempting to submit or have submitted personal information via the Site without your parent/guardian's permission, we will not accept such information and we will promptly remove such information from our records.
 
-12\. How Long Will We Keep Your Personal Information?
+## Necessary for our legitimate interests or those of a third party
 
-We will hold your personal information on our systems for as long as is necessary for the relevant service, or as long as is set out in any relevant contract you hold with OCC. In the case that you wish to cancel your registration as a Site member, once an account is deleted, while people cannot use the personal information, it stays on the system for a period of one year for administration purposes before being deleted automatically.
+It is in our legitimate interests to use your personal information in such a way to ensure that we can continue providing the best content to you, through our newsletters, and on the Site, including through obtaining advertising support.
 
-Where you contribute to a Site, we will generally only keep your content for as long as is reasonably required for the purpose(s) for which it was submitted.
+It is in our legitimate interests to use contact information for suppliers/third parties in order to properly perform the business arrangements we have entered into with suppliers/third parties.
 
-13\. Can I Find Out What Personal Information We Hold About You?
+## ”Special categories” of personal data
 
-Under the Data Protection Act 1998 you have the right to request a copy of the personal information we hold about you and to have any inaccuracies corrected.  We charge £10 for information requests and will require you to prove your identity with 2 pieces of approved photographic identification. We will use reasonable efforts to supply, correct or delete personal information about you on our files.
+”Special categories” of personal data require higher levels of protection. We need to have further justification for collecting, storing and using this type of personal data. We may process special categories of personal data in limited circumstances with your explicit written consent.
 
-Please address requests and questions about this or any other question about this Privacy Policy to The Information Protection Officer, The Official UK Charts Company Limited, Riverside Building, County Hall, London, SE1 7JA.
+We ask newsletter subscribers to provide their gender when gathering their information. There is no obligation for subscribers to provide this. The legitimate interest we have for collecting this data is to be able to analyse and segment data about our subscriber list.
 
-14\. Accessing A Site Outside The UK
+You should be aware that it is not a condition of receiving the newsletter that you agree to any request for consent to use special category data from us. 
+
+You are also reminded of your right to withdraw your consent at any time, in any cases where your consent has been sought. We would then erase your data, unless we had another lawful basis for processing it.
+
+We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so, before we start using it for that unrelated purpose. Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is permitted by law.
+
+We may share your data with third parties, including third-party service providers and any sub-contractors of those service providers where required by law, or where we have a legitimate interest in doing so.
+
+We require third parties to respect the security of your data and to treat it in accordance with the law.
+
+We use a company called Campaign Monitor to manage our database of newsletter subscribers and send out newsletters on our behalf. Sometimes, Campaign Monitor stores data outside the EEA. Where it does so, we have ensured that it takes steps to ensure adequate security measures to protect your data. 
+
+## How secure is your information with third party service providers?
+
+All our third party service providers are required to take appropriate security measures to protect your personal data in line with our policies. We do not allow our third party service providers to use your personal data for their own purposes unless they are data controllers in their own right in relation to your personal data. Where they operate as our “data processors” (ie they process your personal data on our behalf and acting only on our instructions), we only permit them to process your personal data for specified purposes and in accordance with our instructions.
+
+## What about disclosure to other third parties?
+
+We may share your personal data with other third parties, for example to external legal or other professional advisers, or to otherwise comply with the law.
+
+## What safeguards are in place in relation to the transfer of your personal data outside of the EU?
+
+Other than in relation to Campaign Monitor, detailed above, neither we nor any of our third party suppliers envisage transferring your personal data outside the EU.  If the position changes, we will let you know and also let you know of the safeguards we will be putting in place to keep your personal data secure.
+
+We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.  Details of retention periods for different aspects of your personal data are available in our Records Management Policy which is available from the DPM.  To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+## Your duty to inform us of changes
+
+It is important that the personal data we hold about you is accurate and current. Please let us know of any changes.  We will update your records promptly upon being notified of such changes.
+
+## Your rights in connection with personal data
+
+Under certain circumstances, by law you have the right to:
+
+  * Request access to your personal data (commonly known as a “data subject access request”). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
+  * Request correction of the personal data that we hold about you. This enables you to have any incomplete or inaccurate information we hold about you corrected.
+  * Request erasure of your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have exercised your right to object to processing (see below).
+  * Object to processing of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground.
+  * Request the restriction of processing of your personal data. This enables you to ask us to suspend the processing of personal data about you, for example if you want us to establish its accuracy or the reason for processing it.
+  * Request the transfer of your personal data to another party.
+
+
+
+If you want to review, verify, correct or request erasure of your personal data, object to the processing of your personal data, or request that we transfer a copy of your personal data to another party, please contact the DPM in writing.
+
+## No fee usually required
+
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request for access is clearly unfounded or excessive.  Alternatively, we may refuse to comply with the request in such circumstances, as permitted by the GDPR.
+
+## What we may need from you
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access the information (or to exercise any of your other rights). This is another appropriate security measure to ensure that personal data is not disclosed to any person who has no right to receive it.
+
+## What are your rights to withdraw consent to processing?
+
+Where you may have provided your consent to the processing of your personal data for a specific purpose, you have the right to withdraw your consent for that specific processing at any time. To withdraw your consent, use our unsubscribe buttons, or contact the DPM. Once we have received notification that you have withdrawn your consent, we will no longer process your information for the purpose or purposes you originally agreed to, unless we have another legitimate basis for doing so in law.
+
+## Offensive or inappropriate content on the Site
+
+If you post or send offensive, inappropriate or objectionable content anywhere on or to the Site, or otherwise engage in any disruptive behaviour on the Site, we may use your personal information to stop such behaviour. Where we reasonably believe that you are or may be in breach of any of applicable laws (for example, but without limitation, content you have posted may be defamatory), we may use your personal information to inform law enforcement agencies about the content and your behaviour. We reserve the right to prevent you from accessing some of the Site services if you display such behaviour.
+
+The Site may contain links to other websites where information practices may be different to ours. For example, if you click on a link, this may take you off the Site. Visitors should consult the privacy policies of the websites they are taken to for further details, as we are not responsible for and have no control over information that is submitted to, or collected by, these third parties.
+
+We use a provider called Disqus to provide a "comment" facility on our Site. In order to comment on our Site, you will need a Disqus account which will be subject to Disqus terms, and Disqus will control any data they take from you through that account.
+
+We may sometimes offer content (e.g., competitions, sweepstakes, or promotions) sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that you voluntarily submit to participate in the website activity. We are not responsible for and have no control over these third parties' use of this information.
 
 The Site is published in the UK by OCC. All personal information submitted by you to the Site will be processed in accordance with this Privacy Policy (and any local terms that apply on the Site) unless terms on the Site specify otherwise.
 
-15\. Updates
+Our site uses Cookies. Read our Cookie policy [here.](https://web.archive.org/who-we-are/cookie-policy/)
+
+## About our advertising
+
+We may use third parties to present or serve the advertisements that you may see at the Site. In addition, our Site may contain links to other websites from which we may earn revenue, and we, or the third parties advertising on the Site, may also use online behavioural advertising. As you browse our sites, some of the cookies ([see our Cookie policy here](https://web.archive.org/who-we-are/cookie-policy/)) placed on your computer may be advertising cookies, some of which may help advertisers understand what sort of pages you are interested in. They may then be used to show you advertisements you are more likely to be interested in based on your historic preferences.
+
+It is important to remember that none of this advertising will collect information such as your name, email address, postal address or phone number.
+
+The third parties who populate the advertising space on our Site may collect (without limitation):
+
+  * IP Address
+  * Device information such as make and model
+  * Geolocation
+  * ISP and Browser information
+  * Search history
+  * SDKs
+  * Advertising on mobile devices may require the collection and sharing of the unique device ID with companies who purchase advertising space on the mobile application, and may include use of mobile ad identifiers for interest-based or cross-app advertising and analytics.
+
+
+
+These third parties are separate data controllers in their own right, and you should refer to their terms in order to understand which of your data is processed by them, and your rights in relation to it. The third parties currently used to populate the advertising spaces are:
+
+[Unruly Limited](https://unruly.co/privacy/), Rubicon Project, Inc., AdSense, InSkin Media, Collective UK, Sovrn Holdings, Inc., Sublime Skinz, Taboola, Ligatus, Nielsen, Disqus, Apester, Whenever Media and YOC.
+
+It is possible to opt out of providing personal information to advertisers, for example, using an industry wide opt out such as <http://aboutads.info/choices>. Please note that if you do so, this does not mean that you will no longer receive advertising when you are using our Site. It will just mean that the advertising you see will not be customised for you, and that the advertiser should not collect any of your personal data. 
+
+Because these third parties are independent controllers of your data, we do not consider that the OCC is obliged to have a lawful basis for any processing that occurs in relation to this advertising. It is noted, however, that the OCC has a legitimate interest in obtaining the revenue that advertising creates in order to be able to supply the content on the Site.
+
+Our Site has security installed to ensure that any personal data entered onto the Site is protected against loss, misuse or alteration. However, due to the nature of the Internet, we can't guarantee the protection of your personal information and we can't be responsible for any outcomes resulting from a breach of security when the Site is used. We're confident in our security, and it is always a top priority to ensure we do not get any problems.
+
+We have put in place measures to protect the security of your information. Details of these measures are available upon request but in brief, we secure the storage of your data on our servers, and restrict access to only those employees, agents, contractors and other third parties who have a business need to know. We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed.
+
+We have put in place procedures to deal with any suspected data security breach and will notify you and any applicable regulator of a suspected breach where we are legally required to do so.
 
 We reserve the right, from time to time, and at our sole discretion, to change or update this Privacy Policy.
 
 All changes to this Privacy Policy will be published on this page and on the applicable Site(s). Upon publication, each change will become effective and you will be deemed to be aware of and bound by it. You should therefore review this Privacy Policy regularly to ensure that you are up-to-date with the current terms of the Privacy Policy.
 
-16\. Cookies
+If you have any questions about this privacy notice, please contact the DPM.
 
-Read our cookie policy here.
+Firstly we would urge you to contact the DPM in writing so that we can try to resolve your complaint to your satisfaction.  If you are not satisfied with the DPM’s response, you may contact the Information Commissioner’s Office (“ICO”) on 0303 123 1113.
 
-17\. Security
-
-Our Site has security installed to ensure that any personal data entered onto the Site is protected against loss, misuse or alteration. However, due to the nature of the Internet, we can't guarantee the protection of your personal information and we can't be responsible for any outcomes resulting from a breach of security when the Site is used. We're confident in our security, and it is always a top priority to ensure we do not get any problems.
-
-18\. Your Acceptance Of These Terms
-
-By using the Site, you consent to the collection and use of this information by OCC and to this Privacy Policy.
-
-19\. Contacting Us And Cancellation Of Registration
-
-If you have any questions or comments about this Privacy Policy or would like to cancel your registration to a Site at any time, please contact:
-
-The Information Protection Officer  
-The Official UK Charts Company Limited  
-Riverside Building, County Hall  
-London, SE1 7JA
+You are free to contact the ICO at any time.  However, the DPM may be able to answer your concerns or questions more quickly. 
 
   
-This Privacy Policy was last updated on 1st January 2012.
+This Privacy Policy was last updated on May 22 2018.
