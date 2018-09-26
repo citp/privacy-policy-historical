@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poundland.co.uk privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620033854id_/http%3A//www.poundland.co.uk/legal/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poundland.co.uk privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926152328id_/http%3A//www.poundland.co.uk/legal/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | Poundland
 
@@ -16,9 +16,7 @@ You may give us information about you by filling in forms on our website,  (�
 **Newsletter Sign Up Form:**
 
   * first name
-  * last name
   * email address
-  * postcode
 
 
 
@@ -48,7 +46,7 @@ If you contact us in writing, we may keep a record of that correspondence. When 
 
 **2\. Information we collect about you**
 
-With regard to each of your visits to Our Website we may automatically collect the following information:
+(a) With regard to each of your visits to Our Website we may automatically collect the following information:
 
   * Technical information, including the Internet protocol (IP) address used to connect your computer to the internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;
   * Information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from Our Website (including date and time); products you viewed or searched for, the resources on Our Website you accessed, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any telephone number used to call our customer relations number.
@@ -56,6 +54,8 @@ With regard to each of your visits to Our Website we may automatically collect t
 
 
 We use and share data for evaluation purposes. This includes assessing its suitability for a particular purpose and, for example, deciding whether or not it would be useful to us as part of a product or service. Sometimes it may be necessary to share data with a third party in order for them to be able to match it to data that they hold and return additional data to us.
+
+(b) We use CCTV in Poundland stores in the United Kingdom to record images of customers, staff and other visitors to store.
 
 **3\. What our legal grounds for handling personal data are**
 
@@ -65,7 +65,15 @@ This section explains the legal basis on which we process personal data.
 
 The UK’s data protection law allows the use of personal data where necessary for legitimate purposes provided that this isn’t outweighed by the impact it has on the relevant individuals. The law calls this the “legitimate interests” condition for processing personal data.
 
-Most of our processing activities are based on the legitimate interests condition. This includes almost all of our credit referencing and data marketing services. For more details about the legitimate interests we are pursuing, please refer to the relevant privacy notices (see links above).
+Most of our processing activities are based on the legitimate interests condition. This includes almost all of our store CCTV, credit referencing and data marketing services. When the use of your personal data is based on our “legitimate interests”, these are:
+
+  * to support our customers’ needs, including helping with enquiries;
+  * to understand our customers including their patterns, behaviours as well as their likes and dislikes;
+  * to protect and support our business, our staff, customers, suppliers and visitors;
+  * to prevent and detect anti-social behaviour, fraud and other crime;
+  * to test and develop new products and services as well as improve existing ones.
+
+
 
 **Consent**
 
@@ -123,6 +131,14 @@ We will use this information:
 
 
 
+The purposes of the store CCTV systems are:
+
+  * to Prevent and detect crime – e.g. vandalism, fraud;
+  * to protect the health and safety of customers, staff and visitors;
+  * to assist the police to prosecute or alternatively to pursue any offenders through the civil justice system.
+
+
+
 **Information we receive from other sources**
 
 We may combine this information with information you give us and information we collect about you. We may use this information and the combined information for the purposes set out above (depending on the types of information we receive).
@@ -148,7 +164,7 @@ We may provide personal data to third parties who help us use it for the purpose
   * We use third party email broadcasting services in order to send emails or SMS messages.
   * We use payment service providers in relation to any payments made by individuals.
   * We sometimes use market research companies to help us better understand our customers.
-  * Our CCTV system is operated by specialist sub-contractors
+  * Our CCTV system is operated by trained Poundland staff and the systems are maintained by a specialist company.
 
 
 
@@ -170,7 +186,7 @@ We are based in the United Kingdom, and will access and use personal data from h
 
 **Elsewhere**
 
-We also send information elsewhere in the world. F-or example, where we use cloud-based technology or a data centre or backup facility overseas. People in other countries may also need to access that database for purposes such as technical support or system development and testing.
+We also send information elsewhere in the world. For example, where we use cloud-based technology or a data centre or backup facility overseas. People in other countries may also need to access that database for purposes such as technical support or system development and testing.
 
 While countries within the European Union all ensure a high standard of data protection law, some parts of the world may not provide the same level of legal protection in relation to personal data. As a result, when we do send personal data overseas, we will make sure that suitable safeguards are in place to protect the information. For example, these safeguards might include:
 
@@ -181,7 +197,7 @@ While countries within the European Union all ensure a high standard of data pro
 
 **9\. How long the personal data is kept for**
 
-We keep personal data only for as long as is necessary for the purposes for which it is held. You will need to contact us (see section 1) or refer to the privacy notices for our specific activities in order to find out exactly how long the data is kept for.
+We keep personal data only for as long as is necessary for the purposes for which it is held. You will need to contact us or refer to the privacy notices for our specific activities in order to find out exactly how long the data is kept for.
 
 **10\. Whether the personal data is used to make automated decisions or to profile people**
 
