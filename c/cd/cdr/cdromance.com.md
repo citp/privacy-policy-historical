@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cdromance.com privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504082823id_/https%3A//cdromance.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdromance.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926065609id_/https%3A//cdromance.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Cdromance
+# Privacy Policy | Cdromance
 
 **What personal information do we collect from the people that visit our blog, website or app?**
 
