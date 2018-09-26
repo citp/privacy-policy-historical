@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fnp.in privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215035056id_/https%3A//www.fnp.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fnp.in privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926132517id_/https%3A//www.fnp.com/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Information - Ferns N Petals
+# None
 
 ###### Privacy Policy
 
@@ -24,7 +24,7 @@ If you send us personal correspondence, such as emails or letters, or if other u
 
 We collect personally identifiable information (email address, name, phone number, etc.) from you when you set up an account with us. While you can browse some sections of our Website without being a registered member, certain activities (such as placing an order) do require registration. We do use your contact information to send you offers based on your previous orders and your interests.
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or delete by emailing our Customer Support at [support@fnp.com](mailto:support@fnp.com)
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or disable your account by emailing our Customer Support at [support@fnp.com](mailto:support@fnp.com)
 
 ###### Communications from the Site
 
@@ -82,6 +82,5 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 In accordance with Information Technology Act 2000 and rules made there under, the name and contact details of the Grievance Officer are provided below:
 
-Name - Mr. Rahul Kapoor  
-Contact No.[+91 - 9711901466](https://web.archive.org/web/20170215035056id_/https%3A//www.fnp.com/info/+91%20-%209711901466)  
-Email Id - [rahul.kapoor@fnp.com](https://web.archive.org/web/20170215035056id_/https%3A//www.fnp.com/info/rahul.kapoor@fnp.com)
+Name - Mr. Umakant Bhardwaj  
+Email Id - [umakant.bharadwaj@fnp.com](mailto:umakant.bharadwaj@fnp.com)
