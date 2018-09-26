@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalmemo.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614095944id_/http%3A//www.nationalmemo.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalmemo.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926133050id_/http%3A//www.nationalmemo.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - The National Memo - Smart. Sharp. Funny. Fearless.
 
