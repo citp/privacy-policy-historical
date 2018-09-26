@@ -1,49 +1,133 @@
-> *The following text is extracted and transformed from the longislandfirearms.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618044504id_/http%3A//www.longislandfirearms.com/cart/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longislandfirearms.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926201204id_/http%3A//www.secondmedia.com/site-privacy-policy/index.php%3Fsite%3Dlongislandfirearms.com) for the most accurate reproduction.*
 
-# Privacy Notice : LIF Store, The Official Store
+# 
 
-This is the web site of Long Island Firearms, LLC Please also read our Terms of Use
+**Privacy Policy**  
+Last updated: May 15, 2018 
 
-This Privacy Policy governs only the privacy practices related to the personal information collected through the Long Island Firearms website (sometimes this “Site”). 
+This Privacy Policy describes how Second Media (' **Second Media** ', ' **we** ', ' **us** ' or ' **our** ') collects personal information in connection with our websites and mobile or other applications on which this Privacy Policy is posted or linked to (collectively, the ' **Site** '), and how this information may be used, shared and safeguarded. Personal information is information about you as an identifiable Site visitor.
 
-_Security and Privacy:_
+By visiting our Site or otherwise providing us with personal information, you agree that we may collect, use and share your personal information as described in this Privacy Policy. If you do not agree, please do not visit our Site or provide us with any personal information. We may at any time and at our sole discretion update this Privacy Policy by posting the updated Privacy Policy here along with the date on which the Privacy Policy was changed. Any changes will be effective immediately upon the posting of or linking to the revised Privacy Policy on our Site. 
 
-We realize that making purchases at lifstore.com/longislandfirearms.com, or any other web site, requires trust on your part. We value your trust very highly, and pledge to you, our customer, that we will work to protect the security and privacy of any personal information you provide to us and that your personal information will only be used as set forth in our Terms of Use and this Privacy Policy. This includes your name, address, phone number, e-mail address, and credit card or checking account information, in addition to any other personal information that can be linked to you, personally. We believe that you have a right to know, before shopping at Lifstore.com/longislandfirearms.com or at any other time, exactly what information we might collect from you, why we collect it and how we use it. We do not and will not sell or rent your personal information to anyone. You have the right to control your personal information as you see fit. If you have an account at Lifstore.com/longislandfirearms.com and you want to change, modify or delete any of your personal information, you can do so anytime by going to My Account. Log in with your e-mail address and password, then click the appropriate category listing to edit or delete whatever personal information you wish. While your information may be deleted from “My Account” or similar, it will remain on Long Island Firearm’s Global server for archival or historical purposes. For your protection, we don’t retain financial information and don’t maintain credit care or checking account information beyond the needs of your particular shopping transaction, so there is no information of that sort in your account for you to change. Lifstore.com/longislandfirearms.com may provide links to certain third party websites. This Privacy Policy applies only to activities conducted and personal information collected on this Site. Other websites may have their own policies regarding privacy and security. Subject to our policy on cookies as stated in this Privacy Policy, Lifstore.com/longislandfirearms.com will obtain your consent before allowing the download of any software from Lifstore.com/longislandfirearms.com, and Lifstore.com/longislandfirearms.com will not automatically download any software to your computer system. Once you consent to the initial download of any software, you may receive automatic updates or patches pertaining to such software. You understand and agree that any material, including but not limited to, downloaded software, required or automated updates, modifications, reinstallations or software otherwise obtained through the use of Lifstore.com/longislandfirearms.com is done at your own discretion and risk, and that you will be solely responsible for any damages to your computer system or loss of data that may result from any such material.
+**QUICK LINKS**
 
-For each visitor to our Web page, our Web server automatically recognizes the consumer’s domain name, if any, and collects the date and time of visit, the client IP address, and referring site.
+Click on one of the links below to jump to the listed section:
 
-We collect the information above, as well as e-mail addresses visitors to our Web page choose to give us, the e-mail addresses of those who communicate with us via e-mail, and information volunteered by the consumer, such as survey information and/or site registrations, and purchase history. In addition, we receive and may store any information you enter on this Site or give to this Site in any other way. 
+  1. Information we collect
+  2. How we use the information we collect
+  3. Cookies, tracking technologies and interest-based advertising
+  4. How we share your personal information
+  5. How we store and protect your personal information
+  6. Links to external content
+  7. Children
+  8. Accessing and correcting your personal information
+  9. Your choices
+  10. How to contact us
 
-_Information from Other Sources_
 
-We may receive information about you from other sources. This may help improve the personalization of our service to you by providing better product recommendations or special offers that we think will interest you.
 
-This section describes when and with whom we share your personal information. We never sell or rent your personal information to any third parties under any circumstances. We will share personal customer information and/or purchase history with a Long Island Firearms, LLC. affiliated entity including any division, subsidiary or affiliate
+## **1\. Information we collect**
 
-When contacting consumers for informational, marketing and for commercial purposes, Long Island Firearms, like many organizations, may utilize third party service providers for some routine services such as promotional mailings. In such cases, Long Island Firearms provides only the information necessary to ensure the service is delivered and requires that the service provider sign a non-disclosure agreement agreeing to keep the customer’s information confidential and secure and limiting its use to the purpose for which it was disclosed. After the service provider has completed the service, the service provider must either destroy the information or return it to Long Island Firearms.
+In general, you may visit our Site without providing any personal information. However, in order to use certain features of our Site, we may need to collect your personal information. For example:
 
-Aside from the purposes described above, we will never share your personal information with any other third parties unless you expressly authorize such disclosure or we have your express permission or under special circumstances, such as when we believe in good faith that the disclosure is required to prevent harm or injury, or a perceived physical threat to any individual (such as product recalls, fraud, claims or other liability) or is required by law, or to comply with valid legal processes (subpoenas, warrants, or in response to a request from local, state or federal law enforcement officials) as required by law. We may share aggregated demographic and statistical information with our partners. This is not linked to any personal information that can identify any individual person.
+  * We collect your username, email address or telephone number, and password when you create an account or public user profile. For some Sites you may be required to provide additional information such as your date of birth or the type of vehicle you own. We collect additional information that you choose to add to your account or public user profile, such as a profile picture or information about your hobbies and interests. 
+  * We collect your name, contact information and payment card information when you purchase a product or service through our Site (such as a subscription or classified advertisement). 
+  * If you use a social media account to create an account on our Site, to log-in to our Site, or if you otherwise interact with a social media service through our Site (such as by using a plug-in), we will receive personal information from the social media service, such as your username, email address, gender, public profile information and any other information that you have agreed to share with us, whether explicitly or through your privacy settings.
+  * Our Site may offer public forums or communication platforms that allow you to communicate with other users, post information, content, images, photos or videos, post your opinions on surveys, or submit reviews or ratings (collectively, your 'Content'). Your Content will be associated with your public user profile. Your Content and public user profile is public, unencrypted and non-confidential. This means that it can be read and used by others, including advertisers. We are not responsible for the information you choose to submit in these public areas. You should exercise caution when deciding to disclose personal information in public areas of our Site.
+  * We collect geographical location information if the Site you are using is location-enabled and your device transmits location data and/or your IP address, so we can provide location-specific information to you.
+  * We may collect personal information when you participate in a survey, poll, contest or promotion, such as your name and contact information and responses to survey or poll questions or the information you provide on a contest entry form.
+  * We may collect other personal information with your consent or where required or permitted by law.
 
-If we merge with another business entity or substantially all of its assets related to the products or services that you receive from us are acquired by another business entity, it is likely that customer information will be one of the assets transferred to the other business entity. In the event of such a merger or acquisition, we reserve the right to disclose your personal information to the other business entity pursuant to the terms of this Privacy Policy.
 
-We do not knowingly collect, maintain or use personally identifiable information submitted to the site by children under 13 years of age. If we become aware that a child under 13 years of age has submitted personally identifiable information to the site, we will not use that information and will immediately delete the information from its records.
 
-Additionally, we do use cookies, which are small text files that are stored on your computer to gather and keep track of information and help us review traffic patterns and improve the site, and to facilitate your online shopping and purchasing experience. We use cookies to record ProCard user-specific information on the pages those users may access or visit. Although many browsers are set to accept cookies, you can set your browser to reject cookies, but this may prevent you from using some of the features of the site.
+We, our service providers and third-party advertising partners also collect information about Site visitors automatically using cookies and other tracking technologies. See Cookies, tracking technologies and interest-based advertising below.
 
-If you do not want to receive e-mail from us in the future, please let us know by calling Customer Service at (631) 274-1340. Requests to remove your e-mail address for our lists may take up to two weeks to fulfill. If you supply us with your postal address on-line, you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by e-mailing us at the above address or writing to us at the above address. Requests to remove your postal address from our mailing lists may take up to six weeks to fulfill. If you receive postal mail from us during this six-week period, please disregard the mail.
+## **2\. How we use the information we collect**
 
-Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address or writing to us at the above address.
+We generally use the personal information we collect to provide the product, service, feature or information you have requested and for our reasonable business purposes, including: 
 
-From time to time, we may use customer information for unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, please check back at our Web site periodically.
+  * to manage our Site and provide our services, such as to create and administer accounts and facilitate the use and enjoyment of forums and communication platforms;
+  * to enable geographic-specific features, such as geographic-specific pricing and information;
+  * to process payments;
+  * to notify you of changes to your account or our Site's services, terms, conditions or policies and to provide you with administrative messages, updates, legal notices, technical notices or security alerts;
+  * to customize your user experience, including by tailoring the advertisements that are displayed to you to make them more useful and relevant to you;
+  * to conduct research and development, analyze and understand trends and user behaviour and to improve our Sites, products and services;
+  * to respond to your inquiries and provide you with technical and other support;
+  * to ensure compliance with our Terms of Use and prevent fraud;
+  * to provide you with newsletters, information, promotional offers and other advertising about us or our advertising partners;
+  * to facilitate your participation in a contest or similar promotion, or a survey or poll;
+  * to meet contractual obligations; and
+  * for other purposes with your consent or as permitted or required by law.
 
-Upon a reasonable request we will provide site visitors with access to information that we maintain about them. Consumers can request this information by writing to us at the above address. Upon a reasonable request we offer visitors the ability to have inaccuracies corrected in contact information. Consumers can have this information corrected by sending us e-mail at the above address or writing to us at the above address.
 
-With respect to security: We have appropriate physical, electronic and procedural security safeguards to protect and secure the information we collect.
 
- _Secure Sockets Layering (SSL)_
+## **3\. Cookies, tracking technologies and interest-based advertising**
 
-Our website uses Secure Sockets Layering (SSL) to encrypt your personal credit information, including your credit card number, before it travels over the Internet. SSL technology is the industry standard for secure online transactions. Because we use SSL, placing an order online at our website is just as safe as giving your credit card number over the phone.
+We, our service providers and third party advertising partners use technologies that automatically collect information about Site visitors.
 
-If you have any questions or concerns about this Privacy Policy, please contact us at the above addresses or phone number.
+We automatically collect information about how you access, navigate and leave our Site, including the website you came from before visiting our Site, what browser type and operating system you are using, the internet protocol (IP) address you are accessing the Site from, your mobile device ID or Advertising ID if you visit our Site from a mobile device, the pages of our Site that you are navigating through, the date and time of your visit, how long you spend on our Site or certain pages of our Site, and what website you go to after visiting our Site. This information may be used to determine how many visitors visit our Site or certain areas of our Site, how long they remain on our Site, whether they use the hyperlinks we provide or respond to advertising and to tailor our advertisements to you. We may share this information with partners who referred you to our Site, and with advertising partners, who may use the information to optimize the traffic they send to us and for delivering targeted ads to you when you visit other websites.
 
-© 2010 Long Island Firearms, LLC.
+We, our service providers and third-party advertising partners collect information about Site visitors using cookies and other tracking technologies (including browser cookies, pixels and Adobe Flash). We use these technologies to remember your preferences and facilitate your navigation of our Site. We and our service providers and third-party advertising partners also use these technologies to track your activities on our Site and other websites, including the websites and web pages that you visited, the ads or content that you clicked on and the search terms you used, in order to deliver tailored advertising to you. We may also share a hashed or encrypted version of your email address or telephone number with advertising partners so that you may be served with tailored advertising on our websites or other third party websites. These advertising partners are not permitted to use your hashed or encrypted email address for any other purpose. 
+
+If you would prefer not to accept cookies, most browsers will allow you to: (i) change your browser settings to notify you when you receive a cookie, which lets you choose whether or not to accept it; (ii) disable existing cookies; or (iii) set your browser to automatically reject any cookies. You may also set your e-mail options to prevent the automatic downloading of images that may contain technologies that would allow us to know whether you have accessed our e-mail and performed certain functions with it. If you don't want us to share your hashed or encrypted email address with advertising partners, simply opt-out of our promotional communications. See Your Choices below. 
+
+At this time, we do not respond to browser 'do not track' signals. However, you may also opt-out of network advertising programs that track your activities across multiple websites to deliver personalized advertising content to you. Please visit [Digital Advertising Alliance of Canada Opt-Out Page](http://youradchoices.ca/understanding-online-advertising), [NAI Opt-Out Page](http://www.networkadvertising.org/choices/%5d%20) and the [Ad Choices Opt-Out Page](http://www.aboutads.info/choices). 
+
+We use Google Analytics to help us understand how our Site visitors use the Site, and as well as certain features of Google Analytics Display Advertising to advertise online, sell advertising and to develop content. You can opt out of Google Analytics and customize Google's Display Network ads. Please visit [Google's Ad Settings](https://www.google.ca/settings/ads?hl=en-GB&sig=ACi0TChcn38hjfs81vhis-lHPEFutHa4wTjKTTYLde8Te7kFkjhssvxJtvPzARFnl4zsrUvJxBZzttCNq7h0T4bGaa6vdJatyTG0psR5BwGgwEWTWOFuy0c2qoyWC-TPCVzunZHSxtpy7V1KLCOI7EoBsf0HKnoA1J8cmI3FZz_-cuwNnYOHY5MyPD4bpjoQiiq_2M8f0pr-) and [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout). Please visit [How Google uses data when you use our partners' sites or apps](https://policies.google.com/privacy/partners) for a description of how Google uses information sent by our browser and for ways you can control the information sent to Google. 
+
+## **4\. How we share your information**
+
+We may share information we collect about you in the following circumstances.
+
+**Advertising partners**  
+We share information with our third-party advertising partners as described in the Cookies, tracking technologies and interest-based advertising section above.
+
+**Service Providers**  
+We may use service providers (including affiliates acting in this capacity) to provide services to us or to you on our behalf. For example, our service providers may host our Site, analyze data collected from our Site, provide customer service on our behalf, administer our promotions, facilitate and process transactions and payments, provide marketing or promotional assistance, distribute emails and other communications, post our advertisements (including online through targeted advertising campaigns), and collect your feedback on our Site and advertisements. We share your personal information with our service providers solely for the purposes of providing services to you and to us. They are not permitted to use your personal information for other purposes. Some of our service providers are located outside of Canada, including in the United States. While your personal information is located outside Canada it will be subject to legal requirements applicable to our service providers, for example, lawful requirements to disclose personal information to national security agencies or government authorities in certain circumstances. 
+
+**Aggregate or de-identified information**  
+We may use your personal information to create aggregate statistics and de-identified data. We may use, share and sell this information for any purpose.
+
+**With your consent**  
+We may share your personal information with third parties with your consent. For example, if you provide us with your contact information, such as an e-mail address, for the purposes of signing up for information, newsletters, contests, or marketing offers from a third party, or for receiving business offers or service quotes from a third party, we may share your personal information for that purpose. Once shared, your personal information will be subject to the privacy policy of that third party.
+
+**Business Transactions**  
+We may disclose personal information to third parties in connection with the proposed or actual financing, securitization, insuring, sale, assignment or other disposal of all or part of Second Media or our business or assets. These third parties may use the information, for the purposes of evaluating and/or completing the proposed transaction. We will use reasonable efforts to ensure that our successors or assigns process the information we transfer to them in a manner that is consistent with this Privacy Policy. 
+
+**Other**  
+We may disclose your personal information in other circumstances where permitted or required by law or other legal process. For example, we may disclose your personal information: (a) to collect a debt owed to us; (b) as necessary to comply with a subpoena, warrant, court order or other legal process; (c) if disclosure is requested by an investigatory body, law enforcement official or governmental authority which has lawful authority to request the disclosure of the information in respect of an investigation or other legal process; or (d) if we have reasonable grounds to believe that the information relates to a breach of an agreement or contravention of a law, or to protect the personal safety of our users or defend our rights or property.
+
+## **5\. How we store and protect personal information**
+
+Personal information is maintained on our servers (or those of our service providers). In an effort to protect your personal information against unauthorized access or disclosure. For example, accounts you create on our Sites are password protected. In identified parts of our Sites, we use SSL-encryption to protect data transmissions. We limit access to personal information to employees, representatives and service providers who require access in connection with their job responsibilities. Please note it is not possible to transmit data with absolute security over the internet, and we cannot and do not guarantee the security of your personal information.
+
+## **6\. Links to external content**
+
+Our Site may link or direct you to other websites, services or external content provided by third parties. We do not exercise any control over these third-party websites or services. We are not responsible for the privacy practices of such third-party websites or services. We recommend that you read the privacy policy for any third-party website that you visit or service that you use. 
+
+## **7\. Children**
+
+Our Sites are not directed to and we do not knowingly request or collect personal information from children - persons under 13 years of age, or another age if required by applicable law - without prior verifiable parental consent. If we become aware that we have unknowingly collected personal information about a child without verifiable parental consent, we will delete this information from our records or, if that is not reasonable, we will take reasonable available steps to de-identify the information. 
+
+## **8\. Accessing or correcting your personal information**
+
+We encourage you to keep your personal information accurate and up to date. You can access and correct the information in your account or public user profile by logging in to your account or profile and making the necessary edits.  
+You can request access to or correction of your personal information in our custody or control by contacting us as set out below. We may take reasonable steps to authenticate your identity before providing you with access to your personal information or making corrections. Please also note that in some cases we may not be able to provide you with the personal information you have requested (for example, if the information is subject to solicitor-client privilege or contains personal information of others that cannot be severed). 
+
+## **9\. Your Choices**
+
+You may opt out of receiving promotional communications from us at any time by following the unsubscribe instructions included in each communication and/or by selecting your communication preferences in an account or profile.
+
+You may be able to control the information we received from your device or from third parties (such as social media networks) by changing your device settings, browser settings or privacy settings.  
+You may withdraw your consent to our collection, use or disclosure of your personal information, subject to contractual or legal restrictions and reasonable notice. However, if you withdraw your consent to certain collections, uses or disclosures of your personal information, we may not be able to provide you with certain products or services. 
+
+## **10\. How to contact us**
+
+If you have any questions or comments about this Privacy Policy, please contact us at:
+
+privacy@secondmedia.com 
+
+Privacy Officer  
+332 S Michigan Ave, Suite 8029  
+TChicago, IL 60604, USA  
+
