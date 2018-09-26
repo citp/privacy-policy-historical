@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoocasa.com privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128183233id_/https%3A//www.zoocasa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoocasa.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926191617id_/https%3A//www.zoocasa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Zoocasa
 
