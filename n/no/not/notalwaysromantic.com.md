@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notalwaysromantic.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627031003id_/https%3A//notalwaysright.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notalwaysromantic.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926130803id_/https%3A//notalwaysright.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Funny Quotes & True Stories
 
