@@ -1,119 +1,222 @@
-> *The following text is extracted and transformed from the outofmilk.com privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121105118id_/https%3A//www.outofmilk.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outofmilk.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927012459id_/https%3A//www.outofmilk.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Out of Milk - Privacy
 
-#### Last Updated : May 31, 2016
+We are very pleased about your interest in OOM. In order to offer OOM, we need some information about you. We take the protection of personal data very seriously and handle these cases in compliance with applicable data protection regulations, in particular the EU Data Protection Regulation. This privacy policy provides you with full information about the nature, scope and purpose of we process personal data and your rights as a data subject.
 
-This privacy policy (this “ **Policy** ”) describes the collection of personal information by Bonial International GmbH, a Delaware corporation (“ **Bonial International GmbH** ,” “ **we** ,” or “ **us** ”) from users of our website at www.bonial.com and www.outofmilk.com (collectively, the “ **Website** ”), as well as all related applications, widgets, software, tools, and other services provided by us and on which a link to this Policy is displayed (collectively, together with the Website, our “ **Service** ”). This Policy also describes our use and disclosure of such information. By using our Service, you consent to the collection, use, and disclosure of personal information in accordance with this Policy. This Policy is incorporated by reference into the Bonial International GmbH Terms of Use **<http://www.outofmilk.com/Terms.aspx>** and End User License Agreement **<http://www.outofmilk.com/EULA.aspx>** for the mobile-device, software applications that we may provide as part of the Service (“ **Apps** ”).
+* ## Data controller and general information
 
-#### Personal Information
+Data are processed by the Bonial International GmbH (“ **we** ” or “ **us** ”)   
+represented by CEO Maximilian Biller   
+Hussitenstraße 32-33   
+13355 Berlin   
+Email: [datenschutz@bonial.de](mailto:datenschutz@bonial.de)
 
-“ **Personal Information** ,” as used in this Policy, is information that specifically identifies an individual, such as an individual's name, address, telephone number, or email address. 
+as service provider in the sense of the German Telemedia Act (TMG) and data controller in terms of the Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (Data Protection Regulation, “GDPR”). The term "OOM" in this document means www.outofmilk.com and the various apps OOM, each including all available services, contents and functionalities. Specific parts of OOM are hereinafter referred to as "online services".
 
-Personal Information does not include “aggregate” or other non-personally identifiable information. Aggregate information is information that we collect about a group or category of products, services, or users that is not personally identifiable or from which individual identities are removed.
+Our services are intended for adult consumers and not for children. We do not knowingly collect personal data of users that are children in accordance with the national legislation.
 
-#### Collection of Information
+* ## Collection and processing of personal data
 
-**Information You Provide**
+In general, you can use online services for which no payment or registration is required, without providing personal information. In certain cases, we process the below listed personal data. This is done in principle only to the extent necessary to provide a functioning website or app and our content and services. In addition, we process personal data related to the use of OOM if you provide it voluntarily, e.g. as part of a registration, a request to us, a job application or in the completion of a subscription, or because a different legal basis exists (see paragraph 4). If you do not want your data processed as described, you can not use our services or do not take full advantage of.
 
-We collect information that our users provide to us in a variety of ways on our Service. These include the following:
+* ## Categories of data processed
 
-1\. **User Accounts:** Our Service may give you the ability to register for a Bonial International GmbH account or to create an account on the applicable Service. If we offer user account functionality on the Service, we will collect the Personal Information that you provide to us in the course of registering for an account or updating your account. This information may include, for example, name, email address, zip code, country, and related demographic information about you. We may indicate that some Personal Information is required for you to register for the account, while some may be optional.
+Once you use OOM, our system automatically collects information from the computer system of the calling computer. The following data are collected among others:
 
-2\. **List Information.** When you use our Service, we collect information about the lists you create and the content you include on these lists.
+  * user's browser type, language and version
+  * user's operating system
+  * the IP address of the user’s device
+  * date and time (time zone)
+  * access status / http status code
+  * websites from which the system of the user on our website reaches
+  * websites and events that are requested by the user's system via our website (e.g. certain offers, supermarkets, regions)
+  * search requests by the user and search results
+  * location region of the user (to the extend enabled by user)
+  * login of the user (if used)
+  * volume data transmitted
+  * web analytics data and pseudonymous user profiles (IDs)
+  * errors, technical malfunctions
 
-3\. **Purchase Information, Product Scans, and Surveys.** When you use our Service, we collect information about purchases and product scans you make and surveys you fill out.
 
-4\. **Email Newsletters:** We may offer email newsletters from time to time on our Service. If you sign up to receive a newsletter from us, we collect your email address.
 
-5\. **Integrated Services:** You may be given the option to access or register for the Service through the use of your user names and passwords for certain services provided by third parties (each an “ **Integrated Service** ”), such as through the use of your Facebook credentials through Facebook Connect or your Google credentials through Google+. By doing this, you authorize us to access and store the credentials you provide, such as your name, email address(es), age range, gender, country, profile picture, language, friend list and other information that the Integrated Service makes available to us, and to use and disclose it in accordance with this Policy. You should check your Integrated Service privacy settings to understand and change the information sent to us through the Integrated Service. Please review each Integrated Services terms and privacy policies carefully before using their services and connecting to our Service.
+Furthermore, we process the following personal data in case of a contractual relationship between you and us or you have the data transmitted to us otherwise e. g. login, newsletter or contact form.
 
-6\. **Correspondence:** If you contact us by email, using a contact form on the Service, or by mail, fax, or other means, we collect the information contained within, and associated with, your correspondence.
+We store the data in our log files. If an error occurs at an interface query, we also log the ID (pseudonymous identification), the IP address and the relevant HTTP request and, if used, the email of requesting user to enable subsequent error analysis and correction.
 
-7\. **Interactive Features:** Our Service may contain interactive functionality that allows you to engage with other users on the Service, share your lists and other content (the “ **User Materials** ”), participate in surveys, and otherwise to interact with the Service and with other users. If you use any interactive functionality on our Service that requests or permits you to provide us with Personal Information (including, for example, any services that allow you to post User Materials on any of our Service), we collect the information that you provide to us in the course of using these interactive features. 
+* ## Legal reasons and purpose of processing
 
-8\. **Contests and Sweepstakes:** We or our advertisers and other business partners may conduct or sponsor special contests, sweepstakes, and other promotions that users may enter or otherwise participate in on our Service. Certain of these promotions may be co-branded with one of our advertisers or other business partners. In these instances, the collection of your Personal Information may occur directly by the third-party partner on its website or other online service and may be shared with us. The promotion will state the privacy policy or policies governing the collection of such Personal Information. 
+We process your data solely on the basis of one or more of the possible legal basis.
 
-**Information We Receive From Your Use of Our Services**
+According to GDPR personal data may be processed in particular because of a contract or the implementation of pre-contractual measures, if there is an agreement, due to a legitimate interest or a law, and to protect the vital or public interests.
 
-When you visit our Service, some information is collected automatically. For example, when you access our Service, we may automatically collect your browsers Internet Protocol (IP) address, your browser type, the type of device from which you are visiting the Service, the identifier associated with any mobile device you may be using, the location information about your device, the website that you visited immediately prior to accessing any web-based Service, the actions you take on our Service, and the content, features, and activities that you access and participate in on our Service. We also may collect information regarding your interaction with email messages, such as whether you opened, clicked on, or forwarded a message.
+Users can register at OOM using login services as mentioned below. The collection and processing of this data is for the fulfillment of the usage agreement between us and the user, art. 6 para. 1 lit. b GDPR.
 
-We may collect this information passively using technologies such as standard server logs, cookies, and clear GIFs (also known as “web beacons”). We use such information for purposes such as administering, operating, and improving our services and offering more relevant advertising on our Service.
+Your e-mail address collected during registration or during the performance of the contract is used also to generally notify you by e-mail about own similar goods or services, as well as existing subscriptions or OOM. The processing of the e-mail address in this case is based on our legitimate interest in the application of our goods and services (art. 6 para. 1 lit. f GDPR).
 
-Please be aware that in the course of your use of the Service, websites or other services provided by third parties (“ **Third-Party Services** ”), including, for example, Google Analytics, may set cookies or other technologies on your hard drive to collect non-personally identifiable information about your use of the Service in order to assist us in understanding our users activities on the Services. We do not have access to, or control over, the actions of Third-Party Services. Each provider of Third-Party Services uses information that it collects in accordance with its own privacy policies.
+We also use your e-mail address to send you our newsletter if you have given us your prior express consent to receive a newsletter or advertising. In this case, we use your email address to send you the newsletter as desired (art. 6 para. 1 lit. b GDPR). You can withdraw your consent to the use of your e-mail address for such purposes at any time in writing or in text form at the above contact details with effect for the future.
 
-**Location Information**
+On the internet, each device needs to transfer data with a unique address, called an IP address. The at least temporary storage of the IP address is technically required to enable delivery of the site to the computer of the user. Our server store your IP address for up to 8 weeks for our own security and billing purposes before pseudonymization by servers. Because the repeated automated reading of Web sites (so-called. Scraping) is complicated by acquiring the IP address. Moreover, we collect (without passing on to our advertisers) if users repeatedly click certain advertisements.
 
-When you use our Apps, we collect information about the location of your mobile device such as your country, latitude, longitude and what stores, retailers or other merchants are physically near the location of your mobile device. Your devices operating system may give you the option of enabling or disabling the collection of certain location information at any time through your mobile device.
+Purpose of our services is to show users regionally relevant information. This so-called geo-localization, that is the assignment of a visit of a website to the place of such visit, is provided on the basis of the anonymous IP address and within the geographical level of regions. Moreover, the user can give the consent for detecting the actual location of the device and withdraw such consent by means of the device.
 
-We use Sense360, a third party technology provider, to help us better understand how our users use Out of Milk and their devices. Out of Milk sends raw sensor data generated by your device to Sense360. This sensor data may include information from GPS receivers, accelerometers, gyroscopes, and other sensors, which may allow Sense360 to determine, for example, your device’s location, acceleration, and orientation. Sense360 may use this data to send us analytic reports regarding how our users are using Out of Milk and their devices, or for other purposes. To learn more, please visit Sense360’s privacy policy, available at **<http://sense360.com/privacy-policy.html>**
+Data processing operations that are not covered by one or more of the aforementioned legal bass, are carried out when it is necessary for the purposes of the legitimate interests pursued by the us or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child (art. 6 lit. f GDPR). A legitimate interest is deemed to exist if the data subject is a client of OOM (usage agreement). If processing of personal data is based on this, our legitimate interest is in particular the implementation of our business towards the welfare of all our employees and our shareholders.
 
-#### Use of Your Information
+Our legitimate interest to be able to offer tailor-made products, to inform you of our products, innovations and quality characteristics, and constantly improve our services and products, thereby also increase our revenue, is the legal basis for processing data for the purposes of big data, direct marketing (own Advertising and advertising of third parties), usage-based online advertising, web analytics and advertising scoring (merging of different selection criteria for the appropriate advertising). By (also not technically necessary) cookies, we learn how the website is used and how we can improve our services constantly. We recognize that advertising prompted to visit our website (so-called. Conversion tracking). We can identify in relation to the data of the advertising campaigns, how successful the individual advertising measures are. By doing so, we are pursuing the interest to show you ads that are of interest to you, to make our website more interesting and easier for you and to achieve a fair calculation of advertising costs. For advertising and analysis services in detail see below.
 
-We use the information we collect to provide services and information that you request; to enhance, improve, operate, and maintain our Service, our programs, services, websites, and other systems; to prevent fraudulent use of our Service and other systems; to prevent or take action against activities that are, or may be, in violation of our Terms of Use [ **<http://www.outofmilk.com/Terms.aspx>** ], End User License Agreement [ **<http://www.outofmilk.com/EULA.aspx>** ] or applicable law; to provide and tailor advertisements, content, and other aspects of your experience on and in connection with the Service; to perform anonymous market research; to maintain a record of our dealings with you; for other administrative purposes; and for any other purposes that we may disclose to you at the point at which we request your information, and with your consent.
+Another legitimate interest is the functionality of the business processes, due to which data are processed for internal management purposes (e.g. accounting).
 
-We may also use the information we collect to contact you regarding products, services, and offers, both from ourselves and from third parties, that we believe you may find of interest. We allow you to opt-out from receiving marketing communications from us as described in the “Choice” section below. 
+The processing of personal data within our company group is necessary and appropriate according to art. 6 para. 1 lit. f GDPR (see FIG. recital 49).
 
-**Disclosure of Your Information**
+You have the right to object to processing of personal data based on a legitimate interest at any time (see below).
 
-Except as described in this Policy, we will not disclose your Personal Information that we collect on the Service to third parties without your consent. We may disclose information to third parties if you consent to us doing so, as well as in the following circumstances:
+In the event that the data are processed for another purpose as specified in the data collection purposes, we will conduct a compatibility check pursuant to art. 6 para. 4 GDPR. Further processing is then only casually when the original purpose of the new purpose is compatible or allowed due to a separate legal basis. Recognized compatible purposes include among others the establishment, exercise or defense of civil claims unless there is an overriding interest of the person concerned. In this case, we will inform you of the change in purpose. Is the new purpose incompatible with the specified collection for the purpose, a new survey is due to a new legal basis. Again, we will inform you of the change in purpose.
 
-**Service Providers**
+* ## Place of processing
 
-We engage other companies and individuals to perform certain services and functions on our behalf. For example, we may engage third parties to send email and postal mail, analyze data, provide marketing services, process applications, provide search results and links (including paid listings and links), and provide customer service. We contractually obligate these service providers to access and use the Personal Information we make available to them only as needed to perform their functions and for no other purposes.
+We do not transfer your personal data to countries outside the European Economic Area except in cases where it is permitted by the GDPR. Whether third parties with whom you have your own contractual relationship (such as with Facebook, if you have a Facebook account) transfer data to countries outside the European Economic Area, is neither under our control nor in our knowledge.
 
-**Advertising Partners**
+We process data in states outside the European Economic Area ("EEA"). In order to ensure the protection of your personal information in the context of data transfers, we agree in contractual relationships with the recipients in third countries to standard contractual clauses of the European Commission in accordance with art. 46 para. 2 lit. c GDPR. The European Commission has made by order of 12. July 2016 the decision that under the provisions of the EU-US Privacy Shields an adequate level of protection exists (adequacy decision, art. 45 GDPR). More information - including the certification of service providers used by us - get you under [https://www.privacyshield.gov](https://www.privacyshield.gov/). 
 
-We may disclose non-personally identifiable information relating to your location (including the merchants that are physically near your device), items on your lists, device and other identifiers, and mobile device model to our third party advertising partners to provide and tailor deals, advertisements and content as part of the Service. In addition, we may disclose to our advertising partners information regarding your interaction with content provided by these advertising partners, for example, the number of times you view and click on such deals, advertisements and content.
+* ## Transfer of your data to third parties
 
-**Emailing and Sharing Lists**
+We transmit your personal information to third parties only if (i) the transfer is necessary to fulfill our contractual obligations to you, (ii) we are entitled by law to, (iii) or you have given us your consent.
 
-Some features on our Service may allow you to upload, post, or otherwise transmit User Materials to other people. For example, you may be able to email your lists or share your lists with other users. Please be aware that any Personal Information that you include within any such User Materials will be made available to those people that you designate, as well as our third party advertising partners, as described above. You include Personal Information in User Materials at your sole risk. Even after information posted on the Service is removed, those people with whom you have shared the information may have copied or stored such information.
+We process personal data within our corporate group, including by OOM International GmbH, Berlin, Germany.
 
-**Business Transfers**
+In certain cases, we also use external service providers who are engaged by us, as data processors. Such service providers are contractually obliged by us to the strict specifications of GDPR as data processors and may not use your data for any other purpose.
 
-Information about our users, including Personal Information, may be disclosed and otherwise transferred to an acquirer, or successor or assignee as part of any merger, acquisition, debt financing, sale of Bonial International GmbH assets, or similar transaction, as well as in the event of an insolvency, bankruptcy, or receivership in which Personal Information is transferred to one or more third parties as one of our business assets.
+The transfer of data to processors are made on the basis of art. 28 para. 1 GDPR, or based on our legitimate interests using specialized processors and technical advantages, art. 6 para. 1 lit. f GDPR.
 
-**To Protect our Interests**
+To the extent we are required by law or it is permitted by data protection laws, we will transmit personal data to authorities, such as the police or public prosecutor (art. 6 para. 1 lit. c GDPR). Sharing this data is based on our legitimate interest in combating abuse, the prosecution of criminal offenses and the assurance, assertion and enforcement of claims provided that your rights and interests in the protection of your personal data are not predominate, art. 6 para. 1 lit f GDPR.
 
-We also disclose Personal Information if we believe that doing so is legally required, or is in our interest to protect our property or other legal rights (including, but not limited to, enforcement of our agreements), or the rights or property of others, or otherwise to help protect the safety or security of our Service and other users of the Service.
+* ## Cookies and similar technologies
 
-**Choice**
+We use cookies. Cookies are small files stored by your browser on your device in a designated directory. By cookies can be determined if you visited a site before. If you agree, login information for an online service can be saved in cookies. Many cookies contain a so-called cookie ID. A cookie ID is a unique identifier of the cookie. It consists of a string by which websites and servers can be assigned to specific internet browser, in which the cookie is saved. This enables the visited websites and servers to distinguish the individual browser of the person affected from other internet browsers containing other cookies. A specific internet browser can be recognized through the unique cookie ID and identified.
 
-If you receive promotional emails from us, you may unsubscribe at any time by following the instructions contained within the email. You may also opt-out from receiving promotional emails from us by sending your request to us by email at support@outofmilk.com or by writing to us at the address given at the end of this policy.
+We use two types of cookies. On the one hand technical necessary cookies, without there use the functionality of our site would be restricted, and optional cookies to make our website more user-friendly. By analyzing cookies we learn how the site is used and can improve our services constantly. For more information on the individual analysis services see below.
 
-Please be aware that if you opt-out of receiving promotional emails from us, it may take up to ten business days for us to process your opt-out request, and you may receive promotional emails from us during that period. Additionally, even after you opt-out from receiving promotional messages from us, you will continue to receive administrative messages from us regarding our Service.
+Advertisements are usually provided by third party. This may and to the extent permitted by your device settings use information about your visits so that ads can appear on products and services that you may be interested. Specific contact information such as your name, address, or phone number won’t be transferred unless stated otherwise in this privacy policy.
 
-**Access**
+You can always prevent the use of cookies by us by the settings of the internet browser used and thus contradict permanently the use of cookies. Furthermore, already set cookies can be deleted within the browser or by other software every time. If you disable the use of cookies in the browser, not all features of our website are fully usable with.
 
-If we offer the ability to create user accounts on our Service, you may have the ability to access and update certain Personal Information that you provide to us by logging in to your account and accessing your account settings. If you wish to access or amend any other Personal Information we hold about you, you may contact us at support@outofmilk.com.
+You can turn off or limit the processing of cookies in we use service providers using the links above. The objection is valid as long as the associated “opt out cookie” is not deleted. This cookie is set for the domain, the browser and device. If you access our website from multiple devices and browsers, you must therefore contradict separately and again on each of these devices and in any browser data collection.
 
-If you request that we delete your account on any of our Service (via a user settings page, by email, or otherwise), we will do so within a reasonable period of time, but we may need to retain some of your information in order to satisfy our legal obligations, or where we reasonably believe that we have a legitimate reason to do so.
+When using apps a comparable function is implemented instead of the cookie.
 
-**Links**
+You cannot identify a person by cookies. The use of cookies is justified on the basis of our legitimate interest in a customized design and statistical analysis of OOM (art. 6 para. 1 lit. f GDPR).
 
-The Service may contain links to other websites, products, or services that we do not own or operate. For example, the Service may contain links to third-party merchants from which you may receive deals through the Service. If you choose to visit or use any Third-Party Sites or products or services available on or through such Third-Party Sites, please be aware that this Policy will not apply to your activities or any information you disclose while using those Third-Party Sites or any products or services available on or through such Third-Party Sites. We are not responsible for the privacy practices of these Third-Party Sites or any products or services on or through them. Additionally, please be aware that the Service may contain links to websites and services that we operate but that are governed by different privacy policies. We encourage you to carefully review the privacy policies applicable to any website or service you visit other than the Service before providing any Personal Information on them.
+* ## Advertising and analytics services
 
-#### Children
+We use some services that collect data on our website or in the app and analyze it for us. This is implemented to improve our content and adapt our services to the interests of our users, as well as remunerate our services.
 
-Children's safety is important to us, and we encourage parents and guardians to take an active interest in the online activities of their children. Our Service is not directed to children under the age of 13, and we do not knowingly collect Personal Information from children under the age of 13 without obtaining parental consent. If we learn that we have collected Personal Information from a child under the age of 13 on our Service, we will delete that information as quickly as possible. If you believe that we may have collected any such Personal Information on our Service, please notify us at support@outofmilk.com.
+Some of these service providers are themselves responsible for the data protection. Others process the pseudonymous user data based on an data processing agreement with us. You can always disable the individual analysis services for the future. Below you can find out details about the analytical services we use:
 
-#### International Visitors
+Below you can find out details about the analytical services we use:
 
-Our servers and data centers are located in the United States. If you choose to use the Service from outside the U.S., then you should know that you are transferring your Personal Information outside of your region and into the U.S. for storage and processing. By providing your Personal Information to us through your use of the Service, you agree to that transfer, storage, and processing in the U.S. Also, we may transfer your data from the U.S. to other countries or regions in connection with storage and processing of data, fulfilling your requests, and operating the Service. You should know that each region can have its own privacy and data security laws, some of which may be less stringent as compared to those of your own region.
+**Adjust**
 
-#### Security
+We use the analysis technology adjust of the adjust GmbH, Saarbrücker Str. 36, 10405 Berlin. The adjust service has been tested according to the ePrivacy seal (European Seal for your privacy) and certified (see http://www.eprivacy.eu/vergebene-siegel/). Adjust collects installation and event data. It creates anonymous evaluations and graphics on the number of visits, number of pages viewed per user or open app so on. We use this information solely for our own market research and the optimization and the customized design of the website or app uses. For such an analysis Adjust uses your anonymous IDFA or Android ID as well as your anonymous IP and MAC address. It is not possible to identify you individually. You opt-out here: <https://www.adjust.com/opt-out/>.
 
-We use security measures to help protect information from accidental loss, disclosure, misuse, and destruction. These measures may include regular review of our system logs, data encryption, and security software on our networks and servers. Please be aware, however, that no data security measures can be guaranteed to be completely effective. Consequently, we cannot ensure or warrant the security of any information that you provide to us. You transmit information to us at your own risk.
+**Google Analytics**
 
-#### Updates to this Policy
+We use Google Analytics, a web analytics service provided by Google. Google Analytics also uses cookies, which enable the analysis of the user's navigation through and use of the website. The data generated by the cookie about your use of this website (including your IP address) is generally transferred and stored on a Google server in the USA. OOM has activated IP anonymisation on the websites via the supplemental code “ga('set', 'anonymizeIp', true)” so that Google will truncate your IP address (known as IP masking) within Member States of the European Union or other parties to the Agreement on the European Economic Area. In exceptional cases only, the full IP address will first be transferred to a Google server in the USA and then truncated there. Google will use this information on behalf of OOM for the purpose of analysing your use of the website, compiling reports on website activity for OOM and providing other services relating to website and Internet use. Google may also transfer this data to third parties where required to do so by law or insofar as third parties have been commissioned by Google to process this data. Any information that Google receives within the scope of Internet-based advertising and from third party providers (e.g. demographic characteristics, gender and interests) could also be included in the cookie information. Google offers a Google Analytics Opt-Out Browser Add-on, which prevents data from being collected by Google Analytics and processed by Google. This add-on can be downloaded and installed here: <https://tools.google.com/dlpage/gaoptout?hl=en>.
 
-We may occasionally update this Policy. When we do, we will also revise the “last updated” date at the beginning of the Policy. Your continued use of our Service after such changes will be subject to the then-current policy. If we change this Policy in a manner that is materially less restrictive of our use or disclosure of your Personal Information, we will use reasonable efforts to notify you of the change and to obtain your consent prior to applying the change to any Personal Information that we collected from you prior to the date the change becomes effective. We encourage you to periodically review this Policy to stay informed about how we collect, use, and disclose information.
+**OOM own analysis technology**
 
-#### Contacting Us
+OOM stores pseudonymous data for user profiles and uses this to recognize users with comparable services from OOM. This is based on cookies.
 
-If you have any questions or comments about this Policy, please contact us using the following contact information:
+You may object from the analysis technology by opt-out link below. In this case for each visit a new cookie is placed thus no tracking possible anymore.
 
-Bonial International GmbH  
-Warschauer Straße 70a   
-10243 Berlin support@outofmilk.com
+* ## Social Networks and Google Maps
+
+You can also find us on social networks. A social network is a social meeting place operated on the Internet, an online community that allows users usually communicate with each other and interact in virtual space. A social network can serve as a platform for exchanging views and experiences or allows the Internet community to provide personal or business-related information.
+
+We have integrated individual functions of these networks into our online services. Both can however only be used if you are registered with the respective social network and logged-in. Please note that in case of your log-in you confirm the respective social network usage and privacy policy, to which we have no control. But we can explain how the data process in this context works:
+
+**Facebook**
+
+We have integrated on this website social network services of Facebook.
+
+Operator of Facebook is the Facebook Inc., 1 Hacker Way, Menlo Park, CA 94025, USA. For the processing of personal data is in charge if an affected person outside the US or Canada lives that Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbor, Dublin 2, Ireland.
+
+When you visit one of our pages the plugin establishes a direct connection between your browser and the Facebook server. Thus, Facebook receives the information that you (your IP address) visited our website. If you click the Facebook “Like” button while logged in to your facebook account you can link content from our pages to your Facebook profile. This enables Facebook to associate your visit to our pages with your user account. Please note that we as provider of the pages have no knowledge as to the contents of the submitted data or its use by Facebook. For further information please see Facebook’s privacy policy at <http://de-de.facebook.com/policy.php>. If you do not want Facebook to associate the data concerning your visit to our website with your member data, please log off Facebook before entering our website.
+
+* ## Login
+
+With our website, we provide users the ability to register by personal information.
+
+Logging in and creating an account is necessary in order to save a shopping list to Out of Milk’s back-end so a user can access the list from any device, and share the list with others.
+
+You can register with by login service providers connecting the profile of the logged in user with our service. The data listed below are processed by service providers listed below and transmitted to us. Specifically:
+
+**Facebook Connect**
+
+Facebook Connect may be used by registered Facebook users.
+
+Facebook Connect is operated by Facebook Ireland Limited, 5-7 Hanover Quay, Dublin 2, Ireland. The use of Facebook Connect is subject to the privacy policy and terms of use of Facebook. If you decide to register with your Facebook account, you will be routed directly to Facebook. There, Facebook asks to specify the credentials and log in to Facebook or register. If you are already connected with Facebook, this query is skipped for registration. Important: We will not get a login information. When logging in using Facebook Connect Facebook profile data, according to Facebook’s definition of "public information" <https://www.facebook.com/about/privacy/your-info/>) will be transmitted from your Facebook profile to us. "Public" means in the context of Facebook is that everyone can see this data outside of Facebook. This includes your name, your profile and cover picture, gender, networks, user name (Facebook URL) and user identification number (Facebook ID). Conversely, data from us can be transferred to your Facebook profile. By signing up through Facebook Connect with us, we store and process your data transmitted to us for the purpose of registration.
+
+The following data of Facebook is sent to us: email address, gender, age range and any information that identifies the user on Facebook as "public". The use of Facebook Connect is subject to the privacy policies of Facebook. Facebook processes the data on your behalf. This is done in the appropriate level of data protection (see above to EU-US Privacy Shield). For more information about Facebook Connect and the privacy settings, read the privacy policy of Facebook: <https://de-de.facebook.com/about/privacy/>.
+
+**Google User Login**
+
+From Google The following data is transmitted to us: E-mail address, gender, age range. Google processes the data on your behalf. This is done in the appropriate level of data protection (see above to EU-US Privacy Shield). Using Google sign-in is subject to the privacy policy of Google, which is available here: <https://www.google.com/intl/de/policies/privacy/>.
+
+**Amazon Cognito**
+
+Amazon Cognito of Amazon Web Services, Inc., 410 Terry Avenue North, Seattle, WA 98109-5210, USA, is used to manage the log-in accounts. This is part of an data processing agreement and appropriate level of data protection (see above to EU-US Privacy Shield). For more information: <https://aws.amazon.com/de/cognito/>. The processing by service Amazon Cognito takes place in our legitimate interest.
+
+* ## Contact by form and email
+
+We provide a contact form. In case of a message its content, the IP address of the device and the date is sent to us and saved. Alternatively, a contact via the provided email address is possible. The data will (only) be used for the processing of the conversation.
+
+We use the software as a service of Zendesk Inc. Software, 1019 Market St San Francisco, CA 94103 ( "Zendesk") to handle customer inquiries. Emails from customers are processed by Zendesk based on an data processing agreement and appropriate level of data protection (see to EU-US Privacy Shield above). For more information on data processing by Zendesk, see the privacy policy of Zendesk under <http://www.zendesk.com/company/privacy>.
+
+* ## Storage limitation
+
+We store personal data only as long as we are entitled to and the processing purpose is necessary. The relevant legal retention period applies for the duration of the storage of personal data. After the deadline, the relevant data is routinely deleted, provided it is no longer required to fulfill the contract or contract negotiations.
+
+* ## Contact information and your rights as a data subject
+
+Please contact for any questions or suggestions concerning data protection and to enforce your rights our data protection officer:
+
+Bonial International GmbH   
+Data Protection Officer   
+Hussitenstraße 32-33  
+13355 Berlin  
+Email: [datenschutz@bonial.de](mailto:datenschutz@bonial.de)
+
+  1. **Right of access (art. 15 GDPR) and right to rectification (art. 16 GDPR)**
+
+You can obtain from us at any time free of charge confirmation as to whether or not personal data concerning you are being processed. Where that is the case, you get access to the personal data. You may request a copy of the stored data. You can also rectify inaccurate data and complete it.
+
+  2. **Right to erasure (‘right to be forgotten’) (art. 17 GDPR)**
+
+You have the right to obtain from the controller the erasure of personal data concerning you without undue delay and the controller shall have the obligation to erase personal data without undue delay if one of the grounds according to art. 17 (i) GDPR applies. Please note that the erasure shall not apply to the extent that processing is necessary. In case your data is still required for legal purposes, it will be marked with the aim of limiting their processing in future.
+
+  3. **Right to data portability (art. 20 GDPR)**
+
+If applicable, you also have the right that the personal data concerning you shall be transmitted in a structured, consistent and machine-readable format to you or another responsible if the processing on the consent or a contract is based and is carried out through automated procedures. However, this does not apply if the processing is not necessary for the performance of a task carried out in the public interest or done in the exercise of official authority, which has been transferred to the person responsible. You also have the right to obtain, that the personal data transmitted directly from one controller to another, where technically feasible.
+
+  4. **Right to withdraw consent and to object (art. 21 GDPR)**
+
+Your may withdraw your consent to process your data at any time with effect for the future. Specifically, you can opt-out the usage of your email address for the purpose of newsletter mailings at any time to [datenschutz@bonial.de](mailto:datenschutz@bonial.de) or Bonial International GmbH, Hussitenstraße 32-33, 13355 Berlin (without incurring other costs than the transmission costs for the base rates).
+
+You have the right to object, on grounds relating to your particular situation, at any time to processing of personal data concerning your which is based on art. 6 (1) point (e) or (f) GDPR (legitimate interest), including profiling based on those provisions. In this case the controller shall no longer process the personal data unless the controller demonstrates compelling legitimate grounds for the processing which override the interests, rights and freedoms of the data subject or for the establishment, exercise or defence of legal claims. Please use our contact details mentioned above.
+
+Where personal data are processed for direct marketing purposes, you have the right to object at any time to processing of personal data concerning you for such marketing, which includes profiling to the extent that it is related to such direct marketing. Please use our contact details mentioned above.
+
+  5. **Right to lodge a complaint with a supervisory authority (art. 77 GDPR)**
+
+You lodge a complaint with the supervisory authority. The supervisory authority with which the complaint has been lodged shall inform the complainant on the progress and the outcome of the complaint including the possibility of a judicial remedy pursuant to art. 78 GDPR.
+
+  6. **Automated individual decision-making, including profiling (art. 22 GDPR)**
+
+There is no automated individual decision-making, including profiling, used by OOM according to art. 22 GDPR.
+
+  7. **Validity of this data protection declaration**
+
+We reserve the right to change this privacy policy from time to time. The current version is available on our website. If a change significantly restricts the rights of registered users, we will notify them. Furthermore, the current privacy policy is valid for our users.
+
+
+
