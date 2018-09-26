@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerone.com.au privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625070136id_/http%3A//my.careerone.com.au/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerone.com.au privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926232722id_/http%3A//my.careerone.com.au/privacy/default.aspx) for the most accurate reproduction.*
 
 # CareerOne Privacy Center | CareerOne.com.au
 
