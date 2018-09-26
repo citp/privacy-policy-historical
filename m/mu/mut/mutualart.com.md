@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mutualart.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126135549id_/https%3A//www.mutualart.com/Static/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mutualart.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926152915id_/https%3A//www.mutualart.com/Static/PrivacyPolicy) for the most accurate reproduction.*
 
-# MutualArt.com - The Web's Largest Art Information Service.
+# Privacy Policy | MutualArt
 
 Thank you for visiting www.MutualArt.com ("MutualArt.com" or "We" or "Us" or "Our"), a MutualArt Holding Inc. ("MutualArt") website (the "Site"). Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make regarding your personal information in relation to this Site. 
 
