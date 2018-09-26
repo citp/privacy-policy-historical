@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drweil.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130191709id_/https%3A//www.drweil.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drweil.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926224400id_/https%3A//www.drweil.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DrWeil.com
 
@@ -23,6 +23,8 @@ We and our partners use cookies or similar technologies to analyze trends, admin
 **Sharing**
 
 We may share your personal information with third parties who provide services on our behalf to help with our business activities such as email service providers, data analyzers and business intelligence providers. These companies are authorized to use your personal information only as necessary to provide these services to us.
+
+We may also share or transfer your personal information in connection with a sale, merger, acquisition, change in control or other similar transaction involving us or any of our affiliates or the business or businesses for which we retain or use your personal information.
 
 **Personal Information Access, Retention and Choice**
 
@@ -65,7 +67,7 @@ We do not seek, and will not knowingly accept, information from any child under 
 
 **Assignment**
 
-We may assign this Notice, including your personal information, in the event of any merger, acquisition, change in control or other similar transaction involving us or any of our affiliates.
+We may assign this Notice, in the event of any sale, merger, acquisition, change in control or other similar transaction involving us or any of our affiliates or the business or businesses for which we retain or use your personal information.
 
 **Comments**
 
@@ -82,7 +84,7 @@ Phone: (602) 952-0100
 
 The trademarks of Healthy Lifestyle Brands, LLC may not be used without prior written permission.
 
-© 2017 Healthy Lifestyle Brands, LLC  
+© 2018 Healthy Lifestyle Brands, LLC  
 All Rights Reserved
 
-_**This privacy policy was last updated July 7th, 2017.**_
+_**This privacy policy was last updated August 7th, 2018.**_
