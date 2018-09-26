@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ruled.me privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309102832id_/https%3A//www.ruled.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruled.me privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926191829id_/https%3A//www.ruled.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ruled Me
 
