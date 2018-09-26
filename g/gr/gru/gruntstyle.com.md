@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gruntstyle.com privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901201109id_/https%3A//www.gruntstyle.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gruntstyle.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926122606id_/https%3A//www.gruntstyle.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Grunt Style
+# Privacy Policy – Grunt Style, LLC
 
 _Grunt Style Privacy Policy_
 
