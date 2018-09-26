@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chevron.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902020521id_/https%3A//www.chevron.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chevron.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927010003id_/https%3A//www.chevron.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement — Chevron.com
 
-**effective date: August 25, 2015**
+**effective date: May 25, 2018**
 
 ##  introduction 
 
@@ -27,6 +27,15 @@ You are not required to provide this information. However, if you choose not to,
 
 _Data collected by automated means._ We collect certain data about all visitors to our websites, including what pages they view, the number of bytes transferred, the links they click, and other actions taken within our websites. On websites to which you logon, we may connect this information with your identity to determine your potential interests in our products and services. We may also use this information to improve our security measures. We also collect certain standard information that your browser sends to every website you visit, such as your Internet Protocol (IP) address, your browser type and capabilities and language, your operating system, the date and time you access the site, and the website from which you linked to our site.
 
+##  our use of cookies and web beacons 
+
+Cookies are small files that websites save to your hard disk or to your browser's memory. Our websites may use them to track the number of times you have visited the website, to track the number of visitors to the website, to determine and analyze visitors' use of our websites, to store data that you provide (such as your preferences), and to store technical information related to your interactions with our websites. We may also use session cookies, which are deleted when you close your browser, to store your user ID, to facilitate your movement around our websites (particularly in connection with information searches and order placement) and other information useful in administering the session.
+
+Our sites also may contain electronic images known as Web beacons—sometimes called single-pixel gifs—that allow us to count the number of users who have visited those pages. We may include Web beacons in promotional email messages or newsletters in order to determine whether messages have been opened and acted upon, including whether the recipient clicked on a link in the email or forwarded the email to another person.
+
+_Adjusting Browser Settings to Manage Cookies or Send “Do Not Track” Signals:_  
+Most Internet browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies or to notify you when a cookie is being placed on your computer. If you choose not to accept cookies, you may not be able to experience all of the features of our websites. Internet browsers also enable you to delete existing cookies, although this means that your existing settings (including stored user IDs and other preferences) will be lost.  Some web browsers may also give you the ability to enable a “do not track” setting. This setting sends a signal to the websites you encounter while web browsing. This “do not track” signal is different from disabling certain forms of tracking by declining cookies in your browser settings, as browsers with the “do not track” setting enabled may still accept cookies. Chevron does not respond to web browser “do not track” signals at this time. If we do so in the future, we will describe how we do so in this Privacy Statement.
+
 ##  our use of personal data 
 
 We will use personal data only for the purposes set forth below.  
@@ -39,14 +48,9 @@ _Marketing Communications._ With your permission, we may use personal data to in
 
 _Employment Applications._ In connection with a job application or inquiry, you may provide us with data about yourself, including your educational background, résumé or curriculum vitae, and other information, including your ethnicity where required or permitted by law. We may use this information throughout Chevron, its subsidiaries and affiliates, and its joint ventures for the purpose of employment consideration. We will keep the information for future consideration unless you direct us not to do so.
 
-##  our use of cookies and web beacons 
+Where we reference that we use your personal information in connection with a request, order, transaction or agreement (or preparing for the same), or to provide you with services that you requested (such as a website), we do this because it is necessary for the performance of an agreement with you. 
 
-Cookies are small files that websites save to your hard disk or to your browser's memory. Our websites may use them to track the number of times you have visited the website, to track the number of visitors to the website, to determine and analyze visitors' use of our websites, to store data that you provide (such as your preferences), and to store technical information related to your interactions with our websites. We may also use session cookies, which are deleted when you close your browser, to store your user ID, to facilitate your movement around our websites (particularly in connection with information searches and order placement) and other information useful in administering the session.
-
-Our sites also may contain electronic images known as Web beacons—sometimes called single-pixel gifs—that allow us to count the number of users who have visited those pages. We may include Web beacons in promotional email messages or newsletters in order to determine whether messages have been opened and acted upon, including whether the recipient clicked on a link in the email or forwarded the email to another person.
-
-_Adjusting Browser Settings to Manage Cookies or Send “Do Not Track” Signals:_  
-Most Internet browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies or to notify you when a cookie is being placed on your computer. If you choose not to accept cookies, you may not be able to experience all of the features of our websites. Internet browsers also enable you to delete existing cookies, although this means that your existing settings (including stored user IDs and other preferences) will be lost.  Some web browsers may also give you the ability to enable a “do not track” setting. This setting sends a signal to the websites you encounter while web browsing. This “do not track” signal is different from disabling certain forms of tracking by declining cookies in your browser settings, as browsers with the “do not track” setting enabled may still accept cookies. Chevron does not respond to web browser “do not track” signals at this time. If we do so in the future, we will describe how we do so in this Privacy Statement.
+Where we reference that we use your personal information in relation to marketing, improvement or development of our products or services, for reasons of safety and security, or regulatory requirements other than in connection with your agreement or request, we do this on the basis of our or a third party’s legitimate interests, or with your consent. 
 
 ##  disclosure of personal data 
 
@@ -62,22 +66,24 @@ _Disclosure on collaborative websites._ Some of our websites promote collaborati
 
 _Disclosure for other reasons._ We may disclose personal data if required to do so by law or in the good-faith belief that such action is necessary to comply with legal requirements or with legal process served on us, to protect and defend our rights or property, or in urgent circumstances to protect the personal safety of any individual.
 
+##  international transfers of personal data 
+
+We may transfer personal information that we collect through the Sites to, and store such information in, countries other than the country from which that information was initially collected or the countries from which individual site visitors may access the Sites. The countries, including the U.S. (and the other countries around the world where our individual subsidiaries, affiliates, suppliers, or business partners maintain facilities) , to which we may transfer such information may have different data protection laws than the countries from which the information was initially collected or from which individual site visitors access the Sites. 
+
+By choosing to use the Sites and to submit personal data to us through them, you consent to the transfer of such information outside of your country. 
+
+To the extent required by applicable law, when we transfer your personal information to recipients in other countries, we will take measures to protect that information. For example, where required to protect personal information transferred between our subsidiaries or to our suppliers or other third parties, we implement Standard Contractual Clauses approved by the EU Commission and use similar contractual clauses to comply with similar requirements in other jurisdictions. 
+
+##  personal data retention 
+
+To the extent permitted by applicable law, we retain personal information we obtain about you as long as (1) it is needed for the purposes for which we obtained it, in accordance with the provisions of this Privacy Policy or (2) we have another lawful basis, stated in this Privacy Policy or at the point of collection, for retaining that information beyond the period for which it is necessary to serve the original purpose for obtaining the personal information.  
+
+
 ##  security 
 
 Chevron is committed to protecting the security of personal data. While no security measure can guarantee against compromise, we use a variety of security technologies and procedures to help protect data from unauthorized access, use, or disclosure. For example, we store the personal data you provide on computer systems with limited access that are located in facilities to which access is limited. When you move around a site to which you have logged in, or from one site to another that uses the same login mechanism, we verify your identity by means of an encrypted cookie placed on your machine. When you place an order with us, view account information, or provide financial information, we protect the transmission of such data using Secure Socket Layer (SSL) encryption.
 
 For sites to which you log in, it is your responsibility to ensure the security of your password and to not reveal this information to others. If you are sharing a computer with anyone, you should always log out before leaving a website so that subsequent users will not be able to access your data.
-
-##  reviewing personal data 
-
-In some cases, you can review and correct personal data provided through our websites by going to the page on which you provided the data. You can also make a request to review and correct personal data collected via our websites or submit any inquiries or concerns you may have regarding personal data by sending an [email](http://www.chevron.com/contact/emailchevron/).
-
-To the extent required by law, we provide users with (i) reasonable access to the personal information they provide through the Sites, and (ii) the ability to review, correct and delete such personal information. To help protect your privacy, we take reasonable steps to verify your identity before granting access to your information. You can help us to keep data about you accurate by notifying us of any change to your mailing address, phone number or email address.
-
-##  international transfers of personal data 
-
-Personal data collected on our websites may be stored and processed in the United States or any other country in which Chevron or its subsidiaries, affiliates or joint ventures maintain facilities, including countries which may not have data protection laws similar to the laws in the country from which you initially provided the information. By choosing to use our websites and to provide data to them, you consent to any such transfer of information outside of your country.  
-
 
 ##  links to other websites 
 
@@ -89,9 +95,27 @@ Our websites may contain links to other websites, including those of other compa
 This site is a general audience site, although it contains information that may be of interest to children. However, Chevron does not seek through this site to gather personal data from or about persons 14 years or younger. If one of our websites is directed at children, we will include an additional privacy statement notice for children.  
 
 
-##  questions about our privacy practices 
+##  reviewing personal data 
 
-If you have questions regarding this privacy statement or our handling of personal data, please contact us by [email](http://www.chevron.com/contact/emailchevron/), or by mail at:
+In many cases, you can immediately review and correct personal data provided through our websites by going to the page on which you provided the data. 
+
+You may also submit requests to review and correct personal data collected through the Sites or submit any inquiries or concerns you may have regarding personal data by contacting our Global Privacy Office at the addresses provided in the **How to Contact Us** section of this Privacy Statement, including by sending an [email](https://web.archive.org/about/contact/email-chevron). 
+
+To help protect your privacy, we take reasonable steps to verify your identity before granting access to your information. You can help us to keep data about you accurate by notifying us of any change to your mailing address, phone number or email address. 
+
+##  your rights 
+
+To the extent provided by the law of your jurisdiction, you may have the right to (1) access certain personal information we maintain about you; (2) request that we update, correct, amend, erase or restrict your personal information; or (3) exercise your right to data portability. Where provided by law, you may withdraw consent you previously provided to us or object at any time to the processing of your personal information on legitimate grounds relating to your particular situation, and we will apply your preferences going forward as appropriate. 
+
+To exercise these rights, please contact us via one of the means specified in the **How to Contact Us** section of this Privacy Statement. 
+
+To help protect your privacy, we take reasonable steps to verify your identity before granting access to your information. 
+
+In the event you consider our processing of your personal information not to be compliant with the applicable data protection laws, you can lodge a complaint with our Global Privacy Office by sending a letter or an [email](https://web.archive.org/about/contact/email-chevron) to the Global Privacy Office at the addresses provided in the **How to Contact Us** section of this Privacy Statement. Complaints that relate to our processing of personal information within the European Union or our compliance, more generally, with the European Union’s General Data Protection Regulation (“GDPR”) may be directed to the attention of our Data Privacy Officer for the European Region, Simon Owens, at the mail and email addresses provided for the Global Privacy Office. Depending on your location, you may also have the right to file a complaint with a government regulator if you are not satisfied with our response. The name and contact details of the Data Protection Authorities in the European Union can be found [here](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm).
+
+##  how to contact us 
+
+If you have questions regarding this privacy statement or our handling of personal data, please [contact us by email](http://www.chevron.com/contact/emailchevron/), or by mail at:
 
 Chevron Corporation  
 Attn. Global Privacy Office  
