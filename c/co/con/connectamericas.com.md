@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the connectamericas.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607193444id_/https%3A//connectamericas.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectamericas.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926120128id_/https%3A//connectamericas.com/content/privacy-policy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy | ConnectAmericas
 
 ## Introduction
 
-This Privacy Policy sets forth the data protection policies and practices of the ConnectAmericas Web Site (the "Site"), an interactive online source of information established and supported by the Inter-American Development Bank ("IDB" or "us"). As explained in the ConnectAmericas [Terms of Use](https://web.archive.org/web/20150607193444id_/https%3A//connectamericas.com/terms_of_use.html), into which this Privacy Policy is incorporated by reference, the IDB is an international organization established by its member countries pursuant to the Agreement Establishing the Inter-American Development Bank.
+This Privacy Policy sets forth the data protection policies and practices of the ConnectAmericas Web Site (the "Site"), an interactive online source of information established and supported by the Inter-American Development Bank ("IDB" or "us"). As explained in the ConnectAmericas [Terms of Use](https://web.archive.org/content/terms-and-conditions-0), into which this Privacy Policy is incorporated by reference, the IDB is an international organization established by its member countries pursuant to the Agreement Establishing the Inter-American Development Bank.
 
-By using the Site, either as a visitor ("User") or a registered user ("Registered User"), you are agreeing to the terms of this Privacy Policy, including as they may be amended from time to time. Your use of the Site therefore constitutes your consent to our collection, use and disclosure of personal information we collect from you through the Site, as described herein. Please be sure to read this entire Privacy Policy before using the Site. 
+By using the Site, either as a visitor ("User") or a registered user ("Registered User"), you are agreeing to the terms of this Privacy Policy, including as they may be amended from time to time. Your use of the Site therefore constitutes your consent to our collection, use and disclosure of personal information we collect from you through the Site, as described herein. Please be sure to read this entire Privacy Policy before using the Site.
 
 As the Website is updated and expanded, our Privacy Policy may change, so please review the posted Privacy Policy from time to time. We will notify you about material changes in this Privacy Policy by placing a notice on the Website.
 
@@ -26,11 +26,11 @@ An IP Address is the Internet Protocol address of the computer an individual use
 
 Information You Submit
 
-If you register on the Site, we will collect certain PII from you, including your full name, postal address, e-mail address, phone number, and social network (e.g., LinkedIn, Facebook) information. In addition, even if you do not register, we may collect PII from you in other ways, such as if you send us an e-mail via the “Contact Us” page of the Site, or post your PII on the Site. 
+If you register on the Site, we will collect certain PII from you, including your full name, postal address, e-mail address, phone number, and social network (e.g., LinkedIn, Facebook) information. In addition, even if you do not register, we may collect PII from you in other ways, such as if you send us an e-mail via the “Contact Us” page of the Site, or post your PII on the Site.
 
 Information Automatically Collected
 
-When you visit the Site, certain anonymous information related to that visit is automatically collected by the IDB’s web servers. This may be done through cookies, “clear GIFs” (a/k/a “web beacons,” or “pixel tags”), or similar technologies to retain information about you and your use of the Site. 
+When you visit the Site, certain anonymous information related to that visit is automatically collected by the IDB’s web servers. This may be done through cookies, “clear GIFs” (a/k/a “web beacons,” or “pixel tags”), or similar technologies to retain information about you and your use of the Site.
 
 Cookies are small data files that are sent to your browser or related software from a web server and stored on your computer or device. Cookies often include an anonymous unique identifier and track and store your user preferences while using the Website as well as technical information about your use of the Website.
 
@@ -46,17 +46,17 @@ We may use the PII we collect from you (as described above) to send you e-mail m
 
 Where you have requested to receive e-mail updates from us, we may periodically send you emails that promote or otherwise contain information relating to the use of the Site and/or the IDB. When you receive an e-mail from us, you may indicate a preference to “opt out” of, and thus to stop receiving further e-mails from us, using this [link](mailto:connectamericas@iadb.org?Subject=Unsubscribe%20request).
 
-We use the anonymous information we collect to analyze Site visitor behavior as a measure of interest in, and use of, the Site and of the ConnectAmericas service. This information is used to create aggregate statistics regarding, for example, when the Site is accessed, the pages which refer visitors to the Site, the type of web browsers visitors use, and which pages of the Site are viewed. These statistics help us understand how the Site is used and provide us with valuable information for improving the Site in the future. 
+We use the anonymous information we collect to analyze Site visitor behavior as a measure of interest in, and use of, the Site and of the ConnectAmericas service. This information is used to create aggregate statistics regarding, for example, when the Site is accessed, the pages which refer visitors to the Site, the type of web browsers visitors use, and which pages of the Site are viewed. These statistics help us understand how the Site is used and provide us with valuable information for improving the Site in the future.
 
 ## Sharing of Information Collected Through the Site
 
 Public Areas of the ConnectAmericas Site
 
-The ConnectAmericas Site is designed as an online forum for the exchange of information, for the benefit of Registered Users. To the extent that you post PII on a public area of the Site, such as a bulletin board, blog, or chatroom, that PII will be visible to other Site visitors, who may then use and further disclose the PII for their own purposes. We do not exercise control over such other Site visitors’ use and disclosure of PII that is posted in a public area of the Site, and you should be aware that other Site visitors can collect, correlate, use and disclose the PII you post in the Site’s public areas. By using the Site, you acknowledge that such third-party activities are beyond the control and responsibility of the IDB. 
+The ConnectAmericas Site is designed as an online forum for the exchange of information, for the benefit of Registered Users. To the extent that you post PII on a public area of the Site, such as a bulletin board, blog, or chatroom, that PII will be visible to other Site visitors, who may then use and further disclose the PII for their own purposes. We do not exercise control over such other Site visitors’ use and disclosure of PII that is posted in a public area of the Site, and you should be aware that other Site visitors can collect, correlate, use and disclose the PII you post in the Site’s public areas. By using the Site, you acknowledge that such third-party activities are beyond the control and responsibility of the IDB.
 
 Partners, Consultants and Service Providers
 
-For purposes of enhancing and effectuating the objectives of the Site and the IDB more generally, we may share your PII with our partners, consultants, and service providers. For example, we may share PII with consultants who are analyzing certain projects if it might be helpful for the consultants to communicate with you, and we may share PII with service providers who assist us in sending you materials or information. 
+For purposes of enhancing and effectuating the objectives of the Site and the IDB more generally, we may share your PII with our partners, consultants, and service providers. For example, we may share PII with consultants who are analyzing certain projects if it might be helpful for the consultants to communicate with you, and we may share PII with service providers who assist us in sending you materials or information.
 
 CountryTextFullText
 
@@ -68,7 +68,7 @@ In the event that some of the IDB’s assets are sold, assigned, or otherwise tr
 
 ## Updates to Personal Information
 
-You may access and review the PII we have collected about you, and correct or update that information, by visiting the Registration portion of the site, or by sending us an e-mail with requested changes at ConnectAmericas@iadb.org. For your protection, we will only implement such requests with respect to the PII associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. 
+You may access and review the PII we have collected about you, and correct or update that information, by visiting the Registration portion of the site, or by sending us an e-mail with requested changes at ConnectAmericas@iadb.org. For your protection, we will only implement such requests with respect to the PII associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request.
 
 We will endeavor to comply with your request as soon as reasonably practicable, including a request for deletion of PII from our records. We may need to retain certain information for recordkeeping purposes, and there may also be residual information that will remain within our databases and other records, which will not be removed.
 
@@ -76,7 +76,7 @@ Please note that we are not responsible for correcting, updating or deleting any
 
 ## Data Security
 
-We endeavor to protect the security and integrity of PII we collect by implementing physical, electronic and managerial procedures to safeguard and secure the information from loss, misuse, unauthorized access or disclosure, alteration or destruction. However, due to the inherent nature of the Internet as an open global communications vehicle, we cannot guarantee that any information, whether during transmission through the Internet, while stored on our data systems or otherwise in maintained by us, will be absolutely safe from intrusion by others, such as hackers. This includes information provided to us by email, through direct postings on the Site, or through the "[Contact Us](mailto:connectamericas@iadb.org?Subject=Contact%20Us)" feature of the Site. In providing information through these channels, you should be aware that your transmission might not be secure while it is in transit, and that a third party could possibly view the information in transit.
+We endeavor to protect and to monitor the security and integrity of PII we collect by implementing physical, electronic and managerial procedures to safeguard and secure the information from loss, misuse, unauthorized access or disclosure, alteration or destruction. However, due to the inherent nature of the Internet as an open global communications vehicle, we cannot guarantee that any information, whether during transmission through the Internet, while stored on our data systems or otherwise in maintained by us, will be absolutely safe from intrusion by others, such as hackers. This includes information provided to us by email, through direct postings on the Site, or through the "[Contact Us](mailto:connectamericas@iadb.org?Subject=Contact%20Us)" feature of the Site. In providing information through these channels, you should be aware that your transmission might not be secure while it is in transit, and that a third party could possibly view the information in transit. In the occurrence of a security breach of our data systems that could compromise our users’ PII, we will disclose this intrusion to our affected users.
 
 ## Data Retention
 
@@ -92,7 +92,7 @@ The ConnectAmericas Site is not directed at minors and we do not knowingly colle
 
 ## Linked Services
 
-The Site may contain links to third-party websites. Our provision of a link to any other website or location is for your convenience and does not signify our endorsement of such other website or location or its contents. The IDB does not control the websites, applications or other services that are operated by third parties and we are not responsible for the data protection and privacy practices of these websites, applications or other services. Thus, we recommend that, once you access any such other website, application or service, you familiarize yourself with the privacy policies and practices governing that other website, application or service. 
+The Site may contain links to third-party websites. Our provision of a link to any other website or location is for your convenience and does not signify our endorsement of such other website or location or its contents. The IDB does not control the websites, applications or other services that are operated by third parties and we are not responsible for the data protection and privacy practices of these websites, applications or other services. Thus, we recommend that, once you access any such other website, application or service, you familiarize yourself with the privacy policies and practices governing that other website, application or service.
 
 ## Contacting Us
 
