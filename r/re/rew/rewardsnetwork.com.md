@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rewardsnetwork.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182111id_/https%3A//www.rewardsnetwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rewardsnetwork.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926105110id_/https%3A//www.rewardsnetwork.com/privacy) for the most accurate reproduction.*
 
 # RN | Privacy Policy - RN
 
-Last Updated: **August 2016**
+Last Updated: **October 2017**
 
 PLEASE READ THIS PRIVACY DISCLOSURE CAREFULLY BEFORE USING THIS SITE OR RELATED SERVICES
 
@@ -32,7 +32,7 @@ Cookies
 
 ###### **International Visitors**
 
-The Site is hosted on servers located in the United States of America and is intended for use by individuals and entities who are United States residents. All data collected from the Site is stored on servers within the United States that are owned and controlled by our third-party vendors or us. **YOU EXPRESSLY ACKNOWLEDGE AND CONSENT THAT YOUR DATA MAY BE TRANSFERRED TO VARIOUS LOCATIONS AND THIRD-PARTY PROVIDERS, AND MAY BE MAINTAINED AND PROCESSED ON COMPUTERS LOCATED OUTSIDE OF YOUR STATE, PROVINCE, COUNTRY, OR OTHER GOVERNMENTAL JURISDICTION WHERE THE PRIVACY LAWS MAY NOT BE AS PROTECTIVE AS THOSE IN YOUR JURISDICTION.**
+The Site is hosted on servers located in the United States of America and is intended for use by individuals and entities who are United States residents. **YOU EXPRESSLY ACKNOWLEDGE AND CONSENT THAT YOUR DATA MAY BE TRANSFERRED TO VARIOUS LOCATIONS AND THIRD-PARTY PROVIDERS, AND MAY BE MAINTAINED AND PROCESSED ON COMPUTERS LOCATED OUTSIDE OF YOUR STATE, PROVINCE, COUNTRY, OR OTHER GOVERNMENTAL JURISDICTION WHERE THE PRIVACY LAWS MAY NOT BE AS PROTECTIVE AS THOSE IN YOUR JURISDICTION.**
 
 ###### **_Identifiable Information_**
 
@@ -46,7 +46,7 @@ We have a robust information security program in place to protect both MCA Clien
 
 If you are interested in becoming an MCA Client, we ask you to submit a MCA Client application.  Through the MCA Client application, we collect information about your business (including its sales, credit card processing, bank account and legal entity information) as well as information about you as the owner of your business (including your name, address, telephone number, email address, social security number, date of birth and driver’s license information). When you enter into an agreement to become an MCA Client, we use this information in order to support your relationship with us – to generate account balance statements, to respond to your account service inquiries via telephone or email, or to contact you about payment or other account service matters.  We also collect content about your business as an MCA Client, such as menus, photos and logos.  We use this content in order to market your business to our rewards program members.
 
-If you are interested in becoming an MS Client, we collect information about your business (including your business name, address, telephone number, email address, and financial information about your restaurant’s historical sales.  When you enter into an agreement to become an MS Client, we use this information in order to support your relationship with us – to generate billing statements, to respond to your account service inquiries via telephone or email, or to contact you about program performance, payment or other account service matters.  We also collect content about your business as a MS Client, such as menus, photos and logos. We use this content in order to market your business to our rewards program members.
+If you are interested in becoming an MS Client, we collect information about your business (including your business name, address, telephone number, and email address) and financial information about your restaurant’s historical sales.  When you enter into an agreement to become an MS Client, we use this information in order to support your relationship with us – to generate billing statements, to respond to your account service inquiries via telephone or email, or to contact you about program performance, payment or other account service matters.  We also collect content about your business as a MS Client, such as menus, photos and logos. We use this content in order to market your business to our rewards program members.
 
 If you are an MCA or MS Client, you will receive access to our Comment Management System, a valuable tool for participating restaurants that allows you to connect with your diners outside of the restaurant – online, 24/7. When you log in to CMS, you can build customer relationships to encourage loyalty, and respond to customer feedback.  In order to access the Comment Management System, your user name will be your email address and you will need to create a user name and password for your account with us.
 
