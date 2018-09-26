@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myteachingstation.com privacy policy that was archived on 2015-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150327195016id_/http%3A//www.myteachingstation.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myteachingstation.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926134636id_/https%3A//www.myteachingstation.com/privacy-statement) for the most accurate reproduction.*
 
-# My Teaching Station: Privacy Statement
+# Privacy Statement | MyTeachingStation.com
 
 This Privacy Statement discloses the privacy practices for MyTeachingStation.com website. We are committed to protecting your online privacy. Please read the following to learn what information we collect from you (the "User" or the "End User") and how we use that information. If you have any questions about our privacy statement, please contact us via the Website.
 
