@@ -1,26 +1,57 @@
-> *The following text is extracted and transformed from the thecouponproject.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606005042id_/http%3A//thecouponproject.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecouponproject.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926125737id_/http%3A//thecouponproject.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This policy is valid from 20 April 2010
+Disclosure: the post below may contain affiliate links. When you make a purchase or take action using these links, the site makes commission. For more information, please see my [Disclosure Policy](http://thecouponproject.com/disclosure/). 
 
-Maintaining your privacy is important to me, and it should be to you, too.  This Privacy Policy (the “Policy”) outlines how and what information is collected and used by The Coupon Project and its affiliates.  Rest assured, I will never give or sell any information obtained by you on this site to a third-party without your express permission.  Please understand that information you voluntarily post on this site (such as your name, email address, or other personally identifiable information) is at your own risk and not protected under this Policy.
+This policy is valid from May 2018
 
-**Third-Party Affiliations and Advertisers**
+We at The Coupon Project (the “Site”) understand that your privacy is of critical importance.  This Privacy Policy describes what information we collect from you via our site and how we use and disclose such information.
 
-This blog is hosted by InMotion, and you are encouraged to read their [Privacy Policy](http://www.inmotionhosting.com/privacy.html).  Additionally, this blog is affiliated with third-party advertisers including, but not limited to: Google, Chitika, Logical Media, My Savings, Juice Box Jungle, Commission Junction, Link Share, Brandcaster (Coupons.com), SmartSource, Red Plum, and Amazon.com.  Some or all of these advertising partners use cookies that are activated when you view and/or click through ad images.  Cookies are small files of information that uniquely identify your browser.  This information may help advertisers in a number of ways, such as in measuring the effectiveness of their ads, understanding user preferences, and developing future campaigns.  These advertisers may use additional methods for collecting data as well.
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.  Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
 
-While I have taken care to select reputable advertisers, I am not responsible for methods used by my advertisers.  As a result, I recommend you consult the respective privacy policies of each of these advertisers for additional information about their methods as well as how to opt-out.
+We use cookies for the following purposes:
 
-**  
-Reader Participation**
+(a) [authentication – we use cookies to identify you when you visit our website and as you navigate our website];
 
-As a reader, you are invited to participate in this blog in a number of ways, including but not limited to:
+(b) [security – we use cookies [as an element of the security measures used to protect user accounts, including preventing fraudulent use of login credentials, and to protect our website and services generally];
 
-**_Commenting._** If you choose to leave a comment, your email address (while required) will not be displayed publicly.  While I will have access to your email address, I will only use it to contact you should I have reason to do so.  I will never give or sell your email address to any third-party without your express permission.  Please remember that information you choose to post will be public and at your own risk; therefore, I caution you to exercise good judgment in choosing which details to share.  
-**_  
-Subscribing._** For your convenience, I have activated Google’s Feedburner service so you can receive my posts via a reader or email.  I do not have access to the list of email addresses or subscriber names; that information is maintained solely by Google.  Additionally, I am not notified if you chooseto subscribe or unsubscribe.  You can read Google’s [Privacy Policy](http://www.google.com/intl/en/privacypolicy.html) for more information.
+(c) [advertising – we use cookies [to help us to display advertisements that will be relevant to you]; and
 
-**_Emailing._** My email address is found in the “About” section of my blog.  I welcome readers to email me with questions, comments, deals, or other opportunities.  If you email me something I would like to post on my blog, I will ask your permission first.  Personally identifying information (other than a first name, if agreed) will be withheld.  Again, I will never give or sell your email address to any third-party without your express permission.
+(d) [analysis – we use cookies [to help us to analyze the use and performance of our website and services];
 
-I reserve the right to amend this Policy at any time.  I agree to review this Policy at least annually for accuracy.  If you have additional questions regarding this Policy, I may be contacted at **thecouponproject at hotmail dot com**.
+We use Google Analytics to analyze the use of our website. Google Analytics gathers information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google’s privacy policy is available at: <https://www.google.com/policies/privacy/>
+
+Most browsers allow you to refuse to accept cookies and to delete cookies. The methods for doing so vary from browser to browser, and from version to version. You can however obtain up-to-date information about blocking and deleting cookies via these links:
+
+(a) <https://support.google.com/chrome/answer/95647?hl=en> (Chrome);
+
+(b) <https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences> (Firefox);
+
+(c) <http://www.opera.com/help/tutorials/security/cookies/> (Opera);
+
+(d) <https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies> (Internet Explorer);
+
+(e) <https://support.apple.com/kb/PH21411> (Safari); and
+
+(f) <https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy> (Edge).
+
+Please note that blocking cookies may have a negative impact on the functions of many websites, including our Site. Some features of the Site may cease to be available to you.
+
+**Advertising Privacy Statement**
+
+This Site is affiliated with AdThrive, LLC (“AdThrive”) for the purposes of placing advertising on the Site.  AdThrive uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, AdThrive, Google and our other advertising partners will track your behavior on our website and on other websites across the Internet using cookies.
+
+By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third-party partners. You can view, delete or add interest categories associated with your browser by visiting: [https://adssettings.google.com](https://adssettings.google.com/). You can also opt out of the network cookie using those settings or using the Network Advertising Initiative’s multi-cookie opt-out mechanism at: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).  However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained.
+
+**For European Economic Area Residents**
+
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing.  If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact us at **angela@thecouponproject.com** or contact AdThrive at info@adthrive.com. If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences icon. (Available in the EU.)
+
+**Email Addresses**
+
+We may collect your email address, but only if you voluntarily provide it to us. This may occur, for example, if you sign up to receive our daily email newsletter or use it to leave a comment on a blog post. If you have provided your email address to us, we promise to use it only for the purposes for which it is provided.  We will not use your email address to contact you for unrelated reasons. We will not share your email address with any third parties. There may, however, be rare instances where we may need to share your email address with a third party, for instance, to coordinate the delivery of a prize you have won through the Site. In this instance, we will obtain your permission for submitting your email address first.
+
+If you are a resident of a country in the European Economic Area (EEA), we do not wish to receive your email address, and will delete it if you have provided it inadvertently.
+
+This Policy is true and accurate to the best of my understanding. I do review it periodically as regulations can and do change. If you have additional questions regarding this Policy, I may be contacted at **angela@thecouponproject.com.  **
