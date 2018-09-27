@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpletexting.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706192440id_/https%3A//simpletexting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpletexting.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927164436id_/https%3A//simpletexting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SimpleTexting.com
 
@@ -50,6 +50,6 @@ Changes to this Privacy Policy SimpleTexting reserves the right to revise and up
 ### Contacting Us
 
 You can contact SimpleTexting with your questions and concerns at: support@simpletexting.com.  
-Or by Mail at  **3250 NE 1st Avenue, Suite 305, Miami, FL 33137 ATT: SimpleTexting Compliance**
+Or by Mail at  **1815 Purdy Ave, Miami Beach, FL 33139 ATT: SimpleTexting Compliance**
 
 Effective November 23, 2016
