@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralightning.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529201614id_/http%3A//www.viralightning.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralightning.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927105517id_/http%3A//www.viralightning.com/privacy.php) for the most accurate reproduction.*
 
 # Viral Lightning
 
