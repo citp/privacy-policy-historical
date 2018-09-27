@@ -1,37 +1,32 @@
-> *The following text is extracted and transformed from the fetchvideo.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607104734id_/http%3A//savemedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fetchvideo.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927175539id_/https%3A//vdownloader.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – VDownloader
 
-**What information do we collect?**
+We recognize that privacy is important. This document outlines the types of personal information we receive and collect when you use our products, as well as some of the steps we take to safeguard information.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+### Collection of information
 
- **What do we use your information for?**
+  * VDownloader collects personal information when you register for a VDownloader product or otherwise voluntarily provide such information. We may combine personal information collected from you with information from other VDownloader products or third parties to provide a better user experience, including customizing content for you.
+  * VDownloader uses cookies and other technologies to enhance your online experience and to learn about how you use VDownloader products in order to improve the quality of our products.
+  * VDownloader’s servers automatically record information when you visit our website or use some of our products, including the URL, IP address, browser type and language, and the date and time of your request.
 
-Any of the information we collect from you may be used in one of the following ways: 
 
-; To personalize your experience  
-(your information helps us to better respond to your individual needs)
 
-; To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+### Uses of this information
 
- **Do we use cookies?**
+  * We may use personal information to provide the products you’ve requested, including products that display customized content and advertising.
+  * We may also use personal information for auditing, research and analysis to operate and improve VDownloader technologies and products.
+  * We may share aggregated non-personal information with third parties outside of VDownloader.
+  * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures.
+  * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and products.
+  * VDownloader processes personal information on our servers in the Netherlands and in other countries. In some cases, we process personal information on a server outside your own country.
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
- **Do we disclose any information to outside parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+### Your choices
 
- **Third party links**
+  * We offer you choices when we ask for personal information, whenever reasonably possible. You can find more information about your choices in the Help documents for specific products.
+  * You may decline to provide personal information to us and/or refuse cookies in your browser, although some of our features or products may not function properly as a result.
+  * We make good faith efforts to provide you access to your personal information upon request and to let you correct such data if it is inaccurate and delete it, when reasonably possible.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
- **Childrens Online Privacy Protection Act Compliance**
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
- **Your Consent**
-
-By using our site, you consent to our web site privacy policy. 
