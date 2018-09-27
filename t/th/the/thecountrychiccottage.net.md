@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecountrychiccottage.net privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207054509id_/https%3A//www.thecountrychiccottage.net/p/terms-and-disclosure.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecountrychiccottage.net privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927122241id_/https%3A//www.thecountrychiccottage.net/p/terms-and-disclosure.html) for the most accurate reproduction.*
 
 # Terms and Disclosure - The Country Chic Cottage
 
@@ -69,7 +69,3 @@ We will not sell, distribute, or reveal users’ email addresses or other person
 You can decline to submit personal information at any time. If you decline, we may not be able to continue to provide service to you. You may request deletion of your personal information by sending an email to thecountrychiccottage@yahoo.com, but in some cases, we may be required to keep your information by law. In such a case, it would no longer be active and would be kept separately in an archive.
 
 © Copyright The Country Chic Cottage 2011. All rights reserved.
-
-### Weekly Newsletter
-
-Subscribe to get our latest content by email every week!
