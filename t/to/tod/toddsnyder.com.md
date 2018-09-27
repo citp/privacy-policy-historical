@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toddsnyder.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928160834id_/https%3A//www.toddsnyder.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toddsnyder.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927150932id_/http%3A//toddsnyder.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,14 +10,8 @@
   2. If you enter any type of sweepstakes, promotion or contests we may use the information you provide us for administering and marketing purposes according to the terms and conditions of the specific promotion.
   3. We may use personal information towards research to improve Todd Snyder and our customer support.
   4. We may collect information regarding activities on our website, location and time zone. We use this information as a tool to improve Todd Snyder, our services and products and most importantly, your experience.
-  5. As you browse toddsnyder.com, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with toddsnyder.com. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. You can visit this page (http://www.networkadvertising.org/choices/) to opt out of targeted advertising.
+  5. As you browse toddsnyder.com, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with toddsnyder.com. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. 
 
-
-
-##### How we DON'T use your personal information
-
-  1. Any information we collect will ONLY be shared with third parties that we work with directly(shipping companies, analytics tools, etc.). We DON’T share or sell your information with anyone else. Our goal is to bring you the modern classic style that Todd has built a name around. Remember, don't be evil.
-  2. We DON’T store, save or collect your credit card information after your purchase is made. Any credit card information Todd Snyder obtains is only used to process your order and comes to us encrypted, meaning we don't ever see the number let alone store it somewhere.
 
 
 
