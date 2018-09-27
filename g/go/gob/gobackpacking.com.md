@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gobackpacking.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003032433id_/https%3A//gobackpacking.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gobackpacking.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927222743id_/https%3A//gobackpacking.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Go Backpacking
 
@@ -179,4 +179,6 @@ GoBackpacking.com
 Tampa, Florida 33612, USA  
 dave@gobackpacking.com
 
-Last Edited on 2016-12-13
+Last Updated: May 4, 2018
+
+(Visited 462 times, 1 visits today)
