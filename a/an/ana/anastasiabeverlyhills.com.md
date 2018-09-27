@@ -1,75 +1,257 @@
-> *The following text is extracted and transformed from the anastasiabeverlyhills.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613191345id_/http%3A//www.anastasiabeverlyhills.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anastasiabeverlyhills.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927161052id_/https%3A//www.anastasiabeverlyhills.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Anastasia Beverly Hills
+# Privacy Policy - Anastasia Beverly Hills
 
-When you provide Anastasia Beverly Hills ("ABH") with information through the Anastasia Beverly Hills web site (the "Site"), we respect your privacy. It is important for you to understand what information we collect about you during your visit and what we do with that information. Your visit to the Site is subject to this Privacy Policy and our Terms and Conditions. Please note that this Privacy Policy governs only information provided to the Site and communications from ABH through the Site. It does not govern any other information or communications that may reference ABH.
+At Anastasia Beverly Hills Inc. we are committed to protecting your personal information and respecting your privacy. It is your personal data and we respect that.
 
-1\. COLLECTION OF PERSONALLY IDENTIFIABLE INFORMATION BY ABH
+This Privacy Policy tells you about how and why we collect and use the personal data which you provide to us or which we collect about you when you interact with us, for example, when you use our website or visit our stores.
 
-ABH does not collect personally identifiable information about you, unless you choose to provide us with such information directly or through a third party. For example, if you decide to complete a user registration form, complete an online survey or make a purchase, you may be asked to provide certain information such as your contact information (name, email address, mailing address, and telephone number), occupation, age group, gender and product and/or cosmetic concerns, and the brands and products that you typically use. If you decide to place an order, we will also need to know your delivery and billing address, credit card number, and expiration date. To protect your personal information, users registering at the Site must also enter a user name/email address and password. If you would prefer that we not collect any personally identifiable information from you, please do not provide us with any such information. When you submit your personally identifiable information on the Site, you are giving your consent to the collection, use and disclosure of your personal information as set forth in this Privacy Policy.
+We want you to be informed about how we use your data, how we keep it secure and your rights.
 
-2\. USE OF PERSONALLY IDENTIFIABLE INFORMATION BY ABH
+We trust this Privacy Policy will answer any questions you have. But if not, please contact us directly at info@anastasiabeverlyhills.com or use the contact details provided at the end of this Privacy Policy.
 
-If you opt-in during the Site registration process or at other times when you submit personally identifiable information, the information you provide may be used by ABH to create and deliver to you emails such as our newsletters, surveys or other email messages containing product and event information, cosmetics tips or promotions ("Opt-In Emails"). If you prefer not to receive such Opt-In Emails, please do not opt-in to receive these emails. If you do opt-in and later decide that you would no longer like to receive these emails, see Section 13 (Choice/Opt-Out) below. You may receive the benefit of hearing from ABH Online via mail or phone even if you have not opted-in to receive email.
+It is likely that we will need to update this Privacy Policy from time-to-time by updating this page. We will notify you of any significant changes, but we encourage you to come back and review it from time-to-time.
 
-If you have elected to provide us with your contact information, e.g., by registering at the Site, emailing our Customer Service department or placing an order, we may provide you with service related announcements concerning the Site or contact you regarding your customer service requests or your order. For example, all registered users will receive a welcoming email to confirm their registration. We may also contact you to respond to product questions or concerns that you may express. These types of communications are necessary to serve you, respond to your concerns and to provide the high level of customer service that ABH Online offers its customers.
+**Ensuring the Lawful Use of Your Data**
 
-**Device Identifiers:** Anastasia Beverly Hills also automatically collects an IP address or other unique identifier information (“ **Device Identifier** ”) for the computer, mobile device, technology or other device (collectively, “ **Device** ”) you use to access the Sites. A Device Identifier is a number that is automatically assigned to your Device when you access a web site or its servers, and our computers identify your Device by its Device Identifier. We may use a Device Identifier to, among other things, administer the Sites, help diagnose problems with our servers, analyze trends, track users' web page movements, help identify you and your shopping cart, and gather broad demographic information for aggregate use.
+We will only use your personal data where we have a lawful basis to use it. We will only use your data where: (a) it is necessary for us to perform our contract with you (for example, to fulfill your order); or (b) it might reasonably be expected as part of running our business; and (c) it does not adversely impact your interests, rights or freedoms.
 
-3\. USE OF PERSONALLY IDENTIFIABLE INFORMATION BY ABH COMPANIES
+For example, we might use your purchase history to send you personalized offers. We might also combine your shopping history to identify trends and improve our ability to keep up with demand and develop the right new products for our customers. Please contact us using the contact details provided at the end of this Privacy Policy if you would like further information about this.
 
-We may share your personally identifiable information with companies and business entities which are owned or controlled by ABH Online's parent company and distribute and market ABH brand products (the "ABH Companies"). ABH Companies may only use this information in accordance with this Privacy Policy.
+We may sometimes need to use data to comply with our legal obligations. One example is to provide details related to fraud to law enforcement agencies. In other instances, we will ask for your consent to use your data, for example, where you sign-up to receive our email newsletters.
 
-4\. DISCLOSURE OF PERSONALLY IDENTIFIABLE INFORMATION AND TRANSFER OF DATA
+Further details regarding our use of your personal information are provided below.
 
-ABH may disclose any information, including personally identifiable information, we deem necessary, in our sole discretion, to comply with any applicable law, regulation, legal process or governmental request. We may also exchange information, including personally identifiable information, with other companies and organizations for credit fraud protection and risk reduction.
+**What Information We Collect from You and How We Use It**
 
-ABH may retain other companies and individuals to perform functions consistent with our Privacy Policy on our behalf. Examples include customer support specialists, webhosting companies, fulfillment companies (e.g., companies that fill product orders or coordinate mailings), data analysis firms and email service providers. Such third parties may be provided with access to personally identifiable information needed to perform their functions, but may not use such information for any other purpose.
+Information we collect about you and how we will use it depends on how you interact with us. For example, you might place an order on our Website, contact us with a question by email or phone, make a purchase, or book an appointment in one of the stores that carry our products. The information discussed below provides some examples of the information we collect about you and how we will use it.
 
-If you choose to participate in any promotions, sweepstakes, surveys, questionnaires or other events during your visit to our Site, the rules or terms and conditions for those events may indicate that your personally identifiable information will be shared with third parties. By choosing to participate and submitting your personally identifiable information with respect to such events, you consent to disclosure of your personally identifiable information to such third parties. ABH Online is not responsible for and disclaims all liability for any use of the information you choose to provide to such third parties.
+We will collect personal data needed to identify you, such as your name, username, password and date of birth. We will also collect your contact details, such as your email address, telephone number and billing/delivery address. We will use your information as detailed below.
 
-The ABH Companies and third parties referenced in Sections 3 and 4 who will receive your information only for the purposes set forth in this Privacy Policy and the databases in which your personally identifiable information may be stored may be located both inside and outside the United States ("US"). By providing personally identifiable information to this Site, you acknowledge and accept that the ABH Company or third party which receives your personally identifiable information may be located in the US or within a state or country which does not guarantee the same level of protection for personally identifiable information as the one in which you reside.
+**To fulfill our contract with you:**
 
-5\. COOKIES AND IP ADDRESSES
+  * To fulfill your order, for example, by delivering your products to you or to contact you about your order where necessary
 
-A cookie is a piece of data that enables us to track and target your preferences. We may place a "cookie" on your computer's hard drive so we can recognize you as a return user and personalize your experience and your use of our Site. The cookie will be stored on your computer's hard drive until you remove it. We may also use temporary or "session" cookies to help you shop. These cookies will expire when you place an order. We may use flash cookies to personalize your experience. You can have your browser and/or plugs to your browser, such as flash, notify you of, or automatically reject, cookies. If you reject our cookies, you may still use the Site, but you may be limited in the use of some of the features. We may also use IP addresses to analyze trends, administer the Site, track traffic patterns, and gather demographic information for aggregate use, as well as in combination with your personally identifiable information for credit fraud protection and risk reduction.
 
-Some of our other business partners and service providers may also use cookies on the Site. However, we have no access to, or control over, these cookies and do not accept any responsibility for such use.
 
-6\. PIXEL TAGS AND TRACKING TECHNOLOGY
 
-When you visit this Site or view one of our emails, ABH may use pixel tags (also called "clear" gifs), tracking links and/or similar technology to note some of the pages you visit on our Site and personalize your experience. We may also use pixel tags to determine what types of email your browser supports. We may use the information collected through pixel tags, tracking links and similar technology in combination with your personally identifiable information.
+**Legitimate business purposes:**
 
-7\. USE OF AGGREGATE INFORMATION
+  * To allow you to create an account with us
 
-ABH may use the information you provide in aggregate (non-personally identifiable) form for internal business purposes, such as generating statistics and developing marketing plans. We may collect, store or accumulate certain non-personally identifiable information concerning your use of the Site, such as information regarding which of our pages are most popular. We may share or transfer non-personally identifiable information with or to our affiliates, licensees and partners.
+  * To allow you to book an appointment with us or to attend an event
 
-8\. CHILDREN UNDER 13
+  * To communicate with you your order or booking, if you have asked a question or sent us a complaint
 
-If you are under 13 years of age, you may browse our Site. However, you may not provide personal information to us. For example, you cannot register or make a purchase. This Site is not designed for children and we do not knowingly collect personally identifiable information from any children under 13.
+  * To allow you to complete any surveys we send you (if you wish to), or to comment on or review our products or services, to help us improve them
 
-9\. LINKS
+  * To support fraud prevention and detection
 
-The Site may contain links to or from other websites. Please be aware that we are not responsible for the privacy practices of other websites. This Privacy Policy applies only to the information we collect on the Site. We encourage you to read the privacy policies of other websites you link to from the Site or otherwise visit.
 
-10\. SECURITY
 
-ABH implements various security measures in accordance with industry standards to protect the security of your personal information both online and offline. Your personal information may be stored facilities located both inside and outside the US and the EU. If you have any questions about the security at the Site, you can email us at [info@anastasiabeverlyhills.com](mailto:info@anastasiabeverlyhills.com).
 
-11\. NOTIFICATION OF CHANGES
+**Where you consent:**
 
-ABH reserves the right to revise this Privacy Policy from time to time. Our rights to use your personally identifiable information will be based on the privacy policy in effect at the time the information is used. This Privacy Policy was last updated August 11, 2008.
+  * To send you email newsletters to keep you up-to-date about our products, services, and latest offers, which we think will interest you (only where you consent)
 
-12\. UPDATING YOUR INFORMATION
+  * To allow you to enter competitions, events, or prize draws run by us
 
-You may review, change and/or correct the personally identifiable information you provide, review/update your personal information, or request that we deactivate your account at any time by emailing us at [info@anastasiabeverlyhills.com](mailto:info@anastasiabeverlyhills.com).
 
-13\. CHOICE/OPT-OUT
 
-When you register at the Site or otherwise provide your contact information to ABH Online, you may opt-out of receiving future Opt-In Emails from us. Further, you may opt out from written or email communication by contacting us at [info@anastasiabeverlyhills.com](mailto:info@anastasiabeverlyhills.com).
 
-14\. COMMENTS
+We will use the information you provide when you contact us by telephone, by email, by post or on social media as detailed below.
 
-We have taken great measures to ensure that your visit to the Site is an excellent one and that your privacy is constantly respected. If you have any questions, comments or concerns about the Site's privacy practices, please email us at [info@anastasiabeverlyhills.com](mailto:info@anastasiabeverlyhills.com).
+**Legitimate business purposes:**
 
-Copyright © 2016 Anastasia Beverly Hills, Inc. All worldwide rights reserved.
+  * To provide you with the support and customer service you have requested
+
+
+
+
+We may track technical information about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies. We provide details regarding how we process and use cookies, which can be found in our Cookies Policy. We will use this information as detailed below.
+
+**Legitimate business purposes:**
+
+  * To administer and to improve our Website, to ensure it is presented in the
+
+  * most effective manner for you and to give you the best Website experience and to allow you to participate in interactive features of our Website if you choose to do so
+
+  * For data analysis, testing, research and statistical statistics to help us to improve our products and services
+
+  * To keep our Website safe and secure
+
+  * To make suggestions and recommendations to you and other users of our Website about products or services that may interest you or them
+
+  * To measure or understand the effectiveness of advertising we direct to you and others, and to deliver relevant advertising to you
+
+
+
+
+We may gather additional information you choose to provide, including your hair color, eye color and skin tone. We will use this information as detailed below.
+
+**Legitimate business purposes:**
+
+  * To assist us to provide you with a more personalized beauty experience
+
+
+
+
+You do not have to give us any of the personal data discussed above. But, if you do not provide us with certain information, we may not be able to ship you with the goods and provide the services you have requested from us.
+
+The forms you fill in on our Website and in stores that carry our products will make it clear what information we need to provide the product or service you are requesting and what information you can decide whether to provide. To help us form a better, overall understanding of you as a customer, we combine your personal data, for example, your shopping history.
+
+**1\. AUTOMATED DECISION MAKING**
+
+We do not currently carry out automated decision-making using information we hold about you.
+
+**2\. SHARING YOUR DATA**
+
+**SHARING YOUR DATA WITH THIRD PARTIES WE TRUST**
+
+We share your personal data with third parties we trust to allow us to provide our services to you. When we do share your data with these third parties, we only provide the information they need to perform the service. We have written contracts in place with them requiring they only use your data for the purpose we specify to them and that your privacy is secure and respected.
+
+The third parties we trust include the following:
+
+  * Companies that help us fulfill your orders: FedEx, USPS
+
+  * Professional service providers such as website hosting providers, system providers, website analytics providers, advertisers and appointment booking providers, who help us run our business: SalesForce Commerce Cloud and Marketing Cloud, Google Analytics, BrightEdge, JazzHR, Narvar;
+
+  * Direct marketing companies who help us manage our electronic communications with you: ExactTarget, Social Annex, Windsor Circle;
+
+  * Social Media or Web platforms to show you products that might interest you while you are browsing the internet: Facebook, Instagram, Twitter, YouTube, Gmail;
+
+  * Companies that send segmented, personalized marketing communications on our behalf: Windsor Circle; and
+
+  * Credit reference agencies, law enforcement and fraud prevention agencies, so that we can help tackle fraud: CyberSource, PayPal
+
+
+
+
+We may also share your personal data connected in a business transaction. Those transactions include a merger, acquisition by another company, an investment in our company or a sale of all or a portion of our assets). In these circumstances, we may need to share your personal data with a prospective buyer, investor and external professional advisors, such as accountants, insurers, lawyers or financial institutions.
+
+We may be required by law to share your personal data with the police, administrative authorities or other enforcement, regulatory or Government bodies.
+
+We will only share your personal data with third parties for them to use for their own direct marketing purposes when you have given your consent for us to do so.
+
+We will only share your personal data with third parties for them to use for their own direct marketing purposes when you have given your consent for us to do so.
+
+For more information on the privacy policies of our partners who act as independent data controllers, please direct your inquiries to:
+
+DHL International N.V. / S.A.  
+Woluwelaan 151  
+1831 Diegem  
+Belgium  
+BE 0406 796 224  
+<http://www.dhl.com/en/legal.html#privacy>
+
+Ingenico eCommerce Solutions SPRL (only acting as a Contracted Controller for the Fraud Expert tool)  
+Boulevard de la Woluwe, 102  
+1200 Brussels  
+Belgium  
+BE 0459.360.623  
+<https://payment-services.ingenico.com/be/en/cookie-policy>
+
+European Merchant Services B.V.  
+Diemen  
+The Netherlands  
+NL 34226533  
+<https://emspay.eu/privacy-information-notice>
+
+Paypal Europe SARL & Cie, SCA  
+5th Floor, 22-24 Boulevard Royal  
+2449 Luxemburg  
+R.C.S Luxemburg B 118 349  
+<https://www.paypal.com/be/webapps/mpp/ua/privacy-full?locale.x=en_BE>
+
+**3\. INFORMATION WE RECEIVE FROM THIRD PARTIES**
+
+We may receive information about you from third parties, such as: (a) companies with which we run competitions and events, such as trade shows; or from organizations we work with, or from publicly available sources, such as Companies House, or information which is published in the media,
+
+Depending on your settings or the privacy policies of social media or messaging services, such as Facebook, Instagram, Twitter or WhatsApp, we may collect information about you from these sources, with your permission.
+
+We may combine the information you have given us, with information obtained from other sources, but we will only do this when we have a lawful basis to do so.
+
+**4\. SEEING ADVERTISEMENTS FOR OUR WEBSITE ONLINE**
+
+We, like many other companies, target Anastasia Beverly Hills ads and banners when you are browsing on apps and other websites. We do this by way of various ad exchanges and digital marketing networks.
+
+We use various advertising technologies, for instance, ad tag, cookies, pixels, identifiers and web beacons. We also use services offered by some sites and social networks, for example, Facebook's Custom Audiences. The ads and banners you see are based on information that we hold about you, or on your prior use of our Website. Examples include: (a) products you have browsed previously; (b) content you have read on our Website; or (c) content you have read on Anastasia Beverly Hills’ banners or ads that you previously reviewed.
+
+**5\. INTERNATIONAL TRANSFER OF YOUR PERSONAL DATA**
+
+We are a global business and some of our group companies and service providers are located in other countries.
+
+As a result, it may be necessary for the personal data that we collect from you to be transferred to or accessed from outside the US so we can provide our services more effectively.
+
+If we do this, we have procedures in place to ensure your data receives the necessary protections. Any transfer of your personal data will follow applicable laws and we will treat the information according to the principles in this Privacy Policy.
+
+If you would like further information, please contact us using the contact details provided at the end of this Privacy Policy.
+
+**6\. NON-US CUSTOMERS**
+
+If you are based outside the US and place an order on the Website, your personal data will be accessed in the US by Anastasia Beverly Hills Inc. and the third parties detailed above.
+
+**7\. HOW LONG WILL WE KEEP YOUR PERSONAL DATA?**
+
+We will only keep your personal data as long as we need to for the reason(s) we collected it, as discussed in this Privacy Policy.
+
+We may also retain some of your personal data if we are required to do so for legal purposes. Examples include: (a) meeting our legal or regulatory requirements; or (b) preventing fraud and abuse.
+
+**8\. UPDATING AND CORRECTING**
+
+It is important that the personal data we hold about you is accurate and current. If you have an account with us, please keep your details up-to-date.
+
+**9\. SECURITY**
+
+We are committed to securing your personal data. We have put in place suitable physical, electronic, contractual and managerial procedures, including our Information Security Management System and Secure Sockets Layer (SSL) encryption, to protect your personal data.
+
+**10\. THIRD-PARTY LINKS**
+
+Our Website may contain links to other websites of interest. However, we do not have any control over third-party websites and they will be governed by their own privacy policies, not this Privacy Policy.
+
+**11\. HOW CAN I UNSUBSCRIBE FROM MARKETING COMMUNICATIONS?**
+
+We enjoy keeping you up-to-date by email about our latest products, services, offers and events. But if you decide that you do not want to receive these communications at any point, you can unsubscribe as follows:
+
+  * (1) Email us at: info@anastasiabeverlyhills.com or click on the unsubscribe button on the bottom of any email we send you; or
+
+  * (2) If you have an account with us, you can also unsubscribe by going to the Account Information page on the Anastasia Beverly Hills website, clicking on Newsletters, and unsubscribing to general subscription.
+
+
+
+
+**12\. YOUR RIGHTS**
+
+You have the following rights regarding the personal information we hold about you to request:
+
+  * Access to the personal data we hold about you (commonly known as a "data subject access request") including a copy of it;
+
+  * The correction of the personal information that we hold about you if it is not complete or accurate. But if you hold an account with us, you may be able to do this in certain cases yourself by visiting the Account Information page on the Anastasia Beverly Hills website;
+
+  * The deletion or removal of personal data we hold about you where there is no good reason for us continuing to process it or where you have exercised your right to object to processing (see below);
+
+  * For our processing of your personal information to be restricted to certain circumstances, for example if you want to establish its accuracy or the reason for processing it; and
+
+  * To obtain a copy of the personal information you have provided us with and to reuse it elsewhere or to ask us to transfer it to a third party of your choice.
+
+
+
+
+We may ask you for proof of your identity before dealing with your request, as a security measure to protect your data.
+
+**Right to Object**
+
+Where we are processing your personal data on the basis of our legitimate interests, you can ask us to stop processing it. We must do so unless we believe we have an overriding legitimate reason to continue processing your personal data.
+
+**13\. CONTACTING US**
+
+If you have any queries, comments or requests regarding this Privacy Policy, you have a complaint, or you would like to exercise any of your rights set out above, you can contact us in the following ways:
+
+  * By email at info@anastasiabeverlyhills.com; or
+
+  * By post at Consumer Relations, Anastasia Beverly Hills Inc., 10635 Santa Monica Blvd, Ste 300 Los Angeles CA 90025
+
+
+
+
+Copyright © 2018 Anastasia Beverly Hills, Inc. All worldwide rights reserved.
