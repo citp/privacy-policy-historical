@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubetamil.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613082522id_/http%3A//www.tubetamil.com/tubetamil-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubetamil.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927040457id_/http%3A//www.tubetamil.com/tubetamil-privacy-notice) for the most accurate reproduction.*
 
 # TubeTamil Privacy Notice | Tubetamil.com
 
@@ -47,7 +47,7 @@ We (or our partners) may use or support cookies for purposes including the follo
 
 ## Legitimate Interest
 
-Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their [privacy policy ](http://exponential.com/privacy/)or contact their data protection officer via [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their [privacy policy ](http://exponential.com/privacy/)or contact their data protection officer via privacy@exponential.com.
 
 ## With whom we share your information:
 
@@ -68,4 +68,4 @@ We do link to other web sites which might support download. We are not responsib
 More Information  
 For questions concerning the product or your account, please. For more  
 information about our privacy practices, write to us at:[  
-[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2c58594e49584d4145406c444358414d4540024f4341)
+tubetamil@hotmail.com](mailto:tubetamil@hotmail.com)
