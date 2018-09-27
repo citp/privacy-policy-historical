@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bclc.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528100905id_/http%3A//corporate.bclc.com/customer-support/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bclc.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927150333id_/http%3A//corporate.bclc.com/customer-support/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -70,6 +70,10 @@ We use both session ID cookies and persistent cookies. A session ID cookie expir
 
 Our site regularly uses Google Website Optimizer (GWO) to perform variation testing. GWO cookies are placed within site pages to determine page effectiveness in conversion. The results from this testing are used to create an improved product experience for our players. GWO does not collect personal information, only information related to the session. In the event that personal information is collected, Google requests your consent before sharing it. Further details can be found in the [Google Privacy Policy](http://www.google.com/intl/en/policies/privacy/).
 
+### Behavioural Targeting
+
+We partner with third party marketing and advertising organizations, including Facebook, to either display advertising on our site or to manage our advertising on other websites. Our third party partners may use technologies such as cookies and eTags to gather information about your activities on our site and other websites in order to provide you with advertising based upon your browsing activities and interests. If you do not wish to have this information used for the purpose of serving you interest-based ads, [you may opt-out by clicking here](http://preferences-mgr.truste.com/). 
+
 ### Mouseflow
 
 We use Mouseflow web analytics service on this website to helps us research website issues and improve our visitors’ experience on our website. When enabled, Mouseflow records mouse clicks, mouse movements, scrolling activity and may record text you type in this website, excluding text input in password fields. For more information, see Mouseflow’s Privacy Policy at <http://mouseflow.com/privacy/>. You can choose to disable the Mouseflow service at <http://mouseflow.com/opt-out/>.
@@ -85,8 +89,6 @@ We use clear gifs in our HTML-based emails to let us know which emails have been
 This website contains links to other sites that are not owned or controlled by BCLC. Please be aware that we, BCLC, are not responsible for the privacy practices of such other sites.
 
 We encourage you to read the privacy statements of each and every website that collects personal information.
-
-This privacy statement applies only to information collected by the PlayNow.com website.
 
 ### Social Media Features
 
@@ -112,4 +114,4 @@ If we are unable to resolve your privacy concerns, you may contact the [Office o
 
 We may update this privacy statement to reflect changes to our information practices
 
-**Last Updated: June 18, 2015**
+**Last Updated: June 20, 2018**
