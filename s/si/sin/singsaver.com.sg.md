@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the singsaver.com.sg privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703185751id_/https%3A//www.singsaver.com.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singsaver.com.sg privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927052022id_/https%3A//www.singsaver.com.sg/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SingSaver.com.sg
+# Privacy Policy | SingSaver
 
 ## SingSaver.com.sg Privacy Policy
 
@@ -178,7 +178,7 @@ SingSaver Pte Ltd
 
 1A Keong Saik Rd, Singapore, 089109
 
-Phone: +65 9278 9531 (lines are open Monday to Friday 9.00am to 5.00pm)
+Phone: +65 3158 0152 (lines are open Monday to Friday 9.00am to 5.00pm)
 
 Email: info@singsaver.com.sg
 
