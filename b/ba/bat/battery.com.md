@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the battery.com privacy policy that was archived on 2017-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170203113302id_/https%3A//www.battery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battery.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927084400id_/https%3A//www.battery.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Battery Ventures
 
-_This Privacy Policy was last updated on April 9, 2014._
+_If you are an individual in the European Union, please[click here](https://www.battery.com/privacy-policy-european-union/). _
+
+_This Privacy Policy was last updated on April 12, 2017._
 
 **Our Policy :**
 
