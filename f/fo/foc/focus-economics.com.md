@@ -1,62 +1,188 @@
-> *The following text is extracted and transformed from the focus-economics.com privacy policy that was archived on 2017-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170721111700id_/https%3A//www.focus-economics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the focus-economics.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927170056id_/https%3A//www.focus-economics.com/privacy-policy) for the most accurate reproduction.*
 
 # FocusEconomics Privacy Policy | FocusEconomics
 
-FocusEconomics is the sole owner of any personally identifiable information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. FocusEconomics collects information from our users at several different points on our website (such as the Newsletter Subscription Form and the Contact Us Form). Said forms require the user to give their contact information (such as name and e-mail address). The information we are gathering from these forms will be used to monitor activity, such as who is visiting the site and how often it is being accessed. Furthermore, the information we collect from the forms is used to improve the content of our newsletters and website and is used to notify subscribers about updates to our website and product offering. It is optional for the user to provide any or all of the information, but we encourage the user to provide the information so we can provide a more personalized experience on our site.
+_Last updated on 9  May 2018_ 
 
- **Order**
+ **Introduction**
 
-We request information from the user on our order form. Here a user must provide contact information (like name and e-mail). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, this contact information is used to get in touch with the user. Any financial information (like credit card number and expiration date) provided in an actual order is processed through a secure server with our credit card processing company WorldPay Ltd. (see Security below). This company does not retain, share, store or use personally identifiable information for any secondary purposes.
+FocusEconomics, S.L.U. is the owner of the website [www.focus-economics.com](http://www.focus-economics.com/) and is responsible for the processing of users’ personal data. FocusEconomics appreciates your visit and interest in our company, products, and services. We value the importance of protecting your privacy and personal data. To ensure transparency and security, our privacy statement as detailed below will inform you about the nature, scope, and purpose of the personal data that we process.
 
- **Cookies**
+This Privacy Notice explains how we may use, process and store your personal information as a User of the website. We will receive that information from you with your permission and consent, or we may receive your personal information from third parties who you have given consent to pass this information on to us.
 
-A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while the user is on our site. Once the user closes his browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site.
+FocusEconomics informs all users that their personal data will be treated in accordance with REGULATION (EU) 2016/679 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (“GDPR”).
 
-Some of our business partners use cookies on our site (for example, our provider of web analytics Google). However, we have no access to or control over these cookies.
+Please note that if your company enlists FocusEconomics services, your company and FocusEconomics may enter into a separate agreement that will govern the processing of all information and data collected by FocusEconomics in connection with the service, including some data collected through our websites. Such agreement takes precedence over any conflicting provision in this Privacy Policy.
 
-The FocusEconomics site uses the services of Google for targeting of ads, promotions and other marketing messages. To do this, Google collects anonymous data through the use of cookies. To learn more about Google, including your ability to opt out of the Google system, go to [www.google.com/policies/privacy.](http://www.google.com/policies/privacy/)
+We reserve the right to update this privacy policy at any time without prior notice. We will process data in accordance to the privacy policy that you have consented to at the time of your consent. Upon a change in policy, we will alert you with a conspicuous website banner notice; your continued use of the website and/or its services will constitute your consent to the updated policy. Use the “Last Updated” date in this policy to determine when it was last changed.
 
- **Log Files**
+ **1.  Purposes of data processing**
 
-We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+FocusEconomics processes personal data to maintain a commercial relationship with the User via:
 
- **Sharing**
+Sending of commercial advertising communications by email, fax, SMS, MMS, social communities or any other electronic or physical means, present or future, which make commercial communications possible.
 
-We will share aggregated demographic information with our business partners. This is not linked to any personal information that can identify any individual person. We use a credit card processing company to bill users for goods and services. This company does not retain, share, store or use personally identifiable information for any secondary purposes. We do not make the e-mail addresses of those who access our site or receive our newsletter available to any third parties. For more information, please go to [www.worldpay.com/](http://www.worldpay.com/about_us/index.php?page=privacy&c=UK)
+ **FocusEconomics may process your information because:**
 
- **Links**
+  * We have a contract with you
+  * You have given us permission to do so via a web form or otherwise
+  * We must provide services to you after you have purchased something from us
 
-The FocusEconomics website contains links to other sites. Please be aware that FocusEconomics is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
 
- **Surveys**
 
-From time-to-time our site requests information from users via surveys. Participation in these surveys is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and e-mail address) and demographic information (such as country). Contact information will be used to notify the users of the survey results and the survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
+ **Information you give us**
 
- **Security**
+You may give us personal information by
 
-This website takes every precaution to protect our users’ information. When users submit sensitive information via the website, your information is protected both online and off-line. Any financial information (like credit card number and expiration date) provided in an actual order is processed through a secure server with our credit card processing company WorldPay Ltd. All transactions are encrypted using Secure Socket Layer (SSL) architecture (dependent on browser support). While on a secure page at WorldPay the lock icon on the bottom of Web browsers such as Microsoft Internet Explorer, Google Chrome and Mozilla Firefox becomes locked, as opposed to un-locked, or open, when you are just ‘surfing’. 
+  * Filling out a form on our website or sending us an e-mail
+  * Subscribing to our newsletter
+  * Applying for a job at FocusEconomics
 
-We also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Furthermore, all employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers’ information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment. If you have any questions about the security at our website, you can send an e-mail to [security@focus-economics.com](mailto:security@focus-economics.com).
 
- **Special Offers**
 
-Established users will occasionally receive information on products, services and special offers. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below.
+ **Information we collect about you**
 
- **Site and Service Updates**
+If you visit our website, we may automatically collect information about you, for example:
 
-We also send the user site and service announcement updates. We communicate with the user to provide requested services and in regards to issues relating to new product offerings or content additions to our website.
+  * Technical information
+  * IP addresses
+  * Information about what type of device you use to connect to our website
+  * How you interact with our website
 
- **Correction/Updating Personal Information**
 
-If a user’s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us. This can usually be done at the member information page or by e-mailing our User Support [user@focus-economics.com](mailto:user@focus-economics.com).
 
- **Choice/Opt-out**
+ **Information we receive from other sources**
 
-Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an ‘opt-out’ mechanism so users who order a product from us, but don’t want any marketing material, can keep their e-mail address off of our lists.  
-Users who no longer wish to receive our newsletter(s) may opt-out of receiving these communications by replying to the newsletter and writing, “unsubscribe” in the subject line of the e-mail or e-mail us at [info@focus-economics.com](mailto:info@focus-economics.com).
+We work with third parties (including, for example, business partners, advertising networks, analytics providers, search information providers,) and may receive information about you from them as part of the service we provide you.
 
- **Notification of Changes**
+ **Data retention criteria**
 
-If we decide to change our privacy policy, we will post those changes on our homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an e-mail. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+Data shall be retained as long as there is a mutual interest and, when no longer necessary for that purpose, data will be deleted in accordance with security measures to ensure the total destruction of the data.
 
- **FocusEconomics' Social Network Privacy Policy:[Read More](http://focus-economics.com/content/social-network-privacy-policy)**
+ **Communication of data**
+
+Data will not be communicated to third parties unless we are legally obliged to do so.
+
+ **Users’ rights**
+
+Users have the right to:
+
+  * Withdraw consent at any time.
+  * The access, rectification, portability and deletion of your data, and to the limitation or opposition to the treatment of your data.
+  * The right to lodge a complaint with the supervisory authority ([agpd.es](http://www.agpd.es/)) if you consider that
+
+
+
+the treatment does not comply with the regulations in force.
+
+You may request the deletion, rectification or withdraw consent, or changes to your information, at any time by contacting us at [info@focus-economics.com](mailto:info@focus-economics.com) or sending a letter to:
+
+FOCUSECONOMICS, S.L.U.
+
+Gran Vía, 657 1ª 1ª
+
+08010 Barcelona, Spain
+
+ **2\. Compulsory or optional nature of the information provided by the user**
+
+When marking of the corresponding boxes and entering data into fields marked with an asterisk (*) on any form on this website, users expressly, freely and unequivocally accept that processing your data is necessary for FocusEconomics to meet your request. Any data not marked with an asterisk (*) is not obligatory. The User guarantees that the personal data provided to FocusEconomics is true and correct and is responsible for communicating any changes to the data provided.
+
+FocusEconomics informs and expressly guarantees Users that their personal data will not be used for any other purpose. It will in no case be given to third parties, and that should a transfer of data be made, FocusEconomics the express informed and unequivocal consent of the Users will be requested beforehand. All data requested through the website is necessary, as it is required in order to provide optimal service to theUuser. In the event that not all the requested data is provided, there is no guarantee that the information and services provided will be completely adjusted to your needs.
+
+ **3\. Safety precautions**
+
+In accordance with the provisions of the current regulations on the protection of personal data, FocusEconomics is complying with all the provisions of the GDPR regulations for the processing of the personal data for the company is responsible, and clearly following the principles described in article 5 of the GDPR, by which data is processed in a lawful, fair and transparent manner in relation to the data subject and is appropriate, relevant and limited to what is necessary in relation to the purposes for which they are processed.
+
+FocusEconomics guarantees that it has implemented appropriate technical and organizational policies to comply with the security measures established by the GDPR in order to protect the rights and freedoms of Users and has communicated the necessary information to them.
+
+ **4.  Cookies and Tracking Pixels on Visit**
+
+When you visit our website, our system automatically collects information about your visit, such as your browser type, your IP address, and the referring website.
+
+This collection may be done in conjunction with our vendors and partners (see data processors list below). We may receive from them general demographic or usage data of our site visitors. We do not use automatically collected information to identify you personally without collecting additional consent.
+
+Such information is typically collected using web cookies, web or email pixels (also known as beacons), embedded hyperlinks, and similar tools. Popular browsers can generally be set to disable or delete individual cookies. See below for the types of cookies we use and their respective purposes.
+
+  *  **Functional Cookies:  **allow us to analyze your website usage so we can offer you a more personalized experience.
+  *  **Advertising Cookies:**  allow us to better assess the effectiveness of our content marketing and advertising efforts. These cookies are provided by our third-party partners to analyze and track site visit and signups stemming from advertising. We do not share your personal information (such as name or email) to third-party providers outside of site visit data collected directly by such Advertising Cookies, though your site visit data may be linked with other personal information collected elsewhere by such third-party providers. Such external data processing is governed by the privacy policies of these third-party providers.
+
+
+
+See below for descriptions about the cookies used on our websites and how you can opt out from them.
+
+ **Google Analytics  (Functional Cookies)**
+
+Our website uses [Google Analytics](https://analytics.google.com/), a web analysis service of Google, Inc. (“Google”). Learn more from their [Terms of Service](https://www.google.com/analytics/terms/us.html) and [Privacy Policy](https://www.google.com/intl/en/policies/privacy/). 
+
+ _Opt-out:  _Download the browser plugin “Google Analytics Opt-out Browser Add-on” [here](https://tools.google.com/dlpage/gaoptout).
+
+ **Google AdWords (Advertising Cookies)**
+
+Our website uses [Google AdWords](https://adwords.google.com/) Conversion Tracking cookie to measure and optimize the performance and user experience related to our ads in Google Search or selected Google Display Network sites. Learn more about Google’s privacy policy [here](https://www.google.com/intl/en/policies/privacy/). 
+
+ _Opt-out:  _Visiting [Google’s Ads Settings](http://www.google.com/settings/ads). 
+
+ **Facebook Ads**
+
+Our website uses [Facebook](https://analytics.google.com/) ads to show visitors products of interest to them when visiting other websites. Learn more from their [Terms of Service](https://www.facebook.com/policies/ads/) and [Privacy Policy](https://www.facebook.com/policies/ads/). 
+
+ _Opt-out:_ Visit [Facebook’s help page](mailto:https://www.facebook.com/help/568137493302217) for information on how to opt out.
+
+ **3\. Categories of Personal Data**
+
+Personal data means any information relating to an identified or identifiable natural person.
+
+FocusEconomics collects, processes, or uses the following personal data, if you provide it to us:
+
+  * name, email, phone, address, job title, company, products of FocusEconomics in use,
+  * other data that you have provided while contacting us, especially using the contact, download, or signup forms on our website,
+  * data that you have sent to us through an online survey or job application.
+  * For marketing purposes and to improve our websites and services, we also collect data sent by your web browser, e.g., information about your browser, your IP address, and your operating system. 
+
+
+
+ **4\. Data recipients**
+
+We do not sell or rent your personal information to third-parties. We do not share your personal information, except as provided in this Privacy Policy.
+
+We use third-party data processors to process personal data on our behalf. Such service providers support FocusEconomics, especially relating to hosting and operating the websites, marketing, analytics, improving the websites, and sending email newsletters. These processors may be located outside the European Union.
+
+Our website may also include social media features (e.g., share or like buttons). Such features are provided by third-party social media platforms such as LinkedIn, Twitter, or Facebook. Where data is collected this way, its processing is governed by the privacy policy of the respective social media platforms.
+
+Our content may link to third party websites to provide relevant references. We are not responsible for such external content, which may contain separate privacy policies and data processing disclosures.
+
+We may disclose your personal information if required by law, regulation, or other legal subpoena or warrant. We may also disclose your personal information to a regulatory or law enforcement agency if we believe it to be necessary to protect the rights, property, or personal safety of FocusEconomics, its customers or any third party.
+
+ **5\. Electronic communications**
+
+ **Email**
+
+If you have given us your email for purposes of communication or promotion, we will use your data to contact you or send promotional emails relating to your interests. You may revoke your consent to being contacted by email for promotional purposes any time, by clicking on an unsubscribe link or replying directly stating your wish to unsubscribe.
+
+Further, with your consent, we may make use of email tracking technology to obtain data on if you open an email or if you click on links in an email. This data will be used only in automated ways to help improve future marketing messaging and/or to prioritize follow ups based on perceived communications relevance.
+
+Without your consent, we will not make use of personal data unique to you, such as your IP address, your device or browser information.
+
+ **Whatsapp**
+
+If you have asked to receive economic news via Whatsapp as part of our broadcast group, we will send you occasional communications to the phone number you have provided. You may revoke your subscription at any time by sending us a message with "UNSUBSCRIBE" to our Whatsapp phone number (+34 644 75 36 88) or to info@focus-economics.com. For further information on the Privacy Policy of Whatsapp visit [this page](https://www.whatsapp.com/legal/).
+
+ **6\. Technical and Organizational Data Protection**
+
+FocusEconomics implements commercially reasonable technical and organizational measures to protect your personal data against abuse and loss. We store such data in secure environments. We provide training to our employees on data protection best practices and require them to enter into a confidentiality agreement.
+
+ **7\. Rights and Contact Info**
+
+Upon request, our Data Protection Officer will provide you with information as to whether and what personal data we store in relation to you. Should your personal data be incorrect, you may have it rectified. You may also revoke your consent to use your personal data in the future, in whole or in parts, or request deletion of your personal data.
+
+Please feel free to direct such requests, or other questions and comments regarding this privacy statement or the privacy practices of [www.focus-economics.com](http://www.focus-economics.com/) to:
+
+FOCUSECONOMICS, S.L.U.
+
+Gran Vía, 657 1ª 1ª
+
+08010 Barcelona, Spain
+
+[info@focus-economics.com](mailto:info@focus-economics.com)
+
+ **FocusEconomics' Social Network Privacy Policy:  ** **[Read More](http://focus-economics.com/content/social-network-privacy-policy)**
