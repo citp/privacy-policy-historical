@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sluniverse.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529005248id_/http%3A//www.sluniverse.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sluniverse.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927135719id_/http%3A//www.sluniverse.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
