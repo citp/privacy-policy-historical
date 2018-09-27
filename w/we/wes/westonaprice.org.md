@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westonaprice.org privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703195840id_/https%3A//www.westonaprice.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westonaprice.org privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927043349id_/https%3A//www.westonaprice.org/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Weston A. Price Foundation
 
@@ -9,5 +9,3 @@ Your right to privacy is important. The Weston A. Price Foundation believes that
 **Commenting on Articles and Blog Posts:** All website visitors may leave comments at the ends of articles or blog posts, but you must provide your name and a valid email address. Comments are reviewed for relevancy and tone (irrelevant posts or those with vulgarity/obscenity, libel, etc. will not be posted).
 
 **For futher information:** Please [contact us](http://www.westonaprice.org/contact-us/ "Contact Us") if you have any questions or concerns about the privacy of your information.
-
-## Reader Interactions
