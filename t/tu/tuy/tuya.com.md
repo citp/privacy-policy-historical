@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tuya.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528002058id_/http%3A//www.tuya.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuya.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927165226id_/http%3A//www.tuya.com/privacy) for the most accurate reproduction.*
 
 # Tuya Smart Privacy Statement
 
