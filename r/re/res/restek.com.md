@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the restek.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527111425id_/http%3A//www.restek.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restek.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927111732id_/http%3A//www.restek.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy / Restek.com
 
@@ -32,7 +32,7 @@ Restek Corporation respects your privacy. Upon your request we will refrain from
 
 Restek reserves the right to change this Privacy Policy at any time by posting a new version thereof on our websites. Please check this page periodically for changes. When changes are made we will update the effective date of this Policy. (See [top of page](http://www.restek.com/Privacy-Policy#top).) 
 
-  * [**Subscribe**](http://www.restek.com/subscribe)to receive Restek® technical publications via e-mail. 
+  * [**Subscribe**](http://www.restek.com/subscribe)to receive Restek technical publications via e-mail. 
   * [**Unsubscribe**](http://www.restek.com/unsubscribe) to remove your e-mail address from our list. 
   * [**Contact Restek Web Support**](http://www.restek.com/webhelp) with any other instructions regarding communication from Restek. 
 
