@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the youbroadband.in privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617085906id_/https%3A//youbroadband.in/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youbroadband.in privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927022129id_/https%3A//youbroadband.in/policy.php) for the most accurate reproduction.*
 
-# YOU Broadband India Limited.
+# YOU Broadband - Privacy Policy
 
 [](https://youbroadband.in/index.php)
 
@@ -43,7 +43,7 @@ Changes to this Privacy Policy
 
 The Company may update this policy and display the same in their website without notice to you and such posting will be deemed to have been read by you.
 
-Contention ratio for the current quarter (Jan 18 - Mar 18)
+Contention ratio for the current quarter (Apr 18 - Jun 18)
 
 2
 
