@@ -1,62 +1,175 @@
-> *The following text is extracted and transformed from the librato.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515012105id_/https%3A//www.librato.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the librato.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927122959id_/https%3A//www.librato.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Librato
+# SolarWinds - Privacy Policy
 
-Librato, Inc. ("Librato") is committed to protecting your privacy. We have prepared this Privacy Statement to describe to you our practices regarding the Technical Data and Personal Data (as defined below) we collect from users of our websites, the Librato products (the "Products"), or related services.
+SolarWinds is committed to protecting the privacy of visitors of the SolarWinds website(s), individuals who register to use the products and services, individuals who register to attend the Company’s corporate or other events, and business partners. This Privacy Notice (“Privacy Notice” or “Notice”) describes our privacy practices in relation to the use of SolarWinds websites (including any customer portal or interactive customer website), its software, services, solutions, tools, and related applications, services, and programs, including attendance of corporate events and research and marketing activities, offered by SolarWinds (the “Services”) as well as your choices regarding use, access and correction of personal data. 
 
-User Consent
-    By submitting or making available Technical Data or Personal Data through our websites, Products, or related services, you agree to the terms of this Privacy Statement and you consent to the processing of your Technical Data and Personal Data in accordance with this Privacy Statement. Your Personal Data may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personal Data may be less stringent than the laws in your country.
-A Note About Children
-    We do not intentionally gather Personal Data about visitors who are under the age of 13.
-Types of Data We Collect
-    Librato collects Personal Data and Anonymous Data from you when you visit our site, when you send us information or communications, and/or when you download and use our Products. "Personal Data" means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data. "Anonymous Data" means data about you that is not associated with or linked to your Personal Data (but does not include Technical Data, which is covered later in this Privacy Statement); Anonymous Data does not permit the identification of individual persons. We collect Personal Data and Anonymous Data, as described below.
-Personal Data You Provide to Us
-    We collect Personal Data from you, such as first and last name, e-mail and mailing addresses, telephone number, professional title, company name, and password, when you purchase Products, register to receive information, or register for support forums. In addition, we (or our third-party credit card or payment processor on our behalf) will collect Personal Data including your credit card number or account information when you purchase Products or services on our websites. We also retain information on your behalf, such as the Personal Data described above and any correspondence or forum postings. If you provide us feedback or contact us via e-mail (e.g., in response to an employment opportunity posted on our websites), we will collect your name and e-mail address, as well as any other content included in the e-mail, in order to send you a reply, and any information that you submit to us, such as a resume. When you participate in one of our surveys, we may collect additional profile information. When you post messages on the message boards of our websites, the information contained in your posting will be stored on our servers and other users will be able to see it. We also collect other types of Personal Data that you provide to us voluntarily, such as operating system and version, information about your application and operating environment, and other requested information if you contact us via e-mail regarding support for the Products). We may also collect Personal Data at other points in our websites that state that Personal Data is being collected.
-Personal Data Collected via Technology
-    To make our websites, Products, and related services more useful to you, our servers (which may be hosted by a third-party service provider) collect Personal Data from you, such as browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, and/or a date/time stamp for your visit. We may also use Cookies (as defined below) and navigational data like Uniform Resource Locators (URL) to gather information regarding the date and time of your visit and the solutions and information for which you searched and which you viewed. Like most Internet services, we automatically gather this Personal Data and store it in log files each time you visit our websites or access your account on our network.
-    "Cookies" are small pieces of information that a website sends to your "computer's hard drive while you are viewing a web site. We may use both "session Cookies (which expire once you close your web browser) and "persistent Cookies (which stay on your computer until you delete them) to "provide you with a more personal and interactive experience on our "websites. Persistent Cookies can be removed by following Internet browser "help file directions. If you choose to disable Cookies, some areas of our "websites may not work properly.
-Personal Data Collected by Third Parties
-    We may receive Personal Data about you from other sources like telephone or fax, from companies that provide our Products or services by way of a co-branded or private-labeled website, companies that offer their products and/or services on our websites, or companies that provide services (such as payment processing services) in connection with our websites ("Partner Companies"). Our Partner Companies may supply us with Personal Data, such as your name and e-mail and mailing address information, in order to help us establish the account or fulfill orders. We may add this information to the information we have already collected from you via our websites in order to perform and improve the Products and services we provide.
-    Except as otherwise expressly provided in this Privacy Statement, only Librato collects Personal Data through our websites, Products, or the related services provided solely by Librato. This Privacy Statement applies only to the use and disclosure of Personal Data that we collect while you use our websites, Products, or related services.
-    Our provision of a link to any other website or location is for your convenience and does not signify our endorsement of such other website or location or its contents. When you click on such a link, you will leave our site and go to another site. During this process, a third party may collect Personal Data or Anonymous Data from you.
-    We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of this Privacy Statement do not apply to these outside websites or content, or to any collection of data after you click on a link to a third party.
-Use of Your Personal Data
-    In general, Personal Data you submit to us is used either to respond to requests that you make, or to aid us in serving you better. Librato uses your Personal Data in the following ways: to facilitate the creation of and secure your account on our network; identify you as a user in our system; provide improved administration of our websites, Products, and related services; improve the quality of experience when you interact with our websites, Products, and related services; send you a welcome e-mail to verify ownership of the e-mail address provided when your account was created; send you administrative e-mail notifications, such as security or support and maintenance advisories; respond to your inquiries related to employment opportunities or other requests; send promotional communications; provide you with electronic newsletters, or surveys; send upgrades and special offers related to our Products and related services and for other marketing purposes of Librato or our Partner Companies, should you request to receive such communications from us; make telephone calls to you, from time to time, as a part of secondary fraud protection or to solicit your feedback.
-    We may create Anonymous Data records from Personal Data by excluding information (such as your name) that make the data personally identifiable to you. We use this Anonymous Data to analyze request and usage patterns so that we may enhance the content of our Products and services and improve site navigation. Librato reserves the right to use for other purposes and to disclose Anonymous Data to third parties in its discretion.
-    If you provide feedback on any of our Products or related services to us, we may use such feedback for any purpose, provided we will not associate such feedback with your Technical Data or your Personal Data. Librato will collect any information contained in such communication and will treat the Technical Data and Personal Data in such communication in accordance with this Privacy Statement.
-Disclosure of Your Personal Data
-    To disclose information to a third party, organizations must apply the notice and choice principles. Where an organization wishes to transfer information to a third party that is acting as an agent, it may do so if it makes sure that the third party subscribes to the Safe Harbor principles or is subject to the Directive or another adequacy finding. As an alternative, the organization can enter into a written agreement with such third party requiring that the third party provide at least the same level of privacy protection as is.
-    We may share your Personal Data with third parties to provide technical support or to provide specific services, such as payment processing for purchases.
-    We may enter into agreements with Partner Companies. A Partner Company may want access to Personal Data that we collect from its customers. As a result, we may provide your Personal Data to a Partner Company.
-    While we do not control the privacy practices of our Partner Companies and encourage you to read and understand their privacy policies, we will only share your personal data with third parties that subscribe to the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework. In case a third party does not subscribe to this Framework, we will enter into a written agreement requiring that the third party provides at least the same level of privacy protection as required by this Framework.
-    Although we currently do not have a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, "Related Entities"), we may in the future. We may share some or all of your Personal Data with these Related Entities, in which case we will require our Related Entities to honor this Privacy Statement. If another company acquires our company or our assets, that company will possess the Personal Data collected by it and us and will assume the rights and obligations regarding your Personal Data as described in this Privacy Statement.
-    Regardless of any choices you make regarding your Personal Data (as described below), Librato may disclose Personal Data if it believes in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on Librato; or (b) protect or defend the rights or property of Librato or users of the Products or related services.
-    Except as otherwise stated in this Statement, we do not sell, trade, share, or rent the Personal Data collected from our services to third parties. You expressly consent to the sharing of your Personal Data as described in this Statement.
-Your Choices Regarding Your Personal Data
-    We will not disclose your personal data to third parties or use your personal data for purposes other than those outlined earlier in this document in the section "Use of Your Personal Data".
-    In addition, we offer you choices to further limit the use, and sharing of your Personal Data. We will periodically send you free newsletters and e-mails that directly promote the use of our site or the purchase of our Products or services and may contain advertisements for third parties. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly (please see contact information below). Should you decide to opt-out of receiving future mailings, we may share your e-mail address with third parties to ensure that you do not receive further communications from third parties. Despite your indicated e-mail preferences, we may send you notices of any updates to our Terms of Use or Privacy Statement.
-    You may change any of your Personal Data in your account by editing your profile within the registration portion of our websites or by sending an e-mail to us at the e-mail address set forth below. You may request deletion of your account information by us, but please note that we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain period of time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete account information, it will be deleted from the active database, but may remain in our archives.
-Access To Your Personal Data
-    All of your personal data we hold is accessible to you by signing into your account through our web site and visiting your profile page, You may also correct or amend your personal data where it is inaccurate, or delete any such data that is not required by us for providing you with our service.
-    If you have cancelled your account with us, you can e-mail us at [privacy@librato.com](mailto:privacy@librato.com) to request an overview of your personal data held by us and also to request us to correct, amend or delete such data.
-Your California Privacy Rights
-    Our customers who are California residents may request and obtain from us once a year, free of charge, certain information about the Personal Data (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of Personal Data that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to [privacy@librato.com](mailto:privacy@librato.com).
-Types of Technical Data We Collect
-    Librato may collect Technical Data when our Products are deployed on your servers or when you post data to our APIs. "Technical Data" means time series data you post to our APIs, data we collect about your application, system data (such as version data, configurations, etc.) about the environment in which your application is operating, log files and codes samples for certain classes of errors, and other similar data related to your application or use of our services.
-Use of Your Technical Data
-    Technical Data we collect is primarily used to display information back to the account user. It is also used by Librato personnel to answer questions that customers may have about their account and to develop and improve our products. Librato may also aggregate Technical Data across multiple accounts and use this data to create and publish industry benchmarks or comparative application performance metrics. Individual Technical Data collected by Librato will not be identifiable in the aggregated data.
-Disclosure of Your Technical Data
-    We may share your Technical Data with third parties to provide technical support or to provide specific services.
-    We may enter into agreements with Partner Companies such as hosting companies or other services providers. A Partner Company may want access to Technical Data that we collect from its customers. As a result, we may provide your Technical Data to a Partner Company on a confidential basis in order assist the Partner Company in providing customer support. Because we do not control the privacy practices of our Partner Companies, you should read and understand their privacy policies.
-    Librato may disclose Technical Data if it believes in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on Librato; or (b) protect or defend the rights or property of Librato or users of the Products or related services.
-    Although we currently do not have a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, "Related Entities"), we may in the future. We may share some or all of your Technical Data with these Related Entities, in which case we will require our Related Entities to honor this Privacy Statement. If another company acquires our company or our assets, that company will possess the Technical Data collected by it and us and will assume the rights and obligations regarding your Technical Data as described in this Privacy Statement.
-    Except as otherwise stated in this Statement, we do not disclose the Technical Data collected from our services to third parties without consent from you. You expressly consent to the sharing of your Technical Data as described in this Statement.
-    Notwithstanding the above, on your explicit request and within the limits of applicable laws we will inform you about our intent to disclose your Technical Data to third parties, and only disclose your Technical Data with your consent. Please email us at privacy@librato.com to request disclosure of your Technical Data to be treated in this manner.
-Security of Your Technical and Personal Data
-    Librato is committed to protecting the security of your Technical Data and Personal Data. We use a variety of industry-standard security technologies and procedures to help protect your Technical Data and Personal Data from unauthorized access, use, or disclosure. We also require you to enter a password to access your account information. Please do not disclose your account password to unauthorized people. Despite these measures, you should know that Librato cannot fully eliminate security risks associated with Technical Data and Personal Data and mistakes and security breaches may happen.
-Contact Information
-    Librato welcomes your comments or questions regarding this Privacy Statement. Please e-mail us at privacy@librato.com or contact us at the following address:
-    Librato, Inc. Attn: Legal Department. 535 Mission St. Suite 2100 San Francisco, CA 94105.
-Changes to This Privacy Statement
-    This Privacy Statement is subject to occasional revision, and if we make any substantial changes in the way we use your Technical Data and Personal Data, we will notify you by sending you an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our websites. Any material changes to this Privacy Statement will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you of the changes, thirty (30) calendar days following our posting of notice of the changes on our site, or the date that you accept the changes (e.g., by clicking an "I Accept" button or similar means). These changes will be effective immediately for new users of our websites, Products or related services. Please note that at all times you are responsible for updating your Personal Data to provide us with your most current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Statement may affect our use of Technical Data or Personal Data that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your Technical Data or Personal Data, you must notify us prior to the effective date of the changes that you wish to deactivate your account with us. Continued use of our websites, Products, or related services, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
-    Last Updated: Sep 15, 2016
+[**GDPR Statement** :](https://web.archive.org/general-data-protection-regulation-core-it) The EU General Data Protection Regulation (GDPR), enforceable as of May 25, 2018, imposes additional requirements upon companies to strengthen the security around and enhance the protection of personal data of EU residents. SolarWinds has a dedicated, cross-functional team overseeing SolarWinds' GDPR readiness. We discuss SolarWinds' efforts and commitment to GDPR in the [ SolarWinds GDPR Resource Center](https://web.archive.org/general-data-protection-regulation-core-it). 
+
+**Privacy Notice** : SolarWinds is committed to protecting the privacy of those involved in its business. This Privacy Notice is meant to help you understand, among other things, what personal data we collect, why we collect it, and what we do with it.
+
+[**Cookie Policy** :](https://www.solarwinds.com/cookies) This Cookie Policy addresses how we use cookies when you visit SolarWinds. We want to be clear about how we collect and use data related to you via cookies.
+
+**PRIVACY NOTICE**
+
+_Last updated: May 15, 2018_
+
+SolarWinds Worldwide, LLC and its affiliated companies and subsidiaries (“SolarWinds,” “we” or “us”) are committed to protecting the privacy of visitors of the SolarWinds website(s), individuals who register to use the products and services, individuals who register to attend the Company’s corporate events, and business partners (“Customers”). This Privacy Notice (“Privacy Notice” or “Notice”) describes our privacy practices in relation to the use of SolarWinds websites (including any customer portal or interactive customer website), its software, services, solutions, tools, and related applications, services, and programs, including attendance of corporate events and research and marketing activities, offered by SolarWinds (the “Services”) as well as your choices regarding use, access and correction of personal data. 
+
+This Privacy Notice describes how we collect, use, disclose and otherwise process personal data collected related to our Services and otherwise in the course of our business activities, including the information practices of the websites that link to this Privacy Notice (“Sites”). 
+
+This Privacy Notice does not apply to information collected about SolarWinds employees, applicants, or other personnel. 
+
+The SolarWinds Sites may contain links to other websites; and information practices and/or the content of such other websites shall be governed by the privacy statements of such other websites. 
+
+**About Us**
+
+SolarWinds provides its Services—which include IT management and monitoring solutions such as network, systems and database management, security solutions, applications and infrastructure monitoring, and IT helpdesk tools—to business customers, directly, and through distributors, resellers, and managed service providers (MSPs). 
+
+SolarWinds Parent Inc. and SolarWinds Worldwide, LLC (and their US subsidiaries listed on the SolarWinds certification page) have complied with the EU-US and Swiss-US Privacy Shield Framework; as part of this, we have certified to the US Department of Commerce that we adhere to the Privacy Shield principles of: Notice; Choice; Accountability for Onward Transfer; Security; Data Integrity and Purpose Limitation; Access; and Recourse, Enforcement, and Liability (the **“Principles”** ), with respect to personal data that we process on behalf of our Customers established in the European Union and Switzerland. For more information about our Privacy Shield commitment, refer to the Privacy Shield section below. 
+
+You can learn more about Privacy Shield at [ **www.privacyshield.gov** ](https://www.privacyshield.gov/) and see our Privacy Shield self-certification at [ **www.privacyshield.gov/list**](https://www.privacyshield.gov/list). SolarWinds' self-certification to the Privacy Shield is subject to the investigatory and enforcement authority of the Federal Trade Commission. 
+
+**Customer Owned Data**
+
+As a provider of Services, we may receive, process or store certain information, including personal information, on behalf of our Customers. All such information (“ **Customer Data** ”) is owned and controlled by our Customers, who are the data controllers for such information with respect to EU data protection law. Customer Data may include information from the end points and other systems, tools or devices that Customers manage or monitor using our Services, and end user data related to individuals activities on Customer’s network and systems. It may also include event logs, end user information (such as IP address, email address and computer name), and other data where relevant to a support or service request. SolarWinds is a data processor for Customer Data. This means that SolarWinds processes Customer Data on the basis of instructions from our Customers. If SolarWinds receives a data subject request, it may point you in the direction of its Customer, as the Customer is the controller of the Customer Data. 
+
+**Data Relating to Our Customers and Users of Our Sites**
+
+SolarWinds collects information as part of its normal business operations and in the administration of its relationship with Customers, which may include personal data.
+
+_Business Contact and Customer Relationship Management._ We collect and maintain information about our Customers, which may include company name, business contact name and title, phone number, email and other contact details. We may also collect billing address, financial account, credit card information, order details, subscription and license information, and usage details. In addition, we collect user credential and profile data (name, contact, authorized users) of Customer’s authorized users and account administrators. 
+
+_Data Submitted on Sites. ****_ In order to access or use certain portions of the Sites, to enjoy the full functionality of the Sites, or to conduct or seek to conduct business with us, you may be prompted to provide certain personal data to us, including in the following ways: ** __**
+
+  * by filling in forms (for example, a “Contact Us” form) on our Sites or at a trade show or anywhere else we conduct business; 
+  * by downloading or accessing the SolarWinds Services; 
+  * by downloading documentation from our Sites; 
+  * by subscribing to newsletters or other communications; or 
+  * by corresponding with us by phone, e-mail or otherwise using our contact details. 
+
+
+
+Typically, the personal data you give us may include name, business affiliation, business address, telephone number, and email address, and any personal details required to resolve any enquiries or complaints. 
+
+_Third Parties._ We may also obtain personal data about Customers from third parties, such as LinkedIn and other publicly accessible sources. 
+
+_Customer Support and Service. ****_ When Customers contact us for support or other customer service requests, we maintain support tickets and other records related to the requests, including any information provided by Customers related to such support or service requests. We may also collect call recordings related to support and customer service-related calls. 
+
+_Usage Details._ We collect information about Customers’ usage of our Services, including IP address, Customer ID, email address, and other usage statistics. We do not collect usage details about Customer end users, except as necessary for support or to provide the Services requested by Customers (in which case we are a data processor of such data). 
+
+When you visit our Sites, our server automatically collects certain browser or device generated information, which may in some cases constitute personal data, including but not limited to: 
+
+  * your domain; 
+  * your IP address;
+  * your date, time and duration of your visit;
+  * your browser type; 
+  * your operating system; 
+  * your page visits;
+  * information from third parties;
+  * other information about your computer or device; or
+  * Internet traffic. 
+
+
+
+_De-identified Data._ We may de-identify and aggregate certain data we collect such that the data no longer identifies or can be linked to a particular customer or an individual data subject (“De-identified Data”), subject to the terms of any applicable customer agreements. We may use this data to improve our Services, analyze trends, publish market research, and for other marketing, research or statistical purposes, and may disclose such data to third parties for these specific purposes. 
+
+_Other Data_. SolarWinds collects, uses and maintains certain data related to its business and the Services it provides to Customers, which is not personal data; this privacy notice does not restrict our use and processing of such data. 
+
+**Cookies**
+
+Our Sites use cookies. More information about our use of cookies can be found in our cookie policy at [ **www.solarwinds.com/cookies**](https://www.solarwinds.com/cookies). 
+
+**Use of Personal Data**
+
+The following is an overview of our purposes for using personal data that we process as a data controller. Additional details on how we process your personal data may be provided to you in a separate notice or contract. 
+
+For individuals in the European Union, our processing (i.e. use) of your personal data is justified on the following legal bases: 
+
+  * **Performance of Contract:** the processing is necessary to perform a contract with you or take steps to enter into a contract at your request;
+  * **Compliance with Law:** the processing is necessary for us to comply with a relevant legal obligation (for example, laws which require us to collect tax information from customers, carry out checks on customers, or which compel us to disclose information to public authorities or regulators);
+  * **Our Legitimate Interests:** the processing is in our legitimate interests, subject to your interests and fundamental rights, and notably our legitimate interest in using applicable data to conduct and develop our business activities, such as developing and maintaining relationships with our customers (the majority of the processing covered by this notice is legitimate interest based);* 
+  * **Defend Our Rights:** where the processing is necessary to the establishment, exercise or defence of legal claims; or
+  * **With Your Consent:** you have consented to the processing (for example, where we are required by local law to rely upon your prior consent for the purposes of direct marketing).
+
+
+
+* In all cases where legitimate interests is relied upon as a lawful basis, we take steps to ensure that our legitimate interests are not outweighed by any prejudice to your rights and freedoms. This is achieved in a number of ways, including through the application of principles of data minimization and security, and by taking steps to ensure that personal data is only collected or otherwise obtained where it is relevant to the lawful business activities, and where using personal data is reasonably necessary for those activities.
+
+**Disclosure of Personal Data**
+
+SolarWinds is a global group of companies, and we may share personal data with our affiliated businesses as part of our business operations and administration of the Services. We may also appoint third party service providers (who will operate under our instructions) to assist us in providing information, products or services to you, in conducting and managing our business, or in managing and improving our Services or the Sites. SolarWinds may share your personal data with these affiliates and third parties to perform services that the third parties have been engaged by SolarWinds to perform on SolarWinds's behalf, subject to appropriate contractual restrictions and security measures, or if we believe it is reasonably necessary to prevent harm or loss, or it believes that the disclosure will further an investigation of suspected or actual illegal activities. 
+
+SolarWinds reserves the right to share any information that is not deemed personal data or is not otherwise subject to contractual restrictions. 
+
+If personal data is transferred outside the EU to other SolarWinds group companies or to third party service providers, we will take steps to ensure that your personal data receives the same level of protection as if it remained within the EU, including by entering into data transfer agreements, using the European Commission approved Standard Contractual Clauses, or by relying on certification schemes such as the EU - US Privacy Shield. For transfers to other SolarWinds group companies in the United States (a country that has not received a decision from the European Commission determining that the United States provides adequate protection to personal data), we have put in place European Commission approved Standard Contractual Clauses, which protect personal data transferred between SolarWinds entities. You have a right to obtain details of the mechanism under which your personal data is transferred outside of the EU by contacting [privacy@solarwinds.com](mailto:privacy@solarwinds.com). 
+
+We contractually require agents, service providers, and affiliates who may process personal data related to the Services to provide the same level of protections for personal data as required under the Principles. SolarWinds currently does not transfer personal data to a third party for the third party’s own use, but only for SolarWinds’ purposes as outlined above. SolarWinds will remain liable under the Principles if one of its third party processors processes personal data in a manner inconsistent with the Principles, if we are responsible for the event giving rise to the damage. 
+
+**Other Disclosures**
+
+_Law Enforcement or National Security_. In accordance with our legal obligations, we may also transfer Customer Data, subject to a lawful request, to public authorities for law enforcement or national security purposes. 
+
+_Additional Disclosures_. We may also disclose Customer Data (including any personal data), where otherwise required by law. 
+
+_Business Transfers. ****_ We may share personal data with third parties in connection with potential or actual sale of our company or any of our assets, or those of any affiliated company, in which case personal data held by us about our users may be one of the transferred assets. 
+
+_Just-in-Time Disclosures._ Additional disclosures or information about processing of personal data related to specific websites, mobile applications, products, services, or programs may be provided to you. These may supplement and/or clarify SolarWinds privacy practices in specific circumstances and provide you with additional choices as to how SolarWinds may process your personal data. 
+
+**Children**
+
+The Sites, Services and Portal are not for use by children under the age of 16 years and SolarWinds does not knowingly collect, store, share or use the personal data of children under 16 years. If you are under the age of 16 years, please do not provide any personal data, even if prompted by the Sites to do so. If you are under the age of 16 years and you have provided personal data, please ask your parent(s) or guardian(s) to notify SolarWinds and SolarWinds will delete all such personal data. 
+
+**Marketing**
+
+Where lawful to do so, and subject to your consent where required, we may communicate with Customers (and related business contacts) about our Services. If you wish to unsubscribe from receiving marketing communications, please visit the Email Preference Center on our Site or use the Email Preference Center link in our promotional emails to request that we will stop sending you communications. 
+
+**Security**
+
+SolarWinds aims to safeguard and protect your personal data from unauthorized access, improper use or disclosure, unauthorized modification or unlawful destruction or accidental loss, and SolarWinds utilizes and maintains certain reasonable processes, systems, and technologies to do so. However, you acknowledge that no environment is completely secure or error-free, and that these processes, systems, and technologies utilized and maintained by SolarWinds are subject to compromise. Accordingly, we cannot be held responsible for unauthorized or unintended access that is beyond our control. 
+
+**Retention of Your Personal Data**
+
+We apply a general rule of keeping personal data only for as long as required to fulfil the purposes for which it was collected. However, in some circumstances, we may retain personal data for other periods of time, for instance where we are required to do so in accordance with legal, tax and accounting requirements, or if required to do so by a legal process, legal authority, or other governmental entity having authority to make the request, for so long as required. 
+
+In specific circumstances, we may also retain your personal data for longer periods of time corresponding to a statute of limitation, so that we have an accurate record of your dealings with us in the event of any complaints or challenges. 
+
+**External Links**
+
+The Sites may contain links to third party sites. Since SolarWinds does not control nor is responsible for the privacy practices of those websites, we encourage you to review the privacy policies of these third party sites. This Policy applies solely to personal data collected by our Sites or in the course of our business activities. 
+
+**Access and Data Subject Rights**
+
+Individuals have the right to access the personal data processed about them, subject to applicable law; individuals may request to access their personal data processed by us by emailing us at [http://www.solarwinds.com/legal/personal-data-request](https://web.archive.org/legal/personal-data-request).
+
+Subject to applicable law, you may also have some or all of the following rights available to you in respect of your personal data 
+
+  * to obtain a copy of your personal data together with information about how and on what basis that personal data is processed; 
+  * to rectify inaccurate personal data (including the right to have incomplete personal data completed); 
+  * to erase your personal data (in limited circumstances, such as where it is no longer necessary in relation to the purposes for which it was collected or processed); 
+  * to restrict processing of your personal data under certain circumstances 
+  * to port your data in machine-readable format to a third party (or to you) when we justify our processing on the basis of your consent or the performance of a contract with you; 
+  * to withdraw your consent to our processing of your personal data (where that processing is based on your consent); and 
+  * to obtain, or see a copy of the appropriate safeguards under which your personal data is transferred to a third country or international organization. 
+
+
+
+In addition to the above rights, under EU data protection law, applicable individuals have the right to object, on grounds relating to your particular situation, at any time to any processing of your personal data for which we have justified on the basis of a legitimate interest, including profiling (as opposed to your consent) or to perform a contract with you. You also have the right to object at any time to any processing of your personal data for direct marketing purposes, including profiling for marketing purposes. 
+
+You also have the right to lodge a complaint with your local supervisory authority for data protection. 
+
+In relation to all of these rights, please contact us at [http://www.solarwinds.com/legal/personal-data-request](https://web.archive.org/legal/personal-data-request). Please note that we may request proof of identity, and we reserve the right to charge a fee where permitted by law, especially if your request is manifestly unfounded or excessive. We will endeavor to respond to your request within all applicable timeframes. 
+
+If you contact us regarding Customer Data for which we are a data processor, we will attempt to refer your request to the relevant Customer, and data controller for your personal data. 
+
+**Privacy Shield Dispute Resolution**
+
+We encourage EU and Swiss individuals who have questions or complaints about how we process their personal data under Privacy Shield to contact us at [privacy@solarwinds.com](mailto:privacy@solarwinds.com). We will work to resolve your issue as quickly as possible, but in any event, within 45 days of receipt. 
+
+We commit to refer unresolved Privacy Shield complaints, please contact, free of charge, our dispute resolution provider, JAMS, at [www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim](https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim). 
+
+If you are an EU or Swiss individual and unable to resolve any complaints through any of the above methods, you may be able to invoke binding arbitration through a Privacy Shield panel, in accordance with the Privacy Shield Framework at [www.privacyshield.gov/article?id=How-to-Submit-a-Complaint](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint). 
+
+**Contact Information**
+
+If you have any questions in relation to this Notice, please contact us at [privacy@solarwinds.com](mailto:privacy@solarwinds.com). 
