@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsinteraction.com privacy policy that was archived on 2017-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170430205249id_/https%3A//www.sportsinteraction.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsinteraction.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927041607id_/https%3A//www.sportsinteraction.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy From Sports Interaction Sportsbook
 
