@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mohegansun.com privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504140343id_/https%3A//mohegansun.com/about-mohegan-sun/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mohegansun.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928001457id_/https%3A//mohegansun.com/about-mohegan-sun/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Mohegan Sun
 
@@ -8,7 +8,6 @@
 
 [ ](https://web.archive.org/)
 
-  * [ BARRETT-JACKSON ](https://web.archive.org/barrett-jackson.html)
   * GAMING & PROMOS
     * Gaming
       * Gaming
@@ -35,7 +34,7 @@
       * [Play+](https://web.archive.org/momentum.html#playPlus)
       * [Momentum Travel Associates](https://web.archive.org/momentum/momentum-travel-associates.html)
       * [Momentum Partnerships](https://web.archive.org/momentum/momentum-partnerships.html)
-      * [May HotList](http://engage.mohegansun.com/mohegan-sun-mdm-4059-may2018-emag-0418b/0705509001524667422)
+      * [September HotList](http://engage.mohegansun.com/mohegan-sun-september-hotlist/0653852001535646761)
     * Casinos
       * Casinos
       * [Casino of the Earth](https://web.archive.org/casino-of-the-earth.html)
@@ -66,13 +65,13 @@
       * [Calendar](https://web.archive.org/events-and-promotions/schedule-of-events.mohegansun@event_entertaintment_nightlife.html)
     * Tastings & Festivals
       * Tastings & Festivals
-      * [Sun Whiskey Union](https://web.archive.org/sun-whiskey-union.html)
-      * [Family Days 2018](https://web.archive.org/family-days.html)
-      * [Sun BBQFest](https://web.archive.org/sun-bbqfest.html)
-      * [Heart of America Balloon Festival](https://web.archive.org/heart-of-america-balloon-festival.html)
-      * [New England Food Truck Festival](https://web.archive.org/new-england-food-truck-festival.html)
       * [Sun BrewFest](https://web.archive.org/sun-brewfest.html)
       * [Sun Wine & Food Fest](https://web.archive.org/sun-wine-and-food-fest.html)
+      * [Sun Whiskey Union](https://web.archive.org/sun-whiskey-union.html)
+      * [Sun BBQ Fest](https://web.archive.org/sun-bbqfest.html)
+      * [Sun Tequila Tasting](https://web.archive.org/sun-tequila-tasting.html)
+      * [Cigar Social](https://web.archive.org/cigar-social.html)
+      * [New England Food Truck Festival](https://web.archive.org/new-england-food-truck-festival.html)
     * [ Connecticut Sun ](https://web.archive.org/connecticut-sun.html)
       * Connecticut Sun
     * [ New England Black Wolves ](https://web.archive.org/blackwolves.html)
@@ -81,7 +80,7 @@
       * Signature Events
     * [ Back Of House ](https://web.archive.org/back-of-house.html)
       * Back Of House
-    * [ Kids Quest & Cyber Quest ](https://web.archive.org/hotel-spa-and-golf/kids-quest-cyber-quest.html)
+    * [ Kids Quest & Cyber Quest ](https://web.archive.org/poi/venues/kids-quest-cyber-quest.html)
       * Kids Quest & Cyber Quest
     * [ Supercharged ](https://web.archive.org/supercharged.html)
       * Supercharged
@@ -100,7 +99,7 @@
       * [Shopping Specials](https://web.archive.org/poi/shopping.mohegansun@special.html)
       * [Apparel](https://web.archive.org/poi/shopping.mohegansun@shopping_storescategory_apparel-and-fashion.html)
       * [Jewelry](https://web.archive.org/poi/shopping.mohegansun@shopping_storescategory_jewelry.html)
-      * [Electronics](https://web.archive.org/poi/shopping.mohegansun@shopping_storescategory_electronics.html)
+      * [Electronics](https://web.archive.org/poi/shopping.mohegansun@shopping_storescategory_musicnelec.html)
     * [ Mohegan Sun Gift Cards ](https://web.archive.org/gift-cards.html)
       * Mohegan Sun Gift Cards
   * HOTEL, SPA & GOLF
@@ -109,11 +108,13 @@
     * Hotel Overview
       * Hotel Overview
       * [Overview](https://web.archive.org/hotel-spa-and-golf.html)
-      * [View Our Rooms](https://web.archive.org/hotel-spa-and-golf/view-our-rooms.html)
+      * [Sky Tower](https://web.archive.org/hotel-spa-and-golf/sky-tower.html)
+      * [Earth Tower](https://web.archive.org/hotel-spa-and-golf/earth-tower.html)
+      * [Aspire & Thirty Three](https://web.archive.org/hotel-spa-and-golf/aspire.html)
       * [Premium Suites](https://web.archive.org/hotel-spa-and-golf/premium-suites.html)
       * [Special Packages](https://web.archive.org/hotel-spa-and-golf/special-packages.html)
       * [Amenities](https://web.archive.org/hotel-spa-and-golf/amenities.html)
-      * [Kids Quest & Cyber Quest](https://web.archive.org/hotel-spa-and-golf/kids-quest-cyber-quest.html)
+      * [Kids Quest & Cyber Quest](https://web.archive.org/poi/venues/kids-quest-cyber-quest.html)
       * [Plan An Event](https://web.archive.org/hotel-spa-and-golf/plan-an-event.html)
       * [Local Attractions](https://web.archive.org/hotel-spa-and-golf/local-attractions.html)
       * [Area Hotels](https://web.archive.org/hotel-spa-and-golf/area-hotels.html)
@@ -122,11 +123,7 @@
       * Spas at Mohegan Sun
     * [ Mohegan Sun Golf Club ](http://www.mohegansungolfclub.com/)
       * Mohegan Sun Golf Club
-  * MEETINGS
-    * [ Meetings, Expos & Conventions ](https://web.archive.org/meetings.html)
-      * Meetings, Expos & Conventions
-    * [ Meeting Spaces ](https://web.archive.org/meetings/convention-center-and-meeting-spaces.html)
-      * Meeting Spaces
+  * [ MEETINGS ](https://web.archive.org/meetings.html)
   * ABOUT US
     * [ About Mohegan Sun ](https://web.archive.org/about-mohegan-sun.html)
       * About Mohegan Sun
