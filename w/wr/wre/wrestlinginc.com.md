@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wrestlinginc.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605191733id_/http%3A//www.wrestlinginc.com/wi/pages/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestlinginc.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927091557id_/https%3A//wrestlinginc.com/pages/privacy-policy.shtml) for the most accurate reproduction.*
 
-# Privacy Policy - WrestlingInc.com
+# WWE Wrestling News, PPV Results, Videos - Wrestling Inc.
 
-Effective date: May 16, 2018
+Effective date: September 16, 2018
 
 Webcapacity Incorporated ("us", "we", or "our") operates the http://www.WrestlingINC.com website (the "Service").
 
@@ -192,7 +192,7 @@ Google Analytics is a web analytics service offered by Google that tracks and re
 
 You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
 
-For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <http://www.google.com/intl/en/policies/privacy/>
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: [http://www.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/)
 
   * **Statcounter**
 
@@ -203,13 +203,13 @@ Statcounter is a web traffic analysis tool. You can read the Privacy Policy for 
 
 ### Advertising
 
-We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://www.networkadvertising.org/managing/opt_out.asp).
 
   * **Google AdSense & DoubleClick Cookie**
 
 Google, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.
 
-You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: <http://www.google.com/ads/preferences/>
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences/](https://www.google.com/ads/preferences/)
 
 
 
@@ -239,7 +239,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 If you have any questions about this Privacy Policy, please contact us:
 
   * By email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
-  * By visiting [this page](http://www.wrestlinginc.com/wi/pages/contact-us.shtml) on our website
+  * By visiting [this page](https://web.archive.org/wi/pages/contact-us.shtml) on our website
   * By mail: PO Box 281084  
 Lakewood, CO 80228
 
