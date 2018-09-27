@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the backlinko.com privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506223432id_/https%3A//backlinko.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backlinko.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927045129id_/https%3A//backlinko.com/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Notice
 
-**Privacy Policy**
+**Privacy Notice**
 
 Thank you for visiting Backlinko.com (hereinafter known as “Provider,” “us” or “we” or “the Site”). To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
@@ -17,6 +17,8 @@ This privacy statement applies to all Provider-owned web sites and domains. This
 During either a Login / Registration or Checkout process, the types of personal information you provide to us may include, but are not limited to, name, address, phone, fax, email address, social security number, license number, date of birth, username and password, billing information, transaction, and credit card information.
 
 When you browse our web site, you do so anonymously. We may log your IP address (the Internet address of your computer) to give us an idea of which part of our web site you visit and how long you spend there. But we will not link your IP address to any personal information unless you have logged in to our web site. Like many other commercial web sites, the Provider web site may use a standard technology called a “cookie” to collect information about how you use the site. Please go to “Use of Cookies” below for more information.
+
+In using our web site, you acknowledge our lawful basis – in the form of contractual obligation – for processing your data, as outlined in the [Terms of Service](https://backlinko.com/terms-of-service).
 
 **How we use it**
 
@@ -36,7 +38,7 @@ We may use your personal information for the following purposes:
 
 We never sell or rent your personal information. Provider may disclose your personal information if required to do so by law (for example, a subpoena) or regulation, or in good faith to (a) comply with legal processes served on the site, or (b) protect the rights and property of Provider, or (c) where our records indicate fraudulent activity or other deceptive practices that a governmental agency should be made aware of, or (d) where your communication suggests possible harm to others.
 
-Provider may transfer information about Users if Provider is acquired by or merged with another company. Provider is not responsible for notifying User of such changes.
+Provider may transfer information about Users if Provider is acquired by or merged with another company.
 
 Provider uses (but is not limited to using) the following sub-processors in order to carry out business activities. Your data may not be processed by every sub-processor listed, and conversely may be processed by more than those listed, depending on the nature of services that you have engaged us for:
 
@@ -50,7 +52,9 @@ Provider uses (but is not limited to using) the following sub-processors in orde
 
 
 
-Provider will not share your information with third parties without your permission, other than what is mentioned in this Privacy Policy. It will only be used for the purposes stated above. We use personal information to reply to enquiries, handle complaints, provide operational notices, keep records up to date to notify you via periodic e-mails of technical service issues, specials, or other related product/service information. Your information may be shared with agents or contractors of Provider for the purpose of performing service for Provider.
+Provider will not share your information with third parties without your permission, other than what is mentioned in this Privacy Notice. It will only be used for the purposes stated above. We use personal information to reply to enquiries, handle complaints, provide operational notices, keep records up to date to notify you via periodic e-mails of technical service issues, specials, or other related product/service information. Your information may be shared with agents or contractors of Provider for the purpose of performing service for Provider.
+
+Any non-EU, non-US third parties with whom we share data are nations recognized as having adequate protection by the EU Commission. In the case of US third parties, they either all have Privacy Shield compliance or are working towards this status at the time of writing.
 
 **Internet Commerce**
 
@@ -102,6 +106,8 @@ This website may contain links to other sites. Please be aware that we are not r
 
 
 
-**Problems or complaints with Provider’s Privacy Policy**
+**Problems or complaints with Provider’s Privacy Notice**
 
-We value your comments and opinions. If you have questions, comments or a complaint about compliance with this privacy policy you may _[contact us](https://backlinko.com/contact)_.
+We value your comments and opinions. If you have questions, comments or a complaint about compliance with this privacy notice you may _[contact us](https://backlinko.com/contact)_.
+
+If you’re not happy with how your data is being processed, please contact your local relevant supervisory authority.
