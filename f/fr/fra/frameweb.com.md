@@ -1,100 +1,120 @@
-> *The following text is extracted and transformed from the frameweb.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930151355id_/https%3A//www.frameweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frameweb.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927054140id_/https%3A//www.frameweb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Frameweb
 
-Frame Publishers privacy policy covers the collection and use of personal information that may be collected by Frame Publishers anytime you interact with us, such as when you visit our website, when you purchase Frame products and services, or when you call our sales or support department. Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information.
+The Frame Publishers Privacy Policy is applicable to online and mobile programs and applications, websites, products and services which refer to this policy. This policy covers the collection and use of personal information that you choose to share with Frame Publishers anytime you interact with us, such as when you visit our website, when you purchase Frame products and services, or when you call our sales or support departments. We will use this information to process your requests or orders, to provide a more personalized website and shopping experience and to help us improve the services we offer.
 
-###### – REGISTRATION –
+Please take a moment to read the following policy statement to learn more about our information practices, including what types of information are gathered, how information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information.
 
-In order to interact with this website, a user must first complete the registration form. During registration a user is required to give their contact information. This information is used to provide the user with the ability to log into the site to make additions or deletions. Frame Publishers collects user submitted information such as name and email address to authenticate users and to send notifications to those users relating to the Frame services. Frame Publishers also collects other profile data including but not limited to: personal interests, gender, education and occupation in order to assist users in finding and communicating with each other.
+By using any of our products and services, you acknowledge that you have read, accepted and agree to this Privacy Policy.
 
-###### – ORDERING –
+### The information we collect
 
-We request information from the user on our order form. Here a user must provide contact information and financial information. This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user.   
-In order for this website to enhance its ability to tailor the site to an individual's preference, we analyze information about the purchasing habits of users with similar information from our site, to create a personalized user profile and to suggest items to you that you might be interested in.
+Through the Frame Publishers websites you can, amongst other things, order products and services, enter competitions, subscribe to our publications, complete surveys and post comments.
 
-###### – USE OF COOKIES –
+In order to process your requests and orders, it may be necessary to collect personal information about you. This includes, but is not limited to, your name, mailing address, email address, telephone number, and credit/debit card information. Frame Publishers also collects other profile data including, but not limited to, your personal interests, gender, education, and occupation in order to provide you with more relevant products and services.
 
-We use cookies to access your account information (stored on our computers) in order to deliver better and more personalized services and to let you log in easier the next time you visit. Frame Publishers reserves the right to analyze user behaviour as a measure of interest in and use of the Frame Publishers website and Frame Publishers e-mail newsletters. Frame Publishers may also disclose such analyses to advertisers or other third parties in the form of aggregate data, such as overall patterns or demographic reports that do not describe or identify any individual user.
+In addition, we collect technical device information such as your unique device ID, as well as information about your visits to and your activity on our websites including the content (and any advertisements) that you view and interact with, the address of the website from which you arrived and other clickstream behavior (such as the pages you view, the links you click, the items you add to your shopping cart, the length of your browsing session, your IP address and the approximate location at the time of browsing). IP addresses are not linked to personally identifiable information.
 
-To control third party cookies, you can also adjust your [browser settings](http://civicuk.com/cookie-law/browser-settings).
+We will not collect any sensitive personal information such as race, political beliefs, religion, membership with labor unions, sexual preference, or genetic information.
 
-**Cookie name**
+### How we collect information
 
-| 
+We collect information about you when you register an account on our websites, place an order, subscribe to a newsletter, fill out a form, enter information on our website, call us, or contact us via a different channel.
 
-**Description**  
-  
----|---  
-  
-__utma
+We request user information in our order forms, where you must provide your contact and financial information. This information is used for billing purposes and to fulfill customer orders. Should we have issues when processing an order, this contact information is used to get in touch with you.
 
-| 
+To optimize our website content, products, and user experience design in response to individual preferences, we analyze and compare information of different users. This includes analyzing the purchasing habits of users with similar profiles to suggest content, offers, and products to you that you might be interested in.
 
-Google Analytics: We use Google Analytics to monitor traffic levels, search queries and visits to this website. We also analyse the data to optimize our website.  
-Google Analytics stores IP address anonymously on its servers, and neither Frameweb or Google associates your IP address with any personally identifiable information.
+Our website uses cookies; you can review our [Cookie Policy here](https://www.frameweb.com/cookie-policy).
 
-These cookies enable Google to determine whether you are a return visitor to the site, and to track the pages that you visit during your session.  
- **These cookies are set only after you have given consent to us to use cookies.**  
-  
-__utmb  
-  
-__utmc  
-  
-__utmz  
-  
-civicAllowCookies
+### How we store information
 
-| 
+We do not store personal information longer than necessary for the objective as agreed in the terms of service contract by law. The retention period depends upon the purpose for which we have received or collected the data and upon any legal obligations to retain the data.
 
-This cookie is stored by Cookie Control to remember your Cookie preferences.  
-  
-PHPSESSID
+### What we do with the information
 
-| 
+We may use the information we collect from you in one of the following objectives:
 
-This cookie is stored to remember your preferences and login information. It's been deleted after you leave the website. **This cookie is set because it's necessary for your visit to Frameweb.com.**  
-  
-###### – LOG FILES –
+•    register your account on our websites and manage our website services (including the processing of search queries or requests for information relating to our company, products or services) in order to conclude the agreement that you have with us and to provide you with the requested services;  
+•    assess and analyze our market, customers, products and services (including asking for your products and services and conducting customer research), based on legitimate interests;  
+•    evaluate, review and improve our products and services, based on legitimate interests;  
+•    for internal archiving, based on legitimate interests;  
+•    for marketing purposes, based on your consent;  
+•    target content, products, messages and offers to better match your preferences through evaluating some of your personal data against other user data, based on your consent;  
+•    organize competitions where you can win prizes, to execute the agreement you have made with us and to provide you with the requested services; and  
+•    hire you, if applicable, such as if you have provided information in the context of an application for a job in our company, in order to take certain measures including contacting you in the run-up to the conclusion of an agreement with you.
 
-We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+We do not collect personal information irrelevant to the objective as agreed in the terms of service contract by law.
 
-###### – SHARING –
+### How we share your information
 
-We use a credit card processing company to bill users for goods and services. This company does not retain, share, store or use personally identifiable information for any secondary purposes.   
-We will use the personal information you provide to our website to fulfil specific purposes. For example, personal information will be used to send an e-newsletter or fulfil a product order. In addition, we may send you e-mail notices about products, services, companies and events that we think might interest you. You may opt-out of receiving future mailings from us by following the instructions in the e-mail you receive from us.
+We will not provide any of your personal information to third parties without your permission, except:  
+•    when necessary for our employees, agents, subcontractors, suppliers or commercial partners to provide us with a related service or perform a task on our behalf. Any third parties employed by us to process your data on our behalf are subject to contractual obligations to protect the security of your data in accordance with the terms of this Privacy Policy;  
+•    when we are of the opinion that it is necessary for other companies, financial institutions or institutions to enforce the law in the context of fraud prevention or detection;  
+•    in the form of statistical aggregated information, including information relating to sales and web-usage, for advertisers and our business partners to monitor the efficacy of our business partnerships and to sell advertising. We may also pass such information onto reputable third parties for onward sale;  
+•    in the event that Frame Publishers is, or its assets are substantially, acquired by one or more third parties as a result of a merger, sale, consolidation or liquidation, then customer information may be one of the transferred assets;  
+•    when necessary to pursue Frame Publishers’ legitimate interests; or  
+•    when required or permitted by law.
 
-###### – LINKS –
+Any distribution of your personal data by us to a carefully selected third party or to one of the third parties mentioned in the above list is in accordance with the provisions of the General Data Protection Regulation. You are assured that contractual provisions are provided to ensure that third parties:
 
-This website contains links to other sites. Please be aware that Frame Publishers is not responsible for the privacy practices of such other sites. This privacy statement applies solely to information collected by this website.
+•    do not use your personal data for purposes other than those we have recorded, in accordance with the purposes described in this policy document; and  
+•    have taken the security measures necessary for the protection of the personal data against unauthorized processing and against unintentional loss, destruction or damage to your personal data.
 
-###### – PUBLIC DISCUSSIONS –
+### How we protect your information
 
-Please be aware that whenever you voluntarily post public information to articles, that information can be accessed by the public and can in turn be used by those people to send you unsolicited communications.
+•    Frame Publishers servers and devices are equipped with up-to-date security software, including an anti-virus program and a firewall.   
+•    If necessary to share your personal data internally or with third parties, we only do so via secure Internet connections (TLS, previous SSL). You can identify this through the ‘https’ in the website address and the green lock in the address bar.  
+•    Our websites are scanned on a regular basis for security holes and known vulnerabilities in order to make your browsing experience as secure as possible. When our registration/order form asks users to enter sensitive information (such as credit card numbers), that information is encrypted and is protected with the best encryption software in the industry – SSL.  
+•    Your personal information is stored behind secured networks, and is only accessible to a limited number of persons who have special access rights to such systems, and are required to keep the information confidential.   
+•    All transactions including payments are processed through a gateway provider and are not stored or processed on our servers.
 
-###### – CORRECTING, UPDATING OR REMOVING INFORMATION –
+### Information with regards to minors
 
-User profile information may be displayed to people in order to facilitate user interaction in the frameweb.com community. Frameweb.com users may modify or remove any of their personal information at any time by logging into their account and accessing features such as edit profile and account info.
+We encourage all parents and guardians to educate children in their care to share personal information in a safe and responsible manner when using our products and services. We do not intentionally collect (via our website or otherwise) information that relates to or originates from a minor, unless we have received the permission of the minor’s parent or guardian. If we are informed that a user of the products or services on our websites is a minor who does so without the consent of a parent or guardian, we will take reasonable and necessary measures to ensure that all information provided by the minor is expunged as soon as possible to ensure that this information is neither communicated to third parties nor used by us for direct marketing purposes or otherwise.
 
-###### – SECURITY –
+### View, edit or delete your personal information
 
-This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'.
+You have the right to view, edit or delete the personal data we have collected about you. Furthermore, you have the right to withdraw consent or to object to the processing of your personal data. And you have the right to data portability: this means that you can request that we send you, or another organization named by you, the personal data that we have about you in a computer file.
 
-If you have any questions about the security at our website, you can send an email to our [webmaster](mailto:site@frameweb.com).
+Requests to view, edit, delete or port your personal data, and withdrawals of consent can be sent to site@frameweb.com.
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage.
+•    To ensure that the request for access to your stored data has been made by you, we will ask that you provide some personal details (such as your postal code, or the last four numbers of your credit card) to verify your identity. We aim to respond to your request as quickly as possible, and no later than four weeks.
 
-###### – ENFORCEMENT –
+We advise that you have the right to file a complaint with the national supervisory authority, the [Dutch Data Protection Authority](https://autoriteitpersoonsgegevens.nl/).
 
-Frame Publishers will take reasonable steps to protect the security and integrity of all personal information provided to the Frame Publishers website. However, due to the inherent nature of the internet as an open global communications vehicle, Frame Publishers cannot guarantee that this information will be absolutely safe from intrusion by others, such as hackers. If you are requested to send us any sensitive personal information, such as your credit card number or password, in an e-mail or into a website or otherwise, and you are uncertain whether such request is authorized by us, please do not hesitate to ask us by sending an e-mail to our privacy officer at [webmaster](mailto:site@frameweb.com).
+### Automated decision-making
 
-###### – BUSINESS TRANSFER –
+Frame Publishers makes no decisions based on automated processing which can have adverse consequences for you.
 
-In the event that Frame Publishers or substantially all of its assets are acquired by one or more third parties as a result of a merger, sale, consolidation or liquidation, customer personaliInformation may be one of the transferred assets.
+### Advertising
 
-###### – CHANGE OF POLICY –
+We will use your information to provide you with personalized content, services and communications as well as targeted advertising on our websites and selected partner websites (for example, you might see an advertisement on a partner site such as Facebook for a product that you have recently viewed on our websites). We may do this by matching, combining or linking different sources of information we have about you (e.g. linking your contact or subscriber information with your activity across our websites, or linking your activity on our websites across all your devices using your email or social media accounts) or by creating segments based on various factors such as your age and gender, inferred interests or your device details. We work with data management platform providers to assist with this process.
 
-This privacy policy may be changed by Frame Publishers at any time. The revised policy will be posted to this page so that you are always aware of the information we collect, how we use it and under what circumstances we disclose it. Frame Publishers will ensure that your personal information is treated with the utmost respect and in accordance with Directive 95/46/EC on the protection of individuals with regard to processing of personal data and on the free movement of such data.
+These activities may involve the use of cookies and other similar technologies.  To learn more or to see how you can opt out of targeted advertising, please refer to our [Cookie Policy](https://www.frameweb.com/cookie-policy).
 
-© Frame Publishers 2006-2017  
-All rights reserved
+### Marketing
+
+Where we have the appropriate permissions, we will use your information to market and advertise products and services from Frame Publishers, and occasionally third-party products and services that may be of interest to you including sales and discounts, competitions, and commercial communications via telephone (mobile or landline), post, email, online or mobile applications.
+
+You can always let us know that you wish to stop receiving direct marketing communications from us. We always try to give you relevant content, products and services based on the information you share with us, so we will no longer be able to get in touch to let you know about valuable and exciting offers. If you would prefer to stop receiving direct marketing communications from us at any time, let us know by writing to the Privacy Officer at Frame Publishers, Luchtvaartstraat 4, 1059 CA Amsterdam, The Netherlands; to site@frameweb.com; or by following the opt-out instructions in the relevant communication. Please note that this will not stop you from receiving service messages from us regarding your account or use of our products and services.
+
+You can also make choices about the use of cookies and targeted advertising. For more information on this, please refer to our [Cookie Policy](https://www.frameweb.com/cookie-policy).
+
+### Third party links
+
+Occasionally, at our discretion, we may include or offer third party products or services on our websites. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, Frame Publishers seeks to protect the integrity of our websites and channels, and we welcome any feedback about third party sites.
+
+### Enforcement
+
+Frame Publishers will take reasonable steps to protect the security and integrity of all personal information provided to the Frame Publishers websites. However, due to the inherent nature of the internet as an open global communications vehicle, Frame Publishers cannot guarantee that this information will be absolutely safe from malicious actions or intrusions by others, such as hackers. If you are requested to send us any sensitive personal information such as your credit card number or password, in an email or on a webpage or otherwise, and you are uncertain whether such a request is authorized by us, please do not hesitate to ask us by sending an email to our Privacy Officer at site@frameweb.com.
+
+### Changes to our Privacy Policy
+
+Frame Publishers keeps this Privacy Policy under review and may update it at any time. Any updates will be made on this page so you can always find out what information we collect, how we use it, and under what circumstances we will disclose it.
+
+### Contact Us
+
+If there are any questions regarding this Privacy Policy, you may contact us at site@frameweb.com.  
+Last Edit: May 2018
