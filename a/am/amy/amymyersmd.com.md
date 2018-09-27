@@ -1,18 +1,15 @@
-> *The following text is extracted and transformed from the amymyersmd.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606082119id_/http%3A//www.amymyersmd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amymyersmd.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927235704id_/https%3A//www.amymyersmd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Amy Myers MD
 
-## Privacy Policy
-
 Effective Date: April, 2017
 
-The following Privacy Policy governs the online information collection practices of AMY MYERS, M.D. PA d/b/a AUSTIN ULTRAHEALTH (“we” or “us”). Specifically, it outlines the types of information that we gather about you while you are using the [**www.amymyersmd.com**](http://www.amymyersmd.com/) and [**www.austinultrahealth.com**](http://www.austinultrahealth.com/) websites (the “Site”), and the ways in which we use this information. This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).
+The following Privacy Policy governs the online information collection practices of AMY MYERS, M.D. PA d/b/a AUSTIN ULTRAHEALTH (“we” or “us”). Specifically, it outlines the types of information that we gather about you while you are using the [www.amymyersmd.com](https://www.amymyersmd.com/), [store.amymyersmd.com](https://www.amymyersmd.com/), [memebers.amymyersmd.com](https://memebers.amymyersmd.com/) and [www.austinultrahealth.com](https://web.archive.org/web/20180927235704id_/https://www.amymyersmd.com/privacy-policy/memebers.amymyersmd.com) websites (the “Site”), and the ways in which we use this information. This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).  
+Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we’ll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
 
-Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we’ll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified. **  
-**
+## How We Collect and Use Information
 
-**How We Collect and Use Information  
-**We may collect and store personal or other information that you voluntarily supply to us online while using the Site (e.g., while on the Site or in responding via email to a feature provided on the Site). The Site only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our messaging, attended one of our events, or have purchased one of our products. The Site collects personally identifying information from our users during online registration and online purchasing. Generally, this information includes name and e-mail address for registration  or opt-in purposes and name, postal address, and credit card information when registering for our events or purchasing our products. All of this information is provided to us by you.
+We may collect and store personal or other information that you voluntarily supply to us online while using the Site (e.g., while on the Site or in responding via email to a feature provided on the Site). The Site only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our messaging, attended one of our events, or have purchased one of our products. The Site collects personally identifying information from our users during online registration and online purchasing. Generally, this information includes name and e-mail address for registration or opt-in purposes and name, postal address, and credit card information when registering for our events or purchasing our products. All of this information is provided to us by you.
 
 We also collect and store information that is generated automatically as you navigate online through the Site. For example, we may collect information about your computer’s connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a “cookie” to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. The Site also may use web beacons (single-pixel graphic files also known as “transparent GIFs”) to access cookies and to count users who visit the Site or open HTML-formatted email messages.
 
@@ -30,8 +27,9 @@ Be aware that we may occasionally release information about our visitors when re
 
 Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or one or more of our websites is acquired by another company, information about our users may be among the transferred assets.
 
-**Google Analytics  
-**We also use Google Analytics Advertiser Features to optimize our business. Advertiser features include:
+## Google Analytics
+
+We also use Google Analytics Advertiser Features to optimize our business. Advertiser features include:
 
   * Remarketing with Google Analytics
   * Google Display Network Impression Reporting
@@ -40,39 +38,56 @@ Please also note that as our business grows, we may buy or sell various assets. 
 
 
 
-By enabling these Google Analytics Display features, we are required to notify our visitors by disclosing the use of these features and that we and third-party vendors use first-party cookies (such as the Google Analytics cookie) or other first-party identifiers, and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to gather data about your activities on our Site.  Among other uses, this allows us to contact you if you begin to fill out our check-out form but abandon it before completion with an email reminding you to complete your order.  The “Remarketing” feature allows us to reach people who previously visited our Site, and match the right audience with the right advertising message.
+By enabling these Google Analytics Display features, we are required to notify our visitors by disclosing the use of these features and that we and third-party vendors use first-party cookies (such as the Google Analytics cookie) or other first-party identifiers, and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to gather data about your activities on our Site. Among other uses, this allows us to contact you if you begin to fill out our check-out form but abandon it before completion with an email reminding you to complete your order. The “Remarketing” feature allows us to reach people who previously visited our Site, and match the right audience with the right advertising message.
 
-You can opt out of Google’s use of cookies by visiting Google’s ad settings and/or you may opt out of a third-party vendor’s use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+You can opt out of Google’s use of cookies by visiting Google’s ad settings and/or you may opt out of a third-party vendor’s use of cookies by visiting the Network Advertising Initiative opt-out page.
 
-**Facebook  
-**As advertisers on Facebook and through our Facebook page, we, (not Facebook) may collect content or information from a Facebook user and such information may be used in the same manner specified in this Privacy Policy. You consent to our collection of such information.
+## Facebook
+
+As advertisers on Facebook and through our Facebook page, we, (not Facebook) may collect content or information from a Facebook user and such information may be used in the same manner specified in this Privacy Policy. You consent to our collection of such information.
 
 We abide by Facebook’s Data Use Restrictions.
 
-  * Any ad data collected, received or derived from our Facebook ad (“Facebook advertising data”) is only shared with someone acting on our behalf, such as our service provider. We are responsible for ensuring that our service providers protect any Facebook advertising data or any other information obtained from us, limit our use of all of that information, and keep it confidential and secure.
-  * We do not use Facebook advertising data for any purpose (including retargeting, commingling data across multiple advertisers’ campaigns, or allowing piggybacking or redirecting with tags), except on an aggregate and anonymous basis (unless authorized by Facebook) and only to assess the performance and effectiveness of our Facebook advertising campaigns.
-  * We do not use Facebook advertising data, including the targeting criteria for a Facebook ad, to build, append to, edit, influence, or augment user profiles, including profiles associated with any mobile device identifier or other unique identifier that identifies any particular user, browser, computer or device.
-  * We do not transfer any Facebook advertising data (including anonymous, aggregate, or derived data) to any ad network, ad exchange, data broker or other advertising or monetization related service.
+Any ad data collected, received or derived from our Facebook ad (“Facebook advertising data”) is only shared with someone acting on our behalf, such as our service provider. We are responsible for ensuring that our service providers protect any Facebook advertising data or any other information obtained from us, limit our use of all of that information, and keep it confidential and secure.
 
+We do not use Facebook advertising data for any purpose (including retargeting, commingling data across multiple advertisers’ campaigns, or allowing piggybacking or redirecting with tags), except on an aggregate and anonymous basis (unless authorized by Facebook) and only to assess the performance and effectiveness of our Facebook advertising campaigns.
 
+We do not use Facebook advertising data, including the targeting criteria for a Facebook ad, to build, append to, edit, influence, or augment user profiles, including profiles associated with any mobile device identifier or other unique identifier that identifies any particular user, browser, computer or device.
 
-**Children’s Privacy Statement  
-**This children’s privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information regarding their rights under federal law with respect to such information.
+We do not transfer any Facebook advertising data (including anonymous, aggregate, or derived data) to any ad network, ad exchange, data broker or other advertising or monetization related service.
 
-  * This Site is not directed to children under the age of thirteen and we do NOT knowingly collect personally identifiable information from children under the age of thirteen as part of the Site. We screen users who wish to provide personal information in order to prevent users under the age of thirteen from providing such information. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen as part of the Site, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of thirteen as part of the Site.
-  * Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we also do NOT knowingly distribute such information to third parties.
-  * We do NOT knowingly allow children under the age of thirteen to publicly post or otherwise distribute personally identifiable contact information through the Site.
-  * Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we do NOT condition the participation of a child under thirteen in the Site’s online activities on providing personally identifiable information.
+## General Data Privacy Regulation (GDPR)
 
+The GDPR takes effect on May 25, 2018, and is intended to protect the data of European Union (EU) citizens.
 
+As a company that markets its site, content, products and/or services online we do not specifically target our marketing to the EU or conduct business in or to the EU in any meaningful way. If the data that you provide to us in the course of your use of our site, content, products and/or services is governed by GDPR, we will abide by the relevant portions of the Regulation.
 
-**How do we store your information?  
-**Your information is stored at the list server that delivers the Site content and messaging. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive the Site material.
+If you are a resident of the European Economic Area (EEA), or are accessing this site from within the EEA, you may have the right to request: access to, correction of, deletion of; portability of; and restriction or objection to processing, of your personal data, from us. This includes the “right to be forgotten.”
 
-All of the messaging or emails that are sent to you by the Site include an unsubscribe link in them. You can remove yourself at any time from our mailing list by clicking on the unsubscribe link that can be found in every communication that we send you.
+To make any of these requests, please contact our GDPR contact at GDPR@amymyersmd.com
 
-**  
-Disclaimer  
-**Although it is highly unlikely, this policy may be changed at any time at our discretion. If we should update this policy, we will post the updates to this page on our Website.
+## Children’s Privacy Statement
 
-If you have any questions or concerns regarding our privacy policy please direct them to: community@amymyersmd.com
+This children’s privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information regarding their rights under federal law with respect to such information.
+
+This Site is not directed to children under the age of thirteen and we do NOT knowingly collect personally identifiable information from children under the age of thirteen as part of the Site. We screen users who wish to provide personal information in order to prevent users under the age of thirteen from providing such information. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen as part of the Site, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of thirteen as part of the Site.
+
+Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we also do NOT knowingly distribute such information to third parties.
+
+We do NOT knowingly allow children under the age of thirteen to publicly post or otherwise distribute personally identifiable contact information through the Site.
+
+Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we do NOT condition the participation of a child under thirteen in the Site’s online activities on providing personally identifiable information.
+
+## How do we store your information?
+
+Your information is stored at the list server that delivers the Site content and messaging. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive the Site material.
+
+All of the messaging or emails that are sent to you by the Site include an unsubscribe link in them. You can remove yourself at any time from our mailing list by clicking on the unsubscribe link that can be found in every communicaiton that we send you.
+
+## Disclaimer
+
+Although it is highly unlikely, this policy may be changed at any time at our discretion. If we should update this policy, we will post the updates to this page on our Website.
+
+If you have any questions or concerns regarding our privacy policy please direct them to:
+
+assistant@amymyersmd.com
