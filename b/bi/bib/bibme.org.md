@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bibme.org privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618171536id_/http%3A//www.bibme.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bibme.org privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927041712id_/http%3A//www.bibme.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
