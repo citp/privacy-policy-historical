@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scarymommy.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629000623id_/http%3A//www.scarymommy.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scarymommy.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927162856id_/https%3A//www.scarymommy.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy –
 
@@ -114,7 +114,7 @@ Except as disclosed in this Privacy Policy, we do not disclose information about
 
 **_Business Partners and Third Parties_**
 
-We may share your personal information with our business partners or co-marketers from time to time. Although our treatment of your personal information is governed by this Privacy Policy, the business partner or third party’s treatment of your personal information will be governed by the business partner or third party’s privacy policy.
+We may share your personal information with our business partners or co-marketers from time to time. Although our treatment of your personal information is governed by this Privacy Policy, the business partner or third party’s treatment of your personal information will be governed by the business partner or third party’s privacy policy. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **_Third-Party Agents_**
 
