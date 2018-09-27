@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the booksmeapp.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629074503id_/http%3A//booksmeapp.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booksmeapp.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927035507id_/http%3A//booksmeapp.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Booksmeapp.com - Download Books And Magazines
 
 #### Disclaimer
 
-  * booksmeapp.com - Download Books and Magazines is a [meta-search engine](http://en.wikipedia.org/wiki/Metasearch_engine). This means we just search other search engines.
-  * booksmeapp.com - Download Books and Magazines links to other independent search engines that might host mp3 files. We have absolutely no control over those domains.
+  * is a [meta-search engine](http://en.wikipedia.org/wiki/Metasearch_engine). This means we just search other search engines.
+  * links to other independent search engines that might host mp3 files. We have absolutely no control over those domains.
   * Indexing process is completely automated. 
   * We do not host any of the songs displayed on this site, we only link to them.
   * You Play / Download MP3 files from another server/host service, not from our server.
