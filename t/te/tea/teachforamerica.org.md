@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the teachforamerica.org privacy policy that was archived on 2017-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170823075713id_/https%3A//www.teachforamerica.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachforamerica.org privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928010036id_/https%3A//www.teachforamerica.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Teach For America
 
 ## TEACH FOR AMERICA PRIVACY POLICY
 
-At Teach For America, we value your support and respect your privacy rights. To demonstrate our commitment to protecting your rights, we created this privacy policy (" **Privacy Policy** "), which explains how we treat the information collected and received from your use of our website [www.teachforamerica.org](http://www.teachforamerica.org/), internal summit websites, and Teach For America store [www.teachforamericastore.com](http://www.teachforamericastore.com/), (collectively, the " **Website** "). This Privacy Policy applies only to the Website, and we are not responsible for the practices of persons, companies, or websites that Teach For America does not control, manage, or employ. Except as set forth in this Privacy Policy, our Terms of Use [Agreement](http://www.tfanet.org/TFACommon/re_content/termsandconditions.html) (" **Terms of Use** ") and other published guidelines, we do not release personal information about our users without obtaining their written permission.
+At Teach For America, we value your support and respect your privacy rights. To demonstrate our commitment to protecting your rights, we created this privacy policy (" **Privacy Policy** "), which explains how we treat the information collected and received from your use of our website [www.teachforamerica.org](http://www.teachforamerica.org/), internal summit websites, and Teach For America store [www.teachforamericastore.com](http://www.teachforamericastore.com/), (collectively, the " **Website** "). This Privacy Policy applies only to the Website, and we are not responsible for the practices of persons, companies, or websites that Teach For America does not control, manage, or employ. Except as set forth in this Privacy Policy, our Terms of Use [Agreement](https://www.teachforamerica.org/terms-use) (" **Terms of Use** ") and other published guidelines, we do not release personal information about our users without obtaining their written permission.
 
 **What Information this Privacy Policy Covers**
 
@@ -37,7 +37,7 @@ You should be able to control how and whether Cookies will be accepted by your w
 
     5. **Purchases** ** ** When purchasing products through our Website, you are required to provide us with Personally Identifiable Information such as your name, address, billing information (e.g., credit card information or PayPal account and billing address) (" **Billing Information** "), and email address.
 
-    6. **Donations** ** ** When making donations on our Website, you are required to provide us with Personally Identifiable Information such as your name, address, Billing Information, and email address.
+    6. **Donations** ** ** When making donations on our Website, you are required to provide us with Personally Identifiable Information such as your name, address, Billing Information, and email address. Visit our [Donor Privacy Policy](https://web.archive.org/donor-privacy-policy) to learn more about how we collect and use our donors' Personal Information. 
 
 
 
@@ -58,7 +58,7 @@ Please take some time to familiarize yourself with the different ways Teach For 
 
     4. **Purchases.  **We use Personally Identifiable Information collected during the purchasing process to fulfill the order and send the product (either directly or through our providers), and we may also archive this information and/or use it for future communications with you.
 
-    5. **Donations.** ** ** We use Personally Identifiable Information collected when you make a donation on our Website to process your donation (either directly or through our providers), and we may also archive this information and/or use it for future communications with you.
+    5. **Donations.** ** ** We use Personally Identifiable Information collected when you make a donation on our Website to process your donation (either directly or through our providers), and we may also archive this information and/or use it for future communications with you. Visit our [Donor Privacy Policy](https://web.archive.org/donor-privacy-policy) to learn more about how we collect and use our donors' Personal Information.
 
     6. **Social Networks.** ** ** Teach For America has a searchable database/social network of corps members and alumni on its portal.  Information provided by matriculated corps members and alumni will pre-populate fields including name, current location, and corps membership region and year. As discussed above, certain special features of the portal will require you to register with your email as your username, which will then be viewable by all other participants of such special feature.
 
