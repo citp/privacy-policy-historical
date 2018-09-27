@@ -1,79 +1,107 @@
-> *The following text is extracted and transformed from the ghpage.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223210528id_/http%3A//www.ghpage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghpage.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927020752id_/https%3A//www.ghpage.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Ghpage•com™
 
-#### What information do we collect?
+**Who we are**  
+Our website address is https://www.ghpage.com/
 
-Privacy Policy-We collect information from you when you visit our site, register on our site, subscribe to our newsletter, respond to a survey, send us an email or fill out a form.
+**What personal data we collect and why we collect it**  
+**Comments**  
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-When registering on our site or for our services, as appropriate, you may be asked for your _Name,_ _Email_ ,  _Phone Number_ or any other information that we may deem necessary for the purposes stated below.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-You may, however, visit our site anonymously.
+**Media**  
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-#### What do we use your information for?
+**Contact forms**  
+**Cookies**  
+If you leave a comment on our site you may opt-in to save your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-Any of the information we collect from you may be used in one of the following ways:
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-  * _To personalize your experience_ : Your information helps us to better respond to your individual needs.
-  * _To improve our website_ _:_ We continually strive to improve our website offerings based on the information and feedback we receive from you.
-  * _To improve customer service_ : Your information helps us to more effectively respond to your customer service requests and support needs.
-  * _To process transactions_ : Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
-  * To administer a contest, promotion, survey or other site feature
-  * _To send periodic emails_ : The email address you provide for order processing, will only be used to send you information and updates pertaining to your order. **Note** : If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. Where unsubscribe instructions are not available, simply reply to our email with a specific statement to unsubscribe you from our mailing lists.
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
+**Embedded content from other websites**  
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
 
-#### How do we protect your information?
+### **Analytics**
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+In this subsection, you should note what analytics package you use, how users can opt out of analytics tracking, and a link to your analytics provider’s privacy policy, if any.
 
-Where applicable, all supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+By default, WordPress does not collect any analytics data. However, many web hosting accounts collect some anonymous analytics data. You may also have installed a WordPress plugin that provides analytics services. In that case, additional information from that plugin here.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 30 days.
+### **Who we share your data with**
 
-#### Do we use cookies?
+In this section, you should name and list all third party providers with whom you share site data, including partners, cloud-based services, payment processors, and third party service providers, and note what data you share with them and why. Link to their own privacy policies if possible.
 
-Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+By default, WordPress does not share any personal data with anyone.
 
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+### **How long we retain your data**
 
-#### Do we disclose any information to outside parties?
+In this section, you should explain how long you retain personal data collected or processed by the website. While it is your responsibility to come up with the schedule of how long you keep each dataset for and why you keep it, that information does need to be listed here. For example, you may want to say that you keep contact form entries for six months, analytics records for a year, and customer purchase records for ten years.
 
-We do not sell, trade, or otherwise transfer to outside parties any other personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential.
+**Suggested text** : If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
 
-Where information was requested and received by us for publication purposes, we publish the information on our website to enable prospects identify and reach you.
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
 
-We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+### **What rights you have over your data**
 
-#### Third party links
+In this section, you should explain what rights your users have over their data and how they can invoke those rights.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Suggested text: If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
-#### Online and Offline Privacy Policy
+### **Where we send your data**
 
-This online privacy policy applies to information collected through our website, email and to information collected offline.
+In this section, you should list all transfers of your site data outside the European Union and describe the means by which that data is safeguarded to European data protection standards. This could include your web hosting, cloud storage, or other third party services.
 
-**CHANGES TO THIS PRIVACY POLICY**
+European data protection law requires data about European residents which is transferred outside the European Union to be safeguarded to the same standards as if the data was in Europe. So in addition to listing where data goes, you should describe how you ensure that these standards are met either by yourself or by your third-party providers, whether that is through an agreement such as Privacy Shield, model clauses in your contracts, or binding corporate rules.
 
-Gh Page has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. YOUR ACCEPTANCE OF THESE TERMS By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. This privacy policy was created with privacypolicy.com
+Suggested text: Visitor comments may be checked through an automated spam detection service.
+
+### **Your contact information**
+
+In this section, you should provide a contact method for privacy-specific concerns. If you are required to have a Data Protection Officer, list their name and full contact details here as well.
+
+### **Additional information**
+
+If you use your site for commercial purposes and you engage in a more complex collection or processing of personal data, you should note the following information in your privacy policy in addition to the information we have already discussed.
+
+### **How we protect your data**
+
+In this section, you should explain what measures you have taken to protect your users’ data. This could include technical measures such as encryption; security measures such as two-factor authentication; and measures such as staff training in data protection. If you have carried out a Privacy Impact Assessment, you can mention it here too.
+
+### **What data breach procedures we have in place**
+
+In this section, you should explain what procedures you have in place to deal with data breaches, either potential or real, such as internal reporting systems, contact mechanisms, or bug bounties.
+
+### **What third parties we receive data from**
+
+If your website receives data about users from third parties, including advertisers, this information must be included in the section of your privacy policy dealing with third-party data.
+
+### **What automated decision making and/or profiling we do with user data**
+
+If your website provides a service which includes automated decision making – for example, allowing customers to apply for credit, or aggregating their data into an advertising profile – you must note that this is taking place, and include information about how that information is used, what decisions are made with that aggregated data, and what rights users have over decisions made without human intervention.
+
+### **Industry regulatory disclosure requirements**
+
+If you are a member of a regulated industry, or if you are subject to additional privacy laws, you may be required to disclose that information here.
 
 **CONTACTING US**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us ](http://www.ghpage.com/privacy-policy/)on any of the following channels. This document was last updated on 20th September,2016.
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us ](https://www.ghpage.com/privacy-policy/)on any of the following channels. This document was last updated on 22nd May 2018.
 
-Email : [info@ghpage.com](mailto:info@ghpage.com)
+Email: [info@ghpage.com](mailto:info@ghpage.com)
 
 Chief Editor: [tonikusi@ghpage.com](mailto:tonikusi@ghpage.com)
 
-Send news to : [news@ghpage.com](mailto:news@ghpage.com)
+Send news to [info@ghpage.com](mailto:info@ghpage.com)
 
-  * **Facebook** :  [Ghpage.Com](https://web.facebook.com/officialghpage)
+  * **Facebook** :  [Ghpage.Com](https://www.facebook.com/ghpagenews/)
   * **Twitter** : [GHPage](https://twitter.com/ghpage_com)
   * **Instagram** : [GHPage•Com](http://instagram.com/ghpagedotcom)
-  * **Youtube Channel :[Ghana Page ](http://www.youtube.com/channel/UCoP6-47eI0_vPEdfaimOs9A)**
+  * **Youtube Channel:[Ghpage News Tv](https://www.youtube.com/channel/UCuTpUIi5oeSPjEkMUH9o5Og/?sub_confirmation=1)**
 
 
-
-You can also call us on these numbers :+233267312515 /+233203713877
-
-Or whatsapp us on +233244403336/+233245475186
