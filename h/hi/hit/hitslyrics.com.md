@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitslyrics.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612174802id_/https%3A//www.stlyrics.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitslyrics.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927155700id_/https%3A//www.stlyrics.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy - Stlyrics.com
 
@@ -21,6 +21,14 @@ We use your IP address to help diagnose problems with our server and to administ
 
   
 
+
+####  Legitimate Interest 
+
+Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more det ails including opt \- out requests, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via privacy@exponential.com 
+
+####  Consent
+
+Subject to your consent, Exponential Interactive, Inc collect and profile personal data in the form of IP address and cookie ID from users on o ur website in order to provide targeted online advertising and ad measurement. You may change your consent decision at any time via. For more details including access requests a nd complaints, review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via privacy@exponential.com 
 
 #### Advertisers
 
