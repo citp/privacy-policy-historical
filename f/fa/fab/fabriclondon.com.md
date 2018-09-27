@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fabriclondon.com privacy policy that was archived on 2017-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170907215150id_/https%3A//www.fabriclondon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabriclondon.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927171307id_/https%3A//www.fabriclondon.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-fabric life ltd Who's registered Office is Momentum House, Lower Road, Waterloo, London, England, SE1 8SJ, Registered company number 07258997, trading as fabric are are committed to protecting any data that we collect concerning you. By using our services you agree to the use of the data that we collect in accordance with this privacy policy.
+fabric life ltd Who's registered Office is Fabric Life Ltd, 12 Greenhill Rents, London, EC1M 6BN, Registered company number 07258997, trading as fabric are are committed to protecting any data that we collect concerning you. By using our services you agree to the use of the data that we collect in accordance with this privacy policy.
 
 ## We are committed to protecting your privacy
 
@@ -10,7 +10,7 @@ We collect the minimum amount of information about you that is commensurate with
 
 ## Information collected
 
-We may collect any or all of the information that you give us depending on the type of transaction you enter into, including your name, address, telephone number, fax number and email address, together with data about your use of the website. Other information that may be needed from time to time to process a request may also be collected as indicated on the website. Data in relation to credit card payments is processed by [Worldpay](http://www.worldpay.com/ "WorldPay") or [Optimal Payments](http://www.optimalpayments.co.uk/ "Optimal Payments") on a secure website linked to ours and they have their own privacy policies.
+We may collect any or all of the information that you give us depending on the type of transaction you enter into, including your name, address, telephone number, fax number and email address, together with data about your use of the website. Other information that may be needed from time to time to process a request may also be collected as indicated on the website. Data in relation to credit card payments is processed by [Optimal Payments](http://www.optimalpayments.co.uk/ "Optimal Payments") on a secure website linked to ours and they have their own privacy policies.
 
 ## Information use
 
@@ -31,3 +31,7 @@ Any changes to our Privacy Policy will be placed here and will supersede this ve
 ## Contacting us
 
 If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at [info@fabriclondon.com](mailto:info@fabriclondon.com) or call 0207 336 8898. You can also correct any factual errors in that information or require us to remove your details form any list under our control.
+
+The short version? Essentially, any information about yourself you give us will only be used by us to make this website a better experience for you. We never pass it on to a third party.
+
+We know it is a little boring, but like all websites these days we need to make sure this legal mumbo jumbo is available for you to read.
