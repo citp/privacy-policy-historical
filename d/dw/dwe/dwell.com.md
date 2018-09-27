@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dwell.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129212603id_/https%3A//www.dwell.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwell.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927142521id_/https%3A//www.dwell.com/privacy) for the most accurate reproduction.*
 
 # Dwell
 
-Welcome to Dwell. This privacy policy (this “Privacy Policy”) is to help you understand what data Dwell collects, and our practices for collecting, using, maintaining, protecting, and disclosing that information. This Privacy Policy governs the website and Dwell’s other digital products and services, including its mobile application (collectively, “Services”). Additionally, our [Terms of Service](https://web.archive.org/terms) are incorporated by reference into this Privacy Policy. The terms “Dwell,” “we,” “our,” or “us” refer to, collectively, Dwell Life, Inc., a Delaware corporation, and its affiliates, headquartered in San Francisco, California in the United States.
+Welcome to Dwell. This privacy policy (“Privacy Policy”) is to help you understand what data Dwell collects, and our practices for collecting, using, maintaining, protecting, and disclosing that information. **This privacy policy informs you as to how you are protected under the General Data Protection Regulation (GDPR) laws.** This Privacy Policy governs the website and Dwell’s other digital products and services, including its mobile application (collectively, “Services”). Additionally, our [Terms of Service](https://web.archive.org/terms) are incorporated by reference into this Privacy Policy. The terms “Dwell,” “we,” “our,” or “us” refer to, collectively, Dwell Life, Inc., a Delaware corporation, and its affiliates, headquartered in San Francisco, California in the United States.
 
 ## Information We Collect
 
