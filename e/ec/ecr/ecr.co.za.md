@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecr.co.za privacy policy that was archived on 2018-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180321081528id_/https%3A//www.ecr.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecr.co.za privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928155830id_/https%3A//www.ecr.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -92,7 +92,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
  **How you can access or correct your information  **
 
-You can access all your personally identifiable information that we collect online and maintain by emailing privacy@ecr.co.za We use this procedure to better safeguard your information. 
+You can access all your personally identifiable information that we collect online and maintain by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) We use this procedure to better safeguard your information. 
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
