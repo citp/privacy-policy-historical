@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the mapcruzin.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528221726id_/http%3A//www.mapcruzin.com/fairuse.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapcruzin.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928163338id_/http%3A//www.mapcruzin.com/fairuse.htm) for the most accurate reproduction.*
 
 # Cookies, Privacy, Disclaimer and fair use notice
 
 January 30, 2020 
+
+**Research:** [Right-to-Know or Left-to-Wonder](https://web.archive.org/right-to-know-issues.htm)  
+[RTK News](https://web.archive.org/index2.html) \- [RTK Resources](https://web.archive.org/right-to-know-issues2.htm) \- [Lost and Found](https://web.archive.org/mapcruzin-news-archive.htm)
 
 [](http://twitter.com/pollutionmaps) [Follow on Twitter](http://twitter.com/pollutionmaps)
 
