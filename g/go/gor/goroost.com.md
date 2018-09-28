@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goroost.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627144723id_/https%3A//goroost.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goroost.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928110400id_/https%3A//goroost.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Roost
 
