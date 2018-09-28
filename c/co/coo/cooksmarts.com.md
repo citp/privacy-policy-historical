@@ -1,20 +1,22 @@
-> *The following text is extracted and transformed from the cooksmarts.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606174238id_/http%3A//www.cooksmarts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooksmarts.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929002455id_/https%3A//www.cooksmarts.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Cook Smarts
+# Privacy Policy | Cook Smarts
 
 **Cook Smarts, LLC Privacy Policy**
 
-Your privacy and security are important to us. We want you to feel comfortable using Cook Smarts, LLC’s website and services, so below is a description of how we collect, use, and protect your personal information.
+ **Last modified May 24, 2018**
+
+Your privacy and security are incredibly important to us. We want you to feel comfortable using Cook Smarts, LLC’s website and services, so below is a description of how we collect, use, and protect your personal information.
 
 We may amend this Privacy Policy from time to time, and will post any updates or changes to our Privacy Policy here so that you will always know what information we collect, how we might use that information, and whether we will disclose that information to anyone else. Please review this Privacy Policy periodically so you can stay up to date on any changes. By using our website or services, you agree to the terms of this Privacy Policy.
 
-This Privacy Policy only applies to information collected by our website, when you subscribe to one of our meal planning services, or when you purchase our 6-week Nourish By Cook Smarts course. We are not responsible for the privacy of any information you reveal or post in any public forum (a message board or blog, for example) or through the “Public Profile” feature available on our Website, or for the privacy practices of websites that are operated or owned by third parties.
+This Privacy Policy only applies to information collected by our website, when you subscribe to one of our meal planning services, or when you purchase our 6-week Nourish By Cook Smarts course. We are not responsible for the privacy of any information you reveal or post in any public forum (a message board or blog, for example) or through the “Public Profile” feature available on our Website, or for the privacy practices of websites that are operated or owned by third parties. We encourage you to review all privacy policies of any third-party websites you visit as a result of your use of our website and services.
 
 ### INFORMATION WE COLLECT UPON SIGN-UP
 
-We collect and store information that you have explicitly provide to us through forms on our website when you sign up. For example, when you purchase our products and create a website membership, we collect various personal information such as name, email and payment information. We do not record or store any payment information. Your credit card and banking information is kept with our payment processors, Stripe, PayPal and Simplify Commerce. You can read more about their privacy policies by clicking on these links: [Stripe](https://stripe.com/us/privacy), [PayPal](https://www.paypal.com/us/webapps/mpp/ua/privacy-full), [Simplify Commerce](https://www.simplify.com/commerce/docs/misc/legal/privacy-notice).
+We collect and store information that you have explicitly provide to us through forms on our website when you sign up. For example, when you purchase our products and create a website membership, we collect various personal information such as name, email and payment information. We do not record or store any payment information. Your credit card and banking information is kept securely stored by our payment processors, Stripe and PayPal. You can read more about their privacy policies by clicking on these links: [Stripe](https://stripe.com/us/privacy), [PayPal](https://www.paypal.com/us/webapps/mpp/ua/privacy-full).
 
-We only use your personal and payment information to charge you for the services you choose to receive and provide you with those services.
+We only use your personal and payment information to charge you for the services you choose to receive and provide you with those services. We store your personally-identifiable data on our servers which are operated by Amazon Web Services. This information will be stored so long as you maintain an account with us.
 
 ### INFORMATION WE COLLECT UPON LOG-IN
 
@@ -36,7 +38,7 @@ Our website includes social media features, buttons and widgets provided by thir
 
 ### THIRD PARTY
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, processing your payments, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. You may opt out of our release of your personally-identifiable information to third parties by contacting us [here](http://www.cooksmarts.com/contact/). If you opt out, some services may not be available to you. We may also release your information when reasonably we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
 ### INFORMATION FROM CHILDREN UNDER 13 YEARS OF AGE
 
@@ -44,8 +46,8 @@ Our website, meal planning subscriptions, and our Nourish By Cook Smarts course 
 
 ### CONSENT
 
-Use of this website and its subscriptions constitutes agreement with this Privacy Policy. We reserve the right to update the Privacy Policy as required by any future law. We will always send you a notification should any of the terms change.
+Use of this website and its subscriptions constitutes agreement with this Privacy Policy. We reserve the right to update the Privacy Policy as required by any future law. We will always send you a notification should any of the terms change. You may revoke your consent to this Privacy Policy by reaching out to us [here](http://www.cooksmarts.com/contact/). If you wish to delete your account with us, you may reach out to us [here](http://www.cooksmarts.com/contact/). If you delete your account, we will remove all of your personally-identifiable data from our servers and systems.
 
 ### CONTACTING US
 
-For questions or concerns about this Privacy Policy, please reach out to us via e-mail at hello [at] cooksmarts [dot] com.
+For questions or concerns about this Privacy Policy or if you have any complaints about how we collect, process store, or transmit your data, please reach out to us via e-mail at hello [at] cooksmarts [dot] com.
