@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the awempire.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625041547id_/http%3A//www.awempire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awempire.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928234855id_/http%3A//www.awempire.com/privacy-policy) for the most accurate reproduction.*
 
 # Awempire.com - Privacy Policy of Adult Webmaster Empire
 
 [ ](http://www.awempire.com/)
-
-[ ](https://web.archive.org/blog/affiliate-program/whitelabel-4-the-ace-of-the-cam-game?awesec_session=awe9624f09807fb51ee4b3dd0a2b9657e1e)
 
 Last modified: 25 May, 2018
 
@@ -175,7 +173,7 @@ We process this information given our legitimate interest in ensuring compliance
 
 If you have accepted to receive marketing emails, we will use your personal data for sending emails about special offers and services, or information that may be of interest for you.
 
-You can very easily revoke such consent at any time in your "Consent Settings". Revoking consent means you might miss out special offers.
+You can very easily revoke such consent at any time in your "Privacy Settings". Revoking consent means you might miss out special offers.
 
 ### Comply with any legal requirements and enforce our legal rights
 
