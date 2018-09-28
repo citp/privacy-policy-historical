@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gmb.io privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831084114id_/https%3A//gmb.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmb.io privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928124729id_/https%3A//gmb.io/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Thank you for visiting the [GMB website](https://gmb.io/) (the “Site”). This Privacy Policy explains the manner in which we may collect, use and disclose personal information which you provide to us. By visiting this Site or otherwise providing us with your personal information, you agree to be bound by the terms of this policy.  
+Thank you for visiting the [GMB website](https://gmb.io/) (the “Site”). This Privacy Policy explains the manner in which we may collect, use and disclose personal information which you provide to us. By visiting this Site or otherwise providing us with your personal information, you agree to be bound by the terms of this policy.
 
 We want to assure you that GMB takes privacy matters very seriously and is committed to protecting your privacy. Therefore, we are providing this policy to explain our privacy practices and the choices you can make about the way your information is collected and used.
 
@@ -52,10 +52,13 @@ Your use of this Site and any issues relating to this policy are subject to GMB�
 
 ## PRIVACY POLICY UPDATES
 
-We reserve the right to update or modify this policy at any time and from time to time without prior notice by posting a revised version of the policy on the Site. If we make material changes to this policy, we will notify you by means of a conspicuous notice on our homepage. Your use of the Site or any GMB facility following any revision to the policy constitutes your agreement that all personal information collected from or about you after the revised policy is posted will be subject to the terms and conditions of the revised policy. The date listed above indicates the most recent change or update to this policy. 
+We reserve the right to update or modify this policy at any time and from time to time without prior notice by posting a revised version of the policy on the Site. If we make material changes to this policy, we will notify you by means of a conspicuous notice on our homepage. Your use of the Site or any GMB facility following any revision to the policy constitutes your agreement that all personal information collected from or about you after the revised policy is posted will be subject to the terms and conditions of the revised policy. The date listed above indicates the most recent change or update to this policy.
 
 ## QUESTIONS OR COMMENTS
 
 If you have questions or comments about GMB’s Online Privacy Policy, please email us at howdy@gmb.io, or write to us at:
 
-Super 301 Inc. PO Box 15197 Mill Creek, WA 98082 
+Super 301 Inc.  
+PO Box 15197  
+Mill Creek  
+WA 98082
