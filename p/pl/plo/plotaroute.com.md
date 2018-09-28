@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plotaroute.com privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503202457id_/https%3A//www.plotaroute.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plotaroute.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928112907id_/https%3A//www.plotaroute.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # plotaroute.com - Privacy Policy
 
@@ -20,7 +20,8 @@ We need very little personal information to provide the services we offer, so on
 
   * your name
   * your email address
-  * your country (derived from other data sent by your web browser)  
+  * your country (derived from other data sent by your web browser)
+  * your weight (optional, used to improve Calorie calculations)   
 
 
 
@@ -32,7 +33,7 @@ You may, if you wish, choose to provide additional personal information as part 
 We use your personal information to identify you and provide you with a better service, in particular for the following reasons:
 
   * internal record keeping;
-  * to notify you about actions of other users of _plotaroute.com_ that relate to content your have created on the website (“Notifications”);
+  * to notify you about actions of other users of _plotaroute.com_ that relate to content your have created on the website (ï¿½Notificationsï¿½);
   * to tailor various features on the website according to your location;
   * to improve our products and services;
   * to periodically send promotional emails about new products, special offers or other information which we think you may find interesting;
@@ -43,7 +44,7 @@ We use your personal information to identify you and provide you with a better s
 You may choose to restrict our use of your personal information in the following ways:
 
   * when you create an account with _plotaroute.com_ , you can choose whether or not you wish to receive promotional emails and Notifications by email;
-  * after you have created an account with _plotaroute.com_ , you can change you email preferences by visiting your “My Account” page. 
+  * after you have created an account with _plotaroute.com_ , you can change you email preferences by visiting your ï¿½My Accountï¿½ page. 
 
 
 
@@ -81,13 +82,13 @@ In addition, if you linked to our website from a third party site, we cannot be 
 
 ### How you can access and update your personal information?
 
-You can access and modify all the essential personal information we ask for, on your “My Account” page on _plotaroute.com_.
+You can access and modify all the essential personal information we ask for, on your “My Account” and "My Settings" pages on _plotaroute.com_. 
 
-If you believe that any of the information we are holding about you is incorrect or incomplete, you can correct this on your “My Account” page or you can notify us using the “Contact Us” page on the website. We will promptly correct any information found to be incorrect, once we have verified your identity.
+If you believe that any of the information we are holding about you is incorrect or incomplete, you can correct this on your “My Account” or "My Settings" pages or you can notify us using the “Contact Us” page on the website. We will promptly correct any information found to be incorrect, once we have verified your identity.
 
 You may also request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held about you please write to us using the “Contact Us” page on the website.
 
 ### Review of this policy
 
-We keep this Policy under regular review. This Policy was last updated in March 2018.  
+We keep this Policy under regular review. This Policy was last updated in September 2018.  
 
