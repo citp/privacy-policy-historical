@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2dayfm.com.au privacy policy that was archived on 2017-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170804174948id_/https%3A//www.hit.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2dayfm.com.au privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928123825id_/https%3A//www.hit.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
