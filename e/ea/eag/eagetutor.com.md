@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eagetutor.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522215829id_/http%3A//www.eagetutor.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eagetutor.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928162452id_/http%3A//eagetutor.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -90,7 +90,7 @@ You acknowledge and accept that your use of the Site indicates your acceptance o
 
 If you have any questions or feedback about this statement or any privacy issues concerning eAgeTutor.com, please send us an email at [wecare@eagetutor.com](mailto:wecare@eagetutor.com "wecare@eagetutor.com").
 
-The safety of our users is of paramount importance to us, please take a moment to review our [safety policy](https://web.archive.org/web/20180522215829id_/http%3A//www.eagetutor.com/safety-policy "safety policy").
+The safety of our users is of paramount importance to us, please take a moment to review our [safety policy](https://web.archive.org/web/20180928162452id_/http%3A//eagetutor.com/safety-policy "safety policy").
 
   
 
