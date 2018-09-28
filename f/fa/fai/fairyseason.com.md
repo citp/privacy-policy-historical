@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairyseason.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620053606id_/http%3A//www.fairyseason.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairyseason.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928072942id_/https%3A//www.fairyseason.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ To avoid misunderstandings and to provide you a 100% safe and secure shopping ex
 
 At FAIRYSEASON, we are 100% committed to protecting the privacy and security of our customers and site visitors. We totally appreciate and respect how important privacy is. We’ll protect your data like it’s our own. We’ll always keep your data safe and secure. We will only use your data to up your experience.
 
-You decide what and how you hear from us. We protect your privacy and your rights through the use of the European Commission’s standard data protection clauses. More information about these is available here [ _http://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32010D0087_](http://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32010D0087)
+You decide what and how you hear from us. We protect your privacy and your rights through the use of the European Commission’s standard data protection clauses. More information about these is available here [ _https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32010D0087_](https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32010D0087)
 
 If you have any questions about how we Protect Your Privacy, contact us at e-mail: **service@fairyseason.com**
 
