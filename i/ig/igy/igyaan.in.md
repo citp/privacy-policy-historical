@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igyaan.in privacy policy that was archived on 2018-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180330172815id_/http%3A//www.igyaan.in/privacy-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igyaan.in privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929011355id_/https%3A//www.igyaan.in/privacy-disclaimer) for the most accurate reproduction.*
 
 # Privacy & Disclaimer | iGyaan Network
 
@@ -14,7 +14,7 @@ You can send email requesting help and your email will NOT be shared in any way 
 
 Ads used on this website can use cookies and/or web beacons to collect data in the ad serving process. You can remove them at any time using your browser tools.
 
-If you have any questions or concerns regarding this matter, please feel free to [contact us.](http://www.igyaan.in/contact-us/ "Contact Us")
+If you have any questions or concerns regarding this matter, please feel free to [contact us.](https://www.igyaan.in/contact-us/ "Contact Us")
 
 ### Ads on iGyaan Network:
 
