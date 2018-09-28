@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the office.co.uk privacy policy that was archived on 2017-11-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171116123451id_/https%3A//www.office.co.uk/view/content/privacy-info-page) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the office.co.uk privacy policy that was archived on 2018-09-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180928190239id_/https%3A//www.office.co.uk/view/content/privacy-info-page) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,16 +7,18 @@
 		<meta charset="UTF-8">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
-<meta name="apple-itunes-app" content="app-id=472905738"><script type="text/javascript" async="" src="https://vmss.boldchat.com/aid/611091365066791553/bc.vms4/vms.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KDV4Z5"></script><script type="text/javascript" src="dtagent_ICA23STVbjpqrx_7000000061013.js" data-dtconfig="agentUri=dtagent_ICA23STVbjpqrx_7000000061013.js|rid=RID_-599156343|rpid=1246042342|bandwidth=300|lastModification=1509469955223|lab=1|tp=500,50,0,1|reportUrl=dynaTraceMonitor|app=Office - B2C|domain=office.co.uk"></script><link rel="canonical" href="https://www.office.co.uk/view/content/privacy-info-page"><link rel="alternate" hreflang="de" href="https://www.officelondon.de/view/content/privacy-info-page">
-    <link rel="icon" href="//media.office.co.uk/office/styles/images/icon.ico?version=2.14.1" type="image/x-icon">
+<meta name="apple-itunes-app" content="app-id=472905738"><link rel="canonical" href="https://www.office.co.uk/view/content/privacy-info-page"><link rel="manifest" href="/assets/manifest.json">
 
-<script>
+<link rel="alternate" hreflang="de" href="https://www.officelondon.de/view/content/privacy-info-page">
+    <link rel="icon" href="//media.office.co.uk/office/styles/images/icon.ico?version=3.5" type="image/x-icon">
+
+<script type="text/javascript" async="" src="https://vmss.boldchat.com/aid/611091365066791553/bc.vms4/vms.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KDV4Z5"></script><script>
     // Progressive font loading with font events
     !function(){if(sessionStorage.fontsLoaded){var a=JSON.parse(sessionStorage.getItem("fonts"));a.forEach(function(a){document.documentElement.classList.add(a)})}}();
 </script>
 
 <!--Optimization is ON -->
-	   <link rel="stylesheet" type="text/css" href="//media.office.co.uk/_ui/responsive/site-office/css/style-concat-min.css?version=2.14.1">
+	   <link rel="stylesheet" type="text/css" href="//media.office.co.uk/_ui/responsive/site-office/css/style-concat-min.css?version=3.5">
 	<!-- ********************* Load Bootstrap JS and from _ui folder *********************************** -->
  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -26,6 +28,25 @@
 <![endif]-->
 
 <!-- While there are inline scripts using $(document).ready jQuery needs to be loaded here -->
+
+<script>
+function getCookie (name) {
+    var re = new RegExp(name + "=([^;]+)");
+    var value = re.exec(document.cookie);
+    return (value != null) ? unescape(value[1]) : null;
+}
+function isHashedUserId (userId) {
+    if (!userId) return false;
+    if (userId.length <= 9) return false;
+    return true;
+}
+var userIdVal = getCookie('userId');
+console.log('before deleting ', getCookie('userId'));
+if( userIdVal === 'anonymous' || isHashedUserId( userIdVal ) ){
+    document.cookie = 'userId=""; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+}
+console.log('after delete, before Monetate', getCookie('userId'));
+</script>
 
 
 
@@ -59,7 +80,7 @@
     }
 </script>
 <!--Optimization is ON -->
-	   <script src="//media.office.co.uk/_ui/responsive/site-office/../common/js/office-responsive-header-min.js?version=2.14.1"></script>
+	   <script src="//media.office.co.uk/_ui/responsive/site-office/../common/js/office-responsive-header-min.js?version=3.5"></script>
 	
 
 
@@ -180,20 +201,22 @@
        
 	     
 
-<style>
-<!--
-A{text-decoration:none; color:inherit;>}
--->
-</style>
-
-<div class="headerPromos headerPromosTop" style="background-color: #efefef !important; font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, sans-serif;"><div class="container"><div class="row"> <ul>
- 
-<li class="col-sm-3 text-center" style="color: #000000"><a href="/view/content/deliveryinfo-page">FREE UK and Collect+ Delivery*</a></li>
-<li class="col-sm-3 text-center" style="color: #000000"><a href="/view/content/Christmas_Delivery">Christmas Delivery &amp; Returns</a></li>
-<li class="col-sm-3 text-center" style="color: #000000"><a href="/view/content/deliveryinfo-page">Next Day Delivery - Order by 9PM*</a></li>
-<li class="col-sm-3 text-center" style="color: #000000"><a href="/studentdiscount">10% off for Students</a></li>
-</ul>
-</div></div></div>
+<div class="headerPromos headerPromosTop hidden-xs">
+    <div class="container">
+        <div class="row">
+            <ul>
+                <li class="col-sm-4 col-md-3 text-center"><a href="/view/content/deliveryinfo-page">FREE UK Delivery*</a></li>
+                <li class="col-sm-4 col-md-3 text-center"><a href="/view/content/clickandcollectinfo-page">FREE UK Click + Collect</a></li>
+                <li class="hidden-sm col-md-3 text-center"><a href="/view/content/deliveryinfo-page">Next Day Delivery - Order by 9pm</a></li>
+   <!--  <li class="hidden-sm col-md-3 text-center"><a href="/studentdiscount">10% off for Students</a></li> -->
+                   <li class="col-sm-4 col-md-3 text-center currency">
+                    Currency: <select data-show-tick="false" data-tick-icon="" class="currency-select">
+                    </select>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
 		
       <div class="container">
         
@@ -219,58 +242,64 @@ A{text-decoration:none; color:inherit;>}
     <ul class="multicolumn-dropdown">
      <li><h5>Category</h5></li>
      <li><a href="/womens?SHOP+BY=new+in">New In</a></li>
-     <li><a href="/view/search?search=officexmas+drp1&amp;SHOP+BY=hers">Christmas</a></li>
-     <li><a href="/view/search?search=occasionshoes+drp1">Party Shoes</a></li>
+     <li><a href="/womens/animal-print">Animal Print</a></li>	 
+     <li><a href="/view/search?search=occasionshoes">Occasion</a></li>
+     <li><a href="https://www.office.co.uk/Chunky-Trainers">Chunky Trainers</a></li>
      <li>&nbsp;</li>
      <li>&nbsp;</li>
-     <li><a href="/view/search?search=boots+drp1&amp;SHOP+BY=hers"><strong>Womens Boots</strong></a></li>
+ <li><a href="/view/search?search=boots&amp;SHOP+BY=hers"><strong>Womens Boots</strong></a></li>
      <li><a href="/ankleboots">Ankle Boots</a></li>
-     <li><a href="/chelseaboots/womens">Chelsea Boots</a> </li>
+     <li><a href="/view/search?search=chelsea+boots&amp;SHOP+BY=hers">Chelsea Boots</a> </li>
      <li><a href="/kneeboots/womens">Knee Boots</a></li>
      <li><a href="/overthekneeboots/womens">Over the Knee Boots</a></li>
-     <li><a href="/wellies/womens">Wellies</a></li>
+     <li><a href="/view/search?search=partybootstrend?drp1">Party Boots</a></li>	 
      <li>&nbsp;</li>
      <li>&nbsp;</li>
-     <li><a href="/view/search?search=heels+DRP1"><strong>All Heels</strong></a></li>
+     <li><a href="/view/search?search=womens+heels"><strong>All Heels</strong></a></li>
      <li><a href="/highheels/womens">High Heels</a></li>
+     <li><a href="/view/search?search=womens+heeled+sandals">Heeled Sandals</a></li>
+	      <li><a href="/view/search?search=partybootstrend?drp2">Heeled Boots</a></li>	 
      <li><a href="/midheels/womens">Mid Heels</a></li>
-     <li><a href="/view/search?search=heeled+sandals+DRP1">Heeled Sandals</a></li>
+     <li><a href="/womens/wedges">Wedges</a></li>
     </ul>
    </div>
    <div class="col-sm-3 col-md-2">
     <ul class="multicolumn-dropdown">
      <li><h5>&nbsp;</h5></li>
-     <li><a href="/view/search?search=hers+drp1&amp;SHOP+BY=hers"><strong>Womens Shoes</strong></a></li>
-     <li><a href="/womens?SHOE+TYPE=Ballet+Shoes">Ballet Shoes</a></li>
-     <li><a href="/flats/womens">Flats</a> </li>
-     <li><a href="/view/search?search=loafers+DRP1&amp;SHOP+BY=Hers">Loafers</a></li>
-     <li><a href="/view/search?search=mules+drp1&amp;SHOP+BY=hers">Mules</a></li>
+ <li><a href="/womens?SHOP+BY=hers"><strong>Womens Shoes</strong></a></li>
+     <li><a href="/womens/ballet-shoes">Ballet Shoes</a></li>
+     <li><a href="/womens/espadrilles">Espadrilles</a></li>
+     <li><a href="/flats/womens">Flats</a></li>
+     <li><a href="/womens/loafers">Loafers</a></li>
      <li><a href="/sandals/womens">Sandals</a></li>
-     <li><a href="/view/search?search=hers+DRP1&amp;SHOE+TYPE=Slippers">Slippers</a></li>
-     <li><a href="/view/search?search=Trainers+DRP1&amp;SHOE+TYPE=Hers+trainers">Trainers</a></li>
+     <li><a href="/womens/trainers">Trainers</a></li> 
      <li>&nbsp;</li>
      <li>&nbsp;</li>
      <li>&nbsp;</li>
      <li>&nbsp;</li>
      <li><a href="/accessories">Bags &amp; Accessories</a></li>
-     <li><a href="/accessories?pageSize=30&amp;ACCESSORY%20TYPE=Shoe+Care+And+Laces">Shoe Care &amp; Laces</a></li>
+     <li><a href="/accessories/shoe-care-and-laces">Shoe Care &amp; Laces</a></li>
     </ul>
    </div>
    <div class="col-sm-3 col-md-2">
     <ul class="multicolumn-dropdown">
      <li><h5>Brands</h5></li>
-     <li><a href="/womens?BRAND=Office"><strong>OFFICE</strong></a></li>
+     <li><a href="/womens?BRAND=office"><strong>OFFICE</strong></a></li>
+     <li><a href="/view/search?search=o+by+office">O By OFFICE</a></li>
      <li><a href="/womens?BRAND=adidas">adidas</a></li>
-     <li><a href="/brand/converse">Converse</a></li>
-     <li><a href="/womens?BRAND=Dr.+Martens">Dr. Martens</a></li>
-     <li><a href="/womens?BRAND=Nike">Nike</a></li>
-     <li><a href="/womens?BRAND=Puma">Puma</a></li>
-     <li><a href="/womens?BRAND=Reebok">Reebok</a></li>
-     <li><a href="/womens?BRAND=Ted+Baker">Ted Baker</a></li>
-     <li><a href="/womens?BRAND=Timberland">Timberland</a></li>
-     <li><a href="/womens?BRAND=UGG">UGG</a></li>
-     <li><a href="/womens?BRAND=Vagabond">Vagabond</a></li>
-     <li><a href="/womens?BRAND=Vans">Vans</a></li>
+     <li><a href="/womens?BRAND=blowfish">Blowfish</a></li>
+     <li><a href="/womens?BRAND=converse">Converse</a></li>
+     <li><a href="/womens?BRAND=dr.+martens">Dr. Martens</a></li>
+     <li><a href="/womens?BRAND=Fila">Fila</a></li>
+     <li><a href="/womens?BRAND=nike">Nike</a></li>
+     <li><a href="/womens?BRAND=puma">Puma</a></li>
+     <li><a href="/womens?BRAND=reebok">Reebok</a></li>
+     <li><a href="/womens?BRAND=ted+baker">Ted Baker</a></li>
+     <li><a href="/womens?BRAND=timberland">Timberland</a></li>
+     <li><a href="/womens?BRAND=toms">Toms</a></li>
+     <li><a href="/womens?BRAND=ugg">UGG</a></li>
+     <li><a href="/womens?BRAND=vagabond">Vagabond</a></li>
+     <li><a href="/womens?BRAND=vans">Vans</a></li>
      <li>&nbsp;</li>
      <li><a href="/brand"><strong>View All Brands A-Z</strong></a></li>
     </ul>
@@ -279,18 +308,23 @@ A{text-decoration:none; color:inherit;>}
     <ul class="multicolumn-dropdown">
      <li><h5>Shoe Diary</h5></li>
      <li><a href="/blog/">Read The Blog</a></li>
-     <li><a href="/UGG-style">How To Wear UGG</a></li>
-     <li><a href="/blog/brands/puma-x-collyer-twins/">Meet The Collyer Twins</a></li>
-     <li><a href="/blog/brands/nike-autumn-suede-collection/">Nike Exclusives</a></li>
-     <li><a href="/winter-boots-edition">Trend Alert: Boot Edit</a></li>
+     <li><a href="/winter-boots-edition">The Boot Edit</a></li>
+     <li><a href="/brand/converse/exclusives">#chuckstories</a></li>
+      <li><a href="/vans-icons">The Vans Edit</a></li>
+     <li><a href="/nike-style">Nike X OFFICE Edit</a></li>
+
+     <li>&nbsp;</li>
+     <li>&nbsp;</li>
+     <li><h5>Your Style Edit</h5></li>
+     <li><a href="/officeloves">#officeloves</a></li>
     </ul>
    </div>
      <div class="col-sm-2 col-md-4 hidden-xs">
     <ul class="multicolumn-dropdown">
-     <li><a href="/view/search?search=boots+drpimg&amp;SHOP+BY=hers"><img class="js-responsive-img" data-media="{&quot;500&quot;:&quot;https://www.office.co.uk/assets//Office_responsive/Drop_down/wk19/wk19_HERS.jpg&quot;}" alt=""></a>
+     <li><a href="/womens?drpimg&amp;BRAND=vagabond"><img class="js-responsive-img" data-media="{&quot;500&quot;:&quot;https://www.office.co.uk/assets//Office_responsive/Drop_down/wk13/wk13_HERS.jpg&quot;}" alt=""></a>
 
-                                        <h5>Western Detailing</h5>
-                                        <p>Western boots with embroidered detailing are one of our favourite winter trends. Have you got yours yet?</p>
+                                        <h5>The Marja</h5>
+                                        <p>The winter wardrobe classic from Vagabond.</p>
                                         </li>
     </ul>
    </div>
@@ -304,12 +338,26 @@ A{text-decoration:none; color:inherit;>}
    <div class="col-sm-3 col-md-2 no-border">
     <ul class="multicolumn-dropdown">
      <li><h5>Category</h5></li>
-     <li><a href="/mens?SHOP+BY=new+in">New In</a> </li>
-     <li><a href="/view/search?search=officexmas+drp1&amp;SHOP+BY=his">Christmas</a> </li>
-     <li><a href="/view/search?search=menswinterstaples+drp1">Winter Staples</a> </li>
+     <li><a href="/mens?SHOP+BY=new+in">New In</a></li>
+     <li><a href="/mens/boots?sort=releaseDate">New Season Boots</a></li>
+     <li><a href="/view/category/office_catalog/1?SHOE+TYPE=Smart">Occasion</a></li>
      <li>&nbsp;</li>
      <li>&nbsp;</li>
-     <li><a href="/view/search?search=boots&amp;SHOP+BY=His"><strong>Mens Boots</strong></a></li>
+     <li><a href="/view/search?search=his"><strong>Mens Shoes</strong></a></li>
+     <li><a href="/mens/boat-shoes">Boat Shoes</a></li>
+     <li><a href="/mens/brogues">Brogues</a></li>
+     <li><a href="/mens/casual-shoes">Casual</a></li>
+     <li><a href="/mens/espadrilles">Espadrilles</a></li>
+     <li><a href="/mens/loafers">Loafers</a></li>
+     <li><a href="/mens/sandals">Sandals</a></li>
+     <li><a href="/mens/smart-shoes">Smart Shoes</a></li>
+     <li><a href="/mens/trainers">Trainers</a></li>
+     </ul>
+   </div> 
+   <div class="col-sm-3 col-md-2">
+    <ul class="multicolumn-dropdown">
+     <li><h5>&nbsp;</h5></li>
+     <li><a href="/mens/boots"><strong>Mens Boots</strong></a></li>
      <li><a href="/chelseaboots/mens">Chelsea Boots</a> </li>
      <li><a href="/view/search?search=chukka+boots+DRP1&amp;SHOP+BY=His">Chukka Boots</a></li>
      <li><a href="/view/search?search=desert+boots+DRP1&amp;SHOP+BY=His">Desert Boots</a></li>
@@ -317,22 +365,8 @@ A{text-decoration:none; color:inherit;>}
      <li>&nbsp;</li>
      <li>&nbsp;</li>
      <li>&nbsp;</li>
-                                        <li><a href="/accessories">Bags &amp; Accessories</a></li>
-     <li><a href="/accessories?pageSize=30&amp;ACCESSORY%20TYPE=Shoe+Care+And+Laces">Shoe Care &amp; 
-
-Laces</a></li>
-    </ul>
-   </div>
-   <div class="col-sm-3 col-md-2">
-    <ul class="multicolumn-dropdown">
-     <li><h5>&nbsp;</h5></li>
-     <li><a href="/view/search?search=his"><strong>Mens Shoes</strong></a></li>
-     <li><a href="/view/search?search=brogue&amp;SHOP+BY=His">Brogues</a></li>
-     <li><a href="/view/search?search=casual+drp1&amp;SHOP+BY=His">Casual Shoes</a></li>
-     <li><a href="/view/search?search=loafers+drp1&amp;SHOP+BY=His">Loafers</a></li>
-     <li><a href="/view/search?search=mens+DRP1&amp;SHOE+TYPE=Slippers">Slippers</a></li>
-     <li><a href="/view/category/office_catalog/1?SHOE+TYPE=Smart">Smart Shoes</a></li>
-     <li><a href="/view/category/office_catalog/1?SHOE+TYPE=His+trainers">Trainers</a></li>
+     <li><a href="/accessories">Bags &amp; Accessories</a></li>
+     <li><a href="/accessories/shoe-care-and-laces">Shoe Care &amp; Laces</a></li>
     </ul>
    </div>
    <div class="col-sm-3 col-md-2">
@@ -341,7 +375,7 @@ Laces</a></li>
      <li><a href="/mens?BRAND=Office"><strong>OFFICE</strong></a></li>
      <li><a href="/mens?BRAND=adidas">adidas</a></li>
      <li><a href="/mens?BRAND=Ask+the+Missus">Ask The Missus</a></li>
-     <li><a href="/brand/converse">Converse</a></li>
+     <li><a href="/mens?BRAND=converse">Converse</a></li>
      <li><a href="/mens?BRAND=Dr.+Martens">Dr. Martens</a></li>
      <li><a href="/mens?BRAND=New+Balance">New Balance</a></li>
      <li><a href="/mens?BRAND=Nike">Nike</a></li>
@@ -350,7 +384,7 @@ Laces</a></li>
      <li><a href="/mens?BRAND=Ted+Baker">Ted Baker</a></li>
      <li><a href="/mens?BRAND=Timberland">Timberland</a></li>
      <li><a href="/mens?BRAND=Toms">Toms</a></li>
-     <li><a href="/mens?BRAND=UGG">UGG</a></li>
+	 <li><a href="/mens?BRAND=ugg">UGG</a></li>
      <li><a href="/mens?BRAND=Vans">Vans</a></li>
      <li>&nbsp;</li>
                                         <li><a href="/brand"><strong>View All Brands A-
@@ -362,16 +396,15 @@ Z</strong></a></li>
     <ul class="multicolumn-dropdown">
      <li><h5>Shoe Diary</h5></li>
      <li><a href="/blog/">Read The Blog</a></li>
-     <li><a href="/blog/brands/timberlands-latest-slim-6-inch-boots/">Timberland Styling</a></li>
-     <li><a href="/blog/trends/shoe-master-formal-wear/">Formal Wear</a></li>
-     <li><a href="/blog/trends/boots-change-season/">New Season Boots</a></li>
+     <li><a href="/vans-icons">The Vans Edit</a></li>
+     <li><a href="/mens/smart-shoes">Work Wear</a></li>
     </ul>
    </div>
    <div class="col-sm-2 col-md-4 hidden-xs">
     <ul class="multicolumn-dropdown">
-     <li><a href="/view/search?search=boots+drpimg&amp;SHOP+BY=his"><img class="js-responsive-img" data-media="{&quot;500&quot;:&quot;https://www.office.co.uk/assets//Office_responsive/Drop_down/wk19/wk19_HIS.jpg&quot;}" alt=""></a>
-                                        <h5>The Etta Chelsea</h5>
-                                        <p>You cannot beat the classics, the Etta Chelsea boots are smart, comfortable and your winter staple.</p>
+     <li><a href="/mens/boots?drpimg"><img class="js-responsive-img" data-media="{&quot;500&quot;:&quot;https://www.office.co.uk/assets//Office_responsive/Drop_down/wk13/wk13_HIS.jpg&quot;}" alt=""></a>
+                                        <h5>The Inferno</h5>
+                                        <p>The classic desert silhouette to keep you winter wardrobe looking on trend.</p>
                                         </li>
     </ul>
    </div>
@@ -387,7 +420,7 @@ Z</strong></a></li>
     <ul class="multicolumn-dropdown">
      <li><h5>Category</h5></li>
      <li><a href="/kids"><strong>All Shoes</strong></a></li>
-     <li><a href="/trainers?SHOP+BY=Kids">Trainers</a></li>
+     <li><a href="/kids/trainers">Trainers</a></li>
      <li><a href="/view/search?search=cribshoesk+DRP1">Crib Shoes (sizes 1 - 2.5)</a></li>
      <li><a href="/view/search?search=infantstylesk+DRP1">Infant (sizes 3 - 9.5)</a></li>
      <li><a href="/view/search?search=youthshoesk+drp1">Youth (sizes 10 - 2)</a></li>
@@ -398,22 +431,20 @@ Z</strong></a></li>
 
 </a></li>
      <li><a href="/kids?SHOP+BY=new+in">New In</a></li>
-     <li><a href="/view/search?search=officexmas+drp1&amp;SHOP+BY=Kids">Christmas</a></li>
+	    <li><a href="/kids/school-shoes">School Shoes</a></li>
     </ul>
    </div>
    <div class="col-sm-3 col-md-3">
     <ul class="multicolumn-dropdown">
      <li><h5>Brands</h5></li>
     <li><a href="/womens?SHOP+BY=Office+Girl">OFFICE Girl</a></li>
-     <li><a href="/kids?BRAND=adidas">adidas</a></li>
+     <li><a href="/kids?BRAND=adidas">adidas</a></li>    
      <li><a href="/kids?BRAND=Converse">Converse</a></li>
      <li><a href="/kids?BRAND=Dr.+Martens">Dr. Martens</a></li>
-     <li><a href="/kids?BRAND=Hunter">Hunter</a></li>
+     <li><a href="/kids?BRAND=New+Balance">New Balance</a></li>
      <li><a href="/kids?BRAND=Nike">Nike</a></li>
-     <li><a href="/kids?BRAND=Puma">Puma</a></li>
-     <li><a href="/kids?BRAND=Reebok">Reebok</a></li>
-     <li><a href="/kids?BRAND=Timberland">Timberland</a></li>
-     <li><a href="/kids?BRAND=UGG">UGG</a></li>
+     <li><a href="/kids?&amp;BRAND=Timberland">Timberland</a></li>
+      <li><a href="/kids?&amp;BRAND=UGG">UGG</a></li>
      <li><a href="/kids?BRAND=vans">Vans</a></li>
      <li>&nbsp;</li>
      <li><a href="/brand"><strong>View All Brands A-Z</strong></a></li>
@@ -421,9 +452,9 @@ Z</strong></a></li>
    </div>
    <div class="col-sm-5 col-md-5 hidden-xs">
     <ul class="multicolumn-dropdown">
-     <li><a href="/view/search?search=kids+drpimg"><img class="js-responsive-img" data-media="{&quot;500&quot;:&quot;https://www.office.co.uk/assets//Office_responsive/Drop_down/wk19/wk19_KIDS.jpg&quot;}" alt=""></a>
-                                        <h5>adi Gazelle in pink</h5>
-                                        <p>Too cute not to shop! Indulge in little pink Gazelles.</p>
+     <li><a href="/kids/trainers?drpimg"><img class="js-responsive-img" data-media="{&quot;500&quot;:&quot;https://www.office.co.uk/assets//Office_responsive/Drop_down/wk13/wk13_KIDS.jpg&quot;}" alt=""></a>
+                                        <h5>Little New Balance</h5>
+                                        <p>All the attitude and style in these latest New Balance Kids shoes.</p>
                                         </li>
     </ul>
    </div>
@@ -440,8 +471,7 @@ Z</strong></a></li>
      <li><h5>Brands</h5></li>
      <li><a href="/brand/adidas">adidas</a></li>
      <li><a href="/brand/converse">Converse</a></li>
-     <li><a href="/brand/fred_perry">Fred Perry</a></li>
-     <li><a href="/brand/lacoste">Lacoste</a></li>
+     <li><a href="/brand/Fila">Fila</a></li>
      <li><a href="/brand/new_balance">New Balance</a></li>
      <li><a href="/brand/nike">Nike</a></li>
      <li><a href="/womens?&amp;SHOE+TYPE=Fashion+Trainers&amp;BRAND=Office">OFFICE</a></li>
@@ -458,40 +488,41 @@ Z</strong></a></li>
     <ul class="multicolumn-dropdown">
      <li><h5>Category</h5></li>
      <li><a href="/trainers"><strong>Shop All Trainers</strong></a></li>
-     <li><a href="/trainers?SHOE+TYPE=Hers+trainers">Hers</a></li>
-     <li><a href="/trainers?SHOE+TYPE=His+trainers">His</a></li>
-     <li><a href="/trainers?pageSize=30&amp;SHOP%20BY=Kids">Kids</a></li>
-     <li><a href="/trainers?SHOP+BY=new+in">New In</a></li>
-     <li><a href="/view/search?search=officexmas+drp1&amp;SHOE+TYPE=Hers+trainers|His+trainers">Christmas</a></li>
-     <li><a href="/trainers?SHOP+BY=Exclusives">Exclusives</a></li>
-     <li><a href="/view/search?search=pastelsports+drp1">Pastel Trainers</a></li>
-     <li><a href="/view/search?search=White+Trainers+drp1&amp;COLOUR=White">White Trainers</a></li>
-     <li><a href="/view/search?search=Black+Trainers+drp1&amp;COLOUR=Black">Black Trainers</a></li>
+     <li><a href="/womens/trainers">Hers</a></li>
+     <li><a href="/mens/trainers">His</a></li>
+     <li><a href="/kids/trainers ">Kids</a></li>
+     <li><a href="https://www.office.co.uk/trainers?SHOP+BY=new+in">New In</a></li>
+     <li><a href="https://www.office.co.uk/trainers?SHOP+BY=exclusives">Exclusives</a></li>
+     <li><a href="https://www.office.co.uk/Chunky-Trainers">Chunky Trainers</a></li>
+     <li><a href="https://www.office.co.uk/trainers?COLOUR=white">White Trainers</a></li>
+     <li><a href="https://www.office.co.uk/trainers?COLOUR=black">Black Trainers</a></li>
      <li><a href="https://www.offspring.co.uk/">OFFSPRING</a></li>
     </ul>
    </div>
    <div class="col-sm-3 col-md-3">
     <ul class="multicolumn-dropdown">
      <li><h5>Collections</h5></li>
-     <li><a href="/trainers/adidas/superstar">adidas Superstar</a></li>
-     <li><a href="/trainers/adidas/stan-smith">adidas Stan Smith</a></li>
-     <li><a href="/view/search?search=gazelle+drp1">adidas Gazelle</a></li>
+     <li><a href="https://www.office.co.uk/trainers/adidas/superstar">adidas Superstar</a></li>
+     <li><a href="https://www.office.co.uk/trainers/adidas/stan-smith">adidas Stan Smith</a></li>
+     <li><a href="https://www.office.co.uk/trainers/adidas/gazelle">adidas Gazelle</a></li>
+     <li><a href="https://www.office.co.uk/view/search?search=converse+all+star">Converse All Star</a></li>
+     <li><a href="https://www.office.co.uk/view/search?search=converse+all+star+70s">Converse All Star 70's</a></li>
      <li><a href="/brand/converse/exclusives">Converse Exclusives</a></li>
-     <li><a href="/view/search?search=converse+70%27s+DRP1">Converse All Star 70's</a></li>
-     <li><a href="/view/search?search=huarache+DRP1">Nike Huarache</a></li>
-     <li><a href="/view/search?search=nike+air+max">Nike Air Max</a></li>
-     <li><a href="/view/search?search=cortez+DRP1">Nike Cortez</a></li>
-     <li><a href="/view/search?search=Nike+Roshe+Run+DRP1">Nike Roshe Run</a></li>
-     <li><a href="/view/search?search=Vans+Authentic+DRP1">Vans Authentic</a></li>
-     <li><a href="/view/search?search=old+skool+drp1">Vans Old Skool</a></li>
+     <li><a href="https://www.office.co.uk/view/search?search=nike+air+force+1">Nike Air Force</a></li>
+     <li><a href="https://www.office.co.uk/view/search?search=nike+air+max">Nike Air Max</a></li>
+     <li><a href="/view/search?search=air+max+95+DRP1">Nike Air Max 95</a></li>
+     <li><a href="/view/search?search=air+max+97+DRP1">Nike Air Max 97</a></li>
+     <li><a href="https://www.office.co.uk/view/search?search=vans+authentic">Vans Authentic</a></li>
+     <li><a href="https://www.office.co.uk/view/search?search=vans+old+skool">Vans Old Skool</a></li>
+     <li><a href="/view/search?search=vans+slip+on+DRP1">Vans Slip On</a></li>
     </ul>
    </div>
 
    <div class="col-sm-3 hidden-xs col-md-5 hidden-xs">
     <ul class="multicolumn-dropdown">
-     <li><a href="/view/search?search=vans+drpimg"><img class="js-responsive-img" data-media="{&quot;500&quot;:&quot; https://www.office.co.uk/assets//Office_responsive/Drop_down/wk19/wk19_TRAINERS.jpg&quot;}" alt=""></a>
-                                        <h5>Vans Old Skool</h5>
-                                        <p>Hurry! Before they sell out! Shop the latest Old Skool Vans.</p>
+     <li><a href="/brand/vans?drpimg"><img class="js-responsive-img" data-media="{&quot;500&quot;:&quot;https://www.office.co.uk/assets//Office_responsive/Drop_down/wk13/wk13_TRAINERS.jpg&quot;}" alt=""></a>
+                                        <h5>The Sk8-HI</h5>
+                                        <p>The Vans essential for your day to day wardrobe.</p>
                                         </li>
     </ul>
    </div>
@@ -509,37 +540,41 @@ Z</strong></a></li>
      <li><a href="/brand/ask_the_missus">Ask The Missus</a></li>
      <li><a href="/brand/birkenstock">Birkenstock</a></li>
      <li><a href="/brand/blowfish">Blowfish</a></li>
+	 <li><a href="/brand/Buffalo">Buffalo</a> </li>	
      <li><a href="/brand/clarks_originals">Clarks Originals</a></li>
      <li><a href="/brand/converse">Converse</a></li>
-     <li><a href="/brand/dr_martens">Dr. Martens</a> </li>
+     <li><a href="/brand/dr_martens">Dr. Martens</a> </li> 
     </ul>
    </div>
    <div class="col-sm-3 col-md-3">
     <ul class="multicolumn-dropdown">
+     <li><a href="/brand/Fila">Fila</a> </li>	 
      <li><a href="/brand/flossy">Flossy</a> </li>
      <li><a href="/brand/fred_perry">Fred Perry</a> </li>
+	 <li><a href="/brand/gaimo_for_office">Gaimo for Office</a> </li>	
      <li><a href="/brand/havaianas">Havaianas</a></li>
      <li><a href="/brand/Hudson_London">Hudson London</a></li>
      <li><a href="/brand/hunter">Hunter</a></li>
      <li><a href="/brand/kickers">Kickers</a></li>
-     <li><a href="/brand/lacoste">Lacoste</a></li>  
+	 <li><a href="/brand/lacoste">Lacoste</a></li>  
     </ul>
    </div>
    <div class="col-sm-3 col-md-3">
-    <ul class="multicolumn-dropdown"> 
+    <ul class="multicolumn-dropdown">  
      <li><a href="/brand/new_balance">New Balance</a></li>   
      <li><a href="/brand/nike">Nike</a></li>
+	 <li><a href="/brand/No_Name">No Name</a></li>  
      <li><a href="/brand/office"><strong>OFFICE</strong></a></li>
      <li><a href="/brand/Oki_Kutsu">Oki Kutsu</a></li>
      <li><a href="/brand/poste">Poste</a></li>
      <li><a href="/brand/puma">Puma</a></li>
      <li><a href="/brand/reebok">Reebok</a></li>
-     <li><a href="/brand/salt_water">Salt Water</a></li>
+     <li><a href="/brand/salt_water">Salt Water</a></li> 	 
     </ul>
    </div>
    <div class="col-sm-3 col-md-3">
     <ul class="multicolumn-dropdown">
-     <li><a href="/view/brand/Solillas">Solillas</a></li>     
+	 <li><a href="/view/brand/Solillas">Solillas</a></li> 
      <li><a href="/brand/superga">Superga</a></li>
      <li><a href="/brand/ted_baker">Ted Baker</a></li>
      <li><a href="/brand/timberland">Timberland</a></li>
@@ -548,6 +583,7 @@ Z</strong></a></li>
      <li><a href="/brand/vagabond">Vagabond</a></li>
      <li><a href="/brand/vans">Vans</a></li>
      <li>&nbsp;</li>
+	 <li>&nbsp;</li>
      <li><a href="/brand"><strong>View All Brands A-Z</strong></a></li>
     </ul>
    </div>
@@ -570,9 +606,9 @@ Z</strong></a></li>
    </div>
    <div class="col-sm-8 col-md-9 hidden-xs">
     <ul class="multicolumn-dropdown">
-     <li><a href="/view/search?search=dr+martens+drpimg&amp;SHOP+BY=hers"><img class="js-responsive-img" data-media="{&quot;500&quot;:&quot;https://www.office.co.uk/assets//Office_responsive/Drop_down/wk19/wk19_NEWIN.jpg&quot;}" alt=""></a>
-                                        <h5>Dr. Martens</h5>
-                                        <p>The winter essential that will keep you on trend.</p></li>
+     <li><a href="/ankleboots?drpimg"><img class="js-responsive-img" data-media="{&quot;500&quot;:&quot;https://www.office.co.uk/assets//Office_responsive/Drop_down/wk13/wk13_NEWIN.jpg&quot;}" alt=""></a>
+                                        <h5>The Chunky Boot</h5>
+                                        <p>It was all the hype on social last week and now the Alphabet is finally here! Get shopping!</p></li>
     </ul>
    </div>
   </div>
@@ -603,17 +639,17 @@ red;">Sale</span></a>
     <ul class="multicolumn-dropdown">
      <li><h5>Sale Categories</h5></li>
      <li><a href="/view/search?search=sale"><strong>Shop All Sale</strong></a></li>
-     <li><a href="/view/search?search=sale&amp;SHOP+BY=hers+sale">Hers</a></li>
-     <li><a href="/view/search?search=sale&amp;SHOP+BY=his+sale">His</a></li>
+     <li><a href="/view/search?search=sale&amp;SHOP+BY=hers">Hers</a></li>
+     <li><a href="/view/search?search=sale&amp;SHOP+BY=his">His</a></li>
      <li><a href="/kids?SHOP+BY=kids+sale">Kids</a></li>
-     <li><a href="/view/search?search=sale&amp;SHOE+TYPE=Unisex+Sports">All Trainers</a></li>
+     <li><a href="/view/search?search=trainers+sale">All Trainers</a></li>
      <li><a href="/sale?pageSize=30&amp;SHOE+TYPE=Hers+trainers">Hers Trainers</a></li>
      <li><a href="/sale?pageSize=30&amp;SHOE+TYPE=His+trainers">His Trainers</a></li>
   
      <li>&nbsp;</li>
-     <li><a href="/view/search?search=sale&amp;SHOP+BY=hers+sale&amp;SHOE+TYPE=High+Heels|Mid+Heels">Up to 60% off Heels</a></li>
+     <li><a href="/view/search?search=sale&amp;SHOP+BY=hers&amp;SHOE+TYPE=High+Heels|Mid+Heels">Up to 70% off Heels</a></li>
      <li><a href="/view/search?search=sale&amp;BRAND=Nike">Up to 60% off Nike</a></li>
-     <li><a href="/view/search?search=sale&amp;BRAND=UGG">Up to 50% off UGG</a></li>
+     <li><a href="/view/search?pageSize=30&amp;search=boots&amp;SHOP+BY=hers+sale">Up to 70% off Boots</a></li>
      <li>&nbsp;</li>
 
      <li><a target="_blank" style="color:#D20003" href="https://offcutsshoes.co.uk/">OFFCUTS - Up 
@@ -623,9 +659,9 @@ to 70% Off Ex-Display</a></li>
    </div>
    <div class="col-sm-6 col-md-6 hidden-xs">
     <ul class="multicolumn-dropdown">
-     <li><a href="/view/search?search=boots+drpimg&amp;SHOP+BY=hers+sale"><img class="js-responsive-img" data-media="{&quot;500&quot;:&quot; https://www.office.co.uk/assets//Office_responsive/Drop_down/wk18/wk18_SALE.jpg&quot;}" alt=""></a>
-                                        <h5>Up to 60% Off Boots</h5>
-                                        <p>Looking for a wardrobe update but not wanting to break the bank? Shop our latest boots sale.</p>
+     <li><a href="/view/search?search=sale+drpimg"><img class="js-responsive-img" data-media="{&quot;500&quot;:&quot;https://www.office.co.uk/assets//Office_responsive/Drop_down/wk9/wk9_SALE.jpg&quot;}" alt=""></a>
+                                        <h5>Up to 70% Off Sale!</h5>
+                                        <p>Looking for a wardrobe update but not wanting to break the bank? Shop our latest sale styles.</p>
                                         </li>
     </ul>
    </div>
@@ -646,6 +682,11 @@ Collect</a></li>
     <li class="slidemenu-hamburger"><a href="/view/content/contactus-info-page">Help</a></li>
     <li class="slidemenu-hamburger"><a href="/view/content/deliveryinfo-page">Delivery</a></li>
     <li class="slidemenu-hamburger"><a href="/view/content/returnsinfo-page">Returns</a></li>
+     <li class="dropdown currency-nav">
+        <a class="slidemenu-hamburger dropdown-toggle" role="button" data-toggle="dropdown" aria-expanded="false">Currency <span class="selected-currency"></span></a>
+        <ul class="dropdown-menu multi-column columns-4 currency-list" role="menu">
+        </ul>
+    </li>
     <li class="slidemenu-hamburger"><a href="/view/content/privacy-info-page">Privacy 
 
 Policy</a></li>
@@ -676,9 +717,9 @@ function removeItemFromBasket(entryNumbers) {
 	        data: "cartEntry=" + entryNumbers + "&componentUid=headerbasketComponent",
 	        success: function(data) {
 	        	$(".myBasket_removing_error").hide();
-	        	
+
 	        	//	TODO	notify GTM of removing order entry
-	        	
+
 	        	QLJS.setUpMiniBasketAjax(true);
 	        },
 	        error: function(data) {
@@ -693,13 +734,13 @@ function removeItemFromBasket(entryNumbers) {
 }
 
 </script>
-<div class="myBasket empty-minicart" id="mb"> 
+<div class="myBasket empty-minicart" id="mb">
      <ul class="quick-links">
 	    <li><a rel="external" href="/view/content/basket" class="cart navbar-menu-item"><span class="icon-basket"></span></a></li>
 	    <li class="quantity"></li>
 	    <!-- <li class="title"> _Item(s)</li> -->
      </ul>
-    <div class="myBasket_popup"> 
+    <div class="myBasket_popup">
 	    <div class="myBasket_contents" style="display: none; position: absolute;">
 	    	<div class="myBasket_inner_contents"></div>
 	    </div>
@@ -716,14 +757,18 @@ function removeItemFromBasket(entryNumbers) {
                         <div class="myBasket_contents_item clearfix">
 							<div class="l-image-wrapper">
                             <a href="{{= product.productPageUrl}}">
+ {{if product.picture['thumbnail']}}
                                 {{if product.picture['thumbnail'].url.length}}
 									<img src="{{= product.picture["thumbnail"].url}}" alt="{{= product.picture["thumbnail"].alttext}}"/>
                                 {{/if}}
+{{/if}}
                             </a>
 							</div>
 							<div class="l-content-wrapper">
                             <div class="myBasket_contents_info">
-								<div class="name">{{= product.brand.name}}</div>
+                            {{if product.brand}}
+								              <div class="name">{{= product.brand.name}}</div>
+                            {{/if}}
 								{{if product.name.length > 28 }}
 								    <div class="name"> <a href="{{= product.productPageUrl}}"> {{= product.name.substring(0, 28)}}... </a> </div>
                                 {{else}}
@@ -738,20 +783,20 @@ function removeItemFromBasket(entryNumbers) {
                                 {{/if}}
                             <div class="myBasket_contents_pricevalue">
                                 <div class="qty">Qty: {{= quantity}}</div>
-                                <div class="price">Total: <strong>{{html htmlFormattedTotalPrice}}</strong></div>
+                                <div>Total: <strong class="js-price-format js-price-format-mini-basket" data-value="{{= totalPriceCurr}}">{{html htmlFormattedTotalPrice}}</strong></div>
                            	</div>
                             </div>
 
 							<a class="removeItemLink" href="#" onclick="removeItemFromBasket('[{{= entryNumbers}}]');">
 								Remove
-							</a>							
+							</a>
 
-							</div>      
+							</div>
                         </div>
                     </li>
                 {{/each}}
             </ul>
-				<div class="mb-total">Total: <strong>{{= htmlFormattedTotal}}</strong></div>
+				<div class="mb-total" >Total: <strong class="js-price-format js-price-format-mini-basket" data-value="{{= totalCurr}}">{{= htmlFormattedTotal}}</strong></div>
 
 				{{if appliedOrderPromotions }}
 					{{each appliedOrderPromotions}}
@@ -767,12 +812,12 @@ function removeItemFromBasket(entryNumbers) {
     		<div class="myBasket_removing_error" style="display:none;" >
 				<p>Removing item from bag failed </p>
 			</div>
-    
+
            <div class="floatPropertiesRight">
                <a href=/view/content/basket class="p_small actionBtn mb_viewbasket btn btn-primary">View Bag</a>
            </div>
-    
-    
+
+
             {{else}}
            <div class="myBasket_contents_empty">
               There are currently no items in your bag
@@ -781,7 +826,35 @@ function removeItemFromBasket(entryNumbers) {
            {{/if}}
 
     </script>
-    
+
+</div>
+
+	    
+		     
+
+
+
+
+
+
+
+
+<div id="wishlistHeader">
+	<ul class="quick-links">
+		<li>
+			<a href="/view/content/wishlist" class="wishlist navbar-menu-item" id="wishlist-url">
+				<span class="icon-heart-filled"></span>
+			</a>
+		</li>
+		<li class="quantity js-wishlistHeaderQuantity hidden"></li>
+	</ul>
+	
+</div>
+
+<div class="myAccountHeader_popup">
+	<div class="myAccountHeader_contents" style="display: none; position: absolute;">
+		<div class="myAccountHeader_inner_contents"></div>
+	</div>
 </div>
 
 	    
@@ -828,22 +901,6 @@ function removeItemFromBasket(entryNumbers) {
 	</div>
 </div>
 	    
-		     
-
-
-
-<div class="header-info" id="info"> 
-     <ul class="quick-links">
-	    <li><a rel="external" href="/view/content/contactus-info-page" class="more-info navbar-menu-item"><span class="icon-question"></span></a></li>
-     </ul>
-</div>
-
-<div class="header-info_popup"> 
-	<div class="header-info_contents" style="display: none; position: absolute;">
-		<div class="header-info_inner_contents">How can we help?</div>
-	</div>
-</div>
-	    
 		     <div id="storeLocatorHeader">
 	<ul class="quick-links">
 		<li>
@@ -887,7 +944,7 @@ function removeItemFromBasket(entryNumbers) {
 					</div>
 					<button class="button-white-circle pull-right">
 						<span class="glyphicon glyphicon-remove"></span>
-					</button> 
+					</button>
 				</div>-->
 
 				<form id="searchform" name="searchform" method="get" action="/view/search">
@@ -937,7 +994,7 @@ function removeItemFromBasket(entryNumbers) {
 	          appendTo: "#autocomplete",
 	          select: function( event, ui ) {
 	        	  $(this).val(ui.item.value);
-	        	  QLJS.submitToLower('#searchform');
+                  $('#searchform').submit();
 	          }
 	        });
 	        $.ui.autocomplete.prototype._resizeMenu = function () {
@@ -963,21 +1020,24 @@ function removeItemFromBasket(entryNumbers) {
 		 
 			
 
-<div class="headerPromos headerPromosBottom row" style="background-color: #969ead !important; font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, sans-serif;">
+<div class="headerPromos headerPromosBottom row" style="background-color: #004273 !important; font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, sans-serif;">
 <div class="container"><div class="row"><ul>
-<li class="col-sm-4 text-center" style="background-color: #969ead !important;"><a style="color: #ffffff !important;" href="/view/search?search=boots+topstrip&amp;SHOP+BY=hers+sale">UP TO 60% OFF WOMENS BOOTS</a></li>
-<li class="col-sm-4 text-center" style="background-color: #969ead !important;"><a style="color: #ffffff !important;" href="/view/search?search=boots+topstrip&amp;SHOP+BY=his+sale">UP TO 60% OFF MENS BOOTS</a></li>
-<li class="col-sm-4 text-center" style="background-color: #969ead !important;"><a style="color: #ffffff !important;" href="/view/search?search=trainers+sale+topstrip">UP TO 60% OFF TRAINERS</a></li>
+<li class="col-sm-4 text-center" style="background-color: #004273 !important;"><a style="color: #ffffff !important;" href="/studentdiscount?topstrip">20% OFF FOR STUDENTS</a></li>
+<li class="col-sm-4 text-center" style="background-color: #004273 !important;"><a style="color: #ffffff !important;" href="/view/search?search=septemberstudent?topstrip">SHOP NOW</a></li>
+<li class="col-sm-4 text-center" style="background-color: #004273 !important;"><a style="color: #ffffff !important;" href="/view/content/deliveryinfo-page">FREE UK DELIVERY*</a></li>
 </ul>
 </div></div></div>
-
 		 
         
 		<div class="container">
 	   	
 			
 
-<div class="customerServiceSidebar col-xs-12 col-sm-3 col-md-2 col-lg-2">
+<style>
+#page-content #left-nav .categoryTree ul.categoryTree_facet li { padding: 0; }
+</style>
+
+<div id="left-nav" class="customerServiceSidebar col-xs-12 col-sm-3 col-md-2 col-lg-2">
     <div class="row categoryTree">
         <ul>
             <li class="categoryTree_facetTree">
@@ -992,6 +1052,7 @@ function removeItemFromBasket(entryNumbers) {
                     <li><a class="darkergrey" href="giftcardinfo-page"><span class="facetNameVal">Gift Card</span></a></li>
                     <li><a class="darkergrey" href="size-guide"><span class="facetNameVal">Size guide</span></a></li>
                     <li><a class="darkergrey" href="terms-info-page"><span class="facetNameVal">Terms &amp; conditions</span></a></li>
+                    <li><a class="darkergrey" href="/assets/Office_responsive/Documents/STYLE_YOUR_AIR_COMPETITION_TERMS01.pdf" target="_blank"><span class="facetNameVal">Office Style Your Air Comp</span></a></li>
                     <li><a class="darkergrey" href="trackMyOrder"><span class="facetNameVal">Track My Order</span></a></li>
                 </ul>
             </li>
@@ -1000,10 +1061,13 @@ function removeItemFromBasket(entryNumbers) {
                 <ul class="categoryTree_facet expanded">
                     <li><a class="darkergrey" href="about-us-page"><span class="facetNameVal">About&nbsp;OFFICE</span></a></li>
                     <li><a class="darkergrey" href="ModernSlaveryAct"><span class="facetNameVal">Modern Slavery Act Statement</span></a></li>
+                    <li><a class="darkergrey" href="/view/content/gender-pay-gap">Gender Pay Gap Report</a></li>
+                    <li><a class="darkergrey" href="codeofethics"><span class="facetNameVal">Code of Ethics</span></a></li>
                     <li><a class="darkergrey" href="store-enquiries"><span class="facetNameVal">Store Enquiries</span></a></li>
                     <li><a class="darkergrey" href="careersAboutus"><span class="facetNameVal">Careers</span></a></li>
-                    <li><a class="darkergrey" href="privacy-info-page"><span class="facetNameVal">Privacy &amp; cookie policy</span></a>
-                    </li>
+                    <li><a class="darkergrey" href="privacy-info-page"><span class="facetNameVal">Privacy &amp; cookie policy</span></a></li>
+                    <li><a class="darkergrey" href="wholesale-enquiries"><span class="facetNameVal">Wholesale Enquires</span></a></li>
+                    <li><a class="darkergrey" href="tax-strategy"><span class="facetNameVal">Tax Strategy</span></a></li>
                 </ul>
             </li>
         </ul>
@@ -1013,416 +1077,706 @@ function removeItemFromBasket(entryNumbers) {
 			
 
 <div class="customerService col-xs-12 col-sm-9 col-md-10 col-lg-10">
-    <h1 class="pageTitle">PRIVACY AND COOKIE POLICY</h1>
+    <h1 class="pageTitle">OFFICE PRIVACY AND COOKIES POLICY</h1>
     <div class="row">
         <div class="col-xs-12">
-            <div class="contentBlock">
+           <div class="contentBlock">
                 <div class="blockContent">
-                    <p>As a UK based website we endeavour to ensure that all personal information or “data” provided is handled in accordance with the 1998 UK Data Protection Act and use technology that protects your information (including credit card details) from unauthorised use or access. However, no information transferred over the Internet or wireless network can be guaranteed to be completely secure.</p>
-                    <p>We always try to protect your personal privacy and this Privacy Policy is here to help you understand what we may do with any information you share with us. This Privacy Policy only relates to our website office.co.uk and does not extend to any websites that are linked from our website.</p>
-                    <p>You can access our website homepage and browse our site without disclosing your personal data, but if you do give us your personal details, you are accepting these terms. If you do not agree with this privacy statement, do not give us your details. This privacy statement is part of our Terms and Conditions. We reserve the right to change this Privacy Policy from time to time and we advise you to read through them each time you use the site.</p>
-                    <p>In this Privacy Policy, we, us and our, refer to OFFICE Limited, registered in England &amp; Wales.</p>
-                    <p>Our registered office is:<br>Office Holdings LTD<br>Classic House,<br>Martha's Buildings,<br>180 Old Street,<br>London EC1V 9BP</p>
-                    <p>Our company registration number is 1764341<br>Our VAT registration number is 340010335</p>
-                </div>
-            </div>
-            <div class="contentBlock">
-                <div class="blockTitle">INFORMATION WE MAY COLLECT FROM YOU</div>
-                <div class="blockContent">
-                    <p>Registration involves you giving us the following personal information:</p>
-                    <ul class="list">
-                        <li>Your title, name and address where your payment card is registered (including option to save different delivery addresses)</li>
-                        <li>Contact phone number and e-mail address</li>
+                    <p><strong>OFFICE ("we", "our" or "OFFICE") is committed to protecting the privacy of third parties (including its customers and all visitors to the websites <a href="http://www.office.co.uk" class="underline">www.office.co.uk</a>, <a href="http://www.offspring.co.uk" class="underline">www.offspring.co.uk</a> and <a href="http://www.offcutsshoes.co.uk" class="underline">www.offcutsshoes.co.uk</a> (the "Websites") and our OFFICE Apps). Please read the following Privacy and Cookies Policy which explains how we use and protect your information.</strong></p>
+
+
+                    <p><strong><i>Key points to note</i></strong></p>
+
+                    <ul id="totop" class="list">
+                        <li><strong>This Privacy and Cookies Policy will apply to your use of the Websites, which are operated by Office Holdings Limited ("OFFICE") of Classic House, Martha's Buildings, 180 Old Street, London, EC1V 9BP.  It will also apply when we provide services to you in person (e.g. when you buy shoes from us at one of our stores).</strong></li>
+                        <li><strong>When you use our Websites or request services from us (such as buying shoes) we may collect Personal Information from you. This Privacy and Cookies Policy explains what Personal Information we collect and how we will only process this information (i) to provide our services to you, (ii) to comply with our legal obligations, (iii) for the purposes of our legitimate business interests (namely to analyse the use of our Websites and products to continually improve our business and your customer experience) or (iv) where we have your consent.</strong></li>
+                        <li><strong>You can ask us to stop using some of your Personal Information at any time and have the right to ask us to delete some of the Personal Information that we hold about you. Just contact us at <a href="mailto:help@office.co.uk" class="underline">help@office.co.uk</a>. You can also use this email address if you have any questions about this Privacy and Cookies Policy.</strong></li>
+                        <li><strong>In addition to this Privacy and Cookies Policy please take the time to read our Terms and Conditions.</strong></li>
                     </ul>
-                    <p>Once you have placed your order, you will then be able to check on your order status, manage your address book and speed up the ordering process. Registration also enables you to update your email preferences.</p>
+
+                    <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+
+                    <p style="font-size:12px;font-weight:bold"><ins>INDEX</ins></p>
+                <div style="text-decoration: underline">
+                    <p><a href="#C1">1. WHAT IS THE PURPOSE OF THIS POLICY?</a></p>
+                    <p><a href="#C2">2. WHO CONTROLS THE COLLECTION OF PERSONAL INFORMATION</a></p>
+                    <p><a href="#C3">3. CHILDREN'S PERSONAL INFORMATION</a></p>
+                    <p><a href="#C4">4. INFORMATION WE MAY COLLECT FROM YOU</a></p>
+                    <p><a href="#C5">5. WHOSE PERSONAL INFORMATION MIGHT WE COLLECT AND WHY?</a></p>
+                    <p><a href="#C6">-5.1 People who register or place an order with us</a></p>
+                    <p><a href="#C7">-5.2 People who apply for a job with OFFICE</a></p>
+                    <p><a href="#C8">-5.3 People who provide services to us and other business contacts</a></p>
+                    <p><a href="#C9">6. TECHNICAL INFORMATION WE MAY COLLECT FROM YOU</a></p>
+                    <p><a href="#C10">7. PERSONAL INFORMATION THAT WE RECEIVE FROM OTHER SOURCES</a></p>
+                    <p><a href="#C11">8. HOW WE WILL USE YOUR DETAILS</a></p>
+                    <p><a href="#C12">9. SHARING YOUR PERSONAL INFORMATION</a></p>
+                    <p><a href="#C13">10. TRANSFERS OF YOUR PERSONAL INFORMATION OUTSIDE THE EEA</a></p>
+                    <p><a href="#C14">11. ABOUT COOKIES AND HOW WE USE THEM</a></p>
+                    <p><a href="#C15">12. SECURITY</a></p>
+                    <p><a href="#C16">13. YOUR CONTROL OVER YOUR PERSONAL INFORMATION</a></p>
+                    <p><a href="#C17">14. HOW LONG WE RETAIN YOUR PERSONAL INFORMATION</a></p>
+                    <p><a href="#C18">15. LINKS TO THIRD PARTIES</a></p>
+                    <p><a href="#C19">16. 3RD PARTY AD SERVING</a></p>
+                    <p><a href="#C20">17. WHAT IS THE DATA PROTECTION LEGISLATION?</a></p>
+                    <p><a href="#C21">18. COMPLAINTS</a></p>
+                    <p><a href="#C22">19. CHANGES TO THIS PRIVACY AND COOKIES POLICY</a></p>
+                    <p><a href="#C23">20. I'VE RECEIVED AN EMAIL THAT LOOK SUSPICIOUS </a></p>
+                    <p><a href="#C24">21. CONTACT US</a></p>
+                  
+                </div>
+
                 </div>
             </div>
-            <div class="contentBlock">
-                <div class="blockTitle">PLACING AN ORDER</div>
-                <div class="blockContent">
-                    <p>When you place an order with OFFICE, we ask for your name, e-mail address, delivery address, contact and credit card details as well as expiry date. We keep a record of this information so that we can recognise you and fulfil any orders you place securely with OFFICE. We retain details of your orders, copies of any e-mail correspondence you send us in order to maintain high standards of customer service.</p>
-                    <p>We may also collect the following information:</p>
+
+            <div id="C1" class="contentBlock">
+                <div class="blockTitle">1. WHAT IS THE PURPOSE OF THIS POLICY?</div>
+                    <div class="blockContent">
+                        <p>We always try to protect your personal privacy and this Privacy and Cookies Policy is here to help you understand what we may do with any information you share with us. This Privacy and Cookies Policy only relates to the processing of your Personal Information by OFFICE or on our behalf. OFFICE only accepts responsibility for our Websites (and our OFFICE App) and does not extend to any websites that are linked from our Websites.</p>
+
+                        <p>We will only use information from which you can be identified, such as your name, contact details and financial information (<strong>"Personal Information"</strong>) which is provided to us, or otherwise obtained by us, in accordance with this Privacy Statement. We will ensure that your Personal Information is handled in accordance with the "Data Protection Legislation" (as defined at the end of this policy).</p>
+
+                        <p>You can access our Websites homepages and browse our Websites without providing your Personal Information to us (save for some limited information we may collect depending on your browser settings), but if you do choose to give us your Personal Information by contacting us through the Websites (or otherwise engaging with us), you acknowledge that we may collect, use and transfer your Personal Information as set out in this Privacy and Cookies Policy. If you do not agree with this Privacy and Cookies Policy, do not give us your details.</p>
+
+                        <p>This Privacy and Cookies Policy is part of our Terms and Conditions. We reserve the right to change this Privacy and Cookies Policy from time to time and you should therefore check this page frequently to ensure that you are happy with any changes.</p>
+
+                </div>
+            </div>
+
+            <div id="C2" class="contentBlock">
+                <div class="blockTitle">2. WHO CONTROLS THE COLLECTION OF PERSONAL INFORMATION</div>
+                    <div class="blockContent">
+                        <p>In this Privacy and Cookies Policy, <strong>"OFFICE", "we", "us" and "our",</strong> refer to OFFICE Holdings Limited, registered in England and Wales with registered office Classic House, Martha's Buildings, 180 Old Street, London, EC1V 9BP. Our company registration number is 1764341.  Our VAT registration number is 340010335.</p>
+
+                        <p>For the purposes of the Data Protection Legislation, we are deemed to be the "data controller" in respect of any Personal Information that you provide to us in connection with the operation of our business or we otherwise obtain about you.</p>              
+                </div>
+            </div>
+
+            <div id="C3" class="contentBlock">
+                <div class="blockTitle">3. CHILDREN'S PERSONAL INFORMATION</div>
+                    <div class="blockContent">
+                        <p>You may only engage or register with us or buy products from us if you are aged 18 or over.</p>
+
+                        <p>Some of the products on our Websites are for children. We are aware that we must take extra precautions when processing the Personal Information of children. If you are under the age of 18, and your parent or guardian has given you permission and supervises your use of our Websites, you are welcome to browse our Websites but if you want to do anything further, including contacting us, registering with us or buying products from us, you must ask a parent or guardian to do so for you.</p>
+
+                        <p><strong>Parents take note!</strong> If you have given your child permission to use our Websites you are responsible for reading this Privacy and Cookies Policy and ensuring that you understand how we will make use of your child’s Personal Information. You will also be responsible for supervising your child’s use of our Websites and services.</p>       
+                </div>
+            </div>
+
+            <div id="C4" class="contentBlock">
+                <div class="blockTitle">4. INFORMATION WE MAY COLLECT FROM YOU</div>
+                    <div class="blockContent">
+                        <p>When you engage with us (e.g. purchase shoes or other products from us, use, register or create an online account on our Websites, subscribe to any of our services, sign up to updates, post content on our Websites, voluntarily provide us with feedback, contact us via social media websites, or otherwise), we may collect the below Personal Information from you.  Please ensure that the Personal Information that you provide to us is accurate and complete and notify us if any changes are made to your Personal Information so that we may update our records.</p>
+
+                        <p>This Personal Information may include:</p>
+
                     <ul class="list">
-                        <li>demographic information such as preferences and interests</li>
-                        <li>other information relevant to customer surveys and/or offers</li>
-                    </ul>
+                        <li>your title, name and surname;</li>
+                        <li>your contact phone number and e-mail address.</li>
+                        <li>your date of birth (so we can send you a birthday treat!)</li>
+                        <li>demographic information such as preferences and interests; and</li>
+                        <li>other information relevant to customer surveys and/or offers.</li>
+                    </ul>                              
                 </div>
             </div>
-            <div class="contentBlock">
-                <div class="blockTitle">HOW WE WILL USE YOUR DETAILS</div>
-                <div class="blockContent">
-                    <p>We are committed to protecting your personal information and we will endeavour only to use or disclose personal information collected from you for the efficient delivery of our services to you and to work towards improving those services.</p>
-                    <p>In order to process your order we will send you a confirmation email or we may need to contact you by telephone or email to verify details before we are able to process and dispatch your order or we may be unable to accept your order. Your card details will only be shared with any third parties as is necessary to process your transaction. We need to contact card issuers for validation checks and authorisation on all card payments. If the issuer of your payment card refuses to authorise payment to us, we will not be liable for any delay or non-delivery. OFFICE will validate the names, addresses and other information supplied during the order process against commercially available records (e.g Electoral Roll data, Credit Reference Services). A third party may also be instructed to complete these checks. By ordering from the office.co.uk website you consent to such checks being made. Any information given may be disclosed to a registered Credit Reference Agency which may keep a record of the information. These measures are taken as extra protection for you, to ensure your online shopping experience with us is as safe and secure as possible.</p>
-                    <p>We also use your information to deliver the goods to you, or we might give your details to our carrier if they deliver on our behalf.</p>
-                    <p>We may also use the information to improve our website and personalise your experience during your visit. If we are sold or merged with another company we may transfer, sell or assign information about your relationship with us to third parties, including information that identifies you and other information concerning your relationship with us.</p>
-                    <p>If you opt in to receive information from OFFICE we may periodically contact you by post or electronic mail about new products, special offers or other information which we think you may find interesting using the delivery or email address which you have provided.</p>
-                    <p>OFFICE may, from time to time, share your personal information with its affiliated company, Offspring. Offspring may contact you by post or by electronic mail services about new products, special offers or other information which we think you may find interesting using the delivery or email address which you have provided.</p>
-                    <p>From time to time, we may also use your information to contact you for market research purposes. We may contact you by email or mail. We may use the information to customise the website according to your interests.</p>
+
+            <div id="C5" class="contentBlock">
+                <div class="blockTitle">5. WHOSE PERSONAL INFORMATION MIGHT WE COLLECT AND WHY?</div>
+                    <div class="blockContent">
+                        <p>In particular, we will collect and process the following information:</p>
+
+                        <p id="C6"><strong>5.1 People who register or place an order with us</strong></p>
+
+                        <p>When you place an order with OFFICE, we ask for your name, e-mail address, delivery address, billing address, mobile phone number and credit card details (as well as expiry date) or other payment details. We keep a record of this information so that we can recognise you and fulfil any orders you place securely with OFFICE. We retain details of your orders and copies of any e-mail, social media or written correspondence you send us in order to maintain high standards of customer service. Once you have placed your order, you will then be able to check on your order status, manage your address book and stored payment methods and speed up the ordering process.</p>
+
+                        <p id="C7"><strong>5.2 People who apply for a job with OFFICE</strong></p>
+
+                        <p>Where you apply for a job with us, we may collect from you and third parties (where relevant) Personal Information such as your CV, any references, your right to work, your name and contact details and any other information that you supply to us as part of your application.  Unless you ask us to keep such information on file for future opportunities or we need to retain such information for compliance with our legal obligations, if you are unsuccessful, we will only retain this Personal Information for as long as is reasonably necessary to process your application.</p>
+
+                        <p id="C8"><strong>5.3 People who provide services to us and other business contacts</strong></p>
+
+                        <p>Where you or your employer (or any other third party you work for) provide services to us, you and/or they may provide us with some of your Personal Information in connection with the provision of the services, such as your name, business contact details and other ID information. We will only process such Personal Information in connection with the provision of the services (such as using your contact details to discuss the services) and in accordance with this Privacy and Cookies Policy. In addition, where necessary, we may also share your Personal Information with our customers or other third parties in order to provide our services (e.g. if you or your business provide a courier service, we may share your business contact details with our customers so that they can contact you about a delivery).</p>                             
                 </div>
             </div>
-            <div class="contentBlock">
-                <div class="blockTitle">UNSUBSCRIBING</div>
-                <div class="blockContent">
-                    <p>If you change your mind and decide you do not wish to receive the OFFICE weekly newsletter. You can unsubscribe by clicking on the 'unsubscribe' link at the bottom of any emails you receive from us, or by emailing us at <a href="mailto:help@office.co.uk" class="underline">help@office.co.uk</a>.</p>
+
+            <div id="C9" class="contentBlock">
+                <div class="blockTitle">6. TECHNICAL INFORMATION WE MAY COLLECT FROM YOU</div>
+                    <div class="blockContent">
+                        <p>We also automatically collect certain limited information about your device, your visits to our Websites and when you contact our staff through the online chat help system which may be considered Personal Information. Technical Information may include:</p>
+
+                        <ol class="list" type="a">
+                            <li><strong>Device data.</strong> We may collect information about the type of device or platform you use (such as a computer or mobile device) to access our Websites and your choice of web browser.</li>
+
+                            <li><strong>Location data.</strong> Your use of our Websites may generate geographical data, such as the location or time zone of a device or IP address, which we may collect.</li>
+
+                            <li><strong>Log data about your visit.</strong> Your use of our Websites automatically generates information about your unique visit which we may collect. This can include uniform resource locators (URLs), data about your internet service provider, the number and timing of clicks to and from the content on our Websites, which events you view, page response times, download errors, length of visits to certain pages, page interaction data (such as scrolling, clicks, and mouse-overs), email engagement rates and activities, and methods used to browse away from the page. Typically we will not be able to identify you from this information.</li>
+
+                            <li><strong>Data about your interactions.</strong> Our websites may provide you with the opportunity to interact with content in certain ways, such as by sharing content on social media. These interactions create data which we may collect, for example, the contents of a post or comment, or whether a link or image was shared using a particular social media network.</li>
+                        </ol>
+
+                        <p>Some of the technical data set out above will be collected by cookies that we use on our Websites. For more information on the ways in which we make use of cookies, please see below at section 11.</p>
+
+                        <p>For more information, please see the relevant section of our Terms and Conditions <a href="https://www.office.co.uk/view/content/terms-info-page" class="underline">www.office.co.uk/view/content/terms-info-page</a></p> 
                 </div>
             </div>
-            <div class="contentBlock">
-                <div class="blockTitle">ABOUT COOKIES AND HOW WE USE THEM</div>
-                <div class="blockContent">
-                    <p>Cookies are small pieces of information in the form of text files that are sent to your browser from our web server and are stored on your computer.</p>
-                    <p>Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.</p>
-                    <p>There are essentially 3 different types of cookies that we use on <a href="http://www.office.co.uk" class="underline">Office.co.uk</a></p>
+
+            <div id="C10" class="contentBlock">
+                <div class="blockTitle">7. PERSONAL INFORMATION THAT WE RECEIVE FROM OTHER SOURCES</div>
+                    <div class="blockContent">
+                        <p>We may receive Personal Information from third parties who collect Personal Information from you and pass it on to us. For example, our staff may give us emergency contact information as part of our emergency scenario planning and details of their dependents and of other people in relation to their employee benefits arrangements.  Where this is the case the third party is responsible for ensuring you are aware of this policy and to ensure you are happy with the ways in which your Personal Information will be used.</p>                       
+                </div>
+            </div>
+
+            <div id="C11" class="contentBlock">
+                <div class="blockTitle">8. HOW WE WILL USE YOUR DETAILS</div>
+                    <div class="blockContent">
+                        <p>We are committed to protecting your Personal Information and we will only use or disclose your Personal Information to (i) perform the contract we have with you, (ii) comply with our legal obligations, (iii) for our legitimate business interests (such as to analyse and improve our Websites, products and services), (iv) personalise your experience when you visit our Websites, (v) where you apply for a job with us, process your application and (vi) for any other purposes for which you have given your explicit consent.</p>
+
+                        <p>In order to process your order we will send you a confirmation email or we may need to contact you by telephone or email to verify your details before we are able to process and dispatch your order or we may be unable to accept your order.</p>
+
+                        <p>Where you have explicitly consented or where we otherwise have a right to do so, we may from time to time contact you by post, electronic mail or mobile phone messaging about new products, special offers or other information which we think you may find interesting using the contact information which you have provided. Registration enables you to update your preferences of the marketing that you wish to receive and how we send it to you. You may opt out of receiving these marketing communications by simply following the instructions outlined in the email or mobile phone message.</p>
+
+                        <p>From time to time, we may also use your information to contact you for market research purposes by email or mail. This will only happen where you have opted-in to receive such communications. We may also use the information to customise the Websites according to your interests.</p>                 
+                </div>
+            </div>
+
+            <div id="C12" class="contentBlock">
+                <div class="blockTitle">9. SHARING YOUR PERSONAL INFORMATION</div>
+                    <div class="blockContent">
+                        <p>We will not share your Personal Information with third parties unless we have your explicit consent, need to share this information to enable us  to fulfil our contract with you, are required by law or where otherwise necessary for our internal business processes.</p>
+
+                        <p>For example, where you purchase products from us, if you pay by card, your card details will be shared with third parties as necessary to process your transaction. We need to contact card issuers for validation checks and authorisation on all card payments. If the issuer of your payment card refuses to authorise payment to us, we will not be liable for any delay or non-delivery. OFFICE will validate the names, addresses and other information supplied during the order process against commercially available records (e.g. Electoral Roll data, Credit Reference Services) and a third party may be instructed to complete these checks. By ordering from our Websites (or via our App) you acknowledge that such checks shall be made. We may also need to provide your Personal Information to PayPal or other payment processors. Any Personal Information you provide may also be disclosed to a registered Credit Reference Agency which may keep a record of the information. These measures are taken as extra protection for you, to ensure your online shopping experience with us is as safe and secure as possible. We also share your Personal Information to third parties for purposes of delivery of the products to you and for the purpose of processing your order.</p>
+
+                        <p>Where you have explicitly opted-in to such communications, OFFICE may, from time to time, share your Personal Information with its affiliated company, Offspring. Offspring may contact you by post, by electronic mail services or mobile phone messaging about new products, special offers or other information which we think you may find interesting using the delivery or email address which you have provided. You may opt-out of receiving any such communications by following the instructions outlined in the communication, contacting us using the details below or contacting Offspring directly.</p>
+
+                        <p>Where you have explicitly opted-in to such communications, OFFICE may, from time to time, share your Personal Information with its affiliated company, Offcutsshoes. Offcutsshoes may contact you by post, by electronic mail services or mobile phone messaging about new products, special offers or other information which we think you may find interesting using the delivery or email address which you have provided. You may opt-out of receiving any such communications by following the instructions outlined in the communication, contacting us using the details below or contacting Offcutsshoes directly.</p>
+
+                        <p>If we are sold or merged with another company we may disclose your information to a potential buyer, including your Personal Information and other information concerning your relationship with us, so that they can continue to provide our products and services to you.</p>  
+
+                        <p>We may share your Personal Information with third parties, such as Facebook, Instgram or via other third party advertising that may appear on other websites you use, where we have a legitimate business interest for doing so. Where we are relying on legitimate business interests for the processing of data, we will first consider whether or not these interests are outweighed by your interests, rights and freedoms.</p>           
+                </div>
+            </div>
+
+            <div id="C13" class="contentBlock">
+                <div class="blockTitle">10. TRANSFERS OF YOUR PERSONAL INFORMATION OUTSIDE THE EEA</div>
+                    <div class="blockContent">
+                        <p>All your Personal Information is stored on our secure servers or those of our group companies or suppliers which may be situated outside of the European Economic Area <strong>("EEA")</strong>. All such transfers take place in accordance with the Data Protection Legislation.</p>
+
+                        <p>Your Personal Information may also be processed by staff operating outside the EEA who work for us or for one of our group companies or suppliers. We will take all steps reasonably necessary to ensure that your Personal Information is treated securely and in accordance with this Privacy and Cookies Policy and the Data Protection Legislation when it is processed in, or otherwise accessed from, a location outside the EEA. This means that we will only transfer your Personal Information to third parties outside the EEA if that third party (a) is situated in a country that has been confirmed by the European Commission to provide adequate protection to Personal Information, (b) has agreed (by way of written contract containing the European Commission-approved "model clauses" or by some other form of data transfer mechanism approved by the European Commission) to provide all protections to your Personal Information as required by the Data Protection Legislation or (c) we have your explicit consent to do so. Where any transfer takes place under a written contract, you have the right to request a copy of that contract and may do so by contacting us using the details below. For the avoidance of doubt, in the event that the UK is no longer a part of the EEA, references in this paragraph to the EEA shall mean the EEA and the UK.</p>
+                </div>
+            </div>
+
+            <div id="C14" class="contentBlock">
+                <div class="blockTitle">11. ABOUT COOKIES AND HOW WE USE THEM</div>
+                    <div class="blockContent">
+                        <p>Cookies are small pieces of information in the form of text files that are sent to your browser from our web server and are stored on your computer. Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than information about how you use the site and the data you choose to share with us (including data you automatically share with us by way of your browser settings).</p>
+
+                        <p>There are essentially 3 different types of cookies that we use on our Websites:</p>
+
                     <ul class="list">
                         <li><strong>Cookies essential to website operations</strong> - These cookies allow you to browse the OFFICE website, search for products and add items to your basket.</li>
-                        <li><strong>Non essential but helpful cookies</strong> - These cookies help improve your experience on the site by allowing us to make alternative product suggestions based on which products you view.</li>
+                        <li><strong>Non-essential but helpful cookies</strong> - These cookies help improve your experience on the site by allowing us to make alternative product suggestions based on which products you view.</li>
                         <li><strong>Analytics and Marketing cookies</strong> - Analytical cookies monitor how you use our site and help us identify areas where we can improve the site. Marketing cookies are used when you visit the site via our emails or via other partner sites (affiliates) and give us visibility of how you found our site.</li>
                     </ul>
-                    <p>If you wish, you can set up your computer so that it rejects cookies and you will find instructions on how to do this at <a href="http://www.allaboutcookies.org" class="underline">www.allaboutcookies.org</a>. Please note that in doing so, in common with other online shopping sites, you will be unable to purchase from <a href="http://www.office.co.uk" class="underline">office.co.uk</a>. Alternatively, please view our section ‘Managing Cookies’ below.</p>
-                    <p>Full details of the cookies that we use (as of May 2012) are listed below.</p>
-                    <p>Cookies essential to website operations</p>
-                        <table class="cookiesTable">
-                            <tbody>
-                                <tr class="bg-light-gray">
-                                    <td class="cookiesEssential" colspan="2">
-                                        <strong>1st party cookies</strong>
-                                    </td>
-                                </tr>
-                                <tr class="bg-dark">
-                                    <td class="col-sm-4 col-xs-6">
-                                        <strong>Cookie Name</strong>
-                                    </td>
-                                    <td class="col-sm-8 col-xs-6">
-                                        <strong>Description</strong>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        offercode -
-                                    </td>
-                                    <td>
-                                        To monitor if the user has used a promotional code in their order. Duration: session
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        order_placed_uid -
-                                    </td>
-                                    <td>
-                                        To track the order ID. Duration: session
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        order_id -
-                                    </td>
-                                    <td>
-                                        To track the order ID. Duration: session
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        country_code -
-                                    </td>
-                                    <td>
-                                        To track billing country code. Duration: session
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        email-user email
-                                    </td>
-                                    <td>
-                                        To view of the user is new to the site. Duration: session
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        iphone_home_cookie -
-                                    </td>
-                                    <td>
-                                        To view if the user came via the OFFICE iPhone app. Duration: 30 days
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        competition_entry -
-                                    </td>
-                                    <td>
-                                        Used to flag a competition entry. Duration: session
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        faces_entry -
-                                    </td>
-                                    <td>
-                                        Used to flag a competition entry. Duration: session
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        survey_entry -
-                                    </td>
-                                    <td>
-                                        Used to flag a competition entry. Duration: session
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        basket -
-                                    </td>
-                                    <td>
-                                        To make sure we retain the items within your basket. Duration: 30 days
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        authkey -
-                                    </td>
-                                    <td>
-                                        This enables us to identify the user throughout a session. Duration: session
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        username -
-                                    </td>
-                                    <td>
-                                        To track the user account name. Duration: session
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        style_tracker - - session
-                                    </td>
-                                    <td>
-                                        Determines whether user has come from internet search. Duration: session
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        awaid - affiliate tracking - 30 days
-                                    </td>
-                                    <td>
-                                        To monitor if the user has come via marketing partners. Duration: 30 days
-                                    </td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    <p>Non essential, but helpful cookies</p>
-                        <table class="cookiesTable">
-                            <tbody>
-                                <tr class="bg-light-gray">
-                                    <td class="cookiesEssential" colspan="2">
-                                        <strong>1st party cookies</strong>
-                                    </td>
-                                </tr>
-                                <tr class="bg-dark">
-                                    <td class="col-sm-4 col-xs-6">
-                                        <strong>Partner Name</strong>
-                                    </td>
-                                    <td class="col-sm-8 col-xs-6">
-                                        <strong>Description</strong>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        Qubit
-                                    </td>
-                                    <td>
-                                        These cookies are for analytics software by our business partner Qubit. This helps us take site data to improve the website and your experience whilst on the website, and to tailor marketing to you. Duration: 1 year
-                                    </td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    <p>Analytics and Marketing</p>
-                        <table class="cookiesTable">
-                            <tbody>
-                                <tr class="bg-light-gray">
-                                    <td class="cookiesEssential" colspan="2">
-                                        <strong>3rd party cookies</strong>
-                                    </td>
-                                </tr>
-                                <tr class="bg-dark">
-                                    <td class="col-sm-4 col-xs-6">
-                                        <strong>Partner Name</strong>
-                                    </td>
-                                    <td class="col-sm-8 col-xs-6">
-                                        <strong>Description</strong>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        Criteo
-                                    </td>
-                                    <td>
-                                        Recommends alternative products to you based on your viewing habits
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        Criteo
-                                    </td>
-                                    <td>
-                                        Criteo uses cookies to retarget you with personalised banner advertising after you have been to our website. To learn more please click on the 'i' tab in one of the ads. Duration: Up to 13 months
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        Criteo
-                                    </td>
-                                    <td>
-                                        Our website uses cookies/advertising IDs for the purpose of advertising. This enables us to show our advertisements to visitors who are interested in our products on partner websites, apps and emails. Re-targeting technologies use your cookies or advertising IDs and display advertisements based on your past browsing behaviour. You can opt-out of interest based advertising by visiting the following websites:<p>
-										<a href="http://go.pardot.com/e/126241/choices-/3yy9lv/114140805" class="underline">http://go.pardot.com/e/126241/choices-/3yy9lv/114140805</a></p>
-										<a href="http://go.pardot.com/e/126241/2017-04-12/3yy9lx/114140805" class="underline">http://go.pardot.com/e/126241/2017-04-12/3yy9lx/114140805</a><p></p>
 
-										We may share data, such as technical identifiers derived from your registration information on our [website/app] or our CRM system with our trusted advertising partners. This allows them to link your devices and/or environments and provide you a seamless experience across the different devices and environments that you use. To read more about their linking capabilities, please refer to their privacy policy listed in the above-mentioned platforms or listed below.<p></p>
-<p>Criteo privacy policy: <a href="http://go.pardot.com/e/126241/privacy-/3yy9lz/114140805" class="underline">http://go.pardot.com/e/126241/privacy-/3yy9lz/114140805</a></p>
-<p>AffiliateWindow policy: <a href="https://www.awin.com/gb/legal/privacy-policy" class="underline">https://www.awin.com/gb/legal/privacy-policy</a></p>
+                    <p>You can set up your computer so that it rejects cookies and you will find instructions on how to do this at <a href="http://www.allaboutcookies.org" class="underline">www.allaboutcookies.org</a>. It may be that your browser provider will ask you to set your preferences for cookies. Please note that the choices you make will affect the content you see on office.co.uk. If you have all cookies disabled on your computer, your shopping experience on our Websites will be limited to browsing and researching – you won't be able to add products to your shopping basket or buy from us online. Please view our section 'Managing Cookies' below for more information.</p>
 
-                                    </td>
-                                </tr>								
-                                <tr>
-                                    <td>
-                                        EmailVision
-                                    </td>
-                                    <td>
-                                        To make our emails more tailored and relevant to you, we collect data on how you interact with them so that we can improve what we send you via marketing emails. Duration: 60 days
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        Google
-                                    </td>
-                                    <td>
-                                        These cookies enable Google Analytics. This helps us take site data to improve the website and your experience whilst on the website, and to tailor marketing to you. Duration: Up to 2 years
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        Affiliate Window
-                                    </td>
-                                    <td>
-                                        These cookies give us information on who directed you to the website. We may choose to reward some external websites for directing you to our website. Duration: Up to 30 days
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        Ultimate Feeds
-                                    </td>
-                                    <td>
-                                        We work with shopping comparisons website to drive traffic. This cookie helps us optimise this process to improve customer experience. Duration: 30 days
-                                    </td>
-                                </tr>
-                            </tbody>
-                        </table>
-                </div>
-            </div>
-            <div class="contentBlock">
-                <div class="blockTitle">MANAGING COOKIES</div>
-                <div class="blockContent">
-                    <p>If you don’t have cookies enabled on your computer, your shopping experience on our website will be limited to browsing and researching; you won't be able to add products to your shopping basket and buy from us online.</p>
-                </div>
-            </div>
-            <div class="contentBlock">
-                <div class="blockTitle">TO ENABLE COOKIES</div>
-                <div class="blockContent">
+                    <p>Full details of the cookies that we use (as of May 25 2018) are listed below</p>
+
+                    <p style="font-size:12px;font-weight:bold">MANAGING COOKIES</p>
+
+                    <p><strong><ins>To enable cookies</ins></strong></p>
+
                     <p>To verify the type and version of web browser you use to access the Internet:</p>
+
                     <p>For PCs: click on 'Help' at the top of your browser window and select the 'About' option</p>
+
                     <p>For Macs: with the browser window open and active, click on the Apple menu and select the 'About' option</p>
-                </div>
-            </div>
-            <h2 class="pageTitle">HOW TO CHECK COOKIES ARE ENABLED FOR PCS</h2>
-            <div class="contentBlock">
-                <div class="blockTitle">GOOGLE CHROME</div>
-                <div class="blockContent">
+
+                    <p><strong><ins>How to check cookies are enabled</ins></strong></p>
+
+                    <p><strong>Google Chrome</strong></p>
                     <ul class="list">
-                        <li>Click on 'Tools' at the top of your browser window and select Options</li>
-                        <li>Click the 'Under the Hood' tab, find the 'Privacy' section, and select the 'Content settings' button</li>
-                        <li>Select 'Allow local data to be set'</li>
+                        <li>From the Chrome menu in the top right corner of the browser, select Settings.</li>
+                        <li>At the bottom of the page, click Show advanced settings....</li>
+                        <li>Under Privacy, select Content settings.... To manage cookie settings, check or uncheck the options under "Cookies".</li>
                     </ul>
-                </div>
-            </div>
-            <div class="contentBlock">
-                <div class="blockTitle">MICROSOFT INTERNET EXPLORER 6.0, 7.0, 8.0</div>
-                <div class="blockContent">
+
+                    <p><strong>Microsoft Internet Explorer</strong></p>
                     <ul class="list">
-                        <li>Click on 'Tools' at the top of your browser window and select 'Internet options' , then click on the 'Privacy' tab</li>
+                        <li>Click on settings icon  at the top of your browser window and select "Internet options" , then click on the "Privacy" tab</li>
                         <li>Ensure that your Privacy level is set to Medium or below, which will enable cookies in your browser</li>
-                        <li>Please note that settings above ‘Medium’ will disable cookies</li>
-                    </ul>
-                </div>
-            </div>
-            <div class="contentBlock">
-                <div class="blockTitle">MOZILLA FIREFOX</div>
-                <div class="blockContent">
+                        <li>Please note that settings above "Medium" will disable cookies</li>
+                    </ul>                    
+
+                    <p><strong>Mozilla Firefox</strong></p>
                     <ul class="list">
-                        <li>Click on 'Tools' at the top of your browser window and select Options</li>
-                        <li>Select the Privacy icon</li>
-                        <li>Click on Cookies, then select 'allow sites to set cookies'</li>
-                    </ul>
-                </div>
-            </div>
-            <div class="contentBlock">
-                <div class="blockTitle">SAFARI</div>
-                <div class="blockContent">
+                        <li>Click the menu button and choose Options.</li>
+                        <li>Select the Privacy and Security panel and go to the History section.</li>
+                        <li>In the drop-down menu next to Firefox will, choose Use custom settings for history.</li>
+                        <li>If you are troubleshooting problems with cookies, make sure that Accept third-party cookies is NOT set to Never.</li>
+                        <li>Choose how long cookies are allowed to be stored.</li>
+                        <li>Close the about:preferences page. Any changes you've made will automatically be saved.</li>
+                    </ul>  
+
+                    <p><strong>Safari</strong></p>
                     <ul class="list">
-                        <li>Click on the Cog icon at the top of your browser window and select the 'Preferences' option</li>
-                        <li>Click on 'Security', select the option that says 'Block third-party and advertising cookies'</li>
-                        <li>Click 'Save'</li>
+                        <li>Choose Safari &gt; Preferences, click Privacy</li>
+                        <li>Change which cookies and website data are accepted: Select a "Cookies and website data" option:</li>
+                        <li>Always block: Safari doesn’t let any websites, third parties, or advertisers store cookies and other data on your Mac. This may prevent some websites from working properly.</li>
+                        <li>Allow from current website only: Safari accepts cookies and website data only from the website you’re currently visiting. Websites often have embedded content from other sources. Safari does not allow these third parties to store or access cookies or other data.</li>
+                        <li>Allow from websites I visit: Safari accepts cookies and website data only from websites you visit. Safari uses your existing cookies to determine whether you have visited a website before. Selecting this option helps prevent websites that have embedded content in other websites you browse from storing cookies and data on your Mac.</li>
+                        <li>Always allow: Safari lets all websites, third parties, and advertisers store cookies and other data on your Mac.</li>
                     </ul>
+
+                   <p style="font-size:12px;font-weight:bold">Cookies essential to website operations</p>
+
+                   <style type="text/css">
+                   @media only screen and (max-width: 414px) {
+                    .cookiesTable {
+                        max-width: 314px !important;
+                    }        
+                   </style>
+
+
+                   <table class="cookiesTable">
+                       <tbody>
+                           <tr class="bg-light-gray">
+                            <td class="cookiesEssential" colspan="3">
+                                <strong>1st party cookies</strong>
+                            </td>
+                        </tr>
+
+                        <tr class="bg-dark">
+                            <td class="col-sm-3 col-xs-3">
+                                <strong>Cookie Name</strong>
+                            </td>
+                            <td class="col-sm-6 col-xs-6">
+                                <strong>Description</strong>
+                            </td>
+                            <td class="col-sm-3 col-xs-3">
+                                <strong>Duration</strong>
+                            </td>                                                        
+                        </tr>
+
+                        <tr>
+                            <td>
+                                JSESSIONID
+                            </td>
+                            <td>
+                                Unique session ID
+                            </td>
+                            <td>
+                                Session
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                CARTCOOKIE
+                            </td>
+                            <td>
+                                Cart/Basket ID
+                            </td>
+                            <td>
+                                1 month
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                userId
+                            </td>
+                            <td>
+                                Customer UID
+                            </td>
+                            <td>
+                                Up to 5 years
+                            </td>
+                        </tr> 
+                        <tr>
+                            <td>
+                                cookiePrompt
+                            </td>
+                            <td>
+                                Used to track cookie policy acceptance
+                            </td>
+                            <td>
+                                Up to 600 years
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                firstVisitTS
+                            </td>
+                            <td>
+                                Timestamp of first visit
+                            </td>
+                            <td>
+                                Up to 2 years
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                alreadyOpenedBasket
+                            </td>
+                            <td>
+                                Used for event tracking
+                            </td>
+                            <td>
+                                Up to 1 day
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                selectedCurrency
+                            </td>
+                            <td>
+                                Multi-currency functionality
+                            </td>
+                            <td>
+                                Up to 5 years
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                addAddressVisibility
+                            </td>
+                            <td>
+                                Showing / hiding the add address form
+                            </td>
+                            <td>
+                                Up to 5 years
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                awaid
+                            </td>
+                            <td>
+                                Affiliate tracking
+                            </td>
+                            <td>
+                                Up to 1 month
+                            </td>
+                        </tr>                                                                    
+                       </tbody>
+                   </table>
+
+                   <p style="font-size:12px;font-weight:bold">Analytics and Marketing</p>
+
+                   <style type="text/css">
+                   @media only screen and (max-width: 414px) {
+                    table {
+                        max-width: 314px !important;
+                    }        
+                   </style>
+
+                   <table class="cookiesTable">
+                       <tbody>
+                           <tr class="bg-light-gray">
+                            <td class="cookiesEssential" colspan="3">
+                                <strong>1st party cookies</strong>
+                            </td>
+                        </tr>
+
+                        <tr class="bg-dark">
+                            <td class="col-sm-3 col-xs-3">
+                                <strong>Cookie Name</strong>
+                            </td>
+                            <td class="col-sm-6 col-xs-6">
+                                <strong>Description</strong>
+                            </td>
+                            <td class="col-sm-3 col-xs-3">
+                                <strong>Duration</strong>
+                            </td>                                                        
+                        </tr>
+
+                        <tr>
+                            <td>
+                                Criteo
+                            </td>
+                            <td>
+                                <p>Our website uses cookies/advertising IDs for the purpose of advertising. This enables us to show our advertisements to visitors who are interested in our products on partner websites, apps and emails. Re-targeting technologies use your cookies or advertising IDs and display advertisements based on your past browsing behaviour. You can opt-out of interest based advertising by visiting the following websites: <a href="http://go.pardot.com/e/126241/choices-/3yy9lv/114140805" class="underline">Click Here</a> and <a href="http://go.pardot.com/e/126241/2017-04-12/3yy9lx/114140805" class="underline">Click Here</a></p>
+
+                                <p>We may share data, such as technical identifiers derived from your registration information on our [website/app] or our CRM system with our trusted advertising partners. This allows them to link your devices and/or environments and provide you a seamless experience across the different devices and environments that you use. To read more about their linking capabilities, please refer to their privacy policy listed in the above-mentioned platforms or listed below.</p>
+
+                                <p>Criteo privacy policy: <a href="http://go.pardot.com/e/126241/privacy-/3yy9lz/114140805" class="underline">Click Here</a></p>
+                            </td>
+                            <td>
+                                13 Months
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                Google
+                            </td>
+                            <td>
+                                These cookies enable Google Analytics. This helps us take site data to improve the website and your experience whilst on the website, and to tailor marketing to you.
+                            </td>
+                            <td>
+                                Up to 2 years
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                Google Adwords
+                            </td>
+                            <td>
+                                These cookies enable Google Adwords to track what advertisements you click on whilst on the website.
+                            </td>
+                            <td>
+                                Up to 30 days
+                            </td>
+                        </tr> 
+                        <tr>
+                            <td>
+                                Affiliate Window
+                            </td>
+                            <td>
+                                <p>These cookies give us information on who directed you to the website. We may choose to reward some external websites for directing you to our website.</p><p>
+
+                                </p><p>Affiliate Window privacy policy: <a href="https://www.awin.com/gb/legal/privacy-policy" class="underline">Click Here</a></p>
+                            </td>
+                            <td>
+                                Up to 30 days
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>
+                                Monetate
+                            </td>
+                            <td>
+                                <p>We use Monetate to serve personalised experiences based on your previous interactions with the site. This cookie stores an anonymous identifier. We use this to recognise the visitor when he / she comes back and to map the visitor to the anonymous profile that we store on our secure servers.</p>
+
+                                <p>Monetate privacy policy: <a href="https://www.monetate.com/platform-privacy-policy" class="underline">Click Here</a></p>
+                            </td>
+                            <td>
+                                Up to 5 years
+                            </td>
+                        </tr>    
+                        <tr>
+                            <td>
+                                BazaarVoice
+                            </td>
+                            <td>
+                                <p>Bazaarvoice uses session cookies and persistent cookies. In general, session cookies help with navigation and usability on websites, only record information during one visit to a website and then erased, are enabled by default in order to provide the best user experience possible, and are known as Tier 1 technologies under applicable US government guidance. In general, persistent cookies are used for analytics, compliance and authenticity functions. They stay on a user's computer and record information every time they visit, are stored on the hard drive of the user's computer until the user manually deletes them from a browser folder, or until they expire, which can be months or years after they were placed on the computer.</p>
+
+                                <p>BazaarVoice cookie policy: <a href="https://bazaarvoice.secure.force.com/cp/CPcookies" class="underline">Click Here</a></p>
+                            </td>
+                            <td>
+                                1 year
+                            </td>
+                        </tr>  
+                        <tr>
+                            <td>
+                                Salecycle
+                            </td>
+                            <td>
+                                <p>Salecycle cookies help us to understand your shopping journey to send you targeted and tailored messages if you add items to your basket and then leave the website. We process data for marketing under legitimate interest.</p>
+
+                                <p>Salecycle privacy policy: <a href="https://bazaarvoice.secure.force.com/cp/CPcookies" class="underline">Click Here</a></p>
+                            </td>
+                            <td>
+                                6 months
+                            </td>
+                        </tr>  
+                        <tr>
+                            <td>
+                                Sessioncam (Website recording)
+                            </td>
+                            <td>
+                                <p>Our web site may use SessionCam for analysis. SessionCam is a product that has been developed by SessionCam LTD. SessionCam may record mouse clicks, mouse movements, page scrolling and any text keyed into website forms. The information collected does not include bank details or any sensitive personal data. Data collected by SessionCam from "insert company name" website is for "insert company name"internal use only. The information collected is used to improve our website usability and is stored and used for aggregated and statistical reporting</p>
+
+                                <p>Sessioncam privacy policy: <a href="https://sessioncam.com/privacy-policy-cookies/" class="underline">Click Here</a></p>
+                            </td>
+                            <td>
+                                6 months
+                            </td>
+                        </tr> 
+                        <tr>
+                            <td>
+                                Adobe CRM
+                            </td>
+                            <td>
+                                <p>To make our emails and SMS marketing more tailored and relevant to you, we collect data to help understand your shopping journey and how you interact with marketing material so that we can improve what we send you via targeted and tailored marketing messages.</p>
+                            </td>
+                            <td>
+                                Up to 2 years
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                Bold Chat
+                            </td>
+                            <td>
+                                <p>BoldChat cookies track the actions associated with a website visitor's activity on this website to allow the website owner to provide accurate, helpful and feature-rich web chat features. This data is handled as follows: Suppressible by the visitor who limits browser cookies, Used to identify behavior of a user on the website for purposes of BoldChat web chat features (e.g. aggregated performance/analytics reporting, chat, visit, conversion history individual reporting), Only useful during the visit or upon a subsequent visit, Not available between customers, Protected by the BoldChat secure infrastructure</p>
+
+                                <p>Boldchat cookie policy: <a href="https://help.boldchat.com/help/EN/BoldChat/BoldChat/c_bc_cookie_ref.html" class="underline">Click Here</a></p>
+                            </td>
+                            <td>
+                                Up to 1 year
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                Spredfast
+                            </td>
+                            <td>
+                                <p>Spredfast Experiences allows brands to aggregate social content and to redisplay that content on their websites. The Spredfast scripts within the embed do not directly use cookies to store information about visitors to Office.co.uk</p>
+                            </td>
+                            <td>
+                                N/A
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                Firebase (Office App only)
+                            </td>
+                            <td>
+                                <p>Google Analytics for Firebase and Firebase Performance Monitoring both collect certain information in their default implementation.</p>
+
+                                 <p>Firebase data policy: <a href="https://support.google.com/firebase/answer/6318039?hl=en" class="underline">Click Here</a></p>
+                            </td>
+                            <td>
+                                N/A
+                            </td>
+                        </tr>                        
+
+                       </tbody>
+                   </table>                   
+
                 </div>
             </div>
-            <div class="contentBlock">
-                <div class="blockTitle">SECURITY</div>
-                <div class="blockContent">
-                    <p>We take security seriously and we take precautions to keep your personal information secure. We have put in place appropriate physical, electronic and managerial procedures to safeguard the information we collect. However, due to the open communication nature of the Internet, we cannot guarantee that communications between you and us, or information stored on our servers, will be free from unauthorised access by third parties.</p>
+
+            <div id="C15" class="contentBlock">
+                <div class="blockTitle">12. SECURITY</div>
+                    <div class="blockContent">
+                        <p>We take security seriously and we take precautions to keep your Personal Information secure. We have put in place appropriate physical, electronic and managerial procedures to safeguard the information we collect and endeavour to only work with third parties who provide equivalent protections (for example, if you provide us with your credit card information, the information is encrypted to ensure its security). However, due to the open communication nature of the Internet, we cannot guarantee that communications between you and us, or information stored on our servers, will be free from unauthorised access by third parties.</p>
+
+                        <p>Please note, that the transmission of information via the internet is not completely secure and, although we will take steps to protect your Personal Information, we cannot guarantee the security of your Personal Information transmitted via the Website and/or our apps – any transmission is therefore at your own risk.</p>
                 </div>
             </div>
-            <div class="contentBlock">
-                <div class="blockTitle">DATA PROTECTION</div>
-                <div class="blockContent">
-                    <p>We comply with all of the applicable data protection laws in the UK. We do not share any data collected via our website with any third party partners but we may send you emails on their behalf if you opt in to receive email from third parties.</p>
+
+            <div id="C16" class="contentBlock">
+                <div class="blockTitle">13. YOUR CONTROL OVER YOUR PERSONAL INFORMATION</div>
+                    <div class="blockContent">
+                        <p>You may choose to restrict the collection or use of your Personal Information in the following ways:</p>
+
+                        <ul class="list">
+                            <li>Whenever you purchase a product from OFFICE, Offspring or Offcutsshoes you may opt-out of receiving marketing communications from the relevant company by ticking the email marketing and/or mobile text alerts opt-out boxes at checkout.</li>
+
+                            <li>Whenever you are asked to fill in a form on any of the Websites, but you do not purchase product(s) from OFFICE, Offspring or Offcutsshoes, there is a box that you can click to indicate that you want the information to be used by OFFICE, Offspring [and/]or Offcutsshoes for direct marketing purposes. By leaving this box un-ticked, unless you have explicitly opted-in for the relevant communications at another time, you will not receive the relevant communications.</li>
+
+                            <li>If you change your mind and decide you do not wish to receive communications from OFFICE, Offspring, Offcutsshoes or any of our group companies, you can unsubscribe by clicking on the 'unsubscribe' link at the top or bottom of any emails or text messages you receive from us, or by emailing us at <a href="mailto:help@office.co.uk" class="underline">help@office.co.uk</a>. Please also note that, if we ask you to "opt in" at the point of checkout and you have already subscribed with us, we won't treat you as unsubscribing just because you don't re opt-in with every purchase.</li>
+                        </ul>
+
+                        <p>You may request a copy of the Personal Information that we hold about you under the Data Protection Legislation, for which no fee will be payable. If you would like a copy of the Personal Information we hold about you, please contact us using the details below, or write to OFFICE HR (SAR), Office Holdings LTD, Classic House, Martha's Buildings, 180 Old Street, London EC1V 9BP and we will respond to give you all the information we are required to provide by law.  Alternatively, you can email your request to <a href="mailto:SAR@office.co.uk" class="underline">SAR@office.co.uk</a>. In most instances we will provide the information within one month of receipt of your request, unless the request is particularly complex or we receive a large number of requests within that period, where we have the right to extend this period for two additional months. In this instance we will notify you of the delay and our justification.</p>
+
+                        <p>You have the right to request that we amend your Personal Information (or part thereof) if you believe that any information we are holding on you is incorrect or incomplete. You also have the right to ask us to erase or stop processing any Personal Information we have about you where there is no longer a legal ground for us to hold it and, in some circumstances, you have the right to request that we transfer any information we hold about you to a specified third party.  If you wish to exercise any of these rights, please write to or email us as soon as possible, at the above address or using the details below. We will promptly correct any information found to be incorrect.</p>
                 </div>
             </div>
-            <div class="contentBlock">
-                <div class="blockTitle">LINKS TO THIRD PARTIES</div>
-                <div class="blockContent">
-                    <p>We may provide links to third party websites from time to time that we believe may be of interest to you. We do not control nor vet these websites. We advise you to read the Privacy Policy applicable to each third party site you visit and we will not accept any responsibility for or liability in respect of either the contents or your use of these third party sites.</p>
+
+            <div id="C17" class="contentBlock">
+                <div class="blockTitle">14. HOW LONG WE RETAIN YOUR PERSONAL INFORMATION</div>
+                    <div class="blockContent">
+                        <p>Unless otherwise instructed by you, we will retain your Personal Information for only as long as we require for the purposes for which it was collected. Once the relevant purpose has been satisfied, we will securely delete or anonymise your Personal Information unless we are required to retain a copy of such information under applicable law.</p>
                 </div>
             </div>
-            <div class="contentBlock">
-                <div class="blockTitle">3RD PARTY AD SERVING</div>
-                <div class="blockContent">
-                    <p>We allow other companies, called third-party ad servers or ad networks, to serve advertisements on our behalf. We do not provide any personally identifiable customer information to these advertisers or third-party websites. Currently we have relationships with the following third-party ad networks: <a href="http://www.criteo.com" class="underline">http://www.criteo.com</a><a>.</a></p>
-                    <p>Criteo places cookies on the browsers of visitors to its website(s) and may send its own cookies to the visitors' cookie file. The cookies will allow Criteo to apply its Personalized Retargeting technology and to serve Personalized banners; Criteo only employs anonymous cookies for Personalized banners, the Cookie is a means by which information relating to internet activity is recorded; Criteo will collect and use this data in accordance with all applicable laws and regulations (including but not limited to laws governing privacy, and data protection); The data collected and used by Criteo is at its sole discretion will only contain non-personal data. This data will be anonymous and will not contain the name, address, telephone number, email address or IP address of the Visitors. Criteo's Privacy Policy will be available at the following address <a href="http://www.criteo.com/privacy.html" class="underline">http://www.criteo.com/privacy.html</a>. Criteo's Privacy Policy includes information for users on how to opt-out or being cookie retargeted.</p>
+
+            <div id="C18" class="contentBlock">
+                <div class="blockTitle">15. LINKS TO THIRD PARTIES</div>
+                    <div class="blockContent">
+                        <p>We may provide links to third party websites from time to time that we believe may be of interest to you. We do not control these websites and advise you to read the privacy statement applicable to each third party site you visit and we will not accept any responsibility for or liability in respect of either the contents or your use of these third party sites.</p>
                 </div>
             </div>
-            <div class="contentBlock">
-                <div class="blockTitle">LINKS TO OTHER WEBSITES</div>
-                <div class="blockContent">
-                    <p>Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.</p>
+
+            <div id="C19" class="contentBlock">
+                <div class="blockTitle">16. 3RD PARTY AD SERVING</div>
+                    <div class="blockContent">
+                        <p>We allow other companies, called third-party ad servers or ad networks, to serve advertisements on our behalf. We do not provide any customer Personal Information to these advertisers or third-party websites. Currently we have relationships with the following third-party ad networks: <a href="http://www.criteo.com" class="underline">www.criteo.com</a>.</p>
+
+                        <p>Criteo: services rely on the use of online identifiers (e.g. cookie IDs, mobile advertising) linked to browsing events on our websites. While Criteo does not collect directly identifying information that would allow to identify individuals, online identifiers are usually considered as indirectly identifying information (or "pseudonymous data") by EU authorities and therefore covered by the EU definition of personal data.</p>
+
+                        <p>If you consent to it, including any consents obtained by way of browser settings, Criteo places cookies on the browsers of individuals who visit our Websites (and those of its other clients). Please note that Criteo shall act as a data controller of the Personal Information it collects and you should consult their privacy policy as to how they will process your Personal Information, available at the following address: <a href="http://www.criteo.com/privacy" class="underline">www.criteo.com/privacy</a>. Criteo's privacy policy includes information for users on how to opt-out of being cookie retargeted.</p>
                 </div>
             </div>
-            <div class="contentBlock">
-                <div class="blockTitle">CONTROLLING YOUR PERSONAL INFORMATION</div>
-                <div class="blockContent">
-                    <p>You may choose to restrict the collection or use of your personal information in the following ways:</p>
-                    <ul class="list">
-                        <li>whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by OFFICE or companies of OFFICE's careful selection for direct marketing purposes</li>
-                        <li>if you have previously agreed to OFFICE using your personal information for direct marketing purposes, you may change your mind at any time by unsubscribing via our marketing emails or emailing us at <a href="mailto:help@office.co.uk" class="underline">help@office.co.uk</a>.</li>
-                        <li>if you have previously agreed to OFFICE sharing your personal information with companies of OFFICE's careful selection for direct marketing purposes, you may change your mind at any time by emailing us at <a href="mailto:help@office.co.uk" class="underline">help@office.co.uk</a>.</li>
-                    </ul>
-                    <p>We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.</p>
-                    <p>You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Data Protection Officer, Ecommerce Team, Office Holdings LTD, Classic House, Martha's Buildings, 180 Old Street, London EC1V 9BP. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.</p>
+
+            <div id="C20" class="contentBlock">
+                <div class="blockTitle">17. WHAT IS THE DATA PROTECTION LEGISLATION?</div>
+                    <div class="blockContent">
+                        <p>Data Protection Legislation means any law applicable from time to time relating to the processing of Personal Information and/or privacy, as in force at the date of this Agreement or as re-enacted, applied, amended, superseded, repealed or consolidated, including without limitation, the UK Data Protection Act 1998, the General Data Protection Regulation (EU) 2016/679, and the Privacy and Electronic Communications (EC Directive) Regulations 2003, in each case including any legally binding regulations, direction and orders issued from time to time under or in connection with any such law).</p>
                 </div>
-            </div>
-            <div class="contentBlock">
-                <div class="blockTitle">CONTACT US</div>
-                <div class="blockContent">
-                    <p>If you have any questions, please feel free to contact us by email at: <a href="mailto:help@office.co.uk" class="underline">help@office.co.uk</a> Alternatively, you may call our team on 0330 100 1906 , Monday to Friday: 9am to 6pm &amp; Saturday 9.30am to 4.30pm</p>
+            </div>            
+
+            <div id="C21" class="contentBlock">
+                <div class="blockTitle">18. COMPLAINTS</div>
+                    <div class="blockContent">
+                        <p>Should you have any queries or complaints in relation to how we use your Personal Information, please contact us at help@office.co.uk using the details set out at section 20 below. Should you wish to take any complaints or queries further, you have the right to contact the Information Commissioner's Office regarding such issues.</p>
                 </div>
-            </div>
+            </div>  
+
+            <div id="C22" class="contentBlock">
+                <div class="blockTitle">19. CHANGES TO THIS PRIVACY AND COOKIES POLICY</div>
+                    <div class="blockContent">
+                        <p>We may change this Privacy and Cookies Policy from time to time and any changes we make will be posted on our Websites and, where appropriate, notified to you when you next access any of the Websites or make a purchase with us. It is your responsibility to ensure that you are aware of the latest version of this Privacy and Cookies Policy and your continued use of our Websites will be deemed to be your acceptance of any revised terms.</p>
+                </div>
+            </div>              
+ <div id="C23" class="contentBlock">
+                <div class="blockTitle">20. I'VE RECEIVED AN EMAIL THAT LOOK SUSPICIOUS</div>
+                    <div class="blockContent">
+                        <p>Any emails sent from OFFICE will be from an <a href="https://www.office.co.uk/" class="underline">office.co.uk</a> email address.  Should you be unsure if an email you have received is genuine, we’d suggest checking the sender email address.  If this isn’t an <a href="https://www.office.co.uk/" class="underline">office.co.uk</a> domain, we’d recommend you delete the email and do not open any links within the content.  We’re really sorry if you have received a phishing email that appears to be from OFFICE and would like to assure you that we’ll never contact you by phone or emails asking for you to confirm password.  We’d only ever ask for payment details should you be calling us to place an order for products of Gift Cards.</p>
+                </div>
+            </div>           
+            <div id="C24" class="contentBlock">
+                <div class="blockTitle">21. CONTACT US</div>
+                    <div class="blockContent">
+                        <p>If you have any questions, please feel free to contact us by email at: <a href="mailto:help@office.co.uk" class="underline">help@office.co.uk</a> Alternatively, you may call our team on 0330 100 1906, Monday to Thursday: 9am to 7pm, Friday: 9am to 6pm and Saturday 9.30am to 4.30pm.</p>
+
+                        <p style="text-decoration: underline"><a href="#totop">Back to index</a></p> 
+                </div>
+            </div> 
+
+            <style>
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: #004474;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+}
+
+#myBtn:hover {
+  background-color: #555;
+}
+</style>
+
+<script>
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+    if (document.body.scrollTop > 1000 || document.documentElement.scrollTop > 1000) {
+        document.getElementById("myBtn").style.display = "block";
+    } else {
+        document.getElementById("myBtn").style.display = "none";
+    }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+}
+</script>
+
         </div>
     </div>
 </div>
@@ -1445,152 +1799,246 @@ document.getElementsByTagName('head')[0].appendChild(viewportMeta);
 			
 				
 
-<div class="col-sm-8 col-md-6">
-        <div class="row mt0">
-            <div class="col-sm-4">
-                <div class="panel-group" id="help-links" role="tablist" aria-multiselectable="true">
-                    <div class="panel">
-                        <div class="panel-heading" role="tab" id="headingOne">
-                            <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#help-links" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                  Customer Help <span class="glyphicon glyphicon-plus visible-xs-inline" aria-hidden="true"></span>
-                </a>
-              </h4>
-                        </div>
-                        <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-                            <div class="panel-body">
-                                <ul>
-                                    <li><a href="/view/content/contactus-info-page">Contact Us</a></li>
-                                    <li><a href="/view/content/Christmas_Delivery">Christmas Delivery</a></li>
-                                    <li><a href="/view/content/deliveryinfo-page">Delivery</a></li>
-                                    <li><a href="/view/content/returnsinfo-page">Returns</a></li>
-                                    <li><a href="/view/content/terms-info-page">Terms &amp; Conditions</a></li>
-                                    <li><a href="/view/content/sitemap">Sitemap</a></li>
-                                    <li><a href="/view/content/giftcardinfo-page">Gift Cards</a></li>
-                                </ul>
-                            </div>
-                        </div>
+<div class="col-xs-12 col-sm-12 col-md-12">
+    <div class="row mt0">
+
+        <div class="col-xs-12 col-sm-3 col-md-2">
+            <div class="panel-group" id="help-links" role="tablist" aria-multiselectable="true">
+                <div class="panel">
+                    <div class="panel-heading" role="tab" id="headingOne">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#help-links" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                Customer Help
+                                <span class="glyphicon glyphicon-plus visible-xs-inline" aria-hidden="true"></span>
+                            </a>
+                        </h4>
                     </div>
-                </div>
-            </div>
-            <div class="col-sm-4">
-                <div class="panel-group" id="additionalinfo-links" role="tablist" aria-multiselectable="true">
-                    <div class="panel">
-                        <div class="panel-heading" role="tab" id="headingTwo">
-                            <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#additionalinfo-links" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
-                  Additional Info <span class="glyphicon glyphicon-plus visible-xs-inline" aria-hidden="true"></span>
-                </a>
-              </h4>
-                        </div>
-                        <div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
-                            <div class="panel-body">
-                                <ul>
-                                    <li><a href="/view/content/about-us-page">About Office</a></li>
-                                    <li><a href="/view/content/storelocator">Store Finder</a></li>
-                  <li><a href="/studentdiscount">Student Discount</a></li>
-                                    <li><a href="/view/content/careersAboutus">Careers</a></li>
-                                    <li><a href="/view/content/ModernSlaveryAct">Modern Slavery Act Statement</a></li>
-                  <li><a href="/view/content/affiliate-info">Become an Affiliate</a></li>
-                                    <li><a href="/view/content/privacy-info-page">Privacy Policy</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-4">
-                <div class="panel-group" id="other-links" role="tablist" aria-multiselectable="true">
-                    <div class="panel">
-                        <div class="panel-heading" role="tab" id="headingThree">
-                            <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#other-links" href="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
-                  Shop With Us <span class="glyphicon glyphicon-plus visible-xs-inline" aria-hidden="true"></span>
-                </a>
-              </h4>
-                        </div>
-                        <div id="collapseThree" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingThree">
-                            <div class="panel-body">
-                                <ul>
-                                    <li><a href="https://www.offspring.co.uk/">OFFSPRING</a></li>
-            <li><a href="https://offcutsshoes.co.uk/">OFFCUTS Outlet</a></li>
-            <li><a href="https://www.officelondon.de/">OFFICE Germany</a></li>
-<li><a href="/view/content/apps">OFFICE App</a></li>
-                                </ul>
-                            </div>
+                    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+                        <div class="panel-body">
+                            <ul>
+                                <li>
+                                    <a href="/view/content/contactus-info-page">Contact Us</a>
+                                </li>
+                                <li>
+                                    <a href="/view/content/deliveryinfo-page">Delivery</a>
+                                </li>
+                                <li>
+                                    <a href="/view/content/returnsinfo-page">Returns</a>
+                                </li>
+                                <li>
+                                    <a href="/view/content/terms-info-page">Terms &amp; Conditions</a>
+                                </li>
+                                <li>
+                                    <a href="/view/content/sitemap">Sitemap</a>
+                                </li>
+                                <li>
+                                    <a href="/view/content/giftcardinfo-page">Gift Cards</a>
+                                </li>
+                                <li>
+                                    <a href="/view/content/about-us-page">About Office</a>
+                                </li>
+                                <li>
+                                    <a href="/view/content/storelocator">Store Finder</a>
+                                </li>
+                            </ul>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+        <div class="col-xs-12 col-sm-3 col-md-2">
+            <div class="panel-group" id="additionalinfo-links" role="tablist" aria-multiselectable="true">
+                <div class="panel">
+                    <div class="panel-heading" role="tab" id="headingTwo">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#additionalinfo-links" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                                Additional Info
+                                <span class="glyphicon glyphicon-plus visible-xs-inline" aria-hidden="true"></span>
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+                        <div class="panel-body">
+                            <ul>
+                                <li>
+                                    <a href="/studentdiscount">Student Discount</a>
+                                </li>
+                                <li>
+                                    <a href="/view/content/careersAboutus">Careers</a>
+                                </li>
+                                <li>
+                                    <a href="/view/content/ModernSlaveryAct">Modern Slavery Act Statement</a>
+                                </li>
+                                <li>
+                                    <a href="/view/content/gender-pay-gap">Gender Pay Gap Report</a>
+                                </li>                                
+                                <li>
+                                    <a href="/view/content/affiliate-info">Become an Affiliate</a>
+                                </li>
+                                <li>
+                                    <a href="/view/content/privacy-info-page">Privacy Policy</a>
+                                </li>
+                                <li>
+                                    <a href="/view/content/wholesale-enquiries">Wholesale Enquiries</a>
+                                </li>
+                                <li>
+                                    <a href="/view/content/tax-strategy">Tax Strategy</a>
+                                </li>                                
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-12 col-sm-3 col-md-2">
+            <div class="panel-group" id="other-links" role="tablist" aria-multiselectable="true">
+                <div class="panel">
+                    <div class="panel-heading" role="tab" id="headingThree">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#other-links" href="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
+                                Shop With Us
+                                <span class="glyphicon glyphicon-plus visible-xs-inline" aria-hidden="true"></span>
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="collapseThree" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingThree">
+                        <div class="panel-body">
+                            <ul>
+                                <li>
+                                    <a href="https://www.offspring.co.uk/">OFFSPRING</a>
+                                </li>
+                                <li>
+                                    <a href="https://offcutsshoes.co.uk/">OFFCUTS Outlet</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.officelondon.de/">OFFICE Germany</a>
+                                </li>
+                                <li>
+                                    <a href="/view/content/apps">OFFICE App</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-12 col-sm-3 col-md-2 currency-section hidden-xs hidden-md hidden-lg">
+            <div class="panel-group">
+                <div class="panel">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            Currency
+                        </h4>
+                    </div>
+                    <div class="panel-body">
+                        <select data-show-tick="false" data-tick-icon="" class="currency-select"></select>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-12 col-xs-12 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0 newsletter-section">
+            <div class="panel-group email-signup-wrapper">
+                <div class="panel">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            Newsletter
+                        </h4>
+                    </div>
+                    <div class="panel-body simple-signup">
+                        <div class="simple-signup__success js-signupSuccess">
+                            <p>Thank You For Signing Up</p>
+                        </div>
+                        <div class="simple-signup__inner-wrapper js-signupInnerWrapper">
+                            <form class="simple-signup__form">
+                                <input id="EMAIL_FIELD" name="EMAIL_FIELD" placeholder="Email address" type="email" value="" size="30" class="simple-signup__input js-email">
+                                <div class="simple-signup__gender">
+                                    Female
+                                    <input type="radio" id="GENDER_FIELD_FEM" name="GENDER_FIELD" value="female"> Male
+                                    <input type="radio" id="GENDER_FIELD_MAL" name="GENDER_FIELD" value="male">
+                                </div>
+                                <input type="submit" data-action="/view/emailsignup/simple" data-redirecturl="/view/content/secondsignup"  ="" value="SIGN UP" class="js-email_submit simple-signup__submit">
+                            </form>
+                            <div class="tc_links">
+                                <a href="http://www.office.co.uk/view/content/privacy-info-page">View our Privacy Policy</a>
+                                <div class="simple-signup__error js-signupError">
+                                    <p>Request failed</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="panel-group">
+                <div class="panel">
+                    <div class="panel-heading hidden-sm hidden-md hidden-lg">
+                        <h4 class="panel-title">
+                            Get Social
+                        </h4>
+                    </div>
+                    <ul class="social-links">
+                        <li>
+                            <a target="_blank" href="https://instagram.com/officeshoes" class="instagram">
+                                <span class="icon-instagram"></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a target="_blank" href="https://twitter.com/OfficeShoes" class="twitter">
+                                <span class="icon-twitter"></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a target="_blank" href="https://www.facebook.com/Officeshoes1" class="facebook">
+                                <span class="icon-facebook"></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a target="_blank" href="http://www.office.co.uk/blog/" class="blog">
+                                <span class="icon-blog"></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a target="_blank" href="https://www.pinterest.com/officeshoes1/" class="pinterest">
+                                <span class="icon-pinterest"></span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-12 col-sm-3 col-md-2 currency-section hidden-sm">
+            <div class="panel-group">
+                <div class="panel">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            Currency
+                        </h4>
+                    </div>
+                    <div class="panel-body">
+                        <select data-show-tick="false" data-tick-icon="" class="currency-select"></select>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
+</div>
 
 			
 				
 
-<div class="col-sm-4 col-md-6">
-    <div class="footer-right-wrapper">
-        <div class="row email-sigup-wrapper hidden-sm">
-            <div class="col-md-4 col-lg-offset-1 col-lg-3 panel">
-                <div class="panel-heading">
-                    <h4 class="panel-title">
-                        Newsletter
-                    </h4>
-                </div>
-                <div class="panel-body hidden-xs">
-                    Sign up for news &amp; releases
-                </div>
-            </div>
-            <div class="col-md-8 col-lg-offset-2 col-lg-6 email-sign-up">
-                <iframe scrolling="no" src="https://t.eml.office.co.uk/webApp/ofcOfficeSimpleRegistrationWebApp?b=1&amp;s=OFdskFTR"></iframe>
-            </div>
-        </div>
-        <div class="row social-wrapper">
-            <div class="col-md-4 col-lg-offset-1 col-lg-3 panel">
-                <div class="panel-heading">
-                    <h4 class="panel-title hidden-xs">
-                        Get social @officeshoes
-                    </h4>
-                    <h4 class="panel-title visible-xs">
-                        Get social
-                    </h4>
-                </div>
-                <div class="panel-body hidden-xs">
-                    Connect with us on:
-                </div>
-            </div>
-            <ul class="col-md-8 col-lg-offset-2 col-lg-6 social-links">
-                <li><a target="_blank" href="https://instagram.com/officeshoes" class="instagram"><span class="icon-instagram"></span></a></li>
-                <li><a target="_blank" href="https://twitter.com/OfficeShoes" class="twitter"><span class="icon-twitter"></span></a></li>
-                <li><a target="_blank" href="https://www.facebook.com/Officeshoes1" class="facebook"><span class="icon-facebook"></span></a></li>
-                <li><a target="_blank" href="http://www.office.co.uk/blog/" class="blog"><span class="icon-blog"></span></a></li>
-                <li><a target="_blank" href="https://www.pinterest.com/officeshoes1/" class="pinterest"><span class="icon-pinterest"></span></a></li>
-            </ul>
-        </div>
-    </div>
-</div>
-<div class="col-sm-12 visible-sm tablet-newsletter">
-    <div class="panel">
-        <div class="panel-heading">
+
+			
+				
+
+<div class="col-xs-12">
+    <div class="payment-method-wrap">
+        <div class="panel-heading visible-xs">
             <h4 class="panel-title">
-                Newsletter
+                Secure Payments
             </h4>
         </div>
-        <div class="panel-body hidden-xs">
-            Sign up for news &amp; releases
-        </div>
-    </div>
-    <div class="email-sign-up">
-        <iframe scrolling="no" src="https://t.eml.office.co.uk/webApp/ofcOfficeSimpleRegistrationWebApp?b=1&amp;s=OFdskFTR"></iframe>
-    </div>
-</div>
-			
-				
-
-<div class="payment-method-wrap">
-      <h4 class="panel-title visible-xs">Secure Payments</h4>
       <img class="img-responsive payment-method-logos" width="340" height="28" src="/_ui/responsive/site-office/images/payment.svg">
     </div>
+</div>
 			
 				<script type="text/javascript">
 var accountID="UA-1321678-2";
@@ -1665,70 +2113,6 @@ if (localVars.pageType == "Checkout:Confirmation") {
 			
 				
 
-<div id="countrySelection" style="display:none;">
-    <div class="countrySelector">
-        <h2>Möchtest du unsere deutsche Webseite besuchen?</h2>
-        <div class="country">
-            <div class="wrap">
-                <a href="http://www.officelondon.de">
-                    <span>Besuche unsere deutsche Webseite <span class="underline">OFFICELONDON.DE</span></span>
-                    <img class="js-responsive-img" data-media="{&quot;200&quot;:&quot;/office/styles/images/DE-large-flag.gif&quot;}" border="0">
-                </a>
-            </div>
-        </div>
-        <div class="country last">
-            <div class="wrap">
-                <a href="http://www.office.co.uk">
-                    <span>Nein danke - Ich möchte die UK Webseite besuchen <span class="underline">OFFICE.CO.UK</span></span>
-                    <img class="js-responsive-img" data-media="{&quot;200&quot;:&quot;/office/styles/images/GB-large-flag.gif&quot;}" border="0">
-                </a>
-            </div>
-        </div>
-    </div>
-</div>
-<script type="text/javascript">
-$(document).ready(function() {
-    if (QLJS.getCookie('akamaiWrongDomain')) {
-        if (QLJS.getCookie('selectedDomain')) {
-            if (QLJS.getCookie('selectedDomain') != document.location.hostname) {
-                document.location = "http://" + QLJS.getCookie('selectedDomain');
-            }
-        } else {
-            var _fbCloseImage = $.facebox.settings.closeImage;
-            $.facebox.settings.closeImage = '/_ui/responsive/site-office/images/fb_close_circle.png';
-            $.facebox({ div: '#countrySelection'}, 'countrySelection');
-            $.facebox.settings.closeImage = _fbCloseImage;
-            $('#facebox').css('top', (Math.floor(($(window).height() + $('#facebox').height()) / 5)));
-            $('#facebox').css('left', (Math.floor(($(window).width() - $('#facebox').width()) / 2)));
-            $('.countrySelector .country a').click(function() {
-                if (document.location.hostname == $(this).attr("href").replace(/^https?:\/\//,'')) {
-                    $.facebox.close();
-                    return false;
-                } else {
-                    QLJS.setCookie('akamaiWrongDomain', '', -1);
-                    QLJS.setCookie('selectedDomain', $(this).attr("href").replace(/^https?:\/\//,''));
-                }
-            });
-
-            $(".countrySelector .js-responsive-img").each(function () {
-                var $imageObj = $(this),
-                    imageDivWidth = $imageObj.width(),
-                    imageData = $imageObj.data("media");
-                var imageSrc = QLJS.reponsiveImage(imageData, imageDivWidth);
-                $imageObj.attr('src', imageSrc);
-
-            });
-        }
-    }
-});
-$(document).bind('close.facebox', function(e) {
-    QLJS.setCookie('akamaiWrongDomain', '', -1);
-    QLJS.setCookie('selectedDomain', document.location.hostname);
-});
-</script>
-			
-				
-
 <div id="cookie-wrapper">
   <div class="container">
     <div class="row">
@@ -1787,7 +2171,6 @@ $(document).bind('close.facebox', function(e) {
         }
     
     window.monetateQ.push([ "setPageType", monetatePageType.toLowerCase() ]);
-
     
     
     window.monetateQ.push([ "trackData" ]);
@@ -1879,6 +2262,254 @@ $(document).bind('close.facebox', function(e) {
     };
 </script>
 
+			
+				
+
+
+
+
+<div class="banner_content currency_info hidden">
+
+    <script type="text/javascript">
+
+        $(document).ready(function() {
+            var cookieSelectedCurrency = QLJS.getCookie("selectedCurrency");
+            var multicurrencyEnabled = 'true';
+
+            
+
+                
+                var defaultCurrency =  {};
+                defaultCurrency['name'] = 'Pound Sterling';
+                defaultCurrency['isoCode'] = 'GBP';
+                defaultCurrency['gbpConversionRate'] = '1.0';
+                defaultCurrency['currencySymbolPosition'] = 'LEFT';
+                defaultCurrency['roundingRule'] = 'null';
+                defaultCurrency['decimalSeparator'] = '.';
+                defaultCurrency['thousandsSeparator'] = ',';
+                defaultCurrency['flagIconURL'] = '';
+                defaultCurrency['decimalDigits'] = '2';
+                defaultCurrency['currencySymbol'] = '£';
+
+                if (!cookieSelectedCurrency) {
+                    //if there is no cookie but there is a currency selection
+                    QLJS.setCookie("selectedCurrency", defaultCurrency['isoCode'], 1825);
+                    cookieSelectedCurrency = QLJS.getCookie("selectedCurrency");
+                } else if (!(cookieSelectedCurrency === defaultCurrency['isoCode'])) {
+                    $.ajax({
+                        type: 'POST',
+                        url: '/view/component/currencyInfo/setCurrency',
+                        data: {
+                            currency: cookieSelectedCurrency
+                        }
+                    })
+                }
+
+            
+
+            
+            var selectableCurrencies = [];
+            var currency =  {};
+
+            
+                currency =  {};
+                currency['name'] = 'Pound Sterling';
+                currency['isoCode'] = 'GBP';
+                currency['gbpConversionRate'] = '1.0';
+                currency['currencySymbolPosition'] = 'LEFT';
+                currency['roundingRule'] = 'null';
+                currency['decimalSeparator'] = '.';
+                currency['thousandsSeparator'] = ',';
+                currency['flagIconURL'] = '';
+                currency['decimalDigits'] = '2';
+                currency['currencySymbol'] = '£';
+                selectableCurrencies.push(currency);
+            
+                currency =  {};
+                currency['name'] = 'Euro';
+                currency['isoCode'] = 'EUR';
+                currency['gbpConversionRate'] = '1.12';
+                currency['currencySymbolPosition'] = 'RIGHT';
+                currency['roundingRule'] = '0';
+                currency['decimalSeparator'] = ',';
+                currency['thousandsSeparator'] = '.';
+                currency['flagIconURL'] = '';
+                currency['decimalDigits'] = '2';
+                currency['currencySymbol'] = ' €';
+                selectableCurrencies.push(currency);
+            
+                currency =  {};
+                currency['name'] = 'US Dollar';
+                currency['isoCode'] = 'USD';
+                currency['gbpConversionRate'] = '1.31';
+                currency['currencySymbolPosition'] = 'LEFT';
+                currency['roundingRule'] = '0';
+                currency['decimalSeparator'] = '.';
+                currency['thousandsSeparator'] = ',';
+                currency['flagIconURL'] = '';
+                currency['decimalDigits'] = '2';
+                currency['currencySymbol'] = '$';
+                selectableCurrencies.push(currency);
+            
+
+
+            //currency exchange
+            
+                
+                    $.each(selectableCurrencies, function( index, value ) {
+                        var currencyName = value.isoCode + " (" + value.currencySymbol.trim() +")",
+                            currencyIso = value.isoCode,
+                            currencyHTML = "<img src='/_ui/responsive/site-office/images/flags/"+currencyIso+"-flag.png' /> " + currencyName,
+                            currencySelected = false;
+                        if (cookieSelectedCurrency === value.isoCode){
+                            currencySelected = true;
+                            QLJS.changePrices(cookieSelectedCurrency, selectableCurrencies, true);
+                        }else{
+                            currencySelected = false;
+                        }
+
+                        $("select.currency-select").each(function() {
+                            $(this).append($('<option>', {
+                                value: currencyIso,
+                                html : currencyHTML,
+                                selected : currencySelected,
+                                title: currencyHTML,
+                                class: currencyIso
+                            }));
+                        });
+
+                        $('select.currency-select').selectpicker('refresh');
+
+                        if (currencySelected === false){
+                            $("ul.currency-list:not(.in-modal)").each(function () {
+                                $(this).append($('<li>', {
+                                    class: currencyIso + " currency-item",
+                                    value: currencyIso,
+                                    html: currencyHTML
+                                }));
+                            });
+                        } else {
+                            $(".selected-currency").each(function () {
+                                $(this).html('<span class="'+ currencyIso +' currency-item" value="'+ currencyIso +'">'+currencyHTML+'</span>');
+                            });
+                        }
+
+                        $("ul.currency-list.in-modal").each(function () {
+                            $(this).append($('<li>', {
+                                class: currencyIso + " currency-item",
+                                value: currencyIso,
+                                html: currencyHTML
+                            }));
+                        });
+
+                    });
+
+
+                    $('#genericCurModal').on('hidden.bs.modal', function (e) {
+                        QLJS.setCookie("hasUserSelectedCurr", "true", 1825);
+                    })
+
+                    // If the Akamai cookie exist and is set to true
+                    if ( QLJS.getCookie('akamaiMulticurrency') && QLJS.getCookie('akamaiMulticurrency') === "true" ) {
+                        // if hasUserSelectedCurr doesn't exist, or is set to false
+                        if ( !QLJS.getCookie('hasUserSelectedCurr') || QLJS.getCookie('hasUserSelectedCurr') === "false" ) {
+                            // Make sure there modal exist in the DOM
+                            if( $('#genericCurModal').length > 0 ) {
+                                // Show the currency modal
+                                $('#genericCurModal').modal('show');
+                            }
+                        }
+                    }
+
+                    $(".currency").css("visibility", "visible");
+
+                    
+                        
+                        
+                            //selecting new currency from list
+                            $( ".currency-select" ).change(function() {
+                                var currencySelIso = $(this).val();
+                                var cookieCurrency = QLJS.getCookie("selectedCurrency");
+                                if (currencySelIso.length == 0) {
+                                    return true;
+                                }
+                                if ( document.location.href.indexOf('/basket') > -1 || $(".empty-minicart").length === 0) {
+                                    QLJS.ajaxCurrency(currencySelIso, true);
+                                }else{
+                                    if (cookieCurrency != currencySelIso){
+                                        QLJS.changePrices(currencySelIso, selectableCurrencies);
+                                    }
+                                    //changes all other selects to the new currency
+                                    $(".currency-select").not(this).val(currencySelIso).selectpicker('refresh');
+                                    QLJS.remainingCurrenciesDropdown(currencySelIso, selectableCurrencies);
+                                    QLJS.updateSelectedCurrency(currencySelIso, selectableCurrencies);
+                                }
+
+                            });
+                        
+                    
+
+                    //selecting new currency from item
+                    $(".currency-list").on("click", "li.currency-item", function () {
+
+                        var currencySelIso = $(this).attr("value"),
+                            currencyHTML = $(this).html();
+
+                        // Check with remaining currency are available (all currency - current one)
+                        // and generate the listing with the remaining options
+                        QLJS.remainingCurrenciesDropdown(currencySelIso, selectableCurrencies);
+
+
+                        if ( document.location.href.indexOf('/basket') > -1 || $(".empty-minicart").length === 0) {
+                            QLJS.ajaxCurrency(currencySelIso, true);
+                        }else{
+                            QLJS.changePrices(currencySelIso, selectableCurrencies);
+                            //changes all other selects to the new currency
+                            $(".currency-select").not(this).val(currencySelIso).selectpicker('refresh');
+                            $(".selected-currency").each(function () {
+                                $(this).html('<span class="'+ currencySelIso +' currency-item" value="'+ currencySelIso +'">'+currencyHTML+'</span>');
+                            });
+                        }
+
+                        // If it's currency modal
+                        if( $(this).parents('#genericCurModal') ) {
+                            // If a currency is selected, setting the currency is already taken care of
+                            // so dismiss the modal
+                            $('.currency-list.in-modal').hide(); // for visual transition
+                            $('#genericCurModal').modal('hide');
+                        }
+                    });
+
+                    
+                
+                
+            
+        });
+
+    </script>
+
+</div>
+
+			
+				
+
+<div id="genericCurModal" class="modal modal--currency fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"></button>
+        <div class="modal-title text-center">Choose your currency</div>
+      </div>
+      <div class="modal-body text-center">
+        <p>You can now pay in Euros &amp; Dollars at Office.co.uk <br> Please select the currency you wish to shop in.</p>
+          <div class="row mt15">
+            <ul class="currency-list in-modal">
+            </ul>
+          </div>
+      </div>
+    </div>
+  </div>
+</div>
 				
 		</div>
 	</div>
@@ -1886,8 +2517,8 @@ $(document).bind('close.facebox', function(e) {
 </div>
 
         <!--Optimization is ON -->
-	   <script async="" src="//media.office.co.uk/_ui/responsive/site-office/../common/js/office-responsive-footer-min.js?version=2.14.1"></script>
-	  
+	   <script async="" src="//media.office.co.uk/_ui/responsive/site-office/../common/js/office-responsive-footer-min.js?version=3.5"></script>
+
 	<script type="text/javascript">try {var __scP=(document.location.protocol=="https:")?"https://":"http://";var __scS=document.createElement("script");__scS.type="text/javascript";__scS.async=true;__scS.src=__scP+"d16fk4ms6rqz1v.cloudfront.net/capture/OFFICE.js";document.getElementsByTagName("head")[0].appendChild(__scS);}catch(e){}</script>
 
         <div class="mobile-menu-overlay"></div>
