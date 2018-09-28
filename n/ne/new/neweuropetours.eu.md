@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neweuropetours.eu privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607055633id_/http%3A//www.neweuropetours.eu/main/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neweuropetours.eu privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928200235id_/http%3A//www.neweuropetours.eu/main/en/privacy-policy) for the most accurate reproduction.*
 
 # SANDEMANs NEW Europe - Privacy Policy
 
@@ -10,7 +10,7 @@ By visiting our website certain information is transmitted to us, for example IP
 
  **Booking and payment policy:**
 
-Whilst booking a tour on neweuropetours.eu, you’ll be asked to provide some personal information that will be collected through our booking platform ([Trekksoft](https://www.trekksoft.com/)), in order to administer your bookings and ensure you get the best service possible. Names, preferred contact details, and information about your booking are the main details you will be asked for. In the case of online payment, your personal data will be processed via our Payment Gateway provider, [Trekkpay](https://www.trekkpay.io/).
+Whilst booking a tour on neweuropetours.eu, you’ll be asked to provide some personal information that will be collected through our booking platform ([Trekksoft](https://www.trekksoft.com/)), in order to administer your bookings and ensure you get the best service possible. Names, preferred contact details, and information about your booking are the main details you will be asked for. You'll also be asked to provide some personal data about your travel habits, which may be used for marketing research (i.e., country of origin, age, the kind of traveler you are, how you heard about us, if you've been on one of our tours already, where you are heading after your SANDEMANs tour). The data processed for marketing research is strictly anonymised before being processed by our marketing and development department. In the case of online payment, your personal data will be processed via our Payment Gateway provider, [Trekkpay](https://www.trekkpay.io/).
 
  **Third Parties policy:**
 
@@ -36,7 +36,7 @@ For fraud detection and prevention purposes, and as strictly necessary, we may a
 
  **Accessing or changing your personal data:**
 
-You always have the right to review the personal data we keep about you. You can request an overview of your personal data by emailing us at  [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Please write ‘Request personal data’ in the subject line of your email. If the personal data we have for you is incorrect, we will update it at your request. You can also ask us to remove your personal data from our database by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) with ‘Request for removal of personal data’ in the subject line. However, we may need to retain certain information, for example for legal or administrative purposes, such as record keeping or to detect fraudulent activities.
+You always have the right to review the personal data we keep about you. You can request an overview of your personal data by emailing us at  privacy@neweuropetours.eu. Please write ‘Request personal data’ in the subject line of your email. If the personal data we have for you is incorrect, we will update it at your request. You can also ask us to remove your personal data from our database by sending an email to privacy@neweuropetours.eu with ‘Request for removal of personal data’ in the subject line. However, we may need to retain certain information, for example for legal or administrative purposes, such as record keeping or to detect fraudulent activities.
 
  **Cookies:**
 
