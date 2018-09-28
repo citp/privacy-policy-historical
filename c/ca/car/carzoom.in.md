@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carzoom.in privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624042458id_/http%3A//carzoom.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carzoom.in privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928192255id_/http%3A//carzoom.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Carzoom.in | Car Zoom
 
@@ -12,7 +12,7 @@ But, in case, if you register with the CarZoom and take part in its various acti
 
 Further, in case, you are connecting with CarZoom via any social networking site like facebook, twitter, linked-in etc then we are free to collect your profile information from that particular site and not liable for the same.
 
-**Note:** We respect our visitors/users rights and support “Right to be forgotten”. If you think you’ve ever shared your contact details with us & want us to remove that info, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9cf5f2faf3dcfffdeee6f3f3f1b2f5f2).
+**Note:** We respect our visitors/users rights and support “Right to be forgotten”. If you think you’ve ever shared your contact details with us & want us to remove that info, please contact us at [info@carzoom.in](mailto:info@carzoom.in).
 
 ### What about IP addresses?
 
