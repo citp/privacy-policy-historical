@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ethnicelebs.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517011641id_/http%3A//ethnicelebs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethnicelebs.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928101049id_/http%3A//ethnicelebs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Ethnicity of Celebs | What Nationality Background Ancestry Race
+# Privacy Policy — Ethnicity of Celebs | What Nationality Ancestry Race
 
 **ETHNICELEBS.COM PRIVACY POLICY**
 
@@ -41,9 +41,59 @@ We may use your information to:
 
 
 
+#### Processing Personal Data
+
+“Personal Data” is any information that may directly or indirectly identify you.
+
+“Processing” of this information refers to collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.
+
+A “Data Controller” is a person who is responsible for processing personal data and determining the purpose and methods of processing it. For CelebHeights.com, the data controller is Rob Paul.
+
+By visiting and using this site, you consent to the Processing of your Personal Data as described in this Privacy Policy.
+
+#### Personal Information We Collect and Usage
+
+**Access Logs:**  
+The Web Server stores logs of each request, in the form of an IP address, URL/file, User Agent and timestamp. This is necessary for diagnostic, management and site improvement purposes. These logs are purged from the server on a Daily basis.
+
+**Unauthorised Access Logs:**  
+The Web Server stores logs of any attempts to access restricted services. This includes IP address, a timestamp and type of attempted intrusion. Under the Computer Misuse act, these type of attempts are illegal, and as such, logs may be used as evidence in a court of law.
+
+**Visitor Comments and Votes**  
+The Web server stores data supplied by visitors who submit public comments.
+
+This information is used to identify commenters and prevent abuse of the website, by storing a Username, Email and IP address in our database. Comments are stored with a submission date, username and IP address.
+
+Email addresses are never published. We only display the Comment, date of submission and the Username.
+
+If you contact us by email, a record of our correspondence will be kept.
+
+#### Information Sharing
+
+We may disclose your personal data when necessary in order to comply with a legal requirement, or to protect your vital interest or the vital interests of others.
+
+We use 3rd Party services for Website analytics and Website advertising:
+
+A cookie is a small textual file, stored by the visitor’s browser on behalf of a website to let us recognise and remember you. It has an expiry date.
+
+**Google Analytics (GA)**  
+We use GA to track interaction, like number of visits, pages viewed, to help understand how the site engages with visitors, and to help maintain and improve the experience. GA is also used in order to show visitors an accurate portrayal of the most popular celebrities on the site.  
+Although GA records data such as an approximate geographical location, device, browser and operating system, none of this information personally identifies you to us. We set a flag – “[anonymizeIp](https://support.google.com/analytics/answer/2763052?hl=en&ref_topic=2919631)” – which requests GA to anonymize all IP addresses. [More Information](http://www.google.co.uk/intl/en/analytics/privacyoverview.html). To opt-out of Google Analytics tracking, visit: <https://tools.google.com/dlpage/gaoptout> to get an add-on, that opts you out.
+
+We also use Google Custom Search to help visitors find content on the site. It uses cookies to display ads.
+
+**Google Adsense**  
+Google uses cookies to serve ads based on a user’s prior visits to celebheights.com or other websites. Google’s use of advertising cookies enables it and [its partners](https://policies.google.com/privacy/partners) to serve relevant adverts to you, based on visits to this site and/or other sites on the Internet.  
+**Within the European Economic Area:**  We display Non-Personalised ads which may be based on the topic of a page or a general geographical area. Adsense non-personalised cookies are needed for frequency capping, aggregated reporting (statistics) and to help combat fraud and abuse of the Adsense Network.  
+Google lets you manage preferences and whether to receive google ads on the web or not – <https://www.google.com/ads/preferences/>
+
+**[Google’s Privacy and Terms](https://www.google.com/policies/technologies/partner-sites/)**
+
 **5.   Accessing, Editing, and Removing Your Information**
 
 Users may in some cases be able to review and edit the personal information they have provided to us by logging into your account on the Site and editing their account.  Although most changes may occur immediately, information may still be stored in a web browser’s cache.  We take no responsibility for stored information in your cache, or in other devices that may store information, and disclaim all liability of such.  In addition, we may, from time to time, retain residual information about you in our backup and/or database.
+
+You may request a copy of your data stored in the WordPress database (comments etc.) by contacting the [website admin](http://ethnicelebs.com/contact-admin).
 
 **6.   Cookies**
 
@@ -81,4 +131,4 @@ Your information may be transferred to – and maintained on – computers locat
 
 We may amend this Privacy Policy from time to time.  When we amend this Privacy Policy, we will update this page.  You must read this page each time you use our Service, and your continued use of our Service constitutes your acceptance of any such amendments.
 
-Last Modified:  June 27, 2013
+Last Modified:  May 25, 2018
