@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the motog3.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621184312id_/https%3A//motog5.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motog3.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929015327id_/https%3A//motog5.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Moto G5
 
 Moto G5 Blog (" **Moto G5** ") operates motog5.net and may operate other websites. It is Moto G5's policy to respect your privacy regarding any information we may collect while operating our websites.
 
