@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fs.com privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505224623id_/https%3A//www.fs.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fs.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928094537id_/https%3A//www.fs.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | FS.COM
 
