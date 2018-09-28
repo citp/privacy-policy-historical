@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insideevs.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612221647id_/https%3A//insideevs.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insideevs.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928075347id_/https%3A//insideevs.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
