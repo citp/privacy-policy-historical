@@ -1,171 +1,115 @@
-> *The following text is extracted and transformed from the azmind.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171705id_/http%3A//azmind.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azmind.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928152509id_/http%3A//azmind.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AZMIND
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+At azmind.com (this site) we recognize that privacy of your personal information is important. Here you can see what types of personal information we receive and collect when you use and visit this site, and how we safeguard your information. We never sell your personal information to third parties.
 
-**What personal information do we collect from the people that visit our blog, website or app?**
+### Who we are
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.
+Our website address is: https://azmind.com. This site is run by Anli Zaimi a web designer and developer based in Turin, Italy. You can conact us at **contact.azmind@gmail.com**.
 
-**When do we collect information?**
+### What personal data we collect and why we collect it
 
-We collect information from you when you place an order, subscribe to a newsletter, fill out a form or enter information on our site.
+#### Comments
 
-**How do we use your information?**
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-  * To quickly process your transactions.
-  * To send periodic emails regarding your order or other products and services.
+We do not collect your email address from the comments form for use in any email list, such as a newsletter or marketing email list. We also never sell email addresses to third parties.
 
+#### Media
 
+Users are not able to upload images or other media files to this website.
 
-**How do we protect your information?**
+#### Contact forms
 
-We do not use vulnerability scanning and/or scanning to PCI standards.  
-We only provide articles and information. We never ask for credit card numbers.  
-We use regular Malware Scanning.
+This website does not have contact forms. You can contact us using the email address above.
 
-We do not use an SSL certificate. We do not need an SSL because:
+#### Email newsletter
 
-We don’t ask credit card numbers. We use PayPal (paypal.com) for selling our digital products.
+We have an email newsletter in this site where we send you updates when we release new themes, tutorials, freebies or articles. We also send freebies available only to email subscribers. You are free to subscribe to the newsletter or not.
 
-**Do we use ‘cookies’?**
+When you subscribe, we save your email address and IP (internet protocol) address. You can see, edit and/or delete all this data from the links at the bottom of each email we send you, or by contacting us at the email address above.
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+We also collect view and click tracking for the newsletters we send, to learn what our users like more. You can edit or disable view and click tracking from the “Preferences” link at the bottom of each email we send you, or by contacting us at the email address above.
 
-**We use cookies to:**
+In any case, we don’t sell or share this data.
 
-Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
+We use a third party service to store this data and to send the newsletters. The service is “Mad Mimi” and their privacy policy can be found [on their site](https://madmimi.com/).
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
+#### Easy Digital Downloads (for purchases on this site)
 
-If you turn cookies off, some features will be disabled. It won’t affect the user’s experience that make your site experience more efficient and some of our services will not function properly.
+We may use a plugin called “Easy Digital Downloads” if/when we sell something (themes, templates) directly from this site. During the purchase, we save your name, email address, location and traffic data (IP address, browser type), and any other details requested only for the purpose of processing your order.
 
-However, you will still be able to place orders.
+We never sell or share this data.
 
-**Third-party disclosure**
+You can request to see, edit and/or delete this data by contacting us at this email address: contact.azmind@gmail.com.
 
-We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it’s release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property or safety.
+#### Log Files
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+As with most other websites, we collect and use the data contained in log files. The information in the log files includes your IP (internet protocol) address, your ISP (internet service provider), the browser you used to visit our site (Internet Explorer, Chrome, etc.), the time you visited our site and which pages you visited throughout our site.
 
-**Third-party links**
+#### Cookies
 
-Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Here is our [Cookie policy](https://azmind.com/cookie-policy/).
 
-**Google**
+#### Embedded content from other websites
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
-We use Google AdSense Advertising on our website.
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
 
-Google, as a third-party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
+#### Analytics
 
-**We have implemented the following:**
+As you use this site, we use automatic data collection technology (Google Analytics) to collect certain information about your device, browsing actions, and patterns. This generally includes information about where you are, how you use our website, and any communications between your computer and this site. Among other things, we will collect data about the type of computer you use, your Internet connection, your IP address, your operating system, and your browser type.
 
-  * Remarketing with Google AdSense
+We collect this data for statistical purposes and we don’t collect personal information. The purpose of this data is to improve our site and offerings.
 
+If you want to opt out of Google Analytics so that none of your personal information is collected and stored by Google Analytics, you can [download and install the Google Analytics Opt-out Browser Add-on here](https://tools.google.com/dlpage/gaoptout). For more information on how Google collects and uses your data, you can [see the Google Privacy Policy here](https://policies.google.com/privacy?hl=en).
 
+### Who we share your data with
 
-We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
+We don’t sell or share your data with anyone. As we said above, we use a third party service called “Mad Mimi” for the email newsletter, if you voluntarily subscribed for our email newsletter. Read above to learn more.
 
-Opting out:
+### How long we retain your data
 
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
 
-**California Online Privacy Protection Act**
+Users can’t register on our website.
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+If you subscribe to our newsletter, we retain the data indefinitely, or at least until you modify or delete them (unsubscribe from the newsletter).
 
-**According to CalOPPA, we agree to the following:**
+If you make a purchase directly on this site, we retain the data indefinitely, or at least until you modify or delete it.
 
-Users can visit our site anonymously.
+### What rights you have over your data
 
-Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.
+If you have left comments or have subscribed to our email newsletter, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
-Our Privacy Policy link includes the word ‘Privacy’ and can easily be found on the page specified above.
+You can make your requests by contacting us at this email address: contact.azmind@gmail.com.
 
-You will be notified of any Privacy Policy changes:
+For the email newsletter you can modify or delete your data from the links at the bottom of each email we send you, or by contacting us at the email address above.
 
-  * On our Privacy Policy Page
+If you make a purchase directly on this site, you can modify or delete your data by contacting us at the email address above.
 
+### Where we send your data
 
+Visitor comments are checked through an automated spam detection service called Akismet by Automattic Inc. Akismet collects information about visitors who comment on sites that use the Akismet anti-spam service. The information Akismet collects typically includes the commenter’s IP address, user agent, referrer, and Site URL (along with other information directly provided by the commenter such as their name, username, email address, and the comment itself). You can see [Akismet’s privacy policy here](https://automattic.com/privacy/).
 
-Can change your personal information:
+For the email newsletter we use a third party service to store the users’ data (email and IP) and to send the newsletters. The service is called “Mad Mimi” and their privacy policy can be found [on their site](https://madmimi.com/).
 
-  * By emailing us
+### Our contact information
 
+For questions about your data and how we use it, you can contact us at **contact.azmind@gmail.com**. You can also email us here if you want an extract of all your personal information stored on this website or to request that we delete all of your information stored on this website.
 
+### Additional information
 
-**How does our site handle Do Not Track signals?**
+#### How we protect your data
 
-We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+We use HTTP Secure (HTTPS) for secure communication between you and this site. You can [read more about HTTPS here](https://en.wikipedia.org/wiki/HTTPS).
 
-**Does our site allow third-party behavioral tracking?**
+We never sell or share your data.
 
-It’s also important to note that we allow third-party behavioral tracking
+————–
 
-**COPPA (Children Online Privacy Protection Act)**
-
-When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
-
-We do not specifically market to children under the age of 13 years old.
-
-**Fair Information Practices**
-
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
-
-**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
-
-We will notify you via email
-
-  * Within 7 business days
-
-
-
-We will notify the users via in-site notification
-
-  * Within 7 business days
-
-
-
-We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
-
-**CAN SPAM Act**
-
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
-
-We collect your email address in order to:
-
-  * Send information, respond to inquiries, and/or other requests or questions
-  * Process orders and to send information and updates pertaining to orders.
-  * Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
-
-
-
-To be in accordance with CANSPAM, we agree to the following:
-
-  * Not use false or misleading subjects or email addresses.
-  * Identify the message as an advertisement in some reasonable way.
-  * Include the physical address of our business or site headquarters.
-  * Monitor third-party email marketing services for compliance, if one is used.
-  * Honor opt-out/unsubscribe requests quickly.
-  * Allow users to unsubscribe by using the link at the bottom of each email.
-
-
-
-If at any time you would like to unsubscribe from receiving future emails, you can email us at contact.azmind@gmail.com and we will promptly remove you from ALL correspondence.
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy, you may contact us using the information below.
-
-azmind.com  
-Via Matera 10136  
-Turin, TO  
-Italy  
-contact.azmind@gmail.com
-
-Last Edited on 2016-11-21
+Last Edited on May 29, 2018
