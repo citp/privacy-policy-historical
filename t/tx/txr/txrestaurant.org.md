@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the txrestaurant.org privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915212713id_/https%3A//www.txrestaurant.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txrestaurant.org privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928141611id_/https%3A//www.txrestaurant.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Texas Restaurant Association
 
