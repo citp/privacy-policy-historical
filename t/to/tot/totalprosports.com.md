@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalprosports.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612100629id_/http%3A//www.totalprosports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalprosports.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928032942id_/https%3A//www.totalprosports.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy 1 | Total Pro Sports | Total Pro Sports
 
@@ -77,5 +77,3 @@ If you decide to visit Total Pro Sports website, your visit and any possible di
 This Privacy Policy is effective as of July 18, 2012 and last updated July 18, 2012.
 
 Share This
-
-The 15 Most HATED NFL Players
