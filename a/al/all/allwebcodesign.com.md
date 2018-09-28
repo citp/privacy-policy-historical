@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allwebcodesign.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221115002id_/http%3A//allwebcodesign.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allwebcodesign.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928135823id_/https%3A//allwebcodesign.com/privacy.htm) for the most accurate reproduction.*
 
 # Allwebco Design Corporation Privacy Policy
 
@@ -22,12 +22,12 @@ You may decide to disable all the Doubleclick Cookies by clicking on: [google.co
 
 Allwebco Design Corporation is not a subsidiary of, or affiliated with Google Inc. other than using their AdSense program for advertisements. All Google ad content and cookies are controlled by and served by Google. 
 
-[](http://allwebcodesign.com/setup/index.htm)
+[](https://web.archive.org/web/20180928135823id_/https%3A//allwebcodesign.com/setup/index.htm)
 
 |    
 
 
-  * [Included features](https://web.archive.org/web/20171221115002id_/http%3A//allwebcodesign.com/features-home.htm)
+  * [Included features](https://web.archive.org/web/20180928135823id_/https%3A//allwebcodesign.com/features-home.htm)
   * [Step by step instructions](http://allwebcodesign.com/templates-adsense/tempT27BG/help.html)
   * Use any HTML or text editor
   * Works with many [free editors](http://www.allwebco-templates.com/support/S_HTML_software.htm)
@@ -54,7 +54,7 @@ Allwebco Design Corporation is not a subsidiary of, or affiliated with Google In
 
 [Click here to get started now  
   
-](http://allwebcodesign.com/setup/templates.htm)
+](https://web.archive.org/web/20180928135823id_/https%3A//allwebcodesign.com/setup/templates.htm)
 
 No monthly fees  
 No special software required  
