@@ -1,172 +1,178 @@
-> *The following text is extracted and transformed from the thegadgetflow.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711160521id_/https%3A//thegadgetflow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegadgetflow.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928232452id_/https%3A//thegadgetflow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Gadget Flow
 
-Last Revised: December 11, 2015
+**Gadget Flow Privacy Notice**
 
-**Our commitment to Privacy**
+**_Last Revised:_** _June 12, 2018_
 
-Protecting your privacy and your information is a top priority for Gadget Flow. The purpose of this Privacy Policy to explain how your personal and business information that you provide to us (collectively “Information”) is protected, what information is collected and how it is used by Gadget Flow. Those Privacy Policy provisions are part of our [TOU](https://thegadgetflow.com/terms-of-use/).
+## **Our commitment to Privacy**
 
-By visiting our Website and Webapp (collectively “Website”), Visitors, Users and Customers (collectively “You”) consent to our collection and use of your Information in accordance with this Privacy Policy and you are accepting the practices described herein. We do not transfer, sell or rent your business information to third parties in any way other than what it is stated in this Privacy Policy.
+Protecting your privacy and your information is a top priority here at Gadget Flow Inc. (“[Gadget Flow](http://thegadgetflow.com/)” “we”, “us” or “ours”). This Privacy Notice explains what information we collect from website visitors and users of our services (“You”), how we use it, who we share it with and how we protect it.
 
-Please note that your access to our Services may be subject to certain third party terms and conditions and privacy policies, including but not limited to third party online storage services and payment providers. You agree that Gadget Flow is not responsible for any such third party terms and conditions and their use of your Information. Unless stated otherwise, this Privacy Policy only deals with the use and communication of information collected by Gadget Flow.
+Please note that your access to our Services and Website may be subject to certain third party terms and conditions and privacy policies, including but not limited to third party online storage services and payment providers. Unless stated otherwise, this Privacy Notice only deals with the use of information collected by Gadget Flow. You acknowledge that Gadget Flow is not responsible for any such third party terms and conditions and their use of your information.
 
-**What information is collected  **
+This Privacy Notice should be read alongside our [TOU](https://thegadgetflow.com/terms-of-use/). Capitalized terms in this Privacy Notice have the meanings as set forth in our TOU. 
 
-i) We collect the following Information from you:
+If you are under 16 years of age you must obtain parental consent before using the Website.
 
-  1. **Visitors**
+## **What information do we collect and what do we use it for?  **
 
+The information that we collect about you will depend on whether you are a User or a Customer of ours. 
 
+**Users  **
 
-We do not collect any kind of Information from our Visitors.
+Only registered Users may access the special features of our Services (exclusive discounts, deals and custom feed features). You can register through our Website or through our iOS or Android Apps. During the registration process, you will provide us with the following information:
 
-  1. **Users**
-
-
-
-Registration is required for the use of our Services. Only registered Uses have access to the special features of our Services.  You can register through our Website by filling in a registration form. During the registration process, you have to provide us with the following information:
-
-  * Your username
-  * Your e-mail
-  * Your password
+  * Your First name
+  * Your Email Address
+  * Your Password
+  * Your Favorite Product Categories
 
 
 
 **Customers**
 
-Registration is required for the use of our Services. Only registered Customers can post their Products on our Platform.  You can register through our Website by filling in a registration form. During the registration process, you have to provide us with the following information:
+Only registered Customers can post their Products on our Platform. You can register through our Website by filling in a registration form. During the registration process, you have to provide us with the following information:
 
   * Your full name
   * Your e-mail
   * Your Product title
   * Your Product link
   * Your Product description
-
-
-
-You will be asked to provide further the following Information:
-
+  * You will be asked to provide further the following information:
   * Photos of your Product
   * A video of your Product
 
 
 
-The purpose of our request of this additional information is promote your Product to our social media partners.
+The purpose of our request of this additional information is promote your Product to our Users via the website and social media.
 
-Users and Customers have the obligation to state truthfully, accurately and fully your up-to-date Information in the registration process. If your Information is not in compliance with these provisions or if Gadget Flow has reasonable suspicions that your Information is not in accordance with these provisions, Gadget Flow has the right to reject your application for registration or to suspend or terminate immediately your Account without prior notice. You agree that you have no right to any compensation for the rejection of your application.
+Users and Customers have the obligation to state truthfully, accurately and fully your up-to-date information in the registration process. If your information is not in compliance with these provisions or if Gadget Flow has reasonable suspicions that your information is not in accordance with these provisions, Gadget Flow has the right to reject your application for registration or to suspend or terminate immediately your Account without prior notice. You agree that you have no right to any compensation for the rejection of your application.
 
-**ii)** **Other Information**
+**Activity and behavior information:** We collect information about your activity and behaviour on the Website, such as your posts of any kind and/or the Products that you submit. We also collect our Visitors’ and Users’ reviews about you.
 
-**Web-navigation data and IP addresses  **
+**Posted Comments:** Should you choose to add a comment to any posts that we have published on our Website or blog, your name and email address will be saved to the Website’s database, along with your computer device’s IP address as well as the time and date that you submitted the comment. This information is only used to identify you as a contributor to the comment section of the respective blog post. Only your name will be shown on the Website although if the supplied email address is linked to a [Gravatar](http://en.gravatar.com/) account, your Gravatar photo will also be displayed. Your comments and any associated personal data will remain on the Website until we decide to 1) remove the comment or 2) remove the blog post. 
 
-We automatically track and collect certain non-personal information such as Website navigation data and IP addresses. We use this information to do internal research on our Users’ and Customers’ demographics, interest, and behavior to better understand, protect and serve you and our community.
+_NOTE: You are advised to not enter personally identifiable information in the actual comment field of any blog post comments that you submit on our Website._
 
-**Activity and behaviour information**
+**Correspondence information:** If you send us personal correspondence, such as emails or letters or third parties send us correspondence about your activities or postings on our Website, we may store such information in our servers.
 
-We collect information about your activity and behaviour on the Website, such as your posts of any kind and/or the Products that you submit. We also collect our Visitors’ and Users’ reviews about you.
+**Website visitation tracking:** Our Website uses google analytics (“GA”) to track our Users’ interaction. We use the data to determine the number of people using our Website, to better understand how they locate and use our web pages. Although GA records data such as your geographical location, device, internet browser and operating system, none of this information personally identifies you to Gadget Flow. GA also records your computer device’s IP address which could be used to personally identify you but Google do not grant us access to this. 
 
-**Correspondence information**
+**Contact forms and email links:** Should you choose to contact us via the contact form at our contact us page or an email link, none of the data that you provide will be stored in the Website or passed to / be processed by any of the Third Party Data Processors. The data will be compiled into an email and sent to us over the [Simple Mail Transfer Protocol (SMTP)](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol). Our SMTP servers are protected by [TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) (also known as SSL) meaning that the email content is encrypted using [SHA-2](https://en.wikipedia.org/wiki/SHA-2), 256-bit cryptography. The email content is then decrypted by our local computers and devices.
 
-If you send us personal correspondence, such as emails or letters or third parties send us correspondence about your activities or postings on our Website, we may store such information in our servers.
+**Newsletters:** If you are a registered user at our Website, you may receive daily or weekly newsletters from us. If you subscribe to our newsletter, your e-mail address will be forwarded to Campaign Monitor, a third party, for marketing purposes. Your e-mail address shall be saved in Campaign Monitor’s database for as long as we continue to use Campaign Monitor’s services for marketing purposes. You may request removal of your e-mail address from Campaign Monitor’s list. You can do this by using the unsubscribe links included in our newsletter.
 
-**Payment Information**
+**Other uses of your information:** In addition to the purposes listed above, we may also use your information as follows:
 
-To protect you against fraud, unauthorized transactions (such as money laundering), claims and other liabilities, we do not collect credit card information.
+  * in order to resolve disputes; 
+  * troubleshoot problems; 
+  * help promote your Product; 
+  * measure consumer interest in Services; 
+  * inform you about offers, products, services, and updates; 
+  * customize your experience; 
+  * detect and protect us against error, fraud and other criminal activity; 
+  * enforce our [TOU](https://thegadgetflow.com/terms-of-use/); and as otherwise described to you at the time of collection. 
+  * At times, we may look across multiple Customers to identify problems or resolve disputes, and in particular we may examine your information to identify Users using multiple usernames or aliases. We may compare and review your information for errors, omissions and for accuracy.
+  * We may use Users’ information in order to provide benchmark analysis and aggregate statistics to Customers based on the performance of their Products. This particular information will be anonymized, will not contain personal identification and will not be transferred or sold to third parties in any way or format that identifies you.
 
-We allow our third party payment vendor to collect information for the purpose of collecting fees from our Customers on the Website. We do not have access to the payment information that you provide to our third party payment vendor and this information is subject to the privacy policy of the third party payment vendor. For more information regarding what payment information our third party payment vendor collects and how it uses this information, [please read their privacy policy](https://www.paypalobjects.com/webstatic/en_CA/ua/pdf/ints/privacy.pdf).
 
-You consent to our access to and collection of such information described as above under clause 2.
 
-**How the information is used**
+Note: We do not transfer, sell or rent your information to third parties for their marketing purposes other than what is stated in this Privacy Notice. We request only the information that we need to operate our Services and improve our Website’s user experience. We do not use your information to create any advertising creative.
 
-We treat all Information according to US law.
+## **Who do we share your personal information with?**
 
-We use your Information as follows:
+We may disclose your personal information to the following categories of recipients:
 
-– We use your Information in order to resolve disputes; troubleshoot problems; help promote your Product; measure consumer interest in Services; inform you about offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our [TOU](https://thegadgetflow.com/terms-of-use/); and as otherwise described to you at the time of collection. At times, we may look across multiple Customers to identify problems or resolve disputes, and in particular we may examine your Information to identify Users using multiple usernames or aliases. We may compare and review your Information for errors, omissions and for accuracy.
+  * to our group companies, third party services providers and partners who provide data processing services to us (for example, to support the delivery of, provide functionality on, or help to enhance the security of our Website), or who otherwise process personal information for purposes that are described in this Privacy Notice or notified to you when we collect your personal information. 
+  * to any competent law enforcement body, regulatory, government agency, court or other third party where we believe disclosure is necessary (i) as a matter of applicable law or regulation, (ii) to exercise, establish or defend our legal rights, or (iii) to protect your vital interests or those of any other person;
+  * to an actual or potential buyer (and its agents and advisers) in connection with any actual or proposed purchase, merger or acquisition of any part of our business, provided that we inform the buyer it must use your personal information only for the purposes disclosed in this Privacy Notice;
+  * to any other person with your consent to the disclosure.  ****
 
-– We use your e-mail to send you system e-mails about the functionality of our Website that you cannot opt out from and you will have to receive if you want to use our Website. If you want to stop receiving our system e-mails, you will have to stop using our Services or de-activate your Account by e-mailing us at support@thegadgetflow.com.
 
-We use the e-mail that you provided us, in order to send you newsletters and promotions in conjunction with your use of our Services. If you do not wish to receive newsletters you may unsubscribe by clicking the unsubscribe link in the next newsletter you will receive.
 
-– We may use Users’ Information in order to provide benchmark analysis and aggregate statistics to Customers based on the performance of their Products. This particular Information will be anonymized, will not contain personal identification and will not be transferred or sold to third parties in any way or format that identifies you.
+## **How do we protect your information?**
 
-– We use Website navigation data to operate and improve the Website. We may also use Website navigation data alone or in combination with your Information to provide aggregated information about Gadget Flow.
+– Customers understand and agree that their information can be accessed by the Visitors and Users of our Website. Although Gadget Flow makes reasonable efforts to restrict access to the above mentioned information only to our registered Users, Gadget Flow can not guarantee that other third parties will not, without Gadget Flow’s consent, gain access to it.
 
-– We collect the Internet Protocol (“IP”) addresses to track and aggregate your non-personal information when you use our Website. We use IP addresses to monitor the regions from which you navigate our Website and sign-up to use our Services. Your IP-address is also registered for statistical purposes and to better our advertising and layout of the Website.
-
-We do not transfer, sell or rent your Information to third parties for their marketing purposes other than what is stated in this Privacy Policy. We request only the Information that we need to operate our Services and improve our Website’s user experience. We do not use your Information to create any advertising creative.
-
-Use of Information by third parties
-
-– We partner with third-party advertising networks to either display advertising on our Website or to manage our advertising on other Websites. These ad network partners do not collect and do not have access to any Information. They may, however, anonymously track your internet usage.
-
-– We make reasonable efforts to make sure that Users and Customers who use our Services, will use the information available to them solely for our Services’ purposes. However, we can not control their use of that information outside this scope and we are not responsible for such unauthorized uses.
-
-– We share our Customers’ Products’ photos and video with our social media partners for promotional purposes. You consent to this use of your Information. If you would like to opt-out from sharing your Products’ photos and video, please e-mail us at hello@thegadgetflow.com.
-
-– Gadget Flow reserves its right to share your Information with a third party in case of sale merger, control changes, reorganization or liquidation of the company, Gadget Flow Inc., its subsidiaries or branches. All actions will naturally be completed in compliance with applicable laws of personal data and privacy.
-
-All the information, described in this clause 3, will be disclosed in accordance with applicable laws and regulations. We do not use your Information in any other context other than the one described in our [TOU](https://thegadgetflow.com/terms-of-use/) and Privacy Policy.
-
-**How your information is protected**
-
-– Customers understand and agree that their Information can be accessed by the Visitors and Users of our Website. You further agree that Gadget Flow and its associated companies may use that Information for marketing and promotional purposes which may be directed to our Users. Although Gadget Flow makes reasonable efforts to restrict access to the above mentioned information only to our registered Users, Gadget Flow can not guarantee that other third parties will not, without Gadget Flow’s consent, gain access to it.
-
-– You may ask Gadget Flow to remove your Product from the Website and thus disable access to your Information by Visitors and Users at any time. However, you acknowledge that the Visitors, Users and other parties who have previously gained access to your Information may have retained a copy. Gadget Flow is not responsible for the retention, use or violation of privacy of that information in those instances, or for the use or privacy of that information by any of such parties while it is available on our Website.
+– You may ask Gadget Flow to remove your Product from the Website and thus disable access to your information by Visitors and Users at any time. However, you acknowledge that the Visitors, Users and other parties who have previously gained access to your information may have retained a copy. Gadget Flow is not responsible for the retention, use or violation of privacy of that information in those instances, or for the use or privacy of that information by any of such parties while it is available on our Website.
 
 –  All our employees, independent contractors and agents have executed non-disclosure agreements, which provide explicit confidentiality protections. Any employee, independent contractor or agent who violates such privacy and/or security policies is subject to possible termination and civil and/or criminal prosecution.
 
-– We do not make any of your Information available to third parties for their marketing purposes. Gadget Flow’s software runs on individual servers and no data given or collected is shared with other social media platforms.
+– We do not make any of your information available to third parties for their marketing purposes. Gadget Flow’s software runs on individual servers and no data given or collected is shared with other social media platforms. If however, we share your information with third parties, we will notify you. Please note that no transmission over the internet can guarantee confidentiality and non-disclosure, and as such, you transmit at your own risk.
 
-– If however, we share your Information with third parties, we will notify you. Please note that no transmission over the internet can guarantee confidentiality and non-disclosure, and as such, you transmit at your own risk.
+– Gadget Flow uses robust security measures to protect data from unauthorized access, maintain data accuracy, and help ensure the appropriate use of data. When the Services are accessed using the internet, Secure Socket Layer (SSL) technology protects your information, using both server authentication and data encryption. These technologies help ensure that your information is safe, secure, and only available to you and to whom you have granted access. Gadget Flow also implements other advanced technology measures to prevent interference or access from outside intruders.
 
-– Gadget Flow uses robust security measures to protect data from unauthorized access, maintain data accuracy, and help ensure the appropriate use of data. When the Services are accessed using the internet, Secure Socket Layer (SSL) technology protects your Information, using both server authentication and data encryption. These technologies help ensure that your Information is safe, secure, and only available to you and to whom you have granted access. Gadget Flow also implements other advanced technology measures to prevent interference or access from outside intruders.
+– All traffic (transferral of files) between the Website and your browser is encrypted and delivered over [HTTPS](https://en.wikipedia.org/wiki/HTTPS).
 
 – We do not tolerate Spam. To report Gadget Flow-related spam please contact us at support@thegadgetflow.com. You may not use our communication tools to send spam or otherwise send content that would violate our [TOU](https://thegadgetflow.com/terms-of-use/). We may check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content of the Website, but we will not permanently store messages sent through these tools.
 
-– Gadget Flow does its utmost to secure communications and data storage in order to protect confidentiality of your Information against loss and interception by third parties. However, it is important to know that there is no zero-risk against loss or interception by others of your Information. You are responsible for maintaining the security and confidentiality of your Account’s username and password.
+– Gadget Flow does its utmost to secure communications and data storage in order to protect confidentiality of your information against loss and interception by third parties. However, it is important to know that there is no zero-risk against loss or interception by others of your information. You are responsible for maintaining the security and confidentiality of your Account’s username and password.
 
-**How the information is stored**
+## ******Cookies and similar tracking technology  **
 
-We save your Information in our database in order to improve our Website’s and user experience and in accordance with our [TOU](https://thegadgetflow.com/terms-of-use/). If you wish that your Information be permanently deleted from our database when you stop using our Services, please notify us at [support@thegadgetflow.com](mailto:support@thegadgetflow.com).
+We use cookies and similar tracking technology (collectively, “Cookies”) to collect and use personal information about you. For further information about the types of Cookies we use, why, and how you can control Cookies, please see our Cookie Notice [link].
 
-Gadget Flow is a United States (US) company. If you are located outside the US and choose to provide information to us, Gadget Flow transfers your Information to our servers in the US. The US may not have the same data protection laws as the country in which you initially provided the Information. When we transfer your Information to the US, we will protect it as described in this Privacy Policy. By visiting our Website or providing Gadget Flow with your Information, you fully understand and unambiguously consent to this transfer, processing and storage of your Information in the US.
+## ******Data retention**
 
-**Cookies Policy**
+We retain personal information we collect from you where we have an ongoing legitimate business need to do so (for example, to provide you with a service you have requested or to comply with applicable legal, tax or accounting requirements).  
 
-Gadget Flow is using cookies to improve your experience of our Website and Webapp.
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymise it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible. 
 
-A cookie is a small text file that is stored in your web browser that allows Gadget Flow or a third party to recognize you. Cookies might be used for the following purposes: (1) to enable certain functions; (2) to provide analytics; (3) to store your preferences; and (4) to enable ad delivery and behavioral advertising.
+## **Your data protection rights**
 
-Cookies placed by the website you are visiting are sometimes called “first party cookies,” while cookies placed by other companies are sometimes called “third party cookies”.
+Depending on where you reside, You may have the following data protection rights:
 
-When you visit or register on our Website, Gadget Flow servers send a “first party cookie” to your computer’s or mobile phone’s web browser in order to determine your location and use the appropriate language for our Services. You can delete these cookies at any time through your web browser settings. Standing alone, cookies do not personally identify an individual. Cookies merely recognize the web browser. Unless an individual chooses to identify himself/herself to Gadget Flow, such as through registering and opening an Account, individuals remain anonymous to Gadget Flow.
-
-When you use our Services, a third party may place a number of “third party cookies” in your web browser. Some of the cookies will only be used if you use certain features or select certain preferences, and some cookies will always be used. Third party companies like analytics companies and ad networks generally use cookies to collect user information on an anonymous basis.
-
-You may also opt out of “third party cookies” by following the instructions provided by each third party in its privacy policy. In specific, we use google adwords, adroll and google analytics as third party cookies for re-marketing purposes.
-
-  * For google analytics you may opt out here. You may see their privacy policy [here](https://www.google.com/policies/privacy/).
+  * If you wish to **access, correct, update or request deletion** of your personal information, you can do so at any time by contacting us using the contact details provided under the “Contact Us” heading below [link].  
 
 
+  * In addition, you can **object to processing** of your personal information, ask us to **restrict processing** of your personal information or **request portability** of your personal information. Again, you can exercise these rights by contacting us using the contact details provided under the “Contact Us” heading below [link].
 
-If you have any questions about our Cookie Policy, you may contact us at hello@thegadgetflow.com.
 
-**Legal requests**
+  * You have the right to **opt-out of marketing communications** we send you at any time.  You can exercise this right by clicking on the “unsubscribe” or “opt-out” link in the marketing e-mails we send you.  To opt-out of other forms of marketing (such as postal marketing or telemarketing), then please contact us using the contact details provided under the “Contact Us” heading below [link].
 
-We cooperate with law enforcement authorities, as well as with other third parties, to enforce laws, intellectual property rights and to prevent fraud. In response to a verified request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, we can, and you authorize us to, disclose your name, e-mail address and website use history, with or without a subpoena. Without limiting the above, we will not disclose your Information to any law enforcement or other governmental officials without a subpoena or court order, except when we believe in good faith that the disclosure of information is necessary to protect our rights, enforce our policies, respond to claims that your use of our Services violates Gadget Flow’s policies or rights or others, or protect anyone’s rights, property or safety.
 
-**Consent**
+  * Similarly, if we have collected and process your personal information with your consent, then you can **withdraw your consent** at any time.  Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
-By using our Website, you consent to the collection and use of your Information as described in this Privacy Policy and our [TOU](https://thegadgetflow.com/terms-of-use/).
 
-**9\. Links to Other Sites**
 
-Our Website contains links to other Websites that are not owned or controlled by Gadget Flow. Please be aware **that we are not responsible for the privacy practices of such other Websites**. We encourage you to be aware when you leave our Website and to read the privacy policies of each and every website that collects personal information. This privacy policy applies only to information collected by this Website.
+You have the **right to complain to a data protection authority** about our collection and use of your personal information.  For more information, please contact your local data protection authority.
 
-**10\. Changes**
+## **International data transfers**
 
-If our Privacy Policy procedures change, we will post those changes immediately to our Website. Any such changes will be effective immediately from the time they are posted, unless otherwise stated in the change provision. E-mail notification will be sent to Users and Customers who request it.
+Gadget Flow is a United States (US) headquartered company. If you are located outside the US and choose to provide information to us, Gadget Flow transfers your information to our servers in the US. The US may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to the US, we will protect it as described in this Privacy Notice. By visiting our Website or providing Gadget Flow with your information, you acknowledge to this transfer, processing and storage of your information in the US.
+
+We have taken appropriate safeguards to require that your personal information will remain protected in accordance with this Privacy Notice. 
+
+## **Legal basis for processing personal information (EEA Users and Customers only)**
+
+If you are a visitor from the European Economic Area, our legal basis for collecting and using the information described above will depend on the information concerned and the specific context in which we collect it.  
+
+However, we will normally collect personal information from you only (i) where we need the personal information to perform a contract with you, (ii) where the processing is in our legitimate interests and not overridden by your rights, or (iii) where we have your consent to do so.  In some cases, we may also have a legal obligation to collect personal information from you.
+
+If we ask you to provide personal information to comply with a legal requirement or to perform a contact with you, we will make this clear at the relevant time and advise you whether the provision of your personal information is mandatory or not (as well as of the possible consequences if you do not provide your personal information).  
+
+If we collect and use your personal information in reliance on our legitimate interests (or those of any third party), this interest will normally be to operate our platform and communicating with you as necessary to provide our services to you and for our legitimate commercial interest, for instance, when responding to your queries, improving our platform, undertaking marketing, or for the purposes of detecting or preventing illegal activities.  We may have other legitimate interests and if appropriate and we will make clear to you at the relevant time what those legitimate interests are.
+
+If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us using the contact details provided under the “Contact Us” heading below [link].
+
+## **Links to Other Sites**
+
+Our Website contains links to other websites that are not owned or controlled by Gadget Flow. Please be aware **that we are not responsible for the privacy practices of such other websites**. We encourage you to be aware when you leave our Website and to read the privacy policies of each and every website that collects personal information. This privacy Notice applies only to information collected by this Website.
+
+## ******Contact Us**
+
+The data controller of this website is: Gadget Flow Inc, a Delaware Corporation.
+
+229 Wynsum Ave, Merrick 
+
+NY 11566 
+
+United States
+
+support@thegadgetflow.com
+
+## ******Changes to this Privacy Notice**
+
+We may update this Privacy Notice from time to time in response to changing legal, technical or business developments. When we update our Privacy Notice, we will take appropriate measures to inform you, consistent with the significance of the changes we make.  We will obtain your consent to any material Privacy Notice changes if and where this is required by applicable data protection laws.  You can see when this Privacy Notice was last updated by checking the “Last Revised” date displayed at the top of this Privacy Notice.  
