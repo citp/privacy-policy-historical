@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7gadgets.com privacy policy that was archived on 2018-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180209142438id_/https%3A//www.7gadgets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7gadgets.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928070946id_/https%3A//www.7gadgets.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -60,7 +60,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.7gadgets.com](http://www.7gadgets.com/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [https://www.7gadgets.com](https://www.7gadgets.com/)
 
 **Your Consent**
 
@@ -74,5 +74,5 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.7gadgets.com  
+https://www.7gadgets.com  
 office@7gadgets.com
