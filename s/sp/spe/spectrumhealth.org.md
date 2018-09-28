@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spectrumhealth.org privacy policy that was archived on 2016-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161009140449id_/http%3A//www.spectrumhealth.org/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spectrumhealth.org privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928030943id_/https%3A//www.spectrumhealth.org/policies/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy
 
