@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the carzoom.in privacy policy that was archived on 2018-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180624042458id_/http%3A//carzoom.in/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the carzoom.in privacy policy that was archived on 2018-09-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180928192255id_/http%3A//carzoom.in/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
 <link rel="dns-prefetch" href="//p.imprvdosrv.com">
@@ -109,9 +109,11 @@ img.emoji {
 var cnArgs = {"ajaxurl":"http:\/\/carzoom.in\/wp-admin\/admin-ajax.php","hideEffect":"fade","onScroll":"no","onScrollOffset":"100","cookieName":"cookie_notice_accepted","cookieValue":"true","cookieTime":"2592000","cookiePath":"\/","cookieDomain":"","redirection":"","cache":"1","refuse":"no","revoke_cookies":"0","revoke_cookies_opt":"automatic","secure":"0"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://carzoom.in/wp-content/plugins/cookie-notice/js/front.min.js?ver=1.2.43"></script>
+<script type="text/javascript" src="http://carzoom.in/wp-content/plugins/cookie-notice/js/front.min.js?ver=1.2.44"></script>
 <script type="text/javascript" src="http://carzoom.in/wp-content/plugins/geotargeting/public/js/geotarget-public.js?ver=1.3.1"></script>
 <script type="text/javascript" src="http://carzoom.in/wp-content/plugins/geotargeting/public/js/ddslick.js?ver=1.3.1"></script>
+<script type="text/javascript" src="http://carzoom.in/wp-content/plugins/advanced-ads/public/assets/js/advanced.js?ver=1.10.4"></script>
+<script type="text/javascript" src="http://carzoom.in/wp-content/plugins/advanced-ads-pro/modules/click-fraud-protection/assets/js/cfp.min.js?ver=2.2.1"></script>
 <script type="text/javascript" src="http://carzoom.in/wp-content/themes/jarida/js/tie-scripts.js?ver=4.7.5"></script>
 <link rel="https://api.w.org/" href="http://carzoom.in/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://carzoom.in/xmlrpc.php?rsd">
@@ -134,11 +136,19 @@ var cnArgs = {"ajaxurl":"http:\/\/carzoom.in\/wp-admin\/admin-ajax.php","hideEff
 		</script><script src="http://carzoom.in/wp-content/plugins/ajaxy-search-form/js/sf.js" type="text/javascript"></script>
 
 
-<link rel="shortcut icon" href="http://carzoom.in/wp-content/themes/jarida/favicon.ico" title="Favicon"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<script type="text/javascript">
+		;var advadsCfpQueue = [], advadsCfpExpHours = 3;
+		var advadsCfpClickLimit = 3;
+		;
+		var advadsCfpPath = '';
+		var advadsCfpDomain = '';
+		var advadsCfpAd = function( adID ){
+			if ( 'undefined' == typeof advadsProCfp ) { advadsCfpQueue.push( adID ) } else { advadsProCfp.addElement( adID ) }
+		};
+		</script><link rel="shortcut icon" href="http://carzoom.in/wp-content/themes/jarida/favicon.ico" title="Favicon"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <style type="text/css" media="screen"> 
 
 body{background:#ffffff url('')    ;}
-
 .icon_flat a.youtube-tieicon {
     background-position: -32px -76px;
 }
@@ -204,7 +214,20 @@ body{background:#ffffff url('')    ;}
 <noscript>
   <img src="http://b.scorecardresearch.com/p?c1=2&c2=20773415&cv=2.0&cj=1" />
 </noscript>
-<style type="text/css">
+<script type="text/javascript" src=";kv27=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20HeadlessChrome%2F69.0.3494.0%20Safari%2F537.36"></script></head><body id="top" class="page-template-default page page-id-40296 cookies-not-set"><div style="width:100%; margin:0 auto;" id="mydivtag33">
+<script>
+function checkAdView(){
+	var _div = jQuery("#mydivtag33 > div > iframe").contents().find("body").find('#mySpring');
+	if(_div.css('display') == 'none'){
+		jQuery("#mydivtag33").css('display', 'none');
+	}
+}
+setInterval(function(){ checkAdView() }, 1000);
+</script>
+
+<div style="position: fixed; z-index:100000; right: 0; bottom: 0;" class="ADK_BANNER" data-zoneid="61649" data-subid="0" data-width="300" data-height="250" data-net="display.rtb-serve.com" data-opts="vw doci"></div>
+<script class="ADK_SCRIPT" type="text/javascript" src="//vid-static.xapads.com/tag/display.js"></script>
+</div><style type="text/css">
 .ai-viewport-3                { display: none !important;}
 .ai-viewport-2                { display: none !important;}
 .ai-viewport-1                { display: inherit !important;}
@@ -244,6 +267,7 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
   ga('create', 'UA-41707065-1', 'auto');
+   ga('require', 'displayfeatures');
   ga('send', 'pageview');
 </script>
 <script type="text/javascript">
@@ -280,14 +304,8 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
   src="https://www.facebook.com/tr?id=283766825386180&ev=PageView&noscript=1"
 /></noscript>
 
-<script>
-function stop_body(){
-  window.stop();
-}
-if(window.top!=window.self){ 
-  stop_body();
-}
-</script><style>
+
+<style>
 .widget-counter li.twitter-followers strong {
     background-position: -70px -847px;
 }
@@ -305,10 +323,14 @@ if(window.top!=window.self){
 .entry h3 b, .entry h3 strong {
     font-weight: 600;
 }
-</style><script type="text/javascript" src=";kv27=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20HeadlessChrome%2F69.0.3494.0%20Safari%2F537.36"></script></head>
+.widget-odd {
+    clear: both;
+    display: table;
+    margin: 0 auto;
+}
+</style>
+<style>.ADK_BANNER:empty { display: none; }</style>
 
-
-<body id="top" class="page-template-default page page-id-40296 cookies-not-set">
 <script>
         loadScript('');
         function loadScript(url) {
@@ -424,14 +446,14 @@ if(window.top!=window.self){
 <option value="http://carzoom.in/brand/nissan-datsun-go">&nbsp;&nbsp;&nbsp;Nissan Datsun GO</option>
 <option value="http://carzoom.in/car-brand/dc/">DC</option>
 <option value="http://carzoom.in/brand/dc-avanti">&nbsp;&nbsp;&nbsp;DC Avanti</option>
-<option value="http://carzoom.in/car-brand/ferrari/">Ferrari</option>
+<option value=""></option>
 <option value="http://carzoom.in/brand/ferrari-458-italia">&nbsp;&nbsp;&nbsp;Ferrari 458 Italia</option>
 <option value="http://carzoom.in/brand/ferrari-458-spider">&nbsp;&nbsp;&nbsp;Ferrari 458 Spider</option>
 <option value="http://carzoom.in/brand/ferrari-488-gtb">&nbsp;&nbsp;&nbsp;Ferrari 488 GTB</option>
 <option value="http://carzoom.in/brand/ferrari-599-gtb-fiorano">&nbsp;&nbsp;&nbsp;Ferrari 599 GTB Fiorano</option>
 <option value="http://carzoom.in/brand/ferrari-california">&nbsp;&nbsp;&nbsp;Ferrari California</option>
 <option value="http://carzoom.in/brand/ferrari-ff">&nbsp;&nbsp;&nbsp;Ferrari FF</option>
-<option value="http://carzoom.in/car-brand/fiat/">Fiat</option>
+<option value=""></option>
 <option value="http://carzoom.in/brand/fiat-abarth-595">&nbsp;&nbsp;&nbsp;Fiat Abarth 595</option>
 <option value="http://carzoom.in/brand/fiat-avventura">&nbsp;&nbsp;&nbsp;Fiat Avventura</option>
 <option value="http://carzoom.in/brand/fiat-avventura-urban-cross">&nbsp;&nbsp;&nbsp;Fiat Avventura Urban Cross</option>
@@ -470,7 +492,7 @@ if(window.top!=window.self){
 <option value="http://carzoom.in/brand/honda-wr-v">&nbsp;&nbsp;&nbsp;Honda WR-V</option>
 <option value="http://carzoom.in/car-brand/hyundai/">Hyundai</option>
 <option value="http://carzoom.in/brand/auto-expo-2014-hyundai-new-santa-fe">&nbsp;&nbsp;&nbsp;Hyundai New Santa FE </option>
-<option value="http://carzoom.in/brand/hyundai-creta">&nbsp;&nbsp;&nbsp;Hyundai Creta</option>
+<option value="http://carzoom.in/brand/hyundai-creta-2">&nbsp;&nbsp;&nbsp;Hyundai Creta</option>
 <option value="http://carzoom.in/brand/hyundai-elantra">&nbsp;&nbsp;&nbsp;Hyundai Elantra</option>
 <option value="http://carzoom.in/brand/hyundai-eon">&nbsp;&nbsp;&nbsp;Hyundai EON</option>
 <option value="http://carzoom.in/brand/hyundai-grand-i10">&nbsp;&nbsp;&nbsp;Hyundai Grand i10</option>
@@ -500,7 +522,7 @@ if(window.top!=window.self){
 <option value="http://carzoom.in/brand/jeep-wrangler-unlimited">&nbsp;&nbsp;&nbsp;Jeep Wrangler Unlimited</option>
 <option value="http://carzoom.in/car-brand/lamborghini/">Lamborghini</option>
 <option value="http://carzoom.in/brand/lamborghini-aventador">&nbsp;&nbsp;&nbsp;Lamborghini Aventador</option>
-<option value="http://carzoom.in/brand/lamborghini-huracan">&nbsp;&nbsp;&nbsp;Lamborghini Huracan</option>
+ <option value="http://carzoom.in/brand/lamborghini-huracan">&nbsp;&nbsp;&nbsp;Lamborghini Huracan</option>
 <option value="http://carzoom.in/brand/lamborghini-huracan-spyder">&nbsp;&nbsp;&nbsp;Lamborghini Huracan Spyder</option>
 <option value="http://carzoom.in/car-brand/land-rover-3/">Land Rover</option>
 <option value="http://carzoom.in/brand/land-rover-discovery-4">&nbsp;&nbsp;&nbsp;Land Rover Discovery 4</option>
@@ -586,7 +608,7 @@ if(window.top!=window.self){
 <option value="http://carzoom.in/brand/nissan-evalia">&nbsp;&nbsp;&nbsp;Nissan Evalia</option>
 <option value="http://carzoom.in/brand/nissan-gt-r">&nbsp;&nbsp;&nbsp;Nissan GT-R</option>
 <option value="http://carzoom.in/brand/nissan-micra">&nbsp;&nbsp;&nbsp;Nissan Micra</option>
- <option value="http://carzoom.in/brand/nissan-micra-active">&nbsp;&nbsp;&nbsp;Nissan Micra Active</option>
+<option value="http://carzoom.in/brand/nissan-micra-active">&nbsp;&nbsp;&nbsp;Nissan Micra Active</option>
 <option value="http://carzoom.in/brand/nissan-sunny">&nbsp;&nbsp;&nbsp;Nissan Sunny</option>
 <option value="http://carzoom.in/brand/nissan-sylphy">&nbsp;&nbsp;&nbsp;Nissan Sylphy</option>
 <option value="http://carzoom.in/brand/nissan-teana">&nbsp;&nbsp;&nbsp;Nissan Teana</option>
@@ -787,7 +809,7 @@ if(window.top!=window.self){
 <div class="car_box_widget">
 <select name="make_1" id="make_1" class="cz_select" onchange="get_models('make_1', 'model_1', 'variant_1');">
 <option value="">- Select Make -</option>
-<option value="640">Ashok Leyland</option><option value="421">Aston Martin</option><option value="16784">Audi</option><option value="16788">Bentley</option><option value="16792">BMW</option><option value="16796">Chevrolet</option><option value="816">Datsun</option><option value="10646">DC</option><option value="9425">Dodge</option><option value="57">Ferrari</option><option value="58">Fiat</option><option value="611">Force Motors</option><option value="60">Ford</option><option value="451">Gumpert</option><option value="16800">Honda</option><option value="16805">Hyundai</option><option value="423">ICML</option><option value="517">Isuzu</option><option value="63">Jaguar</option><option value="541">Jeep</option><option value="10102">Kia</option><option value="64">Lamborghini</option><option value="484">Land Rover</option><option value="16809">Mahindra</option><option value="36">Maruti</option><option value="7219">Maserati</option><option value="9526">Mazda</option><option value="9305">McLaren</option><option value="16814">Mercedes</option><option value="68">Mini</option><option value="333">Mitsubishi</option><option value="69">Nissan</option><option value="9580">Peugeot</option><option value="70">Porsche</option><option value="71">Premier</option><option value="72">Renault</option><option value="73">Rolls Royce</option><option value="519">San Motors</option><option value="9796">Scion</option><option value="16817">Skoda</option><option value="16821">Ssangyong</option><option value="551">Subaru</option><option value="16824">Tata</option><option value="16827">Toyota</option><option value="9971">Vauxhall</option><option value="16831">Volkswagen</option><option value="77">Volvo</option> </select>
+<option value="640">Ashok Leyland</option><option value="421">Aston Martin</option><option value="16784">Audi</option><option value="16788">Bentley</option><option value="16792">BMW</option><option value="16796">Chevrolet</option><option value="816">Datsun</option><option value="10646">DC</option><option value="9425">Dodge</option><option value="18138">Ferrari</option><option value="18142">Fiat</option><option value="611">Force Motors</option><option value="60">Ford</option><option value="451">Gumpert</option><option value="16800">Honda</option><option value="16805">Hyundai</option><option value="423">ICML</option><option value="517">Isuzu</option><option value="63">Jaguar</option><option value="541">Jeep</option><option value="10102">Kia</option><option value="64">Lamborghini</option><option value="484">Land Rover</option><option value="16809">Mahindra</option><option value="36">Maruti</option><option value="7219">Maserati</option><option value="9526">Mazda</option><option value="9305">McLaren</option><option value="16814">Mercedes</option><option value="68">Mini</option><option value="333">Mitsubishi</option><option value="69">Nissan</option><option value="9580">Peugeot</option><option value="70">Porsche</option><option value="71">Premier</option><option value="72">Renault</option><option value="73">Rolls Royce</option><option value="519">San Motors</option><option value="9796">Scion</option><option value="16817">Skoda</option><option value="16821">Ssangyong</option><option value="551">Subaru</option><option value="16824">Tata</option><option value="16827">Toyota</option><option value="9971">Vauxhall</option><option value="16831">Volkswagen</option><option value="77">Volvo</option> </select>
 <span id="model_1_box">
 <select name="model_1" id="model_1" class="cz_select">
 <option value="">- Select Model -</option>
@@ -802,7 +824,7 @@ if(window.top!=window.self){
 <div class="car_box_widget">
 <select name="make_2" id="make_2" class="cz_select" onchange="get_models('make_2', 'model_2', 'variant_2');">
 <option value="">- Select Make -</option>
-<option value="640">Ashok Leyland</option><option value="421">Aston Martin</option><option value="16784">Audi</option><option value="16788">Bentley</option><option value="16792">BMW</option><option value="16796">Chevrolet</option><option value="816">Datsun</option><option value="10646">DC</option><option value="9425">Dodge</option><option value="57">Ferrari</option><option value="58">Fiat</option><option value="611">Force Motors</option><option value="60">Ford</option><option value="451">Gumpert</option><option value="16800">Honda</option><option value="16805">Hyundai</option><option value="423">ICML</option><option value="517">Isuzu</option><option value="63">Jaguar</option><option value="541">Jeep</option><option value="10102">Kia</option><option value="64">Lamborghini</option><option value="484">Land Rover</option><option value="16809">Mahindra</option><option value="36">Maruti</option><option value="7219">Maserati</option><option value="9526">Mazda</option><option value="9305">McLaren</option><option value="16814">Mercedes</option><option value="68">Mini</option><option value="333">Mitsubishi</option><option value="69">Nissan</option><option value="9580">Peugeot</option><option value="70">Porsche</option><option value="71">Premier</option><option value="72">Renault</option><option value="73">Rolls Royce</option><option value="519">San Motors</option><option value="9796">Scion</option><option value="16817">Skoda</option><option value="16821">Ssangyong</option><option value="551">Subaru</option><option value="16824">Tata</option><option value="16827">Toyota</option><option value="9971">Vauxhall</option><option value="16831">Volkswagen</option><option value="77">Volvo</option> </select>
+<option value="640">Ashok Leyland</option><option value="421">Aston Martin</option><option value="16784">Audi</option><option value="16788">Bentley</option><option value="16792">BMW</option><option value="16796">Chevrolet</option><option value="816">Datsun</option><option value="10646">DC</option><option value="9425">Dodge</option><option value="18138">Ferrari</option><option value="18142">Fiat</option><option value="611">Force Motors</option><option value="60">Ford</option><option value="451">Gumpert</option><option value="16800">Honda</option><option value="16805">Hyundai</option><option value="423">ICML</option><option value="517">Isuzu</option><option value="63">Jaguar</option><option value="541">Jeep</option><option value="10102">Kia</option><option value="64">Lamborghini</option><option value="484">Land Rover</option><option value="16809">Mahindra</option><option value="36">Maruti</option><option value="7219">Maserati</option><option value="9526">Mazda</option><option value="9305">McLaren</option><option value="16814">Mercedes</option><option value="68">Mini</option><option value="333">Mitsubishi</option><option value="69">Nissan</option><option value="9580">Peugeot</option><option value="70">Porsche</option><option value="71">Premier</option><option value="72">Renault</option><option value="73">Rolls Royce</option><option value="519">San Motors</option><option value="9796">Scion</option><option value="16817">Skoda</option><option value="16821">Ssangyong</option><option value="551">Subaru</option><option value="16824">Tata</option><option value="16827">Toyota</option><option value="9971">Vauxhall</option><option value="16831">Volkswagen</option><option value="77">Volvo</option> </select>
 <span id="model_2_box">
 <select name="model_2" id="model_2" class="cz_select">
 <option value="">- Select Model -</option>
@@ -930,13 +952,12 @@ if(window.top!=window.self){
 <div class="clear"></div>
 <div class="header-ads">
 <div class="container">
-<div style="display:table; margin:0 auto;"><div class="ads-top"> <div style="text-align: center; " id="carzo-468898505"><script src="http://dsp.xapads.com/adscript.php?pid=71&amp;ord=1529814297" type="text/javascript"></script>
-<noscript>
- <a href="http://dsp.xapads.com/adnoclick.php?pid=71&ord=1529814297" target="_top">
-  <img src="http://dsp.xapads.com/adnoscript.php?pid=71&ord=1529814297"
-       alt="Click here!" border="0" width="728" height="90" />
- </a>
-</noscript></div>
+<div style="display:table; margin:0 auto;"><div class="ads-top"> <div style="width:728px; height:90px; margin:0 auto">
+
+<div class="ADK_BANNER" data-zoneid="60237" data-subid="0" data-width="728" data-height="90" data-net="display.rtb-serve.com" data-opts="vw doci"></div>
+<script class="ADK_SCRIPT" type="text/javascript" src="//vid-static.xapads.com/tag/display.js"></script>
+
+</div>
 </div></div>
 </div>
 </div>
@@ -956,7 +977,7 @@ if(window.top!=window.self){
 <p>Without revealing any personal information, one can visit CarZoom any time and use many of its features.</p>
 <p>But, in case, if you register with the CarZoom and take part in its various activities like posting a comment, enrolling in a contest then you may be asked to provide your personally identifiable information such as your name, email address, address, contact no. etc along with some non-personally identifiable information like your location, personal &amp; professional interests, age, gender, your experience with CarZoom and its services etc. Also, we may get data about our users from the third parties.</p>
 <p>Further, in case, you are connecting with CarZoom via any social networking site like facebook, twitter, linked-in etc then we are free to collect your profile information from that particular site and not liable for the same.</p>
-<p><strong>Note:</strong> We respect our visitors/users rights and support “Right to be forgotten”. If you think you’ve ever shared your contact details with us &amp; want us to remove that info, please contact us at <a href="/cdn-cgi/l/email-protection#9cf5f2faf3dcfffdeee6f3f3f1b2f5f2"><span class="__cf_email__" data-cfemail="4d24232b220d2e2c3f37222220632423">[email&nbsp;protected]</span></a>.</p>
+<p><strong>Note:</strong> We respect our visitors/users rights and support “Right to be forgotten”. If you think you’ve ever shared your contact details with us &amp; want us to remove that info, please contact us at <a href="mailto:info@carzoom.in">info@carzoom.in</a>.</p>
 <h3>What about IP addresses?</h3>
 <p>Like every other website, we may collect and use data contained in log files including your IP (internet protocol) address, your ISP (internet service provider i.e. Airtel, Vodafone etc), browser using by you to visit CarZoom (like Google etc), time taken by you to visit CarZoom and also which and how many pages you visited throughout the site.</p>
 <p><b>How CarZoom use and share the data collected by users?</b></p>
@@ -988,96 +1009,72 @@ if(window.top!=window.self){
 </div>
 <aside class="sidebar">
 <div class="widget-odd widget-first widget-1 hide_top_title_bar widget carzo-widget"><div class="widget-top"><h4> </h4><div class="stripe-line"></div></div>
-<div class="widget-container"><div style="text-align: center; " id="carzo-255190629"><script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script src="http://dsp.xapads.com/adscript.php?pid=70&amp;ord=1529814297" type="text/javascript"></script>
-<noscript>
-<a href="http://dsp.xapads.com/adnoclick.php?pid=70&ord=1529814297" target="_top">
-<img src="http://dsp.xapads.com/adnoscript.php?pid=70&ord=1529814297"
-      alt="Click here!" border="0" width="300" height="250" />
-</a>
-</noscript></div></div></div><div id="text-17" class="widget-odd widget-3 hide_top_title_bar widget widget_text"><div class="widget-top"><h4>Car Insurance</h4><div class="stripe-line"></div></div>
+<div class="widget-container">
+<div class="ADK_BANNER" data-zoneid="60236" data-subid="0" data-width="300" data-height="250" data-net="display.rtb-serve.com" data-opts="vw doci"></div>
+<script class="ADK_SCRIPT" type="text/javascript" src="//vid-static.xapads.com/tag/display.js"></script>
+</div></div><div id="text-17" class="widget-odd widget-3 hide_top_title_bar widget widget_text"><div class="widget-top"><h4>Car Insurance</h4><div class="stripe-line"></div></div>
 <div class="widget-container"> <div class="textwidget"><div class="car-insurance"><a href="#"><img src="http://carzoom.in/wp-content/uploads/2014/05/car_insurance_banner_300X90.jpg" width="300" height="90" alt="Car Insurance"></a></div></div>
 </div></div><div id="facebook-widget-4" class="widget-even widget-4 widget facebook-widget"><div class="widget-top"><h4>Find us on Facebook </h4><div class="stripe-line"></div></div>
 <div class="widget-container"> <div class="facebook-box">
 <iframe src="http://www.facebook.com/plugins/likebox.php?href=http://www.facebook.com/carzooom.in&amp;width=260&amp;colorscheme=light&amp;show_faces=true&amp;border_color=%23FFF&amp;stream=false&amp;header=false&amp;height=258" scrolling="no" frameborder="0" style="background:#FFF; border:none; overflow:hidden; width:260px; height:258px;" allowtransparency="true"></iframe>
 </div>
 </div></div><div class="widget-odd widget-5 hide_top_title_bar widget carzo-widget"><div class="widget-top"><h4> </h4><div class="stripe-line"></div></div>
-<div class="widget-container"><div style="text-align: center; " id="carzo-1919140326"><script src="http://dsp.xapads.com/adscript.php?pid=70&amp;ord=1529814297" type="text/javascript"></script>
-<noscript>
-<a href="http://dsp.xapads.com/adnoclick.php?pid=70&ord=1529814297" target="_top">
-<img src="http://dsp.xapads.com/adnoscript.php?pid=70&ord=1529814297"
-      alt="Click here!" border="0" width="300" height="250" />
-</a>
-</noscript></div></div></div><div id="categort-posts-widget-2" class="widget-even widget-6 widget categort-posts"><div class="widget-top"><h4>Popular Posts </h4><div class="stripe-line"></div></div>
+<div class="widget-container"><div style="text-align: center; " id="carzo-1168846880">
+<div class="ADK_BANNER" data-zoneid="60238" data-subid="0" data-width="300" data-height="250" data-net="display.rtb-serve.com" data-opts="vw doci"></div>
+<script class="ADK_SCRIPT" type="text/javascript" src="//vid-static.xapads.com/tag/display.js"></script>
+</div></div></div><div id="categort-posts-widget-2" class="widget-even widget-6 widget categort-posts"><div class="widget-top"><h4>Popular Posts </h4><div class="stripe-line"></div></div>
 <div class="widget-container"> <ul>
 <li>
 <div class="post-thumbnail category-posts-widget">
-<a href="http://carzoom.in/just-in-bmw-launches-diesel-variant-of-6-series-gran-turismo/" title="Permalink to Just In: BMW launches diesel variant of 6 Series Gran Turismo" rel="bookmark"><img width="300" height="160" src="http://carzoom.in/wp-content/uploads/2018/06/6-Series-Gran-Turismo-300x160.jpg" class="attachment-tie-large size-tie-large wp-post-image" alt="BMW 6 Series Gran Turismo" srcset="http://carzoom.in/wp-content/uploads/2018/06/6-Series-Gran-Turismo-300x160.jpg 300w, http://carzoom.in/wp-content/uploads/2018/06/6-Series-Gran-Turismo.jpg 618w" sizes="(max-width: 300px) 100vw, 300px"></a>
+ <a href="http://carzoom.in/just-in-aston-martin-vantage-launched-in-india/" title="Permalink to Just In: Aston Martin Vantage launched in India" rel="bookmark"><img width="300" height="160" src="http://carzoom.in/wp-content/uploads/2018/09/2018-09-27-300x160.jpg" class="attachment-tie-large size-tie-large wp-post-image" alt="" srcset="http://carzoom.in/wp-content/uploads/2018/09/2018-09-27-300x160.jpg 300w, http://carzoom.in/wp-content/uploads/2018/09/2018-09-27.jpg 618w" sizes="(max-width: 300px) 100vw, 300px"></a>
 </div>
-<h3><a href="http://carzoom.in/just-in-bmw-launches-diesel-variant-of-6-series-gran-turismo/">Just In: BMW launches diesel variant of 6 Series Gran Turismo</a></h3>
-<span class="date"><span class="post-date updated">June 22, 2018</span></span>
+<h3><a href="http://carzoom.in/just-in-aston-martin-vantage-launched-in-india/">Just In: Aston Martin Vantage launched in India</a></h3>
+<span class="date"><span class="post-date updated">September 28, 2018</span></span>
 </li>
 <li>
 <div class="post-thumbnail category-posts-widget">
-<a href="http://carzoom.in/just-in-jeep-compass-bedrock-edition-launched/" title="Permalink to Just In: Jeep Compass Bedrock edition launched" rel="bookmark"><img width="300" height="160" src="http://carzoom.in/wp-content/uploads/2018/06/Jeep-Compass-Bedrock-edition-4-300x160.jpg" class="attachment-tie-large size-tie-large wp-post-image" alt="Jeep Compass Bedrock edition" srcset="http://carzoom.in/wp-content/uploads/2018/06/Jeep-Compass-Bedrock-edition-4-300x160.jpg 300w, http://carzoom.in/wp-content/uploads/2018/06/Jeep-Compass-Bedrock-edition-4.jpg 618w" sizes="(max-width: 300px) 100vw, 300px"></a>
+<a href="http://carzoom.in/coming-soon-new-gen-mercedes-benz-g63-amg-to-launch-on-5th-october/" title="Permalink to Coming Soon: New Gen Mercedes Benz G63 AMG to launch on 5th October" rel="bookmark"><img width="300" height="160" src="http://carzoom.in/wp-content/uploads/2018/09/Mercedes-300x160.jpg" class="attachment-tie-large size-tie-large wp-post-image" alt="" srcset="http://carzoom.in/wp-content/uploads/2018/09/Mercedes-300x160.jpg 300w, http://carzoom.in/wp-content/uploads/2018/09/Mercedes.jpg 618w" sizes="(max-width: 300px) 100vw, 300px"></a>
 </div>
-<h3><a href="http://carzoom.in/just-in-jeep-compass-bedrock-edition-launched/">Just In: Jeep Compass Bedrock edition launched</a></h3>
-<span class="date"><span class="post-date updated">June 19, 2018</span></span>
+<h3><a href="http://carzoom.in/coming-soon-new-gen-mercedes-benz-g63-amg-to-launch-on-5th-october/">Coming Soon: New Gen Mercedes Benz G63 AMG to launch on 5th October</a></h3>
+<span class="date"><span class="post-date updated">September 26, 2018</span></span>
 </li>
 <li>
 <div class="post-thumbnail category-posts-widget">
-<a href="http://carzoom.in/isuzu-d-max-x-power-version-unveiled/" title="Permalink to Isuzu D-Max X-Power version unveiled" rel="bookmark"><img width="300" height="160" src="http://carzoom.in/wp-content/uploads/2018/06/Isuzu-D-Max-X-Power-300x160.jpg" class="attachment-tie-large size-tie-large wp-post-image" alt="Isuzu D-Max X-Power" srcset="http://carzoom.in/wp-content/uploads/2018/06/Isuzu-D-Max-X-Power-300x160.jpg 300w, http://carzoom.in/wp-content/uploads/2018/06/Isuzu-D-Max-X-Power.jpg 618w" sizes="(max-width: 300px) 100vw, 300px"></a>
+<a href="http://carzoom.in/2018-suzuki-jimny-test-drive/" title="Permalink to 2018 Suzuki Jimny Test Drive" rel="bookmark"><img width="300" height="160" src="http://carzoom.in/wp-content/uploads/2018/09/Suzuki-Jimny-300x160.jpg" class="attachment-tie-large size-tie-large wp-post-image" alt="Suzuki Jimny" srcset="http://carzoom.in/wp-content/uploads/2018/09/Suzuki-Jimny-300x160.jpg 300w, http://carzoom.in/wp-content/uploads/2018/09/Suzuki-Jimny.jpg 618w" sizes="(max-width: 300px) 100vw, 300px"></a>
 </div>
-<h3><a href="http://carzoom.in/isuzu-d-max-x-power-version-unveiled/">Isuzu D-Max X-Power version unveiled</a></h3>
-<span class="date"><span class="post-date updated">June 18, 2018</span></span>
+<h3><a href="http://carzoom.in/2018-suzuki-jimny-test-drive/">2018 Suzuki Jimny Test Drive</a></h3>
+<span class="date"><span class="post-date updated">September 24, 2018</span></span>
 </li>
 <li>
 <div class="post-thumbnail category-posts-widget">
-<a href="http://carzoom.in/just-in-bmw-x3-launched-in-india/" title="Permalink to Just In: BMW X3 launched in India" rel="bookmark"><img width="300" height="160" src="http://carzoom.in/wp-content/uploads/2018/06/BMW-X3-300x160.jpg" class="attachment-tie-large size-tie-large wp-post-image" alt="BMW X3" srcset="http://carzoom.in/wp-content/uploads/2018/06/BMW-X3-300x160.jpg 300w, http://carzoom.in/wp-content/uploads/2018/06/BMW-X3.jpg 618w" sizes="(max-width: 300px) 100vw, 300px"></a>
+<a href="http://carzoom.in/just-in-jeep-compass-limited-plus-launched/" title="Permalink to Just In: Jeep Compass Limited Plus Launched" rel="bookmark"><img width="300" height="160" src="http://carzoom.in/wp-content/uploads/2018/09/Jeep-Compass-Limited-Plus-300x160.jpg" class="attachment-tie-large size-tie-large wp-post-image" alt="Jeep Compass Limited Plus" srcset="http://carzoom.in/wp-content/uploads/2018/09/Jeep-Compass-Limited-Plus-300x160.jpg 300w, http://carzoom.in/wp-content/uploads/2018/09/Jeep-Compass-Limited-Plus.jpg 618w" sizes="(max-width: 300px) 100vw, 300px"></a>
 </div>
-<h3><a href="http://carzoom.in/just-in-bmw-x3-launched-in-india/">Just In: BMW X3 launched in India</a></h3>
-<span class="date"><span class="post-date updated">June 13, 2018</span></span>
+<h3><a href="http://carzoom.in/just-in-jeep-compass-limited-plus-launched/">Just In: Jeep Compass Limited Plus Launched</a></h3>
+<span class="date"><span class="post-date updated">September 21, 2018</span></span>
 </li>
 </ul>
 <div class="clear"></div>
 </div></div><div class="widget-odd widget-last widget-7 hide_top_title_bar widget carzo-widget"><div class="widget-top"><h4> </h4><div class="stripe-line"></div></div>
-<div class="widget-container"><div style="text-align: center; " id="carzo-1450877462"><script src="http://dsp.xapads.com/adscript.php?pid=70&amp;ord=1529814297" type="text/javascript"></script>
-<noscript>
-<a href="http://dsp.xapads.com/adnoclick.php?pid=70&ord=1529814297" target="_top">
-<img src="http://dsp.xapads.com/adnoscript.php?pid=70&ord=1529814297"
-      alt="Click here!" border="0" width="300" height="250" />
-</a>
-</noscript></div></div></div></aside>
+<div class="widget-container"><div style="text-align: center; " id="carzo-1072470658">
+<div class="ADK_BANNER" data-zoneid="60238" data-subid="0" data-width="300" data-height="250" data-net="display.rtb-serve.com" data-opts="vw doci"></div>
+<script class="ADK_SCRIPT" type="text/javascript" src="//vid-static.xapads.com/tag/display.js"></script>
+</div></div></div></aside>
 </div> 
 <aside class="sidebar-narrow">
-<div class="widget-odd widget-first widget-1 hide_top_title_bar widget carzo-widget"><div class="widget-top"><h4> </h4><div class="stripe-line"></div></div>
-<div class="widget-container"><div style="text-align: center; " id="carzo-1114927212"><script src="http://dsp.xapads.com/adscript.php?pid=69&amp;ord=1529814297" type="text/javascript"></script>
-<noscript>
- <a href="http://dsp.xapads.com/adnoclick.php?pid=69&ord=1529814297" target="_top">
-  <img src="http://dsp.xapads.com/adnoscript.php?pid=69&ord=1529814297"
-       alt="Click here!" border="0" width="160" height="600" />
- </a>
-</noscript></div></div></div><div id="cz-brand-list-widget-4" class="widget-even widget-2 hide_top_title_bar widget cz-brand-list-widget"><div class="widget-top"><h4>Brands</h4><div class="stripe-line"></div></div>
+<div id="cz-brand-list-widget-4" class="widget-even widget-2 hide_top_title_bar widget cz-brand-list-widget"><div class="widget-top"><h4>Brands</h4><div class="stripe-line"></div></div>
 <div class="widget-container"> <div class="widget-container">
-<ul class="brand-listing"><li class="cat-item"><a href="">Ashok Leyland</a></li><ul class="children"></ul><li class="cat-item"><a href="">Aston Martin</a></li><ul class="children"></ul><li class="cat-item"><a href="">Audi</a></li><ul class="children"></ul><li class="cat-item"><a href="">Bentley</a></li><ul class="children"></ul><li class="cat-item"><a href="">BMW</a></li><ul class="children"></ul><li class="cat-item"><a href="">Chevrolet</a></li><ul class="children"></ul><li class="cat-item"><a href="">Datsun</a></li><ul class="children"></ul><li class="cat-item"><a href="">DC</a></li><ul class="children"></ul><li class="cat-item"><a href="">Ferrari</a></li><ul class="children"></ul><li class="cat-item"><a href="">Fiat</a></li><ul class="children"></ul><li class="cat-item"><a href="">Force</a></li><ul class="children"></ul><li class="cat-item"><a href="">Ford</a></li><ul class="children"></ul><li class="cat-item"><a href="">Honda</a></li><ul class="children"></ul><li class="cat-item"><a href="">Hyundai</a></li><ul class="children"></ul><li class="cat-item"><a href="">ICML</a></li><ul class="children"></ul><li class="cat-item"><a href="">Isuzu</a></li><ul class="children"></ul><li class="cat-item"><a href="">Jaguar</a></li><ul class="children"></ul><li class="cat-item"><a href="">Jeep</a></li><ul class="children"></ul><li class="cat-item"><a href="">Lamborghini</a></li><ul class="children"></ul><li class="cat-item"><a href="">Land Rover</a></li><ul class="children"></ul><li class="cat-item"><a href="">Lexus</a></li><ul class="children"></ul><li class="cat-item"><a href="">Mahindra</a></li><ul class="children"></ul><li class="cat-item"><a href="">Maruti Suzuki</a></li><ul class="children"></ul><li class="cat-item"><a href="">Mercedes</a></li><ul class="children"></ul><li class="cat-item"><a href="">Mini</a></li><ul class="children"></ul><li class="cat-item"><a href="">Mitsubishi</a></li><ul class="children"></ul><li class="cat-item"><a href="">Nissan</a></li><ul class="children"></ul><li class="cat-item"><a href="">Porsche</a></li><ul class="children"></ul><li class="cat-item"><a href="">Renault</a></li><ul class="children"></ul><li class="cat-item"><a href="">Rolls Royce</a></li><ul class="children"></ul><li class="cat-item"><a href="">San Motors</a></li><ul class="children"></ul><li class="cat-item"><a href="">Skoda</a></li><ul class="children"></ul><li class="cat-item"><a href="">Ssangyong</a></li><ul class="children"></ul><li class="cat-item"><a href="">Tata</a></li><ul class="children"></ul><li class="cat-item"><a href="">Toyota</a></li><ul class="children"></ul><li class="cat-item"><a href="">Volkswagen</a></li><ul class="children"></ul><li class="cat-item"><a href="">Volvo</a></li><ul class="children"></ul></ul> </div>
-</div></div><div class="widget-odd widget-last widget-3 hide_top_title_bar widget carzo-widget"><div class="widget-top"><h4> </h4><div class="stripe-line"></div></div>
-<div class="widget-container"><div style="text-align: center; " id="carzo-1043493177"><script src="http://dsp.xapads.com/adscript.php?pid=69&amp;ord=1529814297" type="text/javascript"></script>
-<noscript>
- <a href="http://dsp.xapads.com/adnoclick.php?pid=69&ord=1529814297" target="_top">
-  <img src="http://dsp.xapads.com/adnoscript.php?pid=69&ord=1529814297"
-       alt="Click here!" border="0" width="160" height="600" />
- </a>
-</noscript></div></div></div> </aside>
+<ul class="brand-listing"><li class="cat-item"><a href="">Ashok Leyland</a></li><ul class="children"></ul><li class="cat-item"><a href="">Aston Martin</a></li><ul class="children"></ul><li class="cat-item"><a href="">Audi</a></li><ul class="children"></ul><li class="cat-item"><a href="">Bentley</a></li><ul class="children"></ul><li class="cat-item"><a href="">BMW</a></li><ul class="children"></ul><li class="cat-item"><a href="">Chevrolet</a></li><ul class="children"></ul><li class="cat-item"><a href="">Datsun</a></li><ul class="children"></ul><li class="cat-item"><a href="">DC</a></li><ul class="children"></ul><li class="cat-item"><a href="">Force</a></li><ul class="children"></ul><li class="cat-item"><a href="">Ford</a></li><ul class="children"></ul><li class="cat-item"><a href="">Honda</a></li><ul class="children"></ul><li class="cat-item"><a href="">Hyundai</a></li><ul class="children"></ul><li class="cat-item"><a href="">ICML</a></li><ul class="children"></ul><li class="cat-item"><a href="">Isuzu</a></li><ul class="children"></ul><li class="cat-item"><a href="">Jaguar</a></li><ul class="children"></ul><li class="cat-item"><a href="">Jeep</a></li><ul class="children"></ul><li class="cat-item"><a href="">Lamborghini</a></li><ul class="children"></ul><li class="cat-item"><a href="">Land Rover</a></li><ul class="children"></ul><li class="cat-item"><a href="">Lexus</a></li><ul class="children"></ul><li class="cat-item"><a href="">Mahindra</a></li><ul class="children"></ul><li class="cat-item"><a href="">Maruti Suzuki</a></li><ul class="children"></ul><li class="cat-item"><a href="">Mercedes</a></li><ul class="children"></ul><li class="cat-item"><a href="">Mini</a></li><ul class="children"></ul><li class="cat-item"><a href="">Mitsubishi</a></li><ul class="children"></ul><li class="cat-item"><a href="">Nissan</a></li><ul class="children"></ul><li class="cat-item"><a href="">Porsche</a></li><ul class="children"></ul><li class="cat-item"><a href="">Renault</a></li><ul class="children"></ul><li class="cat-item"><a href="">Rolls Royce</a></li><ul class="children"></ul><li class="cat-item"><a href="">San Motors</a></li><ul class="children"></ul><li class="cat-item"><a href="">Skoda</a></li><ul class="children"></ul><li class="cat-item"><a href="">Ssangyong</a></li><ul class="children"></ul><li class="cat-item"><a href="">Tata</a></li><ul class="children"></ul><li class="cat-item"><a href="">Toyota</a></li><ul class="children"></ul><li class="cat-item"><a href="">Volkswagen</a></li><ul class="children"></ul><li class="cat-item"><a href="">Volvo</a></li><ul class="children"></ul></ul> </div>
+</div></div> </aside>
 <div class="clear"></div>
 <div class="clear"></div>
 </div>
 
-<div class="ads-bottom"> <div style="text-align: center; " id="carzo-107656984"><script src="http://dsp.xapads.com/adscript.php?pid=71&amp;ord=1529814297" type="text/javascript"></script>
-<noscript>
- <a href="http://dsp.xapads.com/adnoclick.php?pid=71&ord=1529814297" target="_top">
-  <img src="http://dsp.xapads.com/adnoscript.php?pid=71&ord=1529814297"
-       alt="Click here!" border="0" width="728" height="90" />
- </a>
-</noscript></div>
+<div class="ads-bottom"> <div style="width:728px; margin:0 auto;">
+
+<div class="ADK_BANNER" data-zoneid="60239" data-subid="0" data-width="728" data-height="90" data-net="display.rtb-serve.com" data-opts="vw doci"></div>
+<script class="ADK_SCRIPT" type="text/javascript" src="//vid-static.xapads.com/tag/display.js"></script>
+
+</div>
 </div></div>
 
 <div class="clear"></div>
@@ -1153,6 +1150,9 @@ if(window.top!=window.self){
 .single-post .content {
     width: 100%;
 }
+div#video {
+    margin-left: -18px;
+}
 }
 
 
@@ -1184,6 +1184,12 @@ advanced_ads_check_adblocker=function(t){function e(t){(window.requestAnimationF
 .home #itro_popup{
 display : none important!
 }
+.header-top-block .ads300-250 {
+    float: right;
+    margin: 0 0 5px;
+    width: 300px;
+    clear: initial;
+}
 </style>
 <script>
 function hidepopup(){
@@ -1194,6 +1200,7 @@ function hidepopup(){
   }
 }
 setTimeout(hidepopup, 1000);
+
 </script><script type="text/javascript">
 /* <![CDATA[ */
 var wpcf7 = {"apiSettings":{"root":"http:\/\/carzoom.in\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
@@ -1232,4 +1239,31 @@ jQuery(document).ready(function(){
   _taboola.push({flush: true});
 </script>
 
+<style>
+#interads { display: none!important; }
+#interads-cnt img { -webkit-border-radius: 0px!important; -moz-border-radius: 0px!important; border-radius: 0px!important; }
+.single-post .container {
+    max-width: 1200px;
+    min-width: 1200px;
+}
+.single-post .content {
+    width: 626px;
+}
+
+
+
+@media screen and (max-width: 768px) {
+#interads { display: block!important; text-align: canter; }
+#interads-cnt { text-align: canter!important; }
+.single-post .container {
+    max-width: 95%;
+    min-width: 95%;
+}
+.single-post .content {
+    width: 100%;
+}
+}
+
+
+</style>
 <div class="ad_unit ad-unit text-ad text_ad pub_300x250" style="width: 1px !important; height: 1px !important; position: absolute !important; left: 0px !important; top: 0px !important; overflow: hidden !important;">&nbsp;</div></body></html>
