@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laptopunderbudget.com privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313071037id_/https%3A//laptopunderbudget.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laptopunderbudget.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929142829id_/https%3A//laptopunderbudget.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Laptop Under Budget
 
