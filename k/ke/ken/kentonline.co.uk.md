@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kentonline.co.uk privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530155132id_/http%3A//www.kentonline.co.uk/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kentonline.co.uk privacy policy that was archived on 2018-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180930002520id_/http%3A//www.kentonline.co.uk/terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - KentOnline
 
@@ -99,6 +99,14 @@ Additionally, where you have registered and/or logged in to our websites using s
 ### Cookies
 
 Our websites uses cookies to distinguish you from other users of our websites. This helps us to provide you with a good experience when you browse our websites and also allows us to improve our websites. For detailed information on the cookies we use and the purposes for which we use them see our Cookie Policy
+
+* * *
+
+### Trust and transparency is important to us
+
+Our websites use advertising and analytics technologies (including cookies from your device). We work with selected marketing partners who use these technologies to collect data about your browsing activity on our sites, as well as other third-party web sites and apps that partner with them. Our marketing partners use this data to serve you with relevant interest-based advertising and for analytics purposes, and may additionally share this data with their service providers for those same purposes.
+
+When you first visit one of our sites, you will be presented with a pop-up window which allows you to view the technologies we use. By continuing to use our sites, including clicking off or closing this pop-up, you consent to the use of advertising and analytics technologies (including cookies) on our sites and other sites that work with our marketing partners. If you wish to decline, click on the Learn More link on the pop-up. Additionally, if you wish to change your preferences on subsequent visits, you may do so at any time by clicking on the Consent Preferences link in the footer section of each of the websites.
 
 * * *
 
@@ -284,6 +292,6 @@ If you have a question, query or concern about how we use your personal data, pl
 
 If you feel that your data, or a request related to your data, has not been handled correctly, you have the right to lodge a complaint with the Information Commissioner's Office (ICO). You can contact them by calling [0303 123 1113](tel:0303 123 1113) or going to [www.ico.org.uk/concerns](http://www.ico.org.uk/concerns).
 
-**This policy was last updated on 16.05.2018**
+**This policy was last updated on 25.05.2018**
 
 * * *
