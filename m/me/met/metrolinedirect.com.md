@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrolinedirect.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625214714id_/http%3A//www.metrolinedirect.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrolinedirect.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929104736id_/https%3A//www.metrolinedirect.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
