@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the attn.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627173846id_/https%3A//www.attn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attn.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929144657id_/https%3A//www.attn.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ATTN:
 
@@ -74,7 +74,7 @@ We take reasonable steps to protect personally identifiable information as you t
 
 ## Links to Other Web Sites
 
-This site may contain links or references to other Web sites to which this Privacy Policy does not apply. We encourage you to read the Privacy Policy of every Web site you visit.
+This Site may contain links or references to other Web sites to which this Privacy Policy does not apply. We encourage you to read the Privacy Policy of every Web site you visit.
 
 ## Children
 
