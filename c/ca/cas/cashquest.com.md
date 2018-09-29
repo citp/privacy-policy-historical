@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashquest.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627065238id_/http%3A//www.worldprofit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashquest.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929174130id_/http%3A//www.worldprofit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Worldprofit Home Business And Affiliate Marketing
 
