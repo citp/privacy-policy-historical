@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bighugelabs.com privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128225933id_/https%3A//bighugelabs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bighugelabs.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929024037id_/https%3A//bighugelabs.com/privacy.php) for the most accurate reproduction.*
 
 # BigHugeLabs.com Privacy Policy
 
@@ -15,7 +15,7 @@
 ### General Information
 
   * The Service collects personal information when you purchase products, sign in, or upload content.
-  * If you would like to purchase products, we will ask for your billing address, phone number, and credit card information.
+  * If you would like to purchase products, we will ask for your address, email, phone number, and credit card information.
   * The Service automatically receives and records information on our server logs from your browser, including your IP address, cookie, and the page you request.
   * We use information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, research, and anonymous reporting.
 
@@ -43,12 +43,10 @@ A cookie is a small amount of data, which often includes an anonymous unique ide
   * The Service uses its own cookies for a number of purposes, including to:
     * Access your information when you "sign in".
     * Keep track of preferences you specify while you are using the Service.
-    * Display the most appropriate advertising banners, based on your interests and activity.
     * Estimate and report our total audience size and traffic.
     * Conduct research to improve our content and services.
-  * We let other companies (such as Google) set and access their cookies on your computer. Other entities' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other entities do not have access to our cookies.
-    * Google's use of the DART cookie enables it to serve ads to you based on your visits to this site and other sites on the Internet.
-    * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+  * The Service collects anonymous usage information through use of Google Analytics. Google Analytics may employ third party tracking cookies to gather anonymous browser, operating system, geographic, and website navigation information.
+  * The Service uses Google AdSense to display advertising. The Service would not be able to stay in business without the revenue generated from advertising. AdSense uses third party cookies for frequency capping, aggregated ad reporting, and to combat fraud and abuse. Cookies are also used for personalized advertising which displays the most appropriate advertising banners based on your interests and activity. Personalized advertising is disabled and no personalized advertising cookies are used in the European Economic Area (EEA).
 
 
 
@@ -65,4 +63,4 @@ A cookie is a small amount of data, which often includes an anonymous unique ide
 
 We may update this policy at any time for any reason. If there are any significant changes to how we handle personal information we will place a prominent notice on our site.
 
-Effective Date: April 6, 2009
+Effective Date: May 17, 2018
