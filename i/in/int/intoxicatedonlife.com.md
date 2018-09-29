@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intoxicatedonlife.com privacy policy that was archived on 2014-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140424235303id_/http%3A//intoxicatedonlife.com/disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intoxicatedonlife.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929034103id_/https%3A//www.intoxicatedonlife.com/disclosure-privacy-policy) for the most accurate reproduction.*
 
 # Disclosure & Privacy Policy for IntoxicatedOnLife.com
 
@@ -6,7 +6,7 @@
 
 At intoxicatedonlife.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information that is received and collected by intoxicatedonlife.com and how it is used.
 
-As the owner of this blog we have the full intention to be compliant with the Federal Trade Commission (FTC) rules about the use of testimonials and endorsements in advertising and marketing. I want you as a visitor to understand that at times I get paid a commission to endorse products or services on my site. This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation. If you have a question about whether or not I’m connected with anything I promote or endorse, please [contact us](http://intoxicatedonlife.com/about-us/contact-us/ "Contact Us").
+As the owner of this blog we have the full intention to be compliant with the Federal Trade Commission (FTC) rules about the use of testimonials and endorsements in advertising and marketing. I want you as a visitor to understand that at times I get paid a commission to endorse products or services on my site. This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation. If you have a question about whether or not I’m connected with anything I promote or endorse, please [contact us](https://intoxicatedonlife.com/about-us/contact-us/ "Contact Us").
 
 ### Cookies and Web Beacons
 
@@ -42,8 +42,12 @@ This blog does not share personal information with third parties nor do we store
 
 We are not responsible for republished content from this blog on other blogs or websites without our permission.
 
-This privacy policy is subject to change without notice and was last updated on February, 8, 2013. If you have any questions feel free to [contact us](http://intoxicatedonlife.com/about-us/contact-us/ "Contact Us") directly.
+This privacy policy is subject to change without notice and was last updated on February, 8, 2013. If you have any questions feel free to [contact us](https://intoxicatedonlife.com/about-us/contact-us/ "Contact Us") directly.
 
 ## Third Party Advertising
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp)
+
+### Information Collected
+
+Intoxicated on Life’s online store collects names, credit card information, and email addresses to process payments. This information is never shared, rented, and sold to third parties
