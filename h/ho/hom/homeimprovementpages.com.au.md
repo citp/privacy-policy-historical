@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeimprovementpages.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313070400id_/https%3A//www.homeimprovementpages.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeimprovementpages.com.au privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929134604id_/https%3A//www.homeimprovementpages.com.au/privacy) for the most accurate reproduction.*
 
 # Home Improvement Pages, Privacy Policy
 
