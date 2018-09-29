@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the junglescout.com privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204203239id_/https%3A//junglescout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the junglescout.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929135518id_/https%3A//www.junglescout.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Jungle Scout: Amazon Product Research Made Easy
 
