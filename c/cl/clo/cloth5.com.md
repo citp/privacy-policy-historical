@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloth5.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703180224id_/http%3A//cloth5.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloth5.com privacy policy that was archived on 2018-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180930011210id_/http%3A//cloth5.com/privacy-policy) for the most accurate reproduction.*
 
 # Cloth5 | Privacy Policy / Terms & Conditions
 
