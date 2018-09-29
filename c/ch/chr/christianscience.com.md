@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the christianscience.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902163118id_/http%3A//www.christianscience.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianscience.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929125039id_/https%3A//www.christianscience.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Christian Science
 
 **Last Updated: May 15, 2017**
+
+[ ** ** _See our new Privacy Statement date  _** ** _25 May 2018._****](https://gdpr.christianscience.com/ "Link to privacy statement")
 
 This Privacy Policy is part of the [Terms of Service](https://web.archive.org/legal/terms-of-service "Terms of Service") for ChristianScience.com (the “Site”), owned and operated by The First Church of Christ, Scientist in Boston and its affiliate The Christian Science Publishing Society (“TFCCS”). By using the Site, you consent to the collection and usage of information as described in this Privacy Policy.
 
@@ -92,7 +94,7 @@ We will retain your information for as long as is necessary to:
 
 
 
-#### What are cookies and how do we use them?
+####  What are cookies and how do we use them?
 
 "Cookies" are text files stored on a user’s hard drive that are used to collect information about the user’s visits to the Site. We use cookies to help us create an overall profile of how a user uses our Site, and how often visits occur. Our cookies are not used to collect personal data from any user's computer - cookies are only used in conjunction with visits within our Site.
 
