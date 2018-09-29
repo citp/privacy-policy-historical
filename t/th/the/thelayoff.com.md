@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelayoff.com privacy policy that was archived on 2017-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170828195638id_/https%3A//www.thelayoff.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelayoff.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929133304id_/https%3A//www.thelayoff.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - TheLayoff.com
 
@@ -42,6 +42,6 @@ Although we strive to preserve the privacy of our visitors, there are situations
 
 As we are bound by applicable laws, we may disclose log data in order to comply with a legally enforceable subpoena, warrant, court order, or other judicial or administrative order.
 
-### 2.2 Emergency Situations
+### 3.2 Emergency Situations
 
 Situations involving potential threats to personal safety may arise. Upon evaluating these situations in good faith, we may disclose log data. 
