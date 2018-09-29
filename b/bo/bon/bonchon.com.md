@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bonchon.com privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219053753id_/https%3A//bonchon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonchon.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929024306id_/https%3A//bonchon.com/privacy) for the most accurate reproduction.*
 
 # Privacy - BonChon
 
@@ -16,6 +16,6 @@ All BonChon’s web sites operated by BonChon will adhere to this privacy policy
 
 Many BonChon’s restaurants are owned and operated by franchisees, who are independent businessmen and women. Some franchisees also operate web sites. In many cases, franchisee sites follow this privacy policy. However, please review the privacy policy of each site to determine the privacy policies of that site.
 
-While there is no such thing as “perfect security” on the Internet, BonChon’s will take all reasonable steps to insure the safety of your personal information.This site is a general audience site and does not target or intend to collect personal information from children.
+While there is no such thing as “perfect security” on the Internet, BonChon’s will take all reasonable steps to insure the safety of your personal information. This site is a general audience site and does not target or intend to collect personal information from children.
 
 BonChon reserves the right to change or update this privacy policy at any time. Any changes or updates will be effective immediately upon posting to the site. If you have any questions regarding our privacy policy, you may email us at bonchon@bonchon.com or call us at 212-273-9797.
