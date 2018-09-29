@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymoneyfish.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119000931id_/http%3A//www.mymoneyfish.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymoneyfish.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929173708id_/http%3A//www.mymoneyfish.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
