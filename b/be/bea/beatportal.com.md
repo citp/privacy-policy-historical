@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the beatportal.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626140953id_/https%3A//support.beatport.com/hc/articles/200353215) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beatportal.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929154234id_/https%3A//support.beatport.com/hc/articles/200353215) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy – Beatport Customer Care
 
 **F. Privacy and Cookie Policy  ** **v 5.23.2018**
 
-This Privacy Policy describes the kinds of information that Beatport, LLC ("we") may collect about you through our group of websites, which currently include Beatport.com, Sounds.Beatport.com, and others where this Policy appears (the "Sites"), and what we may do with that information. Our contact details are Beatport, LLC, 3461 Ringsby Court, #150, Taxi Drive 2, Denver, Colorado 80216. You may also email us regarding our Privacy Policy at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+This Privacy Policy describes the kinds of information that Beatport, LLC ("we") may collect about you through our group of websites, which currently include Beatport.com, Sounds.Beatport.com, and others where this Policy appears (the "Sites"), and what we may do with that information. Our contact details are Beatport, LLC, 3461 Ringsby Court, #150, Taxi Drive 2, Denver, Colorado 80216. You may also email us regarding our Privacy Policy at legal@beatport.com.
 
 This policy applies to you if you visit the Sites, are a registered user on the Sites and/or make purchases on the Sites. It also applies to our content suppliers, and their representatives with whom we may come into contact during the course of business. We reserve the right to modify this Policy at any time by posting the updated version here and changing the "version" date above. Therefore, please check this page for updates whenever you visit any of our Sites, and we may also elect to notify our registered users and our content suppliers of material changes via e-mail or other means. This Policy does not apply to information that may be collected off-line. 
 
@@ -92,7 +92,7 @@ Third party sites have their own privacy and data protection policies and practi
 
 **What is our policy regarding children's information?**
 
-Our Sites, products and and services are not intended for, and we do not knowingly accept registration or collect personally identifiable information from, engage in financial transactions with, or otherwise transact with, children under 13 years old. If we become aware that a child under 13 has provided us with personal identifiable Information, we will delete it from our files. If parents or legal guardians become aware that their under-13s have provided us with personally identifiable information without their consent (or that we have otherwise collected or obtained such information), they should contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Our Sites, products and and services are not intended for, and we do not knowingly accept registration or collect personally identifiable information from, engage in financial transactions with, or otherwise transact with, children under 13 years old. If we become aware that a child under 13 has provided us with personal identifiable Information, we will delete it from our files. If parents or legal guardians become aware that their under-13s have provided us with personally identifiable information without their consent (or that we have otherwise collected or obtained such information), they should contact us at support@beatport.com. 
 
 If you are between the ages of 13 and 18, or otherwise below the age of legal majority where you live, you must obtain permission from your parent or legal guardian before registering with one or more of the Sites, using a credit card or providing any information about themselves to us or anyone else over the Internet. 
 
@@ -102,7 +102,7 @@ We collect, store and process the information we collect in the United States of
 
 California residents may request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes, and those who have an established business relationship with us may also choose to opt-out from such disclosures. To do so, please contact us by one of the methods described below stating your specific request and your name, address, e-mail address and phone number. This will not prohibit disclosure of information for non-marketing purposes. 
 
-E-mails that you receive from us will include specific instructions on how to unsubscribe from receiving certain communications. You may also send an email to us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) to update or correct the personal information we have on file for you or to be unsubscribed from marketing or promotional e-mailings. 
+E-mails that you receive from us will include specific instructions on how to unsubscribe from receiving certain communications. You may also send an email to us at support@beatport.com to update or correct the personal information we have on file for you or to be unsubscribed from marketing or promotional e-mailings. 
 
 As long as you remain a registered user of one or more of the Sites, or continue to make purchases or provide us with content, then we still reserve the right to contact you about your account and to inform you about operational matters regarding the Sites.
 
@@ -112,7 +112,7 @@ If you reside in the EU or if your data is processed in connection with our Euro
 
 a) Data Controller
 
-For the purposes of the GDPR, Beatport, LLC, is the data controller of any personal data collected from or about you. Our EU representative is Beatport Europe B.V., with offices at Overhoeksplein 31, Floor 13 & 14, 1031 KS Amsterdam, the Netherlands and Pfuelstraße 5, 10997 Berlin, Germany; [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+For the purposes of the GDPR, Beatport, LLC, is the data controller of any personal data collected from or about you. Our EU representative is Beatport Europe B.V., with offices at Overhoeksplein 31, Floor 13 & 14, 1031 KS Amsterdam, the Netherlands and Pfuelstraße 5, 10997 Berlin, Germany; legal@beatport.com.
 
 b) Lawful basis for processing
 
@@ -157,7 +157,7 @@ At any time, you have the right:
 
 • to not be subject to a decision based on automated processing and to have safeguards put in place if you are being profiled based on your personal data.
 
-Any request from you for access to or a copy of your personal data must be in writing and we will endeavor to respond within a reasonable period and in any event within one month in compliance with European data protection legislation. We will comply with our legal obligations as regards your rights as a data subject. We aim to ensure that the information we hold about you is accurate at all times. To assist us in ensuring that your information is up to date, please let us know if any of your personal details change at by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) You also have the right to make a complaint at any time to the supervisory authority in the country you are situated in.  You can find the details of your local supervisory authority here: [http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm).
+Any request from you for access to or a copy of your personal data must be in writing and we will endeavor to respond within a reasonable period and in any event within one month in compliance with European data protection legislation. We will comply with our legal obligations as regards your rights as a data subject. We aim to ensure that the information we hold about you is accurate at all times. To assist us in ensuring that your information is up to date, please let us know if any of your personal details change at by contacting us at support@beatport.com. You also have the right to make a complaint at any time to the supervisory authority in the country you are situated in.  You can find the details of your local supervisory authority here: [http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm).
 
 **DISCLAIMER OF LIABILITY: There are third-party links on this webpage that will send you to websites that we have no control over. Clicking on a third-party link is done at your own discretion and risk. By clicking on a third-party link, you understand that you will be solely responsible for any loss or damage that may result from such activities.**
 
