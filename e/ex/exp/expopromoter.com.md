@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expopromoter.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530085735id_/http%3A//expopromoter.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expopromoter.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929025706id_/http%3A//expopromoter.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - ExpoPromoter
 
@@ -10,7 +10,9 @@ This privacy policy covers following issues:
 
 ## What information and why we collect
 
-While interacting with ExpoPromoter, you may be asked to fill in your personal data, including your full name, valid e-mail address, web site address, telephone and fax number, your company name and your position. This information is needed to find out your interest area to ExpoPromoter and to maximize the feedback; and is processed when, for example, registering for the ExpoPromoter account and/or for our newsletter receiving. Sometimes, you will be also sent the information regarding the ExpoPromoter system modifications that is to a great importance for its users. 
+While interacting with ExpoPromoter, you may be asked to fill in your personal data, including your full name, valid e-mail address, web site address, telephone, fax number, your company name, company department you are working in, your job position within this department. This information is needed to find out your interest area to ExpoPromoter and to maximize the feedback; and is processed when, for example, registering for the ExpoPromoter account and/or for our newsletter receiving. Sometimes, you will be also sent the information regarding the ExpoPromoter system modifications that is to a great importance for its users. 
+
+The period of your personal data storage is determined by your personal appeal containing request of data erasure.
 
 If you would like to access ExpoPromoter paid services section, we may have to collect your other appropriate information due to the billing purposes.
 
@@ -31,6 +33,12 @@ ExpoPromoter uses cookies to store and sometimes track the information about yo
 ## Your Ability to Edit and Delete Your Account Information
 
 You are always able to edit your ExpoPromoter account information by logging in and making the necessary modifications in the ExpoPromoter users' admin section. ExpoPromoter also saves your right to delete your data at any time and take it off from our data records. 
+
+Additionally if you wish to send us request about your data rectification or total erasure (“right to be forgotten”) or providing you with your personal data or restriction of processing or regarding your data portability, please send an email to the following mailbox: [info@expopromoter.com](mailto:info@expopromoter.com). Our managers will contact you shortly after verifying your identity.
+
+## Data security
+
+Please note that your personal data is by default inaccessible to an indefinite number of natural persons without your personal intervention. To ensure that, we have implemented a number of technical and organisational measures.
 
 ## Changes to this privacy policy
 
