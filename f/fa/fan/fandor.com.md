@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fandor.com privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906014404id_/https%3A//www.fandor.com/company/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fandor.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929090005id_/https%3A//www.fandor.com/company/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fandor
 
@@ -110,6 +110,6 @@ We may change this Policy from time to time to reflect changes in the law or in 
 If you have any questions about this Policy, please contact us at [legal@fandor.com](mailto:legal@fandor.com) or contact us by mail addressed to:
 
 Our Film Festival, Inc.  
-522 Washington Street  
+200 Pine Street  
 San Francisco CA 94111  
 Attn: Legal Department
