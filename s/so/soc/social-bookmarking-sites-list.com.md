@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the social-bookmarking-sites-list.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525113433id_/http%3A//www.social-bookmarking-sites-list.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the social-bookmarking-sites-list.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929210105id_/http%3A//www.social-bookmarking-sites-list.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Social Bookmarking Sites List
 
