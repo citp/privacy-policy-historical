@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the premeditatedleftovers.com privacy policy that was archived on 2018-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180302095258id_/https%3A//premeditatedleftovers.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premeditatedleftovers.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929084321id_/https%3A//premeditatedleftovers.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Premeditated Leftovers
+# Privacy Policy - Premeditated Leftovers™
 
 This Privacy Policy governs the manner in which Premeditated Leftovers collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://premeditatedleftovers.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by Premeditated Leftovers.
 
