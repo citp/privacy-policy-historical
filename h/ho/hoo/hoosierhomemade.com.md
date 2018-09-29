@@ -1,77 +1,135 @@
-> *The following text is extracted and transformed from the hoosierhomemade.com privacy policy that was archived on 2018-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180101161433id_/https%3A//hoosierhomemade.com/disclosures) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoosierhomemade.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929175420id_/https%3A//hoosierhomemade.com/disclosures) for the most accurate reproduction.*
 
 # Disclosures - Hoosier Homemade
 
-**ONLINE PRIVACY POLICY AGREEMENT**
+## Privacy Policy
 
-Simple Easy Creative, LLC is committed to keeping any and all personal information collected of those individuals that visit our website and make use of our on-line facilities and services accurate, confidential, secure and private. Our privacy policy has been designed and created to ensure those affiliated with Simple Easy Creative, LLC of our commitment and realization of our obligation not only to meet but to exceed most existing privacy standards. 
+Simple-Easy-Creative LLC (“ **Company** ,” “ **we** ,” or “ **us** ”) respects your privacy and is committed to protecting it through this Privacy Policy.
 
-**_THEREFORE_** , this Privacy Policy Agreement shall apply to Simple Easy Creative, LLC and thus it shall govern any and all data collection and usage thereof. Through the use of hoosierhomemade.com you are herein consenting to the following data procedures expressed within this agreement. 
+This Privacy Policy governs your access to and use of www.hoosierhomemade.com, including any content, functionality and services offered on or through www.hoosierhomemade.com (the “ **Website** “), whether as a guest or a registered user.
 
-**Collection of Information**
+When accessing the Website, the Company will learn certain information about you, both automatically and through voluntary actions you may take, during your visit. This policy applies to information we collect on the Website and in email, text, or other electronic messages between you and the Website.
 
-This website collects various types of information, such as:
+Please read the Privacy Policy carefully before you start to use the Website. **By using the Website or by clicking to accept or agree to the Terms of Use when this option is made available to you, you accept and agree to be bound and abide by the Privacy Policy.** If you do not want to agree to the Privacy Policy, you must not access or use the Website.
 
-Voluntarily provided information which may include your name, address, email address, billing and/or credit card information etc., which may be used when you purchase products and/or services and to deliver the services you have requested.
+**Children Under The Age Of 13**
 
-Information automatically collected when visiting our website, which may include cookies, third party tracking technologies and server logs. 
+Our Website is not intended for children under 13 years of age. No one under age 13 may provide any information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use.
 
-Please rest assured that this site shall only collect personal information that you knowingly and willingly provide by way of surveys, completed membership forms, and emails. It is the intent of this site to use personal information only for the purpose for which it was requested and any additional uses specifically provided on this site. 
+If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at liz@hoosierhomemade.com.
 
-Simple Easy Creative, LLC may also have the occasion to collect anonymous demographic information that may not be unique to you and may even gather additional or other personal and/or non-personal information, such as age, gender, household income, political affiliation, race and religion, at a later time.
+**Information We Collect About You**
 
-It is even possible that we may gather information about your computer hardware and/or software. Such collected information may include, but may not be limited to, your IP address, browser type, domain name, access time and various website addresses. The gathering of this information may be used for maintaining the quality of service we provide, as well as providing overall general statistics related to the use of our website and others. 
+When you access the Website, the Company will learn certain information about you during your visit.
 
-It is highly recommended and suggested that you review the privacy policies and statements of any website you choose to use or frequent as a means to better understand the way in which other websites garner, make use of and share information collected. 
+_Information You Provide To Us_. The Website provides various places for users to provide information. We collect information that users provide by filling out forms on the Website, communicating with us via contact forms, responding to surveys, search queries on our search feature, providing comments or other feedback, and providing information when ordering a product or service via the Website.
 
-**Use of Information Collected**
+We use information you provide to us to deliver the requested product and/or service, to improve our overall performance, and to provide you with offers, promotions, and information.
 
-Simple Easy Creative, LLC may collect and may make use of personal information to assist in the operation of our website and to ensure delivery of the services you need and request. At times, we may find it necessary to use personally identifiable information meant to inform you of other possible products and/or services that may be available to you from hoosierhomemade.com and its subsidiaries and may also be in contact with you with regards to completing surveys and/or research questionnaires related to your opinion of current or possible new services that are offered or may be offered.
+_Information We Collect Through Automatic Data Collection Technology_. As you navigate through our Website, we may use automatic data collection technologies including Google Analytics to collect certain information about your equipment, browsing actions, and patterns. This will generally include information about your location, your traffic pattern through our website, and any communications between your computer and our Website.  Among other things, we will collect data about the type of computer you use, your Internet connection, your IP address, your operating system, and your browser type.
 
-Simple Easy Creative, LLC does not now, nor will it in the future, sell, rent or lease any of its customer lists and/or names to any third parties.
+The information we collect automatically is used for statistical data and will not include personal information. We use this data to improve our Website and our service offerings. To the extent that you voluntarily provide personal information to us, our systems will associate the automatically collected information with your personal information.
 
-Simple Easy Creative, LLC, from time to time, may feel it necessary to make contact with you on behalf of other external business partners with regards to a specific offer which may be of interest to you. If you consent or show interest in presented offers, then, at that time, specific identifiable information, such as name, email address and/or telephone number, may be shared with the third party. 
+**Use of Cookies And Pixels**
 
-Simple Easy Creative, LLC may find it beneficial to share specific data with their trusted partners in an effort to conduct statistical analysis, provide you with email and/or postal mail, deliver support and/or arrange for deliveries to be made. Those third parties shall be strictly prohibited from making use of your personal information, other than to deliver those services which you requested, and as such they are thus required in accordance with this agreement to maintain the confidentiality of all your information. 
+Similar to other commercial websites, our website utilizes a standard technology called “cookies” and server logs to collect information about how our site is used. Information gathered through cookies and server logs may include the date and time of visits, the pages viewed, time spent at our site, and the websites visited just before and just after our own, as well as your IP address.
 
-Simple Easy Creative, LLC may deem it necessary to follow websites and/or pages that their users may frequent in an effort to gleam what types of services and/or products may be the most popular to customers or the general public.
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a website, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each website can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites.
 
-Simple Easy Creative, LLC may disclose your personal information, without prior notice to you, only if required to do so pursuant to applicable laws and/or in a good faith belief that such action is deemed necessary or required to:
+The Company reserves the right to use technological equivalents of cookies, including social media pixels. These pixels allow social media sites to track visitors to outside websites so as to tailor advertising messages users see while visiting that social media website. The Company reserves the right to use these pixels in compliance with the policies of the various social media sites. 
 
-Conform to decrees, laws and/or statutes or in an effort to comply with any process which may be served upon Simple Easy Creative, LLC and/or its website;
+**Third Party Use Of Cookies**
 
-Safeguard and/or preserve all the rights and/or property of Simple Easy Creative, LLC; and
+Some content or applications, including advertisements, on the Website are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
 
-Perform under demanding conditions in an effort to safeguard the personal safety of users of hoosierhomemade.com and/or the general public. 
+We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
 
-**Children Under Age of 13**
+**Email Information**
 
-Simple Easy Creative, LLC does not knowingly collect personal identifiable information from children under the age of thirteen (13) without verifiable parental consent. If it is determined that such information has been inadvertently collected on anyone under the age of thirteen (13), we shall immediately take the necessary steps to ensure that such information is deleted from our system’s database. Anyone under the age of thirteen (13) must seek and obtain parent or guardian permission to use this website.
+If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received online, mail, and telephone. This also applies when you register for our website, sign up through any of our forms using your email address or make a purchase on this site. For further information see the email policies below.
 
-**Unsubscribe or Opt-Out**
+**Email Policies**
 
-All users and/or visitors to our website have the option to discontinue receiving communication from us and/or reserve the right to discontinue receiving communications by way of email or newsletters. To discontinue or unsubscribe to our website please send an email that you wish to the email on our website. If you wish to unsubscribe or opt-out from any third party websites, you must go to that specific website to unsubscribe and/or opt-out. 
+We are committed to keeping your e-mail address confidential. We do not sell, rent, or lease our subscription lists to third parties, and will not disclose your email address to any third parties except as allowed in the section titled Disclosure of Your Information.
 
-**Links to Other Web Sites**
+We will maintain the information you send via e-mail in accordance with applicable federal law.
 
-Our website does contain links to affiliate and other websites. Simple Easy Creative, LLC does not claim nor accept responsibility for any privacy policies, practices and/or procedures of other such websites. Therefore, we encourage all users and visitors to be aware when they leave our website and to read the privacy statements of each and every website that collects personally identifiable information. The aforementioned Privacy Policy Agreement applies only and solely to the information collected by our website. 
+In compliance with the CAN-SPAM Act, all e-mails sent from our organization will clearly state who the e-mail is from and provide clear information on how to contact the sender. In addition, all e-mail messages will also contain concise information on how to remove yourself from our mailing list so that you receive no further e-mail communication from us.
 
-**Security**
+Our emails provide users the opportunity to opt-out of receiving communications from us and our partners by reading the unsubscribe instructions located at the bottom of any e-mail they receive from us at anytime.
 
-Simple Easy Creative, LLC shall endeavor and shall take every precaution to maintain adequate physical, procedural and technical security with respect to its offices and information storage facilities so as to prevent any loss, misuse, unauthorized access, disclosure or modification of the user’s personal information under our control. 
+Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications by clicking on the unsubscribe link in the e-mail.
 
-**Changes to Privacy Policy Agreement**
+**How And Why We Collect Information**
 
-Simple Easy Creative, LLC reserves the right to update and/or change the terms of our privacy policy, and as such we will post those change to our website homepage at hoosierhomemade.com, so that our users and/or visitors are always aware of the type of information we collect, how it will be used, and under what circumstances, if any, we may disclose such information. If at any point in time Simple Easy Creative, LLC decides to make use of any personally identifiable information on file, in a manner vastly different from that which was stated when this information was initially collected, the user or users shall be promptly notified by email. Users at that time shall have the option as to whether or not to permit the use of their information in this separate manner. 
+The Company collects your information in order to record and support your participation in the activities you select. If you register to download a book or resources, sign up for our newsletter, and/or purchase a product from us, we collect your information. We use this information to track your preferences and to keep you informed about the products and services you have selected to receive and any related products and/or services. As a visitor to this Website, you can engage in most activities without providing any personal information. It is only when you seek to download resources and/or register for services that you are required to provide information.
 
-**Acceptance of Terms**
+If you are outside the European Union and opt to receive any free resources, participate in any free training programs, register for a webinar, register for a live event, register for a seminar, or purchase any products sold by the Company on this Website, we will automatically enroll you to receive our free email newsletter. If you do not wish to receive this newsletter, you can unsubscribe anytime. We include an “unsubscribe” link at the bottom of every email we send. If you ever have trouble unsubscribing, you can send an email to liz@hoosierhomemade.com requesting to unsubscribe from future emails.
 
-Through the use of this website, you are hereby accepting the terms and conditions stipulated within the aforementioned Privacy Policy Agreement. If you are not in agreement with our terms and conditions, then you should refrain from further use of our sites. In addition, your continued use of our website following the posting of any updates or changes to our terms and conditions shall mean that you are in agreement and acceptance of such changes. 
+If you are in the European Union and opt to receive any free resources, participate in any free training programs, register for a webinar, register for a live event, register for a seminar, or purchase any products sold by the Company on this Website, we will only enroll you to receive our free email newsletter if you affirmatively consent to it. If you do not wish to receive this newsletter, you can unsubscribe anytime. We include an “unsubscribe” link at the bottom of every email we send. If you ever have trouble unsubscribing, you can send an email to liz@hoosierhomemade.com requesting to unsubscribe from future emails.
 
-**How to Contact Us**
+**How Do We Use the Information That You Provide to Us?**
 
-If you have any questions or concerns regarding the Privacy Policy Agreement related to our website, please feel free to contact us at the following email, telephone number or mailing address.
+We use personal information for purposes of presenting our Website and its contents to you, providing you with information, providing you with offers for products and services, providing you with information about your subscriptions and products, carrying out any contract between you and the Company, administering our business activities, providing customer service, and making available other items and services to our customers and prospective customers.
 
-**Email:** [Liz@HoosierHomemade.com](mailto:Liz@HoosierHomemade.com)
+From time-to-time, we may use the information you provide to us to make you offers to purchase products and services provided by third parties in exchange for a commission to be paid to us by such third parties. Should you opt to take part in such promotions, the third parties will receive your information.
 
-This policy was crafted by [FormSwift](http://formswift.com/)
+From time-to-time, we may use the information you provide to us to display advertisements to you that are tailored to your personal characteristics, interests, and activities.
+
+**Disclosure Of Your Information**
+
+As a general rule, we do not sell, rent, lease or otherwise transfer any information collected whether automatically or through your voluntary action.
+
+We may disclose your personal information to our subsidiaries, affiliates, and service providers for the purpose of providing our services to you.
+
+We may disclose your personal information to a third party, including a lawyer or collection agency, when necessary to enforce our terms of service or any other agreement between you and the Company.
+
+We may provide your information to any successor in interest in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of the Company’s assets and/or business.
+
+We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights or when compelled by a court or other governmental entity to do so.
+
+**How Do We Protect Your Information and Secure Information Transmissions?**
+
+We employ commercially reasonable methods to ensure the security of the information you provide to us and the information we collect automatically. This includes using standard security protocols and working only with reputable third-party vendors.
+
+Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. However, doing so is allowed, but at your own risk. Some of the information you may enter on our website may be transmitted securely via a secure medium known as Secure Sockets Layer, or SSL. Credit Card information and other sensitive information is never transmitted via email.
+
+The Company may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
+
+For site security purposes and to ensure that this service remains available to all users, the Company uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+
+**Policy Changes**
+
+It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users’ personal information, we will notify you by email to the email address specified in your account and/or through a notice on the Website home page. The date the privacy policy was last revised is identified at the bottom of the page. You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting our Website and this privacy policy to check for any changes.
+
+**Visitors’ GDPR Rights**
+
+If you are within the European Union, you are entitled to certain information and have certain rights under the General Data Protection Regulation. Those rights include:
+
+We will retain any information you choose to provide to us until the earlier of: (a) you asking us to delete the information, (b) our decision to cease using our existing data providers, or (c) the Company decides that the value in retaining the data is outweighed by the costs of retaining it.
+
+You have the right to request access to your data that the Company stores and the rights to either rectify or erase your personal data.
+
+You have the right to seek restrictions on the processing of your data.
+
+You have the right to object to the processing of your data and the right to the portability of your data.
+
+To the extent that you provided consent to the Company’s processing of your personal data, you have the right to withdraw that consent at any time, without affecting the lawfulness of processing based upon consent that occurred prior to your withdrawal of consent.
+
+You have the right to lodge a complaint with a supervisory authority that has jurisdiction over issues related to the General Data Protection Regulation.
+
+We require only the information that is reasonably required to enter into a contract with you. We will not require you to provide consent for any unnecessary processing as a condition of entering into a contract with us.
+
+**Contact Us**
+
+The Company welcomes your questions or comments regarding the Privacy Policy:
+
+Simple-Easy-Creative LLC
+
+717 Michigan Ave., 3rd Floor
+
+LaPorte, IN 46350
+
+Email Address: liz@hoosierhomemade.com
+
+Effective as of May 22, 2018
