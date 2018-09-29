@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expedia.co.in privacy policy that was archived on 2018-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180213170520id_/https%3A//www.expedia.co.in/p/corporate/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expedia.co.in privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929031853id_/https%3A//www.expedia.co.in/p/corporate/privacypolicy) for the most accurate reproduction.*
 
 # Expedia, Inc. Privacy Pledge | Expedia.co.in
 
