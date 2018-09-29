@@ -1,67 +1,67 @@
-> *The following text is extracted and transformed from the aarpmedicareplans.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705010523id_/https%3A//www.aarpmedicareplans.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aarpmedicareplans.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929022354id_/https%3A//www.aarpmedicareplans.com/content/aarpmedicareplans/en/privacy_policy.html) for the most accurate reproduction.*
 
-# AARP® Medicare Plans - Privacy Policy | from UnitedHealthcare®
+# Privacy Policy | AARP® Medicare Plans from UnitedHealthcare®
 
-  * HIPAA Notice of Privacy Practices
-  * Website Privacy Policy
-  * Social Security Number Protection Policy
+## Optional Title
 
+**HIPAA Notice of Privacy Practice:   **To read more about our privacy practices regarding health and medical information under the Health Insurance Portability and Accountability Act ("HIPAA"), please visit our [HIPAA Notice of Privacy Practices (PDF)](https://www.uhc.com/content/dam/uhcdotcom/en/npp/NPP-UHC-MR-AARPMP-EN.pdf) (479.63 KB)
 
+PDF (Portable Document Format) documents can be viewed with Adobe® Reader®. If you don't already have this viewer on your computer, download it free from the [Adobe website](http://www.adobe.com/products/acrobat/readstep2.html).
 
-**HIPAA Notice of Privacy Practices:** To read more about our privacy practices regarding health and medical information under the Health Insurance Portability and Accountability Act (“HIPAA”), please visit our [HIPAA Notice of Privacy Practices.](https://web.archive.org/online_documents/ovation/pdf/mapd/en/2014/AARPMedicarePlans_HealthPlanNoticesOfPrivacyPractices-NEW_09-2013.pdf)
+**Website Privacy Policy**
 
-### Website Privacy Policy
+**Introduction  
+**
 
-Introduction  
-We recognize the privacy of your personal information is important. The purpose of this policy is to let you know how we handle the information collected through the use of this website. Portions of this website may describe privacy practices applicable to specific types of information or to information provided on specific web pages. 
+We recognize the privacy of your personal information is important. The purpose of this policy is to let you know how we handle the information collected through the use of this website. Portions of this website may describe privacy practices applicable to specific types of information or to information provided on specific web pages.
 
-This policy does not apply to information collected through other means such as by telephone or in person, although that information may be protected by other privacy policies. As used in this policy, terms such as “we” or “our” and “Company” refer to UnitedHealthcare and its current and future affiliated entities, including our parent company UnitedHealth Group. 
+This policy does not apply to information collected through other means such as by telephone or in person, although that information may be protected by other privacy policies. As used in this policy, terms such as "we" or "our" and "Company" refer to UnitedHealthcare and its current and future affiliated entities, including our parent company UnitedHealth Group.
 
-This website is intended for a United States audience. Any information you provide, including any personal information, will be transferred to and processed by a computer server located within the United States.
-
-  * Cookies and Tracking
-  * Your Personal Information
-  * Sharing Personal Information
-  * Website and Information Security
-  * Our Online Communications Practices
-  * Information for Children Under 13
-  * Contact Us
-  * Effective Date
-  * Changes to this Privacy Policy
-
-
+This website is intended for a United States audience. Any information you provide, including any personal information, will be transferred to and processed by a computer server located within the United States.
 
 ### Cookies and Tracking
 
-The Company uses various technologies, which may include “cookie” technology to gather information from our website visitors such as pages visited and how often they are visited, and to enable certain features on this website. 
-
-“Cookies” are small text files that may be placed on your computer when you visit a website or click on a URL. Cookies may include “single-session cookies” which generally record information during only a single visit to a website and then are erased, and “persistent” cookies which are generally stored on a computer unless or until they are deleted or are set to expire.
-
-You may disable cookies and similar items by adjusting your browser preferences at any time; however, this may limit your ability to take advantage of all the features on this website. 
-
-You may also manage the use of “flash” technologies, with the [Flash management tools ](http://www.adobe.com/devnet/security.html) available at Adobe's website. Note that we do not currently respond to web browser “Do Not Track” signals that provide a method to opt out of the collection of information about online activities over time and across third-party websites or online services because, among other reasons, there is no common definition of such signals and no industry-accepted standards for how such signals should be interpreted.
-
-We may also allow third party service providers to use cookies and other technologies to collect information and to track browsing activity over time and across third party websites such as web browsers used to read our websites, which websites are referring traffic or linking to our websites, and to deliver targeted advertisements to you. We do not control these third party technologies and their use is governed by the privacy policies of third parties using such technologies. For more information about third party advertising networks and similar entities that use these technologies, see <http://www.aboutads.info/consumers>, and to opt-out of such ad networks' and services' advertising practices, go to [www.aboutads.info/choices](http://www.aboutads.info/choices). Once you click the link, you may choose to opt-out of such advertising from all participating advertising companies or only advertising provided by specific advertising companies.
-
-We may use analytics companies to gather information and aggregate data from our website visitors such as which pages are visited and how often they are visited, and to enable certain features on our websites. Information is captured using various technologies and may include cookies. 
-
-We may use and disclose your activity information unless restricted by this policy or by law. Some examples of the ways we use your activity information include: 
-
-  * Customizing your experience on the website including managing and recording your preferences.
-  * Marketing, product development, and research purposes.
-  * Tracking resources and data accessed on the website.
-  * Developing reports regarding site usage, activity, and statistics.
-  * Assisting users experiencing website problems.
-  * Enabling certain functions and tools on this website.
-  * Tracking paths of visitors to this website and within this website.
+The Company may use various technologies, including cookies, tokens, tags, web logs, web beacons, scripts and web server logs to gather automatically-collected information and may aggregate this information from our Online Services visitors or to enable certain features of our Online Services. This information may include demographic data, technical information about the technology (e.g., phone, computer) used to connect to the Online Services, web browser information, your IP address, and browsing behavior such as pages visited and how often they are visited ("Activity Information"). We may also use third party analytics companies to provide these services.  
 
 
+We may also allow third party service providers to use cookies and other technologies to collect information and to track browsing activity over time and across third party websites such as web browsers used to read our websites, which websites are referring traffic or linking to our websites, and to deliver targeted advertisements to you. We do not control these third party technologies and their use is governed by the privacy policies of third parties using such technologies. For more information about third party advertising networks and similar entities that use these technologies, see <http://www.aboutads.info/consumers>, and to opt-out of such ad networks' and services' advertising practices, go to [www.aboutads.info/choices](http://www.aboutads.info/choices) and <http://www.networkadvertising.org/choices>. Once you click the link, you may choose to opt-out of such advertising from all participating advertising companies or only advertising provided by specific advertising companies. Please note that to the extent advertising technology is integrated into the Online Services, you may still receive advertisements even if you opt-out of tailored advertising. In that case, the ads will just not be tailored. Also, we do not control any of the above opt-out links and are not responsible for any choices you make using these mechanisms or the continued availability or accuracy of these mechanisms.
+
+Activity Information is captured using various technologies and may include cookies. "Cookies" are small text files that may be placed on your computer when you visit an Online Service or click on a URL. Cookies may include "single-session cookies" which generally record information during only a single visit to a website and then are erased, and "persistent" cookies which are generally stored on a computer unless or until they are deleted or are set to expire. You may disable cookies and similar items by adjusting your browser preferences at any time; however, this may limit your ability to take advantage of all the features on our Online Services. In addition, you may also have additional means to manage the collection of Activity Information by:
+
+  * Managing the use of "flash" technologies with the [Flash management tools](http://www.adobe.com/devnet/security.html) available at Adobe's website;
+  * Clicking on the available "Opt-Out" link at the bottom of the applicable home web page;
+  * Visiting [Google](https://www.google.com/settings/ads) to "Opt-Out" of display advertising or customize Google display network ads; and/or
+  * Clicking on the Optum Pixel "Opt-Out" [link](https://ometrics.optum.com/opt.htm).
+
+
+
+Please note that we do not currently respond to web browser "Do Not Track" signals that provide a method to opt-out of the collection of information about online activities over time and across third party websites or online services because, among other reasons, there is no common definition of such signals and no industry-accepted standards for how such signals should be interpreted.
+
+We gather Activity Information about you in order to improve the quality of our services, such as the best method and time to contact you. Without limiting the other ways in which we may use Information as described herein, we may otherwise use and disclose your Activity Information unless restricted by this Policy or by law. Some examples of the ways we use your Activity Information include:
+
+  * Customizing your experiences, including managing and recording your preferences;
+  * Authenticating your account information;  
+
+  * Marketing, product development, and research purposes;
+  * Tracking resources and data accessed on the Online Services;  
+
+  * Developing reports regarding Online Service usage, activity, and statistics;
+  * Assisting users experiencing problems with our services;
+  * Updating and servicing our Online Services;  
+
+  * Enabling certain functions and tools on the Online Services; and  
+
+  * Tracking paths of visitors to the Online Services and within the Online Services.
+
+
+
+As described above, we may use tracking technologies that allow us recognize your device when you return to our Online Services within a period of time, as determined by us, and to support automatic login to your Online Services. To maintain your privacy, you should affirmatively log out of your account prior to your session ending (whether you end your session or we end your session, for example if our Online Services has "timed out" – i.e. we have ended your session automatically after a period of inactivity as determined by us in our sole discretion). Unless you affirmatively log out of your account, you may be automatically logged back in the next time you, or any user of your devices visits the Online Services.
 
 ### Your Personal Information
 
 This website may include web pages that give you the opportunity to provide us with personal information about yourself. You do not have to provide us with personal information if you do not want to; however, that may limit your ability to use certain functions of this website or to request certain services or information.
 
-We may use personal information for a number of purposes such as:
+****We may use personal information for a number of purposes such as:
 
   * To respond to an email or particular request from you.
   * To personalize the website for you.
@@ -76,24 +76,24 @@ We may use personal information for a number of purposes such as:
 
 
 
-We may use personal information to contact you through any contact information you provide through this website, including any email address, telephone number, cell phone number, text message number, or fax number. Please see the section below titled, "Our Online Communications Practices."
+We may use personal information to contact you through any contact information you provide through this website, including any email address, telephone number, cell phone number, text message number, or fax number. Please see the section below titled, "Our Online Communications Practices."  
+
 
 We may share personal information within the Company, and we may combine personal information that you provide us through this website with other information we have received from you, whether online or offline, or from other sources such as from our vendors. For example, if you have purchased a product or service from us, we may combine personal information you provide through this website with information regarding your receipt of the product or service.
 
 ### Sharing Personal Information
 
-We will only share your personal information with third parties as outlined in this policy and as otherwise permitted by law.   
-
+We will only share your personal information with third parties as outlined in this policy and as otherwise permitted by law.
 
 We may share personal information if all or part of the Company is sold, merged, dissolved, acquired, or in a similar transaction.
 
 We may share personal information in response to a court order, subpoena, search warrant, law or regulation. We may cooperate with law enforcement authorities in investigating and prosecuting activities that are illegal, violate our rules, or may be harmful to other visitors.
 
-If you submit information or a posting to a chat room, bulletin board, or similar “chat” related portion of this website, the information you submit along with your screen name will be visible to all visitors, and such visitors may share with others. Therefore, please be thoughtful in what you write and understand that this information may become public.
+If you submit information or a posting to a chat room, bulletin board, or similar "chat" related portion of this website, the information you submit along with your screen name will be visible to all visitors, and such visitors may share with others. Therefore, please be thoughtful in what you write and understand that this information may become public.
 
-We may share personal information with other third party companies that we collaborate with or hire to perform services on our behalf. For example, we may hire a company to help us send and manage email, and we might provide the company with your email address and certain other information in order for them to send you an email message on our behalf. Similarly, we may hire companies to host or operate some of our websites and related computers and software applications. 
+We may share personal information with other third party companies that we collaborate with or hire to perform services on our behalf. For example, we may hire a company to help us send and manage email, and we might provide the company with your email address and certain other information in order for them to send you an email message on our behalf. Similarly, we may hire companies to host or operate some of our websites and related computers and software applications.
 
-This website may permit you to view your visitor profile and related personal information and to request changes to such information. If this function is available, we will include a link on this website with a heading such as “My Profile” or similar words. Clicking on the link will take you to a page through which you may review your visitor profile and related personal information. 
+This website may permit you to view your visitor profile and related personal information and to request changes to such information. If this function is available, we will include a link on this website with a heading such as "My Profile" or similar words. Clicking on the link will take you to a page through which you may review your visitor profile and related personal information.
 
 ### Website and Information Security
 
@@ -101,22 +101,25 @@ We maintain reasonable administrative, technical and physical safeguards designe
 
 ### Our Online Communication Practices
 
-We may send electronic newsletters, notification of account status, and other communications, such as marketing communications, on a periodic basis to various individuals and organizations. We may also send email communications regarding topics such as general health benefits, website updates, health conditions, and general health topics. We offer you appropriate consent mechanisms, such as opt-out, for marketing and certain other communications. As examples, you may opt-out as provided for in a specific email communication or contact us as described below in the section “Contact Us.” Please be aware that opt-outs may not apply to certain types of communications, such as account status, website updates, or other communications. 
+We may send electronic newsletters, notification of account status, and other communications, such as marketing communications, on a periodic basis to various individuals and organizations. We may also send email communications regarding topics such as general health benefits, website updates, health conditions, and general health topics. We offer you appropriate consent mechanisms, such as opt-out, for marketing and certain other communications. As examples, you may opt-out as provided for in a specific email communication or contact us as described below in the section "Contact Us." Please be aware that opt-outs may not apply to certain types of communications, such as account status, website updates, or other communications.
 
 ### Information for Children Under 13
 
-We will not intentionally collect any personal information from children under the age of 13 through this website without receiving parental consent. If you think that we have collected personal information from a child under the age of 13 through this website, please contact us. 
+We will not intentionally collect any personal information from children under the age of 13 through this website without receiving verifiable parental consent. If you think that we have collected personal information from a child under the age of 13 through this website, please contact us.
 
 ### Contact Us
 
-To contact us regarding this policy and our related privacy practices, please contact us at: [https://www.aarpmedicareplans.com/contact-us](https://web.archive.org/uhcmr/contact-us.html). If you believe we or any company associated with us has misused any of your information please contact us immediately and report such misuse.
+To contact us regarding this policy and our related privacy practices, please contact us at: __[www.aarpmedicareplans.com/contact-us](https://web.archive.org/content/aarpmedicareplans/en/contact-us.html). If you believe we or any company associated with us has misused any of your information please contact us immediately and report such misuse.  
+
 
 ### Effective Date
 
-The Effective Date of this policy is January 1, 2014. 
+The effective date of this policy is January 1, 2017.
 
 ### Changes to this Privacy Policy
 
-We may change this policy. If we do so, such change will appear on this page of our website. We will also provide appropriate notice and choices to you, on this website and in other appropriate locations, based on the scope and extent of changes. You may always visit this policy to learn of any updates. 
+We may change this policy. If we do so, such change will appear on this page of our website. We will also provide appropriate notice and choices to you, on this website and in other appropriate locations, based on the scope and extent of changes.  You may always visit this policy to learn of any updates.
 
-**Social Security Number Protection Policy:** Protecting personal information is important to UnitedHealthcare. It is our policy to protect the confidentiality of Social Security numbers (“SSNs”) that we receive or collect in the course of business. We secure the confidentiality of SSNs through various means, including physical, technical, and administrative safeguards that are designed to protect against unauthorized access. It is our policy to limit access to SSNs to that which is lawful, and to prohibit unlawful disclosure of SSNs.
+**Social Security Number Protection Policy:   **Protecting personal information is important to UnitedHealthcare. It is our policy to protect the confidentiality of Social Security numbers ("SSNs") that we receive or collect in the course of business. We secure the confidentiality of SSNs through various means, including physical, technical, and administrative safeguards that are designed to protect against unauthorized access. It is our policy to limit access to SSNs to that which is lawful, and to prohibit unlawful disclosure of SSNs.
+
+Back to top
