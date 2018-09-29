@@ -1,300 +1,2369 @@
-<!--The following is the downloaded HTML source of the credit-suisse.com privacy policy that was archived on 2007-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070613192303id_/http%3A//www.credit-suisse.com/privacy/en) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the credit-suisse.com privacy policy that was archived on 2018-09-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180929041206id_/https%3A//www.credit-suisse.com/us/en/legal/privacy-and-cookie-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/content-light-bullets.dwt" codeOutsideHTMLIsLocked="true" --><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="content-language" content="en">
-<meta name="description" content="Privacy Policy">
-<meta name="keywords" lang="en" content="privacy, policy">
-<!-- InstanceBeginEditable name="doctitle" -->
-<title>CS - Privacy Policy</title>
-<!-- InstanceEndEditable -->
-<meta name="revisit-after" content="20 days">
-<meta name="copyright" content="Copyright Credit Suisse Group - all rights reserved">
-<style type="text/css">
-	@import url("/framework/css/framework.css");
-	@import url("/framework/css/elements.css");
-</style>
-<link type="text/css" rel="stylesheet" href="/framework/css/print.css" media="print">
-<link rel="SHORTCUT ICON" href="/favicon.ico">
+<!DOCTYPE html><html lang="en-US" class="no-js"><!--<![endif]--><!--
+
+--><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Cookie Policy - Credit Suisse</title><meta name="description" content="">
+    <meta name="keywords" lang="en" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MP6BH45"></script><script>
+    function loadFonts(fonts, fallbackUrl) {
+        var i = fonts.reverse().length,
+                nua = navigator.userAgent,
+                noSupport = !window.addEventListener || (nua.match(/(Android (2|3|4.0|4.1|4.2|4.3))|(Opera (Mini|Mobi))/) && !nua.match(/Chrome/)),
+                loSto = {},
+                styleElement,
+                ref = window.document.getElementsByTagName('script')[0];
+
+        if (noSupport) {
+            styleElement = document.createElement('link');
+            styleElement.setAttribute('rel', 'stylesheet');
+            styleElement.setAttribute('type', 'text/css');
+            styleElement.setAttribute('href', fallbackUrl);
+
+            if (document.head !== undefined) {
+                document.head.appendChild(styleElement);
+            } else {
+                document.getElementsByTagName('head')[0].appendChild(styleElement);
+            }
+        }
+
+        try {
+            loSto = localStorage || {};
+        } catch(ex) {}
+
+        styleElement = document.createElement('style');
+        styleElement.rel = 'stylesheet';
+
+        if (document.head !== undefined) {
+            document.head.appendChild(styleElement);
+        } else {
+            ref.parentNode.insertBefore(styleElement);
+        }
+
+        function sendAjaxRequest(localStorageUrlKey, localStorageCssKey, localStorageLastModified, lastModified, woffUrl, woff2Url) {
+
+            var url = (woff2Url && supportsWoff2()) ? woff2Url : woffUrl,
+                    request = new XMLHttpRequest();
+
+            request.open('GET', url);
+
+            request.onload = function () {
+                if (request.status >= 200 && request.status < 400) {
+                    loSto[localStorageUrlKey] = url;
+                    loSto[localStorageCssKey] = request.responseText;
+                    loSto[localStorageLastModified] = lastModified;
+                    styleElement.textContent += request.responseText;
+                }
+            };
+
+            request.send();
+        }
+
+        function supportsWoff2() {
+            if (!window.FontFace) {
+                return false;
+            }
+
+            var f = new FontFace('t', 'url("data:application/font-woff2,") format("woff2")', {});
+            f.load();
+
+            return f.status === 'loading';
+        }
+
+        while (i--) {
+
+            var localStoragePrefix = 'x-font-' + fonts[i].fontName,
+                    localStorageUrlKey = localStoragePrefix + '-url',
+                    localStorageCssKey = localStoragePrefix + '-css',
+                    localStorageLastModified = localStoragePrefix + '-last-modified',
+                    storedFontUrl = loSto[localStorageUrlKey],
+                    storedFontCss = loSto[localStorageCssKey],
+                    storedLastModified = loSto[localStorageLastModified],
+                    lastModified = Date.parse(fonts[i].lastModified);
+
+            if (storedFontCss && (storedFontUrl === fonts[i].fontWoffUrl || storedFontUrl === fonts[i].fontWoff2Url) && (storedLastModified >= lastModified)) {
+                styleElement.textContent += storedFontCss;
+            } else {
+                sendAjaxRequest(localStorageUrlKey, localStorageCssKey, localStorageLastModified, lastModified, fonts[i].fontWoffUrl, fonts[i].fontWoff2Url);
+            }
+
+        }
+
+    }
+
+    loadFonts(
+            [
+                {
+                    fontName: 'CSW07eP-Romanv4',
+                    fontWoffUrl: 'https://cdnext.credit-suisse.com/assets/fonts/css/CSW07eP-Romanv4.woff.css',
+                    fontWoff2Url: 'https://cdnext.credit-suisse.com/assets/fonts/css/CSW07eP-Romanv4.woff2.css',
+                    lastModified: "2016-06-17T08:00"
+                },
+                {
+                    fontName: 'CSW07eP-Boldv4',
+                    fontWoffUrl: 'https://cdnext.credit-suisse.com/assets/fonts/css/CSW07eP-Boldv4.woff.css',
+                    fontWoff2Url: 'https://cdnext.credit-suisse.com/assets/fonts/css/CSW07eP-Boldv4.woff2.css',
+                    lastModified: "2016-06-17T08:00"
+                },
+                {
+                    fontName: 'CSW07eP-Lightv4',
+                    fontWoffUrl: 'https://cdnext.credit-suisse.com/assets/fonts/css/CSW07eP-Lightv4.woff.css',
+                    fontWoff2Url: 'https://cdnext.credit-suisse.com/assets/fonts/css/CSW07eP-Lightv4.woff2.css',
+                    lastModified: "2016-06-17T08:00"
+                },
+                {
+                    fontName: 'CSW07eT-Romanv4',
+                    fontWoffUrl: 'https://cdnext.credit-suisse.com/assets/fonts/css/CSW07eT-Romanv4.woff.css',
+                    fontWoff2Url: 'https://cdnext.credit-suisse.com/assets/fonts/css/CSW07eT-Romanv4.woff2.css',
+                    lastModified: "2016-06-17T08:00"
+                },
+                {
+                    fontName: 'CSW07eT-Boldv4',
+                    fontWoffUrl: 'https://cdnext.credit-suisse.com/assets/fonts/css/CSW07eT-Boldv4.woff.css',
+                    fontWoff2Url: 'https://cdnext.credit-suisse.com/assets/fonts/css/CSW07eT-Boldv4.woff2.css',
+                    lastModified: "2016-06-17T08:00"
+                },
+                {
+                    fontName: 'CSW07eT-Lightv4',
+                    fontWoffUrl: 'https://cdnext.credit-suisse.com/assets/fonts/css/CSW07eT-Lightv4.woff.css',
+                    fontWoff2Url: 'https://cdnext.credit-suisse.com/assets/fonts/css/CSW07eT-Lightv4.woff2.css',
+                    lastModified: "2016-06-17T08:00"
+                }
+            ],
+            'https://cdnext.credit-suisse.com/assets/css/webfonts/CSW07eP.css'
+    );
+</script><style></style>
+
+<noscript>
+    <link rel="stylesheet" href="https://cdnext.credit-suisse.com/assets/css/webfonts/CSW07eP.css">
+</noscript>
+<link rel="stylesheet" href="https://cdnext.credit-suisse.com/etc/designs/revamp14-templating/clientlibs/main.1535442577000.css" type="text/css">
+<!--[if lte IE 8]>
+	<script type="text/javascript" src="https://cdnext.credit-suisse.com/etc/designs/revamp14-templating/clientlibs/head/ie8.1535442575214.js""></script><![endif]-->
+<script type="text/javascript" src="https://cdnext.credit-suisse.com/etc/designs/revamp14-templating/clientlibs/head/prod.1535442578380.js"></script><meta http-equiv="x-dns-prefetch-control" content="on">
+    <link rel="dns-prefetch" href="//youtube.com">
+    <!--[if IE 9]>
+    <link rel="prefetch" href="//youtube.com">
+    <![endif]-->
+
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://cdnext.credit-suisse.com/assets/media/favicons/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://cdnext.credit-suisse.com/assets/media/favicons/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://cdnext.credit-suisse.com/assets/media/favicons/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://cdnext.credit-suisse.com/assets/media/favicons/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://cdnext.credit-suisse.com/assets/media/favicons/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://cdnext.credit-suisse.com/assets/media/favicons/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://cdnext.credit-suisse.com/assets/media/favicons/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://cdnext.credit-suisse.com/assets/media/favicons/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://cdnext.credit-suisse.com/assets/media/favicons/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="https://cdnext.credit-suisse.com/assets/media/favicons/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="https://cdnext.credit-suisse.com/assets/media/favicons/favicon-194x194.png" sizes="194x194">
+    <link rel="icon" type="image/png" href="https://cdnext.credit-suisse.com/assets/media/favicons/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="https://cdnext.credit-suisse.com/assets/media/favicons/android-chrome-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="https://cdnext.credit-suisse.com/assets/media/favicons/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="https://cdnext.credit-suisse.com/assets/media/favicons/manifest.json">
+    <link rel="shortcut icon" href="https://cdnext.credit-suisse.com/assets/media/favicons/favicon.ico">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/assets/media/favicons/mstile-144x144.png">
+    <meta name="msapplication-config" content="/assets/media/favicons/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <meta name="apple-mobile-web-app-title" content="Credit Suisse">
+
+    <meta name="robots" content="follow, index">
+<link href="https://plus.google.com/+creditsuisse" rel="publisher">
+<script type="text/javascript" src="https://assets.adobedtm.com/71383fd92fd92a93234ba8103be0ac19132cc059/satelliteLib-0c3c25996d7c55a9b1aaee1a86068b0b7a32e3e0.js"></script>
+<!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MP6BH45');</script>
+    <!-- End Google Tag Manager -->
 <script type="text/javascript">
-//<![CDATA[
-	var ActCountry = "";
-	var AvailableLang = "en.de.fr.it";
-	var L1_ID = ""; // "n000"
-	var L3_ID = ""; // "n00000"
-	var SpecialDisclaimer = "";
-//]]>
-</script>
-<!-- InstanceBeginEditable name="head" -->
+    window._adl = {
+      page: {
+        country: 'us',
+        language: 'en',
+        design: 'revamp',
+        id: '41af2ef7-a37e-308e-8d6b-7a8f74e9bd1b',
+        hierarchy: ['legal','privacy-and-cookie-policy','','',''].filter(Boolean).join('/')
+      },
+      general: {
+        platform: 'pw'
+      }
+    }
+  </script>
+</head><body itemscope="" itemtype="http://schema.org/WebPage">
+	<!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MP6BH45"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+<span class="visuallyhidden">Navigations</span>
+<h2 class="visuallyhidden">Access Key Navigation</h2>
+	
+<ul class="nav_skiplinks">
+	<li class="list_item">
+		<a class="skiplink" href="#nav_main" accesskey="0" title="[ALT + 0]">Skip to main navigation</a>
+	</li>
+	<li class="list_item">
+		<a class="skiplink" href="/" accesskey="1" title="[ALT + 1]">Start page</a>
+	</li>
+	<li class="list_item">
+		<a class="skiplink" href="#content" accesskey="2" title="[ALT + 2]">Skip to content</a>
+	</li>
+	<li class="list_item">
+		<a class="skiplink" href="/triage" accesskey="3" title="[ALT + 3]">Contact page</a>
+	</li>
+	<li class="list_item">
+		<a class="skiplink" href="#mod_search_bar_input" accesskey="4" title="[ALT + 4]">Skip to search</a>
+	</li>
+</ul><div class="mod_header_sidebar" data-header="sidebar">
+		<span class="visuallyhidden" id="nav_sidebar_label">Main navigation</span>
 
-<!-- InstanceEndEditable -->
-<script type="text/javascript" src="/framework/js/functions.js"></script>
-<script type="text/javascript" src="/framework/js/navigations.js"></script>
-
-
-<!-- InstanceParam name="language" type="text" value="en" -->
-<!-- InstanceParam name="abstract_show" type="boolean" value="false" -->
-<!-- InstanceParam name="var_meta_description" type="text" value="Privacy Policy" -->
-<!-- InstanceParam name="var_meta_keywords" type="text" value="privacy, policy" -->
-<!-- InstanceParam name="var_js_country" type="text" value="" -->
-<!-- InstanceParam name="var_js_available_langs" type="text" value="en.de.fr.it" -->
-<!-- InstanceParam name="var_js_navid_l1" type="text" value="" -->
-<!-- InstanceParam name="var_js_navid_l3" type="text" value="" -->
-<!-- InstanceParam name="var_js_special_disclaimer" type="text" value="" -->
-<!-- InstanceParam name="include" type="text" value="#include" -->
-<!-- InstanceParam name="boxnr" type="text" value="" -->
-<!-- InstanceParam name="level_up" type="text" value="" -->
-
-<!--
-	For a small popup window use the following syntax:
-	<a href="example.html" onclick="Page.openPopup(this.href, 'pop1', 'inter_small');return false;" title="Example popup small">Example popup small</a>
-
-	For a large popup window use the following syntax:
-	<a href="example.html" onclick="Page.openPopup(this.href, 'pop1', 'inter_large');return false;" title="Example popup wide">Example popup wide</a>
--->
-</head>
-<body>
-<div id="shadowLeft" class="shadowLeft" style="height: 3194px;"><img id="picInvisibleMainLogo" src="/framework/img/logo_cs_popup.gif" title="Credit Suisse" alt="Credit Suisse"></div>
-<div id="shadowRight" class="shadowRight" style="height: 3194px;"></div>
-<div id="content">
-	<div id="head">
-		<div id="logo">
-			<a href="http://www.credit-suisse.com" accesskey="0"><img id="picMainLogo" src="/framework/img/logo_cs.gif" title="Credit Suisse" alt="Credit Suisse"></a>
-		</div>
-		<div id="metanav">
-			<ul>
-				<li><script type="text/javascript">Page.writeLanguageSelector(AvailableLang);</script>Language: <span class="active" title="English">EN</span> <a class="lang" href="javascript:Page.changeLanguage('de');" title="Deutsch">DE</a> <a class="lang" href="javascript:Page.changeLanguage('fr');" title="Français">FR</a> <a class="lang" href="javascript:Page.changeLanguage('it');" title="Italiano">IT</a> </li>
-				<li>
-					<script type="text/javascript">Page.writeElement(ActCountry, "<span class=\"country\">{$}</span>");</script>
-					<a href="/worldwide/en/" title="Credit Suisse Worldwide" target="_self">Credit Suisse Worldwide</a>
-				</li>
-			</ul>
-		</div>
+<nav class="mod_header_sidebar_panel_nav" role="navigation" aria-labelledby="nav_sidebar_label" id="nav_sidebar" data-require="nav_sidebar" data-sidebar="container">
+	<div class="mod_header_sidebar_navigation_title">
+		<div class="mod_header_sidebar_navigation_link" data-sidebar="title">
+			Credit Suisse Home</div>
 	</div>
+	
+<ol class="nav_sidebar_list" role="menu">
+	<li class="nav_sidebar_item" role="menuitem">
+		<a href="/us/en.html" class="nav_sidebar_link var_no_children" data-csvn="false"><span class="label">Home</span></a>
+	</li>
 
-	<div id="tabNavRoot">
-		<ul id="nav">
-		<li id="n01"><a href="/">Home</a></li>
-		<li id="n02"><a href="/b2c/en">Individuals</a></li>
-		<li id="n03"><a href="/b2b/en">Corporates &amp; Institutions</a></li>
-		<li id="n04"><a href="/markets/en">Market Data &amp; Research</a>
-			<ul>
-				<li id="n410"><a title="Quotes &amp; Market Data" href="https://entry4.credit-suisse.ch/csfs/market/p/d/en/fs/fim?action=markethome&amp;searchtype=searchequity&amp;mode=basic">Quotes &amp; Market Data</a></li>
-				<li id="n420"><a title="Credit Suisse Funds - Rates" href="/markets/en/funds.html" rel="">Credit Suisse Funds - Rates</a></li>
-				<li id="n430"><a title="Research &amp; Analyses" href="/research/en/" rel="">Research &amp; Analyses</a></li>
-			</ul>
-		</li>
-		<li id="n05"><a href="/about_us/en/">About Us</a>
-			<ul>
-				<li id="n510"><a href="/who_we_are/en/index.html">Who We Are</a></li>
-				<li id="n530"><a href="/where_to_find_us/en/index.html">Where to Find Us</a></li>
-				<li id="n560"><a href="/news/en/index.html">News &amp; Press</a></li>
-				<li id="n570"><a href="/investors/en/index.jsp">Investor Relations</a></li>
-				<li id="n550"><a href="/governance/en/index.html">Governance</a></li>
-				<li id="n540"><a href="/responsibility/en/index.html">Responsibility</a></li>
-				<li id="n550"><a href="http://emagazine.credit-suisse.com/app/home/index.cfm?fuseaction=OpenHome&amp;lang=EN">In Focus</a></li>
-				<li id="n580"><a href="/careers/en/index.html">Careers</a></li>
-			</ul>
-  </li>
-	</ul>
-	<div style="font-size:0.75em; left:.9em;position:absolute;top:8.75em;"><noscript>To navigate please enable Javascript or use the <a href="http://www.credit-suisse.com/sitemap">Sitemap</a></noscript></div>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a id="nav_sidebar_item_label_0" class="nav_sidebar_link " aria-haspopup="true" aria-owns="nav_sidebar_list_0_0" aria-controls="nav_sidebar_list_0_0" aria-expanded="false" data-next="" data-csvn="false">
+                    Products <br> &amp; Services
+                </a>
 
+                                
+<ol id="nav_sidebar_list_0" class="nav_sidebar_list" aria-hidden="true" aria-expanded="false" aria-labelledby="nav_sidebar_item_label_0">
+
+	
+		
+	
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/private-banking-nav.html" id="nav_sidebar_item_label_0_1" class="nav_sidebar_link " aria-haspopup="true" aria-owns="nav_sidebar_list_0_1_1" aria-controls="nav_sidebar_list_0_1_1" aria-expanded="false" data-next="" data-csvn="false">
+                    Private Banking
+                </a>
+
+                                
+<ol id="nav_sidebar_list_0_1" class="nav_sidebar_list" aria-hidden="true" aria-expanded="false" aria-labelledby="nav_sidebar_item_label_0_1">
+
+	
+		
+	        <li class="nav_sidebar_item" role="menuitem">
+            <a href="/us/en/private-banking-nav.html" id="nav_sidebar_item_label_0_1_0" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                <span class="label">Overview</span>
+            </a>
+        </li>
+	
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/private-banking-nav/clientview-login-nav.html" id="nav_sidebar_item_label_0_1_1" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">ClientView Login</span>
+                </a>
+            
+            		</li>
+	</ol>
+
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking.html" id="nav_sidebar_item_label_0_2" class="nav_sidebar_link " aria-haspopup="true" aria-owns="nav_sidebar_list_0_2_2" aria-controls="nav_sidebar_list_0_2_2" aria-expanded="false" data-next="" data-csvn="false">
+                    Investment Banking
+                </a>
+
+                                
+<ol id="nav_sidebar_list_0_2" class="nav_sidebar_list" aria-hidden="true" aria-expanded="false" aria-labelledby="nav_sidebar_item_label_0_2">
+
+	
+		
+	        <li class="nav_sidebar_item" role="menuitem">
+            <a href="/us/en/investment-banking.html" id="nav_sidebar_item_label_0_2_0" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                <span class="label">Overview</span>
+            </a>
+        </li>
+	
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/global-markets.html" id="nav_sidebar_item_label_0_2_1" class="nav_sidebar_link " aria-haspopup="true" aria-owns="nav_sidebar_list_0_2_1_1" aria-controls="nav_sidebar_list_0_2_1_1" aria-expanded="false" data-next="" data-csvn="false">
+                    Global Markets
+                </a>
+
+                                
+<ol id="nav_sidebar_list_0_2_1" class="nav_sidebar_list" aria-hidden="true" aria-expanded="false" aria-labelledby="nav_sidebar_item_label_0_2_1">
+
+	
+		
+	        <li class="nav_sidebar_item" role="menuitem">
+            <a href="/us/en/investment-banking/global-markets.html" id="nav_sidebar_item_label_0_2_1_0" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                <span class="label">Overview</span>
+            </a>
+        </li>
+	
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/global-markets/credit.html" id="nav_sidebar_item_label_0_2_1_1" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Credit</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/global-markets/equities.html" id="nav_sidebar_item_label_0_2_1_2" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Equities</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/global-markets/international-trading-solutions.html" id="nav_sidebar_item_label_0_2_1_3" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">International Trading Solutions</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/global-markets/client-and-content.html" id="nav_sidebar_item_label_0_2_1_4" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Client and Content</span>
+                </a>
+            
+            		</li>
+	</ol>
+
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/ibcm.html" id="nav_sidebar_item_label_0_2_2" class="nav_sidebar_link " aria-haspopup="true" aria-owns="nav_sidebar_list_0_2_2_2" aria-controls="nav_sidebar_list_0_2_2_2" aria-expanded="false" data-next="" data-csvn="false">
+                    Investment Banking &amp; Capital Markets
+                </a>
+
+                                
+<ol id="nav_sidebar_list_0_2_2" class="nav_sidebar_list" aria-hidden="true" aria-expanded="false" aria-labelledby="nav_sidebar_item_label_0_2_2">
+
+	
+		
+	        <li class="nav_sidebar_item" role="menuitem">
+            <a href="/us/en/investment-banking/ibcm.html" id="nav_sidebar_item_label_0_2_2_0" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                <span class="label">Overview</span>
+            </a>
+        </li>
+	
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/ibcm/mergers-acquisitions.html" id="nav_sidebar_item_label_0_2_2_1" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Mergers &amp; Acquisitions</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/ibcm/capital-markets-solutions.html" id="nav_sidebar_item_label_0_2_2_2" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Capital Markets Solutions</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/ibcm/corporate-clients.html" id="nav_sidebar_item_label_0_2_2_3" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Corporate Clients</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/ibcm/industry-expertise.html" id="nav_sidebar_item_label_0_2_2_4" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Industry Expertise</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/ibcm/financial-sponsors.html" id="nav_sidebar_item_label_0_2_2_5" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Financial Sponsors</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/ibcm/uhnw.html" id="nav_sidebar_item_label_0_2_2_6" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">UHNW</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/ibcm/corporate-insights.html" id="nav_sidebar_item_label_0_2_2_7" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Corporate Insights</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/ibcm/emerging-markets.html" id="nav_sidebar_item_label_0_2_2_8" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Emerging Markets</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/ibcm/capco-notice.html" id="nav_sidebar_item_label_0_2_2_9" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">CAPCO Notice</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/ibcm/client-valuations.html" id="nav_sidebar_item_label_0_2_2_10" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Client Valuations Disclaimers</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/ibcm/events-calendar-conferences.html" id="nav_sidebar_item_label_0_2_2_11" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Conference Calendar</span>
+                </a>
+            
+            		</li>
+	</ol>
+
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/research.html" id="nav_sidebar_item_label_0_2_3" class="nav_sidebar_link " aria-haspopup="true" aria-owns="nav_sidebar_list_0_2_3_3" aria-controls="nav_sidebar_list_0_2_3_3" aria-expanded="false" data-next="" data-csvn="false">
+                    Research
+                </a>
+
+                                
+<ol id="nav_sidebar_list_0_2_3" class="nav_sidebar_list" aria-hidden="true" aria-expanded="false" aria-labelledby="nav_sidebar_item_label_0_2_3">
+
+	
+		
+	        <li class="nav_sidebar_item" role="menuitem">
+            <a href="/us/en/investment-banking/research.html" id="nav_sidebar_item_label_0_2_3_0" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                <span class="label">Overview</span>
+            </a>
+        </li>
+	
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/research/tools-and-analytics.html" id="nav_sidebar_item_label_0_2_3_1" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Tools and Analytics</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/research/research-twitter.html" id="nav_sidebar_item_label_0_2_3_2" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">@CSResearch on Twitter</span>
+                </a>
+            
+            		</li>
+	</ol>
+
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/financial-regulatory.html" id="nav_sidebar_item_label_0_2_4" class="nav_sidebar_link " aria-haspopup="true" aria-owns="nav_sidebar_list_0_2_4_4" aria-controls="nav_sidebar_list_0_2_4_4" aria-expanded="false" data-next="" data-csvn="false">
+                    Financial and Regulatory
+                </a>
+
+                                
+<ol id="nav_sidebar_list_0_2_4" class="nav_sidebar_list" aria-hidden="true" aria-expanded="false" aria-labelledby="nav_sidebar_item_label_0_2_4">
+
+	
+		
+	        <li class="nav_sidebar_item" role="menuitem">
+            <a href="/us/en/investment-banking/financial-regulatory.html" id="nav_sidebar_item_label_0_2_4_0" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                <span class="label">Overview</span>
+            </a>
+        </li>
+	
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/financial-regulatory/customer-notices.html" id="nav_sidebar_item_label_0_2_4_1" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Customer Notices</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/financial-regulatory/sec.html" id="nav_sidebar_item_label_0_2_4_2" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Credit Suisse (USA), Inc.</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/financial-regulatory/international.html" id="nav_sidebar_item_label_0_2_4_3" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Credit Suisse International</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/financial-regulatory/european-financials.html" id="nav_sidebar_item_label_0_2_4_4" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Credit Suisse Securities (Europe) Limited</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/financial-regulatory/credit-suisse-securities-usa-llc.html" id="nav_sidebar_item_label_0_2_4_5" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Credit Suisse Securities (USA) LLC</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/financial-regulatory/international-holding.html" id="nav_sidebar_item_label_0_2_4_6" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Credit Suisse (International) Holding AG</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/financial-regulatory/mexico-financials.html" id="nav_sidebar_item_label_0_2_4_7" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Credit Suisse Mexico</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/financial-regulatory/turkey-financials.html" id="nav_sidebar_item_label_0_2_4_8" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Credit Suisse Turkey</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/financial-regulatory/subsidiaries-pillar-3.html" id="nav_sidebar_item_label_0_2_4_9" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Subsidiaries Pillar 3</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/financial-regulatory/country-by-country-reporting.html" id="nav_sidebar_item_label_0_2_4_10" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Country by Country Reporting</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/financial-regulatory/credit-suisse-milan-branch.html" id="nav_sidebar_item_label_0_2_4_11" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Credit Suisse AG Milan Branch</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/financial-regulatory/credit-suisse-international-italian-branch.html" id="nav_sidebar_item_label_0_2_4_12" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Credit Suisse International Italian Branch</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/financial-regulatory/credit-suisse-london-branch.html" id="nav_sidebar_item_label_0_2_4_13" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Credit Suisse AG London Branch</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/financial-regulatory/investment-banking-disclosures.html" id="nav_sidebar_item_label_0_2_4_14" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Investment Banking Disclosures</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/financial-regulatory/mifid-ii-best-execution-reports.html" id="nav_sidebar_item_label_0_2_4_15" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">MiFID II Best Execution Reports</span>
+                </a>
+            
+            		</li>
+	</ol>
+
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/regional-presence.html" id="nav_sidebar_item_label_0_2_5" class="nav_sidebar_link " aria-haspopup="true" aria-owns="nav_sidebar_list_0_2_5_5" aria-controls="nav_sidebar_list_0_2_5_5" aria-expanded="false" data-next="" data-csvn="false">
+                    Regions
+                </a>
+
+                                
+<ol id="nav_sidebar_list_0_2_5" class="nav_sidebar_list" aria-hidden="true" aria-expanded="false" aria-labelledby="nav_sidebar_item_label_0_2_5">
+
+	
+		
+	        <li class="nav_sidebar_item" role="menuitem">
+            <a href="/us/en/investment-banking/regional-presence.html" id="nav_sidebar_item_label_0_2_5_0" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                <span class="label">Overview</span>
+            </a>
+        </li>
+	
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/regional-presence/emea.html" id="nav_sidebar_item_label_0_2_5_1" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">EMEA</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/regional-presence/americas.html" id="nav_sidebar_item_label_0_2_5_2" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Americas</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/regional-presence/asia-pacific.html" id="nav_sidebar_item_label_0_2_5_3" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Asia Pacific</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/investment-banking/regional-presence/switzerland.html" id="nav_sidebar_item_label_0_2_5_4" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Switzerland</span>
+                </a>
+            
+            		</li>
+	</ol>
+
+            
+            		</li>
+	</ol>
+
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/asset-management.html" id="nav_sidebar_item_label_0_3" class="nav_sidebar_link " aria-haspopup="true" aria-owns="nav_sidebar_list_0_3_3" aria-controls="nav_sidebar_list_0_3_3" aria-expanded="false" data-next="" data-csvn="false">
+                    Asset Management
+                </a>
+
+                                
+<ol id="nav_sidebar_list_0_3" class="nav_sidebar_list" aria-hidden="true" aria-expanded="false" aria-labelledby="nav_sidebar_item_label_0_3">
+
+	
+		
+	        <li class="nav_sidebar_item" role="menuitem">
+            <a href="/us/en/asset-management.html" id="nav_sidebar_item_label_0_3_0" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                <span class="label">Overview</span>
+            </a>
+        </li>
+	
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/asset-management/strategies-and-solutions.html" id="nav_sidebar_item_label_0_3_1" class="nav_sidebar_link " aria-haspopup="true" aria-owns="nav_sidebar_list_0_3_1_1" aria-controls="nav_sidebar_list_0_3_1_1" aria-expanded="false" data-next="" data-csvn="false">
+                    Strategies and Solutions
+                </a>
+
+                                
+<ol id="nav_sidebar_list_0_3_1" class="nav_sidebar_list" aria-hidden="true" aria-expanded="false" aria-labelledby="nav_sidebar_item_label_0_3_1">
+
+	
+		
+	        <li class="nav_sidebar_item" role="menuitem">
+            <a href="/us/en/asset-management/strategies-and-solutions.html" id="nav_sidebar_item_label_0_3_1_0" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                <span class="label">Overview</span>
+            </a>
+        </li>
+	
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/asset-management/strategies-and-solutions/contact.html" id="nav_sidebar_item_label_0_3_1_1" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Contact</span>
+                </a>
+            
+            		</li>
+	</ol>
+
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/asset-management/news-insights.html" id="nav_sidebar_item_label_0_3_2" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Insights</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/asset-management/funds.html" id="nav_sidebar_item_label_0_3_3" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">US Funds</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/asset-management/about-am.html" id="nav_sidebar_item_label_0_3_4" class="nav_sidebar_link " aria-haspopup="true" aria-owns="nav_sidebar_list_0_3_4_4" aria-controls="nav_sidebar_list_0_3_4_4" aria-expanded="false" data-next="" data-csvn="false">
+                    About Asset Management
+                </a>
+
+                                
+<ol id="nav_sidebar_list_0_3_4" class="nav_sidebar_list" aria-hidden="true" aria-expanded="false" aria-labelledby="nav_sidebar_item_label_0_3_4">
+
+	
+		
+	        <li class="nav_sidebar_item" role="menuitem">
+            <a href="/us/en/asset-management/about-am.html" id="nav_sidebar_item_label_0_3_4_0" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                <span class="label">Overview</span>
+            </a>
+        </li>
+	
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/asset-management/about-am/key-facts.html" id="nav_sidebar_item_label_0_3_4_1" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Key Facts</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/asset-management/about-am/awards.html" id="nav_sidebar_item_label_0_3_4_2" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Awards for Credit Suisse Asset Management</span>
+                </a>
+            
+            		</li>
+	</ol>
+
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/us/en/asset-management/contact.html" id="nav_sidebar_item_label_0_3_5" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Contact</span>
+                </a>
+            
+            		</li>
+	</ol>
+
+            
+            		</li>
+	</ol>
+
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/corporate/en/corporate.html" id="nav_sidebar_item_label_1" class="nav_sidebar_link " aria-haspopup="true" aria-owns="nav_sidebar_list_1_1" aria-controls="nav_sidebar_list_1_1" aria-expanded="false" data-next="" data-csvn="false">
+                    Corporate
+                </a>
+
+                                
+<ol id="nav_sidebar_list_1" class="nav_sidebar_list" aria-hidden="true" aria-expanded="false" aria-labelledby="nav_sidebar_item_label_1">
+
+	
+		
+	        <li class="nav_sidebar_item" role="menuitem">
+            <a href="/corporate/en/corporate.html" id="nav_sidebar_item_label_1_0" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                <span class="label">Overview</span>
+            </a>
+        </li>
+	
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/corporate/en/about-us.html" id="nav_sidebar_item_label_1_1" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">About Us</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/corporate/en/our-company.html" id="nav_sidebar_item_label_1_2" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Our Company</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/corporate/en/media.html" id="nav_sidebar_item_label_1_3" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Media</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/corporate/en/investor-relations.html" id="nav_sidebar_item_label_1_4" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Investor Relations</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/corporate/en/governance.html" id="nav_sidebar_item_label_1_5" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Governance</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/corporate/en/responsibility.html" id="nav_sidebar_item_label_1_6" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Responsibility</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/corporate/en/sponsorship.html" id="nav_sidebar_item_label_1_7" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Sponsorship</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/corporate/en/research.html" id="nav_sidebar_item_label_1_8" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Research</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/corporate/en/publications.html" id="nav_sidebar_item_label_1_9" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Publications</span>
+                </a>
+            
+            		</li>
+	</ol>
+
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/careers/en/careers.html" id="nav_sidebar_item_label_2" class="nav_sidebar_link " aria-haspopup="true" aria-owns="nav_sidebar_list_2_2" aria-controls="nav_sidebar_list_2_2" aria-expanded="false" data-next="" data-csvn="false">
+                    Careers
+                </a>
+
+                                
+<ol id="nav_sidebar_list_2" class="nav_sidebar_list" aria-hidden="true" aria-expanded="false" aria-labelledby="nav_sidebar_item_label_2">
+
+	
+		
+	        <li class="nav_sidebar_item" role="menuitem">
+            <a href="/careers/en/careers.html" id="nav_sidebar_item_label_2_0" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                <span class="label">Overview</span>
+            </a>
+        </li>
+	
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/careers/en/our-business.html" id="nav_sidebar_item_label_2_1" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Our Business</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/careers/en/our-people.html" id="nav_sidebar_item_label_2_2" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Our People</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/careers/en/career-opportunities.html" id="nav_sidebar_item_label_2_3" class="nav_sidebar_link " aria-haspopup="true" aria-owns="nav_sidebar_list_2_3_3" aria-controls="nav_sidebar_list_2_3_3" aria-expanded="false" data-next="" data-csvn="false">
+                    Career Opportunities
+                </a>
+
+                                
+<ol id="nav_sidebar_list_2_3" class="nav_sidebar_list" aria-hidden="true" aria-expanded="false" aria-labelledby="nav_sidebar_item_label_2_3">
+
+	
+		
+	        <li class="nav_sidebar_item" role="menuitem">
+            <a href="/careers/en/career-opportunities.html" id="nav_sidebar_item_label_2_3_0" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                <span class="label">Overview</span>
+            </a>
+        </li>
+	
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/careers/en/career-opportunities/experienced-professionals.html" id="nav_sidebar_item_label_2_3_1" class="nav_sidebar_link " aria-haspopup="true" aria-owns="nav_sidebar_list_2_3_1_1" aria-controls="nav_sidebar_list_2_3_1_1" aria-expanded="false" data-next="" data-csvn="false">
+                    Experienced Professionals
+                </a>
+
+                                
+<ol id="nav_sidebar_list_2_3_1" class="nav_sidebar_list" aria-hidden="true" aria-expanded="false" aria-labelledby="nav_sidebar_item_label_2_3_1">
+
+	
+		
+	        <li class="nav_sidebar_item" role="menuitem">
+            <a href="/careers/en/career-opportunities/experienced-professionals.html" id="nav_sidebar_item_label_2_3_1_0" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                <span class="label">Overview</span>
+            </a>
+        </li>
+	
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/careers/en/career-opportunities/experienced-professionals/how-to-apply.html" id="nav_sidebar_item_label_2_3_1_1" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">How to Apply</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/careers/en/career-opportunities/experienced-professionals/real-returns.html" id="nav_sidebar_item_label_2_3_1_2" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Real Returns™</span>
+                </a>
+            
+            		</li>
+	</ol>
+
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/careers/en/career-opportunities/students-and-graduates.html" id="nav_sidebar_item_label_2_3_2" class="nav_sidebar_link " aria-haspopup="true" aria-owns="nav_sidebar_list_2_3_2_2" aria-controls="nav_sidebar_list_2_3_2_2" aria-expanded="false" data-next="" data-csvn="false">
+                    Students and Graduates
+                </a>
+
+                                
+<ol id="nav_sidebar_list_2_3_2" class="nav_sidebar_list" aria-hidden="true" aria-expanded="false" aria-labelledby="nav_sidebar_item_label_2_3_2">
+
+	
+		
+	        <li class="nav_sidebar_item" role="menuitem">
+            <a href="/careers/en/career-opportunities/students-and-graduates.html" id="nav_sidebar_item_label_2_3_2_0" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                <span class="label">Overview</span>
+            </a>
+        </li>
+	
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/careers/en/career-opportunities/students-and-graduates/internship-opportunities.html" id="nav_sidebar_item_label_2_3_2_1" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Internship Opportunities</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/careers/en/career-opportunities/students-and-graduates/full-time-programs.html" id="nav_sidebar_item_label_2_3_2_2" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Full-Time and Graduate Programs</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/careers/en/career-opportunities/students-and-graduates/how-to-apply.html" id="nav_sidebar_item_label_2_3_2_3" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">How to Apply</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/careers/en/career-opportunities/students-and-graduates/campus-events.html" id="nav_sidebar_item_label_2_3_2_4" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Campus Events</span>
+                </a>
+            
+            		</li>
+	</ol>
+
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/careers/en/career-opportunities/recruitment-technology-microsite.html" id="nav_sidebar_item_label_2_3_3" class="nav_sidebar_link " aria-haspopup="true" aria-owns="nav_sidebar_list_2_3_3_3" aria-controls="nav_sidebar_list_2_3_3_3" aria-expanded="false" data-next="" data-csvn="false">
+                    Technology Careers
+                </a>
+
+                                
+<ol id="nav_sidebar_list_2_3_3" class="nav_sidebar_list" aria-hidden="true" aria-expanded="false" aria-labelledby="nav_sidebar_item_label_2_3_3">
+
+	
+		
+	        <li class="nav_sidebar_item" role="menuitem">
+            <a href="/careers/en/career-opportunities/recruitment-technology-microsite.html" id="nav_sidebar_item_label_2_3_3_0" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                <span class="label">Overview</span>
+            </a>
+        </li>
+	
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/careers/en/career-opportunities/recruitment-technology-microsite/technology-overview.html" id="nav_sidebar_item_label_2_3_3_1" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Technology Overview</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/careers/en/career-opportunities/recruitment-technology-microsite/campus-recruiting-programs.html" id="nav_sidebar_item_label_2_3_3_2" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Campus Recruiting Programs</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/careers/en/career-opportunities/recruitment-technology-microsite/careers-for-experienced-professionals.html" id="nav_sidebar_item_label_2_3_3_3" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Careers for Experienced Professionals</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/careers/en/career-opportunities/recruitment-technology-microsite/technology-buzz.html" id="nav_sidebar_item_label_2_3_3_4" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Technology Buzz</span>
+                </a>
+            
+            		</li>
+	</ol>
+
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/careers/en/career-opportunities/high-school-switzerland.html" id="nav_sidebar_item_label_2_3_4" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">High School Students and Graduates (CH only)</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/careers/en/career-opportunities/apprentice.html" id="nav_sidebar_item_label_2_3_5" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Apprenticeships (CH only)</span>
+                </a>
+            
+            		</li>
+	</ol>
+
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/careers/en/career-perspectives.html" id="nav_sidebar_item_label_2_4" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Credit Suisse Perspectives</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/careers/en/at-work.html" id="nav_sidebar_item_label_2_5" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">At Work</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/careers/en/search-and-apply.html" id="nav_sidebar_item_label_2_6" class="nav_sidebar_link " aria-haspopup="true" aria-owns="nav_sidebar_list_2_6_6" aria-controls="nav_sidebar_list_2_6_6" aria-expanded="false" data-next="" data-csvn="false">
+                    Search and Apply
+                </a>
+
+                                
+<ol id="nav_sidebar_list_2_6" class="nav_sidebar_list" aria-hidden="true" aria-expanded="false" aria-labelledby="nav_sidebar_item_label_2_6">
+
+	
+		
+	        <li class="nav_sidebar_item" role="menuitem">
+            <a href="/careers/en/search-and-apply.html" id="nav_sidebar_item_label_2_6_0" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                <span class="label">Overview</span>
+            </a>
+        </li>
+	
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/careers/en/search-and-apply/search-and-apply-experienced.html" id="nav_sidebar_item_label_2_6_1" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Experienced Professionals</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/careers/en/search-and-apply/search-and-apply-campus.html" id="nav_sidebar_item_label_2_6_2" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Campus Recruiting</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/careers/en/search-and-apply/search-and-apply-high-school-graduates.html" id="nav_sidebar_item_label_2_6_3" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">High School Graduates (CH only)</span>
+                </a>
+            
+            		</li>
+	        <li class="nav_sidebar_item" role="menuitem">
+                        
+            
+            
+                                            <a href="/careers/en/search-and-apply/search-and-apply-apprenticeships.html" id="nav_sidebar_item_label_2_6_4" class="nav_sidebar_link var_no_children " aria-haspopup="false" data-csvn="false">
+                    <span class="label">Apprenticeships (CH only)</span>
+                </a>
+            
+            		</li>
+	</ol>
+
+            
+            		</li>
+	</ol>
+
+            
+            		</li>
+	</ol>
+</nav>
+
+<nav class="mod_header_sidebar_panel_login">
+		<div class="mod_header_sidebar_login_title" data-header="logins">
+					<a href="#" class="mod_header_sidebar_logins_link">
+						Client Login</a>
+				</div>
+			
+				<div class="mod_header_sidebar_wrp_logins">
+					<ul class="mod_header_sidebar_list_logins">
+						<li class="nav_sidebar_item">
+		<span class="nav_sidebar_logins_title">Individual Clients</span>
+	</li>
+<div class="section"></div><div class="iparys_inherited"><li class="nav_sidebar_item">
+		<a href="https://www.credit-suisse.com/clientview" class="nav_sidebar_link" aria-haspopup="false">
+			ClientView</a>
+	</li>
 </div>
-
-	<div id="trailNavRoot">&nbsp;</div>
-
-	<div id="leftCol" style="height: 92.5833em; margin-top: 0.833333em;">
-		<div class="c_fw_search">
-		<label for="qt" accesskey="6">
-			<p>
-				</p><form id="seek1" action="/search/en/index.jsp" method="get">
-					<input type="text" id="qt" name="qt" value="Search" onclick="if(this.value=='Search')this.value=''">
-					<input type="submit" class="butGO" title="Search" value="Go">
-					<input type="hidden" name="language" value="">
-					<input type="hidden" name="doctype" value="doctype:text/html">
-				</form>
-			<p></p>
-		</label>
-	</div>
-
-		<div id="lefthandNavRoot">
-		<style type="text/css">
-	#lefthandNavRoot {
-		padding-bottom: 0;
-	}
-</style>
-	  </div>
-	</div>
-
-	<!--START PAGE-->
-	<div id="mainArea" class="content2Col" style="margin-top: 0.833333em;">
-		<a title="Start of Content" name="beg_content" accesskey="8"></a>
-
-		<!--START CONTENT-->
-		<div id="mainContent">
-			<h1><!-- InstanceBeginEditable name="page_title" -->Privacy Policy <!-- InstanceEndEditable --></h1>
-
-
-
-			<!-- InstanceBeginRepeat name="content_elements" --><!-- InstanceBeginRepeatEntry -->
-
-			<!-- InstanceBeginRepeat name="chapter_title" --><!-- InstanceEndRepeat -->
-
-			<!-- InstanceBeginRepeat name="paragraph_title" --><!-- InstanceEndRepeat -->
-
-			<!-- InstanceBeginRepeat name="paragraph" --><!-- InstanceBeginRepeatEntry -->
-			<p>
-			<!-- InstanceBeginEditable name="paragraph_text" -->
-		  Last updated: January 14, 2006 <!-- InstanceEndEditable -->			</p>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry -->
-			<p>
-			<!-- InstanceBeginEditable name="paragraph_text" -->
-			Credit Suisse Group and all its affiliates (hereinafter referred to as "Credit Suisse", "we" or "us") are committed to maintaining the privacy of every current, former and prospective customer. We recognize that you entrust important personal information to us, and we wish to assure you that we take seriously our responsibilities in protecting and safeguarding this information. This Privacy Policy ("Policy") describes in detail how we deal with information that we collect on this website (the "Site").<!-- InstanceEndEditable -->			</p>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry -->
-			<p>
-			<!-- InstanceBeginEditable name="paragraph_text" -->
-			This Policy may be updated at any time. Please ensure that you regularly read the latest version of this page. The first paragraph of the Policy tells you when the last update was made.<!-- InstanceEndEditable -->			</p>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
-
-			<!-- InstanceBeginRepeat name="bulleted_list" --><!-- InstanceEndRepeat -->
-
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry -->
-
-			<!-- InstanceBeginRepeat name="chapter_title" --><!-- InstanceBeginRepeatEntry -->
-			<h3><!-- InstanceBeginEditable name="chapter_title_text" -->Information We Collect<!-- InstanceEndEditable --></h3>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
-
-			<!-- InstanceBeginRepeat name="paragraph_title" --><!-- InstanceEndRepeat -->
-
-			<!-- InstanceBeginRepeat name="paragraph" --><!-- InstanceBeginRepeatEntry -->
-			<p>
-			<!-- InstanceBeginEditable name="paragraph_text" -->
-		  We may collect information about you when you use this Site or when you apply for or use other services offered by Credit Suisse in the following ways:<!-- InstanceEndEditable -->			</p>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
-
-			<!-- InstanceBeginRepeat name="bulleted_list" --><!-- InstanceBeginRepeatEntry -->
-			<ul>
-				<!-- InstanceBeginRepeat name="bullet" --><!-- InstanceBeginRepeatEntry -->
-				<li><!-- InstanceBeginEditable name="bullet_text" -->We may send cookies to your computer. Cookies are strings of information that are sent out by a website and saved in your computer. We may use session specific cookies and "web bugs" to automatically collect data about website usage when you visit this Site, including your IP address, "click-stream" data regarding the portions of the site that you visit and the information or other services you obtain or input (including domain name, Internet service provider, protocol, browser type, operating system etc.) ("Usage Information"). This information is collected primarily for purposes of administering the Site, compiling demographic information and monitoring usage and performance of the Site. If you turn off the cookie function you may not receive all the information on the website.<!-- InstanceEndEditable --></li>
-				<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry -->
-				<li><!-- InstanceBeginEditable name="bullet_text" -->If you register to use the password-protected or country-specific portions of our site, we will ask you to provide us with certain information about yourself. This information may include your name, company name, title, address, country of residence, e-mail address, telephone number, account number, assets, income and financial situation. We use such information about you to verify your identity and eligibility to receive certain products or services, to provide information to you about products and services that we believe may be of interest to you, to record your interest in products and services that we offer, and to respond to your requests for information. We may also use cookies or web bugs on such portions of our Site to collect Usage Information, and to facilitate your movement within the Site (e.g. remembering passwords during a session and recording the country you may have elected as your country of residence).<!-- InstanceEndEditable --></li>
-				<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry -->
-				<li><!-- InstanceBeginEditable name="bullet_text" -->We may collect information concerning the attachments you open within newsletters that are sent to you electronically.<!-- InstanceEndEditable --></li>
-				<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry -->
-				<li><!-- InstanceBeginEditable name="bullet_text" -->We may also collect personal information about you from applications, forms or questionnaires you may complete or agreements you enter into with us or in the course of your establishing or maintaining a customer relationship with us, including information about your credit history or financial situation, and your transactions with us or others who provide services to us.<!-- InstanceEndEditable --></li>
-				<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
-			</ul>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
-
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry -->
-
-			<!-- InstanceBeginRepeat name="chapter_title" --><!-- InstanceEndRepeat -->
-
-			<!-- InstanceBeginRepeat name="paragraph_title" --><!-- InstanceEndRepeat -->
-
-			<!-- InstanceBeginRepeat name="paragraph" --><!-- InstanceBeginRepeatEntry -->
-			<p>
-			<!-- InstanceBeginEditable name="paragraph_text" -->
-		  If you decline to provide us with the personal information we require then we may not be able to make investment products available to you or to provide other services to you.<!-- InstanceEndEditable -->			</p>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
-
-			<!-- InstanceBeginRepeat name="bulleted_list" --><!-- InstanceEndRepeat -->
-
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry -->
-
-			<!-- InstanceBeginRepeat name="chapter_title" --><!-- InstanceBeginRepeatEntry -->
-			<h3><!-- InstanceBeginEditable name="chapter_title_text" -->Security of data transfers<!-- InstanceEndEditable --></h3>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
-
-			<!-- InstanceBeginRepeat name="paragraph_title" --><!-- InstanceEndRepeat -->
-
-			<!-- InstanceBeginRepeat name="paragraph" --><!-- InstanceBeginRepeatEntry -->
-			<p>
-			<!-- InstanceBeginEditable name="paragraph_text" -->
-		  Please note that data that is transported over an open network, such as the Internet or e-mail, may be accessible to anybody. Credit Suisse cannot guarantee the confidentiality of any communication or material transmitted via such open networks. When disclosing any personal information via an open network, you should remain mindful of the fact that it is potentially accessible to others, and consequently, can be collected and used by others without your consent. In particular, while individual data packets are often encrypted, the names of the sender and recipient are not. A third party may therefore be able to trace an existing bank account or relationship or one that is subsequently created. Even if both the sender and recipient are located in the same country data may also be transmitted via such networks to other countries regularly and without controls, , including to countries that do not afford the same level of data protection as your country of domicile.<!-- InstanceEndEditable -->			</p>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry -->
-			<p>
-			<!-- InstanceBeginEditable name="paragraph_text" -->
-			For certain services, we use strong encryption to transfer your data (e-banking, for example). In these cases you will be told separately about the treatment of this data and about the details of encryption.<!-- InstanceEndEditable -->			</p>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry -->
-			<p>
-			<!-- InstanceBeginEditable name="paragraph_text" -->
-			Your data may be lost during transmission or may be accessed by unauthorized parties. We do not accept any liability for direct or indirect losses as regards the security of your data during its transfer via Internet. Please use other means of communication if you think this is necessary or prudent for security reasons.<!-- InstanceEndEditable -->			</p>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
-
-			<!-- InstanceBeginRepeat name="bulleted_list" --><!-- InstanceEndRepeat -->
-
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry -->
-
-			<!-- InstanceBeginRepeat name="chapter_title" --><!-- InstanceBeginRepeatEntry -->
-			<h3><!-- InstanceBeginEditable name="chapter_title_text" -->Protection, Processing and Use of Personal Data <!-- InstanceEndEditable --></h3>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
-
-			<!-- InstanceBeginRepeat name="paragraph_title" --><!-- InstanceEndRepeat -->
-
-			<!-- InstanceBeginRepeat name="paragraph" --><!-- InstanceBeginRepeatEntry -->
-			<p>
-			<!-- InstanceBeginEditable name="paragraph_text" -->
-		  We use your personal information to enhance the quality of the products or services we wish to provide to our customers or in connection with your investments with or through us and to maintain contact details for those with whom we deal. We restrict access to personal information about you to those employees, agents or other parties who need to know that information to provide products or services to you or in connection with your investments with or through us. We maintain physical, electronic and procedural safeguards to guard your personal information, including firewalls, individual passwords and encryption and authentication technology. We do not use for purposes other than as set out above, or disclose to any third party any personal information about our customers or former customers, except with such customer’s consent or as otherwise permitted or required by law. In cases where we believe that additional products and services may be of interest to you, we may share your personal information with affiliates of Credit Suisse to the extent permitted by applicable law. We may also disclose this information to firms that perform services on our behalf to the extent permitted by applicable law. These service providers are required to treat the information confidentially and use it only for the purpose for which it is provided. Certain jurisdictions may have more stringent privacy requirements that will prevent disclosure of your personal information to any other person or entity, including affiliates.<!-- InstanceEndEditable -->			</p>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry -->
-			<p>
-			<!-- InstanceBeginEditable name="paragraph_text" -->
-			We will retain your personal information in accordance with applicable data protection laws for so long as it is needed.<!-- InstanceEndEditable -->			</p>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
-
-			<!-- InstanceBeginRepeat name="bulleted_list" --><!-- InstanceEndRepeat -->
-
-			<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry -->
-
-			<!-- InstanceBeginRepeat name="chapter_title" --><!-- InstanceBeginRepeatEntry -->
-			<h3><!-- InstanceBeginEditable name="chapter_title_text" -->Links<!-- InstanceEndEditable --></h3>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
-
-			<!-- InstanceBeginRepeat name="paragraph_title" --><!-- InstanceEndRepeat -->
-
-			<!-- InstanceBeginRepeat name="paragraph" --><!-- InstanceBeginRepeatEntry -->
-			<p>
-			<!-- InstanceBeginEditable name="paragraph_text" -->
-		  This Site may contain hyperlinks to other websites that are not operated or monitored by Credit Suisse. These other websites are not subject to this Policy and we are not responsible for their content or for the policy they apply to the treatment of personal data. We recommend that you read the policy used by these websites and check how these websites protect your personal data and whether they are trustworthy.<!-- InstanceEndEditable -->			</p>
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
-
-			<!-- InstanceBeginRepeat name="bulleted_list" --><!-- InstanceEndRepeat -->
-
-			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
-		</div>
-		<!--END CONTENT-->
-
-		<!-- SERVICE AREA -->
-		<div id="serviceArea">
+<li class="nav_sidebar_item">
+		<span class="nav_sidebar_logins_title">Investment Banking</span>
+	</li>
+<div class="section"></div><div class="iparys_inherited"><li class="nav_sidebar_item">
+		<a href="/us/en/investment-banking/platforms-applications.html" class="nav_sidebar_link" aria-haspopup="false">
+			Platforms &amp; Applications</a>
+	</li>
+</div>
+<div class="section"></div><div class="iparys_inherited"></div>
+</ul>
+				</div>
 				
-
-
-			<!-- InstanceBeginRepeat name="container_z" --><!-- InstanceEndRepeat -->
-	  </div><!-- END SERVICE AREA -->
-
-		<br class="clear">
-
-	</div>
-	<!--END PAGE-->
-
-	<br class="clear">
-
-	<div id="footer">
-			<ul class="navigation">
-			<li><a href="/about_us/en">About Us</a></li>
-			<li><a href="/sitemap/en">Site Map</a></li>
-			<li class="end"><a href="/index/en">Index A-Z</a></li>
-		</ul>
-		<script type="text/javascript">Page.writeElement(SpecialDisclaimer, "<div id=\"special_disclaimer\">{$}</div>");</script>
-
-	<div id="disclaimer">Copyright © 1997 - 2007 CREDIT SUISSE GROUP and/or its affiliates. All rights reserved. <span class="nobreak"><a href="/legal/en">Terms of Use</a> and <a href="/privacy/en">Privacy Policy</a>.</span></div>
-<br class="clear">
-
-	</div>
+				<a href="#" class="mod_header_sidebar_panel_login_btn_close" aria-hidden="true">
+					<span class="visuallyhidden">Close Login Selector</span>
+				</a>
+			</nav>
 </div>
 
-<!-- InstanceEnd -->
+	<div id="mod_country_selector" class="component_full_bleed mod_country_selector" data-header="country_selector" aria-expanded="false" aria-hidden="true" role="tabpanel">
+        <div class="component_full">
+            <section data-require="country_selector" class="mod_country_selector_inner" aria-label="Choose your location" aria-live="polite">
+    <p class="mod_country_selector_super_title">Choose your location</p><div class="mod_country_selector_regions">
+        <section class="mod_country_selector_region  mod_country_selector_region_americas">
+            <h3 class="mod_country_selector_title">
+        Global</h3>
+<ul class="mod_country_selector_list" data-country-selector="list">
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/international/en.html" class="mod_country_selector_link">International</a>
+        </li>
+    
+</ul>
 
+
+</section>
+        <section class="mod_country_selector_region  mod_country_selector_region_emea">
+            <h3 class="mod_country_selector_title">
+        Europe, Middle East and Africa</h3>
+<ul class="mod_country_selector_list" data-country-selector="list">
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/at/en.html" class="mod_country_selector_link">Austria</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/bh/en.html" class="mod_country_selector_link">Bahrain</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/be/en.html" class="mod_country_selector_link">Belgium</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/cz/en.html" class="mod_country_selector_link">Czech Republic</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/eg/en.html" class="mod_country_selector_link">Egypt</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/fi/en.html" class="mod_country_selector_link">Finland</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/fr/en.html" class="mod_country_selector_link">France</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/de/en.html" class="mod_country_selector_link">Germany</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/gi/en.html" class="mod_country_selector_link">Gibraltar</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/gr/en.html" class="mod_country_selector_link">Greece</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/gg/en.html" class="mod_country_selector_link">Guernsey</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/hu/en.html" class="mod_country_selector_link">Hungary</a>
+        </li>
+    
+</ul>
+
+<ul class="mod_country_selector_list" data-country-selector="list">
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/is/en.html" class="mod_country_selector_link">Iceland</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/ie/en.html" class="mod_country_selector_link">Ireland</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/il/en.html" class="mod_country_selector_link">Israel</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/it/en.html" class="mod_country_selector_link">Italy</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/lb/en.html" class="mod_country_selector_link">Lebanon</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/li/en.html" class="mod_country_selector_link">Liechtenstein</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/lu/en.html" class="mod_country_selector_link">Luxembourg</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/nl/en.html" class="mod_country_selector_link">Netherlands</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/no/en.html" class="mod_country_selector_link">Norway</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/pl/en.html" class="mod_country_selector_link">Poland</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/pt/en.html" class="mod_country_selector_link">Portugal</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/qa/en.html" class="mod_country_selector_link">Qatar</a>
+        </li>
+    
+</ul>
+
+<ul class="mod_country_selector_list" data-country-selector="list">
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/ru/en.html" class="mod_country_selector_link">Russia</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/sa/en.html" class="mod_country_selector_link">Saudi Arabia</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/za/en.html" class="mod_country_selector_link">South Africa</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/es/en.html" class="mod_country_selector_link">Spain</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/se/en.html" class="mod_country_selector_link">Sweden</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/ch/en.html" class="mod_country_selector_link">Switzerland</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/tr/en.html" class="mod_country_selector_link">Turkey</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/uk/en.html" class="mod_country_selector_link">United Kingdom</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/ae/en.html" class="mod_country_selector_link">United Arab Emirates</a>
+        </li>
+    
+</ul>
+
+
+</section>
+        <section class="mod_country_selector_region  mod_country_selector_region_asia_pacific">
+            <h3 class="mod_country_selector_title">
+        Asia-Pacific</h3>
+<ul class="mod_country_selector_list" data-country-selector="list">
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/au/en.html" class="mod_country_selector_link">Australia</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/cn/en.html" class="mod_country_selector_link">China</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/hk/en.html" class="mod_country_selector_link">Hong Kong</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/in/en.html" class="mod_country_selector_link">India</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/id/en.html" class="mod_country_selector_link">Indonesia</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/jp/en.html" class="mod_country_selector_link">Japan</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/my/en.html" class="mod_country_selector_link">Malaysia</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/ph/en.html" class="mod_country_selector_link">Philippines</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/sg/en.html" class="mod_country_selector_link">Singapore</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/kr/en.html" class="mod_country_selector_link">South Korea</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/tw/en.html" class="mod_country_selector_link">Taiwan</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/th/en.html" class="mod_country_selector_link">Thailand</a>
+        </li>
+    
+</ul>
+
+
+</section>
+        <section class="mod_country_selector_region  mod_country_selector_region_switzerland">
+            <h3 class="mod_country_selector_title">
+        Americas</h3>
+<ul class="mod_country_selector_list" data-country-selector="list">
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/bs/en.html" class="mod_country_selector_link">Bahamas</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/br/en.html" class="mod_country_selector_link">Brazil</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/ca/en.html" class="mod_country_selector_link">Canada</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/ky/en.html" class="mod_country_selector_link">Cayman Islands</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/cl/en.html" class="mod_country_selector_link">Chile</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/co/en.html" class="mod_country_selector_link">Colombia</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/mx/en.html" class="mod_country_selector_link">Mexico</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/pe/en.html" class="mod_country_selector_link">Peru</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/uy/en.html" class="mod_country_selector_link">Uruguay</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/us/en.html" class="mod_country_selector_link">USA</a>
+        </li>
+    <li class="mod_country_selector_list_item">
+            <a href="/bin/mvc.do/country/select?target=/ve/en.html" class="mod_country_selector_link">Venezuela</a>
+        </li>
+    
+</ul>
+
+
+</section>
+    </div>
+    <a href="#" class="mod_country_selector_btn_close" data-header="btn_close_country_selector">
+        <span class="visuallyhidden">Close Location Selector</span>
+    </a>
+</section></div>
+    </div>
+<div id="mod_login_selector" class="component_full_bleed mod_login_selector" data-header="login_selector" aria-expanded="false" aria-hidden="true" role="tabpanel">
+	
+		<div class="component_full">
+			<section class="mod_login_selector_inner var_three_columns" data-header="login_selector_inner" aria-label="Choose a login" aria-live="polite">
+					<h2 class="mod_login_selector_super_title">Client Login</h2>
+						<div class="mod_login_selector_regions" data-header="login_selector_departments">
+						<section class="mod_login_selector_department mod_login_selector_private_clients">
+							<h3 class="mod_login_selector_title  mod_login_selector_private_clients">Individual Clients</h3>
+    <ul class="mod_login_selector_list" data-country-selector="list">
+    <div class="section"></div><div class="iparys_inherited"><li class="mod_login_selector_list_item">
+            <a href="https://www.credit-suisse.com/clientview" class="mod_login_selector_link">ClientView</a>
+        </li>
+    </div>
+</ul>
+
+</section>
+						<section class="mod_login_selector_department mod_login_selector_private_clients">
+							<h3 class="mod_login_selector_title  mod_login_selector_private_clients">Investment Banking</h3>
+    <ul class="mod_login_selector_list" data-country-selector="list">
+    <div class="section"></div><div class="iparys_inherited"><li class="mod_login_selector_list_item">
+            <a href="/us/en/investment-banking/platforms-applications.html" class="mod_login_selector_link">Platforms &amp; Applications</a>
+        </li>
+    </div>
+</ul>
+
+</section>
+						<section class="mod_login_selector_department mod_login_selector_private_clients">
+							<ul class="mod_login_selector_list" data-country-selector="list">
+    <div class="section"></div><div class="iparys_inherited"></div>
+</ul>
+
+</section>
+						</div>
+	
+					<div class="mod_login_selector_footer" data-header="login_selector_footer">
+						<a href="#" class="mod_login_selector_btn_show_more" data-header="btn_show_more_logins" data-alt-text="Show less">
+							<span data-label="">Show more</span> <span class="visuallyhidden">Logins</span>
+						</a>
+					</div>
+					<a href="#" class="mod_login_selector_btn_close" data-header="btn_close_login_selector" aria-controls="mod_login_selector" aria-expanded="false" aria-owns="mod_login_selector">
+						<span class="icon_close_country_selector"></span>
+						<span class="visuallyhidden">Close Login Selector</span>
+					</a>
+				</section>
+			</div>
+	</div>
+<div class="layout_page" data-layout="page">
+        <header class="layout_header" role="banner" data-require="header">
+    <div class="visuallyhidden" data-require="page_localizer" data-response-url="/bin/i18n/getLocalizationValues"></div>
+    <div class="mod_header">
+        <div class="mod_header_inner">
+            <div class="mod_header_service_modules">
+
+                <div class="mod_logo" itemtype="http://schema.org/Organization" itemscope="">
+                    <a href="/us/en.html" class="mod_logo_link" itemprop="url">
+					    <img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxNi4wLjQsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+DQo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB3aWR0aD0iMTg2cHgiIGhlaWdodD0iNDJweCIgdmlld0JveD0iMCAwIDE4NiA0MiIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMTg2IDQyIiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxnPg0KCTxwYXRoIGZpbGw9IiMwMDM2NjIiIGQ9Ik04Mi4zLDI1LjZINzAuMXYyLjhsMC40LDBsMCwwYzAuMS0wLjQsMC44LTEuMiwxLjctMS4yYzAsMCwyLjYsMCwyLjcsMGMwLDAuMSwwLDE0LjMsMCwxNC4zaDIuNw0KCQljMCwwLDAtMTQuMiwwLTE0LjNjMC4xLDAsMi44LDAsMi44LDBjMC45LDAsMS41LDAuNSwxLjYsMWwwLDAuMWwwLjQsMEw4Mi4zLDI1LjZMODIuMywyNS42TDgyLjMsMjUuNnoiLz4NCgk8cGF0aCBmaWxsPSIjMDAzNjYyIiBkPSJNMi44LDI0LjdDMi44LDI0LjcsMi44LDI0LjcsMi44LDI0LjdDMi44LDI0LjcsMi44LDI0LjcsMi44LDI0LjdDMSwyNi41LDAsMjkuMSwwLDMxLjYNCgkJYzAsMi45LDEuMiw1LjUsMy4yLDcuM2MyLDEuOCw0LjcsMi44LDcuNSwyLjhjMS41LDAsNC40LTAuMyw3LjMtMmwwLjEtMC4xbDAuMy00bC0wLjUtMC4xbC0wLjEsMC4yYy0yLjEsNC4zLTUuMyw0LjMtNi42LDQuMw0KCQljLTUuNSwwLTgtNC42LTgtOC44YzAtNC4xLDIuNS04LjMsOC04LjNjMS43LDAsNC44LDAuNiw2LjQsNC4zbDAuMSwwLjJsMC41LTAuMkwxOCwyMy4xbC0wLjEtMC4xYy0yLjYtMS4xLTQuNy0xLjYtNi44LTEuNg0KCQlDNy43LDIxLjUsNC44LDIyLjYsMi44LDI0Ljd6Ii8+DQoJPHBhdGggZmlsbD0iIzAwMzY2MiIgZD0iTTIxLjEsMjUuNkwyMS4xLDI1LjZMMjEsMjZsMCwwYzAuMiwwLjEsMC41LDAuNywwLjUsMS40bDAsMTRoMi42YzAsMCwwLTcuMSwwLTcuMmMwLjEsMCwxLjEsMCwxLjEsMA0KCQljMSwwLjEsMS40LDAuNywyLDEuNmMwLDAsMC4xLDAuMSwwLjEsMC4xbDAuMywwLjZjMC42LDAuOSwxLjMsMi4yLDIuMSwzLjRjMC42LDAuOSwxLjMsMS4zLDIuMiwxLjVjMC42LDAuMSwxLjksMC4xLDIuNC0wLjENCgkJYzAsMCwwLjYtMC4xLDAuNi0wLjFsMC4yLTAuMWwtMC44LTAuMmMtMC4zLTAuMS0wLjgtMC4zLTEuNS0xLjFjLTAuNC0wLjUtMS4xLTEuNi0yLjEtMy4yYzAsMC0xLTEuNi0xLTEuNmMwLDAsMCwwLDAsMA0KCQljLTAuMy0wLjQtMC43LTEtMS41LTEuNWMxLjUtMC41LDIuOS0xLjgsMi45LTMuOGMwLTAuNi0wLjEtMS43LTEuMS0yLjZjLTEtMC45LTIuNS0xLjQtNC42LTEuNEwyMS4xLDI1LjZMMjEuMSwyNS42eiBNMjUuNiwyNy4xDQoJCWMyLjcsMC4xLDIuOCwyLjQsMi44LDIuN2MwLDIuMy0xLjcsMy4xLTMuMSwzLjFjMCwwLTAuOSwwLTEuMSwwYzAtMC4xLDAtNS42LDAtNS43QzI0LjUsMjcuMSwyNSwyNywyNS42LDI3LjF6Ii8+DQoJPHBhdGggZmlsbD0iIzAwMzY2MiIgZD0iTTQ4LDI1LjZMNDgsMjUuNmwwLDAuNGwwLDBjMC4yLDAuMSwwLjQsMC43LDAuNCwxLjJsMCwxNC4yaDQuNWMzLDAsNS40LTAuOSw3LjEtMi43DQoJCWMxLjQtMS41LDIuMi0zLjQsMi4yLTUuNWMwLTEuMi0wLjQtMy4xLTEuNi00LjZjLTEuNi0yLTQtMy4xLTcuMy0zLjFMNDgsMjUuNkw0OCwyNS42eiBNNTEuMSwyNy4yYzAuMSwwLDEuNCwwLDEuNCwwDQoJCWMwLjQsMCwxLjMsMCwyLDAuMWM0LjQsMC43LDQuOSw0LjQsNC45LDZjMCwxLjMtMC4yLDMuMS0xLjMsNC42QzU3LDM5LjMsNTUuMyw0MCw1Myw0MGMtMC41LDAtMS4yLDAtMS45LDANCgkJQzUxLjEsMzkuOCw1MS4xLDI3LjMsNTEuMSwyNy4yeiIvPg0KCTxwYXRoIGZpbGw9IiMwMDM2NjIiIGQ9Ik02Ny43LDI1LjZoLTMuMWwwLDAuNGwwLDBjMC4zLDAuMSwwLjUsMC43LDAuNSwxLjNsMCwxNC4xaDIuNkw2Ny43LDI1LjZMNjcuNywyNS42TDY3LjcsMjUuNnoiLz4NCgk8cGF0aCBmaWxsPSIjMDAzNjYyIiBkPSJNMTIwLjcsMjUuNmgtMy4xbDAsMC40bDAsMGMwLjMsMC4xLDAuNSwwLjcsMC41LDEuM3YxNC4xaDIuNkwxMjAuNywyNS42TDEyMC43LDI1LjZMMTIwLjcsMjUuNnoiLz4NCgk8cGF0aCBmaWxsPSIjMDAzNjYyIiBkPSJNNDQuNiwyNS42aC04LjhsMC4xLDAuNGwwLDBjMC4yLDAuMSwwLjUsMC43LDAuNSwxLjRsMCwxNGg4LjhsMC42LTIuOGwtMC40LTAuMWwtMC4xLDAuMg0KCQljLTAuNywxLjEtMS41LDEuMy00LDEuM2MtMC45LDAtMS44LTAuMS0yLjQtMC4xYzAtMC4xLDAtNi4zLDAtNi40YzAuMSwwLDQuNSwwLDQuNSwwVjMyYzAsMC00LjMsMC00LjUsMGMwLTAuMSwwLTQuOCwwLTQuOQ0KCQljMC4xLDAsMy42LDAsMy42LDBjMC44LDAsMS43LDAuOCwxLjgsMS4zbDAsMC4xbDAuNCwwTDQ0LjYsMjUuNkw0NC42LDI1LjZMNDQuNiwyNS42eiIvPg0KCTxwYXRoIGZpbGw9IiMwMDM2NjIiIGQ9Ik0xNTcuNCwyNS42aC04LjhsMCwwLjRsMCwwYzAuMiwwLjEsMC41LDAuNiwwLjUsMS40bDAsMTRoOC44bDAuNi0yLjhsLTAuNC0wLjFsLTAuMSwwLjINCgkJYy0wLjcsMS4xLTEuNSwxLjMtNCwxLjNjLTAuOSwwLTEuOC0wLjEtMi40LTAuMWMwLTAuMSwwLTYuMywwLTYuNGMwLjEsMCw0LjUsMCw0LjUsMFYzMmMwLDAtNC4zLDAtNC41LDBjMC0wLjEsMC00LjgsMC00LjkNCgkJYzAuMSwwLDMuNiwwLDMuNiwwYzEsMCwxLjcsMC44LDEuNywxLjN2MC4xbDAuNCwwTDE1Ny40LDI1LjZMMTU3LjQsMjUuNkwxNTcuNCwyNS42eiIvPg0KCTxwYXRoIGZpbGw9IiMwMDM2NjIiIGQ9Ik05MCwyMi43Yy0wLjksMC43LTIsMS45LTIuMSw0YzAsMCwwLDAsMCwwLjFjMCwyLjUsMS42LDMuOSw0LjIsNS4yYzAsMCwwLDAsMCwwYzAuMSwwLjEsMC4zLDAuMiwxLDAuNQ0KCQljMi4yLDEuMSwzLjcsMS45LDMuNyw0LjFjMCwwLjgtMC4zLDEuOS0xLjEsMi43Yy0wLjcsMC43LTEuNiwxLTIuNywxYy0zLjMsMC00LjUtMi45LTQuOC00LjJsLTAuMS0wLjJsLTAuNiwwLjFsMC4yLDQuMUw4OCw0MA0KCQljMS4xLDAuNiwyLjgsMS42LDUuNCwxLjdjMS44LDAsMy42LTAuNyw0LjktMmMxLjEtMS4xLDEuNy0yLjUsMS43LTRjMC0zLjMtMi40LTQuNi00LjktNS45bC0wLjUtMC4zYy0yLjYtMS4zLTMuOC0yLjEtMy44LTMuNw0KCQljMC0xLjEsMC45LTIuOSwzLjEtMi45YzIuNiwwLDQsMiw0LjMsMy4ybDAuMSwwLjJsMC42LTAuMWwtMC4yLTMuNmwtMC4xLTAuMWMtMS41LTEtMy40LTEuMi00LjItMS4yQzkyLjYsMjEuNCw5MS4xLDIxLjksOTAsMjIuN3oNCgkJIi8+DQoJPHBhdGggZmlsbD0iIzAwMzY2MiIgZD0iTTEyNSwyOS42TDEyNSwyOS42YzAsMi4yLDEuMywzLjMsMy40LDQuNGMwLDAsMC44LDAuNCwwLjgsMC40YzEuNywwLjgsMi44LDEuNCwyLjgsM2MwLDAuMy0wLjEsMS4yLTAuOCwyDQoJCWMtMC41LDAuNS0xLjIsMC44LTIuMSwwLjdjLTIuNSwwLTMuNC0yLTMuOC0zLjFsLTAuMS0wLjJsLTAuNSwwLjFsMC4xLDMuM2wwLjEsMC4xYzAuOCwwLjUsMi4yLDEuMyw0LjMsMS4zYzEuNCwwLDIuOS0wLjYsMy45LTEuNg0KCQljMC45LTAuOSwxLjMtMiwxLjMtMy4yYzAtMi44LTEuOS0zLjgtMy45LTQuOGMwLDAtMC40LTAuMi0wLjQtMC4yYy0yLjItMS4xLTIuOS0xLjYtMi45LTIuOGMwLTAuOSwwLjYtMi4xLDIuNC0yLjENCgkJYzIuMSwwLDMsMS42LDMuMiwyLjRsMC4xLDAuMmwwLjUtMC4xbC0wLjItMi45bC0wLjEtMC4xYy0xLjItMC44LTIuNy0wLjktMy4zLTAuOUMxMjcuNSwyNS41LDEyNSwyNi45LDEyNSwyOS42eiIvPg0KCTxwYXRoIGZpbGw9IiMwMDM2NjIiIGQ9Ik0xMzYuOCwyOS42YzAsMi4yLDEuMywzLjMsMy40LDQuNGwwLjgsMC40YzEuNywwLjgsMi44LDEuNCwyLjgsM2MwLDAuMy0wLjEsMS4yLTAuOCwyDQoJCWMtMC41LDAuNS0xLjIsMC44LTIuMSwwLjdjLTIuNSwwLTMuNC0yLTMuOC0zLjFsLTAuMS0wLjJsLTAuNSwwLjFsMC4xLDMuM2wwLjEsMC4xYzAuOCwwLjUsMi4yLDEuMyw0LjMsMS4zYzEuNCwwLDIuOS0wLjYsMy45LTEuNg0KCQljMC45LTAuOSwxLjMtMiwxLjMtMy4yYzAtMi44LTEuOS0zLjgtMy45LTQuOGMwLDAtMC40LTAuMi0wLjQtMC4yYy0yLjItMS4xLTIuOS0xLjYtMi45LTIuOGMwLTAuNSwwLjItMS4xLDAuNi0xLjUNCgkJYzAuNC0wLjQsMS0wLjYsMS43LTAuNmMyLjEsMCwzLDEuNiwzLjIsMi40bDAuMSwwLjJsMC41LTAuMWwtMC4yLTIuOWwtMC4xLTAuMWMtMS4yLTAuOC0yLjctMC45LTMuMy0wLjkNCgkJQzEzOS40LDI1LjUsMTM2LjgsMjYuOSwxMzYuOCwyOS42eiIvPg0KCTxwYXRoIGZpbGw9IiMwMDM2NjIiIGQ9Ik0xMTQuMiwyNS42bC0yLjEsMGwwLDAuNGwwLDBjMC4xLDAuMSwwLjQsMC4zLDAuNCwxLjNsMCw5YzAsMS43LTAuNiwzLjgtMy43LDMuOGMtMi45LDAtMy41LTEuNy0zLjUtNC4zDQoJCWwwLTEwLjJoLTMuM2wwLDAuNGwwLDBjMC4yLDAuMSwwLjYsMC41LDAuNiwxLjR2OC40YzAsNS4yLDMuNCw1LjgsNiw1LjhjMS4zLDAsNS40LTAuNCw1LjQtNS4zTDExNC4yLDI1LjZMMTE0LjIsMjUuNnoiLz4NCgk8Zz4NCgkJPHBhdGggZmlsbD0iIzAwMzY2MiIgZD0iTTE4MC4xLDIxLjFjMS45LDAuNiwzLjgsMS40LDUuOSwyLjZjLTUuMS04LjQtMTQuMS0xNy41LTIzLTIzLjRjMi4zLDIuMyw2LDcuMyw3LDEyLjYNCgkJCUMxNzMuNiwxNS41LDE3NywxOC4zLDE4MC4xLDIxLjF6Ii8+DQoJCTxwYXRoIGZpbGw9IiMwMDM2NjIiIGQ9Ik0xODAuMSwyMS4xYy00LjQtMS40LTguMS0xLjUtMTAuOC0xLjJjMS0yLjMsMS4xLTQuNywwLjctN2MtNi43LTQuOC0xNC4yLTktMjEuMy0xMi4xDQoJCQljNS4yLDMuNSwxMSwxMy44LDEzLjQsMjQuOGM1LjItMS41LDEzLjEtMi42LDIzLjQsMC45QzE4My44LDI0LjcsMTgyLDIyLjksMTgwLjEsMjEuMXoiLz4NCgkJPHBhdGggZmlsbD0ibm9uZSIgZD0iTTE2OS45LDEyLjljMC40LDIuMywwLjMsNC43LTAuNiw3YzIuOC0wLjMsNi41LTAuMiwxMC44LDEuMkMxNzcsMTguMywxNzMuNiwxNS41LDE2OS45LDEyLjl6Ii8+DQoJPC9nPg0KPC9nPg0KPC9zdmc+DQo=" alt="Back to the home page." role="img" width="186" height="42" itemprop="logo" class="mod_logo_image">
+				        <!--[if lte IE 8]>
+                            <img src="https://cdnext.credit-suisse.com/assets/media/img_logo_credit_suisse.png"" alt="Back to the home page." role="img" width="186" height="41" itemprop="logo" class="mod_logo_image_old_ie">
+                        <![endif]-->
+                        <span class="visuallyhidden">Back to the home page.</span>
+                    </a>
+                </div>
+
+                <h2 class="visuallyhidden">Country Selection</h2>
+                    <div class="mod_location_selection" data-header="country_selector_wrp">
+                        <a href="#" class="link_location_selection" id="link_location_selection" aria-expanded="false" aria-haspopup="true" aria-owns="mod_country_selector" aria-controls="mod_country_selector" data-header="btn_toggle_country_selector" role="tab">
+                            <span class="bd_top"></span>
+                            USA<span class="visuallyhidden">is the currently selected country site</span>
+                        </a>
+                    </div>
+                <h2 class="visuallyhidden" id="headline_language_selection">Choose your language</h2>
+                <nav id="nav_language_selection" class="nav_language_selection" data-header="language_selector" aria-label="Language selection">
+		</nav>
+<div class="mod_login" role="tablist">
+								<a href="#" class="btn_login" aria-owns="mod_login_selector" aria-controls="mod_login_selector" data-header="btn_toggle_login_selector" aria-expanded="false" id="btn_login" role="tab">
+									<span class="btn_login_label">Client Login</span>
+								</a>
+							</div>
+						<a href="#" class="btn_toggle_menu icon_drawer" aria-expanded="false" aria-haspopup="true" data-header="btn_toggle_sidebar">
+					<span class="visuallyhidden">Show/Hide Menu</span>
+				</a>
+
+				<a href="#" class="btn_toggle_search_bar" aria-expanded="false" aria-owns="mod_search_bar" aria-controls="mod_search_bar" data-header="btn_toggle_search_bar" data-label="Hide search">
+						<span class="visuallyhidden">Show search</span>
+					</a>
+				</div>
+        </div>
+
+        <div id="mod_search_bar" class="mod_search_bar" aria-hidden="true" aria-expanded="false" aria-describedby="search_label" role="search" data-header="search_bar">
+	            <div class="component_full">
+	                <label for="mod_search_bar_input" class="visuallyhidden" id="mod_search_bar_label">Search</label>
+                    <form action="/us/en/search.html" method="get" id="mod_search_bar_form">
+						<input type="search" data-header="search_bar_input" name="cs-gs-field" value="" class="mod_search_bar_input" placeholder="Search" id="mod_search_bar_input" aria-labelledby="mod_search_bar_label" autocomplete="off">
+						<input type="hidden" name="cs-site" value="cs">
+						<a href="#" class="mod_search_bar_btn_clean_input" data-header="search_bar_clean_input">
+							<span class="visuallyhidden">Clean input in search field</span>
+						</a>
+						<button type="submit" class="mod_search_bar_btn_submit" aria-label="Press to execute your search">
+							<span>Go</span>
+						</button>
+                    </form>
+	            </div>
+	        </div>
+        </div>
+
+    <span class="visuallyhidden" id="nav_main_label">Main navigation</span>
+
+<nav class="nav_main" role="navigation" aria-labelledby="nav_main_label" id="nav_main" data-require="nav_main" data-response-url="/bin/i18n/getLocalizationValues" aria-label="Main navigation">
+    <ol class="nav_main_list component_standard_content" role="application">
+        <li class="nav_main_item_level_1" nav-main="list-item">
+				<a tabindex="0" class="nav_main_level_1" aria-haspopup="true" aria-owns="" aria-controls="" aria-expanded="false" nav-main="link" data-csvn="false">
+			                <span class="label">
+			                    Products <br> &amp; Services</span>
+			            </a>
+			
+			            <ol id="nav_main_list_level_0" class="nav_main_list_level_2" role="menu" aria-hidden="true" aria-expanded="false" aria-labelledby="" nav-main="menu">
+			                <li class="nav_main_item_level_2" nav-main="list-item">
+				                	<a href="/us/en/private-banking-nav.html" class="nav_main_level_2" aria-haspopup="true" aria-owns="" aria-controls="" aria-expanded="false" nav-main="link" data-csvn="false">
+						                        Private Banking</a>
+						                    <ol id="nav_main_list_level_0_0" class="nav_main_list_level_3" aria-hidden="true" aria-expanded="false" aria-labelledby="" nav-main="menu">
+						                        <li class="nav_main_item_level_3" nav-main="list-item">
+							                            <a href="/us/en/private-banking-nav/clientview-login-nav.html" class="nav_main_level_3 var_no_children" aria-haspopup="false" nav-main="link" data-csvn="false">
+							                            	ClientView Login</a>
+							                        </li>
+						                        </ol>
+						        		</li>
+			                <li class="nav_main_item_level_2" nav-main="list-item">
+				                	<a href="/us/en/investment-banking.html" class="nav_main_level_2" aria-haspopup="true" aria-owns="" aria-controls="" aria-expanded="false" nav-main="link" data-csvn="false">
+						                        Investment Banking</a>
+						                    <ol id="nav_main_list_level_0_1" class="nav_main_list_level_3" aria-hidden="true" aria-expanded="false" aria-labelledby="" nav-main="menu">
+						                        <li class="nav_main_item_level_3" nav-main="list-item">
+							                            <a href="/us/en/investment-banking/global-markets.html" class="nav_main_level_3 var_no_children" aria-haspopup="false" nav-main="link" data-csvn="false">
+							                            	Global Markets</a>
+							                        </li>
+						                        <li class="nav_main_item_level_3" nav-main="list-item">
+							                            <a href="/us/en/investment-banking/ibcm.html" class="nav_main_level_3 var_no_children" aria-haspopup="false" nav-main="link" data-csvn="false">
+							                            	Investment Banking &amp; Capital Markets</a>
+							                        </li>
+						                        <li class="nav_main_item_level_3" nav-main="list-item">
+							                            <a href="/us/en/investment-banking/research.html" class="nav_main_level_3 var_no_children" aria-haspopup="false" nav-main="link" data-csvn="false">
+							                            	Research</a>
+							                        </li>
+						                        <li class="nav_main_item_level_3" nav-main="list-item">
+							                            <a href="/us/en/investment-banking/financial-regulatory.html" class="nav_main_level_3 var_no_children" aria-haspopup="false" nav-main="link" data-csvn="false">
+							                            	Financial and Regulatory</a>
+							                        </li>
+						                        <li class="nav_main_item_level_3" nav-main="list-item">
+							                            <a href="/us/en/investment-banking/regional-presence.html" class="nav_main_level_3 var_no_children" aria-haspopup="false" nav-main="link" data-csvn="false">
+							                            	Regions</a>
+							                        </li>
+						                        </ol>
+						        		</li>
+			                <li class="nav_main_item_level_2" nav-main="list-item">
+				                	<a href="/us/en/asset-management.html" class="nav_main_level_2" aria-haspopup="true" aria-owns="" aria-controls="" aria-expanded="false" nav-main="link" data-csvn="false">
+						                        Asset Management</a>
+						                    <ol id="nav_main_list_level_0_2" class="nav_main_list_level_3" aria-hidden="true" aria-expanded="false" aria-labelledby="" nav-main="menu">
+						                        <li class="nav_main_item_level_3" nav-main="list-item">
+							                            <a href="/us/en/asset-management/strategies-and-solutions.html" class="nav_main_level_3 var_no_children" aria-haspopup="false" nav-main="link" data-csvn="false">
+							                            	Strategies and Solutions</a>
+							                        </li>
+						                        <li class="nav_main_item_level_3" nav-main="list-item">
+							                            <a href="/us/en/asset-management/news-insights.html" class="nav_main_level_3 var_no_children" aria-haspopup="false" nav-main="link" data-csvn="false">
+							                            	Insights</a>
+							                        </li>
+						                        <li class="nav_main_item_level_3" nav-main="list-item">
+							                            <a href="/us/en/asset-management/funds.html" class="nav_main_level_3 var_no_children" aria-haspopup="false" nav-main="link" data-csvn="false">
+							                            	US Funds</a>
+							                        </li>
+						                        <li class="nav_main_item_level_3" nav-main="list-item">
+							                            <a href="/us/en/asset-management/about-am.html" class="nav_main_level_3 var_no_children" aria-haspopup="false" nav-main="link" data-csvn="false">
+							                            	About Asset Management</a>
+							                        </li>
+						                        <li class="nav_main_item_level_3" nav-main="list-item">
+							                            <a href="/us/en/asset-management/contact.html" class="nav_main_level_3 var_no_children" aria-haspopup="false" nav-main="link" data-csvn="false">
+							                            	Contact</a>
+							                        </li>
+						                        </ol>
+						        		</li>
+			                </ol>
+			    	</li>
+        <li class="nav_main_item_level_1" nav-main="list-item">
+				<a href="/corporate/en/corporate.html" class="nav_main_level_1" aria-haspopup="true" aria-owns="" aria-controls="" aria-expanded="false" nav-main="link" data-csvn="false">
+			                <span class="label">
+			                    Corporate</span>
+			            </a>
+			
+			            <ol id="nav_main_list_level_1" class="nav_main_list_level_2" role="menu" aria-hidden="true" aria-expanded="false" aria-labelledby="" nav-main="menu">
+			                <li class="nav_main_item_level_2" nav-main="list-item">
+				                	<a href="/corporate/en/about-us.html" class="nav_main_level_2 var_no_children" aria-haspopup="false" nav-main="link" data-csvn="false">
+												<span class="label">About Us</span>
+											</a>
+				                		</li>
+			                <li class="nav_main_item_level_2" nav-main="list-item">
+				                	<a href="/corporate/en/our-company.html" class="nav_main_level_2 var_no_children" aria-haspopup="false" nav-main="link" data-csvn="false">
+												<span class="label">Our Company</span>
+											</a>
+				                		</li>
+			                <li class="nav_main_item_level_2" nav-main="list-item">
+				                	<a href="/corporate/en/media.html" class="nav_main_level_2 var_no_children" aria-haspopup="false" nav-main="link" data-csvn="false">
+												<span class="label">Media</span>
+											</a>
+				                		</li>
+			                <li class="nav_main_item_level_2" nav-main="list-item">
+				                	<a href="/corporate/en/investor-relations.html" class="nav_main_level_2 var_no_children" aria-haspopup="false" nav-main="link" data-csvn="false">
+												<span class="label">Investor Relations</span>
+											</a>
+				                		</li>
+			                <li class="nav_main_item_level_2" nav-main="list-item">
+				                	<a href="/corporate/en/governance.html" class="nav_main_level_2 var_no_children" aria-haspopup="false" nav-main="link" data-csvn="false">
+												<span class="label">Governance</span>
+											</a>
+				                		</li>
+			                <li class="nav_main_item_level_2" nav-main="list-item">
+				                	<a href="/corporate/en/responsibility.html" class="nav_main_level_2 var_no_children" aria-haspopup="false" nav-main="link" data-csvn="false">
+												<span class="label">Responsibility</span>
+											</a>
+				                		</li>
+			                <li class="nav_main_item_level_2" nav-main="list-item">
+				                	<a href="/corporate/en/sponsorship.html" class="nav_main_level_2 var_no_children" aria-haspopup="false" nav-main="link" data-csvn="false">
+												<span class="label">Sponsorship</span>
+											</a>
+				                		</li>
+			                <li class="nav_main_item_level_2" nav-main="list-item">
+				                	<a href="/corporate/en/research.html" class="nav_main_level_2 var_no_children" aria-haspopup="false" nav-main="link" data-csvn="false">
+												<span class="label">Research</span>
+											</a>
+				                		</li>
+			                <li class="nav_main_item_level_2" nav-main="list-item">
+				                	<a href="/corporate/en/publications.html" class="nav_main_level_2 var_no_children" aria-haspopup="false" nav-main="link" data-csvn="false">
+												<span class="label">Publications</span>
+											</a>
+				                		</li>
+			                </ol>
+			    	</li>
+        <li class="nav_main_item_level_1" nav-main="list-item">
+				<a href="/careers/en/careers.html" class="nav_main_level_1" aria-haspopup="true" aria-owns="" aria-controls="" aria-expanded="false" nav-main="link" data-csvn="false">
+			                <span class="label">
+			                    Careers</span>
+			            </a>
+			
+			            <ol id="nav_main_list_level_2" class="nav_main_list_level_2" role="menu" aria-hidden="true" aria-expanded="false" aria-labelledby="" nav-main="menu">
+			                <li class="nav_main_item_level_2" nav-main="list-item">
+				                	<a href="/careers/en/our-business.html" class="nav_main_level_2 var_no_children" aria-haspopup="false" nav-main="link" data-csvn="false">
+												<span class="label">Our Business</span>
+											</a>
+				                		</li>
+			                <li class="nav_main_item_level_2" nav-main="list-item">
+				                	<a href="/careers/en/our-people.html" class="nav_main_level_2 var_no_children" aria-haspopup="false" nav-main="link" data-csvn="false">
+												<span class="label">Our People</span>
+											</a>
+				                		</li>
+			                <li class="nav_main_item_level_2" nav-main="list-item">
+				                	<a href="/careers/en/career-opportunities.html" class="nav_main_level_2" aria-haspopup="true" aria-owns="" aria-controls="" aria-expanded="false" nav-main="link" data-csvn="false">
+						                        Career Opportunities</a>
+						                    <ol id="nav_main_list_level_2_2" class="nav_main_list_level_3" aria-hidden="true" aria-expanded="false" aria-labelledby="" nav-main="menu">
+						                        <li class="nav_main_item_level_3" nav-main="list-item">
+							                            <a href="/careers/en/career-opportunities/experienced-professionals.html" class="nav_main_level_3 var_no_children" aria-haspopup="false" nav-main="link" data-csvn="false">
+							                            	Experienced Professionals</a>
+							                        </li>
+						                        <li class="nav_main_item_level_3" nav-main="list-item">
+							                            <a href="/careers/en/career-opportunities/students-and-graduates.html" class="nav_main_level_3 var_no_children" aria-haspopup="false" nav-main="link" data-csvn="false">
+							                            	Students and Graduates</a>
+							                        </li>
+						                        <li class="nav_main_item_level_3" nav-main="list-item">
+							                            <a href="/careers/en/career-opportunities/recruitment-technology-microsite.html" class="nav_main_level_3 var_no_children" aria-haspopup="false" nav-main="link" data-csvn="false">
+							                            	Technology Careers</a>
+							                        </li>
+						                        <li class="nav_main_item_level_3" nav-main="list-item">
+							                            <a href="/careers/en/career-opportunities/high-school-switzerland.html" class="nav_main_level_3 var_no_children" aria-haspopup="false" nav-main="link" data-csvn="false">
+							                            	High School Students and Graduates (CH only)</a>
+							                        </li>
+						                        <li class="nav_main_item_level_3" nav-main="list-item">
+							                            <a href="/careers/en/career-opportunities/apprentice.html" class="nav_main_level_3 var_no_children" aria-haspopup="false" nav-main="link" data-csvn="false">
+							                            	Apprenticeships (CH only)</a>
+							                        </li>
+						                        </ol>
+						        		</li>
+			                <li class="nav_main_item_level_2" nav-main="list-item">
+				                	<a href="/careers/en/career-perspectives.html" class="nav_main_level_2 var_no_children" aria-haspopup="false" nav-main="link" data-csvn="false">
+												<span class="label">Credit Suisse Perspectives</span>
+											</a>
+				                		</li>
+			                <li class="nav_main_item_level_2" nav-main="list-item">
+				                	<a href="/careers/en/at-work.html" class="nav_main_level_2 var_no_children" aria-haspopup="false" nav-main="link" data-csvn="false">
+												<span class="label">At Work</span>
+											</a>
+				                		</li>
+			                <li class="nav_main_item_level_2" nav-main="list-item">
+				                	<a href="/careers/en/search-and-apply.html" class="nav_main_level_2" aria-haspopup="true" aria-owns="" aria-controls="" aria-expanded="false" nav-main="link" data-csvn="false">
+						                        Search and Apply</a>
+						                    <ol id="nav_main_list_level_2_5" class="nav_main_list_level_3" aria-hidden="true" aria-expanded="false" aria-labelledby="" nav-main="menu">
+						                        <li class="nav_main_item_level_3" nav-main="list-item">
+							                            <a href="/careers/en/search-and-apply/search-and-apply-experienced.html" class="nav_main_level_3 var_no_children" aria-haspopup="false" nav-main="link" data-csvn="false">
+							                            	Experienced Professionals</a>
+							                        </li>
+						                        <li class="nav_main_item_level_3" nav-main="list-item">
+							                            <a href="/careers/en/search-and-apply/search-and-apply-campus.html" class="nav_main_level_3 var_no_children" aria-haspopup="false" nav-main="link" data-csvn="false">
+							                            	Campus Recruiting</a>
+							                        </li>
+						                        <li class="nav_main_item_level_3" nav-main="list-item">
+							                            <a href="/careers/en/search-and-apply/search-and-apply-high-school-graduates.html" class="nav_main_level_3 var_no_children" aria-haspopup="false" nav-main="link" data-csvn="false">
+							                            	High School Graduates (CH only)</a>
+							                        </li>
+						                        <li class="nav_main_item_level_3" nav-main="list-item">
+							                            <a href="/careers/en/search-and-apply/search-and-apply-apprenticeships.html" class="nav_main_level_3 var_no_children" aria-haspopup="false" nav-main="link" data-csvn="false">
+							                            	Apprenticeships (CH only)</a>
+							                        </li>
+						                        </ol>
+						        		</li>
+			                </ol>
+			    	</li>
+        </ol>
+</nav>
+</header>
+<main class="layout_content " id="content" role="main">
+			<div class="mod_header_image var_no_image">
+	<p class="mod_header_image_page_title">
+        <a href="/us/en/legal.html" class="mod_header_image_breadcrumb">
+                Legal Notes</a>
+        Cookie Policy</p>
+</div>
+<span class="visuallyhidden">Cookie Policy</span>
+<div class="layout_content_inner">
+    <div class="component_aside">
+        <div class="component_aside_content">
+            <h2 class="visuallyhidden" id="share_buttons_label">Share Buttons</h2>
+<div class="mod_generic_share_bar is_closed" data-require="U4_-_generic_share_bar" aria-labelledby="share_buttons_label">
+    <div class="mod_generic_share_bar_main">
+        <a href="#" class="mod_generic_share_bar_link mod_generic_share_bar_print" data-print="">
+            Print</a>
+    </div>
+
+    </div>
+</div>
+    </div>
+
+    <div class="component_standard">
+    <div class="component_standard_content">
+        <div class="mod_text_component">
+            <p>Latest Update: May 24, 2018</p>
+<p>Credit Suisse Group AG and all its affiliates (hereinafter referred to as "Credit Suisse", "we" or "us") are committed to maintaining the privacy of every current, former and prospective customer and website user. We recognize that you entrust important personal information to us, and we wish to assure you that we take seriously our responsibilities in protecting and safeguarding this information. This Privacy &amp; Cookie Policy ("Policy") describes in detail how we deal with information that we collect on this website (the "Site").</p>
+<p>This Policy may be updated at any time. Please ensure that you regularly read the latest version of this page. The first paragraph of the Policy tells you when the last update was made.</p>
+<ul class="bulleted-list">
+<li>Information we collect</li>
+<li>Who can access the Information we collect</li>
+<li>Security of data transfers</li>
+<li>Protection, Processing and Use of Personal Data</li>
+<li>How does Credit Suisse treat electronic messages</li>
+<li>Cookies</li>
+<li>Links</li>
+<li>Third Party Cookies and Tracking technologies</li>
+<li>Social Media Plugins</li>
+</ul>
+<h2>Information We Collect</h2>
+<p>We may collect information about you when you use this Site or when you apply for or use other services offered by Credit Suisse in the following ways:</p>
+<ul class="bulleted-list">
+<li>We may also collect personal information about you as a result of us recording certain telephone calls which our employees may have with you, and storing those recordings, in order to satisfy our legal and regulatory obligations or for&nbsp;Credit Suisse Business purposes.</li>
+<li>If you register to use the password-protected or country-specific portions of our site, we will ask you to provide us with certain information about yourself. This information may include your name, company name, title, address, country of residence, e-mail address, telephone number, account number, assets, income and financial situation. We use such information about you to verify your identity and eligibility to receive certain products or services, to provide information to you about products and services that we believe may be of interest to you, to record your interest in products and services that we offer, and to respond to your requests for information. We may also use cookies or web bugs on such portions of our Site to collect Usage Information, and to facilitate your movement within the Site (e.g. remembering passwords during a session and recording the country you may have elected as your country of residence).</li>
+<li>We may collect information concerning the attachments you open within newsletters that are sent to you electronically.</li>
+<li>We may also collect personal information about you from applications, forms or questionnaires you may complete or agreements you enter into with us or in the course of your establishing or maintaining a customer relationship with us, including information about your credit history or financial situation, and your transactions with us or others who provide services to us.</li>
+</ul>
+<p>If you decline to provide us with the personal information we require then we may not be able to make investment products available to you or to provide other services to you.</p>
+<h2>Who can access the information we collect</h2>
+<p>Credit Suisse may disclose your information to its affiliates and its and their agents and third party providers inside or outside your country of residence to perform services for Credit Suisse. All parties having access to personal data collected through this website are obliged to respect all applicable data protection laws as well as Credit Suisse internal privacy stipulations.</p>
+<p>Credit Suisse may also disclose your information to governmental agencies or entities, regulatory authorities, or other persons in line with any applicable law, regulations, court order or official request, or under any and for the purposes of any guidelines issued by regulatory or other authorities, or similar processes as either required or permitted by applicable law.</p>
+<h2>Security of Data Transfers</h2>
+<p>Please note that data transferred via a public network, such as the internet or an email service, may be viewed by others. Information transmitted via the internet (such as online forms) and content received online may under certain circumstances be transmitted via third-party networks. Credit Suisse cannot guarantee banking secrecy nor the confidentiality of messages or documents transmitted via such open networks or networks from third parties.</p>
+<p>If you disclose personal information via an open network or a third party network, you should be aware that your data may be lost or that third parties may be able to gain access to this information and consequently gather and make use of the data without your consent. In particular, while individual data packets are often encrypted, the names of the sender and recipient are not. A third party could therefore be able to draw conclusions about existing bank accounts or business relationships or ones that are subsequently established. Even if both the sender and recipient are located in the same country, data may also be transmitted regularly and without controls via such networks to other countries, including to countries that do not afford the same level of data protection as your country of domicile. We accept no responsibility for the security of your data during transmission via the internet and cannot be held liable for any direct or indirect losses. We ask that you use alternative methods of communication if you deem this to be necessary or appropriate for security reasons.</p>
+<p>Data you provide in online forms can be communicated to commissioned third-party companies for order processing and be processed by such companies.</p>
+<p>For certain services, we use strong encryption to transfer your data (such as e-banking). In these cases you will be informed separately about the treatment of this data and details concerning encryption.
+</p>
+<h2>Protection, Processing and Use of Personal Data</h2>
+<p>We use your personal information to enhance the quality of the products or services we wish to provide to our customers or in connection with your investments with or through us and to maintain contact details for those with whom we deal. We restrict access to personal information about you to those employees, agents or other parties who need to know that information to provide products or services to you or in connection with your investments with or through us. We maintain physical, electronic and procedural safeguards to guard your personal information, including firewalls, individual passwords and encryption and authentication technology. We do not use for purposes other than as set out above, or disclose to any third party any personal information about our customers or former customers, except with such customer’s consent or as otherwise permitted or required by law. In cases where we believe that additional products and services may be of interest to you, we may share your personal information with affiliates of Credit Suisse to the extent permitted by applicable law. We may also disclose this information to firms that perform services on our behalf to the extent permitted by applicable law. These service providers are required to treat the information confidentially and use it only for the purpose for which it is provided. Certain jurisdictions may have more stringent privacy requirements that will prevent disclosure of your personal information to any other person or entity, including affiliates.</p>
+<p>We will retain your personal information in accordance with applicable data protection laws for so long as it is needed.</p>
+<p>Your Personal Data will be processed in accordance with the Credit Suisse Privacy Notice accessible at your domicile through the official Credit Suisse website (e.g. for Switzerland please visit&nbsp;<a href="https://www.credit-suisse.com/ch/en/legal.html">https://www.credit-suisse.com/ch/en/legal.html</a>)</p>
+<h2><b>How does Credit Suisse treat electronic messages</b></h2>
+<p>All electronic messages sent to and from Credit Suisse are automatically retained in a distinct journaling system which preserves the evidential weight of the e-mails.&nbsp;</p>
+<p>They are protected by reasonable technical and organisational measures and may only be accessed in justified cases in line with applicable laws and regulations and internal polices to specific persons in defined functions (e.g. Legal, Compliance, Risk).&nbsp;</p>
+<p>If the visitor uses one of the e-mail addresses or the forms published by Credit Suisse on this website to make contact, he/she expressly authorizes Credit Suisse to respond by the same means either to the sender address or to another indicated address. E-mail is not a suitable means for sending confidential information. Please note that banking secrecy cannot be guaranteed when using any means of electronic communication.</p>
+<h2>Cookies</h2>
+<p>All websites of Credit Suisse Group AG and its affiliates (hereinafter referred to as "Credit Suisse", "we" or "us") use cookies for statistical purposes and to improve user experience and online advertising campaigns. One of the cookies we use is essential for parts of the site to operate and has already been set. This site does not work without cookies. By using this website, you agree to the use of cookies for this purpose.</p>
+<h3>What is a cookie?</h3>
+<p>Cookies are small files which are stored on your device to keep track of your visit to the website and your preferences; as you move between pages, and sometimes to save settings between visits.&nbsp;Cookies help the builders of websites gather statistics about how often people visit certain areas of the website, and help in tailoring websites to be more useful and user-friendly.</p>
+<p>For more information on cookies, please feel free to visit the UK Information Commissioner’s Office website (<a href="http://www.ico.gov.uk/" target="_blank" rel="NewWindow">www.ico.gov.uk</a>) for a more detailed description of the purpose and usage of cookies, and information on how to control and delete cookies from your browser.</p>
+<h3>How are cookies used in this website?</h3>
+<p>The cookies we store on Credit Suisse websites are used to:</p>
+<ul class="bulleted-list">
+<li>track the number, and type of visits to the website, and its pages, in order for us to determine which parts of the site are working well, and which need improvement,</li>
+<li>store your preferences, for screen layouts, including your preferred language and country,</li>
+<li>gather statistics on the number of users and their usage patterns,</li>
+<li>improve the speed and performance of the website pages.</li>
+</ul>
+<h3>Third party cookies and partners</h3>
+<ul class="bulleted-list">
+<li>Occasionally we will use third party plug-ins and components to improve the user’s experience and our online advertising campaigns.&nbsp;These components may also use cookies for similar purposes. Neither the third party nor Credit Suisse has access to any data collected by the other via cookies.</li>
+<li>We may use cookies to display credit Suisse advertisements when you visit third party websites with whom we have marketing relationships.</li>
+<li>Under certain circumstances, these third parties may collect anonymized information about your use of our and other websites and make these anonymized data available to us, including, but not limited to, your geographical details, your user behavior on a website or the names of websites on which you were shown ads.</li>
+<li>We may use this information to provide you with more relevant and useful advertising and help us improve the effectiveness of our advertising efforts.&nbsp;</li>
+</ul>
+<h3>Deleting Cookies</h3>
+<p>You may opt-out of cookies (and the use of this website) at any time, by deleting the cookies that were set by the site. This can be done via the settings of your internet browser,&nbsp;by deleting cache, browsing history and cookies.</p>
+<h2>Links</h2>
+<p>This Site may contain hyperlinks to other websites that are not operated or monitored by Credit Suisse. These other websites are not subject to this Policy and we are not responsible for their content or for the policy they apply to the treatment of personal data. Your use of these links will be at your own risk.</p></div>
+    </div>
+</div>
+<div class="component_standard mod_table_wrapper">
+            <div class="component_standard_content">
+            <h2 class="mod_table_title"><p>Third Party Cookies and Tracking technologies</p></h2>
+            <div class="mod_table">
+                <table aria-describedby="mod_table_description" class="mod_table_matrix " data-require="C36_-_table">
+                    <tbody>
+                            <tr class="mod_table_row_odd">
+                                    <th class="mod_table_th_full"><p><b>Tool</b></p>
+</th>
+                                <th class="mod_table_th_full"><p><b>Purpose</b></p>
+</th>
+                                <th class="mod_table_th_full"><p><b>Provider</b></p>
+</th>
+                                <th class="mod_table_th_full"><p>&nbsp;</p>
+</th>
+                                </tr>
+
+                        <tr class="mod_table_row_even">
+                                    <td width="149"><p>Adobe Analytics</p>
+</td>
+                                <td width="224"><p>Web Analytics</p>
+</td>
+                                <td width="142"><p>Adobe Systems Inc.</p>
+</td>
+                                <td width="123"><p><a href="https://www.adobe.com/ca/privacy/marketing-cloud.html" target="_blank">Privacy</a>&nbsp;<br>
+<a href="https://www.adobe.com/ca/privacy/opt-out.html" target="_blank">Opt Out</a></p>
+</td>
+                                </tr>
+
+                        <tr class="mod_table_row_odd">
+                                    <td width="149"><p>Adobe Audience Manager</p>
+</td>
+                                <td width="224"><p>Advertising</p>
+</td>
+                                <td width="142"><p>Adobe Systems Inc.</p>
+</td>
+                                <td width="123"><p><a href="https://www.adobe.com/ca/privacy/marketing-cloud.html" target="_blank">Privacy</a><br>
+<a href="https://www.adobe.com/ca/privacy/opt-out.html" target="_blank">Opt Out</a></p>
+</td>
+                                </tr>
+
+                        <tr class="mod_table_row_even">
+                                    <td width="149"><p>Adobe Target</p>
+</td>
+                                <td width="224"><p>Advertising/Optimization</p>
+</td>
+                                <td width="142"><p>Adobe Systems Inc.</p>
+</td>
+                                <td width="123"><p><a href="https://www.adobe.com/ca/privacy/marketing-cloud.html" target="_blank">Privacy</a><br>
+<a href="https://www.adobe.com/ca/privacy/opt-out.html" target="_blank">Opt Out</a></p>
+</td>
+                                </tr>
+
+                        <tr class="mod_table_row_odd">
+                                    <td width="149"><p>App Nexus</p>
+</td>
+                                <td width="224"><p>Advertising</p>
+</td>
+                                <td width="142"><p>Xaxis LLC.</p>
+</td>
+                                <td width="123"><p><a href="https://www.xaxis.com/privacy-policy/" target="_blank">Privacy</a><br>
+<a href="https://www.xaxis.com/opt-out/" target="_blank">Opt Out</a></p>
+</td>
+                                </tr>
+
+                        <tr class="mod_table_row_even">
+                                    <td width="149"><p>Attivio</p>
+</td>
+                                <td width="224"><p>On-site Search/Web Analytics</p>
+</td>
+                                <td width="142"><p>Attivio Inc.</p>
+</td>
+                                <td width="123"><p><a href="https://www.attivio.com/content/privacy-policy" target="_blank">Privacy</a></p>
+</td>
+                                </tr>
+
+                        <tr class="mod_table_row_odd">
+                                    <td width="149"><p>Decibel</p>
+</td>
+                                <td width="224"><p>Web Analytics</p>
+</td>
+                                <td width="142"><p>Decibel Insight Ltd.</p>
+</td>
+                                <td width="123"><p><a href="https://www.decibelinsight.com/privacy-policy/" target="_blank">Privacy</a><br>
+<a href="https://www.decibelinsight.com/optout" target="_blank">Opt Out</a></p>
+</td>
+                                </tr>
+
+                        <tr class="mod_table_row_even">
+                                    <td width="149"><p>DoubleClick</p>
+</td>
+                                <td width="224"><p>Advertising</p>
+</td>
+                                <td width="142"><p>Google Inc.</p>
+</td>
+                                <td width="123"><p><a href="https://policies.google.com/privacy?hl=en" target="_blank">Privacy</a><br>
+<a href="https://adssettings.google.com/authenticated?hl=en" target="_blank">Opt Out</a></p>
+</td>
+                                </tr>
+
+                        <tr class="mod_table_row_odd">
+                                    <td width="149"><p>Google AdWords Conversion</p>
+</td>
+                                <td width="224"><p>Advertising</p>
+</td>
+                                <td width="142"><p>Google Inc.</p>
+</td>
+                                <td width="123"><p><a href="https://policies.google.com/privacy?hl=en" target="_blank">Privacy</a><br>
+<a href="https://adssettings.google.com/authenticated?hl=en" target="_blank">Opt Out</a></p>
+</td>
+                                </tr>
+
+                        <tr class="mod_table_row_even">
+                                    <td width="149"><p>Google Analytics</p>
+</td>
+                                <td width="224"><p>Web Analytics</p>
+</td>
+                                <td width="142"><p>Google Inc.</p>
+</td>
+                                <td width="123"><p><a href="https://support.google.com/analytics/answer/6004245?hl=en" target="_blank">Privacy</a><br>
+<a href="https://tools.google.com/dlpage/gaoptout?hl=en" target="_blank">Opt Out</a></p>
+</td>
+                                </tr>
+
+                        <tr class="mod_table_row_odd">
+                                    <td width="149"><p>Google Maps</p>
+</td>
+                                <td width="224"><p>Branch Locator</p>
+</td>
+                                <td width="142"><p>Google Inc.</p>
+</td>
+                                <td width="123"><p><a href="https://policies.google.com/privacy?hl=en" target="_blank">Privacy</a></p>
+</td>
+                                </tr>
+
+                        <tr class="mod_table_row_even">
+                                    <td width="149"><p>Turbine</p>
+</td>
+                                <td width="224"><p>Advertising</p>
+</td>
+                                <td width="142"><p>Xaxis LLC.</p>
+</td>
+                                <td width="123"><p><a href="https://www.xaxis.com/privacy-policy/" target="_blank">Privacy</a><br>
+<a href="https://www.xaxis.com/opt-out/" target="_blank">Opt Out</a></p>
+</td>
+                                </tr>
+
+                        </tbody>
+                            </table>
+            </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+
+        <div class="component_standard mod_table_wrapper">
+            <div class="component_standard_content">
+            <h2 class="mod_table_title"><p>Social Media Plugins</p></h2>
+            <div class="mod_table">
+                <table aria-describedby="mod_table_description" class="mod_table_matrix " data-require="C36_-_table">
+                    <tbody>
+                            <tr class="mod_table_row_odd">
+                                    <th width="33%" class="mod_table_matrix_column_header_dark"><p><b>Platform</b></p>
+</th>
+                                <th width="33%" class="mod_table_matrix_column_header_dark"><p><b>Provider</b></p>
+</th>
+                                <th width="33%" class="mod_table_matrix_column_header_dark"><p><b>&nbsp;</b></p>
+</th>
+                                </tr>
+
+                        <tr class="mod_table_row_even">
+                                    <td width="149"><p>Facebook</p>
+</td>
+                                <td width="369"><p>Facebook Inc.</p>
+</td>
+                                <td width="123"><p><a href="http://www.facebook.com/policy.php" target="_blank">Privacy</a></p>
+</td>
+                                </tr>
+
+                        <tr class="mod_table_row_odd">
+                                    <td width="149"><p>LinkedIn</p>
+</td>
+                                <td width="369"><p>Microsoft Corp.</p>
+</td>
+                                <td width="123"><p><a href="https://www.linkedin.com/legal/privacy-policy" target="_blank">Privacy</a></p>
+</td>
+                                </tr>
+
+                        <tr class="mod_table_row_even">
+                                    <td width="149"><p>Snapchat</p>
+</td>
+                                <td width="369"><p>Snap Inc.</p>
+</td>
+                                <td width="123"><p><a href="https://www.snap.com/en-US/privacy/privacy-policy/" target="_blank">Privacy</a></p>
+</td>
+                                </tr>
+
+                        <tr class="mod_table_row_odd">
+                                    <td width="149"><p>Twitter</p>
+</td>
+                                <td width="369"><p>Twitter Inc.</p>
+</td>
+                                <td width="123"><p><a href="https://twitter.com/en/privacy" target="_blank">Privacy</a></p>
+</td>
+                                </tr>
+
+                        </tbody>
+                            </table>
+            </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+
+        
+<div class="component_standard">
+            <div class="component_standard_content">
+                </div>
+        </div>
+    </div></main>
+		<footer class="layout_footer" role="contentinfo">
+	<span class="visuallyhidden">Footer area</span>
+	<div class="mod_footer" data-require="footer">
+		<h2 class="visuallyhidden" id="mod_footer_breadcrumb_label">You are here:</h2>
+    <nav class="mod_footer_breadcrumb" role="navigation">
+        <ol class="mod_footer_breadcrumb_list" aria-labelledby="mod_footer_breadcrumb_label" itemprop="breadcrumb">
+            <li class="mod_footer_breadcrumb_list_item">
+                    <a href="/us/en.html" class="mod_footer_breadcrumb_link">USA</a>
+                        </li>
+                </ol>
+    </nav>
+<div class="mod_footer_columns var_language_and_country_selectors">
+    <section class="footer_column var_country_selector">
+            <select class="footer_country_selector" data-country-selector="">
+            </select>
+            <h2 class="footer_column_title">
+                <a href="/global/en.html">
+                    <span class="visuallyhidden">Change Your Location</span>
+                    USA<span class="visuallyhidden">is the currently selected country site</span>
+                    </a>
+            </h2>
+        </section>
+    <section class="footer_column var_language_selector">
+		<h2 class="footer_column_title var_language_selector">
+			Language</h2>
+		<ul class="mod_language_selector_list">
+			</ul>
+	</section>
+</div><div class="mod_footer_columns">
+                <section class="footer_column">
+    <h2 class="footer_column_title">
+    Contact and Find us</h2>
+<ul class="footer_column_list"><div class="section"></div><div class="iparys_inherited"><li class="footer_column_list_item section"><a class="footer_column_link" href="/sites/office-locator.html?country=us&amp;lang=en">Locations</a>
+		</li>
+<li class="footer_column_list_item section"></li>
+<li class="footer_column_list_item section"><a class="footer_column_link" href="/corporate/en/governance/board-of-directors/escalation-process.html">Escalation Process</a>
+		</li>
+</div>
+</ul>
+        </section><section class="footer_column">
+    <h2 class="footer_column_title">
+    Product &amp; Services</h2>
+<ul class="footer_column_list"><div class="section"></div><div class="iparys_inherited"><li class="footer_column_list_item section"><a class="footer_column_link" href="/us/en/private-banking.html">Private Banking</a>
+		</li>
+<li class="footer_column_list_item section"><a class="footer_column_link" href="/us/en/investment-banking.html">Investment Banking</a>
+		</li>
+<li class="footer_column_list_item section"><a class="footer_column_link" href="/us/en/asset-management.html">Asset Management</a>
+		</li>
+<li class="footer_column_list_item section"></li>
+<li class="footer_column_list_item section"></li>
+</div>
+</ul>
+        </section><section class="footer_column">
+    <h2 class="footer_column_title">
+    Careers</h2>
+<ul class="footer_column_list"><div class="section"></div><div class="iparys_inherited"><li class="footer_column_list_item section"><a class="footer_column_link" href="/careers/en/our-business.html">Our Business</a>
+		</li>
+<li class="footer_column_list_item section"><a class="footer_column_link" href="/careers/en/our-people.html">Our People</a>
+		</li>
+<li class="footer_column_list_item section"><a class="footer_column_link" href="/careers/en/at-work.html">At Work</a>
+		</li>
+<li class="footer_column_list_item section"><a class="footer_column_link" href="/careers/en/career-opportunities.html">Career Opportunities</a>
+		</li>
+<li class="footer_column_list_item section"><a class="footer_column_link" href="/careers/en/search-and-apply.html">Search &amp; Apply</a>
+		</li>
+</div>
+</ul>
+        </section><section class="footer_column">
+    <h2 class="footer_column_title">
+    Corporate</h2>
+<ul class="footer_column_list"><div class="section"></div><div class="iparys_inherited"><li class="footer_column_list_item section"><a class="footer_column_link" href="/corporate/en/about-us.html">About Us</a>
+		</li>
+<li class="footer_column_list_item section"><a class="footer_column_link" href="/corporate/en/our-company.html">Our Company</a>
+		</li>
+<li class="footer_column_list_item section"><a class="footer_column_link" href="/corporate/en/media.html">Media</a>
+		</li>
+<li class="footer_column_list_item section"><a class="footer_column_link" href="/corporate/en/investor-relations.html">Investor Relations</a>
+		</li>
+<li class="footer_column_list_item section"><a class="footer_column_link" href="/corporate/en/governance.html">Governance</a>
+		</li>
+<li class="footer_column_list_item section"><a class="footer_column_link" href="/corporate/en/responsibility.html">Responsibility</a>
+		</li>
+<li class="footer_column_list_item section"><a class="footer_column_link" href="/corporate/en/sponsorship.html">Sponsorship</a>
+		</li>
+<li class="footer_column_list_item section"><a class="footer_column_link" href="/corporate/en/research.html">Research</a>
+		</li>
+</div>
+</ul>
+        </section></div>
+        <h2 class="visuallyhidden">Social Media Links</h2>
+<ul class="mod_footer_social_media">
+	<li class="list_item">
+			<a href="https://www.twitter.com/creditsuisse/" class="link_social_media icon_twitter tms" target="_blank" data-tms-category="follow" data-tms-label="twitter">
+				<span class="visuallyhidden">Twitter</span>
+			</a>
+		</li>
+	<li class="list_item">
+			<a href="https://www.facebook.com/creditsuisse/" class="link_social_media icon_facebook tms" target="_blank" data-tms-category="follow" data-tms-label="facebook">
+				<span class="visuallyhidden">Facebook</span>
+			</a>
+		</li>
+	<li class="list_item">
+			<a href="https://www.youtube.com/creditsuissevideos/" class="link_social_media icon_youtube tms" target="_blank" data-tms-category="follow" data-tms-label="youtube">
+				<span class="visuallyhidden">YouTube</span>
+			</a>
+		</li>
+	<li class="list_item">
+			<a href="https://www.linkedin.com/company/credit-suisse/" class="link_social_media icon_linkedin tms" target="_blank" data-tms-category="follow" data-tms-label="linkedin">
+				<span class="visuallyhidden">LinkedIn</span>
+			</a>
+		</li>
+	<li class="list_item">
+			<a href="https://www.google.com/+creditsuisse" class="link_social_media icon_google_plus tms" target="_blank" data-tms-category="follow" data-tms-label="googleplus">
+				<span class="visuallyhidden">Google+</span>
+			</a>
+		</li>
+	<li class="list_item">
+			<a href="https://www.flickr.com/photos/creditsuisse/" class="link_social_media icon_flickr tms" target="_blank" data-tms-category="follow" data-tms-label="flickr">
+				<span class="visuallyhidden">Flickr</span>
+			</a>
+		</li>
+	<li class="list_item">
+			<a href="https://www.slideshare.com/creditsuisse" class="link_social_media icon_slideshare tms" target="_blank" data-tms-category="follow" data-tms-label="slideshare">
+				<span class="visuallyhidden">Slideshare</span>
+			</a>
+		</li>
+	</ul><a href="/us/en.html" rel="home" class="mod_logo_footer icon_logo_footer">
+				<span class="visuallyhidden">Credit Suisse Logo, leads back to the home page</span>
+		 </a>
+
+		<p class="copyright_statement">Copyright © 1997 - 2018 CREDIT SUISSE GROUP AG and/or its affiliates. All rights reserved.</p>
+		
+        <h2 class="visuallyhidden">Utility Links</h2>
+        <div class="mod_footer_utility_links">
+            <ul class="list_utility_links">
+                    <li class="list_item">
+                                <a href="/us/en/legal/terms-of-use-and-disclosure-notice.html" class="link_utility_links">Terms of Use</a>
+                            </li>
+                        <li class="list_item">
+                                <a href="/us/en/legal/internet-security.html" class="link_utility_links">Internet Security</a>
+                            </li>
+                        <li class="list_item">
+                                <a href="/us/en/legal/privacy-and-cookie-policy.html" class="link_utility_links">Privacy &amp; Cookie Policy</a>
+                            </li>
+                        <li class="list_item">
+                                <a href="/us/en/legal/global-patriot-act.html" class="link_utility_links">Global Patriot Act Certificate</a>
+                            </li>
+                        <li class="list_item">
+                                <a href="/corporate/en/responsibility/banking/accessibility.html" class="link_utility_links">Accessibility</a>
+                            </li>
+                        </ul>
+            </div>
+	</div>
+</footer></div>
+	
+	<div class="mod_scroll_to_top is_top" data-require="scroll_to_top">
+		<div class="mod_scroll_to_top_btn_container">
+			<a href="#" class="mod_scroll_to_top_btn" data-scroll-to-top="">
+				<span class="visuallyhidden">Back to top</span>
+			</a>
+		</div>
+	</div>
+	<div data-require="country_check_notification" class="country_check_notification_modal">
+    <div class="country_check_notification_box">
+        <div class="country_check_notification_logo" itemtype="http://schema.org/Organization" itemscope="">
+            <img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxNi4wLjQsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+DQo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB3aWR0aD0iMTg2cHgiIGhlaWdodD0iNDJweCIgdmlld0JveD0iMCAwIDE4NiA0MiIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMTg2IDQyIiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxnPg0KCTxwYXRoIGZpbGw9IiMwMDM2NjIiIGQ9Ik04Mi4zLDI1LjZINzAuMXYyLjhsMC40LDBsMCwwYzAuMS0wLjQsMC44LTEuMiwxLjctMS4yYzAsMCwyLjYsMCwyLjcsMGMwLDAuMSwwLDE0LjMsMCwxNC4zaDIuNw0KCQljMCwwLDAtMTQuMiwwLTE0LjNjMC4xLDAsMi44LDAsMi44LDBjMC45LDAsMS41LDAuNSwxLjYsMWwwLDAuMWwwLjQsMEw4Mi4zLDI1LjZMODIuMywyNS42TDgyLjMsMjUuNnoiLz4NCgk8cGF0aCBmaWxsPSIjMDAzNjYyIiBkPSJNMi44LDI0LjdDMi44LDI0LjcsMi44LDI0LjcsMi44LDI0LjdDMi44LDI0LjcsMi44LDI0LjcsMi44LDI0LjdDMSwyNi41LDAsMjkuMSwwLDMxLjYNCgkJYzAsMi45LDEuMiw1LjUsMy4yLDcuM2MyLDEuOCw0LjcsMi44LDcuNSwyLjhjMS41LDAsNC40LTAuMyw3LjMtMmwwLjEtMC4xbDAuMy00bC0wLjUtMC4xbC0wLjEsMC4yYy0yLjEsNC4zLTUuMyw0LjMtNi42LDQuMw0KCQljLTUuNSwwLTgtNC42LTgtOC44YzAtNC4xLDIuNS04LjMsOC04LjNjMS43LDAsNC44LDAuNiw2LjQsNC4zbDAuMSwwLjJsMC41LTAuMkwxOCwyMy4xbC0wLjEtMC4xYy0yLjYtMS4xLTQuNy0xLjYtNi44LTEuNg0KCQlDNy43LDIxLjUsNC44LDIyLjYsMi44LDI0Ljd6Ii8+DQoJPHBhdGggZmlsbD0iIzAwMzY2MiIgZD0iTTIxLjEsMjUuNkwyMS4xLDI1LjZMMjEsMjZsMCwwYzAuMiwwLjEsMC41LDAuNywwLjUsMS40bDAsMTRoMi42YzAsMCwwLTcuMSwwLTcuMmMwLjEsMCwxLjEsMCwxLjEsMA0KCQljMSwwLjEsMS40LDAuNywyLDEuNmMwLDAsMC4xLDAuMSwwLjEsMC4xbDAuMywwLjZjMC42LDAuOSwxLjMsMi4yLDIuMSwzLjRjMC42LDAuOSwxLjMsMS4zLDIuMiwxLjVjMC42LDAuMSwxLjksMC4xLDIuNC0wLjENCgkJYzAsMCwwLjYtMC4xLDAuNi0wLjFsMC4yLTAuMWwtMC44LTAuMmMtMC4zLTAuMS0wLjgtMC4zLTEuNS0xLjFjLTAuNC0wLjUtMS4xLTEuNi0yLjEtMy4yYzAsMC0xLTEuNi0xLTEuNmMwLDAsMCwwLDAsMA0KCQljLTAuMy0wLjQtMC43LTEtMS41LTEuNWMxLjUtMC41LDIuOS0xLjgsMi45LTMuOGMwLTAuNi0wLjEtMS43LTEuMS0yLjZjLTEtMC45LTIuNS0xLjQtNC42LTEuNEwyMS4xLDI1LjZMMjEuMSwyNS42eiBNMjUuNiwyNy4xDQoJCWMyLjcsMC4xLDIuOCwyLjQsMi44LDIuN2MwLDIuMy0xLjcsMy4xLTMuMSwzLjFjMCwwLTAuOSwwLTEuMSwwYzAtMC4xLDAtNS42LDAtNS43QzI0LjUsMjcuMSwyNSwyNywyNS42LDI3LjF6Ii8+DQoJPHBhdGggZmlsbD0iIzAwMzY2MiIgZD0iTTQ4LDI1LjZMNDgsMjUuNmwwLDAuNGwwLDBjMC4yLDAuMSwwLjQsMC43LDAuNCwxLjJsMCwxNC4yaDQuNWMzLDAsNS40LTAuOSw3LjEtMi43DQoJCWMxLjQtMS41LDIuMi0zLjQsMi4yLTUuNWMwLTEuMi0wLjQtMy4xLTEuNi00LjZjLTEuNi0yLTQtMy4xLTcuMy0zLjFMNDgsMjUuNkw0OCwyNS42eiBNNTEuMSwyNy4yYzAuMSwwLDEuNCwwLDEuNCwwDQoJCWMwLjQsMCwxLjMsMCwyLDAuMWM0LjQsMC43LDQuOSw0LjQsNC45LDZjMCwxLjMtMC4yLDMuMS0xLjMsNC42QzU3LDM5LjMsNTUuMyw0MCw1Myw0MGMtMC41LDAtMS4yLDAtMS45LDANCgkJQzUxLjEsMzkuOCw1MS4xLDI3LjMsNTEuMSwyNy4yeiIvPg0KCTxwYXRoIGZpbGw9IiMwMDM2NjIiIGQ9Ik02Ny43LDI1LjZoLTMuMWwwLDAuNGwwLDBjMC4zLDAuMSwwLjUsMC43LDAuNSwxLjNsMCwxNC4xaDIuNkw2Ny43LDI1LjZMNjcuNywyNS42TDY3LjcsMjUuNnoiLz4NCgk8cGF0aCBmaWxsPSIjMDAzNjYyIiBkPSJNMTIwLjcsMjUuNmgtMy4xbDAsMC40bDAsMGMwLjMsMC4xLDAuNSwwLjcsMC41LDEuM3YxNC4xaDIuNkwxMjAuNywyNS42TDEyMC43LDI1LjZMMTIwLjcsMjUuNnoiLz4NCgk8cGF0aCBmaWxsPSIjMDAzNjYyIiBkPSJNNDQuNiwyNS42aC04LjhsMC4xLDAuNGwwLDBjMC4yLDAuMSwwLjUsMC43LDAuNSwxLjRsMCwxNGg4LjhsMC42LTIuOGwtMC40LTAuMWwtMC4xLDAuMg0KCQljLTAuNywxLjEtMS41LDEuMy00LDEuM2MtMC45LDAtMS44LTAuMS0yLjQtMC4xYzAtMC4xLDAtNi4zLDAtNi40YzAuMSwwLDQuNSwwLDQuNSwwVjMyYzAsMC00LjMsMC00LjUsMGMwLTAuMSwwLTQuOCwwLTQuOQ0KCQljMC4xLDAsMy42LDAsMy42LDBjMC44LDAsMS43LDAuOCwxLjgsMS4zbDAsMC4xbDAuNCwwTDQ0LjYsMjUuNkw0NC42LDI1LjZMNDQuNiwyNS42eiIvPg0KCTxwYXRoIGZpbGw9IiMwMDM2NjIiIGQ9Ik0xNTcuNCwyNS42aC04LjhsMCwwLjRsMCwwYzAuMiwwLjEsMC41LDAuNiwwLjUsMS40bDAsMTRoOC44bDAuNi0yLjhsLTAuNC0wLjFsLTAuMSwwLjINCgkJYy0wLjcsMS4xLTEuNSwxLjMtNCwxLjNjLTAuOSwwLTEuOC0wLjEtMi40LTAuMWMwLTAuMSwwLTYuMywwLTYuNGMwLjEsMCw0LjUsMCw0LjUsMFYzMmMwLDAtNC4zLDAtNC41LDBjMC0wLjEsMC00LjgsMC00LjkNCgkJYzAuMSwwLDMuNiwwLDMuNiwwYzEsMCwxLjcsMC44LDEuNywxLjN2MC4xbDAuNCwwTDE1Ny40LDI1LjZMMTU3LjQsMjUuNkwxNTcuNCwyNS42eiIvPg0KCTxwYXRoIGZpbGw9IiMwMDM2NjIiIGQ9Ik05MCwyMi43Yy0wLjksMC43LTIsMS45LTIuMSw0YzAsMCwwLDAsMCwwLjFjMCwyLjUsMS42LDMuOSw0LjIsNS4yYzAsMCwwLDAsMCwwYzAuMSwwLjEsMC4zLDAuMiwxLDAuNQ0KCQljMi4yLDEuMSwzLjcsMS45LDMuNyw0LjFjMCwwLjgtMC4zLDEuOS0xLjEsMi43Yy0wLjcsMC43LTEuNiwxLTIuNywxYy0zLjMsMC00LjUtMi45LTQuOC00LjJsLTAuMS0wLjJsLTAuNiwwLjFsMC4yLDQuMUw4OCw0MA0KCQljMS4xLDAuNiwyLjgsMS42LDUuNCwxLjdjMS44LDAsMy42LTAuNyw0LjktMmMxLjEtMS4xLDEuNy0yLjUsMS43LTRjMC0zLjMtMi40LTQuNi00LjktNS45bC0wLjUtMC4zYy0yLjYtMS4zLTMuOC0yLjEtMy44LTMuNw0KCQljMC0xLjEsMC45LTIuOSwzLjEtMi45YzIuNiwwLDQsMiw0LjMsMy4ybDAuMSwwLjJsMC42LTAuMWwtMC4yLTMuNmwtMC4xLTAuMWMtMS41LTEtMy40LTEuMi00LjItMS4yQzkyLjYsMjEuNCw5MS4xLDIxLjksOTAsMjIuN3oNCgkJIi8+DQoJPHBhdGggZmlsbD0iIzAwMzY2MiIgZD0iTTEyNSwyOS42TDEyNSwyOS42YzAsMi4yLDEuMywzLjMsMy40LDQuNGMwLDAsMC44LDAuNCwwLjgsMC40YzEuNywwLjgsMi44LDEuNCwyLjgsM2MwLDAuMy0wLjEsMS4yLTAuOCwyDQoJCWMtMC41LDAuNS0xLjIsMC44LTIuMSwwLjdjLTIuNSwwLTMuNC0yLTMuOC0zLjFsLTAuMS0wLjJsLTAuNSwwLjFsMC4xLDMuM2wwLjEsMC4xYzAuOCwwLjUsMi4yLDEuMyw0LjMsMS4zYzEuNCwwLDIuOS0wLjYsMy45LTEuNg0KCQljMC45LTAuOSwxLjMtMiwxLjMtMy4yYzAtMi44LTEuOS0zLjgtMy45LTQuOGMwLDAtMC40LTAuMi0wLjQtMC4yYy0yLjItMS4xLTIuOS0xLjYtMi45LTIuOGMwLTAuOSwwLjYtMi4xLDIuNC0yLjENCgkJYzIuMSwwLDMsMS42LDMuMiwyLjRsMC4xLDAuMmwwLjUtMC4xbC0wLjItMi45bC0wLjEtMC4xYy0xLjItMC44LTIuNy0wLjktMy4zLTAuOUMxMjcuNSwyNS41LDEyNSwyNi45LDEyNSwyOS42eiIvPg0KCTxwYXRoIGZpbGw9IiMwMDM2NjIiIGQ9Ik0xMzYuOCwyOS42YzAsMi4yLDEuMywzLjMsMy40LDQuNGwwLjgsMC40YzEuNywwLjgsMi44LDEuNCwyLjgsM2MwLDAuMy0wLjEsMS4yLTAuOCwyDQoJCWMtMC41LDAuNS0xLjIsMC44LTIuMSwwLjdjLTIuNSwwLTMuNC0yLTMuOC0zLjFsLTAuMS0wLjJsLTAuNSwwLjFsMC4xLDMuM2wwLjEsMC4xYzAuOCwwLjUsMi4yLDEuMyw0LjMsMS4zYzEuNCwwLDIuOS0wLjYsMy45LTEuNg0KCQljMC45LTAuOSwxLjMtMiwxLjMtMy4yYzAtMi44LTEuOS0zLjgtMy45LTQuOGMwLDAtMC40LTAuMi0wLjQtMC4yYy0yLjItMS4xLTIuOS0xLjYtMi45LTIuOGMwLTAuNSwwLjItMS4xLDAuNi0xLjUNCgkJYzAuNC0wLjQsMS0wLjYsMS43LTAuNmMyLjEsMCwzLDEuNiwzLjIsMi40bDAuMSwwLjJsMC41LTAuMWwtMC4yLTIuOWwtMC4xLTAuMWMtMS4yLTAuOC0yLjctMC45LTMuMy0wLjkNCgkJQzEzOS40LDI1LjUsMTM2LjgsMjYuOSwxMzYuOCwyOS42eiIvPg0KCTxwYXRoIGZpbGw9IiMwMDM2NjIiIGQ9Ik0xMTQuMiwyNS42bC0yLjEsMGwwLDAuNGwwLDBjMC4xLDAuMSwwLjQsMC4zLDAuNCwxLjNsMCw5YzAsMS43LTAuNiwzLjgtMy43LDMuOGMtMi45LDAtMy41LTEuNy0zLjUtNC4zDQoJCWwwLTEwLjJoLTMuM2wwLDAuNGwwLDBjMC4yLDAuMSwwLjYsMC41LDAuNiwxLjR2OC40YzAsNS4yLDMuNCw1LjgsNiw1LjhjMS4zLDAsNS40LTAuNCw1LjQtNS4zTDExNC4yLDI1LjZMMTE0LjIsMjUuNnoiLz4NCgk8Zz4NCgkJPHBhdGggZmlsbD0iIzAwMzY2MiIgZD0iTTE4MC4xLDIxLjFjMS45LDAuNiwzLjgsMS40LDUuOSwyLjZjLTUuMS04LjQtMTQuMS0xNy41LTIzLTIzLjRjMi4zLDIuMyw2LDcuMyw3LDEyLjYNCgkJCUMxNzMuNiwxNS41LDE3NywxOC4zLDE4MC4xLDIxLjF6Ii8+DQoJCTxwYXRoIGZpbGw9IiMwMDM2NjIiIGQ9Ik0xODAuMSwyMS4xYy00LjQtMS40LTguMS0xLjUtMTAuOC0xLjJjMS0yLjMsMS4xLTQuNywwLjctN2MtNi43LTQuOC0xNC4yLTktMjEuMy0xMi4xDQoJCQljNS4yLDMuNSwxMSwxMy44LDEzLjQsMjQuOGM1LjItMS41LDEzLjEtMi42LDIzLjQsMC45QzE4My44LDI0LjcsMTgyLDIyLjksMTgwLjEsMjEuMXoiLz4NCgkJPHBhdGggZmlsbD0ibm9uZSIgZD0iTTE2OS45LDEyLjljMC40LDIuMywwLjMsNC43LTAuNiw3YzIuOC0wLjMsNi41LTAuMiwxMC44LDEuMkMxNzcsMTguMywxNzMuNiwxNS41LDE2OS45LDEyLjl6Ii8+DQoJPC9nPg0KPC9nPg0KPC9zdmc+DQo=" alt="Logo Credit Suisse" role="img" width="186" height="42" itemprop="logo" class="mod_logo_image">
+            <!--[if lte IE 8]>
+            <img src="https://cdnext.credit-suisse.com/assets/media/img_logo_credit_suisse.png"" alt="Logo Credit Suisse" role="img" width="186" height="41" itemprop="logo" class="mod_logo_image_old_ie">
+            <![endif]-->
+            <span class="visuallyhidden">revamp14.Back_x0020_to_x0020_the_x0020_home_x0020_page</span>
+        </div>
+
+        <div class="country_check_notification_text">
+            <p>You are about to change the origin country from where you are visiting Credit-suisse.com.</p>
+
+            <p>Visit your regional site for more relevant services, products and events.</p>
+
+        </div>
+
+
+        <p><a class="country_check_notification_follow_link" href="https://www.credit-suisse.com/ch/de.html">Continue to the site you have selected</a></p>
+        <p><a class="country_check_notification_regional" href="https://www.credit-suisse.com">Remain on your origin country* site</a></p>
+        <p class="country_check_notification_bottom_notice">*The country of origin is defined in your browser settings and may not be identical with your citizenship and/or your domicile.</p>
+    </div>
+</div>
+
+<script type="text/javascript" src="https://cdnext.credit-suisse.com/etc/designs/revamp14-templating/clientlibs/main/prod.1535442578401.js"></script><script type="text/javascript">
+        if (typeof _satellite !== "undefined") { _satellite.pageBottom(); }
+    </script>
 
 </body></html>
