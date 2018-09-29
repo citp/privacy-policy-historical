@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fm-teens.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527074041id_/http%3A//fm-teens.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fm-teens.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929050617id_/http%3A//fm-teens.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
