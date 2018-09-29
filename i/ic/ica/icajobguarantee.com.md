@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icajobguarantee.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625231446id_/http%3A//www.icajobguarantee.com/TermCondition/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icajobguarantee.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929143247id_/http%3A//www.icajobguarantee.com/TermCondition/PrivacyPolicy) for the most accurate reproduction.*
 
 # PrivacyPolicy- ICA Job Guarantee
 
