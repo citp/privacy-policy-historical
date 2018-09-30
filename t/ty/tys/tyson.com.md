@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tyson.com privacy policy that was archived on 2018-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180120055938id_/https%3A//www.tyson.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tyson.com privacy policy that was archived on 2018-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180930181809id_/https%3A//www.tyson.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tyson® Brand
 
@@ -23,7 +23,7 @@ _For example, we might collect:_
 **We may collect information in different ways.**
 
   * **Directly**. For example, if you sign up for our emails or apply for a job online.  We also collect information if you contact us online or enter a contest. We may also collect information by providing you with surveys to complete.
-  * **Passively**. We use tracking tools like browser cookies and web beacons to collect information from you. We collect information about users over time when you use this site. We also collect this information from our apps. We may have third parties collect personal information this way. Learn more about these tools and how you can control them, [here](http://www.tyson.com/about-our-ads).
+  * **Passively**. We use tracking tools like browser cookies and web beacons to collect information from you. We collect information about users over time when you use this site. We also collect this information from our apps. We may have third parties collect personal information this way. Learn more about these tools and how you can control them, [here](https://www.tyson.com/about-our-ads).
   * **Through third parties**. For example, our business partners may give us information about you. Social media platforms may also give us information about you.
   * **By combining information**. For example, we may combine information that we have collected offline with information we collect online. Or we may combine information we get from a third party with information we already have.
 
@@ -56,7 +56,7 @@ _For example, we might collect:_
 **You have certain choices about how we use your information**
 
   * **You can opt out of receiving our marketing emails**. To stop receiving our promotional emails, follow the instructions in any promotional message you get from us. Even if you opt out of getting our marketing messages, we will still send you transactional messages. These include responses to your questions.
-  * **You can control certain cookies and tracking tools**. To learn how to manage how we – and our vendors – use cookies and other tracking tools, and to read our Do Not Track policy, please click [here](http://www.tyson.com/about-our-ads).
+  * **You can control certain cookies and tracking tools**. To learn how to manage how we – and our vendors – use cookies and other tracking tools, and to read our Do Not Track policy, please click [here](https://www.tyson.com/about-our-ads).
   * **You can control tools on your mobile device**. For example, you can turn off the GPS locator or push notifications on your phone. 
 
 
