@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everycircuit.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615093324id_/http%3A//everycircuit.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everycircuit.com privacy policy that was archived on 2018-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180930155345id_/http%3A//everycircuit.com/privacypolicy) for the most accurate reproduction.*
 
 # EveryCircuit
 
