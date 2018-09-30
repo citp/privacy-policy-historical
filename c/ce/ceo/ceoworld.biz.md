@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ceoworld.biz privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628005714id_/http%3A//ceoworld.biz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceoworld.biz privacy policy that was archived on 2018-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180930133835id_/http%3A//ceoworld.biz/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CEOWORLD magazine
 
@@ -6,7 +6,7 @@ This User Agreement and Privacy Policy governs each website, mobile site, applic
 
 At [CEOWORLD magazine](http://ceoworld.biz/), we very much appreciate your readership and understand the importance of your personal privacy. This policy is available to help you understand the handling of information while you’re on the site.
 
-**Use of Personal Information**
+ **Use of Personal Information**
 
 Registration is not required in order to use this site. However, this site may provide comments, polls, submission forms, etc. to its users. You may be required to register for these features. If you do register, and in the process provide us with personally identifiable information, no information will be shared with any third-party organization except with your express consent. If you post comments or articles on the site, any personally identifiable information you provide in those comments or articles will be public. As such, we are not responsible for personally identifiable information that you may choose to share through these channels.
 
@@ -14,18 +14,18 @@ We also provide visitors the opportunity to sign up to receive communications fr
 
 If you provide us with personally identifiable information for the purposes of receiving these communications, this information will not be shared with any third-party organization except with your express consent. If your personally identifiable information changes, or if you no longer wish us to possess your information, you can request correction, updating, or deletion of your information by emailing us at info@ceoworld.biz
 
-**Outside Links**
+ **Outside Links**
 
 This website may contain links to other websites that are not controlled by us. We are not responsible for the privacy practices and policies of any website other than our own.
 
-**Security**
+ **Security**
 
 We follow accepted industry standards to protect personal information you have provided. However, no method of electronic storage can ever be 100% secure. Therefore we are not in a position to guarantee the absolute security of your information.
 
-**Legal Disclaimer**
+ **Legal Disclaimer**
 
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process served on our website.
 
-**Contact Details**
+ **Contact Details**
 
 If you have any questions regarding this policy, please email info@ceoworld.biz
