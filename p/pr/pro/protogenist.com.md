@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the protogenist.com privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008211445id_/http%3A//www.protogenist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protogenist.com privacy policy that was archived on 2018-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180930183323id_/http%3A//www.protogenist.com/privacy) for the most accurate reproduction.*
 
 # Protogenist Info Systems Private Limited | Privacy Statement |Software Consulting | Enterprise Application Development | Integrated Business Solutions | Technology touches Excellence
 
