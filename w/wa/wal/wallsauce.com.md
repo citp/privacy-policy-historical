@@ -1,87 +1,199 @@
-> *The following text is extracted and transformed from the wallsauce.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606231730id_/https%3A//www.wallsauce.com/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallsauce.com privacy policy that was archived on 2018-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180930114201id_/https%3A//www.wallsauce.com/information/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Wallsauce
+# Privacy Policy | Wallsauce UK
 
-Omega Sky Limited ("We") are committed to protecting and respecting your privacy.
+Omega Sky Limited, trading as Wallsauce.com ("We") is registered in England and Wales (registration number 08243582). We are committed to protecting and respecting the privacy rights of all our visitors and customers.
 
-This policy (together with our [Website Terms of Use](https://web.archive.org/information/terms-of-website-use) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our [Website Terms of Use](https://web.archive.org/us/information/terms-of-website-use) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us in line with GDPR.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
  **Information We May Collect From You**
 
-We may collect and process the following data about you:
+When you use our website, purchase our products and correspond with us we may collect some or all of the following personal data about you:
 
-  * Information that you provide by filling in forms on our site www.wallsauce.com (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with our site.
-  * If you contact us, we may keep a record of that correspondence.
-  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
-  * Details of transactions you carry out through our site and of the fulfilment of your orders.
-  * Details of your visits to our site [including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise] and the resources that you access.
+  * your name, billing and delivery address, postcode, email address and contact phone numbers
+  * your images as submitted to our website
+  * details of your correspondence with Omega Sky Ltd (trading as Wallsauce.com) via website forms, email or online chat.
+  * any preferences you have given about receiving information from Wallsauce.com
+  * information about your use of the wallsauce.com website including location, browser, browsing data when using our site and other communication data.
 
 
 
- **IP Addresses**
+We may also collect personal data from third parties that you have given your consent to, to pass details about you to us, for example in the billing/payment part of our process. In some instances you may supply us information about a third party such as a name, address and contact email address or phone number so that we may deliver the products you are purchasing to this person. We will not use the information you supply in this way for anything other than in providing the services for which you have supplied these details.
 
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
+In some cases we may supply your surname to third party artists and gallery collection so that we may accurately report to them on the purchases made of our products using their artwork/images. It is a condition of your use of this website and the purchase of wallsauce.com products that you agree to this disclosure of your data in this way.
+
+ **IP Address**
+
+We may collect anonymous information about your computer, including where available your IP address, operating system and browser type, for system administration and analysis by third party analysis tools such as Google Analytics. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
+
+ **How we make use of your personal information?**
+
+We collect, store, process and use your personal data for a variety of reasons. We also pass some of your personal data to our affiliated companies or suppliers working with us for legitimate business purposes. When you purchase from us, create an account or wishlist we may need to process certain data that allows us to:
+
+  * To provide Wallsauce products and services to you
+  * To associate your account, wishlist and purchases with you and in some cases to verify your identity
+  * To be able to process orders you make from payments made by you
+  * To provide details of your order and delivery contact details to third party suppliers engaged by us
+  * To improve your overall customer experience when using us
+  * To provide relevant customer support during your dealings with us
+  * To contact you by telephone and/or email in relation to the products and services we are discussing with you or that you have purchased from us.
+
+
+
+ **Email Preferences**
+
+If you have opted in to our email notifications, we will send you information about new products and services, offers and other news that we think may interest you, by email from time to time. You can opt out of receiving these emails at any time using the ‘unsubscribe’ feature on each email or by informing us directly via our [contact form](https://web.archive.org/customer-service/contact-us/).
+
+If you do not want to receive communications from wallsauce.com about products and services that may be of interest to you, simply indicate this preference.
+
+Even if you choose not to receive further marketing communications from us, we may still communicate with you using any of these methods regarding any enquiries or orders that you have made with us.
+
+ **Deactivation of Your Account**
+
+You may also request deactivation of your Wallsauce account by contacting Customer Services or by writing to the address below and requesting account deactivation. Please note that some information may remain in our archived records after your account has been deactivated.
+
+ **Wallsauce.com address for written requests**
+
+If you choose to indicate your preferences by mail, please be sure to include your exact name, mailing address, telephone number and specific preferences and send your written requests to the following address.
+
+Wallsauce.com
+
+Omega Sky Ltd
+
+3 Manor Court
+
+Salesbury Hall Road
+
+Ribchester
+
+Lancashire
+
+PR3 3XR
+
+United Kingdom
+
+ **Disclosure of your personal information**
+
+We will not disclose any of your personal data to any third party, other than to an affiliated company/supplier or data processor (including delivery couriers and payment service providers). We share data with the following organisations to enable us to provide an effective service to you:
+
+  * Manufacturers and product suppliers
+  * Delivery/shipping companies
+  * Information software service providers
+  * Payment processing companies
+  * Marketing services and advertising companies
+
+
 
  **Cookies**
 
-Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our Cookie policy.
+This section is designed to help you understand what cookies are, how we use them and the choices you have in regards to their use.
 
- **Where We Store Your Personal Data**
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. By visiting or using this site with your browser set to allow cookies, you are consenting to our use of cookies for the purposes set out below.
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things,  the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+To make full use of the Wallsauce.com website and to benefit from certain customisation features, your computer, tablet or mobile phone will need to be set up to accept cookies. Many features of the Wallsauce.com website will not work when cookies are blocked.
 
-[All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted [using SSL technology].] Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
+By continuing to use [www.wallsauce.com](https://web.archive.org/) website, you are agreeing to our use of cookies as described below.
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+ **What are cookies?**
 
- **Uses Made of the Information**
+Cookies are small text files that are stored on your browser or the hard drive of your computer or other device when you visit the website. This allows our website to recognise you as a user either for the duration of your visit (using a ‘session cookie’) or for repeat visits (a ‘persistent cookie’). They are not harmful and do not contain any information such as your home address, date of birth or credit card details.
 
-We use information held about you in the following ways:
+Due to the nature of the customisation process on the wallsauce.com website, some cookies play a very important role in the process of providing the service we do.
 
-  * To ensure that content from our site is presented in the most effective manner for you and for your computer.
-  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
-  * To carry out our obligations arising from any contracts entered into between you and us.
-  * To allow you to participate in interactive features of our service, when you choose to do so.
-  * To notify you about changes to our service.
+Below are details of the different types of cookies that we use;
+
+ **Strictly Necessary Cookies**
+
+These cookies are essential in helping you to move around our website and use its features, such as the customisation process. Without these cookies, services you have asked for cannot be provided. These cookies do not gather information about you that could be used for marketing purposes or passed on to third parties.
+
+ **Analytical/Performance Cookies**
+
+In order to keep the website, its services and products relevant, easy to use and up-to-date, we use web analytics services to help us understand how people use our website. Google Analytics and Hotjar, use cookies to collect data that helps us understand how people are using the site and monitor any errors that users may be experiencing. We use this information to identify how and where we can improve the user experience. The data collected through these cookies is anonymous, these 3rd parties do not collect specific customer data and it is never shared with other third parties.
+
+ **Functionality Cookies  **
+
+These cookies allow websites and applications to remember choices you make and provide enhanced, more personal features. The information these cookies collect is usually anonymous which means we can't identify you personally, login you in, remember your dimensions, and more. These cookies do not gather any information about you that could be used for selling advertising or remembering where you've been on the internet, but they help us to serve you more effectively.
+
+ **Targeted Marketing Cookies**
+
+We also use cookies to assist in targeted advertising to display banner advertising on other selected websites. These cookies also help us to monitor and improve the effectiveness of our banner advertising and to refine the targeting of these campaigns so that we are displaying the most relevant content. The data collected through these cookies is anonymous, these 3rd parties do not collect specific customer data and it is never shared with other third parties.
+
+ **Can I turn off cookies?**
+
+Yes – but if you choose not to allow the use of cookies, your experience of our website will be very limited and many integral aspects of the website, including (but not limited to) customising your wall mural, adding items to your basket and accessing your wishlist saved items, will not work.
+
+For information on how to disable cookies, please consult the "Help" tab of your browser via the menu bar.
+
+ **Third Party Cookies**
+
+Wallsauce.com allows a selection of Third Parties to place cookies when you visit our site. These cookies enable us to monitor our website use and provide targeted marketing campaigns.
+
+ For details of the Third Party cookies we use please see the table below. Wallsauce.com is not responsible for the content or privacy policies of Third Parties or other websites, and we advise that you check these yourself. 
+
+The following Cookies are all used for site monitoring, analytical and targeting purposes.
+
+  * Google Analytics – Analytics & Performance
+  * Google Tag Manager - Analytics & Performance
+  * Google Adwords – Marketing
+  * Bing Ads - Marketing
+  * Hotjar - Analytics & Performance
+  * AdRoll – Marketing
+  * Klevu – Functionality
+  * Facebook – Marketing
+  * Pinterest – Marketing
+  * Criteo - Marketing
 
 
 
-We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by [post or telephone].
+ **Opting Out**
 
-If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
+If you do not want your data used by Google Analytics you can choose to install the Google Analytics opt-out browser add-on. To do this, you can visit the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout) and install the add-on for your browser. Website visitors can also opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads)
 
-If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.
+ **Further information on cookies**
 
-If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the order form).
+We continue to work on a number of other privacy and cookie-related improvements to our website. If you would like to learn more about cookies and how to manage them you can visit the following websites for more information - [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
 
-[We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.]
+ **Data transfers to International countries**
 
- **Disclosure of Your Information**
+Some of the personal data you provide to us may be transferred outside of the European Economic Area (EEA) to other companies such as shipping companies or data processors.
 
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+ **Data Retention**
 
-We may disclose your personal information to third parties:
+We carefully consider the personal data that we store, and we will not keep your information in a form that identifies you for longer than is necessary for the purposes of legitimately operating our business or as required by applicable law. In some instances, we are required to hold data for minimum periods: for example, UK tax law currently specifies a six-year period for retention of some of your personal data. Where appropriate we will may delete some personal data such as uploaded images to our website in a much shorter timescale.
 
-  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * If Omega Sky Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Website Terms of Use](https://web.archive.org/information/terms-of-website-use)  or [Terms and Conditions](https://web.archive.org/customer-service/terms-conditions) of supply and other agreements; or to protect the rights, property, or safety of Omega Sky Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+ **Payment Information**
+
+Please note that no credit or debit card payment details are stored by us (Omega Sky Ltd trading as Wallsauce.com) at any point. Website payments to Wallsauce.com are made via either PayPal or Checkout.com, neither of whom send on any card details to us. The only details passed to us include billing and delivery address plus any email or contact information provided. The storing payment service provider will be required to comply with the Payment Card Industry Data Security Standard (PCI DSS).
+
+ **Your rights**
+
+Under the EU General Data Protection Regulation 2016/679 (GDPR) you have a number of rights you can exercise over your data. Your rights are:
+
+  * The right to receive a copy of your data free of charge (know as a Subject Access Request);
+  * The right to receive certain data in an electronic format that can be given to another provider (a portability request);
+  * The right to have data corrected if it is inaccurate;
+  * The right to ask us to stop processing or object to processing under certain circumstances;
+  * The right to ask us to erase data in certain circumstances;
+  * The right to withdraw consent at any time when that is the legal basis for our processing.
 
 
 
- **Your Rights**
+To discuss any of these rights, please contact our Customer Services.
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at info@wallsauce.com.
+Additionally, you have the right to lodge a complaint with the Data Protection regulator. In our case, this is the Information Commissioner's’ Office in the UK. Details of how to contact them can be found at ICO.org.uk.
 
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
+ **Links to third party sites**
 
- **Access to Information**
+Our Site may, from time to time, contain links to other third party websites. If you follow a link to any of these third party websites, please note that these websites have their own privacy policies. We do not accept any responsibility or liability for those websites or their privacy policies.
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+ **Deceptive emails**
 
- **Changes to Our Privacy Policy**
+Omega Sky Ltd (trading as Wallsauce.com) will never ask you to confirm the details of your account or card payment details by email. If you receive such contact, please do not respond to it.
 
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+ **Updates to this notice**
 
- **Contact**
+This Privacy Notice was last updated on 25th May 2018.
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to **** info@wallsauce.com or if you are sending by post to Wallsauce.com, Omega Sky Limited, 8 Manor Court, Ribchester, Lancashire, PR3 3XR.
+ **Contact us**
+
+If you would like to contact us about any aspect of this Privacy Policy please [click here](https://web.archive.org/customer-service/contact-us/)
