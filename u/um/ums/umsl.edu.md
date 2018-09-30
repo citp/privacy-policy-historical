@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the umsl.edu privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523165115id_/https%3A//www.umsl.edu/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umsl.edu privacy policy that was archived on 2018-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180930195203id_/https%3A//www.umsl.edu/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,10 @@ UMSL intends to protect the security of personal information collected through i
 **6) Limitation of Liability**  
 The UMSL website may include hyperlinks to websites maintained or controlled by parties unaffiliated with UMSL. Links to these websites are provided as a convenience only, and UMSL is not responsible for and does not routinely approve, review or endorse the contents or use of any of the products or services that may be offered at those websites.
 
-**7) For More Information**  
+**7) European Union General Data Protection Regulation**  
+UMSL and the University of Missouri System provides information on GDPR requirements and university processes at <https://www.umsystem.edu/ums/is/infosec/gdpr>.
+
+**8) For More Information**  
 For further information about this document or to correct or modify any information collected through our website, please contact:
 
 University of Missouri-St. Louis  
