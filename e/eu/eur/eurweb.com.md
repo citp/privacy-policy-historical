@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurweb.com privacy policy that was archived on 2018-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180124133353id_/https%3A//www.eurweb.com/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurweb.com privacy policy that was archived on 2018-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180930055955id_/https%3A//www.eurweb.com/our-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | EURweb
 
@@ -58,7 +58,7 @@ Children 18 and under are not eligible to use EURweb.com services without partic
 
 **How you can contact us about privacy questions**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact support@eurweb.com or reach out to us via the info below.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact [[email protected]](https://www.eurweb.com/cdn-cgi/l/email-protection) or reach out to us via the info below.
 
 Rabercom Enterprises  
 PO Box 412081  
