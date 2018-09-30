@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jbhunt.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608184928id_/http%3A//www.jbhunt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jbhunt.com privacy policy that was archived on 2018-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180930063309id_/https%3A//www.jbhunt.com/privacy) for the most accurate reproduction.*
 
 # Become a Freight Carrier and Find Loads with J.B. Hunt | J.B. Hunt Transport
 
