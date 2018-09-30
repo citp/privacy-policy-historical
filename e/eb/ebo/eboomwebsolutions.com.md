@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eboomwebsolutions.com privacy policy that was archived on 2018-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180115053144id_/http%3A//eboomwebsolutions.com/privact.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eboomwebsolutions.com privacy policy that was archived on 2018-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180930115951id_/http%3A//www.eboomwebsolutions.com/privact.php) for the most accurate reproduction.*
 
 # Web Design Company Vancouver BC Canada
 
