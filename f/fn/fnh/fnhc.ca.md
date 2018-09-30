@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fnhc.ca privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529150720id_/http%3A//fnhc.ca/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fnhc.ca privacy policy that was archived on 2018-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180930074319id_/http%3A//fnhc.ca/privacy-statement) for the most accurate reproduction.*
 
 # First Nations Health Council | Privacy Statement - First Nations Health Council
 
