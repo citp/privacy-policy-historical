@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingforward.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617051239id_/http%3A//www.weddingforward.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingforward.com privacy policy that was archived on 2018-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180930081125id_/https%3A//www.weddingforward.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wedding Forward
 
@@ -6,9 +6,9 @@ If you require any more information or have any questions about our privacy poli
 
 At www.weddingforward.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.weddingforward.com and how it is used.
 
-## This policy is incorporated to the Service's iOS App Terms of Service and Extend App Terms of Service.
+## This policy is incorporated to the Service’s iOS App Terms of Service and Extend App Terms of Service.
 
-WEDDINGFORWARD.COM complies with the U.S. - Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from Canada. WEDDINGFORWARD.COM has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. 
+WEDDINGFORWARD.COM complies with the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from Canada. WEDDINGFORWARD.COM has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
 
 ## What personally identifiable information do you have to provide WEDDINGFORWARD.COM?
 
@@ -16,15 +16,15 @@ When you register for any Services or contact us, you may be asked to provide WE
 
 When you use our Services, we automatically collect information on the type of device you use, operating system version, mobile carrier and device identifier. We collect this information for the purpose of optimizing your use of our applications.
 
-Please bear in mind that false, incorrect, or outdated information may prevent you from registering or impair WEDDINGFORWARD.COM's ability to provide you with the Services and to contact you.
+Please bear in mind that false, incorrect, or outdated information may prevent you from registering or impair WEDDINGFORWARD.COM’s ability to provide you with the Services and to contact you.
 
 ## What Internet traffic does WEDDINGFORWARD.COM collect?
 
-To benefit from the Services and depending on the products you use, your access to the Internet through your mobile phone may be routed through WEDDINGFORWARD.COM's servers, which strive to reduce the volume of your downloads, and potentially your uploads as well. We may also collect information regarding your usage of applications and the consumption of data by such applications in order to provide you with detailed information with respect to the data consumption of applications that you use, and recommendations how to decrease such consumption.
+To benefit from the Services and depending on the products you use, your access to the Internet through your mobile phone may be routed through WEDDINGFORWARD.COM’s servers, which strive to reduce the volume of your downloads, and potentially your uploads as well. We may also collect information regarding your usage of applications and the consumption of data by such applications in order to provide you with detailed information with respect to the data consumption of applications that you use, and recommendations how to decrease such consumption.
 
 When you use the Services and depending on the product you use, WEDDINGFORWARD.COM may collect information, such as session durations, page impressions, details of your mobile operator, Internet protocol (IP) addresses, the domain name that served you to access the Services, and content types and origins.
 
-WEDDINGFORWARD.COM may also store information related to online data or metadata that is routed through WEDDINGFORWARD.COM's servers, such as webpages' addresses, structures, data fields, and images. However, WEDDINGFORWARD.COM will not store any content that you upload or download, such as message text, filled-in forms, and data that a website retrieved.
+WEDDINGFORWARD.COM may also store information related to online data or metadata that is routed through WEDDINGFORWARD.COM’s servers, such as webpages’ addresses, structures, data fields, and images. However, WEDDINGFORWARD.COM will not store any content that you upload or download, such as message text, filled-in forms, and data that a website retrieved.
 
 The stored data will be attributed to you in person, only to the extent necessary to provide you the Services, as set in the following chapter. Thereafter, WEDDINGFORWARD.COM will anonymize the data and will not knowingly use the data to personally identify you.
 
@@ -32,7 +32,7 @@ Further information may be collected when you and WEDDINGFORWARD.COM exchange co
 
 ## Does WEDDINGFORWARD.COM collect location based information?
 
-WEDDINGFORWARD.COM does not actively collect any personal information that is based on your geographical location, except for the country/city that you reside in when accessing the Services (if applicable), including when the Services are not activated, for example to detect that you are abroad and offer you to activate the Services. However, certain location based information may be stored on WEDDINGFORWARD.COM's servers, for example if you use the Services to access geographic based services. WEDDINGFORWARD.COM will use such information subject to this policy and will anonymize such data as soon as it is no longer necessary for providing you the Services. We also collect your geo-location information for the purpose of monetizing your phone usage for roaming users. If you no longer wish to allow us to use this information you may turn this off at the device level or deactivate your account. Please note that if you turn off this feature some parts of our service may not work.
+WEDDINGFORWARD.COM does not actively collect any personal information that is based on your geographical location, except for the country/city that you reside in when accessing the Services (if applicable), including when the Services are not activated, for example to detect that you are abroad and offer you to activate the Services. However, certain location based information may be stored on WEDDINGFORWARD.COM’s servers, for example if you use the Services to access geographic based services. WEDDINGFORWARD.COM will use such information subject to this policy and will anonymize such data as soon as it is no longer necessary for providing you the Services. We also collect your geo-location information for the purpose of monetizing your phone usage for roaming users. If you no longer wish to allow us to use this information you may turn this off at the device level or deactivate your account. Please note that if you turn off this feature some parts of our service may not work.
 
 ## What does WEDDINGFORWARD.COM do with your personally identifiable information?
 
@@ -60,7 +60,7 @@ To take any action in any case of dispute, or legal proceeding of any kind betwe
 
 We send you push notifications to your mobile device in order to send you updates about the application, content, products, application usage and other important details about your use of the application. If you no longer wish to receive these types of communications you may opt-out at the device level.
 
-## Important notice about children's privacy
+## Important notice about children’s privacy
 
 The Services are not intended for use by persons under the age of 13. If you are not 13 years old or older, then you may not use any of the Services and must not provide any of your personal details. We do not knowingly collect personal information from users under the age of 13.
 
@@ -70,7 +70,7 @@ WEDDINGFORWARD.COM does not sell, rent or lease your personally identifiable inf
 
 To operate the Services, including to store and process your information through a third party hosting services;
 
-To contact you. For example, WEDDINGFORWARD.COM may use a third party's mailing platform to send you messages and updates from time to time;
+To contact you. For example, WEDDINGFORWARD.COM may use a third party’s mailing platform to send you messages and updates from time to time;
 
 If WEDDINGFORWARD.COM believes that you have breached the Master Subscription Agreement, or abused your rights to use the Services, or performed any act or omission that WEDDINGFORWARD.COM believes to be violating any applicable law, rules, or regulations. WEDDINGFORWARD.COM may share your information with law enforcement agencies and other competent authorities as well as with other third parties, as may be required;
 
@@ -88,7 +88,7 @@ WEDDINGFORWARD.COM may also share personally identifiable information with compa
 
 WEDDINGFORWARD.COM may also use anonymous, statistical or aggregated information to properly operate the Services, to improve the quality and functionality of the Services, to enhance your experience, to create new services, including customized services, to change or cancel existing content or services and for other internal and statistical purposes.
 
-WEDDINGFORWARD.COM may share, sell, publish, post, disseminate, transmit or otherwise communicate or make available such information, to suppliers, business partners, sponsors, affiliates and any other third party, at WEDDINGFORWARD.COM's sole discretion, provided however, that WEDDINGFORWARD.COM will not knowingly, or intentionally use the information to reveal your identity without your consent.
+WEDDINGFORWARD.COM may share, sell, publish, post, disseminate, transmit or otherwise communicate or make available such information, to suppliers, business partners, sponsors, affiliates and any other third party, at WEDDINGFORWARD.COM’s sole discretion, provided however, that WEDDINGFORWARD.COM will not knowingly, or intentionally use the information to reveal your identity without your consent.
 
 ## How can you access your personal information?
 
@@ -98,9 +98,9 @@ We will retain your information (including geo-location data) for as long as any
 
 ## What opt-out and deletion options are available to you?
 
-At any time you may opt out of WEDDINGFORWARD.COM's services, by sending WEDDINGFORWARD.COM a removal request to: support@weddingforward.com. It may take up to Thirty (30) business days for your opt-out request to take effect.
+At any time you may opt out of WEDDINGFORWARD.COM’s services, by sending WEDDINGFORWARD.COM a removal request to: support@weddingforward.com. It may take up to Thirty (30) business days for your opt-out request to take effect.
 
-If you wish to delete your personally identifiable information that is stored in WEDDINGFORWARD.COM's database, you may send a request to delete information to: support@weddingforward.com. WEDDINGFORWARD.COM will inform you whether it can accept your request. WEDDINGFORWARD.COM may refuse your request, for example, if WEDDINGFORWARD.COM believes that removal of certain information may jeopardize certain activities of the Services, or harm other users. In any case, WEDDINGFORWARD.COM may keep any aggregated or anonymized information for statistical, marketing and other purposes, indefinitely.
+If you wish to delete your personally identifiable information that is stored in WEDDINGFORWARD.COM’s database, you may send a request to delete information to: support@weddingforward.com. WEDDINGFORWARD.COM will inform you whether it can accept your request. WEDDINGFORWARD.COM may refuse your request, for example, if WEDDINGFORWARD.COM believes that removal of certain information may jeopardize certain activities of the Services, or harm other users. In any case, WEDDINGFORWARD.COM may keep any aggregated or anonymized information for statistical, marketing and other purposes, indefinitely.
 
 ## How does WEDDINGFORWARD.COM secure your personal Information?
 
@@ -112,7 +112,7 @@ When we collect sensitive information (such as geo-location data) within our mob
 
 ## How does WEDDINGFORWARD.COM use cookies?
 
-WEDDINGFORWARD.COM may use cookies when operating the Services. Cookies are packets of information sent by WEDDINGFORWARD.COM's servers to your web browser and then sent back by the browser. WEDDINGFORWARD.COM may use cookies for various purposes, for example, to save you the need to re-enter your password each time you log-in to the Services, to facilitate the use of the Services, to collect information for statistical and analytical purposes, to verify information, to customize the Services to your personal preferences and for information security purposes. We do not link the information we store in cookies to any personal information you submit while on our site.
+WEDDINGFORWARD.COM may use cookies when operating the Services. Cookies are packets of information sent by WEDDINGFORWARD.COM’s servers to your web browser and then sent back by the browser. WEDDINGFORWARD.COM may use cookies for various purposes, for example, to save you the need to re-enter your password each time you log-in to the Services, to facilitate the use of the Services, to collect information for statistical and analytical purposes, to verify information, to customize the Services to your personal preferences and for information security purposes. We do not link the information we store in cookies to any personal information you submit while on our site.
 
 Some of the cookies may expire when the session ends and you exit your browser. Other cookies may be stored on your computer’s hard drive. If you wish to block the cookies, then please use the help button in your browser and follow the necessary instructions. However, bear in mind that disabling cookies may complicate or even prevent your use of the Services, or certain features thereof.
 
@@ -128,7 +128,7 @@ We use mobile analytics software to allow us to better understand the functional
 
 ## Where is my personal information processed?
 
-WEDDINGFORWARD.COM stores and processes the information through a third party's hosting services. If you are in the European Economic Area, or in any other jurisdiction that regulates the transfer of personal information outside that jurisdiction, then you hereby grant WEDDINGFORWARD.COM your explicit and unambiguous consent to transfer your personal information, for the purposes described in this policy.
+WEDDINGFORWARD.COM stores and processes the information through a third party’s hosting services. If you are in the European Economic Area, or in any other jurisdiction that regulates the transfer of personal information outside that jurisdiction, then you hereby grant WEDDINGFORWARD.COM your explicit and unambiguous consent to transfer your personal information, for the purposes described in this policy.
 
 ## Links to Third Party sites or apps
 
@@ -154,11 +154,11 @@ WEDDINGFORWARD.COM may update this privacy statement to reflect changes to our i
 
 .:: Google, as a third party vendor, uses cookies to serve ads on www.weddingforward.com.
 
-.:: Google's use of the DART cookie enables it to serve ads to users based on their visit to www.weddingforward.com and other sites on the Internet.
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.weddingforward.com and other sites on the Internet.
 
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
 
 Google Adsense
 
@@ -172,8 +172,8 @@ These third-party ad servers or ad networks use technology to the advertisements
 
 www.weddingforward.com has no access to or control over these cookies that are used by third-party advertisers.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.weddingforward.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.weddingforward.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
 **Last Updated: March 4, 2016**
