@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetretailingexpo.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520185113id_/http%3A//internetretailingexpo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetretailingexpo.com privacy policy that was archived on 2018-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180930145555id_/http%3A//internetretailingexpo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - IRX 2018 - The UK's largest multichannel retail event - The UK's largest multichannel retail event
 
