@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decorpad.com privacy policy that was archived on 2017-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170316074504id_/https%3A//www.decorpad.com/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decorpad.com privacy policy that was archived on 2018-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180930021427id_/https%3A//www.decorpad.com/privacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
