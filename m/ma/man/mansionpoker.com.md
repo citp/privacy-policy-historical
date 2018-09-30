@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the mansionpoker.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530044002id_/http%3A//www.mansionpoker.com/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mansionpoker.com privacy policy that was archived on 2018-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180930081937id_/http%3A//www.mansionpoker.com/security-and-privacy) for the most accurate reproduction.*
 
 # Online Poker - Security & Privacy | Play Poker Online at MansionPoker.com – Online Poker
 
 ####  Legal Quick Links
 
-  * [Terms and Conditions](https://web.archive.org/web/20180530044002id_/http%3A//www.mansionpoker.com/terms-and-conditions)
-  * [Privacy Policy](https://web.archive.org/web/20180530044002id_/http%3A//www.mansionpoker.com/security-and-privacy)
-  * [Withdrawal Policy](https://web.archive.org/web/20180530044002id_/http%3A//www.mansionpoker.com/withdrawal-policy)
-  * [Disclaimer](https://web.archive.org/web/20180530044002id_/http%3A//www.mansionpoker.com/disclaimer)
+  * [Terms and Conditions](https://web.archive.org/web/20180930081937id_/http%3A//www.mansionpoker.com/terms-and-conditions)
+  * [Privacy Policy](https://web.archive.org/web/20180930081937id_/http%3A//www.mansionpoker.com/security-and-privacy)
+  * [Withdrawal Policy](https://web.archive.org/web/20180930081937id_/http%3A//www.mansionpoker.com/withdrawal-policy)
+  * [Disclaimer](https://web.archive.org/web/20180930081937id_/http%3A//www.mansionpoker.com/disclaimer)
 
 
 
