@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whichbudget.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531172907id_/http%3A//www.whichbudget.com/blog/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whichbudget.com privacy policy that was archived on 2018-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180930090830id_/http%3A//www.whichbudget.com/blog/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
