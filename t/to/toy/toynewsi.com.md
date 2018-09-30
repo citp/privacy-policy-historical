@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the toynewsi.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603020728id_/https%3A//enewsi.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toynewsi.com privacy policy that was archived on 2018-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180930021624id_/https%3A//enewsi.com/privacy.php) for the most accurate reproduction.*
 
-# ENewsi.com - Pop Culture Entertainment Iron Man, Batman, Star Trek, Transformers, Twilight, Harry Potter and more<%endif%>
-
-## Entertainment News International Privacy Policy
+# Pop Culture Entertainment Marvel, Star Wars, Transformers, Iron Man, Batman, Star Trek, Twilight, Harry Potter and more
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used by Entertainment News International (ENI) websites. 
 
