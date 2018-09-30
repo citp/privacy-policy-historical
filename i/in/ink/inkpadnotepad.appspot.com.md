@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inkpadnotepad.appspot.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530085914id_/http%3A//inkpadnotepad.appspot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inkpadnotepad.appspot.com privacy policy that was archived on 2018-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180930114823id_/http%3A//inkpadnotepad.appspot.com/privacy) for the most accurate reproduction.*
 
 # None
 
