@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the funorb.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626102314id_/http%3A//www.jagex.com/privacy/privacy.ws) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funorb.com privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001010203id_/http%3A//www.jagex.com/privacy/privacy.ws) for the most accurate reproduction.*
 
 # Privacy Policy - Jagex
 
-Version 0.1
+Version 0.2
 
-Date May 25th, 2018.
+Date July 24th, 2018.
 
 ## **INTRODUCTION**
 
 Jagex respects your privacy and is committed to protecting your personal data. This privacy policy will inform you as to how we look after your personal data when you visit our website (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you.
+
+The General Data Protection Regulation (EU) 2016/679 (“GDPR”) is a regulation in EU law on data protection and privacy for all individuals within the European Union (EU) and the European Economic Area (EEA). It also addresses the export of personal data outside the EU and EEA areas. The GDPR aims primarily to give control to citizens and residents over their personal data and to simplify the regulatory environment for international business by unifying the regulation within the EU.
 
 **1\. IMPORTANT INFORMATION AND WHO WE ARE**
 
@@ -34,7 +36,7 @@ Full name of legal entity: Jagex Limited
 
 Name of external DPO: Robert Healey
 
-Email address: robert.healey@relentless-privacy-compliance.co.uk
+Email address: DPO@jagex.com
 
 Postal address: Suite 511, The Greenhouse, The Custard Factory, Gibb Street, Birmingham, B9 4AA.
 
@@ -332,6 +334,38 @@ To make suggestions and recommendations to you about goods or services that may 
 | 
 
 Necessary for our legitimate interests (to develop our products/services and grow our business)  
+  
+To ask you to take part in research to improve our game platform
+
+| 
+
+(a) Identity
+
+(b) Contact
+
+(c) Transaction
+
+(d) Technical
+
+(e) Profile
+
+(f) Usage
+
+| 
+
+Necessary for our legitimate interests (to develop our products/services and grow our business)  
+  
+To process your job application to work with us
+
+| 
+
+(a) Identity
+
+(b) Contact
+
+| 
+
+Performance of a contract with you  
   
 **MARKETING**
 
