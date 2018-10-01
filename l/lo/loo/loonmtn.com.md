@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the loonmtn.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622012246id_/http%3A//loonmtn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loonmtn.com privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001182635id_/https%3A//www.loonmtn.com/privacy-policy) for the most accurate reproduction.*
 
-# Boyne Resorts Privacy Policy
-
-## BOYNE Resorts Privacy Statement and Disclosures
+# Privacy Policy | Loon Mountain Resort, NH | Loon Mountain
 
 **Information Collection & Use **  
 Boyne Resorts collects personally identifiable information from a variety of sources including:
@@ -31,12 +29,6 @@ Boyne Resorts owns and operates the following properties and all data collected
   * Country Club of Boyne, Harbor Springs, Michigan
   * Big Sky Resort, Big Sky, Montana
   * Brighton Ski Resort, Brighton, Utah
-  * Crystal Mountain, Crystal Mountain, Washington
-
-
-
-In addition, Boyne Resorts leases the following properties and collects data through normal operations:
-
   * Loon Mountain Resort, New Hamsphire
   * Gatlinburg Sky Lift, Gatlinburg, Tennessee
   * Cypress Mountain, Vancouver, British Columbia, Canada
@@ -67,7 +59,7 @@ Boyne Resorts is also the sole owner of the following website domain names and a
   * [www.BoyneCountrySports.com](http://www.boynecountrysports.com/)
   * [www.RideBoyne.com](http://www.rideboyne.com/)
   * [www.BoyneRewards.com](http://www.boynerewards.com/)
-  * [www.SolaceSpas.com](http://www.solacespas.com/)
+  * [www.SolaceSpas.com](https://www.boynemountain.com/spa)
   * [www.NorthernMichiganGetaways.com](http://www.northernmichigangetaways.com/)
   * [www.GatlinburgSkyLift.com](http://www.gatlinburgskylift.com/)
 
@@ -101,17 +93,11 @@ Web site [www.BigSkyResort.com](http://www.bigskyresort.com/)
 
 To be removed from a direct mail database associated with our western operations and properties, please submit your request in writing to or contact:
 
-Crystal Mountain  
-33914 Crystal Mountain Blvd.  
-Crystal Mountain, Washington  
-98022  
-Web site [www.SkiCrystal.com](http://www.skicrystal.com/%20target=)
-
 Brighton Resort  
 12601 E. Big Cottonwood Canyon  
 Brighton, Utah  
 84121  
-Web site [www.SkiBrighton.com](http://www.skibrighton.com/)
+Web site [www.SkiBrighton.com](http://www.brightonresort.com/)
 
 Cypress Mountain  
 P.O. Box 91252  
@@ -183,7 +169,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 **Choice/Opt-out**
 
-If you no longer wish to receive our e-newsletter and promotional communications, you may opt-out of receiving them by following the instructions (update profile/unsubscribe link) included at the bottom of each e-newsletter or email communication. We offer an opportunity to opt-out of certain communications on our profile page [www.LoonMtn.com/eNewsPreference](http://loonmtn.com/enews-preference-center), or you may contact us at [privacy@loonmtn.com](mailto:privacy@loonmtn.com) or by mail (See the "Contact Us" section) to opt-out.
+If you no longer wish to receive our e-newsletter and promotional communications, you may opt-out of receiving them by following the instructions (update profile/unsubscribe link) included at the bottom of each e-newsletter or email communication. We offer an opportunity to opt-out of certain communications on our profile page [eNews Preference](https://web.archive.org/join-enews), or you may contact us at [privacy@loonmtn.com](mailto:privacy@loonmtn.com) or by mail (See the "Contact Us" section) to opt-out.
 
 Through the use the profile page mentioned above, individuals would also be able to update their personally identifiable information they have on record with Boyne USA Resorts.
 
@@ -207,7 +193,7 @@ The Help portion of the toolbar on most browsers will tell you how to prevent yo
 
 **Tracking Tags**
 
-We use tracking tags such as pixels or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partners including DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and tracking tag technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to <http://www.doubleclick.net/us/corporate/privacy>.
+We use tracking tags such as pixels or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partners including DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and tracking tag technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. 
 
 **Links to Other Sites**
 
@@ -219,7 +205,7 @@ This privacy statement applies only to information collected by Boyne Resorts we
 
 **Access to Personally Identifiable Information**
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our profile update page at [www.Boyne.com/Profile](http://www.boyne.com/Profile) or by contacting us by postal mail at the contact information listed below.
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our profile update page at [www.Boyne.com](http://www.boyne.com/) or by contacting us by postal mail at the contact information listed below.
 
 **Security**
 
