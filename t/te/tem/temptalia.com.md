@@ -1,32 +1,187 @@
-> *The following text is extracted and transformed from the temptalia.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117051633id_/https%3A//www.temptalia.com/temptaliacom-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the temptalia.com privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001121613id_/https%3A//www.temptalia.com/privacy-policy) for the most accurate reproduction.*
 
-# Temptalia.com Privacy Policy
+# Privacy Policy
 
-## **Privacy Policy  
-**
+_Last updated May 21, 2018_
 
-### Overview
+Temptalia, operated by Temptalia, LLC (“we” or “us” or “our”) respects the privacy of our users (“user” or “you”). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website https://www.temptalia.com/ including any other media form, media channel, mobile website, or mobile application related or connected thereto (collectively, the “Site”). Please read this Privacy Policy carefully.
 
-The privacy of our visitors to Temptalia LLC is important to us.  At Temptalia LLC, we recognize that privacy of your personally identifiable information is important. Our policy is intended to protect your privacy and keep sensitive information safeguarded while providing you with information about how and what data we collect and how it may be used.  Our Privacy Policy covers only data collected through www.temptalia.com and not any third-parties, affiliates, or sites, without limitation, and recommend that users regularly review the privacy policies of any websites they visit.
+IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE SITE.
 
-### Collection of Information
+We reserve the right to make changes to this Privacy Policy at any time and for any reason. We will alert you about any changes by updating the “Revised” date of this Privacy Policy. Any changes or modifications will be effective immediately upon posting the updated Privacy Policy on the Site, and you waive the right to receive specific notice of each such change or modification. You are encouraged to periodically review this Privacy Policy to stay informed of updates. You will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted the changes in any revised Privacy Policy by your continued use of the Site after the date such revised Privacy Policy is posted.
 
-**Personally Identifiable Information**.  We collect personally identifiable information (also known as PII), like names, postal addresses, email addresses, and any other information required to fulfill an obligation to the user when voluntarily submitted by a user.  For example, mailing information is required to award giveaway prizes to winners, but this information is never used or sold for any additional purpose beyond fulfilling the prize or to respond to e-mails sent voluntarily by users such as feedback, questions, and technical support.  Personally identifiable information is used solely to address your specific request and is not sold to third parties or market researchers.  We never sell your personally identifiable information (PII) to third parties.
+### COLLECTION OF YOUR INFORMATION
 
-(a) Distribution of Personally Identifiable Information.  We may be required by law to share personally identifiable information with government agencies, law enforcement, or parties to civil or criminal lawsuits. To reveal collected user information, we require a validly issued subpoena, warrant, or court under that specifically requests the information sought (it should not be overly broad or vague) unless we have a good faith belief there is an emergency involving death or serious physical injury. All requests should comply with Rule 45 of the Federal Rules of Civil Procedure and the US SPEECH Act, 28 U.S.C. 4101 et seq. 
+We may collect information about you in a variety of ways. The information we may collect on the Site includes:
 
-(b) Commitment to Data Security.  Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. When signing up for our newsletter, we require double opt-in, and all mailing lists from this site allow you to opt out of further mailings.
+**Personal Data**
 
-(c) Children.  We do not knowingly collect Personal Information from children under the age of 13. If we become aware that we have inadvertently received Personal Information from a child under the age of 13, we will delete such information from our records.
+Personally identifiable information, such as your name, address, email address, and telephone number, and demographic information, such as your age, gender, hometown, and interests, that you voluntarily give to us when you choose to participate in various activities related to the Site, such as newsletter subscriptions, downloads, and website comments. You are under no obligation to provide us with personal information of any kind, however your refusal to do so may prevent you from using certain features of the Site.
 
-**Non-Personally Identifiable Information.  **We collect non-personally identifiable information through such devices as third-party and in-house analytics, cookies, log files, and similar technologies, which may include, but is not limited to, your IP (internet protocol) address, your ISP (internet service provider), the Web browser you used to visit the Site, the time you visited the Site, which Web pages you visited on the Site, and other anonymous Site usage data, and so forth.  To the extent permitted by applicable law, we reserve the right to combine the various types of data that is collected.
+**Derivative Data**
 
-(a) Cookies and Web Beacons.  We use cookies to store information, such as your personal preferences when you visit our site. A cookie is a small piece of data that is stored on a personal device, and this can include personal preferences such as login information, disabling aspects of the website like pop-up newsletters, to serve advertisements tailored to user’s preferences, and so forth. We also use third party advertisements and sell advertising directly in-house that may leverage non-personally identifiable information and/or cookies, like allowing a Canadian advertiser to only reach our Canadian users. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, what device you’re using, what sites you may have visited previously, or what page you were just browsing. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or for online behavioral advertising in order to show certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+Information our servers may automatically collect when you access the Site, such as your IP address, your browser type, your operating system, your access times, and the pages you have viewed directly before and after accessing the Site.
 
-(b) Disabling Cookies.  You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as browser add-ins, plug-ins, anti-virus software and suits, and so forth.  Disabling cookies may affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts or to leverage faster browsing through caching methods. To learn more about this behavioral advertising practice visit the **[NAI](http://www.networkadvertising.org/)**. To opt-out of this type of advertising, you can visit **<http://www.aboutads.info/choices>**.  Please note, if you use multiple devices and/or browsers, you will need to disable cookies across all of them.
+**Data From Contests, Giveaways, and Surveys**
 
-**Effective Date** :  August 15th, 2009, **Last Updated** : February 7th, 2016
+Personal and other information you may provide when entering contests or giveaways and/or responding to surveys.
 
-### **Privacy Contact Information**
+**Data From Creating a User Account**
 
-If you have any questions, concerns, or comments about our privacy policy you may contact us by e-mailing [christine@temptalia.com](mailto:christine@temptalia.com).
+Personal and other information you may provide when creating or updating your user account. You are under no obligation to complete all data fields in your profile; however, for required information if you choose not to submit the data your ability to create, update, or use your User Account may be limited, restricted, or prohibited.
+
+### USE OF YOUR INFORMATION
+
+Having accurate information about you permits us to provide you with a smooth, efficient, and customized experience. Specifically, we may use information collected about you via the Site to:
+
+  * Administer sweepstakes, contests, or other promotions.
+  * Compile anonymous statistical data and analysis for use internally or with third parties.
+  * Deliver targeted advertising, coupons, and other information regarding our website to you.
+  * Allow comments on the Site.
+  * Send you a periodic digital newsletter.
+  * Allow creation and update of a user profile.
+  * Increase the efficiency and operation of the Site.
+  * Monitor and analyze usage and trends to improve your experience with the Site.
+  * Notify you of updates to the Site.
+  * Offer new products, services, and/or recommendations to you.
+  * Perform other business activities as needed.
+  * Request feedback and contact you about your use of the Site.
+  * Resolve disputes and troubleshoot problems.
+
+
+
+### DISCLOSURE OF YOUR INFORMATION
+
+We may share information we have collected about you in certain situations. Your information may be disclosed as follows:
+
+**By Law or to Protect Rights**
+
+If we believe the release of information about you is necessary to respond to legal process, to investigate or remedy potential violations of our policies, or to protect the rights, property, and safety of others, we may share your information as permitted or required by any applicable law, rule, or regulation. This includes exchanging information with other entities for fraud protection and credit risk reduction.
+
+**Third-Party Service Providers**
+
+We may share your information with third parties that perform services for us or on our behalf, including data analysis, email delivery, hosting services, customer service, and marketing assistance.
+
+We currently use:
+
+  * Akismet Anti-Spam for prevention and protection against comment and submission spam on the site, and they may use IP information to flag bad users or prevent spam from infiltrating the greater WordPress network. Please refer to [Automattic’s privacy policy](https://automattic.com/privacy/) for further information.
+  * BigScoots for website hosting and server management. Please refer to [BigScoots’ privacy policy](https://www.bigscoots.com/about-us/privacy-policy) for further information.
+  * _Cloudflare_ for improving website performance and speed and serves many of our pages, images, and other files through the cloud while enhancing website security.  Please refer to [Cloudflare’s privacy policy](https://www.cloudflare.com/security-policy/) for further information.
+  * MailChimp for delivery of email updates and newsletters. The MailChimp service will store your name and email address for purposes of delivering such communications. Please refer to [MailChimp’s privacy policy](https://mailchimp.com/legal/privacy/) for further information.
+  * OptinMonster for facilitating newsletter sign-ups served via modals and lightbox windows.  Please refer to [OptinMonster’s privacy policy](https://optinmonster.com/privacy/) for further information.
+  * SendGrid for sending emails from users to us through contact forms, along with automated emails like comment notifications, user registration and password-related emails, and the like. Please refer to [SendGrid’s privacy policy](https://sendgrid.com/policies/privacy/) for further information.
+
+
+
+**Marketing Communications**
+
+We do not share your personal information with third parties for marketing purposes without your consent.
+
+**Online Postings**
+
+When you post comments, contributions or other content to the Site, your posts may be viewed by all users and may be publicly distributed outside the Site in perpetuity.
+
+**Third-Party Advertisers**
+
+We use third party advertising companies to serve ads when you visit the Site. These companies may use information about your visits to the Site and other websites that are contained in web cookies to provide advertisements about goods and services of interest to you.
+
+  * Curse, Inc. is the current advertising partner for the Site.  Please refer to [Curse’s privacy policy](https://www.twitch.tv/p/legal/privacy-policy/) for further information.
+
+
+
+**Other Third Parties**
+
+We may share your information with advertisers and investors for the purpose of conducting general business analysis. We may also share your information with such third parties for marketing purposes, as permitted by law.
+
+**Sale or Bankruptcy**
+
+If we reorganize or sell all or a portion of our assets, undergo a merger, or are acquired by another entity, we may transfer your information to the successor entity. If we go out of business or enter bankruptcy, your information would be an asset transferred or acquired by a third party. You acknowledge that such transfers may occur and that the transferee may decline to honor commitments we made in this Privacy Policy.
+
+We are not responsible for the actions of third parties with whom you share personal or sensitive data, and we have no authority to manage or control third-party solicitations. If you no longer wish to receive correspondence, emails or other communications from third parties, you are responsible for contacting the third party directly.
+
+### TRACKING TECHNOLOGIES
+
+**Cookies, Web Beacons, and Tracking Pixels**
+
+We use cookies, web beacons, tracking pixels, and other tracking technologies on the Site to help customize the Site and improve your experience. When you access the Site, your personal information is not collected through the use of tracking technology. Most browsers are set to accept cookies by default. You can remove or reject cookies, but be aware that such action could affect the availability and functionality of the Site. You may not decline web beacons; however, they can be rendered ineffective by declining all cookies or by modifying your web browser’s settings to notify you each time a cookie is tendered, permitting you to accept or decline cookies on an individual basis.
+
+Periodically, we may need to include a tracking pixel to monitor the effectiveness of information or materials we share. For example, you may subscribe to our newsletter, which may be used for advertising purposes. Newsletters sent may contain tracking pixels. The pixel is embedded in emails and allows for an analysis of the success of online marketing campaigns. Because of these tracking pixels, we may see if and when you open an email and which links within the email you click. Also, this allows the Site to adapt the content of future newsletters to the interests of the user. We do not share this information with third parties.
+
+**Internet-Based Advertising**
+
+We use third-party software to serve ads on the Site, implement email marketing campaigns, and manage other interactive marketing initiatives. This third-party software may use cookies or similar tracking technology to help manage and optimize your online experience with us. For more information about opting out of internet-based ads, visit the third-party network or review [Digital Advertising Alliance Opt-Out Tool](http://www.aboutads.info/choices/).
+
+**Website Analytics**
+
+We partner with selected third-party vendors, such as Google Analytics, to allow tracking technologies and remarketing services on the Site through the use of first party cookies and third-party cookies, to, among other things, analyze and track users’ use of the Site, determine the popularity of certain content and better understand online activity. By accessing the Site, you consent to the collection and use of your information by these third-party vendors. You are encouraged to review their privacy policy and contact them directly for responses to your questions. We do not transfer personal information to these third-party vendors. However, if you do not want any information to be collected and used by tracking technologies, you can visit the third-party vendor or review [Digital Advertising Alliance Opt-Out Tool](http://www.aboutads.info/choices/).
+
+  * ComScore for website and usage analytics, metrics, tracking, and reporting. Please refer to [ComScore’s privacy policy](https://www.comscore.com/About-comScore/Privacy-Policy) for further information.
+  * _Google Analytics_  for website and usage analytics, metrics, tracking, and reporting. Please refer to [Google Analytic’s privacy policy](https://support.google.com/analytics/answer/6004245?hl=en) for further information.
+  * _Quantcast_  for website and usage analytics, metrics, tracking, and reporting. Please refer to [Quantcast’s privacy policy](https://www.quantcast.com/privacy/) for further information.
+
+
+
+You should be aware that getting a new computer, installing a new browser, upgrading an existing browser, or erasing or otherwise altering your browser’s cookies files may also clear certain opt­out cookies, plug­ins, or settings.
+
+### THIRD-­PARTY WEBSITES
+
+The Site may contain links to third-party websites and applications of interest, including advertisements and external services, that are not affiliated with us. Once you have used these links to leave the Site, any information you provide to these third parties is not covered by this Privacy Policy, and we cannot guarantee the safety and privacy of your information. Before visiting and providing any information to any third-party websites, you should inform yourself of the privacy policies and practices (if any) of the third party responsible for that website, and should take those steps necessary to, in your discretion, protect the privacy of your information. We are not responsible for the content or privacy and security practices and policies of any third parties, including other sites, services or applications that may be linked to or from the Site.
+
+The Site engages in affiliate marketing, which is done by embedding tracking links into the Site. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions.  As part of affiliate marketing, the Site may post customized links to track referrals from links placed on the Site. Affiliate programs utilize cookies to track visits for the purposes of assigning commission on these sales.  There is no fee or cost to the user; the retailer or network pays the commission.
+
+We currently use the following and may add additional third-parties at any time:
+
+  * Affiliatly for tracking sales generated from clicks to retailer(s) on the Site to assign commission from those sales. Please refer to [Affiliatly’s privacy policy](https://www.affiliatly.com/legal-privacy) for further information.
+  * Amazon for tracking sales generated from clicks to retailer(s) on the Site to assign commission from those sales. Please refer to [Amazon Associate’s privacy policy](https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=468496) for further information.
+  * Awin / Share-a-Sale for tracking sales generated from clicks to retailer(s) on the Site to assign commission from those sales. Please refer to [Awin’s privacy policy](https://www.awin.com/gb/legal/privacy-policy) for further information.
+  * Commission Junction (by Conversant) for tracking sales generated from clicks to retailer(s) on the Site to assign commission from those sales. Please refer to [Commission Junction’s privacy policy](https://www.conversantmedia.com/legal/privacy) for further information.
+  * Pepperjam Network for tracking sales generated from clicks to retailer(s) on the Site to assign commission from those sales. Please refer to [Pepperjam Network’s privacy policy](https://www.pepperjam.com/legal) for further information.
+  * Rakuten-LinkShare for tracking sales generated from clicks to retailer(s) on the Site to assign commission from those sales. Please refer to [Rakuten-LinkShare’s privacy policy](https://rakutenmarketing.com/legal-notices/website-privacy-policy) for further information.
+  * RewardStyle for tracking sales generated from clicks to retailer(s) on the Site to assign commission from those sales. Please refer to [rewardStyle’s privacy policy](https://www.rewardstyle.com/privacy) for further information.
+  * VigLink for tracking sales generated from clicks to retailer(s) on the Site to assign commission from those sales.  Please refer to [VigLink’s privacy policy](https://www.viglink.com/legal/privacy/) for further information.
+
+
+
+> Temptalia participates in a variety of affiliate advertising programs. You may view a complete, up-to-date list of our current affiliates [here](https://www.temptalia.com/support-us/).
+
+### SECURITY OF YOUR INFORMATION
+
+We use administrative, technical, and physical security measures to help protect your personal information. While we have taken reasonable steps to secure the personal information you provide to us, please be aware that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against any interception or other type of misuse. Any information disclosed online is vulnerable to interception and misuse by unauthorized parties. Therefore, we cannot guarantee complete security if you provide personal information.
+
+### RIGHTS RELATED TO YOUR PERSONAL INFORMATION
+
+Opt-out – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us through [our contact form](https://www.temptalia.com/contact-us/).
+
+For all other requests, please submit a request through [our contact form](https://www.temptalia.com/contact-us/).
+
+Please note that we may need to retain certain information for recordkeeping purposes or to complete transactions, or when required by law.
+
+### SENSITIVE PERSONAL INFORMATION
+
+At no time should you submit sensitive personal information about yourself or anyone else to the Site. This includes your social security number, information regarding race or ethnic origin, political affiliation or opinions, religious beliefs, health information, criminal background, or other sensitive personal information. If you elect to submit such information to us, it will be subject to this Privacy Policy.
+
+### POLICY FOR CHILDREN
+
+Temptalia is designed for those 18 years of age or older. Visitors under the age of 18 must have permission from their parent or guardian to use certain features of our Site. We do not knowingly collect any personally identifiable information from anyone under the age of 18. We do not knowingly solicit information from or market to children under the age of 13. If you become aware of any data we have collected from children under age 13, please contact us through [our contact form](https://www.temptalia.com/contact-us/).
+
+### CONTROLS FOR DO-NOT-TRACK FEATURES
+
+Most web browsers and some mobile operating systems include a Do-Not-Track (“DNT”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. No uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this Privacy Policy.
+
+### CALIFORNIA PRIVACY RIGHTS
+
+California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.
+
+If you are under 18 years of age, reside in California, and have provided your personal information with the Site, you have the right to request removal of unwanted data that you publicly post on the Site. To request removal of such data, please contact us using the contact information provided below, and include sufficient detail about the public post(s) and a statement that you reside in California. We will make sure the data is not publicly displayed on the Site, but please be aware that the data may not be completely or comprehensively removed from our systems, nor can we guarantee any cached or archived version of the site will remove such data.
+
+### CONTACT US
+
+If you have questions or comments about this Privacy Policy, please contact us through [our contact form](https://www.temptalia.com/contact-us/).
+
+### OTHER DISCLOSURES AND POLICIES
+
+  * [Cookie Policy](https://www.temptalia.com/cookie-policy/)
+  * [Disclosure/Review Policy](https://www.temptalia.com/review-faq/)
+  * [Terms of Use](https://www.temptalia.com/terms-of-use/)
+
+
