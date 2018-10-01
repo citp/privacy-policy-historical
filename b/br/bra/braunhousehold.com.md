@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the braunhousehold.com privacy policy that was archived on 2017-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170122090626id_/http%3A//www.braunhousehold.com/global/terms-conditions/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the braunhousehold.com privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001215947id_/http%3A//www.braunhousehold.com/global/functional/super-footer/customer-support/privacy) for the most accurate reproduction.*
 
 # Privacy Information for Braun Household Global
 
