@@ -1,17 +1,28 @@
-<!--The following is the downloaded HTML source of the studystack.com privacy policy that was archived on 2017-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170629040313id_/https%3A//www.studystack.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the studystack.com privacy policy that was archived on 2018-10-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181001175212id_/https%3A//www.studystack.com/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html itemscope="" itemtype="http://schema.org/" lang="en"><head>
  <!-- commonHead.jsp -->
    <meta name="p:domain_verify" content="2d8691d9c4eca28a93aa9a3287a19cc8">
    <meta content="IE=9" http-equiv="X-UA-Compatible">
    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-   <link rel="SHORTCUT ICON" href="https://sstk.biz/images/favicon.png">
+   <meta name="theme-color" content="#000000">
 
 
       <link rel="StyleSheet" href="/stylecss.jsp?v=25false" type="text/css">
 
    <meta name="Author" content="John Weidner">
+
+   <link rel="SHORTCUT ICON" href="https://sstk.biz/images/favicon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#603cba">
+<meta name="theme-color" content="#ffffff">
+
+
    <link rel="apple-touch-icon" sizes="40x40" href="https://sstk.biz/images/books40x40.png">
    <link rel="apple-touch-icon" sizes="155x155" href="https://sstk.biz/images/Study_stack155px.png">
    <link rel="apple-touch-startup-image" href="https://sstk.biz/images/studystack320x480.png">
@@ -21,6 +32,9 @@
 
 
    
+
+      
+
        <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//tags-cdn.deployads.com/a/studystack.com.js" async=""></script>
    
 
@@ -48,9 +62,13 @@
   }
   div#mainContent {
     padding: 30px;
+    line-height: 1.5em;
   }
   div#mainContent table tr td{
      text-align: left;
+  }
+  .mainContentSuperWide {
+     width: auto;
   }
 </style>
 <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
@@ -58,7 +76,7 @@
 <body>
      
 
-     
+     <!-- framework.jsp -->
 
 
 
@@ -66,9 +84,6 @@
 
 
 
-     <!-- sovrn -->
-     <!-- OnScroll tag: studystack - VET -->
-     <script src="//tags.us.onscroll.com/76829b02-b9f6-4fc9-9e04-e5b32af683b1/tag.min.js" async="" defer=""></script>
 
 
 
@@ -106,6 +121,12 @@
       });
 
 
+    FB.getLoginStatus(function(response) {
+        if (response.status === 'connected') {
+            top.location = '/fbConnector.jsp?originalDestination=' + top.location ;
+        }
+    }  );
+
 
    if ( typeof facebookInitPage == 'function' ) {
       facebookInitPage();
@@ -141,7 +162,7 @@
 
 
 
-<script src="/utils.js?v=31" type="text/javascript"></script>
+<script src="/utils.js?v=35" type="text/javascript"></script>
 
 
 
@@ -158,8 +179,7 @@
       
       
       
-
-          <!-- topHeader.jsp -->
+      <!-- topHeader.jsp -->
 <style>
    div#topContainer {
       padding: 0;
@@ -198,7 +218,7 @@ div#top {
        appId      : '52462214664',
        cookie     : true,   // enable cookies to allow the server to access the session
        xfbml      : false,  // do NOT parse social plugins on this page
-       version    : 'v2.5'  // use graph api version 2.5
+       version    : 'v2.12'  // use graph api version 2.5
      });
 
      FB.getLoginStatus(function(response) {
@@ -248,6 +268,7 @@ div#top {
 			<div id="header-upper">
 				<div class="container">
 					<a href="/"><img id="topLogo" src="/images/studystacklogo.svg" alt="Study Stack"></a>
+
                                         
 
 
@@ -255,7 +276,7 @@ div#top {
 
 
 
-                                            <!-- loginBox.jsp -->
+                                            <!-- loginBox.jsp v6 -->
 <style scoped="">
    #busyIndicator{
 position:absolute;
@@ -592,7 +613,7 @@ left:0px;
 
 
     #signupPopup {
-        height: 494px;
+        height: 504px;
         overflow: hidden;
     }
     #emailSignupArea p {
@@ -606,7 +627,7 @@ left:0px;
     }
 
     #emailInputArea {
-        height: 72px;
+        height: 62px;
         overflow: hidden;
     }
 
@@ -838,20 +859,23 @@ left:0px;
              </div>
 
 
-           <div id="emailInputArea">
-	     <p id="noEmailMsg" style="display: none;">
-                 Make sure to remember your password. If you forget it there is no way for StudyStack
-                 to send you a reset link.   You would need to create a new account. 
-             </p>
+           <div id="emailInputArea" style="display: block;">
 
 
-             <input type="email" id="signupEmail" name="signupEmail" placeholder="Email Address" style="display: block;">
+             <input type="email" id="signupEmail" name="signupEmail" placeholder="Email Address">
            </div>
 
              <p id="agreementMsg">
-                By signing up, I agree to StudyStack's
-                <a href="Terms" target="_blank">Terms of Service</a> and
-                <a href="Privacy" target="_blank">Privacy Policy</a>.
+	        <span id="noEmailMsg" style="display: none;">
+                 <br>
+                 Make sure to remember your password. If you forget it there is no way for StudyStack
+                 to send you a reset link.   You would need to create a new account. 
+                </span>
+                <span id="emailShareMsg" style="display: inline;">
+                We do not share your email address with others. It is only used to allow you to reset your password. </span>
+                For details read our
+                <a href="/Privacy" target="_blank">Privacy Policy</a> and
+                <a href="Terms" target="_blank">Terms of Service</a>.
              </p>
              <button id="signUpWithEmail" class="standard-button">Sign up</button>
           </div>
@@ -925,7 +949,6 @@ left:0px;
    var activeModal = null; 
    var modalBackground = document.getElementById( 'modalBackground' );
 
-
    function showModalBox( event, divId ) {
         if ( activeModal != null ) {
              activeModal.style.display = 'none';
@@ -964,6 +987,21 @@ left:0px;
       var emailAddr = document.getElementById( 'signupEmail' ).value ;
       var child = document.getElementById( 'twelveOrYounger' ).checked; 
 
+      if ( userName.length == 0 ) {
+           showError( "Please enter a user name.", showSignupBox );
+           return ;
+      }
+
+      if ( userName.indexOf( "@" ) >= 0 ) {
+           showError( "Your user name cannot be your email address.", showSignupBox );
+           return ;
+      }
+
+      if ( password.length == 0 ) {
+           showError( "Please enter a password.", showSignupBox );
+           return ;
+      }
+
       if ( !child && emailAddr.length == 0 ) {
            showError( "Please enter an email address.", showSignupBox );
            return ;
@@ -986,7 +1024,7 @@ left:0px;
               showError( "Invalid email address", showSignupBox );
           }
           else {
-               showError( "Error communicating with server.  Please try again.", showSignupBox );
+               showError( "Error communicating with server.  Please try again. " + error, showSignupBox );
           }
         } ); 
       };
@@ -1032,8 +1070,9 @@ left:0px;
 
 
 function handleAgeChange( val ) {
-   document.getElementById( 'signupEmail' ).style.display = (val==0) ? 'none' : 'block';
-   document.getElementById( 'noEmailMsg' ).style.display = (val==1) ? 'none' : 'block';
+   document.getElementById( 'emailInputArea' ).style.display = (val==0) ? 'none' : 'block';
+   document.getElementById( 'noEmailMsg' ).style.display = (val==1) ? 'none' : 'inline';
+   document.getElementById( 'emailShareMsg' ).style.display = (val==0) ? 'none' : 'inline';
 }
 
 
@@ -1134,6 +1173,10 @@ function createAccount( userName, password, emailAddress, child, callback ) {
    var checkNameTimer = null ;
 
    function checkUniqueUserName( username ) {
+       if ( document.getElementById( 'signupPopup' ).style.display != 'block' ) {
+           return ;
+       }
+       console.log( 'checkUniqueUserName:' + username + '...' );
        showUserNameStatus( STATUS_BUSY );
        if ( checkNameTimer ) {
           clearTimeout( checkNameTimer );
@@ -1147,10 +1190,15 @@ function createAccount( userName, password, emailAddress, child, callback ) {
            showUserNameStatus( STATUS_UNKNOWN );
            return ;
        }
+       if ( username.includes('@') ) {
+           showUserNameStatus( STATUS_INVALID );
+           return ;
+       }
        var xmlhttp = newAjaxRequest();
        xmlhttp.onreadystatechange = function() {
            if (xmlhttp.readyState==4) {
               try {
+                  console.log( 'ajax resp:' + xmlhttp.responseText + '<<<');
                   var count = xmlhttp.responseText ;
                   showUserNameStatus( count <= 0  ? STATUS_AVAILABLE : STATUS_TAKEN );
               }
@@ -1170,6 +1218,7 @@ function createAccount( userName, password, emailAddress, child, callback ) {
     var STATUS_UNKNOWN = 0;
     var STATUS_AVAILABLE = 1;
     var STATUS_TAKEN = 2;
+    var STATUS_INVALID = 3;
     var shownStatus = STATUS_UNKNOWN ;
     function showUserNameStatus( status ) {
        if ( status == shownStatus ) {
@@ -1181,6 +1230,11 @@ function createAccount( userName, password, emailAddress, child, callback ) {
 
        if ( status == STATUS_TAKEN ) {
             userNameTaken.style.opacity = 1;
+            userNameTaken.innerHTML = 'Taken';
+       }
+       else if ( status == STATUS_INVALID ) {
+            userNameTaken.style.opacity = 1;
+            userNameTaken.innerHTML = 'Invalid';
        }
        else if ( status == STATUS_AVAILABLE ) {
             userNameStatus.style.opacity = 1;
@@ -1215,7 +1269,6 @@ handleAgeChange( 1 );
 			</div><!--END OF header-upper--> 
 	</header>
 <!-- end of topHeader.jsp -->
-
 
       
 
@@ -1273,9 +1326,7 @@ While you use the StudyStack web site, StudyStack may collect information such a
 
 <b>Data that you enter for your flashcards will be displayed publicly.  Do not include personal information in your flashcards that you want to remain private!</b>
 <br><br>
-<p>
 We allow third-party companies to collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect and use both personally identifiable information (e.g., your name, phone number, physical or electronic address) and non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at www.aboutads.info or Networking Advertising Initiative at www.networkadvertising.org/choices.
-</p>
 <h2>Advertisements</h2>
 
 To allow StudyStack to remain a free website, StudyStack displays advertisements on its pages.  Alternatively, you may <a href="/upgrade">upgrade to our PRO plan that does not display ads</a>.
@@ -1298,7 +1349,7 @@ Phone: 405 806 0070<br>
 </td></tr></tbody></table>
 
 
-	
+	<!-- frameworkend.jsp -->
  
 
 
@@ -1316,7 +1367,6 @@ Phone: 405 806 0070<br>
 
         <div class="clearFloat"> </div>
     </div><!-- end main -->
-
 </div><!-- end container -->
 
 
@@ -1325,7 +1375,37 @@ Phone: 405 806 0070<br>
 
 
 
-    <style>
+
+    <div id="copyrightDiv">
+            <br>
+            <!-- newCopyright.jsp -->
+	<footer>
+
+		<div class="container">
+			<a href="/"><img src="/images/studystacklogo.svg" alt="Study Stack"></a>
+
+			<h6>Copyright © 2001-2018 StudyStack LLC.&nbsp; All rights reserved.</h6>
+
+			<div class="line-seperator"></div>
+
+			<nav>
+				<ul>
+					<li><a href="/#top" class="header-footer-a">Home</a></li>
+					<li><a href="/Flashcards" class="header-footer-a">Flashcards</a></li>
+					<li><a href="/About" class="header-footer-a">About</a></li>
+					<li><a href="/FAQ" class="header-footer-a">FAQ</a></li>
+					<li><a href="/Terms" class="header-footer-a">Terms of Service</a></li>
+					<li><a href="/Privacy" class="header-footer-a">Privacy Statement</a></li>
+					<li><a href="/Contact" class="header-footer-a">Contact</a></li>
+				</ul>
+			</nav>
+		</div><!--END OF container-->
+
+
+
+
+<!-- requestURI = /ThePrivacy.jsp -->
+       <style>
       #bottomButtonWrapper a:hover {
          text-decoration: none;
       }
@@ -1343,15 +1423,35 @@ Phone: 405 806 0070<br>
       }
    </style>
    <div id="bottomButtonWrapper">
-       <a title="browse or search millions of existing flashcards" href="/" id="browseOrSearchButton2" class="bigbutton bigbutton2"><span class="buttonTitle">Browse or Search</span> millions of existing flashcards</a>
-           &nbsp; &nbsp;
-           <a title="create flashcards plus a dozen other activities" href="editdata--1" id="createFlashcardsButton2" class="bigbutton bigbutton2">
+           <a title="browse or search millions of existing flashcards" href="/" id="browseOrSearchButton2" class="bigbutton bigbutton2"><span class="buttonTitle">Browse or Search</span> 
+               millions of existing flashcards</a>
+
+           <a title="create flashcards plus a dozen other activities" onclick="showSignupBox(event);return false;" href="#" id="createFlashcardsButton2" class="bigbutton bigbutton2">
                 <span class="buttonTitle">Create Flashcards</span> plus a dozen other activities
            </a>
    </div>
 
 
 
+
+
+
+
+
+
+	</footer>
+
+	<script src="/utils.js?src=newCopyright"></script>
+<!--
+	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+	<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+	<script src="responsive-nav.js"></script>
+
+-->
+<!-- end of newCopyright.jsp -->
+
+            <br>
+    </div>
  <!--  googleAnalytics.jsp  -->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -1375,11 +1475,7 @@ Phone: 405 806 0070<br>
 
 
 
-        <div id="helpIsHere" onclick="olark('api.box.expand');"></div>
-
-
-
-
+       
 
 
 <script>
@@ -1389,9 +1485,10 @@ Phone: 405 806 0070<br>
 </script>
 
 
-     <!-- mobile=false     requestCount=2 adTypes: Sortable  -->
+     <!-- mobile=false     requestCount=1 adTypes: Sortable  -->
 
 <script>window.jQuery || document.write("<script src='jquery-2.1.3.min.js?v=2'>\x3C/script>")</script><script src="jquery-2.1.3.min.js?v=2"></script>
+<!-- end of frameworkend2.jsp -->
 
 
 
