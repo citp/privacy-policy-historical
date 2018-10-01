@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sgcarmart.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627174946id_/http%3A//www.sgcarmart.com/main/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgcarmart.com privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001134337id_/http%3A//www.sgcarmart.com/main/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
 Privacy Statement
 
-SGCM Pte Ltd ('SGCM') respects the privacy of its users and will ensure compliance by its staff to the strictest standards of security and confidentiality in respect of all personal information and data submitted by its users. This Privacy Statement forms part of the Website Terms and Conditions of Use that can be found at <http://www.sgcarmart.com/main/tos.php>.
+SGCM Pte Ltd ('SGCM') respects the privacy of its users and will ensure compliance by its staff to the strictest standards of security and confidentiality in respect of all personal information and data submitted by its users. This Privacy Statement forms part of the Website Terms and Conditions of Use that can be found at [http://www.sgcarmart.com/main/tos.php](https://web.archive.org/main/tos.php).
 
 Purpose of Collection of Personal Data
 
@@ -57,7 +57,7 @@ Cookies and Log Files
 SGCM does not collect any personally identifiable information from any users whilst they visit and browse the Website. When users access the Website, SGCM records their visits only and does not collect their personal information or data. The Website's server software will also record the domain name server address and track the pages users visit and store such information in "cookies", and gather and store information such as internet protocol (IP) addresses, browser type, referring/exit pages, operating system, date/time stamp, and clickstream data, in log files. All these are done without users being aware that they are occurring. SGCM does not link the information and data automatically collected in the above manner to any personally identifiable information. SGCM generally uses such automatically collected information and data to estimate the audience size of the Website, gauge the popularity of various parts of the Website,   
 measure users' traffic patterns and administer the Website. Such automatically collected information and data will not be disclosed save and except in accordance with the section entitled "Disclosure or Transfer of Data" (above).
 
-SGCM also uses cookies from Google to serve ads on the Website. You may opt out of Google's cookies by visiting Google's page at this address [<http://www.google.com.sg/>]. 
+SGCM also uses cookies from Google to serve ads on the Website. You may opt out of Google's cookies by visiting Google's page at this address [[http://www.google.com.sg/](https://www.google.com.sg/)]. 
 
 Links to Other Sites
 
@@ -83,4 +83,4 @@ SGCM reserves the right to update, revise, modify or amend this Statement at any
 
 Effective Date: 15-Jan-2013
 
-If you have any questions or comments regarding this Privacy Policy, please fill up the [feedback form](http://www.sgcarmart.com/main/contact_us.php) from the Contact Us page. 
+If you have any questions or comments regarding this Privacy Policy, please fill up the [feedback form](https://web.archive.org/main/contact_us.php) from the Contact Us page. 
