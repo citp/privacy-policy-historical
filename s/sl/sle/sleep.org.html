@@ -1,10 +1,109 @@
-<!--The following is the downloaded HTML source of the sleep.org privacy policy that was archived on 2017-01-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170126094507id_/https%3A//sleep.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sleep.org privacy policy that was archived on 2018-10-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181001183039id_/https%3A//www.sleep.org/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script><meta name="viewport" content="width=device-width, initial-scale=1"><link type="text/css" media="all" href="https://sleep.org/wp-content/cache/autoptimize/css/autoptimize_8ca2ae812b44f8961262dca346649fe2.css" rel="stylesheet"><title> Privacy Policy - Sleep.Org</title><link rel="pingback" href="https://sleep.org/xmlrpc.php"><link rel="shortcut icon" href="https://sleep.org/wp-content/themes/sleep/img/icons/favicon.ico"><link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="description" content="Privacy Policy for Sleep.org by the National Sleep Foundation"><meta name="robots" content="noodp"><link rel="canonical" href="https://sleep.org/privacy-policy/"><meta property="og:locale" content="en_US"><meta property="og:type" content="article"><meta property="og:title" content="Privacy Policy - Sleep.Org"><meta property="og:description" content="Privacy Policy for Sleep.org by the National Sleep Foundation"><meta property="og:url" content="https://sleep.org/privacy-policy/"><meta property="og:site_name" content="Sleep.Org"><meta property="article:publisher" content="https://www.facebook.com/nationalsleepfoundation"><meta property="og:image" content="https://sleep.org/wp-content/uploads/2016/12/NSF-logo-stacked-man-6in-wide-2.jpg"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:description" content="Privacy Policy for Sleep.org by the National Sleep Foundation"><meta name="twitter:title" content="Privacy Policy - Sleep.Org"><meta name="twitter:site" content="@sleepfoundation"><meta name="twitter:image" content="https://sleep.org/wp-content/uploads/2016/12/NSF-logo-stacked-man-6in-wide-2.jpg"><meta name="twitter:creator" content="@sleepfoundation"><link rel="dns-prefetch" href="//s.w.org"><link rel="alternate" type="application/rss+xml" title="Sleep.Org » Feed" href="https://sleep.org/feed/"><link rel="alternate" type="application/rss+xml" title="Sleep.Org » Comments Feed" href="https://sleep.org/comments/feed/"><link rel="alternate" type="application/rss+xml" title="Sleep.Org » Privacy Policy Comments Feed" href="https://sleep.org/privacy-policy/feed/"> <script type="text/javascript">window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/sleep.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7"}};
-			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);</script><script src="https://sleep.org/wp-includes/js/wp-emoji-release.min.js?ver=4.7" type="text/javascript" defer=""></script> <script type="text/javascript" src="https://sleep.org/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script> <script type="text/javascript">/*  */
-var ajaxurl = "https:\/\/sleep.org\/wp-admin\/admin-ajax.php";
-/*  */</script> <link rel="https://api.w.org/" href="https://sleep.org/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://sleep.org/xmlrpc.php?rsd"><link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://sleep.org/wp-includes/wlwmanifest.xml"><meta name="generator" content="WordPress 4.7"><link rel="shortlink" href="https://sleep.org/?p=528"><link rel="alternate" type="application/json+oembed" href="https://sleep.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsleep.org%2Fprivacy-policy%2F"><link rel="alternate" type="text/xml+oembed" href="https://sleep.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsleep.org%2Fprivacy-policy%2F&amp;format=xml">  <script type="application/ld+json">{
+<!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head>
+    <meta charset="UTF-8">
+
+    <!-- Use the .htaccess and remove these lines to avoid edge case issues.
+         More info: h5bp.com/i/378 -->
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>
+        Privacy Policy - Sleep.Org    </title>
+
+    <link rel="pingback" href="https://www.sleep.org/xmlrpc.php">
+
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory: mathiasbynens.be/notes/touch-icons -->
+    <link rel="shortcut icon" href="https://www.sleep.org/wp-content/themes/sleep/img/icons/favicon.ico">
+
+    <!-- <link rel="stylesheet" href="https://www.sleep.org/wp-content/themes/sleep/css/screen.css"> -->
+    <!-- <link rel="stylesheet" href="https://www.sleep.org/wp-content/themes/sleep/assets/css/app.addAds.css" /> -->
+    <link rel="stylesheet" href="https://www.sleep.org/wp-content/themes/sleep/css/v2.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+
+
+        <!-- Place Typekit code here -->
+
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<!-- This site is optimized with the Yoast SEO plugin v5.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Privacy Policy for Sleep.org by the National Sleep Foundation">
+<link rel="canonical" href="https://www.sleep.org/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - Sleep.Org">
+<meta property="og:description" content="Privacy Policy for Sleep.org by the National Sleep Foundation">
+<meta property="og:url" content="https://www.sleep.org/privacy-policy/">
+<meta property="og:site_name" content="Sleep.Org">
+<meta property="article:publisher" content="https://www.facebook.com/nationalsleepfoundation">
+<meta property="og:image" content="https://sleep.org/wp-content/uploads/2016/12/NSF-logo-stacked-man-6in-wide-2.jpg">
+<meta property="og:image:secure_url" content="https://sleep.org/wp-content/uploads/2016/12/NSF-logo-stacked-man-6in-wide-2.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="Privacy Policy for Sleep.org by the National Sleep Foundation">
+<meta name="twitter:title" content="Privacy Policy - Sleep.Org">
+<meta name="twitter:site" content="@sleepfoundation">
+<meta name="twitter:image" content="https://sleep.org/wp-content/uploads/2016/12/NSF-logo-stacked-man-6in-wide-2.jpg">
+<meta name="twitter:creator" content="@sleepfoundation">
+<script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.sleep.org\/","name":"Sleep.org by the National Sleep Foundation","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.sleep.org\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/www.sleep.org\/privacy-policy\/","sameAs":["https:\/\/www.facebook.com\/nationalsleepfoundation","https:\/\/www.instagram.com\/sleepfoundation\/","https:\/\/www.linkedin.com\/in\/sleepfoundation","https:\/\/twitter.com\/sleepfoundation"],"@id":"#organization","name":"National Sleep Foundation","logo":"https:\/\/sleep.org\/wp-content\/uploads\/2015\/12\/NSF-logo-horizontal.jpg"}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="dns-prefetch" href="//www.sleep.org">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="Sleep.Org » Feed" href="https://www.sleep.org/feed/">
+<link rel="alternate" type="application/rss+xml" title="Sleep.Org » Comments Feed" href="https://www.sleep.org/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Sleep.Org » Privacy Policy Comments Feed" href="https://www.sleep.org/privacy-policy/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.sleep.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.sleep.org/wp-includes/js/wp-emoji-release.min.js?ver=4.9.8" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="yarppWidgetCss-css" href="https://www.sleep.org/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=4.9.8" type="text/css" media="all">
+<link rel="stylesheet" id="vendor-css" href="https://www.sleep.org/wp-content/themes/sleep/assets/css/vendor.addAds.css" type="text/css" media="all">
+<link rel="stylesheet" id="app-css" href="https://www.sleep.org/wp-content/themes/sleep/assets/css/app.addAds.css" type="text/css" media="all">
+<link rel="stylesheet" id="isl_theme_style-css" href="https://www.sleep.org/wp-content/themes/sleep/css/site.css" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="https://www.sleep.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9" type="text/css" media="all">
+<link rel="stylesheet" id="wp-side-comments-vendor-css" href="https://www.sleep.org/wp-content/plugins/sleep-side-comments/public/assets/vendor/side-comments/release/side-comments.css?ver=1.0.5" type="text/css" media="all">
+<link rel="stylesheet" id="wp-side-comments-vendor-default-css" href="https://www.sleep.org/wp-content/plugins/sleep-side-comments/public/assets/vendor/side-comments/release/themes/default-theme.css?ver=1.0.5" type="text/css" media="all">
+<link rel="stylesheet" id="weblator_polling-plugin-styles-css" href="https://www.sleep.org/wp-content/plugins/weblator-polls/public/assets/css/public.css?ver=1.3.5" type="text/css" media="all">
+<link rel="stylesheet" id="weblator_polling-fa-css" href="https://www.sleep.org/wp-content/plugins/weblator-polls/public/assets/css/font-awesome.min.css?ver=1.3.5" type="text/css" media="all">
+<script type="text/javascript" src="https://www.sleep.org/wp-content/themes/sleep/js/vendor/modernizr-2.6.2.min.js"></script>
+<script type="text/javascript" src="https://www.sleep.org/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="https://www.sleep.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="https://www.sleep.org/wp-content/plugins/weblator-polls/public/assets/js/vendors/excanvas.js?ver=1.3.5"></script>
+<script type="text/javascript" src="https://www.sleep.org/wp-content/plugins/weblator-polls/public/assets/js/vendors/Chart.min.js?ver=1.3.5"></script>
+<script type="text/javascript" src="https://www.sleep.org/wp-content/plugins/weblator-polls/public/assets/js/app/legend.js?ver=1.3.5"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var ajaxurl = "https:\/\/www.sleep.org\/wp-admin\/admin-ajax.php";
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.sleep.org/wp-content/plugins/weblator-polls/public/assets/js/app/public.js?ver=1.3.5"></script>
+<link rel="https://api.w.org/" href="https://www.sleep.org/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.sleep.org/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.sleep.org/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.9.8">
+<link rel="shortlink" href="https://www.sleep.org/?p=528">
+<link rel="alternate" type="application/json+oembed" href="https://www.sleep.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.sleep.org%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.sleep.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.sleep.org%2Fprivacy-policy%2F&amp;format=xml">
+<!-- Markup (JSON-LD) structured in schema.org ver.4.1.3 START -->
+<script type="application/ld+json">
+{
     "@context": "http://schema.org",
     "@type": "Organization",
     "name": "Sleep.Org",
@@ -18,7 +117,72 @@ var ajaxurl = "https:\/\/sleep.org\/wp-admin\/admin-ajax.php";
         "https://www.linkedin.com/company/national-sleep-foundation",
         "https://www.pinterest.com/sleepfoundation/"
     ]
-}</script> </head><body class="page no-banner page--privacy-policy "><header class="container-full header--main"><div class="container-full header--main-v2 header--main-top only-visible-above-xs--block"><div class="container"><div class="row header-top-line"><div class="col-sm-12 header__menu__stack no-gutter-right"> <a class="header__menu__item js-modal-trigger" data-target="register-modal">Register</a> <span class="header__menu__item">|</span> <a class="header__menu__item js-modal-trigger" data-target="login-modal">Login</a><div class="email-signup-header"> <script type="text/javascript">(function() {
+}
+</script>
+<!-- Markup (JSON-LD) structured in schema.org END -->
+    </head>
+
+<body class="page no-banner page--privacy-policy ">
+
+<header class="container-full header--main">
+    <div class="container-full header--main-v2 header--main-top only-visible-above-xs--block">
+        <div class="container">
+            <div class="row header-top-line"><!--desky-->
+            </div>
+        </div>
+    </div>
+    <div class="container-full header--main header--main-subline only-visible-above-xs--block">
+        <div class="container">
+            <div class="row">
+                <div class="header__menu col-sm-12">
+                    <a href="/" class="main-logo"><img class="col-sm-3 logo--lg" src="https://www.sleep.org/wp-content/themes/sleep/assets/img/logo@2x.png"></a>
+
+                    <ul class="top-menu">
+                        <li>
+                            <a href="/topic/age/">Age</a>
+                        </li>
+                        <li>
+                            <a href="/topic/bedroom/">Bedroom</a>
+                        </li>
+                        <li>
+                            <a href="/topic/lifestyle/">Lifestyle</a>
+                        </li>
+                        <li>
+                            <a href="/topic/sleep-science/">Science</a>
+                        </li>
+                    </ul>
+
+                    <form class="header-search col-sm-12 header__menu__item pull-right" action="https://www.sleep.org">
+                        <div class="form__fieldset">
+                            <input class="input-closed header__menu__item form-input form-input--short" autocomplete="off" name="s" type="text">
+                            <button class="btn-closed icon-search" type="submit"></button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row hidden-above-xs--block">
+            <div><!--mobile-->
+                <button class="mobile-hamburger icon-hamburger header__square-element header__button-left js-header-left__button"></button>
+                <div class="header__center-element center-content center-block">
+                    <a href="/"><img class="logo" src="https://www.sleep.org/wp-content/themes/sleep/assets/img/logo-mobile@2x.png"></a>
+                </div>
+                <button class="form__button form__button--square magnifying-glass-mobile icon-magnifying-glass search-icon header__button-right js-header-right__button" type="button"></button>
+
+                <div class="header__menu js-header-menu col-xs-12">
+                    <a class="header__menu__item js-header-left__item js-modal-trigger" href="/about/">About</a>
+                    <a class="header__menu__item js-header-left__item js-modal-trigger" href="/topic/bedroom/">Bedroom</a>
+                    <a class="header__menu__item js-header-left__item js-modal-trigger" href="/topic/lifestyle/">Lifestyle</a>
+                    <a class="header__menu__item js-header-left__item js-modal-trigger" href="/topic/age/">Age</a>
+                    <a class="header__menu__item js-header-left__item js-modal-trigger" href="/topic/sleep-science/">Science</a>
+                                            <a class="header__menu__item js-header-left__item js-modal-trigger" data-target="login-modal">Login</a>
+                        <a class="header__menu__item js-header-left__item js-modal-trigger" data-target="register-modal">Register</a>
+                    
+                    <div class="email-signup-header2 js-header-left__item header__menu__item ">
+                        <script type="text/javascript">(function() {
 	if (!window.mc4wp) {
 		window.mc4wp = {
 			listeners: [],
@@ -32,14 +196,648 @@ var ajaxurl = "https:\/\/sleep.org\/wp-admin\/admin-ajax.php";
 			}
 		}
 	}
-})();</script><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-2038" method="post" data-id="2038" data-name="Sleep.org Mail Chimp"><div class="mc4wp-form-fields"><div class="ctct-embed-signup"><h2>Newsletter Updates</h2><div class="expand"><p data-id="Email Address:p"> <label data-name="email" class="ctct-form-required access" for="EMAIL">Email Address</label> <input type="email" name="EMAIL" placeholder="Enter your email, please" required=""> <button type="submit" class="Button ctct-button Button--block Button-secondary" data-enabled="enabled"><span class="btn-fix"><span class="icon-envelope-o">Sign Up</span></span></button></p></div> <button type="button" class="expand-btn"><span class="btn-fix"><span class="icon-envelope-o">SignUp</span></span></button><div style="clear:both;"></div></div><div style="display: none;"><input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off"></div><input type="hidden" name="_mc4wp_timestamp" value="1485424035"><input type="hidden" name="_mc4wp_form_id" value="2038"><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1"></div><div class="mc4wp-response"></div></form></div></div></div></div></div><div class="container-full header--main header--main-subline only-visible-above-xs--block"><div class="container"><div class="row"><div class="header__menu col-sm-12"> <a href="/" class="main-logo"><img class="col-sm-3 logo--lg" src="https://sleep.org/wp-content/themes/sleep/assets/img/logo@2x.png"></a><ul class="top-menu"><li> <a href="/topic/age/">Age</a></li><li> <a href="/topic/bedroom/">Bedroom</a></li><li> <a href="/topic/lifestyle/">Lifestyle</a></li><li> <a href="/topic/sleep-science/">Science</a></li></ul><form class="header-search col-sm-12 header__menu__item pull-right" action="https://sleep.org"><div class="form__fieldset"> <input class="input-closed header__menu__item form-input form-input--short" name="s" type="text"> <button class="btn-closed icon-search" type="submit"></button></div></form></div></div></div></div><div class="container"><div class="row hidden-above-xs--block"><div> <button class="mobile-hamburger icon-hamburger header__square-element header__button-left js-header-left__button"></button><div class="header__center-element center-content center-block"> <a href="/"><img class="logo" src="https://sleep.org/wp-content/themes/sleep/assets/img/logo-mobile@2x.png"></a></div> <button class="form__button form__button--square magnifying-glass-mobile icon-magnifying-glass search-icon header__button-right js-header-right__button" type="button"></button><div class="header__menu js-header-menu col-xs-12"> <a class="header__menu__item js-header-left__item js-modal-trigger" href="/about/">About</a> <a class="header__menu__item js-header-left__item js-modal-trigger" href="/topic/bedroom/">Bedroom</a> <a class="header__menu__item js-header-left__item js-modal-trigger" href="/topic/lifestyle/">Lifestyle</a> <a class="header__menu__item js-header-left__item js-modal-trigger" href="/topic/age/">Age</a> <a class="header__menu__item js-header-left__item js-modal-trigger" href="/topic/sleep-science/">Science</a> <a class="header__menu__item js-header-left__item js-modal-trigger" data-target="login-modal">Login</a> <a class="header__menu__item js-header-left__item js-modal-trigger" data-target="register-modal">Register</a><div class="email-signup-header2 js-header-left__item header__menu__item "><form id="mc4wp-form-2" class="mc4wp-form mc4wp-form-2038" method="post" data-id="2038" data-name="Sleep.org Mail Chimp"><div class="mc4wp-form-fields"><div class="ctct-embed-signup"><h2>Newsletter Updates</h2><div class="expand"><p data-id="Email Address:p"> <label data-name="email" class="ctct-form-required access" for="EMAIL">Email Address</label> <input type="email" name="EMAIL" placeholder="Enter your email, please" required=""> <button type="submit" class="Button ctct-button Button--block Button-secondary" data-enabled="enabled"><span class="btn-fix"><span class="icon-envelope-o">Sign Up</span></span></button></p></div> <button type="button" class="expand-btn"><span class="btn-fix"><span class="icon-envelope-o">SignUp</span></span></button><div style="clear:both;"></div></div><div style="display: none;"><input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off"></div><input type="hidden" name="_mc4wp_timestamp" value="1485424035"><input type="hidden" name="_mc4wp_form_id" value="2038"><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-2"></div><div class="mc4wp-response"></div></form></div></div><form method="get" action="https://sleep.org/" class="header__menu__item js-header-right__item header__menu__mobile-search"> <input name="s" class="form-input" type="text"></form></div></div></div></header><div class="content-container header-offset"><div class="row"><div class="col-xs-12"><h1 class="heading--main"> Privacy Policy</h1></div></div><div class="row"><div class="col-xs-12"><p>The Internet is an amazing tool. It has the power to change the way we live, and we’re starting to see that potential today. With only a few mouse-clicks, you can follow the news, look up facts, buy goods and services, and communicate with others from around the world. It’s important to Sleep.org by the National Sleep Foundation to help our customers retain their privacy when they take advantage of all the Internet has to offer.</p><p>We believe your business is no one else’s. Your privacy is important to you…and to us. So we’ll protect the information you share with us. To protect your privacy, Sleep.org by the National Sleep Foundation follows certain principles in accordance with world-wide practices for customer privacy and data protection.</p><p>We won’t sell or give away your name, mail address, phone number, email address, credit card number or any other information to anyone.</p><p>We’ll use state-of-the-art security measures to protect your information from unauthorized users.</p><p>Sleep.org by the National Sleep Foundation thanks you for accessing this website (the “Site”). We respect your privacy because we know that trust is the key to any successful business relationship. This Privacy Policy explains how Sleep.org by the National Sleep Foundation collects, uses and discloses your personal information from your use of the Site.</p><p><strong>NOTICE</strong></p><p>We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally this information is requested when you create a Registration ID on the site or when you download free software, enter a contest, order e-mail newsletters or join a limited-access premium site. We use your Personal Information for four primary purposes:</p><ul><li>To make the site easier for you to use by not having to enter information more than once.</li><li>To help you quickly find software, services or information.</li><li>To help us create content most relevant to you.</li><li>To alert you to product upgrades, special offers, updated information and other new services from Sleep.org by the National Sleep Foundation.</li></ul><p><strong>INFORMATION COLLECTION AND USE</strong></p><p>Information Collection. Sleep.org by the National Sleep Foundation collects information from you using the Site. Sleep.org by the National Sleep Foundation’s primary goal in collecting personal information is to provide you with an efficient, meaningful and customized experience. For example, Sleep.org by the National Sleep Foundation may use your personal information to:</p><ul><li>Make the Site easier for you to use by not requiring you to enter information more than once;</li><li>Help you quickly find information and services;</li><li>Help Sleep.org by the National Sleep Foundation provide services and content on the Site that are most relevant to you;</li><li>Alert you to updated information and services offered by Sleep.org by the National Sleep Foundation; and</li><li>Target advertising that is provided to you via the Site, including via e-mails and display advertisements.</li></ul><p><strong>Registration.</strong> To use certain portions of the Site, you may be required to first complete an online registration form. During any such registration, you will be prompted to provide to Sleep.org by the National Sleep Foundation certain personal information, including but not limited to your name, address, phone number and e-mail address, certain demographic or health information. In addition, Sleep.org by the National Sleep Foundation may also ask you for detailed residence information so Sleep.org by the National Sleep Foundation can comply with applicable privacy laws and regulations.</p><p><strong>Children.</strong> Sleep.org by the National Sleep Foundation does not knowingly accept personal information from anyone under the age of 13. By using the Site and/or providing personal information, you represent and warrant that you are over the age of 13. NSF adheres to the 1998 Children’s Online Privacy Protection Act (COPPA). (For more information, please visit http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/adolts.htm).</p><p><strong>NOTICE TO PARENTS</strong></p><p><strong>Parents or guardians.</strong> We want to help you guard your children’s privacy. We encourage you to talk to your children about safe and responsible use of their Personal Information while using the Internet. The Sleep.org by the National Sleep Foundation site does not publish content that is targeted to children. However, if you are concerned about your children providing Sleep.org by the National Sleep Foundation any personal information without your consent, Sleep.org by the National Sleep Foundation offers a Kids account. It allows parents to give parental consent for the collection, use and sharing of children’s (ages 12 and under) personal information online.</p><p><strong>INFORMATION USE AND DISCLOSURE</strong></p><p><strong>Cookies and Other Technology.</strong> Sleep.org by the National Sleep Foundation may collect site-visitation statistical information through “cookies,” tools such as Google Analytics, and other technology. The Site may employ cookies and other technology to speed your navigation of the Site by allowing the Site to recognize each user and his or her access privileges and to track the user’s usage of the Site (“user data”). “Cookies” are small pieces of information that are stored by a user’s Internet browser on a user’s computer hard drive. Most Internet browsers are initially set to accept cookies. You can set your browser to refuse cookies, but upon doing so, you most likely will not be able to access or use portions of the Site.</p><p><strong>Log Files.</strong> The Site server automatically recognizes the Internet Uniform Resource Locator (“URL”) from which you access the Site. Sleep.org by the National Sleep Foundation may also log your Internet protocol (“IP”) address, which may be helpful, for example, for system administration and troubleshooting purposes. (An IP address indicates the location of your computer on the Internet.)</p><p><strong>Internal Use.</strong> Sleep.org by the National Sleep Foundation may identify you in connection with your use of certain aspects of the Site. For example, Sleep.org by the National Sleep Foundation may identify you by your viewing history, IP address, profile information, user data, and/or browser type. Sleep.org by the National Sleep Foundation may internally use your personal and non-personal information for many purposes, including but not limited to tracking its users’ demographics, to improving Sleep.org by the National Sleep Foundation’s marketing and promotional efforts, to improving the Site’s content and/or layout, and to determining general marketplace information about visitors to this Site. We may use your information to send you messages, e.g., e-mails, about items we believe are relevant to users of the Site.</p><p><strong>External Use.</strong> Sleep.org by the National Sleep Foundation will not sell or rent your information to third parties. Sleep.org by the National Sleep Foundation may share personal information with other entities that are part of the Sleep.org by the National Sleep Foundation corporate family (including National Sleep Foundation, and any and all related entities, officers, employees, affiliates, agents and licensors) and/or outside service providers who may be used to host or develop the Sleep.org by the National Sleep Foundation Site, provide technical support for the Sleep.org by the National Sleep Foundation Site, provide targeted advertising to users of the Sleep.org by the National Sleep Foundation Site, or otherwise act on Sleep.org by the National Sleep Foundation’s behalf. These third party service providers are prohibited from using the personal information for any other purpose. Further, Sleep.org by the National Sleep Foundation will endeavor to avoid the disclosure of personal information about you to third parties unless required to do so by law or under the compulsion of legal process, or in connection with any licensing, sale, merger, transfer or other disposition associated with all or a portion of the business.</p><p><strong>Disclosure of Personal Information in Public Areas.&nbsp;</strong>Personal information that you disclose in a public area of the Site, such as by way of a discussion forum, comment, or any other type of posting or blog may be collected and used by third parties or Sleep.org by the National Sleep Foundation. If you do decide to disclose personal information, you do so at your sole risk.</p><p><strong>CONSENT</strong></p><p>If you choose not to register or provide personal information, you can still use most of Sleep.org by the National Sleep Foundation.com. But you will not be able to access areas that require registration.</p><p>If you decide to register, you will be able to select the kinds of information you want to receive from us by subscribing to various services, like our electronic newsletters. If you do not want us to communicate with you about other offers regarding Sleep.org by the National Sleep Foundation products, programs, events, or services by e-mail, postal mail, or telephone, you may select the option stating that you do not wish to receive marketing messages from Sleep.org by the National Sleep Foundation.</p><p>Sleep.org by the National Sleep Foundation occasionally allows other companies to offer our registered customers information about their products and services, using postal mail only. If you do not want to receive these offers, you may select the option stating that you do not wish to receive marketing materials from third parties.</p><p><strong>ACCESS</strong></p><p>We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time at the Visitor Center. There, you can:</p><ul><li>View and edit personal information you have already given us.</li><li>Tell us whether you want us to send you marketing information.</li><li>Sign up for electronic newsletters about our services and products.</li><li>Register. Once you register, you won’t need to do it again. Wherever you go on Sleep.org by the National Sleep Foundation.com, your information stays with you.</li></ul><p><strong>SECURITY</strong></p><p>Sleep.org by the National Sleep Foundation has taken strong measures to protect the security of your personal information and to ensure that your choices for its intended use are honored. We take strong precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.</p><p>Sleep.org by the National Sleep Foundation strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.</p><p>Your personal information is never shared outside the company without your permission, except under conditions explained above. Inside the company, data is stored in password-controlled servers with limited access. Your information may be stored and processed in the United States or any other country where Sleep.org by the National Sleep Foundation, its subsidiaries, affiliates or agents are located.</p><p>You also have a significant role in protecting your information. No one can see or edit your personal information without knowing your user name and password, so do not share these with others.</p><p><strong>STEPS TAKEN TO PROTECT PERSONAL INFORMATION</strong></p><p><strong>Data Security.&nbsp;</strong>This Site incorporates various procedures to safeguard the confidentiality of your personal information. Sleep.org by the National Sleep Foundation takes its efforts to protect your information very seriously. However:</p><p>SLEEP.ORG BY THE NATIONAL SLEEP FOUNDATION CANNOT GUARANTEE SECURITY. SLEEP.ORG BY THE NATIONAL SLEEP FOUNDATION ASSUMES NO RESPONSIBILITY OR LIABILITY FOR DISCLOSURE OF YOUR PERSONAL INFORMATION THAT OCCURS BY NEGLIGENCE OR THE DELIBERATE ACTION OF SLEEP.ORG BY THE NATIONAL SLEEP FOUNDATION (E.G., IN RESPONSE TO A COURT ORDERS OR SUBPOENA), ERRORS IN TRANSMISSION, UNAUTHORIZED OR ILLEGAL ACCESS, OR ANY OTHER VEHICLE FOR DISCLOSURE.</p><p>THE SITE CONTAINS LINKS TO OTHER WEBSITES. SLEEP.ORG BY THE NATIONAL SLEEP FOUNDATION IS NOT RESPONSIBLE FOR THE CONTENT, TERMS OF USE, OR PRIVACY POLICIES ON ANY THIRD-PARTY WEBSITES, OR PRIVACY PRACTICES BY ANY THIRD PARTIES.</p><p><strong>Enforcement.&nbsp;</strong>If for some reason you believe Sleep.org by the National Sleep Foundation has not adhered to these principles, please notify us by e-mail nsf@sleepfoundation.org and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.</p><p><strong>ELECTRONIC PRODUCT REGISTRATION</strong></p><p>When you buy and install a new product, we may ask you to register your purchase electronically. When you do, we merge your registration information with any information you’ve already left with us (we call that information your personal profile). If you haven’t previously registered with us, we create a personal profile for you from your product registration information. If you ever want to review or update that information, you can visit the Profile Center, click on Update Profile, and edit any of the Personal Information in your profile. If you haven’t already created a Registration ID, we will ask you to do so. This ensures that only you can access your information.</p><p><strong>CUSTOMER PROFILES</strong></p><p>As mentioned above, every registered customer has a unique personal profile. Each profile is assigned a unique personal identification number, which helps us ensure that only you can access your profile.</p><p>When you register, we create your profile, assign a personal identification number, then send this personal identification number back to your hard drive in the form of a cookie, which is a very small bit of code. This code is uniquely yours. It is your passport to seamless travel across Sleep.org by the National Sleep Foundation.com, allowing you to download free software, order free newsletters, and visit premium sites without having to fill out registration forms with information you’ve already provided. Even if you switch computers, you won’t have to re-register – just use your Registration ID to identify yourself.</p><p><strong>WHAT DO WE DO WITH THE INFORMATION YOU SHARE?</strong></p><p>When you join us, you provide us with your contact information, including your name and email address. We use this information to send you updates about your order, questionnaires to measure your satisfaction with our service and announcements about new and exciting services that we offer.</p><p>Sleep.org by the National Sleep Foundation will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Sleep.org by the National Sleep Foundation or the site; (b) protect and defend the rights or property of Sleep.org by the National Sleep Foundation and its family of Web sites, and, (c) act in urgent circumstances to protect the personal safety of users of Sleep.org by the National Sleep Foundation, its Web sites, or the public.</p><p><strong>CHANGES TO THIS PRIVACY POLICY</strong></p><p>Sleep.org by the National Sleep Foundation may change this Privacy Policy without notice. Sleep.org by the National Sleep Foundation will post the changed Privacy Policy on this Site.</p><p><strong>CONTACT INFORMATION</strong></p><p>If you have any questions about Sleep.org by the National Sleep Foundation’s Privacy Policy, please contact us using the information on the contact page of the Site.</p></div></div></div><div class="email-signup-footer" id="footerForm"><form id="mc4wp-form-3" class="mc4wp-form mc4wp-form-2038" method="post" data-id="2038" data-name="Sleep.org Mail Chimp"><div class="mc4wp-form-fields"><div class="ctct-embed-signup"><h2>Newsletter Updates</h2><div class="expand"><p data-id="Email Address:p"> <label data-name="email" class="ctct-form-required access" for="EMAIL">Email Address</label> <input type="email" name="EMAIL" placeholder="Enter your email, please" required=""> <button type="submit" class="Button ctct-button Button--block Button-secondary" data-enabled="enabled"><span class="btn-fix"><span class="icon-envelope-o">Sign Up</span></span></button></p></div> <button type="button" class="expand-btn"><span class="btn-fix"><span class="icon-envelope-o">SignUp</span></span></button><div style="clear:both;"></div></div><div style="display: none;"><input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off"></div><input type="hidden" name="_mc4wp_timestamp" value="1485424035"><input type="hidden" name="_mc4wp_form_id" value="2038"><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-3"></div><div class="mc4wp-response"></div></form></div><footer class="footer js-footer-waypoint"><nav role="navigation"><div class="row footer__content"><div class="col-xs-12 col-sm-3"><div class="footer__logo-wrapper"> <a href="http://sleepfoundation.org/"> <img class="footer__logo" src="https://sleep.org/wp-content/themes/sleep/assets/img/nsf-footer-logo.svg" alt="National Sleep Foundation Logo"> </a></div></div><div class="col-xs-12 col-sm-9"><div class="footer__categories"><ul class="footer__category-wrapper row"><li class="footer__category"><a class="footer__link footer__link--heading" href="https://sleep.org/about/">About</a><ul class="footer__text-wrapper"></ul></li><li class="footer__category"><a class="footer__link footer__link--heading" href="https://sleep.org/articles/">Articles</a><ul class="footer__text-wrapper"><li class="footer__text"><a class="footer__link" href="https://sleep.org/topic/sleep-science/">Science</a></li><li class="footer__text"><a class="footer__link" href="https://sleep.org/topic/bedroom/">Bedroom</a></li><li class="footer__text"><a class="footer__link" href="https://sleep.org/topic/lifestyle/">Lifestyle</a></li><li class="footer__text"><a class="footer__link" href="https://sleep.org/topic/age/">Age</a></li></ul></li><li class="footer__category"> <a href="#" class="footer__link footer__link--heading js-modal-trigger" data-target="login-modal">Login</a><ul class="footer__text-wrapper"><li class="footer__text"><a class="footer__link js-modal-trigger" data-target="login-modal">Login</a></li><li class="footer__text"><a class="footer__link js-modal-trigger" data-target="register-modal">Register</a></li></ul></li><li class="footer__category"><ul class="footer__text-wrapper"><li class="footer__text footer__link--first"><a class="footer__link" href="https://sleep.org/privacy-policy/">Privacy</a></li><li class="footer__text"><a class="footer__link" href="https://sleep.org/terms-of-service/">Terms of Service</a></li></ul></li><li class="footer__category"><ul class="footer__text-wrapper footer__text-wrapper--social row"><div class="col-sm-4 col-xs-6"><li class="footer__text footer__text--social"> <a target="_blank" class="footer__link--social" href="https://www.facebook.com/nationalsleepfoundation"> <span class="icon-facebook"></span> </a></li></div><div class="col-sm-4 col-xs-6"><li class="footer__text footer__text--social"> <a target="_blank" class="footer__link--social" href="https://twitter.com/sleepfoundation"> <span class="icon-twitter"></span> </a></li></div><div class="col-sm-4 col-xs-6"><li class="footer__text footer__text--social"> <a target="_blank" class="footer__link--social" href="http://www.pinterest.com/sleepfoundation"> <span class="icon-pinterest"></span> </a></li></div><div class="col-sm-4 col-xs-6"><li class="footer__text footer__text--social"> <a target="_blank" class="footer__link--social" href="https://www.youtube.com/user/NatlSleepFoundation"> <span class="icon-youtube"></span> </a></li></div></ul></li></ul></div></div></div></nav></footer><div id="newsletter-modal" class="modal js-modal"><div class="modal__inner modal--newsletter container"><h2 class="modal__dismiss-wrapper"> <a class="modal__dismiss js-modal__dismiss"> <img src="https://sleep.org/wp-content/themes/sleep/assets/img/icons/x.svg" alt="" class="modal__dismiss-icon"> </a></h2><div class="row logo-row"><div class="col-sm-4 col-sm-offset-4 col-xs-6 col-xs-offset-3"> <img class="nsf-logo img-responsive" src="https://sleep.org/wp-content/themes/sleep/assets/img/nsf-logo.png"></div></div><div class="row prompt-row"><div class="col-xs-12 col-sm-10 col-md-8 center-block"><h3 class="text-centered login-prompt"> NEWSLETTER SIGN UP</h3><p> Sign up for exciting news from Sleep.org and the National Sleep Foundation. Want more personalized information? Please provide your zip code, gender and age range. We can't wait to help you #takebackyoursleep.</p></div></div><div class="row login-form-row"><div class="col-xs-12 col-sm-10 col-md-8 center-block"><form method="post" action="https://sleep.org/thank-you"><div class="row sleep-tips-row"><div class="col-sm-12"><div class="form-group"> <span class="form-label form-label--small"> <span class="primary">Email</span></span> <input type="text" class="form-input" name="email"></div></div></div><div class="row"><div class="col-sm-6"><div class="form-group"> <span class="form-label form-label--small"> <span class="primary">Zip Code</span></span> <input type="text" class="form-input" name="zip"></div></div><div class="col-sm-6"><div class="form-group clearfix"> <span class="form-label form-label--small"> <span class="primary">Gender</span> </span><div class="form-input__radio"> <input type="radio" value="male" id="form-radio" name="gender"> <label for="form-radio"></label></div><div class="form-input__radio__label">Male</div><div class="form-input__radio"> <input type="radio" value="female" id="form-radio2" name="gender"> <label for="form-radio2"></label></div><div class="form-input__radio__label">Female</div></div></div></div><div class="row"><div class="col-sm-12"><div class="form-group"><div class="row"> <span class="form-label form-label--small col-xs-12"> <span class="primary">Age Range</span> </span><div class="col-xs-6 col-sm-6 col-md-3"><div class="form-input__radio"> <input type="radio" value=">18" id="form-radio->18" name="age"> <label for="form-radio->18"></label></div><div class="form-input__radio__label">&gt;18</div></div><div class="col-xs-6 col-sm-6 col-md-3"><div class="form-input__radio"> <input type="radio" value="18-34" id="form-radio-18-34" name="age"> <label for="form-radio-18-34"></label></div><div class="form-input__radio__label">18-34</div></div><div class="col-xs-6 col-sm-6 col-md-3"><div class="form-input__radio"> <input type="radio" value="35-44" id="form-radio-35-44" name="age"> <label for="form-radio-35-44"></label></div><div class="form-input__radio__label">35-44</div></div><div class="col-xs-6 col-sm-6 col-md-3"><div class="form-input__radio"> <input type="radio" value="45-54" id="form-radio-45-54" name="age"> <label for="form-radio-45-54"></label></div><div class="form-input__radio__label">45-54</div></div><div class="col-xs-6 col-sm-6 col-md-3"><div class="form-input__radio"> <input type="radio" value="55+" id="form-radio-55+" name="age"> <label for="form-radio-55+"></label></div><div class="form-input__radio__label">55+</div></div></div></div><input type="hidden" name="newsletter" value="true"><div class="row retake-quiz-action-row"><div class="col-md-4 col-md-offset-4"><div class="dashboard__btn-wrapper"> <button class="btn btn--solid-green btn--dashboard">Sign up</button></div></div></div></div></div></form></div></div></div></div><div class="modal js-modal " id="login-modal"><div class="modal__inner modal--login container"><h2 class="modal__dismiss-wrapper"> <a class="modal__dismiss js-modal__dismiss"> <img src="https://sleep.org/wp-content/themes/sleep/assets/img/icons/x.svg" alt="" class="modal__dismiss-icon"> </a></h2><div class="col-sm-4 col-sm-offset-4 col-xs-8 col-xs-offset-2"> <img class="img-responsive" src="https://sleep.org/wp-content/themes/sleep/assets/img/nsf-logo.png"></div><div class="row prompt-row"><div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2 col-xs-12"><h3 class="text-centered login-prompt"> Want to leave a comment? <span class="break-on-mobile">Sign up or sign in to sleep.org</span></h3></div></div><div class="row login-form-row"><div class="col-xs-12 col-sm-8 center-block"><form name="loginform" id="loginform" action="https://sleep.org/wp-login.php" method="post"><div class="form-group"> <span class="login-form-label">Username</span> <input type="text" name="log" id="user_login" class="form-input" placeholder="Username"></div><div class="form-group"> <span class="login-form-label">Password</span> <input type="password" name="pwd" id="user_pass" class="form-input" placeholder="Password"></div><div class="row"><div class="col-sm-12 center-content"> <input type="submit" name="wp-submit" id="wp-submit" class="btn btn--green" value="Log In"></div></div><div class="row"><div class="col-sm-12 login-form__sign-up"> <a href="https://sleep.org/wp-login.php?action=register" class="login-form__sign-up-link">Register</a> | <a href="https://sleep.org/wp-login.php?action=lostpassword" class="login-form__sign-up-link">Lost your password?</a></div></div></form></div></div></div></div><div id="register-modal" class="modal js-modal"><div class="modal__inner container"><h2 class="modal__dismiss-wrapper"> <a class="modal__dismiss js-modal__dismiss"> <img src="https://sleep.org/wp-content/themes/sleep/assets/img/icons/x.svg" alt="" class="modal__dismiss-icon"> </a></h2><div class="col-sm-4 col-sm-offset-4 col-xs-6 col-xs-offset-3"> <img class="img-responsive" src="https://sleep.org/wp-content/themes/sleep/assets/img/nsf-logo.png"></div><div class="row prompt-row"><div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 col-xs-12"><h3 class="text-centered login-prompt"> Want to leave a comment and view a personalized feed of Sleep.org articles? Sign up for a sleep.org account and take our sleep personality quiz!</h3></div></div><div class="login-form-row"><div class="col-xs-12 col-sm-8 center-block"><form class="" action="https://sleep.org/wp-login.php?action=register" method="post"><div class="row"><div class="form-group"> <label class="form-label form-label--small">Username</label> <input type="text" name="user_login" placeholder="Username" id="user_login" class="form-input"></div><div class="form-group"> <label class="form-label form-label--small">Email</label> <input type="text" name="user_email" placeholder="E-Mail" id="user_email" class="form-input"></div><div class="quiz-slide--result__answers js--insert-into-reg-form"></div> <input type="hidden" class="registration--newsletter" name="newsletter" value="false"> <input type="hidden" class="registration--age" name="age" value=""> <input type="hidden" class="registration--zip" name="zip" value=""> <input type="hidden" class="registration--gender" name="gender" value=""><div class="js--insert-into-reg-form"></div><div class="quiz-slide--result__answers js--insert-into-reg-form"></div> <input type="hidden" name="redirect_to" value="https://sleep.org/thank-you"></div><div class="center-content"><div class="row"><div class="form-group"> <input type="submit" value="Register" class="btn btn--green" id="register"></div></div></div><div class="row"><div class="col-sm-12 login-form__sign-up"> <a class="login-form__sign-up-link js-modal-trigger" data-target="login-modal">Login</a> | <a href="https://sleep.org/wp-login.php?action=lostpassword" class="login-form__sign-up-link">Lost your password?</a></div></div></form></div></div></div></div><div class="modal js-modal" id="demographics-modal"><div class="modal__inner container"><h2 class="modal__dismiss-wrapper"> <a class="modal__dismiss js-modal__dismiss"> <img src="https://sleep.org/wp-content/themes/sleep/assets/img/icons/x.svg" alt="" class="modal__dismiss-icon"> </a></h2><div class="row logo-row"><div class="col-sm-4 col-sm-offset-4 col-xs-6 col-xs-offset-3"> <img class="nsf-logo img-responsive" src="https://sleep.org/wp-content/themes/sleep/assets/img/nsf-logo.png"></div></div><div class="row prompt-row"><div class="col-xs-12 col-sm-10 col-md-8 center-block"><h3 class="text-centered login-prompt"> NEWSLETTER SIGN UP</h3><p> Sign up for exciting news from Sleep.org and the National Sleep Foundation. Want more personalized information? Please provide your zip code, gender and age range. We can't wait to help you #takebackyoursleep.</p></div></div><div class="row login-form-row"><div class="col-xs-12 col-sm-10 col-md-8 center-block"><form><div class="row"><div class="col-sm-6"><div class="form-group"> <span class="form-label form-label--small"> <span class="primary">Zip Code</span></span> <input type="text" class="form-input"></div></div><div class="col-sm-6"><div class="form-group clearfix gender-radios"> <span class="form-label form-label--small"> <span class="primary">Gender</span> </span><div class="form-input__radio"> <input type="radio" value="male" id="demographics-radio--gender" name="gender"> <label for="demographics-radio--gender"></label></div><div class="form-input__radio__label">Male</div><div class="form-input__radio"> <input type="radio" value="female" id="demographics-radio--gender2" name="gender"> <label for="demographics-radio--gender2"></label></div><div class="form-input__radio__label">Female</div></div></div></div><div class="row"><div class="col-sm-12"><div class="form-group age-radios"><div class="row"> <span class="form-label form-label--small col-xs-12"> <span class="primary">Age Range</span> </span><div class="col-xs-6 col-sm-6 col-md-3"><div class="form-input__radio"> <input type="radio" value=">18" id="form-radio-demo->18" name="age"> <label for="form-radio-demo->18"></label></div><div class="form-input__radio__label">&gt;18</div></div><div class="col-xs-6 col-sm-6 col-md-3"><div class="form-input__radio"> <input type="radio" value="18-34" id="form-radio-demo-18-34" name="age"> <label for="form-radio-demo-18-34"></label></div><div class="form-input__radio__label">18-34</div></div><div class="col-xs-6 col-sm-6 col-md-3"><div class="form-input__radio"> <input type="radio" value="35-44" id="form-radio-demo-35-44" name="age"> <label for="form-radio-demo-35-44"></label></div><div class="form-input__radio__label">35-44</div></div><div class="col-xs-6 col-sm-6 col-md-3"><div class="form-input__radio"> <input type="radio" value="45-54" id="form-radio-demo-45-54" name="age"> <label for="form-radio-demo-45-54"></label></div><div class="form-input__radio__label">45-54</div></div><div class="col-xs-6 col-sm-6 col-md-3"><div class="form-input__radio"> <input type="radio" value="55+" id="form-radio-demo-55+" name="age"> <label for="form-radio-demo-55+"></label></div><div class="form-input__radio__label">55+</div></div></div></div></div></div><div class="row retake-quiz-action-row"><div class="center-content"><div class="dashboard__btn-wrapper"> <button class="js--submit-demographics js-modal__dismiss btn btn--solid-green btn--dashboard">Save Changes</button></div></div></div></form></div></div></div> <script type="text/javascript" async="" src="//platform.twitter.com/widgets.js"></script> <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+})();
+</script><!-- MailChimp for WordPress v4.1.10 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-2038" method="post" data-id="2038" data-name="Sleep.org Mail Chimp"><div class="mc4wp-form-fields"><div class="ctct-embed-signup">
+  <h2>Newsletter Updates</h2>
+  <div class="expand">
+   <p data-id="Email Address:p">
+   <label data-name="email" class="ctct-form-required access" for="EMAIL">Email Address</label> 
+   <input type="email" name="EMAIL" placeholder="Enter your email, please" required="">
+   <button type="submit" class="Button ctct-button Button--block Button-secondary" data-enabled="enabled"><span class="btn-fix"><span class="icon-envelope-o">Sign Up</span></span></button>
+   </p>
+  </div>
+  <button type="button" class="expand-btn"><span class="btn-fix"><span class="icon-envelope-o">SignUp</span></span></button>
+  <div style="clear:both;"></div>
+ </div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off"></label><input type="hidden" name="_mc4wp_timestamp" value="1538418639"><input type="hidden" name="_mc4wp_form_id" value="2038"><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1"></div><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin -->                    </div>
+                </div>
+                <form method="get" action="https://www.sleep.org/" class="header__menu__item js-header-right__item header__menu__mobile-search">
+                    <!-- <div class="form__fieldset"> -->
+                    <input autocomplete="off" name="s" class="form-input" type="text">
+                    <!-- </div> -->
+                </form>
+
+            </div>
+        </div>
+    </div>
+</header>
+<div class="content-container header-offset">
+    
+    
+
+        <div class="row">
+            <div class="col-xs-12">
+                <h1 class="heading--main">
+                Privacy Policy                </h1>
+            </div> <!-- end col -->
+        </div> <!-- end row -->
+
+
+        <div class="row">
+            <div class="col-xs-12">
+            <p>The Internet is an amazing tool. It has the power to change the way we live, and we’re starting to see that potential today. With only a few mouse-clicks, you can follow the news, look up facts, buy goods and services, and communicate with others from around the world. It’s important to Sleep.org by the National Sleep Foundation to help our customers retain their privacy when they take advantage of all the Internet has to offer.</p>
+<p>We believe your business is no one else’s. Your privacy is important to you…and to us. So we’ll protect the information you share with us. To protect your privacy, Sleep.org by the National Sleep Foundation follows certain principles in accordance with world-wide practices for customer privacy and data protection.</p>
+<p>We won’t sell or give away your name, mail address, phone number, email address, credit card number or any other information to anyone.</p>
+<p>We’ll use state-of-the-art security measures to protect your information from unauthorized users.</p>
+<p>Sleep.org by the National Sleep Foundation thanks you for accessing this website (the “Site”). We respect your privacy because we know that trust is the key to any successful business relationship. This Privacy Policy explains how Sleep.org by the National Sleep Foundation collects, uses and discloses your personal information from your use of the Site.</p>
+<p><strong>NOTICE</strong></p>
+<p>We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally this information is requested when you create a Registration ID on the site or when you download free software, enter a contest, order e-mail newsletters or join a limited-access premium site. We use your Personal Information for four primary purposes:</p>
+<ul>
+<li>To make the site easier for you to use by not having to enter information more than once.</li>
+<li>To help you quickly find software, services or information.</li>
+<li>To help us create content most relevant to you.</li>
+<li>To alert you to product upgrades, special offers, updated information and other new services from Sleep.org by the National Sleep Foundation.</li>
+</ul>
+<p><strong>INFORMATION COLLECTION AND USE</strong></p>
+<p>Information Collection. Sleep.org by the National Sleep Foundation collects information from you using the Site. Sleep.org by the National Sleep Foundation’s primary goal in collecting personal information is to provide you with an efficient, meaningful and customized experience. For example, Sleep.org by the National Sleep Foundation may use your personal information to:</p>
+<ul>
+<li>Make the Site easier for you to use by not requiring you to enter information more than once;</li>
+<li>Help you quickly find information and services;</li>
+<li>Help Sleep.org by the National Sleep Foundation provide services and content on the Site that are most relevant to you;</li>
+<li>Alert you to updated information and services offered by Sleep.org by the National Sleep Foundation; and</li>
+<li>Target advertising that is provided to you via the Site, including via e-mails and display advertisements.</li>
+</ul>
+<p><strong>Registration.</strong> To use certain portions of the Site, you may be required to first complete an online registration form. During any such registration, you will be prompted to provide to Sleep.org by the National Sleep Foundation certain personal information, including but not limited to your name, address, phone number and e-mail address, certain demographic or health information. In addition, Sleep.org by the National Sleep Foundation may also ask you for detailed residence information so Sleep.org by the National Sleep Foundation can comply with applicable privacy laws and regulations.</p>
+<p><strong>Children.</strong> Sleep.org by the National Sleep Foundation does not knowingly accept personal information from anyone under the age of 13. By using the Site and/or providing personal information, you represent and warrant that you are over the age of 13. NSF adheres to the 1998 Children’s Online Privacy Protection Act (COPPA). (For more information, please visit http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/adolts.htm).</p>
+<p><strong>NOTICE TO PARENTS</strong></p>
+<p><strong>Parents or guardians.</strong> We want to help you guard your children’s privacy. We encourage you to talk to your children about safe and responsible use of their Personal Information while using the Internet. The Sleep.org by the National Sleep Foundation site does not publish content that is targeted to children. However, if you are concerned about your children providing Sleep.org by the National Sleep Foundation any personal information without your consent, Sleep.org by the National Sleep Foundation offers a Kids account. It allows parents to give parental consent for the collection, use and sharing of children’s (ages 12 and under) personal information online.</p>
+<p><strong>INFORMATION USE AND DISCLOSURE</strong></p>
+<p><strong>Cookies and Other Technology.</strong> Sleep.org by the National Sleep Foundation may collect site-visitation statistical information through “cookies,” tools such as Google Analytics, and other technology. The Site may employ cookies and other technology to speed your navigation of the Site by allowing the Site to recognize each user and his or her access privileges and to track the user’s usage of the Site (“user data”). “Cookies” are small pieces of information that are stored by a user’s Internet browser on a user’s computer hard drive. Most Internet browsers are initially set to accept cookies. You can set your browser to refuse cookies, but upon doing so, you most likely will not be able to access or use portions of the Site.</p>
+<p><strong>Log Files.</strong> The Site server automatically recognizes the Internet Uniform Resource Locator (“URL”) from which you access the Site. Sleep.org by the National Sleep Foundation may also log your Internet protocol (“IP”) address, which may be helpful, for example, for system administration and troubleshooting purposes. (An IP address indicates the location of your computer on the Internet.)</p>
+<p><strong>Internal Use.</strong> Sleep.org by the National Sleep Foundation may identify you in connection with your use of certain aspects of the Site. For example, Sleep.org by the National Sleep Foundation may identify you by your viewing history, IP address, profile information, user data, and/or browser type. Sleep.org by the National Sleep Foundation may internally use your personal and non-personal information for many purposes, including but not limited to tracking its users’ demographics, to improving Sleep.org by the National Sleep Foundation’s marketing and promotional efforts, to improving the Site’s content and/or layout, and to determining general marketplace information about visitors to this Site. We may use your information to send you messages, e.g., e-mails, about items we believe are relevant to users of the Site.</p>
+<p><strong>External Use.</strong> Sleep.org by the National Sleep Foundation will not sell or rent your information to third parties. Sleep.org by the National Sleep Foundation may share personal information with other entities that are part of the Sleep.org by the National Sleep Foundation corporate family (including National Sleep Foundation, and any and all related entities, officers, employees, affiliates, agents and licensors) and/or outside service providers who may be used to host or develop the Sleep.org by the National Sleep Foundation Site, provide technical support for the Sleep.org by the National Sleep Foundation Site, provide targeted advertising to users of the Sleep.org by the National Sleep Foundation Site, or otherwise act on Sleep.org by the National Sleep Foundation’s behalf. These third party service providers are prohibited from using the personal information for any other purpose. Further, Sleep.org by the National Sleep Foundation will endeavor to avoid the disclosure of personal information about you to third parties unless required to do so by law or under the compulsion of legal process, or in connection with any licensing, sale, merger, transfer or other disposition associated with all or a portion of the business.</p>
+<p><strong>Disclosure of Personal Information in Public Areas.&nbsp;</strong>Personal information that you disclose in a public area of the Site, such as by way of a discussion forum, comment, or any other type of posting or blog may be collected and used by third parties or Sleep.org by the National Sleep Foundation. If you do decide to disclose personal information, you do so at your sole risk.</p>
+<p><strong>CONSENT</strong></p>
+<p>If you choose not to register or provide personal information, you can still use most of Sleep.org by the National Sleep Foundation.com. But you will not be able to access areas that require registration.</p>
+<p>If you decide to register, you will be able to select the kinds of information you want to receive from us by subscribing to various services, like our electronic newsletters. If you do not want us to communicate with you about other offers regarding Sleep.org by the National Sleep Foundation products, programs, events, or services by e-mail, postal mail, or telephone, you may select the option stating that you do not wish to receive marketing messages from Sleep.org by the National Sleep Foundation.</p>
+<p>Sleep.org by the National Sleep Foundation occasionally allows other companies to offer our registered customers information about their products and services, using postal mail only. If you do not want to receive these offers, you may select the option stating that you do not wish to receive marketing materials from third parties.</p>
+<p><strong>ACCESS</strong></p>
+<p>We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time at the Visitor Center. There, you can:</p>
+<ul>
+<li>View and edit personal information you have already given us.</li>
+<li>Tell us whether you want us to send you marketing information.</li>
+<li>Sign up for electronic newsletters about our services and products.</li>
+<li>Register. Once you register, you won’t need to do it again. Wherever you go on Sleep.org by the National Sleep Foundation.com, your information stays with you.</li>
+</ul>
+<p><strong>SECURITY</strong></p>
+<p>Sleep.org by the National Sleep Foundation has taken strong measures to protect the security of your personal information and to ensure that your choices for its intended use are honored. We take strong precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.</p>
+<p>Sleep.org by the National Sleep Foundation strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.</p>
+<p>Your personal information is never shared outside the company without your permission, except under conditions explained above. Inside the company, data is stored in password-controlled servers with limited access. Your information may be stored and processed in the United States or any other country where Sleep.org by the National Sleep Foundation, its subsidiaries, affiliates or agents are located.</p>
+<p>You also have a significant role in protecting your information. No one can see or edit your personal information without knowing your user name and password, so do not share these with others.</p>
+<p><strong>STEPS TAKEN TO PROTECT PERSONAL INFORMATION</strong></p>
+<p><strong>Data Security.&nbsp;</strong>This Site incorporates various procedures to safeguard the confidentiality of your personal information. Sleep.org by the National Sleep Foundation takes its efforts to protect your information very seriously. However:</p>
+<p>SLEEP.ORG BY THE NATIONAL SLEEP FOUNDATION CANNOT GUARANTEE SECURITY. SLEEP.ORG BY THE NATIONAL SLEEP FOUNDATION ASSUMES NO RESPONSIBILITY OR LIABILITY FOR DISCLOSURE OF YOUR PERSONAL INFORMATION THAT OCCURS BY NEGLIGENCE OR THE DELIBERATE ACTION OF SLEEP.ORG BY THE NATIONAL SLEEP FOUNDATION (E.G., IN RESPONSE TO A COURT ORDERS OR SUBPOENA), ERRORS IN TRANSMISSION, UNAUTHORIZED OR ILLEGAL ACCESS, OR ANY OTHER VEHICLE FOR DISCLOSURE.</p>
+<p>THE SITE CONTAINS LINKS TO OTHER WEBSITES. SLEEP.ORG BY THE NATIONAL SLEEP FOUNDATION IS NOT RESPONSIBLE FOR THE CONTENT, TERMS OF USE, OR PRIVACY POLICIES ON ANY THIRD-PARTY WEBSITES, OR PRIVACY PRACTICES BY ANY THIRD PARTIES.</p>
+<p><strong>Enforcement.&nbsp;</strong>If for some reason you believe Sleep.org by the National Sleep Foundation has not adhered to these principles, please notify us by e-mail nsf@sleepfoundation.org and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.</p>
+<p><strong>ELECTRONIC PRODUCT REGISTRATION</strong></p>
+<p>When you buy and install a new product, we may ask you to register your purchase electronically. When you do, we merge your registration information with any information you’ve already left with us (we call that information your personal profile). If you haven’t previously registered with us, we create a personal profile for you from your product registration information. If you ever want to review or update that information, you can visit the Profile Center, click on Update Profile, and edit any of the Personal Information in your profile. If you haven’t already created a Registration ID, we will ask you to do so. This ensures that only you can access your information.</p>
+<p><strong>CUSTOMER PROFILES</strong></p>
+<p>As mentioned above, every registered customer has a unique personal profile. Each profile is assigned a unique personal identification number, which helps us ensure that only you can access your profile.</p>
+<p>When you register, we create your profile, assign a personal identification number, then send this personal identification number back to your hard drive in the form of a cookie, which is a very small bit of code. This code is uniquely yours. It is your passport to seamless travel across Sleep.org by the National Sleep Foundation.com, allowing you to download free software, order free newsletters, and visit premium sites without having to fill out registration forms with information you’ve already provided. Even if you switch computers, you won’t have to re-register – just use your Registration ID to identify yourself.</p>
+<p><strong>WHAT DO WE DO WITH THE INFORMATION YOU SHARE?</strong></p>
+<p>When you join us, you provide us with your contact information, including your name and email address. We use this information to send you updates about your order, questionnaires to measure your satisfaction with our service and announcements about new and exciting services that we offer.</p>
+<p>Sleep.org by the National Sleep Foundation will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Sleep.org by the National Sleep Foundation or the site; (b) protect and defend the rights or property of Sleep.org by the National Sleep Foundation and its family of Web sites, and, (c) act in urgent circumstances to protect the personal safety of users of Sleep.org by the National Sleep Foundation, its Web sites, or the public.</p>
+<p><strong>CHANGES TO THIS PRIVACY POLICY</strong></p>
+<p>Sleep.org by the National Sleep Foundation may change this Privacy Policy without notice. Sleep.org by the National Sleep Foundation will post the changed Privacy Policy on this Site.</p>
+<p><strong>CONTACT INFORMATION</strong></p>
+<p>If you have any questions about Sleep.org by the National Sleep Foundation’s Privacy Policy, please contact us using the information on the contact page of the Site.</p>
+            </div>
+        </div>
+
+    
+    </div>
+
+
+<div class="email-signup-footer" id="footerForm">
+    <script type="text/javascript">(function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
+</script><!-- MailChimp for WordPress v4.1.10 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-2" class="mc4wp-form mc4wp-form-2038" method="post" data-id="2038" data-name="Sleep.org Mail Chimp"><div class="mc4wp-form-fields"><div class="ctct-embed-signup">
+  <h2>Newsletter Updates</h2>
+  <div class="expand">
+   <p data-id="Email Address:p">
+   <label data-name="email" class="ctct-form-required access" for="EMAIL">Email Address</label> 
+   <input type="email" name="EMAIL" placeholder="Enter your email, please" required="">
+   <button type="submit" class="Button ctct-button Button--block Button-secondary" data-enabled="enabled"><span class="btn-fix"><span class="icon-envelope-o">Sign Up</span></span></button>
+   </p>
+  </div>
+  <button type="button" class="expand-btn"><span class="btn-fix"><span class="icon-envelope-o">SignUp</span></span></button>
+  <div style="clear:both;"></div>
+ </div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off"></label><input type="hidden" name="_mc4wp_timestamp" value="1538418640"><input type="hidden" name="_mc4wp_form_id" value="2038"><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-2"></div><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin -->    <!-- </div> -->
+
+</div>
+<footer class="footer js-footer-waypoint">
+    <nav role="navigation">
+        <div class="row footer__content">
+            <div class="col-xs-12 col-sm-3">
+                <div class="footer__logo-wrapper">
+                    <a href="http://sleepfoundation.org/">
+                        <img class="footer__logo" src="https://www.sleep.org/wp-content/themes/sleep/assets/img/nsf-footer-logo.svg" alt="National Sleep Foundation Logo">
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-xs-12 col-sm-9">
+                <div class="footer__categories">
+                    <ul class="footer__category-wrapper row">
+                        <li class="footer__category"><a class="footer__link footer__link--heading" href="https://www.sleep.org/about/">About</a>
+                            <ul class="footer__text-wrapper">
+                                                            </ul>
+                        </li>
+
+                        <li class="footer__category"><a class="footer__link footer__link--heading" href="https://www.sleep.org/articles/">Articles</a>
+                            <ul class="footer__text-wrapper">
+                                <li class="footer__text"><a class="footer__link" href="https://www.sleep.org/topic/sleep-science/">Science</a></li>
+                                <li class="footer__text"><a class="footer__link" href="https://www.sleep.org/topic/bedroom/">Bedroom</a></li>
+                                <li class="footer__text"><a class="footer__link" href="https://www.sleep.org/topic/lifestyle/">Lifestyle</a></li>
+                                <li class="footer__text"><a class="footer__link" href="https://www.sleep.org/topic/age/">Age</a></li>
+                            </ul>
+                        </li>
+                                                    <li class="footer__category">
+                                <a href="#" class="footer__link footer__link--heading js-modal-trigger" data-target="login-modal">Login</a>
+                                <ul class="footer__text-wrapper">
+                                    <li class="footer__text"><a class="footer__link js-modal-trigger" data-target="login-modal">Login</a></li>
+                                    <li class="footer__text"><a class="footer__link js-modal-trigger" data-target="register-modal">Register</a></li>
+                                </ul>
+                            </li>
+                        
+                        <li class="footer__category">
+                            <ul class="footer__text-wrapper">
+                                <li class="footer__text footer__link--first"><a class="footer__link" href="https://www.sleep.org/privacy-policy/">Privacy</a></li>
+                                <li class="footer__text"><a class="footer__link" href="https://www.sleep.org/terms-of-service/">Terms of Service</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="footer__category">
+                            <ul class="footer__text-wrapper footer__text-wrapper--social row">
+                                                                        <div class="col-sm-4 col-xs-6">
+                                            <li class="footer__text footer__text--social">
+                                                <a target="_blank" class="footer__link--social" href="https://www.facebook.com/nationalsleepfoundation">
+                                                    <span class="icon-facebook"></span>
+                                                </a>
+                                            </li>
+                                        </div>
+                                                                                <div class="col-sm-4 col-xs-6">
+                                            <li class="footer__text footer__text--social">
+                                                <a target="_blank" class="footer__link--social" href="https://twitter.com/sleepfoundation">
+                                                    <span class="icon-twitter"></span>
+                                                </a>
+                                            </li>
+                                        </div>
+                                                                                <div class="col-sm-4 col-xs-6">
+                                            <li class="footer__text footer__text--social">
+                                                <a target="_blank" class="footer__link--social" href="http://www.pinterest.com/sleepfoundation">
+                                                    <span class="icon-pinterest"></span>
+                                                </a>
+                                            </li>
+                                        </div>
+                                                                                <div class="col-sm-4 col-xs-6">
+                                            <li class="footer__text footer__text--social">
+                                                <a target="_blank" class="footer__link--social" href="https://www.youtube.com/user/NatlSleepFoundation">
+                                                    <span class="icon-youtube"></span>
+                                                </a>
+                                            </li>
+                                        </div>
+                                                                    </ul>
+                        </li>
+
+                    </ul>
+
+                </div>
+            </div>
+        </div>
+    </nav>
+</footer>
+<!--modals-->
+
+<div id="newsletter-modal" class="modal js-modal">
+    <div class="modal__inner modal--newsletter container">
+
+        <h2 class="modal__dismiss-wrapper">
+            <a class="modal__dismiss js-modal__dismiss">
+                <img src="https://www.sleep.org/wp-content/themes/sleep/assets/img/icons/x.svg" alt="" class="modal__dismiss-icon">
+            </a>
+        </h2>
+
+        <div class="row logo-row">
+            <!-- <div class="col-md-4 col-md-offset-4 col-sm-6 col-sm-offset-3"> -->
+            <div class="col-sm-4 col-sm-offset-4 col-xs-6 col-xs-offset-3">
+                <img class="nsf-logo img-responsive" src="https://www.sleep.org/wp-content/themes/sleep/assets/img/nsf-logo.png">
+            </div>
+        </div>
+
+        <div class="row prompt-row">
+            <div class="col-xs-12 col-sm-10 col-md-8 center-block">
+                <h3 class="text-centered login-prompt">
+                    NEWSLETTER SIGN UP
+                </h3>
+                <p>
+                    Sign up for exciting news from Sleep.org and the National Sleep Foundation. Want more personalized information? Please provide your zip code, gender and age range. We can't wait to help you #takebackyoursleep. 
+                </p>
+            </div>
+        </div>
+
+        <div class="row login-form-row">
+            <div class="col-xs-12 col-sm-10 col-md-8 center-block">
+                <form method="post" action="https://www.sleep.org/thank-you">
+                    <div class="row sleep-tips-row">
+
+                        <div class="col-sm-12">
+                            <div class="form-group">
+                                <span class="form-label form-label--small">
+                                    <span class="primary">Email</span>
+
+                                </span>
+                                <input type="text" class="form-input" name="email">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                                <span class="form-label form-label--small">
+                                    <span class="primary">Zip Code</span>
+
+                                </span>
+                                <input type="text" class="form-input" name="zip">
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6">
+                            <div class="form-group clearfix">
+                                <span class="form-label form-label--small">
+                                    <span class="primary">Gender</span>
+                                </span>
+                                <div class="form-input__radio">
+                                    <input type="radio" value="male" id="form-radio" name="gender">
+                                    <label for="form-radio"></label>
+                                </div>
+                                <div class="form-input__radio__label">Male</div>
+                                <div class="form-input__radio">
+                                    <input type="radio" value="female" id="form-radio2" name="gender">
+                                    <label for="form-radio2"></label>
+                                </div>
+                                <div class="form-input__radio__label">Female</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="form-group">
+                                <div class="row">
+                                    <span class="form-label form-label--small col-xs-12">
+                                        <span class="primary">Age Range</span>
+                                    </span>
+                                                                        <div class="col-xs-6 col-sm-6 col-md-3">
+                                        <div class="form-input__radio">
+                                            <input type="radio" value=">18" id="form-radio->18" name="age">
+                                            <label for="form-radio->18"></label>
+                                        </div>
+                                        <div class="form-input__radio__label">&gt;18</div>
+
+                                    </div>
+                                                                        <div class="col-xs-6 col-sm-6 col-md-3">
+                                        <div class="form-input__radio">
+                                            <input type="radio" value="18-34" id="form-radio-18-34" name="age">
+                                            <label for="form-radio-18-34"></label>
+                                        </div>
+                                        <div class="form-input__radio__label">18-34</div>
+
+                                    </div>
+                                                                        <div class="col-xs-6 col-sm-6 col-md-3">
+                                        <div class="form-input__radio">
+                                            <input type="radio" value="35-44" id="form-radio-35-44" name="age">
+                                            <label for="form-radio-35-44"></label>
+                                        </div>
+                                        <div class="form-input__radio__label">35-44</div>
+
+                                    </div>
+                                                                        <div class="col-xs-6 col-sm-6 col-md-3">
+                                        <div class="form-input__radio">
+                                            <input type="radio" value="45-54" id="form-radio-45-54" name="age">
+                                            <label for="form-radio-45-54"></label>
+                                        </div>
+                                        <div class="form-input__radio__label">45-54</div>
+
+                                    </div>
+                                                                        <div class="col-xs-6 col-sm-6 col-md-3">
+                                        <div class="form-input__radio">
+                                            <input type="radio" value="55+" id="form-radio-55+" name="age">
+                                            <label for="form-radio-55+"></label>
+                                        </div>
+                                        <div class="form-input__radio__label">55+</div>
+
+                                    </div>
+                                    
+                                </div>
+                            </div>
+
+
+                            <input type="hidden" name="newsletter" value="true">
+                            <div class="row retake-quiz-action-row">
+                                <div class="col-md-4 col-md-offset-4">
+                                    <div class="dashboard__btn-wrapper">
+                                        <button class="btn btn--solid-green btn--dashboard">Sign up</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+
+
+            </div>
+        </div>
+    </div>
+</div>
+    
+
+    <div class="modal js-modal " id="login-modal">
+    <div class="modal__inner modal--login container">
+
+        <h2 class="modal__dismiss-wrapper">
+            <a class="modal__dismiss js-modal__dismiss">
+                <img src="https://www.sleep.org/wp-content/themes/sleep/assets/img/icons/x.svg" alt="" class="modal__dismiss-icon">
+            </a>
+        </h2>
+
+        <div class="col-sm-4 col-sm-offset-4 col-xs-8 col-xs-offset-2">
+            <img class="img-responsive" src="https://www.sleep.org/wp-content/themes/sleep/assets/img/nsf-logo.png">
+        </div>
+
+        <div class="row prompt-row">
+            <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2 col-xs-12">
+                <h3 class="text-centered login-prompt">
+                  Want to leave a comment? <span class="break-on-mobile">Sign up or sign in to sleep.org</span>
+                </h3>
+            </div>
+        </div>
+
+        <div class="row login-form-row">
+            <div class="col-xs-12 col-sm-8 center-block">
+
+                <form name="loginform" id="loginform" action="https://www.sleep.org/wp-login.php" method="post">
+                            
+                    <div class="form-group">
+                        <span class="login-form-label">Username</span>
+                        <!-- <input type="text" name="log" id="user_login" class="login-form__email-input" placeholder="Username" /> -->
+                        <input type="text" name="log" id="user_login" class="form-input" placeholder="Username">
+                    </div>
+                    <div class="form-group">
+                        <span class="login-form-label">Password</span>
+                        <!-- <input type="password" name="pwd" id="user_pass" class="login-form__email-input" placeholder="Password" /> -->
+                        <input type="password" name="pwd" id="user_pass" class="form-input" placeholder="Password">
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12 center-content">
+                            <input type="submit" name="wp-submit" id="wp-submit" class="btn btn--green" value="Log In">
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12 login-form__sign-up">
+                            <a href="https://www.sleep.org/wp-login.php?action=register" class="login-form__sign-up-link">Register</a> | 
+                            <a href="https://www.sleep.org/wp-login.php?action=lostpassword" class="login-form__sign-up-link">Lost your password?</a>
+                        </div>
+                    </div>
+                    <!-- <div class="col-md-7 col-sm-7">
+                        <h3 class="login-form__sign-up-wrapper">
+                            <a data-target="register-modal" class="login-form__sign-up js-modal-trigger js-modal__dismiss">Need an account? Sign Up</a>
+                        </h3>
+                    </div> -->
+
+                    
+                </form>
+
+            </div>
+        </div>
+
+    </div>  
+</div>
+
+    <div id="register-modal" class="modal js-modal">
+    <div class="modal__inner container">
+        <h2 class="modal__dismiss-wrapper">
+            <a class="modal__dismiss js-modal__dismiss">
+                <img src="https://www.sleep.org/wp-content/themes/sleep/assets/img/icons/x.svg" alt="" class="modal__dismiss-icon">
+            </a>
+        </h2>
+
+        <div class="col-sm-4 col-sm-offset-4 col-xs-6 col-xs-offset-3">
+            <img class="img-responsive" src="https://www.sleep.org/wp-content/themes/sleep/assets/img/nsf-logo.png">
+        </div>
+
+        <div class="row prompt-row">
+            <div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 col-xs-12">
+                <h3 class="text-centered login-prompt">
+                  Want to leave a comment and view a personalized feed of Sleep.org articles? Sign up for a sleep.org account and take our sleep personality quiz! 
+                </h3>
+            </div>
+        </div>
+
+        <div class="login-form-row">
+            <div class="col-xs-12 col-sm-8 center-block">
+                    
+    <form class="" action="https://www.sleep.org/wp-login.php?action=register" method="post">
+        <div class="row">
+            <div class="form-group">
+                <label class="form-label form-label--small">Username</label>
+                <input type="text" name="user_login" placeholder="Username" id="user_login" class="form-input">
+            </div>
+
+            <div class="form-group">
+                <label class="form-label form-label--small">Email</label>
+                <input type="text" name="user_email" placeholder="E-Mail" id="user_email" class="form-input">
+            </div>
+        
+
+            <div class="quiz-slide--result__answers js--insert-into-reg-form"></div>
+           
+            <input type="hidden" class="registration--newsletter" name="newsletter" value="false">
+            <input type="hidden" class="registration--age" name="age" value="">
+            <input type="hidden" class="registration--zip" name="zip" value="">
+            <input type="hidden" class="registration--gender" name="gender" value="">
+
+
+            <div class="js--insert-into-reg-form">
+                            </div>
+        
+            <div class="quiz-slide--result__answers js--insert-into-reg-form"></div>
+            <input type="hidden" name="redirect_to" value="https://www.sleep.org/thank-you">
+        </div>
+
+        <div class="center-content">
+            <div class="row">
+                <div class="form-group">
+                    <input type="submit" value="Register" class="btn btn--green" id="register">
+                </div>
+            </div> 
+        </div>
+         <div class="row">
+            <div class="col-sm-12 login-form__sign-up">
+                <a class="login-form__sign-up-link js-modal-trigger" data-target="login-modal">Login</a> | 
+                <a href="https://www.sleep.org/wp-login.php?action=lostpassword" class="login-form__sign-up-link">Lost your password?</a>
+            </div>
+        </div>     
+        
+    </form>  
+    
+            </div>
+        </div>
+    </div>
+</div>    
+<div class="modal js-modal" id="demographics-modal">
+    <div class="modal__inner container">
+        <h2 class="modal__dismiss-wrapper">
+            <a class="modal__dismiss js-modal__dismiss">
+                <img src="https://www.sleep.org/wp-content/themes/sleep/assets/img/icons/x.svg" alt="" class="modal__dismiss-icon">
+            </a>
+        </h2>
+
+        <div class="row logo-row">
+            <div class="col-sm-4 col-sm-offset-4 col-xs-6 col-xs-offset-3">
+                <img class="nsf-logo img-responsive" src="https://www.sleep.org/wp-content/themes/sleep/assets/img/nsf-logo.png">
+            </div>
+        </div>
+
+        <div class="row prompt-row">
+            <div class="col-xs-12 col-sm-10 col-md-8 center-block">
+                <h3 class="text-centered login-prompt">
+                    NEWSLETTER SIGN UP
+                </h3>
+                <p>
+                    Sign up for exciting news from Sleep.org and the National Sleep Foundation. Want more personalized information? Please provide your zip code, gender and age range. We can't wait to help you #takebackyoursleep.
+                </p>
+            </div>
+        </div>
+
+        <div class="row login-form-row">
+            <div class="col-xs-12 col-sm-10 col-md-8 center-block">
+                <form>
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                                <span class="form-label form-label--small">
+                                    <span class="primary">Zip Code</span>
+
+                                </span>
+                                <input type="text" class="form-input">
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6">
+                            <div class="form-group clearfix gender-radios">
+                                <span class="form-label form-label--small">
+                                    <span class="primary">Gender</span>
+                                </span>
+                                <div class="form-input__radio">
+                                    <input type="radio" value="male" id="demographics-radio--gender" name="gender">
+                                    <label for="demographics-radio--gender"></label>
+                                </div>
+                                <div class="form-input__radio__label">Male</div>
+                                <div class="form-input__radio">
+                                    <input type="radio" value="female" id="demographics-radio--gender2" name="gender">
+                                    <label for="demographics-radio--gender2"></label>
+                                </div>
+                                <div class="form-input__radio__label">Female</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="form-group age-radios">
+                                <div class="row">
+                                    <span class="form-label form-label--small col-xs-12">
+                                        <span class="primary">Age Range</span>
+                                    </span>
+                                                                        <div class="col-xs-6 col-sm-6 col-md-3">
+                                        <div class="form-input__radio">
+                                            <input type="radio" value=">18" id="form-radio-demo->18" name="age">
+                                            <label for="form-radio-demo->18"></label>
+                                        </div>
+                                        <div class="form-input__radio__label">&gt;18</div>
+                                    </div>
+                                                                        <div class="col-xs-6 col-sm-6 col-md-3">
+                                        <div class="form-input__radio">
+                                            <input type="radio" value="18-34" id="form-radio-demo-18-34" name="age">
+                                            <label for="form-radio-demo-18-34"></label>
+                                        </div>
+                                        <div class="form-input__radio__label">18-34</div>
+                                    </div>
+                                                                        <div class="col-xs-6 col-sm-6 col-md-3">
+                                        <div class="form-input__radio">
+                                            <input type="radio" value="35-44" id="form-radio-demo-35-44" name="age">
+                                            <label for="form-radio-demo-35-44"></label>
+                                        </div>
+                                        <div class="form-input__radio__label">35-44</div>
+                                    </div>
+                                                                        <div class="col-xs-6 col-sm-6 col-md-3">
+                                        <div class="form-input__radio">
+                                            <input type="radio" value="45-54" id="form-radio-demo-45-54" name="age">
+                                            <label for="form-radio-demo-45-54"></label>
+                                        </div>
+                                        <div class="form-input__radio__label">45-54</div>
+                                    </div>
+                                                                        <div class="col-xs-6 col-sm-6 col-md-3">
+                                        <div class="form-input__radio">
+                                            <input type="radio" value="55+" id="form-radio-demo-55+" name="age">
+                                            <label for="form-radio-demo-55+"></label>
+                                        </div>
+                                        <div class="form-input__radio__label">55+</div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row retake-quiz-action-row">
+                        <div class="center-content">
+                            <div class="dashboard__btn-wrapper">
+                                <button class="js--submit-demographics js-modal__dismiss btn btn--solid-green btn--dashboard">Save Changes</button>
+                            </div>
+                        </div>
+                    </div>
+
+                </form>
+
+
+        </div>
+    </div>
+</div>
+
+
+
+<script type="text/javascript" async="" src="//platform.twitter.com/widgets.js"></script>
+
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
             (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
         m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
     ga('create', 'UA-53386509-1', 'auto');
-    ga('send', 'pageview');</script> <script type="text/javascript">window._tfa = window._tfa || [];
-    _tfa.push({notify:"action", name: 'page_view'});</script> <script>(function() {
+    ga('send', 'pageview');
+
+</script>
+<script type="text/javascript">
+    window._tfa = window._tfa || [];
+    _tfa.push({notify:"action", name: 'page_view'});
+</script>
+
+
+<script>(function() {
         var _fbq = window._fbq || (window._fbq = []);
         if (!_fbq.loaded) {
             var fbds = document.createElement('script');
@@ -52,7 +850,18 @@ var ajaxurl = "https:\/\/sleep.org\/wp-admin\/admin-ajax.php";
         _fbq.push(['addPixelId', '927162357317549']);
     })();
     window._fbq = window._fbq || [];
-    window._fbq.push(['track', 'PixelInitialized', {}]);</script> <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=927162357317549&amp;ev=PixelInitialized" /></noscript> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-57169c71e0a51a5f"></script>  <script>function utmx_section(){}function utmx(){}(function(){var
+    window._fbq.push(['track', 'PixelInitialized', {}]);
+
+    </script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=927162357317549&amp;ev=PixelInitialized" /></noscript>
+
+<script src="https://www.sleep.org/wp-content/themes/sleep/js/v2.js"></script>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-57169c71e0a51a5f"></script>
+
+
+<!-- Google Analytics Content Experiment code -->
+<script>function utmx_section(){}function utmx(){}(function(){var
         k='89286216-0',d=document,l=d.location,c=d.cookie;
         if(l.search.indexOf('utm_expid='+k)>0)return;
         function f(n){if(c){var i=c.indexOf(n+'=');if(i>-1){var j=c.
@@ -62,7 +871,10 @@ var ajaxurl = "https:\/\/sleep.org\/wp-admin\/admin-ajax.php";
                 '://www')+'.google-analytics.com/ga_exp.js?'+'utmxkey='+k+
             '&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='+new Date().
             valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
-            '" type="text/javascript" charset="utf-8"><\/sc'+'ript>')})();</script><script src="https://ssl.google-analytics.com/ga_exp.js?utmxkey=89286216-0&amp;utmx=&amp;utmxx=&amp;utmxtime=1580375138249" type="text/javascript" charset="utf-8"></script><script>utmx('url','A/B');</script>  <script type="text/javascript">(function() {function addEventListener(element,event,handler) {
+            '" type="text/javascript" charset="utf-8"><\/sc'+'ript>')})();
+</script><script src="https://ssl.google-analytics.com/ga_exp.js?utmxkey=89286216-0&amp;utmx=&amp;utmxx=&amp;utmxtime=1580375130632" type="text/javascript" charset="utf-8"></script><script>utmx('url','A/B');</script>
+<!-- End of Google Analytics Content Experiment code -->
+<script type="text/javascript">(function() {function addEventListener(element,event,handler) {
 	if(element.addEventListener) {
 		element.addEventListener(event,handler, false);
 	} else if(element.attachEvent){
@@ -96,15 +908,35 @@ if( testInput.type !== 'date') {
 	}
 }
 
-})();</script> <script type="text/javascript">/*  */
-var ajax_object = {"ajaxurl":"https:\/\/sleep.org\/wp-admin\/admin-ajax.php"};
-/*  */</script> <script type="text/javascript">/*  */
-var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
-/*  */</script> <script type="text/javascript">/*  */
+})();</script><script type="text/javascript" src="https://www.sleep.org/wp-content/themes/sleep/assets/js/vendor.addAds.js"></script>
+<script type="text/javascript" src="https://www.sleep.org/wp-content/themes/sleep/assets/js/app.addAds.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var ajax_object = {"ajaxurl":"https:\/\/www.sleep.org\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.sleep.org/wp-content/themes/sleep/js/main.js"></script>
+<script type="text/javascript" src="https://www.sleep.org/wp-includes/js/comment-reply.min.js?ver=4.9.8"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.sleep.org\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.sleep.org/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9"></script>
+<script type="text/javascript" src="https://www.sleep.org/wp-includes/js/wp-embed.min.js?ver=4.9.8"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
 var mc4wp_forms_config = [];
-/*  */</script> <!--[if lte IE 9]> <script type='text/javascript' src='https://sleep.org/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js?ver=4.0.11'></script> <![endif]--> <script type="text/javascript" defer="" src="https://sleep.org/wp-content/cache/autoptimize/js/autoptimize_c603de69051e6b11e57626e9ff6861c2.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b50b4dcac7","applicationID":"14876218","transactionName":"YFFbbBNRCkBWBUQLW1kbeFsVWQtdGBZRBVE=","queueTime":0,"applicationTime":220,"atts":"TBZYGltLGU4=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.sleep.org/wp-content/plugins/mailchimp-for-wp/assets/js/forms-api.min.js?ver=4.1.10"></script>
+<!--[if lte IE 9]>
+<script type='text/javascript' src='https://www.sleep.org/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js?ver=4.1.10'></script>
+<![endif]-->
+
+           
 <!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
 
 Minified using disk
 
- Served from: sleep.org @ 2017-01-26 09:47:15 by W3 Total Cache --></div></body></html>
+ Served from: appserver-84560450.c.pantheon-dmz.internal @ 2018-10-01 18:30:40 by W3 Total Cache --></div></body></html>
