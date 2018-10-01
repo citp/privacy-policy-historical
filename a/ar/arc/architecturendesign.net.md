@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the architecturendesign.net privacy policy that was archived on 2017-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170814135035id_/https%3A//www.architecturendesign.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architecturendesign.net privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001173726id_/https%3A//www.architecturendesign.net/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Architecture & Design
-
-Advertisement 
 
 ### Privacy Policy
 
@@ -53,7 +51,5 @@ We may use cookies on the website for the purpose of monitoring your and other u
 We may change some of the statements in this Privacy Policy at any time. We will prominently post notice of the changes at this URL. Any material changes to this Privacy Policy will be effective when posted.
 
 Your continued use of this site following the posting of any amendment, modification or change shall constitute your acceptance thereof.
-
-Advertisement 
 
 ### Share your Thoughts
