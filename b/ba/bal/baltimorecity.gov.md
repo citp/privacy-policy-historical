@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baltimorecity.gov privacy policy that was archived on 2018-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180302172956id_/http%3A//www.baltimorecity.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baltimorecity.gov privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001182633id_/http%3A//www.baltimorecity.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | City of Baltimore
 
@@ -26,7 +26,7 @@ The City of Baltimore will not sell, rent or lease your personally identifiable 
 
 ### Access
 
-Links to third party Web sites on the site are provided solely as a convenience to you. If you use these links, you will leave the the City of Baltimore site. The City of Baltimore has not reviewed all of these third party sites and does not control or is not responsible for any of these sites, their content or their privacy policy. Thus, the City of Baltimore does not endorse or make any representations about them, or any information, software or products or materials found there. If you decide to access any of the third party sites linked to this site, you do so at your own risk.
+Links to third party Web sites on the site are provided solely as a convenience to you. If you use these links, you will leave the City of Baltimore site. The City of Baltimore has not reviewed all of these third party sites and does not control or is not responsible for any of these sites, their content or their privacy policy. Thus, the City of Baltimore does not endorse or make any representations about them, or any information, software or products or materials found there. If you decide to access any of the third party sites linked to this site, you do so at your own risk.
 
 ### Security
 
