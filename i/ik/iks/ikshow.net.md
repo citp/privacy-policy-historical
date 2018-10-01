@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ikshow.net privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625001149id_/http%3A//ikshow.net/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ikshow.net privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001065120id_/http%3A//ikshow.net/page/privacy) for the most accurate reproduction.*
 
 # Privacy
 
