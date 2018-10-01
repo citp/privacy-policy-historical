@@ -1,89 +1,139 @@
-> *The following text is extracted and transformed from the soul-source.co.uk privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628092810id_/https%3A//www.soul-source.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soul-source.co.uk privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002014800id_/https%3A//www.soul-source.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Soul Source
 
-**Cookies**
+**Soul Source  Privacy Policy**
 
-Google: We do use Google Adsense service to display the advertising that supports Soul Source. For that to work effectively they will use cookies to store data and access data about your use of this website.  
+ **Key details**
+
+This website privacy policy describes how **Soul Source** protects and makes use of the information you give the company when you use this website. 
+
+If you are asked to provide information when using this website, it will only be used in the ways described in this privacy policy.  
+This policy is updated from time to time. The latest version is published on this page. 
+
+This website privacy policy was updated on: **  10 September 2018 **If you have any questions about this policy, please send an email to support@telasource.com 
+
+  
+**Introduction**
+
+We gather and use certain information about individuals in order to provide products and services and to enable certain functions on this website. 
+
+We also collect information to better understand how visitors use this website and to present timely, relevant information to them. 
+
+**What data we gather**
+
+We may collect the following information: 
+
+  * Name and title 
+  * Contact information including email address 
+  * Demographic information, such as postcode, preferences and interests 
+  * Website usage data 
+  * Other information relevant to client enquiries 
+  * Other information pertaining to special offers and surveys 
+
+
+
+**How we use this data**
+
+Collecting this data helps us understand what you are looking from the company, enabling us to deliver improved products and services. 
+
+Specifically, we may use data: 
+
+  * For our own internal records. 
+  * To improve the products and services we provide. 
+  * To contact you in response to a specific enquiry. 
+  * To customise the website for you. 
+  * To send you promotional emails about products, services, offers and other things we think might be relevant to you. 
+  * To send you promotional mailings or to call you about products, services, offers and other things we think might be relevant to you. 
+
+
+
+  
+**Cookies and how we use them**
+
+**What is a cookie?**
+
+A cookie is a small file placed on your computer's hard drive. It enables our website to identify your computer as you view different pages on our website. 
+
+Cookies allow websites and applications to store your preferences in order to present content, options or functions that are specific to you. They also enable us to see information like how many people use the website and what pages they tend to visit. 
+
+  
+**How we use cookies**
+
+We may use cookies to: 
+
+  * Analyse our web traffic using an analytics package. Aggregated usage data helps us improve the website structure, design, content and functions. 
+  * Identify whether you are signed in to our website. A cookie allows us to check whether you are signed in to the site. 
+  * Test content on our website. For example, 50% of our users might see one piece of content, the other 50% a different piece of content. 
+  * Store information about your preferences. The website can then present you with the information that you will find more relevant and interesting. 
+  * To recognise when you return to our website. We may show your relevant content, or provide functionality you used previously. 
+  * Cookies do not provide us with access to your computer or any information about you, other than that which you choose to share with us. 
+
+
+
+  
+**Controlling cookies**  
+You can use your web browser’s cookie settings to determine how our website uses cookies. If you do not want our website to store cookies on your computer or device, you should set your web browser to refuse cookies. 
+
+However, please note that doing this may affect how our website functions. Some pages and services may become unavailable to you. 
+
+Unless you have changed your browser to refuse cookies, our website will issue cookies when you visit it. 
+
+To learn more about cookies and how they are used, visit [All About Cookies.](http://www.allaboutcookies.org/)
+
+  
+**Controlling information about you**  
+When you fill in a form or provide your details on our website, you will see one or more tickboxes allowing you to: 
+
+  * Opt-in to receive marketing communications from us by email, telephone, text message or post. 
+  * Opt-in to receive marketing communications from our third-party partners by email, telephone, text message or post. 
+
+
+
+If you have agreed that we can use your information for marketing purposes, you can change your mind easily, via one of these methods: 
+
+  * Sign in to our website and change your opt-in settings. 
+  * Send an email to support@telasource.com or 'contact us' via this link  - <https://www.soul-source.co.uk/contact/> ****
+
+
+
+We will never lease, distribute or sell your personal information to third parties unless we have your permission or the law requires us to. 
+
+Any personal information we hold about you is stored and processed under our data protection policy, in line with the Data Protection Act 1998. 
+
+  
+**Security**
+
+We will always hold your information securely. 
+
+To prevent unauthorised disclosure or access to your information, we have implemented strong physical and electronic security safeguards. 
+
+We also follow stringent procedures to ensure we work with all personal data in line with the Data Protection Act 1998.
+
+ **Links from our site**
+
+Our website may contain links to other websites. 
+
+Please note that we have no control of websites outside the soul-source.co.uk domain. If you provide information to a website to which we link, we are not responsible for its protection and privacy. 
+
+Always be wary when submitting data to websites. Read the site’s data protection and privacy policies fully. 
+
+**Google**
+
+We do use Google Adsense service to display the advertising that supports Soul Source. For that to work effectively they will use cookies to store data and access data about your use of this website.  
 
 You can learn more about how Google use this data and how to opt out if you choose here:  <http://www.google.com/intl/en/policies/privacy/partners/>
 
-This website does not store any information that would, on its own, allow us to identify any individual user of this website. Soul Source Cookies are not shared with any third parties. 
+### Third Parties
 
-More specifically, the Cookies we use are to:
+**Google Analytics**
 
-1\. Maintain your session, such as keeping you logged in for the duration of your visit.
+Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this website, to prepare reports on its activities and share them with other Google services.
 
-2\. Temporarily store your topic "unread" markers before they are saved to our database.
+**Spam Defense**
 
-3\. Anonymously measure use of this website in order to improve the experience for all users.
+The IPS Spam Defense Service passes the email address and IP address of the registering member to the service to determine the likelihood a registering account is a spam source.
 
-4\. Submit data to your Facebook and Twitter account(s), should this be enabled in your settings area. (Please see their Privacy Policies for more information as to how they use your information)
+**reCAPTCHA V2**
 
-With the exception of number 4 (which can be disabled in your settings area), these Cookies are required by this website in order to allow it to function correctly. If you do not agree to these cookies, please do not proceed with logging in to the website or registering. Disabling cookies in your web browser will give you a very limited, if not unusable experience of our website because of these limitations.
-
-There may be also be third party cookies from youtube, ebay and google depending on the features you use
-
-Full info and opt out details can be found on their respective websites
-
-**Continued use of this site is taken to mean that your are agreeing to the above information to be gathered.**
-
-You can find out more about the way cookies work and how to disable them on both
-
-<http://cookies.insites.com/> and [http://www.allaboutcookies.org](http://www.allaboutcookies.org/)
-
-**Privacy Policy**
-
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested, such as on our logon screen and registration page.
-
-**Website Logs**
-
-As with all websites, log files are maintained of all requests for files on this website's web servers. Log files capture your IP address, but do not capture any other personal information. This IP address is automatically recognised by our web servers and can only be used to personally identify you by your Internet Service Provider, and not by the administrators of this website.
-
-Telasource understands and respects the rights of individuals privacy and is committed in providing on-line data security. This privacy statement explains how data is handled whilst you browse and submit information through the website and your options regarding the ways in which your data is used.
-
-**Use of Information, Data Protection and Internet Privacy**
-
-Telasource is concerned for the privacy of visitors to its web sites; protection of privacy is extremely important to us. Whenever you provide such personal information, we will treat that information in accordance with this policy. Telasource will act in accordance with current legislation and aim to meet current Internet best practice. This statement will be continuously assessed against new technologies and business practices.However, please remember that the security of information transmitted over the Internet cannot be assured.
-
-The following sections generally describe the types of information collected at Telasource sites and the uses made of it.
-
-**Personally Identifiable Information**
-
-From time to time, you will be asked to submit personal information about yourself (e.g. name and email address) in order to receive or use services on our website. Such services include newsletters, competitions, forum and soul-source membership.
-
-By entering your details in the fields requested, you enable telasource to provide you with the services you select. Whenever you provide such personal information, we will treat that information in accordance with this policy.
-
-Any further details you choose to supply about yourself when you register are provided at your own discretion.
-
-We also allow users to update their personal information at any time.
-
-**Non-Personally Identifiable Information**
-
-Telasource also collects non-personally identifiable information in aggregate form to track data such as the total number of visits to our web sites, the number of visitors to each page of our web sites, and the domain names of our visitors' internet service providers. We use this information, which remains in aggregate form, to understand how our visitors use our web sites so that we may improve them. NO PERSONALLY IDENTIFIABLE INFORMATION IS DISCLOSED IN THIS PROCESS.
-
-**Use of IP Addresses**
-
-An Internet Protocol (IP) address is a set of numbers that is automatically assigned to your computer whenever you log on to your internet service provider or through your organisation's local area network (LAN) or wide area network (WAN). Web servers automatically identify your computer by the IP address assigned to it during your session online. Telasource may collect IP addresses for the purposes of systems administration and to audit the use of our site. The forums and comments section may display IP addresses along with the message poster's name and message.We do not ordinarily link a user's IP address to personally identifiable information of that user, which means each user's session will be logged, but the user remains anonymous to us. However, we may use IP addresses to identify users of our site when we feel it is necessary to enforce compliance with the site's terms of use, or to protect our service, site or other users.
-
-**Links to Other Web Sites**
-
-Telasource websites provide links to third party websites as a service to our users. The privacy policy described here does not apply to those sites. Please ensure you check the legal and privacy policy sections of any site you link to.
-
-**Security**
-
-Telasource has security measures in place to attempt to protect against the loss, misuse and alteration of your user data under our control. . Whilst we cannot guarantee that loss, misuse or alteration to data will not occur, we make every effort to prevent such unfortunate occurrences.
-
-**Sharing Personally Identifiable Information with Third Parties**
-
-Telasource will not sell or rent personally identifiable information to any third party for any purpose. In certain special cases, we may disclose your personally identifiable information in the following circumstances: (i) when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to you, or otherwise injuring or interfering with Telasource's rights, property or operations, other users of this site, or anyone else who could be harmed by such activities(ii) when we believe the law requires it, or in response to any demand by law enforcement authorities in connection with a criminal investigation, or civil or administrative authorities in connection with a pending civil case or administrative investigation.
-
-**Binding Nature**
-
-By submitting personal data you agree to be bound by our privacy policy and agree that Telasource may, in its sole discretion, disclose information about you in the circumstances and to the extent set out in this policy.
-
-**Changes**
-
-Any changes to this privacy policy will be communicated promptly on this page.
-
-Updated 3rd February 2017
+This site uses a CAPTCHA to ensure humans are performing certain actions. The CAPTCHA provider may set a session cookie and get information about your internet browser and device accessing this website.
