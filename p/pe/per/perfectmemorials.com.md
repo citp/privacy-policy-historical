@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfectmemorials.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601104216id_/http%3A//www.perfectmemorials.com/help/general-help/privacy-security/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectmemorials.com privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001135203id_/http%3A//www.perfectmemorials.com/help/general-help/privacy-security/privacy-notice) for the most accurate reproduction.*
 
 # Help - Privacy Notice
 
