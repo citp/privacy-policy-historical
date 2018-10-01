@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the animalpetitions.org privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829153631id_/https%3A//animalpetitions.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animalpetitions.org privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001182026id_/https%3A//animalpetitions.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Animal Petitions
 
-We (“the Company”, “we”, “ForceChange”, “Animal Petitions”, “Limited Liability Company”, or “us”) are a limited liability company and have established this privacy policy to explain to you how your information on ForceChange or Animal Petitions is protected, collected and used, which may be updated by us from time to time.
+We (“the Company”, “we”, “ForceChange”, “Animal Petitions”, “Play4Paws”, “Limited Liability Company”, or “us”) are a limited liability company and have established this privacy policy to explain to you how your information on ForceChange or Animal Petitions is protected, collected and used, which may be updated by us from time to time.
 
 Protecting your privacy
 
