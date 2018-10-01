@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkdrop.net privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921202946id_/http%3A//linkdrop.net/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkdrop.net privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001051749id_/http%3A//linkdrop.net/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
