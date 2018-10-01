@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the votensw.info privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601190149id_/http%3A//www.votensw.info/work_at_these_elections/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the votensw.info privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001091618id_/http%3A//www.votensw.info/work_at_these_elections/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - NSW Local Council Elections 2017
 
