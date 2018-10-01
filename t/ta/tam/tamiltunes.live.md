@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamiltunes.live privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616044554id_/http%3A//tamiltunes.live/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamiltunes.live privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001150500id_/http%3A//tamiltunes.live/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TamilTunes.com - Download Tamil Songs
 
@@ -54,6 +54,6 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [tamiltunes.live](http://tamiltunes.live/)  
 [ http://tamiltunes.live](http://tamiltunes.live/)  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+info@tamilwire.com
 
 This document was last updated on September 09, 2013
