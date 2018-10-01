@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwhealth.org privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006162116id_/http%3A//www.uwhealth.org/about-uwhealth/website-privacy-policy/50422) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwhealth.org privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001234818id_/https%3A//www.uwhealth.org/about-uwhealth/website-privacy-policy/50422) for the most accurate reproduction.*
 
 # Website Privacy Policy | UW Health | Madison, WI
 
@@ -36,7 +36,7 @@ The Site may contain links to other websites, which may have different privacy p
 
 We may change this privacy policy from time to time without prior notice to you. If we change this privacy policy, a new privacy policy that reflects the changes will be posted, with the date it was updated. Please check this page periodically for changes.
 
-If you use this Site, you agree to the terms of this privacy policy and UW Health’s Terms and Conditions, which are on [uwhealth.org](http://www.uwhealth.org/) and incorporated into this Site. Click [here](http://www.uwhealth.org/about-uwhealth/terms-and-conditions/11421) to see the Terms and Conditions. By using this Site, you assume full responsibility for use of any information by UW Health.
+If you use this Site, you agree to the terms of this privacy policy and UW Health’s Terms and Conditions, which are on [uwhealth.org](https://www.uwhealth.org/) and incorporated into this Site. Click [here](https://www.uwhealth.org/about-uwhealth/terms-and-conditions/11421) to see the Terms and Conditions. By using this Site, you assume full responsibility for use of any information by UW Health.
 
 The information on this Site is not intended as a substitute for professional medical advice or care. You should consult with your health care provider with questions regarding any new exercise program or services on you and your treatment plan. 
 
