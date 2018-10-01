@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steemit.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622144810id_/https%3A//steemit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steemit.com privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001190052id_/https%3A//steemit.com/privacy.html) for the most accurate reproduction.*
 
 # Steemit
 
