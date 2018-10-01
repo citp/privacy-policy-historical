@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 6minutestoskinny.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005075111id_/http%3A//6minutestoskinny.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6minutestoskinny.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002011522id_/http%3A//6minutestoskinny.com/privacy.html) for the most accurate reproduction.*
 
 # 6 Minutes to Skinny
 
@@ -108,4 +108,4 @@ US
 
 This policy is powered by Trust Guard [PCI Compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) scans.
 
-Click [here](https://web.archive.org/web/20171005075111id_/http%3A//6minutestoskinny.com/contact.html) to email us.
+Click [here](https://web.archive.org/web/20181002011522id_/http%3A//6minutestoskinny.com/contact.html) to email us.
