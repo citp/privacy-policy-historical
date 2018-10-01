@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swellnet.com.au privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530231713id_/http%3A//www.swellnet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swellnet.com.au privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001062624id_/http%3A//www.swellnet.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Swellnet
 
@@ -9,7 +9,7 @@
 
 
 
-If you have any questions or concerns regarding our privacy policy please direct them to [privacy@swellnet.com](mailto:privacy@swellnet.com).
+If you have any questions or concerns regarding our privacy policy please direct them to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#95b3b6a4a4a7aeb3b6a4a4a1aeb3b6a4a5a0aeb3b6a4a4adaeb3b6a5aca2aeb3b6a5acacaeb3b6a4a7a4aeb3b6a5a3a1aeb3b6a4a4a0aeb3b6a4a4acaeb3b6a4a5a4aeb3b6a4a5adaeb3b6a4a5adaeb3b6a4a4a5aeb3b6a4a5a4aeb3b6a4a4a3aeb3b6a5a1a3aeb3b6a5acacaeb3b6a4a4a4aeb3b6a4a5acae).
 
 You may also send a letter to: 
 
