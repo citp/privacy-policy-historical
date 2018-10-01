@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rentpayment.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611150356id_/https%3A//www.yapstone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentpayment.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002003027id_/https%3A//www.yapstone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy U.S.
 
