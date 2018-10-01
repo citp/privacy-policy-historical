@@ -1,45 +1,133 @@
-> *The following text is extracted and transformed from the modis.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524074408id_/http%3A//www.modis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modis.com privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001164728id_/http%3A//www.modis.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Modis
 
-This privacy policy (“Privacy Policy”) applies to the website you are currently viewing, as well as any other website, owned or operated by or for Adecco Group North America (“Adecco”) to which you may link from this website (collectively, the “Adecco Sites”), and informs you about the type of information that may be collected and used by the Adecco Sites. By visiting or using any of the Adecco Sites, you consent to all collection of personal information, personal data, and other information/data (“Information”), as well as the uses described in this Privacy Policy. 
+Latest update: April 2018
 
-### 1\. Collection of Information
+Adecco Group AG, Bellerivestrasse 30, 8008 Zürich, Switzerland (“Adecco", “we" or “us") is committed to protecting and respecting your privacy.
 
-A. Purpose. Users can access certain features of the Adecco Sites without disclosing Information. Users may be required to register for an account in order to access certain content/portions of the Adecco Sites. B. Information Sought During Registration. The Adecco Sites may ask you to enter, or may collect in other ways, Information including without limitation your name, phone number, email address, geographic location, age or age range, other demographic (personal) information/data, and browser history (Internet sites visited). C. Information Sought During Website Sweepstakes or Contests. When the Adecco Sites offer sweepstakes or contests, Information may be collected with the primary purpose of notifying you if you win the sweepstakes or contest, but such Information may be used for the other purposes described in this Privacy Policy. D. Automatically Collected Information. Information concerning the computer hardware and software you are using when you visit the Adecco Sites may be collected automatically. This information may include: the IP address, browser type, domain names, access times, and referring website addresses. Adecco uses this information primarily to maintain the quality of its service and to provide general statistics about website visitors, but may use the information for any other purpose described in this Privacy Policy. E. Storage and Transfer of Personally Identifiable Information. Adecco may store and process Information in the United States of America or any other country in which Adecco or its affiliates, subsidiaries, or agents—domestic or foreign—maintain facilities. By using the Adecco Sites, you consent to any such transfer of Information outside of the country where you reside, where you are a citizen, and/or where you access the Adecco Site(s). 
+This Policy (together with other documents referred to herein) describes what personal information we collect from you and how we process your personal information.
 
-### 2\. Use and Sharing of Information
+## Personal information we may collect from you
 
-A. Adecco collects and uses Information in part to operate the web sites and provide its online and electronic services. The collection of certain Information enables Adecco to send you any newsletter(s), mailings, offers or other matters you may request. Certain information concerning your geographical location may be used to provide regionalized information to Adecco’s customers or other third parties. When you voluntarily enter a sweepstakes or contest, Adecco may request your email address and other Information in order to contact you in the event you are a winner of the sweepstakes or contest or for other uses. Adecco reserves the right to share Information with its affiliates, subsidiaries and third parties for reasonable business purposes without additional permission other than the permission you have granted under the terms of this Privacy Policy. B. Adecco sometimes engages other persons/companies to provide services on Adecco’s behalf, such as sending newsletters, providing customer service, and performing statistical analysis of Adecco’s services. Adecco will generally provide those entities only such Information as is needed to provide Adecco with such services, and Adecco will generally prohibit such entities from using such Information for other purposes, but in certain instances may do so if commercially reasonable. C. Adecco also reserves the right to disclose Information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: (a) comply with the requirements of law, the orders of a courts or agencies, and/or other legal process; (b) protect the rights or property of Adecco or others; and/or (c) protect the personal safety of users any of the Adecco Sites or other persons. D. The Adecco Sites sometimes provide hyper-links to third party sites. Adecco encourages you to review the privacy statements of web sites you choose to visit via hyper-links on the Adecco Sites so that you can understand how those web sites collect, use and share Information. Adecco is not responsible for the content, privacy policies, acts or omissions of third-party web sites and their owners/administrators. E. The Adecco Sites sometimes provide links to send email messages to Adecco Site administrators for your convenience, in which case your e-mail address may be used to reply to your inquiry or for other business purposes. For example, Adecco may track the pages on the Adecco Sites that you visit in part to determine which areas of the site are the most popular or of interest to you. This Information may be used to deliver customized content and advertising when behavior indicates an interested in a particular subject area, or for other commercially reasonable business purposes. 
+  * We will collect personal information on your visits to the Website including, but not limited to, traffic data, location data, weblogs, content from surveys and contact forms and other communication data and the resources that you access. Our collection of this personal information will make your visit to the Website easier in the future as we will be able to suggest Content that is relevant to you based on the location you access the Website from. 
+  * We will collect any information you provide to us when you use our contact forms (for example, “Register me" windows or any contact form). These information may be your name, family name and email address, [These contact forms may be regulated for an specific Privacy Statement what will be accessible in the relevant webpage to inform you about the what and how we process your personal information. The provision of your personal information via our contact forms is not a statutory or contractual requirement; however, please note that fields marked with an asterisk (*) are mandatory fields, because we need this information to comply with or respond to your request. Other information or personal information you share with us when completing our contact forms is in your sole discretion. If you contact us, we will keep a record of that correspondence. 
+  * We use your personal information to send you direct marketing via e-mail when you opt-in for this purpose in the relevant contact form. You may opt-out of receiving future marketing communications at any time. 
+  * We may also store cookies as set out in more detail in our [ Cookie Policy](https://web.archive.org/cookies-policy)
 
-### 3\. Information from Other Sources
 
-Adecco sometimes supplements the Information it receives with Information from other sources. Such outside Information includes such things as: (a) updated delivery and address information, including from carriers or other third parties, which Information enables Adecco to correct its records and deliver services or purchases, or future communication, more easily; (b) account Information; (c) purchase or redemption Information; (d) page-view Information, including from some merchants with whom Adecco operates co-branded businesses or for which Adecco provides technical, fulfillment, advertising, or other services; (e) search term and search result Information from searches that may have been conducted through Internet search engines/features; (f) search results and links, including paid listings (such as Sponsored Links from Google); and (g) credit history Information from credit bureaus, which we may use to help prevent and detect fraud and to offer certain credit or financial services or other commercially reasonable business purposes. 
 
-### 4\. Information Security
+## How we use your personal information
 
-The Adecco Sites may require you to use a password selected by you. Passwords shall not be shared and must be kept confidential. You are responsible for all activities that occur through the use of your password, including unauthorized use, and for promptly notifying Adecco of any unauthorized use and any other breach of security with respect to the Adecco Sites. Adecco, in its sole and absolute discretion, may at any time terminate or otherwise restrict access to and use of the Adecco Sites, including without limitation if Adecco should suspect unauthorized use of a password or any other breach of security. If you share a computer with anyone, you should always log out of the website before leaving it to prevent access to your information from subsequent users of that computer. 
+Your personal information will be collected and handled by us for the following purposes: 
 
-### 5\. Use of Cookies
+  * to provide information about the different programs described in this Website (e.g. Innovation Manager Challenge - Formula E); 
+  * to make possible your application process and participation in the different programs described in this Website (e.g. Innovation Manager Challenge- Formula E); 
+  * to help and support your employability; 
+  * to provide job offers according to your profile; 
+  * to allow you to participate in interactive features of our Website, when you choose to do so; 
+  * to respond your request or question and to allow us to contact you and to inform you about our services, opportunities and other information – such as Adecco upcoming events or newsletters – that may be of interest to you; 
+  * to send you information about us, our related companies and possibly about third parties that may be of interest to you. 
+  * to notify you about changes of this Website; 
+  * to best tailor Content and resources according to your preferences; 
+  * to help us create, publish, and improve Content most relevant to you; 
+  * to ensure that the Content provided through the Website is presented in the most effective manner for you and for your device; and
+  * to further develop and improve the Website and systems to better serve you.
 
-A. The Adecco Sites use cookies to help Adecco make your online experience more individualized. A cookie is a text file that is placed in storage on your computer. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and are read by the web server in the domain that issued the cookie to you. B. Cookies are used for convenience and to save you time when you again visit the Adecco Sites. The purpose of cookies is to tell the web server that you have returned to a specific page, so that, for example, when you visit the page again your experience can be personalized. Most web browsers automatically accept cookies but give you the ability to change settings to decline cookies. Accepting cookies may permit you to be logged on the site automatically, and if you decline cookies, you may not be able to sign on automatically or experience the interactive features of the site or other sites you visit, and you may experience technical problems receiving current information from such sites if cookies are disabled. C. Adecco currently uses AdWords remarketing to market our sites across the web. Adecco places a cookie on your computer via the browser and third party software accesses these cookies and may serve an ad to you through your browser for a third party site. You may opt out of this ad service on Google’s opt out page. 
 
-### 6\. Use of Web Beacons
 
-Adecco’s website pages may contain electronic images known as web beacons, also referred to as single-pixel gifs, that permit Adecco to count the number of users who have visited those pages and allow collection of other website statistics, such as the popularity of certain content, verification of system and server integrity, etc. Web beacons are not intended to give Adecco access to your personal Information, but instead to compile aggregated statistical data concerning the use of the Adecco Sites. Web beacons collect limited types of information which may include a cookie number, the time and date of a page view, and a description of the page on which the web beacon resides. 
+Our use of your information as described above is permitted by applicable data protection law because it is: 
 
-### 7\. Blogs
+  * necessary for our legitimate interests in pursuing the purposes set out above, and such interests in each case not being overridden by your privacy interests; 
+  * in some cases, necessary to meet our legal or regulatory responsibilities, such as disclosures to authorities, regulators or government bodies; or 
+  * in some cases, necessary for the performance of a task carried out in the public interest and, when we use special categories of personal information, necessary for establishing. exercising or defending legal claims or where the processing relates to personal information manifestly in the public domain; 
+  * in limited circumstances, processed with your consent which we obtain from you from time to time, such as when you opt-in to receive marketing communications and news via email.
 
-Any personally identifiable information or personally sensitive data that you disclose through any blogs that may be hosted on the Adecco Sites may be collected and used by others. You should assume that any personal information you provide at any blogs on the Adecco Sites will become public. 
 
-### 8\. Children
 
-If you are under 18, you must have your parent or legal guardian access and use the Adecco Sites for you. If you want to purchase any goods or services that may be offered at an Adecco Site, such purchase(s) must be made by your parent or legal guardian on your behalf. 
+We will keep your information for the longer of the period required in order to meet our legal or regulatory responsibilities. The retention periods of your personal information depend on the respective purpose the data are processed for and the respective area such personal information are processed in. It is not possible to outline the various retention periods in a reasonably intelligible format under this Policy. The criteria used to determine the applicable retention period are that we will retain the personal information set out in this policy for as long as (i) necessary for the respective purpose, (ii) necessary to carry out our business relationship with you, (iii) you have consented to, and/or (iv) required by applicable statutory retention laws.
 
-### 9\. Limitation of Liability and Limited Guarantee
+## Sharing with third parties
 
-The Adecco Sites may contain errors or problems and are provided “as is.” Adecco disclaims all warranties, expressed or implied, in connection with the Adecco Sites, including the implied warranties of merchantability and fitness. If an Adecco Site fails to perform in accordance with the representations made by Adecco through its corporate offices, Adecco will use commercially reasonable efforts to correct the failure. It is expressly agreed that your exclusive remedy, and Adecco’s aggregate liability, whether in contract, tort or otherwise, in connection with the Adecco Sites shall not exceed one hundred dollars ($100.00). Adecco shall in no event be responsible for any incidental, consequential or punitive damages in connection with the Adecco Sites (including, but not limited to, lost profits, business interruption, loss of business information or other pecuniary loss) regardless of whether such liability is based on breach of contract, tort (including negligence), strict liability, breach of warranties, failure of essential purpose, or otherwise, and even if Adecco has been advised of the possibility of such damages. 
+To facilitate our efficient use of your information, and to provide you with the content and/or resources, we disclose your information to third parties. However, this disclosure will only occur in the following circumstances:
 
-### 10\. Contact Information
+  * **To suppliers, contractors and agents** : From time to time we may engage or employ other companies and individuals to perform functions on our behalf or in order to enforce or apply our terms of website use and other agreements. Examples may include, administrative functions associated with this Website or the hosting by a third party.
 
-Adecco welcomes feedback regarding this Privacy Policy. If at any time you believe that an Adecco Site has not adhered to this Privacy Policy, please contact Adecco and we will use all commercially reasonable efforts to promptly investigate and correct any problems. Email should be sent to privacy@adeccona.com. 
+List of suppliers: 
+    * Adecco Group N.A”, with registered address at Adecco, 5600 United DR SE, Smyrna GA 30082-4752 (Georgia data center). Services: hosting and maintenance activities.
+
+and their respective subcontractors. These companies shall have access to only that personal data required by it to perform their functions, and these companies may not use such data for any other purposes. These recipients will be subject to contractual confidentiality obligations. 
+
+  * **To other entities belonging to the Adecco Group** (i.e. any companies directly or indirectly controlled by Adecco). A list of Adecco Group companies is included here <https://www.adeccogroup.com/worldwide-locations/> including their suppliers, contractors and agents, which may be involved in the provision of the Website or the content, so that we can better serve you or, simply, to give response to your requests (e.g. when you use contact us forms). 
+  * **To government or law enforcement authorities** if we determine in our sole discretion that we are under a legal obligation to do so.
+
+
+
+## IP addresses and cookies
+
+We collect information about your computer, including (where available) your IP address, operating system and browser type, for system administration. This is statistical data about our users’ browsing actions and patterns, and does not identify you or any individual.
+
+For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on your device. Cookies help us to improve the Website and to deliver a better and more personalised content. For more information about our use of cookies on the Website, please refer to our [ Cookie Policy](https://web.archive.org/cookies-policy/).
+
+If your computer is shared with other people, we advise that you do not select the ‘remember my details’ option when that option is offered by the Website.
+
+## Where your personal information is stored and processed.
+
+As explained in the “Sharing with third parties" paragraph above, we share your personal information with the following:
+
+  * **Third party suppliers, contractors or agents** : where we use a third party supplier, contractor or agent, your personal information remains under our control and we have controls in place to ensure your personal information is adequately protected.
+  * **Other companies in the Adecco Group** : we have entered into a groupwide arrangement to ensure your personal information continues to be subject to an adequate level of protection. 
+
+
+
+We endeavour to take all steps reasonably necessary to ensure that your personal information is treated securely and in accordance with this Policy.
+
+## Do we transfer your data outside of Switzerland?
+
+Your personal information can be transferred and processed in one or more other countries outside of Switzerland. We shall only transfer your data outside Switzerland to countries which provide adequate level of data protection as defined by Swiss data protection law, or where the Adecco Group has put in place appropriate safeguards to seek to preserve the privacy of your information. Those countries include United Kingdom, United States, Belgium, Bulgaria, France, Germany, Italy, Norway, Poland, Singapore, Sweden, Australia.
+
+## Data Security
+
+Although we will do our best to protect your personal information, you should be aware that the transmission of information via the internet is not completely secure and we cannot guarantee the security of your personal information transmitted to the Website or any third party; for this reason, any transmission is at your own risk. We will use strict operational procedures and adequate, technical and organizational security measures to prevent any unauthorised access, change, deletion or transmission of this personal information.
+
+## Your rights. How you can access, correct and delete your personal information
+
+Under applicable data protection laws, you have the following rights: 
+
+  * **Right to access and obtain a copy of your personal information** : You are entitled to request confirmation whether we process any of your personal information. Where this is the case, you may have access to your personal information and to certain information about how it is processed. In some cases you can ask us to provide you with an electronic copy of your information.
+  * **Right to correct your personal information** : If you can demonstrate that personal information we hold about you is not correct, you can ask that this information is updated or otherwise corrected. 
+  * **Right to be forgotten/have data deleted** : In certain circumstances you have the right to have your personal data deleted. You may make such a request at any time and Adecco will evaluate if your request should be granted, however this right is subject to any legal rights or obligations we may have to retain data. For situations where in accordance with the law, we determine that your request to have your personal information deleted must be granted, Adecco will do so without undue delay. 
+
+
+
+To exercise your rights, you can contact us at the following address: [ privacy@adeccona.com](mailto:privacy@adeccona.com)
+
+To the extent our processing of your personal information is based on your consent, you also have the right to withdraw your consent at any time. Withdrawal of your consent will not affect the lawfulness of any processing based on your consent before the receipt of such withdrawal. 
+
+You can also lodge a complaint about our processing of your personal information with your local data protection authority. 
+
+## Marketing communications. 
+
+We will only send marketing communications to you via email where you have consented that we may do so. 
+
+We will usually offer you a check box on the forms we use to collect your personal information where, if you agree to receive marketing communications, you have to click the box. Where we send marketing communications to you via email, you may opt out of receiving any further marketing communications by clicking the ‘unsubscribe’ or ‘opt-out’ function in the email. In addition, you can also exercise your opt-out right at any time by contacting us at privacy@adeccona.com 
+
+## Changes to this Policy
+
+The terms of this Policy may change from time to time. We shall publish any material changes to this Policy through appropriate notices either on this website or contacting you using other communication channels. 
+
+## Contact
+
+Questions, comments and requests regarding this Policy are welcomed and should be addressed to Adecco Group AG, Bellerivestrasse 30, 8008 Zürich, Switzerland, email address: [ privacy@adeccona.com](mailto:privacy@adeccona.com)
+
+You can request a copy of mechanisms relating to a specific transfer of your personal information by contacting 
+
+Adecco Group, A.G.   
+Group Communications Department   
+Postal address:   
+Bellerivestrasse 30,   
+8008 Zürich,   
+Switzerland   
+
+
+You can also contact our data protection representative at the following address: [ adecco.globalprivacy@adecco.com](mailto:adecco.globalprivacy@adecco.com)
