@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumerqueen.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624230029id_/http%3A//consumerqueen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerqueen.com privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001214720id_/http%3A//consumerqueen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy- ConsumerQueen.com- Oklahoma's Coupon Queen
 
