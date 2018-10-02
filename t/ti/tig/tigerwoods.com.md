@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigerwoods.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630013325id_/http%3A//tigerwoods.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerwoods.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002103047id_/http%3A//tigerwoods.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tiger Woods
 
@@ -6,7 +6,7 @@
 
 PLEASE READ THIS PRIVACY POLICY (THIS “PRIVACY POLICY”) CAREFULLY BEFORE USING OUR WEBSITE OR ANY OTHER ETW CORP. PRODUCT OR SERVICE.
 
-ETW Corp. is the organization that produces and publishes the official _websites for TGR, Tiger Woods Ventures and each of its verticals (TGR Live, TGR Design, Tiger Woods Foundation, The Woods Jupiter)_ (this or our “Website”). This Privacy Policy is applicable to these Websites and describes what information we collect, how we may use that information and the choices we offer for you to manage the information we collect related to your use of this Website.
+ETW Corp. is the organization that produces and publishes the official _websites for TGR, Tiger Woods Ventures and each of its verticals (TGR Live, TGR Design, TGR Foundation, The Woods Jupiter)_ (this or our “Website”). This Privacy Policy is applicable to these Websites and describes what information we collect, how we may use that information and the choices we offer for you to manage the information we collect related to your use of this Website.
 
   1. _Personal Information Collected Via This Website_
   2. _How We Use and Share Your Personal Information_
