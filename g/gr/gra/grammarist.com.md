@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grammarist.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628123155id_/http%3A//grammarist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grammarist.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002182030id_/http%3A//grammarist.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Grammarist
+# Privacy policy – Grammarist
 
 **PRIVACY POLICY    **
 
@@ -41,7 +41,7 @@ When processing your personal data we are governed by following principles:
 
 
 
- **PURPOSES OF PROCESSING OF PERSONAL DATA**
+**PURPOSES OF PROCESSING OF PERSONAL DATA**
 
 We may process your personal data for a number of different purposes. For each purpose we must have a legal ground for such processing.
 
@@ -56,7 +56,7 @@ Generally such legal grounds are as follows:
 
 
 
- **What do we mean when we say “Legitimate Interest” and “Performance of contract”?**
+**What do we mean when we say “Legitimate Interest” and “Performance of contract”?**
 
 Legitimate Interest shall mean our interest as a business in conducting and managing. We hereby confirm that we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law).
 
