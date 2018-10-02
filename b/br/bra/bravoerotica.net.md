@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bravoerotica.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606011610id_/http%3A//www.bravoerotica.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bravoerotica.net privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002075633id_/http%3A//www.bravoerotica.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ##  PRIVACY POLICY
 
-Effective Year:2017   
+Effective Year:2018   
 Last Modified: 16 July, 2016   
 Sites Covered: bravoerotica.net 
 
