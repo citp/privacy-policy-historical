@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the researchnow.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614215117id_/https%3A//www.researchnow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the researchnow.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002205159id_/https%3A//www.researchnow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Research Now
 
