@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the europarts-sd.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604074101id_/http%3A//europarts-sd.com/privacyandsecurity.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europarts-sd.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002182920id_/http%3A//europarts-sd.com/privacyandsecurity.asp) for the most accurate reproduction.*
 
 # Privacy Settings: Ordering Your Sprinter Brake Replacement Parts & Sprinter Brake Kits
 
