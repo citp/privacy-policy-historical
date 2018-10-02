@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picclick.com.au privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625114032id_/http%3A//picclick.com.au/pages/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picclick.com.au privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002092535id_/https%3A//picclick.com.au/pages/terms.html) for the most accurate reproduction.*
 
 # PicClick AU Terms & Privacy
 
