@@ -1,103 +1,269 @@
-> *The following text is extracted and transformed from the josephjoseph.com privacy policy that was archived on 2017-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171017134804id_/https%3A//www.josephjoseph.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the josephjoseph.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002123356id_/https%3A//www.josephjoseph.com/en-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**This is the internet privacy policy for www.josephjoseph.com (the** **“** **Website** **”** **)**
+We at Joseph Joseph Ltd take the privacy of all our visitors very seriously, and therefore have set out this policy to state our position regarding your data privacy and the use of cookies (snippets of data captured by your browsing on our website).
 
-This website is the property of Joseph Joseph Ltd. We take the privacy of all visitors to this Website very seriously and therefore set out in this privacy and cookies policy our position regarding certain privacy matters and the use of cookies on this Website.
+##### Overview
 
-This policy covers all data that is shared by a visitor with us whether directly www.josephjoseph.com or via email. This policy provides an explanation as to what happens to any personal data that you share with us, or that we collect from you either directly via this Website or via email.
+This policy covers all the data that is shared with us on www.josephjoseph.com and explanations on what happens to any personal data you provide to us, or that is obtained via this website or by email sent to us directly.
 
-**1.** **          ****Information we collect**
+The policy covers any means to access the website, whether through a phone, computer or tablet and will provide information about:
 
-In operating our Website we may collect and process the following data about you:
+  * How we use your data;
+  * What personal data we collect;
+  * How we ensure your privacy is maintained; and
+  * Your legal rights relating to your personal data.
 
-1.1       Details of your visits to our Website and the resources that you access including, but not limited to, traffic data, location data, weblog statistics and other communication data.
 
-1.2       Information that you provide by filling in forms on our Website, such as when you register to receive information such as a newsletter or contact us via the contact us page.
 
-1.3       Information provided to us when you communicate with us for any reason.
+##### Your information as personal data
 
-**2.** **          ****Use of cookies**
+We view personal data as the following:
 
-On occasion, we may gather information about your computer for our services, and to provide statistical information regarding the use of our Website to our advertisers.
+Name, identification numbers, location data and online identifier(s); these relating to both automated and manually filed data, electronic and physical. There are many more data categories but we list these as they are the only ones currently captured by us,that pertain to you.
 
-Such information will not identify you personally, it is statistical data about our visitors and their use of our site. This statistical data does not identify any personal details whatsoever. It is used by us to analyse how visitors interact with the Website so that we can continue to develop and improve this Website.
+##### How we use your information
 
-We may gather information about your general Internet use by using a cookie file that is downloaded to your computer. Where used, these cookies are downloaded to your computer automatically.  This cookie file is stored on the hard drive of your computer as cookies contain information that is transferred to your computer’s hard drive. They help us to improve our Website and the service that we provide to you.
+We use various pieces of your personal information in different ways, sometimes with two or more functions, see the below tables for our explanations on why we process that data.
 
-All computers have the ability to decline cookies. This can be done by activating the setting on your browser which enables you to decline the cookies. Please note that should you choose to decline cookies, you may be unable to access particular areas of our Website.
+**-    ** **Name & contact details**
 
-Any advertising featured on this Website may also incorporate cookies, over which we have no control. Such cookies (if used) would be downloaded once you click on advertisements on our Website.
+  * To deliver your order and perform our contract with you.
+  * To send you order updates by text or email and perform our contract with you.
+  * For fraud prevention and detection. To prevent and detect fraud against you or Joseph Joseph.
+  * Send you information about our products and services by email, text or post. To keep you up to date. We only send this with your permission.
+  * Show you Joseph Joseph adverts as you browse the web. To keep you up to date with our latest products and offers.
+  * Find out more about what you and other customers like. To offer personalised and relevant experience
 
-For more information on cookies you can read the guidance at [All About Cookies](http://www.allaboutcookies.org/).
 
-**3.** **          ****Use of your information**
 
-The information that we collect and store relating to you is primarily used to enable us to provide our services to you. In addition, we may use the information for the following purposes:
+-    **Date of birth**
 
-3.1       To provide you with information requested from us relating to our products or services and to provide information on other products which we feel may be of interest to you if you have consented to receive such information.
+  * Send you a birthday offer by email, text or post. To wish you a happy birthday and include an offer from us
+  * Fraud prevention and detection. To prevent and detect fraud against you or Joseph Joseph.
 
-3.2       To meet our contractual commitments to you.
 
-3.3       To notify you about any changes to our Website, such as improvements or service/product changes, that may affect our service.
 
-3.4       If you are an existing customer, we may contact you with information about goods and services similar to those which were the subject of a previous sale to you.
+**-    Payment**
 
-3.5       We may use your data, or permit selected third parties to use your data, so that you can be provided with information about unrelated goods and services which we consider may be of interest to you. We or they may contact you about these goods and services by any of the methods that you consented to at the time your information was collected.
+  * Take payment and give refund. To perform our contract with you.
+  * Fraud prevention and detection. To prevent and detect fraud against you or Joseph Joseph.
 
-3.6       If you are a new customer, we will only contact you or allow third parties to contact you only when you have provided consent and only by those means you provided consent for.
 
-3.7       If you do not want us to use your data for ourselves or third parties you will have the opportunity to withhold your consent to this when you provide your details to us on the form on which we collect your data.
 
-3.8       Please be advised that we do not reveal information about identifiable individuals to our advertisers but we may, on occasion, provide them with aggregate statistical information about our visitors such as your area of residence or age group.
+**-    Purchase history & whishlist items**
 
-**4.** **          ****Storing your personal data**
+  * Sell Joseph Joseph products online. To perform our contract with you.
+  * Find out more about what you and other customers like. To offer personalised and relevant experience
+  * Fraud prevention and detection. To prevent and detect fraud against you or Joseph Joseph.
+  * For customer service and to manage returns. To perform our contract with you.
 
-4.1       We may transfer data that we collect from you to locations outside of the European Economic area for processing and storing. In addition, it may be processed by staff operating outside the European Economic area who work for us or for one of our suppliers. For example, such staff may be engaged in the processing and concluding of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all reasonable steps to make sure that your data is treated securely and in agreement with this privacy policy.
 
-4.2       Data that is provided to us is stored on our secure servers. Details relating to any transactions entered into via our site will be encrypted to ensure its safety.
 
-4.3       The transmission of information via the internet is not completely secure and therefore we cannot guarantee the security of data sent to us electronically and the transmission of such data is entirely at your own risk. Where we have given you (or where you have chosen) a password so that you can access certain areas of our site, you are responsible for keeping this password confidential.
+**-    Your contact history with us**
 
-**5.** **          ****Disclosing your information**
+  * For customer service. To perform our contract with you
+  * Train our customer care team. To deliver the best possible customer experience.
 
-5.1       Where applicable, we may disclose your personal information to any member of our group. This includes, where applicable, our subsidiaries, our holding company and its other subsidiaries.
 
-5.2       We may also disclose your personal information to third parties:
 
-5.2.1    Where we sell any or all of our business and/or our assets to a third party.
+**-    Your device type, IP address, location data and how you browse our website**
 
-5.2.2    Where we are legally required to disclose your information.
+  * Set default options for you (language, currency, delivery country etc.). To deliver a convenient shopping experience.
+  * Improve our website and make it easier for you to shop and browse.
+  * Fraud prevention and detection. To prevent and detect fraud against you or Joseph Joseph.
 
-5.2.3    To assist fraud protection and minimise credit risk.
 
-**6.** **          ****Third party links**
 
-You might find links to third party websites on our Website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them.
+**-    Your response to surveys, competitions and promotions**
 
-**7.** **          ****Access to information**
+  * To Run surveys, competitions and promotions and perform our contract with you.
 
-The Data Protection Act 1998 gives you the right to access the information that we hold about you. Please note that any demand for access may be subject to payment of a fee of £10 which covers our costs in providing you with the information requested. Should you wish to receive details that we hold about you please contact us using the contact details below.
 
-**8\. Marketing Permissions**
 
-We will send you from time to time catalogues, special offers and promotions by post and email. If you do not wish to receive any further email messages from us, please contact us [here](mailto:info@josephjoseph.com "Unsubscribe Email Request").
+You do not have to provide any personal information to us, and we will cover how you can opt in and out of certain specifics that may not be absolutely necessary to provide a service to you.
 
-If you do not wish to receive any further posted mailings from us, please contact us [here](mailto:info@josephjoseph.com "Unsubscribe Posted Mailing Request"). Please ensure you include your full name and address.
+In some cases where you do not provide us with data you may not be able to order from the site and would be unlikely to receive our optimal customer experience.
 
-**9.** **          ****Contacting us**
+##### Guest users
 
-We welcome any queries, comments or requests you may have regarding this policy please do not hesitate to contact [here.](mailto:info@josephjoseph.com)
+We view a Guest User as someone who selects “Checkout as a guest” via checkout on the website and thus we would not identify you to the same extent as a Registered User with an active Joseph Joseph account.
 
-If you would prefer to write to us then our contact address is;
+All the data provided by a Guest User in the context of an order will be anonymised once the order is fulfilled. Please bear in mind that we will keep the value of that order and keep only non-identifying location data such as County/State/Province and Country only.
 
-Joseph Joseph, The Grove
+##### Our internal systems tests
 
-30 Great Guildford Street
+Our Registered Users’ data provided in the context of an order will not only be used in fulfilling your order but also to carry out internal systems tests, including IT procedures, and research and data analysis to improve the Joseph Joseph website and app. To do so, the orders and data will be mirrored in a closed off test system.
 
-London
+##### Sharing data with third parties
 
-United Kingdom
+We  **do not sell, and will not sell,**  any of your personal data to Third Parties. However, to be able to make some of our services available to you, we share your data with the following companies:
 
-SE1 0HS
+-   Order related companies, such as:
+
+  * Payment service providers, warehouses, order packers and delivery companies
+
+
+
+-   Professional service providers and analytics, such as;
+
+  * Marketing agencies, advertising partners and website hosts
+
+
+
+-   Law enforcement and fraud prevention agencies
+
+##### Marketing & advertising - opt in/opt out
+
+**MARKETING**
+
+We will only send you marketing messages with your permission. If you wish to receive marketing messages from us, we will keep you updated by email, text or post.
+
+It is important to note that Marketing messages do not include service messages or customer care communications. An example of each being:
+
+  * Order/despatch confirmations via email/text
+  * Intelligent Waste Registration
+
+
+
+ However, if you do not wish to receive any further email messages from us, you can:
+
+  *  Go to your  ** _account_**  >  ** _my_**   ** _newsletter_**  or  ** _newsletter_**   ** _subscription_** , untick the  ** _General_**   ** _subscription_**  box and  ** _save_**  your choice
+
+
+
+**Or**
+
+  * Click on the  **unsubscribe**  link in any email marketing
+
+
+
+**Or**
+
+  * Contact our  **Customer Care team**.
+
+
+
+If you do not wish to receive any further posted mailings from us, you can contact our  **Customer Care team** , include your full name and address
+
+**ONLINE ADVERTISING**
+
+We engage in online advertising to keep you aware of what we are up to and to help you see and find our products more easily, based on you.
+
+We target our Joseph Joseph banners and ads to you when you are on  **other**  websites and apps, done through a variety of means and exercises, such as:
+
+  * Web beacons
+  * Pixels
+  * Ad Tags
+  * Cookies
+  * Mobile Identifiers
+  * Specific services offered by some sites and social networks, such as: Facebook’s Custom Audience service and Google Adwords User Lists.
+
+
+
+The banners and ads you see are based on information we hold about you, or your previous use of our website through means such as but not limited to; Joseph Joseph Search History, not to be confused with your own browser search history, and our banners or ads you have previously clicked on.
+
+**HOW LONG DO WE KEEP YOU DATA?**
+
+We will keep the following types of data for the stated lengths:
+
+-   Financial Data:
+
+  * Standard, 7 Years
+  * Where Fraud and/or Enforcement is involved, up to 20 years
+
+
+
+-   Online Account:
+
+  * As long as the account is active
+
+
+
+**Or**
+
+  * As long as additional service(s) is agreed such as Intelligent Waste 10-year guarantee
+
+
+
+-   Legal/Law Enforcement:
+
+  * As long as ordered, in a bid to; resolve disputes, prevent fraud/abuse, enforce terms and conditions
+
+
+
+##### Your rights
+
+According to GDPR you have all your rights to do any of the following to your personal information:
+
+  * Rights to be informed: about how we are handling your personal data and where it is going.
+  * Rights to rectify: correct inaccuracies of data extending to incomplete data rectification.
+  * Rights to be forgotten: destroy physical data, delete electronic data; extending to that of where data is passed to a third party we are directly liable.
+  * Rights to restrict/withdraw consent: when you would like to contest your data’s accuracy; if we process your data unlawfully but you do not want to be fully forgotten; if we no longer need your data but you would like to begin or defend a legal claim(s); if agreements are being made in terms of the other rights.
+  * Rights to Data Portability: when you would like a copy of all the data we hold about you, agreements of how it will be provided settled on request.
+  * Rights to Object: when you have reason to stop us processing your data based on our processes, such as cancelling the sending of marketing materials.
+  * Rights to Object to Supervisory Authority: when you would like to take a case to a data protection regulator
+  * Rights to Appropriate Decision Making: when Joseph Joseph is not making decisions on your behalf based purely on automated procedures and to give you the power to actively have choice over the processing.
+
+
+
+ If you want to exercise your rights, have a complaint, or just have questions, please contact our Customer Care team.
+
+##### How can you help protect your data
+
+**Card details**
+
+Joseph Joseph  **will never**  ask you to confirm any bank account or credit card details via email or any other means such as Direct Messaging/Instant Messaging extending to that of Social Media Sites, over the phone or Web/Phone applications extending to that of instances like Whatsapp and Facebook Messenger.
+
+ If you receive an email claiming to be from Joseph Joseph asking you to do so, please do not respond then get in touch with our Customer Care team, as this will help us to protect everyone in the future.
+
+**Public computer or device**
+
+If you are using a computer/phone device in a public location and/or on a public Wi-Fi, we recommend that you always log out and close the website browser when you complete an online session.
+
+**Security measures**
+
+In addition, we recommend that you take the following security measures to enhance your online safety both in relation to Joseph Joseph and more generally:
+
+Keep your account passwords private. Remember, anyone who knows your password has an increased chance to be able to access your account.
+
+When creating a password:
+
+  * Use at least 8 characters; A combination of letters, numbers and symbols too, this will increase strength and decrease an attacker’s ability to crack.
+  * Do not use dictionary words, your name, email address, or other personal data that can be easily obtained and/or guessed.
+  * We also recommend that you frequently change your password, you can do this accessing your account, clicking  ** _my details_**  >  ** _change password  _**>  ** _enter current_**  and  ** _new password_**  and remember to click on  ** _save_**.
+
+
+
+Avoid using the same password for multiple online accounts.
+
+##### Privacy changes
+
+We may change this page from time to time to reflect how we are processing your data, if we make significant changes we will make it clear on the Joseph Joseph website and any of our other services, or by some other means of contact to the best of our ability.
+
+##### Cookie policy
+
+Our website uses cookies to collect information relating to; browsing and purchasing behaviour by people who access our websites, information about pages viewed, products purchased and the customer journey around our websites.
+
+ For more information, please refer to our [ **Cookie Policy**](http://josephjoseph.com/cookies-policy "Cookie Policy").
+
+##### Contact us
+
+If you have any questions or feedback about this policy, would like us to stop using your information, want to exercise any of your rights as set out above, or have a criticism, please do not hesitate to contact our  **Customer Care**  team, who will be happy to answer any questions you may have and are trained at dealing with any personal data matters.
+
+ If you would prefer to write to us then our contact address is:
+
+  **Joseph Joseph, The Grove**
+
+**30 Great Guildford Street**
+
+**London**
+
+**SE1 0HS**
+
+**United Kingdom**
+
+** ** As we understand it is important to recognise physical information counts in our policy, we will shred any documents that contain personal data as well as providing the same rights to physical information as electronic.
+
+Last update: 21/05/2018
