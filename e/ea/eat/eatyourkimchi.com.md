@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eatyourkimchi.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531235644id_/http%3A//www.eatyourkimchi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatyourkimchi.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002073250id_/http%3A//www.eatyourkimchi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Eat Your Kimchi
 
