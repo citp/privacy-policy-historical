@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovehasnolabels.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626100328id_/http%3A//www.adcouncil.org/About-Us/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovehasnolabels.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002181608id_/https%3A//www.adcouncil.org/About-Us/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | AdCouncil
 
@@ -78,7 +78,7 @@ California law permits our customers who are California residents to request and
 
  **CHILDREN**
 
-You may not submit your personal information unless you are at least 13 years old.  Children under the age of 13 that have registered with this Website are in violation of our Terms.  If you believe that your child under the age of 13 has provided his or her personal information to us, please notify us immediately by contacting us at webmaster@adcouncil.org.  You may be required to provide verifiable identification that you are the child’s parent or legal guardian.
+You may not submit your personal information unless you are at least 13 years old.  Children under the age of 13 that have registered with this Website are in violation of our Terms.  If you believe that your child under the age of 13 has provided his or her personal information to us, please notify us immediately by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  You may be required to provide verifiable identification that you are the child’s parent or legal guardian.
 
  **CHANGES TO PRIVACY POLICY**
 
@@ -86,7 +86,7 @@ We may edit, amend, modify and update our Privacy Policy at any time by posting 
 
  **CONTACT US**
 
-For questions about our Privacy Policies please email us at webmaster@adcouncil.org or write us to the attention of our VP, Digital and PRISM, at 815 Second Avenue, 9th Floor, New York, NY 10017 and please specify if you are inquiring about a specific Website to help us better assist and respond to your questions.
+For questions about our Privacy Policies please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or write us to the attention of our VP, Digital and PRISM, at 815 Second Avenue, 9th Floor, New York, NY 10017 and please specify if you are inquiring about a specific Website to help us better assist and respond to your questions.
 
 Copyright © 2016 The Advertising Council, Inc. All Rights Reserved
 
