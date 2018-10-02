@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allplayer.org privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603073421id_/http%3A//www.allplayer.org/en/polityka-prywatnosci) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allplayer.org privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002173611id_/http%3A//www.allplayer.org/en/polityka-prywatnosci) for the most accurate reproduction.*
 
 # Privacy policy
 
