@@ -1,81 +1,142 @@
-> *The following text is extracted and transformed from the stuartstirling.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101014id_/http%3A//stuartstirling.com/legal/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuartstirling.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002034356id_/http%3A//stuartstirling.com/privacy-policy) for the most accurate reproduction.*
 
-# www.StuartStirling.com | Privacy Policy
+# Privacy Policy | StuartStirling.com
 
-PRIVACY POLICY  
+## This page explains the Privacy policy of this site and all sites owned by Stuart Stirling.
 
+By continuing to browse and use this website, you are agreeing to comply with and be bound by the following **Privacy Policy** , which together with our [Terms of Service](http://stuartstirling.com/terms-of-service/) govern Stuart Stirling’s relationship with you in relation to this website.
 
-  
-Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools, and opportunities with complete confidence.
+If you disagree with any part of these terms and conditions, please discontinue the use of our website immediately.
 
-We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the "Services") -those who access some of our Services but do not have accounts ("Visitors") as well as those who may purchase Products and/or pay a monthly service fee to subscribe to the Service ("Members")-what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully. 
+The term ‘Stuart Stirling’ or ‘us’ or ‘we’ refers to the owner of the website. The term ‘you’ refers to the user or viewer of our website.
 
-This Privacy Policy Notice governs the use of the web page at and its associated services, web pages, domains and sub-domains, which are owned and operated by StuartStirling.com ("Owner"). Wherever this Notice refers to "users" it means "you", while "we" or "our" refer to StuartStirling.com and "Web Site" for the web site in which the page belongs.
+## Who we are
 
-This web site collects certain information relative to users who visit the site. This Web site categorizes this information into the 2 following Categories and the privacy level and what we do with the information that we collect on you depends upon the category in which you fall.
+Our business name is “Stuart Stirling” (a registered business name in Japan). We are a small online based business in the field of digital information marketing. This website address is: http://stuartstirling.com and this Privacy policy is in regard to all websites owned and run by “Stuart Stirling”.
 
-We do not make any attempt to obtain information that personally identifies our users who visit our web site. It is not our policy to sell or otherwise provide access to such information to unaffiliated third parties. 
+## What personal data we collect and why we collect it
 
-**What information we collect:**
+### Name, Email, IP address
 
-**Category I** – Information on users who visit our site to read or download information on our pages. From these users, we collect and store only the following information:
+When a user signs up to access free content or purchases a product, the primary data we collect is their name, email address, IP. We store emails and names in a database to send automated emails and instant broadcast emails to communicate information, updates and offers.  We use the IP address as a way to roughly record where the user is located (country, city) and to use cookies to serve personalized messages and website functions.
 
-1\. The domain name through which you gained access to our Web site;  
-2\. The precise time and date that you entered our web site.  
-3\. The URL of the web page through which you clicked to our web site. 
+### Comments
 
-**Category II** – Users who send us e-mail containing personal information or identifies you, sign our guest book, or request email publications. Any information that we collect in this way is used only for purposes of responding to you and addressing the issues that you may have raised.
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-Any information that we collect is collected as part of our business practices in order to identify demographic information relative to users who access our site, assessing the number and type of user accessing various sections of our site, helping us determine what content and business concepts are working for us and/or are of interest to our visitors, determining technical design features and specifications and helping us assess systems performance. We also use such information in statistical form to assist us in business and marketing strategies and programs. We utilize software programs to create summary statistics which we utilize for the above purposes.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-As a security measure for ourselves and our users, we utilize certain software programs to monitor traffic to our site and within our network. This software also enables us to identify unauthorized upload attempts, access to our system, and other attempts to cause damage to our systems.
+### Media
 
-Personal Information Our Company Collects and How It Is Used
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-Introduction. Our company collects information in different ways from Visitors and Members who access the various parts of our Services and the network of Web sites accessible through our Service. We use this information primarily to provide a customized experience as you use our Products and Services, and generally, do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required by law or other special cases described below.
+### Contact forms
 
-Registration: Members may be asked to provide certain personal information when they sign up for our Products or Services including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process is used to manage each Member's account (such as for billing purposes). 
+If you use the contact form on a site, we will collect the information that you enter into the contact form fields (e.g. name, email, message) along with IP address and browser user agent string to help spam detection where there is a spam detection function in place.
 
-This information is not shared with third parties, unless specifically stated otherwise or in special circumstances. However, in instances where our company and a partner jointly promote our Services, we may provide the partner certain personal information, such as the name, address, and username of persons who subscribed to the Services as a result of the joint promotion for the sole purpose of allowing us and the partner to assess the results of the promotion. In this instance, personal information may not be used by the partner for any other purpose. We may also generate non-identifying and aggregate profiles from personal information Members provide during registration (such as the total number, but not the names, of Members). As explained in more detail below, we may use this aggregated and non-identifying information to sell advertisements that appear on the Services.
+### Cookies
 
-Our Company Partners and Sponsors: Some products and services may be offered to Visitors and Members in conjunction with an affiliate, independent contractor seller or non-affiliated partner. To provide Visitors and Members some of these products and services, the partner may need to collect and maintain personal information. In these instances, you will be notified before any such data is collected or transferred and may decide not to use that particular service or feature. Additionally, our partners may have advertisements or co-branded Web Pages that are cosponsored by an affiliate, independent contractor seller, or non-affiliated partner. Our company may share non-identifying and aggregate information (except as described above), but not personal information, with such partners in order to administer the co-branded products or services offered.
+### **What are cookies?**
 
-Online Shopping: At some Web sites, you can purchase products and services or register to receive materials, such as a newsletter, catalog or new product and service updates. In many cases, you may be asked to provide contact information, such as your name, address, email address, phone number, and credit/debit card information. If you complete an order for someone else, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient's name, address, and phone number. Our company has no control over the third parties' use of any personal information you provide when placing such an order. Please exercise care when doing so.
+A cookie is a small text file that a website will save on your local machine (if you have cookies enabled) when you visit the site. It lets websites to remember the actions you took (such as forms you filled, login, language settings,) for a period of time. This helps to save you from logging in, and changing settings every time you visit the site. It makes browsing easier.
 
-If you order services or products directly from our company we will use the personal information you provide only to process that order. We do not share this information with outside parties except to the extent necessary to complete that order.
+### These are the cookies set by our site(s)
 
-Online Advertisements: Our company may display our online advertisements. In those cases we share aggregated and non-identifying information about our Visitors and Members collected through the registration process as well as through online surveys and promotions with these advertisers. 
+**Social Website Cookies**  
+This is so you can easily “Like” or share our content on Facebook, Twitter and so forth with the use of social sharing buttons on our site.
 
-Additionally, in some instances, we use this aggregated and non-identifying information to deliver tailored advertisements or joint ventures. For instance, an advertiser or joint venture company tells us the audience they want to reach and provides us an advertisement tailored to the audience. Based upon the aggregated and non-identifying information we have collected, we may then display or send the advertisement to the intended audience. Our company does not share personal information about its Visitors or Members with these advertisers or joint venture companies.
+The privacy implications on this will vary for each social network and will be dependent on your privacy settings inside of these social networks.
 
-Responses to Email Inquiries: When Visitors or Members send email inquiries to our company, the return email address is used to answer the email inquiry we receive. Our company does not use the return email address for any other purpose and does not share the return email address with any third party.
+**Site Improvement Cookies**  
+To test designs or site features on our site, we show different versions of our webpages to different visitors. We anonymously monitor how our site visitors respond to different versions. This helps us to offer everyone a better web page.
 
-Voluntary Customer Surveys: We may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us to improve the types of products and services we offer and how we provide them to you. Your personal information and responses will remain strictly confidential, even if the survey is conducted by a third party. Participation in our customer surveys is voluntary.
+**Visitor Statistics Cookies**  
+We use cookies to track statistics such as website visitor numbers, their device and browser of choice (e.g. Mac or Windows), how much time they spend on the site, what links they’re clicking on, etc. This helps us to optimize our sites and web pages. These are called “analytics” programs and also tell us how people found our web site (e.g. from a search engine, or from another website) and if they are a return visitor or not.
 
-We may take the information we receive from individuals responding to our Customer Surveys and combine (or aggregate) it with the responses of other customers we may have, to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third parties.
+**Remarketing Cookies**  
+Many web advertisers, including ourselves set up ads to re-target users which have visited one of our sites or pages. This is made possible by using a “remarketing cookie” during your visit to our web page. We use these adverts to remind you and encourage you to come back to our site. You can opt out of these cookies at anytime by contacting us (see contact info below).
 
-Special Cases: It is our company's policy not to use or share the personal information about Visitors of Members in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. 
+**Affiliate Cookies**  
+We have partners (called affiliate) who promote our products and services on an reward-basis. When the affiliates direct you to our site, they use a Cookie which is to allow proper tracking of sales/actions so as we can reward the partner accurately. These cookies are usually provided by third-party companies (typically known as affiliate networks). Your personal identity is not accessible with the use of affiliate cookies. We ask you to allow affiliate cookies, because having affiliates promote our sites is the way we can stay in business.
 
-However, we may disclose personal information about Visitors or Members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: credit agencies, collection agencies, merchant database agencies, law enforcement, or to satisfy laws, such as the Electronic Communications Privacy Act, the Child Online Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Acceptable Use Policy or Terms Of Service, or other user policies; to operate the Services properly; or to protect our company and our Members.
+**Email Cookies**  
+Most of my sites offer a newsletter or email subscription service when you opt-in for a free product or purchase a product. Cookies may be used to track the actions you take on that email (e.g. open the email, click a link). This helps us to send you more relevant content.
 
-"Cookies" and How Our Company Uses Them. 
+**How can you control Cookies?**  
+You can manage cookies that are set on your Computer or device freely. For details, see [www.aboutcookies.org](https://www.aboutcookies.org/).
 
-A "cookie" is a small data file that can be placed on your hard drive when you visit certain Web sites. Our company may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks. If you are a Visitor or Member we may use a cookie to save your settings and to provide customizable and personalized services. These cookies do not enable third parties to access any of your customer information. Additionally, be aware that if you visit other Web sites where you are prompted to log in or that are customizable, you may be required to accept cookies.
+In your browser settings, you can delete all or selected cookies that currently exist on your computer at any time. You can also set most web browsers to reject cookies from being placed in the first place. But without cookies set, you may have to make adjustments manually for each site you visit. Also, some functionalities may not work any more.
 
-Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.
+**Comment Cookies  
+**If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-Our Company Commitment to Children's Privacy. 
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-Protecting children's privacy is especially important to us. It is our policy to comply with the Children's Online Privacy Protection Act of 1998 and all other applicable laws. Therefore we restrict our Web site to persons eighteen years or older.
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
-YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS WEB SITE. IF YOU ARE UNDER EIGHTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEB SITE FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WEB SITE, NO INFORMATION OBTAINED BY THIS WEB SITE, FALLS WITHIN THE CHILD ONLINE PRIVACY ACT (COPA) AND IS NOT MONITORED AS DOING SO.
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
-Public Forums: Please remember that any information you may disclose in any Member Directory, or other public areas of our Web sites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas.
+### Embedded content from other websites
 
-Our Company's Commitment to Data Security: Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information.
+Articles, posts, and pages on this site may include embedded content (e.g. videos, images, articles, banner ads, widgets, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
-Where to Direct Questions About Our Privacy Policy: If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the contact information provided on this Web site.
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
 
-Revisions to This Policy: Our company reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting.
+### Analytics
 
-© 2010 www.StuartStirling.com
+We use Google Analytics to monitor and track website visitors’ usage of our site(s). They collect your data such as cookies and usage data. See their [privacy policy here](https://www.google.com/intl/en/policies/privacy/). See[ Opt-out page here](https://tools.google.com/dlpage/gaoptout?hl=en).
+
+We use Facebook analytics (pixel) and conversion tracking to create re-targeting and behavioral based marketing ad campaigns. They collect your data such as cookies and usage data. See their [privacy policy here](https://www.facebook.com/about/privacy/).
+
+We use Click Magick to track usage of links on our sites and inside emails and other media (e.g. PDF ebooks, videos, etc.) and to track conversions. See their [privacy policy here](https://www.clickmagick.com/privacy.cgi).
+
+## Who we share your data with
+
+As mentioned above, Google, Facebook and ClickMagick are third-party companies which we share your data with. In addition, there are other third-party resources which we use and share your data with. Including…
+
+Aweber.com – We use Aweber to collect and manage lead and customer data. See their [data processing policy here](https://www.aweber.com/dpst.htm)
+
+Zaxaa.com – We use Zaxaa cart and Beats email marketing system to manage lead and customer data. See their [Privacy policy here](https://www.zaxaa.com/privacy-policy)
+
+WarriorPlus – We use Warrior plus to manage lead and customer data. Read their [Terms of Service here](https://warriorplus.com/legal/tos.php)
+
+Paypal – We use Paypal as our payment processor for managing payments and managing customer information. See their [full privacy policy here](https://www.paypal.com/en/webapps/mpp/ua/privacy-full).
+
+## How long we retain your data
+
+For users that register an account on our website (by opting in with your name and/or email address or making a purchase), we also store the personal information they provide in the sign up process and information use to make a purchase.  All users can see, edit, or delete their personal information which is stored at any time (except they cannot change their username – contact the site admin if a username change is required) either within the website account user panel or when this ability is not available, by making a request to the site admin to remove or make changes. Website administrators can also see and edit that information.
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+## What rights you have over your data
+
+If you have an account on this site or another owned by Stuart Stirling, or have opted-in with your name and/or email, made a purchase, left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us.
+
+You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+## Where we send your data
+
+We send your data to our own databases which exist on our hosting company’s systems. We use Knownhost (see [Knownhost privacy policy here](https://www.knownhost.com/privacy-policy.html).) and Namecheap (see [Namecheap hosting privacy policy here](https://www.namecheap.com/legal/hosting/privacy-policy.aspx)) hosting for our websites.
+
+Depending on your actions on our site(s) your data may also be sent to various third-party companies. Please see the above section on “Analytics” and “Who we share your data with” for information on where your data is sent.
+
+Visitor comments on blogs may be checked through an automated spam detection service.
+
+### How we protect your data
+
+We use highly secure, top of the line web hosting and third-party data management systems (CRM) to store our users data.
+
+We use secured and encrypted web connections (SSL) on our websites which ensures your private data is securely shared and stored on our server.
+
+### What data breach procedures we have in place
+
+In the event of a breach, we will take the necessary steps to 1) alert affected users, 2) assess the scope of the breach and any potential harm it may cause the affected users, 3) inform users of required action 4) send updates of the resolution of the matter.
+
+## Contact information
+
+For any inquiries or questions regarding our policy, or to have your data removed from our site(s) or third-party sites related to this site, please contact us at the Support desk: [https://stuartstirlingsupport.com](https://stuartstirlingsupport.com/)
+
+Policy Last Revised: May 25th 2018
+
+**Copyright Stuart Stirling, All rights reserved.**  
+Unauthorized duplication or publication of any materials from this Site is expressly prohibited.
