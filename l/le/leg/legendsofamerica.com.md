@@ -1,58 +1,76 @@
-> *The following text is extracted and transformed from the legendsofamerica.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129050456id_/https%3A//www.legendsofamerica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legendsofamerica.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002031927id_/https%3A//www.legendsofamerica.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Legends of America
 
-**The cliff notes of our Privacy Policy:**
+### **Who we are**
 
-We don’t use your information for spam, nor for anything nefarious. If you ever receive spam from us, please [let us know](https://www.legendsofamerica.com/about-us/#Contact) immediately. Your web browser settings have more control than we do. We don’t sell any information collected. We use [Google Adsense and Google Double Click for Publishers](https://www.google.com/policies/technologies/ads/) for most of our advertising. These services have their own privacy policies. We use [GetResponse](https://www.getresponse.com/legal/privacy.html), a reputable, established company, as our Newsletter provider. This privacy policy pretty much covers everything, but we still have a separate [policy notice on our General Store](https://store.legendsofamerica.com/index.php?l=page_view&p=privacy_policy), as that is where we would collect more than just an email address and name. Our Photo Print Shop is hosted by Zenfolio.com which specializes in showcasing and sales of Photo Prints and other Products. [Zenfolio.com has it’s own privacy policy](https://en.zenfolio.com/privacy).
+Legends of America (https://legendsofamerica.com/) is a website created in June of 2003 by Kathy Weiser-Alexander to share her love of history.  Her husband, Dave Alexander, joined Legends’ full time in 2009.
 
-The rest of this is the legal mumbo jumbo that’s required for us to show you. If you read this entire message, you probably need to find a hobby…just sayin.
+Address:
 
-**Privacy Policy in full:**
+28926 Cedar Hill Loop  
+Warsaw, Mo 65355  
+660-723-2550 (Mon-Fri 9am – 5pm)  
+email: orders @ legendsofamerica.com
 
-Your privacy is very important to us. At Legends of America we have a few fundamental principles that we follow:
+See more [About Us](https://www.legendsofamerica.com/about-us/)
 
-We don’t ask you for personal information unless we truly need it. (Primarily we would ask for your name and email address when signing up for our newsletter. We also require email for making comments on our website.)
+### **Cookies**
 
-We don’t share your personal information with anyone except to comply with the law, develop our website, or protect our rights.
+If you set your browser to refuse our cookies, we honor that.  But our cookies are delicious, just so’in you know’in. Here’s more about our [Cookie Policy in General](https://www.legendsofamerica.com/cookie-policy/) and how you can block them.
 
-We don’t store personal information on our servers unless required for the on-going operation of our site.
+**Embedded Content from other websites**
 
-Legends of America operates several websites including Store.LegendsOfAmerica.com, LegendsofAmerica.com, Photos.LegendsofAmerica.com, and LegendsOfKansas.com. It is Legends of America’s policy to respect your privacy regarding any information we may collect while operating our websites. [Legends’ General Store has it’s own privacy policy](https://store.legendsofamerica.com/index.php?l=page_view&p=privacy_policy) due to the fact we gather more information there when you place an order.  Legends’ Photo Print shop is hosted by [Zenfolio.com, which has its own privacy policy](https://en.zenfolio.com/privacy).
+Articles on our site may include embedded content (e.g. videos, a few images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
-_Website Visitors_
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website. For the most part this relates to embedded Youtube videos, however we have also used, in a few occasions, embedded Vimeo videos, and embedded images from Wikimedia Commons.
 
-Like most website operators, Legends of America collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Legends of America’s purpose in collecting non-personally identifying information is to better understand how Legends of America’s visitors use its website. From time to time, Legends of America may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+**Analytics  **
 
-Legends of America also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on our stories. Legends of America only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that website commenter IP addresses are visible and disclosed to the administrators of the website where the comment was left.
+We use Google Analytics and the plugin Google Analytics Dashboard for WP (GADWP). See Google’s Privacy Policy page here (https://policies.google.com/privacy)
 
-_Gathering of Personally-Identifying Information_
+### **What Personal data we collect and why we collect it**
 
-Certain visitors to Legends of America’s websites choose to interact with Legends of America in ways that require Legends of America to gather personally-identifying information. The amount and type of information that Legends of America gathers depends on the nature of the interaction. For example, we ask visitors who comment on our website to provide a username and email address. Those who wish to receive Legends of America updates via email, we collect their emails. In each case, Legends of America collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Legends of America. Legends of America does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.  
-Aggregated Statistics
+If you are simply enjoying our articles, we may collect data as to location and pages visited for our Google Analytics. This plugin allows us to see how many visitors and from where are coming to our pages.  We retain information in analytics for as long as Google will allow us.
 
-Legends of America may collect statistics about the behavior of visitors to its websites. For instance, Legends of America may monitor the most popular pages on the list25.com site or use spam screened by the Akismet service to help identify spam. Legends of America may display this information publicly or provide it to others. However, Legends of America does not disclose personally-identifying information other than as described below.
+We also use [Google Adsense and Google Double Click for Publishers](https://www.google.com/policies/technologies/ads/) for most of our advertising. These services have their own privacy policy and most times information collected through them can be controlled by you/your browser.
 
-_Protection of Certain Personally-Identifying Information_
+We use [GetResponse](https://www.getresponse.com/legal/privacy.html), a reputable, established company, as our Newsletter provider. When you sign up for our newsletter, GetResponse is collecting your name and email address, along with the page you signed up from and your geo location (based on your IP address). The email address is then stored on GetResponse for our use in sending you our monthly newsletter and occasional offers from our supporting websites, Legends’ General Store, and Legends’ Photo Print Shop. You can unsubscribe to our newsletter at anytime using the link provided at the bottom of our newsletters.  Your email address and information is automatically removed from the data base if it is no longer valid, or if you have marked us as spam ( _but why would you do that if you signed up?_ )
 
-Legends of America discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Legends of America’s behalf or to provide services available at Legends of America’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Legends of America’s websites, you consent to the transfer of such information to them. Legends of America will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Legends of America discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Legends of America believes in good faith that disclosure is reasonably necessary to protect the property or rights of Legends of America, third parties or the public at large. If you are a registered user of an Legends of America website and have supplied your email address, Legends of America may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Legends of America and our products. We primarily use our various product websites to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Legends of America takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+[Legends General Store](https://store.legendsofamerica.com/) – Our General Store website (https://store.legendsofamerica.com) has its own [privacy policy](https://store.legendsofamerica.com/index.php?l=page_view&p=privacy_policy), but in a nutshell, we are collecting name, address, phone, email and order history when you place an order. Payment information is sent direct to our credit card processor or PayPal and is NOT stored on our servers.  Cookies may be used to help you stay logged in or save items in your cart.  But you can always delete those if you want to.
 
-_Cookies_
+[Legends Photo Print Shop](http://photos.legendsofamerica.com/) – Our Photo Print Shop website (http://photos.legendsofamerica.com) is hosted by Zenfolio.com which specializes in showcasing and sales of Photo Prints and other Products. [Zenfolio.com has its own privacy policy](https://zenfolio.com/privacy). As of this policy update (May 19, 2018) only areas that collect your personal information for ordering are on an SSL (https) url.  This will change in July 2018 when the entire website will install an SSL certificate.
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Legends of America uses cookies to help Legends of America identify and track visitors, their usage of Legends of America website, and their website access preferences. Legends of America visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Legends of America’s websites, with the drawback that certain features of Legends of America’s websites may not function properly without the aid of cookies.
+### **Comments**
 
-_Business Transfers_
+When visitors leave comments on our website we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-If Legends of America, or substantially all of its assets were acquired, or in the unlikely event that Legends of America goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Legends of America may continue to use your personal information as set forth in this policy.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-_Ads_
+Visitor comments are checked through an automated spam detection service. As of this update, that is the company Akismet.
 
-Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Legends of America and does not cover the use of cookies by any advertisers. We use [Google Adsense and Google Double Click for Publishers](https://www.google.com/policies/technologies/ads/) for most of our advertising.
+_**Akismet:**_
 
-_Comments_
+We collect information about visitors who comment on Sites that use our Akismet anti-spam service. The information we collect depends on how the User sets up Akismet for the Site, but typically includes the commenter’s IP address, user agent, referrer, and Site URL (along with other information directly provided by the commenter such as their name, username, email address, and the comment itself).
 
-Comments and other content submitted to Akismet anti-spam service are not saved on our servers unless they were marked as false positives, in which case we store them long enough to use them to improve the service to avoid future false positives.
+### **Who we share your data with**
 
-_Privacy Policy Changes_
+Google (analytics and advertising modules), GetResponse (newsletter sign up), Akismet, Wordfence (security), Quantum Gateway (our credit card processor on our General Store) and Zenfolio (our Photo Print Provider).  Of course, data shared from our General Store and Photo Print shop depends on whether or not you order…and you want to order don’t you?  🙂
 
-Although most changes are likely to be minor, Legends of America may change its Privacy Policy from time to time, and in Legends of America’s sole discretion. Legends of America encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+### **How long we retain data**
+
+We’ve asked Google to retain data about our visitors as long as allowed to give us a clear picture of our website’s performance. Comments are also retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.  When you sign up for our newsletter, your information is stored on GetResponse until you unsubscribe.  If you mark us as spam, your email address may never be used again to sign up for our newsletter, but why would you want to do that? When you accept our cookie notification, we will not ask you again, from the device you are on, for 3 months. That time would be shortened obviously if you delete cookies on your device, because that’s how we are keeping track (Cookie Notice).
+
+### **What Rights you have over your data**
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+### **How we protect your data**
+
+In addition to our SSL security certificate, we use Wordfence, a reputable website security system and strong administrative password protection to help prevent hacking. We do NOT sell or rent any data from our visitors.
+
+### **More?  **
+
+We’re pretty open about our website. If you have any concerns/questions regarding this privacy policy, give Dave a call for a chit chat. 660-723-2550, or email orders @ legendsofamerica.com
+
+_Last time this privacy policy was updated: May 2018  _
