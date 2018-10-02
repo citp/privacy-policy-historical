@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortunebuilders.com privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204163802id_/http%3A//www.fortunebuilders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortunebuilders.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002122504id_/http%3A//www.fortunebuilders.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FortuneBuilders
 
@@ -60,7 +60,7 @@ Through your use of the Website. When you visit the Website, we may track and co
 
 Through cookies and other technologies. A “cookie” is a small data file that can be placed on your hard drive when you visit certain Web sites. The Company may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks. If you are a Visitor or Member we may use a cookie to save your settings and to provide customizable and personalized services. To learn more about cookies, including information on what cookies have been set on your computer and how cookies can be managed and deleted, visit <https://www.ftc.gov/site-information/privacy-policy/internet-cookies>. 
 
-Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.
+Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them. We also use tracking pixels (i.e. Google Analytics) to aid in measuring and tracking where our website traffic is coming from and to track the performance of our site. Finally, we use remarking pixels from Facebook and Google to aid in customized, targeted followup advertising.
 
 IP Address. Your IP address is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). An IP Address may be identified and logged automatically in our server log files whenever a user accesses the Website, along with the time of the visit and the page(s) that were visited. Collecting IP Addresses is standard practice and is done automatically by many websites, applications and other services. We may use IP Addresses for purposes such as calculating usage levels of the Website, helping diagnose server problems, and administering the Website and its associated services.
 
@@ -95,7 +95,7 @@ This Website is not intended for the use of individuals under the age of 18, and
 If you have any questions about this Privacy Policy or the practices described herein, or you have any privacy related concerns, please contact us via:
 
 FortuneBuilders, Inc. Attn: Compliance Department  
-960 Grand Ave  
+3033 Bunker Hill St.  
 San Diego, CA, 92109  
 Tel: 619-881-0575  
 Fax: 888-506-9279  
