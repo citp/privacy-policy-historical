@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usedregina.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524234316id_/http%3A//www.usedregina.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usedregina.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002031441id_/https%3A//www.usedregina.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Used stuff in Regina for sale - UsedRegina.com - buy and sell free classified ads
 
@@ -63,9 +63,7 @@ With the exception of your phone number, this information is publicly displayed 
 
 Passwords
 
-If you post an advertisement but you do not have an account or you are not logged in to your account at the time you post it, the password you create to edit your advertisement is not encrypted. This means that we can see your password, although we keep it private.
-
-When you create an account, your password is encrypted, meaning that no one can see your password except you. 
+Any passwords provided are stored securely.
 
 Financial Information
 
