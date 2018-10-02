@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macroplant.com privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026235451id_/https%3A//macroplant.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macroplant.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002141716id_/https%3A//macroplant.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy · Macroplant
 
@@ -41,8 +41,8 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below:
 
 www.macroplant.com   
-114 E Louisiana St.  
-McKinney, Texas 75069  
+180 Cambridge St, Floor 2   
+Boston, MA 02114   
 United States
 
 support@macroplant.com 
