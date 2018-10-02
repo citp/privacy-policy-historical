@@ -1,125 +1,93 @@
-> *The following text is extracted and transformed from the smokeybear.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905124657id_/http%3A//www.smokeybear.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smokeybear.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002181608id_/https%3A//www.adcouncil.org/About-Us/Privacy-Policy) for the most accurate reproduction.*
 
-# Smokey Bear - Privacy Policy
+# Privacy Policy | AdCouncil
 
-### AD COUNCIL PRIVACY POLICY
+**AD COUNCIL PRIVACY POLICY**
 
-THIS IS OUR OFFICIAL PRIVACY POLICY, WHICH IS PART OF OUR [Terms of Use](https://web.archive.org/terms.asp) AND FORMS A PART OF YOUR LEGAL AGREEMENT WITH US. PLEASE READ IT CAREFULLY SINCE IT DESCRIBES THE TYPES OF INFORMATION WE COLLECT, HOW WE COLLECT AND USE INFORMATION, THE CIRCUMSTANCES IN WHICH WE DISCLOSE OR SHARE INFORMATION AND HOW YOU CAN ACCESS, UPDATE OR DELETE CERTAIN INFORMATION WE HAVE COLLECTED ABOUT YOU.   
-Any terms not defined in this Privacy Policy are defined in our [Terms of Use](https://web.archive.org/terms.asp). 
+ **EFFECTIVE DATE: April 12, 2017**
 
-  
+ **The Advertising Council, Inc. (“Ad Council”, “we”, “us”, or “our”) operates, hosts, and manages a number of websites, including without limitation,[http://www.adcouncil.org](http://www.adcouncil.org/), [https://www.psacentral.org](https://www.psacentral.org/), and [http://www.adlibbing.org](http://www.adlibbing.org/) (collectively, “Websites”).  Our Websites may also include the websites of our campaign sponsors where we host or manage the websites. This Privacy Policy describes,among other things, the types of information we collect, how we use it, and how we share the information.  Any terms not defined in this Privacy Policy are defined in our [Terms of Use](http://www.adcouncil.org/About-Us/Terms-of-Use) (“Terms”).**
 
+PLEASE READ THIS PRIVACY POLICY CAREFULLY BECAUSE IT, ALONG WITH OUR TERMS, FORMS A LEGALLY BINDING AGREEMENT BETWEEN YOU AND US.  IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, YOU MAY NOT USE OUR WEBSITES.
 
-### INFORMATION WE COLLECT AND HOW WE COLLECT IT
+ **INFORMATION WE COLLECT AND HOW WE USE IT**
 
-When you access or visit any of our Websites, we and our operational service providers and others who host our Websites often use technology that can recognize, collect and/or transmit information that is associated with you, but which do not personally identify you. Although the term "cookie" specifically refers to a small text file that is stored on a user's computer for record-keeping purposes, we will use the term "cookie" to refer generically to any technology that can recognize, collect and/or transmit information about your visits to our Websites. This type of information includes such data as the Internet or web domain that referred you, the type of operating system and browser you are using, the date and time of your visit, data relating to activities on our Websites (e.g., so-called �clickstream' data) and other technological attributes about your visit to our Websites. This information is used to analyze trends, administer our Websites, track user movements on our Websites, gather aggregate demographic information about visitors so we can continually improve our Websites. 
+We use the term “Personal Information” to refer to any information you provide in connection with your use of any of our Websites by which you can be personally identified. Personal Information may include such things as your name, street address, telephone number, date of birth, e-mail address and any other information which might reasonably be used to identify you.  We obtain Personal Information from you when you submit it to us.  We may use your Personal Information to register or subscribe you for certain features, functions, services, activities, games, promotions and content on our Websites (these are referred to as “Content” in our Terms).  You may also email us with a question or for more information and we will use your contact information (which includes Personal Information such as an email address) to respond to your question or request.  If you provide or submit your Personal Information to any of our Websites, we will give you the right to review, update and/or delete your Personal Information, subject to our obligations to comply with legal, regulatory our internal audit and record-keeping requirements.  We may also use your Personal Information to notify you of updates, promotional offers, or important information about our Websites and services.
 
-Cookies also allow our Websites to recognize a users' computer or access device each time it is used to visit a particular Website and cookies can keep count of how often you return. Cookies can also track how you use our Websites, your preferences for features and functions and, for Websites that have registration or similar features, cookies can store information such as your user name and password so you don't have to re-enter them each time you return to visit. Cookies don't personally identify you or any particular user or individual. 
+As part of an SMS/text message service that we provide in connection with a particular campaign, we may collect your cell phone number, your carrier’s name, and the date, time and content of your messages, as well as other information that you provide. We may use this information to contact you and to provide the services you request from us.
 
-You can disable or turn the cookie feature off by changing the settings on your Internet browser and you can also change the settings to stop your browser from automatically accepting cookies. Although changing these settings may not affect your ability to browse, it may affect your ability to use certain features and functions of our Websites and it may also require you to re-enter certain information each time you visit or attempt to use our Websites. You should consult the operating instructions that apply to your browser to determine how to best configure your browser settings for your needs. 
+When you access or visit any of our Websites, we and our operational service providers may use technology that can recognize, collect and/or transmit information that is associated with your device.  Although the term “cookie” specifically refers to a small text file that is stored on a user’s computer for record-keeping purposes, we will use the term “cookie” to refer generically to any technology that can recognize, collect and/or transmit information about your visits to our Websites.  This type of information includes such data as the Internet or web domain that referred you, the type of operating system and browser you are using, the date and time of your visit,data relating to activities on our Websites (e.g., so-called ‘click stream’ data) and other technological attributes about your visit to our Websites.  This information may be used by us, among other purposes, to analyze trends, administer our Websites, track user movements on our Websites, and gather aggregate demographic information about visitors so we can continually improve our Websites.
 
-  
+We may also use cookies on our Websites to recognize a user’s device each time it is used to visit a particular Website and to keep count of how often you return. Cookies can also track how you use our Websites, your preferences for features and functions and, for Websites that have registration or similar features, cookies can store information such as your user name and password so you don’t have to re-enter them each time you return to visit.
 
+You can disable or turn the cookie feature off by changing the settings on your Internet browser and you can also change the settings to stop your browser from automatically accepting cookies.  Changing these settings may also require you to re-enter certain information each time you visit or attempt to use our Websites.
 
-### PERSONAL INFORMATION
+We or our advertising service providers also use data from companies, including Facebook through the Facebook company Atlas Solutions, to analyze certain information about your activities on our Websites and non-affiliated sites, such as pages visited and search key words entered, to help determine advertising content that may be of interest to you. This is also referred to as Online Behavioral Advertising (“OBA”).  You may choose not to participate in OBA by opting out through the tools provided by the Digital Advertising Alliance (“DAA”) or by controlling the placement or reading of identifiers that track your data, resetting the identifiers, or, in some cases, deleting the existing cookies placed on your web browser. To opt out through the DAA, please visit <http://www.aboutads.info/choices> and opt out of online behavioral advertising by Facebook and other companies. When you choose to use these controls, an opt-out cookie will be placed on the browser you are using. If you use multiple devices or browsers you will need to opt-out on each one. If you choose to use a browser’s setting to delete cookies from that browser, you will delete any opt-out cookie associated with that browser and will need to opt-out again. Opting out does not mean you will no longer receive online advertising. It means that the companies from which you opted out will no longer customize ads based on data on your interests and web usage patterns.
 
-We use the term "Personal Information" to refer to any information you provide in connection with your use of any of our Websites by which you can be personally identified. Personal Information may include such things as your name, street address, telephone number, date of birth, e-mail address and any other information which might reasonably be used to identify you. We only obtain Personal Information from you when you submit it to us or provide it on one or more of our Websites that require it in order to allow you to register, subscribe or take advantage of certain features, functions, services, activities, promotions and content on our Websites (these are referred to as "Content" in our [Terms of Use](https://web.archive.org/terms.asp)). You may also email us with a question or for more information and we will use your contact information (which includes Personal Information such as an email address) to help us respond and for customer service purposes. Unless you voluntary provide or send us Personal Information, we will always ask you to submit or provide it to us before collecting your Personal Information, although you may not be able to use the particular Content, if you choose not to provide your Personal Information. If you provide or submit your Personal Information to any of our Websites, we will always give you the right to review, update and/or delete your Personal Information, subject to our obligations to comply with legal, regulatory our internal audit and record-keeping requirements. 
+You can opt out from receiving targeted advertising based on data collected via your mobile applications by following your mobile device maker’s most current published instructions, such as the examples below (current as of the date of this version of our Privacy Policy):
 
-In addition to this Privacy Policy, each of our Websites that ask you to submit or provide Personal Information, will have additional disclosures and information ("Supplemental Privacy Policies") that describe how that Website collects, uses, shares and maintains your Personal Information and each of those Supplemental Privacy Policies are incorporated and form a part of this Privacy Policy and our [Terms of Use](https://web.archive.org/terms.asp) when you use that Website and provide or submit Personal Information. 
+ _Android_
 
-  
-
-
-### SPONSORS, ADVERTISERS AND OTHER THIRD PARTIES
-
-Our Websites may contain or display information from our sponsors, advertisers, operational service providers (see Disclosure to Third Parties below) or others (each, a "Third Party") that offer to make information, goods or services available, provide opportunities to participate in promotions or engage in activities or that link or redirect your browser to other websites, materials or organizations. We may also use Third Parties to display or serve advertising on our Websites, as well as for distributing our online, email, messaged or web-based newsletters and other information. Third Parties often also employ cookies to measure advertising effectiveness. You should be aware that even if you encounter an advertisement, link or reference to a Third Party website on one of our Websites and even if we have a relationship with them, we do not control them, their websites or their policies and practices regarding use of their websites or any rules they have regarding the use of cookies or collection, use or disclosure of your information (including Personal Information). These are within their control and not ours and the terms and conditions, as well as the privacy policies that apply to these Third Parties and their websites are their responsibility, not ours. 
-
-  
+  * Open the Google Settings app on your device
+  * Select Ads
 
 
-### DISCLOSURE TO THIRD PARTIES
 
-We do not sell, rent, lease, provide or otherwise disclose your Personal Information to unaffiliated entities unless the Supplemental Privacy Policy that applies to your use of a particular Website. We will always let you know if we intend to provide any of your Personal Information to a Third Party, you will always have an opportunity to read and review the Supplemental Privacy Policy that applies and we will ask you to consent ("Opt in") whenever we intend to do so. 
+_iOS_
 
-We always have the right to disclose your Personal Information to any Third Party we engage for the purpose of administering, operating, configuring site design, maintaining and providing internal support for our Websites and Content on our Websites. These Third Parties are called operational service providers that provide internal support to operations and activities and/or for Site design, development, hosting and operations. We always request that our operational service providers protect your privacy and not disclose your Personal Information to third party marketers that are not associated with our Websites, nor are they permitted to use your Personal Information for their own marketing or promotional purposes. 
-
-We also reserve the right to make your Personal Information available: 
-
-* When we are compelled by a governmental agency, law, regulation, a court or other legal process; 
-* If we believe you are, have or may violate any law, regulation, our [Terms of Use](https://web.archive.org/terms.asp);
-* If we believe you are or may be a threat to safety, property, interests or rights of us or others;
-* In order to investigate, respond to or resolve problems or inquiries or defend our interests;
-* In a merger, acquisition, change of control, joint venture or other business combination. 
-
-You should also be aware we are public service organization and simply because a website or web page includes our logo, name or otherwise refers to us, does not mean the website or web page is ours or under our control. We work with sponsors, advertisers and government agencies to bring you public service advertising and if you enter, provide or submit Personal Information on or to a co-branded website or web page you may be subject to the terms, conditions and privacy policies of the Third Party sponsor, advertiser, government agency or co-branding organization. 
-
-  
+  * Devices with iOS 6 and above use Apple’s Advertising Identifier. To learn more about limiting ad tracking using this identifier, visit the Settings menu on your device as follows:
+  * iOS 7 or higher – Choose Settings > Privacy >Advertising
+  * iOS 6 – Choose Settings > General > About> Advertising
 
 
-### HOW WE USE YOUR INFORMATION
 
-We only use information that we collect or obtain when you use our Websites as described in this Privacy Policy, for our internal research purposes or to ensure compliance with our [Terms of Use](https://web.archive.org/terms.asp). If we or any of our Websites collect, maintain, use or intend to share your Personal Information for other purposes than as described in this Privacy Policy, we will ensure that is included within the Supplemental Privacy Policy that applies to the Website or Websites involved. 
+**SPONSORS, ADVERTISERS AND OTHER THIRD PARTIES**
 
-  
+Our Websites may contain or display information from our sponsors, advertisers, operational service providers or others (each, a “Third Party” and collectively, “Third Parties”). These Third Parties may make information, goods or services available on our Websites, provide opportunities to participate in promotions on our Websites, or engage in activities that link or redirect your browser to their websites. We may also use Third Parties to display or serve advertising on our Websites, as well as for distributing our online, email, messaged or web-based newsletters and other information. Third Parties often also employ cookies, action tags, and other code that may collect people’s information to measure advertising effectiveness and deliver targeted advertising. You should be aware that even if you encounter an advertisement, link or reference to a Third Party website on one of our Websites and even if we have a relationship with them, we are not responsible for the practices or policies of their websites or any rules they have regarding the use of cookies or collection, or the use or disclosure of your information (including Personal Information).  These practices are within their control and not ours.  As such, in such instances, their privacy policies will govern and apply.
 
+Specifically, but not exclusively, we use Atlas Universal Tags to provide you with content tailored to your interests and web browsing history.  The process involves Atlas’s transfer of your Facebook data to us in order to design this targeted content.  Please see the Atlas privacy policy at <http://atlassolutions.com/privacy-policy> for more information.
 
-### SECURITY 
+ **DISCLOSURE TO THIRD PARTIES**
 
-We maintain reasonable standards of security and confidentiality. We also try to limit information access to individuals who need to have such access to perform their responsibilities associated with our Websites and the Content on our Websites. Any employee found violating our standards of security and confidentiality is subject to our disciplinary processes. We request our operational service providers to follow the same policy. The Internet, however, and communications cannot be guaranteed to be secure and it is possible that others may unlawfully intercept or access information, transmissions or communications to, from or within our Websites. 
+Our policy is to not sell, rent, lease, provide or otherwise disclose your Personal Information to unaffiliated entities unless otherwise described in this Privacy Policy. Notwithstanding the foregoing, we may disclose your Personal Information to any Third Party we engage for the purpose of administering, operating, configuring site design, maintaining and providing internal support for our Websites and Content. These Third Parties are called “operational service providers,” and they provide internal support to operations and activities and/or for Site design, development, hosting and operations.
 
-  
+We also reserve the right to make your Personal Information available:
 
-
-### YOUR RIGHTS REGARDING PERSONAL INFORMATION. 
-
-In addition to any terms, conditions or rights that are described in any Supplemental Privacy Policy applicable to particular Websites, you always have the right to request that: (i) we correct or update your Personal Information; (ii) we not share your Personal Information with third parties; or (iii) your Personal Information be removed from our active marketing databases. Although we will usually provide you with the ability to update or delete Personal Information directly online, some Personal Information may not be changed or deleted by you and requires you to contact us for verification (e.g., birth date, email address, name). The Supplemental Privacy Policy that applies to the Website will provide you with the email address or contact information that applies to that Website so that you can contact us with a request to change that type of information. 
-
-  
-
-
-### YOUR CALIFORNIA PRIVACY RIGHTS
-
-If you are a resident of the State of California, under the California Civil Code, you have the right to request information on how to exercise your disclosure choice options from companies conducting business in California. For each Website that collects or obtains any Personal Information from you, our Supplemental Privacy Policy will provide you details, as well as contact information for the Privacy Administrator for that Website and specifics regarding how to send us a request for information. All requests sent via postal mail must be labeled "Your California Privacy Rights" on the envelope or post card and clearly stated on the actual request. We will not accept requests via the telephone or by facsimile and we are not responsible for requests that are not labeled, are not sent properly, or that do not have complete information. 
-
-  
+  * When we are compelled by a governmental agency, law, regulation, a court or other legal process;
+  * If we believe you are, have or may violate or in order to enforce any law, regulation, our Terms;
+  * If we believe you are or may be a threat to safety, property, interests or rights of us or others;
+  * In order to investigate, respond to or resolve problems or inquiries or defend our interests;
+  * In a merger, acquisition, change of control, joint venture or other business combination; or
+  * When you otherwise consent
 
 
-### CHANGES TO PRIVACY POLICY
 
-We can change this Privacy Policy at any time (see our [Terms of Use](https://web.archive.org/terms.asp)). As with our [Terms of Use](https://web.archive.org/terms.asp), we encourage you to come back and review this Privacy Policy often to be sure you are aware of the terms, conditions, rights and obligations that apply to you. 
+You should also be aware we are a public service organization and simply because a website or web page includes our logo, name or otherwise refers to us, does not mean the website or web page is ours or under our control.  We work with sponsors, advertisers, government agencies, and other Third Parties to bring you public service advertising and if you enter, provide or submit Personal Information on or to a co-branded website or web page you may be subject to the terms, conditions and privacy policies of the Third Party sponsor, advertiser,government agency or co-branding organization.
 
-  
+ **SECURITY**
 
+We maintain reasonable standards of security and confidentiality. We also try to limit information access to individuals who need to have such access to perform their responsibilities associated with our Websites and the Content. While we strive to protect your Personal Information,we cannot guarantee the security of your Personal Information and your communications when using our Websites.
 
-### CONTACT US
+ **YOUR CHOICES**
 
-If you have any questions about the Privacy Policy that applies to any of our Websites, first check to see if that Website has a Supplemental Privacy Policy with contact information if you have questions about that Website. For general questions about our Privacy Policies or if a particular Website does not have a separate Supplemental Privacy Policy please email us at SmokeyBear@adcouncil.org and please specify if you are inquiring about a specific Website to help us better assist and respond to your questions. 
+In general, we provide you with the ability to correct or update your Personal Information. In some instances, some Personal Information may not be changed or deleted by you and requires you to contact us for verification (e.g., birth date, email address, name). In general, we offer you the ability to opt out of receiving commercial emails and other commercial communications from us in the future. Our Websites and/or email communications will provide you with instructions and the procedures you can use to opt out when applicable.
 
-  
+ **YOUR CALIFORNIA PRIVACY RIGHTS**
 
+California law permits our customers who are California residents to request and obtain from us information about the personal information (if any) we disclosed to third parties for their direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding twelve calendar months.  At this time, we do not disclose your personal information with third parties for their direct marketing purposes so this requirement does not apply to us.
 
-### AD COUNCIL COPYRIGHT POLICY
+ **CHILDREN**
 
-This Copyright Policy is part of our [Terms of Use](https://web.archive.org/terms.asp) and forms part of the legally binding agreement you have with us when you use our Websites. Any terms not defined in this Copyright Policy have the meaning set forth in our [Terms of Use](https://web.archive.org/terms.asp). 
+You may not submit your personal information unless you are at least 13 years old.  Children under the age of 13 that have registered with this Website are in violation of our Terms.  If you believe that your child under the age of 13 has provided his or her personal information to us, please notify us immediately by contacting us at webmaster@adcouncil.org.  You may be required to provide verifiable identification that you are the child’s parent or legal guardian.
 
-We respect the intellectual property rights of others and we expect our users, including you, to do the same and avoid infringing upon or violating the intellectual property rights of others. Subject to any legal and regulatory requirements that apply and in addition to any rights and remedies we may otherwise have (all of which are cumulatively reserved), we may terminate, suspend and/or cancel any and all registrations, profiles, access rights or use privileges applicable to any and all of our Websites of anyone, including you, that is found to be in violation of this Copyright Policy. That said, without limitation, we unconditionally reserve the right to take or refrain from taking any action available to us in our sole and absolute discretion. 
+ **CHANGES TO PRIVACY POLICY**
 
-If you believe any materials displayed or otherwise available on our Website infringe upon or violate the copyright of any other party, including any copyright you or we may hold or have rights in, you should report it to us promptly by using the procedures and the following instructions: 
+We may edit, amend, modify and update our Privacy Policy at any time by posting updated text on or links to our Websites.  When we make material changes to our Privacy Policy, we will notify you by posting a notice on our Websites.  We display the Effective Date at the top of our Privacy Policy so that you will know when there has been a change.  Your continued use of our Websites after any such changes constitutes your acceptance to the modified terms and conditions set forth herein.
 
-  
+ **CONTACT US**
 
+For questions about our Privacy Policies please email us at webmaster@adcouncil.org or write us to the attention of our VP, Digital and PRISM, at 815 Second Avenue, 9th Floor, New York, NY 10017 and please specify if you are inquiring about a specific Website to help us better assist and respond to your questions.
 
-### INSTRUCTIONS FOR NOTIFYING US AND MAKING A CLAIM OF COPYRIGHT INFRINGEMENT
+Copyright © 2016 The Advertising Council, Inc. All Rights Reserved
 
-#### DO NOT USE THIS PROCEDURE FOR ANYTHING UNRELATED TO COPYRIGHT INFRINGEMENT
-
-Pursuant to Title 17, United States Code, Section 512(c)(2), all notifications of claimed copyright infringement should be sent ONLY to our Designated Agent. Written notification of copyright infringement must be submitted to our Designated Agent as follows: Service Provider(s):   
-Webmaster  
-The Advertising Council, Inc.   
-815 Second Ave., 9th Floor  
-New York, NY 10017
-
-Contact Information of Designated Agent to Which Notification Should be Sent:   
-Facsimile Number of Designated Agent: 212-922-1676  
-E-mail Address of Designated Agent: [webmaster@AdCouncil.org](mailto:webmaster@AdCouncil.org)  
-Your notification must include the following: (1) an electronic or physical signature of the owner or of the person authorized to act on behalf of the owner of the copyright interest; (2) identification of the copyrighted work you claim has been infringed; (3) a description of the material you claim is infringing, and the location where the original or an authorized copy of the copyrighted work exists (for example, the URL of the page of the website where it is lawfully found; the name, edition and pages of a book from which an excerpt was copied, etc.); (4) a clear description of where the infringing material is located on our website, including its URL, if applicable, so we can locate the material; (5) your name, address, telephone number, and e-mail address; (6) a statement that you have a good-faith belief the disputed use is not authorized by the copyright owner, its agent, or the law; and (7) a statement by you, made under penalty of perjury, that the above information in your notice is accurate and you are the copyright owner or authorized to act on the copyright owner's behalf. 
+[Privacy Policy in Spanish](http://www.adcouncil.org/About-Us/Politica-de-privacidad)
