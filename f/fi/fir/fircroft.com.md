@@ -1,43 +1,163 @@
-> *The following text is extracted and transformed from the fircroft.com privacy policy that was archived on 2016-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160729112124id_/https%3A//www.fircroft.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fircroft.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002133607id_/https%3A//www.fircroft.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Fircroft
+# Privacy Policy | Fircroft
 
-_For residents of Australia, please refer to Fircroft's specific Australian Privacy Policy which can be found[here.](http://www.fircroft.com/au/privacy-policy)_
+**Identity and Contact Details**
 
-This site, www.fircroft.com, is owned and operated by 
+Fircroft Group is a global workforce solutions provider to the technical engineering sectors and is the data controller for the purpose of the General Data Protection Regulation 2016/679 and country specific data protection laws.
 
-Fircroft Engineering Services Ltd. Fircroft Engineering Services Ltd is the data controller for the purpose of the Data Protection Act 1998. This policy together with our [terms and conditions](http://www.fircroft.com/terms-and-conditions) and any other documents referred to in it sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our practices regarding your personal data and how we will treat it. If you do not agree to our processing of your data in the manner set out below, please do not submit any personal data to us. 
+The Head office is based at Lingley House, 120 Birchwood Point, Birchwood Boulevard, Warrington, Cheshire, WA3 7QH 
 
-**Information we may collect from you** ****
+Tel: + 44 (0) 1925 281555
 
-We may collect and process the following data about you: \- Information that you provide by filling in forms on our site www.fircroft.com (“our site”). This includes information that you provide to us at the time of registering to use our site (including information which you provide to us on your CV). \- If you contact us, we may keep a record of that correspondence. \- We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them. \- Details of transactions you carry out through our site with us or with the agencies or employers with whom we work. \- Details of your visits to our site and the resources that you access. You consent to us using the information provided by you (including, without limitation, sensitive personal data) in order to facilitate the recruitment process on your behalf and in accordance with the terms of this privacy policy. While we will not ordinarily seek any “sensitive personal data” (e.g. data relating to health/disabilities, race/ethnicity, trade union membership, criminal convictions) from candidates, if you choose to provide any such data to us, you are giving us your explicit consent to the processing of such data in accordance with this privacy policy.We use information held about you in the following ways: \- To provide you with the services or information that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes. \- To ensure that content from our site is presented in the most effective manner for you and for your computer. \- To carry out our obligations arising from any contracts entered into between you and us. \- To notify you about changes to our service. We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post, telephone or electronic means. We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users. 
+**Data Protection Representative Contact Details**
 
-**Disclosure of your information** ****
+The Data Protection Representative at Fircroft is can be contacted by sending an email to: dataprotectionoffice@fircroft.com
 
-We may make your personal information available to agencies and employers who subscribe with us or use our Website, who may then use that information to contact you by email, telephone, post, fax or SMS. We may disclose your personal information to any member of our group, which means our subsidiary companies, our ultimate holding company and its subsidiary companies. We may disclose your personal information to third parties: \- In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. \- If Fircroft Engineering Services Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. \- If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms and conditions to and other agreements; or to protect the rights, property, or safety of Fircroft Engineering Services Ltd, our customers, or others. 
+**Definitions**
 
-**IP addresses and cookies** ****
+"Personal Data" shall mean any information relating to an identified or identifiable natural person ('Data Subject'); an identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to other factors or reference points. 
 
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers or to agencies or employers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual. For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site. 
+**What Information Fircroft Collects**
 
-**Where we store your personal data** ****
+Fircroft collect Personal Data from:
 
-All information you provide to us is stored on our secure servers. Where you have chosen a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of the agencies or employers with whom we work. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. 
+• Candidates who register with Fircroft or contact Fircroft in relation to recruitment services or apply to vacancies advertised by Fircroft on Fircroft's website or on external job boards
 
-**Your rights** ****
+• Candidates who apply to work for Fircroft internally
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right at any time by contacting us at marketing@fircroft.com. Our site may, from time to time, contain links to and from the websites of our partner agencies and employers, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. 
+• Employees
 
-**Access to information** ****
+• Clients
 
-The Data Protection Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. 
+• Suppliers
 
-**Changes to our privacy policy**
+We may also ask you to complete surveys that we use for research or customer service purposes, although you do not have to respond to them. 
 
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. 
+**Purpose of Processing**
 
-**Contact** ****
+Fircroft is a global workforce solutions provider and has over 45 offices around the globe. Personal Data provided may be stored on Fircroft's databases in order to perform services more efficiently, provide recruitment services and maintain Fircroft's records.
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [marketing@fircroft.com](mailto:marketing@fircroft.com).
+If a candidate has requested assistance from Fircroft to find a role, a copy of your curriculum vitae/resume will be held on file to ensure candidates registered on Fircroft's database are informed of relevant vacancies we are managing on behalf of our clients. Fircroft may pass your Personal Data onto clients for a vacancy application, with your consent. The methods used for maintaining communication can range from telephone, email, SMS or video conference.
 
-Thank you for visiting our website.
+In the event a Candidate is placed on assignment with a client, Fircroft are required to set up and manage your contract compliantly with global legislation and contractual requirements. We will request  that you provide additional personal information and documents, some of which could be classed as sensitive data and all steps reasonably necessary will be taken to ensure that your data is treated securely and in accordance with this Privacy Policy.
+
+Failure to provide such personal information on request could delay or prevent the commencement of your assignment.
+
+We will not collect any personal data from you that is unnecessary or irrelevant. 
+
+**Legitimate Interests   **
+
+The nature of Fircroft's business activities, requires the registration of candidate resumes and personal information in the creation of candidate records on Fircroft's internal database. The purpose is to maintain contact and keep individuals updated with employment opportunities, company updates and provision of support services during an active assignment.
+
+Other marketing methods are used such as email job alerts and targeted marketing campaigns. As we constantly aim to improve our service, we will occasionally request the completion of a survey, which provides valuable data used internally to develop strategies to enhancement our service offerings. Should a candidate no longer wish to receive communications by way of post, SMS, phone and/or email, concerning the services provided by Fircroft, selected marketing information (such as newsletters) or other relevant information (such as industry publications) please contact the Data Protection  Representative 
+
+Fircroft also records client data, which includes contact details of client representatives, such as email addresses and phone numbers, to facilitate the delivery of Fircroft's services. 
+
+For reference and information purposes, correspondence received from telephone conversations or emails are stored in our systems, in case it is needed to refer back to at a subsequent date. 
+
+Fircroft will also require details of a candidate's next of kin information as part of the emergency response procedure, in the rare event of an emergency. 
+
+**IP addresses and cookies**
+
+Fircroft may collect information about your computer, including where your IP address is available from, operating system and browser type, for system administration and to report aggregate information to our advertisers or to agencies or employers.  This is statistical data about our users' browsing actions and patterns, and does not identify any individual. 
+
+For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. 
+
+There are different types of cookies. The ones used by Fircroft are: 
+
+• Performance Cookies: these collect information about how visitors use our website, for example which pages are visited most. These cookies do not collect information that identifies visitors to our website. 
+
+• Functionality Cookies: these cookies allow our website to remember choices you make and changes you have made to things that you can customize such as personal features. These cookies may also be used to provide services you have asked for. The information these cookies collect is anonymised and they cannot track your browsing activity on other websites. 
+
+You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to Fircroft's website (www.fircroft.com) ("Site").
+
+**Our Clients**
+
+The type of personal information that we typically collect and hold about clients is information that is reasonably necessary to help us manage the presentation and delivery of our services. This may include contact information, including names, titles, email addresses, business addresses, and telephone and fax numbers. 
+
+**Referees**
+
+The type of personal information that we typically collect and hold about referees is information that is reasonably necessary to make determinations about the suitability of one of our candidates for particular jobs or types of work and may include: 
+
+(a) Contact information, including names, titles, email addresses, business addresses, and telephone and fax numbers; and 
+
+(b) Qualifications and job titles.
+
+**Who Fircroft share your personal data with**
+
+As part of our global operations, circumstances may arise where we share your personal data with other entities within the Fircroft Group. Offices are located globally which include United Kingdom, America, Canada, West Indies, Middle East, Central Asia, South East Asia, Australia and Africa. 
+
+We may also be required to share your personal data with third party service providers for the provision of insurance, facilitation of salary payments, visa agents and embassies, clients, background checking and screening agents, tax authorities, travel agencies, recruitment management software, administration support services for facilitating communications, surveys and CV processing
+
+We take reasonable steps to ensure that the terms of service with our third party service providers recognise that we are bound by obligations to protect the privacy of your personal information.
+
+Any Personal Data provided to us may be stored on our database and/or systems and transferred between any of the locations in which we operate, including those countries outside of the European Economic Area ("EEA). Countries outside of the EEA may not have data protection laws which are as stringent as those countries which form part of the EEA, however Fircroft has processes in place to ensure your information and privacy are protected when information is transferred to other countries. 
+
+**International Data Transfers   **
+
+For regulatory, statutory or contractual purposes, we may be required to share your personal data with other Fircroft entities, third parties or clients outside the European Economic Area. 
+
+Please note that the overseas offices of the Fircroft group may not be subject to privacy regimes that are equivalent to the privacy regime in Europe. However, the Fircroft group entities are required to treat your personal information with confidentiality and to only use and disclose your personal information for purposes that are set out in this Privacy Policy.
+
+Typical safeguards deployed to protect your personal data during international transfers consist of:
+
+  * Third party data processing agreements
+  * Inter-company data processing agreements
+  * Encryption of sensitive and confidential data
+  * Password protected folders
+  * Strict access controls
+  * Defined retention periods
+  * Secure email transfers 
+
+
+
+**Retention**
+
+The personal data which Fircroft collect is only retained for as long as it is needed. The criteria we use to determine the period can vary for each type of data, which depends on statutory or contractual obligations. Following expiry of this designated period, your personal data will be securely deleted.
+
+**Data Subject Rights**
+
+Fircroft are committed to facilitating your rights, where you are fully entitled to the following:
+
+• Obtain or gain access to the personal data we hold about you on our records
+
+• The rectification of your personal data which you believe is inaccurate
+
+• The restriction of processing your personal data 
+
+• Object to processing of personal data, where processing is based on legitimate interests (unless Fircroft have compelling legitimate grounds for the processing) public interests and direct marketing purposes. 
+
+• Have your data erased from our records
+
+• Have your data ported in electronic, machine readable format from Fircroft to yourself or another organisation
+
+Please do not hesitate to contact our Data Protection Representative for assistance and we shall take action on a request without undue delay and in any event within one month of receipt. That period may be extended by two further months where necessary, taking into account the complexity and number of the requests.
+
+**Right to Withdraw Consent**
+
+We may request your consent for processing your personal data of a sensitive nature, which relate to racial or ethnic origin, biometric data or data concerning health. If your consent is given, you have the right to withdraw it at any time. 
+
+**The Right to Lodge a Complaint**
+
+In the event you are not satisfied with our response or believe we are processing your Personal Data not in accordance with the law you can raise a complaint to the Information Commissioner's Office (ICO) in addition to maintaining the right to complain to a supervisory authority. 
+
+**Statutory and Contractual Requirements**
+
+To effectively set up and manage your contract, Fircroft have a necessity to take into account both statutory and contractual obligations. 
+
+Prior to assigning workers to our clients, it is required by law for Fircroft to verify an individual's identity and ensure they can legally work in the country of operation. This is done by inspecting documents such as; passports, visas, identification cards and driving licences and copies are taken and stored on our systems to demonstrate compliance with the relevant legislation.
+
+For individuals undertaking overseas assignments, there is a need to comply with immigration laws and in order to facilitate a work permit or visa application or adhere to laws in a country of operation. On this basis, we can be required to request data relating to passport information including physical passports, photographs, medical or health status, vaccination records and criminal record checks. 
+
+Some clients may require a medical assessment or fit for work check completed by a medical practitioner and evidence of vaccination records, should their work sites be based in remote locations or a harsh environment.
+
+To demonstrate professional competency, clients also may request evidence of educational or training records and next of kin information, in the event of an emergency. 
+
+To ensure we can make prompt payment of wages and salaries, we will request banking information, limited company documentation, national insurance or social security Numbers. 
+
+Fircroft are committed to providing high levels of services to candidates and it is necessary that the Personal Data you provide is sufficient, in order for us to manage your contract efficiently and enable Fircroft to fulfil our statutory and contractual obligations. 
+
+**Further Processing**
+
+Fircroft will always endeavour to explain what personal data we require from you and the reasons it is requested. Should it be determined at a later date that we need to process your data for an additional purpose which you are not aware of at point of collection, we will ensure you are fully informed of our intentions and your rights as explained above will be fully applicable.
