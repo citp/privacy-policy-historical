@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the cvwarehouse.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531212315id_/http%3A//company.cvwarehouse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cvwarehouse.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002131712id_/http%3A//company.cvwarehouse.com/en/privacy) for the most accurate reproduction.*
 
-# Privacy - CVWarehouse
+# Privacy | CV Warehouse
 
 CVWarehouse NV, operating the [www.cvwarehouse.com](http://www.cvwarehouse.com/) candidate portal and the CVWarehouse website and its company-oriented portal, is registered with the Office of the Commission for Data Protection.
 
 Contrary to other tools, [www.cvwarehouse.com](http://www.cvwarehouse.com/) never allows any third party to access the personal data of candidates, without the explicit consent of these candidates. This way we assure more privacy and safety of use of such personal information than commonly available in this market space.
 
-All information provided remains private and is solely used for the purposes intended by and as explained on our site. Every company that accesses the company-section of our websites signs a non disclosure agreement and can only view the details of candidates that allow passing on their data to these specific companies. A model of such non disclosure agreement can be provided, by sending a motivated email to [Support Department](https://candidate.cvwarehouse.com/Content/-PrivacyPolicyContactPage?lang=en-US "Support Department").
+All information provided remains private and is solely used for the purposes intended by and as explained on our site. Every company that accesses the company-section of our websites signs a non disclosure agreement and can only view the details of candidates that allow passing on their data to these specific companies. A model of such non disclosure agreement can be provided, by sending a motivated email to [Support Department](https://candidate.cvwarehouse.com/Content/-PrivacyPolicyContactPage?lang=en-US).
 
-For any question, complaint or further information regarding this subject, please mail [Support Department](https://candidate.cvwarehouse.com/Content/-PrivacyPolicyContactPage?lang=en-US "Support Department") and we will address your inquiry as soon as we can. Should feel that your inquiry has not been satisfactory addressed, you have the right to contact the Privacy Commission (“Commission de la Protection de la Vie Privée/Commissie voor de Bescherming van de Persoonlijk Levenssfeer”) at 1000 Brussels, Hoogstraat 139, +32 (0)2/213859.
+For any question, complaint or further information regarding this subject, please mail [Support Department](https://candidate.cvwarehouse.com/Content/-PrivacyPolicyContactPage?lang=en-US) and we will address your inquiry as soon as we can. Should feel that your inquiry has not been satisfactory addressed, you have the right to contact the Privacy Commission (“Commission de la Protection de la Vie Privée/Commissie voor de Bescherming van de Persoonlijk Levenssfeer”) at 1000 Brussels, Hoogstraat 139, +32 (0)2/213859.
 
 ## Which is the information collected?
 
@@ -46,7 +46,7 @@ Your CV may, however, in the future be made accessible from other sites of futur
 
 ## On Direct Marketing and Direct Mailing actions
 
-Your details will not be used by CVWarehouse NV for Direct Marketing purposes. In future we may imply you in direct mailing actions that will be directly related to career opportunities. Although our customers contractually agree to use your data for their own company recruitment needs only, misuse of this directive by such companies can be signaled to [Support Department](https://candidate.cvwarehouse.com/Content/-PrivacyPolicyContactPage?lang=en-US "Support Department").
+Your details will not be used by CVWarehouse NV for Direct Marketing purposes. In future we may imply you in direct mailing actions that will be directly related to career opportunities. Although our customers contractually agree to use your data for their own company recruitment needs only, misuse of this directive by such companies can be signaled to [Support Department](https://candidate.cvwarehouse.com/Content/-PrivacyPolicyContactPage?lang=en-US).
 
 ## Data Safety
 
@@ -54,6 +54,6 @@ To access private data, companies as well as candidates need to login explicitly
 
 ## Privacy commitment changes
 
-To make sure that any changes to our privacy commitment are known to you, please visit these privacy statement pages regularly, as we will keep them up to date. We commit ourselves to proactively inform you of prominent changes, which will be the only exception to our direct mailing commitment above. Should you have any questions or concerns about our privacy commitment, please send a mail to [Support Department](https://candidate.cvwarehouse.com/Content/-PrivacyPolicyContactPage?lang=en-US "Support Department") or a letter to our offices at Damplein 16, B-2060 Antwerpen to the attention of Inge Geerdens, CVWarehouse NV, referencing our privacy statement.
+To make sure that any changes to our privacy commitment are known to you, please visit these privacy statement pages regularly, as we will keep them up to date. We commit ourselves to proactively inform you of prominent changes, which will be the only exception to our direct mailing commitment above. Should you have any questions or concerns about our privacy commitment, please send a mail to [Support Department](https://candidate.cvwarehouse.com/Content/-PrivacyPolicyContactPage?lang=en-US) or a letter to our offices at Damplein 16, B-2060 Antwerpen to the attention of Inge Geerdens, CVWarehouse NV, referencing our privacy statement.
 
 CVWarehouse is registered with the Belgian Commission to protect the Individual Privacy under ID VT005012144.
