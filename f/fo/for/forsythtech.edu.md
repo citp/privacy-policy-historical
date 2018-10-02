@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forsythtech.edu privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602203308id_/http%3A//www.forsythtech.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forsythtech.edu privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002174640id_/https%3A//www.forsythtech.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Forsyth Tech
 
