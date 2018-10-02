@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texastribune.org privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119075036id_/https%3A//www.texastribune.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texastribune.org privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002121941id_/https%3A//www.texastribune.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Texas Tribune
 
@@ -78,7 +78,7 @@ Internal and Service-Related Usage.** We use information, including Personal Inf
 
 **Location-Based Functionality**. We use Location Data to provide location-based functionality. 
 
-**Donation Attribution**. If you make a financial or other donation to The Texas Tribune (e.g., become a member), The Texas Tribune may use any Personal Information you specify to be used as the attribution for your contribution in connection with any lists of donors to The Texas Tribune, including any donor lists posted on the Services. If you do not want your Personal Information used in this manner, you must mark the “Anonymous” box next to the “Attribution” form field on the Services (or other similar indication) when making your contribution. 
+**Donation Attribution**. If you make a financial or other donation to The Texas Tribune (e.g., become a member), The Texas Tribune may use any Personal Information you specify to be used as the attribution for your contribution in connection with any lists of donors to The Texas Tribune, including any donor lists posted on the Services. 
 
 **Feedback**. Any feedback, questions, comments, suggestions, ideas, or the like that you send to The Texas Tribune (“ **Feedback** ”) will be treated as being non-confidential and nonproprietary, and The Texas Tribune will be free to use such information for any purpose whatsoever including, but not limited to, developing and marketing products and services incorporating the information. We may read on the air and/or publish on the Services or in any medium now known or unknown, the Feedback that we receive. In doing so, we may edit your written Feedback for clarity or brevity and identify you by name and location as the author of the Feedback. 
 
@@ -161,6 +161,6 @@ We may revise this Privacy Policy, so review it periodically.
 Please contact us with any questions or comments about this Privacy Policy, your Personal Information, our use and disclosure practices, or your consent choices by email at [webmaster@texastribune.org](mailto:webmaster@texastribune.org) or by writing to us at the following address: 
 
 The Texas Tribune   
-823 Congress Ave   
-Suite 1400   
+919 Congress Ave   
+The Sixth Floor   
 Austin, TX 78701 
