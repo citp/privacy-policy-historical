@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the profootballhof.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626174523id_/http%3A//www.profootballhof.com/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profootballhof.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002083358id_/http%3A//www.profootballhof.com/service/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Customer Service | Pro Football Hall of Fame Official Site
 
-_Last Updated: Feb. 13, 2018_
+_Last Updated: Sept. 10, 2018_
 
 NFL Enterprises LLC, the National Football League, and the other members of the NFL Family (collectively, “NFL,” “we,” “our,” “us”) respect your privacy and value your trust and confidence.  This privacy policy (the "Privacy Policy") applies to our website www.ProFootballHOF.com,  (the "Services"), and explains how we collect, use, and disclose information through the Services. By using the Services, you agree to the terms of this Privacy Policy.
 
 Please note that this Privacy Policy does not apply to NFL properties that do not link to this Privacy Policy (including NFLShop.com and NFLRush.com) or to information collected by the thirty-two individual NFL member clubs (the "Member Clubs").  In some instances, we may direct you to a site that is operated by a third party service provider. Even though the page where you provide information may have the look and feel of the Services, a different privacy policy may govern that information collection by our third party service provider.
 
-If you have questions or complaints regarding our privacy policy or practices, please first contact Pete Fierle at 330-456-8207. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+If you have questions or complaints regarding our privacy policy or practices, please first contact George Veras at 330-588-3658. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
   *  Information Collection
   *  Use of Information 
@@ -38,7 +38,7 @@ You generally are not required to provide information about yourself when you vi
   *  Unique identifiers, such as a user name or password;
   *  Demographic information, such as gender;
   *  Financial information, such as credit card or other payment information;
-  *  Third Party Information, such as name and e-mail address;
+  *  Third Party Information, such as name, e-mail address and mailing address;
   *  Communications preferences;
   *  Search queries;
   *  Comments and other information posted in our interactive online forums; 
@@ -51,7 +51,6 @@ You generally are not required to provide information about yourself when you vi
 We also may collect certain information automatically when you visit the Services, including:
 
   *  Your Internet Protocol (IP) address, which is the number automatically assigned to your computer whenever you access the Internet and that can sometimes be used to derive your general geographic area;
-  * Your device type or mobile carrier;
   *  Other unique identifiers, including mobile device identification numbers;
   *  Your browser type and operating system;
   *  Sites you visited before and after visiting the Services;
@@ -91,11 +90,8 @@ We are committed to maintaining your trust, and we want you to understand when a
   *   **Subsidiaries and Affiliates:  **We may share your information with all members of the NFL Family, including, without limitation, our subsidiaries and affiliates (e.g., NFL Properties LLC, NFL International LLC, NFL Enterprises LLC, NFL Ventures, L.P., and NFL Ventures, Inc.).
   * **  Member Clubs: **We may share your information with Member Clubs, each of whom has its own privacy policy, which is available on the Member Club's respective website.
   * **  Select Business Partners: ** With your prior permission, you may be presented with an opportunity to have certain information shared with our third party business partners when you enter a contest or sweepstakes or elect to receive marketing offers or other information.  If you do not elect to have your information shared, it will not be shared with such third parties.  
-  *   **Contests and Sweepstakes:  ** In some cases, a third party may operate or host a contest or sweepstakes on the Services, and collect your information. In those cases, we urge you to review the third party's privacy policy for that contest or sweepstakes before participating. We take measures to help ensure that our partners protect the confidentiality, integrity, and security of any information we share with them. However, we are not responsible for the privacy practices of our business partners, which may use your information for their own purposes. Please read their respective privacy policies for more information.
-  * **  Third-Party Ad Serving and Audience and Traffic Measurement Services:** We may use third-parties to serve advertisements on the Services. These third parties may set their own cookies or similar web technologies to collect information about users’ online activities over time and across different websites. To manage your preferences you may opt out here http://preferences-mgr.truste.com/. 
   * **  Business Transfer:** If we sell all or part of our business, or make a sale or transfer of assets, or are otherwise involved in a merger or business transfer, or in the unlikely event of bankruptcy, a business reorganization, or similar event, we may transfer your information as part of such transaction.
   * **  Administrative or Legal Process:** We may disclose your information to third parties in order to protect the legal rights, safety, and security of the NFL, our corporate affiliates, subsidiaries, business partners, and the users of our Services; enforce our Terms of Use; respond to and resolve claims or complaints; prevent fraud or for risk management purposes; and comply with or respond to law enforcement or legal process or a request for cooperation by a government or other entity, whether or not legally required.
-  * **  Interactive Features: **We may share information with third parties when you post information to a user profile or a public area of the Services, such as a chat room, forum, blog, or other community tool. If you post to these interactive features, it will be publicly available and you may receive unsolicited messages from other parties. We cannot ensure that parties who have access to such information will respect your privacy.  Please exercise caution when using these features. 
   *   **Other Parties With Your Consent:  **We may share information with third parties when you consent to such sharing.  For example, if you win a contest or sweepstakes, we may ask your permission to publicly post certain information on the Services identifying you as the winner.
   *   **Aggregate Information:  **We may share aggregate information, such as demographics and usage statistics, with advertisers, sponsors or other organizations. 
   *   **Geolocation Information:  **We may share your geolocation information with service providers that perform certain functions or services on our behalf. These companies are authorized to use precise geolocation information only as necessary to provide these services to us.  We also may share your geolocation information with third parties so that they may provide you with geographically relevant advertising.  If you wish to stop the further collection of your geolocation information, please opt-out using your device settings.  
@@ -115,17 +111,7 @@ We are committed to maintaining your trust, and we want you to understand when a
 ## Advertising
 
   
-We partner with third party advertisers to serve and display advertising on the Services.  These partners may use cookies and Web beacons to collect information about your activities across different websites and services to provide you with relevant advertising.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here   
- 
-
-## Social Networking
-
-The NFL has worked with certain third-party social media providers to offer you their social networking services through our Services.  For example, you can use third-party social networking services, including but not limited to Facebook, Google+, and others to share information about your experience on our Services with your friends and followers on those social networking services.  These social networking services may be able to collect information about you, including your activity on our Services.  These third-party social networking services also may notify your friends, both on our Services and on the social networking services themselves, that you are a user of our Services or about your use of our Services, in accordance with applicable law and their own privacy policies.  If you choose to access or make use of third-party social networking services, we may receive information about you that you have made available to those social networking services, including information about your contacts on those social networking services. Your interactions with those social networking services are governed by the privacy policy of the company providing the relevant service.
-
-You also may be able to link an account from a social networking service (e.g., Facebook, Google+, Yahoo!) to an account through our Services.  This may allow you to use your credentials from the other site or service to sign in to certain features on our Services.  If you link your account from a third-party site or service, we may collect information from those third-party accounts, and any information that we collect will be governed by this Privacy Policy.
-
-**Social Media (Features) and Widgets**  
-Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+We partner with third party advertisers to serve and display advertising on the Services.  These partners may use cookies and Web beacons to collect information about your activities across different websites and services to provide you with relevant advertising.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note you will continue to receive generic [ads](http://preferences-mgr.truste.com/).
 
 ## Links to Other Websites
 
@@ -133,9 +119,7 @@ The Services may contain links to other websites or online services that are ope
 
 ## Security
 
-We have adopted reasonable security procedures to help protect against loss, misuse, and unauthorized access to the information you provide to us.  When you enter sensitive information (such as a credit card number), we encrypt the transmission of that information using secure socket layer technology (SSL).
-
-Please note that no data transmission or storage can be guaranteed to be 100% secure.  As a result, while we strive to protect your information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to the Services and cannot be responsible for the theft, destruction, or inadvertent disclosure of your information.
+The security of your personal information is important to us.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. If you have any questions about the security of your personal information, you can contact us at HOFPrivacy@ProFootballHOF.com.  
 
 ## Data Retention
 
@@ -151,11 +135,11 @@ The NFL’s online properties that are directed to children, such as NFLRush.com
 
 ## Communications Preferences and Access
 
-You may choose to receive promotional emails, newsletters, and similar communications from us.  You may opt out of receiving commercial emails from us by clicking on the opt-out or “unsubscribe” link included in the commercial e-mails you receive.  Please note that opt-out requests may take some time to be effective.  Your opt-out request will not apply to messages that you request or that are not commercial in nature.  For example, we may contact you concerning any purchases you have made with us, even if you opt out of receiving unsolicited commercial email messages.
+You may choose to receive promotional emails, newsletters, and similar communications from us.  You may opt out of receiving commercial emails from us by clicking on the opt-out or “unsubscribe” link included in the commercial e-mails you receive.  Please note that opt-out requests may take up to 10 days to be effective.  Your opt-out request will not apply to messages that you request or that are not commercial in nature.  For example, we may contact you concerning any purchases you have made with us, even if you opt out of receiving unsolicited commercial email messages.
 
-If your information changes, or if you no longer desire to use the Services, you may request that we update or remove certain information by signing into your account and making the required changes, by emailing our Customer Support at [HOFPrivacy@ProFootballHOF.com](mailto:HOFPrivacy@ProFootballHOF.com), or by contacting us by postal mail at the contact information listed below.  
+If your information changes, or if you no longer desire to use the Services, you may request that we update, delete inaccuracies, or remove certain information by signing into your account and making the required changes, by emailing our Customer Support at [HOFPrivacy@ProFootballHOF.com](mailto:HOFPrivacy@ProFootballHOF.com), or by contacting us by postal mail at the contact information listed below.  
 
-You may opt-out of location based services at any time by editing your device settings. We will retain your information for as long as your account is active or as needed to provide you services.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+You may opt-out of location based services at any time by editing your device settings. We will retain your information for as long as your account is active or as needed to provide you services. 
 
 ## Your California Privacy Rights
 
