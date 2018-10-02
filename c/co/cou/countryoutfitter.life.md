@@ -1,63 +1,57 @@
-> *The following text is extracted and transformed from the countryoutfitter.life privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119184321id_/http%3A//www.onecountry.com/privacy-policy-1633272277.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countryoutfitter.life privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002024153id_/http%3A//countryoutfitter.life/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - One Country
+# Privacy Policy - All About Country
 
-By [Linda Beth](http://www.onecountry.com/community/linda_beth/) February 29, 2016
+## Privacy Policy
 
-****One Country takes very seriously the private nature of your personal information. This Privacy Policy describes how we treat the information we collect when you register for and view our Daily Email or visit our Web Site. Please read this notice carefully.
+### Who we are
 
-#### Personal Information
+Our website address is: http://countryoutfitter.life.
 
-To receive your One Country emails, we require your email address. One Country does not collect any other personally identifiable information that you do not expressly provide. One Country will never sell, rent or share your personal information, including your e-mail address, with any third parties for marketing purposes without your express permission. One Country may share your personal information for the purpose of delivering our e-mail to you or as required by law.
+### What personal data we collect and why we collect it
 
-#### Sharing Information
+### Comments
 
-We may share the information we collect with our affiliate and subsidiary companies, vendors and their participants, and other third parties, including to inform you about products and services that we believe may be of interest to you. We will never sell or rent individual personal information to outside parties without your advance permission or unless ordered by a court of law. Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you emails based on your request for information and to contracted service providers for purposes of providing services relating to our communications with you.
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-#### Usage Information
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-In addition to collecting personal information, One Country may also collect non-personal, aggregated information about subscribers' use of our daily email and site. This information is not personally identifiable and will only be used to find out how subscribers use our daily email, site and services. For example, this information will tell us how often a user opens the daily email, how much time users spend on our site, from which other sites subscribers came, and to what other sites subscribers go. The collection of this information allows us to, among other things, prepare for traffic load demands and to efficiently deliver your emails.
+### Media
 
-#### Review and Access
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-Upon your request, we will provide you with a summary of the information we collect about you. You will have an opportunity to correct, update or modify this information.
+### Contact forms
 
-#### How to Unsubscribe
+### Cookies
 
-You can unsubscribe from receiving One Country emails at any time. You can unsubscribe by clicking on the "Unsubscribe" link in the footer of any One Country daily emails. Please note, if you unsubscribe, you will be removed from all One Country mailing lists.
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-#### Choice/Opt-Out
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-If we ever send you information by email concerning new products or services that you did not expressly request, you can unsubscribe by clicking on the "Unsubscribe" link in the footer of any One Country daily emails. Please note, if you unsubscribe, you will be removed from all One Country mailing lists.
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
-#### Third Party Advertising
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
-Some of the ads appearing on our Daily Email and Web Site may be delivered to you by our Web advertising partner or partners. Information about your visit to a partner site or sites, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about our advertising partner or partners, cookies, and how to "opt-out", please contact us at rheft@onecountry.com for more information.
+### Embedded content from other websites
 
-Occasionally, you'll get an email marked "dedicated" or "sponsored" in the subject line and in the email header. These emails are not necessarily reflective of the opinions of the editorial staff. They are content paid for by our sponsors. You can unsubscribe from receiving these emails, however, if you do so, you will no longer receive One Country unsponsored emails either. Please see "How to Unsubscribe."
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
-#### Tracking
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
 
-Like most sites, One Country makes use of browser "cookies." Cookies are small text files placed on your computer's hard disk by our server. They allow us to quickly recognize you and simplify your user experience. One Country will never use cookies to retrieve information from your computer that is unrelated to our site or services. On occasion, to provide our readers with a more customized experience, we may use, transmit, index, display, and transfer non-personally-identifiable user information.
+### Analytics
 
-#### Third Party Cookies
+### Who we share your data with
 
-In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique cookie on your browser.
+### How long we retain your data
 
-#### Links to Other Sites
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
 
-As part of the service, One Country will create links allowing you to access third party sites. One Country is not responsible for the content that appears on those sites and does not endorse these sites. Please consult those sites' individual privacy policies in order to determine how they treat user information.
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
 
-#### Security
+### What rights you have over your data
 
-All information described above is stored on restricted database servers.
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
-#### Modification to this Policy
+### Where we send your data
 
-One Country may change this policy, but we'll post any changes here, so be sure to check back for future information.
-
-#### Contact Us
-
-If you have any questions about this policy, the daily email or our site in general, please email lcowling@onecountry.com.
-
-By [Linda Beth](http://www.onecountry.com/community/linda_beth/) February 29, 2016
+Visitor comments may be checked through an automated spam detection service.
