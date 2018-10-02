@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vaporcouture.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228002557id_/https%3A//www.v2.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaporcouture.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002235315id_/https%3A//www.v2.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | V2.com
 
