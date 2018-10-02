@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpxcenter.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602001607id_/http%3A//myadmarket.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpxcenter.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002093850id_/http%3A//myadmarket.com/privacy.php) for the most accurate reproduction.*
 
 # Ad Serving Platform – MyAdMarket.com
 
@@ -64,6 +64,6 @@ If you wish to exercise any of the above rights, send us an email at [[email pr
 
 ### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#127b7c747d525f6b53765f73607977663c717d7f)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4d24232b220d00340c29002c3f262839632e2220)
 
 ﻿ 
