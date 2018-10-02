@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atarnotes.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709003457id_/https%3A//atarnotes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atarnotes.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002111157id_/https%3A//atarnotes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of ATAR Notes.
 
@@ -37,11 +37,11 @@ iv) When you subscribe to any of IM services on its websites.
 4.3. Whilst IM strives to protect customer information, no data transmission over the Internet can be guaranteed to be 100 per cent secure. As a result IM cannot ensure or warrant the security of any information transmitted to it or from its online products or services, and users do so at their own risk.
   5. **5\. HOW TO ACCESS, CORRECT OR UPDATE YOUR INFORMATION**  
 5.1. IM is committed to maintaining accurate, timely, relevant and appropriate information about our customers and website users.  
-5.2. As long as your request for your personal information is reasonable and you provide us with a proper reason as to why you want to access the information, we will give you access to that information by contacting us at privacy@instudentmedia.com.au  
+5.2. As long as your request for your personal information is reasonable and you provide us with a proper reason as to why you want to access the information, we will give you access to that information by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
 5.3. We will attempt to correct inaccurate information upon receiving advice from you. To ensure confidentiality, details of your personal information will be passed on to you only if we are satisfied that the information relates to you.  
 5.4. If we refuse to provide you with access or correct the personal information held about you by us, then we will provide reasons for such refusal.
   6. **6\. HOW TO CONTACT IM**  
-If you have any information about our Privacy Policy please contact us at [privacy@instudentmedia.com.au](mailto:privacy@instudentmedia.com.au)
+If you have any information about our Privacy Policy please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6616140f1007051f260f08151213020308120b03020f074805090b480713)
   7. **7\. ACCEPTING OUR POLICIES**  
 By using our site and dealing with us you agree to our Terms and Conditions and our Privacy Policy.
 
