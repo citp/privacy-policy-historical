@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2freehosting.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021221438id_/https%3A//www.2freehosting.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2freehosting.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002172936id_/http%3A//www.2freehosting.com/privacy.html) for the most accurate reproduction.*
 
 # Free Web Hosting - Privacy Policy
 
@@ -37,8 +37,3 @@ By using our site, you consent to our websites privacy policy.
 If we decide to change our privacy policy, we will post those changes on this page. 
 
 #### Contacting Us
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-[https://www.2freehosting.com](https://www.2freehosting.com/)  
-info@2freehosting.com 
