@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myadmarket.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602001607id_/http%3A//www.myadmarket.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myadmarket.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002093850id_/http%3A//www.myadmarket.com/privacy.php) for the most accurate reproduction.*
 
 # Ad Serving Platform – MyAdMarket.com
 
@@ -60,10 +60,10 @@ Please note that we send all new members a verification email to verify password
 
 6\. The right to lodge a complaint with your local Data Protection Authority concerning MyAdMarket’s processing of your Personal Data.
 
-If you wish to exercise any of the above rights, send us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) headed “Data Subject Request.” Before we process any request, we may ask you for certain Personal Data to verify your identity, and in situations where MyAdMarket is the Data Processor, consult with the Data Controller of your data. Where permitted by local law, we may reject requests that are unreasonable or impractical. Please allow us a reasonable time to respond to your inquiries and requests.
+If you wish to exercise any of the above rights, send us an email at privacy@MyAdMarket.com headed “Data Subject Request.” Before we process any request, we may ask you for certain Personal Data to verify your identity, and in situations where MyAdMarket is the Data Processor, consult with the Data Controller of your data. Where permitted by local law, we may reject requests that are unreasonable or impractical. Please allow us a reasonable time to respond to your inquiries and requests.
 
 ### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#127b7c747d525f6b53765f73607977663c717d7f)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [info@MyAdMarket.com](mailto:info@MyAdMarket.com)
 
 ﻿ 
