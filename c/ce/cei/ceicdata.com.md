@@ -1,197 +1,157 @@
-> *The following text is extracted and transformed from the ceicdata.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126105314id_/https%3A//www.ceicdata.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceicdata.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002021623id_/https%3A//www.ceicdata.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CEIC
 
-Euromoney Institutional Investor plc and Institutional Investor Inc. (together "we") respect the privacy of every person who visits, registers with or subscribes to our websites and online publications ("you"), and are committed to ensuring a safe online experience.   
-This Privacy Statement outlines the information we may collect about you in relation to your use of our websites and related publications and services ("personal data") and how we may use that personal data. It also outlines the methods by which we and our service providers may (subject to necessary consents) monitor your online behaviour in order to deliver customised advertisements and marketing materials and other tailored services. This Privacy Statement also tells you how you can verify the accuracy of your personal data and how you can request that we delete or update it.
+#### **ISI Emerging Markets Group** **Privacy Notice**
 
-This Privacy Statement applies to all websites operated by us (as indicated on the relevant website) (" **Sites** "). For the purpose of this Privacy Statement "group company" shall mean Euromoney Institutional Investor plc and any of its subsidiary companies, including, without limitation, Institutional Investor Inc. Please note that the Sites may contain links to external sites and may contain advertisements for, and/or the opportunity for you to purchase products or services from third parties. This privacy statement does not cover the activities of such third parties, and you should consult those third party sites` privacy policies for information on how your data is used by them.   
-By accessing and using the Sites you are agreeing to the terms of this Privacy Statement.
+#### **INTRODUCTION – WHO WE ARE**
 
-## Information about us
+[ISI Emerging Markets Group](https://www.isimarkets.com/) **(“ISI”, “we”, “us” or “our”)** is an international business-information group, with more than 500 employees worldwide.
 
-Our principal business activities are:
+Our group consists of two brands that have forged a reputation for providing the highest quality of information about emerging markets:
 
-  * Business-to-Business Financial Publishing. We provide a range of products and services focused on international finance, metals, commodities, telecoms and emerging markets including magazines, newsletters, electronic information and data
-  * Organisers of Seminars, Conferences, Training Courses and Exhibitions for the financial markets industry
+  * [CEIC](https://www.ceicdata.com/) is a leading provider of macroeconomic and sector data
+  * [EMIS](https://www.emis.com/) provides company and industry analysis, data and news
 
 
 
-#### Euromoney Institutional Investor PLC Company Address:
+ISI and its group companies are committed to respecting the privacy of every person who visits, registers with or subscribes to our websites, publications and/or events.
 
-8 Bouverie Street  
-London  
-EC4Y 8AX  
-United Kingdom
+ISI is the primary **data controller** of personal data collected through this website and/or as described in the section entitled **“What Personal Data We Collect”**. You can contact us at the following address:
 
-#### Institutional Investor, Inc. Company Address:
+12th Floor, CityPoint  
+1 Ropemaker Street, London  
+EC2Y 9HT
 
-1120 Avenue of the Americas.  
-New York, NY 10036  
-USA
+Or by email: [dataprotectionofficer@isimarkets.com](mailto:dataprotectionofficer@isimarkets.com)
 
-## Name of the Data Controller
+Please note that this Privacy Notice will also apply if you contact us about any of our services.
 
-The Data Controllers are Euromoney Institutional Investor plc and Institutional Investor Inc.   
-Euromoney Institutional Investor PLC is subject to the UK Data Protection Act 1998 and is registered in the UK with the Information Commissioner`s Office.
+#### **Our Approach to Your Privacy**
 
-### Collection of Personal Data
+This Privacy Notice outlines the information we may collect about you in relation to your use of our websites and related publications and services (“ **personal data** ”). We also explain the legal rights that you have in relation to your data and how you may exercise these rights.
 
-Our primary goal in collecting personal data from you is to give you an enjoyable customised experience whilst allowing us to provide services and features that most likely meet your needs.
+Wherever possible and unless a more appropriate basis for processing your data exists, we rely on your consent to use your data for the purposes described in this Privacy Policy. We also process personal data to fulfil our obligations to you, such as: when you register for any of our services, subscribe to a publication, sign up for an event or purchase a product from us, we will be required to process some of your personal data to deliver on our commitments.
 
-We collect certain personal data from you, which you give to us when using our Sites and/or registering or subscribing for our products and services. However, we also give you the option to access our Sites` home pages without subscribing or registering or disclosing your personal data.
+We may determine that processing your personal data serves both of our legitimate interests. This is the case in relation to many of our research, customer survey, direct marketing and advertising activities described in this Privacy Notice. These activities allow us to better understand your requirements, which in turn enables us to continue to grow as a business and to provide you with more of the high quality content, services and events that you expect from us.
 
-We also collect certain personal data from other group companies to whom you have given information through their websites (including, by way of example, Euromoney Institutional Investor plc and Institutional Investor Inc, in accordance with the purposes listed below).   
-Please note that we do not intend to collect any personal data from children under thirteen years of age and no child under thirteen should submit any personal data to any of the Sites. Should we discover that any such personal data has been delivered to any of the Sites, we will remove that information as soon as possible.
+We review the bases for our processing decisions carefully and you can object to these activities at any time (see the “Your Rights” section of this Privacy Notice).
 
-### Types of Personal Data Held and its Use
+#### **WHAT PERSONAL DATA WE COLLECT  & WHY **
 
-  1. **Customer Services and Administration**
+Our primary goal in collecting personal data from you is to give you an enjoyable customised experience of our products whilst allowing us to provide services and features that will be most adapted to your needs.
 
+#### **Registration, Free Trials  & Subscriptions **
 
+When you register with our website and/or sign up for a free trial of our products, you  provide your name, address, email address and telephone number, and details relevant to your occupation or employer.
 
-At some Sites, Euromoney collects personal data such as your name, job title, work and/or home address, and telephone number and email address in order to register you for access to certain content and subscriptions. This information may be supplemented with demographic information from your use of our Sites such as your postal area, age, gender, purchasing preferences and interests.
+If you have subscribed to one of our products, we will also ask for payment details. Credit/debit card payments are processed using a third supplier and we do not retain this data (see the Third Party Sites of this Privacy Notice). Address details may be shared with third party service providers engaged by us for order fulfilment and delivery.
 
-At other Sites, Euromoney may only collect broad demographic information for aggregate use.
+This personal data is used by us to complete subscription requests and, subject to your consent or legitimate interests, for advertising and marketing purposes as described in this Privacy Notice.
 
-This information is used to administer and deliver to you the products and/or services you have requested, to operate our Sites efficiently and improve our service to you, and to retain records of our business transactions and communications. By using the Sites and submitting personal information through the registration process you are agreeing that we may collect, hold, process and use your information (including personal information) for the purpose of providing you with the Site services and developing our business, which shall include (without limitation) the purposes described below in paragraphs 2 and 3.
+Your personal data is also used to record your interests, send you the content your have requested and for the advertising and marketing purposes described in this Privacy Notice.
 
-  2. **Monitoring use of our Sites**
+#### **Advertising & Marketing**
 
+We use the personal data you provide us and which we collect from you to inform you about our similar products and services. If you have consented to receive information from other ISI Emerging Market Group companies, we will share your personal data with these companies so that they can fulfil your request to receive marketing materials in accordance with your preferences.
 
+Each of the ISI Emerging Markets Group companies that may contact you is a data controller in relation to the personal data that you have agreed to share with them. If you have any questions or concerns, you may contact the individual company, or us – using the contact details set out in the “Who We Are” section.
 
-Where, as part of our Site services, we enable you to post information or materials on our Site, we may access and monitor any information which you upload or input, including in any password-protected sections. Subject to any necessary consents, we also monitor and/or record the different Sites you visit and actions taken on those Sites, e.g. content viewed or searched for. If you are a registered user (e.g. a subscriber or taking a trial), when you log on, this places a cookie on your machine. This enables your access to content and services that are not publicly available. Once you are logged on, the actions you take - for example, viewing an article - will be recorded (subject to any necessary consents). We may use technology or a service provider to do this for us. This information may be used for one or more of the following purposes:
+You can opt out from receiving such materials at any time.
 
+The personal data we use for advertising and marketing purposes includes your name, email address, job title, phone number, company name/employer, and data collected using cookies and other similar technology (see the Cookies section of this Privacy Notice for more details).
 
+Marketing materials are sent by post and email and we may occasionally call you.
 
-  * to fulfil our obligations to you;
-  * to improve the efficiency, quality and design of our Sites and services;
-  * to see which articles, features and services are most read and used
-  * to track compliance with our terms and conditions of use, e.g. to ensure that you are acting within the scope of your user licence;
-  * for marketing purposes (subject to your rights to opt-in and opt-out of receiving certain marketing communications) - see paragraph 3 below;
-  * for advertising purposes, although the information used for these purposes does not identify you personally. Please see paragraph 5 below for more details;
-  * to protect or comply with our legal rights and obligations; and
-  * to enable our journalists to contact and interact with you online in connection with any content you may post to our Sites.
+#### **Online Targeted Advertising**
 
+We use targeted advertising on our websites to display advertisements that are relevant to what we believe are your interests. In order to deliver relevant ads, we use third parties to deliver cookies that collect information about your computer, your IP address and how you interact with our sites (e.g. browsing information, which articles you have read). This data is used by the third parties to create interest categories and to determine which advertisements will be delivered to you based on the projected interest categories.
 
+We may also share your personal data with third parties to deliver targeted advertising to you on other websites (e.g. Twitter Tailored Audiences or Facebook Custom Audiences). This could include your email address, cookie data, and information obtained from third parties. Third party cookies may also be used to enable us to target advertisements to you on other websites that you visit. Please read our separate Cookies Policy to find out more about which cookies we use, how they work and how you can control your cookie options.
 
-Please see paragraph 5 below for more information on cookies and similar technologies and a link to a page where you can turn them on or off.
+#### **Lead Generation and Scoring  **
 
-  3. **Marketing:**
+We occasionally use the services of trusted third parties in order to ensure that the personal data we use for advertising and marketing purposes is accurate and up-to-date. To accomplish this, we transfer personal data of individual leads (name, email, job title, location and phone number) to these third parties who conduct research to verify the data – primarily against public information.
 
+We also use algorithmic software technology to help us determine whether someone is appropriate to sell to, and this enables us to improve the quality and pertinence of marketing activities. The personal data analysed by the software includes email address, phone number, job title, address, purchase history and account information.
 
+#### **Surveys, Market Research & Customer Feedback**
 
-Some of your personal data collected under paragraphs 1 and 2 above may be used by us and/or our other group companies and third party service providers to contact you by email, fax, telephone and/or post for sending information or promotional material on our products and/or services and/or those of our other group companies.   
-We give you the opportunity to opt-out of receiving marketing communications and will in certain circumstances need to obtain your consent before sending such communications to you. Further detail can be found on the applicable Site and in each marketing communication sent by us, our group companies or service providers. See also "Consents and opt-outs" section below.
+We want to understand the needs of our readers and customers. We may therefore use the information you provide us – including your name and contact details – to contact you to request your feedback, or to participate in our customer and market research. Your participation is incredibly valuable and very much appreciated – but you can opt out of receiving such requests at any time.
 
-  4. **Trading in Personal Data:**
+#### **Sales & Other Business Operations**
 
+If you have purchased a subscription or some other product or service from us, or registered for an event, then we will need to process certain information in order to collect payment from you, including your name, address, email and telephone number. If individual accounts are outstanding, we may pass account details (including personal data such as name, phone number and address) to third parties who are responsible for collecting payment.
 
+We use a third party supplier to process payment card details (see section on _“Third Party Sites”_ ).
 
-Some of your personal data may be collected and processed with the intention of selling it to other organisations, but this will not be done unless you have given your consent (separately to this privacy statement).
+#### **Additional Third Party Disclosures**
 
-  5. **Cookies and similar technologies**
+We may  disclose your personal data to third parties in the following situations:
 
+  * To third party partners who help us by providing data storage and disaster recovery services. These third parties only receive encrypted data may only process personal data to help us in limited emergency situations.
+  * We may be required to disclose personal data about our users in response to court orders, law enforcement measures or in the context of other mandatory legal processes. In each case we will seek to minimise the amount of data that is disclosed.
+  * If required to protect other users and/or to defend the legal rights, interests and security of ISI and its affiliates (including our employees, agents and contractors). [This may include exchange information with other companies and organisations for the purposes of fraud protection.
 
 
-All our Sites use cookies and similar technical tools to collect information about your access to the Site and the services we provide.
 
-Cookies are pieces of information which include a unique reference code that a website transfers to your device to store and sometimes track information about you. A number of cookies we use last only for the duration of your web session and expire when you close your browser. Other cookies are used to remember you when you return to the Site and will last for longer. Cookies cannot be used to run programs or deliver viruses to your computer. They are uniquely assigned to you and can only be read by a Web server in the domain that issued the cookie.
+#### **Email Tracking**
 
-We may use cookies to:
+We may include small pixel tags (small image files) within the emails we send you in order to determine whether our emails are opened and/or whether the hyperlinks inside our emails are clicked through. This information allows us to better understand whether we are meeting our users’ needs and how we can improve our communications.  No other information is collected. You can opt out of receiving our direct marketing emails either by following the instructions in each email, or by contacting us (see the “Who We Are” section of this Privacy Notice).
 
+#### **INTERNATIONAL TRANSFERS**
 
+ISI Emerging Markets Group operated both inside and outside of the European Economic Area (EEA). If you have consented to being contacted by our group companies, then the transfer of your personal data will be made according to the terms of an international data sharing agreement that contains obligations approved by European data protection regulators.
 
-  * remember that you have used the Site before; this means we can identify the number of unique visitors we receive to different parts of the Site. This allows us to make sure we have enough capacity for the number of users that we get and make sure that the Site runs fast enough;
-  * remember your login session so you can move from one page to another within the Site;
-  * store your preferences or your user name and password so that you do not need to input these every time you visit the Site;
-  * customise elements of the layout and/or content of the pages of Site for you;
-  * record activity on our Sites so that we understand how you use our Sites enabling us to better tailor our content, services and marketing to your needs;
-  * collect statistical information about how you use the Site so that we can improve the Site; and
-  * gather information about the pages on the Site that you visit, and also other information about other websites that you visit, so as to place you in a “market segment”. This information is only collected by reference to the IP address that you are using, but does include information about the county and city you are in, together with the name of your internet service provider. This information is then used to place interest-based advertisements on the Site which it is believed will be relevant to your market segment. For more information about this type of interest based advertising, and about how to turn this feature off please visit [www.youronlinechoices.com](http://www.youronlinechoices.com/) or follow the links to the websites of our advertising partners shown [here](http://www.euromoneyplc.com/Cookies). (Please email us at [cookies@euromoneyplc.com](mailto:cookies@euromoneyplc.com) if you have any queries about cookies)
+We may also transfer personal data to third party service providers as described in this Privacy Notice, located outside the EEA. Where we conduct these transfers, we take all steps necessary to ensure that your data is treated securely and in accordance with applicable privacy legislation, either by only sending your personal data to jurisdictions that provide an adequate degree of legal protection for your data or by imposing approved contractual terms on these third parties.
 
+#### **RETENTION PERIODS**  
 
+IS Emerging Markets Group adheres to a strict data retention policy that ensures we don’t use or store your personal data for longer than necessary. We apply the following criteria to determine retention periods:
 
-Some of the cookies used by our Sites are set by us, and some are set by third parties who are delivering services (such as interest based advertising directed at your market segment) on our behalf.
+  * Guidance from the UK Information Commissioner or other regulatory agency, or industry best practice recommendations;
+  * The business rationale for collection and expiry of the purpose for which personal data was collected;
+  * Our ongoing ability to ensure the accuracy of the data; and
+  * Whether there is a specific law or regulation that imposes a mandatory retention period.
 
-To see a list of the cookies and similar technologies used on this Site and instructions on how to turn them on and off [ click here](http://www.euromoneyplc.com/Cookies). (Please email us at [cookies@euromoneyplc.com](mailto:cookies@euromoneyplc.com) if you have any queries about cookies)
 
-Most web browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set. You can also learn more about cookies in general by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/) which includes additional useful information on cookies and how to block cookies using different types of browser. Please note however, that by blocking, deleting or turning off cookies used on the Site you may not be able to take full advantage of the Site.
 
-**Email tracking:**  So that we can better understand our users` needs, we track responses to our emails - for example, to see which links are the most popular in newsletters, and to log and follow up responses to our marketing messages. To do this, we use pixel GIFs, also known as "pixel tags" - these are small image files that are placed within the body of our email messages. They enable us to tell if a message has been opened and to track click-throughs on links within the message.   
-Any other purposes for which Euromoney wishes to use your personal data will be notified to you and your personal data will not be used for any such purpose without obtaining your prior consent.
+There may be limited circumstances in which it will be necessary for documents and associated personal data to be kept for either shorter or longer periods than specified in our retention policy. In such circumstances, application of the retention period to the data will be temporarily suspended. The suspension of an applicable retention period will be carried out in a manner that respects the rights and interests of all persons concerned.
 
-### Consents and opt-outs
+#### **YOUR RIGHTS**  
 
-You can give your consent to or opt out of particular uses of your data as indicated above by:
+ISI Emerging Markets Group does its utmost to ensure we respect your privacy and your rights in relation to your data. These rights include the following:
 
-  * Indicating at the point on the relevant Site where personal data is collected;
-  * Informing us by email, post or phone; or
-  * Updating your preferences on the applicable Site;
+#### **Access & Portability**
 
+You may request access to any personal data of yours for which ISI is responsible as data controller.  Subject to any overriding legal interests, we will confirm whether we process any of your personal data and if we do, we will provide you with the following additional information: the purposes of the processing, the categories of personal data, any recipients of your personal data, the applicable retention period and the data source. Copies of your personal data will be made available to you in a structured, machine-readable format.  If you have consented to our processing of your personal data, or if we are processing your personal data in order to fulfil our contractual obligations to you, then you can submit a request that we transfer your personal data to another data controller.
 
+#### **Rectification, Restriction, Objection**
 
-For turning cookies and similar technologies on and off, see the information in paragraph 5 above.
+You have the right to request that ISI rectify any errors in the personal data that we process. In some circumstances, you may also be able to obtain the erasure of personal data, and/or request that the processing of your personal data be restricted.  You may also object to the processing of your personal data for direct marketing purposes, or where your personal data is processed for your or our legitimate interests.
 
-### Disclosures
+#### **How to Exercise Your Rights**
 
-Information collected at one Site may be shared between Euromoney Institutional Investor plc, Institutional Investor Inc. and other group companies for the purposes listed above.
+To exercise any of these rights, please contact us by post or email at the following addresses:
 
-Your personal data may also be sold to other companies in the form of lists and directories, but only after permission from you in accordance with the provisions above.
+ISI Emerging Markets Group  
+12th Floor, CityPoint  
+1 Ropemaker Street  
+London, EC2Y 9HT  
+UK
 
-We may also disclose your personal data to other third parties, including, without limitation, professional advisers, or governmental or State institutions or regulatory authorities, where necessary in order to exercise or defend legal rights or where required by law.
+Email: [dataprotectionofficer@isimarkets.com](mailto:dataprotectionofficer@isimarkets.com)
 
-We may transfer, sell or assign any of the information described in this policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business.
+We may need to verify your identity prior to processing a request.
 
-### Public forums, message boards and blogs
+ISI will do its utmost to respond to any questions and address any of your concerns. You are also able to register any complaints regarding the processing of your personal data directly with the UK Information Commissioner.
 
-Some of our Sites make message boards, blogs or other facilities for user generated content available and users can participate in these facilities. Any information that is disclosed in these areas becomes public information and you should always be careful when deciding to disclose your personal information.
+#### **PROTECTING YOUR DATA**
 
-### Transfers outside the EEA
+ISI is committed to keeping your personal data secure and we will take appropriate technical and organisational measures to protect your personal data from loss, unauthorised use, disclosure or destruction. Although we do our best to protect your personal data, we cannot guarantee that any transmission of data is without risk. We have therefore implemented information security policies and rules, staff training on information security, and technical measures to ensure the integrity of data that we have under our control.
 
-Services on the Internet are accessible globally so collection and transmission of personal data is not always limited to one country. Euromoney Institutional Investor plc may transfer your personal data, for the purposes listed above, to other group companies, service providers or other third parties which may be located in countries outside the European Economic Area, whose laws may not give the level of protection to personal data as within the UK. This will include transfers to Institutional Investor Inc. in the US (and Institutional Investor Inc. will collect some data directly from you, in relation to the Sites which it operates) and to third parties who provide us with email and marketing services. Where we conduct any transfers we will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Statement.
+All our employees, contractors and data processors (i.e. those third parties that process personal data on our behalf) are required to keep such data confidential and not to use it for any purpose other than the performance of services we have requested.
 
-### Confidentiality and Security of Your Personal Data
+#### **THIRD PARTY SITES**
 
-We are committed to keeping the data you provide us secure and will take reasonable precautions to protect your personal data from loss, misuse or alteration.
-
-The transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features described above to try to prevent unauthorised access.
-
-We have implemented information security policies, rules and technical measures to protect the personal data that we have under our control from:
-
-  * unauthorised access
-  * improper use or disclosure
-  * unauthorised modification
-  * unlawful destruction or accidental loss
-
-
-
-All our employees, contractors and data processors (i.e. those who process your personal data on our behalf, for the purposes listed above), who have access to, and are associated with the processing of your personal data, are obliged to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for us.
-
-We also give you the option of using a secure transmission method to send us personal data identifiers, such as credit card details and bank account number.
-
-### How to Access, Update and Erase your Personal Information
-
-If you wish to know whether we are keeping personal data about you, or if you have an enquiry about our privacy policy or your personal data held by us, in relation to any of the Sites, you can contact the Data Protection Officer via:
-
-  * Postal mail to this address: Data Protection Officer, Euromoney Institutional Investor PLC, 8 Bouverie Street, London, EC4Y 8AX, UK.
-  * Telephone: +44 (0)20 7779 8600
-  * Email: [dataprotectionofficer@euromoneyplc.com](mailto:dataprotectionofficer@euromoneyplc.com)
-
-
-
-Upon request, we will provide you with a readable copy of the personal data which we keep about you. We may require proof of your identity and may charge a small fee (not exceeding the statutory maximum fee that can be charged) to cover administration and postage.
-
-Euromoney allows you to challenge the data that we hold about you and, where appropriate in accordance with applicable laws, you may have your personal information:
-
-  * erased
-  * rectified or amended
-  * completed
-
-
-
-### Changes to this Privacy Statement
-
-We will occasionally update this Privacy Statement to reflect new legislation or industry practice, group company changes and customer feedback. We encourage you to review this Privacy Statement periodically to be informed of how we are protecting your personal data.
-
-**This Privacy Statement was last updated in January 2015.**
+Our site may contain links to other websites – including, for example, providers of payment processing services. ISI is not responsible for the privacy and data collection practices of third party sites and we therefore recommend that you review the privacy policies and terms of service of each site you visit.
