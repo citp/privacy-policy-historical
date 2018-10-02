@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the morningsave.com privacy policy that was archived on 2017-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170410051526id_/https%3A//mediocre.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morningsave.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002131422id_/https%3A//checkout.org/privacy) for the most accurate reproduction.*
 
-# A Mediocre Privacy Policy
+# Checkout.org Privacy Policy
 
 Read our privacy policy: it details our relationships with Russian entrepreneurs and Nigerian princes. Now that we have your attention, we can tell you that we don't have any relationships with Russian entrepreneurs or Nigerian princes, but we probably spurred you to actually read this, right?
 
