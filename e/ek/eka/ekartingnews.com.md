@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ekartingnews.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203172933id_/http%3A//ekartingnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ekartingnews.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002113113id_/https%3A//ekartingnews.com/privacy) for the most accurate reproduction.*
 
-# Privacy – eKartingNews.com
+# Privacy – eKartingNews
 
 **What information do we collect?**
 
