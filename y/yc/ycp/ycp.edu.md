@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ycp.edu privacy policy that was archived on 2017-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171013033334id_/https%3A//www.ycp.edu/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ycp.edu privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002131313id_/https%3A//www.ycp.edu/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | York College of PA
 
@@ -55,7 +55,7 @@ We work with the following vendors regularly or on a periodic basis. Please visi
 
 <https://www.hobsons.com/privacy-policy/>  
 <https://privacy.google.com/>  
-<http://go.siteimprove.com/analytics-technical-specifications/>  
+<https://siteimprove.com/legal/privacy-policy/>  
 <https://twitter.com/en/privacy>  
 <https://www.facebook.com/about/privacy/>  
 <https://www.adroll.com/about/privacy/>
