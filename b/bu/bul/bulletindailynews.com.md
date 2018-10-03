@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulletindailynews.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602004338id_/http%3A//bulletindailynews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulletindailynews.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003200831id_/http%3A//bulletindailynews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bulletin Daily News - Bulletin Daily News
 
