@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topdeck.travel privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627133010id_/https%3A//www.topdeck.travel/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topdeck.travel privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003130100id_/https%3A//www.topdeck.travel/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy | Topdeck Travel
 
