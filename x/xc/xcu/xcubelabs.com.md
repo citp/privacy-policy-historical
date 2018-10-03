@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xcubelabs.com privacy policy that was archived on 2018-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180403013610id_/https%3A//www.xcubelabs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xcubelabs.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003081413id_/https%3A//www.xcubelabs.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - [x]cube LABS - Digital Transformation Company
 
@@ -27,6 +27,10 @@ PurpleTalk does not use or disclose sensitive personal information, such as race
 PurpleTalk keeps track of the Web sites and pages our customers visit within PurpleTalk, in order to determine what PurpleTalk services are the most popular. This data is used to deliver customized content and advertising within PurpleTalk to customers whose behavior indicates that they are interested in a particular subject area.
 
 PurpleTalk Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on PurpleTalk or the site; (b) protect and defend the rights or property of PurpleTalk; and, (c) act under exigent circumstances to protect the personal safety of users of PurpleTalk, or the public.
+
+### Where we hold and process your personal data
+
+Some or all of your personal data may be stored or transferred outside of the European Union (the EU) for any reason, including for example, if our email server is located in a country outside the EU or if any of our service providers or their servers are based outside of the EU. We shall only transfer your personal data to organisations that have provided adequate safeguards in respect of your personal data and are GDPR Compliant.
 
 ### Use of Cookies
 
