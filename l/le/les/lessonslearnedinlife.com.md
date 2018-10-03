@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lessonslearnedinlife.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524145212id_/http%3A//lessonslearnedinlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lessonslearnedinlife.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003072652id_/https%3A//lessonslearnedinlife.com/privacy-policy) for the most accurate reproduction.*
 
 # Lessons Learned in LifePrivacy Policy - Lessons Learned in Life
 
