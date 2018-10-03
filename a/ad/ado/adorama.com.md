@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adorama.com privacy policy that was archived on 2018-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180320203835id_/https%3A//www.adorama.com/catalog.tpl%3Fop%3Dprivacy_policy_popup) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adorama.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003062106id_/https%3A//www.adorama.com/catalog.tpl%3Fop%3Dprivacy_policy_popup) for the most accurate reproduction.*
 
 # 
 
@@ -28,15 +28,17 @@ Adorama respects your privacy. To better protect your privacy we provide this pr
 
 Adorama is one of the nation's largest photo retail and mail order suppliers. For over 25 years we have been serving professionals as well as amateurs in the photographic, video, digital imaging and telescope fields. We offer the best combination of quality services, vast selection, knowledgeable staff, and competitive pricing.
 
-_1\. Types of information we collect_  
-_2\. How we use your information_  
-_3\. Children and personally identifiable information_  
-_4\. Access, accuracy and opt-out rights_  
-_5\. Security_  
-_6\. Third party use of information collected on this web site_  
-_7\. Other important information_
+_Types of information we collect_  
+_How we use your information_  
+_Children and personally identifiable information_  
+_Access, accuracy and opt-out rights_  
+_Security_  
+_Third Party Websites_  
+_Third Party Cookie Integration_  
+_First Party Cookie Integration_  
+_Other important information_
 
-1\. Types of information we collect: 
+Types of information we collect: 
 
 There are two types of information that Adorama collects online: (1) personally identifiable information supplied by visitors to our web site, and (2) non-personal information gathered as visitors navigate through the web site. 
 
@@ -65,7 +67,7 @@ Non-personal information is gathered through the use of cookies, web beacons and
 
 Although Adorama uses web server logs, web beacons, and cookies on this web site, we do not know who any visitor is unless that person specifically tells us.
 
-2\. How we use your information 
+How we use your information 
 
 **Non-Personal Information**  
 Adorama typically uses the non-personal information we collect in order to better understand how you and other visitors use our web site, for system administration, to confirm that you’ve opened the emails that we send you, and to customize your experience when using this web site. For example, we use cookies to ensure that items added to your shopping cart during one visit are accessible to you on subsequent visits until you either place an order or delete the items from the shopping cart.
@@ -77,11 +79,11 @@ Unless otherwise required by law, or if pertinent to a judicial or governmental 
 
 In the course of growing or restructuring our business, we may purchase the assets of another company or sell the assets of our company. During these transactions, information about customers is frequently considered a business asset that is the subject of such a purchase or sale. Also, in the unlikely event that Adorama, or substantially all of its assets are either acquired or subject to liquidation in bankruptcy, information may be transferred as well. We will require third parties who obtain access to your information as a result of a transaction to adhere to this privacy policy as a condition to transferring the information to them.
 
-3\. Children and personally identifiable information 
+Children and personally identifiable information 
 
 This web site is designed for those 15 years of age and older. We will not knowingly collect information of any kind from anyone under the age of 13. If we become aware of a visitor under the age of 13 providing information on our site, we will terminate any accounts associated with that visitor and purge our databases of all information provided by that visitor.
 
-4\. Access, accuracy and opt-out rights
+Access, accuracy and opt-out rights
 
 Adorama will make every effort to provide you with access to your personally identifiable information so that you may review, update or correct that information. To protect your privacy and security, we will also take reasonable steps to verify your identity before enabling you to view your data and/or make corrections. If you have submitted personally identifiable information to Adorama and would like it removed or modified, please contact us at [info@adorama.com](mailto:info@adorama.com). We will use reasonable efforts to comply with your request.
 
@@ -103,7 +105,7 @@ Local or international: (212) 741-0052
 **By Fax:**  
 (212) 463-7223
 
-5\. Security 
+Security 
 
 The security of your information is very important to us. Adorama follows generally accepted industry standards to protect the information submitted to us, both during transmission and once we receive it. We use state-of-the-art data encryption technology to protect against loss, misuse or alteration of your user information. Secure Socket Layers (SSLs) encrypt the information sent between your computer and our database. Our ordering system is certified by Verisign, an internet leader in security transactions. In addition, we use Internet fraud screening to protect credit card transactions.
 
@@ -114,18 +116,28 @@ We guarantee that every online transaction you make will be 100% safe. This mean
 
 If you have any questions about security on our Web site, please contact [info@adorama.com](mailto:info@adorama.com).
 
-6\. Third party use of information collected on this web site 
+Third Party Websites
 
 The Adorama web site may contain links to other sites. We do not endorse or otherwise accept responsibility for the content or privacy policies of those sites.
 
 Adorama may share your personally identifiable information with trusted third party vendors for the sole purpose of facilitating your order. For example, we provide your name, shipping address, phone number, and order information to our shipping carrier. We also may provide your name, billing address, and credit card information to the credit card processor that facilitates the transaction. We also may grant limited access to your name and email address to the agency that deploys emails and other marketing campaigns on our behalf for the purpose of improving our marketing outreach programs. Adorama has strict guidelines requiring all third parties to keep any shared personally identifiable information confidential.
 
-Adorama may employ additional third parties to provide marketing services on our behalf. With our approval, these third parties may also place “cookies” onto your computer for analysis purposes. These third party companies will have access to the information needed to perform their functions but cannot use that information for any other purpose. These third party companies will only have access to non-personal information about your visit or transaction, such as the URLS which lead you to and around our web site, the pages visited, the product(s) purchased, and the amount spent. These companies will not have access to information that will allow them to personally identify you.
+Third Party Cookie Integration
 
-7\. Other important information 
+We may use third party companies to provide advertising services and/or to collect certain information when you visit and interact with our website. These third-party companies may collect and use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visit to this website [and/or other websites] in order to provide advertisements about goods and services likely to be of greater interest to you. 
+
+These third-party companies may use cookies and other technologies to recognize your browser to collect and record information about your web surfing activity including your activities on this website. You may visit the Network Advertising Initiative, [networkadvertising.org/choices](http://www.networkadvertising.org/choices) or the Digital Advertising Alliance, [aboutads.info](http://www.aboutads.info/), to learn more about interest-based advertising, or to opt out of receiving advertisements tailored to your interests on your browser, from their respective members and participants.
+
+First Party Cookie Integration
+
+We may also use technologies, such as our own cookies, to provide you with relevant online display advertising tailored to your interests. 
+
+To opt out of our cookies used for this online advertising, [please click here.](http://dtmc.adorama.com/adinfo/choice/prod/?type=fpc&cid=62275&cname=Adorama&cmagic=960e27&clogo=62275.png&loc=us&lang=en-us)
+
+Other important information 
 
 If you have any questions that are not answered by this policy, or would like more information about any aspect of this policy, please contact us at [info@adorama.com](mailto:info@adorama.com).
 
 Adorama reserves the right to modify this privacy policy at any time. We will promptly reflect any such modifications on this privacy policy.
 
-This privacy policy was last updated on: August 2, 2005
+This privacy policy was last updated on: June 15, 2018
