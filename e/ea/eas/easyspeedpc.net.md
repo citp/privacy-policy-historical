@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyspeedpc.net privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603022820id_/http%3A//www.easyspeedpc.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyspeedpc.net privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003182618id_/http%3A//www.easyspeedpc.net/privacy.php) for the most accurate reproduction.*
 
 # Easy Speed PC - Privacy Policy
 
@@ -47,7 +47,7 @@ Again, if you provide us with your email address name for the purposes of receiv
 
 We follow accepted industry standards to protect any personal information you have provided to us. However, please be aware that no method of electronic storage can ever be 100% secure. Therefore – as is the case with any organization - we are not in a position to guarantee the absolute security of your information. 
 
-You may submit any questions you may have about our security procedures by using the [contact form](https://web.archive.org/web/20180603022820id_/http%3A//www.easyspeedpc.net/contact-us.php). 
+You may submit any questions you may have about our security procedures by using the [contact form](https://web.archive.org/web/20181003182618id_/http%3A//www.easyspeedpc.net/contact-us.php). 
 
   
 
@@ -68,6 +68,6 @@ We reserve the right to disclose your personally identifiable information as req
 
 ## Contact Details
 
-If you have any questions or concerns regarding this privacy policy, contact us by using [contact form](https://web.archive.org/web/20180603022820id_/http%3A//www.easyspeedpc.net/contact-us.php).
+If you have any questions or concerns regarding this privacy policy, contact us by using [contact form](https://web.archive.org/web/20181003182618id_/http%3A//www.easyspeedpc.net/contact-us.php).
 
 This privacy policy was last updated on May 01, 2011.
