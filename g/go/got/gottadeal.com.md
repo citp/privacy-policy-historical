@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the gottadeal.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629160652id_/http%3A//blackfriday.gottadeal.com/Article/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gottadeal.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003042450id_/http%3A//blackfriday.gottadeal.com/Article/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Black Friday @ GottaDeal.com
 
-[](http://www.gottadeal.com/ "Get the latest online deals on GottaDeal.com")
+[](http://www.gottadeal.com/ "Get the latest online deals on GottaDEAL")
 
 [](http://www.gottadeal.com/Article/AmazonGuide)
-
-[](http://www.gottacreditcard.com/)
 
 |  | 
 
