@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the power106.com privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505063754id_/http%3A//www.power106.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the power106.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003231859id_/http%3A//www.power106.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
