@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codingunit.com privacy policy that was archived on 2018-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180402230001id_/https%3A//www.codingunit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codingunit.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003043849id_/https%3A//www.codingunit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CodingUnit Programming Tutorials
 
