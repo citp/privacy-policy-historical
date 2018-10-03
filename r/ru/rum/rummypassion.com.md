@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rummypassion.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703191813id_/https%3A//www.rummypassion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rummypassion.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003165806id_/https%3A//www.rummypassion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Rummy Passion | Indian Rummy
 
@@ -22,11 +22,11 @@ RummyPassion.com is vehemently dedicated to protecting the privacy of children a
 
 ## Use of Cookies and Pixel Tags
 
-RummyPassion.com employs certain technology and cookies to collect and store certain information every time you access out website. Cookies make it possible for this website to identify the information you have agreed to provide to this website. This aggregated information assists us in establishing and analyzing the most useable parts of our website. Rummypassion.com may also employ cookies to show you advertising. These advertisements may be displayed by us or for us by a third party.
+RummyPassion.com employs certain technology and cookies to collect and store certain information every time you access the website. Cookies make it possible for this website to identify the information you have agreed to provide to this website. This aggregated information assists us in establishing and analyzing the most usable parts of our website. Rummypassion.com may also employ cookies to show you advertising. These advertisements may be displayed by us or for us by a third party.
 
 You may change your computer’s settings to disallow your browser to accept cookies.
 
-RummyPassion.com employs third parties to advertise on our behalf on our site as well as other websites. These third parties collect details about your browsing habits and your visits to our website including details on your behaviour with our products and or services. They may utilise this collective information about on site activity and off site activity to place advertisements. This information is collected with the help of pixel tag technology, the use of which is very common on most prevalent websites on the internet. This collected information remains anonymous.
+RummyPassion.com employs third parties to advertise on our behalf on our site as well as other websites. These third parties collect details about your browsing habits and your visits to our website including details on your behaviour with our products and or services. They may utilise this collective information about on-site activity and off-site activity to place advertisements. This information is collected with the help of pixel tag technology, the use of which is very common on most prevalent websites on the internet. This collected information remains anonymous.
 
 ## Rummy Player Consent
 
