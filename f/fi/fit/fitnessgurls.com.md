@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the fitnessgurls.com privacy policy that was archived on 2017-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170318234826id_/http%3A//www.fitnessgurls.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitnessgurls.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003132110id_/https%3A//www.fitnessgurls.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Fitness Gurls Magazine
+# Privacy Policy – Fitness Gurls Magazine
 
+**Privacy Policy**  
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
 What personal information do we collect from the people that visit our blog, website or app?
@@ -56,7 +57,7 @@ We do not include or offer third-party products or services on our website.
 
 Google
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
 
 We use Google AdSense Advertising on our website.
 
@@ -73,7 +74,7 @@ Users can set preferences for how Google advertises to you using the Google Ad S
 
 California Online Privacy Protection Act
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – See more at: https://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
 
 According to CalOPPA, we agree to the following:  
 Users can visit our site anonymously.  
