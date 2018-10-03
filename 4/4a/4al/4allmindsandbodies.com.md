@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4allmindsandbodies.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531210532id_/http%3A//www.4allmindsandbodies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4allmindsandbodies.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003113246id_/http%3A//www.4allmindsandbodies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – 4allMindsAndBodies
 
