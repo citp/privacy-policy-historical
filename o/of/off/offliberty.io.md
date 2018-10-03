@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offliberty.io privacy policy that was archived on 2018-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180112102229id_/http%3A//offliberty.com/pacp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offliberty.io privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004011439id_/http%3A//offliberty.com/pacp) for the most accurate reproduction.*
 
 # Offliberty - for offline people
 
