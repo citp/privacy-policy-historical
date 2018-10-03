@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the picclick.co.uk privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116150243id_/https%3A//picclick.co.uk/pages/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picclick.co.uk privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003090859id_/https%3A//picclick.co.uk/pages/terms.html) for the most accurate reproduction.*
 
-# PicClick UK • Terms & Privacy
+# PicClick UK Terms & Privacy
 
 ## Terms of Service
 
