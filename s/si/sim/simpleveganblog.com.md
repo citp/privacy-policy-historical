@@ -1,57 +1,113 @@
-> *The following text is extracted and transformed from the simpleveganblog.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922180849id_/http%3A//simpleveganblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpleveganblog.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003213218id_/https%3A//simpleveganblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Simple Vegan Blog
 
-If you have any questions about our privacy policy, please contact us by email at alberto@simpleveganblog.com.
+_Effective data: June 4th, 2018_
 
-At simpleveganblog.com, the privacy of our visitors is of extreme importance to us. This privacy policy outlines the type of personal information that is received and collected by simpleveganblog.com and how it is used.
+WHO WE ARE
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site or mobile application. These companies may use non-personally identifiable information such as browser type, time and date, browsing or transaction activity, subject of advertisements clicked or scrolled over, or a platform- provided identifier during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies may use technologies such as cookies to collect this information. To learn more about interest-based advertising, or to opt-out, you can visit <http://www.networkadvertising.org/>
+Simple Vegan Blog is run by Iosune y Alberto.
 
-Google, as a third party vendor, uses cookies to serve ads on simpleveganblog.com.  
-Google’s use of the DART cookie enables it to serve ads to users based on their visit to simpleveganblog.com and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+WHAT PERSONAL DATA WE COLLECT AND WHY WE COLLECT IT  
+**Email Address**  
+When you sign up for our mailing list, your email is kept by our mailing list provider, Mailchimp, for the purpose of sending newsletters via email.
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense and Amazon
+ **Analytics**  
+We use Google Analytics to track anonymous usage data. Information is collected through the use of cookies and is used only to analyze site performance, and this gives us information on page views and site traffic (but NOT anything about who you are or any kind of personal information of any kind).
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on simpleveganblog.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+ **Comments**
 
-simpleveganblog.com uses Google Analytics. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using Google’s Ad Settings page. Users can completely block Google Analytics tracking using Google’s Analytics Opt-out browser add-on.
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. simpleveganblog.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+ **Cookies**
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Cookies are used by various plugins on our site in order to give me information about website visitors (analytics), to keep track of cookie consent/denial, and to monitor shop information.
 
-## Hotjar
+You can also clear your browser cache of all data (many cookies only last for a “session,” i.e. the duration of your visit).
 
-Simple Vegan Blog uses Hotjar. Check [Hotjar’s privacy policy](https://www.hotjar.com/privacy) for an explanation on how Hotjar is used.
+See our Cookie Policy and a list of all cookies currently used by our site here:
 
-This information is automatically collected while a reader navigates our website and interacts with its content. The only purpose of collecting this information is to provide a better user experience.
+<https://simpleveganblog.com/cookie-policy>
 
-The information collected through Hotjar on our website includes:
+You may opt out of cookies when you visit via the banner at the bottom of the page, and you may see how to cancel your consent from cookies on my Cookie Policy page (linked in the line above).
 
-### device-specific data
+WHO WE SHARE YOUR DATA WITH  
+**Mailchimp**  
+If you sign up for our mailling list, Mailchimp will have your name and email address.
 
-The following information could be collected through your device and browser:
+ **Google Analytics**  
+Google Analytics only retains info about visitors, pages viewed, etc. GA does not collect any info that could identify you personally (but they collect data around the web in various forms and aggregate it).
 
-  * your device’s IP address (collected and stored in an anonymized format)
-  * device screen size
-  * device type (unique device identifiers) and bowser information
-  * geographic location (country only)
-  * preferred language used to display the webpage
+ **Embedded content from other websites**  
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
 
+Data collected by social media companies, such as that from embedded Youtube videos, becomes part of the data that Google collects.
 
-### log data
+ **Gravatar**
 
-Hotjar automatically record information which is created upon using www.simpleveganblog.com. This includes:
+If you use Gravatar, when leaving a comment, an anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here:  
+<https://automattic.com/privacy>
 
-  * referring domain
-  * pages visited
-  * geographic location (country only)
-  * preferred language used to display the webpage
-  * date and time when website pages were accessed
+After approval of your comment, Gravatar uses that information to show your profile picture to the public in the context of your comment.
 
+ **Akismet**  
+We collect information about visitors who comment on Sites that use our Akismet anti-spam service. The information we collect depends on how the User sets up Akismet for the Site, but typically includes the commenter’s IP address, user agent, referrer, and Site URL (along with other information directly provided by the commenter such as their name, username, email address, and the comment itself).
 
+ **VaultPress**
+
+We share the information related to to the comments you submit to the site with VaultPress, so they can back up all the data and we are able to restore it when needed.
+
+HOW LONG WE RETAIN YOUR DATA  
+**Google Analytics**
+
+Google Analytics keeps data on site traffic indefinitely. While my site does not give Google any personal info about you, other websites might have at some point. You can find out more & use tools to manage your Google data here: <https://privacy.google.com/your-data.html>.
+
+WHAT RIGHTS YOU HAVE OVER YOUR DATA
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+You can also request that we erase your data from our email list.
+
+WHERE WE SEND YOUR DATA
+
+ **Mailchimp**  
+MailChimp participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all Personal Information received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to each Framework’s applicable Principles.
+
+ **Akismet, Gravatar and VaultPress**  
+Akismet, Gravatar and VaultPress are owned by Automattic, who take appropriate measures to ensure personal information is protected adequately in accordance with their Privacy Policy as required by applicable law.
+
+For more information, visit: <https://automattic.com/privacy>
+
+**WP Engine**  
+WP Engine comply with the EU – U.S. Privacy Shield Framework and the Swiss-U.S. Principles for all onward transfers of personal data from the EU and Switzerland including the onward transfer liability provisions.
+
+For more information, visit: <https://wpengine.com/legal/privacy>
+
+HOW WE PROTECT YOUR DATA  
+Data protection is important for us. We use security measures such as two factor authentication, HTTPS encryption and other methods used by us ourselves and our hosting provider.
+
+WHAT DATA BREACH PROCEDURES WE HAVE IN PLACE  
+If our mailing list is ever compromised, we will notify every subscriber and let them know what data was breached, to the best of our knowledge.
+
+WHAT THIRD PARTIES WE RECEIVE DATA FROM  
+This Site is affiliated with AdThrive, LLC (“AdThrive”) for the purposes of placing advertising on the Site. Our Site receive some data from them.
+
+CHANGES TO THIS PRIVACY POLICY  
+We may change this Privacy Policy from time to time. The most recent version of the Privacy Policy will always be posted on the Site, with the “Effective Date” posted at the top of the Policy. We may revise and update this Privacy Policy if our practices change, as technology changes, or as we add new services or change existing ones.
+
+By using our Site or services after the “Effective Date”, you are deemed to consent to our then-current privacy policy.
+
+SALE OF BUSINESS OR ASSETS
+
+In the event that the Site or substantially all of its assets is sold or disposed of as a going concern, whether by merger, sale of assets or otherwise, or in the event of an insolvency, bankruptcy or receivership, the information we have collected about you may be one of the assets sold or merged in connection with that transaction.
+
+CHILDREN UNDER 13  
+We care about protecting the privacy of children. We won’t knowingly allow anyone under 13 to provide us any personally identifying information. Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. If you’re under 13, please do not provide us with any personally identifying information (such as your name, your email address or your phone number).
+
+CONTACT  
+If you have any questions or suggestions about our privacy policy, you can contact us via the contact page.  
+<https://simpleveganblog.com/contact>
