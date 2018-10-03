@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shipstation.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623120917id_/https%3A//www.shipstation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shipstation.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003133016id_/https%3A//www.shipstation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ShipStation
 
-Last Updated: May 16, 2018
+Last Updated: July 19, 2018
 
 This Privacy Policy (“Policy”) of Auctane d/b/a ShipStation ("ShipStation") describes in greater detail the privacy practices of ShipStation and its corporate affiliates, meaning companies related by common ownership or control (“us,” “we,” “our”) responsible for collecting and maintaining certain information collected about you.
 
@@ -154,7 +154,7 @@ Under the E.U.- U.S. Privacy Shield Framework, ShipStation collects, uses, and d
 
 With respect to European Personal Data received or transferred pursuant to the Privacy Shield Framework, ShipStation is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, ShipStation may be required to disclose European Personal Data in response to lawful requests by public authorities, including meeting national security or law enforcement requirements.
 
-If you are a European data subject and have an unresolved privacy or data use concern, please contact us at privacy@ShipStation.com or as specified below in " **How to Contact Us** " If you have any concerns that we have not addressed satisfactorily, you may contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+If you are a European data subject and have an unresolved privacy or data use concern, you can contact our Data Protection Officer at [dpo@shipstation.com](mailto:dpo@shipstation.com) or you can contact us as specified below in " **How to Contact Us**." If you have any concerns that we have not addressed satisfactorily, you may also contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), if you are a European Union Data Subject, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
