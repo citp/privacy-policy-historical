@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iolo.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620161831id_/http%3A//www.iolo.com/company/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iolo.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003160710id_/http%3A//www.iolo.com/company/legal/privacy) for the most accurate reproduction.*
 
 # IOLO TECHNOLOGIES, LLC PRIVACY POLICY – iolo technologies
 
