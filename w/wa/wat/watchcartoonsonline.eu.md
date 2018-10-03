@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the watchcartoonsonline.eu privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610035203id_/http%3A//watchcartoonsonline.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchcartoonsonline.eu privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003124821id_/http%3A//www3.watchcartoonsonline.eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
-[Home](http://watchcartoonsonline.eu/)Privacy policy
+[Home](http://www3.watchcartoonsonline.eu/)Privacy policy
 
-Watchcartoonsonline.eu is committed to protecting your privacy to allow for a safe and secure experience for our viewer. If we were to ask you to provide certain information by which you can be identified when using our website. You can be assured that it will only be used in accordance with this privacy statement. The general use of this information is for the purpose of reporting website traffic, statistics, advertisement click-through, and other activities on the website by using cookies, web beacons, and other monitoring technologies to compile anonymous statistics about our website visitors.
+watchcartoonsonline.eu is committed to protecting your privacy to allow for a safe and secure experience for our viewer. If we were to ask you to provide certain information by which you can be identified when using our website. You can be assured that it will only be used in accordance with this privacy statement. The general use of this information is for the purpose of reporting website traffic, statistics, advertisement click-through, and other activities on the website by using cookies, web beacons, and other monitoring technologies to compile anonymous statistics about our website visitors.
 
 No personally identifiable information is collected by or transferred to any party other than the Advertiser. The actions of such parties and how they use such information is subject to the particular third party’s privacy policy. We may change this policy from time to time by updating this page.
 
