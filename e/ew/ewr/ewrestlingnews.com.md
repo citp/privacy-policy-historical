@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ewrestlingnews.com privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011100738id_/https%3A//www.ewrestlingnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewrestlingnews.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003172743id_/https%3A//www.ewrestlingnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - eWrestlingNews.com
 
 ## **Private Policy**
 
-This Privacy Policy governs the manner in which eWrestlingNews collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.ewrestlingnews.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by eWrestlingNews.
+This Privacy Policy governs the manner in which eWrestlingNews collects, uses, maintains and discloses information collected from users (each, a “User”) of the <https://www.ewrestlingnews.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by eWrestlingNews.
 
 #####  **Personal identification information**
 
@@ -54,7 +54,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 #####  **Google Adsense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at<http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at[http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
 #####  **Changes to this privacy policy**
 
@@ -62,10 +62,10 @@ eWrestlingNews has the discretion to update this privacy policy at any time. Whe
 
 #####  **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://www.ewrestlingnews.com/terms) If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://www.ewrestlingnews.com/terms) If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 #####  **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, [please contact us](http://www.ewrestlingnews.com/contact).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, [please contact us](https://www.ewrestlingnews.com/contact).
 
 ### This document was last updated on January 12, 2015
