@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesterdaystractors.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530174553id_/http%3A//www.yesterdaystractors.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesterdaystractors.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003074534id_/http%3A//www.yesterdaystractors.com/privacy.htm) for the most accurate reproduction.*
 
 # Yesterday's Tractor Co. - Privacy Policy
 
