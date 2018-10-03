@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the granddadz.com privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016101407id_/http%3A//www.imcbill.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the granddadz.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003033255id_/http%3A//www.imcbill.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,6 +55,10 @@ vrteenrs.com
 vrtagteam.com  
 grandmams.com  
 swhores.com  
+bondaries.com  
+passie.nl  
+passionxxx.com  
+pornstarclassics.com  
 granddadz.com
 
 **1.** IMC-BILL (the "website") applies the following Privacy Policy in order to protect your privacy. We understand your privacy is crucial to you.
@@ -73,6 +77,7 @@ personal information from users that are under the age of 18, as we require that
 Cookies are small piece of data sent from a website and stored in a user's web browser while a user is browsing a website IMC-BILL may use cookies to keep track of your activity in the website. Cookies help us improve your  
 experience on the website and give you the most optimized options, while protecting your account. Please note that if you choose to disable cookies tracking by changing the settings of your browser, this may restrict you from  
 using some sections of the website.  
+Cookies we store are always technical IMC related or google analytics anonymous tracking related.  
 \- IP Address  
 It is very common to collect IP address on e-commerce sites. This is done automatically each time you use IMC-BILL. In addition we collect the website you previously came from IMC-BILL. This is used to present you with the right  
 options on the website. This information helps us to identify and optimize the service you are using.  
