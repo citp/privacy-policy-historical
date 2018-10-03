@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vineyardvines.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616055236id_/https%3A//www.vineyardvines.com/frequently-asked-questions/frequently-asked-questions.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vineyardvines.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003151603id_/https%3A//www.vineyardvines.com/frequently-asked-questions/frequently-asked-questions.html%23privacy) for the most accurate reproduction.*
 
 # FAQ's
 
@@ -329,7 +329,7 @@ vineyard vines may use Adobe and the third-party cookie DoubleClick to optimize 
 Do Not Track (DNT) is a privacy preference that users can set in some web browsers, allowing users to opt out of tracking by websites and online services. At the present time, the World Wide Web Consortium (W3C) has not yet established universal standards for recognizable DNT signals and therefore, vineyard vines and the Sites do not recognize DNT.  
 
 
-If you give us your email address either on the footer of our website or when you register, or order, we will send you emails about promotions. To remove yourself from our email list you may click on the unsubscribe link at the bottom of any of our emails and follow the instructions to opt out of future email communications. When you supply your postal address either when requesting a free catalog or placing an order, you will receive the vineyard vines catalog by mail. If you choose to give us your telephone number on the order form, it is for the purpose of contacting you regarding your order. We will not call you regarding promotions. If you do not want a vineyard vines catalog, please send us an email to:[ catalog@vineyardvines.com ](https://web.archive.org/web/20180616055236id_/https%3A//www.vineyardvines.com/frequently-asked-questions/catalog@vineyardvines.com) with the following:
+If you give us your email address either on the footer of our website or when you register, or order, we will send you emails about promotions. To remove yourself from our email list you may click on the unsubscribe link at the bottom of any of our emails and follow the instructions to opt out of future email communications. When you supply your postal address either when requesting a free catalog or placing an order, you will receive the vineyard vines catalog by mail. If you choose to give us your telephone number on the order form, it is for the purpose of contacting you regarding your order. We will not call you regarding promotions. If you do not want a vineyard vines catalog, please send us an email to:[ catalog@vineyardvines.com ](https://web.archive.org/web/20181003151603id_/https%3A//www.vineyardvines.com/frequently-asked-questions/catalog@vineyardvines.com) with the following:
 
   * The phrase "no catalog" in the subject line
   
@@ -372,6 +372,12 @@ Customers who reside in the UK or in the European Economic Area (“EEA”) have
 Customers may make a complaint in accordance with applicable Privacy Laws to a supervisory authority. 
 
 vineyard vines will retain your personal information only for as long as is reasonably necessary to achieve the purposes for which it is collected. Thereafter, we will delete (or otherwise erase, de-identify or pseudonymise or equivalent) any such personal data except as required or permitted by applicable law or regulation. 
+
+vineyard vines is dedicated to making its website usable and available to everyone out there living the Good Life by always meeting or exceeding the requirements of the Web Content Accessibility Guidelines 2.0.
+
+Every year, we work with a consultant to make our website better for everyone. We’ve had all of our pages and our site’s functionality reviewed by this consultant and implemented all suggestions we can. We’ve also had our third-party services and features audited, and they’ve implemented several of the changes we’ve requested.
+
+If you have any questions about our compliance, or any questions at all, call us at 1.800.892.4982 or email us at [tieguys@vineyardvines.com](mailto:tieguys@vineyardvines.com?subject=Accessibility)
 
 vineyard vines may update our privacy policy from time to time and use of the information we collect now is subject to the privacy policy in effect at the time of use. Whenever we make a change, we will post the updated policy at this site and we encourage you to check our policy periodically. By using our website following the posting of a change in the privacy policy, you consent to the updated policy. If you have any questions or concerns regarding our privacy policy, please contact us:
 
