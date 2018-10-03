@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the raveis.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230205136id_/http%3A//www.raveis.com/webpolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raveis.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004015735id_/https%3A//www.raveis.com/webpolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
 William Raveis Real Estate, Inc. ("Raveis") respects your privacy and is committed to protecting it. Therefore, when it comes to information that personally identifies you and/or allows you to be individually contacted ("Personal Information"), Raveis has adopted the following privacy policy to fully protect you.
 
-**How We Use the Information We Collect**
+### How We Use the Information We Collect
 
 Raveis offers a variety of programs and services to benefit you, including personalized home searches, online mortgage applications, and the coordination of home services on your behalf. Raveis collects and retains information about you only when we believe it will help us provide you with the services and products that you desire.
 
-**Who We Share Information With**
+### Who We Share Information With
 
 Raveis does not sell, rent, or lease your personally identifiable information to others. We will only share your Personal Information with those vendors and affiliated companies who are acting on our behalf to serve you. Such Raveis vendors and affiliated companies are governed by our privacy policies with respect to the use of this data.
 
-**What information is collected from me?**
+### What information is collected from me?
 
 For each visitor to our Web site, our Web server automatically recognizes only the visitor's domain name, but not the e-mail address (where possible).  
 The information we collect consists of the following:  
@@ -23,26 +23,28 @@ The information we collect consists of the following:
 5\. Information volunteered by the consumer, such as survey information and/or site registrations.   
 The information we collect is used only to improve the content of our Web site and to customize the content and/or layout of our page for each individual visitor. 
 
-Additionally, Raveis uses Cookies to:   
-1\. Store visitors’ preferences.   
-2\. Record session information, such as items that visitors add to their user profile. 
+Additionally, Raveis uses Cookies to:  
+1\. Store visitors' preferences.  
+2\. Record session information, such as items that visitors add to their user profile.
 
 Such information is collected so that Raveis may customize web page content based on visitors' browser type or other information that the visitor sends.
 
-**Information Security and Quality**
+### Information Security and Quality
 
 Raveis complies with all state and federal restrictions and regulations relating to the use of customer information. Raveis has put in place appropriate technical and managerial procedures to keep your personally identifiable information accurate, complete, current and secure.
 
-**Scope of This Privacy Policy**
+### Scope of This Privacy Policy
 
 This privacy policy only applies to raveis.com. The site contains links to sites operated and maintained by third parties over which we have absolutely no control. Please be aware that these sites may collect information about you, and operate according to their own privacy practices that may differ from this privacy policy. Remember that once you are outside the Raveis website, any information you submit is outside of our control.
 
-**Consent**
+### Consent
 
 When you provide us with Personal Information, you consent to the collection and use of this information by Raveis. If we decide to change our privacy policy, we will post changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-**Change/Removal**
+### Change/Removal
 
-We need your help in making sure your personal information is correct in our systems. Please notify us at 
+We need your help in making sure your personal information is correct in our systems. Please notify us at [_contact@raveisre.com_](mailto:contact@raveisre.com) of changes to your name, address, title, phone number or email address. You may correct your personal information by changing your user profile or you may elect via return email not to receive future Raveis contacts (i.e. mailings, calls, etc.). In the event you elect not to receive any future contacts from Raveis, we will remove your name from all of our contact lists; however, Raveis can only promise to remove you from any lists we control.
 
-[_contact@raveisre.com_](mailto:contact@raveisre.com) of changes to your name, address, title, phone number or email address. You may correct your personal information by changing your user profile or you may elect via return email not to receive future Raveis contacts (i.e. mailings, calls, etc.). In the event you elect not to receive any future contacts from Raveis, we will remove your name from all of our contact lists; however, Raveis can only promise to remove you from any lists we control.
+### Consumer AVM Terms of Use
+
+The Consumer AVM estimate of market value is computer generated by the application of various mathematical formulas and techniques proprietary to Collateral Analytics LLC to available public record, local market and proprietary data. This report has not been prepared by a licensed appraiser nor does it constitute an appraisal of the subject property and should not be relied upon as such. The data used to generate this report does not include information that could be derived from an inspection of the subject property and its surroundings. The condition of the property could greatly affect the accuracy of the estimate of value. The data and the information derived from the data in this report is provided as available and "AS IS" and is intended for internal asset valuation use only. All uses are at the user's sole risk. Collateral Analytics LLC is not liable for the accuracy of the data or information provided in this report. The accuracy of the data and methodologies used are deemed reliable but are not warranted or guaranteed. The charts and graphs contained herein are computer generated by the application of various mathematical formulas and techniques proprietary to Collateral Analytics LLC to available public record, local market and proprietary data compiled by Collateral Analytics LLC. Such data is deemed reliable but may not be complete or accurate in all cases and is not guaranteed. Collateral Analytics, LLC is not liable for the accuracy of the information provided. The information displayed in these graphics is provided “AS IS” and is intended for internal asset valuation use only. All uses are at the user’s sole risk. Lastly please let us know what contact information should we add to bottom of the Send Report e-mail template when a user e-mails a CAVM report to themselves or somebody else- please see a current sample below- we usually recommend adding contact information to the e-mail template- just let us know if you want us to add anything to the template or the title of the e-mail.
