@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the meetearnest.com privacy policy that was archived on 2017-07-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170703215555id_/https%3A//www.earnest.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the meetearnest.com privacy policy that was archived on 2018-10-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181003132310id_/https%3A//www.earnest.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" itemscope="itemscope" itemtype="http://schema.org/WebPage"><head>
-  <meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/i49svebw12/analytics.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgIOUF9TGwIGV1FSAggE"};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];n.exports=u;var y=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(m,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+  <meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/i49svebw12/analytics.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgIOUF9TGwIGV1FSAggE"};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta content="www.earnest.com" name="twitter:domain">
   <meta content="nm63eC2D-FJd9zXe3TGLM-xux6StpEeb_Iva0SLoKmw" name="google-site-verification">
@@ -11,14 +11,49 @@
       "@context": "http://schema.org",
       "@type": "Organization",
       "name": "Earnest",
+      "legalName" : "Earnest Operations LLC",
+      "alternateName": [
+        "MeetEarnest",
+        "Earnest"
+      ],
+      "parentOrganization" : "Navient Corporation",
       "url": "https://www.earnest.com/",
-      "sameAs": [
+      "description": "Welcome to a better way to borrow. We’re using unrivaled service and technology to bring low-interest loans to high-potential people. Like you.",
+      "foundingDate": "2013",
+      "founders": [
+        {
+          "@type": "Person",
+          "name": "Louis Beryl"
+        },
+        {
+          "@type": "Person",
+          "name": "Benjamin Hutchinson"
+        }
+      ],
+      "address":{
+        "@type": "PostalAddress",
+        "streetAddress": "303 2nd St. Suite 401N",
+        "addressLocality": "San Francisco",
+        "addressRegion": "CA",
+        "postalCode": "94107",
+        "addressCountry": "USA",
+        "telephone": "+1-888-601-2801"
+      },
+      "sameAs" : [
         "https://www.facebook.com/Earnest-624940000888848/",
         "https://twitter.com/meetearnest",
         "https://www.instagram.com/meetearnest/",
         "https://www.linkedin.com/company/earnest-inc",
         "https://plus.google.com/+Meetearnest",
-        "https://en.wikipedia.org/wiki/Earnest_(company)"
+        "https://en.wikipedia.org/wiki/Earnest_(company)",
+        "https://www.flickr.com/photos/meetearnest",
+        "https://www.youtube.com/channel/UCBmkFYczQns9R8mUQ3u2Qgg",
+        "https://about.me/earnestinc",
+        "https://www.vbprofiles.com/companies/earnest-537b8c2708f8b904530112f2",
+        "https://www.crunchbase.com/organization/earnest",
+        "https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=261305139",
+        "https://www.pinterest.com/meetearnest/",
+        "https://www.wikidata.org/wiki/Q18150164"
       ],
       "logo":"https://s3.amazonaws.com/earnest-static-assets/logos/earnest-square-icon.png",
       "contactPoint": [
@@ -26,39 +61,47 @@
       ]
     }
   </script>
+
   <link rel="profile" href="http://gmpg.org/xfn/11">
   <link rel="pingback" href="https://www.earnest.com/xmlrpc.php">
 
-  <title>Security &amp; Privacy | Earnest</title>
+  <title>Privacy &amp; Security | Earnest</title>
 
-<!-- This site is optimized with the Yoast SEO plugin v4.9 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v8.3 - https://yoast.com/wordpress/plugins/seo/ -->
 <meta name="description" content="Our privacy policy—in plain language, and with clear and honest explanations.">
 <link rel="canonical" href="https://www.earnest.com/privacy">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Security &amp; Privacy | Earnest">
+<meta property="og:title" content="Privacy &amp; Security | Earnest">
 <meta property="og:description" content="Our privacy policy—in plain language, and with clear and honest explanations.">
 <meta property="og:url" content="https://www.earnest.com/privacy">
 <meta property="og:site_name" content="Earnest">
-<meta property="og:image" content="https://17664-presscdn-0-27-pagely.netdna-ssl.com/wp-content/uploads/referral-terms.jpg">
+<meta property="og:image" content="https://s17664.pcdn.co/wp-content/uploads/referral-terms.jpg">
+<meta property="og:image:secure_url" content="https://s17664.pcdn.co/wp-content/uploads/referral-terms.jpg">
 <meta property="og:image:width" content="1727">
 <meta property="og:image:height" content="415">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:description" content="Our privacy policy—in plain language, and with clear and honest explanations.">
-<meta name="twitter:title" content="Security &amp; Privacy | Earnest">
-<meta name="twitter:image" content="https://17664-presscdn-0-27-pagely.netdna-ssl.com/wp-content/uploads/referral-terms.jpg">
+<meta name="twitter:title" content="Privacy &amp; Security | Earnest">
+<meta name="twitter:image" content="https://s17664.pcdn.co/wp-content/uploads/referral-terms.jpg">
 <!-- / Yoast SEO plugin. -->
 
-<link rel="dns-prefetch" href="//ajax.googleapis.com">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="Earnest » Feed" href="https://www.earnest.com/feed">
 <link rel="alternate" type="application/rss+xml" title="Earnest » Comments Feed" href="https://www.earnest.com/comments/feed">
-<link rel="stylesheet" id="lcms-wordpress-theme-style-css" href="https://17664-presscdn-0-27-pagely.netdna-ssl.com/wp-content/themes/lcms-wordpress-theme-v1.2.5%2B2017-06-30T06-14-17-pm/style.css?ver=4.7.5" type="text/css" media="all">
-<link rel="stylesheet" id="inuit-css" href="https://17664-presscdn-0-27-pagely.netdna-ssl.com/wp-content/themes/lcms-wordpress-theme-v1.2.5%2B2017-06-30T06-14-17-pm/inuit.css?ver=4.7.5" type="text/css" media="">
+<link rel="stylesheet" id="printomatic-css-css" href="https://s17664.pcdn.co/wp-content/plugins/print-o-matic/css/style.css?ver=1.2" type="text/css" media="all">
+<link rel="stylesheet" id="lcms-wordpress-theme-style-css" href="https://s17664.pcdn.co/wp-content/themes/lcms-wordpress-theme-v1.2.5%2B2018-09-27T05-14-46-pm/style.css?ver=4.9.8" type="text/css" media="all">
+<link rel="stylesheet" id="inuit-css" href="https://s17664.pcdn.co/wp-content/themes/lcms-wordpress-theme-v1.2.5%2B2018-09-27T05-14-46-pm/inuit.css?ver=4.9.8" type="text/css" media="">
+<script type="text/javascript">
+/* <![CDATA[ */
+var config = {"baseApiUrl":"https:\/\/api.earnest.com","olarkAPIKey":"5518-778-10-9868","cookieDomain":".earnest.com","userLoggedIn":""};
+/* ]]> */
+</script>
+<script type="text/javascript" defer="defer" src="https://s17664.pcdn.co/wp-content/themes/lcms-wordpress-theme-v1.2.5%2B2018-09-27T05-14-46-pm/js/min/content-privacy.js?ver=4.9.8"></script>
 <link rel="https://api.w.org/" href="https://www.earnest.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.earnest.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://17664-presscdn-0-27-pagely.netdna-ssl.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.7.5">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s17664.pcdn.co/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.9.8">
 <link rel="shortlink" href="https://www.earnest.com/?p=356">
 <link rel="alternate" type="application/json+oembed" href="https://www.earnest.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.earnest.com%2Fprivacy">
 <link rel="alternate" type="text/xml+oembed" href="https://www.earnest.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.earnest.com%2Fprivacy&amp;format=xml">
@@ -81,14 +124,47 @@
     name = "privacy"  } else {
     name = 'Home';
   }
+  var segmentProperties = {};
+  var deviceUUID = "";
+  if (deviceUUID) {
+    segmentProperties.device_uuid = deviceUUID
+  }
   // Remove Client Referral UTM after we are sure the page view event has been captured.
   analytics.on('page', function () { removeClientReferralUtms(); });
-  analytics.page(name.replace(/\/$/,'') , {});
+  analytics.page(name.replace(/\/$/,''), segmentProperties);
   }}();
 </script>
+  <script>
+    /*! loadCSS. [c]2017 Filament Group, Inc. MIT License */
+    !function(t){"use strict";t.loadCSS||(t.loadCSS=function(){});var e=loadCSS.relpreload={};if(e.support=function(){var e;try{e=t.document.createElement("link").relList.supports("preload")}catch(t){e=!1}return function(){return e}}(),e.bindMediaToggle=function(t){var e=t.media||"all";function a(){t.media=e}t.addEventListener?t.addEventListener("load",a):t.attachEvent&&t.attachEvent("onload",a),setTimeout(function(){t.rel="stylesheet",t.media="only x"}),setTimeout(a,3e3)},e.poly=function(){if(!e.support())for(var a=t.document.getElementsByTagName("link"),n=0;n<a.length;n++){var o=a[n];"preload"!==o.rel||"style"!==o.getAttribute("as")||o.getAttribute("data-loadcss")||(o.setAttribute("data-loadcss",!0),e.bindMediaToggle(o))}},!e.support()){e.poly();var a=t.setInterval(e.poly,500);t.addEventListener?t.addEventListener("load",function(){e.poly(),t.clearInterval(a)}):t.attachEvent&&t.attachEvent("onload",function(){e.poly(),t.clearInterval(a)})}"undefined"!=typeof exports?exports.loadCSS=loadCSS:t.loadCSS=loadCSS}("undefined"!=typeof global?global:this);
+  </script>
+  <style>
+      </style>
 
   <!-- / Optimizely on the homepage -->
   <script src="//cdn.optimizely.com/js/750482796.js"></script>
+  <!-- Start of earnest Zendesk Widget script -->
+  <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=a972f6a4-8c21-4227-ac29-f8d300b1470f"> </script>
+  <!-- End of earnest Zendesk Widget script -->
+  <script type="text/javascript">
+  var setupZendesk = function () {
+    zE(function() {
+      $zopim(function() {
+        if ($zopim.livechat.isChatting()) {
+          zE.show();
+        } else {
+          zE.hide();
+        }
+      });
+    });
+  };
+
+  if (document.readyState === 'complete') {
+    setupZendesk();
+  } else {
+    document.addEventListener('DOMContentLoaded', setupZendesk);
+  }
+  </script>
 </head>
 <body class="page-template page-template-page-templates page-template-content-privacy page-template-page-templatescontent-privacy-php page page-id-356">
 
@@ -101,7 +177,7 @@
   <i class="close icon icon--close-x"></i>
 </div><div id="page" class="site">
   <div id="page-content">
-    <a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+    <a class="skip-link screen-reader-text" href="#main-content">Skip to content</a>
     <header id="masthead" class="site-header" role="banner">
       <div class="site-nav">
         <div class="site-nav-content">
@@ -112,37 +188,82 @@
               </a>
             </div>
           </div><!-- .site-branding -->
-          <button type="button" class="menu-toggle for-mobile-only">
+          <button type="button" class="menu-toggle for-mobile-only" aria-label="Toggle Menu">
           <div></div><div></div><div></div>
           </button>
           <nav id="site-navigation" class="main-navigation" role="navigation" itemscope="" itemtype="https://schema.org/SiteNavigationElement">
             <div class="left-nav">
-              <div class="menu-primary-menu-container"><ul id="primary-menu" class="menu"><li id="menu-item-5" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5"><a href="/refinance-student-loans" itemprop="url">Refinance Student Loans</a></li>
-<li id="menu-item-6" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6"><a href="/personal-loans" itemprop="url">Personal Loans</a></li>
+                              <div class="menu-primary-menu-container"><ul id="primary-menu" class="menu"><li id="menu-item-5" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5"><a href="/refinance-student-loans" itemprop="url">Refinance Student Loans</a></li>
+<li id="menu-item-6" class="dropdown dropdown--skinny menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6"><a href="/personal-loans" itemprop="url">Personal Loans</a>
+<ul class="sub-menu">
+	<li id="menu-item-4388" class="sub-menu-link menu-item menu-item-type-custom menu-item-object-custom menu-item-4388"><a href="/personal-loans/credit-card-consolidation-loan" itemprop="url">Credit Card Consolidation</a></li>
+	<li id="menu-item-4390" class="sub-menu-link menu-item menu-item-type-custom menu-item-object-custom menu-item-4390"><a href="/personal-loans/engagement-ring-loans" itemprop="url">Engagement Ring Loans</a></li>
+	<li id="menu-item-4387" class="sub-menu-link menu-item menu-item-type-custom menu-item-object-custom menu-item-4387"><a href="/personal-loans/home-improvement-loans" itemprop="url">Home Improvement Loans</a></li>
+	<li id="menu-item-6065" class="sub-menu-link menu-item menu-item-type-custom menu-item-object-custom menu-item-6065"><a href="/personal-loans/medical-loans" itemprop="url">Medical Loans</a></li>
+	<li id="menu-item-4389" class="sub-menu-link menu-item menu-item-type-custom menu-item-object-custom menu-item-4389"><a href="/personal-loans/moving-loans" itemprop="url">Moving Loans</a></li>
+	<li id="menu-item-4537" class="sub-menu-link menu-item menu-item-type-custom menu-item-object-custom menu-item-4537"><a href="/personal-loans/vacation-loans" itemprop="url">Vacation Loans</a></li>
+	<li id="menu-item-4536" class="sub-menu-link menu-item menu-item-type-custom menu-item-object-custom menu-item-4536"><a href="/personal-loans/wedding-loans" itemprop="url">Wedding Loans</a></li>
+</ul>
+</li>
 <li id="menu-item-7" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7"><a href="/eligibility" itemprop="url">Eligibility</a></li>
 <li id="menu-item-8" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8"><a href="https://help.earnest.com/" itemprop="url">Help</a></li>
+<li id="menu-item-6008" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6008"><a href="https://www.earnest.com/reviews" itemprop="url">Reviews</a></li>
 <li id="menu-item-9" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9"><a href="/blog" itemprop="url">Blog</a></li>
 <li id="menu-item-120" class="dropdown menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-120"><a href="https://www.earnest.com/resources" itemprop="url">Resources</a>
 <ul class="sub-menu">
-	<li id="menu-item-435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-435"><a href="https://www.earnest.com/student-loan-calculator" itemprop="url">Refi Student Loan Calculator</a></li>
-	<li id="menu-item-436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-436"><a href="https://www.earnest.com/student-loan-consolidation-calculator" itemprop="url">Student Loan Consolidation Calculator</a></li>
-	<li id="menu-item-121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121"><a href="https://www.earnest.com/consolidate-vs-refinance-student-loans" itemprop="url">Consolidate vs. Refinance Student Loans</a></li>
-	<li id="menu-item-122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122"><a href="https://www.earnest.com/fixed-variable-rate-student-loans" itemprop="url">Fixed vs. Variable Rate</a></li>
-	<li id="menu-item-741" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-741"><a href="https://www.earnest.com/precision-pricing" itemprop="url">Precision Pricing</a></li>
-	<li id="menu-item-218" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-218"><a href="https://www.earnest.com/how-to-pay-for-graduate-education" itemprop="url">How to Pay for Graduate Education</a></li>
-	<li id="menu-item-291" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-291"><a href="https://www.earnest.com/schools" itemprop="url">College Student Loan Resources</a></li>
-	<li id="menu-item-3299" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3299"><a href="https://www.earnest.com/decision-making" itemprop="url">Decision Making Guide</a></li>
+	<li id="menu-item-3924" class="sub-menu-heading sub-menu-heading--resources menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3924"><a href="#" itemprop="url">Resources</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3925" class="sub-menu-product menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3925"><a href="#" itemprop="url">Student Loans</a>
+		<ul class="sub-menu">
+			<li id="menu-item-121" class="sub-menu-link menu-item menu-item-type-post_type menu-item-object-page menu-item-121"><a href="https://www.earnest.com/resources/consolidate-vs-refinance-student-loans" itemprop="url">Consolidation vs. Refinancing</a></li>
+			<li id="menu-item-122" class="sub-menu-link menu-item menu-item-type-post_type menu-item-object-page menu-item-122"><a href="https://www.earnest.com/resources/fixed-variable-rate-student-loans" itemprop="url">Fixed or Variable Rate?</a></li>
+			<li id="menu-item-3944" class="sub-menu-link menu-item menu-item-type-post_type menu-item-object-page menu-item-3944"><a href="https://www.earnest.com/10-day-payoff-student-loans" itemprop="url">What is a 10-Day Payoff?</a></li>
+			<li id="menu-item-741" class="sub-menu-link menu-item menu-item-type-post_type menu-item-object-page menu-item-741"><a href="https://www.earnest.com/precision-pricing" itemprop="url">What is Precision Pricing?</a></li>
+			<li id="menu-item-3927" class="sub-menu-link menu-item menu-item-type-custom menu-item-object-custom menu-item-3927"><a href="/blog/how-to-improve-loan-application/" itemprop="url">Loan Application Tips</a></li>
+		</ul>
+</li>
+		<li id="menu-item-3926" class="sub-menu-product menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3926"><a href="http://#" itemprop="url">Personal Loans</a>
+		<ul class="sub-menu">
+			<li id="menu-item-3928" class="sub-menu-link menu-item menu-item-type-custom menu-item-object-custom menu-item-3928"><a href="/blog/refinance-credit-card-debt/" itemprop="url">When to Refinance Credit Card Debt</a></li>
+			<li id="menu-item-3929" class="sub-menu-link menu-item menu-item-type-custom menu-item-object-custom menu-item-3929"><a href="/blog/home-equity-loan-vs-home-improvement-personal-loan/" itemprop="url">Home Equity Loan or Personal Loan?</a></li>
+			<li id="menu-item-3930" class="sub-menu-link menu-item menu-item-type-custom menu-item-object-custom menu-item-3930"><a href="/blog/how-to-pay-off-debt/" itemprop="url">How to Pay Off Debt</a></li>
+			<li id="menu-item-3931" class="sub-menu-link menu-item menu-item-type-custom menu-item-object-custom menu-item-3931"><a href="/blog/how-to-read-your-credit-report/" itemprop="url">How to Read Your Credit Report</a></li>
+		</ul>
+</li>
+		<li id="menu-item-3932" class="sub-menu-product menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3932"><a href="#" itemprop="url">Home Loans</a>
+		<ul class="sub-menu">
+			<li id="menu-item-3933" class="sub-menu-link menu-item menu-item-type-custom menu-item-object-custom menu-item-3933"><a href="/blog/mortgage-rates/" itemprop="url">What Affects Your Mortgage Rate</a></li>
+			<li id="menu-item-3934" class="sub-menu-link menu-item menu-item-type-custom menu-item-object-custom menu-item-3934"><a href="/blog/how-to-build-a-credit-report-mortgage-lenders-will-love/" itemprop="url">Building the Best Credit Report</a></li>
+			<li id="menu-item-3935" class="sub-menu-link menu-item menu-item-type-custom menu-item-object-custom menu-item-3935"><a href="/blog/renting-vs-owning-whats-the-difference-to-your-budget/" itemprop="url">Renting vs. Owning</a></li>
+			<li id="menu-item-3936" class="sub-menu-link menu-item menu-item-type-custom menu-item-object-custom menu-item-3936"><a href="/blog/heres-where-you-can-expect-to-buy-a-home-before-40/" itemprop="url">Buying a Home Before 40</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li id="menu-item-3940" class="sub-menu-heading sub-menu-heading--guides menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3940"><a href="http://#" itemprop="url">Guides</a>
+	<ul class="sub-menu">
+		<li id="menu-item-218" class="sub-menu-link menu-item menu-item-type-post_type menu-item-object-page menu-item-218"><a href="https://www.earnest.com/guides/how-to-pay-for-graduate-education" itemprop="url">How to Pay for Graduate Education</a></li>
+		<li id="menu-item-3941" class="sub-menu-link menu-item menu-item-type-custom menu-item-object-custom menu-item-3941"><a href="/guides/earnest-guide-refinancing-student-loans" itemprop="url">How to Refinance Student Loans</a></li>
+		<li id="menu-item-3299" class="sub-menu-link menu-item menu-item-type-post_type menu-item-object-page menu-item-3299"><a href="https://www.earnest.com/decision-making" itemprop="url">Decision Making Guide</a></li>
+	</ul>
+</li>
+	<li id="menu-item-3939" class="sub-menu-heading sub-menu-heading--calculators menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3939"><a href="http://#" itemprop="url">Calculators</a>
+	<ul class="sub-menu">
+		<li id="menu-item-435" class="sub-menu-link menu-item menu-item-type-post_type menu-item-object-page menu-item-435"><a href="https://www.earnest.com/resources/student-loan-calculator" itemprop="url">Refi Student Loan Calculator</a></li>
+		<li id="menu-item-436" class="sub-menu-link menu-item menu-item-type-post_type menu-item-object-page menu-item-436"><a href="https://www.earnest.com/resources/student-loan-consolidation-calculator" itemprop="url">Student Loan Consolidation Calculator</a></li>
+	</ul>
+</li>
 </ul>
 </li>
-</ul></div>            </div>
+</ul></div>                          </div>
             <div class="right-nav">
               <ul>
                                                                             <li class="get-rate">
-                          <a id="nav-get-started" href="#" class="primary-skinny-button nav-check-rate" data-track="{text: 'get started - header'}">Get Started</a>
+                        <a id="nav-get-started" href="#" class="primary-skinny-button nav-check-rate" data-track="{text: 'get started - header'}">Get Started</a>
                       </li>
-                                                                                      <li class="sign-in">
-                  <a href="/login" class="secondary-skinny-button-with-outline">Sign In</a>
-                </li>
+                                                                                        <li class="sign-in">
+                    <a href="/login/" class="secondary-skinny-button-with-outline">Sign In</a>
+                  </li>
                               </ul>
             </div>
           </nav><!-- #site-navigation -->
@@ -150,7 +271,7 @@
       </div>
     </header><!-- #masthead -->
     <nav class="mobile-landing-nav">
-      <div class="menu-mobile-primary-menu-container"><ul id="mobile-primary-menu" class="menu"><li id="menu-item-41" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41"><a href="/login" itemprop="url">Sign In</a></li>
+              <div class="menu-mobile-primary-menu-container"><ul id="mobile-primary-menu" class="menu"><li id="menu-item-41" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41"><a href="/login" itemprop="url">Sign In</a></li>
 <li id="menu-item-42" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-42"><a href="/refinance-student-loans" itemprop="url">Refinance Student Loans</a></li>
 <li id="menu-item-43" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43"><a href="/parent-loan-refinancing" itemprop="url">Parent Loan Refinancing</a></li>
 <li id="menu-item-44" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44"><a href="/personal-loans" itemprop="url">Personal Loan</a></li>
@@ -167,76 +288,59 @@
 <li id="menu-item-109" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-109"><a href="/apps" itemprop="url">iPhone App</a></li>
 <li id="menu-item-55" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-55"><a href="/privacy" itemprop="url">Privacy &amp; Security</a></li>
 <li id="menu-item-56" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-56"><a href="/terms-of-service" itemprop="url">Terms of Service</a></li>
-</ul></div>    </nav>
+</ul></div>          </nav>
     <div id="mobile-overlay"></div>
-    <div id="content" class="site-content">
+    <div class="site-content">
 <div id="main-content" class="main-content">
   <div id="primary" class="content-area">
     <div id="content" class="site-content" role="main">
       <section id="privacy-page-container" class="content-page">
-        <header class="page-header" style="background-image: url('https://17664-presscdn-0-27-pagely.netdna-ssl.com/wp-content/uploads/referral-terms-1680x404.jpg');">
+        <header class="page-header" style="background-image: url('https://s17664.pcdn.co/wp-content/uploads/referral-terms-1680x404.jpg');">
           <h1 class="title">
-            Security &amp; Privacy          </h1>
+            Privacy &amp; Security          </h1>
         </header>
         <div class="content-wrapper content-wrapper--main-content">
-          <p class="timestamp">Last Updated: 12/29/16</p>
+          <p class="timestamp">Last Updated: 8/10/18</p>
           <section class="content-section content-section--large-spacing">
-            <p class="intro-text">At Earnest, we believe fairness and transparency are values that are fundamental to finance. That value powers all of the decisions we make, including how we gather and respect your personal information. We’ve written our policy to be as clear and straightforward as possible to empower and inform you about your privacy while on Earnest’s website.</p>
+            <p class="intro-text">At Earnest, we believe fairness and transparency are important and power the decisions we make. This includes how we gather and respect your personal information. We’ve written this online Privacy Policy to empower and inform you about your privacy while on Earnest’s website or while using Earnest’s mobile application. Additional information on Earnest’s privacy practices as a financial institution can be found in our <a href="http://image.updates.earnest.com/lib/fe5b15707c660c7a751d/m/1/Privacy_Notification.pdf" target="_blank" rel="noopener">Privacy Notice</a>.</p>
           </section>
           <section class="content-section content-section--large-spacing">
             <div class="overview-block">
-<div class="overview-block__icon icon icon--lock"></div>
-<div class="overview-block__content overview-block__content--lock">
-<h3 class="content-page__h3">Your Data is private</h3>
-<p>The login details of your linked accounts, such as usernames and passwords, are not accessible to anyone at Earnest. The financial and personal data we use to process your loan is stored securely by a trusted third-party partner.</p>
-<p></p></div>
-<p></p></div>
-<div class="overview-block">
-<div class="overview-block__icon icon icon--shredder"></div>
-<div class="overview-block__content overview-block__content--shredder">
-<h3 class="content-page__h3">Your data is not a product</h3>
-<p>We do not sell your information. To process loan applications we may need to share information provided by you with our partners so that they can perform requested services – but your information is never for sale.</p>
-<p></p></div>
-<p></p></div>
-<div class="overview-block">
 <div class="overview-block__icon icon icon--vault"></div>
 <div class="overview-block__content overview-block__content--vault">
 <h3 class="content-page__h3">Your data is protected</h3>
-<p>All data entered into the Earnest site is encrypted using industry-standard SHA-256 SSL technology before being sent to our servers in an off-site data center. Our servers are supported by multiple levels of protection including firewalls, private subnets and multi-factor authentication.</p>
-<p></p></div>
-<p></p></div>
+<p>All data entered into the Site is encrypted using industry-standard SSL technology before being sent to our servers in an off-site data center. Our servers are supported by multiple levels of protection including firewalls, private subnets and multi-factor authentication.</p>
+</div>
+</div>
+<div class="overview-block">
+<div class="overview-block__icon icon icon--shredder"></div>
+<div class="overview-block__content overview-block__content--shredder">
+<h3 class="content-page__h3">Your data is not for sale</h3>
+<p>We do not sell your information. We may need to share information provided by you with our partners so that they can perform requested services – but your information is never sold by us.</p>
+</div>
+</div>
           </section>
           <section class="content-section privacy-block">
             <h3 class="content-page__h3">Privacy &amp; Security Policy</h3>
-<div class="layout layout--larger">
-<div class="layout__item u-1-of-3 hide--palm">
-<p class="privacy-block__content--standout">We respect your privacy and safeguard your information with industry-standard technology. Our core values include trust and transparency, and this Privacy Policy describes how we live up to those values for you.</p>
-</div>
-<div class="layout__item u-2-of-3 u-1-of-1-palm">
-<p class="privacy-block__content">We believe that you deserve the utmost respect when it comes to the privacy of your personal information. As you use our services, we want you to be clear how we are using information and the ways in which you can protect your privacy. The terms “we,” “us,” and “Earnest” refer to Earnest Inc., a Delaware corporation, its subsidiaries, and affiliates.</p>
-<p class="privacy-block__content">This Privacy Policy discloses which financial and personal information we collect, how we use it, and the choices you can make regarding the collection and use of this information. We also explain how any personally identifiable information that we may request will be used. Finally, we include our security policy, which describes how your personally identifiable information is protected both electronically and physically.</p>
-</div>
-</div>
+<p class="privacy-block__content>We respect your privacy and safeguard your information with industry-standard technology. Our core values include trust and transparency, and this Privacy Policy describes how we live up to those values for you.</p>
+<p class=" privacy-block__content"="">We believe that you deserve the utmost respect when it comes to the privacy of your personal information. As you use our services, we want to be clear on how we are using information and the ways in which you can protect your privacy. The terms “we,” “us,” and “our,” refer to Earnest LLC, Earnest Operations LLC, Earnest Home LLC, Navient Corporation and/or Navient Solutions, LLC and their respective subsidiaries, affiliates agents, successors, and assignees. The “Site” refers to Earnest’s World Wide Web site located at www.earnest.com, as well as to associated Earnest website content linked to this World Wide Web site and to Earnest’s mobile device-enabled website content and mobile application content.</p>
+<p class="privacy-block__content">This Privacy Policy addresses the financial and personal information we collect, how we use it, and the choices you can make regarding the collection and use of this information. We also explain how any personally identifiable information that we may request will be used. Finally, we describe how your personally identifiable information is protected.</p>
           </section>
           <section class="content-section privacy-block">
             <h3 class="content-page__h3">Information We Collect</h3>
-<div class="layout layout--larger">
-<div class="layout__item u-1-of-3 hide--palm">
-<p class="privacy-block__content--standout">Information we collect while you use our site helps us improve our services. During the loan application process we also request and collect personal and financial information from you, such as your name and address.</p>
-</div>
-<div class="layout__item u-2-of-3 u-1-of-1-palm">
-<p class="privacy-block__content">We may collect information from you when you use the Earnest site. We also collect personal and financial information during the registration and loan approval process. Additional information may be gathered during your future use of the site. Information that we collect may include personally identifying information, such as your name, address, email address, telephone number, or social security number. We may also collect financial information such as your income, account balance, payment history, credit history, or credit scores.</p>
-<p class="privacy-block__content">We and/or our service providers may also collect information that is about you. We and/or our service providers may use this aggregated information in the administration of our Site to improve its usability, evaluate the success of particular marketing/advertising campaigns, and help optimize our Site based on your needs. This may include your internet protocol (IP) address, geographical location, browser type, referral source, length of visit, number of page views, or cookies and anonymous identifiers.</p>
-</div>
-</div>
+<p class="privacy-block__content">Information we collect while you use the Site helps us improve our services. During the loan application and rate estimate processes we may request and collect personal and financial information from you, such as your name and address.</p>
+<p class="privacy-block__content">We may also collect information from you when you use the Site. We collect personal and financial information during your registration, the loan approval process, and during the servicing of your loan. Additional information may be gathered during your future use of the Site. Information that we collect may include personally identifying information, such as your name, address, email address, telephone number, or social security number. This includes authorizing your wireless operator to disclose your mobile number, name, address, email, network status, customer type, customer role, billing type, mobile device identifiers (IMSI and IMEI) and other subscriber details, if available, to Earnest and service providers for the duration of the business relationship, solely for identity verification and fraud avoidance. We may also collect financial information such as your income, account balance, payment history, credit history, or credit scores.</p>
+<p class="privacy-block__content">If you use the “Connect Accounts” feature on the Site, Earnest will utilize a third-party service provider to use and store the username and password information you provide to access your account information from the financial institutions you have identified, as well as to process payments you have approved. Your connected accounts username and password information will not be stored by, or available to, Earnest personnel and will be maintained by the third-party service provider.</p>
+          </section>
+          <section class="content-section privacy-block">
+            <h3 class="content-page__h3">Log On And Other Information</h3>
+<p class="privacy-block__content">We and/or our service providers may also collect and use information about you on a personal or aggregated basis in the administration of the Site to improve products and services, evaluate the success of particular marketing/advertising campaigns, assist in technical support, and help optimize the Site.</p>
+<p class="privacy-block__content">Our servers may automatically collect and store certain technical information when you visit or use our Site, mobile device-enabled website content, or our downloaded mobile application, including information such as the Internet Protocol (IP) address of the device you use to connect to the Internet, browser type, device type, mobile device ID (UDID), screen size and resolution, Internet Service Provider (ISP), the website you came from and exited to, operating system, date/time stamp, pages visited and anonymous identifiers.</p>
+<p class="privacy-block__content">If you give us your current physical location, for example, when you visit or use our Site or other content, or enter your current address or ZIP code, we may use and store that information to provide you with location-based information or messaging. If you do not want to give us your current physical location, do not enter this location on our Site and do not allow your browser or mobile device to send it to us.</p>
           </section>
           <section class="content-section privacy-block">
             <h3 class="content-page__h3">How we use information we collect</h3>
-<div class="layout layout--larger">
-<div class="layout__item u-1-of-3 hide--palm">
-<p class="privacy-block__content--standout">We use this information to help us verify your identity, communicate with you during and after the approval process, and underwrite your loan. We also use some of this information to improve our loan offerings, our site and advertisements, and to let you know when we have new services available. You can update the personal information you give us any time by emailing us at <a href="mailto:hello@earnest.com">hello@earnest.com</a>. We may also use this information to ensure that any content we display are relevant based on information you included in your profile and your use of the Earnest site.</p>
-</div>
-<div class="layout__item u-2-of-3 u-1-of-1-palm">
+<p class="privacy-block__content">We use this information to help us verify your identity, communicate with you during and after the approval process, review and render decisions regarding your loan application, determine an appropriate loan rate, and service your loan over time. We also use some of this information to improve our products and services, the Site and advertisements, and to let you know when we have new services available. We may also use this information to ensure that any content we display is relevant based on information you included in your profile and your use of the Site.</p>
 <p class="privacy-block__content">Earnest may also use your personal information to facilitate activities and transactions that need to occur during the lending process, such as:</p>
 <ul class="content-page-list">
 <li>To establish that you are over the age of 18;</li>
@@ -251,173 +355,121 @@
 <p class="privacy-block__content">More generally, we may use information that we collect from you or that you provide to us:</p>
 <ul class="content-page-list">
 <li>To provide, maintain, protect and improve our services, to develop new ones, and to protect Earnest and our users;</li>
-<li>To notify you about changes to the Earnest site or any products or services we offer or provide though it;</li>
+<li>To notify you about changes to the Site or any products or services we offer or provide through it;</li>
 <li>To keep a record of your communication to help solve any issues you might be facing;</li>
 <li>For our marketing purposes to offer our products and services to you, such as advertisements, by us through third parties;</li>
 <li>To offer you tailored content giving you more relevant search results and ads;</li>
 <li>To enforce or apply our Terms of Use, loan agreement, and any other agreements between you and Earnest, including for billing and collection;</li>
-<li>To fulfill any other purpose for which you provide it or otherwise give your consent; and/or</li>
+<li>To fulfill any other purpose for which you provide it or otherwise give your consent;</li>
+<li>To conduct and report on certain analytical research, performance tracking and benchmarking through use of anonymous, aggregated information comprised of financial account balances and data, or other available data provided by you; and/or</li>
 <li>To comply with any court order, law, or legal process, including retaining personal data or responding to any government or regulatory request.</li>
 </ul>
-</div>
-</div>
           </section>
           <section class="content-section privacy-block">
             <h3 class="content-page__h3">Information You Share</h3>
-<div class="layout layout--larger">
-<div class="layout__item u-1-of-3 hide--palm">
-<p class="privacy-block__content--standout">Your information is available to be reviewed and updated on your account profile page at any time. You can also send a request to <a href="mailto:hello@earnest.com">hello@earnest.com</a>. Some information regarding your loan application cannot be changed due to laws or legal requirements, and in those cases we may not be able to accommodate your request.</p>
-</div>
-<div class="layout__item u-2-of-3 u-1-of-1-palm">
-<p class="privacy-block__content">You can review and change your personal information by logging into the Earnest site and visiting your account profile page. You may also email us at <a href="mailto:hello@earnest.com">hello@earnest.com</a> to request access to, correct, or delete any personal information that you have provided to us. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.</p>
-</div>
-</div>
+<p class="privacy-block__content">Your account profile information and certain additional data you provide is available to be reviewed through your online account. You can review and make changes to your profile information by logging into the Site and visiting your account profile page. You may also email us at <a href="mailto:hello@earnest.com">hello@earnest.com</a> to correct your personal information, including information that cannot be updated online.</p>
+<p class="privacy-block__content">Certain information about you cannot be changed due to legal restrictions or requirements and we may not accommodate a request to change information if we believe the change would violate any law or cause the information to be incorrect.</p>
+<p class="privacy-block__content">We do not intend to collect personal information from children under 13 years of age. If we learn that we have collected such information from a child under the age of 13, we will promptly take all reasonable steps to delete the data from our system.</p>
+<p class="privacy-block__subheader">REVIEWING AND UPDATING YOUR INFORMATION</p>
+<p class="privacy-block__content">Unless prohibited by law, you may, upon reasonable notice, view any information collected from you through your visits to or use of our Site, to make corrections to such information if necessary, or to request that such information be removed from our systems.</p>
+<p class="privacy-block__content">You may want to do so by contacting us at the address indicated at the end of this Privacy Policy.</p>
           </section>
           <section class="content-section privacy-block">
             <h3 class="content-page__h3">Information We Share</h3>
-<div class="layout layout--larger">
-<div class="layout__item u-1-of-3 hide--palm">
-<p class="privacy-block__content--standout">Advertisers may use cookies on our site to collect information similar to the information we collect, and target ads to you based on information you included in your profile. We may also use remarketing to advertise to visitors who haven’t completed a task, such as completing their loan application.</p>
-</div>
-<div class="layout__item u-2-of-3 u-1-of-1-palm">
-<p class="privacy-block__content">Earnest may share information with third parties as described below.</p>
-<p class="privacy-block__subheader">Advertisers</p>
-<p class="privacy-block__content">Earnest may allow third-party advertisers to use cookies on the Earnest site to collect the same type of information for the same purposes as Earnest does for itself. They may be able to associate the information they collect with other information they have about you from other sources. We do not necessarily have access to or control over the cookies they use, but you may be able to opt out of some of their practices by visiting the following links: <a href="http://www.networkadvertising.org/choices/">Network Advertising Initiative</a>, <a href="http://www.d1.sc.omtrdc.net/optout.html?omniture=1&amp;popup=1&amp;locale=en_US&amp;second=1&amp;second_has_cookie=0">Omniture</a>, <a href="http://rt.displaymarketplace.com/optout.html">Aperture</a>, <a href="http://www.aboutads.info/choices/">Digital Advertising Alliance</a>, and <a href="http://privacychoice.org/trackerblock">PrivacyChoice</a>. Opting out does not prevent the display of advertisements to you.</p>
-<p class="privacy-block__content">Earnest may also use certain remarketing services to advertise on third-party websites to previous visitors to our site. This means that we may advertise to previous visitors who haven’t completed a task on our site (like completing a loan application). This could be in the form of an advertisement on a search results page, or a site in the network of our remarketing partners.</p>
-<p class="privacy-block__subheader">Partners &amp; Service Providers</p>
-<p class="privacy-block__content">Some of the services that are offered through the Earnest site may be provided by third-party partners, like Experian. We may also outsource some of Earnest’s functions to third-party providers, such as data storage providers, platform administrators, credit bureaus, collection agencies, loan servicers, payment processing functions, and/or other services. We may share information from or about you with these third-party providers so that they can perform the requested services or complete your requests.</p>
-<p class="privacy-block__subheader">Third-party Accounts</p>
-<p class="privacy-block__content">You can connect your loan application to your accounts on third-party services, like LinkedIn, in which case we may collect and store information identifying your account with the third-party service. We may use the information to inform your application.</p>
-<p class="privacy-block__content">Earnest uses Plaid Technologies, Inc. (“Plaid”) to gather your data from financial institutions. By using our service, you grant Earnest and Plaid the right, power, and authority to act on your behalf to access and transmit your personal and financial information from the relevant financial institution. You agree to your personal and financial information being transferred, stored, and processed by Plaid in accordance with <a href="https://plaid.com/legal" target="_blank">Plaid Privacy Policy</a>.</p>
-<p class="privacy-block__subheader">Aggregated Information</p>
-<p class="privacy-block__content">We may share aggregated, non-identifiable user information with third parties, such as advertisers and content distributors. For example, we may disclose the number of users that have been exposed to or clicked on advertisements.</p>
-<p class="privacy-block__subheader">Business Transfers</p>
-<p class="privacy-block__content">We may share information from or about you with subsidiaries, joint ventures, or other companies under common control, in which case we will require them to honor this Privacy Policy. If Earnest is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy.</p>
-<p class="privacy-block__subheader">Links</p>
-<p class="privacy-block__content">The Earnest site may contain links to unaffiliated third-party websites. Except as described in this policy, we do not share your personal information with them, and are not responsible for their privacy practices. We suggest you read the privacy policies on all such third-party websites.</p>
-<p class="privacy-block__subheader">Law Enforcement</p>
+<p class="privacy-block__content">Some of products and services offered on the Site are enabled through the provision of services to us by certain third-party service providers, or through the actions of business partners.</p>
+<p class="privacy-block__content">To review what personal information we share and how you can limit this sharing, view our current <a href="http://image.updates.earnest.com/lib/fe5b15707c660c7a751d/m/1/Privacy_Notification.pdf" target="_blank" rel="noopener">Privacy Notice</a>. In addition, advertisers may use cookies on the Site to collect information similar to the information we collect, and target ads to you based on information you included in your profile. We may also use remarketing to advertise to visitors who haven’t completed a task, such as completing their loan application. Earnest may share information with such third-parties as described below.</p>
+<p class="privacy-block__subheader" style="padding-left: 30px;">a. Advertisers</p>
+<p class="privacy-block__content">Earnest may allow third-party advertisers to use cookies on the Site to collect the same type of information for the same purposes as Earnest does for itself. They may be able to associate the information they collect with other information they have about you from other sources. We do not necessarily have access to or control over the cookies they use, but you may be able to opt out of some of their practices by visiting the following links: <a href="http://www.networkadvertising.org/choices/">Network Advertising Initiative</a>, or&nbsp;<a href="http://www.aboutads.info/choices/">Digital Advertising Alliance</a>. Opting out does not prevent the display of advertisements to you.</p>
+<p class="privacy-block__content">From time to time, you may access our Site through the website of one of our marketing partners. We will try to show clearly whether a page is co-branded by placing our marketing partner’s name or logo in a prominent place or otherwise. If you provide your information on a co-branded page, your registration information may be shared with our marketing partner.</p>
+<p class="privacy-block__content">Earnest may also use certain remarketing services to advertise on third-party websites to previous visitors to the Site. This means that we may advertise to previous visitors who haven’t completed a task on the Site (like completing a loan application). This could be in the form of an advertisement on a search results page, or a site in the network of our remarketing partners.</p>
+<p class="privacy-block__subheader" style="padding-left: 30px;">b. Partners &amp; Service Providers</p>
+<p class="privacy-block__content">Some of the services that are offered through the Site may be provided by third-party service providers, like Experian. We may also outsource some of Earnest’s functions to third-party service providers, such as data storage providers, platform administrators, credit bureaus, collection agencies, loan servicers, payment processing functions, and/or other services. We may share information from or about you with these third-party providers so that they can perform the requested services or complete your requests. We may also use and share aggregated and other anonymous data with partners, service providers and third-parties.</p>
+<p class="privacy-block__subheader" style="padding-left: 30px;">c. Connected Third-party Accounts</p>
+<p class="privacy-block__content">You can connect your loan application to your accounts on third-party services, in which case we may collect and store information identifying your account with the third-party service. We may use the information to inform your application and service your account after you have taken out an Earnest loan.</p>
+<p class="privacy-block__content">Earnest uses Plaid Technologies, Inc. (“Plaid”) to gather your account transaction data from financial institutions in regard to your loan application and loan. By using our service, you authorize Earnest and Plaid to access and transmit your personal and financial information from the relevant financial institution. You agree to your personal and financial information being transferred, stored, and processed by Plaid in accordance with <a href="https://plaid.com/legal" target="_blank" rel="noopener">Plaid Privacy Policy</a>. The login credentials of your linked accounts, such as usernames and passwords, are not accessible to anyone at Earnest.</p>
+<p class="privacy-block__subheader" style="padding-left: 30px;">d. Aggregated Information</p>
+<p class="privacy-block__content">We may share aggregated, anonymized information with third parties, such as advertisers and content distributors to conduct certain analytical research, performance tracking and benchmarking. We and/or our third-party service providers may publish summary or aggregate results relating to metrics comprised of research data, from time to time, and distribute or license such anonymous, aggregated research data for any purpose, including but not limited to, helping to improve products and services and assisting in troubleshooting and technical support. Your personally identifiable information will not be shared with or sold to such third parties.</p>
+<p class="privacy-block__subheader" style="padding-left: 30px;">e. Links</p>
+<p class="privacy-block__content">The Site may contain links to unaffiliated third-party websites. Except as described in this policy, we do not share your personal information with them, and are not responsible for their privacy practices. We suggest you read the privacy policies on all such third-party websites.</p>
+<p class="privacy-block__subheader" style="padding-left: 30px;">f. Law Enforcement</p>
 <p class="privacy-block__content">We may disclose information from or about you if we have a good faith belief that such investigation or disclosure is (a) reasonably necessary to comply with legal process and law enforcement instructions and orders, such as a search warrant, subpoena, statute, judicial proceeding, or other legal process served on us; (b) helpful to prevent, investigate, or identify possible wrongdoing in connection with the Site; or (c) protect our rights, reputation, property, or that of our users, affiliates, or the public.</p>
-</div>
-</div>
           </section>
           <section class="content-section privacy-block">
             <h3 class="content-page__h3">Cookies</h3>
-<div class="layout layout--larger">
-<div class="layout__item u-1-of-3 hide--palm">
-<p class="privacy-block__content--standout">Cookies help us protect your account’s security, and allow us to personalize your Earnest experience.</p>
-</div>
-<div class="layout__item u-2-of-3 u-1-of-1-palm">
+<p class="privacy-block__content">Cookies help us protect your account’s security, and allow us to personalize your Earnest experience.</p>
 <p class="privacy-block__content">We, and third parties with whom we partner, may use cookies, web beacons, local shared objects, and similar technology (“Cookies”) to improve your user experience and the overall quality of our service. Cookies are small data files that may have unique identifiers, and reside, among other places, on your computer or mobile device, in emails we send to you, and on our web pages. Cookies may transmit information about you and your use of the Earnest site, such as your browser type, preferences, data relating to advertisements that have been displayed to you or that you have clicked on, and the date and time of your use.</p>
 <p class="privacy-block__content">Most importantly, cookies help us protect your account’s security. Cookies may be stored only during an individual session (“Session ID cookies”) or have long-term expiration dates (“persistent cookies”). Session ID cookies follow your activities on our site so that we can ensure that no one is making changes to your profile or applying for loans, and expire when you close your browser. Persistent cookies that remain on your hard drive for an extended period of time so that we can recognize you when you return to our Site.</p>
-<p class="privacy-block__content">The following is a list of the types of cookies that Earnest and its third-party partners use:</p>
-<p class="privacy-block__subheader">Processes</p>
-<p class="privacy-block__content">These Cookies make the Earnest site work in the way you expect it to.</p>
-<p class="privacy-block__subheader">Authentication, Security, and Compliance</p>
-<p class="privacy-block__content">We use these to prevent fraud, protect your data from unauthorized parties, and comply with legal requirements.</p>
-<p class="privacy-block__subheader">Preferences</p>
-<p class="privacy-block__content">These Cookies help the Earnest site remember information about how you prefer the site to behave and look.</p>
-<p class="privacy-block__subheader">Notifications</p>
-<p class="privacy-block__content">We use these Cookies to give us notice of information or options that we think could improve your use of the Earnest site.</p>
-<p class="privacy-block__subheader">Advertising</p>
+<p class="privacy-block__content">The following is a list of the types of cookies that Earnest and its third-party service providers use:</p>
+<p class="privacy-block__subheader" style="padding-left: 30px;">a. Processes</p>
+<p class="privacy-block__content">These Cookies make the Site work in the way you expect it to.</p>
+<p class="privacy-block__subheader" style="padding-left: 30px;">b. Authentication, Security, and Compliance</p>
+<p class="privacy-block__content">We use authentication and security cookies to prevent fraud, protect your data from unauthorized parties, and comply with a variety of data security, privacy, and financial protection related legal requirements.</p>
+<p class="privacy-block__subheader" style="padding-left: 30px;">c. Preferences</p>
+<p class="privacy-block__content">These Cookies help the Site remember information about how you prefer the Site to behave and look.</p>
+<p class="privacy-block__subheader" style="padding-left: 30px;">d. Notifications</p>
+<p class="privacy-block__content">We use these Cookies to give us notice of information or options that we think could improve your use of the Site.</p>
+<p class="privacy-block__subheader" style="padding-left: 30px;">e. Advertising</p>
 <p class="privacy-block__content">These Cookies make advertising more relevant to you and more valuable to advertisers.</p>
-<p class="privacy-block__subheader">Analytics</p>
-<p class="privacy-block__content">These Cookies help us understand how visitors use the Earnest site.</p>
-</div>
-</div>
+<p class="privacy-block__subheader" style="padding-left: 30px;">f. Analytics</p>
+<p class="privacy-block__content">These Cookies help us understand how visitors use the Site.</p>
           </section>
           <section class="content-section privacy-block">
             <h3 class="content-page__h3">Cookie Management</h3>
-<p class="privacy-block__content">It may be possible to disable some Cookies through your device or browser settings, but doing so may affect your ability to use the Site. The method for disabling cookies may vary by device and browser, but can usually be found in preferences or security settings.</p>
+<p class="privacy-block__content">Generally speaking, web browsers automatically accept cookies by default. Some browsers have a “do not track” feature that lets you tell websites that you do not want to have your online activities tracked, but doing so may affect your ability to use the Site. The method for disabling cookies may vary by device and browser, but can usually be found in preferences or security settings.</p>
           </section>
           <section class="content-section privacy-block">
             <h3 class="content-page__h3">Protecting Your Information</h3>
-<div class="layout layout--larger">
-<div class="layout__item u-1-of-3 hide--palm">
-<p class="privacy-block__content--standout">Earnest takes your privacy and security seriously. We have enabled HTTPS access to our site, in addition to SSL technology, and your login information of your financial accounts is not accessible to anyone at Earnest. This data is stored offsite. Additionally, there are a number of precautions you can take to protect the security of your computer, including selecting a strong Earnest password and not sharing it with anyone.</p>
-</div>
-<div class="layout__item u-2-of-3 u-1-of-1-palm">
-<p class="privacy-block__content">Earnest takes steps to safeguard your personal information through vigorous physical, electronic, and operational policies and practices:</p>
+<p class="privacy-block__content">Earnest takes your privacy and security seriously. We have enabled HTTPS access to the Site, in addition to SSL technology, and your login information of your financial accounts is not accessible to anyone at Earnest.</p>
+<p class="privacy-block__content">Additionally, there are a number of precautions you can take to protect the security of your personal information, including selecting a strong Earnest password and not sharing it with anyone.</p>
+<p class="privacy-block__content">Earnest takes steps to safeguard your personal information through vigorous electronic and operational policies and practices:</p>
 <ul class="content-page-list">
-<li>Session Time-Outs: We employ session time-outs to protect your account. You will be logged out of the site after thirty minutes. This reduces the risk of others being able to access your account if you leave your computer unattended.</li>
-<li>Protection of Account Numbers: After you have entered your account numbers, we will never display your account number.</li>
-<li>Passwords: At a minimum, we require the use of both numbers and letters in your password. We have also instituted secure steps by which you can regain access to your account should you forget your password, including email reset. Your password is not known to any employee or third party with whom we may partner, and we will never ask you for your passwords as a means of identifying yourself. If you ever receive an email purporting to come from Earnest that asks for your password, you should immediately report this to <a href="mailto:hello@earnest.com">hello@earnest.com</a>.</li>
-<li>Secure, Off-Site Hosting: We store your personal and sensitive financial data such as Social Security numbers and bank accounts in a virtual private cloud hosted by Amazon Web Services.</li>
-<li>Defined Service Access points: Data can only be read or written through defined service access points, the use of which is password-protected and limited to only those employees or third parties who have a need to know.</li>
-<li>Secure Socket Layer certificate technology: We equip our servers with SSL certificate technology to provide a safe and secure channel to visit the Earnest site.</li>
-<li>Data encryption: SSL also ensures that all data entered into the Earnest site is encrypted. For further encryption protection, we require a 128-bit secure browser for logins and transactions.</li>
+<li>Session Time-Outs: We employ session time-outs to protect your account. This reduces the risk of others being able to access your account if you leave your computer unattended.</li>
+<li>Protection of Account Numbers: After you have entered your account numbers, we will not display your full account number.</li>
+<li>Passwords: At a minimum, we require the use of both numbers and letters in your password. We have also instituted secure steps by which you can regain access to your account should you forget your password, including email reset. Your password is not known to any employee or third-party with whom we may partner, and we will never ask you for your passwords as a means of identifying yourself. If you ever receive an email purporting to come from Earnest that asks for your password, you should immediately report this to <a href="mailto:hello@earnest.com">hello@earnest.com</a>.</li>
+<li>Secure Hosting: We store your personal and sensitive financial data such as Social Security numbers and bank accounts in a virtual private cloud hosted by Amazon Web Services or a secure data center.</li>
+<li>Defined Service Access points: Data can only be read or written through defined service access points, the use of which is password-protected and limited to only employees or those third parties that have a need to know.</li>
+<li>Secure Socket Layer certificate technology: We equip our servers with SSL certificate technology to provide a safe and secure channel to visit the Site.</li>
 <li>Network firewalls: There is no inbound communication allowed between data and application servers and the Internet.</li>
+<li>Physical Security: Earnest maintains robust requirements for the protection of information in our offices which are all located in a secure building environment. Access to company and client information is restricted to those persons with valid, tracked, identity-based key-card access. Sensitive physical information is maintained in a locked environment</li>
 </ul>
-</div>
-</div>
           </section>
           <section class="content-section privacy-block">
             <h3 class="content-page__h3">Communications from Earnest</h3>
-<div class="layout layout--larger">
-<div class="layout__item u-1-of-3 hide--palm">
-<p class="privacy-block__content--standout">Earnest may send you notifications regarding your account. You cannot opt out of these notifications as they are in place to help protect your privacy and security, but you can opt out of any additional marketing communications. You can do this by clicking the unsubscribe link at the bottom of any marketing communications you receive.</p>
-</div>
-<div class="layout__item u-2-of-3 u-1-of-1-palm">
-<p class="privacy-block__content">To protect your account, Earnest may send you notifications that confirm actions taken on your account. These notifications are typically sent to notify you of a change in status, or for legal or security purposes. For example, you may receive notifications confirming your registration and the successful submission of loan requests, as well as requests from us for additional information and reminders to sign your loan agreement.</p>
+<p class="privacy-block__content">Earnest may send you notifications regarding your account. You cannot opt out of these notifications as they are in place to comply with legal requirements and help protect your privacy and security, but you can opt out of certain marketing communications as described in our <a href="http://image.updates.earnest.com/lib/fe5b15707c660c7a751d/m/1/Privacy_Notification.pdf" target="_blank" rel="noopener">Privacy Notice</a>. You can opt out of marketing emails by clicking the unsubscribe link at the bottom of any marketing emails you receive.</p>
+<p class="privacy-block__content">To protect your account, Earnest may send you notifications that confirm actions taken on your account. These notifications are typically sent to notify you of a change in status or contact information, or for legal or security purposes. For example, you may receive notifications confirming your registration and the successful submission of loan requests, as well as requests from us for additional information and reminders to sign your loan agreement.</p>
 <p class="privacy-block__content">You cannot opt out of these notifications as they are in place to protect the security of your account and personal information. We do this for your own protection so that you can be sure no one else is making changes to your account without your knowledge. However, the security offered by these notifications can be undermined if other people have access to your email account.</p>
-<p class="privacy-block__content">Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Site. Even under the best of circumstances, the transmission of information via the internet is not completely secure. Any transmission of personal information is done at your own risk. In the event of a data breach, we will comply with the notification guidelines required by federal law as well as the laws of each state in which we do business.</p>
-</div>
-</div>
+<p class="privacy-block__content">Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to the Site. Even under the best of circumstances, the transmission of information via the internet is not completely secure. Any transmission of personal information is done at your own risk. In the event of a data breach, we will comply with the notification guidelines required by federal law as well as the laws of each state in which we do business.</p>
           </section>
           <section class="content-section privacy-block">
             <h3 class="content-page__h3">What Can I Do To Protect My Security?</h3>
-<div class="layout layout--larger">
-<div class="layout__item u-1-of-3 hide--palm">
-<p class="privacy-block__content--standout">Use a strong password, do not share it, and only log onto your Earnest account from a secured computer with virus protection.</p>
-</div>
-<div class="layout__item u-2-of-3 u-1-of-1-palm">
+<p class="privacy-block__content">Use a strong password, do not share it, and only log onto your Earnest account from a secured computer with virus protection.</p>
 <p class="privacy-block__content">You can take several precautions to protect the security of your computer and personal information.</p>
 <ul class="content-page-list">
 <li>Use a unique password that you do not use for any other service.</li>
 <li>To choose a strong password, avoid using any information that others can easily learn about you, such as a family member’s name or birthday, and use special characters in place of letters.</li>
-<li>Change your Earnest password frequently.</li>
 <li>Do not share your Earnest password with anyone.</li>
 <li>Restrict access to the email account you registered with on the Earnest site.</li>
 <li>Install and regularly update antivirus and firewall software to protect your computer from external attacks by malicious users.</li>
 <li>Do not log onto your Earnest account in public areas where the internet is unsecured.</li>
-<li>Logout and close the browser window when you are finished with a session on the Earnest site.</li>
+<li>Logout and close the browser window when you are finished with a session on the Site.</li>
 </ul>
-</div>
-</div>
-          </section>
-          <section class="content-section privacy-block">
-            <h3 class="content-page__h3">Compliance With State And Federal Laws</h3>
-<div class="layout layout--larger">
-<div class="layout__item u-1-of-3 hide--palm">
-<p class="privacy-block__content--standout">For more information regarding your personal privacy rights and how they may differ in certain states, send an email to <a href="mailto:legal@earnest.com">legal@earnest.com</a>.</p>
-</div>
-<div class="layout__item u-2-of-3 u-1-of-1-palm">
-<p class="privacy-block__content">This Privacy Policy may not constitute your entire set of privacy rights, as these may vary from state to state. For example, California Civil Code Section § 1798.83 permits California residents that are users of the Earnest site to request certain information regarding the disclosure of personal information to third parties for direct marketing purposes. To make such a request, please send an email to <a href="mailto:legal@earnest.com">legal@earnest.com</a>.</p>
-<p class="privacy-block__content">To be certain of your privacy rights, you may wish to contact the agency in your state that is charged with overseeing consumer privacy rights.</p>
-</div>
-</div>
           </section>
           <section class="content-section privacy-block">
             <h3 class="content-page__h3">When This Privacy Policy Applies</h3>
-<p class="privacy-block__content">This policy applies to information we collect about you in connection with your use of this website, email, text, and other mobile applications, and through the loan application process. When you use the Earnest site, you consent to our collection, use, and disclosure of information about you as described in this Privacy Policy.</p>
+<p class="privacy-block__content">This Privacy Policy applies to information we collect about you in connection with your use of this website, email, text, and other mobile applications, through the loan application process, and the servicing of your loan. &nbsp;It also applies to information maintained by Earnest following the end of your business relationship with Earnest to comply with record retention requirements mandated by law. When you use the Site, you consent to our collection, use, and disclosure of information about you as described in this policy.</p>
           </section>
           <section class="content-section privacy-block">
             <h3 class="content-page__h3">Changes to Our Privacy Policy</h3>
-<div class="layout layout--larger">
-<div class="layout__item u-1-of-3 hide--palm">
-<p class="privacy-block__content--standout">We will post any changes to the Privacy Policy on this page and, if the changes are significant, we will provide a more prominent notice (including, for example, email notification). Your use of the Earnest site following any update to the Privacy Policy means that you accept the updated policy.</p>
-</div>
-<div class="layout__item u-2-of-3 u-1-of-1-palm">
-<p class="privacy-block__content">This Privacy Policy may change from time to time. We will post any changes to the Privacy Policy on this page and, if the changes are significant, we will provide a more prominent notice (including, for example, email notification). Any updates to this policy become effective when we post the updates on the Site. We will also keep prior versions of this Privacy Policy in an archive for your review. Your use of the Earnest site following the update to the Privacy Policy means that you accept the updated policy.</p>
-<p class="privacy-block__subheader">This policy was last updated on <time>10/16/2014</time>.</p>
-</div>
-</div>
+<p class="privacy-block__content">We will post any changes to the Privacy Policy on this page.</p>
+<p class="privacy-block__content">Any updates to this policy become effective when we post the update on the Site and replace all prior Privacy Policy versions posted by Earnest. We reserve the right to change our Privacy Policy. Your use of our Site following any update to this Privacy Policy means that you accept the terms of the updated policy.</p>
+<p class="privacy-block__subheader">This policy was last updated on <time>8/10/2018</time>.</p>
           </section>
           <section class="content-section privacy-block">
             <h3 class="content-page__h3">Contact Information</h3>
 <p class="privacy-block__content">For additional information, or if you have any questions regarding this policy or the privacy practices at Earnest, please submit your questions or comments directly at: <a href="mailto:hello@earnest.com">hello@earnest.com</a>.</p>
-<p><b>Earnest Inc.</b><br>
-1455 Market Street, 18th Floor<br>
-San Francisco, CA 94103<br>
+<p><b>Earnest LLC</b><br>
+303 2nd Street, Suite 401N<br>
+San Francisco, CA 94107<br>
 1-888-601-2801</p>
           </section>
         </div>
@@ -474,39 +526,92 @@ San Francisco, CA 94103<br>
             <div class="layout__item u-1-of-4 highlight-article-container">
               <article class="highlight-article">
                 <p class="heading">View the new guide</p>
-                <h3 style="text-align: right;"><a href="/how-to-pay-for-graduate-education">How to Pay for Your Graduate Education</a></h3>
+                <h3 style="text-align: right;"><a href="/guides/earnest-guide-refinancing-student-loans">An Earnest Guide to Refinancing Student Loans</a></h3>
 <p class="author" style="text-align: right;">– The Earnest Team</p>
                 <div class="social-links">
-                  <a class="icon icon--footer-twitter" href="https://twitter.com/meetearnest" target="_blank" rel="noopener noreferrer"> Twitter </a>
-                  <a class="icon icon--footer-facebook" href="https://www.facebook.com/Earnest-624940000888848/" target="_blank" rel="noopener noreferrer"> Facebook </a>
-                  <a class="icon icon--footer-linkedin" href="https://www.linkedin.com/company/earnest-inc" target="_blank" rel="noopener noreferrer"> LinkedIn </a>
+                  <a class="icon icon--social-twitter" href="https://twitter.com/meetearnest" target="_blank" rel="noopener noreferrer"> Twitter </a>
+                  <a class="icon icon--social-facebook" href="https://www.facebook.com/Earnest-624940000888848/" target="_blank" rel="noopener noreferrer"> Facebook </a>
+                  <a class="icon icon--social-linkedin" href="https://www.linkedin.com/company/earnest-inc" target="_blank" rel="noopener noreferrer"> LinkedIn </a>
+                  <a class="icon icon--social-instagram" href="https://www.instagram.com/meetearnest" target="_blank" rel="noopener noreferrer"> Instagram </a>
+                  <a class="icon icon--social-pinterest" href="https://www.pinterest.com/meetearnest/" target="_blank" rel="noopener noreferrer"> Pinterest </a>
                 </div>
               </article>
             </div>
           </div>
         </nav>
         <div class="footer-address" itemscope="" itemtype="http://www.schema.org/Corporation">
-          <div class="social-links social-links--mobile">
-            <a class="icon icon--footer-twitter" href="https://twitter.com/meetearnest" target="_blank" rel="noopener noreferrer"> Twitter </a>
-            <a class="icon icon--footer-facebook" href="https://www.facebook.com/Earnest-624940000888848/" target="_blank" rel="noopener noreferrer"> Facebook </a>
-            <a class="icon icon--footer-linkedin" href="https://www.linkedin.com/company/earnest-inc" target="_blank" rel="noopener noreferrer"> LinkedIn </a>
-          </div>
-          <img class="norton" src="https://17664-presscdn-0-27-pagely.netdna-ssl.com/wp-content/themes/lcms-wordpress-theme-v1.2.5%2B2017-06-30T06-14-17-pm/images/norton-footer.png" alt="Norton logo">
-          <div class="address-content">
-            <address class="name">
-              <span class="address-name" itemprop="name legalName"> Earnest Operations LLC </span>
-              <span class="gap">•</span>
-            </address>
-            <address class="postal-address" itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
-              <a href="https://www.google.com/maps/place/1455+Market+St,+San+Francisco,+CA+94103/@37.7752315,-122.4197165,17z/data=!3m1!4b1!4m2!3m1!1s0x8085809c3254a93d:0x513210df81a3adcf" target="_blank" class="earnest-street-address">
-                <span class="street"> 1455 Market St. 18th Floor<span>
-                <span class="gap">•</span>
-                <span class="city">San Francisco, CA 94103<span>
-                <span class="gap">•</span>
-              </span></span></span></span></a>
-            </address>
-            <div class="footer-link">
-              <a href="http://www.nmlsconsumeraccess.org" target="_blank" class="nav-item">NMLS #1204917 - nmlsconsumeraccess.org</a>
+          <div class="layout">
+            <div class="layout__item u-1-of-10 u-1-of-1-palm">
+              <div class="layout">
+                <div class="layout__item for-mobile-only u-1-of-1-palm">
+                  <div class="social-links social-links--mobile">
+                    <a class="icon icon--social-twitter" href="https://twitter.com/meetearnest" target="_blank" rel="noopener noreferrer"> Twitter </a>
+                    <a class="icon icon--social-facebook" href="https://www.facebook.com/Earnest-624940000888848/" target="_blank" rel="noopener noreferrer"> Facebook </a>
+                    <a class="icon icon--social-linkedin" href="https://www.linkedin.com/company/earnest-inc" target="_blank" rel="noopener noreferrer"> LinkedIn </a>
+                    <a class="icon icon--social-instagram" href="https://www.instagram.com/meetearnest" target="_blank" rel="noopener noreferrer"> Instagram </a>
+                    <a class="icon icon--social-pinterest" href="https://www.pinterest.com/meetearnest/" target="_blank" rel="noopener noreferrer"> Pinterest </a>
+                  </div>
+                </div>
+                <div class="layout__item u-1-of-1 u-1-of-1-palm desktop-images">
+                  <img class="equal-housing" src="https://s17664.pcdn.co/wp-content/themes/lcms-wordpress-theme-v1.2.5%2B2018-09-27T05-14-46-pm/images/icons/equal-housing.svg" alt="Equal Housing Oppotunity">
+                  <img class="norton" src="https://s17664.pcdn.co/wp-content/themes/lcms-wordpress-theme-v1.2.5%2B2018-09-27T05-14-46-pm/images/norton-footer.png" alt="Norton logo">
+                </div>
+              </div>
+            </div>
+            <div class="layout__item u-9-of-10 u-1-of-1-palm">
+              <div class="address-content">
+                <div class="loan-desgination-text">
+                  <p>Earnest Student Loan Refinance and personal loans are made by:</p>
+                </div>
+                <address class="name">
+                  <span class="address-name" itemprop="name legalName"> Earnest Operations LLC </span>
+                  <span class="gap">•</span>
+                </address>
+                <address class="postal-address" itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+                  <a href="https://www.google.com/maps/place/303+2nd+St+%23401n,+San+Francisco,+CA+94107/@37.7852332,-122.3978821,17z/data=!3m1!4b1!4m5!3m4!1s0x8085807bf576d741:0xb44405c2b321726e!8m2!3d37.7852332!4d-122.3956934" target="_blank" class="earnest-street-address">
+                    <span class="street"> 303 2nd St., Suite 401N<span>
+                    <span class="gap">•</span>
+                    <span class="city">San Francisco, CA 94107<span>
+                    <span class="gap">•</span>
+                  </span></span></span></span></a>
+                </address>
+                <div class="footer-link">
+                  <a href="http://www.nmlsconsumeraccess.org" target="_blank" class="nav-item">NMLS #1204917 - nmlsconsumeraccess.org</a>
+                </div>
+              </div>
+              <div class="address-content">
+                <div class="loan-desgination-text">
+                  <p>Earnest Residential Mortgages are made by:</p>
+                </div>
+                <address class="name">
+                  <span class="address-name" itemprop="name legalName"> Earnest Home LLC </span>
+                  <span class="gap">•</span>
+                </address>
+                <address class="postal-address" itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+                  <a href="https://www.google.com/maps/place/303+2nd+St+%23401n,+San+Francisco,+CA+94107/@37.7852332,-122.3978821,17z/data=!3m1!4b1!4m5!3m4!1s0x8085807bf576d741:0xb44405c2b321726e!8m2!3d37.7852332!4d-122.3956934" target="_blank" class="earnest-street-address">
+                    <span class="street"> 303 2nd St., Suite 401N<span>
+                    <span class="gap">•</span>
+                    <span class="city">San Francisco, CA 94107<span>
+                  </span></span></span></span></a>
+                  <span class="gap">•</span>
+                  <span class="city">1 (866) 872-8829<span>
+                </span></span></address>
+                <div class="footer-link">
+                  <a href="http://www.nmlsconsumeraccess.org" target="_blank" class="nav-item">Equal Housing Opportunity<span class="gap">•</span> <span class="mobile-line-break">NMLS #1510946 - nmlsconsumeraccess.org</span></a>
+                  <span class="gap">•</span>
+                  <a href="/earnest-home-llc-licenses">Licensing Information</a>
+                </div>
+              </div>
+              <div class="address-content">
+                <div class="loan-desgination-text">
+                  <p class="footer-link">© 2018 Earnest LLC. All rights reserved. Earnest loans are serviced by Earnest Operations LLC
+                   (<a href="http://www.nmlsconsumeraccess.org" target="_blank" class="nav-item"><span>NMLS# 1204917</span></a>)
+                    with support from Navient Solutions, LLC
+                    (<a href="http://www.nmlsconsumeraccess.org" target="_blank" class="nav-item"><span>NMLS# 212430</span></a>).
+                    Earnest LLC and its subsidiaries, including Earnest Operations LLC, are not sponsored by or agencies of the United States of America.
+                  </p>
+                </div>
+              </div>
             </div>
           </div>
         </div>
@@ -519,28 +624,30 @@ San Francisco, CA 94103<br>
   <div class="overlay"></div>
   <div class="modal-window">
     <div class="title">
-      <h1>Disclaimers</h1>
+      <h2 class="modal-headline">Disclaimers</h2>
     </div>
     <div class="content">
       <div id="disclaimer-doc">
         <div class="row">
-The average savings calculation is the sum of all projected savings divided by the number of clients included in the projected savings calculation. These calculations assume that clients’ interest rates will not change over time, that clients make all payments on-time, and that no loans will be prepaid.<p></p>
-<h4>Here’s what our math includes:</h4>
+<h3>Explanation of $30,939 Average Client Savings</h3>
+<p>Average savings calculation is based on all Earnest clients who refinanced student loans owned and serviced by Navient between 03/06/2017 and 03/31/2018. The savings figure of a particular client is calculated by subtracting the projected lifetime cost of their Earnest refinancing from the projected total cost of their original student loans.</p>
+<h4>How we calculate the figures:</h4>
 <ul>
-<li>Projected savings for clients who provided outstanding balance, APR, and current monthly payment amount for their existing student loan(s)</li>
-<li>Both fixed and variable rate loans</li>
+<li>For the original student loans, the projected lifetime costs are calculated using the weighted average term of the original loans and the weighted average interest rate in effect in the month prior to the refinance event, including borrower benefits (e.g. automatic payment discounts).</li>
+<li>For the refinanced loans, projected lifetime costs are calculated using the selected Earnest term and interest rate, also including borrower benefits.</li>
+<li>Projected lifetime costs assume a principal balance of $75,000.</li>
+<li>Projected monthly savings is derived by using the “projected lifetime savings” divided by the selected Earnest term</li>
 </ul>
-<h4>And here’s what our math excludes, and why:</h4>
+<h4>In order to calculate our average client savings, we excluded:</h4>
 <ul>
-<li>Savings from any client who stated that the current interest rate on their loan was greater than 12%. (Why: this is intended to filter out any cases where client error may skew the savings calculation higher.)</li>
-<li>For any client who stated that the projected term of their loan was greater than 25 years, we do not include in our calculation any additional savings that might be realized if their existing loan were to take longer than 25 years to pay off in-full. (Why: 25 years is the maximum term allowed for a Federal student loan, or the cap on any Federal student loan under Income Based Repayment.)</li>
-<li>Savings from any client whose indicated monthly payment was not sufficient to pay down the loan balance over time. (Why: this is intended to filter out any cases where the client misstated either their monthly payment amount, interest rate, or both.)</li>
-<li>All refinancings by clients who chose a longer term than their existing student loan. (Why: some clients choose longer loan terms to match their monthly loan obligations to their unique life circumstances; while we encourage clients to take advantage of Earnest’s flexible term and monthly payment features, these cases are not indicative of the savings that result from lower rates through better data.)</li>
+<li>Savings from any client that selected an Earnest loan with a longer term than their Navient student loan terms</li>
+<li>Loans resulting from a client refinancing the same Earnest loan with Earnest</li>
 </ul>
+<p>Average client savings amount is not predictive or indicative of your individual cost savings. For example, your individual savings may differ based on your loan term and rate type selections, if you change your repayment options, or if you pay off your student loans early.</p>
 </div>
 <div class="row">
 <h3>Explanation of Rates “With Autopay”</h3>
-<p>Rates shown include 0.25% APR reduction where client agrees to make monthly principal and interest payments by automatic electronic payment. Use of autopay is not required to receive an Earnest loan.</p>
+<p>Rates shown include 0.25% APR reduction when client agrees to make monthly principal and interest payments by automatic electronic payment. Use of autopay is not required to receive an Earnest loan.</p>
 </div>
 <div class="row">
 <h3>Explanation of Precision Pricing™ Savings</h3>
@@ -549,8 +656,8 @@ The average savings calculation is the sum of all projected savings divided by t
 </div>
 <div class="row">
 <h3>Client Testimonials</h3>
-<p>Individuals portrayed as Earnest clients on this site are actual clients and were compensated for their time to participate.
-</p></div>
+<p>Individuals portrayed as Earnest clients on this site are actual clients and were compensated for their participation.</p>
+</div>
       </div>
     </div>
     <footer class="footer">
@@ -561,7 +668,7 @@ The average savings calculation is the sum of all projected savings divided by t
 <div id="client-happiness-modal" class="modal">
   <div class="overlay"></div>
   <div class="outside-happiness-content">
-    <h1>Questions? We’re here to help.</h1>
+    <h2 class="modal-headline">Questions? We’re here to help.</h2>
   </div>
   <div class="modal-window">
     <i class="close-button icon icon--close"></i>
@@ -621,22 +728,29 @@ The average savings calculation is the sum of all projected savings divided by t
     <div class="modal-window">
     <i class="close-button icon icon--close"></i>
     <hgroup class="header h1">
-      <h1>Which product are you interested in?</h1>
+      <h2 class="modal-headline">Which product are you interested in?</h2>
     </hgroup>
     <div class="row content-row">
       <div class="content-column">
-        <i class="illustration-get-started illustration-get-started--slr"></i>
+        <i class="icon icon--get-started icon--get-started-slr"></i>
         <h2>Student Loan Refinance</h2>
         <p>Refinance and consolidate student loans. Get an estimated rate in just 2 minutes.</p>
         <a class="primary-skinny-button" href="https://my.earnest.com/external/check-rate" data-track="{text: 'start loan application'}">Get Your Rate</a>
-        <a class="button-inline-text" href="/refinance-student-loans">Learn More</a>
+        <a class="button-inline-text" href="/refinance-student-loans">Learn More <span class="sr-only">about student loan refinancing</span></a>
       </div>
       <div class="content-column">
-        <i class="illustration-get-started illustration-get-started--pl"></i>
+        <i class="icon icon--get-started icon--get-started-pl"></i>
         <h2>Personal Loan</h2>
         <p>Low interest personal loans for everything from your wedding to home improvements.</p>
         <a class="primary-skinny-button" href="/personal/#/profile/start">Get Your Loan</a>
-        <a class="button-inline-text" href="/personal-loans">Learn More</a>
+        <a class="button-inline-text" href="/personal-loans">Learn More <span class="sr-only">about personal loans</span></a>
+      </div>
+      <div class="content-column">
+        <i class="icon icon--get-started icon--get-started-parent-plus"></i>
+        <h2>Parent PLUS Refinancing</h2>
+        <p>Personalized payment plans for extra savings. Get an estimated rate in just 2 minutes.</p>
+        <a class="primary-skinny-button" href="https://my.earnest.com/external/check-rate" data-track="{text: 'start loan application'}">Get Your Rate</a>
+        <a class="button-inline-text" href="/refinance-student-loans">Learn More <span class="sr-only">about Parent PLUS refinancing</span></a>
       </div>
     </div>
   </div>
@@ -646,7 +760,7 @@ The average savings calculation is the sum of all projected savings divided by t
     <div class="modal-window">
     <i class="close-button icon icon--close"></i>
     <hgroup class="header h1">
-      <h1>Download your free Earnest guide</h1>
+      <h2 class="modal-headline">Download your free Earnest guide</h2>
     </hgroup>
     <div class="row content-row">
     <div class="layout layout--small">
@@ -679,21 +793,7 @@ The average savings calculation is the sum of all projected savings divided by t
     </div>
   </div>
 </div>
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js?ver=3.1.s"></script>
-<script type="text/javascript" src="https://17664-presscdn-0-27-pagely.netdna-ssl.com/wp-content/themes/lcms-wordpress-theme-v1.2.5%2B2017-06-30T06-14-17-pm/js/min/vendor.js?ver=4.7.5"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var config = {"baseApiUrl":"https:\/\/api.earnest.com","olarkAPIKey":"5518-778-10-9868","cookieDomain":".earnest.com","userLoggedIn":""};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://17664-presscdn-0-27-pagely.netdna-ssl.com/wp-content/themes/lcms-wordpress-theme-v1.2.5%2B2017-06-30T06-14-17-pm/js/min/device.js?ver=4.7.5"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var config = {"baseApiUrl":"https:\/\/api.earnest.com","olarkAPIKey":"5518-778-10-9868","cookieDomain":".earnest.com","userLoggedIn":""};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://17664-presscdn-0-27-pagely.netdna-ssl.com/wp-content/themes/lcms-wordpress-theme-v1.2.5%2B2017-06-30T06-14-17-pm/js/min/app.js?ver=4.7.5"></script>
-<script type="text/javascript" src="https://17664-presscdn-0-27-pagely.netdna-ssl.com/wp-includes/js/wp-embed.min.js?ver=4.7.5"></script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e57d83477e","applicationID":"16300593","transactionName":"Z1VaZ0JZDBFUUUVbXl4feVBEUQ0MGlFeXEVVXkweQEoLFFRRSA==","queueTime":0,"applicationTime":81,"atts":"SxJZEQpDHx8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript" src="https://s17664.pcdn.co/wp-includes/js/wp-embed.min.js?ver=4.9.8"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e57d83477e","applicationID":"16300593","transactionName":"Z1VaZ0JZDBFUUUVbXl4fbUFZFwoWQUJVXVJDH1FdVF0aTEVaQQ==","queueTime":0,"applicationTime":334,"atts":"SxJZEQpDHx8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
