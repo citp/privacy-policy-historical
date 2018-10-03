@@ -1,25 +1,21 @@
-<!--The following is the downloaded HTML source of the 123movies.online privacy policy that was archived on 2018-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180517094858id_/http%3A//123moviess.online/page-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 123movies.online privacy policy that was archived on 2018-10-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181003024738id_/http%3A//www0.123movies.online/page-privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Privacy Policy - 123movies</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<base href="http://123moviess.online/">
-<link rel="stylesheet" href="main.min.css?0.09" type="text/css">
-<link rel="stylesheet" href="bootstrap/bootstrap.min.css">
-<script type="text/javascript" async="" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56ee98e899638804"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=260655174075287"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-<script>!window.jQuery && document.write(unescape('%3Cscript src="cluetip/lib/jquery-1.7.1.min.js"%3E%3C/script%3E'));</script><script src="cluetip/lib/jquery-1.7.1.min.js"></script>
-<script src="bootstrap/bootstrap.min.js"></script>
-<link href="rating/starrating.css" rel="stylesheet" type="text/css" media="screen">
- <link rel="stylesheet" href="cluetip/jquery.cluetip.css" type="text/css">
-<link href="rating/starrating.css" rel="stylesheet" type="text/css" media="screen">
+<link rel="stylesheet" href="http://www0.123movies.online/style.css?6" type="text/css">
+<link rel="stylesheet" href="http://www0.123movies.online/index-style.css" type="text/css">
+<link href="http://www0.123movies.online/links-style_ver2.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="http://www0.123movies.online/modal.css" type="text/css">
 <style type="text/css">
-.main-body .left-col {margin-top:10px; margin-bottom:10px; background-color:#111111;border:1px solid #444444;font-size:14px;text-align:left;padding:10px;width:750px;float:left}
+.main-body .left-col {margin-top:10px; margin-bottom:10px; background-color:#111111;border:1px solid #444444;font-size:14px;text-align:left;padding:10px;width:700px;float:left}
 -->
 </style>
-<script type="text/javascript" src="js/common2.js"></script>
-<script type="text/javascript" src="js/search.js"></script>
-<script type="text/javascript" src="js/site.js?0.3"></script>
+<base href="http://www0.123movies.online/">
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=260655174075287"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://www0.123movies.onlinejs/common2.js"></script>
+<script type="text/javascript" src="http://www0.123movies.online/js/search.js"></script>
 </head>
 <body>
 <div id="fb-root"></div>
@@ -31,34 +27,25 @@
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 <div class="main">
-	<div class="top">		
-		<div class="title"><a href="http://123moviess.online/" title="123Moviess.Online">123Moviess.Online</a></div>
-		<div class="nav-container"><ul class="nav nav-tabs">
-		<li><a href="http://123moviess.online/movies/">MOVIES</a></li>
-		<li><a href="http://123moviess.online/tv/">TV SHOWS</a></li>
-				<li><a href="javascript:void(0)" onclick="go_request()">REQUEST</a></li>
-		</ul></div>
-		<script type="text/javascript">
-	function searchMovie(cat){
-		var searchtxt = document.getElementById('search').value;
-		if(searchtxt == 'Input movie name or keyword or year' || searchtxt == ""){
-			alert("Search input required!");
-		}
-		else{
-			window.location='http://123moviess.online/search-' + cat + '-' + searchtxt + '-123movies.html';
-		}
-	}
-</script>
-<div class="search"><div class="search-box">
-<form class="search-content" method="GET" action="" onsubmit="searchMovie('movie');return false">
-		<input type="text" name="search" id="search" class="form-control search-input" maxlength="40" value="Input movie name or keyword or year" onblur="if(this.value=='') this.value='Input movie name or keyword or year';" onfocus="if(this.value=='Input movie name or keyword or year') this.value='';" autocomplete="off">
-		<button type="submit" class="search-submit"><i class="fa fa-search"></i></button></form>
+	<div class="top">
+		<ul class="nav">
+			<li><a href="/">Movies</a></li>
+			<li><a href="/?tv">TV Shows</a></li>
+			<li><a href="/page-how-to-watch-movies-online">Help</a></li>
+		</ul>
+		<div class="search"><div class="search-box">
+	<form action="index.php" method="get">
+		<input type="text" name="search" id="search" size="40" maxlength="40" value="Input movie name or keyword or year" onblur="if(this.value=='') this.value='Input movie name or keyword or year';hideAutoSearch();" onfocus="if(this.value=='Input movie name or keyword or year') this.value='';showAutoSearch();" autocomplete="off">
+		<input type="hidden" name="movie">
+		<input class="search-button" type="image" src="images/search_icon.png" title="search">
 		<div class="advanced"><a href="index.php?advanced_search=true">Advanced Search</a></div>
+	</form>
 	</div>
-	<div id="top-user"><div class="top-user-content guest"><a href="login.php" class="btn btn-successful btn-login" title="Login">LOGIN</a></div></div><div class="clearfix"></div>
-</div>	</div>
+</div>	</div> 
 	<div class="main-body">
-	
+	<table>
+		<tbody><tr>
+		<td class="left-col">
 		<h3>Privacy Policy</h3>
 		<h3><strong>Your Privacy </strong></h3>
 <p>Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. </p>
@@ -74,25 +61,38 @@
 <p>Megabox.li reserves the right to change this Privacy Policy, and will post any revisions on the Site. We encourage you to review this Privacy Policy regularly for any changes. Your continued use of this Site will be subject to the then-current Privacy Policy. </p>
 <p><strong>How to contact us </strong></p>
 <p>If you have any questions or concerns regarding our privacy policy, please contact us <a href="page-contact-us">here</a>.</p>
-		
+		</td>
+		<td class="sidebar">
+		<div class="loginform">
+<h4>Login / Register</h4>
+<form action="/login.php?do=login" method="post">
+<label for="username">Username:</label>
+<input name="username" type="text" id="username"><br>
+<label for="password">Password:</label>
+<input name="password" type="password" id="password"><br>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin:10px 0px 10px 0px;">
+<tbody><tr>
+<td><input type="checkbox" class="loginform_checkbox" name="remember" id="remmeber" style="float:left; width:20px;">
+<span style="float:left; font-size:12px; padding:2px 0px 0px 0px; font-weight:bold;">Remember Me</span>
+</td>
+<td width="120"><input type="submit" name="login_submit" value="Login" class="login_button" style="width: 120px;"> </td>
+</tr>
+</tbody></table>
+<span class="forgot_link"><a href="/login.php?do=forgot">Forgot Login </a></span> | <span class="register_link"><a href="/login.php?do=register" target="_blank">Make a Free Account</a> </span>
+</form>
+</div>
+		</td>
+		</tr>
+		</tbody></table>
 	</div>
 </div>
-<script type="text/javascript">
-	var 	is_login 		= 	false;
-	var     base_url = "http://123moviess.online/json.php?ip=";
-	var     base_main = "http://123moviess.online/";
-</script>
-<script type="text/javascript" src="js/auth.min.js?8"></script><div class="footer">
-		<div class="content"><a href="/123movies">Full Home Page</a> | <a href="/watch-movies">All Movies</a> | <a href="/watch-tv-shows">All TV Shows</a> | <a href="/watch-ongoing">Ongoing Episodes</a> | <a href="page-privacy-policy">Privacy Policy</a> | <a href="page-dmca">DMCA</a> | <a href="page-contact-us">Contact Us</a> | <a href="/sitemap/sitemap-index.xml">Sitemap</a></div>
-<a href="/" title="123movies">123movies</a> » Privacy Policy ^_^
+<div class="footer">
+		<div class="content"><a href="page-privacy-policy">Privacy Policy</a> | <a href="page-dmca">DMCA</a> | <a href="page-contact-us">Contact Us</a></div>
 </div>
-<script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = '//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56ee98e899638804';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script>
+<div class="footer2">
+<a href="/" title="123movies">123movies</a> » <a href="/page-privacy-policy" title="Privacy Policy">Privacy Policy</a></div>
+<br>
+<!-- Start of StatCounter Code for Default Guide -->
 <script type="text/javascript">
 var sc_project=11383757; 
 var sc_invisible=1; 
@@ -103,6 +103,12 @@ document.write("<sc"+"ript type='text/javascript' src='" +
 scJsHost+
 "statcounter.com/counter/counter.js'></"+"script>");
 </script><script type="text/javascript" src="https://secure.statcounter.com/counter/counter.js"></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="http://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="//c.statcounter.com/11383757/0/7933c3ef/1/" alt="Web
+Analytics"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
 
 
 </body></html>
