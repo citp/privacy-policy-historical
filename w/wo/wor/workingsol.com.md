@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the workingsol.com privacy policy that was archived on 2017-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170726000357id_/https%3A//workingsolutions.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workingsol.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003163255id_/https%3A//workingsolutions.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | Working Solutions
 
 ### **WSOL, LLC Privacy Policy**
 
