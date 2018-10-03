@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetworldstats.com privacy policy that was archived on 2018-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180120040420id_/http%3A//www.internetworldstats.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetworldstats.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003082105id_/https%3A//www.internetworldstats.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy and Disclaimers - Internet World Stats
 
