@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iceland.co.uk privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629151335id_/https%3A//www.iceland.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iceland.co.uk privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003211335id_/https%3A//www.iceland.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Iceland Foods
 
@@ -221,7 +221,7 @@ If you have authorised a third party to submit a request on your behalf, that's 
 
 ## Filing a complaint
 
-We're always happy to help you with any issues you may have. However, if you'd like to make a complaint with the Information Commissioner's Office, please visit [ www.ico.org.uk ](https://web.archive.org/web/20180629151335id_/https%3A//www.iceland.co.uk/www.ico.org.uk)
+We're always happy to help you with any issues you may have. However, if you'd like to make a complaint with the Information Commissioner's Office, please visit [ www.ico.org.uk ](https://web.archive.org/web/20181003211335id_/http://www.iceland.co.uk/privacy-policy/www.ico.org.uk)
 
 ## Stay safe and secure
 
