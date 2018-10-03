@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the joybird.com privacy policy that was archived on 2017-03-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170317010408id_/https%3A//joybird.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the joybird.com privacy policy that was archived on 2018-10-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181003163936id_/https%3A//joybird.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta charset="utf-8">
@@ -14,10 +14,13 @@
 <meta name="viewport" content="width=device-width">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,700,800" rel="stylesheet">
-<style>img[src="https://ct.pinterest.com/?tid=mhPzY221SpF&value=0.00&quantity=1"]{display:none!important}</style>
-<link rel="stylesheet" type="text/css" href="https://cdn.joybird.com/public/styles/css_page.css?m=201703140125">
-<link rel="stylesheet" type="text/css" href="https://cdn.joybird.com/public/styles/static_layout1.css?m=20160315111334"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WLWKD9&amp;l=gtmLayer"></script><script async="" src="https://s.pinimg.com/ct/core.js"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/uFA9qr7o7LHpqpKDgDZnLEMDh3in5eF6/analytics.min.js"></script><script type="text/javascript" async="" src="https://d2j3qa5nc37287.cloudfront.net/coupon_code1.js"></script><script async="" src="https://cdn1.affirm.com/js/v2/affirm.js"></script><script type="text/javascript">
+
+<link rel="stylesheet" href="https://use.typekit.net/etd3ypq.css">
+<style>
+	img[src="https://ct.pinterest.com/?tid=mhPzY221SpF&value=0.00&quantity=1"]{display:none!important}
+	img[src="https://d.liadm.com/segment?s=16844"]{ height:1px; display:block; width:1px; float:left; }
+</style>
+<link rel="stylesheet" type="text/css" href="https://cdn.joybird.com/public/styles/css_page.css?m=201806050311"><link rel="stylesheet" type="text/css" href="https://cdn.joybird.com/public/styles/static_layout1.css?m=20160315111334"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WLWKD9&amp;l=gtmLayer"></script><script type="text/javascript" async="" src="https://cdn.heapanalytics.com/js/heap-1786707910.js"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/uFA9qr7o7LHpqpKDgDZnLEMDh3in5eF6/analytics.min.js"></script><script type="text/javascript" async="" src="https://d2j3qa5nc37287.cloudfront.net/coupon_code1.js"></script><script async="" src="https://cdn1.affirm.com/js/v2/affirm.js"></script><script type="text/javascript" data-label="Base JB Scripts">
 	/* Global Data */
 	var baseUrl = '';
 	var controller = 'stat';
@@ -26,14 +29,19 @@
 	
 	var customerIsIn = false;
 		
+	/* Paths */
 	var ASSETS_LOCAL_SCRIPTS = 'https://cdn.joybird.com';
 	var ASSETS_IMAGES = 'https://cdn.joybird.com';
 	var ASSETS_SCRIPTS = 'https://cdn.joybird.com/public/scripts';
 	var scriptVer = {
-		'jbConfiguratorInline' : '201611181408',
+		'jbConfiguratorInline' : '201710231010',
 		'jbFavorites' : '201611181408',
-		'jbReviews' : '201612151049',
-		'searchJs' : '201703130933'
+		'jbReviews' : '201707191558',
+		'searchJs' : '201709191053',
+		'searchAutocompleteJs' : '201710241010',
+		'jbUI' : '201705161146',
+		'jbProductGallery' : '201705101038',
+		'gcCalendar' : '201711094836'
 	}
 	
 	function imgSrcUrl(source,params)
@@ -47,35 +55,77 @@
 			if( params['width'] )  urlParamsArr.push('w='+params['width']);
 			if( params['height'] ) urlParamsArr.push('h='+params['height']);
 			if( params['flip'] )   urlParamsArr.push('flip='+params['flip']);
+			if( params['dpr'] )   urlParamsArr.push('dpr='+params['dpr']);
 			
 			if(urlParamsArr.length>0) urlParams = '&' + urlParamsArr.join('&');
 			else urlParams = '';
 			
 			source = source.replace(/\+/g,'%2B');
 			
-			return 'https://joybird2.imgix.net/' + source + '?auto=format' + urlParams;
+			return 'https://joybird2.imgix.net/' + source + '?' + urlParams;
 			
 		//} else {
 			//return IMAGE_CLIENT_PATH.$source;
 		//}
 	}
-</script>
+	
+	/* Algolia */
+	var algoliaAppId = 'J2B32AYR6S';
+	var algoliaApiKey = 'a999366408232d708f10fdeba626010a';
+	
+	var algoliaCustomerPhotosIndex = 'customer_photos';
+	var algoliaProductsIndex = 'products_new';
+	var algoliaPagesIndex = 'static_pages_new';
+	var algoliaCategoriesIndex = 'categories';
+	var algoliaReviewsIndex = 'reviews';
+	var algoliaLinksIndex = 'direct_links';
+	var algoliaProductFacets = 'products_facets';
+	
+	/* ApplePay */
+	var jbApplePayEnabled = false	
+	</script>
 <script src="https://cdn.joybird.com/public/scripts/libs/jquery.js"></script>
 <script src="https://cdn.joybird.com/public/scripts/jbLocalStorage.js?m=20161216023440"></script>
-<script src="https://cdn.joybird.com/public/scripts/main.js?m=20170316054110"></script>
-<script src="https://cdn.joybird.com/public/scripts/quickbuy-applepay.js?m=20161229142704" type="text/javascript"></script>
- 
+<script src="https://cdn.joybird.com/public/scripts/main.js?m=20180615020432"></script>
+
+<style>
+	.jsFormSubmitBtn[disabled="disabled"], .jsFormSubmitBtn.disabled{
+		background-color:#999!important;
+		border-color:#999!important;
+		opacity:0.4;
+		cursor:not-allowed;
+	}
+	.g-recaptcha >div{margin:0 auto;}
+</style>
+<script src="https://www.google.com/recaptcha/api.js"></script>
+<script type="text/javascript">
+	$(document).ready(function(){
+		$('input.jsFormSubmitBtn, button.jsFormSubmitBtn').attr('disabled','disabled');
+		$('a.jsFormSubmitBtn').addClass('disabled');
+	});
+	var verifyCallback = function(response){
+		var buttonObj = $('input.jsFormSubmitBtn, button.jsFormSubmitBtn');
+		var linkObj = $('a.jsFormSubmitBtn');
+		if(response){
+			buttonObj.removeAttr('disabled');
+			linkObj.removeClass('disabled');
+		}else{
+			buttonObj.attr('disabled','disabled');
+			linkObj.addClass('disabled');
+		}
+	};
+</script>
 <script>
 $(document).ready(function(e) {
 	$('.chat_act').hide();
 	$('.chat_act_hold').hide();
 });
 </script>
- 
- 
- 
- 
-<script src="https://cdn.joybird.com/public/scripts/libs/widget.js?m=20170316105618" type="text/javascript"></script>
+
+
+
+
+<script src="https://cdn.joybird.com/public/scripts/libs/widget.js?m=20171003214024" type="text/javascript"></script>
 <script src="https://cdn.joybird.com/public/scripts/libs/web-sdk.js?m=20170213005031" type="text/javascript"></script>
 <script>
 function zChatIdentify()
@@ -120,11 +170,51 @@ $(document).ready(function(e) {
 <script>
   var _affirm_config = {
     public_api_key: "2G2ECY2213R2WD4W", // Affirm Public API Key 
-    script: "https://cdn1.affirm.com/js/v2/affirm.js" 
+    script: "https://cdn1.affirm.com/js/v2/affirm.js"
   };
  (function(l,g,m,e,a,f,b){var d,c=l[m]||{},h=document.createElement(f),n=document.getElementsByTagName(f)[0],k=function(a,b,c){return function(){a[b]._.push([c,arguments])}};c[e]=k(c,e,"set");d=c[e];c[a]={};c[a]._=[];d._=[];c[a][b]=k(c,a,b);a=0;for(b="set add save post open empty reset on off trigger ready setProduct".split(" ");a<b.length;a++)d[b[a]]=k(c,e,b[a]);a=0;for(b=["get","token","url","items"];a<b.length;a++)d[b[a]]=function(){};h.async=!0;h.src=g[f];n.parentNode.insertBefore(h,n);delete g[f];d(g);l[m]=c})(window,_affirm_config,"affirm","checkout","ui","script","ready");
 </script>
- 
+<script data-label="Affirm Prequal Modal">
+	$(document).ready(function(e) {
+		
+				
+		//- Prevent Default Action on Prequal Btn
+		$('.affirmPrequalModal').click(function(event){
+			event.preventDefault();
+		});
+		
+		//- Get AffirmPrequalReady, bind click events on btns, show btns
+		affirm.ui.ready(function(){
+			
+			//- Config AffrimPrequal (set required params)
+						var affirmPrequalConfig = {
+				'page_type': 'home',
+				'mode': 'modal'
+			};
+						affirm.prequal.set(affirmPrequalConfig);
+			
+			//- Bind Click Event on Btn
+			$('.affirmPrequalModal').click(function(event){
+				event.preventDefault();
+				affirm.ui.prequal.launchPrequalFlow();
+				
+				if( typeof(affirmProductPrequalTrack)!=='undefined' ) {
+					var pageTypeTrack = 'static';					var trackData = {
+						'pageType': pageTypeTrack,
+						'mode': 'modal'
+					};
+					affirmProductPrequalTrack(trackData);
+				}
+			});
+			
+			//- Show Btn
+			$('.affirmPrequalModal').css('visibility','visible');
+			
+		});
+				
+	});
+	</script>
+
 <script>
 function justunoTrackSubmission(t,email,coupon){
 	/*if( t==4 && email ){
@@ -143,13 +233,16 @@ function justunoTrackSubmission(t,email,coupon){
 	
 }
 </script>
-<script type="text/javascript" charset="utf-8">var ju_num="0BF164FC-37CC-41BC-99DE-7F4A59800686";var asset_host=(("https:"==document.location.protocol)?"https":"http")+'://d2j3qa5nc37287.cloudfront.net/';(function() {var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=asset_host+'coupon_code1.js';var x=document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);})();</script>
-<script>var facebookAudienceEnabled = false;</script><script type="text/javascript">var breinifyEnabled = false;</script> 
+<script type="text/javascript">var ju_num="0BF164FC-37CC-41BC-99DE-7F4A59800686";var asset_host=(("https:"==document.location.protocol)?"https":"http")+'://d2j3qa5nc37287.cloudfront.net/';(function() {var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=asset_host+'coupon_code1.js';var x=document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);})();</script>
+<script>var facebookAudienceEnabled = false;</script>
 <script type="text/javascript">
 	var segmentTrackingEnabled = true;
 	
-	var segmentKey = "uFA9qr7o7LHpqpKDgDZnLEMDh3in5eF6"; 	var segmentIntegrations = ["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","group","track","ready","alias","page","once","off","on","mixpanel"/*,"user"*/];
-		var segmentSettings = {"userIdentify":{"label":"Identify","enabled":true,"integrations":{"All":false,"RJMetrics":true}},"viewedCategorypage":{"label":"Viewed Category Page","enabled":true,"integrations":{"All":false,"RJMetrics":true,"Webhooks":true}},"viewedProductpage":{"label":"Viewed Product","enabled":true,"integrations":{"All":false,"Google Analytics":true,"RJMetrics":true,"Webhooks":true}},"searchedProducts":{"label":"Searched Products","enabled":true,"integrations":{"All":false,"Google Analytics":true,"RJMetrics":true,"Webhooks":true}},"viewedKeypage":{"label":"Viewed Key Page","enabled":true,"integrations":{"All":false,"Google Analytics":true,"RJMetrics":true,"Webhooks":true}},"addToWishlist":{"label":"Wishlisted Product","enabled":true,"integrations":{"All":false,"Google Analytics":true,"RJMetrics":true}},"addToCart":{"label":"Added Product","enabled":true,"integrations":{"All":false,"Google Analytics":true,"RJMetrics":true,"Webhooks":true}},"removeFromCart":{"label":"Removed Product from Cart","enabled":true,"integrations":{"All":false,"Google Analytics":true,"RJMetrics":true,"Webhooks":true}},"applyCouponCode":{"label":"Applied Coupon Code","enabled":true,"integrations":{"All":false,"Google Analytics":true,"RJMetrics":true,"Webhooks":true}},"completedOrder":{"label":"Completed Order","enabled":true,"integrations":{"All":false,"Google Analytics":true,"RJMetrics":true,"Curebit":true,"Webhooks":true}},"appliedGiftCard":{"label":"Applied Gift Card","enabled":true,"integrations":{"All":false,"Google Analytics":true,"RJMetrics":true,"Webhooks":true}},"orderFeedback":{"label":"Order Feedback Submitted","enabled":true,"integrations":{"All":false,"Google Analytics":true,"RJMetrics":true}},"contactForm":{"label":"Contact Form Submitted","enabled":true,"integrations":{"All":false,"Google Analytics":true,"RJMetrics":true,"Webhooks":true}},"bestPricePopup":{"label":"Saw Best Price Alert","enabled":true,"integrations":{"All":false,"Google Analytics":true,"RJMetrics":true}},"loginFailed":{"label":"Login Failed","enabled":true,"integrations":{"All":false,"Google Analytics":true,"RJMetrics":true,"Webhooks":true}},"requestedSwatches":{"label":"Requested Swatches","enabled":true,"integrations":{"All":false,"Google Analytics":true,"Visual Website Optimizer":true,"RJMetrics":true,"Webhooks":true}},"submittedPhoto":{"label":"Photo Submitted","enabled":true,"integrations":{"All":false,"Google Analytics":true,"RJMetrics":true,"Webhooks":true}},"tradeSignup":{"label":"Applied for Trade","enabled":true,"integrations":{"All":false,"Google Analytics":true,"RJMetrics":true,"Webhooks":true}},"newsletterSignup":{"label":"Subscribed to Newsletter","enabled":true,"integrations":{"All":false,"Google Analytics":true,"RJMetrics":true,"Webhooks":true}},"reviewedProduct":{"label":"Reviewed Product","enabled":true,"integrations":{"All":false,"Google Analytics":true,"RJMetrics":true,"Webhooks":true}},"loginSuccess":{"label":"Logging into Account","enabled":true,"integrations":{"All":false,"Google Analytics":true,"RJMetrics":true,"Webhooks":true}},"signupAccount":{"label":"Signed Up","enabled":true,"integrations":{"All":false,"Google Analytics":true,"RJMetrics":true,"Webhooks":true}},"viewedHomepage":{"label":"Viewed Home Page","enabled":true,"integrations":{"All":false,"RJMetrics":true,"Webhooks":true}},"youTube":{"label":"Watched YouTube Video","enabled":true,"integrations":{"All":false,"Google Analytics":true,"RJMetrics":true,"Webhooks":true}},"favoritedProduct":{"label":"Favorited Product","enabled":true,"integrations":{"All":false,"Google Analytics":true,"RJMetrics":true,"Webhooks":true}},"downloadTearsheet":{"label":"Downloaded Tearsheet","enabled":true,"integrations":{"All":false,"Google Analytics":true,"RJMetrics":true,"Webhooks":true}},"viewedCheckout":{"label":"Viewed Checkout Step","enabled":true,"integrations":{"All":false,"Google Analytics":true,"RJMetrics":true,"Webhooks":true}},"completedCheckout":{"label":"Completed Checkout Step","enabled":true,"integrations":{"All":false,"Google Analytics":true,"RJMetrics":true,"Webhooks":true}},"sharedFavorite":{"label":"Shared Favorites","enabled":true,"integrations":{"All":false,"Google Analytics":true,"RJMetrics":true}},"viewedAffirm":{"label":"Viewed Affirm Lightbox","enabled":true,"integrations":{"All":false,"Google Analytics":true,"RJMetrics":true,"Webhooks":true}},"viewedPhotobook":{"label":"Viewed Photobook","enabled":true,"integrations":{"All":false,"Google Analytics":true,"RJMetrics":true,"Webhooks":true}},"quizAnswers":{"label":"Quiz Question Answered","enabled":true,"integrations":{"All":false,"Google Analytics":true,"RJMetrics":true,"Webhooks":true}},"quizSignup":{"label":"Quiz Signup","enabled":true,"integrations":{"All":false,"Google Analytics":true,"RJMetrics":true,"Webhooks":true}},"hubSignup":{"label":"Content Hub Signup","enabled":true,"integrations":{"All":false,"GoogleAnalytics":true,"RJMetrics":true,"Webhooks":true}},"userAlias":{"label":"Alias User","enabled":true,"integrations":{"All":true}},"selectedVariation":{"label":"Selected Variation","enabled":true,"integrations":{"All":false,"Google Analytics":true,"Webhooks":true,"RJMetrics":true}},"saveCartDialog":{"label":"Save Cart Dialog Opened","enabled":true,"integrations":{"All":false,"Google Analytics":true,"Webhooks":true,"RJMetrics":true}},"emailCart":{"label":"Emailed Cart","enabled":true,"integrations":{"All":false,"Google Analytics":true,"Webhooks":true,"RJMetrics":true}},"smsCart":{"label":"SMS Cart","enabled":true,"integrations":{"All":false,"Google Analytics":true,"Webhooks":true,"RJMetrics":true}},"filteredCategorypage":{"label":"Filtered Category Page","enabled":true,"integrations":{"All":false,"Webhooks":true,"RJMetrics":true}},"reviewYelpDisplayed":{"label":"Yelp Popup Displayed","enabled":true,"integrations":{"All":false,"Google Analytics":true,"Webhooks":true,"RJMetrics":true}},"reviewYelpClicked":{"label":"Yelp Popup Clicked","enabled":true,"integrations":{"All":false,"Google Analytics":true,"Webhooks":true,"RJMetrics":true}},"custPhotoNav":{"label":"Customer Photo Navigation Clicked","enabled":true,"integrations":{"All":false,"Google Analytics":true,"RJMetrics":true,"Webhooks":true}},"prodPageNav":{"label":"Product Page Navigation Clicked","enabled":true,"integrations":{"All":false,"Google Analytics":true,"RJMetrics":true,"Webhooks":true}},"moreProdReviews":{"label":"More Product Reviews Clicked","enabled":true,"integrations":{"All":false,"Google Analytics":true,"RJMetrics":true,"Webhooks":true}},"moreCategoryProducts":{"label":"More Category Products Clicked","enabled":true,"integrations":{"All":false,"Google Analytics":true,"RJMetrics":true,"Webhooks":true}},"checkoutTimes":{"label":"Checkout Profiling Completed","enabled":true,"integrations":{"All":false,"Google Analytics":true,"RJMetrics":true,"Curebit":true,"Webhooks":true}}}	
+	var segmentKey = "uFA9qr7o7LHpqpKDgDZnLEMDh3in5eF6";
+	var segmentIntegrations = ["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","group","track","ready","alias","page","once","off","on","mixpanel"/*,"user"*/];
+		var segmentSettings = {"userIdentify":{"label":"Identify","enabled":"1","integrations":{"All":false,"Webhooks":true}},"viewedCategorypage":{"label":"Viewed Category Page","enabled":"1","integrations":{"All":false,"Webhooks":true}},"viewedProductpage":{"label":"Viewed Product","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"searchedProducts":{"label":"Searched Products","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"viewedKeypage":{"label":"Viewed Key Page","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"addToWishlist":{"label":"Wishlisted Product","enabled":"1","integrations":{"All":false,"Google Analytics":true}},"addToCart":{"label":"Added Product","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"removeFromCart":{"label":"Removed Product from Cart","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"applyCouponCode":{"label":"Applied Coupon Code","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"completedOrder":{"label":"Completed Order","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"appliedGiftCard":{"label":"Applied Gift Card","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"orderFeedback":{"label":"Order Feedback Submitted","enabled":"1","integrations":{"All":false,"Google Analytics":true}},"contactForm":{"label":"Contact Form Submitted","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"bestPricePopup":{"label":"Saw Best Price Alert","enabled":"1","integrations":{"All":false,"Google Analytics":true}},"loginFailed":{"label":"Login Failed","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"requestedSwatches":{"label":"Requested Swatches","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"submittedPhoto":{"label":"Photo Submitted","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"tradeSignup":{"label":"Applied for Trade","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"newsletterSignup":{"label":"Subscribed to Newsletter","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"reviewedProduct":{"label":"Reviewed Product","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"loginSuccess":{"label":"Logging into Account","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"signupAccount":{"label":"Signed Up","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"viewedHomepage":{"label":"Viewed Home Page","enabled":"1","integrations":{"All":false,"Webhooks":true}},"youTube":{"label":"Watched YouTube Video","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"favoritedProduct":{"label":"Favorited Product","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"downloadTearsheet":{"label":"Downloaded Tearsheet","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"viewedCheckout":{"label":"Viewed Checkout Step","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"completedCheckout":{"label":"Completed Checkout Step","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"sharedFavorite":{"label":"Shared Favorites","enabled":"1","integrations":{"All":false,"Google Analytics":true}},"viewedAffirm":{"label":"Viewed Affirm Lightbox","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"viewedPhotobook":{"label":"Viewed Photobook","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"quizAnswers":{"label":"Quiz Question Answered","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"quizSignup":{"label":"Quiz Signup","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"hubSignup":{"label":"Content Hub Signup","enabled":"1","integrations":{"All":false,"GoogleAnalytics":true,"Webhooks":true}},"userAlias":{"label":"Alias User","enabled":"0","integrations":{"All":true}},"selectedVariation":{"label":"Selected Variation","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"saveCartDialog":{"label":"Save Cart Dialog Opened","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"emailCart":{"label":"Emailed Cart","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"smsCart":{"label":"SMS Cart","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"filteredCategorypage":{"label":"Filtered Category Page","enabled":"1","integrations":{"All":false,"Webhooks":true}},"reviewYelpDisplayed":{"label":"Yelp Popup Displayed","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"reviewYelpClicked":{"label":"Yelp Popup Clicked","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"custPhotoNav":{"label":"Customer Photo Navigation Clicked","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"prodPageNav":{"label":"Product Page Navigation Clicked","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"moreProdReviews":{"label":"More Product Reviews Clicked","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"moreCategoryProducts":{"label":"More Category Products Clicked","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"checkoutTimes":{"label":"Checkout Profiling Completed","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"surveyStarted":{"label":"Survey Started","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"surveyFinished":{"label":"Survey Finished","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"quickviewOpened":{"label":"click_qv","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"quickviewInteraction":{"label":"qv_interaction","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"custPhotoViewed":{"label":"viewed_customer_photo","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"custPhotoFiltered":{"label":"customer_photo_filter","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"categoryProductImpression":{"label":"Product List Viewed","enabled":"0","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"categoryProductClicked":{"label":"Product Clicked","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"pageScrolled":{"label":"Page Scrolled","enabled":"0","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"affrimPrequal":{"label":"Affrim Prequalify Modal Opened","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"changedUpholsteryGroup":{"label":"Changed Upholstery Group","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"collectionFiltersUsed":{"label":"Collections Filters Used","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"collectionFiltersReset":{"label":"Collections Filters Reset","enabled":"1","integrations":{"All":false,"Google Analytics":true,"Webhooks":true}},"categoryExperimentViewed":{"label":"Experiment Viewed","enabled":"1","integrations":{"All":false,"Google Analytics":true," Webhooks":true}}}	
+	var mixpanel = undefined; //- FORCE MIXPANEL OFF (2017-04-27 - someone turned on Mixpanel)
+	
 	!function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=segmentIntegrations;analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.0.1";
 	analytics.load(segmentKey);
 	analytics.page(
@@ -196,7 +289,7 @@ function justunoTrackSubmission(t,email,coupon){
 	}
 	
 	
-		if( segmentSettings.userIdentify.enabled  ) {
+		if( segmentSettings.userIdentify.enabled=='1'  ) {
 		
 		var customerData = storageGetValue(customerLocalStorage);
 		
@@ -209,11 +302,6 @@ function justunoTrackSubmission(t,email,coupon){
 				UserID: customerData.id
 			};
 			if( customerData.is_designer ) segmentTrackData.listId = 553009; 
-			
-			if( breinifyEnabled ){
-				segmentTrackData['experimentId'] = 'breinify-recommendation-integration';
-				if( typeof getBreinifyGroup!=='undefined' ) segmentTrackData['variationId'] = getBreinifyGroup();
-			}
 			
 			analytics.identify(
 				customerData.id, 
@@ -231,27 +319,14 @@ function justunoTrackSubmission(t,email,coupon){
 			});
 		}
 		
-		/*
-				//-- Identify as Annonymous
-		analytics.ready(function(){
-			if(  typeof mixpanel!='undefined' ){
-				var anonId = mixpanel.get_distinct_id(); //var userId = analytics.user().anonymousId();
-				createCookie('segment_ann', anonId, 1);
-			}
-			//var anonId2 = '';
-			//var anonId2 = KM.i();//- use Kissmetrics for ann. id
-			//createCookie('segment_ann2', anonId2, 1);
-		});
-				*/
-		
 		
 				//- utm tracking for Mixpanel People
 		analytics.ready(function(){
 			campaignParams();
 		});
 			}
-</script> 
-<script type="text/javascript">
+</script>
+<script type="text/javascript" data-label="GTM">
 	var gtmEnabled = true;
 	gtmLayer = [];
 	
@@ -267,45 +342,103 @@ function justunoTrackSubmission(t,email,coupon){
 	
 	/*
 		*/
-</script> 
+
+	/* ====== FullStory (integrated via GTM)  ======*/
+	//- fs Identify
+	var fsDebug = false;
+	try {
+		if( customerData ){
+			window['_fs_ready'] = function() {
+				FS.identify(customerData.id, {
+					email: customerData.email
+				});
+			}
+			
+			if(fsDebug) console.log('FS console: Identify',customerData);
+			
+		} else {
+			if(fsDebug) console.log('FS console: Anonymous FS User');
+		}
+	} catch (error) {
+		if(fsDebug) console.log('FS console: '+error);
+	}
+	
+
+</script>
 <script type="text/javascript">
 	var brontoEnabled = true;
 	var brontoId = 'asjbuzwfrltpqiudatqoxxrjgtfabmm';
-</script><script type="text/javascript">var adroitEnabled = false;</script> 
+</script><script type="text/javascript">var adroitEnabled = false;</script>
 <script type="text/javascript">
 	
 	var pinterestTagEnabled = true;
-	
-			
+	var customerData = storageGetValue(customerLocalStorage);
 
-	
+		
+		
+
 	!function(e){if(!window.pintrk){window.pintrk=function(){window.pintrk.queue.push(Array.prototype.slice.call(arguments))};var n=window.pintrk;n.queue=[],n.version="3.0";var t=document.createElement("script");t.async=!0,t.src=e;var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(t,r)}}("https://s.pinimg.com/ct/core.js");
-
-	pintrk('load', 2619331049985);
+	var pintEmail = '';
+	if(customerData){
+		if(customerData.email){
+			pintEmail = customerData.email;
+		}
+	}
+	pintrk('load', 2619331049985,{
+		em: pintEmail,
+	});
 	pintrk('page', {
 		page_name: 'Privacy Policy',
 		page_category: 'Static',
 	});
 	
 </script>
- 
- 
-<script type="text/javascript">
+<noscript>
+  <img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=2619331049985&pd[em]=&noscript=1" />
+</noscript>
+
+<script type="text/javascript" data-label="Heap">
+    var heapEnabled = true;
+	var heapDebug = false;
+	
+	//- Integration
+	window.heap=window.heap||[],heap.load=function(e,t){window.heap.appid=e,window.heap.config=t=t||{};var r=t.forceSSL||"https:"===document.location.protocol,a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=(r?"https:":"http:")+"//cdn.heapanalytics.com/js/heap-"+e+".js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n);for(var o=function(e){return function(){heap.push([e].concat(Array.prototype.slice.call(arguments,0)))}},p=["addEventProperties","addUserProperties","clearEventProperties","identify","removeEventProperty","setEventProperties","track","unsetEventProperty"],c=0;c<p.length;c++)heap[p[c]]=o(p[c])};
+   	heap.load("1786707910");
+	
+
+	//- heap Identify
+	try {
+		var customerData = storageGetValue(customerLocalStorage);
+		if( customerData ){
+			heap.identify(customerData.id);
+			heap.addUserProperties({"email": customerData.email});
+			
+			if(heapDebug) console.log('HEAP: Identify + addUserProperties',customerData);
+			
+		} else {
+			if(heapDebug) console.log('HEAP: Anonymous Heap User');
+		}
+	} catch (error) {
+		if(heapDebug) console.log('HEAP: JB Tracking/Heap/Identify: '+error);
+	}
+</script>
+
+<script type="text/javascript" data-label="Pinterest Pixel">
 	var pinterestPixelEnabled = true;
 </script>
- 
-<script type="text/javascript">
+
+<script type="text/javascript" data-label="Pebblepost">
 	var pebblepostEnabled = true;
 </script>
- 
-<script type="application/javascript">
+
+<script type="application/javascript" data-label="General Track">
 
 
 /* - Searched Products - */
 function searchProductsTrack(params)
 {
 	//- Segment
-	if( segmentTrackingEnabled && segmentSettings.searchedProducts.enabled ) {
+	if( segmentTrackingEnabled && segmentSettings.searchedProducts.enabled=='1' ) {
 		analytics.track(
 			segmentSettings.searchedProducts.label,
 			{
@@ -350,7 +483,7 @@ function shareTracking(shareObj)
 function requestedSwatchTrack(params)
 {
 	//- Segment
-	if( segmentTrackingEnabled && segmentSettings.requestedSwatches.enabled ){
+	if( segmentTrackingEnabled && segmentSettings.requestedSwatches.enabled=='1' ){
 		/*analytics.track(
 			segmentSettings.requestedSwatches.label, 
 			{
@@ -361,6 +494,12 @@ function requestedSwatchTrack(params)
 			{integrations: segmentSettings.requestedSwatches.integrations}
 		);*/
 	}
+	
+	//- Heap (addUserProperties)
+	if( heapEnabled ){
+		heap.addUserProperties({"swatchRequester": "True"});
+		if( heapDebug ) console.log('HEAP: addUserProperties for swatch request submitted (SwatchRequester)');
+	} 
 	
 	//- GTM
 	if( gtmEnabled ){
@@ -384,7 +523,7 @@ function requestedSwatchTrack(params)
 	}
 	
 	//- Pinterest
-	if( pinterestPixelEnabled ){
+	if( pinterestPixelEnabled ){ //###OBSOLETED###
 		//var pinterestPixelSrc = 'https://ct.pinterest.com/?tid=Ta3bULtQDMH';
 		//pixelAppender(pinterestPixelSrc,'Pinterest Tracking - Swatch Request');
 		
@@ -421,7 +560,7 @@ function requestedSwatchTrack(params)
 function affirmLIghtboxTraqck(params)
 {
 	//- Segment
-	if( segmentTrackingEnabled && segmentSettings.viewedAffirm.enabled ) {
+	if( segmentTrackingEnabled && segmentSettings.viewedAffirm.enabled=='1' ) {
 		analytics.track(
 			segmentSettings.viewedAffirm.label, 
 			{product: params.product},
@@ -443,7 +582,7 @@ function affirmLIghtboxTraqck(params)
 function favsTrack(params)
 {
 	//- Segment
-	if( segmentTrackingEnabled && segmentSettings.favoritedProduct.enabled ){
+	if( segmentTrackingEnabled && segmentSettings.favoritedProduct.enabled=='1' ){
 		analytics.track(
 			segmentSettings.favoritedProduct.label, 
 			{
@@ -502,12 +641,25 @@ function trackVideoEvents(videoEvent,params)
 		//- Play
 		case 'play':
 			//- Segment
-			if( segmentTrackingEnabled && segmentSettings.youTube.enabled  ) {
+			if( segmentTrackingEnabled && segmentSettings.youTube.enabled=='1'  ) {
 				analytics.track(
 					'Played Video', 
 					{ video: params.video, id: params.id, duration: params.duration  },
 					{integrations: segmentSettings.youTube.integrations}
 				);
+			}
+
+			//- Heap
+			if(heapEnabled){
+				var trackData = {
+					nameOfVideo : params.video,
+					//percentageReached: (params.time / params.duration).toFixed(2)*1,
+					percentageReached: 0,
+					duration: (params.duration / 60).toFixed(2) + ' minutes total'
+				}
+				heap.track("Wistia Video", trackData);
+
+				if(heapDebug) console.log('HEAP: Wistia Video Play', trackData);
 			}
 			
 			//- GTM
@@ -535,7 +687,7 @@ function trackVideoEvents(videoEvent,params)
 		//- Pause
 		case 'pause':
 			//- Segment
-			if( segmentTrackingEnabled && segmentSettings.youTube.enabled  ) {
+			if( segmentTrackingEnabled && segmentSettings.youTube.enabled=='1'  ) {
 				analytics.track(
 					'Paused Video', 
 					{ video: params.video, id: params.id, pausedAt: params.time  },
@@ -557,12 +709,23 @@ function trackVideoEvents(videoEvent,params)
 		//- Finish
 		case 'finish':
 			//- Segment
-			if( segmentTrackingEnabled && segmentSettings.youTube.enabled  ) {
+			if( segmentTrackingEnabled && segmentSettings.youTube.enabled=='1'  ) {
 				analytics.track(
 					'Finished Video', 
 					{ video: params.video, id: params.id, duration: params.duration  },
 					{integrations: segmentSettings.youTube.integrations}
 				)
+			}
+
+			//- Heap
+			if(heapEnabled){
+				var trackData = {
+					nameOfVideo : params.video,
+					percentageReached: 1,
+					duration: (params.duration / 60).toFixed(2) + ' minutes total'
+				}
+				heap.track("Wistia Video", trackData);
+				if(heapDebug) console.log('HEAP: Wistia Video Finished', trackData);
 			}
 			
 			//- GTM
@@ -573,6 +736,21 @@ function trackVideoEvents(videoEvent,params)
 					'id': params.id,
 										'duration': params.duration
 				});
+			}
+		break;
+
+		//- Video In progress
+		case 'video_progress':
+			//- Heap
+			if(heapEnabled){
+				var trackData = {
+					nameOfVideo : params.video,
+					percentageReached: params.percentageReached,
+					duration: (params.duration / 60).toFixed(2) + ' minutes total'
+				}
+				heap.track("Wistia Video", trackData);
+				
+				if(heapDebug) console.log('HEAP: Wistia Video Progress', trackData);
 			}
 		break;
 		
@@ -588,7 +766,7 @@ function trackVideoEvents(videoEvent,params)
 function contactTrack(params)
 {
 	//- Segment
-	if( segmentTrackingEnabled && segmentSettings.contactForm.enabled ){
+	if( segmentTrackingEnabled && segmentSettings.contactForm.enabled=='1' ){
 		analytics.track(
 			segmentSettings.contactForm.label, 
 			{
@@ -600,6 +778,12 @@ function contactTrack(params)
 			},
 			{integrations: segmentSettings.contactForm.integrations}
 		);
+	}
+	
+	//- Haep (addUserProperties/Indentify)
+	if( heapEnabled ){
+		heap.addUserProperties({"email": params.contactEmail});
+		if( heapDebug ) console.log('HEAP: addUserProperties for contactUs submitted (user email)');
 	}
 	
 	//- GTM
@@ -615,7 +799,7 @@ function contactTrack(params)
 	}
 	
 	//- Pinterest
-	if( pinterestPixelEnabled ){
+	if( pinterestPixelEnabled ){ //###OBSOLETED###
 		//var pinterestPixelCode = '';
 		////pinterestPixelCode += '<img height="1" width="1" style="display:none;" alt="Pinterest Tracking - Contact Form" src="';
 		//pinterestPixelCode += 'https://ct.pinterest.com/?tid=Ta3bULtQDMH';
@@ -626,7 +810,7 @@ function contactTrack(params)
 	}
 	
 	//- Bronto
-	if(brontoEnabled){
+	if(brontoEnabled){ //###OBSOLETED###
 		/*var brontoTrackingPixel = '';
 		
 		brontoTrackingPixel += 'https://app.bronto.com/public/?q=direct_add&fn=Public_DirectAddForm&id='+brontoId;
@@ -644,7 +828,7 @@ function contactTrack(params)
 function subscribeTrack(params)
 {
 	//- Segment
-	if( segmentTrackingEnabled && segmentSettings.newsletterSignup.enabled ){
+	if( segmentTrackingEnabled && segmentSettings.newsletterSignup.enabled=='1' ){
 		analytics.track(
 			segmentSettings.newsletterSignup.label, 
 			{
@@ -653,6 +837,12 @@ function subscribeTrack(params)
 			},
 			{integrations: segmentSettings.newsletterSignup.integrations}
 		);
+	}
+	
+	//- Haep (addUserProperties/Indentify)
+	if( heapEnabled ){
+		heap.addUserProperties({"email": params.email});
+		if( heapDebug ) console.log('HEAP: addUserProperties for newsletter subscribe (user email)');
 	}
 	
 	//- GTM
@@ -676,7 +866,7 @@ function subscribeTrack(params)
 	}
 	
 	//- Pinterest
-	if( pinterestPixelEnabled ){
+	if( pinterestPixelEnabled ){ //###OBSOLETED###
 		//var pinterestPixelCode = '';
 		////pinterestPixelCode += '<img height="1" width="1" alt="Pinterest Tracking - Newsletter" style="display:none" src="';
 		//pinterestPixelCode += 'https://ct.pinterest.com/?tid=Ta3bULtQDMH';
@@ -687,7 +877,7 @@ function subscribeTrack(params)
 	}
 	
 	//- Bronto
-	if(brontoEnabled && params.newsletterForm!='JustunoPopup'){
+	if(brontoEnabled && params.newsletterForm!='JustunoPopup'){ //###OBSOLETED###
 				/*var brontoTrackingPixel = '';
 		
 		brontoTrackingPixel += 'https://app.bronto.com/public/?q=direct_add&fn=Public_DirectAddForm&id='+brontoId;
@@ -705,7 +895,7 @@ function subscribeTrack(params)
 function loginFailTrack(params)
 {
 	//- Segment
-	if( segmentTrackingEnabled && segmentSettings.loginFailed.enabled ){
+	if( segmentTrackingEnabled && segmentSettings.loginFailed.enabled=='1' ){
 		analytics.track(
 			segmentSettings.loginFailed.label, 
 			{
@@ -736,18 +926,80 @@ function menuHeatmap(menuId)
 	}
 }
 
+
+
+/* - Affirm Prequal Fired - */
+function affirmProductPrequalTrack(trackData)
+{
+	//- Segment
+	if( segmentTrackingEnabled && segmentSettings.affrimPrequal.enabled=='1' && trackData ){
+		
+		analytics.track(
+			segmentSettings.affrimPrequal.label, 
+			{
+				//product: trackData.product,
+				//product_id: trackData.product_id,
+				page_type: trackData.pageType
+			},
+			{integrations: segmentSettings.affrimPrequal.integrations}
+		);
+	}
+}
+
+</script>
+<script src="https://cdn.joybird.com/public/scripts/jbScrollDepth.js?m=20170622015945" type="text/javascript"></script>
+<script>
+function scrollDepthTrack(scrollBreakpoint)
+{
+		var page_url = 'https://joybird.com/privacy-policy/';
+	var page_type = 'Other';
+	
+	//- Segment
+	if( segmentTrackingEnabled && segmentSettings.pageScrolled.enabled=='1' ){
+		analytics.track(
+			segmentSettings.pageScrolled.label, 
+			{
+				'pageType': page_type,
+				'pageUrl': page_url,
+				'scrollDistance': scrollBreakpoint
+			},
+			{integrations: segmentSettings.pageScrolled.integrations}
+		);
+	}
+
+	//- Heap
+	if(heapEnabled){
+		var heapTrackData = {
+			pageType: page_type,
+			pageUrl: page_url,
+			scrollDistance: scrollBreakpoint
+		};
+		heap.track(
+			'Page Scrolled', 
+			heapTrackData
+		);
+		if( heapDebug ) console.log('HEAP: Page Scrolled', heapTrackData);
+	}
+}
+$(document).ready(function(e) {
+	jQuery.scrollDepth();
+});
 </script>
 </head>
 <body>
- 
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WLWKD9" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none">
+<symbol id="logo" viewBox="0 0 405.3 68.3"><style>.st0{fill:#6D6863;} .st1{fill-rule:evenodd;clip-rule:evenodd;fill:#6D6863;} .st2{fill-rule:evenodd;clip-rule:evenodd;} .st3{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;} .st4{fill:#FFFFFF;} .st5{fill:#48DACB;} .st6{fill:#CCC9C7;}</style><path class="st2" d="M60.7 28.1C52.5 41.6 36.2 40 14.1 26.6c-5.6-3.3-10.1.7-11.5 5.5C-.5 18.8 7.1 15 15.1 19.7c18.4 10.6 32.4 21.9 45.6 8.4z"></path><path class="st2" d="M50.1 50.7c21.7-2.8 28.4-21.3 34-42.3l6.3-1.3-5.6-1.3c-3.2-3.3-6.5-3.9-9.4-2.8-3.1 1.2-5.2 4-6.7 6.8-5.5 10.5-4.7 27.3-21.2 29.5-11.4 1.6-22.7-3.7-34.6-11-4.6-2.8-12.4 3.8-5.4 9.5 9.3 7.6 22.5 14 38.5 13.3.4 1.2 1.5 5.5.2 9.7-5.6 2.6-19.9 2.6-22 5.3h47.6c-2.2-2.7-16.4-2.6-22-5.3-1.5-5 .3-10.1.3-10.1zM79.5 4.5c.7 0 1.2.5 1.2 1.2s-.5 1.2-1.2 1.2-1.2-.5-1.2-1.2.5-1.2 1.2-1.2z"></path><g><path d="M99.8 53.7c.9 1.1 1.8 1.9 2.7 2.4.9.5 1.8.8 2.8.8 1.8 0 3-.6 3.8-1.8.7-1.2 1.1-3.4 1.1-6.6V7.8h9v43.8c0 4.7-1 8.2-3.1 10.5-2.1 2.2-5.4 3.3-9.8 3.3-2.5 0-4.7-.5-6.7-1.4-2-1-3.8-2.4-5.6-4.4l5.8-5.9zM179.2 36c0-2.8-.5-5.5-1.6-8.1-1-2.6-2.5-4.8-4.5-6.8-1.9-2-4.1-3.5-6.6-4.5-2.5-1.1-5.1-1.6-7.9-1.6-2.8 0-5.4.5-7.9 1.6-2.5 1-4.7 2.6-6.6 4.6-1.9 2-3.4 4.2-4.4 6.8-1 2.6-1.5 5.3-1.5 8.1s.5 5.5 1.5 8.1c1 2.5 2.5 4.8 4.4 6.8 1.9 2 4.1 3.5 6.6 4.6 2.5 1 5.1 1.6 7.9 1.6 2.7 0 5.3-.5 7.8-1.6 2.5-1 4.7-2.6 6.6-4.6 1.9-2 3.4-4.3 4.5-6.8 1.2-2.7 1.7-5.4 1.7-8.2zm9.5 0c0 4-.7 7.8-2.2 11.3-1.5 3.6-3.7 6.7-6.5 9.5-2.9 2.8-6.1 4.9-9.8 6.4-3.6 1.5-7.4 2.2-11.4 2.2s-7.9-.7-11.5-2.2c-3.7-1.5-6.9-3.6-9.7-6.4-2.9-2.8-5-5.9-6.5-9.5-1.5-3.5-2.2-7.3-2.2-11.3 0-4 .7-7.8 2.2-11.3 1.5-3.6 3.7-6.7 6.5-9.5 2.9-2.8 6.1-4.9 9.7-6.4 3.6-1.5 7.5-2.2 11.5-2.2s7.9.7 11.5 2.2c3.6 1.5 6.9 3.6 9.7 6.4 2.9 2.8 5 6 6.5 9.6 1.5 3.5 2.2 7.2 2.2 11.2zM208.4 63.9V38.3L189.5 7.8h9.6l11.8 19c.3.5.6 1.1 1.1 1.9l1.3 2.6c.4-.9.7-1.7 1.1-2.5.4-.8.8-1.5 1.3-2.2l12.1-18.8h9.1l-19.3 30.4v25.7h-9.2zM251.8 31.5h3.5c4.3 0 7.4-.6 9.2-1.8 1.8-1.2 2.7-3.2 2.7-6 0-3.1-.8-5.2-2.5-6.5-1.7-1.2-4.8-1.9-9.4-1.9h-3.5v16.2zm0 24.8h3.1c3.2 0 5.6-.1 7.2-.4 1.6-.3 2.8-.7 3.8-1.3 1.1-.7 2-1.7 2.6-3 .6-1.3.9-2.6.9-4.1 0-1.8-.4-3.3-1.1-4.7-.7-1.3-1.8-2.4-3.2-3.1-.9-.4-1.9-.8-3-1-1.1-.2-2.6-.3-4.4-.3h-5.9v17.9zm-8.9 7.6V7.8H257c4 0 7 .2 8.9.7 1.9.4 3.6 1.2 4.9 2.1 1.7 1.3 3.1 3 4 5 1 2.1 1.4 4.4 1.4 6.9 0 3-.7 5.5-2.1 7.5-1.4 2-3.4 3.4-6 4.2 3.3.5 5.8 2 7.7 4.5 1.9 2.5 2.8 5.6 2.8 9.3 0 2.3-.4 4.4-1.2 6.5-.8 2.1-1.9 3.8-3.4 5.2-1.5 1.6-3.4 2.7-5.7 3.3-2.3.6-6.1 1-11.5 1h-13.9v-.1zM288.2 63.9V7.8h9.2v56.1h-9.2zM319.6 31.7h1.6c4.8 0 8-.6 9.6-1.7 1.6-1.1 2.4-3.1 2.4-6 0-3.1-.9-5.3-2.6-6.5-1.7-1.3-4.9-1.9-9.4-1.9h-1.6v16.1zm-.6 7.1v25.1h-8.5V7.8h12.7c3.7 0 6.6.2 8.7.7 2.1.5 3.8 1.3 5.3 2.4 1.7 1.4 3.1 3.1 4 5.3.9 2.1 1.4 4.5 1.4 7 0 4.5-1.1 8-3.3 10.6-2.2 2.5-5.4 4.1-9.6 4.6L349 63.9h-10.3L320 38.8h-1zM363.5 55.7h7.7c4.2 0 7.4-.3 9.5-.8 2.1-.6 3.9-1.5 5.5-2.8 2.1-1.8 3.7-4.1 4.8-6.8 1.1-2.7 1.6-5.8 1.6-9.4 0-3.6-.5-6.7-1.6-9.4s-2.6-4.9-4.8-6.8c-1.6-1.3-3.5-2.3-5.7-2.8-2.2-.6-5.7-.8-10.4-.8h-6.6v39.6zm-9.1 8.2V7.8h12.3c8 0 13.6.4 16.9 1.2 3.3.8 6.1 2.2 8.6 4 3.2 2.5 5.7 5.7 7.4 9.5 1.7 3.9 2.5 8.3 2.5 13.3s-.8 9.4-2.5 13.2c-1.7 3.8-4.1 7-7.4 9.5-2.5 1.9-5.2 3.2-8.4 4-3.1.8-8 1.2-14.6 1.2h-14.8v.2z"></path></g></symbol></svg>
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WLWKD9"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 	})(window,document,'script','gtmLayer','GTM-WLWKD9');
 	</script>
- 
+
 <script type="text/javascript">
 		document.write(unescape("%3Cscript src='"
 			+ ((document.location.protocol == "https:") ? "https:" : "http:")
@@ -760,21 +1012,22 @@ function menuHeatmap(menuId)
 <article id="wrapper">
 <header>
 <div class="pagewidth">
- 
+
 <div id="siteBrand" class="is_regular">
-<a href="/"><img src="https://cdn.joybird.com/public/images/header_brand_text.svg" alt="Joybird Furniture"></a>
+<a href="/">
+
+
+<svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#logo"></use></svg> </a>
 </div>
- 
- 
+
+
 <nav id="mainNav" class="clearfix">
 <a id="menuBtn" href="#" rel="nofollow" data-heatmap="menu-mobile"><i class="icon-menu"></i><span>Close menu</span></a>
- 
+
 <ul id="primNav" class="hidden clearfix">
- 
+
 <li id="secMenu">
 <ul class="clearfix">
-<li id="menuMobileAccount"> </li>
-<li id="menuFavsMobile"><a href="/my-favorites/" title="Your favorties" data-state="placeholder"><i class="icon-favs"></i><b></b><span>Favorites</span></a></li>
 <li id="searchMob">
 <a href="#" id="searchClose">
 <i class="icon-search"></i>
@@ -782,9 +1035,9 @@ function menuHeatmap(menuId)
 </a>
 <form name="search_form" id="search_form" method="get" action="/search/">
 <fieldset class="pagewidth">
- 
-<input id="search_field" name="q" type="text" value="" placeholder="" autocomplete="off">
-<input id="search_submit" name="" type="submit">
+
+<input id="search_field" name="q" type="text" value="" placeholder="What are you looking for?" autocomplete="off">
+<input id="search_submit" type="submit">
 <input type="hidden" name="tab" value="products">
 </fieldset>
 </form>
@@ -792,174 +1045,162 @@ function menuHeatmap(menuId)
 </li>
 </ul>
 </li>
- 
- 
+
+
 <li id="headerShop" data-heatmap="menu-shop">
-<a class="menu_links" href="/all/"><i class=""></i><span>Shop</span></a>
+<a class="menu_links" href="/all/"><span>Shop</span> <i class="icon-cross"></i></a>
 <div class="sub_menu_wrap clearfix">
 <div class="pagewidth">
-<ul class="cols3 clearfix">
+<ul class="cols5 clearfix">
 <li class="col">
- 
 <ul class="wrap_col_content clearfix">
-<li class="half_col">
-<ul>
 <li>
-<a href="/all-sofas/" class="sub_title">Sofas<i class="icon-chevron-down"></i></a>
+<span class="sub_title">Sofas<i class="icon-cross"></i></span>
 <ul class="sub_title_list">
 <li><a href="/sofas/">Sofas</a></li>
-<li><a href="/sectionals/">Sectionals</a></li>
+<li><a href="/sectionals/">Sectional Sofas</a></li>
+<li><a href="/sleeper-sofas/">Sleeper Sofas</a></li>
+<li><a href="/modular-sofas/">Modular Sofas</a></li>
 <li><a href="/apartment-sofas/">Apartment Sofas</a></li>
 <li><a href="/apartment-sectionals/">Apartment Sectionals</a></li>
-<li><a href="/collections/bryant/">Modular Seating</a></li>
 <li><a href="/loveseats/">Loveseats</a></li>
-<li><a href="/sleeper-sofas/">Sleeper Sofas</a></li>
 <li><a href="/daybeds-chaises/">Chaises &amp; Daybeds</a></li>
-<li class="view_all"><a href="/new-arrivals/">New Arrivals <i class="icon-chevron-right"></i></a></li>
-<li class="view_all"><a href="/quick-ship/">Quick Ship <i class="icon-chevron-right"></i></a></li>
-<li class="view_all"><a href="/everyday-value/">Everyday Value <i class="icon-chevron-right"></i></a></li>
+<li><a href="/all-sofas/">All Sofas &amp; Sectionals</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li class="half_col">
-<ul>
+<li class="col">
+<ul class="wrap_col_content clearfix">
 <li>
-<a href="/all-chairs/" class="sub_title">Chairs<i class="icon-chevron-down"></i></a>
+<span class="sub_title">Chairs<i class="icon-cross"></i></span>
 <ul class="sub_title_list">
 <li><a href="/chairs/">Chairs</a></li>
 <li><a href="/apartment-chairs/">Apartment Chairs</a></li>
+<li><a href="/accent-chairs/">Accent Chairs</a></li>
 <li><a href="/dining-chairs/">Dining Chairs</a></li>
 <li><a href="/swivel-chairs/">Swivel Chairs</a></li>
 <li><a href="/rocking-chairs/">Rocking Chairs</a></li>
-<li><a href="/ottomans-benches/">Ottomans &amp; Benches</a></li>
- 
+<li><a href="/recliners-gliders/">Recliner Chairs</a></li>
+<li><a href="/ottomans/">Ottomans &amp; Benches</a></li>
 </ul>
 </li>
 <li>
-<a href="/beds/" class="sub_title">Bedroom <i class="icon-chevron-down"></i></a>
+<span class="sub_title">Bedroom <i class="icon-cross"></i></span>
 <ul class="sub_title_list">
 <li><a href="/beds/">Beds</a></li>
-</ul>
-</li>
+<li><a href="/dressers-chests/">Dressers &amp; Chests</a></li>
+<li><a href="/nightstands/">Nightstands</a></li>
+<li><a href="/bedroom/">Bedroom Collection</a></li>
 </ul>
 </li>
 </ul>
 </li>
 <li class="col">
- 
 <ul class="wrap_col_content clearfix">
-<li class="half_col">
-<ul>
 <li>
-<a class="sub_title" href="/all-tables/">Tables <i class="icon-chevron-down"></i></a>
+<span class="sub_title">Tables <i class="icon-cross"></i></span>
 <ul class="sub_title_list">
 <li><a href="/coffee-tables/">Coffee Tables</a></li>
 <li><a href="/dining-tables/">Dining Tables</a></li>
-<li><a href="/end-tables/">End Tables</a></li>
+<li><a href="/end-tables-entry-tables/">End Tables &amp; Entry Tables</a></li>
 <li><a href="/desks/">Desks</a></li>
- 
 </ul>
 </li>
 <li>
-<a href="/all-storage/" class="sub_title">Media &amp; Storage <i class="icon-chevron-down"></i></a>
+<span class="sub_title">Media &amp; Storage <i class="icon-cross"></i></span>
 <ul class="sub_title_list">
-<li><a href="/credenzas/">Credenzas</a></li>
+<li><a href="/media-consoles/">Media Consoles</a></li>
 <li><a href="/bookcases-wall-units/">Bookcases &amp; Wall Units</a></li>
- 
+<li><a href="/shelving/">Shelving</a></li>
+<li><a href="/bar-carts-cabinets/">Bar Carts &amp; Cabinets</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li class="half_col">
-<ul class="par_promo">
+<li class="col">
+<ul class="wrap_col_content clearfix">
 <li>
-<a href="/decoration-accessories/" class="sub_title">Décor <i class="icon-chevron-down"></i></a>
+<span class="sub_title">Décor <i class="icon-cross"></i></span>
 <ul class="sub_title_list">
 <li><a href="/pillows/">Pillows</a></li>
 <li><a href="/throws/">Throws</a></li>
 <li><a href="/rugs/">Rugs</a></li>
-<li><a href="/poufs/">Poufs</a></li>
-<li><a href="/wall-art/">Wall Decor</a></li>
+<li><a href="/poufs/">Poufs &amp; Cubes</a></li>
+<li><a href="/planters/">Planters</a></li>
+<li><a href="/wall-art/">Wall Decor &amp; Wallpaper</a></li>
 <li><a href="/all-lighting/">Lighting</a></li>
- 
+<li><a href="/mirrors/">Mirrors</a></li>
+
 </ul>
 </li>
 <li>
-<span class="sub_title">More <i class="icon-chevron-down"></i></span>
+<span class="sub_title">More <i class="icon-cross"></i></span>
 <ul class="sub_title_list">
- 
 <li><a href="/fabrics/">Fabric by the Yard</a></li>
 <li><a href="/gift-card/">Gift Cards</a></li>
+<li><a href="/samples/">Swatch Kit</a></li>
 </ul>
 </li>
- 
+</ul>
+</li>
+<li class="col">
+<ul class="wrap_col_content clearfix">
+<li>
+<span class="sub_title">Featured <i class="icon-cross"></i></span>
+<ul class="sub_title_list">
+<li class="view_all"><a href="/instock/"><i class="icon-shipping_fast"></i> Quick Ship</a></li>
+<li><a href="/new-arrivals/#!sort_by=newest">New Arrivals</a></li>
+</ul>
+</li>
+<li>
+<span class="sub_title">Style <i class="icon-cross"></i></span>
+<ul class="sub_title_list">
+<li><a href="/mid-century-furniture/">Mid Century Modern Furniture</a></li>
+<li><a href="/small-space-furniture/">Small Space Furniture</a></li>
+</ul>
+</li>
+
 </ul>
 </li>
 </ul>
-</li>
-<li class="col promo">
-<a href="/samples/">
-<img class="promo1" src="https://cdn.joybird.com/public/images/promo.png" alt="Free Swatch Kit">
-<img class="promo2" src="https://cdn.joybird.com/public/images/promo2.png" alt="Free Swatch Kit">
-</a>
-</li>
-</ul>
-<div class="aditional_resources clearfix">
-<label>Additional Resources</label>
-<div>
-<a href="/material-swatches/">Shop by Color <i class="icon-chevron-right"></i></a>
-<p>Browse all products by color family</p>
-</div>
-<div>
-<a href="/fabric-guide/">Our Materials <i class="icon-chevron-right"></i></a>
-<p>Get up close and in depth with our fabric selections</p>
-</div>
-<div>
-<a href="/pet-friendly/">Pet &amp; Kid Friendly <i class="icon-chevron-right"></i></a>
-<p>See what fabrics are pet and kid friendly</p>
-</div>
-</div>
 </div>
 </div>
 </li>
- 
- 
+
+
 <li id="headerCollections"><a href="/collections/"><span>Collections</span></a></li>
- 
- 
+
+
 <li id="headerGallery"><a href="/customer-photos/"><span>Gallery</span></a></li>
- 
- 
+
+
 <li id="headerLearn" data-heatmap="menu-learn">
-<a class="menu_links" href="#"><span>Learn</span></a>
+<a class="menu_links" href="#"><span>Learn</span> <i class="icon-cross"></i></a>
 <div class="sub_menu_wrap clearfix">
 <div class="pagewidth">
-<ul class="cols3 clearfix">
+<ul class="cols5 clearfix">
 <li class="col">
- 
 <ul class="wrap_col_content clearfix">
-<li class="half_col">
-<ul>
 <li>
-<span class="sub_title">About Us<i class="icon-chevron-down"></i></span>
+<span class="sub_title">About Us<i class="icon-cross"></i></span>
 <ul class="sub_title_list">
 <li><a href="/about-us/">Story</a></li>
 <li><a href="/the-factory/">Workshop</a></li>
 <li><a href="/quality/">Quality</a></li>
-<li><a href="/team/">Team</a></li>
 <li><a href="/reviews/">Reviews</a></li>
 <li><a href="/giving-back/">Giving Back</a></li>
 <li><a href="/press/">Press</a></li>
 <li><a href="/careers/">Jobs</a></li>
+<li><a href="/showrooms/">Showrooms</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li class="half_col">
-<ul>
+<li class="col">
+<ul class="wrap_col_content clearfix">
 <li>
-<span class="sub_title">Resources <i class="icon-chevron-down"></i></span>
+<span class="sub_title">Resources <i class="icon-cross"></i></span>
 <ul class="sub_title_list">
 <li><a href="/our-guarantee/">Guarantee</a></li>
 <li><a href="/home-trial/">Home Trial</a></li>
@@ -967,38 +1208,32 @@ function menuHeatmap(menuId)
 <li><a href="/returns-and-exchanges/">Returns</a></li>
 <li><a href="/pet-friendly/">Pet Friendly</a></li>
 <li><a href="/safeguard-fabrics/">Safeguard Fabrics</a></li>
-<li><a href="/fabric-guide/">Materials</a></li>
+ <li><a href="/fabric-guide/">Materials</a></li>
 <li><a href="/product-care/">Product Care</a></li>
 <li><a href="/fit-guide/">Fit Guide</a></li>
 <li><a href="/faq/">FAQ</a></li>
 <li><a href="/product-financing/">Financing</a></li>
-</ul>
-</li>
+<li><a href="/free-design-services/">Free Design Services</a></li>
 </ul>
 </li>
 </ul>
 </li>
 <li class="col">
- 
 <ul class="wrap_col_content clearfix">
-<li class="half_col">
-<ul>
 <li>
-<span class="sub_title">Discover <i class="icon-chevron-down"></i></span>
+<span class="sub_title">Discover <i class="icon-cross"></i></span>
 <ul class="sub_title_list">
 <li><a href="https://blog.joybird.com/style-stories/" target="_blank">Stories</a></li>
 <li><a href="/customer-photos/">Customer Gallery</a></li>
-<li><a href="/video-gallery/">Video Gallery</a></li>
 <li><a href="/business/">Trade &amp; Business</a></li>
+<li><a href="/material-swatches/">Shop by Color</a></li>
 <li><a href="/build-updates/">Build Updates</a></li>
 <li><a href="https://blog.joybird.com/" target="_blank">Blog</a></li>
 </ul>
 </li>
 </ul>
 </li>
-</ul>
-</li>
-<li class="col">
+<li class="col promo_list">
 <div>
 <span><a href="https://blog.joybird.com/style-stories/" target="_blank"><img src="https://cdn.joybird.com/public/images/stories_header_thumb.jpg" alt="Joybird Stories"></a></span>
 <p>Go inside the homes of actual Joybird customers and learn how they're telling their interior design stories -- for real life.</p>
@@ -1007,53 +1242,26 @@ function menuHeatmap(menuId)
 </li>
 </ul>
 </div>
-<div class="sub_menu_wrap_bottom">
-<div class="pagewidth clearfix">
-<ul class="clearfix">
-<li>
-<p>
-Consult our design experts
-<span>Need help? We have answers.</span>
-</p>
-</li>
-<li>
-<img src="https://cdn.joybird.com/public/images/help_crew.png" alt="Design Experts">
-</li>
-<li>
-<p>
-<span>Give us a call</span>
-<a class="tBlack" href="tel:18882820842">888-282-0842</a>
-</p>
-</li>
-</ul>
-</div>
-</div>
 </div>
 </li>
- 
- 
+
+
 <li id="helpMenu">
 <ul>
- 
- 
+<li><a href="https://help.joybird.com/">Help</a></li>
+<li id="menuMobileAccount"></li>
+<li><a href="https://blog.joybird.com/style-stories/?_mtf=trade" target="_blank">Style Stories</a></li>
+<li id="menuFavsMobile"><a href="/my-favorites/" title="Your favorties" data-state="placeholder"><b></b> Favorites</a></li>
 </ul>
 </li>
-<li id="bottomMenu">
-<ul>
-<li><a href="tel:18882820842" class="btn btnOrange"><i class="icon-phone"></i>CALL US</a></li>
-<li><a href="#" class="btn btnOrange chat_act"><i class="icon-chat2"></i>CHAT US</a></li>
-<li><a href="sms:16197802499" class="btn btnOrange"><i class="icon-phone2"></i>TEXT US</a></li>
-<li><a href="/contact-us/" class="btn btnOrange"><i class="icon-envelope-o"></i>EMAIL US</a></li>
+
 </ul>
-</li>
- 
-</ul>
- 
- 
+
+
 <ul id="secNav" class="clearfix">
-<li id="menuHelp" class="hidden"><a href="/contact-us/"><span>Help</span></a></li>
-<li id="menuAccount" class="hidden"> </li>
- 
+<li id="menuHelp" class="hidden"><a href="https://help.joybird.com/"><span>Help</span></a></li>
+<li id="menuAccount" class="hidden"></li>
+
 <li id="menuSearch" class="hidden">
 <span><i class="navIco icon-search"></i><span>Search</span></span>
 <div id="search_form_algolia">
@@ -1061,7 +1269,8 @@ Consult our design experts
 <label>Search</label>
 <div id="search-input">
 <div class="ais-search-box">
-<input autocapitalize="off" autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="text" value="" class="ais-search-box--input">
+
+<input autocomplete="off" type="text" class="ais-search-box--input">
 </div>
 </div>
 <i class="icon-cross"></i>
@@ -1076,9 +1285,9 @@ Consult our design experts
 <li id="menuFavs" class="hidden"><a href="/my-favorites/" title="Your favorties" data-state="placeholder"><i class="icon-favs"></i><b></b><span>Favorites</span></a></li>
 <li id="menuCart"><a href="/cart/" title="Your cart" data-state="placeholder"><i class="icon-cart-empty"></i><span>Cart</span></a></li>
 </ul>
- 
+
 </nav>
- 
+
 </div>
 </header>
 <div id="breadcrumb" class="pagewidth">
@@ -1088,12 +1297,12 @@ Consult our design experts
 <div class="static1_holder pagewidth">
 <h1>Privacy Policy</h1>
 <p>
-Joybird Inc. (“Joybird,” “we,” “us,” or “our”) know that our visitors care about how your personal information is used and shared. We take your privacy very seriously and are committed to protecting the privacy of our visitors. Our privacy policy explains how information is collected, used and disclosed by Joybird with respect to your access and use of Joybird’s services, whether through our website (“Site” located at&nbsp;<a href="https://www.joybird.com/">www.joybird.com</a>), our applications for mobile devices, or any other services we offer from time to time including other linked pages (collectively, the “Network”), you agree to the practices and policies set forth in this Privacy Policy, and you hereby acknowledge and consent to our collection, use, and sharing of your information as described in this Privacy Policy.</p>
+Stitch Industries Inc. (“Joybird,” “we,” “us,” or “our”) know that our visitors care about how your personal information is used and shared. We take your privacy very seriously and are committed to protecting the privacy of our visitors. Our privacy policy explains how information is collected, used and disclosed by Joybird with respect to your access and use of Joybird’s services, whether through our website (“Site” located at&nbsp;<a href="https://joybird.com/">joybird.com</a>), our applications for mobile devices, or any other services we offer from time to time including other linked pages (collectively, the “Network”), you agree to the practices and policies set forth in this Privacy Policy, and you hereby acknowledge and consent to our collection, use, and sharing of your information as described in this Privacy Policy.</p>
 <h3>
 <strong>YOUR PRIVACY IS IMPORTANT TO JOYBIRD</strong></h3>
 <p>
 <br>
-Joybird respects and upholds the confidentiality of information and the privacy of individuals and is committed to user, visitor and customer privacy to the Joybird web site at&nbsp;<a href="https://www.joybird.com/">www.joybird.com</a>. Because we gather important information from our users, visitors and customers (collectively "Customers" or "you" or "your"), we have established this Privacy Policy as a means to communicate our information gathering and dissemination practices. By accessing this Website, you acknowledge and agree to this Privacy Policy and also agree to the Terms of Use of the Website located at&nbsp;<a href="https://www.joybird.com/terms-of-use/">https://www.joybird.com/terms-of-use/</a>&nbsp;("Terms of Use Agreement").</p>
+Joybird respects and upholds the confidentiality of information and the privacy of individuals and is committed to user, visitor and customer privacy to the Joybird web site at&nbsp;<a href="https://joybird.com/">www.joybird.com</a>. Because we gather important information from our users, visitors and customers (collectively "Customers" or "you" or "your"), we have established this Privacy Policy as a means to communicate our information gathering and dissemination practices. By accessing this Website, you acknowledge and agree to this Privacy Policy and also agree to the Terms of Use of the Website located at&nbsp;<a href="https://joybird.com/terms-of-use/">https://joybird.com/terms-of-use/</a>&nbsp;("Terms of Use Agreement").</p>
 <h3>
 <strong>INFORMATION WE COLLECT</strong></h3>
 <p>
@@ -1104,7 +1313,7 @@ You may also have the ability to update or remove your Personal Information by l
 <p>
 Information collected is used to provide and maintain the Website and is used at Joybird's discretion. This Information can also be used to contact you to further discuss interest in our company, the services we provide, and to send information regarding Joybird, its partners, its products and other activities such as promotions and events. You may be invited to receive email correspondence by providing an email address. From time to time we might establish a business relationship with other persons or entities whom we believe trustworthy and whom we have asked to confirm that their privacy policies are consistent with ours. In such cases we might rent, exchange, share and/or cross-reference information, including contact information about you that will enable such persons or entities to contact you regarding products and services that may be of interest to you.</p>
 <p>
-Joybird may also email (or send via other methods) information regarding updates to the Website, newsletters, advertisements, or other correspondence. You will have an opportunity to unsubscribe to any emails or mailings by clicking on an "unsubscribe" hyperlink contained in such promotional emails or by emailing us at&nbsp;<a href="https://www.joybird.com/contact-us/">https://www.joybird.com/contact-us/</a>. Despite unsubscribing from such list, Joybird may send confirmation emails if you order online and may need to contact you by phone, email or regular mail with questions or issues concerning your order. Any opt-out by you is not deemed valid until processed by Joybird. Joybird shall not be liable for problems arising from the opt-out procedure.</p>
+Joybird may also email (or send via other methods) information regarding updates to the Website, newsletters, advertisements, or other correspondence. You will have an opportunity to unsubscribe to any emails or mailings by clicking on an "unsubscribe" hyperlink contained in such promotional emails or by emailing us at&nbsp;<a href="https://joybird.com/contact-us/">https://joybird.com/contact-us/</a>. Despite unsubscribing from such list, Joybird may send confirmation emails if you order online and may need to contact you by phone, email or regular mail with questions or issues concerning your order. Any opt-out by you is not deemed valid until processed by Joybird. Joybird shall not be liable for problems arising from the opt-out procedure.</p>
 <p>
 We acknowledge that you have the right to control how your Personal Information is collected and used.</p>
 <h3>
@@ -1190,7 +1399,7 @@ As far as permissible under law, Joybird accepts no responsibility for the unaut
 <p>
 <strong>THIRD PARTY ADVERTISING AND ANALYTICS PARTNERS</strong></p>
 <p>
-We may use third party advertising and analytics services on our behalf to deliver interest-based advertising. Services may use cookies, web beacons, and other online identification tools to collect information about your activities in order to, among other things, better display tailored content relevant to your interests and analyze the effectiveness of our marketing efforts. For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit&nbsp;<a href="http://www.aboutads.info/choices" target="_blank">www.aboutads.info/choices</a>&nbsp;and <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">www.networkadvertising.org/managing/opt_out.asp</a>.</p>
+We may use third party advertising and analytics services on our behalf to deliver interest-based advertising. Services may use cookies, web beacons, and other online identification tools to collect information about your activities in order to, among other things, better display tailored content relevant to your interests and analyze the effectiveness of our marketing efforts. For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit&nbsp;<a href="http://aboutads.info/choices" target="_blank">www.aboutads.info/choices</a>&nbsp;and <a href="https://www.networkadvertising.org/managing/opt_out.asp" target="_blank">www.networkadvertising.org/managing/opt_out.asp</a>.</p>
 <p>
 As far as permissible under law, Joybird accepts no responsibility for the unauthorized access of Personal Information held by Joybird.</p>
 <h3>
@@ -1202,7 +1411,7 @@ The Children's Online Privacy Protection Act imposes certain requirements on web
 <strong>CHANGES TO OUR PRIVACY STATEMENT</strong></h3>
 <p>
 <br>
-From time to time, it may be necessary for us to review and revise our privacy statement. We reserve the right to change our privacy statement at any time and to notify you by publishing an updated version of the policy on the Joybird website at&nbsp;<a href="https://www.joybird.com/">www.joybird.com</a>.</p>
+From time to time, it may be necessary for us to review and revise our privacy statement. We reserve the right to change our privacy statement at any time and to notify you by publishing an updated version of the policy on the Joybird website at&nbsp;<a href="https://joybird.com/">www.joybird.com</a>.</p>
 <h3>
 <strong>HOW TO CONTACT US IF YOU HAVE A PROBLEM OR COMPLAIN</strong></h3>
 <p>
@@ -1212,7 +1421,7 @@ If you have any queries in relation to this policy or its administration or if y
 <strong>ADDITIONAL INFORMATION</strong></h3>
 <p>
 <br>
-This Policy is part of the&nbsp;<a href="https://www.joybird.com/terms-of-use/">Terms of Use</a>&nbsp;of Joybird’s services and any use of the Network is governed by those Terms of Use.</p>
+This Policy is part of the&nbsp;<a href="https://joybird.com/terms-of-use/">Terms of Use</a>&nbsp;of Joybird’s services and any use of the Network is governed by those Terms of Use.</p>
 <h3>
 <strong>EFFECTIVE DATE:</strong></h3>
 <p>
@@ -1225,7 +1434,7 @@ February 21, 2014</p>
 <span class="inner">
 <span class="title">Saving the rainforest, one tree at a time.</span>
 <span class="desc">Planting trees with every purchase, we’re committed to making a healthier, more sustainable planet.</span>
-<em class="trees_planted"><strong>140,311</strong> trees planted</em>
+<em class="trees_planted"><strong>353,431</strong> trees planted</em>
 </span>
 </p>
 </a>
@@ -1239,7 +1448,7 @@ February 21, 2014</p>
 </a>
 </li>
 <li>
-<a href="sms:16197802499" class="jsTradeIndependent">
+<a href="sms:16197802499" class="jsTradeIndependent jsSmsAct">
 <i class="sprite mob_ico"></i>
 <span>text us</span>
 <span class="tel_numb">619-780-2499</span>
@@ -1264,8 +1473,8 @@ February 21, 2014</p>
 <div class="pagewidth clearfix foot_main_wrapp">
 <div id="footer_logo">
 <a href="/">
-<img class="foot_logo1" src="https://cdn.joybird.com/public/images/footer_brand_ico.png" alt="Joybird.com">
-<img class="foot_logo2" src="https://cdn.joybird.com/public/images/footer_brand_ico2.png" alt="Joybird.com">
+
+<svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#logo"></use></svg>
 </a>
 </div>
 <ul id="foot_nav" class="clearfix">
@@ -1274,11 +1483,11 @@ February 21, 2014</p>
 <li><a href="/about-us/">Story</a></li>
 <li><a href="/the-factory/">Workshop</a></li>
 <li><a href="/quality/">Quality</a></li>
-<li><a href="/team/">Team</a></li>
 <li><a href="/reviews/">Reviews</a></li>
 <li><a href="/giving-back/">Giving Back</a></li>
 <li><a href="/press/">Press</a></li>
 <li><a href="/careers/">Jobs</a></li>
+<li><a href="/showrooms/">Showrooms</a></li>
 </ul>
 </li>
 <li><span>Resources</span>
@@ -1288,19 +1497,20 @@ February 21, 2014</p>
 <li><a href="/shipping-and-delivery/">Shipping</a></li>
 <li><a href="/returns-and-exchanges/">Returns</a></li>
 <li><a href="/pet-friendly/">Pet Friendly</a></li>
-<li><a href="/safeguard-fabrics/">Safeguard Fabrics
-</a></li><li><a href="/fabric-guide/">Materials</a></li>
+<li><a href="/safeguard-fabrics/">Safeguard Fabrics</a></li>
+<li><a href="/fabric-guide/">Materials</a></li>
 <li><a href="/product-care/">Product Care</a></li>
 <li><a href="/fit-guide/">Fit Guide</a></li>
 <li><a href="/faq/">FAQ</a></li>
 <li><a href="/product-financing/">Financing</a></li>
+<li><a href="/free-design-services/">Free Design Services</a></li>
 </ul>
 </li>
 <li><span>Discover</span>
 <ul>
 <li><a href="https://blog.joybird.com/style-stories/" target="_blank">Stories</a></li>
 <li><a href="/customer-photos/">Customer Gallery</a></li>
-<li><a href="/video-gallery/">Video Gallery</a></li>
+<li><a href="/material-swatches/">Shop by Color</a></li>
 <li><a href="/business/">Trade &amp; Business</a></li>
 <li><a href="/build-updates/">Build Updates</a></li>
 <li><a href="https://blog.joybird.com/" target="_blank">Blog</a></li>
@@ -1308,10 +1518,10 @@ February 21, 2014</p>
 </li>
 </ul>
 <div id="joinUs">
- 
+
 <div id="newsletter_block" class="tCent">
- 
-<h3><img src="https://cdn.joybird.com/public/images/join_us.png" alt="Join the club"></h3>
+
+<h3>Join The Club</h3>
 <p>Sign up to enjoy discounts, exclusive sales and VIP, member-only perks!</p>
 <form name="foot_newsletter_form" id="foot_newsletter_form" method="post" action="/subscribe/subscription/">
 <input id="fnews_email" name="subscriber_email" type="text" placeholder="Enter email address" autocomplete="email">
@@ -1361,23 +1571,25 @@ February 21, 2014</p>
 </form>
 </div>
 <div id="getSocial">
-<a href="http://www.facebook.com/wearejoybird" target="_blank" class="jsTradeIndependent"><i class="icon-facebook"></i></a>
-<a href="http://www.twitter.com/wearejoybird" target="_blank" class="jsTradeIndependent"><i class="icon-twitter"></i></a>
-<a href="http://www.pinterest.com/joybird/" target="_blank" class="jsTradeIndependent"><i class="icon-pinterest"></i></a>
-<a href="http://instagram.com/joybird" target="_blank" class="jsTradeIndependent"><i class="icon-instagram"></i></a>
-<a href="https://www.youtube.com/c/joybird" target="_blank" class="jsTradeIndependent"><i class="icon-youtube"></i></a>
-<a class="modal_act" href="/stat/snapchat/" title="" data-style="snapchatPopup" target="_blank"><i class="icon-snapchat"></i></a>
+<a href="https://www.facebook.com/wearejoybird" target="_blank" class="jsTradeIndependent" title="Facebook"><i class="icon-facebook"></i></a>
+<a href="https://twitter.com/wearejoybird" target="_blank" class="jsTradeIndependent" title="Twitter"><i class="icon-twitter"></i></a>
+<a href="https://www.pinterest.com/joybird/" target="_blank" class="jsTradeIndependent" title="Pinterest"><i class="icon-pinterest"></i></a>
+<a href="https://www.instagram.com/joybird/" target="_blank" class="jsTradeIndependent" title="Instagram"><i class="icon-instagram"></i></a>
+<a href="https://www.youtube.com/c/joybird" target="_blank" class="jsTradeIndependent" title="YouTube"><i class="icon-youtube"></i></a>
+<a href="https://www.houzz.com/pro/wearejoybird/joybird-furniture" target="_blank" class="jsTradeIndependent" title="Houzz"><i class="icon-houzz"></i></a>
+<a href="https://www.linkedin.com/company/joybird" target="_blank" class="jsTradeIndependent" title="Linkedin"><i class="icon-linkedin-square"></i></a>
 </div>
 </div>
 </div>
 </div>
- 
+
 <div id="foot_bottom">
 <div class="pagewidth clearfix">
 <div class="f_copy">
-<span>Copyright © 2017 Joybird®</span>
+<span>Copyright © 2018 Joybird®</span>
 <a href="/terms-of-use/">Terms of Use</a>
 <a href="/privacy-policy/">Privacy Notice</a>
+<a href="/sitemap/">Sitemap</a>
 </div>
 <div class="f_terms">
 <a href="tel:18882820842" class="jsTradeIndependent">
@@ -1385,12 +1597,12 @@ February 21, 2014</p>
 <span>call us</span>
 <span class="numb_txt">888-282-0842</span>
 </a>
-<a href="sms:16197802499" class="jsTradeIndependent">
+<a href="sms:16197802499" class="jsTradeIndependent jsSmsAct">
 <i class="icon-phone2"></i>
 <span>text us</span>
 <span class="numb_txt">619-780-2499</span>
 </a>
-<a class="chat_act" href="#">
+<a class="chat_act jsTradeIndependent" href="#">
 <i class="icon-chat"></i>
 <span></span>
 <span class="echat_txt">Chat</span>
@@ -1403,7 +1615,27 @@ February 21, 2014</p>
 </div>
 </div>
 </div>
-</footer></article>
+</footer>
+<div class="cro_footer_container">
+<div class="pagewidth clearfix">
+<div class="cro_footer_inner">
+<div class="cro_footer_message">
+<p>Prequalify for 0% financing and split your purchase into easy monthly payments.</p>
+</div><a href="#" class="cro_footer_cta_button"><span class="cro_footer_cta_button_text">Get Qualified</span></a>
+</div>
+<a href="#" class="cro_footer_close"><i class="icon-cross"></i></a>
+</div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(e) {
+	//jbPromoFooter.init();
+	$('.cro_footer_close').click(function(event){
+		event.preventDefault();
+		jbPromoFooter.closeFooter();
+    });
+});
+</script>
+</article>
 <script type="text/javascript">
 $(document).ready(function(e) {
 	scriptApender('wistiaEventsInit', ASSETS_LOCAL_SCRIPTS+'/public/scripts/wistia-events.js', 'body');
@@ -1411,16 +1643,16 @@ $(document).ready(function(e) {
 	//scriptApender('youtubeEventsInit', '/tracking/youtube-events/ctrl/stat/act/view/', 'body');
 });
 </script>
- 
+
 <noscript>
-<div class="noscript">
-<div class="noscript-inner">
-<p><strong>We detected that your JavaScript seem to be disabled.</strong></p>
-<p>You must have JavaScript enabled in your browser to utilize the functionality of this website.</p>
-</div>
-</div>
+	<div class="noscript">
+		<div class="noscript-inner">
+			<p><strong>We detected that your JavaScript seem to be disabled.</strong></p>
+			<p>You must have JavaScript enabled in your browser to utilize the functionality of this website.</p>
+		</div>
+	</div>
 </noscript>
- 
+
 <!--[if lt IE 8]>		
 	<div class="ie_alert">
 		<div class="ie_alert_inner">
