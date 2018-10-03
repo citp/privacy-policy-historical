@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the filext.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623074652id_/http%3A//filext.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filext.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004013237id_/http%3A//filext.com/privacy.php) for the most accurate reproduction.*
 
 # FILExt Privacy and Cookies Policy
 
-Uniblue is committed to safeguard the privacy of its customers and individuals who make use of our online facilities. This policy provides you with information about what data we collect and how this data is processed by us. 
+FILExt is committed to safeguard the privacy of its customers and individuals who make use of our online facilities. This policy provides you with information about what data we collect and how this data is processed by us. 
 
-In general, you can visit the Uniblue website/s (the 'Websites') without telling us who you are or giving any personal information about you. Information which we collect may be used: 
+In general, you can visit the FILExt website/s (the 'Websites') without telling us who you are or giving any personal information about you. Information which we collect may be used: 
 
 We may also collect and store certain types of data as described in more detail below. 
 
@@ -12,7 +12,7 @@ We may also collect and store certain types of data as described in more detail 
 
 **2\. Third party cookies**
 
-Third party cookies are cookies from another domain (not from Uniblue Websites). We don't control the content of these cookies. Therefore, please review information about the cookies from the third-party websites. Examples of third parties who set cookies on Uniblue Websites include: 
+Third party cookies are cookies from another domain (not from FILExt Websites). We don't control the content of these cookies. Therefore, please review information about the cookies from the third-party websites. Examples of third parties who set cookies on FILExt Websites include: 
 
 **2A. Hotjar**
 
@@ -24,7 +24,7 @@ For more information on Hotjar's collection of information, please see their Coo
 
 These are advertising networks used to deliver interactive advertising campaigns on partner websites. These cookies track the types of content you have viewed to ensure adverts are as relevant to you as possible. 
 
-This may include third party cookies placed on the Uniblue Websites to deliver tailored information and content which may be of interest to you, such as promotions or offerings, when you visit third party websites after you have left our Websites. These third party companies may deliver advertisements and/or promotions that might also place cookies and otherwise track user behaviour. We do not permit these third parties to collect personal information about you (such as email address) on our Websites, nor do we share with them any personal information about you. 
+This may include third party cookies placed on the FILExt Websites to deliver tailored information and content which may be of interest to you, such as promotions or offerings, when you visit third party websites after you have left our Websites. These third party companies may deliver advertisements and/or promotions that might also place cookies and otherwise track user behaviour. We do not permit these third parties to collect personal information about you (such as email address) on our Websites, nor do we share with them any personal information about you. 
 
 **Log information**
 
@@ -32,21 +32,21 @@ When you visit our Websites, our servers automatically record information that y
 
 **Electronic notices and Promotional Emails**
 
-We may provide you with information and notices regarding the Uniblue products, applications, surveys, promotional emails, offers or other information which may be of use or interest to You, via the email address you designate in the payment process, when you sign up for our newsletter or when you sign up to some of our free services. 
+We may provide you with information and notices regarding the FILExt products, applications, surveys, promotional emails, offers or other information which may be of use or interest to You, via the email address you designate in the payment process, when you sign up for our newsletter or when you sign up to some of our free services. 
 
 We may also send you transactional, technical or other service notifications from time to time. These messages are sent only to individuals who have purchased our products or services and are essential to maintain the functionality of same, so there is no opt-out available for this type of notifications. 
 
 We do not share your email address with any third party, and we process and store such personal information in accordance with the terms of this Policy. 
 
-**Uniblue Products**
+**FILExt Products**
 
-Whilst in use, the Uniblue products may collect some information from your computer (e.g. frequency of use, system name, Windows version and browser type, IP address, installed devices and date of installation). In some products, we also make use of in-product analytics services provided by third parties. These third parties may collect some information regarding your activity when making use of the Uniblue Products but will not collect any personally identifiable information about you. Note that if your IP address is collected by Uniblue, this is only used to generate aggregate statistics and is not used in a way that leads to identify you personally. 
+Whilst in use, the FILExt products may collect some information from your computer (e.g. frequency of use, system name, Windows version and browser type, IP address, installed devices and date of installation). In some products, we also make use of in-product analytics services provided by third parties. These third parties may collect some information regarding your activity when making use of the FILExt Products but will not collect any personally identifiable information about you. Note that if your IP address is collected by FILExt, this is only used to generate aggregate statistics and is not used in a way that leads to identify you personally. 
 
-When you purchase a Uniblue product from the Uniblue Websites, you will be required to provide personal information (including your credit card details) to one of our trusted third party retailers. Information you provide to the retailer will be processed in accordance with its privacy policy and you are therefore advised to review such policy prior to purchase. The retailer may share your personal information with us, including but not limited to details on the purchase and any other personal information necessary for authentication of license, statistical, notification, as well as support and payment-related services. You may also access your purchase details remotely by submitting a request on our Support Website. 
+When you purchase a FILExt product from the FILExt Websites, you will be required to provide personal information (including your credit card details) to one of our trusted third party retailers. Information you provide to the retailer will be processed in accordance with its privacy policy and you are therefore advised to review such policy prior to purchase. The retailer may share your personal information with us, including but not limited to details on the purchase and any other personal information necessary for authentication of license, statistical, notification, as well as support and payment-related services. You may also access your purchase details remotely by submitting a request on our Support Website. 
 
 **Information sharing**
 
-Uniblue will only use your personal information for the purposes which are specified in this policy. 
+FILExt will only use your personal information for the purposes which are specified in this policy. 
 
 We may engage third party service providers that assist us in providing or improving our services as explained above and we might need to share some personal or other data with them to enable them to do so. These service providers are either subject to this privacy policy or follow practices that offer an equivalent level of protection and may be located outside the EU. Your information may also be transferred to another company in the event of sale of our company to a third party. We will not sell or rent your personal information to third parties for marketing purposes without your consent. 
 
@@ -54,11 +54,11 @@ To further improve our products and the service we offer to you, we may also nee
 
 **Information processing and security**
 
-Uniblue processes personal information in Malta. Information is retained on our servers in the United States and in other countries. We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data held by us. 
+We processe personal information in Europe. Information is retained on our servers in the United States and in other countries. We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data held by us. 
 
 **Data integrity**
 
-We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary. You are therefore kindly requested to inform us of any change referring to your personal data held by us. You have the right to access the personal information that we may hold about you, to rectify this data or object to the storage of the data for legitimate purposes by contacting us at [http://www.uniblue.com/support/ticket/](https://web.archive.org/support/ticket/). 
+We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary. You are therefore kindly requested to inform us of any change referring to your personal data held by us. You have the right to access the personal information that we may hold about you, to rectify this data or object to the storage of the data for legitimate purposes by contacting us. 
 
 **Privacy of business partners**
 
@@ -66,14 +66,14 @@ Our Websites and our newsletter may include various links to third party website
 
 **Social Media Features and Widgets**
 
-The Uniblue Websites may include social media features, such as Facebook’s ‘Like’ button, and widgets, such as the ‘Share This’ button, or interactive mini-programs that run on our Websites. These features are usually recognisable by their third party brand or logo and may collect your IP address, which page you are visiting on our Websites, and set a cookie to enable the feature to work properly. Social media features and widgets are either hosted by a third party or hosted directly on our Websites. Your interactions with these features are governed by the privacy policy of the company providing it. 
+The FILExt Websites may include social media features, such as Facebook�s �Like� button, and widgets, such as the �Share This� button, or interactive mini-programs that run on our Websites. These features are usually recognisable by their third party brand or logo and may collect your IP address, which page you are visiting on our Websites, and set a cookie to enable the feature to work properly. Social media features and widgets are either hosted by a third party or hosted directly on our Websites. Your interactions with these features are governed by the privacy policy of the company providing it. 
 
 **Children**
 
-The Uniblue Websites are not aimed at children and we do not knowingly collect any personal information from children. Minors should not use these Websites unless supervised by an adult. 
+The FILExt Websites are not aimed at children and we do not knowingly collect any personal information from children. Minors should not use these Websites unless supervised by an adult. 
 
 **Changes to this policy**
 
-Please note that this policy may change from time to time. All updates will be published on the Uniblue Websites and, if the changes are significant, the changes will be posted on the Websites and on this page <http://www.uniblue.com/privacy/> thirty days prior to taking effect. Each version of this policy will be identifiable at the top of this document by its effective date. We encourage you to refer to this policy periodically. 
+Please note that this policy may change from time to time. All updates will be published on the FILExt Websites and, if the changes are significant, the changes will be posted on the Websites thirty days prior to taking effect. Each version of this policy will be identifiable at the top of this document by its effective date. We encourage you to refer to this policy periodically. 
 
 v.060416 
