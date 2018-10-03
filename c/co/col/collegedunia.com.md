@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegedunia.com privacy policy that was archived on 2017-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170818161637id_/https%3A//collegedunia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegedunia.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003032702id_/https%3A//collegedunia.com/privacy-policy) for the most accurate reproduction.*
 
 # Collegedunia: Privacy Policy
 
@@ -27,8 +27,7 @@ The company can use data collected through the website in various ways a. Opt-in
 Any queries related to Privacy Policy, Please contact on following address:
 
 Collegedunia Web Pvt. Ltd.  
-D-15 first floor, Prashant Vihar,  
-Rohini Sector - 14,  
-Near Federal bank  
-Pin Code - 110085  
+2nd Floor, Aggarwal Metro Heights,  
+Netaji Subhash Place,  
+New Delhi - 110034  
 Or Send a Mail at [privacy@collegedunia.com](mailto:privacy@collegedunia.com)
