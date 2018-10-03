@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123movies.online privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517094858id_/http%3A//123moviess.online/page-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123movies.online privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003024738id_/http%3A//www0.123movies.online/page-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 123movies
 
@@ -30,4 +30,4 @@ Megabox.li reserves the right to change this Privacy Policy, and will post any r
 
 **How to contact us**
 
-If you have any questions or concerns regarding our privacy policy, please contact us [here](http://123moviess.online/page-contact-us).
+If you have any questions or concerns regarding our privacy policy, please contact us [here](http://www0.123movies.online/page-contact-us).
