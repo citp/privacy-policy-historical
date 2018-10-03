@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viacom.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530171513id_/http%3A//www.viacom.com/about/pages/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viacom.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003120447id_/http%3A//www.viacom.com/about/pages/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Viacom
 
