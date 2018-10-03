@@ -1,70 +1,182 @@
-> *The following text is extracted and transformed from the fish4.co.uk privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920182839id_/https%3A//www.fish4.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fish4.co.uk privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004013055id_/https%3A//www.fish4.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Notice
 
-**Privacy Policy**
+**Last updated: 24/05/18**
 
-Trinity Mirror Regionals Limited, Company No. 3890736 ("Fish4jobs") endeavours to ensure that the information that you submit to us remains private, and that it is used only for the purposes described below. We aim to provide a safe and secure experience for all of our users.
+This notice outlines the data we collect on the Fish4jobs website and the Fish4jobs app, how we use it, who it is shared with and why, and how long it is kept.
 
-At Fish4jobs we are committed to protecting your privacy
+**Who we are :**
 
-Fish4jobs endeavours to ensure that the information that you submit to us remains private, and that it is used only for the purposes described below. We aim to provide a safe and secure experience for all of our users.
+Reach Shared Services Limited, Registered Number 82548 (Trading as Fish4jobs)  
+One Canada Square, Canary Wharf, London, E14 5AP
 
-**Disclosure of personal information**
+You can contact us at ecommerce@fish4.co.uk.
 
-Information may be gathered from your registration form(s) and your use of the Sites and/or the Interactive Services including through "cookies". Cookies are blocks of text placed in files on your computer's hard drive when you visit a web site which contain information to identify you. A cookie does not contain any personal information you have provided us with, except your user name, unless the cookie attached to personal information collected another way, such as by means of your on-line registration form.
+**What information do we collect?**
 
-The information gathered may be used by Trinity Mirror Regionals Limited and companies in the same group as Trinity Mirror Regionals Limited (ie companies which share the same ultimate parent company) internally, for purposes relating to your use of the Sites and the Interactive Services and for marketing activities, and may be passed to carefully selected third parties to use for marketing activities. By marketing activities, we mean the communication directly to particular individuals (by e-mail, post or telephone) of any advertising or marketing material. If you do not wish to receive marketing material from Trinity Mirror Regionals Limited, from companies in the same group as Trinity Mirror Regionals Limited or from carefully selected third parties you should tick the appropriate box on the registration form(s) or notify us by e-mail. If you subsequently decide you no longer wish to receive direct marketing/information from Trinity Mirror Regionals Limited or companies in the same group as Trinity Mirror Regionals Limited or no longer wish us to pass your information to third parties you should again notify us by e-mail.
+**Profile registration & CV data**
 
-Other than as set out elsewhere in this clause 5 in our terms & conditions your information shall not be disclosed or used by us. You hereby agree to these terms in this clause 5 by your agreement to the terms and conditions of this Agreement.
+If you create an account on Fish4jobs then the minimum data you provide is your email address, first and last name and a password. Additional data which you can choose to add by completing your jobseeker profile includes your location, years of work experience, sector specialism, qualifications, current job title, salary, desired job title, willingness to relocate, availability, eligibility to work in the UK, driving licence, as well as your CV and cover letter.
 
-**What this Privacy Policy covers**
+**IP address data**
 
-This Privacy Policy covers treatment of personally identifiable information that we collect when you are on the Fish4jobs website, register with Fish4jobs, upload a CV, set up a job alert with Fish4jobs or apply for a job via the Fish4jobs site. This policy does not apply to companies that Fish4jobs does not own or control, or to people that Fish4jobs does not employ.
+We also collect IP address data; this is a unique number assigned to each individual computer on a network.
 
-**Information collection and use**
+**Site activity data**
 
-Fish4jobs collects personally identifiable information when you register with Fish4jobs, when you use certain Fish4jobs products or services eg apply for a job via the Fish4jobs site, when you visit Fish4jobs web pages, and when you enter competitions. Fish4jobs may also receive personally identifiable information from clients.
+We collect job application data (the roles you’ve browsed and applied for), your marketing preferences, and job alert emails created.
 
-Fish4jobs automatically receives and records information on our web server logs from your browser including your Internet Protocol address. Every computer on the internet has an IP address which is a unique number by which it can be identified. Fish4jobs records IP addresses for anonymous statistical purposes, administration of our website and servers, and to improve our services.
+We collect statistical data about all our site visitors, but this data is not personally identifiable, it is aggregated data about how all site visitors interact with our website.
 
-Fish4jobs may set and access cookies on your computer. A cookie is a small amount of data, which often includes an anonymous unique identifier, which is sent to your browser from a website's computers and stored on your computer's hard drive. Each website can send its own cookies to your browser if your browser's preference settings allow it. To protect your privacy, your browser will only permit a website to access the cookies it has already sent to you. You can choose whether or not to accept cookies, however, if you do not accept Fish4jobs cookies, some of our services may not be available to you.
+**Cookies**
 
-Fish4jobs uses Google Analytics tagging to collect data on website activity. Users can opt-out of Google Analytics by installing a browser add-on from the following link: <https://tools.google.com/dlpage/gaoptout>. 
+We also collect information by using cookies. 
 
-**General information**
+For more information on cookies and how we use them, see <https://www.fish4.co.uk/staticpages/14282/cookie-notice/>
 
-Fish4jobs gathers general information about users, for example, what services users access the most and which areas of the Fish4jobs site are most frequently visited. Such data is used in the aggregate to help us to understand how the Fish4jobs site is used. We gather this information so that we can continue to improve and develop our services to benefit of our users. We may make this aggregated information available to users of the Fish4jobs site, to our clients and also to auditors eg ABCe. These statistics are anonymous and contain no personal information and cannot be used to gather such information.
+**Why is data being collected?**
 
-**Your personal information**
+Primarily we collect data to deliver a better, more relevant jobseeker experience.
 
-When you register with Fish4jobs, upload a CV, set up a job alert, enter a competition, or buy a product or service, we ask for personal information such as your name, date of birth, contact details, and other details. Once you register with Fish4jobs and accept our Terms & Conditions, you are not anonymous to us. We may use information that you provide to alert you to our own products and services. We may contact you regarding site changes or changes to the Fish4jobs products or services that you use.
+We collect profile and CV data to save you time when applying for jobs, to tailor the types of jobs we might send in email marketing campaigns (if you have opted to receive them) and so that recruiters and employers who have been granted access to our CV database are able to headhunt you for relevant jobs (if you have opted to set your profile and CV to “visible” in your profile).
 
-**Disclosure of personal information**
+The statistical, aggregated data we collect is used to inform business decisions on how to improve the jobseeker experience, as well as to share top level data to clients (e.g. total site visitors each month). 
 
-We do not disclose information about your individual visits to the Fish4jobs site, or personal information that you provide, such as your name and personal contact details unless you have given us your permission or we believe that the law requires it. We may record and share aggregated information with our clients. Additionally, if you input your information on a co-branded registration page or job application page, eg a Fish4jobs client-company registration page then the information that you give becomes the property of both Fish4jobs and the client. Fish4jobs is not responsible for the information that the client receives.
+**What is the legal basis for processing your personal information?**
 
-Fish4jobs may send personally identifiable information about you to other clients when:
+**Consent**
 
-we have your consent to share the information;  
-we need to share your information to provide the service you have requested;  
-we need to send the information to companies who work on behalf of Fish4jobs to provide a product or service to you. (Unless otherwise stated, these companies do not have the right to use the personally identifiable information we provide to them beyond what is necessary to assist us and you);we respond to subpoenas, court orders or legal process;
+We rely on your consent for all promotional messages via email, whether that is a newsletter or job alert by email. You can unsubscribe from these emails at any time, either by clicking on the “unsubscribe” link in the footer of the email, or by updating your marketing preferences within your Fish4jobs profile. If you need any assistance please contact [ecommerce@fish4.co.uk](mailto:ecommerce@fish4.co.uk).
 
-Other ways of ensuring your privacy:
+**  Legitimate interests **
 
-You may amend your personal details at any time if you wish. These options are available from the "My Profile" page of our website.
+Fish4jobs may process data when it is in our legitimate interests to do so in operating our business. These include:
 
-You may unsubscribe from any employment or promotional information that we may send to you by in any of the following ways:
+  * Personalising website content and emails (e.g. making job recommendations based on your browse history data, reminder emails to apply for jobs before they expire) to improve your job search experience.
+  * Sharing your CV with an employer or recruiter to progress or complete your job application.
 
-Using the unsubscribe function at the bottom of the email
 
-Amending your account details in "My Profile" page of our website
 
-Contacting us on: 0345 3000 406
+**Legal obligation**
 
-Contact Fish4jobs
+Fish4jobs may process your data to comply with legal and regulatory obligations (e.g. investigating fraudulent activity, working with law enforcement agencies).
 
-If you have any questions, concerns or comments regarding Fish4jobs or this website, please contact us:  
-Fish4jobs, Trinity Mirror plc, One Canada Square, Canary Wharf, London, E14 5AP.  
-Email: customerservices@fish4.co.uk  
-Tel: 0345 3000 406
+**How will it be used?**
+
+We use data for the following purposes:
+
+  * To fulfil our contractual obligations to our clients who are advertising their job vacancies through our services (i.e. share job application details and the application CV)
+  * To communicate with you about your job search, update you on the latest vacancies, and send any other necessary information relating to usage of our site (e.g. changes to our privacy policy).
+  * To personalise your job search experience on the Fish4jobs website through on-site job recommendations, site banners and through our emails.
+  * To send you marketing communications in line with your marketing preference data, including newsletters and job alerts by email.
+
+
+
+**Who will it be shared with?**
+
+If you have opted to upload your CV and set it to “visible” then recruiters and employers who have an agreement with us may view your CV and contact you about jobs which they consider match your experience. We ask recruiters to only retain your CV for as long as necessary and not to use it for purposes other than recruitment.
+
+We work with various service providers to ensure that you receive the best possible job seeker experience, and as such we may share some of your data with them for the purpose of providing our services. Any service provider who processes your data in order to deliver a relevant service to us is governed by strict contractual restrictions to ensure that they comply with data privacy and protection requirements, and this extends to them agreeing not to share your data with anyone else, and not retaining it longer than is necessary.  The service providers are as follows:
+
+**Google Analytics**
+
+Fish4jobs uses Google Analytics tagging to collect data on website activity. If you would like to opt-out of Google Analytics monitoring your behaviour on our sites please use this link (<https://tools.google.com/dlpage/gaoptout/>)
+
+**Top CV**
+
+Fish4jobs partners with Top CV to offer you a free CV review service. This is an optional service, and you can choose whether or not to share your personal email and CV with them. You can review the Top CV privacy policy here: <https://www.topcv.co.uk/privacy/>
+
+**Communicator**
+
+Fish4jobs uses Communicator email platform to send marketing emails, such as newsletters and headhunter-style emails based on the data you have provided (e.g. your location, your preferred sector or job title). Please see the Communicator Corp privacy policy here: <https://www.communicatorcorp.com/privacy-policy>
+
+**Fresh Relevance**
+
+Fish4jobs uses Fresh Relevance, a real-time marketing system, to allow us to deliver relevant jobs to candidates on both the website and through email.
+
+The data captured by Fresh Relevance is behavioural, not personal data. Sensitive data such as passwords are not stored by Fresh Relevance. The personal data is limited to email address and perhaps first and last name where this is provided. 
+
+You can view the Fresh Relevance privacy policy here: <https://www.freshrelevance.com/privacy-policy>
+
+**Multiposter Job Posting Platforms**
+
+Multiposters are job posting platform providers whose software allows recruiters and employers to post their job adverts in one place and distribute the advert to multiple job boards in one step. All application data is returned to the multiposter platform, including the CV of the applicant. 
+
+Some of our clients choose to post their vacancies using multiposter software. Currently Fish4jobs integrates with the below multiposter platforms.
+
+  * Broadbean (<https://www.broadbean.com/uk/privacy-policy/>)
+  * Logic Melon (<https://logicmelon.com/privacy>)
+  * Idibu (<https://www.idibu.com/privacy/>)
+
+
+
+Multiposters are contractually restricted from selling or disclosing personal information of candidates.
+
+**How long is it kept for?**
+
+We store data for as long as we deem it is required in order to deliver a service to you, that is both useful and still required. We base this on several assumptions relating to how long it has been since the data was provided, and how long it has been since you last interacted with us. 
+
+  * Fish4jobs will keep your profile and CV for 36 months from the date you last logged in to your profile, at which point we will email you, checking whether you would like us to keep your CV. If we don’t hear from you, we will then delete your profile within 30 days.
+
+
+
+**What we won’t do with your data**
+
+We won’t sell your data or share it with anyone who does not have a legitimate reason for requiring access to it (e.g. a service provider who adds value to your job seeker experience on Fish4jobs)
+
+We won’t supply your data to third parties unless we have your consent to do so or the law requires it.
+
+We won’t keep your data for longer than outlined in this privacy policy.
+
+**What you should consider before sharing any personal data with us**
+
+Please do not share any personal data that could be considered sensitive, whether in your personal statement, your CV, or job application cover letter. This includes data such as health, date of birth, passport number, bank details and photographs. Whilst we endeavour to ensure the security of all data we hold, it is your responsibility to provide only data which is appropriate to your job search.
+
+**Your right to access data we hold about you (Subject Access Request (SAR) / Right to be forgotten)**
+
+In accordance with EU General Data Protection Regulations (GDPR) you have the right of access to your personal data free of charge, and within one month of receipt of the request.
+
+You have visibility of a lot of that data yourself if you have created a profile on Fish4jobs, as your personal profile data, job applications, job alerts, and views by recruiters are all visible within your own “privacy dashboard”. Here you can access your marketing and privacy settings and with a one-click revoke all data and delete your account.
+
+To delete your account, please follow these steps:
+
+Sign in as a jobseeker. Click on your name on the top right of the page and select ‘Your account’ from the drop down. Click ‘Delete your account’. Enter your password on the pop up to confirm.
+
+When you delete your profile and your CV from Fish4jobs, we do not keep a copy of your data. We are not responsible for how recruiters and employers who have already received or downloaded your CV store your personal details and your CV.
+
+If you would still like to request a Subject Access Request (SAR)  then please send an email to [datarequests@reachplc.com](mailto:datarequests@reachplc.com).
+
+**What are your rights under data protection laws?**
+
+Here is a list of the rights that all individuals have under data protection laws. They don’t apply in all circumstances. If you wish to use any of them, we’ll explain at that time if they are engaged or not. The right of data portability is only relevant from May 2018.
+
+The right to be informed about the processing of your personal information
+
+The right to have your personal information corrected if it is inaccurate and to have incomplete personal information completed
+
+The right to object to processing of your personal information
+
+The right to restrict processing of your personal information
+
+The right to have your personal information erased (the “right to be forgotten”)
+
+The right to request access to your personal information and to obtain information about how we process it
+
+The right to move, copy or transfer your personal information (“data portability”)
+
+**Rights in relation to automated decision making which has a legal effect or otherwise significantly affects you**
+
+You have the right to complain to the Information Commissioner’s Office which enforces data protection laws: https://ico.org.uk/. You can contact us using the details below.
+
+**Your right to object**
+
+You have the right to object to certain purposes for processing, in particular to data processed for direct marketing purposes and to data processed for certain reasons based on our legitimate interests. You can contact us by going to the Contact Us section of our website to exercise these rights.
+
+**Do you have to provide your personal information to us?**
+
+We’re unable to provide you with our services if you do not provide certain information to us. In cases where providing some personal information is optional, we’ll make this clear.
+
+**Policy Amendments**
+
+We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes. We may also notify you of changes to our privacy policy by email.
