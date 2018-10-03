@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the didyouknowblog.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607002348id_/http%3A//didyouknowblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the didyouknowblog.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003184947id_/http%3A//didyouknowblog.com/privacy-policy) for the most accurate reproduction.*
 
 # did you know? - © Did You Know? 2015 - Privacy Policy and Copyright
 
@@ -24,7 +24,7 @@ This website and its content is copyright of Did You Know? All rights reserved.�
  **DoubleClick DART Cookie**  
 \- Google, as a third party vendor, uses cookies to serve ads on [www.didyouknowblog.com](http://www.didyouknowblog.com/).  
 \- Google’s use of the DART cookie enables it to serve ads to users based on their visit to [www.didyouknowblog.com](http://www.didyouknowblog.com/) and other sites on the Internet.  
-\- Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [http://www.google.com/privacy_ads.html ](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.google.com%2Fprivacy_ads.html&t=YzBkNDcxYmNkMzRkOTRmY2JhMTUzZmM4NmM0NWE4ZTFiYTdlY2U1NCxUbU4zdWpESg%3D%3D&p=)
+\- Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [http://www.google.com/privacy_ads.html ](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.google.com%2Fprivacy_ads.html&t=YzBkNDcxYmNkMzRkOTRmY2JhMTUzZmM4NmM0NWE4ZTFiYTdlY2U1NCxUbU4zdWpESg%3D%3D&p=&m=0)
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include: Google Adsense
 
