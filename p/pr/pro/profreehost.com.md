@@ -1,23 +1,48 @@
-> *The following text is extracted and transformed from the profreehost.com privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024201424id_/http%3A//www.profreehost.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profreehost.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003165429id_/https%3A//profreehost.com/privacy) for the most accurate reproduction.*
 
-# Free cPanel Hosting - profreehost.com
+# Privacy Policy - ProFreeHost
 
-### Privacy Policy
+We respect our clients' and visitors' privacy and recognize their rights.
 
-By using the Site, you signify your assent to our privacy policy. If you do not agree with any of the terms of this policy, please do not use our Site. We reserve the right to change this policy at any time, and will post any changes to this policy when they go into effect.
+ProFreeHost has established this Privacy Policy in order to explain what kind of information we gather on visitors and for what and in which way we process that information.
 
-Ad-Serving  
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
+  
 
-* Google, as a third party vendor, uses cookies to serve ads on our site.  
-* Google's use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads based on your visit to our sites and other sites on the Internet.  
-* You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-Information That We Collect and What We Do With the Collected Information  
-There are situations when using our Web site when we may need personal information from you. By "personal information" we mean information that is uniquely identified to you, such as your email address, IP address, password and user name. We may disclose in aggregate form our statistical analyses or demographics of users to third parties, such as advertisers or potential advertisers. Those disclosures do not include personal information. profreehost.com might use information collected in connection with your participation in interactive activities, including account registration, for its own internal purposes, such as (by way of illustration) to respond to inquiries, to enforce the Terms of Use, or to defend itself in the event of litigation. We use your IP address to help diagnose problems with our server, and to administer our Web site. We also can use the IP address to verify the identity of perpetrators of illegal activity.
+### Purpose of Privacy Policy
 
-Other Disclosures to Third Parties - subpoenas, court and government orders, our attorneys.  
-profreehost.com will not distribute or sell any of your personal information to third parties. However, by using this site's services, you assume the risk that a court or government agency may order profreehost.com to disclose your submission and/or personally identifying information about you, or that a litigant, a court, a grand jury, or government agency may subpoena that information. We do not disclose the identities of ours users unless we are legally required to do so. If a governmental agency (for example, law enforcement agencies, US Attorneys' offices or similar governmental agencies) sends us a subpoena, we will comply with it. We will attempt to notify you of such a subpoena or other legal process by sending a notice by electronic mail to the most recent e-mail address you have provided to us. The notice will include basic information concerning the subpoena, court order, or legal process (i.e., name of lawsuit, case number, place of filing, party issuing subpoena, the court where the subpoena was issued, contact information, deadline by which we plan to comply with the process, etc.). profreehost.com may need to consult its own attorneys. In doing so, profreehost.com may disclose personal information to its attorneys.
+This Privacy Policy governs the manners in which ProFreeHost collects, processes, maintains, discloses and retains the information collected from users.
 
-Cookies  
-There is a technology called "cookies" which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. Some profreehost.com pages use cookies so that we can better serve you when you visit and then return to our site. We use cookies to deliver information specific to your interests and to save your password so you don't have to re-enter it each time you visit certain areas of our Web site.
+We are committed to protecting the information entrusted to us.
+
+  
+
+
+### What information do we collect?
+
+ProFreeHost collects personally identifiable information from Users through online forms for creating related accounts and establishing the services to the concerned person.
+
+We may also record the behaviours of the websites and individual accounts for example, by tracking the number of unique page-views. We make the use of cookies to track how Users use ProFreeHost.
+
+  
+
+
+### How do we use collected information?
+
+We may use the collected information to contact the concerned client about the provision of services offered by ProFreeHost and its trusted affiliates, partners and otherwise to enhance Users' own experience.
+
+  
+
+
+### How do we protect information?
+
+We use certain security measures to ensure that your information is kept in safe database. ProFreeHost, at any time, will not disclose the obtained information to unrelated persons or will never allow the use of such information in a way that may cause harm to the data-subject.
+
+Moreover, ProFreeHost database will never be sold out to any entity for the purpose of marketing or mailing lists.
+
+  
+
+
+### Cookies Policy
+
+We use Google Analytics and Google AdSense on our sites to keep our services free of cost and to gain insight on our customer base. We allow them to place cookies in your browser. You can get more information about these services here: https://www.google.com/intl/en/policies/privacy/partners/
