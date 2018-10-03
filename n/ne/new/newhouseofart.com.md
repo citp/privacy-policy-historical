@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newhouseofart.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026143009id_/http%3A//www.newhouseofart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newhouseofart.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004011027id_/http%3A//www.newhouseofart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Newhouseofart.Com Privacy Policy | Dream House Architecture Design, Home Interior & Furniture Design
 
