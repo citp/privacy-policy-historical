@@ -1,67 +1,281 @@
-> *The following text is extracted and transformed from the harrypottertheplay.com privacy policy that was archived on 2017-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170816043641id_/https%3A//www.harrypottertheplay.com/uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrypottertheplay.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003170824id_/https%3A//www.harrypottertheplay.com/uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Harry Potter and the Cursed Child London
 
-### 1 PRIVACY AND YOUR PERSONAL DATA
+### **1\. PURPOSE OF THIS NOTICE**
 
-1.1 AKA Promotions Limited (“AKA”, “us”, “we” or “our” for short) is committed to protecting the privacy of our users. This Privacy Policy (“Policy”) is intended to inform you how we gather, define, and utilise your Information (as defined below). This Policy is intended to assist you in making informed decisions when using the website, http://www.harrypottertheplaylondon.com (the “Website”). Please take a minute to read and understand the Policy.
+This privacy notice explains our approach to any personal information that you might supply to us (or that might be collected from you) in connection with your use of the AKA Service and sets out your rights in respect of AKA’s processing of your personal information. For more information, see below.
 
-1.2 This Policy, and our separate Cookies Policy are incorporated into and form part of our Website Terms of Use.
+_This privacy notice will inform you how you can verify which of your personal information is collected by us through the AKA Service and how you can request that we delete, update or transfer it._
 
-1.3 All your Information (as defined below) shall be held and used in accordance with the Data Protection Act 1998 (the “Act”) where applicable. If you want to know what Information we collect and hold about you, please write to us at: webteam@akauk.com.
+_This privacy notice is intended to assist you in making informed decisions when using the AKA Service. Please take a moment to read and understand it. Please note that it should be read in conjunction with our  [Terms of Use](https://www.harrypottertheplay.com/uk/terms-and-conditions/)_ _._
 
-1.4 AKA is the data controller of your Information for the purposes of the Act and is a company registered under number 05492853 in England whose registered office is at 115 Shaftesbury Avenue, Cambridge Circus, London, WC2H 8AF. AKA shall ensure that your Information is processed and held in accordance with the Act.
+_Please also note that this privacy notice only applies to the use of personal information collected by us from your use of the AKA Service or during your communications with us. It does not apply to personal information collected during your communications with third parties._
 
-### 2 WHAT INFORMATION DO WE COLLECT AND WHY?
+### **2\. WHO ARE WE AND WHAT DO WE DO?**
 
-2.1 When you visit the Website you may provide us with your name; email address; (together, the “Information”). You may provide us with this Information in a number of ways:
+The AKA Service is operated by the AKA Group Limited (“ **AKA** ”) which is a global entertainment agency. AKA is the data processor, contacted to manage the data for Harry Potter and the Cursed Child, on behalf of the data controllers, the Producer, HP West End. For more information, see below.
 
-(a) by supplying us with the Information listed above, through subscribing to receive news, promotions, information or updates from us (our “online services”); [and]
+_AKA is the data  processor responsible for your personal information. AKA is registered at the UK Information Commissioner’s Office with registration number: Z4564914_
 
-(b) if you choose to correspond with us by email, we may retain the content of your email messages together with your email address and our responses;
+_AKA is an English company with registered company number: 5492853 and whose principal address is 115 Shaftsbury Avenue, Cambridge Circus, London, WC2H 8AF._
 
-2.2 We may also collect information about your computer, including where available your IP address, operating system and browser type and the geographical location of your computer, for system administration. This is statistical data about browsing actions and patterns and does not identify you as an individual.
+### **3\. HOW TO CONTACT US?**
 
-### 3 HOW DO WE USE THE INFORMATION THAT YOU PROVIDE TO US?
+If you have any questions about this privacy notice or want to exercise your rights, please contact us by:
 
-3.1 We use your Information in the following ways:
+_•  sending an email to webteam@akauk.com;_
 
-(a) to ensure that content from the Website is presented in the most effective manner for you and your computer;
+_•  writing to us at AKA Group Limited, 115 Shaftesbury Avenue, Cambridge Circus, London, WC2H 8AF._
 
-(b) to notify you about any changes to our service;
+### **4\. WHAT PERSONAL INFORMATION DO WE COLLECT AND HOW DO WE COLLECT IT?**
 
-(c) in accordance with your authorisation as expressed when you subscribe to any online service provided by us or when you correspond with us.
+Our primary goal in collecting personal information from you is to give you an enjoyable experience while allowing us to provide services and features that most likely meet your needs. In order to do so personal information may be collected from you in the following ways:
 
-### 3.2 In limited circumstances we may pass your Information to other third party organisations:
+  * Information you voluntarily provide to us. For more information, see below.
 
-(a) if we buy or sell any business or assets in which case we may disclose your Information to the seller or buyer of such business or assets;
 
-(b) if we are under a duty to disclose or share your Information to comply with any legal obligation or in order to enforce or apply our terms and conditions and other agreements or protect the rights, property, or safety of our customers, or others. This includes exchanging information with other companies and organisations for fraud protection and credit risk reduction; and
 
-(c) with your consent (for example when you subscribe to receive updates from our third party partners).
+_We collect and maintain personal information that you voluntarily submit to us  _ _during your use of the AKA Service._
 
-### 4 COOKIES
+_If you contact us, we may collect additional information from you such as a telephone number or email address._
 
-4.1 Similar to other commercial websites, the Website uses a standard technology called “cookies” and web server logs to collect information about how the Website is being used. Please see our Cookies Policy for further details about the types of cookies we use and your rights in respect of our use of cookies.
+  * _Information we collect through your use of AKA. For more information, see below._
 
-### 5 HOW CAN YOU ACCESS AND CORRECT YOUR INFORMATION?
 
-5.1 You may request access to all your Information that we collect online and maintain in our database by emailing webteam@akauk.com. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
-### 6 YOUR CONSENT
+_We may collect through our use of cookies, pixels, beacons, log files and other technologies personal information regarding your mobile device, computer hardware and software used to access the AKA Service. This may include the following:_
 
-6.1 By using the Website you consent to our collection and use of your Information as described in this Policy. If we change our Policy and/or procedures, we will post those changes on the Website to keep you aware of what Information we collect, how we use it and under what circumstances we may disclose it.
+_•  IP address of device(s) used;_
 
-6.2 You have the right to ask us not to process for marketing purposes Information we collect from you. You can exercise your right to prevent such processing of your Information by ticking the relevant box(es) on the form(s) we use to collect your Information. You can also exercise the right at any time by contacting us at webteam@akauk.com.
+_•  browser type;_
 
-### 7 WHERE WE STORE YOUR INFORMATION
+_•  operating system and device type;_
 
-7.1 The Information that we collect from you may be transferred to and stored at a destination outside the European Economic Area. The Information may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. By submitting Information to us, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your Information is treated securely and in accordance with this Policy.
+_•  approximate location (e.g. London);_
 
-### 8 SECURITY
+_•  access times and dates; and_
 
-8.1 We maintain the highest standards of security; however the transmission of information via the internet is not completely secure. Any transmission of Information from you to us is at your own risk. Once we have received your Information, we will use strict procedures and security features to prevent unauthorised access.
+_•  referring website addresses._
 
-### 9 THIRD PARTY SITES
+_We may also collect personal information regarding your use of and activity on the AKA Service._
 
-9.1 Please remember that when you use a link to go from the Website to another website, our Policy no longer applies to your internet browsing. Your browsing and interaction on any other website, including websites which are linked to ours is subject to that website’s own rules and policies. Please see our Terms of Use for more information on links to third party websites.
+_This personal information allows us to deliver more helpful information, services and tools. Please see use of cookies  _ _for further information._
+
+### **5\. HOW DO WE USE YOUR PERSONAL INFORMATION?**
+
+We collect and use your personal information to operate the AKA Service efficiently and to deliver you the very best service. In particular, we may use your personal information for the following purposes:
+
+  * Provision of the AKA Service. For more information, see below.
+
+
+
+_We shall use your personal information to provide the AKA Service to you._
+
+_What is our legal basis?_
+
+_It is necessary for us to use your personal information to provide the AKA Service to you and perform our obligations in accordance with any contract that we may have with you. It is also in our legitimate interest to use your personal information in such a way to ensure that we provide the very best service we can._
+
+  * Service administration. For more information, see below.
+
+
+
+We may use your personal information to:
+
+• develop and improve the AKA Service;
+
+• send you administrative e-mails about the AKA Service; and
+
+• contact you to answer any queries you may have.
+
+_What is our legal basis?_
+
+_It is in our legitimate interest to use your personal information in such a way to ensure that we provide the very best service we can._
+
+  * User Data Analysis. For more information, see below.
+
+
+
+_We may use your personal information on an anonymised basis to analyse, benchmark and conduct research on users and their interactions with the AKA Service and AKA._
+
+_What is our legal basis?_
+
+_Where your personal information is completely anonymised, we do not require a legal basis as the information will no longer constitute personal information. However, where your personal information is in a pseudonymised  _ _form, it is in our legitimate interest to continually evaluate that personal information to ensure we are aware of market trends and ensure that the services we provide are relevant to you._
+
+  * Internal record keeping and legal compliance. For more information, see below.
+
+
+
+_We may use your personal information for internal record keeping purposes and to check you comply with the Terms of Use._
+
+_What is our legal basis?_
+
+_It is in our legitimate interest to ensure that we keep our records up-to-date in order to monitor who uses the AKA Service, to comply with our legal obligations and to monitor your compliance with the Terms of Use._
+
+  * Marketing by us. For more information, see below.
+
+
+
+_Where you consent, we may use your personal information to contact you by e-mail about our products and/or services._
+
+_What is our legal basis? Your consent._
+
+  * Sharing information with third party processors. For more information, see below.
+
+
+
+_We may share your personal information with third party processors in order to provide the AKA Service and associated products and services to you._
+
+_What is our legal basis?_
+
+_It is in our legitimate interest to share your personal information in such a way to ensure that we provide the best service we can._
+
+  * Sharing information with professional advisors, governmental authorities & potential purchasers. For more information, see below.
+
+
+
+_We may share your personal information with professional advisers or governmental or regulatory authorities:_
+
+• to enable them to process your personal information on our behalf in a manner consistent with this privacy notice;
+
+• to comply with our legal obligations;
+
+• to enforce our legal rights; or
+
+• protect rights of third parties.
+
+_Your personal information may also be shared with prospective buyers if we go through a business transition such as a merger, acquisition by another company, or sale of all or a portion of our assets._
+
+_What is our legal basis?_
+
+_It is in our legitimate interest to share your personal information with such third parties to enable them to process your information on our behalf, to comply with and/or enforce our legal rights and obligations, to protect the rights of third parties and to facilitate business transitions._
+
+Any other purposes for which we wish to use your personal information will be notified to you from time to time including the legal basis of such use.
+
+### **6\. HOW DO WE OBTAIN YOUR CONSENT?**
+
+Where use of your personal information by us requires your consent, you can provide such consent:
+
+• at the time we collect your personal information following the instructions provided; or
+
+• by informing AKA by e-mail using the contact details set out in this privacy notice.
+
+### **7\. CHILDREN**
+
+You are required to be at least 18 years old to use the AKA Service so we do not intentionally collect personal information from anyone under 18, and no one under 18 should attempt to submit any personal information to AKA. Should we discover that any such personal information has been delivered to any of the sites, we will remove that personal information as soon as possible.
+
+### **8\. USE OF COOKIES**
+
+The AKA Service may use certain cookies, pixels, beacons, log files and other technologies of which you should be aware. Please see our[ Cookie Policy](https://www.harrypottertheplay.com/uk/cookies-policy/) to find out more about the cookies we use and how to manage and delete cookies.
+
+### **9\. THIRD PARTY LINKS AND SERVICES**
+
+The AKA Service may contain links to third party websites and services. Please remember that when you use a link to go from AKA to another website or you request a service from a third party, this privacy notice no longer applies. For more information, see below.
+
+_Your browsing and interaction on any other website, or your dealings with any other third party service provider, is subject to that website’s or third party service provider’s own rules and policies._
+
+_We do not monitor, control, or endorse the privacy practices of any third parties._
+
+_We encourage you to become familiar with the privacy practices of every website you visit or third party service provider that you deal with and to contact them if you have any questions about their respective privacy policies and practices._
+
+_This privacy notice applies solely to personal information collected by us through the AKA Service and does not apply to these third party websites and third party service providers._
+
+_The AKA Service may also contain advertisements for, and/or the opportunity for you to purchase products or services from third parties. If you would like more information about this practice and to know your choices about not having this personal information used by these companies, click here:  _[ _https://www.advertising.com/Privacy.html_](https://www.advertising.com/Privacy.html)
+
+### **10\. TRANSFERS OUTSIDE THE EEA**
+
+Although our offices and servers are based within the European Economic Area, in certain circumstances we may transfer your personal information, for the purposes listed above, to our affiliates or other third parties that may be located in countries outside the European Economic Area, whose laws are not recognised by the EU Commission as providing an adequate level of protection to personal information.
+
+### **11\. HOW LONG DO WE KEEP YOUR PERSONAL INFORMATION FOR?**
+
+We keep your personal information only for as long as necessary to fulfil the purpose it was collected for, where we need to in relation to proving legal relationships or to comply with any of our legal obligations.
+
+### **12\. CONFIDENTIALITY AND SECURITY OF YOUR PERSONAL INFORMATION**
+
+We are committed to keeping the personal information you provide us secure and we will take reasonable precautions to protect your personal information from loss, misuse or alteration. For more information, see below.
+
+_We have implemented information security policies, rules and technical measures to protect the personal information that we have under our control from:_
+
+_•  unauthorised access;_
+
+_•  improper use or disclosure;_
+
+_•  unauthorised modification; and_
+
+_•  unlawful destruction or accidental loss._
+
+_All our employees and data processors (i.e. those who process your personal information on our behalf, for the purposes listed above), who have access to, and are associated with the processing of personal information, are obliged to respect the confidentiality of the personal information of all users of the AKA Service._
+
+### **13\. HOW TO ACCESS YOUR INFORMATION AND YOUR OTHER RIGHTS?**
+
+You have the following rights in relation to the personal information we hold about you:
+
+  * Your right of access. For more information, see below.
+
+
+
+_If you ask us, we’ll confirm whether we’re processing your personal information and, if so, provide you with a copy of that personal information (along with certain other details). If you require additional copies, we may need to charge a reasonable fee._
+
+  * Your right to rectification. For more information, see below.
+
+
+
+_If the personal information we hold about you is inaccurate or incomplete, you’re entitled to have it rectified. If we’ve shared your personal information with others, we’ll let them know about the rectification where possible. If you ask us, where possible and lawful to do so, we’ll also tell you who we’ve shared your personal information with so that you can contact them directly._
+
+  * Your right to erasure. For more information, see below.
+
+
+
+_You can ask us to delete or remove your personal information in some circumstances such as where we no longer need it or you withdraw your consent (where applicable). If we’ve shared your personal information with others, we’ll let them know about the erasure where possible. If you ask us, where possible and lawful to do so, we’ll also tell you who we’ve shared your personal information with so that you can contact them directly._
+
+  * Your right to restrict processing. For more information, see below.
+
+
+
+_You can ask us to ‘block’ or suppress the processing of your personal information in certain circumstances such as where you contest the accuracy of that personal information or object to us processing it. It won’t stop us from storing your personal information though. We’ll tell you before we lift any restriction. If we’ve shared your personal information with others, we’ll let them know about the restriction where possible. If you ask us, where possible and lawful to do so, we’ll also tell you who we’ve shared your personal information with so that you can contact them directly._
+
+  * Your right to data portability. For more information, see below.
+
+
+
+_With effect from 25 May 2018, you have the right, in certain circumstances, to obtain personal information you’ve provided us with (in a structured, commonly used and machine readable format) and to reuse it elsewhere._
+
+  * Your right to object. For more information, see below.
+
+
+
+_You can ask us to stop processing your personal information, and we will do so, if we’re:_
+
+_•  relying on our own or someone else’s legitimate interests to process your personal information except if we can demonstrate compelling legal grounds for the processing;_
+
+_•  processing your personal information for direct marketing; or_
+
+_•  processing your personal information for research unless such processing is necessary for the performance of a task carried out in the public interest._
+
+  * Your rights in relation to automated decision-making and profiling. For more information, see below.
+
+
+
+_You have the right not to be subject to a decision when it’s based on automatic processing, including profiling, and it produces a legal effect or similarly significantly affects you unless such profiling in necessary for entering into, or the performance of, a contract between you and AKA._
+
+  * Your right to withdraw consent. For more information, see below.
+
+
+
+_If we rely on your consent (or explicit consent) as our legal basis for processing your personal information, you have the right to withdraw that consent at any time._
+
+  * Your right to lodge a complaint with the supervisory authority. For more information, see below.
+
+
+
+_If you have a concern about any aspect of our privacy practices, including the way we’ve handled your personal information, you can report it to the UK Information Commissioner’s Office (ICO). You can find details about how to do this on the ICO website at https://ico.org.uk/concerns/ or by calling their helpline on 0303 123 1113._
+
+To exercise your legal rights please [notify us](mailto:webteam@akauk.com) using the contact details provided in section 3 of this privacy notice.
+
+### **14\. CHANGE TO THIS PRIVACY NOTICE**
+
+We may make changes to this privacy notice from time to time. For more information, see below.
+
+_To ensure that you are always aware of how we use your personal information we will update this privacy notice from time to time to reflect any changes to our use of your personal information. We may also make changes as required to comply with changes in applicable law or regulatory requirements. We may notify you by e-mail of any significant changes. However, we encourage you to review this privacy notice periodically to be informed of how AKA uses your personal information._
+
+Last Updated 3rd March 2018
