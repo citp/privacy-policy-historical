@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the joybird.com privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317010408id_/https%3A//joybird.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joybird.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003163936id_/https%3A//joybird.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Joybird
 
-Joybird Inc. (“Joybird,” “we,” “us,” or “our”) know that our visitors care about how your personal information is used and shared. We take your privacy very seriously and are committed to protecting the privacy of our visitors. Our privacy policy explains how information is collected, used and disclosed by Joybird with respect to your access and use of Joybird’s services, whether through our website (“Site” located at [www.joybird.com](https://www.joybird.com/)), our applications for mobile devices, or any other services we offer from time to time including other linked pages (collectively, the “Network”), you agree to the practices and policies set forth in this Privacy Policy, and you hereby acknowledge and consent to our collection, use, and sharing of your information as described in this Privacy Policy.
+Stitch Industries Inc. (“Joybird,” “we,” “us,” or “our”) know that our visitors care about how your personal information is used and shared. We take your privacy very seriously and are committed to protecting the privacy of our visitors. Our privacy policy explains how information is collected, used and disclosed by Joybird with respect to your access and use of Joybird’s services, whether through our website (“Site” located at [joybird.com](https://joybird.com/)), our applications for mobile devices, or any other services we offer from time to time including other linked pages (collectively, the “Network”), you agree to the practices and policies set forth in this Privacy Policy, and you hereby acknowledge and consent to our collection, use, and sharing of your information as described in this Privacy Policy.
 
 ###  **YOUR PRIVACY IS IMPORTANT TO JOYBIRD**
 
   
-Joybird respects and upholds the confidentiality of information and the privacy of individuals and is committed to user, visitor and customer privacy to the Joybird web site at [www.joybird.com](https://www.joybird.com/). Because we gather important information from our users, visitors and customers (collectively "Customers" or "you" or "your"), we have established this Privacy Policy as a means to communicate our information gathering and dissemination practices. By accessing this Website, you acknowledge and agree to this Privacy Policy and also agree to the Terms of Use of the Website located at <https://www.joybird.com/terms-of-use/> ("Terms of Use Agreement").
+Joybird respects and upholds the confidentiality of information and the privacy of individuals and is committed to user, visitor and customer privacy to the Joybird web site at [www.joybird.com](https://joybird.com/). Because we gather important information from our users, visitors and customers (collectively "Customers" or "you" or "your"), we have established this Privacy Policy as a means to communicate our information gathering and dissemination practices. By accessing this Website, you acknowledge and agree to this Privacy Policy and also agree to the Terms of Use of the Website located at <https://joybird.com/terms-of-use/> ("Terms of Use Agreement").
 
 ###  **INFORMATION WE COLLECT**
 
@@ -18,7 +18,7 @@ You may also have the ability to update or remove your Personal Information by l
 
 Information collected is used to provide and maintain the Website and is used at Joybird's discretion. This Information can also be used to contact you to further discuss interest in our company, the services we provide, and to send information regarding Joybird, its partners, its products and other activities such as promotions and events. You may be invited to receive email correspondence by providing an email address. From time to time we might establish a business relationship with other persons or entities whom we believe trustworthy and whom we have asked to confirm that their privacy policies are consistent with ours. In such cases we might rent, exchange, share and/or cross-reference information, including contact information about you that will enable such persons or entities to contact you regarding products and services that may be of interest to you.
 
-Joybird may also email (or send via other methods) information regarding updates to the Website, newsletters, advertisements, or other correspondence. You will have an opportunity to unsubscribe to any emails or mailings by clicking on an "unsubscribe" hyperlink contained in such promotional emails or by emailing us at <https://www.joybird.com/contact-us/>. Despite unsubscribing from such list, Joybird may send confirmation emails if you order online and may need to contact you by phone, email or regular mail with questions or issues concerning your order. Any opt-out by you is not deemed valid until processed by Joybird. Joybird shall not be liable for problems arising from the opt-out procedure.
+Joybird may also email (or send via other methods) information regarding updates to the Website, newsletters, advertisements, or other correspondence. You will have an opportunity to unsubscribe to any emails or mailings by clicking on an "unsubscribe" hyperlink contained in such promotional emails or by emailing us at <https://joybird.com/contact-us/>. Despite unsubscribing from such list, Joybird may send confirmation emails if you order online and may need to contact you by phone, email or regular mail with questions or issues concerning your order. Any opt-out by you is not deemed valid until processed by Joybird. Joybird shall not be liable for problems arising from the opt-out procedure.
 
 We acknowledge that you have the right to control how your Personal Information is collected and used.
 
@@ -93,7 +93,7 @@ As far as permissible under law, Joybird accepts no responsibility for the unaut
 
 **THIRD PARTY ADVERTISING AND ANALYTICS PARTNERS**
 
-We may use third party advertising and analytics services on our behalf to deliver interest-based advertising. Services may use cookies, web beacons, and other online identification tools to collect information about your activities in order to, among other things, better display tailored content relevant to your interests and analyze the effectiveness of our marketing efforts. For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices) and [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+We may use third party advertising and analytics services on our behalf to deliver interest-based advertising. Services may use cookies, web beacons, and other online identification tools to collect information about your activities in order to, among other things, better display tailored content relevant to your interests and analyze the effectiveness of our marketing efforts. For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](http://aboutads.info/choices) and [www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp).
 
 As far as permissible under law, Joybird accepts no responsibility for the unauthorized access of Personal Information held by Joybird.
 
@@ -105,7 +105,7 @@ The Children's Online Privacy Protection Act imposes certain requirements on web
 ###  **CHANGES TO OUR PRIVACY STATEMENT**
 
   
-From time to time, it may be necessary for us to review and revise our privacy statement. We reserve the right to change our privacy statement at any time and to notify you by publishing an updated version of the policy on the Joybird website at [www.joybird.com](https://www.joybird.com/).
+From time to time, it may be necessary for us to review and revise our privacy statement. We reserve the right to change our privacy statement at any time and to notify you by publishing an updated version of the policy on the Joybird website at [www.joybird.com](https://joybird.com/).
 
 ###  **HOW TO CONTACT US IF YOU HAVE A PROBLEM OR COMPLAIN**
 
@@ -115,7 +115,7 @@ If you have any queries in relation to this policy or its administration or if y
 ###  **ADDITIONAL INFORMATION**
 
   
-This Policy is part of the [Terms of Use](https://www.joybird.com/terms-of-use/) of Joybird’s services and any use of the Network is governed by those Terms of Use.
+This Policy is part of the [Terms of Use](https://joybird.com/terms-of-use/) of Joybird’s services and any use of the Network is governed by those Terms of Use.
 
 ###  **EFFECTIVE DATE:**
 
