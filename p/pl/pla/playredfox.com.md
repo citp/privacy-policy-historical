@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playredfox.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616173604id_/https%3A//www.playredfox.com/agreement/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playredfox.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003123449id_/https%3A//www.playredfox.com/agreement/privacy) for the most accurate reproduction.*
 
 # RedFox Games | Play Free-to-Play Online Games
 
