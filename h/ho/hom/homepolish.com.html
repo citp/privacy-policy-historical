@@ -1,682 +1,942 @@
-<!--The following is the downloaded HTML source of the homepolish.com privacy policy that was archived on 2017-07-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170707233912id_/https%3A//www.homepolish.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the homepolish.com privacy policy that was archived on 2018-10-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181004002333id_/https%3A//www.homepolish.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
-<script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/u1oneMHbBVZBLwFZuVdJxxAlH2uQaDR3/analytics.min.js"></script><script crossorigin="" src="https://d37gvrvc0wt4s1.cloudfront.net/js/v1.9/rollbar.min.js"></script><script type="text/javascript">var _rollbarConfig = {"accessToken":"f2e19ea23c3e40069723d78cd26cf4ce","captureUncaught":true,"payload":{"environment":"production"}};</script>
-<script type="text/javascript">!function(r){function e(t){if(o[t])return o[t].exports;var n=o[t]={exports:{},id:t,loaded:!1};return r[t].call(n.exports,n,n.exports,e),n.loaded=!0,n.exports}var o={};return e.m=r,e.c=o,e.p="",e(0)}([function(r,e,o){"use strict";var t=o(1).Rollbar,n=o(2);_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||"https://d37gvrvc0wt4s1.cloudfront.net/js/v1.9/rollbar.min.js";var a=t.init(window,_rollbarConfig),i=n(a,_rollbarConfig);a.loadFull(window,document,!_rollbarConfig.async,_rollbarConfig,i)},function(r,e){"use strict";function o(r){return function(){try{return r.apply(this,arguments)}catch(e){try{console.error("[Rollbar]: Internal error",e)}catch(o){}}}}function t(r,e,o){window._rollbarWrappedError&&(o[4]||(o[4]=window._rollbarWrappedError),o[5]||(o[5]=window._rollbarWrappedError._rollbarContext),window._rollbarWrappedError=null),r.uncaughtError.apply(r,o),e&&e.apply(window,o)}function n(r){var e=function(){var e=Array.prototype.slice.call(arguments,0);t(r,r._rollbarOldOnError,e)};return e.belongsToShim=!0,e}function a(r){this.shimId=++c,this.notifier=null,this.parentShim=r,this._rollbarOldOnError=null}function i(r){var e=a;return o(function(){if(this.notifier)return this.notifier[r].apply(this.notifier,arguments);var o=this,t="scope"===r;t&&(o=new e(this));var n=Array.prototype.slice.call(arguments,0),a={shim:o,method:r,args:n,ts:new Date};return window._rollbarShimQueue.push(a),t?o:void 0})}function l(r,e){if(e.hasOwnProperty&&e.hasOwnProperty("addEventListener")){var o=e.addEventListener;e.addEventListener=function(e,t,n){o.call(this,e,r.wrap(t),n)};var t=e.removeEventListener;e.removeEventListener=function(r,e,o){t.call(this,r,e&&e._wrapped?e._wrapped:e,o)}}}var c=0;a.init=function(r,e){var t=e.globalAlias||"Rollbar";if("object"==typeof r[t])return r[t];r._rollbarShimQueue=[],r._rollbarWrappedError=null,e=e||{};var i=new a;return o(function(){if(i.configure(e),e.captureUncaught){i._rollbarOldOnError=r.onerror,r.onerror=n(i);var o,a,c="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(o=0;o<c.length;++o)a=c[o],r[a]&&r[a].prototype&&l(i,r[a].prototype)}return e.captureUnhandledRejections&&(i._unhandledRejectionHandler=function(r){var e=r.reason,o=r.promise,t=r.detail;!e&&t&&(e=t.reason,o=t.promise),i.unhandledRejection(e,o)},r.addEventListener("unhandledrejection",i._unhandledRejectionHandler)),r[t]=i,i})()},a.prototype.loadFull=function(r,e,t,n,a){var i=function(){var e;if(void 0===r._rollbarPayloadQueue){var o,t,n,i;for(e=new Error("rollbar.js did not load");o=r._rollbarShimQueue.shift();)for(n=o.args,i=0;i<n.length;++i)if(t=n[i],"function"==typeof t){t(e);break}}"function"==typeof a&&a(e)},l=!1,c=e.createElement("script"),d=e.getElementsByTagName("script")[0],p=d.parentNode;c.crossOrigin="",c.src=n.rollbarJsUrl,c.async=!t,c.onload=c.onreadystatechange=o(function(){if(!(l||this.readyState&&"loaded"!==this.readyState&&"complete"!==this.readyState)){c.onload=c.onreadystatechange=null;try{p.removeChild(c)}catch(r){}l=!0,i()}}),p.insertBefore(c,d)},a.prototype.wrap=function(r,e){try{var o;if(o="function"==typeof e?e:function(){return e||{}},"function"!=typeof r)return r;if(r._isWrap)return r;if(!r._wrapped){r._wrapped=function(){try{return r.apply(this,arguments)}catch(e){throw e._rollbarContext=o()||{},e._rollbarContext._wrappedSource=r.toString(),window._rollbarWrappedError=e,e}},r._wrapped._isWrap=!0;for(var t in r)r.hasOwnProperty(t)&&(r._wrapped[t]=r[t])}return r._wrapped}catch(n){return r}};for(var d="log,debug,info,warn,warning,error,critical,global,configure,scope,uncaughtError,unhandledRejection".split(","),p=0;p<d.length;++p)a.prototype[d[p]]=i(d[p]);r.exports={Rollbar:a,_rollbarWindowOnError:t}},function(r,e){"use strict";r.exports=function(r,e){return function(o){if(!o&&!window._rollbarInitialized){var t=window.RollbarNotifier,n=e||{},a=n.globalAlias||"Rollbar",i=window.Rollbar.init(n,r);i._processShimQueue(window._rollbarShimQueue||[]),window[a]=i,window._rollbarInitialized=!0,t.processPayloads()}}}}]);</script>
-<title>
-Homepolish
-</title>
-<link rel="stylesheet" media="all" href="https://www.homepolish.com/assets/svelte-593fec06c0cd27513c6a6d787537e89e6c2d43365c03967d05e7c7d9e8f45d86.css">
-<meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="KCH4lmLaY4j6jA+Mrfi4YF/jYxhUqZLxjUXs4M2LVMMKUFwQ2I0CU0ltBMbFKl2rrYuefWU7egO/pd9uSmpUBQ==">
-<link rel="shortcut icon" type="image/x-icon" href="https://www.homepolish.com/assets/favicon-e848a316df83ffd48bc2a038b2e4d38988f99ab8ebe9b82f3cf9aaa6029d6845.ico">
-<meta charset="utf-8">
-<meta content="width=device-width,initial-scale=1" name="viewport">
-<link href="https://www.homepolish.com/assets/homepolish_logo-1345a44d04bde8dd5bd6edfcf421689cdbf630034936a1729f90032078c9920e.png" rel="apple-touch-icon">
+<!DOCTYPE html><html itemscope="" itemtype="http://schema.org/WebSite" lang="en" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=1">
+	<link href="https://homepolish.com/wp-content-2018/themes/thevoux-wp/assets/favicon.ico" rel="shortcut icon" type="image/x-icon">
+	<link href="https://homepolish.com/wp-content-2018/themes/thevoux-wp/assets/homepolish_logo.png" rel="apple-touch-icon">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-touch-fullscreen" content="yes">
+	<meta name="HandheldFriendly" content="True">
+	<meta content="" itemprop="description">
+	<meta content="https://homepolish.com/privacy" itemprop="url">
+	<meta content="127512634049491" property="fb:app_id">
+	<style>
+		.hide {
+
+			display: none !important;
+		}
+	</style>
+
+<!-- wp_head -->
+<title>Privacy Policy - Homepolish</title>
+
+<!-- This site is optimized with the Yoast SEO Premium plugin v7.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://homepolishwp.wpengine.com/privacy">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - Homepolish">
+<meta property="og:url" content="https://homepolish.com/privacy">
+<meta property="og:site_name" content="Homepolish">
+<meta property="article:publisher" content="https://facebook.com/Homepolish">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Privacy Policy - Homepolish">
+<meta name="twitter:site" content="@Homepolish">
+<meta name="twitter:creator" content="@Homepolish">
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel="stylesheet" id="flight_by_canto-frontend-css" href="https://homepolish.com/wp-content-2018/plugins/flight-by-canto/assets/css/frontend.css?ver=1.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="jpibfi-style-css" href="https://homepolish.com/wp-content-2018/plugins/jquery-pin-it-button-for-images/css/client.css?ver=2.2.5" type="text/css" media="all">
+<link rel="stylesheet" id="bodhi-svgs-attachment-css" href="https://homepolish.com/wp-content-2018/plugins/svg-support/css/svgs-attachment.css?ver=4.9.7" type="text/css" media="all">
+<link rel="stylesheet" id="header-css" href="https://homepolish.com/wp-content-2018/themes/thevoux-wp/assets/styles/header.css?ver=4.9.7" type="text/css" media="all">
+<link rel="stylesheet" id="footer-css" href="https://homepolish.com/wp-content-2018/themes/thevoux-wp/assets/styles/footer.css?ver=4.9.7" type="text/css" media="all">
+<link rel="stylesheet" id="svelte-css" href="https://homepolish.com/wp-content-2018/themes/thevoux-wp/assets/styles/svelte.css?ver=4.9.7" type="text/css" media="all">
+<link rel="stylesheet" id="styles-css" href="https://homepolish.com/wp-content-2018/themes/thevoux-wp/assets/styles/styles.css?ver=4.9.7" type="text/css" media="all">
+<script type="text/javascript" src="https://homepolish.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="https://homepolish.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="https://homepolish.com/wp-content-2018/plugins/flight-by-canto/assets/js/frontend.min.js?ver=1.0.0"></script>
 <script type="text/javascript">
-!function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.1.0";
-analytics.load("u1oneMHbBVZBLwFZuVdJxxAlH2uQaDR3");
-analytics.page();
-}}();
+/* <![CDATA[ */
+var jpibfi_options = {"hover":{"siteTitle":"Homepolish","image_selector":".jpibfi_container img","disabled_classes":"wp-smiley;nopin","enabled_classes":"","min_image_height":0,"min_image_height_small":0,"min_image_width":0,"min_image_width_small":0,"show_on":"[front],[home],[single],[page],[archive],[search],[category]","disable_on":"","show_button":"hover","button_margin_bottom":20,"button_margin_top":20,"button_margin_left":20,"button_margin_right":20,"button_position":"top-left","description_option":["img_title","img_alt","post_title"],"pinLinkedImages":true,"transparency_value":0.2,"pin_image":"default","pin_image_button":"square","pin_image_icon":"circle","pin_image_size":"small","custom_image_url":"","pinImageHeight":43.2,"pinImageWidth":43.2}};
+/* ]]> */
 </script>
+<script type="text/javascript" src="https://homepolish.com/wp-content-2018/plugins/jquery-pin-it-button-for-images/js/jpibfi.client.js?ver=2.2.5"></script>
+<script type="text/javascript" src="https://homepolish.com/wp-content-2018/themes/thevoux-wp/assets/js/vwo_smart_code.js?ver=4.9.7"></script>
+<script type="text/javascript" src="https://homepolish.com/wp-content-2018/themes/thevoux-wp/assets/js/rollbar.js?ver=4.9.7"></script>
+<script type="text/javascript" src="https://homepolish.com/wp-content-2018/themes/thevoux-wp/assets/js/analytics.js?ver=4.9.7"></script>
+<script type="text/javascript" data-cfasync="false" id="omapi-script" async="async" src="//a.optnmnstr.com/app/js/api.min.js?ver=1.1.6.1"></script>
+        <style type="text/css">
+            a.pinit-button.custom {
+                        }
 
+            a.pinit-button.custom span {
+                        }
 
-</head>
-<body class="svelte legal-pages legal-pages--privacy" data-action="privacy" data-controller="legal_pages">
+            img.pinit-hover {
+                opacity: 0.8 !important;
+                filter: alpha(opacity=80) !important;
+            }
+        </style>
 
-<header class="hp-header" id="header">
-<div class="hp-header__main">
-<div class="mobile-nav-menu-toggle-container">
-<button class="mobile-nav-menu-toggle" data-mobile-nav-menu-toggle="">
-<span class="toggle-bar"></span>
-<span class="toggle-bar"></span>
-<span class="toggle-bar"></span>
-<span class="toggle-bar"></span>
-</button>
+		<meta itemprop="image" content=""><meta itemprop="" content=""><meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://homepolish.com/wp-content-2018/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="https://homepolish.com/wp-content-2018/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><!-- /wp_head -->
+
+<!-- live --><title>Privacy Policy - Homepolish</title>
+
+<!-- This site is optimized with the Yoast SEO Premium plugin v7.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://homepolishwp.wpengine.com/privacy">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - Homepolish">
+<meta property="og:url" content="https://homepolish.com/privacy">
+<meta property="og:site_name" content="Homepolish">
+<meta property="article:publisher" content="https://facebook.com/Homepolish">
+<!-- / Yoast SEO Premium plugin. -->
+
+<script type="text/javascript" src="https://homepolish.com/wp-includes/js/wp-embed.min.js?ver=4.9.7"></script>
+        <style type="text/css">
+            a.pinit-button.custom {
+                        }
+
+            a.pinit-button.custom span {
+                        }
+
+            img.pinit-hover {
+                opacity: 0.8 !important;
+                filter: alpha(opacity=80) !important;
+            }
+        </style>
+
+		<meta itemprop="image" content=""><meta itemprop="" content=""><meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://homepolish.com/wp-content-2018/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="https://homepolish.com/wp-content-2018/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<body class="svelte landing-pages landing-pages--privacy" data-action="privacy" data-controller="legal_pages">
+<div class="fixed-banner"></div>
+<div class="main-container">
+
+<div class="hp-header-container">
+    <header id="header" class="hp-header ">
+        <div class="hp-header__main">
+        <button class="mobile-nav-menu-toggle" data-mobile-nav-menu-toggle="true">
+        <span class="toggle-bar"></span>
+        <span class="toggle-bar"></span>
+        <span class="toggle-bar"></span>
+        <span class="toggle-bar"></span>
+        </button>
+
+        <a href="/" class="hp-header__logo-link hp-header__logo-link--mobile-tablet">
+        <img alt="Homepolish Interior Design NYC LA SF BOS CHI DC" class="hp-header__logo hp-header__logo--white" src="https://homepolish.com/wp-content-2018/themes/thevoux-wp/assets/img/homepolish-wordmark-white.png">
+        <img alt="Homepolish Interior Design NYC LA SF BOS CHI DC" class="hp-header__logo hp-header__logo--black" src="https://homepolish.com/wp-content-2018/themes/thevoux-wp/assets/img/homepolish-wordmark.png">
+        </a>
+
+        <div class="hp-header__auth">
+
+            <!-- out -->
+            
+            <span style="visibility: hidden;" class="login-link logged-in" data-logged-out="true">
+                <a class="auth__link tertiary auth-link" data-logout-link="true" href="/log_in">Log In</a>
+            </span>
+
+            <!-- in -->
+
+            <style>
+            .logout-link .auth-link {
+
+                visibility: hidden;
+            }
+            </style>
+            
+            <span style="" class="other-link logout-link logged-out" data-logged-in="true">
+                <a class="auth__link tertiary auth-link dashboard-link" href="dashboard" data-dashboard-link="true" data-logout-link="true">My Dashboard</a> 
+                <a class="auth__link tertiary auth-link" href="/app/logout" data-logout-link="true">Log Out</a>
+            </span>
+        </div>
+
+        </div>
+
+          <nav class="hp-header__nav">
+
+          <a class="tertiary nav__link " href="/about-us">About Us</a>
+
+          <a class="tertiary nav__link " href="/portfolio">Portfolio</a>
+
+          <a class="tertiary nav__link " href="/commercial">Commercial</a>
+
+          <a href="/" class="hp-header__logo-link hp-header__logo-link--desktop">
+          <img alt="Homepolish Interior Design NYC LA SF BOS CHI DC" class="hp-header__logo hp-header__logo--white" src="https://homepolish.com/wp-content-2018/themes/thevoux-wp/assets/img/homepolish-wordmark-white.png">
+          <img alt="Homepolish Interior Design NYC LA SF BOS CHI DC" class="hp-header__logo hp-header__logo--black" src="https://homepolish.com/wp-content-2018/themes/thevoux-wp/assets/img/homepolish-wordmark.png">
+          </a>
+
+          <a class="tertiary nav__link " href="/concierge">Concierge</a>
+
+          <a class="tertiary nav__link " href="/build">Build</a>
+          
+
+          <a class="tertiary nav__link " href="/mag">The Magazine</a>
+          </nav>
+    </header>
 </div>
-<div class="hp-header__logo">
-<a href="/">
-<img alt="Homepolish Interior Design NYC LA SF BOS CHI DC" width="320px" class="hp-header__logo__image" src="https://www.homepolish.com/assets/homepolish-wordmark-f09400f624be850d548380bfb33f6de9292ca7ef1f1f0524e1c979ecab0f5ff7.png">
-<h6 class="hp-header__tagline">Personal interior design by the hour</h6>
-</a>
-</div>
 
-</div>
-<div class="hp-header__auth">
-<a class="tertiary auth-link" href="/log_in">
-Log In
-</a>
-</div>
-
-<nav class="subheader">
-<div class="subheader-links">
-<h6 class="subheader-link">
-<a class="tertiary" href="/about-us">About Us</a>
-</h6>
-<h6 class="subheader-link">
-<a class="tertiary" href="/how-it-works">How It Works</a>
-</h6>
-<h6 class="subheader-link">
-<a class="tertiary" href="/portfolio">Portfolio</a>
-</h6>
-<h6 class="subheader-link">
-<a class="tertiary" href="/commercial">Commercial Design</a>
-</h6>
-<h6 class="subheader-link">
-<a class="tertiary" href="/concierge">Concierge</a>
-</h6>
-<h6 class="subheader-link">
-<a class="tertiary" href="/press">Press</a>
-</h6>
-<h6 class="subheader-link">
-<a class="tertiary" href="/mag">The Magazine</a>
-</h6>
-</div>
-</nav>
-
-</header>
 <div class="mobile-nav-menu" id="mobile-nav-menu">
-<div class="menu-content">
-<div class="nav-links">
-<h5 class="nav-link">
-<a class="tertiary" href="/about-us">About Us</a>
-</h5>
-<h5 class="nav-link">
-<a class="tertiary" href="/how-it-works">How it Works</a>
-</h5>
-<h5 class="nav-link">
-<a class="tertiary" href="/portfolio">Portfolio</a>
-</h5>
-<h5 class="nav-link">
-<a class="tertiary" href="/commercial">Commercial Design</a>
-</h5>
-<h5 class="nav-link">
-<a class="tertiary" href="/concierge">Concierge</a>
-</h5>
-<h5 class="nav-link">
-<a class="tertiary" href="/press">Press</a>
-</h5>
-<h5 class="nav-link">
-<a class="tertiary" href="/mag">The Magazine</a>
-</h5>
-</div>
-<div class="other-links">
-<h5 class="other-link login-link">
-<a class="tertiary" href="/log_in">Log In</a>
-</h5>
-</div>
-</div>
+    <div class="menu-content">
+    <div class="nav-links">
+    <h5 class="nav-link">
+    <a class="tertiary" href="/about-us">About Us</a>
+    </h5>
+    <h5 class="nav-link">
+    <a class="tertiary" href="/portfolio">Portfolio</a>
+    </h5>
+    <h5 class="nav-link">
+    <a class="tertiary" href="/commercial">Commercial</a>
+    </h5>
+    <h5 class="nav-link">
+    <a class="tertiary" href="/concierge">Concierge</a>
+    </h5>
+    <h5 class="nav-link">
+    <a class="tertiary" href="/build">Build Services</a>
+    </h5>
+    <h5 class="nav-link">
+    <a class="tertiary" href="/mag">The Magazine</a>
+    </h5>
+    </div>
+   <div class="other-links hp-header__auth">
+
+        <!-- out -->
+        
+        <h5 class="other-link" data-logged-out="true">
+        <a class="tertiary auth-link" href="/log_in">Log In</a>
+        </h5>
+
+        <!-- in -->
+        
+        
+        <h5 class="other-link" data-logged-in="true">
+        <a href="/app/logout" class="tertiary auth-link" data-logout-link="true">Log Out</a>
+        </h5>
+    </div>
+    </div>
 </div>
 <div class="mobile-nav-buttons" id="mobile-nav-buttons">
 <div class="scroll-shadow"></div>
 </div>
 
 
-<div class="grid-container">
-<div class="grid-100" id="privacy">
-<p class="small">Thank you for accessing the web site ("Site") of Homepolish.com. ("Homepolish"). We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.</p>
-<p class="small">Your privacy is very important to us. Our Privacy Policy spells out Homepolish's commitment to respecting the privacy of the members and visitors to the Site. We reserve the right to change this policy, which we'll do through online posting. We are very careful with what we do with your information. Collection of information is usually grouped into two categories: personal, which is information identifiable to a specific member, and aggregate, which is general demographic information that does not identify any individual member. Personal information may include your name, email address, mailing address, credit card information and phone number. We may also collect certain demographic information such as your genre preferences, age, gender, geographical location, language, time zone, income and education (some of the information we ask for may be optional). Homepolish may use or disclose aggregate information for any purpose.</p>
-<p class="small bold">We will not disclose your personally identifiable information to third parties for their marketing purposes without your consent.</p>
-<p class="small">This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. It also explains the steps we have taken to secure your personal information. Finally, it explains your options regarding the collection, use and disclosure of your personal information. By visiting our Site, you accept the practices described in this Policy and in our <a href="/terms" id="tos_link">Terms of Use</a>.</p>
-<p class="small bold">This privacy policy applies only to this Site. We are not responsible for the content or privacy practices on any non-Homepolish web site to which this Site links or that links to this Site.</p>
-<h5>INFORMATION COLLECTION AND USE</h5>
+
+<div id="page-template">
+
+	<h2 class="page-title">Privacy Policy</h2><input class="jpibfi" type="hidden"><p>
+Thank you for accessing the website(s) (“Site”), products, services and applications (“Services”) of Homepolish, Inc. (“Homepolish” , “we”, “our” or “us”). We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.<br>
+<strong>By using or accessing the Services in any manner, you acknowledge that you accept the practices and policies described in this Privacy Policy and you hereby consent that we will collect, use, and share your information in the following ways.</strong>
+</p>
+<p>Remember that your use of Company’s Services is at all times subject to the <a href="/terms" id="tos_link">Terms and Conditions</a>, which incorporates this Privacy Policy. Any capitalized terms that are not defined herein shall have the definitions set forth in the Homepolish Terms and Conditions.</p>
+<p>Your privacy is very important to us. Our Privacy Policy spells out Homepolish’s commitment to respecting the privacy of the members and users of the Services. This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. It also explains the steps we have taken to secure your personal information. Finally, it explains your options regarding the collection, use and disclosure of your personal information.</p>
+<h3>THIS PRIVACY POLICY APPLIES ONLY TO OUR SERVICES</h3>
+<p>In certain situations, businesses or third party websites we’re affiliated with may sell or provide products or services to you through or in connection with the Services (either alone or jointly with us).  You can recognize when an affiliated business is associated with such a transaction or service, and we will share your personal information with that affiliated business only to the extent that it is related to such transaction or service. We have no control over the policies and practices of third party websites or businesses as to privacy or anything else, so if you choose to take part in any transaction or service relating to an affiliated website or business, please review all such business’ or websites’ policies.</p>
+<h3>UPDATES TO THIS POLICY</h3>
+<p>If we change or update this Privacy Policy, we will alert you by posting changes and updates on the Services, sending you an email and/or by some other means so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. Please note that if you’ve opted not to receive legal notice emails from us (or you haven’t provided us with your email address), those legal notices will still govern your use of the Services, and you are still responsible for reading and understanding them.  If you use the Services after any changes to the Privacy Policy have been posted, that means you agree to all of the changes.</p>
+<h3>INFORMATION COLLECTION AND USE</h3>
 <ol>
 <li>
-<strong>Information Collection</strong>
-<p class="small">We collect information from you in several different ways on this Site. One goal in collecting personal information from you is to provide an efficient, meaningful, and customized experience. For example, we can use your personal information to:</p>
+<strong>Information Collection.</strong><br>
+We collect information from you in several different ways on the Services. Personal information may include your name, email address, mailing address, credit card information and phone number. We may also collect certain demographic information such as your genre preferences, age, gender, geographical location, language, time zone, income and education (some of the information we ask for may be optional). One goal in collecting personal information from you is to provide an efficient, meaningful, and customized experience. For example, we can use your personal information to:<p></p>
 <ul>
-<li>help make this Site easier for you to use by not having to enter information more than once.</li>
+<li>help make the Services easier for you to use by not having to enter information more than once.</li>
 <li>help you quickly find information, products, and services.</li>
-<li>help us create content on this Site that is most relevant to you.</li>
+<li>help us create content on the Services that is most relevant to you.</li>
 <li>alert you to new information, products, and services that we offer.</li>
 </ul>
 </li>
 <li>
-<strong>Registration and Ordering.</strong>
-Before using certain parts of this Site or ordering products, you must complete an online registration form. During registration, you will be prompted to provide to us certain personal information, including but not limited to your name, shipping and billing address(es), phone number, email address, and credit card number. In addition, we may also ask you for your country of residence, so we can comply with applicable laws and regulations, and for your gender. These kinds of personal information are used for billing purposes, to fulfill your orders, to communicate with you about your order and our site, and for internal marketing purposes. If we encounter a problem when processing your order, we use the personal information to contact you.
+<strong>Registration and Ordering.</strong><br>
+Before using certain parts of the Services or ordering products, you must complete an online registration form. During registration, you will be prompted to provide to us certain personal information, including but not limited to your name, shipping and billing address(es), phone number, email address, and credit card number. In addition, we may also ask you for your country of residence, so we can comply with applicable laws and regulations, and for your gender. These kinds of personal information are used for billing purposes, to fulfill your orders, to communicate with you about your order and our Services, and for internal marketing purposes. If we encounter a problem when processing your order, we use the personal information to contact you.
 </li>
 <li>
-<strong>Email Addresses.</strong>
-Several locations of the Site permit you to enter your email address for purposes including but not limited to: to register for promotions; to request us to notify you when regarding particular offers or products, or to sign up for our e-mail newsletter and special offers, including contests, which we may run from time to time. Your participation in a contest is completely voluntary, so you have a choice whether to participate and disclose information to us. We use this information to notify contest winners and to award prizes. We may post on our Site the names and cities of contest winners.
+<strong>Email Addresses.</strong><br>
+Several locations of the Services permit you to enter your email address for purposes including but not limited to: to register for promotions; to request us to notify you when regarding particular offers or products, or to sign up for our e-mail newsletter and special offers, including contests, which we may run from time to time. Your participation in a contest is completely voluntary, so you have a choice whether to participate and disclose information to us. We use this information to notify contest winners and to award prizes. We may post on our Services the names and cities of contest winners.
 </li>
 <li>
-<strong>Cookies and Other Technology.</strong>
-Like many sites, this Site employs cookies and web beacons (also known as clear GIF technology or "action tags") to speed your navigation of the Site, recognize you and your access privileges, and track your Site usage.
+<strong>Cookies and Other Technology.</strong><br>
+Like many sites, whenever you interact with our Services, we automatically receive and record information on our server logs from your browser or device, which may include your IP address, geolocation data, device identification, “cookie” information, the type of browser and/or device you’re using to access our Services, and the page or feature you requested. “Cookies” are identifiers we transfer to your browser or device that allow us to recognize your browser or device and tell us how and when pages and features in our Services are visited and by how many people. You may be able to change the preferences on your browser or device to prevent or limit your device’s acceptance of cookies, but this may prevent you from taking advantage of some of our features. We may use this data to customize content for you that we think you might like, based on your usage patterns.  We may also use it to improve the Services – for example, this data can tell us how often users use a particular feature of the Services, and we can use that knowledge to make the Services interesting to as many users as possible.
 </li>
 <ul>
-<li>Cookies are small pieces of information that are stored as text files by your Internet browser on your computer's hard drive. Most Internet browsers are initially set to accept cookies. You can set your browser to refuse cookies from web sites or to remove cookies from your hard drive, but if you do, you will not be able to access or use portions of this Site. We have to use cookies to enable you to select products and to purchase those products. If you do this, we keep a record of your browsing activity and purchase. THIS SITE'S COOKIES DO NOT AND CANNOT INFILTRATE A USER'S HARD DRIVE TO GATHER A USER'S CONFIDENTIAL INFORMATION. Our cookies are not "spyware."</li>
-<li>Web beacons assist in delivering cookies and help us determine whether a web page on this Site has been viewed and, if so, how many times. For example, any electronic image on this Site, such as an ad banner, can function as a web beacon.</li>
-<li>We may use third-party advertising companies to help us tailor site content to users or to serve ads on our behalf. These companies may employ cookies and web beacons to measure advertising effectiveness (such as which web pages are visited or what products are purchased and in what amount). Any information that these third parties collect via cookies and web beacons is not linked to any personal information collected by us.</li>
-<li>As an example, Facebook<sup>®</sup> collects certain information via cookies and web beacons to determine which web pages are visited or what products are purchased. Please note that any information collected by Facebook<sup>®</sup> via cookies and web beacons is not linked to any client's personal information collected by us.</li>
+<li>THIS WEBSITE’S COOKIES DO NOT AND CANNOT INFILTRATE A USER’S HARD DRIVE TO GATHER A USER’S CONFIDENTIAL INFORMATION. Our cookies are not “spyware.”</li>
+<li>Through cookies we place on your browser or device, we may collect information about your online activity after you leave our Services.  Just like any other usage information we collect, this information allows us to improve the Services and customize your online experience, and otherwise as described in this Privacy Policy.</li>
+<li>Our advertising partners may also transmit cookies to your browser or device, when you click on ads that appear on the Services. Also, if you click on a link to a third party website or service, a third party may also transmit cookies to you.  Again, this Privacy Policy does not cover the use of cookies by any third parties, and we aren’t responsible for their privacy policies and practices.  Please be aware that cookies placed by third parties may continue to track your activities online even after you have left our Services, and those third parties may not honor “Do Not Track” requests you have set using your browser or device.</li>
+<li>We may deliver a file to you through the Services (known as a “web beacon”) from an ad network.  Web beacons assist in delivering cookies and help us determine whether a web page on the Services has been viewed and, if so, how many times. For example, any electronic image on the Services, such as an ad banner, can function as a web beacon. Web beacons also enable ad networks to serve targeted advertisements to you when you visit other websites.  Because your web browser must request these advertisements and web beacons from the ad network’s servers, these companies can view, edit, or set their own cookies, just as if you had requested a web page from their site.  You may be able to opt-out of web beacon tracking conducted by third parties through our Services by adjusting the Do Not Track settings on your browser; please note that we don’t control whether or how these third parties comply with Do Not Track requests.</li>
+<li>We allow advertisers and/or merchant partners (“Advertisers”) to choose the demographic information of users who will see their advertisements and/or promotional offers and you agree that we may provide any of the information we have collected from you in non-personally identifiable form to an Advertiser, in order for that Advertiser to select the appropriate audience for those advertisements and/or offers. For example, we might use the fact you are located in San Francisco to show you ads or offers for San Francisco businesses, but we will not tell such businesses who you are.  Or, we might allow Advertisers to display their ads to users with similar usage patterns to yours, but we will not disclose usage information to Advertisers except in aggregate form, and not in a manner that would identify you personally.  Note that if an advertiser asks us to show an ad to a certain audience or audience segment and you respond to that ad, the advertiser may conclude that you fit the description of the audience they were trying to reach.   This Privacy Policy does not cover the use of cookies by any third parties and we are not responsible for their privacy policies and practices.</li>
+<li>As an example, Facebook<sup>®</sup> collects certain information via cookies and web beacons to determine which web pages are visited or what products are purchased. Please note that any information collected by Facebook<sup>®</sup> via cookies and web beacons is not linked to any client’s personal information collected by us.</li>
+<li>Retargeting/advertising cookies collect data about your online activity and identify your interests so that we can provide advertising that we believe is relevant to you.</li>
 </ul>
 <li>
-<strong>Log Files.</strong>
-As is true of most web sites, the Site automatically recognizes the Internet URL from which you access this Site. We may also log your Internet protocol ("IP") address, Internet service provider, and date/time stamp for system administration, order verification, internal marketing, and system troubleshooting purposes. (An IP address may indicate the location of your computer on the Internet.)
-</li>
-<li>
-<strong>Age.</strong>
-We respect children's privacy. We do not knowingly or intentionally collect personal information from children under age 13. Elsewhere on this Site, you have represented and warranted that you are either 18 years of age or using the Site with the supervision of a parent or guardian. If you are under the age of 13, please do not submit any personal information to us, and rely on a parent or guardian to assist you.
-</li>
-<li>
-<strong>Information Use and Disclosure.</strong>
-<ul>
-<li>
-<strong>Internal Use.</strong>
-We use your personal information to process your order and provide you with Client Services. We may internally use your personal information to improve our Site's content and layout, to improve our outreach and for our own marketing efforts (including marketing our services and products to you), and to determine general marketplace information about visitors to this Site.
-</li>
-<li>
-<strong>Communications with You.</strong>
-We will use your personal information to communicate with you about our site and your orders and deliveries. Also, we may send you a confirmation email when you register with us. We may send you a service-related announcement on the rare occasions when it is necessary (for example, if we must temporarily suspend our service for maintenance). Also, you may submit your email address for reasons such as to register for promotions; request we notify you regarding particular offers or products, or sign up for our email newsletter and special offers. If you submit your email address, we use it to deliver this information to you. We always permit you to unsubscribe or opt out of future emails (see the opt-out section for more details). Because we have to communicate with you about orders that you choose to place, you cannot opt out of receiving emails related to your orders or your membership.
-</li>
-<li>
-<strong>External Use.</strong>
-We want to provide you with excellent service and to offer you a great selection—we primarily sell merchandise, not information. We do not sell, rent, trade, license or otherwise disclose your specific personal information or financial information to anyone, except that:
+<strong>Online Behavioral Advertising.</strong><br>
+Some of our advertising (“Behavioral Advertising”) involves using Tracking Tools to collect information about a user’s online activities over time and across non-affiliated websites and applications and providing ads to the user based the user’s interests (as inferred from the user’s online activity) or use of our Service.  Behavioral Advertising may appear on our Service or on other websites or services.  We work with third parties to provide Behavioral Advertising, such as advertising networks, data exchanges, traffic measurement service providers, marketing analytics service providers, and other third-party service providers collectively (“Advertising Service Providers”).  Advertising Service Providers perform services such as facilitating targeting of advertisements and measuring and analyzing advertising effectiveness on the Service (collectively, all such services, “Targeting Services”).  Targeting Services help us display Behavioral Advertising, prevent you from seeing repeated ads, and enable us to research the usefulness of ads.
 </li>
 <ul>
+<li>We adhere to self-regulatory principles for online behavioral advertising issued by the Digital Advertising Alliance (“DAA”). More information about the OBA Principles can be found at <a href="https://digitaladvertisingalliance.org/principles">https://digitaladvertisingalliance.org/principles</a></li>
+<li>You have the option to opt out of Behavioral Advertising. For more information, see the section below titled “Opting Out of Behavioral Advertising and Tracking Tools.”</li>
+</ul>
 <li>
-As do most Internet retailers, we sometimes use others to perform specific functions on our behalf. When we disclose information to these service providers, we disclose information to help them to perform their service. For example, in order to deliver products to you, we must share some information. We partner with third parties (such as the U.S. Postal Service, United Parcel Service, and Federal Express) to ship products, to ensure delivery, and so that we can obtain feedback, improve the quality of our service, and measure and improve the quality of the service of the third party. In the example of shippers, we provide them some personally identifiable information such as your name, shipping address, email, and phone number.
+<strong>Log Files.</strong><br>
+As is true of most websites, the Services automatically recognize the Internet URL from which you access the Services. We may also log your Internet protocol (“IP”) address, Internet service provider, and date/time stamp for system administration, order verification, internal marketing, and system troubleshooting purposes. (An IP address may indicate the location of your computer on the Internet.)
 </li>
 <li>
-Similarly, to help you buy products and provide Client Services to you, we must provide your credit card number to financial services corporations such as credit card processors and issuers. When we submit your credit card number for authorization, we use state-of-the-art data encryption to protect your information. (More on this below in Data Security.)
+<strong>Age.</strong><br>
+We respect children’s privacy. We do not knowingly or intentionally solicit or collect personal information from children under age 13. Elsewhere on the Services, you have represented and warranted that you are either 18 years of age or using the Services with the supervision of a parent or guardian. If you are under the age of 13, please do not attempt to register for the Services or submit any personal information to us, and rely on a parent or guardian to assist you. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us personal information, please contact us at <a href="mailto:info@homepolish.com">info@homepolish.com</a>
 </li>
 <li>
-We may be required to disclose such information in response to requests from law-enforcement officials conducting investigations; subpoenas; a court order; or if we are otherwise required to disclose such information by law. We also will release personal information where disclosure is necessary to protect our legal rights, enforce our Terms of Use or other agreements, or to protect ourselves or others. For example, we may share information to reduce the risk of fraud or if someone uses or attempts to use our Site for illegal reasons or to commit fraud.
+<strong>Information Use and Disclosure.</strong><p></p>
+<ul>
+<li>
+<strong>Internal Use.</strong><br>
+We use your personal information to process your order and provide you with Services. We may internally use your personal information to improve our Service’s content and layout, to improve our outreach and for our own marketing efforts (including marketing our services and products to you), and to determine general marketplace information about users of the Services.
 </li>
 <li>
-We will not sell (or trade or rent) personally identifiable information to other companies as part of our regular course of business. However, it's possible that we might acquire or merge with or be acquired by another company or that we might dispose of some or all of our assets. If that happens, your personal information may be disclosed to another company, but that disclosure will be subject to the Privacy Policy in effect.
+<strong>Communications with You.</strong><br>
+We will use your personal information to communicate with you about our Services and your orders and deliveries. Also, we may send you a confirmation email when you register with us. We may send you a service-related announcement on the rare occasions when it is necessary (for example, if we must temporarily suspend our service for maintenance). Also, you may submit your email address for reasons such as to register for promotions; request we notify you regarding particular offers or products, or sign up for our email newsletter and special offers. If you submit your email address, we use it to deliver this information to you. We always permit you to unsubscribe or opt out of future emails (see the opt-out section for more details). Because we have to communicate with you about orders that you choose to place, you cannot opt out of receiving emails related to your orders or your membership.
 </li>
 <li>
-We may share non-personal information (such as the number of daily visitors to a particular web page, or the size of an order placed on a certain date) with third parties such as advertising partners. This information does not directly personally identify you or any user.
+<strong>External Use.</strong><br>
+We want to provide you with excellent service and to offer you a great selection—we primarily sell merchandise and services, not information. We do not sell, rent, trade, license or otherwise disclose your specific personal information or financial information to anyone, except that:
+</li>
+<ul>
+<li>
+We routinely share the names, e-mail addresses and other relevant information of users our vendors in connection with the services.
+</li>
+<li>
+As do most Internet retailers, we sometimes use others to perform specific functions on our behalf. When we disclose information to these service providers, we disclose information to help them to perform their service. For example, in order to deliver products to you, we must share some information. We partner with third parties (such as the U.S. Postal Service, United Parcel Service, and Federal Express) to ship products, to ensure delivery, and so that we can obtain feedback, improve the quality of our service, and measure and improve the quality of the service of the third party. In the example of shippers, we provide them some personal information such as your name, shipping address, email, and phone number.
+</li>
+<li>
+Similarly, to help you buy products and provide Services to you, we must provide your credit card number to financial services corporations such as credit card processors and issuers. All credit card information, including credit card number, type, expiration date and other financial information, is used and stored by our third party payment processing companies, for example, Stripe and Xero. Use and storage of that information by Stripe is governed by Stripe’s applicable terms of service and privacy policy, available at <a href="https://stripe.com/us/legal">https://stripe.com/us/legal</a>. Use and storage of that information by Xero is governed by Xero’s applicable terms of service and privacy policy, available at <a href="https://www.xero.com/us/about/legal">https://www.xero.com/us/about/legal/</a>
+</li>
+<li>
+We may be required to disclose such information in response to requests from law-enforcement officials conducting investigations; subpoenas; a court order; or if we are otherwise required to disclose such information by law. We also will release personal information where disclosure is necessary to protect our legal rights, enforce our Terms and Conditions or other agreements, or to protect ourselves or others. For example, we may share information to reduce the risk of fraud or if someone uses or attempts to use our Services for illegal reasons or to commit fraud.
+</li>
+<li>
+We will not sell (or trade or rent) personal information to other companies as part of our regular course of business. However, it’s possible that we might acquire or merge with or be acquired by another company or that we might dispose of some or all of our assets. If that happens, your personal information may be disclosed to another company, but that disclosure will be subject to the Privacy Policy in effect.
+</li>
+<li>
+We may de-identify your personal information so that you are not identified as an individual, and provide that information to our partners. We may also provide aggregate usage information to our partners (or allow partners to collect that information from you), who may use such information to understand how often and in what ways people use our Services, so that they, too, can provide you with an optimal online experience. However, we never disclose aggregate usage or de-identified information to a partner (or allow a partner to collect such information) in a manner that would identify you as an individual person.
 </li>
 </ul>
 </ul>
 </li>
 </ol>
-<h5>DATA SECURITY</h5>
-<p class="small">This Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including Secure Sockets Layer ("SSL") for all financial transactions through this Site. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Access to your personal information is restricted. Only employees who need access to your personal information to perform a specific job are granted access to your personal information. Finally, we rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate. For example, when you visit our Site, you access servers that are kept in a secure physical environment, behind a locked cage and an electronic firewall.</p>
-<p class="small">Homepolish uses industry-standard procedures and safeguards designed to protect the privacy of all personal information. All Homepolish  employees with access to personal information are required to follow specific practices concerning its proper handling. Our vendors and their employees who may need access to member information, such as Client Services and fulfillment vendors, are held to strict confidentiality requirements. At times we may retain third parties to analyze data we collect on our website, and to administer the services provided (such as shipping, web hosting, etc. as described above), solely to help us provide and improve our products, services and websites. These suppliers and other third parties are not authorized by us to use your personal information in any other way. We may have to use personal information to investigate complaints and protect Homepolish and its members, in compliance with the law, your Membership Agreement and Homepolish policies.</p>
-<p class="small">While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline.</p>
-<p class="small bold">In the unlikely event that we believe that the security of your personal information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your email address, we may notify you by email.</p>
-<h5>OPT OUT/CORRECTIONS</h5>
-<p class="small">On your request, we will (a) correct or update your personal information; (b) stop sending certain non-membership or order-related emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests by emailing your request to our Client Services department at <a href="mailto:info@homepolish.com">info@Homepolish.com</a>. Please do not email your credit card number or other sensitive information.</p>
-<h5>OFFLINE COLLECTION, USE &amp; DISCLOSURE OF INFORMATION</h5>
-<p class="small">As you might expect, the majority of information that we collect is obtained through our Site, and this Privacy Policy applies only to that online collection of personal information. We also collect information offline, where we also try to protect the privacy of your personal information. One example involves someone calling us to place an order or to ask questions. When someone calls, we will ask only for the personal information we need in order to place the order or to answer the question. When we need to store information (such as order information) we will enter it into our database. (See the Data Security section above for more information). Another example involves faxes. If you fax something to us, we will act upon the fax and then either store or shred the fax, depending on whether there is any need to retain the information. There are other ways we could learn of personal information offline (for example, we suppose someone could send us a letter including some return address information), and this Policy doesn't discuss or try to predict all of those methods or uses. As we mentioned, we primarily sell merchandise, not information, and we will try to treat offline collection, uses, and disclosures consistently with our relevant online practices.</p>
-<h5>WHAT IF YOU'RE NOT A Homepolish MEMBER, BUT YOU'VE HEARD FROM Homepolish?</h5>
-<p class="small">If you're not a member but you've been contacted by Homepolish, we may have received your information in a few different ways. First, another member may have referred you. Members may give us your name and email address in order for them to customize an invitation for you to join. You also may receive similarly customized email reminders from your friend about this invitation. If you apply for membership, your information will be used in accordance with the rest of this privacy policy. If you choose not to apply online, your email address may be retained for a period. Similarly, a member may have shipped a gift or other merchandise to you through us and provided your personal information for that purpose.</p>
-<p class="small">You may have received an offer from us. If you were a prior member, we may have invited you back. We may also have received your information from one of our partners or from the mailing, opt-in emailing, or phone lists of a reputable company. Unless we are using an opt-in only list in our marketing efforts, Homepolish will screen our lists with the Direct Marketing Association preference lists before we send such offers.</p>
-<h5>UPDATES TO THIS POLICY</h5>
-<p class="small">If we change or update this Privacy Policy, we will post changes and updates on this Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact Client Services at <a href="mailto:info@homepolish.com">info@Homepolish.com</a>.</p>
-</div>
+<h3>DATA SECURITY</h3>
+<p>Your account is protected by a password for your privacy and security.  You must prevent unauthorized access to your account and personal information by selecting and protecting your password appropriately and limiting access to your computer or device and browser by signing off after you have finished accessing your account.</p>
+<p>We endeavor to protect the privacy of your account and other personal information we hold in our records, but unfortunately, we cannot guarantee complete security.  Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.</p>
+<p>While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline.</p>
+<h3>OPT OUT/CORRECTIONS</h3>
+<p>On your request, we will use commercially reasonable efforts (a) correct or update your personal information; (b) stop sending certain non-membership or order-related emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests by emailing your request to our Client Services department at <a href="mailto:info@homepolish.com">info@homepolish.com</a>. Please do not email your credit card number or other sensitive information. When you update information, however, we may maintain a copy of the unrevised information in our records.</p>
+<h3>OPTING OUT OF BEHAVIORAL ADVERTISING AND TRACKING TOOLS</h3>
+<p>You can opt-out of certain Behavioral Advertising activities by doing one or more of the following. Please note that you will need to opt-out of each browser and device for which you desire to apply these opt-out features.</p>
+<ul class="mimic-ol">
+<li>
+<strong>Service Provider Opt Out.</strong><br>
+You can opt-out directly from some Advertising Service Providers and providers of Tracking Tools by using their opt-out tools.  Some of these service providers, and links to their opt-out tools, are:<p></p>
+<ul>
+<li>
+<strong>Google Analytics:</strong><br>
+with a privacy policy at <a href="http://www.google.com/policies/privacy/partners">http://www.google.com/policies/privacy/partners</a> and opt out at <a href="https://tools.google.com/dlpage/gaoptout">https://tools.google.com/dlpage/gaoptout</a>.
+</li>
+</ul>
+</li>
+<li>
+<strong>Industry Opt Out Tools.</strong><br>
+Some Advertising Service Providers or providers of Tracking Tools may participate in the Network Advertising Initiative’s (NAI) Opt-Out Tool (<a href="http://www.networkadvertising.org/choices">http://www.networkadvertising.org/choices</a>) and/or the Digital Advertising Alliance (DAA) Consumer Choice Page (<a href="http://www.aboutads.info/choices">http://www.aboutads.info/choices</a>), and you can opt-out of certain services and learn more about your choices by visiting the links included here.   Users in the EU can visit <a href="http://www.youronlinechoices.eu">http://www.youronlinechoices.eu</a> for more information about your choices and to opt out of participating service providers.
+</li>
+<li>
+<strong>Web Browser Controls.</strong><br>
+You can prevent the use of certain Tracking Tools, such as cookies, on a device-by-device basis using the controls in your web browser. These controls can be found in the Tools &gt; Internet Options (or similar) menu for your browser, or as otherwise directed by your browser’s support feature.  Through your web browser, you may be able to:<p></p>
+<ul>
+<li>
+Delete existing Tracking Tools
+</li>
+<li>
+Disable future Tracking Tools
+</li>
+<li>
+Set your browser to provide you with a warning each time a cookie or certain other Tracking Tools are being set
+</li>
+</ul>
+</li>
+<li>
+<strong>Mobile Opt Out.</strong><br>
+Your mobile devices may offer settings that enable you to make choices about the collection, use, or transfer of mobile app information for Behavioral Advertising. You may also opt-out of certain Tracking Tools on mobile devices by installing the DAA’s AppChoice app on your mobile device (for iTunes, visit <a href="https://itunes.apple.com/us/app/appchoices/id894822870?mt=8">https://itunes.apple.com/us/app/appchoices/id894822870?mt=8</a>, for Android, visit <a href="https://play.google.com/store/apps/details?id=com.DAA.appchoices&amp;hl=en">https://play.google.com/store/apps/details?id=com.DAA.appchoices&amp;hl=en</a>).  For more information, please visit <a href="http://support.apple.com/kb/HT4228">http://support.apple.com/kb/HT4228</a>, <a href="https://support.google.com/ads/answer/2662922?hl=en">https://support.google.com/ads/answer/2662922?hl=en</a> or <a href="http://www.applicationprivacy.org/expressing-your-behavioral-advertising-choices-on-a-mobile-device">http://www.applicationprivacy.org/expressing-your-behavioral-advertising-choices-on-a-mobile-device</a>, as applicable.
+</li>
+<li>
+<strong>Do Not Track.</strong><br>
+Your browser may offer you a “Do Not Track” option, which allows you to signal to operators of websites and web applications and services (including behavioral advertising services) that you do not wish such operators to track certain of your online activities over time and across different websites.  Our Services do not support Do Not Track requests at this time, which means that we collect information about your online activity both while you are using the Services and after you leave our Services.
+</li>
+</ul>
+<p>Please note the following with respect to opting out of Behavioral Advertising:</p>
+<ul class="mimic-ol">
+<li>
+Some opt-out features are cookie-based, meaning that when you use these opt-out features, an “opt-out” cookie will be placed on your computer or other device indicating that you do not want to receive Behavioral Advertising from certain companies.  If you delete your cookies, use a different browser, or use a different device, you will need to renew your opt-out choice.
+</li>
+<li>
+Opting-out of Behavioral Advertising does not mean that you will no longer receive online ads.  It only means that such ads will no longer be tailored to your specific viewing habits or interests. You may continue to see ads on and about the Service.
+</li>
+</ul>
+<h3>OFFLINE COLLECTION, USE &amp; DISCLOSURE OF INFORMATION</h3>
+<p>As you might expect, the majority of information that we collect is obtained through our Services, and this Privacy Policy applies only to that online collection of personal information. We also collect information offline, where we also try to protect the privacy of your personal information. One example involves someone calling us to place an order or to ask questions. When someone calls, we will ask only for the personal information we need in order to place the order or to answer the question. When we need to store information (such as order information) we will enter it into our database. There are other ways we could learn of personal information offline and this Privacy Policy doesn’t discuss or try to predict all of those methods or uses. We primarily sell merchandise and services, not information, and we will try to treat offline collection, uses, and disclosures consistently with our relevant online practices.</p>
+<h3>WHAT IF YOU’RE NOT A Homepolish MEMBER, BUT YOU’VE HEARD FROM Homepolish?</h3>
+<p>If you’re not a member but you’ve been contacted by Homepolish, we may have received your information in a few different ways. First, another member may have referred you. Members may give us your name and email address in order for them to customize an invitation for you to join. You also may receive similarly customized email reminders from your friend about this invitation. If you apply for membership, your information will be used in accordance with the rest of this privacy policy. If you choose not to apply online, your email address may be retained for a period. Similarly, a member may have shipped a gift or other merchandise to you through us and provided your personal information for that purpose.</p>
+<p>You may have received an offer from us. If you were a prior member, we may have invited you back. We may also have received your information from one of our partners or from the mailing, opt-in emailing, or phone lists of a reputable company. Unless we are using an opt-in only list in our marketing efforts, Homepolish will screen our lists with the Direct Marketing Association preference lists before we send such offers.</p>
+<h3>YOUR PRIVACY RIGHTS</h3>
+<p>Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to contact us to prevent disclosure of personal information to third parties for such third parties’ direct marketing purposes; in order to submit such a request, please contact us at <a href="mailto:info@homepolish.com">info@homepolish.com</a>.</p>
+<p>California residents are entitled to ask us for a notice identifying the categories of personal information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties.  If you are a California resident and would like a copy of this notice, please submit a written request to: ATTN: Marketing Team, 27 West 24th Street, Suite 200 New York, NY 10010</p>
+<h3>CONTACT US</h3>
+<p>If you have any questions about the Privacy Policy, please contact Client Services at <a href="mailto:info@homepolish.com">info@homepolish.com</a>.</p>
+			
 </div>
 
 <footer class="hp-footer cross-site-footer" id="footer" role="contentinfo">
-<div class="hp-footer__container">
-<div class="with-nav-tabs" id="cross-site-footer-mobile">
-<div class="hp-footer__logo">
-<span class="v1-icon-logo" title="Homepolish"></span>
-</div>
 
-<div class="info-partial-container">
-<div class="info-line">
-Homepolish, Inc.
-</div>
-<div class="info-line">
-<span>27 W 24th Street Fl. 2</span>
- 
-<span>New York</span>
-, 
-<span>NY</span>
- 
-<span>10010</span>
-</div>
-<div class="info-line">
-<span>info@homepolish.com</span>
- | 
-<span>844-808-4434</span>
-</div>
-<div class="info-line">
-© 2012-2017
-</div>
-</div>
+	<div class="hp-footer__container">
+		<div class="with-nav-tabs" id="cross-site-footer-mobile">
+			<div class="hp-footer__logo">
+				<span class="v1-icon-logo" title="Homepolish"></span>
+			</div>
 
-<ul class="accordion" id="cross-site-footer-links-columns">
-<div class="hp-footer-column hive-links-column">
-<li class="cross-site-footer-links-column">
-<a class="cross-site-footer-links-column-header" data-accordion-trigger="" href="/">
-Design Services
-<span class="v1-icon-add"></span>
-</a>
-<ul class="submenu">
-<li class="links-column-link-li">
-<a class="links-column-link" href="/cities">
-<p class="links-column-link-text">
-Locations
-</p>
-</a>
-</li>
-<li class="links-column-link-li">
-<a class="links-column-link" href="/start">
-<p class="links-column-link-text">
-Book a Designer
-</p>
-</a>
-</li>
-<li class="links-column-link-li">
-<a class="links-column-link" href="/about-us">
-<p class="links-column-link-text">
-About
-</p>
-</a>
-</li>
-<li class="links-column-link-li">
-<a class="links-column-link" href="/how-it-works">
-<p class="links-column-link-text">
-How it Works
-</p>
-</a>
-</li>
-<li class="links-column-link-li">
-<a class="links-column-link" href="/portfolio">
-<p class="links-column-link-text">
-Portfolio
-</p>
-</a>
-</li>
-<li class="links-column-link-li">
-<a class="links-column-link" href="/commercial">
-<p class="links-column-link-text">
-Commercial Design
-</p>
-</a>
-</li>
-<li class="links-column-link-li">
-<a class="links-column-link" href="/careers">
-<p class="links-column-link-text">
-Design Careers
-</p>
-</a>
-</li>
-<li class="links-column-link-li">
-<a class="links-column-link" href="/concierge">
-<p class="links-column-link-text">
-Concierge
-</p>
-</a>
-</li>
-<li class="links-column-link-li">
-<a class="links-column-link" href="/press">
-<p class="links-column-link-text">
-Press
-</p>
-</a>
-</li>
-<li class="links-column-link-li">
-<a class="links-column-link" href="/client-testimonials">
-<p class="links-column-link-text">
-Reviews
-</p>
-</a>
-</li>
-</ul>
-</li>
 
-</div>
-<div class="hp-footer-column mag-links-column">
-<li class="cross-site-footer-links-column">
-<a class="cross-site-footer-links-column-header" data-accordion-trigger="" href="/mag">
-The Magazine
-<span class="v1-icon-add"></span>
-</a>
-<ul class="submenu">
-<li class="links-column-link-li">
-<a class="links-column-link" href="/mag/tours">
-<p class="links-column-link-text">
-Tours
-</p>
-</a>
-</li>
-<li class="links-column-link-li">
-<a class="links-column-link" href="/mag/influencers">
-<p class="links-column-link-text">
-Influencers
-</p>
-</a>
-</li>
-<li class="links-column-link-li">
-<a class="links-column-link" href="/mag/commercial-tours">
-<p class="links-column-link-text">
-Commercial Tours
-</p>
-</a>
-</li>
-<li class="links-column-link-li">
-<a class="links-column-link" href="/mag/design-guides">
-<p class="links-column-link-text">
-Design Guides
-</p>
-</a>
-</li>
-<li class="links-column-link-li">
-<a class="links-column-link" href="/mag/interviews">
-<p class="links-column-link-text">
-Interviews
-</p>
-</a>
-</li>
-<li class="links-column-link-li">
-<a class="links-column-link" href="/mag/handbooks">
-<p class="links-column-link-text">
-Handbooks
-</p>
-</a>
-</li>
-<li class="links-column-link-li">
-<a class="links-column-link" href="/mag/ask-homepolish">
-<p class="links-column-link-text">
-Ask Homepolish
-</p>
-</a>
-</li>
-</ul>
-</li>
 
-</div>
+			<div class="info-partial-container">
+				<div class="info-line">
+					Homepolish, Inc.
+				</div>
+				<div class="info-line">
+					<span>27 W 24th Street Fl. 2</span>
+					<span>New York</span>, <span>NY</span> 
+					<span>10010</span>
+				</div>
+				<div class="info-line">
+					<span>info@homepolish.com</span>
+					| 
+					<span>844-808-4434</span>
+				</div>
+				<div class="info-line">
+					© 2012-<script>document.write(new Date().getFullYear())</script>2020
+				</div>
+			</div>
 
-</ul>
-<div class="cross-site-footer-mobile-bottom-section">
-<div class="newsletter-partial-container">
-<h6 class="newsletter-signup-header">
-Get our best in your inbox
-</h6>
-<form data-form-id="footer-newsletter-subscribe-mobile" class="newsletter-signup-form" action="/newsletter_subscriptions" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="✓">
-<input type="hidden" name="form_id" id="form_id" value="footer-newsletter-subscribe-mobile">
-<input type="hidden" name="list_key" id="list_key" value="main">
-<input class="newsletter-signup-input" name="email_address" placeholder="Your email address">
-<input class="btn condensed" type="submit" value="Sign Up">
-</form>
 
-</div>
 
-<div class="hp-footer__social-icons">
-<a class="secondary" href="https://facebook.com/Homepolish" target="_blank">
-<span class="v1-icon-facebook"></span>
-</a>
-<a class="secondary" href="https://pinterest.com/Homepolish" target="_blank">
-<span class="v1-icon-pinterest"></span>
-</a>
-<a class="secondary" href="https://instagram.com/Homepolish" target="_blank">
-<span class="v1-icon-instagram"></span>
-</a>
-<a class="secondary" href="https://twitter.com/homepolish" target="_blank">
-<span class="v1-icon-twitter"></span>
-</a>
-<a class="secondary" href="https://homepolish.com/tumblr" target="_blank">
-<span class="v1-icon-tumblr"></span>
-</a>
-</div>
+			<ul class="accordion" id="cross-site-footer-links-columns">
+				<div class="hp-footer-column hive-links-column">
+					<li class="cross-site-footer-links-column">
+						<a class="cross-site-footer-links-column-header" data-accordion-trigger="" href="/">
+							Design Services <span class="v1-icon-add"></span>
+						</a>
+						<ul class="submenu">
+							<li class="links-column-link-li">
+								<a class="links-column-link" href="/cities">
+									<p class="links-column-link-text">
+										Locations
+									</p>
+								</a>
+							</li>
+							<li class="links-column-link-li">
+								<a class="links-column-link" href="/start">
+								<p class="links-column-link-text">
+								Book a Designer
+								</p>
+								</a>
+							</li>
+							<li class="links-column-link-li">
+							<a class="links-column-link" href="/about-us">
+							<p class="links-column-link-text">
+							About
+							</p>
+							</a>
+							</li>
+							<li class="links-column-link-li">
+							<a class="links-column-link" href="/portfolio">
+							<p class="links-column-link-text">
+							Portfolio
+							</p>
+							</a>
+							</li>
+							<li class="links-column-link-li">
+							<a class="links-column-link" href="/commercial">
+							<p class="links-column-link-text">
+							Commercial Design
+							</p>
+							</a>
+							</li>
+							<li class="links-column-link-li">
+							<a class="links-column-link" href="/build">
+							<p class="links-column-link-text">
+							Build Services
+							</p>
+							</a>
+							</li>
+							<li class="links-column-link-li">
+							<a class="links-column-link" href="/careers">
+							<p class="links-column-link-text">
+							Design Careers
+							</p>
+							</a>
+							</li>
+							<li class="links-column-link-li">
+							<a class="links-column-link" href="/concierge">
+							<p class="links-column-link-text">
+							Concierge
+							</p>
+							</a>
+							</li>
+							<li class="links-column-link-li">
+							<a class="links-column-link" href="/guarantee">
+							<p class="links-column-link-text">
+							Guarantee
+							</p>
+							</a>
+							</li>
+							<li class="links-column-link-li">
+							<a class="links-column-link" href="/press">
+							<p class="links-column-link-text">
+							Press
+							</p>
+							</a>
+							</li>
+							<li class="links-column-link-li">
+							<a class="links-column-link" href="/client-testimonials">
+							<p class="links-column-link-text">
+							Reviews
+							</p>
+							</a>
+							</li>
+						</ul>
+					</li>
+				</div>
+				<div class="hp-footer-column mag-links-column">
+					<li class="cross-site-footer-links-column">
+					<a class="cross-site-footer-links-column-header" data-accordion-trigger="" href="/mag">
+					The Magazine
+					<span class="v1-icon-add"></span>
+					</a>
+					<ul class="submenu">
+					<li class="links-column-link-li">
+					<a class="links-column-link" href="/mag/tours">
+					<p class="links-column-link-text">
+					Tours
+					</p>
+					</a>
+					</li>
+					<li class="links-column-link-li">
+					<a class="links-column-link" href="/mag/influencers">
+					<p class="links-column-link-text">
+					Influencers
+					</p>
+					</a>
+					</li>
+					<li class="links-column-link-li">
+					<a class="links-column-link" href="/mag/commercial-tours">
+					<p class="links-column-link-text">
+					Commercial Tours
+					</p>
+					</a>
+					</li>
+					<li class="links-column-link-li">
+					<a class="links-column-link" href="/mag/design-guides">
+					<p class="links-column-link-text">
+					Design Guides
+					</p>
+					</a>
+					</li>
+					<li class="links-column-link-li">
+					<a class="links-column-link" href="/mag/interviews">
+					<p class="links-column-link-text">
+					Interviews
+					</p>
+					</a>
+					</li>
+					<li class="links-column-link-li">
+					<a class="links-column-link" href="/mag/handbooks">
+					<p class="links-column-link-text">
+					Handbooks
+					</p>
+					</a>
+					</li>
+					<li class="links-column-link-li">
+					<a class="links-column-link" href="/mag/ask-homepolish">
+					<p class="links-column-link-text">
+					Ask Homepolish
+					</p>
+					</a>
+					</li>
+					</ul>
+					</li>
+				</div>
+			</ul>
 
-<div class="bottom-links-partial-container">
-<a class="bottom-link" href="/jobs">
-<h6 class="bottom-link-text">Jobs</h6>
-</a>
-<a class="bottom-link" href="/faq">
-<h6 class="bottom-link-text">FAQs</h6>
-</a>
-<a class="bottom-link" href="mailto:info@homepolish.com">
-<h6 class="bottom-link-text">Contact</h6>
-</a>
-<a class="bottom-link" href="/terms">
-<h6 class="bottom-link-text">Terms</h6>
-</a>
-<a class="bottom-link" href="/privacy">
-<h6 class="bottom-link-text">Privacy</h6>
-</a>
-</div>
 
-</div>
-</div>
-<div id="cross-site-footer-desktop">
-<div class="hp-footer-column logo-column">
-<div class="hp-footer__logo">
-<span class="v1-icon-logo" title="Homepolish"></span>
-</div>
 
-</div>
-<div class="hp-footer-column info-column">
-<div class="info-partial-container">
-<div class="info-line">
-Homepolish, Inc.
-</div>
-<div class="info-line">
-<span>27 W 24th Street Fl. 2</span>
- 
-<span>New York</span>
-, 
-<span>NY</span>
- 
-<span>10010</span>
-</div>
-<div class="info-line">
-<span>info@homepolish.com</span>
- | 
-<span>844-808-4434</span>
-</div>
-<div class="info-line">
-© 2012-2017
-</div>
-</div>
 
-<div class="newsletter-partial-container">
-<h6 class="newsletter-signup-header">
-Get our best in your inbox
-</h6>
-<form data-form-id="footer-newsletter-subscribe-desktop" class="newsletter-signup-form" action="/newsletter_subscriptions" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="✓">
-<input type="hidden" name="form_id" id="form_id" value="footer-newsletter-subscribe-desktop">
-<input type="hidden" name="list_key" id="list_key" value="main">
-<input class="newsletter-signup-input" name="email_address" placeholder="Your email address">
-<input class="btn condensed" type="submit" value="Sign Up">
-</form>
 
-</div>
+			<div class="cross-site-footer-mobile-bottom-section">
+				<div class="newsletter-partial-container">
+					<h6 class="newsletter-signup-header">
+						Get our best in your inbox
+					</h6>
+					<form data-form-id="footer-newsletter-subscribe-mobile" class="newsletter-signup-form" action="/newsletter_subscriptions" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="✓">
+					<input type="hidden" name="form_id" id="form_id" value="footer-newsletter-subscribe-mobile">
+					<input type="hidden" name="list_key" id="list_key" value="main">
+					<input class="newsletter-signup-input" name="email_address" placeholder="Your email address">
+					<input class="btn condensed" type="submit" value="Sign Up">
+					</form>
+				</div>
 
-<div class="hp-footer__social-icons">
-<a class="secondary" href="https://facebook.com/Homepolish" target="_blank">
-<span class="v1-icon-facebook"></span>
-</a>
-<a class="secondary" href="https://pinterest.com/Homepolish" target="_blank">
-<span class="v1-icon-pinterest"></span>
-</a>
-<a class="secondary" href="https://instagram.com/Homepolish" target="_blank">
-<span class="v1-icon-instagram"></span>
-</a>
-<a class="secondary" href="https://twitter.com/homepolish" target="_blank">
-<span class="v1-icon-twitter"></span>
-</a>
-<a class="secondary" href="https://homepolish.com/tumblr" target="_blank">
-<span class="v1-icon-tumblr"></span>
-</a>
-</div>
 
-<div class="bottom-links-partial-container">
-<a class="bottom-link" href="/jobs">
-<h6 class="bottom-link-text">Jobs</h6>
-</a>
-<a class="bottom-link" href="/faq">
-<h6 class="bottom-link-text">FAQs</h6>
-</a>
-<a class="bottom-link" href="mailto:info@homepolish.com">
-<h6 class="bottom-link-text">Contact</h6>
-</a>
-<a class="bottom-link" href="/terms">
-<h6 class="bottom-link-text">Terms</h6>
-</a>
-<a class="bottom-link" href="/privacy">
-<h6 class="bottom-link-text">Privacy</h6>
-</a>
-</div>
 
-</div>
-<ul id="cross-site-footer-links-columns">
-<div class="hp-footer-column hive-links-column">
-<li class="cross-site-footer-links-column">
-<a class="cross-site-footer-links-column-header" href="/">
-Design Services
-<span class="v1-icon-add"></span>
-</a>
-<ul class="submenu">
-<li class="links-column-link-li">
-<a class="links-column-link" href="/cities">
-<p class="links-column-link-text">
-Locations
-</p>
-</a>
-</li>
-<li class="links-column-link-li">
-<a class="links-column-link" href="/start">
-<p class="links-column-link-text">
-Book a Designer
-</p>
-</a>
-</li>
-<li class="links-column-link-li">
-<a class="links-column-link" href="/about-us">
-<p class="links-column-link-text">
-About
-</p>
-</a>
-</li>
-<li class="links-column-link-li">
-<a class="links-column-link" href="/how-it-works">
-<p class="links-column-link-text">
-How it Works
-</p>
-</a>
-</li>
-<li class="links-column-link-li">
-<a class="links-column-link" href="/portfolio">
-<p class="links-column-link-text">
-Portfolio
-</p>
-</a>
-</li>
-<li class="links-column-link-li">
-<a class="links-column-link" href="/commercial">
-<p class="links-column-link-text">
-Commercial Design
-</p>
-</a>
-</li>
-<li class="links-column-link-li">
-<a class="links-column-link" href="/careers">
-<p class="links-column-link-text">
-Design Careers
-</p>
-</a>
-</li>
-<li class="links-column-link-li">
-<a class="links-column-link" href="/concierge">
-<p class="links-column-link-text">
-Concierge
-</p>
-</a>
-</li>
-<li class="links-column-link-li">
-<a class="links-column-link" href="/press">
-<p class="links-column-link-text">
-Press
-</p>
-</a>
-</li>
-<li class="links-column-link-li">
-<a class="links-column-link" href="/client-testimonials">
-<p class="links-column-link-text">
-Reviews
-</p>
-</a>
-</li>
-</ul>
-</li>
 
-</div>
-<div class="hp-footer-column mag-links-column">
-<li class="cross-site-footer-links-column">
-<a class="cross-site-footer-links-column-header" href="/mag">
-The Magazine
-<span class="v1-icon-add"></span>
-</a>
-<ul class="submenu">
-<li class="links-column-link-li">
-<a class="links-column-link" href="/mag/tours">
-<p class="links-column-link-text">
-Tours
-</p>
-</a>
-</li>
-<li class="links-column-link-li">
-<a class="links-column-link" href="/mag/influencers">
-<p class="links-column-link-text">
-Influencers
-</p>
-</a>
-</li>
-<li class="links-column-link-li">
-<a class="links-column-link" href="/mag/commercial-tours">
-<p class="links-column-link-text">
-Commercial Tours
-</p>
-</a>
-</li>
-<li class="links-column-link-li">
-<a class="links-column-link" href="/mag/design-guides">
-<p class="links-column-link-text">
-Design Guides
-</p>
-</a>
-</li>
-<li class="links-column-link-li">
-<a class="links-column-link" href="/mag/interviews">
-<p class="links-column-link-text">
-Interviews
-</p>
-</a>
-</li>
-<li class="links-column-link-li">
-<a class="links-column-link" href="/mag/handbooks">
-<p class="links-column-link-text">
-Handbooks
-</p>
-</a>
-</li>
-<li class="links-column-link-li">
-<a class="links-column-link" href="/mag/ask-homepolish">
-<p class="links-column-link-text">
-Ask Homepolish
-</p>
-</a>
-</li>
-</ul>
-</li>
 
-</div>
 
-</ul>
-</div>
-</div>
+				<div class="hp-footer__social-icons">
+				<a class="secondary" href="https://facebook.com/Homepolish" target="_blank">
+				<span class="v1-icon-facebook"></span>
+				</a>
+				<a class="secondary" href="https://pinterest.com/Homepolish" target="_blank">
+				<span class="v1-icon-pinterest"></span>
+				</a>
+				<a class="secondary" href="https://instagram.com/Homepolish" target="_blank">
+				<span class="v1-icon-instagram"></span>
+				</a>
+				<a class="secondary" href="https://twitter.com/homepolish" target="_blank">
+				<span class="v1-icon-twitter"></span>
+				</a>
+				</div>
+
+
+
+
+				<div class="bottom-links-partial-container">
+					<a class="bottom-link" href="/jobs">
+					<h6 class="bottom-link-text">Jobs</h6>
+					</a>
+					<a class="bottom-link" href="/faq">
+					<h6 class="bottom-link-text">FAQs</h6>
+					</a>
+					<a class="bottom-link" href="mailto:info@homepolish.com">
+					<h6 class="bottom-link-text">Contact</h6>
+					</a>
+					<a class="bottom-link" href="/terms">
+					<h6 class="bottom-link-text">Terms</h6>
+					</a>
+					<a class="bottom-link" href="/privacy">
+					<h6 class="bottom-link-text">Privacy</h6>
+					</a>
+				</div>	
+
+
+
+
+			</div>
+		</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<div id="cross-site-footer-desktop">
+			<div class="hp-footer-column logo-column">
+				<div class="hp-footer__logo">
+					<span class="v1-icon-logo" title="Homepolish"></span>
+				</div>
+
+			</div>
+			<div class="hp-footer-column info-column">
+				<div class="info-partial-container">
+				<div class="info-line">
+				Homepolish, Inc.
+				</div>
+				<div class="info-line">
+				<span>27 W 24th Street Fl. 2</span>
+
+				<span>New York</span>, 
+				<span>NY</span>
+
+				<span>10010</span>
+				</div>
+				<div class="info-line">
+				<span>info@homepolish.com</span>
+				| 
+				<span>844-808-4434</span>
+				</div>
+				<div class="info-line">
+				© 2012-<script>document.write(new Date().getFullYear())</script>2020
+				</div>
+				</div>
+
+				<div class="newsletter-partial-container">
+				<h6 class="newsletter-signup-header">
+				Get our best in your inbox
+				</h6>
+				<form data-form-id="footer-newsletter-subscribe-desktop" class="newsletter-signup-form" action="/newsletter_subscriptions" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="✓">
+				<input type="hidden" name="form_id" id="form_id" value="footer-newsletter-subscribe-desktop">
+				<input type="hidden" name="list_key" id="list_key" value="main">
+				<input class="newsletter-signup-input" name="email_address" placeholder="Your email address">
+				<input class="btn condensed" type="submit" value="Sign Up">
+				</form>
+
+				</div>
+
+				<div class="hp-footer__social-icons">
+				<a class="secondary" href="https://facebook.com/Homepolish" target="_blank">
+				<span class="v1-icon-facebook"></span>
+				</a>
+				<a class="secondary" href="https://pinterest.com/Homepolish" target="_blank">
+				<span class="v1-icon-pinterest"></span>
+				</a>
+				<a class="secondary" href="https://instagram.com/Homepolish" target="_blank">
+				<span class="v1-icon-instagram"></span>
+				</a>
+				<a class="secondary" href="https://twitter.com/homepolish" target="_blank">
+				<span class="v1-icon-twitter"></span>
+				</a>
+				</div>
+
+				
+
+				<div class="bottom-links-partial-container">
+				<a class="bottom-link" href="/jobs">
+				<h6 class="bottom-link-text">Jobs</h6>
+				</a>
+				<a class="bottom-link" href="/faq">
+				<h6 class="bottom-link-text">FAQs</h6>
+				</a>
+				<a class="bottom-link" href="mailto:info@homepolish.com">
+				<h6 class="bottom-link-text">Contact</h6>
+				</a>
+				<a class="bottom-link" href="/terms">
+				<h6 class="bottom-link-text">Terms</h6>
+				</a>
+				<a class="bottom-link" href="/privacy">
+				<h6 class="bottom-link-text">Privacy</h6>
+				</a>
+				</div>
+			</div>
+
+
+
+
+			<ul id="cross-site-footer-links-columns">
+				<div class="hp-footer-column hive-links-column">
+					<li class="cross-site-footer-links-column">
+					<a class="cross-site-footer-links-column-header" href="/">
+					Design Services
+					<span class="v1-icon-add"></span>
+					</a>
+					<ul class="submenu">
+					<li class="links-column-link-li">
+					<a class="links-column-link" href="/cities">
+					<p class="links-column-link-text">
+					Locations
+					</p>
+					</a>
+					</li>
+					<li class="links-column-link-li">
+					<a class="links-column-link" href="/start">
+					<p class="links-column-link-text">
+					Book a Designer
+					</p>
+					</a>
+					</li>
+					<li class="links-column-link-li">
+					<a class="links-column-link" href="/about-us">
+					<p class="links-column-link-text">
+					About
+					</p>
+					</a>
+					</li>
+					<li class="links-column-link-li">
+					<a class="links-column-link" href="/portfolio">
+					<p class="links-column-link-text">
+					Portfolio
+					</p>
+					</a>
+					</li>
+					<li class="links-column-link-li">
+					<a class="links-column-link" href="/commercial">
+					<p class="links-column-link-text">
+					Commercial Design
+					</p>
+					</a>
+					</li>
+					<li class="links-column-link-li">
+					<a class="links-column-link" href="/build">
+					<p class="links-column-link-text">
+					Build Services
+					</p>
+					</a>
+					</li>
+					<li class="links-column-link-li">
+					<a class="links-column-link" href="/careers">
+					<p class="links-column-link-text">
+					Design Careers
+					</p>
+					</a>
+					</li>
+					<li class="links-column-link-li">
+					<a class="links-column-link" href="/concierge">
+					<p class="links-column-link-text">
+					Concierge
+					</p>
+					</a>
+					</li>
+					<li class="links-column-link-li">
+					<a class="links-column-link" href="/guarantee">
+					<p class="links-column-link-text">
+					Guarantee
+					</p>
+					</a>
+					</li>
+					<li class="links-column-link-li">
+					<a class="links-column-link" href="/press">
+					<p class="links-column-link-text">
+					Press
+					</p>
+					</a>
+					</li>
+					<li class="links-column-link-li">
+					<a class="links-column-link" href="/client-testimonials">
+					<p class="links-column-link-text">
+					Reviews
+					</p>
+					</a>
+					</li>
+					</ul>
+					</li>
+				</div>
+
+
+
+
+
+				<div class="hp-footer-column mag-links-column">
+					<li class="cross-site-footer-links-column">
+					<a class="cross-site-footer-links-column-header" href="/mag">
+					The Magazine
+					<span class="v1-icon-add"></span>
+					</a>
+					<ul class="submenu">
+					<li class="links-column-link-li">
+					<a class="links-column-link" href="/mag/tours">
+					<p class="links-column-link-text">
+					Tours
+					</p>
+					</a>
+					</li>
+					<li class="links-column-link-li">
+					<a class="links-column-link" href="/mag/influencers">
+					<p class="links-column-link-text">
+					Influencers
+					</p>
+					</a>
+					</li>
+					<li class="links-column-link-li">
+					<a class="links-column-link" href="/mag/commercial-tours">
+					<p class="links-column-link-text">
+					Commercial Tours
+					</p>
+					</a>
+					</li>
+					<li class="links-column-link-li">
+					<a class="links-column-link" href="/mag/design-guides">
+					<p class="links-column-link-text">
+					Design Guides
+					</p>
+					</a>
+					</li>
+					<li class="links-column-link-li">
+					<a class="links-column-link" href="/mag/interviews">
+					<p class="links-column-link-text">
+					Interviews
+					</p>
+					</a>
+					</li>
+					<li class="links-column-link-li">
+					<a class="links-column-link" href="/mag/handbooks">
+					<p class="links-column-link-text">
+					Handbooks
+					</p>
+					</a>
+					</li>
+					<li class="links-column-link-li">
+					<a class="links-column-link" href="/mag/ask-homepolish">
+					<p class="links-column-link-text">
+					Ask Homepolish
+					</p>
+					</a>
+					</li>
+					</ul>
+					</li>
+				</div>
+			</ul>
+		</div>
+	</div>
 </footer>
 
 <div class="hp-mobile-tab-bars" id="mobile-tab-bars">
-<a class="btn" data-track-book-now="true" data-button-id="mobile_nav" href="/start">Book Now</a>
+	<a class="btn" data-track-book-now="true" data-button-id="mobile_nav" href="/start">Book Now</a>
+</div>
 </div>
 
+
+<!-- DO NOT COPY THIS SNIPPET! &mdash; HubSpot Identification Code -->
+<script type="text/javascript">
+(function(d,w) {
+w._hsq = w._hsq || [];
+w._hsq.push(["setContentType", "standard-page"]);
+})(document, window);
+</script>
+<!-- End of HubSpot Identification Code &mdash; DO NOT COPY THIS SNIPPET! -->
+
+<!-- Start of Async HubSpot Analytics Code for WordPress v1.2.1 -->
+<script type="text/javascript" id="hs-script-loader" async="" defer="" src="//js.hs-scripts.com/3892157.js"></script>
+<!-- End of Async HubSpot Analytics Code -->
+<!-- This site is converting visitors into subscribers and customers with OptinMonster - https://optinmonster.com :: Campaign Title: Homepolish Mobile Mag Popup --><div id="om-oknmmd04qchfhvibiloj-holder"></div><script>var oknmmd04qchfhvibiloj,oknmmd04qchfhvibiloj_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){oknmmd04qchfhvibiloj_poll(function(){if(window['om_loaded']){if(!oknmmd04qchfhvibiloj){oknmmd04qchfhvibiloj=new OptinMonsterApp();return oknmmd04qchfhvibiloj.init({"u":"27023.594352","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmstr.com/app/js/api.min.js",o.async=true,o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;oknmmd04qchfhvibiloj=new OptinMonsterApp();oknmmd04qchfhvibiloj.init({"u":"27023.594352","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");</script><!-- / OptinMonster --><!-- This site is converting visitors into subscribers and customers with OptinMonster - https://optinmonster.com :: Campaign Title: Homepolish Mag Popup --><div id="om-g42zy4vxqpbetqhp-holder"></div><script>var g42zy4vxqpbetqhp,g42zy4vxqpbetqhp_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){g42zy4vxqpbetqhp_poll(function(){if(window['om_loaded']){if(!g42zy4vxqpbetqhp){g42zy4vxqpbetqhp=new OptinMonsterApp();return g42zy4vxqpbetqhp.init({"u":"27023.506613","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmstr.com/app/js/api.min.js",o.async=true,o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;g42zy4vxqpbetqhp=new OptinMonsterApp();g42zy4vxqpbetqhp.init({"u":"27023.506613","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");</script><!-- / OptinMonster -->	    <script type="text/javascript">var oknmmd04qchfhvibiloj_shortcode = true;var g42zy4vxqpbetqhp_shortcode = true;</script>
+	    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js?ver=4.9.7"></script>
+<script type="text/javascript" src="https://homepolish.com/wp-content-2018/themes/thevoux-wp/assets/js/vendor.js?ver=4.9.7"></script>
+<script type="text/javascript" src="https://homepolish.com/wp-content-2018/themes/thevoux-wp/assets/js/plugins/hmpl-auth.js?ver=4.9.7"></script>
+<script type="text/javascript" src="https://homepolish.com/wp-content-2018/themes/thevoux-wp/assets/js/svelte.js?ver=4.9.7"></script>
+	    <script type="text/javascript">var omapi_localized = { ajax: 'https://homepolish.com/wp-admin/admin-ajax.php?optin-monster-ajax-route=1', nonce: '399e19cdbb' };</script>
+	    
 <!-- Google Tag Manager (javascript disabled) -->
 <noscript>
-<iframe height='0' src='//www.googletagmanager.com/ns.html?id=GTM-MKH9LX' style='display:none;visibility:hidden' width='0'></iframe>
+	<iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-MKH9LX" style="display:none;visibility:hidden" width="0"></iframe>
 </noscript>
-<script src="https://www.homepolish.com/assets/vendor-3441c80b389b46348d290c0960bbf6b33ed3e04c59be9e9020e07a504eabbe5b.js"></script>
-<script src="https://www.homepolish.com/assets/svelte-6c56c03f899e1e99a1e51fcd7da4d594e40552887b25b708c1661997f6ff6fa9.js"></script>
-
-
 
 
 </body></html>
