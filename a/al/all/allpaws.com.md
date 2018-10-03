@@ -1,124 +1,287 @@
-> *The following text is extracted and transformed from the allpaws.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706222453id_/https%3A//www.allpaws.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allpaws.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003172902id_/https%3A//www.petsmartcharities.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | AllPaws
+# Privacy Policy | PetSmart Charities
 
-Version Date: 3/17/2016
+**General and Donor Privacy Policy**
 
-Your privacy is important to us. This Privacy Policy sets forth how DCL Ventures, Inc., the owner and operator of the Allpaws.com website (hereinafter “Allpaws.com,” “we,” or “us”) will collect, use and share information in connection with your use of the Allpaws.com website and mobile application (the “Service”).
+PetSmart Charities® wants you to know how we collect, use, share and protect information about you.  By interacting with us, you consent to our use of information that is collected or submitted as we describe in this privacy policy.  We may change or add to this privacy policy, so we urge you to review it periodically. This policy applies only to residents of the United States. If you are a resident of Canada, please click [here](https://www.petsmartcharities.ca/privacy-policy) for applicable information.
 
-BY ACCESSING OR USING THE SERVICE, YOU AGREE TO BE BOUND BY ALL TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT WISH TO ACCEPT ALL THE TERMS OF THIS PRIVACY POLICY, DO NOT ACCESS OR USE THE SERVICE.
+## What Information is Collected
 
-If you access or login to our Service using a third party Social Networking Service (“SNS”), such as Facebook or Google+, you may be required to also read and accept the terms of service and privacy policy of that SNS.
+## Types of personal information we collect include:
 
-## INFORMATION WE COLLECT
+  * Your name
+  * Your mailing address
+  * Your e-mail address
+  * Your phone (or mobile) number
+  * Your credit/debit card number
+  * Your donation information
+  * Your date of birth or age
+  * Your location
+  * Your pet’s information (name, breed, date of birth, gender, veterinary information, photographs, etc.)
 
-We may collect both Personal and Non-Personal Information. Personal Information is defined as information about you that can be used to contact or identify you such as your name, e-mail address, home address, or telephone number. Personal Information does not include aggregate information, which is data we collect about the characteristics and activities of users of the Service, from which any Personal Information has been removed. Non-Personal Information does not identify you personally and can include age, gender and interests.
 
-## A. Information About You Received From an SNS
 
-We may allow you to access or login to the Service using a SNS, in which case you are allowing Allpaws.com access to the Personal Information you have provided to that SNS. The information share varies from service to service and is also controlled by the privacy settings you established at the SNS. The information we collect when you access the Service on an SNS may include: your first and last name, your user ID, the user IDs of your friends, your profile picture, your locale, city, state and country, your e-mail address, your gender and your birthdate.
+## If you choose not to provide personal information, we may not be able to provide you with requested services or information.  
 
-By using the Service through an SNS, you are authorizing Allpaws.com to collect, store, and use in accordance with this Privacy Policy any and all information that you agreed the SNS could provide to Allpaws.com.
+### Automated Information Collection
 
-## B. Information You Give To Us Directly
+We may connect information collected automatically with information we may already have about you.  If we are able to identify you as a PetSmart Charities supporter, we may, for example, link your activity on our website to your activity in one of our Adoptions Centers.  This allows us to provide you with a personalized experience regardless of how you interact with us – online, in-person, mobile, etc.
 
-When you interact with the Service (whether or not on an SNS), we may collect, store, and use information from you directly that you voluntarily provide to us. For example, we may allow you to register with us by creating an account or profile within the Service, in which case you may be required to provide certain identifying information, such as your name, address, age, e-mail address, a password and other information that helps us confirm that it is you accessing your account. In addition, you may voluntarily submit Personal Information when you, for example, make a purchase, sign up for newsletters, send us feedback, post on our Facebook fan page, or fill out our universal pet adoption application.
+### PetSmart Charities Automated Information Collection
 
-## C. User Submissions
+We and our Service Providers use cookies, web beacons, and other technologies to receive and store certain types of information whenever you interact with us through your computer or mobile device.  This information, which includes the pages you visit on our site, which web address you came from, the type of device you are using, donation information, search terms and geographic location, helps us recognize you, customize your website experience and make our outreach efforts more relevant.  These technologies also enable us to provide features such as text (SMS/MMS) messages you have chosen to receive.  We also use Flash cookies for fraud prevention and other purposes.
 
-We may collect information you provide to us while using various communication services, such as, chat areas and/or other message, communication or other interactive forums accessed through the Service which are designed to enable you to communicate with others or to post content on the Service (“Communication Services”). Please remember that any information you disclose on our Communication Services becomes public information and is subject to redistribution by Allpaws.com pursuant to this Privacy Policy and our Terms of Service Agreement. You should exercise caution and discretion when deciding to disclose any Personal Information in a submission or posting. There is no expectation of privacy when using, posting, or otherwise participating in the Communication Services. If you post content, such as messages, photos and videos, please be aware that any Personal Information contained in such content is accessible to registered users or visitors to the Allpaws.com website or Communication Service and we have no control over how those users may use such Personal Information.
+In order to provide the best online experience possible, we also use these technologies for reporting and analysis purposes, such as how you are using our website, performance of our outreach efforts, and your response to those outreach efforts.
 
-## D. Payment Information
+### Third-Party Automated Information Collection
 
-Because we use a third-party payment service (such as PayPal) to process transactions, if any, on our Service, we generally do not collect sensitive payment information, such as your credit card number. We may, however, collect and use information related to your purchases and purchase history.
+In certain instances, we allow third-party organizations to collect certain information from you when you visit our website and to use that information to provide requested services and information to you.  These parties typically use a cookie or a third party web beacon to collect this information.
 
-## E. Technical Usage Information and Cookies
+### Mobile App and Mobile Website
 
-Log Data and Mobile Devices. When you use the Service, our servers record information that your browser sends whenever you visit a website (“Log Data“). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type or the webpage you were visiting before you came to the Service, pages of the websites involved in the Service that you visit, the time spent on those pages, information you search for, access times and dates, and other information. If you access the Service from a mobile or other device, we may collect a unique device identifier assigned to that device or other transactional information for that device, such as your device type, geo-location and operating system.
+If you access the PetSmart Charities website through a mobile device, the same type of information outlined throughout this policy may be collected.
 
-Cookies and Local Storage. We may also use cookies and other tracking technologies (including but not limited to browser cookies, pixels, beacons, and Adobe flash technology), which are comprised of small bits of data that often include an anonymous unique identifier. Websites send this data to your browser when you first request a web page and then store the data on your computer so the website can access information when you make subsequent requests for pages from that Service. These technologies may be used to collect and store information about your usage of Service, such as pages you have visited and search queries you have run. Information contained in a cookie may also be linked to your Personal Information for purposes such as improving the quality of the Service and making the Service easier to use. You can disable cookies at any time, although, if you do so, you may not be able to access or use the Service or certain of its features.
+### User Experience Information
 
-## F. Customer Support Information
+In order to improve your online experience, help with fraud identification, and to assist our representatives in resolving issues you may experience in completing online donations or other online activities on our site, we use tools to monitor certain user experience information; including login information, IP address, data regarding pages visited and specific actions taken on pages visited (e.g., information entered during donation process), and browser information.
 
-When you ask for assistance from our customer support team, we will collect and store the contact information you provide (generally your name and e-mail address), information about your activity on the Service, your user ID number, and certain technical details, such as your browser and IP address. We will also store and use the correspondence and any information contained within.
+### Social Media Widgets
 
-## G. Third-Parties
+PetsmartCharities.org includes social media features, such as the Facebook interactive buttons, Google Plus, YouTube, Instagram and Twitter widgets.  These features may collect information about your IP address and which page you’re visiting on our site, and they may set a cookie to make sure the feature functions properly.  Social media features and widgets are either hosted by a third party or hosted directly on our site.  Your interactions with those features are governed by the privacy policies of the companies that provide them.
 
-To improve the quality of our services, we may supplement the information we collect with information we obtain from third parties.
+### Information from Other Sources
 
-## HOW WE USE AND SHARE YOUR INFORMATION
+We may collect data that’s publicly available.  For example, information you submit in a public forum (e.g., a blog, chat room, or social media) can be read, collected, or used by us and others, and could be used to personalize your experience.  You are responsible for the information you choose to submit in these instances.
 
-Allpaws.com does not share your Personal Information with third parties except as approved by you or as described in this Privacy Policy.
+We also may obtain information provided by third parties.  For instance, we may obtain information from organizations that can enhance our existing supporter information to improve the accuracy and add to the information we have about our supporters (for example, adding address information).  This improves our ability to contact you and increases the relevance of our outreach efforts by providing better information that may interest you.
 
-## A. To Provide and Manage the Service
+### Facility Cameras
 
-We use the information we collect from and about users to provide the Service and features to you, including to analyze and improve those services and features; to personalize your experience by delivering relevant content, advertising, and marketing messages; to process payments and orders; to allow you to comment on the Service, participate in contests, and promotions; to enable you to communicate and share content with other users or services; and to provide you with customer support and respond to inquiries.
+PetSmart Charities’ Adoption Centers sometimes occupy space within PetSmart stores.  In-store cameras are used for security and operational purposes such as measuring and observing customer traffic patterns. You may access the PetSmart, Inc. Privacy Policy by clicking [here](https://www.petsmart.com/helpdeskcategory/-helpdesk-safety-category-helpdesk_category_cmp_20121219_173952?article=helpdesk_landing_article_privacy_policy_cmp_20120808_142218).
 
-We may combine Personal Information with Non-Personal Information and use this combination in an effort to improve your experience or to aggregate it with information collected from other users to improve or analyze our Service. This privacy policy in no way limits or restricts our collection of aggregate information or of Non-Personal Information.
+### Geo-Location Tracking
 
-## B. To Allow Third-Parties to Assist Us In Providing and Managing the Service
+Certain mobile devices contain geo-location tracking capability.  We may use such capability or other geo-location tracking technology for outreach and analytical purposes.
 
-We may make your non-public Personal Information available to certain third party service providers, such as contractors, agents, or sponsors, who help us manage or provide the Service by, for example: developing or supporting products and features; conducting e-mail marketing on our behalf; web-hosting; processing payments; administering message boards; fulfilling orders; processing data or statistics; or assisting with the administration, judging, and prize fulfillment aspects of contests and promotions. These outside service providers are required to protect non-public Personal Information entrusted to them and not use it for any other purpose than the specific services they are providing to Allpaws.com.
+## How Your Information is Used
 
-## C. To Contact You
+Examples of how we may use the information we collect include (but are not limited to):
 
-We are committed to providing you with the best possible user experience and, therefore, one of the key uses of your personal information is to communicate with you. We may periodically contact you in connection with customer support inquiries and to alert you as to the status of your account. We may also contact you by e-mail for research purposes so that we can continually improve and update the Service based on your input.
+### Donations and Services Fulfillment
 
-We may also send promotional e-mail directly or in partnership with parties other than Allpaws.com to provide you with special offers and other services. If you want to stop receiving promotional materials from Allpaws.com or its partners, follow the unsubscribe instructions at the bottom of each party’s e-mail or change the settings in your "My Account" page under "Email Preferences." There are certain service notification e-mails that you may not opt-out of as long as you are registered with or subscribed to Service, such as notifications of changes to our Service or policies. If you provided us with your mailing address we or our partners may also send you products and special offers by regular mail (such as our "new pet parent" welcome kit).
+  * Process donations or requests for information about our services on our website, or to otherwise serve you
+  * Connect within PetSmart Charities regarding our mission via personnel contact, e-mail, or on social media platforms
+  * Administer sweepstakes and contests
+  * Connect you with third parties that perform certain services in connection with PetSmart Charities (such as animal rescue or spay/neuter organizations)
 
-## D. To Deliver Relevant Advertising and Promotions
 
-We may use the information you provide to us, and information we collect about your use of the Service through cookies and other technologies, to assist us in delivering you relevant ads when you use the Service. We may work with third party advertising networks and advertisers who help deliver these ads to you. We do not share your non-public Personal Information with these third parties, but we may share anonymized or aggregated information with them to improve the relevancy of the ads you see on the Service. As noted above, these third party advertising networks and advertisers may also use cookies and similar technologies to collect and track Non-Personal Information such as demographic information, aggregated information, and Internet activity to assist them in delivering advertising that is more relevant to your interests.
 
-## E. To Share With Our Business Partners 
+### Our Outreach Purposes
 
-We may send you information or special offers from other companies or organizations with whom we have a business relationship. In such cases, we do not provide your Personal Information to them and they will not know your identity unless you choose to transact with them, in which case their privacy policies will govern your relationship. With your consent, we may share your Personal Information (including information about your pet) with other companies or organizations that are not part of AllPaws.com. These companies and organizations may use the information we share to provide special offers and opportunities to you. For example, if you choose to receive additional information about "pet insurance" on the sign-up confirmation/welcome page, we may share your information (including Personal Information) with a business partner who may send you offers for pet insurance. In addition, we may share your information (including Personal Information and information about your pet) with our trusted partners to jointly provide you with special offers and information when you adopt a pet through our Service. You will have the opportunity to unsubscribe from any subsequent e-mail offers by following the instructions on such e-mails and you can change your sharing preferences on your account page. 
+  * Deliver newsletters, e-mails, mobile messages, and social media notifications
+  * Provide interactive features of the website or mobile applications, such as outreach communications and other information regarding our services and activities.
+  * Administer outreach surveys and focus groups
 
-## F. Legal Matters; Safety
 
-We may, without your consent, access and disclose your information, any communications sent or received by you, and any other information that we may have about you as may be permitted or required by law (including, but not limited to, court order or subpoena), or to prevent or investigate suspected fraud, violations of our Terms of Service Agreement or this Privacy Policy, or activity that appears to us to be illegal or may expose us to legal liability.
 
-## G. Sale or Transfer of Assets
+### Internal Operations
 
-If Allpaws.com sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, Allpaws.com may transfer your Personal Information to the party or parties involved in the transaction as part of that transaction.
+  * Improve the effectiveness of our website, mobile experience, and outreach efforts
+  * Conduct research and analysis
+  * Perform other activities as needed, or as described elsewhere in this privacy policy
 
-## POLICY REGARDING CHILDREN
 
-The Service is not intended for children under the age of 13, and we do not knowingly collect Personal Information from children under 13 years of age. In the event that we learn that we have inadvertently gathered personal information from children under the age of 13, we will take reasonable measures to promptly erase such information from our records.
 
-## USER CONTROL AND RETENTION OF DATA
+### Photographs and Information about Your Pet
 
-If you have created an account with us directly (not through an SNS), you may access and change your account information by visiting your account page and making the desired changes. To manage the information we receive about you from an SNS, you will need to follow the instructions at that Service for updating your information and changing your privacy settings. Once we receive your information from an SNS, that information is stored and used by us in accordance with this Privacy Policy.
+  * Photographs of your pet may be taken and used for our internal recordkeeping purposes, to share with you or your designated family members/agents via email or text, or to facilitate our outreach efforts (for example, in social media)
+  * We may maintain information about your pet for our internal recordkeeping purposes or to facilitate our outreach efforts
+  * Your pet’s name may also be uploaded to our database and associated with your name
 
-If you want to stop using your account you may deactivate it. When you deactivate an account, no user will be able to see it and all marketing and activity-related emails will cease, but it will not be deleted. For your convenience, we save your profile information in case you later decide to reactivate your account, and may retain your information and data associated with your account as provided in this Privacy Policy. At this time, we do not have an option for users to permanently delete their accounts.
 
-We may retain information collected from you, including Personal Information, after you have ceased using the Service or deactivated your account, for the purpose of providing and improving the Service, for analytical and recordkeeping purposes and integrity, as well as to prevent fraud, resolve disputes, enforce our Terms or other policies, take actions we deem necessary due to technical and legal requirements and constraints related to the security, integrity and operation of the Service. In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties’ policies.
 
-## SECURITY
+### Fraud Prevention
 
-We have put in place reasonable technical and organizational measures designed to secure your Personal Information from accidental loss and from unauthorized access, use, alteration, or disclosure. However, we do not guarantee, and explicitly disclaim any implied representation, warranty, or other promise, that unauthorized third parties will never be able to overcome those measures or use your Personal Information for improper purposes. Also please note that e-mail and messaging systems are not considered secure, so we discourage you from sending us Personal Information through these mediums.
+  * Prevent fraudulent activity
+  * Monitor against theft
+  * Protect our visitors and supporters, and our charitable operations and assets
 
-## THIRD PARTIES
 
-Our Service may contain links to or from the websites of companies other than Allpaws.com. We are not responsible for the privacy practices or the content of such websites. If you have any questions about how these other websites use your information, you should review their policies and contact them directly.
 
-## CALIFORNIA PRIVACY RIGHTS
+### Legal Compliance
 
-Under California law, California residents who have an established business relationship with us may choose to opt out of the disclosure of Personal Information about them to third parties for such third parties’ direct marketing purposes. Our policy is not to disclose Personal Information collected online to a third party for direct marketing purposes without your approval. If you choose to opt-out at any time after granting approval, please contact us as provided below.
+  * Investigate claims, incidents or inquiries regarding supporters, associates, vendors, pets and pet adopters
+  * Assist law enforcement, animal control, health officials and other government entities to respond to legal, regulatory, health and similar inquiries
 
-## INTERNATIONAL USERS
 
-If you are using the Service from outside the United States, by providing your information on the Service, you are consenting to the transfer of your information to the United States for processing and maintenance in accordance with this Privacy Policy and our Terms of Service Agreement. You are also consenting to the application of United States law in all matters concerning the Service.
 
-## CHANGES TO THIS AGREEMENT
+## How Your Information is Shared
 
-Allpaws.com reserves the right, in its sole discretion, to modify or revise this Privacy Policy at any time, and you agree to be bound by such modifications or revisions. Any such change or modification will be effective immediately or, where required by law, 30 days after their publication in connection with the Service. Allpaws.com may notify you of any such changes by posting the notice of such changes on the Allpaws.com website or sending notice via other means. Your continued use of the Service after any changes or modifications to this Privacy Policy are posted will constitute your acceptance of, and agreement to, such changes or modifications. If you object to any change or modification, your sole recourse shall be to cease using the Service.
+### Donors
 
-## CONTACTING US
+When you make a donation to PetSmart Charities we will collect your name, mailing address, phone number, e-mail address and billing information, as well as credit/debit card information. This information enables us to contact you in the event of payment processing difficulties, verify or respond to your donation, and deliver services and information about PetSmart Charities to you. If you authorize us to do so, we will retain your credit/debit card information to process recurring payment transactions.
 
-If you have any questions about this Privacy Policy, or the practices of Allpaws.com’s Service, please contact us at:
+PetSmart Charities will not sell, trade or share a donor’s personal information with anyone else nor send donor mailings on behalf of other organizations, unless a donor has given PetSmart Charities specific permission to do so.  We may share information in limited circumstances as described in this Policy, including the following:
 
-DCL Ventures, Inc.   
-1 Penn Plaza, 36th Floor   
-New York, NY 10119   
-Email: 
+  * When necessary for Legal Requirements as described in this Policy
+  * When applicable for regulatory purposes (such as annual IRS filings on Form 990)
+  * With Service Providers who we engage to support our own internal operations and administration – in these cases, the Service Providers are required to maintain confidentiality of donor information, and they are prohibited from selling, trading or sharing such information with anyone else
+
+
+
+### PetSmart Charities and Associated Organizations
+
+We share the information we collect within PetSmart Charities.  We also share information with organizations that are closely associated with PetSmart Charities, such as PetSmart, Inc., PetSmart Store Support Group, Inc., PetSmart Puerto Rico, PetSmart Charities of Canada and PETM Canada Corporation (“Associate Organizations”). PetSmart Charities and these entities may use this information to contact you about information and charitable opportunities that may be of interest to you or for other outreach purposes.
+
+### Service Providers
+
+We may share the information we collect with organizations that provide internal operations and administrative support services to us (such as printers, e-mail marketers, mobile marketers, analytics providers, web hosting providers, call center service providers, sweepstakes vendors, payment processors, or data enhancement providers) (“Service Providers”) or help us with our outreach efforts.  These organizations may need information about you in order to perform their functions. If we share your personal information with these organizations, it is on a confidential basis and the Service Providers are not authorized to use the personal information we share with them for any purpose other than providing services for PetSmart Charities.
+
+### Legal Requirements
+
+We may disclose information we collect when we believe disclosure is appropriate to comply with the law; to enforce or apply applicable terms and conditions and other agreements; or to protect the rights, property or safety of our organization, our supporters, pets in the care of organizations that we work with, the public or others.
+
+### Elsewhere at Your Direction
+
+At your direction or request, we may share your information. 
+
+### Sharing with Other Organizations (for their outreach purposes)
+
+We may communicate to you information from other organizations.  In such cases, we do not provide your personal information to them and they will not know your identity unless you choose to transact with them, in which case their privacy policies will govern your relationship.  With your consent, we may share your personal information with other organizations that are not part of PetSmart Charities.  These organizations may use the information we share to provide special opportunities to you.
+
+### Sharing Aggregate Information with Third Parties
+
+We may share aggregate non-personally identifiable information (information that does not directly identify an individual) with third parties for any lawful purpose.
+
+### Asset Transfers
+
+If some or all of our assets are sold or transferred, we may transfer the corresponding information regarding our supporters.  We also may retain a copy of that supporter information.
+
+## What Choices You Have
+
+### Opt-Out Choices
+
+You may “opt out” of certain PetSmart Charities outreach communications.  Most of our communications are sent by email and direct mail, though you may also opt out of other types of communications. You may also access or change your personal information or ask us to do so.
+
+**To opt-out yourself:**
+
+  * Follow opt-out “unsubscribe” instructions in outreach e-mails we send to you.
+  * Log on to PetSmartCharities.org to access and change your profile information and preferences if you have an online account with us.
+  * Set the _Help_ function of your browser to not receive cookies.  Please note this may make it difficult or impossible to take certain actions on PetSmartCharities.org.
+  * Text STOP to text messages (SMS/MMS) we send to you.
+  * Contact us as described in Questions or Concerns below. Please include your full name, address, phone number and e-mail address. Also, tell us what information you would like to access, change or add to our “opt out” list. This will help us process your request.
+
+
+
+If you “opt out” of PetSmart Charities’ communications, you may continue to receive communications from PetSmart Charities and its Service Providers such as donation confirmations, communications directly related to a pet adopted through our Adoption Centers, and other specific administrative information related to your relationship with PetSmart Charities. Your information will remain in our database marked as inactive so that you no longer receive outreach materials from us.
+
+**If you need our help:**
+
+  * Call us at 1-800-423-PETS (7387) (U.S. residents) and tell them which information you would like to access or which types of contacts you want to opt out of. Please note you may need to speak with a manager.
+  * **E-mail:**  [info[at]petsmartcharities[dot]org](https://web.archive.org/geo-contact/info/petsmartcharities/org) and tell them which information you would like to access or which types of contacts you would like to opt out of.
+  *   **Mail:**               PetSmart Charities, Inc.
+
+
+
+Attn: Privacy Officer
+
+19601 N. 27th Avenue
+
+Phoenix, AZ 85027
+
+  * When mailing or e-mailing us, please include your full name, address, phone number and e-mail address. Also tell us what information you would like to access, change or add to our “opt-out” list. This will help us process your request.
+
+
+
+**More Details on How to Opt-Out**
+
+**Direct Mail**
+
+If you do not wish to receive outreach mail directly from us, you may opt out by logging on to PetSmartCharities.org to access and change your profile information and preferences if you have an online account with us, or by calling 1-800-423-PETS (7387) (U.S. residents) as described above.
+
+**Telephone**
+
+If you do not wish to receive outreach telephone calls from us, you may opt out by logging on to PetSmartCharities.org to access and change your profile information and preferences if you have an online account with us, or by calling 1-800-423-PETS (7387) (U.S. residents) as described above. This opt out does not apply to operational phone calls including, for example, confirmation of pet location.
+
+**E-mail**
+
+If you do not wish to receive outreach e-mails from us, you may opt out by logging on to PetSmartCharities.org to access and change your profile information and preferences if you have an online account with us, or by calling 1-800-423-PETS (7387) (U.S. residents) as described above. You may still receive select e-mails from us if you have requested or otherwise accepted them through one of our Service Providers, but you may discontinue these e-mails by canceling your subscription to those services.
+
+You also have the ability to opt out of outreach e-mails on the “unsubscribe” link included in each outreach e-mails or by updating your profile via the “Update Profile” link at the bottom of our outreach e-mails.
+
+**Sharing with Other Organizations (for their outreach purposes)**
+
+If you do not wish us to share the personal information we have collected with other unaffiliated organizations for their outreach purposes, you may opt out by logging on to PetSmartCharities.org to access and change your profile information and preferences if you have an online account with us, or by calling 1-800-423-PETS (7387) (U.S. residents) as described above.
+
+**Mobile**
+
+We may distribute mobile outreach text messages to mobile devices of supporters who have requested this information. 
+
+To opt out of a specific mobile messaging campaign, reply "STOP" to text messages we send you. 
+
+To opt out of all mobile messaging, follow the phone manufacturers’ directions on how to delete cookies or other technology received from our mobile website.  For many phones, you will go to the Settings function to do this.
+
+**Online - PetSmartCharities.org Cookies**
+
+The _Help_ function of your browser should contain instructions to set your computer to accept all cookies, to notify you when a cookie is issued, or to not receive cookies at any time.  If you set your computer to not receive cookies at any time, certain personalized services may not be provided to you, and accordingly, you may not be able to take full advantage of all of the PetSmartCharities.org features (i.e., you will be able to browse the site, but may not be able to use certain features).
+
+**Online - Third-Party Cookies**
+
+Certain organizations provide services that analyze information regarding visits to PetSmartCharities.org.  They use technology such as cookies and web beacons to collect this information.  The _Help_ function of your browser should contain instructions to set your computer to accept all cookies, to notify you when a cookie is issued, or to not receive cookies at any time.  If you set your computer to not receive cookies at any time, certain personalized services may not be provided to you.
+
+**Third-Party Automated Information Collection**
+
+In order to enhance your customer experience, in certain instances we allow third-party companies to collect non-personally identifiable information when you visit our website.  These parties typically use cookies, third-party web beacons, and similar technologies to collect this information. Some browsers have a “do not track” feature that lets you tell websites that you do not want to have your online activities tracked. Neither PetSmart Charities nor its third party providers have a systematic method for ensuring that browser “Do Not Track” requests are consistently honored. However, you may learn more about these activities and how to opt out of the use of your web browsing activity by visiting [http://www.aboutads.info/choices/](http://scanmail.trustwave.com/?c=6406&d=3rHJ1daJAvzKKHOr9Oz-sUPHhCr974ZdODVTrt5H5A&u=http%3a%2f%2fwww%2eaboutads%2einfo%2fchoices%2f).
+
+## California Residents
+
+If you are a California resident and have an established relationship with us, you can request a notice disclosing the categories of personal information we have shared with third parties, for the third parties’ direct outreach purposes, during the preceding calendar year.  To request a notice, please submit your request to PetSmart Charities, Inc., Attn: Privacy Officer, 19601 N. 27th Avenue, Phoenix, AZ 85027.  Please allow 30 days for a response.
+
+## How to Access and Update Your Personal Information
+
+In order to keep your personal information accurate and complete, you may access or update some of it in the following ways:
+
+If you have created a PetSmartCharities.org account, you may log in and update your personal information.   You may also call **1-800-423-PETS (7387)** and ask for the information you are trying to access or change.  Please note that you may need to ask for a manager.
+
+## How Your Personal Information is Protected
+
+### Security Methods
+
+We maintain administrative, technical and physical safeguards to protect your personal information.  When we collect or transmit sensitive information such as a credit or debit card number, we use encryption, access controls, physical security, and other industry standard methods to protect that information.  However, no e-commerce solution, website, database or system is completely secure or “hacker proof.”  You are also responsible for taking reasonable steps to protect your personal information against unauthorized disclosure or misuse.
+
+### E-mail Security
+
+"Phishing" is a scam designed to steal your personal information.  If you receive an e-mail that looks like it is from us asking you for your personal information, do not respond.  We will never request your password, user name, credit card information or other personal information through e-mail.
+
+### Children’s Personal Information
+
+PetSmart Charities recognizes the particular importance of protecting privacy where children are involved.  We do not knowingly collect personally identifiable information online from children under the age of 13.
+
+## Questions or Concerns
+
+If you have general questions or concerns about how we use your personal information, please contact us at:
+
+**1\. E-mail:**  [Info[at]petsmartcharities[dot]org](https://web.archive.org/geo-contact/Info/petsmartcharities/org)
+
+**2\. Mail:**
+
+PetSmart Charities, Inc.
+
+Attn: Privacy Officer
+
+19601 North 27th Avenue
+
+Phoenix, AZ 85027
+
+**3\. Phone:**  Toll-free: 1-800-423-PETS (7387) (U.S. Supporters) or (Toll) 1-321-309-9065 (Supporters Outside of the U.S.)  You may need to ask for a manager.
+
+## PetSmart Charities Privacy Policy Scope
+
+This privacy policy applies to all current or former visitor personal information, except for information collected by or provided in connection with completing an application for employment with PetSmart Charities.  Our website may offer links to other sites. If you visit one of these sites, you may want to review the privacy policy on that site.  In addition, you may have visited our website through a link or a banner advertisement on another site.  In such cases, the site you linked from may collect information from people who click on the banner or link.  You may want to refer to the privacy policies on those sites to see how they collect and use this information.
+
+## Updates to this Privacy Policy
+
+If we intend to use or disclose your personal information in any way materially different than what we say in this privacy policy or make any other material changes, we will make reasonable efforts to revise this policy.  If we make any changes to this policy, we will change the “Revised” date below to reflect the date the changes take effect.
+
+_Revised October 2015_
