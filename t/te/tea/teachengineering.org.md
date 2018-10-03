@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teachengineering.org privacy policy that was archived on 2017-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170224043044id_/https%3A//www.teachengineering.org/policies/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachengineering.org privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004011655id_/https%3A//www.teachengineering.org/policies/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - www.teachengineering.org
+# Privacy Policy - TeachEngineering
 
 #### _TeachEngineering_ Privacy Statement
 
@@ -37,6 +37,8 @@ IP numbers and domain names are included in both the raw log files and the organ
 #### Cookies
 
 A _TeachEngineering_ web site or service may use cookies to improve the user's interaction with the site or service. _TeachEngineering_ does not use cookies to track visitors except in conjunction with a service that requires keeping track of a user's sessions, or actions, (e.g., a service allowing a user to see a history of their previous search queries). 
+
+TeachEngineering utilizes the services of AddThis to facilitate sharing of TeachEngineering content. AddThis collects data about how content is shared and where those shares are occurring. You can opt-out of the AddThis data collection at: [ http://www.addthis.com/privacy/opt-out ](http://www.addthis.com/privacy/opt-out) The full privacy policy of AddThis is found at: [ http://www.addthis.com/privacy/privacy-policy](http://www.addthis.com/privacy/privacy-policy)
 
 #### Public Forums: Email Lists, Chat Services, Web Forums
 
