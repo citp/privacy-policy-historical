@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the filmon.tv privacy policy that was archived on 2018-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180629004248id_/http%3A//filmon.tv/page/privacy-policy-en) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the filmon.tv privacy policy that was archived on 2018-10-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181003044220id_/http%3A//www.filmon.tv/page/privacy-policy-en) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://ogp.me/ns#" xml:lang="en" lang="en"><head>
 
@@ -29,7 +29,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
 <meta name="apple-itunes-app" content="app-id=994645555">
-<meta name="google-play-app" content="app-id=com.barrydrillercom.android">
+<meta name="google-play-app" content="app-id=com.filmontvcom.android">
 
 
 <meta name="googlebot" content="noodp">
@@ -68,15 +68,25 @@
             _console_log = console.log;
             _console_info = console.info;
             _console_debug = console.debug;
+	    try { 
+	    	if ( localStorage.getItem("__filmon_debug") === 1 ) {
+			return ;
+		} 
+	    }catch ( err ) {
+	    }
             console.log = function() {};
             console.info = function() {};
             console.debug = function() {}; 
+	    window.restoreConsole = function() {
+	    	localStorage.setItem("__filmon_debug", 1);
+		console.log = _console_log; console.debug = _console_debug; console.info = _console_info; 
+	    }
         })();
     } catch(e) {}
 
     
     var user_time = parseInt(Math.round((new Date()).getTime() / 1000));
-    var server_time  = 1530232968;
+    var server_time  = 1538541740;
     var server_user_time_diff =  server_time - user_time;
     server_user_time_diff = Math.round( server_user_time_diff / 1800 ) * 1800;
     function usertime_to_servertime( user_timestamp ) {
@@ -142,7 +152,7 @@
         FilmOn.User = w.user;
     })(window);
 
-    var flash_config = {"streamer":"\/tv\/modules\/FilmOnTV\/files\/flashapp\/filmon\/FilmonPlayer.swf?v=c151a271","360streamer":"\/tv\/modules\/FilmOnTV\/files\/flashapp\/filmon\/filmon360player.swf?v=c01a9983","subscribe":true,"type":"filmonPlayer","playVast":true,"vastApiUrl":"http:\/\/pubads.g.doubleclick.net\/gampad\/ads?sz=640x480&iu=\/166336097\/Filmon.com-Web&ciu_szs&impl=s&gdfp_req=1&env=vp&output=vmap&ad_rule=1&unviewed_position_start=1&url=www.filmon.com&correlator=1530232968&cust_params=domain%3Dtv","vastApiMidrollUrl":"","midrollInterval":300000,"midrollDelay":300000,"yume_enabled":false,"disable_seek":true,"player_available":true,"free_fullscreen":true,"fullscreen_redirect_url":"","forcePlayAd":null,"showSubscribeText":true,"hideControlsOnAd":false,"adLoadTimeoutVal":7,"skip_ad_timeout":-1,"adSkips":0,"loading_logo_url":"http:\/\/static.filmon.com\/theme\/white_labels\/1\/img\/flash-loading.png?v=2","loading_logo_label":"Loading....","waterfallingEnabled":false,"isHlsEnabled":true,"rtadidList":[88369297,88373617,107577457,107578177,107578417,107677057,107576257,107678617,107683537,107678857,107679697,107679937,107680417,107682217,107683057,102735097,120900457],"skipAdRestrictedIds":["100307977","104322577","99918937","90421417","84643057","114943537","118058137","118059337","117524377","117524737","118433377","106132057","120656857","121902937","121903057","121903297","120755137","120959617","121224697","123516217","123737257","123621217","125303257","188007937","125304577","126600457","126758977","126188617","188007937","198128377","131058697","130540777","135002017",100150897,99918937,134708977,125339017]};
+    var flash_config = {"streamer":"\/tv\/modules\/FilmOnTV\/files\/flashapp\/filmon\/FilmonPlayer.swf?v=c151a271","360streamer":"\/tv\/modules\/FilmOnTV\/files\/flashapp\/filmon\/filmon360player.swf?v=c01a9983","subscribe":true,"type":"filmonPlayer","playVast":true,"vastApiUrl":"http:\/\/pubads.g.doubleclick.net\/gampad\/ads?sz=640x480&iu=\/166336097\/Filmon.com-Web&ciu_szs&impl=s&gdfp_req=1&env=vp&output=vmap&ad_rule=1&unviewed_position_start=1&url=www.filmon.com&correlator=1538541740&cust_params=domain%3Dtv","vastApiMidrollUrl":"","midrollInterval":300000,"midrollDelay":300000,"yume_enabled":false,"disable_seek":true,"player_available":true,"free_fullscreen":true,"fullscreen_redirect_url":"","forcePlayAd":null,"showSubscribeText":true,"hideControlsOnAd":false,"adLoadTimeoutVal":7,"skip_ad_timeout":-1,"adSkips":0,"loading_logo_url":"http:\/\/static.filmon.com\/theme\/white_labels\/1\/img\/flash-loading.png?v=2","loading_logo_label":"Loading....","waterfallingEnabled":false,"isHlsEnabled":true,"rtadidList":[88369297,88373617,107577457,107578177,107578417,107677057,107576257,107678617,107683537,107678857,107679697,107679937,107680417,107682217,107683057,102735097,120900457],"skipAdRestrictedIds":["100307977","104322577","99918937","90421417","84643057","114943537","118058137","118059337","117524377","117524737","118433377","106132057","120656857","121902937","121903057","121903297","120755137","120959617","121224697","123516217","123737257","123621217","125303257","188007937","125304577","126600457","126758977","126188617","188007937","198128377","131058697","130540777","135002017",100150897,99918937,134708977,125339017]};
 
         // ]]>
 
@@ -205,9 +215,9 @@
 
 
 
-<link href="http://static.filmon.com/theme/white_labels/1/css/build/css/filmon.uikit.min.css?v=bb18c9ff" media="screen" rel="stylesheet" type="text/css">
-<link href="http://static.filmon.com/theme/white_labels/1/css/build/css/default.base.min.css?v=bb18c9ff" media="screen" rel="stylesheet" type="text/css">
-<link href="http://static.filmon.com/theme/white_labels/1/css/prod/widgets.min.css?v=bb18c9ff" media="screen" rel="stylesheet" type="text/css">
+<link href="http://static.filmon.com/theme/white_labels/1/css/build/css/filmon.uikit.min.css?v=b8fdeee8" media="screen" rel="stylesheet" type="text/css">
+<link href="http://static.filmon.com/theme/white_labels/1/css/build/css/default.base.min.css?v=b8fdeee8" media="screen" rel="stylesheet" type="text/css">
+<link href="http://static.filmon.com/theme/white_labels/1/css/prod/widgets.min.css?v=b8fdeee8" media="screen" rel="stylesheet" type="text/css">
 
         <link rel="dns-prefetch" href="//static.filmon.com">
         <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
@@ -296,10 +306,10 @@
 
     
         <div id="fb-root"></div>
-        <script type="text/javascript" src="http://www.filmon.tv/tv/modules/FilmOnTV/js/build/jquery.core.min.js?v=bb18c9ff"></script>
-<script type="text/javascript" src="http://www.filmon.tv/tv/modules/FilmOnTV/js/build/jquery.tools.min.js?v=bb18c9ff"></script>
-<script type="text/javascript" src="http://www.filmon.tv/tv/modules/FilmOnTV/js/build/common.min.js?v=bb18c9ff"></script>
-<script type="text/javascript" src="http://www.filmon.tv/tv/modules/FilmOnTV/js/facebook.js?v=bb18c9ff"></script>
+        <script type="text/javascript" src="http://www.filmon.tv/tv/modules/FilmOnTV/js/build/jquery.core.min.js?v=b8fdeee8"></script>
+<script type="text/javascript" src="http://www.filmon.tv/tv/modules/FilmOnTV/js/build/jquery.tools.min.js?v=b8fdeee8"></script>
+<script type="text/javascript" src="http://www.filmon.tv/tv/modules/FilmOnTV/js/build/common.min.js?v=b8fdeee8"></script>
+<script type="text/javascript" src="http://www.filmon.tv/tv/modules/FilmOnTV/js/facebook.js?v=b8fdeee8"></script>
         <div id="page">
             
 <div id="fb-root"></div><div class="bubbles" style="display:none;"><div class="bubble-arrow"><!-- arrow --></div>Take control here. Enjoy the show!</div><div id="header" class="navigation-bar filmon bubbles-on"><div class="navigation-panel"><a class="logo" data-identifier="logo" href="/" title="FilmOn. LiveTV HDi. Anytime. Anywhere."><img src="http://static.filmon.com/theme/images/logo/FilmOn-90x90.png" alt="Logo"></a><a href="javascript:void(0)" class="navigation-switch" data-rel-section="start"><span data-icon="" class="ico-sandwich"><!-- Sandwich --></span></a><a href="javascript:void(0)" class="navigation-switch" data-identifier="authentication" data-rel-section="authentication"><span data-icon="" class="ico-login"><!-- login --></span></a><a href="/affiliate" class="navigation-switch"><span data-icon="" class="ico-cloud"><!-- Cloud --></span></a><a href="javascript:void(0)" class="navigation-switch" data-rel-section="applications"><span data-icon="" class="ico-device"><!-- Device --></span></a><!--        <div id="notifications-app"></div> --><div class="goto-navigation"><a href="javascript:void(0)" class="navigation-switch goto-top" title="Scroll to top"><span data-icon="" class="ico-option"><!-- Button --></span></a><a href="javascript:void(0)" class="navigation-switch goto-bottom" title="Scroll to bottom"><span data-icon="" class="ico-option"><!-- Button --></span></a></div></div><!-- / .navigation-panel --><div class="navigation-list"><div class="navigation-header">
@@ -616,7 +626,7 @@
             <span class="title green">Premium</span>
             <span class="arrow green"></span>
             <ul class="drop-list">
-                                                <li class="drop-item">
+                                <li class="drop-item">
                     <a href="/group/filmon-exclusive/" class="js-header-tab" data-view="premium-tv" title="Live TV">
                         <i class="filmon-icon" data-icon=""></i>
                         <span>Live TV</span>
@@ -625,7 +635,7 @@
                             </ul>
         </li>
 
-                <li class="navigation-item search">
+        <li class="navigation-item search">
             <form method="get" action="/search/" class="js-primary-header-search-form">
                 <fieldset>
                     <input class="ui text-field w100 js-primary-header-search-input" name="term" type="search" placeholder="Search here..." value="" autocomplete="off">
@@ -644,8 +654,8 @@
     </ul>
 </header><!-- ./ primary-header -->
 
-<!-- <link href="http://static.filmon.com/theme/build/css/notification/notification.min.css?v=bb18c9ff" type="text/css" rel="stylesheet"> --> 
-<!-- <script type="text/javascript" src="/tv/modules/FilmOnTV/public/theme/js/notification/main.min.js?v=bb18c9ff"></script> --><div id="static">
+<!-- <link href="http://static.filmon.com/theme/build/css/notification/notification.min.css?v=b8fdeee8" type="text/css" rel="stylesheet"> --> 
+<!-- <script type="text/javascript" src="/tv/modules/FilmOnTV/public/theme/js/notification/main.min.js?v=b8fdeee8"></script> --><div id="static">
     <div class="share-buttons">
       <a href="/share/facebook" target="_blank" class="share-button-item_social share-button-item no-text share-buttons-sprite facebook_share-button"></a>
     <a href="/share/twitter" target="_blank" class="share-button-item_social share-button-item no-text share-buttons-sprite twitter_share-button"></a>
@@ -918,6 +928,7 @@ _qevents.push({
 
 
 
+<script language="javascript"> var WC_pub =  "c6cf4471-226b-1f1a-774e-59262f3fc3ce"; var WC_param = "0"; </script> <script src="https://d1usx49nhcilp7.cloudfront.net/current/wowconnect.min.js"></script> 
     
 
 </body></html>
