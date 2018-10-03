@@ -1,34 +1,67 @@
-> *The following text is extracted and transformed from the madhouse909.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016221303id_/http%3A//www.madhouse909.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madhouse909.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003164607id_/http%3A//madhouse909.com/page/privacy-policy-3) for the most accurate reproduction.*
 
-# Madcashcentral reciprocal Links Directory - Privacy Policy
+# Privacy Policy
 
-Madcashcentral reciprocal Links Directory lists only true Quality pages. Features and targets most General, Internet Advertising and Promoting related websites for people seeking Advertising, Business Opportunities relevant Information, Resources, Services and Tools. Only the best and most popular sites will get in and our proprietary ranking system will make sure that only the highest quality sites will be at the top of our listings. We Sell Banner Ads, Do-Follow,- and Featured links. Before any link submissions are aproved for Listing, they are reviewed by either the Directory Admin or A Directory Editor. Because ALL our listed links are reviewed by either the Directory Admin or A Directory Editor, We can proudly call ourselves a Human Edited Web Directory
+**ACCEPTANCE OF PRIVACY POLICY**
 
- **Madcashcentral Free reciprocal Links Directory Privacy Policy**
+ **Last updated  **: (03-01-2018)
 
-  
-Welcome to Madcashcentral Free reciprocal Links Directory (the "Site"). 
+Madcashcentral Business Links Directory - Internet Advertising, Business & Marketing Blog ("us", "we", or "our") operates http://www.madhouse909.com (the "Site"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 
-We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Madcashcentral Free reciprocal Links Directory (collectively, "Services") ("Authorized Customers").
+**Information Collection And Use**  : What we do with the information we gather
 
-"Personally Identifiable Information" refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number,and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual. 
+We use your Personal Information only for providing us with useful statistics and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to your name, job, address... ( i.e. "Personal Information"). We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-What Personally Identifiable Information is collected? We may collect basic user profile information from all of our Visitors. We collect the followingadditional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and sizeof the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell. 
+**Internal record keeping** : What it means
 
-How does the Site use Personally Identifiable Information? We use Personally Identifiable Information to customize the Site, to make appropriate serviceofferings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and sellingopportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitorsand Authorized Customers in response to specific inquiries, or to provide requested information. 
+\- We may use the information to improve our products and services.
 
-How is Personally Identifiable Information stored? Personally Identifiable Information collected by Madcashcentral Free reciprocal Links Directory is securely stored and is not accessible to third parties. 
+\- We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
 
-What choices are available to Visitors regarding collection, use and distribution of the information? Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or bycontacting us at admin@madcashcentral.com 
+\- From time to time, we may also use your information to contact you for market research purposes. We may contact you by
 
-Are Cookies Used on the Site? Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and theservices they select. We also use Cookies for security purposes to protect our Authorized Customers. 
+  email, phone, fax or mail.
 
-How does Madcashcentral Free reciprocal Links Directory use login information? Madcashcentral Free reciprocal Links Directoryuses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information. 
+\- We may use the information to customize the website according to your interests.
 
-How can Visitors correct any inaccuracies in Personally Identifiable Information? Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at admin@madcashcentral.com 
+\- We may provide your information to our third party partners for marketing or promotional purposes.
 
-Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site? We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting admin@madcashcentral.com. However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward. 
+\- We will never sell your information.
 
-What happens if the Privacy Policy Changes? We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting suchchanges on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that aVisitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor orAuthorized Customer to prevent such disclosure. 
+**Log Data**  : What is that ?
 
-Links: This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. Weencourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
+Like many site operators, we also collect information that your browser sends whenever you visit our Site, that is called ("Log Data").
+
+This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics.
+
+In addition, we may use third party services such as Google Analytics to collect, monitor and analyze this data… The Log Data section is used for analytics or tracking services in websites or apps, like Google Analytics. For the full disclosure section, see Google's Privacy Policy.
+
+**Communications**  : Why and how we contact our users
+
+We may use your Personal Information to contact you through personalemails, newsletters, marketing or promotional materials and other information that we may find benificiary and/or helpful to our users.
+
+**Cookies**  : How we use cookies
+
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. However, if you do not accept cookies, you may not be able to use some portions of our Site. and this may prevent you from taking full advantage of our services and website.
+
+**Security**  : what measures do we use
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+
+**Links to other websites**
+
+Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+**Changes To This Privacy Policy**
+
+This Privacy Policy is effective as of (01-09-2017) and will remain in effect, except with respect to any changes in its provisions in the future, which will be effective immediately after being posted on this page.
+
+We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the (modified) Privacy Policy.
+
+If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website. If you have any questions about this Privacy Policy, please contact us.
