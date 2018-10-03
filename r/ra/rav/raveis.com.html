@@ -1,616 +1,562 @@
-<!--The following is the downloaded HTML source of the raveis.com privacy policy that was archived on 2013-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131230205136id_/http%3A//www.raveis.com/webpolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the raveis.com privacy policy that was archived on 2018-10-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181004015735id_/https%3A//www.raveis.com/webpolicy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#" class=""><head>
+		<!--Meta-->
 		
 		<meta name="p:domain_verify" content="ab0622193ef5c0be54895394bc7ca1e7">
 		<title>Privacy Policy</title>
 <meta name="Description" content="William Raveis Real Estate, Inc. (" raveis")="" respects="" your="" privacy="" and="" is="" committed="" to="" protecting="" it.="" therefore,="" when="" it="" comes="" information="" that="" personally="" identifies="" you="" or="" allows="" be="" individually="" contacted="" ("personal="" information"),="" raveis="" has="" adopted="" the="" following="" policy="" fully="" protect="" you."="">
 <meta name="keywords" content="William Raveis Real Estate Privacy Policy">
-<link rel="canonical" href="http://www.raveis.com/webpolicy.asp">
+<link rel="canonical" href="https://www.raveis.com/webpolicy.asp">
 
-		
-		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>		
-		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.6/jquery-ui.min.js"></script>
-		<script type="text/javascript" src="/include/js/min/common.min.js"></script>
-		<script type="text/javascript" src="/include/js/min/jquery.client.min.js"></script>
-		<script type="text/javascript" src="/include/js/jquery.fancybox-1.3.4/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
-		<script type="text/javascript" src="/include/js/cycle.js"></script>
-		
-		<script type="text/javascript">
-		
-		</script>
-		<script type="text/javascript">
-			function fClickSignIn()
-			{
-				if (isEmpty(document.loginfrm.i_email1.value))
-				{
-					alert("Please enter your Email address.");
-					document.loginfrm.i_email1.focus();
-					return;
-				}
-				if (isEmpty(document.loginfrm.i_password1.value))
-				{
-					alert("Please enter your Password.");
-					document.loginfrm.i_password1.focus();
-					return;
-				}
-				document.loginfrm.btn.value = 1;
-				document.loginfrm.submit();
-			}
-			
-			function fClickForgotPwd(url)
-			{
-				if (! document.loginfrm.i_email1.value) 
-				{
-					alert("Please enter your email address");
-				}
-				else 
-				{
-					window.open(url + "?EMAIL=" + document.loginfrm.i_email1.value,null,"width=400,height=250,location=no,toolbar,scrollbars,resizable,top=0,left=0");
-				}
-			}
-		</script>
-		<script type="text/javascript">
-			$(document).ready(function(){ 
-					
-					$('#leftnav ul li:last').addClass('last');
-					$('#featured .property:nth-child(3n)').addClass('last');
-					$('#footer .nav ul li:last-child').addClass('last');
-					
-				//Simple Dropdowns
-					$("#topnav ul li").hover(function(){
-						$(this).addClass("hover");
-						$('ul:first',this).css('visibility', 'visible');
-					}, function(){
-						$(this).removeClass("hover");
-						$('ul:first',this).css('visibility', 'hidden');
-					});
-					$("#topnav ul li ul li:has(ul)").find("a:first").append(" &raquo; ");
-					
-					$("#footer .nav ul ul li.sub ul").css('display','none');
-					$("#footer .nav ul ul li.sub").hover(function(){
-						$('ul:first',this).css('display', 'block');
-					}, function(){
-						$('ul:first',this).css('display', 'none');
-					});
-					
-					$('#global-search').focus( function() {
-						$(this).addClass('norm');
-					});
-					
-					$('#global-search').blur( function() {
-						if ($(this).val() == 'Example: 123 Main St, Fairfield, CT')
-						{
-							$(this).removeClass('norm');
-						}
-					});
-					
-				//Tabs
-					$('#tabs').tabs({
-						selected: 1
-					});
-				//Home page Img Map
-					$('li.findahome .mapbg a').hover(function () {
-						var state = $(this).attr('class');
-						var img = state.replace( / state/g, '').toLowerCase();
-						$(this).parent().css('background','url("/images/homepage-map/map3/'+img+'.gif") top left no-repeat');
-					  },function () {
-						$(this).parent().css('background','none');
-					  });
-				//Agent table odd row
-					$('#content table.agentlist table tr:odd').addClass('odd');
-				//jQuery Fancybox video
-				$(".video-popup").fancybox({
-					 'width' : 640,
-					 'height' : 575,
-					 'autoScale' : false,
-					 'transitionIn' : 'elastic',
-					 'transitionOut' : 'elastic',
-					 'speedIn' : 600,
-					 'speedOut' : 600,
-					 'type' : 'iframe'
-				});
-				$(".more-vid").fancybox({
-					 'width' : 640,
-					 'height' : 575,
-					 'autoScale' : false,
-					 'transitionIn' : 'elastic',
-					 'transitionOut' : 'elastic',
-					 'speedIn' : 600,
-					 'speedOut' : 600,
-					 'type' : 'iframe'
-				});
-				$("a.play").fancybox({
-					 'width' : 640,
-					 'height' : 575,
-					 'autoScale' : false,
-					 'transitionIn' : 'elastic',
-					 'transitionOut' : 'elastic',
-					 'speedIn' : 600,
-					 'speedOut' : 600,
-					 'type' : 'iframe'
-				});
-				
-				//Mobile Walkthrough Cycles
-				$('ul#mobile-cycle').after('<div id="nav"><a id="prev"></a><a id="next"></a></div>');
-				$('ul#mobile-cycle').cycle({ 
-					fx:			'fade', 
-					speed:		1000, 
-					timeout:	99999,
-					next:		'a#next',
-					prev:		'a#prev'
-				});
-				$('ul#mobile-cycle-two').after('<div id="nav"><a id="prev-two"></a><a id="next-two"></a></div>');
-				$('ul#mobile-cycle-two').cycle({ 
-					fx:			'fade', 
-					speed:		1000, 
-					timeout:	99999,
-					next:		'a#next-two',
-					prev:		'a#prev-two'
-				});
-				$('ul#mobile-cycle-three').after('<div id="nav"><a id="prev-three"></a><a id="next-three"></a></div>');
-				$('ul#mobile-cycle-three').cycle({ 
-					fx:			'fade', 
-					speed:		1000, 
-					timeout:	99999,
-					next:		'a#next-three',
-					prev:		'a#prev-three'
-				});
-				
-				//Login Toggle
-				$('#login-btn').click(function () {
-					$('#login-form').slideToggle("slow");
-				});
-				//Account Toggle
-				$('#account-btn').click(function () {
-					$('#account-list').slideToggle("slow");
-				});
-				//Fave Prop popup
-				$('#fave-tip a.close').click(function() {
-					$('#fave-tip').fadeOut("slow");
-				});
-				
-			});
-		</script>
-			
-			<link rel="stylesheet" href="/include/css/min/style.min.css" type="text/css" media="screen">
-			
-			<link rel="stylesheet" href="/include/css/min/popup.min.css" type="text/css" media="screen">
-			<link rel="stylesheet" href="/include/css/print.css" type="text/css" media="print">
-			<link rel="stylesheet" href="/include/js/jquery.fancybox-1.3.4/fancybox/jquery.fancybox-1.3.4.css" type="text/css">
-			<link rel="stylesheet" type="text/css" href="/include/css/ratewatch.css">
-			<!--[if IE 7]><link href="/include/css/ie7.css" media="screen" rel="stylesheet" type="text/css" title="IE 7-Specific CSS Rules/Exceptions" /><![endif]-->
-			<!--[if lt IE 7]><link href="/include/css/ie6.css" media="screen" rel="stylesheet" type="text/css" title="IE 6-Specific CSS Rules/Exceptions" /><![endif]-->
-	<link rel="stylesheet" href="/include/css/locations-map.css" type="text/css" media="screen">	
-	
+
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<!--Google Translate-->
+		<meta name="google-translate-customization" content="aec96ba81e94b071-8ceb64ab9df098d9-g310c3dcbd0a54217-19">
+
+        
+		    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 		
 
-	<script type="text/javascript">
-	 var _gaq = _gaq || [];
-	  _gaq.push(['_setAccount', 'UA-1769908-1']);
-	  _gaq.push(['_setDomainName', 'raveis.com']);
-	  _gaq.push(['_setAllowLinker', true]);
-	  _gaq.push(['_trackPageview']);
+        <!--Typography.com Font Kit (Gotham)-->
+        <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6089036/6525592/css/fonts.css">
 
-	  (function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	  })();
+		<!--Styles-->
+        
+            <link rel="stylesheet" href="/css/reset.css?v=24" type="text/css" media="screen">
+		    <link rel="stylesheet" href="/css/base.css?v=24" type="text/css" media="screen">
+			<link rel="stylesheet" href="/css/styles.css?v=37" type="text/css" media="screen">
+			<link rel="stylesheet" href="/agent/css/styles.css?v=25" type="text/css">
+		    <link rel="shortcut icon" href="/images/favicon.gif" type="image/x-icon">
+            <link rel="stylesheet" href="/include/scripts/flexslider/flexslider.css" type="text/css" media="screen">
+		    <link rel="stylesheet" href="/include/scripts/jcarousel/skins/tango/skin.css" type="text/css" media="screen">
+		    <link rel="stylesheet" href="/include/scripts/layerslider/css/layerslider.css" type="text/css" media="screen">
+		    <link rel="stylesheet" href="/include/scripts/tinycarousel/style.css" type="text/css" media="screen">
+		    <link rel="stylesheet" href="/include/scripts/fancybox/jquery.fancybox.css?ver=2" type="text/css" media="screen">
+		
+		<link rel="stylesheet" href="/css/responsive.css?ver=2" type="text/css" media="screen">
+		
+		
+		<!--[if IE 7]>
+		<link rel="stylesheet" href="/css/ie7.css" type="text/css" media="screen" />
+		<![endif]-->
+		<!--[if IE 8]>
+		<link rel="stylesheet" href="/css/ie8.css" type="text/css" media="screen" />
+		<![endif]-->
+		
+		<!--Image Map Styles-->
+		<link rel="stylesheet" href="/css/image_map.css?v=20140820" type="text/css" media="screen">
+		
+		
+		<!--Scripts-->
+		
+		<script async="" src="//www.gstatic.com/wcm/loader.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5NXRPKZ"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KKV5PK"></script><script type="text/javascript" src="/include/scripts/jquery_1.10.0.js"></script>
+				
+		<script type="text/javascript" src="/include/scripts/jqueryUI_1.10.3.js"></script>
+		<script type="text/javascript" src="/include/scripts/flexslider/jquery.flexslider.js"></script>
+		<script type="text/javascript" src="/include/scripts/totemticker/js/jquery.totemticker.min.js"></script>
+		<script type="text/javascript" src="/include/scripts/jcarousel/lib/jquery.jcarousel.min.js"></script>
+		<script type="text/javascript" src="/include/scripts/tinycarousel/tinycarousel.min.js"></script>
+		<script type="text/javascript" src="/include/scripts/fancybox/jquery.fancybox.js"></script>
+		<script type="text/javascript" src="/include/scripts/fancybox/helpers/jquery.fancybox-media.js"></script>
+        <script type="text/javascript" src="/include/scripts/placeholder/jquery.placeholder.shim.js"></script>
+        <script type="text/javascript" src="/include/scripts/cookie/jquery.cookie.js"></script>
+
+		<script type="text/javascript" src="/include/scripts/site.js"></script>
+		<script type="text/javascript" src="/include/scripts/common.js?ver=4"></script>
+		
+
+		<script type="text/javascript">
+		    		
+		</script>
+		
+
+        <!--START ipad app popup-->
+		<script type="text/javascript">
+		    $(document).ready(function(){
+		        $('#login-box-small').fadeIn('normal');
+		        $('#login-box-small').find('.login-toparrow').fadeIn('normal');
+
+		        setTimeout(function() 
+		        {
+		            $('#login-box-small').fadeOut('normal');
+		            $('#login-box-small').find('.login-toparrow').fadeIn('normal')
+		        }, 15000);
+		    });
+		</script>
+		<!--END ipad app popup-->
+
+        <script type="text/javascript">
+            $(document).ready(function()
+            {
+                //THIS LINE CAUSING IE8 ISSUES!!!!
+                $('.externalLink').click(function(){
+                    window.open( $(this).attr('data-url') );
+                });
+
+                $('#app .close').click(function(e){
+                    e.preventDefault();
+
+                    $.cookie('DisableAppView', 'true', { expires: 7, path: '/' });
+                });
+				
+                $('#topnav>ul>li:last-child').addClass('last');
+
+                //Toggle account menu
+                $('.agentAdminAccountMenu-button').click(function() {
+                    $('.agentAdminAccountMenu-toggle').slideToggle();
+                });
+
+            });
+            $(document).click(function(event) {
+                //Close account menu on any click outside it
+                if(!$(event.target).closest('.agentAdminAccountMenu').length) {
+                    if($('.agentAdminAccountMenu-toggle').is(":visible")) {
+                        $('.agentAdminAccountMenu-toggle').slideUp();
+                    }
+                }
+            });
+        </script>
+		
+        
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KKV5PK');</script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5NXRPKZ');</script>
+<!-- End Google Tag Manager -->
+
+
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-1769908-1', 'raveis.com');
+	  ga('require', 'displayfeatures');
+
+      
+
+	  ga('send', 'pageview');
 	</script>
-	
-	
-	</head>
-	
-	<body class="">
-	
-    <div id="container" class="default">
-   
+
 		
-			<div id="header" class="default">
-				<img height="132px" width="888px" id="printheader" class="print" src="/images/printheader.gif">
-				<img height="100px" width="888px" id="altprintheader" class="print" src="/images/altprintheader.gif">
-				<img height="43px" width="888px" id="altprintheader1" class="print" src="/images/altprintheader1.gif">
-			
-			
-				<!--<a class="awards" href="http://www.raveis.com/officeawardslist.asp"><img src="/images/awards/38thAwards.jpg" /></a>-->
-			
-			
-				<h3 class="logo">
-					<a href="/" title="Go to Home Page">William Raveis <span>Real Estate - Mortgage - Insurance</span></a>
-				</h3>
+
+	<!-- Facebook Pixel Code -->
+	<!-- 4/29/2016 Replaced (ID changed from 800147060037889 -->
+	<!-- 10/26/2017 Replaced (ID changed from 1066892606674976 -->
+	
+	<script>
+	!function(f,b,e,v,n,t,s)
+	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];
+	s.parentNode.insertBefore(t,s)}(window,document,'script',
+	'https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '112943509429265');
+	fbq('track', 'PageView');
+	</script>
+
+	<noscript>
+	<img height="1" width="1" src="https://www.facebook.com/tr?id=112943509429265&ev=PageView&noscript=1"
+	/>
+	</noscript>
+
+<!-- End Facebook Pixel Code -->
+
+
+
+
+
+        <!--PPC PHONE TRACKING-->
+        <script type="text/javascript">
+        (function(a,e,c,f,g,h,b,d){var k={ak:"835974055",cl:"0ptCCNKa7XUQp-fPjgM",autoreplace:"888.699.8876"};a[c]=a[c]||function(){(a[c].q=a[c].q||[]).push(arguments)};a[g]||(a[g]=k.ak);b=e.createElement(h);b.async=1;b.src="//www.gstatic.com/wcm/loader.js";d=e.getElementsByTagName(h)[0];d.parentNode.insertBefore(b,d);a[f]=function(b,d,e){a[c](2,b,k,d,null,new Date,e)};a[f]()})(window,document,"_googWcmImpl","_googWcmGet","_googWcmAk","script");
+        </script>
+
+	<style type="text/css">.fancybox-margin{margin-right:0px;}</style></head>
+	<body style="">
+		
+		<div id="header" class="clearfix">
+		
+		
+			<div class="container clearfix">
 				
 				
-				<div class="tagline">
-					<p>The Largest Family-Owned Real Estate Company in the Northeast</p>
-					<h2>“The Best Website In Real Estate”</h2>
+				<span id="my-raveis-login" title="My Raveis Login">My Raveis Login<span class="arrow"></span></span>
+				<div id="login-box" class="g">
+					<span class="login-toparrow"></span>
+					<div class="inner-box clearfix">
+						<form id="login_form" name="login_form" method="post" onsubmit="return fSignin();">
+							<input class="input_blur" name="i_email1" id="email" placeholder="Email Address / Username" type="text">
+							<input class="input_blur" name="i_password1" id="i_password1" type="password" placeholder="Password">
+							<div class="clear"></div>
+                            <div id="keepMeLoggedDiv">
+                                <input name="i_keepmelogged" id="i_keepmelogged" type="checkbox">
+                                <label for="i_keepmelogged">Keep Me Logged In</label>
+                            </div>
+							<span class="login-forgot" onclick="javascript:poppass('/lostpwd.asp')">Forgot Password?</span>
+							<div class="divider"></div>
+							
+							<input name="login_form" form="login_form" class="login-signin" value="Sign In" type="submit">
+							<div class="divider"></div>
+							<a class="login-create" href="/eformcontact.asp?MYRAVEIS=Y">Create An Account</a>	
+							<input type="hidden" name="pname" id="pname" value="/webpolicy.asp">
+						</form>
+						<div class="quick_links">
+							<div class="divider"></div>
+							<a href="/myhomepage.asp">My Homepage</a>
+							<a href="/eformcontact.asp?MYRAVEIS=Y&amp;Login=Y">My Profile</a>
+							<a href="/myproperties.asp">Favorite Properties</a>
+                            <a href="/mysharedfavorites.asp">Shared Favorites</a>
+                            <a href="/mysoldproperties.asp">Sold Properties</a>
+							<a href="/myproperties.asp">Saved Searches</a>
+							<a href="/myopenhouse.asp">Open Houses</a>
+							<a href="/mymarketreport.asp">Housing Newsletter</a>
+                            <a href="/mymortgage.asp">My Mortgage</a>
+							<a href="/myscheduledappointment.asp">Scheduled Appointments</a>
+						</div>
+					</div>
+				</div>
+                <div id="login-box-small" class="g" style="display: block;">
+					<span class="login-toparrow"></span>
+					<div class="inner-box clearfix">
+						<form id="login_form_small" name="login_form_small" method="post" action="" onsubmit="return false;">
+							<input name="login_form" form="login_form_small" class="login-signin" value="Sign In" type="button" onclick="window.location.href = '/signin.asp?FROM=';">
+							<div class="divider"></div>
+							<a class="login-create" href="/eformcontact.asp?MYRAVEIS=Y">Create An Account</a>	
+							<input type="hidden" name="pname" id="pname" value="/webpolicy.asp">
+						</form>
+					</div>
 				</div>
 				
-			
+				<a id="logo" href="https://www.raveis.com"><img alt="William Raveis Real Estate, Mortgage, Insurance" id="logo2" src="/images/raveis-real-estate-logo.png"></a>  
 				
-				<div class="needhelp">
-					<a href="https://raveis.whoson.com/chat/chatstart.aspx?domain=www.raveis.com" target="_blank" onclick="this.newWindow = window.open('https://raveis.whoson.com/chat/chatstart.aspx?domain=www.raveis.com&amp;url=' + escape(document.location.href), 'Chat', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480');this.newWindow.focus();this.newWindow.opener=window;return false;">
-						<img src="/images/buttons/btn.assistance.gif" border="0" alt="Help Button"></a><br>
-					<a href="/">Home</a>
-				</div>
-				
-				<div class="flash">
-				<object type="application/x-shockwave-flash" data="/flash/scrollerv5-1311.swf" width="470" height="29" id="slideshow" align="middle">
-					<param name="movie" value="/flash/scrollerv5-1311.swf">
-					<param name="quality" value="high">
-					<param name="bgcolor" value="#ffffff">
-					<param name="wmode" value="transparent">
-				</object>
-                </div>
-				
-				<div class="mlssearchx">
-					<form method="post" action="/quickfind.asp">
-						<input type="hidden" name="from" value="quickfind">
-						<label><small>Search by MLS#, Address, or Agent Name</small></label><br><input id="global-search" type="text" size="28" name="searchtext" onblur="if (this.value == '') {this.value = 'Example: 123 Main St, Fairfield, CT';}" onfocus="if (this.value == 'Example: 123 Main St, Fairfield, CT') {this.value = '';}" value="Example: 123 Main St, Fairfield, CT">
-						<input class="go" type="submit" value="GO" align="top">
-					</form>
-                </div>
-				<div class="clear"></div>
-			
-				   
 				<div id="topnav">
-				
-						<ul class="dropdowns">
-							<li class="findahome"><a href="/propfindmap.asp">Find a Home</a>
-								<ul>
-									<li><a title="Find a Home in CT, MA, RI, and NY" href="/propfindmap.asp">Find a Home</a></li>								
-									<li><a href="/eCommitment.asp">Exceptional Properties</a></li>
-									<li><a href="http://www.raveisnewhomes.com" target="_BLANK">New Homes / New Construction</a></li>
-									<li><a href="/newfindmap.asp">New Listings</a></li>
-									<li><a title="Find Lot / Land in CT, MA, RI, and NY" href="/propfindmap.asp?type=land">Land / Lot</a></li>
-									<li><a title="Find Commercial property in CT, MA, NH, NY, and VT" href="/propfindmap.asp?com=Y">Commercial Properties</a></li>
-									<li><a href="/openfindmap.asp">Open Houses</a></li>
-									<li><a href="/propquickfind.asp">Search by MLS#</a></li>
-									<li><a href="/propquickfind.asp?STATE=CT">Search by Street</a></li>
-									<li><a href="/propfindmap.asp?vt=Y" title="Virtual Tour Only Search">Virtual Tour Search</a></li>									
-									<li><a href="/propfindmap.asp?sqft=Y">List Price / Square Foot</a></li>
-									<li><a href="/propsubmap.asp">Email New Listings</a></li>                              
-									<li><a href="/propfindmap.asp?rental=Y">Rental Properties</a></li>
-									<li><a href="http://www.CapeCodVacation.com" target="_BLANK">Cape Cod Vacation Rentals</a></li>
-									<li><a href="http://www.leadingre.com/NorthAmerica" target="_BLANK" title="National Home Search">National Home Search</a></li>    
-									<li class="last"><a href="/itl-landingpage.asp" title="International Home Search">International Home Search</a></li> 
-										</ul>
-							</li>
-							<li class="openHouse"><a href="/openfindmap.asp">Open Houses</a>
-								<ul>
-									<li class="last"><a href="/openfindmap.asp">Weekend MLS Open Houses</a></li>
-								</ul>
-							</li>
-							<li><a href="JavaScript:newwindow('/neighborhoodmapdoor.asp',800,600);">Mapping</a>
-								<ul>
-									<li class="last">
-									<a href="JavaScript:newwindow('/neighborhoodmapdoor.asp',800,600);">Local Neighborhood Info.</a>
-									<p>New Listings<br>
-									Sold Homes<br>
-									School Information<br>
-									Restaurants<br>
-									Houses of Worship<br>
-									Hospitals and more</p>
-								</li>
-								</ul>
-							</li>
-							<li><a href="http://stats.raveis.com/External/raveis/RaveisMultiView.aspx?id=raveiswebsite&amp;signin=N" target="_NEW">Housing Data</a>
-								<ul>
-									<li><a href="/marketrptsubmap.asp">Subscribe to Housing Newsletter</a></li>
-									<li class="last"><a href="http://stats.raveis.com/External/raveis/RaveisMultiView.aspx?id=raveiswebsite&amp;signin=N" target="_NEW">View Local Housing Data</a>
-									<p>
-									Total Inventory<br>
-									Median Sales<br>
-									Unit Sales<br>
-									Market Time for Sold<br>
-									Sales to List Price Ratio<br>
-									Unit Sales - 12 Month<br>
-									Recent Sales</p></li>
-								</ul>
-							</li>
-							<li><a href="/cmacontact.asp">Home Evaluation</a>
-								<ul>
-									<li class="last"><a href="/cmacontact.asp">Online Home Evaluation</a></li>
-								</ul>
-							</li>
-							<li><a href="/soldpropfindmap.asp">Sold Homes</a>
-								<ul>
-									<li><a title="Find Sold Properties" href="/soldpropfindmap.asp">Recently Sold Homes</a></li>
-									<li class="last"><a href="javascript:newwindow('/soldmapdoor.asp',800,600)">Map Sold Homes</a></li>
-								</ul>
-							</li>
-							<li class="right"><a href="http://www.raveis.com/mortgage/" target="_BLANK">Mortgage</a>
-								<ul>
-									<li><a href="http://www.raveis.com/mortgage/" target="_BLANK">Special Financing</a></li>
-									<li><a href="http://www.raveis.com/mortgage/" target="_BLANK">Mortgage</a></li>
-									<li><a href="http://www.raveis.com/mortgage/" target="_BLANK">Refinancing</a></li>
-									<li><a href="http://www.raveis.com/mortgage/leadtraxform.asp?EFRM=LN" target="_BLANK">Contact a Loan Officer</a></li>
-									<li><a href="http://www.raveis.com/mortgage/calculators.asp" target="_BLANK">Mortgage Calculator</a></li>
-									<li class="last"><a href="http://www.raveis.com/mortgage/ratesub.asp" target="_BLANK">Today's Mortgage Rates</a></li>
-								</ul>
-							</li>
-							<li class="right last"><a href="http://www.raveisinsurance.com" target="_BLANK">Insurance</a>
-								<ul>
-									<li class="last"><a href="http://www.raveisinsurance.com" target="_BLANK">William Raveis Insurance</a>
-									<p>Lowest Rates<br>Premier Services<br>Comprehensive Insurance Products</p></li>
-								</ul>
-							</li>
-						</ul>
-				
+                
+                    
+                    <!--TODO: need help cleaning this up so NO topnav shows for agents login anymore. It's all in the toggle in top right-->
+					
+                    <!--<ul class="agentSearch">-->
+				  
+					<ul class="">
+						
+						<li>
+							<a href="#" class="link prevent_default" title="Search">Search</a>
+							<ul>
+								<span></span>
+								<li><a title="Search Now" href="/proplist.asp?propSearch=Y">Search Now</a></li>
+                                <li><a title="Sold Search" href="/soldproplist.asp?propSearch=Y">Sold Search</a></li>
+								
+                                <li><a title="Map Search" href="/proplist_mapSearch.asp?propSearch=Y">Map Search</a></li>
+                                <li><a title="New York City Search" href="https://www.raveis.com/newyorkcity/" target="_blank" class="">New York City Search</a></li>
+								
+								<li><a title="Luxury Properties" href="/proplist.asp?EP=Y&amp;nav=Y">Luxury Properties</a></li>
+                                <li><a title="Waterfront Properties" href="/proplist.asp?WF=Y&amp;nav=Y">Waterfront Properties</a></li>
+								<li><a title="New Homes / New Construction" href="/proplist.asp?newhome=Y">New Homes / New Construction</a></li>
+                                <li><a title="New Listings" href="/proplist.asp?newListings=Y">New Listings</a></li>
+								<li><a title="Cape Cod &amp; Nantucket Vacation Rentals" href="http://www.capecodvacation.com" target="_BLANK">Cape Cod &amp; Nantucket Vacation Rentals</a></li>
+								<!--<li><a title="Naples FL Rentals" href="'http://www.raveisfloridarentals.com" target="_BLANK">Naples FL Rentals</a></li>-->
+								<li><a title="Naples FL Rentals" href="http://SouthbayRealty.com" target="_BLANK">Naples FL Rentals</a></li>								  
+								
+                                <li><span class="link externalLink last" rel="nofollow" title="National &amp; Global Search" data-url="http://www.leadingre.com/">National &amp; Global Search</span></li>
+							</ul>
+						</li>
+						
+                                <li><a href="/proplist.asp?oh=Y&amp;nav=Y" title="Open Houses">Open Houses</a></li>
+                            
+						    <li><a href="/cmacontact.asp" title="Your Home Valuation">Home Valuation</a></li>
+						    
+						    <li>
+							    <a href="#" class="link prevent_default" title="Agents/Offices">Agents/Offices</a>
+							    <ul>
+								    <span></span>
+								    <!--<li><a title="Agents/Offices" href="/officesagents.asp">Agents/Offices</a></li>-->
+								    <li><a title="Find an Agent" href="/agentfind.asp">Find an Agent</a></li>
+								    								
+								    <li><a title="Office Location" href="/officesagents.asp?officeLocation=Y">Office Location</a></li>
+								    
+								    <li><a title="En Espanol" href="/agentfind.asp?sp=Y">En Espanol</a></li>
+							    </ul>
+						    <!--<li><a href="/officesagents.asp" title="Agents/Offices">Agents/Offices</a></li>-->
+                            </li>
+						    
+						        <li><a href="/myproperties.asp" title="New Listings / Price Changes / Open Houses">Listing Notification</a></li>
+                                
+						        <li><a href="/mymarketreport.asp" title="Housing Newsletter">Housing Newsletter</a></li>
+                            
+						    <li><a href="http://www.raveis.com/mortgage/" target="_BLANK" title="Mortgage">Mortgage</a></li>
+						    <li><a href="http://www.raveisinsurance.com" target="_BLANK" title="Insurance">Insurance</a></li>
+						    <!--<li><a href="http://www.raveisescapes.com" target="_BLANK" title="Raveis Escapes">Raveis Escapes</a></li>-->
+						
+						
+						    
+
+						    <!--							
+						    <li><a href="http://blog.raveis.com" target="_blank" onclick="ga('send', 'event', 'Raveis Blog - Header', 'Click', 'Page: default.asp');" title="Raveis Blog">Raveis Blog</a></li>
+						    -->
+                            
+						    <li class="app last" style="display:none;">
+							    <span class="link" title="Raveis App">Download The Raveis App ›</span>
+							    <div class="box">
+								    <span></span>
+								    <img src="/images/icons/ico.raveis.png" alt="The Raveis App">
+								    <h3>Download the Raveis App Today!</h3>
+								    <p class="small">Enter your phone number to receive a text link to our free app.</p>
+								    <div class="clear"></div>
+								    <form id="sms_form_header" name="sms_form_header" method="post" onsubmit="return fSendSMSHeader();">
+							            <input name="smsNumber" class="number" type="text" placeholder="Enter Phone">
+							            <input class="submit" type="submit" value="Text Me">
+						            </form>
+								    <p class="small">By entering your phone number you are agreeing to the <a href="/texting_terms_of_service.asp">Terms &amp; Conditions</a></p>
+							    </div>
+						    </li>
+                        
+					</ul>
+				</div>
+			</div>
+		</div> 
+		
+<div id="content" class="clearfix">
+	<div class="container clearfix">
+		<div id="wrap">
+			<div id="page">
+				<div id="maincontent">
+					<div class="inner clearfix">
+						<h1>Privacy Policy</h1>
+
+						<p>William Raveis Real Estate, Inc. ("Raveis") respects your privacy and is committed to protecting it.  Therefore, when it comes to information that personally identifies you and/or allows you to be individually contacted ("Personal Information"), Raveis has adopted the following privacy policy to fully protect you.</p>
+						
+						<h3>How We Use the Information We Collect</h3>
+						<p>Raveis offers a variety of programs and services to benefit you, including personalized home searches, online mortgage applications, and the coordination of home services on your behalf. Raveis collects and retains information about you only when we believe it will help us provide you with the services and products that you desire.</p>
+						
+						<h3>Who We Share Information With</h3>
+						<p>Raveis does not sell, rent, or lease your personally identifiable information to others. We will only share your Personal Information with those vendors and affiliated companies who are acting on our behalf to serve you.  Such Raveis vendors and affiliated companies are governed by our privacy policies with respect to the use of this data.</p>
+						
+						<h3>What information is collected from me?</h3>
+						<p>For each visitor to our Web site, our Web server automatically recognizes only the visitor's domain name, but not the e-mail address (where possible).<br>
+						The information we collect consists of the following:<br>
+						1. The domain name (but not the e-mail address of visitors to our Web page).<br>
+						2. Aggregate information on what pages visitors access or visit.<br>
+						3. User-specific information on what pages visitors access or visit.<br>
+						4. The e-mail addresses of those visitors who communicate with us via e-mail.<br>
+						5. Information volunteered by the consumer, such as survey information and/or site registrations. <br>
+						The information we collect is used only to improve the content of our Web site and to customize the content and/or layout of our page for each individual visitor.
+						<br><br> 
+
+						Additionally, Raveis uses Cookies to:<br>
+						1. Store visitors' preferences.<br>
+						2. Record session information, such as items that visitors add to 
+						their user profile.<br><br>
+						Such information is collected so that Raveis may customize web page content based on visitors' browser type or other information that the 
+						visitor sends.</p>
+
+						<h3>Information Security and Quality</h3>
+						<p>Raveis complies with all state and federal restrictions and regulations relating to the use of customer information.  Raveis has put in place appropriate technical and managerial procedures to keep your personally identifiable information accurate, complete, current and secure.</p>
+						
+						<h3>Scope of This Privacy Policy</h3>
+						<p>This privacy policy only applies to raveis.com. The site contains links to sites operated and maintained by third parties over which we have absolutely 
+						no control. Please be aware that these sites may collect information about you, and operate according to their own privacy practices that may differ from this privacy policy. Remember that once you are outside the Raveis website, any information you submit is outside of our control.</p>		 								
+						
+						<h3>Consent</h3>
+						<p>When you provide us with Personal Information, you consent to the collection and use of this information by Raveis.  If we decide to change our privacy policy, we will post changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.</p>
+
+						<h3>Change/Removal</h3>
+						<p>We need your help in making sure your personal information is correct in our systems. Please notify us at <a href="mailto:contact@raveisre.com"><u>
+						contact@raveisre.com</u></a> of changes to your name, address, title, phone number or email address. You may correct your personal information by changing your user profile or you may elect via return email not to receive future Raveis contacts (i.e. mailings, calls, etc.). In the event you elect not to receive any future contacts from Raveis, we will remove your name from all of our contact lists; however, Raveis can only promise to remove you from any lists we control.</p>
+
+                        <h3>Consumer AVM Terms of Use</h3>
+                        <p>The Consumer AVM estimate of market value is computer generated by the application of various mathematical formulas and techniques proprietary to Collateral Analytics LLC to available public record, local market and proprietary data. This report has not been prepared by a licensed appraiser nor does it constitute an appraisal of the subject property and should not be relied upon as such. The data used to generate this report does not include information that could be derived from an inspection of the subject property and its surroundings. The condition of the property could greatly affect the accuracy of the estimate of value. The data and the information derived from the data in this report is provided as available and "AS IS" and is intended for internal asset valuation use only. All uses are at the user's sole risk. Collateral Analytics LLC is not liable for the accuracy of the data or information provided in this report. The accuracy of the data and methodologies used are deemed reliable but are not warranted or guaranteed. The charts and graphs contained herein are computer generated by the application of various mathematical formulas and techniques proprietary to Collateral Analytics LLC to available public record, local market and proprietary data compiled by Collateral Analytics LLC. Such data is deemed reliable but may not be complete or accurate in all cases and is not guaranteed. Collateral Analytics, LLC is not liable for the accuracy of the information provided. The information displayed in these graphics is provided “AS IS” and is intended for internal asset valuation use only. All uses are at the user’s sole risk.
+                        Lastly please let us know what contact information should we add to bottom of the Send Report e-mail template when a user e-mails a CAVM report to themselves or somebody else- please see a current sample below- we usually recommend adding contact information to the e-mail template- just let us know if you want us to add anything to the template or the title of the e-mail.</p>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+        <div class="clear"></div>				
+		
+		
+		<div id="footer" class="clearfix">
+			<div class="container clearfix">
+				<div class="top clearfix">
+					<div class="col first">
+						<a href="/aboutus.asp" title="About Us">About Us</a>
+						<a href="/raveisawards.asp" title="Award Winning Team">Award Winning Team</a>
+						<a href="/careers_awardwinningteam.asp" title="Careers">Careers</a>
+                        
+						<a href="/contactcs.asp" title="Contact Us">Contact Us</a>
+                        
+						<a href="/comnewslist.asp">News</a>
+						<a href="http://raveisridewalk.com" target="_blank" title="William Raveis Charitable Fund">William Raveis Charitable Fund</a>
+						<a href="/it_ourteam.asp" title="Information Technology">Information Technology</a>
+						<a href="/luxury_props.asp" title="Luxury Properties">Luxury Properties</a>
+						<a href="http://raveissports.com" target="_blank" title="Sports + Entertainment">Sports + Entertainment</a>
+						<a href="/newhomes" title="New Homes / New Construction">New Homes / New Construction</a>
+					</div>
+					<div class="col">
+						<a href="/marketing.asp">Marketing</a>
+						<a href="/relocation.asp" title="Relocation">Relocation</a>						
+						<a href="/affiliateprogram.asp" title="Affiliate Program">Affiliate Program</a>
+						<a href="/custserv.asp" title="Customer Service Center">Customer Service Center</a>
+						<a href="/homeservices.asp" title="Moving &amp; Home Services">Moving &amp; Home Services</a>
+						<a href="/infoguide.asp" title="Community Info">Community Info</a>
+						<a target="_blank" href="/askraveisdoor.asp" title="Buyers &amp; Sellers">Buyers &amp; Sellers</a>
+						<!--<a href="/convention/index.asp" target="_blank" title="The Event 2018">Event 2018 at Mohegan Sun</a>-->
+						<a href="/rss.asp" title="Rss">RSS</a>
+                        <a href="https://www.flipsnack.com/Raveismarketing/raveis365-flipbook.html" title="Raveis 365" target="_blank" class="threesixfive">Raveis 365</a>
+					</div>
+					<div class="col last newsletterSignup">
+                        <h4>Subscribe to our newsletter</h4>
+                        <form method="post" action="/news/?FROM=mymarketreport&amp;TYPE=HN">
+                            <input type="email" name="footerEmail" placeholder="Email">
+                            <input type="submit" value="Sign Up" onclick="ga('send', 'event', 'Housing Newsletter Sign Up', 'Click', 'PageName: Footer')">
+                        </form>
+					</div>
 					<div class="clear"></div>
 				</div>
-				<div class="clear"></div>
-			</div>
-			<div class="clear"></div>
-			
-			<div id="page">
-        <div id="content">	
-            <h1>PRIVACY POLICY</h1>
+				<div class="bot clearfix">
+					<div class="clear"></div>
+					
+					<div class="badges">
+                        <a title="Leading Real Estate Companies of the World" href="/recognitions_associations.asp#anchor2"><img alt="Leading Real Estate Companies of the World" src="/images/footer/leading_re.jpg"></a>
+						<a title="LuxuryPortfolio.com" href="/recognitions_associations.asp#anchor3"><img alt="LuxuryPortfolio.com" src="/images/footer/lux_port.jpg"></a>
+						<a title="Christie's International" href="/recognitions_associations.asp#anchor7"><img alt="Christie's International" src="/images/footer/christies.jpg"></a>
+						<a title="LuxuryRealEstate.com" href="/recognitions_associations.asp#anchor1"><img alt="LuxuryRealEstate.com" src="/images/footer/lux_re.jpg"></a>
+						<!--<a title="Realty Alliance" href="/recognitions_associations.asp#anchor4"><img alt="Realty Alliance" src="/images/footer/alliance.jpg" /></a>-->
+                        
+						<a class="bc_fund" href="http://RaveisRideWalk.com" title="William Raveis Ride &amp; Walk" target="_blank"><img alt="William Raveis Ride &amp; Walk" src="/images/breastcancerfund/RideWalk-footerlogo.png"></a>
+                        <a title="William Raveis 44th Annual Awards" href="/officeawardslist.asp"><img alt="William Raveis 44th Annual Awards" src="/images/footer/44Awards-footerlogo.png"></a>				
+					    
 
-        <p align="left"><small>
-            William Raveis Real Estate, Inc. ("Raveis") respects your privacy 
-            and is committed to protecting it.  Therefore, when it comes to 
-            information that personally identifies you and/or allows you to be 
-            individually contacted ("Personal Information"), Raveis has adopted 
-            the following privacy policy to fully protect you.</small></p>
-									
-		<p align="left"><small><strong>How We Use the Information We Collect</strong><br><br>
-            Raveis offers a variety of programs and services to benefit you, including personalized 
-            home searches, online mortgage applications, and the coordination of home services 
-            on your behalf. Raveis collects and retains information about you only when we believe 
-            it will help us provide you with the services and products that you desire.</small></p>
-		
-		<p align="left"><small><strong>Who We Share Information With</strong><br><br>
-            Raveis does not sell, rent, or lease your personally identifiable information to others. 
-            We will only share your Personal Information with those vendors and affiliated 
-            companies who are acting on our behalf to serve you.  Such Raveis vendors and 
-            affiliated companies are governed by our privacy policies with respect to the use 
-            of this data.</small></p>
-									
-		<p align="left"><small><strong>What information is collected from me?</strong><br><br>
-            For each visitor to our Web site, our Web server automatically recognizes only the 
-            visitor's domain name, but not the e-mail address (where possible).<br>
-            The information we collect consists of the following:<br>
-            1.	The domain name (but not the e-mail address of visitors to our Web page).<br>
-            2.	Aggregate information on what pages visitors access or visit.<br>
-            3.	User-specific information on what pages visitors access or visit.<br>
-            4.	The e-mail addresses of those visitors who communicate with us via e-mail.<br>
-            5.	Information volunteered by the consumer, such as survey information and/or 
-            site registrations. <br>
-            The information we collect is used only to improve the content of our Web site 
-            and to customize the content and/or layout of our page for each individual visitor.
-            <br><br> 
-		
-            Additionally, Raveis uses Cookies to: <br>
-            1.	Store visitors’ preferences. <br>
-            2.	Record session information, such as items that visitors add to 
-            their user profile. <br><br>
-            Such information is collected so that Raveis may customize web page 
-            content based on visitors' browser type or other information that the 
-            visitor sends.</small></p>
-																
-		<p align="left"><small><strong>Information Security and Quality</strong><br><br>
-            Raveis complies with all state and federal restrictions and regulations relating 
-            to the use of customer information.  Raveis has put in place appropriate 
-            technical and managerial procedures to keep your personally identifiable 
-            information accurate, complete, current and secure.</small></p>
-															
-		<p align="left"><small><strong>Scope of This Privacy Policy</strong><br><br>
-            This privacy policy only applies to raveis.com. The site contains links to 
-            sites operated and maintained by third parties over which we have absolutely 
-            no control. Please be aware that these sites may collect information about you, 
-            and operate according to their own privacy practices that may differ from this 
-            privacy policy. Remember that once you are outside the Raveis website, any 
-            information you submit is outside of our control.</small></p>		 								
-		
-		<p align="left"><small><strong>Consent</strong><br><br>
-            When you provide us with Personal Information, you consent to the collection 
-            and use of this information by Raveis.  If we decide to change our privacy 
-            policy, we will post changes on this page so that you are always aware of 
-            what information we collect, how we use it, and under what circumstances we 
-            disclose it.</small></p>
-									
-		<p align="left"><small><strong>Change/Removal</strong><br><br>
-            We need your help in making sure your personal information is correct in our 
-            systems. Please notify us at <a href="mailto:contact@raveisre.com"><u>
-            contact@raveisre.com</u></a> of changes to your name, 
-            address, title, phone number or email address. You may correct your personal 
-            information by changing your user profile or you may elect via return email 
-            not to receive future Raveis contacts (i.e. mailings, calls, etc.). In the 
-            event you elect not to receive any future contacts from Raveis, we will 
-            remove your name from all of our contact lists; however, Raveis can only 
-            promise to remove you from any lists we control.</small></p> 		
-		
-    </div>
-    <div class="clearer"></div>
+					</div>
 
-    
-            </div>
-			<div class="clear"></div>
-			
-			<div id="footer" class="default">
-			
-				<div class="left-footer">
-					<div id="video">
-						<div class="title-bg"></div>
-						<div class="title">The Mortgage Process: Getting Started...</div>
-						<a class="play" href="/youtube_channel.asp"></a>
-						<a title="Featured Raveis Videos" class="video-popup" href="/youtube_channel.asp"><img src="https://img.youtube.com/vi/SahKadGnHo8/0.jpg" width="224" height="125" alt="Raveis Videos"></a>
-						<a class="more-vid" href="/youtube_channel.asp">Click here to view more videos.</a>
+                    <div class="social">
+						<span class="externalLink facebook" data-url="http://www.facebook.com/WilliamRaveis">facebook</span>
+						<span class="externalLink twitter" data-url="http://www.twitter.com/williamraveis">twitter</span>
+						<span class="externalLink instagram" data-url="http://www.instagram.com/williamraveis">instagram</span>
+						<span class="externalLink youtube" data-url="http://www.youtube.com/williamraveis">youtube</span>
+						<span class="externalLink pinterest" data-url="http://pinterest.com/williamraveis/">pinterest</span>
+						<span class="externalLink linkedin" data-url="http://www.linkedin.com/companies/william-raveis-real-estate">linkedin</span>
+						<span class="externalLink google" data-url="https://plus.google.com/114948484151861147523">Google+</span>
+						<span class="externalLink blog" data-url="http://blog.raveis.com/">blog</span>
 					</div>
-					<div id="blog">
-						<h3>Recent Articles</h3>
-						<ul><li><a href="http://blog.raveis.com/2013/12/20/raveis-faces-william-tierney/" title="Raveis Faces: William Tierney" target="_blog">Raveis Faces: William Tierney<span class="date">&nbsp;| Fri, 20 Dec 2013 </span></a></li><li><a href="http://blog.raveis.com/2013/12/19/william-raveis-announces-plans-to-enter-andover-with-the-acquisition-of-1-ranked-prudential-howe-doherty-realtors/" title="William Raveis Announces Plans to Enter Andover with the Acquisition of #1 Ranked Prudential Howe &amp; Doherty REALTORS?" target="_blog">William Raveis Announces Plans to Enter Andov... <span class="date">&nbsp;| Thu, 19 Dec 2013 </span></a></li></ul>
-					</div>
-				</div>
-				<div class="right-footer">
-					<div class="more">
-						<div class="marketing left">
-							<h3>Exceptional Properties</h3>
-							<a href="/zmag.asp?type=G" title="William Raveis Global Marketing Program" target="_marketing">
-							<img height="94px" width="163px" src="/images/2010/footer-marketing2.gif" alt=""></a>
-						</div>
-						<div class="prestigious left">
-							<h3>Digital Portfolio of Properties</h3>
-							<a href="/zmag.asp?type=D" target="_NEW"><img height="94px" width="165px" src="/images/2010/footer-prestigious.gif" alt="Prestigious Homes"></a>
-						</div>
-						<div class="mobile left">
-							<h3>Go Mobile</h3>
-							<div class="white">
-								<!--<p>Just visit raveis.com on<br />your mobile device.</p>-->
-								<a href="/mobilewalkthrough.asp"><img height="87px" width="157px" src="/images/2010/footer-go-mobile3.gif" alt=""></a>
-							</div>
-						</div>
-						
-						<div class="social left">
-							<h3>Social Media</h3>
-							<div class="white">
-								<p>Stay connected with Raveis</p>
-								<a class="blog icon" href="http://blog.raveis.com/" title="blog" target="_blank">Blog</a>
-								<a class="facebook icon" href="http://www.facebook.com/WilliamRaveis" title="Facebook" target="_blank">Facebook</a>
-								<a class="youtube icon" href="http://www.youtube.com/williamraveis" title="You Tube" target="_blank">You Tube</a>
-								<a class="linkedin icon" href="http://www.linkedin.com/companies/william-raveis-real-estate" title="Linked In" target="_blank">Linked In</a>
-								<a class="twitter icon" href="http://www.twitter.com/williamraveis" title="Twitter" target="_blank">Twitter</a>
-								<a class="gplus icon" href="https://plus.google.com/114948484151861147523" title="Google Plus" target="_blank">Google Plus</a>
-								<a class="pin icon" href="http://pinterest.com/williamraveis/" title="Pinterest" target="_blank">Pinterest</a>
-								<div class="clear"></div>
-								<!-- AddThis Button BEGIN -->
-								<a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=wedmonds"><img src="https://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a>
-								<script type="text/javascript">var addthis_config = {data_track_clickback:true,  data_ga_property: 'UA-1769908-1',data_ga_social : true};</script>
-								<script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js#pubid=wedmonds"></script>
-								<!-- AddThis Button END -->
-								<a class="widget-rss" href="/rssandwidget.asp">Widget &amp; RSS</a>
-							</div>
-						</div>
-						<div class="clear"></div>
-					</div>
-					
-					<div class="nav">
-					
-							<ul>
-								<li>
-									<ul class="one">
-										<li><a href="/myhomepage.asp" title="My Raveis Homepage">My Raveis Homepage</a></li>
-										<li><a href="/careers.asp">Careers</a></li>
-										
-										<li><a href="/officesagents.asp">Agents/Offices</a></li>
-										<li class="last"><a href="/affiliateprogram.asp">Affiliate Program</a></li>
-										
-										<li><a href="/contactcs.asp">Contact Us</a></li>
-									</ul>
-								</li>
-								<li>
-									<ul class="two">
-										<li><a href="/aboutus.asp">About Us</a></li>
-										<li class="sub">Sales Associates Only
-											<ul>
-												<li><a href="http://intranet.raveis.com/" target="_intranet">Raveis Intranet</a></li>
-												<li class="last"><a href="http://login.raveis.com/" target="_agent">Agent Dashboard</a></li>
-											</ul>
-										</li>
-										<li><a href="/convention/index.asp" target="_blank">Convention &amp; Expo</a></li>
-										<li><a target="_NEW" href="/askraveisdoor.asp">Buyer/Sellers Guide</a></li>
-										<li><a href="/raveisawards.asp">Award Winning Team</a></li>
-										<!--<li class="widget"><a href="/rssandwidget.asp">Widget &amp; RSS</a></li>-->
-										
-									</ul>
-								</li>
-								<li>
-									<ul class="three">
-										<li><a href="/infoguide.asp">Northeast Community Info</a></li>
-										<li><a href="/homeservices.asp">Moving &amp; Home Services</a></li>
-										<li><a href="/relocation.asp">Relocation</a></li>	
-									
-											<!--<li class="ribbon">-->
-											<li>
-												<a target="_NEW" href="/charitablefunddoor.asp">William Raveis Breast Cancer Fund</a>
-											</li>
-									
-										<li><a href="/comnewslist.asp">In the News</a></li>
-									</ul>
-									
-									<!--<ul>
-										<li><a href="/community-involvement.asp">Local Charitable Contributions</a></li>
-										<li class="first"><a href="/raveisrewards.asp">Raveis Rewards</a></li>
-										<li><a href="agentfind.asp?sp=Y" class="green">En Espa&ntilde;ol</a></li>
-									</ul>-->
-								</li>
-								
-							</ul>
-					
-					</div>
-					<div id="undernav">            	
-						<ul class="undernav-one">
-							<li><a href="http://www.raveis.com/towns/matowns.asp" target="_blank">Massachusetts Towns</a></li>
-							<li><a href="http://www.raveis.com/towns/cttowns.asp" target="_blank">Connecticut Towns</a></li>
-							<li><a href="http://www.raveis.com/towns/ritowns.asp" target="_blank">Rhode Island Towns</a></li>
-							<li><a href="http://www.raveis.com/towns/nytowns.asp" target="_blank">New York Towns</a></li>
-							<li><a href="http://www.raveis.com/towns/capecodtowns.asp" target="_blank">Cape Cod Towns</a></li>
-							<br>							
-							<li><a href="http://www.raveis.com/ma/macounties.asp" target="_blank">Massachusetts Real Estate</a></li>
-							<li><a href="http://www.raveis.com/ct/ctcounties.asp" target="_blank">Connecticut Real Estate</a></li>
-						   <!-- <br />-->
-							<li><a href="http://www.raveis.com/ri/ricounties.asp" target="_blank">Rhode Island Real Estate</a></li>
-							<li><a href="http://www.raveis.com/ny/nycounties.asp" target="_blank">New York Real Estate</a></li>
-							<li><a href="http://www.raveis.com/ma/cape_cod/cape_cod_real_estate.asp" target="_blank">Cape Cod Real Estate</a></li>
-						</ul>
-						<ul class="undernav-two">
-							<li><a href="http://www.raveis.com/webpolicy.asp">Privacy Policy</a></li>
-							<li><a href="http://www.raveis.com/mortgage/license.asp" target="_NEW">Licensing</a></li>
-							
-							<li><a href="http://www.raveis.com/sitemap.asp">Site Map</a></li>								
-							<li><a href="/featuredpropertylist.asp">Featured Property List</a></li>
-							<li><a href="/raveispropertylist.asp">Raveis Property List</a></li>
-							<li><a href="/brokerpropertylist.asp">Broker Property List</a></li>
-							<li><a href="/raveisnewlistings.asp">New Listings</a></li><br>
-							
-						</ul>
-						<ul class="undernav-three">
-							<li>Let Our Family Show Your Family the Way Home</li>
-						</ul>
-					</div>
-				</div>
-				<div class="clear"></div>
-				</div>
-			
-					
+
             
-			
-			<div id="disclaimers">
-				
-				<p class="bottomtext"></p>
-				
-				<div class="notice"></div>
-				
-				
-				
-				<div class="ricon">
-				
-						<img height="16px" width="23px" src="/images/icons/ico.hud.blue.gif" alt="Hud">
-				
+					<div class="clear"></div>
+										
+					<div class="towns">
+						<a href="https://www.raveis.com/towns/matowns.asp" target="_blank">Massachusetts Towns</a> | <a href="https://www.raveis.com/towns/cttowns.asp" target="_blank">Connecticut Towns</a> | <a href="https://www.raveis.com/towns/ritowns.asp" target="_blank">Rhode Island Towns</a> | <a href="https://www.raveis.com/towns/nytowns.asp" target="_blank">New York Towns</a> | <a href="https://www.raveis.com/towns/nhtowns.asp" target="_blank">New Hampshire Towns</a> | <a href="https://www.raveis.com/towns/njtowns.asp" target="_blank">New Jersey Towns</a> | <a href="https://www.raveis.com/towns/vttowns.asp" target="_blank">Vermont Towns</a> | <a href="https://www.raveis.com/towns/capecodtowns.asp" target="_blank">Cape Cod Towns</a> | <a href="https://www.raveis.com/towns/metowns.asp" target="_blank">Maine Towns</a> | <a href="https://www.raveis.com/towns/fltowns.asp" target="_blank">Florida Towns</a><br>
+					
+					<div class="super">
+						<a href="/webpolicy.asp">Privacy Policy</a> | <a href="http://www.raveis.com/mortgage/license.asp" target="_NEW">Licensing</a> | <a href="/featuredpropertylist.asp">Featured Property List</a> | <a href="/raveispropertylist.asp">Raveis Property List</a> | <a href="/brokerpropertylist.asp">Broker Property List</a> | <a href="/raveisnewlistings.asp">New Listings</a> | <a href="/sitemap.asp">Sitemap</a>
+						<br>
+						<a class="fancybox-iframe" href="/myhomepage.asp">My Raveis</a><br>
+					</div>
+					
 				</div>
-			</div>
+				<div id="disclaimers">				
 				
-            
-            
-        </div>
-		
-		
-		
-<!-- Embedded WhosOn: Insert the script below at the point on your page where you want the Click To Chat link to appear -->
+				    <p class="bottomtext"></p>				
 
-		<script type="text/javascript" src="http://raveis.whoson.com/include.js?domain=www.raveis.com"></script>
-	
+				    <div class="notice"></div>
+				
+				    
+				
+				    <div class="ricon">
+				    
+					    <img height="16px" width="23px" src="/images/ico.hud.blue.gif" alt="Hud">
+				    
+				    </div>
+                    <br>
+                    <a title="ADA Compliance" href="/ada-compliance.asp"><img alt="ADA Compliance" width="100" src="/images/footer/ada-compliance.jpg"></a>
 
-		<script type="text/javascript">
-		sWOResponse='';
-		if(typeof sWOTrackPage=='function')sWOTrackPage();
+				</div><!--disclaimers-->
+				
+				<!--Google Translate-->
+
+				<div id="google_translate_element"></div>
+				<script type="text/javascript">
+				function googleTranslateElementInit() {
+				new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+				}
+				</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+				<!--End Google Translate-->
+				
+				
+			</div><!--bot-->
+		</div>
+		
+		<script>
+			$(document).ready(function(){
+				//Text for App Toggle
+				$('.app_tooltip.footer').hover(function() {
+					$('.box',this).addClass("active");
+				},function() {
+					$('.box',this).removeClass("active");
+				});
+			});
 		</script>
-		<!-- End of embedded WhosOn -->
+		
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KKV5PK"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5NXRPKZ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+<!-- begin ReadyChat code -->
+<!--<script type="text/javascript">
+  (function() {
+    var se = document.createElement('script'); se.type = 'text/javascript'; se.async = true;
+    se.src = '//storage.googleapis.com/ready-chat/js/c1ff5ac0-dfc2-481c-8a9e-9e75599e84af.js';
+    var done = false;
+    se.onload = se.onreadystatechange = function() {
+      if (!done&&(!this.readyState||this.readyState==='loaded'||this.readyState==='complete')) {
+        done = true;
+        /* Place your ReadyChat JS API code below */
+		
+		ReadyChatChat.setSkin('https://www.readychat.com/media/Raveis_Wayne_Edmonds_window.png');
+		
+		ReadyChat.hideButton();
+		ReadyChat.allowProactiveChat(false);
+		
+      }
+    };
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(se, s);
+  })();
+</script>-->
+
+
+<script type="text/javascript" src="https://chat.outboundengine.com/c/William_Raveis_Wayne_min.js"></script>
+
+<!-- end ReadyChat code -->
+
+
+
+<!-- Naples Daily News -->
+<script type="text/javascript">
+var ssaUrl = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'pixel.sitescout.com/iap/b1f975e76038ab08';new Image().src = ssaUrl;
+</script>
+<!-- End Naples Daily News -->
 
 
 
 	
-</body></html>
+</div></body></html>
