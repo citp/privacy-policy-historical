@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wishesquotes.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607234414id_/http%3A//www.wishesquotes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wishesquotes.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003205738id_/https%3A//www.wishesquotes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – WishesQuotes
 
@@ -552,7 +552,7 @@ This privacy policy applies only to our online activities and is valid for visit
 
 By using our website, you hereby consent to our privacy policy and agree to its terms.
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.wishesquotes.com/contact-us).
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://www.wishesquotes.com/contact-us).
 
 ## History
 
