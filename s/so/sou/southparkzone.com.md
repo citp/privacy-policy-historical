@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southparkzone.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206184153id_/http%3A//www.viacom.com/about/pages/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southparkzone.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003120447id_/http%3A//www.viacom.com/about/pages/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Viacom
 
