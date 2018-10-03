@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oceana.org privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609211117id_/http%3A//oceana.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oceana.org privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004014145id_/https%3A//oceana.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Oceana
 
@@ -84,7 +84,5 @@ If you have any questions, comments, or concerns about Oceana or this Privacy Po
 ### **Postal Mail Address:**
 
 Oceana E-Activism Services  
-1350 Connecticut Avenue, NW, 5th Floor  
+1025 Connecticut Avenue, NW, Suite 200,  
 Washington, DC 20036
-
-Effective: May 2018
