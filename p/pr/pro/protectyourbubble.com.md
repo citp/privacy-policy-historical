@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the protectyourbubble.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429062742id_/https%3A//us.protectyourbubble.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protectyourbubble.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003230128id_/https%3A//us.protectyourbubble.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | privacy-policy
 
 This notice is given to You pursuant to state law. It addresses personally identifiable information collected by Us about You when You visit or use this Site.
 
-Assurant Solutions and its affiliated companies are committed to protecting the personal information entrusted to us by consumers who visit our website. The trust you place in us when you share personal information and/or the personal information of another person or entity is a responsibility we take very seriously and is the cornerstone of how we conduct our business.
+Assurant and its affiliated companies are committed to protecting the personal information entrusted to us by consumers who visit our website. The trust you place in us when you share personal information and/or the personal information of another person or entity is a responsibility we take very seriously and is the cornerstone of how we conduct our business.
 
-We use the brand name "Assurant Solutions" to associate our products and services and to connect us with the brand of our parent company, Assurant, Inc. This Policy is intended to inform our consumers of our practices with regard to consumers' personal information collected through this website. As used in this online Privacy Policy, the term "you and your" are defined to include all website visitors including, but not limited to, customers, brokers, third party administrators, and/or representatives of any of the above.
+We use the brand name "Assurant" to associate our products and services and to connect us with the brand of our parent company, Assurant, Inc. This Policy is intended to inform our consumers of our practices with regard to consumers' personal information collected through this website. As used in this online Privacy Policy, the term "you and your" are defined to include all website visitors including, but not limited to, customers, brokers, third party administrators, and/or representatives of any of the above.
 
 **I. Categories of personal information we collect**
 
@@ -62,7 +62,7 @@ We do not knowingly collect personal information from anyone under the age of 13
 
 **XII. Privacy contact information**
 
-We welcome your questions or comments regarding this online Privacy Policy. Please write to The Assurant Solutions/Assurant Specialty Property Privacy Office, Post Office Box 979047, Miami, FL 33197-9047 or e-mail us your question at [theprivacyoffice@assurant.com](mailto:theprivacyoffice@assurant.com).
+We welcome your questions or comments regarding this online Privacy Policy. Please write to The Assurant/Assurant Specialty Property Privacy Office, Post Office Box 979047, Miami, FL 33197-9047 or e-mail us your question at [theprivacyoffice@assurant.com](mailto:theprivacyoffice@assurant.com).
 
 **XIII. Effective date**
 
