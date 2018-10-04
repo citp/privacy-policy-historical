@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nfpa.org privacy policy that was archived on 2018-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180110165525id_/https%3A//www.nfpa.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfpa.org privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004134041id_/https%3A//www.nfpa.org/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
