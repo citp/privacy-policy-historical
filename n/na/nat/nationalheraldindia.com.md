@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nationalheraldindia.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830103006id_/https%3A//www.nationalheraldindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalheraldindia.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004121556id_/https%3A//www.nationalheraldindia.com/privacy-policy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy | National Herald
 
 Thank you for visiting the website of www.nationalheraldindia.com (Site) The Privacy Policy is applicable to the website of www.nationalheraldindia.com which is developed, managed and operated by Associated Journals Limited (“Owner”). This privacy statement also does not apply to the website of our partners, affiliates, agents or to any other third parties, even if their websites are linked to the Site. We recommend you review the privacy statements of the other parties with whom you interact. The following terms govern the collection, use and protection of your personal Information by the Site. This Privacy Policy shall be applicable to users who visit the Site. By visiting and/or using the Site you have agreed to the following Privacy Policy.
 
@@ -71,4 +71,4 @@ These terms and conditions are subject to the laws of India and in particular th
 
 #### Contact Us
 
-[ ](https://www.facebook.com/nationalheraldindia/ "Facebook") [ ](https://twitter.com/NH_India "Twitter") [ ](https://plus.google.com/+NationalHeraldIndia "Google+") [ ](https://www.linkedin.com/company/national-herald-india "LinkedIn")
+[ ](https://www.facebook.com/nationalheraldindia "Facebook") [ ](https://twitter.com/NH_India "Twitter") [ ](https://plus.google.com/+NationalHeraldIndia "Google+") [ ](https://www.linkedin.com/company/national-herald-india "LinkedIn")
