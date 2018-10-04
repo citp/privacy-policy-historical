@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cancercenter.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606043828id_/http%3A//www.cancercenter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cancercenter.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004032436id_/https%3A//www.cancercenter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CTCA
 
@@ -20,7 +20,7 @@ When you submit a form we may ask you for your name, e-mail address, and some ot
 
 _Log Information:_
 
-When you visit an Internet Web site, you disclose certain information about yourself, such as your Internet [Protocol] (IP) address, the time of your visit, and the referring location (e.g., the Site or page that offered a link to a Cancercenter.com page). Cancercenter.com, like many other sites, records this basic information about visits to its site. You should remember that whenever you voluntarily disclose personal information online, your information can be collected and used by others, including when you click to chat, click to call/have us call you, click to video chat. Although Cancercenter.com tries to protect your personal information, Cancercenter.com cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. You are also solely responsible for maintaining the secrecy of any passwords you set up and/or any account information. Neither Cancercenter.com, Rising Tide, nor Cancer Treatment Centers of America, Inc. is providing you with "covered health services" as such term is defined in HIPAA. Any information that you provide to Cancercenter.com will NOT be deemed in any way to be "protected health information", and as such, neither Cancercenter.com, Rising Tide, nor Cancer Treatment Centers of America, Inc. shall be obligated to deal with your information as required by HIPAA. You acknowledge and agree that you will never assert against any of Cancercenter.com, Rising Tide, or Cancer Treatment Centers of America, Inc. any claims arising under HIPAA.
+When you visit an Internet Web site, you disclose certain information about yourself, such as your Internet [Protocol] (IP) address, the time of your visit, and the referring location (e.g., the Site or page that offered a link to a Cancercenter.com page). Cancercenter.com, like many other sites, records this basic information about visits to its site. You should remember that whenever you voluntarily disclose personal information online, your information can be collected and used by others, including when you click to chat, click to call/have us call you, click to video chat. Although Cancercenter.com tries to protect your personal information, Cancercenter.com cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. You are also solely responsible for maintaining the secrecy of any passwords you set up and/or any account information. Neither Cancercenter.com, IPB, nor Cancer Treatment Centers of America, Inc. is providing you with "covered health services" as such term is defined in HIPAA. Any information that you provide to Cancercenter.com will NOT be deemed in any way to be "protected health information", and as such, neither Cancercenter.com, IPB, nor Cancer Treatment Centers of America, Inc. shall be obligated to deal with your information as required by HIPAA. You acknowledge and agree that you will never assert against any of Cancercenter.com, IPB, or Cancer Treatment Centers of America, Inc. any claims arising under HIPAA.
 
 We work with third-party data analytics and online targeting companies. Some of these companies may use anonymous information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide data and targeting recommendations based on which we may provide advertisements about goods and services of interest to you. To learn more about this practice or about your choice to opt-out of this practice please click [here](http://www.networkadvertising.org/).
 
@@ -62,48 +62,24 @@ We welcome any questions or comments you have about the Cancercenter.com site.
 
 **Daily Operations:**  
 Cancercenter.com   
-6000 Broken Sound Parkway NW  
+5900 Broken Sound Parkway NW  
 Suite 103  
 Boca Raton, FL 33487
 
 **Managed and Owned By:**  
-Rising Tide  
-Herrenacker 15  
-8200 Schaffhausen  
-Switzerland
+IPB
 
 ## HIPAA Notice of Privacy Practices
 
-For detailed information regarding how medical information about you may be used and disclosed and how you can get access to this information, please see the HIPAA Notice of Privacy Practices for each of our cancer hospitals:
+For detailed information regarding how medical information about you may be used and disclosed and how you can get access to this information, please see the HIPAA Notice of Privacy Practices for each of our cancer hospitals and Outpatient Care Centers:
 
   * [Philadelphia](https://web.archive.org/eastern/preparing-for-your-visit/notice-of-privacy-practices/)
   * [Atlanta](https://web.archive.org/southeastern/preparing-for-your-visit/notice-of-privacy-practices/)
   * [Chicago](https://web.archive.org/midwestern/preparing-for-your-visit/notice-of-privacy-practices/)
   * [Phoenix](https://web.archive.org/western/preparing-for-your-visit/notice-of-privacy-practices/)
   * [Tulsa](https://web.archive.org/southwestern/preparing-for-your-visit/notice-of-privacy-practices/)
+  * [Downtown Chicago Outpatient Care Center](https://web.archive.org/downtown-chicago/privacy-policy/)
+  * [North Phoenix Outpatient Care Center](https://web.archive.org/north-phoenix/privacy-policy/)
+  * [Scottsdale Outpatient Care Center](https://web.archive.org/scottsdale/privacy-policy/)
 
 
-
-## Online Chat
-
-Fill out all of the form below and we will connect you to someone to assist you.
-
-First Name:
-
-Don't forget to enter your first name.
-
-Last Name:
-
-Don't forget to enter your last name.
-
-Email Address
-
-Please enter a valid email address so we can respond to your inquiry.
-
-Who are you seeking cancer care for?
-
-Please enter who you are seeking care for.
-
-I have read and understand the disclaimer. Please review the disclaimer.
-
-[Chat now](https://web.archive.org/contact/patients-caregivers/chat-form-processing/)
