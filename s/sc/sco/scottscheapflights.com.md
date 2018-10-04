@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scottscheapflights.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602025812id_/https%3A//scottscheapflights.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scottscheapflights.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004204451id_/https%3A//scottscheapflights.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -56,8 +56,8 @@ We use the personal information we collect in the following ways:
 
 We reserve the right to share information, including personal information, with third parties, as described below:
 
-  * **_Service Providers:_** We may share information with service providers that help us perform Website functions and process your transactions. 
-  * **_Affiliates and Franchisees:_** We may share information with a parent company, franchisees, subsidiaries, joint ventures, or other companies under common control with us. 
+  * **_Service Providers:_** We may share information with service providers that help us perform Website functions and process your transactions.
+  * **_Affiliates and Franchisees:_** We may share information with a parent company, franchisees, subsidiaries, joint ventures, or other companies under common control with us.
   * **_Corporate Structure:_** We may share information in connection with a merger, acquisition, consolidation, change of control, or sale of all or a portion of our assets or if we undergo bankruptcy or liquidation.
   * **_To Prevent Harm:_** We may share information if we believe it is necessary in order to detect, investigate, prevent, or take action against illegal activities, fraud, or situations involving potential threats to the rights, property, or personal safety of any person.
   * **_As Required by Law:_** We will share information where we are legally required to do so, such as in response to court orders or legal process, to exercise our legal rights, to defend against legal claims or demands, or to comply with the requirements of any mandatory applicable law.
@@ -75,11 +75,11 @@ The security of your personal information is important to us. We maintain reason
 
 **Choices About Your Information**
 
-If your personal information changes, you may correct or update your personal information by through your “My Account” page on the Website. 
+If your personal information changes, you may correct or update your personal information by through your “My Account” page on the Website.
 
 We provide you with reasonable access to the personal information we hold about you. To learn what information we hold about you or to correct, amend, or delete that information, please click the link in any Scott’s Cheap Flights subscription email that says “Click here to update your info.” Subscribers to the Premium Services can also update their information by logging into their premium accounts on the Website at <https://scottscheapflights.com/premium-login>.
 
-We will retain your personal information until the later of (i) the information is no longer necessary to accomplish the purpose for which it was provided; or (ii) your account with Scott’s Cheap Flights is terminated. We may retain your information for longer periods to the extent that we are obliged to do so in accordance with applicable laws and regulations and/or we reasonably believe that retaining the information is necessary to protect our legal rights or legitimate business interests. 
+We will retain your personal information until the later of (i) the information is no longer necessary to accomplish the purpose for which it was provided; or (ii) your account with Scott’s Cheap Flights is terminated. We may retain your information for longer periods to the extent that we are obliged to do so in accordance with applicable laws and regulations and/or we reasonably believe that retaining the information is necessary to protect our legal rights or legitimate business interests.
 
 You may request we terminate your account by writing us at [scott@scottscheapflights.com](mailto:scott@scottscheapflights.com). Even if you terminate your account, keep in mind that deletion of your personal information by our third-party providers may not be immediate and that deleted personal information may persist in backup copies for a reasonable period of time and as required by applicable laws and regulations.
 
@@ -89,16 +89,24 @@ Our Website and Services are not intended for use by children. We do not knowing
 
 **Applicable Law**
 
-This is a United States-based Website that is subject to U.S. law. This Website is controlled, operated, and administered by Scott’s Cheap Flights from its offices within the U.S. If you are accessing this Website from a location outside the U.S., you hereby agree that your use of this Website and our collection and use of your personal information is subject to this Policy. If you are accessing the Website from the EU or are a resident of the EU, your use of the Website and Services is also subject to the EU Safe Harbor Policy (<https://scottscheapflights.com/eu-safe-harbor-policy>).
+This is a United States-based Website that is subject to U.S. law. This Website is controlled, operated, and administered by Scott’s Cheap Flights from its offices within the U.S. If you are accessing this Website from a location outside the U.S., you hereby agree that your use of this Website and our collection and use of your personal information is subject to this Policy.
 
 **Updates to this Policy**
 
-We reserve the right to modify this Policy at any time, so please review frequently. If we decide to make material changes to this Policy, we will post those changes to this Website in a manner that we deem is appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we share it. Any modifications to this Policy will go into immediate effect after they have been posted. You agree to these future updates by continuing to use our Website or our Services after they have been posted. 
+We reserve the right to modify this Policy at any time, so please review frequently. If we decide to make material changes to this Policy, we will post those changes to this Website in a manner that we deem is appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we share it. Any modifications to this Policy will go into immediate effect after they have been posted. You agree to these future updates by continuing to use our Website or our Services after they have been posted.
 
 **Contact Us**
 
-Any questions or concerns about the interpretation or operation of this Policy or about what may or may not be done with regards to your information should be directed to [scott@scottscheapflights.com](mailto:scott@scottscheapflights.com).
+Any questions or concerns about the interpretation or operation of this Policy or about what may or may not be done with regards to your information should be directed to:
+
+Scott’s Cheap Flights  
+1942 Broadway St., STE 314C, Boulder, CO 80302, United States  
+[scott@scottscheapflights.com](mailto:scott@scottscheapflights.com)
+
+**Unsubscribe Instructions**
+
+If you no longer wish to receive marketing and promotional emails from Scott’s Cheap Flights, please click the unsubscribe link included in the footer of all of our emails
 
 **Effective Date**
 
-This Privacy Policy is effective as of May 17, 2017.
+This Privacy Policy is effective as of August 7, 2017.
