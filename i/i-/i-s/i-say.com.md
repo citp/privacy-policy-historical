@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-say.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002200359id_/https%3A//i-say.com/Footerlinks/PrivacyPolicy/tabid/282/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-say.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004135553id_/https%3A//i-say.com/Footerlinks/PrivacyPolicy/tabid/282/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -69,8 +69,8 @@ Or by letter sent to:
 
 Panel Support Team   
 Ipsos Interactive Services, U.S., LLC   
-1271 Avenue of the Americas, 15th Floor   
-New York, NY 10020
+360 Park Avenue South, Floor 17   
+New York, NY 10010
 
 #### 3\. Children
 
@@ -180,8 +180,8 @@ Email sent to: [data.protection@ipsos-online.com](mailto:data.protection@ipsos-o
 Or by letter sent to:   
 Ref: Ipsos i-Say Panel Data Protection Department,   
 Ipsos Interactive Services, U.S., LLC   
-1271 Avenue of the Americas, 15th Floor   
-New York, NY 10020 
+1271 360 Park Avenue South, Floor 17,  
+New York, NY 10010 
 
 Please quote your Panel membership number (if known) or your email address used for i-Say in your email or letter.
 
@@ -202,8 +202,8 @@ Or by letter sent to:
 > Ref: Ipsos i-Say Panel  
 >  Panel Support Team   
 >  Ipsos Interactive Services, U.S., LLC   
->  1271 Avenue of the Americas, 15th Floor   
->  New York, NY 10020 
+>  360 Park Avenue South, Floor 17  
+>  New York, NY 10010 
 
 If you have any questions or require further information our privacy policy, our compliance with data protection laws or information we hold about you, please contact our Data Protection Department. They can be contacted:
 
@@ -215,7 +215,7 @@ Or write to us at:
 >  Ref: Ipsos i-Say Panel  
 >  Data Protection Department,   
 >  Ipsos Interactive Services, U.S., LLC   
->  1271 Avenue of the Americas, 15th Floor   
+>  360 Park Avenue South, Floor 17   
 >  New York, NY 10020 
 > 
 >   
