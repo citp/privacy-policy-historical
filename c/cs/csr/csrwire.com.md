@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csrwire.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528092552id_/http%3A//www.csrwire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csrwire.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004202546id_/http%3A//www.csrwire.com/privacy) for the most accurate reproduction.*
 
 # Corporate Social Responsibility and Sustainability - CSRwire.com
 
