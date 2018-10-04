@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the spectranet.com.ng privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924055252id_/https%3A//spectranet.com.ng/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spectranet.com.ng privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004143405id_/http%3A//spectranet.com.ng/privacy-policy) for the most accurate reproduction.*
 
-# Spectranet
+# Privacy Policy | Spectranet
 
 In the course of using this website or availing the products and services vide the online application forms and questionnaires, Spectranet limited (SPECTRANET) may become privy to the personal information of its customers, including information that is of a confidential nature. We at SPECTRANET respect and give high priority to the privacy of all customers and are committed to maintaining the privacy and security of the personal information which is provided by its customers. SPECTRANET has taken all necessary and reasonable measures to protect the confidentiality of the customer information and its transmission through the web. While no data transmission over the Internet is 100% secure from intrusion, we have used and will continue to use commercially reasonable efforts to ensure the protection of your information.
 
 Please read the following to learn more about our privacy policy.
 
-**Personal information**
+#### **Personal information**
 
   1. Our site’s registration form requires you to give us contact information like your name and email address. We collect personal information from our  **customers**  on a voluntary basis. Personal information may include name, title, company, address, phone number, email address, and other relevant data.
   2. We collect and use personal information for business purposes in order
@@ -44,7 +44,7 @@ Please read the following to learn more about our privacy policy.
 
       By entering this website you are consenting to the terms of our information privacy policy and to our continued use of previously collected information. By submitting your personal information to us, you will be treated as having given your permission for the processing of your personal data as set out in this policy.
 
-**Non personal information**
+#### **Non personal information**
 
   1. At this website, information sent by your web browser, may be automatically collected. This information typically includes your domain name (the site after the @ in your e-mail address). It may also contain your user name (the name before the @ in your e-mail address). Other examples of information collected by our server include the Internet protocol (IP) address used to connect the visitor’s computer to the Internet, operating system and platform, the average time spent on our website, pages viewed, information searched for, access times, websites visited before and a visitor visits our website, and other relevant statistics. The amount of information sent depends on the settings you have on your web browser; please refer to your browser if you want to learn what information it sends.  **Some of this information is also required in terms of the statutory obligations of the Company.**
 
@@ -53,10 +53,10 @@ Please read the following to learn more about our privacy policy.
 
 
 
-**Information placed on your computer**
+#### **Information placed on your computer**
 
 We may store some information such as cookies on your computer when you look at our website. Cookies are pieces of information that a website transfers to the hard drive of a visitor’s computer for record-keeping purposes. This information facilitates your use of our website and ensures that you do not need to re-enter your details every time you visit it. You can erase or choose to block this information from your computer if you want to; please refer to your browser settings to do so. Erasing or blocking such information may limit the range of features available to the visitor on our website. We use also use such information to provide visitors a Personalized experience on our website. We may use such information to allow visitors to use the website without logging on upon returning, to auto-populate email forms, to make improvements and to better tailor our website to our visitors’ needs. We also use this information to verify that visitors meet the criteria required to process their requests.
 
-**Security**
+#### **Security**
 
-We aim to keep our information about you as accurate as possible. If you would like to review or change the details you have supplied us with, please contact us as set out below. If you wish to change or delete any of the personal information provided at the time of subscription, e-mail at [care@Spectranet.com.ng](mailto:care@spectranet.com.ng)
+We aim to keep our information about you as accurate as possible. If you would like to review or change the details you have supplied us with, please contact us as set out below. If you wish to change or delete any of the personal information provided at the time of subscription, e-mail at care@Spectranet.com.ng
