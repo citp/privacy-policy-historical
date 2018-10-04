@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkinprice.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612060340id_/http%3A//checkinprice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkinprice.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004235933id_/http%3A//checkinprice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Check in Price
 
@@ -24,4 +24,4 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 
 ### Contact Information
 
-Concerns or questions about this privacy policy can be directed to morozrs5@gmail.com for further clarification.
+Concerns or questions about this privacy policy can be directed to info@checkinprice.com for further clarification.
