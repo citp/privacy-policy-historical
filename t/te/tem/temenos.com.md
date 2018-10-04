@@ -1,78 +1,103 @@
-> *The following text is extracted and transformed from the temenos.com privacy policy that was archived on 2017-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170412021422id_/https%3A//www.temenos.com/en/legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the temenos.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004123200id_/https%3A//www.temenos.com/en/legal-information/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Temenos
+# Temenos Privacy Policy - Temenos
 
-10 August 2016
+25 May 2018
 
-Temenos Headquarters SA (registered office 2, Rue de L'Ecole-de-Chimie, 1205 Geneva, Switzerland) and any of its group companies (together "Temenos" or "we" or "our") are committed to respecting the privacy of individuals.
+### About this Privacy Policy
 
-This policy together with the [Temenos Terms and Conditions](https://web.archive.org/en/legal-information/terms-and-conditions/ "Read our website terms and conditions") and any other documents referenced set out our policy on collecting and processing personal data. By visiting and using our Temenos website(s), you are accepting and accepting to the policy set out in this notice.
+This privacy policy explains how and why we collect personal information and how we use that information. When we do so we are regulated under applicable local data protection laws including in the European Union (“EU”) the General Data Protection Regulation (“GDPR”) where we are responsible as ‘controller’ of that personal information. We may also provide you with additional information at the time we collect your personal information where we feel it would be helpful to provide relevant and timely information.
 
-**Information we may collect from you:**
+### Who we are
 
-  1. **Information you give us  
-** You may give us information by filling in forms on one of our websites (including www.temenos.com) or at a conference or by corresponding with us by phone, email or otherwise. This includes information you provide when you register to use our site(s) including Temenos MarketPlace, participate in any discussion bard or other social media function on our websites. The information you give us may include your name, address, title, email address and phone number. If you give us information on behalf of someone else you confirm that you have given them the information set out in this notice and that they have given permission for us to use their information as set out in this notice.
-  2. **  Information we collect about you.**
-    1. Technical information, including the internet protocol (IP) address used to connect your computer to the internet, your login information, browser type and version 
-    2. Information about your visit, including the url clickstream to, through and from our site, including date and time; pages you viewed, page response times, download errors, length of visits, page interaction information. 
-    3. Temenos or third party software, widgets and apps downloaded from the site (downloads) may provide Temenos with information about the device type, network connectivity, location of the device running a download, information about when a download is launched, individual session lengths for downloads, or why an download may not be working.
-    4. Temenos uses your IP address to help diagnose problems with our server and/or to administer our site(s). This informs us of which parts of our site users are visiting. We do not link IP addresses to anything personally identifiable so a user's session will be tracked, but the user will be anonymous.
-  3. **Information we receive from other sources**  
-We may receive information about you if you use any other website we operate or other services we provide. We are also working closely with third parties (eg Temenos Marketplace Providers, Temenos Partners, other business associates, subcontractors, suppliers, analytics providers, platform providers and search information providers) and may receive information about you from them.
-  4. **Personal and Non Personal information**  
-Personal Information is information that can be used to identify a single person. We also collect non-personal information or may anonymise personal information in order to make it non-personal. You agree that Temenos may collect, store, use and transfer and disclose non personal information for any purpose. Information collected by cookies and similar technologies are dealt with as non-personal information.
-  5. **Event Use of Information  
-** In registering or any Temenos event (including the Temenos Community Forum and Innovation Jams), you agree that: a) We may use photos and videos of the event and may include you for distribution to event participants and in our promotion materials for further events; b) any insights gained from sessions that you participate in and contribute to may also be used for any purpose and without restriction; c) We may use your name in any social media/app/event materials for the event which is available to registered delegates.
+Temenos Headquarters SA (registered office 2, Rue de L'Ecole-de-Chimie, 1205 Geneva, Switzerland) and its group companies (together "Temenos" or "we" or "our").
 
+For the purposes of EU law, Temenos Headquarters SA is the data controller and has appointed Temenos UK Ltd (registered office 5th Floor, 71 Fenchurch Street, London EC3M 4TD) as its Article 27 Representative in the EU. We have appointed Bernhard Schneider as Data Protection Officer in Germany Address: Datenschutzauditor (GDD/BvD), Leiter Fachbereich Datenschutz eMail: B.Schneider@gdb-beratung.de Tel.:0221 912 698 300 Fax: 0221/912698-370.
 
+### Personal Information we may collect:
 
-### Uses Made of the Information:
+We collect personal information through your interactions with us, such as when you contact us or when you provide your details through our online registration forms, when you use our products and services, when you use our websites and online services or when you visit our offices or attend an event. We may also receive personal information about you from third party sources.
 
-We use the information held about you in the following ways:
+[Click here for further details](https://web.archive.org/en/legal-information/privacy-policy/personal-information-we-may-collect/)
 
-  * To carry out our obligations arising from any contracts entered into between you and us and provide you with the information, products and services that you request from us;
-  * To provide you with information about other products and services we offer that are similar to those that you have already purchased or enquired about;
-  * To provide you or permit selected third parties (eg Temenos MarketPlace Providers and designated Temenos Partners) with information about products and services which we feel may be of interest to you;
-  * To notify you about changes to our services and products;
-  * To understand client requirements, perform analysis and comparisons and to obtain your views on our products, services and websites;
-  * To develop and test products and services;
-  * To improve our sites and ensure that content from our site is presented in the most effective manner for you and for your computer;
-  * To administer our sites and inform internal operations, including trouble shooting, data analysis, testing, research, statistical and survey purposes;
-  * To allow you to participate in interactive features of our service and sites when you choose to do;
-  * To keep our site safe and secure.
+### Uses made of the information and legal basis for this use:
 
+We use information you provided us as required to carry out our obligations under contracts between us, to communicate with you in order to provide you with information about our products and services, to enable us to operate our business and to pursue our legitimate interests where these are not outweighed by your applicable data protection rights and to comply with applicable laws and/or to protect our legal rights.
 
+[Click here for further details](https://web.archive.org/en/legal-information/privacy-policy/uses-made-of-the-information-and-legal-basis-for-this-use/)
 
-We may combine the information we receive from other sources with information you give us and information we collect about you. We may use this information and the combined information for the purposes we set out above.
+### Disclosure of your information
 
-6. **  Disclosure of your information**
+We may provide your information by electronic or other means to processors, including:
 
-  * Sometimes we may provide your data by electronic or other means, to Temenos group affiliates worldwide (including our subsidiaries, our ultimate holding company and its subsidiaries).
-  * We may also share your personal information with third parties outside the Temenos group including: 
-    * business partners, such as Temenos Marketplace Providers, Temenos Partners, suppliers and subcontractors for the performance of the any contract or request or service we are supplying to you;
-    * Analytics and search engine providers to assist us in the improvement and optimisation of our site, although ordinarily only non-personal information is shared.
-  * Your data may be made available to third parties where required by law, court order or regulation.
+To Temenos group companies, some of whom are based outside the European Economic Area (EEA). - for further information on how we protect your personal information when this occurs see Transfer of your information outside the EEA (see below for further information).
+
+To third party processors outside the Temenos group (some of whom may also be based outside the EEA) including:
+
+  * business partners, such as [Temenos Marketplace Providers](https://web.archive.org/en/temenos-marketplace/temenos-marketplace-providers/), [Temenos Partners](https://web.archive.org/en/partners/);
+  * subcontractors for the performance of any contract or request or service we are supplying to you; 
+  * Our suppliers including: 
+    * platform hosting providers (Oracle, Microsoft), CRM (Salesforce) and other technology providers (Google);
+    * analytics and search engine providers to assist us in the improvement and optimization of our website, although ordinarily only technical information is shared;
+    * digital agencies, event organizers, PR agencies, marketing services providers, survey providers;
+    * hotels, conference/event management providers, destination management providers.
+  * with social media providers (such as LinkedIn, Google+ and Twitter) from time to time, to enable us to provide marketing materials/targeted adverts to you that you have agreed to receive through your privacy settings on those sites;
+  * our auditors and other professional advisors where they need access to such information;
+  * in connection with an acquisition, transfer or merger with another company;
+  * To third parties where required by law, court order or regulation.
 
 
 
-7. **  Where we store your personal data**
+### Transfer of your information outside the EEA
 
-  * The data we collect from you may be transferred to and stored at a destination outside the European Economic Area (EEA). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff are engaged in amongst other things the fulfilment of your request or contract. By submitting your personal data you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
-  * Where we have given you or you have chosen a password or access code which enables you to access certain parts of our site, you are responsible for keeping this password confidential.
-  * Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot ever absolutely guarantee the security of your data transmitted to your site; any transmission is at your own risk. Once we receive your information, we will use our strict procedures and security features to try to prevent unauthorised access.
+Where information is transferred outside the EEA and Switzerland and where this is to a Temenos group company or supplier, business partner, subcontractor or other entity in a country that is not subject to [an adequacy decision by the EU Commission](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en), your information will be adequately protected by the EU Commission approved standard contractual clauses, an appropriate Privacy Shield certification or a vendor’s Processor Binding Corporate Rules (as permitted under the GDPR).
+
+A copy of the relevant mechanism can be provided to individuals in the EEA for your review on request to Temenos Headquarters SA , 2, Rue de L'Ecole-de-Chimie, 1205 Geneva, Switzerland or to [info@temenos.com](mailto:info@temenos.com), marked for the attention of Corporate Legal.
+
+### Retention of your personal information
+
+Temenos will keep this information for the duration of our business relationship and to the extent permitted or required under applicable law, after termination of the business relationship. Laws may require Temenos to hold certain information for specified periods. In other cases, Temenos may retain data for an appropriate period after the business relationship ends to comply with its legal obligations, to meet regulatory requirements or to protect itself from legal claims. In relation to other personal information collected, Temenos requires this to be deleted as soon as the purpose for which it was collected ceases or the information is no longer needed for that purpose.
+
+### How we protect your personal information
+
+We will use appropriate technical and organizational security measures which are designed to prevent personal information from being accidentally lost, or accessed or used in an unauthorized way. We limit access to your personal information to those who have a genuine business need to do so. Our personnel are subject to a duty of confidentiality and required to undertake training on how to handle personal information in an appropriate manner. Where we use third parties to provide services and process personal information on our behalf we require them to use personal information we share with them only in accordance with our instructions and not for other purposes.
+
+  * We have a process for handling any suspected data security breach and will comply with any notification obligations in the event of a breach.
+
+
+  * Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal information, you should be aware that the security of your information transmitted to and from you via the internet cannot be guaranteed and any such transmission by you is at your own risk.
 
 
 
-8.  **Your Rights**
+### Password protection
 
-Where applicable, you may have certain rights under local legislation (for example: the UK's Data Protection Act 1998), including the right to see the personal information held about you and you may ask us to make any necessary changes to ensure it is accurate and up to date. If, where applicable, you would like a copy of the personal information, we hold about, please see our Contact Us section. There may be a local fee applicable to such a request.
+Where we have given you or you have chosen a password or access code which enables you to access certain parts of our website, this will be unique to you and you are responsible for keeping this password confidential. If you are prompted to create or update your password, you should create a strong password and never share your login details with anyone. If you suspect your password may have been compromised you must tell us immediately by contacting the administrator of the relevant service and change your password using the reset/forgotten password function.
 
-Our sites may from time to time contain links to and from the websites of our Partners, Temenos MarketPlace Providers, Temenos Partners, advertisers, and other business associates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not do accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+### Third party websites
 
-9.  **Changes to our Privacy Policy**
+Our websites may from time to time contain links to and from the websites of our Temenos Partners, Temenos MarketPlace Providers, Temenos advertisers, and other business associates. Please note that these websites are not operated by Temenos and have their own privacy policies. Social media features used on our website such as ‘like’ buttons may enable the providers of those features to collect information about you and are subject to the privacy policies published on the website of the company which provides the feature. We do not do accept any responsibility or liability for these third party websites or their privacy policies. Please check these policies before you submit any personal information to these websites or use their features.
 
-Any changes we make to our Privacy Policy will be posted on this page. Please check back frequently to see any updates or changes to the policy.
+### Whether information has to be provided by you and if so why
 
-10.  **Contact Us**
+Where we require personal information to comply with legal or contractual obligations, then we need to process this information; if such data is not provided, we will not be able to manage the business relationship or meet contractual or legal obligations placed on us. In other cases, provision of requested personal information is optional. However, if you do not provide that personal information we may be prevented from providing you with relevant information about our products and services. Technical information may be collected automatically if you visit our websites.
 
-Please make use of the Contact Us section on the website. You may also if you wish to exercise any of your legal rights, write to us at Temenos Headquarters SA , 2, Rue de L'Ecole-de-Chimie, 1205 Geneva, Switzerland, marked for the attention of Corporate Legal.
+### Your Data Protection Rights
+
+Where applicable, you may have certain rights under the GDPR or local legislation in the EEA including the right to ask us for a copy of see or update the personal information held about you as well as obtain supporting explanatory materials. You may ask us to make any necessary changes to your data ensure it is accurate and up to date or ask us to restrict the processing of the data transfer it to other organizations at your request in certain circumstances. You may also have rights to object to some processing and where we have asked for your consent to process your data, to withdraw your consent. Where we process your data because we have a legitimate interest in doing so, you may also have the right to object to this. These rights may be limited in some situations – for example, where we can demonstrate that we have a legal requirement to process your data. Where applicable, you may have similar rights in your country under local legislation to access and correct/update your data.
+
+If you wish to exercise any of these rights you can get in touch with us at Temenos Headquarters SA , 2, Rue de L'Ecole-de-Chimie, 1205 Geneva, Switzerland, or by email to [info@temenos.com](mailto:info@temenos.com), marked for the attention of Corporate Legal.
+
+### How to complain
+
+We hope that we can satisfy queries you may have about the way we process your information. If you have any concerns, you can get in touch with Temenos Headquarters SA, 2, Rue de L'Ecole-de-Chimie, 1205 Geneva, Switzerland, marked for the attention of Corporate Legal. For individuals in Germany, you can also contact the local Data Protection Officer: Bernhard Schneider at Datenschutzauditor (GDD/BvD), Leiter Fachbereich Datenschutz eMail: [B.Schneider@gdb-beratung.de](mailto:B.Schneider@gdb-beratung.de) Tel.: 0221 912 698 300 Fax: 0221/912698-370.
+
+If you have unresolved concerns, you may also complain to the relevant supervisory authority (if applicable) in the country where you work, normally live or where any alleged infringement of data protection laws occurred.
+
+### Changes to our Privacy Policy
+
+Any changes we make to our Privacy Policy will be posted on this page. Please check back from time to time to see any updates or changes to the policy. We will update the date at the top of this page when we make updates or changes and may place a banner on our website if we make material changes. If we consider it appropriate, we will also notify you that we have updated our privacy policy through other communications channels, such as by email.
+
+### How to Contact Us
+
+Please make use of the Contact Us section on the website. You may also if you wish to exercise any of your legal rights, write to us at Temenos Headquarters SA , 2, Rue de L'Ecole-de-Chimie, 1205 Geneva, Switzerland, marked for the attention of Corporate Legal.  
+If you wish to unsubscribe from receiving marketing materials from us, please contact us  [here](mailto:info@temenos.com).
