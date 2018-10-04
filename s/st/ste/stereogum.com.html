@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the stereogum.com privacy policy that was archived on 2018-03-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180316124021id_/https%3A//www.stereogum.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stereogum.com privacy policy that was archived on 2018-10-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181004105033id_/https%3A//www.stereogum.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta charset="UTF-8">
@@ -8,8 +8,11 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width">
 <link rel="alternate" type="application/rss+xml" title="RSS" href="https://www.stereogum.com/feed">
-<link rel="stylesheet" href="https://www.stereogum.com/wp-content/themes/stereogum/assets/css/style.css?26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a" type="text/css" media="screen">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TSGWDG"></script><script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script async="" type="text/javascript" src="//lib.pgmcdn.com/clarity-1519742797700.min.js"></script><script language="javascript" type="text/javascript" tag="comments-vote-settings">
+<link rel="stylesheet" href="https://www.stereogum.com/wp-content/themes/stereogum/assets/css/style.css?3a59906330176bf7c88c136419a9000538bb05a7" type="text/css" media="screen">
+<script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script async="" type="text/javascript" src="//sejs.moatads.com/billboardprebidheader946633233358/yi.js"></script><script async="" type="text/javascript" src="//lib.pgmcdn.com/clarity-1536861412649.min.js"></script><script type="text/javascript" src="https://assets.stereogum.com/wp-content/plugins/wp-pi-spinmedia-core/js/queue-scripts.js?_v=18346cee77ab1883e2ac781a9c23bd84" charset="UTF-8"></script><script type="text/javascript">
+                        window.blockScripts = false;
+                        window.onetrustURL = "";
+                    </script><script language="javascript" type="text/javascript" tag="comments-vote-settings">
             var cvotesettings = {
                 ncolor:"777777",
                 pcolor:"222222",            
@@ -22,29 +25,47 @@
                  
             </script>
 
-<script>
+<script type="text/javascript">
 	
 			clarityPageData = {"site_code":"stereogum","zone":"feed_page"};
-		
+	
+    (function(){
+    window.CLARITY = window.CLARITY || [];
+    var ns = document.createElement('script'), s = document.getElementsByTagName('script')[0];
+    ns.async = true; ns.type = 'text/javascript'; ns.src = '//lib.pgmcdn.com/clarity-1536861412649.min.js'; s.parentNode.insertBefore(ns, s);
+})();
 </script>
 <script type="text/javascript">
     (function(){
-        window.CLARITY = window.CLARITY || [];
+    	// queue this up in case moat comes back before clarity loads
+    	window.moatYieldReady = function() {
+            CLARITY.push({
+                use: ['header', 'logger'],
+                run: function(header, logger) {
+                    try {
+                        header.partners.moat.setTargeting();
+                    } catch (e) {
+                        console.log(e);
+                    }
+                }
+            });
+        };
+
         var ns = document.createElement('script'), s = document.getElementsByTagName('script')[0];
-        ns.async = true; ns.type = 'text/javascript'; ns.src = '//lib.pgmcdn.com/clarity-1519742797700.min.js'; s.parentNode.insertBefore(ns, s);
+        ns.async = true; ns.type = 'text/javascript'; ns.src = '//sejs.moatads.com/billboardprebidheader946633233358/yi.js'; s.parentNode.insertBefore(ns, s);
     })();
 </script>
 <script>
-	!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+    !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
 
-	apstag.init({
+    apstag.init({
         pubID: 3125,
         adServer: 'googletag',
         videoAdServer: 'DFP',
         bidTimeout: 600
     });
 
-	// Tell Clarity not to load a9
+    // Tell Clarity not to load a9
     CLARITY.push({
         use: ['header'],
         run: function(header) {
@@ -127,7 +148,7 @@
                                 header.addHeaderSlot.apply(header, slotData[i]);
                             }
                         
-                        header.run({"a9":{"account_id":3125,"positions":["leaderboard_top","leaderboard_bottom_lazy","medrec_top","medrec_bottom_lazy"]},"openx":{"network_code":"6419-stereogum","positions":["leaderboard_top","leaderboard_bottom_lazy","medrec_top","medrec_bottom_lazy"]},"rubicon":{"account_id":11872,"positions":["leaderboard_top","leaderboard_bottom_lazy","medrec_top","medrec_bottom_lazy"]}});
+                        header.run({"a9":{"account_id":3125,"positions":["leaderboard_top","leaderboard_bottom_lazy","medrec_top","medrec_bottom_lazy"]},"facebook":{"placementIds":{"^leaderboard_(top_)?[0-9]+":"194924564541615_194925301208208","^medrec_(bottom_)?lazy_[0-9]+":"194924564541615_194931317874273","^medrec_top_[0-9]+":"194924564541615_194925464541525"}},"moat":true,"openx":{"network_code":"6419-stereogum","positions":["leaderboard_top","leaderboard_bottom_lazy","medrec_top","medrec_bottom_lazy"]},"rubicon":{"account_id":11872,"positions":["leaderboard_top","leaderboard_bottom_lazy","medrec_top","medrec_bottom_lazy"]}});
                     }
                 });
             </script> <script>
@@ -146,48 +167,48 @@
             var show_login = false;        </script>
 
 <link rel="canonical" href="https://www.stereogum.com/privacy-policy/">
-<meta property="og:title" content="<span style=&quot;font-size:30px&quot;>Privacy Policy</span>">
+<meta property="og:title" content="Privacy Policy">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://www.stereogum.com/privacy-policy/">
 <meta property="og:site_name" content="Stereogum">
-<meta property="og:description" content="Effective Date: 12/22/2016 This Privacy Policy is applicable to this site and any other site that may be operated by or for Prometheus Global Media (together, the &quot;Websites&quot;). It explains how we collect information from users of the Websites and how we use such information. Your use of the Websites constitutes your acceptance of this Privacy Policy. Please also read our Terms of Use (link to site ToU), which govern the basic operation of the Websites. 1. The Information We Collect and Use A. Non-Personally Identifiable Information. When you visit a Website, we may collect certain data that does not tell us specifically who you are. This is “Non-Personally Identifiable Information.” It includes things like your Internet Protocol (IP) address, browser type, and the last domain you visited before coming to our Website or the domain you go to when you leave. It also includes various statistical data such as which pages you visit on our Websites, how long you stay on them, and what you">
+<meta property="og:description" content="Privacy Policy Effective Date: January 15, 2016; Last Updated: May 24, 2018 This Privacy Policy is applicable to www.billboard.com, www.billboardevents.com, www.hollywoodreporter.com, and any other site that may be operated by or for Prometheus Global Media (together, the &quot;Websites&quot;). It explains how we collect information from users of the Websites and how we use such information. Your use of the Websites constitutes your acceptance of this Privacy Policy. Please also read our Terms of Use, which govern the basic operation of the Websites. If you are an EU resident, see section 4 below, which will inform you in detail about the personal data we process, how we process it, for which purposes we process it, with whom we share it, on what legal basis we process and transfer your personal information and which rights you have regarding the processing of your personal information.  The Information We Collect and Use  When you visit a Website, we may collect certain information from and">
 <meta property="article:published_time" content="2008-03-11T04:15:25Z">
-<meta property="article:modified_time" content="2017-04-19T09:54:18Z">
+<meta property="article:modified_time" content="2018-05-25T18:16:39Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="<span style=&quot;font-size:30px&quot;>Privacy Policy</span>">
-<meta name="twitter:description" content="Effective Date: 12/22/2016 This Privacy Policy is applicable to this site and any other site that may be operated by or for Prometheus Global Media (together, the &quot;Websites&quot;). It explains how we collect information from users of the Websites and how we use such information. Your use of the Websites constitutes your acceptance of this Privacy Policy. Please also read our Terms of Use (link to site ToU), which govern the basic operation of the Websites. 1. The Information We Collect and Use A. Non-Personally Identifiable Information. When you visit a Website, we may collect certain data that does not tell us specifically who you are. This is “Non-Personally Identifiable Information.” It includes things like your Internet Protocol (IP) address, browser type, and the last domain you visited before coming to our Website or the domain you go to when you leave. It also includes various statistical data such as which pages you visit on our Websites, how long you stay on them, and what you">
+<meta name="twitter:title" content="Privacy Policy">
+<meta name="twitter:description" content="Privacy Policy Effective Date: January 15, 2016; Last Updated: May 24, 2018 This Privacy Policy is applicable to www.billboard.com, www.billboardevents.com, www.hollywoodreporter.com, and any other site that may be operated by or for Prometheus Global Media (together, the &quot;Websites&quot;). It explains how we collect information from users of the Websites and how we use such information. Your use of the Websites constitutes your acceptance of this Privacy Policy. Please also read our Terms of Use, which govern the basic operation of the Websites. If you are an EU resident, see section 4 below, which will inform you in detail about the personal data we process, how we process it, for which purposes we process it, with whom we share it, on what legal basis we process and transfer your personal information and which rights you have regarding the processing of your personal information.  The Information We Collect and Use  When you visit a Website, we may collect certain information from and">
 
 <link rel="dns-prefetch" href="//assets.stereogum.com">
 <link rel="dns-prefetch" href="//ak.sail-horizon.com">
 <link rel="dns-prefetch" href="//www.google.com">
 <link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="stylesheet" id="mobile-zoom-css" href="https://assets.stereogum.com/wp-content/plugins/wp-pi-spinmedia-core/css/vendor/mobile-zoom.css?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a" type="text/css" media="all">
-<link rel="stylesheet" id="pi-gallery-css-css" href="https://assets.stereogum.com/wp-content/plugins/wp-pi-gallery/css/style.css?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a" type="text/css" media="all">
-<link rel="stylesheet" id="pi-login-css" href="https://assets.stereogum.com/wp-content/plugins/wp-pi-login/css/login.css?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a" type="text/css" media="all">
-<link rel="stylesheet" id="pi-player-css-css" href="https://assets.stereogum.com/wp-content/plugins/wp-pi-music-player/css/style.css?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a" type="text/css" media="all">
-<link rel="stylesheet" id="icon-styles-css" href="https://www.stereogum.com/wp-content/themes/wp-theme-base/assets/css/icons.css?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a" type="text/css" media="all">
-<link rel="stylesheet" id="comment-vote-css" href="https://www.stereogum.com/wp-content/plugins/wp-pi-comment-voting/css/comments.css?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a" type="text/css" media="all">
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
-<script type="text/javascript" src="https://www.stereogum.com/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
-<script type="text/javascript" src="https://www.stereogum.com/wp/wp-includes/js/underscore.min.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
-<script type="text/javascript" src="https://assets.stereogum.com/wp-content/plugins/wp-pi-spinmedia-widgets/js/ajax-widgets.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
+<link rel="stylesheet" id="mobile-zoom-css" href="https://assets.stereogum.com/wp-content/plugins/wp-pi-spinmedia-core/css/vendor/mobile-zoom.css?ver=3a59906330176bf7c88c136419a9000538bb05a7" type="text/css" media="all">
+<link rel="stylesheet" id="pi-gallery-css-css" href="https://assets.stereogum.com/wp-content/plugins/wp-pi-gallery/css/style.css?ver=3a59906330176bf7c88c136419a9000538bb05a7" type="text/css" media="all">
+<link rel="stylesheet" id="pi-login-css" href="https://assets.stereogum.com/wp-content/plugins/wp-pi-login/css/login.css?ver=3a59906330176bf7c88c136419a9000538bb05a7" type="text/css" media="all">
+<link rel="stylesheet" id="pi-player-css-css" href="https://assets.stereogum.com/wp-content/plugins/wp-pi-music-player/css/style.css?ver=3a59906330176bf7c88c136419a9000538bb05a7" type="text/css" media="all">
+<link rel="stylesheet" id="icon-styles-css" href="https://www.stereogum.com/wp-content/themes/wp-theme-base/assets/css/icons.css?ver=3a59906330176bf7c88c136419a9000538bb05a7" type="text/css" media="all">
+<link rel="stylesheet" id="comment-vote-css" href="https://www.stereogum.com/wp-content/plugins/wp-pi-comment-voting/css/comments.css?ver=3a59906330176bf7c88c136419a9000538bb05a7" type="text/css" media="all">
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
+<script type="text/javascript" src="https://www.stereogum.com/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
+<script type="text/javascript" src="https://www.stereogum.com/wp/wp-includes/js/underscore.min.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
+<script type="text/javascript" src="https://assets.stereogum.com/wp-content/plugins/wp-pi-spinmedia-widgets/js/ajax-widgets.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var pgm_sailthru_vars = {"st_source":"web-stereogum-other"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://assets.stereogum.com/wp-content/plugins/wp-newsletter/js/sailthru.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
-<script type="text/javascript" src="https://ak.sail-horizon.com/spm/spm.v1.min.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
-<script type="text/javascript" src="https://assets.stereogum.com/wp-content/plugins/wp-pi-spinmedia-core/js/jquery.lazyloadxt.extra.min.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
-<script type="text/javascript" src="https://assets.stereogum.com/wp-content/plugins/wp-pi-spinmedia-core/js/lazyloadxt.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
-<script type="text/javascript" src="https://assets.stereogum.com/wp-content/plugins/wp-pi-spinmedia-core/js/lazyoEmbeds.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
+<script type="text/javascript" src="https://assets.stereogum.com/wp-content/plugins/wp-newsletter/js/sailthru.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
+<script type="text/javascript" src="https://ak.sail-horizon.com/spm/spm.v1.min.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
+<script type="text/javascript" src="https://assets.stereogum.com/wp-content/plugins/wp-pi-spinmedia-core/js/jquery.lazyloadxt.extra.min.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
+<script type="text/javascript" src="https://assets.stereogum.com/wp-content/plugins/wp-pi-spinmedia-core/js/lazyloadxt.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
+<script type="text/javascript" src="https://assets.stereogum.com/wp-content/plugins/wp-pi-spinmedia-core/js/lazyoEmbeds.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var ajax_comments_vars = {"ajaxurl":"https:\/\/www.stereogum.com\/ajax"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://assets.stereogum.com/wp-content/plugins/wp-pi-comments/js/feed_comment_count.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
+<script type="text/javascript" src="https://assets.stereogum.com/wp-content/plugins/wp-pi-comments/js/feed_comment_count.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
 <link rel="https://api.w.org/" href="https://www.stereogum.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.stereogum.com/wp/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.stereogum.com/wp/wp-includes/wlwmanifest.xml">
@@ -200,7 +221,7 @@ var ajax_comments_vars = {"ajaxurl":"https:\/\/www.stereogum.com\/ajax"};
 </script><link href="https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,700,700i|Montserrat:400,700" rel="stylesheet" type="text/css">
 <link href="https://fonts.googleapis.com/css?family=Asap:400,700,400italic,700italic|Montserrat:400,700" rel="stylesheet" type="text/css">
 </head>
-<body itemscope="" itemtype="https://schema.org/Article" class="page-template-default page page-id-8411">
+<body class="page-template-default page page-id-8411">
 
 <noscript>
                     <iframe
@@ -209,18 +230,14 @@ var ajax_comments_vars = {"ajaxurl":"https:\/\/www.stereogum.com\/ajax"};
                 </noscript>
 <script>
                     dataLayer = [{"postId":"none","pagetype":"other","author":"none","category":"none","publishedDate":"none","parentTag":"none","tags":"none"}];
-                                        (function (w, d, s, l, i) {
-                        w[l] = w[l] || [];
-                        w[l].push({
+                                        (function() {
+                        window.dataLayer = window.dataLayer || [];
+                        window.dataLayer.push({
                             'gtm.start': new Date().getTime(), event: 'gtm.js'
                         });
-                        var f = d.getElementsByTagName(s)[0],
-                            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
-                        j.async = true;
-                        j.src =
-                            '//www.googletagmanager.com/gtm.js?id=' + i + dl + '';
-                        f.parentNode.insertBefore(j, f);
-                    })(window, document, 'script', 'dataLayer', 'GTM-TSGWDG');</script>
+                        window.createScript("//www.googletagmanager.com/gtm.js?id=GTM-TSGWDG");
+                    })();
+                </script>
 
 <div id="menu" class="navbar navbar-default navbar-fixed-top " role="navigation">
 <div class="container">
@@ -254,7 +271,7 @@ Album Of The Week
 </a>
 </div>
 <div class="menu-item">
-<a href="https://www.stereogum.com/category/franchises/band-to-watch/">
+ <a href="https://www.stereogum.com/category/franchises/band-to-watch/">
 <span>
 Band To Watch
 </span>
@@ -300,7 +317,7 @@ Interview
 <div class="menu-item">
 <a href="https://www.stereogum.com/category/franchises/premature-evaluation/">
 <span>
-Premature Evaluation
+ Premature Evaluation
 </span>
 </a>
 </div>
@@ -311,7 +328,7 @@ Shut Up Dude
 </span>
 </a>
 </div>
- <div class="menu-item">
+<div class="menu-item">
 <a href="https://www.stereogum.com/category/franchises/sounding-board/">
 <span>
 Sounding Board
@@ -346,7 +363,7 @@ The 5 Best Songs Of The Week
 </span>
 </a>
 </div>
-<div class="menu-item">
+ <div class="menu-item">
 <a href="https://www.stereogum.com/category/franchises/the-anniversary/">
 <span>
 The Anniversary
@@ -355,7 +372,7 @@ The Anniversary
 </div>
 </div>
 <div class="menu-column">
- <div class="menu-item">
+<div class="menu-item">
 <a href="https://www.stereogum.com/category/franchises/the-black-market/">
 <span>
 The Black Market
@@ -391,7 +408,7 @@ Ugly Beauty
 </a>
 </div>
 <div class="menu-item">
-<a href="https://www.stereogum.com/category/franchises/ultimate-playlist/">
+ <a href="https://www.stereogum.com/category/franchises/ultimate-playlist/">
 <span>
 Ultimate Playlist
 </span>
@@ -401,20 +418,20 @@ Ultimate Playlist
 <a href="https://www.stereogum.com/category/franchises/">
 <span>
 All Features
- </span>
+</span>
 </a>
 </div>
 </div>
 </div>
 <div class="featured-nav">
 <span class="the-latest">the latest //</span>
-<span class="franchise-title">The Week In Pop</span>
-<a href="https://www.stereogum.com/1986829/meet-me-in-the-middle-country-musics-latest-wave-of-aspiring-pop-stars-has-arrived/franchises/the-week-in-pop/">
+<span class="franchise-title">Interview</span>
+<a href="https://www.stereogum.com/2016192/local-h-interview-2018/franchises/tracking-down/">
 <span>
-<img src="https://static.stereogum.com/uploads/2018/03/GettyImages-909975292-1521047297-231x154.jpg" alt="Meet Me In The Middle: Country Music’s Latest Wave Of Aspiring Pop Stars Has Arrived">
+<img src="https://static.stereogum.com/uploads/2018/10/local-h-1538588557-231x154.jpg" alt="Local H On Music-Biz Bullshit, Toxic Nostalgia, And 20 Years Of <i>Pack Up The Cats</i>">
 </span>
 </a>
-<div class="feat-title"><a href="https://www.stereogum.com/1986829/meet-me-in-the-middle-country-musics-latest-wave-of-aspiring-pop-stars-has-arrived/franchises/the-week-in-pop/">Meet Me In The Middle: Country Music’s Latest Wave Of Aspiring Pop Stars Has Arrived</a></div>
+<div class="feat-title"><a href="https://www.stereogum.com/2016192/local-h-interview-2018/franchises/tracking-down/">Local H On Music-Biz Bullshit, Toxic Nostalgia, And 20 Years Of <i>Pack Up The Cats</i></a></div>
 </div>
 </div>
 </li>
@@ -442,11 +459,11 @@ Lists
 <li>
 <a class="icon-twitter" href="https://www.twitter.com/stereogum" target="_blank"></a>
 </li>
-<li class="more-social-icons">
+ <li class="more-social-icons">
 <span class="icon-plus"></span>
 <ul class="extra-4">
 <li>
- <a class="icon-instagram" href="https://www.instagram.com/stereogum" target="_blank"></a>
+<a class="icon-instagram" href="https://www.instagram.com/stereogum" target="_blank"></a>
 </li>
 <li>
 <a class="icon-tumblr" href="http://stereogum.tumblr.com" target="_blank"></a>
@@ -496,54 +513,64 @@ Lists
 <div class="col-sm-8 left-col">
 <div itemscope="" itemtype="https://schema.org/Article" class="article-body">
 <div>
-<h1 itemprop="name">
-<a href="https://www.stereogum.com/privacy-policy/"><span style="font-size:30px">Privacy Policy</span></a>
+<h1 itemprop="headline">
+<a href="https://www.stereogum.com/privacy-policy/">Privacy Policy</a>
 </h1>
 </div>
-<p>Effective Date: 12/22/2016</p>
-<p>This Privacy Policy is applicable to this site and any other site that may be operated by or for Prometheus Global Media (together, the “Websites”). It explains how we collect information from users of the Websites and how we use such information. Your use of the Websites constitutes your acceptance of this Privacy Policy. Please also read our Terms of Use (link to site ToU), which govern the basic operation of the Websites.</p>
-<p>1. The Information We Collect and Use</p>
-<p>A. Non-Personally Identifiable Information.<br>
-When you visit a Website, we may collect certain data that does not tell us specifically who you are. This is “Non-Personally Identifiable Information.” It includes things like your Internet Protocol (IP) address, browser type, and the last domain you visited before coming to our Website or the domain you go to when you leave. It also includes various statistical data such as which pages you visit on our Websites, how long you stay on them, and what you click.</p>
-<p>We may place a “cookie” on your computer. A cookie is a small amount of data, which often includes an anonymous unique identifier, sent to your browser from a website’s computers and stored on your computer’s hard drive. Our “preference” cookie expires after thirty (30) days. We may use cookies to keep track of your choice of language and home page preference; to understand your exposure to certain Internet advertisements as you use the Websites, and to gather usage data that will help us generally improve the quality of the Websites. There is a simple procedure in most browsers that allows you to deny or accept cookies. You should note that cookies may be necessary to provide you with certain features on the Websites.<br>
-We also may use a small piece of code (sometimes referred to as “1×1 clear pixel,” “Web beacon” or “clear GIF”) placed in the pages of the Websites to help us gather additional information about which parts of the site receive the most visitors and other user traffic patterns, and enable us to administer the site.</p>
-<p>You can control cookies and tracking tools. To learn how to manage how we – and our vendors – use cookies and other tracking tools, and to read our Do Not Track policy, please click here.</p>
-<p>B. Personally Identifiable Information.<br>
-We also may collect information that can be used to identify you (“Personally Identifiable Information”). We only collect Personally Identifiable Information when you specifically provide it to us. For example, in connection with your use of certain features of the Websites you may be asked to create a user account and provide certain information including your name, email addresses, address, and telephone number. You may also provide User Uploaded Information to the Websites, as described in the Terms of Use [make link], or you may provide information such as your credit card number in connection with the purchase of services or content available through the Websites. When you create a user account with a Prometheus Global Media website and sign in to your account on the Websites or post User Uploaded Information, you are not anonymous to us.</p>
-<p>We may use Personally Identifiable Information to fulfill your requests, respond to your inquiries and provide other services, and to alert you to information, offers, or publications in which we think you may be interested. The emails that we send contain links that enable you to “unsubscribe” from such mailings.</p>
-<p>We do not sell Personally Identifiable Information or other information you make available to the Websites, or share such information with third parties, except as described below.<br>
-From time to time, we may partner with unaffiliated companies or individuals for market research, product development or similar purposes. These companies or individuals may be provided with access to Personally Identifiable Information and Non-Personally Identifiable Information, but we will require by contract that they agree to maintain the confidentiality, security and integrity of such information. We also may subcontract with other companies and individuals to do work on our behalf; they may be provided with access to Personally Identifiable and Non-Personally Identifiable Information, but only as needed to perform their functions.</p>
-<p>We may share Personally Identifiable Information with third parties, who may contact you to offer products and services. At any time, you can contact Prometheus Global Media at 1-212-493-4100 to request that we not share your Personally Identifiable Information with third parties.</p>
-<p>We may disclose your Personally Identifiable Information to third parties in connection with a corporate transaction where all or a portion of our business (e.g., a portion that includes our customer lists) is sold or transferred. We also may disclose your Personally Identifiable Information if disclosure is required by law or as part of a lawsuit or government investigation or proceeding, or in order to permit us to exercise or preserve our legal rights or take action regarding potentially illegal activities or to protect the safety of any person.</p>
-<p>2. Data Security</p>
-<p>Prometheus Global Media cannot ensure or warrant the security or privacy of any information you transmit to us. We attempt to follow policies and procedures that will protect against unauthorized access to your Personally Identifiable Information. But we can make no guarantees or promises in this regard, and you provide information to us at your own risk.<br>
-We may store the Personally Identifiable Information we hold about you indefinitely. We may store this information in the United States or we may transfer it to any other country. The data protection laws of the countries where we store your personal data may or may not provide a level of protection equivalent to the laws in your home country. Wherever we hold the data, we will apply the terms of this Privacy Policy.</p>
-<p>3. Children</p>
-<p>This site is not directed at children under the age of 13 and we endeavor not to knowingly collect any Personally Identifiable Information from children under the age of 13. If a parent or guardian believes that this site has collected the Personally Identifiable Information of a child under the age of 13, please contact <script type="text/javascript">
-    var s = "pbagnpg@oogue.pbz".replace(/[a-zA-Z]/g,function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);});
-    document.write('<a class="email" href="mailto:' + s + '">' + s + '</a>' );
-</script><a class="email" href="mailto:contact@bbthr.com">contact@bbthr.com</a>
-</p>
-<p>4. Access to your information</p>
-<p>You may contact us at <script type="text/javascript">
-    var s = "pbagnpg@oogue.pbz".replace(/[a-zA-Z]/g,function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);});
-    document.write('<a class="email" href="mailto:' + s + '">' + s + '</a>' );
-</script><a class="email" href="mailto:contact@bbthr.com">contact@bbthr.com</a>
-</p>
-<p>if at any time you would like to see the Personally Identifiable Information we hold about you, or to ask us to correct or update this information, or to ask us to delete it. Please contact us if you have questions or wish to take any action with respect to information to which this Privacy Policy applies (see below for contact information).</p>
-<p>5. How To Contact Us</p>
-<p>You may contact Prometheus Global Media regarding our privacy practices at the following address:<br>
-Prometheus Global Media<br>
-340 Madison Avenue-6th Floor<br>
+<p><strong>Privacy Policy </strong><em>Effective Date</em>: January 15, 2016; <em>Last Updated: </em>May 24, 2018</p>
+<p>This Privacy Policy is applicable to <a href="https://www.billboard.com" target="_blank" rel="noopener noreferrer">www.billboard.com</a>, <a href="http://www.billboardevents.com" target="_blank" rel="noopener noreferrer">www.billboardevents.com</a>, <a href="https://www.hollywoodreporter.com" target="_blank" rel="noopener noreferrer">www.hollywoodreporter.com</a>, and any other site that may be operated by or for Prometheus Global Media (together, the “Websites”). It explains how we collect information from users of the Websites and how we use such information. Your use of the Websites constitutes your acceptance of this Privacy Policy. Please also read our <a href="https://www.stereogum.com/terms-and-conditions/">Terms of Use</a>, which govern the basic operation of the Websites.</p>
+<p>If you are an EU resident, see section 4 below, which will inform you in detail about the personal data we process, how we process it, for which purposes we process it, with whom we share it, on what legal basis we process and transfer your personal information and which rights you have regarding the processing of your personal information.</p>
+<ol>
+<li><strong>The Information We Collect and Use</strong></li>
+</ol>
+<p>When you visit a Website, we may collect certain information from and about you. It includes things like your Internet Protocol (IP) address, browser type, and the last domain you visited before coming to our Website or the domain you go to when you leave. It also includes various statistical data such as which pages you visit on our Websites, how long you stay on them, and what you click.</p>
+<p>We may place a “cookie” on your computer. A cookie is a small amount of data, which often includes a unique identifier, sent to your browser from a website’s computers and stored on your computer’s hard drive. Our “preference” cookie expires after ninety (90) days. We may use cookies to keep track of your choice of language and home page preference; to understand your exposure to certain Internet advertisements as you use the Websites, and to gather usage data that will help us generally improve the quality of the Websites. There is a simple procedure in most browsers that allows you to deny or accept cookies. You should note that cookies may be necessary to provide you with certain features on the Websites. We also may use a small piece of code (sometimes referred to as “1×1 clear pixel,” “Web beacon” or “clear GIF”) placed in the pages of the Websites to help us gather additional information about which parts of the site receive the most visitors and other user traffic patterns, and enable us to administer the site.</p>
+<p><strong>You can control cookies and tracking tools.</strong>To learn how to manage how we – and our vendors – use cookies and other tracking tools, and to read our <strong>Do Not Track </strong>policy, please <a href="https://www.stereogum.com/about-our-ads/">click here</a>.</p>
+<p>Furthermore, we collect information from and about you when you specifically provide it to us. For example, in connection with your use of certain features of the Websites you may be asked to create a user account and provide certain information including your name, email addresses, address, and telephone number. You may also provide User Uploaded Information to the Websites, as described in the <a href="https://www.stereogum.com/terms-and-conditions/">Terms of Use</a>, or you may provide information such as your credit card number in connection with the purchase of services or content available through the Websites. When you create a user account with a Prometheus Global Media website and sign in to your account on the Websites or post User Uploaded Information, you are not anonymous to us.</p>
+<p>We may use your information to fulfill your requests, respond to your inquiries and provide other services, and to alert you to information, offers, or publications in which we think you may be interested. The emails that we send contain links that enable you to “unsubscribe” from such mailings.</p>
+<p>From time to time, we may partner with unaffiliated companies or individuals for market research, product development or similar purposes. These companies or individuals may be provided with access to your information. We also may subcontract with other companies and individuals to do work on our behalf; they may be provided with access to your information.</p>
+<p>We may share your information with third parties, who may contact you to offer products and services. At any time, you can contact Prometheus Global Media at 1-212-493-4100 to request that we not share your with third parties for promotional purposes.</p>
+<p>We may disclose your information to third parties in connection with a corporate transaction where all or a portion of our business (e.g., a portion that includes our customer lists) is sold or transferred. We also may disclose your information if disclosure is required by law or as part of a lawsuit or government investigation or proceeding, or in order to permit us to exercise or preserve our legal rights or take action regarding potentially illegal activities or to protect the safety of any person.</p>
+<ol start="2">
+<li><strong>Data Security</strong></li>
+</ol>
+<p>Prometheus Global Media cannot ensure or warrant the security or privacy of any information you transmit to us. We attempt to follow policies and procedures that will protect against unauthorized access to your information. But we can make no guarantees or promises in this regard, and you provide information to us at your own risk.</p>
+<p>Except as noted in Section 4 below, may store the information we hold about you indefinitely. We may store this information in the United States or we may transfer it to any other country. The data protection laws of the countries where we store your personal data may or may not provide a level of protection equivalent to the laws in your home country. Wherever we hold the data, we will apply the terms of this Privacy Policy.</p>
+<ol start="3">
+<li><strong>Children</strong></li>
+</ol>
+<p>This site is not directed at children under the age of 13 and we endeavor not to knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that this site has collected the personally identifiable information of a child under the age of 13, please contact <a href="mailto:privacy@prometheusgm.com" target="_blank" rel="noopener noreferrer">privacy@prometheusgm.com</a>.</p>
+<ol start="4">
+<li><strong>Information for EU Residents</strong></li>
+</ol>
+<p>4.1. Data retention</p>
+<p>In the absence of specific retention periods set out in this Privacy Policy, your personaldata will be retained only for as long as we need it to fulfil the purpose for which we have collected it and, if applicable, as long as required by legal retention requirements.</p>
+<p>4.2. Your Rights</p>
+<p>Under the legislation applicable to you, you may be entitled to exercise some or all of the following rights:</p>
+<ul>
+<li>require (i) access to and/or duplicates of your personal data retained, (ii) receive the personal data concerning you, which you have provided to us, in a structured, commonly used and machine-readable format and (iii) to transmit those data to another controller without hindrance from our side; where technically feasible you shall have the right to have the personal data transmitted directly from us to another controller;</li>
+<li>request proper rectification, erasure or restriction of your personal data, e.g. because (i) it is incomplete or inaccurate, (ii) it is no longer needed for the purposes for which it was collected, or (iii) the consent on which the processing was based has been withdrawn, or (iv) you have taken advantage of an existing right to object to the data processing; in case the personal data is processed by third parties, your request for rectification, erasure or restriction will be forwarded also to such third parties unless this proves impossible or involves disproportionate effort;</li>
+<li>refuse to provide and – without impact to data processing activities that have taken place before such withdrawal or to any other existing legal justification of the processing activity in question – withdraw your consent to processing of your personal data at any time;</li>
+<li>object at any time that your personal data will be used for direct marketing purposes, or – based on grounds relating to your particular situation – that your personal data shall be subject to data processing for other purposes;</li>
+<li>take legal actions in relation to any potential breach of your rights regarding the processing of your personal data, as well as to lodge complaints before the competent data protection regulators; and/or</li>
+<li>not to be subject to any automated decision making, including profiling (automatic decisions based on data processing by automatic means, for the purpose of assessing several personal aspects) which produce legal effects on you or affects you with similar significance<em>.</em></li>
+</ul>
+<p>You may (i) exercise the rights referred to above or (ii) pose any questions or (iii) make any complaints regarding our data processing by contacting us under the contact details set out below.</p>
+<ol start="5">
+<li><strong>Access to your information</strong></li>
+</ol>
+<p>You may contact us at <a href="mailto:privacy@prometheusgm.com" target="_blank" rel="noopener noreferrer">privacy@prometheusgm.com</a>&nbsp;if at any time you would like to see the personally identifiable information we hold about you, or to ask us to correct or update this information, or to ask us to delete it. Please contact us if you have questions or wish to take any action with respect to information to which this Privacy Policy applies (see below for contact information).</p>
+<ol start="6">
+<li><strong>How To Contact Us</strong></li>
+</ol>
+<p>You may contact Prometheus Global Media regarding our privacy practices at the following address:Prometheus Global Media 340 Madison Avenue-6thFloor<br>
 New York, New York 10173<br>
 1-212-493-4100<br>
-<script type="text/javascript">
-    var s = "pbagnpg@oogue.pbz".replace(/[a-zA-Z]/g,function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);});
-    document.write('<a class="email" href="mailto:' + s + '">' + s + '</a>' );
-</script><a class="email" href="mailto:contact@bbthr.com">contact@bbthr.com</a>
-</p>
-<p>6. Changes To The Privacy Policy</p>
-<p>This Privacy Policy is effective as of 12/22/2016. We reserve the right to change this Privacy Policy at any time. We do not undertake to provide you with personal notice of any changes. In the event of material changes, we will provide notice by means that are reasonable under the circumstances, such as by posting a notice on the Websites. Your continued use of the Websites following the posting of changes to this Privacy Policy means you accept those changes.</p>
+<a href="mailto:privacy@prometheusgm.com" target="_blank" rel="noopener noreferrer">privacy@prometheusgm.com</a></p>
+<ol start="7">
+<li><strong>Changes To The Privacy Policy</strong></li>
+</ol>
+<p>This Privacy Policy was last updated on May 24, 2018. We reserve the right to change this Privacy Policy at any time. We do not undertake to provide you with personal notice of any changes. In the event of material changes, we will provide notice by means that are reasonable under the circumstances, such as by posting a notice on the Websites. Your continued use of the Websites following the posting of changes to this Privacy Policy means you accept those changes.</p>
 </div>
 </div>
 <div class="col-sm-4 sidebar">
@@ -561,15 +588,18 @@ Thank you for signing up for our newsletter.
 An error has occurred.
 </div>
 <form method="post" action="" data-js-sailthru-customer-id="1c863b713365e9d3e9efb90fcc6c4fc5" data-js-sailthru-list="stereogum-master-list">
-<input class="stFieldEmail" type="text" name="email" placeholder="Enter your email" required="">
+<input class="stFieldEmail" type="text" name="email" placeholder="Enter Your Email" required="">
 <button class="st-submit" type="submit">Submit</button>
 </form>
+<div class="disclaimer">
+By clicking Submit, I agree to the <a href="/terms-and-conditions" target="_blank">Terms of Use</a> and <a href="/privacy-policy" target="_blank">Privacy Policy</a>.
+</div>
 </div>
 </div>
 <div class="sidebar-module record">
 <div class="feed feed-tile"><div class="title-holder clearfix"><div class="title left"><a href="/heavy-rotation"><h2>
 Heavy Rotation
-</h2></a></div><div class="see-all right"><a href="/heavy-rotation">All »</a></div></div><div class="posts clearfix"><div class="post"><div class="image-holder"><a href="/tag/alice-bag"><img src="https://static.stereogum.com/uploads/2018/03/Alice-Bag-Blueprint-1521129950-146x146.jpg" width="146" height="146" alt="Alice Bag – Blueprint"></a></div><div class="preview-holder"><a href="/tag/alice-bag"><span>Alice Bag – Blueprint</span></a></div></div><div class="post"><div class="image-holder"><a href="/tag/03-greedo"><img src="https://static.stereogum.com/uploads/2018/03/03-Greedo-The-Wolf-Of-Grape-Street-1520632569-146x146.jpg" width="146" height="146" alt="03 Greedo – The Wolf Of Grape Street"></a></div><div class="preview-holder"><a href="/tag/03-greedo"><span>03 Greedo – The Wolf Of Grape Street</span></a></div></div></div><div class="posts clearfix"><div class="post"><div class="image-holder"><a href="/tag/caroline-says"><img src="https://static.stereogum.com/uploads/2018/03/NoFoolLikeAnOldFool_CoverArt-1520608002-146x146.jpg" width="146" height="146" alt="Caroline Says – No Fool Like An Old Fool"></a></div><div class="preview-holder"><a href="/tag/caroline-says"><span>Caroline Says – No Fool Like An Old Fool</span></a></div></div><div class="post"><div class="image-holder"><a href="/tag/hot-snakes"><img src="https://static.stereogum.com/uploads/2018/03/Hot-Snakes-Jericho-Sirens-1520519989-146x146.jpg" width="146" height="146" alt="Hot Snakes – Jericho Sirens"></a></div><div class="preview-holder"><a href="/tag/hot-snakes"><span>Hot Snakes – Jericho Sirens</span></a></div></div></div><div class="posts clearfix"><div class="post"><div class="image-holder"><a href="/tag/mount-eerie"><img src="https://static.stereogum.com/uploads/2018/03/Mount-Eerie-1520516193-146x146.jpg" width="146" height="146" alt="Mount Eerie – Now Only"></a></div><div class="preview-holder"><a href="/tag/mount-eerie"><span>Mount Eerie – Now Only</span></a></div></div><div class="post"><div class="image-holder"><a href="/tag/girls-rituals"><img src="https://static.stereogum.com/uploads/2018/03/a0992288349_10-1520438100-146x146.jpg" width="146" height="146" alt="Girls Rituals – Im Desperate"></a></div><div class="preview-holder"><a href="/tag/girls-rituals"><span>Girls Rituals – Im Desperate</span></a></div></div></div><div class="posts clearfix"><div class="post"><div class="image-holder"><a href="/tag/ness-nite"><img src="https://static.stereogum.com/uploads/2018/03/Ness-Nite-Dream-Girl-1520012864-146x146.jpg" width="146" height="146" alt="Ness Nite – Dream Girl"></a></div><div class="preview-holder"><a href="/tag/ness-nite"><span>Ness Nite – Dream Girl</span></a></div></div><div class="post"><div class="image-holder"><a href="/tag/david-byrne"><img src="https://static.stereogum.com/uploads/2018/03/David-Byrne-American-Utopia-1519913506-146x146.jpg" width="146" height="146" alt="David Byrne – American Utopia"></a></div><div class="preview-holder"><a href="/tag/david-byrne"><span>David Byrne – American Utopia</span></a></div></div></div></div> </div><div class="sm-widget sm-widget-ad-holder"><div class="sm-widget-ad"> <div class="ad_desktop" data-position="medrec_bottom_lazy" data-sizes="[[300,250],[300,600]]" data-lazy-load="1" data-refresh="1" data-refresh-timer="15" data-swap="" data-load-order="" style="min-width: 300px; min-height: 250px; box-sizing: content-box;">
+</h2></a></div><div class="see-all right"><a href="/heavy-rotation">All »</a></div></div><div class="posts clearfix"><div class="post"><div class="image-holder"><a href="/tag/david-nance-group"><img src="https://static.stereogum.com/uploads/2018/10/Peaced-And-Slightly-Pulverized-1538512557-146x146.jpg" width="146" height="146" alt="David Nance Group – Peaced And Slightly Pulverized"></a></div><div class="preview-holder"><a href="/tag/david-nance-group"><span>David Nance Group – Peaced And Slightly Pulverized</span></a></div></div><div class="post"><div class="image-holder"><a href="/tag/adrianne-lenker"><img src="https://static.stereogum.com/uploads/2018/10/abysskiss-1538499249-146x146.jpg" width="146" height="146" alt="Adrianne Lenker – abysskiss"></a></div><div class="preview-holder"><a href="/tag/adrianne-lenker"><span>Adrianne Lenker – abysskiss</span></a></div></div></div><div class="posts clearfix"><div class="post"><div class="image-holder"><a href="/tag/fucked-up"><img src="https://static.stereogum.com/uploads/2018/10/Dose-Your-Dreams-1538494881-146x146.jpg" width="146" height="146" alt="Fucked Up – Dose Your Dreams"></a></div><div class="preview-holder"><a href="/tag/fucked-up"><span>Fucked Up – Dose Your Dreams</span></a></div></div><div class="post"><div class="image-holder"><a href="/tag/kero-kero-bonito"><img src="https://static.stereogum.com/uploads/2018/10/KKB-album-1538407816-146x146.jpg" width="146" height="146" alt="Kero Kero Bonito – Time ‘n’ Place"></a></div><div class="preview-holder"><a href="/tag/kero-kero-bonito"><span>Kero Kero Bonito – Time ‘n’ Place</span></a></div></div></div><div class="posts clearfix"><div class="post"><div class="image-holder"><a href="/tag/lala-lala"><img src="https://static.stereogum.com/uploads/2018/09/lala-lala-the-lamb-1538142914-146x146.jpg" width="146" height="146" alt="Lala Lala – The Lamb"></a></div><div class="preview-holder"><a href="/tag/lala-lala"><span>Lala Lala – The Lamb</span></a></div></div><div class="post"><div class="image-holder"><a href="/tag/candy"><img src="https://static.stereogum.com/uploads/2018/09/Candy-Good-To-Feel-1538145430-146x146.jpg" width="146" height="146" alt="Candy – Good To Feel"></a></div><div class="preview-holder"><a href="/tag/candy"><span>Candy – Good To Feel</span></a></div></div></div><div class="posts clearfix"><div class="post"><div class="image-holder"><a href="/tag/lil-wayne"><img src="https://static.stereogum.com/uploads/2018/09/lil-wayne-carter-v-1537910485-640x6401-1538065931-146x146.jpg" width="146" height="146" alt="Lil Wayne – Tha Carter V"></a></div><div class="preview-holder"><a href="/tag/lil-wayne"><span>Lil Wayne – Tha Carter V</span></a></div></div><div class="post"><div class="image-holder"><a href="/tag/gouge-away"><img src="https://static.stereogum.com/uploads/2018/09/Gouge-Away-Burnt-Sugar-1537875090-146x146.jpg" width="146" height="146" alt="Gouge Away – Burnt Sugar"></a></div><div class="preview-holder"><a href="/tag/gouge-away"><span>Gouge Away – Burnt Sugar</span></a></div></div></div></div> </div><div class="sm-widget sm-widget-ad-holder"><div class="sm-widget-ad"> <div class="ad_desktop" data-position="medrec_bottom_lazy" data-sizes="[[300,250],[300,600]]" data-lazy-load="1" data-refresh="1" data-refresh-timer="15" data-swap="" data-load-order="" style="min-width: 300px; min-height: 250px; box-sizing: content-box;">
 </div>
 </div></div>
 </div>
@@ -586,33 +616,33 @@ Heavy Rotation
 <h3>
 In Case You Missed It </h3>
 <div class="row">
-<a href="/1978060/38-essential-80s-songs-about-nuclear-anxiety/franchises/ultimate-playlist/">
+<a href="/2007171/30-essential-grunge-songs-playlist/franchises/ultimate-playlist/">
 <div class="post col-sm-4">
 <div class="img-wrap">
-<img itemprop="image" src="https://static.stereogum.com/uploads/2018/01/SG-AtomicImage-1516207109-293x195.jpg" width="293" height="195" alt="38 Essential '80s Songs About Nuclear Anxiety">
+<img itemprop="image" src="https://static.stereogum.com/uploads/2018/07/essential-grunge-playlist-1-1533063509-293x195.jpg" width="293" height="195" alt="30 Essential Grunge Songs">
 </div>
 <div class="title">
-<div>38 Essential '80s Songs About Nuclear Anxiety</div>
+<div>30 Essential Grunge Songs</div>
 </div>
 </div>
 </a>
- <a href="/1685920/30-essential-songs-from-the-golden-era-of-emo/franchises/ultimate-playlist/">
+<a href="/1945648/31-essential-shoegaze-tracks/franchises/ultimate-playlist/">
+<div class="post col-sm-4">
+<div class="img-wrap">
+<img itemprop="image" src="https://static.stereogum.com/uploads/2017/06/Shoegaze-1497388150-293x195.jpg" width="293" height="195" alt="31 Essential Shoegaze Tracks">
+</div>
+<div class="title">
+ <div>31 Essential Shoegaze Tracks</div>
+</div>
+</div>
+</a>
+<a href="/1685920/30-essential-songs-from-the-golden-era-of-emo/franchises/ultimate-playlist/">
 <div class="post col-sm-4">
 <div class="img-wrap">
 <img itemprop="image" src="https://static.stereogum.com/uploads/2014/07/titr-293x195.jpg" width="293" height="195" alt="30 Essential Songs From The Golden Era Of Emo">
 </div>
 <div class="title">
 <div>30 Essential Songs From The Golden Era Of Emo</div>
-</div>
-</div>
-</a>
-<a href="/1903210/34-essential-glam-songs/franchises/ultimate-playlist/">
-<div class="post col-sm-4">
-<div class="img-wrap">
-<img itemprop="image" src="https://static.stereogum.com/uploads/2016/10/Glam2-1476110428-293x195.jpg" width="293" height="195" alt="34 Essential Glam Songs">
-</div>
-<div class="title">
-<div>34 Essential Glam Songs</div>
 </div>
 </div>
 </a>
@@ -659,29 +689,29 @@ In Case You Missed It </h3>
 <span class="site-name">Stereogum</span>.com is a member of Billboard Music, a division of Billboard-Hollywood Reporter Media Group.
 <div class="comscore-header-links">
 <a class="comscore--link comscore--header-link" href="/about" rel="nofollow">About <span class="comscore--bold">Stereogum</span></a>
-<a class="comscore--link comscore--header-link" href="/privacy-policy" rel="nofollow" target="_blank">Privacy Policy</a>
-<a class="comscore--link comscore--header-link" href="/about-our-ads" rel="nofollow" target="_blank">
+<a class="comscore--link comscore--header-link" href="/privacy-policy" target="_blank">Privacy Policy</a>
+<a class="comscore--link comscore--header-link" href="/about-our-ads" target="_blank">
 <img src="https://lib.pgmcdn.com/choices/collisionadmarkerwht.png" alt="adChoices" class="comscore--img">
 </a>
-<a class="comscore--link" href="/copyright" rel="nofollow" target="_blank">Copyright</a>
+<a class="comscore--link" href="/copyright" target="_blank">Copyright</a>
 </div>
 </div>
 </div>
 <div class="comscore--body">
 <a class="comscore--link" href="//www.billboard.com" target="_blank">Billboard</a> |
-<a class="comscore--link" href="//www.hollywoodreporter.com/" target="_blank" rel="nofollow">The Hollywood Reporter</a> |
-<a class="comscore--link" href="//www.spin.com/" target="_blank" rel="nofollow">SPIN</a> |
-<a class="comscore--link" href="//www.vibe.com/" target="_blank" rel="nofollow">VIBE</a> |
-<a class="comscore--link" href="//www.stereogum.com/" target="_blank" rel="nofollow">Stereogum</a>
+<a class="comscore--link" href="//www.hollywoodreporter.com/" target="_blank">The Hollywood Reporter</a> |
+<a class="comscore--link" href="//www.spin.com/" target="_blank">SPIN</a> |
+<a class="comscore--link" href="//www.vibe.com/" target="_blank">VIBE</a> |
+<a class="comscore--link" href="//www.stereogum.com/" target="_blank">Stereogum</a>
 </div>
 </div>
 </div>
 </footer>
-<script data-cfasync="false" src="/cdn-cgi/scripts/d07b1474/cloudflare-static/email-decode.min.js"></script><script id="ad_slot" type="text/template">
+<script id="ad_slot" type="text/template">
             <div class="ad_desktop" data-sizes="[[160,600],[300,250],[300,600]]" data-position="300c"></div>
         </script>
 <div id="hidden_div" class="hidden"></div>
-<div class="ad_desktop" data-position="zergnet" data-sizes="[[4,4]]" data-lazy-load="0" data-refresh="0" data-refresh-timer="0" data-swap="" data-load-order="" style="min-width: 4px; min-height: 4px; box-sizing: content-box;">
+<a class="optanon-show-settings">Cookie Settings</a> <div class="ad_desktop" data-position="zergnet" data-sizes="[[4,4]]" data-lazy-load="0" data-refresh="0" data-refresh-timer="0" data-swap="" data-load-order="" style="min-width: 4px; min-height: 4px; box-sizing: content-box;">
 </div>
 <div id="ad_native_instream" class="ad_desktop" data-sizes="[2,2]" data-position="native_instream_lazy"></div>
 <div id="ad_native_rightrail" class="ad_desktop" data-sizes="[2,2]" data-position="native_detail_lazy"></div><script type="text/html" id="sc_interrupter_template">
@@ -810,7 +840,7 @@ In Case You Missed It </h3>
         </script>
 <div class="ad_desktop" data-position="out_of_page" data-sizes="[[1,1]]" data-lazy-load="0" data-refresh="0" data-refresh-timer="0" data-swap="" data-load-order="3" data-out-of-page="true" style="display: none;">
 </div>
-<script>CLARITY.push({use:['ads','header','doubleunderscore'],run:function(Ads,Header,__){var $slots=$('[data-position="medrec_lazy"],[data-position="leaderboard_lazy"]');$slots.each(function(i){var $this=$(this),id=$this.attr('id');var addLazyLoadedSlots=function(){try{var id=$this.attr('id'),ad=Ads.getById(id);Header.addHeaderSlot(id,ad._getAdUnitPath(),ad.options.sizes,ad.options.position);}catch(e){logger.log("addLazyLoadedSlots failed with error : "+e,"error");}};if(id){addLazyLoadedSlots();}else{$this.on('clarity:create-ad',function(){addLazyLoadedSlots();});}});}});</script>
+<script>CLARITY.push({use:['ads','header','doubleunderscore','logger'],run:function(Ads,Header,__,logger){var $slots=$('[data-position="medrec_lazy"],[data-position="leaderboard_lazy"]');$slots.each(function(i){var $this=$(this),id=$this.attr('id');var addLazyLoadedSlots=function(){try{var id=$this.attr('id'),ad=Ads.getById(id);Header.addHeaderSlot(id,ad._getAdUnitPath(),ad.options.sizes,ad.options.position);}catch(e){logger.log("addLazyLoadedSlots failed with error : "+e,"error");}};if(id){addLazyLoadedSlots();}else{$this.on('clarity:create-ad',function(){addLazyLoadedSlots();});}});}});</script>
 <script>CLARITY.push({use:['ads'],run:function(Ads){Ads.site_code="stereogum";if(!Ads.zone){Ads.zone="feed_page";}
 var keywords=[];keywords.push({keywords:"",keyvalues:"post_id=8411",paths:"",positions:"all"});keywords.push({keywords:"",keyvalues:"category=news",paths:"",positions:"all"});keywords.push({keywords:"",keyvalues:"domain=www.stereogum.com",paths:"",positions:"all"});keywords.push({keywords:"",keyvalues:"url=6b797c51",paths:"",positions:"all"});keywords.push({keywords:"",keyvalues:"pagetype=feed_page",paths:"",positions:"all"});Ads.keywords=keywords;Ads.optionDefaults=Ads.optionDefaults||{};Ads.autoPopulate();}});</script><div class="pi-login-popups" style="display: none">
 <div id="sign-in-dialog" title="Sign In:" class="pi-login-popup">
@@ -914,59 +944,60 @@ Confirm Password
             </div>
             <div class="pe-zoom-close-x"></div>
         </div>
-    </script><link rel="stylesheet" id="ad-css-css" href="https://assets.stereogum.com/wp-content/plugins/wp-pi-clarity/css/clarity.css?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a" type="text/css" media="all">
+    </script><link rel="stylesheet" id="ad-css-css" href="https://assets.stereogum.com/wp-content/plugins/wp-pi-clarity/css/clarity.css?ver=3a59906330176bf7c88c136419a9000538bb05a7" type="text/css" media="all">
 <script type="text/javascript">
 /* <![CDATA[ */
 var mobileDetect = {"isMobile":""};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://www.stereogum.com/wp-content/plugins/wp-pi-mobile-theme/js/mobile_detect.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
-<script type="text/javascript" src="https://assets.stereogum.com/wp-content/plugins/wp-pi-music-player/js/soundcloud.sdk.4.0.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
+<script type="text/javascript" src="https://www.stereogum.com/wp-content/plugins/wp-pi-mobile-theme/js/mobile_detect.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
+<script type="text/javascript" src="https://assets.stereogum.com/wp-content/plugins/wp-pi-music-player/js/soundcloud.sdk.4.0.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var localize = {"ajaxurl":"https:\/\/www.stereogum.com\/wp\/wp-admin\/admin-ajax.php","soundcloud_client_id":"3289dfd5994e22ec60c5bd8f9a877275"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://assets.stereogum.com/wp-content/plugins/wp-pi-music-player/js/playlist.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
-<script type="text/javascript" src="https://assets.stereogum.com/wp-content/plugins/wp-pi-music-player/js/player.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
-<script type="text/javascript" src="https://assets.stereogum.com/wp-content/plugins/wp-pi-spinmedia-core/js/vendor/img-touch-canvas.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
+<script type="text/javascript" src="https://assets.stereogum.com/wp-content/plugins/wp-pi-music-player/js/playlist.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
+<script type="text/javascript" src="https://assets.stereogum.com/wp-content/plugins/wp-pi-music-player/js/player.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
+<script type="text/javascript" src="https://assets.stereogum.com/wp-content/plugins/wp-pi-spinmedia-core/js/vendor/img-touch-canvas.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var _wpUtilSettings = {"ajax":{"url":"\/wp\/wp-admin\/admin-ajax.php"}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://www.stereogum.com/wp/wp-includes/js/wp-util.min.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
-<script type="text/javascript" src="https://assets.stereogum.com/wp-content/plugins/wp-pi-spinmedia-core/js/mobile-zoom.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
-<script type="text/javascript" src="https://www.stereogum.com/wp/wp-includes/js/jquery/ui/core.min.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
-<script type="text/javascript" src="https://www.stereogum.com/wp/wp-includes/js/jquery/ui/widget.min.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
-<script type="text/javascript" src="https://www.stereogum.com/wp/wp-includes/js/jquery/ui/mouse.min.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
-<script type="text/javascript" src="https://www.stereogum.com/wp/wp-includes/js/jquery/ui/resizable.min.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
-<script type="text/javascript" src="https://www.stereogum.com/wp/wp-includes/js/jquery/ui/draggable.min.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
-<script type="text/javascript" src="https://www.stereogum.com/wp/wp-includes/js/jquery/ui/button.min.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
-<script type="text/javascript" src="https://www.stereogum.com/wp/wp-includes/js/jquery/ui/position.min.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
-<script type="text/javascript" src="https://www.stereogum.com/wp/wp-includes/js/jquery/ui/dialog.min.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
-<script type="text/javascript" src="https://www.stereogum.com/wp-content/plugins/wp-pi-fb-oauth/pi-fb-oauth.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
-<script type="text/javascript" src="//www.google.com/recaptcha/api.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
+<script type="text/javascript" src="https://www.stereogum.com/wp/wp-includes/js/wp-util.min.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
+<script type="text/javascript" src="https://assets.stereogum.com/wp-content/plugins/wp-pi-spinmedia-core/js/mobile-zoom.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
+<script type="text/javascript" src="https://www.stereogum.com/wp/wp-includes/js/jquery/ui/core.min.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
+<script type="text/javascript" src="https://www.stereogum.com/wp/wp-includes/js/jquery/ui/widget.min.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
+<script type="text/javascript" src="https://www.stereogum.com/wp/wp-includes/js/jquery/ui/mouse.min.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
+<script type="text/javascript" src="https://www.stereogum.com/wp/wp-includes/js/jquery/ui/resizable.min.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
+<script type="text/javascript" src="https://www.stereogum.com/wp/wp-includes/js/jquery/ui/draggable.min.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
+<script type="text/javascript" src="https://www.stereogum.com/wp/wp-includes/js/jquery/ui/button.min.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
+<script type="text/javascript" src="https://www.stereogum.com/wp/wp-includes/js/jquery/ui/position.min.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
+<script type="text/javascript" src="https://www.stereogum.com/wp/wp-includes/js/jquery/ui/dialog.min.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
+<script type="text/javascript" src="https://www.stereogum.com/wp-content/plugins/wp-pi-fb-oauth/pi-fb-oauth.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
+<script type="text/javascript" src="//www.google.com/recaptcha/api.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var the_ajax_script = {"ajaxurl":"https:\/\/www.stereogum.com\/wp\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://assets.stereogum.com/wp-content/plugins/wp-pi-login/js/login.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
-<script type="text/javascript" src="https://assets.stereogum.com/wp-content/plugins/wp-pi-sponsored-content/js/interrupter/interrupter.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
-<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
-<script type="text/javascript" src="https://assets.stereogum.com/wp-content/plugins/wp-pi-spinmedia-core/js/vendor/lodash.2.4.1.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
-<script type="text/javascript" src="https://www.stereogum.com/wp-content/themes/wp-theme-base/assets/js/all.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
-<script type="text/javascript" src="https://www.stereogum.com/wp-content/themes/stereogum/assets/js/all.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
+<script type="text/javascript" src="https://assets.stereogum.com/wp-content/plugins/wp-pi-login/js/login.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
+<script type="text/javascript" src="https://assets.stereogum.com/wp-content/plugins/wp-pi-sponsored-content/js/interrupter/interrupter.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
+<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
+<script type="text/javascript" src="https://assets.stereogum.com/wp-content/plugins/wp-pi-spinmedia-core/js/vendor/lodash.2.4.1.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
+<script type="text/javascript" src="https://www.stereogum.com/wp-content/themes/wp-theme-base/assets/js/all.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
+<script type="text/javascript" src="https://www.stereogum.com/wp-content/themes/stereogum/assets/js/all.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
+<script type="text/javascript" src="https://www.stereogum.com/wp-content/plugins/modules.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var commentVotingVars = {"guestVoting":"0"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://www.stereogum.com/wp-content/plugins/wp-pi-comment-voting/js/comment-vote.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
-<script type="text/javascript" src="https://www.stereogum.com/wp/wp-includes/js/wp-embed.min.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
-<script type="text/javascript" src="https://assets.stereogum.com/wp-content/plugins/wp-pi-clarity/js/sticky.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
-<script type="text/javascript" src="https://assets.stereogum.com/wp-content/plugins/wp-pi-spinmedia-widgets/js/widgets-aggregator.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
-<script type="text/javascript" src="https://assets.stereogum.com/wp-content/plugins/wp-pi-music-player/js/player-integration.js?ver=26c7ecdca79707d5eb5b272aaa9cc49f0cabf64a"></script>
+<script type="text/javascript" src="https://www.stereogum.com/wp-content/plugins/wp-pi-comment-voting/js/comment-vote.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
+<script type="text/javascript" src="https://www.stereogum.com/wp/wp-includes/js/wp-embed.min.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
+<script type="text/javascript" src="https://assets.stereogum.com/wp-content/plugins/wp-pi-clarity/js/sticky.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
+<script type="text/javascript" src="https://assets.stereogum.com/wp-content/plugins/wp-pi-spinmedia-widgets/js/widgets-aggregator.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
+<script type="text/javascript" src="https://assets.stereogum.com/wp-content/plugins/wp-pi-music-player/js/player-integration.js?ver=3a59906330176bf7c88c136419a9000538bb05a7"></script>
 
 </body></html>
