@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kanetix.ca privacy policy that was archived on 2017-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170227221011id_/https%3A//www.kanetix.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kanetix.ca privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004144911id_/https%3A//www.kanetix.ca/privacy) for the most accurate reproduction.*
 
 # The Kanetix.ca Privacy Policy
 
@@ -6,7 +6,7 @@ Your privacy and security
 
 **Our privacy pledge**
 
-Effective on January 26, 2017
+Effective on January 17, 2018
 
 Kanetix Ltd ("Kanetix")® believes in protecting the personal information that you provide us at www.kanetix.ca. We have made safe computing and the protection of your privacy an important priority. Kanetix provides insurance quotes/estimates with minimal personal information. Except where mandated by the government and its regulatory bodies or the courts, the personal information that you share with us will not be shared with third parties without your prior consent.
 
@@ -28,13 +28,11 @@ Kanetix and its partners use cookies or similar technologies to analyze trends, 
 
 **Log files**
 
-As is true of most Web sites, we and our third party tracking-utility partner to gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
-
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole.
+As is true of most websites, we gather certain information automatically. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site.
 
 **Advertising**
 
-Kanetix and its partners use cookies or similar technologies to analyze trends, administer the website, track users' movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. 
+We partner with a third party to display advertising on our website or to manage our advertising on other sites, including ads pertaining to our clients' products. Our third party partners may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising, click [here](http://preferences-mgr.truste.com/). Kanetix Ltd. participates in the Digital Advertising Alliance of Canada's (the DAAC) self-regulatory principles for online behavioral advertising. You may also visit the [AdChoices consumer opt out page](https://youradchoices.ca/choices/) to learn more about interest-based advertising and manage your ad preferences. Please note you will continue to receive generic ads. 
 
 **Collecting information**
 
@@ -83,6 +81,8 @@ Our select partners may also offer you the opportunity to opt-in to receiving in
 **Service providers**
 
 In some cases, we use third parties to provide the online quotes you receive on our site or to assist us in advertising our services to you. With respect to the quotes you get, the only information shared with the third party is the information required to provide you with an accurate quote. Depending on the type of quote you are seeking, this information may be comprised of one or more of the following: your age, gender, marital status, smoking status, driving, and insurance history. This information is only shared as necessary for the third party to provide you with an accurate quote.
+
+We may also share your information with third parties who provide services on our behalf to help with our business activities. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
 These third parties are prohibited from using your personal information for any other purpose.
 
