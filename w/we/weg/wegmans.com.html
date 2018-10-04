@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the wegmans.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606224900id_/https%3A//www.wegmans.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wegmans.com privacy policy that was archived on 2018-10-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181004044950id_/https%3A//www.wegmans.com/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
+<!DOCTYPE html><html lang="en" class=" no-touchevents"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
         
     <script type="text/javascript">
         function getCookie(cname) {
@@ -45,8 +45,12 @@
         if (wegmans_cookies !== "") {
             status = "Logged-In";
             var cookie_json = JSON.parse(window.atob(wegmans_cookies));
-            shoppersClub = cookie_json.wfm_shoppersClubNumber;
-            customerId = cookie_json.wfm_profile_cuid;
+            if(cookie_json.wfm_shoppersClubNumber) {
+            	shoppersClub = cookie_json.wfm_shoppersClubNumber;
+            }
+            if(cookie_json.wfm_profile_cuid) {
+            	customerId = cookie_json.wfm_profile_cuid;
+            }
         }
 
         var digitalData = digitalData || {};
@@ -113,16 +117,28 @@
 
 
 <link rel="icon">
+
+
+    <meta name="og:title" content="Privacy - Wegmans">
+    <meta name="og:description" content="Since 1916, our business philosophy has been to be the very best at serving the wants and needs of our customers. Wegmans understands that you care how information about you is used and shared, and we appreciate your trust that we will use the information wisely and legitimately. You have our word that the information gathered through this site will only be used on behalf of giving you, our valued customer, our very best.">
+    <meta name="og:image" content="https://www.wegmans.com/content/dam/wegmans/images/search/search-FAQ.jpg">
+    <meta name="og:image:secure_url" content="https://www.wegmans.com/content/dam/wegmans/images/search/search-FAQ.jpg">
+    <meta name="og:url" content="https://www.wegmans.com/privacy.html">
+
+
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Archivo+Narrow:400,400italic,700,700italic">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bad+Script">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,300italic,400italic,600,600italic,700,700italic">
+
+<!-- /* Redirect if redirect url property is set */ -->
+
 
 <!-- /*  Following code is creating the javascript variables initialized to reference Wegmans Services Configuration Properties - Start */ -->
 
 	<script type="text/javascript">
 		var Wegmans = Wegmans || {};
 		Wegmans.apiVersion = "1.0";
-		Wegmans.serviceEndPoint = "wegapi.azure\-api.net";
+		Wegmans.serviceEndPoint = "wegapi.azure\u002Dapi.net";
 		Wegmans.httpProtocol = "https:\/\/";
 		Wegmans.profileUrl = "\/account\/profile";
 		Wegmans.editPasswordUrl = "\/account\/password\/edit\/";
@@ -131,11 +147,16 @@
 		Wegmans.updateListItemUrl = "";
 		Wegmans.getShoppingListUrl = "";
 		Wegmans.getCartPricesUrl = "";
-		Wegmans.spServiceEndPoint = "sp1004f27d.guided.ss\-omtrdc.net";
-		Wegmans.spProductTypeAheadServiceEndPoint = "sp1004e9ef.guided.ss\-omtrdc.net";
+		Wegmans.spServiceEndPoint = "sp1004f27d.guided.ss\u002Domtrdc.net";
+		Wegmans.spProductTypeAheadServiceEndPoint = "sp1004e9ef.guided.ss\u002Domtrdc.net";
 		Wegmans.siteRootPath = "";
+        Wegmans.appDynamicsKey = "AD\u002DAAB\u002DAAF\u002DRPS";
 		Wegmans.isNonCachedPage = false;
-
+		Wegmans.bazaarVoiceEndpoint = "api.bazaarvoice.com\/data\/reviews.json";
+		Wegmans.bazaarVoiceSubmitEndpoint = "api.bazaarvoice.com\/data\/submitreview.json";
+        Wegmans.bazaarVoicePasskey = "ca3lJS1N1oBG1eM6SrxOkeTxNTz3FvIwRAcTNwYR9sZfs";
+        Wegmans.bazaarVoiceVersion = "5.4";
+  
 	</script>
 
 <!-- /*  Above code is creating the javascript variables initialized to reference Wegmans Services Configuration Properties - End */ -->
@@ -143,9 +164,9 @@
 <script>
     <!--/* AEM: Installation and configuration of AppDynamics - Base Script */-->
     window['adrum-start-time'] = new Date().getTime();
-    window['adrum-app-key'] = 'AD-AAB-AAD-NBX';
+    window['adrum-app-key'] = Wegmans.appDynamicsKey;
     (function(config){
-        config.appKey = 'AD-AAB-AAD-NBX';
+        config.appKey = Wegmans.appDynamicsKey;
         config.adrumExtUrlHttp = 'http://s3-us-west-2.amazonaws.com/adrum.cdn';
         config.adrumExtUrlHttps = 'https://s3-us-west-2.amazonaws.com/adrum.cdn';
         config.beaconUrlHttp = 'http://col.eum-appdynamics.com';
@@ -245,7 +266,7 @@
         
 
     
-<link rel="stylesheet" href="/etc/designs/wegmans/clientlib-all.5e5ff643c2f25bc748c027e500e68028.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/wegmans/clientlib-all.140fce2c8a0c7e5eb59933358ba87476.css" type="text/css">
 
 
 
@@ -261,15 +282,15 @@
         document.write(unescape("%3Cscript src='" + stJsHost + "sharethis.com/button/buttons.js' type='text/javascript'%3E%3C/script%3E"));
     })();
 </script><script src="https://ws.sharethis.com/button/buttons.js" type="text/javascript"></script>
-<script type="text/javascript">stLight.options({publisher: "aa66e01c\-5bd9\-48c7\-b49c\-a5a5ccd1d394", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+<script type="text/javascript">stLight.options({publisher: "aa66e01c\u002D5bd9\u002D48c7\u002Db49c\u002Da5a5ccd1d394", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
 
 
 
 
 
 
-    </head>
-    <body> 	
+    <style type="text/css"></style></head>
+    <body class="has-header"> 	
         
 <header class="header">
     
@@ -277,37 +298,39 @@
 
 
 <noindex>
-<div class="navbar-mobile show-mobile box-align" ng-module="wegmans-username" ng-controller="wegmans-user-profile">
+<div class="navbar-mobile show-mobile box-align ng-scope" ng-module="wegmans-username" ng-controller="wegmans-user-profile">
     <!-- SDI include (path: /content/wegmans/en/_jcr_content/mobilenavlinks-search.cache.html, resourceType: wegmans/components/structure/global/mobilenavlinks-search) -->
 
 <div class="left-box">
 	<div class="ham-menu box-flex">
-		<a href="javascript:void(0)"><i class="icon-icon-hamburger"></i></a>
+		<a href="javascript:void(0)"><i class="icon-icon-hamburger">
+		<span hidden="">Main Menu</span>
+		</i></a>
 	</div>
 	<div class="brand-mob box-flex">
-		<a href="/content/wegmans/en.html">
-			<img src="/etc/designs/wegmans/styles/images/logo-white.svg" title="">
+		<a href="/">
+			<img src="/etc/designs/wegmans/styles/images/logo-white.svg" title="Wegmans Logo" alt="Wegmans Logo">
 		</a>
 	</div>
 </div>
-<div store-pop-over="" class="right-center text-right">
+<div store-pop-over="" class="right-center text-right ng-scope">
 	<div class="search-mob box-flex">
-		<a href="javascript:void(0)" id="searchMob"><i class="icon-icon-search"></i></a>
+		<a href="javascript:void(0)" id="searchMob"><i class="icon-icon-search" aria-label="Search"></i></a>
 	</div>
-	<div class="loc-mob box-flex" custom-store-popover="" popover-options="{ selector: '.store-popover-mobile-search', contentAsHTML: true}">
-		<a href="javascript:void(0)"><i class="icon-icon-location"></i><span ng-bind="store.locationDetails.locationName"></span></a>
+	<div class="loc-mob box-flex tooltipstered" custom-store-popover="" popover-options="{ selector: '.store-popover-mobile-search', contentAsHTML: true}">
+		<a href="javascript:void(0)"><i class="icon-icon-location"><span hidden="">Location</span></i><span ng-bind="store.locationDetails.locationName" class="ng-binding">Pittsford</span></a>
 	</div>
 	<div class="user-prof box-flex">
-		<a href="javascript:void(0)"> <i mobile-popover="" popover-options="{ selector: '#mobile-user-popin', contentAsHTML: true}" class="icon-icon-user"></i></a>
+		<a href="javascript:void(0)"> <i mobile-popover="" popover-options="{ selector: '#mobile-user-popin', contentAsHTML: true}" class="icon-icon-user tooltipstered"><span hidden="">User Profile</span></i></a>
 	</div>
 </div>
 <div class="nav-menu-mobile">
 	<ul class="main-nav-mob">
 		<li><a href="/content/wegmans/en.html">Home</a></li>
-		<li><a href="/products.html">Products</a></li>
+		<li><a href="/products.html">Departments</a></li>
 		        
 			<li>
-			   <a href="/meals-cooking.html">Meals &amp; Cooking</a>
+			   <a href="/meals-recipes/meals.html">Meals &amp; Recipes</a>
 			</li>                      
 		        
 			<li>
@@ -318,6 +341,10 @@
 		
 	
 	    <ul class="sub-link-mob">
+	        <li>
+				<a href="https://jobs.wegmans.com/" target="_blank">Careers</a>
+	     	</li>
+	    
 	        <li>
 				<a href="/stores.html" target="_self">Stores</a>
 	     	</li>
@@ -341,15 +368,13 @@
 </div>
 <div class="user-toolbar-mob" id="mobile-user-popin">
 	<a href="#" class="mobile-user-popin-close icon-icon-closelarge pull-right"></a>
-	<div class="{{!isLoggedIn?'user-not-loggedin':''}}">
-		<div class="login-mob" ng-if="!isLoggedIn">
-			<a href="/sign-in.html" class="ui primary-btn button">Sign In</a>
+	<div class="user-not-loggedin">
+		<!-- ngIf: !isLoggedIn --><div class="login-mob ng-scope" ng-if="!isLoggedIn">
+			<h1 class="ui primary-btn button mobile-sign-in-button">Sign In</h1>
 			<a href="/sign-in/create-account.html" class="ui secondary-btn button">Sign Up</a>
-		</div>
-		<div class="logedin-user-mob" ng-if="isLoggedIn">
-			<span ng-bind="greeting"></span><span class="users-name" ng-bind="name + '! '"></span>
-		</div>
-        <div class="help-user-mob" ng-if="!isLoggedIn"><a href="/account-help.html">Not sure how to sign in?</a></div>
+		</div><!-- end ngIf: !isLoggedIn -->
+		<!-- ngIf: isLoggedIn -->
+        <!-- ngIf: !isLoggedIn --><div class="help-user-mob ng-scope" ng-if="!isLoggedIn"><a href="/account-help.html">Not sure how to sign in?</a></div><!-- end ngIf: !isLoggedIn -->
 		<ul class="user-set-link-mob">
 			<li><a href="/my-account.html">My Account Details</a></li>
 			<li><a href="/my-profile.html">My Profile</a></li>
@@ -367,44 +392,44 @@
 	</div>
 </div>
 
-<div class="loc-details-mob store-popover-mobile-search" store-pop-over="">
+<div class="loc-details-mob store-popover-mobile-search ng-scope" store-pop-over="">
 	<div class="location-details">
 		<span href="#" class="icon-icon-closelarge tooltip-close pull-right"></span>
 		<div class="loc-title">
-			<h3><span ng-bind="store.locationDetails.locationName"></span> <a href="#" class="changeStoreModal">(Change Store)</a></h3>
+			<h3><span ng-bind="store.locationDetails.locationName" class="ng-binding">Pittsford</span> <a href="#" class="changeStoreModal">(Change Store)</a></h3>
 			<div class="loc-desc">
 				<div class="row">
 					<div class="col-xs-12 col-md-6 col-sm-6">
 						<div class="address-content">
 							<p>
-								<span ng-bind="store.locationDetails.address"></span>
+								<span ng-bind="store.locationDetails.address" class="ng-binding">3195 Monroe Avenue</span>
 								<br>
-								<span ng-bind="store.locationDetails.city+', '+store.locationDetails.stateAbbreviation+' '+store.locationDetails.zip"></span>
+								<span ng-bind="store.locationDetails.city+', '+store.locationDetails.stateAbbreviation+' '+store.locationDetails.zip" class="ng-binding">Rochester, NY 14618</span>
 							</p>
 							<p>
-								<span ng-if="store.locationDetails.storeHours == 'custom'" ng-bind="store.locationDetails.customHours"></span>
-								<span ng-if="store.locationDetails.storeHours != 'custom'" ng-bind="store.locationDetails.storeHours"></span>
+								<!-- ngIf: store.locationDetails.storeHours == 'custom' -->
+								<!-- ngIf: store.locationDetails.storeHours != 'custom' --><span ng-if="store.locationDetails.storeHours != 'custom'" ng-bind="store.locationDetails.storeHours" class="ng-binding ng-scope">Open 24 hours</span><!-- end ngIf: store.locationDetails.storeHours != 'custom' -->
 								<br>
-								<a ng-href="tel:{{store.locationDetails.storePhone}}" title="CLICK TO DIAL - Mobile/Tablet Only" ng-bind="store.locationDetails.storePhone"></a>
+								<a ng-href="tel:585-586-6680" title="CLICK TO DIAL - Mobile/Tablet Only" ng-bind="store.locationDetails.storePhone" class="ng-binding" href="tel:585-586-6680">585-586-6680</a>
 							</p>
-							<strong ng-bind="specialHours.heading"></strong>
-							<p ng-bind="specialHours.specialHourText"></p>
+							<strong ng-bind="specialHours.heading" class="ng-binding">Christmas Holiday Hours</strong>
+							<p ng-bind="specialHours.specialHourText" class="ng-binding">Stores will close at 6 PM on Saturday, December 24 and will reopen on Monday, December 26 at 7 AM.</p>
 						</div>
 					</div>
 					<div class="col-xs-12 col-md-6 col-sm-6">
-						<div class="know-personal-shop box-align" ng-if="store.locationDetails.personalShopping == 'yes'">
+						<!-- ngIf: store.locationDetails.personalShopping == 'yes' --><div class="know-personal-shop box-align ng-scope" ng-if="store.locationDetails.personalShopping == 'yes'">
 							<div class="image left-top">
-								<img src="/etc/designs/wegmans/images/PersonalShopping-Logo.svg" alt="Image">
+								<img src="/etc/designs/wegmans/images/PersonalShopping-Logo.svg" alt="Personal Shopping Logo">
 							</div>
 							<div class="content left-top">
-								<h5 ng-bind="personalTease.heading"></h5>
-								<a ng-href="{{personalTease.linkUrl}}" class="ui primary-link link" target="{{personalTease.linkTarget ? personalTease.linkTarget : '_self'}}" ng-bind="personalTease.linkLabel"></a>
+								<h5 ng-bind="personalTease.heading" class="ng-binding">Personal Shopping</h5>
+								<a ng-href="/service/personal-shopping.html" class="ui primary-link link ng-binding" target="_self" ng-bind="personalTease.linkLabel" href="/service/personal-shopping.html">Learn more about Personal Shopping</a>
 							</div>
-						</div>
+						</div><!-- end ngIf: store.locationDetails.personalShopping == 'yes' -->
 						<div class="change-links">
-							<a ng-href="{{store.detailsPageURL}}">Store &amp; Department Details</a>
-							<a ng-href="{{store.directionsPageURL}}">Driving Directions</a>
-							<a ng-href="{{locatorPageURL}}">Store Locator</a>
+							<a ng-href="/stores/pittsford-ny.html" href="/stores/pittsford-ny.html">Store &amp; Department Details</a>
+							<a ng-href="/stores/pittsford-ny/directions.html" href="/stores/pittsford-ny/directions.html">Driving Directions</a>
+							<a ng-href="/stores/store-locator.html" href="/stores/store-locator.html">Store Locator</a>
 						</div>
 					</div>
 				</div>
@@ -419,59 +444,59 @@
     <!-- SDI include (path: /content/wegmans/en/_jcr_content/headerquicklinks.cache.html, resourceType: wegmans/components/structure/global/headerquicklinks) -->
 
 <!-- Desktop Header -->
-<div class="container" ng-module="storePopupApp" ng-controller="StoreModalController">
+<div class="container ng-scope" ng-module="storePopupApp" ng-controller="StoreModalController">
     <div class="box-align">
         <div class="left-box">
-            <div store-pop-over="" class="head-store-btn">
+            <div store-pop-over="" class="head-store-btn ng-scope">
                 <div>
-                    <button custom-store-popover="" popover-options="{ selector: '.store-popover-desktop', contentAsHTML: true}" class="ui store-static-btn button">
+                    <button custom-store-popover="" popover-options="{ selector: '.store-popover-desktop', contentAsHTML: true}" class="ui store-static-btn button tooltipstered">
                         <i class="icon-icon-location"></i>
-                        <span ng-bind="'My store: ' + store.locationDetails.locationName"></span>
+                        <span ng-bind="'My store: ' + store.locationDetails.locationName" class="ng-binding">My store: Pittsford</span>
                     </button>
                     <div class="storeInfoModalOpen">
                         <span id="storeInfoOpen"></span>
                     </div>
                 </div>
 
-                <div class="ui custom popup bottom center transition hidden store-popover-desktop">
-					<span href="#" class="icon-icon-closelarge tooltip-close pull-right"></span>
+                <div class="ui custom popup bottom center transition hidden store-popover-desktop" tabindex="0">
+					<span href="#" class="icon-icon-closelarge tooltip-close pull-right"><span hidden="">Close</span></span>
                     <div class="location-details">
                     <div class="loc-title">
-                        <h3><span ng-bind="store.locationDetails.locationName"></span> <a href="#" class="changeStoreModal">Change store</a></h3>
+                        <h3><span ng-bind="store.locationDetails.locationName" class="ng-binding">Pittsford</span> <a href="#" class="changeStoreModal" tabindex="0">Change store</a></h3>
                         <div class="loc-desc">
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="address-content">
                                         <p>
-                                            <span ng-bind="store.locationDetails.address"></span>
+                                            <span ng-bind="store.locationDetails.address" class="ng-binding">3195 Monroe Avenue</span>
                                             <br>
-                                            <span ng-bind="store.locationDetails.city+', '+store.locationDetails.stateAbbreviation+' '+store.locationDetails.zip"></span>
+                                            <span ng-bind="store.locationDetails.city+', '+store.locationDetails.stateAbbreviation+' '+store.locationDetails.zip" class="ng-binding">Rochester, NY 14618</span>
                                         </p>
                                         <p>
-                                            <span ng-if="store.locationDetails.storeHours == 'custom'" ng-bind="store.locationDetails.customHours"></span>
-                                            <span class="store-hours" ng-if="store.locationDetails.storeHours != 'custom'" ng-bind="store.locationDetails.storeHours"></span>
+                                            <!-- ngIf: store.locationDetails.storeHours == 'custom' -->
+                                            <!-- ngIf: store.locationDetails.storeHours != 'custom' --><span class="store-hours ng-binding ng-scope" ng-if="store.locationDetails.storeHours != 'custom'" ng-bind="store.locationDetails.storeHours">Open 24 hours</span><!-- end ngIf: store.locationDetails.storeHours != 'custom' -->
                                             <br>
-                                            <span ng-bind="store.locationDetails.storePhone"></span>
+                                            <span ng-bind="store.locationDetails.storePhone" class="ng-binding">585-586-6680</span>
                                         </p>
-                                        <span ng-bind="specialHours.heading"></span>
-                                        <p ng-bind="specialHours.specialHourText"></p>
+                                        <span ng-bind="specialHours.heading" class="ng-binding">Christmas Holiday Hours</span>
+                                        <p ng-bind="specialHours.specialHourText" class="ng-binding">Stores will close at 6 PM on Saturday, December 24 and will reopen on Monday, December 26 at 7 AM.</p>
 
                                     </div>
                                 </div>
                                 <div class="col-md-6">
-                                    <div class="know-personal-shop box-align" ng-if="store.locationDetails.personalShopping == 'yes'">
+                                    <!-- ngIf: store.locationDetails.personalShopping == 'yes' --><div class="know-personal-shop box-align ng-scope" ng-if="store.locationDetails.personalShopping == 'yes'">
                                         <div class="image left-top">
-                                            <img src="/etc/designs/wegmans/images/PersonalShopping-Logo.svg" alt="Image">
+                                            <img src="/etc/designs/wegmans/images/PersonalShopping-Logo.svg" alt="Personal Shopping Logo">
                                         </div>
                                         <div class="content left-top">
-                                            <h5 ng-bind="personalTease.heading"></h5>
-                                            <a ng-href="{{personalTease.linkUrl}}" class="ui primary-link link" target="{{personalTease.linkTarget ? personalTease.linkTarget : '_self'}}" ng-bind="personalTease.linkLabel"></a>
+                                            <h5 ng-bind="personalTease.heading" class="ng-binding">Personal Shopping</h5>
+                                            <a ng-href="/service/personal-shopping.html" class="ui primary-link link ng-binding" target="_self" ng-bind="personalTease.linkLabel" href="/service/personal-shopping.html">Learn more about Personal Shopping</a>
                                         </div>
-                                    </div>
-                                    <div ng-class="store.locationDetails.personalShopping == 'yes' ?'change-links':'change-links no-margin'">
-                                        <a ng-href="{{store.detailsPageURL}}">Store &amp; Department Details</a>
-                                        <a ng-href="{{store.directionsPageURL}}">Driving Directions</a>
-                                        <a ng-href="{{locatorPageURL}}">Store Locator</a>
+                                    </div><!-- end ngIf: store.locationDetails.personalShopping == 'yes' -->
+                                    <div ng-class="store.locationDetails.personalShopping == 'yes' ?'change-links':'change-links no-margin'" class="change-links">
+                                        <a ng-href="/stores/pittsford-ny.html" href="/stores/pittsford-ny.html">Store &amp; Department Details</a>
+                                        <a ng-href="/stores/pittsford-ny/directions.html" href="/stores/pittsford-ny/directions.html">Driving Directions</a>
+                                        <a ng-href="/stores/store-locator.html" href="/stores/store-locator.html">Store Locator</a>
                                     </div>
                                 </div>
                             </div>
@@ -493,66 +518,35 @@
                     </div>
             </div>
         </div>           
-        <div id="modalStoreList" class="modal" ng-controller="ListStoreController">
-    <i class="icon-icon-closelarge close" onclick="Custombox.close();"></i>
-    <div class="content" dw-loading="content" dw-loading-options="{active: true, text: false, overlay: true, spinnerOptions:{radius:5, lines:10, width:2}}">
+        <div id="modalStoreList" class="modal ng-scope" ng-controller="ListStoreController" tabindex="0">
+    <i class="icon-icon-closelarge close" onclick="Custombox.close();"><span hidden="">Close</span></i>
+    <div class="content ng-scope" dw-loading="content" dw-loading-options="{active: true, text: false, overlay: true, spinnerOptions:{radius:5, lines:10, width:2}}">
 
 
-        <div ng-if=" stores.length>0" class="modal-change-store">
-            <h3 class="store-modal-title">Change My Store</h3>
-            <div class="store-modal-subtitle box-align">
-                <p ng-if="recentStore" class="label store-suggestions">Stores you've recently shopped</p>
-                <p ng-if="!recentStore" class="label store-suggestions">Here are some stores near <span ng-bind="storeZipCode"></span></p>
-            </div>
+        <!-- ngIf: stores.length>0 -->
 
-            <ul class="modal-store-list">
-                <li ng-repeat="store in stores">
-                    <div class="modal-store-item-box">
-                        <div class="modal-store-item-flex">
-                            <h4><a ng-href="{{store.pagePath}}">{{store.jcrTitle}}</a></h4>
-                            <div ng-if="store.locationDetails.personalShopping==='yes'" class="modal-personal-shop-wrap">
-                                <span class="modal-personal-shop-icon"><img src="/etc/designs/wegmans/images/PersonalShopping-Logo.svg" alt="PSImages"></span>
-                                <span class="modal-personal-shop-text">Personal Shopping</span>
-                            </div>
-                        </div>
-                        <div class="modal-store-item-flex">
-                            <p>{{store.locationDetails.address}} {{store.locationDetails.city}}, {{store.locationDetails.stateAbbreviation}} {{store.locationDetails.zip}}</p>
-                        </div>
-                    </div>
-
-                    <div class="modal-store-item-box">
-                        <a ng-if="currentStoreId!==store.storeId" href="#" class="ui secondary-btn button" ng-click="changeStore(store)">
-                            Select
-                        </a>
-                        <span ng-if="currentStoreId===store.storeId" class="icon-icon-tick ng-scope">
-                    </span></div>
-                </li>
-            </ul>
-        </div>
-
-        <div ng-if="stores.length===0" class="modal-no-store">
-            <h3 class="store-modal-title">Select a Location</h3>
-            <div class="image">
-                <img src="/etc/designs/wegmans/images/dummy-img-1.jpg" alt="Image">
-            </div>
-            <p class="sorry-text">Sorry, it looks like we can’t get your location and you have no recent visits to a Wegmans store. </p>
-        </div>
+        <!-- ngIf: stores.length===0 -->
 
         <div class="modal-search-container">
-            <form class="search-bar-form" role="form" ng-submit="onSubmit()">
+            <form class="search-bar-form ng-pristine ng-valid" role="form" ng-submit="onSubmit()">
                 <div class="ui icon input search">
-                    <input type="text" placeholder="Enter a ZIP Code, City, State" ng-model="form.searchText" autocomplete="on" id="search-store">
-                    <button class="icon-icon-search"></button>
+                	<label ng-hide="true" for="search-store" hidden="" class="ng-hide">Change Store Popup</label>
+                    <input type="text" placeholder="Enter a ZIP Code, City, State" ng-model="form.searchText" autocomplete="on" id="search-store" class="ng-pristine ng-untouched ng-valid ng-empty">
+                    <button aria-label="Search" class="icon-icon-search"></button>
                 </div>
                 <button class="ui primary-btn button search-store">Search</button>
             </form>
         </div>
-    </div>
+    <div class="dw-loading dw-loading-overlay dw-loading-active"><div class="dw-loading-body"><div class="dw-loading-spinner"><div class="dw-spinner" role="progressbar" style="position: relative; width: 0px; z-index: 2000000000; left: auto; top: auto;"><div style="position: absolute; top: -1px; opacity: 0.25; animation: opacity-100-25-0-10 0.5s linear 0s infinite normal none running;"><div style="position: absolute; width: 9px; height: 2px; background: rgb(0, 0, 0); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(0deg) translate(5px, 0px); border-radius: 1px;"></div></div><div style="position: absolute; top: -1px; opacity: 0.25; animation: opacity-100-25-1-10 0.5s linear 0s infinite normal none running;"><div style="position: absolute; width: 9px; height: 2px; background: rgb(0, 0, 0); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(36deg) translate(5px, 0px); border-radius: 1px;"></div></div><div style="position: absolute; top: -1px; opacity: 0.25; animation: opacity-100-25-2-10 0.5s linear 0s infinite normal none running;"><div style="position: absolute; width: 9px; height: 2px; background: rgb(0, 0, 0); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(72deg) translate(5px, 0px); border-radius: 1px;"></div></div><div style="position: absolute; top: -1px; opacity: 0.25; animation: opacity-100-25-3-10 0.5s linear 0s infinite normal none running;"><div style="position: absolute; width: 9px; height: 2px; background: rgb(0, 0, 0); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(108deg) translate(5px, 0px); border-radius: 1px;"></div></div><div style="position: absolute; top: -1px; opacity: 0.25; animation: opacity-100-25-4-10 0.5s linear 0s infinite normal none running;"><div style="position: absolute; width: 9px; height: 2px; background: rgb(0, 0, 0); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(144deg) translate(5px, 0px); border-radius: 1px;"></div></div><div style="position: absolute; top: -1px; opacity: 0.25; animation: opacity-100-25-5-10 0.5s linear 0s infinite normal none running;"><div style="position: absolute; width: 9px; height: 2px; background: rgb(0, 0, 0); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(180deg) translate(5px, 0px); border-radius: 1px;"></div></div><div style="position: absolute; top: -1px; opacity: 0.25; animation: opacity-100-25-6-10 0.5s linear 0s infinite normal none running;"><div style="position: absolute; width: 9px; height: 2px; background: rgb(0, 0, 0); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(216deg) translate(5px, 0px); border-radius: 1px;"></div></div><div style="position: absolute; top: -1px; opacity: 0.25; animation: opacity-100-25-7-10 0.5s linear 0s infinite normal none running;"><div style="position: absolute; width: 9px; height: 2px; background: rgb(0, 0, 0); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(252deg) translate(5px, 0px); border-radius: 1px;"></div></div><div style="position: absolute; top: -1px; opacity: 0.25; animation: opacity-100-25-8-10 0.5s linear 0s infinite normal none running;"><div style="position: absolute; width: 9px; height: 2px; background: rgb(0, 0, 0); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(288deg) translate(5px, 0px); border-radius: 1px;"></div></div><div style="position: absolute; top: -1px; opacity: 0.25; animation: opacity-100-25-9-10 0.5s linear 0s infinite normal none running;"><div style="position: absolute; width: 9px; height: 2px; background: rgb(0, 0, 0); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(324deg) translate(5px, 0px); border-radius: 1px;"></div></div></div></div></div></div></div>
 </div>
 
         <div class="right-center text-right">        
             <nav class="quick-links pull-right">
                 <ul>
+                    <li>
+                       <a href="https://jobs.wegmans.com/" target="_blank">Careers</a>
+                	</li>                      
+                
                     <li>
                        <a href="/stores.html" target="_self">Stores</a>
                 	</li>                      
@@ -580,8 +574,8 @@
     <div class="container">
         <div class="nav-bar-wrap box-align">
             <div class="brand left-box">
-                <a class="navbar-brand" href="/content/wegmans/en.html">
-                    <img src="/etc/designs/wegmans/styles/images/logo.svg" title="">
+                <a class="navbar-brand" href="/">
+                    <img src="/etc/designs/wegmans/styles/images/logo.svg" title="Wegmans Logo" alt="Wegmans Logo">
                 </a>
             </div>
             <div class="navigation-wrap box-flex">
@@ -593,7 +587,7 @@
 <nav class="nav-links">
 	<ul class="box-align">
 		
-		<li><a href="/products.html">Products<i class="icon-icon-downarrow"></i></a>
+		<li><a href="/products.html">Departments<i class="icon-icon-downarrow"></i></a>
 			<div class="child-nav-item clearfix">
 				<nav class="child-nav">
 					<div>
@@ -617,6 +611,8 @@
 							
 								<li><a href="/products/deli.html">Deli</a></li>
 							
+								<li><a href="/products/ez-meals.html">EZ Meals</a></li>
+							
 								<li><a href="/products/floral.html">Floral</a></li>
 							
 								<li><a href="/products/frozen-foods.html">Frozen Foods</a></li>
@@ -637,15 +633,13 @@
 							
 								<li><a href="/products/natures-marketplace.html">Nature's Marketplace</a></li>
 							
-								<li><a href="/products/packaged-meals-entrees-and-sides.html">Packaged Meals, Entrees, and Sides</a></li>
-							
 								<li><a href="/products/personal-care-and-makeup.html">Personal Care and Makeup</a></li>
 							
 								<li><a href="/products/pet-supplies.html">Pet Supplies</a></li>
 							
 								<li><a href="/products/pizza.html">Pizza</a></li>
 							
-								<li><a href="/products/prepared-foods-market-cafe.html">Prepared Foods - Market Cafe</a></li>
+								<li><a href="/products/prepared-foods.html">Prepared Foods</a></li>
 							
 								<li><a href="/products/produce.html">Produce</a></li>
 							
@@ -664,7 +658,7 @@
 		</li>
 		        
 			<li>
-			   <a href="/meals-cooking.html">Meals &amp; Cooking</a>
+			   <a href="/meals-recipes/meals.html">Meals &amp; Recipes</a>
 			</li>                      
 		        
 			<li>
@@ -676,73 +670,28 @@
             </div>
             <div class="search-wrap box-flex">
                 <div class="search-button">
-                    <a href="javascript:void(0);" id="search-btn"><i class="icon-icon-search"></i></a>
+                    <a href="javascript:void(0);" id="search-btn"><i class="icon-icon-search" aria-label="Search"><span hidden="">Search - Opens search bar</span></i></a>
                 </div>
             </div>
-            <div ng-module="locationServiceModule" ng-controller="InitGeoLocation">
+            <div ng-module="locationServiceModule" ng-controller="InitGeoLocation" class="ng-scope">
             </div>
-            <div class="search-tab-container" ng-module="GlobalSearchBarApp" ng-controller="GlobalSearchBarController">
+            <div class="search-tab-container ng-scope" ng-module="GlobalSearchBarApp" ng-controller="GlobalSearchBarController">
                 
-<form class="global-search-header" ng-submit="globalSearchBar()">
+<form class="global-search-header ng-pristine ng-invalid ng-invalid-required" ng-submit="globalSearchBar()">
     <div class="global-search-wrapper">
-        <input type="text" required="" class="search-box" ng-model="keyword" placeholder="Search The Site" product-search-type-ahead="">
-        <button type="button" class="icon-icon-closelarge icon-reset" ng-if="keyword!=''" ng-click="clearGlobalSearchKeyword()"></button>
-        <div class="tt-menu ng-cloak" ng-if="showProducts &amp;&amp; productsList.length">
-            <div class="tt-dataset tt-dataset-weg-products">
-                <h5 style="margin-bottom: 0;"><span>Search for...</span></h5>
-                <div class="tt-suggestion sub-items tt-selectable" ng-repeat="product in productsList|limitTo:4 track by $index"> <a ng-class="{'selected':($index === selectedRow)}" class="tt-quick-links" ng-href="{{product.url}}" ng-click="goToTarget(product.url)"><span ng-bind-html="product.name | highlight:keyword"></span></a>
-                    <div class="department-name-wrapper" ng-if="productsList.length &amp;&amp; product.showDepartments === true" ng-repeat="department in departments|limitTo:4 track by $index">
-                        <div class=""></div> <span class="in category">in</span>
-                        <a class="tt-quick-links category" ng-href="{{department.link}}" ng-click="goToTarget(department.link)"> <span ng-bind="department.name"></span><span class="count" ng-bind="department.count"></span></a>
-                    </div>
-                </div>
-            </div>
-            
-<div class="tt-dataset tt-dataset-weg-products-images" ng-show="alikeProductsList.length">
-    <h5 class="search-title">Products you might like...</h5>
-    <div class="product-list grid-price itemlist-wrapper" ng-controller="prod-price-cntrl">
-        <div class="card card-list box-align" ng-repeat="alikeProduct in alikeProductsList|limitTo:3 track by $index">
-            <a class="image" ng-href="{{alikeProduct.url}}" ng-click="goToTarget(alikeProduct.url)"> <img ng-src="{{alikeProduct.imageUrl}}" err-src="" alt="{{alikeProduct.name}}" data-item="SKU_{{alikeProduct.sku}}"> </a>
-            <div class="content-wrap">
-                <div class="content">
-                    <h6 ng-bind="alikeProduct.brand + ' ' + alikeProduct.productLine"></h6>
-                    <h5>
-						<a ng-href="{{alikeProduct.url}}" class="line-ellipse" ng-click="goToTarget(alikeProduct.url)" data-item="SKU_{{alikeProduct.sku}}"><span ng-bind="alikeProduct.name"></span>
-						</a>
-				    </h5>
-				    <div class="location" ng-if="isAisle(alikeProduct['Prod-Id'])">
-		                 <i class="icon icon-icon-location"></i>
-		                 <span class="small-header" ng-cloak=""><span ng-bind="getAisle(alikeProduct['Prod-Id'])"></span></span>
-					</div>
-                    <div class="left"> <span class="detail-copy package-info" ng-bind="alikeProduct.weight"></span> </div>
-                    <div class="right">
-                        <h5 ng-if="isPricing(alikeProduct['Prod-Id'])">                            
-                            <span class="icon-icon-shopclub" ng-if="isShoppersClub(alikeProduct['Prod-Id'])"> 
-                            	<span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span><span class="path5"></span><span class="path6"></span><span class="path7"></span><span class="path8"></span><span class="path9"></span><span class="path10"></span><span class="path11"></span><span class="path12"></span><span class="path13"></span>
-                            </span>			
-                            <span ng-bind="getPrice(alikeProduct['Prod-Id'])"></span>						   
-                        </h5> 
-					</div>
-                </div>
-            </div>
-        </div>
+    	<label ng-hide="true" for="searchthesite" hidden="" class="ng-hide">Search The Site </label>
+        <input id="searchthesite" type="text" required="" class="search-box ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required" ng-model="keyword" placeholder="Search The Site" autocomplete="off" product-search-type-ahead="">
+        <!-- ngIf: keyword!='' -->
+        <!-- ngIf: showProducts && productsList.length -->
+        <!-- ngIf: showQuickLinks -->
     </div>
-</div>    
-        </div>
-        <div class="tt-menu ng-cloak" ng-if="showQuickLinks">
-            <div class="tt-dataset tt-dataset-weg-products">
-                <h5 style="margin-bottom: 0;">  Quick Links  </h5>
-                <div class="tt-suggestion tt-selectable" ng-repeat="quickLink in qlData"><a class="tt-quick-links" ng-href="{{quickLink.link}}" ng-click="openQuickLink(quickLink.link)"><span ng-bind="quickLink.product"></span></a></div>
-            </div>
-        </div>
-    </div>
-    <button type="search" class="ui primary-btn button">Search</button>
+    <button aria-label="Search" type="search" class="ui primary-btn button">Search</button>
 </form>
             </div>
             <div class="right-center text-right">
                 <div class="login-button-wrap box-flex">
-                    <div ng-module="wegmans-username" ng-controller="wegmans-user-profile">
-                        <div ng-show="!name" ng-cloak="">
+                    <div ng-module="wegmans-username" ng-controller="wegmans-user-profile" class="ng-scope">
+                        <div ng-show="!name">
                             <button id="sign-in" class="ui primary-btn button sign-in">Sign In</button>
                             <button id="sign-up" class="ui secondary-btn button">Sign Up</button>
                             <span class="help-user"><a href="/account-help.html">Not Sure?</a></span>
@@ -758,7 +707,7 @@
                                     </div>
                                     <div class="col-md-lg-6 col-lg-offset-1 col-lg-5">
                                         <div class="shoppersclub-wrapper clearfix" header-sign-up="">
-                                            <form id="shoppersclub-header-login-form" class="ui form header-signup" novalidate="novalidate">
+                                            <form id="shoppersclub-header-login-form" class="ui form header-signup ng-pristine ng-valid" novalidate="novalidate">
                                                 
 <div class="notification-wrapper its-error hide"> 
     <i class="alert-icon"></i>
@@ -777,8 +726,9 @@
                                                 <div class="row">
                                                     <div class="col-xs-12 col-sm-12 col-md-8 col-md-lg-8 col-lg-8">
                                                         <div class="field">
-                                                            <h5>Shoppers Club Number <i id="shoppersclub-open" class="icon-icon-info"></i></h5>
-                                                            <input type="number" id="scNumber" name="shoppersclubnumber" placeholder="Enter Shoppers Club" value="" minlength="7" max-length="18" shoppers-club-number="true" data-msg="Please enter a valid shoppers club number" data-msg-required="This field is required to continue" autocomplete="off" required="" aria-required="true">
+                                                            <h5>Shoppers Club Number <i id="shoppersclub-open" tabindex="0" class="icon-icon-info"></i></h5>
+															<label class="ng-hide" for="scNumber">Shoppers Club Number</label>
+                                                            <input type="number" id="scNumber" name="shoppersclubnumber" placeholder="Enter Shoppers Club" value="" minlength="7" maxlength="18" shoppers-club-number="true" data-msg="Please enter a valid shoppers club number" data-msg-required="This field is required to continue" autocomplete="off" required="" aria-required="true">
                                                             <i class="icon-icon-tick"></i>
                                                             <i class="icon-icon-alert"></i>
                                                         </div>
@@ -786,6 +736,7 @@
                                                     <div class="col-xs-12 col-sm-12 col-md-4 col-md-lg-4 col-lg-4">
                                                         <div class="field">
                                                             <h5>ZIP Code</h5>
+															<label class="ng-hide" for="zipCode">ZIP Code</label>
                                                             <input type="text" id="zipCode" zip-pattern="true" name="zip" placeholder="" value="" minlength="5" max-length="10" data-msg="A valid ZIP or Postal code is required to continue" required="" aria-required="true">
                                                             <i class="icon-icon-tick"></i>
                                                             <i class="icon-icon-alert"></i>
@@ -794,6 +745,7 @@
                                                 </div>
                                                 <div class="field">
                                                     <h5>Last Name</h5>
+													<label class="ng-hide" for="ln">Last Name</label>
                                                     <input type="text" id="ln" name="lastname" placeholder="" value="" minlength="1" max-length="50" pattern="true" data-msg-pattern="Must be less than 50 characters. Cannot include special characters" data-msg-max-length="Must be less than 50 characters" data-msg-required="This field is required to continue" required="" aria-required="true">
                                                     <i class="icon-icon-tick"></i>
                                                     <i class="icon-icon-alert"></i>
@@ -810,17 +762,9 @@
                             </div>
                         </div>
 
-                        <div class="signed-dropdown-wrap" ng-cloak="" ng-if="name">
-                            <div class="signed-user">{{greeting}} <span class="users-name" ng-bind="name + '! '"> </span> <i class="icon-icon-downarrowthin"></i></div>
-                            <ul class="signed-user-dropdown">
-                                <li><a href="/my-account.html" class="ui primary-link link">My Account Details</a></li>
-                                <li><a href="/my-profile.html" class="ui primary-link link">My Profile</a></li>
-                                <li><a href="/my-account/email-preferences.html" class="ui primary-link link">Email Preferences</a></li>
-                                <li><a href="" ng-click="onSignOut()" class="ui primary-link link">Sign Out</a></li>
-                            </ul>
-                        </div>
+                        <!-- ngIf: name -->
                         <div class="ui custom popup bottom center transition hidden sign-in-popup">
-								<form class="ui form sign-in-form header-signin clearfix" novalidate="" method="POST" action="/privacy.html/j_security_check">
+								<form class="ui form sign-in-form header-signin clearfix ng-pristine ng-valid" novalidate="" method="POST" action="/privacy.html/j_security_check">
 									<div class="field">
 										<label>Sign in with your Online Account</label>
 										<input type="email" autofocus="" tabindex="1" name="j_username" placeholder="Email Address" minlength="5" max-length="50" data-msg="Please enter a valid email format" data-msg-required="This field is required to continue" required="">
@@ -831,7 +775,7 @@
 									<a href="/sign-in/email-recovery.html" class="ui primary-link link clearfix forget-link">Forgot username/email?</a>
 									<div class="field">
 										<label>Password</label>
-										<input type="password" tabindex="2" name="j_password" placeholder="password" data-msg-required="This field is required to continue" required="">
+										<input type="password" tabindex="2" name="j_password" placeholder="password" data-msg-required="This field is required to continue" no-space="true" required="">
 									</div>
 									<div class="field">
 										<a href="/sign-in/reset-password.html" class="ui primary-link link clearfix">Forgot password?</a></div>
@@ -841,7 +785,7 @@
 											<label for="staysigned">Stay signed in</label>
 										</div>
 									</div>									
-									<button class="ui primary-btn button pull-right" type="button">Sign In</button>
+									<button class="ui primary-btn button pull-right" tabindex="4" type="submit">Sign In</button>
 								</form>
 						</div>
                     </div>
@@ -859,8 +803,8 @@
                     </div>
                 </div>
                 <div class="image-shop-card">
-                    <img src="/etc/designs/wegmans/images/shopper-club-front.png" alt="Image">
-                    <img src="/etc/designs/wegmans/images/shopper-club-back.png" alt="Image">
+                    <img src="/etc/designs/wegmans/images/shopper-club-front.png" alt="Shopper Club Card Front">
+                    <img src="/etc/designs/wegmans/images/shopper-club-back.png" alt="Shopper Club Card Back">
                 </div>
                 <p>If you've misplaced the Shoppers Club card or keytag, contact Customer Service at: 1-800-848-1555 or shoppersclub@wegmans.com Monday - Friday 8 am-6 pm, Saturday &amp; Sunday 8 am-5 pm </p>
             </div>
@@ -868,7 +812,7 @@
 
             <!--  ToolBox -->
             <div id="signupModalToolbox" class="modal toolbox-signup-popup">
-                <i class="icon-icon-closelarge close" onclick="Custombox.close();"></i>
+                <i class="icon-icon-closelarge close" onclick="Custombox.close();"><span hidden="">Close</span></i>
                 <div class="header-popup-container modal-popup-container row">
                     <div class="col-md-lg-6 col-lg-6">
                         <a class="signup-promotion tel-desktop">
@@ -900,7 +844,7 @@
                                     <div class="col-xs-12 col-sm-12 col-md-8 col-md-lg-8 col-lg-8">
                                         <div class="field">
                                             <h5>Shoppers Club Number <i id="shoppersclub-open" class="icon-icon-info"></i></h5>
-                                            <input type="number" id="scNumber" name="shoppersclubnumber" placeholder="Enter Shoppers Club" value="" minlength="7" max-length="18" shoppers-club-number="true" data-msg="Please enter a valid shoppers club number" data-msg-required="This field is required to continue" autocomplete="off" required="" aria-required="true">
+                                            <input type="number" id="scNumber" name="shoppersclubnumber" placeholder="Enter Shoppers Club" value="" minlength="7" maxlength="18" shoppers-club-number="true" data-msg="Please enter a valid shoppers club number" data-msg-required="This field is required to continue" autocomplete="off" required="" aria-required="true">
                                             <i class="icon-icon-tick"></i>
                                             <i class="icon-icon-alert"></i>
                                         </div>
@@ -940,8 +884,8 @@
                             </div>
                         </div>
                         <div class="image-shop-card">
-                            <img src="/etc/designs/wegmans/images/shopper-club-front.png" alt="Image">
-                            <img src="/etc/designs/wegmans/images/shopper-club-back.png" alt="Image">
+                            <img src="/etc/designs/wegmans/images/shopper-club-front.png" alt="Shopper Club Card Front">
+                            <img src="/etc/designs/wegmans/images/shopper-club-back.png" alt="Shopper Club Card Back">
                         </div>
                         <p>If you've misplaced the Shoppers Club card or keytag, contact Customer Service at: 1-800-848-1555 or shoppersclub@wegmans.com Monday - Friday 8 am-6 pm, Saturday &amp; Sunday 8 am-5 pm </p>
                     </div>
@@ -953,29 +897,23 @@
 </noindex>
 </header>
 
-<div class="container main-wrapper">
+<div class="container main-wrapper" style="min-height: 435px;">
     
 
-    <div class="parbase section title">
+    <div class="title parbase section">
 <h1>Privacy Policy</h1></div>
-<div class="parbase textimagewithcta section"><div class="text-img-cta -image">
+<div class="textimagewithcta parbase section"><div class="text-img-cta -image">
 	<div class="cta-content">
 		<div class="cta-rte">
             
 			 
              
 			<h3><b>Wegmans pledge to you</b></h3>
-
 <p>Since 1916, our business philosophy has been to be the very best at serving the wants and needs of our customers. Wegmans understands that you care how information about you is used and shared, and we appreciate your trust that we will use the information wisely and legitimately. You have our word that the information gathered through this site will only be used on behalf of giving you, our valued customer, our very best.</p>
-
 <h3><b>Why do we need personal information from you?</b></h3>
-
 <p>The information you provide helps us understand your preferences, so we can personalize and continually improve your shopping experience.</p>
-
 <h3><b>What information do we collect?</b></h3>
-
 <p>We collect the following information which you provide to us:</p>
-
 <ul>
 <li>Contact information, such as name, address, telephone number and email address</li>
 <li>Your favorite stores, products and recipes</li>
@@ -986,17 +924,11 @@
 <li>Purchases made with your Shoppers Club card or number</li>
 <li>Job application information</li>
 </ul>
-
 <p>In addition, we use cookies to receive and store information whenever you interact with us through your computer or mobile device.&nbsp; This information, which may include the pages you visit on our site, your web address, the type of browser, device or hardware you are using, search terms and IP-based geographic location, helps us recognize you and customize your website experience.</p>
-
 <h3><b>Your Account</b></h3>
-
 <p>If you have a Wegmans Shoppers Club account, the information you provided on your application is merged with your wegmans.com profile (if you choose to register for our online services). Whether we interact with you online or at our stores, we feel it's important to have one account for you, to facilitate customer service.</p>
-
 <h3><b>How do we use your information?</b></h3>
-
 <p>We may use the information we collect in a variety of ways, including:</p>
-
 <ul>
 <li>Communicating with you about products, events and promotions</li>
 <li>Conducting research and analysis, including surveys and focus groups</li>
@@ -1007,12 +939,8 @@
 <li>Evaluating and improving our products and services</li>
 <li>Preventing fraud, managing exposure to risk, and complying with our legal obligations</li>
 </ul>
-
 <p><b>Wegmans does not sell your personal information to anyone.</b></p>
-
 <h3><b>How is your information shared?</b></h3>
-
-
 <ul>
 <li><b>Employees</b><br>
 Access to customer information is limited to employees who need it in order to serve customers or maintain our information systems. All employees are subject to our company Information Security Policies.</li>
@@ -1025,42 +953,25 @@ Third parties that we contract with may use cookies and similar technologies to 
 <li><b>Other situations</b><br>
 We may release customer information when we believe it is necessary to comply with the law, enforce our legal rights; or to protect our customers or us. We may also release your information if you request or authorize us to do so.</li>
 </ul>
-
 <h3><b>How secure is information about me?</b></h3>
-
 <ul>
 <li>Securing your personal information is a top priority.&nbsp; We have administrative, technical and physical safeguards in place to protect your information. Our website uses Secure Socket Layer (SSL) encryption so that your personal information cannot be read as it passes over the Internet.</li>
 <li>Remember to keep your email address and password secure. Also, be sure to sign off when finished using a shared computer.</li>
 </ul>
-
 <h3><b>What information can I access about myself?</b></h3>
-
-
 <p>Wegmans.com gives you access to your record for updating information and for viewing it. All of the information you've shared with us is available to you only, through&nbsp;<a href="/my-account.html">My Account</a>. Please review your profile on a regular basis and up-date it so we can serve you better.</p>
-
 <h3><b>Privacy of Mobile Applications</b></h3>
-
 <p>Our mobile applications may allow you to create a shopping list, search or add products to a favorites list, check price or product availability, print coupons and engage in a variety of other activities and services.<br>
 <br>
 Also, our mobile applications collect information about the location of your device. You must first provide permission through your device before our mobile applications obtain such location information from technologies like GPS, Wi-Fi, or cell tower proximity (or a combination of these technologies). We, and our service providers, may use and store this information, in combination with other location-based information such as IP address and billing, to provide enhanced location based services, such as store specific services, search results, and other content. You can stop all collection of information by our mobile applications easily by uninstalling the mobile applications. Also, you may opt-out from further allowing us to have access to your location data by adjusting the permissions in your mobile device.</p>
-
 <h3><b>Pharmacy</b></h3>
-
-<p><a href="/content/dam/wegmans/pdf/rx/wegmans-pharmacy-notice-of-privacy-practice.pdf" target="_blank">Pharmacy customers can find our Notice of Privacy Practices here.</a></p>
-
+<p>Pharmacy customers can find our Notice of Privacy Practices <a href="/content/dam/wegmans/pdf/rx/wegmans-pharmacy-notice-of-privacy-practice.pdf" target="_blank">here</a>.</p>
 <h3><b>Children's Privacy</b></h3>
-
 <p>Our website is not designed nor intended to collect personal information from children under the age of thirteen.&nbsp; If we become aware that we have received personal information on this web site from a visitor under the age of thirteen, we will delete the information from our records.</p>
-
 <h3><b>Links to Other Sites</b></h3>
-
 <p>Our website may provide links to other sites for your convenience and information.&nbsp; These websites are operated by companies not affiliated with us, and have their own privacy policies.&nbsp; We are not responsible for the content of those websites, your use of them, or their privacy practices.</p>
-
 <h3><b>Changes to this Policy</b></h3>
-
 <p>This Privacy Policy was last updated in <i>July of 2014</i>.&nbsp; We may further update this policy at any time.&nbsp; We encourage you to review it from time to time for changes.</p>
-
-
 
             
 		</div>
@@ -1096,31 +1007,39 @@ Also, our mobile applications collect information about the location of your dev
             		<a href="/news-media.html" target="_self">News &amp; Media</a>
             	
             		<a href="/events.html" target="_self">Events</a>
-            	
-            		<a href="https://jobs.wegmans.com/" target="_blank">Careers</a>
             	                                
             </nav>
 
             <nav class="footer-nav-social pull-right">
                 
                 	
-                		<a href="https://www.youtube.com/user/wegmansfoodmarkets" target="_blank" class="icon-icon-youtube"></a>
+                		<a rel="nofollow" href="https://www.youtube.com/user/wegmansfoodmarkets" target="_blank" class="icon-icon-youtube">
+							<span hidden="">youtube</span>
+						</a>
                 	
             	
                 	
-                		<a href="https://twitter.com/wegmans" target="_blank" class="icon-icon-twitter"></a>
+                		<a rel="nofollow" href="https://twitter.com/wegmans" target="_blank" class="icon-icon-twitter">
+							<span hidden="">twitter</span>
+						</a>
                 	
             	
                 	
-                		<a href="https://www.facebook.com/Wegmans/" target="_blank" class="icon-icon-facebook"></a>
+                		<a rel="nofollow" href="https://www.facebook.com/Wegmans/" target="_blank" class="icon-icon-facebook">
+							<span hidden="">facebook</span>
+						</a>
                 	
             	
                 	
-                		<a href="https://www.pinterest.com/wegmans/" target="_blank" class="icon-icon-pinterest"></a>
+                		<a rel="nofollow" href="https://www.pinterest.com/wegmans/" target="_blank" class="icon-icon-pinterest">
+							<span hidden="">pinterest</span>
+						</a>
                 	
             	
                 	
-                		<a href="http://www.instagram.com/wegmans" target="_blank" class="icon-icon-instagram"></a>
+                		<a rel="nofollow" href="http://www.instagram.com/wegmans" target="_blank" class="icon-icon-instagram">
+							<span hidden="">instagram</span>
+						</a>
                 	
             	
             </nav>
@@ -1128,7 +1047,7 @@ Also, our mobile applications collect information about the location of your dev
     </section>
     <section class="footer-copyright">
         <div class="container clearfix">
-            <p class="copyright pull-left">Copyright © Wegmans Food Markets. All Rights Reserved.</p>
+            <p class="copyright pull-left">Copyright © 2020 Wegmans Food Markets. All Rights Reserved.</p>
             <nav class="footer-nav-privacy pull-right">
                 <a href="/terms.html">Terms</a>
                 <a href="/privacy.html">Privacy</a>
@@ -1140,96 +1059,68 @@ Also, our mobile applications collect information about the location of your dev
 
 <div>
     <div>
-<div class="my-list-view-wrap noindex" id="side-toolbar" ng-module="sidebarApp" ng-controller="SidebarCntrl">
-    <div ng-if="!isLoggedInUser" class="list-view-quick" sidebar-popover="" popover-options="{ selector: '#sidebar-signin-popup', contentAsHTML: true, item: 'shoplist-sign-in'}" data-redirect="/content/wegmans/en/shopping-list.html">
+
+<div class="my-list-view-wrap noindex ng-scope" id="side-toolbar" ng-module="sidebarApp" ng-controller="SidebarCntrl">
+    
+         <input type="hidden" class="instacart-config" name="instacartUrl" value="https://instacart.wegmans.com/add_to_cart/upcs">
+       
+
+    <!-- ngIf: !isLoggedInUser --><div ng-if="!isLoggedInUser" class="list-view-quick ng-scope tooltipstered" sidebar-popover="" popover-options="{ selector: '#sidebar-signin-popup', contentAsHTML: true, item: 'shoplist-sign-in'}" data-redirect="/shopping-list.html">
         <div class="quick-view-icon"><i class="icon-icon-check"></i></div>
         <div class="toolbar-titles">List Quick View</div>
-    </div>
-    <div ng-if="isLoggedInUser" class="list-view-quick" ng-click="toggleSidebar()" ng-cloak="">
-        <div class="quick-view-icon"><i class="icon-icon-check"></i></div>
-        <div class="toolbar-titles">List Quick View</div>
-        <div class="toolbar-titles" id="price-section">
-            <p>
-                <span ng-bind="cart.getTotalItems()"></span> | <span ng-if="!cart.isProcessCompleted()" class="cart-price"></span>
-                <span ng-if="cart.isProcessCompleted()" ng-bind="cart.getDisplayTotalPrice()"></span></p>
-        </div>
-    </div>
+    </div><!-- end ngIf: !isLoggedInUser -->
+    <!-- ngIf: isLoggedInUser -->
 
     <ul class="account-settings-btns">
-        <li ng-if="isLoggedInUser" ng-cloak="">
-            <a data-rewrite="true" ng-href="/content/wegmans/en/shopping-list.html">
-                <div class="quick-view-icon"><i class="icon-icon-checklist2"></i></div>
-                <div class="toolbar-titles">My List</div>
-            </a>
-        </li>
-		<li ng-if="!isLoggedInUser" sidebar-popover="" popover-options="{ selector: '#sidebar-signin-popup', contentAsHTML: true, item: 'shoplist-sign-in'}" data-redirect="/content/wegmans/en/shopping-list.html">
+        <!-- ngIf: isLoggedInUser -->
+		<!-- ngIf: !isLoggedInUser --><li ng-if="!isLoggedInUser" sidebar-popover="" popover-options="{ selector: '#sidebar-signin-popup', contentAsHTML: true, item: 'shoplist-sign-in'}" data-redirect="/shopping-list.html" class="ng-scope tooltipstered">
             <a data-rewrite="true">
                 <div class="quick-view-icon"><i class="icon-icon-checklist2"></i></div>
                 <div class="toolbar-titles">My List</div>
             </a>
-        </li>
-        <li ng-if="isLoggedInUser" ng-cloak="">
-            <a data-rewrite="true" ng-href="/content/wegmans/en/my-products.html">
-                <div class="quick-view-icon"><i class="icon-icon-shopbag"></i></div>
-                <div class="toolbar-titles">My Products</div>
-            </a>
-        </li>
-        <li ng-if="!isLoggedInUser" sidebar-popover="" popover-options="{ selector: '#sidebar-signin-popup', contentAsHTML: true, item: 'products-sign-in'}" data-redirect="/content/wegmans/en/my-products.html">
+        </li><!-- end ngIf: !isLoggedInUser -->
+        <!-- ngIf: isLoggedInUser -->
+        <!-- ngIf: !isLoggedInUser --><li ng-if="!isLoggedInUser" sidebar-popover="" popover-options="{ selector: '#sidebar-signin-popup', contentAsHTML: true, item: 'products-sign-in'}" data-redirect="/my-products.html" class="ng-scope tooltipstered">
             <a data-rewrite="true">
                 <div class="quick-view-icon"><i class="icon-icon-shopbag"></i></div>
                 <div class="toolbar-titles">My Products</div>
             </a>
-        </li>
-        <li ng-if="isLoggedInUser" ng-cloak="">
-            <a data-rewrite="true" ng-href="/content/wegmans/en/my-recipe-box.html">
-                <div class="quick-view-icon"><i class="icon-icon-recipebox"></i></div>
-                <div class="toolbar-titles">Recipe Box</div>
-            </a>
-        </li>
-        <li ng-if="!isLoggedInUser" sidebar-popover="" popover-options="{ selector: '#sidebar-signin-popup', contentAsHTML: true, item: 'recipebox-sign-in'}" data-redirect="/content/wegmans/en/my-recipe-box.html">
+        </li><!-- end ngIf: !isLoggedInUser -->
+        <!-- ngIf: isLoggedInUser -->
+        <!-- ngIf: !isLoggedInUser --><li ng-if="!isLoggedInUser" sidebar-popover="" popover-options="{ selector: '#sidebar-signin-popup', contentAsHTML: true, item: 'recipebox-sign-in'}" data-redirect="/my-recipe-box.html" class="ng-scope tooltipstered">
             <a data-rewrite="true">
                 <div class="quick-view-icon"><i class="icon-icon-recipebox"></i></div>
                 <div class="toolbar-titles">Recipe Box</div>
             </a>
-        </li>
-        <li ng-if="isLoggedInUser" ng-cloak="">
-            <a data-rewrite="true" ng-href="/content/wegmans/en/my-coupons.html">
-                <div class="quick-view-icon"><i class="icon-icon-scissor"></i></div>
-                <div class="toolbar-titles">Coupons</div>
-            </a> 
-        </li>
-        <li ng-if="!isLoggedInUser" sidebar-popover="" popover-options="{ selector: '#sidebar-signin-popup', contentAsHTML: true, item: 'coupons-sign-in'}" data-redirect="/content/wegmans/en/my-coupons.html">
+        </li><!-- end ngIf: !isLoggedInUser -->
+        <!-- ngIf: isLoggedInUser -->
+        <!-- ngIf: !isLoggedInUser --><li ng-if="!isLoggedInUser" sidebar-popover="" popover-options="{ selector: '#sidebar-signin-popup', contentAsHTML: true, item: 'coupons-sign-in'}" data-redirect="/my-coupons.html" class="ng-scope tooltipstered">
             <a data-rewrite="true">
                 <div class="quick-view-icon"><i class="icon-icon-scissor"></i></div>
                 <div class="toolbar-titles">Coupons</div>
             </a> 
-        </li>
-        <li ng-if="isLoggedInUser" ng-cloak="">
-            <a data-rewrite="true" ng-href="/content/wegmans/en/my-receipts.html">
-                <div class="quick-view-icon"><i class="icon-icon-pagewrap"></i></div>
-                <div class="toolbar-titles">My Receipts</div>
-            </a>
-        </li>
-        <li ng-if="!isLoggedInUser" sidebar-popover="" popover-options="{ selector: '#sidebar-signin-popup', contentAsHTML: true, item: 'receipts-sign-in'}" data-redirect="/content/wegmans/en/my-receipts.html">
+        </li><!-- end ngIf: !isLoggedInUser -->
+        <!-- ngIf: isLoggedInUser -->
+        <!-- ngIf: !isLoggedInUser --><li ng-if="!isLoggedInUser" sidebar-popover="" popover-options="{ selector: '#sidebar-signin-popup', contentAsHTML: true, item: 'receipts-sign-in'}" data-redirect="/my-receipts.html" class="ng-scope tooltipstered">
             <a data-rewrite="true">
                 <div class="quick-view-icon"><i class="icon-icon-pagewrap"></i></div>
                 <div class="toolbar-titles">My Receipts</div>
             </a>
-        </li>
+        </li><!-- end ngIf: !isLoggedInUser -->
     </ul>
 
-    <div class="quick-list-view-tab">
+    <div class="quick-list-view-tab hideme">
         <div class="quick-listarrow"></div>
-        <div class="quick-list-top-box" ng-controller="ShoppingListController">
+        <div class="quick-list-top-box ng-scope" ng-controller="ShoppingListController">
             <div class="weeklist-menu">
-                <h5 class="weeklist-title" ng-bind="cart.shoppingName"></h5>
+                <h5 class="weeklist-title ng-binding" ng-bind="cart.shoppingName"></h5>
                 <a id="changeListInvoker" href="#" class="ui primary-link link changeShoppingListModal hideme">(change)</a>                
             </div>
-            <div id="changeListModal" class="modal" ng-cloak="">
-  <i class="icon-icon-closelarge close" onclick="Custombox.close();"></i>
-  <div class="content" dw-loading="changingList" dw-loading-options="{active: false, text: false, overlay: false, spinnerOptions:{radius:5, lines:10, width:2}}">
+            <div id="changeListModal" class="modal" tabindex="0">
+  <i class="icon-icon-closelarge close" onclick="Custombox.close();"><span hidden="">Close</span></i>
+  <div class="content ng-scope" dw-loading="changingList" dw-loading-options="{active: false, text: false, overlay: false, spinnerOptions:{radius:5, lines:10, width:2}}">
     <h3>Change List</h3>
-    <div class="notification-wrapper its-error" style="max-width: 100%;" ng-show="changeListError">
+    <div class="notification-wrapper its-error ng-hide" style="max-width: 100%;" ng-show="changeListError">
          <!-- Use "its-error", "its-success", "its-info" -->
          <i class="alert-icon"></i>
          <div class="error-alert-msg">
@@ -1237,64 +1128,26 @@ Also, our mobile applications collect information about the location of your dev
          </div>
     </div>
     <ul class="list-of-lists">
-      <li ng-repeat="shoppingList in list">
-        <div>
-          <h5 ng-bind="shoppingList.Name"></h5>
-          <label class="last-modified" ng-bind="'Last modified: ' + shoppingList.modifiedDate"></label>
-          <label class="item-count" ng-bind="shoppingList.ItemCount + ' items'"> </label>
-        </div>
-        <a ng-if="!shoppingList.isCurrentListId" href="#" class="ui button secondary-btn" ng-click="changeList(shoppingList)">Select</a>        
-        <i ng-if="shoppingList.isCurrentListId" class="icon-icon-tick"></i>
-      </li>      
+      <!-- ngRepeat: shoppingList in list -->      
     </ul>
-  </div>
+  <div class="dw-loading"><div class="dw-loading-body"><div class="dw-loading-spinner"></div></div></div></div>
 </div>
         </div>
         <div class="product-separation-wrapper">
             <div class="product-separation-container">
 
                 
-                <div ng-if="category.isProductAvailable()" ng-repeat="category in cart.categories">
-                    <div class="product-separation-title small-header" ng-bind="category.name"></div>
-                    <div class="product-separation">
-                        
-                        <div class="media" ng-repeat="product in category.products" ng-if="product.isAvailable()" wm-cart-item="" product="product" cart="cart">
-                        </div>
-                                           
-                    </div>
-                </div>
+                <!-- ngRepeat: category in cart.categories -->
 
-                <div ng-if="cart.isProcessCompleted() &amp;&amp; cart.hasUnavailableProduct()">
-                    <div class="product-separation-title small-header">
-                        <span class="info">Not Available at 
-                            <span class="toolbar-place" ng-bind="cart.storeName"></span>                       
-                        </span> 
-                        <i class="icon-icon-info" wm-tooltip="{target: '#not-available-term',side:'bottom'}"></i>
-                        <div id="not-available-term" class="card recipe product-quickview hideme">
-                            <div class="content-wrap">
-                                <div class="content">
-                                    Items listed as Not Available may not 
-                                    be sold in your store or may not be 
-                                    available at this time.
-                                </div>
-                            </div>
-                        </div>
-                    </div> 
-                    <div class="product-separation" ng-repeat="product in cart.cartItems" ng-if="product.isUnavailable()">
-                        
-                        <div class="media" wm-cart-item="" product="product" cart="cart">
-                        </div>
-                                           
-                    </div>
-                </div>
+                <!-- ngIf: cart.isProcessCompleted() && cart.hasUnavailableProduct() -->
 
                 
             </div>
         </div>
         <div class="product-total-wrapper">
             <div class="toolbar-price-info-wrapper">
-                <h6 class="toolbar-price-info">Est. List Total at <span class="toolbar-place" ng-bind="cart.storeName"></span> 
-                    <i class="icon-icon-info" wm-tooltip="{target: '#not-available-term2',side:'top',maxWidth:250, minWidth:250}"></i>
+                <h6 class="toolbar-price-info">Est. List Total at <span class="toolbar-place ng-binding" ng-bind="cart.storeName"></span> 
+                    <i class="icon-icon-info tooltipstered" tabindex="0" wm-tooltip="{target: '#not-available-term2',side:'top',maxWidth:250, minWidth:250}"></i>
                     <div id="not-available-term2" class="card recipe product-quickview hideme">
                         <div class="content-wrap">
                             <div class="content">
@@ -1304,10 +1157,81 @@ Also, our mobile applications collect information about the location of your dev
                         </div>
                     </div>
                 </h6>
-                <h5 ng-if="!cart.isProcessCompleted()" class="toolbar-price toolbar-cart-price"></h5>
-                <h5 ng-if="cart.isProcessCompleted()" class="toolbar-price" ng-bind="cart.getDisplayTotalPrice()"></h5>
+                <!-- ngIf: !cart.isProcessCompleted() --><h5 ng-if="!cart.isProcessCompleted()" class="toolbar-price toolbar-cart-price ng-scope wm-loader-parent"><div class="wm-loader"><img src="/etc/designs/wegmans/images/ajax-loader.gif" width="20" height="20"></div></h5><!-- end ngIf: !cart.isProcessCompleted() -->
+                <!-- ngIf: cart.isProcessCompleted() -->
             </div>
-            <a ng-href="/content/wegmans/en/shopping-list.html" class="ui primary-btn button">VIEW FULL LIST</a>
+            <a ng-href="/content/wegmans/en/shopping-list.html" class="ui primary-btn button" href="/content/wegmans/en/shopping-list.html">VIEW FULL LIST</a>
+
+            
+            <div class="instacart-button hideme" wm-instacart="">
+                <img src="/etc/designs/wegmans/images/group.svg" alt="send to instacart" class="listcart">
+            </div>
+
+            <input type="hidden" name="instacart-availableitems">
+            <input type="hidden" name="instacart-unavailableitems">
+            <div id="instacartModal" class="transferList modal ng-scope" ng-controller="InstacartCtrl">
+    <div class="container">
+        <div class="wrapper">
+            <div class="content-wrapper">
+                <div class="listLoader">
+                    <div id="private_share_id">
+                        <img src="/etc/designs/wegmans/images/group-10.png" srcset="/etc/designs/wegmans/images/group-10@2x.png 2x, /etc/designs/wegmans/images/group-10@3x.png 3x" alt="">
+                        <!--<img src="/etc/designs/wegmans/images/group@3x.png" alt="instacart" />-->
+                    </div>
+                </div>
+                <h2>
+                    Transfer List to Instacart
+                </h2>
+                <p class="description">
+                    Prices displayed in Instacart are increased to cover the cost of shopping your order.
+                </p>
+                <div class="action">
+                    <p class="btn cancelAction" ng-click="trackCancelBtn('Action:Cancel Send');">
+                        CANCEL
+                    </p>
+                    <p class="btn continueAction" ng-click="submitInstacartDetails('Action:Confirm Send')">
+                        CONTINUE
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+            <div id="instacartUnavailableModal" class="transferList modal ng-scope" ng-controller="InstacartCtrl">
+    <div class="container">
+        <div class="wrapper">
+            <div class="content-wrapper">
+                <div class="listLoader">
+                    <div id="private_share_id">
+                        <img src="/etc/designs/wegmans/images/group-10.png" srcset="/etc/designs/wegmans/images/group-10@2x.png 2x, /etc/designs/wegmans/images/group-10@3x.png 3x" alt="">
+                        <!--<img src="/etc/designs/wegmans/images/group.png" alt="instacart" />-->
+                    </div>
+                </div>
+                <h2 class="padding-bottm-zero">
+                    Transfer List to Instacart
+                </h2>
+                <p class="not-avail-description">
+                    <b class="ng-binding"> of your  items</b> are unavailable for delivery.
+                </p>
+
+                <p class="description">
+                    Tap continue and the remaining items will be transferred.
+                </p>
+                <div class="unavailable-item-container">
+                    <!-- ngRepeat: item in unavailableProducts -->
+                </div>
+            </div>
+            <div class="action">
+                <p class="btn cancelAction" ng-click="trackCancelBtn('Action:Cancel Send-Items Not Available');">
+                    CANCEL
+                </p>
+                <p class="btn continueAction" ng-click="submitInstacartDetails('Action:Confirm Send-Excluding Unavailable');">
+                    CONTINUE
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
         </div>
     </div>
 </div>
@@ -1316,7 +1240,7 @@ Also, our mobile applications collect information about the location of your dev
 
     <div class="media-left">
         <a class="media-object" ng-href="{{product.productURL}}">
-            <img ng-src="{{product.imageURL}}" err-src="">
+            <img ng-src="{{product.imageURL}}" err-src="" alt="{{product.name}}">
         </a>
     </div>
     <div class="media-body">
@@ -1327,6 +1251,7 @@ Also, our mobile applications collect information about the location of your dev
             <span class="toolbar-titles"><span class="price" ng-if="product.isAvailable()" ng-bind="product.displayPrice"></span></span>
 
             <span class="icon-icon-shopclub" ng-if="product.isStoreShoppersClub()">
+				<span hidden="">shoppers club gift card</span>
                 <span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span><span class="path5"></span><span class="path6"></span><span class="path7"></span><span class="path8"></span><span class="path9"></span><span class="path10"></span><span class="path11"></span><span class="path12"></span><span class="path13"></span>
             </span>
         </div>
@@ -1354,16 +1279,17 @@ Also, our mobile applications collect information about the location of your dev
     </div>
 
     <div class="media-right">
-        <div class="spinner">
-            <span class="sub icon-icon-minus" ng-click="decrement()"></span>
-            <input class="spinner-input" ng-blur="changeQuantity()" type="text" min="0" max="99" maxlength="2" value="{{product.quantity}}">
-            <span class="add icon-icon-plus" ng-click="increment()"></span>
+    	<div class="spinner">
+            <span class="{{product.quantity > 1 ? 'sub minus-icon' :'sub trash-icon'}}" ng-click="decrement()"><span hidden="">Decrease Quantity</span></span>
+            <label ng-hide="true" for="quantity-picker-SKU_{{product.sku}}">Number of Quantity</label>
+            <input id="quantity-picker-SKU_{{product.sku}}" class="spinner-input" ng-blur="changeQuantity()" type="text" min="0" max="99" maxlength="2" ng-model="product.quantity">
+            <span class="add plus-icon" ng-click="increment()"><span hidden="">Increase Quantity</span></span>
         </div>
     </div>    
 </div>
 <!--Sidebar SignIn Popup -->
 <div id="sidebar-signin-popup" class="modal toolbox-signup-popup">
-   <span href="#" class="icon-icon-closelarge tooltip-close pull-right"></span>
+   <span href="#" class="icon-icon-closelarge tooltip-close pull-right"><span hidden="">Close</span></span>
    <div class="header-popup-container modal-popup-container row">
       <div class="col-md-lg-6 col-lg-7">
          <a href="content/wegmans/en" class="signup-promotion tel-desktop">
@@ -1389,7 +1315,7 @@ Also, our mobile applications collect information about the location of your dev
                   </div>   
                   <div class="field">
                      <h5>Password</h5>
-                     <input type="password" tabindex="2" name="j_password" placeholder="******" data-msg-required="This field is required to continue" required="">			
+                     <input type="password" tabindex="2" name="j_password" no-space="true" placeholder="******" data-msg-required="This field is required to continue" required="">			
                      <i class="icon-icon-tick"></i>
                      <i class="icon-icon-alert"></i>
                      <a href="/sign-in/reset-password.html" class="ui primary-link link clearfix">Forgot password?</a>
@@ -1422,7 +1348,8 @@ Also, our mobile applications collect information about the location of your dev
 
 
     
-<script type="text/javascript" src="/etc/designs/wegmans/clientlib-all.6e5d79011afe16508072cd516bfca150.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/lodash/modern.06d28202bf48e22a9d90673c8498c0d5.js"></script>
+<script type="text/javascript" src="/etc/designs/wegmans/clientlib-all.23122c86ad0f01170ba8c5fb51790626.js"></script>
 
 
 
@@ -1432,13 +1359,14 @@ Also, our mobile applications collect information about the location of your dev
 
 
 <script type="text/javascript">
-    _satellite.pageBottom();
-
+    if(typeof _satellite != 'undefined'){
+        _satellite.pageBottom();
+    }
 </script>
 
 
 <div id="personal-shopping-go" class="modal">
-	<i class="icon-icon-closelarge close" onclick="Custombox.close();"></i>
+	<i class="icon-icon-closelarge close" onclick="Custombox.close();"><span hidden="">Close</span></i>
 	<div class="content">
 		<h3>Personal Shopping Checkout</h3>
 		<p class="store-modal-sub-title">You must have at least one item on your Shopping List to use Personal Shopping.</p>
@@ -1449,63 +1377,15 @@ Also, our mobile applications collect information about the location of your dev
 </div>
 
 
-<div id="searchModal" class="modal" ng-module="GlobalSearchBarApp" ng-controller="GlobalSearchBarController"> <i class="icon-icon-closelarge close" onclick="Custombox.close();"></i>
+<div id="searchModal" class="modal ng-scope" ng-module="GlobalSearchBarApp" ng-controller="GlobalSearchBarController"> <i class="icon-icon-closelarge close" onclick="Custombox.close();"><span hidden="">Close</span></i>
 	<div class="content">
 		<div class="mobile-search-tab-container show-mobile">
-			<form class="global-search-header" role="form" ng-submit="globalSearchBar()" novalidate=""> <i class="icon-icon-search icon-search"></i>
-				<input type="text" name="focus" ng-model="keyword" required="" class="search-box" placeholder="Search The Site" product-search-type-ahead="">
-				<button class="icon-icon-search icon-search" type="search"></button>
-				    <div class="tt-menu ng-cloak" ng-if="showProducts &amp;&amp; productsList.length">
-				        <div class="tt-dataset tt-dataset-weg-products">
-				            <h5 style="margin-bottom: 0;"><span>Search for...</span></h5>
-				                <div class="tt-suggestion sub-items tt-selectable" ng-repeat="product in productsList|limitTo:4 track by $index"> 
-				                <a class="tt-quick-links" ng-href="{{product.url}}" ng-click="goToTarget(product.url)"><span ng-bind-html="product.name | highlight:keyword"></span></a>
-				                	<div class="department-name-wrapper" ng-if="productsList.length &amp;&amp; product.showDepartments === true" ng-repeat="department in departments|limitTo:4 track by $index">
-				                        <div class=""></div> <span class="in category">in</span> <a class="tt-quick-links category" ng-href="{{department.link}}" ng-click="goToTarget(department.link)">
-				                                    <span ng-bind="department.name"></span><span class="count" ng-bind="department.count"></span>
-				                	</a></div><a class="tt-quick-links category" ng-href="{{department.link}}" ng-click="goToTarget(department.link)">
-				                </a> 
-				            </div>
-				        </div>				        
-				        
-<div class="tt-dataset tt-dataset-weg-products-images" ng-show="alikeProductsList.length">
-    <h5 class="search-title">Products you might like...</h5>
-    <div class="product-list grid-price itemlist-wrapper" ng-controller="prod-price-cntrl">
-        <div class="card card-list box-align" ng-repeat="alikeProduct in alikeProductsList|limitTo:3 track by $index">
-            <a class="image" ng-href="{{alikeProduct.url}}" ng-click="goToTarget(alikeProduct.url)"> <img ng-src="{{alikeProduct.imageUrl}}" err-src="" alt="{{alikeProduct.name}}" data-item="SKU_{{alikeProduct.sku}}"> </a>
-            <div class="content-wrap">
-                <div class="content">
-                    <h6 ng-bind="alikeProduct.brand + ' ' + alikeProduct.productLine"></h6>
-                    <h5>
-						<a ng-href="{{alikeProduct.url}}" class="line-ellipse" ng-click="goToTarget(alikeProduct.url)" data-item="SKU_{{alikeProduct.sku}}"><span ng-bind="alikeProduct.name"></span>
-						</a>
-				    </h5>
-				    <div class="location" ng-if="isAisle(alikeProduct['Prod-Id'])">
-		                 <i class="icon icon-icon-location"></i>
-		                 <span class="small-header" ng-cloak=""><span ng-bind="getAisle(alikeProduct['Prod-Id'])"></span></span>
-					</div>
-                    <div class="left"> <span class="detail-copy package-info" ng-bind="alikeProduct.weight"></span> </div>
-                    <div class="right">
-                        <h5 ng-if="isPricing(alikeProduct['Prod-Id'])">                            
-                            <span class="icon-icon-shopclub" ng-if="isShoppersClub(alikeProduct['Prod-Id'])"> 
-                            	<span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span><span class="path5"></span><span class="path6"></span><span class="path7"></span><span class="path8"></span><span class="path9"></span><span class="path10"></span><span class="path11"></span><span class="path12"></span><span class="path13"></span>
-                            </span>			
-                            <span ng-bind="getPrice(alikeProduct['Prod-Id'])"></span>						   
-                        </h5> 
-					</div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>               
-				    </div>
+			<form class="global-search-header ng-pristine ng-invalid ng-invalid-required" role="form" ng-submit="globalSearchBar()" novalidate=""> <i class="icon-icon-search icon-search"></i>
+				<input type="text" name="focus" ng-model="keyword" required="" class="search-box ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required" placeholder="Search The Site" product-search-type-ahead="">
+				<button aria-label="Search" class="icon-icon-search icon-search" type="search"></button>
+				    <!-- ngIf: showProducts && productsList.length -->
 
-					<div class="tt-menu ng-cloak" ng-if="showQuickLinks">
-				        <div class="tt-dataset tt-dataset-weg-products">
-				            <h5 style="margin-bottom: 0;">  Quick Links  </h5>
-								<div class="tt-suggestion tt-selectable" ng-repeat="quickLink in qlData"><a class="tt-quick-links" ng-href="{{quickLink.link}}" ng-click="openQuickLink(quickLink.link)"><span ng-bind="quickLink.product"></span></a></div>      
-				        </div>
-					</div>									   
+					<!-- ngIf: showQuickLinks -->									   
 			</form>
 		</div>
 	</div>
