@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-ebook-reader.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522111630id_/http%3A//www.the-ebook-reader.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-ebook-reader.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004212805id_/https%3A//www.the-ebook-reader.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for The-eBook-Reader.com
 
@@ -54,4 +54,4 @@ If you do not agree to The-eBook-Reader.com's Privacy Policy as posted here on t
 
 Your use of this site indicates acceptance of this privacy policy.
 
-[Return from Privacy Policy to Home](http://www.the-ebook-reader.com/)
+[Return from Privacy Policy to Home](https://www.the-ebook-reader.com/)
