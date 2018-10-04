@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dermstore.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705073843id_/https%3A//www.dermstore.com/content/content.php%3Fcontent%3Dpolicies%26show%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dermstore.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004074754id_/https%3A//www.dermstore.com/content/content.php%3Fcontent%3Dpolicies%26show%3Dprivacy) for the most accurate reproduction.*
 
 # Dermstore
 
