@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the course-notes.org privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628052957id_/http%3A//www.course-notes.org/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the course-notes.org privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004203805id_/http%3A//www.course-notes.org/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy | CourseNotes
 
