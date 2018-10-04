@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the whiteonricecouple.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603050227id_/http%3A//whiteonricecouple.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whiteonricecouple.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004122047id_/https%3A//whiteonricecouple.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | White On Rice Couple
 
-This Privacy Policy governs the manner in which White On Rice Couple collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://whiteonricecouple.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by White On Rice Couple.
+This Privacy Policy governs the manner in which White On Rice Couple collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://whiteonricecouple.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by White On Rice Couple.
 
 Personal identification information
 
@@ -57,7 +57,7 @@ Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 White On Rice Couple  
-http://whiteonricecouple.com/  
+https://whiteonricecouple.com/  
 td (@) whiteonricecouple.com
 
 This document was last updated on October 06, 2014
