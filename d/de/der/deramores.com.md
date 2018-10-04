@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deramores.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602155904id_/http%3A//www.deramores.com/pages/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deramores.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005015632id_/http%3A//www.deramores.com/pages/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy – Deramores
 
@@ -85,7 +85,7 @@ We need to process your personal data so that we can manage your customer accoun
 
 We may supplement the information that you provide to us with information we receive from third parties.
 
-We strive to provide you with choices regarding certain personal data uses, particularly around marketing. We have established a Preference centre where you can view and make certain decisions about your personal data use and marketing choices. If you choose to subscribe to our marketing programme, we may use your information to make decisions about you using computerised technology, for example, automatically selecting products or services which we think will interest you. We may keep you informed of such products and services (including special offers, discounts, offers, competitions and so on) by email, telephone or post. If you wish to amend your marketing preferences, you can do so either logging into your account or by contacting our customer services team by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d6b5a3a5a2b9bbb3a4f8a5b3a4a0bfb5b396b2b3a4b7bbb9a4b3a5f8b5b9bb). We won't send you marketing messages if you tell us not to but we will still need to send you occasional service-related messages.
+We strive to provide you with choices regarding certain personal data uses, particularly around marketing. We have established a Preference centre where you can view and make certain decisions about your personal data use and marketing choices. If you choose to subscribe to our marketing programme, we may use your information to make decisions about you using computerised technology, for example, automatically selecting products or services which we think will interest you. We may keep you informed of such products and services (including special offers, discounts, offers, competitions and so on) by email, telephone or post. If you wish to amend your marketing preferences, you can do so either logging into your account or by contacting our customer services team by emailing [customer.service@deramores.com](mailto:customer.service@deramores.com). We won't send you marketing messages if you tell us not to but we will still need to send you occasional service-related messages.
 
 Please be aware that if you choose not to share your personal data with us, or refuse certain contact permissions, we may not be able to provide some services you’ve asked for. For example, if you  withdraw your general consent to hear from us, we won’t be able to tell you about any of our great new product offerings, or whether a product you were interested in has come back into stock.
 
@@ -281,7 +281,7 @@ Deramores Retail Limited ('we'/'us'/'our'), a limited company (trading as Deramo
 
 We hope that you have found this Privacy Statement helpful in setting out the way we look after and handle your personal data. If you have any questions about how Deramores Retail Ltd uses your personal data that are not answered here, or if you want to exercise your rights regarding your personal data, please contact us by any of the following means:
 
-  * e-mail us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection);  or
+  * e-mail us at: customer.service@deramores.com;  or
   * write to us at: The Data Protection Manager, Deramores Retail Limited, Ideal Home House, Newark Road, Peterborough, PE1 5WG.
 
 
@@ -297,7 +297,7 @@ If you have registered to receive information from us, you can remove your conta
 If you receive communications from us and wish to opt out:
 
   * from email, please click the 'Unsubscribe' link on one of the emails, or
-  * email the customer services team on [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+  * email the customer services team on customer.service@deramores.com.
 
 
 
