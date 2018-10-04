@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smm.org privacy policy that was archived on 2017-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170318173453id_/https%3A//www.smm.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smm.org privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005005507id_/https%3A//www.smm.org/privacy) for the most accurate reproduction.*
 
 # Information Privacy Statement | Science Museum of Minnesota
 
@@ -94,7 +94,7 @@ The Science Museum encourages families to visit the museum's website together as
 
 In compliance with the Children's Online Privacy Protection Act, we do our best to delete any information we inadvertently collect from children under the age of 13 who visit our website as soon as we gain actual knowledge of its existence. If you learn or suspect that your child has provided personal information to the Science Museum during one of his or her visits to our website, please contact the Membership or Development Office or, if your child visited the Computer Education Center site, please call the center directly.
 
-To learn more about how to protect your child's privacy on the web, please see "Social Networking Sites: A Parent's Guide" from the Bureau of Consumer Protection at <http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec13.shtm>.
+To learn more about how to protect your child's privacy on the web, please see "Social Networking Sites: A Parent's Guide" from the Bureau of Consumer Protection at [http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec13.shtm](https://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec13.shtm).
 
 back to top
 
