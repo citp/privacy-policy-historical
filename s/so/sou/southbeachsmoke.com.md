@@ -1,85 +1,79 @@
-> *The following text is extracted and transformed from the southbeachsmoke.com privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016225210id_/https%3A//www.southbeachsmoke.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southbeachsmoke.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004142424id_/https%3A//www.southbeachsmoke.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | South Beach Smoke
 
-Effective June 1, 2010
+Last Modified & Effective Date: May 25, 2018
 
-**Website Privacy Policy & Terms of Use**
+**Website Privacy Policy**
 
-Click here for our [Terms of Use](https://www.southbeachsmoke.com/terms.html/)
+Your privacy is not something South Beach Smoke Inc. (“South Beach Smoke,” “we,” or “our”) takes lightly, as we are committed to building solid business relationships, which require earning and maintaining trust. 
 
-South Beach Smoke E-Cigarette is intended for use by adult smokers and not intended for pregnant women or those who are sensitive to nicotine. Nicotine is highly addictive and may be dangerous to your health. South Beach Smoke E Cigarette is not intended as a smoking cessation device. The South Beach Smoke Electronic Cigarette offers smokers a tar-free way to enjoy smoking.
+We wish to communicate what forms of information we collect from and about you when you use this website, how this information is used and protected, and how you are able to control its use.
 
-**SURGEON GENERAL'S WARNING:**
+By using this website, you are agreeing to be bound by this Privacy Policy, without qualification or limitation. This Privacy Policy is incorporated into and made a part of the website [Terms of Use](https://www.southbeachsmoke.com/terms.html/).
 
-Smoking Causes Lung Cancer, Heart Disease, Emphysema, And May Complicate Pregnancy.
+The information contained within this Privacy Policy strictly applies to the collection and use of information by South Beach Smoke on this website. It does not apply to any of the information you may send to us by other means. 
 
-**Warning:**
+**Changes to Privacy Policy**
 
-CONTAINS NICOTINE - KEEP OUT OF REACH OF CHILDREN. Liquid harmful in direct contact with skin. Immediately wash affected area with soap and water upon contact. If liquid swallowed or even placed in mouth seek medical attention immediately for possible nicotine poisoning.
+Any alterations or modifications to this Privacy Policy will be communicated here on this page, so it is important to check back on occasion. 
 
-**Our Privacy Policy**
+**Who is permitted to use this website.**
 
-We take your privacy seriously. Earning and keeping your trust is important to us.
+Adults only. This website, in no way whatsoever, has been intended, designed, or manipulated to attract the attention of users under the age of 18/21, depending on the state laws of the individual regarding the legal smoking age. We do not collect data which may be considered personally identifiable from any person known to be below the age of 18/ 21. We state clearly that this site is not intended for those under the legal smoking age, and furthermore, we instruct those individuals to not send us information.
 
-We want you to understand what kinds of information we gather from you, how this information is used and protected, and how you can control its use. This statement discloses the privacy practices of Cavo Partners, Inc. d/b/a South Beach Smoke. By using this website, you agree, without limitation or qualification, to be bound by this Privacy Policy.
+The information contained on this site is restricted to users in the United States. Regarding users in other countries, it is highly advisable not to disclose your personal information on this website. The data, which you transmit, is sent to a server in the United States. By sending personal information and data to this website, you are agreeing to be bound by the laws of the United States.
 
-This Privacy Policy applies to the collection and use of information by South Beach Smoke on this website but does not apply to information that you may send to us by other means.
+**Information collected from and about you.**
 
-Any changes in our Privacy Policy will be communicated in this page so please check back from time to time.
+The information we collect from you varies, depending on the ways you use our website, and not all browsing results in the collection of data, personal or otherwise. It is highly possible you may browse our site without submitting any personal information however there are instances where submitting information, such as your name, address, email address, credit or debit card information, and other personal information is required to use certain features or receive products and services. 
 
-**Who may use this website.**
+Besides the information you choose to submit, our systems are programmed to collect certain types of data automatically on an anonymous level. This is done to give us insight on how our site is being used, as well as to help us understand how we may improve it in the future. This typically entails automatically gathering data such as any of the content you view on our website.
 
-This website is not intended or designed to attract users under the age of 18/21 (depending on individual state laws regarding access to adult subject matter). We do not collect personally identifiable data from any person we know to be under the age of 18/21 (depending on individual state laws regarding access to adult subject matter) and instruct users under 18/21 (depending on individual state laws regarding access to adult subject matter) not to send us any information.
+**How Your Information is used.**
 
-This site is restricted to users from the United States. Users from other countries are advised not to disclose personal information on this website. You transmit data to a server located in the State of Florida subject to United States and laws of the State of Florida. You should not send any personal information to this website unless you agree to be bound by United States and the law of the State of Florida.
+When you provide personal information, it is used to customize your online experience on our website. Information you send to use, such as age, occupation, ZIP code, or other data may be used to offer personalized content, beneficial advertisements, products, and additional services that are most likely going to appeal to you based on the information given.
 
-**Information collected from you.**
+We use personal information to respond directly to requests you may make of us, as well as reference this information should we feel the need to better understand your needs and how we may be able to improve our services, products, and website. We may also use this personal information to contact you and/ or provide information we deem may be useful to you such as promotions. There is also a possibility we may enhance or merge this information with data we obtain from third parties for these same intended purposes. We may also send you promotional and/or administrative communications via the email address you have provided. You can unsubscribe from commercial e-mail messages, but you may not be able to unsubscribe from certain non-commercial, administrative communications. 
 
-The kinds of information we collect from you will vary, depending on how you use our website. It's possible to browse our site without submitting any personal information at all. In order to take part in certain services on our website, you will be required to provide certain personal information (e.g., your name, address, e-mail address, etc.).
+**Use of “Cookies” and Other Technologies.**
 
-In addition to the information you choose to submit, our systems are set up to gather certain anonymous data to help us better understand how our site is being used and how we can improve it. This automatically gathered data includes any content you view on our website.
+On our website, we utilize “cookies.” What these are is small files, which we send to and store on your computer so that we are able to recognize it as a unique machine on your next visit. These cookies allow us to know you are a prior customer and they allow us to personalize the experience for you, providing useful information, advertisements, and messages that may be of interest to you. It should also be known that outside companies offering their products or services through our website may be using their own cookies.
 
-**How your information is used.**
+Information such as your computer’s IP address, the browser you use, and a navigation record are types of the information our system gathers, and it is used for purposes of improving our products, services, and website, enhancing convenience, and providing useful content to our audience. The collection of data is also done to further our goal of providing top service, as well as useful content, beneficial advertisements, and products that are going to appeal to you. In this manner, we may link information we have collected from you through a variety of means including automatically as well as through the use of cookies and personal information, and the information gathered via South Beach Smoke’s Customer Care and Home Delivery Program.
 
-We utilize "cookies" on our site. These are small files that we send to and store on your computer so that we may recognize it as a unique machine the next time you visit our site. Our cookies are used to let us know you are a prior customer and to help us personalize your online experience by providing you with advertisements and messages of interest to you. Also, companies offering products or services through our website may use their own cookies.
+**Interest-Based Advertising**
 
-The personal information you provide is used among other uses to help us customize your online experience. Your e-mail address serves as a unique identifier in our record system, and it is used together with a password to prevent unauthorized access to any information you choose to store on our site. The data you give us about your personal preferences and demographics (such as age, ZIP code, occupation, or other data) may be used to help us offer content, advertisements, products, and services that are most likely to appeal to you.
+We may work with third parties who use cookies and other technologies to collect information about your use of this website and other websites and serve online ads likely to be of interest to you. To learn more about interest-based advertising or to opt-out of having your web browsing information used for interest based advertising, visit the websites operated by the [Network Advertising Initiative](http://optout.networkadvertising.org/) (“NAI”) and the [Digital Advertising Alliance](http://optout.aboutads.info/) (“DAA”). Participating network advertisers will be listed at those sites. Note, however, that not all service providers participate in the NAI and DAA. In addition, if you opt-out, you may still see online advertising, but the ads may not be tailored to your interests. If you delete or block cookies, buy a new device, access the website from a different device, login under a different name, or change web browsers, you will need to opt-out again. Some web browsers may transmit “do not track” signals. At this time, we do not take steps to respond to such signals. 
 
-We will use your personal information to respond to requests you may make of us, and from time to time, we may refer to such information to better understand your needs and how we can improve our website, products and services. We may also use this personal information to contact you and/or provide you with general promotions information. We may share this personal information with other companies who offer products and services that may be of interest to you. We may also enhance or merge this personal information with data obtained from third parties for the same purposes.
+**Your Options Regarding the Usage of Your Personal Information.**
 
-Unless you specify that you'd prefer not to hear from us, we may also use the e-mail address you provide at registration to contact you for promotional, administrative, or other reasons. You may have these communications terminated. This likely will take 48 hours from the time you give us notice.
+*You always hold the option to not provide personal information, even if it is necessary to take part in South Beach Smoke offers or website features.
 
-The information gathered automatically by our system' such as your computer's IP address, the kind of browser you're using, and a record of your navigation through our site' may be used by us so we can understand how to make our site convenient and useful to our audience and to improve our products and services.
+*You have the option to alter, add to, or update certain information you send to us. Let it be known however, when information is updated we may retain a copy of the original version in our records.
 
-We may link information collected from you through various means, including information collected automatically and through the use of cookies and personal information, with information we learn via South Beach Smoke Customer Care and from Home Delivery Program members. Our goal is to help offer you content, advertisements, products, and services that are most likely to appeal to you.
-
-**Your Choices Regarding the Use of Your Personal Information.**
-
-* You can always choose not to provide personal information, even though it might be needed to take advantage of South Beach Smoke offers or website features.
-
-* You can add or update certain information that you send to us. When you update information, we usually keep a copy of the prior version for our records.
-
-* If you do not want to receive e-mail or other mail from us or if you wish to check your personal information, please contact us by email at service
+*If you wish not to receive commercial email communications from us, of if you want to check your personal information, please feel free to contact us via email at custsupp or you can unsubscribe to commercial e-mail messages using the unsubscribe link provided. 
 
 **Access to Your Personal Information.**
 
-In the event that South Beach Smoke and some of our assets are sold or transferred or used as security, the personal information collected on our website may be transferred to third parties as part of that transaction. South Beach Smoke may also provide personal information or provide access to personal information to any of our affiliated businesses or to our business partners.
+South Beach Smoke may use your personal information to reply to you as well as to send information to you. In no way does South Beach Smoke intend to disclose personal information to third parties except those explicitly stated in this Privacy Policy. It should be known that South Beach Smoke may provide aggregated information, which we receive from you, to third parties. 
 
-South Beach Smoke may use your personal information to reply to you and send information to you. South Beach Smoke does not intend to reveal personal information to third parties except in the manner stated in this Privacy Policy. South Beach Smoke will provide aggregated information received from you to third parties. South Beach Smoke takes commercially reasonable precautions to prevent the aggregated information provided to third parties from including personal information.
+In the event that South Beach Smoke, or our assets are sold, transferred, or used as security, the personal information we have collected through our website may become transferred to third parties in connection with that transaction. South Beach Smoke may also give access to, or provide personal information to any of our business affiliates and/ or business partners. There is a possibility that we may share your personal information with additional companies whose products and services may be of interest to you.
 
-If South Beach Smoke is requested by law enforcement officials or judicial authorities to provide personal information on individual users, South Beach Smoke may, without your consent, provide such information. In matters involving claims of personal or public safety or in litigation where the data is pertinent, South Beach Smoke may use or disclose your personal information without your consent or court process.
+In the event that South Beach Smoke is requested by law enforcement officials and/or judicial authorities to provide personal information on individuals who have used our system, South Beach Smoke may, without your consent, provide any of this information. In matters that involve claims of public or personal safety or litigation where this data is considered pertinent, South Beach Smoke may use or disclose your personal information without your consent or court process.
 
 **Will Your Personal Information Be Secure?**
 
-South Beach Smoke recognizes you may be concerned about the security of your personal information, and we are committed to employing reasonable technology in order to protect the security of our website. Even with such technology, no website is 100% secure. We will take reasonable measures that we believe are appropriate to protect your information from loss, misuse, alteration or destruction, and, where possible, will ask that any third parties to whom we may transfer your information take comparable steps to protect that security.
+South Beach Smoke recognizes and understands your concerns on the subject of safety and security regarding your personal information. We strive to employ reasonable measures to protect your information as well as the overall security of our website. We also request that any third parties we are affiliated with, whom we may transfer your information to take the same or comparable steps to protect your information and security. With that said, it should be noted that even with such advanced technology, no website is 100% secure.
 
-**Our Privacy Policy and Outside Links.**
+**South Beach Smoke Privacy Policy and Outside Links.**
 
-Our Privacy Policy only applies to this website. Our website contains links to sites outside our control. Please be aware that these sites may collect personal information about you, and operate according to their own privacy practices that may differ from our Privacy Policy. Remember to consult that website's own privacy policy, as once you're outside this website, any information you submit is no longer in our control.
+South Beach Smoke Privacy Policy applies only to this website, however our website does contain links to outside sites that are beyond our control. Be advised that these sites have the potential to collect personal information about you, and they will operate according to their own privacy practices that may differ from our own Privacy Policy. It is advised that you consult any such websites’ privacy policies, as once you are no longer on South Beach Smoke’s website, any of the information you submit is beyond our control.
 
-**Questions Regarding Our Privacy Policy.**
+**California Privacy Rights**
 
-If you have questions or comments regarding our privacy practices, please e-mail us at service
+Under California Law, California residents have the right to receive, once per year, information about third parties with whom we have shared information about you for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send a request via e-mail to custsupp with the phrase "California Privacy Request" in the subject line, and provide us with your name, address, and e-mail address. We will respond to you within thirty days of receiving such a request.
 
-This policy was last updated on June 1, 2010
+**Questions Regarding This Privacy Policy.**
+
+Should you have any questions, concerns, or comments regarding our privacy practices, please do not hesitate to e-mail us at custsupp
