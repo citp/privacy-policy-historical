@@ -1,99 +1,107 @@
-> *The following text is extracted and transformed from the childcare.co.uk privacy policy that was archived on 2017-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170726050712id_/https%3A//www.childcare.co.uk/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the childcare.co.uk privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005001650id_/https%3A//www.childcare.co.uk/information/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Childcare.co.uk
+# Privacy and Cookies Policy - Childcare.co.uk
 
-International New Media Limited t/a Childcare.co.uk ( **We** ) are committed to protecting and respecting your privacy.
+Effective Date: 24/05/2018
 
-This policy (together with our [terms and conditions](https://web.archive.org/information/terms) and any other documents referred to in them) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
+## 1. Who are we?
 
-For the purpose of the Data Protection Act 1998 ( **the Act** ), the data controller is International New Media Limited of 1 High Street Mews, Wimbledon Village, London, SW19 7RG.
+1.1 We are International New Media Limited trading as Childcare.co.uk. For privacy queries, you can contact us at dataprotection@childcare.co.uk. Other contact details are on our website. 
 
-## Information we may collect from you
+## 2. What’s the point of this policy?
 
-We may collect and process the following data about you:
+2.1 It tells you what to expect when we collect your personal information. Please only use our service if you are completely happy with this policy. 
 
-Information that you provide by filling in forms on our site www.childcare.co.uk or our mobile apps ( **our site** ). This includes information provided at the time of registering to use our site, subscribing to our service, posting material (including personal profiles, materials advertising your services or details about your family/home life in order to seek appropriate childcare services) or requesting further services. We may also ask you for information when you report a problem with our site.
+2.2 Generally, the policy covers only information provided to us. If you give personal information to other people, such as payment providers or other websites to which we link, such as online training courses, insurance services and discount schemes, please check their privacy policies. 
 
-If you contact us, we may keep a record of that correspondence.
+## 3. Might the policy change?
 
-We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+3.1 Yes. We will post any new version on our website (please check whenever you visit the site) and also notify you by email, SMS, in-app message or otherwise. We will assume you agree to the new version of the policy if you use our site or app after its effective date. 
 
-Details of transactions you carry out through our site and your contact with **Childcare Providers** (a person or organisation offering babysitting, childminding, nursery, tutoring midwifery or maternity nursing services or **Parents** (a parent or guardian seeking childcare assistance from a Childcare Provider).
+## 4. What do we collect? 
 
-Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
+4.1 Information which you upload to our service or otherwise give us such as your name, postcode, contact details, date of birth as well as any personal information which you include in (a) documents which you upload to our service or (b) your public activities on our service, e.g. reviews.
 
-Parents can review Childcare Providers by rating them between 1 and 5 stars and can add some custom written text alongside their review. These reviews are made available via our site alongside with any response made by the Childcare Provider to which the review relates.
+4.2 Automated information such as the internet protocol (IP) address used to connect your device to the internet, connection information such as browser type and version, information about your device including device-type and device identifier, operating system and platform, mobile network data, a unique reference number linked to the data you enter on our system, login details, the site from which you arrived at our service, details of your activity with date / time stamps including pages you visited and your searches / transactions. 
 
-## IP addresses and cookies
+4.3 If you log in via Facebook: Information provided by Facebook including your name, email address, date of birth and general location.
 
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
+## 5. What’s our reason / legal basis for collecting the information?
 
-For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us:
+5.1 Because it’s necessary to provide you with our services under our contract with you. We may use it for other purposes (such as email marketing) if you consent. In the case of other data such as automated information collected when you browse our site, we use this to manage and improve our service (including security and fraud prevention) in accordance with our “legitimate interests”.
 
-To estimate our audience size and usage pattern.
+## 6. What about cookies?
 
-To store information about your preferences, and so allow us to customise our site according to your individual interests.
+6.1 We and/or third parties use cookies and other tracking technologies on our website. A cookie is an identifier (a small file of letters and numbers) that is sent to your computer. Our website’s functionality will be limited if you configure your browser to reject cookies. 
 
-To speed up your searches.
+6.2 Cookies are widely used to make websites work, or work more efficiently, as well as to provide information to the website owner or others. Session cookies are temporary cookies that remain in the cookie file of your browser only until your browser is closed. They allow websites to link your actions during a browser session. Persistent cookies stay in the cookie file of your browser for longer (how long will depend on the lifetime of the specific cookie). For further information on cookies, including how to use your browser to block them and how to delete cookies already stored on your device, visit: [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-To recognise you when you return to our site.
+6.3 The following kinds of cookies may be used on this website:
 
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
+a) Session cookies: These are essential for our service and enable us to keep track of your movement from page to page and store your selections so you do not get asked repeatedly for the same information. They allow you to proceed through many pages of the site quickly and easily without having to authenticate or reprocess each new area you visit. For example, a session cookie remembers your shopping cart selection so you will have the items you selected when you are ready to check out. 
 
-We use third party vendors, including Google, to show adverts for our site on the internet. These vendors, may use cookies to show you adverts based on your prior visits to our site. You can opt-out of this use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).
+b) Mobile app session IDs: Similarly, these are used to authenticate you while you are using our mobile app. 
 
-Please note that our advertisers may also use cookies, over which we have no control.
+c) Facebook cookies: Facebook places third party persistent cookies (up to a year) to authenticate you if you log in via Facebook. Click [here](https://www.facebook.com/policies/cookies/) for more information. If you register or log into our service via Facebook, you will be automatically logged into our service as long as you remain logged in to Facebook. If you specifically log out of our service, we place a persistent cookie to prevent the automatic login happening on future visits.
 
-## Where we store your personal data
+d) Referral cookies: Persistent cookies (up to 30 days) are placed to track referrals from websites affiliated with us so we can pay affiliates and assess the effectiveness of the affiliate links. 
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ( **EEA** ). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+e) Google cookies: Persistent cookies (up to four years we believe) are set in connection with the following Google services on our site and these cookies may involve certain information (such as your IP address and web address of the page you’re visiting) being sent to Google:
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+i) Google Analytics (“GA”): We use cookies to recognise and count the number of website visitors as well as providing other information about the visit such as duration, route through the website and what sites the visitor came from. This information helps us to improve the way our website works, for example by making sure users find what they need easily. You can specifically opt out of GA [here](https://tools.google.com/dlpage/gaoptout/). See below for other opt out routes.
 
-## Uses made of the information
+ii) GA Advertising Features: We may use the following GA Advertising Features: Remarketing with GA / Google Display Network Impression Reporting / GA Demographics and Interest Reporting / Integrated services that require GA to collect data via advertising cookies and anonymous identifiers. These features involve GA collecting data via Google or other advertising cookies including for display of ads which may be of interest based on your visits to this and other sites. You can specifically opt out of GA [here](https://tools.google.com/dlpage/gaoptout/). You can opt of GA Advertising Features at [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices). See below for other opt out routes. 
 
-We use information held about you in the following ways:
+iii) Google advertising cookies (AdSense, Doubleclick): Google uses cookies in connection with Google advertising on our website to serve ads to you based on your visits to this and other websites, to avoid showing you repeat ads and for various other purposes. You can opt out at [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices). See below for other opt out routes
 
-To ensure that content from our site is presented in the most effective manner for you and for your computer.
+More information and opt out: Click [here](https://policies.google.com/privacy?hl=en-GB&gl=uk) for Google’s privacy policy and [here](https://policies.google.com/technologies/types?hl=en-GB&gl=uk) for more information about the kinds of cookies placed by Google. Click [here](https://policies.google.com/technologies/partner-sites) for information about how Google uses data from its partners’ sites or apps as well as different ways to opt out of Google cookies. 
 
-To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
+f) Gosquared cookies: Cookies are used on our site to enable Gosquared analytics services. See [here](https://www.gosquared.com/legal/privacy/statement/) for more details including opt out information.
 
-To carry out our obligations arising from any contracts entered into between you and us.
+g) Social media cookies: We may use various social media sharing and other features including: [Facebook](https://www.facebook.com/policies/cookies/) and [Twitter](https://help.twitter.com/en/rules-and-policies/twitter-cookies). These features may involve the relevant companies using cookies or linking your visit with cookies previously placed by them on your computer in order for them to collect information relating to your visit to our website or your interaction with their services or otherwise. Click the links shown above for further information including how to opt out where this is possible. 
 
-To allow you to participate in our services (including any interactive features (such as our web-based private messaging system), when you choose to do so).
+h) Cookie-warning cookie: This cookie takes note of whether you are happy to accept cookies on this website based on your response to the message which appeared when you first visited the website. This persistent cookie will remember your preference for up to 90 days. 
 
-To notify you about changes to our service.
+## 7. What do we do with personal information? 
 
-We will not pass your data to any third parties other than to a Parent or to a Childcare Provider as contemplated by our [Terms and Conditions](https://web.archive.org/information/terms) or by this Privacy Policy.
+7.1 Provide our service, e.g. send service messages, provide local search results, process payments, fulfil orders. 
 
-If you do not want us to use your data in this way please notify us at via our website contact page at [www.childcare.co.uk/contact](http://www.childcare.co.uk/contact). Please note, however, that if you do not wish to pass your details to Parents or Childcare Providers (as applicable) you will not be able to participate in any services advertised via our site.
+7.2 Send you marketing messages, if you have given permission. You can withdraw permission at any time as explained on our service or by emailing us at the above email address. 
 
-## Disclosure of your information
+7.3 Use it to recognise you when you visit or return to our service to track anonymised traffic and usage patterns, prevent or detect fraud or abuses and help us improve our service. 
 
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+## 8. How long do we keep it? 
 
-We may disclose your personal information to third parties:
+8.1 We will generally keep your information for up to six years after your account is closed - for tax reasons and/or to help deal with any disputes. That timeframe may vary if we are legally required to keep information for a particular period. We will keep your information which we use for marketing until you tell us to stop sending you marketing messages. 
 
-You acknowledge that where you provide us with personal information, your profile information will: (a) be made available to Parents/Childcare Providers who subscribe to our services; and (b) appear on our website and thus be in the public domain. Profiles of Childcare Providers and Parents must not, therefore, contain any contact information, such as email addresses, telephone numbers or addresses.
+## 9. To whom do we send or make available your personal information? 
 
-If you choose to create a public profile on our website then it may be indexed and stored by search engines such as Google.
+9.1 To other people who supply us with a service, e.g. e-commerce platform providers, website hosts, content delivery networks and businesses which help us send communications, gather feedback or monitor our website. 
 
-You can elect to hide your profile from our website and change other Privacy settings in relation to your account by going to [www.childcare.co.uk/myprivacy](http://www.childcare.co.uk/myprivacy)
+9.2 To the relevant insurance provider, if you opt in to the insurance scheme offered on our service. This information will include your name, contact details, childminder status and employer reference number, if applicable.
 
-In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+9.3 To other users of our service, if you enter personal information into a public profile or otherwise include it in a review or other public action on our service. Or if you give other users access to your documents which include personal information (e.g. regulatory certifications or criminal record checks). You can control your privacy settings at [www.childcare.co.uk/myprivacy](https://www.childcare.co.uk/myprivacy). Your profile and reviews will be automatically removed from our site if you close your account.
 
-If International New Media Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+9.4 To the police or other relevant authorities or to complainants, if we think the personal information breaches our terms and conditions, or it is necessary to protect us or others, or that a criminal offence may have been committed, or where required by law or where requested by the police or other appropriate authorities.
 
-If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms and conditions](https://web.archive.org/information/terms) and other agreements; or to protect the rights, property, or safety of International New Media Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection, crime prevention and credit risk reduction.
+9.5 To potential buyers so far as reasonably necessary, in the case of an actual or proposed (including negotiations for a) sale or merger or business combination involving all or the relevant part of our business.
 
-## Access to information
+## 10. What happens to your payment details?
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+10.1 These go direct to our payment partners. We do not receive such information except as stated above. To ensure your details are not being used without consent, our payment partners may send your personal information to relevant third parties including credit reference and fraud prevention agencies, who may keep a record of that information.
 
-## Changes to our privacy policy
+## 11. Do we send your information outside the European Union?
 
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+11.1 Your personal information which we collect is stored within the EU and is not transferred to any third countries except for the following.
 
-## Contact
+11.2 Your personal information may be transferred to the US by the following companies certified under the [EU-US Privacy Shield Framework](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/eu-us-privacy-shield_en), which provides certain safeguards for your personal information: Google (analytics and “Crashlytics”), Mixpanel (analytics), Mailchimp (email delivery), Postmark (Wildbit LLC – email delivery), Paypal (payment), Recurly (payment), Rollbar (error reporting), Slack (online tools).
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to us via our website at [www.childcare.co.uk/contact](http://www.childcare.co.uk/contact)
+## 12. What rights do you have? 
+
+12.1 If the legal requirements are met: To ask us for access to your personal information, to rectify it if there are mistakes, to delete or restrict or object to its use in certain circumstances or to “data portability”. 
+
+12.2 If you have a complaint about how we are dealing with your personal information, please contact us via the email address above. If you are not happy with our response or think we are not handling your personal information in accordance with the law, you can complain to the Information Commissioner’s Office (ICO).
+
+12.3 For more information about your rights, visit the ICO’s website: [www.ico.org.uk](https://www.ico.org.uk/).
+
+**Version: 2.0 Revision C0AD12E**
