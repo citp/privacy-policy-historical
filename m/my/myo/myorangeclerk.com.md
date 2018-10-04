@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myorangeclerk.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182241id_/https%3A//myorangeclerk.com/Misc-Pages/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myorangeclerk.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004040526id_/https%3A//myorangeclerk.com/Misc-Pages/Privacy-Statement) for the most accurate reproduction.*
 
 # My Orange Clerk Home
 
