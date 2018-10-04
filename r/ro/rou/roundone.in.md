@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roundone.in privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614221736id_/http%3A//www.roundone.in/app_term_cond.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roundone.in privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004161809id_/http%3A//www.roundone.in/app_term_cond.html) for the most accurate reproduction.*
 
 # Terms & Conditions
 
