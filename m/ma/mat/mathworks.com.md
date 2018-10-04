@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathworks.com privacy policy that was archived on 2018-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180423193144id_/https%3A//www.mathworks.com/company/aboutus/policies_statements.html%3Fs_tid%3Dgf_priv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathworks.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004064336id_/https%3A//www.mathworks.com/company/aboutus/policies_statements.html%3Fs_tid%3Dgf_priv) for the most accurate reproduction.*
 
 # Policies and Statements - MATLAB & Simulink
 
@@ -6,7 +6,7 @@
 
 _Updated April 11, 2018_
 
-The MathWorks, Inc. (“MathWorks”) and its [worldwide offices](https://www.mathworks.com/company/worldwide.html) take your privacy seriously. This Privacy Policy describes what personal data we collect from you when you interact with MathWorks or use our products and services. It explains how we use your personal data and what rights and options you have. This Privacy Policy also describes our compliance with global privacy laws, including the European Union General Data Protection Regulation (GDPR), and our certification in the [EU-US Privacy Shield and Swiss-US Privacy Shield](https://www.privacyshield.gov/) frameworks.
+The MathWorks, Inc. (“MathWorks”) and its [worldwide offices](https://web.archive.org/company/worldwide.html) take your privacy seriously. This Privacy Policy describes what personal data we collect from you when you interact with MathWorks or use our products and services. It explains how we use your personal data and what rights and options you have. This Privacy Policy also describes our compliance with global privacy laws, including the European Union General Data Protection Regulation (GDPR), and our certification in the [EU-US Privacy Shield and Swiss-US Privacy Shield](https://www.privacyshield.gov/) frameworks.
 
 MathWorks does not sell or rent your information. We only disclose your information to third parties for the limited purposes described in this Privacy Policy.
 
@@ -125,7 +125,8 @@ For GDPR purposes, MathWorks representative is The MathWorks GmbH, Adalperostr. 
 
 MathWorks is certified under the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Economic Area and Switzerland to the United States, respectively. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, visit <https://www.privacyshield.gov/>. MathWorks is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
 
-In compliance with privacy laws and the Privacy Shield Frameworks, MathWorks commits to resolve complaints about your privacy and our collection or use of your personal information. Individuals with inquiries or complaints regarding this Privacy Policy, or individuals exercising their data subject rights, should first contact MathWorks by emailing [privacy@mathworks.com](mailto:privacy@mathworks.com) or by sending mail to the following address: Head of Customer Service, MathWorks, 1 Apple Hill Drive, Natick, MA 01760.
+In compliance with privacy laws and the Privacy Shield Frameworks, MathWorks commits to resolve complaints about your privacy and our collection or use of your personal information. Individuals with inquiries or complaints regarding this Privacy Policy, or individuals exercising their data subject rights, should first contact MathWorks by emailing [privacy@mathworks.com](mailto:privacy@mathworks.com) or by sending mail to the following address: Head of Customer Service, MathWorks, 1 Apple Hill Drive, Natick, MA 01760. Sensitive personal information may be sent by fax to 1-508-647-7061.  
+
 
 MathWorks has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, visit <http://www.bbb.org/eu-privacy-shield> for more information and to file a complaint. Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield panel.
 
@@ -137,9 +138,9 @@ MathWorks may modify this Privacy Policy at any time, and such modifications sha
 
 Most MathWorks products and services are accessed using your MathWorks Account. Your name, email address, country, and the reason for your use of MathWorks products and services are required to create a MathWorks Account. This information is provided by either you or your organization at the time the account is created. We do not allow children under 13 to create a MathWorks Account. Accounts for children must be created by an authorized adult who can consent on the child’s behalf.
 
-You have the option of using [Two-Step Verification](https://www.mathworks.com/mw_account/two_step_verification/frequently-asked-questions.html) for your MathWorks Account. This option can be enabled or disabled from the Security Settings page when you are logged into your MathWorks Account. If you enable Two-Step Verification, you will provide an email address or phone number where we can send you verification codes. We will only use this information for the purpose of sending you verification messages. MathWorks uses a third-party communications provider to send the text messages used for Two-Step Verification. We have a contract that requires the communications provider to keep your phone number confidential, only use it for the purpose of sending verification codes, and only retain it as required by law. You may also be able to receive verification codes via a third-party app that you choose to install on your mobile device.
+You have the option of using [Two-Step Verification](https://www.mathworks.com/mw_account/two_step_verification/frequently-asked-questions.html) for your MathWorks Account. This option can be enabled or disabled from the Security Settings page when you are signed in your MathWorks Account. If you enable Two-Step Verification, you will provide an email address or phone number where we can send you verification codes. We will only use this information for the purpose of sending you verification messages. MathWorks uses a third-party communications provider to send the text messages used for Two-Step Verification. We have a contract that requires the communications provider to keep your phone number confidential, only use it for the purpose of sending verification codes, and only retain it as required by law. You may also be able to receive verification codes via a third-party app that you choose to install on your mobile device.
 
-When you are logged in with your MathWorks Account, MathWorks can associate your login and usage with licenses and subscriptions to MathWorks products and services to which you have access.
+When you are signed in with your MathWorks Account, MathWorks can associate your login and usage with licenses and subscriptions to MathWorks products and services to which you have access.
 
 ### 2\. Web site and online services
 
@@ -151,7 +152,7 @@ When you visit the MathWorks web site or otherwise use our online services, one 
 
 Although web browsers typically allow cookies by default, you may choose not to receive cookies by modifying the settings of your web browser to disable cookies. You can also set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. If you choose to decline cookies, you may not be able to take advantage of all the features of the MathWorks web site and online services.
 
-Some cookies are used for internal purposes, such as keeping you logged in to your MathWorks Account or telling us which pages you have visited. Other cookies are shared with third parties; see the web analytics, social media, and third-party advertising section below for an explanation of how these are used. MathWorks also sets cookies that look at your preferences when you use the web site so that MathWorks may offer you tailored marketing information that you may be interested in.
+Some cookies are used for internal purposes, such as keeping you signed in to your MathWorks Account or telling us which pages you have visited. Other cookies are shared with third parties; see the web analytics, social media, and third-party advertising section below for an explanation of how these are used. MathWorks also sets cookies that look at your preferences when you use the web site so that MathWorks may offer you tailored marketing information that you may be interested in.
 
 ### 4\. Web analytics, social media, and third-party advertising
 
@@ -201,7 +202,7 @@ For students and personnel at educational institutions that elect to use the Shi
 
 ### 13\. MATLAB Grader (Cody Coursework) and self-paced online courses
 
-MATLAB Grader (Cody Coursework) and most self-paced online courses require you to log in with your MathWorks Account. These services collect and store your learning records, including what assignments you have completed and your progress on the assignments. Your learning records may be shared with your organization or account administrator.
+MATLAB Grader (Cody Coursework) and most self-paced online courses require you to sign in with your MathWorks Account. These services collect and store your learning records, including what assignments you have completed and your progress on the assignments. Your learning records may be shared with your organization or account administrator.
 
 ### 14\. MOOCs, online textbooks, learning management systems, and other online learning environments
 
@@ -217,7 +218,7 @@ If you register for, attend, or express interest in one of our in-person or onli
 
 MathWorks supports student competitions, both by itself and in collaboration with other organizations. When you participate in a competition, MathWorks collects your contact information, the name of your educational institution, and information about your interest or expertise in MathWorks products and services. MathWorks may receive this information either directly from you, from a team leader on your behalf, or from an organization holding or supporting the competition.
 
-_If you have questions about this Privacy Policy or MathWorks privacy practices,[contact us](https://www.mathworks.com/company/feedback.html) at [privacy@mathworks.com](mailto:privacy@mathworks.com)._
+_If you have questions about this Privacy Policy or MathWorks privacy practices,[contact us](https://web.archive.org/company/feedback.html) at [privacy@mathworks.com](mailto:privacy@mathworks.com)._
 
 #### Information We May Collect
 
@@ -254,8 +255,10 @@ Through Web forms and other online collection methods, we may ask you to provide
 
 
 
-Choose your country to get translated content where available and see local events and offers. Based on your location, we recommend that you select: ****.
+Choose a web site to get translated content where available and see local events and offers. Based on your location, we recommend that you select: **United States**. 
 
-Select 
+[Select United States web site](https://www.mathworks.com/)
 
-You can also select a location from the following list:
+You can also select a web site from the following list:
+
+[Contact your local office](https://www.mathworks.com/)
