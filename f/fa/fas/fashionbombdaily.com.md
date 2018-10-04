@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionbombdaily.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207063710id_/http%3A//fashionbombdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionbombdaily.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004185830id_/http%3A//fashionbombdaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fashion Bomb Daily Style Magazine: Celebrity Fashion, Fashion News, What To Wear, Runway Show Reviews
 
