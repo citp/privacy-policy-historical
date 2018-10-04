@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wegmans.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606224900id_/https%3A//www.wegmans.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wegmans.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004044950id_/https%3A//www.wegmans.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Wegmans
 
@@ -82,7 +82,7 @@ Also, our mobile applications collect information about the location of your dev
 
 ### **Pharmacy**
 
-[Pharmacy customers can find our Notice of Privacy Practices here.](https://web.archive.org/content/dam/wegmans/pdf/rx/wegmans-pharmacy-notice-of-privacy-practice.pdf)
+Pharmacy customers can find our Notice of Privacy Practices [here](https://web.archive.org/content/dam/wegmans/pdf/rx/wegmans-pharmacy-notice-of-privacy-practice.pdf).
 
 ### **Children's Privacy**
 
