@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doctoroz.com privacy policy that was archived on 2018-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180409173250id_/http%3A//www.doctoroz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctoroz.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004195841id_/https%3A//www.doctoroz.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | The Dr. Oz Show
 
@@ -6,7 +6,7 @@
 
 This privacy policy will advise you about our guidelines concerning the use of your personal information, including, without limitation, the reasonable efforts we make to protect your personal information in accord with these guidelines, and about what choices you have concerning our use of such information. Please read this policy carefully. We may need to change this policy from time to time in order to address new issues and reflect changes on our sites. We will post those changes here so that you will always know our policies regarding what information we gather, how we might use that information and whether we will disclose that information to anyone. Please refer back to this policy regularly.
 
-If you have any questions or concerns about our privacy policy, please submit your inquiry at [www.doctoroz.com/contact](http://www.doctoroz.com/contact).
+If you have any questions or concerns about our privacy policy, please submit your inquiry at [www.doctoroz.com/contact](https://www.doctoroz.com/contact).
 
  **Scope of Privacy Policy**  
 This policy applies to your use of all the sites and services owned or operated by ZoCo Productions, LLC  (“ZoCo”) and affiliated companies (collectively "we," "us" or "our"), including Doctoroz.com and any other site that we may own or operate currently or in the future (collectively, the "Sites"). Unless we say otherwise, all references to the Sites in this policy include all such sites. This policy does not apply to your use of unaffiliated sites to which any of the Sites only link. This policy covers only information collected on the Sites and does not cover any information collected offline by us.
@@ -74,4 +74,4 @@ If you "opt in" to receive information from us or others, you can change your mi
 The Sites are operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our website, participating in any of our services and/or providing us with your information, you consent to this transfer.
 
  **Your Acceptance of These Terms**  
-By using any of the Sites, you signify your acceptance of our Privacy Policy, your promise to comply with the representations you make and contained in the [Terms and Conditions](http://www.doctoroz.com/legal) and [Privacy Policy](http://www.doctoroz.com/privacy) and your understanding of the scope and limitations of the protections provided under the Privacy Policy and Terms and Conditions. If you do not agree to these policies, please do not use our Sites. Your continued use of the Sites following the posting of changes to these terms will mean that you accept those changes.
+By using any of the Sites, you signify your acceptance of our Privacy Policy, your promise to comply with the representations you make and contained in the [Terms and Conditions](https://www.doctoroz.com/legal) and [Privacy Policy](https://www.doctoroz.com/privacy) and your understanding of the scope and limitations of the protections provided under the Privacy Policy and Terms and Conditions. If you do not agree to these policies, please do not use our Sites. Your continued use of the Sites following the posting of changes to these terms will mean that you accept those changes.
