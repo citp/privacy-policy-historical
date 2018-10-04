@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the binaryoptions.net privacy policy that was archived on 2017-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170119134102id_/http%3A//www.binaryoptions.net/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binaryoptions.net privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004081341id_/https%3A//www.binaryoptions.net/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ By using our website and reading out articles, you abide to the privacy policy h
 
 **Users Privacy**
 
-We do not collecting personal information from any of our users, except in cases where this is strictly necessary.  We do not pass on or sell your personal information to any third parties or operators.  If you would like to contact us or provide a complaint, can do so through our [contact page](http://www.binaryoptions.net/about-us/contact-us/) here.
+We do not collecting personal information from any of our users, except in cases where this is strictly necessary.  We do not pass on or sell your personal information to any third parties or operators.  If you would like to contact us or provide a complaint, can do so through our [contact page](https://www.binaryoptions.net/about-us/contact-us/) here.
 
 **Cookie Tracking Software**
 
