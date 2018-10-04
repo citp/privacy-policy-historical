@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futures.io privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606185302id_/https%3A//futures.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futures.io privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004121940id_/https%3A//futures.io/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - futures.io Forum
 
