@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aplaceformom.com privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319102707id_/https%3A//www.aplaceformom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aplaceformom.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004061613id_/https%3A//www.aplaceformom.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | A Place for Mom
 
@@ -23,7 +23,7 @@ In addition, we may use Web site analytics tools, or other technologies, like co
 
 Like many Web Sites, we use "cookies", which are small text files that are stored on your computer or equipment when you visit certain online pages that record your preferences. We use cookies to track use of our Sites and online services. We also may use cookies to monitor traffic, improve the Sites and make the Sites easier and/or relevant for your use. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you usually can modify your browser setting to decline cookies if you prefer. If you choose to accept cookies, you also have the ability to later delete cookies that you have accepted. In Internet Explorer 8, you can delete cookies by selecting "Tools", "Delete browsing history". Then select the control box "Cookies" and click the "Delete" button. If you choose to delete cookies, any settings and preferences controlled by those cookies, including advertising preferences, will be deleted and may need to be recreated. 
 
-We also use cookies to improve the performance of our advertising on other websites. Although you may not opt out of receiving online advertisements generally, you may control the collection of data on our site used for targeted aplaceformom.com advertising during your visits to other websites. To opt-out of aplaceformom.com data collection for targeted advertising on other sites, click here: [Opt Out Now.](http://media.aplaceformom.com/optout.html)
+We also use cookies to improve the performance of our advertising on other websites. Although you may not opt out of receiving online advertisements generally, you may control the collection of data on our site used for targeted aplaceformom.com advertising during your visits to other websites. To opt-out of aplaceformom.com data collection for targeted advertising on other sites, click here: [Opt Out Now.](https://www.aplaceformom.com/email?optout=true)
 
 Please be advised that the practices described in this Privacy Policy apply to information gathered online at our Sites, and to information that you may submit to us offline; to Web sites maintained by other companies, or organizations to which we may link; and to Personal Information we may collect further from third parties. 
 
@@ -73,7 +73,7 @@ We do not intend, and these Sites are not designed, to collect Personal Informat
 
 ## YOUR CALIFORNIA PRIVACY RIGHTS
 
-Companies that collect personally identifiable information from California residents and disclose such information to third parties for marketing purposes must, in response to a request by a consumer, either (1) provide a list detailing the categories of information shared and the entities to which such information was provided, or (2) provide a mechanism by which a consumer may opt-out of having their information shared with third parties. We have elected the second option and you may request that your personally identifiable information not be shared with third parties by sending your request, including your full name, email address and postal address to: A Place for Mom, Inc. Attn: General Counsel, 701 5th Ave, Suite 3200, Seattle, WA 98104. In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, Suite 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov
+Companies that collect personally identifiable information from California residents and disclose such information to third parties for marketing purposes must, in response to a request by a consumer, either (1) provide a list detailing the categories of information shared and the entities to which such information was provided, or (2) provide a mechanism by which a consumer may opt-out of having their information shared with third parties. We have elected the second option and you may request that your personally identifiable information not be shared with third parties by sending your request, including your full name, email address and postal address to: A Place for Mom, Inc. Attn: General Counsel, 701 5th Ave, Suite 3200, Seattle, WA 98104. In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, Suite 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ## DO NOT TRACK DISCLOSURES
 
@@ -93,7 +93,7 @@ You agree to be contacted by a Senior Living Advisor and by our senior living pa
 
 ## QUESTIONS AND CONCERNS
 
-If you have any questions about this Privacy Policy or the privacy practices of our Sites, please contact us at [privacy@aplaceformom.com](mailto:privacy@aplaceformom.com)
+If you have any questions about this Privacy Policy or the privacy practices of our Sites, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#eb9b99829d8a8892ab8a9b878a888e8d8499868486c5888486)
 
 ## GOVERNING LAW
 
@@ -181,7 +181,7 @@ We do not intend, and these Sites are not designed, to collect Personal Informat
 
 ## QUESTIONS AND CONCERNS
 
-If you have any questions or concerns about this Privacy Policy or the privacy practices of our Sites, please contact us at [privacy@aplaceformom.com](mailto:privacy@aplaceformom.com) or call us at 866-333-8445.
+If you have any questions or concerns about this Privacy Policy or the privacy practices of our Sites, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3c4c4e554a5d5f457c5d4c505d5f595a534e515351125f5351) or call us at 866-333-8445.
 
 ## GOVERNING LAW
 
