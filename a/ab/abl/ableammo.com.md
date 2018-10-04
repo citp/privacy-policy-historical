@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ableammo.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119102258id_/http%3A//www.ableammo.com/catalog/shipping.php%23privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ableammo.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004122945id_/https%3A//www.ableammo.com/catalog/shipping.php%23privacy_policy) for the most accurate reproduction.*
 
 # Able Ammo
 
@@ -27,9 +27,9 @@ Firearms, Ammunition, Blackpowder Firearms, Airguns, Replica Firearms, Airsoft G
 
 On some occasions depending on your time zone, orders submitted after 10 A.M. (CDT) may not be processed until the next day. Orders placed on Fridays may not be processed until the next business day (Monday). Allow 2-3 business days to process most orders, excluding weekends and holidays. 
 
-  * Ammunition can be shipped UPS Ground _only_.
+  * Ammunition can be shipped FedEX Ground _only_.
   * All handguns _must be_ shipped by air freight regardless of location.
-  * UPS _may_ require an adult signature upon delivery.
+  * FedEX _may_ require an adult signature upon delivery.
   * Rifles and shotguns can be shipped by Ground. 
   * For safety reasons, we _do not_ accept returns on ammunition.
   * We only ship to the contiguous 48 states and to Alaska and Hawaii. (Some restrictions may apply).
