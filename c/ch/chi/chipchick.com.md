@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chipchick.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223054148id_/http%3A//www.chipchick.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chipchick.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004154256id_/https%3A//www.chipchick.com/about/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Chip Chick
+# Privacy Policy – Chip Chick
 
 This Privacy Policy discloses the privacy practices for the chipchick.com website (the “Website”). Chip Chick Media Inc, the provider of the Website (referred to as “Chip Chick” “us” or “we”), is committed to protecting your privacy online. Please read the following to learn what information we collect from you (the “User” or the “End User”) and how we use that information. If you have any questions about our privacy policy, please email us.
 
@@ -89,6 +89,4 @@ If you choose to opt out of interest-based ads on your mobile device, you’ll s
 
 Chip Chick Media Inc
 
-Tel: 646.525.2447
-
-email: info @ chipchick.com
+email: chipchick @ chipchick.com
