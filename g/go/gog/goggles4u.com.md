@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goggles4u.com privacy policy that was archived on 2016-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160925065617id_/http%3A//www.goggles4u.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goggles4u.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004140853id_/https%3A//www.goggles4u.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -95,3 +95,5 @@ http://www.Goggles4u.com
 Cerritos, CA 90703
 
 USA
+
+© 2004-2018 Goggles4u Eyeglasses California. All Rights Reserved.
