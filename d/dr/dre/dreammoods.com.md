@@ -1,21 +1,34 @@
-> *The following text is extracted and transformed from the dreammoods.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618204450id_/http%3A//www.dreammoods.com/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreammoods.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004161910id_/http%3A//www.dreammoods.com/privacystatement.htm) for the most accurate reproduction.*
 
 # Dream Moods: Privacy Statement
 
 ** **
 
-We, at [Dream Moods](http://www.dreammoods.com/index.html), recognize your right to confidentiality and has created this privacy statement in order to demonstrate our firm commitment to protecting your privacy. The following discloses the information gathering and dissemination practices for [Dream Moods.](http://www.dreammoods.com/index.html)
+We, at [Dream Moods](http://www.dreammoods.com/index.html), recognize your right to confidentiality and has created this privacy statement to disclose the information gathering and dissemination practices that we employ.
 
   
-**Information Automatically Logged** : We use your IP address to gather broad demographic information and  as a way of diagnosing problems with our server and to administer and monitor our site.
+**Information Automatically Logged** : When you visit DreamMoods.com, your IP address is automatically logged. The IP address is used to gather broad demographic information, to diagnose possible issues with our server and to administer and monitor our site.
 
-**Advertisers:** We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
+We use Google Analytics to provide information of where in the world users are coming from and how they are finding the site.
 
-Also some of these third-party ads may contain cookies. While we use cookies in other parts of our web site, cookies received with banner ads are collected by the ad companies themselves;  we do not have access to this information. 
+  
+**Advertisers:** We use third-party advertising companies to serve ads when you visit our website. Most of our third-party advertisers use cookies to help serve targeted online advertising. Cookies received with ads are collected by the ad companies themselves; we do not have access to this information.
 
-**Personal Information:** Certain information you submit to Dream Moods may be displayed on the site as a way to help others and increase interactivity. It may also allow us to combine the information with our other users' information and review it an an aggregate form to understand the type of individuals who visit our site. Our goal is to customize and personalize our web presence. 
+As our partners, the below mentioned advertising companies have legitimate interests to collect and profile personal data in the form of IP addresses and cookie IDs from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their privacy policy or contact their data protection officer via the below email addresses.
 
-We do not disclose your personal information except if required by a subpoena or court order. We do not sell, trade or share your email addresses  to any third parties or provide any information that allows you to be personally contacted.
+   Conversant, Inc's [privacy policy](https://www.conversantmedia.com/legal/privacy) \- [feedback form](http://www.conversantmedia.com/feedback?t=g)
+
+   Exponetial Internative, Inc's [privacy policy](http://exponential.com/privacy/) -  [privacy@exponential.com](mailto:privacy@exponential.com)
+
+   Index Exchange's [privacy policy](http://www.indexexchange.com/privacy/) \- [feedback form](http://www.indexexchange.com/contact/)
+
+   Rhythm One's [privacy policy](https://www.rhythmone.com/privacy-policy#rhythmonelink) \- [privacy@radiumone.com](mailto:privacy@radiumone.com) 
+
+   Sovrn Holdings, Inc's [privacy policy](https://www.sovrn.com/privacy-policy/). - [privacy@sovrn.com](mailto:privacy@sovrn.com)
+
+**Personal Information:** Certain information you voluntarily submit to Dream Moods may be displayed on the site as a way to help others and increase interactivity. We also look at the information and review it an an aggregate form to understand the type of individuals who visit our site. Our goal is to customize and personalize our web presence. 
+
+We do not disclose your personal information except if required by a subpoena or court order. We do not sell, trade or share your email addresses to any third parties or provide any information that allows you to be personally contacted.
 
 **External Links:** This site contains links to other sites. Dream Moods is not responsible for the privacy practices or the content of these web sites. 
 
@@ -25,7 +38,6 @@ Note also that when using the discussion forums, a "cookie" will be placed on yo
 
 **Children's Online Privacy Protection:** Dream Moods is not intended for children under age of 13.  No one under 13 is allowed to provide any personal information or use the discussion forums. We do not and will not intentionally maintain information about anyone under the age of 13. We regret any inconvenience this may cause. If you are a parent and are aware that your child is a member in our forum, please email [forums@dreammoods.com](mailto:forums@dreemmoods.com) to have their account terminated.
 
-  
 **Contacting The Web Site** : If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [privacy@dreammoods.com](mailto:contact@dreammoods.com).
 
 [](http://www.dreammoods.com/cgibin/birdcast.cgi)        
