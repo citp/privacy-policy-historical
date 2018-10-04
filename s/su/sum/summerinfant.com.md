@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the summerinfant.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705111852id_/https%3A//www.summerinfant.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the summerinfant.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005001249id_/https%3A//www.summerinfant.com/privacy-policy) for the most accurate reproduction.*
 
 # Summer Infant - Baby Products
 
@@ -9,13 +9,11 @@ We may collect the following information: name and/or baby(s) name, contact info
 
   What we do with the information we gather? We require this information to understand your needs and provide you with better products.  We may also monitor your content to make sure you are complying with our Acceptable Use Policy.  Here are some other ways we may use your information:
 
-  * -Internal record keeping. We may use the information to improve our products and customer service. We may periodically send promotional email or social media postings about new products, special offers from Summer Infant or one of our retailers, contests, or other information which we think you may find interesting using the email address which you have provided. If you subscribe to a fee-bearing service, we may use the information to collect the fees that we charge and to limit access to your account to those whom you authorize to use it.
+-Internal record keeping. We may use the information to improve our products and customer service. We may periodically send promotional email or social media postings about new products, special offers from Summer Infant or one of our retailers, contests, or other information which we think you may find interesting using the email address which you have provided. If you subscribe to a fee-bearing service, we may use the information to collect the fees that we charge and to limit access to your account to those whom you authorize to use it.
 
- 
+-Market research purposes. We may contact you by email, phone, fax or mail to conduct market research.  We may use the information to customize the website according to your interests. We may provide your information to our third party partners for marketing or promotional purposes. We will never sell your information. 
 
--Market research purposes. We may contact you by email, phone, fax or mail to conduct market research.  We may use the information to customize the website according to your interests. We may provide your information to our third party partners for marketing or promotional purposes. We will never sell your information.
-
-  **Security**  
+**Security**  
 We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
   **How we use cookies**  
@@ -28,11 +26,11 @@ A cookie is a small file that asks permission to be placed on your computer's ha
   **Controlling your personal information**  
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-  Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes.  If there is no box, or if you have previously agreed to us using your personal information for direct marketing purposes and no longer want us to do so, you may change your preference at any time by writing to or emailing us at [info@summerinfant.com](mailto:info@summerinfant.com).
+  Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes.  If there is no box, or if you have previously agreed to us using your personal information for direct marketing purposes and no longer want us to do so, you may change your preference at any time by writing to or emailing us at [info@summerinfant.com](mailto:info@summerinfant.com).
 
   We do not sell, or lease your personal information to third parties. We may use your personal information to send you promotional information about third parties that we think you may find interesting if you tell us that you wish this to happen. You may request details of personal information that we hold about you and request that we make corrections to any inaccuracies in our records that pertain to your personal information.
 
-  If you wish to obtain a copy of the personal information about you that is in our possession, please write to or email us at: [customerservice@summerinfant.com](mailto:customerservice@summerinfant.com)
+  If you wish to obtain a copy of the personal information about you that is in our possession, please write to or email us at: [customerservice@summerinfant.com](mailto:customerservice@summerinfant.com)
 
   Summer Infant Consumer Relations Department  
 1275 Park East Drive  
