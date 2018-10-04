@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engineeringfeed.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204035841id_/http%3A//engineeringfeed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engineeringfeed.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004081441id_/http%3A//engineeringfeed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Engineering Feed
 
