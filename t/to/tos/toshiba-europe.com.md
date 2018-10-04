@@ -1,50 +1,93 @@
-> *The following text is extracted and transformed from the toshiba-europe.com privacy policy that was archived on 2018-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180429171200id_/http%3A//www.toshiba.eu/generic/privacy-policy-nep) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toshiba-europe.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004053600id_/http%3A//www.toshiba.eu/generic/privacy-policy) for the most accurate reproduction.*
 
-# Toshiba
+# Privacy Policy - Toshiba
 
-Toshiba places great importance on respecting the personal rights of all visitors to its websites and users of online communication services. 
+**Toshiba of Europe is committed to protecting and respecting your privacy.**
 
-Please find below our DATA PROTECTION DECLARATION, informing you of the nature and extent of the personal data collected via these websites and online communication services, as well as the purposes for which this data is processed and used.
+This privacy policy explains how we use any personal information we collect about you when you use this website (the “Site”). We may revise this policy and would recommend that you check the current version and the date of issue, located at the base of this document.
 
-When you visit our website, as is typical on almost all websites, our server automatically collects personal information such as your IP address (including the domain name associated with the IP address, i.e. using reverse look-up), the date and time of your visit to our website, the pages you visited on our website, the browser you are using, etc. It also stores, where available, the country from which you are accessing our website (only the ending is saved, e.g. "de" for Germany since this indicates the country), since this indicates the relevant country), the language of the browser you are using, the website from which you are accessing our website, the search word used (if our site is accessed via a search engine), as well as the type of connection and operating system. We use this information to constantly help improve your website experience. 
+ **Topics:**
 
-In general, you do not need to provide personalised information to access our websites. However, you might provide personal data to benefit from online communication services. Your personal data (e.g. your name, address, telephone number, email address, etc.) is stored only if you provide us with this information in order to use one of the services on our website (e.g. registering warranties/service, registering for a personalised web experience, signing up for the newsletter (e-mail only) or taking part in competitions). This data is then processed and used to perform the requested services. In addition, this data is only processed and used for other purposes (e.g. sending additional information about our company and products) if you have given us your advance consent to do so. Your consent is also required to transmit your personal data to third parties outside the legally permitted circumstances.
-
-On some sites, we use a "double opt-in system". This means that when you first register with us, you are sent a confirmation email containing your login details. You then need to use these details to access our website. Your registration is not activated until you have logged in with your user name and password.
-
-You have the right to receive a copy of your stored personal data at any time. In addition, you are entitled to withdraw your consent with future effect at any time. Please use the address provided under "Contacts" to do so.
-
-Our websites and online communication services are not addressed to children and young people under the age of 14. Children and young people under the age of 14 may not transmit any personal data over the Internet without the consent of their parent or guardian. We ensure that we do not knowingly store any personal data relating to minors.
-
-Some of our websites use cookies to track users' preferences and help us to structure the website optimally. Cookies are small files which are stored temporarily on your hard disk (session-based cookies). These cookies exist only until the end of the Internet session. They are used for navigation and increase the user friendliness of a website. You can still use some of our website even if you do not want cookies to be created on your computer. However, please note that some functions may be restricted and/or some websites will not be available. Most browsers accept cookies automatically. However, you can prevent this by setting your browser to block all cookies. For details, please refer to the instructions provided by your browser manufacturer.
-
-This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. We activated the “_anonymizeIp()” extension on this website so your IP address will only be processed by EU or ECC Member States of the European Union in abbreviated form. Only in exceptional cases the complete IP address will be forwarded to a server of Google in the US to be abbreviated there. On behalf of the operator of this website Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity and provide other services relating to website activity and Internet usage to the website operator. The IP address provided by your browser in line with Google Analytics will not be associated with any other data held by Google. You have the opportunity to avoid the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. Additionally you can prevent the documentation and processing of the data regarding your usage of the website (incl. your IP address) by Google by downloading and installing the following browser plug-in: http://tools.google.com/dlpage/gaoptout?hl=de]. 
-
-Our websites contain links to other websites where you can find out more about other Toshiba Corporation products, other group companies or our partners. Please note that this data protection declaration does not apply to such third party websites to which you may be redirected.
-
-On our websites, you may also find links to social media websites such as Facebook, YouTube or others. These third party websites are not operated by Toshiba Corporation. Please refer to the data privacy policies of the particular platform provider. Toshiba has no influence on the processing or usage of your personal data by any third party platform providers and is only responsible for the content that Toshiba itself provides on these third party web pages. You may be required to register on such social media websites in order to fully interact and experience Toshiba Corporation social media websites. Please note that Facebook or other platform providers may already collect personal data (e. g. IP-address) when you follow such links or when your browser connects to the social media website. 
-
-Toshiba has implemented technical and organizational security measures to guarantee the security of your personal information. Users' personal information is stored in our secure networks and access is restricted to those employees and partners who are entitled to access our systems.   
-In areas where you enter data, we work with the "Secure Socket Layer" (SSL) standard encryption system. Please note that your browser must support encryption protection. You can find this SSL encryption, for example, in Internet Explorer version 3.0 or a higher version and most other browsers. Data is stored in databases which are protected against unauthorized access by security firewalls and software. Whenever your browser displays a closed padlock symbol at the bottom of the screen, or a similar icon/highlighted web address in a different browser, this indicates that your data is being transmitted in an encrypted format.   
-If the SSL certificate is not available for technical reasons, an error page is displayed to ensure that under no circumstances your data is transmitted without encryption. 
-
-No personal data collected via this website is processed outside the European Economic Area.
-
-Toshiba reserves the right to add, delete, or modify any or all terms of the Data Protection Declaration at any time with or without notice. 
-
-You can contact us at the address below if you
-
-  * wish to correct, delete or block your personal data 
-  * wish to obtain information about the personal data we have stored about you
-  * wish to withdraw your consent, or
-  * have other questions relating to data protection at Toshiba Europe GmbH
+  * Who are we?
+  * What information do we about you?
+  * How will we use the information about you?
+  * Marketing
+  * Access to your information and correction
+  * Webserver data
+  * Cookies
+  * Your right to lodge a complaint with the supervisory authority
+  * Other websites
+  * Protection of children
+  * Changes to our privacy policy
+  * How to contact us
 
 
 
-TOSHIBA Europe GmbH  
-Legal Department  
-Hammfelddamm 8  
-41460 Neuss  
-Germany
+**Who are we?**
 
-Version May 2012
+We are Toshiba of Europe Limited, part of the Toshiba Corporation and we operate across Europe under the laws of the United Kingdom, the location of our headquarters. Our company number is 03468211 and we are registered at 3 Furzeground Way, Stockley Park, Uxbridge, Middlesex, UB11 1EZ, United Kingdom.
+
+Toshiba of Europe Limited is the data controller responsible for your personal information processed via the Site.
+
+Toshiba of Europe Limited does not directly sell or offer any products, solutions or services to businesses or individuals across Europe. Toshiba’s individual divisions are separate businesses, and each has its own privacy policy which can be accessed via that division’s website.
+
+ **What information do we collect about you?**
+
+When you use this Site, Toshiba of Europe Limited collects statistical and usage information from your visit. Further details can be found within the Cookie policy and the Webserver data section of this document. Where your personal information is completely anonymised, we do not require a legal basis to use it as the information will no longer constitute personal information that is regulated under data protection laws.
+
+We also collect personal information when you voluntarily complete customer surveys, provide feedback on our website and participate in competitions. Toshiba of Europe Limited does not currently run such activity and in any future event you will be provided full, specific terms of data collection at the point of submission. It is in our legitimate interest to use any future, personal information you provide in this way in such a way to ensure that we provide the very best services to you.
+
+Toshiba of Europe Limited does collect website usage data via cookies. Further details on the specific cookies that are being used can be found within the Cookie policy document.
+
+ **How will we use the information about you?**
+
+Toshiba of Europe Limited does not collect any personal information about you on the Site other than usage data for analytical reasons, and we do not use this to identify any individual user. We do not store, have access to or use in any way personal information about you other than data related to your use of this Site.
+
+As outlined, we will be collecting information about your activity on this website via cookies. Further details are in the Cookies section of this document.
+
+ **Marketing**
+
+As outlined, Toshiba of Europe Limited does not directly provide any products, solutions or services to either businesses or individuals across Europe. Because of this, we will not be contacting you or be performing any marketing activity which might directly target you.
+
+If this website is used as part of any extended marketing activity for a Toshiba division, then information on any relevant cookies will be located within the Cookie policy. Further information on how to define the Google ad settings on your device can be found here: <http://www.google.co.uk/policies/privacy/ads/>.
+
+Additionally, Toshiba of Europe Limited does not directly perform or engage in any ‘retargeting’ or ‘remarketing’ activity, a technique which uses your online activity to customise offers, promotions or content for you on other websites. If this website is used as part of the remarketing activity for any Toshiba division, then information on any associated cookies will be found within the Cookie policy.
+
+ **Access to your information and correction**
+
+As outlined within this document, Toshiba of Europe Limited does not collect or store any identifiable personal information about any individual. If you have any concerns that Toshiba of Europe Limited is holding any information which might identify you, then you have the right to request a copy of the information that we hold about you. Further information about data rights is set out below.
+
+To get in contact please email or write to us using the details found within our Corporate Information page. We may make a small charge for this service.
+
+ **Webserver data**
+
+When you visit the Site, as is usual on almost all websites, our server automatically collects information such as your IP address, the date and time of each visit to our website, how much data was processed and the pages visited on our website. We use this information to improve your website experience and do not use this information to identify you.
+
+ **Cookies**
+
+Cookies are text files placed on your computer to collect standard internet log information and visitor behaviour information. This information is used to track usage of the website and to compile statistical reports on website activity.
+
+Further information on the cookies deployed, how they’re used and their retention period can be found within the [Cookie policy document](https://web.archive.org/generic/cookie-policy).
+
+ **Other websites**
+
+The Site contains links to other websites, including Toshiba’s main corporation website and Toshiba division sites across Europe which are wholly owned and managed by those divisions. This privacy policy only applies to this website, so when you link to other websites you should read their specific privacy policies.
+
+ **Protection of children**
+
+The Site is not addressed to children and young people under the age of 16. Children and young people under the age of 16 may not transmit any personal data over the Internet without the consent of their parent or guardian. As outlined, Toshiba of Europe Limited does not currently request personal information from site users and does not store any personal data known to belong to children.
+
+ **Changes to our privacy policy**
+
+We keep our privacy policy under regular review and we will place any updates on this Site. This privacy policy was last updated on 14.05.2018.
+
+ **Your right to lodge a complaint with the supervisory authority.**
+
+If you have a concern about any aspect of our privacy practices, you can report it to your local data protection regulator. The full list of local data protection authorities can be found at <http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080>
+
+Please contact us if you have any questions about our privacy policy or our commitment to protecting your data. Our contact details are located on our [Corporate Information](https://web.archive.org/generic/corporate-information) page.
+
+Version number: v1.0  
+Date of publication: 14.05.2018 
+
+This document has been reviewed and revised in accordance with and prior to the introduction of the General Data Protection Regulation (GDPR).
