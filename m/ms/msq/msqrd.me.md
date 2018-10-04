@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the msqrd.me privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618004513id_/https%3A//www.facebook.com/msqrd/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msqrd.me privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004151204id_/https%3A//www.facebook.com/msqrd/privacy) for the most accurate reproduction.*
 
-# ‪Facebook‬
+# Facebook
 
 Privacy Policy
 
@@ -8,7 +8,7 @@ Privacy Policy
 
  _Effective Date: June 28, 2016_
 
-Masquerade Technologies, Inc. ("Masquerade," "we" or "us") offers services, such as the Masquerade app (the "App") that enable people to use filters and masks ("Masks") for a range of activities, like photo and video editing, and sharing. You consent to Masquerade's practices as set out in this privacy policy when you choose to use the App, the Masks, our features to edit or create masks for the App ("Mask Editor"), our website ([http://msqrd.me/](https://l.facebook.com/l.php?u=http%3A%2F%2Fmsqrd.me%2F&h=ATM74bgFZaSAr4lMBU3evxJJQVCIz1tF4gfCRCtR4ZinEtR0oubGKfi83wu6JZbavycBHaEZByuLDPWlGP87FEOWUw7gDpnG0B-3ajBlFULHlHvoPPpnQ-O1ot9muU-O&s=1) or the "Site"), or our other product and services (collectively the "Services").
+Masquerade Technologies, Inc. ("Masquerade," "we" or "us") offers services, such as the Masquerade app (the "App") that enable people to use filters and masks ("Masks") for a range of activities, like photo and video editing, and sharing. You consent to Masquerade's practices as set out in this privacy policy when you choose to use the App, the Masks, our features to edit or create masks for the App ("Mask Editor"), our website ([http://msqrd.me/](http://l.facebook.com/l.php?u=http%3A%2F%2Fmsqrd.me%2F&h=AT2HMkHd2vEHaWdhcaxJ8Kz6bt6-BDJRNWuAw9J0m2Pl5Eqi_noosx_67Cf6SJkoei0INV19-PORI3_5lwHogpQB0i_b-y9T9c93gopP6dGiAjoHBNVJzba4uTfGqanwpDNK4YTKu1WsFPOD) or the "Site"), or our other product and services (collectively the "Services").
 
  ** _Information we collect or receive_**
 
