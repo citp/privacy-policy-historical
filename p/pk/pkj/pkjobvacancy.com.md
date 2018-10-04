@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pkjobvacancy.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629204457id_/http%3A//pkjobvacancy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pkjobvacancy.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004021711id_/http%3A//pkjobvacancy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Jobs in Pakistan 2018
+# Privacy Policy - Jobs Vacancy in Pakistan 2018
 
 ## [Privacy Policy](http://pkjobvacancy.com/privacy-policy/)
 
@@ -21,8 +21,6 @@ We may collect personal identification information from Users in a variety of wa
 ### Non-personal identification information
 
 We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
-
-Advertisement
 
 ### Cookies And Web Beacons
 
