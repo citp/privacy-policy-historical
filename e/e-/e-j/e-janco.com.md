@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-janco.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915090011id_/https%3A//www.e-janco.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-janco.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004055014id_/https%3A//www.e-janco.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy e-janco.com - Janco Associates
 
@@ -22,13 +22,13 @@
 > 
 >   * Google, as a third party vendor, uses cookies to serve ads on Janco's web sites including but not limited to www.e-janco.com, www.itproductivity.org, www.it-toolkits.com, www.ejobdescription.com, and psrinc.com. 
 >   * Google's use of the DART cookie enables Google and its partners to serve ads to visitors based on their visit to Janco's sites and/or other sites on the Internet. 
->   * Users may opt out of the use of the DART cookie by visiting the [**Google ad and content network privacy policy**](http://www.google.com/privacy_ads.html). 
+>   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 > 
 
 > 
 > The cookies of other third-party vendors and/or ad networks may also be used to serve ads on Janco's sites. 
 > 
-> Google uses third-party advertising companies to serve ads when visitors visit Janco's websites. These companies may use information (not including your name, address, email address, or telephone number) about your visits to Janco's and other websites in order to provide advertisements about goods and services of interest to visitors. If you would like more information about this practice and to know your choices about not having this information used by these companies, [**click here**](http://www.google.com/privacy_ads.html). 
+> Google uses third-party advertising companies to serve ads when visitors visit Janco's websites. These companies may use information (not including your name, address, email address, or telephone number) about your visits to Janco's and other websites in order to provide advertisements about goods and services of interest to visitors. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
 
 * * *
 
