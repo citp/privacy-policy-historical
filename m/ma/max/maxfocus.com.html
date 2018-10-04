@@ -1,617 +1,1009 @@
-<!--The following is the downloaded HTML source of the maxfocus.com privacy policy that was archived on 2016-10-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161017091044id_/https%3A//www.maxfocus.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the maxfocus.com privacy policy that was archived on 2018-10-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181004190810id_/https%3A//www.solarwindsmsp.com/legal/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"><head profile="http://www.w3.org/1999/xhtml/vocab">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-995.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M897H7"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYBVlVRGwYJUVVTDgQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!p){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function l(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:l,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a};return g}function i(){return new r}function a(){p=!0,u=l.backlog={}}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o(),p=!1;l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-995.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
-<link rel="shortcut icon" href="https://www.maxfocus.com/sites/max/files/maxfocus_favicon.ico" type="image/vnd.microsoft.icon">
+<!DOCTYPE html><html lang="en" dir="ltr" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:product="http://ogp.me/ns/product#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# "><head>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M897H7"></script><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script>
+      var shiftWindow = function() { scrollBy(0, -165) };
+      window.addEventListener("hashchange", shiftWindow);
+      function load() { if (window.location.hash) shiftWindow(); }
+    </script>
+<meta charset="utf-8">
+<meta name="title" content="Privacy Notice | SolarWinds MSP">
+<link rel="canonical" href="https://www.solarwindsmsp.com/legal/privacy?lang=fi-FI">
+<meta name="description" content="SolarWinds Privacy
+
+SolarWinds is committed to protecting the privacy of visitors of the SolarWinds website(s), individuals who register to use the products and services, individuals who register to attend the Company’s corporate or other events, and business partners. The following privacy notices explain our privacy practices related to these activities and how SolarWinds may collect, use, and/or share personal data.">
+<meta name="referrer" content="no-referrer">
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)">
+<meta name="MobileOptimized" content="width">
+<meta name="HandheldFriendly" content="true">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="generator" content="Drupal 7 (http://drupal.org)">
-<link rel="canonical" href="https://www.maxfocus.com/privacy-policy">
-<link rel="shortlink" href="https://www.maxfocus.com/node/219">
-  <title>Privacy Policy | MAXfocus</title>
-  <link type="text/css" rel="stylesheet" href="https://www.maxfocus.com/sites/max/files/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all">
-<link type="text/css" rel="stylesheet" href="https://www.maxfocus.com/sites/max/files/css/css_p2x3DFLB0btLsxtlASMFgla_5cNYwE3MVqnhImKY_Ic.css" media="all">
-<link type="text/css" rel="stylesheet" href="https://www.maxfocus.com/sites/max/files/css/css_vZ_wrMQ9Og-YPPxa1q4us3N7DsZMJa-14jShHgRoRNo.css" media="screen">
-<link type="text/css" rel="stylesheet" href="https://www.maxfocus.com/sites/max/files/css/css_h9_I_U0fpptebKHqYGYzns-7rtnYJoLKZB9dmgjkfp4.css" media="all">
-<link type="text/css" rel="stylesheet" href="https://www.maxfocus.com/sites/max/files/css/css__QsO9f13b81IexjqMDIKRQaVaTee0AbSx3h8DxAlvxs.css" media="all">
-<link type="text/css" rel="stylesheet" href="https://www.maxfocus.com/sites/max/files/css/css_yTRxbuBHhr2bR0oefvsmcGdqMPKWgy15WuScbrZGboE.css" media="all">
-<link type="text/css" rel="stylesheet" href="https://www.maxfocus.com/sites/max/files/css/css_9-qTVwj9hbBe5aTEZw7vVq6KRVKThNpjzWRB7rXmnMw.css" media="all">
-<link type="text/css" rel="stylesheet" href="https://www.maxfocus.com/sites/max/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print">
-<link type="text/css" rel="stylesheet" href="https://www.maxfocus.com/sites/max/files/css/css_PxsPpITToy8ZnO0bJDA1TEC6bbFpGTfSWr2ZP8LuFYo.css" media="all">
-  <script type="text/javascript" src="https://www.maxfocus.com/sites/all/libraries/respondjs/respond.min.js?oe4afl"></script>
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-window.jQuery || document.write("<script src='/profiles/panopoly/modules/contrib/jquery_update/replace/jquery/1.7/jquery.min.js'>\x3C/script>")
-//--><!]]>
-</script><script src="/profiles/panopoly/modules/contrib/jquery_update/replace/jquery/1.7/jquery.min.js"></script>
-<script type="text/javascript" src="https://www.maxfocus.com/sites/max/files/js/js_3TykeRWpejhD4-J3vdlaNXdULg9xhOZhbsppK0o2bUs.js"></script>
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-window.jQuery.ui || document.write("<script src='/profiles/panopoly/modules/contrib/jquery_update/replace/ui/ui/minified/jquery-ui.min.js'>\x3C/script>")
-//--><!]]>
-</script><script src="/profiles/panopoly/modules/contrib/jquery_update/replace/ui/ui/minified/jquery-ui.min.js"></script>
-<script type="text/javascript" src="https://www.maxfocus.com/sites/max/files/js/js_obFUyTbqtcoGQtszVI46l1_oD927PzlDtlr_ilpYBqE.js"></script>
-<script type="text/javascript" src="https://www.maxfocus.com/sites/max/files/js/js_j40pRrFT-aGhTuEMaD7KRvmOX4hvgexTMd8tja8myCQ.js"></script>
-<script type="text/javascript" src="https://www.maxfocus.com/sites/max/files/js/js_Y9qh-tM86kXvDAU4xOds8X4FRMRSNgeIfqRhe4L3tXc.js"></script>
-<script type="text/javascript" src="https://www.maxfocus.com/sites/max/files/js/js_kBnp6IdXR-eS875dmpFvAvKPHUYMbSHvVEzxEQ0gFmg.js"></script>
-<script type="text/javascript" src="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="https://www.maxfocus.com/sites/max/files/js/js_SPF9sRbQny6Y6xYEa9vW6ikR_kuGs7fUsQmRGGhVvZw.js"></script>
-<script type="text/javascript" src="https://www.maxfocus.com/sites/max/files/js/js_lzOmiift8Kx55_3KILFbLw-I60Gz4Iv2MSil-z4X8eA.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"max","theme_token":"j2BKEDXFO3FjDyFI68tIVl6oTtyaSGlJGEVaaXMoy3M","js":{"sites\/all\/modules\/custom\/logic_embed_video\/js\/logic_embed_video.js":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets.js":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets-spotlight.js":1,"sites\/max\/themes\/max\/assets\/javascripts\/dough.min.js":1,"sites\/max\/themes\/max\/assets\/javascripts\/dough_script.js":1,"sites\/all\/libraries\/respondjs\/respond.min.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.7.2\/jquery.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jqueryui\/1.10.2\/jquery-ui.min.js":1,"1":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_images\/panopoly-images.js":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_admin\/panopoly-admin.js":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_magic\/panopoly-magic.js":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_theme\/js\/panopoly-accordion.js":1,"profiles\/panopoly\/modules\/contrib\/caption_filter\/js\/caption-filter.js":1,"sites\/all\/modules\/fancybox\/fancybox.js":1,"sites\/all\/libraries\/fancybox\/source\/jquery.fancybox.pack.js":1,"sites\/all\/libraries\/fancybox\/lib\/jquery.mousewheel-3.0.6.pack.js":1,"sites\/all\/modules\/custom\/logic_helper\/media\/js\/logic_helper.js":1,"sites\/all\/modules\/custom\/logic_helper\/media\/js\/logic_helper_menu_mobile.js":1,"profiles\/panopoly\/libraries\/jquery.imagesloaded\/jquery.imagesloaded.min.js":1,"sites\/all\/libraries\/jquery.cycle\/jquery.cycle.all.js":1,"sites\/all\/libraries\/json2\/json2.js":1,"sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_cycle\/js\/views_slideshow_cycle.js":1,"sites\/all\/libraries\/msdropdown\/js\/msdropdown\/jquery.dd.min.js":1,"sites\/all\/modules\/lang_dropdown\/lang_dropdown.js":1,"sites\/max\/modules\/custom\/max_geo_ip_phone_number\/js\/script.js":1,"https:\/\/netdna.bootstrapcdn.com\/bootstrap\/3.1.1\/js\/bootstrap.min.js":1,"sites\/all\/themes\/radix\/assets\/javascripts\/modernizr.js":1,"sites\/all\/themes\/radix\/assets\/javascripts\/radix-script.js":1,"sites\/all\/themes\/logic_base\/assets\/javascripts\/script.js":1,"sites\/max\/themes\/max\/assets\/javascripts\/max_script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/all\/libraries\/msdropdown\/css\/msdropdown\/dd.css":1,"modules\/aggregator\/aggregator.css":1,"profiles\/panopoly\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/panopoly\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_admin\/panopoly-admin-navbar.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_core\/css\/panopoly-dropbutton.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_magic\/css\/panopoly-magic.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_theme\/css\/panopoly-featured.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_theme\/css\/panopoly-accordian.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_theme\/css\/panopoly-layouts.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets-spotlight.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_wysiwyg\/panopoly-wysiwyg.css":1,"profiles\/panopoly\/modules\/contrib\/radix_layouts\/radix_layouts.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/panopoly\/modules\/contrib\/views\/css\/views.css":1,"profiles\/panopoly\/modules\/contrib\/caption_filter\/caption-filter.css":1,"profiles\/panopoly\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/fancybox\/source\/jquery.fancybox.css":1,"profiles\/panopoly\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/themes\/logic_base\/panels\/layouts\/maxstandard\/maxstandard.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow_controls_text.css":1,"sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_cycle\/views_slideshow_cycle.css":1,"sites\/all\/modules\/lang_dropdown\/msdropdown\/css\/msdropdown\/ldsSkin.css":1,"sites\/all\/themes\/logic_base\/assets\/stylesheets\/screen.css":1,"sites\/all\/themes\/logic_base\/assets\/stylesheets\/screen_overrides.css":1,"sites\/max\/themes\/max\/assets\/stylesheets\/max-screen.css":1,"sites\/max\/themes\/max\/assets\/stylesheets\/max-temp.css":1,"sites\/all\/themes\/logic_base\/assets\/stylesheets\/print.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_images\/panopoly-images.css":1}},"fancybox":{"options":{"height":450}},"jcarousel":{"ajaxPath":"https:\/\/www.maxfocus.com\/jcarousel\/ajax\/views"},"CToolsModal":{"modalSize":{"type":"scale","width":".9","height":".9","addWidth":0,"addHeight":0,"contentRight":25,"contentBottom":75},"modalOptions":{"opacity":".55","background-color":"#FFF"},"animationSpeed":"fast","modalTheme":"CToolsModalDialog","throbberTheme":"CToolsModalThrobber"},"panopoly_magic":{"pane_add_preview_mode":"manual"},"viewsSlideshow":{"awards-block_1":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","flexsliderViewsSlideshow","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","flexsliderViewsSlideshow","viewsSlideshowCycle"],"play":["viewsSlideshowControls","flexsliderViewsSlideshow","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","flexsliderViewsSlideshow","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0}},"viewsSlideshowControls":{"awards-block_1":{"top":{"type":"viewsSlideshowControlsText"}}},"viewsSlideshowCycle":{"#views_slideshow_cycle_main_awards-block_1":{"num_divs":10,"id_prefix":"#views_slideshow_cycle_main_","div_prefix":"#views_slideshow_cycle_div_","vss_id":"awards-block_1","effect":"scrollLeft","transition_advanced":1,"timeout":5000,"speed":700,"delay":0,"sync":1,"random":0,"pause":0,"pause_on_click":0,"action_advanced":1,"start_paused":0,"remember_slide":0,"remember_slide_days":1,"pause_in_middle":0,"pause_when_hidden":0,"pause_when_hidden_type":"full","amount_allowed_visible":"","nowrap":0,"fixed_height":0,"items_per_slide":4,"wait_for_image_load":1,"wait_for_image_load_timeout":3000,"cleartype":0,"cleartypenobg":0,"advanced_options":"{}","advanced_options_choices":0,"advanced_options_entry":""}},"urlIsAjaxTrusted":{"https:\/\/www.maxfocus.com\/search\/node":true,"\/privacy-policy":true},"lang_dropdown":{"language_content":{"jsWidget":{"widget":"msdropdown","visibleRows":"20","roundedCorner":0,"animStyle":"slideDown","event":"click","mainCSS":"ldsSkin"}}}});
-//--><!]]>
-</script>
-	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-	<!--[if lt IE 9]>
-      <script src="/sites/all/libraries/html5shiv/html5shiv.js"></script>
-      <script src="/sites/all/libraries/respondjs/respond.min.js"></script>
-    <![endif]-->
+<script>function euCookieComplianceLoadScripts() {}</script>
+<style>div#sliding-popup, div#sliding-popup .eu-cookie-withdraw-banner, .eu-cookie-withdraw-tab {background: #FFFFFF} div#sliding-popup.eu-cookie-withdraw-wrapper { background: transparent; } #sliding-popup h1, #sliding-popup h2, #sliding-popup h3, #sliding-popup p, .eu-cookie-compliance-more-button, .eu-cookie-compliance-secondary-button, .eu-cookie-withdraw-tab { color: #4d6c8b;} .eu-cookie-withdraw-tab { border-color: #4d6c8b;}</style>
+<link rel="shortcut icon" href="/themes/custom/sw_msp/favicon.ico" type="image/vnd.microsoft.icon">
+<script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};</script>
+<title>Privacy Notice | SolarWinds MSP</title>
+<link rel="stylesheet" href="/sites/solarwindsmsp/files/css/css_gaptEdfsb0aw8uS5PkGLAdu0iln47VzfOeellGD8adQ.css?pg2i2l" media="all">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css" media="all">
+<link rel="stylesheet" href="/sites/solarwindsmsp/files/css/css_66b3VqCFv4nftd-faVj7uqya5-6kKTMjA_oOEmbtE0E.css?pg2i2l" media="all">
+<link rel="stylesheet" href="/sites/solarwindsmsp/files/css/css_XtuDjAQddFVv98JyQMSftwYmvRu2ji4uKVOjlmdmBu4.css?pg2i2l" media="all">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300,400,700|Roboto:300,400,700" media="all">
+<!--[if lte IE 8]>
+<script src="/sites/solarwindsmsp/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+<script src="/sites/solarwindsmsp/files/js/js_DdXIKt68jGany_F78Mxy_6Rv5aLF94bA6_npMbGnkV4.js"></script>
+
+<script>
+      var _prum = [['id', '587e7da5f5d03b5c1ebb8b4f'],
+        ['mark', 'firstbyte', (new Date()).getTime()]];
+      (function() {
+        var s = document.getElementsByTagName('script')[0]
+          , p = document.createElement('script');
+        p.async = 'async';
+        p.src = '//rum-static.pingdom.net/prum.min.js';
+        s.parentNode.insertBefore(p, s);
+      })();
+    </script>
 </head>
-<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-219 node-type-standard-page region-content i18n-en" data-spy="scroll" data-target="#scrolling-tabs" data-offset="500">
-  <!-- Google Tag Manager -->
-    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-M897H7" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-M897H7');</script>
-  <!-- End Google Tag Manager -->
-  <div id="skip-link">
-    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
-  </div>
-    
+<body class="path-node page-node-type-basic-page navbar-is-fixed-top has-glyphicons">
 
-<header id="header" class="header" role="header">
-	<div class="inner" data-spy="affix" data-offset-top="0" data-offset-bottom="0">
-		
-		<div class="sub-header">
-			<div class="container">
-				<div class="row">
-					<div class="col-xs-12">
-													<div id="search">
-								<button id="search-button" type="button" data-toggle="button" data-target="#search-pop"> <i class="fa fa-search"></i><span class="sr-only">search</span></button>
-								<div id="search-pop" class="hidden">
-									<form class="search-form navbar-form navbar-right" action="https://www.maxfocus.com/search/node" method="post" id="search-form" accept-charset="UTF-8" role="form"><div><div class="container-inline form-inline form-wrapper" id="edit-basic"><div class="form-item form-type-textfield form-item-keys form-group">
-  <label class="element-invisible" for="edit-keys">Search </label>
- <input placeholder="Search" class="form-control form-text" type="text" id="edit-keys" name="keys" value="" size="20" maxlength="255">
-</div>
-<input type="submit" id="edit-submit" name="op" value="Search" class="form-submit btn btn-default btn-primary"></div><input type="hidden" name="form_build_id" value="form-xn_WJZNrsq74s_8YlXyHYPSmF1mTOJETMeFz7R8W-jk">
-<input type="hidden" name="form_id" value="search_form">
-</div></form>								</div>
-							</div>
-												<div class="menu-block-wrapper menu-block-1 menu-name-menu-sub-header-menu parent-mlid-0 menu-level-1">
-  <ul class="sub-header-menu"><li class="first leaf menu-mlid-6836 menu-link-contact-us"><a href="https://www.maxfocus.com/contact-us">Contact Us</a></li>
-<li class="leaf menu-mlid-2354 menu-link-service-status"><a href="http://status.maxfocus.com/">Service Status</a></li>
-<li class="expanded menu-mlid-2355 dropdown menu-link-support"><a href="https://support.logicnow.com/kb" class="dropdown-toggle" data-toggle="dropdown radix-dropdown-processed" data-target="#">Support<span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-mlid-3717 menu-link-hipaa"><a href="https://www.maxfocus.com/hipaa">HIPAA</a></li>
-<li class="last leaf menu-mlid-14068 menu-link-pci-dss"><a href="https://www.maxfocus.com/pci-dss">PCI DSS</a></li>
-</ul></li>
-<li class="leaf menu-mlid-2357 menu-link-webinars"><a href="https://www.maxfocus.com/webinars">Webinars</a></li>
-<li class="expanded menu-mlid-2358 dropdown menu-link-login"><a href="https://www.maxfocus.com/" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Login<span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-mlid-12583 menu-link-max-remotemanagement"><a href="https://www.maxfocus.com/remote-management/login">MAX RemoteManagement</a></li>
-<li class="last leaf menu-mlid-13394 menu-link-max-mail"><a href="https://www.maxfocus.com/dashboard/mail">MAX Mail</a></li>
-</ul></li>
-<li class="last leaf menu-mlid-13401 menu-link-community"><a href="https://connect.maxfocus.com">Community</a></li>
-</ul></div>
-						<form class="lang_dropdown_form language_content" id="lang_dropdown_form_language_content" action="/privacy-policy" method="post" accept-charset="UTF-8" role="form"><div><div class="form-item form-type-select form-item-lang-dropdown-select form-group">
- <select style="width:165px" class="lang-dropdown-select-element form-control form-select" id="lang-dropdown-select-language_content" name="lang_dropdown_select"><option value="en" selected="selected">English</option><option value="fr">Français</option><option value="de">Deutsch</option><option value="it">Italiano</option><option value="es">Español</option><option value="pt-br">Português</option><option value="nl">Nederlands</option></select>
-</div>
-<input type="hidden" name="en" value="https://www.maxfocus.com/privacy-policy?multilink=switch">
-<input type="hidden" name="fr" value="https://www.maxfocus.fr/politique-mondiale-de-confidentialite?multilink=switch">
-<input type="hidden" name="de" value="https://www.maxfocus.de/globale-datenschutzrichtlinie?multilink=switch">
-<input type="hidden" name="it" value="https://www.maxfocus.it/norme-globali-sulla-privacy?multilink=switch">
-<input type="hidden" name="es" value="https://www.maxfocus.es/politica-global-de-privacidad?multilink=switch">
-<input type="hidden" name="pt-br" value="https://www.maxfocus.com.br/politica-de-privacidade-global?multilink=switch">
-<input type="hidden" name="nl" value="https://nl.maxfocus.com/wereldwijd-privacybeleid?multilink=switch">
-<noscript><div>
-<input type="submit" id="edit-submit--2" name="op" value="Go" class="form-submit btn btn-default btn-primary" />
-</div></noscript><input type="hidden" name="form_build_id" value="form-KneoepFydQJdwEzbrJXjTYqiZRV8BHUq0JQ89D3oepI">
-<input type="hidden" name="form_id" value="lang_dropdown_form">
-</div></form>
-              <div class="region region-phone-number">
-    <div id="block-max-geo-ip-phone-number-max-geo-ip-phone-number" class="block block-max-geo-ip-phone-number">
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-M897H7" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script data-cfasync="false">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-M897H7');</script>
 
-    
-  <div class="content">
-    <h2></h2><span>+</span><span class="sales_phone_number"></span>  </div>
+<a href="#main-content" class="visually-hidden focusable skip-link">
+Skip to main content
+</a>
+<div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+<header>
+<nav class="topNavigation">
+<div class="container">
+<div class="row">
+<div class="col-md-3 hidden-xs hidden-sm logo">
+<a itemprop="url" class="logo navbar-btn pull-left" href="/" title="SolarWinds MSP" rel="home">
+<img itemprop="logo" src="/themes/custom/sw_msp/images/solarwinds-msp-logo.png" alt="SolarWinds MSP" title="SolarWinds MSP" class="img-responsive" srcset="/themes/custom/sw_msp/images/solarwinds-msp-logo.png 1x, /themes/custom/sw_msp/images/solarwinds-msp-logo-2x.png 2x, /themes/custom/sw_msp/images/solarwinds-msp-logo-3x.png 3x, /themes/custom/sw_msp/images/solarwinds-msp-logo-4x.png 4x">
+</a>
 </div>
-  </div>
-
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="header-menu-branding">
-			<div class="container">
-				<div class="row">
-					<div class="col-xs-12">
-						<nav class="navbar navbar-default" role="navigation">
-							<!-- Brand and toggle get grouped for better mobile display -->
-							<div class="navbar-header">
-								<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
-									<span class="sr-only">Toggle navigation</span>
-									<span class="icon-bar"></span>
-									<span class="icon-bar"></span>
-									<span class="icon-bar"></span>
-								</button>
-							</div> <!-- /.navbar-header -->
-				
-							<!-- Collect the nav links, forms, and other content for toggling -->
-							<div class="collapse navbar-collapse" id="navbar-collapse">
-																	<ul id="main-menu" class="menu nav navbar-nav">
-										<li class="first expanded dropdown menu-link-products"><a href="https://www.maxfocus.com/products" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Products<span class="caret"></span></a><ul class="dropdown-menu"><li class="first expanded dropdown-submenu menu-link-max-remotemanagement"><a href="https://www.maxfocus.com/remote-management" class="dropdown-toggle" data-toggle="dropdown" data-target="#">MAX RemoteManagement</a><ul class="dropdown-menu"><li class="first leaf menu-link-features"><a href="https://www.maxfocus.com/products/features">Features</a></li>
-<li class="leaf menu-link-pricing"><a href="https://www.maxfocus.com/remote-management/pricing">Pricing</a></li>
-<li class="last leaf menu-link-support"><a href="https://support.logicnow.com/kb/remote-management">Support</a></li>
-</ul></li>
-<li class="expanded dropdown-submenu menu-link-max-backup"><a href="https://www.maxfocus.com/backup" class="dropdown-toggle" data-toggle="dropdown" data-target="#">MAX Backup</a><ul class="dropdown-menu"><li class="first leaf menu-link-features"><a href="https://www.maxfocus.com/products/features#bu">Features</a></li>
-<li class="leaf menu-link-success-stories"><a href="https://www.maxfocus.com/backup/success-stories">Success Stories</a></li>
-<li class="leaf menu-link-backup-academy"><a href="https://www.maxfocus.com/backup/academy">Backup Academy</a></li>
-<li class="leaf menu-link-data-centre-locations"><a href="https://www.maxfocus.com/backup/data-centers">Data Centre Locations</a></li>
-<li class="leaf menu-link-pricing"><a href="https://www.maxfocus.com/backup/pricing">Pricing</a></li>
-<li class="leaf menu-link-support"><a href="https://support.logicnow.com/kb/backup">Support</a></li>
-<li class="leaf menu-link-downloads"><a href="https://www.maxfocus.com/backup/downloads" target="_blank">Downloads</a></li>
-<li class="last leaf menu-link-request-a-proposal"><a href="http://trials.maxfocus.com/request-a-backup-proposal" target="_blank">Request a proposal</a></li>
-</ul></li>
-<li class="expanded dropdown-submenu menu-link-max-mail"><a href="https://www.maxfocus.com/mail" class="dropdown-toggle" data-toggle="dropdown" data-target="#">MAX Mail</a><ul class="dropdown-menu"><li class="first leaf menu-link-features"><a href="https://www.maxfocus.com/products/features#mail">Features</a></li>
-<li class="leaf menu-link-pricing"><a href="https://www.maxfocus.com/mail/pricing">Pricing</a></li>
-<li class="last leaf menu-link-support"><a href="https://support.logicnow.com/kb/mail">Support</a></li>
-</ul></li>
-<li class="last expanded dropdown-submenu menu-link-max-servicedesk"><a href="https://www.maxfocus.com/service-desk" class="dropdown-toggle" data-toggle="dropdown" data-target="#">MAX ServiceDesk</a><ul class="dropdown-menu"><li class="first leaf menu-link-features"><a href="https://www.maxfocus.com/products/features#sd">Features</a></li>
-<li class="leaf menu-link-pricing"><a href="https://www.maxfocus.com/service-desk/pricing">Pricing</a></li>
-<li class="leaf menu-link-support"><a href="https://support.logicnow.com/kb/service-desk">Support</a></li>
-<li class="last leaf menu-link-training"><a href="https://attendee.gototraining.com/rt/4085839457713708033">Training</a></li>
-</ul></li>
-</ul></li>
-<li class="expanded dropdown menu-link-resources"><a href="#" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Resources<span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-link-whitepapers"><a href="https://www.maxfocus.com/whitepapers">Whitepapers</a></li>
-<li class="leaf menu-link-webinars"><a href="https://www.maxfocus.com/webinars">Webinars</a></li>
-<li class="leaf menu-link-max-backup-playbook"><a href="http://trials.maxfocus.com/playbook" target="_blank">MAX Backup Playbook</a></li>
-<li class="leaf menu-link-backup-academy"><a href="https://www.maxfocus.com/backup/academy">Backup Academy</a></li>
-<li class="leaf menu-link-hipaa-guides"><a href="https://www.maxfocus.com/hipaa">HIPAA Guides</a></li>
-<li class="leaf menu-link-logicnow-blog"><a href="https://www.logicnow.com/blog/" target="_blank">LOGICnow Blog</a></li>
-<li class="last leaf menu-link-service-desk-training"><a href="https://attendee.gototraining.com/rt/4085839457713708033">Service Desk Training</a></li>
-</ul></li>
-<li class="expanded dropdown menu-link-why-max"><a href="https://www.maxfocus.com/why-max" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Why Max<span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-link-grow"><a href="https://www.maxfocus.com/grow">Grow</a></li>
-<li class="last leaf menu-link-logiccards"><a href="https://www.maxfocus.com/why-max/logiccards">LOGICcards</a></li>
-</ul></li>
-<li class="expanded dropdown menu-link-about"><a href="https://www.maxfocus.com/about" class="dropdown-toggle" data-toggle="dropdown" data-target="#">About<span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-link-news"><a href="https://www.maxfocus.com/news">News</a></li>
-<li class="leaf menu-link-careers"><a href="http://www.logicnow.com/careers" target="_blank">Careers</a></li>
-<li class="leaf menu-link-support"><a href="https://support.logicnow.com/kb/">Support</a></li>
-<li class="leaf menu-link-connect-with-us"><a href="https://www.maxfocus.com/connect-us">Connect with Us</a></li>
-<li class="last leaf menu-link-conferences"><a href="http://conferences.maxfocus.com/" target="_blank">Conferences</a></li>
-</ul></li>
-<li class="last expanded dropdown menu-link-free-trials"><a href="https://www.maxfocus.com/trials" class="max-orange dropdown-toggle" data-toggle="dropdown" data-target="#">Free Trials<span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-link-max-remotemanagement"><a href="https://www.maxfocus.com/remote-management/trial">MAX RemoteManagement</a></li>
-<li class="leaf menu-link-max-backup"><a href="https://www.maxfocus.com/backup/trial">MAX Backup</a></li>
-<li class="last leaf menu-link-max-mail"><a href="https://www.maxfocus.com/mail/trial">MAX Mail</a></li>
-</ul></li>
-<div class="menu-block-wrapper menu-block-1 menu-name-menu-sub-header-menu parent-mlid-0 menu-level-1">
-  <ul class="sub-header-menu"><li class="first leaf menu-mlid-6836 menu-link-contact-us"><a href="https://www.maxfocus.com/contact-us">Contact Us</a></li>
-<li class="leaf menu-mlid-2354 menu-link-service-status"><a href="http://status.maxfocus.com/">Service Status</a></li>
-<li class="expanded menu-mlid-2355 dropdown menu-link-support"><a href="https://support.logicnow.com/kb" class="dropdown-toggle" data-toggle="dropdown radix-dropdown-processed" data-target="#">Support<span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-mlid-3717 menu-link-hipaa"><a href="https://www.maxfocus.com/hipaa">HIPAA</a></li>
-<li class="last leaf menu-mlid-14068 menu-link-pci-dss"><a href="https://www.maxfocus.com/pci-dss">PCI DSS</a></li>
-</ul></li>
-<li class="leaf menu-mlid-2357 menu-link-webinars"><a href="https://www.maxfocus.com/webinars">Webinars</a></li>
-<li class="expanded menu-mlid-2358 dropdown menu-link-login"><a href="https://www.maxfocus.com/" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Login<span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-mlid-12583 menu-link-max-remotemanagement"><a href="https://www.maxfocus.com/remote-management/login">MAX RemoteManagement</a></li>
-<li class="last leaf menu-mlid-13394 menu-link-max-mail"><a href="https://www.maxfocus.com/dashboard/mail">MAX Mail</a></li>
-</ul></li>
-<li class="last leaf menu-mlid-13401 menu-link-community"><a href="https://connect.maxfocus.com">Community</a></li>
-</ul></div>
-									</ul>
-															</div><!-- /.navbar-collapse -->
-						</nav><!-- /.navbar -->
-						<a href="https://www.maxfocus.com/" title="MAXfocus" rel="home" id="logo" class="navbar-brand">
-							<img src="https://www.maxfocus.com/sites/max/files/maxfocus_sw.png" alt="MAXfocus">
-						</a>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="container">
-					</div> <!-- /.container -->
-	</div>
+<div class="col-xs-12 col-md-9">
+<ul class="list-inline clearfix">
+<li class="language-switcher-language-url block clearfix" id="block-languageswitcher-2" role="navigation">
+<div id="language-dropdown" class="dropdown">
+<button class="btn dropdown-toggle" type="button" data-toggle="dropdown">
+English
+</button>
+<ul id="lang-list-0" class="dropdown-menu"></ul>
+</div>
+<div id="language-mini-dropdown" class="dropdown">
+<button class="btn dropdown-toggle" type="button" data-toggle="dropdown">
+en
+</button>
+<ul id="lang-list-1" class="dropdown-menu"></ul>
+</div>
+</li>
+<li id="block-sw-msp-logicgeoipphonenumber" class="vcenter block clearfix">
+<ul class="list-inline">
+<li id="geoipnum" class="phone-number"></li>
+</ul>
+</li>
+<li class="hidden-xs vcenter">
+<a href="/product/login" data-drupal-link-system-path="node/7801">Login</a>
+</li>
+<li class="hidden-xs vcenter">
+<a href="https://support.solarwindsmsp.com/kb">Support</a>
+</li>
+</ul>
+<div class="region region-search-block">
+<div class="logic-google-search-form vcenter block clearfix" data-drupal-selector="logic-google-search-form" id="block-sw-msp-logicgooglesearchbox-3">
+<form action="/search" method="post" id="logic-google-search-form" accept-charset="UTF-8">
+<div class="input-group">
+<input autocomplete="off" data-drupal-selector="form-ow0ekzitb4q-z-l-wxc5rjieu0q4gzdhsppcrj3og6q" type="hidden" name="form_build_id" value="form-OW0EKzitb4Q_Z-L_wxc5RjIEu0Q4gzDhSpPcrJ3Og6Q"><input data-drupal-selector="edit-logic-google-search-form" type="hidden" name="form_id" value="logic_google_search_form">
+<input placeholder="🔍" data-drupal-selector="edit-search-text" class="form-text required form-control" type="text" id="edit-search-text" name="search_text" value="" size="20" maxlength="128" required="required" aria-required="true">
+<span class="input-group-btn"><button data-drupal-selector="edit-submit" class="button js-form-submit form-submit btn-primary btn" type="submit" id="edit-submit" name="op" value="Search"><span>Search</span></button></span>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+<nav class="navbar navbar-inverse navbar-fixed-top navbar-shaded">
+<div class="container">
+<div class="row">
+ <section id="block-mainnavigation" class="block block-tb-megamenu block-tb-megamenu-menu-blockmain clearfix">
+<div class="tb-megamenu tb-megamenu-main">
+<button data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar tb-megamenu-button" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a itemprop="url" class="hidden-md hidden-lg navbar-brand" href="/" title="SolarWinds MSP" rel="home">
+<img itemprop="logo" src="/themes/custom/sw_msp/images/solarwinds-msp-white-logo.png" alt="SolarWinds MSP" title="SolarWinds MSP" class="img-responsive" srcset="/themes/custom/sw_msp/images/solarwinds-msp-white-logo.png 1x, /themes/custom/sw_msp/images/solarwinds-msp-white-logo-2x.png 2x, /themes/custom/sw_msp/images/solarwinds-msp-white-logo-3x.png 3x, /themes/custom/sw_msp/images/solarwinds-msp-white-logo-4x.png 4x">
+</a>
+<div class="nav-collapse ">
+<ul class="tb-megamenu-nav nav level-0 items-7">
+<li class="tb-megamenu-item level-1 mega dropdown" data-id="menu_link_content:fb1f4dac-d422-4389-b40f-15bd12d1a3ad" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="Products">
+<a href="/products" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+Products
+<span class="caret"></span>
+</a>
+<div class="tb-megamenu-submenu tb-mm-products dropdown-menu mega-dropdown-menu nav-child" data-class="tb-mm-products" data-width="960" style="width: 960px;">
+<div class="mega-dropdown-inner">
+<div class="tb-megamenu-row row-fluid">
+<div class="tb-megamenu-column span6 mega-col-nav" data-class="" data-width="6" data-hidewcol="0" id="tb-megamenu-column-1">
+<div class="tb-megamenu-column-inner mega-inner clearfix">
+<ul class="tb-megamenu-subnav mega-nav level-1 items-3">
+<li class="tb-megamenu-item level-2 mega sub-hidden-collapse" data-id="menu_link_content:4b4aaa37-daeb-46f9-8e76-9aa6f6b8e921" data-level="2" data-type="menu_item" data-class="" data-xicon="ic-remotemanagement" data-caption="Protect your customers with a platform from the global leader in monitoring and management." data-alignsub="" data-group="0" data-hidewcol="1" data-hidesub="1" data-label="Remote Monitoring &amp; Management">
+<a href="/products/rmm">
+<i class="ic-remotemanagement"></i>
+Remote Monitoring &amp; Management
+</a>
+<span class="mega-caption"> Protect your customers with a platform from the global leader in monitoring and management.</span>
+</li>
+<li class="tb-megamenu-item level-2 mega sub-hidden-collapse" data-id="menu_link_content:138055b7-3210-40fe-bb04-4d5cb569e516" data-level="2" data-type="menu_item" data-class="" data-xicon="ic-backup" data-caption="Monitor and protect servers, workstations, and critical business documents from a single dashboard." data-alignsub="" data-group="0" data-hidewcol="1" data-hidesub="1" data-label="Backup &amp; Recovery">
+<a href="/products/backup">
+<i class="ic-backup"></i>
+Backup &amp; Recovery
+</a>
+<span class="mega-caption"> Monitor and protect servers, workstations, and critical business documents from a single dashboard.</span>
+</li>
+<li class="tb-megamenu-item level-2 mega" data-id="menu_link_content:228d47e2-b91d-4f99-abdd-3f6707892b4e" data-level="2" data-type="menu_item" data-class="" data-xicon="ic-mail" data-caption="Shield email from spam and malware, including zero-hour threats." data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="1" data-label="Mail Protection &amp; Archiving">
+<a href="/products/mail">
+<i class="ic-mail"></i>
+Mail Protection &amp; Archiving
+</a>
+<span class="mega-caption"> Shield email from spam and malware, including zero-hour threats.</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="tb-megamenu-column span6 mega-col-nav" data-class="" data-width="6" data-hidewcol="" id="tb-megamenu-column-2">
+<div class="tb-megamenu-column-inner mega-inner clearfix">
+<ul class="tb-megamenu-subnav mega-nav level-1 items-3">
+<li class="tb-megamenu-item level-2 mega sub-hidden-collapse" data-id="menu_link_content:0c321f78-afd6-4e7b-988d-c47b06f3de39" data-level="2" data-type="menu_item" data-class="" data-xicon="ic-msp-manager" data-caption="Manage ticketing, reporting, and billing to increase helpdesk efficiency." data-alignsub="" data-group="0" data-hidewcol="1" data-hidesub="1" data-label="PSA &amp; Ticketing">
+<a href="/products/msp-manager">
+<i class="ic-msp-manager"></i>
+PSA &amp; Ticketing
+</a>
+<span class="mega-caption"> Manage ticketing, reporting, and billing to increase helpdesk efficiency.</span>
+</li>
+<li class="tb-megamenu-item level-2 mega sub-hidden-collapse" data-id="menu_link_content:57bf30b8-0274-449c-a2d4-1761ea41f437" data-level="2" data-type="menu_item" data-class="" data-xicon="svg-threat-monitor-blue svg-icon" data-caption="Detect, respond to, and report on threats across your managed networks." data-alignsub="" data-group="0" data-hidewcol="1" data-hidesub="1" data-label="Automated Threat Monitoring">
+<a href="/products/threat-monitor">
+<i class="svg-threat-monitor-blue svg-icon"></i>
+Automated Threat Monitoring
+</a>
+<span class="mega-caption"> Detect, respond to, and report on threats across your managed networks.</span>
+</li>
+<li class="tb-megamenu-item level-2 mega sub-hidden-collapse" data-id="menu_link_content:f385824f-626e-446a-a6d5-2bdb95aa9f95" data-level="2" data-type="menu_item" data-class="" data-xicon="ic-msp-anywhere" data-caption="Get quick, efficient remote access tools that let you get the job done quickly." data-alignsub="" data-group="0" data-hidewcol="1" data-hidesub="1" data-label="Remote Support">
+<a href="/products/msp-anywhere">
+<i class="ic-msp-anywhere"></i>
+Remote Support
+</a>
+<span class="mega-caption"> Get quick, efficient remote access tools that let you get the job done quickly.</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="tb-megamenu-item level-1 mega dropdown" data-id="menu_link_content:37480d4d-5986-4903-99ff-fc7292222929" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="Solutions">
+<a href="/solutions" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+Solutions
+<span class="caret"></span>
+</a>
+<div class="tb-megamenu-submenu tb-mm-solutions dropdown-menu mega-dropdown-menu nav-child" data-class="tb-mm-solutions" data-width="700" style="width: 700px;">
+<div class="mega-dropdown-inner">
+<div class="tb-megamenu-row row-fluid">
+<div data-showblocktitle="1" class="tb-megamenu-column span7 mega-col-nav tb-megamenu-header hidden-collapse" data-class="tb-megamenu-header" data-width="7" data-hidewcol="1" id="tb-megamenu-column-3">
+<div class="tb-megamenu-column-inner mega-inner clearfix">
+<div class="tb-block tb-megamenu-block" data-type="block" data-block="solutionslookingto">
+<div class="block-inner">
+<section id="block-block-content199fa770-b72a-4c7e-ab43-b24e67f26f7d" class="block block-block-content block-block-content199fa770-b72a-4c7e-ab43-b24e67f26f7d clearfix">
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><h3><i class="ic-coins"></i> I'm looking to...</h3>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+<div data-showblocktitle="1" class="tb-megamenu-column span5 mega-col-nav hidden-collapse" data-class="" data-width="5" data-hidewcol="1" id="tb-megamenu-column-4">
+<div class="tb-megamenu-column-inner mega-inner clearfix">
+<div class="tb-block tb-megamenu-block" data-type="block" data-block="solutionslookingfor">
+<div class="block-inner">
+<section id="block-block-content9b501f8f-0627-41b0-aa56-af0671e91214" class="block block-block-content block-block-content9b501f8f-0627-41b0-aa56-af0671e91214 clearfix">
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><h3><i class="ic-completed-list"></i> I'm looking for...</h3>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="tb-megamenu-row row-fluid">
+<div class="tb-megamenu-column span7 mega-col-nav" data-class="" data-width="7" data-hidewcol="0" id="tb-megamenu-column-5">
+<div class="tb-megamenu-column-inner mega-inner clearfix">
+<ul class="tb-megamenu-subnav mega-nav level-1 items-2">
+<li class="tb-megamenu-item level-2 mega" data-id="menu_link_content:26bac7e3-753b-4bfc-a51a-e03911650fa8" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="Manage my MSP Business More Efficiently">
+<a href="/solutions/managed-service-providers">
+Manage my MSP Business More Efficiently
+</a>
+</li>
+<li class="tb-megamenu-item level-2 mega" data-id="menu_link_content:0f9db0bd-5e97-4cd1-b14a-5e1b4cb092eb" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="Manage my IT Department More Efficiently">
+<a href="/solutions/it-departments">
+Manage my IT Department More Efficiently
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="tb-megamenu-column span5 mega-col-nav" data-class="" data-width="5" data-hidewcol="" id="tb-megamenu-column-6">
+<div class="tb-megamenu-column-inner mega-inner clearfix">
+<ul class="tb-megamenu-subnav mega-nav level-1 items-3">
+<li class="tb-megamenu-item level-2 mega" data-id="menu_link_content:ce5be00b-a750-4399-b906-e45a1eda4de1" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="Layered Security">
+<a href="/solutions/layered-security">
+Layered Security
+</a>
+</li>
+<li class="tb-megamenu-item level-2 mega" data-id="menu_link_content:f2ee6f58-7c30-4e6f-945b-5007dfad100f" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="Data-Driven Insights">
+<a href="/solutions/data-driven-insights">
+Data-Driven Insights
+</a>
+</li>
+<li class="tb-megamenu-item level-2 mega" data-id="menu_link_content:b50be48e-980c-477c-9ddc-f77caea88e9e" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="Cross-Platform Support">
+<a href="/solutions/cross-platform-support">
+Cross-Platform Support
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="tb-megamenu-item level-1 mega dropdown" data-id="menu_link_content:46096f59-54c4-4fbf-8a4e-212a0d709e68" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="Resources">
+<a href="/resources" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+Resources
+<span class="caret"></span>
+</a>
+<div class="tb-megamenu-submenu tb-mm-resources dropdown-menu mega-dropdown-menu nav-child" data-class="tb-mm-resources" data-width="700" style="width: 700px;">
+<div class="mega-dropdown-inner">
+<div class="tb-megamenu-row row-fluid">
+<div data-showblocktitle="1" class="tb-megamenu-column span6 mega-col-nav hidden-collapse" data-class="" data-width="6" data-hidewcol="1" id="tb-megamenu-column-7">
+<div class="tb-megamenu-column-inner mega-inner clearfix">
+<div class="tb-block tb-megamenu-block" data-type="block" data-block="resourceevents">
+<div class="block-inner">
+<section id="block-block-content0fb05b96-5ad1-4903-94f1-ea47a8224331" class="block block-block-content block-block-content0fb05b96-5ad1-4903-94f1-ea47a8224331 clearfix">
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><h3><i class="ic-calendar"></i> Webinars &amp; Events</h3>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+<div data-showblocktitle="1" class="tb-megamenu-column span6 mega-col-nav hidden-collapse" data-class="" data-width="6" data-hidewcol="1" id="tb-megamenu-column-8">
+<div class="tb-megamenu-column-inner mega-inner clearfix">
+<div class="tb-block tb-megamenu-block" data-type="block" data-block="resourcescenter">
+<div class="block-inner">
+<section id="block-block-contentf3cfd14d-ed34-4c2f-ba33-ae7db7c39324" class="block block-block-content block-block-contentf3cfd14d-ed34-4c2f-ba33-ae7db7c39324 clearfix">
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><h3><i class="ic-gear-multi"></i> Resource Center</h3></div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="tb-megamenu-row row-fluid">
+<div class="tb-megamenu-column span6 mega-col-nav" data-class="" data-width="6" data-hidewcol="0" id="tb-megamenu-column-9">
+<div class="tb-megamenu-column-inner mega-inner clearfix">
+<ul class="tb-megamenu-subnav mega-nav level-1 items-5">
+<li class="tb-megamenu-item level-2 mega" data-id="menu_link_content:d59173cf-532d-4c83-9a35-85f183fefc51" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="Ask the N-Central Experts">
+<a href="/qa">
+Ask the N-Central Experts
+</a>
+</li>
+<li class="tb-megamenu-item level-2 mega" data-id="menu_link_content:42f16c00-8941-4aa3-ae9a-4f9cbe75c09d" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="Backup Foundations Training">
+<a href="/resources/backup-recovery-academy">
+Backup Foundations Training
+</a>
+</li>
+<li class="tb-megamenu-item level-2 mega" data-id="menu_link_content:f5f4898b-fff5-47fd-b52e-4540299d0ef7" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="RMM Foundations Training">
+<a href="/resources/remote-management-academy">
+RMM Foundations Training
+</a>
+</li>
+<li class="tb-megamenu-item level-2 mega" data-id="menu_link_content:1b37f81a-8486-4ea8-989d-c372ed2c762a" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="Upcoming Events">
+<a href="/events/upcoming-events">
+Upcoming Events
+</a>
+</li>
+<li class="tb-megamenu-item level-2 mega" data-id="menu_link_content:c09e627b-05ec-4e9b-9eff-e81763cd3500" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="Upcoming Webinars">
+<a href="/webinar">
+Upcoming Webinars
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="tb-megamenu-column span6 mega-col-nav" data-class="" data-width="6" data-hidewcol="" id="tb-megamenu-column-10">
+<div class="tb-megamenu-column-inner mega-inner clearfix">
+<ul class="tb-megamenu-subnav mega-nav level-1 items-5">
+<li class="tb-megamenu-item level-2 mega dropdown-submenu" data-id="menu_link_content:91210eec-1f90-4f8a-8365-a394c5d9eddc" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="Resource Library">
+<a href="/resources/all" class="dropdown-submenu-toggle">
+Resource Library
+<span class="caret"></span>
+</a>
+<div class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="">
+<div class="mega-dropdown-inner">
+<div class="tb-megamenu-row row-fluid">
+<div class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-11">
+<div class="tb-megamenu-column-inner mega-inner clearfix">
+<ul class="tb-megamenu-subnav mega-nav level-2 items-4">
+<li class="tb-megamenu-item level-3 mega" data-id="menu_link_content:476bfb8a-03e2-4116-84b5-e4a4927c3ce2" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="Case Studies">
+<a href="/resources/case-studies">
+Case Studies
+</a>
+</li>
+<li class="tb-megamenu-item level-3 mega" data-id="menu_link_content:a9f450fe-bf22-42e8-8e1a-af4696b96633" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="eBooks">
+<a href="/resources/ebooks">
+eBooks
+</a>
+</li>
+<li class="tb-megamenu-item level-3 mega" data-id="menu_link_content:f50e1fad-a625-4bf4-9111-c67e049ff510" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="White Papers">
+<a href="/resources/white-papers">
+White Papers
+</a>
+</li>
+<li class="tb-megamenu-item level-3 mega" data-id="menu_link_content:3db90652-ec00-430c-abfe-20d22ad736d7" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="Infographics">
+<a href="/resources/infographics">
+Infographics
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="tb-megamenu-item level-2 mega" data-id="menu_link_content:ac99149e-8b3b-4692-bc0f-cea6690a98e9" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="SolarWinds MSP Free Tools">
+<a href="/resources/free-downloads">
+SolarWinds MSP Free Tools
+</a>
+</li>
+<li class="tb-megamenu-item level-2 mega" data-id="menu_link_content:b8ad3a05-a379-4f8a-aa7c-ae400bce304e" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="GDPR Resource Center">
+<a href="/resources/gdpr">
+GDPR Resource Center
+</a>
+</li>
+<li class="tb-megamenu-item level-2 mega gdpr-compliance" data-id="menu_link_content:5f842dd1-3ca2-4da8-ad44-5fb8c3086175" data-level="2" data-type="menu_item" data-class="gdpr-compliance" data-xicon="ic-padlock" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="Security Resource Center">
+<a href="/resources/security">
+<i class="ic-padlock"></i>
+Security Resource Center
+</a>
+</li>
+<li class="tb-megamenu-item level-2 mega" data-id="menu_link_content:e3e0584c-cd6b-4712-8f36-85a606a299f2" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="MSP Institute">
+<a href="/msp-institute">
+MSP Institute
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="tb-megamenu-item level-1 mega dropdown active active-trail" data-id="menu_link_content:3c225032-74b5-47c0-8a22-506c177b390f" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="About">
+<a href="/about-us" class="dropdown-toggle active-trail" data-toggle="dropdown" role="button" aria-expanded="false">
+About
+<span class="caret"></span>
+</a>
+<div class="tb-megamenu-submenu tb-mm-about dropdown-menu mega-dropdown-menu nav-child" data-class="tb-mm-about" data-width="700" style="width: 700px;">
+<div class="mega-dropdown-inner">
+<div class="tb-megamenu-row row-fluid">
+<div class="tb-megamenu-column span7 mega-col-nav" data-class="" data-width="7" data-hidewcol="0" id="tb-megamenu-column-12">
+<div class="tb-megamenu-column-inner mega-inner clearfix">
+<ul class="tb-megamenu-subnav mega-nav level-1 items-5">
+<li class="tb-megamenu-item level-2 mega" data-id="menu_link_content:36584539-e583-4919-ba18-db0d8416dbe8" data-level="2" data-type="menu_item" data-class="" data-xicon="ic-chat" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="Contact">
+<a href="/contact">
+<i class="ic-chat"></i>
+Contact
+</a>
+</li>
+<li class="tb-megamenu-item level-2 mega" data-id="menu_link_content:21ac3472-5570-4afa-9cd4-05b7ab5bbd92" data-level="2" data-type="menu_item" data-class="" data-xicon="ic-globe" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="Worldwide sales and support">
+<a href="/contact/global">
+<i class="ic-globe"></i>
+Worldwide sales and support
+</a>
+</li>
+<li class="tb-megamenu-item level-2 mega" data-id="menu_link_content:64f5ea1c-7f86-4c98-9545-53c2e8236065" data-level="2" data-type="menu_item" data-class="" data-xicon="ic-organisation-diagram" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="Careers">
+<a href="https://solarwinds.jobs/">
+<i class="ic-organisation-diagram"></i>
+Careers
+</a>
+</li>
+<li class="tb-megamenu-item level-2 mega" data-id="menu_link_content:e9d1874a-3218-490c-98c7-3e4c2ff5caae" data-level="2" data-type="menu_item" data-class="" data-xicon="ic-star-border" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="Awards and Recognition">
+<a href="/awards-and-recognition">
+<i class="ic-star-border"></i>
+Awards and Recognition
+</a>
+</li>
+<li class="tb-megamenu-item level-2 mega" data-id="menu_link_content:830629dd-3963-437a-a806-4e8b8421ef24" data-level="2" data-type="menu_item" data-class="" data-xicon="ic-pages" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="Get A Quote">
+<a href="/quote">
+<i class="ic-pages"></i>
+Get A Quote
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="tb-megamenu-column span5 mega-col-nav" data-class="" data-width="5" data-hidewcol="" id="tb-megamenu-column-13">
+<div class="tb-megamenu-column-inner mega-inner clearfix">
+<ul class="tb-megamenu-subnav mega-nav level-1 items-5">
+<li class="tb-megamenu-item level-2 mega sub-hidden-collapse dropdown-submenu" data-id="menu_link_content:61b46a05-1fab-439d-a57f-6da0bec77562" data-level="2" data-type="menu_item" data-class="" data-xicon="ic-edit" data-caption="" data-alignsub="" data-group="0" data-hidewcol="1" data-hidesub="0" data-label="Newsroom">
+<a href="/about-us/press" class="dropdown-submenu-toggle">
+<i class="ic-edit"></i>
+Newsroom
+<span class="caret"></span>
+</a>
+<div class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="">
+<div class="mega-dropdown-inner">
+<div class="tb-megamenu-row row-fluid">
+<div class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-14">
+<div class="tb-megamenu-column-inner mega-inner clearfix">
+<ul class="tb-megamenu-subnav mega-nav level-2 items-3">
+<li class="tb-megamenu-item level-3 mega" data-id="menu_link_content:2de77c48-0cff-4c8c-aac9-06fc79bdfd96" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="Press Releases">
+<a href="/about-us/press/press-releases">
+Press Releases
+</a>
+</li>
+<li class="tb-megamenu-item level-3 mega" data-id="menu_link_content:f442fc70-5731-4530-b66a-36b71c6a4c55" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="In The News">
+<a href="/about-us/press/news">
+In The News
+</a>
+</li>
+<li class="tb-megamenu-item level-3 mega" data-id="menu_link_content:5ddb2da4-8a10-49c7-bab7-7c7964e142ac" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="Media Contacts">
+<a href="/about-us/press/media-contacts">
+Media Contacts
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="tb-megamenu-item level-2 mega" data-id="menu_link_content:733b8762-4b97-4377-b0cf-35713c7354d6" data-level="2" data-type="menu_item" data-class="" data-xicon="ic-lighting-bolt" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="Leadership Team">
+<a href="/about-us/leadership-team">
+<i class="ic-lighting-bolt"></i>
+Leadership Team
+</a>
+</li>
+<li class="tb-megamenu-item level-2 mega sub-hidden-collapse dropdown-submenu active active-trail" data-id="menu_link_content:720095bf-def0-445b-a6d3-7aee8fc86692" data-level="2" data-type="menu_item" data-class="" data-xicon="ic-user-manual" data-caption="" data-alignsub="" data-group="0" data-hidewcol="1" data-hidesub="0" data-label="Legal">
+<a href="/legal" class="dropdown-submenu-toggle active-trail">
+<i class="ic-user-manual"></i>
+Legal
+<span class="caret"></span>
+</a>
+<div class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="">
+<div class="mega-dropdown-inner">
+<div class="tb-megamenu-row row-fluid">
+<div class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-15">
+<div class="tb-megamenu-column-inner mega-inner clearfix">
+<ul class="tb-megamenu-subnav mega-nav level-2 items-5">
+<li class="tb-megamenu-item level-3 mega" data-id="menu_link_content:c1417739-487f-4ec2-9473-e4ba02c3ed06" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="Cookie Policy">
+<a href="/legal/cookie-policy">
+Cookie Policy
+</a>
+</li>
+<li class="tb-megamenu-item level-3 mega active active-trail" data-id="menu_link_content:793e7261-90cb-4024-b56a-551a81c84575" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="Privacy Notice">
+<a href="/legal/privacy" class="active-trail">
+Privacy Notice
+</a>
+</li>
+<li class="tb-megamenu-item level-3 mega" data-id="menu_link_content:22bfc317-40f4-44e4-8405-c5a1f7dbafa4" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="Software Services Agreement">
+<a href="/legal/solarwinds-msp-software-services-agreement">
+Software Services Agreement
+</a>
+</li>
+<li class="tb-megamenu-item level-3 mega" data-id="menu_link_content:2d695f44-6159-4e38-8636-f959dadb2bc2" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="Terms of Use">
+<a href="/legal/terms-of-use">
+Terms of Use
+</a>
+</li>
+<li class="tb-megamenu-item level-3 mega" data-id="menu_link_content:6b1aed6d-13fa-446c-957c-81d3b701755a" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="Backup Fair Use Policy">
+<a href="/legal/backup-fair-use-policy">
+Backup Fair Use Policy
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="tb-megamenu-item level-2 mega dropdown-submenu" data-id="menu_link_content:59819d81-9029-4b16-9ec1-978247b4110e" data-level="2" data-type="menu_item" data-class="" data-xicon="ic-padlock" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="Security">
+<a href="/security" class="dropdown-submenu-toggle">
+<i class="ic-padlock"></i>
+Security
+<span class="caret"></span>
+</a>
+<div class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="">
+<div class="mega-dropdown-inner">
+<div class="tb-megamenu-row row-fluid">
+<div class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-16">
+<div class="tb-megamenu-column-inner mega-inner clearfix">
+<ul class="tb-megamenu-subnav mega-nav level-2 items-2">
+<li class="tb-megamenu-item level-3 mega" data-id="menu_link_content:9276be98-ab23-4ad8-bc85-060692daccb1" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="SolarWinds Security Statement">
+<a href="/security/solarwinds-security-statement">
+SolarWinds Security Statement
+</a>
+</li>
+<li class="tb-megamenu-item level-3 mega" data-id="menu_link_content:d73fc42c-20d3-4bd0-8a9d-26ce39ad7f1a" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="Vendor Data Protection Requirements">
+<a href="/security/vendor-data-protection-requirements">
+Vendor Data Protection Requirements
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="tb-megamenu-item level-2 mega" data-id="menu_link_content:1f891e09-aa43-4c30-911c-87c8f77211d4" data-level="2" data-type="menu_item" data-class="" data-xicon="ic-servicedesk-c" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="Support">
+<a href="https://support.solarwindsmsp.com/kb?_ga=2.83908889.1095149049.1525075893-1607571422.1513092340">
+<i class="ic-servicedesk-c"></i>
+Support
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="tb-megamenu-item level-1 mega" data-id="menu_link_content:b8e81d17-49c5-47e7-9972-27a80804f758" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="Blog">
+<a href="/blog">
+Blog
+</a>
+</li>
+<li class="tb-megamenu-item level-1 mega tb-mm-contact-sales dropdown" data-id="menu_link_content:946c4ed1-806b-48fb-88b0-e0b4e9bab830" data-level="1" data-type="menu_item" data-class="tb-mm-contact-sales" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="Contact Sales">
+<a href="/contact" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+Contact Sales
+<span class="caret"></span>
+</a>
+<div class="tb-megamenu-submenu tb-mm-contact dropdown-menu mega-dropdown-menu nav-child" data-class="tb-mm-contact" data-width="300" style="width: 300px;">
+<div class="mega-dropdown-inner">
+<div class="tb-megamenu-row row-fluid">
+<div class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-17">
+<div class="tb-megamenu-column-inner mega-inner clearfix">
+<ul class="tb-megamenu-subnav mega-nav level-1 items-2">
+<li class="tb-megamenu-item level-2 mega" data-id="menu_link_content:76fc7f06-7fc9-41df-9c39-2372d0619008" data-level="2" data-type="menu_item" data-class="" data-xicon="ic-pages" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="Get A Quote">
+<a href="/quote">
+<i class="ic-pages"></i>
+Get A Quote
+</a>
+</li>
+<li class="tb-megamenu-item level-2 mega" data-id="menu_link_content:ccbb3571-ebbe-4206-8d2c-18ab5246efee" data-level="2" data-type="menu_item" data-class="" data-xicon="ic-chat" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="General Inquiry">
+<a href="/contact">
+<i class="ic-chat"></i>
+General Inquiry
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="tb-megamenu-item level-1 mega tb-mm-try-now dropdown" data-id="menu_link_content:f4e57516-5507-4596-b876-6c80fbac8d5a" data-level="1" data-type="menu_item" data-class="tb-mm-try-now" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="TRY NOW">
+<a href="/products" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+TRY NOW
+<span class="caret"></span>
+</a>
+<div class="tb-megamenu-submenu tb-mm-trials dropdown-menu mega-dropdown-menu nav-child" data-class="tb-mm-trials" data-width="700" style="width: 700px;">
+<div class="mega-dropdown-inner">
+<div class="tb-megamenu-row row-fluid">
+<div class="tb-megamenu-column span5 mega-col-nav" data-class="" data-width="5" data-hidewcol="0" id="tb-megamenu-column-18">
+<div class="tb-megamenu-column-inner mega-inner clearfix">
+<ul class="tb-megamenu-subnav mega-nav level-1 items-3">
+<li class="tb-megamenu-item level-2 mega" data-id="menu_link_content:0598b70a-824e-43f4-b1a9-712f119cd940" data-level="2" data-type="menu_item" data-class="" data-xicon="ic-remotemanagement" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="SolarWinds RMM">
+<a href="/products/remote-management/trial">
+<i class="ic-remotemanagement"></i>
+SolarWinds RMM
+</a>
+</li>
+<li class="tb-megamenu-item level-2 mega" data-id="menu_link_content:97a6e7db-5e73-42e1-a692-3733d36d28ca" data-level="2" data-type="menu_item" data-class="" data-xicon="ic-backup" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="SolarWinds Backup">
+<a href="/products/backup/trial">
+<i class="ic-backup"></i>
+SolarWinds Backup
+</a>
+</li>
+<li class="tb-megamenu-item level-2 mega" data-id="menu_link_content:304a4011-dbe8-43c6-9d4e-45e96f35b59c" data-level="2" data-type="menu_item" data-class="" data-xicon="ic-msp-manager" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="MSP Manager">
+<a href="/products/msp-manager/trial">
+<i class="ic-msp-manager"></i>
+MSP Manager
+</a>
+</li>
+ </ul>
+</div>
+</div>
+<div class="tb-megamenu-column span7 mega-col-nav" data-class="" data-width="7" data-hidewcol="" id="tb-megamenu-column-19">
+<div class="tb-megamenu-column-inner mega-inner clearfix">
+<ul class="tb-megamenu-subnav mega-nav level-1 items-3">
+<li class="tb-megamenu-item level-2 mega" data-id="menu_link_content:12afe008-ca75-4848-b6b3-1304c9fb1008" data-level="2" data-type="menu_item" data-class="" data-xicon="ic-mail" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="SolarWinds Mail Assure">
+<a href="/products/mail-assure/trial">
+<i class="ic-mail"></i>
+SolarWinds Mail Assure
+</a>
+</li>
+<li class="tb-megamenu-item level-2 mega" data-id="menu_link_content:feabffa8-05e9-4296-bc8c-8634aead72a2" data-level="2" data-type="menu_item" data-class="" data-xicon="ic-riskintelligence" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="SolarWinds Risk Intelligence">
+<a href="/products/risk-intelligence/trial">
+<i class="ic-riskintelligence"></i>
+SolarWinds Risk Intelligence
+</a>
+</li>
+<li class="tb-megamenu-item level-2 mega" data-id="menu_link_content:2af4d843-b682-4f9f-8793-2ee315f0bcb5" data-level="2" data-type="menu_item" data-class="" data-xicon="ic-msp-anywhere" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="MSP Anywhere">
+<a href="/products/msp-anywhere/trial">
+<i class="ic-msp-anywhere"></i>
+MSP Anywhere
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</section>
+</div>
+</div>
+</nav>
 </header>
-
-<div id="main-wrapper" class="maxfocus">
-	<div id="main" class="main">
-		<div class="container">
-			<div class="row">
-				<div class="col-xs-12">
-											<div id="breadcrumb" class="visible-desktop">
-							<h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="https://www.maxfocus.com/">Home</a> » <span>Privacy Policy</span></div>						</div>
-									</div>
-			</div>
-		</div>
-		<div id="content" class="">
-			  <div class="region region-content">
-    <div id="block-system-main" class="block block-system">
-
-    
-  <div class="content">
-    
-<div class="node-standard-page view-mode-full">
-        
-<div class="panel-display maxhome clearfix ">
-
-	<div class="container-fluid maxstandard-container maxstandard-jumbotron clearfix panel-panel">
-		<div class="row">
-			<div class="col-xs-12 no-pad">
-				<div class="inner">
-					<div class="panel-pane pane-entity-view pane-node">
-  
-      
-  
-  <div class="pane-content">
-    
-	<section class="poster-standard max-blue">
-		<div class="inner">
-			<div class="container">
-				<div class="row">
-											<div class="col-xs-12 col-md-offset-2 col-md-8 copy cen-copy">
-															<span class="huge-headline inverted dark text-center">Privacy  Policy</span>
-							
-																<div>
-										<h1 class="standard-poster-txt text-center">LogicNow - Global Privacy Policy</h1>
-									</div>
-								
-													</div>
-									</div>
-			</div>
-		</div>
-	</section>
-  </div>
-
-  
-  </div>
-				</div>
-			</div>
-		</div>
-	</div>
-	
-	<div class="container maxstandard-container clearfix panel-panel">
-		<div class="row">
-			<div class="col-xs-12 col-sm-8">
-				<div class="inner content">
-					<div class="panel-pane pane-entity-view pane-node">
-  
-      
-  
-  <div class="pane-content">
-    
-<div class="node node-standard-page clearfix">
-		
-  <div class="field field-name-field-content field-type-text-long field-label-hidden">
-    <h2>LogicNow - Global Privacy Policy</h2><p>Last modified: October 2015</p><p><strong>At LogicNow it is one of our most fundamental values to deliver the best customer experience possible. Based on this philosophy, we want you to always feel informed and comfortable with how we collect, use, and disclose information. </strong></p><p><strong>&nbsp;</strong></p><p><strong>LogicNow respects your personal privacy. </strong></p><p><strong>&nbsp;</strong></p><p><strong>We are making a commitment to you that any personal information collected during visits to our website or provided to us in connection with our services, software applications or social media sites is processed in accordance with applicable data protection laws. LogicNow protects your information using state-of-the-art safeguard procedures. </strong></p><p><strong>&nbsp;</strong></p><p><strong>Introduction</strong></p><p>LogicNow and its affiliated companies and subsidiaries ("we/us") respect your privacy and are committed to protecting it through our compliance with this privacy policy (“Privacy Policy”). This Privacy Policy (together with our terms of use and any other documents referred to in it) describes the type of information that we collect from you through the use of our products and/or services (“Products”), or the use of this website <a href="http://www.maxfocus.com">www.maxfocus.com</a> (our "Website"), how that information may be used or disclosed by us and the safeguards we use to protect it.</p><p>&nbsp;</p><p>Our Website and Products may contain links to third party websites that are not covered by this Privacy Policy. LogicNow encourages you to review the privacy statements of other websites and applications to understand their information practices.</p><p>&nbsp;</p><p>We have drafted this Privacy Policy to be as clear and concise as possible. Please read it carefully to understand our policies regarding your information and how we will treat it. By using or accessing our Website or the Products, you agree to the collection, use and disclosure of information in accordance with this Privacy Policy. This Privacy Policy may change from time to time and your continued use of the Website or the Products is deemed to be acceptance of such changes, so please check periodically for updates.</p><p>&nbsp;</p><p><strong>Information you voluntarily provide to us</strong></p><p>We collect personal information that you voluntarily provide to us yourself on our Website, through social media or through the use of the Products including but not limited to your name, address, email address, telephone number or financial information, in the following circumstances:</p><p><strong>&nbsp;</strong></p><ul class="ul1"><li><strong>Accounts</strong>&nbsp;– when you register for an account or subscribe to use the Products or our Website</li><li><strong>Support&nbsp;</strong>– when you request support, services or information about the Products or our Website</li><li><strong>Contests and Promotions</strong>&nbsp;– when you participate in a contest, promotion or survey</li><li><strong>Correspondence</strong>&nbsp;– when you contact us &nbsp;</li><li><strong>Transactions and Orders</strong>&nbsp;– when you carry out transactions through our Website or purchase the Products including on a trial basis or any upgrades</li></ul><p>&nbsp;</p><p>If you choose not to provide the personal information we request, you can still visit most areas of the Website, but you may be unable to access certain options and services that involve interaction. You have the final decision on whether to proceed with any activity that requests personal information.</p><p>&nbsp;</p><p><strong>Information we may collect</strong></p><p>We may use various common internet technologies to automatically collect statistical or aggregate non-personal information about your interaction with our Website or the Products. This may include usage information about your computer, laptop, mobile phone or other electronic device such as internet protocol (IP) addresses, location,&nbsp;browser type, internet service provider (ISP), pages that you access, referring/exit pages, operating system, date/time stamp and other interactions with our Website or the Products. We analyse this information in order to understand our customers’ requirements and based on these, to continually improve our Website and Products.</p><p>&nbsp;</p><p>If we link or associate any information gathered with personal information we treat the combined information as personal information. Otherwise we only use and disclose non-personal or anonymized information collected solely by passive means in aggregate form or in a non-personally or anonymized form. Where, according to local law, IP addresses and the like are considered personal information, then we treat them as such. &nbsp;</p><p>&nbsp;</p><p><strong>Cookies -</strong> LogicNow uses cookies to track visitor preferences and to improve our Website and Products. Further information about cookies is available <a href="https://www.maxfocus.com/cookie-policy">here</a>.</p><p>&nbsp;</p><p><strong>Web Beacons -</strong>&nbsp;Web beacons also known as pixel tags are electronic images, contained on a website that permit us to count users who have visited those pages and for other related website statistics. Web beacons are not used to access your personal information on the Website and are only used to compile aggregated statistics concerning use of the Website.</p><p><strong>&nbsp;</strong></p><p><strong>Web Analytics -&nbsp;</strong>We also collect some non-personally identifiable information (ourselves or using third party services) using web analytic tools. We use&nbsp;third-party services&nbsp;that use tracking technologies to capture aggregate usage and volume statistics about interactions on our Website and Products.</p><p><strong>&nbsp;</strong></p><p><strong>Third Party Advertising Technologies -</strong>&nbsp;In addition, we may use third party vendors such as Google or AdRoll to perform display advertising or remarketing services on our Website. These services collect and use data which can help us tailor advertising that we think may be of interest to you, based on your use of our Website and/or Products. Third-party vendors may use or place cookies and web beacons on your web browsers to collect non-personal information about your activities on our Website to provide you with targeted ads.</p><p>&nbsp;</p><p>As always, we respect your privacy and do not collect any personally identifiable information through the use of Google or any other third party services. Any information collected is used only for remarketing purposes and will not be used by third-party marketing vendors for any other purpose. To opt out of Remarketing and Advertising&nbsp;<a href="https://www.google.com/settings/ads">click here</a>. To find out more about how Google uses any data it collects please visit<strong>&nbsp;</strong><a href="http://www.google.com/privacy_ads.html">here</a>. You may also opt-out of third-party advertisement networks, including those operated by members of the Network Advertising Initiative ("NAI") and the Digital Advertising Alliance ("DAA"). For more information regarding this practice by NAI members and DAA members, and how to opt-out of third-party ad networks operated by NAI and DAA members, please visit their respective websites <a href="http://www.networkadvertising.org/optout_nonppii.asp(NAI)">here</a> for NAI and <a href="http://www.aboutads.info/choices/">here</a> for DAA.</p><p>&nbsp;</p><p>Please note this does not opt you out of being served advertising. You will continue to receive generic ads.</p><p><strong>How we use the information</strong></p><p>We process and use your personal information only in connection with services related to our Products and Website in the following ways:</p><p>&nbsp;</p><ul class="ul1"><li>To administer, operate and improve the Products, services and our Website;</li><li>To provide you with information or newsletters about our Products or services that you request from us;</li><li>To notify you about any changes or provide you with support;</li><li>To carry out our obligations, process and enforce our rights arising from any contracts entered into between you and us such as communications related to payments and changes to our terms, conditions and policies;</li><li>To allow you to purchase and download Products and participate in interactive features of our services, when you choose to do so;</li><li>For billing and accounting purposes;</li><li>For internal purposes such as performing research and analysis and to provide anonymous reporting internally or externally;</li><li>For marketing and promotional purposes so as to provide you with information about Products or services we think you might like. You may opt-out of receiving these communications by following the steps described below;</li><li>For any other purposes that we may disclose to you at the point at which we request your personal information and pursuant to your consent; or</li><li>To prevent or take action against activities that are or may be in violation of the Product end-user license agreement, the Website Terms of Use or applicable law.</li></ul><p>&nbsp;</p><p>Once you have registered for the Products we reserve the right to send you certain communications relating to the Products, such as service announcements and administrative messages that are considered part of the Product. Please be aware that you may not opt out of receiving these mandatory communications related to the Products.</p><p>&nbsp;</p><p><strong>Disclosure of your information</strong></p><p>Except as described in this Privacy Policy, we will not disclose your personal information to third parties without your consent. We may disclose personal information that you provide to us when necessary to the following third parties:</p><p>&nbsp;</p><ul class="ul1"><li>Authorised partners, distributors and resellers to fulfil any terms under your licensing and service relationship with us and to provide you with local technical and customer support;</li><li>In the event (whether perspective or actual) of a merger, acquisition, or any form of sale of some or all of LogicNow’s assets, in which case personal information held by us about you and our customers will be among the assets transferred to the (prospective) buyer;</li><li>Direct or indirect contractors and service providers we occasionally use to support our business as may be required for example, to fulfil orders, conduct billing/credit card processing, provide you with services or perform statistical analysis of the Products and our Website. Those service providers will be permitted to obtain only the personal information they need to deliver the service in accordance with our policies under confidentiality agreements and not for their own purposes;</li><li>To comply with a law, court order or other legal obligation;</li><li>To a member of our group – holding company and its subsidiaries and affiliates. This information helps us make your customer experience more seamless and efficient;</li><li>To enforce or apply our terms of use or terms of license or sale and other agreements; or</li><li>To protect the rights, property, or safety of LogicNow, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.</li></ul><p>&nbsp;</p><p>We may disclose non-personal information that doesn’t identify you, to our partners or other third parties about how our customers, collectively, use our Website and the Products but we do not sell or share any information at the individual level.</p><p>&nbsp;</p><p><strong>Your choices and opt-out &nbsp;</strong></p><p>We would like to tell you about our Products and those of our partners. You decide whether or not you would like to be contacted by us. You may elect to opt-out of receiving direct marketing or market research information from us.</p><p><strong>&nbsp;</strong></p><p><strong>Promotional Offers </strong>- If you do not wish us to share your personal information with other LogicNow companies or affiliated third parties for promotional purposes, you can opt-out by checking the relevant box located on the applicable registration form on which we collect your data. You can also simply log into your account on the Website and adjust your user preferences or by sending us an e-mail stating your request to&nbsp;<a href="mailto:legal@logicnow.com"><strong>legal</strong>@<strong>logicnow</strong>.com</a>.</p><p>&nbsp;</p><p><strong>Unsubscribing -</strong>&nbsp;In every marketing or promotional e-mail that we send to you, there is an ‘unsubscribe’ hyperlink, which you may use if you wish to ‘opt-out’ and stop receiving promotional email communications from us. Alternatively, you may send an e-mail to <a href="mailto:unsubscribe@maxfocus.com"><strong>unsubscribe@maxfocus.com</strong></a>&nbsp;with your request, stating ‘Unsubscribe’ as the subject and indicate which e-mail addresses you would like to be removed from our mailing list.</p><p>&nbsp;</p><p>We shall ensure that your e-mail address is unsubscribed and shall no longer receive any promotional communications from us. Please note it may take up to ten business days for us to process your opt-out request and you may receive commercial e-mail from us during that period.</p><p>&nbsp;</p><p><strong>User Contributions</strong></p><p>You are responsible for any content, including personal information, that you contribute to be posted, published or displayed on the Website or through social media (collectively, "User Contributions"). Your User Contributions are posted on and transmitted to other users of the Website at your own risk. Although we limit access to certain pages, you may set certain privacy settings for such information by logging into your account profile. Please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions; therefore, we cannot guarantee who will view or use your User Contributions. We are not responsible for circumvention by third parties of any privacy settings or security measures contained on the Website. You understand and acknowledge that, even after removal, copies of your User Contributions may remain viewable in cached and archived pages, or may have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by this Privacy Policy and our Website Terms of Use and known or suspected violations should be reported to&nbsp;<a href="mailto:legal@logicnow.com"><strong>legal</strong>@<strong>logicnow</strong>.com</a>.</p><p>&nbsp;</p><p><strong>Accessing and correcting your personal information</strong></p><p>If requested, LogicNow will confirm whether we store personal data about you and what this data is. You can review or update your personal information by logging into your account and making changes. If you have forgotten your password, you can click on the "Forgot your password?" link and submit your e-mail address. Your user name and password will be e-mailed to you. Alternatively, you can also contact us at&nbsp;<a href="mailto:legal@logicnow.com">legal@logicnow.com</a>&nbsp;if you wish to exercise these rights. While we will strive to accommodate your requests, we may reject requests which risk the privacy of others, are unreasonable or repetitive, require disproportionate technical effort or would be extremely impractical.</p><p>&nbsp;</p><p>If you request that we delete your account we will do so within a reasonable period of time, but we may need to retain some of your personal information in order to satisfy our legal obligations, or where we reasonably believe that we have a legitimate reason to do so.</p><p><strong>&nbsp;</strong></p><p><strong>Where we store your personal data</strong></p><p>The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside of the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.</p><p>&nbsp;</p><p>With respect to data transfers from the EEA to the United States or to other countries outside the EEA, we have taken steps to ensure adequate protection for such data transfers in accordance with European data protection legislation. We have entered into appropriate data transfer agreements based on the standard contractual clauses specifically approved by the European Commission for the purpose of providing adequate protection for data transfers between LogicNow entities outside the EEA, as necessary.</p><p><strong>&nbsp;</strong></p><p><strong>Children under the age of 13</strong></p><p>Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, please do not register on the Website, make any purchases through the Website or send any information about yourself to us. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information. If you believe that we might have any information from or about a child under 13, please contact us at&nbsp;<a href="mailto:legal@logicnow.com">legal@<strong>logicnow</strong>.com</a>.</p><p>&nbsp;</p><p><strong>Data security</strong></p><p>We have implemented industry-standard administrative, technical and physical security measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. All information you provide to us is stored on secure servers behind firewalls and strictly controlled. Any payment transactions are encrypted using SSL technology.</p><p>&nbsp;</p><p>Where we have given you (or where you have chosen) a password for access to certain parts of our Website or Products, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.</p><p>&nbsp;</p><p>Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website or through your use of our Products and any transmission is at your own risk.</p><p>&nbsp;</p><p><strong>Your California privacy rights</strong></p><p>California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes during the immediately preceding calendar year. To make such a request, please send an e-mail to&nbsp;<a href="mailto:legal@logicnow.com"><strong>legal</strong>@<strong>logicnow</strong>.com</a>.</p><p>&nbsp;</p><p><strong>Changes to our Privacy Policy</strong></p><p>It is our policy to post any changes we make to our Privacy Policy on this page. It is your responsibility to check this page from time to time to check for any change. Your continued use of the Website or our Products shall be deemed to be your consent to such changes.</p><p>&nbsp;</p><p>The date the Privacy Policy was last revised is identified at the top of the page.</p><p>&nbsp;</p><p><strong>Contact information</strong></p><p>To ask questions or comment about this privacy policy and our privacy practices, contact us at:&nbsp;<a href="mailto:legal@logicnow.com"><strong>legal</strong>@<strong>logicnow</strong>.com</a></p><p>&nbsp;</p><p>Corporate address</p><p>LogicNow Ltd</p><p>The Vision Building<br> 20 Greenmarket<br> Dundee<br> DD1 4QB</p><p>UK</p><p><strong>Email:</strong>&nbsp;<a href="mailto:legal@logicnow.com">legal@logicnow.com</a></p><p>&nbsp;</p>  </div>
-</div>  </div>
-
-  
-  </div>
-				</div>
-			</div>
-			<div class="col-xs-12 col-sm-4">
-				<div class="inner sidebar">
-									</div>
-			</div>
-		</div>
-	</div>
-	
-	<div class="section-assets">
-		<div class="container maxstandard-container maxstandard-section-heading-assets clearfix panel-panel">
-			<div class="row">
-				<div class="col-xs-12 col-md-8 col-md-offset-2">
-									</div>
-			</div>
-			<div class="row">
-				<div class="col-xs-12 col-md-4">
-									</div>
-				<div class="col-xs-12 col-md-4">
-									</div>
-				<div class="col-xs-12 col-md-4">
-									</div>
-			</div>
-		</div>
-	</div>
-	
-	<div class="section-bottom">
-		<div class="container-fluid maxstandard-container maxstandard-section-bottom clearfix panel-panel">
-			<div class="row">
-				<div class="col-xs-12">
-									</div>
-			</div>
-		</div>
-	</div>
-
-
-</div><!-- /.maxhome -->
-</div>  </div>
-</div>
-  </div>
-		</div>
-	</div> <!-- /#main -->
-</div> <!-- /#main-wrapper -->
-	<div id="footertop1">
-	<div id="footertop1-region" class="container"><div class="row section">
-		  <div class="region region-footertop1">
-    <div id="block-block-5" class="block block-block">
-
-    
-  <div class="content">
-    <section class="max-in-numbers en">
-	<aside class="col-xs-12 col-sm-4 a">
-		<h2>260 million</h2>
-		<p>remote monitoring checks<br>
-		run every day</p>
-	</aside>
-	<aside class="col-xs-12 col-sm-4 a">
-		<h2>8 billion</h2>
-		<p>spam messages  stopped by<br>
-		MAX in the past year</p>
-	</aside>
-	<aside class="col-xs-12 col-sm-4 a">
-		<h2>1 million</h2>
-		<p>quarantined threats by<br>
-		MAX every month</p>
-	</aside>
-</section>  </div>
-</div>
-  </div>
-	</div></div></div> <!-- footertop1 -->
-	<div id="footertop2">
-	<div id="footertop2-region" class="container"><div class="row section">
-		  <div class="region region-footertop2">
-    
-<aside class="product-divider">
-  <img src="https://www.maxfocus.com/sites/max/themes/max/assets/images/signatures/en.png" alt="Signature">
-  <span class="free-trial">
-    Take a free 30 day trial now...  </span>
-  <div class="cta-group">
-    <a href="/trials" class="cta cta-learn-more">FREE TRIAL      <span class="fa fa-caret-right">
-      </span>
-    </a>
-  </div>
-</aside>  </div>
-	</div></div></div> <!-- footertop2 -->
-	<div id="footertop3">
-	<div id="footertop3-region" class="container"><div class="row section">
-		  <div class="region region-footertop3">
-    <div id="block-block-4" class="block block-block col-xs-12">
-
-    
-  <div class="content">
-    <aside class="ticks footer">
-	<ul>
-		<li><i class="fa fa-check"></i>Try all MAXfocus products FREE</li>
-		<li><i class="fa fa-check"></i>Start earning recurring revenue</li>
-		<li><i class="fa fa-check"></i>Just 10 minutes to get started</li>
-	</ul>
-</aside>  </div>
-</div>
-  </div>
-	</div></div></div> <!-- footertop3 -->
- <div id="footertop4">
-	<div id="footertop4-region" class="container"><div class="row section">
-		  <div class="region region-footertop4">
-    <div id="block-block-3" class="block block-block col-xs-12">
-
-    
-  <div class="content">
-    <aside class="connect-with-us">
-	<h2>Connect With Us</h2>
-	<p>There are a number of ways to keep up to date with what is happening at MAX and to ensure you have full details on company and product news, our sales &amp; marketing and technical webinars - plus access to free resources like white papers and our blog.</p>
-	<ul class="social-icons">
-		<li class="tw"><a href="https://twitter.com/logicnow"><i class="fa fa-twitter"></i></a></li>
-		<li class="gplus"><a href="https://plus.google.com/112779368795700237830/"><i class="fa fa-google-plus"></i></a></li>
-		<li class="yt"><a href="https://www.youtube.com/channel/UCIyv4sD9Hdp9xnafcBXisDg/"><i class="fa fa-youtube"></i></a></li>
-		<li class="lin"><a href="https://www.linkedin.com/groups?mostRecent=&amp;gid=1986499"><i class="fa fa-linkedin"></i></a></li>
-	</ul>
-</aside>  </div>
-</div>
-  </div>
-	</div></div></div> <!-- footertop4 -->
- <div id="footertop5">
-	<div id="footertop5-region" class="container"><div class="row section">
-		  <div class="region region-footertop5">
-    <div id="block-views-awards-block-1" class="block block-views col-xs-12">
-
-    
-  <div class="content">
-    <div class="view view-awards view-id-awards view-display-id-block_1 container view-dom-id-a45ca678e1b7084d7d488e94827b8790">
-        
-  
-  
-      <div class="view-content">
-      
-  <div class="skin-default">
-          <div class="views-slideshow-controls-top clearfix">
-        <div id="views_slideshow_controls_text_awards-block_1" class="views-slideshow-controls-text views_slideshow_controls_text">
-  <span id="views_slideshow_controls_text_previous_awards-block_1" class="views-slideshow-controls-text-previous views_slideshow_controls_text_previous"><a href="#">Previous</a></span>
-  <span id="views_slideshow_controls_text_pause_awards-block_1" class="views-slideshow-controls-text-pause views_slideshow_controls_text_pause  views-slideshow-controls-text-status-play"><a href="#">Pause</a></span>
-  <span id="views_slideshow_controls_text_next_awards-block_1" class="views-slideshow-controls-text-next views_slideshow_controls_text_next"><a href="#">Next</a></span>
-</div>
-      </div>
-    
-    <div id="views_slideshow_cycle_main_awards-block_1" class="views_slideshow_cycle_main views_slideshow_main"><div id="views_slideshow_cycle_teaser_section_awards-block_1" class="views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section">
-  <div id="views_slideshow_cycle_div_awards-block_1_0" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-1 views-row-odd">
-  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd views-row-first award-icon">
-    
-          <img src="https://www.maxfocus.com/sites/max/files/awards/2015-miami-best-of-show_0.jpg" width="122" height="55">  </div>
-<div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd views-row-first award-icon">
-    
-          <img src="https://www.maxfocus.com/sites/max/files/awards/2015-miami-best-of-show.jpg" width="122" height="55">  </div>
-<div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd views-row-first award-icon">
-    
-          <img src="https://www.maxfocus.com/sites/max/files/awards/award-autotask-best-technology-integration.png" width="122" height="80">  </div>
-<div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd views-row-first award-icon">
-    
-          <img src="https://www.maxfocus.com/sites/max/files/awards/award-ascii-best-in-show_0.png" width="122" height="80">  </div>
-</div>
-<div id="views_slideshow_cycle_div_awards-block_1_1" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even">
-  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-1 views-row-even award-icon">
-    
-          <img src="https://www.maxfocus.com/sites/max/files/awards/awards-chpro-bpc-2014.jpg" width="122" height="80" alt="Channelpro Best Partner Community" title="Channelpro Best Partner Community">  </div>
-<div class="views-slideshow-cycle-main-frame-row-item views-row views-row-1 views-row-even award-icon">
-    
-          <img src="https://www.maxfocus.com/sites/max/files/awards/awards-ascii-brg-2014.jpg" width="122" height="80" alt="Best revenue generator 2014" title="Best revenue generator 2014">  </div>
-<div class="views-slideshow-cycle-main-frame-row-item views-row views-row-1 views-row-even award-icon">
-    
-          <img src="https://www.maxfocus.com/sites/max/files/awards/awards-ascii-bcs-2014.jpg" width="122" height="80" alt="Best cloud solution 2014" title="Best cloud solution 2014">  </div>
-<div class="views-slideshow-cycle-main-frame-row-item views-row views-row-1 views-row-even award-icon">
-    
-          <img src="https://www.maxfocus.com/sites/max/files/awards/awards-bs-bcv-2014.jpg" width="122" height="80" alt="Business Solutions Best Channel Vendor 2014" title="Business Solutions Best Channel Vendor 2014">  </div>
-</div>
-<div id="views_slideshow_cycle_div_awards-block_1_2" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd">
-  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-2 views-row-odd award-icon">
-    
-          <img src="https://www.maxfocus.com/sites/max/files/awards/awards-ascii-customersupport-2013.jpg" width="122" height="80" alt="Winner Customer Support 2013" title="Winner Customer Support 2013">  </div>
-<div class="views-slideshow-cycle-main-frame-row-item views-row views-row-2 views-row-odd award-icon">
-    
-          <img src="https://www.maxfocus.com/sites/max/files/awards/awards-ng-svoty-2013.jpg" width="122" height="80" alt="Network Group - Special Vendor of the Year 2013" title="Network Group - Special Vendor of the Year 2013">  </div>
+<div role="main" class="main-container container js-quickedit-main-content">
+<div class="row">
+<section class="col-xs-12 col-sm-9">
+<a id="main-content"></a>
+<div class="region region-content">
+<div class="view-mode-full ds-1col clearfix">
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><h1>SolarWinds Privacy</h1>
+<p><span lang="EN-US" xml:lang="EN-US">SolarWinds is committed to protecting the privacy of visitors of the SolarWinds website(s), individuals who register to use the products and services, individuals who register to attend the Company’s corporate or other events, and business partners. The following privacy notices explain our privacy practices related to these activities and how SolarWinds may collect, use, and/or share personal data.</span></p>
+<p><a href="https://www.solarwindsmsp.com/resources/gdpr"><strong><span lang="EN-US" xml:lang="EN-US">GDPR Statement</span></strong><span lang="EN-US" xml:lang="EN-US">:</span></a><span lang="EN-US" xml:lang="EN-US"> The EU General Data Protection Regulation (GDPR), enforceable as of May 25, 2018, imposes additional requirements upon companies to strengthen the security around and enhance the protection of personal data of EU residents. We discuss SolarWinds' efforts and commitment to GDPR in the <a href="https://www.solarwindsmsp.com/resources/gdpr">SolarWinds GDPR Resource Center</a></span></p>
+<p><a href="https://www.solarwindsmsp.com/legal/privacy"><strong><span lang="EN-US" xml:lang="EN-US">Privacy Notice</span></strong><span lang="EN-US" xml:lang="EN-US">:</span></a><span lang="EN-US" xml:lang="EN-US">&nbsp;SolarWinds is committed to protecting the privacy of those involved in its business. This Privacy Notice is meant to help you understand, among other things, what personal data we collect, why we collect it, and what we do with it.</span></p>
+<p><a href="https://www.solarwindsmsp.com/legal/cookie-policy"><strong><span lang="EN-US" xml:lang="EN-US">Cookie Policy</span></strong><span lang="EN-US" xml:lang="EN-US">:</span></a><span lang="EN-US" xml:lang="EN-US">&nbsp;This Cookie Policy addresses how we use cookies when you visit SolarWinds. We want to be clear about how we collect and use data related to you via cookies.</span></p>
+<h3><strong><span lang="EN-US" xml:lang="EN-US">PRIVACY NOTICE</span></strong></h3>
+<p><em><span lang="EN-US" xml:lang="EN-US">Last updated: May 16, 2018</span></em></p>
+<p><span lang="EN-US" xml:lang="EN-US">SolarWinds Worldwide, LLC and its affiliated companies and subsidiaries (“SolarWinds,” “we” or “us”) are committed to protecting the privacy of visitors of the SolarWinds website(s), individuals who register to use the products and services, individuals who register to attend the Company’s corporate events, and business partners (“Customers”). This Privacy Notice (“Privacy Notice” or “Notice”) describes our privacy practices in relation to the use of SolarWinds websites (including any customer portal or interactive customer website), its software, services, solutions, tools, and related applications, services, and programs, including attendance of corporate events and research and marketing activities, offered by SolarWinds (the “Services”) as well as your choices regarding use, access and correction of personal data.</span></p>
+<p><span lang="EN-US" xml:lang="EN-US">This Privacy Notice describes how we collect, use, disclose and otherwise process personal data collected related to our Services and otherwise in the course of our business activities, including the information practices of the websites that link to this Privacy Notice (“Sites”).</span></p>
+<p><span lang="EN-US" xml:lang="EN-US">This Privacy Notice does not apply to information collected about SolarWinds employees, applicants, or other personnel.</span></p>
+<p><span lang="EN-US" xml:lang="EN-US">The SolarWinds Sites may contain links to other websites; and information practices and/or the content of such other websites shall be governed by the privacy statements of such other websites.</span></p>
+<h3><strong><span lang="EN-US" xml:lang="EN-US">About Us</span></strong></h3>
+<p><span lang="EN-US" xml:lang="EN-US">SolarWinds provides its Services—which include IT management and monitoring solutions such as network, systems and database management, security solutions, applications and infrastructure monitoring, and IT helpdesk tools—to business customers, directly, and through distributors, resellers, and managed service providers (MSPs).</span></p>
+<p><span lang="EN-US" xml:lang="EN-US">SolarWinds Parent Inc. and SolarWinds Worldwide, LLC (and their US subsidiaries listed on the SolarWinds certification page) have complied with the EU-US and Swiss-US Privacy Shield Framework; as part of this, we have certified to the US Department of Commerce that we adhere to the Privacy Shield principles of: Notice; Choice; Accountability for Onward Transfer; Security; Data Integrity and Purpose Limitation; Access; and Recourse, Enforcement, and Liability (the “<strong>Principles</strong>”), with respect to personal data that we process on behalf of our Customers established in the European Union and Switzerland. For more information about our Privacy Shield commitment, refer to the Privacy Shield section below.</span></p>
+<p><span lang="EN-US" xml:lang="EN-US">You can learn more about Privacy Shield at&nbsp;</span><span lang="EN-US" xml:lang="EN-US"><strong><a href="https://www.privacyshield.gov/">www.privacyshield.gov</a>&nbsp;</strong></span><span lang="EN-US" xml:lang="EN-US">and see our Privacy Shield self-certification at </span><span lang="EN-US" xml:lang="EN-US"><a href="https://www.privacyshield.gov/list"><strong>www.privacyshield.gov/list</strong></a></span><span lang="EN-US" xml:lang="EN-US">. SolarWinds' self-certification to the Privacy Shield is subject to the investigatory and enforcement authority of the Federal Trade Commission.</span></p>
+<h3><strong><span lang="EN-US" xml:lang="EN-US">Customer Owned Data</span></strong></h3>
+<p><span lang="EN-US" xml:lang="EN-US">As a provider of Services, we may receive, process or store certain information, including personal data, on behalf of our Customers. All such information (“<strong>Customer Data</strong>”) is owned and controlled by our Customers, who are the data controllers for such information with respect to EU data protection law. Customer Data may include information from the end points and other systems, tools or devices that Customers manage or monitor using our Services, and end user data related to individuals activities on Customer’s network and systems. It may also include event logs, end user information (such as IP address, email address and computer name), and other data where relevant to a support or service request. SolarWinds is a data processor for Customer Data. This means that SolarWinds processes Customer Data on the basis of instructions from our Customers. If SolarWinds receives a data subject request, it may point you in the direction of its Customer, as the Customer is the controller of the Customer Data. </span></p>
+<p><strong><span lang="EN-US" xml:lang="EN-US">Data Relating to Our Customers and Users of Our Sites</span></strong></p>
+<p><span lang="EN-US" xml:lang="EN-US">SolarWinds collects information as part of its normal business operations and in the administration of its relationship with Customers, which may include personal data.</span></p>
+<p><em><span lang="EN-US" xml:lang="EN-US">Business Contact and Customer Relationship Management.&nbsp;</span></em><span lang="EN-US" xml:lang="EN-US">We collect and maintain information about our Customers, which may include company name, business contact name and title, phone number, email and other contact details. We may also collect billing address, financial account, credit card information, order details, subscription and license information, and usage details. In addition, we collect user credential and profile data (name, contact, authorized users) of Customer’s authorized users and account administrators.</span></p>
+<p><em><span lang="EN-US" xml:lang="EN-US">Data Submitted on Sites.</span></em><span lang="EN-US" xml:lang="EN-US">In order to access or use certain portions of the Sites, to enjoy the full functionality of the Sites, or to conduct or seek to conduct business with us, you may be prompted to provide certain personal data to us, including in the following ways:</span></p>
+<ul type="disc"><li><span lang="EN-US" xml:lang="EN-US">by filling in forms (for example, a “Contact Us” form) on our Sites or at a trade show or anywhere else we conduct business;</span></li>
+<li><span lang="EN-US" xml:lang="EN-US">by downloading or accessing the SolarWinds Services;</span></li>
+<li><span lang="EN-US" xml:lang="EN-US">by downloading documentation from our Sites;</span></li>
+<li><span lang="EN-US" xml:lang="EN-US">by subscribing to newsletters or other communications; or</span></li>
+<li><span lang="EN-US" xml:lang="EN-US">by corresponding with us by phone, e-mail or otherwise using our contact details.</span></li>
+</ul><p><span lang="EN-US" xml:lang="EN-US">Typically, the personal data you give us may include name, business affiliation, business address, telephone number, and email address, and any personal details required to resolve any enquiries or complaints.</span></p>
+<p><em><span lang="EN-US" xml:lang="EN-US">Third Parties.</span></em><span lang="EN-US" xml:lang="EN-US">&nbsp;We may also obtain personal data about Customers from third parties, such as LinkedIn and other publicly accessible sources.</span></p>
+<p><em><span lang="EN-US" xml:lang="EN-US">Customer Support and Service.</span></em><span lang="EN-US" xml:lang="EN-US">When Customers contact us for support or other customer service requests, we maintain support tickets and other records related to the requests, including any information provided by Customers related to such support or service requests. We may also collect call recordings related to support and customer service-related calls.</span></p>
+<p><em><span lang="EN-US" xml:lang="EN-US">Usage Details.</span></em><span lang="EN-US" xml:lang="EN-US">&nbsp;We collect information about Customers’ usage of our Services, including IP address, Customer ID, email address, and other usage statistics. We do not collect usage details about Customer end users, except as necessary for support or to provide the Services requested by Customers (in which case we are a data processor of such data).</span></p>
+<p><span lang="EN-US" xml:lang="EN-US">When you visit our Sites, our server automatically collects certain browser or device generated information, which may in some cases constitute personal data, including but not limited to:</span></p>
+<ul type="disc"><li><span lang="EN-US" xml:lang="EN-US">your domain;</span></li>
+<li><span lang="EN-US" xml:lang="EN-US">your IP address;</span></li>
+<li><span lang="EN-US" xml:lang="EN-US">your date, time and duration of your visit;</span></li>
+<li><span lang="EN-US" xml:lang="EN-US">your browser type;</span></li>
+<li><span lang="EN-US" xml:lang="EN-US">your operating system;</span></li>
+<li><span lang="EN-US" xml:lang="EN-US">your page visits;</span></li>
+<li><span lang="EN-US" xml:lang="EN-US">information from third parties;</span></li>
+<li><span lang="EN-US" xml:lang="EN-US">other information about your computer or device; or</span></li>
+<li><span lang="EN-US" xml:lang="EN-US">Internet traffic.</span></li>
+</ul><p><em><span lang="EN-US" xml:lang="EN-US">De-identified Data.</span></em><span lang="EN-US" xml:lang="EN-US">&nbsp;We may de-identify and aggregate certain data we collect such that the data no longer identifies or can be linked to a particular customer or an individual data subject (“De-identified Data”), subject to the terms of any applicable customer agreements. We may use this data to improve our Services, analyze trends, publish market research, and for other marketing, research or statistical purposes, and may disclose such data to third parties for these specific purposes.</span></p>
+<p><em><span lang="EN-US" xml:lang="EN-US">Other Data</span></em><span lang="EN-US" xml:lang="EN-US">. SolarWinds collects, uses and maintains certain data related to its business and the Services it provides to Customers, which is not personal data; this privacy notice does not restrict our use and processing of such data.</span></p>
+<h3><strong><span lang="EN-US" xml:lang="EN-US">Cookies</span></strong></h3>
+<p><span lang="EN-US" xml:lang="EN-US">Our Sites use cookies. More information about our use of cookies can be found in our Cookie Policy at&nbsp;</span><a href="https://www.solarwindsmsp.com/legal/cookie-policy"><strong><span lang="EN-US" xml:lang="EN-US">www.solarwindsmsp.com/legal/cookie-policy</span></strong></a>.</p>
+<h3><strong><span lang="EN-US" xml:lang="EN-US">Use of Personal Data</span></strong></h3>
+<p><span lang="EN-US" xml:lang="EN-US">The following is an overview of our purposes for using personal data that we process as a data controller. Additional details on how we process your personal data may be provided to you in a separate notice or contract.</span></p>
+<p><span lang="EN-US" xml:lang="EN-US">For individuals in the European Union, our processing (i.e. use) of your personal data is justified on the following legal bases:</span></p>
+<ul type="disc"><li><strong><span lang="EN-US" xml:lang="EN-US">Performance of Contract: </span></strong><span lang="EN-US" xml:lang="EN-US">the processing is necessary to perform a contract with you or take steps to enter into a contract at your request;</span></li>
+<li><strong><span lang="EN-US" xml:lang="EN-US">Compliance with Law: </span></strong><span lang="EN-US" xml:lang="EN-US">the processing is necessary for us to comply with a relevant legal obligation (for example, laws which require us to collect tax information from customers, carry out checks on customers, or which compel us to disclose information to public authorities or regulators);</span></li>
+<li><strong><span lang="EN-US" xml:lang="EN-US">Our Legitimate Interests: </span></strong><span lang="EN-US" xml:lang="EN-US">the processing is in our legitimate interests, subject to your interests and fundamental rights, and notably our legitimate interest in using applicable data to conduct and develop our business activities, such as developing and maintaining relationships with our customers (the majority of the processing covered by this notice is legitimate interest based);* </span></li>
+<li><strong><span lang="EN-US" xml:lang="EN-US">Defend Our Rights: </span></strong><span lang="EN-US" xml:lang="EN-US">where the processing is necessary to the establishment, exercise or defence of legal claims; or</span></li>
+<li><strong><span lang="EN-US" xml:lang="EN-US">With Your Consent: </span></strong><span lang="EN-US" xml:lang="EN-US">you have consented to the processing (for example, where we are required by local law to rely upon your prior consent for the purposes of direct marketing).</span></li>
+</ul><p><span lang="EN-US" xml:lang="EN-US">* In all cases where legitimate interests is relied upon as a lawful basis, we take steps to ensure that our legitimate interests are not outweighed by any prejudice to your rights and freedoms. This is achieved in a number of ways, including through the application of principles of data minimization and security, and by taking steps to ensure that personal data is only collected or otherwise obtained where it is relevant to the lawful business activities, and where using personal data is reasonably necessary for those activities. </span></p>
+<h3><strong><span lang="EN-US" xml:lang="EN-US">Disclosure of Personal Data</span></strong></h3>
+<p><span lang="EN-US" xml:lang="EN-US">SolarWinds is a global group of companies, and we may share personal data with our affiliated businesses as part of our business operations and administration of the Services. We may also appoint third party service providers (who will operate under our instructions) to assist us in providing information, products or services to you, in conducting and managing our business, or in managing and improving our Services or the Sites. SolarWinds may share your personal data with these affiliates and third parties to perform services that the third parties have been engaged by SolarWinds to perform on SolarWinds's behalf, subject to appropriate contractual restrictions and security measures, or if we believe it is reasonably necessary to prevent harm or loss, or it believes that the disclosure will further an investigation of suspected or actual illegal activities.</span></p>
+<p><span lang="EN-US" xml:lang="EN-US">SolarWinds reserves the right to share any information that is not deemed personal data or is not otherwise subject to contractual restrictions.</span></p>
+<p><span lang="EN-US" xml:lang="EN-US">If personal data is transferred outside the EU to other SolarWinds group companies or to third party service providers, we will take steps to ensure that your personal data receives the same level of protection as if it remained within the EU, including by entering into data transfer agreements, using the European Commission approved Standard Contractual Clauses, or by relying on certification schemes such as the EU - US Privacy Shield. For transfers to other SolarWinds group companies in the United States (a country that has not received a decision from the European Commission determining that the United States provides adequate protection to personal data), we have put in place European Commission approved Standard Contractual Clauses, which protect personal data transferred between SolarWinds entities. You have a right to obtain details of the mechanism under which your personal data is transferred outside of the EU by contacting&nbsp;</span><span lang="EN-US" xml:lang="EN-US"><a href="/cdn-cgi/l/email-protection#9bebe9f2edfaf8e2dbe8f4f7fae9ecf2f5ffe8b5f8f4f6"><span class="__cf_email__" data-cfemail="0e7e7c67786f6d774e7d61626f7c7967606a7d206d6163">[email&nbsp;protected]</span></a></span><span lang="EN-US" xml:lang="EN-US">.</span></p>
+<p><span lang="EN-US" xml:lang="EN-US">We contractually require agents, service providers, and affiliates who may process personal data related to the Services to provide the same level of protections for personal data as required under the Principles. SolarWinds currently does not transfer personal data to a third party for the third party’s own use, but only for SolarWinds’ purposes as outlined above. SolarWinds will remain liable under the Principles if one of its third party processors processes personal data in a manner inconsistent with the Principles, if we are responsible for the event giving rise to the damage.</span></p>
+<h3><strong><span lang="EN-US" xml:lang="EN-US">Other Disclosures</span></strong></h3>
+<p><em><span lang="EN-US" xml:lang="EN-US">Law Enforcement or National Security</span></em><span lang="EN-US" xml:lang="EN-US">. In accordance with our legal obligations, we may also transfer Customer Data, subject to a lawful request, to public authorities for law enforcement or national security purposes.</span></p>
+<p><em><span lang="EN-US" xml:lang="EN-US">Additional Disclosures</span></em><span lang="EN-US" xml:lang="EN-US">. We may also disclose Customer Data (including any personal data), where otherwise required by law.</span></p>
+<p><em><span lang="EN-US" xml:lang="EN-US">Business Transfers.</span></em><span lang="EN-US" xml:lang="EN-US">We may share personal data with third parties in connection with potential or actual sale of our company or any of our assets, or those of any affiliated company, in which case personal data held by us about our users may be one of the transferred assets.</span></p>
+<p><em><span lang="EN-US" xml:lang="EN-US">Just-in-Time Disclosures.</span></em><span lang="EN-US" xml:lang="EN-US">Additional disclosures or information about processing of personal data related to specific websites, mobile applications, products, services, or programs may be provided to you. These may supplement and/or clarify SolarWinds privacy practices in specific circumstances and provide you with additional choices as to how SolarWinds may process your personal data.</span></p>
+<h3><strong><span lang="EN-US" xml:lang="EN-US">Children</span></strong></h3>
+<p><span lang="EN-US" xml:lang="EN-US">The Sites, Services and Portal are not for use by children under the age of 16 years and SolarWinds does not knowingly collect, store, share or use the personal data of children under 16 years. If you are under the age of 16 years, please do not provide any personal data, even if prompted by the Sites to do so. If you are under the age of 16 years and you have provided personal data, please ask your parent(s) or guardian(s) to notify SolarWinds and SolarWinds will delete all such personal data.</span></p>
+<h3><strong><span lang="EN-US" xml:lang="EN-US">Marketing</span></strong></h3>
+<p><span lang="EN-US" xml:lang="EN-US">Where lawful to do so, and subject to your consent where required, we may communicate with Customers (and related business contacts) about our Services. If you wish to unsubscribe from receiving marketing communications, please visit the <a href="https://pages.solarwindsmsp.com/UnsubscribePage.html">Email Preference Center</a> on our Site or use the Email Preference Center link in our promotional emails to request that we will stop sending you communications.</span></p>
+<h3><strong><span lang="EN-US" xml:lang="EN-US">Security</span></strong></h3>
+<p><span lang="EN-US" xml:lang="EN-US">SolarWinds aims to safeguard and protect your personal data from unauthorized access, improper use or disclosure, unauthorized modification or unlawful destruction or accidental loss, and SolarWinds utilizes and maintains certain reasonable processes, systems, and technologies to do so. However, you acknowledge that no environment is completely secure or error-free, and that these processes, systems, and technologies utilized and maintained by SolarWinds are subject to compromise. Accordingly, we cannot be held responsible for unauthorized or unintended access that is beyond our control.</span></p>
+<h3><strong><span lang="EN-US" xml:lang="EN-US">Retention of Your Personal Data</span></strong></h3>
+<p><span lang="EN-US" xml:lang="EN-US">We apply a general rule of keeping personal data only for as long as required to fulfil the purposes for which it was collected. However, in some circumstances, we may retain personal data for other periods of time, for instance where we are required to do so in accordance with legal, tax and accounting requirements, or if required to do so by a legal process, legal authority, or other governmental entity having authority to make the request, for so long as required.</span></p>
+<p><span lang="EN-US" xml:lang="EN-US">In specific circumstances, we may also retain your personal data for longer periods of time corresponding to a statute of limitation, so that we have an accurate record of your dealings with us in the event of any complaints or challenges.</span></p>
+<h3><strong><span lang="EN-US" xml:lang="EN-US">External Links</span></strong></h3>
+<p><span lang="EN-US" xml:lang="EN-US">The Sites may contain links to third party sites. Since SolarWinds does not control nor is responsible for the privacy practices of those websites, we encourage you to review the privacy policies of these third party sites. This Policy applies solely to personal data collected by our Sites or in the course of our business activities.</span></p>
+<p><strong><span lang="EN-US" xml:lang="EN-US">Access and Data Subject Rights </span></strong><span lang="EN-US" xml:lang="EN-US">Individuals have the right to access the personal data processed about them, subject to applicable law; individuals may request to access their personal data processed by us by emailing us at </span><span lang="EN-US" xml:lang="EN-US"><a href="http://www.solarwinds.com/legal/personal-data-request">http://www.solarwinds.com/legal/personal-data-request</a></span><span lang="EN-US" xml:lang="EN-US">. </span></p>
+<p><span lang="EN-US" xml:lang="EN-US">Subject to applicable law, you may also have some or all of the following rights available to you in respect of your personal data</span></p>
+<ul type="disc"><li><span lang="EN-US" xml:lang="EN-US">to obtain a copy of your personal data together with information about how and on what basis that personal data is processed;</span></li>
+<li><span lang="EN-US" xml:lang="EN-US">to rectify inaccurate personal data (including the right to have incomplete personal data completed);</span></li>
+<li><span lang="EN-US" xml:lang="EN-US">to erase your personal data (in limited circumstances, such as where it is no longer necessary in relation to the purposes for which it was collected or processed);</span></li>
+<li><span lang="EN-US" xml:lang="EN-US">to restrict processing of your personal data under certain circumstances</span></li>
+<li><span lang="EN-US" xml:lang="EN-US">to port your data in machine-readable format to a third party (or to you) when we justify our processing on the basis of your consent or the performance of a contract with you;</span></li>
+<li><span lang="EN-US" xml:lang="EN-US">to withdraw your consent to our processing of your personal data (where that processing is based on your consent); and</span></li>
+<li><span lang="EN-US" xml:lang="EN-US">to obtain, or see a copy of the appropriate safeguards under which your personal data is transferred to a third country or international organization.</span></li>
+</ul><p><span lang="EN-US" xml:lang="EN-US">In addition to the above rights, under EU data protection law, applicable individuals have the right to object, on grounds relating to your particular situation, at any time to any processing of your personal data for which we have justified on the basis of a legitimate interest, including profiling (as opposed to your consent) or to perform a contract with you. You also have the right to object at any time to any processing of your personal data for direct marketing purposes, including profiling for marketing purposes.</span></p>
+<p><span lang="EN-US" xml:lang="EN-US">You also have the right to lodge a complaint with your local supervisory authority for data protection.</span></p>
+<p><span lang="EN-US" xml:lang="EN-US">In relation to all of these rights, please contact us at&nbsp;</span><span lang="EN-US" xml:lang="EN-US"><a href="http://www.solarwinds.com/legal/personal-data-request">http://www.solarwinds.com/legal/personal-data-request</a></span><strong><em><span lang="EN-US" xml:lang="EN-US">.&nbsp;</span></em></strong><span lang="EN-US" xml:lang="EN-US">Please note that we may request proof of identity, and we reserve the right to charge a fee where permitted by law, especially if your request is manifestly unfounded or excessive. We will endeavor to respond to your request within all applicable timeframes.</span></p>
+<p><span lang="EN-US" xml:lang="EN-US">If you contact us regarding Customer Data for which we are a data processor, we will attempt to refer your request to the relevant Customer, and data controller for your personal data.</span></p>
+<h3><strong><span lang="EN-US" xml:lang="EN-US">Privacy Shield Dispute Resolution</span></strong></h3>
+<p><span lang="EN-US" xml:lang="EN-US">We encourage EU and Swiss individuals who have questions or complaints about how we process their personal data under Privacy Shield to contact us at&nbsp;</span><span lang="EN-US" xml:lang="EN-US"><a href="/cdn-cgi/l/email-protection#ff8f8d96899e9c86bf8c90939e8d8896919b8cd19c9092"><span class="__cf_email__" data-cfemail="0a7a78637c6b69734a7965666b787d63646e7924696567">[email&nbsp;protected]</span></a></span><span lang="EN-US" xml:lang="EN-US">. We are committed to working with you to resolve your issue as quickly as possible, but in any event, within 45 days of receipt.</span></p>
+<p><span lang="EN-US" xml:lang="EN-US">We commit to refer unresolved Privacy Shield complaints, please contact, free of charge, our dispute resolution provider, JAMS, at&nbsp;</span><span lang="EN-US" xml:lang="EN-US"><a href="https://www.jamsadr.com/">www.jamsadr.com</a></span><span lang="EN-US" xml:lang="EN-US">. </span></p>
+<p><span lang="EN-US" xml:lang="EN-US">If you are an EU or Swiss individual and unable to resolve any complaints through any of the above methods, you may be able to invoke binding arbitration through a Privacy Shield panel, in accordance with the Privacy Shield Framework at </span><span lang="EN-US" xml:lang="EN-US"><a href="https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint">www.privacyshield.gov/article?id=How-to-Submit-a-Complaint</a></span><span lang="EN-US" xml:lang="EN-US">.</span></p>
+<h3><strong><span lang="EN-US" xml:lang="EN-US">Contact Information</span></strong></h3>
+<p><span lang="EN-US" xml:lang="EN-US">If you have any questions in relation to this Notice, please contact us at&nbsp;</span><span lang="EN-US" xml:lang="EN-US"><a href="/cdn-cgi/l/email-protection#5c2c2e352a3d3f251c2f33303d2e2b3532382f723f3331"><span class="__cf_email__" data-cfemail="601012091601031920130f0c011217090e04134e030f0d">[email&nbsp;protected]</span></a></span><span lang="EN-US" xml:lang="EN-US">.</span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 </div>
 </div>
 </div>
-      </div>
-    </div>
-  
-  
-  
-  
-  
-  
-</div>  </div>
+</section>
+<aside class="col-xs-12 col-sm-3" role="complementary">
+<div class="region region-sidebar-second">
+<nav role="navigation" aria-labelledby="block-sw-msp-aboutlogicnow-menu" id="block-sw-msp-aboutlogicnow">
+<h2 id="block-sw-msp-aboutlogicnow-menu">About SolarWinds MSP</h2>
+<ul class="menu menu--about-logicnow nav">
+<li>
+<a href="/about-us" data-drupal-link-system-path="node/319">About Us</a>
+</li>
+<li>
+<a href="http://solarwinds.jobs/">Careers</a>
+</li>
+<li>
+<a href="/about-us/press" data-drupal-link-system-path="node/317">Newsroom</a>
+</li>
+<li>
+<a href="/about-us/press/press-releases" data-drupal-link-system-path="about-us/press/press-releases">Press Releases</a>
+</li>
+<li>
+<a href="/about-us/press/news" data-drupal-link-system-path="about-us/press/news">In The News</a>
+</li>
+<li>
+<a href="/about-us/press/media-contacts" data-drupal-link-system-path="node/318">Media Contacts</a>
+</li>
+<li>
+<a href="/about-us/leadership-team" data-drupal-link-system-path="node/777">Leadership Team</a>
+</li>
+<li>
+<a href="/legal" data-drupal-link-system-path="node/331">Legal</a>
+</li>
+</ul>
+</nav>
 </div>
-  </div>
-	</div></div></div> <!-- footertop5 -->
-
-<footer id="footer" class="footer" role="footer">
-	<div id="foot">
-		<div class="container">
-			<div class="row">
-				<div class="col-xs-12 col-sm-4">
-											<section class="foot-phone">
-							  <div class="region region-footer-main-col-a">
-    <div id="block-block-1" class="block block-block">
-
-    
-  <div class="content">
-    <p><a href="https://www.maxfocus.com">MAXfocus</a> is a brand name of LogicNow.</p><p><a href="https://www.logicnow.com">LogicNow</a> is the world’s leading integrated IT Service Management platform provider, helping thousands of  IT professionals across the world.</p><p><span>Email: <a href="mailto:info@maxfocus.com">info@maxfocus.com</a></span></p>  </div>
+</aside>
+<section class="col-xs-12 content-bottom" }}="">
+</section>
 </div>
-  </div>
-						</section>
-									</div>
-				<div class="col-xs-12 col-sm-2">
-											<section class="foot-menu">
-							  <div class="region region-footer-main-col-b">
-    <div id="block-menu-block-2" class="block block-menu-block">
-
-    <h2>Company</h2>
-  
-  <div class="content">
-    <div class="menu-block-wrapper menu-block-2 menu-name-menu-company parent-mlid-0 menu-level-1">
-  <ul class="sub-header-menu"><li class="first leaf menu-mlid-2799 menu-link-about"><a href="https://www.maxfocus.com/about">About</a></li>
-<li class="leaf menu-mlid-2797 menu-link-grow"><a href="https://www.maxfocus.com/grow">Grow</a></li>
-<li class="leaf menu-mlid-2796 menu-link-products"><a href="https://www.maxfocus.com/products">Products</a></li>
-<li class="last leaf menu-mlid-13346 menu-link-careers"><a href="https://www.logicnow.com/careers">Careers</a></li>
-</ul></div>
-  </div>
 </div>
-  </div>
-						</section>
-									</div>
-				<div class="col-xs-6 col-sm-2">
-											<section class="foot-menu">
-							  <div class="region region-footer-main-col-c">
-    <div id="block-menu-block-3" class="block block-menu-block">
-
-    <h2>Community</h2>
-  
-  <div class="content">
-    <div class="menu-block-wrapper menu-block-3 menu-name-menu-community parent-mlid-0 menu-level-1">
-  <ul class="sub-header-menu"><li class="first leaf menu-mlid-2801 menu-link-blog"><a href="https://www.logicnow.com/blog/" target="_blank">Blog</a></li>
-<li class="leaf menu-mlid-2954 menu-link-forum"><a href="http://forums.maxfocus.com/" target="_blank">Forum</a></li>
-<li class="last leaf menu-mlid-2955 menu-link-linkedin-group"><a href="https://www.linkedin.com/groups?mostRecent=&amp;gid=1986499&amp;trk=my_groups-tile-flipgrp" target="_blank">LinkedIn Group</a></li>
-</ul></div>
-  </div>
+<div id="footer1-wrapper">
+<div class="container">
+<div class="row">
+<div class="col-sm-5-1 col-xs-5-5">
+<a itemprop="url" href="/" title="SolarWinds MSP" rel="home">
+<img src="/themes/custom/sw_msp/images/solarwinds-msp-white-logo.png" alt="SolarWinds MSP" title="SolarWinds MSP" class="img-responsive" srcset="/themes/custom/sw_msp/images/solarwinds-msp-white-logo.png 1x, /themes/custom/sw_msp/images/solarwinds-msp-white-logo-2x.png 2x, /themes/custom/sw_msp/images/solarwinds-msp-white-logo-3x.png 3x, /themes/custom/sw_msp/images/solarwinds-msp-white-logo-4x.png 4x">
+</a>
+<footer class="footer1a" role="contentinfo">
+<div class="region region-footer1a">
+<section id="block-sw-msp-footer1copyright" class="block block-block-content block-block-content0a6f958e-5420-48b9-8300-f481b687454f clearfix">
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p class="small" style="line-height:2em; margin-top:15px;">© <span id="cr-date">2020</span> SolarWinds MSP Canada ULC and SolarWinds MSP UK Ltd.<br>
+All Rights Reserved.</p>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">document.getElementById("cr-date").innerHTML = new Date().getFullYear();</script>
 </div>
-  </div>
-						</section>
-									</div>
-				<div class="col-xs-12 col-sm-4">
-											<section class="from-blog">
-                                                    <h2><span class="em">from the</span> BLOG</h2>
-							  <div class="region region-footer-main-col-d">
-    <div id="block-views-blog-aggregator-max-iq" class="block block-views">
-
-    
-  <div class="content">
-    <div class="view view-blog-aggregator view-id-blog_aggregator view-display-id-max_iq view-dom-id-476c2548d4063dd95bbe7dcea68e3ed9">
-        
-  
-  
-      <div class="view-content">
-        <div>
-      
-  <div class="views-field views-field-nothing">        <span class="field-content"><article class="blog-post">
-<h3><a href="https://www.solarwindsmsp.com/blog/are-you-navigating-dangerous-waters-without-helpdesk-ticketing-system">Are you navigating dangerous waters without a Helpdesk Ticketing System?</a></h3>
-<span class="timestamp">October 13, 2016</span>
-</article></span>  </div>  </div>
-  <div>
-      
-  <div class="views-field views-field-nothing">        <span class="field-content"><article class="blog-post">
-<h3><a href="https://www.solarwindsmsp.com/blog/backup-rule-3-simplifying-backup-and-dr-3-easy-steps">Backup Rule of 3: Simplifying backup and DR in 3 easy steps</a></h3>
-<span class="timestamp">October 12, 2016</span>
-</article></span>  </div>  </div>
-  <div>
-      
-  <div class="views-field views-field-nothing">        <span class="field-content"><article class="blog-post">
-<h3><a href="https://www.solarwindsmsp.com/blog/how-raise-your-fee-and-get-your-customer’s-buy">How to raise your fee and get your customer’s buy-in</a></h3>
-<span class="timestamp">October 11, 2016</span>
-</article></span>  </div>  </div>
-    </div>
-  
-  
-  
-  
-  
-  
-</div>  </div>
+</section>
+<section id="block-sw-msp-footersnlogos" class="block block-block-content block-block-content5fc1e3aa-8498-454d-9600-a2760e36b44a clearfix">
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><a href="https://www.facebook.com/SolarWindsMSP"><i class="ic-facebook"></i></a>
+<a href="https://twitter.com/solarwindsmsp"><i class="ic-twitter"></i></a>
+<a href="https://www.linkedin.com/company/solarwindsmsp"><i class="ic-linkedin"></i></a>
+<a href="https://plus.google.com/u/0/b/102565965702952385439/102565965702952385439"><i class="ic-google-plus"></i></a>
+<a href="https://www.youtube.com/channel/UClnp77HHg4aME-S-3fWQhFw"><i class="ic-youtube"></i></a><p></p>
 </div>
-  </div>
-						</section>
-									</div>
-			</div>
-		</div>
-	</div>
-	<div id="subfoot">
-		<div class="container">
-			<div class="row">
-				<div class="col-sm-12 col-md-3">
-					<span class="copyright">Copyright © 2016 LogicNow Ltd.</span>
-				</div>
-				<div class="col-sm-9 col-md-7">
-					<section class="subfooter-menu">
-						<div class="menu-block-wrapper menu-block-4 menu-name-menu-sub-footer-menu parent-mlid-0 menu-level-1">
-  <ul class="sub-header-menu"><li class="first leaf menu-mlid-6155 menu-link-sitemap"><a href="https://www.maxfocus.com/sitemap">Sitemap</a></li>
-<li class="leaf active menu-mlid-3093 active menu-link-privacy-policy"><a href="https://www.maxfocus.com/privacy-policy" class="active">Privacy Policy</a></li>
-<li class="leaf menu-mlid-5897 menu-link-cookie-policy"><a href="https://www.maxfocus.com/cookie-policy">Cookie Policy</a></li>
-<li class="leaf menu-mlid-3094 menu-link-copyright-notice"><a href="https://www.maxfocus.com/copyright-notice">Copyright Notice</a></li>
-<li class="last leaf menu-mlid-3095 menu-link-terms-of-use"><a href="https://www.maxfocus.com/website-terms-use">Terms of Use</a></li>
-</ul></div>
-					</section>
-				</div>
-				<div class="col-sm-3 col-md-2">
-					<ul class="social-icons">
-						<li class="social-fb"><a href="https://plus.google.com/112779368795700237830/" target="_blank"><span class="sr-only">Google plus</span><i class="fa fa-google-plus"></i></a></li>
-						<li class="social-tw"><a href="https://twitter.com/logicnow" target="_blank"><span class="sr-only">Twitter</span><i class="fa fa-twitter"></i></a></li>
-						<li class="social-li"><a href="https://www.linkedin.com/groups?mostRecent=&amp;gid=1986499" target="_blank"><span class="sr-only">LinkedIn</span><i class="fa fa-linkedin"></i></a></li>
-					</ul>
-				</div>
-			</div>
-		</div>
-	</div>
+</section>
+</div>
 </footer>
-<div id="admin-stuff">
-	<div class="container">
-		<div class="row">
-			<div id="page-header col-xs-12">
-															</div>
-		</div>
-	</div>
-</div>  <script type="text/javascript" src="https://www.maxfocus.com/sites/max/files/js/js_oyNThpqft5UAvuiU3E-Zn4L6_C90YMTR8g5FAGpcMFk.js"></script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b82b6ee573","applicationID":"5954195,5954092,5951516","transactionName":"YgRXNhNZWURTBUdZW1tOdAEVUVhZHRZSV1FqDFQMAF9SRW0IXFRRahdcBxZnR1ZVAw==","queueTime":0,"applicationTime":715,"atts":"TkNUQFtDSko=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+</div>
+<div class="clearfix visible-xs-block"></div>
+<div class="col-xs-6 col-sm-5-1">
+<footer class="footer1b" role="contentinfo">
+<div class="region region-footer1b">
+<nav role="navigation" aria-labelledby="block-sw-msp-products-menu" id="block-sw-msp-products">
+<h2 id="block-sw-msp-products-menu">Products</h2>
+<ul class="menu menu--products nav">
+<li>
+<a href="/products/rmm" data-drupal-link-system-path="node/3996">SolarWinds RMM</a>
+</li>
+<li>
+<a href="/products/n-central" data-drupal-link-system-path="node/4011">SolarWinds N-central</a>
+</li>
+<li>
+<a href="/products/backup" data-drupal-link-system-path="node/7">SolarWinds Backup</a>
+</li>
+<li>
+<a href="/products/msp-manager" data-drupal-link-system-path="node/1541">SolarWinds MSP Manager</a>
+</li>
+<li>
+<a href="/products/mail" data-drupal-link-system-path="node/4026">SolarWinds Mail Assure</a>
+</li>
+<li>
+<a href="/products/risk-intelligence" data-drupal-link-system-path="node/279">SolarWinds Risk Intelligence</a>
+</li>
+<li>
+<a href="/products/msp-anywhere" data-drupal-link-system-path="node/1551">SolarWinds MSP Anywhere</a>
+</li>
+</ul>
+</nav>
+</div>
+</footer>
+</div>
+<div class="col-xs-6 col-sm-5-1">
+<footer class="footer1c" role="contentinfo">
+ <div class="region region-footer1c">
+<nav role="navigation" aria-labelledby="block-sw-msp-solutions-menu" id="block-sw-msp-solutions">
+<h2 id="block-sw-msp-solutions-menu">Solutions</h2>
+<ul class="menu menu--solutions nav">
+<li>
+<a href="/solutions/managed-service-providers" data-drupal-link-system-path="node/778">How We Help MSPs</a>
+</li>
+<li>
+<a href="/solutions/it-departments" data-drupal-link-system-path="node/326">How We Help IT Departments</a>
+</li>
+<li>
+<a href="/solutions/layered-security" data-drupal-link-system-path="node/327">Layered Security</a>
+</li>
+<li>
+<a href="/solutions/cross-platform-support" data-drupal-link-system-path="node/328">Cross-Platform Support</a>
+</li>
+<li>
+<a href="/solutions/data-driven-insights" data-drupal-link-system-path="node/329">Data-Driven Insights</a>
+</li>
+</ul>
+</nav>
+</div>
+</footer>
+</div>
+<div class="clearfix visible-xs-block"></div>
+<div class="col-xs-6 col-sm-5-1">
+<footer class="footer1d" role="contentinfo">
+<div class="region region-footer1d">
+<nav role="navigation" aria-labelledby="block-sw-msp-about-menu" id="block-sw-msp-about">
+<h2 id="block-sw-msp-about-menu">About</h2>
+<ul class="menu menu--about nav">
+<li>
+<a href="/about-us" data-drupal-link-system-path="node/319">About Us</a>
+</li>
+<li>
+<a href="http://solarwinds.jobs/">Careers</a>
+</li>
+<li>
+<a href="/about-us/press" data-drupal-link-system-path="node/317">Newsroom</a>
+</li>
+<li>
+<a href="/about-us/leadership-team" data-drupal-link-system-path="node/777">Leadership Team</a>
+</li>
+<li>
+<a href="/events/upcoming-events" data-drupal-link-system-path="node/4016">Upcoming Events</a>
+</li>
+<li>
+<a href="https://www.solarwindsmsp.com/legal/privacy" title="Privacy Policy">Privacy</a>
+</li>
+<li>
+<a href="/legal" title="Legal page" data-drupal-link-system-path="node/331">Legal</a>
+</li>
+<li>
+<a href="/security/solarwinds-security-statement" data-drupal-link-system-path="node/4406">Security</a>
+</li>
+<li>
+<a href="https://pages.solarwindsmsp.com/UnsubscribePage.html">Subscription Preferences</a>
+</li>
+</ul>
+</nav>
+</div>
+</footer>
+</div>
+<div class="col-xs-6 col-sm-5-1">
+<footer class="footer1e" role="contentinfo">
+<div class="region region-footer1e">
+<nav role="navigation" aria-labelledby="block-sw-msp-support-menu" id="block-sw-msp-support">
+<h2 id="block-sw-msp-support-menu">Support</h2>
+<ul class="menu menu--support nav">
+<li>
+<a href="https://support.solarwindsmsp.com/kb/search?product=Remote%20Management#t=Remote%20Management" title="Remote Management product support and knowledge base">SolarWinds RMM</a>
+</li>
+<li>
+<a href="https://support.solarwindsmsp.com/kb/search?product=N-Central">Solarwinds N-central</a>
+</li>
+<li>
+<a href="https://support.solarwindsmsp.com/kb/search?product=Backup" title="Backup &amp; Recovery product support and knowledge base">SolarWinds Backup</a>
+</li>
+<li>
+<a href="https://support.solarwindsmsp.com/">SolarWinds Mail Assure</a>
+</li>
+<li>
+<a href="https://support.solarwindsmsp.com/kb/search?product=MSP%20Manager" title="Support for MSP Manager ">MSP Manager</a>
+</li>
+<li>
+<a href="https://support.solarwindsmsp.com/kb/search?product=Risk%20Intelligence">Solarwinds Risk Intelligence</a>
+</li>
+<li>
+<a href="https://support.solarwindsmsp.com/kb/search?product=MSP%20Anywhere" title="Support for MSP Anywhere">MSP Anywhere</a>
+</li>
+<li>
+<a href="https://support.solarwindsmsp.com/kb/search?product=Mail">MSP Mail</a>
+</li>
+<li>
+<a href="/products/msp-anywhere/downloads" data-drupal-link-system-path="node/3446">MSP Anywhere Downloads</a>
+</li>
+<li>
+<a href="/products/backup-recovery/downloads" data-drupal-link-system-path="node/949">Backup &amp; Recovery Downloads</a>
+</li>
+<li>
+<a href="/sitemap" data-drupal-link-system-path="sitemap">Sitemap</a>
+</li>
+<li>
+<a href="https://status.solarwindsmsp.com/">Service Status</a>
+</li>
+</ul>
+</nav>
+</div>
+</footer>
+</div>
+</div>
+<div class="clearfix visible-xs-block"></div>
+<div class="row">
+<div class="col-xs-12">
+</div>
+</div>
+</div>
+</div>
+<div id="footer2-wrapper">
+<div class="container">
+<div class="row">
+</div>
+</div>
+</div>
+</div>
+<script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/2","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","data":{"extlink":{"extTarget":true,"extTargetNoOverride":null,"extNofollow":null,"extFollowNoOverride":null,"extClass":"ext","extLabel":"(link is external)","extImgClass":false,"extSubdomains":false,"extExclude":"","extInclude":"","extCssExclude":".a2a_kit, .no-ext","extCssExplicit":"","extAlert":false,"extAlertText":"","mailtoClass":"0","mailtoLabel":"(link sends email)"}},"eu_cookie_compliance":{"popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv id=\u0022cookie-compliance\u0022 class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cp\u003E\u003Cspan style=\u0022font-size:12px\u0022\u003EThe SolarWinds MSP website uses cookies to make your online experience easier and better. By using our website(s), you consent to our use of cookies. For more information on cookies,\u003C\/span\u003E\u003C\/p\u003E \u003Ca href=\u0022#\u0022 class=\u0022find-more-button\u0022\u003Esee our Cookie Policy.\u003C\/a\u003E\n    \u003C\/div\u003E\n     \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Ca class=\u0022agree-button\u0022 href=\u0022#\u0022\u003EHide this Message\u003C\/a\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv id=\u0022cookie-compliance\u0022 class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n       \u003Ca href=\u0022#\u0022 class=\u0022find-more-button\u0022\u003Esee our Cookie Policy.\u003C\/a\u003E\n    \u003C\/div\u003E\n     \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Ca class=\u0022agree-button\u0022 href=\u0022#\u0022\u003EHide this Message\u003C\/a\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"https:\/\/www.solarwindsmsp.com\/legal\/cookie-policy","popup_link_new_window":false,"popup_position":false,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"cookie-agreed","reload_page":false,"domain":"","popup_eu_only_js":false,"cookie_lifetime":30,"cookie_session":1,"disagree_do_not_show_popup":false,"method":"default","whitelisted_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false},"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_keyboard":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click","popover_trigger_autoclose":1,"tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover"},"TBMegaMenu":{"TBElementsCounter":{"column":19},"theme":"sw_msp"},"ajaxTrustedUrl":{"\/search":true},"logic_embed_video":{"autoplay":null,"autohide":2,"controls":1,"showinfo":false,"rel":false,"fs":null},"user":{"uid":0,"permissionsHash":"83ea3f76f9d2f32d16652a6d437b2ecea75103a513a0d812df078c587f4df2ac"}}</script>
+<script src="/sites/solarwindsmsp/files/js/js_Zy9VAU8QAOvcY4FMDd70ruPm0Mc8QSxkH89Nt-659cw.js"></script>
+<script src="https://static.addtoany.com/menu/page.js" async=""></script>
+<script src="/sites/solarwindsmsp/files/js/js_PNZntzZIs79Q7Zd96hbN42LI6qrauu6cefOeLoc-lAw.js"></script>
+
 
 </body></html>
