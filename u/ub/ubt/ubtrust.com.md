@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ubtrust.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326073715id_/https%3A//www.ubt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubtrust.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004033834id_/https%3A//www.ubt.com/privacy) for the most accurate reproduction.*
 
 # Union Bank & Trust | Financial Privacy | Union Bank & Trust
 
-Offering you exceptional service, along with protecting your privacy, is important to us.  To understand what type of information we collect, and what we do with this information, please see our [Privacy Notice](https://web.archive.org/sites/default/files/_images/content/financial-privacy-bank-april2015.pdf).[  
+Offering you exceptional service, along with protecting your privacy, is important to us.  To understand what type of information we collect, and what we do with this information, please see our [Privacy Notice](https://web.archive.org/sites/default/files/_media/download/financial-privacy-bank-web.pdf).[  
 ](https://www.ubt.com/sites/default/files/_media/download/Financial-Privacy-Notice.pdf)
 
 To opt out of sharing certain information with our affiliates, use this [online form](https://secure.ubt.com/FinPrivacy).
@@ -11,7 +11,7 @@ To opt out of sharing certain information with our affiliates, use this [online 
 
 This Online Privacy Statement (“Statement”) describes the treatment of information that is provided or collected through any of Union Bank & Trust Company’s (“Union Bank”, “our”, “we”) online interfaces to which a copy of the Statement is posted.  This Statement includes all “Services” which inclusively refers to [www.ubt.com](http://www.ubt.com/) (the “Website”), Applications we have placed on third party sites such as Facebook®, Twitter® and other social media sites, and our mobile applications (“Applications”).  This Statement also explains how we collect, use, and share information based on users’ interactions with online advertisements, both on the Services and on online interfaces owned by third parties.  This Statement does not govern our privacy practices offline or with respect to information that is not provided or collected through the Services.
 
-For information on Union Bank’s offline privacy practices see our [Financial Privacy Notice](https://web.archive.org/sites/default/files/_images/content/financial-privacy-bank-april2015.pdf) and your choice for [opting-out of information sharing with our affiliates](https://secure.ubt.com/FinPrivacy/FinPrivForm.aspx).
+For information on Union Bank’s offline privacy practices see our [Financial Privacy Notice](https://web.archive.org/sites/default/files/_media/download/financial-privacy-bank-web.pdf) and your choice for [opting-out of information sharing with our affiliates](https://secure.ubt.com/FinPrivacy/FinPrivForm.aspx).
 
 While this Statement describes how we treat information, please be aware additional terms and conditions may apply for certain parts of our Website and Applications.
 
