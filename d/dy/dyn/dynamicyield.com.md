@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the dynamicyield.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531094415id_/https%3A//www.dynamicyield.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynamicyield.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004215734id_/https%3A//www.dynamicyield.com/privacy-policy) for the most accurate reproduction.*
 
 # Site Privacy Policy — Dynamic Yield
 
-## DYNAMIC YIELD, INC. WEBSITE PRIVACY POLICY  
-Last Updated May 5, 2016
+##  Last Updated April 03, 2017
 
-Dynamic Yield Ltd. (“DY” “we“, “our” or “us“) respects the privacy of the users of its website at http://www.dynamicyield.com (the “Website”) and of its services, which operate across both DY’s Site as well as those of third parties (and together with the Website, collectively, the “Offering”), and is committed to protecting the information DY collects and/or is disclosed to it by the users of the Offering (“End Users” or “you“).We have created this privacy policy (this “Website Privacy Policy”) because we know that you care about how information you provide to us is used and shared.[1].
+Dynamic Yield (“DY,” “we,” “us,” or “our”), including Dynamic Yield Ltd., and its wholly owned subsidiaries, Dynamic Yield, Inc. and Dynamic Yield UK Ltd. comply with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. DY has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [www.privacyshield.gov.](http://www.privacyshield.gov/)
+
+DY respects the privacy of the users of its website at http://www.dynamicyield.com (the “Website”) and of its services, which operate across both DY’s Site as well as those of third parties (and together with the Website, collectively, the “Offering”), and is committed to protecting the information DY collects and/or is disclosed to it by the users of the Offering (“End Users” or “you“).We have created this privacy policy (this “Website Privacy Policy”) because we know that you care about how information you provide to us is used and shared.[1].
 
 **Acceptance of Terms**
 
@@ -47,45 +48,39 @@ Our third-party service providers may use information (not including your name, 
 
 The Website may contain links to third-party websites. DY has no control over the privacy practices or the content of these websites. As such, we are not responsible for the content or the privacy policies of those third-party websites. You should check the applicable third-party privacy policy and terms of use when visiting any other websites.
 
-  5.  _Enterprise Clients_
-
-From time to time, DY grants certain of its enterprise clients a license or other rights to DY’s proprietary software products and solutions (the “DY Solutions”). Through their use of these DY Solutions and/or through other means, enterprise clients of DY may get access to, collect and use: (i) End User non-personally identifiable information; and (ii) End User PII.
-
-The DY Solutions enable our enterprise clients to deliver more relevant content to consumers across digital channels, including desktop and mobile channels, by gathering data about those End Users’ visits to, and use of, our enterprise clients’ digital properties. These clients have their own policies that govern how they collect, use, and share data, even when such collection and use may be carried out, directly or indirectly, by DY from time to time. Please consult the privacy policies of the websites you visit and apps you use to become familiar with their privacy practices.
 
 
 
-
- **How We/Enterprise Clients Use Information**
+ **How We Use Information**
 
   1.  _For Internet-based Advertising and Improvement of our End-Users Experience_
 
 We use the Personal Information and the Other Information (collectively, the “ _Information_ ”) for purposes of analyzing trends, administering our Offering, improving our services, and to gather demographic information about our End User base as a whole. We also compile and store data and information and generate reports related to our End Users’ access to and use of our Offering. To the extent required under applicable data processing laws and regulations, any PII that we collect will be stored in our database and will be used in accordance with such applicable laws and regulations.
 
-There are also times when we will combine such information with additional non-personal or de-identified information we obtain from other companies as well as PII, in order for our enterprise clients to market directly to a certain person subject to requirements of applicable law. We typically analyze this information and organize it into user groups and audiences, based on factors such as age, gender, geography, interests and online actions. We and our enterprise clients then use these user groups and audiences, along with information about the possible relationships among different browsers and devices, to design and deliver customized advertising campaigns or other relevant content. This is often referred to as Interest-Based Advertising. To enable the foregoing, the DY Solutions use technology including browser cookies, device identifiers, and other similar technologies to recognize a particular browser or device over time, to predict possible relationships among different browsers and devices and to then relay this information to our servers.
+We typically analyze this information and organize it into user groups and audiences, based on factors such as age, gender, geography, interests and online actions. We then use these user groups and audiences, along with information about the possible relationships among different browsers and devices, to design and deliver customized advertising campaigns or other relevant content. This is often referred to as Interest-Based Advertising. To enable the foregoing, the DY Solutions use technology including browser cookies, device identifiers, and other similar technologies to recognize a particular browser or device over time, to predict possible relationships among different browsers and devices and to then relay this information to our servers.
 
 DY retains the End User data described above which is collected through our DY Solutions for purposes of Interest-Based Advertising for up to twenty-four (24) months from the date of its collection.
 
   2.  _Email Communications_
 
-We do not send emails to anyone without permission (which permission may have been given to us and/or one of our enterprise clients), and we do not sell or rent email addresses to any unauthorized third party. This does not mean that we can prevent spam from happening on the Internet. If you believe that you have received an unsolicited email from us, please contact us at the e-mail below and we will investigate.
+We do not send emails to anyone without permission , and we do not sell or rent email addresses to any unauthorized third party. This does not mean that we can prevent spam from happening on the Internet. If you believe that you have received an unsolicited email from us, please contact us at the e-mail below and we will investigate.
 
 At any time, you have the ability to opt out of receiving marketing communications from DY, but you may not opt out of administrative emails. You can opt out either changing your e-mail preferences or using the link provided at the bottom of each email message or through any other means that is made available to you
 
 
 
 
-**How We/Enterprise Clients Share the Information**
+**How We Share the Information**
 
 We do not share, distribute, sell or rent any of your PII with/to third parties, including our enterprise clients, except in the following circumstances:
 
   * If you have opted out of our ability to use your e-mail address, we may share your decision to opt out with third parties to effectuate that decision;
   * If the information is required by law in order to prevent, investigate, or take action regarding illegal activities. In addition, we will share information in response to legal process, court orders, subpoenas, or to establish or exercise our legal rights or defend against legal claims;
-  * To the extent permitted by law, we may also disclose the Information: (i) when required by a federal or state regulatory agency; or (ii) whenever we believe that disclosing such Information is necessary or advisable, for example, to protect the rights, property, or safety of DY or others.
+  * We may also disclose the Information to any government or law enforcement authority or regulatory agency in response to lawful requests by applicable local law enforcement agencies or regulatory agencies, or agencies with responsibility to oversee and enforce national security;
   * We may share some or all of your Information with any of our parent companies, subsidiaries, joint ventures, or other companies under common control with us.
   * Information collected from End Users of the DY Offering, including PII, may be transferred as part of or in connection with a corporate merger, consolidation, restructuring, the sale of substantially all of our shares or stock and/or assets or other corporate change, including, during the course of any due diligence process. By making available your data through the Offering in any manner, you agree that your information may be transferred to third parties under such or similar circumstances.
-  * For the purpose of providing and operating the Offering we may share PII with trusted third-party service providers that require access to such data for purpose of providing Offering-related services to us only. Any data processing performed by any third party with whom we have provided End User information (either PII or non-PII) will, if and when required by law, be governed by a data sharing agreement, in which we will require that these third parties comply with this Privacy Policy or with privacy policies at least as protective as this Privacy Policy; and,
-  * If we and/or our enterprise clients have your permission to do so.
+  * For the purpose of providing and operating the Offering we may share PII with trusted third-party service providers that require access to such data for purpose of providing Offering-related services to us only. Any data processing performed by any third party with whom we have provided End User information (either PII or non-PII) will, if and when required by law, be governed by a data sharing agreement, in which we will require that these third parties comply with the EU-US Privacy Shield and this Platform Privacy Policy or with privacy policies at least as protective as this Privacy Policy; and,
+  * If we have your permission to do so.
 
 
 
@@ -109,19 +104,19 @@ DY does not monitor, recognize, or honor any opt-out or do not track mechanisms,
 
 Visitors who have provided Personal Information to us may access, remove, review, and/or make changes to the same by following the instructions found on the Website. In addition, you may manage your receipt of marketing and communications by clicking on the “unsubscribe” link located on the bottom of any DY marketing e-mail or by following the instructions found on the Website. We will use commercially reasonable efforts to process such requests in a timely manner. You should be aware, however, that it is not always possible to completely remove or modify information in our subscription databases.
 
+We may rectify, replenish or remove incomplete or inaccurate Information, at any time and at our own discretion. We will retain the Information we collect for as long as needed to provide our Offering and to comply with our legal obligations. If you would like to opt-out of DY’s collection of Information through the Website, please click this button below:
+
 **_International Transfer of Data_**
 
-In the process of making available the Offering to its End Users, DY may transfer information that it collects to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. By using the Offering, you consent to the transfer of your information to the United States and elsewhere.
+In the process of making available the Offering to its End Users, DY may transfer information that it collects to affiliated entities or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. By using the Offering, you consent to the transfer of your information to the United States and elsewhere. DY accepts full accountability and responsibility for the protection of your Personal Information, according to the applicable privacy legislation, the EU-US Privacy Shield and this Privacy Policy, during the course of these onward transfers to third parties.
 
-**_Important Notices to Non-U.S. Residents/Safe Harbor Certification_**
+**_Important Notices to Non-U.S. Residents/Privacy Shield Certification_**
 
-DY complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. DY has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view DY’s certification, please visit http://www.export.gov/safeharbor/.
+It is important to note that the Website and its servers are operated in the United States and elsewhere. If you are located outside of the United States, please be aware that any Information will be transferred to, processed, and used in the United States and elsewhere. By using the Website and by providing us Personal Information when using our Website, you irrevocably and unconditionally consent to such transfer, processing, and use of the Information in accordance with this Website Privacy Policy.
 
-However, it is important to note that the Website and its servers are operated in the United States and elsewhere. If you are located outside of the United States, please be aware that any Information will be transferred to, processed, and used in the United States and elsewhere. By using the Website and by providing us Personal Information when using our Website, you irrevocably and unconditionally consent to such transfer, processing, and use of the Information in accordance with this Website Privacy Policy.
+In order to comply with the Privacy Shield framework, DY commits to the resolution of complaints about your privacy and our collection or use of your Personal Information. We have also committed to resolve any complaints by European Union citizens relating to this Website Privacy Policy, which cannot be resolved directly with our company, through a panel established by the EU Data Protection Authorities (“EU DPAs”) as our Independent Recourse Mechanism (“IRM”).
 
-In order to comply with the Safe Harbor framework, DY commits to the resolution of complaints about your privacy and our collection or use of your Personal Information. We have also committed to resolve any complaints by European Union citizens relating to this Website Privacy Policy, which cannot be resolved directly with our company, through the United States Council for International Business’s Safe Harbor Privacy Dispute Resolution Procedures.
-
-If you have any questions regarding this Website Privacy Policy, please contact us as described in the “How to Contact Us” section below. We will investigate your question, respond to your inquiry, and attempt to resolve any concerns regarding your privacy question. If you do not receive acknowledgement of your complaint or, if your complaint is not satisfactorily addressed by DY, then please contact your local Data Protection Authority for more information and to file a complaint. We have registered with the United States Council for International Business to cover the operating costs of the EU DPAs’ Dispute resolution panel.
+If you have any questions regarding this Website Privacy Policy, please contact us as described in the “How to Contact Us” section below. We will investigate your question, respond to your inquiry, and attempt to resolve any concerns regarding your privacy question. If you do not receive acknowledgement of your complaint or, if your complaint is not satisfactorily addressed by DY, then please contact us to be directed to the relevant DPA contacts. As further explained in the Privacy Shield Principles, a binding arbitration option will also be made available to you in order to address residual complaints not resolved by any other means. We have registered with the United States Council for International Business to cover the operating costs of the EU DPAs’ Dispute resolution panel. DY is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
 
 **_Changes to This Website Privacy Policy_**
 
@@ -131,4 +126,4 @@ This Website Privacy Policy is effective as of the date stated at the top of thi
 
 If you have questions about this Website Privacy Policy, please contact DY via e-mail at [privacy@dynamicyield.com](mailto:privacy@dynamicyield.com) with “PRIVACY POLICY” in the subject line or at the contact information on our Contact Us page.
 
-[1] Please note that our privacy practices governing our proprietary marketing optimization technology is governed by our Platform Privacy Policy.
+[1] Please note that our privacy practices governing our proprietary marketing optimization technology is governed by our [Platform Privacy Policy.](https://web.archive.org/platform-privacy-policy/)
