@@ -1,27 +1,73 @@
-> *The following text is extracted and transformed from the snorgtees.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007012119id_/https%3A//www.snorgtees.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snorgtees.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005011600id_/https%3A//www.snorgtees.com/privacy) for the most accurate reproduction.*
 
 # Privacy | SnorgTees
 
-#### **Your Email**
+Welcome to SnorgTees.com (the “Website”), owned and published by Digital Basement, LLC ("we" or "us"). We have developed this Privacy Policy to explain the types of information we collect from users of the Website, the reasons we collect this information, and how we utilize this information once we have collected it. By accessing the Website, you are consenting to the information collection and use practices described in this Privacy Policy.
 
-You don't like spam. We don't like spam. Because of this, we only send our newsletter to email addresses that have opted in, and they may opt out at any time. If you place an order with us, we send email messages pertaining to your order. If you have an account with us, we will send you email messages pertaining to your account. We do not sell your email address to other parties.
+#### **Types of Information Collected**
 
-#### **Your Personal Information**
+**Information You Provide to Us**
 
-We collect your personal information when you provide it to us as you place your order or open an account. We use this information to process your order, provide you with support, update you on your order, update you on your account, and maintain your account. We may also use this information to send out a SnorgTees catalog or for digital re-marketing purposes. We do not sell, rent, or lease your personal information to other parties, but we do reserve the right to share your information with third parties for our own marketing as well as to perform services on your behalf.
+We collect information you provide to us through the Website, including your name, email address, residential address, shipping address, phone number, credit card information, product preferences and selections, purchase history, reviews of our services and products, and demographic information.
 
-#### **Other Information**
+**IP Address and Device Information**
 
-We collect non-personal information from you, including your browser type, the URL of the previous web site you visited, your ISP, operating system, what products you look at on our website, etc. This information aids us in improving your experience with us, and is collected by almost all sites that you visit.
+We collect information from your Internet browser when you visit our Website, including your IP address, HTTP referrer, browser and device information, webpages visited, session information, and search queries on our Website. We collect this information using cookies and other tracking technologies. Users who do not accept cookies may not be able to access all areas or features of the Website. We also use Google Analytics on our Website. Google Analytics uses cookies and other tracking technologies to monitor how you interact with our Website and other websites. We use Google Analytics to obtain generalized information about our customers and visitors to our Website. The information collected by Google Analytics is stored by Google and is subject to Google’s privacy policy, which is accessible on Google’s website.
 
-#### **Cookies**
+#### **How We Use Your Information**
 
-Like almost all e-commerce web sites, we use cookies. Our cookies allow us to do things like keep items in your shopping cart during your visit or provide you with a more personalized user experience. We may use selected third parties for marketing and analysis purposes. This information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please click [here](http://www.networkadvertising.org/). We feel that the use of 3rd party services such as this improve your online experience, because they allow you to see ads that will be more likely to be something you are interested in, rather than punch the monkey ads all day.
+We may use the information we collect for a variety of purposes, including:  
+● Processing payments and fulfilling product purchases and returns;  
+● Facilitating, personalizing, and improving your experience on the Website;  
+● Providing customer service;  
+● Monitoring and analyzing usage of the Website, and optimizing its performance;   
+● Improving security of the Website and preventing fraud;   
+● Making business improvements and managing inventory;  
+● Delivering targeted advertising; and  
+● Communicating with you, including sending you marketing materials and newsletters to your email address and mailing address (we use MailChimp to manage some of our email messaging to you, and you can access MailChimp’s privacy policy [here](https://mailchimp.com/legal/privacy/)).
+
+#### **How We May Share Your Information**
+
+We do not sell your information. We may share your personal information with our vendors, service providers, business partners, and other third parties as reasonably necessary to operate the Website and provide services to you, including but not limited to processing payments and fulfilling product purchases (including shipping orders), improving the Website, performing maintenance on the Website, providing technical support, communicating with you, and optimizing the relevance of our messages to you. We may also share the information we collect to comply with the law, a court order, or legal process served on us, to cooperate with the investigation of alleged unlawful conduct, to enforce the Terms of Use or protect the intellectual property and other rights associated with the Website, or to transfer our assets to another company. We also partner with search engine providers (e.g., Google, Bing, and Yahoo), advertising networks (e.g., Google), and social media providers (e.g., Facebook, Instagram, and Pinterest) to deliver targeted advertising for our products. The advertisements you see on these platforms may be based on information you provide to us and information collected by us or by them through cookies and other tracking technologies that monitor how you interact with our Website. These providers may combine that information with information they collect or obtain from other sources. We also participate in affiliate advertising programs that allow websites to earn revenue for advertising our products. You can find out more information about opting out of the use of cookies for interest-based advertising by visiting the Network Advertising Initiative website: http://optout.networkadvertising.org and the Digital Advertising Alliance website: optout.aboutads.info. 
+
+#### **Your Rights in Your Information**
+
+We process your personal information with your consent, as necessary to process payments and fulfill product purchases and returns, and in furtherance of the legitimate interests our business, including to prevent fraud, provide customer service, optimize the Website, market our products, make business improvements, and manage inventory. The personal information we collect from you will be transferred to and stored and processed in the United States. Depending on your location and our basis (or bases) for collecting your personal information, you may be entitled to certain privacy rights, including:  
+● Right of access to your personal information;  
+● Right to rectification of your personal information;  
+● Right to erasure (“right to be forgotten”);  
+● Right to restrict processing of your personal information;  
+● Right to data portability;   
+● Right to object (opt-out); and  
+● Right to withdraw consent. 
 
 #### **Security**
 
-We maintain best practices to protect your information, which include appropriate physical as well as electronic security measures. We use 128 bit Secure Socket Layer (SSL) technology to encrypt all of your private information when placing an order, which ensures that no one else can read this information.
+We take commercially reasonable measures to safeguard the information we collect from you. If you have any questions about the security of your personal information, please contact us.
 
-#### **Under 13?**
+#### **Retention**
 
-If you are under the age of 13, you are not permitted to submit any personal information to SnorgTees.com. SnorgTees.com is intended for users who are 13 years of age and older.
+We will not retain your personal information longer than is necessary for the purposes for which the information was collected as set forth in this Privacy Policy.
+
+#### **Children**
+
+The Website is not targeted to or intended for use by children, and we do not knowingly collect any personal information from anyone under the age of 13. We will delete any information in our database that we determine originates from a child under the age of 13. If you are 13 years of age or older but under the age of 18, you may only access the Website under the supervision of a parent or legal guardian and subject to his or her consent to the terms of this Privacy Policy and the Terms of Use. You must be 18 years of age or older to create an account with us.
+
+#### **Revisions to Privacy Policy**
+
+We may amend this Privacy Policy from time to time. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we may share it. Any modification is effective as of the posting of the change.
+
+#### **Contact Us**
+
+We are the controller of your personal information that you provide to us or that we collect through the Website. If you have any questions about this Privacy Policy or our use of your personal information, or to access, modify, or erase your personal information pursuant to applicable law, please contact us using the information provided below.
+
+Mailing Address:
+
+SnorgTees  
+Attn: Legal / Privacy  
+1200 Northmeadow Parkway, Suite 120  
+Roswell, GA 30076
+
+Email: privacy@snorgtees.com
+
+This Privacy Policy was last updated on June 4, 2018. 
