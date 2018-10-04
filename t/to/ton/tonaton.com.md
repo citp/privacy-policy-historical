@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tonaton.com privacy policy that was archived on 2017-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170403134511id_/https%3A//tonaton.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tonaton.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004060105id_/https%3A//tonaton.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Tonaton.com
 
@@ -46,7 +46,7 @@ If you violate the laws of your country of residence and/or the terms of use of 
 
 ### Contact details
 
-Customer Support e-mail: support@tonaton.com  
+Customer Support e-mail: [support@tonaton.com](mailto:support@tonaton.com)  
 Customer Support telephone number: 0302 746 911
 
 ### Unsubscribe information
