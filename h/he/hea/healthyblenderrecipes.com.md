@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthyblenderrecipes.com privacy policy that was archived on 2017-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170801193706id_/https%3A//healthyblenderrecipes.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyblenderrecipes.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004205538id_/https%3A//healthyblenderrecipes.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Blender Girl
 
@@ -99,10 +99,28 @@ Our Website is not directed at children under the age of 18 and does not knowing
 If you would like to review your Personal Information, if you have a comment, question or request regarding your Personal Information, if you would like to correct inaccurate information, or if you would like to complain about how The Blender Girl handles your personal information, there are three easy ways to do so:
 
   1. E-mail: You can e-mail us at help@healthyblenderrecipes.com
-  2. By Telephone: You may call us at. If you call after normal business hours, please leave a message and your telephone number. We will get back to you as quickly as possible. Normal office hours are Monday through Friday, 8:30 a.m. to 5:30 p.m. Central Time.
+  2. By Telephone: You may call us at 1 (512) 469-9800. If you call after normal business hours, please leave a message and your telephone number. We will get back to you as quickly as possible. Normal office hours are Monday through Friday, 8:30 a.m. to 5:30 p.m. Central Time.
   3. By U.S. Mail: Send mail to The Blender Girl, ATTN: PRIVACY DEPARTMENT at 11271 Ventura Blvd Ste 315, Studio City, CA 91604.
 
 
+
+## GDPR
+
+This section applies if you are located in the EU.
+
+In accordance with applicable privacy law, you have the following rights (which may overlap with the rights already provided as described above) with respect to your personally identifiable information in our possession:
+
+1.      Right of access and portability. You have the right to obtain copies of your personally identifiable information and details about the way it is processed.
+
+2.      Right to correction. You have the right to correct your personally identifiable information without undue delay where that personal information is inaccurate or incomplete.
+
+3.      Right to erasure. You have the right to have your personally identifiable information erased without undue delay in certain circumstances (such as where the personal information is no longer necessary in relation to the purposes for which it was collected or processed).
+
+4.      Right to object. You have the right to object to the processing of your personally identifiable information, and to object to processing of your personal information for direct marketing purposes, to the extent it is related to such direct marketing.
+
+6       If you wish to exercise one of these rights, please contact us using the contact details stated above.
+
+7.      You also have the right to lodge a complaint to your local data protection authority.  Further information about how to contact your local data protection authority is available at http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.
 
 ## Changes to Privacy Policy
 
