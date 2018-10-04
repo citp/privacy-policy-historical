@@ -1,119 +1,103 @@
-> *The following text is extracted and transformed from the patternreview.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315014935id_/https%3A//privacy.truste.com/reseller/privacy-policy/PatternReview-com-DBA-OSATech%2C-Inc-/certified/6f048287-ba31-49bb-b4f7-97dded26ba79) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patternreview.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004162022id_/https%3A//sewing.patternreview.com/cgi-bin/showpage.pl%3Fvar%3Dprivacypolicy) for the most accurate reproduction.*
 
-# Welcome to patternreview.com
+# Privacy Policy at PatternReview.com
 
-[](https://privacy.truste.com/privacy-seal/PatternReview-com-DBA-OSATech,-Inc-/validation?validationId=a32cf79f-7568-4c29-98be-af66cedca4b9&referer=patternreview.com)
+Protecting your private information is our priority. This Statement of Privacy applies to the http://*.patternreview.com, https://*.patternreview.com and OSATech, Inc. DBA PatternReview.com and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to OSATech, Inc. DBA PatternReview.com include http://*.patternreview.com and PatternReview.com. The PatternReview.com website is a sewing community and ecommerce site. By using the PatternReview.com website, you consent to the data practices described in this statement. 
 
-**Effective on October 21, 2014**
+**Collection of your Personal Information**  
+PatternReview.com may collect personally identifiable information, such as your name. If you purchase PatternReview.com's products and services, we collect billing and credit card information. This information is used to complete the purchase transaction. PatternReview.com may also collect anonymous demographic information, which is not unique to you, such as your age and gender. We may also gather additional personal or non-personal information. 
 
-This privacy statement describes how **PatternReview.com DBA OSATech, Inc.** collects and uses the personal information you provide on our Web site: [ patternreview.com](http://patternreview.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+Information about your computer hardware and software may be automatically collected by PatternReview.com. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the PatternReview.com website. 
 
- **PatternReview.com DBA OSATech, Inc.** has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@patternreview.com](mailto:support@patternreview.com). If you are not satisfied with our response you can contact [TRUSTe here](http://www.truste.com/about_TRUSTe/contact_us.html).
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data by posting publicly on PatternReview.com, this information may be collected and used by others. 
 
-We collect the following personal information from you:
+PatternReview.com encourages you to review the privacy statements of websites you choose to link to and from PatternReview.com so that you can understand how those websites collect, use and share your information. PatternReview.com is not responsible for the privacy statements or other content on websites outside of the PatternReview.com website. 
 
-  * Contact Information such as name, email address, mailing address, phone number
-  * Billing Information such as credit card number, and billing address
-  * Unique Identifiers such as user name, account number, password
-  * Preferences Information you provide such as product or content interests, or communication or marketing preferences
-  * Usage activity about how you interact with us such as purchase history, what content you viewed, and which areas of our site you visited. 
+**Use of your Personal Information**  
+PatternReview.com collects and uses your personal information to operate its website(s) and deliver the services you have requested. 
 
+PatternReview.com may also use your personally identifiable information to inform you of other products or services available from PatternReview.com and its affiliates. PatternReview.com may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered. 
 
+PatternReview.com does not sell, rent or lease its customer lists to third parties. 
 
-**We also collect the following information from you:**
+PatternReview.com may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. PatternReview.com may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to PatternReview.com, and they are required to maintain the confidentiality of your information. 
 
-  * Demographic information such as household income, age, education, gender, interests, and zip code
+PatternReview.com may keep track of the websites and pages our users visit within PatternReview.com, in order to determine what PatternReview.com services are the most popular. This data is used to deliver customized content and advertising within PatternReview.com to customers whose behavior indicates that they are interested in a particular subject area. 
 
+PatternReview.com will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on PatternReview.com or the site; (b) protect and defend the rights or property of PatternReview.com; and, (c) act under exigent circumstances to protect the personal safety of users of PatternReview.com, or the public. 
 
+**Use of Cookies**  
+The PatternReview.com website may use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. 
 
-As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize PatternReview.com pages, or register with PatternReview.com site or services, a cookie helps PatternReview.com to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same PatternReview.com website, the information you previously provided can be retrieved, so you can easily use the PatternReview.com features that you customized. 
 
- **We use this information to:**
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the PatternReview.com services or websites you visit. 
 
-  * Fulfill your order
-  * Send you an order confirmation
-  * Assess your needs to determine suitable products or services
-  * Send you requested product or service information
-  * Send product updates or warranty information
-  * Respond to customer service requests
-  * Administer your account
-  * Send you a newsletter
-  * Send you marketing communications
-  * Administer contests and sweepstakes you entered, and notify you if you won
-  * Improve our Web site and marketing efforts
-  * Conduct research and analysis
-  * Respond to your questions and concerns
-  * Display content based upon your interests
-  * Facilitate your transactions with other users
-  * List you in our member directory made available only to other members
+**Security of your Personal Information**  
+To secure your personal information from unauthorized access, use or disclosure, PatternReview.com uses third party services to encrypt data using Secure Sockets Layer (SSL) protocol while transmitting the information. 
 
+**Children Under Thirteen**  
+PatternReview.com does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website. 
 
+**Disconnecting your PatternReview.com Account from Third Party Websites**  
+You will be able to connect your PatternReview.com account to third party accounts. BY CONNECTING YOUR PATTERNREVIEW.COM ACCOUNT TO YOUR THIRD PARTY ACCOUNT, YOU ACKNOWLEDGE AND AGREE THAT YOU ARE CONSENTING TO THE CONTINUOUS RELEASE OF INFORMATION ABOUT YOU TO OTHERS (IN ACCORDANCE WITH YOUR PRIVACY SETTINGS ON THOSE THIRD PARTY SITES). IF YOU DO NOT WANT INFORMATION ABOUT YOU, INCLUDING PERSONALLY IDENTIFYING INFORMATION, TO BE SHARED INTHIS MANNER, DO NOT USE THE THIS FEATURE. You may disconnect your account from a third party account at any time. Users can disconnect PatternReview.com's access on the My Account pages. 
 
- **Choice/Opt-Out**
+**Opt-Out & Unsubscribe**  
+We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from PatternReview.com by contacting us here:  
+\- Web page: https://sewing.patternreview.com/cgi-bin/notify.pl  
+\- Email: support@patternreview.com
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [support@patternreview.com](mailto:support@patternreview.com).
+**Changes to this Statement**  
+PatternReview.com will occasionally update this Statement of Privacy to reflect company and customer feedback. PatternReview.com encourages you to periodically review this Statement to be informed of how PatternReview.com is protecting your information. 
 
- **Social Networks**
+**Contact Information**  
+PatternReview.com welcomes your questions or comments regarding this Statement of Privacy. If you believe that PatternReview.com has not adhered to this Statement, please contact PatternReview.com at:
 
-We enable you to create a profile, and share information such as messages, photos, and videos with others within your network. We cannot control the actions of others with whom you may choose to share your pages and information. Also we cannot guarantee that the content you post on our site will not be viewed by others outside your network.
+OSATech, Inc. DBA PatternReview.com  
+235 Summer Rd, Building 1, Suite 203  
+Boxborough, Massachusetts 01719
 
- **Information Obtained from Third Parties**
+Email Address: support@patternreview.com  
+Telephone number: 9786082224
 
-If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
+Effective as of November 16, 2016 
 
-We will share your information with third parties only in the ways that are described in this privacy statement.
+Selected Reviews, Classes & Patterns 
 
-We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
+**Online Class**  
+Sew a Designer Unlined Jacket   
+[](https://web.archive.org/cgi-bin/sewingclasses/class.pl?id=132)
 
-We may disclose your personal information
+~~$49.00~~ **$19.99**  
+[Sewing Class](https://web.archive.org/cgi-bin/sewingclasses/class.pl?id=132)
 
-  * as required by law, such as to comply with a subpoena, or similar legal process 
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-  * if PatternReview.com DBA OSATech, Inc. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
-  * to any other third party with your prior consent to do so.
+ **Online Class**  
+Bringing Garments to Life   
+[](https://web.archive.org/cgi-bin/sewingclasses/class.pl?id=161)
 
+~~$39.00~~ **$25.00**  
+[Sewing Class](https://web.archive.org/cgi-bin/sewingclasses/class.pl?id=161)
 
+McCall's 6503  
+[](https://sewing.patternreview.com/review/pattern/77847)
 
-We share your personal information with other companies so that they can market their products or services to you. If you do not want us to share your personal information with these companies, contact us at [support@patternreview.com](mailto:support@patternreview.com). 
+by: konniekapo...
 
-We make your contact information available to other users involved in the sale or purchase of items listed on this site to complete the sale transaction.
+[Review](https://sewing.patternreview.com/review/pattern/77847)
 
- _PayPal_
+Other My Own  
+[](https://sewing.patternreview.com/review/pattern/45795)
 
-If you choose to use PayPal to finalize and pay for your order, you will provide your credit card number, directly to PayPal. PayPal's privacy policy will apply to the information you provide on the PayPal Web site.
+by: williamsgr...
 
-We or a third party contracted by us may use technologies such as cookies, Web beacons, or scripts to gather information about how you and others interact with our Web site. For example, we will know how many users access a specific areas or features within our site and which links or ads they clicked on. We use this aggregated information to understand and optimize how our site is used, improve our marketing efforts, and provide content and features that are of interest to you.
+[Review](https://sewing.patternreview.com/review/pattern/45795)
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here: [http://preferences.truste.com](http://preferences.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads 
+SewBaby One Piece Reversible Sundress Pattern  
+[](https://sewing.patternreview.com/patterns/12005)
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security.
+$8.95[Pattern](https://sewing.patternreview.com/patterns/12005)
 
-If you have any questions about security on our Web site, you can contact us at [support@patternreview.com](mailto:support@patternreview.com)
+Indygo Junction Very Mary Apron Pattern  
+[](https://sewing.patternreview.com/Patterns/83167)
 
-We provide two means for you to make a purchase on our site. You can either use our order form or a third party checkout option. If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party checkout option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
-
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [support@patternreview.com](mailto:support@patternreview.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-Our Web site includes third party hosted widgets, which are interactive mini-programs that run on our site to provide single-purpose services (e.g. sharing of articles, videos, etc.). Personal information, like your email address, may be collected and cookies may be set so the widget can work properly. The information through the widget is subject to the widget provider’s privacy policy 
-
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [support@patternreview.com](mailto:support@patternreview.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so.
-
- **Correcting and Updating Your Personal Information**
-
-To review and update your personal information to ensure it is accurate, contact us at [support@patternreview.com](mailto:support@patternreview.com).
-
- **Notification of Privacy Statement Changes**
-
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-You can contact us about this privacy statement by writing or email us at the address below:
-
-PatternReview.com DBA OSATech, Inc.
-
-PO Box 993 
-
-Acton, MA  01720
-
-United States
-
-Phone: 978-608-2224
+$11.69[Pattern](https://sewing.patternreview.com/Patterns/83167)
