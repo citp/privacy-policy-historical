@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the antonioleiva.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903160641id_/https%3A//antonioleiva.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antonioleiva.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004221726id_/https%3A//antonioleiva.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Antonio Leiva
 
@@ -31,9 +31,9 @@ You can also direct the communication by mail to:
 
 Antonio Leiva Gordillo
 
-Plaza Fábrica de Paños, 1
+Calles Mar del Norte 3
 
-28830 San Fernando de Henares
+28821 Coslada
 
 (Madrid)
 
@@ -47,7 +47,7 @@ The person in charge of the file is Antonio Leiva Gordillo.
 
 To provide strictly necessary services for the development of its activity, Antonio Leiva Gordillo uses the following service providers under their corresponding privacy conditions:
 
-  * Hosting: Webempresa Europa SL, with registered office in C / Pujol, 17, entr. 1, 08022 Barcelona, ​​inscribed in the Mercantile Register of the province of Barcelona at Volume 43.076, Folio 28, Sheet 420838. With C.I.F .: B-65739856. You can consult the privacy policy and other legal aspects of the company at the following link: <https://www.webcompresa.com/aviso-legal.html>
+  * Hosting: Webempresa Europa SL, with registered office in C / Pujol, 17, entr. 1, 08022 Barcelona, inscribed in the Mercantile Register of the province of Barcelona at Volume 43.076, Folio 28, Sheet 420838. With C.I.F .: B-65739856. You can consult the privacy policy and other legal aspects of the company at the following link: <https://www.webcompresa.com/aviso-legal.html>
   * E-mail marketing provider: Active Campaign LLC, established at 222 S. Riverside Plaza, Suite 810, Chicago, Illinois 60606, and listed on Privacy Shield: [https://www.privacyshield.gov/participant?id= A2zt0000000GnH6AAK](https://www.privacyshield.gov/participant?id=A2zt0000000GnH6AAK)
 
 
