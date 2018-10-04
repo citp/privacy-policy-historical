@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the searchyellowdirectory.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602230648id_/http%3A//www.searchyellowdirectory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchyellowdirectory.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004232138id_/http%3A//www.searchyellowdirectory.com/privacy) for the most accurate reproduction.*
 
 # Privacy - SearchYellowDirectory.com
 
-Welcome to our website, SearchYellowDirectory.com.
+Welcome to our website, Searchyellowdirectory.com.
+
+See below our New 2018 Updated EU General Data Protection Regulation (GDPR) under; **Cookies and Google Adsense** SYD uses cookies from Google to deliver its services, to personalize ads and to analyze traffic. Information about your use of this site is shared with Google. By using SearchYellowDirectory.com, you agree to its use of cookies. **Please see below in section Cookies and Google Adsense.**  
+
 
 Use of this website, and any information distributed throughout, is offered to you on your acceptance of our Privacy Policy, [Terms and Conditions](https://web.archive.org/terms/), our Terms of Use and other notices posted on this website. Your use of this website or of any content presented in any and all areas of the website indicates your acknowledgment and agreement to these Terms and Conditions, our Privacy Policy and other notices posted on this website. If you do not agree to be bound by and comply with all of the foregoing, you are not permitted to use any of the search tools or any of the content contained within this website, This privacy policy sets out how SearchYellowDirectory.com uses and protects any information that you give SearchYellowDirectory.com when you use this website. SearchYellowDirectory.com is committed to ensuring that your privacy is protected. We may use Personally Identifiable Information (e-mail address) subject to the terms of this privacy policy. If we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. SearchYellowDirectory.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective May 1, 2007. Please note this policy applies only to information collected by Search Yellow Directory and does not impact information collected or used by SearchYellowDirectory.com affiliates through other means.
 
@@ -32,7 +35,8 @@ SearchYellowDirectory does not collect or store cookies. However we do use infor
 
 [Google's Opt out of Interest-Based Ads](https://support.google.com/ads/answer/2662922?hl=en)
 
-**When does AdSense send cookies to a browser?**  
+When does AdSense send cookies to a browser?
+
 Google AdSense sends a cookie to the user's browser after any impression, click, or other activity that results in a call to Google servers. If the browser accepts the cookie, the cookie is stored on the browser. Most commonly, AdSense sends a cookie to the browser when a user visits a page that shows Google ads. Pages with Google ads include ad tags that instruct browsers to request ad content from Google servers. When the server delivers the ad content, it also sends a cookie. But a page doesn’t have to show Google ads for this to happen; it just needs to include Adsense ad tags, which might load a click tracker or impression pixel instead. [How does AdSense use cookies?](https://support.google.com/adsense/answer/7549925?hl=en)
 
 What we do with the information we gather:
@@ -75,4 +79,4 @@ Please contact us through our [Feedback](https://web.archive.org/feedback/) page
 
 We may update this privacy policy from time to time, so please check back often.
 
-May 25, 2018.
+July 2, 2018.
