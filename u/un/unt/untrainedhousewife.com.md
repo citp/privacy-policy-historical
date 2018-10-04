@@ -1,10 +1,18 @@
-> *The following text is extracted and transformed from the untrainedhousewife.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519160804id_/http%3A//untrainedhousewife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the untrainedhousewife.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005003023id_/http%3A//untrainedhousewife.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
+This is a blog that is hosted on the internet which, like all internet things, means that your browser tells the ads and things on my site, information about where you live and that sort of thing. Google Analytics has a fancy schmancy way of tracking this full of technobabble below. The nerds have special way of protecting that information. Ads will be shown to you and sometimes the internet things will personalize that if you have cookies enabled.
+
+When you sign up for a newsletter I will sometimes email you about stuff. Not all the time though, I’m usually too busy keeping my kids alive and trying the squeeze in the occasional shower so I am suitable for public consumption. All the emails are managed by ConvertKit which has a whole team of people dedicated to protecting your information.
+
+Sometimes I will tell you about products and use links that give me a referral – that’s called Affiliate information. I will tell you about that in the posts though too.
+
+Now here’s a bunch of extra legally words to keep all the international nerd gods happy. See that information below.
+
 **What information do we collect?**
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter or leave a comment. 
+We collect information from you when you register on our site, place an order, subscribe to our newsletter or leave a comment.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or Username. You may, however, visit our site anonymously.
 
@@ -14,7 +22,7 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
 
 **What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways: 
+Any of the information we collect from you may be used in one of the following ways:
 
 ; To personalize your experience  
 (your information helps us to better respond to your individual needs)
@@ -35,7 +43,7 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 
 **How do we protect your information?**
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
 
 **Do we use cookies?**
 
@@ -61,7 +69,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Amazon Affiliate Disclosure**
 
-Untrained Housewife is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. This does not alter the price for you in any way, but supports the Untrained Housewife community. 
+Untrained Housewife is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. This does not alter the price for you in any way, but supports the Untrained Housewife community.
 
 **Terms and Conditions**
 
@@ -73,15 +81,17 @@ By using our site, you consent to our [web site privacy policy](http://www.freep
 
 **Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will post those changes on this page. 
+If we decide to change our privacy policy, we will post those changes on this page.
 
 This policy was last modified on 10/30/2013
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.untrainedhousewife.com/write-for-us  
+> [Join Us](http://untrainedhousewife.com/write-for-us)
+
+  
 4019 W. Hwy 70 #252  
 Durant, OK 74701  
 United States  
