@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxpolicycenter.org privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507040906id_/http%3A//www.taxpolicycenter.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxpolicycenter.org privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004041746id_/https%3A//www.taxpolicycenter.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tax Policy Center
 
