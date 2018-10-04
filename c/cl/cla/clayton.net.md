@@ -1,59 +1,168 @@
-> *The following text is extracted and transformed from the clayton.net privacy policy that was archived on 2006-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060923015131id_/http%3A//www.clayton.net/index.cfm%3Finclude%3Dprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clayton.net privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004121548id_/https%3A//www.claytonhomes.com/privacy) for the most accurate reproduction.*
 
-# Clayton Homes, Inc.
+# Privacy
 
-[](https://web.archive.org/news/MOY2005NewsRelease.htm)
+rev. 5/17
 
-[](https://web.archive.org/homes/energystar.cfm)
+Download our [Privacy Policy](https://p.widencdn.net/a7izzh/Privacy-Notice) (PDF)
+
+#### FACTS
+
+##### WHAT DO VANDERBILT, HOMEFIRST, CMH, PROPERTIES, AND WIMBLEDON DO WITH YOUR PERSONAL INFORMATION?
+
+##### Why?
+
+Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.
+
+##### What:
+
+The types of personal information we collect and share depend on the product or service you have with us. This information can include:
+
+  * Social Security number and income
+  * Account balances and assets
+  * Credit history and credit scores
+
+
+
+##### How?
+
+All financial companies need to share customers' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers' personal information; the reasons Vanderbilt, HomeFirst, CMH, Properties, and Wimbledon choose to share; and whether you can limit this sharing.
+
+#### Reasons we can share your personal information
 
 | 
 
-### Privacy Policy:
+#### Can you limit this sharing?  
+  
+---|---  
+  
+For our everyday business purposes - such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureau.
 
-We respect the privacy of every customer. We strive to protect personal information and maintain customer trust. Please see our privacy policy:
+| 
 
-**Information we may collect:**
+No  
+  
+ **For our marketing purposes -**  
+to offer our products and services to you
 
-  * Information we receive from you (or on your behalf) on applications, company-affiliated web sites or other forms, such as your name, address, telephone number, social security number, employer, and income; 
-  * Information about your transaction with us, our affiliates, or others, such as your account number, account balance, transaction history, or parties to the transaction; and 
-  * Information we receive from consumer-reporting agencies, public records, and data collection agencies, such as your obligations to others, credit worthiness, and credit history. 
+| 
+
+No  
+  
+ **For joint marketing with other financial companies**
+
+| 
+
+No  
+  
+ **For our affiliates ' everyday business purposes -**  
+information about your transactions and experiences
+
+| 
+
+No  
+  
+ **For our affiliates ' everyday business purposes -**  
+information about your creditworthiness
+
+| 
+
+Yes  
+  
+ **For our affiliates to market to you**
+
+| 
+
+Yes  
+  
+ **For nonaffiliates to market to you**
+
+| 
+
+Yes  
+  
+##### To limit our sharing
+
+  * Call toll-free [877-826-5294](tel:8778265294) -our menu will prompt you through your choices or
+  * Visit us online: [http://www.optoutoday.com](http://www.optoutoday.com/)
 
 
 
-The nonpublic personal information we collect may be disclosed in order to deliver products and services to you, provide customer service or administer your account. It is not our policy to sell or rent nonpublic personal information to outside parties. However, nonpublic personal information may be disclosed to the following parties: 
+ _Please note:_  
+If you are a new customer, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our customer, we continue to share your information as described in this notice.
 
-  * Affiliated companies, such as the retail, manufacturing, finance, insurance, and communities divisions of our parent company;
-  * Parties who assist in processing and servicing loan transactions, protect against fraud and maintain our software;
-  * Others, such as parties with whom we have agreements to market financial products; or 
-  * Nonaffiliated third parties as permitted by law, such as law enforcement, State insurance or other government officials.
+However, you can contact us at any time to limit our sharing.
+
+##### Questions?
+
+Call toll-free [877-826-5310](tel:8778265310).
+
+###### Who we are
+
+##### Who is providing this notice
+
+Vanderbilt Mortgage and Finance, Inc. (NMLS #1561)("Vanderbilt"; HomeFirst Agency, Inc. ("HomeFirst"); CMH Homes, Inc. and CMH of KY, Inc. ("CMH"); CMH Properties, Inc. ("Properties"); Wimbledon Realty, LLC and Wimbledon Properties, LLC ("Wimbledon"). In California, HomeFirst does business as HomeFirst Insurance Agency.
+
+###### What we do
+
+##### How do Vanderbilt, HomeFirst, CMH, Properties, and Wimbledon protect my personal information?
+
+To protect your personal information from unauthorized access and use, we use security measures that comply with federal law.These measures include computer safeguards and secured files and buildings.
+
+##### How do Vanderbilt, HomeFirst, CMH, Properties, and Wimbledon collect my personal information?
+
+We collect your personal information, for example, when you
+
+  * Apply for a loan or apply for insurance
+  * Give us your income information or give us your contact information
+  * Give us your employment history
 
 
 
-**Joint marketing and servicing:**
+We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.
 
-We may disclose information to companies that perform marketing services on our behalf or to other financial institutions with whom we have joint marketing agreements. The information we generally receive is included in the categories listed above.
+##### Why can't I limit all sharing?
 
-To protect our customers' nonpublic personal information:
+Federal law gives you the right to limit only
 
-  * We restrict access to team members or parties who need the information for legitimate business purposes, such as providing and maintaining services to you 
-  * We maintain physical, electronic, and procedural safeguards for all nonpublic personal information. 
+  * sharing for affiliates' everyday business purposes - information about your creditworthiness
+  * affiliates from using your information to market to you
+  * sharing for nonaffiliates to market to you
 
 
 
-**Information from former customers:**
+State laws and individual companies may give you additional rights to limit sharing. See below for more on your rights under state law.
 
-We treat information collected from former customers with the same security as current customers. As such, any nonpublic personal information collected will not be sold or rented to outside parties, but may be shared in accordance with this privacy policy.
+What happens when I limit sharing for an account I hold jointly with someone else? Your choices will apply to everyone on your account.
 
-**Notice and changes to this privacy policy:**
+###### Definitions
 
-We will provide notice of our privacy policy and any relevant changes on an annual basis.
+##### Affiliates
 
-**State law:**
+Companies related by common ownership or control. They can be financial and nonfinancial companies.
 
-State law may provide you with greater or additional privacy protection. We will comply with state law regarding your information where applicable.
+  * Our affiliates include financial companies such as Vanderbilt Mortgage and Finance, Inc., HomeFirst Agency, Inc., CMH Homes, Inc., CMH of KY, Inc., CMH Properties, Inc., Wimbledon Realty, LLC, Wimbledon Properties, LLC, and 21st Mortgage Corporation, and nonfinancial companies such as CMH Manufacturing, Inc., and CMH Manufacturing West, Inc.
 
-The examples provided in this privacy policy are illustrative and should not be considered an exhaustive list of uses or parties with whom information may be shared. Additionally, this policy will not apply to other financial service providers that are not affiliated with the companies listed below. Their privacy policy will govern how they collect, use, and disclose personal information you allow them to access.
 
-Should we disclose your nonpublic personal information with a nonaffiliated third party in a manner inconsistent with this policy, we will provide you with a reasonable opportunity to opt-out of such disclosure as required by law.
 
-Our intent is to maintain any data provided as confidential: however, information transmitted on the Internet cannot be guaranteed to remain confidential and Clayton Homes assumes no responsibility for maintaining such information as confidential. 
+##### Nonaffiliates
+
+Companies not related by common ownership or control. They can be financial and nonfinancial companies.
+
+  * Nonaffiliates we share with can include mortgage companies, insurance companies, direct marketing companies, and nonprofit organizations.
+
+
+
+##### Joint Marketing
+
+A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
+
+  * Our joint marketing partners include mortgage companies.
+
+
+
+## Other Important Information
+
+California Residents: We will not share your information for joint marketing with other financial companies, or for nonaffiliates to market to you.
+
+Vermont Residents: We will not share your information for joint marketing with other financial companies, for our affiliates' everyday business purposes (information about your creditworthiness), for our affiliates to market to you, or for nonaffiliates to market to you.
