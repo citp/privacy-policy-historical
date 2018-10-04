@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screensaversplanet.com privacy policy that was archived on 2018-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180220235959id_/https%3A//www.screensaversplanet.com/about/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screensaversplanet.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004180735id_/http%3A//www.screensaversplanet.com/about/terms) for the most accurate reproduction.*
 
 # Terms of use - Screensavers Planet
 
@@ -6,7 +6,7 @@ We care deeply about the privacy and safety of those who, like you, visit this w
 
 Please note that by accessing this website, you accept the terms set forth below and that this policy may be changed at any time without prior notice.
 
-This page was last updated on December 22, 2014.
+This page was last updated on April 26, 2018.
 
 ## Privacy policy
 
@@ -27,6 +27,8 @@ To further improve our understanding of users' interaction with the content on t
 This website is entirely ad-supported. In order to display the most contextually relevant advertising, we have teamed up with Google AdSense, a program that connects web publishers to advertisers. When you view or click on an ad, a cookie may be stored on your computer. Cookies are small text files that are commonly used on the web to store user preferences, and to recognize returning visitors, so that their experience can be optimized.
 
 Third party vendors and advertising networks, including Google, use these cookies to serve ads based on a user's prior visits to this website. Google's use of the so-called "DoubleClick" cookie enables it and its partners to serve ads to our users based on their visit to this site and/or other sites on the Internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising, as well as other cookies, by visiting [aboutads.info](http://www.aboutads.info/).
+
+Please see [this page](https://www.google.com/policies/technologies/partner-sites/) for an overview of how Google uses information from this website.
 
 ### Information voluntarily provided
 
