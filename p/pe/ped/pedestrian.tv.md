@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pedestrian.tv privacy policy that was archived on 2018-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180322191841id_/https%3A//www.pedestrian.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pedestrian.tv privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004080631id_/https%3A//www.pedestrian.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pedestrian TV
 
@@ -14,13 +14,15 @@ We collect personal information that you have provided to us about yourself. Thi
 
 We collect information about you so that we can:
 
-Process, fulfil and keep you informed on the progress of the order(s) that you place on our website;
+  * Process, fulfil and keep you informed on the progress of the order(s) that you place on our website;
+  * Send you information about our products and services as well as third party products and services that we think could be of interest to you (including promotions, discounts and special events);
+  * Maintain our relationship with you (including responding to your questions);
 
-Send you information about our products and services as well as third party products and services that we think could be of interest to you (including promotions, discounts and special events);
 
-Maintain our relationship with you (including responding to your questions);
 
-And create and maintain records for our internal accounting and administration purposes.
+  * And create and maintain records for our internal accounting and administration purposes.
+
+
 
 If you do not provide us with your personal information, we may not be able to provide you with these services.
 
@@ -28,11 +30,13 @@ If you do not provide us with your personal information, we may not be able to p
 
 We may also use your personal information for other purposes (and/or share your information with a third party) because we believe it is necessary to do so, in these circumstances:
 
-To provide you with goods or services which you have requested;  
-To protect the rights, property or personal safety of our suppliers, customers or any member of the public;  
-To prevent or help detect fraud or serious credit infringements;  
-To protect our interests (e.g. disclosing information to a court); or  
-If the assets and operations of our business are being transferred to another party as a going concern.
+  * To provide you with goods or services which you have requested;
+  * To protect the rights, property or personal safety of our suppliers, customers or any member of the public;
+  * To prevent or help detect fraud or serious credit infringements;
+  * To protect our interests (e.g. disclosing information to a court); or
+  * If the assets and operations of our business are being transferred to another party as a going concern.
+
+
 
 ### 5\. Do you give my information to third parties?
 
@@ -65,11 +69,10 @@ Job advertisements will be be approved at the discretion of the Pedestrian JOBS 
 
 By taking up this offer, you will be added to the Pedestrian JOBS recruiter EDM, from which you can unsubscribe at any future time.
 
-### 10\. Questions?
+### 10\. Google
 
-If you have any questions about our Privacy Policy, please contact us at  
-editor@pedestriangroup.com.au
+Our properties feature advertisements run on the Google Suite of Advertising and track data through Google Analytics. To learn more about the information that Google may collect and your choices with regard to it, please see the the Google Privacy & Terms at <https://www.google.com/policies/technologies/partner-sites/>
 
 ### 11\. Nielsen Digital
 
-Our properties may feature Nielsen proprietary measurement software, which will allow you to contribute to market research, like Digital Content Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy at http://www.nielsen.com/digitalprivacy.
+Our properties may feature Nielsen proprietary measurement software, which will allow you to contribute to market research, like Digital Content Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy at <http://www.nielsen.com/digitalprivacy>.
