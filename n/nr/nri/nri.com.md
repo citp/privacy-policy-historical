@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nri.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604175811id_/https%3A//www.nri.com/global/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nri.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004075311id_/http%3A//www.nri.com/global/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Nomura Research Institute (NRI)
 
@@ -11,7 +11,7 @@ Personal Data Protection Statement
 Usage Purposes  
 Upon specifying the purposes for use to the maximum extent possible, the NRI Group shall use personal data within the framework of the following purposes, except in cases in which the prior consent of the relevant person was obtained and in which the handling of said personal data is permitted as exceptional cases by the Law Concerning the Protection of Personal Information and/or other applicable laws and ordinances.  |  |  | Providing NRI Group’s products and services, such as research activities, consulting services (concerning management, business operations, information systems, etc.), development and operation of information systems and computer network systems, information processing services, content services and information provision services.  
 ---|---|---  
-|  | Delivery of our publications such as Chiteki shisan sozo (Knowledge Creation and Integration), Mirai sohatsu, Gijutsu sohatsu (NRI Information Technology Report), IT soryushon frontia (IT Solutions Frontier), etc.  
+|  | Delivery of our publications such as Chiteki shisan sozo (Knowledge Creation and Integration), IT soryushon frontia (IT Solutions Frontier), etc.  
 |  | Providing information about new products and services  
 |  | Providing notifications of our company’s latest information, various seminars and exhibitions  
 |  | Sending questionnaires on customer satisfaction, etc.  
@@ -19,6 +19,7 @@ Upon specifying the purposes for use to the maximum extent possible, the NRI Gro
 |  | Management of contracts with customers  
 |  | Management of information on stockholders  
 |  | Employment (including recruiting) and personnel affairs management  
+|  | Handling and processing the entrusted data including personal information  
   
 If the need arises to use personal data for purposes other than those specified above, consent of the relevant person shall be obtained for said purpose, except in cases in which the prior consent of the person was obtained or in which the handling of said personal data is permitted as an exceptional case by the Law Concerning the Protection of Personal Information and/or other applicable laws and ordinances.
 
