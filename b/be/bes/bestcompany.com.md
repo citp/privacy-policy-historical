@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bestcompany.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709081951id_/https%3A//bestcompany.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestcompany.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004163709id_/https%3A//bestcompany.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BestCompany.com
+# Privacy Policy | Best Company
 
 **Effective Date: January 6, 2017**
 
