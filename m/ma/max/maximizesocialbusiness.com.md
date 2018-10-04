@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the maximizesocialbusiness.com privacy policy that was archived on 2018-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180213024444id_/https%3A//maximizesocialbusiness.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maximizesocialbusiness.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004083337id_/https%3A//maximizesocialbusiness.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy -
+# Privacy Policy
 
 ### **PRIVACY POLICY STATEMENT**
 
 Your privacy is important to Windmills Marketing.  This privacy statement provides information about the personal information that Windmills Marketing collects, and the ways in which Windmills Marketing uses that personal information.
 
- **This privacy policy statement**
+**This privacy policy statement**
 
-This statement is based on a [free privacy policy](http://www.freenetlaw.com/free-privacy-statement.html) form made available by contract experts SEQ Legal.  SEQ Legal supplies a wide range of commercial legal documents, including [novation agreement ](http://www.template-contracts.co.uk/acatalog/novation_agreements.html)templates.
+This statement is based on a free privacy policy form made available by contract experts SEQ Legal.  SEQ Legal supplies a wide range of commercial legal documents, including [novation agreement ](http://www.template-contracts.co.uk/acatalog/novation_agreements.html)templates.
 
- **Personal information collection**
+**Personal information collection**
 
 Windmills Marketing may collect and use the following kinds of personal information:
 
@@ -22,7 +22,7 @@ Windmills Marketing may collect and use the following kinds of personal informat
 
 
 
- **Using personal information**
+**Using personal information**
 
 Windmills Marketing may use your personal information to:
 
@@ -43,11 +43,11 @@ Where Windmills Marketing discloses your personal information to its agents or s
 
 In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, Windmills Marketing may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.
 
- **Securing your data**
+**Securing your data**
 
 Windmills Marketing will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
 
- **Cross-border data transfers**
+**Cross-border data transfers**
 
 Information that Windmills Marketing collects may be stored and processed in and transferred between any of the countries in which Windmills Marketing operates to enable the use of the information in accordance with this privacy policy.
 
@@ -55,19 +55,19 @@ In addition, personal information that you submit for publication on the website
 
 You agree to such cross-border transfers of personal information.
 
- **Updating this statement**
+**Updating this statement**
 
 Windmills Marketing may update this privacy policy by posting a new version on this website.
 
 You should check this page occasionally to ensure you are familiar with any changes.
 
- **Other websites**
+**Other websites**
 
 This website contains links to other websites.
 
 Windmills Marketing is not responsible for the privacy policies or practices of any third party.
 
- **Contact Windmills Marketing**
+**Contact Windmills Marketing**
 
 If you have any questions about this privacy policy or Windmills Marketing’s treatment of your personal information, please write to:
 
@@ -76,4 +76,4 @@ If you have any questions about this privacy policy or Windmills Marketing’s t
 
 
 
-PUBLISHED ON July 16, 2010, LAST REVISED ON April 19, 2015
+PUBLISHED ON July 16, 2010, LAST REVISED ON September 9, 2018
