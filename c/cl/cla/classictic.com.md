@@ -1,131 +1,139 @@
-> *The following text is extracted and transformed from the classictic.com privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021022632id_/http%3A//www.classictic.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classictic.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004072029id_/https%3A//www.classictic.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy notice - Classictic.com
 
-In this Privacy Policy, Classictic GmbH (hereinafter “Classictic” or “we”) informs you about   
-• which personal data (hereinafter Data) we collect and/or use for which purposes,   
-• how you can amend, block or delete your Data,   
-• how your Data is protected against abuse, and   
-• how you can contact us with questions about data protection. 
+Last update: May 25, 2018 
 
-  
+This Privacy Notice gives you an overview of the processing of your personal data in the context of the use of the offers and online services within the website at https://www.classictic.com (the 'website'). This privacy policy also informs you about your rights and the possibilities to control your personal data and to protect your privacy.   
+Responsible for data processing is Classictic GmbH, Boyenstr. 41,10115 Berlin, Germany. This company is also meant if the terms 'we' or 'us' are used in the following. 
 
+You can contact our data protection officer at the above address and at privacy@classictic.com.   
+We have taken technical and organisational measures to ensure the security of your personal data. For example, we use the Transport Layer Security (TLS) for the transmission of data for encryption. 
 
-###  General 
+**Please note:**
 
-Classictic GmbH is responsible for the collection, processing, and use of Data on the website www.classictic.com. 
+You are not obliged by law to provide us with the personal data stated in this Privacy Notice. Specifically, the contractual relationship that you have entered into with us by agreeing to our GTC does not imply any obligation to provide your personal data. However, the transmission of the contract information provided by you to us is a basic requirement for the conclusion of a contract with us. In addition, you may not use the website or only to a limited extent if you do not provide us with certain data or object to the use of this data. 
 
-The protection of your privacy is a responsibility we take seriously. When collecting, processing, or using your Data, we will always treat it confidentially. We appreciate that you do not want the Data you provide to be distributed indiscriminately. In this Policy, we explain how we collect Data, how we treat collected Data, and which rights you have in this respect. Our employees are committed to data secrecy pursuant to applicable law (including the German Federal Data Protection Act and the German Telemedia Act). We reserve the right to update this Privacy Policy from time to time by publishing changes on our website. This Privacy Policy was last updated on 16 June 2014. 
+##  1\. Which personal data we process and from which sources: 
 
-  
+When we make our website available to you, we process personal data from various sources. On the one hand, these are data that we automatically process for every visitor when the website is accessed. However, this may also be data that you have voluntarily provided to us or that we receive from the concert organisers. 
 
+**Data that we automatically collect when you use our website:**
 
-###  Data we may collect 
+As soon as you visit the website, you send technical information to our web servers. This happens regardless of whether you make a booking or subsequently register with an account with us to use the website. In any case, we collect the following access and web access data (which we call 'Usage data'): 
 
-**When you visit our website**
+\- Date and time of the visit and the duration of the use of the website   
+\- The anonymized IP address of your device   
+\- the referral URL (the website from which you may have been referred)   
+\- the visited sub-pages of the website or sub-pages of the app and   
+\- more information about your device (device type, browser type and version, settings, operating system). 
 
-You are free to browse our website without providing any personal data. During your visit to our website, our system collects information about your internet access, such as the type of internet browser you use, the website from which you have come to our website, and your IP address. We only use this information to assist us in providing efficient service to you on our website. We only store access data in anonymized form. In addition, we may use your previously anonymized IP address in order to determine the country from which you are visiting the website, in order to offer you the correct language version. 
+We process the Usage Data in order to enable you to use the website and to ensure the functionality of the website, in particular to show you the correct language version. In addition, we process the Usage Data to analyze the performance of the website, continuously improve the website and correct errors or personalize the content on the website for you. However, we also process usage data in order to guarantee IT security and the operation of our systems and to prevent or detect misuse, in particular fraud. 
 
-**When you order online or register for a MyClassictic Account**   
-We ask for the following Data:   
-• Name   
-• E-mail address   
-• Country   
-• Mobile phone number (optional)   
-• Date of birth (optional)   
-• Payment information. 
+We store this usage data exclusively in anonymous form, so that it is no longer possible to draw any conclusions about your person. 
 
-  
+We use cookies for automatic processing of usage data. Cookies are small text files that you load onto your device when you visit our websites and store the above information about yourself. We use our own cookies, but we also use cookies and tracking tools from third parties such as Google and Facebook. If you would like to know more about how cookies work, which cookies process which data on our website for which purposes and how you can deactivate them, click here for our cookie page: <https://static.classictic.com/app/_tools/global/pdf/privacy/cookies/cookies_en.pdf>
 
+**Data that you yourself transmit to us:**
 
-###  How do we use the collected Data? 
+In addition to the data we receive from all visitors, we also process other data. The exact amount of this data depends on how you use the website. You can use the website with or without a user account. 
 
-**This Data is required in order to**   
-• complete your order,   
-• send your order confirmation via e-mail,   
-• complete your payment,   
-• generate your e-Ticket (name and country will appear on the ticket),   
-• send you an e-Ticket via e-mail,   
-• inform the event organizer about your booking. 
+If you decide to create an account or make a booking or reservation without creating an account, please let us know: 
 
-In some cases, completion of your order requires that we share some of your Data with our service partners (e.g. concert organizers). In such cases, we will only share your name and local contact details (e.g., to the extent provided, your local phone number, your mobile phone number, etc.) We do not provide our service providers with any other personal information. 
+\- your name   
+\- Your e-mail address   
+\- The country you live in   
+\- your mobile phone number (optional)   
+\- your birthday (optional)   
+\- Information on the payment method you have selected. 
 
-**Your Data is not shared with other third parties.** This excludes our partners that require your Data in order to process your order (in particular the payment service provider engaged to process your payment). In these cases, however, only the minimum Data required will be transferred. 
+The data entered during registration will be used for the purpose of providing the website and for notification by e-mail of any information relevant to the website or registration, such as changes in the scope of the website or technical circumstances. If you give your separate consent, we will also save your e-mail address for sending our newsletter. 
 
-**Newsletter**   
-If you subscribe to our newsletter, we may use your email address to send you information, news, and recommendations about our products and services. You may cancel your subscription at any time with future effect, either on our website using your free _MyClassictic Account_ , or using the link at the end of each newsletter. 
+We process this information to complete your booking (including payment), inform you of the status of your reservation and issue you your e-ticket. 
 
-**Personalized Information E-mails**   
-We may also send you individualized information about our products and services, based on your previous orders. We only provide this service if you consent to receive such information. If you no longer wish to receive personalized e-mails, you may withdraw your consent at any time with future effect, either on our website using your free _MyClassictic Account_ , or using the link at the end of each information e-mail. 
+Depending on which payment provider you choose for your payment, you may have previously agreed to the payment provider's own terms of use and privacy notices (as in the case of PayPal). Then please also note the data protection information of the relevant payment provider. In any case, the transaction ID and the payment amount are transmitted to the payment provider you have selected. We also store so-called settlement files in connection with the payment of your booking. They will inform us in consultation with the payment provider used in each case whether the respective   
+booking has already been paid in full and definitively.   
+If you contact Customer Service at [info@classictic.com](mailto:info@classictic.com), the written communication between you and service staff and notes on each transaction will be stored until it is completed in order to ensure smooth customer service at all times when the transaction is resumed by other service staff. 
 
-**How can I amend, block, or delete Data?**
+##  2\. The purposes for which we also process your data: 
 
-You may view and edit your user data in your free _MyClassictic Account_ at any time by logging in with your e-mail address and your password. If you have forgotten your password or experience problems with the log-in process, please contact us.   
-You may request information about your stored Data. Such a request is free of charge. In this case, please e-mail our Customer Service ([info@classictic.com](mailto:info@classictic.com)). In cases for which storing of your Data is unlawful, if the original purpose of such storing no longer exists and has not been replaced by another purpose, or if there is another reason for deletion pursuant to Section 35 para. 2 of the German Federal Data Protection Act, then you have the right to request deletion of the Data. 
+We have already informed you above for which purposes we process your data in individual cases. In addition, we may process your data for further purposes. This includes, for example, the disclosure of your personal data to third parties if we are legally obliged to do so, but also the assertion of legal claims on our part or the defence against legal disputes. 
 
-If your right to request Data deletion is opposed by one of the cases set forth in Section 35 para. 3 nos. 1 to 3 of the German Federal Data Protection Act, then you may request blocking of your Data in lieu of deletion. You may also request blocking of your Data if you dispute the correctness of your personal data and if it is impossible to determine its correctness or incorrectness. You may assert these rights by e-mailing our Customer Service ([info@classictic.com](mailto:info@classictic.com)). 
+##  3\. The legal basis for processing: 
 
-  
+When processing your personal data, we rely on various legal bases in accordance with the so-called General Data Protection Regulation, an EU-wide legal framework for standardising data protection laws ('GDPR'). These are in detail: 
 
+**Your consent (Article 6 (1) a) GDPR):**
 
-###  Information about Cookies 
+By registering or making a booking with your account details, you expressly agree to the data processing described in detail in this Privacy Notice by ticking the box before sending the registration or booking form: If we process your data within the framework of booking or providing your user account, it is therefore because you have consented to this. Your consent is therefore the most important legal basis for the processing of your personal data by us. 
 
-We use “cookies” in order to personalize your experience of our website. Cookies are small files which websites use to identify you after your first visit. Classictic uses cookies for various purposes. 
+**Fulfilment of our contractual obligations towards you (Article 6 (1) b) GDPR):**
 
-Strictly necessary cookies: Most of the cookies we use are essential to the operation of our website. They include i.a. cookies which enable you to log in to secure areas of our website or to place several items in your shopping cart before proceeding to pay. 
+At the same time, your data will also be processed for the provision of the website as part of the fulfilment of our contract with you. Accordingly, in most cases the processing is not only justified by your consent, but also because it is necessary to fulfil our contract with you. For example, if you book a concert ticket via the website, it is necessary to process the booking data to save your booking. 
 
-Analytical/performance cookies: These cookies help us to learn more about the users of our website in order to improve our service. 
+**Our legitimate interests (Article 6 (1) f) GDPR):**
 
-Functional cookies: These cookies allow us to personalize content for you, greet you by name and remember your preferences (i.e. language, region). 
+There are also cases in which we would be entitled to process your data without your consent because it is necessary to protect our legitimate interests (or the interests of third parties). In this respect, the purposes described above, for which we process your data, also represent legitimate interests in many cases. This means that we may process the data necessary to guarantee the security of our IT systems in any case, even if you have not given or withdrawd your consent to this processing. This also concerns the prevention of abuse of our website or the personalisation of advertisements to your interests (so-called direct marketing). 
 
-Targeting cookies: These cookies record your visit to our website, the pages you liked, and the links you found relevant. We use this information to make our website and the advertising displayed on it more relevant to your interests. 
+**Legal requirements (Article 6 (1) c) GDPR) or in the public interest (Article 6 (1) e) GDPR):**
 
-**Google Analytics**   
-Our website uses Google Analytics, a web analysis service of Google Inc. (“Google”). Google Analytics uses “cookies”, text files which are saved on users’ computers and enable analysis of how users navigate our website. Information generated by cookies about the use of our website is generally transferred to a Google server in the USA and saved there. 
+In addition, we are legally obliged to process certain data in individual cases in order to provide information to law enforcement authorities or tax authorities. 
 
-IP anonymization is active on our website. By activating IP anonymization, we cause users’ IP address to be previously shortened by Google within member states of the European Union or other EEA member states. The complete IP address is only transferred to a Google server in the USA and shortened there in exceptional cases. On behalf of Classictic GmbH as operator of this website, Google uses this information to evaluate the use of the website, compile reports about website activities, and render additional services associated with the use of the website and the internet for us. 
+##  4\. With whom we share your information: 
 
-The IP address transmitted by your browser within the scope of Google Analytics is not combined with other data Google data. You can prevent the storing of cookies by adjusting your browser settings appropriately. However, in this case, you may not be able to fully use all functions of this website. In addition, you may prevent the collection of data generated by cookies and related to use of our website (including your IP address) by Google and the processing of this data by Google by downloading and installing the browser plugin available under [this link](https://tools.google.com/dlpage/gaoptout).   
-As an alternative to the browser add-on or on mobile devices, please click on this link in order to prevent any future collection of your data by Google Analytics on our website. In this process, an opt-out cookie will be stored on your device. If you delete your cookies, you must click on this link again. 
+With the exception of the service providers and partners described below, we will not pass on your data to third parties. Insofar as the respective listed recipients of the data receive data, these recipients will process your data solely on our instructions and have undertaken to comply with strict requirements for the security of your data. 
 
-**Use of Facebook Social Plugins**   
-Our website uses Social Plugins ("Plugins") of the social network facebook.com which is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA ("Facebook"). The Plugins are marked with a Facebook logo or the supplement “Facebook Social Plugin”. An overview of the Facebook Plugins and their design may be accessed [here](https://developers.facebook.com/docs/plugins/). 
+In order to complete your booking and to secure your right to attend the respective concert, we will pass on your name and contact details (e.g. telephone number) as well as your ticket number to the concert organiser. 
 
-If you open a page of our website that contains such a Plugin, your browser will establish a direct connection with the Facebook servers. The content of the Plugin will be transferred directly to your browser by Facebook and will be integrated into the website. Thus, Classictic GmbH has no control over the volume of the data that Facebook collects using this Plugin, and we can only inform you according to our [knowledge](https://www.facebook.com/help/18632566808508). 
+In addition, we transmit data to our hosting service providers that enable us to provide the website. The providers listed in our information on cookies and tracking tools will only receive your anonymized data as further explained there. 
 
-By integrating Plugins, Facebook will receive the information that a user has accessed the corresponding page of our web presence. If the user is logged into Facebook, Facebook is able to reconcile the visit to his/her Facebook account. If Plugins are used, e.g. leaving a comment or clicking the “Share” button, the respective information is transferred from the user’s browser directly to Facebook and may be stored there. If a user does not have a Facebook account or is not logged into Facebook, there is still the possibility that Facebook may find out and store his/her IP address as well as browser-related information. 
+We also send your e-mail address to the provider of the 'Mailchimp' newsletter service, which we use to enable our newsletter to be sent by e-mail. Provider is the Rocket Science Group, LLC, 675 Ponce De Leon Ave NE #5000, Atlanta, GA 30308, USA. 
 
-Purpose and scope of the data collection and the further processing and use of the data by Facebook as well as your related rights and possible settings to protect the privacy of the user can be viewed in [Facebook's data protection policy](https://www.facebook.com/about/privacy/). 
+##  5\. Data processing outside the EEA: 
 
-If a user has a Facebook account and does not want Facebook to collect Data on him/her through our website and reconcile such data with the member data stored in Facebook, such user must log out of Facebook prior to visiting our website. 
+We do not transfer your access and account data to countries outside the EEA (so- called 'third countries'). We do not host your data in third countries and all your data is located on the servers of our hosting service providers in Germany, 1&1 Internet SE, Eigendorfer Str. 57, 56410 Montabaur and Hetzner Online GmbH, Industriestr. 25, 91710 Gunzenhausen. The only exception are the settlement files stored by Amazon Web Services, Inc. 410 Terry Avenue North, Seattle WA 98109, USA (also on servers located in Germany). 
 
-It is also possible to block Facebook Social Plugins with add-ons for your browser. 
+In some cases, however, your data will be processed in third countries. This applies in particular to third party cookies provided by companies based in the United States. However, we will ensure that an adequate level of data protection is guaranteed at all times. We ensure that data recipients are either certified according to the so-called 'EU Privacy Shield' (as with Google, Mailchimp and Facebook) or that the so-called EU standard contract clauses are included in our contracts with these providers in order to guarantee the security of processing and an appropriate level of data protection (as in the case of Amazon Web Services). 
 
-**Twitter**
+##  6\. Data retention periods: 
 
-This website uses buttons of the service Twitter. These buttons are offered by Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA. They can be recognized by terms such as “Twitter” or “Follow” in connection with a blue bird. By means of the buttons, it is possible to share a page of our website with other users or to follow Classictic on Twitter. 
+We process and store your personal data insofar as this is necessary to fulfil our contractual or legal obligations. Therefore, we store the data for as long as our contractual relationship with you exists and after termination only to the extent and for as long as required by the law of the Federal Republic of Germany. All other data will be deleted when you log out of the website or are no longer needed to complete a booking. If the remaining data is no longer required to fulfil legal obligations (e.g. in accordance with tax or commercial law) after your deregistration or the closing of your booking (insofar as this took place without creating a user account), it will be regularly deleted, unless further processing is necessary to preserve evidence or to defend against legal claims against us. For the preservation of evidence, for example, your IP address and the exact time of issue are required if you have given us your consent (e.g. to receive the newsletter). 
 
-When a user visits a page of our website which contains such a button, his/her browser will establish a direct connection with Twitter’s servers. The content of the Twitter buttons is transmitted directly to the user’s browser by Twitter. Thus, Classictic has no control over the volume of data that Twitter collects via this plugin. Additional information is available in [Twitter's Privacy Policy](http://twitter.com/privacy). 
+##  7\. User profiles: 
 
-  
+We use your data to create a user profile. This means that we use your information to provide you with a personalized website based on your personal preferences and interests, and to provide you with customized offers based on your past behavior. For example, your computer's IP address is used to identify your geographic location and provide you with localized content in your local language. In addition, we can make suggestions and offers for new events based on the events you have previously visited and/or booked on our website. However, we will never process and analyse your personal data within the scope of this user profile in such a way that this leads to an automated decision that is legally effective for you or significantly impairs you in a similar manner. 
 
+##  8\. Your legal rights under the GDPR: 
 
-###  Our Security Systems and Data Storage Systems 
+You can assert the following rights against us within the scope of the GDPR with   
+regard to your personal data: 
 
-Classictic uses the highest industry standard, secure socket layer (SSL), when processing and storing data. We comply with the highest standards regarding quality, security, delivery and service. 
+Your right to information and access in accordance with Article 15 of the GDPR, 
 
-**In case of unauthorized access to personal data, Classictic is only responsible if the security measures described above are not met or if such access is otherwise culpably caused by Classictic.** The customer is responsible for keeping his/her access data (user name and password) safe. 
+Your right to rectification under Article 16 GDPR, 
 
-  
+Your right to erasure under Article 17 GDPR, 
 
+Your right to limitation of processing under Article 18 GDPR and 
 
-###  Our Contact Data 
+Your right to data portability under Article 20 GDPR. 
 
-If you have questions regarding our Privacy Policy please address them to the following address:   
-Classictic GmbH Dietrich-Bonhoeffer-Str. 13   
-10407 Berlin, Germany   
-Hotline (24/7): +49 30 86 87 04 12 60   
-Fax: +49 30 86 87 04 12 69   
-Email: [info@classictic.com](mailto:info@classictic.com)
+You also have a right of appeal to the competent data protection supervisory authority (Article 77 GDPR in conjunction with § 19 BDSG). 
 
-[ Download Privacy Police as PDF file ](http://cdn4.classictic.info/app/_tools/global/pdf/privacy/privacy_en.pdf)
+You can also withdraw your consent to the processing of your personal data at any time. This also applies to the revocation of declarations of consent that we received before the GDPR became valid, i.e. before 25 May 2018. However, this revocation only applies to the future. Any processing that took place before the revocation remains unaffected by this. 
+
+**Information on your right of objection under Article 21 GDPR**
+
+1\. right of objection in individual cases 
+
+In addition to the rights already mentioned, you have the right, for reasons arising from your particular situation, to object at any time to the processing of your personal data based on Article 6 para. 1 e GDPR (data processing in the public interest) and Article 6 para. 1 f GDPR (data processing on the basis of a balance of interests). If you file an objection, we will no longer process your personal data unless we can prove compelling grounds for processing that outweigh your interests, rights and freedoms, or the processing serves to assert, exercise or defend legal claims. 
+
+2\. the right to object to the processing of data for advertising purposes 
+
+You also have the right to object at any time to the processing of your personal data for the purpose of direct marketing (including the subscription to our newsletter) this also applies to the creation of a user profile (so-called 'profiling'), insofar as this is associated with direct marketing. If you file an objection, we will no longer process your personal data in the future.   
+Please note that you will not use the website if you do not provide us with certain data or if you object to the use of this data.   
+The objection can be raised informally and is to be addressed to: [info@classictic.com](mailto:)
+
+##  9\. Changes to this Privacy Notice 
+
+In order to keep this information up to date, this Privacy Policy will be amended if the underlying data processing is changed. We will not limit your rights under this Privacy Policy without your prior written consent. We will publish any intended changes to this privacy statement as long as their content changes and not merely editorial changes (e.g. to correct typing errors) are made. 
