@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caprisun.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606141517id_/http%3A//www.kraftrecipes.com/about/NewPrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caprisun.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004123910id_/http%3A//www.kraftrecipes.com/about/NewPrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Kraft Site New Privacy Policy - Kraft Recipes
 
