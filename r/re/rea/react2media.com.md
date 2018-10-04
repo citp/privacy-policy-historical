@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the react2media.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507052122id_/http%3A//www.react2media.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the react2media.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005002730id_/https%3A//www.react2media.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Our privacy policy (“Privacy Policy”) explains how we use personal information, as defined below, and to give you assurance of our commitment to fair information practices and to the protection of your privacy as you visit and use this website (the “Website”). By using this Website, you accept and agree to this Privacy Policy, as well as the provisions of our [Terms and Conditions](http://clickperks.com/termsandconditions.htm). Please read all of our disclosures, terms and policies carefully before you agree thereto.
+Our privacy policy (“Privacy Policy”) explains how we use personal information, as defined below, and to give you assurance of our commitment to fair information practices and to the protection of your privacy as you visit and use this website (the “Website”). By using this Website, you accept and agree to this Privacy Policy, as well as the provisions of our [Terms and Conditions](https://clickperks.com/termsandconditions.htm). Please read all of our disclosures, terms and policies carefully before you agree thereto.
 
 “Company,” “we,” “us” and “our” mean the operator of this Website, as well as its affiliates. “You” means the person or persons who use or submit information on this Website.
 
