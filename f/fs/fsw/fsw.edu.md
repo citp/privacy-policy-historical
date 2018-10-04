@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fsw.edu privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011000830id_/https%3A//www.fsw.edu/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fsw.edu privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004031403id_/https%3A//www.fsw.edu/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Florida SouthWestern State College
 
