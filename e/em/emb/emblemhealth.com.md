@@ -1,6 +1,35 @@
-> *The following text is extracted and transformed from the emblemhealth.com privacy policy that was archived on 2017-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170225063932id_/http%3A//www.emblemhealth.com/en/Legal-Information/Privacy-Security-Policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emblemhealth.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004080543id_/https%3A//www.emblemhealth.com/Legal-Information/Privacy-Security-Policies) for the most accurate reproduction.*
 
-# Privacy Notice and Security Policies
+# EmblemHealth Privacy & Security Policies
+
+×
+
+##### Sign In to Your Account
+
+######  Incorrect User ID and Password
+
+I am a:
+
+Member
+
+  * Member
+  * Provider
+  * Broker
+  * Employer
+
+
+
+User ID  []() Password
+
+[ ](https://web.archive.org/)
+
+###### EmblemHealth Nondiscrimination Policy for Medicare
+
+[ Learn More  ](https://web.archive.org/Legal-Information/Notice-of-Nondiscrimination-Policy-For-Medicare "Learn More")
+
+###### EmblemHealth Nondiscrimination Policy for Medicaid
+
+[ Learn More  ](https://web.archive.org/Legal-Information/Notice-of-Nondiscrimination-Policy-For-Medicaid "Learn More")
 
 The protection and security of our subscribers' personal information is one of our major objectives. Please visit the below links related to our Notice of Privacy Practices, Web site Privacy Policy and Data Security Policy for more information on how we protect your information. 
 
@@ -15,17 +44,17 @@ This notice describes how medical information about you may be used and disclose
 
 **EmblemHealth Web Site Privacy Policy**
 
-We maintain high standards for the protection of your privacy on our Web site. Please [click here](https://web.archive.org/en/Legal-Information/Privacy-Security-Policies/Website-Policy) for more information on how we do this. 
+We maintain high standards for the protection of your privacy on our Web site. Please [click here](https://web.archive.org/Legal-Information/Privacy-Security-Policies/Website-Policy) for more information on how we do this. 
 
 **EmblemHealth SMS Text Messaging Help Page**
 
-EmblemHealth Notification Alerts is a service that allows plan members to receive information from EmblemHealth about their health coverage via text messages. For more information please visit our [help page](https://web.archive.org/en/Legal-Information/Privacy-Security-Policies/EmblemHealth-SMS-Text-Messaging-Help-Page).
+EmblemHealth Notification Alerts is a service that allows plan members to receive information from EmblemHealth about their health coverage via text messages. For more information please visit our [help page](https://web.archive.org/Contact-Us/ItemNotFound?item=web%3a%7b33C612E6-DB7C-46A4-A78E-E1179101D4DE%7d%40en).
 
 **EmblemHealth Data Security Policy**
 
 We strive to afford our customers with easy online means of viewing claims data. When you use our Member Online Services or Provider Online Services to view your health care transactions, the data that you view is encrypted for your protection. 
 
-Read our [Data Security Policy.](https://web.archive.org/en/Legal-Information/Privacy-Security-Policies/Data-Security-Policy)
+Read our [Data Security Policy.](https://web.archive.org/Legal-Information/Privacy-Security-Policies/Data-Security-Policy)
 
 **Managed Care Disclosure for GHI HMO and HIP HMO Members**
 
@@ -98,3 +127,5 @@ If you have questions about the Managed Care Act Disclosure Provision, would lik
 For GHI HMO: Call Customer Service toll free at 1-877-244-4466.
 
 For HIP HMO: Call Customer Service toll free at 1-800-447-8255.
+
+Your member ID # is on the front of your ID card.
