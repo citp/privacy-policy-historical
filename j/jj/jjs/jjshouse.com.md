@@ -1,193 +1,142 @@
-> *The following text is extracted and transformed from the jjshouse.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021035411id_/http%3A//www.jjshouse.com/about/help.php%3Fpage_id%3D86) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jjshouse.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004105410id_/https%3A//www.jjshouse.com/about/help.php%3Fpage_id%3D86) for the most accurate reproduction.*
 
 # Privacy Notice-JJsHouse.com
 
-JJsHouse.com respects your privacy and takes your online safety seriously. In order to provide you with the best products, efficient customer service and timely updates, we record a variety of information from your visit to our site. To better protect your privacy, we provide the notice below explaining our online information practices and the choices you can make about the way your information is collected and used. 
+**Privacy Policy**
 
-###  **JJsHouse.com ’s Privacy Policy**
+This privacy policy applies only to www.JJsHouse.com, the website controlled by ReadMob Technologies (HK) Limited and/or its affiliated entities ("ReadMob," "we" or "us") ("JJsHouse.com", the "Site"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITE, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITE.
 
-Thank you for accessing the website ("Site") of JJsHouse.com (all references to “us” and “our" refer to JJsHouse.com ). We respect your privacy and want you to know about the policies we have in place to protect your personal information.
+**A. Information Collected**
 
-JJsHouse.com (or the “Site”) is owned by ReadMob Technologies (HK) Limited registered under HongKong SAR laws with registered address at 9B, Amtel Building, 148 Des Voeux Road, Central, Hong Kong.
+This privacy policy applies only to information collected on the Site and does not apply to information collected by JJsHouse.com through any other means.
 
-This Privacy Policy explains:  
-1\. how we collect, use, and (under certain conditions) disclose your personal information;  
-2\. the steps we’ve taken to secure your personal information;  
-3\. your options regarding the collection, use, and disclosure of your personal information.
+We collect two types of information from visitors to the Site: (1) Personally Identifiable Information; and (2) Non-Personally Identifiable Information, such as your IP address or cookies.
 
-This Privacy Notice applies only to this website and does not necessarily apply to personal information we collect from you offline. Please see the section on Offline Collection, Use & Disclosure of Information details. We are not responsible for the content or privacy practices on any website other than JJsHouse.com to which this Site links or other links to this Site.
+**(1) Personally Identifiable Information**
 
-###  **By visiting our Site, you accept the practices described in this Notice.  
-**
+"Personally Identifiable Information" is information that identifies you personally, such as your name, date of birth, address, telephone number, email address, or company name. JJsHouse.com collects and stores the personally identifiable information that you have provided to us. Here are some examples of manners in which we may collect your personally identifiable information on the Site:
 
-How does JJsHouse.com collect information about me?  
-How does JJsHouse.com use my personal information?  
-How are cookies and other technologies used to collect information?  
-Does JJsHouse.com ever give out my personal information?  
-Is information JJsHouse.com collects about me secure?  
-Are children allowed to use JJsHouse.com ?  
-How does JJsHouse.com use and disclose information collected from me offline?
+  * We may collect your name, address, email address, telephone number, and/or fax number when you register for or create an account;
+  * We may collect your email address, first and last name and zip code if you sign up for an online newsletter;
+  * We may collect your name and email address if you contact us with a question;
+  * We may collect your first and last name, date of birth, and email address if you choose to participate in a contest or sweepstakes; and
+  * We may collect your first and last name, your address, and your credit card and billing information if you make a purchase of a product or service.
 
-Where can I find updates to this policy?  
 
-**How does JJsHouse.com collect information about me?**
 
-We collect information from Site users in several different ways, with the goal of providing an efficient, meaningful, and customized shopping experience. For example, we can use your personal information to:  
-   * Record and quickly bring up information you’ve given previously  
-   * Help you quickly find information, products, and services  
-   * Create content that is relevant to you  
-   * Alert you of our new information, products, and services
+The above list provides an example of the personally identifiable information that may be collected on the Site. If you do not want JJsHouse.com to collect your personally identifiable information, please do not provide it to us.
 
-**Registration and Ordering:**  In order to use certain parts of this Site or order products, all customers must fill out an online registration form with personal information, including but not limited to, your name, gender, shipping and billing address(es), phone number, email address, and credit card number. In addition, we may ask for your country of residence and/or your organization's country of operation, so that we can comply with applicable laws and regulations. This information is used for billing, order processing and internal marketing as well as to communicate with you about your order and our site.
+**(2) Non-Personally Identifiable Information**
 
-**Email Addresses:** Several locations on the Site allow you to enter your email address for purposes including but not limited to: registering for free promotional notices, requesting notification when new brands or product styles arrive, or signing up for our email newsletter. In addition, any participation in promotional contests organized by JJsHouse.com is completely voluntary and requires disclosure of contact information needed to notify winners and award prizes. We may post the names and cities of contest winners on our Site.
+"Non-Personally Identifiable Information" can be technical information or it can be demographic information, such as your age, gender or interests. Non-personally identifiable information does NOT identify you personally. Here are some examples of the non-personally identifiable information that is collected via the Site and a description of how this information is used:
 
-**Log Files:**  Like most websites, the Site server automatically recognizes the Internet URL from which you access this Site. We may also log your Internet protocol (IP) address, Internet service provider, and date/time stamp for system administration, order verification, internal marketing and system troubleshooting purposes. (An IP address may indicate the location of your computer on the Internet.)   
-**       
-Product Reviews:** We ask for an email address and location along with the submission of all product reviews. Your email address will be kept private, but your location will be visible to other users. All other personal information that you choose to submit as part of the review will be available to other visitors to the Site.
+  * Internet Protocol (IP) address -- Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the webpages you view. We use this information to deliver our webpages to you upon request, to tailor our Site to the interests of our users and to measure traffic within our Site.
+  * Cookie -- A "cookie" is a small text file that may be used to collect information about your activity on the Site. For example, when someone visits a page within the Site, a cookie is placed on the user's machine (if the user accepts cookies) or is read if the user has visited the Site previously. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but if you do, you may not be able to take advantage of the personalized features enjoyed by other users to our Site. Some of the cookies we use may be flash cookies or Adobe cookies. While they are harmless, they may contain Demographic Information (defined below) and depending on your browser these cookies may not normally be deleted when your cookies are deleted. Please check your browser to determine where these types of cookies are stored and how they may be deleted.
+  * Web Beacons (also known as "clear gifs," "web bugs" or "pixel tags") -- "Web Beacons" are tiny graphics with a unique identifier, similar in function to cookies, and are used to allow us to count users who have visited certain pages of the Site and to help determine the effectiveness of promotional or advertising campaigns. When used in HTML-formatted email messages, web beacons can tell the sender whether and when the email has been opened. In contrast to cookies, which are stored on a user's computer hard drive, web beacons are embedded invisibly on web pages.
+  * Demographic Information -- "Demographic Information" may be your gender, age, zip code and interests, which you voluntarily provide to us on the Site. We use this information to provide you with personalized services and to analyze trends to ensure the information provided by the Site meets your needs. For example, if you subscribe to a specific newsletter, JJsHouse.com may collect your zip code or interests. Please note that we also consider aggregated information, which is not personally identifiable, to be non-personally identifiable information. The above list provides an example of the non-personally identifiable information that is collected via the Site.
 
-**How does JJsHouse.com use cookies and other technology to collect information?**
 
-Cookies are small pieces of information that your Internet browser stores as text files on your computer's hard drive. Most browsers accept cookies by default, but setting your browser to refuse cookies or remove them from your hard drive will prevent you from using parts of this Site. JJsHouse.com uses cookies to  
-   * speed up navigation  
-   * track site usage  
-   * recognize users and user access privileges  
-   * enable selection and purchase products on this Site record your browsing activity and purchases
 
-**This Site's cookies do not and cannot infiltrate a user’s hard drive to gather any confidential information.  
-**This Site also uses web beacons (also known as clear GIF technology or "action tags") to:  
-   * help deliver cookies  
-   * track views of a web page
+We collect the above non-personally identifiable information from all visitors to our Site. If you do not want JJsHouse.com to have access to this information, please do not visit our Site.
 
-Any electronic image on the Site, such as an ad banner, can function as a web beacon. We may use content or ads from third-party advertising companies that may use cookies and web beacons to measure web page visits or amount of products purchased.   
-**Any information these third parties collect via cookies and web beacons is not linked to any personal information we collect.
+**B. Use of Information Collected Via the Site**
 
-How does JJsHouse.com use my personal information?
+(1) Personally Identifiable Information. We use your personally identifiable information that is collected on the Site primarily for the following purposes:
 
-Internal Use:
+  * To deliver  information, newsletters or other products and services you request or purchase;
+  * To alert you to special offers, updated information and other new services from JJsHouse.com, or other third parties, or to forward promotional materials;
+  * To complete a transaction or service requested by you;
+  * To fulfill the terms of a promotion;
+  * To ensure the Site is relevant to your needs;
+  * To help us create and publish content most relevant to you;
+  * To notify you about a material change to this privacy policy, if necessary;
+  * To allow you access to limited-entry areas of the Site; and
+  * To contact you in response to your inquiry.
 
-** We use your personal information to process your order and provide you with customer service. We may use your personal information internally to collect general information about visitors to this Site, improve Site content and layout, improve our outreach, and market our services and products.
 
-**Communication with You:**  We will use your personal information to communicate with you about our Site and your orders. All customers must provide an email address to allow communication with JJsHouse.com regarding orders placed. We may send you a confirmation email after you register with us as well as service-related announcements as necessary (for example, temporary suspension of service for maintenance.) You may also submit your email address to request notification when we receive a new brand, product style or product, or to sign up for our email newsletter and special offers. You can unsubscribe or opt out of future emails at any time (see the Opt Out/Corrections section below for more details).
 
-  
-**Does JJsHouse.com ever give out my personal information?**
+**(2) Non-Personally Identifiable Information**
 
-We sell merchandise, not information **— We do not sell, rent, trade, license, or otherwise disclose your personal or financial information to anyone, except in the following specific situations:
+Non-personally identifiable information is used as described above and in other ways as permitted by applicable laws, including combining non-personally identifiable information with personally identifiable information.
 
-     Third-party service providers:
+**C. Sharing and Disclosure of Information**
 
-** Like most catalog and Internet wholesalers, we sometimes use third-party service providers to perform specific functions on our behalf. Any information disclosed to them is solely to help in their provision of service. For example, we provide your name, shipping address, email and phone number to partners such as DHL and UPS in order to guarantee delivery of your orders, and we may use relevant customer information in order to monitor the quality of the third party’s service.  
-Similarly, we must provide your credit card number to financial services organizations such as credit card processors and issuers in order to process payments. We protect all submissions of your credit card number for authorization with state-of-the-art data encryption. (More on this below in the Data Security section.)
+**(1) Personally Identifiable Information**
 
-**Legal requirement to disclose information:**  We may be required to disclose information if subpoenaed, served with a court order or requested by law-enforcement officials conducting investigations, or if we are otherwise required by law to disclose such information. We will also release personal information when necessary to protect our legal rights or enforce our Terms of Use and other agreements. For example, we may share information to reduce the risk of fraud, or to prevent fraud by users who attempt fraud or other illegal activity on our Site.  
-**  
-Merger and/or sale of assets:**  We do not normally sell, trade or rent personal information  
-to other companies in the course of our business. However, it is possible that we might acquire, merge with or be acquired by another company, or that we might dispose of some or all of our assets, in which case your personal information could be disclosed to another company, subject to the Privacy Notice in effect.  
-**  
-Non-personally identifiable information:**  We may share information that does not identify you or any user, such as the number of daily visitors to a particular page, or the size of an order placed on a certain date, with third parties such as advertising partners.
+We may share or disclose your personally identifiable information in the following instances:
 
-**How does JJsHouse.com secure information collected about me?**
+(i) To fulfill a service to you. For example, if you email us a question, we may use your email address to process your request and respond to your question. Also, if you are entering a sweepstakes or contest, we may use your personally identifiable information in order to fulfill the terms of that promotion. This means that we may share the information for prize fulfillment purposes or mail carriers. We also may share your information with the co-sponsor of that promotion.
 
-This Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, such as:  
-     * Safeguarding all financial transactions done through this Site with Secure Sockets Layer ("SSL") encryption  
-     * Granting only employees who are providing a specific service access to your personal information  
-     * Working only with third-party service providers who we believe adequately secure all computer hardware.  
-**While our business is designed with safeguarding your personal information in mind, please remember that 100% security does not presently exist anywhere, online or offline.**
+(ii) To affiliates, strategic partners, agents, third party marketers or other unaffiliated parties who are offering products or services that we believe may be of interest to you or who require your personally identifiable information for research, administrative and/or internal business purposes. These parties may use your personally identifiable information to contact you with an offer or advertisement related to a product or service, or they may use such information for their own research, administration or business purposes. If you do not want us to share your personally identifiable information in this manner, please do not provide us with this information.
 
-**What choices do I have regarding JJsHouse.com ’s collection of my information?**
+(iii) To unaffiliated third-party service providers, agents or independent contractors who help us maintain our Site and provide other administrative services to us (including, but not limited to, order processing and fulfillment, providing customer service, maintaining and analyzing data, sending customer communications on JJsHouse.com’s' behalf, and entry collection, winner selection and prize fulfillment for contests, sweepstakes and other promotions). We seek to ensure that these unaffiliated third parties will not use the personally identifiable information for any other purpose than to provide the administrative services for which they are responsible. Because such unaffiliated third-party service providers that help us administer our Site will have access to users' personally identifiable information, if you do not wish for our unaffiliated third-party service providers to have access to your information, please do not register or submit any personally identifiable information to us.
 
-You can choose to:  
-     * Correct or update your personal information  
-     * Stop receiving mail to your email address  
-     * Disable your account to prevent any future purchases through that account  
-**To correct or update your personal information** , log in to My Accounts and submit a request through the online Customer Service.  
-**To unsubscribe from emails**  you receive from JJsHouse.com , follow the unsubscribe link at the bottom of the email and select the option appropriate for you.
+(iv) To complete your purchase. If you choose to make a purchase on the Site, we may collect from you your credit card number, billing address and other information related to such purchase, and we may use such collected information in order to fulfill your purchase. We may also provide such information, or other personally identifiable information provided by you, to unaffiliated third parties as necessary to complete your purchase (for example, to process your credit card).
 
-**Are children allowed to use JJsHouse.com ?**
+(v) To comply with the law or in the good faith belief that such action is necessary in order to conform to the requirements of law or comply with legal process served on us, protect and defend our rights or property, including the rights and property of JJsHouse.com and the Site or act in urgent circumstances to protect the personal safety of our end users.
 
-We respect children's privacy. We do not knowingly or intentionally collect personal information from children under age 13. Elsewhere on this Site, you have represented and warranted that you are either 18 years of age or are using the Site with the supervision of a parent or guardian.  
-If you are under the age of 13, please do not submit any personal information to us, and rely on a parent or guardian to assist you when using the Site.
+(vi) To third parties as part of any corporate reorganization process including, but not limited to, mergers, acquisitions, and sales of all or substantially all of our assets.
 
-**How does JJsHouse.com use and disclose information collected from me offline?**
+(vii) To track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and customers and provide such information to third parties.
 
-As JJsHouse.com collects most information through our Site, this Privacy Policy applies only to online collection of personal information.  
-We also protect all personal information that is collected from you offline, such as through phone calls. If we contact you by telephone regarding an order or payment, we will ask only for the personal information needed to place your order or resolve your issue. When we need to store information related to an order, we enter it into our database through SSL encryption (See the Data Security section above for more information).
+(viii) To protect against potential fraud, we may verify with third parties the information collected from the Site. In the course of such verification, we may receive personally identifiable information about you from such services. In particular, if you use a credit card or debit card to purchase services with us, we may use card authorization and fraud screening services to verify that your card information and address matches the information that you supplied to us, and that the card has not been reported as lost or stolen.
 
-This Policy does not attempt to cover all possible offline methods of collecting or using personal information, however, we will treat any offline collection, use, or disclosure of personal information in a manner consistent with our online practices.
+Except as described in this Privacy Policy or at the time we request the information, we do not otherwise use, share or otherwise disclose your personally identifiable information to any third parties.
 
-**Where can I find updates to this policy?**
+**(2) Non-Personally Identifiable Information**
 
-To keep you informed of what information we collect, use, and disclose, we will post any changes or updates to this Privacy Notice on this Site and encourage you to review this Privacy Notice from time to time. Please contact us with any questions about the Privacy Notice.
+We use non-personally identifiable information collected on the Site in the manner disclosed above, in the Section B (2). We may share this non-personal information with third parties.
 
-###  **INFORMATION COLLECTION AND USE**
+**D. Collection and Use of Information from Children Under the Age of 13**
 
-1\. Information Collection: We collect information from Site users in several different ways, with the goal of providing an efficient, meaningful, and customized shopping experience. For example, we can use your personal information to:  
-   * Record and quickly bring up information you’ve given previously  
-   * Help you quickly find information, products, and services  
-   * Create content that is relevant to you  
-   * Alert you of our new information, products, and services
+The Site does not knowingly target children under the age of 13 and we do not collect personal information from any child under the age of 13. In the event we learn that such information has been provided to the Site, we will delete or destroy it.
 
-(a) Registration and Ordering: In order to use certain parts of this Site or order products, all customers must fill out an online registration form with personal information, including but not limited to, your name, gender, shipping and billing address(es), phone number, email address, and credit card number. In addition, we may ask for your country of residence and/or your organization's country of operation, so that we can comply with applicable laws and regulations. This information is used for billing, order processing and internal marketing as well as to communicate with you about your order and our site.
+**E. International Transfer of Information**
 
-(b) Email Addresses: Several locations on the Site allow you to enter your email address for purposes including but not limited to: registering for free promotional notices, requesting notification when new brands or product styles arrive, or signing up for our email newsletter. In addition, any participation in promotional contests organized by JJsHouse.com is completely voluntary and requires disclosure of contact information needed to notify winners and award prizes. We may post the names and cities of contest winners on our Site.
+If you choose to provide us with personally identifiable information, JJsHouse.com may transfer that information to its affiliates and subsidiaries or to other third parties, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personally identifiable information to the United States which does not have the same data protection laws as the EU and by providing your personally identifiable information you consent to:
 
-(c) Cookies and Other Technology: Like many sites, this Site uses cookies and web beacons (also known as clear GIF technology or "action tags") to speed up navigation, track site usage and recognize users and user access privileges.
+  * the use of your personally identifiable information for the uses identified above in accordance with this privacy policy; and
+  * the transfer of your personally identifiable information to the United States as indicated above.
 
-(i) Cookies are small pieces of information that your Internet browser stores as text files on your computer's hard drive. Cookies enable you to select, add to cart and purchase products on this Site, and enable us to record your browsing activity and purchases. Most browsers accept cookies by default, but setting your browser to refuse cookies or remove them from your hard drive will prevent you from using parts of this Site. THIS SITE'S COOKIES DO NOT AND CANNOT INFILTRATE A USER'S HARD DRIVE TO GATHER ANY CONFIDENTIAL INFORMATION.
 
-(ii) Web beacons help deliver cookies and track views of a web page. Any electronic image on the Site, such as an ad banner, can function as a web beacon.
 
-(iii) We may use content or ads from third-party advertising companies that may use cookies and web beacons to measure web page visits or amount of products purchased. Any information these third parties collect via cookies and web beacons is not linked to any personal information we collect.
+**F. Opt-Out**
 
-  
-(d) Log Files: Like most websites, the Site server automatically recognizes the Internet URL from which you access this Site. We may also log your Internet protocol (IP) address, Internet service provider, and date/time stamp for system administration, order verification, internal marketing and system troubleshooting purposes. (An IP address may indicate the location of your computer on the Internet.)
+We communicate with users who subscribe to our services on a regular basis via email. For example, we may use your email address to confirm your request, to send you notice of payments, to send you information about changes to our products and services, and to send notices and other disclosures as required by law. Generally, users cannot opt-out of these communications, but they will be primarily informational in nature rather than promotional.  
+However, we provide you the opportunity to exercise an opt-out choice if you do not want to receive other types of communication from us, such as emails or updates from us regarding new services and products offered on this Site or if you do not want us to share your personally identifiable information with third parties. The opt-out choice may be exercised by ticking or un-ticking the appropriate box if such checkbox is available at the points where personally identifiable information is collected or by contacting us. We will process your unsubscribe as soon as possible, but please be aware that in some circumstances you may receive a few more messages until the unsubscribe is processed. You also may opt-out of receiving such emails by clicking on the "unsubscribe" link within the text of the email.
 
-(e) Age: We respect children's privacy. We do not knowingly or intentionally collect personal information from children under age 13. Elsewhere on this Site, you have represented and warranted that you are either 18 years of age or are using the Site with the supervision of a parent or guardian. If you are under the age of 13, please do not submit any personal information to us, and rely on a parent or guardian to assist you when using the Site.
+**G. Forums, Chat Rooms and Other Public Posting Areas**
 
-  
-(f) Product Reviews: We ask for an email address and location along with the submission of all product reviews. Your email address will be kept private, but your location will be visible to other users. All other personal information that you choose to submit as part of the review will be available to other visitors to the Site.
+Please note that any information you include in a message you post to any chat room, forum or other public posting area is available to anyone with Internet access. If you don't want people to know your e-mail address, for example, don't include it in any message you post publicly. PLEASE BE EXTREMELY CAREFUL WHEN DISCLOSING ANY INFORMATION IN CHAT ROOMS, FORUMS AND OTHER PUBLIC POSTING AREAS. WE ARE NOT RESPONSIBLE FOR THE USE BY OTHERS OF THE INFORMATION THAT YOU DISCLOSE IN CHAT ROOMS, FORUMS AND OTHER PUBLIC POSTING AREAS.
 
-2\. Information Use and Disclosure
+**H. Third Party Web Sites**
 
-(a) Internal Use: We use your personal information to process your order and provide you with customer service. We may use your personal information internally to collect general information about visitors to this Site, improve Site content and layout, improve our outreach, and market our services and products.
+This privacy policy applies solely to information collected on the Site. The Site may contain links to other web sites. We are not responsible for the privacy practices or the content of these other web sites.
 
-(b) Communication with You: We will use your personal information to communicate with you about our Site and your orders. All customers must provide an email address to allow communication with JJsHouse.com regarding orders placed. We may send you a confirmation email after you register with us as well as service-related announcements as necessary (for example, temporary suspension of service for maintenance.) You may also submit your email address to request notification when we receive a new brand, product style or product, or to sign up for our email newsletter and special offers. You can unsubscribe or opt out of future emails at any time (see the Opt Out/Corrections section below for more details).
+**I. Third Party Advertisers**
 
-(c) External Use. We sell merchandise, not information — We do not sell, rent, trade, license, or otherwise disclose your personal or financial information to anyone, except in the following specific situations:
+We may use advertisers, third party ad networks, and other advertising companies, to serve advertisements on the Site. Please be advised that such advertising companies may gather information about your visit to the Site or other sites (such as through cookies, web beacons and other technologies) to enable such advertising companies to market products or services to you, to monitor which ads have been served to your browser and which webpages you were viewing when such ads were delivered. PLEASE NOTE THAT THIS POLICY DOES NOT COVER THE COLLECTION AND USE OF INFORMATION BY SUCH ADVERTISING COMPANIES.
 
-(i) Like most catalog and Internet wholesalers, we sometimes use third-party service providers to perform specific functions on our behalf. Any information disclosed to them is solely to help in their provision of service. For example, we provide your name, shipping address, email and phone number to partners such as DHL and UPS in order to guarantee delivery of your orders, and we may use relevant customer information in order to monitor the quality of the third party’s service.
+**J. Accessing Your Personally Identifiable Information and Privacy Preferences**
 
-(ii) Similarly, we must provide your credit card number to financial services organizations such as credit card processors and issuers in order to process payments. We protect all submissions of your credit card number for authorization with state-of-the-art data encryption. (More on this below in the Data Security section.)
+We provide you with an opportunity to access your personally identifiable information to ensure it is correct, accurate and current. To edit your personally identifiable information, please send a request in My orders page or contact us through online ticket. We will make reasonable efforts to accommodate your request.
 
-(iii) We may be required to disclose information if subpoenaed, served with a court order or requested by law-enforcement officials conducting investigations, or if we are otherwise required by law to disclose such information. We will also release personal information when necessary to protect our legal rights or enforce our Terms of Use and other agreements. For example, we may share information to reduce the risk of fraud, or to prevent fraud by users who attempt fraud or other illegal activity on our Site.
+**K. Assignment**
 
-(iv) We do not normally sell, trade or rent personal information to other companies in the course of our business. However, it is possible that we might acquire, merge with or be acquired by another company, or that we might dispose of some or all of our assets, in which case your personal information could be disclosed to another company, subject to the Privacy Notice in effect.
+In the event that all or part of our assets are sold or acquired by another party, or in the event of a merger, you grant us the right to assign the personally identifiable and non-personally identifiable information collected via the Site.
 
-(v) We may share information that does not identify you or any user, such as the number of daily visitors to a particular page, or the size of an order placed on a certain date, with third parties such as advertising partners.
+**L. Changes to this Privacy Policy**
 
-  
-DATA SECURITY
+We reserve the right to change this privacy policy from time to time. When we do, we will also revise the "last update" date at the bottom of this privacy policy. For changes to this privacy policy that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will attempt to obtain your consent before implementing the change by sending a notice to the primary email address specified in your account or by placing a prominent notice on the Site.
 
-This Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information. We use Secure Sockets Layer ("SSL") encryption to safeguard all financial transactions done through this Site. We also protect your personal information internally by granting only employees who are providing a specific service access to your personal information. Finally, we only work with third-party service providers who we believe adequately secure all computer hardware. For example, visitors to our Site access servers kept in a secure physical environment and behind an electronic firewall.
+**M. Security**
 
-  
-While our business is designed with safeguarding your personal information in mind, please remember that 100% security does not presently exist anywhere, online or offline.
+No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you understand that any information that you transfer to JJsHouse.com is done at your own risk.
 
-  
-OPT OUT/CORRECTIONS
+Once we receive your transmission, we make reasonable efforts to ensure security on our systems. We use firewalls to protect your information from unauthorized access, disclosure, alteration, or destruction. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software.
 
-  
-Upon your request, we will (a) correct or update your personal information; (b) stop sending mail to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can correct or update your personal information through the online Customer Service system by logging in to My Accounts and submitting a request. To unsubscribe from emails you receive from JJsHouse.com , follow the unsubscribe link at the bottom of the email and select the option appropriate for you.
+If we learn of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using the Site or providing personally identifiable information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of the Site. We may post a notice on our Site if a security breach occurs. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing.
 
-  
-OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION
+If you have any questions about this privacy policy or our privacy practices, please contact us through Contact us page. All information you provide in any written communication will also be covered by this policy.
 
-  
-As JJsHouse.com collects most information through our Site, this Privacy Policy applies only to online collection of personal information. We also protect all personal information that is collected from you offline, such as through phone calls. If we contact you by telephone regarding an order or payment, we will ask only for the personal information needed to place your order or resolve your issue. When we need to store information related to an order, we enter it into our database through SSL encryption (See the Data Security section above for more information). This Policy does not attempt to cover all possible offline methods of collecting or using personal information, however, we will treat any offline collection, use, or disclosure of personal information in a manner consistent with our online practices.
-
-  
-UPDATES TO THIS POLICY
-
-  
-To keep you informed of what information we collect, use, and disclose, we will post any changes or updates to this Privacy Notice on this Site and encourage you to review this Privacy Notice from time to time. Please contact us with any questions about the Privacy Notice.
+We last updated our Privacy Notice on June 4, 2018.
