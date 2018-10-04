@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the overthecap.com privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219074833id_/http%3A//overthecap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overthecap.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004115719id_/https%3A//overthecap.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Over the Cap
-
-[[adsenseyu1]  
-](http://overthecap.com/best-worst-contracts-the-dallas-cowboys/)
 
 **What information do we collect?**
 
@@ -65,6 +62,16 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 Overthecap.com is an independent news and information service. We do not have any affiliation with the National Football League, National Football League Players Association, or any of the 32 NFL Clubs. Our information is sourced independently and/or from trusted news outlets and presented in a manner that we feel is accurate. However we do not guarantee the accuracy of any details located within the website. If you have any questions regarding any specific information please contact us by email.
 
+ **Partners**
+
+Google Adsense  
+(<https://policies.google.com/privacy>).
+
+(<https://policies.google.com/technologies/partner-sites>).
+
+Adversal Media, Inc.  
+(<https://www.adversal.com/online-privacy.html>).
+
  **Online Privacy Policy Only**
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
@@ -77,7 +84,7 @@ By using our site, you consent to our [privacy policy](http://www.freeprivacypo
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
-This policy was last modified on October 14, 2013
+This policy was last modified on May 23, 2018
 
  **Contacting Us**
 
