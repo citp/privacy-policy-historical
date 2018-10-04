@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harpoonbrewery.com privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417115621id_/http%3A//www.harpoonbrewery.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harpoonbrewery.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004043451id_/https%3A//www.harpoonbrewery.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Harpoon Brewery
 
@@ -6,7 +6,7 @@ Harpoon Brewery understands the importance of privacy and security with regard t
 
 To be a Friend of Harpoon, we ask our customers for personal information such as name, address, company name, e-mail address and other details. Providing us with this information simply helps us to better serve our customers. From time to time, our site may request information from customers via surveys or contests. Participation in these surveys or contests is completely voluntary and the customer therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (activities, preferences, behavior).
 
-Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of Harpoon's products and this site. Customers' personally identifiable information is not shared with third parties unless the third parties are part of a [Friend of Harpoon](http://www.friendofharpoon.com/) survey or contest.
+Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of Harpoon's products and this site. Customers' personally identifiable information is not shared with third parties unless the third parties are part of a Friend of Harpoon survey or contest.
 
 **Personal Information Privacy**
 
