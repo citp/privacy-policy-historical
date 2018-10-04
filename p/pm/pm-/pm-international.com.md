@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pm-international.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403043427id_/http%3A//www.pm-international.com/us/privacy-policy/footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pm-international.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004191724id_/http%3A//www.pm-international.com/us/privacy-policy/footer/%3Flang%3Den) for the most accurate reproduction.*
 
 # PM-International - Simple. Successful.
 
-Privacy Policy
+* * *
 
 PM-International is committed to protecting and safeguarding your privacy. The purpose of this Privacy Statement is to inform you about the types of information we might collect about you when you visit our Site, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct that information. Any information we collect on our Site generally falls into the following two categories:
 
