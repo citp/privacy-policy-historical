@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egnyte.com privacy policy that was archived on 2017-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170806031101id_/https%3A//www.egnyte.com/corp/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egnyte.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004095030id_/https%3A//www.egnyte.com/corp/privacy_policy.html) for the most accurate reproduction.*
 
 # Egnyte - Privacy Policy
 
@@ -72,19 +72,13 @@ Our website does not gather any personally identifiable information from childre
 
 As is true of most websites, we gather certain information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, User Agent type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information.
+We use this information to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole.
 
 We use third-party tracking services that use cookies to track non-personally identifiable information about visitors to our site in the aggregate. Information tracked includes the search engine used by a visitor, keyword input by a visitor, and search campaign associated with a visitor. The information is captured for marketing and customer segmentation purposes.
 
-## Cookies and other Tracking Technologies
+## Tracking Technologies
 
-Technologies such as: cookies, beacons, tags and scripts are used by Egnyte and our partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the website, tracking users' movements around the website and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
-
-We use cookies for our shopping cart, to remember users' settings (e.g. language preference), for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our website, but your ability to use some features or areas of our site may be limited.
-
-## Local Storage Objects (HTML5)
-
-We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your Web browsing activity use LSOs such as HTML 5. Various browsers may offer their own management tools for removing HTML5 LSOs.
+Egnyte, Inc. and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
 
 ## Behavioral Targeting / Re-Targeting
 
@@ -92,7 +86,7 @@ We partner with a third party to either display advertising on our website or to
 
 ## Mobile Analytics
 
-We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile application.
+We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile application. When you download and use our Services, we automatically collect information on the type of device you use and operating system version.
 
 ## Links to Third Party Websites
 
@@ -113,7 +107,7 @@ Our Web site includes Social Media Features, such as the Facebook Like button an
 Information Related to Data Collected for our Clients
 
   * Egnyte collects information under the direction of its Clients, and has no direct relationship with the individuals whose personally identifiable information it processes. If you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly. We may transfer personally identifiable information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Clients. 
-  * We use sub-processors in order to [send emails on behalf of our clients] 
+  * We use sub-processors in order to send emails on behalf of our clients 
 
 
 
@@ -132,12 +126,12 @@ Due to the Internet's rapidly evolving nature, Egnyte may need to update this Pr
 
 If you have any questions related to this Privacy Policy please contact us at:   
 Egnyte, Inc.   
-Attn: Kris Lahiri   
+Attn: Kris Lahiri, Data Protection Officer   
 1350 W. Middlefield Road   
 Mountain View, CA 94043   
 [inquiry@egnyte.com](mailto:inquiry@egnyte.com)
 
-Last Updated 09/16/2016
+Last Updated 03/13/2018
 
 ## Egnyte Information
 
