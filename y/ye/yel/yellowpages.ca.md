@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yellowpages.ca privacy policy that was archived on 2018-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180418174650id_/https%3A//corporate.yp.ca/en/legal-notice/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowpages.ca privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005154807id_/https%3A//corporate.yp.ca/en/legal-notice/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Legal Notice - Yellow Pages Canada
 
