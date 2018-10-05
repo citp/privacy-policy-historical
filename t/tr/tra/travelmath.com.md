@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the travelmath.com privacy policy that was archived on 2018-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180203090600id_/https%3A//www.travelmath.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelmath.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005021902id_/https%3A//www.travelmath.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_Last modified: June 23, 2017_
+_Last modified: May 22, 2018_
 
   
 
@@ -43,6 +43,22 @@ Additionally, we may collect:
   * Records and copies of your correspondence (including email addresses), if you contact us. This information is not shared with any other companies or sites.
   * Your responses to surveys that we might ask you to complete for research purposes.
   * Your search queries on the Website.
+
+  
+
+
+#### Legal bases for processing (for EEA users)
+
+If you are an individual in the European Economic Area (EEA), we collect and process information about you only where we have legal bases for doing so under applicable EU laws. The legal bases depend on the services of the site you use and how you use them. This means we collect and use your information only where:
+
+  * We need it to provide you the services, including to operate the services, provide customer support and personalized features and to protect the safety and security of the services;
+  * It satisfies a legitimate interest (which is not overridden by your data protection interests), such as for research and development, to market and promote the Services and to protect our legal rights and interests;
+  * You give us consent to do so for a specific purpose; or
+  * We need to process your data to comply with a legal obligation.
+
+
+
+If you have consented to our use of information about you for a specific purpose, you have the right to change your mind at any time, but this will not affect any processing that has already taken place. Where we are using your information because we or a third party have a legitimate interest to do so, you have the right to object to that use though, in some cases, this may mean no longer using the Services.
 
   
 
@@ -90,6 +106,6 @@ It is our policy to post any changes we make to our privacy policy on this page.
 
 To ask questions or comment about this privacy policy and our privacy practices, contact us at:
 
-[/contact/](https://web.archive.org/contact/)
+[https://www.travelmath.com/contact/](https://web.archive.org/contact/)
 
-If you use this form, we ask you to enter your name and e-mail address so that we can reply to you directly. This information is not shared with any other companies or sites.
+If you use this form, we ask you to enter your name and e-mail address so that we can reply to you directly. This information is not shared with any other companies or sites. You can also email us directly using the email address "info" at travelmath.com
