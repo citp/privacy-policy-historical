@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ungagged.com privacy policy that was archived on 2018-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180122030501id_/http%3A//www.ungagged.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ungagged.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005100501id_/http%3A//www.ungagged.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UnGagged | Digital Marketing & SEO Conference
 
@@ -22,7 +22,7 @@ When you provide us with personal information to complete place an order or fill
 
 _How do I withdraw my consent?_
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, by contacting us at support@ungagged.com or mailing us UnGagged Ltd., Technology House, 151 Silbury Blvd, Milton Keynes, MK9 1LH, UK
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or mailing us UnGagged Ltd., Technology House, 151 Silbury Blvd, Milton Keynes, MK9 1LH, UK
 
 ## **What do we do with your information?**
 
@@ -58,4 +58,4 @@ The UnGagged website uses cookies, tracking pixels and related technologies. Coo
 We’ll reserve the right to modify this privacy policy, changes will be posted on this page and will take immediate effect on posting. 
 
 If our business is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to market UnGagged to you.  
-If you would like to: access, correct, amend or delete any personal information we have about you, should be emailed to support@ungagged.com or sent to our offices at DotCom Consultancy, Technology House, 151 Silbury Blvd, Milton Keynes, MK9 1LH, UK.
+If you would like to: access, correct, amend or delete any personal information we have about you, should be emailed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or sent to our offices at DotCom Consultancy, Technology House, 151 Silbury Blvd, Milton Keynes, MK9 1LH, UK.
