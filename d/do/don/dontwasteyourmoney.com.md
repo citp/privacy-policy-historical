@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dontwasteyourmoney.com privacy policy that was archived on 2018-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180225095042id_/http%3A//www.dontwasteyourmoney.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dontwasteyourmoney.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005142605id_/http%3A//www.dontwasteyourmoney.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Don't Waste Your Money - DWYM
 
@@ -118,7 +118,7 @@ The Services are hosted in the United States and are directed toward users who r
 
 
 
-You may contact us at [info@dontwasteyourmoney.com](mailto:info@dontwasteyourmoney.com)  if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others.
+You may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#254c4b434a65414a4b5152445651405c4a5057484a4b405c0b464a48)  if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others.
 
 We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable.  Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Services.
 
