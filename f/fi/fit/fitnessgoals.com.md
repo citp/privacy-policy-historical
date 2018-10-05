@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitnessgoals.com privacy policy that was archived on 2018-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180420195307id_/http%3A//fitnessgoals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitnessgoals.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005171026id_/https%3A//fitnessgoals.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -74,7 +74,7 @@ We have taken every reasonable step to safeguard and to help prevent the loss, m
 
 **Opt-out**
 
-To opt-out from any of our direct promotions, please [Contact Us](http://fitnessgoals.com/contact/). FitnessGoals uses third-party online behavioral advertising technologies which include members of the Network Advertising Initiative. You can opt out of behavioral advertising from the advertising networks in the Network Advertising Initiative by clicking here.
+To opt-out from any of our direct promotions, please [Contact Us](https://fitnessgoals.com/contact/). FitnessGoals uses third-party online behavioral advertising technologies which include members of the Network Advertising Initiative. You can opt out of behavioral advertising from the advertising networks in the Network Advertising Initiative by clicking here.
 
 **Changes To Policy**
 
@@ -86,6 +86,6 @@ This Privacy Policy is governed by and construed in accordance with the laws of 
 
 **Contact Us**
 
-Please direct all questions in connection with this to [Contact Us](http://fitnessgoals.com/contact/).
+Please direct all questions in connection with this to [Contact Us](https://fitnessgoals.com/contact/).
 
 Our Mailing Address is :
