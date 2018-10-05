@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collarspace.com privacy policy that was archived on 2018-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180411120521id_/http%3A//www.collarspace.com/personals/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collarspace.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005040158id_/https%3A//www.collarspace.com/personals/privacy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -6,7 +6,7 @@ Privacy Policy for www.collarspace.com
 
 Effective Date : August 27, 2002
 
-Last Updated : October 23, 2007
+Last Updated : June 9, 2018
 
 **I. General**
 
@@ -30,25 +30,25 @@ B. This Privacy Policy describes how we use information received about you when 
 
 When using our SITE, you will register by creating an account or a member profile. Depending upon how you register, we will collect different information about you. The type of information collected is as follows:
 
-  1. **Name**
+  1. **Username**
 
-  2. **Email Address**
+  2. **Password**
 
-  3. **United States zip code**
+  3. **Email Address**
 
-  4. **City**
+  4. **United States zip code**
 
-  5. **State**
+  5. **City**
 
-  6. **Country**
+  6. **State**
 
-  7. **Username**
+  7. **Country**
 
-  8. **Password**
+  8. **IP Address**
 
   9. **Ethnicity**
 
-  10. **Gender**
+  10. **Gender Identity**
 
   11. **Age**
 
