@@ -1,219 +1,376 @@
-> *The following text is extracted and transformed from the readly.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611043331id_/https%3A//us.readly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readly.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005160444id_/https%3A//us.readly.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Readly
 
-## READLY'S PRIVACY POLICY
+_Effective as of 25 May 2018_
 
-#### 1\. GENERAL 
+## 1\. WE CARE ABOUT YOUR PRIVACY
 
-#### 1.1
+Thank you for your using the Readly Service! Your trust is important to us. We care about your privacy. This is our Privacy Policy, which explains how and why we use the personal data that you share with us and which we collect. In short, we use the personal data that we collect in order to provide the Service and its features. We never sell your personal data to others without your permission. 
 
-Readly AB (Swedish company registration number 556921-1120) (below " **Readly** ") cares about protecting the privacy of our customers and users. We have therefore set out this privacy policy (the " **Privacy Policy** ") which describes how we collect, use, disclose, transfer and retain information, including your personal data, when using our website (http://www.readly.com) (the " **Website** ") and in order to provide our web-based subscription service for newspapers, magazines and books in digital format (the " **Service** ") which is available via the Website and our application for mobile devices (the " **Application** "). Personal data means all kinds of information that directly or indirectly may identify a living person (the " **Personal Data** "). 
+Personal data means any information which may be used to identify you.
 
-#### 1.2
+Throughout the Privacy Policy we refer to the Service. This term is defined in our Terms and Conditions of Use. https://readly.com/eula
 
-This Privacy Policy incorporates by reference the Readly's Terms and Conditions of Use https://readly.com/eula, including applicable limits on damages and dispute resolution. This version of the Privacy Policy shall apply unless there is a localized version of the Policy. In such a case the local version of the Privacy Policy shall apply instead. The same terms are used below as in the Terms and Conditions of Use, unless otherwise is stated. 
+Please read on for detailed information regarding when we collect personal data, how and why we use the personal data and your rights.
 
-#### 1.3
+Readly AB (Readly), a Swedish entity, is the data controller for the use of your personal data as described in this Privacy Policy. Please find the contact details of Readly under section 10 below.
 
-By creating a User Account and using the Service, you acknowledge and accept the terms and conditions of this Privacy Policy and also give your express consent to the processing of your Personal Data as outlined below. 
+## 2\. WHEN DO WE COLLECT PERSONAL DATA?
 
-#### 2\. COLLECTION OF INFORMATION AND PERSONAL DATA 
+We collect personal data when you: 
 
+#### Create a User Account
+
+When you sign up for the Service, we collect the personal data that you provide such as your e-mail address, password and country in order to create your user account. 
+
+If you connect to the Service by using Facebook, you authorize us to collect your username and other information that may be available through your Facebook account, including your name, country, e-mail address, date of birth and gender. We only collect the information which you make available to us according to your Facebook privacy settings.
+
+#### Use the Service
+
+When you use and interact with the Service, we collect information about how the Service is accessed and used. For example we collect information about the type of subscription you have and the interactions that you make with the Service, e.g. which magazines you read and mark as favorites. 
+
+We also collect certain technical information, which includes e.g. URL information, your IP address, the type of device that you use to access the Service, your device's operating system and Readly application version. 
+
+If you have signed up for the Service via one of our business partners, we collect information whether payment has been made from the business partner.
+
+#### Make a Payment
+
+When you pay for a subscription, we collect your name, address and credit or debit card information (e.g. card type and expiration date) which are needed in order to process the payment. We use payment service providers to process your payment. 
+
+#### Use the Website
+
+When you use the website, we collect certain technical information, including your IP address.
+
+#### Communicate With Us
+
+When you communicate with us for example when contacting our customer support or interacting with us on social media platforms, we collect the information you provide. This may include your name, e-mail address and your communication.
+
+#### Participate in Contests and Surveys
+
+If you choose to participate in contests and surveys, we ask you for certain information in addition to what is stated above. This additional information may be combined with other information we have collected. 
+
+## 3\. WHY DO WE USE YOUR PERSONAL DATA?
+
+We use your personal data to:
+
+#### Provide the Service
+
+This may be obvious, but we use your personal data to provide the Service, e.g. to give you access to the Service, providing customized and personalized content, recommendations and features in the Service, processing your payment and preventing or detecting fraud. You need to provide the information that we request when you sign up for the Service as the information is necessary for the performance of the contract with you. If you do not provide the information requested, you cannot use the Service.
+
+Personal Data | Legal Basis  
+---|---  
   
-**When Creating a User Account**
+  * Account data
+  * Profile data
+  * Address data
+  * Mobile subscriber data
+  * Payment data
+  * User generated data
+  * Technical data
 
-#### 2.1
-
-When you create a User Account, we collect information regarding your name, email address and country of origin. If you use your Facebook account via Facebook Connect to access the Service you authorize us to collect your user name and other information that may be available through your Facebook account, including your name, country, e-mail address, date of birth and gender. Readly only collects such information which you have made available to us according to your Facebook privacy settings. We may store and use this information for the purposes outlined below in section 3 below. 
-
-**Usage of the Service**
-
-#### 2.2
-
-When you use the Service we automatically collect certain information, including what type of Subscription you have and how you use the Service, such as: (i) information regarding which newspapers, magazines or books you have opened and read; (ii) details of queries you make in the Service; and (iii) technical information, including e.g. the visited URLs, your IP-address, unique device ID (UID), browser type and version, operating system and which version of the Application you use. We also use cookies and similar technologies to collect this information, please see section 7 below. 
-
-**Payment Information**
-
-#### 2.3
-
-If you have a signed up for a Subscription to the Service, we also collect such information necessary in order to process your payment, including name, address and credit card information. We may also retain information regarding your transaction history. In order to process payments we may use third party service providers, please see section 5.5 below. Such third party service providers may only process your Personal Data in accordance with our instructions and they are also liable to take technical and organisational measures to protect the personal data as we are committed to. 
-
-**Surveys, Contests and Similar**
-
-#### 2.4
-
-If you participate in surveys, contests and similar activities which we conduct, or third parties conduct on our behalf, we may collect additional information as set out in or required for those activities. This additional information may be combined with e.g. information you have provided when you created your User Account or otherwise provided as a result of your usage of the Service and with information from public sources. 
-
-#### 3\. HOW WE USE THE COLLECTED INFORMATION 
-
-#### 3.1
-
-We may use the collected information, including your Personal Data, in order to give you access to the Service and the Website, in order to manage the customer relationship, to carry out customer analysis, to ensure that the Service and the Website operates properly, to develop and improve our Service and Website, and to understand how users access and use our Service and Website. Furthermore, we may use the information in order to communicate with you regarding our Service and Website. We may also use the information for direct marketing purposes and for other purposes set out in this Privacy Policy. 
-
-#### 3.2
-
-Moreover, we may process your Personal Data if it is necessary in order to: (a) comply with applicable law and regulations and lawful regulatory requests or relevant orders from competent courts; (b) protect and defend our rights, our property or our interests; or (c) protect our customers and users. 
-
-#### 4\. SECURITY 
-
-We are committed to protecting our customers' and users' information and Personal Data. Readly takes appropriate technical and organisational security measures in accordance with the provisions of the Swedish Personal Data Act (Sw: personuppgiftslagen (1998:204)) in order to protect your Personal Data against loss, theft, unauthorised access to or processing of your Personal Data as well as against accidental destruction, loss, alteration and disclosure of your Personal Data. The password you have chosen in connection with the creation of your User Account for use of the Service protects your User Account. You should therefore choose a unique and strong password, as well as log out from the Service when you are no longer using the Service. 
-
-#### 5\. DISCLOSURE OF INFORMATION TO THIRD PARTIES 
-
-#### 5.1
-
-Readly may disclose the information we have collected, including Personal Data, to various third parties as follows. 
-
-**Publishers**
-
-#### 5.2
-
-In order to provide the Service, Readly has entered into agreements with a number of publishers. In general, Readly only discloses certain limited information to the publishers, such as statistics on an aggregated level. The publishers are data controllers for their potential processing of your Personal Data. We are not responsible for the Publishers' use of your Personal Data, including for marketing purposes. 
-
-**Sharing with Facebook and Similar Services**
-
-#### 5.3
-
-If you use your Facebook credentials to connect to and access the Service, you may also share information with Facebook, including information on which newspapers, magazines or books you have read. In the Service, you may also share information with other services such as Twitter, LinkedIn and similar.
-
-You acknowledge that your information in such situations may be published to these services. In case you do not want us to publish information to or restrict the information that we collect from these services that are connected to your User Account you can customize the information Readly and other services have access to in the privacy settings for respective service. 
-
-**Business Partners**
-
-#### 5.4
-
-We may disclose certain information, including your Personal Data, to our business partners in order to administrate the Service and handle payments through our business partners. 
-
-**Third Party Service Providers**
-
-#### 5.5
-
-We may disclose your Personal Data to various third party service providers in order to e.g. communicate with you through newsletters and similar (e.g. for direct marketing purposes), to process your payments, to provide customer service or in order to conduct customer surveys or satisfaction surveys. These third party service providers may only process your Personal Data in accordance with our instructions. They are also liable to take technical and organisational security measures to protect your Personal Data to the same extent as Readly. 
-
-**Others**
-
-#### 5.6
-
-Readly may also disclose your Personal Data in circumstances other than those listed above if it is necessary in order to: (a) comply with applicable law and regulations and lawful regulatory requests or relevant orders from competent courts; (b) protect and defend our rights, our property or our interests, such as in a legal dispute; or (c) protect our customers and users.
-
-Additionally, we may transfer collected Personal Data to third parties in the event of a reorganization, merger or transfer of business. 
-
-#### 6\. CHILDREN 
-
-#### 6.1
-
-We do not deliberately collect Personal Data from children under the age of 18. If you are under 18 years old you must have your parents' guardians' consent in order to use the Service. If it comes to our knowledge that we have collected Personal Data from a child under the age of 18, without the parents' or guardians' consent, we will take measures to delete the collected Personal Data collected. 
-
-#### 7\. USE OF COOKIES AND OTHER TRACKING TECHNOLOGIES 
-
+|  _Performance of a contract._ The processing of your personal data is necessary in order to fulfill the terms for the Service.   
+**Storage Period:** Your personal data is stored for this purpose as long as your user account is active and for a period of 12 months thereafter in order to satisfy our legitimate interest of promoting the Service.   
   
-**What Are Cookies?**
+#### Communicate with You Regarding the Service
 
-#### 7.1
+We use your personal data to communicate with you regarding the Service, e.g. notify you of updates to the Service or to respond to questions that you may have regarding the Service. 
 
-We use so called cookies on our Website and in our Service. A cookie is a text file which is sent from a web server to your browser and stored on your computer, smart phone or tablet when you visit a web site. Cookies are used for example to show custom web pages to visitors or to collect statistics. If your web browser is set to accept cookies, the information will be stored on your device until the specified expiration date of respective cookie. Currently, our systems do not recognize browser “DO-NOT-TRACK” requests. You may, however, disable certain tracking as discussed in this section (e.g., by disabling cookies). 
+Personal Data | Legal Basis  
+---|---  
+  
+  * Account data
+  * Profile data
+  * Address data
+  * Communication
 
-**The Cookies That We Use**
+|  _Performance of a contract._ The processing of your personal data is necessary in order to fulfill the terms for the Service.   
+**Storage Period:** Your personal data is stored for this purpose as long as your user account is active.   
+  
+#### Communicate with You for Marketing Purposes
 
- _Strictly necessary cookies_
+We use your personal data to communicate with you for marketing and promotional purposes regarding offers from us and our business partners. 
 
-#### 7.2
+Personal Data | Legal Basis  
+---|---  
+  
+  * Account data
+  * Profile data
+  * Address data
+  * User generated data
+  * Technical data
 
-Some cookies are strictly necessary in order to enable you to move around the website and use its features. Without these cookies, we will not be able to determine the number of unique users of the site or provide certain features, such as automatic sign in to the Readly services. 
+|  _Legitimate interest._ The processing of your personal data is necessary in order to satisfy our and our business partners' legitimate interest of communicating with you for marketing and promotional purposes.   
+**Storage Period:** Your personal data is stored for this purpose as long as your user account is active and for a period of 12 months thereafter for the same purpose.   
+  
+#### Analyze the Use of the Service
 
-_Statistics_
+We use your personal data to analyze the use of the Service, e.g. to collect and analyze usage statistics of how the Service is used, including for example which magazines are read and favorited. We share this data on an aggregated level - thus in an anonymized way - with the publishers that we collaborate with. 
 
-#### 7.3
+Personal Data | Legal Basis  
+---|---  
+  
+  * Account data
+  * Profile data
+  * User generated data
+  * Technical data
 
-These cookies are used to measure and collect information regarding how the users use the Website and the Service. Readly uses this information to produce reports and in order to continuously improve and develop our Website and Service. For this purpose we use Google Analytics, a web analytics service. The information collected will be transmitted to Google for producing visitor reports and stored on Google's servers in the U.S. in accordance with Google Analytic's data privacy policy (https://support.google.com/analytics/answer/6004245?hl=en). Google may also transfer this information to third parties where required by law, or where such third parties process the information on Google's behalf. 
+|  _Legitimate interest._ The processing of your personal data is necessary in order to satisfy our legitimate interest of analyzing how the Service is used.   
+**Storage Period:** Your personal data is stored for this purpose as long your user account is active and for a period of 12 months thereafter in order to satisfy our legitimate interest of promoting the Service. Statistics and reports which do not include any personal data are stored until further notice or until deleted.   
+  
+#### Analyze the Use of our Website
 
-_Functional cookies_
+We use your personal data to analyze the use of our website, e.g. to collect visitor statistics. 
 
-#### 7.4
+Personal Data | Legal Basis  
+---|---  
+  
+  * Technical data
 
-These cookies allow us to customize the Website and the Service in accordance with your preferences, for example to remember your username or country of origin. 
+|  _Legitimate interest._ The processing of your personal data is necessary in order to satisfy our legitimate interest of analyzing how our website is used.   
+**Storage Period:** Your personal data is stored for a period of 1 month for this purpose. Statistics and reports which do not include any personal data are stored until further notice or until deleted.   
+  
+#### Ensure Technical Functionality and the Security of the Service
 
-#### 7.5
+We use your personal data to ensure the technical functionality and the security of the Service, e.g. security logging, error handling and backup of data. 
 
-Further technical information regarding the cookies that Readly use on the Website and in the Service is available on the following page (http://www.readly.com/cookie). 
+Personal Data | Legal Basis  
+---|---  
+  
+  * Account data
+  * Address data
+  * Profile data
+  * User generated data
+  * Technical data
+  * Mobile subscriber data
+  * Payment data
+  * Communication
 
-**Other similar technologies**
+|  _Legitimate interest._ The processing of your personal data is necessary in order to satisfy our legitimate interest of ensuring the technical functionality and the security of the Service.   
+**Storage Period:** Your personal data is stored for this purpose until your user account is deleted. Personal data in technical logs is stored for a period of 13 months from the date of the log event.   
+  
+#### Develop and Improve the Service
 
-#### 7.6
+It is our aim to give you the best digital reading experience possible. We therefore use your personal data to develop and improve the Service, e.g. to develop new features for the Readly application. 
 
-In addition, similar to cookies, we may use clear GIFs (a.k.a. web beacons, web bugs or pixel tags), in connection with our Website and Service to, among other things, track the activities of site visitors, help us manage content, and compile statistics about site usage. We and our third party service providers may also use clear GIFs in HTML e-mails to our customers, to help us track e-mail response rates, identify when our e-mails are viewed, and track whether our e-mails are forwarded. 
+Personal Data | Legal Basis  
+---|---  
+  
+  * Account data
+  * Profile data
+  * User generated data
+  * Technical data
+  * Mobile subscriber data
 
-**Tracking Across Third-Party Sites**
+|  _Legitimate interest._ The processing of your personal data is necessary in order to satisfy our legitimate interest of developing and improving the Service.   
+**Storage Period:** Your personal data is stored for this purpose for such period as is necessary in order to anonymize the data, test features or functionality and deploy patches and other bug fixes.   
+  
+#### Other Purposes
 
-#### 7.7
+We also use your personal data to:
 
-We do not track users across third-party websites or online services. We use, however, certain third-party analytics providers, such as Google Analytics, and these third parties may combine the information they have collected via our Website and Service with the information they have collected on other third party sites and services. However, we do not permit them to collect name, contact information or Personal Data from you on our Website or in the Service. 
+_Manage and Defend Legal Claims_
 
-**Consent to our use of cookies and similar technologies**
+If necessary we may use your personal data to manage and defend legal claims, e.g. in connection with a dispute or a court proceeding. For this purpose, we may share certain information with other parties, see below under section 4.2. 
 
-#### 7.8
+Personal Data | Legal Basis  
+---|---  
+  
+  * Account data
+  * Address data
+  * Profile data
+  * User generated data
+  * Technical data
+  * Mobile subscriber data
+  * Payment data
+  * Communication
 
-By visiting our Website and accessing the Service, you expressly give your consent to our use of cookies and similar technologies for the purposes described above. Should you not wish that cookies are stored on your computer, smart phone or tablet, you may change your browser settings to disable cookies. Please note, however, that if you choose to disable cookies some parts of the Website and/or the Service may not work properly or at all. 
+|  _Legitimate interest._ The processing of personal data is necessary in order to satisfy our legitimate interest of managing and defending legal claims.   
+**Storage Period:** Your personal data is stored for this purpose for such period as is necessary in order to manage or defend the legal claim.   
+  
+_Fulfill Legal Obligations_
 
-#### 8\. USE OF LINKS 
+Finally, we use your personal data to fulfil legal obligations that we have, e.g. accounting requirements or obligations under data protection laws. For this purpose, we may share your personal data with other parties, see below under section 4.2. 
 
-#### 8.1
+Personal Data | Legal Basis  
+---|---  
+  
+  * Account data
+  * Address data
+  * Profile data
+  * User generated data
+  * Technical data
+  * Mobile subscriber data
+  * Payment data
+  * Communication
 
-Note that our Website may include links to websites of third parties. Our Privacy Policy does not apply to these websites. We do not take any responsibility for how these websites handle your Personal Data. 
+|  _Legitimate interest._ The processing of personal data is necessary in order to fulfill legal obligations to which we are subject.   
+**Storage Period:** Your personal data is stored for such period as is necessary in order to fulfill respective legal obligation. Accounting information is retained for 7 years calculated after the end of the calendar year the relevant financial year ended.   
+  
+## 4\. SHARING OF PERSONAL DATA
 
-#### 9\. RETENTION OF PERSONAL DATA 
+Below we describe when the personal data that we have collected may be shared by you and us. 
 
-#### 9.1
+#### 4.1. Sharing by You
 
-Readly retains your Personal Data for the time necessary to fulfill any of the purposes of our processing of your Personal Data as outlined in this Privacy Policy or to comply with law, regulations, regulatory requests and relevant orders from competent courts. 
+The Service includes various social features which allow you to share content with others. For example you can share which magazines you read with others through the Service. 
 
-#### 10\. CONSENT TO TRANSFER PERSONAL DATA TO THIRD COUNTRIES 
+#### 4.2. Sharing by Us
 
-#### 10.1
+We share your information with certain recipients as explained below. The recipients are data controllers for their own use of your personal data unless we have stated otherwise. 
 
-In order to provide the Service and to fulfill the other purposes specified in this Privacy Policy, we may transfer and process your Personal Data in other countries, including countries outside the EU and EEA. By creating a User Account and using our Service, you expressly acknowledge and consent to this. 
+_Service Providers_
 
-#### 11\. ACCESS TO PERSONAL DATA 
+To provide the Service we use service providers. They provide for example IT services (e.g. hosting) and communication services (which allows us to send notifications and newsletters to you). Where a third party service provider processes personal data on our behalf they act as data processors and we are responsible for the use of your personal data. They may not use your personal data for their own purposes and they are obligated to protect your personal data. 
 
-#### 11.1
+_Publishers_
 
-You can edit some of the information we store about you under "My Account" in the Service. 
+The Service allows you to read magazines in a digital format. In order to provide the Service we collaborate with publishers that license this content to us. We share certain information with the publishers in order to allow them to analyze the readership of their magazines. For the same purpose the publishers may match the information that they receive with their own customer database. Please read the publisher's own privacy policy for information on how they use your personal data. 
 
-#### 11.2
+Personal Data | Legal Basis for the Transfer  
+---|---  
+  
+  * Account data (only name and physical address)
 
-You have the right to once a year, free of charge, request information of your Personal Data that is being processed by us by sending a written signed application to Readly please see section 14 below for contact details. Moreover, you have the right to request that Personal Data which has not been processed in accordance with the Swedish Personal Data Act shall be restricted, blocked or erased. 
+|  _Legitimate interest._ The transfer is necessary in order to satisfy our legitimate interest of fulfilling our contractual commitments with the publishers and the publishers' legitimate interest of analyzing the readership of their magazines.   
+  
+_Social Network Platforms_
 
-#### 11.3
+To promote the Service on social network platforms (e.g. Facebook), we share certain information with such social network platforms. 
 
-You may also at any time oppose to our further processing of your Personal Data for direct marketing purposes by notifying us via "My Account" on the Website 
+Personal Data | Legal Basis for the Transfer  
+---|---  
+  
+  * Profile data
 
-#### 12\. SPECIAL INFORMATION FOR CALIFORNIA (U.S.) CONSUMERS 
+|  _Legitimate interest._ The transfer is necessary in order to satisfy our legitimate interest of promoting the Service on social network platforms.   
+  
+_Payment Service Providers_
 
-#### 12.1
+We use payment service providers to process payments.
 
-California residents may request a list of certain third parties to which we have disclosed Personal Data about you for their own direct marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us on the contact details outlined in section 14 below. Please allow up to thirty (30) days for a response. 
+Personal Data | Legal Basis for the Transfer  
+---|---  
+  
+  * Account data
 
-#### 13\. CHANGES AND AMENDMENTS TO THE PRIVACY POLICY 
+|  _Performance of a contract._ The transfer is necessary in order to handle the payment for your paid subscription.   
+  
+_Business Partners_
 
-#### 13.1
+We collaborate with various business partners through which you can subscribe to the Service. In order to handle your subscription, we share certain information with the business partners. 
 
-Readly may amend or modify this Privacy Policy from time to time. If any substantial amendments are made to this Privacy Policy, we will notify you. Notification is sent to you, either in the Application and/or to the contact information provided by you when registering your User Account, at least thirty (30) days prior to the changes enter into effect. Upon any substantial changes to the Privacy Policy, you will be asked to accept the new terms and conditions the next time you log in to the Service. 
+Personal Data | Legal Basis for the Transfer  
+---|---  
+  
+  * Account data
+  * Address data
+  * Mobile subscriber data
 
-#### 14\. CONTACT US 
+|  _Performance of a contract._ The transfer is necessary in order to handle your subscription.   
+  
+_Other Sharing_
 
-#### 14.1
+In addition to the above, we may if necessary share your information with other recipients for the following purposes: 
 
-Readly is the controller of your Personal Data processed under this Privacy Policy, unless otherwise is stated. 
+  * to allow a merger or an acquisition
+  * to manage or defend a legal claim
+  * to respond to lawful requests from authorities according to mandatory applicable laws.
 
-#### 14.2
+Purpose | Legal Basis for the Transfer  
+---|---  
+  
+_Allow a merger or an acquisition_ 
+|  _Performance of a contract._ The transfer is necessary in order to satisfy our legitimate interest of allowing a merger or an acquisition of our business.   
+  
+_Manage or defend a legal claim_ 
+|  _Performance of a contract._ The transfer is necessary in order to satisfy our legitimate interest of managing or defending legal claims.   
+  
+_Respond to lawful requests_ 
+|  _Performance of a contract._ The transfer is necessary in order to fulfill legal obligations to which we are subject.   
+  
+## 5\. TRANSFER TO OTHER COUNTRIES
 
-If you have any questions or concerns about our processing of your Personal Data or in relation to this Privacy Policy, please contact us at the following address:
+We transfer and use the personal data that we collect in various countries in order to provide the Service. For example, we use service providers which are located in other countries outside your home country. Personal data collected within the European Union (EU) and the European Economic Area (EEA) will be transferred outside and used by our service providers outside the EU and EEA. In order to ensure that your personal data is always protected we ensure that there are adequate safeguards in place, e.g. data transfer agreements or, in case of transfer of personal data to the U.S., that the recipient is certified according to the _EU-U.S. Privacy Shield framework._ If you have questions regarding to which countries your personal data is transferred and which safeguards we take to protect your personal data, or to request a copy of such safeguards respectively information where they are available, please contact us at support@readly.com. 
 
-Readly AB  
-VAT No SE556921112001  
-Videum Science Park  
-351 96 Växjö, Sweden  
-E-mail: support@readly.com
+## 6\. SPECIAL INFORMATION FOR CALIFORNIA (U.S.) CONSUMERS
 
-_Updated: 2016-06-01_
+California residents may request a list of certain third parties to which we have disclosed personal data about you for their own direct marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us on the contact details outlined in section 11 below. Please allow up to thirty (30) days for a response. 
+
+## 7\. YOUR RIGHTS
+
+Under law you have certain rights in relation to the personal data that we collect about you. 
+
+You have the right to:
+
+#### Access Your Personal Data
+
+You have the right to request access your personal data and request a copy of your personal data that we store. You can view and download certain information that we store about you under "My account". 
+
+#### Update Your Personal Data
+
+You have the right to request that personal data that is incorrect or incomplete is corrected or completed. You can update certain information, e.g. contact information, in "My account". 
+
+#### Withdraw Consent
+
+If we rely on your consent to the use of your personal data you have the right to, at any time, withdraw your consent. 
+
+#### Delete Your Personal Data
+
+You can at any time unsubscribe from the Service and request that your account is deleted, please see our Terms and Conditions of Use. We will in such a case only keep your personal data if we are obligated to keep the data in order to fulfill legal obligations or to manage or defend legal claims. 
+
+#### Unsubscribe from Marketing Communication
+
+You have the right to at any time oppose to our use of your personal data for promotional and marketing purposes. You can opt-out from marketing communication by clicking on an unsubscribe link in the communication or by changing your notification settings in "My account". 
+
+#### Restrict the Use of Your Personal Data
+
+You have under certain circumstances the right to request that the use of your personal data is restricted. Please contact support@readly.com if you wish to exercise your right of restriction. If you have requested restriction of the use of your personal data, please note that we cannot provide the Service to you during the time that the use of your personal data is restricted. 
+
+#### Object to the Use of Your Personal Data
+
+Certain use of your personal data is based on our or others legitimate interest. You have the right to object to the use of your personal data based on a legitimate interest for reasons which concerns your particular situation. In such a situation, we will stop using your personal data where the use is based on a legitimate interest, unless we can show that the interest overrides your privacy interest or that the use of your personal data is necessary in order to manage or defend legal claims. 
+
+#### Transfer Your Personal Data (Data Portability)
+
+You have the right to obtain a copy of certain information that you have provided to us in a structured machine-readable format which allows you to transfer the data to another recipient. You can download your data in "My account". 
+
+## 8\. CHILDREN
+
+We do not knowingly collect information from children under the age of 18. If you are under 18 years old you must have your parents' guardians' consent in order to use the Service. If it comes to our knowledge that we have collected Personal Data from a child under the age of 18, without the parents' or guardians' consent, we will take appropriate measures to delete the personal data provided. If you are guardian of a parent and become aware that your child has provided personal data to us, please contact us at support@readly.com. 
+
+## 9\. COOKIES AND OTHER SIMILAR TECHNOLOGIES
+
+We use cookies on our website and in the Service. For further information on how we use cookies and other technologies, please see our Cookie Policy. https://readly.com/cookie
+
+## 10\. CHANGES TO THE PRIVACY POLICY
+
+We may occasionally update this Privacy Policy. For example we may decide to collect additional information or use for other purposes than those stated in the Privacy Policy. In such a case, we will notify you in advance in an appropriate way, e.g. by displaying a notice in the Service or by sending you an e-mail. 
+
+## 11\. IF YOU HAVE ANY QUESTIONS
+
+If you have any questions regarding this Privacy Policy, the Service or otherwise, please contact us at support@readly.com. 
+
+If you are not satisfied with our response, you have the right to lodge a complaint with your data protection authority. In Sweden, Readly is supervised by the Swedish data protection authority (Datainspektionen). 
+
+Readly AB   
+VAT No SE556921112001   
+Honnörsgatan 20   
+352 36 Växjö, Sweden 
+
+## 12\. CATEGORIES OF INFORMATION
+
+Please see the table below for further information on the categories of information that we use and store about you. 
+
+Category | Data  
+---|---  
+_Account data_ |  Account-ID, e-mail address, country, status, creation date, subscription type.   
+_Address data_ |  Name, address, zip, city, county, state, country   
+_Profile data_ |  Name, e-mail address, birth year (optional), gender (optional)   
+_Technical data_ |  IP address, application version, operating system, unique device ID   
+_Payment data_ |  Transaction date, amount, VAT, subscription period, payment method   
+_Mobile subscriber data_ |  Phone number   
+_User generated data_ |  Magazines read, favorites, bookmarks   
+_Communication_ |  Contents of your communication   
+  
+Thank you for using our Service! We hope you enjoy it!
