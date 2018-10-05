@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coinpot.co privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627122230id_/https%3A//coinpot.co/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coinpot.co privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005173254id_/https%3A//coinpot.co/privacy.htm) for the most accurate reproduction.*
 
 # 
 
