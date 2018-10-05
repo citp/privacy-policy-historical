@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the popville.com privacy policy that was archived on 2018-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180316034805id_/https%3A//www.popville.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popville.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005043923id_/https%3A//www.popville.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PoPville
+# PoPville » Privacy Policy
 
 Your privacy is important to us at Prince of Petworth, LLC (“we”, or “our”). Accordingly, we have established and implemented information handling practices for www.PoPville.com (the “Site”) that we believe are consistent with the highest standards and best practices of organizations doing business on the Internet. This Privacy Policy describes the practices that apply to the Site, including, specifically, the information we collect about you, when and how we collect that information and what may happen to that information. We have prepared this detailed Privacy Policy because we believe you should know as much as possible about our practices so that you can make informed decisions about how you use the Site. Capitalized terms in this Privacy Policy have the meaning ascribed to them in our [Terms of Use](https://www.popville.com/terms-of-use/).
 
