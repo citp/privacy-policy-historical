@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the satview.org privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529090121id_/http%3A//www.satview.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satview.org privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005052816id_/http%3A//www.satview.org/privacy.php) for the most accurate reproduction.*
 
 # SATVIEW - Real Time Satellite Tracking - See the International Space Station
 
@@ -9,6 +9,8 @@ The Privacy and Safety Policies were created to demonstrate the SATVIEW commitme
 
 This Privacy policy will be permanently available on our Site, always on the baseboard pages area.   
 
+
+Change privacy settings 
 
 **1)** The personal information supplied by the SATVIEW users is restricted to SATVIEW use. They are used with the main purpose of identifying the public user's profile, with the objective of personalizing the available services. 
 
