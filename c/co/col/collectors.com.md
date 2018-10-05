@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collectors.com privacy policy that was archived on 2017-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170301020607id_/https%3A//www.collectors.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collectors.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005143929id_/https%3A//www.collectors.com/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -34,7 +34,7 @@ Your data may be lost during transmission or may be accessed by unauthorized par
 
 ## _Additional Information_
 
-This Policy is part of the Terms of Use of the Website and any use of the Website is governed by those Terms of Use. Questions regarding this Policy or the practices of the Website should be directed to CU by emailing such questions to [customerservice@collectors.com](mailto://customerservice@collectors.com).
+This Policy is part of the Terms of Use of the Website and any use of the Website is governed by those Terms of Use. Questions regarding this Policy or the practices of the Website should be directed to CU by emailing such questions to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5877773b2d2b2c37353d2a2b3d2a2e313b3d183b3734343d3b2c372a2b763b3735).
 
 ## _Updates to our Privacy Policy_
 
