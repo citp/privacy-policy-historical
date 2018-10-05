@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the stuartweitzman.com privacy policy that was archived on 2018-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180224172403id_/https%3A//www.stuartweitzman.com/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuartweitzman.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005222005id_/https%3A//www.stuartweitzman.com/service/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Shop Stuart Weitzman
+
+###  PRIVACY POLICY
 
 Welcome to www.stuartweitzman.com ("the Site"), the United States online store of STUART WEITZMAN® , which is operated by Coach Services, Inc (Coach Services, Inc and its affiliates, including Coach Services, Inc are hereinafter collectively referred to as "Stuart Weitzman".)
 
