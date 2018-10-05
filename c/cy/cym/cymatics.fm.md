@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cymatics.fm privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623063331id_/http%3A//cymatics.fm/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cymatics.fm privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005223108id_/https%3A//cymatics.fm/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cymatics
 
