@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bicyclebluebook.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415110835id_/https%3A//www.bicyclebluebook.com/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bicyclebluebook.com privacy policy that was archived on 2018-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181006002035id_/https%3A//www.bicyclebluebook.com/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - Bicycle Values - BicycleBlueBook.com
 
