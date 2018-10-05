@@ -1,49 +1,119 @@
-> *The following text is extracted and transformed from the sparxsystems.com.au privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606070012id_/http%3A//www.sparxsystems.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparxsystems.com.au privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005150800id_/http%3A//www.sparxsystems.com.au/privacy.html) for the most accurate reproduction.*
 
-# Sparx Systems - Privacy Statement
+# Privacy Policy | Sparx Systems
 
-Your privacy is important to Sparx Systems (“Sparx”). This statement discloses the information practices for Sparx’s Web Sites (“Sites”), including what type of information is gathered and tracked, how the information is used, and with whom the information is shared. 
+At Sparx Systems Pty Ltd (Australian Business Number: 38 085 034 546) (defined here as 'We' or 'Our'), We value your comments, suggestions and feedback. Our Privacy Policy sets out how we collect, use and disclose "personal information" and other "non-personal information" we have gathered about you about you in relation to our software products Enterprise Architect" (all versions) All MDG Integrations, MDG Technologies and MDG Links", and the Pro Cloud Server (all versions) including WebEA, ("Software" which term includes the associated Website).  
+By using our Software, you acknowledge and consent to the terms of this privacy policy. 
 
-  
-Personal Information 
+This policy will let you know: 
 
-In general, you can visit Sparx on the Internet without telling us who you are and without giving any personal information about yourself. There are times, however, when we or our partners may need information from you. You may choose to give us personal information in a variety of situations. For example, you may want to give us information, such as your name and e-mail ID, to correspond with you, to process an order, or to provide you with a subscription. We intend to let you know how we will use such information before we collect it from you; if you tell us that you do not want us to use this information to make further contact with you beyond fulfilling your requests, we will respect your wishes. If you give us personal information about somebody else, such as a spouse or work colleague, we will assume that you have their permission to do so. 
+  * What information (often referred to as 'data') is collected from you;
+  * How your information is used;
+  * With whom your information may be shared;
+  * How you can access, update, or delete your information.
 
-We may collect information about your visit, including the pages you view, the links you click and other actions taken in connection with Sparx’s sites and services. We also collect certain standard information your browser sends to every site you visit, such as your IP address, browser type and language, access times and referring web site addresses. 
 
-  
-Use of Your Personal Information 
 
-Sparx collects and uses your personal information to operate and improve its Site and deliver the services or carry out the transactions you have requested. These uses may include providing you with more effective customer service, making the Site or services easier to use, performing research and analysis aimed at improving our products, services, and technologies. 
-
-  
-Sharing of Your Personal Information 
-
-Except as described in this statement, we will not disclose your personal information outside of Sparx without your consent. 
+We will comply with all relevant and applicable legislative requirements, and, in the event of any inconsistency, the legislative requirements will override the provisions of this document. 
 
   
-Disclosure Required by Law 
 
-Please be aware that in certain circumstances, it is possible that personal information may be subject to disclosure pursuant to judicial or other government subpoenas, warrants, or orders. 
+
+## What data do we collect?
+
+We collect data in the following ways: 
+
+  * Data collected automatically; and
+  * Data you provide us directly.
+
+
+
+### Data collected automatically
+
+Our Software does not collect any data automatically. However, the website for the Software does use Google Analytics which may collect certain non-personal data.   
+Details of that third-party service can be found below under 'Collection of Non-Personal Information' below. 
+
+### Data you provide us
+
+We collect and store your email when you sign up for our Software. We will also keep your contact details if you contact us for a particular purpose. 
 
   
-Sparx Systems Forums
 
-If you participate in Sparx Systems' Discussion Forum or the Sparx Systems Enterprise Architect Community Site ("community site"), you should be aware the information you provide there will be made broadly available to others, potentially inside or outside Sparx, who have access to that discussion forum, chat room or community site pages. Also, please recognize that individual forums and community site pages may have additional rules and conditions. Each participant's opinion on the forum or community site is his or her own and should not be considered as reflecting the opinion of Sparx. 
 
-  
-Cookies, Web Beacons, and Other Technologies 
+### What is Personal Information?
 
-We sometimes collect non-identifiable information from visits to our sites to help us provide better customer service. For example, we keep track of the domains from which people visit, and we also measure visitor activity on Sparx’s Site, but we do so in ways that keeps the information non-identifiable. When we collect personal data from you in a transaction, we may extract some information about that transaction in a non-identifiable format and combine it with other non-identifiable information such as clickstream data. This information is used and analyzed only at an aggregate level to help us understand trends and patterns. This information is not reviewed at an individual level. If you do not want your transaction details used in this manner you can disable your cookies. 
+'Personal Information' is information that identifies you as an individual. 
 
-We collect the information we mentioned through the use of various technologies, including one called "cookies". A cookie is a piece of data that a site can send to your browser, which may then be stored on your computer as an anonymous tag that identifies your computer, but not you. Some Sparx pages use cookies, sent by Sparx or its third party vendors, or other technologies to better serve you when you return to the Site. You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to turn off cookies. If you do so, however, some Sites may not work properly. 
+We do not collect this type of information unless you submit it to us directly. 
 
-  
-Links to Other Sites 
-
-Sparx’s Sites may contain links to other Sites. Sparx is not responsible for the privacy practices or the content of those other Sites. 
+If you contact us with a comment or query, We keep a copy of any personal information you provide. This is so that we can respond to your comments and questions as a part of our commitment to providing you with player support. If you contact us directly for any reason, we also keep a copy of that correspondence. 
 
   
-Contacting Us 
 
-Sparx welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please contact us on [support@sparxsystems.com](mailto:support@sparxsystems.com)
+
+### What is Sensitive Information?
+
+Sensitive information includes information about such things as an individual's racial or ethnic origin, political opinions, membership of a political association, religious or philosophical beliefs, membership of a professional body, criminal records or health information. 
+
+We will not attempt to obtain nor record any sensitive information. 
+
+  
+
+
+### Collection of other 'Non-Personal' Information
+
+Non-personal information is general, non-identifiable and anonymous information that is gathered for statistical, analytical and research purposes. Some non-personal information may be gathered while you use Our Software's website (found at [https://www.sparxsystems.com](https://www.sparxsystems.com/)). 
+
+Though we do not use cookies in order to track your movement around the web, Our website uses Google Analytics to help analyse how users use these sites. The tool uses cookies to collect Internet log information and general visitor behaviour information in an anonymous form. The information generated by the cookie about your use of the website, including your IP address, is transmitted to Google. This information is then used to evaluate use of our website and to compile statistical reports on website activity. 
+
+The Google Analytics privacy policy can be found here:   
+Google Analytics: <https://policies.google.com/privacy>
+
+  
+
+
+### Access to your data, and permanent deletion of your data
+
+We will retain your data only as necessary for our legitimate business interests, such as to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
+No matter how we come in contact with your data, you have the right to access the data We hold about you and to update and/or correct it, subject to certain exceptions. 
+
+Data Subject Requests
+
+In the event that you send a data subject request to Us, We will respond to that request in accordance with any applicable legislation. 
+
+If you wish to know what data we hold about you, if any, please make out your request to us in writing at the address listed below. Please be aware that in order to protect the information in Our database, We will require identification from you before releasing any information. 
+
+  
+
+
+### Disclosure, and Security of Your Information
+
+We will not sell, trade, rent or disclose any of the personal information you provide to us for any reason, without your prior consent. Otherwise, your Personal Information will only be disclosed where required or allowable by law. 
+
+Your Personal Information is stored offsite in a manner that reasonably protects it from misuse, loss, unauthorized access, modification or disclosure. 
+
+  
+
+
+### Policy Updates
+
+This Policy may change from time to time. The most current version of our Privacy Policy can be found at <https://sparxsystems.com/privacy.html> We will always keep this up to date so that you know what information we will collect from you, how we may use it, and when we may disclose it. 
+
+  
+
+
+### Complaints
+
+You can lodge a complaint with us about any breach of our Privacy Policy at the address below. 
+
+  
+
+
+### Privacy Policy Contact Information
+
+If you have any questions about our Privacy Policy, please contact us at: [sparx@sparxsystems.com](mailto:sparx@sparxsystems.com)
+
+Privacy policy last updated 25 May 2018 
+
+Sparx Systems Pty Ltd © 2000 - 2018 
