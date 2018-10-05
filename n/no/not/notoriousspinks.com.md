@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notoriousspinks.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129235131id_/http%3A//www.notoriousspinks.com/advertise/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notoriousspinks.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005023247id_/http%3A//www.notoriousspinks.com/advertise/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Notorious Spinks Talks
 
