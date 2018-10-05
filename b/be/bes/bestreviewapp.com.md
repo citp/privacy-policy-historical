@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestreviewapp.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605152647id_/http%3A//www.bestreviewapp.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestreviewapp.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005230855id_/http%3A//www.bestreviewapp.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Bestreviewapp
 
