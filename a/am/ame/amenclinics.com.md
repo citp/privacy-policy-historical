@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amenclinics.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625184108id_/http%3A//www.amenclinics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amenclinics.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005172503id_/https%3A//www.amenclinics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Amen Clinics
 
