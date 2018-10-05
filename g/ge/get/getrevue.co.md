@@ -1,83 +1,88 @@
-> *The following text is extracted and transformed from the getrevue.co privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512235013id_/https%3A//www.getrevue.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getrevue.co privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005192022id_/https%3A//www.getrevue.co/privacy) for the most accurate reproduction.*
 
-# Revue - Get your thoughts into people's inboxes
+# Revue - An editorial newsletter tool for writers and publishers.
 
-Revue Holding B.V. ("us", "we", or "our") operates the https://www.getrevue.co website and the Revue mobile application (the "Service").
+Revue Holding B.V. ("Revue"; "we"), situated in The Netherlands, provides services to our website visitors ("you"). Our services include activities relating to providing a tool that allows writers and publishers to create and send out newsletters, as well as other services ("the Services"). We process personal data during the undertaking of these Services.
 
-This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
+Revue deems careful handling of personal data to be paramount. Personal data is carefully processed and secured. When processing, we adhere to the requirements of the General Data Protection Regulation (the “Rules"). This Privacy Statement relates to personal information collected by, or under the control of Revue, in accordance with the Rules.
 
-We will not use or share your information with anyone except as described in this Privacy Policy.
+In this Privacy Statement, we summarise what personal data we collect and use and for what purpose. We advise you to read our Privacy Statement carefully. This Privacy Statement applies to our website, https://www.getrevue.co/; related sites; and communications.
 
-We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Service.
+You can find the privacy statement relating to the Revue platform [here](https://web.archive.org/privacy/platform).
 
-### Information Collection And Use
+_This Privacy Statement was last altered on the 24th May 2018._
 
-While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name, other information ("Personal Information").
+### Use of Personal Data
 
-### Log Data
+By using our Services, you may share your personal data with us. We exclusively collect and use the personal data that is directly provided by you, or your organisation. Revue will not use your personal data for other purposes than for which you, or your organisation, have given us permission beforehand.
 
-We may also collect information that your browser sends whenever you visit our Service or when you access the Service by or through a mobile device ("Log Data").
+### Types of Data Collected
 
-This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics. 
+When using our Services, we may collect the following Information about you:
 
-When you access the Service by or through a mobile device, this Log Data may include information such as the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use and other statistics.
+  * Personal identification data: name, surname;
+  * Contact information data: email;
+  * Other provided data: IP address, social media accounts, feedback and other communication.
 
-In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service's functionality. These third party service providers have their own privacy policies addressing how they use such information.
 
-### Cookies
 
-Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer's hard drive.
+### Purposes of Processing
 
-We use "cookies" to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+Personal data is generally processed by Revue for the following purposes:
 
-### Service Providers
+  * Logging in and verifying/authenticating users of the Service;
+  * Communication between Revue and website visitors;
+  * Monitoring and auditing the Service;
+  * Analysing statistics and optimising the Service.
 
-We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
 
-These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
-### Communications
+We collect your personal data based on legitimate business interests, or consent. If the processing is based on consent, it can be withdrawn at any time.
 
-We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send or by contacting us.
+### Data Storage 
 
-### Compliance With Laws
+In principle, we only keep your data for as long as necessary to fulfil the purposes described in this Privacy Statement, for which your data have been collected. As a general rule, we store the data our website visitors for 12 months.
 
-We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.
+### Your Rights
 
-### Business Transaction
+You have the right to request access to the information we have about you. You can do this by contacting us directly. We will make sure to provide you with a copy of the data we process about you in a machine-readable format. We may need to verify your identity to comply with your request.
 
-If Revue Holding B.V. is involved in a merger, acquisition or asset sale, your Personal Information may be transferred. We will provide notice before your Personal Information is transferred and becomes subject to a different Privacy Policy.
+If you believe that the information we have about you is incorrect, you can contact us, so we can update the information to ensure it is accurate. You also have the right to object to certain data processing operations, such as direct marketing. If at any point you wish for us to delete information about you, you can communicate it to us.
+
+You can contact us at any time with these requests and we will respond in a timely manner applicable with the Rules. If you are unsatisfied with the reply received from us, you may then refer your complaint to the relevant supervisory authority.
+
+### Provision to Third Parties
+
+Your personal data may sometimes be shared with third parties. In principle, we will not provide the data you have provided us to other parties if you have not given us permission to do so, unless this is required by the law.
+
+### Data Transfers
+
+For the fulfilment of the purposes mentioned in this Privacy Statement, your data may be transferred outside the European Economic Area. Whenever this is the case, we make sure that personal data is transferred in a secure manner. For transfers to the US, we ensure that the party is subject to the US-EU Privacy Shield Agreement. For other transfers, your data may be transferred to countries recognized by the European Commission as providing an adequate level of data protection.
+
+### Cookies and Analytics
+
+On our website, we make use of functional cookies. These cookies are saved for the duration of the (browser) session. Additionally, when you use our service, your IP address is automatically saved in the log files of our web server. This is necessary to allow us to properly manage and secure the Services. We do not use your IP address to follow and register your behaviour online. Normally, we are not able to link your IP address to your name, address or other identifying information, except when you actively provide us with such information and continue to make use of the same IP address. You can always refuse the cookies.
+
+User data that you provide may be kept for making statistical analyses, including via Google Analytics. These statistics are used to optimise our Services. Wherever possible, we make this data pseudonymized.
 
 ### Security
 
-The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+We take security measures in order to limit misuse of and unauthorised access to personal data. In particular, we take the following measures:
 
-### International Transfer
+  * Logical access control, use of passwords and possibly a second factor;
+  * Encryption of data;
+  * Pseudonymising data;
+  * Securing data during the exchange of it, making use of the HTTPS protocol;
+  * Purpose-bound access limitations;
+  * Control of acknowledged authorisations.
 
-Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
 
-If you are located outside Netherlands and choose to provide information to us, please note that we transfer the information, including Personal Information, to Netherlands and process it there.
 
-Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+### Third Party Websites
 
-### Links To Other Sites
+This statement does not apply to third party websites that are visited from our Service through links. We cannot guarantee that these third parties will handle your personal data safely and reliably. We advise you to read the Privacy Statements of these websites before making use of them.
 
-Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
-
-We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
-
-### Children's Privacy
-
-Our Service does not address anyone under the age of 13 ("Children").
-
-We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a children under age 13 without verification of parental consent, we take steps to remove that information from our servers.
-
-### Changes To This Privacy Policy
-
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
-
-You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
-
-### Contact Us
-
-If you have any questions about this Privacy Policy, please [contact us](mailto:support@getrevue.co).
+Revue Holding B.V.   
+Europalaan 500-unit O.2.3,   
+3526KS Utrecht,   
+The Netherlands 
