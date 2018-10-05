@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nbaa.org privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628233318id_/https%3A//www.nbaa.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbaa.org privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005204714id_/https%3A//www.nbaa.org/about/privacy) for the most accurate reproduction.*
 
 # NBAA Website Privacy Policy | NBAA - National Business Aviation Association
 
-Updated May 1, 2013
+Updated July 11, 2018
 
 The National Business Aviation Association, Inc. (NBAA) respects the privacy of its Members and other visitors to its website, NBAA.org. NBAA is committed to maintaining your privacy and providing you with options regarding the use of your Personal Information. This Privacy Policy describes NBAA's current association policy on how we use Personal Information that is provided to NBAA through NBAA.org. 
 
@@ -61,17 +61,11 @@ NBAA also makes available on NBAA.org limited Personal Information from those in
 
 ### NBAA Event Rosters
 
-NBAA may provide attendee rosters for NBAA Events to other attendees, NBAA Committees and event sponsors. Rosters may include names, job titles, mailing addresses and telephone numbers. **Email addresses are not included on attendee rosters.**
+With your permission, NBAA may include your Personal Information on attendee rosters for NBAA Events that are distributed to other attendees, members of NBAA committees and event sponsors. Rosters may include names, job titles, company names and mailing addresses. **Phone numbers and email addresses are not included on attendee rosters.**
 
 ### NBAA Air Mail
 
 Individuals at NBAA Member companies may choose to participate in Air Mail, NBAA's series of web-based forums and email discussion lists. By posting to Air Mail, either by email or through NBAA.org, Air Mail participants will share their name and email address with other participants via Air Mail Listserv, and with non-participating NBAA Members through the web-based Air Mail Forums. If you do not want to share this information, you should not participate in Air Mail. Air Mail participants must follow the [Air Mail rules](http://www.nbaa.org/airmail/rules/). To benefit all NBAA Members, Members violating these rules may be unsubscribed from Air Mail by NBAA at any time.
-
-### Member Mailing List Rental
-
-NBAA Members tend to turn to fellow Members for the vendors and suppliers they need to make their businesses and flight operations more successful. To help facilitate that process, NBAA makes its Membership mailing list available for rental. For more information, visit the [NBAA Member Mailing List Rental page](http://www.nbaa.org/about/advertising/mailing-lists/). Personal Information included in such lists may include name, mailing address, and telephone number. **Email addresses will not be included on rented Membership mailing lists.**
-
-Individuals may choose to have their information excluded from these lists provided to third parties by updating their Communications Preferences in [My NBAA Profile](http://www.nbaa.org/mynbaa) or by contacting NBAA Member Services at [membership@nbaa.org](mailto:membership@nbaa.org) or (202) 783-9000.
 
 ### Credit Card Account Information
 
