@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashioncraft.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603104820id_/http%3A//www.fashioncraft.com/mm5/merchant.mvc%3FScreen%3DPRPO) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashioncraft.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005225733id_/https%3A//www.fashioncraft.com/mm5/merchant.mvc%3FScreen%3DPRPO) for the most accurate reproduction.*
 
 # Fashioncraft Privacy Policy
 
