@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novartis.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624071615id_/https%3A//www.novartis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novartis.com privacy policy that was archived on 2018-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181006011337id_/https%3A//www.novartis.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Novartis
 
@@ -22,7 +22,7 @@ To be legally effective, the BCR have to be approved by EEA Data Protection Agen
 
 ## 3\. Contact us
 
-If you wish to contact us regarding our use of your personal data or you wish to exercise your data privacy rights, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#73141f1c11121f5d03011a0512100a2c1c15151a1016331d1c051201071a005d101c1e4c000611191610074e3712071256414323011a0512100a5641431a1d02061a010a5641435b1d1c051201071a005d101c1e5a). If you contact us, please include the following information in your email, so that we may efficiently respond to your request and so that we may identify you and the subject of your request:
+If you wish to contact us regarding our use of your personal data or you wish to exercise your data privacy rights, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#89eee5e6ebe8e5a7f9fbe0ffe8eaf0d6e6efefe0eaecc9e7e6ffe8fbfde0faa7eae6e4b6fafcebe3eceafdb4cde8fde8acbbb9d9fbe0ffe8eaf0acbbb9e0e7f8fce0fbf0acbbb9a1e7e6ffe8fbfde0faa7eae6e4a0). If you contact us, please include the following information in your email, so that we may efficiently respond to your request and so that we may identify you and the subject of your request:
 
   * the name of the website your inquiry is referring to;
   * your relationship and/or interactions with us (as applicable); and
