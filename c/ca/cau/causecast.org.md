@@ -1,66 +1,135 @@
-> *The following text is extracted and transformed from the causecast.org privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210165003id_/https%3A//www.causecast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the causecast.org privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005154711id_/https%3A//www.causecast.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Causecast Corporation ( **“we”** or **“Causecast”** ) know that you care how information about you is used and shared and we appreciate your trust that we will do so carefully and sensibly. By using the service operated by us and offered through the website located at [http://www.causecast.org](http://www.causecast.org/ "http://www.causecast.org") (the **“Causecast Site”** ), you accept and agree to the practices described in this Privacy Policy. This Privacy Policy describes how we collect, use, and share information collected on the Causecast Site and through the Causecast online services (collectively, the **“Causecast Platform”** ). We provide this Privacy Policy to help you make an informed decision about whether to use or continue using the Causecast Platform. The Causecast Platform enables you to to learn about non-profit organizations ( **“Non-Profits”** ), volunteer with and donate money to them, create fundraising events, and interact with other users on the Causecast Platform (collectively, **“Activities”** ).
+PRIVACY POLICY
 
-This Privacy Policy is incorporated into and is subject to the [Causecast Customer Terms of Use](https://web.archive.org/web/20170210165003id_/https%3A//www.causecast.com/terms#employer) and [Participant Terms of Use](https://web.archive.org/terms#employee). Your use of the Causecast Platform and any personal information you provide on the Causecast Platform are subject to the terms of this Privacy Policy and the applicable Terms of Use.
+**Effective June 1, 2018.**
 
-  1. **Information Collected By Causecast**
+Causecast Corporation (“we,” “us”) respects the sensitive nature of any personal information provided by you as employer on behalf of yourself and your employees (“you”).  We have created this Privacy Policy to demonstrate our commitment to the privacy of those who visit our websites (“Sites”) [[https://www.causecast.com/](https://www.causecast.com/), [https://www.causecastfornonprofits.com/](https://www.causecastfornonprofits.com/), [https://analytics.causecast.com/](https://analytics.causecast.com/) ] and use our services through our workplace volunteering and giving software solutions.  (Our Sites, software and services are referred to in this Privacy Policy as our “Services”.)  This Privacy Policy describes our information collection, storage and disclosure practices and the choices you have regarding how your personal information is collected and used by us and third parties who assist us in providing Services.  
 
-    1. User Provided Information: You may provide to Causecast certain information by which someone could personally identify you, such as your name, email, unique username, or the fundraising activities you organize ( **“Personally Identifiable Information”** ), as well as information about yourself, such as the volunteer activities in which you participate, the donations you make to Non-Profits, or your location, or zip code, by which someone could not personally identify you ( **“Non-Personally Identifiable Information”** ) when participating in Activities on the Causecast Platform. We will refer to Personally Identifiable Information and Non-Personally Identifiable Information collectively as **“Personal Data”**.
-    2. Usage Data: As described in this section, we automatically collect certain information when you use the Causecast Platform ( **“Usage Data”** ). Usage Data includes the information that your web browser automatically sends to our servers whenever you visit. The Usage Data collected in our server logs may include information such as your donation history, sign-ups to participate in volunteer events, web request, Internet Protocol address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser. We send the cookies to your browser when you visit the Causecast Site. You can reset your web browser to refuse all cookies; however, some features of the Causecast Platform may not function properly if the ability to accept cookies is disabled. In addition, the Causecast Platform may use third party analytic software (for example, Google Analytics) which is used to collect further Usage Data regarding the online usage patterns of our users. We may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients. We may combine Usage Data with Personal Data in a manner that enables us to trace Usage Data to an individual user.
-  2. **The Way Causecast Uses Information**
+Residents of the European Economic Area (“EEA”), which includes the member states of the European Union (“EU”), should consult the sections of this policy relating to the “Rights of EEA Residents” and “International Data Transfers” for provisions that may apply to them.
 
-    1. We may use your Personal Data and Usage Data (together, **“User Information”** ) to operate, maintain, and provide to you the features and functionality of the Causecast Platform and for its related business purposes.
-    2. We do not use your email address or other Personally Identifiable Information to send you marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Causecast Site changes or for customer service purposes).
-    3. We use your User Information to (i) improve the quality and design of the Causecast Platform and to create new features, promotions, functionality, and services by storing, tracking, and analyzing user preferences and trends; (ii) remember information so that you will not have to re-enter it during your visit or the next time you visit the Causecast Platform; (iii) provide custom, personalized content, information, and advertisements; (iv) monitor the effectiveness of the Causecast Platform’s features and offerings; (v) monitor aggregate metrics, such as total number of visitors, pages viewed, etc.; (vi) track the donations you make, the volunteer activities for which you sign up, fundraising events you create, and other uses of the Causecast Platform; and (vii) for our other legitimate legal, business, and commercial reasons.
-  3. **Information That Causecast May Disclose**
+We reserve the right to change this Privacy Policy at any time.  In the event we make changes to this Privacy Policy, such policy will be re-posted in the “Privacy” section of our websites (“Sites”) with the date such modifications were made indicated on the top of the page or we may contact you to inform you about the revisions with a link to the revised Privacy Policy.  All changes are effective on the date listed at the top of this page and will apply to all information that we have about you.  Your continued use of the Site or the Services after any change is posted indicates your acceptance of the changes and your continued consent to our processing of your personal data.  If at any point you do not agree to any portion of the Privacy Policy then in effect you should immediately stop using the Services.  You may also unsubscribe or opt-out from certain communications by following the procedures set forth in this Privacy Policy, including the section below on “Notifications and Communications from Our Websites/Opt-Out Rights.” 
 
-    1. You may, by using applicable sections of the Causecast Platform (including sections which enable you to donate to Non-Profits, sign up to participate in volunteer events, or create fundraising events), share your User Information, including Personally Identifiable Information, with Non-Profits, your employer, and other third parties (collectively, **“Partners”** ), and other users. Such parties will be able to see your User Information and the Activities in which you participate.
-    2. At your request, we may provide User Information to Partners that (i) provide services to you to as part of your use of the Causecast Platform (for example, parties; or (ii) integrate with or provide links to certain third party Internet sites and services (for example, a Non-Profit’s website). Any information you provide to Partners is provided directly to that third party and is subject to that Partner’s policies, if any, governing privacy and security. We are not responsible for the content or privacy and security practices and policies of the Partners. We encourage you to learn about our Partners’ privacy and security policies before providing them with information.
-    3. We may share Non-Personally Identifiable Information and Usage Data (such as anonymous user usage data, referring /exit pages and URLs, platform types, number of clicks, etc.) with (i) your employer to assist them in understanding employee usage patterns of the Causecast Platform and participation in Activities; (ii) certain third-parties to assist such third parties in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Causecast Platform, and, with respect to aggregated Non-Personally Identifiable Information and Usage Data, for commercial purposes.
-    4. We may release any User Information: (i) if required to do so by law, in the good-faith belief that such action is in compliance with state and federal laws (including, without limitation, copyright laws), or in response to a court order, subpoena, legal process, or search warrant; (ii) if we believe in good faith such action is appropriate or necessary to enforce our applicable Terms of Use, exercise our legal rights, take precautions against liability, to investigate and defend ourselves against any claims or allegations, to assist government enforcement agencies, to protect the security or integrity of the Causecast Platform, or to protect the rights, property, or personal safety of Causecast, our users, or others; (iii) to our parent company, affiliated entities, joint ventures, or other entities controlled by, controlling, or under common control with us (in which case we will require such entities to honor this Privacy Policy); or (iv) as otherwise described herein.
-  4. **Your Choices**
+Because this Privacy Policy contains legal obligations we encourage you to review this Privacy Policy carefully.  If you have any questions concerning this Privacy Policy or our information collection, storage and disclosure practices, please contact us at support@causecast.org or mail us at Causecast, 321 North Pass Ave., #183, Burbank, CA 91505.
 
-    1. You may, of course, decline to submit Personally Identifiable Information through the Causecast Platform, in which case Causecast may not be able to provide certain services to you. You may also hide your personal profile information from colleagues and update or correct your personal profile information and email preferences at any time by visiting your account profile page.
-    2. Please feel free to contact us with any questions or comments about this Privacy Policy, your personal information, your consent, or your opt-in or opt-out choices using the contact information in Section 11 below.
-  5. **Our Commitment To Data Security**
+**Information We Collect**
 
-Causecast uses physical, managerial, and technical safeguards to preserve the integrity and security of your User Information. Such safeguards include requesting a unique password to verify your identity before granting access to your account profile page. We cannot, however, ensure or warrant the security of User Information you transmit to Causecast and you do so at your own risk. You are responsible for maintaining the secrecy of your unique password and account information at all times. Once we receive your User Information, Causecast makes commercially reasonable efforts to ensure the security of our systems, but please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+We may collect personal data about you when you visit the Site or avail yourself of our Services.  “Personal Data” is information that may be used to directly or indirectly identify you, including your name, e-mail address, phone number or other information about you that you provide through our Services. The majority of such Personal Data is collected when you register for or use our Services.  Some of the Personal Data that we collect is required if you wish to partake in the Services that we provide. We may combine the Personal Data that we obtain about you for our e-mail lists to obtain information about our Services. 
 
-  6. **Children's Privacy**
+In general, the type of Personal Data we collect includes, but is not limited to:
 
-Causecast does not knowingly collect or maintain Personal Data on or through the Causecast Platform from persons under 18 years of age, and no part of the Causecast Platform is directed to persons under 18. If you are under 18 years of age, then please do not use or access the Causecast Platform at any time or in any manner. If we learn that Personal Data of persons under 18 years of age has been collected on the Causecast Platform, we will take the appropriate steps to delete this information from our systems. If you are a parent or guardian and discover that your child under 18 years of age has provided Personal Data to us, then you may alert us at [privacy@causecast.org](mailto:privacy@causecast.org) and request that we delete your child’s Personal Data from our systems.
-
-  7. **Special Note to International Users**
-
-The Causecast Platform is hosted in the United States and is intended for and directed to users in the United States. If you are accessing the Causecast Platform from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure that differ from United States laws, please be advised that your continued use of the Causecast Platform will be governed by United States law, this Privacy Policy, and our applicable Terms of Use. Information about you that we collect or that you submit may be transferred to, processed in, and held in countries other than the one in which you reside, including countries such as the United States which the European Union has deemed do not provide “adequate” protection for personal information.
-
-  8. **In the Event of Merger, Sale, or Bankruptcy**
-
-In the event that we are acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our users in preparation for or as part of such merger, acquisition, sale, assignment, assumption, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your User Information is treated, transferred, or used, and you consent to the transfer of your User Information to any third party successors or assigns.
-
-  9. **Changes and Updates to this Privacy Policy**
-
-This Privacy Policy may be revised periodically and this will be reflected in the “date last modified” set forth in Section 10 below. Your continued use of the Causecast Platform constitutes your agreement to the revised Privacy Policy.
-
-  10. **Date Last Modified**
-
-This Privacy Policy was last modified October 18, 2011.
-
-  11. **Questions, Disputes and Contact Information**
-
-If you wish to access, modify, or have any dispute regarding your User Information, please contact us with any questions, comments, or concerns via email at [privacy@causecast.org](mailto:privacy@causecast.org) or via mail at:
-
-     Causecast Corporation  
-     ATTN: Privacy Agent  
-     8800 Venice Blvd.  
-     Suite 217  
-     Los Angeles, CA 90034  
-     email: [privacy@causecast.org](mailto:privacy@causecast.org)  
-     Telephone: 310.558.7080  
-     Fax: 310.564.0475
+  * Personal Data to contact you, including through e-mail notifications;
+  * Personal Data necessary to register you to use the Services, including information that you provide on your behalf or on behalf or your employees;
+  * Un-identifiable or aggregated Personal Data pertaining to your Site visits that help us maintain the appropriate features, functionality and user experience
 
 
 
+**Personal Data**
+
+You provide Personal Data to use the Services.  We use this data to: 
+
+  * Create and manage your account;
+  * Process and report on your volunteering, donating and/or other charitable activities;
+  * Provide account assistance to you or your employer;
+  * To prepare reports or documents including tax receipts, year-end statements reflecting your contributions to charity;
+  * To communicate with you about your donation and volunteering activity, and your use of our Services;
+  * To provide nonprofit organizations information about your volunteering, donating (if you choose to share such information), and/or other charitable activities;
+  * For other purposes for which you consent when registering for and using our Services.
+
+
+
+We may also use your Personal Data to: (i) add you to our e-mail lists; (ii) guard against potential fraud; (iii) contact you; (iv) provide answers to your inquiries or questions; and (v) maintain regular communication with you as may be necessary to inform you of information about our Services.
+
+**Non-Identifiable Data and Aggregated Personal Data**
+
+Regardless of whether you join our mailing list or submit information to us, we and third parties performing services for us may send one or more "cookies" to your computer when you visit the Sites.  Cookies are small text files placed on your web browser when you visit our Site that store information on your computer, such as your Site preferences.  We use cookies when you sign in to keep track of your personal session.  We also use cookies to track your activity on the Site as a unique person.  For security purposes, all of this information is stored in encrypted form. 
+
+You can set your web browser to inform you when cookies are set, or to prevent cookies from being set altogether.  Please note, however, that if you decline to use cookies, you may experience reduced functionality and slower site response times.  
+
+We or our service providers may also collect web surfing data related to your use of the Site.  Such information may include: your Internet Protocol (IP) address, browser type, and internet service provider (ISP); your operating system; which of our web pages you access and how frequently you access them; referral or exit pages; click stream data; and the dates and times that you visit the Site.  This data may be collected using cookies, web beacons, page tags or similar tools.  As with cookies, the web surfing information is anonymous, "click stream" transactional data that is not associated with any users as individuals.
+
+Web surfing data and similar information may be aggregated for administrative purposes.  We may, for example, use this aggregated information in the administration of the Site to improve its usability and to evaluate the success of marketing and advertising campaigns, search engine optimization strategies, operation and effectiveness of pages on our website, and other marketing activities.  We also use it to help optimize the Site based on the needs of our users.
+
+**How and When Your Information Is Shared With Other Parties**
+
+With your consent, we provide your chosen non-profit organizations with information about your donating and volunteering activity.
+
+We work with a number of trusted partners who may perform vital functions as part of our operations.  For example, we utilize third-party providers to process volunteering activities for registration and reporting processing. We do not share your Personal Data unless it is necessary to fulfill our responsibilities, including providing information or Services to you.  
+
+**Social Networks**
+
+Our Sites may offer features that will allow you to share information from our Sites to a Social Network or share information from our Social Network sites.   If you decide to use such features, they may allow the sharing and collection of information both to and from such Social Network so you should check the privacy policy of each Social Network before using such features.
+
+**Additional Sharing of Information**
+
+We may engage third parties to help us carry out certain other internal functions such as account and payment processing, client services, or other data collection relevant to our business.  For example, we utilize third-party providers to manage credit card and payment processing. Personal Data is shared with these third parties only to the extent necessary for us to process the transactions you initiate or perform other specific services.  Our partners are legally required to keep your Personal Data private and secure.
+
+We may share your Personal Data with law enforcement or other government agencies as required by law or for the purposes of limiting fraud. We reserve the right to disclose your Personal Data when we believe that disclosure is necessary to protect our rights or to comply with a judicial proceeding, court order or legal process. We further reserve the right to disclose any of your Personal Data that we believe, in good faith, appropriate or necessary to take precautions against liability, to investigate and defend against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of the Site or our services, or to protect our rights, property or the personal safety of Causecast, its users, issuers, or others.
+
+We will not share your Personal Data if such sharing is prohibited by applicable privacy and data protection law, including, without limitation, the EEA’s General Data Protection Regulation effective May 25, 2018.
+
+**EEA Residents**
+
+This section of the Privacy Policy is applicable to residents of the European Economic Area (“EEA”).  The EEA consists of the member states of the European Union, i.e., Austria, Belgium, Bulgaria, Croatia, Republic of Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and the United Kingdom, and Iceland, Liechtenstein, and Norway.  This section also applies to residents of Switzerland and, in the event of its departure from the EU, residents of the United Kingdom. Residents of the EEA and Switzerland are referred to here as “EEA Residents.”
+
+From May 25, 2018, all processing of Personal Data of EEA Residents is performed by [Name] in accordance with the General Data Protection Regulation (2016/679) of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons regarding the processing of Personal Data and on the free movement of such data (“GDPR”).
+
+Under the GDPR, we are both the controller and a co-processor of the Personal Data of EEA Residents.  Our purpose for collecting and processing Personal Data from EEA Residents is to allow you to use and customize our Services, including directing your volunteering and charitable activities to the non-profit organizations of your choice.   The legal basis for collecting Personal Data is to fulfill these purposes and our agreement with you or your employer to provide a platform for facilitating volunteering and charitable activities. We also rely on your consent to obtain Services from us, including providing Personal Data to non-profit organizations of your choice.  You may withdraw consent from sharing your information with non-profit organizations by contacting us at support@causecast.org. If EEA Residents do not provide Personal Data to us or withdraw consent for processing such Personal Data, we may not be able to provide such residents with all or any of the Services, including facilitating your volunteering and charitable activities.
+
+EEA Residents may obtain information about the Personal Data that we hold about them by contacting us at support@causecast.org.
+
+**International Data Transfers**
+
+If you are resident outside the United States, including in the EEA, we transfer Personal Data provided to you for processing in the United States.  Under the GDPR, we are considered a “controller” and a “co-processor” of the Personal Data of EEA Residents. By providing Personal Data to us for the purpose of obtaining Services, you consent to the processing of such data in the United States.  The transfer of your Personal Data to the United States is necessary for the performance of a contract between you and us for obtaining Services.
+
+Please note that the United States does not have data protection laws equivalent to those in the EEA and other jurisdictions. 
+
+**Notifications and Communications from Our Website/Opt-Out Rights**
+
+**Communications Regarding Our Services**
+
+We will send you email notifications and free newsletters from time to time.  Some notifications are communications relating to us and our Services.  You may “opt-out” from receiving such communications by following the “Unsubscribe” instructions provided in the e-mail. 
+
+**Legal or Security Communications**
+
+We also send out notices that are required for legal or security purposes.  For example, certain notifications are sent for your own protection.  In other cases, these notifications involve changes to various legal agreements, such as the Privacy Policy or Terms of Service.  Generally, you may not opt out of such emails.
+
+**Account and Order Communications**
+
+If you use our Services, we may send you confirmations of the registration and updates as to the status of your participation.  Generally, you may not opt out of such emails.
+
+**Deleting Your Information**
+
+If you want us to delete your Personal Data and your account, please contact us at support@causecast.org with your request.  We will take steps to delete your information as soon as we can, but some information may remain in archived/backup copies for our records or as otherwise required by law.
+
+**Links to Other Sites**
+
+If you follow any links that direct you away from the Site, including links to sites offering events or providing information, among others, this Privacy Policy will not apply to your activity on the other Sites you visit. We do not control the privacy policies or the privacy practices of any third parties. 
+
+**Security Policy**
+
+We limit access to the Personal Data we have about you to those employees who have a legitimate business need to access such information.  We take commercially reasonable steps to protect our customers’ Personal Data against unauthorized disclosure or loss.  However, no data transmission over the Internet can be guaranteed to be 100% secure.  Therefore, while we strive to protect user information we cannot ensure or warrant the security of any information you transmit to us or from the Site.  You engage in such transmissions at your risk.
+
+If you believe your Personal Data is being improperly used by us or any third party, please immediately notify us via email at support@causecast.org _.  _
+
+**Children Under 13**
+
+Our Sites are restricted to the use of adults over the age of majority in their place of residence.  No portion of the Sites is directed to children under the age of 13.  Consequently, we do not knowingly collect personal identifying information from any person we know is a child under the age of 13.
+
+**Do Not Track**
+
+Although some browsers currently offer a “do not track (‘DNT’) option,” no common industry standard for DNT exists.  We therefore do not currently commit to responding to browsers’ DNT signals.
+
+**Your California Privacy Rights**
+
+Under certain circumstances, California Civil Code Section 1798.83 states that, upon receipt of a request by a California customer, a business may be required to provide information regarding how that business has shared personal information of customers with third parties for direct marketing purposes.  If you have any questions regarding the disclosure of your personal information to third parties, please contact us at support@causecast.org.
+
+**Your Rights and Obligations**    
+  
+We ask that you keep the Personal Data that you provide to us current and that you correct any information you have provided us by contacting us at support@causecast.org _.  _ You represent and warrant that all Personal Data you provide us is true and correct and relates to you and not to any other person.   
+  
+If you are a resident of the EEA and wish to access or correct the Personal Data that Causecast has about you or have any questions relating to the processing of your Personal Data, please contact us at support@causecast.org _  _with the subject line “GDPR Data.”    
+  
+If you use the Site, you are responsible for maintaining the confidentiality of your account and for restricting access to your computer or device, and you agree to accept responsibility for all activities that occur under your account. 
