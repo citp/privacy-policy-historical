@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lizlockard.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521000308id_/http%3A//www.lizlockard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lizlockard.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005044954id_/http%3A//www.lizlockard.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Liz Lockard Marketing Consulting
 
