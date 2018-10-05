@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ducttapemarketing.com privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311114143id_/https%3A//www.ducttapemarketing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ducttapemarketing.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005033933id_/https%3A//www.ducttapemarketing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Duct Tape Marketing
 
-**Last updated: December 15, 2015**
+**Last updated: September 15, 2018**
 
 Duct Tape Marketing (“us”, “we”, or “our”) operates the https://www.ducttapemarketing.com website (the “Service”).
 
